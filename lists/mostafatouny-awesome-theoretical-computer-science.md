@@ -185,7 +185,7 @@ The interdisciplinary of Mathematics and Computer Science; It is distinguished b
 ### Lecture Notes<a name=programming_language_theory_type_theory_lecture_notes></a>
 - [Martin-Löf. Intuitionistic Type Theory](https://raw.githubusercontent.com/michaelt/martin-lof/master/pdfs/Bibliopolis-Book-retypeset-1984.pdf) - Notes by Giovanni Sambin of a series of type theory lectures given in Padua, June 1980.
 ### Books<a name=programming_language_theory_type_theory_books></a>
-- [Bengt. Programming in Martin-Löf's Type Theory](https://www.cse.chalmers.se/research/group/logic/book/book.pdf) - This book describes different type theories (theories of types, polymorphic and monomorphic sets, and subsets) from a computing science perspective.
+- [Bengt. Programming in Martin-L��f's Type Theory](https://www.cse.chalmers.se/research/group/logic/book/book.pdf) - This book describes different type theories (theories of types, polymorphic and monomorphic sets, and subsets) from a computing science perspective.
 - [The Univalent Foundations Program Institute for Advanced Study. Homotopy Type Theory: Univalent Foundations of Mathematics](https://homotopytypetheory.org/book) - The present book is intended as a first systematic exposition of the basics of univalent foundations, and a collection of examples of this new style of reasoning — but without requiring the reader to know or learn any formal logic, or to use any computer proof assistant.
 ## Functional Programming<a name=programming_language_theory_functional_programming></a>
 ### Lecture Notes<a name=programming_language_theory_functional_programming_lecture_notes></a>
