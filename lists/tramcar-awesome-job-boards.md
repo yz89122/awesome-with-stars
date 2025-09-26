@@ -17,6 +17,7 @@ A curated list of awesome niche job boards.
 - [Open Source](#opensource)
 - [Programming](#programming)
 - [Remote](#remote)
+- [Quantum Computing)(#quantum-computing)
 - [Tech](#tech)
 - [Writing](#writing)
 - [Various](#various)
@@ -27,6 +28,7 @@ A curated list of awesome niche job boards.
 * [AI Jobs](https://aijobs.app) – Jobs in Artificial Intelligence (AI)
 * [AI/ML Jobs](https://www.aimljobs.fyi) - Jobs at Top AI Companies and Startups, Updated Daily!
 * [AI Jobster](https://aijobster.work/) - Jobs from leading AI companies, across all group.
+* [ExploreJobs.ai](https://explorejobs.ai) - Find engineering, product, and research roles at the top AI startups.
 
 ## Big Data
 
@@ -63,6 +65,7 @@ A curated list of awesome niche job boards.
 * [UX Jobs Board](https://www.uxjobsboard.com)
 * [UI & UX Designer Jobs](https://uiuxdesignerjobs.com/) | Hand-picked UI, UX & UXR Jobs
 * [UI/UX Jobs Board](https://uiuxjobsboard.com/)
+* [CreativeFuego Jobs](https://creativefuego.com/jobs) | Curated Design and Creative Jobs
 
 ## DevOps
 
@@ -94,6 +97,7 @@ A curated list of awesome niche job boards.
 
 * [findwork.dev](https://findwork.dev/)
 * [Levels.fyi](https://www.levels.fyi/jobs)
+* [GrepJob.com](https://grepjob.com/) - Software Engineering jobs scraped from established company career pages
 
 ### Clojure
 
@@ -123,6 +127,7 @@ A curated list of awesome niche job boards.
 ### Mobile
 
 * [androiddev.careers](https://androiddev.careers/) – Job board for Android developers
+* [Mobile Career](https://mobile.career/) - Job board for mobile developers. iOS. Android. Flutter. React Native...
 
 ### Perl
 
@@ -153,9 +158,6 @@ A curated list of awesome niche job boards.
 ### Scala
 * [Scala Jobs](https://scalajobs.com)
 
-### TypeScript
-* [TypeScript Jobs](https://typescriptjobs.dev)
-
 ## Remote
 
 * [100% Work From Anywhere jobs](https://www.realworkfromanywhere.com/) - Fully remote jobs to live and work from anywhere
@@ -168,6 +170,10 @@ A curated list of awesome niche job boards.
 * [Teletravail.guru](https://teletravail.guru/) - Remote jobs for people located in France
 * [Devremote](https://devremote.io/) - Remote developer jobs at remote first companies
 * [RemoteFR](https://remotefr.com/) - Full Remote jobs for French people 
+
+## Quantum Computing
+
+* [qubitsok.com](https://qubitsok.com/) - A job board specialized in Quantum Computing with personalized job alerts
 
 ### Aggregator
 
@@ -189,6 +195,7 @@ A curated list of awesome niche job boards.
 
 * [Relocate.me](https://relocate.me/) - Verified relocation packages
 * [Christian Tech Jobs](https://www.christiantechjobs.io/) - Tech jobs at Christian companies
+* [EmbeddedJobs](https://embedded.jobs) - A niche job board exclusively for Embedded Systems engineers and developers.
 * [foo🦍](https://foorilla.com) - The go-to, no-nonsense, fast and lean career platform for all things coding, data and tech
 
 ### Canada
