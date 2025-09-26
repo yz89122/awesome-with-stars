@@ -1596,6 +1596,7 @@ _LocalStorage etc._
 - [pinia-persistedstate-2 ![GitHub Repo Stars](https://img.shields.io/github/stars/iendeavor/pinia-plugin-persistedstate-2) ![GitHub last commit](https://img.shields.io/github/last-commit/iendeavor/pinia-plugin-persistedstate-2)](https://github.com/iendeavor/pinia-plugin-persistedstate-2) - Persist and rehydrate your Pinia state between page reloads.
 - [@tauri-store/pinia ![GitHub Repo Stars](https://img.shields.io/github/stars/ferreira-tb/tauri-store) ![GitHub last commit](https://img.shields.io/github/last-commit/ferreira-tb/tauri-store)](https://github.com/ferreira-tb/tauri-store/tree/main/packages/plugin-pinia) - Persistent Pinia stores for Tauri.
 - [pinia-plugin-unstorage ![GitHub Repo Stars](https://img.shields.io/github/stars/litingyes/pinia-plugin-unstorage) ![GitHub last commit](https://img.shields.io/github/last-commit/litingyes/pinia-plugin-unstorage)](https://github.com/litingyes/pinia-plugin-unstorage) - The best persistence plugin with unjs/unstorage for pinia.
+- [@erlihs/pinia-plugin-storage ![GitHub Repo Stars](https://img.shields.io/github/stars/erlihs/pinia-plugin-storage) ![GitHub last commit](https://img.shields.io/github/last-commit/erlihs/pinia-plugin-storage)](https://github.com/erlihs/pinia-plugin-storage) - A comprehensive state persistence and synchronization, yet as simple as it can be.
 
 ##### Authentication/Authorization
 
