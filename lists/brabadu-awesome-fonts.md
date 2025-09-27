@@ -155,7 +155,7 @@ A curated list of fonts and typography resources.
 * [Iconic Fonts ![GitHub Repo Stars](https://img.shields.io/github/stars/iconicFonts/if) ![GitHub last commit](https://img.shields.io/github/last-commit/iconicFonts/if)](https://github.com/iconicFonts/if) - Over 50 Patched Fonts with 60,000+ Icons for Terminal, Window Managers, and More!
 
 #### Programming fonts with ligatures
-* [Cascadia Code ![GitHub Repo Stars](https://img.shields.io/github/stars/microsoft/cascadia-code) ![GitHub last commit](https://img.shields.io/github/last-commit/microsoft/cascadia-code)](https://github.com/microsoft/cascadia-code) - Monospaced font by Miscrosoft designed to enhance the modern look and feel of the Windows Terminal
+* [Cascadia Code ![GitHub Repo Stars](https://img.shields.io/github/stars/microsoft/cascadia-code) ![GitHub last commit](https://img.shields.io/github/last-commit/microsoft/cascadia-code)](https://github.com/microsoft/cascadia-code) - Monospaced font by Microsoft designed to enhance the modern look and feel of the Windows Terminal
 * [FiraCode ![GitHub Repo Stars](https://img.shields.io/github/stars/tonsky/FiraCode) ![GitHub last commit](https://img.shields.io/github/last-commit/tonsky/FiraCode)](https://github.com/tonsky/FiraCode) - Monospaced font with programming ligatures
 * [Fixedsys Excelsior ![GitHub Repo Stars](https://img.shields.io/github/stars/kika/fixedsys) ![GitHub last commit](https://img.shields.io/github/last-commit/kika/fixedsys)](https://github.com/kika/fixedsys)
 * [Hasklig ![GitHub Repo Stars](https://img.shields.io/github/stars/i-tu/Hasklig) ![GitHub last commit](https://img.shields.io/github/last-commit/i-tu/Hasklig)](https://github.com/i-tu/Hasklig)
