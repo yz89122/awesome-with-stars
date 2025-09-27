@@ -194,6 +194,7 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 - [Floating-Navigation-View ![GitHub Repo Stars](https://img.shields.io/github/stars/andremion/Floating-Navigation-View) ![GitHub last commit](https://img.shields.io/github/last-commit/andremion/Floating-Navigation-View)](https://github.com/andremion/Floating-Navigation-View) - A simple Floating Action Button that shows an anchored Navigation View.
 
 #### Animations
+- [SmoothMotion ![GitHub Repo Stars](https://img.shields.io/github/stars/abdullahalhakimi/SmoothMotion) ![GitHub last commit](https://img.shields.io/github/last-commit/abdullahalhakimi/SmoothMotion)](https://github.com/abdullahalhakimi/SmoothMotion) -  Kotlin library for simplifying animations and transitions in Jetpack Compose.
 - [Rebound ![GitHub Repo Stars](https://img.shields.io/github/stars/facebook/rebound) ![GitHub last commit](https://img.shields.io/github/last-commit/facebook/rebound)](https://github.com/facebook/rebound) - Rebound is a Java library that models spring dynamics.
 - [Android View Animations ![GitHub Repo Stars](https://img.shields.io/github/stars/daimajia/AndroidViewAnimations) ![GitHub last commit](https://img.shields.io/github/last-commit/daimajia/AndroidViewAnimations)](https://github.com/daimajia/AndroidViewAnimations) - Cute view animation collection.
 - [Android-Transition ![GitHub Repo Stars](https://img.shields.io/github/stars/kaichunlin/android-transition) ![GitHub last commit](https://img.shields.io/github/last-commit/kaichunlin/android-transition)](https://github.com/kaichunlin/android-transition) - Allows the easy creation of view transitions that react to user inputs.
@@ -287,6 +288,7 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 - [Bugfender ![GitHub Repo Stars](https://img.shields.io/github/stars/bugfender/BugfenderSDK-android-sample) ![GitHub last commit](https://img.shields.io/github/last-commit/bugfender/BugfenderSDK-android-sample)](https://github.com/bugfender/BugfenderSDK-android-sample) - Upload your logs and check them online, specially made for mobile
 - [EzyLogger ![GitHub Repo Stars](https://img.shields.io/github/stars/afiqiqmal/EzyLogger) ![GitHub last commit](https://img.shields.io/github/last-commit/afiqiqmal/EzyLogger)](https://github.com/afiqiqmal/EzyLogger) - Simple Lightweight logger
 - [Logback Android ![GitHub Repo Stars](https://img.shields.io/github/stars/tony19/logback-android) ![GitHub last commit](https://img.shields.io/github/last-commit/tony19/logback-android)](https://github.com/tony19/logback-android) - Logback port to Android which provides a highly configurable logging framework for Android apps.
+- [LogDog](https://log.dog) - LogDog is a remote debugging/logging sdk (iOS and Android) with a web ui. Captures all logs and requests in real-time and allows to intercept them. 
 
 ### Notifications
 - [android-remote-notifications ![GitHub Repo Stars](https://img.shields.io/github/stars/kaiwinter/android-remote-notifications) ![GitHub last commit](https://img.shields.io/github/last-commit/kaiwinter/android-remote-notifications)](https://github.com/kaiwinter/android-remote-notifications) - Pulls notifications from a remote JSON file and shows them in your app.
@@ -417,6 +419,7 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 
 ### Other
 
+- [Licensee ![GitHub Repo Stars](https://img.shields.io/github/stars/cashapp/licensee) ![GitHub last commit](https://img.shields.io/github/last-commit/cashapp/licensee)](https://github.com/cashapp/licensee) - Licensee is a Gradle plugin which validates the licenses of your dependency graph match what you expect, or it fails your build!
 - [Android Support library](https://developer.android.com/topic/libraries/support-library/) - The Android Support Library package is a set of code libraries that provide backward-compatible versions of Android framework API.
 - [Google Play Services](https://developers.google.com/android/guides/overview) - Library to access Google services, such as account syncing, Google+ (sharing, single sign-on), Google Maps, Location APIs, Google Play Games, Cloud Messaging, Android Device Manager, and others.
 - [Tape ![GitHub Repo Stars](https://img.shields.io/github/stars/square/tape) ![GitHub last commit](https://img.shields.io/github/last-commit/square/tape)](https://github.com/square/tape) - A lightning fast, transactional, file-based FIFO for Android and Java.
