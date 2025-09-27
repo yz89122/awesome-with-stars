@@ -56,6 +56,7 @@ All resources are freely available except those with a 💲 icon.
         * [Measure Theory](#measure-theory)
         * [Ordinary Differential Equations](#ordinary-differential-equations)
         * [Partial Differential Equations](#partial-differential-equations)
+        * [Chaos Theory](#chaos-theory)
     * [Probability and Statistics](#probability-and-statistics)
         * [Probability Theory](#probability-theory)
         * [Statistics](#statistics)
@@ -453,7 +454,7 @@ All resources are freely available except those with a 💲 icon.
 * 📝 [Real Analysis](http://math.harvard.edu/~ctm/papers/home/text/class/harvard/212a/course/course.pdf) - C. McMullen
 * 📝 [Real Analysis for Graduate Students](http://bass.math.uconn.edu/3rd.pdf) - Richard F. Bass
 * 📝 [Modern Real Analysis](http://www.math.purdue.edu/~torres/pubs/Modern-real-analysis.pdf) - William P. Ziemer (Indiana University)
-* ���� [Mathematical Analysis Vol I](http://www.trillia.com/zakon-analysisI.html) - Elias Zakon
+* 📝 [Mathematical Analysis Vol I](http://www.trillia.com/zakon-analysisI.html) - Elias Zakon
 * 📝 [Mathematical Analysis Vol II](http://www.trillia.com/zakon-analysisII.html) - Elias Zakon
 * 📝 [Advanced Calculus](http://www.math.harvard.edu/~shlomo/docs/Advanced_Calculus.pdf) - Lynn Loomis, Schlomo Sternberg
 * 📝 [ Analysis of Functions of a Single Variable](http://spot.colorado.edu/~baggett/analysis.html) - Lawerence Baggett
@@ -531,6 +532,11 @@ All resources are freely available except those with a 💲 icon.
 * 📝 [Notes on Partial Differential Equations](https://www.math.ucdavis.edu/~hunter/pdes/pde_notes.pdf) - John K. Hunter (University of California at Davis)
 * 📝 [Partial Differential Equations: Lecture Notes](http://www.math.uni-leipzig.de/~miersemann/pdebook.pdf) - Erich Miersemann (Leipzig University)
 * 📝 [Linear Methods of Applied Mathematics](http://www.mathphysics.com/pde/) - E. Harrell, J. Herod (Georgia Tech)
+
+### Chaos Theory
+
+* 📝 [Chaos: Making a New Science](https://archive.org/details/chaosmakingnewsc0000unse) - James Gleick
+* 📝 [Complexity: A Guided Tour](https://archive.org/details/complexityguided0000mitc?utm_source=chatgpt.com) - Melanie Mitchell (Oxford University)
 
 
 ## Probability and Statistics
