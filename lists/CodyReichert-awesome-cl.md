@@ -2348,7 +2348,7 @@ The rules we (try to) respect are the followings:
   library's documentation. We do *not* aim at listing every existing
   CL library (see Cliki for that) nor to list every
   "popular" library (see Quicklisp stats).
-- as such, the libraries we like best are marked with a �� (`1F44D`
+- as such, the libraries we like best are marked with a 👍 (`1F44D`
   unicode character). See also the signs' explanation in the
   introduction.
 
