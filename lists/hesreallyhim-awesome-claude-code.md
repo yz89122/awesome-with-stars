@@ -595,7 +595,7 @@ A community-driven leaderboard tool that enables developers to visualize, track,
 </details>
 
 <details open>
-<summary><h3>Orchestrators <a href="#awesome-claude-code">🔝</a></h3></summary>
+<summary><h3>Orchestrators <a href="#awesome-claude-code">��</a></h3></summary>
 
 [`Claude Code Flow` ![GitHub Repo Stars](https://img.shields.io/github/stars/ruvnet/claude-code-flow) ![GitHub last commit](https://img.shields.io/github/last-commit/ruvnet/claude-code-flow)](https://github.com/ruvnet/claude-code-flow) &nbsp; by &nbsp; [ruvnet](https://github.com/ruvnet)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
 This mode serves as a code-first orchestration layer, enabling Claude to write, edit, test, and optimize code autonomously across recursive agent cycles.
