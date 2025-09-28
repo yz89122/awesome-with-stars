@@ -58,6 +58,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
   * [Internationalization](#internationalization)
   * [Performance](#performance)
   * [SEO](#seo)
+  * [Styling](#styling)
 * [Security and Authentication](#security-and-authentication)
   * [Authentication](#authentication)
   * [Payments](#payments)
@@ -170,7 +171,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [Official website](https://angular.dev/tools/cli)
 * [Official GitHub repository ![GitHub Repo Stars](https://img.shields.io/github/stars/angular/angular-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/angular/angular-cli)](https://github.com/angular/angular-cli)
 * [angular-cli-diff ![GitHub Repo Stars](https://img.shields.io/github/stars/cexbrayat/angular-cli-diff) ![GitHub last commit](https://img.shields.io/github/last-commit/cexbrayat/angular-cli-diff)](https://github.com/cexbrayat/angular-cli-diff) - Easily upgrade your Angular CLI applications from one version to another 🚀.
-* [angular-cli-ssr-diff ![GitHub Repo Stars](https://img.shields.io/github/stars/cexbrayat/angular-cli-ssr-diff) ![GitHub last commit](https://img.shields.io/github/last-commit/cexbrayat/angular-cli-ssr-diff)](https://github.com/cexbrayat/angular-cli-ssr-diff) - Easily upgrade your Angular CLI SSR applications from one version to another ����.
+* [angular-cli-ssr-diff ![GitHub Repo Stars](https://img.shields.io/github/stars/cexbrayat/angular-cli-ssr-diff) ![GitHub last commit](https://img.shields.io/github/last-commit/cexbrayat/angular-cli-ssr-diff)](https://github.com/cexbrayat/angular-cli-ssr-diff) - Easily upgrade your Angular CLI SSR applications from one version to another 🚀.
 * [angular-codx-recipe](https://www.npmjs.com/package/angular-codx-recipe) -  A [Codx ![GitHub Repo Stars](https://img.shields.io/github/stars/marmotz-dev/codx) ![GitHub last commit](https://img.shields.io/github/last-commit/marmotz-dev/codx)](https://github.com/marmotz-dev/codx) recipe for setting up Angular projects quickly and efficiently.
 * [angular-parallel-test-runner ![GitHub Repo Stars](https://img.shields.io/github/stars/mahdi-hajian/angular-parallel-test-runner) ![GitHub last commit](https://img.shields.io/github/last-commit/mahdi-hajian/angular-parallel-test-runner)](https://github.com/mahdi-hajian/angular-parallel-test-runner) - A command-line tool designed to run Angular tests in parallel across multiple projects. It utilizes the concurrency capabilities of your machine, maximizing the efficiency of running tests by leveraging multiple CPU cores.
 * [angular-serve-and-run ![GitHub Repo Stars](https://img.shields.io/github/stars/dot-build/angular-serve-and-run) ![GitHub last commit](https://img.shields.io/github/last-commit/dot-build/angular-serve-and-run)](https://github.com/dot-build/angular-serve-and-run) - Serve your Angular CLI project then run a command on top of it.
@@ -194,6 +195,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-crafter ![GitHub Repo Stars](https://img.shields.io/github/stars/ErwanHeschung/ngx-crafter) ![GitHub last commit](https://img.shields.io/github/last-commit/ErwanHeschung/ngx-crafter)](https://github.com/ErwanHeschung/ngx-crafter) - A powerful CLI tool that helps you craft Angular projects with pre-configured folder structures and essential packages.
 * [angular-v20-bulk-file-refactor ![GitHub Repo Stars](https://img.shields.io/github/stars/esteecodes/angular-v20-bulk-file-refactor) ![GitHub last commit](https://img.shields.io/github/last-commit/esteecodes/angular-v20-bulk-file-refactor)](https://github.com/esteecodes/angular-v20-bulk-file-refactor) - A CLI tool to automate file renaming and content refactoring to match Angular 20 conventions.
 * [ng new command generator](https://ng.gridatek.com/) - Generate optimized `ng new` commands.
+* [tailwind-init-cli ![GitHub Repo Stars](https://img.shields.io/github/stars/ImLeoNova/tailwind-init-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/ImLeoNova/tailwind-init-cli)](https://github.com/ImLeoNova/tailwind-init-cli) - A one-command setup tool for Tailwind CSS in Angular, React, or Next.js projects!
 
 ### Deployment
 
@@ -233,6 +235,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-update-app ![GitHub Repo Stars](https://img.shields.io/github/stars/Celtian/ngx-update-app) ![GitHub last commit](https://img.shields.io/github/last-commit/Celtian/ngx-update-app)](https://github.com/Celtian/ngx-update-app) - Angular directive for updating app via service workers.
 * [Angular Caniuse](https://www.dolmen.tools/en/angular/caniuse/explorer) - Track Angular features from preview to stable stages.
 * [ngx-boomer ![GitHub Repo Stars](https://img.shields.io/github/stars/angular-sanctuary/ngx-boomer) ![GitHub last commit](https://img.shields.io/github/last-commit/angular-sanctuary/ngx-boomer)](https://github.com/angular-sanctuary/ngx-boomer) - This project is a straightforward utility designed to enforce rules that preserve Angular's previous naming conventions in Angular 20.
+* [angular-updater ![GitHub Repo Stars](https://img.shields.io/github/stars/stardyn/angular-updater) ![GitHub last commit](https://img.shields.io/github/last-commit/stardyn/angular-updater)](https://github.com/stardyn/angular-updater) - A flexible and lightweight solution for managing version control and update alerts in Angular apps, featuring seamless integration with service workers.
 
 ## Angular Pulse
 
@@ -818,6 +821,13 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [Angular React SEO ![GitHub Repo Stars](https://img.shields.io/github/stars/ganatan/angular-react-seo) ![GitHub last commit](https://img.shields.io/github/last-commit/ganatan/angular-react-seo)](https://github.com/ganatan/angular-react-seo) - Angular & React Examples SEO (Search engine optimization).
 * [unhead](https://www.npmjs.com/package/@unhead/angular) - Full-stack `<head>` management for Angular applications.
 * [seo-manager-pro ![GitHub Repo Stars](https://img.shields.io/github/stars/mbsh-code/seo-manager-pro) ![GitHub last commit](https://img.shields.io/github/last-commit/mbsh-code/seo-manager-pro)](https://github.com/mbsh-code/seo-manager-pro) - A powerful SEO Manager for Angular, React, Vue, and Vanilla JS projects. Easily set meta tags, Open Graph tags, Schema.org structured data, canonical URLs, robots meta, and more!
+
+### Styling
+
+* [Angular-Material-Tailwind-Integration ![GitHub Repo Stars](https://img.shields.io/github/stars/adandedjanstephane-git/Angular-Material-Tailwind-Integration) ![GitHub last commit](https://img.shields.io/github/last-commit/adandedjanstephane-git/Angular-Material-Tailwind-Integration)](https://github.com/adandedjanstephane-git/Angular-Material-Tailwind-Integration) - A stable, themeable set of CSS custom properties mapping Material Design System tokens to Tailwind CSS utility classes.
+* [element-identifier ![GitHub Repo Stars](https://img.shields.io/github/stars/jooherrera/element-identifier) ![GitHub last commit](https://img.shields.io/github/last-commit/jooherrera/element-identifier)](https://github.com/jooherrera/element-identifier) - Create reliable, distinct CSS selectors to target DOM elements, and utilize a web component for visual inspection and selection.
+* [ngx-classed ![GitHub Repo Stars](https://img.shields.io/github/stars/lukonik/ngx-classed) ![GitHub last commit](https://img.shields.io/github/last-commit/lukonik/ngx-classed)](https://github.com/lukonik/ngx-classed) - A library allows you to dynamically add or remove classes based on state.
+* [panda ![GitHub Repo Stars](https://img.shields.io/github/stars/chakra-ui/panda) ![GitHub last commit](https://img.shields.io/github/last-commit/chakra-ui/panda)](https://github.com/chakra-ui/panda) - Easily use Panda, CSS-in-JS Framework, with Angular with its dedicated [integration](https://panda-css.com/docs/docs/installation/angular).
 
 ## Security and Authentication
 
