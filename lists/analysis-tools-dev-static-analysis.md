@@ -564,7 +564,7 @@ By default, govulncheck makes requests to the Go vulnerability database at https
 
 - [nakedret ![GitHub Repo Stars](https://img.shields.io/github/stars/alexkohler/nakedret) ![GitHub last commit](https://img.shields.io/github/last-commit/alexkohler/nakedret)](https://github.com/alexkohler/nakedret) — Finds naked returns.
 
-- [nargs ![GitHub Repo Stars](https://img.shields.io/github/stars/alexkohler/nargs) ![GitHub last commit](https://img.shields.io/github/last-commit/alexkohler/nargs)](https://github.com/alexkohler/nargs) �� Finds unused arguments in function declarations.
+- [nargs ![GitHub Repo Stars](https://img.shields.io/github/stars/alexkohler/nargs) ![GitHub last commit](https://img.shields.io/github/last-commit/alexkohler/nargs)](https://github.com/alexkohler/nargs) — Finds unused arguments in function declarations.
 
 - [OSV-Scanner](https://osv.dev/) — Vulnerability scanner written in Go which uses the data provided by OSV.dev. Developed by Google to scan dependencies across multiple languages and package managers for known vulnerabilities. Supports container scanning, license scanning, and guided remediation. Works with lockfiles, SBOMs, and container images to identify security issues.
 
@@ -1850,7 +1850,7 @@ Loading address: binbloom can parse a raw binary firmware and determine its load
 
 - [kics](https://kics.io/) — Find security vulnerabilities, compliance issues, and infrastructure misconfigurations in your infrastructure-as-code. Supports Terraform, Kubernetes, Docker, AWS CloudFormation and Ansible
 
-- [krane ![GitHub Repo Stars](https://img.shields.io/github/stars/appvia/krane) ![GitHub last commit](https://img.shields.io/github/last-commit/appvia/krane)](https://github.com/appvia/krane) — Krane is a simple Kubernetes RBAC static analysis tool.
+- [krane ![GitHub Repo Stars](https://img.shields.io/github/stars/appvia/krane) ![GitHub last commit](https://img.shields.io/github/last-commit/appvia/krane)](https://github.com/appvia/krane) ��� Krane is a simple Kubernetes RBAC static analysis tool.
 It identifies potential security risks in K8s RBAC design and makes suggestions on how to mitigate them. Krane dashboard presents current RBAC security posture and lets you navigate through its definition.
 
 - [OpenSCAP](https://www.open-scap.org/) — Suite of automated audit tools to examine the configuration and  known vulnerabilities following the NIST-certified Security  Content Automation Protocol (SCAP).
