@@ -201,7 +201,7 @@ _Info on topics necessary for designing and developing game engines._
     - 🌎 [WebGPU Demos](https://webkit.org/demos/webgpu/) - Collection of simple WebGPU examples by _Apple_.
 - Pipeline: GPGPU
     - 🌎 [CUDA](https://developer.nvidia.com/cuda-zone) - Developed by _NVIDIA_ for parallel computing and programming.
-    - ���� [DirectCompute](https://en.wikipedia.org/wiki/DirectCompute) - Developed by _Microsoft_ for using compute shaders with DirectX 10 & 11.
+    - 📚 [DirectCompute](https://en.wikipedia.org/wiki/DirectCompute) - Developed by _Microsoft_ for using compute shaders with DirectX 10 & 11.
     - 🌎 [OpenCL](https://www.khronos.org/opencl/) - For writing programs that execute across CPUs, GPUs, and other processors.
 - Platform: XNA
     - 📚 [RB Whitaker's Wiki](http://rbwhitaker.wikidot.com/) - Tutorials on C#, MonoGame, XNA, and more.
@@ -724,7 +724,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [3DreamEngine ![GitHub Repo Stars](https://img.shields.io/github/stars/3dreamengine/3DreamEngine) ![GitHub last commit](https://img.shields.io/github/last-commit/3dreamengine/3DreamEngine)](https://github.com/3dreamengine/3DreamEngine) - 3D engine on top of _LÖVE_.
     - 🎉 [Gideros ![GitHub Repo Stars](https://img.shields.io/github/stars/gideros/gideros) ![GitHub last commit](https://img.shields.io/github/last-commit/gideros/gideros)](https://github.com/gideros/gideros) - 2D/3D cross-platform games with Lua. [[Website](http://giderosmobile.com/)]
     - 🎉 [INSTEAD ![GitHub Repo Stars](https://img.shields.io/github/stars/instead-hub/instead) ![GitHub last commit](https://img.shields.io/github/last-commit/instead-hub/instead)](https://github.com/instead-hub/instead) - Simple Text Adventure Interpreter.
-    - 🎉 [LÖVE ![GitHub Repo Stars](https://img.shields.io/github/stars/love2d/love) ![GitHub last commit](https://img.shields.io/github/last-commit/love2d/love)](https://github.com/love2d/love) - 2D framework for writing game code with Lua. [[Awesome ![GitHub Repo Stars](https://img.shields.io/github/stars/love2d-community/awesome-love2d) ![GitHub last commit](https://img.shields.io/github/last-commit/love2d-community/awesome-love2d)](https://github.com/love2d-community/awesome-love2d) | [Website](https://love2d.org)]
+    - ��� [LÖVE ![GitHub Repo Stars](https://img.shields.io/github/stars/love2d/love) ![GitHub last commit](https://img.shields.io/github/last-commit/love2d/love)](https://github.com/love2d/love) - 2D framework for writing game code with Lua. [[Awesome ![GitHub Repo Stars](https://img.shields.io/github/stars/love2d-community/awesome-love2d) ![GitHub last commit](https://img.shields.io/github/last-commit/love2d-community/awesome-love2d)](https://github.com/love2d-community/awesome-love2d) | [Website](https://love2d.org)]
 
 ### Java
 - 📚 [Awesome Java ![GitHub Repo Stars](https://img.shields.io/github/stars/akullpp/awesome-java) ![GitHub last commit](https://img.shields.io/github/last-commit/akullpp/awesome-java)](https://github.com/akullpp/awesome-java) - Awesome frameworks, libraries and software for Java.
