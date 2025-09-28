@@ -468,7 +468,7 @@ See also: cl-duckdb for fast parsing, [lisp-stat's data-frames `read-csv`](https
 JSON
 ----
 
-* 👍 [jzon ![GitHub Repo Stars](https://img.shields.io/github/stars/Zulu-Inuoe/jzon) ![GitHub last commit](https://img.shields.io/github/last-commit/Zulu-Inuoe/jzon)](https://github.com/Zulu-Inuoe/jzon/) - a correct, safe and fast JSON parser. [MIT][200].
+* �� [jzon ![GitHub Repo Stars](https://img.shields.io/github/stars/Zulu-Inuoe/jzon) ![GitHub last commit](https://img.shields.io/github/last-commit/Zulu-Inuoe/jzon)](https://github.com/Zulu-Inuoe/jzon/) - a correct, safe and fast JSON parser. [MIT][200].
   * jzon is the only CL JSON library which correctly declines all invalid inputs per the official JSON test suite and accepts all valid inputs per that suite.
   * it doesn't crash on invalid input (jsown), doesn't choke on large datasets (Jonathan), and more.
   * v1.0 released in the Quicklisp dist of February, 2023.
