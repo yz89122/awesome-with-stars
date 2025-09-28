@@ -451,7 +451,7 @@ Development environments for coding agents. Enable multiple agents to work safel
 A self-contained Docker runner that forwards your current workspace into a safe(r) isolated docker container, where you still have access to your Claude Code settings, authentication, ssh agent, pgp, optionally aws keys etc.
 
 <details>
-<summary>📊 GitHub Stats</summary>
+<summary>���� GitHub Stats</summary>
 
 ![GitHub Stats for run-claude-docker](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=run-claude-docker&username=icanhasjonas&all_stats=true&stats_only=true)
 
@@ -1407,7 +1407,7 @@ Delivers comprehensive Gradle commands for cross-platform Kotlin Multiplatform d
 <br>
 
 [`EDSL` ![GitHub Repo Stars](https://img.shields.io/github/stars/hesreallyhim/awesome-claude-code) ![GitHub last commit](https://img.shields.io/github/last-commit/hesreallyhim/awesome-claude-code)](https://github.com/hesreallyhim/awesome-claude-code/blob/main/resources/claude.md-files/EDSL/CLAUDE.md) &nbsp; by &nbsp; [expectedparrot](https://github.com/expectedparrot)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
-Offers detailed build and test commands with strict code style enforcement, comprehensive testing requirements, and standardized development workflow using Black and mypy.*
+Offers detailed build and test commands with strict code style enforcement, comprehensive testing requirements, and standardized development workflow using Black and mypy.*  
 <sub>* Removed from origin</sub>
 
 [`Giselle` ![GitHub Repo Stars](https://img.shields.io/github/stars/giselles-ai/giselle) ![GitHub last commit](https://img.shields.io/github/last-commit/giselles-ai/giselle)](https://github.com/giselles-ai/giselle/blob/main/CLAUDE.md) &nbsp; by &nbsp; [giselles-ai](https://github.com/giselles-ai)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;Apache-2.0  
