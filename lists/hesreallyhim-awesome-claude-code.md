@@ -62,6 +62,17 @@ Claude Code is a cutting-edge CLI-based coding assistant and agent released by [
 
 > Resources added in the past 7 days
 
+[`The Agentic Startup` ![GitHub Repo Stars](https://img.shields.io/github/stars/rsmdt/the-startup) ![GitHub last commit](https://img.shields.io/github/last-commit/rsmdt/the-startup)](https://github.com/rsmdt/the-startup) &nbsp; by &nbsp; [Rudolf Schmidt](https://github.com/rsmdt)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
+Yet Another Claude Orchestrator - a collection of agents, commands, etc., for shipping production code - but I like this because it's comprehensive, well-written, and one of the few resources that actually uses Output Styles! +10 points!
+
+<details>
+<summary>📊 GitHub Stats</summary>
+
+![GitHub Stats for the-startup](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=the-startup&username=rsmdt&all_stats=true&stats_only=true)
+
+</details>
+<br>
+
 [`run-claude-docker` ![GitHub Repo Stars](https://img.shields.io/github/stars/icanhasjonas/run-claude-docker) ![GitHub last commit](https://img.shields.io/github/last-commit/icanhasjonas/run-claude-docker)](https://github.com/icanhasjonas/run-claude-docker) &nbsp; by &nbsp; [Jonas](https://github.com/icanhasjonas/)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
 A self-contained Docker runner that forwards your current workspace into a safe(r) isolated docker container, where you still have access to your Claude Code settings, authentication, ssh agent, pgp, optionally aws keys etc.
 
@@ -80,17 +91,6 @@ Well-crafted, wide selection of Claude Code hooks, slash commands, subagent file
 <summary>📊 GitHub Stats</summary>
 
 ![GitHub Stats for claudepro-directory](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=claudepro-directory&username=JSONbored&all_stats=true&stats_only=true)
-
-</details>
-<br>
-
-[`ccoutputstyles` ![GitHub Repo Stars](https://img.shields.io/github/stars/viveknair/ccoutputstyles) ![GitHub last commit](https://img.shields.io/github/last-commit/viveknair/ccoutputstyles)](https://github.com/viveknair/ccoutputstyles) &nbsp; by &nbsp; [Vivek Nair](https://github.com/viveknair)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
-CLI tool and template gallery for customizing Claude Code output styles with pre-built templates. Features over 15 templates at the time of writing!
-
-<details>
-<summary>📊 GitHub Stats</summary>
-
-![GitHub Stats for ccoutputstyles](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=ccoutputstyles&username=viveknair&all_stats=true&stats_only=true)
 
 </details>
 <br>
@@ -595,7 +595,7 @@ A community-driven leaderboard tool that enables developers to visualize, track,
 </details>
 
 <details open>
-<summary><h3>Orchestrators <a href="#awesome-claude-code">��</a></h3></summary>
+<summary><h3>Orchestrators <a href="#awesome-claude-code">🔝</a></h3></summary>
 
 [`Claude Code Flow` ![GitHub Repo Stars](https://img.shields.io/github/stars/ruvnet/claude-code-flow) ![GitHub last commit](https://img.shields.io/github/last-commit/ruvnet/claude-code-flow)](https://github.com/ruvnet/claude-code-flow) &nbsp; by &nbsp; [ruvnet](https://github.com/ruvnet)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
 This mode serves as a code-first orchestration layer, enabling Claude to write, edit, test, and optimize code autonomously across recursive agent cycles.
@@ -659,6 +659,17 @@ Spawn and control multiple Claude Codes in parallel from your phone or desktop. 
 <summary>📊 GitHub Stats</summary>
 
 ![GitHub Stats for happy](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=happy&username=slopus&all_stats=true&stats_only=true)
+
+</details>
+<br>
+
+[`The Agentic Startup` ![GitHub Repo Stars](https://img.shields.io/github/stars/rsmdt/the-startup) ![GitHub last commit](https://img.shields.io/github/last-commit/rsmdt/the-startup)](https://github.com/rsmdt/the-startup) &nbsp; by &nbsp; [Rudolf Schmidt](https://github.com/rsmdt)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
+Yet Another Claude Orchestrator - a collection of agents, commands, etc., for shipping production code - but I like this because it's comprehensive, well-written, and one of the few resources that actually uses Output Styles! +10 points!
+
+<details>
+<summary>📊 GitHub Stats</summary>
+
+![GitHub Stats for the-startup](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=the-startup&username=rsmdt&all_stats=true&stats_only=true)
 
 </details>
 <br>
