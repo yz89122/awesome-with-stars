@@ -218,7 +218,7 @@ Paste your codes at [ideone](https://ideone.com/), [pastebin](https://pastebin.c
 ### Camps and Trainings
 > Online Trainings and Camps.
 
-| �� | Name | Description |
+| ☆ | Name | Description |
 | --- | --- | --- |
 | ★★★ | [Online Free Problem-Solving Coaching](https://codeforces.com/blog/mostafa.saad.fci), by [Mostafa Saad Ibrahim](https://sites.google.com/site/mostafasibrahim/) | See the coaching details and people comments on its nature/quality.|
 
@@ -266,7 +266,7 @@ Paste your codes at [ideone](https://ideone.com/), [pastebin](https://pastebin.c
 | --- | --- | --- |
 | ★★★ | [Bit Twiddling Hacks](https://graphics.stanford.edu/~seander/bithacks.html) | A huge compiled list of bit manipulation tricks. |
 | ★★★ | [Comparing Floating Point Numbers, 2012 Edition - Random ASCII](https://randomascii.wordpress.com/2012/02/25/comparing-floating-point-numbers-2012-edition/) | Everything you need to know about floating point numbers. A must read especially for geometry topics. |
-| ★★☆ | [Object-Oriented C Style Languages: C++, Objective-C, Java, C# - a side-by-side reference sheet](http://hyperpolyglot.org/cpp) | A detailed side-by-side reference sheet for common syntaxes. |
+| ★★�� | [Object-Oriented C Style Languages: C++, Objective-C, Java, C# - a side-by-side reference sheet](http://hyperpolyglot.org/cpp) | A detailed side-by-side reference sheet for common syntaxes. |
 
 
 ## Tools
