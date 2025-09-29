@@ -521,7 +521,7 @@ Please see [CONTRIBUTING ![GitHub Repo Stars](https://img.shields.io/github/star
 - [Classpert - A list of 500 iOS Development courses (free and paid), from top e-learning platforms](https://classpert.com/ios-development) - Complete catalog of courses from Udacity, Pluralsight, Coursera, Edx, Treehouse and Skillshare.
 - [iOS & Swift - The Complete iOS App Development Bootcamp](https://www.udemy.com/course/ios-13-app-development-bootcamp/)
 - [Ray Wenderlich](https://www.raywenderlich.com/2690-learn-to-code-ios-apps-1-welcome-to-programming) - Learn to code iOS Apps.
-- [Stanford - Developing apps for iOS](https://itunes.apple.com/us/itunes-u/developing-apps-for-ios-hd/id395605774) - Stanford's iTunes U course.
+- [Stanford - Developing apps for iOS](https://cs193p.stanford.edu/) - Stanford's CS193p - Developing Apps for iOS.
 - [Udacity - Intro to iOS App Development with Swift](https://www.udacity.com/course/intro-to-ios-app-development-with-swift--ud585) - Udacity free course. Make Your First iPhone App.
 - [100 Days of SwiftUI](https://www.hackingwithswift.com/100/swiftui) - Free collection of videos and tutorials updated for iOS 15 and Swift 5.5.
 
@@ -1705,6 +1705,7 @@ Most of these are paid services, some have free tiers.
 - [FramesIos ![GitHub Repo Stars](https://img.shields.io/github/stars/checkout/frames-ios) ![GitHub last commit](https://img.shields.io/github/last-commit/checkout/frames-ios)](https://github.com/checkout/frames-ios) - Payment Form UI and Utilities in Swift.
 - [YRPayment ![GitHub Repo Stars](https://img.shields.io/github/stars/yassram/YRPayment) ![GitHub last commit](https://img.shields.io/github/last-commit/yassram/YRPayment)](https://github.com/yassram/YRPayment) - Better payment user experience library with cool animation in Swift.
 - [AnimatedCardInput ![GitHub Repo Stars](https://img.shields.io/github/stars/netguru/AnimatedCardInput) ![GitHub last commit](https://img.shields.io/github/last-commit/netguru/AnimatedCardInput)](https://github.com/netguru/AnimatedCardInput) — Easy to use library with customisable components for input of Credit Card data.
+- [Flare ![GitHub Repo Stars](https://img.shields.io/github/stars/space-code/flare) ![GitHub last commit](https://img.shields.io/github/last-commit/space-code/flare)](https://github.com/space-code/flare) - A framework that simplifies working with in-app purchases on iOS, macOS, tvOS, and watchOS, with full support for both StoreKit 1 and StoreKit 2.
 
 **[back to top](#contributing-and-collaborating)**
 
@@ -2796,7 +2797,6 @@ Most of these are paid services, some have free tiers.
 **[back to top](#contributing-and-collaborating)**
 
 ### Popup
-- [MMPopupView ![GitHub Repo Stars](https://img.shields.io/github/stars/adad184/MMPopupView) ![GitHub last commit](https://img.shields.io/github/last-commit/adad184/MMPopupView)](https://github.com/adad184/MMPopupView) - Pop-up based view(e.g. alert sheet), can easily customize.
 - [STPopup ![GitHub Repo Stars](https://img.shields.io/github/stars/kevin0571/STPopup) ![GitHub last commit](https://img.shields.io/github/last-commit/kevin0571/STPopup)](https://github.com/kevin0571/STPopup) - STPopup provides a UINavigationController in popup style, for both iPhone and iPad.
 - [NMPopUpView ![GitHub Repo Stars](https://img.shields.io/github/stars/psy2k/NMPopUpView) ![GitHub last commit](https://img.shields.io/github/last-commit/psy2k/NMPopUpView)](https://github.com/psy2k/NMPopUpView) - Simple iOS class for showing nice popup windows. Swift and Objective-C versions available.
 - [PopupController ![GitHub Repo Stars](https://img.shields.io/github/stars/daisuke310vvv/PopupController) ![GitHub last commit](https://img.shields.io/github/last-commit/daisuke310vvv/PopupController)](https://github.com/daisuke310vvv/PopupController) - A customizable controller for showing temporary popup view.
@@ -2820,6 +2820,7 @@ Most of these are paid services, some have free tiers.
 ### ProgressView
 - [ProgressMeter ![GitHub Repo Stars](https://img.shields.io/github/stars/khawajafarooq/ProgressMeter) ![GitHub last commit](https://img.shields.io/github/last-commit/khawajafarooq/ProgressMeter)](https://github.com/khawajafarooq/ProgressMeter) - Display the progress on a meter with customized annotations for iOS developed in Swift
 - [GradientCircularProgress ![GitHub Repo Stars](https://img.shields.io/github/stars/keygx/GradientCircularProgress) ![GitHub last commit](https://img.shields.io/github/last-commit/keygx/GradientCircularProgress)](https://github.com/keygx/GradientCircularProgress) - Customizable progress indicator library in Swift.
+- [ProgressUI ![GitHub Repo Stars](https://img.shields.io/github/stars/PierreJanineh-com/ProgressUI) ![GitHub last commit](https://img.shields.io/github/last-commit/PierreJanineh-com/ProgressUI)](https://github.com/PierreJanineh-com/ProgressUI) - A highly customizable and animated circular/linear progress indicator for SwiftUI. Supports dynamic coloring, spinner mode, multiple sizes, and easy appearance customization.
 
 **[back to top](#contributing-and-collaborating)**
 
