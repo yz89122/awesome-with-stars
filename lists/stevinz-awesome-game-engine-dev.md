@@ -347,7 +347,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Kazmath ![GitHub Repo Stars](https://img.shields.io/github/stars/Kazade/kazmath) ![GitHub last commit](https://img.shields.io/github/last-commit/Kazade/kazmath)](https://github.com/Kazade/kazmath) - Math library targeted at games.
     - 🎉 [Raymath ![GitHub Repo Stars](https://img.shields.io/github/stars/raysan5/raylib) ![GitHub last commit](https://img.shields.io/github/last-commit/raysan5/raylib)](https://github.com/raysan5/raylib/blob/master/src/raymath.h) - Math library included in the _RayLib_ game framework.
 - C: Network
-    - �� [librg ![GitHub Repo Stars](https://img.shields.io/github/stars/zpl-c/librg) ![GitHub last commit](https://img.shields.io/github/last-commit/zpl-c/librg)](https://github.com/zpl-c/librg) - Middleware between networking / file-streaming libraries and app logic.
+    - 🎉 [librg ![GitHub Repo Stars](https://img.shields.io/github/stars/zpl-c/librg) ![GitHub last commit](https://img.shields.io/github/last-commit/zpl-c/librg)](https://github.com/zpl-c/librg) - Middleware between networking / file-streaming libraries and app logic.
 - C: Physics
     - 🎉 [Chipmunk ![GitHub Repo Stars](https://img.shields.io/github/stars/slembcke/Chipmunk2D) ![GitHub last commit](https://img.shields.io/github/last-commit/slembcke/Chipmunk2D)](https://github.com/slembcke/Chipmunk2D) - Fast, lightweight 2D game physics library. [[Docs](https://chipmunk-physics.net/documentation.php)]
 - C: Scripting
@@ -473,7 +473,7 @@ _Language specific game engine development libraries / frameworks / code._
 - C++: Graphics - 3D
     - 🎉 [Bgfx ![GitHub Repo Stars](https://img.shields.io/github/stars/bkaradzic/bgfx) ![GitHub last commit](https://img.shields.io/github/last-commit/bkaradzic/bgfx)](https://github.com/bkaradzic/bgfx) - Cross-platform, graphics API agnostic, rendering library.
     - 🎉 [Diligent Engine ![GitHub Repo Stars](https://img.shields.io/github/stars/DiligentGraphics/DiligentEngine) ![GitHub last commit](https://img.shields.io/github/last-commit/DiligentGraphics/DiligentEngine)](https://github.com/DiligentGraphics/DiligentEngine) - Modern cross-platform graphics API abstraction library.
-    - ��� [Ember ![GitHub Repo Stars](https://img.shields.io/github/stars/strah19/Ember) ![GitHub last commit](https://img.shields.io/github/last-commit/strah19/Ember)](https://github.com/strah19/Ember) - Graphics framework using SDL2 and OpenGL.
+    - 🎉 [Ember ![GitHub Repo Stars](https://img.shields.io/github/stars/strah19/Ember) ![GitHub last commit](https://img.shields.io/github/last-commit/strah19/Ember)](https://github.com/strah19/Ember) - Graphics framework using SDL2 and OpenGL.
     - 🎉 [Filament ![GitHub Repo Stars](https://img.shields.io/github/stars/google/filament) ![GitHub last commit](https://img.shields.io/github/last-commit/google/filament)](https://github.com/google/filament) - Mobile-first, real-time physically-based renderer by _Google_.
     - 🎉 [Forge ![GitHub Repo Stars](https://img.shields.io/github/stars/ConfettiFX/The-Forge) ![GitHub last commit](https://img.shields.io/github/last-commit/ConfettiFX/The-Forge)](https://github.com/ConfettiFX/The-Forge) 🔥 - Cross-platform rendering framework supporting all major platforms and consoles.
     - 🎉 [Horde3D ![GitHub Repo Stars](https://img.shields.io/github/stars/horde3d/Horde3D) ![GitHub last commit](https://img.shields.io/github/last-commit/horde3d/Horde3D)](https://github.com/horde3d/Horde3D) - 3D rendering and animation engine.

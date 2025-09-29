@@ -508,7 +508,7 @@ Part 1](https://0fps.net/2014/02/10/replication-in-networked-games-overview-part
 [How To Draw](https://www.webtoons.com/en/challenge/how-to-draw-/intro-/viewer?title_no=730330&episode_no=1) 💠🟪 - An webcomic on how to draw, and much more importantly, how to _learn_ to draw.
 
 
-[Radiorunner's Curriculum for the Solo Artist](https://www.brendanmeachen.com/soloartist) 🟪 - A curriculum for self-teaching art. If you want to _really_ hone your skills, this will undoubtedly be worth your time.
+[Radiorunner's Curriculum for the Solo Artist](https://www.brendanmeachen.com/soloartist) �� - A curriculum for self-teaching art. If you want to _really_ hone your skills, this will undoubtedly be worth your time.
 
 
 [DrawABox](https://drawabox.com/) 💠🟪 - An exhaustive course for the art fundamentals (completely free!)
@@ -845,7 +845,7 @@ Royalty free music! Don't forget to check the license.
 [Career Advice Collected](https://claudiasnotes.notion.site/claudiasnotes/Career-Advice-Collected-560272eab6ce4069ada95d0852dbb1c9) - Advice on writing resumes and cover letters. Primarily written for producers and entry-level job seekers, but generally applicable.
 
 
-[Questions to ask game studios you're interviewing with](https://lindenreidblog.com/2020/05/21/questions-to-ask-game-studios-youre-interviewing-with/) ��� - A list of questions for you to ask a potential employer in an interview.
+[Questions to ask game studios you're interviewing with](https://lindenreidblog.com/2020/05/21/questions-to-ask-game-studios-youre-interviewing-with/) 🟪 - A list of questions for you to ask a potential employer in an interview.
 
 
 [The Reverse Interview ![GitHub Repo Stars](https://img.shields.io/github/stars/viraptor/reverse-interview) ![GitHub last commit](https://img.shields.io/github/last-commit/viraptor/reverse-interview)](https://github.com/viraptor/reverse-interview) - Another list for you to ask a potential employer (created for non-games tech, but most questions apply to games, and some apply to all disciplines).
