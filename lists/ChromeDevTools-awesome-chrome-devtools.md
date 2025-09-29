@@ -8,6 +8,7 @@
 - [DevTools tooling and ecosystem](#devtools-tooling-and-ecosystem)
 - [Chrome DevTools Protocol](#chrome-devtools-protocol)
 - [Using DevTools frontend with other platforms](#using-devtools-frontend-with-other-platforms)
+- [Applications](#applications)
 - [DevTools Extensions](#devtools-extensions)
 - [Alumni](#alumni)
 
@@ -34,7 +35,7 @@
 ### CPU profile
 - [call-trace ![GitHub Repo Stars](https://img.shields.io/github/stars/brendankenny/call-trace) ![GitHub last commit](https://img.shields.io/github/last-commit/brendankenny/call-trace)](https://github.com/brendankenny/call-trace) - Can instrument your JS with hooks, and then generate a `.cpuprofile`  of the of the complete (non-sampled) execution. View either time or call counts.
 - [cpuprofilify ![GitHub Repo Stars](https://img.shields.io/github/stars/thlorenz/cpuprofilify) ![GitHub last commit](https://img.shields.io/github/last-commit/thlorenz/cpuprofilify)](https://github.com/thlorenz/cpuprofilify) - Converts output of various profiling/sampling tools to the `.cpuprofile` format.
-- [Wishbone python framework](https://wishbone.readthedocs.io/en/latest/misc/profiling.html) - Profiling data can export as `.cpuprofile`.
+- [Wishbone Python framework](https://wishbone.readthedocs.io/en/latest/misc/profiling.html) - Profiling data can export as `.cpuprofile`.
 
 ### Multimedia
 - [snapline ![GitHub Repo Stars](https://img.shields.io/github/stars/pmdartus/snapline) ![GitHub last commit](https://img.shields.io/github/last-commit/pmdartus/snapline)](https://github.com/pmdartus/snapline) - Converts timeline screenshots to gif.
@@ -67,21 +68,21 @@
 
 - JavaScript/Node.js: [chrome-remote-interface ![GitHub Repo Stars](https://img.shields.io/github/stars/cyrus-and/chrome-remote-interface) ![GitHub last commit](https://img.shields.io/github/last-commit/cyrus-and/chrome-remote-interface)](https://github.com/cyrus-and/chrome-remote-interface)
 - TypeScript/Node.js: [chrome-debugging-client ![GitHub Repo Stars](https://img.shields.io/github/stars/TracerBench/chrome-debugging-client) ![GitHub last commit](https://img.shields.io/github/last-commit/TracerBench/chrome-debugging-client)](https://github.com/TracerBench/chrome-debugging-client)
-- Typescript/Node.js: [noice-json-rpc](https://www.npmjs.com/package/noice-json-rpc) - A proxy-based implementation to expose the CDP as its API.
-- Typescript/Node.js: [Taiko ![GitHub Repo Stars](https://img.shields.io/github/stars/getgauge/taiko) ![GitHub last commit](https://img.shields.io/github/last-commit/getgauge/taiko)](https://github.com/getgauge/taiko/)
+- TypeScript/Node.js: [noice-json-rpc](https://www.npmjs.com/package/noice-json-rpc) - A proxy-based implementation to expose the CDP as its API.
+- TypeScript/Node.js: [Taiko ![GitHub Repo Stars](https://img.shields.io/github/stars/getgauge/taiko) ![GitHub last commit](https://img.shields.io/github/last-commit/getgauge/taiko)](https://github.com/getgauge/taiko/)
 - Rust: [Rust Headless Chrome ![GitHub Repo Stars](https://img.shields.io/github/stars/atroche/rust-headless-chrome) ![GitHub last commit](https://img.shields.io/github/last-commit/atroche/rust-headless-chrome)](https://github.com/atroche/rust-headless-chrome/)
 - Java: [chrome-devtools-java-client ![GitHub Repo Stars](https://img.shields.io/github/stars/kklisura/chrome-devtools-java-client) ![GitHub last commit](https://img.shields.io/github/last-commit/kklisura/chrome-devtools-java-client)](https://github.com/kklisura/chrome-devtools-java-client)
 - Java: [jvppeteer ![GitHub Repo Stars](https://img.shields.io/github/stars/fanyong920/jvppeteer) ![GitHub last commit](https://img.shields.io/github/last-commit/fanyong920/jvppeteer)](https://github.com/fanyong920/jvppeteer)  - Headless Chrome For Java 
 - Python: [PyCDP ![GitHub Repo Stars](https://img.shields.io/github/stars/hyperiongray/python-chrome-devtools-protocol) ![GitHub last commit](https://img.shields.io/github/last-commit/hyperiongray/python-chrome-devtools-protocol)](https://github.com/hyperiongray/python-chrome-devtools-protocol) - Pure-Python, sans-IO wrappers. See also the [Trio CDP driver ![GitHub Repo Stars](https://img.shields.io/github/stars/hyperiongray/trio-chrome-devtools-protocol) ![GitHub last commit](https://img.shields.io/github/last-commit/hyperiongray/trio-chrome-devtools-protocol)](https://github.com/hyperiongray/trio-chrome-devtools-protocol)
 - Python: [chromewhip ![GitHub Repo Stars](https://img.shields.io/github/stars/chuckus/chromewhip) ![GitHub last commit](https://img.shields.io/github/last-commit/chuckus/chromewhip)](https://github.com/chuckus/chromewhip) - drop-in replacement for the `splash` service
-- Python: [pyppeteer ![GitHub Repo Stars](https://img.shields.io/github/stars/pyppeteer/pyppeteer) ![GitHub last commit](https://img.shields.io/github/last-commit/pyppeteer/pyppeteer)](https://github.com/pyppeteer/pyppeteer) - puppeteer port
+- Python: [pyppeteer ![GitHub Repo Stars](https://img.shields.io/github/stars/pyppeteer/pyppeteer) ![GitHub last commit](https://img.shields.io/github/last-commit/pyppeteer/pyppeteer)](https://github.com/pyppeteer/pyppeteer) - Puppeteer port
 - Python: [ChromeController ![GitHub Repo Stars](https://img.shields.io/github/stars/fake-name/ChromeController) ![GitHub last commit](https://img.shields.io/github/last-commit/fake-name/ChromeController)](https://github.com/fake-name/ChromeController) - high-level browser mgmt
 - Go: [chromedp ![GitHub Repo Stars](https://img.shields.io/github/stars/chromedp/chromedp) ![GitHub last commit](https://img.shields.io/github/last-commit/chromedp/chromedp)](https://github.com/chromedp/chromedp) - High-level actions and tasks for driving browsers
 - Go: [cdp ![GitHub Repo Stars](https://img.shields.io/github/stars/mafredri/cdp) ![GitHub last commit](https://img.shields.io/github/last-commit/mafredri/cdp)](https://github.com/mafredri/cdp)
 - Go: [gcd ![GitHub Repo Stars](https://img.shields.io/github/stars/wirepair/gcd) ![GitHub last commit](https://img.shields.io/github/last-commit/wirepair/gcd)](https://github.com/wirepair/gcd)
 - Go: [godet ![GitHub Repo Stars](https://img.shields.io/github/stars/raff/godet) ![GitHub last commit](https://img.shields.io/github/last-commit/raff/godet)](https://github.com/raff/godet)
 - Go: [Rod ![GitHub Repo Stars](https://img.shields.io/github/stars/go-rod/rod) ![GitHub last commit](https://img.shields.io/github/last-commit/go-rod/rod)](https://github.com/go-rod/rod)
-- C#/.NET: [Puppeteer Sharp ![GitHub Repo Stars](https://img.shields.io/github/stars/hardkoded/puppeteer-sharp) ![GitHub last commit](https://img.shields.io/github/last-commit/hardkoded/puppeteer-sharp)](https://github.com/hardkoded/puppeteer-sharp) - puppeteer port
+- C#/.NET: [Puppeteer Sharp ![GitHub Repo Stars](https://img.shields.io/github/stars/hardkoded/puppeteer-sharp) ![GitHub last commit](https://img.shields.io/github/last-commit/hardkoded/puppeteer-sharp)](https://github.com/hardkoded/puppeteer-sharp) - Puppeteer port
 - C#/dotnet: [chrome-dev-tools ![GitHub Repo Stars](https://img.shields.io/github/stars/BaristaLabs/chrome-dev-tools) ![GitHub last commit](https://img.shields.io/github/last-commit/BaristaLabs/chrome-dev-tools)](https://github.com/BaristaLabs/chrome-dev-tools) - Protocol wrapper generator that can be customized by editing handlebars templates. Includes .Net Core template.
 - C#/.NET: [dotnet-chrome-protocol ![GitHub Repo Stars](https://img.shields.io/github/stars/seclerp/dotnet-chrome-protocol) ![GitHub last commit](https://img.shields.io/github/last-commit/seclerp/dotnet-chrome-protocol)](https://github.com/seclerp/dotnet-chrome-protocol) - A runtime library and schema code generation tools for Chrome DevTools Protocol support in C#/.NET.
 - Ruby: [Ferrum ![GitHub Repo Stars](https://img.shields.io/github/stars/route/ferrum) ![GitHub last commit](https://img.shields.io/github/last-commit/route/ferrum)](https://github.com/route/ferrum) - high-level API to control Chrome in Ruby
@@ -91,7 +92,7 @@
 - Clojure: [clj-chrome-devtools ![GitHub Repo Stars](https://img.shields.io/github/stars/tatut/clj-chrome-devtools) ![GitHub last commit](https://img.shields.io/github/last-commit/tatut/clj-chrome-devtools)](https://github.com/tatut/clj-chrome-devtools) - The CDP wrapper API is autogenerated and will be updated when CDP protocol changes.
 - Clojure: [cuic ![GitHub Repo Stars](https://img.shields.io/github/stars/milankinen/cuic) ![GitHub last commit](https://img.shields.io/github/last-commit/milankinen/cuic)](https://github.com/milankinen/cuic) - Providing a high-level API for UI test automation over the DevTools Protocol.
 - PHP: [chrome-devtools-protocol ![GitHub Repo Stars](https://img.shields.io/github/stars/jakubkulhan/chrome-devtools-protocol) ![GitHub last commit](https://img.shields.io/github/last-commit/jakubkulhan/chrome-devtools-protocol)](https://github.com/jakubkulhan/chrome-devtools-protocol) - A PHP client library for the protocol.
-- PHP: [PuPHPeteer ![GitHub Repo Stars](https://img.shields.io/github/stars/rialto-php/puphpeteer) ![GitHub last commit](https://img.shields.io/github/last-commit/rialto-php/puphpeteer)](https://github.com/rialto-php/puphpeteer) - php bridge to node puppeteer
+- PHP: [PuPHPeteer ![GitHub Repo Stars](https://img.shields.io/github/stars/rialto-php/puphpeteer) ![GitHub last commit](https://img.shields.io/github/last-commit/rialto-php/puphpeteer)](https://github.com/rialto-php/puphpeteer) - PHP bridge to node Puppeteer
 
 
 ### Browser Adapters
@@ -122,6 +123,17 @@
 
 ---
 
+## Applications
+
+### Browsers
+- [BrowserBox ![GitHub Repo Stars](https://img.shields.io/github/stars/BrowserBox/BrowserBox) ![GitHub last commit](https://img.shields.io/github/last-commit/BrowserBox/BrowserBox)](https://github.com/BrowserBox/BrowserBox) - Embed Chrome in a web page, largely powered by DevTools and supporting multiuser browsing, remote DevTools, audio, and documents like `.docx`, `.pdf`, and more.
+- [Puppetromium ![GitHub Repo Stars](https://img.shields.io/github/stars/dosyago/puppetromium) ![GitHub last commit](https://img.shields.io/github/last-commit/dosyago/puppetromium)](https://github.com/dosyago/puppetromium) - A proof-of-concept web browser built with Puppeteer, written in Node.js, HTML and CSS, with 0% client-side JavaScript.
+
+### Web Archivers and Indexers
+- [dn ![GitHub Repo Stars](https://img.shields.io/github/stars/dosyago/dn) ![GitHub last commit](https://img.shields.io/github/last-commit/dosyago/dn)](https://github.com/dosyago/dn) - Archive and index pages you browse for offline viewing and search, implemented using the `Fetch` domain's interceptions, and works with any Chromium-based browser.
+  
+---
+
 ## DevTools Extensions
 
 ### Accessibility (A11y)
@@ -132,8 +144,8 @@
 - [Emulated Device Lab](https://chrome.google.com/webstore/detail/emulated-device-lab/oaonfodocibcdobdeelbbfggjombamff) - Experiment with multiple devices being emulated at the same time.
 - [RailsPanel](https://chrome.google.com/webstore/detail/railspanel/gjpfobpafnhjhbajcjgccbbdofdckggg?hl=en-US) - View Ruby on Rails application profiling data.
 - [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi) - Inspect the React component hierarchies.
-- [EmberJS Inspector](https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi) - Allows you to inspect EmberJS objects in your application.
-- [VueJS Developer Tools ![GitHub Repo Stars](https://img.shields.io/github/stars/vuejs/vue-devtools) ![GitHub last commit](https://img.shields.io/github/last-commit/vuejs/vue-devtools)](https://github.com/vuejs/vue-devtools) - Inspect VueJS components and manipulate their data.
+- [Ember.js Inspector](https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi) - Allows you to inspect Ember.js objects in your application.
+- [Vue.js Developer Tools ![GitHub Repo Stars](https://img.shields.io/github/stars/vuejs/vue-devtools) ![GitHub last commit](https://img.shields.io/github/last-commit/vuejs/vue-devtools)](https://github.com/vuejs/vue-devtools) - Inspect Vue.js components and manipulate their data.
 - [Angular DevTools](https://chromewebstore.google.com/detail/angular-devtools/ienfalfjdbdpebioblfackkekamfmbnh) - Debugging and Profiling for Angular applications.
 - [Marionette Inspector](https://chrome.google.com/webstore/detail/marionette-inspector/fbgfjlockdhidoaempmjcddibjklhpka) - Inspect a Marionette application's views, events, and live data.
 - [Backbone Debugger](https://chrome.google.com/webstore/detail/backbone-debugger/bhljhndlimiafopmmhjlgfpnnchjjbhd) - Inspect a Backbone application's views, models, events, and routes.
@@ -152,7 +164,7 @@
 
 ### Performance
 - [sloth ![GitHub Repo Stars](https://img.shields.io/github/stars/denar90/sloth) ![GitHub last commit](https://img.shields.io/github/last-commit/denar90/sloth)](https://github.com/denar90/sloth) - Chrome extension allows to enable and save CPU and network throttling for selected tabs.
-- [TracerBench ![GitHub Repo Stars](https://img.shields.io/github/stars/TracerBench/tracerbench) ![GitHub last commit](https://img.shields.io/github/last-commit/TracerBench/tracerbench)](https://github.com/TracerBench/tracerbench) - TracerBench is a controlled performance benchmarking tool for web applications, providing clear, actionable and usable insights into performance deltas.
+- [TracerBench ![GitHub Repo Stars](https://img.shields.io/github/stars/TracerBench/tracerbench) ![GitHub last commit](https://img.shields.io/github/last-commit/TracerBench/tracerbench)](https://github.com/TracerBench/tracerbench) - A controlled performance benchmarking tool for web applications, providing clear, actionable and usable insights into performance deltas.
 
 ### Automation
 - [Puppeteer IDE ![GitHub Repo Stars](https://img.shields.io/github/stars/gajananpp/puppeteer-ide-extension) ![GitHub last commit](https://img.shields.io/github/last-commit/gajananpp/puppeteer-ide-extension)](https://github.com/gajananpp/puppeteer-ide-extension) - Standalone Puppeteer playground in browser's developer tools.
