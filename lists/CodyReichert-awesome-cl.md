@@ -2342,7 +2342,7 @@ The rules we (try to) respect are the followings:
 
 - by default, add a library to the end of its section.
 - absolute de-facto libraries, like BordeauxThreads or Quicklisp,
-  should be denoted with a ⭐ (Unicode code U+2B50).
+  should be denoted with a ��� (Unicode code U+2B50).
 - two libraries very similar in scope should be side by side, or in a
   section of their own.
 - do some curation based on your experience and the state of the
