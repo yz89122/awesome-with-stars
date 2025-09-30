@@ -1186,6 +1186,8 @@ Library Manager
   * [ql-https ![GitHub Repo Stars](https://img.shields.io/github/stars/rudolfochrist/ql-https) ![GitHub last commit](https://img.shields.io/github/last-commit/rudolfochrist/ql-https)](https://github.com/rudolfochrist/ql-https) - shell out to cURL and use HTTPS by default.
   * [Quicklisp bundles](https://quicklisp.org/beta/bundles.html) -  self-contained sets of systems that are exported from Quicklisp and loadable without involving Quicklisp.
 * [ocicl ![GitHub Repo Stars](https://img.shields.io/github/stars/ocicl/ocicl) ![GitHub last commit](https://img.shields.io/github/last-commit/ocicl/ocicl)](https://github.com/ocicl/ocicl) - A modern dependency management tool with novel features. [MIT][200].
+  * project-local dependencies, code linting, project scaffolding, LLM-generated summaries of changes between package versions
+  * securely distributed packages over TLS, all software packaged as OCI-compliant artifacts, and more.
 * [Ultralisp](http://ultralisp.org/) - A Quicklisp distribution which updates every 5 minutes and to which one can add his project in one click. [BSD][15].
 * [Roswell ![GitHub Repo Stars](https://img.shields.io/github/stars/roswell/roswell) ![GitHub last commit](https://img.shields.io/github/last-commit/roswell/roswell)](https://github.com/roswell/roswell) - a Lisp implementation installer, script launcher and more. [MIT][200].
 * [Qlot ![GitHub Repo Stars](https://img.shields.io/github/stars/fukamachi/qlot) ![GitHub last commit](https://img.shields.io/github/last-commit/fukamachi/qlot)](https://github.com/fukamachi/qlot) - A project-local library installer, similar to Bundler or Virtualenv. [Expat][14].
@@ -1243,10 +1245,22 @@ HTTP Servers
 
 * ⭐ [Hunchentoot](http://weitz.de/hunchentoot/) - A web server. [2-clause BSD][207]
 * 👍[Clack ![GitHub Repo Stars](https://img.shields.io/github/stars/fukamachi/clack) ![GitHub last commit](https://img.shields.io/github/last-commit/fukamachi/clack)](https://github.com/fukamachi/clack) - A web application environment inspired by Rack and WSGI. [LLGPL][8].  Provides a unified interface to a webserver of choice (default is Hunchentoot). With more [getting started guide](https://jasom.github.io/clack-tutorial/posts/getting-started-with-clack/).
-* [zaserve ![GitHub Repo Stars](https://img.shields.io/github/stars/gendl/aserve) ![GitHub last commit](https://img.shields.io/github/last-commit/gendl/aserve)](https://github.com/gendl/aserve) - A portable fork of AllegroServe, by Franz Inc.  [LLGPL][8].
 * [wookie ![GitHub Repo Stars](https://img.shields.io/github/stars/orthecreedence/wookie) ![GitHub last commit](https://img.shields.io/github/last-commit/orthecreedence/wookie)](https://github.com/orthecreedence/wookie) - Asynchronous HTTP server. [Expat][14].
 * [woo ![GitHub Repo Stars](https://img.shields.io/github/stars/fukamachi/woo) ![GitHub last commit](https://img.shields.io/github/last-commit/fukamachi/woo)](https://github.com/fukamachi/woo) - A fast non-blocking HTTP server on top of libev. [MIT][200].
-* [cl-http2-protocol ![GitHub Repo Stars](https://img.shields.io/github/stars/akamai/cl-http2-protocol) ![GitHub last commit](https://img.shields.io/github/last-commit/akamai/cl-http2-protocol)](https://github.com/akamai/cl-http2-protocol) - a pure Common Lisp transport agnostic implementation of the HTTP/2 protocol at draft-14. [MIT][200].
+
+See also:
+
+* [portableaserve ![GitHub Repo Stars](https://img.shields.io/github/stars/sharplispers/portableaserve) ![GitHub last commit](https://img.shields.io/github/last-commit/sharplispers/portableaserve)](https://github.com/sharplispers/portableaserve) - an attempt to provide the functionality of Franz.com's AllegroServe web server to other lisp implementations.
+  * the system named `aserve` on Quicklisp.
+  * AllegroServe is open-source: LGPL2.1.
+  * it provides:
+    * HTTP/1.1 compliant web server capable of serving static and dynamic pages.
+    * SSL for client an server, web proxy, CGI, chunking, compress and inflate files on the fly,
+    * A publish function that builds a page from static and dynamic data and handles caching of the result, with access rights.
+  * Allegro's [Aserve documentation ![GitHub Repo Stars](https://img.shields.io/github/stars/franzinc/aserve) ![GitHub last commit](https://img.shields.io/github/last-commit/franzinc/aserve)](https://github.com/franzinc/aserve/blob/master/doc/aserve.md)
+  * ! not all AllegroServe tests pass on portableaserve.
+  * [zaserve ![GitHub Repo Stars](https://img.shields.io/github/stars/gendl/aserve) ![GitHub last commit](https://img.shields.io/github/last-commit/gendl/aserve)](https://github.com/gendl/aserve) - a portable fork of AllegroServe [LLGPL][8].
+* [cl-http2-protocol ![GitHub Repo Stars](https://img.shields.io/github/stars/akamai/cl-http2-protocol) ![GitHub last commit](https://img.shields.io/github/last-commit/akamai/cl-http2-protocol)](https://github.com/akamai/cl-http2-protocol) (*archived*) - a pure Common Lisp transport agnostic implementation of the HTTP/2 protocol at draft-14. [MIT][200].
 
 ### Hunchentoot plugins
 
