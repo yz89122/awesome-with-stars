@@ -1353,6 +1353,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 
 ### Editor Components
 
+* [Angular-JSON-Tree-Editor-Component ![GitHub Repo Stars](https://img.shields.io/github/stars/stefonalfaro/Angular-JSON-Tree-Editor-Component) ![GitHub last commit](https://img.shields.io/github/last-commit/stefonalfaro/Angular-JSON-Tree-Editor-Component)](https://github.com/stefonalfaro/Angular-JSON-Tree-Editor-Component) - Angular JSON Tree Editor Component that actually works.
 * [acrodata/code-editor ![GitHub Repo Stars](https://img.shields.io/github/stars/acrodata/code-editor) ![GitHub last commit](https://img.shields.io/github/last-commit/acrodata/code-editor)](https://github.com/acrodata/code-editor) - CodeMirror 6 wrapper for Angular.
 * [angular2-froala-wysiwyg ![GitHub Repo Stars](https://img.shields.io/github/stars/froala/angular-froala-wysiwyg) ![GitHub last commit](https://img.shields.io/github/last-commit/froala/angular-froala-wysiwyg)](https://github.com/froala/angular-froala-wysiwyg) - Angular 2 wrapper for Froala WYSIWYG HTML Editor.
 * [ckeditor](https://ckeditor.com/docs/ckeditor5/latest/installation/getting-started/frameworks/angular.html) - Ckeditor plugin for Angular2+.
