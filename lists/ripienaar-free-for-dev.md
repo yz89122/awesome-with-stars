@@ -880,7 +880,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [phare.io](https://phare.io/) - Uptime Monitoring free for up to 100,000 events for unlimited projets and unlimited status pages.
   * [pingbreak.com](https://pingbreak.com/) — Modern uptime monitoring service. Check unlimited URLs and get downtime notifications via Discord, Slack, or email.
   * [Pingmeter.com](https://pingmeter.com/) - 5 uptime monitors with 10-minute interval. Monitor SSH, HTTP, HTTPS, and any custom TCP ports.
-  * [pingpong.one](https://pingpong.one/) �� Advanced status page platform with monitoring. The free tier includes one public customizable status page with an SSL subdomain. Pro plan is offered to open-source projects and non-profits free of charge.
+  * [pingpong.one](https://pingpong.one/) — Advanced status page platform with monitoring. The free tier includes one public customizable status page with an SSL subdomain. Pro plan is offered to open-source projects and non-profits free of charge.
   * [Pulsetic](https://pulsetic.com) - 10 monitors, 6 Months of historical Uptime/Logs, unlimited status pages, and custom domains included! For infinite time and unlimited email alerts for free. You don't need a credit card.
   * [robusta.dev](https://home.robusta.dev/) — Powerful Kubernetes monitoring based on Prometheus. Bring your own Prometheus or install the all-in-one bundle. The free tier includes up to 20 Kubernetes nodes. Alerts via Slack, Microsoft Teams, Discord, and more. Integrations with PagerDuty, OpsGenie, VictorOps, DataDog, and many other tools.
   * [sematext.com](https://sematext.com/) — Free for 24-hour metrics, unlimited servers, ten custom metrics, 500,000 custom metrics data points, unlimited dashboards, users, etc.
