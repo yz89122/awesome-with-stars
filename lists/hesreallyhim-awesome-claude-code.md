@@ -930,7 +930,7 @@ Addresses GitHub issues by taking issue number as parameter, analyzing context, 
 Fetches and fixes unresolved PR comments by automatically retrieving feedback, addressing reviewer concerns, making targeted code improvements, and streamlining the review process.
 
 <details>
-<summary>📊 GitHub Stats</summary>
+<summary>�� GitHub Stats</summary>
 
 ![GitHub Stats for metabase](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=metabase&username=metabase&all_stats=true&stats_only=true)
 
