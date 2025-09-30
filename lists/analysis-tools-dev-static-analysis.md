@@ -547,7 +547,7 @@ The tool is a fork of `gofmt` as of Go 1.19, and requires Go 1.18 or later.  It 
 
 - [gosec (gas)](https://securego.io) — Inspects source code for security problems by scanning the Go AST.
 
-- [gotype](https://pkg.go.dev/golang.org/x/tools/cmd/gotype) ��� Syntactic and semantic analysis similar to the Go compiler.
+- [gotype](https://pkg.go.dev/golang.org/x/tools/cmd/gotype) — Syntactic and semantic analysis similar to the Go compiler.
 
 - [govulncheck](https://go.dev/blog/vuln) — Govulncheck reports known vulnerabilities that affect Go code.  It uses static analysis of source code or a binary's symbol table to narrow down reports to only those that could affect the application.
 By default, govulncheck makes requests to the Go vulnerability database at https://vuln.go.dev. Requests to the vulnerability database contain only module paths, not code or other properties of your program.
@@ -564,7 +564,7 @@ By default, govulncheck makes requests to the Go vulnerability database at https
 
 - [nakedret ![GitHub Repo Stars](https://img.shields.io/github/stars/alexkohler/nakedret) ![GitHub last commit](https://img.shields.io/github/last-commit/alexkohler/nakedret)](https://github.com/alexkohler/nakedret) — Finds naked returns.
 
-- [nargs ![GitHub Repo Stars](https://img.shields.io/github/stars/alexkohler/nargs) ![GitHub last commit](https://img.shields.io/github/last-commit/alexkohler/nargs)](https://github.com/alexkohler/nargs) — Finds unused arguments in function declarations.
+- [nargs ![GitHub Repo Stars](https://img.shields.io/github/stars/alexkohler/nargs) ![GitHub last commit](https://img.shields.io/github/last-commit/alexkohler/nargs)](https://github.com/alexkohler/nargs) �� Finds unused arguments in function declarations.
 
 - [OSV-Scanner](https://osv.dev/) — Vulnerability scanner written in Go which uses the data provided by OSV.dev. Developed by Google to scan dependencies across multiple languages and package managers for known vulnerabilities. Supports container scanning, license scanning, and guided remediation. Works with lockfiles, SBOMs, and container images to identify security issues.
 
