@@ -702,7 +702,7 @@ A Rust CLI tool that lets you delegate development tasks to AI agents running in
 
 <br>
 
-## Status Lines �� [🔝](#awesome-claude-code)
+## Status Lines 📊 [🔝](#awesome-claude-code)
 
 > **Status lines** - Configurations and customizations for Claude Code's status bar functionality
 
