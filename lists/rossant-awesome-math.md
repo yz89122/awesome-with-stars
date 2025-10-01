@@ -270,7 +270,7 @@ All resources are freely available except those with a 💲 icon.
 ### Surreal Numbers
 
 * 📝 [Surreal Numbers - How two ex-students turned on to pure mathematics and found total happiness](http://www.math.harvard.edu/~knill/teaching/mathe320_2015_fall/blog15/surreal1.pdf) - D. E. Knuth
-* ��� [Surreal Numbers and Games](http://web.mit.edu/sp.268/www/2010/surreal.pdf)
+* 📝 [Surreal Numbers and Games](http://web.mit.edu/sp.268/www/2010/surreal.pdf)
 * 📝 [Conway names, the simplicity hierarchy and the surreal number tree](http://www.ohio.edu/people/ehrlich/ConwayNames.pdf) - Philip Ehrlich
 
 
@@ -479,7 +479,7 @@ All resources are freely available except those with a 💲 icon.
 
 ### Complex Analysis
 
-* ��� [Introduction to Complex Analysis](https://mtaylor.web.unc.edu/wp-content/uploads/sites/16915/2018/04/complex.pdf) - Michael Taylor
+* 📝 [Introduction to Complex Analysis](https://mtaylor.web.unc.edu/wp-content/uploads/sites/16915/2018/04/complex.pdf) - Michael Taylor
 * 📝 [An Introduction to Complex Analysis and Geometry](http://www.math.uiuc.edu/~jpda/jpd-complex-geometry-book-5-refs-bip.pdf) - John P. D'Angelo (University of Illinois)
 * 📝 [A First Course in Complex Analysis](http://math.sfsu.edu/beck/papers/complex.pdf) - Matthias Beck, Gerald Marchesi, Dennis Pixton, Lucas Sabalka
 * 📝 [A Guide to Complex Variables](http://www.math.wustl.edu/~sk/books/guide.pdf) - Steven G. Krantz
