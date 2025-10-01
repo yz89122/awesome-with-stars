@@ -146,6 +146,7 @@ Other places you can look for MicroPython Libraries:
 * [mpy-mbedtls ![GitHub Repo Stars](https://img.shields.io/github/stars/Carglglz/mpy-mbedtls) ![GitHub last commit](https://img.shields.io/github/last-commit/Carglglz/mpy-mbedtls)](https://github.com/Carglglz/mpy-mbedtls) - MicroPython bindings for some MbedTLS EC and x509 cert/csr functions.
 * [micropython-cryptocfb ![GitHub Repo Stars](https://img.shields.io/github/stars/jacklinquan/micropython-cryptocfb) ![GitHub last commit](https://img.shields.io/github/last-commit/jacklinquan/micropython-cryptocfb)](https://github.com/jacklinquan/micropython-cryptocfb) - A Python module to encrypt and decrypt data with AES-128 CFB mode.
 * [tscp ![GitHub Repo Stars](https://img.shields.io/github/stars/shariltumin/tscp) ![GitHub last commit](https://img.shields.io/github/last-commit/shariltumin/tscp)](https://github.com/shariltumin/tscp) - An endpoint-to-endpoint encryption based on Diffie-Hellman-Merkle with TLS1.3 styled handshake using MicroPython.
+* [usigv4 ![GitHub Repo Stars](https://img.shields.io/github/stars/vhespanha/usigv4) ![GitHub last commit](https://img.shields.io/github/last-commit/vhespanha/usigv4)](https://github.com/vhespanha/usigv4) - A minimal aws signature version 4 (SigV4) implementation for micropython/embedded use.
 
 #### DNS
 
