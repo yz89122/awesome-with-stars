@@ -58,7 +58,7 @@ A collection of awesome things regarding the React ecosystem.
 - [remix ![GitHub Repo Stars](https://img.shields.io/github/stars/remix-run/remix) ![GitHub last commit](https://img.shields.io/github/last-commit/remix-run/remix)](https://github.com/remix-run/remix) - Full stack web Framework that lets you focus on the user interface
 - [react-admin ![GitHub Repo Stars](https://img.shields.io/github/stars/marmelab/react-admin) ![GitHub last commit](https://img.shields.io/github/last-commit/marmelab/react-admin)](https://github.com/marmelab/react-admin) - A frontend Framework for building B2B applications
 - [refine ![GitHub Repo Stars](https://img.shields.io/github/stars/refinedev/refine) ![GitHub last commit](https://img.shields.io/github/last-commit/refinedev/refine)](https://github.com/refinedev/refine) - Build your React-based CRUD applications, without constraints
-- [vike ![GitHub Repo Stars](https://img.shields.io/github/stars/vikejs/vike) ![GitHub last commit](https://img.shields.io/github/last-commit/vikejs/vike)](https://github.com/vikejs/vike) - The Modular Framework - Next.js & Nuxt alternative 
+- [vike ![GitHub Repo Stars](https://img.shields.io/github/stars/vikejs/vike) ![GitHub last commit](https://img.shields.io/github/last-commit/vikejs/vike)](https://github.com/vikejs/vike) - The Modular Framework - Next.js & Nuxt alternative
 
 #### React Component Libraries
 
@@ -188,7 +188,7 @@ A collection of awesome things regarding the React ecosystem.
 
 - [formatjs ![GitHub Repo Stars](https://img.shields.io/github/stars/formatjs/formatjs) ![GitHub last commit](https://img.shields.io/github/last-commit/formatjs/formatjs)](https://github.com/formatjs/formatjs) - Internationalize your web apps
 - [react-i18next ![GitHub Repo Stars](https://img.shields.io/github/stars/i18next/react-i18next) ![GitHub last commit](https://img.shields.io/github/last-commit/i18next/react-i18next)](https://github.com/i18next/react-i18next) - Internationalization for React done right
-- [react-inltayer ![GitHub Repo Stars](https://img.shields.io/github/stars/aymericzip/intlayer) ![GitHub last commit](https://img.shields.io/github/last-commit/aymericzip/intlayer)](https://github.com/aymericzip/intlayer) - Internationalization focused on maintenability for React 
+- [react-inltayer ![GitHub Repo Stars](https://img.shields.io/github/stars/aymericzip/intlayer) ![GitHub last commit](https://img.shields.io/github/last-commit/aymericzip/intlayer)](https://github.com/aymericzip/intlayer) - Internationalization focused on maintenability for React
 
 #### React Graphics and Animations
 
@@ -213,6 +213,7 @@ A collection of awesome things regarding the React ecosystem.
 - [wave ![GitHub Repo Stars](https://img.shields.io/github/stars/wavetermdev/waveterm) ![GitHub last commit](https://img.shields.io/github/last-commit/wavetermdev/waveterm)](https://github.com/wavetermdev/waveterm) - An open-source, cross-platform terminal for seamless workflows
 - [readest ![GitHub Repo Stars](https://img.shields.io/github/stars/readest/readest) ![GitHub last commit](https://img.shields.io/github/last-commit/readest/readest)](https://github.com/readest/readest) - A minimalistic, feature-rich and cross-platform eBook reader
 - [bookcars ![GitHub Repo Stars](https://img.shields.io/github/stars/aelassas/bookcars) ![GitHub last commit](https://img.shields.io/github/last-commit/aelassas/bookcars)](https://github.com/aelassas/bookcars) - Car rental platform
+- [notifuse ![GitHub Repo Stars](https://img.shields.io/github/stars/Notifuse/notifuse) ![GitHub last commit](https://img.shields.io/github/last-commit/Notifuse/notifuse)](https://github.com/Notifuse/notifuse) - Modern self-hosted emailing platform to send newsletters & transactional emails
 
 ### React Native
 
