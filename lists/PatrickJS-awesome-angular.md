@@ -1275,6 +1275,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ng-virtual-grid ![GitHub Repo Stars](https://img.shields.io/github/stars/DjonnyX/ng-virtual-grid) ![GitHub last commit](https://img.shields.io/github/last-commit/DjonnyX/ng-virtual-grid)](https://github.com/DjonnyX/ng-virtual-grid) - Maximum performance for extremely large grids.
 * [ngx-simple-datatables ![GitHub Repo Stars](https://img.shields.io/github/stars/rinturaj/ngx-simple-datatables) ![GitHub last commit](https://img.shields.io/github/last-commit/rinturaj/ngx-simple-datatables)](https://github.com/rinturaj/ngx-simple-datatables) - A lightweight, high-performance Angular data table component with features like virtual scrolling, column freezing, and customizable templates.
 * [ngx-list-manager ![GitHub Repo Stars](https://img.shields.io/github/stars/RzoDev/ngx-list-manager) ![GitHub last commit](https://img.shields.io/github/last-commit/RzoDev/ngx-list-manager)](https://github.com/RzoDev/ngx-list-manager) - An Angular service tool to manage lists efficiently.
+* [cerious-grid ![GitHub Repo Stars](https://img.shields.io/github/stars/ryoucerious/cerious-widgets) ![GitHub last commit](https://img.shields.io/github/last-commit/ryoucerious/cerious-widgets)](https://github.com/ryoucerious/cerious-widgets) - A seriously powerful Angular grid for developers who demand control, flexibility, and performance.
 
 ### Dates
 
@@ -1315,6 +1316,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-autofocus ![GitHub Repo Stars](https://img.shields.io/github/stars/eurusik/ngx-autofocus) ![GitHub last commit](https://img.shields.io/github/last-commit/eurusik/ngx-autofocus)](https://github.com/eurusik/ngx-autofocus) - A powerful, flexible Angular directive for automatic element focusing.
 * [ngx-copypaste ![GitHub Repo Stars](https://img.shields.io/github/stars/JsDaddy/ngx-copypaste) ![GitHub last commit](https://img.shields.io/github/last-commit/JsDaddy/ngx-copypaste)](https://github.com/JsDaddy/ngx-copypaste) - A pure and awesome copy paste directive for Angular.
 * [ngxture ![GitHub Repo Stars](https://img.shields.io/github/stars/gianpierreVelasquez/ngxture) ![GitHub last commit](https://img.shields.io/github/last-commit/gianpierreVelasquez/ngxture)](https://github.com/gianpierreVelasquez/ngxture) - A lightweight and modular Angular library that provides ready-to-use animations and gesture directives.
+* [@maxime1jacquet/npm-directives ![GitHub Repo Stars](https://img.shields.io/github/stars/maxime1jacquet/npm-directives) ![GitHub last commit](https://img.shields.io/github/last-commit/maxime1jacquet/npm-directives)](https://github.com/maxime1jacquet/npm-directives) - Angular Directives including [ngx-cursor](https://www.npmjs.com/package/ngx-cursor) and [ngx-simple-countdown](https://www.npmjs.com/package/ngx-simple-countdown).
 
 ### DOM
 
