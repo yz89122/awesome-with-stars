@@ -1000,7 +1000,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [Mailnesia](https://mailnesia.com) - Free temporary/disposable email, which auto visit registration link.
   * [mailsac.com](https://mailsac.com) - Free API for temporary email testing, free public email hosting, outbound capture, email-to-slack/websocket/webhook (1,500 monthly API limit)
   * [Mailtrap.io](https://mailtrap.io/) — Fake SMTP server for development, free plan with one inbox, 100 messages, no team member, two emails/second, no forward rules.
-  * [Mail7.io](https://www.mail7.io/) �� Free Temp Email Addresses for QA Developers. Create email addresses instantly using Web Interface or API.
+  * [Mail7.io](https://www.mail7.io/) — Free Temp Email Addresses for QA Developers. Create email addresses instantly using Web Interface or API.
   * [Momentary Email](https://www.momentaryemail.com/) — Free Temporary Email Addresses. Read incoming emails on the website or by RSS feed.
   * [Mutant Mail](https://www.mutantmail.com/) – Free 10 Email IDs, 1 Domain, 1 Mailbox. Single Mailbox for All Email IDs.
   * [Outlook.com](https://outlook.live.com/owa/) - Free personal email and calendar.
@@ -1324,7 +1324,7 @@ Update Time, five active automations, webhooks.
 
 ## IaaS
 
-  * [4EVERLAND](https://www.4everland.org/) — Compatible with AWS S3 - APIs, interface operations, CLI, and other upload methods, upload and store files from the IPFS and Arweave networks in a safe, convenient, and efficient manner. Registered users can get 6 GB of IPFS storage and 300MB of Arweave storage for free. Any Arweave file uploads smaller than 150 KB are free.
+  * [4EVERLAND](https://www.4everland.org/) ��� Compatible with AWS S3 - APIs, interface operations, CLI, and other upload methods, upload and store files from the IPFS and Arweave networks in a safe, convenient, and efficient manner. Registered users can get 6 GB of IPFS storage and 300MB of Arweave storage for free. Any Arweave file uploads smaller than 150 KB are free.
   * [backblaze.com](https://www.backblaze.com/b2/) — Backblaze B2 cloud storage. Free 10 GB (Amazon S3-like) object storage for unlimited time
   * [filebase.com](https://filebase.com/) - S3 Compatible Object Storage Powered by Blockchain. 5 GB free storage for an unlimited duration.
   * [Tebi](https://tebi.io/) - S3 compatibility object storage.Free 25 GB storage and 250GB outbound transfer.
