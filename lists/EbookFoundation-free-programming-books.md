@@ -80,7 +80,7 @@ This project lists books and other resources grouped by genres:
 #### Other Languages
 
 + [Arabic / al arabiya / العربية](books/free-programming-books-ar.md)
-+ [Armenian / Հայերեն](books/free-programming-books-hy.md)
++ [Armenian / ��այերեն](books/free-programming-books-hy.md)
 + [Azerbaijani / Азәрбајҹан дили / آذربايجانجا ديلي](books/free-programming-books-az.md)
 + [Bengali / বাংলা](books/free-programming-books-bn.md)
 + [Bulgarian / български](books/free-programming-books-bg.md)
@@ -110,7 +110,7 @@ This project lists books and other resources grouped by genres:
 + [Portuguese (Brazil)](books/free-programming-books-pt_BR.md)
 + [Portuguese (Portugal)](books/free-programming-books-pt_PT.md)
 + [Romanian (Romania) / limba română / român](books/free-programming-books-ro.md)
-+ [Russian / Русский язы��](books/free-programming-books-ru.md)
++ [Russian / Русский язык](books/free-programming-books-ru.md)
 + [Serbian / српски језик / srpski jezik](books/free-programming-books-sr.md)
 + [Slovak / slovenčina](books/free-programming-books-sk.md)
 + [Spanish / español / castellano](books/free-programming-books-es.md)
@@ -161,7 +161,7 @@ This project lists books and other resources grouped by genres:
 + [Swedish / svenska](courses/free-courses-sv.md)
 + [Tamil / தமிழ்](courses/free-courses-ta.md)
 + [Telugu / తెలుగు](courses/free-courses-te.md)
-+ [Thai / ภาษา��ทย](courses/free-courses-th.md)
++ [Thai / ภาษาไทย](courses/free-courses-th.md)
 + [Turkish / Türkçe](courses/free-courses-tr.md)
 + [Ukrainian / Українська](courses/free-courses-uk.md)
 + [Urdu / اردو](courses/free-courses-ur.md)
