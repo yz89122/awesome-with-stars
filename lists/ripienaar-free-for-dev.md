@@ -559,7 +559,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [scrutinizer-ci.com](https://scrutinizer-ci.com/) — Continuous inspection platform, free for Open Source
   * [semanticdiff.com](https://app.semanticdiff.com/) — Programming language aware diff for GitHub pull requests and commits, free for public repositories
   * [shields.io](https://shields.io) — Quality metadata badges for open source projects
-  * [sonarcloud.io](https://sonarcloud.io) — Automated source code analysis for Java, JavaScript, C/C++, C#, VB.NET, PHP, Objective-C, Swift, Python, Groovy and even more languages, free for Open Source
+  * [sonarcloud.io](https://sonarcloud.io) �� Automated source code analysis for Java, JavaScript, C/C++, C#, VB.NET, PHP, Objective-C, Swift, Python, Groovy and even more languages, free for Open Source
   * [SourceLevel](https://sourcelevel.io/) — Automated Code Review and Team Analytics. Free for Open Source and organizations up to 5 collaborators.
   * [webceo.com](https://www.webceo.com/) — SEO tools but with also code verifications and different types of devices
   * [zoompf.com](https://zoompf.com/) — Fix the performance of your web sites, detailed analysis
@@ -995,7 +995,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [Mailchimp](https://mailchimp.com/) — 500 subscribers and 1,000 emails/month free.
   * [Maildroppa](https://maildroppa.com) - Up to 100 subscribers and unlimited emails as well as automations for free.
   * [MailerLite.com](https://www.mailerlite.com) — 1,000 subscribers/month, 12,000 emails/month free
-  * [MailerSend.com](https://www.mailersend.com) — Email API, SMTP, 3,000 emails/month free for transactional emails
+  * [MailerSend.com](https://www.mailersend.com) ��� Email API, SMTP, 3,000 emails/month free for transactional emails
   * [mailinator.com](https://www.mailinator.com/) — Free, public email system where you can use any inbox you want
   * [Mailjet](https://www.mailjet.com/) — 6,000 emails/month free (200 emails daily sending limit)
   * [Mailnesia](https://mailnesia.com) - Free temporary/disposable email, which auto visit registration link.
