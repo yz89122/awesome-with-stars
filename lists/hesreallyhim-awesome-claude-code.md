@@ -797,7 +797,7 @@ A TypeScript-based system for configuring and customizing Claude Code hooks with
 </details>
 <br>
 
-[`Claudio` ![GitHub Repo Stars](https://img.shields.io/github/stars/ctoth/claudio) ![GitHub last commit](https://img.shields.io/github/last-commit/ctoth/claudio)](https://github.com/ctoth/claudio) &nbsp; by &nbsp; [Christopher Toth](https://github.com/ctoth)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;&copy;  
+[`Claudio` ![GitHub Repo Stars](https://img.shields.io/github/stars/ctoth/claudio) ![GitHub last commit](https://img.shields.io/github/last-commit/ctoth/claudio)](https://github.com/ctoth/claudio) &nbsp; by &nbsp; [Christopher Toth](https://github.com/ctoth)  &nbsp;&nbsp;⚖���&nbsp;&nbsp;&copy;  
 A no-frills little library that adds delightful OS-native sounds to Claude Code via simple hooks. It really sparks joy.
 
 <details>
@@ -1233,7 +1233,7 @@ Documents solution approaches for GitHub issues, explaining technical decisions,
 </details>
 <br>
 
-[`/update-docs` ![GitHub Repo Stars](https://img.shields.io/github/stars/Consiliency/Flutter-Structurizr) ![GitHub last commit](https://img.shields.io/github/last-commit/Consiliency/Flutter-Structurizr)](https://github.com/Consiliency/Flutter-Structurizr/blob/main/.claude/commands/update-docs.md) &nbsp; by &nbsp; [Consiliency](https://github.com/Consiliency)  &nbsp;&nbsp;⚖��&nbsp;&nbsp;MIT  
+[`/update-docs` ![GitHub Repo Stars](https://img.shields.io/github/stars/Consiliency/Flutter-Structurizr) ![GitHub last commit](https://img.shields.io/github/last-commit/Consiliency/Flutter-Structurizr)](https://github.com/Consiliency/Flutter-Structurizr/blob/main/.claude/commands/update-docs.md) &nbsp; by &nbsp; [Consiliency](https://github.com/Consiliency)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
 Reviews current documentation status, updates implementation progress, reviews phase documents, and maintains documentation consistency across the project.
 
 <details>
