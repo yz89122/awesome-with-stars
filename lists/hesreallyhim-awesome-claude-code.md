@@ -1233,7 +1233,7 @@ Documents solution approaches for GitHub issues, explaining technical decisions,
 </details>
 <br>
 
-[`/update-docs` ![GitHub Repo Stars](https://img.shields.io/github/stars/Consiliency/Flutter-Structurizr) ![GitHub last commit](https://img.shields.io/github/last-commit/Consiliency/Flutter-Structurizr)](https://github.com/Consiliency/Flutter-Structurizr/blob/main/.claude/commands/update-docs.md) &nbsp; by &nbsp; [Consiliency](https://github.com/Consiliency)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
+[`/update-docs` ![GitHub Repo Stars](https://img.shields.io/github/stars/Consiliency/Flutter-Structurizr) ![GitHub last commit](https://img.shields.io/github/last-commit/Consiliency/Flutter-Structurizr)](https://github.com/Consiliency/Flutter-Structurizr/blob/main/.claude/commands/update-docs.md) &nbsp; by &nbsp; [Consiliency](https://github.com/Consiliency)  &nbsp;&nbsp;⚖��&nbsp;&nbsp;MIT  
 Reviews current documentation status, updates implementation progress, reviews phase documents, and maintains documentation consistency across the project.
 
 <details>

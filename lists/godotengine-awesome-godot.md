@@ -39,7 +39,7 @@ See [Vivraan/godot-lang-support ![GitHub Repo Stars](https://img.shields.io/gith
 - [99Managers Futsal Edition](https://codeberg.org/dulvui/99managers-futsal-edition) - A simple free/libre Futsal team-management game.
 - [A Dark Forest ![GitHub Repo Stars](https://img.shields.io/github/stars/TinyTakinTeller/GodotProjectZero) ![GitHub last commit](https://img.shields.io/github/last-commit/TinyTakinTeller/GodotProjectZero)](https://github.com/TinyTakinTeller/GodotProjectZero) - Minimalistic incremental game inspired by "A Dark Room".
 - [Librerama](https://codeberg.org/Yeldham/librerama) - A free/libre fast-paced arcade collection of mini-games.
-- [Poder Solar ![GitHub Repo Stars](https://img.shields.io/github/stars/antimundo/poder-solar) ![GitHub last commit](https://img.shields.io/github/last-commit/antimundo/poder-solar)](https://github.com/antimundo/poder-solar) - Simple resource management game.
+- [Poder Solar](https://codeberg.org/antimundo/poder-solar) - Simple resource management game.
 - [Unknown Horizons ![GitHub Repo Stars](https://img.shields.io/github/stars/unknown-horizons/godot-port) ![GitHub last commit](https://img.shields.io/github/last-commit/unknown-horizons/godot-port)](https://github.com/unknown-horizons/godot-port) - Official work-in-progress reimplementation of Unknown Horizons.
 
 #### Godot 3
@@ -82,7 +82,7 @@ See [Vivraan/godot-lang-support ![GitHub Repo Stars](https://img.shields.io/gith
 
 #### Godot 4
 
-- [LibreAim ![GitHub Repo Stars](https://img.shields.io/github/stars/Nokorpo/LibreAim) ![GitHub last commit](https://img.shields.io/github/last-commit/Nokorpo/LibreAim)](https://github.com/Nokorpo/LibreAim) - Libre FPS aim trainer made with Godot.
+- [LibreAim](https://codeberg.org/Nokorpo/LibreAim) - Libre FPS aim trainer made with Godot.
 - [open-fpsz](https://gitlab.com/open-fpsz/open-fpsz) - An open-source, fast-paced multiplayer shooter game inspired by Tribes, with jetpacks, skis and vehicles.
 - [OpenLiberty ![GitHub Repo Stars](https://img.shields.io/github/stars/FOSS-Supremacy/OpenLiberty) ![GitHub last commit](https://img.shields.io/github/last-commit/FOSS-Supremacy/OpenLiberty)](https://github.com/FOSS-Supremacy/OpenLiberty) - An open-source reimplementation of Grand Theft Auto III on the Godot Engine.
 - [Reia ![GitHub Repo Stars](https://img.shields.io/github/stars/Quaint-Studios/Reia) ![GitHub last commit](https://img.shields.io/github/last-commit/Quaint-Studios/Reia)](https://github.com/Quaint-Studios/Reia) - A free game that's an action adventure RPG for Desktop and Mobile with multiplayer, MMO, and offline support.
