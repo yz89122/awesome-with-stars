@@ -234,7 +234,7 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 
 | Course Name | Course Provider | Level | Hour(s) | Reward |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
-| <a href="https://www.netacad.com/courses/os-it/ndg-linux-unhatched" target="_blank" rel="noopener noreferrer">NDG Linux Unhatched</a>| Cisco Networking Academy |Beginner| 8 |    �� |
+| <a href="https://www.netacad.com/courses/os-it/ndg-linux-unhatched" target="_blank" rel="noopener noreferrer">NDG Linux Unhatched</a>| Cisco Networking Academy |Beginner| 8 |    🏆 |
 | <a href="https://www.netacad.com/courses/os-it/ndg-linux-essentials" target="_blank" rel="noopener noreferrer">NDG Linux Essentials</a> | Cisco Networking Academy |Intermediate| 70 |🏆|
 | <a href="https://learn.saylor.org/course/view.php?id=94" target="_blank" rel="noopener noreferrer">CS401: Operating Systems</a> | Saylor Academy |Professional|120 | 🏆|
 
@@ -307,7 +307,7 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 | <a href="https://tutorials.nmdprojects.net/play.html?react_native_html_to_jsx" target="_blank" rel="noopener noreferrer">React Native HTML to JSX</a> | Umaine New Media | Intermediate | 0.2 | 🏅 |
 | <a href="https://tutorials.nmdprojects.net/play.html?react_native_css_to_jsx" target="_blank" rel="noopener noreferrer">React Native CSS to JSX</a> | Umaine New Media | Intermediate | 0.2 | 🏅 |
 
-<a href="https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents" target="_blank" rel="noopener noreferrer">⬆��</a>
+<a href="https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents" target="_blank" rel="noopener noreferrer">⬆️</a>
 
 
 ### Native Development
@@ -406,7 +406,7 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 | <a href="https://learn.saylor.org/course/view.php?id=6" target="_blank" rel="noopener noreferrer">CS101: Introduction to Computer Science I</a> | Saylor Academy |Professional|52 | 🏆|
 | <a href="https://learn.saylor.org/course/view.php?id=64" target="_blank" rel="noopener noreferrer">CS102: Introduction to Computer Science II</a> | Saylor Academy |Professional|42 | 🏆|
 | <a href="https://learn.saylor.org/course/view.php?id=66" target="_blank" rel="noopener noreferrer">CS201: Elementary Data Structures</a> | Saylor Academy |Professional|38 | 🏆|
-| <a href="https://learn.saylor.org/course/view.php?id=67" target="_blank" rel="noopener noreferrer">CS202: Discrete Structures</a> | Saylor Academy |Professional|44 | ���|
+| <a href="https://learn.saylor.org/course/view.php?id=67" target="_blank" rel="noopener noreferrer">CS202: Discrete Structures</a> | Saylor Academy |Professional|44 | 🏆|
 | <a href="https://learn.saylor.org/course/view.php?id=71" target="_blank" rel="noopener noreferrer">CS301: Computer Architecture</a> | Saylor Academy |Professional|48 | 🏆|
 | <a href="https://learn.saylor.org/course/view.php?id=73" target="_blank" rel="noopener noreferrer">CS302: Software Engineering</a> | Saylor Academy |Professional|45 | 🏆|
 | <a href="https://www.hackerrank.com/skills-verification/problem_solving_basic" target="_blank" rel="noopener noreferrer">Problem Solving</a> | HackerRank |Beginner| 1.5 | 🏆|
