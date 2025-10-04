@@ -358,9 +358,10 @@ Database
 ========
 
 * ⭐ [postmodern](http://marijnhaverbeke.nl/postmodern/) - A library for interacting with PostgreSQL. [zlib][33].
-* [cl-sqlite ![GitHub Repo Stars](https://img.shields.io/github/stars/dmitryvk/cl-sqlite) ![GitHub last commit](https://img.shields.io/github/last-commit/dmitryvk/cl-sqlite)](https://github.com/dmitryvk/cl-sqlite) - Bindings for SQLite. Public domain.
 * [cl-dbi ![GitHub Repo Stars](https://img.shields.io/github/stars/fukamachi/cl-dbi) ![GitHub last commit](https://img.shields.io/github/last-commit/fukamachi/cl-dbi)](https://github.com/fukamachi/cl-dbi) - A database-independent interface for Common Lisp. [LLGPL][8].
 * [sxql ![GitHub Repo Stars](https://img.shields.io/github/stars/fukamachi/sxql) ![GitHub last commit](https://img.shields.io/github/last-commit/fukamachi/sxql)](https://github.com/fukamachi/sxql) - A DSL for generating SQL. [3-clause BSD][15].
+  * NEW as of Oct, 2025: a [composable query builder ![GitHub Repo Stars](https://img.shields.io/github/stars/fukamachi/sxql) ![GitHub last commit](https://img.shields.io/github/last-commit/fukamachi/sxql)](https://github.com/fukamachi/sxql/blob/master/COMPOSER.md). Queries become first-class values that can be derived, combined, and reused without side effects.
+* [cl-sqlite ![GitHub Repo Stars](https://img.shields.io/github/stars/dmitryvk/cl-sqlite) ![GitHub last commit](https://img.shields.io/github/last-commit/dmitryvk/cl-sqlite)](https://github.com/dmitryvk/cl-sqlite) - Bindings for SQLite. Public domain.
 * [cl-yesql ![GitHub Repo Stars](https://img.shields.io/github/stars/ruricolist/cl-yesql) ![GitHub last commit](https://img.shields.io/github/last-commit/ruricolist/cl-yesql)](https://github.com/ruricolist/cl-yesql) - SQL statements live in their own files, in SQL syntax, and are imported into Lisp as functions. You are not limited to the features a DSL supports. Based on Clojure's Yesql. [MIT][200].
 
 See also:
@@ -375,6 +376,7 @@ ORMs
 * 👍 [mito ![GitHub Repo Stars](https://img.shields.io/github/stars/fukamachi/mito) ![GitHub last commit](https://img.shields.io/github/last-commit/fukamachi/mito)](https://github.com/fukamachi/mito) - An ORM for Common Lisp with migrations, relationships and PostgreSQL support [BSD_3Clause][15].
   * [mitho-auth ![GitHub Repo Stars](https://img.shields.io/github/stars/fukamachi/mito-auth) ![GitHub last commit](https://img.shields.io/github/last-commit/fukamachi/mito-auth)](https://github.com/fukamachi/mito-auth), a mixin class for use authorization
   * [mito-attachment ![GitHub Repo Stars](https://img.shields.io/github/stars/fukamachi/mito-attachment) ![GitHub last commit](https://img.shields.io/github/last-commit/fukamachi/mito-attachment)](https://github.com/fukamachi/mito-attachment), a mixin class for file management outside of RDBMS.
+  * works best coupled with SxQL and its Query Composer.
 * [clsql](http://www.cliki.net/CLSQL) - An SQL database with a Common Lisp interface. [LLGPL][8].
   * [dbd-oracle ![GitHub Repo Stars](https://img.shields.io/github/stars/sergadin/dbd-oracle) ![GitHub last commit](https://img.shields.io/github/last-commit/sergadin/dbd-oracle)](https://github.com/sergadin/dbd-oracle) - an Oracle database driver for CL-DBI. [LLGPL][8].
 * [datafly ![GitHub Repo Stars](https://img.shields.io/github/stars/fukamachi/datafly) ![GitHub last commit](https://img.shields.io/github/last-commit/fukamachi/datafly)](https://github.com/fukamachi/datafly) - A lightweight database library. [3-clause BSD][15].
@@ -1073,7 +1075,7 @@ Beginner
 * [Successful Lisp](http://successful-lisp.blogspot.com/) - A good book for beginners with some programming background.
 * [Lisp Quickstart](https://cs.gmu.edu/~sean/lisp/LispTutorial.html) - A good tutorial to get up and code Common Lisp quickly.
 * [Casting SPELs in LISP](http://www.lisperati.com/casting.html) - A fun way to learn LISP while reading a comic book.
-* 📹 [Common Lisp Programming: from novice to effective developer](https://www.udemy.com/course/common-lisp-programming/?referralCode=2F3D698BBC4326F94358) - A learning video series on the Udemy platform (*full content under paid access*). By an active lisper and community contributor (@vindarel). [Github home ![GitHub Repo Stars](https://img.shields.io/github/stars/vindarel/common-lisp-course-in-videos) ![GitHub last commit](https://img.shields.io/github/last-commit/vindarel/common-lisp-course-in-videos)](https://github.com/vindarel/common-lisp-course-in-videos/).
+* �� [Common Lisp Programming: from novice to effective developer](https://www.udemy.com/course/common-lisp-programming/?referralCode=2F3D698BBC4326F94358) - A learning video series on the Udemy platform (*full content under paid access*). By an active lisper and community contributor (@vindarel). [Github home ![GitHub Repo Stars](https://img.shields.io/github/stars/vindarel/common-lisp-course-in-videos) ![GitHub last commit](https://img.shields.io/github/last-commit/vindarel/common-lisp-course-in-videos)](https://github.com/vindarel/common-lisp-course-in-videos/).
   > Thanks for supporting my work on Udemy. I can send a free link to students, just contact me.
 * [Loving Common Lisp, or the Savvy Programmer's Secret Weapon](https://leanpub.com/lovinglisp) - Quick introduction to Common Lisp with many examples. A particular focus is on how to use Large Language Models (LLMs).
 
