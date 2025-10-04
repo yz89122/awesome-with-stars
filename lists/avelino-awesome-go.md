@@ -3755,6 +3755,10 @@ _Add the group of your city/country here (send **PR**)_
 
 **[⬆ back to top](#contents)**
 
+## Contribution
+
+We welcome contributions! Please refer to our [CONTRIBUTING.md ![GitHub Repo Stars](https://img.shields.io/github/stars/avelino/awesome-go) ![GitHub last commit](https://img.shields.io/github/last-commit/avelino/awesome-go)](https://github.com/avelino/awesome-go/blob/main/CONTRIBUTING.md) for guidelines.
+
 ## License
 
 This project is licensed under the [MIT License ![GitHub Repo Stars](https://img.shields.io/github/stars/avelino/awesome-go) ![GitHub last commit](https://img.shields.io/github/last-commit/avelino/awesome-go)](https://github.com/avelino/awesome-go/blob/main/LICENSE) - see the LICENSE file for details.
