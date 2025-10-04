@@ -1293,7 +1293,7 @@ Kani verifies:
 
 - [SwiftLint](https://realm.github.io/SwiftLint) — A tool to enforce Swift style and conventions.
 
-- **Tailor** :warning: �� A static analysis and lint tool for source code written in Apple's Swift programming language.
+- **Tailor** :warning: — A static analysis and lint tool for source code written in Apple's Swift programming language.
 
 
 <a name="tcl" />
