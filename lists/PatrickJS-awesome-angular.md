@@ -1922,6 +1922,7 @@ to simplify usage and allow quick customization.
 * [ship-ui ![GitHub Repo Stars](https://img.shields.io/github/stars/shipuicom/core) ![GitHub last commit](https://img.shields.io/github/last-commit/shipuicom/core)](https://github.com/shipuicom/core) - A modern, signal-based, zoneless-compatible UI library for Angular. Explore its features and documentation on their [official website](https://www.shipui.com).
 * [slateui ![GitHub Repo Stars](https://img.shields.io/github/stars/angularcafe/slateui) ![GitHub last commit](https://img.shields.io/github/last-commit/angularcafe/slateui)](https://github.com/angularcafe/slateui) - A modern, accessible UI component library that provides directive-based components built with Angular primitives, Tailwind CSS, and signals.
 * [@nexcraft/forge ![GitHub Repo Stars](https://img.shields.io/github/stars/dev-ignis/forge) ![GitHub last commit](https://img.shields.io/github/last-commit/dev-ignis/forge)](https://github.com/dev-ignis/forge) - Framework-agnostic Web Components UI library. Works in Angular via custom elements.
+* [ngx-nova-ui ![GitHub Repo Stars](https://img.shields.io/github/stars/lebocow/ngx-nova-ui) ![GitHub last commit](https://img.shields.io/github/last-commit/lebocow/ngx-nova-ui)](https://github.com/lebocow/ngx-nova-ui) - A modern Angular 20 UI component library built with signals, standalone components, and a CSS-first theming approach.
 
 ### UI Libraries built on Bootstrap
 
