@@ -595,7 +595,7 @@ There is also an ongoing experimental project to make OCaml multiprocessor and m
 - [QCheck ![GitHub Repo Stars](https://img.shields.io/github/stars/c-cube/qcheck) ![GitHub last commit](https://img.shields.io/github/last-commit/c-cube/qcheck)](https://github.com/c-cube/qcheck) — QCheck is a property testing library inspired from Haskell's QuickCheck
 - [iTeML ![GitHub Repo Stars](https://img.shields.io/github/stars/vincent-hugot/iTeML) ![GitHub last commit](https://img.shields.io/github/last-commit/vincent-hugot/iTeML)](https://github.com/vincent-hugot/iTeML) (formerly known as [qtest](http://batteries.vhugot.com/qtest/))  — supports inline pragma's to generate tests.
 - [Kaputt](http://kaputt.x9c.fr/) —  comprehensive testing framework.
-- [Pa_test](https://ocaml.janestreet.com/ocaml-core/111.28.00/doc/pa_test) ���  General inline testing macro's.
+- [Pa_test](https://ocaml.janestreet.com/ocaml-core/111.28.00/doc/pa_test) —  General inline testing macro's.
 - [TestSimple ![GitHub Repo Stars](https://img.shields.io/github/stars/hcarty/ocaml-testsimple) ![GitHub last commit](https://img.shields.io/github/last-commit/hcarty/ocaml-testsimple)](https://github.com/hcarty/ocaml-testsimple) - A lightweight unit testing framework compatible with the [Test Anything Protocol](https://testanything.org/).
 - [expect-test ![GitHub Repo Stars](https://img.shields.io/github/stars/janestreet/ppx_expect) ![GitHub last commit](https://img.shields.io/github/last-commit/janestreet/ppx_expect)](https://github.com/janestreet/ppx_expect) — A framework for writing tests in OCaml, similar to [Cram](https://bitheap.org/cram/), developed by [JaneStreet](https://blog.janestreet.com/testing-with-expectations/). 
 
