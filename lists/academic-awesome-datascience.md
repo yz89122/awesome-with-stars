@@ -282,7 +282,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
   - [Mixture models](https://en.wikipedia.org/wiki/Mixture_model)
 - [Dimension Reduction](https://en.wikipedia.org/wiki/Dimensionality_reduction)
   - [Principal Component Analysis (PCA)](https://scikit-learn.org/stable/modules/decomposition.html#principal-component-analysis-pca)
-  - [t-SNE; t-distributed Stochastic Neighbor Embedding](https://scikit-learn.org/stable/modules/decomposition.html#principal-component-analysis-pca)
+  - [t-SNE; t-distributed Stochastic Neighbor Embedding](https://scikit-learn.org/stable/modules/manifold.html#t-distributed-stochastic-neighbor-embedding-tsne)
   - [Factor Analysis](https://scikit-learn.org/stable/modules/decomposition.html#factor-analysis)
   - [Latent Dirichlet Allocation (LDA)](https://scikit-learn.org/stable/modules/decomposition.html#latent-dirichlet-allocation-lda)
 - [Neural Networks](https://en.wikipedia.org/wiki/Neural_network)
@@ -587,12 +587,10 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 | [LIME ![GitHub Repo Stars](https://img.shields.io/github/stars/marcotcr/lime) ![GitHub last commit](https://img.shields.io/github/last-commit/marcotcr/lime)](https://github.com/marcotcr/lime) | Explaining the predictions of any machine learning classifier |
 | [flyte ![GitHub Repo Stars](https://img.shields.io/github/stars/flyteorg/flyte) ![GitHub last commit](https://img.shields.io/github/last-commit/flyteorg/flyte)](https://github.com/flyteorg/flyte) | Workflow automation platform for machine learning |
 | [dbt ![GitHub Repo Stars](https://img.shields.io/github/stars/dbt-labs/dbt-core) ![GitHub last commit](https://img.shields.io/github/last-commit/dbt-labs/dbt-core)](https://github.com/dbt-labs/dbt-core) | Data build tool |
-| [SHAP ![GitHub Repo Stars](https://img.shields.io/github/stars/slundberg/shap) ![GitHub last commit](https://img.shields.io/github/last-commit/slundberg/shap)](https://github.com/slundberg/shap) | Game theoretic approach to explain the output of any machine learning model |
-| [LIME ![GitHub Repo Stars](https://img.shields.io/github/stars/marcotcr/lime) ![GitHub last commit](https://img.shields.io/github/last-commit/marcotcr/lime)](https://github.com/marcotcr/lime) | Explaining the predictions of any machine learning classifier |
 | [zasper ![GitHub Repo Stars](https://img.shields.io/github/stars/zasper-io/zasper) ![GitHub last commit](https://img.shields.io/github/last-commit/zasper-io/zasper)](https://github.com/zasper-io/zasper) | Supercharged IDE for Data Science |
 | [skrub ![GitHub Repo Stars](https://img.shields.io/github/stars/skrub-data/skrub) ![GitHub last commit](https://img.shields.io/github/last-commit/skrub-data/skrub)](https://github.com/skrub-data/skrub/) | A Python library to ease preprocessing and feature engineering for tabular machine learning |
 | [Codeflash](https://www.codeflash.ai/) | Ship Blazing-Fast Python Code — Every Time |
-
+| [Hugging Face](https://huggingface.co/) | Popular open platform for sharing ML models, datasets, and collaborating on NLP and generative AI projects. |
 
 
 
@@ -738,7 +736,6 @@ This section includes some additional reading material, channels to watch, and t
 - [R Bloggers](https://www.r-bloggers.com/) - R Bloggers
 - [The Practical Quant](https://practicalquant.blogspot.com/) Big data
 - [Yet Another Data Blog](https://yet-another-data-blog.blogspot.com/) Yet Another Data Blog
-- [Spenczar](https://spenczar.com/) a data scientist at _Twitch_. I handle the whole data pipeline, from tracking to model-building to reporting.
 - [KD Nuggets](https://www.kdnuggets.com/) Data Mining, Analytics, Big Data, Data, Science not a blog a portal
 - [Meta Brown](https://www.metabrown.com/blog/) - Personal Blog
 - [Data Scientist](https://datascientists.com/) is building the data scientist culture.
@@ -1043,7 +1040,6 @@ Some data mining competition platforms
 - [hadoopilluminated.com](https://hadoopilluminated.com/hadoop_illuminated/Public_Bigdata_Sets.html)
 - [data.gov](https://catalog.data.gov/dataset) - The home of the U.S. Government's open data
 - [United States Census Bureau](https://www.census.gov/)
-- [usgovxml.com](https://usgovxml.com/)
 - [enigma.com](https://enigma.com/) - Navigate the world of public data - Quickly search and analyze billions of public records published by governments, companies and organizations.
 - [datahub.io](https://datahub.io/)
 - [aws.amazon.com/datasets](https://aws.amazon.com/datasets/)
@@ -1095,6 +1091,7 @@ Some data mining competition platforms
 - [The Humanitarian Data Exchange](https://data.humdata.org/)
 - [250k+ Job Postings](https://aws.amazon.com/marketplace/pp/prodview-p2554p3tczbes) - An expanding dataset of historical job postings from Luxembourg from 2020 to today. Free with 250k+ job postings hosted on AWS Data Exchange.
 - [FinancialData.Net](https://financialdata.net/documentation) - Financial datasets (stock market data, financial statements, sustainability data, and more).
+- [Google Dataset Search](https://datasetsearch.research.google.com/) – Find datasets across the web.
 
 
 ### Comics
