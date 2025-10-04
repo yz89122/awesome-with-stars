@@ -565,7 +565,7 @@ A full-fledged desktop application for orchestrating, monitoring, and interactin
 Handy CLI tool for managing and analyzing Claude Code usage, based on analyzing local Claude Code logs. Presents a nice dashboard regarding cost information, token consumption, etc.
 
 <details>
-<summary>��� GitHub Stats</summary>
+<summary>📊 GitHub Stats</summary>
 
 ![GitHub Stats for ccusage](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=ccusage&username=ryoppippi&all_stats=true&stats_only=true)
 
@@ -797,7 +797,7 @@ A TypeScript-based system for configuring and customizing Claude Code hooks with
 </details>
 <br>
 
-[`Claudio` ![GitHub Repo Stars](https://img.shields.io/github/stars/ctoth/claudio) ![GitHub last commit](https://img.shields.io/github/last-commit/ctoth/claudio)](https://github.com/ctoth/claudio) &nbsp; by &nbsp; [Christopher Toth](https://github.com/ctoth)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;&copy;  
+[`Claudio` ![GitHub Repo Stars](https://img.shields.io/github/stars/ctoth/claudio) ![GitHub last commit](https://img.shields.io/github/last-commit/ctoth/claudio)](https://github.com/ctoth/claudio) &nbsp; by &nbsp; [Christopher Toth](https://github.com/ctoth)  &nbsp;&nbsp;⚖���&nbsp;&nbsp;&copy;  
 A no-frills little library that adds delightful OS-native sounds to Claude Code via simple hooks. It really sparks joy.
 
 <details>
