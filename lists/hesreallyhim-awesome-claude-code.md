@@ -702,7 +702,7 @@ A Rust CLI tool that lets you delegate development tasks to AI agents running in
 
 <br>
 
-## Status Lines �� [🔝](#awesome-claude-code)
+## Status Lines 📊 [🔝](#awesome-claude-code)
 
 > **Status lines** - Configurations and customizations for Claude Code's status bar functionality
 
@@ -753,7 +753,7 @@ A vim-style powerline statusline for Claude Code with real-time usage tracking, 
 <details open>
 <summary><h3>General <a href="#awesome-claude-code">🔝</a></h3></summary>
 
-[`CC Notify` ![GitHub Repo Stars](https://img.shields.io/github/stars/dazuiba/CCNotify) ![GitHub last commit](https://img.shields.io/github/last-commit/dazuiba/CCNotify)](https://github.com/dazuiba/CCNotify) &nbsp; by &nbsp; [dazuiba](https://github.com/dazuiba)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
+[`CC Notify` ![GitHub Repo Stars](https://img.shields.io/github/stars/dazuiba/CCNotify) ![GitHub last commit](https://img.shields.io/github/last-commit/dazuiba/CCNotify)](https://github.com/dazuiba/CCNotify) &nbsp; by &nbsp; [dazuiba](https://github.com/dazuiba)  &nbsp;&nbsp;⚖���&nbsp;&nbsp;MIT  
 CCNotify provides desktop notifications for Claude Code, alerting you to input needs or task completion, with one-click jumps back to VS Code and task duration display.
 
 <details>
