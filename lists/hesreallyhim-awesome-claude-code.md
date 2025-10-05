@@ -702,7 +702,7 @@ A Rust CLI tool that lets you delegate development tasks to AI agents running in
 
 <br>
 
-## Status Lines 📊 [🔝](#awesome-claude-code)
+## Status Lines ��� [🔝](#awesome-claude-code)
 
 > **Status lines** - Configurations and customizations for Claude Code's status bar functionality
 
@@ -797,7 +797,7 @@ A TypeScript-based system for configuring and customizing Claude Code hooks with
 </details>
 <br>
 
-[`Claudio` ![GitHub Repo Stars](https://img.shields.io/github/stars/ctoth/claudio) ![GitHub last commit](https://img.shields.io/github/last-commit/ctoth/claudio)](https://github.com/ctoth/claudio) &nbsp; by &nbsp; [Christopher Toth](https://github.com/ctoth)  &nbsp;&nbsp;⚖���&nbsp;&nbsp;&copy;  
+[`Claudio` ![GitHub Repo Stars](https://img.shields.io/github/stars/ctoth/claudio) ![GitHub last commit](https://img.shields.io/github/last-commit/ctoth/claudio)](https://github.com/ctoth/claudio) &nbsp; by &nbsp; [Christopher Toth](https://github.com/ctoth)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;&copy;  
 A no-frills little library that adds delightful OS-native sounds to Claude Code via simple hooks. It really sparks joy.
 
 <details>
