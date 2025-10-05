@@ -40,6 +40,7 @@
 * [autobase ![GitHub Repo Stars](https://img.shields.io/github/stars/vitabaks/autobase) ![GitHub last commit](https://img.shields.io/github/last-commit/vitabaks/autobase)](https://github.com/vitabaks/autobase) - Autobase for PostgreSQL® is an open-source DBaaS that automates the deployment and management of highly available PostgreSQL clusters.
 * [BDR ![GitHub Repo Stars](https://img.shields.io/github/stars/2ndQuadrant/bdr) ![GitHub last commit](https://img.shields.io/github/last-commit/2ndQuadrant/bdr)](https://github.com/2ndQuadrant/bdr) - BiDirectional Replication - a multimaster replication system for PostgreSQL
 * [Patroni ![GitHub Repo Stars](https://img.shields.io/github/stars/zalando/patroni) ![GitHub last commit](https://img.shields.io/github/last-commit/zalando/patroni)](https://github.com/zalando/patroni) - Template for PostgreSQL HA with ZooKeeper or etcd.
+* [Spock ![GitHub Repo Stars](https://img.shields.io/github/stars/pgEdge/spock) ![GitHub last commit](https://img.shields.io/github/last-commit/pgEdge/spock)](https://github.com/pgEdge/spock) - 100% open-source logical multi-master PostgreSQL replication.
 * [Stolon ![GitHub Repo Stars](https://img.shields.io/github/stars/sorintlab/stolon) ![GitHub last commit](https://img.shields.io/github/last-commit/sorintlab/stolon)](https://github.com/sorintlab/stolon) - PostgreSQL HA based on Consul or etcd, with Kubernetes integration.
 * [pglookout ![GitHub Repo Stars](https://img.shields.io/github/stars/aiven/pglookout) ![GitHub last commit](https://img.shields.io/github/last-commit/aiven/pglookout)](https://github.com/aiven/pglookout) - Replication monitoring and failover daemon.
 * [repmgr ![GitHub Repo Stars](https://img.shields.io/github/stars/2ndQuadrant/repmgr) ![GitHub last commit](https://img.shields.io/github/last-commit/2ndQuadrant/repmgr)](https://github.com/2ndQuadrant/repmgr) - Open-source tool suite to manage replication and failover in a cluster of PostgreSQL servers.
@@ -83,6 +84,7 @@
 * [Numeracy](https://numeracy.co/) - Fast SQL editor with charts and dashboards for PostgreSQL (Commercial Software).
 * [pgAdmin](https://www.pgadmin.org/) - PostgreSQL Administration and Management GUI.
 * [pgMagic🪄](https://pgmagic.app/?ref=awesomepostgres) - Chat to Postgres in Natural Language (Commercial Software).
+* [PgManage ![GitHub Repo Stars](https://img.shields.io/github/stars/commandprompt/pgmanage) ![GitHub last commit](https://img.shields.io/github/last-commit/commandprompt/pgmanage)](https://github.com/commandprompt/pgmanage) - A modern multi-platform Postgres-centric database client/administration tool.
 * [pgModeler](https://pgmodeler.io/) - pgModeler is an open-source PostgreSQL Database Modeler.
 * [pgweb ![GitHub Repo Stars](https://img.shields.io/github/stars/sosedoff/pgweb) ![GitHub last commit](https://img.shields.io/github/last-commit/sosedoff/pgweb)](https://github.com/sosedoff/pgweb) - Web-based PostgreSQL database browser written in Go.
 * [phpPgAdmin ![GitHub Repo Stars](https://img.shields.io/github/stars/phppgadmin/phppgadmin) ![GitHub last commit](https://img.shields.io/github/last-commit/phppgadmin/phppgadmin)](https://github.com/phppgadmin/phppgadmin) - The Premier Web Based Administration Tool for PostgreSQL.
@@ -142,6 +144,7 @@
 * [dexter ![GitHub Repo Stars](https://img.shields.io/github/stars/ankane/dexter) ![GitHub last commit](https://img.shields.io/github/last-commit/ankane/dexter)](https://github.com/ankane/dexter) - The automatic indexer for Postgres. Detects slow queries and creates indexes if configured to do so.
 * [pg_exporter ![GitHub Repo Stars](https://img.shields.io/github/stars/Vonng/pg_exporter) ![GitHub last commit](https://img.shields.io/github/last-commit/Vonng/pg_exporter)](https://github.com/Vonng/pg_exporter) - Fully customizable Prometheus exporter for PostgreSQL & Pgbouncer with fine-grained execution control.
 * [postgres_exporter ![GitHub Repo Stars](https://img.shields.io/github/stars/wrouesnel/postgres_exporter) ![GitHub last commit](https://img.shields.io/github/last-commit/wrouesnel/postgres_exporter)](https://github.com/wrouesnel/postgres_exporter) - Prometheus exporter for PostgreSQL server metrics.
+* [StatsMgr](https://codeberg.org/data-bene/statsmgr) - An open-source PostgreSQL extension designed for efficient and organized advanced statistics management.
 
 ### Extensions
 * [pgxn](https://pgxn.org/) PostgreSQL Extension Network - central distribution point for many open-source PostgreSQL extensions.

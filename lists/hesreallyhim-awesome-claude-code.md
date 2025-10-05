@@ -565,7 +565,7 @@ A full-fledged desktop application for orchestrating, monitoring, and interactin
 Handy CLI tool for managing and analyzing Claude Code usage, based on analyzing local Claude Code logs. Presents a nice dashboard regarding cost information, token consumption, etc.
 
 <details>
-<summary>��� GitHub Stats</summary>
+<summary>📊 GitHub Stats</summary>
 
 ![GitHub Stats for ccusage](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=ccusage&username=ryoppippi&all_stats=true&stats_only=true)
 
