@@ -328,7 +328,7 @@ Further resources:
 * [Fungp ![GitHub Repo Stars](https://img.shields.io/github/stars/vollmerm/fungp) ![GitHub last commit](https://img.shields.io/github/last-commit/vollmerm/fungp)](https://github.com/vollmerm/fungp) - A genetic programming library for Clojure. **[Deprecated]**
 * [Statistiker ![GitHub Repo Stars](https://img.shields.io/github/stars/clojurewerkz/statistiker) ![GitHub last commit](https://img.shields.io/github/last-commit/clojurewerkz/statistiker)](https://github.com/clojurewerkz/statistiker) - Basic Machine Learning algorithms in Clojure. **[Deprecated]**
 * [clortex ![GitHub Repo Stars](https://img.shields.io/github/stars/htm-community/clortex) ![GitHub last commit](https://img.shields.io/github/last-commit/htm-community/clortex)](https://github.com/htm-community/clortex) - General Machine Learning library using Numenta’s Cortical Learning Algorithm. **[Deprecated]**
-* [comportex ![GitHub Repo Stars](https://img.shields.io/github/stars/htm-community/comportex) ![GitHub last commit](https://img.shields.io/github/last-commit/htm-community/comportex)](https://github.com/htm-community/comportex) - Functionally composable Machine Learning library using Numenta��s Cortical Learning Algorithm. **[Deprecated]**
+* [comportex ![GitHub Repo Stars](https://img.shields.io/github/stars/htm-community/comportex) ![GitHub last commit](https://img.shields.io/github/last-commit/htm-community/comportex)](https://github.com/htm-community/comportex) - Functionally composable Machine Learning library using Numenta’s Cortical Learning Algorithm. **[Deprecated]**
 
 <a name="clojure-deep-learning"></a>
 #### Deep Learning
