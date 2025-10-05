@@ -995,7 +995,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [Mailchimp](https://mailchimp.com/) — 500 subscribers and 1,000 emails/month free.
   * [Maildroppa](https://maildroppa.com) - Up to 100 subscribers and unlimited emails as well as automations for free.
   * [MailerLite.com](https://www.mailerlite.com) — 1,000 subscribers/month, 12,000 emails/month free
-  * [MailerSend.com](https://www.mailersend.com) — Email API, SMTP, 3,000 emails/month free for transactional emails
+  * [MailerSend.com](https://www.mailersend.com) �� Email API, SMTP, 3,000 emails/month free for transactional emails
   * [mailinator.com](https://www.mailinator.com/) — Free, public email system where you can use any inbox you want
   * [Mailjet](https://www.mailjet.com/) — 6,000 emails/month free (200 emails daily sending limit)
   * [Mailnesia](https://mailnesia.com) - Free temporary/disposable email, which auto visit registration link.
@@ -1823,7 +1823,7 @@ Update Time, five active automations, webhooks.
 
 ## International Mobile Number Verification API and SDK
 
-  * [numverify](https://numverify.com/) ��� Global phone number validation and lookup JSON API. 100 API requests/month
+  * [numverify](https://numverify.com/) — Global phone number validation and lookup JSON API. 100 API requests/month
   * [veriphone](https://veriphone.io/) — Global phone number verification in a free, fast, reliable JSON API. 1000 requests/month
 
 **[⬆️ Back to Top](#table-of-contents)**
