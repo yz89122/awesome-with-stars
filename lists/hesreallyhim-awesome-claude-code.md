@@ -96,7 +96,7 @@ A self-contained Docker runner that forwards your current workspace into a safe(
 </details>
 <br>
 
-[`ClaudoPro Directory` ![GitHub Repo Stars](https://img.shields.io/github/stars/JSONbored/claudepro-directory) ![GitHub last commit](https://img.shields.io/github/last-commit/JSONbored/claudepro-directory)](https://github.com/JSONbored/claudepro-directory) &nbsp; by &nbsp; [ghost](https://github.com/JSONbored)  &nbsp;&nbsp;⚖��&nbsp;&nbsp;MIT  
+[`ClaudoPro Directory` ![GitHub Repo Stars](https://img.shields.io/github/stars/JSONbored/claudepro-directory) ![GitHub last commit](https://img.shields.io/github/last-commit/JSONbored/claudepro-directory)](https://github.com/JSONbored/claudepro-directory) &nbsp; by &nbsp; [ghost](https://github.com/JSONbored)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
 Well-crafted, wide selection of Claude Code hooks, slash commands, subagent files, and more, covering a range of specialized tasks and workflows. Better resources than your average "Claude-template-for-everything" site.
 
 <details>
@@ -427,7 +427,7 @@ A webhook service that connects Claude Code to GitHub repositories, enabling AI-
 </details>
 <br>
 
-[`claude-code-tools` ![GitHub Repo Stars](https://img.shields.io/github/stars/pchalasani/claude-code-tools) ![GitHub last commit](https://img.shields.io/github/last-commit/pchalasani/claude-code-tools)](https://github.com/pchalasani/claude-code-tools) &nbsp; by &nbsp; [Prasad Chalasani](https://github.com/pchalasani)  &nbsp;&nbsp;��️&nbsp;&nbsp;MIT  
+[`claude-code-tools` ![GitHub Repo Stars](https://img.shields.io/github/stars/pchalasani/claude-code-tools) ![GitHub last commit](https://img.shields.io/github/last-commit/pchalasani/claude-code-tools)](https://github.com/pchalasani/claude-code-tools) &nbsp; by &nbsp; [Prasad Chalasani](https://github.com/pchalasani)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
 A collection of awesome tools, including tmux integrations, better session management, hooks that enhance security - a really well-done set of Claude Code enhancers, especially for tmux users.
 
 <details>
@@ -702,7 +702,7 @@ A Rust CLI tool that lets you delegate development tasks to AI agents running in
 
 <br>
 
-## Status Lines 📊 [🔝](#awesome-claude-code)
+## Status Lines �� [🔝](#awesome-claude-code)
 
 > **Status lines** - Configurations and customizations for Claude Code's status bar functionality
 
