@@ -565,7 +565,7 @@ A full-fledged desktop application for orchestrating, monitoring, and interactin
 Handy CLI tool for managing and analyzing Claude Code usage, based on analyzing local Claude Code logs. Presents a nice dashboard regarding cost information, token consumption, etc.
 
 <details>
-<summary>📊 GitHub Stats</summary>
+<summary>��� GitHub Stats</summary>
 
 ![GitHub Stats for ccusage](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=ccusage&username=ryoppippi&all_stats=true&stats_only=true)
 
@@ -1040,7 +1040,7 @@ Performs comprehensive code quality and security checks, featuring static analys
 Addresses code formatting and quality issues by fixing black formatting problems, organizing imports with isort, resolving flake8 linting issues, and correcting mypy type errors.
 
 <details>
-<summary>�� GitHub Stats</summary>
+<summary>📊 GitHub Stats</summary>
 
 ![GitHub Stats for eridu](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=eridu&username=Graphlet-AI&all_stats=true&stats_only=true)
 
@@ -1204,7 +1204,7 @@ Adds new entries to changelog files while maintaining format consistency, proper
 Analyzes code structure and purpose to create comprehensive documentation detailing inputs/outputs, behavior, user interaction flows, and edge cases with error handling.
 
 <details>
-<summary>�� GitHub Stats</summary>
+<summary>📊 GitHub Stats</summary>
 
 ![GitHub Stats for Narraitor](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=Narraitor&username=jerseycheese&all_stats=true&stats_only=true)
 
