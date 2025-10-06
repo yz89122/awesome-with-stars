@@ -1293,7 +1293,7 @@ Kani verifies:
 <h2>Swift</h2>
 
 
-- [SwiftFormat ![GitHub Repo Stars](https://img.shields.io/github/stars/nicklockwood/SwiftFormat) ![GitHub last commit](https://img.shields.io/github/last-commit/nicklockwood/SwiftFormat)](https://github.com/nicklockwood/SwiftFormat) �� A library and command-line formatting tool for reformatting Swift code.
+- [SwiftFormat ![GitHub Repo Stars](https://img.shields.io/github/stars/nicklockwood/SwiftFormat) ![GitHub last commit](https://img.shields.io/github/last-commit/nicklockwood/SwiftFormat)](https://github.com/nicklockwood/SwiftFormat) — A library and command-line formatting tool for reformatting Swift code.
 
 - [SwiftLint](https://realm.github.io/SwiftLint) — A tool to enforce Swift style and conventions.
 
