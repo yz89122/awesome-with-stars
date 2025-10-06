@@ -229,7 +229,7 @@ _Info on topics necessary for designing and developing game engines._
     - 🌎 [Web Game Dev](https://www.webgamedev.com) - Resources on techniques and tools around JavaScript game development.
 - Books
     - 📚 [Art of Game Design](https://www.amazon.com/Art-Game-Design-Book-Lenses/dp/0123694965) - Teaches game design in an accessible manner.
-    - ��� [Game Programming Patterns](https://gameprogrammingpatterns.com) - Patterns found in games that make code easier to understand.
+    - 📚 [Game Programming Patterns](https://gameprogrammingpatterns.com) - Patterns found in games that make code easier to understand.
 - Developer Portals
     - 🌎 [Game Developer](https://www.gamedeveloper.com) - Industry blogs, events, jobs, updates and more. Formerly _Gamasutra_.
     - 🌎 [GameDev.net](https://www.gamedev.net/) - Game dev forums, tutorials, blogs, projects, portfolios, and news.
@@ -462,7 +462,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Polygon Mesh Processing Library ![GitHub Repo Stars](https://img.shields.io/github/stars/pmp-library/pmp-library) ![GitHub last commit](https://img.shields.io/github/last-commit/pmp-library/pmp-library)](https://github.com/pmp-library/pmp-library) - Processing / visualizing polygon surface meshes.
     - 🎉 [PolyPartition ![GitHub Repo Stars](https://img.shields.io/github/stars/ivanfratric/polypartition) ![GitHub last commit](https://img.shields.io/github/last-commit/ivanfratric/polypartition)](https://github.com/ivanfratric/polypartition) - 2D polygon partitioning and triangulation.
     - ⭐ [RamerDouglasPeucker](https://gist.github.com/TimSC/0813573d77734bcb6f2cd2cf6cc7aa51) - Reduces number of points along a 2D line.
-    - ��� [Recast & Detour ![GitHub Repo Stars](https://img.shields.io/github/stars/recastnavigation/recastnavigation) ![GitHub last commit](https://img.shields.io/github/last-commit/recastnavigation/recastnavigation)](https://github.com/recastnavigation/recastnavigation) - Navigation-mesh toolset for games.
+    - 🎉 [Recast & Detour ![GitHub Repo Stars](https://img.shields.io/github/stars/recastnavigation/recastnavigation) ![GitHub last commit](https://img.shields.io/github/last-commit/recastnavigation/recastnavigation)](https://github.com/recastnavigation/recastnavigation) - Navigation-mesh toolset for games.
     - 🎉 [Seam-aware Decimater ![GitHub Repo Stars](https://img.shields.io/github/stars/songrun/SeamAwareDecimater) ![GitHub last commit](https://img.shields.io/github/last-commit/songrun/SeamAwareDecimater)](https://github.com/songrun/SeamAwareDecimater) - Simplifies mesh while preserving UVs.
     - 🎉 [Spheres ![GitHub Repo Stars](https://img.shields.io/github/stars/caosdoar/spheres) ![GitHub last commit](https://img.shields.io/github/last-commit/caosdoar/spheres)](https://github.com/caosdoar/spheres) - Four methods to create a sphere mesh.
     - 🔒 [Trimesh2](https://gfx.cs.princeton.edu/proj/trimesh2/) - Utilities for input, output, and manipulation of 3D triangle meshes.
