@@ -214,7 +214,7 @@ _It is all about the looks, apply some style._
 _The Home Assistant Dashboards allows people to build custom cards on top of it,
 which you can easily add to your instance._
 
-- [Auto-Entities Card ![GitHub Repo Stars](https://img.shields.io/github/stars/thomasloven/lovelace-auto-entities) ![GitHub last commit](https://img.shields.io/github/last-commit/thomasloven/lovelace-auto-entities)](https://github.com/thomasloven/lovelace-auto-entities) - Dynamically adds entities: 🔮 Magic.
+- [Auto-Entities Card ![GitHub Repo Stars](https://img.shields.io/github/stars/thomasloven/lovelace-auto-entities) ![GitHub last commit](https://img.shields.io/github/last-commit/thomasloven/lovelace-auto-entities)](https://github.com/thomasloven/lovelace-auto-entities) - Dynamically adds entities: ��� Magic.
 - [Canvas Gauge Card ![GitHub Repo Stars](https://img.shields.io/github/stars/custom-cards/canvas-gauge-card) ![GitHub last commit](https://img.shields.io/github/last-commit/custom-cards/canvas-gauge-card)](https://github.com/custom-cards/canvas-gauge-card) - Use awesome gauges from canvas-gauges.com.
 - [Big Number Card ![GitHub Repo Stars](https://img.shields.io/github/stars/custom-cards/bignumber-card) ![GitHub last commit](https://img.shields.io/github/last-commit/custom-cards/bignumber-card)](https://github.com/custom-cards/bignumber-card) - Display big numbers for sensors, including severity level as background.
 - [Animated Weather Card ![GitHub Repo Stars](https://img.shields.io/github/stars/bramkragten/weather-card) ![GitHub last commit](https://img.shields.io/github/last-commit/bramkragten/weather-card)](https://github.com/bramkragten/weather-card) - Nice looking card showing the weather, with subtle animations.
