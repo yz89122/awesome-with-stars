@@ -182,7 +182,7 @@ _Info on topics necessary for designing and developing game engines._
     - 🌎 [Metal](https://developer.apple.com/metal/) - API for developing 3D apps on _Apple_ platforms. [[Samples](https://developer.apple.com/metal/sample-code/)]
     - 📚 [Metal Tutorial](https://www.raywenderlich.com/7475-metal-tutorial-getting-started) - Learn how to get started with Metal at _RayWenderlich.com_.
 - Graphics API: OpenGL
-    - 📚 [LearnOpenGL](https://learnopengl.com) 🔥 - Incredible! In depth tutorials for modern graphics programming.
+    - �� [LearnOpenGL](https://learnopengl.com) 🔥 - Incredible! In depth tutorials for modern graphics programming.
     - 🌎 [Mesa 3D](https://www.mesa3d.org/) - Open source implementations of OpenGL.
     - 🌎 [OpenGL](https://www.opengl.org/) - The industry's foundation for high-performance graphics.
     - 📚 [OpenGL Tutorial](https://www.opengl-tutorial.org) - Collection of OpenGL tutorials with source code examples.
@@ -540,7 +540,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Slingshot ![GitHub Repo Stars](https://img.shields.io/github/stars/Slingshot-Physics/slingshot-community) ![GitHub last commit](https://img.shields.io/github/last-commit/Slingshot-Physics/slingshot-community)](https://github.com/Slingshot-Physics/slingshot-community) - Constraint-based physics engine for 3D rigid body dynamics.
 - C++: Reflection
     - 🎉 [Boost.PFR ![GitHub Repo Stars](https://img.shields.io/github/stars/boostorg/pfr) ![GitHub last commit](https://img.shields.io/github/last-commit/boostorg/pfr)](https://github.com/boostorg/pfr) - Basic reflection C++14 library, part of the Boost Libraries.
-    - 🎉 [Magic Enum ![GitHub Repo Stars](https://img.shields.io/github/stars/Neargye/magic_enum) ![GitHub last commit](https://img.shields.io/github/last-commit/Neargye/magic_enum)](https://github.com/Neargye/magic_enum) - Header-only C++17, provides static reflection for enums.
+    - ���� [Magic Enum ![GitHub Repo Stars](https://img.shields.io/github/stars/Neargye/magic_enum) ![GitHub last commit](https://img.shields.io/github/last-commit/Neargye/magic_enum)](https://github.com/Neargye/magic_enum) - Header-only C++17, provides static reflection for enums.
     - 🎉 [Meta ![GitHub Repo Stars](https://img.shields.io/github/stars/skypjack/meta) ![GitHub last commit](https://img.shields.io/github/last-commit/skypjack/meta)](https://github.com/skypjack/meta) - Header-only, non-intrusive and macro-free runtime reflection system in C++17.
     - 🎉 [Nameof ![GitHub Repo Stars](https://img.shields.io/github/stars/Neargye/nameof) ![GitHub last commit](https://img.shields.io/github/last-commit/Neargye/nameof)](https://github.com/Neargye/nameof) - Header-only C++17, provides nameof macros to obtain name of a variable.
     - 🎉 [Ponder ![GitHub Repo Stars](https://img.shields.io/github/stars/billyquith/ponder) ![GitHub last commit](https://img.shields.io/github/last-commit/billyquith/ponder)](https://github.com/billyquith/ponder) - Expose C++17 classes and objects so they can used as data.
