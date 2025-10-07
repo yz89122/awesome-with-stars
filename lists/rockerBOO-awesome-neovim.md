@@ -102,6 +102,7 @@
 - [nvim-neorocks/rocks.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/nvim-neorocks/rocks.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/nvim-neorocks/rocks.nvim)](https://github.com/nvim-neorocks/rocks.nvim) - A modern approach to plugin management using Luarocks, inspired by Cargo.
 - [nvim-mini/mini.nvim#mini.deps ![GitHub Repo Stars](https://img.shields.io/github/stars/nvim-mini/mini.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/nvim-mini/mini.nvim)](https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-deps.md) - Module of `mini.nvim` for managing other plugins. Uses Git and built-in packages to install, update, clean, and snapshot plugins.
 - [wsdjeg/nvim-plug ![GitHub Repo Stars](https://img.shields.io/github/stars/wsdjeg/nvim-plug) ![GitHub last commit](https://img.shields.io/github/last-commit/wsdjeg/nvim-plug)](https://github.com/wsdjeg/nvim-plug) - Asynchronous Neovim plugin manager written in Lua.
+- [alyxshang/nuwa.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/alyxshang/nuwa.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/alyxshang/nuwa.nvim)](https://github.com/alyxshang/nuwa.nvim) - A light Neovim package manager.
 
 <!--lint disable double-link -->
 
@@ -253,6 +254,9 @@
 - [azorng/goose.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/azorng/goose.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/azorng/goose.nvim)](https://github.com/azorng/goose.nvim) - Seamless Neovim integration with [goose](https://block.github.io/goose) - work with a powerful AI agent without leaving your editor.
 - [mozanunal/sllm.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/mozanunal/sllm.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/mozanunal/sllm.nvim)](https://github.com/mozanunal/sllm.nvim) - In-editor chat powered by Simon Willison's llm CLI: stream replies in a markdown buffer, manage rich context (files, URLs, selections, diagnostics, shell outputs), switch models interactively, and even see token-usage stats.
 - [chatvim/chatvim.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/chatvim/chatvim.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/chatvim/chatvim.nvim)](https://github.com/chatvim/chatvim.nvim) - Chat with Markdown files using AI models from xAI, OpenAI and Anthropic.
+- [3ZsForInsomnia/code-companion-picker ![GitHub Repo Stars](https://img.shields.io/github/stars/3ZsForInsomnia/code-companion-picker) ![GitHub last commit](https://img.shields.io/github/last-commit/3ZsForInsomnia/code-companion-picker)](https://github.com/3ZsForInsomnia/code-companion-picker) - Telescope and Snacks picker integrations for previewing CodeCompanion prompts.
+- [3ZsForInsomnia/vs-code-companion ![GitHub Repo Stars](https://img.shields.io/github/stars/3ZsForInsomnia/vs-code-companion) ![GitHub last commit](https://img.shields.io/github/last-commit/3ZsForInsomnia/vs-code-companion)](https://github.com/3ZsForInsomnia/vs-code-companion) - Tool for importing VS Code's markdown prompts into CodeCompanion.
+- [3ZsForInsomnia/token-count.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/3ZsForInsomnia/token-count.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/3ZsForInsomnia/token-count.nvim)](https://github.com/3ZsForInsomnia/token-count.nvim) - Shows the token count for the current buffer, with integrations for Lualine and NeoTree.
 
 <!--lint disable double-link -->
 
@@ -285,6 +289,7 @@
 - [kiyoon/haskell-scope-highlighting.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/kiyoon/haskell-scope-highlighting.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/kiyoon/haskell-scope-highlighting.nvim)](https://github.com/kiyoon/haskell-scope-highlighting.nvim) - Haskell syntax highlighting that considers variable scopes. Inspired from "Context Coloring" by prof. Douglas Crockford.
 - [apyra/nvim-unity.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/apyra/nvim-unity) ![GitHub last commit](https://img.shields.io/github/last-commit/apyra/nvim-unity)](https://github.com/apyra/nvim-unity) - Use Neovim as your default Unity editor with full LSP support via OmniSharp.
 - [atomicptr/defold.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/atomicptr/defold.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/atomicptr/defold.nvim)](https://github.com/atomicptr/defold.nvim) - Batteries-included development environment for the Defold game engine.
+- [onlyati/quadlet-lsp.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/onlyati/quadlet-lsp.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/onlyati/quadlet-lsp.nvim)](https://github.com/onlyati/quadlet-lsp.nvim) - Provides completion, hover and other language server features for Podman Quadlet files.
 
 ### Golang
 
@@ -637,6 +642,7 @@
 
 Tree-sitter is a new system introduced in Neovim 0.5 that incrementally parses your code into a tree that works, even with errors in your syntax. These colorschemes have specifically set colors for Tree-sitter highlight groups. Vim colorschemes will work with the new groups out of the box.
 
+- [wurli/cobalt.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/wurli/cobalt.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/wurli/cobalt.nvim)](https://github.com/wurli/cobalt.nvim) - A (mostly) faithful port of the classic blue theme from TextMate.
 - [datsfilipe/min-theme.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/datsfilipe/min-theme.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/datsfilipe/min-theme.nvim)](https://github.com/datsfilipe/min-theme.nvim) - It's a port of Min, a minimal theme for VSCode, written in Lua.
 - [github-main-user/lytmode.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/github-main-user/lytmode.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/github-main-user/lytmode.nvim)](https://github.com/github-main-user/lytmode.nvim) - A unique in-between theme inspired by LYT-Mode for Obsidian. Not quite dark, not quite light — just right.
 - [datsfilipe/vesper.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/datsfilipe/vesper.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/datsfilipe/vesper.nvim)](https://github.com/datsfilipe/vesper.nvim) - It's a port of the popular VS Code theme Vesper, written in Lua.
