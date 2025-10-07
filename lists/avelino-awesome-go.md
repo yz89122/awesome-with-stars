@@ -2390,6 +2390,7 @@ _Libraries and tools for stream processing and reactive programming._
 - [machine ![GitHub Repo Stars](https://img.shields.io/github/stars/whitaker-io/machine) ![GitHub last commit](https://img.shields.io/github/last-commit/whitaker-io/machine)](https://github.com/whitaker-io/machine) - Go library for writing and generating stream workers with built in metrics and traceability.
 - [nibbler ![GitHub Repo Stars](https://img.shields.io/github/stars/naughtygopher/nibbler) ![GitHub last commit](https://img.shields.io/github/last-commit/naughtygopher/nibbler)](https://github.com/naughtygopher/nibbler) - A lightweight package for micro batch processing.
 - [stream ![GitHub Repo Stars](https://img.shields.io/github/stars/youthlin/stream) ![GitHub last commit](https://img.shields.io/github/last-commit/youthlin/stream)](https://github.com/youthlin/stream) - Go Stream, like Java 8 Stream: Filter/Map/FlatMap/Peek/Sorted/ForEach/Reduce...
+- [StreamSQL ![GitHub Repo Stars](https://img.shields.io/github/stars/rulego/streamsql) ![GitHub last commit](https://img.shields.io/github/last-commit/rulego/streamsql)](https://github.com/rulego/streamsql) - A lightweight streaming SQL engine for real-time data processing.
 
 **[⬆ back to top](#contents)**
 
