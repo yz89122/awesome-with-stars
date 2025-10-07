@@ -135,7 +135,7 @@ Forms.) -- [Unicode 8.0.0 Chapter 3 - Surrogates](http://unicode.org/versions/Un
 
 ## Calculating Surrogate Pairs
 
-The Unicode character **���� Pile of Poo (U+1F4A9)** in UTF-16 must be encoded as a surrogate pair, i.e. two surrogates. To convert any code point to a surrogate pair, use the following algorithm (in JavaScript). Keep in mind that we're using hexidecimal notation.
+The Unicode character **💩 Pile of Poo (U+1F4A9)** in UTF-16 must be encoded as a surrogate pair, i.e. two surrogates. To convert any code point to a surrogate pair, use the following algorithm (in JavaScript). Keep in mind that we're using hexidecimal notation.
 
 ```javascript
  var High_Surrogate = function(Code_Point){ return Math.floor((Code_Point - 0x10000) / 0x400) + 0xD800 };
@@ -338,7 +338,7 @@ The zero-width non-joiner (ZWNJ) is a non-printing character used in the compute
 | Char | Code Point | Output Char |
 |------|------------|-------------|
 | ß | 0x00DF | `SS` |
-| �� | 0x0131 | `I`  |
+| ı | 0x0131 | `I`  |
 | ſ | 0x017F | `S`  |
 | ﬀ | 0xFB00 | `FF` |
 | ﬁ | 0xFB01 | `FI` |
