@@ -564,7 +564,7 @@ By default, govulncheck makes requests to the Go vulnerability database at https
 
 - [nakedret ![GitHub Repo Stars](https://img.shields.io/github/stars/alexkohler/nakedret) ![GitHub last commit](https://img.shields.io/github/last-commit/alexkohler/nakedret)](https://github.com/alexkohler/nakedret) — Finds naked returns.
 
-- [nargs ![GitHub Repo Stars](https://img.shields.io/github/stars/alexkohler/nargs) ![GitHub last commit](https://img.shields.io/github/last-commit/alexkohler/nargs)](https://github.com/alexkohler/nargs) �� Finds unused arguments in function declarations.
+- [nargs ![GitHub Repo Stars](https://img.shields.io/github/stars/alexkohler/nargs) ![GitHub last commit](https://img.shields.io/github/last-commit/alexkohler/nargs)](https://github.com/alexkohler/nargs) — Finds unused arguments in function declarations.
 
 - [OSV-Scanner](https://osv.dev/) — Vulnerability scanner written in Go which uses the data provided by OSV.dev. Developed by Google to scan dependencies across multiple languages and package managers for known vulnerabilities. Supports container scanning, license scanning, and guided remediation. Works with lockfiles, SBOMs, and container images to identify security issues.
 
@@ -1086,6 +1086,8 @@ YAPF follows a distinctive methodology, originating from the 'clang-format' tool
 <h2>Ruby</h2>
 
 
+- [Active Record Doctor ![GitHub Repo Stars](https://img.shields.io/github/stars/gregnavis/active_record_doctor) ![GitHub last commit](https://img.shields.io/github/last-commit/gregnavis/active_record_doctor)](https://github.com/gregnavis/active_record_doctor) — Identify database issues before they hit production.
+
 - [brakeman](https://brakemanscanner.org) — A static analysis security vulnerability scanner for Ruby on Rails applications.
 
 - [Bullet ![GitHub Repo Stars](https://img.shields.io/github/stars/flyerhzm/bullet) ![GitHub last commit](https://img.shields.io/github/last-commit/flyerhzm/bullet)](https://github.com/flyerhzm/bullet) — Help to kill N+1 queries and unused eager loading.
@@ -1143,6 +1145,8 @@ YAPF follows a distinctive methodology, originating from the 'clang-format' tool
 - **Saikuro** :warning: — A Ruby cyclomatic complexity analyzer.
 
 - **SandiMeter** :warning: — Static analysis tool for checking Ruby code for Sandi Metz' rules.
+
+- [Skunk ![GitHub Repo Stars](https://img.shields.io/github/stars/fastruby/skunk) ![GitHub last commit](https://img.shields.io/github/last-commit/fastruby/skunk)](https://github.com/fastruby/skunk) — A SkunkScore Calculator for Ruby Code -- Find the most complicated code without test coverage!
 
 - [Sorbet](https://sorbet.org) — A fast, powerful type checker designed for Ruby.
 
@@ -2195,11 +2199,15 @@ but with the following improvements:
 <h2>Rails</h2>
 
 
+- [Active Record Doctor ![GitHub Repo Stars](https://img.shields.io/github/stars/gregnavis/active_record_doctor) ![GitHub last commit](https://img.shields.io/github/last-commit/gregnavis/active_record_doctor)](https://github.com/gregnavis/active_record_doctor) — Identify database issues before they hit production.
+
 - [Bullet ![GitHub Repo Stars](https://img.shields.io/github/stars/flyerhzm/bullet) ![GitHub last commit](https://img.shields.io/github/last-commit/flyerhzm/bullet)](https://github.com/flyerhzm/bullet) — Help to kill N+1 queries and unused eager loading.
 
 - [DatabaseConsistency ![GitHub Repo Stars](https://img.shields.io/github/stars/djezzzl/database_consistency) ![GitHub last commit](https://img.shields.io/github/last-commit/djezzzl/database_consistency)](https://github.com/djezzzl/database_consistency) — The tool to avoid various issues due to inconsistencies and inefficiencies between a database schema and application models.
 
 - [dawnscanner ![GitHub Repo Stars](https://img.shields.io/github/stars/thesp0nge/dawnscanner) ![GitHub last commit](https://img.shields.io/github/last-commit/thesp0nge/dawnscanner)](https://github.com/thesp0nge/dawnscanner) — A static analysis security scanner for ruby written web applications. It supports Sinatra, Padrino and Ruby on Rails frameworks.
+
+- [Skunk ![GitHub Repo Stars](https://img.shields.io/github/stars/fastruby/skunk) ![GitHub last commit](https://img.shields.io/github/last-commit/fastruby/skunk)](https://github.com/fastruby/skunk) — A SkunkScore Calculator for Ruby Code -- Find the most complicated code without test coverage!
 
 
 <a name="security" />
