@@ -1216,6 +1216,7 @@ _Libraries for working with forms._
 - [nosurf ![GitHub Repo Stars](https://img.shields.io/github/stars/justinas/nosurf) ![GitHub last commit](https://img.shields.io/github/last-commit/justinas/nosurf)](https://github.com/justinas/nosurf) - CSRF protection middleware for Go.
 - [qs ![GitHub Repo Stars](https://img.shields.io/github/stars/sonh/qs) ![GitHub last commit](https://img.shields.io/github/last-commit/sonh/qs)](https://github.com/sonh/qs) - Go module for encoding structs into URL query parameters.
 - [queryparam ![GitHub Repo Stars](https://img.shields.io/github/stars/tomwright/queryparam) ![GitHub last commit](https://img.shields.io/github/last-commit/tomwright/queryparam)](https://github.com/tomwright/queryparam) - Decode `url.Values` into usable struct values of standard or custom types.
+- [roamer ![GitHub Repo Stars](https://img.shields.io/github/stars/slipros/roamer) ![GitHub last commit](https://img.shields.io/github/last-commit/slipros/roamer)](https://github.com/slipros/roamer) - Eliminates boilerplate code for parsing HTTP requests by binding cookies, headers, query params, path params, body to structs and more by using simple tags.
 
 **[⬆ back to top](#contents)**
 
