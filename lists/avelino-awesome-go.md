@@ -53,6 +53,9 @@ Please take a quick gander at the [contribution guidelines ![GitHub Repo Stars](
 
 ## Contents
 
+<details>
+<summary>Expand contents</summary>
+
 - [Awesome Go](#awesome-go)
   - [Contents](#contents)
   - [Actor Model](#actor-model)
@@ -227,6 +230,8 @@ _Libraries for building programs that leverage AI._
 
 **[⬆ back to top](#contents)**
 
+</details>
+
 ## Audio and Music
 
 _Libraries for manipulating audio._
@@ -234,6 +239,7 @@ _Libraries for manipulating audio._
 - [beep ![GitHub Repo Stars](https://img.shields.io/github/stars/faiface/beep) ![GitHub last commit](https://img.shields.io/github/last-commit/faiface/beep)](https://github.com/faiface/beep) - A simple library for playback and audio manipulation.
 - [flac ![GitHub Repo Stars](https://img.shields.io/github/stars/mewkiz/flac) ![GitHub last commit](https://img.shields.io/github/last-commit/mewkiz/flac)](https://github.com/mewkiz/flac) - Native Go FLAC encoder/decoder with support for FLAC streams.
 - [gaad ![GitHub Repo Stars](https://img.shields.io/github/stars/Comcast/gaad) ![GitHub last commit](https://img.shields.io/github/last-commit/Comcast/gaad)](https://github.com/Comcast/gaad) - Native Go AAC bitstream parser.
+- [go-mpris ![GitHub Repo Stars](https://img.shields.io/github/stars/leberKleber/go-mpris) ![GitHub last commit](https://img.shields.io/github/last-commit/leberKleber/go-mpris)](https://github.com/leberKleber/go-mpris) - Client for mpris dbus interfaces.
 - [GoAudio ![GitHub Repo Stars](https://img.shields.io/github/stars/DylanMeeus/GoAudio) ![GitHub last commit](https://img.shields.io/github/last-commit/DylanMeeus/GoAudio)](https://github.com/DylanMeeus/GoAudio) - Native Go Audio Processing Library.
 - [gosamplerate ![GitHub Repo Stars](https://img.shields.io/github/stars/dh1tw/gosamplerate) ![GitHub last commit](https://img.shields.io/github/last-commit/dh1tw/gosamplerate)](https://github.com/dh1tw/gosamplerate) - libsamplerate bindings for go.
 - [id3v2 ![GitHub Repo Stars](https://img.shields.io/github/stars/bogem/id3v2) ![GitHub last commit](https://img.shields.io/github/last-commit/bogem/id3v2)](https://github.com/bogem/id3v2) - ID3 decoding and encoding library for Go.
@@ -436,6 +442,7 @@ _Libraries for building standard or basic Command Line applications._
 - [readline ![GitHub Repo Stars](https://img.shields.io/github/stars/reeflective/readline) ![GitHub last commit](https://img.shields.io/github/last-commit/reeflective/readline)](https://github.com/reeflective/readline) - Shell library with modern and easy to use UI features.
 - [sand ![GitHub Repo Stars](https://img.shields.io/github/stars/Zaba505/sand) ![GitHub last commit](https://img.shields.io/github/last-commit/Zaba505/sand)](https://github.com/Zaba505/sand) - Simple API for creating interpreters and so much more.
 - [sflags ![GitHub Repo Stars](https://img.shields.io/github/stars/octago/sflags) ![GitHub last commit](https://img.shields.io/github/last-commit/octago/sflags)](https://github.com/octago/sflags) - Struct based flags generator for flag, urfave/cli, pflag, cobra, kingpin, and other libraries.
+- [structcli ![GitHub Repo Stars](https://img.shields.io/github/stars/leodido/structcli) ![GitHub last commit](https://img.shields.io/github/last-commit/leodido/structcli)](https://github.com/leodido/structcli) - Eliminate Cobra boilerplate: build powerful, feature-rich CLIs declaratively from Go structs.
 - [strumt ![GitHub Repo Stars](https://img.shields.io/github/stars/antham/strumt) ![GitHub last commit](https://img.shields.io/github/last-commit/antham/strumt)](https://github.com/antham/strumt) - Library to create prompt chain.
 - [subcmd ![GitHub Repo Stars](https://img.shields.io/github/stars/bobg/subcmd) ![GitHub last commit](https://img.shields.io/github/last-commit/bobg/subcmd)](https://github.com/bobg/subcmd) - Another approach to parsing and running subcommands. Works alongside the standard `flag` package.
 - [teris-io/cli ![GitHub Repo Stars](https://img.shields.io/github/stars/teris-io/cli) ![GitHub last commit](https://img.shields.io/github/last-commit/teris-io/cli)](https://github.com/teris-io/cli) - Simple and complete API for building command line interfaces in Go.
@@ -528,7 +535,7 @@ _Tools for help with continuous integration._
 - [go-beautiful-html-coverage ![GitHub Repo Stars](https://img.shields.io/github/stars/gha-common/go-beautiful-html-coverage) ![GitHub last commit](https://img.shields.io/github/last-commit/gha-common/go-beautiful-html-coverage)](https://github.com/gha-common/go-beautiful-html-coverage) - A GitHub Action to track code coverage in your pull requests, with a beautiful HTML preview, for free.
 - [go-fuzz-action ![GitHub Repo Stars](https://img.shields.io/github/stars/jidicula/go-fuzz-action) ![GitHub last commit](https://img.shields.io/github/last-commit/jidicula/go-fuzz-action)](https://github.com/jidicula/go-fuzz-action) - Use Go 1.18's built-in fuzz testing in GitHub Actions.
 - [go-semver-release ![GitHub Repo Stars](https://img.shields.io/github/stars/s0ders/go-semver-release) ![GitHub last commit](https://img.shields.io/github/last-commit/s0ders/go-semver-release)](https://github.com/s0ders/go-semver-release) - Automate the semantic versioning of Git repositories.
-- [go-test-coverage ![GitHub Repo Stars](https://img.shields.io/github/stars/vladopajic/go-test-coverage) ![GitHub last commit](https://img.shields.io/github/last-commit/vladopajic/go-test-coverage)](https://github.com/vladopajic/go-test-coverage) - Tool and GitHub action which reports issues when test coverage is below set threshold.
+- [go-test-coverage ![GitHub Repo Stars](https://img.shields.io/github/stars/marketplace/actions) ![GitHub last commit](https://img.shields.io/github/last-commit/marketplace/actions)](https://github.com/marketplace/actions/go-test-coverage) - A GitHub Action which reports issues when test coverage is below set threshold.
 - [gomason ![GitHub Repo Stars](https://img.shields.io/github/stars/nikogura/gomason) ![GitHub last commit](https://img.shields.io/github/last-commit/nikogura/gomason)](https://github.com/nikogura/gomason) - Test, Build, Sign, and Publish your go binaries from a clean workspace.
 - [gotestfmt ![GitHub Repo Stars](https://img.shields.io/github/stars/GoTestTools/gotestfmt) ![GitHub last commit](https://img.shields.io/github/last-commit/GoTestTools/gotestfmt)](https://github.com/GoTestTools/gotestfmt) - go test output for humans.
 - [goveralls ![GitHub Repo Stars](https://img.shields.io/github/stars/mattn/goveralls) ![GitHub last commit](https://img.shields.io/github/last-commit/mattn/goveralls)](https://github.com/mattn/goveralls) - Go integration for Coveralls.io continuous code coverage tracking system.
@@ -664,6 +671,7 @@ additional ordered map implementations.
 
 ### Trees
 
+- [graphlib ![GitHub Repo Stars](https://img.shields.io/github/stars/aio-arch/graphlib) ![GitHub last commit](https://img.shields.io/github/last-commit/aio-arch/graphlib)](https://github.com/aio-arch/graphlib) - Topological sort lib,Sorting and pruning of DAG graphs.
 - [hashsplit ![GitHub Repo Stars](https://img.shields.io/github/stars/bobg/hashsplit) ![GitHub last commit](https://img.shields.io/github/last-commit/bobg/hashsplit)](http://github.com/bobg/hashsplit) - Split byte streams into chunks, and arrange chunks into trees, with boundaries determined by content, not position.
 - [merkle ![GitHub Repo Stars](https://img.shields.io/github/stars/bobg/merkle) ![GitHub last commit](https://img.shields.io/github/last-commit/bobg/merkle)](https://github.com/bobg/merkle) - Space-efficient computation of Merkle root hashes and inclusion proofs.
 - [skiplist ![GitHub Repo Stars](https://img.shields.io/github/stars/MauriceGit/skiplist) ![GitHub last commit](https://img.shields.io/github/last-commit/MauriceGit/skiplist)](https://github.com/MauriceGit/skiplist) - Very fast Go Skiplist implementation.
@@ -2165,6 +2173,7 @@ _Unofficial libraries for package and dependency management._
 
 ## Performance
 
+- [ebpf-go ![GitHub Repo Stars](https://img.shields.io/github/stars/cilium/ebpf) ![GitHub last commit](https://img.shields.io/github/last-commit/cilium/ebpf)](https://github.com/cilium/ebpf) - Provides utilities for loading, compiling, and debugging eBPF programs.
 - [go-instrument ![GitHub Repo Stars](https://img.shields.io/github/stars/nikolaydubina/go-instrument) ![GitHub last commit](https://img.shields.io/github/last-commit/nikolaydubina/go-instrument)](https://github.com/nikolaydubina/go-instrument) - Automatically add spans to all methods and functions.
 - [jaeger ![GitHub Repo Stars](https://img.shields.io/github/stars/jaegertracing/jaeger) ![GitHub last commit](https://img.shields.io/github/last-commit/jaegertracing/jaeger)](https://github.com/jaegertracing/jaeger) - A distributed tracing system.
 - [mm-go ![GitHub Repo Stars](https://img.shields.io/github/stars/joetifa2003/mm-go) ![GitHub last commit](https://img.shields.io/github/last-commit/joetifa2003/mm-go)](https://github.com/joetifa2003/mm-go) - Generic manual memory management for golang.
@@ -2410,12 +2419,12 @@ _Libraries and tools for templating and lexing._
 - [maroto ![GitHub Repo Stars](https://img.shields.io/github/stars/johnfercher/maroto) ![GitHub last commit](https://img.shields.io/github/last-commit/johnfercher/maroto)](https://github.com/johnfercher/maroto) - A maroto way to create PDFs. Maroto is inspired in Bootstrap and uses gofpdf. Fast and simple.
 - [pongo2 ![GitHub Repo Stars](https://img.shields.io/github/stars/flosch/pongo2) ![GitHub last commit](https://img.shields.io/github/last-commit/flosch/pongo2)](https://github.com/flosch/pongo2) - Django-like template-engine for Go.
 - [quicktemplate ![GitHub Repo Stars](https://img.shields.io/github/stars/valyala/quicktemplate) ![GitHub last commit](https://img.shields.io/github/last-commit/valyala/quicktemplate)](https://github.com/valyala/quicktemplate) - Fast, powerful, yet easy to use template engine. Converts templates into Go code and then compiles it.
-- [raymond ![GitHub Repo Stars](https://img.shields.io/github/stars/aymerick/raymond) ![GitHub last commit](https://img.shields.io/github/last-commit/aymerick/raymond)](https://github.com/aymerick/raymond) - Complete handlebars implementation in Go.
 - [Razor ![GitHub Repo Stars](https://img.shields.io/github/stars/sipin/gorazor) ![GitHub last commit](https://img.shields.io/github/last-commit/sipin/gorazor)](https://github.com/sipin/gorazor) - Razor view engine for Golang.
 - [Soy ![GitHub Repo Stars](https://img.shields.io/github/stars/robfig/soy) ![GitHub last commit](https://img.shields.io/github/last-commit/robfig/soy)](https://github.com/robfig/soy) - Closure templates (aka Soy templates) for Go, following the [official spec](https://developers.google.com/closure/templates/).
 - [sprout ![GitHub Repo Stars](https://img.shields.io/github/stars/go-sprout/sprout) ![GitHub last commit](https://img.shields.io/github/last-commit/go-sprout/sprout)](https://github.com/go-sprout/sprout) - Useful template functions for Go templates.
 - [tbd ![GitHub Repo Stars](https://img.shields.io/github/stars/lucasepe/tbd) ![GitHub last commit](https://img.shields.io/github/last-commit/lucasepe/tbd)](https://github.com/lucasepe/tbd) - A really simple way to create text templates with placeholders - exposes extra builtin Git repo metadata.
 - [templ ![GitHub Repo Stars](https://img.shields.io/github/stars/a-h/templ) ![GitHub last commit](https://img.shields.io/github/last-commit/a-h/templ)](https://github.com/a-h/templ) - A HTML templating language that has great developer tooling.
+- [templator ![GitHub Repo Stars](https://img.shields.io/github/stars/alesr/templator) ![GitHub last commit](https://img.shields.io/github/last-commit/alesr/templator)](https://github.com/alesr/templator) - A type-safe HTML template rendering engine for Go.
 
 **[⬆ back to top](#contents)**
 
@@ -2452,6 +2461,7 @@ _Libraries for testing codebases and generating test data._
 - [go-mutesting ![GitHub Repo Stars](https://img.shields.io/github/stars/zimmski/go-mutesting) ![GitHub last commit](https://img.shields.io/github/last-commit/zimmski/go-mutesting)](https://github.com/zimmski/go-mutesting) - Mutation testing for Go source code.
 - [go-mysql-test-container ![GitHub Repo Stars](https://img.shields.io/github/stars/arikama/go-mysql-test-container) ![GitHub last commit](https://img.shields.io/github/last-commit/arikama/go-mysql-test-container)](https://github.com/arikama/go-mysql-test-container) - Golang MySQL testcontainer to help with MySQL integration testing.
 - [go-snaps ![GitHub Repo Stars](https://img.shields.io/github/stars/gkampitakis/go-snaps) ![GitHub last commit](https://img.shields.io/github/last-commit/gkampitakis/go-snaps)](http://github.com/gkampitakis/go-snaps) - Jest-like snapshot testing in Golang.
+- [go-test-coverage ![GitHub Repo Stars](https://img.shields.io/github/stars/vladopajic/go-test-coverage) ![GitHub last commit](https://img.shields.io/github/last-commit/vladopajic/go-test-coverage)](https://github.com/vladopajic/go-test-coverage) - Tool that reports coverage of files below set threshold.
 - [go-testdeep ![GitHub Repo Stars](https://img.shields.io/github/stars/maxatome/go-testdeep) ![GitHub last commit](https://img.shields.io/github/last-commit/maxatome/go-testdeep)](https://github.com/maxatome/go-testdeep) - Extremely flexible golang deep comparison, extends the go testing package.
 - [go-testpredicate ![GitHub Repo Stars](https://img.shields.io/github/stars/maargenton/go-testpredicate) ![GitHub last commit](https://img.shields.io/github/last-commit/maargenton/go-testpredicate)](https://github.com/maargenton/go-testpredicate) - Test predicate style assertions library with extensive diagnostics output.
 - [go-vcr ![GitHub Repo Stars](https://img.shields.io/github/stars/dnaeon/go-vcr) ![GitHub last commit](https://img.shields.io/github/last-commit/dnaeon/go-vcr)](https://github.com/dnaeon/go-vcr) - Record and replay your HTTP interactions for fast, deterministic and accurate tests.
@@ -2885,6 +2895,7 @@ _General utilities and tools to make your life easier._
 - [pm ![GitHub Repo Stars](https://img.shields.io/github/stars/VividCortex/pm) ![GitHub last commit](https://img.shields.io/github/last-commit/VividCortex/pm)](https://github.com/VividCortex/pm) - Process (i.e. goroutine) manager with an HTTP API.
 - [pointer ![GitHub Repo Stars](https://img.shields.io/github/stars/xorcare/pointer) ![GitHub last commit](https://img.shields.io/github/last-commit/xorcare/pointer)](https://github.com/xorcare/pointer) - Package pointer contains helper routines for simplifying the creation of optional fields of basic type.
 - [ptr ![GitHub Repo Stars](https://img.shields.io/github/stars/gotidy/ptr) ![GitHub last commit](https://img.shields.io/github/last-commit/gotidy/ptr)](https://github.com/gotidy/ptr) - Package that provide functions for simplified creation of pointers from constants of basic types.
+- [rate ![GitHub Repo Stars](https://img.shields.io/github/stars/webriots/rate) ![GitHub last commit](https://img.shields.io/github/last-commit/webriots/rate)](https://github.com/webriots/rate) - High-performance rate limiting library with token bucket and AIMD strategies.
 - [rclient ![GitHub Repo Stars](https://img.shields.io/github/stars/zpatrick/rclient) ![GitHub last commit](https://img.shields.io/github/last-commit/zpatrick/rclient)](https://github.com/zpatrick/rclient) - Readable, flexible, simple-to-use client for REST APIs.
 - [remote-touchpad ![GitHub Repo Stars](https://img.shields.io/github/stars/Unrud/remote-touchpad) ![GitHub last commit](https://img.shields.io/github/last-commit/Unrud/remote-touchpad)](https://github.com/Unrud/remote-touchpad) - Control mouse and keyboard from a smartphone.
 - [repeat ![GitHub Repo Stars](https://img.shields.io/github/stars/ssgreg/repeat) ![GitHub last commit](https://img.shields.io/github/last-commit/ssgreg/repeat)](https://github.com/ssgreg/repeat) - Go implementation of different backoff strategies useful for retrying operations and heartbeating.
