@@ -1104,6 +1104,8 @@ YAPF follows a distinctive methodology, originating from the 'clang-format' tool
 
 - [ERB Lint ![GitHub Repo Stars](https://img.shields.io/github/stars/Shopify/erb-lint) ![GitHub last commit](https://img.shields.io/github/last-commit/Shopify/erb-lint)](https://github.com/Shopify/erb-lint) — Lint your ERB or HTML files
 
+- [ERB::Formatter ![GitHub Repo Stars](https://img.shields.io/github/stars/nebulab/erb-formatter) ![GitHub last commit](https://img.shields.io/github/last-commit/nebulab/erb-formatter)](https://github.com/nebulab/erb-formatter) — Format ERB files with speed and precision.
+
 - [Fasterer ![GitHub Repo Stars](https://img.shields.io/github/stars/DamirSvrtan/fasterer) ![GitHub last commit](https://img.shields.io/github/last-commit/DamirSvrtan/fasterer)](https://github.com/DamirSvrtan/fasterer) — Common Ruby idioms checker.
 
 - **flay** :warning: — Flay analyzes code for structural similarities.
@@ -1952,6 +1954,8 @@ Its technology helps developers automate testing, find bugs, and reduce manual l
 
 - [ERB Lint ![GitHub Repo Stars](https://img.shields.io/github/stars/Shopify/erb-lint) ![GitHub last commit](https://img.shields.io/github/last-commit/Shopify/erb-lint)](https://github.com/Shopify/erb-lint) — Lint your ERB or HTML files
 
+- [ERB::Formatter ![GitHub Repo Stars](https://img.shields.io/github/stars/nebulab/erb-formatter) ![GitHub last commit](https://img.shields.io/github/last-commit/nebulab/erb-formatter)](https://github.com/nebulab/erb-formatter) — Format ERB files with speed and precision.
+
 - [htmlbeautifier ![GitHub Repo Stars](https://img.shields.io/github/stars/threedaymonk/htmlbeautifier) ![GitHub last commit](https://img.shields.io/github/last-commit/threedaymonk/htmlbeautifier)](https://github.com/threedaymonk/htmlbeautifier) — A normaliser/beautifier for HTML that also understands embedded Ruby. Ideal for tidying up Rails templates.
 
 
@@ -1971,6 +1975,8 @@ Its technology helps developers automate testing, find bugs, and reduce manual l
 - **Bootlint** :warning: — An HTML linter for Bootstrap projects.
 
 - [ERB Lint ![GitHub Repo Stars](https://img.shields.io/github/stars/Shopify/erb-lint) ![GitHub last commit](https://img.shields.io/github/last-commit/Shopify/erb-lint)](https://github.com/Shopify/erb-lint) — Lint your ERB or HTML files
+
+- [ERB::Formatter ![GitHub Repo Stars](https://img.shields.io/github/stars/nebulab/erb-formatter) ![GitHub last commit](https://img.shields.io/github/last-commit/nebulab/erb-formatter)](https://github.com/nebulab/erb-formatter) — Format ERB files with speed and precision.
 
 - **grunt-bootlint** :warning: — A Grunt wrapper for [Bootlint ![GitHub Repo Stars](https://img.shields.io/github/stars/twbs/bootlint) ![GitHub last commit](https://img.shields.io/github/last-commit/twbs/bootlint)](https://github.com/twbs/bootlint), the HTML linter for Bootstrap projects.
 
@@ -2208,6 +2214,8 @@ but with the following improvements:
 - [DatabaseConsistency ![GitHub Repo Stars](https://img.shields.io/github/stars/djezzzl/database_consistency) ![GitHub last commit](https://img.shields.io/github/last-commit/djezzzl/database_consistency)](https://github.com/djezzzl/database_consistency) — The tool to avoid various issues due to inconsistencies and inefficiencies between a database schema and application models.
 
 - [dawnscanner ![GitHub Repo Stars](https://img.shields.io/github/stars/thesp0nge/dawnscanner) ![GitHub last commit](https://img.shields.io/github/last-commit/thesp0nge/dawnscanner)](https://github.com/thesp0nge/dawnscanner) — A static analysis security scanner for ruby written web applications. It supports Sinatra, Padrino and Ruby on Rails frameworks.
+
+- [ERB::Formatter ![GitHub Repo Stars](https://img.shields.io/github/stars/nebulab/erb-formatter) ![GitHub last commit](https://img.shields.io/github/last-commit/nebulab/erb-formatter)](https://github.com/nebulab/erb-formatter) — Format ERB files with speed and precision.
 
 - [Skunk ![GitHub Repo Stars](https://img.shields.io/github/stars/fastruby/skunk) ![GitHub last commit](https://img.shields.io/github/last-commit/fastruby/skunk)](https://github.com/fastruby/skunk) — A SkunkScore Calculator for Ruby Code -- Find the most complicated code without test coverage!
 
