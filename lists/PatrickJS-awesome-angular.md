@@ -971,6 +971,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [signaltree ![GitHub Repo Stars](https://img.shields.io/github/stars/JBorgia/signaltree) ![GitHub last commit](https://img.shields.io/github/last-commit/JBorgia/signaltree)](https://github.com/JBorgia/signaltree) - A powerful, type-safe, modular signal-based state management solution for Angular applications.
 * [ngx-simple-signal-store ![GitHub Repo Stars](https://img.shields.io/github/stars/adamcsk1/ngx-simple-signal-store) ![GitHub last commit](https://img.shields.io/github/last-commit/adamcsk1/ngx-simple-signal-store)](https://github.com/adamcsk1/ngx-simple-signal-store) - A simple way to create signal stores with a read-only interface.
 * [angulator ![GitHub Repo Stars](https://img.shields.io/github/stars/angulator-dev/angulator) ![GitHub last commit](https://img.shields.io/github/last-commit/angulator-dev/angulator)](https://github.com/angulator-dev/angulator) - A lightweight Angular [mediator](https://refactoring.guru/design-patterns/mediator) library, designed to simplify communication between different parts of your application using a request/response and notification/handler pattern.
+* [ngx-query ![GitHub Repo Stars](https://img.shields.io/github/stars/CoreSyncHub/ngx-query) ![GitHub last commit](https://img.shields.io/github/last-commit/CoreSyncHub/ngx-query)](https://github.com/CoreSyncHub/ngx-query) - A lightweight, observable-based query library that helps you manage server state, caching, and synchronization between your backend and UI.
 
 ## Testing
 
@@ -1441,6 +1442,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [piying-view ![GitHub Repo Stars](https://img.shields.io/github/stars/piying-org/piying-view) ![GitHub last commit](https://img.shields.io/github/last-commit/piying-org/piying-view)](https://github.com/piying-org/piying-view) - A strongly typed frontend form solution; an alternative to `ngx-formly` and Angular's official form framework.
 * [ngx-form-m3 ![GitHub Repo Stars](https://img.shields.io/github/stars/webilix/ngx-form-m3) ![GitHub last commit](https://img.shields.io/github/last-commit/webilix/ngx-form-m3)](https://github.com/webilix/ngx-form-m3) - Persian form library for Angular and Material 3.
 * [lite-form ![GitHub Repo Stars](https://img.shields.io/github/stars/liangk/lite-form) ![GitHub last commit](https://img.shields.io/github/last-commit/liangk/lite-form)](https://github.com/liangk/lite-form) - A comprehensive Angular library that provides lightweight, customizable form components with built-in validation, styling, and animations.
+* [cc-form-engine ![GitHub Repo Stars](https://img.shields.io/github/stars/ChristianCruzArango/cc-form-engine) ![GitHub last commit](https://img.shields.io/github/last-commit/ChristianCruzArango/cc-form-engine)](https://github.com/ChristianCruzArango/cc-form-engine) - Advanced Angular library for reactive form generation and management with dynamic validation, change tracking, and customizable error messages.
 
 ### Form Controls
 
