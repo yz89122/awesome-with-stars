@@ -165,6 +165,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-devkit-builders ![GitHub Repo Stars](https://img.shields.io/github/stars/Celtian/ngx-devkit-builders) ![GitHub last commit](https://img.shields.io/github/last-commit/Celtian/ngx-devkit-builders)](https://github.com/Celtian/ngx-devkit-builders) - This package contains Architect builders used to build and test Angular applications and libraries.
 * [angular-static-assets-hash ![GitHub Repo Stars](https://img.shields.io/github/stars/sitelint/angular-static-assets-hash) ![GitHub last commit](https://img.shields.io/github/last-commit/sitelint/angular-static-assets-hash)](https://github.com/sitelint/angular-static-assets-hash) - Create a list of Angular static assets and a hash for each file.
 * [ngx-schematic-builder ![GitHub Repo Stars](https://img.shields.io/github/stars/kstepien3/ngx-schematic-builder) ![GitHub last commit](https://img.shields.io/github/last-commit/kstepien3/ngx-schematic-builder)](https://github.com/kstepien3/ngx-schematic-builder) - A tool for building Angular schematic projects. Compiles and packages your custom schematics, preparing them for publishing and use.
+* [ng-builder-typescript ![GitHub Repo Stars](https://img.shields.io/github/stars/da-mkay/ng-builder-typescript) ![GitHub last commit](https://img.shields.io/github/last-commit/da-mkay/ng-builder-typescript)](https://github.com/da-mkay/ng-builder-typescript) - A builder for the Angular CLI to build Node.js apps using the TypeScript compiler `tsc` (no Webpack or any other bundler used).
 
 ### CLI Tools
 
@@ -1100,6 +1101,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [serene ![GitHub Repo Stars](https://img.shields.io/github/stars/ClaudioAlcantaraR/serene) ![GitHub last commit](https://img.shields.io/github/last-commit/ClaudioAlcantaraR/serene)](https://github.com/ClaudioAlcantaraR/serene) - A modern starter-kit for full-stack web development using Spring Boot and Angular. Inspired by Laravel Breeze, it provides a clean, secure, and minimalist foundation.
 * [free-angular-tailwind-dashboard ![GitHub Repo Stars](https://img.shields.io/github/stars/TailAdmin/free-angular-tailwind-dashboard) ![GitHub last commit](https://img.shields.io/github/last-commit/TailAdmin/free-angular-tailwind-dashboard)](https://github.com/TailAdmin/free-angular-tailwind-dashboard) - Free, open-source Angular + Tailwind CSS admin dashboard with essential UI components and pre-built pages for a sleek, modern interface.
 * [hanko-angular-express-starter ![GitHub Repo Stars](https://img.shields.io/github/stars/teamhanko/hanko-angular-express-starter) ![GitHub last commit](https://img.shields.io/github/last-commit/teamhanko/hanko-angular-express-starter)](https://github.com/teamhanko/hanko-angular-express-starter) - Starter integrating Hanko authentication with Angular and Express.
+* [ng-ultimate-base ![GitHub Repo Stars](https://img.shields.io/github/stars/Beszt/ng-ultimate-base) ![GitHub last commit](https://img.shields.io/github/last-commit/Beszt/ng-ultimate-base)](https://github.com/Beszt/ng-ultimate-base) - Angular 20 template with Angular Material UI, Tailwind CSS, i18n, ESLint, Prettier, Husky, and CI/CD.
 
 ### Paid Templates
 
@@ -2051,6 +2053,7 @@ for the creation of web applications developed with Angular.
 * [ngx-lamp ![GitHub Repo Stars](https://img.shields.io/github/stars/omnedia/ngx-lamp) ![GitHub last commit](https://img.shields.io/github/last-commit/omnedia/ngx-lamp)](https://github.com/omnedia/ngx-lamp) - A simple component library to create a lamp.
 * [ngx-neon-underline ![GitHub Repo Stars](https://img.shields.io/github/stars/omnedia/ngx-neon-underline) ![GitHub last commit](https://img.shields.io/github/last-commit/omnedia/ngx-neon-underline)](https://github.com/omnedia/ngx-neon-underline) - An Angular library that provides a glowing neon underline effect for your components.
 * [ngx-parallax-stars ![GitHub Repo Stars](https://img.shields.io/github/stars/DerStimmler/ngx-parallax-stars) ![GitHub last commit](https://img.shields.io/github/last-commit/DerStimmler/ngx-parallax-stars)](https://github.com/DerStimmler/ngx-parallax-stars) - Angular library to create beautiful stars with parallax effect.
+* [ngx-waterbox ![GitHub Repo Stars](https://img.shields.io/github/stars/vwochnik/ngx-waterbox) ![GitHub last commit](https://img.shields.io/github/last-commit/vwochnik/ngx-waterbox)](https://github.com/vwochnik/ngx-waterbox) - An isometric water box component.
 
 ## Underlying Technologies
 
