@@ -948,7 +948,7 @@ Addresses GitHub issues by taking issue number as parameter, analyzing context, 
 </details>
 <br>
 
-[`/fix-pr` ![GitHub Repo Stars](https://img.shields.io/github/stars/metabase/metabase) ![GitHub last commit](https://img.shields.io/github/last-commit/metabase/metabase)](https://github.com/metabase/metabase/blob/master/.claude/commands/fix-pr.md) &nbsp; by &nbsp; [metabase](https://github.com/metabase)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;NOASSERTION  
+[`/fix-pr` ![GitHub Repo Stars](https://img.shields.io/github/stars/metabase/metabase) ![GitHub last commit](https://img.shields.io/github/last-commit/metabase/metabase)](https://github.com/metabase/metabase/blob/master/.claude/commands/fix-pr.md) &nbsp; by &nbsp; [metabase](https://github.com/metabase)  &nbsp;&nbsp;��️&nbsp;&nbsp;NOASSERTION  
 Fetches and fixes unresolved PR comments by automatically retrieving feedback, addressing reviewer concerns, making targeted code improvements, and streamlining the review process.
 
 <details>
