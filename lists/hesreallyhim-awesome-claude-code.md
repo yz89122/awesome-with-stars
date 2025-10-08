@@ -301,7 +301,7 @@ Really comprehensive set of commands for all aspects of SDLC.
 A set of commands that provide a comprehensive workflow system for managing projects, including task management, code review, and deployment processes.
 
 <details>
-<summary>📊 GitHub Stats</summary>
+<summary>�� GitHub Stats</summary>
 
 ![GitHub Stats for dotfiles](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=dotfiles&username=harperreed&all_stats=true&stats_only=true)
 

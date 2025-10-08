@@ -32,6 +32,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
 * [Contributing](#contributing)
 
 ## Clocks & Studio Screens
+* [OATIS ![GitHub Repo Stars](https://img.shields.io/github/stars/jamiehull/OATIS) ![GitHub last commit](https://img.shields.io/github/last-commit/jamiehull/OATIS)](https://github.com/jamiehull/OATIS) - Server Based Studio Clock and Tally system, supporting messaging, physical GPI's and OSC triggering.
 * [OnAirScreen ![GitHub Repo Stars](https://img.shields.io/github/stars/saschaludwig/OnAirScreen) ![GitHub last commit](https://img.shields.io/github/last-commit/saschaludwig/OnAirScreen)](https://github.com/saschaludwig/OnAirScreen) - Cross-platform "OnAir Lamp" solution targeted for use in professional broadcast environments.
 * [PiClock ![GitHub Repo Stars](https://img.shields.io/github/stars/simonhyde/PiClock) ![GitHub last commit](https://img.shields.io/github/last-commit/simonhyde/PiClock)](https://github.com/simonhyde/PiClock) - Customisable network based displays of clocks, on-air, mic live and other studio indicators.
 * [PiClock Advanced ![GitHub Repo Stars](https://img.shields.io/github/stars/ael/piclock_advanced) ![GitHub last commit](https://img.shields.io/github/last-commit/ael/piclock_advanced)](https://github.com/ael/piclock_advanced) - Improved version of PiRSClock-Full with changed layout, added timers and network capabilities.
@@ -99,6 +100,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
 * [ossia](https://ossia.io/) - A free and open-source intermedia sequencer.
 * [Sofie - TV Automation ![GitHub Repo Stars](https://img.shields.io/github/stars/nrkno/Sofie-TV-automation) ![GitHub last commit](https://img.shields.io/github/last-commit/nrkno/Sofie-TV-automation)](https://github.com/nrkno/Sofie-TV-automation) - MOS-driven automation system for news casts, with many libraries for e.g. device control.
 * [SPX - Graphics Controller ![GitHub Repo Stars](https://img.shields.io/github/stars/TuomoKu/SPX-GC) ![GitHub last commit](https://img.shields.io/github/last-commit/TuomoKu/SPX-GC)](https://github.com/TuomoKu/SPX-GC) - Graphics control client for live video productions and live streams.
+* [StreamShapers - Ferryman ![GitHub Repo Stars](https://img.shields.io/github/stars/Streamshapers/StreamShapers-Ferryman) ![GitHub last commit](https://img.shields.io/github/last-commit/Streamshapers/StreamShapers-Ferryman)](https://github.com/Streamshapers/StreamShapers-Ferryman) - Web App to generate HTML-Graphics from Lottie.JSON files / from Adobe AfterEffects.
 * [Studio TV Player ![GitHub Repo Stars](https://img.shields.io/github/stars/jaskie/StudioTVPlayer) ![GitHub last commit](https://img.shields.io/github/last-commit/jaskie/StudioTVPlayer)](https://github.com/jaskie/StudioTVPlayer) - Simple TV studio player with SDI, NDI and MPEG TS outputs.
 
 ## Hybrid Radio
@@ -124,6 +126,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
 * [OpenOB](https://jamesharrison.github.io/openob/) - Open Outside Broadcast project for radio contribution links and studio-transmitter links based on Opus.
 * [PJSIP](https://www.pjsip.org/) - Open Source multimedia library implementing SIP, SDP, RTP, STUN, TURN, and ICE.
 * [trx](http://www.pogo.org.uk/~mark/trx/) - A simple toolset for broadcasting live audio from Linux.
+* [VideoIPath-Automation-Tool ![GitHub Repo Stars](https://img.shields.io/github/stars/SWR-MoIP/VideoIPath-Automation-Tool) ![GitHub last commit](https://img.shields.io/github/last-commit/SWR-MoIP/VideoIPath-Automation-Tool)](https://github.com/SWR-MoIP/VideoIPath-Automation-Tool) - A Python package for automating VideoIPath configuration workflows.
 
 ## Media Players
 
@@ -141,7 +144,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
 
 ## Metadata
 
-* [BMXlib](https://sourceforge.net/projects/bmxlib/) - Library and utilities to read and write broadcasting media files. Primarily supports the MXF file format.
+* [BMXlib ![GitHub Repo Stars](https://img.shields.io/github/stars/ebu/bmx) ![GitHub last commit](https://img.shields.io/github/last-commit/ebu/bmx)](https://github.com/ebu/bmx) - Library and utilities to read and write broadcasting media files. Primarily supports the MXF file format.
 * [EBUCore ![GitHub Repo Stars](https://img.shields.io/github/stars/ebu/ebucore) ![GitHub last commit](https://img.shields.io/github/last-commit/ebu/ebucore)](https://github.com/ebu/ebucore) - The Github for maintenance of the [EBUCore schema](https://tech.ebu.ch/docs/tech/tech3293.pdf).
 * [jebu-core ![GitHub Repo Stars](https://img.shields.io/github/stars/mikrosimage/jebu-core) ![GitHub last commit](https://img.shields.io/github/last-commit/mikrosimage/jebu-core)](https://github.com/mikrosimage/jebu-core) - Java port of [EBU Tech 3293](https://tech.ebu.ch/publications/tech3293) EBU Core metadata, including the [Audio Definition Model](https://tech.ebu.ch/publications/tech3364).
 * [libadm ![GitHub Repo Stars](https://img.shields.io/github/stars/irt-open-source/libadm) ![GitHub last commit](https://img.shields.io/github/last-commit/irt-open-source/libadm)](https://github.com/irt-open-source/libadm) - Audio Definition Model (ITU-R BS.2076) handling C++11 library.
@@ -152,6 +155,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
 
 ## Monitoring & Quality Control
 
+* [a_Multiview ![GitHub Repo Stars](https://img.shields.io/github/stars/Bencosterton/a_MultiView) ![GitHub last commit](https://img.shields.io/github/last-commit/Bencosterton/a_MultiView)](https://github.com/Bencosterton/a_MultiView) - A web based multiview for HLS and Youtube links.
 * [BeaqleJS ![GitHub Repo Stars](https://img.shields.io/github/stars/HSU-ANT/beaqlejs) ![GitHub last commit](https://img.shields.io/github/last-commit/HSU-ANT/beaqlejs)](https://github.com/HSU-ANT/beaqlejs) - A framework to create browser based listening tests for subjective audio quality assessment.
 * [Jack Meter ![GitHub Repo Stars](https://img.shields.io/github/stars/njh/jackmeter) ![GitHub last commit](https://img.shields.io/github/last-commit/njh/jackmeter)](https://github.com/njh/jackmeter) - Text console based DPM (Digital Peak Meter) for JACK.
 * [JACK Meterbridge](http://plugin.org.uk/meterbridge/) - A collection of graphical Audio meters for JACK (ballistics may be incorrect).
@@ -224,6 +228,7 @@ The [Networked Media Open Specifications](https://specs.amwa.tv/nmos) are themse
 * [DELTACAST IP Virtual Card NMOS samples ![GitHub Repo Stars](https://img.shields.io/github/stars/deltacasttv/nmos-ipvc-samples) ![GitHub last commit](https://img.shields.io/github/last-commit/deltacasttv/nmos-ipvc-samples)](https://github.com/deltacasttv/nmos-ipvc-samples) - A demonstration of the integration of several NMOS standards with the DELTACAST IP Virtual Card through [nmos-cpp ![GitHub Repo Stars](https://img.shields.io/github/stars/sony/nmos-cpp) ![GitHub last commit](https://img.shields.io/github/last-commit/sony/nmos-cpp)](https://github.com/sony/nmos-cpp).
 * [Easy-NMOS ![GitHub Repo Stars](https://img.shields.io/github/stars/rhastie/easy-nmos) ![GitHub last commit](https://img.shields.io/github/last-commit/rhastie/easy-nmos)](https://github.com/rhastie/easy-nmos) - A starter kit that allows the user to launch a simple NMOS setup with minimal installation steps, composed of three Docker containers: an NMOS Registry, a virtual NMOS Node, and the AMWA NMOS Testing Tool.
 * [nmos-cpp ![GitHub Repo Stars](https://img.shields.io/github/stars/sony/nmos-cpp) ![GitHub last commit](https://img.shields.io/github/last-commit/sony/nmos-cpp)](https://github.com/sony/nmos-cpp) - An implementation of the AMWA Networked Media Open Specifications in C++, including an NMOS Registry and a toolkit and example of building an NMOS Node.
+* [nmos-device-control-mock ![GitHub Repo Stars](https://img.shields.io/github/stars/AMWA-TV/nmos-device-control-mock) ![GitHub last commit](https://img.shields.io/github/last-commit/AMWA-TV/nmos-device-control-mock)](https://github.com/AMWA-TV/nmos-device-control-mock) - A mock device implementation of the NMOS Control & Monitoring suite (IS-12, BCP-008-01, BCP-008-02), written in Typescript and running on the NodeJS stack.
 * [nmos-js ![GitHub Repo Stars](https://img.shields.io/github/stars/sony/nmos-js) ![GitHub last commit](https://img.shields.io/github/last-commit/sony/nmos-js)](https://github.com/sony/nmos-js) - A simple browser-based NMOS Client/Controller with an IS-04 Registry browser and IS-05 Connection Management.
 * [NVIDIA NMOS Docker](https://hub.docker.com/r/rhastie/nmos-cpp) - Docker container with Registry and Controller, IS-04/05/08/07/09, BCP-003-01
 * [NVIDIA NMOS Library ![GitHub Repo Stars](https://img.shields.io/github/stars/NVIDIA/nvnmos) ![GitHub last commit](https://img.shields.io/github/last-commit/NVIDIA/nvnmos)](https://github.com/NVIDIA/nvnmos) (NvNmos) - A simple-to-use C/C++ library for adding an NMOS Node to your application, with support for IS-04, IS-05, BCP-002-01, BCP-002-02, BCP-004-01, etc.
