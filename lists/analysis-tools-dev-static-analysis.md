@@ -523,7 +523,7 @@ Fprettify is a tool that provides consistent whitespace, indentation, and delimi
 
 - [gochecknoglobals ![GitHub Repo Stars](https://img.shields.io/github/stars/leighmcculloch/gochecknoglobals) ![GitHub last commit](https://img.shields.io/github/last-commit/leighmcculloch/gochecknoglobals)](https://github.com/leighmcculloch/gochecknoglobals) — Checks that no globals are present.
 
-- [goconst ![GitHub Repo Stars](https://img.shields.io/github/stars/jgautheron/goconst) ![GitHub last commit](https://img.shields.io/github/last-commit/jgautheron/goconst)](https://github.com/jgautheron/goconst) ��� Finds repeated strings that could be replaced by a constant.
+- [goconst ![GitHub Repo Stars](https://img.shields.io/github/stars/jgautheron/goconst) ![GitHub last commit](https://img.shields.io/github/last-commit/jgautheron/goconst)](https://github.com/jgautheron/goconst) — Finds repeated strings that could be replaced by a constant.
 
 - **gocyclo** :warning: — Calculate cyclomatic complexities of functions in Go source code.
 
@@ -1153,6 +1153,8 @@ YAPF follows a distinctive methodology, originating from the 'clang-format' tool
 - [Standard Ruby ![GitHub Repo Stars](https://img.shields.io/github/stars/testdouble/standard) ![GitHub last commit](https://img.shields.io/github/last-commit/testdouble/standard)](https://github.com/testdouble/standard) — Ruby Style Guide, with linter & automatic code fixer
 
 - [Steep ![GitHub Repo Stars](https://img.shields.io/github/stars/soutaro/steep) ![GitHub last commit](https://img.shields.io/github/last-commit/soutaro/steep)](https://github.com/soutaro/steep) — Gradual Typing for Ruby.
+
+- [Traceroute ![GitHub Repo Stars](https://img.shields.io/github/stars/amatsuda/traceroute) ![GitHub last commit](https://img.shields.io/github/last-commit/amatsuda/traceroute)](https://github.com/amatsuda/traceroute) — A Rake task gem that helps you find the unused routes and controller actions for your Rails 3+ app.
 
 
 <a name="rust" />
@@ -2208,6 +2210,8 @@ but with the following improvements:
 - [dawnscanner ![GitHub Repo Stars](https://img.shields.io/github/stars/thesp0nge/dawnscanner) ![GitHub last commit](https://img.shields.io/github/last-commit/thesp0nge/dawnscanner)](https://github.com/thesp0nge/dawnscanner) — A static analysis security scanner for ruby written web applications. It supports Sinatra, Padrino and Ruby on Rails frameworks.
 
 - [Skunk ![GitHub Repo Stars](https://img.shields.io/github/stars/fastruby/skunk) ![GitHub last commit](https://img.shields.io/github/last-commit/fastruby/skunk)](https://github.com/fastruby/skunk) — A SkunkScore Calculator for Ruby Code -- Find the most complicated code without test coverage!
+
+- [Traceroute ![GitHub Repo Stars](https://img.shields.io/github/stars/amatsuda/traceroute) ![GitHub last commit](https://img.shields.io/github/last-commit/amatsuda/traceroute)](https://github.com/amatsuda/traceroute) — A Rake task gem that helps you find the unused routes and controller actions for your Rails 3+ app.
 
 
 <a name="security" />
