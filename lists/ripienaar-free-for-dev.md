@@ -559,7 +559,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [scrutinizer-ci.com](https://scrutinizer-ci.com/) — Continuous inspection platform, free for Open Source
   * [semanticdiff.com](https://app.semanticdiff.com/) — Programming language aware diff for GitHub pull requests and commits, free for public repositories
   * [shields.io](https://shields.io) — Quality metadata badges for open source projects
-  * [sonarcloud.io](https://sonarcloud.io) ��� Automated source code analysis for Java, JavaScript, C/C++, C#, VB.NET, PHP, Objective-C, Swift, Python, Groovy and even more languages, free for Open Source
+  * [sonarcloud.io](https://sonarcloud.io) — Automated source code analysis for Java, JavaScript, C/C++, C#, VB.NET, PHP, Objective-C, Swift, Python, Groovy and even more languages, free for Open Source
   * [SourceLevel](https://sourcelevel.io/) — Automated Code Review and Team Analytics. Free for Open Source and organizations up to 5 collaborators.
   * [webceo.com](https://www.webceo.com/) — SEO tools but with also code verifications and different types of devices
   * [zoompf.com](https://zoompf.com/) — Fix the performance of your web sites, detailed analysis
@@ -1823,7 +1823,7 @@ Update Time, five active automations, webhooks.
 
 ## International Mobile Number Verification API and SDK
 
-  * [numverify](https://numverify.com/) — Global phone number validation and lookup JSON API. 100 API requests/month
+  * [numverify](https://numverify.com/) ��� Global phone number validation and lookup JSON API. 100 API requests/month
   * [veriphone](https://veriphone.io/) — Global phone number verification in a free, fast, reliable JSON API. 1000 requests/month
 
 **[⬆️ Back to Top](#table-of-contents)**
