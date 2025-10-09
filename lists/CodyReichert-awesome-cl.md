@@ -1075,7 +1075,7 @@ Beginner
 * [Successful Lisp](http://successful-lisp.blogspot.com/) - A good book for beginners with some programming background.
 * [Lisp Quickstart](https://cs.gmu.edu/~sean/lisp/LispTutorial.html) - A good tutorial to get up and code Common Lisp quickly.
 * [Casting SPELs in LISP](http://www.lisperati.com/casting.html) - A fun way to learn LISP while reading a comic book.
-* �� [Common Lisp Programming: from novice to effective developer](https://www.udemy.com/course/common-lisp-programming/?referralCode=2F3D698BBC4326F94358) - A learning video series on the Udemy platform (*full content under paid access*). By an active lisper and community contributor (@vindarel). [Github home ![GitHub Repo Stars](https://img.shields.io/github/stars/vindarel/common-lisp-course-in-videos) ![GitHub last commit](https://img.shields.io/github/last-commit/vindarel/common-lisp-course-in-videos)](https://github.com/vindarel/common-lisp-course-in-videos/).
+* 📹 [Common Lisp Programming: from novice to effective developer](https://www.udemy.com/course/common-lisp-programming/?referralCode=2F3D698BBC4326F94358) - A learning video series on the Udemy platform (*full content under paid access*). By an active lisper and community contributor (@vindarel). [Github home ![GitHub Repo Stars](https://img.shields.io/github/stars/vindarel/common-lisp-course-in-videos) ![GitHub last commit](https://img.shields.io/github/last-commit/vindarel/common-lisp-course-in-videos)](https://github.com/vindarel/common-lisp-course-in-videos/).
   > Thanks for supporting my work on Udemy. I can send a free link to students, just contact me.
 * [Loving Common Lisp, or the Savvy Programmer's Secret Weapon](https://leanpub.com/lovinglisp) - Quick introduction to Common Lisp with many examples. A particular focus is on how to use Large Language Models (LLMs).
 
@@ -1389,6 +1389,10 @@ In development:
 
 * [Valtan ![GitHub Repo Stars](https://img.shields.io/github/stars/cxxxr/valtan) ![GitHub last commit](https://img.shields.io/github/last-commit/cxxxr/valtan)](https://github.com/cxxxr/valtan) -  Common Lisp to JavaScript compiler.
 * [JACL](https://tailrecursion.com/JACL/) - an experimental Lisp system for the Web browser platform to explore new techniques for developing large Single Page Applications with Lisp.
+* [SLip](https://lisperator.net/slip/) - an aspiring Common Lisp environment in the browser.
+  * Self-hosting compiler, TCO, CLOS, structures, conditions, loop and format, JavaScript "FFI", green threads…
+  * in-browser development environment inspired by Emacs and Slime based on [Ymacs](https://lisperator.net/ymacs/).
+  * [Live demo](https://lisperator.net/s/slip/)!
 
 
 Utilities for **React**:

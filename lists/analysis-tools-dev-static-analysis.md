@@ -1745,6 +1745,8 @@ Loading address: binbloom can parse a raw binary firmware and determine its load
 
 - [Nauz File Detector ![GitHub Repo Stars](https://img.shields.io/github/stars/horsicq/Nauz-File-Detector) ![GitHub last commit](https://img.shields.io/github/last-commit/horsicq/Nauz-File-Detector)](https://github.com/horsicq/Nauz-File-Detector) — Static Linker/Compiler/Tool detector for Windows, Linux and MacOS.
 
+- [rhabdomancer](https://crates.io/crates/rhabdomancer) — IDA Pro headless plugin that locates calls to potentially insecure API functions in a binary file.
+
 - [rust-audit ![GitHub Repo Stars](https://img.shields.io/github/stars/Shnatsel/rust-audit) ![GitHub last commit](https://img.shields.io/github/last-commit/Shnatsel/rust-audit)](https://github.com/Shnatsel/rust-audit) — Audit Rust binaries for known bugs or security vulnerabilities. This works by embedding data about the dependency tree (Cargo.lock) in JSON format into a dedicated linker section of the compiled executable.
 
 - [Twiggy ![GitHub Repo Stars](https://img.shields.io/github/stars/rustwasm/twiggy) ![GitHub last commit](https://img.shields.io/github/last-commit/rustwasm/twiggy)](https://github.com/rustwasm/twiggy) — Analyzes a binary's call graph to profile code size. The goal is to slim down wasm binary size.
