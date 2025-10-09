@@ -30,6 +30,7 @@ Contributions welcome! Please follow the [contributing guidelines ![GitHub Repo 
 - [FarmBot](https://github.com/farmbot) - Open source precision gardening project.
 - [FarmBot-ROS](https://github.com/farmbot-ros/) - Open source farming robot.
 - [Fields2Cover ![GitHub Repo Stars](https://img.shields.io/github/stars/Fields2Cover/Fields2Cover) ![GitHub last commit](https://img.shields.io/github/last-commit/Fields2Cover/Fields2Cover)](https://github.com/Fields2Cover/Fields2Cover) - Robust and efficient coverage paths for autonomous agricultural vehicles.
+- [Field Friend ![GitHub Repo Stars](https://img.shields.io/github/stars/zauberzeug/field_friend) ![GitHub last commit](https://img.shields.io/github/last-commit/zauberzeug/field_friend)](https://github.com/zauberzeug/field_friend) - A Development Platform for Autonomous Weeding. 
 - [Romi project](https://media.romi-project.eu/documents/index.html) - Europe-funded research project 
 - [ROS Agriculture](http://rosagriculture.org/) - Open Source community focusing on using Robot Operating System to empower farmers with robotics tools. 
 - [Weedinator](https://hackaday.io/project/53896-weedinator-2019) - Line following weeding robot
