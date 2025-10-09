@@ -100,7 +100,7 @@ _Frameworks and libraries that help implementing and verifying design and archit
 _Frameworks that help you to leverage LLMs and AI._
 
 - [LangChain4j ![GitHub Repo Stars](https://img.shields.io/github/stars/langchain4j/langchain4j) ![GitHub last commit](https://img.shields.io/github/last-commit/langchain4j/langchain4j)](https://github.com/langchain4j/langchain4j) - Simplifies integration of LLMs with unified APIs and a comprehensive toolbox.
-- [MCP Java SDK ![GitHub Repo Stars](https://img.shields.io/github/stars/modelcontextprotocol/java-sdk) ![GitHub last commit](https://img.shields.io/github/last-commit/modelcontextprotocol/java-sdk)](https://github.com/modelcontextprotocol/java-sdk) -  Enables applications to interact with AI models and tools through a standardized interface (i.e. Model Context Protocol), supporting both synchronous and asynchronous communication patterns.
+- [MCP Java SDK ![GitHub Repo Stars](https://img.shields.io/github/stars/modelcontextprotocol/java-sdk) ![GitHub last commit](https://img.shields.io/github/last-commit/modelcontextprotocol/java-sdk)](https://github.com/modelcontextprotocol/java-sdk) - Enables applications to interact with AI models and tools through a standardized interface (i.e. Model Context Protocol), supporting both synchronous and asynchronous communication patterns.
 - [simple-openai ![GitHub Repo Stars](https://img.shields.io/github/stars/sashirestela/simple-openai) ![GitHub last commit](https://img.shields.io/github/last-commit/sashirestela/simple-openai)](https://github.com/sashirestela/simple-openai) - Library to use the OpenAI API (and compatible ones) in the simplest possible way.
 - [Spring AI](https://spring.io/projects/spring-ai) - Application framework for AI engineering for Spring.
 
@@ -220,6 +220,7 @@ _Tools that generate patterns for repetitive code in order to reduce verbosity a
 - [JHipster ![GitHub Repo Stars](https://img.shields.io/github/stars/jhipster/generator-jhipster) ![GitHub last commit](https://img.shields.io/github/last-commit/jhipster/generator-jhipster)](https://github.com/jhipster/generator-jhipster) - Yeoman source code generator for Spring Boot and AngularJS.
 - [Joda-Beans](https://www.joda.org/joda-beans/) - Small framework that adds queryable properties to Java, enhancing JavaBeans.
 - [JPA Buddy ![c]](https://www.jpa-buddy.com) - Plugin for IntelliJ IDEA. Provides visual tools for generating JPA entities, Spring Data JPA repositories, Liquibase changelogs and SQL scripts. Offers automatic Liquibase/Flyway script generation by comparing model to DB, and reverse engineering JPA entities from DB tables.
+- [JSpecify Package-Info Generator ![GitHub Repo Stars](https://img.shields.io/github/stars/bcaillard/jspecify-packageinfo-generator) ![GitHub last commit](https://img.shields.io/github/last-commit/bcaillard/jspecify-packageinfo-generator)](https://github.com/bcaillard/jspecify-packageinfo-generator) - Maven plugin that automatically generates package-info.java files with JSpecify annotations (@NullMarked and @NullUnmarked), helping you manage nullness boundaries in your Java projects without manual boilerplate.
 - [Lombok](https://projectlombok.org) - Code generator that aims to reduce verbosity.
 - [Record-Builder ![GitHub Repo Stars](https://img.shields.io/github/stars/Randgalt/record-builder) ![GitHub last commit](https://img.shields.io/github/last-commit/Randgalt/record-builder)](https://github.com/Randgalt/record-builder) - Companion builder class, withers and templates for Java records.
 - [Telosys](https://www.telosys.org/) - Simple and light code generator available as an Eclipse Plugin and also as a CLI.
@@ -744,6 +745,8 @@ _Everything else._
 - [webcam-capture ![GitHub Repo Stars](https://img.shields.io/github/stars/sarxos/webcam-capture) ![GitHub last commit](https://img.shields.io/github/last-commit/sarxos/webcam-capture)](https://github.com/sarxos/webcam-capture) - Library for using built-in and external webcams directly in Java.
 - [XMLBeam ![GitHub Repo Stars](https://img.shields.io/github/stars/SvenEwald/xmlbeam) ![GitHub last commit](https://img.shields.io/github/last-commit/SvenEwald/xmlbeam)](https://github.com/SvenEwald/xmlbeam) - Processes XML by using annotations or XPath within code.
 - [yGuard ![GitHub Repo Stars](https://img.shields.io/github/stars/yWorks/yGuard) ![GitHub last commit](https://img.shields.io/github/last-commit/yWorks/yGuard)](https://github.com/yWorks/yGuard) - Obfuscation via renaming and shrinking.
+- [JBang ![GitHub Repo Stars](https://img.shields.io/github/stars/maxandersen/jbang) ![GitHub last commit](https://img.shields.io/github/last-commit/maxandersen/jbang)](https://github.com/maxandersen/jbang/) - JBang makes it easy to use Java for scripting. It lets you use a single file for
+  code and dependency management and allows you to run it directly.
 
 ### Mobile Development
 
@@ -800,7 +803,7 @@ _Libraries that specialize in processing text._
 - [CogCompNLP ![GitHub Repo Stars](https://img.shields.io/github/stars/CogComp/cogcomp-nlp) ![GitHub last commit](https://img.shields.io/github/last-commit/CogComp/cogcomp-nlp)](https://github.com/CogComp/cogcomp-nlp) - Provides common annotators for plain text input. (Research and Academic Use License)
 - [CoreNLP](https://nlp.stanford.edu/software/corenlp.shtml) - Provides a set of fundamental tools for tasks like tagging, named entity recognition, and sentiment analysis. (GPL-3.0-or-later)
 - [DKPro](https://dkpro.github.io) - Collection of reusable NLP tools for linguistic pre-processing, machine learning, lexical resources, etc.
-- [Hypherator ![GitHub Repo Stars](https://img.shields.io/github/stars/ejossev/hypherator-java) ![GitHub last commit](https://img.shields.io/github/last-commit/ejossev/hypherator-java)](https://github.com/ejossev/hypherator-java) - Java hyphenation library with iterator-like interface. Can be used out-of-the box - dictionaries for multiple languages are bundled in. 
+- [Hypherator ![GitHub Repo Stars](https://img.shields.io/github/stars/ejossev/hypherator-java) ![GitHub last commit](https://img.shields.io/github/last-commit/ejossev/hypherator-java)](https://github.com/ejossev/hypherator-java) - Java hyphenation library with iterator-like interface. Can be used out-of-the box - dictionaries for multiple languages are bundled in.
 - [LingPipe](http://alias-i.com/lingpipe/) - Toolkit for tasks ranging from POS tagging to sentiment analysis.
 
 ### Networking
@@ -1021,6 +1024,7 @@ _Engines that index documents for search and analysis._
 _Libraries that handle security, authentication, authorization or session management._
 
 - [Apache Shiro](https://shiro.apache.org) - Performs authentication, authorization, cryptography and session management.
+- [Ayza ![GitHub Repo Stars](https://img.shields.io/github/stars/Hakky54/ayza) ![GitHub last commit](https://img.shields.io/github/last-commit/Hakky54/ayza)](https://github.com/Hakky54/ayza) - High-level SSL configuration builder for configuring HTTP clients and servers with SSL/TLS.
 - [Bouncy Castle](https://www.bouncycastle.org/java.html) - All-purpose cryptographic library and JCA provider offering a wide range of functions, from basic helpers to PGP/SMIME operations.
 - [DependencyCheck ![GitHub Repo Stars](https://img.shields.io/github/stars/jeremylong/DependencyCheck) ![GitHub last commit](https://img.shields.io/github/last-commit/jeremylong/DependencyCheck)](https://github.com/jeremylong/DependencyCheck) - Detects publicly disclosed vulnerabilities contained within a project's dependencies.
 - [Cryptomator](https://cryptomator.org) - Multiplatform, transparent, client-side encryption of files in the cloud. (GPL-3.0-only)
@@ -1039,7 +1043,6 @@ _Libraries that handle security, authentication, authorization or session manage
 - [Passay](http://www.passay.org/) - Enforce password policy by validating candidate passwords against a configurable rule set.
 - [Password4j ![GitHub Repo Stars](https://img.shields.io/github/stars/Password4j/password4j) ![GitHub last commit](https://img.shields.io/github/last-commit/Password4j/password4j)](https://github.com/Password4j/password4j) - User-friendly cryptographic library that supports Argon2, Bcrypt, Scrypt, PBKDF2 and various other cryptographic hash functions.
 - [SecurityBuilder ![GitHub Repo Stars](https://img.shields.io/github/stars/tersesystems/securitybuilder) ![GitHub last commit](https://img.shields.io/github/last-commit/tersesystems/securitybuilder)](https://github.com/tersesystems/securitybuilder) - Fluent Builder API for JCA and JSSE classes and especially X.509 certificates.
-- [SSLContext-Kickstart ![GitHub Repo Stars](https://img.shields.io/github/stars/Hakky54/sslcontext-kickstart) ![GitHub last commit](https://img.shields.io/github/last-commit/Hakky54/sslcontext-kickstart)](https://github.com/Hakky54/sslcontext-kickstart) - High-level SSL context builder for configuring HTTP clients with SSL/TLS.
 - [Themis ![GitHub Repo Stars](https://img.shields.io/github/stars/cossacklabs/themis) ![GitHub last commit](https://img.shields.io/github/last-commit/cossacklabs/themis)](https://github.com/cossacklabs/themis) - Multi-platform high-level cryptographic library provides easy-to-use encryption for protecting sensitive data: secure messaging with forward secrecy, secure data storage (AES256GCM); suits for building end-to-end encrypted applications.
 - [Tink ![GitHub Repo Stars](https://img.shields.io/github/stars/google/tink) ![GitHub last commit](https://img.shields.io/github/last-commit/google/tink)](https://github.com/google/tink) - Provides a simple and misuse-proof API for common cryptographic tasks.
 - [Topaz](https://www.topaz.sh) - Fine-grained authorization for applications with support for RBAC, ABAC, and ReBAC.
@@ -1242,6 +1245,7 @@ _Frameworks that handle the communication between the layers of a web applicatio
 - [Ratpack](https://ratpack.io) - Set of libraries that facilitate fast, efficient, evolvable and well-tested HTTP applications.
 - [Takes ![GitHub Repo Stars](https://img.shields.io/github/stars/yegor256/takes) ![GitHub last commit](https://img.shields.io/github/last-commit/yegor256/takes)](https://github.com/yegor256/takes) - Opinionated web framework which is built around the concepts of True Object-Oriented Programming and immutability.
 - [Vaadin](https://vaadin.com) - Full-stack open-source Java framework that simplifies web app development. Build complex, interactive applications with Java alone, and enhance with TypeScript and React components, without needing deep JavaScript, CSS, or HTML expertise.
+- [WebForms Core](https://github.com/webforms-core) - A technology for managing HTML tags from the server.
 
 ### Workflow Orchestration Engines
 

@@ -1494,6 +1494,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [gradient-picker ![GitHub Repo Stars](https://img.shields.io/github/stars/acrodata/gradient-picker) ![GitHub last commit](https://img.shields.io/github/last-commit/acrodata/gradient-picker)](https://github.com/acrodata/gradient-picker) - A powerful and beautiful gradient picker.
 * [ngxsmk-datepicker ![GitHub Repo Stars](https://img.shields.io/github/stars/toozuuu/ngxsmk-datepicker) ![GitHub last commit](https://img.shields.io/github/last-commit/toozuuu/ngxsmk-datepicker)](https://github.com/toozuuu/ngxsmk-datepicker) - A modern, highly customizable Angular date range picker component.
 * [ngx-country-selector ![GitHub Repo Stars](https://img.shields.io/github/stars/evicio1/ngx-country-selector) ![GitHub last commit](https://img.shields.io/github/last-commit/evicio1/ngx-country-selector)](https://github.com/evicio1/ngx-country-selector) - A sleek, customizable Angular Material country selector offering accessible dropdowns with flags, codes, local names, and more.
+* [angular-datepicker2 ![GitHub Repo Stars](https://img.shields.io/github/stars/nsnayp13/angular-datepicker2) ![GitHub last commit](https://img.shields.io/github/last-commit/nsnayp13/angular-datepicker2)](https://github.com/nsnayp13/angular-datepicker2) - Lightweight Angular 16+ datepicker with standalone support, range and multi-date selection, and customizable templates—no external dependencies.
 
 ### JSON Forms
 
