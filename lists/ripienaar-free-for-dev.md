@@ -995,7 +995,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [Mailchimp](https://mailchimp.com/) — 500 subscribers and 1,000 emails/month free.
   * [Maildroppa](https://maildroppa.com) - Up to 100 subscribers and unlimited emails as well as automations for free.
   * [MailerLite.com](https://www.mailerlite.com) — 1,000 subscribers/month, 12,000 emails/month free
-  * [MailerSend.com](https://www.mailersend.com) — Email API, SMTP, 3,000 emails/month free for transactional emails
+  * [MailerSend.com](https://www.mailersend.com) �� Email API, SMTP, 3,000 emails/month free for transactional emails
   * [mailinator.com](https://www.mailinator.com/) — Free, public email system where you can use any inbox you want
   * [Mailjet](https://www.mailjet.com/) — 6,000 emails/month free (200 emails daily sending limit)
   * [Mailnesia](https://mailnesia.com) - Free temporary/disposable email, which auto visit registration link.
