@@ -327,7 +327,7 @@ __Note:__ searching for ‘@’ will return all Twitter accounts listed on this 
 -   [Data Science Group](http://datasciencegroup.pl/) -  Wroclaw-based research group that studies, among many things, complex networks and other network-related topics.
 -   [Digital Humanities](http://cmb.huma-num.fr/) - Interdisciplinary group of researchers at the Marc Bloch Centre in Berlin, with many network science projects.
 -   [Forschungscluster der Universitäten Trier und Mainz “Gesellschaftliche Abhängigkeiten und soziale Netzwerke”](http://www.netzwerk-exzellenz.uni-trier.de/), in German.
--   [GDR Analyse de réseaux en sciences humaines et sociales](https://arshs.hypotheses.org/) �� French research group with funds to support training and workshops on network analysis for social scientists.
+-   [GDR Analyse de réseaux en sciences humaines et sociales](https://arshs.hypotheses.org/) – French research group with funds to support training and workshops on network analysis for social scientists.
 -   [Historical Network Research (HNR)](http://historicalnetworkresearch.org/) - Platform for scholars interested in network analysis for historical research.
     -   [HNR Conferences, Workshops and Other Events](http://historicalnetworkresearch.org/hnr-events/).
     -   [HNR Talks](https://vimeo.com/user11811027) - Videos, in German.
@@ -364,7 +364,7 @@ __Note:__ searching for ‘@’ will return all Twitter accounts listed on this 
 -   [Formale Methoden der Netzwerkanalyse in den Geschichtswissenschaften: Warum und Wie? [Formal Network Methods in History: Why and How?]](http://www.studienverlag.at/data.cfm?vpath=openaccess/oezg-12012-lemercier&download=yes), in German ([preprint in English](https://shs.hal.science/halshs-00521527); _Österreichische Zeitschrift für Geschichtswissenschaften_, 2012).
 -   [From Hermeneutics to Data to Networks: Data Extraction and Network Visualization of Historical Sources](http://programminghistorian.org/lessons/creating-network-diagrams-from-historical-sources) (_Programming Historian_, 2015).
 -   [Graph Theory and Networks in Biology](https://doi.org/10.1049/iet-syb:20060038) ([preprint](https://arxiv.org/abs/q-bio/0604006); _IET Systems Biology_, 2007).
--   [Introduction à la visualisation de données : l’analyse de r��seau en histoire](https://www.martingrandjean.ch/introduction-visualisation-de-donnees-analyse-de-reseau-histoire/), in French (_Geschichte und Informatik_, 2015).
+-   [Introduction à la visualisation de données : l’analyse de réseau en histoire](https://www.martingrandjean.ch/introduction-visualisation-de-donnees-analyse-de-reseau-histoire/), in French (_Geschichte und Informatik_, 2015).
 -   [Introduction : où en est l’analyse de réseaux en histoire ? [Introducción: ¿en qué punto se encuentra el análisis de redes en Historia?]](https://doi.org/10.5565/rev/redes.416), in French and Spanish (_REDES_, 2011).
 -   [Networks and History](https://doi.org/10.1002/cplx.10054) (_Complexity_, 2002).
 -   [Networks in Historical Research](http://www.themacroscope.org/?page_id=308) (in _The Historian’s Macroscope_, 2013).
