@@ -134,6 +134,7 @@ sellers who aren't evil for physical resources.
   - [Matrix libraries](#matrix-libraries)
   - [Statistics](#statistics)
   - [Units](#units)
+  - [Plotting](#plotting)
   - [Utils](#utils)
 - [Parallelism and Concurrency](#parallelism-and-concurrency)
   - [Actors pattern](#actors-pattern)
@@ -185,7 +186,6 @@ sellers who aren't evil for physical resources.
   - [Markdown](#markdown)
   - [Package declarations](#package-declarations)
   - [PDF](#pdf)
-  - [Plotting](#plotting)
   - [Project skeletons](#project-skeletons)
   - [Security](#security)
   - [System interface](#system-interface)
@@ -766,7 +766,10 @@ For an overview and a tutorial on GUI toolkits, see [the Cookbook/GUI](https://l
 * [LispWork's CAPI](http://www.lispworks.com/products/capi.html) - A portable GUI toolkit, with mobile runtime. Proprietary, but comes with a free version.
 * [Allegro's Common Graphics](https://franz.com/products/allegro-common-lisp/acl_gui_tools.lhtml)- a library of functions for writing windowized GUIs for Windows, Mac and Linux. Proprietary with a free version.
   - since Allegro 10.1 (March, 2022), the IDE and the Common Graphics toolkit [runs in the browser](https://franz.com/ftp/pri/acl/cgjs/doc.html).
-* 👍 [Qtools ![GitHub Repo Stars](https://img.shields.io/github/stars/Shinmera/qtools) ![GitHub last commit](https://img.shields.io/github/last-commit/Shinmera/qtools)](https://github.com/Shinmera/qtools/) - A Qt toolkit, based on CommonQt. [zlib][33] Also [Qtools-ui ![GitHub Repo Stars](https://img.shields.io/github/stars/Shinmera/qtools-ui) ![GitHub last commit](https://img.shields.io/github/last-commit/Shinmera/qtools-ui)](https://github.com/Shinmera/qtools-ui) (premade UI components), with [videos](https://www.youtube.com/watch?v=KwASFOhYta4&index=7&list=PLkDl6Irujx9Mh3BWdBmt4JtIrwYgihTWp).
+* 🆕 [cl-gtk4 ![GitHub Repo Stars](https://img.shields.io/github/stars/bohonghuang/cl-gtk4) ![GitHub last commit](https://img.shields.io/github/last-commit/bohonghuang/cl-gtk4)](https://github.com/bohonghuang/cl-gtk4) -  GTK4/Libadwaita/WebKit binding for Common Lisp. [LGPL3][9].
+* [cl-cffi-gtk ![GitHub Repo Stars](https://img.shields.io/github/stars/crategus/cl-cffi-gtk) ![GitHub last commit](https://img.shields.io/github/last-commit/crategus/cl-cffi-gtk)](https://github.com/crategus/cl-cffi-gtk) - Binding for GTK+3. [GNU LGPL2.1][11].
+  - a tutorial: [Learn Common Lisp by Example: GTK GUI with SBCL](https://dev.to/goober99/learn-common-lisp-by-example-gtk-gui-with-sbcl-5e5c)
+* [Qtools ![GitHub Repo Stars](https://img.shields.io/github/stars/Shinmera/qtools) ![GitHub last commit](https://img.shields.io/github/last-commit/Shinmera/qtools)](https://github.com/Shinmera/qtools/) - A Qt toolkit, based on CommonQt. [zlib][33] Also [Qtools-ui ![GitHub Repo Stars](https://img.shields.io/github/stars/Shinmera/qtools-ui) ![GitHub last commit](https://img.shields.io/github/last-commit/Shinmera/qtools-ui)](https://github.com/Shinmera/qtools-ui) (premade UI components), with [videos](https://www.youtube.com/watch?v=KwASFOhYta4&index=7&list=PLkDl6Irujx9Mh3BWdBmt4JtIrwYgihTWp).
 * ⭐ [CommonQt ![GitHub Repo Stars](https://img.shields.io/github/stars/commonqt/commonqt) ![GitHub last commit](https://img.shields.io/github/last-commit/commonqt/commonqt)](https://github.com/commonqt/commonqt) - A Common Lisp binding for Qt4 via QtSmoke. [FreeBSD][39].
   * [CommonQt5 ![GitHub Repo Stars](https://img.shields.io/github/stars/commonqt/commonqt5) ![GitHub last commit](https://img.shields.io/github/last-commit/commonqt/commonqt5)](https://github.com/commonqt/commonqt5/) - bindings for Qt5.
     * warn: currently difficult to install. Used in production© by SISCOG.
@@ -779,11 +782,7 @@ For an overview and a tutorial on GUI toolkits, see [the Cookbook/GUI](https://l
 * [IUP ![GitHub Repo Stars](https://img.shields.io/github/stars/lispnik/iup) ![GitHub last commit](https://img.shields.io/github/last-commit/lispnik/iup)](https://github.com/lispnik/iup/) - CFFI bindings to the [IUP](https://www.tecgraf.puc-rio.br/iup/) Portable User Interface library (pre-ALPHA).
   - IUP is cross-platform (Windows, macOS, GNU/Linux, with new Android, iOs, Cocoa and Web Assembly drivers), has many widgets, has a small api and is actively developed.
   - has a web view.
-* 🆕 [cl-gtk4 ![GitHub Repo Stars](https://img.shields.io/github/stars/bohonghuang/cl-gtk4) ![GitHub last commit](https://img.shields.io/github/last-commit/bohonghuang/cl-gtk4)](https://github.com/bohonghuang/cl-gtk4) -  GTK4/Libadwaita/WebKit binding for Common Lisp. [LGPL3][9].
-* [cl-cffi-gtk ![GitHub Repo Stars](https://img.shields.io/github/stars/crategus/cl-cffi-gtk) ![GitHub last commit](https://img.shields.io/github/last-commit/crategus/cl-cffi-gtk)](https://github.com/crategus/cl-cffi-gtk) - Binding for GTK+3. [GNU LGPL2.1][11].
-  - a tutorial: [Learn Common Lisp by Example: GTK GUI with SBCL](https://dev.to/goober99/learn-common-lisp-by-example-gtk-gui-with-sbcl-5e5c)
-* [cl-gtk2 ![GitHub Repo Stars](https://img.shields.io/github/stars/dmitryvk/cl-gtk2) ![GitHub last commit](https://img.shields.io/github/last-commit/dmitryvk/cl-gtk2)](https://github.com/dmitryvk/cl-gtk2) - A binding for GTK+2. [LLGPL][8].
-* [Barium](https://tomscii.sig7.se/barium/) - an X widget toolkit, directly accessing the X client library and other platform libraries (OpenGL, Cairo). [MIT][200].
+* 🆕 [Barium](https://tomscii.sig7.se/barium/) - an X widget toolkit, directly accessing the X client library and other platform libraries (OpenGL, Cairo). [MIT][200].
   * not a wrapper of another toolkit. Allows incremental GUI development.
   * new as of April, 2025.
 
@@ -1075,7 +1074,7 @@ Beginner
 * [Successful Lisp](http://successful-lisp.blogspot.com/) - A good book for beginners with some programming background.
 * [Lisp Quickstart](https://cs.gmu.edu/~sean/lisp/LispTutorial.html) - A good tutorial to get up and code Common Lisp quickly.
 * [Casting SPELs in LISP](http://www.lisperati.com/casting.html) - A fun way to learn LISP while reading a comic book.
-* �� [Common Lisp Programming: from novice to effective developer](https://www.udemy.com/course/common-lisp-programming/?referralCode=2F3D698BBC4326F94358) - A learning video series on the Udemy platform (*full content under paid access*). By an active lisper and community contributor (@vindarel). [Github home ![GitHub Repo Stars](https://img.shields.io/github/stars/vindarel/common-lisp-course-in-videos) ![GitHub last commit](https://img.shields.io/github/last-commit/vindarel/common-lisp-course-in-videos)](https://github.com/vindarel/common-lisp-course-in-videos/).
+* 📹 [Common Lisp Programming: from novice to effective developer](https://www.udemy.com/course/common-lisp-programming/?referralCode=2F3D698BBC4326F94358) - A learning video series on the Udemy platform (*full content under paid access*). By an active lisper and community contributor (@vindarel). [Github home ![GitHub Repo Stars](https://img.shields.io/github/stars/vindarel/common-lisp-course-in-videos) ![GitHub last commit](https://img.shields.io/github/last-commit/vindarel/common-lisp-course-in-videos)](https://github.com/vindarel/common-lisp-course-in-videos/).
   > Thanks for supporting my work on Udemy. I can send a free link to students, just contact me.
 * [Loving Common Lisp, or the Savvy Programmer's Secret Weapon](https://leanpub.com/lovinglisp) - Quick introduction to Common Lisp with many examples. A particular focus is on how to use Large Language Models (LLMs).
 
@@ -1119,7 +1118,6 @@ Reference
   * with an interactive search, syntax highlighting! And open-source.
 * NEW! [novaspec](https://novaspec.org/) - a modern rendition of the CL ANSI draft.
   * not open-source?
-
 * [Common Lisp Quick Reference](http://clqr.boundp.org/index.html) - A distilled, pocket-size version of the ANSI CL spec. Available for download as a PDF.
 * [CLHS](http://www.lispworks.com/documentation/lw50/CLHS/Front/index.htm) - The Common Lisp HyperSpec; the ANSI CL standard, in hypertext form.
 * [CLOS MOP specification](https://clos-mop.hexstreamsoft.com/) - A modern public domain online version of chapters 5 and 6 of The Art of the Metaobject Protocol
@@ -1649,6 +1647,32 @@ Units
 
 * [physical-quantities ![GitHub Repo Stars](https://img.shields.io/github/stars/mrossini-ethz/physical-quantities) ![GitHub last commit](https://img.shields.io/github/last-commit/mrossini-ethz/physical-quantities)](https://github.com/mrossini-ethz/physical-quantities) - a library that provides a numeric type with optional unit and/or uncertainty for computations with automatic error propagation. GPL2
 
+Plotting
+--------
+
+* lisp-stat's [plot (vega-lite) ![GitHub Repo Stars](https://img.shields.io/github/stars/Lisp-Stat/plot) ![GitHub last commit](https://img.shields.io/github/last-commit/Lisp-Stat/plot)](https://github.com/Lisp-Stat/plot) - a Vega-lite DSL. MS-PL.
+  * includes functions for text-based plotting that work in the REPL, and JavaScript visualisations that are rendered in a browser.
+  * [emacs-vega-view ![GitHub Repo Stars](https://img.shields.io/github/stars/applied-science/emacs-vega-view) ![GitHub last commit](https://img.shields.io/github/last-commit/applied-science/emacs-vega-view)](https://github.com/applied-science/emacs-vega-view?tab=readme-ov-file#common-lisp) - an Emacs plugin that allows to display a Vega plot from a lisp-stat expression in a buffer.
+* [vgplot ![GitHub Repo Stars](https://img.shields.io/github/stars/volkers/vgplot) ![GitHub last commit](https://img.shields.io/github/last-commit/volkers/vgplot)](https://github.com/volkers/vgplot) - an interface to the
+  gnuplot plotting utility with the intention to resemble some of
+  the plot commands of octave or matlab. [GPL3][2].
+* [eazy-gnuplot ![GitHub Repo Stars](https://img.shields.io/github/stars/guicho271828/eazy-gnuplot) ![GitHub last commit](https://img.shields.io/github/last-commit/guicho271828/eazy-gnuplot)](https://github.com/guicho271828/eazy-gnuplot) - a
+  lispy, structure-less Gnuplot library. With its
+  [cookbook](http://guicho271828.github.io/eazy-gnuplot/). [LLGPL][8]
+* [kai ![GitHub Repo Stars](https://img.shields.io/github/stars/komi1230/kai) ![GitHub last commit](https://img.shields.io/github/last-commit/komi1230/kai)](https://github.com/komi1230/kai) - A high-level plotter library for Common Lisp. A wrapper around the [Plotly](https://plotly.com/javascript/) JS library. [MIT][200].
+* [ADW-Charting](https://common-lisp.net/project/adw-charting/) - A simple chart drawing library written completely in Common Lisp. Also includes a backend to Google's chart service. BSD-like.
+
+cool but WIP:
+
+* [plotly-user ![GitHub Repo Stars](https://img.shields.io/github/stars/ajberkley/plotly-user) ![GitHub last commit](https://img.shields.io/github/last-commit/ajberkley/plotly-user)](https://github.com/ajberkley/plotly-user) -  Use plotly in your browser to explore data from a Common Lisp REPL. [BSD_3Clause][15].
+
+Plotting with text:
+
+* [cl-text-plot ![GitHub Repo Stars](https://img.shields.io/github/stars/moneylobster/cl-text-plot) ![GitHub last commit](https://img.shields.io/github/last-commit/moneylobster/cl-text-plot)](https://github.com/moneylobster/cl-text-plot/) -  Plot with text in Common Lisp. No licence specified.
+* [cl-spark ![GitHub Repo Stars](https://img.shields.io/github/stars/tkych/cl-spark) ![GitHub last commit](https://img.shields.io/github/last-commit/tkych/cl-spark)](https://github.com/tkych/cl-spark) - sparkline strings for the console: `(spark '(1 1 2 3 5 8))` => "▁▁▂▃▅▇". [MIT][200].
+
+See also the chart facilities of IUP and ltk-plotchart (GUI section).
+
 Utils
 -----
 
@@ -1738,8 +1762,6 @@ Running scripts
 but there is a start-up time specially when loading libraries. Can we
 do better? We can always build a binary.*
 
-* 👍 [Roswell ![GitHub Repo Stars](https://img.shields.io/github/stars/roswell/roswell) ![GitHub last commit](https://img.shields.io/github/last-commit/roswell/roswell)](https://github.com/roswell/roswell#scripting-with-roswell) - a script installer and launcher, that makes it easy to distribute Lisp scripts and programs. [MIT][200].
-  * *compiles a binary under the hood*
 * [ScriptL ![GitHub Repo Stars](https://img.shields.io/github/stars/rpav/ScriptL) ![GitHub last commit](https://img.shields.io/github/last-commit/rpav/ScriptL)](https://github.com/rpav/ScriptL) - Shell scripting made Lisp-like! Or, live-coding remote function calls for the shell. Write a command in the REPL, and run it instantly in the shell. [LLGPL][8].
   * similar and maybe simpler: [lserver](https://notabug.org/quasus/lserver/)
 * [CIEL ![GitHub Repo Stars](https://img.shields.io/github/stars/ciel-lang/CIEL) ![GitHub last commit](https://img.shields.io/github/last-commit/ciel-lang/CIEL)](https://github.com/ciel-lang/CIEL/) - CIEL Is an Extended Lisp is a collection of dozens of libraries useful for mundane tasks (HTTP, JSON, regexps…). [unclear licence]
@@ -1843,24 +1865,22 @@ This contains plugins and other goodies for various text editors.
 ## Emacs ##
 
 * ⭐ [Slime ![GitHub Repo Stars](https://img.shields.io/github/stars/slime/slime) ![GitHub last commit](https://img.shields.io/github/last-commit/slime/slime)](https://github.com/slime/slime) - Superior Lisp Interaction Mode for Emacs; a full-blown environment for Common Lisp inside of Emacs. Public domain.
-* 👍 [Sly ![GitHub Repo Stars](https://img.shields.io/github/stars/joaotavora/sly) ![GitHub last commit](https://img.shields.io/github/last-commit/joaotavora/sly)](https://github.com/joaotavora/sly) - SLY is a fork of SLIME and contains multiple improvements upon it, such as Sly stickers.
+* [Sly ![GitHub Repo Stars](https://img.shields.io/github/stars/joaotavora/sly) ![GitHub last commit](https://img.shields.io/github/last-commit/joaotavora/sly)](https://github.com/joaotavora/sly) - SLY is a fork of SLIME and contains multiple changes and new features, such as Sly stickers.
+  * *no C-c C-y shortcut aka slime-call-defun equivalent!*
 
 Starter kits:
 
-* 👍 [Portacle](https://shinmera.github.io/portacle/) - A portable and multiplatform Common Lisp environment: SBCL, Quicklisp, Emacs, Slime, Git.
 * [Emacs4CL ![GitHub Repo Stars](https://img.shields.io/github/stars/susam/emacs4cl) ![GitHub last commit](https://img.shields.io/github/last-commit/susam/emacs4cl)](https://github.com/susam/emacs4cl) - A tiny Emacs initialization file to quickly set up vanilla Emacs for Common Lisp programming. Comes with a line-by-line explanation of every line of code in the initialization file.
 * [plain-common-lisp ![GitHub Repo Stars](https://img.shields.io/github/stars/pascalcombier/plain-common-lisp) ![GitHub last commit](https://img.shields.io/github/last-commit/pascalcombier/plain-common-lisp)](https://github.com/pascalcombier/plain-common-lisp/) -  A trivial way to get a native Common Lisp environment on Windows.
   * ships SBCL, Quicklisp, Emacs and Slime.
   * with example programs for a console program, accessing the Win32 API, displaying a GUI with IUP, running an OpenGL window.
 * [cl-devel2](https://hub.docker.com/r/eshamster/cl-devel2/) - a Docker container for Common Lisp development environment. Ships SBCL, CCL, Roswell and Emacs25 with Slime.
-
-Tools:
-
-- [Quicksearch ![GitHub Repo Stars](https://img.shields.io/github/stars/lisp-maintainers/quicksearch) ![GitHub last commit](https://img.shields.io/github/last-commit/lisp-maintainers/quicksearch)](https://github.com/lisp-maintainers/quicksearch) - search for projects on GitHub, Quicklisp, Cliki and Bitbucket. MIT.
+* [Portacle](https://shinmera.github.io/portacle/) - A portable and multiplatform Common Lisp environment: SBCL, Quicklisp, Emacs, Slime, Git.
+  * *warm: Portacle is now un-maintained and ships an old Emacs.*
 
 Slime extensions:
 
-* [slime-star ![GitHub Repo Stars](https://img.shields.io/github/stars/mmontone/slime-star) ![GitHub last commit](https://img.shields.io/github/last-commit/mmontone/slime-star)](https://github.com/mmontone/slime-star) - a SLIME configuration with extensions pre-installed, with also some custom utilities and menus:
+* 👍 [slime-star ![GitHub Repo Stars](https://img.shields.io/github/stars/mmontone/slime-star) ![GitHub last commit](https://img.shields.io/github/last-commit/mmontone/slime-star)](https://github.com/mmontone/slime-star) - a SLIME configuration with extensions pre-installed, with also some custom utilities and menus:
   - the Lisp system browser
   - [SLIME doc contrib ![GitHub Repo Stars](https://img.shields.io/github/stars/mmontone/slime-doc-contribs) ![GitHub last commit](https://img.shields.io/github/last-commit/mmontone/slime-doc-contribs)](https://github.com/mmontone/slime-doc-contribs) - enhance the default help buffer.
   - [Quicklisp systems ![GitHub Repo Stars](https://img.shields.io/github/stars/mmontone/quicklisp-systems) ![GitHub last commit](https://img.shields.io/github/last-commit/mmontone/quicklisp-systems)](https://github.com/mmontone/quicklisp-systems) - Search, browse and load Quicklisp systems from Emacs.
@@ -1873,6 +1893,10 @@ Sly extensions:
 
 * [sly-overlay](https://git.sr.ht/~fosskers/sly-overlay) - an extension for Sly that enables the overlay of Common Lisp evaluation results directly into the buffer in the spirit of CIDER (Clojure), Eros (Emacs Lisp) and the Lem editor.
 * [sly-mrepl-db](https://gitlab.com/akashadutchie/sly-mrepl-db) - from the debugger, evaluate expressions in a REPL with frame context (and not only in the minibuffer).
+
+Tools:
+
+- [Quicksearch ![GitHub Repo Stars](https://img.shields.io/github/stars/lisp-maintainers/quicksearch) ![GitHub last commit](https://img.shields.io/github/last-commit/lisp-maintainers/quicksearch)](https://github.com/lisp-maintainers/quicksearch) - search for projects on GitHub, Quicklisp, Cliki and Bitbucket. MIT.
 
 ## Vim & Neovim ##
 
@@ -1888,12 +1912,13 @@ Sly extensions:
 
 ## Lem ##
 
-* [Lem ![GitHub Repo Stars](https://img.shields.io/github/stars/lem-project/lem) ![GitHub last commit](https://img.shields.io/github/last-commit/lem-project/lem)](https://github.com/lem-project/lem) - a ready to use, Emacs-like, Slime-based
-  editor tailored for Common Lisp development out of the box, as well as other programming languages with its built-in LSP client. With ncurses, Electron and SDL2 interfaces. [MIT][200].
-  * [Lem 2.0 ![GitHub Repo Stars](https://img.shields.io/github/stars/lem-project/lem) ![GitHub last commit](https://img.shields.io/github/last-commit/lem-project/lem)](https://github.com/lem-project/lem/releases/tag/v2.0.0), released on May, 2023, added the SDL2 frontend, thus mouse support, graphic capabilities and Windows support, among other new features.
-  * see also: an [opengl frontend ![GitHub Repo Stars](https://img.shields.io/github/stars/pupcraft/lem-opengl) ![GitHub last commit](https://img.shields.io/github/last-commit/pupcraft/lem-opengl)](https://github.com/pupcraft/lem-opengl), [Lem in Docker ![GitHub Repo Stars](https://img.shields.io/github/stars/40ants/lem-docker) ![GitHub last commit](https://img.shields.io/github/last-commit/40ants/lem-docker)](https://github.com/40ants/lem-docker), [lem-pareto ![GitHub Repo Stars](https://img.shields.io/github/stars/40ants/lem-pareto) ![GitHub last commit](https://img.shields.io/github/last-commit/40ants/lem-pareto)](https://github.com/40ants/lem-pareto).
+* [Lem ![GitHub Repo Stars](https://img.shields.io/github/stars/lem-project/lem) ![GitHub last commit](https://img.shields.io/github/last-commit/lem-project/lem)](https://github.com/lem-project/lem) - a general-purpose development environment extensible in Common Lisp.[MIT][200].
+  * ncurses and webview frontends.
+  * built-in LSP client.
+  * ready to use, Emacs-like, Slime-based editor tailored for Common Lisp out of the box.
+  * website and documentation: [https://lem-project.github.io/](https://lem-project.github.io/)
 
-* 🚀 [Lem on the cloud](https://www.youtube.com/watch?v=IMN7feOQOak) (video presentation)
+* 🚀 [Rooms: Lem on the cloud](https://www.youtube.com/watch?v=IMN7feOQOak) (video presentation)
   * "Rooms is a product that runs Lem, a text editor created in Common Lisp, in the Cloud and can be used by multiple users."
   * NEW as of April, 2024.
 
@@ -1928,7 +1953,7 @@ Sly extensions:
 ## JetBrains
 
 * [SLT ![GitHub Repo Stars](https://img.shields.io/github/stars/Enerccio/SLT) ![GitHub last commit](https://img.shields.io/github/last-commit/Enerccio/SLT)](https://github.com/Enerccio/SLT) -  an IDE Plugin for Itellij/Jetbrains IDE lineup implementing support for Common Lisp via SBCL and Slime/Swank.
-  - 🎉 NEW! Released in Jan, 2023.
+  - released in Jan, 2023.
 
 ## Geany (experimental) ##
 
@@ -2114,8 +2139,8 @@ See also the book [Calendrical calculations](https://www.cambridge.org/us/academ
 Data validation
 ---------------
 
-* [ratify ![GitHub Repo Stars](https://img.shields.io/github/stars/Shinmera/ratify) ![GitHub last commit](https://img.shields.io/github/last-commit/Shinmera/ratify)](https://github.com/Shinmera/ratify) - A collection of utilities to ratify, validate and parse inputs. [zlib][33].
 * [clavier ![GitHub Repo Stars](https://img.shields.io/github/stars/mmontone/clavier) ![GitHub last commit](https://img.shields.io/github/last-commit/mmontone/clavier)](https://github.com/mmontone/clavier) - General purpose validation library for Common Lisp. [MIT][200].
+* [ratify ![GitHub Repo Stars](https://img.shields.io/github/stars/Shinmera/ratify) ![GitHub last commit](https://img.shields.io/github/last-commit/Shinmera/ratify)](https://github.com/Shinmera/ratify) - A collection of utilities to ratify, validate and parse inputs. [zlib][33].
 * [json-schema ![GitHub Repo Stars](https://img.shields.io/github/stars/fisxoj/json-schema) ![GitHub last commit](https://img.shields.io/github/last-commit/fisxoj/json-schema)](https://github.com/fisxoj/json-schema) - A library for validating data against schemas of drafts 4, 6, 7, and 2019-09 of the [JSON Schema](https://json-schema.org/) standard. [LLGPL][8].
 * [sanity-clause ![GitHub Repo Stars](https://img.shields.io/github/stars/fisxoj/sanity-clause) ![GitHub last commit](https://img.shields.io/github/last-commit/fisxoj/sanity-clause)](https://github.com/fisxoj/sanity-clause) - a data serialization/contract library for Common Lisp. Schemas can be property lists or class-based, allowing to check slots' types during `make-instance`. [LLGPL][8].
 * [cl-semver ![GitHub Repo Stars](https://img.shields.io/github/stars/cldm/cl-semver) ![GitHub last commit](https://img.shields.io/github/last-commit/cldm/cl-semver)](https://github.com/cldm/cl-semver) - Implementation of the [Semantic Versioning](https://semver.org) Specification. [MIT][200]
@@ -2196,11 +2221,11 @@ Files and directories
   * [file-attributes ![GitHub Repo Stars](https://img.shields.io/github/stars/Shinmera/file-attributes) ![GitHub last commit](https://img.shields.io/github/last-commit/Shinmera/file-attributes)](https://github.com/Shinmera/file-attributes) -  access to common file attributes (uid, gid, permissions, ctime, mtime, atime).
 * [filepaths ![GitHub Repo Stars](https://img.shields.io/github/stars/fosskers/filepaths) ![GitHub last commit](https://img.shields.io/github/last-commit/fosskers/filepaths)](https://github.com/fosskers/filepaths) -  Modern and consistent filepath manipulation for Common Lisp. [LGPL3][9].
   * no dependencies, doesn't access the filesystem.
+* [file-finder ![GitHub Repo Stars](https://img.shields.io/github/stars/lisp-maintainers/file-finder) ![GitHub last commit](https://img.shields.io/github/last-commit/lisp-maintainers/file-finder)](https://github.com/lisp-maintainers/file-finder/) - File-object finder Common Lisp library. Enable rapid file search, inspection and manipulation. [GPL3][2].
 * [osicat](https://common-lisp.net/project/osicat/) - A lightweight operating system interface on POSIX-like systems, including Windows (directory iteration and deletion, file permissions, file-type identification, etc) [Expat][14].
   * note: Osicat isn't a pure Lisp library, it relies on compiling C code and this might make your deployment harder.
 * [ppath](https://codeberg.org/fourier/ppath) - Common Lisp's implementation of the Python's os.path module. [BSD][15].
 * [mmap ![GitHub Repo Stars](https://img.shields.io/github/stars/Shinmera/mmap) ![GitHub last commit](https://img.shields.io/github/last-commit/Shinmera/mmap)](https://github.com/Shinmera/mmap) - Portable mmap file memory mapping utility library. [zlib][33].
-* [fof](https://gitlab.com/ambrevar/fof) - File-object finder Common Lisp library. Enable rapid file search, inspection and manipulation. [GPL3][2].
 * [nfiles ![GitHub Repo Stars](https://img.shields.io/github/stars/atlas-engineer/nfiles) ![GitHub last commit](https://img.shields.io/github/last-commit/atlas-engineer/nfiles)](https://github.com/atlas-engineer/nfiles) - File persistence, watching, data synchronization, (per user profile) path resolution, and structured data retrieval. Has pre-defined classes for configuration files, remote fetched files, data files, Lisp-readable files and many others. [BSD][15].
 
 File watching libraries:
@@ -2285,32 +2310,6 @@ PDF
 
 * [cl-typesetting ![GitHub Repo Stars](https://img.shields.io/github/stars/mbattyani/cl-typesetting) ![GitHub last commit](https://img.shields.io/github/last-commit/mbattyani/cl-typesetting)](https://github.com/mbattyani/cl-typesetting) and [cl-pdf ![GitHub Repo Stars](https://img.shields.io/github/stars/mbattyani/cl-pdf) ![GitHub last commit](https://img.shields.io/github/last-commit/mbattyani/cl-pdf)](https://github.com/mbattyani/cl-pdf) - cross-platform Common Lisp libraries for generating PDF files. [FreeBSD][39].
 * [cl-pslib](https://notabug.org/cage/cl-pslib) - a (thin) wrapper around the [pslib](http://pslib.sourceforge.net/) library for generating PostScript files. Also [cl-pslib-barcode](https://notabug.org/cage/cl-pslib-barcode). [LLGPL][8].
-
-Plotting
---------
-
-* lisp-stat's [plot (vega-lite) ![GitHub Repo Stars](https://img.shields.io/github/stars/Lisp-Stat/plot) ![GitHub last commit](https://img.shields.io/github/last-commit/Lisp-Stat/plot)](https://github.com/Lisp-Stat/plot) - a Vega-lite DSL. MS-PL.
-  * includes functions for text-based plotting that work in the REPL, and JavaScript visualisations that are rendered in a browser.
-  * [emacs-vega-view ![GitHub Repo Stars](https://img.shields.io/github/stars/applied-science/emacs-vega-view) ![GitHub last commit](https://img.shields.io/github/last-commit/applied-science/emacs-vega-view)](https://github.com/applied-science/emacs-vega-view?tab=readme-ov-file#common-lisp) - an Emacs plugin that allows to display a Vega plot from a lisp-stat expression in a buffer.
-* [vgplot ![GitHub Repo Stars](https://img.shields.io/github/stars/volkers/vgplot) ![GitHub last commit](https://img.shields.io/github/last-commit/volkers/vgplot)](https://github.com/volkers/vgplot) - an interface to the
-  gnuplot plotting utility with the intention to resemble some of
-  the plot commands of octave or matlab. [GPL3][2].
-* [eazy-gnuplot ![GitHub Repo Stars](https://img.shields.io/github/stars/guicho271828/eazy-gnuplot) ![GitHub last commit](https://img.shields.io/github/last-commit/guicho271828/eazy-gnuplot)](https://github.com/guicho271828/eazy-gnuplot) - a
-  lispy, structure-less Gnuplot library. With its
-  [cookbook](http://guicho271828.github.io/eazy-gnuplot/). [LLGPL][8]
-* [kai ![GitHub Repo Stars](https://img.shields.io/github/stars/komi1230/kai) ![GitHub last commit](https://img.shields.io/github/last-commit/komi1230/kai)](https://github.com/komi1230/kai) - A high-level plotter library for Common Lisp. A wrapper around the [Plotly](https://plotly.com/javascript/) JS library. [MIT][200].
-* [ADW-Charting](https://common-lisp.net/project/adw-charting/) - A simple chart drawing library written completely in Common Lisp. Also includes a backend to Google's chart service. BSD-like.
-
-cool but WIP:
-
-* [plotly-user ![GitHub Repo Stars](https://img.shields.io/github/stars/ajberkley/plotly-user) ![GitHub last commit](https://img.shields.io/github/last-commit/ajberkley/plotly-user)](https://github.com/ajberkley/plotly-user) -  Use plotly in your browser to explore data from a Common Lisp REPL. [BSD_3Clause][15].
-
-Plotting with text:
-
-* [cl-text-plot ![GitHub Repo Stars](https://img.shields.io/github/stars/moneylobster/cl-text-plot) ![GitHub last commit](https://img.shields.io/github/last-commit/moneylobster/cl-text-plot)](https://github.com/moneylobster/cl-text-plot/) -  Plot with text in Common Lisp. No licence specified.
-* [cl-spark ![GitHub Repo Stars](https://img.shields.io/github/stars/tkych/cl-spark) ![GitHub last commit](https://img.shields.io/github/last-commit/tkych/cl-spark)](https://github.com/tkych/cl-spark) - sparkline strings for the console: `(spark '(1 1 2 3 5 8))` => "▁▁▂▃▅▇". [MIT][200].
-
-See also the chart facilities of IUP and ltk-plotchart (GUI section).
 
 Project skeletons
 -----------------
