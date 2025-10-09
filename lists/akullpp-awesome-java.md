@@ -554,6 +554,7 @@ _Integrated development environments that try to simplify several aspects of dev
 
 _Libraries that assist with the creation, evaluation or manipulation of graphical images._
 
+- [Barcode-Lib4J ![GitHub Repo Stars](https://img.shields.io/github/stars/vws-java/Barcode-Lib4J) ![GitHub last commit](https://img.shields.io/github/last-commit/vws-java/Barcode-Lib4J)](https://github.com/vws-java/Barcode-Lib4J) - Generates QR Code, DataMatrix, and other 1D/2D barcodes as vector (PDF, EPS, SVG) and raster (PNG, BMP, JPG) images with DPI awareness, high precision, and CMYK color model support.
 - [Imgscalr ![GitHub Repo Stars](https://img.shields.io/github/stars/rkalla/imgscalr) ![GitHub last commit](https://img.shields.io/github/last-commit/rkalla/imgscalr)](https://github.com/rkalla/imgscalr) - Simple, efficient and hardware-accelerated image-scaling library implemented in pure Java 2D.
 - [Tess4J ![GitHub Repo Stars](https://img.shields.io/github/stars/nguyenq/tess4j) ![GitHub last commit](https://img.shields.io/github/last-commit/nguyenq/tess4j)](https://github.com/nguyenq/tess4j) - JNA wrapper for Tesseract OCR API.
 - [Thumbnailator ![GitHub Repo Stars](https://img.shields.io/github/stars/coobird/thumbnailator) ![GitHub last commit](https://img.shields.io/github/last-commit/coobird/thumbnailator)](https://github.com/coobird/thumbnailator) - High-quality thumbnail generation library.
@@ -1156,6 +1157,7 @@ _Other stuff related to testing._
 
 - [ConsoleCaptor ![GitHub Repo Stars](https://img.shields.io/github/stars/Hakky54/console-captor) ![GitHub last commit](https://img.shields.io/github/last-commit/Hakky54/console-captor)](https://github.com/Hakky54/console-captor) - Captures console output for unit testing purposes.
 - [junit-dataprovider ![GitHub Repo Stars](https://img.shields.io/github/stars/TNG/junit-dataprovider) ![GitHub last commit](https://img.shields.io/github/last-commit/TNG/junit-dataprovider)](https://github.com/TNG/junit-dataprovider) - TestNG-like data provider/runner for JUnit.
+- [junit-pioneer](https://junit-pioneer.org/) - JUnit 5 extension pack, pushing the frontiers on Jupiter.
 - [LogCaptor ![GitHub Repo Stars](https://img.shields.io/github/stars/Hakky54/log-captor) ![GitHub last commit](https://img.shields.io/github/last-commit/Hakky54/log-captor)](https://github.com/Hakky54/log-captor) - Captures log entries for unit testing purposes.
 - [log-capture ![GitHub Repo Stars](https://img.shields.io/github/stars/dm-drogeriemarkt/log-capture) ![GitHub last commit](https://img.shields.io/github/last-commit/dm-drogeriemarkt/log-capture)](https://github.com/dm-drogeriemarkt/log-capture) - Captures log entries and provides assertions for unit and integration testing.
 - [Mutability Detector ![GitHub Repo Stars](https://img.shields.io/github/stars/MutabilityDetector/MutabilityDetector) ![GitHub last commit](https://img.shields.io/github/last-commit/MutabilityDetector/MutabilityDetector)](https://github.com/MutabilityDetector/MutabilityDetector) - Reports whether instances of a given class are immutable.
