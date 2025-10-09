@@ -547,7 +547,7 @@ The tool is a fork of `gofmt` as of Go 1.19, and requires Go 1.18 or later.  It 
 
 - [gosec (gas)](https://securego.io) — Inspects source code for security problems by scanning the Go AST.
 
-- [gotype](https://pkg.go.dev/golang.org/x/tools/cmd/gotype) — Syntactic and semantic analysis similar to the Go compiler.
+- [gotype](https://pkg.go.dev/golang.org/x/tools/cmd/gotype) ��� Syntactic and semantic analysis similar to the Go compiler.
 
 - [govulncheck](https://go.dev/blog/vuln) — Govulncheck reports known vulnerabilities that affect Go code.  It uses static analysis of source code or a binary's symbol table to narrow down reports to only those that could affect the application.
 By default, govulncheck makes requests to the Go vulnerability database at https://vuln.go.dev. Requests to the vulnerability database contain only module paths, not code or other properties of your program.
@@ -1897,7 +1897,7 @@ They offer flexible and unified reporting, seamless coverage insights, and robus
 * ⚡ Performant: Scans 15 000 files in 2s!
 * ⚙️ Configurable: Fine-grained ignores via PHP config
 * 🕸️ Lightweight: No composer dependencies
-* 🍰 Easy-to-use: No config needed for first try
+* �� Easy-to-use: No config needed for first try
 * ✨ Compatible: PHP >= 7.2
 
 
