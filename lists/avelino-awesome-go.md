@@ -1103,7 +1103,7 @@ _Embedding other languages inside your go code._
 - [starlark-go ![GitHub Repo Stars](https://img.shields.io/github/stars/google/starlark-go) ![GitHub last commit](https://img.shields.io/github/last-commit/google/starlark-go)](https://github.com/google/starlark-go) - Go implementation of Starlark: Python-like language with deterministic evaluation and hermetic execution.
 - [starlet ![GitHub Repo Stars](https://img.shields.io/github/stars/1set/starlet) ![GitHub last commit](https://img.shields.io/github/last-commit/1set/starlet)](https://github.com/1set/starlet) - Go wrapper for [starlark-go ![GitHub Repo Stars](https://img.shields.io/github/stars/google/starlark-go) ![GitHub last commit](https://img.shields.io/github/last-commit/google/starlark-go)](https://github.com/google/starlark-go) that simplifies script execution, offers data conversion, and useful Starlark libraries and extensions.
 - [tengo ![GitHub Repo Stars](https://img.shields.io/github/stars/d5/tengo) ![GitHub last commit](https://img.shields.io/github/last-commit/d5/tengo)](https://github.com/d5/tengo) - Bytecode compiled script language for Go.
-- [Wa/��语言 ![GitHub Repo Stars](https://img.shields.io/github/stars/wa-lang/wa) ![GitHub last commit](https://img.shields.io/github/last-commit/wa-lang/wa)](https://github.com/wa-lang/wa) - The Wa Programming Language embedded in Go.
+- [Wa/凹语言 ![GitHub Repo Stars](https://img.shields.io/github/stars/wa-lang/wa) ![GitHub last commit](https://img.shields.io/github/last-commit/wa-lang/wa)](https://github.com/wa-lang/wa) - The Wa Programming Language embedded in Go.
 
 **[⬆ back to top](#contents)**
 
