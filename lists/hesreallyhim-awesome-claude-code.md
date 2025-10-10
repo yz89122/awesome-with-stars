@@ -331,7 +331,7 @@ A broader project management workflow for Claude Code that encompasses not just 
 > **Tooling** denotes applications that are built on top of Claude Code and consist of more components than slash-commands and `CLAUDE.md` files
 
 <details open>
-<summary><h3>General <a href="#awesome-claude-code">🔝</a></h3></summary>
+<summary><h3>General <a href="#awesome-claude-code">���</a></h3></summary>
 
 [`cc-tools` ![GitHub Repo Stars](https://img.shields.io/github/stars/Veraticus/cc-tools) ![GitHub last commit](https://img.shields.io/github/last-commit/Veraticus/cc-tools)](https://github.com/Veraticus/cc-tools) &nbsp; by &nbsp; [Josh Symonds](https://github.com/Veraticus)    
 High-performance Go implementation of Claude Code hooks and utilities. Provides smart linting, testing, and statusline generation with minimal overhead.
@@ -630,7 +630,7 @@ Launch Claude Code session that is connected to a swarm of Claude Code Agents.
 A task management system for AI-driven development with Claude, designed to work seamlessly with Cursor AI.
 
 <details>
-<summary>📊 GitHub Stats</summary>
+<summary>�� GitHub Stats</summary>
 
 ![GitHub Stats for claude-task-master](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=claude-task-master&username=eyaltoledano&all_stats=true&stats_only=true)
 
