@@ -701,7 +701,7 @@ Any comments, suggestions? [Let us know! ![GitHub Repo Stars](https://img.shield
 * [RecurseChat](https://recurse.chat) - RecurseChat is a personal, local-first and private AI Chat App. Features a simple interface, powerful customizations and blazingly-fast speed.
 * [Runtime ![GitHub Repo Stars](https://img.shields.io/github/stars/runtime-org/runtime) ![GitHub last commit](https://img.shields.io/github/last-commit/runtime-org/runtime)](https://github.com/runtime-org/runtime) - AI taskmate and take control of the web & your office tools
 * [Jan](https://jan.ai/) - An open-source alternative to ChatGPT that runs entirely offline on your computer. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/menloresearch/jan)
-* [Witsy](https://jan.ai/) - desktop AI assistant / universal MCP client. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/nbonamy/witsy)
+* [Witsy ![GitHub Repo Stars](https://img.shields.io/github/stars/nbonamy/witsy) ![GitHub last commit](https://img.shields.io/github/last-commit/nbonamy/witsy)](https://github.com/nbonamy/witsy) - desktop AI assistant / universal MCP client. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/nbonamy/witsy)
 
 ## Communication
 
