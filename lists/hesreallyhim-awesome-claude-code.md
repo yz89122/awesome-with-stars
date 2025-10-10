@@ -69,24 +69,35 @@ Claude Code is a cutting-edge CLI-based coding assistant and agent released by [
 
 > Resources added in the past 7 days
 
-[`/create-hook` ![GitHub Repo Stars](https://img.shields.io/github/stars/omril321/automated-notebooklm) ![GitHub last commit](https://img.shields.io/github/last-commit/omril321/automated-notebooklm)](https://github.com/omril321/automated-notebooklm/blob/main/.claude/commands/create-hook.md) &nbsp; by &nbsp; [Omri Lavi](https://github.com/omril321)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;Apache-2.0  
-Slash command for hook creation - intelligently prompts you through the creation process with smart suggestions based on your project setup (TS, Prettier, ESLint...).
+[`RIPER Workflow` ![GitHub Repo Stars](https://img.shields.io/github/stars/tony/claude-code-riper-5) ![GitHub last commit](https://img.shields.io/github/last-commit/tony/claude-code-riper-5)](https://github.com/tony/claude-code-riper-5) &nbsp; by &nbsp; [Tony Narlock](https://tony.sh)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
+Structured development workflow enforcing separation between Research, Innovate, Plan, Execute, and Review phases. Features consolidated subagents for context-efficiency, branch-aware memory bank, and strict mode enforcement for guided development.
 
 <details>
 <summary>📊 GitHub Stats</summary>
 
-![GitHub Stats for automated-notebooklm](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=automated-notebooklm&username=omril321&all_stats=true&stats_only=true)
+![GitHub Stats for claude-code-riper-5](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=claude-code-riper-5&username=tony&all_stats=true&stats_only=true)
 
 </details>
 <br>
 
-[`Claudio` ![GitHub Repo Stars](https://img.shields.io/github/stars/ctoth/claudio) ![GitHub last commit](https://img.shields.io/github/last-commit/ctoth/claudio)](https://github.com/ctoth/claudio) &nbsp; by &nbsp; [Christopher Toth](https://github.com/ctoth)    
-A no-frills little library that adds delightful OS-native sounds to Claude Code via simple hooks. It really sparks joy.
+[`ContextKit` ![GitHub Repo Stars](https://img.shields.io/github/stars/FlineDev/ContextKit) ![GitHub last commit](https://img.shields.io/github/last-commit/FlineDev/ContextKit)](https://github.com/FlineDev/ContextKit) &nbsp; by &nbsp; [Cihat Gündüz](https://github.com/Jeehut)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
+A systematic development framework that transforms Claude Code into a proactive development partner. Features 4-phase planning methodology, specialized quality agents, and structured workflows that help AI produce production-ready code on first try.
 
 <details>
 <summary>📊 GitHub Stats</summary>
 
-![GitHub Stats for claudio](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=claudio&username=ctoth&all_stats=true&stats_only=true)
+![GitHub Stats for ContextKit](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=ContextKit&username=FlineDev&all_stats=true&stats_only=true)
+
+</details>
+<br>
+
+[`claudia-statusline` ![GitHub Repo Stars](https://img.shields.io/github/stars/hagan/claudia-statusline) ![GitHub last commit](https://img.shields.io/github/last-commit/hagan/claudia-statusline)](https://github.com/hagan/claudia-statusline) &nbsp; by &nbsp; [Hagan Franks](https://github.com/hagan)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
+High-performance Rust-based statusline for Claude Code with persistent stats tracking, progress bars, and optional cloud sync. Features SQLite-first persistence, git integration, context progress bars, burn rate calculation, XDG-compliant with theme support (dark/light, NO_COLOR).
+
+<details>
+<summary>📊 GitHub Stats</summary>
+
+![GitHub Stats for claudia-statusline](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=claudia-statusline&username=hagan&all_stats=true&stats_only=true)
 
 </details>
 <br>
@@ -308,6 +319,17 @@ A set of commands that provide a comprehensive workflow system for managing proj
 </details>
 <br>
 
+[`RIPER Workflow` ![GitHub Repo Stars](https://img.shields.io/github/stars/tony/claude-code-riper-5) ![GitHub last commit](https://img.shields.io/github/last-commit/tony/claude-code-riper-5)](https://github.com/tony/claude-code-riper-5) &nbsp; by &nbsp; [Tony Narlock](https://tony.sh)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
+Structured development workflow enforcing separation between Research, Innovate, Plan, Execute, and Review phases. Features consolidated subagents for context-efficiency, branch-aware memory bank, and strict mode enforcement for guided development.
+
+<details>
+<summary>📊 GitHub Stats</summary>
+
+![GitHub Stats for claude-code-riper-5](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=claude-code-riper-5&username=tony&all_stats=true&stats_only=true)
+
+</details>
+<br>
+
 [`Shipping Real Code w/ Claude`](https://diwank.space/field-notes-from-shipping-real-code-with-claude) &nbsp; by &nbsp; [Diwank](https://github.com/creatorrr)    
 A detailed blog post explaining the author's process for shipping a product with Claude Code, including CLAUDE.md files and other interesting resources.
 
@@ -331,7 +353,7 @@ A broader project management workflow for Claude Code that encompasses not just 
 > **Tooling** denotes applications that are built on top of Claude Code and consist of more components than slash-commands and `CLAUDE.md` files
 
 <details open>
-<summary><h3>General <a href="#awesome-claude-code">���</a></h3></summary>
+<summary><h3>General <a href="#awesome-claude-code">🔝</a></h3></summary>
 
 [`cc-tools` ![GitHub Repo Stars](https://img.shields.io/github/stars/Veraticus/cc-tools) ![GitHub last commit](https://img.shields.io/github/last-commit/Veraticus/cc-tools)](https://github.com/Veraticus/cc-tools) &nbsp; by &nbsp; [Josh Symonds](https://github.com/Veraticus)    
 High-performance Go implementation of Claude Code hooks and utilities. Provides smart linting, testing, and statusline generation with minimal overhead.
@@ -439,6 +461,17 @@ Development environments for coding agents. Enable multiple agents to work safel
 <summary>📊 GitHub Stats</summary>
 
 ![GitHub Stats for container-use](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=container-use&username=dagger&all_stats=true&stats_only=true)
+
+</details>
+<br>
+
+[`ContextKit` ![GitHub Repo Stars](https://img.shields.io/github/stars/FlineDev/ContextKit) ![GitHub last commit](https://img.shields.io/github/last-commit/FlineDev/ContextKit)](https://github.com/FlineDev/ContextKit) &nbsp; by &nbsp; [Cihat Gündüz](https://github.com/Jeehut)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
+A systematic development framework that transforms Claude Code into a proactive development partner. Features 4-phase planning methodology, specialized quality agents, and structured workflows that help AI produce production-ready code on first try.
+
+<details>
+<summary>📊 GitHub Stats</summary>
+
+![GitHub Stats for ContextKit](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=ContextKit&username=FlineDev&all_stats=true&stats_only=true)
 
 </details>
 <br>
@@ -630,7 +663,7 @@ Launch Claude Code session that is connected to a swarm of Claude Code Agents.
 A task management system for AI-driven development with Claude, designed to work seamlessly with Cursor AI.
 
 <details>
-<summary>�� GitHub Stats</summary>
+<summary>📊 GitHub Stats</summary>
 
 ![GitHub Stats for claude-task-master](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=claude-task-master&username=eyaltoledano&all_stats=true&stats_only=true)
 
@@ -721,6 +754,17 @@ A vim-style powerline statusline for Claude Code with real-time usage tracking, 
 <summary>📊 GitHub Stats</summary>
 
 ![GitHub Stats for claude-powerline](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=claude-powerline&username=Owloops&all_stats=true&stats_only=true)
+
+</details>
+<br>
+
+[`claudia-statusline` ![GitHub Repo Stars](https://img.shields.io/github/stars/hagan/claudia-statusline) ![GitHub last commit](https://img.shields.io/github/last-commit/hagan/claudia-statusline)](https://github.com/hagan/claudia-statusline) &nbsp; by &nbsp; [Hagan Franks](https://github.com/hagan)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
+High-performance Rust-based statusline for Claude Code with persistent stats tracking, progress bars, and optional cloud sync. Features SQLite-first persistence, git integration, context progress bars, burn rate calculation, XDG-compliant with theme support (dark/light, NO_COLOR).
+
+<details>
+<summary>📊 GitHub Stats</summary>
+
+![GitHub Stats for claudia-statusline](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=claudia-statusline&username=hagan&all_stats=true&stats_only=true)
 
 </details>
 <br>
