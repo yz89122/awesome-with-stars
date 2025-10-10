@@ -1991,7 +1991,7 @@ Update Time, five active automations, webhooks.
   * [itch.io](https://itch.io/game-assets) — Free/Paid assets like sprites, tile sets, and character packs.
   * [Gamefresco.com](https://gamefresco.com/) — Discover, collect, and share free game assets from game artists everywhere.
   * [GameDevMarket](https://gamedevmarket.net) — Free/Paid assets like 2D, 3D, Audio, GUI.
-  * [OpenGameArt](https://opengameart.org) — OpenSource Game Assets like music, sounds, sprites, and gifs.
+  * [OpenGameArt](https://opengameart.org) ��� OpenSource Game Assets like music, sounds, sprites, and gifs.
   * [CraftPix](https://craftpix.net) — Free/Paid assets like 2D, 3D, Audio, GUI, backgrounds, icons, tile sets, game kits.
   * [Game Icons](https://game-icons.net/) - Free styleable SVG/PNG icons provided under a CC-BY license.
   * [LoSpec](https://lospec.com/) — Online tools for creating pixel art and other restrictive digital art, lots of tutorials/pallet list available to choose from for your games
