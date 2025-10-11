@@ -2060,6 +2060,7 @@ for the creation of web applications developed with Angular.
 
 ### Visual Effects
 
+* [angular-game-of-life ![GitHub Repo Stars](https://img.shields.io/github/stars/Astgenne4922/angular-game-of-life) ![GitHub last commit](https://img.shields.io/github/last-commit/Astgenne4922/angular-game-of-life)](https://github.com/Astgenne4922/angular-game-of-life) - Background component playing Conway's Game of Life for Angular 19+.
 * [angular-tag-cloud-module ![GitHub Repo Stars](https://img.shields.io/github/stars/d-koppenhagen/angular-tag-cloud-module) ![GitHub last commit](https://img.shields.io/github/last-commit/d-koppenhagen/angular-tag-cloud-module)](https://github.com/d-koppenhagen/angular-tag-cloud-module) - With this module, you can generate word clouds / tag clouds.
 * [ng-whiteboard ![GitHub Repo Stars](https://img.shields.io/github/stars/mostafazke/ng-whiteboard) ![GitHub last commit](https://img.shields.io/github/last-commit/mostafazke/ng-whiteboard)](https://github.com/mostafazke/ng-whiteboard) - Lightweight Angular whiteboard component.
 * [ngx-analog-clock ![GitHub Repo Stars](https://img.shields.io/github/stars/DerStimmler/ngx-analog-clock) ![GitHub last commit](https://img.shields.io/github/last-commit/DerStimmler/ngx-analog-clock)](https://github.com/DerStimmler/ngx-analog-clock) - Customizable analog clock for your Angular app.
