@@ -229,7 +229,7 @@ _Info on topics necessary for designing and developing game engines._
     - 🌎 [Web Game Dev](https://www.webgamedev.com) - Resources on techniques and tools around JavaScript game development.
 - Books
     - 📚 [Art of Game Design](https://www.amazon.com/Art-Game-Design-Book-Lenses/dp/0123694965) - Teaches game design in an accessible manner.
-    - ��� [Game Programming Patterns](https://gameprogrammingpatterns.com) - Patterns found in games that make code easier to understand.
+    - 📚 [Game Programming Patterns](https://gameprogrammingpatterns.com) - Patterns found in games that make code easier to understand.
 - Developer Portals
     - 🌎 [Game Developer](https://www.gamedeveloper.com) - Industry blogs, events, jobs, updates and more. Formerly _Gamasutra_.
     - 🌎 [GameDev.net](https://www.gamedev.net/) - Game dev forums, tutorials, blogs, projects, portfolios, and news.
@@ -462,7 +462,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Polygon Mesh Processing Library ![GitHub Repo Stars](https://img.shields.io/github/stars/pmp-library/pmp-library) ![GitHub last commit](https://img.shields.io/github/last-commit/pmp-library/pmp-library)](https://github.com/pmp-library/pmp-library) - Processing / visualizing polygon surface meshes.
     - 🎉 [PolyPartition ![GitHub Repo Stars](https://img.shields.io/github/stars/ivanfratric/polypartition) ![GitHub last commit](https://img.shields.io/github/last-commit/ivanfratric/polypartition)](https://github.com/ivanfratric/polypartition) - 2D polygon partitioning and triangulation.
     - ⭐ [RamerDouglasPeucker](https://gist.github.com/TimSC/0813573d77734bcb6f2cd2cf6cc7aa51) - Reduces number of points along a 2D line.
-    - ��� [Recast & Detour ![GitHub Repo Stars](https://img.shields.io/github/stars/recastnavigation/recastnavigation) ![GitHub last commit](https://img.shields.io/github/last-commit/recastnavigation/recastnavigation)](https://github.com/recastnavigation/recastnavigation) - Navigation-mesh toolset for games.
+    - 🎉 [Recast & Detour ![GitHub Repo Stars](https://img.shields.io/github/stars/recastnavigation/recastnavigation) ![GitHub last commit](https://img.shields.io/github/last-commit/recastnavigation/recastnavigation)](https://github.com/recastnavigation/recastnavigation) - Navigation-mesh toolset for games.
     - 🎉 [Seam-aware Decimater ![GitHub Repo Stars](https://img.shields.io/github/stars/songrun/SeamAwareDecimater) ![GitHub last commit](https://img.shields.io/github/last-commit/songrun/SeamAwareDecimater)](https://github.com/songrun/SeamAwareDecimater) - Simplifies mesh while preserving UVs.
     - 🎉 [Spheres ![GitHub Repo Stars](https://img.shields.io/github/stars/caosdoar/spheres) ![GitHub last commit](https://img.shields.io/github/last-commit/caosdoar/spheres)](https://github.com/caosdoar/spheres) - Four methods to create a sphere mesh.
     - 🔒 [Trimesh2](https://gfx.cs.princeton.edu/proj/trimesh2/) - Utilities for input, output, and manipulation of 3D triangle meshes.
@@ -651,7 +651,7 @@ _Language specific game engine development libraries / frameworks / code._
 - 📚 [Awesome Go ![GitHub Repo Stars](https://img.shields.io/github/stars/avelino/awesome-go) ![GitHub last commit](https://img.shields.io/github/last-commit/avelino/awesome-go)](https://github.com/avelino/awesome-go) - Awesome Go frameworks, libraries and software.
 - 🌎 [Go](https://go.dev/) - Statically typed, compiled programming language designed at _Google_. [[GitHub](https://github.com/golang)]
 - Go: Audio
-    - �� [Beep ![GitHub Repo Stars](https://img.shields.io/github/stars/faiface/beep) ![GitHub last commit](https://img.shields.io/github/last-commit/faiface/beep)](https://github.com/faiface/beep) - Playback and audio-processing.
+    - 🎉 [Beep ![GitHub Repo Stars](https://img.shields.io/github/stars/faiface/beep) ![GitHub last commit](https://img.shields.io/github/last-commit/faiface/beep)](https://github.com/faiface/beep) - Playback and audio-processing.
 - Go: Game Engine w/Editor
     - 🎉 [G3N ![GitHub Repo Stars](https://img.shields.io/github/stars/g3n/engine) ![GitHub last commit](https://img.shields.io/github/last-commit/g3n/engine)](https://github.com/g3n/engine) - OpenGL 3D game engine.
 - Go: Game Framework
@@ -1196,7 +1196,7 @@ _Exploring specialty game engine / game development topics and features._
 - 📚 [Scriptorium ![GitHub Repo Stars](https://img.shields.io/github/stars/r-lyeh-archived/scriptorium) ![GitHub last commit](https://img.shields.io/github/last-commit/r-lyeh-archived/scriptorium)](https://github.com/r-lyeh-archived/scriptorium) - Game scripting languages benchmarked.
 
 ### Shaders
-- 📚 [3D Game Shaders For Beginners](https://lettier.github.io/3d-game-shaders-for-beginners/index.html) 🔥 - Shaders to improve your games. [[Source ![GitHub Repo Stars](https://img.shields.io/github/stars/lettier/3d-game-shaders-for-beginners) ![GitHub last commit](https://img.shields.io/github/last-commit/lettier/3d-game-shaders-for-beginners)](https://github.com/lettier/3d-game-shaders-for-beginners)]
+- 📚 [3D Game Shaders For Beginners](https://lettier.github.io/3d-game-shaders-for-beginners/index.html) �� - Shaders to improve your games. [[Source ![GitHub Repo Stars](https://img.shields.io/github/stars/lettier/3d-game-shaders-for-beginners) ![GitHub last commit](https://img.shields.io/github/last-commit/lettier/3d-game-shaders-for-beginners)](https://github.com/lettier/3d-game-shaders-for-beginners)]
 - 📚 [Book of Shaders](https://thebookofshaders.com) 🔥 - Step-by-step guide through [Fragment Shaders](https://www.khronos.org/opengl/wiki/Fragment_Shader). [[Source ![GitHub Repo Stars](https://img.shields.io/github/stars/patriciogonzalezvivo/thebookofshaders) ![GitHub last commit](https://img.shields.io/github/last-commit/patriciogonzalezvivo/thebookofshaders)](https://github.com/patriciogonzalezvivo/thebookofshaders)]
 - 🎉 [CrossShader ![GitHub Repo Stars](https://img.shields.io/github/stars/alaingalvan/CrossShader) ![GitHub last commit](https://img.shields.io/github/last-commit/alaingalvan/CrossShader)](https://github.com/alaingalvan/CrossShader) - Cross-compiling shaders between GLSL, HLSL, Metal, and more. [[Online Tool](https://alain.xyz/libraries/crossshader)]
 - 🌎 [Geeks3D Shader Library](https://www.geeks3d.com/shader-library/) - Postprocessing, lighting, utlities and many more.
