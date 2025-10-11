@@ -574,6 +574,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ng-speed-test ![GitHub Repo Stars](https://img.shields.io/github/stars/jrquick17/ng-speed-test) ![GitHub last commit](https://img.shields.io/github/last-commit/jrquick17/ng-speed-test)](https://github.com/jrquick17/ng-speed-test) - A light weight Angular 2+ library for checking internet speed.
 * [ngx-http-resilience ![GitHub Repo Stars](https://img.shields.io/github/stars/ebh/ngx-http-resilience) ![GitHub last commit](https://img.shields.io/github/last-commit/ebh/ngx-http-resilience)](https://github.com/ebh/ngx-http-resilience) - Angular HttpInterceptors that provide resiliency capabilities.
 * [ngx-interceptors ![GitHub Repo Stars](https://img.shields.io/github/stars/SebaRenner/ngx-interceptors) ![GitHub last commit](https://img.shields.io/github/last-commit/SebaRenner/ngx-interceptors)](https://github.com/SebaRenner/ngx-interceptors) - Library with common HTTP interceptors for Angular applications.
+* [ngx-hal ![GitHub Repo Stars](https://img.shields.io/github/stars/infinum/ngx-hal) ![GitHub last commit](https://img.shields.io/github/last-commit/infinum/ngx-hal)](https://github.com/infinum/ngx-hal) - A datastore library with support for handling [HAL-formatted](http://stateless.co/hal_specification.html) HTTP requests.
 
 ### Micro-Frontends
 
@@ -1370,6 +1371,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [@MasterATM/ngx-dropzone ![GitHub Repo Stars](https://img.shields.io/github/stars/MasterATM/ngx-dropzone) ![GitHub last commit](https://img.shields.io/github/last-commit/MasterATM/ngx-dropzone)](https://github.com/MasterATM/ngx-dropzone) - A lightweight and highly customizable Angular dropzone component for file uploads. Based on [@peterfreeman/ngx-dropzone ![GitHub Repo Stars](https://img.shields.io/github/stars/peterfreeman/ngx-dropzone) ![GitHub last commit](https://img.shields.io/github/last-commit/peterfreeman/ngx-dropzone)](https://github.com/peterfreeman/ngx-dropzone) repository.
 * [ngx-puzzle ![GitHub Repo Stars](https://img.shields.io/github/stars/zhongmiao-org/ngx-puzzle) ![GitHub last commit](https://img.shields.io/github/last-commit/zhongmiao-org/ngx-puzzle)](https://github.com/zhongmiao-org/ngx-puzzle) - Drag-and-drop dashboard builder for Angular applications.
 * [ngx-drag-drop-kit ![GitHub Repo Stars](https://img.shields.io/github/stars/mr-samani/ngx-drag-drop-kit) ![GitHub last commit](https://img.shields.io/github/last-commit/mr-samani/ngx-drag-drop-kit)](https://github.com/mr-samani/ngx-drag-drop-kit) - High-performance Angular drag & drop toolkit featuring grid layouts, sorting, resizing, nesting, and more.
+* [ngx-dashboard ![GitHub Repo Stars](https://img.shields.io/github/stars/TobyBackstrom/ngx-dashboard) ![GitHub last commit](https://img.shields.io/github/last-commit/TobyBackstrom/ngx-dashboard)](https://github.com/TobyBackstrom/ngx-dashboard) - Modern Angular workspace for building drag-and-drop grid dashboards with resizable cells and customizable widgets.
 
 ### Editor Components
 
@@ -1947,6 +1949,7 @@ to simplify usage and allow quick customization.
 * [@nexcraft/forge ![GitHub Repo Stars](https://img.shields.io/github/stars/dev-ignis/forge) ![GitHub last commit](https://img.shields.io/github/last-commit/dev-ignis/forge)](https://github.com/dev-ignis/forge) - Framework-agnostic Web Components UI library. Works in Angular via custom elements.
 * [ngx-nova-ui ![GitHub Repo Stars](https://img.shields.io/github/stars/lebocow/ngx-nova-ui) ![GitHub last commit](https://img.shields.io/github/last-commit/lebocow/ngx-nova-ui)](https://github.com/lebocow/ngx-nova-ui) - A modern Angular 20 UI component library built with signals, standalone components, and a CSS-first theming approach.
 * [elementar-ui ![GitHub Repo Stars](https://img.shields.io/github/stars/elementarlabs/elementar-ui) ![GitHub last commit](https://img.shields.io/github/last-commit/elementarlabs/elementar-ui)](https://github.com/elementarlabs/elementar-ui) - Fully open-source Angular UI Components & Admin Panel based on Angular Material and Tailwind CSS.
+* [ngx-vant-revive ![GitHub Repo Stars](https://img.shields.io/github/stars/IfFaith/ngx-vant-revive) ![GitHub last commit](https://img.shields.io/github/last-commit/IfFaith/ngx-vant-revive)](https://github.com/IfFaith/ngx-vant-revive) - Angular UI component library implemented according to the [Zan Design System](https://design.youzan.com/) visual specifications.
 
 ### UI Libraries built on Bootstrap
 
