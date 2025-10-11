@@ -283,7 +283,7 @@ _Set of game frameworks, engines and platforms_
 - :free: [Lumberyard](https://aws.amazon.com/lumberyard/) - Amazon Lumberyard is a free AAA game engine deeply integrated
 - :tada: [LumixEngine ![GitHub Repo Stars](https://img.shields.io/github/stars/nem0/LumixEngine) ![GitHub last commit](https://img.shields.io/github/last-commit/nem0/LumixEngine)](https://github.com/nem0/LumixEngine) - 3D Game engine built on C++.
 - :tada: [Lums ![GitHub Repo Stars](https://img.shields.io/github/stars/lums-proj/Lums) ![GitHub last commit](https://img.shields.io/github/last-commit/lums-proj/Lums)](https://github.com/lums-proj/Lums) - A 2D / 3D framework written in C++11. Very efficient and modern. Still under heavy development.
-- :tada: [L��VE](http://love2d.org) - Lua 2D Game Engine.
+- :tada: [LÖVE](http://love2d.org) - Lua 2D Game Engine.
 - :tada: [MINX ![GitHub Repo Stars](https://img.shields.io/github/stars/GearChicken/MINX) ![GitHub last commit](https://img.shields.io/github/last-commit/GearChicken/MINX)](https://github.com/GearChicken/MINX) - Open Source 2D game framework written in C++ (to the style of XNA)
 - :tada: [macroquad ![GitHub Repo Stars](https://img.shields.io/github/stars/not-fl3/macroquad) ![GitHub last commit](https://img.shields.io/github/last-commit/not-fl3/macroquad)](https://github.com/not-fl3/macroquad) - The cross-platform game engine in Rust.
 - :tada: [mach](https://machengine.org/) - game engine & graphics toolkit build in zig.
