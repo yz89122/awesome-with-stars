@@ -167,7 +167,7 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
 | <a href="https://cognitiveclass.ai/courses/data-science-methodology-2" target="_blank" rel="noopener noreferrer">Data Science Methodologies</a> | IBM / Cognitive Class |Beginner|3 | <a href="https://www.youracclaim.com/org/ibm/badge/data-science-methodologies" target="_blank" rel="noopener noreferrer">🏅</a>|
 | <a href="https://cognitiveclass.ai/courses/data-science-101/" target="_blank" rel="noopener noreferrer">Data Science 101</a> | IBM / Cognitive Class |Beginner|3 | <a href="https://www.youracclaim.com/org/ibm/badge/data-science-foundations-level-1" target="_blank" rel="noopener noreferrer">🏅</a>|
-| <a href="https://cognitiveclass.ai/courses/data-science-hands-open-source-tools-2" target="_blank" rel="noopener noreferrer">Data Science Tools</a> | IBM / Cognitive Class |Beginner|4| <a href="https://www.youracclaim.com/org/ibm/badge/data-science-tools" target="_blank" rel="noopener noreferrer">���</a>|
+| <a href="https://cognitiveclass.ai/courses/data-science-hands-open-source-tools-2" target="_blank" rel="noopener noreferrer">Data Science Tools</a> | IBM / Cognitive Class |Beginner|4| <a href="https://www.youracclaim.com/org/ibm/badge/data-science-tools" target="_blank" rel="noopener noreferrer">🏅</a>|
 | <a href="https://cognitiveclass.ai/courses/python-for-data-science" target="_blank" rel="noopener noreferrer">Python for Data Science</a> | IBM / Cognitive Class |Beginner|3 | <a href="https://www.youracclaim.com/org/ibm/badge/python-for-data-science" target="_blank" rel="noopener noreferrer">🏅</a>|
 
 <a href="https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents" target="_blank" rel="noopener noreferrer">⬆️</a>
@@ -478,7 +478,7 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 | <a href="https://tutorials.nmdprojects.net/play.html?photoshop_select_shape" target="_blank" rel="noopener noreferrer">How to Select a shape in Photoshop</a> | UMaine New Media | intermediate| 0.1 | 🏅 |
 | <a href="https://tutorials.nmdprojects.net/play.html?photoshop_insert_shape" target="_blank" rel="noopener noreferrer">How to Insert a shape in Photoshop</a> | UMaine New Media | intermediate| 0.1 | 🏅 |
 
-<a href="https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents" target="_blank" rel="noopener noreferrer">⬆️</a>
+<a href="https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents" target="_blank" rel="noopener noreferrer">⬆��</a>
 
 
 ### Illustrator
