@@ -201,7 +201,7 @@ _Info on topics necessary for designing and developing game engines._
     - 🌎 [WebGPU Demos](https://webkit.org/demos/webgpu/) - Collection of simple WebGPU examples by _Apple_.
 - Pipeline: GPGPU
     - 🌎 [CUDA](https://developer.nvidia.com/cuda-zone) - Developed by _NVIDIA_ for parallel computing and programming.
-    - ���� [DirectCompute](https://en.wikipedia.org/wiki/DirectCompute) - Developed by _Microsoft_ for using compute shaders with DirectX 10 & 11.
+    - 📚 [DirectCompute](https://en.wikipedia.org/wiki/DirectCompute) - Developed by _Microsoft_ for using compute shaders with DirectX 10 & 11.
     - 🌎 [OpenCL](https://www.khronos.org/opencl/) - For writing programs that execute across CPUs, GPUs, and other processors.
 - Platform: XNA
     - 📚 [RB Whitaker's Wiki](http://rbwhitaker.wikidot.com/) - Tutorials on C#, MonoGame, XNA, and more.
@@ -389,7 +389,7 @@ _Language specific game engine development libraries / frameworks / code._
 - C++: Fonts
     - 🎉 [HarfBuzz ![GitHub Repo Stars](https://img.shields.io/github/stars/harfbuzz/harfbuzz) ![GitHub last commit](https://img.shields.io/github/last-commit/harfbuzz/harfbuzz)](https://github.com/harfbuzz/harfbuzz) - Text shaping library. Formatted and positioned glyph output.
     - 🎉 [msdfgen ![GitHub Repo Stars](https://img.shields.io/github/stars/Chlumsky/msdfgen) ![GitHub last commit](https://img.shields.io/github/last-commit/Chlumsky/msdfgen)](https://github.com/Chlumsky/msdfgen) - Multi-channel signed distance field generator.
-    - �� [Slug](http://sluglibrary.com) - High-quality, resolution-independent text and vector graphics for 3D apps.
+    - 💰 [Slug](http://sluglibrary.com) - High-quality, resolution-independent text and vector graphics for 3D apps.
 - C++: File Formats
     - ⭐ [Jpeg-Compressor ![GitHub Repo Stars](https://img.shields.io/github/stars/richgel999/jpeg-compressor) ![GitHub last commit](https://img.shields.io/github/last-commit/richgel999/jpeg-compressor)](https://github.com/richgel999/jpeg-compressor) - Single-file library that writes baseline JPEG compressed images.
     - 🎉 [TinyDNG ![GitHub Repo Stars](https://img.shields.io/github/stars/syoyo/tinydng) ![GitHub last commit](https://img.shields.io/github/last-commit/syoyo/tinydng)](https://github.com/syoyo/tinydng) - Header-only DNG / TIFF loader and writer.
