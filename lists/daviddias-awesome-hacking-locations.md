@@ -1108,7 +1108,7 @@ Wifi | Power | Address | Open Hours
 ---------------------------------------------------------------
 ---------------------------------------------------------------
 
-# Sweden 🇸��
+# Sweden 🇸🇪
 
 > In general, you can go to any Wayne's Coffee or Espresso House to get wifi and a power point. Wayne's Coffee wifi is usually a bit spotty compared with the Espresso Houses that I tried, and Espresso House often caters for laptop users with power points under chairs or near tables.
 
@@ -1123,7 +1123,7 @@ Webpage: http://cafefatoljen.com
 
 Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
-✔    | ✔     | Götgatan 14, 118 46 Stockholm, Sweden | 9–23
+✔    | ✔     | G��tgatan 14, 118 46 Stockholm, Sweden | 9–23
 
 #### Café Pascal
 

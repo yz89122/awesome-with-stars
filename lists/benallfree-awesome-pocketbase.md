@@ -145,6 +145,7 @@ PocketBase is an open source backend consisting of embedded database (SQLite) wi
 - [Litestream](https://litestream.io/) - Streaming SQLite replication. ![GitHub Repo stars](https://img.shields.io/github/stars/benbjohnson/litestream)
 - [PocketBase+Litestream example ![GitHub Repo Stars](https://img.shields.io/github/stars/TylerSustare/pocketbase-framework-litestream) ![GitHub last commit](https://img.shields.io/github/last-commit/TylerSustare/pocketbase-framework-litestream)](https://github.com/TylerSustare/pocketbase-framework-litestream) - Template showing Litestream running with PocketBase. ![GitHub Repo stars](https://img.shields.io/github/stars/TylerSustare/pocketbase-framework-litestream)
 - [PocketBase with Litestream ![GitHub Repo Stars](https://img.shields.io/github/stars/bscott/pocketbase-litestream) ![GitHub last commit](https://img.shields.io/github/last-commit/bscott/pocketbase-litestream)](https://github.com/bscott/pocketbase-litestream/) - Docker example of PocketBase saving/restoring from Litestream. ![GitHub Repo stars](https://img.shields.io/github/stars/bscott/pocketbase-litestream)
+- [pb-import ![GitHub Repo Stars](https://img.shields.io/github/stars/burggraf/pb-import) ![GitHub last commit](https://img.shields.io/github/last-commit/burggraf/pb-import)](https://github.com/burggraf/pb-import) - Import data from SQLite Databases as well as CSV and TSV files. ![GitHub Repo stars](https://img.shields.io/github/stars/burggraf/pb-import)
 
 ## Other tools
 
