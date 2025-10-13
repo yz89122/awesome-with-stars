@@ -516,12 +516,12 @@ All resources are freely available except those with a 💲 icon.
 ### Ordinary Differential Equations
 
 * 📝 [Difference Equations To Differential Equations](http://www.synechism.org/wp/difference-equations-to-differential-equations/) - Dan Sloughter
-* 📝 [Ordinary Differential Equation](https://www.math.uni-bielefeld.de/~grigor/odelec2008.pdf) - Alexander Grigorian (University of Bielefeld)
+* ���� [Ordinary Differential Equation](https://www.math.uni-bielefeld.de/~grigor/odelec2008.pdf) - Alexander Grigorian (University of Bielefeld)
 * 📝 [Ordinary Differential Equations: Lecture Notes](http://www.cs.bgu.ac.il/~leonid/ode_bio_files/Ionascu_LectNotes.pdf) - Eugen J. Ionascu
 * 📝 [Ordinary Differential Equations](http://www.math.lmu.de/~philip/publications/lectureNotes/ODE.pdf) - Peter Philip
 * 📝 [Ordinary Differential Equations](http://users.math.msu.edu/users/gnagy/teaching/ode.pdf) - Gabriel Nagy
 * 📝 [Ordinary Differential Equations and Dynamical Systems](http://www.mat.univie.ac.at/~gerald/ftp/book-ode/ode.pdf) - Gerald Teschl
-* ��� [Notes on Differential Equations](http://leipper.org/manuals/zip-fill/dn-difeq-notes.pdf) - Bob Terrell
+* 📝 [Notes on Differential Equations](http://leipper.org/manuals/zip-fill/dn-difeq-notes.pdf) - Bob Terrell
 * 📝 [Elementary Differential Equations](http://digitalcommons.trinity.edu/mono/8/) - William F. Trench
 * 📝 [Elementary Differential Equations With Boundary Value Problems](http://digitalcommons.trinity.edu/mono/9/) - William F. Trench
 * 📝 [Notes on Diffy Qs: Differential Equations for Engineers](http://www.jirka.org/diffyqs/) - Jiří Lebl
