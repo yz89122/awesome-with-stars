@@ -883,7 +883,7 @@ Quality check hook for Node.js TypeScript projects with TypeScript compilation. 
 
 <br>
 
-## Output Styles ���� [🔝](#awesome-claude-code)
+## Output Styles 💬 [🔝](#awesome-claude-code)
 
 > **Output styles** allow you to use Claude Code as any type of agent while keeping its core capabilities, such as running local scripts, reading/writing files, and tracking TODOs.
 
