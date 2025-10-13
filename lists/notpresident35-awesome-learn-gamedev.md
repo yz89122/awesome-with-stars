@@ -276,7 +276,7 @@ More huge lists of resources, with many, many more incredible things! Some of th
 [How do I become a graphics programmer?](https://gpuopen.com/learn/how_do_you_become_a_graphics_programmer/) 💠🟪 - An overview of graphics programming and a collection of resources tailored to beginners learning graphics programming. 
 
 
-[WebGLFundamentals](https://webglfundamentals.org) ���🟪 - An introduction to WebGL, a web-based rasterization engine. WebGL is a good tool to use when learning the fundamentals before diving into more complex frameworks such as Vulkan or DirectX 12.
+[WebGLFundamentals](https://webglfundamentals.org) 💠🟪 - An introduction to WebGL, a web-based rasterization engine. WebGL is a good tool to use when learning the fundamentals before diving into more complex frameworks such as Vulkan or DirectX 12.
 
 
 [GPU Gems](https://developer.nvidia.com/gpugems/gpugems/contributors) - Three (3) free books by Nvidia about GPU programming and architecture.
@@ -324,7 +324,7 @@ More huge lists of resources, with many, many more incredible things! Some of th
 [Unreal Multiplayer by GameDev.tv](https://www.udemy.com/course/unrealmultiplayer/) 💠🟪 - A course on multiplayer and networking in Unreal. Wait for it to go on sale, then go pick this up. 
 
 
-[Unity Multiplayer by GameDev.tv](https://www.udemy.com/course/unity-multiplayer/) 💠🟪 - A course on multiplayer and networking in Unity. Wait for it to go on sale, then go pick this up.
+[Unity Multiplayer by GameDev.tv](https://www.udemy.com/course/unity-multiplayer/) 💠�� - A course on multiplayer and networking in Unity. Wait for it to go on sale, then go pick this up.
 
 
 [GafferOnGames](https://gafferongames.com) 🟪 - A bunch of articles on netcode for games.
@@ -623,7 +623,7 @@ Royalty Free Game Art! Don't forget to check the license.
 [How to make a Game Design Document](https://www.gamedesigning.org/learn/game-design-document/) - A tutorial on writing Game Design Documents (GDDs).
 
 
-[Pattern Language for Game Design](https://patternlanguageforgamedesign.com/) 💠🟪 - A database of common design patterns presented as problem solutions, compiled from the book _Pattern Language for Game Design_. Also contains work from students and designers completing excercises from the book.
+[Pattern Language for Game Design](https://patternlanguageforgamedesign.com/) ��🟪 - A database of common design patterns presented as problem solutions, compiled from the book _Pattern Language for Game Design_. Also contains work from students and designers completing excercises from the book.
 
 
 [The Evolution of Trust](https://ncase.me/trust/) 💠🟪 - An interactive walkthrough of some game theory. Would probably be mandatory reading in a game design class.

@@ -707,7 +707,7 @@ These materials are here for historical reasons only, they are grouped by years 
 - [Google I/O 2014 - Polymer and Web Components change everything you know about Web development](https://youtu.be/8OJ7ih8EE7s)
 - [Google I/O 2014 - Unlock the next era of UI development with Polymer](https://youtu.be/HKrYfrAzqFA)
 - [Making Polymer Elements Accessible](https://youtu.be/_IBiXfxhF-A)
-- [Building an Accessible Disclosure Button – using Web Components](https://developer.paciellogroup.com/blog/2014/06/accessible-disclosure-button-using-web-components/)
+- [Building an Accessible Disclosure Button ��� using Web Components](https://developer.paciellogroup.com/blog/2014/06/accessible-disclosure-button-using-web-components/)
 - [The Road to Web Components](https://youtu.be/yLyyXHhSl8w)
 - [The Web Components Revolution is Here](https://youtu.be/3QLmAm9xtnU)
 - [Web Components: A chance to create the future](https://youtu.be/JUzjr1bIRUg)
