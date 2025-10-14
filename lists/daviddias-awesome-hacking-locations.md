@@ -642,7 +642,7 @@ Webpage: http://www.deysbreeker.nl/
 
 Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
-✔ | ✔ | [Weesperzijde 23, 1091 EC Amsterdam, Netherlands](http://goo.gl/qLPEjU) | Sun-Thu 8AM-1AM, Fri-Sat 8AM-2AM
+✔ | ��� | [Weesperzijde 23, 1091 EC Amsterdam, Netherlands](http://goo.gl/qLPEjU) | Sun-Thu 8AM-1AM, Fri-Sat 8AM-2AM
 
 
 ## Delft
@@ -861,7 +861,7 @@ Webpage: http://4sq.com/1JRQG4q
 
 Wifi | Power | Climatization  | Address | Open Hours
 ---- | ----- | -------------- | ------- | ----------
-✔ | ✔ | ❄️/♨�� | [Av. Joao XXI Lisboa](https://goo.gl/AadA8A) | Mon-Sat 7:30AM:8PM
+✔ | ✔ | ❄️/♨️ | [Av. Joao XXI Lisboa](https://goo.gl/AadA8A) | Mon-Sat 7:30AM:8PM
 
 #### Copenhagen Coffee Lab, Lisboa
 
