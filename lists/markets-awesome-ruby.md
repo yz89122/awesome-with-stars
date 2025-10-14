@@ -40,6 +40,7 @@ Thanks to all [contributors ![GitHub Repo Stars](https://img.shields.io/github/s
 * [Authorization](#authorization)
 * [Automation](#automation)
 * [Breadcrumbs](#breadcrumbs)
+* [Boilerplates & UI Kits](#boilerplates--ui-kits)
 * [Business logic](#business-logic)
 * [Caching](#caching)
 * [Captchas and anti-spam](#captchas-and-anti-spam)
@@ -246,6 +247,13 @@ Thanks to all [contributors ![GitHub Repo Stars](https://img.shields.io/github/s
 * [Gretel ![GitHub Repo Stars](https://img.shields.io/github/stars/lassebunk/gretel) ![GitHub last commit](https://img.shields.io/github/last-commit/lassebunk/gretel)](https://github.com/lassebunk/gretel) - A Ruby on Rails plugin that makes it easy yet flexible to create breadcrumbs.
 * [loaf ![GitHub Repo Stars](https://img.shields.io/github/stars/peter-murach/loaf) ![GitHub last commit](https://img.shields.io/github/last-commit/peter-murach/loaf)](https://github.com/peter-murach/loaf) - Manages and displays breadcrumb trails in Rails app - lean & mean.
 * [Simple Navigation ![GitHub Repo Stars](https://img.shields.io/github/stars/codeplant/simple-navigation) ![GitHub last commit](https://img.shields.io/github/last-commit/codeplant/simple-navigation)](https://github.com/codeplant/simple-navigation) - A ruby gem for creating navigation (html list, link list or breadcrumbs with multiple levels) for your Rails 2, 3 & 4, Sinatra or Padrino.
+
+## Boilerplates & UI Kits
+
+* [Jumpstart](https://jumpstartrails.com/) - The Ruby on Rails SaaS template to save you months of development time.
+* [Rails Blocks](https://railsblocks.com) - Delightful UI components for your Rails app that use Tailwind CSS & Stimulus controllers.
+* [Speedrail ![GitHub Repo Stars](https://img.shields.io/github/stars/ryanckulp/speedrail) ![GitHub last commit](https://img.shields.io/github/last-commit/ryanckulp/speedrail)](https://github.com/ryanckulp/speedrail) - A free Rails 8 app template: Devise auth, Stripe billing, Tailwind CSS, admin panel, SEO helpers, etc.
+* [Wheel ![GitHub Repo Stars](https://img.shields.io/github/stars/bigbinary/wheel) ![GitHub last commit](https://img.shields.io/github/last-commit/bigbinary/wheel)](https://github.com/bigbinary/wheel) - Rails application template to build Rails applications faster.
 
 ## Business logic
 
@@ -1204,6 +1212,7 @@ Where to discover new Ruby libraries, projects and trends.
 * [Sunspot ![GitHub Repo Stars](https://img.shields.io/github/stars/sunspot/sunspot) ![GitHub last commit](https://img.shields.io/github/last-commit/sunspot/sunspot)](https://github.com/sunspot/sunspot) - A Ruby library for expressive, powerful interaction with the Solr search engine.
 * [textacular ![GitHub Repo Stars](https://img.shields.io/github/stars/textacular/textacular) ![GitHub last commit](https://img.shields.io/github/last-commit/textacular/textacular)](https://github.com/textacular/textacular) - Exposes full text search capabilities from PostgreSQL, and allows you to declare full text indexes. Textacular extends ActiveRecord with named_scope methods making searching easy and fun!
 * [Thinking Sphinx ![GitHub Repo Stars](https://img.shields.io/github/stars/pat/thinking-sphinx) ![GitHub last commit](https://img.shields.io/github/last-commit/pat/thinking-sphinx)](https://github.com/pat/thinking-sphinx) - A library for connecting ActiveRecord to the Sphinx full-text search tool.
+* [typesense-ruby ![GitHub Repo Stars](https://img.shields.io/github/stars/typesense/typesense-ruby) ![GitHub last commit](https://img.shields.io/github/last-commit/typesense/typesense-ruby)](https://github.com/typesense/typesense-ruby) - Ruby client for Typesense, a fast, typo-tolerant search engine.
 
 ## Security
 

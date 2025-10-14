@@ -473,6 +473,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 ### IDE
 
 - [vscode-terraform-live-graph ![GitHub Repo Stars](https://img.shields.io/github/stars/adamiBs/vscode-terraform-live-graph) ![GitHub last commit](https://img.shields.io/github/last-commit/adamiBs/vscode-terraform-live-graph)](https://github.com/adamiBs/vscode-terraform-live-graph) - Terraform Live Graph Extension for Visual Studio Code is a plugin that allows you to generate a live Terraform graph as you code.
+- [tf-nav](https://marketplace.visualstudio.com/items?itemName=owenrumney.tf-nav) - Terraform Navigation Extension to created an index of resources by type of file with an easy to navigate treeview. 
 
 ## Libraries
 
