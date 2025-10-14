@@ -1036,7 +1036,7 @@ Sets up and manages Husky Git hooks by configuring pre-commit hooks, establishin
 </details>
 <br>
 
-[`/pr-review` ![GitHub Repo Stars](https://img.shields.io/github/stars/arkavo-org/opentdf-rs) ![GitHub last commit](https://img.shields.io/github/last-commit/arkavo-org/opentdf-rs)](https://github.com/arkavo-org/opentdf-rs/blob/main/.claude/commands/pr-review.md) &nbsp; by &nbsp; [arkavo-org](https://github.com/arkavo-org)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
+[`/pr-review` ![GitHub Repo Stars](https://img.shields.io/github/stars/arkavo-org/opentdf-rs) ![GitHub last commit](https://img.shields.io/github/last-commit/arkavo-org/opentdf-rs)](https://github.com/arkavo-org/opentdf-rs/blob/main/.claude/commands/pr-review.md) &nbsp; by &nbsp; [arkavo-org](https://github.com/arkavo-org)  &nbsp;&nbsp;��️&nbsp;&nbsp;MIT  
 Reviews pull request changes to provide feedback, check for issues, and suggest improvements before merging into the main codebase.
 
 <details>
