@@ -1253,7 +1253,7 @@ Analyzes code structure and purpose to create comprehensive documentation detail
 Generates comprehensive documentation that follows project structure, documenting APIs and usage patterns with consistent formatting for better user understanding.
 
 <details>
-<summary>���� GitHub Stats</summary>
+<summary>📊 GitHub Stats</summary>
 
 ![GitHub Stats for coffee-analytics](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=coffee-analytics&username=slunsford&all_stats=true&stats_only=true)
 
