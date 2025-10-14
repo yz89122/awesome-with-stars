@@ -41,8 +41,7 @@ Proud to be featured in [Awesome ![GitHub Repo Stars](https://img.shields.io/git
 
 ## Development
 
-- [Cibyl ![GitHub Repo Stars](https://img.shields.io/github/stars/SimonKagstrom/cibyl) ![GitHub last commit](https://img.shields.io/github/last-commit/SimonKagstrom/cibyl)](https://github.com/SimonKagstrom/cibyl) - Cibyl is an environment to compile and run programs written in C, Objective-C, C++ and possibly Fortran on J2ME phones.
-- [J2ME Docs](https://nikita36078.github.io/J2ME_Docs) - Documentation for J2ME and some vendor-specific APIs.
+- [Cibyl ![GitHub Repo Stars](https://img.shields.io/github/stars/SimonKagstrom/cibyl) ![GitHub last commit](https://img.shields.io/github/last-commit/SimonKagstrom/cibyl)](https://github.com/SimonKagstrom/cibyl) - Environment to compile and run programs written in C, Objective-C, C++ and possibly Fortran on J2ME phones.
 - [NN JSON ![GitHub Repo Stars](https://img.shields.io/github/stars/shinovon/NNJSON) ![GitHub last commit](https://img.shields.io/github/last-commit/shinovon/NNJSON)](https://github.com/shinovon/NNJSON) - JSON parser for CLDC 1.1.
 - [NN JSON CLDC 1.0 ![GitHub Repo Stars](https://img.shields.io/github/stars/gtrxAC/discord-j2me) ![GitHub last commit](https://img.shields.io/github/last-commit/gtrxAC/discord-j2me)](https://github.com/gtrxAC/discord-j2me/tree/main/src/cc/nnproject/json) - Modified version of NN JSON for CLDC 1.0.
 - [J2ME Game Script Engine](https://j2megamescript.sourceforge.net/) - A lightweight script interpreter for building flexible J2ME games, with a BASIC-like scripting language. Runs on J2SE/J2ME/Win C++ platforms; ideal for game rapid prototyping and customization.
@@ -133,6 +132,7 @@ Proud to be featured in [Awesome ![GitHub Repo Stars](https://img.shields.io/git
 
 - [J2ME In Nutshell](https://www.oreilly.com/library/view/j2me-in-a/059600253X) - "Solid, no-nonsense reference to the 'alphabet soup' of micro edition programming, covering the CLDC, CDC, KVM and more."
 - [Revive Nokia N95 ![GitHub Repo Stars](https://img.shields.io/github/stars/domib97/revive.nokia.n95) ![GitHub last commit](https://img.shields.io/github/last-commit/domib97/revive.nokia.n95)](https://github.com/domib97/revive.nokia.n95) - A quick guide to revive the legacy Nokia N95 and develop for it.
+- [J2ME Docs](https://nikita36078.github.io/J2ME_Docs) - Documentation for J2ME and some vendor-specific APIs.
 
 ### Academic Articles
 
