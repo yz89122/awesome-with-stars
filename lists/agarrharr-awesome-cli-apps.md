@@ -15,14 +15,13 @@ Inspired by the [awesome ![GitHub Repo Stars](https://img.shields.io/github/star
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
-
 - [Entertainment](#entertainment)
   - [Music](#music)
-  - [Social Media](#social-media)
   - [Video](#video)
   - [Movies](#movies)
   - [Games](#games)
   - [Books](#books)
+  - [Chat](#chat)
 - [Development](#development)
   - [Text Editors](#text-editors)
   - [Frontend Development](#frontend-development)
@@ -35,6 +34,7 @@ Inspired by the [awesome ![GitHub Repo Stars](https://img.shields.io/github/star
   - [Boilerplate](#boilerplate)
   - [HTTP Server](#http-server)
   - [HTTP Client](#http-client)
+  - [Testing](#testing)
 - [Productivity](#productivity)
   - [Time Tracking](#time-tracking)
   - [Note Taking and Lists](#note-taking-and-lists)
@@ -154,12 +154,10 @@ Inspired by the [awesome ![GitHub Repo Stars](https://img.shields.io/github/star
 - [bitwise ![GitHub Repo Stars](https://img.shields.io/github/stars/mellowcandle/bitwise) ![GitHub last commit](https://img.shields.io/github/last-commit/mellowcandle/bitwise)](https://github.com/mellowcandle/bitwise) - Base conversion and bit manipulation.
 - [cgasm ![GitHub Repo Stars](https://img.shields.io/github/stars/bnagy/cgasm) ![GitHub last commit](https://img.shields.io/github/last-commit/bnagy/cgasm)](https://github.com/bnagy/cgasm) - x86 assembly documentation.
 - [grex ![GitHub Repo Stars](https://img.shields.io/github/stars/pemistahl/grex) ![GitHub last commit](https://img.shields.io/github/last-commit/pemistahl/grex)](https://github.com/pemistahl/grex) - Generate regular expressions from user-provided test cases.
-- [gdb-dashboard ![GitHub Repo Stars](https://img.shields.io/github/stars/cyrus-and/gdb-dashboard) ![GitHub last commit](https://img.shields.io/github/last-commit/cyrus-and/gdb-dashboard)](https://github.com/cyrus-and/gdb-dashboard) - Modular visual interface for GDB.
 - [iola ![GitHub Repo Stars](https://img.shields.io/github/stars/pvarentsov/iola) ![GitHub last commit](https://img.shields.io/github/last-commit/pvarentsov/iola)](https://github.com/pvarentsov/iola) - Socket client with REST API.
 - [add-gitignore ![GitHub Repo Stars](https://img.shields.io/github/stars/TejasQ/add-gitignore) ![GitHub last commit](https://img.shields.io/github/last-commit/TejasQ/add-gitignore)](https://github.com/TejasQ/add-gitignore) - Interactively generate a .gitignore for your project based on your needs.
 - [is-up-cli ![GitHub Repo Stars](https://img.shields.io/github/stars/sindresorhus/is-up-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/sindresorhus/is-up-cli)](https://github.com/sindresorhus/is-up-cli) - Check if a domain is up.
 - [reachable ![GitHub Repo Stars](https://img.shields.io/github/stars/italolelis/reachable) ![GitHub last commit](https://img.shields.io/github/last-commit/italolelis/reachable)](https://github.com/italolelis/reachable) - Check if a domain is up.
-- [loadtest ![GitHub Repo Stars](https://img.shields.io/github/stars/alexfernandez/loadtest) ![GitHub last commit](https://img.shields.io/github/last-commit/alexfernandez/loadtest)](https://github.com/alexfernandez/loadtest) - Run load tests.
 - [diff2html-cli ![GitHub Repo Stars](https://img.shields.io/github/stars/rtfpessoa/diff2html-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/rtfpessoa/diff2html-cli)](https://github.com/rtfpessoa/diff2html-cli) - Create pretty HTML from diffs.
 
 ### Text Editors
@@ -256,6 +254,13 @@ Inspired by the [awesome ![GitHub Repo Stars](https://img.shields.io/github/star
 - [ain ![GitHub Repo Stars](https://img.shields.io/github/stars/jonaslu/ain) ![GitHub last commit](https://img.shields.io/github/last-commit/jonaslu/ain)](https://github.com/jonaslu/ain) - HTTP client with a simple format to organize API endpoints.
 - [curlie ![GitHub Repo Stars](https://img.shields.io/github/stars/rs/curlie) ![GitHub last commit](https://img.shields.io/github/last-commit/rs/curlie)](https://github.com/rs/curlie) - A curl frontend with the ease of use of HTTPie.
 - [ATAC ![GitHub Repo Stars](https://img.shields.io/github/stars/Julien-cpsn/ATAC) ![GitHub last commit](https://img.shields.io/github/last-commit/Julien-cpsn/ATAC)](https://github.com/Julien-cpsn/ATAC) - A feature-full TUI API client made in Rust.
+
+### Testing
+
+- [shellspec ![GitHub Repo Stars](https://img.shields.io/github/stars/shellspec/shellspec) ![GitHub last commit](https://img.shields.io/github/last-commit/shellspec/shellspec)](https://github.com/shellspec/shellspec) - A full-featured BDD unit-testing framework for all POSIX shells.
+- [gdb-dashboard ![GitHub Repo Stars](https://img.shields.io/github/stars/cyrus-and/gdb-dashboard) ![GitHub last commit](https://img.shields.io/github/last-commit/cyrus-and/gdb-dashboard)](https://github.com/cyrus-and/gdb-dashboard) - Modular visual interface for GDB.
+- [loadtest ![GitHub Repo Stars](https://img.shields.io/github/stars/alexfernandez/loadtest) ![GitHub last commit](https://img.shields.io/github/last-commit/alexfernandez/loadtest)](https://github.com/alexfernandez/loadtest) - Run load tests.
+- [Step CI ![GitHub Repo Stars](https://img.shields.io/github/stars/stepci/stepci) ![GitHub last commit](https://img.shields.io/github/last-commit/stepci/stepci)](https://github.com/stepci/stepci) - API testing and QA framework.
 
 ## Productivity
 
@@ -360,6 +365,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [certificate-ripper ![GitHub Repo Stars](https://img.shields.io/github/stars/Hakky54/certificate-ripper) ![GitHub last commit](https://img.shields.io/github/last-commit/Hakky54/certificate-ripper)](https://github.com/Hakky54/certificate-ripper) - Extract server certificates.
 - [neoss ![GitHub Repo Stars](https://img.shields.io/github/stars/PabloLec/neoss) ![GitHub last commit](https://img.shields.io/github/last-commit/PabloLec/neoss)](https://github.com/PabloLec/neoss) - User-friendly and detailed socket statistics.
 - [gg ![GitHub Repo Stars](https://img.shields.io/github/stars/mzz2017/gg) ![GitHub last commit](https://img.shields.io/github/last-commit/mzz2017/gg)](https://github.com/mzz2017/gg) - One-click proxy without installing v2ray or anything else.
+- [rustnet ![GitHub Repo Stars](https://img.shields.io/github/stars/domcyrus/rustnet) ![GitHub last commit](https://img.shields.io/github/last-commit/domcyrus/rustnet)](https://github.com/domcyrus/rustnet) - Network monitoring with process identification and deep packet inspection.
 - [sshuttle ![GitHub Repo Stars](https://img.shields.io/github/stars/sshuttle/sshuttle) ![GitHub last commit](https://img.shields.io/github/last-commit/sshuttle/sshuttle)](https://github.com/sshuttle/sshuttle) - Transparent proxy server that works as a poor man's VPN.
 
 ### Theming and Customization
@@ -473,10 +479,12 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [strip-json-comments-cli ![GitHub Repo Stars](https://img.shields.io/github/stars/sindresorhus/strip-json-comments-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/sindresorhus/strip-json-comments-cli)](https://github.com/sindresorhus/strip-json-comments-cli) - Strip comments from JSON.
 - [GROQ ![GitHub Repo Stars](https://img.shields.io/github/stars/sanity-io/groq-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/sanity-io/groq-cli)](https://github.com/sanity-io/groq-cli) – JSON processor with queries and projections.
 - [gron ![GitHub Repo Stars](https://img.shields.io/github/stars/tomnomnom/gron) ![GitHub last commit](https://img.shields.io/github/last-commit/tomnomnom/gron)](https://github.com/tomnomnom/gron) - Make JSON greppable.
+- [config-file-validator ![GitHub Repo Stars](https://img.shields.io/github/stars/Boeing/config-file-validator) ![GitHub last commit](https://img.shields.io/github/last-commit/Boeing/config-file-validator)](https://github.com/Boeing/config-file-validator) - Validate configuration files.
 
 ### YAML
 
 - [dyff ![GitHub Repo Stars](https://img.shields.io/github/stars/homeport/dyff) ![GitHub last commit](https://img.shields.io/github/last-commit/homeport/dyff)](https://github.com/homeport/dyff) - YAML diff tool.
+- [config-file-validator ![GitHub Repo Stars](https://img.shields.io/github/stars/Boeing/config-file-validator) ![GitHub last commit](https://img.shields.io/github/last-commit/Boeing/config-file-validator)](https://github.com/Boeing/config-file-validator) - Validate configuration files.
 
 ### Columns
 
@@ -554,6 +562,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [tre ![GitHub Repo Stars](https://img.shields.io/github/stars/dduan/tre) ![GitHub last commit](https://img.shields.io/github/last-commit/dduan/tre)](https://github.com/dduan/tre) - `tree` with git awareness, editor aliasing, and more.
 - [ll ![GitHub Repo Stars](https://img.shields.io/github/stars/antonmedv/ll) ![GitHub last commit](https://img.shields.io/github/last-commit/antonmedv/ll)](https://github.com/antonmedv/ll) - `ls` with git status.
 - [lsd ![GitHub Repo Stars](https://img.shields.io/github/stars/Peltoche/lsd) ![GitHub last commit](https://img.shields.io/github/last-commit/Peltoche/lsd)](https://github.com/Peltoche/lsd) - `ls` with many extra features.
+- [lla ![GitHub Repo Stars](https://img.shields.io/github/stars/triyanox/lla) ![GitHub last commit](https://img.shields.io/github/last-commit/triyanox/lla)](https://github.com/triyanox/lla) - Improved `ls` with plugins.
 
 ### Directory Navigation
 
