@@ -229,7 +229,7 @@ _Info on topics necessary for designing and developing game engines._
     - 🌎 [Web Game Dev](https://www.webgamedev.com) - Resources on techniques and tools around JavaScript game development.
 - Books
     - 📚 [Art of Game Design](https://www.amazon.com/Art-Game-Design-Book-Lenses/dp/0123694965) - Teaches game design in an accessible manner.
-    - 📚 [Game Programming Patterns](https://gameprogrammingpatterns.com) - Patterns found in games that make code easier to understand.
+    - ��� [Game Programming Patterns](https://gameprogrammingpatterns.com) - Patterns found in games that make code easier to understand.
 - Developer Portals
     - 🌎 [Game Developer](https://www.gamedeveloper.com) - Industry blogs, events, jobs, updates and more. Formerly _Gamasutra_.
     - 🌎 [GameDev.net](https://www.gamedev.net/) - Game dev forums, tutorials, blogs, projects, portfolios, and news.
