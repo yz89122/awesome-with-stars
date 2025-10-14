@@ -356,7 +356,7 @@ _Information by developers, for developers._
 - [Mesh shattering with baked physics](https://babylonjs.medium.com/mesh-shattering-with-baked-physics-5b3f8f381743) - Besides explaining how to use precompute physics for mesh shattering, this official blog post from the Babylon.js team shows how to integrate it with Node Material Editor.
 - [MR and the Web with Babylon.js 5.0](https://learn.microsoft.com/en-us/events/mixed-reality-dev-days/mr-and-the-web-with-babylonjs-50) - Microsoft Learn session introducing Babylon.js 5.0 and the new Babylon Native. ([recording](https://www.youtube.com/watch?v=cMrIvPrkB0Y))
 - [Optimizing a Large-Scale Babylon.js Scene](https://joepavitt.medium.com/optimizing-a-large-scale-babylon-js-scene-9466bb715e15) - Gives tips on how to render a large number of meshes and vertices without impacting performance.
-- [Using WebXR With Babylon.js — Smashing Magazine](https://www.smashingmagazine.com/2020/10/using-webxr-with-babylonjs/) - Provides a comprehensive introduction to WebXR and how to use it to develop immersive experiences.
+- [Using WebXR With Babylon.js �� Smashing Magazine](https://www.smashingmagazine.com/2020/10/using-webxr-with-babylonjs/) - Provides a comprehensive introduction to WebXR and how to use it to develop immersive experiences.
 - [Yuka + Babylon.js Examples - Game AI Examples with Babylon.js](https://yuka.babylonpress.org/examples/) - A first-rate collection of Babylon.js demos, each using Yuka for AI.
 
 ## Forum
