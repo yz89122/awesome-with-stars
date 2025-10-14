@@ -25,6 +25,7 @@ Inspired by the [awesome ![GitHub Repo Stars](https://img.shields.io/github/star
 - [Development](#development)
   - [Text Editors](#text-editors)
   - [Frontend Development](#frontend-development)
+  - [Expose localhost](#expose-localhost)
   - [Mobile Development](#mobile-development)
   - [Database](#database)
   - [Devops](#devops)
@@ -44,6 +45,7 @@ Inspired by the [awesome ![GitHub Repo Stars](https://img.shields.io/github/star
 - [Utilities](#utilities)
   - [macOS](#macos)
   - [Terminal Sharing Utilities](#terminal-sharing-utilities)
+  - [SSH](#ssh)
   - [Network Utilities](#network-utilities)
   - [Theming and Customization](#theming-and-customization)
   - [Shell Utilities](#shell-utilities)
@@ -81,7 +83,7 @@ Inspired by the [awesome ![GitHub Repo Stars](https://img.shields.io/github/star
 - [Graphics](#graphics)
 - [Just for Fun](#just-for-fun)
   - [Emoji](#emoji-1)
-- [Other Awesome Lists](#other-awesome-lists)
+- [Other Resources](#other-resources)
 - [License](#license)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -91,6 +93,7 @@ Inspired by the [awesome ![GitHub Repo Stars](https://img.shields.io/github/star
 ## Entertainment
 
 - [newsboat ![GitHub Repo Stars](https://img.shields.io/github/stars/newsboat/newsboat) ![GitHub last commit](https://img.shields.io/github/last-commit/newsboat/newsboat)](https://github.com/newsboat/newsboat) - An extendable RSS feed reader for text terminals.
+- [mal-cli ![GitHub Repo Stars](https://img.shields.io/github/stars/L4z3x/mal-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/L4z3x/mal-cli)](https://github.com/L4z3x/mal-cli) - MyAnimeList client.
 
 ### Music
 
@@ -177,6 +180,11 @@ Inspired by the [awesome ![GitHub Repo Stars](https://img.shields.io/github/star
 - [viewport-list-cli ![GitHub Repo Stars](https://img.shields.io/github/stars/kevva/viewport-list-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/kevva/viewport-list-cli)](https://github.com/kevva/viewport-list-cli) - Return a list of devices and their viewports.
 - [surge](https://surge.sh) - Publish static websites for free.
 
+### Expose localhost
+
+- [localtunnel ![GitHub Repo Stars](https://img.shields.io/github/stars/localtunnel/localtunnel) ![GitHub last commit](https://img.shields.io/github/last-commit/localtunnel/localtunnel)](https://github.com/localtunnel/localtunnel) - Expose your localhost to the world for easy testing and sharing.
+- [ngrok](https://ngrok.com/) - Secure introspectable tunnels to localhost.
+
 ### Mobile Development
 
 - [mobicon-cli ![GitHub Repo Stars](https://img.shields.io/github/stars/SamVerschueren/mobicon-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/SamVerschueren/mobicon-cli)](https://github.com/SamVerschueren/mobicon-cli) - Mobile app icon generator.
@@ -204,6 +212,7 @@ Inspired by the [awesome ![GitHub Repo Stars](https://img.shields.io/github/star
 - [ipfs-deploy ![GitHub Repo Stars](https://img.shields.io/github/stars/agentofuser/ipfs-deploy) ![GitHub last commit](https://img.shields.io/github/last-commit/agentofuser/ipfs-deploy)](https://github.com/agentofuser/ipfs-deploy) - Deploy static websites to [IPFS ![GitHub Repo Stars](https://img.shields.io/github/stars/ipfs/ipfs) ![GitHub last commit](https://img.shields.io/github/last-commit/ipfs/ipfs)](https://github.com/ipfs/ipfs#overviewhttps://github.com/ipfs/ipfs#overview).
 - [Discharge ![GitHub Repo Stars](https://img.shields.io/github/stars/brandonweiss/discharge) ![GitHub last commit](https://img.shields.io/github/last-commit/brandonweiss/discharge)](https://github.com/brandonweiss/discharge) - Deploy static websites to Amazon S3.
 - [updatecli ![GitHub Repo Stars](https://img.shields.io/github/stars/updatecli/updatecli) ![GitHub last commit](https://img.shields.io/github/last-commit/updatecli/updatecli)](https://github.com/updatecli/updatecli) - A declarative dependency management tool.
+- [telert ![GitHub Repo Stars](https://img.shields.io/github/stars/navig-me/telert) ![GitHub last commit](https://img.shields.io/github/last-commit/navig-me/telert)](https://github.com/navig-me/telert) - Multi-channel alerts for long-running commands and process/log/uptime monitoring.
 - [logdy ![GitHub Repo Stars](https://img.shields.io/github/stars/logdyhq/logdy-core) ![GitHub last commit](https://img.shields.io/github/last-commit/logdyhq/logdy-core)](https://github.com/logdyhq/logdy-core) - Supercharge terminal logs with web UI.
 - [s5cmd ![GitHub Repo Stars](https://img.shields.io/github/stars/peak/s5cmd) ![GitHub last commit](https://img.shields.io/github/last-commit/peak/s5cmd)](https://github.com/peak/s5cmd) - Blazing fast S3 and local filesystem execution tool.
 
@@ -275,6 +284,7 @@ Inspired by the [awesome ![GitHub Repo Stars](https://img.shields.io/github/star
 - [papis ![GitHub Repo Stars](https://img.shields.io/github/stars/papis/papis) ![GitHub last commit](https://img.shields.io/github/last-commit/papis/papis)](https://github.com/papis/papis) - Extensible document and bibliography manager.
 - [pubs ![GitHub Repo Stars](https://img.shields.io/github/stars/pubs/pubs) ![GitHub last commit](https://img.shields.io/github/last-commit/pubs/pubs)](https://github.com/pubs/pubs) - Scientific bibliography manager.
 - [fjira ![GitHub Repo Stars](https://img.shields.io/github/stars/mk-5/fjira) ![GitHub last commit](https://img.shields.io/github/last-commit/mk-5/fjira)](https://github.com/mk-5/fjira) - Fuzzy finder and TUI application for Jira.
+- [OverTime ![GitHub Repo Stars](https://img.shields.io/github/stars/diit/overtime-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/diit/overtime-cli)](https://github.com/diit/overtime-cli) - Time-overlap tables for remote teams.
 
 ### Time Tracking
 
@@ -349,13 +359,13 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 ### Terminal Sharing Utilities
 
 - [gotty ![GitHub Repo Stars](https://img.shields.io/github/stars/yudai/gotty) ![GitHub last commit](https://img.shields.io/github/last-commit/yudai/gotty)](https://github.com/yudai/gotty) - Share your terminal as a web application.
-- [localtunnel ![GitHub Repo Stars](https://img.shields.io/github/stars/localtunnel/localtunnel) ![GitHub last commit](https://img.shields.io/github/last-commit/localtunnel/localtunnel)](https://github.com/localtunnel/localtunnel) - Expose your localhost to the world for easy testing and sharing.
-- [mosh](https://mosh.org/) - Remote SSH client that allows roaming with intermittent connectivity.
-- [ngrok](https://ngrok.com/) - Secure introspectable tunnels to localhost.
 - [tmate](https://tmate.io/) - Instant terminal (tmux) sharing.
 - [warp ![GitHub Repo Stars](https://img.shields.io/github/stars/spolu/warp) ![GitHub last commit](https://img.shields.io/github/last-commit/spolu/warp)](https://github.com/spolu/warp) - Secure and simple terminal sharing.
-- [OverTime ![GitHub Repo Stars](https://img.shields.io/github/stars/diit/overtime-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/diit/overtime-cli)](https://github.com/diit/overtime-cli) - Time-overlap tables for remote teams.
-- [xxh ![GitHub Repo Stars](https://img.shields.io/github/stars/xxh/xxh) ![GitHub last commit](https://img.shields.io/github/last-commit/xxh/xxh)](https://github.com/xxh/xxh) - Bring your favorite shell wherever you go through the SSH.
+
+### SSH
+
+- [mosh](https://mosh.org/) - Remote SSH client that allows roaming with intermittent connectivity.
+- [xxh ![GitHub Repo Stars](https://img.shields.io/github/stars/xxh/xxh) ![GitHub last commit](https://img.shields.io/github/last-commit/xxh/xxh)](https://github.com/xxh/xxh) - Bring your favorite shell wherever you go through SSH.
 
 ### Network Utilities
 
@@ -682,13 +692,14 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [emoji-finder ![GitHub Repo Stars](https://img.shields.io/github/stars/dematerializer/emoji-finder) ![GitHub last commit](https://img.shields.io/github/last-commit/dematerializer/emoji-finder)](https://github.com/dematerializer/emoji-finder) - Quickly find and copy emoji to the clipboard via the command-line.
 - [oji ![GitHub Repo Stars](https://img.shields.io/github/stars/xxczaki/oji) ![GitHub last commit](https://img.shields.io/github/last-commit/xxczaki/oji)](https://github.com/xxczaki/oji) - Interactive text emoji maker.
 
-## Other Awesome Lists
+## Other Resources
 
 - [awesome-git-addons ![GitHub Repo Stars](https://img.shields.io/github/stars/stevemao/awesome-git-addons) ![GitHub last commit](https://img.shields.io/github/last-commit/stevemao/awesome-git-addons)](https://github.com/stevemao/awesome-git-addons#readme) - Addons that extend git cli.
 - [awesome-shell ![GitHub Repo Stars](https://img.shields.io/github/stars/alebcay/awesome-shell) ![GitHub last commit](https://img.shields.io/github/last-commit/alebcay/awesome-shell)](https://github.com/alebcay/awesome-shell#readme) – Command-line utilities and frameworks.
 - [terminals-are-sexy ![GitHub Repo Stars](https://img.shields.io/github/stars/k4m4/terminals-are-sexy) ![GitHub last commit](https://img.shields.io/github/last-commit/k4m4/terminals-are-sexy)](https://github.com/k4m4/terminals-are-sexy#readme) – Terminal frameworks, plugins & resources.
 - [awesome-zsh-plugins ![GitHub Repo Stars](https://img.shields.io/github/stars/unixorn/awesome-zsh-plugins) ![GitHub last commit](https://img.shields.io/github/last-commit/unixorn/awesome-zsh-plugins)](https://github.com/unixorn/awesome-zsh-plugins#readme) – ZSH frameworks, plugins, tutorials & themes.
 - [awesome-nodejs clis ![GitHub Repo Stars](https://img.shields.io/github/stars/sindresorhus/awesome-nodejs) ![GitHub last commit](https://img.shields.io/github/last-commit/sindresorhus/awesome-nodejs)](https://github.com/sindresorhus/awesome-nodejs#command-line-apps) – Node.js modules and resources.
+- [x-cmd ![GitHub Repo Stars](https://img.shields.io/github/stars/x-cmd/x-cmd) ![GitHub last commit](https://img.shields.io/github/last-commit/x-cmd/x-cmd)](https://github.com/x-cmd/x-cmd) - Ecosystem of cli tools, featuring a wide array of improve core utils, AI access and more.
 
 ## License
 
