@@ -25,7 +25,7 @@ Inspired by the [awesome ![GitHub Repo Stars](https://img.shields.io/github/star
 - [Development](#development)
   - [Text Editors](#text-editors)
   - [Frontend Development](#frontend-development)
-  - [Expose localhost](#expose-localhost)
+  - [Public localhost](#public-localhost)
   - [Mobile Development](#mobile-development)
   - [Database](#database)
   - [Devops](#devops)
@@ -53,6 +53,7 @@ Inspired by the [awesome ![GitHub Repo Stars](https://img.shields.io/github/star
   - [Markdown](#markdown)
   - [Security](#security)
   - [Math](#math)
+  - [Academia](#academia)
   - [Weather](#weather)
   - [Browser Replacement](#browser-replacement)
   - [Internet Speedtest](#internet-speedtest)
@@ -112,6 +113,7 @@ Inspired by the [awesome ![GitHub Repo Stars](https://img.shields.io/github/star
 - [dzr ![GitHub Repo Stars](https://img.shields.io/github/stars/yne/dzr) ![GitHub last commit](https://img.shields.io/github/last-commit/yne/dzr)](https://github.com/yne/dzr) - deezer.com player.
 - [radio-active ![GitHub Repo Stars](https://img.shields.io/github/stars/deep5050/radio-active) ![GitHub last commit](https://img.shields.io/github/last-commit/deep5050/radio-active)](https://github.com/deep5050/radio-active) - Internet radio player with 40k+ stations.
 - [mpvc ![GitHub Repo Stars](https://img.shields.io/github/stars/gmt4/mpvc) ![GitHub last commit](https://img.shields.io/github/last-commit/gmt4/mpvc)](https://github.com/gmt4/mpvc) - Music player interfacing mpv.
+- [TUISIC ![GitHub Repo Stars](https://img.shields.io/github/stars/Dark-Kernel/tuisic) ![GitHub last commit](https://img.shields.io/github/last-commit/Dark-Kernel/tuisic)](https://github.com/Dark-Kernel/tuisic) - Login-free music streaming.
 
 ### Video
 
@@ -139,6 +141,7 @@ Inspired by the [awesome ![GitHub Repo Stars](https://img.shields.io/github/star
 - [Bible.Js CLI ![GitHub Repo Stars](https://img.shields.io/github/stars/BibleJS/BibleApp) ![GitHub last commit](https://img.shields.io/github/last-commit/BibleJS/BibleApp)](https://github.com/BibleJS/BibleApp) - Bible.
 - [SpeedRead ![GitHub Repo Stars](https://img.shields.io/github/stars/sunsations/speed_read) ![GitHub last commit](https://img.shields.io/github/last-commit/sunsations/speed_read)](https://github.com/sunsations/speed_read) - Spritz-alike speedreader.
 - [medium-cli ![GitHub Repo Stars](https://img.shields.io/github/stars/djadmin/medium-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/djadmin/medium-cli)](https://github.com/djadmin/medium-cli) - Read [medium.com](https://medium.com/) stories.
+- [hygg ![GitHub Repo Stars](https://img.shields.io/github/stars/kruserr/hygg) ![GitHub last commit](https://img.shields.io/github/last-commit/kruserr/hygg)](https://github.com/kruserr/hygg) - Document reader.
 
 ### Chat
 
@@ -171,7 +174,7 @@ Inspired by the [awesome ![GitHub Repo Stars](https://img.shields.io/github/star
 - [kakoune ![GitHub Repo Stars](https://img.shields.io/github/stars/mawww/kakoune) ![GitHub last commit](https://img.shields.io/github/last-commit/mawww/kakoune)](https://github.com/mawww/kakoune) - Modal editor inspired by vim.
 - [micro ![GitHub Repo Stars](https://img.shields.io/github/stars/zyedidia/micro) ![GitHub last commit](https://img.shields.io/github/last-commit/zyedidia/micro)](https://github.com/zyedidia/micro) - A simple and intuitive editor.
 - [o ![GitHub Repo Stars](https://img.shields.io/github/stars/xyproto/o) ![GitHub last commit](https://img.shields.io/github/last-commit/xyproto/o)](https://github.com/xyproto/o) - Configuration-free text editor and IDE.
-- [helix ![GitHub Repo Stars](https://img.shields.io/github/stars/helix-editor/helix) ![GitHub last commit](https://img.shields.io/github/last-commit/helix-editor/helix)](https://github.com/helix-editor/helix) -  Modal editor inspired by kakoune.
+- [helix ![GitHub Repo Stars](https://img.shields.io/github/stars/helix-editor/helix) ![GitHub last commit](https://img.shields.io/github/last-commit/helix-editor/helix)](https://github.com/helix-editor/helix) - Modal editor inspired by kakoune.
 
 ### Frontend Development
 
@@ -180,10 +183,13 @@ Inspired by the [awesome ![GitHub Repo Stars](https://img.shields.io/github/star
 - [viewport-list-cli ![GitHub Repo Stars](https://img.shields.io/github/stars/kevva/viewport-list-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/kevva/viewport-list-cli)](https://github.com/kevva/viewport-list-cli) - Return a list of devices and their viewports.
 - [surge](https://surge.sh) - Publish static websites for free.
 
-### Expose localhost
+### Public localhost
 
-- [localtunnel ![GitHub Repo Stars](https://img.shields.io/github/stars/localtunnel/localtunnel) ![GitHub last commit](https://img.shields.io/github/last-commit/localtunnel/localtunnel)](https://github.com/localtunnel/localtunnel) - Expose your localhost to the world for easy testing and sharing.
-- [ngrok](https://ngrok.com/) - Secure introspectable tunnels to localhost.
+Expose a service running on localhost to the public web for testing and sharing.
+
+- [localtunnel ![GitHub Repo Stars](https://img.shields.io/github/stars/localtunnel/localtunnel) ![GitHub last commit](https://img.shields.io/github/last-commit/localtunnel/localtunnel)](https://github.com/localtunnel/localtunnel)
+- [tunnelmole ![GitHub Repo Stars](https://img.shields.io/github/stars/robbie-cahill/tunnelmole-client) ![GitHub last commit](https://img.shields.io/github/last-commit/robbie-cahill/tunnelmole-client)](https://github.com/robbie-cahill/tunnelmole-client)
+- [ngrok](https://ngrok.com/)
 
 ### Mobile Development
 
@@ -195,7 +201,7 @@ Inspired by the [awesome ![GitHub Repo Stars](https://img.shields.io/github/star
 
 - [mycli ![GitHub Repo Stars](https://img.shields.io/github/stars/dbcli/mycli) ![GitHub last commit](https://img.shields.io/github/last-commit/dbcli/mycli)](https://github.com/dbcli/mycli) - MySQL client with autocompletion and syntax highlighting.
 - [pgcli ![GitHub Repo Stars](https://img.shields.io/github/stars/dbcli/pgcli) ![GitHub last commit](https://img.shields.io/github/last-commit/dbcli/pgcli)](https://github.com/dbcli/pgcli) - Postgres client with autocompletion and syntax highlighting.
-- [sqlline ![GitHub Repo Stars](https://img.shields.io/github/stars/julianhyde/sqlline) ![GitHub last commit](https://img.shields.io/github/last-commit/julianhyde/sqlline)](https://github.com/julianhyde/sqlline) -  Shell for issuing SQL via JDBC.
+- [sqlline ![GitHub Repo Stars](https://img.shields.io/github/stars/julianhyde/sqlline) ![GitHub last commit](https://img.shields.io/github/last-commit/julianhyde/sqlline)](https://github.com/julianhyde/sqlline) - Shell for issuing SQL via JDBC.
 - [iredis ![GitHub Repo Stars](https://img.shields.io/github/stars/laixintao/iredis) ![GitHub last commit](https://img.shields.io/github/last-commit/laixintao/iredis)](https://github.com/laixintao/iredis) - Redis client with autocompletion and syntax highlighting.
 - [usql ![GitHub Repo Stars](https://img.shields.io/github/stars/xo/usql) ![GitHub last commit](https://img.shields.io/github/last-commit/xo/usql)](https://github.com/xo/usql) - Universal SQL client with autocompletion and syntax highlighting.
 
@@ -281,8 +287,6 @@ Inspired by the [awesome ![GitHub Repo Stars](https://img.shields.io/github/star
 - [ipt ![GitHub Repo Stars](https://img.shields.io/github/stars/drselump14/ipt) ![GitHub last commit](https://img.shields.io/github/last-commit/drselump14/ipt)](https://github.com/drselump14/ipt) - Pivotal Tracker client.
 - [uber-cli ![GitHub Repo Stars](https://img.shields.io/github/stars/jaebradley/uber-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/jaebradley/uber-cli)](https://github.com/jaebradley/uber-cli) - Uber client.
 - [Buku ![GitHub Repo Stars](https://img.shields.io/github/stars/jarun/Buku) ![GitHub last commit](https://img.shields.io/github/last-commit/jarun/Buku)](https://github.com/jarun/Buku) - Browser-independent bookmark manager.
-- [papis ![GitHub Repo Stars](https://img.shields.io/github/stars/papis/papis) ![GitHub last commit](https://img.shields.io/github/last-commit/papis/papis)](https://github.com/papis/papis) - Extensible document and bibliography manager.
-- [pubs ![GitHub Repo Stars](https://img.shields.io/github/stars/pubs/pubs) ![GitHub last commit](https://img.shields.io/github/last-commit/pubs/pubs)](https://github.com/pubs/pubs) - Scientific bibliography manager.
 - [fjira ![GitHub Repo Stars](https://img.shields.io/github/stars/mk-5/fjira) ![GitHub last commit](https://img.shields.io/github/last-commit/mk-5/fjira)](https://github.com/mk-5/fjira) - Fuzzy finder and TUI application for Jira.
 - [OverTime ![GitHub Repo Stars](https://img.shields.io/github/stars/diit/overtime-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/diit/overtime-cli)](https://github.com/diit/overtime-cli) - Time-overlap tables for remote teams.
 
@@ -328,6 +332,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [mdp ![GitHub Repo Stars](https://img.shields.io/github/stars/visit1985/mdp) ![GitHub last commit](https://img.shields.io/github/last-commit/visit1985/mdp)](https://github.com/visit1985/mdp) - A markdown presentation tool.
 - [sent](https://tools.suckless.org/sent/) - Simple plaintext presentation tool.
 - [slides ![GitHub Repo Stars](https://img.shields.io/github/stars/maaslalani/slides) ![GitHub last commit](https://img.shields.io/github/last-commit/maaslalani/slides)](https://github.com/maaslalani/slides) - A markdown presentation tool.
+- [marp ![GitHub Repo Stars](https://img.shields.io/github/stars/marp-team/marp-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/marp-team/marp-cli)](https://github.com/marp-team/marp-cli) - Export Markdown to HTML/PDF/Powerpoint presentations.
 
 ### Calendars
 
@@ -355,6 +360,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [active-win-cli ![GitHub Repo Stars](https://img.shields.io/github/stars/sindresorhus/active-win-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/sindresorhus/active-win-cli)](https://github.com/sindresorhus/active-win-cli) - Get the title/id/etc of the active window.
 - [stronghold ![GitHub Repo Stars](https://img.shields.io/github/stars/alichtman/stronghold) ![GitHub last commit](https://img.shields.io/github/last-commit/alichtman/stronghold)](https://github.com/alichtman/stronghold) - Configure security settings from the terminal.
 - [dark-mode ![GitHub Repo Stars](https://img.shields.io/github/stars/sindresorhus/dark-mode) ![GitHub last commit](https://img.shields.io/github/last-commit/sindresorhus/dark-mode)](https://github.com/sindresorhus/dark-mode) - Toggle dark mode.
+- [clippy ![GitHub Repo Stars](https://img.shields.io/github/stars/neilberkman/clippy) ![GitHub last commit](https://img.shields.io/github/last-commit/neilberkman/clippy)](https://github.com/neilberkman/clippy) - Clipboard tool for interacting with GUI applications.
 
 ### Terminal Sharing Utilities
 
@@ -430,6 +436,11 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 
 - [mdlt ![GitHub Repo Stars](https://img.shields.io/github/stars/metadelta/mdlt) ![GitHub last commit](https://img.shields.io/github/last-commit/metadelta/mdlt)](https://github.com/metadelta/mdlt) - Do quick math right from the command line.
 - [Qalculate ![GitHub Repo Stars](https://img.shields.io/github/stars/Qalculate/libqalculate) ![GitHub last commit](https://img.shields.io/github/last-commit/Qalculate/libqalculate)](https://github.com/Qalculate/libqalculate) - Calculate non-trivial math expressions. Unit conversions, symbolic calculations and more.
+
+### Academia
+
+- [papis ![GitHub Repo Stars](https://img.shields.io/github/stars/papis/papis) ![GitHub last commit](https://img.shields.io/github/last-commit/papis/papis)](https://github.com/papis/papis) - Extensible document and bibliography manager.
+- [pubs ![GitHub Repo Stars](https://img.shields.io/github/stars/pubs/pubs) ![GitHub last commit](https://img.shields.io/github/last-commit/pubs/pubs)](https://github.com/pubs/pubs) - Scientific bibliography manager.
 
 ### Weather
 
@@ -625,6 +636,8 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [Lazygit ![GitHub Repo Stars](https://img.shields.io/github/stars/jesseduffield/lazygit) ![GitHub last commit](https://img.shields.io/github/last-commit/jesseduffield/lazygit)](https://github.com/jesseduffield/lazygit) - Simple TUI for git commands.
 - [bash-git-prompt ![GitHub Repo Stars](https://img.shields.io/github/stars/magicmonty/bash-git-prompt) ![GitHub last commit](https://img.shields.io/github/last-commit/magicmonty/bash-git-prompt)](https://github.com/magicmonty/bash-git-prompt) - Informative and fancy bash prompt for Git users.
 - [gitui ![GitHub Repo Stars](https://img.shields.io/github/stars/extrawurst/gitui) ![GitHub last commit](https://img.shields.io/github/last-commit/extrawurst/gitui)](https://github.com/extrawurst/gitui) - Blazing fast terminal-ui for git written in Rust.
+- [ggc ![GitHub Repo Stars](https://img.shields.io/github/stars/bmf-san/ggc) ![GitHub last commit](https://img.shields.io/github/last-commit/bmf-san/ggc)](https://github.com/bmf-san/ggc) - A modern Git tool with both CLI and interactive incremental-search UI.
+- [AI Git Narrator ![GitHub Repo Stars](https://img.shields.io/github/stars/pmusolino/AI-Git-Narrator) ![GitHub last commit](https://img.shields.io/github/last-commit/pmusolino/AI-Git-Narrator)](https://github.com/pmusolino/AI-Git-Narrator) - [macOS]: https://github.com/agarrharr/awesome-cli-apps/raw/master/Generate commit messages with AI.
 
 ### GitHub
 
@@ -659,6 +672,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [imagemagick](https://imagemagick.org) - Gold standard for anything images.
 - [imgp ![GitHub Repo Stars](https://img.shields.io/github/stars/jarun/imgp) ![GitHub last commit](https://img.shields.io/github/last-commit/jarun/imgp)](https://github.com/jarun/imgp) - Blazing fast batch image resizer and rotator.
 - [korkut ![GitHub Repo Stars](https://img.shields.io/github/stars/oguzhaninan/korkut) ![GitHub last commit](https://img.shields.io/github/last-commit/oguzhaninan/korkut)](https://github.com/oguzhaninan/korkut) - Quick and simple image processing.
+- [pdfjuicer ![GitHub Repo Stars](https://img.shields.io/github/stars/dmikhr/pdfjuicer) ![GitHub last commit](https://img.shields.io/github/last-commit/dmikhr/pdfjuicer)](https://github.com/dmikhr/pdfjuicer) - Extract PDF pages as images.
 
 ## Screensavers
 
