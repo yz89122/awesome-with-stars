@@ -541,6 +541,7 @@
 - [bassamsdata/namu.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/bassamsdata/namu.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/bassamsdata/namu.nvim)](https://github.com/bassamsdata/namu.nvim) - Flexible and sleek fuzzy picker, LSP symbol navigator, and more. Inspired by Zed.
 - [folke/snacks.nvim#picker ![GitHub Repo Stars](https://img.shields.io/github/stars/folke/snacks.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/folke/snacks.nvim)](https://github.com/folke/snacks.nvim/blob/main/docs/picker.md) - Modern fuzzy-finder to navigate the Neovim universe.
 - [fff.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/dmtrKovalenko/fff.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/dmtrKovalenko/fff.nvim)](https://github.com/dmtrKovalenko/fff.nvim) - Fuzzy file picker with a standalone native implementation of file indexing and typo resistant fuzzy matcher. Includes all the QOL features, file previews (and images), frecency sorting, last query matching, proximity, git status bonuses and much more.
+- [wsdjeg/picker.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/wsdjeg/picker.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/wsdjeg/picker.nvim)](https://github.com/wsdjeg/picker.nvim) - Simple fuzzy finder, including files, ctags outline, and more.
 
 <!--lint disable double-link -->
 
@@ -1358,6 +1359,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 - [Kohei-Wada/yadm-git.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/Kohei-Wada/yadm-git.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/Kohei-Wada/yadm-git.nvim)](https://github.com/Kohei-Wada/yadm-git.nvim) - Seamless Git plugin support for yadm dotfiles.
 - [axkirillov/unified.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/axkirillov/unified.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/axkirillov/unified.nvim)](https://github.com/axkirillov/unified.nvim) - Displaying inline unified diffs directly in your buffer.
 - [StackInTheWild/headhunter.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/StackInTheWild/headhunter.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/StackInTheWild/headhunter.nvim)](https://github.com/StackInTheWild/headhunter.nvim) - Hunt and resolve merge conflicts directly in Neovim — fast and simple.
+- [404pilo/aicommits.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/404pilo/aicommits.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/404pilo/aicommits.nvim)](https://github.com/404pilo/aicommits.nvim) - Generate conventional commit messages using AI.
 
 ### GitHub
 
