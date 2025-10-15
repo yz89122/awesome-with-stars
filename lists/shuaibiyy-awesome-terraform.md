@@ -464,6 +464,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 - [xterrafile ![GitHub Repo Stars](https://img.shields.io/github/stars/devopsmakers/xterrafile) ![GitHub last commit](https://img.shields.io/github/last-commit/devopsmakers/xterrafile)](https://github.com/devopsmakers/xterrafile) Systematically manage external modules from the module registry, git, or local directories for use in Terraform (written in Go). :skull:
 - [yj ![GitHub Repo Stars](https://img.shields.io/github/stars/sclevine/yj) ![GitHub last commit](https://img.shields.io/github/last-commit/sclevine/yj)](https://github.com/sclevine/yj) - CLI - Convert between YAML, TOML, JSON, and HCL. Preserves map order.
 - [yor ![GitHub Repo Stars](https://img.shields.io/github/stars/bridgecrewio/yor) ![GitHub last commit](https://img.shields.io/github/last-commit/bridgecrewio/yor)](https://github.com/bridgecrewio/yor) - Automatically tag and trace infrastructure as code frameworks (Terraform, Cloudformation, and Serverless).
+- [zephy ![GitHub Repo Stars](https://img.shields.io/github/stars/henrybravo/zephy) ![GitHub last commit](https://img.shields.io/github/last-commit/henrybravo/zephy)](https://github.com/henrybravo/zephy) - Compare Azure resources deployed in a subscription against resources managed by Terraform Enterprise (HCP & Selfhosted) workspaces *when your cloud's resource tagging strategy is insufficient*.
 
 ### CI
 
