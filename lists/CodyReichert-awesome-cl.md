@@ -732,7 +732,7 @@ Graphics
 
 These are libraries for working with graphics, rather than making GUIs (i.e. widget toolkits), which have their own section.
 
-* ⭐ [Sketch ![GitHub Repo Stars](https://img.shields.io/github/stars/vydd/sketch) ![GitHub last commit](https://img.shields.io/github/last-commit/vydd/sketch)](https://github.com/vydd/sketch) - A CL framework for the creation of electronic art, graphics, and lots more. [MIT][200].
+* �� [Sketch ![GitHub Repo Stars](https://img.shields.io/github/stars/vydd/sketch) ![GitHub last commit](https://img.shields.io/github/last-commit/vydd/sketch)](https://github.com/vydd/sketch) - A CL framework for the creation of electronic art, graphics, and lots more. [MIT][200].
 * [Vecto](http://www.xach.com/lisp/vecto/) - Simple vector drawing library. [FreeBSD][39].
 * [cl-svg ![GitHub Repo Stars](https://img.shields.io/github/stars/wmannis/cl-svg) ![GitHub last commit](https://img.shields.io/github/last-commit/wmannis/cl-svg)](https://github.com/wmannis/cl-svg) - A basic library for producing SVG files. [Expat][14].
 * [trivial-svg ![GitHub Repo Stars](https://img.shields.io/github/stars/calsys456/trivial-svg) ![GitHub last commit](https://img.shields.io/github/last-commit/calsys456/trivial-svg)](https://github.com/calsys456/trivial-svg) - render SVG images to PNG using Vecto and zpb-ttf. 0BSD.
