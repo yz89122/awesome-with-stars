@@ -1,4 +1,4 @@
-# Awesome Broadcasting [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Broadcasting [![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A curated list of amazingly awesome open source resources for broadcasters.
 
 * [Awesome Broadcasting](#awesome-broadcasting)
@@ -56,13 +56,14 @@ A curated list of amazingly awesome open source resources for broadcasters.
 
 ## Connected TVs
 
-* [Cross-Platform Authentication](https://ebu.io/project/cpa) - CPA offers an open standard for associating any media device with an online identity.
+* [CPA Authorization Provider ![GitHub Repo Stars](https://img.shields.io/github/stars/ebu/cpa-auth-provider) ![GitHub last commit](https://img.shields.io/github/last-commit/ebu/cpa-auth-provider)](https://github.com/ebu/cpa-auth-provider) - Reference implementation for linking media devices with online identities ([related repos](https://tech.ebu.ch/code/cpa) here).
 * [HbbPlayer ![GitHub Repo Stars](https://img.shields.io/github/stars/Samsung/HbbPlayer) ![GitHub last commit](https://img.shields.io/github/last-commit/Samsung/HbbPlayer)](https://github.com/Samsung/HbbPlayer) - An HbbTV and W3C specifications compliant application that can playback media from a URL.
 * [TAL](http://bbc.github.io/tal/) - The TV Application Layer (TAL) is an open source library for building applications for Connected TV devices.
 
 ## Control Systems
 
-* [BUG](http://bbc.github.io/bug) - Broadcast Universal Gateway - Control a wide range of broadcast and network equipment from your browser.
+* [BUG](https://bbc.github.io/bug/) - Broadcast Universal Gateway - Control a wide range of broadcast and network equipment from your browser.
+* [Bitfocus Companion ![GitHub Repo Stars](https://img.shields.io/github/stars/bitfocus/companion) ![GitHub last commit](https://img.shields.io/github/last-commit/bitfocus/companion)](https://github.com/bitfocus/companion) - Enables the Elgato Streamdeck and other controllers to be a shotbox surface for an [increasing amount of broadcast equipment](https://bitfocus.io/connections). 
 * [Lawo EmberPlus ![GitHub Repo Stars](https://img.shields.io/github/stars/Lawo/ember-plus) ![GitHub last commit](https://img.shields.io/github/last-commit/Lawo/ember-plus)](https://github.com/Lawo/ember-plus) - Ember Plus - open protocol for interfacing to / from broadcast control systems.
 * [MIDIMonster ![GitHub Repo Stars](https://img.shields.io/github/stars/cbdevnet/midimonster) ![GitHub last commit](https://img.shields.io/github/last-commit/cbdevnet/midimonster)](https://github.com/cbdevnet/midimonster) - Lightweight adapter tool for common show control protocols.
 
@@ -80,7 +81,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
 * [DVB Inspector](https://sourceforge.net/projects/dvbinspector/) - An open-source DVB analyzer.
 * [DVBlast](http://www.videolan.org/projects/dvblast.html) - A simple and powerful MPEG-2/TS demux and streaming application.
 * [dvbshout ![GitHub Repo Stars](https://img.shields.io/github/stars/njh/dvbshout) ![GitHub last commit](https://img.shields.io/github/last-commit/njh/dvbshout)](https://github.com/njh/dvbshout) - Tool to send DVB audio to a shoutcast server or a RTP stream.
-* [Opencaster](http://www.avalpa.com/the-key-values/15-free-software/33-opencaster) - A free and open source MPEG2 transport stream data generator and packet manipulator.
+* [Opencaster ![GitHub Repo Stars](https://img.shields.io/github/stars/aventuri/opencaster) ![GitHub last commit](https://img.shields.io/github/last-commit/aventuri/opencaster)](https://github.com/aventuri/opencaster) - A free and open source MPEG2 transport stream data generator and packet manipulator.
 * [Project X](https://sourceforge.net/projects/project-x/) - DVB demux tool.
 * [ts2mpa ![GitHub Repo Stars](https://img.shields.io/github/stars/njh/ts2mpa) ![GitHub last commit](https://img.shields.io/github/last-commit/njh/ts2mpa)](https://github.com/njh/ts2mpa) - Simple tool to extract MPEG Audio from a MPEG Transport Stream (TS).
 * [TSDuck](https://tsduck.github.io/) - Extensible toolkit for MPEG/DVB transport streams testing, monitoring, integration, debugging, and more.
@@ -89,7 +90,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
 ## Animation, Graphics & Video Playout
 
 * [Aurena ![GitHub Repo Stars](https://img.shields.io/github/stars/thaytan/aurena) ![GitHub last commit](https://img.shields.io/github/last-commit/thaytan/aurena)](https://github.com/thaytan/aurena) - A network distributed media playback system.
-* [Blender](https://developer.blender.org/diffusion/) - 3D creation suite supporting 3D modelling, animation, motion tracking, video editing, and more.
+* [Blender](https://projects.blender.org/blender/blender) - 3D creation suite supporting 3D modelling, animation, motion tracking, video editing, and more (overview [here](https://developer.blender.org/)).
 * [Bridge ![GitHub Repo Stars](https://img.shields.io/github/stars/svt/bridge) ![GitHub last commit](https://img.shields.io/github/last-commit/svt/bridge)](https://github.com/svt/bridge) - Next generation graphics control software, with extension support.
 * [CasparCG](http://www.casparcg.com/) - A professional graphics and video play-out software, proven in 24/7 broadcasts since 2006.
 * [ffplayout ![GitHub Repo Stars](https://img.shields.io/github/stars/ffplayout/ffplayout) ![GitHub last commit](https://img.shields.io/github/last-commit/ffplayout/ffplayout)](https://github.com/ffplayout/ffplayout) - Rust and FFmpeg based playout from folder or playlists.
@@ -132,22 +133,22 @@ A curated list of amazingly awesome open source resources for broadcasters.
 
 * [Dash.js ![GitHub Repo Stars](https://img.shields.io/github/stars/ebu/dash.js) ![GitHub last commit](https://img.shields.io/github/last-commit/ebu/dash.js)](https://github.com/ebu/dash.js) - A reference client implementation for the playback of MPEG DASH via Javascript and compliant browsers.
 * [GPAC](https://gpac.wp.imt.fr/home/) - Multimedia player, packager and tools.
-* [IDJC](http://idjc.sourceforge.net/) - A GTK+ Shoutcast/Icecast client with two main media players.
+* [IDJC](https://idjc.sourceforge.io/) - A GTK+ Shoutcast/Icecast client with two main media players.
 * [Kodi ![GitHub Repo Stars](https://img.shields.io/github/stars/xbmc/xbmc) ![GitHub last commit](https://img.shields.io/github/last-commit/xbmc/xbmc)](https://github.com/xbmc/xbmc) - A software media player and entertainment hub for digital media.
 * [Media4DPlayer]() - HTML5 player focused on accessibility.
 * [MPD](https://www.musicpd.org/) - A flexible, powerful, server-side application for playing music.
 * [mpg123](https://www.mpg123.de/) - A fast console MPEG Audio Player and decoder library.
-* [Mixxx](https://www.mixxx.org/) - A free, open source DJ software.
+* [Mixxx](https://mixxx.org/) - A free, open source DJ software.
 * [Peaks.js](https://waveform.prototyping.bbc.co.uk/) - Browser-based audio waveform visualisation.
 * [rx-player ![GitHub Repo Stars](https://img.shields.io/github/stars/canalplus/rx-player) ![GitHub last commit](https://img.shields.io/github/last-commit/canalplus/rx-player)](https://github.com/canalplus/rx-player) - HTML5/Javascript video player that supports MPEG-DASH and SmoothStreaming.
-* [VLC](http://www.vlc.org) - Simple, fast and powerful media player.
+* [VLC](https://www.vlc.org) - Simple, fast and powerful media player.
 
 ## Metadata
 
 * [BMXlib ![GitHub Repo Stars](https://img.shields.io/github/stars/ebu/bmx) ![GitHub last commit](https://img.shields.io/github/last-commit/ebu/bmx)](https://github.com/ebu/bmx) - Library and utilities to read and write broadcasting media files. Primarily supports the MXF file format.
 * [EBUCore ![GitHub Repo Stars](https://img.shields.io/github/stars/ebu/ebucore) ![GitHub last commit](https://img.shields.io/github/last-commit/ebu/ebucore)](https://github.com/ebu/ebucore) - The Github for maintenance of the [EBUCore schema](https://tech.ebu.ch/docs/tech/tech3293.pdf).
 * [jebu-core ![GitHub Repo Stars](https://img.shields.io/github/stars/mikrosimage/jebu-core) ![GitHub last commit](https://img.shields.io/github/last-commit/mikrosimage/jebu-core)](https://github.com/mikrosimage/jebu-core) - Java port of [EBU Tech 3293](https://tech.ebu.ch/publications/tech3293) EBU Core metadata, including the [Audio Definition Model](https://tech.ebu.ch/publications/tech3364).
-* [libadm ![GitHub Repo Stars](https://img.shields.io/github/stars/irt-open-source/libadm) ![GitHub last commit](https://img.shields.io/github/last-commit/irt-open-source/libadm)](https://github.com/irt-open-source/libadm) - Audio Definition Model (ITU-R BS.2076) handling C++11 library.
+* [libadm ![GitHub Repo Stars](https://img.shields.io/github/stars/ebu/libadm) ![GitHub last commit](https://img.shields.io/github/last-commit/ebu/libadm)](https://github.com/ebu/libadm) - Audio Definition Model (ITU-R BS.2076) handling C++11 library.
 * [libklvanc ![GitHub Repo Stars](https://img.shields.io/github/stars/stoth68000/libklvanc) ![GitHub last commit](https://img.shields.io/github/last-commit/stoth68000/libklvanc)](https://github.com/stoth68000/libklvanc) - C library for ancillary data extraction from SDI and SMPTE ST 2110-40 (CEA-708, AFD, SCTE-104, etc.).
 * [MAJ API ![GitHub Repo Stars](https://img.shields.io/github/stars/AMWA-TV/maj) ![GitHub last commit](https://img.shields.io/github/last-commit/AMWA-TV/maj)](https://github.com/AMWA-TV/maj) - Pure Java library for reading and writing MXF and AAF files.
 * [SDPoker ![GitHub Repo Stars](https://img.shields.io/github/stars/AMWA-TV/sdpoker) ![GitHub last commit](https://img.shields.io/github/last-commit/AMWA-TV/sdpoker)](https://github.com/AMWA-TV/sdpoker) - CLI tool and library for testing SMPTE ST2110 SDP files.
@@ -180,7 +181,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
 * [Beam Coder ![GitHub Repo Stars](https://img.shields.io/github/stars/Streampunk/beamcoder) ![GitHub last commit](https://img.shields.io/github/last-commit/Streampunk/beamcoder)](https://github.com/Streampunk/beamcoder) - Node.js native bindings to FFmpeg, with support for asynchronous processing via promises and streams.
 * [Bento4 ![GitHub Repo Stars](https://img.shields.io/github/stars/axiomatic-systems/Bento4) ![GitHub last commit](https://img.shields.io/github/last-commit/axiomatic-systems/Bento4)](https://github.com/axiomatic-systems/Bento4) - Full-featured MP4 format and MPEG DASH C++ class library and tools.
 * [Brave ![GitHub Repo Stars](https://img.shields.io/github/stars/bbc/brave) ![GitHub last commit](https://img.shields.io/github/last-commit/bbc/brave)](https://github.com/bbc/brave) - Basic Real-time AV Editor - lets you preview, mix, and route live audio and video streams on the cloud.
-* [Codem-isoboxer ![GitHub Repo Stars](https://img.shields.io/github/stars/madebyhiro/codem-isoboxer) ![GitHub last commit](https://img.shields.io/github/last-commit/madebyhiro/codem-isoboxer)](https://github.com/madebyhiro/codem-isoboxer) A small browser-based MPEG-4 (ISOBMFF) parser.
+* [Codem-isoboxer ![GitHub Repo Stars](https://img.shields.io/github/stars/Dash-Industry-Forum/codem-isoboxer) ![GitHub last commit](https://img.shields.io/github/last-commit/Dash-Industry-Forum/codem-isoboxer)](https://github.com/Dash-Industry-Forum/codem-isoboxer) A small browser-based MPEG-4 (ISOBMFF) parser.
 * [Dynamorse ![GitHub Repo Stars](https://img.shields.io/github/stars/Streampunk/node-red-contrib-dynamorse-core) ![GitHub last commit](https://img.shields.io/github/last-commit/Streampunk/node-red-contrib-dynamorse-core)](https://github.com/Streampunk/node-red-contrib-dynamorse-core) - IT swiss army knife - a Node-RED media pipeline builder, adding professional media processing nodes.
 * [EBU ADM Renderer ![GitHub Repo Stars](https://img.shields.io/github/stars/ebu/ebu_adm_renderer) ![GitHub last commit](https://img.shields.io/github/last-commit/ebu/ebu_adm_renderer)](https://github.com/ebu/ebu_adm_renderer) - Reference implementation of the EBU ADM Renderer ([EBU Tech 3388](https://tech.ebu.ch/publications/tech3388))
 * [FFmbc ![GitHub Repo Stars](https://img.shields.io/github/stars/bcoudurier/FFmbc) ![GitHub last commit](https://img.shields.io/github/last-commit/bcoudurier/FFmbc)](https://github.com/bcoudurier/FFmbc) - FFmpeg customized for broadcast and professional usage.
@@ -191,7 +192,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
 * [KFR](https://www.kfrlib.com/) - Fast, modern C++ DSP framework, DFT/FFT, Audio resampling, FIR/IIR, Biquad, EBU R 128.
 * [L-SMASH ![GitHub Repo Stars](https://img.shields.io/github/stars/l-smash/l-smash) ![GitHub last commit](https://img.shields.io/github/last-commit/l-smash/l-smash)](https://github.com/l-smash/l-smash/) - A rigidly spec-compliant ISOBMFF library, which has full DASH muxing support.
 * [LibAV](https://libav.org/) - Open source audio and video processing tools.
-* [libbw64 ![GitHub Repo Stars](https://img.shields.io/github/stars/irt-open-source/libbw64) ![GitHub last commit](https://img.shields.io/github/last-commit/irt-open-source/libbw64)](https://github.com/irt-open-source/libbw64) – Header-only Broadcast Wave 64 (ITU-R BS.2088) C++11 library.
+* [libbw64 ![GitHub Repo Stars](https://img.shields.io/github/stars/ebu/libbw64) ![GitHub last commit](https://img.shields.io/github/last-commit/ebu/libbw64)](https://github.com/ebu/libbw64) – Header-only Broadcast Wave 64 (ITU-R BS.2088) C++11 library.
 * [libear ![GitHub Repo Stars](https://img.shields.io/github/stars/ebu/libear) ![GitHub last commit](https://img.shields.io/github/last-commit/ebu/libear)](https://github.com/ebu/libear) - A C++11 library to render ADM content according to Recommendation ITU-R BS.2127.
 * [Libebur128 ![GitHub Repo Stars](https://img.shields.io/github/stars/jiixyj/libebur128) ![GitHub last commit](https://img.shields.io/github/last-commit/jiixyj/libebur128)](https://github.com/jiixyj/libebur128) - A library that implements the EBU R 128 standard for loudness normalisation.
 * [Loudness Validator ![GitHub Repo Stars](https://img.shields.io/github/stars/mikrosimage/loudness_validator) ![GitHub last commit](https://img.shields.io/github/last-commit/mikrosimage/loudness_validator)](https://github.com/mikrosimage/loudness_validator) - A set of applications to analyse, visualise and correct the loudness.
@@ -199,11 +200,11 @@ A curated list of amazingly awesome open source resources for broadcasters.
 * [MXFLib](https://sourceforge.net/projects/mxflib/) - A multi-platform C++ library for reading and writing MXF files.
 * [OBS-Studio ![GitHub Repo Stars](https://img.shields.io/github/stars/obsproject/obs-studio) ![GitHub last commit](https://img.shields.io/github/last-commit/obsproject/obs-studio)](https://github.com/obsproject/obs-studio) - Software for live streaming and screen recording.
 * [Open Broadcast Encoder](https://github.com/ob-encoder) - Broadcast encoder built from Open Source components.
-* [rgain](https://bitbucket.org/fk/rgain) - Tools and Python library to read, write and calculate Replay Gain.
+* [rgain3 ![GitHub Repo Stars](https://img.shields.io/github/stars/chaudum/rgain3) ![GitHub last commit](https://img.shields.io/github/last-commit/chaudum/rgain3)](https://github.com/chaudum/rgain3) - Tools and Python3 library to read, write and calculate Replay Gain - fork of the original by Felix Krull.
 * [rtmp ![GitHub Repo Stars](https://img.shields.io/github/stars/c-bata/rtmp) ![GitHub last commit](https://img.shields.io/github/last-commit/c-bata/rtmp)](https://github.com/c-bata/rtmp) - Server implementation of Adobe's RTMP 1.0 protocol in Go.
 * [Snowmix](https://sourceforge.net/projects/snowmix/) - Live Video Mixer.
-* [SoX](http://sox.sourceforge.net/) - The Swiss Army knife of sound processing programs.
-* [SVT Encore ![GitHub Repo Stars](https://img.shields.io/github/stars/svt/encore) ![GitHub last commit](https://img.shields.io/github/last-commit/svt/encore)](https://github.com/svt/encore) - Selfhosted video transcoding plattform, built around FFmpeg.
+* [SoX](https://sox.sourceforge.net/) - The Swiss Army knife of sound processing programs.
+* [SVT Encore ![GitHub Repo Stars](https://img.shields.io/github/stars/svt/encore) ![GitHub last commit](https://img.shields.io/github/last-commit/svt/encore)](https://github.com/svt/encore) - Selfhosted video transcoding platform, built around FFmpeg.
 * [TuttleOFX ![GitHub Repo Stars](https://img.shields.io/github/stars/tuttleofx/TuttleOFX) ![GitHub last commit](https://img.shields.io/github/last-commit/tuttleofx/TuttleOFX)](https://github.com/tuttleofx/TuttleOFX) - An open source image processing framework based on OpenFX plugin standard.
 * [UPipe ![GitHub Repo Stars](https://img.shields.io/github/stars/cmassiot/upipe) ![GitHub last commit](https://img.shields.io/github/last-commit/cmassiot/upipe)](https://github.com/cmassiot/upipe/) - Primarily designed to be the core of a multimedia player, transcoder or streamer.
 * [VideoContext ![GitHub Repo Stars](https://img.shields.io/github/stars/bbc/videocontext) ![GitHub last commit](https://img.shields.io/github/last-commit/bbc/videocontext)](https://github.com/bbc/videocontext) - Experimental HTML5/WebGL library for creating interactive and responsive web videos.
@@ -221,9 +222,9 @@ A curated list of amazingly awesome open source resources for broadcasters.
 
 ## NMOS
 
-The [Networked Media Open Specifications](https://specs.amwa.tv/nmos) are themselves open source.
+The [Networked Media Open Specifications](https://specs.amwa.tv/nmos/) are themselves open source.
 
-* [AMWA NMOS Testing Tool](https://specs.amwa.tv/nmos-testing) - Automated test suites for the AMWA NMOS family of specifications, as used in the [JT-NM Tested](https://jt-nm.org/jt-nm_tested/) programme
+* [AMWA NMOS Testing Tool](https://specs.amwa.tv/nmos-testing/) - Automated test suites for the AMWA NMOS family of specifications, as used in the [JT-NM Tested](https://www.jt-nm.org/jt-nm-tested) programme
 * [BBC NMOS Joint Reference Implementation ![GitHub Repo Stars](https://img.shields.io/github/stars/bbc/nmos-joint-ri) ![GitHub last commit](https://img.shields.io/github/last-commit/bbc/nmos-joint-ri)](https://github.com/bbc/nmos-joint-ri) - A Vagrant provisioning to build 4 virtual machines, an IS-04/IS-05 Node, IS-04 Registry, BCP-003-02 Authorisation Server, and the NMOS Testing Tool.
 * [DELTACAST IP Virtual Card NMOS samples ![GitHub Repo Stars](https://img.shields.io/github/stars/deltacasttv/nmos-ipvc-samples) ![GitHub last commit](https://img.shields.io/github/last-commit/deltacasttv/nmos-ipvc-samples)](https://github.com/deltacasttv/nmos-ipvc-samples) - A demonstration of the integration of several NMOS standards with the DELTACAST IP Virtual Card through [nmos-cpp ![GitHub Repo Stars](https://img.shields.io/github/stars/sony/nmos-cpp) ![GitHub last commit](https://img.shields.io/github/last-commit/sony/nmos-cpp)](https://github.com/sony/nmos-cpp).
 * [Easy-NMOS ![GitHub Repo Stars](https://img.shields.io/github/stars/rhastie/easy-nmos) ![GitHub last commit](https://img.shields.io/github/last-commit/rhastie/easy-nmos)](https://github.com/rhastie/easy-nmos) - A starter kit that allows the user to launch a simple NMOS setup with minimal installation steps, composed of three Docker containers: an NMOS Registry, a virtual NMOS Node, and the AMWA NMOS Testing Tool.
@@ -269,7 +270,7 @@ The [Networked Media Open Specifications](https://specs.amwa.tv/nmos) are themse
 
 ## Subtitling
 
-* [CCExtractor](http://ccextractor.sourceforge.net/about-ccextractor.html) - A tool that analyzes video files and produces stand-alone subtitle files.
+* [CCExtractor](https://ccextractor.sourceforge.net/about-ccextractor.html) - A tool that analyzes video files and produces stand-alone subtitle files.
 * [EBU-TT-D Subtitling within dash.js ![GitHub Repo Stars](https://img.shields.io/github/stars/ebu/dash.js) ![GitHub last commit](https://img.shields.io/github/last-commit/ebu/dash.js)](https://github.com/ebu/dash.js/tree/ebu-subtitling-dev) - dash.js fork with EBU-TT-D subtitles in HTML/CSS overlay. Later added to [dash.js ![GitHub Repo Stars](https://img.shields.io/github/stars/ebu/dash.js) ![GitHub last commit](https://img.shields.io/github/last-commit/ebu/dash.js)](https://github.com/ebu/dash.js).
 * [EBU-TT-D W3C XML Schema ![GitHub Repo Stars](https://img.shields.io/github/stars/ebu/ebu-tt-d-xsd) ![GitHub last commit](https://img.shields.io/github/last-commit/ebu/ebu-tt-d-xsd)](https://github.com/ebu/ebu-tt-d-xsd/) - Informative EBU-TT-D XML Schema to support the implementation of EBU Tech 3380.
 * [EBU-TT Live Interoperability Toolkit ![GitHub Repo Stars](https://img.shields.io/github/stars/ebu/ebu-tt-live-toolkit) ![GitHub last commit](https://img.shields.io/github/last-commit/ebu/ebu-tt-live-toolkit)](https://github.com/ebu/ebu-tt-live-toolkit) - Components for generating, testing and distributing [EBU-TT Live](https://tech.ebu.ch/publications/tech3370) subtitles.
@@ -288,7 +289,7 @@ The [Networked Media Open Specifications](https://specs.amwa.tv/nmos) are themse
 ## Video Production
 
 * [AutoMix ![GitHub Repo Stars](https://img.shields.io/github/stars/InsanityRadio/automix) ![GitHub last commit](https://img.shields.io/github/last-commit/InsanityRadio/automix)](https://github.com/InsanityRadio/automix/) - Web-based control surface for ATEM vision mixers with automated camera switching, designed for visualised radio.
-* [MOS-connection ![GitHub Repo Stars](https://img.shields.io/github/stars/nrkno/tv-automation-mos-connection) ![GitHub last commit](https://img.shields.io/github/last-commit/nrkno/tv-automation-mos-connection)](https://github.com/nrkno/tv-automation-mos-connection) - A JavaScript library for connection and MOS messaging either as MOS device or NRCS.
+* [MOS-connection ![GitHub Repo Stars](https://img.shields.io/github/stars/nrkno/sofie-mos-connection) ![GitHub last commit](https://img.shields.io/github/last-commit/nrkno/sofie-mos-connection)](https://github.com/nrkno/sofie-mos-connection) - A JavaScript library for connection and MOS messaging either as MOS device or NRCS.
 * [Open Lighting Architecture (OLA)](https://www.openlighting.org/ola/) - Travel adaptor for the lighting industry, for interconnecting DMX-512, IP and USB.
 * [Q Light Controller+ (QLC+)](https://www.qlcplus.org/) - Cross-platform control of DMX or analogue lighting systems (heads, dimmers, etc.).
 * [QPrompt Teleprompter App](https://qprompt.app) - Convergent teleprompter software that works with studio teleprompters, tablet teleprompters, webcams, and phones.
@@ -297,7 +298,7 @@ The [Networked Media Open Specifications](https://specs.amwa.tv/nmos) are themse
 
 ## Streaming
 
-* [Owncast ![GitHub Repo Stars](https://img.shields.io/github/stars/owncast/owncast) ![GitHub last commit](https://img.shields.io/github/last-commit/owncast/owncast)](https://github.com/owncast/owncast) - Selfhosted video streaming plattform (https://owncast.online/)
+* [Owncast ![GitHub Repo Stars](https://img.shields.io/github/stars/owncast/owncast) ![GitHub last commit](https://img.shields.io/github/last-commit/owncast/owncast)](https://github.com/owncast/owncast) - Selfhosted video streaming platform (https://owncast.online/)
 * [PeerTube ![GitHub Repo Stars](https://img.shields.io/github/stars/Chocobozzz/PeerTube) ![GitHub last commit](https://img.shields.io/github/last-commit/Chocobozzz/PeerTube)](https://github.com/Chocobozzz/PeerTube) - ActivityPub-federated video streaming platform using P2P directly in your web browser. (https://joinpeertube.org/)
 
 # Resources
@@ -310,7 +311,7 @@ Various resources, such as books, websites and articles, for improving your skil
 * [3D CineCast](http://3dcinecast.blogspot.com/) - A curation about new media technologies.
 * [Canal+](https://developers.canal-plus.com/) - CANAL+ Open Source Community.
 * [IRT Lab](https://web.archive.org/web/20210830075332/https://lab.irt.de/) - IRT blog posting developments and demos for all digital audiovisual media technology.
-* [The Netflix Tech Blog](http://techblog.netflix.com/) - A Netflix blog focused on technology and technology issues.
+* [The Netflix Tech Blog](https://netflixtechblog.com/) - A Netflix blog focused on technology and technology issues.
 * [Youtube Engineering and Developers Blog](https://youtube-eng.googleblog.com/) - What's happening with engineering and developers at YouTube.
 
 # Contributing
