@@ -913,6 +913,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 - [ya2s/nvim-nonicons ![GitHub Repo Stars](https://img.shields.io/github/stars/ya2s/nvim-nonicons) ![GitHub last commit](https://img.shields.io/github/last-commit/ya2s/nvim-nonicons)](https://github.com/ya2s/nvim-nonicons) - Collection of configurations for nvim-web-devicons.
 - [ziontee113/icon-picker.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/ziontee113/icon-picker.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/ziontee113/icon-picker.nvim)](https://github.com/ziontee113/icon-picker.nvim) - Help you pick 𝑨𝕃𝚻 Font Characters, Symbols Σ, Nerd Font Icons  & Emojis.
 - [2KAbhishek/nerdy.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/2KAbhishek/nerdy.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/2KAbhishek/nerdy.nvim)](https://github.com/2KAbhishek/nerdy.nvim/) - Find and insert the latest nerd font glyphs.
+- [`stephansama/fzf-nerdfont.nvim` ![GitHub Repo Stars](https://img.shields.io/github/stars/stephansama/fzf-nerdfont.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/stephansama/fzf-nerdfont.nvim)](https://github.com/stephansama/fzf-nerdfont.nvim) - A picker for selecting Nerd Font icons using `fzf-lua`.
 
 <!--lint disable double-link -->
 
@@ -1359,6 +1360,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 - [Kohei-Wada/yadm-git.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/Kohei-Wada/yadm-git.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/Kohei-Wada/yadm-git.nvim)](https://github.com/Kohei-Wada/yadm-git.nvim) - Seamless Git plugin support for yadm dotfiles.
 - [axkirillov/unified.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/axkirillov/unified.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/axkirillov/unified.nvim)](https://github.com/axkirillov/unified.nvim) - Displaying inline unified diffs directly in your buffer.
 - [StackInTheWild/headhunter.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/StackInTheWild/headhunter.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/StackInTheWild/headhunter.nvim)](https://github.com/StackInTheWild/headhunter.nvim) - Hunt and resolve merge conflicts directly in Neovim — fast and simple.
+- [yus-works/csc.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/yus-works/csc.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/yus-works/csc.nvim)](https://github.com/yus-works/csc.nvim) - Conventional commit scope completion that learns from git history.
 - [404pilo/aicommits.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/404pilo/aicommits.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/404pilo/aicommits.nvim)](https://github.com/404pilo/aicommits.nvim) - Generate conventional commit messages using AI.
 
 ### GitHub
