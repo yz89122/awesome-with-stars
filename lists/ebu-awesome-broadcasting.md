@@ -99,7 +99,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
 * [NodeCG](https://www.nodecg.dev/) - Broadcast graphics rendered in a browser using Node.js.
 * [Open Playout Automation ![GitHub Repo Stars](https://img.shields.io/github/stars/jaskie/PlayoutAutomation) ![GitHub last commit](https://img.shields.io/github/last-commit/jaskie/PlayoutAutomation)](https://github.com/jaskie/PlayoutAutomation) - A CasparCG-based MCR play-out system.
 * [ossia](https://ossia.io/) - A free and open-source intermedia sequencer.
-* [Sofie - TV Automation ![GitHub Repo Stars](https://img.shields.io/github/stars/nrkno/Sofie-TV-automation) ![GitHub last commit](https://img.shields.io/github/last-commit/nrkno/Sofie-TV-automation)](https://github.com/nrkno/Sofie-TV-automation) - MOS-driven automation system for news casts, with many libraries for e.g. device control.
+* [Sofie - TV Automation ![GitHub Repo Stars](https://img.shields.io/github/stars/Sofie-Automation/Sofie-TV-automation) ![GitHub last commit](https://img.shields.io/github/last-commit/Sofie-Automation/Sofie-TV-automation)](https://github.com/Sofie-Automation/Sofie-TV-automation) - MOS-driven automation system for news casts, with many libraries for e.g. device control.
 * [SPX - Graphics Controller ![GitHub Repo Stars](https://img.shields.io/github/stars/TuomoKu/SPX-GC) ![GitHub last commit](https://img.shields.io/github/last-commit/TuomoKu/SPX-GC)](https://github.com/TuomoKu/SPX-GC) - Graphics control client for live video productions and live streams.
 * [StreamShapers - Ferryman ![GitHub Repo Stars](https://img.shields.io/github/stars/Streamshapers/StreamShapers-Ferryman) ![GitHub last commit](https://img.shields.io/github/last-commit/Streamshapers/StreamShapers-Ferryman)](https://github.com/Streamshapers/StreamShapers-Ferryman) - Web App to generate HTML-Graphics from Lottie.JSON files / from Adobe AfterEffects.
 * [Studio TV Player ![GitHub Repo Stars](https://img.shields.io/github/stars/jaskie/StudioTVPlayer) ![GitHub last commit](https://img.shields.io/github/last-commit/jaskie/StudioTVPlayer)](https://github.com/jaskie/StudioTVPlayer) - Simple TV studio player with SDI, NDI and MPEG TS outputs.
@@ -126,13 +126,13 @@ A curated list of amazingly awesome open source resources for broadcasters.
 * See the [NMOS](#nmos) list for the AMWA Networked Media Open Specifications and open source implementations and tools.
 * [OpenOB](https://jamesharrison.github.io/openob/) - Open Outside Broadcast project for radio contribution links and studio-transmitter links based on Opus.
 * [PJSIP](https://www.pjsip.org/) - Open Source multimedia library implementing SIP, SDP, RTP, STUN, TURN, and ICE.
-* [trx](http://www.pogo.org.uk/~mark/trx/) - A simple toolset for broadcasting live audio from Linux.
+* [trx](https://www.pogo.org.uk/~mark/trx/) - A simple toolset for broadcasting live audio from Linux.
 * [VideoIPath-Automation-Tool ![GitHub Repo Stars](https://img.shields.io/github/stars/SWR-MoIP/VideoIPath-Automation-Tool) ![GitHub last commit](https://img.shields.io/github/last-commit/SWR-MoIP/VideoIPath-Automation-Tool)](https://github.com/SWR-MoIP/VideoIPath-Automation-Tool) - A Python package for automating VideoIPath configuration workflows.
 
 ## Media Players
 
 * [Dash.js ![GitHub Repo Stars](https://img.shields.io/github/stars/ebu/dash.js) ![GitHub last commit](https://img.shields.io/github/last-commit/ebu/dash.js)](https://github.com/ebu/dash.js) - A reference client implementation for the playback of MPEG DASH via Javascript and compliant browsers.
-* [GPAC](https://gpac.wp.imt.fr/home/) - Multimedia player, packager and tools.
+* [GPAC](https://gpac.io/) - Multimedia player, packager and tools.
 * [IDJC](https://idjc.sourceforge.io/) - A GTK+ Shoutcast/Icecast client with two main media players.
 * [Kodi ![GitHub Repo Stars](https://img.shields.io/github/stars/xbmc/xbmc) ![GitHub last commit](https://img.shields.io/github/last-commit/xbmc/xbmc)](https://github.com/xbmc/xbmc) - A software media player and entertainment hub for digital media.
 * [Media4DPlayer]() - HTML5 player focused on accessibility.
@@ -185,7 +185,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
 * [Dynamorse ![GitHub Repo Stars](https://img.shields.io/github/stars/Streampunk/node-red-contrib-dynamorse-core) ![GitHub last commit](https://img.shields.io/github/last-commit/Streampunk/node-red-contrib-dynamorse-core)](https://github.com/Streampunk/node-red-contrib-dynamorse-core) - IT swiss army knife - a Node-RED media pipeline builder, adding professional media processing nodes.
 * [EBU ADM Renderer ![GitHub Repo Stars](https://img.shields.io/github/stars/ebu/ebu_adm_renderer) ![GitHub last commit](https://img.shields.io/github/last-commit/ebu/ebu_adm_renderer)](https://github.com/ebu/ebu_adm_renderer) - Reference implementation of the EBU ADM Renderer ([EBU Tech 3388](https://tech.ebu.ch/publications/tech3388))
 * [FFmbc ![GitHub Repo Stars](https://img.shields.io/github/stars/bcoudurier/FFmbc) ![GitHub last commit](https://img.shields.io/github/last-commit/bcoudurier/FFmbc)](https://github.com/bcoudurier/FFmbc) - FFmpeg customized for broadcast and professional usage.
-* [FFmpeg](http://ffmpeg.org) - A cross-platform solution to record, convert and stream audio and video. Supports SMPTE ST 2110.
+* [FFmpeg](https://ffmpeg.org) - A cross-platform solution to record, convert and stream audio and video. Supports SMPTE ST 2110.
 * [Flowblade ![GitHub Repo Stars](https://img.shields.io/github/stars/jliljebl/flowblade) ![GitHub last commit](https://img.shields.io/github/last-commit/jliljebl/flowblade)](https://github.com/jliljebl/flowblade) - A multitrack non-linear video editor.
 * [GStreamer](https://gstreamer.freedesktop.org/) - A library for constructing graphs of media-handling components.
 * [Kelvinadon ![GitHub Repo Stars](https://img.shields.io/github/stars/Streampunk/kelvinadon) ![GitHub last commit](https://img.shields.io/github/last-commit/Streampunk/kelvinadon)](https://github.com/Streampunk/kelvinadon) - Node.JS pure Javascript module for streaming MXF files to and from JSON.
@@ -240,8 +240,8 @@ The [Networked Media Open Specifications](https://specs.amwa.tv/nmos/) are thems
 * [Anytime Podcast Player ![GitHub Repo Stars](https://img.shields.io/github/stars/amugofjava/anytime_podcast_player) ![GitHub last commit](https://img.shields.io/github/last-commit/amugofjava/anytime_podcast_player)](https://github.com/amugofjava/anytime_podcast_player) - Free and easy to use podcast player for Android and iOS ([anytimeplayer.app](https://anytimeplayer.app/)).
 * [Castopod ![GitHub Repo Stars](https://img.shields.io/github/stars/ad-aures/castopod) ![GitHub last commit](https://img.shields.io/github/last-commit/ad-aures/castopod)](https://github.com/ad-aures/castopod) - Podcast Hosting and Broadcasting ([castopod.org](https://castopod.org/)).
 * [gPodder ![GitHub Repo Stars](https://img.shields.io/github/stars/gpodder/gpodder) ![GitHub last commit](https://img.shields.io/github/last-commit/gpodder/gpodder)](https://github.com/gpodder/gpodder) - Media aggregator and podcast client ([gpodder.org](https://gpodder.org/)).
-* [Podlove Publisher ![GitHub Repo Stars](https://img.shields.io/github/stars/podlove/podlove-publisher) ![GitHub last commit](https://img.shields.io/github/last-commit/podlove/podlove-publisher)](https://github.com/podlove/podlove-publisher) - Podcast Publisher for WordPress ([podlove.org](https://podlove.org/podlove-podcast-publisher)).
-* [Podlove Web Player ![GitHub Repo Stars](https://img.shields.io/github/stars/podlove/podlove-ui) ![GitHub last commit](https://img.shields.io/github/last-commit/podlove/podlove-ui)](https://github.com/podlove/podlove-ui) - Podcast-optimized, HTML5-based video and audio player ([podlove.org](https://podlove.org/podlove-web-player)).
+* [Podlove Publisher ![GitHub Repo Stars](https://img.shields.io/github/stars/podlove/podlove-publisher) ![GitHub last commit](https://img.shields.io/github/last-commit/podlove/podlove-publisher)](https://github.com/podlove/podlove-publisher) - Podcast Publisher for WordPress ([podlove.org](https://podlove.org/podlove-podcast-publisher/)).
+* [Podlove Web Player ![GitHub Repo Stars](https://img.shields.io/github/stars/podlove/podlove-ui) ![GitHub last commit](https://img.shields.io/github/last-commit/podlove/podlove-ui)](https://github.com/podlove/podlove-ui) - Podcast-optimized, HTML5-based video and audio player ([podlove.org](https://podlove.org/podlove-web-player/)).
 * [Ultraschall](https://github.com/Ultraschall) - Suite of Plugins and UI tweaks to use with the DAW [Reaper](https://www.reaper.fm/) tailored towards Podcasters ([ultraschall.fm](https://ultraschall.fm/))
 
 ## Radio Production
@@ -252,7 +252,7 @@ The [Networked Media Open Specifications](https://specs.amwa.tv/nmos/) are thems
 * [AzuraCast ![GitHub Repo Stars](https://img.shields.io/github/stars/AzuraCast/AzuraCast) ![GitHub last commit](https://img.shields.io/github/last-commit/AzuraCast/AzuraCast)](https://github.com/AzuraCast/AzuraCast) - A self-hosted web radio management suite.
 * [LibreTime](https://libretime.org/) - Radio broadcast & automation platform (fork of Airtime).
 * [Liquidsoap ![GitHub Repo Stars](https://img.shields.io/github/stars/savonet/liquidsoap) ![GitHub last commit](https://img.shields.io/github/last-commit/savonet/liquidsoap)](https://github.com/savonet/liquidsoap) - A Swiss army knife for multimedia streaming ([documentation](https://www.liquidsoap.info/doc.html)).
-* [OpenBroadcaster](https://openbroadcaster.com/) Open Source LPFM IPTV Broadcast Automation. [Server and Player code here](https://github.com/openbroadcaster).
+* [OpenBroadcaster](https://www.openbroadcaster.com/) Open Source LPFM IPTV Broadcast Automation. [Server and Player code here](https://github.com/openbroadcaster).
 * [RAAR ![GitHub Repo Stars](https://img.shields.io/github/stars/radiorabe/raar) ![GitHub last commit](https://img.shields.io/github/last-commit/radiorabe/raar)](https://github.com/radiorabe/raar) - A ruby application to manage and browse an audio archive.
 * [Rivendell ![GitHub Repo Stars](https://img.shields.io/github/stars/ElvishArtisan/rivendell) ![GitHub last commit](https://img.shields.io/github/last-commit/ElvishArtisan/rivendell)](https://github.com/ElvishArtisan/rivendell) - Complete radio broadcast automation solution, translated to many languages and used worldwide.
 
@@ -263,7 +263,7 @@ The [Networked Media Open Specifications](https://specs.amwa.tv/nmos/) are thems
 ## Software-defined radio
 
 * [GNU Radio](https://www.gnuradio.org/) - A software development toolkit that provides signal processing blocks to implement software radios.
-* [Gqrx SDR](https://gqrx.dk/) - An open source software defined radio receiver (SDR).
+* [Gqrx SDR](https://www.gqrx.dk/) - An open source software defined radio receiver (SDR).
 * [ODR-mmbTools](https://www.opendigitalradio.org) - Fork of CRC-mmbTools. Adds live, DAB+, associated data, distributed infrastructure, SFN.
 * [rtl-sdr](https://osmocom.org/projects/rtl-sdr/wiki/rtl-sdr) - Turns a Realtek RTL2832 based DVB dongle into a SDR receiver.
 * [welle.io](https://www.welle.io/) - An open source DAB and DAB+ software defined radio (SDR) with support for airspy and rtlsdr.
@@ -289,11 +289,11 @@ The [Networked Media Open Specifications](https://specs.amwa.tv/nmos/) are thems
 ## Video Production
 
 * [AutoMix ![GitHub Repo Stars](https://img.shields.io/github/stars/InsanityRadio/automix) ![GitHub last commit](https://img.shields.io/github/last-commit/InsanityRadio/automix)](https://github.com/InsanityRadio/automix/) - Web-based control surface for ATEM vision mixers with automated camera switching, designed for visualised radio.
-* [MOS-connection ![GitHub Repo Stars](https://img.shields.io/github/stars/nrkno/sofie-mos-connection) ![GitHub last commit](https://img.shields.io/github/last-commit/nrkno/sofie-mos-connection)](https://github.com/nrkno/sofie-mos-connection) - A JavaScript library for connection and MOS messaging either as MOS device or NRCS.
+* [MOS-connection ![GitHub Repo Stars](https://img.shields.io/github/stars/Sofie-Automation/sofie-mos-connection) ![GitHub last commit](https://img.shields.io/github/last-commit/Sofie-Automation/sofie-mos-connection)](https://github.com/Sofie-Automation/sofie-mos-connection) - A JavaScript library for connection and MOS messaging either as MOS device or NRCS.
 * [Open Lighting Architecture (OLA)](https://www.openlighting.org/ola/) - Travel adaptor for the lighting industry, for interconnecting DMX-512, IP and USB.
 * [Q Light Controller+ (QLC+)](https://www.qlcplus.org/) - Cross-platform control of DMX or analogue lighting systems (heads, dimmers, etc.).
 * [QPrompt Teleprompter App](https://qprompt.app) - Convergent teleprompter software that works with studio teleprompters, tablet teleprompters, webcams, and phones.
-* [TallyArbiter](http://tallyarbiter.com/) - Cross-platform Tally interfacer & tally lights for any camera via phones or low-cost hardware.
+* [TallyArbiter](https://tallyarbiter.com/) - Cross-platform Tally interfacer & tally lights for any camera via phones or low-cost hardware.
 * [vMix-EmberPlus ![GitHub Repo Stars](https://img.shields.io/github/stars/mattlamb99/vMix-EmberPlus) ![GitHub last commit](https://img.shields.io/github/last-commit/mattlamb99/vMix-EmberPlus)](https://github.com/mattlamb99/vMix-EmberPlus) - vMix to EmberPlus gateway. Control vMix from any EmberPlus broadcast controller like Lawo's VSM or EVS's Cerebrum.
 
 ## Streaming
