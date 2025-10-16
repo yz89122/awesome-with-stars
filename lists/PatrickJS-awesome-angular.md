@@ -1548,6 +1548,7 @@ to simplify usage and allow quick customization.
 * [translation-validation ![GitHub Repo Stars](https://img.shields.io/github/stars/RiskChallenger/translation-validation) ![GitHub last commit](https://img.shields.io/github/last-commit/RiskChallenger/translation-validation)](https://github.com/RiskChallenger/translation-validation) - Automatic validation messages for Angular forms in any language.
 * [polish-validators ![GitHub Repo Stars](https://img.shields.io/github/stars/joker876/polish-validators) ![GitHub last commit](https://img.shields.io/github/last-commit/joker876/polish-validators)](https://github.com/joker876/polish-validators) - A validation library designed for Polish-specific formats, also available as an Angular wrapper via [ngx-polish-validators](https://www.npmjs.com/package/ngx-polish-validators).
 * [ngx-mat-errors ![GitHub Repo Stars](https://img.shields.io/github/stars/Totati/ngx-mat-errors) ![GitHub last commit](https://img.shields.io/github/last-commit/Totati/ngx-mat-errors)](https://github.com/Totati/ngx-mat-errors) - Offers a simple and adaptable approach to presenting error messages within a `MatFormField`.
+* [oop-validator ![GitHub Repo Stars](https://img.shields.io/github/stars/visaruruqi/oop-validator) ![GitHub last commit](https://img.shields.io/github/last-commit/visaruruqi/oop-validator)](https://github.com/visaruruqi/oop-validator) - A powerful, flexible validation library that works effortlessly with any UI framework—Vue.js, React, Angular, and more—offering a complete solution for front-end validation.
 
 ### Icons
 
@@ -2163,6 +2164,7 @@ for the creation of web applications developed with Angular.
 
 ### Cross-Framework Integration
 
+* [detector ![GitHub Repo Stars](https://img.shields.io/github/stars/kitium-ai/detector) ![GitHub last commit](https://img.shields.io/github/last-commit/kitium-ai/detector)](https://github.com/kitium-ai/detector) - A zero-dependency, TypeScript-first library for fast, universal detection of platforms, frameworks, browsers, and capabilities.
 * [ngx-react ![GitHub Repo Stars](https://img.shields.io/github/stars/ngeenx/ngx-react) ![GitHub last commit](https://img.shields.io/github/last-commit/ngeenx/ngx-react)](https://github.com/ngeenx/ngx-react) - Embed React components or apps into Angular projects.
 * [ngx-reactify ![GitHub Repo Stars](https://img.shields.io/github/stars/knackstedt/ngx-reactify) ![GitHub last commit](https://img.shields.io/github/last-commit/knackstedt/ngx-reactify)](https://github.com/knackstedt/ngx-reactify) - Library to make running Angular and React applications together easy.
 * [ng-react-bridge ![GitHub Repo Stars](https://img.shields.io/github/stars/john310897/ng-react-bridge) ![GitHub last commit](https://img.shields.io/github/last-commit/john310897/ng-react-bridge)](https://github.com/john310897/ng-react-bridge) - A lightweight Angular package that enables developers to seamlessly render React components inside Angular components using a directive.

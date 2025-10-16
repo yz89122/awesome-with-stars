@@ -271,7 +271,7 @@ _Templates / boilerplate / starter kits / stack ensemble / Yeoman generator._
 
 ### Drag & Drop
 
-- [neodrag ![GitHub Repo Stars](https://img.shields.io/github/stars/PuruVJ/neodrag) ![GitHub last commit](https://img.shields.io/github/last-commit/PuruVJ/neodrag)](https://github.com/PuruVJ/neodrag) - One Draggable to rule them all ��.
+- [neodrag ![GitHub Repo Stars](https://img.shields.io/github/stars/PuruVJ/neodrag) ![GitHub last commit](https://img.shields.io/github/last-commit/PuruVJ/neodrag)](https://github.com/PuruVJ/neodrag) - One Draggable to rule them all 💍.
 - sveltednd(https://github.com/thisuxhq/sveltednd) - A lightweight, flexible drag and drop library for Svelte 5 applications.
 
 ### Forms
