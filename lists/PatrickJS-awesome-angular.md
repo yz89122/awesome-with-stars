@@ -760,6 +760,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ng-openapi ![GitHub Repo Stars](https://img.shields.io/github/stars/ng-openapi/ng-openapi) ![GitHub last commit](https://img.shields.io/github/last-commit/ng-openapi/ng-openapi)](https://github.com/ng-openapi/ng-openapi) - Angular OpenAPI Client Generator.
 * [tmf ![GitHub Repo Stars](https://img.shields.io/github/stars/tripsnek/tmf) ![GitHub last commit](https://img.shields.io/github/last-commit/tripsnek/tmf)](https://github.com/tripsnek/tmf) - A lightweight TypeScript port of Eclipse Modeling Framework (EMF), this tool enables model-driven development with type-safe, reflective data models that integrate effortlessly across Node.js, Java, and Angular/React frontends.
 * [polyfront-scaffold ![GitHub Repo Stars](https://img.shields.io/github/stars/NirmalSamaranayaka/polyfront-scaffold) ![GitHub last commit](https://img.shields.io/github/last-commit/NirmalSamaranayaka/polyfront-scaffold)](https://github.com/NirmalSamaranayaka/polyfront-scaffold) - A generator that offers a wide range of configuration options to build a flexible, scalable Angular app tailored to your development needs.
+* [orval ![GitHub Repo Stars](https://img.shields.io/github/stars/orval-labs/orval) ![GitHub last commit](https://img.shields.io/github/last-commit/orval-labs/orval)](https://github.com/orval-labs/orval) - Generate, validate, cache and mock in your frontend applications, based on your OpenAPI specification.
 
 ### Internationalization
 
