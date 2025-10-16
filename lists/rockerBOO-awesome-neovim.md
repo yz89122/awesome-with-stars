@@ -953,6 +953,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 
 ## Note Taking
 
+- [apdot/doodle ![GitHub Repo Stars](https://img.shields.io/github/stars/apdot/doodle) ![GitHub last commit](https://img.shields.io/github/last-commit/apdot/doodle)](https://github.com/apdot/doodle) - A developer-centric knowledge base with project/branch scoped notes, bi-directional linking, note-tagging, graph-view, telescope integration, and Git synchronization.
 - [jameswolensky/marker-groups.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/jameswolensky/marker-groups.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/jameswolensky/marker-groups.nvim)](https://github.com/jameswolensky/marker-groups.nvim) - Take persistent code notes without modifying code.
 - [bngarren/checkmate.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/bngarren/checkmate.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/bngarren/checkmate.nvim)](https://github.com/bngarren/checkmate.nvim) - A full-featured Markdown-based todo plugin.
 - [lfilho/note2cal.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/lfilho/note2cal.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/lfilho/note2cal.nvim)](https://github.com/lfilho/note2cal.nvim) - Quickly send events from your notes to your calendar (i.e. `Do something @ 3pm-3pm` --> will block that time on your calendar.
