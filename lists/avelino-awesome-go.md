@@ -453,7 +453,7 @@ _Libraries for building standard or basic Command Line applications._
 - [wlog ![GitHub Repo Stars](https://img.shields.io/github/stars/dixonwille/wlog) ![GitHub last commit](https://img.shields.io/github/last-commit/dixonwille/wlog)](https://github.com/dixonwille/wlog) - Simple logging interface that supports cross-platform color and concurrency.
 - [wmenu ![GitHub Repo Stars](https://img.shields.io/github/stars/dixonwille/wmenu) ![GitHub last commit](https://img.shields.io/github/last-commit/dixonwille/wmenu)](https://github.com/dixonwille/wmenu) - Easy to use menu structure for cli applications that prompt users to make choices.
 
-**[��� back to top](#contents)**
+**[⬆ back to top](#contents)**
 
 ## Configuration
 
