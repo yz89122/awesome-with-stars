@@ -1686,7 +1686,7 @@ Language: English, português, 中文, français, Deutsch, русский, 日�
 
 [__Metrix Market__](https://discord.com/invite/5nwrTwJ) [<img height="16px" width="16px" alt="Official Badge" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/homepage.webp">](https://www.metrixcoin.com/) [<img height="16px" width="16px" alt="Git Repository" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/git.webp">](https://github.com/TheLindaProjectInc) \
 Notable Channels: `#metrix-discussion`, `#day_trading` \
-Language: English, Nederlands, עִבְרִית‎, 日本語, 中文, 한국어, Deutsch, português, español français, italiano, 한국어, русский, Türkçe, język polski
+Language: English, Nederlands, עִבְרִית‎, 日本語, 中文, 한국어, Deutsch, português, español français, italiano, 한국어, р��сский, Türkçe, język polski
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/nano.webp">
 
