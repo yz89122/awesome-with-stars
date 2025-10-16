@@ -1773,6 +1773,8 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 ## Database
 
 - [zongben/dbout.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/zongben/dbout.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/zongben/dbout.nvim)](https://github.com/zongben/dbout.nvim) - Manage database connections and run SQL queries directly in Neovim with JSON results.
+- [Kurren123/mssql.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/Kurren123/mssql.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/Kurren123/mssql.nvim)](https://github.com/Kurren123/mssql.nvim) - A Microsoft SQL Server plugin.
+- [kndndrj/nvim-dbee ![GitHub Repo Stars](https://img.shields.io/github/stars/kndndrj/nvim-dbee) ![GitHub last commit](https://img.shields.io/github/last-commit/kndndrj/nvim-dbee)](https://github.com/kndndrj/nvim-dbee) - Interactive database client.
 - [tashikomaaa/neomongo.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/tashikomaaa/neomongo.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/tashikomaaa/neomongo.nvim)](https://github.com/tashikomaaa/neomongo.nvim) - Explore, query, and edit MongoDB collections directly through a Telescope-powered dashboard.
 
 <!--lint disable double-link -->
