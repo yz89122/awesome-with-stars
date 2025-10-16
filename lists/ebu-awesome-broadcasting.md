@@ -79,7 +79,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
 
 * [DTT 2 IP ![GitHub Repo Stars](https://img.shields.io/github/stars/ebu/dtt2ip) ![GitHub last commit](https://img.shields.io/github/last-commit/ebu/dtt2ip)](https://github.com/ebu/dtt2ip) - Broadcast to IP conversion for Wifi indoor coverage.
 * [DVB Inspector](https://sourceforge.net/projects/dvbinspector/) - An open-source DVB analyzer.
-* [DVBlast](http://www.videolan.org/projects/dvblast.html) - A simple and powerful MPEG-2/TS demux and streaming application.
+* [DVBlast](https://www.videolan.org/projects/dvblast.html) - A simple and powerful MPEG-2/TS demux and streaming application.
 * [dvbshout ![GitHub Repo Stars](https://img.shields.io/github/stars/njh/dvbshout) ![GitHub last commit](https://img.shields.io/github/last-commit/njh/dvbshout)](https://github.com/njh/dvbshout) - Tool to send DVB audio to a shoutcast server or a RTP stream.
 * [Opencaster ![GitHub Repo Stars](https://img.shields.io/github/stars/aventuri/opencaster) ![GitHub last commit](https://img.shields.io/github/last-commit/aventuri/opencaster)](https://github.com/aventuri/opencaster) - A free and open source MPEG2 transport stream data generator and packet manipulator.
 * [Project X](https://sourceforge.net/projects/project-x/) - DVB demux tool.
@@ -135,7 +135,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
 * [GPAC](https://gpac.io/) - Multimedia player, packager and tools.
 * [IDJC](https://idjc.sourceforge.io/) - A GTK+ Shoutcast/Icecast client with two main media players.
 * [Kodi ![GitHub Repo Stars](https://img.shields.io/github/stars/xbmc/xbmc) ![GitHub last commit](https://img.shields.io/github/last-commit/xbmc/xbmc)](https://github.com/xbmc/xbmc) - A software media player and entertainment hub for digital media.
-* [Media4DPlayer]() - HTML5 player focused on accessibility.
+* [Media4DPlayer ![GitHub Repo Stars](https://img.shields.io/github/stars/ebu/media4Dplayer) ![GitHub last commit](https://img.shields.io/github/last-commit/ebu/media4Dplayer)](https://github.com/ebu/media4Dplayer) - HTML5 player focused on accessibility.
 * [MPD](https://www.musicpd.org/) - A flexible, powerful, server-side application for playing music.
 * [mpg123](https://www.mpg123.de/) - A fast console MPEG Audio Player and decoder library.
 * [Mixxx](https://mixxx.org/) - A free, open source DJ software.
