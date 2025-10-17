@@ -511,7 +511,7 @@ Part 1](https://0fps.net/2014/02/10/replication-in-networked-games-overview-part
 [Radiorunner's Curriculum for the Solo Artist](https://www.brendanmeachen.com/soloartist) 🟪 - A curriculum for self-teaching art. If you want to _really_ hone your skills, this will undoubtedly be worth your time.
 
 
-[DrawABox](https://drawabox.com/) 💠��� - An exhaustive course for the art fundamentals (completely free!)
+[DrawABox](https://drawabox.com/) 💠🟪 - An exhaustive course for the art fundamentals (completely free!)
 
 
 [LoSpec](https://lospec.com/) 🟪 - A Pixel Art gold mine (Job Board, Pallette Database, Tutorials, Resources, and more).
