@@ -1824,6 +1824,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 - [Shaobin-Jiang/IceNvim ![GitHub Repo Stars](https://img.shields.io/github/stars/Shaobin-Jiang/IceNvim) ![GitHub last commit](https://img.shields.io/github/last-commit/Shaobin-Jiang/IceNvim)](https://github.com/Shaobin-Jiang/IceNvim) - A beautiful, powerful and customizable config that is blazingly fast.
 - [ayamir/nvimdots ![GitHub Repo Stars](https://img.shields.io/github/stars/ayamir/nvimdots) ![GitHub last commit](https://img.shields.io/github/last-commit/ayamir/nvimdots)](https://github.com/ayamir/nvimdots) - A well-configured and structured configuration with NixOS support.
 - [adoyle-h/one.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/adoyle-h/one.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/adoyle-h/one.nvim)](https://github.com/adoyle-h/one.nvim) - All-in-one config framework in Lua.
+- [nvim-mini/MiniMax ![GitHub Repo Stars](https://img.shields.io/github/stars/nvim-mini/MiniMax) ![GitHub last commit](https://img.shields.io/github/last-commit/nvim-mini/MiniMax)](https://github.com/nvim-mini/MiniMax) - A collection of self-contained and extensively commented configurations which mostly use MINI tools.
 
 <!--lint disable double-link -->
 
