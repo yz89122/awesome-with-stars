@@ -313,6 +313,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [dnote ![GitHub Repo Stars](https://img.shields.io/github/stars/dnote/dnote) ![GitHub last commit](https://img.shields.io/github/last-commit/dnote/dnote)](https://github.com/dnote/dnote) - A interactive, multi-device notebook.
 - [nb ![GitHub Repo Stars](https://img.shields.io/github/stars/xwmx/nb) ![GitHub last commit](https://img.shields.io/github/last-commit/xwmx/nb)](https://github.com/xwmx/nb) - A note‑taking, bookmarking, archiving, and knowledge base application.
 - [obs ![GitHub Repo Stars](https://img.shields.io/github/stars/Yakitrak/obsidian-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/Yakitrak/obsidian-cli)](https://github.com/Yakitrak/obsidian-cli) - Interact with your Obsidian vault.
+- [journalot ![GitHub Repo Stars](https://img.shields.io/github/stars/jtaylortech/journalot) ![GitHub last commit](https://img.shields.io/github/last-commit/jtaylortech/journalot)](https://github.com/jtaylortech/journalot) - Journaling tool with git sync.
 
 ### Finance
 
