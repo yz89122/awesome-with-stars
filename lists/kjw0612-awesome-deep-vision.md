@@ -228,7 +228,7 @@ Please feel free to [pull requests ![GitHub Repo Stars](https://img.shields.io/g
 
 ### Object Recognition
 * Weakly-supervised learning with convolutional neural networks [[Paper]](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Oquab_Is_Object_Localization_2015_CVPR_paper.pdf)
-  * Maxime Oquab, Leon Bottou, Ivan Laptev, Josef Sivic, Is object localization for free? �� Weakly-supervised learning with convolutional neural networks, CVPR, 2015.
+  * Maxime Oquab, Leon Bottou, Ivan Laptev, Josef Sivic, Is object localization for free? – Weakly-supervised learning with convolutional neural networks, CVPR, 2015.
 * FV-CNN [[Paper]](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Cimpoi_Deep_Filter_Banks_2015_CVPR_paper.pdf)
   * Mircea Cimpoi, Subhransu Maji, Andrea Vedaldi, Deep Filter Banks for Texture Recognition and Segmentation, CVPR, 2015.
 

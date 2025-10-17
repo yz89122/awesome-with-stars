@@ -952,7 +952,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 <!--lint enable double-link -->
 
 ## Note Taking
-
+- [flashcodes-themayankjha/Fknotes.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/flashcodes-themayankjha/Fknotes.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/flashcodes-themayankjha/Fknotes.nvim)](https://github.com/flashcodes-themayankjha/Fknotes.nvim) - Take notes, TODOS from anywhere inside your project, search all todos, get reminders and more.
 - [apdot/doodle ![GitHub Repo Stars](https://img.shields.io/github/stars/apdot/doodle) ![GitHub last commit](https://img.shields.io/github/last-commit/apdot/doodle)](https://github.com/apdot/doodle) - A developer-centric knowledge base with project/branch scoped notes, bi-directional linking, note-tagging, graph-view, telescope integration, and Git synchronization.
 - [jameswolensky/marker-groups.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/jameswolensky/marker-groups.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/jameswolensky/marker-groups.nvim)](https://github.com/jameswolensky/marker-groups.nvim) - Take persistent code notes without modifying code.
 - [bngarren/checkmate.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/bngarren/checkmate.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/bngarren/checkmate.nvim)](https://github.com/bngarren/checkmate.nvim) - A full-featured Markdown-based todo plugin.
