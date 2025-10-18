@@ -806,7 +806,7 @@ A Rust CLI tool that lets you delegate development tasks to AI agents running in
 <details open>
 <summary><h3>General <a href="#awesome-claude-code">🔝</a></h3></summary>
 
-[`ccstatusline` ![GitHub Repo Stars](https://img.shields.io/github/stars/sirmalloc/ccstatusline) ![GitHub last commit](https://img.shields.io/github/last-commit/sirmalloc/ccstatusline)](https://github.com/sirmalloc/ccstatusline) &nbsp; by &nbsp; [sirmalloc](https://github.com/sirmalloc)  &nbsp;&nbsp;���️&nbsp;&nbsp;MIT  
+[`ccstatusline` ![GitHub Repo Stars](https://img.shields.io/github/stars/sirmalloc/ccstatusline) ![GitHub last commit](https://img.shields.io/github/last-commit/sirmalloc/ccstatusline)](https://github.com/sirmalloc/ccstatusline) &nbsp; by &nbsp; [sirmalloc](https://github.com/sirmalloc)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
 A highly customizable status line formatter for Claude Code CLI that displays model info, git branch, token usage, and other metrics in your terminal.
 
 <details>
