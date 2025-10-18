@@ -1935,6 +1935,7 @@ Tools:
 
 * [lw-plugins ![GitHub Repo Stars](https://img.shields.io/github/stars/apr3vau/lw-plugins) ![GitHub last commit](https://img.shields.io/github/last-commit/apr3vau/lw-plugins)](https://github.com/apr3vau/lw-plugins) -  LispWorks Plugins by April & May. OBSD.
   * terminal integration, code folding, side tree, markdown highlighting, Nerd Fonts, fuzzy-matching, enhanced directory mode, expand region, pair editing, SVG rendering…
+* [lw-rich-text](https://codeberg.org/fourier/lw-rich-text/) - LispWorks panes with support for HTML-like markup.
 
 
 ## Atom, Pulsar ##
@@ -2206,6 +2207,7 @@ code must look pretty, documentation is code. [MIT][200].
 * [Declt ![GitHub Repo Stars](https://img.shields.io/github/stars/didierverna/declt) ![GitHub last commit](https://img.shields.io/github/last-commit/didierverna/declt)](https://github.com/didierverna/declt) - Reference manual generator for Common Lisp libraries. Builds a texinfo document that can be further processed into various formats, such as HTML or PDF. BSD.
 * [cl-bibtex ![GitHub Repo Stars](https://img.shields.io/github/stars/mkoeppe/cl-bibtex) ![GitHub last commit](https://img.shields.io/github/last-commit/mkoeppe/cl-bibtex)](https://github.com/mkoeppe/cl-bibtex) - A compatible re-implementation of the BibTeX program in Common Lisp, with a BST-to-CL compiler. [GNU LGPL2.1][11].
 * [adp ![GitHub Repo Stars](https://img.shields.io/github/stars/HectareaGalbis/adp) ![GitHub last commit](https://img.shields.io/github/last-commit/HectareaGalbis/adp)](https://github.com/HectareaGalbis/adp) -  Common Lisp documentation generator using Scribble files. [MIT][200].
+* 🟢 [NEW in 2025] [HyperDoc](https://hyperdoc.khinsen.net/) - scientific publications that combine code, data, and computed results with explanatory text, and software documentation that is an integral part of a software system, rather than a pile of documents remaining outside of it.
 
 See also:
 
