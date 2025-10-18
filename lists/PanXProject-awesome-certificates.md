@@ -190,7 +190,7 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 | Course Name | Course Provider | Level | Hour(s) | Reward |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
 | <a href="https://cognitiveclass.ai/courses/introduction-deep-learning" target="_blank" rel="noopener noreferrer">Deep Learning Fundamentals</a> | IBM / Cognitive Class |Intermediate|3 | <a href="https://www.youracclaim.com/org/ibm/badge/deep-learning-essentials" target="_blank" rel="noopener noreferrer">🏅</a>|
-| <a href="https://cognitiveclass.ai/courses/deep-learning-tensorflow" target="_blank" rel="noopener noreferrer">Deep Learning with TensorFlow</a> | IBM / Cognitive Class |Beginner|3 | <a href="https://www.youracclaim.com/org/ibm/badge/deep-learning-using-tensorflow" target="_blank" rel="noopener noreferrer">🏅</a>|
+| <a href="https://cognitiveclass.ai/courses/deep-learning-tensorflow" target="_blank" rel="noopener noreferrer">Deep Learning with TensorFlow</a> | IBM / Cognitive Class |Beginner|3 | <a href="https://www.youracclaim.com/org/ibm/badge/deep-learning-using-tensorflow" target="_blank" rel="noopener noreferrer">����</a>|
 | <a href="https://cognitiveclass.ai/courses/machine-learning-with-python/" target="_blank" rel="noopener noreferrer">Machine Learning with Python</a> | IBM / Cognitive Class |Beginner|20 | <a href="https://www.youracclaim.com/org/ibm/badge/machine-learning-with-python-level-1" target="_blank" rel="noopener noreferrer">🏅</a>|
 | <a href="https://www.freecodecamp.org/learn/machine-learning-with-python/" target="_blank" rel="noopener noreferrer">Machine Learning with Python Certification</a> | FreeCodeCamp |Professional|300 | 🏆|
 | <a href="https://www.kaggle.com/learn/intro-to-machine-learning" target="_blank" rel="noopener noreferrer">Intro to Machine Learning</a> | Kaggle          | Beginner      | 3     | 🏆     |
@@ -226,7 +226,7 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 | Course Name | Course Provider | Level | Hour(s) | Reward |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
 | <a href="https://www.netacad.com/courses/networking/networking-essentials" target="_blank" rel="noopener noreferrer">Networking Essentials</a> | Cisco Networking Academy | Intermediate | 70 | <a href="https://www.youracclaim.com/org/cisco/badge/networking-essentials" target="_blank" rel="noopener noreferrer">🏅</a>  |
-| <a href="https://learn.saylor.org/course/view.php?id=84" target="_blank" rel="noopener noreferrer">CS402: Computer Communications and Networks</a> | Saylor Academy | Intermediate | 60 | 🏆 |
+| <a href="https://learn.saylor.org/course/view.php?id=790" target="_blank" rel="noopener noreferrer">CS402: Computer Communications and Networks</a> | Saylor Academy | Intermediate | 60 | 🏆 |
 
 <a href="https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents" target="_blank" rel="noopener noreferrer">⬆️</a>
 
