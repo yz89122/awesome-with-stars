@@ -1307,6 +1307,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 
 ## Fennel
 
+- [aileot/nvim-thyme ![GitHub Repo Stars](https://img.shields.io/github/stars/aileot/nvim-thyme) ![GitHub last commit](https://img.shields.io/github/last-commit/aileot/nvim-thyme)](https://github.com/aileot/nvim-thyme) - Zero-overhead Fennel JIT compiler with safety rollbacks and [parinfer-rust ![GitHub Repo Stars](https://img.shields.io/github/stars/eraserhd/parinfer-rust) ![GitHub last commit](https://img.shields.io/github/last-commit/eraserhd/parinfer-rust)](https://github.com/eraserhd/parinfer-rust) integration.
 - [Olical/aniseed ![GitHub Repo Stars](https://img.shields.io/github/stars/Olical/aniseed) ![GitHub last commit](https://img.shields.io/github/last-commit/Olical/aniseed)](https://github.com/Olical/aniseed) - Configure and extend Neovim with Fennel (Lisp to Lua).
 - [Olical/nfnl ![GitHub Repo Stars](https://img.shields.io/github/stars/Olical/nfnl) ![GitHub last commit](https://img.shields.io/github/last-commit/Olical/nfnl)](https://github.com/Olical/nfnl) - Streamlined successor to Aniseed, compiling Fennel to Lua on file write.
 - [Olical/conjure ![GitHub Repo Stars](https://img.shields.io/github/stars/Olical/conjure) ![GitHub last commit](https://img.shields.io/github/last-commit/Olical/conjure)](https://github.com/Olical/conjure) - Interactive evaluation (Clojure, Fennel, Janet, Racket, Hy, MIT Scheme, Guile).
