@@ -240,6 +240,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Devin](https://devin.ai/) - An autonomous AI software engineer by Cognition Labs.
 - [OpenDevin ![GitHub Repo Stars](https://img.shields.io/github/stars/OpenDevin/OpenDevin) ![GitHub last commit](https://img.shields.io/github/last-commit/OpenDevin/OpenDevin)](https://github.com/OpenDevin/OpenDevin) - An autonomous agent designed to navigate the complexities of software engineering. #opensource
 - [Davika ![GitHub Repo Stars](https://img.shields.io/github/stars/stitionai/devika) ![GitHub last commit](https://img.shields.io/github/last-commit/stitionai/devika)](https://github.com/stitionai/devika) - An agentic AI software engineer. #opensource
+- [n8n](https://n8n.io/) - A workflow automation platform that combines AI capabilities with business process automation.
 
 ### Custom assistants
 
