@@ -1093,7 +1093,7 @@ Userscripts can be used w/ the following browsers:
             <img width=511 src="https://cdn.jsdelivr.net/gh/S4N-T0S/JustEat-userscript@7905e8b/example.png"></a>
     </blockquote>
     <blockquote>
-        �� <a href="https://github.com/S4N-T0S/JustEat-userscript/raw/refs/heads/main/JustEat.user.js">
+        💾 <a href="https://github.com/S4N-T0S/JustEat-userscript/raw/refs/heads/main/JustEat.user.js">
             Install</a> /
         📖 <a href="https://github.com/S4N-T0S/JustEat-userscript/#readme">
             Readme</a> /
