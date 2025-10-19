@@ -922,6 +922,7 @@ See also [Are we (I)DE yet?](https://areweideyet.com/) and [Rust Tools](https://
 
 ### Services
 
+* [deepwiki-rs ![GitHub Repo Stars](https://img.shields.io/github/stars/sopaco/deepwiki-rs) ![GitHub last commit](https://img.shields.io/github/last-commit/sopaco/deepwiki-rs)](https://github.com/sopaco/deepwiki-rs) - Transform your codebase into professional architecture documentation. [![crates.io](https://img.shields.io/crates/v/deepwiki-rs?logo=rust)](https://crates.io/crates/deepwiki-rs)
 * [deps.rs ![GitHub Repo Stars](https://img.shields.io/github/stars/deps-rs/deps.rs) ![GitHub last commit](https://img.shields.io/github/last-commit/deps-rs/deps.rs)](https://github.com/deps-rs/deps.rs) - Detect outdated or insecure dependencies
 * [docs.rs](https://docs.rs) - Automatic documentation generation of crates
 
