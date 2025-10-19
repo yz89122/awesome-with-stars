@@ -1033,7 +1033,7 @@ Streamlines pull request creation by handling the entire workflow: creating a ne
 Provides comprehensive PR creation guidance with GitHub CLI, enforcing title conventions, following template structure, and offering concrete command examples with best practices.
 
 <details>
-<summary>📊 GitHub Stats</summary>
+<summary>�� GitHub Stats</summary>
 
 ![GitHub Stats for liam](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=liam&username=liam-hq&all_stats=true&stats_only=true)
 
