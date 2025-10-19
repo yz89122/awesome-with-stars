@@ -557,7 +557,7 @@ A push-to-talk speech transcription setup for Linux using a Python MCP server. R
 </details>
 <br>
 
-[`SuperClaude` ![GitHub Repo Stars](https://img.shields.io/github/stars/SuperClaude-Org/SuperClaude_Framework) ![GitHub last commit](https://img.shields.io/github/last-commit/SuperClaude-Org/SuperClaude_Framework)](https://github.com/SuperClaude-Org/SuperClaude_Framework) &nbsp; by &nbsp; [SuperClaude-Org](https://github.com/SuperClaude-Org)  &nbsp;&nbsp;���️&nbsp;&nbsp;MIT  
+[`SuperClaude` ![GitHub Repo Stars](https://img.shields.io/github/stars/SuperClaude-Org/SuperClaude_Framework) ![GitHub last commit](https://img.shields.io/github/last-commit/SuperClaude-Org/SuperClaude_Framework)](https://github.com/SuperClaude-Org/SuperClaude_Framework) &nbsp; by &nbsp; [SuperClaude-Org](https://github.com/SuperClaude-Org)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
 A versatile configuration framework that enhances Claude Code with specialized commands, cognitive personas, and development methodologies, such as "Introspection" and "Orchestration".
 
 <details>
@@ -1033,7 +1033,7 @@ Streamlines pull request creation by handling the entire workflow: creating a ne
 Provides comprehensive PR creation guidance with GitHub CLI, enforcing title conventions, following template structure, and offering concrete command examples with best practices.
 
 <details>
-<summary>�� GitHub Stats</summary>
+<summary>📊 GitHub Stats</summary>
 
 ![GitHub Stats for liam](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=liam&username=liam-hq&all_stats=true&stats_only=true)
 
