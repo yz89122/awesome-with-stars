@@ -290,6 +290,7 @@
 - [apyra/nvim-unity.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/apyra/nvim-unity) ![GitHub last commit](https://img.shields.io/github/last-commit/apyra/nvim-unity)](https://github.com/apyra/nvim-unity) - Use Neovim as your default Unity editor with full LSP support via OmniSharp.
 - [atomicptr/defold.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/atomicptr/defold.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/atomicptr/defold.nvim)](https://github.com/atomicptr/defold.nvim) - Batteries-included development environment for the Defold game engine.
 - [onlyati/quadlet-lsp.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/onlyati/quadlet-lsp.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/onlyati/quadlet-lsp.nvim)](https://github.com/onlyati/quadlet-lsp.nvim) - Provides completion, hover and other language server features for Podman Quadlet files.
+- [leblocks/hopcsharp.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/leblocks/hopcsharp.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/leblocks/hopcsharp.nvim)](https://github.com/leblocks/hopcsharp.nvim) - Provides LSP-less navigation and type-hierarchy information in C# repositories.
 
 ### Golang
 
@@ -631,7 +632,6 @@
 - [TaDaa/vimade ![GitHub Repo Stars](https://img.shields.io/github/stars/TaDaa/vimade) ![GitHub last commit](https://img.shields.io/github/last-commit/TaDaa/vimade)](https://github.com/TaDaa/vimade) - Dim, fade, tint, animate, and customize colors in your windows and buffers.
 - [xzbdmw/colorful-menu.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/xzbdmw/colorful-menu.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/xzbdmw/colorful-menu.nvim)](https://github.com/xzbdmw/colorful-menu.nvim) - Colorize your auto completion menu using Tree-sitter.
 - [nvzone/minty ![GitHub Repo Stars](https://img.shields.io/github/stars/nvzone/minty) ![GitHub last commit](https://img.shields.io/github/last-commit/nvzone/minty)](https://github.com/nvzone/minty) - Beautifully crafted color tools.
-- [3ZsForInsomnia/pacer.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/3ZsForInsomnia/pacer.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/3ZsForInsomnia/pacer.nvim)](https://github.com/3ZsForInsomnia/pacer.nvim) - Creates a reading pacer by highlighting one word at a time and dimming all text outside the current paragraph-and-some to help you read faster.
 
 <!--lint disable double-link -->
 
