@@ -953,7 +953,7 @@ Quality check hook for Node.js TypeScript projects with TypeScript compilation. 
 CLI tool and template gallery for customizing Claude Code output styles with pre-built templates. Features over 15 templates at the time of writing!
 
 <details>
-<summary>📊 GitHub Stats</summary>
+<summary>���� GitHub Stats</summary>
 
 ![GitHub Stats for ccoutputstyles](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=ccoutputstyles&username=viveknair&all_stats=true&stats_only=true)
 
