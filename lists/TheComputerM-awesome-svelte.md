@@ -62,6 +62,8 @@ Contributions welcome. Add links through pull requests or create an issue to sta
       - [Sublime Text](#sublime-text)
       - [Vim](#vim)
       - [JetBrains](#jetbrains)
+  - [Application Examples](#application-examples)
+    - [Desktop](#desktop)
 
 ## Resources
 
@@ -158,6 +160,7 @@ _UI frameworks for mobile._
 - [Svelte Animations](https://animation-svelte.vercel.app) - Consist of Svelte Magic UI, Svelte Aceternity UI, Svelte Luxe Components over 200+ Free Animation Components & 2 Templates
 - [Svelte Marketing Blocks](https://sv-blocks.vercel.app) - A powerful library of 100+ marketing and UI blocks built using Shadcn Svelte, Tailwind CSS v4, and Svelte 5.
 - [Quaff](https://quaff.dev) - An extensive UI framework featuring modern and elegant components following Material Design 3 principles.
+- [retroui-svelte](https://retroui-svelte.netlify.app) - A retro-styled component library for Svelte built on top of shadcn-svelte, offering 40+ customizable UI components for funky and playful interfaces.
 
 ## UI Components
 
@@ -395,3 +398,9 @@ _Text editor plugins._
 #### JetBrains
 
 - [Svelte](https://plugins.jetbrains.com/plugin/12375-svelte) - Syntax highlighting and support for JetBrains.
+
+## Application Examples
+
+### Desktop
+
+- [Oxide-Lab ![GitHub Repo Stars](https://img.shields.io/github/stars/FerrisMind/oxide-lab) ![GitHub last commit](https://img.shields.io/github/last-commit/FerrisMind/oxide-lab)](https://github.com/FerrisMind/oxide-lab) - Privacy-focused local LLM chat application built with Svelte 5 frontend and Rust backend using the `candle` ML framework.
