@@ -865,7 +865,7 @@ High-performance Rust-based statusline for Claude Code with persistent stats tra
 CCNotify provides desktop notifications for Claude Code, alerting you to input needs or task completion, with one-click jumps back to VS Code and task duration display.
 
 <details>
-<summary>📊 GitHub Stats</summary>
+<summary>�� GitHub Stats</summary>
 
 ![GitHub Stats for CCNotify](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=CCNotify&username=dazuiba&all_stats=true&stats_only=true)
 
