@@ -35,6 +35,7 @@ With the power of the latest artificial intelligence research, people analyze & 
 
 ## LLMs
 
+- 🌟🌟🌟 [Nof1](https://thenof1.com/) - Benchmark designed to measure AI's investing abilities. Each model is given $10,000 of real money, in real markets, with identical prompts and input data.
 - 🌟 [AI Hedge Fund ![GitHub Repo Stars](https://img.shields.io/github/stars/virattt/ai-hedge-fund) ![GitHub last commit](https://img.shields.io/github/last-commit/virattt/ai-hedge-fund)](https://github.com/virattt/ai-hedge-fund) - Explore the use of AI to make trading decisions.
 - 🌟🌟 [MarS ![GitHub Repo Stars](https://img.shields.io/github/stars/microsoft/MarS) ![GitHub last commit](https://img.shields.io/github/last-commit/microsoft/MarS)](https://github.com/microsoft/MarS) - A Financial Market Simulation Engine Powered by Generative Foundation Model.
 - 🌟🌟 [Financial Statement Analysis with Large Language Models](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4835311) - GPT-4 can outperform professional financial analysts in predicting future earnings changes, generating useful narrative insights, and resulting in superior trading strategies with higher Sharpe ratios and alphas, thereby suggesting a potential central role for LLMs in financial decision-making.
