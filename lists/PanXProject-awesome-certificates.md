@@ -459,7 +459,7 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 
 | Course Name | Course Provider | Level | Hour(s) | Reward |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
-| <a href="https://certiprof.com/pages/business-intelligence-foundation-professional-certification-bifpc" target="_blank" rel="noopener noreferrer">Business Intelligence Foundation Professional</a> | CertiProf |Beginner| 1 |����|
+| <a href="https://certiprof.com/pages/business-intelligence-foundation-professional-certification-bifpc" target="_blank" rel="noopener noreferrer">Business Intelligence Foundation Professional</a> | CertiProf |Beginner| 1 |🏅|
 | <a href="https://www.simplilearn.com/introduction-to-business-analysis-free-course-skillup" target="_blank" rel="noopener noreferrer">Business Analysis Basics</a> | Simplilearn |Beginner| 2 | 🏆 |
 | <a href="https://www.simplilearn.com/learn-power-bi-basics-free-course-skillup" target="_blank" rel="noopener noreferrer">Power BI for Beginners</a> | Simplilearn |Beginner| 6 | 🏆 |
 
