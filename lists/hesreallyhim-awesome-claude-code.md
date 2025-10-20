@@ -865,7 +865,7 @@ High-performance Rust-based statusline for Claude Code with persistent stats tra
 CCNotify provides desktop notifications for Claude Code, alerting you to input needs or task completion, with one-click jumps back to VS Code and task duration display.
 
 <details>
-<summary>�� GitHub Stats</summary>
+<summary>📊 GitHub Stats</summary>
 
 ![GitHub Stats for CCNotify](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=CCNotify&username=dazuiba&all_stats=true&stats_only=true)
 
@@ -953,7 +953,7 @@ Quality check hook for Node.js TypeScript projects with TypeScript compilation. 
 CLI tool and template gallery for customizing Claude Code output styles with pre-built templates. Features over 15 templates at the time of writing!
 
 <details>
-<summary>📊 GitHub Stats</summary>
+<summary>���� GitHub Stats</summary>
 
 ![GitHub Stats for ccoutputstyles](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=ccoutputstyles&username=viveknair&all_stats=true&stats_only=true)
 
