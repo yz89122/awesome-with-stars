@@ -942,7 +942,7 @@ Webpage: embaixadaporto.com
 
 Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
-�� | ✔ | [Praça de Carlos Alberto 121, Porto, Portugal](https://goo.gl/maps/EkUoagQm5Ym) |
+✔ | ✔ | [Praça de Carlos Alberto 121, Porto, Portugal](https://goo.gl/maps/EkUoagQm5Ym) |
 
 ![](http://www.speedtest.net/result/5456704202.png)
 
