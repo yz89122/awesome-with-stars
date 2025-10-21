@@ -1534,6 +1534,7 @@ _Utilities not directly related to the UI_
 - [vue-macros](https://vue-macros.dev) - Explore and extend more macros and syntax sugar to Vue.
 - [unplugin-vue-components ![GitHub Repo Stars](https://img.shields.io/github/stars/unplugin/unplugin-vue-components) ![GitHub last commit](https://img.shields.io/github/last-commit/unplugin/unplugin-vue-components)](https://github.com/unplugin/unplugin-vue-components) - 📲 On-demand components auto importing for Vue.
 - [unplugin-auto-import ![GitHub Repo Stars](https://img.shields.io/github/stars/unplugin/unplugin-auto-import) ![GitHub last commit](https://img.shields.io/github/last-commit/unplugin/unplugin-auto-import)](https://github.com/unplugin/unplugin-auto-import) - Auto import Vue APIs on-demand for Vite, Webpack and Rollup.
+- [vue3-websocket ![GitHub Repo Stars](https://img.shields.io/github/stars/muzychenka/vue3-websocket) ![GitHub last commit](https://img.shields.io/github/last-commit/muzychenka/vue3-websocket)](https://github.com/muzychenka/vue3-websocket) - Validate incoming WebSocket data with Zod.
 
 #### Typescript
 
