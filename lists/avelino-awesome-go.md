@@ -1269,7 +1269,7 @@ _Awesome game development libraries._
 - [termloop ![GitHub Repo Stars](https://img.shields.io/github/stars/JoelOtter/termloop) ![GitHub last commit](https://img.shields.io/github/last-commit/JoelOtter/termloop)](https://github.com/JoelOtter/termloop) - Terminal-based game engine for Go, built on top of Termbox.
 - [tile ![GitHub Repo Stars](https://img.shields.io/github/stars/kelindar/tile) ![GitHub last commit](https://img.shields.io/github/last-commit/kelindar/tile)](https://github.com/kelindar/tile) - Data-oriented and cache-friendly 2D Grid library (TileMap), includes pathfinding, observers and import/export.
 
-**[��� back to top](#contents)**
+**[⬆ back to top](#contents)**
 
 ## Generators
 
