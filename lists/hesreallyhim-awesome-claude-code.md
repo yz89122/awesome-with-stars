@@ -72,6 +72,17 @@ Claude Code is a cutting-edge CLI-based coding assistant and agent released by [
 
 > Resources added in the past 7 days
 
+[`/linux-desktop-slash-commands` ![GitHub Repo Stars](https://img.shields.io/github/stars/danielrosehill/Claude-Code-Linux-Desktop-Slash-Commands) ![GitHub last commit](https://img.shields.io/github/last-commit/danielrosehill/Claude-Code-Linux-Desktop-Slash-Commands)](https://github.com/danielrosehill/Claude-Code-Linux-Desktop-Slash-Commands) &nbsp; by &nbsp; [Daniel Rosehill](https://github.com/danielrosehill)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
+A library of slash commands intended specifically to facilitate common and advanced operations on Linux desktop environments (although many would also be useful on Linux servers). Command groups include hardware benchmarking, filesystem organisation, and security posture validation.
+
+<details>
+<summary>📊 GitHub Stats</summary>
+
+![GitHub Stats for Claude-Code-Linux-Desktop-Slash-Commands](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=Claude-Code-Linux-Desktop-Slash-Commands&username=danielrosehill&all_stats=true&stats_only=true)
+
+</details>
+<br>
+
 [`Rulesync` ![GitHub Repo Stars](https://img.shields.io/github/stars/dyoshikawa/rulesync) ![GitHub last commit](https://img.shields.io/github/last-commit/dyoshikawa/rulesync)](https://github.com/dyoshikawa/rulesync) &nbsp; by &nbsp; [dyoshikawa](https://github.com/dyoshikawa)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
 A Node.js CLI tool that automatically generates configs (rules, ignore files, MCP servers, commands, and subagents) for various AI coding agents. Rulesync can convert configs between Claude Code and other AI agents in both directions.
 
@@ -90,50 +101,6 @@ VoiceMode MCP brings natural conversations to Claude Code. It supports any OpenA
 <summary>📊 GitHub Stats</summary>
 
 ![GitHub Stats for voicemode](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=voicemode&username=mbailey&all_stats=true&stats_only=true)
-
-</details>
-<br>
-
-[`Vibe-Log` ![GitHub Repo Stars](https://img.shields.io/github/stars/vibe-log/vibe-log-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/vibe-log/vibe-log-cli)](https://github.com/vibe-log/vibe-log-cli) &nbsp; by &nbsp; [Vibe-Log](https://github.com/vibe-log)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
-Analyzes your Claude Code prompts locally (using CC), provides intelligent session analysis and actionable strategic guidance - works in the statusline and produces very pretty HTML reports as well. Easy to install and remove.
-
-<details>
-<summary>📊 GitHub Stats</summary>
-
-![GitHub Stats for vibe-log-cli](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=vibe-log-cli&username=vibe-log&all_stats=true&stats_only=true)
-
-</details>
-<br>
-
-[`RIPER Workflow` ![GitHub Repo Stars](https://img.shields.io/github/stars/tony/claude-code-riper-5) ![GitHub last commit](https://img.shields.io/github/last-commit/tony/claude-code-riper-5)](https://github.com/tony/claude-code-riper-5) &nbsp; by &nbsp; [Tony Narlock](https://tony.sh)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
-Structured development workflow enforcing separation between Research, Innovate, Plan, Execute, and Review phases. Features consolidated subagents for context-efficiency, branch-aware memory bank, and strict mode enforcement for guided development.
-
-<details>
-<summary>📊 GitHub Stats</summary>
-
-![GitHub Stats for claude-code-riper-5](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=claude-code-riper-5&username=tony&all_stats=true&stats_only=true)
-
-</details>
-<br>
-
-[`ContextKit` ![GitHub Repo Stars](https://img.shields.io/github/stars/FlineDev/ContextKit) ![GitHub last commit](https://img.shields.io/github/last-commit/FlineDev/ContextKit)](https://github.com/FlineDev/ContextKit) &nbsp; by &nbsp; [Cihat Gündüz](https://github.com/Jeehut)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
-A systematic development framework that transforms Claude Code into a proactive development partner. Features 4-phase planning methodology, specialized quality agents, and structured workflows that help AI produce production-ready code on first try.
-
-<details>
-<summary>📊 GitHub Stats</summary>
-
-![GitHub Stats for ContextKit](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=ContextKit&username=FlineDev&all_stats=true&stats_only=true)
-
-</details>
-<br>
-
-[`claudia-statusline` ![GitHub Repo Stars](https://img.shields.io/github/stars/hagan/claudia-statusline) ![GitHub last commit](https://img.shields.io/github/last-commit/hagan/claudia-statusline)](https://github.com/hagan/claudia-statusline) &nbsp; by &nbsp; [Hagan Franks](https://github.com/hagan)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
-High-performance Rust-based statusline for Claude Code with persistent stats tracking, progress bars, and optional cloud sync. Features SQLite-first persistence, git integration, context progress bars, burn rate calculation, XDG-compliant with theme support (dark/light, NO_COLOR).
-
-<details>
-<summary>📊 GitHub Stats</summary>
-
-![GitHub Stats for claudia-statusline](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=claudia-statusline&username=hagan&all_stats=true&stats_only=true)
 
 </details>
 <br>
@@ -976,6 +943,17 @@ Slash command for hook creation - intelligently prompts you through the creation
 <summary>📊 GitHub Stats</summary>
 
 ![GitHub Stats for automated-notebooklm](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=automated-notebooklm&username=omril321&all_stats=true&stats_only=true)
+
+</details>
+<br>
+
+[`/linux-desktop-slash-commands` ![GitHub Repo Stars](https://img.shields.io/github/stars/danielrosehill/Claude-Code-Linux-Desktop-Slash-Commands) ![GitHub last commit](https://img.shields.io/github/last-commit/danielrosehill/Claude-Code-Linux-Desktop-Slash-Commands)](https://github.com/danielrosehill/Claude-Code-Linux-Desktop-Slash-Commands) &nbsp; by &nbsp; [Daniel Rosehill](https://github.com/danielrosehill)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
+A library of slash commands intended specifically to facilitate common and advanced operations on Linux desktop environments (although many would also be useful on Linux servers). Command groups include hardware benchmarking, filesystem organisation, and security posture validation.
+
+<details>
+<summary>📊 GitHub Stats</summary>
+
+![GitHub Stats for Claude-Code-Linux-Desktop-Slash-Commands](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=Claude-Code-Linux-Desktop-Slash-Commands&username=danielrosehill&all_stats=true&stats_only=true)
 
 </details>
 <br>
