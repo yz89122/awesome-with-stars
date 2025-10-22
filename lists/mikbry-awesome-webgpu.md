@@ -139,6 +139,7 @@ WebGPU is a work in progress Web standard from [W3C](https://www.w3.org/) for mo
 - [TypeGPU](https://typegpu.com/) - TypeScript API for constructing, writing to and reading from GPU buffers with inferred type-safety.
 - [WESL ![GitHub Repo Stars](https://img.shields.io/github/stars/wgsl-tooling-wg/wesl-spec) ![GitHub last commit](https://img.shields.io/github/last-commit/wgsl-tooling-wg/wesl-spec)](https://github.com/wgsl-tooling-wg/wesl-spec/blob/main/README.md) - WGSL extensions for `import`, `@if`, and more. 
 - [WebGpGpu.ts ![GitHub Repo Stars](https://img.shields.io/github/stars/eddow/webgpgpu) ![GitHub last commit](https://img.shields.io/github/last-commit/eddow/webgpgpu)](https://github.com/eddow/webgpgpu) - A WebGPU framework to access compute shaders, browser or server-side, without the steep learning curve.
+- [spark.js](https://ludicon.com/sparkjs/) - A real-time GPU texture compression library for WebGPU.
 
 ## Debuggers and Profilers
 
@@ -184,6 +185,7 @@ Right now, demos work best on Chrome/Edge.
 - [WebGPU Memory Model Testing](https://gpuharbor.ucsc.edu/webgpu-mem-testing/) - Memory models testing suite, by [Reese Levine](https://github.com/reeselevine) et al., UC Santa Cruz - [Repository ![GitHub Repo Stars](https://img.shields.io/github/stars/reeselevine/webgpu-litmus) ![GitHub last commit](https://img.shields.io/github/last-commit/reeselevine/webgpu-litmus)](https://github.com/reeselevine/webgpu-litmus)
 - [Marching Cubes WebGPU](https://conorpo.github.io/marching-cubes-webgpu/) - Marching cubes implementation, by [Conor O'Malley](https://github.com/conorpo) - [Repository ![GitHub Repo Stars](https://img.shields.io/github/stars/conorpo/marching-cubes-webgpu) ![GitHub last commit](https://img.shields.io/github/last-commit/conorpo/marching-cubes-webgpu)](https://github.com/conorpo/marching-cubes-webgpu)
 - [WebGPU Path Tracing](https://iamferm.in/webgpu-path-tracing/) - A path tracer powered by WebGPU compute shaders, by [Fermin Lozano](https://github.com/ferminLR) - [Repository ![GitHub Repo Stars](https://img.shields.io/github/stars/ferminLR/webgpu-path-tracing) ![GitHub last commit](https://img.shields.io/github/last-commit/ferminLR/webgpu-path-tracing)](https://github.com/ferminLR/webgpu-path-tracing)
+- [Real-Time GPU Texture Compression Demo](https://ludicon.com/sparkjs/gltf-demo/) - Showcases the advantages of real-time texture compression. Compares models using KTX2 textures against AVIF + Spark.
 
 ## Videos
 
