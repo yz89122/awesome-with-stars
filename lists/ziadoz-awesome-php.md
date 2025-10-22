@@ -141,6 +141,7 @@ Please see [CONTRIBUTING ![GitHub Repo Stars](https://img.shields.io/github/star
 *Extras related to web development frameworks.*
 
 * [CakePHP CRUD ![GitHub Repo Stars](https://img.shields.io/github/stars/friendsofcake/crud) ![GitHub last commit](https://img.shields.io/github/last-commit/friendsofcake/crud)](https://github.com/friendsofcake/crud) - A Rapid Application Development (RAD) plugin for CakePHP.
+* [Filament PHP](https://filamentphp.com/) - A powerful open source UI framework for Laravel.
 * [LaravelS ![GitHub Repo Stars](https://img.shields.io/github/stars/hhxsv5/laravel-s) ![GitHub last commit](https://img.shields.io/github/last-commit/hhxsv5/laravel-s)](https://github.com/hhxsv5/laravel-s) - An out-of-the-box adapter between Laravel/Lumen and Swoole.
 * [Livewire](https://livewire.laravel.com/) - Powerful, dynamic, front-end UIs without leaving PHP.
 
