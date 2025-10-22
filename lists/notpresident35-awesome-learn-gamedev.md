@@ -552,7 +552,7 @@ Part 1](https://0fps.net/2014/02/10/replication-in-networked-games-overview-part
 [World Building in Blender by Ian Hubert](https://www.youtube.com/watch?v=whPWKecazgM) 💠🟪 - The best resource for thinking about 3D art, possibly ever.
 
 
-[Sculpting in Blender](https://www.artstation.com/learning/courses/3Va/intro-to-sculpting-in-blender/chapters/8OjR/intro) ��� - A short, free course on sculpting in Blender.
+[Sculpting in Blender](https://www.artstation.com/learning/courses/3Va/intro-to-sculpting-in-blender/chapters/8OjR/intro) 🟪 - A short, free course on sculpting in Blender.
 
 
 [Photorealism Explained](https://www.youtube.com/watch?v=R1-Ef54uTeU) 🟪 - An explanation of photorealism and how it is achieved in CG.
