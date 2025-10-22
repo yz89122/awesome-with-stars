@@ -365,6 +365,7 @@
 - [nvim-telescope/telescope-bibtex.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/nvim-telescope/telescope-bibtex.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/nvim-telescope/telescope-bibtex.nvim)](https://github.com/nvim-telescope/telescope-bibtex.nvim) - Telescope extension to search and paste BibTeX entries into your TeX files.
 - [Thiago4532/mdmath.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/Thiago4532/mdmath.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/Thiago4532/mdmath.nvim)](https://github.com/Thiago4532/mdmath.nvim) - A markdown equation previewer, using Kitty Graphics Protocol.
 - [OXY2DEV/markdoc.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/OXY2DEV/markdoc.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/OXY2DEV/markdoc.nvim)](https://github.com/OXY2DEV/markdoc.nvim) - Tree-sitter based `markdown -> vimdoc` converter.
+- [YousefHadder/markdown-plus.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/YousefHadder/markdown-plus.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/YousefHadder/markdown-plus.nvim)](https://github.com/YousefHadder/markdown-plus.nvim) - Provides a full editing experience for Markdown files which includes support for lists, links, TOC, and more with simple and fast keymaps.
 
 ### PHP
 
