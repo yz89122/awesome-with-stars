@@ -349,6 +349,14 @@ Free (Open Source)
 
 [![ ![GitHub Repo Stars](https://img.shields.io/github/stars/agarrharr/awesome-macos-screensavers) ![GitHub last commit](https://img.shields.io/github/last-commit/agarrharr/awesome-macos-screensavers)](https://github.com/agarrharr/awesome-macos-screensavers/raw/master/screenshots/last-statement.png)](https://www.github.com/amiantos/last-statement)
 
+### macOS Live Screensaver
+
+> Plays live video streams from YouTube and HLS sources.
+
+Free (Open Source)
+
+[![ ![GitHub Repo Stars](https://img.shields.io/github/stars/agarrharr/awesome-macos-screensavers) ![GitHub last commit](https://img.shields.io/github/last-commit/agarrharr/awesome-macos-screensavers)](https://github.com/agarrharr/awesome-macos-screensavers/raw/master/screenshots/macosLiveScreensaver.png)](https://github.com/hauxir/macos-live-screensaver)
+
 ## Collections
 
 ### Bjorn Johansson
