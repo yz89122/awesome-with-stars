@@ -317,7 +317,7 @@
 - [Intro to Vue, repo for Frontend Masters Course ![GitHub Repo Stars](https://img.shields.io/github/stars/sdras/intro-to-vue) ![GitHub last commit](https://img.shields.io/github/last-commit/sdras/intro-to-vue)](https://github.com/sdras/intro-to-vue)
 - [Vue Guide on CSS-Tricks](https://css-tricks.com/guides/vue/)
 - [Using Typescript in your VueJS app](https://medium.com/coding-blocks/using-typescript-in-your-vue-app-c4aba0bbc8bc)
-- [Vue.js 预���](https://ninghao.net/course/4256) on ninghao.net
+- [Vue.js 预��](https://ninghao.net/course/4256) on ninghao.net
 - [Building a Vue v2 JS app using Vue-router](https://www.liquidlight.co.uk/blog/article/building-a-vue-v2-js-app-using-vue-router/)
 - [Build your own carousel with Vue](https://medium.com/@davidatomhernandez/how-to-a-simple-carousel-with-vue-138715d615d7) by [@Atom_Hernandez](https://twitter.com/Atom_Hernandez)
 - [Unit Testing Vue.js Components with the Official Vue Testing Tools and Jest](https://alexjoverm.github.io/series/Unit-Testing-Vue-js-Components-with-the-Official-Vue-Testing-Tools-and-Jest/) by [@alexjoverm](https://twitter.com/alexjoverm)
