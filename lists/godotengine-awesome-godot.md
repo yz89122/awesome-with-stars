@@ -408,7 +408,6 @@ See [Vivraan/godot-lang-support ![GitHub Repo Stars](https://img.shields.io/gith
 
 *Add-ons for text editors that implement GDScript or C# support.*
 
-- [Atom](https://atom.io/packages/lang-gdscript) - Syntax highlighting.
 - [Emacs ![GitHub Repo Stars](https://img.shields.io/github/stars/godotengine/emacs-gdscript-mode) ![GitHub last commit](https://img.shields.io/github/last-commit/godotengine/emacs-gdscript-mode)](https://github.com/godotengine/emacs-gdscript-mode) - Syntax highlighting, code folding, indentation and autocompletion.
 - [Geany ![GitHub Repo Stars](https://img.shields.io/github/stars/haimat/GDScript-Geany) ![GitHub last commit](https://img.shields.io/github/last-commit/haimat/GDScript-Geany)](https://github.com/haimat/GDScript-Geany) - Syntax highlighting.
 - [Gedit ![GitHub Repo Stars](https://img.shields.io/github/stars/haimat/GDScript-gedit) ![GitHub last commit](https://img.shields.io/github/last-commit/haimat/GDScript-gedit)](https://github.com/haimat/GDScript-gedit) - Syntax highlighting.
