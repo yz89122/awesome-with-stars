@@ -435,7 +435,7 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
 | <a href="https://www.pmi.org/kickoff" target="_blank" rel="noopener noreferrer">KICKOFF</a><!-- markdown-link-check-disable-line --> | Project Management Institute | Beginner | 0.75 | 🏅 |
 | <a href="https://www.msicertified.com/project-management/project-management-essentials-certified/" target="_blank" rel="noopener noreferrer">Project Management Essentials</a> | Management and Strategy Institute | Beginner | 0.75 | 🏅 |
-| <a href="https://www.disasterready.org/free-certificate-project-management" target="_blank" rel="noopener noreferrer">Project Management Essentials</a> | Disaster Ready | Beginner | 5 | 🏅 |
+| <a href="https://www.disasterready.org/free-certificate-project-management" target="_blank" rel="noopener noreferrer">Project Management Essentials</a> | Disaster Ready | Beginner | 5 | ��� |
 
 <a href="https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents" target="_blank" rel="noopener noreferrer">⬆️</a>
 
