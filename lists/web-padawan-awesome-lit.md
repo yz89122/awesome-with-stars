@@ -72,6 +72,7 @@ At Lit's core is a boilerplate-killing component base class that provides reacti
 - [Vite Lit Element TS SASS ![GitHub Repo Stars](https://img.shields.io/github/stars/e111077/vite-lit-element-ts-sass) ![GitHub last commit](https://img.shields.io/github/last-commit/e111077/vite-lit-element-ts-sass)](https://github.com/e111077/vite-lit-element-ts-sass) - Example Vite project using Lit 2, Typescript, and SASS.
 - [Vite Lit Starter ![GitHub Repo Stars](https://img.shields.io/github/stars/vitejs/vite) ![GitHub last commit](https://img.shields.io/github/last-commit/vitejs/vite)](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-lit) - Lit based template preset for Vite.
 - [Vite Lit TS Starter ![GitHub Repo Stars](https://img.shields.io/github/stars/vitejs/vite) ![GitHub last commit](https://img.shields.io/github/last-commit/vitejs/vite)](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-lit-ts) - Lit and TypeScript based template preset for Vite.
+- [Vite Lit + Tailwind ![GitHub Repo Stars](https://img.shields.io/github/stars/lloydrichards/base_lit-with-tailwind) ![GitHub last commit](https://img.shields.io/github/last-commit/lloydrichards/base_lit-with-tailwind)](https://github.com/lloydrichards/base_lit-with-tailwind) - Modified Vite + Lit starter to use Tailwind v4.
 
 ## Codelabs
 

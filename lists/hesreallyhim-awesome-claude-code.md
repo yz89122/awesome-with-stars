@@ -1137,7 +1137,7 @@ Provides a menu of advanced code analysis commands for deep inspection, includin
 Analyzes code performance to identify bottlenecks, proposing concrete optimizations with implementation guidance for improved application performance.
 
 <details>
-<summary>���� GitHub Stats</summary>
+<summary>📊 GitHub Stats</summary>
 
 ![GitHub Stats for ai-project-rules](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=ai-project-rules&username=to4iki&all_stats=true&stats_only=true)
 
