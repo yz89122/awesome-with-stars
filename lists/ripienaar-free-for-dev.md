@@ -1275,7 +1275,7 @@ Update Time, five active automations, webhooks.
   * [readthedocs.org](https://readthedocs.org/) — Free documentation hosting with versioning, PDF generation, and more
   * [render.com](https://render.com) — Unified cloud to build and run apps and sites with free SSL, a global CDN, private networks, auto-deploys from Git, and completely free plans for web services, databases, and static web pages.
   * [SourceForge](https://sourceforge.net/) — Find, Create, and Publish Open Source software for free
-  * [surge.sh](https://surge.sh/) �� Static web publishing for Front-End developers. Unlimited sites with custom domain support
+  * [surge.sh](https://surge.sh/) — Static web publishing for Front-End developers. Unlimited sites with custom domain support
   * [telegra.ph](https://telegra.ph/) Easily create web page using Quill
   * [tilda.cc](https://tilda.cc/) — One site, 50 pages, 50 MB storage, only the main pre-defined blocks among 170+ available, no fonts, no favicon, and no custom domain
   * [Vercel](https://vercel.com/) — Build, deploy, and host web apps with free SSL, global CDN, and unique Preview URLs each time you `git push`. Perfect for Next.js and other Static Site Generators.
