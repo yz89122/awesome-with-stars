@@ -101,7 +101,7 @@
   <img src="https://raw.githubusercontent.com/Martlgap/CryptoDepotWidget/main/preview_medium.png" height="100"/>
   <img src="https://raw.githubusercontent.com/Martlgap/CryptoDepotWidget/main/preview_large.png" height="200"/>
 
-- [btc-usd-course.js ![GitHub Repo Stars](https://img.shields.io/github/stars/wickenico/btc-usd-course.js) ![GitHub last commit](https://img.shields.io/github/last-commit/wickenico/btc-usd-course.js)](https://github.com/wickenico/btc-usd-course.js) - Shows the current bitcoin course in USD.
+- [btc-usd-course.js ![GitHub Repo Stars](https://img.shields.io/github/stars/wickenico/btc-usd-course.js) ![GitHub last commit](https://img.shields.io/github/last-commit/wickenico/btc-usd-course.js)](https://github.com/wickenico/btc-usd-course.js) - Shows the current Bitcoin course in USD.
 
   <img src="https://raw.githubusercontent.com/wickenico/btc-usd-course.js/main/img/bitcoin-usd-course-widget-small.png" height="200"/>
   
@@ -201,7 +201,12 @@
 
 ## Sports
 
-- [CFBWidget ![GitHub Repo Stars](https://img.shields.io/github/stars/jaydainn/CFBWidget) ![GitHub last commit](https://img.shields.io/github/last-commit/jaydainn/CFBWidget)](https://github.com/jaydainn/CFBWidget) - Latest scores of a NCAA college football team. 
+- [CFBWidget ![GitHub Repo Stars](https://img.shields.io/github/stars/jaydainn/CFBWidget) ![GitHub last commit](https://img.shields.io/github/last-commit/jaydainn/CFBWidget)](https://github.com/jaydainn/CFBWidget) - Latest scores of a NCAA college football team.
+
+- [ClubConnector Gym Capacity Widget ![GitHub Repo Stars](https://img.shields.io/github/stars/v1lling/scriptable-clubconnector) ![GitHub last commit](https://img.shields.io/github/last-commit/v1lling/scriptable-clubconnector)](https://github.com/v1lling/scriptable-clubconnector) - Shows real-time gym capacity for ClubConnector fitness studios.
+
+  <img src="https://raw.githubusercontent.com/v1lling/scriptable-clubconnector/main/images/preview.png" width="400">
+
 
 - [fitx-widget.js](https://gist.github.com/DanielStefanK/487175b6f65ede401e37ee4848970176) - Workload of a FitX gym.
 
