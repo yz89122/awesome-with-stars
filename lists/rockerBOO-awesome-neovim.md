@@ -465,7 +465,7 @@
 
 <!--lint disable double-link -->
 
-**[⬆ back to top](#contents)**
+**[�� back to top](#contents)**
 
 <!--lint enable double-link -->
 
