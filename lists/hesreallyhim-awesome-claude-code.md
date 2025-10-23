@@ -784,7 +784,7 @@ A highly customizable status line formatter for Claude Code CLI that displays mo
 </details>
 <br>
 
-[`claude-code-statusline` ![GitHub Repo Stars](https://img.shields.io/github/stars/rz1989s/claude-code-statusline) ![GitHub last commit](https://img.shields.io/github/last-commit/rz1989s/claude-code-statusline)](https://github.com/rz1989s/claude-code-statusline) &nbsp; by &nbsp; [rz1989s](https://github.com/rz1989s)  &nbsp;&nbsp;���️&nbsp;&nbsp;MIT  
+[`claude-code-statusline` ![GitHub Repo Stars](https://img.shields.io/github/stars/rz1989s/claude-code-statusline) ![GitHub last commit](https://img.shields.io/github/last-commit/rz1989s/claude-code-statusline)](https://github.com/rz1989s/claude-code-statusline) &nbsp; by &nbsp; [rz1989s](https://github.com/rz1989s)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
 Enhanced 4-line statusline for Claude Code with themes, cost tracking, and MCP server monitoring
 
 <details>
