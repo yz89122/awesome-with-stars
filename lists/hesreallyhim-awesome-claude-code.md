@@ -480,7 +480,7 @@ Development environments for coding agents. Enable multiple agents to work safel
 </details>
 <br>
 
-[`ContextKit` ![GitHub Repo Stars](https://img.shields.io/github/stars/FlineDev/ContextKit) ![GitHub last commit](https://img.shields.io/github/last-commit/FlineDev/ContextKit)](https://github.com/FlineDev/ContextKit) &nbsp; by &nbsp; [Cihat Gündüz](https://github.com/Jeehut)  &nbsp;&nbsp;⚖���&nbsp;&nbsp;MIT  
+[`ContextKit` ![GitHub Repo Stars](https://img.shields.io/github/stars/FlineDev/ContextKit) ![GitHub last commit](https://img.shields.io/github/last-commit/FlineDev/ContextKit)](https://github.com/FlineDev/ContextKit) &nbsp; by &nbsp; [Cihat Gündüz](https://github.com/Jeehut)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
 A systematic development framework that transforms Claude Code into a proactive development partner. Features 4-phase planning methodology, specialized quality agents, and structured workflows that help AI produce production-ready code on first try.
 
 <details>
