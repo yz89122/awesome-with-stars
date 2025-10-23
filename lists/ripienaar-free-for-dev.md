@@ -652,7 +652,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [Testspace.com](https://testspace.com/) - A Dashboard for publishing automated test results and a Framework for implementing manual tests as code using GitHub. The service is [free for Open Source ![GitHub Repo Stars](https://img.shields.io/github/stars/marketplace/testspace-com) ![GitHub last commit](https://img.shields.io/github/last-commit/marketplace/testspace-com)](https://github.com/marketplace/testspace-com) and accounts for 450 monthly results.
   * [tesults.com](https://www.tesults.com) — Test results reporting and test case management. Integrates with popular test frameworks. Open Source software developers, individuals, educators, and small teams getting started can request discounted and free offerings beyond basic free projects.
   * [UseWebhook.com](https://usewebhook.com) - Capture and inspect webhooks from your browser. Forward to localhost, or replay from history. Free to use.
-  * [Vaadin](https://vaadin.com) — Build scalable UIs in Java or TypeScript, and use the integrated tooling, components, and design system to iterate faster, design better, and simplify the development process. Unlimited Projects with five years of free maintenance.
+  * [Vaadin](https://vaadin.com) ��� Build scalable UIs in Java or TypeScript, and use the integrated tooling, components, and design system to iterate faster, design better, and simplify the development process. Unlimited Projects with five years of free maintenance.
   * [websitepulse.com](https://www.websitepulse.com/tools/) — Various free network and server tools.
   * [webhook-test.com](https://webhook-test.com) - Debug and inspect webhooks and HTTP requests with a unique URL during integration. Completely free, you can create unlimited URLs and receive recommendations.
   * [webhook.site](https://webhook.site) - Verify webhooks, outbound HTTP requests, or emails with a custom URL. A temporary URL and email address are always free.
@@ -876,7 +876,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [nixstats.com](https://nixstats.com) - Free for one server. E-Mail Notifications, public status page, 60-second interval, and more.
   * [OnlineOrNot.com](https://onlineornot.com/) - OnlineOrNot provides uptime monitoring for websites and APIs, monitoring for cron jobs and scheduled tasks. Also provides status pages. The first five checks with a 3-minute interval are free. The free tier sends alerts via Slack, Discord, and Email.
   * [OntarioNet.ca CN Test](https://cntest.ontarionet.ca) — Check if a website is blocked in China by the Great Firewall. It identifies DNS pollution by comparing DNS results and ASN information detected by servers in China versus servers in the United States.
-  * [opsgenie.com](https://www.opsgenie.com/) �� Powerful alerting and on-call management for operating always-on services. Free up to 5 users.
+  * [opsgenie.com](https://www.opsgenie.com/) — Powerful alerting and on-call management for operating always-on services. Free up to 5 users.
   * [paessler.com](https://www.paessler.com/) — Powerful infrastructure and network monitoring solution, including alerting, strong visualization capabilities, and basic reporting. Free up to 100 sensors.
   * [pagecrawl.io](https://pagecrawl.io/) -  Monitor website changes, free for up to 6 monitors with daily checks.
   * [pagerly.io](https://pagerly.io/) -  Manage on-calls on Slack  (integrates with Pagerduty, OpsGenie). Free up to 1 team (one team refers to one on call)
