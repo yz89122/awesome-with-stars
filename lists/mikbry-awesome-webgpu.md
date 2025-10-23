@@ -142,10 +142,11 @@ WebGPU is a work in progress Web standard from [W3C](https://www.w3.org/) for mo
 - [spark.js](https://ludicon.com/sparkjs/) - A real-time GPU texture compression library for WebGPU.
 
 ## Debuggers and Profilers
-
-- [webgpu-devtools ![GitHub Repo Stars](https://img.shields.io/github/stars/takahirox/webgpu-devtools) ![GitHub last commit](https://img.shields.io/github/last-commit/takahirox/webgpu-devtools)](https://github.com/takahirox/webgpu-devtools) - Web browser extention.
-- [webgpu-recorder ![GitHub Repo Stars](https://img.shields.io/github/stars/brendan-duncan/webgpu_recorder) ![GitHub last commit](https://img.shields.io/github/last-commit/brendan-duncan/webgpu_recorder)](https://github.com/brendan-duncan/webgpu_recorder) - A WebGPU playback recorder.
+- [webgpu-inspector ![GitHub Repo Stars](https://img.shields.io/github/stars/brendan-duncan/webgpu_inspector) ![GitHub last commit](https://img.shields.io/github/last-commit/brendan-duncan/webgpu_inspector)](https://github.com/brendan-duncan/webgpu_inspector) - Inspection debugger for WebGpu.
 - [webgpu-profiler](https://crates.io/crates/wgpu-profiler) - A profiler for Rust + WebGPU.
+
+These have not been updated for a while:
+- [webgpu-devtools ![GitHub Repo Stars](https://img.shields.io/github/stars/takahirox/webgpu-devtools) ![GitHub last commit](https://img.shields.io/github/last-commit/takahirox/webgpu-devtools)](https://github.com/takahirox/webgpu-devtools) - Web browser extention.
 - [webgpu-debugger ![GitHub Repo Stars](https://img.shields.io/github/stars/webgpu/webgpu-debugger) ![GitHub last commit](https://img.shields.io/github/last-commit/webgpu/webgpu-debugger)](https://github.com/webgpu/webgpu-debugger) - Early stage debugger.
 
 ## Gists
