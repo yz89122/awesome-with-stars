@@ -358,7 +358,7 @@ Stack used to deploy and manage a cluster of Docker containerized applications u
 
 - [GKE](https://cloud.google.com/kubernetes-engine/) - [🛠](https://stackshare.io/google-kubernetes-engine) - Kubernetes cluster managed by Google.
 - [Kubernetes](https://kubernetes.io/) - [🐙 ![GitHub Repo Stars](https://img.shields.io/github/stars/kubernetes/kubernetes) ![GitHub last commit](https://img.shields.io/github/last-commit/kubernetes/kubernetes)](https://github.com/kubernetes/kubernetes) - [🛠](https://stackshare.io/kubernetes) - Production-Grade Container Scheduling and Management.
-- [Docker](https://www.docker.com/) - [🛠](https://stackshare.io/docker) - [�� ![GitHub Repo Stars](https://img.shields.io/github/stars/docker/docker) ![GitHub last commit](https://img.shields.io/github/last-commit/docker/docker)](https://github.com/docker/docker) - A tool to create, deploy and run applications inside containers.
+- [Docker](https://www.docker.com/) - [🛠](https://stackshare.io/docker) - [🐙 ![GitHub Repo Stars](https://img.shields.io/github/stars/docker/docker) ![GitHub last commit](https://img.shields.io/github/last-commit/docker/docker)](https://github.com/docker/docker) - A tool to create, deploy and run applications inside containers.
 - [Stackdriver](https://cloud.google.com/stackdriver/) - [🛠️](https://stackshare.io/stackdriver) - Stackdriver Logging allows you to store, search, analyze, monitor, and alert on log data and events.
 
 ### Ethereum DApp [↗](https://awesomestacks.dev/ethereum-d-app)
@@ -424,7 +424,7 @@ Build, test, and deploy pipelines are configured by default.
 
 - [Python 3](https://www.python.org/) - [🛠](https://stackshare.io/python) - [🐙 ![GitHub Repo Stars](https://img.shields.io/github/stars/python/cpython) ![GitHub last commit](https://img.shields.io/github/last-commit/python/cpython)](https://github.com/python/cpython) - A programming language that lets you work quickly.
 - [Django](https://www.djangoproject.com/) - [🛠](https://stackshare.io/django) - [🐙 ![GitHub Repo Stars](https://img.shields.io/github/stars/django/django) ![GitHub last commit](https://img.shields.io/github/last-commit/django/django)](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
-- [Docker](https://www.docker.com/) - [🛠](https://stackshare.io/docker) - [🐙 ![GitHub Repo Stars](https://img.shields.io/github/stars/docker/docker) ![GitHub last commit](https://img.shields.io/github/last-commit/docker/docker)](https://github.com/docker/docker) - A tool to create, deploy and run applications inside containers.
+- [Docker](https://www.docker.com/) - [��](https://stackshare.io/docker) - [🐙 ![GitHub Repo Stars](https://img.shields.io/github/stars/docker/docker) ![GitHub last commit](https://img.shields.io/github/last-commit/docker/docker)](https://github.com/docker/docker) - A tool to create, deploy and run applications inside containers.
 - [GitLab](https://about.gitlab.com/) - [🛠](https://stackshare.io/gitlab) - [🐙 ![GitHub Repo Stars](https://img.shields.io/github/stars/gitlabhq/gitlabhq) ![GitHub last commit](https://img.shields.io/github/last-commit/gitlabhq/gitlabhq)](https://github.com/gitlabhq/gitlabhq) - Open source self-hosted Git management software.
 - [Caddy](https://caddyserver.com/) - [🛠](https://stackshare.io/caddy) - [🐙 ![GitHub Repo Stars](https://img.shields.io/github/stars/mholt/caddy) ![GitHub last commit](https://img.shields.io/github/last-commit/mholt/caddy)](https://github.com/mholt/caddy) - The HTTP/2 Web Server with Automatic HTTPS.
 
