@@ -190,6 +190,7 @@ These provide a wide range of functionality - from dealing with compiler flags t
 * [cmake-language-server ![GitHub Repo Stars](https://img.shields.io/github/stars/regen100/cmake-language-server) ![GitHub last commit](https://img.shields.io/github/last-commit/regen100/cmake-language-server)](https://github.com/regen100/cmake-language-server) - CMake Language Server Protocol Implementation. [```[MIT]```][MIT]
 * [cmake-maven-plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/cmake-maven-project/cmake-maven-project) ![GitHub last commit](https://img.shields.io/github/last-commit/cmake-maven-project/cmake-maven-project)](https://github.com/cmake-maven-project/cmake-maven-project) - CMake integration for Maven builds. [```[APACHE2]```][APACHE2]
 * [version-from-git ![GitHub Repo Stars](https://img.shields.io/github/stars/MhmRhm/version-from-git) ![GitHub last commit](https://img.shields.io/github/last-commit/MhmRhm/version-from-git)](https://github.com/MhmRhm/version-from-git) - Bake git information into your binary. [```[MIT]```][MIT]
+* [SoCMake ![GitHub Repo Stars](https://img.shields.io/github/stars/HEP-SoC/SoCMake) ![GitHub last commit](https://img.shields.io/github/last-commit/HEP-SoC/SoCMake)](https://github.com/HEP-SoC/SoCMake) - CMake based build system for hardware (ASIC, FPGA) and System-on-Chip build automation. [```[LGPL]```][LGPL]
 
 ## License
 
