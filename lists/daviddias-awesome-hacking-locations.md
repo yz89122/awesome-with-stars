@@ -208,7 +208,7 @@ Webpage: http://soho.bg/
 
 Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
-��� | ✔ | [4 Iskar str., Sofia, Bulgaria](https://goo.gl/maps/X5X42uPqFJu)  | Mon-Fri 9:00-19:00
+✔ | ✔ | [4 Iskar str., Sofia, Bulgaria](https://goo.gl/maps/X5X42uPqFJu)  | Mon-Fri 9:00-19:00
 
 
 ---------------------------------------------------------------
