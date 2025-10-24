@@ -651,6 +651,7 @@ Here are a few good sources for Nerd Fonts and Powerline-compatible fonts:
 
 - [Awesome Terminal Fonts ![GitHub Repo Stars](https://img.shields.io/github/stars/gabrielelana/awesome-terminal-fonts) ![GitHub last commit](https://img.shields.io/github/last-commit/gabrielelana/awesome-terminal-fonts)](https://github.com/gabrielelana/awesome-terminal-fonts) - A family of fonts that include some nice monospaced Icons.
 - [Cascadia Code ![GitHub Repo Stars](https://img.shields.io/github/stars/microsoft/cascadia-code) ![GitHub last commit](https://img.shields.io/github/last-commit/microsoft/cascadia-code)](https://github.com/microsoft/cascadia-code) - Microsoft's Cascadia Code
+- [Commit Mono](https://commitmono.com) - Neutral programming typeface.
 - [Fantasque Awesome Font ![GitHub Repo Stars](https://img.shields.io/github/stars/ztomer/fantasque_awesome_powerline) ![GitHub last commit](https://img.shields.io/github/last-commit/ztomer/fantasque_awesome_powerline)](https://github.com/ztomer/fantasque_awesome_powerline) - A nice monospaced font, patched with Font-Awesome, Octoicons, and Powerline-Glyphs.
 - [Fira Mono ![GitHub Repo Stars](https://img.shields.io/github/stars/mozilla/Fira) ![GitHub last commit](https://img.shields.io/github/last-commit/mozilla/Fira)](https://github.com/mozilla/Fira) - Mozilla's Fira type family.
 - [Hack](http://sourcefoundry.org/hack/) - Another Powerline-compatible font designed for source code and terminal usage.

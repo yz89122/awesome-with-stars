@@ -714,7 +714,7 @@ Spawn and control multiple Claude Codes in parallel from your phone or desktop. 
 </details>
 <br>
 
-[`The Agentic Startup` ![GitHub Repo Stars](https://img.shields.io/github/stars/rsmdt/the-startup) ![GitHub last commit](https://img.shields.io/github/last-commit/rsmdt/the-startup)](https://github.com/rsmdt/the-startup) &nbsp; by &nbsp; [Rudolf Schmidt](https://github.com/rsmdt)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
+[`The Agentic Startup` ![GitHub Repo Stars](https://img.shields.io/github/stars/rsmdt/the-startup) ![GitHub last commit](https://img.shields.io/github/last-commit/rsmdt/the-startup)](https://github.com/rsmdt/the-startup) &nbsp; by &nbsp; [Rudolf Schmidt](https://github.com/rsmdt)  &nbsp;&nbsp;���️&nbsp;&nbsp;MIT  
 Yet Another Claude Orchestrator - a collection of agents, commands, etc., for shipping production code - but I like this because it's comprehensive, well-written, and one of the few resources that actually uses Output Styles! +10 points!
 
 <details>
