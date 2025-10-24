@@ -316,7 +316,7 @@ Provides a structured set of commands for bootstrapping and managing a new proje
 Really comprehensive set of commands for all aspects of SDLC.
 
 <details>
-<summary>�� GitHub Stats</summary>
+<summary>📊 GitHub Stats</summary>
 
 ![GitHub Stats for command](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=command&username=scopecraft&all_stats=true&stats_only=true)
 
