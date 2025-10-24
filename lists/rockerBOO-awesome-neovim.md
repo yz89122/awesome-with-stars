@@ -493,6 +493,7 @@
 - [mohseenrm/marko.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/mohseenrm/marko.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/mohseenrm/marko.nvim)](https://github.com/mohseenrm/marko.nvim) - Behind the scenes, global marks management for different projects.
 - [y3owk1n/warp.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/y3owk1n/warp.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/y3owk1n/warp.nvim)](https://github.com/y3owk1n/warp.nvim) - Simple harpoon alternative that focuses on marking & navigating between files.
 - [walkersumida/fusen.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/walkersumida/fusen.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/walkersumida/fusen.nvim)](https://github.com/walkersumida/fusen.nvim) - Sticky note bookmarks, per Git branch with hover annotations and Telescope integration.
+- [markgandolfo/dartboard.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/markgandolfo/dartboard.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/markgandolfo/dartboard.nvim)](https://github.com/markgandolfo/dartboard.nvim) - Mark files and quickly access them, inspired by Harpoon and Lasso.
 
 <!--lint disable double-link -->
 
@@ -1105,6 +1106,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 - [ravsii/timers.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/ravsii/timers.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/ravsii/timers.nvim)](https://github.com/ravsii/timers.nvim) - Timer manager, a clean Lua API, supporting multiple timers, persistence, UI, and plugin integrations.
 - [francescarpi/buffon.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/francescarpi/buffon.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/francescarpi/buffon.nvim)](https://github.com/francescarpi/buffon.nvim) - Buffers navigation, reorganize and close.
 - [ahkohd/buffer-sticks.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/ahkohd/buffer-sticks.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/ahkohd/buffer-sticks.nvim)](https://github.com/ahkohd/buffer-sticks.nvim) - Cosmetic buffers indicator & picker.
+- [markgandolfo/lightswitch.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/markgandolfo/lightswitch.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/markgandolfo/lightswitch.nvim)](https://github.com/markgandolfo/lightswitch.nvim) - Toggle various options using the `nui.nvim` library.
 
 ### CSV Files
 
