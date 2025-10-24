@@ -68,6 +68,17 @@ Claude Code is a cutting-edge CLI-based coding assistant and agent released by [
 
 > Resources added in the past 7 days
 
+[`fcakyon Collection (Code Quality and Tool Usage)` ![GitHub Repo Stars](https://img.shields.io/github/stars/fcakyon/claude-codex-settings) ![GitHub last commit](https://img.shields.io/github/last-commit/fcakyon/claude-codex-settings)](https://github.com/fcakyon/claude-codex-settings/tree/main/.claude/hooks) &nbsp; by &nbsp; [Fatih Akyon](https://github.com/fcakyon)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;Apache-2.0  
+Very well-written set of hooks for code quality and tool usage regulation (e.g. force Tavily over WebFetch tool).
+
+<details>
+<summary>📊 GitHub Stats</summary>
+
+![GitHub Stats for claude-codex-settings](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=claude-codex-settings&username=fcakyon&all_stats=true&stats_only=true)
+
+</details>
+<br>
+
 [`/linux-desktop-slash-commands` ![GitHub Repo Stars](https://img.shields.io/github/stars/danielrosehill/Claude-Code-Linux-Desktop-Slash-Commands) ![GitHub last commit](https://img.shields.io/github/last-commit/danielrosehill/Claude-Code-Linux-Desktop-Slash-Commands)](https://github.com/danielrosehill/Claude-Code-Linux-Desktop-Slash-Commands) &nbsp; by &nbsp; [Daniel Rosehill](https://github.com/danielrosehill)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
 A library of slash commands intended specifically to facilitate common and advanced operations on Linux desktop environments (although many would also be useful on Linux servers). Command groups include hardware benchmarking, filesystem organisation, and security posture validation.
 
@@ -714,7 +725,7 @@ Spawn and control multiple Claude Codes in parallel from your phone or desktop. 
 </details>
 <br>
 
-[`The Agentic Startup` ![GitHub Repo Stars](https://img.shields.io/github/stars/rsmdt/the-startup) ![GitHub last commit](https://img.shields.io/github/last-commit/rsmdt/the-startup)](https://github.com/rsmdt/the-startup) &nbsp; by &nbsp; [Rudolf Schmidt](https://github.com/rsmdt)  &nbsp;&nbsp;���️&nbsp;&nbsp;MIT  
+[`The Agentic Startup` ![GitHub Repo Stars](https://img.shields.io/github/stars/rsmdt/the-startup) ![GitHub last commit](https://img.shields.io/github/last-commit/rsmdt/the-startup)](https://github.com/rsmdt/the-startup) &nbsp; by &nbsp; [Rudolf Schmidt](https://github.com/rsmdt)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
 Yet Another Claude Orchestrator - a collection of agents, commands, etc., for shipping production code - but I like this because it's comprehensive, well-written, and one of the few resources that actually uses Output Styles! +10 points!
 
 <details>
@@ -853,6 +864,17 @@ A no-frills little library that adds delightful OS-native sounds to Claude Code 
 <summary>📊 GitHub Stats</summary>
 
 ![GitHub Stats for claudio](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=claudio&username=ctoth&all_stats=true&stats_only=true)
+
+</details>
+<br>
+
+[`fcakyon Collection (Code Quality and Tool Usage)` ![GitHub Repo Stars](https://img.shields.io/github/stars/fcakyon/claude-codex-settings) ![GitHub last commit](https://img.shields.io/github/last-commit/fcakyon/claude-codex-settings)](https://github.com/fcakyon/claude-codex-settings/tree/main/.claude/hooks) &nbsp; by &nbsp; [Fatih Akyon](https://github.com/fcakyon)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;Apache-2.0  
+Very well-written set of hooks for code quality and tool usage regulation (e.g. force Tavily over WebFetch tool).
+
+<details>
+<summary>📊 GitHub Stats</summary>
+
+![GitHub Stats for claude-codex-settings](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=claude-codex-settings&username=fcakyon&all_stats=true&stats_only=true)
 
 </details>
 <br>
