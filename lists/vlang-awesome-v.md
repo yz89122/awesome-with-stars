@@ -93,6 +93,7 @@ SDL2 and SDL3 based applications importing `vlang/sdl`.
 - [vqrcode ![GitHub Repo Stars](https://img.shields.io/github/stars/carlosqsilva/vqrcode) ![GitHub last commit](https://img.shields.io/github/last-commit/carlosqsilva/vqrcode)](https://github.com/carlosqsilva/vqrcode) - CLI for creating QR Codes.
 - [vspect ![GitHub Repo Stars](https://img.shields.io/github/stars/zakuro9715/vspect) ![GitHub last commit](https://img.shields.io/github/last-commit/zakuro9715/vspect)](https://github.com/zakuro9715/vspect) - A tool to inspect vlang source file. ( Archived )
 - [vzcc ![GitHub Repo Stars](https://img.shields.io/github/stars/malisipi/vzcc) ![GitHub last commit](https://img.shields.io/github/last-commit/malisipi/vzcc)](https://github.com/malisipi/vzcc) - A CLI cross-compiling tool based on Zig CC for V.
+- [v-terminal-apps ![GitHub Repo Stars](https://img.shields.io/github/stars/cogrow4/V-Terminal-Apps) ![GitHub last commit](https://img.shields.io/github/last-commit/cogrow4/V-Terminal-Apps)](https://github.com/cogrow4/V-Terminal-Apps) - A collection of high-quality terminal applications written in V, including job planner, calculator, notes, file browser, quiz game, budget tracker, P2P chat (WIP), and Pomodoro timer.
 - [vin ![GitHub Repo Stars](https://img.shields.io/github/stars/DeoDorqnt387/vin) ![GitHub last commit](https://img.shields.io/github/last-commit/DeoDorqnt387/vin)](https://github.com/DeoDorqnt387/vin) - A Basic Command Line Interface for V.
 
 ### Editors
