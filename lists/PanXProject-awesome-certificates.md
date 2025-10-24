@@ -150,7 +150,7 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 | <a href="https://www.kaggle.com/learn/data-visualization" target="_blank" rel="noopener noreferrer">Data Visualization</a>             | Kaggle          | Beginner      | 4     | 🏆     |
 | <a href="https://www.kaggle.com/learn/data-cleaning" target="_blank" rel="noopener noreferrer">Data Cleaning</a>                         | Kaggle          | Intermediate | 4     | 🏆     |
 
-<a href="https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents" target="_blank" rel="noopener noreferrer">⬆️</a>
+<a href="https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents" target="_blank" rel="noopener noreferrer">⬆���</a>
 
 
 ## Statistics
@@ -194,7 +194,7 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 | <a href="https://cognitiveclass.ai/courses/machine-learning-with-python/" target="_blank" rel="noopener noreferrer">Machine Learning with Python</a> | IBM / Cognitive Class |Beginner|20 | <a href="https://www.youracclaim.com/org/ibm/badge/machine-learning-with-python-level-1" target="_blank" rel="noopener noreferrer">🏅</a>|
 | <a href="https://www.freecodecamp.org/learn/machine-learning-with-python/" target="_blank" rel="noopener noreferrer">Machine Learning with Python Certification</a> | FreeCodeCamp |Professional|300 | 🏆|
 | <a href="https://www.kaggle.com/learn/intro-to-machine-learning" target="_blank" rel="noopener noreferrer">Intro to Machine Learning</a> | Kaggle          | Beginner      | 3     | 🏆     |
-| <a href="https://www.kaggle.com/learn/intermediate-machine-learning" target="_blank" rel="noopener noreferrer">Intermediate Machine Learning</a> | Kaggle | Intermediate | 4     | ���     |
+| <a href="https://www.kaggle.com/learn/intermediate-machine-learning" target="_blank" rel="noopener noreferrer">Intermediate Machine Learning</a> | Kaggle | Intermediate | 4     | 🏆     |
 | <a href="https://www.kaggle.com/learn/machine-learning-explainability" target="_blank" rel="noopener noreferrer">Machine Learning Explainability</a> | Kaggle | Intermediate | 4     | 🏆     |
 | <a href="https://www.kaggle.com/learn/intro-to-deep-learning" target="_blank" rel="noopener noreferrer">Intro to Deep Learning</a>       | Kaggle          | Intermediate | 4     | 🏆     |
 | <a href="https://www.kaggle.com/learn/time-series" target="_blank" rel="noopener noreferrer">Time Series</a>                               | Kaggle          | Intermediate | 5     | 🏆     |
