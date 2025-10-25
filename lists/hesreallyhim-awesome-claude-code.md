@@ -718,7 +718,7 @@ Launch Claude Code session that is connected to a swarm of Claude Code Agents.
 A task management system for AI-driven development with Claude, designed to work seamlessly with Cursor AI.
 
 <details>
-<summary>📊 GitHub Stats</summary>
+<summary>���� GitHub Stats</summary>
 
 ![GitHub Stats for claude-task-master](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=claude-task-master&username=eyaltoledano&all_stats=true&stats_only=true)
 
