@@ -3,12 +3,8 @@
 List of awesome CSS frameworks.  
 Feel free to [contribute ![GitHub Repo Stars](https://img.shields.io/github/stars/troxler/awesome-css-frameworks) ![GitHub last commit](https://img.shields.io/github/last-commit/troxler/awesome-css-frameworks)](https://github.com/troxler/awesome-css-frameworks/blob/master/.github/CONTRIBUTING.md).
 
-**Supported by [FrontAid CMS](https://frontaid.io/?pk_campaign=cssfw)**:
+**Are you looking for React/Vue/Angular [UI Component Libraries](https://frontaid.ch/web/ui/libraries.html) instead?**
 
-<a href="https://frontaid.io/?pk_campaign=cssfw"><img
-  src="media/frontaid.png"
-  width="600"
-  alt="FrontAid CMS - Agile Content Management with Git."></a>
 
 ## Contents
 - [Base / Reset / Normalize](#base--reset--normalize)
