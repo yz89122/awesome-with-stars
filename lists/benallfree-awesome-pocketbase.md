@@ -38,7 +38,7 @@ PocketBase is an open source backend consisting of embedded database (SQLite) wi
 
 ## Top PocketBase-specific Projects (>100 stars)
 
-- [pockethost.io](https://pockethost.io) - Free and pro PocketBase hosting. ![GitHub Repo stars](https://img.shields.io/github/stars/pockethost/pockethost)
+- [pockethost.io](https://pockethost.io) - Pro PocketBase hosting. ![GitHub Repo stars](https://img.shields.io/github/stars/pockethost/pockethost)
 - [PocketBase Typegen ![GitHub Repo Stars](https://img.shields.io/github/stars/patmood/pocketbase-typegen) ![GitHub last commit](https://img.shields.io/github/last-commit/patmood/pocketbase-typegen)](https://github.com/patmood/pocketbase-typegen) - Generate TypeScript types from the SQLite db file. ![GitHub Repo stars](https://img.shields.io/github/stars/patmood/pocketbase-typegen)
 - [PocketBase Docker ![GitHub Repo Stars](https://img.shields.io/github/stars/muchobien/pocketbase-docker) ![GitHub last commit](https://img.shields.io/github/last-commit/muchobien/pocketbase-docker)](https://github.com/muchobien/pocketbase-docker) - Docker setup supporting multiple architectures and automatically updated with PocketBase releases. ![GitHub Repo stars](https://img.shields.io/github/stars/muchobien/pocketbase-docker)
 - [PocketBase+Stripe ![GitHub Repo Stars](https://img.shields.io/github/stars/mrwyndham/pocketbase-stripe) ![GitHub last commit](https://img.shields.io/github/last-commit/mrwyndham/pocketbase-stripe)](https://github.com/mrwyndham/pocketbase-stripe) - Go extended PocketBase for Stripe subscription integration. ![GitHub Repo stars](https://img.shields.io/github/stars/mrwyndham/pocketbase-stripe)
