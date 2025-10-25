@@ -68,6 +68,17 @@ Claude Code is a cutting-edge CLI-based coding assistant and agent released by [
 
 > Resources added in the past 7 days
 
+[`claude-mem` ![GitHub Repo Stars](https://img.shields.io/github/stars/thedotmack/claude-mem) ![GitHub last commit](https://img.shields.io/github/last-commit/thedotmack/claude-mem)](https://github.com/thedotmack/claude-mem) &nbsp; by &nbsp; [Alex Newman](https://github.com/thedotmack)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;AGPL-3.0  
+Persistent memory compression system that captures tool usage, generates AI-powered session summaries, and injects relevant context into future Claude Code sessions through SQLite storage and full-text search across project history (and no extra-cost dependencies!). 🦾
+
+<details>
+<summary>📊 GitHub Stats</summary>
+
+![GitHub Stats for claude-mem](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=claude-mem&username=thedotmack&all_stats=true&stats_only=true)
+
+</details>
+<br>
+
 [`cc-sessions` ![GitHub Repo Stars](https://img.shields.io/github/stars/GWUDCAP/cc-sessions) ![GitHub last commit](https://img.shields.io/github/last-commit/GWUDCAP/cc-sessions)](https://github.com/GWUDCAP/cc-sessions) &nbsp; by &nbsp; [toastdev](https://github.com/satoastshi)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
 an opinionated approach to produce development with Claude Code
 
@@ -718,7 +729,7 @@ Launch Claude Code session that is connected to a swarm of Claude Code Agents.
 A task management system for AI-driven development with Claude, designed to work seamlessly with Cursor AI.
 
 <details>
-<summary>���� GitHub Stats</summary>
+<summary>📊 GitHub Stats</summary>
 
 ![GitHub Stats for claude-task-master](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=claude-task-master&username=eyaltoledano&all_stats=true&stats_only=true)
 
@@ -875,6 +886,17 @@ A TypeScript-based system for configuring and customizing Claude Code hooks with
 <summary>📊 GitHub Stats</summary>
 
 ![GitHub Stats for claude-hooks](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=claude-hooks&username=johnlindquist&all_stats=true&stats_only=true)
+
+</details>
+<br>
+
+[`claude-mem` ![GitHub Repo Stars](https://img.shields.io/github/stars/thedotmack/claude-mem) ![GitHub last commit](https://img.shields.io/github/last-commit/thedotmack/claude-mem)](https://github.com/thedotmack/claude-mem) &nbsp; by &nbsp; [Alex Newman](https://github.com/thedotmack)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;AGPL-3.0  
+Persistent memory compression system that captures tool usage, generates AI-powered session summaries, and injects relevant context into future Claude Code sessions through SQLite storage and full-text search across project history (and no extra-cost dependencies!). 🦾
+
+<details>
+<summary>📊 GitHub Stats</summary>
+
+![GitHub Stats for claude-mem](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=claude-mem&username=thedotmack&all_stats=true&stats_only=true)
 
 </details>
 <br>

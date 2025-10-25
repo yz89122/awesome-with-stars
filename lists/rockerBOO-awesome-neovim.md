@@ -410,7 +410,7 @@
 
 <!--lint disable double-link -->
 
-**[�� back to top](#contents)**
+**[⬆ back to top](#contents)**
 
 <!--lint enable double-link -->
 
@@ -1487,6 +1487,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 
 ## Scrolling
 
+- [Saghen/filler-begone.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/Saghen/filler-begone.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/Saghen/filler-begone.nvim)](https://github.com/Saghen/filler-begone.nvim) - Prevents scrolling past the bottom of the buffer and showing unnecessary filler lines.
 - [karb94/neoscroll.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/karb94/neoscroll.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/karb94/neoscroll.nvim)](https://github.com/karb94/neoscroll.nvim) - Smooth scrolling.
 - [declancm/cinnamon.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/declancm/cinnamon.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/declancm/cinnamon.nvim)](https://github.com/declancm/cinnamon.nvim) - Smooth scrolling for any movement command.
 - [nkakouros-original/scrollofffraction.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/nkakouros-original/scrollofffraction.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/nkakouros-original/scrollofffraction.nvim)](https://github.com/nkakouros-original/scrollofffraction.nvim) - Scrolloff as a fraction of the window height.
@@ -1501,7 +1502,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 - [nvim-mini/mini.nvim#mini.map ![GitHub Repo Stars](https://img.shields.io/github/stars/nvim-mini/mini.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/nvim-mini/mini.nvim)](https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-map.md) - Module of `mini.nvim` to show floating window with buffer text overview, scrollbar, and highlights.
 - [gorbit99/codewindow.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/gorbit99/codewindow.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/gorbit99/codewindow.nvim)](https://github.com/gorbit99/codewindow.nvim) - Minimap plugin, that is closely integrated with Tree-sitter and the builtin LSP to display more information to the user.
 - [lewis6991/satellite.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/lewis6991/satellite.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/lewis6991/satellite.nvim)](https://github.com/lewis6991/satellite.nvim) - Decorate scrollbar.
-- [wsdjeg/scrollbar.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/wsdjeg/satellite.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/wsdjeg/satellite.nvim)](https://github.com/wsdjeg/satellite.nvim) - Floating scrollbar.
+- [wsdjeg/scrollbar.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/wsdjeg/scrollbar.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/wsdjeg/scrollbar.nvim)](https://github.com/wsdjeg/scrollbar.nvim) - Floating scrollbar.
 
 <!--lint disable double-link -->
 
