@@ -51,7 +51,7 @@
 	- [Communities](#communities)
 	- [Editor plugins](#editor-plugins)
 	- [Forums](#forums)
-	- [GitHub actions](#github-actions)
+	- [GitHub Actions](#github-actions)
 	- [GitHub templates](#github-templates)
 	- [IDEs with V](#ides-with-v)
 	- [Online IDEs with V](#online-ides-with-v)
@@ -77,7 +77,7 @@ SDL2 and SDL3 based applications importing `vlang/sdl`.
 - [fdup ![GitHub Repo Stars](https://img.shields.io/github/stars/gechandesu/fdup) ![GitHub last commit](https://img.shields.io/github/last-commit/gechandesu/fdup)](https://github.com/gechandesu/fdup) - Find and remove duplicate files.
 - [github-releases ![GitHub Repo Stars](https://img.shields.io/github/stars/Dracks/repo-download-asset) ![GitHub last commit](https://img.shields.io/github/last-commit/Dracks/repo-download-asset)](https://github.com/Dracks/repo-download-asset) - Cli tool to keep track of applications released as GitHub Release (or assets in workflow) and download them.
 - [HN-top ![GitHub Repo Stars](https://img.shields.io/github/stars/BafS/hn-top) ![GitHub last commit](https://img.shields.io/github/last-commit/BafS/hn-top)](https://github.com/BafS/hn-top) - A simple command to list most recent news from hacker-news.
-- [klonol ![GitHub Repo Stars](https://img.shields.io/github/stars/hungrybluedev/klonol) ![GitHub last commit](https://img.shields.io/github/last-commit/hungrybluedev/klonol)](https://github.com/hungrybluedev/klonol) - CLI tool to help you "clone all" git repositories belonging to you. Works with GitHub and Gitea.
+- [klonol ![GitHub Repo Stars](https://img.shields.io/github/stars/hungrybluedev/klonol) ![GitHub last commit](https://img.shields.io/github/last-commit/hungrybluedev/klonol)](https://github.com/hungrybluedev/klonol) - CLI tool to help you "clone all" Git repositories belonging to you. Works with GitHub and Gitea.
 - [lsv ![GitHub Repo Stars](https://img.shields.io/github/stars/mike-ward/lsv) ![GitHub last commit](https://img.shields.io/github/last-commit/mike-ward/lsv)](https://github.com/mike-ward/lsv) - `ls` file lister in the spirit of exa, eza, lsd, pls, natls, ls-go and others.
 - [portctl ![GitHub Repo Stars](https://img.shields.io/github/stars/apoprotsky/portctl) ![GitHub last commit](https://img.shields.io/github/last-commit/apoprotsky/portctl)](https://github.com/apoprotsky/portctl) - CLI tool to manage Docker Swarm resources using Portainer API.
 - [runner ![GitHub Repo Stars](https://img.shields.io/github/stars/Naheel-Azawy/runner) ![GitHub last commit](https://img.shields.io/github/last-commit/Naheel-Azawy/runner)](https://github.com/Naheel-Azawy/runner) - A tool that automates running/compiling code written in various programming languages.
@@ -125,7 +125,7 @@ SDL2 and SDL3 based applications importing `vlang/sdl`.
 - [cotowali ![GitHub Repo Stars](https://img.shields.io/github/stars/cotowali/cotowali) ![GitHub last commit](https://img.shields.io/github/last-commit/cotowali/cotowali)](https://github.com/cotowali/cotowali) - A statically typed scripting language that transpiles into POSIX sh.
 - [monkey_v ![GitHub Repo Stars](https://img.shields.io/github/stars/Delta456/monkey_v) ![GitHub last commit](https://img.shields.io/github/last-commit/Delta456/monkey_v)](https://github.com/Delta456/monkey_v) - Implementation of [Thorsten Ball's Monkey Language](https://interpreterbook.com/) in V.
 - [stas ![GitHub Repo Stars](https://img.shields.io/github/stars/l1mey112/stas) ![GitHub last commit](https://img.shields.io/github/last-commit/l1mey112/stas)](https://github.com/l1mey112/stas/tree/0.1.0-v-compiler) - A stack based compiled programming language. The bootstrap compiler is written in V.
-- [v ![GitHub Repo Stars](https://img.shields.io/github/stars/vlang/v) ![GitHub last commit](https://img.shields.io/github/last-commit/vlang/v)](https://github.com/vlang/v) - V itself. Simple, fast, safe, compiled language for developing maintainable software.
+- [v ![GitHub Repo Stars](https://img.shields.io/github/stars/vlang/v) ![GitHub last commit](https://img.shields.io/github/last-commit/vlang/v)](https://github.com/vlang/v) - The language V itself. Simple, fast, safe, compiled language for developing maintainable software.
 - [vas ![GitHub Repo Stars](https://img.shields.io/github/stars/v420v/vas) ![GitHub last commit](https://img.shields.io/github/last-commit/v420v/vas)](https://github.com/v420v/vas) - A simple x86-64 assembler written in V.
 - [vbf ![GitHub Repo Stars](https://img.shields.io/github/stars/vpervenditti/vbf) ![GitHub last commit](https://img.shields.io/github/last-commit/vpervenditti/vbf)](https://github.com/vpervenditti/vbf) - A brainfuck interpreter/compiler.
 - [vfuck ![GitHub Repo Stars](https://img.shields.io/github/stars/ShayokhShorfuddin/VFuck) ![GitHub last commit](https://img.shields.io/github/last-commit/ShayokhShorfuddin/VFuck)](https://github.com/ShayokhShorfuddin/VFuck) - A brainfuck interpreter written in V.
@@ -170,7 +170,7 @@ SDL2 and SDL3 based applications importing `vlang/sdl`.
 - [v-vite starter ![GitHub Repo Stars](https://img.shields.io/github/stars/v-vite/starter) ![GitHub last commit](https://img.shields.io/github/last-commit/v-vite/starter)](https://github.com/v-vite/starter) - A starter kit for Veb applications, preconfigured with Vite.js.
 - [vblog ![GitHub Repo Stars](https://img.shields.io/github/stars/scurty-labs/vblog) ![GitHub last commit](https://img.shields.io/github/last-commit/scurty-labs/vblog)](https://github.com/scurty-labs/vblog) - A simple, fast and responsive blogging system.
 - [Vebview.JS ![GitHub Repo Stars](https://img.shields.io/github/stars/malisipi/Vebview.JS) ![GitHub last commit](https://img.shields.io/github/last-commit/malisipi/Vebview.JS)](https://github.com/malisipi/Vebview.JS) - Electron/Neutralino.JS alternative written in V.
-- [Vieter ![GitHub Repo Stars](https://img.shields.io/github/stars/ChewingBever/vieter) ![GitHub last commit](https://img.shields.io/github/last-commit/ChewingBever/vieter)](https://github.com/ChewingBever/vieter) - Archlinux repository server & package build system, written in V.
+- [Vieter ![GitHub Repo Stars](https://img.shields.io/github/stars/ChewingBever/vieter) ![GitHub last commit](https://img.shields.io/github/last-commit/ChewingBever/vieter)](https://github.com/ChewingBever/vieter) - Arch Linux repository server & package build system, written in V.
 - [Vlang Benchmarks Visualization ![GitHub Repo Stars](https://img.shields.io/github/stars/ArtemkaKun/VlangBenchmarksVisualization) ![GitHub last commit](https://img.shields.io/github/last-commit/ArtemkaKun/VlangBenchmarksVisualization)](https://github.com/ArtemkaKun/VlangBenchmarksVisualization) - Fancy statistics and plots for *[Is V still fast?](https://fast.vlang.io/)*.
 - [vorum ![GitHub Repo Stars](https://img.shields.io/github/stars/vlang/vorum) ![GitHub last commit](https://img.shields.io/github/last-commit/vlang/vorum)](https://github.com/vlang/vorum) - Open-source blogging/forum software written in V.
 - [vss ![GitHub Repo Stars](https://img.shields.io/github/stars/vssio/vss) ![GitHub last commit](https://img.shields.io/github/last-commit/vssio/vss)](https://github.com/vssio/vss) - Easy-to-use static site generator.
@@ -201,11 +201,11 @@ SDL2 and SDL3 based applications importing `vlang/sdl`.
 - [vesseract ![GitHub Repo Stars](https://img.shields.io/github/stars/barrack-obama/vesseract) ![GitHub last commit](https://img.shields.io/github/last-commit/barrack-obama/vesseract)](https://github.com/barrack-obama/vesseract) - V wrapper for Tesseract-OCR (optical character recognition).
 
 ### Database clients
-
+<!-- lint disable awesome-spell-check -->
 - [firebird ![GitHub Repo Stars](https://img.shields.io/github/stars/einar-hjortdal/firebird) ![GitHub last commit](https://img.shields.io/github/last-commit/einar-hjortdal/firebird)](https://github.com/einar-hjortdal/firebird) - Client for Firebird SQL.
-- [mongodb ![GitHub Repo Stars](https://img.shields.io/github/stars/vlang/mongo) ![GitHub last commit](https://img.shields.io/github/last-commit/vlang/mongo)](https://github.com/vlang/mongo) - MongoDB driver for V.
+- [mongodb ![GitHub Repo Stars](https://img.shields.io/github/stars/vlang/mongo) ![GitHub last commit](https://img.shields.io/github/last-commit/vlang/mongo)](https://github.com/vlang/mongo) - A MongoDB driver for V.
 - [redict ![GitHub Repo Stars](https://img.shields.io/github/stars/einar-hjortdal/redict) ![GitHub last commit](https://img.shields.io/github/last-commit/einar-hjortdal/redict)](https://github.com/einar-hjortdal/redict) - Client for Redict, a LGPL-3.0-only fork of Redis (compatible with Redis <=7.2.4).
-- [redis ![GitHub Repo Stars](https://img.shields.io/github/stars/patrickpissurno/vredis) ![GitHub last commit](https://img.shields.io/github/last-commit/patrickpissurno/vredis)](https://github.com/patrickpissurno/vredis) - Redis client for V, written in V.
+- [redis ![GitHub Repo Stars](https://img.shields.io/github/stars/patrickpissurno/vredis) ![GitHub last commit](https://img.shields.io/github/last-commit/patrickpissurno/vredis)](https://github.com/patrickpissurno/vredis) - A Redis client for V, written in V.
 - [vduckdb ![GitHub Repo Stars](https://img.shields.io/github/stars/rodabt/vduckdb) ![GitHub last commit](https://img.shields.io/github/last-commit/rodabt/vduckdb)](https://github.com/rodabt/vduckdb) - A DuckDB client wrapper for V.
 - [vmemcached ![GitHub Repo Stars](https://img.shields.io/github/stars/blacktrub/vmemcached) ![GitHub last commit](https://img.shields.io/github/last-commit/blacktrub/vmemcached)](https://github.com/blacktrub/vmemcached) - Memcached client for V, written in V.
 - [vredis ![GitHub Repo Stars](https://img.shields.io/github/stars/xiusin/vredis) ![GitHub last commit](https://img.shields.io/github/last-commit/xiusin/vredis)](https://github.com/xiusin/vredis) - A simple, user-friendly, and comprehensive Redis client.
@@ -278,7 +278,7 @@ SDL2 and SDL3 based applications importing `vlang/sdl`.
 ### Scientific computing
 
 - [vplot ![GitHub Repo Stars](https://img.shields.io/github/stars/erdetn/vplot) ![GitHub last commit](https://img.shields.io/github/last-commit/erdetn/vplot)](https://github.com/erdetn/vplot) - V wrapper for GNU Plot (`gnuplot_i`).
-- [vsl ![GitHub Repo Stars](https://img.shields.io/github/stars/vlang/vsl) ![GitHub last commit](https://img.shields.io/github/last-commit/vlang/vsl)](https://github.com/vlang/vsl) - VSL is a Scientific Library with a great variety of different modules. Although most modules offer pure-V definitions, VSL also provides modules that wrap known C libraries among other backends that allow high performance computing as an alternative. Also provides opinionated wrappers for OpenBLAS, LAPACKE, MPI, OpenCL among other libraries.
+- [vsl ![GitHub Repo Stars](https://img.shields.io/github/stars/vlang/vsl) ![GitHub last commit](https://img.shields.io/github/last-commit/vlang/vsl)](https://github.com/vlang/vsl) - A Scientific Library with a great variety of different modules. Although most modules offer pure-V definitions, it also provides modules that wrap known C libraries among other backends that allow high performance computing as an alternative. Also provides opinionated wrappers for OpenBLAS, LAPACKE, MPI, OpenCL among other libraries.
 - [vtl ![GitHub Repo Stars](https://img.shields.io/github/stars/vlang/vtl) ![GitHub last commit](https://img.shields.io/github/last-commit/vlang/vtl)](https://github.com/vlang/vtl) - The V Tensor Library is a numerical computing library supporting n-dimensional data structure, backed by VSL.
 - [NeuralNetworks-V-Module ![GitHub Repo Stars](https://img.shields.io/github/stars/Eliyaan/NeuralNetworks-V-Module) ![GitHub last commit](https://img.shields.io/github/last-commit/Eliyaan/NeuralNetworks-V-Module)](https://github.com/Eliyaan/NeuralNetworks-V-Module) - This is a V module to create neural networks.
 
@@ -301,7 +301,7 @@ SDL2 and SDL3 based applications importing `vlang/sdl`.
 - [ascii_robot ![GitHub Repo Stars](https://img.shields.io/github/stars/Delta456/ascii_robot) ![GitHub last commit](https://img.shields.io/github/last-commit/Delta456/ascii_robot)](https://github.com/Delta456/ascii_robot) - ASCII Robot generator written in V.
 - [chalk ![GitHub Repo Stars](https://img.shields.io/github/stars/etienne-napoleone/chalk) ![GitHub last commit](https://img.shields.io/github/last-commit/etienne-napoleone/chalk)](https://github.com/etienne-napoleone/chalk) - Colorize strings in the terminal.
 - [cjson ![GitHub Repo Stars](https://img.shields.io/github/stars/lydiandy/cjson) ![GitHub last commit](https://img.shields.io/github/last-commit/lydiandy/cjson)](https://github.com/lydiandy/cjson) - Wrap cJSON for vlang.
-- [crayon ![GitHub Repo Stars](https://img.shields.io/github/stars/thecodrr/crayon) ![GitHub last commit](https://img.shields.io/github/last-commit/thecodrr/crayon)](https://github.com/thecodrr/crayon) - Paint your terminal output like Picasso. 🖍️���
+- [crayon ![GitHub Repo Stars](https://img.shields.io/github/stars/thecodrr/crayon) ![GitHub last commit](https://img.shields.io/github/last-commit/thecodrr/crayon)](https://github.com/thecodrr/crayon) - Paint your terminal output like Picasso. 🖍️🎨
 - [iconv ![GitHub Repo Stars](https://img.shields.io/github/stars/fanlia/iconv) ![GitHub last commit](https://img.shields.io/github/last-commit/fanlia/iconv)](https://github.com/fanlia/iconv) - Wrap iconv for vlang.
 - [pcre2 ![GitHub Repo Stars](https://img.shields.io/github/stars/srackham/pcre2) ![GitHub last commit](https://img.shields.io/github/last-commit/srackham/pcre2)](https://github.com/srackham/pcre2) - Library for processing PCRE regular expressions.
 - [read_xlsx_v ![GitHub Repo Stars](https://img.shields.io/github/stars/fanlia/read_xlsx_v) ![GitHub last commit](https://img.shields.io/github/last-commit/fanlia/read_xlsx_v)](https://github.com/fanlia/read_xlsx_v) - Read xlsx using vlang.
@@ -341,6 +341,7 @@ SDL2 and SDL3 based applications importing `vlang/sdl`.
 
 ### Web
 
+- [blobly ![GitHub Repo Stars](https://img.shields.io/github/stars/einar-hjortdal/blobly) ![GitHub last commit](https://img.shields.io/github/last-commit/einar-hjortdal/blobly)](https://github.com/einar-hjortdal/blobly) - Central file server.
 - [pico.v ![GitHub Repo Stars](https://img.shields.io/github/stars/S-YOU/pico.v) ![GitHub last commit](https://img.shields.io/github/last-commit/S-YOU/pico.v)](https://github.com/S-YOU/pico.v) - A web server in V based on picoev and picohttpparser.
 - [sessions ![GitHub Repo Stars](https://img.shields.io/github/stars/einar-hjortdal/sessions) ![GitHub last commit](https://img.shields.io/github/last-commit/einar-hjortdal/sessions)](https://github.com/einar-hjortdal/sessions) - Web-framework-agnostic sessions library.
 - [v-jsonrpc ![GitHub Repo Stars](https://img.shields.io/github/stars/nedpals/v-jsonrpc) ![GitHub last commit](https://img.shields.io/github/last-commit/nedpals/v-jsonrpc)](https://github.com/nedpals/v-jsonrpc) - Basic JSON-RPC 2.0-compliant server written on V.
@@ -352,7 +353,6 @@ SDL2 and SDL3 based applications importing `vlang/sdl`.
 - [vest ![GitHub Repo Stars](https://img.shields.io/github/stars/alexferl/vest) ![GitHub last commit](https://img.shields.io/github/last-commit/alexferl/vest)](https://github.com/alexferl/vest) - A REST client in V.
 - [vex ![GitHub Repo Stars](https://img.shields.io/github/stars/nedpals/vex) ![GitHub last commit](https://img.shields.io/github/last-commit/nedpals/vex)](https://github.com/nedpals/vex) - Web framework written on V inspired by Express and Sinatra.
 - [vigest ![GitHub Repo Stars](https://img.shields.io/github/stars/withs/vigest) ![GitHub last commit](https://img.shields.io/github/last-commit/withs/vigest)](https://github.com/withs/vigest) - Simple client for digest authentication (written in V).
-- [vistas ![GitHub Repo Stars](https://img.shields.io/github/stars/einar-hjortdal/vistas) ![GitHub last commit](https://img.shields.io/github/last-commit/einar-hjortdal/vistas)](https://github.com/einar-hjortdal/vistas) - Central file server API.
 - [vite.v ![GitHub Repo Stars](https://img.shields.io/github/stars/siguici/vite.v) ![GitHub last commit](https://img.shields.io/github/last-commit/siguici/vite.v)](https://github.com/siguici/vite.v) - Seamless [Vite.js](https://vite.dev) integration for Veb applications.
 - [vxbloauth ![GitHub Repo Stars](https://img.shields.io/github/stars/WolvesFortress/vxbl-oauth) ![GitHub last commit](https://img.shields.io/github/last-commit/WolvesFortress/vxbl-oauth)](https://github.com/WolvesFortress/vxbl-oauth) - A minimalistic Xbox Live authenticator for vweb.
 - [west ![GitHub Repo Stars](https://img.shields.io/github/stars/Dracks/West) ![GitHub last commit](https://img.shields.io/github/last-commit/Dracks/West)](https://github.com/Dracks/West) - A wrapper of vweb to work in a similar way as nestjs works with modules and dependency injection.
@@ -385,7 +385,7 @@ SDL2 and SDL3 based applications importing `vlang/sdl`.
 #### Sublime Text 3
 
 - [sublime-v ![GitHub Repo Stars](https://img.shields.io/github/stars/onerbs/sublime-v) ![GitHub last commit](https://img.shields.io/github/last-commit/onerbs/sublime-v)](https://github.com/onerbs/sublime-v) - Fully-featured Sublime Text 3 package for the V Programming Language.
-- [vlang-sublime ![GitHub Repo Stars](https://img.shields.io/github/stars/oversoul/vlang-sublime) ![GitHub last commit](https://img.shields.io/github/last-commit/oversoul/vlang-sublime)](https://github.com/oversoul/vlang-sublime) - Sublime text 3 Support for the Vlang Programming Language.
+- [vlang-sublime ![GitHub Repo Stars](https://img.shields.io/github/stars/oversoul/vlang-sublime) ![GitHub last commit](https://img.shields.io/github/last-commit/oversoul/vlang-sublime)](https://github.com/oversoul/vlang-sublime) - Sublime Text 3 Support for the Vlang Programming Language.
 
 #### VS Code
 
@@ -403,7 +403,7 @@ SDL2 and SDL3 based applications importing `vlang/sdl`.
 - [r/vlang](https://www.reddit.com/r/vlang)
 - [Stack Overflow](https://stackoverflow.com/questions/tagged/vlang)
 
-### GitHub actions
+### GitHub Actions
 
 - [action-create-v-docs ![GitHub Repo Stars](https://img.shields.io/github/stars/marketplace/actions) ![GitHub last commit](https://img.shields.io/github/last-commit/marketplace/actions)](https://github.com/marketplace/actions/create-documentation-for-v-modules) - GitHub action to create documentation for V modules.
 - [setup-v ![GitHub Repo Stars](https://img.shields.io/github/stars/marketplace/actions) ![GitHub last commit](https://img.shields.io/github/last-commit/marketplace/actions)](https://github.com/marketplace/actions/setup-vlang) - GitHub action to install and use V in your workflow.
