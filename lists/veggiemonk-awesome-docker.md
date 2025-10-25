@@ -733,7 +733,7 @@ Services to securely store your Docker images.
 -   [CodeFresh](https://codefresh.io) :heavy_dollar_sign: - Everything you need to build, test, and share your Docker applications. Provides automated end to end testing.
 -   [CodeShip](https://www.cloudbees.com/products/codeship) :heavy_dollar_sign: - Work with your established Docker workflows while automating your testing and deployment tasks with our hosted platform dedicated to speed and security.
 -   [ConcourseCI](https://concourse-ci.org) :heavy_dollar_sign: - A CI SaaS platform for developers and DevOps teams pipeline oriented.
--   [Semaphore CI](https://semaphore.io/) :heavy_dollar_sign: — A high-performance cloud solution that makes it easy to build, test and ship your containers to production.
+-   [Semaphore CI](https://semaphore.io/) :heavy_dollar_sign: �� A high-performance cloud solution that makes it easy to build, test and ship your containers to production.
 -   [TravisCI](https://www.travis-ci.com/) :heavy_dollar_sign: - A Free github projects continuous integration Saas platform for developers and Devops.
 
 ### CaaS
