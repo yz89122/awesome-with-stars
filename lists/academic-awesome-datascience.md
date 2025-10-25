@@ -205,7 +205,7 @@ How do you learn data science? By doing data science, of course! Okay, okay - th
 - [Data Science for Beginners - Learn with AI tutor](https://codekidz.ai/lesson-intro/data-science-368dbf)
 - [Machine Learning for Beginners - Learn with AI tutor](https://codekidz.ai/lesson-intro/machine-lear-36abfb)
 - [Introduction to Data Science](https://www.mygreatlearning.com/academy/learn-for-free/courses/introduction-to-data-science)
-x
+-[Getting Started with Python for Data Science](https://www.codecademy.com/learn/getting-started-with-python-for-data-science) 
 
 ### Intensive Programs
 **[`^        back to top        ^`](#awesome-data-science)**
@@ -717,7 +717,6 @@ This section includes some additional reading material, channels to watch, and t
 - [Wes McKinney](https://wesmckinney.com/archives.html) - Wes McKinney Archives.
 - [Matthew Russell](https://miningthesocialweb.com/) - Mining The Social Web.
 - [Greg Reda](http://www.gregreda.com/) - Greg Reda Personal Blog
-- [Kevin Davenport](https://kldavenport.com/) - Kevin Davenport Personal Blog
 - [Julia Evans](https://jvns.ca/) - Recurse Center alumna
 - [Hakan Kardas](https://www.cse.unr.edu/~hkardes/) - Personal Web Page
 - [Sean J. Taylor](https://seanjtaylor.com/) - Personal Web Page
