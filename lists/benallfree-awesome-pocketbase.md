@@ -66,6 +66,8 @@ PocketBase is an open source backend consisting of embedded database (SQLite) wi
 - [Proxy ![GitHub Repo Stars](https://img.shields.io/github/stars/iamelevich/pocketbase-plugin-proxy) ![GitHub last commit](https://img.shields.io/github/last-commit/iamelevich/pocketbase-plugin-proxy)](https://github.com/iamelevich/pocketbase-plugin-proxy) - Proxy requests to another other host. Can be useful when you want to use separate server as frontend (like Next.js), but serve everything with same port. ![GitHub Repo stars](https://img.shields.io/github/stars/iamelevich/pocketbase-plugin-proxy)
 - [Webhooks](https://gist.github.com/cugu/9e74f75dcad3df74370c71ff3c02085a) - Add webhook support in the admin UI to send `create`, `update` and `delete` events on selected collections via POST request to other systems.
 - [Typescript Generator ![GitHub Repo Stars](https://img.shields.io/github/stars/Vogeslu/pocketbase-ts-generator) ![GitHub last commit](https://img.shields.io/github/last-commit/Vogeslu/pocketbase-ts-generator)](https://github.com/Vogeslu/pocketbase-ts-generator) - Typescript generator standalone / library with auto generation hook or command ![GitHub Repo stars](https://img.shields.io/github/stars/Vogeslu/pocketbase-ts-generator)
+- [pocketbase-gogen ![GitHub Repo Stars](https://img.shields.io/github/stars/Snonky/pocketbase-gogen) ![GitHub last commit](https://img.shields.io/github/last-commit/Snonky/pocketbase-gogen)](https://github.com/Snonky/pocketbase-gogen) - Generate data model structs from a PocketBase schema. ![GitHub Repo stars](https://img.shields.io/github/stars/Snonky/pocketbase-gogen)
+
 
 ## React
 
