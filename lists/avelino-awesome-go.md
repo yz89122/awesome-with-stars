@@ -3504,7 +3504,7 @@ _Where to discover new Go libraries._
 - [skynet ![GitHub Repo Stars](https://img.shields.io/github/stars/atemerev/skynet) ![GitHub last commit](https://img.shields.io/github/last-commit/atemerev/skynet)](https://github.com/atemerev/skynet) - Skynet 1M threads microbenchmark.
 - [speedtest-resize ![GitHub Repo Stars](https://img.shields.io/github/stars/fawick/speedtest-resize) ![GitHub last commit](https://img.shields.io/github/last-commit/fawick/speedtest-resize)](https://github.com/fawick/speedtest-resize) - Compare various Image resize algorithms for the Go language.
 
-**[⬆ back to top](#contents)**
+**[��� back to top](#contents)**
 
 ## Conferences
 
