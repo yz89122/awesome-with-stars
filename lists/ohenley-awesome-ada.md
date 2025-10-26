@@ -192,10 +192,11 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 - [libera-chat-ada](https://libera.chat/) - Ada channel at IRC.
 - [matrix-ada](https://matrix.to/#/#ada-lang_Lobby:gitter.im) - Ada room at Gitter via Matrix.
 - [hacker-news-ada](https://hn.algolia.com/?query=ada&sort=byDate) - Ada at Hacker News.
+- [discord-ada](https://discord.gg/pdybNXMBsP) - Ada Discord server
 
 ### News and Resources
 - [adacore-blog](https://blog.adacore.com/) - An insight into the AdaCore ecosystem.
-- [ada-europe](http://www.ada-europe.org/) - Ada-Europe is an international organization, set up to promote the use of Ada.
+- [ada-europe](http://www.ada-europe.org/) - An international organization, set up to promote the use of Ada.
 - [acm-sig-ada](https://www.sigada.org/) - The Special Interest Group on Ada.
 - [ada-resource-association](https://www.adaic.org/community/) - Since 1990 the Ada Resource Association's principal mission has been “To ensure continued success of Ada users and promote Ada use in the software industry”.
 - [ada-information-clearinghouse](https://www.adaic.org/) - News and resources for the Ada programming language.
@@ -226,8 +227,8 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 
 #### MIT
 
-- [hac ![GitHub Repo Stars](https://img.shields.io/github/stars/zertovitch/hac) ![GitHub last commit](https://img.shields.io/github/last-commit/zertovitch/hac)](https://github.com/zertovitch/hac) - HAC Ada Compiler - a small, quick Ada compiler fully in Ada.
-- [byron ![GitHub Repo Stars](https://img.shields.io/github/stars/OneWingedShark/Byron) ![GitHub last commit](https://img.shields.io/github/last-commit/OneWingedShark/Byron)](https://github.com/OneWingedShark/Byron) - Byron is a community project to build an Ada compiler, toolchain, and IDE-system.
+- [hac ![GitHub Repo Stars](https://img.shields.io/github/stars/zertovitch/hac) ![GitHub last commit](https://img.shields.io/github/last-commit/zertovitch/hac)](https://github.com/zertovitch/hac) - The HAC Ada Compiler - a small, quick Ada compiler fully in Ada.
+- [byron ![GitHub Repo Stars](https://img.shields.io/github/stars/OneWingedShark/Byron) ![GitHub last commit](https://img.shields.io/github/last-commit/OneWingedShark/Byron)](https://github.com/OneWingedShark/Byron) - A community project to build an Ada compiler, toolchain, and IDE-system.
 
 #### Apache License
 
@@ -243,7 +244,6 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 - [object-ada](https://www.ptc.com/en/products/developer-tools/objectada) - PTC ObjectAda is an extensive family of native and cross development tools and runtime environments.
 - [apex-ada](https://www.ptc.com/en/products/developer-tools/apexada) - PTC ApexAda is one of the industry's most popular development environments for Ada and mixed Ada/C/C++ applications.
 - [greenhills-ada](https://www.ghs.com/products/ada_optimizing_compilers.html) - Green Hills Software offers the industry's first, fully validated family of Ada Cross Compilers for real-time targets.
-- [xgc](https://www.xgc.com/) - XGC provide GCC-based bare-metal toolchains with Ada95 support for aerospace-specific targets such as MIL1750, ERC32 and LEON. As well as a legacy M68000 toolchain.
 
 ### Online
 - [tutorials-point-ada-compiler](https://www.tutorialspoint.com/compile_ada_online.php) - Online compiler built on the CodingGround engine.
@@ -257,7 +257,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 - [ada-visual](https://marketplace.visualstudio.com/items?itemName=AlexGamper.VisualAda) - Ada language integration for Visual Studio 2017.
 
 ### Editors
-- [lea ![GitHub Repo Stars](https://img.shields.io/github/stars/zertovitch/lea) ![GitHub last commit](https://img.shields.io/github/last-commit/zertovitch/lea)](https://github.com/zertovitch/lea) - LEA, a Lightweight Editor for Ada, aims to provide an easy, script-world-like, "look & feel" for developing Ada projects of any size and level, while enabling access to full-scale development tools like GNAT. LEA includes HAC, the HAC Ada Compiler.
+- [lea ![GitHub Repo Stars](https://img.shields.io/github/stars/zertovitch/lea) ![GitHub last commit](https://img.shields.io/github/last-commit/zertovitch/lea)](https://github.com/zertovitch/lea) - A Lightweight Editor for Ada, aims to provide an easy, script-world-like, "look & feel" for developing Ada projects of any size and level, while enabling access to full-scale development tools like GNAT. LEA includes HAC, the HAC Ada Compiler.
 
 ### Text Modes
 - [gnu-emacs-ada-mode](https://www.nongnu.org/ada-mode/) - Gnu Emacs major-mode for editing Ada sources.
@@ -304,7 +304,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 - [m2os](https://m2os.unican.es/) - RTOS with simple tasking support for small microcontrollers.
 - [marte-os](https://marte.unican.es/) - MaRTE OS is a Hard Real-Time Operating System for embedded applications that follows the Minimal Real-Time POSIX.13 subset. It provides an easy to use and controlled environment to develop Multi-Thread Real-Time applications.
 - [muen](https://muen.codelabs.ch/) - An x86/64 Separation Kernel for High Assurance.
-- [ewok ![GitHub Repo Stars](https://img.shields.io/github/stars/wookey-project/ewok-kernel) ![GitHub last commit](https://img.shields.io/github/last-commit/wookey-project/ewok-kernel)](https://github.com/wookey-project/ewok-kernel) - EwoK is a microkernel targeting micro-controllers and embedded systems.
+- [ewok ![GitHub Repo Stars](https://img.shields.io/github/stars/wookey-project/ewok-kernel) ![GitHub last commit](https://img.shields.io/github/last-commit/wookey-project/ewok-kernel)](https://github.com/wookey-project/ewok-kernel) - A microkernel targeting micro-controllers and embedded systems.
 - [bare-bones ![GitHub Repo Stars](https://img.shields.io/github/stars/Lucretia/bare_bones) ![GitHub last commit](https://img.shields.io/github/last-commit/Lucretia/bare_bones)](https://github.com/Lucretia/bare_bones) - An Ada port of the [osdev.org](https://wiki.osdev.org/Ada_Bare_Bones) minimal 32-bit x86 kernel.
 - [lovelace-os](https://sourceforge.net/projects/lovelaceos/) - Lovelace is an effort to write a Unix like operating system using the Ada 2012 language.
 - [ada-kalinda-os](https://sourceforge.net/projects/sx-ada-kalinda/) - Ada KALINDA is a sort of Mac Plus like OS written in Ada95.
@@ -323,10 +323,10 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 - [ada-venture ![GitHub Repo Stars](https://img.shields.io/github/stars/fastrgv/AdaVenture) ![GitHub last commit](https://img.shields.io/github/last-commit/fastrgv/AdaVenture)](https://github.com/fastrgv/AdaVenture) - AdaVenture is a kid-friendly retro point&click game with mazes, dragons, bats & snakes.
 - [retro-arcade ![GitHub Repo Stars](https://img.shields.io/github/stars/fastrgv/RetroArcade) ![GitHub last commit](https://img.shields.io/github/last-commit/fastrgv/RetroArcade)](https://github.com/fastrgv/RetroArcade) - Space Invaders, Pacman, & Frogger games that run in a terminal on Windows, OS-X & Linux. 
 - [world-cup-sokerban ![GitHub Repo Stars](https://img.shields.io/github/stars/fastrgv/WorldCupSokerban) ![GitHub last commit](https://img.shields.io/github/last-commit/fastrgv/WorldCupSokerban)](https://github.com/fastrgv/WorldCupSokerban) - This is a soccer-themed, 3D sokoban puzzle game that runs on Windows, Mac OS-X and GNU Linux.
-- [pasta](http://pasta.phyrama.com/) - Pasta! is a game of the "match-3" genre, implemented in [gnoga].
+- [pasta](http://pasta.phyrama.com/) - A game of the "match-3" genre, implemented in [gnoga].
 - [buttons ![GitHub Repo Stars](https://img.shields.io/github/stars/andreacervetti/buttons) ![GitHub last commit](https://img.shields.io/github/last-commit/andreacervetti/buttons)](https://github.com/andreacervetti/buttons) - A simple [gtkada] Button Mania game.
-- [mine-detector ![GitHub Repo Stars](https://img.shields.io/github/stars/jrcarter/Mine_Detector) ![GitHub last commit](https://img.shields.io/github/last-commit/jrcarter/Mine_Detector)](https://github.com/jrcarter/Mine_Detector) - Mine Detector: a mine-finding game that never requires guessing.
-- [play-2048 ![GitHub Repo Stars](https://img.shields.io/github/stars/mgrojo/play_2048) ![GitHub last commit](https://img.shields.io/github/last-commit/mgrojo/play_2048)](https://github.com/mgrojo/play_2048) - Play 2048! is a clone of the popular 2048 game, implemented in Ada using [asfml] for graphics and [ada-toml] for saving state.
+- [mine-detector ![GitHub Repo Stars](https://img.shields.io/github/stars/jrcarter/Mine_Detector) ![GitHub last commit](https://img.shields.io/github/last-commit/jrcarter/Mine_Detector)](https://github.com/jrcarter/Mine_Detector) - A mine-finding game that never requires guessing.
+- [play-2048 ![GitHub Repo Stars](https://img.shields.io/github/stars/mgrojo/play_2048) ![GitHub last commit](https://img.shields.io/github/last-commit/mgrojo/play_2048)](https://github.com/mgrojo/play_2048) - A clone of the popular 2048 game, implemented in Ada using [asfml] for graphics and [ada-toml] for saving state.
 - [bingada ![GitHub Repo Stars](https://img.shields.io/github/stars/jfuica/bingada) ![GitHub last commit](https://img.shields.io/github/last-commit/jfuica/bingada)](https://github.com/jfuica/bingada) - Bingo application in [gtkada].
 - [civ-klon ![GitHub Repo Stars](https://img.shields.io/github/stars/HonkiTonk/Civ-Klon) ![GitHub last commit](https://img.shields.io/github/last-commit/HonkiTonk/Civ-Klon)](https://github.com/HonkiTonk/Civ-Klon) - Civilization-style turn-based strategy game. Requires [asfml].
 - [eepers ![GitHub Repo Stars](https://img.shields.io/github/stars/tsoding/eepers) ![GitHub last commit](https://img.shields.io/github/last-commit/tsoding/eepers)](https://github.com/tsoding/eepers) - A simple Turn-based Game in Ada (made with [raylib ![GitHub Repo Stars](https://img.shields.io/github/stars/raysan5/raylib) ![GitHub last commit](https://img.shields.io/github/last-commit/raysan5/raylib)](https://github.com/raysan5/raylib)).
@@ -340,7 +340,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 - [gnatcoll-bindings ![GitHub Repo Stars](https://img.shields.io/github/stars/AdaCore/gnatcoll-bindings) ![GitHub last commit](https://img.shields.io/github/last-commit/AdaCore/gnatcoll-bindings)](https://github.com/AdaCore/gnatcoll-bindings) - This is the bindings module of the GNAT Components Collection.
 - [gnatcoll-db ![GitHub Repo Stars](https://img.shields.io/github/stars/AdaCore/gnatcoll-db) ![GitHub last commit](https://img.shields.io/github/last-commit/AdaCore/gnatcoll-db)](https://github.com/AdaCore/gnatcoll-db) - This is the DB module of the GNAT Components Collection.
 - [gnatcoll-json ![GitHub Repo Stars](https://img.shields.io/github/stars/persan/gnatcoll-json) ![GitHub last commit](https://img.shields.io/github/last-commit/persan/gnatcoll-json)](https://github.com/persan/gnatcoll-json) - This is a set of helpers for writing JSON-intefaces it contains JSON parses for most of the Ada runtime components.
-- [gneiss ![GitHub Repo Stars](https://img.shields.io/github/stars/Componolit/gneiss) ![GitHub last commit](https://img.shields.io/github/last-commit/Componolit/gneiss)](https://github.com/Componolit/gneiss) - Gneiss is an interface collection to be used with applications for component based systems. It aims to be easily portable/platform independent and is compatible with the [ada-runtime].
+- [gneiss ![GitHub Repo Stars](https://img.shields.io/github/stars/Componolit/gneiss) ![GitHub last commit](https://img.shields.io/github/last-commit/Componolit/gneiss)](https://github.com/Componolit/gneiss) - An interface collection to be used with applications for component based systems. It aims to be easily portable/platform independent and is compatible with the [ada-runtime].
 - [lace ![GitHub Repo Stars](https://img.shields.io/github/stars/charlie5/lace) ![GitHub last commit](https://img.shields.io/github/last-commit/charlie5/lace)](https://github.com/charlie5/lace) - A set of Ada components to allow 3D simulations, games and GUI's in Ada.
 - [asap ![GitHub Repo Stars](https://img.shields.io/github/stars/annexi-strayline/ASAP) ![GitHub last commit](https://img.shields.io/github/last-commit/annexi-strayline/ASAP)](https://github.com/annexi-strayline/ASAP) - A set of general libraries and thick bindings for use with the AURA package management/build tool. Includes TCP, TLS, HTTP, a high-performance JSON parser/generator, and a formally verified (SPARK) UTF-8 stream decoder.
 
@@ -350,7 +350,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 ### Graphical User Interface
 - [gnoga](https://sourceforge.net/projects/gnoga/) - The GNU Omnificent GUI for Ada.
 - [gwindows ![GitHub Repo Stars](https://img.shields.io/github/stars/zertovitch/gwindows) ![GitHub last commit](https://img.shields.io/github/last-commit/zertovitch/gwindows)](https://github.com/zertovitch/gwindows) - GNU Ada Visual Interface.
-- [claw](http://www.rrsoftware.com/html/prodinf/claw/claw.htm) - CLAW, a High Level, Portable, Ada 95 Binding for Microsoft Windows.
+- [claw](http://www.rrsoftware.com/html/prodinf/claw/claw.htm) - A High Level, Portable, Ada 95 Binding for Microsoft Windows.
 - [gtkada ![GitHub Repo Stars](https://img.shields.io/github/stars/AdaCore/gtkada) ![GitHub last commit](https://img.shields.io/github/last-commit/AdaCore/gtkada)](https://github.com/AdaCore/gtkada) - Ada graphical toolkit based on Gtk3 components.
 - [qt-ada](https://r3fowwcolhrzycn2yzlzzw.on.drv.tw/AdaStudio/qt6ada/qt6ada.html) - Ada-2012 port to Qt 6 framework.
 - [vtk-ada](https://r3fowwcolhrzycn2yzlzzw.on.drv.tw/AdaStudio/vtkada/vtkada.html) - Ada-2012 port to VTK 8.1 (Visualization Toolkit).
@@ -383,7 +383,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 
 ### Web
 <!--lint disable awesome-spell-check-->
-- [aws ![GitHub Repo Stars](https://img.shields.io/github/stars/AdaCore/aws) ![GitHub last commit](https://img.shields.io/github/last-commit/AdaCore/aws)](https://github.com/AdaCore/aws) - AWS is a complete framework to develop Web based applications in Ada.
+- [aws ![GitHub Repo Stars](https://img.shields.io/github/stars/AdaCore/aws) ![GitHub last commit](https://img.shields.io/github/last-commit/AdaCore/aws)](https://github.com/AdaCore/aws) - Ada Web Server is a complete framework to develop Web based applications in Ada.
 <!--lint enable awesome-list-item-->
 - [awa ![GitHub Repo Stars](https://img.shields.io/github/stars/stcarrez/ada-awa) ![GitHub last commit](https://img.shields.io/github/last-commit/stcarrez/ada-awa)](https://github.com/stcarrez/ada-awa) - Ada Web Application is a framework to build a Web Application in Ada 2012. The framework provides several ready to use and extendable modules that are common to many web application. This includes the login, authentication, users, permissions, managing comments, tags, votes, documents, images.
     - [dynamo ![GitHub Repo Stars](https://img.shields.io/github/stars/stcarrez/dynamo) ![GitHub last commit](https://img.shields.io/github/last-commit/stcarrez/dynamo)](https://github.com/stcarrez/dynamo) - Code generator used to generate an Ada Web Application or database mappings from hibernate-like XML description, YAML doctrine model or UML models.
@@ -394,12 +394,12 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
     - [ada-servlet ![GitHub Repo Stars](https://img.shields.io/github/stars/stcarrez/ada-servlet) ![GitHub last commit](https://img.shields.io/github/last-commit/stcarrez/ada-servlet)](https://github.com/stcarrez/ada-servlet) - Ada Servlet allows to create web applications using the same pattern as the Java Servlet (See JSR 154, JSR 315).
 - [swagger-ada ![GitHub Repo Stars](https://img.shields.io/github/stars/stcarrez/swagger-ada) ![GitHub last commit](https://img.shields.io/github/last-commit/stcarrez/swagger-ada)](https://github.com/stcarrez/swagger-ada) - Ada support for Swagger codegen: OpenAPI Generator is a code generator that supports generation of API client libraries, server stubs and documentation automatically given an OpenAPI Spec.
 - [ews ![GitHub Repo Stars](https://img.shields.io/github/stars/simonjwright/ews) ![GitHub last commit](https://img.shields.io/github/last-commit/simonjwright/ews)](https://github.com/simonjwright/ews) - Embedded Web Server is a web server construction kit, designed for embedded applications using the GNAT Ada compiler.
-- [matreshka ![GitHub Repo Stars](https://img.shields.io/github/stars/godunko/matreshka) ![GitHub last commit](https://img.shields.io/github/last-commit/godunko/matreshka)](https://github.com/godunko/matreshka) - Matreshka is an Ada framework to develop information systems consisting of five major components: League, XML processor, Web framework, SQL access, and the Modeling framework.
+- [matreshka ![GitHub Repo Stars](https://img.shields.io/github/stars/godunko/matreshka) ![GitHub last commit](https://img.shields.io/github/last-commit/godunko/matreshka)](https://github.com/godunko/matreshka) - Framework to develop information systems consisting of five major components: League, XML processor, Web framework, SQL access, and the Modeling framework.
 
 [matreshka]: https://github.com/godunko/matreshka
 
 ### Unit Test, Testing
-- [ahven](http://ahven.stronglytyped.org/) - Ahven is a simple unit test library and framework for the Ada programming.
+- [ahven](http://ahven.stronglytyped.org/) - A simple unit test library and framework for the Ada programming.
 language.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [aunit ![GitHub Repo Stars](https://img.shields.io/github/stars/AdaCore/aunit) ![GitHub last commit](https://img.shields.io/github/last-commit/AdaCore/aunit)](https://github.com/AdaCore/aunit) - Ada unit testing framework.
 - [bbt ![GitHub Repo Stars](https://img.shields.io/github/stars/LionelDraghi/bbt) ![GitHub last commit](https://img.shields.io/github/last-commit/LionelDraghi/bbt)](https://github.com/LionelDraghi/bbt) - Simple tool to black box check the behavior of an executable through the command line.
@@ -407,7 +407,7 @@ language.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [scripted-testing ![GitHub Repo Stars](https://img.shields.io/github/stars/simonjwright/scripted_testing) ![GitHub last commit](https://img.shields.io/github/last-commit/simonjwright/scripted_testing)](https://github.com/simonjwright/scripted_testing) - Supports functional testing using Tcl scripts.
 
 ### Logging
-- [alog](https://www.codelabs.ch/alog/) - Alog is a stackable logging framework for Ada.
+- [alog](https://www.codelabs.ch/alog/) - Stackable logging framework for Ada.
 - [elogs ![GitHub Repo Stars](https://img.shields.io/github/stars/kevlar700/elogs) ![GitHub last commit](https://img.shields.io/github/last-commit/kevlar700/elogs)](https://github.com/kevlar700/elogs) - Logging framework for embedded systems absent of runtime errors.
 
 ### Machine Learning
@@ -423,8 +423,8 @@ language.  It is loosely modelled after JUnit and some ideas from AUnit.
 
 ### DevOps
 - [septum ![GitHub Repo Stars](https://img.shields.io/github/stars/pyjarrett/septum) ![GitHub last commit](https://img.shields.io/github/last-commit/pyjarrett/septum)](https://github.com/pyjarrett/septum) - An interactive context-based text search tool for searching large codebases.
-- [powerjoular ![GitHub Repo Stars](https://img.shields.io/github/stars/joular/powerjoular) ![GitHub last commit](https://img.shields.io/github/last-commit/joular/powerjoular)](https://github.com/joular/powerjoular) - PowerJoular allows monitoring power consumption of multiple platforms and processes.
-- [mat ![GitHub Repo Stars](https://img.shields.io/github/stars/stcarrez/mat) ![GitHub last commit](https://img.shields.io/github/last-commit/stcarrez/mat)](https://github.com/stcarrez/mat) - MAT is a simple memory analysis tool intended to help understand where the memory is used in a program.
+- [powerjoular ![GitHub Repo Stars](https://img.shields.io/github/stars/joular/powerjoular) ![GitHub last commit](https://img.shields.io/github/last-commit/joular/powerjoular)](https://github.com/joular/powerjoular) - This tool allows monitoring power consumption of multiple platforms and processes.
+- [mat ![GitHub Repo Stars](https://img.shields.io/github/stars/stcarrez/mat) ![GitHub last commit](https://img.shields.io/github/last-commit/stcarrez/mat)](https://github.com/stcarrez/mat) - Simple memory analysis tool intended to help understand where the memory is used in a program.
 
 ### Verification
 - [gnat-coverage ![GitHub Repo Stars](https://img.shields.io/github/stars/AdaCore/gnatcoverage) ![GitHub last commit](https://img.shields.io/github/last-commit/AdaCore/gnatcoverage)](https://github.com/AdaCore/gnatcoverage) - GNATcoverage is a tool to analyze and report program coverage.
@@ -434,7 +434,7 @@ language.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [acats-grading ![GitHub Repo Stars](https://img.shields.io/github/stars/simonjwright/ACATS-grading) ![GitHub last commit](https://img.shields.io/github/last-commit/simonjwright/ACATS-grading)](https://github.com/simonjwright/ACATS-grading) - Tools for grading ACATS results, modified for Unix-like systems.
 
 ### Generation
-- [asn1scc ![GitHub Repo Stars](https://img.shields.io/github/stars/ttsiodras/asn1scc) ![GitHub last commit](https://img.shields.io/github/last-commit/ttsiodras/asn1scc)](https://github.com/ttsiodras/asn1scc) - ASN1SCC: An open source ASN.1 generator to Ada type declarations and encoders/decoders.
+- [asn1scc ![GitHub Repo Stars](https://img.shields.io/github/stars/ttsiodras/asn1scc) ![GitHub last commit](https://img.shields.io/github/last-commit/ttsiodras/asn1scc)](https://github.com/ttsiodras/asn1scc) - An open source ASN.1 generator to Ada type declarations and encoders/decoders.
 - [ocarina ![GitHub Repo Stars](https://img.shields.io/github/stars/OpenAADL/ocarina) ![GitHub last commit](https://img.shields.io/github/last-commit/OpenAADL/ocarina)](https://github.com/OpenAADL/ocarina) - AADL model processor: mappings to Ada code; Petri Nets; scheduling tools (MAST, Cheddar); WCET; REAL.
 - [fmt](http://www.inspirel.com/fmt/) - Formal Methods Toolkit is a set of extension packages for Mathematica, supporting software. engineering activities related to modeling, verification and Ada code generation.
 - [automate ![GitHub Repo Stars](https://img.shields.io/github/stars/Blady-Com/Automate) ![GitHub last commit](https://img.shields.io/github/last-commit/Blady-Com/Automate)](https://github.com/Blady-Com/Automate) - Finite-state machine generator.
@@ -444,7 +444,7 @@ language.  It is loosely modelled after JUnit and some ideas from AUnit.
 
 ### UML
 - [ada-ml ![GitHub Repo Stars](https://img.shields.io/github/stars/rocher/AdaML) ![GitHub last commit](https://img.shields.io/github/last-commit/rocher/AdaML)](https://github.com/rocher/AdaML) - Ada-tailored UML Modeling Language.
-- [coldframe ![GitHub Repo Stars](https://img.shields.io/github/stars/simonjwright/coldframe) ![GitHub last commit](https://img.shields.io/github/last-commit/simonjwright/coldframe)](https://github.com/simonjwright/coldframe) - ColdFrame generates Ada framework code and documentation from UML models.
+- [coldframe ![GitHub Repo Stars](https://img.shields.io/github/stars/simonjwright/coldframe) ![GitHub last commit](https://img.shields.io/github/last-commit/simonjwright/coldframe)](https://github.com/simonjwright/coldframe) - This tool generates Ada framework code and documentation from UML models.
 - [umbrello](https://apps.kde.org/es/umbrello/) - Unified Modelling Language (UML) diagram program based on KDE Technology. Outputs Ada.
 
 ### Encryption
@@ -454,7 +454,7 @@ language.  It is loosely modelled after JUnit and some ideas from AUnit.
 
 ### Math
 - [math-packages ![GitHub Repo Stars](https://img.shields.io/github/stars/jscparker/math_packages) ![GitHub last commit](https://img.shields.io/github/last-commit/jscparker/math_packages)](https://github.com/jscparker/math_packages) - Collection of basic math routines in Ada.
-- [mathpaqs ![GitHub Repo Stars](https://img.shields.io/github/stars/zertovitch/mathpaqs) ![GitHub last commit](https://img.shields.io/github/last-commit/zertovitch/mathpaqs)](https://github.com/zertovitch/mathpaqs) - Mathpaqs is a collection of mathematical, 100% portable, packages in the Ada programming language.
+- [mathpaqs ![GitHub Repo Stars](https://img.shields.io/github/stars/zertovitch/mathpaqs) ![GitHub last commit](https://img.shields.io/github/last-commit/zertovitch/mathpaqs)](https://github.com/zertovitch/mathpaqs) - Collection of mathematical, 100% portable, packages in the Ada programming language.
 - [mandelbrot-ascii ![GitHub Repo Stars](https://img.shields.io/github/stars/mosteo/mandelbrot_ascii) ![GitHub last commit](https://img.shields.io/github/last-commit/mosteo/mandelbrot_ascii)](https://github.com/mosteo/mandelbrot_ascii) - Mandelbrot renderer in "ASCII" (unicode actually, but text nonetheless).
 - [lalg ![GitHub Repo Stars](https://img.shields.io/github/stars/jhumphry/LALG) ![GitHub last commit](https://img.shields.io/github/last-commit/jhumphry/LALG)](https://github.com/jhumphry/LALG) - Interface to dense linear algebra packages.
 - [geo-energy-math ![GitHub Repo Stars](https://img.shields.io/github/stars/pukpr/GeoEnergyMath) ![GitHub last commit](https://img.shields.io/github/last-commit/pukpr/GeoEnergyMath)](https://github.com/pukpr/GeoEnergyMath) - Software libraries for solving models described in Mathematical GeoEnergy (Wiley, 2018).
@@ -462,7 +462,7 @@ language.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [hungarian ![GitHub Repo Stars](https://img.shields.io/github/stars/mosteo/hungarian) ![GitHub last commit](https://img.shields.io/github/last-commit/mosteo/hungarian)](https://github.com/mosteo/hungarian) - Ada binding to the fast Stachniss' Hungarian solver.
 
 ### Science
-- [si](http://archive.adaic.com/tools/CKWG/Dimension/SI.html) - SI units checked and unchecked.
+- [si](http://archive.adaic.com/tools/CKWG/Dimension/SI.html) - Checked and unchecked SI units.
 - [units-of-measurement](http://www.dmitry-kazakov.de/ada/units.htm) - Library to manage units of measurement with dimension checking.
 - [si_units ![GitHub Repo Stars](https://img.shields.io/github/stars/HeisenbugLtd/si_units) ![GitHub last commit](https://img.shields.io/github/last-commit/HeisenbugLtd/si_units)](https://github.com/HeisenbugLtd/si_units) - Utility library to pretty print physical values in proper metric units.
  
@@ -480,18 +480,18 @@ language.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [sl3p ![GitHub Repo Stars](https://img.shields.io/github/stars/jklmnn/sl3p) ![GitHub last commit](https://img.shields.io/github/last-commit/jklmnn/sl3p)](https://github.com/jklmnn/sl3p) - Simple Layer 3 Protocol.
 - [smart-pointers ![GitHub Repo Stars](https://img.shields.io/github/stars/alire-project/smart_pointers) ![GitHub last commit](https://img.shields.io/github/last-commit/alire-project/smart_pointers)](https://github.com/alire-project/smart_pointers) - A package providing a reference-counted access type Smart_Pointer.
 - [hungarian-algorithm ![GitHub Repo Stars](https://img.shields.io/github/stars/fastrgv/HungarianAlgorithm) ![GitHub last commit](https://img.shields.io/github/last-commit/fastrgv/HungarianAlgorithm)](https://github.com/fastrgv/HungarianAlgorithm) - Hungarian Algorithm implementation in Ada.
-- [sal](https://www.stephe-leake.org/ada/sal.html) - SAL (Stephe's Ada Library).
+- [sal](https://www.stephe-leake.org/ada/sal.html) - Stephe's Ada Library, a collection of containers and generics for access, discrete, integer, fixed point types, arrays, etc.
 - [nb-ada ![GitHub Repo Stars](https://img.shields.io/github/stars/andgi/NBAda) ![GitHub last commit](https://img.shields.io/github/last-commit/andgi/NBAda)](https://github.com/andgi/NBAda) - NBAda : An Ada library of lock-free data structures and algorithms.
 - [paraffin](https://sourceforge.net/projects/paraffin/) - A suite of Ada 2012 generics to facilitate iterative and recursive parallelism for multicore systems.
-- [deepend](https://sourceforge.net/projects/deepend/) - Deepend is a storage pool with subpool capabilities for Ada 2012, Ada 2005, and Ada 95.
-- [charles](https://web.archive.org/web/20161207211935/https://home.earthlink.net/~matthewjheaney/charles/) - Charles is an Ada 95 container library, precursor to Ada 2005+ standard containers.
+- [deepend](https://sourceforge.net/projects/deepend/) - Storage pool with subpool capabilities for Ada 2012, Ada 2005, and Ada 95.
+- [charles](https://web.archive.org/web/20161207211935/https://home.earthlink.net/~matthewjheaney/charles/) - Ada 95 container library, precursor to Ada 2005+ standard containers.
 <!--lint disable awesome-spell-check-->
 - [simple-blockchain ![GitHub Repo Stars](https://img.shields.io/github/stars/tomekw/simple_blockchain) ![GitHub last commit](https://img.shields.io/github/last-commit/tomekw/simple_blockchain)](https://github.com/tomekw/simple_blockchain) - Simple blockchain in Ada.
 <!--lint enable awesome-spell-check-->
 - [adagio ![GitHub Repo Stars](https://img.shields.io/github/stars/mosteo/adagio) ![GitHub last commit](https://img.shields.io/github/last-commit/mosteo/adagio)](https://github.com/mosteo/adagio) - Gnutella2 (G2) network server leaf.
 - [agpl ![GitHub Repo Stars](https://img.shields.io/github/stars/mosteo/agpl) ![GitHub last commit](https://img.shields.io/github/last-commit/mosteo/agpl)](https://github.com/mosteo/agpl) - Ada General Purpose Library (Miscellaneous utilities, with a robotic flavor).
 - [az3 ![GitHub Repo Stars](https://img.shields.io/github/stars/Componolit/AZ3) ![GitHub last commit](https://img.shields.io/github/last-commit/Componolit/AZ3)](https://github.com/Componolit/AZ3) - Ada binding for Z3.
-- [chests ![GitHub Repo Stars](https://img.shields.io/github/stars/JeremyGrosser/chests) ![GitHub last commit](https://img.shields.io/github/last-commit/JeremyGrosser/chests)](https://github.com/JeremyGrosser/chests) - Chests are bounded containers.
+- [chests ![GitHub Repo Stars](https://img.shields.io/github/stars/JeremyGrosser/chests) ![GitHub last commit](https://img.shields.io/github/last-commit/JeremyGrosser/chests)](https://github.com/JeremyGrosser/chests) - Bounded containers for embedded systems.
 
 [ada-language-server]: https://github.com/AdaCore/ada_language_server
 
@@ -514,7 +514,7 @@ language.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [blake2s ![GitHub Repo Stars](https://img.shields.io/github/stars/lkujaw/blake2s) ![GitHub last commit](https://img.shields.io/github/last-commit/lkujaw/blake2s)](https://github.com/lkujaw/blake2s) - SPARK83 implementation of the BLAKE2s hash function.
 
 ### Compression
-- [zip-ada ![GitHub Repo Stars](https://img.shields.io/github/stars/zertovitch/zip-ada) ![GitHub last commit](https://img.shields.io/github/last-commit/zertovitch/zip-ada)](https://github.com/zertovitch/zip-ada) - Zip-Ada is a programming library for dealing with the Zip compressed archive file format.
+- [zip-ada ![GitHub Repo Stars](https://img.shields.io/github/stars/zertovitch/zip-ada) ![GitHub last commit](https://img.shields.io/github/last-commit/zertovitch/zip-ada)](https://github.com/zertovitch/zip-ada) - Programming library for dealing with the Zip compressed archive file format.
 - [ada-lzma ![GitHub Repo Stars](https://img.shields.io/github/stars/stcarrez/ada-lzma) ![GitHub last commit](https://img.shields.io/github/last-commit/stcarrez/ada-lzma)](https://github.com/stcarrez/ada-lzma) - Ada binding for liblzma compression library.
 - [dcf-ada ![GitHub Repo Stars](https://img.shields.io/github/stars/onox/dcf-ada) ![GitHub last commit](https://img.shields.io/github/last-commit/onox/dcf-ada)](https://github.com/onox/dcf-ada) - An Ada 2012 library for document container files (Based on [zip-ada]).
 
@@ -530,9 +530,9 @@ language.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [radalib ![GitHub Repo Stars](https://img.shields.io/github/stars/sergio-gomez/Radalib) ![GitHub last commit](https://img.shields.io/github/last-commit/sergio-gomez/Radalib)](https://github.com/sergio-gomez/Radalib) - Ada library and tools for the analysis of Complex Networks and more.
 
 ### Parsers, Scanners, Linters, Analysers, Interpreters and Prettyprinters
-- [libadalang ![GitHub Repo Stars](https://img.shields.io/github/stars/AdaCore/libadalang) ![GitHub last commit](https://img.shields.io/github/last-commit/AdaCore/libadalang)](https://github.com/AdaCore/libadalang/) - Libadalang is a library for parsing and semantic analysis of Ada code. It is meant as a building block for integration into other tools (IDE, static analyzers, etc).
+- [libadalang ![GitHub Repo Stars](https://img.shields.io/github/stars/AdaCore/libadalang) ![GitHub last commit](https://img.shields.io/github/last-commit/AdaCore/libadalang)](https://github.com/AdaCore/libadalang/) - Library for parsing and semantic analysis of Ada code. It is meant as a building block for integration into other tools (IDE, static analyzers, etc).
 - [aflex-ayacc](https://blog.vacs.fr/vacs/blogs/post.html?post=2021/12/18/Aflex-1.5-and-Ayacc-1.3.0) - Ada scanner and parser generators.
-- [wisitoken](https://stephe-leake.org/ada/wisitoken.html) - WisiToken is an LALR, LR1, and Packrat parser generator and run-time.
+- [wisitoken](https://stephe-leake.org/ada/wisitoken.html) - An LALR, LR1, and Packrat parser generator and run-time.
 - [gela ![GitHub Repo Stars](https://img.shields.io/github/stars/reznikmm/gela) ![GitHub last commit](https://img.shields.io/github/last-commit/reznikmm/gela)](https://github.com/reznikmm/gela) - Ada code analyzer.
 - [anagram ![GitHub Repo Stars](https://img.shields.io/github/stars/reznikmm/anagram) ![GitHub last commit](https://img.shields.io/github/last-commit/reznikmm/anagram)](https://github.com/reznikmm/anagram) - Grammar handling and parser generation Ada library.
 - [ada-pretty ![GitHub Repo Stars](https://img.shields.io/github/stars/reznikmm/ada-pretty) ![GitHub last commit](https://img.shields.io/github/last-commit/reznikmm/ada-pretty)](https://github.com/reznikmm/ada-pretty) - Pretty printing library for Ada.
@@ -567,8 +567,8 @@ language.  It is loosely modelled after JUnit and some ideas from AUnit.
 [ada-toml]: https://github.com/pmderodat/ada-toml
 
 ### Networking and Communication Middleware
-- [anet](https://www.codelabs.ch/anet/) - Anet is a networking library for the Ada programming language.
-- [adhcp](https://codelabs.ch/adhcp/index.html) - ADHCP is an implementation of the DHCP protocol in Ada.
+- [anet](https://www.codelabs.ch/anet/) - Networking library for the Ada programming language.
+- [adhcp](https://codelabs.ch/adhcp/index.html) - Implementation of the DHCP protocol in Ada.
 - [adasockets ![GitHub Repo Stars](https://img.shields.io/github/stars/samueltardieu/adasockets) ![GitHub last commit](https://img.shields.io/github/last-commit/samueltardieu/adasockets)](https://github.com/samueltardieu/adasockets) - IPv4 socket library (TCP, UDP, and multicast).
 - [dbus-ada](https://codelabs.ch/dbus-ada/index.html) - The D_Bus/Ada library provides an Ada binding to the D-Bus message bus system.
 - [zeromq-ada ![GitHub Repo Stars](https://img.shields.io/github/stars/persan/zeromq-Ada.git) ![GitHub last commit](https://img.shields.io/github/last-commit/persan/zeromq-Ada.git)](https://github.com/persan/zeromq-Ada.git) - Binding to the ZeroMQ comunications-library.
@@ -605,7 +605,7 @@ language.  It is loosely modelled after JUnit and some ideas from AUnit.
 
 
 ### General Purpose Computing
-- [cuda ![GitHub Repo Stars](https://img.shields.io/github/stars/AdaCore/cuda) ![GitHub last commit](https://img.shields.io/github/last-commit/AdaCore/cuda)](https://github.com/AdaCore/cuda) - CUDA support from AdaCore.
+- [cuda ![GitHub Repo Stars](https://img.shields.io/github/stars/AdaCore/cuda) ![GitHub last commit](https://img.shields.io/github/last-commit/AdaCore/cuda)](https://github.com/AdaCore/cuda) - Support for CUDA (Compute Unified Device Architecture) from AdaCore.
 - [cuda-ada](https://codelabs.ch/cuda-ada/index.html) - CUDA/Ada is an Ada binding to NVIDIA's CUDA parallel computing platform and programming model.
 - [opencl-ada ![GitHub Repo Stars](https://img.shields.io/github/stars/flyx/OpenCLAda) ![GitHub last commit](https://img.shields.io/github/last-commit/flyx/OpenCLAda)](https://github.com/flyx/OpenCLAda) - An Ada binding for the OpenCL host API.
 - [boehmgc-ada ![GitHub Repo Stars](https://img.shields.io/github/stars/ytomino/boehmgc-ada) ![GitHub last commit](https://img.shields.io/github/last-commit/ytomino/boehmgc-ada)](https://github.com/ytomino/boehmgc-ada) - Ada binding to the Boehm-Demers-Weiser conservative garbage collector.
@@ -619,7 +619,7 @@ language.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [coreland-openal-ada ![GitHub Repo Stars](https://img.shields.io/github/stars/io7m/coreland-openal-ada) ![GitHub last commit](https://img.shields.io/github/last-commit/io7m/coreland-openal-ada)](https://github.com/io7m/coreland-openal-ada) - Ada binding to OpenAL.
 - [ada-synthetizer ![GitHub Repo Stars](https://img.shields.io/github/stars/frett27/Ada-Synthetizer) ![GitHub last commit](https://img.shields.io/github/last-commit/frett27/Ada-Synthetizer)](https://github.com/frett27/Ada-Synthetizer) - Sound Synthetizer Library implemented in Ada.
 <!--lint disable awesome-spell-check-->
-- [scala](https://www.huygens-fokker.org/scala) - Scala is a powerful software tool for experimentation with musical tunings, such as just intonation scales, equal and historical temperaments, microtonal and macrotonal scales, and non-Western scales.
+- [scala](https://www.huygens-fokker.org/scala) - A powerful software tool for experimentation with musical tunings, such as just intonation scales, equal and historical temperaments, microtonal and macrotonal scales, and non-Western scales.
 <!--lint enable awesome-list-item-->- [portable-openal-sound ![GitHub Repo Stars](https://img.shields.io/github/stars/fastrgv/portable-openal-sound) ![GitHub last commit](https://img.shields.io/github/last-commit/fastrgv/portable-openal-sound)](https://github.com/fastrgv/portable-openal-sound) - A linux-sound-playing package for Ada apps that can asynchronously start and stop music loops, as well as initiate transient sounds.
 - [adaogg](https://phasercat.com/adaogg/) - Complete thin interface layer that brings the Ogg, Vorbis, and Theora libraries to the Ada 2012 programming language.
 
@@ -661,8 +661,8 @@ language.  It is loosely modelled after JUnit and some ideas from AUnit.
 
 ### Bindings to Other Languages
 - [tcl-ada-shell ![GitHub Repo Stars](https://img.shields.io/github/stars/simonjwright/tcladashell) ![GitHub last commit](https://img.shields.io/github/last-commit/simonjwright/tcladashell)](https://github.com/simonjwright/tcladashell) - Tcl Ada SHell (Tash) is an Ada binding to Tcl/Tk.
-- [tashy ![GitHub Repo Stars](https://img.shields.io/github/stars/thindil/tashy) ![GitHub last commit](https://img.shields.io/github/last-commit/thindil/tashy)](https://github.com/thindil/tashy) - Tashy is short from Tcl Ada SHell Younger. It is derivate of Tash, focused mostly on Tk binding.
-- [tashy2 ![GitHub Repo Stars](https://img.shields.io/github/stars/thindil/tashy2) ![GitHub last commit](https://img.shields.io/github/last-commit/thindil/tashy2)](https://github.com/thindil/tashy2) - Tashy2 is short from Tcl Ada SHell Younger. It is derivate of Tashy, and aims to be more idiomatic and uses a more permisive license.
+- [tashy ![GitHub Repo Stars](https://img.shields.io/github/stars/thindil/tashy) ![GitHub last commit](https://img.shields.io/github/last-commit/thindil/tashy)](https://github.com/thindil/tashy) - Tcl Ada SHell Younger (Tashy) is derivate of Tash, focused mostly on Tk binding.
+- [tashy2 ![GitHub Repo Stars](https://img.shields.io/github/stars/thindil/tashy2) ![GitHub last commit](https://img.shields.io/github/last-commit/thindil/tashy2)](https://github.com/thindil/tashy2) - Derivate of Tashy that aims to be more idiomatic and uses a more permisive license.
 - [ada-lua ![GitHub Repo Stars](https://img.shields.io/github/stars/AdaCore/ada-lua) ![GitHub last commit](https://img.shields.io/github/last-commit/AdaCore/ada-lua)](https://github.com/AdaCore/ada-lua) - Ada binding for Lua.
 - [coreland-lua-ada ![GitHub Repo Stars](https://img.shields.io/github/stars/io7m/coreland-lua-ada) ![GitHub last commit](https://img.shields.io/github/last-commit/io7m/coreland-lua-ada)](https://github.com/io7m/coreland-lua-ada) - Ada bindings to the Lua language.
 
@@ -693,10 +693,10 @@ language.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [ada-enet ![GitHub Repo Stars](https://img.shields.io/github/stars/stcarrez/ada-enet) ![GitHub last commit](https://img.shields.io/github/last-commit/stcarrez/ada-enet)](https://github.com/stcarrez/ada-enet) - Embedded network stack (Ethernet driver, IPv4, UDP, DNS, DHCP, NTP) for STM32F746 or STM32F769.
 
 ### Libraries
-- [giza ![GitHub Repo Stars](https://img.shields.io/github/stars/Fabien-Chouteau/Giza) ![GitHub last commit](https://img.shields.io/github/last-commit/Fabien-Chouteau/Giza)](https://github.com/Fabien-Chouteau/Giza) - Giza is trying to be a simple widget tool kit for embedded platforms.
+- [giza ![GitHub Repo Stars](https://img.shields.io/github/stars/Fabien-Chouteau/Giza) ![GitHub last commit](https://img.shields.io/github/last-commit/Fabien-Chouteau/Giza)](https://github.com/Fabien-Chouteau/Giza) - This library is trying to be a simple widget tool kit for embedded platforms.
 - [ada-synth-lib ![GitHub Repo Stars](https://img.shields.io/github/stars/raph-amiard/ada-synth-lib) ![GitHub last commit](https://img.shields.io/github/last-commit/raph-amiard/ada-synth-lib)](https://github.com/raph-amiard/ada-synth-lib) - Simple audio synthesis library that can run on bareboard devices.
-- [geste ![GitHub Repo Stars](https://img.shields.io/github/stars/Fabien-Chouteau/GESTE) ![GitHub last commit](https://img.shields.io/github/last-commit/Fabien-Chouteau/GESTE)](https://github.com/Fabien-Chouteau/GESTE) - GESTE is a sprite and tile 2D render engine designed to run on micro-controllers.
-- [sancta ![GitHub Repo Stars](https://img.shields.io/github/stars/mosteo/sancta) ![GitHub last commit](https://img.shields.io/github/last-commit/mosteo/sancta)](https://github.com/mosteo/sancta) - SANCTA multi-robot task allocation library.
+- [geste ![GitHub Repo Stars](https://img.shields.io/github/stars/Fabien-Chouteau/GESTE) ![GitHub last commit](https://img.shields.io/github/last-commit/Fabien-Chouteau/GESTE)](https://github.com/Fabien-Chouteau/GESTE) - Sprite and tile 2D render engine designed to run on micro-controllers.
+- [sancta ![GitHub Repo Stars](https://img.shields.io/github/stars/mosteo/sancta) ![GitHub last commit](https://img.shields.io/github/last-commit/mosteo/sancta)](https://github.com/mosteo/sancta) - Multi-robot task allocation library.
 - [stm32-ui ![GitHub Repo Stars](https://img.shields.io/github/stars/stcarrez/stm32-ui) ![GitHub last commit](https://img.shields.io/github/last-commit/stcarrez/stm32-ui)](https://github.com/stcarrez/stm32-ui) - STM32 UI library and tools (graphs, images, 12 hour clock).
 - [ada-time ![GitHub Repo Stars](https://img.shields.io/github/stars/Fabien-Chouteau/Ada_Time) ![GitHub last commit](https://img.shields.io/github/last-commit/Fabien-Chouteau/Ada_Time)](https://github.com/Fabien-Chouteau/Ada_Time) - Ada binding for the Pebble Time smartwatch.
 - [wiring-pi-ada ![GitHub Repo Stars](https://img.shields.io/github/stars/jklmnn/wiringPi-Ada) ![GitHub last commit](https://img.shields.io/github/last-commit/jklmnn/wiringPi-Ada)](https://github.com/jklmnn/wiringPi-Ada) - Ada bindings for wiringPi.
@@ -718,7 +718,7 @@ language.  It is loosely modelled after JUnit and some ideas from AUnit.
 
 ### Office
 - [azip ![GitHub Repo Stars](https://img.shields.io/github/stars/zertovitch/azip) ![GitHub last commit](https://img.shields.io/github/last-commit/zertovitch/azip)](https://github.com/zertovitch/azip) - A free, portable Zip Archive Manager.
-- [texcad ![GitHub Repo Stars](https://img.shields.io/github/stars/zertovitch/texcad) ![GitHub last commit](https://img.shields.io/github/last-commit/zertovitch/texcad)](https://github.com/zertovitch/texcad) - TeXCAD is a program for drawing or retouching {picture}s in LaTeX.
+- [texcad ![GitHub Repo Stars](https://img.shields.io/github/stars/zertovitch/texcad) ![GitHub last commit](https://img.shields.io/github/last-commit/zertovitch/texcad)](https://github.com/zertovitch/texcad) - A program for drawing or retouching {picture}s in LaTeX.
 - [cbsg ![GitHub Repo Stars](https://img.shields.io/github/stars/zertovitch/cbsg) ![GitHub last commit](https://img.shields.io/github/last-commit/zertovitch/cbsg)](https://github.com/zertovitch/cbsg) - The Corporate Bullshit Generator.
 - [hunter ![GitHub Repo Stars](https://img.shields.io/github/stars/thindil/hunter) ![GitHub last commit](https://img.shields.io/github/last-commit/thindil/hunter)](https://github.com/thindil/hunter) - Graphical ([gtkada]) file manager for Linux.
 
@@ -760,8 +760,8 @@ language.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [winforms2gtk ![GitHub Repo Stars](https://img.shields.io/github/stars/fdesp87/winforms2gtk) ![GitHub last commit](https://img.shields.io/github/last-commit/fdesp87/winforms2gtk)](https://github.com/fdesp87/winforms2gtk) - Helper conversor of Visual Basic Microsoft Windows Forms applications to Gtk and Ada.
 
 ### Shells, Interpreters and Emulators
-- [sparforte](https://sparforte.com/) - SPARforte programming language is an Ada-like scripting language, previously known as business user shell (bush). Can be used as interactive UNIX shell replacement.
-- [gsh ![GitHub Repo Stars](https://img.shields.io/github/stars/AdaCore/gsh) ![GitHub last commit](https://img.shields.io/github/last-commit/AdaCore/gsh)](https://github.com/AdaCore/gsh) - GSH is non interactive POSIX shell for Windows, aimed at GNU software builds. 2-3 times faster than Cygwin.
+- [sparforte](https://sparforte.com/) - The SPARforte programming language is an Ada-like scripting language, previously known as business user shell (bush). Can be used as interactive UNIX shell replacement.
+- [gsh ![GitHub Repo Stars](https://img.shields.io/github/stars/AdaCore/gsh) ![GitHub last commit](https://img.shields.io/github/last-commit/AdaCore/gsh)](https://github.com/AdaCore/gsh) - Non interactive POSIX shell for Windows, aimed at GNU software builds. 2-3 times faster than Cygwin.
 - [analytical-engine ![GitHub Repo Stars](https://img.shields.io/github/stars/simonjwright/analytical-engine) ![GitHub last commit](https://img.shields.io/github/last-commit/simonjwright/analytical-engine)](https://github.com/simonjwright/analytical-engine) - An Ada 2012 emulation of Charles Babbage's Analytical Engine.
 - [a-shell ![GitHub Repo Stars](https://img.shields.io/github/stars/charlie5/aShell) ![GitHub last commit](https://img.shields.io/github/last-commit/charlie5/aShell)](https://github.com/charlie5/aShell) - A component to aid in writing shell-like applications in Ada.
 - [dashera ![GitHub Repo Stars](https://img.shields.io/github/stars/SMerrony/dashera) ![GitHub last commit](https://img.shields.io/github/last-commit/SMerrony/dashera)](https://github.com/SMerrony/dashera) - Data General DASHER terminal emulator using [gtkada].
