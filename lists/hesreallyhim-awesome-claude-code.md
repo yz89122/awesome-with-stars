@@ -1053,7 +1053,7 @@ Streamlines pull request creation by handling the entire workflow: creating a ne
 </details>
 <br>
 
-[`/create-pull-request` ![GitHub Repo Stars](https://img.shields.io/github/stars/liam-hq/liam) ![GitHub last commit](https://img.shields.io/github/last-commit/liam-hq/liam)](https://github.com/liam-hq/liam/blob/main/.claude/commands/create-pull-request.md) &nbsp; by &nbsp; [liam-hq](https://github.com/liam-hq)  &nbsp;&nbsp;���️&nbsp;&nbsp;Apache-2.0  
+[`/create-pull-request` ![GitHub Repo Stars](https://img.shields.io/github/stars/liam-hq/liam) ![GitHub last commit](https://img.shields.io/github/last-commit/liam-hq/liam)](https://github.com/liam-hq/liam/blob/main/.claude/commands/create-pull-request.md) &nbsp; by &nbsp; [liam-hq](https://github.com/liam-hq)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;Apache-2.0  
 Provides comprehensive PR creation guidance with GitHub CLI, enforcing title conventions, following template structure, and offering concrete command examples with best practices.
 
 <details>

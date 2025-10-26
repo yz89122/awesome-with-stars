@@ -214,7 +214,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [JSONGrid](https://jsongrid.com) - Free tool to Visualize, Edit, Filter complex JSON data into beautiful tabular Grid. Save and Share JSON data over link link.
   * [Zerosheets](https://zerosheets.com) - Turn your Google Sheets spreadsheets into powerful API`s to rapidly develop prototypes, websites, apps and more. 500 requests per month available for free.
   * [JSON to Table](https://jsontotable.org) - Convert JSON into an interactive table for quick viewing, editing, and sharing online.
-  * [IP.City](https://ip.city) ��� 100 Free IP geolocation requests per day
+  * [IP.City](https://ip.city) — 100 Free IP geolocation requests per day
   * [Abstract API](https://www.abstractapi.com) — API suite for various use cases, including IP geolocation, gender detection, or email validation.
   * [Apify](https://www.apify.com/) — Web scraping and automation platform to create an API for any website and extract data. Ready-made scrapers, integrated proxies, and custom solutions. Free plan with $5 platform credits included every month.
   * [APITemplate.io](https://apitemplate.io) - Auto-generate images and PDF documents with a simple API or automation tools like Zapier & Airtable. No CSS/HTML is required. The free plan comes with 50 images/month and three templates.
@@ -348,7 +348,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [SerpApi](https://serpapi.com/) - Real-time search engine scraping API. Returns structured JSON results for Google, YouTube, Bing, Baidu, Walmart, and many other machines. The free plan includes 100 successful API calls per month.
   * [SmartParse](https://smartparse.io) - SmartParse is a data migration and CSV to API platform that offers time- and cost-saving developer tools. The Free tier includes 300 Processing Units per month, Browser uploads, Data quarantining, Circuit breakers, and Job Alerts.
   * [Sofodata](https://www.sofodata.com/) - Create secure RESTful APIs from CSV files. Upload a CSV file and instantly access the data via its API allowing faster application development. The free plan includes 2 APIs and 2,500 API calls per month. You don't need a credit card.
-  * [YourGPT CSV to JSON](https://yourgpt.ai/tools/csv-to-json) ��� A fast, free, and privacy-focused online tool to easily convert CSV files into structured JSON data right in your browser.
+  * [YourGPT CSV to JSON](https://yourgpt.ai/tools/csv-to-json) — A fast, free, and privacy-focused online tool to easily convert CSV files into structured JSON data right in your browser.
   * [Sqlable](https://sqlable.com/) - A collection of free online SQL tools, including an SQL formatter and validator, SQL regex tester, fake data generator, and interactive database playgrounds.
   * [Stoplight](https://stoplight.io/) - Saas for collaboratively designing and documenting for APIs. The free plan offers free design, mocking, and documentation tools.
   * [Supportivekoala](https://supportivekoala.com/) — Allows you to autogenerate images by your input via templates. The free plan allows you to create up to 50 images per month.
@@ -652,7 +652,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [Testspace.com](https://testspace.com/) - A Dashboard for publishing automated test results and a Framework for implementing manual tests as code using GitHub. The service is [free for Open Source ![GitHub Repo Stars](https://img.shields.io/github/stars/marketplace/testspace-com) ![GitHub last commit](https://img.shields.io/github/last-commit/marketplace/testspace-com)](https://github.com/marketplace/testspace-com) and accounts for 450 monthly results.
   * [tesults.com](https://www.tesults.com) — Test results reporting and test case management. Integrates with popular test frameworks. Open Source software developers, individuals, educators, and small teams getting started can request discounted and free offerings beyond basic free projects.
   * [UseWebhook.com](https://usewebhook.com) - Capture and inspect webhooks from your browser. Forward to localhost, or replay from history. Free to use.
-  * [Vaadin](https://vaadin.com) ��� Build scalable UIs in Java or TypeScript, and use the integrated tooling, components, and design system to iterate faster, design better, and simplify the development process. Unlimited Projects with five years of free maintenance.
+  * [Vaadin](https://vaadin.com) — Build scalable UIs in Java or TypeScript, and use the integrated tooling, components, and design system to iterate faster, design better, and simplify the development process. Unlimited Projects with five years of free maintenance.
   * [websitepulse.com](https://www.websitepulse.com/tools/) — Various free network and server tools.
   * [webhook-test.com](https://webhook-test.com) - Debug and inspect webhooks and HTTP requests with a unique URL during integration. Completely free, you can create unlimited URLs and receive recommendations.
   * [webhook.site](https://webhook.site) - Verify webhooks, outbound HTTP requests, or emails with a custom URL. A temporary URL and email address are always free.
