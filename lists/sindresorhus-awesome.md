@@ -168,6 +168,7 @@
 - [Uno Platform ![GitHub Repo Stars](https://img.shields.io/github/stars/MartinZikmund/awesome-uno-platform) ![GitHub last commit](https://img.shields.io/github/last-commit/MartinZikmund/awesome-uno-platform)](https://github.com/MartinZikmund/awesome-uno-platform#readme) - Open-source .NET UI platform for building cross-platform apps.
 - [Google Cloud ![GitHub Repo Stars](https://img.shields.io/github/stars/GoogleCloudPlatform/awesome-google-cloud) ![GitHub last commit](https://img.shields.io/github/last-commit/GoogleCloudPlatform/awesome-google-cloud)](https://github.com/GoogleCloudPlatform/awesome-google-cloud#readme) - Cloud computing services by Google.
 - [Firebase Genkit ![GitHub Repo Stars](https://img.shields.io/github/stars/xavidop/awesome-firebase-genkit) ![GitHub last commit](https://img.shields.io/github/last-commit/xavidop/awesome-firebase-genkit)](https://github.com/xavidop/awesome-firebase-genkit#readme) - An open-source framework for building AI-powered apps and features.
+- [Backstage ![GitHub Repo Stars](https://img.shields.io/github/stars/shano/awesome-backstage) ![GitHub last commit](https://img.shields.io/github/last-commit/shano/awesome-backstage)](https://github.com/shano/awesome-backstage#readme) - Open-source platform for building Internal Developer Portals that unify tools and workflows.
 
 ## Programming Languages
 
@@ -199,7 +200,7 @@
 	- [Typing ![GitHub Repo Stars](https://img.shields.io/github/stars/typeddjango/awesome-python-typing) ![GitHub last commit](https://img.shields.io/github/last-commit/typeddjango/awesome-python-typing)](https://github.com/typeddjango/awesome-python-typing#readme) - Optional static typing for Python.
 	- [MicroPython ![GitHub Repo Stars](https://img.shields.io/github/stars/mcauser/awesome-micropython) ![GitHub last commit](https://img.shields.io/github/last-commit/mcauser/awesome-micropython)](https://github.com/mcauser/awesome-micropython#readme) - A lean and efficient implementation of Python 3 for microcontrollers.
 - [Rust ![GitHub Repo Stars](https://img.shields.io/github/stars/rust-unofficial/awesome-rust) ![GitHub last commit](https://img.shields.io/github/last-commit/rust-unofficial/awesome-rust)](https://github.com/rust-unofficial/awesome-rust#readme)
- 	- [Pest ![GitHub Repo Stars](https://img.shields.io/github/stars/pest-parser/awesome-pest) ![GitHub last commit](https://img.shields.io/github/last-commit/pest-parser/awesome-pest)](https://github.com/pest-parser/awesome-pest#readme) - Parser generator.
+	- [Pest ![GitHub Repo Stars](https://img.shields.io/github/stars/pest-parser/awesome-pest) ![GitHub last commit](https://img.shields.io/github/last-commit/pest-parser/awesome-pest)](https://github.com/pest-parser/awesome-pest#readme) - Parser generator.
 - [Haskell ![GitHub Repo Stars](https://img.shields.io/github/stars/krispo/awesome-haskell) ![GitHub last commit](https://img.shields.io/github/last-commit/krispo/awesome-haskell)](https://github.com/krispo/awesome-haskell#readme)
 - [PureScript ![GitHub Repo Stars](https://img.shields.io/github/stars/passy/awesome-purescript) ![GitHub last commit](https://img.shields.io/github/last-commit/passy/awesome-purescript)](https://github.com/passy/awesome-purescript#readme)
 - [Go ![GitHub Repo Stars](https://img.shields.io/github/stars/avelino/awesome-go) ![GitHub last commit](https://img.shields.io/github/last-commit/avelino/awesome-go)](https://github.com/avelino/awesome-go#readme)
@@ -251,6 +252,7 @@
 - [Move ![GitHub Repo Stars](https://img.shields.io/github/stars/MystenLabs/awesome-move) ![GitHub last commit](https://img.shields.io/github/last-commit/MystenLabs/awesome-move)](https://github.com/MystenLabs/awesome-move#readme) - Domain-specific programming language for writing safe smart contracts.
 - [Esolangs ![GitHub Repo Stars](https://img.shields.io/github/stars/angrykoala/awesome-esolangs) ![GitHub last commit](https://img.shields.io/github/last-commit/angrykoala/awesome-esolangs)](https://github.com/angrykoala/awesome-esolangs#readme) - Programming languages designed for experimentation or as jokes rather than actual use.
 - [VBA ![GitHub Repo Stars](https://img.shields.io/github/stars/sancarn/awesome-vba) ![GitHub last commit](https://img.shields.io/github/last-commit/sancarn/awesome-vba)](https://github.com/sancarn/awesome-vba#readme) - An event-driven version of Visual Basic 6.0 built into most Microsoft Office apps for automation and scripting.
+- [F# ![GitHub Repo Stars](https://img.shields.io/github/stars/fsprojects/awesome-fsharp) ![GitHub last commit](https://img.shields.io/github/last-commit/fsprojects/awesome-fsharp)](https://github.com/fsprojects/awesome-fsharp#readme) - A .NET-based language with focus on functional programming.
 
 <br>
 <hr>
@@ -505,6 +507,7 @@
 - [GameMaker ![GitHub Repo Stars](https://img.shields.io/github/stars/bytecauldron/awesome-gamemaker) ![GitHub last commit](https://img.shields.io/github/last-commit/bytecauldron/awesome-gamemaker)](https://github.com/bytecauldron/awesome-gamemaker#readme) - Game engine.
 - [Game Production ![GitHub Repo Stars](https://img.shields.io/github/stars/vhladiienko/awesome-game-production) ![GitHub last commit](https://img.shields.io/github/last-commit/vhladiienko/awesome-game-production)](https://github.com/vhladiienko/awesome-game-production#readme) - Leading the process of designing, developing, testing and distributing a video game from concept to release.
 - [Babylon.js ![GitHub Repo Stars](https://img.shields.io/github/stars/Symbitic/awesome-babylonjs) ![GitHub last commit](https://img.shields.io/github/last-commit/Symbitic/awesome-babylonjs)](https://github.com/Symbitic/awesome-babylonjs#readme) - Game engine for cross-platform web and native game development.
+- [Roblox ![GitHub Repo Stars](https://img.shields.io/github/stars/awesome-roblox/awesome-roblox) ![GitHub last commit](https://img.shields.io/github/last-commit/awesome-roblox/awesome-roblox)](https://github.com/awesome-roblox/awesome-roblox#readme) - Immersive platform for hosting millions of diverse experiences.
 
 ## Development Environment
 
@@ -882,6 +885,7 @@
 - [Permacomputing ![GitHub Repo Stars](https://img.shields.io/github/stars/idematos/awesome-permacomputing) ![GitHub last commit](https://img.shields.io/github/last-commit/idematos/awesome-permacomputing)](https://github.com/idematos/awesome-permacomputing#readme) - Resilient and regenerative computing practices inspired by permaculture.
 - [Standards ![GitHub Repo Stars](https://img.shields.io/github/stars/donBarbos/awesome-standards) ![GitHub last commit](https://img.shields.io/github/last-commit/donBarbos/awesome-standards)](https://github.com/donBarbos/awesome-standards#readme) - Standards and proposals that define and enhance software, languages, and related technologies.
 - [Claude Code ![GitHub Repo Stars](https://img.shields.io/github/stars/hesreallyhim/awesome-claude-code) ![GitHub last commit](https://img.shields.io/github/last-commit/hesreallyhim/awesome-claude-code)](https://github.com/hesreallyhim/awesome-claude-code#readme) - Terminal-based AI coding assistant by Anthropic.
+- [SAP Commerce ![GitHub Repo Stars](https://img.shields.io/github/stars/eminyagiz42/awesome-sap-commerce) ![GitHub last commit](https://img.shields.io/github/last-commit/eminyagiz42/awesome-sap-commerce)](https://github.com/eminyagiz42/awesome-sap-commerce#readme) - An e-commerce platform built with Java, Spring MVC, and Angular.
 
 ## Related
 
