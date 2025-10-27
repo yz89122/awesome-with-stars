@@ -533,6 +533,7 @@ My personal recommendation is (for now) to use the android api to build a native
 - [RxKotlin/Pocket ![GitHub Repo Stars](https://img.shields.io/github/stars/RxKotlin/Pocket) ![GitHub last commit](https://img.shields.io/github/last-commit/RxKotlin/Pocket)](https://github.com/RxKotlin/Pocket) - This app help user to save links easily, and can export to Evernote as weekly.
 - [Android Clean Architecture - Kotlin ![GitHub Repo Stars](https://img.shields.io/github/stars/patrickyin/clean-architecture-android-kotlin) ![GitHub last commit](https://img.shields.io/github/last-commit/patrickyin/clean-architecture-android-kotlin)](https://github.com/patrickyin/clean-architecture-android-kotlin) - A base project using the Uncle Bob's clean architecture with Kotlin language and the latest Android technologies.
 - [Koin](https://insert-koin.io/) - Lightweight dependency injection framework for Kotlin
+- [AppDimens ![GitHub Repo Stars](https://img.shields.io/github/stars/bodenberg/appdimens) ![GitHub last commit](https://img.shields.io/github/last-commit/bodenberg/appdimens)](https://github.com/bodenberg/appdimens) - Smart Responsive Dimensions for Any Screen (FX, DY, DP, SP, Logarithmic)
 
 ### Flutter
 - [Flutter](https://flutter.dev/) - Google's mobile app SDK for high-quality native interfaces for Android and iOS in very quick time.
