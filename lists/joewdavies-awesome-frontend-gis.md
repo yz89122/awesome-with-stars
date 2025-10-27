@@ -35,7 +35,7 @@
 - [:world_map: Web maps](#world_map-web-maps)
 - [🌐 **Web apps**](#-web-apps)
 - [🎨 **Colour advice**](#-colour-advice)
-- [���� **Icons**](#-icons)
+- [📍 **Icons**](#-icons)
 - [📺 **Videos**](#-videos)
 - [📚 **Further reading**](#-further-reading)
 
