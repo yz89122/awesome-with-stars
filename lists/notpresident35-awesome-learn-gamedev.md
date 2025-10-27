@@ -727,7 +727,7 @@ Royalty Free Game Art! Don't forget to check the license.
 [The Sound Effects Bible](https://postproduciendoenlaeav.files.wordpress.com/2017/09/the-sound-effects-bible-ric-viers.pdf) 🟪 - A book on everything sound effects.
 
 
-[Another list of resources!](https://twitter.com/chiragmachhar/status/1511446337639927811) 🟪 - [Archived PDF](archives/twitter/chiragmachharThread.pdf). 
+[Another list of resources!](https://twitter.com/chiragmachhar/status/1511446337639927811) ���� - [Archived PDF](archives/twitter/chiragmachharThread.pdf). 
 
 
 [SFXR](https://sfxr.me/) - A great program for generating simple sound effects.
