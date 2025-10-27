@@ -1816,7 +1816,7 @@ Readline, ncurses and other graphical TUI helpers
 Shells, shells interfaces
 -------------------------
 
-* [Lish ![GitHub Repo Stars](https://img.shields.io/github/stars/nibbula/lish) ![GitHub last commit](https://img.shields.io/github/last-commit/nibbula/lish)](https://github.com/nibbula/lish) - `lish` may someday be a lisp shell. [GPL3][2].
+* [Lish](https://codeberg.org/nibbula/yew/src/branch/master/lish) - `lish` may someday be a lisp shell. [GPL3][2].
   * supports tab-completion of executables in the path and Lisp symbols, allows to write and to mix shell commands and Lisp code, has a tiny REPL and an interactive debugger, and more.
 * [shcl ![GitHub Repo Stars](https://img.shields.io/github/stars/bradleyjensen/shcl) ![GitHub last commit](https://img.shields.io/github/last-commit/bradleyjensen/shcl)](https://github.com/bradleyjensen/shcl) - a POSIX-like shell in Common Lisp. [Apache2.0][89].
 * [Shelly ![GitHub Repo Stars](https://img.shields.io/github/stars/fukamachi/shelly) ![GitHub last commit](https://img.shields.io/github/last-commit/fukamachi/shelly)](https://github.com/fukamachi/shelly) - execute Common Lisp

@@ -365,7 +365,7 @@ Free (Open Source)
 
 Free (pay what you want)
 
-[![ ![GitHub Repo Stars](https://img.shields.io/github/stars/agarrharr/awesome-macos-screensavers) ![GitHub last commit](https://img.shields.io/github/last-commit/agarrharr/awesome-macos-screensavers)](https://github.com/agarrharr/awesome-macos-screensavers/raw/master/screenshots/johansson.png)](https://johansson.design/projects/)
+[![ ![GitHub Repo Stars](https://img.shields.io/github/stars/agarrharr/awesome-macos-screensavers) ![GitHub last commit](https://img.shields.io/github/last-commit/agarrharr/awesome-macos-screensavers)](https://github.com/agarrharr/awesome-macos-screensavers/raw/master/screenshots/johansson.png)](https://vsxop.com/work/screensavers)
 
 ---
 
