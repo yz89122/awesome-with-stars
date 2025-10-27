@@ -313,7 +313,7 @@ Provides a systematic approach to priming Claude Code with comprehensive project
 A tailored workflow for enabling automated UI/UX design review, including specialized sub agents, slash commands, `CLAUDE.md` excerpts, and more. Covers a broad range of criteria from responsive design to accessibility.
 
 <details>
-<summary>��� GitHub Stats</summary>
+<summary>📊 GitHub Stats</summary>
 
 ![GitHub Stats for claude-code-workflows](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=claude-code-workflows&username=OneRedOak&all_stats=true&stats_only=true)
 
