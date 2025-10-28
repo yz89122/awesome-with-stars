@@ -713,7 +713,7 @@ Handy CLI tool for managing and analyzing Claude Code usage, based on analyzing 
 </details>
 <br>
 
-[`ccflare` ![GitHub Repo Stars](https://img.shields.io/github/stars/snipeship/ccflare) ![GitHub last commit](https://img.shields.io/github/last-commit/snipeship/ccflare)](https://github.com/snipeship/ccflare) &nbsp; by &nbsp; [snipeship](https://github.com/snipeship)  &nbsp;&nbsp;��️&nbsp;&nbsp;MIT  
+[`ccflare` ![GitHub Repo Stars](https://img.shields.io/github/stars/snipeship/ccflare) ![GitHub last commit](https://img.shields.io/github/last-commit/snipeship/ccflare)](https://github.com/snipeship/ccflare) &nbsp; by &nbsp; [snipeship](https://github.com/snipeship)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
 Claude Code usage dashboard with a web-UI that would put Tableau to shame. Thoroughly comprehensive metrics, frictionless setup, detailed logging, really really nice UI.
 
 <details>
