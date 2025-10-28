@@ -632,6 +632,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [a11y-accessibility-first ![GitHub Repo Stars](https://img.shields.io/github/stars/gagdmac/a11y-accessibility-first) ![GitHub last commit](https://img.shields.io/github/last-commit/gagdmac/a11y-accessibility-first)](https://github.com/gagdmac/a11y-accessibility-first) - An Angular template compliant with WCAG 2.2, incorporating an accessibility component to enhance overall accessibility in your project.
 * [ngx-accessible-ui ![GitHub Repo Stars](https://img.shields.io/github/stars/ShakeelKadri/ngx-accessible-ui) ![GitHub last commit](https://img.shields.io/github/last-commit/ShakeelKadri/ngx-accessible-ui)](https://github.com/ShakeelKadri/ngx-accessible-ui) - Accessible Navigation & Menu Directives for Angular 9+. Directives comply with WCAG 2.1 Level AA and the European Accessibility Act 2025, ensuring a highly inclusive web experience.
 * [easy ![GitHub Repo Stars](https://img.shields.io/github/stars/richpauly13/easy) ![GitHub last commit](https://img.shields.io/github/last-commit/richpauly13/easy)](https://github.com/richpauly13/easy) - Uncomplicated Angular styles with a11y.
+* [a11y-libraries ![GitHub Repo Stars](https://img.shields.io/github/stars/LDV2k3/a11y-libraries) ![GitHub last commit](https://img.shields.io/github/last-commit/LDV2k3/a11y-libraries)](https://github.com/LDV2k3/a11y-libraries) - A range of accessibility solutions for Angular.
 
 ### AI
 
