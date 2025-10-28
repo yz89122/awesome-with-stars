@@ -1421,7 +1421,7 @@ Update Time, five active automations, webhooks.
   * [freedcamp.com](https://freedcamp.com/) - tasks, discussions, milestones, time tracking, calendar, files and password manager. Free plan with unlimited projects, users, and file storage.
   * [easyretro.io](https://www.easyretro.io/) — Simple and intuitive sprint retrospective tool. The free plan has three public boards and one survey per board per month.
   * [GForge](https://gforge.com) — Project Management and issue Tracking toolset for complex projects with self-premises and SaaS options. SaaS free plan offers the first five users free & free for Open Source Projects.
-  * [gleek.io](https://www.gleek.io) — Free description-to-diagrams tool for developers. Create informal UML class, object, or entity-relationship diagrams using your keyword.
+  * [gleek.io](https://www.gleek.io) ��� Free description-to-diagrams tool for developers. Create informal UML class, object, or entity-relationship diagrams using your keyword.
   * [GraphQL Inspector ![GitHub Repo Stars](https://img.shields.io/github/stars/marketplace/graphql-inspector) ![GitHub last commit](https://img.shields.io/github/last-commit/marketplace/graphql-inspector)](https://github.com/marketplace/graphql-inspector) - GraphQL Inspector outputs a list of changes between two GraphQL schemas. Every difference is precisely explained and marked as breaking, non-breaking, or dangerous.
   * [Hygger](https://hygger.io) — Project management platform. The free plan offers unlimited users, projects & boards with 100 MB of Storage.
   * [Instabug](https://instabug.com) —  A comprehensive bug reporting and in-app feedback SDK for mobile apps. Free plan up to 1 app and one member.
