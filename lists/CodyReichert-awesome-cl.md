@@ -789,6 +789,7 @@ For an overview and a tutorial on GUI toolkits, see [the Cookbook/GUI](https://l
   - IUP is cross-platform (Windows, macOS, GNU/Linux, with new Android, iOs, Cocoa and Web Assembly drivers), has many widgets, has a small api and is actively developed.
   - has a web view.
 * 🆕 [Barium](https://tomscii.sig7.se/barium/) - an X widget toolkit, directly accessing the X client library and other platform libraries (OpenGL, Cairo). [MIT][200].
+  * with menus, panes, tabs, dialogs, a file chooser, a flexible event loop…
   * not a wrapper of another toolkit. Allows incremental GUI development.
   * new as of April, 2025.
 
@@ -895,7 +896,7 @@ Language extensions
 * ⭐ [alexandria](https://common-lisp.net/project/alexandria/) - A general-purpose utility library. Public domain.
 * 👍 [serapeum ![GitHub Repo Stars](https://img.shields.io/github/stars/ruricolist/serapeum) ![GitHub last commit](https://img.shields.io/github/last-commit/ruricolist/serapeum)](https://github.com/ruricolist/serapeum/) - Another general-purpose utility library. [Expat][14].
 * [rutils ![GitHub Repo Stars](https://img.shields.io/github/stars/vseloved/rutils) ![GitHub last commit](https://img.shields.io/github/last-commit/vseloved/rutils)](https://github.com/vseloved/rutils) - radical yet reasonable syntactic utilities for Common Lisp. [MIT][200].
-* [generic-cl ![GitHub Repo Stars](https://img.shields.io/github/stars/alex-gutev/generic-cl) ![GitHub last commit](https://img.shields.io/github/last-commit/alex-gutev/generic-cl)](https://github.com/alex-gutev/generic-cl/) - Generic function interface to standard Common Lisp functions (equality, comparison, arithmetic, objects, iterator, sequences,…). [MIT][200].
+* [generic-cl ![GitHub Repo Stars](https://img.shields.io/github/stars/alex-gutev/generic-cl) ![GitHub last commit](https://img.shields.io/github/last-commit/alex-gutev/generic-cl)](https://github.com/alex-gutev/generic-cl/) - Generic function interface to standard Common Lisp functions (equality, comparison, arithmetic, objects, iterator, sequences,���). [MIT][200].
   * see also the more lightweight [equals ![GitHub Repo Stars](https://img.shields.io/github/stars/karlosz/equals) ![GitHub last commit](https://img.shields.io/github/last-commit/karlosz/equals)](https://github.com/karlosz/equals/) [MIT][200].
 * [anaphora](https://common-lisp.net/project/anaphora/) - A collection of anaphoric macros. Public domain.
 * [arrow-macros ![GitHub Repo Stars](https://img.shields.io/github/stars/hipeta/arrow-macros) ![GitHub last commit](https://img.shields.io/github/last-commit/hipeta/arrow-macros)](https://github.com/hipeta/arrow-macros) - Clojure-like threading macros. [MIT][200].
