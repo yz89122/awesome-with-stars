@@ -82,6 +82,17 @@ Claude Code is a cutting-edge CLI-based coding assistant and agent released by [
 
 > Resources added in the past 7 days
 
+[`Web Assets Generator Skill` ![GitHub Repo Stars](https://img.shields.io/github/stars/alonw0/web-asset-generator) ![GitHub last commit](https://img.shields.io/github/last-commit/alonw0/web-asset-generator)](https://github.com/alonw0/web-asset-generator) &nbsp; by &nbsp; [Alon Wolenitz](https://github.com/alonw0)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
+Easily generate web assets from Claude Code including favicons, app icons (PWA), and social media meta images (Open Graph) for Facebook, Twitter, WhatsApp, and LinkedIn. Handles image resizing, text-to-image generation, emojis, and provides proper HTML meta tags.
+
+<details>
+<summary>📊 GitHub Stats</summary>
+
+![GitHub Stats for web-asset-generator](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=web-asset-generator&username=alonw0&all_stats=true&stats_only=true)
+
+</details>
+<br>
+
 [`Codex Skill` ![GitHub Repo Stars](https://img.shields.io/github/stars/skills-directory/skill-codex) ![GitHub last commit](https://img.shields.io/github/last-commit/skills-directory/skill-codex)](https://github.com/skills-directory/skill-codex) &nbsp; by &nbsp; [klaudworks](https://github.com/klaudworks)    
 Enables users to prompt codex from claude code. Unlike the raw codex mcp server, this skill infers parameters such as model, reasoning effort, sandboxing from your prompt or asks you to specify them. It also simplifies continuing prior codex sessions so that codex can continue with the prior context.
 
@@ -239,6 +250,17 @@ Enables users to prompt codex from claude code. Unlike the raw codex mcp server,
 <summary>📊 GitHub Stats</summary>
 
 ![GitHub Stats for skill-codex](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=skill-codex&username=skills-directory&all_stats=true&stats_only=true)
+
+</details>
+<br>
+
+[`Web Assets Generator Skill` ![GitHub Repo Stars](https://img.shields.io/github/stars/alonw0/web-asset-generator) ![GitHub last commit](https://img.shields.io/github/last-commit/alonw0/web-asset-generator)](https://github.com/alonw0/web-asset-generator) &nbsp; by &nbsp; [Alon Wolenitz](https://github.com/alonw0)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
+Easily generate web assets from Claude Code including favicons, app icons (PWA), and social media meta images (Open Graph) for Facebook, Twitter, WhatsApp, and LinkedIn. Handles image resizing, text-to-image generation, emojis, and provides proper HTML meta tags.
+
+<details>
+<summary>📊 GitHub Stats</summary>
+
+![GitHub Stats for web-asset-generator](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=web-asset-generator&username=alonw0&all_stats=true&stats_only=true)
 
 </details>
 <br>
@@ -691,7 +713,7 @@ Handy CLI tool for managing and analyzing Claude Code usage, based on analyzing 
 </details>
 <br>
 
-[`ccflare` ![GitHub Repo Stars](https://img.shields.io/github/stars/snipeship/ccflare) ![GitHub last commit](https://img.shields.io/github/last-commit/snipeship/ccflare)](https://github.com/snipeship/ccflare) &nbsp; by &nbsp; [snipeship](https://github.com/snipeship)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
+[`ccflare` ![GitHub Repo Stars](https://img.shields.io/github/stars/snipeship/ccflare) ![GitHub last commit](https://img.shields.io/github/last-commit/snipeship/ccflare)](https://github.com/snipeship/ccflare) &nbsp; by &nbsp; [snipeship](https://github.com/snipeship)  &nbsp;&nbsp;��️&nbsp;&nbsp;MIT  
 Claude Code usage dashboard with a web-UI that would put Tableau to shame. Thoroughly comprehensive metrics, frictionless setup, detailed logging, really really nice UI.
 
 <details>
