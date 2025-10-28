@@ -1055,7 +1055,7 @@ Creates git commits using conventional commit format with appropriate emojis, fo
 Automates git commit process by selecting the first suggested message, generating structured commits with consistent formatting while skipping manual confirmation and removing Claude co-Contributorship footer
 
 <details>
-<summary>�� GitHub Stats</summary>
+<summary>📊 GitHub Stats</summary>
 
 ![GitHub Stats for steadystart](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=steadystart&username=steadycursor&all_stats=true&stats_only=true)
 
