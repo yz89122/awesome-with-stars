@@ -429,6 +429,7 @@
 - [Theoretical Computer Science ![GitHub Repo Stars](https://img.shields.io/github/stars/mostafatouny/awesome-theoretical-computer-science) ![GitHub last commit](https://img.shields.io/github/last-commit/mostafatouny/awesome-theoretical-computer-science)](https://github.com/mostafatouny/awesome-theoretical-computer-science#readme) - The interplay of computer science and pure mathematics, distinguished by its emphasis on mathematical rigour and technique.
 - [Conversational AI ![GitHub Repo Stars](https://img.shields.io/github/stars/jyguyomarch/awesome-conversational-ai) ![GitHub last commit](https://img.shields.io/github/last-commit/jyguyomarch/awesome-conversational-ai)](https://github.com/jyguyomarch/awesome-conversational-ai#readme) - Build awesome chatbots and digital assistants.
 - [Generative AI ![GitHub Repo Stars](https://img.shields.io/github/stars/steven2358/awesome-generative-ai) ![GitHub last commit](https://img.shields.io/github/last-commit/steven2358/awesome-generative-ai)](https://github.com/steven2358/awesome-generative-ai#readme) - Automatically generates a wide range of unique content in text, image, and audio format.
+- [Position-Based Quantum Cryptography ![GitHub Repo Stars](https://img.shields.io/github/stars/Renaller/awesome-position-based-quantum-cryptography) ![GitHub last commit](https://img.shields.io/github/last-commit/Renaller/awesome-position-based-quantum-cryptography)](https://github.com/Renaller/awesome-position-based-quantum-cryptography#readme) - Theory on quantum cryptography that utilizes special relativistic constraints to achieve quantum-security under certain conditions.
 
 ## Big Data
 
@@ -893,5 +894,4 @@
 - [Awesome Search](https://awesomelists.top) - Quick search for Awesome lists.
 - [StumbleUponAwesome ![GitHub Repo Stars](https://img.shields.io/github/stars/basharovV/StumbleUponAwesome) ![GitHub last commit](https://img.shields.io/github/last-commit/basharovV/StumbleUponAwesome)](https://github.com/basharovV/StumbleUponAwesome) - Discover random pages from the Awesome dataset using a browser extension.
 - [Awesome CLI ![GitHub Repo Stars](https://img.shields.io/github/stars/umutphp/awesome-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/umutphp/awesome-cli)](https://github.com/umutphp/awesome-cli) - A simple command-line tool to dive into Awesome lists.
-- [Awesome Viewer](https://awesome.digitalbunker.dev) - A visualizer for all of the above Awesome lists.
 - [Track Awesome List](https://www.trackawesomelist.com) - View the latest updates of Awesome lists.
