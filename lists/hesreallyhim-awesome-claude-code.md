@@ -773,7 +773,7 @@ Claude Squad is a terminal app that manages multiple Claude Code, Codex (and oth
 </details>
 <br>
 
-[`Claude Swarm` ![GitHub Repo Stars](https://img.shields.io/github/stars/parruda/claude-swarm) ![GitHub last commit](https://img.shields.io/github/last-commit/parruda/claude-swarm)](https://github.com/parruda/claude-swarm) &nbsp; by &nbsp; [parruda](https://github.com/parruda)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
+[`Claude Swarm` ![GitHub Repo Stars](https://img.shields.io/github/stars/parruda/claude-swarm) ![GitHub last commit](https://img.shields.io/github/last-commit/parruda/claude-swarm)](https://github.com/parruda/claude-swarm) &nbsp; by &nbsp; [parruda](https://github.com/parruda)  &nbsp;&nbsp;⚖��&nbsp;&nbsp;MIT  
 Launch Claude Code session that is connected to a swarm of Claude Code Agents.
 
 <details>
