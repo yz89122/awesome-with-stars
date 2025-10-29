@@ -664,6 +664,7 @@
 - [emailjs ![GitHub Repo Stars](https://img.shields.io/github/stars/eleith/emailjs) ![GitHub last commit](https://img.shields.io/github/last-commit/eleith/emailjs)](https://github.com/eleith/emailjs) - Send text/HTML emails with attachments to any SMTP server.
 - [email-templates ![GitHub Repo Stars](https://img.shields.io/github/stars/forwardemail/email-templates) ![GitHub last commit](https://img.shields.io/github/last-commit/forwardemail/email-templates)](https://github.com/forwardemail/email-templates) - Create, preview, and send custom email templates.
 - [MJML ![GitHub Repo Stars](https://img.shields.io/github/stars/mjmlio/mjml) ![GitHub last commit](https://img.shields.io/github/last-commit/mjmlio/mjml)](https://github.com/mjmlio/mjml) - Markup language designed to reduce the pain of creating responsive emails.
+- [Forward Email ![GitHub Repo Stars](https://img.shields.io/github/stars/forwardemail/forwardemail.net) ![GitHub last commit](https://img.shields.io/github/last-commit/forwardemail/forwardemail.net)](https://github.com/forwardemail/forwardemail.net) - Open-source and self-hostable email service.
 
 ### Job queues
 
