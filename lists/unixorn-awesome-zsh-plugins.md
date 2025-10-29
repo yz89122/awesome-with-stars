@@ -37,6 +37,7 @@ A collection of ZSH frameworks, plugins, tutorials & themes inspired by the vari
   - [PMS](#pms)
   - [prezto](#prezto)
   - [pumice](#pumice)
+  - [rat](#rat)
   - [ryzshrc](#ryzshrc)
   - [sheldon](#sheldon)
   - [shplug](#shplug)
@@ -261,6 +262,31 @@ The PMS framework also allows you to use the same framework in different shells.
  ![GitHub Repo stars](https://img.shields.io/github/stars/ryutamaki/pumice)
 
 **Pumice** is a lightweight plugin manager for ZSH.
+
+### [rat ![GitHub Repo Stars](https://img.shields.io/github/stars/gotokazuki/rat-zsh) ![GitHub last commit](https://img.shields.io/github/last-commit/gotokazuki/rat-zsh)](https://github.com/gotokazuki/rat-zsh)
+![GitHub last commit](https://img.shields.io/github/last-commit/gotokazuki/rat-zsh)
+  ![GitHub Repo stars](https://img.shields.io/github/stars/gotokazuki/rat-zsh)
+
+A lightweight, fast, and reproducible plugin manager for ZSH. Made with 🐭 & 🦀 — no magic, no heavy frameworks.
+
+Features 🐭✨
+
+- 🚀 Simple setup
+  - Install with a single curl line
+  - Just add one eval line in .zshrc to start using it
+- ⚙️ Configurable and reproducible
+  - Simple TOML-based configuration
+  - Automatic plugin load order control
+- 🐙 GitHub integration
+  - Fetches plugins from GitHub repositories
+  - Supports branches, tags, and commits
+  - Handles Git submodules automatically
+- ⚡️ Lightweight and fast
+  - Parallel plugin sync
+  - Built in Rust 🦀
+- 🔄 Seamless updates
+  - Self-upgrade
+  -Plugin sync
 
 ### [ryzshrc ![GitHub Repo Stars](https://img.shields.io/github/stars/ryzshrc/ryzshrc) ![GitHub last commit](https://img.shields.io/github/last-commit/ryzshrc/ryzshrc)](https://github.com/ryzshrc/ryzshrc)
 ![GitHub last commit](https://img.shields.io/github/last-commit/ryzshrc/ryzshrc)
@@ -2781,6 +2807,7 @@ These plugins add tab completions without adding extra functions or aliases.
 - [ribbon ![GitHub Repo Stars](https://img.shields.io/github/stars/pyjamafish/ribbon-prompt) ![GitHub last commit](https://img.shields.io/github/last-commit/pyjamafish/ribbon-prompt)](https://github.com/pyjamafish/ribbon-prompt) - Reminiscent of powerline. Includes Python `virtualenv` decorator.
 - [rie ![GitHub Repo Stars](https://img.shields.io/github/stars/andrii-rieznik/rie-zsh-theme) ![GitHub last commit](https://img.shields.io/github/last-commit/andrii-rieznik/rie-zsh-theme)](https://github.com/andrii-rieznik/rie-zsh-theme) - Minimalist theme with decorators for username, `git` status and current directory.
 - [rigel ![GitHub Repo Stars](https://img.shields.io/github/stars/othiagos/rigel-zsh-theme) ![GitHub last commit](https://img.shields.io/github/last-commit/othiagos/rigel-zsh-theme)](https://github.com/othiagos/rigel-zsh-theme/) - Includes decorators for `git` information, user@hostname and current directory.
+- [rio ![GitHub Repo Stars](https://img.shields.io/github/stars/foxit64/zsh-theme-rio) ![GitHub last commit](https://img.shields.io/github/last-commit/foxit64/zsh-theme-rio)](https://github.com/foxit64/zsh-theme-rio) - Minimalist theme with decorators for `git` status and current directory.
 - [risbow ![GitHub Repo Stars](https://img.shields.io/github/stars/waddupp00/risbow) ![GitHub last commit](https://img.shields.io/github/last-commit/waddupp00/risbow)](https://github.com/waddupp00/risbow) - A [risto ![GitHub Repo Stars](https://img.shields.io/github/stars/ohmyzsh/ohmyzsh) ![GitHub last commit](https://img.shields.io/github/last-commit/ohmyzsh/ohmyzsh)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/risto.zsh-theme) inspired ZSH theme with a lolcat like rainbow effect.
 - [ritz ![GitHub Repo Stars](https://img.shields.io/github/stars/Ritzier/ritz.zsh-theme) ![GitHub last commit](https://img.shields.io/github/last-commit/Ritzier/ritz.zsh-theme)](https://github.com/Ritzier/ritz.zsh-theme) - Includes decorators for time, current directory, `git` status, exit status and time used for last command run.
 - [river ![GitHub Repo Stars](https://img.shields.io/github/stars/revir/river-zsh-config) ![GitHub last commit](https://img.shields.io/github/last-commit/revir/river-zsh-config)](https://github.com/revir/river-zsh-config) - Dark theme with `git` information.
@@ -3031,7 +3058,8 @@ These plugins add tab completions without adding extra functions or aliases.
 - [zemoji ![GitHub Repo Stars](https://img.shields.io/github/stars/therzka/zemoji) ![GitHub last commit](https://img.shields.io/github/last-commit/therzka/zemoji)](https://github.com/therzka/zemoji) - Based on [wild-cherry]( https://github.com/mashaal/wild-cherry/tree/master/zsh). Includes exit status, `virtualenv`, `nvm`, `rvm` and `git` status decorations.
 - [zen (cybardev) ![GitHub Repo Stars](https://img.shields.io/github/stars/cybardev/zen.zsh) ![GitHub last commit](https://img.shields.io/github/last-commit/cybardev/zen.zsh)](https://github.com/cybardev/zen.zsh) - A minimalist theme for `*NIX` systems. Includes decorators for execution time of last command run, curreent directory and vcs status information.
 - [zen (TheCrazyGM) ![GitHub Repo Stars](https://img.shields.io/github/stars/TheCrazyGM/zen) ![GitHub last commit](https://img.shields.io/github/last-commit/TheCrazyGM/zen)](https://github.com/TheCrazyGM/zen) - A clean, informative, and customizable theme for Oh-My-Zsh that provides essential information without cluttering your terminal. It was designed with Python developers in mind and includes smart features like SSH detection, detailed Git status information, and command execution time tracking.
-- [zenith ![GitHub Repo Stars](https://img.shields.io/github/stars/waki285/Zenith) ![GitHub last commit](https://img.shields.io/github/last-commit/waki285/Zenith)](https://github.com/waki285/Zenith) - Minimalist. Includes decorators for username, current directory and `git` status.
+- [zenith (husniadil) ![GitHub Repo Stars](https://img.shields.io/github/stars/husniadil/zenith-oh-my-zsh-theme) ![GitHub last commit](https://img.shields.io/github/last-commit/husniadil/zenith-oh-my-zsh-theme)](https://github.com/husniadil/zenith-oh-my-zsh-theme) - A clean, modern Zsh theme designed for efficiency and aesthetics. Featuring a cool-toned color palette with intuitive Git status indicators, it keeps your terminal workflow smooth and distraction-free. Includes decorators for color-coded `git` status, exit status of last command and compact directory display.
+- [zenith (waki285) ![GitHub Repo Stars](https://img.shields.io/github/stars/waki285/Zenith) ![GitHub last commit](https://img.shields.io/github/last-commit/waki285/Zenith)](https://github.com/waki285/Zenith) - Minimalist. Includes decorators for username, current directory and `git` status.
 - [zero (arlimus) ![GitHub Repo Stars](https://img.shields.io/github/stars/arlimus/zero.zsh) ![GitHub last commit](https://img.shields.io/github/last-commit/arlimus/zero.zsh)](https://github.com/arlimus/zero.zsh) - Zero's theme & plugin. Has variants for both light and dark terminal backgrounds.
 - [zero (shirozuki) ![GitHub Repo Stars](https://img.shields.io/github/stars/shirozuki/zero-zsh-theme) ![GitHub last commit](https://img.shields.io/github/last-commit/shirozuki/zero-zsh-theme)](https://github.com/shirozuki/zero-zsh-theme) - Minimalistic prompt with decorators for `git` status, current directory, exit status and time to execute of last command run.
 - [zeroastro ![GitHub Repo Stars](https://img.shields.io/github/stars/zeroastro/zeroastro-zsh-theme) ![GitHub last commit](https://img.shields.io/github/last-commit/zeroastro/zeroastro-zsh-theme)](https://github.com/zeroastro/zeroastro-zsh-theme) - Works best on dark backgrounds, includes `git` status decorations.
