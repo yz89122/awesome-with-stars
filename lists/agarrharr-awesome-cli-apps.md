@@ -403,6 +403,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [task-spooler](https://tracker.debian.org/pkg/task-spooler) - Queue jobs for linear execution.
 - [undollar ![GitHub Repo Stars](https://img.shields.io/github/stars/ImFeelingDucky/undollar) ![GitHub last commit](https://img.shields.io/github/last-commit/ImFeelingDucky/undollar)](https://github.com/ImFeelingDucky/undollar) - Strip the '$' preceding copy-pasted terminal commands.
 - [pipe_exec ![GitHub Repo Stars](https://img.shields.io/github/stars/koraa/pipe_exec) ![GitHub last commit](https://img.shields.io/github/last-commit/koraa/pipe_exec)](https://github.com/koraa/pipe_exec) - Run executables from stdin, pipes and ttys without creating a temporary file.
+- [intelli-shell ![GitHub Repo Stars](https://img.shields.io/github/stars/lasantosr/intelli-shell) ![GitHub last commit](https://img.shields.io/github/last-commit/lasantosr/intelli-shell)](https://github.com/lasantosr/intelli-shell) - Manage command templates/snippets.
 
 ### System Interaction Utilities
 
