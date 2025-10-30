@@ -194,7 +194,7 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 | <a href="https://cognitiveclass.ai/courses/machine-learning-with-python/" target="_blank" rel="noopener noreferrer">Machine Learning with Python</a> | IBM / Cognitive Class |Beginner|20 | <a href="https://www.youracclaim.com/org/ibm/badge/machine-learning-with-python-level-1" target="_blank" rel="noopener noreferrer">🏅</a>|
 | <a href="https://www.freecodecamp.org/learn/machine-learning-with-python/" target="_blank" rel="noopener noreferrer">Machine Learning with Python Certification</a> | FreeCodeCamp |Professional|300 | 🏆|
 | <a href="https://www.kaggle.com/learn/intro-to-machine-learning" target="_blank" rel="noopener noreferrer">Intro to Machine Learning</a> | Kaggle          | Beginner      | 3     | 🏆     |
-| <a href="https://www.kaggle.com/learn/intermediate-machine-learning" target="_blank" rel="noopener noreferrer">Intermediate Machine Learning</a> | Kaggle | Intermediate | 4     | 🏆     |
+| <a href="https://www.kaggle.com/learn/intermediate-machine-learning" target="_blank" rel="noopener noreferrer">Intermediate Machine Learning</a> | Kaggle | Intermediate | 4     | ���     |
 | <a href="https://www.kaggle.com/learn/machine-learning-explainability" target="_blank" rel="noopener noreferrer">Machine Learning Explainability</a> | Kaggle | Intermediate | 4     | 🏆     |
 | <a href="https://www.kaggle.com/learn/intro-to-deep-learning" target="_blank" rel="noopener noreferrer">Intro to Deep Learning</a>       | Kaggle          | Intermediate | 4     | 🏆     |
 | <a href="https://www.kaggle.com/learn/time-series" target="_blank" rel="noopener noreferrer">Time Series</a>                               | Kaggle          | Intermediate | 5     | 🏆     |
@@ -208,7 +208,7 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 
 | Course Name | Course Provider | Level | Hour(s) | Reward |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
-| <a href="https://www.elementsofai.com/" target="_blank" rel="noopener noreferrer">Elements of AI</a> | University of Helsinki | Beginner |30 | ���|
+| <a href="https://www.elementsofai.com/" target="_blank" rel="noopener noreferrer">Elements of AI</a> | University of Helsinki | Beginner |30 | 🏆|
 | <a href="https://www.kaggle.com/learn/intro-to-ai-ethics" target="_blank" rel="noopener noreferrer">Intro to AI Ethics</a> | Kaggle | Intermediate | 4 | 🏆  |
 | <a href="https://www.kaggle.com/learn/intro-to-game-ai-and-reinforcement-learning" target="_blank" rel="noopener noreferrer">Intro to Game AI and Reinforcement Learning</a> | Kaggle | Intermediate | 4 | 🏆 |
 | <a href="https://www.cloudskillsboost.google/course_templates/536" target="_blank" rel="noopener noreferrer">Introduction to Generative AI</a> | Google Cloud Skills Boost | Intermediate | 0.75 | 🏆 |
@@ -247,7 +247,7 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 | Course Name | Course Provider | Level | Hour(s) | Reward |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
 | <a href="https://www.open.edu/openlearn/science-maths-technology/an-introduction-electronics/" target="_blank" rel="noopener noreferrer">Introduction to Electronics</a>| Open University | Intermediate| 10 |    🏆 |
-| <a href="https://www.open.edu/openlearn/science-maths-technology/electronic-applications/" target="_blank" rel="noopener noreferrer">Electronic Applications</a>| Open University | Intermediate| 10 |    �� |
+| <a href="https://www.open.edu/openlearn/science-maths-technology/electronic-applications/" target="_blank" rel="noopener noreferrer">Electronic Applications</a>| Open University | Intermediate| 10 |    🏆 |
 | <a href="https://www.academyeurope.org/courses/engineering-technology/embedded-systems-computer-course/" target="_blank" rel="noopener noreferrer">Embedded Systems</a> | Academy Europe |Intermediate| 30 |🏆|
 | <a href="https://www.mindluster.com/certificate/2234" target="_blank" rel="noopener noreferrer">Embedded Systems ES</a> | Mind Luster |Intermediate|8 | 🏆|
 
