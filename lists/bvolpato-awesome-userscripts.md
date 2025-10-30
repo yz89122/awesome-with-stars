@@ -564,7 +564,7 @@ Userscripts can be used w/ the following browsers:
             Install</a> /
         📖 <a href="https://docs.chatgptwidescreen.com/#readme">
             Readme</a> /
-        ��� <a href="https://github.com/adamlui/chatgpt-widescreen/discussions">
+        📢 <a href="https://github.com/adamlui/chatgpt-widescreen/discussions">
             Discuss</a> /
         🐛 <a href="https://github.com/adamlui/chatgpt-widescreen/issues">
             Report bug</a>
@@ -719,7 +719,7 @@ Userscripts can be used w/ the following browsers:
             Readme</a> /
         📢 <a href="https://github.com/adamlui/chatgpt-auto-continue/discussions">
             Discuss</a> /
-        �� <a href="https://github.com/adamlui/chatgpt-auto-continue/issues">
+        🐛 <a href="https://github.com/adamlui/chatgpt-auto-continue/issues">
             Report bug</a>
     </blockquote>
 </details>
@@ -1010,6 +1010,23 @@ Userscripts can be used w/ the following browsers:
 
 
 ### <picture><source type="image/png" media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@f11c95f/assets/images/icons/sites/google/white/icon32.png"><img height=20 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@f11c95f/assets/images/icons/sites/google/icon32.png"></picture> Google
+
+<details> <!-- Classic Google Tabs -->
+    <summary><a href="https://github.com/Kirlovon/classic-google-tabs">Classic Google Tabs</a> - Brings back the "Maps" tab and removes the "AI Mode" tab in Google Search.</summary><br>
+    <blockquote>
+        <a href="https://github.com/Kirlovon/classic-google-tabs">
+            <img src="https://github.com/Kirlovon/classic-google-tabs/raw/main/assets/poster.webp"></a>
+        <p>This is a simple Userscript that reworks Google Search navigation tabs by removing the "AI Mode" tab, restoring the "Maps" tab, and optionally removing the "Short videos" tab.</p>
+    </blockquote>
+    <blockquote>
+        💾 <a href="https://github.com/Kirlovon/classic-google-tabs/raw/refs/heads/main/classic-google-tabs.user.js">
+            Install</a> /
+        📖 <a href="https://github.com/Kirlovon/classic-google-tabs/blob/main/README.md">
+            Readme</a> /
+        🐛 <a href="https://github.com/Kirlovon/classic-google-tabs/issues">
+            Report bug</a>
+    </blockquote>
+</details>
 
 <details> <!-- Don't track me Google -->
     <summary><a href="https://github.com/Rob--W/dont-track-me-google">Don't track me Google</a> - Removes link conversion in Google Search/Maps links.</summary><br>
