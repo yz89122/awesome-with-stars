@@ -429,7 +429,7 @@ An opinionated approach to produce development with Claude Code
 High-performance Go implementation of Claude Code hooks and utilities. Provides smart linting, testing, and statusline generation with minimal overhead.
 
 <details>
-<summary>�� GitHub Stats</summary>
+<summary>📊 GitHub Stats</summary>
 
 ![GitHub Stats for cc-tools](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=cc-tools&username=Veraticus&all_stats=true&stats_only=true)
 
