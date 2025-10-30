@@ -1554,7 +1554,7 @@ Reformats documentation to use React Stepper component, transforming heading for
 <details open>
 <summary><h3>Language-Specific <a href="#awesome-claude-code">🔝</a></h3></summary>
 
-[`AI IntelliJ Plugin` ![GitHub Repo Stars](https://img.shields.io/github/stars/didalgolab/ai-intellij-plugin) ![GitHub last commit](https://img.shields.io/github/last-commit/didalgolab/ai-intellij-plugin)](https://github.com/didalgolab/ai-intellij-plugin/blob/main/CLAUDE.md) &nbsp; by &nbsp; [didalgolab](https://github.com/didalgolab)  &nbsp;&nbsp;⚖��&nbsp;&nbsp;Apache-2.0  
+[`AI IntelliJ Plugin` ![GitHub Repo Stars](https://img.shields.io/github/stars/didalgolab/ai-intellij-plugin) ![GitHub last commit](https://img.shields.io/github/last-commit/didalgolab/ai-intellij-plugin)](https://github.com/didalgolab/ai-intellij-plugin/blob/main/CLAUDE.md) &nbsp; by &nbsp; [didalgolab](https://github.com/didalgolab)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;Apache-2.0  
 Provides comprehensive Gradle commands for IntelliJ plugin development with platform-specific coding patterns, detailed package structure guidelines, and clear internationalization standards.
 
 <details>

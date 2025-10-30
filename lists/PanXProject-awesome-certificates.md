@@ -150,7 +150,7 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 | <a href="https://www.kaggle.com/learn/data-visualization" target="_blank" rel="noopener noreferrer">Data Visualization</a>             | Kaggle          | Beginner      | 4     | 🏆     |
 | <a href="https://www.kaggle.com/learn/data-cleaning" target="_blank" rel="noopener noreferrer">Data Cleaning</a>                         | Kaggle          | Intermediate | 4     | 🏆     |
 
-<a href="https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents" target="_blank" rel="noopener noreferrer">���️</a>
+<a href="https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents" target="_blank" rel="noopener noreferrer">⬆️</a>
 
 
 ## Statistics
