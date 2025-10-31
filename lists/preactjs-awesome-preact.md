@@ -116,7 +116,7 @@
 - [Modular Forms ![GitHub Repo Stars](https://img.shields.io/github/stars/fabian-hiller/modular-forms) ![GitHub last commit](https://img.shields.io/github/last-commit/fabian-hiller/modular-forms)](https://github.com/fabian-hiller/modular-forms) - Modular, type-safe and signal based form library for Preact.
 - [exome ![GitHub Repo Stars](https://img.shields.io/github/stars/Marcisbee/exome) ![GitHub last commit](https://img.shields.io/github/last-commit/Marcisbee/exome)](https://github.com/Marcisbee/exome) - Simple proxy based state manager for deeply nested states.
 - [Fastro](https://fastro.deno.dev) - Fast & Modular SSR Web Framework for Deno, TypeScript, Preact & Tailwind.
-
+- [Formisch](https://formisch.dev/preact/guides/introduction/) - A form library for Preact with focus on performance, type safety and bundle size.
 
 ### Testing Utils
 - [Preact JSX Chai ![GitHub Repo Stars](https://img.shields.io/github/stars/developit/preact-jsx-chai) ![GitHub last commit](https://img.shields.io/github/last-commit/developit/preact-jsx-chai)](https://github.com/developit/preact-jsx-chai) - JSX assertion testing _(no DOM, right in Node)_.
