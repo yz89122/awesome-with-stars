@@ -1313,7 +1313,7 @@ Sets up initial project context by viewing directory structure and reading key f
 Reads all commands and key project files to optimize AI-assisted development by streamlining the process, loading command context, and setting up for better development workflow.
 
 <details>
-<summary>���� GitHub Stats</summary>
+<summary>📊 GitHub Stats</summary>
 
 ![GitHub Stats for si](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=si&username=ddisisto&all_stats=true&stats_only=true)
 
