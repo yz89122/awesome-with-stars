@@ -35,7 +35,9 @@ This is a curated list of slash-commands, `CLAUDE.md` files, CLI tools, and othe
 
 Claude Code is a cutting-edge CLI-based coding assistant and agent released by [Anthropic](https://www.anthropic.com/) that you can access in your terminal or IDE. It is a rapidly evolving tool that offers a number of powerful capabilities, and allows for a lot of configuration, in a lot of different ways. Users are actively working out best practices and workflows. It is the hope that this repo will help the community share knowledge and understand how to get the most out of Claude Code.
 
-<div align="center"><h1>💰<a href="https://github.com/hesreallyhim/awesome-claude-code/discussions/287">Awesome Claude Code Feature Bounty</a>💰</h1></div>
+<div align="center"><a href="https://github.com/hesreallyhim/awesome-claude-code/discussions/287" align="center"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/awesome-claude-code-feature-bounty.png" alt="Feature Bounty Banner" width="750px" margin="auto" /></a></div>
+
+<div align="center"><h2 align="center">I'm throwing the challenge down for a <strong>"FEATURE BOUNTY"</strong> with a <strong>cash prize</strong> to solve a problem that Claude Code users have been <a href="https://github.com/anthropics/claude-code/issues/2112">posting about on GitHub</a> for a while - want to join the fun? Check out the <a href="https://github.com/hesreallyhim/awesome-claude-code/discussions/287">announcement</a> and let me know you're in! Coding, Clauding, Collaborating, Cash... Let's get together and build something!</h2></div>
 
 ### Announcements [🔝](#awesome-claude-code)
 
@@ -1313,7 +1315,7 @@ Sets up initial project context by viewing directory structure and reading key f
 Reads all commands and key project files to optimize AI-assisted development by streamlining the process, loading command context, and setting up for better development workflow.
 
 <details>
-<summary>���� GitHub Stats</summary>
+<summary>📊 GitHub Stats</summary>
 
 ![GitHub Stats for si](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=si&username=ddisisto&all_stats=true&stats_only=true)
 

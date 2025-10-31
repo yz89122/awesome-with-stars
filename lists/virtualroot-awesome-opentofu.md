@@ -96,6 +96,7 @@
 - [setup-opentofu ![GitHub Repo Stars](https://img.shields.io/github/stars/opentofu/setup-opentofu) ![GitHub last commit](https://img.shields.io/github/last-commit/opentofu/setup-opentofu)](https://github.com/opentofu/setup-opentofu) - Set up OpenTofu CLI in your GitHub Actions workflow.
 - [terraform-github-actions ![GitHub Repo Stars](https://img.shields.io/github/stars/dflook/terraform-github-actions) ![GitHub last commit](https://img.shields.io/github/last-commit/dflook/terraform-github-actions)](https://github.com/dflook/terraform-github-actions) - GitHub Actions for OpenTofu.
 - [tofu-controller ![GitHub Repo Stars](https://img.shields.io/github/stars/flux-iac/tofu-controller) ![GitHub last commit](https://img.shields.io/github/last-commit/flux-iac/tofu-controller)](https://github.com/flux-iac/tofu-controller) - GitOps OpenTofu and Terraform controller for Flux.
+- [tofUI ![GitHub Repo Stars](https://img.shields.io/github/stars/65156/tofUI) ![GitHub last commit](https://img.shields.io/github/last-commit/65156/tofUI)](https://github.com/65156/tofUI) - Easily export OpenTofu and Terraform plans in HTML for better readability.
 
 ### Tests
 
