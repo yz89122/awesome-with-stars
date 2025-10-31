@@ -89,7 +89,7 @@ Additional lists you might find useful:
 ## Auditing / Logging
 *Plugins for auditing and logging.*
 
-- [AuditStash plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/lorenzo/audit-stash) ![GitHub last commit](https://img.shields.io/github/last-commit/lorenzo/audit-stash)](https://github.com/lorenzo/audit-stash) - Flexible and rock solid audit log tracking.
+- [AuditStash plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/dereuromark/cakephp-audit-stash) ![GitHub last commit](https://img.shields.io/github/last-commit/dereuromark/cakephp-audit-stash)](https://github.com/dereuromark/cakephp-audit-stash) - Flexible and rock solid audit log tracking.
 - [DatabaseLog plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/dereuromark/CakePHP-DatabaseLog) ![GitHub last commit](https://img.shields.io/github/last-commit/dereuromark/CakePHP-DatabaseLog)](https://github.com/dereuromark/CakePHP-DatabaseLog) - Simple and stand-alone logging to database instead of files.
 - [Muffin/Footprint plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/UseMuffin/Footprint) ![GitHub last commit](https://img.shields.io/github/last-commit/UseMuffin/Footprint)](https://github.com/UseMuffin/Footprint) - Plugin to allow passing currently logged in user to model layer.
 - [Version plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/josegonzalez/cakephp-version) ![GitHub last commit](https://img.shields.io/github/last-commit/josegonzalez/cakephp-version)](https://github.com/josegonzalez/cakephp-version) - A plugin that facilitates versioned database entities.
