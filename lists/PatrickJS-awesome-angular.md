@@ -1229,6 +1229,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [@daelmaak/ngx-gallery ![GitHub Repo Stars](https://img.shields.io/github/stars/daelmaak/ngx-gallery) ![GitHub last commit](https://img.shields.io/github/last-commit/daelmaak/ngx-gallery)](https://github.com/daelmaak/ngx-gallery) - Small, performant, responsive, dependency free, easy to use Angular 8+ gallery.
 * [embla-carousel-angular ![GitHub Repo Stars](https://img.shields.io/github/stars/donaldxdonald/embla-carousel-angular) ![GitHub last commit](https://img.shields.io/github/last-commit/donaldxdonald/embla-carousel-angular)](https://github.com/donaldxdonald/embla-carousel-angular) - Angular wrapper for [Embla Carousel ![GitHub Repo Stars](https://img.shields.io/github/stars/davidjerleke/embla-carousel) ![GitHub last commit](https://img.shields.io/github/last-commit/davidjerleke/embla-carousel)](https://github.com/davidjerleke/embla-carousel).
 * [@vinlos/ngx-gallery ![GitHub Repo Stars](https://img.shields.io/github/stars/vinlos/ngx-gallery) ![GitHub last commit](https://img.shields.io/github/last-commit/vinlos/ngx-gallery)](https://github.com/vinlos/ngx-gallery) - A simple native gallery component for Angular 16+.
+* [ngx-cdk-lightbox ![GitHub Repo Stars](https://img.shields.io/github/stars/miskith/ngx-cdk-lightbox) ![GitHub last commit](https://img.shields.io/github/last-commit/miskith/ngx-cdk-lightbox)](https://github.com/miskith/ngx-cdk-lightbox/tree/master/projects/ngx-cdk-lightbox) - Tailored CDK-based solution for rendering an image gallery with lightbox functionality in Angular.
 
 ### Charts
 
@@ -1539,6 +1540,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [dynamic-forms ![GitHub Repo Stars](https://img.shields.io/github/stars/dynamic-forms/dynamic-forms) ![GitHub last commit](https://img.shields.io/github/last-commit/dynamic-forms/dynamic-forms)](https://github.com/dynamic-forms/dynamic-forms) - Angular project for dynamic forms based on JSON.
 * [json-forms-zorro-wrapper ![GitHub Repo Stars](https://img.shields.io/github/stars/wojtek1150/json-forms-zorro-wrapper) ![GitHub last commit](https://img.shields.io/github/last-commit/wojtek1150/json-forms-zorro-wrapper)](https://github.com/wojtek1150/json-forms-zorro-wrapper) - Ng Zorro wrapper for json forms library.
 * [ngx-formwork ![GitHub Repo Stars](https://img.shields.io/github/stars/TheNordicOne/ngx-formwork) ![GitHub last commit](https://img.shields.io/github/last-commit/TheNordicOne/ngx-formwork)](https://github.com/TheNordicOne/ngx-formwork) - This package provides a framework for creating Angular Reactive Forms, based on a configuration. This configuration can come from a server in the form of JSON or directly from an object written in TypeScript.
+* [ngx-formbar ![GitHub Repo Stars](https://img.shields.io/github/stars/TheNordicOne/ngx-formbar) ![GitHub last commit](https://img.shields.io/github/last-commit/TheNordicOne/ngx-formbar)](https://github.com/TheNordicOne/ngx-formbar) - A highly flexible framework for generating declarative reactive forms.
 
 ### Form Validation
 
