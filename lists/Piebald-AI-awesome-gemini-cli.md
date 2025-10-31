@@ -63,6 +63,7 @@ Playful and creative tools inspired by or that add personality to Gemini CLI.
 
 Tools that enhance your development workflow when using Gemini CLI.
 
+- [docker-gemini-cli ![GitHub Repo Stars](https://img.shields.io/github/stars/tgagor/docker-gemini-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/tgagor/docker-gemini-cli)](https://github.com/tgagor/docker-gemini-cli) - Gemini CLI wrapped as a Docker image, so you don't need to trash your OS with Node and its dependencies.
 - [Rulesync ![GitHub Repo Stars](https://img.shields.io/github/stars/dyoshikawa/rulesync) ![GitHub last commit](https://img.shields.io/github/last-commit/dyoshikawa/rulesync)](https://github.com/dyoshikawa/rulesync) - The Node.js CLI tool that automatically generates configs (rules, ignore files, MCP servers, commands, and subagents) for various AI coding agents. Rulesync can convert configs between Gemini CLI and other AI agents in both directions.
 - [nix-ai-tools ![GitHub Repo Stars](https://img.shields.io/github/stars/numtide/nix-ai-tools) ![GitHub last commit](https://img.shields.io/github/last-commit/numtide/nix-ai-tools)](https://github.com/numtide/nix-ai-tools) - Seamless Nix integration for reproducible Gemini CLI installations. Ensures consistent environments across teams and simplifies deployment with declarative configuration.
 - [Terminal Jarvis ![GitHub Repo Stars](https://img.shields.io/github/stars/BA-CalderonMorales/terminal-jarvis) ![GitHub last commit](https://img.shields.io/github/last-commit/BA-CalderonMorales/terminal-jarvis)](https://github.com/BA-CalderonMorales/terminal-jarvis) - Ultimate command center unifying multiple AI coding assistants in one elegant interface. Switch between tools seamlessly and manage sessions efficiently.
@@ -123,6 +124,7 @@ Model Context Protocol servers that enable Gemini CLI integration with other AI 
 
 Plugins that bring Gemini CLI's AI capabilities directly into the Neovim editor.
 
+- [nvim Gemini Companion ![GitHub Repo Stars](https://img.shields.io/github/stars/gutsavgupta/nvim-gemini-companion) ![GitHub last commit](https://img.shields.io/github/last-commit/gutsavgupta/nvim-gemini-companion)](https://github.com/gutsavgupta/nvim-gemini-companion) - A Neovim plugin to integrate Gemini CLI well (+ Qwen-code now).
 - [gemini-cli.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/JonRoosevelt/gemini-cli.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/JonRoosevelt/gemini-cli.nvim)](https://github.com/JonRoosevelt/gemini-cli.nvim) - Native Neovim integration bringing Gemini's AI capabilities directly into your editor with keybindings, commands, and buffer manipulation support.
 - [gemini-nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/JunYang-tes/gemini-nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/JunYang-tes/gemini-nvim)](https://github.com/JunYang-tes/gemini-nvim) - Gemini CLI in neovim - An unofficial Neovim plugin for interacting with Google Gemini CLI.
 
