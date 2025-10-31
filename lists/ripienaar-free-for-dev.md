@@ -171,7 +171,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
     * [Queues](https://developers.cloudflare.com/queues/) - 1 million operations per month
     * [TURN](https://developers.cloudflare.com/calls/turn/) – 1TB of free (outgoing) traffic per month.
 
-**[⬆�� Back to Top](#table-of-contents)**
+**[⬆️ Back to Top](#table-of-contents)**
 
 ## Cloud management solutions
 
@@ -875,7 +875,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [newrelic.com](https://www.newrelic.com) — New Relic observability platform built to help engineers create more perfect software. From monoliths to serverless, you can instrument everything and then analyze, troubleshoot, and optimize your entire software stack. The free tier offers 100GB/month of free data ingest, one free full-access user, and unlimited free primary users.
   * [nixstats.com](https://nixstats.com) - Free for one server. E-Mail Notifications, public status page, 60-second interval, and more.
   * [OnlineOrNot.com](https://onlineornot.com/) - OnlineOrNot provides uptime monitoring for websites and APIs, monitoring for cron jobs and scheduled tasks. Also provides status pages. The first five checks with a 3-minute interval are free. The free tier sends alerts via Slack, Discord, and Email.
-  * [OntarioNet.ca CN Test](https://cntest.ontarionet.ca) ��� Check if a website is blocked in China by the Great Firewall. It identifies DNS pollution by comparing DNS results and ASN information detected by servers in China versus servers in the United States.
+  * [OntarioNet.ca CN Test](https://cntest.ontarionet.ca) — Check if a website is blocked in China by the Great Firewall. It identifies DNS pollution by comparing DNS results and ASN information detected by servers in China versus servers in the United States.
   * [opsgenie.com](https://www.opsgenie.com/) — Powerful alerting and on-call management for operating always-on services. Free up to 5 users.
   * [paessler.com](https://www.paessler.com/) — Powerful infrastructure and network monitoring solution, including alerting, strong visualization capabilities, and basic reporting. Free up to 100 sensors.
   * [pagecrawl.io](https://pagecrawl.io/) -  Monitor website changes, free for up to 6 monitors with daily checks.
