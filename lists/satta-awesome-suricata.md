@@ -35,7 +35,7 @@
 
 - [suricata-kafka-output ![GitHub Repo Stars](https://img.shields.io/github/stars/Center-Sun/suricata-kafka-output) ![GitHub last commit](https://img.shields.io/github/last-commit/Center-Sun/suricata-kafka-output)](https://github.com/Center-Sun/suricata-kafka-output) - Suricata Eve Kafka Output Plugin for Suricata 6.
 - [suricata-redis-output ![GitHub Repo Stars](https://img.shields.io/github/stars/jasonish/suricata-redis-output) ![GitHub last commit](https://img.shields.io/github/last-commit/jasonish/suricata-redis-output)](https://github.com/jasonish/suricata-redis-output) - Suricata Eve Redis Output Plugin for Suricata 7.
-- [Meer ![GitHub Repo Stars](https://img.shields.io/github/stars/quadrantsec/meer) ![GitHub last commit](https://img.shields.io/github/last-commit/quadrantsec/meer)](https://github.com/quadrantsec/meer) - Meer is a "spooler" for Suricata / Sagan.
+- [Meer ![GitHub Repo Stars](https://img.shields.io/github/stars/quadrantsec/meer) ![GitHub last commit](https://img.shields.io/github/last-commit/quadrantsec/meer)](https://github.com/quadrantsec/meer) - A "spooler" for Suricata / Sagan.
 - [FEVER ![GitHub Repo Stars](https://img.shields.io/github/stars/DCSO/fever) ![GitHub last commit](https://img.shields.io/github/last-commit/DCSO/fever)](https://github.com/DCSO/fever) - Fast, extensible, versatile event router for Suricata's EVE-JSON format.
 - [Suricata-Logstash-Templates ![GitHub Repo Stars](https://img.shields.io/github/stars/pevma/Suricata-Logstash-Templates) ![GitHub last commit](https://img.shields.io/github/last-commit/pevma/Suricata-Logstash-Templates)](https://github.com/pevma/Suricata-Logstash-Templates) - Templates for Kibana/Logstash to use with Suricata IDPS.
 - [Lilith ![GitHub Repo Stars](https://img.shields.io/github/stars/VVelox/Lilith) ![GitHub last commit](https://img.shields.io/github/last-commit/VVelox/Lilith)](https://github.com/VVelox/Lilith) - Reads EVE files into SQL as well as search stored data.
@@ -75,11 +75,11 @@
 
 ## Development Tools
 
-- [Suricata Language Server ![GitHub Repo Stars](https://img.shields.io/github/stars/StamusNetworks/suricata-language-server) ![GitHub last commit](https://img.shields.io/github/last-commit/StamusNetworks/suricata-language-server)](https://github.com/StamusNetworks/suricata-language-server) - Suricata Language Server is an implementation of the Language Server Protocol for Suricata signatures. It adds syntax check, hints and auto-completion to your preferred editor once it is configured.
+- [Suricata Language Server ![GitHub Repo Stars](https://img.shields.io/github/stars/StamusNetworks/suricata-language-server) ![GitHub last commit](https://img.shields.io/github/last-commit/StamusNetworks/suricata-language-server)](https://github.com/StamusNetworks/suricata-language-server) - An implementation of the Language Server Protocol for Suricata signatures. It adds syntax check, hints and auto-completion to your preferred editor once it is configured.
 - [suricata-ls-vscode ![GitHub Repo Stars](https://img.shields.io/github/stars/StamusNetworks/suricata-ls-vscode) ![GitHub last commit](https://img.shields.io/github/last-commit/StamusNetworks/suricata-ls-vscode)](https://github.com/StamusNetworks/suricata-ls-vscode) - Suricata IntelliSense Extension using the Suricata Language Server.
 - [suricata-highlight-vscode ![GitHub Repo Stars](https://img.shields.io/github/stars/dgenzer/suricata-highlight-vscode) ![GitHub last commit](https://img.shields.io/github/last-commit/dgenzer/suricata-highlight-vscode)](https://github.com/dgenzer/suricata-highlight-vscode) - Suricata Rules Support for Visual Studio Code (syntax highlighting, etc).
 - [SublimeSuricata ![GitHub Repo Stars](https://img.shields.io/github/stars/ozuriexv/SublimeSuricata) ![GitHub last commit](https://img.shields.io/github/last-commit/ozuriexv/SublimeSuricata)](https://github.com/ozuriexv/SublimeSuricata) - Basic Suricata syntax highlighter for Sublime Text.
-- [Suricata-Check](https://suricata-check.teuwen.net/readme.html) - ``suricata-check`` is a command-line utility to provide feedback on Suricata rules. It can detect issues such as covering syntax validity, interpretability, rule specificity, rule coverage, and efficiency.
+- [Suricata-Check](https://suricata-check.teuwen.net/readme.html) - A command-line utility to provide feedback on Suricata rules. It can detect issues such as covering syntax validity, interpretability, rule specificity, rule coverage, and efficiency.
 
 ## Documentation and Guides
 
@@ -100,7 +100,7 @@
 
 - [nids-rule-library ![GitHub Repo Stars](https://img.shields.io/github/stars/klingerko/nids-rule-library) ![GitHub last commit](https://img.shields.io/github/last-commit/klingerko/nids-rule-library)](https://github.com/klingerko/nids-rule-library#readme) - Collection of various open-source and commercial rulesets.
 - [Stamus Lateral Movement Detection Rules](https://www.stamus-networks.com/blog/new-open-ruleset-for-detecting-lateral-movement-with-suricata) - Suricata ruleset to detect lateral movement.
-- [QuadrantSec Suricata Rules ![GitHub Repo Stars](https://img.shields.io/github/stars/quadrantsec/suricata-rules) ![GitHub last commit](https://img.shields.io/github/last-commit/quadrantsec/suricata-rules)](https://github.com/quadrantsec/suricata-rules) - QuadrantSec Suricata rules.
+- [QuadrantSec Suricata Rules ![GitHub Repo Stars](https://img.shields.io/github/stars/quadrantsec/suricata-rules) ![GitHub last commit](https://img.shields.io/github/last-commit/quadrantsec/suricata-rules)](https://github.com/quadrantsec/suricata-rules) - Set of Suricata rules published by QuadrantSec.
 - [Cluster25/detection ![GitHub Repo Stars](https://img.shields.io/github/stars/Cluster25/detection) ![GitHub last commit](https://img.shields.io/github/last-commit/Cluster25/detection)](https://github.com/Cluster25/detection) - Cluster25's detection rules.
 - Networkforensic.dk (NF) rules sets: 
   - [NF IDS rules](https://networkforensic.dk/SNORT/NF-local.zip)
@@ -144,7 +144,7 @@
 
 ## Training
 
-- [Experimental Suricata Training Environment ![GitHub Repo Stars](https://img.shields.io/github/stars/jasonish/experimental-suricata-training) ![GitHub last commit](https://img.shields.io/github/last-commit/jasonish/experimental-suricata-training)](https://github.com/jasonish/experimental-suricata-training) - Experimental Suricata Training Environment.
+- [Experimental Suricata Training Environment ![GitHub Repo Stars](https://img.shields.io/github/stars/jasonish/experimental-suricata-training) ![GitHub last commit](https://img.shields.io/github/last-commit/jasonish/experimental-suricata-training)](https://github.com/jasonish/experimental-suricata-training) - Suricata Training Environment based on Docker(-Compose).
 - [CDMCS ![GitHub Repo Stars](https://img.shields.io/github/stars/ccdcoe/CDMCS) ![GitHub last commit](https://img.shields.io/github/last-commit/ccdcoe/CDMCS)](https://github.com/ccdcoe/CDMCS/tree/master) - Cyber Defence Monitoring Course: Rule-based Threat Detection.
 
 
