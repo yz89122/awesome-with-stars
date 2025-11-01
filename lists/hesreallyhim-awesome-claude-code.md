@@ -662,7 +662,7 @@ An Emacs interface for Claude Code CLI.
 </details>
 <br>
 
-[`claude-code.nvim` ![GitHub Repo Stars](https://img.shields.io/github/stars/greggh/claude-code.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/greggh/claude-code.nvim)](https://github.com/greggh/claude-code.nvim) &nbsp; by &nbsp; [greggh](https://github.com/greggh)  &nbsp;&nbsp;⚖��&nbsp;&nbsp;MIT  
+[`claude-code.nvim` ![GitHub Repo Stars](https://img.shields.io/github/stars/greggh/claude-code.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/greggh/claude-code.nvim)](https://github.com/greggh/claude-code.nvim) &nbsp; by &nbsp; [greggh](https://github.com/greggh)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
 A seamless integration between Claude Code AI assistant and Neovim.
 
 <details>
@@ -775,7 +775,7 @@ Claude Squad is a terminal app that manages multiple Claude Code, Codex (and oth
 Launch Claude Code session that is connected to a swarm of Claude Code Agents.
 
 <details>
-<summary>📊 GitHub Stats</summary>
+<summary>��� GitHub Stats</summary>
 
 ![GitHub Stats for claude-swarm](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=claude-swarm&username=parruda&all_stats=true&stats_only=true)
 
