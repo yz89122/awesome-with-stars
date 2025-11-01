@@ -228,7 +228,7 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 | <a href="https://www.netacad.com/courses/networking/networking-essentials" target="_blank" rel="noopener noreferrer">Networking Essentials</a> | Cisco Networking Academy | Intermediate | 70 | <a href="https://www.youracclaim.com/org/cisco/badge/networking-essentials" target="_blank" rel="noopener noreferrer">🏅</a>  |
 | <a href="https://learn.saylor.org/course/view.php?id=790" target="_blank" rel="noopener noreferrer">CS402: Computer Communications and Networks</a> | Saylor Academy | Intermediate | 60 | 🏆 |
 
-<a href="https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents" target="_blank" rel="noopener noreferrer">⬆️</a>
+<a href="https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents" target="_blank" rel="noopener noreferrer">���️</a>
 
 
 ## Operating Systems
@@ -261,7 +261,7 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 | <a href="https://www.netacad.com/courses/iot/introduction-iot" target="_blank" rel="noopener noreferrer">Introduction to IoT</a> | Cisco Networking Academy | Beginner | 20 | <a href="https://www.youracclaim.com/org/cisco/badge/introduction-to-iot" target="_blank" rel="noopener noreferrer">🏅</a> |
 | <a href="https://cognitiveclass.ai/courses/build-robots-with-tjbot" target="_blank" rel="noopener noreferrer">Building Robots with TJBot</a> | IBM / Cognitive Class |Beginner|3 | 🏅|
 
-<a href="https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents" target="_blank" rel="noopener noreferrer">⬆️</a>
+<a href="https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents" target="_blank" rel="noopener noreferrer">⬆��</a>
 
 
 ## Chatbots
@@ -435,7 +435,7 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
 | <a href="https://www.pmi.org/kickoff" target="_blank" rel="noopener noreferrer">KICKOFF</a><!-- markdown-link-check-disable-line --> | Project Management Institute | Beginner | 0.75 | 🏅 |
 | <a href="https://www.msicertified.com/project-management/project-management-essentials-certified/" target="_blank" rel="noopener noreferrer">Project Management Essentials</a> | Management and Strategy Institute | Beginner | 0.75 | 🏅 |
-| <a href="https://www.disasterready.org/free-certificate-project-management" target="_blank" rel="noopener noreferrer">Project Management Essentials</a> | Disaster Ready | Beginner | 5 | 🏅 |
+| <a href="https://www.disasterready.org/free-certificate-project-management" target="_blank" rel="noopener noreferrer">Project Management Essentials</a> | Disaster Ready | Beginner | 5 | ��� |
 
 <a href="https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents" target="_blank" rel="noopener noreferrer">⬆️</a>
 
