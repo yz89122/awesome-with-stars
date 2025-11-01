@@ -261,7 +261,7 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 | <a href="https://www.netacad.com/courses/iot/introduction-iot" target="_blank" rel="noopener noreferrer">Introduction to IoT</a> | Cisco Networking Academy | Beginner | 20 | <a href="https://www.youracclaim.com/org/cisco/badge/introduction-to-iot" target="_blank" rel="noopener noreferrer">🏅</a> |
 | <a href="https://cognitiveclass.ai/courses/build-robots-with-tjbot" target="_blank" rel="noopener noreferrer">Building Robots with TJBot</a> | IBM / Cognitive Class |Beginner|3 | 🏅|
 
-<a href="https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents" target="_blank" rel="noopener noreferrer">���️</a>
+<a href="https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents" target="_blank" rel="noopener noreferrer">⬆️</a>
 
 
 ## Chatbots
@@ -486,7 +486,7 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 | Course Name | Course Provider | Level | Hour(s) | Reward |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
 | <a href="https://tutorials.nmdprojects.net/play.html?illustrator_select_shapes" target="_blank" rel="noopener noreferrer">How to Select shapes in Illustrator</a> | UMaine New Media | Beginner| 0.11 | 🏅 |
-| <a href="https://tutorials.nmdprojects.net/play.html?illustrator_create_shapes" target="_blank" rel="noopener noreferrer">How to Create shapes in Illustrator</a> | UMaine New Media | Beginner| 0.11 | 🏅 |
+| <a href="https://tutorials.nmdprojects.net/play.html?illustrator_create_shapes" target="_blank" rel="noopener noreferrer">How to Create shapes in Illustrator</a> | UMaine New Media | Beginner| 0.11 | �� |
 | <a href="https://tutorials.nmdprojects.net/play.html?illustrator_wrap_shapes" target="_blank" rel="noopener noreferrer">How to Wrap shapes in Illustrator</a> | UMaine New Media | intermediate| 0.11 | 🏅 |
 | <a href="https://tutorials.nmdprojects.net/play.html?illustrator_manage_color" target="_blank" rel="noopener noreferrer">Manage color in Illustrator</a> | UMaine New Media | Beginner| 0.11 | 🏅 |
 | <a href="https://tutorials.nmdprojects.net/play.html?illustrator_apply_strokes_fills" target="_blank" rel="noopener noreferrer">Apply strokes and fills in Illustrator</a> | UMaine New Media | Beginner| 0.1 | 🏅 |
@@ -494,7 +494,7 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 | <a href="https://tutorials.nmdprojects.net/play.html?make_infographic_illustrator_1" target="_blank" rel="noopener noreferrer">How to make an Infographic in Illustrator 1</a> | UMaine New Media | Beginner| 0.22 | 🏅 |
 | <a href="https://tutorials.nmdprojects.net/play.html?make_infographic_illustrator_2" target="_blank" rel="noopener noreferrer">How to make an Infographic in Illustrator 2</a> | UMaine New Media | Beginner| 0.2 | 🏅 |
 
-<a href="https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents" target="_blank" rel="noopener noreferrer">���️</a>
+<a href="https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents" target="_blank" rel="noopener noreferrer">⬆️</a>
 
 
 ## Contributors 
