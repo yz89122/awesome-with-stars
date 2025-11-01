@@ -595,7 +595,7 @@ By default, govulncheck makes requests to the Go vulnerability database at https
 <h2>Groovy</h2>
 
 
-- [CodeNarc](https://codenarc.github.io/CodeNarc) ��� A static analysis tool for Groovy source code, enabling monitoring and enforcement of many coding standards and best practices.
+- [CodeNarc](https://codenarc.github.io/CodeNarc) — A static analysis tool for Groovy source code, enabling monitoring and enforcement of many coding standards and best practices.
 
 
 <a name="haskell" />
