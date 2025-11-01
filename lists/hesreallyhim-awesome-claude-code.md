@@ -433,7 +433,7 @@ High-performance Go implementation of Claude Code hooks and utilities. Provides 
 </details>
 <br>
 
-[`ccexp` ![GitHub Repo Stars](https://img.shields.io/github/stars/nyatinte/ccexp) ![GitHub last commit](https://img.shields.io/github/last-commit/nyatinte/ccexp)](https://github.com/nyatinte/ccexp) &nbsp; by &nbsp; [nyatinte](https://github.com/nyatinte)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
+[`ccexp` ![GitHub Repo Stars](https://img.shields.io/github/stars/nyatinte/ccexp) ![GitHub last commit](https://img.shields.io/github/last-commit/nyatinte/ccexp)](https://github.com/nyatinte/ccexp) &nbsp; by &nbsp; [nyatinte](https://github.com/nyatinte)  &nbsp;&nbsp;���️&nbsp;&nbsp;MIT  
 Interactive CLI tool for discovering and managing Claude Code configuration files and slash commands with a beautiful terminal UI.
 
 <details>
