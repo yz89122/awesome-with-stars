@@ -261,7 +261,7 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 | <a href="https://www.netacad.com/courses/iot/introduction-iot" target="_blank" rel="noopener noreferrer">Introduction to IoT</a> | Cisco Networking Academy | Beginner | 20 | <a href="https://www.youracclaim.com/org/cisco/badge/introduction-to-iot" target="_blank" rel="noopener noreferrer">🏅</a> |
 | <a href="https://cognitiveclass.ai/courses/build-robots-with-tjbot" target="_blank" rel="noopener noreferrer">Building Robots with TJBot</a> | IBM / Cognitive Class |Beginner|3 | 🏅|
 
-<a href="https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents" target="_blank" rel="noopener noreferrer">���️</a>
+<a href="https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents" target="_blank" rel="noopener noreferrer">⬆️</a>
 
 
 ## Chatbots
