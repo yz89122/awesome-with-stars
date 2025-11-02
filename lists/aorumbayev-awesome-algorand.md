@@ -398,7 +398,7 @@ Algorand is an open-source, proof of stake Blockchain and smart contract computi
 - [Algomint](https://algomint.io/) - Centralized BTC and ETH bridge to Algorand.
 - [XP.network](https://bridge.xp.network/) - Centralized cross-chain NFT bridge.
 - [ptokens](https://dapp.ptokens.io/swap?asset=btc&from=btc&to=algorand) - pNetwork Officially Launched Cross-Chain Bridges for Algorand.
-- [Messina](https://messina.one/) - The ALGO ��� ETH two-way Messina.one's Bridge will open the doors for interoperability between Ethereum and ERC-20 tokens with Algorand.
+- [Messina](https://messina.one/) - The ALGO — ETH two-way Messina.one's Bridge will open the doors for interoperability between Ethereum and ERC-20 tokens with Algorand.
 
 
 ### Oracles
