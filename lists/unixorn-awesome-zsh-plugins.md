@@ -284,7 +284,7 @@ Features 🐭✨
 - ⚡️ Lightweight and fast
   - Parallel plugin sync
   - Built in Rust 🦀
-- �� Seamless updates
+- 🔄 Seamless updates
   - Self-upgrade
   -Plugin sync
 
