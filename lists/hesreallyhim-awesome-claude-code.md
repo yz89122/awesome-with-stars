@@ -1279,7 +1279,7 @@ Primes Claude with comprehensive project understanding by loading repository str
 </details>
 <br>
 
-[`/initref` ![GitHub Repo Stars](https://img.shields.io/github/stars/okuvshynov/cubestat) ![GitHub last commit](https://img.shields.io/github/last-commit/okuvshynov/cubestat)](https://github.com/okuvshynov/cubestat/blob/main/.claude/commands/initref.md) &nbsp; by &nbsp; [okuvshynov](https://github.com/okuvshynov)  &nbsp;&nbsp;⚖��&nbsp;&nbsp;MIT  
+[`/initref` ![GitHub Repo Stars](https://img.shields.io/github/stars/okuvshynov/cubestat) ![GitHub last commit](https://img.shields.io/github/last-commit/okuvshynov/cubestat)](https://github.com/okuvshynov/cubestat/blob/main/.claude/commands/initref.md) &nbsp; by &nbsp; [okuvshynov](https://github.com/okuvshynov)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
 Initializes reference documentation structure with standard doc templates, API reference setup, documentation conventions, and placeholder content generation.
 
 <details>
