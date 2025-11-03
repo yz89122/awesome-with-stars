@@ -2,7 +2,7 @@
 
 # Awesome Neovim [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-<img src="https://neovim.io/logos/neovim-mark-flat.png" align="right" width="144" />
+<a href="https://neovim.io/"><img src="https://neovim.io/logos/neovim-mark-flat.png" align="right" width="144" /></a>
 <!-- Uncomment the awesome badge when the repository is added to awesome main list.
 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 -->
@@ -1642,7 +1642,6 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 - [Shatur/neovim-session-manager ![GitHub Repo Stars](https://img.shields.io/github/stars/Shatur/neovim-session-manager) ![GitHub last commit](https://img.shields.io/github/last-commit/Shatur/neovim-session-manager)](https://github.com/Shatur/neovim-session-manager) - A simple wrapper around :mksession.
 - [jedrzejboczar/possession.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/jedrzejboczar/possession.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/jedrzejboczar/possession.nvim)](https://github.com/jedrzejboczar/possession.nvim) - Flexible session management with arbitrary persistent data stored as JSON.
 - [niuiic/multiple-session.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/niuiic/multiple-session.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/niuiic/multiple-session.nvim)](https://github.com/niuiic/multiple-session.nvim) - Provides multi-session management capabilities.
-- [RutaTang/spectacle.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/RutaTang/spectacle.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/RutaTang/spectacle.nvim)](https://github.com/RutaTang/spectacle.nvim) - Easily manage multiple sessions with telescope integration.
 - [coffebar/neovim-project ![GitHub Repo Stars](https://img.shields.io/github/stars/coffebar/neovim-project) ![GitHub last commit](https://img.shields.io/github/last-commit/coffebar/neovim-project)](https://github.com/coffebar/neovim-project) - Declarative project management, automatic saving of sessions, uses Telescope.
 - [njayman/season.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/njayman/season.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/njayman/season.nvim)](https://github.com/njayman/season.nvim) - A lightweight plugin to manage session based on current working directory.
 
@@ -1888,6 +1887,7 @@ You can find them listed on the [Neovim wiki ![GitHub Repo Stars](https://img.sh
 - [Dotfyle](https://dotfyle.com) - Dotfyle is a site for sharing and discovering Neovim configs and plugins.
 - [NeoLand](https://neoland.dev) - A beautifully crafted website for Neovim resources.
 - [Weyaaron/nvim-training ![GitHub Repo Stars](https://img.shields.io/github/stars/Weyaaron/nvim-training) ![GitHub last commit](https://img.shields.io/github/last-commit/Weyaaron/nvim-training)](https://github.com/Weyaaron/nvim-training) - A beginner-friendly tool for training your 'muscle memory' using small, repeatable tasks.
+- [Nvim.app](https://nvim.app) - A modern search interface for Neovim plugins with fuzzy search, filtering, and self-service updates for plugin authors.
 
 <!--lint disable double-link -->
 
