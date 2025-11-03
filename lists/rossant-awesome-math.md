@@ -337,7 +337,7 @@ All resources are freely available except those with a 💲 icon.
 * 📝 [MIT OpenCourseWare Lectures on Linear Algebra (18.06) as Jupyter Notebooks ![GitHub Repo Stars](https://img.shields.io/github/stars/juanklopper/MIT_OCW_Linear_Algebra_18_06) ![GitHub last commit](https://img.shields.io/github/last-commit/juanklopper/MIT_OCW_Linear_Algebra_18_06)](https://github.com/juanklopper/MIT_OCW_Linear_Algebra_18_06) - Juan Klopper
 * 📝 [Elementary Linear Algebra](http://www.numbertheory.org/book/) - Keith Matthews
 * 📝 [A First Courses in Linear Algebra](http://linear.ups.edu/) - Rob Breezer
-* ���� [Linear Algebra](https://www.math.ucdavis.edu/~linear/) - David Cherney, Tom Denton, Andrew Waldron
+* 📝 [Linear Algebra](https://www.math.ucdavis.edu/~linear/) - David Cherney, Tom Denton, Andrew Waldron
 * 📝 [Introduction to vectors and tensors, Vol 1: linear and multilinear algebra](http://oaktrust.library.tamu.edu/handle/1969.1/2502) - Ray M Bowen, C. C. Wang
 * 📝 [Introduction to vectors and tensors, Vol 2: vector and tensor analysis](http://oaktrust.library.tamu.edu/handle/1969.1/3609) - Ray M Bowen, C. C. Wang
 * 📝 [Introduction to Applied Linear Algebra](https://web.stanford.edu/~boyd/vmls/vmls.pdf) - Stephen Boyd (Stanford University), Lieven Vandenberghe (UCLA)
