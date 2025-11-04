@@ -146,7 +146,7 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 | <a href="https://www.freecodecamp.org/learn/data-analysis-with-python/" target="_blank" rel="noopener noreferrer">Data Analysis with Python Certification</a> | FreeCodeCamp |Professional|300 | 🏆|
 | <a href="https://cognitiveclass.ai/courses/data-visualization-with-python" target="_blank" rel="noopener noreferrer">Data Visualization with Python</a> | IBM / Cognitive Class |Intermediate|3 | <a href="https://www.youracclaim.com/org/ibm/badge/data-visualization-using-python" target="_blank" rel="noopener noreferrer">🏅</a>|
 | <a href="https://cognitiveclass.ai/courses/data-visualization-with-r/" target="_blank" rel="noopener noreferrer">Data Visualization with R</a> | IBM / Cognitive Class |Beginner|3 | <a href="https://www.youracclaim.com/org/ibm/badge/data-visualization-with-r" target="_blank" rel="noopener noreferrer">🏅</a>|
-| <a href="https://www.freecodecamp.org/learn/data-visualization/" target="_blank" rel="noopener noreferrer">Data Visualization Certification</a> | FreeCodeCamp |Professional|300 | ����|
+| <a href="https://www.freecodecamp.org/learn/data-visualization/" target="_blank" rel="noopener noreferrer">Data Visualization Certification</a> | FreeCodeCamp |Professional|300 | 🏆|
 | <a href="https://www.kaggle.com/learn/data-visualization" target="_blank" rel="noopener noreferrer">Data Visualization</a>             | Kaggle          | Beginner      | 4     | 🏆     |
 | <a href="https://www.kaggle.com/learn/data-cleaning" target="_blank" rel="noopener noreferrer">Data Cleaning</a>                         | Kaggle          | Intermediate | 4     | 🏆     |
 
@@ -194,7 +194,7 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 | <a href="https://cognitiveclass.ai/courses/machine-learning-with-python/" target="_blank" rel="noopener noreferrer">Machine Learning with Python</a> | IBM / Cognitive Class |Beginner|20 | <a href="https://www.youracclaim.com/org/ibm/badge/machine-learning-with-python-level-1" target="_blank" rel="noopener noreferrer">🏅</a>|
 | <a href="https://www.freecodecamp.org/learn/machine-learning-with-python/" target="_blank" rel="noopener noreferrer">Machine Learning with Python Certification</a> | FreeCodeCamp |Professional|300 | 🏆|
 | <a href="https://www.kaggle.com/learn/intro-to-machine-learning" target="_blank" rel="noopener noreferrer">Intro to Machine Learning</a> | Kaggle          | Beginner      | 3     | 🏆     |
-| <a href="https://www.kaggle.com/learn/intermediate-machine-learning" target="_blank" rel="noopener noreferrer">Intermediate Machine Learning</a> | Kaggle | Intermediate | 4     | 🏆     |
+| <a href="https://www.kaggle.com/learn/intermediate-machine-learning" target="_blank" rel="noopener noreferrer">Intermediate Machine Learning</a> | Kaggle | Intermediate | 4     | ���     |
 | <a href="https://www.kaggle.com/learn/machine-learning-explainability" target="_blank" rel="noopener noreferrer">Machine Learning Explainability</a> | Kaggle | Intermediate | 4     | 🏆     |
 | <a href="https://www.kaggle.com/learn/intro-to-deep-learning" target="_blank" rel="noopener noreferrer">Intro to Deep Learning</a>       | Kaggle          | Intermediate | 4     | 🏆     |
 | <a href="https://www.kaggle.com/learn/time-series" target="_blank" rel="noopener noreferrer">Time Series</a>                               | Kaggle          | Intermediate | 5     | 🏆     |
@@ -214,7 +214,7 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 | <a href="https://www.cloudskillsboost.google/course_templates/536" target="_blank" rel="noopener noreferrer">Introduction to Generative AI</a> | Google Cloud Skills Boost | Intermediate | 0.75 | 🏆 |
 | <a href="https://explore.skillbuilder.aws/learn/course/external/view/elearning/17763/foundations-of-prompt-engineering" target="_blank" rel="noopener noreferrer">Foundations of Prompt Engineering</a> | Amazon | Intermediate | 4 | 🏆 |
 | <a href="https://explore.skillbuilder.aws/learn/public/learning_plan/view/1909/generative-ai-learning-plan-for-decision-makers" target="_blank" rel="noopener noreferrer">Generative AI for Decision Makers</a> | Amazon | Beginner| 3 | 🏆 |
-| <a href="https://www.databricks.com/resources/learn/training/generative-ai-fundamentals" target="_blank" rel="noopener noreferrer">Generative AI Fundamentals</a> | Data Bricks |Beginner|0.5 | ��� |
+| <a href="https://www.databricks.com/resources/learn/training/generative-ai-fundamentals" target="_blank" rel="noopener noreferrer">Generative AI Fundamentals</a> | Data Bricks |Beginner|0.5 | 🏅 |
 | <a href="https://www.linkedin.com/learning/paths/career-essentials-in-generative-ai-by-microsoft-and-linkedin" target="_blank" rel="noopener noreferrer">Career Essentials in Generative AI</a> | LinkedIn & Microsoft | Beginner| 4.5 | 🏆 |
 | <a href="https://www.deeplearning.ai/short-courses/prompt-engineering-for-vision-models/" target="_blank" rel="noopener noreferrer">Prompt Engineering for Vision Models</a> | DeepLearning.AI & Comet | Beginner | 1.5 | 🏅 |
 
@@ -412,7 +412,7 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 | <a href="https://www.hackerrank.com/skills-verification/problem_solving_basic" target="_blank" rel="noopener noreferrer">Problem Solving</a> | HackerRank |Beginner| 1.5 | 🏆|
 | <a href="https://www.hackerrank.com/skills-verification/problem_solving_intermediate" target="_blank" rel="noopener noreferrer">Problem Solving</a> | HackerRank |Intermediate| 1.5 | 🏆|
 | <a href="https://memgraph.com/learn-graph-modeling" target="_blank" rel="noopener noreferrer">Graph Modeling Email Course</a> | Memgraph |Beginner| 1 | 🏅|
-| <a href="https://www.kaggle.com/learn/geospatial-analysis" target="_blank" rel="noopener noreferrer">Geospatial Analysis</a>             | Kaggle          | Intermediate | 4     | ����     |
+| <a href="https://www.kaggle.com/learn/geospatial-analysis" target="_blank" rel="noopener noreferrer">Geospatial Analysis</a>             | Kaggle          | Intermediate | 4     | 🏆     |
 
 <a href="https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents" target="_blank" rel="noopener noreferrer">⬆️</a>
 
