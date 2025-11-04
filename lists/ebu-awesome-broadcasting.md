@@ -44,7 +44,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
 * [Lame](https://lame.sourceforge.io/) - A high quality MPEG Audio Layer III (MP3) encoder.
 * [opencore-amr](https://sourceforge.net/projects/opencore-amr/) - Audio codecs extracted from Android Open Source Project, including AAC.
 * [Opus](https://www.opus-codec.org/) - A totally open, royalty-free, highly versatile audio codec.
-* [Turing Codec](http://turingcodec.org/) - An H.265/HEVC open source software encoder designed for fast and efficient video compression.
+* [Turing Codec ![GitHub Repo Stars](https://img.shields.io/github/stars/bbc/turingcodec) ![GitHub last commit](https://img.shields.io/github/last-commit/bbc/turingcodec)](https://github.com/bbc/turingcodec) - An H.265/HEVC open source software encoder designed for fast and efficient video compression.
 * [TwoLame](https://www.twolame.org/) - An MPEG Audio Layer 2 (MP2) encoder.
 
 ## Companion Screens
@@ -56,7 +56,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
 
 ## Connected TVs
 
-* [CPA Authorization Provider ![GitHub Repo Stars](https://img.shields.io/github/stars/ebu/cpa-auth-provider) ![GitHub last commit](https://img.shields.io/github/last-commit/ebu/cpa-auth-provider)](https://github.com/ebu/cpa-auth-provider) - Reference implementation for linking media devices with online identities ([related repos](https://tech.ebu.ch/code/cpa) here).
+* [CPA Authorization Provider ![GitHub Repo Stars](https://img.shields.io/github/stars/ebu/cpa-auth-provider) ![GitHub last commit](https://img.shields.io/github/last-commit/ebu/cpa-auth-provider)](https://github.com/ebu/cpa-auth-provider) - Reference implementation for linking media devices with online identities ([related repos](https://tech.ebu.ch/code) here).
 * [HbbPlayer ![GitHub Repo Stars](https://img.shields.io/github/stars/Samsung/HbbPlayer) ![GitHub last commit](https://img.shields.io/github/last-commit/Samsung/HbbPlayer)](https://github.com/Samsung/HbbPlayer) - An HbbTV and W3C specifications compliant application that can playback media from a URL.
 * [TAL](http://bbc.github.io/tal/) - The TV Application Layer (TAL) is an open source library for building applications for Connected TV devices.
 
@@ -139,7 +139,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
 * [MPD](https://www.musicpd.org/) - A flexible, powerful, server-side application for playing music.
 * [mpg123](https://www.mpg123.de/) - A fast console MPEG Audio Player and decoder library.
 * [Mixxx](https://mixxx.org/) - A free, open source DJ software.
-* [Peaks.js](https://waveform.prototyping.bbc.co.uk/) - Browser-based audio waveform visualisation.
+* [Peaks.js](https://codeberg.org/chrisn/peaks.js) - Browser-based audio waveform visualisation.
 * [rx-player ![GitHub Repo Stars](https://img.shields.io/github/stars/canalplus/rx-player) ![GitHub last commit](https://img.shields.io/github/last-commit/canalplus/rx-player)](https://github.com/canalplus/rx-player) - HTML5/Javascript video player that supports MPEG-DASH and SmoothStreaming.
 * [VLC](https://www.vlc.org) - Simple, fast and powerful media player.
 
@@ -159,7 +159,6 @@ A curated list of amazingly awesome open source resources for broadcasters.
 * [a_Multiview ![GitHub Repo Stars](https://img.shields.io/github/stars/Bencosterton/a_MultiView) ![GitHub last commit](https://img.shields.io/github/last-commit/Bencosterton/a_MultiView)](https://github.com/Bencosterton/a_MultiView) - A web based multiview for HLS and Youtube links.
 * [BeaqleJS ![GitHub Repo Stars](https://img.shields.io/github/stars/HSU-ANT/beaqlejs) ![GitHub last commit](https://img.shields.io/github/last-commit/HSU-ANT/beaqlejs)](https://github.com/HSU-ANT/beaqlejs) - A framework to create browser based listening tests for subjective audio quality assessment.
 * [Jack Meter ![GitHub Repo Stars](https://img.shields.io/github/stars/njh/jackmeter) ![GitHub last commit](https://img.shields.io/github/last-commit/njh/jackmeter)](https://github.com/njh/jackmeter) - Text console based DPM (Digital Peak Meter) for JACK.
-* [JACK Meterbridge](http://plugin.org.uk/meterbridge/) - A collection of graphical Audio meters for JACK (ballistics may be incorrect).
 * [Jmeters](http://kokkinizita.linuxaudio.org/linuxaudio/downloads/index.html) - A collection of graphical audio meters for JACK, including VU, PPM and [EBU R 128](https://tech.ebu.ch/publications/r128) Loudness meters.
 * [LTC-tools ![GitHub Repo Stars](https://img.shields.io/github/stars/x42/ltc-tools) ![GitHub last commit](https://img.shields.io/github/last-commit/x42/ltc-tools)](https://github.com/x42/ltc-tools) - A collection of tools to handle Linear Timecode (LTC) and convert to MIDI Timecode (MTC).
 * [MediaConch](https://mediaarea.net/MediaConch) - Implementation checker, policy checker, & reporter for Matroska, FFV1, & PCM.
@@ -191,7 +190,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
 * [Kelvinadon ![GitHub Repo Stars](https://img.shields.io/github/stars/Streampunk/kelvinadon) ![GitHub last commit](https://img.shields.io/github/last-commit/Streampunk/kelvinadon)](https://github.com/Streampunk/kelvinadon) - Node.JS pure Javascript module for streaming MXF files to and from JSON.
 * [KFR](https://www.kfrlib.com/) - Fast, modern C++ DSP framework, DFT/FFT, Audio resampling, FIR/IIR, Biquad, EBU R 128.
 * [L-SMASH ![GitHub Repo Stars](https://img.shields.io/github/stars/l-smash/l-smash) ![GitHub last commit](https://img.shields.io/github/last-commit/l-smash/l-smash)](https://github.com/l-smash/l-smash/) - A rigidly spec-compliant ISOBMFF library, which has full DASH muxing support.
-* [LibAV](https://libav.org/) - Open source audio and video processing tools.
+* [LibAV ![GitHub Repo Stars](https://img.shields.io/github/stars/libav/libav) ![GitHub last commit](https://img.shields.io/github/last-commit/libav/libav)](https://github.com/libav/libav) - Open source audio and video processing tools.
 * [libbw64 ![GitHub Repo Stars](https://img.shields.io/github/stars/ebu/libbw64) ![GitHub last commit](https://img.shields.io/github/last-commit/ebu/libbw64)](https://github.com/ebu/libbw64) – Header-only Broadcast Wave 64 (ITU-R BS.2088) C++11 library.
 * [libear ![GitHub Repo Stars](https://img.shields.io/github/stars/ebu/libear) ![GitHub last commit](https://img.shields.io/github/last-commit/ebu/libear)](https://github.com/ebu/libear) - A C++11 library to render ADM content according to Recommendation ITU-R BS.2127.
 * [Libebur128 ![GitHub Repo Stars](https://img.shields.io/github/stars/jiixyj/libebur128) ![GitHub last commit](https://img.shields.io/github/last-commit/jiixyj/libebur128)](https://github.com/jiixyj/libebur128) - A library that implements the EBU R 128 standard for loudness normalisation.
@@ -203,7 +202,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
 * [rgain3 ![GitHub Repo Stars](https://img.shields.io/github/stars/chaudum/rgain3) ![GitHub last commit](https://img.shields.io/github/last-commit/chaudum/rgain3)](https://github.com/chaudum/rgain3) - Tools and Python3 library to read, write and calculate Replay Gain - fork of the original by Felix Krull.
 * [rtmp ![GitHub Repo Stars](https://img.shields.io/github/stars/c-bata/rtmp) ![GitHub last commit](https://img.shields.io/github/last-commit/c-bata/rtmp)](https://github.com/c-bata/rtmp) - Server implementation of Adobe's RTMP 1.0 protocol in Go.
 * [Snowmix](https://sourceforge.net/projects/snowmix/) - Live Video Mixer.
-* [SoX](https://sox.sourceforge.net/) - The Swiss Army knife of sound processing programs.
+* [SoX](https://sourceforge.net/projects/sox/) - The Swiss Army knife of sound processing programs.
 * [SVT Encore ![GitHub Repo Stars](https://img.shields.io/github/stars/svt/encore) ![GitHub last commit](https://img.shields.io/github/last-commit/svt/encore)](https://github.com/svt/encore) - Selfhosted video transcoding platform, built around FFmpeg.
 * [TuttleOFX ![GitHub Repo Stars](https://img.shields.io/github/stars/tuttleofx/TuttleOFX) ![GitHub last commit](https://img.shields.io/github/last-commit/tuttleofx/TuttleOFX)](https://github.com/tuttleofx/TuttleOFX) - An open source image processing framework based on OpenFX plugin standard.
 * [UPipe ![GitHub Repo Stars](https://img.shields.io/github/stars/cmassiot/upipe) ![GitHub last commit](https://img.shields.io/github/last-commit/cmassiot/upipe)](https://github.com/cmassiot/upipe/) - Primarily designed to be the core of a multimedia player, transcoder or streamer.
@@ -239,7 +238,7 @@ The [Networked Media Open Specifications](https://specs.amwa.tv/nmos/) are thems
 * [AntennaPod ![GitHub Repo Stars](https://img.shields.io/github/stars/AntennaPod/AntennaPod) ![GitHub last commit](https://img.shields.io/github/last-commit/AntennaPod/AntennaPod)](https://github.com/AntennaPod/AntennaPod) - A podcast manager for Android ([antennapod.org](https://antennapod.org/)).
 * [Anytime Podcast Player ![GitHub Repo Stars](https://img.shields.io/github/stars/amugofjava/anytime_podcast_player) ![GitHub last commit](https://img.shields.io/github/last-commit/amugofjava/anytime_podcast_player)](https://github.com/amugofjava/anytime_podcast_player) - Free and easy to use podcast player for Android and iOS ([anytimeplayer.app](https://anytimeplayer.app/)).
 * [Castopod ![GitHub Repo Stars](https://img.shields.io/github/stars/ad-aures/castopod) ![GitHub last commit](https://img.shields.io/github/last-commit/ad-aures/castopod)](https://github.com/ad-aures/castopod) - Podcast Hosting and Broadcasting ([castopod.org](https://castopod.org/)).
-* [gPodder ![GitHub Repo Stars](https://img.shields.io/github/stars/gpodder/gpodder) ![GitHub last commit](https://img.shields.io/github/last-commit/gpodder/gpodder)](https://github.com/gpodder/gpodder) - Media aggregator and podcast client ([gpodder.org](https://gpodder.org/)).
+* [gPodder](https://gpodder.github.io/) - Media aggregator and podcast client.
 * [Podlove Publisher ![GitHub Repo Stars](https://img.shields.io/github/stars/podlove/podlove-publisher) ![GitHub last commit](https://img.shields.io/github/last-commit/podlove/podlove-publisher)](https://github.com/podlove/podlove-publisher) - Podcast Publisher for WordPress ([podlove.org](https://podlove.org/podlove-podcast-publisher/)).
 * [Podlove Web Player ![GitHub Repo Stars](https://img.shields.io/github/stars/podlove/podlove-ui) ![GitHub last commit](https://img.shields.io/github/last-commit/podlove/podlove-ui)](https://github.com/podlove/podlove-ui) - Podcast-optimized, HTML5-based video and audio player ([podlove.org](https://podlove.org/podlove-web-player/)).
 * [Ultraschall](https://github.com/Ultraschall) - Suite of Plugins and UI tweaks to use with the DAW [Reaper](https://www.reaper.fm/) tailored towards Podcasters ([ultraschall.fm](https://ultraschall.fm/))
@@ -274,7 +273,7 @@ The [Networked Media Open Specifications](https://specs.amwa.tv/nmos/) are thems
 * [EBU-TT-D Subtitling within dash.js ![GitHub Repo Stars](https://img.shields.io/github/stars/ebu/dash.js) ![GitHub last commit](https://img.shields.io/github/last-commit/ebu/dash.js)](https://github.com/ebu/dash.js/tree/ebu-subtitling-dev) - dash.js fork with EBU-TT-D subtitles in HTML/CSS overlay. Later added to [dash.js ![GitHub Repo Stars](https://img.shields.io/github/stars/ebu/dash.js) ![GitHub last commit](https://img.shields.io/github/last-commit/ebu/dash.js)](https://github.com/ebu/dash.js).
 * [EBU-TT-D W3C XML Schema ![GitHub Repo Stars](https://img.shields.io/github/stars/ebu/ebu-tt-d-xsd) ![GitHub last commit](https://img.shields.io/github/last-commit/ebu/ebu-tt-d-xsd)](https://github.com/ebu/ebu-tt-d-xsd/) - Informative EBU-TT-D XML Schema to support the implementation of EBU Tech 3380.
 * [EBU-TT Live Interoperability Toolkit ![GitHub Repo Stars](https://img.shields.io/github/stars/ebu/ebu-tt-live-toolkit) ![GitHub last commit](https://img.shields.io/github/last-commit/ebu/ebu-tt-live-toolkit)](https://github.com/ebu/ebu-tt-live-toolkit) - Components for generating, testing and distributing [EBU-TT Live](https://tech.ebu.ch/publications/tech3370) subtitles.
-* [GStreamer TTML subtitling package ![GitHub Repo Stars](https://img.shields.io/github/stars/bbc/gst-ttml-subtitles) ![GitHub last commit](https://img.shields.io/github/last-commit/bbc/gst-ttml-subtitles)](https://github.com/bbc/gst-ttml-subtitles) - A means for GStreamer pipelines to parse and render EBU-TT-D (TTML) subtitles.
+* [GStreamer TTML subtitling package ![GitHub Repo Stars](https://img.shields.io/github/stars/BBC-archive/gst-ttml-subtitles) ![GitHub last commit](https://img.shields.io/github/last-commit/BBC-archive/gst-ttml-subtitles)](https://github.com/BBC-archive/gst-ttml-subtitles) - A means for GStreamer pipelines to parse and render EBU-TT-D (TTML) subtitles.
 * [imscJS ![GitHub Repo Stars](https://img.shields.io/github/stars/sandflow/imscJS) ![GitHub last commit](https://img.shields.io/github/last-commit/sandflow/imscJS)](https://github.com/sandflow/imscJS) - JavaScript library for rendering IMSC1 Text and Image Profile documents to HTML5.
 * [IRT EBU-TT-D Application Samples ![GitHub Repo Stars](https://img.shields.io/github/stars/IRT-Open-Source/irt-ebu-tt-d-application-samples) ![GitHub last commit](https://img.shields.io/github/last-commit/IRT-Open-Source/irt-ebu-tt-d-application-samples)](https://github.com/IRT-Open-Source/irt-ebu-tt-d-application-samples) - EBU-TT-D sample files, PNG images and mp4 videos as rendering references.
 * [Subtitle Edit](https://www.nikse.dk/SubtitleEdit) - An editor for subtitles.
@@ -312,7 +311,6 @@ Various resources, such as books, websites and articles, for improving your skil
 * [Canal+](https://developers.canal-plus.com/) - CANAL+ Open Source Community.
 * [IRT Lab](https://web.archive.org/web/20210830075332/https://lab.irt.de/) - IRT blog posting developments and demos for all digital audiovisual media technology.
 * [The Netflix Tech Blog](https://netflixtechblog.com/) - A Netflix blog focused on technology and technology issues.
-* [Youtube Engineering and Developers Blog](https://youtube-eng.googleblog.com/) - What's happening with engineering and developers at YouTube.
 
 # Contributing
 Please see [CONTRIBUTING ![GitHub Repo Stars](https://img.shields.io/github/stars/ebu/awesome-broadcasting) ![GitHub last commit](https://img.shields.io/github/last-commit/ebu/awesome-broadcasting)](https://github.com/ebu/awesome-broadcasting/blob/master/CONTRIBUTING.md) for details.
