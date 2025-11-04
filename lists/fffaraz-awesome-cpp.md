@@ -1072,6 +1072,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [TileDB ![GitHub Repo Stars](https://img.shields.io/github/stars/TileDB-Inc/TileDB) ![GitHub last commit](https://img.shields.io/github/last-commit/TileDB-Inc/TileDB)](https://github.com/TileDB-Inc/TileDB) - Fast Dense and Sparse Multidimensional Array DBMS. [MIT] [website](https://tiledb.io/)
 * [Trilinos ![GitHub Repo Stars](https://img.shields.io/github/stars/trilinos/Trilinos) ![GitHub last commit](https://img.shields.io/github/last-commit/trilinos/Trilinos)](https://github.com/trilinos/Trilinos) - High performance PDE solvers. [BSD]
 * [Torch ![GitHub Repo Stars](https://img.shields.io/github/stars/torch/torch7) ![GitHub last commit](https://img.shields.io/github/last-commit/torch/torch7)](https://github.com/torch/torch7) - A scientific computing framework with wide support for machine learning algorithms that puts GPUs first. [BSD-3-Clause] [website](http://torch.ch/)
+* [volesti ![GitHub Repo Stars](https://img.shields.io/github/stars/GeomScale/volesti) ![GitHub last commit](https://img.shields.io/github/last-commit/GeomScale/volesti)](https://github.com/GeomScale/volesti) - High dimensional sampling from truncated distributions, convex optimization and volume computation. 
 
 ## Scripting
 
