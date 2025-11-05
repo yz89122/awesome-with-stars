@@ -1015,7 +1015,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Mittsu ![GitHub Repo Stars](https://img.shields.io/github/stars/danini-the-panini/mittsu) ![GitHub last commit](https://img.shields.io/github/last-commit/danini-the-panini/mittsu)](https://github.com/danini-the-panini/mittsu) - 3D graphics library based heavily on _Three.js_.
 - Ruby: Gui
     - 🎉 [Glimmer ![GitHub Repo Stars](https://img.shields.io/github/stars/andyobtiva/glimmer) ![GitHub last commit](https://img.shields.io/github/last-commit/andyobtiva/glimmer)](https://github.com/andyobtiva/glimmer) - Gui library and DSL (domain specific language) framework.
-    - 🎉 [Shoes ![GitHub Repo Stars](https://img.shields.io/github/stars/shoes/shoes4) ![GitHub last commit](https://img.shields.io/github/last-commit/shoes/shoes4)](https://github.com/shoes/shoes4) - Cross-platform gui library. [[Website](http://shoesrb.com/)]
+    - ���� [Shoes ![GitHub Repo Stars](https://img.shields.io/github/stars/shoes/shoes4) ![GitHub last commit](https://img.shields.io/github/last-commit/shoes/shoes4)](https://github.com/shoes/shoes4) - Cross-platform gui library. [[Website](http://shoesrb.com/)]
 
 ### Rust
 - 📚 [Awesome Rust ![GitHub Repo Stars](https://img.shields.io/github/stars/rust-unofficial/awesome-rust) ![GitHub last commit](https://img.shields.io/github/last-commit/rust-unofficial/awesome-rust)](https://github.com/rust-unofficial/awesome-rust) - Curated list of Rust code and resources.
