@@ -261,7 +261,7 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 | <a href="https://www.netacad.com/courses/iot/introduction-iot" target="_blank" rel="noopener noreferrer">Introduction to IoT</a> | Cisco Networking Academy | Beginner | 20 | <a href="https://www.youracclaim.com/org/cisco/badge/introduction-to-iot" target="_blank" rel="noopener noreferrer">🏅</a> |
 | <a href="https://cognitiveclass.ai/courses/build-robots-with-tjbot" target="_blank" rel="noopener noreferrer">Building Robots with TJBot</a> | IBM / Cognitive Class |Beginner|3 | 🏅|
 
-<a href="https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents" target="_blank" rel="noopener noreferrer">⬆���</a>
+<a href="https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents" target="_blank" rel="noopener noreferrer">��️</a>
 
 
 ## Chatbots
@@ -290,7 +290,7 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 | <a href="https://learn.unity.com/pathway/unity-essentials" target="_blank" rel="noopener noreferrer">Unity Essentials</a> | Unity | Beginner | 336 | <a href="https://www.credly.com/org/unity/badge/unity-essentials-pathway" target="_blank" rel="noopener noreferrer">🏅</a> |
 | <a href="https://learn.unity.com/pathway/junior-programmer" target="_blank" rel="noopener noreferrer">Junior Programmer</a> | Unity | Beginner | 2000 | <a href="https://www.credly.com/org/unity/badge/unity-junior-programmer" target="_blank" rel="noopener noreferrer">🏅</a>
 | <a href="https://learn.unity.com/pathway/creative-core" target="_blank" rel="noopener noreferrer">Creative Core</a> | Unity | Beginner | 1680 | <a href="https://www.credly.com/org/unity/badge/unity-creative-core" target="_blank" rel="noopener noreferrer">🏅</a>
-| <a href="https://learn.unity.com/pathway/vr-development" target="_blank" rel="noopener noreferrer">VR Development</a> | Unity | Beginner | 1000 | <a href="https://www.credly.com/org/unity/badge/unity-vr-development" target="_blank" rel="noopener noreferrer">��</a>
+| <a href="https://learn.unity.com/pathway/vr-development" target="_blank" rel="noopener noreferrer">VR Development</a> | Unity | Beginner | 1000 | <a href="https://www.credly.com/org/unity/badge/unity-vr-development" target="_blank" rel="noopener noreferrer">����</a>
 | <a href="https://learn.unity.com/pathway/mobile-ar-development" target="_blank" rel="noopener noreferrer">Mobile AR Development</a> | Unity | Beginner | 1344 | <a href="https://www.credly.com/org/unity/badge/unity-mobile-ar-development" target="_blank" rel="noopener noreferrer">🏅</a>
 
 <a href="https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents" target="_blank" rel="noopener noreferrer">⬆️</a>
@@ -391,7 +391,7 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
 | <a href="https://www.netacad.com/courses/programming/pcap-programming-essentials-python" target="_blank" rel="noopener noreferrer">Programming Essentials In Python</a> | Cisco Networking Academy |Intermediate| 70 | 🏆 |
 | <a href="https://www.freecodecamp.org/learn/scientific-computing-with-python/" target="_blank" rel="noopener noreferrer">Scientific Computing with Python Certification</a> | FreeCodeCamp |Professional|300 | 🏆|
-| <a href="https://www.hackerrank.com/skills-verification/python_basic" target="_blank" rel="noopener noreferrer">Python</a> | HackerRank |Beginner| 1.5 | ����|
+| <a href="https://www.hackerrank.com/skills-verification/python_basic" target="_blank" rel="noopener noreferrer">Python</a> | HackerRank |Beginner| 1.5 | 🏆|
 | <a href="https://memgraph.com/blog/learn-graph-analytics-with-python" target="_blank" rel="noopener noreferrer">Intro to Graph Analytics in Python free course</a> | Memgraph |Intermediate| 3 | 🏅|
 | <a href="https://www.kaggle.com/learn/python" target="_blank" rel="noopener noreferrer">Python</a>                                        | Kaggle          | Beginner      | 5     | 🏆     |
 | <a href="https://www.kaggle.com/learn/pandas" target="_blank" rel="noopener noreferrer">Pandas</a>                                      | Kaggle          | Beginner      | 4     | 🏆     |
@@ -473,7 +473,7 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 
 | Course Name | Course Provider | Level | Hour(s) | Reward |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
-| <a href="https://www.mindluster.com/certificate/1568/Adobe-Photoshop" target="_blank" rel="noopener noreferrer">Adobe Photoshop</a> | Mind Luster |Beginner| 1.4 | ��� |
+| <a href="https://www.mindluster.com/certificate/1568/Adobe-Photoshop" target="_blank" rel="noopener noreferrer">Adobe Photoshop</a> | Mind Luster |Beginner| 1.4 | 🏆 |
 | <a href="https://tutorials.nmdprojects.net/play.html?photoshop_erase_shape" target="_blank" rel="noopener noreferrer">How to Erase a shape in Photoshop</a> | UMaine New Media | intermediate| 0.13 | 🏅 |
 | <a href="https://tutorials.nmdprojects.net/play.html?photoshop_select_shape" target="_blank" rel="noopener noreferrer">How to Select a shape in Photoshop</a> | UMaine New Media | intermediate| 0.1 | 🏅 |
 | <a href="https://tutorials.nmdprojects.net/play.html?photoshop_insert_shape" target="_blank" rel="noopener noreferrer">How to Insert a shape in Photoshop</a> | UMaine New Media | intermediate| 0.1 | 🏅 |
@@ -494,7 +494,7 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 | <a href="https://tutorials.nmdprojects.net/play.html?make_infographic_illustrator_1" target="_blank" rel="noopener noreferrer">How to make an Infographic in Illustrator 1</a> | UMaine New Media | Beginner| 0.22 | 🏅 |
 | <a href="https://tutorials.nmdprojects.net/play.html?make_infographic_illustrator_2" target="_blank" rel="noopener noreferrer">How to make an Infographic in Illustrator 2</a> | UMaine New Media | Beginner| 0.2 | 🏅 |
 
-<a href="https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents" target="_blank" rel="noopener noreferrer">⬆���</a>
+<a href="https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents" target="_blank" rel="noopener noreferrer">⬆️</a>
 
 
 ## Contributors 
