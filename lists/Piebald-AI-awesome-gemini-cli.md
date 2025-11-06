@@ -10,7 +10,7 @@ A curated list of awesome tools, extensions, and resources for [Gemini CLI ![Git
 -->
 
 > [!tip]
-> **Track your local Gemini CLI locally with [Splitrail ![GitHub Repo Stars](https://img.shields.io/github/stars/Piebald-AI/splitrail) ![GitHub last commit](https://img.shields.io/github/last-commit/Piebald-AI/splitrail)](https://github.com/Piebald-AI/splitrail).**
+> **Track your local Gemini CLI usage with [Splitrail ![GitHub Repo Stars](https://img.shields.io/github/stars/Piebald-AI/splitrail) ![GitHub last commit](https://img.shields.io/github/last-commit/Piebald-AI/splitrail)](https://github.com/Piebald-AI/splitrail).**
 
 **👉 See also: [Awesome Gemini CLI Extensions ![GitHub Repo Stars](https://img.shields.io/github/stars/Piebald-AI/awesome-gemini-cli-extensions) ![GitHub last commit](https://img.shields.io/github/last-commit/Piebald-AI/awesome-gemini-cli-extensions)](https://github.com/Piebald-AI/awesome-gemini-cli-extensions)**
 
