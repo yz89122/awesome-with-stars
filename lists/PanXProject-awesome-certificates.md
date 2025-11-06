@@ -449,7 +449,7 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 | <a href="https://academy.hubspot.com/courses/hubspot-service-software" target="_blank" rel="noopener noreferrer">Service Hub Software Certification </a>| HubSpot | Beginner | 2.1 | 🏆 |
 | <a href="https://skillsbuild.org/adult-learners/explore-learning/customer-service-representative" target="_blank" rel="noopener noreferrer">Customer Engagement Fundamentals</a>| IBM / SkillsBuild | Intermediate | 24 | 🏅 |
 | <a href="https://www.life-global.org/course/35-customer-relationship-management" target="_blank" rel="noopener noreferrer">Customer Relationship Management</a>| HP / Life Global | Beginner | 1 | 🏅 |
-| <a href="https://www.testdome.com/tests/customer-service-test/91" target="_blank" rel="noopener noreferrer">Customer Service Test</a>| Test Dome | Intermediate | 0.15 | 🏆  |
+| <a href="https://www.testdome.com/tests/customer-service-test/91" target="_blank" rel="noopener noreferrer">Customer Service Test</a>| Test Dome | Intermediate | 0.15 | ��  |
 
 
 
