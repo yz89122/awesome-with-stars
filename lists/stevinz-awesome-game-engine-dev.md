@@ -598,7 +598,7 @@ _Language specific game engine development libraries / frameworks / code._
 - C#: Game Framework
     - 🎉 [FNA ![GitHub Repo Stars](https://img.shields.io/github/stars/FNA-XNA/FNA) ![GitHub last commit](https://img.shields.io/github/last-commit/FNA-XNA/FNA)](https://github.com/FNA-XNA/FNA) - Reimplementation of the Microsoft XNA Game Studio 4.0 libraries.
     - 🎉 [Monofoxe ![GitHub Repo Stars](https://img.shields.io/github/stars/Martenfur/Monofoxe) ![GitHub last commit](https://img.shields.io/github/last-commit/Martenfur/Monofoxe)](https://github.com/Martenfur/Monofoxe) - Game engine designed to simplify working with _MonoGame_.
-    - 🎉 [MonoGame ![GitHub Repo Stars](https://img.shields.io/github/stars/MonoGame/MonoGame) ![GitHub last commit](https://img.shields.io/github/last-commit/MonoGame/MonoGame)](https://github.com/MonoGame/MonoGame) ��� - Framework for creating cross-platform games. [[Website](https://www.monogame.net/)]
+    - 🎉 [MonoGame ![GitHub Repo Stars](https://img.shields.io/github/stars/MonoGame/MonoGame) ![GitHub last commit](https://img.shields.io/github/last-commit/MonoGame/MonoGame)](https://github.com/MonoGame/MonoGame) 🔥 - Framework for creating cross-platform games. [[Website](https://www.monogame.net/)]
     - 🎉 [Nez ![GitHub Repo Stars](https://img.shields.io/github/stars/prime31/Nez) ![GitHub last commit](https://img.shields.io/github/last-commit/prime31/Nez)](https://github.com/prime31/Nez) - Feature-rich 2D framework built on _MonoGame_.
     - 🎉 [Protogame ![GitHub Repo Stars](https://img.shields.io/github/stars/RedpointGames/Protogame) ![GitHub last commit](https://img.shields.io/github/last-commit/RedpointGames/Protogame)](https://github.com/RedpointGames/Protogame) - Cross-platform 2D/3D game engine built on _MonoGame_.
 - C#: Geometry
@@ -1015,7 +1015,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Mittsu ![GitHub Repo Stars](https://img.shields.io/github/stars/danini-the-panini/mittsu) ![GitHub last commit](https://img.shields.io/github/last-commit/danini-the-panini/mittsu)](https://github.com/danini-the-panini/mittsu) - 3D graphics library based heavily on _Three.js_.
 - Ruby: Gui
     - 🎉 [Glimmer ![GitHub Repo Stars](https://img.shields.io/github/stars/andyobtiva/glimmer) ![GitHub last commit](https://img.shields.io/github/last-commit/andyobtiva/glimmer)](https://github.com/andyobtiva/glimmer) - Gui library and DSL (domain specific language) framework.
-    - �� [Shoes ![GitHub Repo Stars](https://img.shields.io/github/stars/shoes/shoes4) ![GitHub last commit](https://img.shields.io/github/last-commit/shoes/shoes4)](https://github.com/shoes/shoes4) - Cross-platform gui library. [[Website](http://shoesrb.com/)]
+    - 🎉 [Shoes ![GitHub Repo Stars](https://img.shields.io/github/stars/shoes/shoes4) ![GitHub last commit](https://img.shields.io/github/last-commit/shoes/shoes4)](https://github.com/shoes/shoes4) - Cross-platform gui library. [[Website](http://shoesrb.com/)]
 
 ### Rust
 - 📚 [Awesome Rust ![GitHub Repo Stars](https://img.shields.io/github/stars/rust-unofficial/awesome-rust) ![GitHub last commit](https://img.shields.io/github/last-commit/rust-unofficial/awesome-rust)](https://github.com/rust-unofficial/awesome-rust) - Curated list of Rust code and resources.

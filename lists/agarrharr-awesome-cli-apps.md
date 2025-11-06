@@ -221,6 +221,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [telert ![GitHub Repo Stars](https://img.shields.io/github/stars/navig-me/telert) ![GitHub last commit](https://img.shields.io/github/last-commit/navig-me/telert)](https://github.com/navig-me/telert) - Multi-channel alerts for long-running commands and process/log/uptime monitoring.
 - [logdy ![GitHub Repo Stars](https://img.shields.io/github/stars/logdyhq/logdy-core) ![GitHub last commit](https://img.shields.io/github/last-commit/logdyhq/logdy-core)](https://github.com/logdyhq/logdy-core) - Supercharge terminal logs with web UI.
 - [s5cmd ![GitHub Repo Stars](https://img.shields.io/github/stars/peak/s5cmd) ![GitHub last commit](https://img.shields.io/github/last-commit/peak/s5cmd)](https://github.com/peak/s5cmd) - Blazing fast S3 and local filesystem execution tool.
+- [updo ![GitHub Repo Stars](https://img.shields.io/github/stars/Owloops/updo) ![GitHub last commit](https://img.shields.io/github/last-commit/Owloops/updo)](https://github.com/Owloops/updo) - Website monitoring tool.
 
 ### Docker
 
