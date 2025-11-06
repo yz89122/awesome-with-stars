@@ -10,7 +10,6 @@ A curated list of awesome tools, extensions, and resources for [Gemini CLI ![Git
 
 **👉 See also: [Awesome Gemini CLI Extensions ![GitHub Repo Stars](https://img.shields.io/github/stars/Piebald-AI/awesome-gemini-cli-extensions) ![GitHub last commit](https://img.shields.io/github/last-commit/Piebald-AI/awesome-gemini-cli-extensions)](https://github.com/Piebald-AI/awesome-gemini-cli-extensions)**
 
-
 ## Contents
 
 - [Contents](#contents)
@@ -99,6 +98,11 @@ Services that expose Gemini CLI functionality through standard API protocols.
 **👉 See also: [Awesome Gemini CLI Extensions ![GitHub Repo Stars](https://img.shields.io/github/stars/Piebald-AI/awesome-gemini-cli-extensions) ![GitHub last commit](https://img.shields.io/github/last-commit/Piebald-AI/awesome-gemini-cli-extensions)](https://github.com/Piebald-AI/awesome-gemini-cli-extensions)** \
 Custom commands and extensions that add new capabilities to Gemini CLI.
 
+- [Listen ![GitHub Repo Stars](https://img.shields.io/github/stars/automateyournetwork/GeminiCLI_Listen_Extension) ![GitHub last commit](https://img.shields.io/github/last-commit/automateyournetwork/GeminiCLI_Listen_Extension)](https://github.com/automateyournetwork/GeminiCLI_Listen_Extension) - Run Gemini CLI as a server with /listen commands.
+- [Screenshare ![GitHub Repo Stars](https://img.shields.io/github/stars/automateyournetwork/GeminiCLI_ScreenShare_Extension) ![GitHub last commit](https://img.shields.io/github/last-commit/automateyournetwork/GeminiCLI_ScreenShare_Extension)](https://github.com/automateyournetwork/GeminiCLI_ScreenShare_Extension) - Screen sharing via MCP and custom slash commands.
+- [pyATS ![GitHub Repo Stars](https://img.shields.io/github/stars/automateyournetwork/pyATS_GeminiCLI_Extension) ![GitHub last commit](https://img.shields.io/github/last-commit/automateyournetwork/pyATS_GeminiCLI_Extension)](https://github.com/automateyournetwork/pyATS_GeminiCLI_Extension) - pyATS integration for network testing.
+- [Subnet calculator ![GitHub Repo Stars](https://img.shields.io/github/stars/automateyournetwork/GeminiCLI_SubnetCalculator_Extension) ![GitHub last commit](https://img.shields.io/github/last-commit/automateyournetwork/GeminiCLI_SubnetCalculator_Extension)](https://github.com/automateyournetwork/GeminiCLI_SubnetCalculator_Extension) - An extension for GeminiCLI that performs subnet calculation.
+- [Packet Buddy ![GitHub Repo Stars](https://img.shields.io/github/stars/automateyournetwork/GeminiCLI_Packet_Buddy_Extension) ![GitHub last commit](https://img.shields.io/github/last-commit/automateyournetwork/GeminiCLI_Packet_Buddy_Extension)](https://github.com/automateyournetwork/GeminiCLI_Packet_Buddy_Extension) - A Gemini CLI extension that uses RAG and MCP and Custom Slash Commands to analyze packet captures.
 - [Flutter Gemini CLI extension ![GitHub Repo Stars](https://img.shields.io/github/stars/flutter/gemini-cli-extension) ![GitHub last commit](https://img.shields.io/github/last-commit/flutter/gemini-cli-extension)](https://github.com/flutter/gemini-cli-extension) - Official extension for Gemini CLI that assists with creating and maintaining Flutter code.
 - [gemini-cli-on-vscode ![GitHub Repo Stars](https://img.shields.io/github/stars/d3j/gemini-cli-on-vscode) ![GitHub last commit](https://img.shields.io/github/last-commit/d3j/gemini-cli-on-vscode)](https://github.com/d3j/gemini-cli-on-vscode) - MAGUS Council: World's first? 4-AI consultation system (Gemini+Claude+GPT-5+Qwen) in VS Code - Revolutionary multi-agent development environment
 - [GeminiCLI_Slash_Listen ![GitHub Repo Stars](https://img.shields.io/github/stars/automateyournetwork/GeminiCLI_Slash_Listen) ![GitHub last commit](https://img.shields.io/github/last-commit/automateyournetwork/GeminiCLI_Slash_Listen)](https://github.com/automateyournetwork/GeminiCLI_Slash_Listen) - Innovative `/listen` command enabling remote Gemini CLI access through Slack, perfect for collaborative coding and remote assistance scenarios.
@@ -124,29 +128,24 @@ Model Context Protocol servers that enable Gemini CLI integration with other AI 
 
 Plugins that bring Gemini CLI's AI capabilities directly into the Neovim editor.
 
-- [nvim Gemini Companion ![GitHub Repo Stars](https://img.shields.io/github/stars/gutsavgupta/nvim-gemini-companion) ![GitHub last commit](https://img.shields.io/github/last-commit/gutsavgupta/nvim-gemini-companion)](https://github.com/gutsavgupta/nvim-gemini-companion) - A Neovim plugin to integrate Gemini CLI well (+ Qwen-code now).
+- [nvim Gemini Companion ![GitHub Repo Stars](https://img.shields.io/github/stars/gutsavgupta/nvim-gemini-companion) ![GitHub last commit](https://img.shields.io/github/last-commit/gutsavgupta/nvim-gemini-companion)](https://github.com/gutsavgupta/nvim-gemini-companion) - A Neovim plugin to integrate Gemini CLI well (+ Qwen Code now).
 - [gemini-cli.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/JonRoosevelt/gemini-cli.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/JonRoosevelt/gemini-cli.nvim)](https://github.com/JonRoosevelt/gemini-cli.nvim) - Native Neovim integration bringing Gemini's AI capabilities directly into your editor with keybindings, commands, and buffer manipulation support.
 - [gemini-nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/JunYang-tes/gemini-nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/JunYang-tes/gemini-nvim)](https://github.com/JunYang-tes/gemini-nvim) - Gemini CLI in neovim - An unofficial Neovim plugin for interacting with Google Gemini CLI.
 
-## Development Frameworks & Orchestration
+## Development, Framworks
 
-Frameworks for building complex AI-powered development workflows with Gemini CLI.
+Frameworks for building AI-powered development workflows with Gemini CLI.
 
 - [GACUA ![GitHub Repo Stars](https://img.shields.io/github/stars/openmule/gacua) ![GitHub last commit](https://img.shields.io/github/last-commit/openmule/gacua)](https://github.com/openmule/gacua) - The world's first out-of-the-box computer use agent powered by Gemini CLI @openmule.
 - [gemini-code-flow ![GitHub Repo Stars](https://img.shields.io/github/stars/Theopsguide/gemini-code-flow) ![GitHub last commit](https://img.shields.io/github/last-commit/Theopsguide/gemini-code-flow)](https://github.com/Theopsguide/gemini-code-flow) - Enterprise-grade orchestration framework that coordinates multiple Gemini CLI instances for complex development tasks, based on battle-tested Claude Code Flow patterns.
 - [gemini-cli-commands-demo ![GitHub Repo Stars](https://img.shields.io/github/stars/pauldatta/gemini-cli-commands-demo) ![GitHub last commit](https://img.shields.io/github/last-commit/pauldatta/gemini-cli-commands-demo)](https://github.com/pauldatta/gemini-cli-commands-demo) - A proof-of-concept demonstrating a sub-agent orchestration system built within the Gemini CLI.
 
-## Documentation & Learning Resources
+## Documentation & Examples
 
-Educational materials and documentation to help you master Gemini CLI.
+Educational materials and documentation to try out Gemini CLI if you're new.
 
 - [gemini-cli-extension ![GitHub Repo Stars](https://img.shields.io/github/stars/philschmid/gemini-cli-extension) ![GitHub last commit](https://img.shields.io/github/last-commit/philschmid/gemini-cli-extension)](https://github.com/philschmid/gemini-cli-extension) - Essential collection of extensions and commands that enhance Gemini CLI with additional capabilities and workflow improvements.
 - [gemini-docs-ext ![GitHub Repo Stars](https://img.shields.io/github/stars/markmcd/gemini-docs-ext) ![GitHub last commit](https://img.shields.io/github/last-commit/markmcd/gemini-docs-ext)](https://github.com/markmcd/gemini-docs-ext) - Gemini CLI extension that adds Gemini API docs and MCP.
-
-## Demo Collections & Examples
-
-Sample projects and demonstrations showcasing Gemini CLI capabilities.
-
 - [gemini-cli-media-generation ![GitHub Repo Stars](https://img.shields.io/github/stars/vladkol/gemini-cli-media-generation) ![GitHub last commit](https://img.shields.io/github/last-commit/vladkol/gemini-cli-media-generation)](https://github.com/vladkol/gemini-cli-media-generation) - An example of using Gemini CLI with MCP Servers for Genmedia and Gemini 2.5 Flash Image model (Nano-banana)
 - [gemini-cli-demos ![GitHub Repo Stars](https://img.shields.io/github/stars/palladius/gemini-cli-demos) ![GitHub last commit](https://img.shields.io/github/last-commit/palladius/gemini-cli-demos)](https://github.com/palladius/gemini-cli-demos) - Ready-to-run demonstration scenarios showcasing Gemini CLI's capabilities, perfect for learning, presenting, or evaluating the tool.
 - [cli-demo-cookbook ![GitHub Repo Stars](https://img.shields.io/github/stars/ptone/cli-demo-cookbook) ![GitHub last commit](https://img.shields.io/github/last-commit/ptone/cli-demo-cookbook)](https://github.com/ptone/cli-demo-cookbook) - Collection of demo scenario and casts for Gemini CLI.
