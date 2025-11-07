@@ -1,10 +1,10 @@
 # Awesome Hackathon
 
-A curated open list of platforms and tools that can help you to **organize and run** tolerant and productive hackathons. 
+A curated open list of platforms and tools that can help you to **organize and run** tolerant and productive hackathons.
 
 > This list tries to cover what is ⚡️awesome⚡️ about [hackathons](https://en.wikipedia.org/wiki/Hackathon), hackdays and hacknights, and the community of organizers who run them! See also 🕶️[awesome-hackathons ![GitHub Repo Stars](https://img.shields.io/github/stars/mbiesiad/awesome-hackathons) ![GitHub last commit](https://img.shields.io/github/last-commit/mbiesiad/awesome-hackathons)](https://github.com/mbiesiad/awesome-hackathons), 🕶️[awesome-hackathon-projects ![GitHub Repo Stars](https://img.shields.io/github/stars/Olanetsoft/awesome-hackathon-projects) ![GitHub last commit](https://img.shields.io/github/last-commit/Olanetsoft/awesome-hackathon-projects)](https://github.com/Olanetsoft/awesome-hackathon-projects) and 🕶️[awesome-hackathon-starters ![GitHub Repo Stars](https://img.shields.io/github/stars/geekcamp-ph/awesome-hackathon-starters) ![GitHub last commit](https://img.shields.io/github/last-commit/geekcamp-ph/awesome-hackathon-starters)](https://github.com/geekcamp-ph/awesome-hackathon-starters/issues/12). Are you interested in the _science_ of hackathons? Join our new 📚 [Zotero library](https://www.zotero.org/groups/5538025/awesome_hackathons).
 
-To help improve this list, please check out the [Contributing](#Contributing) section.
+To help improve this list, please check out the [Contributing](#contributing) section.
 
 ## Contents [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
@@ -18,26 +18,19 @@ By _awesome 🕶️ hackathon platforms_, we mean web or mobile applications tha
 
 ### Open Source 🌳
 
-> These can be run with a cloud provider or self-hosted, to take full control of the data. Being open source efforts, they typically embrace open standards. Several are developed by non-profits and volunteer communities. 
+> These can be run with a cloud provider or self-hosted, to take full control of the data. Being open source efforts, they typically embrace open standards. Several are developed by non-profits and volunteer communities.
 
-- [ApplicantAtlas ![GitHub Repo Stars](https://img.shields.io/github/stars/ApplicantAtlas/ApplicantAtlas) ![GitHub last commit](https://img.shields.io/github/last-commit/ApplicantAtlas/ApplicantAtlas)](https://github.com/ApplicantAtlas/ApplicantAtlas) - Made for managing applicants, RSVPs and other communications.
 - [Civic Tech Exchange ![GitHub Repo Stars](https://img.shields.io/github/stars/DemocracyLab/CivicTechExchange) ![GitHub last commit](https://img.shields.io/github/last-commit/DemocracyLab/CivicTechExchange)](https://github.com/DemocracyLab/CivicTechExchange) - Online platform for Democracy Lab projects.
 - [DeltaHacks Portal ![GitHub Repo Stars](https://img.shields.io/github/stars/deltahacks/portal) ![GitHub last commit](https://img.shields.io/github/last-commit/deltahacks/portal)](https://github.com/deltahacks/portal) - The attendee & admin portal for DeltaHacks 10, the hackathon for change.
 - [Dribdat ![GitHub Repo Stars](https://img.shields.io/github/stars/dribdat/dribdat) ![GitHub last commit](https://img.shields.io/github/last-commit/dribdat/dribdat)](https://github.com/dribdat/dribdat) - **Hackathons for impact, based on open data and web standards.** `python` `js`
-- [Hack the Back ![GitHub Repo Stars](https://img.shields.io/github/stars/hackthevalley/hack-the-back) ![GitHub last commit](https://img.shields.io/github/last-commit/hackthevalley/hack-the-back)](https://github.com/hackthevalley/hack-the-back) - An elegant backend, with ready-made GraphQL and REST endpoints. 
-- [HackAssistant ![GitHub Repo Stars](https://img.shields.io/github/stars/HackAssistant/hackassistant) ![GitHub last commit](https://img.shields.io/github/last-commit/HackAssistant/hackassistant)](https://github.com/HackAssistant/hackassistant) - Hackathon registration server.
-- [Hackatuning ![GitHub Repo Stars](https://img.shields.io/github/stars/leognmotta/hackatuning) ![GitHub last commit](https://img.shields.io/github/last-commit/leognmotta/hackatuning)](https://github.com/leognmotta/hackatuning) - Early stage hackathon management platform. `js`
-- [HackathonManager ![GitHub Repo Stars](https://img.shields.io/github/stars/codeRIT/hackathon-manager) ![GitHub last commit](https://img.shields.io/github/last-commit/codeRIT/hackathon-manager)](https://github.com/codeRIT/hackathon-manager) - Hackathon registration & logistics, compatible with MyMLH.
+- [Hack the Back ![GitHub Repo Stars](https://img.shields.io/github/stars/hackthevalley/hack-the-back) ![GitHub last commit](https://img.shields.io/github/last-commit/hackthevalley/hack-the-back)](https://github.com/hackthevalley/hack-the-back) - An elegant backend, with ready-made GraphQL and REST endpoints.
 - [Hackathon Management System ![GitHub Repo Stars](https://img.shields.io/github/stars/Teplitsa/hackathon) ![GitHub last commit](https://img.shields.io/github/last-commit/Teplitsa/hackathon)](https://github.com/Teplitsa/hackathon) - A comprehensive WordPress plugin by [Teplitsa](https://hms.te-st.org/). `php`
-- [HackDash ![GitHub Repo Stars](https://img.shields.io/github/stars/impronunciable/hackdash) ![GitHub last commit](https://img.shields.io/github/last-commit/impronunciable/hackdash)](https://github.com/impronunciable/hackdash) - Organize hackaton ideas into a dashboard.
 - [Hackerspace3 ![GitHub Repo Stars](https://img.shields.io/github/stars/govhackaustralia/hackerspace3) ![GitHub last commit](https://img.shields.io/github/last-commit/govhackaustralia/hackerspace3)](https://github.com/govhackaustralia/hackerspace3) - Competition Management System for the GovHack Hackathon. `ruby`
-- [HackPortal ![GitHub Repo Stars](https://img.shields.io/github/stars/acmutd/hackportal) ![GitHub last commit](https://img.shields.io/github/last-commit/acmutd/hackportal)](https://github.com/acmutd/hackportal) - A platform from HackUTD for user-friendly event management.
 - [Halo ![GitHub Repo Stars](https://img.shields.io/github/stars/tcnj-acm/halo) ![GitHub last commit](https://img.shields.io/github/last-commit/tcnj-acm/halo)](https://github.com/tcnj-acm/halo) - Hackathon Management System built on Django.
 - [Hibiscus ![GitHub Repo Stars](https://img.shields.io/github/stars/HackSC/hibiscus) ![GitHub last commit](https://img.shields.io/github/last-commit/HackSC/hibiscus)](https://github.com/HackSC/hibiscus) - An all-in-one, plug-and-play hackathon platform, created for HackSC.
 - [JunctionApp ![GitHub Repo Stars](https://img.shields.io/github/stars/hackjunction/JunctionApp) ![GitHub last commit](https://img.shields.io/github/last-commit/hackjunction/JunctionApp)](https://github.com/hackjunction/JunctionApp) -  All-in-one hackathon platform for organisers, maintained by Junction.
 - [OpenHackathon ![GitHub Repo Stars](https://img.shields.io/github/stars/kaiyuanshe/OpenHackathon-Web) ![GitHub last commit](https://img.shields.io/github/last-commit/kaiyuanshe/OpenHackathon-Web)](https://github.com/kaiyuanshe/OpenHackathon-Web) - Platform with Git-based Cloud Development Environment based on Next.js.
 - [Opportunity Hack](https://github.com/opportunity-hack) - Skills-Based Volunteering for Social Good, matching people to projects.
-- [project-hackathon ![GitHub Repo Stars](https://img.shields.io/github/stars/pheralb/project-hackathon) ![GitHub last commit](https://img.shields.io/github/last-commit/pheralb/project-hackathon)](https://github.com/pheralb/project-hackathon) - Hackathon management tool created at Hackafor. `typescript`
 
 ### Closed Source 🔒
 
@@ -48,24 +41,33 @@ By _awesome 🕶️ hackathon platforms_, we mean web or mobile applications tha
 - [Devpost](https://github.com/challengepost) ([www](https://devpost.com)) - Recognizable U.S. company, whose customers market developer tools and jobs to the community.
 - [HackHQ](https://hackhq.io/) - All-in-one hackathon management platform for internal corporate hackathons with registration, submissions, judging, voting, and live results in 30 minutes.
 - [HackHub](https://github.com/hackhub-team) ([www](https://www.hackhub.com/event), [docs](https://help.hackhub.com/)) - Canadian company with a featureful event and talent scouting app.
-- [Hackworks](https://github.com/hackworks) ([docs](https://help.hackworks.com/knowledge)) - Open innovation challenge platform from experienced event organizers in Canada. 
+- [Hackworks](https://github.com/hackworks) ([docs](https://help.hackworks.com/knowledge)) - Open innovation challenge platform from experienced event organizers in Canada.
 - [Nosu](https://www.nosu.io/) (formerly Sprint.dev) - AI tools to manage hackathons, aiming to upend tech recruiting by quantifying hackathon performance.
 - [Stackref](https://github.com/StackRef) ([docs](https://docs.stackref.com/)) - Internal hackathon and ideation, with cloud provisioning and judging features.
 - [TAIKAI](https://github.com/taikai) ([www](https://taikai.network/)) - Connects creators and companies, using hackathons, bounties and hiring challenges.
 
-### Unmaintained 🧊
+### Inactive 🧊
 
-> These projects, while open source, are no longer showing signs of active development. Please contact us if you think otherwise! They might need your help, or have valuable content that could be reused.
+> These projects, while open source, are not showing signs of active maintenance (a release in the past year). Please contact us if you think otherwise! They might need your help, or have valuable content that could be reused.
 
+- [ApplicantAtlas ![GitHub Repo Stars](https://img.shields.io/github/stars/ApplicantAtlas/ApplicantAtlas) ![GitHub last commit](https://img.shields.io/github/last-commit/ApplicantAtlas/ApplicantAtlas)](https://github.com/ApplicantAtlas/ApplicantAtlas) - Made for managing applicants, RSVPs and other communications.
 - [chronicel ![GitHub Repo Stars](https://img.shields.io/github/stars/kbohinski/chronicel) ![GitHub last commit](https://img.shields.io/github/last-commit/kbohinski/chronicel)](https://github.com/kbohinski/chronicel) - A minimal registration system for a smaller, more personal hackathon.
 - [Find Hackathon](https://github.com/Find-Hackathon) - A Cross-Platform Mobile Application for finding Hackathons.
+- [HackAssistant ![GitHub Repo Stars](https://img.shields.io/github/stars/HackAssistant/hackassistant) ![GitHub last commit](https://img.shields.io/github/last-commit/HackAssistant/hackassistant)](https://github.com/HackAssistant/hackassistant) - Hackathon registration server.
+- [HackathonManager ![GitHub Repo Stars](https://img.shields.io/github/stars/codeRIT/hackathon-manager) ![GitHub last commit](https://img.shields.io/github/last-commit/codeRIT/hackathon-manager)](https://github.com/codeRIT/hackathon-manager) - Hackathon registration & logistics, compatible with MyMLH.
+- [Hackatuning ![GitHub Repo Stars](https://img.shields.io/github/stars/leognmotta/hackatuning) ![GitHub last commit](https://img.shields.io/github/last-commit/leognmotta/hackatuning)](https://github.com/leognmotta/hackatuning) - Early stage hackathon management platform. `js`
+- [HackDash ![GitHub Repo Stars](https://img.shields.io/github/stars/impronunciable/hackdash) ![GitHub last commit](https://img.shields.io/github/last-commit/impronunciable/hackdash)](https://github.com/impronunciable/hackdash) - Organize hackaton ideas into a dashboard.
 - [Hackfoldr ![GitHub Repo Stars](https://img.shields.io/github/stars/hackfoldr/hackfoldr) ![GitHub last commit](https://img.shields.io/github/last-commit/hackfoldr/hackfoldr)](https://github.com/hackfoldr/hackfoldr) - Organize gdoc and hackpad documents for hackathons.
+- [HackPortal ![GitHub Repo Stars](https://img.shields.io/github/stars/acmutd/hackportal) ![GitHub last commit](https://img.shields.io/github/last-commit/acmutd/hackportal)](https://github.com/acmutd/hackportal) - A platform from HackUTD for user-friendly event management.
 - [Hacksuite ![GitHub Repo Stars](https://img.shields.io/github/stars/DevtranetHQ/Hacksuite) ![GitHub last commit](https://img.shields.io/github/last-commit/DevtranetHQ/Hacksuite)](https://github.com/DevtranetHQ/Hacksuite) - A fullstack suite of apps from [Devtranet](https://devtranet.tech/) for hosting virtual hackathons.
+- [hms ![GitHub Repo Stars](https://img.shields.io/github/stars/knoffhoff/hms) ![GitHub last commit](https://img.shields.io/github/last-commit/knoffhoff/hms)](https://github.com/knoffhoff/hms) - Hackathon Management System for Azure by knoffhoff.
 - [Kent Hack Enough ![GitHub Repo Stars](https://img.shields.io/github/stars/hacksu/kenthackenough) ![GitHub last commit](https://img.shields.io/github/last-commit/hacksu/kenthackenough)](https://github.com/hacksu/kenthackenough) - Legacy registration and staff management API for HackSU events.
 - [LaraHack ![GitHub Repo Stars](https://img.shields.io/github/stars/ScientificClubofESI/LaraHack) ![GitHub last commit](https://img.shields.io/github/last-commit/ScientificClubofESI/LaraHack)](https://github.com/ScientificClubofESI/LaraHack) - Administration system designed for hackathons and similar competitions.
 - [Ninjathon ![GitHub Repo Stars](https://img.shields.io/github/stars/shilomagen/hackathon-matching-platform) ![GitHub last commit](https://img.shields.io/github/last-commit/shilomagen/hackathon-matching-platform)](https://github.com/shilomagen/hackathon-matching-platform) - Hackathon managing platform.
 - [Nucleus ![GitHub Repo Stars](https://img.shields.io/github/stars/hacktx/nucleus) ![GitHub last commit](https://img.shields.io/github/last-commit/hacktx/nucleus)](https://github.com/hacktx/nucleus) - Hackathon application system that integrates with MyMLH, Slack and more from HackTX.
+- [Odyssey ![GitHub Repo Stars](https://img.shields.io/github/stars/HackSC/odyssey) ![GitHub last commit](https://img.shields.io/github/last-commit/HackSC/odyssey)](https://github.com/HackSC/odyssey) - A hackathon management platform, built by HackSC.
 - [Pepper ![GitHub Repo Stars](https://img.shields.io/github/stars/rohitdatta/pepper) ![GitHub last commit](https://img.shields.io/github/last-commit/rohitdatta/pepper)](https://github.com/rohitdatta/pepper) - Designed to work with MyMLH for sign in.
+- [project-hackathon ![GitHub Repo Stars](https://img.shields.io/github/stars/pheralb/project-hackathon) ![GitHub last commit](https://img.shields.io/github/last-commit/pheralb/project-hackathon)](https://github.com/pheralb/project-hackathon) - Hackathon management tool created at Hackafor. `typescript`
 - [Quill ![GitHub Repo Stars](https://img.shields.io/github/stars/techx/quill) ![GitHub last commit](https://img.shields.io/github/last-commit/techx/quill)](https://github.com/techx/quill) - A registration system designed especially for large hackathons, maintained by HackMIT.
 - [React Hackathon Board ![GitHub Repo Stars](https://img.shields.io/github/stars/hirako2000/react-hackathon-board) ![GitHub last commit](https://img.shields.io/github/last-commit/hirako2000/react-hackathon-board)](https://github.com/hirako2000/react-hackathon-board) - Web application to manage Hackathon events.
 - [Scout24 ![GitHub Repo Stars](https://img.shields.io/github/stars/Scout24/hackathon-management-system) ![GitHub last commit](https://img.shields.io/github/last-commit/Scout24/hackathon-management-system)](https://github.com/Scout24/hackathon-management-system) - Hackathon management system from a company.
@@ -103,7 +105,7 @@ By _awesome 🕶️ hackathon platforms_, we mean web or mobile applications tha
 ### Promoting
 
 - [Hackathon Sponsorship ![GitHub Repo Stars](https://img.shields.io/github/stars/Neuro-Hack/sponsorship) ![GitHub last commit](https://img.shields.io/github/last-commit/Neuro-Hack/sponsorship)](https://github.com/Neuro-Hack/sponsorship#readme) 🕶️  A crowdsourced 'Awesome List' of companies to contact.
-- [Hackalist ![GitHub Repo Stars](https://img.shields.io/github/stars/Hackalist/Hackalist.github.io) ![GitHub last commit](https://img.shields.io/github/last-commit/Hackalist/Hackalist.github.io)](https://github.com/Hackalist/Hackalist.github.io#readme) - A list of upcoming hackathons from around the world. 
+- [Hackalist ![GitHub Repo Stars](https://img.shields.io/github/stars/Hackalist/Hackalist.github.io) ![GitHub last commit](https://img.shields.io/github/last-commit/Hackalist/Hackalist.github.io)](https://github.com/Hackalist/Hackalist.github.io#readme) - A list of upcoming hackathons from around the world.
 - [Hack Club ![GitHub Repo Stars](https://img.shields.io/github/stars/hackclub/hackathons) ![GitHub last commit](https://img.shields.io/github/last-commit/hackclub/hackathons)](https://github.com/hackclub/hackathons#readme) - A curated list of hackathons organized for high schoolers.
 - [Scrapbook ![GitHub Repo Stars](https://img.shields.io/github/stars/hackclub/scrapbook) ![GitHub last commit](https://img.shields.io/github/last-commit/hackclub/scrapbook)](https://github.com/hackclub/scrapbook) by HackClub - A daily streak system & portfolio for your projects.
 - [Open Source Events ![GitHub Repo Stars](https://img.shields.io/github/stars/Catalyst-IN/OpenSourceEvents-Frontend) ![GitHub last commit](https://img.shields.io/github/last-commit/Catalyst-IN/OpenSourceEvents-Frontend)](https://github.com/Catalyst-IN/OpenSourceEvents-Frontend) - This website contains a monthly calendar of events and hackathons (project is archived as of Feb 5, 2024).
@@ -151,7 +153,7 @@ By _awesome 🕶️ hackathon platforms_, we mean web or mobile applications tha
 - [Hackathon.guide ![GitHub Repo Stars](https://img.shields.io/github/stars/JoshData/hackathon.guide) ![GitHub last commit](https://img.shields.io/github/last-commit/JoshData/hackathon.guide)](https://github.com/JoshData/hackathon.guide) - A step-by-step guide by seasoned organizer Joshua Tauberer.
 - [Hackday Manifesto ![GitHub Repo Stars](https://img.shields.io/github/stars/hackdaymanifesto/site) ![GitHub last commit](https://img.shields.io/github/last-commit/hackdaymanifesto/site)](https://github.com/hackdaymanifesto/site) - How to make your event a success, and avoid common pitfalls.
 - [Hack4TheFuture Guidebook](https://hack4thefuture.eu/Guidebook_Hack4theFuture_02.pdf) - from an EU project, a book on running international events.
-- [hack.athon.uk](https://hack.athon.uk/) - A wiki for helping hackers get into hackathons and organise them! 
+- [hack.athon.uk](https://hack.athon.uk/) - A wiki for helping hackers get into hackathons and organise them!
 - [Hack Tools](https://hack-tools.github.io/) - Theodoros Ploumis has great advice for attendees, evaluators and organizers.
 - [Handbuch Jugend-Hackathons](https://handbuch.jugendhackt.de/) - (In German) An in-depth guide to organizing youth events.
 - [LauzHack How-To](https://hackorgx.dribdat.cc/project/31) - Guides for the student organizers of flagship and mini-sized hackathons in Lausanne.
