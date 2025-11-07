@@ -235,7 +235,7 @@ If you would like to be guided through how to contribute to a repository on GitH
 
 ## MLOps
 
-- [SuperDuperDB ![GitHub Repo Stars](https://img.shields.io/github/stars/SuperDuperDB/superduperdb) ![GitHub last commit](https://img.shields.io/github/last-commit/SuperDuperDB/superduperdb)](https://github.com/SuperDuperDB/superduperdb) _(label: good first issue)_ <br> 🔮SuperDuperDB: Bring AI to your favourite database! Integrate, train and manage any AI models and APIs directly with your database and your data
+- [SuperDuperDB ![GitHub Repo Stars](https://img.shields.io/github/stars/SuperDuperDB/superduperdb) ![GitHub last commit](https://img.shields.io/github/last-commit/SuperDuperDB/superduperdb)](https://github.com/SuperDuperDB/superduperdb) _(label: good first issue)_ <br> ��SuperDuperDB: Bring AI to your favourite database! Integrate, train and manage any AI models and APIs directly with your database and your data
 
 ## Perl
 
@@ -311,7 +311,6 @@ If you would like to be guided through how to contribute to a repository on GitH
 ## Ruby
 
 - [Avo Admin for Ruby on Rails ![GitHub Repo Stars](https://img.shields.io/github/stars/avo-hq/avo) ![GitHub last commit](https://img.shields.io/github/last-commit/avo-hq/avo)](https://github.com/avo-hq/avo) _(label: Good first issue)_ <br> Build business apps 10x faster using Ruby on Rails.
-- [bolt ![GitHub Repo Stars](https://img.shields.io/github/stars/puppetlabs/bolt) ![GitHub last commit](https://img.shields.io/github/last-commit/puppetlabs/bolt)](https://github.com/puppetlabs/bolt) _(label: Beginner-Friendly)_ <br> Bolt is a Ruby command-line tool for executing commands, scripts, and tasks on remote systems using SSH and WinRM.
 - [chatwoot ![GitHub Repo Stars](https://img.shields.io/github/stars/chatwoot/chatwoot) ![GitHub last commit](https://img.shields.io/github/last-commit/chatwoot/chatwoot)](https://github.com/chatwoot/chatwoot) _(label: good first issue)_ <br> Opensource customer support platform which can be an alternative to Intercom, Zendesk, Drift, Crisp etc.
 - [chef ![GitHub Repo Stars](https://img.shields.io/github/stars/chef/chef) ![GitHub last commit](https://img.shields.io/github/last-commit/chef/chef)](https://github.com/chef/chef) _(label: Type:-Jump-In)_ <br> A systems integration framework, built to bring the benefits of configuration management to your entire infrastructure
 - [Hanami ![GitHub Repo Stars](https://img.shields.io/github/stars/hanami/hanami) ![GitHub last commit](https://img.shields.io/github/last-commit/hanami/hanami)](https://github.com/hanami/hanami) _(label: easy)_ <br> A modern framework for Ruby.
