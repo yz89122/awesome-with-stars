@@ -1064,6 +1064,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 - [doctorfree/cheatsheet.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/doctorfree/cheatsheet.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/doctorfree/cheatsheet.nvim)](https://github.com/doctorfree/cheatsheet.nvim) - Searchable cheatsheet.
 - [gaborvecsei/cryptoprice.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/gaborvecsei/cryptoprice.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/gaborvecsei/cryptoprice.nvim)](https://github.com/gaborvecsei/cryptoprice.nvim) - Check the price of the defined cryptocurrencies.
 - [nxhung2304/lastplace.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/nxhung2304/lastplace.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/nxhung2304/lastplace.nvim)](https://github.com/nxhung2304/lastplace.nvim) - Intelligently restore your cursor position when reopening files.
+- [wsdjeg/mru.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/wsdjeg/mru.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/wsdjeg/mru.nvim)](https://github.com/wsdjeg/mru.nvim) - Manage and display your Most Recently Used (MRU) files.
 
 ### CSV Files
 
@@ -1134,6 +1135,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 ## Debugging
 
 - [mfussenegger/nvim-dap ![GitHub Repo Stars](https://img.shields.io/github/stars/mfussenegger/nvim-dap) ![GitHub last commit](https://img.shields.io/github/last-commit/mfussenegger/nvim-dap)](https://github.com/mfussenegger/nvim-dap) - Debug Adapter Protocol client implementation.
+- [sakhnik/nvim-gdb ![GitHub Repo Stars](https://img.shields.io/github/stars/sakhnik/nvim-gdb) ![GitHub last commit](https://img.shields.io/github/last-commit/sakhnik/nvim-gdb)](https://github.com/sakhnik/nvim-gdb) - Thin wrapper for GDB, LLDB, PDB/PDB++ and BashDB.
 - [rcarriga/nvim-dap-ui ![GitHub Repo Stars](https://img.shields.io/github/stars/rcarriga/nvim-dap-ui) ![GitHub last commit](https://img.shields.io/github/last-commit/rcarriga/nvim-dap-ui)](https://github.com/rcarriga/nvim-dap-ui) - A UI for nvim-dap.
 - [pocco81/dap-buddy.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/pocco81/dap-buddy.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/pocco81/dap-buddy.nvim)](https://github.com/pocco81/dap-buddy.nvim) - Manage several debuggers for nvim-dap.
 - [Weissle/persistent-breakpoints.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/Weissle/persistent-breakpoints.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/Weissle/persistent-breakpoints.nvim)](https://github.com/Weissle/persistent-breakpoints.nvim) - Persistent breakpoints for nvim-dap.
@@ -1375,7 +1377,6 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 ### Tree-sitter Based
 
 - [mfussenegger/nvim-treehopper ![GitHub Repo Stars](https://img.shields.io/github/stars/mfussenegger/nvim-treehopper) ![GitHub last commit](https://img.shields.io/github/last-commit/mfussenegger/nvim-treehopper)](https://github.com/mfussenegger/nvim-treehopper) - Region selection with hints on the AST nodes of a document powered by Tree-sitter.
-- [ziontee113/syntax-tree-surfer ![GitHub Repo Stars](https://img.shields.io/github/stars/ziontee113/syntax-tree-surfer) ![GitHub last commit](https://img.shields.io/github/last-commit/ziontee113/syntax-tree-surfer)](https://github.com/ziontee113/syntax-tree-surfer) - Navigate and swap Tree-sitter's AST Nodes. Step into, step out, step over, step back.
 - [drybalka/tree-climber.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/drybalka/tree-climber.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/drybalka/tree-climber.nvim)](https://github.com/drybalka/tree-climber.nvim) - Easy navigation around the Tree-sitter's tree that works in multi-language files and in normal mode.
 - [atusy/treemonkey.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/atusy/treemonkey.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/atusy/treemonkey.nvim)](https://github.com/atusy/treemonkey.nvim) - Region selection with Tree-sitter nodes.
 - [kiyoon/treesitter-indent-object.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/kiyoon/treesitter-indent-object.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/kiyoon/treesitter-indent-object.nvim)](https://github.com/kiyoon/treesitter-indent-object.nvim) - Context-aware indent textobject powered by Tree-sitter.
