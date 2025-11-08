@@ -290,6 +290,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [Buku ![GitHub Repo Stars](https://img.shields.io/github/stars/jarun/Buku) ![GitHub last commit](https://img.shields.io/github/last-commit/jarun/Buku)](https://github.com/jarun/Buku) - Browser-independent bookmark manager.
 - [fjira ![GitHub Repo Stars](https://img.shields.io/github/stars/mk-5/fjira) ![GitHub last commit](https://img.shields.io/github/last-commit/mk-5/fjira)](https://github.com/mk-5/fjira) - Fuzzy finder and TUI application for Jira.
 - [OverTime ![GitHub Repo Stars](https://img.shields.io/github/stars/diit/overtime-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/diit/overtime-cli)](https://github.com/diit/overtime-cli) - Time-overlap tables for remote teams.
+- [CookCLI ![GitHub Repo Stars](https://img.shields.io/github/stars/cooklang/CookCLI) ![GitHub last commit](https://img.shields.io/github/last-commit/cooklang/CookCLI)](https://github.com/cooklang/CookCLI) - Full-featured recipe manager.
 
 ### Time Tracking
 
