@@ -278,7 +278,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [huggingface.co](https://huggingface.co) - Build, train, and deploy NLP models for Pytorch, TensorFlow, and JAX. Free up to 30k input characters/mo.
   * [Hybiscus](https://hybiscus.dev/) - Build pdf reports using a simple declarative API. The 14-day free tier includes 50 single-page reports with the ability to customize color palettes and fonts.
   * [Invantive Cloud](https://cloud.invantive.com/) — Access over 70 (cloud)platforms such as Exact Online, Twinfield, ActiveCampaign or Visma using Invantive SQL or OData4 (typically Power BI or Power Query). Includes data replication and exchange. Free plan for developers and implementation consultants. Free for specific platforms with limitations in data volumes.
-  * [ipaddress.sh](https://ipaddress.sh) �� Simple service to get a public IP address in different [formats](https://about.ipaddress.sh/).
+  * [ipaddress.sh](https://ipaddress.sh) — Simple service to get a public IP address in different [formats](https://about.ipaddress.sh/).
   * [ip-api](https://ip-api.com) — IP Geolocation API, Free for non-commercial use, no API key required, limited to 45 req/minute from the same IP address for the free plan.
   * [ipbase.com](https://ipbase.com) - IP Geolocation API - Forever free plan that spans 150 monthly requests.
   * [IP Geolocation](https://ipgeolocation.io/) — IP Geolocation API - Forever free plan for developers with a 1,000 requests per day limit.
