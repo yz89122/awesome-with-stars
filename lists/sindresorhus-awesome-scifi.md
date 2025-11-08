@@ -414,7 +414,7 @@ A fairly well-wrapped first book in a trilogy, that has some very imaginative an
 <details>
   <summary>Description</summary>
 
-  > In the first novel of C. S. Lewis’s classic science fiction trilogy, Dr. Ransom, a Cambridge academic, is abducted and taken on a spaceship to the red planet of Malacandra, which he knows as Mars. His captors are plotting to plunder the planet’s treasures and plan to offer Ransom as a sacrifice to the creatures who live there. Ransom discovers he has come from the “silent planet���–Earth–whose tragic story is known throughout the universe…
+  > In the first novel of C. S. Lewis’s classic science fiction trilogy, Dr. Ransom, a Cambridge academic, is abducted and taken on a spaceship to the red planet of Malacandra, which he knows as Mars. His captors are plotting to plunder the planet’s treasures and plan to offer Ransom as a sacrifice to the creatures who live there. Ransom discovers he has come from the “silent planet”–Earth–whose tragic story is known throughout the universe…
 </details>
 
 ##### [Perelandra](https://www.goodreads.com/book/show/100924.Perelandra) (1944) _by [C. S. Lewis](https://en.wikipedia.org/wiki/C._S._Lewis)_ [4.0]
@@ -974,7 +974,7 @@ Idea-driven scifi about a tech-savvy movement of "walkaways", disenchanted peopl
 
   > In a world of non-work, ruined by human-created climate change and pollution, and where people are under surveillance and ruled over by a mega-rich elite, Hubert, Etc, his friend Seth, and Natalie, decide that they have nothing to lose by turning their backs and walking away from the everyday world or "default reality".
   >
-  > With the advent of 3D printing – and especially the ability to use these to fabricate even better fabricators – and with machines that can search for and reprocess waste or discarded materials, they no longer have need of Default for the basic essentials of life, such as food, clothing and shelter.
+  > With the advent of 3D printing – and especially the ability to use these to fabricate even better fabricators ��� and with machines that can search for and reprocess waste or discarded materials, they no longer have need of Default for the basic essentials of life, such as food, clothing and shelter.
   >
   > As more and more people choose to "walkaway", the ruling elite do not take these social changes sitting down. They use the military, police and mercenaries to attack and disrupt the walkaways' new settlements.
   >
