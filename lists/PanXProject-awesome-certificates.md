@@ -310,7 +310,7 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 | Course Name | Course Provider | Level | Hour(s) | Reward |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
 | <a href="https://cognitiveclass.ai/learn/containers-k8s-and-istio-on-ibm-cloud" target="_blank" rel="noopener noreferrer">Containers, K8s and Istio on IBM cloud</a> | IBM / Cognitive Class |Beginner|9 | <a href="https://www.youracclaim.com/org/ibm/badge/containers-k8s-and-istio-on-ibm-cloud" target="_blank" rel="noopener noreferrer">🏅</a>|
-| <a href="https://cognitiveclass.ai/courses/docker-essentials" target="_blank" rel="noopener noreferrer">Docker Essentials</a> | IBM / Cognitive Class |Beginner|4 | <a href="https://www.youracclaim.com/org/ibm/badge/docker-essentials-a-developer-introduction" target="_blank" rel="noopener noreferrer">🏅</a>|
+| <a href="https://cognitiveclass.ai/courses/docker-essentials" target="_blank" rel="noopener noreferrer">Docker Essentials</a> | IBM / Cognitive Class |Beginner|4 | <a href="https://www.youracclaim.com/org/ibm/badge/docker-essentials-a-developer-introduction" target="_blank" rel="noopener noreferrer">���</a>|
 | <a href="https://cognitiveclass.ai/courses/kubernetes-course" target="_blank" rel="noopener noreferrer">Introduction to Containers, Kubernetes, and OpenShift</a> | IBM / Cognitive Class |Beginner|3 | <a href="https://www.youracclaim.com/org/ibm/badge/containers-kubernetes-essentials" target="_blank" rel="noopener noreferrer">🏅</a>|
 | <a href="https://cloud.layer5.io/academy/certifications/c5ada327-8a58-4c8a-b9fa-51b95696488c/certified-meshery-contributor" target="_blank" rel="noopener noreferrer">Certified Meshery Contributor</a> | Meshery |Beginner|2.5 | <a href="https://www.cncf.io/blog/2025/10/27/announcing-the-certified-meshery-contributor-cmc/" target="_blank" rel="noopener noreferrer">🏅</a>|
 
@@ -414,7 +414,7 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 | <a href="https://www.pmi.org/kickoff" target="_blank" rel="noopener noreferrer">KICKOFF</a><!-- markdown-link-check-disable-line --> | Project Management Institute | Beginner | 0.75 | 🏅 |
 | <a href="https://www.msicertified.com/project-management/project-management-essentials-certified/" target="_blank" rel="noopener noreferrer">Project Management Essentials</a> | Management and Strategy Institute | Beginner | 0.75 | 🏅 |
 | <a href="https://www.disasterready.org/free-certificate-project-management" target="_blank" rel="noopener noreferrer">Project Management Essentials</a> | Disaster Ready | Beginner | 5 | 🏅 |
-| <a href="https://www.life-global.org/course/380-agile-project-management" target="_blank" rel="noopener noreferrer">Agile Project Management</a> | HP / Life Global | Beginner | 0.5 | ��� |
+| <a href="https://www.life-global.org/course/380-agile-project-management" target="_blank" rel="noopener noreferrer">Agile Project Management</a> | HP / Life Global | Beginner | 0.5 | 🏆 |
 
 <a href="https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents" target="_blank" rel="noopener noreferrer">⬆️</a>
 
