@@ -1387,7 +1387,9 @@ Javascript
   * [paren6 ![GitHub Repo Stars](https://img.shields.io/github/stars/BnMcGn/paren6) ![GitHub last commit](https://img.shields.io/github/last-commit/BnMcGn/paren6)](https://github.com/BnMcGn/paren6/) - a set of ES6 macros for Parenscript.
   * [paren-async ![GitHub Repo Stars](https://img.shields.io/github/stars/Junker/paren-async) ![GitHub last commit](https://img.shields.io/github/last-commit/Junker/paren-async)](https://github.com/Junker/paren-async) async/await for Parenscript.
   * [paren-jquery ![GitHub Repo Stars](https://img.shields.io/github/stars/Junker/paren-jquery) ![GitHub last commit](https://img.shields.io/github/last-commit/Junker/paren-jquery)](https://github.com/Junker/paren-jquery) - Jquery-style macros for Parenscript. MIT.
-* [JSCL ![GitHub Repo Stars](https://img.shields.io/github/stars/jscl-project/jscl) ![GitHub last commit](https://img.shields.io/github/last-commit/jscl-project/jscl)](https://github.com/jscl-project/jscl) - A CL-to-JS compiler designed to be self-hosting from day one. Lacks CLOS, format and loop.
+* [JSCL ![GitHub Repo Stars](https://img.shields.io/github/stars/jscl-project/jscl) ![GitHub last commit](https://img.shields.io/github/last-commit/jscl-project/jscl)](https://github.com/jscl-project/jscl) - A CL-to-JS compiler designed to be self-hosting from day one. GPL3.0.
+  * existing but incomplete support of CLOS, format and loop.
+  * [live playground](https://jscl-project.github.io/)
 * [CL-JavaScript](http://marijnhaverbeke.nl/cl-javascript/) - A translator from Javascript to Common Lisp. Not available on Quicklisp. [Expat][14].
 * [parse-js](http://marijnhaverbeke.nl/parse-js/) - A package for parsing ECMAScript 3. [zlib][33].
 * [remote-js ![GitHub Repo Stars](https://img.shields.io/github/stars/ceramic/remote-js) ![GitHub last commit](https://img.shields.io/github/last-commit/ceramic/remote-js)](https://github.com/ceramic/remote-js) - send JavaScript from Common Lisp to a browser. [MIT][200].
