@@ -970,6 +970,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 
 ## Utility
 
+- [gisketch/triforce.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/gisketch/triforce.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/gisketch/triforce.nvim)](https://github.com/gisketch/triforce.nvim) - Gamified stat tracker with XP, levels, achievements, and activity heatmaps for your coding sessions with lualine integration.
 - [gaborvecsei/usage-tracker.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/gaborvecsei/usage-tracker.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/gaborvecsei/usage-tracker.nvim)](https://github.com/gaborvecsei/usage-tracker.nvim) - Track your Neovim usage and visualize statistics easily.
 - [mateuszwieloch/automkdir.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/mateuszwieloch/automkdir.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/mateuszwieloch/automkdir.nvim)](https://github.com/mateuszwieloch/automkdir.nvim) - Automatically create non-existent parent directories when writing a file.
 - [jghauser/mkdir.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/jghauser/mkdir.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/jghauser/mkdir.nvim)](https://github.com/jghauser/mkdir.nvim) - Automatically create missing directories when saving files.
