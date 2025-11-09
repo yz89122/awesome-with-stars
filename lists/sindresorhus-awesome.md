@@ -633,6 +633,7 @@
 - [Detection Engineering ![GitHub Repo Stars](https://img.shields.io/github/stars/infosecB/awesome-detection-engineering) ![GitHub last commit](https://img.shields.io/github/last-commit/infosecB/awesome-detection-engineering)](https://github.com/infosecB/awesome-detection-engineering#readme) - Design, build, and operate detective cybersecurity controls.
 - [Annual Security Reports ![GitHub Repo Stars](https://img.shields.io/github/stars/jacobdjwilson/awesome-annual-security-reports) ![GitHub last commit](https://img.shields.io/github/last-commit/jacobdjwilson/awesome-annual-security-reports)](https://github.com/jacobdjwilson/awesome-annual-security-reports#readme) - Exploring cybersecurity trends, insights, and challenges.
 - [CI/CD Attacks ![GitHub Repo Stars](https://img.shields.io/github/stars/TupleType/awesome-cicd-attacks) ![GitHub last commit](https://img.shields.io/github/last-commit/TupleType/awesome-cicd-attacks)](https://github.com/TupleType/awesome-cicd-attacks#readme) - Offensive research of systems and processes related to developing and deploying code.
+- [OpenID Connect ![GitHub Repo Stars](https://img.shields.io/github/stars/cerberauth/awesome-openid-connect) ![GitHub last commit](https://img.shields.io/github/last-commit/cerberauth/awesome-openid-connect)](https://github.com/cerberauth/awesome-openid-connect#readme) - Identity standard and authentication protocol built on OAuth 2.0 for user identity assertion.
 
 ## Content Management Systems
 
