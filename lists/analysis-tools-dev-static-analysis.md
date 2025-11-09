@@ -782,7 +782,7 @@ A ktfmt IntelliJ plugin is available from the plugin repository. To install it, 
 
 - [DrNim](https://nim-lang.org/docs/drnim.html) — DrNim combines the Nim frontend with the Z3 proof engine in order to allow verify / validate software written in Nim.
 
-- **nimfmt** :warning: ��� Nim code formatter / linter / style checker
+- **nimfmt** :warning: — Nim code formatter / linter / style checker
 
 
 <a name="ocaml" />
