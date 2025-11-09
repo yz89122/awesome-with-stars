@@ -503,7 +503,7 @@ Wifi | Power | Address | Open Hours
 
 Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
-✔ | ✔ | [Krautgasse 26, 07743 Jena](https://maps.app.goo.gl/QaMgf3d5WXtuJRvPA) | Mon-Fri 07:30–19:00; Sat 10:00–17:00
+✔ | ✔ | [Krautgasse 26, 07743 Jena](https://maps.app.goo.gl/QaMgf3d5WXtuJRvPA) | Mon-Fri 07:30���19:00; Sat 10:00–17:00
 
 ## Munich
 
@@ -861,7 +861,7 @@ Webpage: http://4sq.com/1JRQG4q
 
 Wifi | Power | Climatization  | Address | Open Hours
 ---- | ----- | -------------- | ------- | ----------
-✔ | ✔ | ❄️/♨️ | [Av. Joao XXI Lisboa](https://goo.gl/AadA8A) | Mon-Sat 7:30AM:8PM
+✔ | ✔ | ❄��/♨️ | [Av. Joao XXI Lisboa](https://goo.gl/AadA8A) | Mon-Sat 7:30AM:8PM
 
 #### Copenhagen Coffee Lab, Lisboa
 
