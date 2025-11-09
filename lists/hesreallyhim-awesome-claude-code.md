@@ -498,7 +498,7 @@ A tool that adds small enhancements to Claude Code.
 A webhook service that connects Claude Code to GitHub repositories, enabling AI-powered code assistance directly through pull requests and issues. This integration allows Claude to analyze repositories, answer technical questions, and help developers understand and improve their codebase through simple @mentions.
 
 <details>
-<summary>���� GitHub Stats</summary>
+<summary>📊 GitHub Stats</summary>
 
 ![GitHub Stats for claude-hub](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=claude-hub&username=claude-did-this&all_stats=true&stats_only=true)
 
