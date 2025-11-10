@@ -193,7 +193,7 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 *These compilers may differ from or be incompatible with the official set of tools.*
 
 * [SDC ![GitHub Repo Stars](https://img.shields.io/github/stars/snazzy-d/SDC) ![GitHub last commit](https://img.shields.io/github/last-commit/snazzy-d/SDC)](https://github.com/snazzy-d/SDC) - The Snazzy D Compiler. Written in D. Grows Smarter every day.
-* [OpenD](https://opendlang.org/index.html) - A fork of the D language with built-in libraries.
+* [OpenD](https://opendlang.org/index.html) - A fork of the D language focused on practical and incremental improvements.
 
 ## Dev Tools
 
@@ -387,8 +387,9 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 
 * [giD ![GitHub Repo Stars](https://img.shields.io/github/stars/Kymorphia/gid) ![GitHub last commit](https://img.shields.io/github/last-commit/Kymorphia/gid)](https://github.com/Kymorphia/gid) - GObject Introspection D Package Repository.
 * [Fluid](https://git.samerion.com/Samerion/Fluid) - A declarative cross-platform user interface library for D.
+* [minigui ![GitHub Repo Stars](https://img.shields.io/github/stars/adamdruppe/arsd) ![GitHub last commit](https://img.shields.io/github/last-commit/adamdruppe/arsd)](https://github.com/adamdruppe/arsd/blob/master/minigui.d) - A smallish GUI widget library, aiming to be on par with at least HTML4 forms and a few other expected gui components.
 * [DLangUI ![GitHub Repo Stars](https://img.shields.io/github/stars/buggins/dlangui) ![GitHub last commit](https://img.shields.io/github/last-commit/buggins/dlangui)](https://github.com/buggins/dlangui) - Cross Platform GUI for D programming language. My personal favorite, because it is written in D(not a binding), and is cross platform. DLangUI also has a good showcase in the IDE [DLangIDE ![GitHub Repo Stars](https://img.shields.io/github/stars/buggins/dlangide) ![GitHub last commit](https://img.shields.io/github/last-commit/buggins/dlangide)](https://github.com/buggins/dlangide).
-* [microui-D ![GitHub Repo Stars](https://img.shields.io/github/stars/Kapendev/microui-d) ![GitHub last commit](https://img.shields.io/github/last-commit/Kapendev/microui-d)](https://github.com/Kapendev/microui-d) - A tiny immediate-mode UI library.
+* [microui-d ![GitHub Repo Stars](https://img.shields.io/github/stars/Kapendev/microui-d) ![GitHub last commit](https://img.shields.io/github/last-commit/Kapendev/microui-d)](https://github.com/Kapendev/microui-d) - A tiny immediate-mode UI library.
 * [GtkD ![GitHub Repo Stars](https://img.shields.io/github/stars/gtkd-developers/GtkD) ![GitHub last commit](https://img.shields.io/github/last-commit/gtkd-developers/GtkD)](https://github.com/gtkd-developers/GtkD) - GtkD is a D binding and OO wrapper of GTK+. GtkD is actively maintained and is currently the most stable GUI lib for D.
 * [tkD ![GitHub Repo Stars](https://img.shields.io/github/stars/nomad-software/tkd) ![GitHub last commit](https://img.shields.io/github/last-commit/nomad-software/tkd)](https://github.com/nomad-software/tkd) - GUI toolkit for the D programming language based on Tcl/Tk.
 * [dqml ![GitHub Repo Stars](https://img.shields.io/github/stars/filcuc/dqml) ![GitHub last commit](https://img.shields.io/github/last-commit/filcuc/dqml)](https://github.com/filcuc/dqml) - Qt Qml bindings for the D programming language.
