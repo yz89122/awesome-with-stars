@@ -956,7 +956,7 @@ A no-frills little library that adds delightful OS-native sounds to Claude Code 
 Very well-written set of hooks for code quality and tool usage regulation (e.g. force Tavily over WebFetch tool).
 
 <details>
-<summary>�� GitHub Stats</summary>
+<summary>📊 GitHub Stats</summary>
 
 ![GitHub Stats for claude-codex-settings](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=claude-codex-settings&username=fcakyon&all_stats=true&stats_only=true)
 
