@@ -78,6 +78,7 @@ All the resources below have specifically specified that their content is [:copy
 * [The Pic Pac](https://thepicpac.com/) - New pacs on Monday, free pics Tuesday - Sunday.
 * [Travel Coffee Book](http://travelcoffeebook.com/) - Travel photography.
 * [Wesaturate](https://www.wesaturate.com/) - A collection of completely free CC0 images in RAW and JPG formats.
+* [WordPress Photo Directory](https://wordpress.org/photos/) - Free, high-quality, community-submitted photographs suitable for use within WordPress sites and elsewhere.
 
 ### Custom License / Usage
 
@@ -244,7 +245,7 @@ A collection for icon font resources, most of which also include SVGs, which can
 
 A collection for SVG icon resources which can be used in your interface and website designs.
 
-* [Atlas Icons](https://atlasicons.vectopus.com/) - [:copyright:](https://opensource.org/licenses/MIT) 2,701 free consistent icons.
+* [Atlas Icons](https://atlasicons.vectoricons.net/) - [:copyright:](https://opensource.org/licenses/MIT) 2,701 free consistent icons.
 * [BlendIcons](https://blendicons.com/) - [:copyright:](https://blendicons.com/page/licence) Free, world top icons.
 * [Bootstrap Icons](https://icons.getbootstrap.com/) - [:copyright: ![GitHub Repo Stars](https://img.shields.io/github/stars/twbs/icons) ![GitHub last commit](https://img.shields.io/github/last-commit/twbs/icons)](https://github.com/twbs/icons/blob/main/LICENSE.md) Free, high quality, open source icon library with over 1,800 icons.
 * [Doodle Icons](https://khushmeen.com/icons.html) - [:copyright:](https://creativecommons.org/publicdomain/zero/1.0/) 400+ handcrafted icons free for your next project.
@@ -263,6 +264,7 @@ A collection for SVG icon resources which can be used in your interface and webs
 * [Lucide](https://lucide.dev/) - [:copyright:](https://lucide.dev/license) Beautiful & consistent icon toolkit made by the community.
 * [Maps Icon ![GitHub Repo Stars](https://img.shields.io/github/stars/djaiss/mapsicon) ![GitHub last commit](https://img.shields.io/github/last-commit/djaiss/mapsicon)](https://github.com/djaiss/mapsicon) - [:copyright: ![GitHub Repo Stars](https://img.shields.io/github/stars/djaiss/mapsicon) ![GitHub last commit](https://img.shields.io/github/last-commit/djaiss/mapsicon)](https://github.com/djaiss/mapsicon#license) Mapsicon is a free collection of maps for nearly every country in the world, available in 11 different sizes, ranging from 16x16 pixels to 1024x1024 pixels, as well as .svg format.
 * [Material Design Icons](https://www.materialui.co/icons) - A collections of free, material design style icons.
+* [Obra Icons](https://icons.obra.studio/) - [:copyright:](https://icons.obra.studio/licensing-agreement) A simple, consistent set of icons, perfect for user interfaces.
 * [Simple Icons ![GitHub Repo Stars](https://img.shields.io/github/stars/simple-icons/simple-icons) ![GitHub last commit](https://img.shields.io/github/last-commit/simple-icons/simple-icons)](https://github.com/simple-icons/simple-icons) - [:copyright:](http://artlibre.org/licence/lal/en/) SVG icons for popular brands.
 * [The Noun Project](https://thenounproject.com/) - [:copyright:](https://thenounproject.com/accounts/pricing/) Over 150,000 icons designed by creators from around the world. Free users must give credit to the creator.
 * [Unicorn icons](https://unicornicons.com/) - [:copyright:](https://unicornicons.com/license) 100+ playful animated and customizable icons, available in JSON and SVG format.
