@@ -244,12 +244,14 @@
 - [Doly](https://www.animl.ai/) - Capture high-quality 3D photos of your products and embed them on Shopify in minutes.
 - [GSplat Share](https://gsplat.org/) – Share your splats with optional time-limited and password-protected links.
 - [homes.com](https://www.homes.com/property/5471-country-club-pkwy-san-jose-ca/jtpxcck89t92v/?dk=htcrxezf5771f&tab=-1) - Exterior views for residential property listings.
+- [LichtFeld Studio Landing Page](https://lichtfeld.io/) - Explore a splat trained by LichtFeld Studio.
 - [Montreal Museum of Fine Arts](https://labs.dpt.co/article-3dgs.html) - Explore 6 rooms at the museum.
 - [NeuralStorm](https://www.neuralstorm.io/) - Neural rendering for high-fidelity product visualisation.
 - [Nikon Creates](https://www.creates.nikon.com/access/#3dgs) - Scans of Nikon's studio space in Tokyo.
 - [Nood](https://nood.co.nz/pages/interactive-lounge) - Furniture retailer.
 - [Old Main](https://www.ryanfellers.com/oldmain/) - The Public Library of Cincinnati's Grand Hall as it appeared in 1900.
 - [Prewatch](https://www.prewatch.io/) - Smart virtual scouting for better decisions.
+- [Primer on Gaussian Splatting](https://packet39.com/blog/a-primer-on-gaussian-splats/) - Blog article embedding the PlayCanvas SuperSplat Viewer.
 - [Reflct](https://www.reflct.app/) - Curate, manage and deploy 3DGS scenes online.
 - [ScanMeNow](https://www.scanmenow.es/en/galeria.html) - Digital twin platform.
 - [Skyfall-GS](https://skyfall-gs.jayinnn.dev/) - Converts satellite images to explorable 3D urban scenes using the SuperSplat Viewer.
