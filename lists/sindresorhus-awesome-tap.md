@@ -41,6 +41,10 @@ TAP is a simple text-based interface between testing modules in a test harness.
 - [tap-xunit ![GitHub Repo Stars](https://img.shields.io/github/stars/aghassemi/tap-xunit) ![GitHub last commit](https://img.shields.io/github/last-commit/aghassemi/tap-xunit)](https://github.com/aghassemi/tap-xunit) - xUnit output.
 - [tap-teamcity ![GitHub Repo Stars](https://img.shields.io/github/stars/smockle/tap-teamcity) ![GitHub last commit](https://img.shields.io/github/last-commit/smockle/tap-teamcity)](https://github.com/smockle/tap-teamcity) - Output for TeamCity.
 
+### Go
+
+- [tapfmt ![GitHub Repo Stars](https://img.shields.io/github/stars/coreybutler/tapfmt) ![GitHub last commit](https://img.shields.io/github/last-commit/coreybutler/tapfmt)](https://github.com/coreybutler/tapfmt) - Standalone cross-platform formatter.
+
 ## Producers
 
 Things that produce TAP output.
