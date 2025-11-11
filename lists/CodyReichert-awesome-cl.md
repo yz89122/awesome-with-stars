@@ -67,6 +67,7 @@ sellers who aren't evil for physical resources.
   - [Objective-C](#objective-c)
   - [Python](#python)
   - [.Net Core](#net-core)
+  - [Emacs Lisp](#emacs-lisp)
   - [Miscellaneous](#miscellaneous)
 - [Game Development](#game-development)
 - [Graphics](#graphics)
@@ -161,7 +162,6 @@ sellers who aren't evil for physical resources.
   - [Notebooks](#notebooks)
   - [REPLs](#repls)
   - [Online editors](#online-editors)
-  - [Apps](#apps)
 - [Text and binary parsers](#text-and-binary-parsers)
 - [Text Processing](#text-processing)
 - [Tools](#tools-1)
@@ -214,7 +214,8 @@ Educational:
 
 Credit: borretti.me's [State of CL Ecosystem 2015](http://borretti.me/article/common-lisp-sotu-2015#machine-learning).
 
-* [llama.cl ![GitHub Repo Stars](https://img.shields.io/github/stars/snunez1/llama.cl) ![GitHub last commit](https://img.shields.io/github/last-commit/snunez1/llama.cl)](https://github.com/snunez1/llama.cl) - a Common Lisp port of Karpathy's llama2.c to idiomatic Common Lisp. MIT.
+* [llama.cl ![GitHub Repo Stars](https://img.shields.io/github/stars/snunez1/llama.cl) ![GitHub last commit](https://img.shields.io/github/last-commit/snunez1/llama.cl)](https://github.com/snunez1/llama.cl) - implementation of Llama inference operations. MIT.
+    * "Enables researchers and developers to explore LLM techniques within the Common Lisp ecosystem, leveraging the language's capabilities for interactive development and integration with symbolic AI systems."
 
 Around the OpenAI API:
 
@@ -296,7 +297,6 @@ Build Systems
 
 * ⭐[ASDF](https://common-lisp.net/project/asdf/) - Another System Definition Facility; a build system for Common Lisp. [Expat][14]. Quicklisp (see [library manager](#library-manager)) uses ASDF under the hood.
   * [known ASDF extensions](https://common-lisp.net/project/asdf/#extensions), such as `asdf-system-connections`, that lets you specify systems that are automatically loaded when two other systems are loaded, to connect them.
-* [asdf-linguist ![GitHub Repo Stars](https://img.shields.io/github/stars/eudoxia0/asdf-linguist) ![GitHub last commit](https://img.shields.io/github/last-commit/eudoxia0/asdf-linguist)](https://github.com/eudoxia0/asdf-linguist) - Extensions for ASDF. Unmaintained. [Expat][14].
 * [asdf-viz ![GitHub Repo Stars](https://img.shields.io/github/stars/guicho271828/asdf-viz) ![GitHub last commit](https://img.shields.io/github/last-commit/guicho271828/asdf-viz)](https://github.com/guicho271828/asdf-viz) - a tool to visualize the library dependencies of ASDF systems, the call graph of a function and the class inheritances. [LLGPL][8].
 
 See also:
@@ -305,6 +305,9 @@ See also:
   * provides a common interface to segregate major application components.
   * for instance, by adding module definition options you can introduce mechanisms to tie modules together in functionality, hook into each other and so on.
   * acts as a wrapper around `defpackage` and integrates into ASDF.
+* [asdf-linguist ![GitHub Repo Stars](https://img.shields.io/github/stars/eudoxia0/asdf-linguist) ![GitHub last commit](https://img.shields.io/github/last-commit/eudoxia0/asdf-linguist)](https://github.com/eudoxia0/asdf-linguist) - Extensions for ASDF for compiling various languages and running various preprocessing tools on files in your project. [Expat][14].
+  * Sass, LESS, Myth, C, C++, Fortran, CSS/JS minifiers, ParensScript, Make, CMake, org-mode, pandoc, dot, diita…
+  * currently archived and unmaintained.
 
 Compilers, code generators
 ==========================
@@ -691,17 +694,16 @@ See also [async-process ![GitHub Repo Stars](https://img.shields.io/github/stars
 
 * [Bike ![GitHub Repo Stars](https://img.shields.io/github/stars/Lovesan/bike) ![GitHub last commit](https://img.shields.io/github/last-commit/Lovesan/bike)](https://github.com/Lovesan/bike) - a cross-platform .Net Core interface. [MIT][200].
 
-## Miscellaneous ##
+## Emacs Lisp
 
-* [Foil](http://foil.sourceforge.net/) - A foreign object interface; works with the JVM and CLI. Not available on Quicklisp. [CPL 1.0][47].
-
-For Emacs Lisp:
-
-* [CEDAR](https://gitlab.com/sasanidas/cedar) - an advance interactive development environment aiming to be Emacs compatible with all the features that come with it. Unmaintained.
+* [CEDAR](https://gitlab.com/sasanidas/cedar) - an advance interactive development environment aiming to be Emacs compatible with all the features that come with it. Stalled.
 * [CLOCC's elisp.lisp](https://sourceforge.net/p/clocc/hg/ci/default/tree/src/cllib/elisp.lisp) - Emacs Lisp in Common Lisp.
   * implementation of the Emacs Lisp language as a Common Lisp package. [1999]
   * does not attempt to reimplement the library of functions provided in Emacs to manipulate buffers and other related objects, so it focuses on the "pure" Emacs Lisp language; but it was able to run the non-UI parts of the Emacs Calendar. (S. Monnier, M. Sperber)
 
+## Miscellaneous ##
+
+* [Foil](http://foil.sourceforge.net/) - A foreign object interface; works with the JVM and CLI. Not available on Quicklisp. [CPL 1.0][47].
 
 Game Development
 ================
@@ -1161,7 +1163,7 @@ Advanced
 Other books
 -----------
 
-* [Building Problem Solvers](https://www.qrg.northwestern.edu/bps/readme.html) ([PDF](http://www.qrg.northwestern.edu/bps/BPS-Searchable.pdf)) by Ken Forbus and Johan de Kleer, made available for free by MIT Press - a  unique book among standard artificial intelligence texts in combining science and engineering, theory and craft to describe the construction of AI reasoning systems, and including code illustrating the ideas.
+* [Building Problem Solvers](https://www.qrg.northwestern.edu/BPS/readme.html) ([PDF](http://www.qrg.northwestern.edu/bps/BPS-Searchable.pdf)) by Ken Forbus and Johan de Kleer, made available for free by MIT Press - a  unique book among standard artificial intelligence texts in combining science and engineering, theory and craft to describe the construction of AI reasoning systems, and including code illustrating the ideas.
 
 Community
 ---------
@@ -1366,7 +1368,7 @@ URI and IP handling
 * [quri ![GitHub Repo Stars](https://img.shields.io/github/stars/fukamachi/quri) ![GitHub last commit](https://img.shields.io/github/last-commit/fukamachi/quri)](https://github.com/fukamachi/quri) - Another URI library for
   Common Lisp. Supports userinfo, IPv6 hostname, encoding/decoding
   utilities,… [BSD_3Clause][15].
-* [cl-slug ![GitHub Repo Stars](https://img.shields.io/github/stars/EuAndreh/cl-slug) ![GitHub last commit](https://img.shields.io/github/last-commit/EuAndreh/cl-slug)](https://github.com/EuAndreh/cl-slug) - a small library to make slugs, mainly for URIs, transform in CamelCase, remove accentuation and punctuation, for english and beyond. Unmaintained. [LLGPL][8].
+* [cl-slug ![GitHub Repo Stars](https://img.shields.io/github/stars/lisp-maintainers/cl-slug) ![GitHub last commit](https://img.shields.io/github/last-commit/lisp-maintainers/cl-slug)](https://github.com/lisp-maintainers/cl-slug) - a small library to make slugs, mainly for URIs, transform in CamelCase, remove accentuation and punctuation, for english and beyond. [LLGPL][8].
 * [netaddr ![GitHub Repo Stars](https://img.shields.io/github/stars/ynadji/netaddr) ![GitHub last commit](https://img.shields.io/github/last-commit/ynadji/netaddr)](https://github.com/ynadji/netaddr) -  A network address manipulation library for Common Lisp. MIT.
   * for manipulating IP addresses, subnets, ranges, and sets. It is inspired by its namesake library in Python, netaddr.
 
@@ -1500,9 +1502,10 @@ Others
 
 * [LASS](https://codeberg.org/shinmera/LASS) -  Lisp Augmented Style Sheets. Largely inspired by SASS. Zlib.
 * [css-lite ![GitHub Repo Stars](https://img.shields.io/github/stars/paddymul/css-lite) ![GitHub last commit](https://img.shields.io/github/last-commit/paddymul/css-lite)](https://github.com/paddymul/css-lite) - A CSS grammar. [Expat][14].
-* [find-port ![GitHub Repo Stars](https://img.shields.io/github/stars/eudoxia0/find-port) ![GitHub last commit](https://img.shields.io/github/last-commit/eudoxia0/find-port)](https://github.com/eudoxia0/find-port) -  Programmatically find open ports. Unmaintained. [MIT][200].
+* [find-port ![GitHub Repo Stars](https://img.shields.io/github/stars/lisp-maintainers/find-port) ![GitHub last commit](https://img.shields.io/github/last-commit/lisp-maintainers/find-port)](https://github.com/lisp-maintainers/find-port) -  Programmatically find open ports. [MIT][200].
 * [cl-wget ![GitHub Repo Stars](https://img.shields.io/github/stars/cl-wget/cl-wget) ![GitHub last commit](https://img.shields.io/github/last-commit/cl-wget/cl-wget)](https://github.com/cl-wget/cl-wget) - Makes retrieving large files or mirroring entire websites easy. [AGPL-3.0][51].
-* [trivial-download ![GitHub Repo Stars](https://img.shields.io/github/stars/eudoxia0/trivial-download) ![GitHub last commit](https://img.shields.io/github/last-commit/eudoxia0/trivial-download)](https://github.com/eudoxia0/trivial-download) - Download files. Unmaintained. [MIT][200].
+* [trivial-download ![GitHub Repo Stars](https://img.shields.io/github/stars/eudoxia0/trivial-download) ![GitHub last commit](https://img.shields.io/github/last-commit/eudoxia0/trivial-download)](https://github.com/eudoxia0/trivial-download) - Download files.
+  * currently archived and unmaintained. [MIT][200].
 * [cl-cookie ![GitHub Repo Stars](https://img.shields.io/github/stars/fukamachi/cl-cookie) ![GitHub last commit](https://img.shields.io/github/last-commit/fukamachi/cl-cookie)](https://github.com/fukamachi/cl-cookie) HTTP Cookie (jar) manager: parse and write (set-)cookie headers, compare cookies, optional cookie attribute sanity check. [MIT][200]
 * [dns-client](https://codeberg.org/Shinmera/dns-client) - DNS record client. See [documentation](https://shinmera.github.io/dns-client/). [zlib][33].
 * [mobiledetect ![GitHub Repo Stars](https://img.shields.io/github/stars/Junker/mobiledetect) ![GitHub last commit](https://img.shields.io/github/last-commit/Junker/mobiledetect)](https://github.com/Junker/mobiledetect) - System for detecting mobile devices (including tablets) in User-Agent strings. MIT.
