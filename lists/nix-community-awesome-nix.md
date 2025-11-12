@@ -36,6 +36,7 @@
     * [Gleam](#gleam)
     * [Haskell](#haskell)
     * [Haxe](#haxe)
+    * [Julia](#julia)
     * [Lean](#lean)
     * [Node.js](#nodejs)
     * [OCaml](#ocaml)
@@ -236,6 +237,10 @@
 ### Haxe
 * [haxix ![GitHub Repo Stars](https://img.shields.io/github/stars/MadMcCrow/haxix) ![GitHub last commit](https://img.shields.io/github/last-commit/MadMcCrow/haxix)](https://github.com/MadMcCrow/haxix) - Nix flake to build haxe/Heaps.io projects.
 * [kebab ![GitHub Repo Stars](https://img.shields.io/github/stars/bwkam/kebab) ![GitHub last commit](https://img.shields.io/github/last-commit/bwkam/kebab)](https://github.com/bwkam/kebab) - Haxe packages for Nix.
+
+### Julia
+
+* [Manifest2Nix.jl](https://codeberg.org/aniva/Manifest2Nix.jl) - A Nix library for creating reproducible Julia builds and experiments via precompilation.
 
 ### Lean
 
