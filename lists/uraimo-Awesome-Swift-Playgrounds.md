@@ -139,7 +139,7 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 ### Functional Reactive Programming
 
 * [ReactiveCocoa Playground ![GitHub Repo Stars](https://img.shields.io/github/stars/nikita-leonov/ReactiveCocoaPlayground) ![GitHub last commit](https://img.shields.io/github/last-commit/nikita-leonov/ReactiveCocoaPlayground)](https://github.com/nikita-leonov/ReactiveCocoaPlayground) - The easiest way to get a taste of ReactiveCocoa. ⏳ 
-* [Swift Reactive Playground ![GitHub Repo Stars](https://img.shields.io/github/stars/ColinEberhardt/SwiftReactivePlayground) ![GitHub last commit](https://img.shields.io/github/last-commit/ColinEberhardt/SwiftReactivePlayground)](https://github.com/ColinEberhardt/SwiftReactivePlayground) - Companion to the article: ReactiveCocoa made Simple With Swift. ��� 
+* [Swift Reactive Playground ![GitHub Repo Stars](https://img.shields.io/github/stars/ColinEberhardt/SwiftReactivePlayground) ![GitHub last commit](https://img.shields.io/github/last-commit/ColinEberhardt/SwiftReactivePlayground)](https://github.com/ColinEberhardt/SwiftReactivePlayground) - Companion to the article: ReactiveCocoa made Simple With Swift. ⏳ 
 
 
 ## Apple's Playgrounds
@@ -194,7 +194,7 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 ### Languages
 *Programming language interpreters implemented in Swift*
 
-* [Introduction to Compilers ![GitHub Repo Stars](https://img.shields.io/github/stars/ahoppen/introduction-to-compilers) ![GitHub last commit](https://img.shields.io/github/last-commit/ahoppen/introduction-to-compilers)](https://github.com/ahoppen/introduction-to-compilers) - Great introduction to the inner workings of compilers. 🍁🌟
+* [Introduction to Compilers ![GitHub Repo Stars](https://img.shields.io/github/stars/ahoppen/introduction-to-compilers) ![GitHub last commit](https://img.shields.io/github/last-commit/ahoppen/introduction-to-compilers)](https://github.com/ahoppen/introduction-to-compilers) - Great introduction to the inner workings of compilers. ���🌟
 * [Pascal Interpreter ![GitHub Repo Stars](https://img.shields.io/github/stars/igorkulman/SwiftPascalInterpreter) ![GitHub last commit](https://img.shields.io/github/last-commit/igorkulman/SwiftPascalInterpreter)](https://github.com/igorkulman/SwiftPascalInterpreter) - Simple Swift interpreter for the Pascal language inspired by the Let’s Build A Simple Interpreter article series. 🍁
 * [Write your own language: Mu ![GitHub Repo Stars](https://img.shields.io/github/stars/marciok/Mu) ![GitHub last commit](https://img.shields.io/github/last-commit/marciok/Mu)](https://github.com/marciok/Mu) - A playground explaining how to create a tiny programming language named Mu. 🌟
 * [ASM Swift ![GitHub Repo Stars](https://img.shields.io/github/stars/NSExceptional/ASM-Swift) ![GitHub last commit](https://img.shields.io/github/last-commit/NSExceptional/ASM-Swift)](https://github.com/NSExceptional/ASM-Swift) - A playground for learning Assembly language through Swift. 🌟
