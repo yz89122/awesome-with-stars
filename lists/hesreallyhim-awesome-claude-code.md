@@ -649,7 +649,7 @@ claude-code-ide.el integrates Claude Code with Emacs, like Anthropic’s VS Code
 An Emacs interface for Claude Code CLI.
 
 <details>
-<summary>📊 GitHub Stats</summary>
+<summary>��� GitHub Stats</summary>
 
 ![GitHub Stats for claude-code.el](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=claude-code.el&username=stevemolitor&all_stats=true&stats_only=true)
 
