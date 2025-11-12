@@ -409,7 +409,7 @@ Graph databases
 
 and also:
 
-* [restagraph](https://codeberg.org/Equill/restagraph) - an app that dynamically generates REST APIs for a Neo4j database, using a schema defined within the database. [GPL3][2].
+* [restagraph ![GitHub Repo Stars](https://img.shields.io/github/stars/JermellB/restagraph) ![GitHub last commit](https://img.shields.io/github/last-commit/JermellB/restagraph)](https://github.com/JermellB/restagraph) - an app that dynamically generates REST APIs for a Neo4j database, using a schema defined within the database. [GPL3][2].
 
 <!-- lost in translation: (it was slow anyways) -->
 <!-- * [facts ![GitHub Repo Stars](https://img.shields.io/github/stars/cl-facts/facts) ![GitHub last commit](https://img.shields.io/github/last-commit/cl-facts/facts)](https://github.com/cl-facts/facts) - an in-memory graph database with transactions and rollbacks, logging/replay and dumping/loading to/from disk. BSD-style license (ISC). -->
@@ -778,8 +778,8 @@ For an overview and a tutorial on GUI toolkits, see [the Cookbook/GUI](https://l
   * [CommonQt5 ![GitHub Repo Stars](https://img.shields.io/github/stars/commonqt/commonqt5) ![GitHub last commit](https://img.shields.io/github/last-commit/commonqt/commonqt5)](https://github.com/commonqt/commonqt5/) - bindings for Qt5.
     * warn: currently difficult to install. Used in production© by SISCOG.
 * ⭐ [ltk](http://www.peter-herth.de/ltk/) - A binding for the Tk toolkit. [LLGPL][8] or [GNU LGPL2.1][11].
-  * [LTk Examples](https://peterlane.netlify.app/ltk-examples/) - Provides LTk examples for the tkdocs tutorial.
-  * [LTk Plotchart](https://peterlane.netlify.app/ltk-plotchart/) - A wrapper around the tklib/plotchart library to work with LTk. This includes over 20 different chart types (xy-plots, gantt charts, 3d-bar charts etc...).
+  * [LTk Examples](https://peterlane.codeberg.page/ltk-examples/) - Provides LTk examples for the tkdocs tutorial.
+  * [LTk Plotchart](https://peterlane.codeberg.page/ltk-plotchart/) - A wrapper around the tklib/plotchart library to work with LTk. This includes over 20 different chart types (xy-plots, gantt charts, 3d-bar charts etc...).
 * [nodgui](https://codeberg.org/cage/nodgui) - Bindings for the Tk toolkit, based on Ltk, with syntax sugar and additional widgets. [LLGPL][8].
   * 🎨 supports [tk custom themes](https://wiki.tcl-lang.org/page/List+of+ttk+Themes), such as [ttkthemes](https://ttkthemes.readthedocs.io/en/latest/themes.html) and [Forest-ttk-theme ![GitHub Repo Stars](https://img.shields.io/github/stars/rdbende/Forest-ttk-theme) ![GitHub last commit](https://img.shields.io/github/last-commit/rdbende/Forest-ttk-theme)](https://github.com/rdbende/Forest-ttk-theme).
   * supports an SDL frame as an alternative to the Tk canvas when fast rendering is needed. For 2D (pixel-based) and 3D rendering (using openGL).
@@ -857,7 +857,7 @@ Implementations
   * [SBCL on Chocolatey for Windows](https://community.chocolatey.org/packages/sbcl) (unofficial)
   * [WIP, 2021] [Static Executables with SBCL](https://www.timmons.dev/posts/static-executables-with-sbcl-v2.html).
   * [SBCL Windows builds supporting Windows 7+ ![GitHub Repo Stars](https://img.shields.io/github/stars/lockie/sbcl-w7) ![GitHub last commit](https://img.shields.io/github/last-commit/lockie/sbcl-w7)](https://github.com/lockie/sbcl-w7), packaged into NSIS installer and updated monthly (unofficial)
-* ⭐ [CCL](//ccl.clozure.com/) - Clozure Common Lisp; compiler-only implementation, generates native code.  [LLGPL][8].
+* ⭐ [CCL](https://ccl.clozure.com/) - Clozure Common Lisp; compiler-only implementation, generates native code.  [LLGPL][8].
 * [ECL](https://common-lisp.net/project/ecl/) - Embeddable Common Lisp; compiles to C. [GNU LGPL2.1][11].
   * WASM support in development ([NLNET grant in 2025](https://nlnet.nl/project/ECL/))
   * [eclweb ![GitHub Repo Stars](https://img.shields.io/github/stars/chee/eclweb) ![GitHub last commit](https://img.shields.io/github/last-commit/chee/eclweb)](https://github.com/chee/eclweb) is [a proof-of-concept REPL inside a browser](https://repl.chee.party/) using Web Assembly (WASM).
@@ -877,7 +877,7 @@ Proprietary:
 
 Other implementations, mainly for historical purposes:
 
-* [CMUCL](//www.cons.org/cmucl/) - An implementation from Carnegie Mellon University. Public domain. SBCL is a fork of CMUCL.
+* [CMUCL](http://www.cons.org/cmucl/) - An implementation from Carnegie Mellon University. Public domain. SBCL is a fork of CMUCL.
 * [GNU CLISP](http://www.clisp.org/) - A GNU implementation; contains a compiler and an interpreter. [Standard conformance][6]. [GNU GPL3][2]. They develop [on Gitlab](https://gitlab.com/gnu-clisp/clisp).
   * compiles to bytecode, its default REPL is more user friendly than SBCL's (with symbol completion and readline integration).
   * however, it is not actively developed, it doesn't comply entirely to the ANSI standard, it is less performant than SBCL and it is lacking compatibility features.
@@ -1163,7 +1163,7 @@ Advanced
 Other books
 -----------
 
-* [Building Problem Solvers](https://www.qrg.northwestern.edu/BPS/readme.html) ([PDF](http://www.qrg.northwestern.edu/bps/BPS-Searchable.pdf)) by Ken Forbus and Johan de Kleer, made available for free by MIT Press - a  unique book among standard artificial intelligence texts in combining science and engineering, theory and craft to describe the construction of AI reasoning systems, and including code illustrating the ideas.
+* [Building Problem Solvers](https://www.qrg.northwestern.edu/BPS/readme.html) ([PDF](https://www.qrg.northwestern.edu/BPS/BPS-Searchable.pdf)) by Ken Forbus and Johan de Kleer, made available for free by MIT Press - a  unique book among standard artificial intelligence texts in combining science and engineering, theory and craft to describe the construction of AI reasoning systems, and including code illustrating the ideas.
 
 Community
 ---------
@@ -1215,7 +1215,7 @@ might help:
 ## Interfaces to other package managers
 
 * [linux-packaging](https://gitlab.com/ralt/linux-packaging) - build .deb, .rpm or .pkg packages for your application with a single ASDF declaration. Uses fpm under the hood. [MIT][200].
-* [qldeb ![GitHub Repo Stars](https://img.shields.io/github/stars/ralt/qldeb) ![GitHub last commit](https://img.shields.io/github/last-commit/ralt/qldeb)](https://github.com/ralt/qldeb) -  Quicklisp systems to debian packages, along with [deb-packager ![GitHub Repo Stars](https://img.shields.io/github/stars/ralt/deb-packager) ![GitHub last commit](https://img.shields.io/github/last-commit/ralt/deb-packager)](https://github.com/ralt/deb-packager) (simply create a debian package by defining an s-expression) and an introductory [blog post](http://margaine.com/2015/12/22/quicklisp-packagecloud-debian-packages.html). Both [MIT][200].
+* [qldeb ![GitHub Repo Stars](https://img.shields.io/github/stars/ralt/qldeb) ![GitHub last commit](https://img.shields.io/github/last-commit/ralt/qldeb)](https://github.com/ralt/qldeb) -  Quicklisp systems to debian packages, along with [deb-packager ![GitHub Repo Stars](https://img.shields.io/github/stars/ralt/deb-packager) ![GitHub last commit](https://img.shields.io/github/last-commit/ralt/deb-packager)](https://github.com/ralt/deb-packager) (simply create a debian package by defining an s-expression). Both [MIT][200].
 * [ql-to-deb ![GitHub Repo Stars](https://img.shields.io/github/stars/dimitri/ql-to-deb) ![GitHub last commit](https://img.shields.io/github/last-commit/dimitri/ql-to-deb)](https://github.com/dimitri/ql-to-deb) -  Update cl-* debian packages from Quicklisp releases. WTFPL.
 * [dh-quicklisp-buildapp ![GitHub Repo Stars](https://img.shields.io/github/stars/ralt/dh-quicklisp-buildapp) ![GitHub last commit](https://img.shields.io/github/last-commit/ralt/dh-quicklisp-buildapp)](https://github.com/ralt/dh-quicklisp-buildapp) - debhelper utility to let you compile your quicklisp-based Common Lisp code into a buildapp binary in a .deb with almost no effort. [MIT][200].
 * [cl-brewer ![GitHub Repo Stars](https://img.shields.io/github/stars/can3p/cl-brewer) ![GitHub last commit](https://img.shields.io/github/last-commit/can3p/cl-brewer)](https://github.com/can3p/cl-brewer) - Homebrew formula builder for (command line) common lisp applications. Public domain.
@@ -1436,7 +1436,6 @@ out of the box availability for CL:
 - [Heliohost](https://www.heliohost.org/) for a free hosting solution.
 - [Nearly Free Speech](https://www.nearlyfreespeech.net/) - 25+ programming languages, pay for what you use.
   - SBCL and GNU CLISP
-- [Platform.sh](https://platform.sh/blog/2019/lisp/) has Common Lisp support, so has [OVH](https://docs.ovh.com/ie/en/web-paas/languages-lisp/) through their Web PaaS partnership.
 
 
 Monitoring
@@ -1485,7 +1484,7 @@ Web development utilities
   - user creation optionally with confirmation tokens (suitable for mailing to users),
 * [mito-email-auth ![GitHub Repo Stars](https://img.shields.io/github/stars/40ants/mito-email-auth) ![GitHub last commit](https://img.shields.io/github/last-commit/40ants/mito-email-auth)](https://github.com/40ants/mito-email-auth) - Helper to authenticate a website's users by sending them unique code by email.
 
-* [cl-cas ![GitHub Repo Stars](https://img.shields.io/github/stars/fferrere/cl-cas) ![GitHub last commit](https://img.shields.io/github/last-commit/fferrere/cl-cas)](https://github.com/fferrere/cl-cas) - A library to help [CAS authenticaton](https://apereo.github.io/cas/6.0.x/protocol/CAS-Protocol.html) to Common Lisp web applications. Not in Quicklisp.
+* [cl-cas ![GitHub Repo Stars](https://img.shields.io/github/stars/fferrere/cl-cas) ![GitHub last commit](https://img.shields.io/github/last-commit/fferrere/cl-cas)](https://github.com/fferrere/cl-cas) - A library to help [CAS authenticaton](https://en.wikipedia.org/wiki/Central_Authentication_Service) to Common Lisp web applications. Not in Quicklisp.
   * [cas-middleware ![GitHub Repo Stars](https://img.shields.io/github/stars/fferrere/cas-middleware) ![GitHub last commit](https://img.shields.io/github/last-commit/fferrere/cas-middleware)](https://github.com/fferrere/cas-middleware) - CAS authenticaton middleware for Caveman.
   * [cas-demo ![GitHub Repo Stars](https://img.shields.io/github/stars/fferrere/cas-demo) ![GitHub last commit](https://img.shields.io/github/last-commit/fferrere/cas-demo)](https://github.com/fferrere/cas-demo) - a demo project.
 
@@ -1589,11 +1588,9 @@ Numerical and Scientific
 
 * ⭐ [maxima](http://maxima.sourceforge.net/) - Computer Algebra System. [GNU GPL3][2].
   * [wxMaxima](https://wxmaxima-developers.github.io/wxmaxima/): a graphical frontend.
-  * [Maxima on Android](https://play.google.com/store/apps/details?id=jp.yhonda), built with ECL.
   * [Maxima on Jupyter ![GitHub Repo Stars](https://img.shields.io/github/stars/robert-dodier/maxima-jupyter) ![GitHub last commit](https://img.shields.io/github/last-commit/robert-dodier/maxima-jupyter)](https://github.com/robert-dodier/maxima-jupyter)
   * [new, POC] [Maxima in the browser on WASM](https://maxima-on-wasm.pages.dev/), [sources](https://gitlab.com/spaghettisalat/maxima/-/tree/emscripten-port-deployed)
   * it can be used via [SageMath](https://www.sagemath.org/) and [KDE Cantor](https://apps.kde.org/cantor/). Of course, with Emacs: [maxima-mode](https://gitlab.com/sasanidas/maxima) ([screenshot](https://community.linuxmint.com/img/screenshots/maxima-emacs.png)) and [maxima-interface ![GitHub Repo Stars](https://img.shields.io/github/stars/jmbr/maxima-interface) ![GitHub last commit](https://img.shields.io/github/last-commit/jmbr/maxima-interface)](https://github.com/jmbr/maxima-interface) to ease the interface between Maxima and Common Lisp.
-  * it can be used [from a Lisp REPL](https://mahmoodsheikh36.github.io/post/20230510181916-maxima_in_lisp/).
 * [numcl ![GitHub Repo Stars](https://img.shields.io/github/stars/numcl/numcl) ![GitHub last commit](https://img.shields.io/github/last-commit/numcl/numcl)](https://github.com/numcl/numcl) - Numpy clone in Common Lisp. [LGPL3][9].
 * [numericals ![GitHub Repo Stars](https://img.shields.io/github/stars/digikar99/numericals) ![GitHub last commit](https://img.shields.io/github/last-commit/digikar99/numericals)](https://github.com/digikar99/numericals) -  SIMD powered simple-math numerical operations on arrays for Common Lisp through CFFI [still experimental]. MIT.
   * documentation: https://digikar99.github.io/numericals/

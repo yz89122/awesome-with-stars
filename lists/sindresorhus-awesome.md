@@ -892,6 +892,7 @@
 - [Gemini CLI ![GitHub Repo Stars](https://img.shields.io/github/stars/Piebald-AI/awesome-gemini-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/Piebald-AI/awesome-gemini-cli)](https://github.com/Piebald-AI/awesome-gemini-cli#readme) - Terminal-based AI coding assistant by Google.
 - [SAP Commerce ![GitHub Repo Stars](https://img.shields.io/github/stars/eminyagiz42/awesome-sap-commerce) ![GitHub last commit](https://img.shields.io/github/last-commit/eminyagiz42/awesome-sap-commerce)](https://github.com/eminyagiz42/awesome-sap-commerce#readme) - An e-commerce platform built with Java, Spring MVC, and Angular.
 - [Tech Ethics ![GitHub Repo Stars](https://img.shields.io/github/stars/sampart/awesome-tech-ethics) ![GitHub last commit](https://img.shields.io/github/last-commit/sampart/awesome-tech-ethics)](https://github.com/sampart/awesome-tech-ethics#readme) - Mitigating and avoiding the potential negative effects of technology on society.
+- [Copilot Agents ![GitHub Repo Stars](https://img.shields.io/github/stars/Code-and-Sorts/awesome-copilot-agents) ![GitHub last commit](https://img.shields.io/github/last-commit/Code-and-Sorts/awesome-copilot-agents)](https://github.com/Code-and-Sorts/awesome-copilot-agents#readme) - AI pair programming assistant by GitHub that provides code suggestions and completions.
 
 ## Related
 
