@@ -237,6 +237,7 @@
 - [chatgpt-telegram-bot ![GitHub Repo Stars](https://img.shields.io/github/stars/karfly/chatgpt_telegram_bot) ![GitHub last commit](https://img.shields.io/github/last-commit/karfly/chatgpt_telegram_bot)](https://github.com/karfly/chatgpt_telegram_bot) - Telegram bot that supports voice messages.
 - [DuckDuckGPT ![GitHub Repo Stars](https://img.shields.io/github/stars/kudoai/duckduckgpt) ![GitHub last commit](https://img.shields.io/github/last-commit/kudoai/duckduckgpt)](https://github.com/kudoai/duckduckgpt) - DuckDuckGo bot.
 - [BraveGPT ![GitHub Repo Stars](https://img.shields.io/github/stars/kudoai/bravegpt) ![GitHub last commit](https://img.shields.io/github/last-commit/kudoai/bravegpt)](https://github.com/kudoai/bravegpt) - Brave Search bot.
+- [GoogleGPT](https://www.googlegpt.io) - Google Search bot.
 
 ## Integrations
 
