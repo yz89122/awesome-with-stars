@@ -1007,7 +1007,7 @@ It uses the pycodestyle utility to determine what parts of the code needs to be 
 
 - **pydocstyle** :warning: — Check compliance with Python docstring conventions.
 
-- [pyflakes](https://pypi.org/project/pyflakes) — Check Python source files for errors.
+- [pyflakes](https://pypi.org/project/pyflakes) ��� Check Python source files for errors.
 
 - [pylint](http://pylint.pycqa.org/en/latest) — Looks for programming errors, helps enforcing a coding standard and sniffs for some code smells. It additionally includes `pyreverse` (an UML diagram generator) and `symilar` (a similarities checker).
 

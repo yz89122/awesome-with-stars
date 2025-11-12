@@ -64,5 +64,6 @@ Reducing the potential negative effects of technology on society.
 - [Awesome Green Software ![GitHub Repo Stars](https://img.shields.io/github/stars/Green-Software-Foundation/awesome-green-software) ![GitHub last commit](https://img.shields.io/github/last-commit/Green-Software-Foundation/awesome-green-software)](https://github.com/Green-Software-Foundation/awesome-green-software)
 - [Awesome Permacomputing ![GitHub Repo Stars](https://img.shields.io/github/stars/idematos/awesome-permacomputing) ![GitHub last commit](https://img.shields.io/github/last-commit/idematos/awesome-permacomputing)](https://github.com/idematos/awesome-permacomputing)
 - [Awesome tech for good ![GitHub Repo Stars](https://img.shields.io/github/stars/TechforgoodCAST/awesome-techforgood) ![GitHub last commit](https://img.shields.io/github/last-commit/TechforgoodCAST/awesome-techforgood)](https://github.com/TechforgoodCAST/awesome-techforgood)
+- [Deceptive Patterns](https://www.deceptive.design) - cataloging and exposing tricks used in websites and apps that make you do things that you didn't mean to, like buying or signing up for something.
 - The ["Digital Rights & Ethics" section of the Green Web Syllabus](https://www.zotero.org/groups/4399301/green-web-syllabus/collections/TFLY9RC3/items/YXMPV7WI/collection)
 - [Organize.fyi](https://organize.fyi/)
