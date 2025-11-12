@@ -272,6 +272,7 @@
 ### Python
 
 * [poetry2nix ![GitHub Repo Stars](https://img.shields.io/github/stars/nix-community/poetry2nix) ![GitHub last commit](https://img.shields.io/github/last-commit/nix-community/poetry2nix)](https://github.com/nix-community/poetry2nix) - Build Python packages directly from [Poetry's](https://python-poetry.org/) `poetry.lock`. No conversion step needed.
+* [uv2nix ![GitHub Repo Stars](https://img.shields.io/github/stars/pyproject-nix/uv2nix) ![GitHub last commit](https://img.shields.io/github/last-commit/pyproject-nix/uv2nix)](https://github.com/pyproject-nix/uv2nix) - Convert [`uv` workspaces](https://docs.astral.sh/uv/concepts/projects/workspaces/) into pure Nix derivations.
 
 ### Ruby
 
