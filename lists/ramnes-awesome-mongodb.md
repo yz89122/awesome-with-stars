@@ -238,6 +238,7 @@ Inspired by the [awesome ![GitHub Repo Stars](https://img.shields.io/github/star
  - [MongoTalk ![GitHub Repo Stars](https://img.shields.io/github/stars/pharo-nosql/mongotalk) ![GitHub last commit](https://img.shields.io/github/last-commit/pharo-nosql/mongotalk)](https://github.com/pharo-nosql/mongotalk) - Community Smalltalk driver
 
 ### Swift
+ - [MongoSwift ![GitHub Repo Stars](https://img.shields.io/github/stars/mongodb/mongo-swift-driver) ![GitHub last commit](https://img.shields.io/github/last-commit/mongodb/mongo-swift-driver)](https://github.com/mongodb/mongo-swift-driver) - Official MongoDB Swift driver (discontinued)
  - [MongoKitten ![GitHub Repo Stars](https://img.shields.io/github/stars/orlandos-nl/MongoKitten) ![GitHub last commit](https://img.shields.io/github/last-commit/orlandos-nl/MongoKitten)](https://github.com/orlandos-nl/MongoKitten) - Community asynchronous Swift driver
 
 ## Tools
