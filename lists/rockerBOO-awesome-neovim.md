@@ -428,6 +428,7 @@
 - [desdic/agrolens.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/desdic/agrolens.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/desdic/agrolens.nvim)](https://github.com/desdic/agrolens.nvim) - Navigate via Tree-sitter nodes using Telescope or FZF.
 - [IndianBoy42/tree-sitter-just ![GitHub Repo Stars](https://img.shields.io/github/stars/IndianBoy42/tree-sitter-just) ![GitHub last commit](https://img.shields.io/github/last-commit/IndianBoy42/tree-sitter-just)](https://github.com/IndianBoy42/tree-sitter-just) - Tree-sitter grammar for [Justfiles ![GitHub Repo Stars](https://img.shields.io/github/stars/casey/just) ![GitHub last commit](https://img.shields.io/github/last-commit/casey/just)](https://github.com/casey/just).
 - [fei6409/log-highlight.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/fei6409/log-highlight.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/fei6409/log-highlight.nvim)](https://github.com/fei6409/log-highlight.nvim) - Generic log syntax highlighting and log filetype management support.
+- [MeanderingProgrammer/treesitter-modules.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/MeanderingProgrammer/treesitter-modules.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/MeanderingProgrammer/treesitter-modules.nvim)](https://github.com/MeanderingProgrammer/treesitter-modules.nvim) - Original modules from nvim-treesitter master branch.
 
 <!--lint disable double-link -->
 
