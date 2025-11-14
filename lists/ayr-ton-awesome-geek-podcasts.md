@@ -283,7 +283,7 @@ A curated list of podcasts we like to listen to.
 * [Zone Of Front-Enders](https://zofe.com.br/) - Podcast com enfoque no desenvolvimento front-end da web.
 * [Zeno Overflow](https://soundcloud.com/zenorocha) - Uma série de perguntas e respostas ao vivo sobre tecnologia, carreira e a vida fora do Brasil.
 * [PH Santos Podcast](https://open.spotify.com/show/08zI81PqsvRqnzPvBElIKZ?si=8ca629191f074b25) - Podcast do Comunicador e Crítico de Cinema PH Santos, focado em séries e filmes.
-* [Olá, Gabs](https://open.spotify.com/show/094hX276k5lFzM8Ig2xpsl?si=8e20c3b64c1a4ce7) - Podcast sobre tecnologia de maneira bem humana. Reflexõe, histórias e tecnologia.
+* [Olá, Gabs](https://open.spotify.com/show/094hX276k5lFzM8Ig2xpsl?si=8e20c3b64c1a4ce7) - Podcast sobre tecnologia de maneira bem humana. Reflexõe, hist��rias e tecnologia.
 
 ## In Spanish
 
@@ -351,7 +351,7 @@ A curated list of podcasts we like to listen to.
 * [Les Cast Codeurs](https://lescastcodeurs.com) - Podcast provided from and for developers. Latest news on Java ecosystem and development in general. Hosted by  Emmanuel Bernard (JBoss, Hibernate), Arnaud Héritier (CloudBees, Jenkins), Guillaume Laforge (Google, Groovy), Antonio Goncalves (freelance, auteur), Vincent Massol (XWiki, Maven), Audrey Neveu (Saagie, Devoxx4Kids).
 * [Le podcast AWS en français](https://aws.amazon.com/fr/blogs/france/podcasts/) - le podcast qui parle d’AWS en français.
 * [Visual Studio Talk Show](http://visualstudiotalkshow.libsyn.com/) - French podcast talking about development with Microsoft technologies. Hosted by Mario Cardinal and Guy Barrette.
-* [IFTTD – If This Then Dev](https://ifttd.io/) - Weekly french podcast interviewing experts in various tech domains (AI, blockchain, security, devops,...). Hosted by Bruno Soulez.
+* [IFTTD ��� If This Then Dev](https://ifttd.io/) - Weekly french podcast interviewing experts in various tech domains (AI, blockchain, security, devops,...). Hosted by Bruno Soulez.
 * [Dev Café](https://dev-cafe.fr/) - Tous les lundis, retrouvez l'actualité tech' vue par un développeur ! Hosted by Edouard Marquez.
 * [Le podcast 🎙 AWS ☁️ en français 🇫🇷](https://stormacq.com/podcasts) - Tous les vendredis, l'actualité du cloud, des retours d'expérience, des outils qui aident les développeurs.
 * [S'informer sur la tech](https://www.abonnel.fr/podcasts/tech) - C'est Cédric Abonnel's blog audio, des vidéos et un wiki, traitant des technologies. Vous retrouverez mes expériences et Cédric Abonnel's découvertes sur la sécurité, l'informatique, le hack et les loisirs techniques.
