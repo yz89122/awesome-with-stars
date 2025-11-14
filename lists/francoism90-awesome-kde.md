@@ -205,7 +205,7 @@ Note: Customizations quickly become outdated, it is recommended to look in the [
 
 ## Documentation and Resources
 
-- [KDE Wikis](https://wiki.kde.org/) - The KDE wikis are a source of information and documentation for the KDE desktop, applications, teams, events and more ���.
+- [KDE Wikis](https://wiki.kde.org/) - The KDE wikis are a source of information and documentation for the KDE desktop, applications, teams, events and more 📌.
 - [KDE Invent](https://invent.kde.org/) - Discover KDE projects, groups and snippets 📌.
 - [KDE Bugtracker](https://bugs.kde.org/) - KDE's official Bugtracker 📌.
 - [ArchWiki](https://wiki.archlinux.org/index.php/KDE) - Arch Linux KDE Wiki.
