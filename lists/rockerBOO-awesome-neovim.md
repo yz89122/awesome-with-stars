@@ -1332,6 +1332,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 - [comatory/gh-co.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/comatory/gh-co.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/comatory/gh-co.nvim)](https://github.com/comatory/gh-co.nvim) - Show the code owner(s) for files according to GitHub's `CODEOWNERS` specification.
 - [3ZsForInsomnia/revman.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/3ZsForInsomnia/revman.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/3ZsForInsomnia/revman.nvim)](https://github.com/3ZsForInsomnia/revman.nvim) - Track PRs that need review automatically and open them in Octo.nvim.
 - [cd-4/git-needy.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/cd-4/git-needy.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/cd-4/git-needy.nvim)](https://github.com/cd-4/git-needy.nvim) - Keeps a tally of workflows that need to be reviewed in your statusbar.
+- [claydugo/browsher.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/claydugo/browsher.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/claydugo/browsher.nvim)](https://github.com/claydugo/browsher.nvim) - Create commit pinned links to GitHub hosted files/lines.
 
 ### GitLab
 
