@@ -6,13 +6,12 @@ Inspired by [awesome-awesomeness ![GitHub Repo Stars](https://img.shields.io/git
 If you want to contribute, please read the [contribution guidelines ![GitHub Repo Stars](https://img.shields.io/github/stars/tayllan/awesome-algorithms) ![GitHub last commit](https://img.shields.io/github/last-commit/tayllan/awesome-algorithms)](https://github.com/tayllan/awesome-algorithms/blob/master/CONTRIBUTING.md).
 
 - [Awesome Algorithms](#awesome-algorithms)
-    - [Beginner-Friendly Resources](#beginner-friendly-resources)
+    - [Beginner-Friendly](#beginner-friendly)
     - [Theory & Fundamentals](#theory--fundamentals)
-    - [Practical Learning & Visualization](#practical-learning--visualization)
-    - [Engineering & Advanced Topics](#engineering--advanced-topics)
-    - [Reference & Cheat Sheets](#reference--cheat-sheets)
-    - [Practice & Coding Challenges](#practice--coding-challenges)
-    - [Related Awesome Lists](#related-awesome-lists)
+    - [Programming Contest](#programming-contest)
+    - [Special Topic](#special-topic)
+    - [Cheat Sheet](#cheat-sheet)
+    - [Related Awesome List](#related-awesome-list)
 
 ## Beginner-Friendly
 
@@ -37,7 +36,6 @@ If you want to contribute, please read the [contribution guidelines ![GitHub Rep
 * [Introduction to Algorithms](https://mitpress.mit.edu/9780262046305/introduction-to-algorithms/) - Standard classic for anyone.
 * [The Art of Computer Programming](http://www-cs-faculty.stanford.edu/~uno/taocp.html) - Knuth's classic.
 * [The Algorithm Design Manual](http://www.algorist.com/) - Easy to read and full of real-world examples.
-* [Standford CS166](https://web.stanford.edu/class/cs166/) - Standford CS166, a course in the design, analysis, and implementation of data structures.
 
 ### Online Course
 * [MIT - 6-006](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/video_galleries/lecture-videos/) - Well explained algorithms.
@@ -69,7 +67,7 @@ If you want to contribute, please read the [contribution guidelines ![GitHub Rep
 * [Algorithms Weekly](https://petr-mitrichev.blogspot.com/) - A good blog by Petr Mitrichev, mainly in Java.
 * [Algorithm Tutorials by Tanuj Khattar](https://tanujkhattar.wordpress.com/) - Excellent blog by Tanuj Khattar. Covers tutorials on some interesting data structures along with example problems to solve.
 
-## Special Topics
+## Special Topic
 * [Grokking AI Algorithms, Second Edition](https://www.manning.com/books/grokking-ai-algorithms-second-edition) - A book that teaches the theory behind AI with beautifully simple illustrations, step-by-step pseudocode, and intuitive explanations that make the math simple.
 * [Fabulous Adventures in Data Structures and Algorithms](https://www.manning.com/books/fabulous-adventures-in-data-structures-and-algorithms) - It teaches lesser-known algorithmic approaches like immutable data structures—stacks, queues, deques, and unusual constructions like Hughes lists.
 
