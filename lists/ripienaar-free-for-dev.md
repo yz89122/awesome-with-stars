@@ -651,7 +651,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [TestCollab](https://testcollab.com) - A user-friendly test management software, its free plan includes Jira integration, unlimited projects, test case import using CSV/XLSx, time tracking, and 1 GB file storage.
   * [testingbot.com](https://testingbot.com/) — Selenium Browser and Device Testing, [free for Open Source](https://testingbot.com/open-source)
   * [Testspace.com](https://testspace.com/) - A Dashboard for publishing automated test results and a Framework for implementing manual tests as code using GitHub. The service is [free for Open Source ![GitHub Repo Stars](https://img.shields.io/github/stars/marketplace/testspace-com) ![GitHub last commit](https://img.shields.io/github/last-commit/marketplace/testspace-com)](https://github.com/marketplace/testspace-com) and accounts for 450 monthly results.
-  * [tesults.com](https://www.tesults.com) ��� Test results reporting and test case management. Integrates with popular test frameworks. Open Source software developers, individuals, educators, and small teams getting started can request discounted and free offerings beyond basic free projects.
+  * [tesults.com](https://www.tesults.com) — Test results reporting and test case management. Integrates with popular test frameworks. Open Source software developers, individuals, educators, and small teams getting started can request discounted and free offerings beyond basic free projects.
   * [UseWebhook.com](https://usewebhook.com) - Capture and inspect webhooks from your browser. Forward to localhost, or replay from history. Free to use.
   * [Vaadin](https://vaadin.com) — Build scalable UIs in Java or TypeScript, and use the integrated tooling, components, and design system to iterate faster, design better, and simplify the development process. Unlimited Projects with five years of free maintenance.
   * [websitepulse.com](https://www.websitepulse.com/tools/) — Various free network and server tools.
@@ -1638,6 +1638,7 @@ Update Time, five active automations, webhooks.
   * [Excalidraw](https://excalidraw.com/) -- A free online drawing document web page with free save to local and export support.
   * [Lunacy](https://icons8.com/lunacy) -- Free graphic design tool with offline support, built-in assets (icons, photos, illustrations), and real-time collaboration. The free tier includes 10 cloud documents, a 30-day history, low-res assets, and basic design tools.
   * [Flows](https://flows.sh/) -- A fully customizable product adoption platform for building onboarding and user engagement experiences. Free for up to 250 monthly tracked users.
+  * [SVG Converter](https://svgconverter.online/) -- Free JPG/PNG to SVG converter with color palette customization
 
 **[⬆️ Back to Top](#table-of-contents)**
 
