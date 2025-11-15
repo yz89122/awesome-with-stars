@@ -733,7 +733,7 @@ Claude Squad is a terminal app that manages multiple Claude Code, Codex (and oth
 Launch Claude Code session that is connected to a swarm of Claude Code Agents.
 
 <details>
-<summary>📊 GitHub Stats</summary>
+<summary>�� GitHub Stats</summary>
 
 ![GitHub Stats for claude-swarm](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=claude-swarm&username=parruda&all_stats=true&stats_only=true)
 
