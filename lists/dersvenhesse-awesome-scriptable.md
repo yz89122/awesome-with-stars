@@ -278,6 +278,8 @@
 
 - [location-location-location ![GitHub Repo Stars](https://img.shields.io/github/stars/doersino/scriptable-widgets) ![GitHub last commit](https://img.shields.io/github/last-commit/doersino/scriptable-widgets)](https://github.com/doersino/scriptable-widgets/tree/main/location-location-location) - Show Google Maps image from current location.
 
+- [Toronto Bike Share ![GitHub Repo Stars](https://img.shields.io/github/stars/alexboden/toronto-bike-share-status) ![GitHub last commit](https://img.shields.io/github/last-commit/alexboden/toronto-bike-share-status)](https://github.com/alexboden/toronto-bike-share-status/blob/main/compact-widget.js) - Show availabilites of the Toronto Bike Share.
+
 ## Related
 
 ### Download helper
