@@ -393,7 +393,7 @@ A broader project management workflow for Claude Code that encompasses not just 
 > **Tooling** denotes applications that are built on top of Claude Code and consist of more components than slash-commands and `CLAUDE.md` files
 
 <details open>
-<summary><h3>General <a href="#awesome-claude-code">🔝</a></h3></summary>
+<summary><h3>General <a href="#awesome-claude-code">��</a></h3></summary>
 
 [`cc-sessions` ![GitHub Repo Stars](https://img.shields.io/github/stars/GWUDCAP/cc-sessions) ![GitHub last commit](https://img.shields.io/github/last-commit/GWUDCAP/cc-sessions)](https://github.com/GWUDCAP/cc-sessions) &nbsp; by &nbsp; [toastdev](https://github.com/satoastshi)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
 An opinionated approach to produce development with Claude Code
