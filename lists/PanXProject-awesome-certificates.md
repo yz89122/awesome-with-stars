@@ -114,7 +114,7 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 | <a href="https://university.mongodb.com/courses/M201/about" target="_blank" rel="noopener noreferrer">MongoDB Performance</a> | MongoDB |Intermediate| 7 | 🏆|
 | <a href="https://university.mongodb.com/courses/M220J/about" target="_blank" rel="noopener noreferrer">MongoDB for Java Developers</a> | MongoDB |Intermediate| 7.5 | 🏆|
 | <a href="https://university.mongodb.com/courses/M220JS/about" target="_blank" rel="noopener noreferrer">MongoDB for JavaScript Developers</a> | MongoDB |Intermediate| 6.5 | 🏆|
-| <a href="https://university.mongodb.com/courses/M220N/about" target="_blank" rel="noopener noreferrer">MongoDB for .NET Developers</a> | MongoDB |Intermediate| 6.5 | 🏆|
+| <a href="https://university.mongodb.com/courses/M220N/about" target="_blank" rel="noopener noreferrer">MongoDB for .NET Developers</a> | MongoDB |Intermediate| 6.5 | ���|
 | <a href="https://university.mongodb.com/courses/M220P/about" target="_blank" rel="noopener noreferrer">MongoDB for Python Developers</a> | MongoDB |Intermediate| 6.5 | 🏆|
 | <a href="https://university.mongodb.com/courses/M312/about" target="_blank" rel="noopener noreferrer">Diagnostics and Debugging for MongoDB</a> | MongoDB |Professional| 6.5 | 🏆|
 | <a href="https://university.mongodb.com/courses/M320/about" target="_blank" rel="noopener noreferrer">MongoDB Data Modeling</a> | MongoDB |Professional| 7 | 🏆|
