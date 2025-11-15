@@ -3,6 +3,14 @@
 <!-- SEE THE CONTRIBUTING GUIDE (`CONTRIBUTING.md`) FOR MORE GUIDANCE -->
 <!-- YOU MAY IGNORE THIS MESSAGE IF YOU ARE EDITING `README-template.j2` -->
 
+<div align="center">
+  <div>
+    <a href="https://go.warp.dev/awesome-for-beginners">
+      <img alt="Thanks to Warp.dev for sponsoring this repository through a donation to a charity of my choice." src="https://raw.githubusercontent.com/warpdotdev/brand-assets/refs/heads/main/Github/Warp%20Packs/Warp-Github-SM-01.jpg">
+    </a>
+  </div>
+</div>
+
 # Awesome First Pull Request Opportunities [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 Inspired by [First Timers Only](https://kentcdodds.com/blog/first-timers-only) blog post.
@@ -287,7 +295,7 @@ If you would like to be guided through how to contribute to a repository on GitH
 - [mitmproxy ![GitHub Repo Stars](https://img.shields.io/github/stars/mitmproxy/mitmproxy) ![GitHub last commit](https://img.shields.io/github/last-commit/mitmproxy/mitmproxy)](https://github.com/mitmproxy/mitmproxy) _(label: help-wanted)_ <br> An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers
 - [mygpo ![GitHub Repo Stars](https://img.shields.io/github/stars/gpodder/mygpo) ![GitHub last commit](https://img.shields.io/github/last-commit/gpodder/mygpo)](https://github.com/gpodder/mygpo) _(label: starter-issue)_ <br> The webservice for gpodder.net, a libre web service that allows users to manage their podcast subscriptions and discover new content.
 - [mypy ![GitHub Repo Stars](https://img.shields.io/github/stars/python/mypy) ![GitHub last commit](https://img.shields.io/github/last-commit/python/mypy)](https://github.com/python/mypy) _(label: good first issue)_ <br> Optional static typing for Python.
-- [OMRChecker ![GitHub Repo Stars](https://img.shields.io/github/stars/Udayraj123/OMRChecker) ![GitHub last commit](https://img.shields.io/github/last-commit/Udayraj123/OMRChecker)](https://github.com/Udayraj123/OMRChecker) _(label: good first issue)_ <br> OMRChecker helps to grade exams fast and accurately using a scanner 🖨 or your phone ����. Learn image processing with Python and OpenCV while contributing to one of the most popular repositories related to OMR topic on github.
+- [OMRChecker ![GitHub Repo Stars](https://img.shields.io/github/stars/Udayraj123/OMRChecker) ![GitHub last commit](https://img.shields.io/github/last-commit/Udayraj123/OMRChecker)](https://github.com/Udayraj123/OMRChecker) _(label: good first issue)_ <br> OMRChecker helps to grade exams fast and accurately using a scanner 🖨 or your phone 🤳. Learn image processing with Python and OpenCV while contributing to one of the most popular repositories related to OMR topic on github.
 - [OpenMetadata ![GitHub Repo Stars](https://img.shields.io/github/stars/open-metadata/OpenMetadata) ![GitHub last commit](https://img.shields.io/github/last-commit/open-metadata/OpenMetadata)](https://github.com/open-metadata/OpenMetadata) _(label: good first issue)_ <br> OpenMetadata is an all-in-one platform for data discovery, data quality, observability, governance, data lineage, and team collaboration.
 - [Oppia ![GitHub Repo Stars](https://img.shields.io/github/stars/oppia/oppia) ![GitHub last commit](https://img.shields.io/github/last-commit/oppia/oppia)](https://github.com/oppia/oppia) _(label: good first issue)_ <br> Oppia is an open-source project whose aim is to empower learners across the globe by providing access to high-quality, engaging education. We envision a society in which access to high-quality education is a human right rather than a privilege.
 - [opsdroid ![GitHub Repo Stars](https://img.shields.io/github/stars/opsdroid/opsdroid) ![GitHub last commit](https://img.shields.io/github/last-commit/opsdroid/opsdroid)](https://github.com/opsdroid/opsdroid) _(label: good first issue)_ <br> An open source chat-ops bot framework.
@@ -385,6 +393,8 @@ If you would like to be guided through how to contribute to a repository on GitH
 Contributions are welcome! See the [contributing guidelines](CONTRIBUTING.md).
 
 ## Thanks to GitHub Sponsors
+
+Thanks to Warp.dev for sponsoring this repository through a donation to a charity of my choice.
 
 <table><tr><td align="center"><a href="https://github.com/MixeroTN"><img src="https://avatars.githubusercontent.com/u/40803091" width="60px;" alt=""/><br/><sub><b>Michał Gołkowski</b></sub></a></td></tr></table>
 
