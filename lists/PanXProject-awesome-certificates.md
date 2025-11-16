@@ -462,7 +462,7 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
 | <a href="https://www.netacad.com/courses/programming/pcap-programming-essentials-python" target="_blank" rel="noopener noreferrer">Programming Essentials In Python</a> | Cisco Networking Academy |Intermediate| 70 | 🏆 |
 | <a href="https://www.freecodecamp.org/learn/scientific-computing-with-python/" target="_blank" rel="noopener noreferrer">Scientific Computing with Python Certification</a> | FreeCodeCamp |Professional|300 | 🏆|
-| <a href="https://www.hackerrank.com/skills-verification/python_basic" target="_blank" rel="noopener noreferrer">Python</a> | HackerRank |Beginner| 1.5 | 🏆|
+| <a href="https://www.hackerrank.com/skills-verification/python_basic" target="_blank" rel="noopener noreferrer">Python</a> | HackerRank |Beginner| 1.5 | ����|
 | <a href="https://memgraph.com/blog/learn-graph-analytics-with-python" target="_blank" rel="noopener noreferrer">Intro to Graph Analytics in Python free course</a> | Memgraph |Intermediate| 3 | 🏅|
 | <a href="https://www.kaggle.com/learn/python" target="_blank" rel="noopener noreferrer">Python</a>                                        | Kaggle          | Beginner      | 5     | 🏆     |
 | <a href="https://www.kaggle.com/learn/pandas" target="_blank" rel="noopener noreferrer">Pandas</a>                                      | Kaggle          | Beginner      | 4     | 🏆     |
