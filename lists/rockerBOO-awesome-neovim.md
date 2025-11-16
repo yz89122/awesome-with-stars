@@ -768,6 +768,7 @@ Tree-sitter is a new system introduced in Neovim 0.5 that incrementally parses y
 - [pmouraguedes/neodarcula.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/pmouraguedes/neodarcula.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/pmouraguedes/neodarcula.nvim)](https://github.com/pmouraguedes/neodarcula.nvim) - A dark theme with support for transparency, dimming, LSP semantic tokens and more.
 - [jpwol/thorn.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/jpwol/thorn.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/jpwol/thorn.nvim)](https://github.com/jpwol/thorn.nvim) - A rich green theme with dark and light options. Supports LSP, transparency, many plugins, and more.
 - [calind/selenized.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/calind/selenized.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/calind/selenized.nvim)](https://github.com/calind/selenized.nvim) - Lua port of [selenized ![GitHub Repo Stars](https://img.shields.io/github/stars/jan-warchol/selenized) ![GitHub last commit](https://img.shields.io/github/last-commit/jan-warchol/selenized)](https://github.com/jan-warchol/selenized) with support for Tree-sitter, `nvim-cmp`, GitSigns, and more.
+- [motaz-shokry/gruvbox.nvim](https://gitlab.com/motaz-shokry/gruvbox.nvim) - A new gruvbox theme with a different background color for the hard variant, and comes with 4 variants.
 
 ### Lua Colorscheme
 
