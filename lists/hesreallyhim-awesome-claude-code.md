@@ -733,7 +733,7 @@ Claude Squad is a terminal app that manages multiple Claude Code, Codex (and oth
 Launch Claude Code session that is connected to a swarm of Claude Code Agents.
 
 <details>
-<summary>📊 GitHub Stats</summary>
+<summary>�� GitHub Stats</summary>
 
 ![GitHub Stats for claude-swarm](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=claude-swarm&username=parruda&all_stats=true&stats_only=true)
 
@@ -931,7 +931,7 @@ Very well-written set of hooks for code quality and tool usage regulation (e.g. 
 A hooks-driven system that monitors file operations in real-time and blocks changes that violate TDD principles.
 
 <details>
-<summary>�� GitHub Stats</summary>
+<summary>📊 GitHub Stats</summary>
 
 ![GitHub Stats for tdd-guard](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=tdd-guard&username=nizos&all_stats=true&stats_only=true)
 
