@@ -56,7 +56,7 @@ When possible, all reports will be sourced from their original authors and uploa
     - [Policy and Advocacy](#policy-and-advocacy)
     - [Working Groups](#working-groups)
     - [Government and Non-profits](#government-and-non-profits)
-- [Contributing](#contributing)
+- [How to Contribute](#how-to-contribute)
 <!-- /TOC -->
 
 ## Overview
@@ -68,6 +68,14 @@ Reports are organized into two main categories based on their data sources:
 The most recent versions of reports are listed below. Older editions are preserved in their corresponding yearly directories. Reports from sources that have not been updated in the last three years will no longer appear in this `README.md` but will remain accessible in the respective year's directory.
 
 Reports are organized by their primary focus. Although many reports span multiple topics, this classification provides a clearer structure. Within each topic, reports are listed alphabetically.
+
+## How to Contribute
+
+The easiest way to contribute is to suggest a report. If you've found a valuable annual security report that isn't on our list, please let us know!
+
+<a href="https://github.com/jacobdjwilson/awesome-annual-security-reports/issues/new/choose" target="_blank">
+  <img src="https://img.shields.io/badge/Suggest%20a%20New%20Report-brightgreen?style=for-the-badge&logo=github" alt="Suggest a New Report" />
+</a>
 
 ## Analysis Reports
 
@@ -111,6 +119,7 @@ Reports are organized by their primary focus. Although many reports span multipl
 - [Orange Cyber Defense](https://www.orangecyberdefense.com/global/security-navigator) - [Security Navigator](Annual%20Security%20Reports/2025/OrangeCyberDefense-Security-Navigator-2025.pdf) (2025) - Analyzes the evolving cybersecurity threat landscape and proactive mitigation strategies. Key findings reveal a rise in cyber extortion, AI-driven attacks, and threats to operational and mobile networks, necessitating innovative defensive adaptations.
 - [Picus](https://www.picussecurity.com/red-report) - [Red Report](Annual%20Security%20Reports/2025/Picus-RedReport-2025.pdf) (2025) - Analyzes the ten most prevalent MITRE ATT&CK® techniques used by threat actors. Key findings reveal a high prevalence of techniques related to process injection, command execution, and credential harvesting, highlighting the persistent reliance on established attack vectors.
 - [Rapid7](https://www.rapid7.com/research/report/2024-attack-intelligence-report/) - [Attack Intelligence Report](Annual%20Security%20Reports/2024/Rapid7-Attack-Intelligence-Report-2024.pdf) (2024) - Analyzes vulnerability exploitation trends and ransomware attack vectors in 2023. Key findings reveal a rise in pre-patch exploitation and the continued prevalence of file transfer protocol vulnerabilities as initial access vectors for ransomware.
+- [Rapid7](https://www.rapid7.com/lp/initial-access-brokers-report/) - [Initial Access Brokers Report](Annual%20Security%20Reports/2025/Rapid7-Initial-Access-Brokers-Report-2025.pdf) (2025) - Focuses on the Initial Access Broker (IAB) landscape by analyzing activity on Exploit, XSS, and BreachForums. The analysis reveals that most access broker sales include a level of privilege, with VPN and Domain User access being the most popular vectors, and the average base price for access ranging from $500 to $1,000.
 - [Recorded Future](https://www.recordedfuture.com/research/2024-annual-report) - [Cyber Threat Analysis Report](Annual%20Security%20Reports/2024/RecordedFuture-Cyber-Threat-Analysis-Report-2024.pdf) (2024) - Analyzes the impact of SaaS application proliferation on cyberattacks in 2024. Key findings reveal the significant role of stolen credentials and MFA failures in data breaches, alongside the increased use of generative AI in influence operations and a rise in ransomware variants.
 - [RedCanary](https://redcanary.com/threat-detection-report/) - [Threat Detection Report](Annual%20Security%20Reports/2025/RedCanary-Threat-Detection-Report-2025.pdf) (2025) - Analyzes emerging threat detection trends in 2025, focusing on ransomware, initial access vectors, and identity-based attacks. Key findings reveal a significant increase in API abuse within cloud environments and the growing sophistication of AI-powered adversary emulation techniques.
 - [ReliaQuest](https://www.reliaquest.com/resources/research-reports/annual-threat-report-2025/) - [Annual Threat Report](Annual%20Security%20Reports/2025/ReliaQuest-Annual-Threat-Report-2025.pdf) (2025) - Analyzes 2024 cyber-threat trends, focusing on initial access tactics and their effectiveness. Key findings reveal inadequate logging as the root cause of most breaches, with session hijacking bypassing multi-factor authentication in all successful business email compromise incidents.
@@ -375,6 +384,3 @@ The categories below highlight the diverse roles these organizations play in bui
 - [National Institute of Standards and Technology (NIST)](https://www.nist.gov/cybersecurity) - A U.S. agency that develops cybersecurity standards and guidelines.
 - [Norwegian National Security Authority (NSM)](https://nsm.no/en/) - Norway's expert body for information and object security, providing guidance and incident response capabilities.
 - [Singapore Cyber Security Agency (CSA)](https://www.csa.gov.sg/) - Singapore's national agency overseeing cybersecurity strategy and development.
-
-## Contributing
-[Please refer to the guidelines at CONTRIBUTING.md for details](CONTRIBUTING.md).
