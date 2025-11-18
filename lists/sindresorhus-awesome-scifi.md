@@ -72,7 +72,7 @@ This intense linguistic thriller will change the way you think about language. -
   > Babel-17 is all about the power of language. Humanity, which has spread throughout the universe, is involved in a war with the Invaders, who have been covertly assassinating officials and sabotaging spaceships. The only clues humanity has to go on are strange alien messages that have been intercepted in space. Poet and linguist Rydra Wong is determined to understand the language and stop the alien threat.
 </details>
 
-#### [Barsoom series](https://www.goodreads.com/series/43942-barsoom) (1912-1927) _by [Edgar Rice Burroughs](https://en.wikipedia.org/wiki/Edgar_Rice_Burroughs)_ [3.8] ���
+#### [Barsoom series](https://www.goodreads.com/series/43942-barsoom) (1912-1927) _by [Edgar Rice Burroughs](https://en.wikipedia.org/wiki/Edgar_Rice_Burroughs)_ [3.8] 🌟
 
 Now more than a century old, has that unique writing style you can only find in adventure classics. - [@uraimo](https://github.com/uraimo)
 
@@ -333,7 +333,7 @@ This book has a banger name. The story of a conman wizard who's not really a wiz
 
 #### [Red Dwarf](https://www.goodreads.com/book/show/70956.Red_Dwarf_Omnibus) (1989) _by [Grant Naylor](https://en.wikipedia.org/wiki/Grant_Naylor)_ [4.3]
 
-Actually four books by two authors. It was made into a TV series but the books should be consumed instead. Very high quality over the top deep space trouble with anti-hero Lister and his crew. - [@montao](https://github.com/montao)
+Actually four books by two authors. Based on the TV series of the same name, but the books should be consumed instead. Very high quality over the top deep space trouble with anti-hero Lister and his crew. - [@montao](https://github.com/montao)
 
 <details>
   <summary>Description</summary>
