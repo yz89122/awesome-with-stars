@@ -2044,6 +2044,7 @@ for the creation of web applications developed with Angular.
 * [c3-components ![GitHub Repo Stars](https://img.shields.io/github/stars/c3ulnta0rk/c3-components) ![GitHub last commit](https://img.shields.io/github/last-commit/c3ulnta0rk/c3-components)](https://github.com/c3ulnta0rk/c3-components) - An open-source component library that extends the `@angular/material` library.
 * [simplematcomponents ![GitHub Repo Stars](https://img.shields.io/github/stars/wobkenh/simplematcomponents) ![GitHub last commit](https://img.shields.io/github/last-commit/wobkenh/simplematcomponents)](https://github.com/wobkenh/simplematcomponents) - Set of Angular components that fit into or use Angular Material Design.
 * [Angular Material Dev UI](https://ui.angular-material.dev/home) - One place stop for developers to explore components and blocks for their Angular Material and Tailwind CSS based applications.
+* [nmce ![GitHub Repo Stars](https://img.shields.io/github/stars/zijianhuang/nmce) ![GitHub last commit](https://img.shields.io/github/last-commit/zijianhuang/nmce)](https://github.com/zijianhuang/nmce) – A suite of Angular Material Component Extensions delivering reusable code and UI enhancements for complex business applications with rich data structures, intensive GUIs, and complex workflows.
 
 ### UI Libraries built on Tailwind CSS
 
@@ -2248,6 +2249,7 @@ for the creation of web applications developed with Angular.
 
 ### Wrappers
 
+* [angular-calendly ![GitHub Repo Stars](https://img.shields.io/github/stars/tolutronics/angular-calendly) ![GitHub last commit](https://img.shields.io/github/last-commit/tolutronics/angular-calendly)](https://github.com/tolutronics/angular-calendly) - A modern Angular library that provides standalone components for embedding [Calendly](https://calendly.com/) scheduling widgets.
 * [angular-email-editor ![GitHub Repo Stars](https://img.shields.io/github/stars/unlayer/angular-email-editor) ![GitHub last commit](https://img.shields.io/github/last-commit/unlayer/angular-email-editor)](https://github.com/unlayer/angular-email-editor) - Drag-n-drop email editor by [Unlayer](https://unlayer.com/embed) as an Angular wrapper component.
 * [angular-three ![GitHub Repo Stars](https://img.shields.io/github/stars/angular-threejs/angular-three) ![GitHub last commit](https://img.shields.io/github/last-commit/angular-threejs/angular-three)](https://github.com/angular-threejs/angular-three) - Angular Renderer for [THREE.js ![GitHub Repo Stars](https://img.shields.io/github/stars/mrdoob/three.js) ![GitHub last commit](https://img.shields.io/github/last-commit/mrdoob/three.js)](https://github.com/mrdoob/three.js).
 * [chat-widget-adapters ![GitHub Repo Stars](https://img.shields.io/github/stars/livechat/chat-widget-adapters) ![GitHub last commit](https://img.shields.io/github/last-commit/livechat/chat-widget-adapters)](https://github.com/livechat/chat-widget-adapters) - Angular wrapper for the [LiveChat](https://developers.livechat.com/) Chat Widget (JavaScript API).
