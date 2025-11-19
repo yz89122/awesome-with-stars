@@ -178,7 +178,7 @@ I think what is most fascinating about Dune isn't that it is so commonly read, b
 <details>
   <summary>Description</summary>
 
-  > Set in the far future amidst a sprawling feudal interstellar empire where planetary dynasties are controlled by noble houses that owe an allegiance to the imperial House Corrino, _Dune_ tells the story of young Paul Atreides (the heir apparent to Duke Leto Atreides and heir of House Atreides) as he and his family accept control of the desert planet Arrakis, the only source of the “spice” melange, the most important and valuable substance in the cosmos. The story explores the complex, multilayered interactions of politics, religion, ecology, technology and human emotion, as the forces of the empire confront each other for control of Arrakis.
+  > Set in the far future amidst a sprawling feudal interstellar empire where planetary dynasties are controlled by noble houses that owe an allegiance to the imperial House Corrino, _Dune_ tells the story of young Paul Atreides (the heir apparent to Duke Leto Atreides and heir of House Atreides) as he and his family accept control of the desert planet Arrakis, the only source of the “spice�� melange, the most important and valuable substance in the cosmos. The story explores the complex, multilayered interactions of politics, religion, ecology, technology and human emotion, as the forces of the empire confront each other for control of Arrakis.
   >
   > Published in 1965, it won the Hugo Award in 1966 and the inaugural Nebula Award for Best Novel. _Dune_ is frequently cited as the world’s best-selling SF novel.
 </details>
@@ -975,7 +975,7 @@ Idea-driven scifi about a tech-savvy movement of "walkaways", disenchanted peopl
 
   > In a world of non-work, ruined by human-created climate change and pollution, and where people are under surveillance and ruled over by a mega-rich elite, Hubert, Etc, his friend Seth, and Natalie, decide that they have nothing to lose by turning their backs and walking away from the everyday world or "default reality".
   >
-  > With the advent of 3D printing – and especially the ability to use these to fabricate even better fabricators ��� and with machines that can search for and reprocess waste or discarded materials, they no longer have need of Default for the basic essentials of life, such as food, clothing and shelter.
+  > With the advent of 3D printing – and especially the ability to use these to fabricate even better fabricators – and with machines that can search for and reprocess waste or discarded materials, they no longer have need of Default for the basic essentials of life, such as food, clothing and shelter.
   >
   > As more and more people choose to "walkaway", the ruling elite do not take these social changes sitting down. They use the military, police and mercenaries to attack and disrupt the walkaways' new settlements.
   >
