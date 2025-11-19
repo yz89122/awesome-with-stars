@@ -251,7 +251,6 @@ Converters from various static schedule formats to and from GTFS.
 
 #### GTFS Realtime (and Other Real-time API) Archival Tools
 
-- [GTFS-realtime to SQL ![GitHub Repo Stars](https://img.shields.io/github/stars/OpenMobilityData/GtfsRealTimeToSql) ![GitHub last commit](https://img.shields.io/github/last-commit/OpenMobilityData/GtfsRealTimeToSql)](https://github.com/OpenMobilityData/GtfsRealTimeToSql) - Parses a GTFS-RealTime feed into an SQL database (used in [OpenMobilityData.org](https://openmobilitydata.org))
 - [gtfsrdb ![GitHub Repo Stars](https://img.shields.io/github/stars/CUTR-at-USF/gtfsrdb) ![GitHub last commit](https://img.shields.io/github/last-commit/CUTR-at-USF/gtfsrdb)](https://github.com/CUTR-at-USF/gtfsrdb) - A Python tool that supports reading and archiving GTFS-realtime feeds into a database
 - [retro-gtfs ![GitHub Repo Stars](https://img.shields.io/github/stars/SAUSy-Lab/retro-gtfs) ![GitHub last commit](https://img.shields.io/github/last-commit/SAUSy-Lab/retro-gtfs)](https://github.com/SAUSy-Lab/retro-gtfs) - A Python application that collects real-time data from the Nextbus API and archives it into the GTFS format (i.e., retrospective GTFS).
 - [Transi](https://gitlab.com/cutr-at-usf/transi) - A Cloud-native GTFS-RT/GTFS archiving system.
@@ -371,6 +370,7 @@ Software that you can set up to provide an API to transit and multimodal data.
 - [Simple Transit Api ![GitHub Repo Stars](https://img.shields.io/github/stars/ioTransit/simple-transit-api) ![GitHub last commit](https://img.shields.io/github/last-commit/ioTransit/simple-transit-api)](https://github.com/ioTransit/simple-transit-api) - A simple way to get started with a GTFS api in Golang.
 - [TransitClock](https://thetransitclock.github.io/) - Java application that can consume raw vehicle positions and generate prediction times in formats such as GTFS-realtime.  Formerly known as "Transitime".
 - [Transitous](https://transitous.org) - Community-run free and open public transport routing service.
+- [Iran Railway-Trains ![GitHub Repo Stars](https://img.shields.io/github/stars/keyone2693/IRTrainDotNet) ![GitHub last commit](https://img.shields.io/github/last-commit/keyone2693/IRTrainDotNet)](https://github.com/keyone2693/IRTrainDotNet) - Iran Railway-Trains (Raja-Fadak-Safir) all in one package for DotNet (Api-WebService)
   
 
 ## Sharing Data
@@ -515,6 +515,7 @@ Experimental and production transit hardware.
 - [Traze](https://traze.app/) by [Veridict](https://www.veridict.com) - Visualization of public transport vehicles from all over the world. Collaborate with other users to get real-time updates even when it is not available from the agency. Based on a number of sources, including GTFS and GTFS-RT. (Previously known as Livemap24). 
 - [Visualizing MBTA Data](http://mbtaviz.github.io/) - Interactive graphs that show how people use Boston's subway system.
 - [GTFS Viz 🚉 ![GitHub Repo Stars](https://img.shields.io/github/stars/gabrielAHN/gtfs-viz) ![GitHub last commit](https://img.shields.io/github/last-commit/gabrielAHN/gtfs-viz)](https://github.com/gabrielAHN/gtfs-viz) - A web app that visualizes GTFS Data on the browser at scale without a backend on the client side using [duckdb-wasm 🦆](https://duckdb.org/docs/api/wasm/overview.html).
+- [QGIS - GTFS plugins](https://plugins.qgis.org/search/?q=gtfs) - List of plugins for GTFS in QGIS
 
 #### Transit Map Creation
 - [Brand New Subway](https://jpwright.github.io/subway/) - An interactive transportation planning game that lets players alter the NYC subway system to their heart's content.
@@ -611,6 +612,7 @@ Places to ask questions and find other community resources.
 - [Transit Techies NYC](https://transittechies.nyc/) - NYC-based in-person/online hybrid meetup. [Speaker list](https://transittechies.nyc/past) includes many contributors to this repo.
 - [German Open Transport Meetup ![GitHub Repo Stars](https://img.shields.io/github/stars/transportkollektiv/meetup) ![GitHub last commit](https://img.shields.io/github/last-commit/transportkollektiv/meetup)](https://github.com/transportkollektiv/meetup/wiki) - [Biweekly](https://hackmd.okfn.de/opentransportmeetup#) online meetup of the German-speaking open transport community.
 - [German Open Transport Data Quality Meetup ![GitHub Repo Stars](https://img.shields.io/github/stars/transportkollektiv/meetup) ![GitHub last commit](https://img.shields.io/github/last-commit/transportkollektiv/meetup)](https://github.com/transportkollektiv/meetup/wiki) - Bimonthly online meetup of the German-speaking open transport community dedicated to data quality.
+- [Open Train Community ![GitHub Repo Stars](https://img.shields.io/github/stars/hasadna/OpenTrainCommunity) ![GitHub last commit](https://img.shields.io/github/last-commit/hasadna/OpenTrainCommunity)](https://github.com/hasadna/OpenTrainCommunity) - Opentrain repository for community data analysis of Israel Railways train delay data.
 
 ### Research and Commentary
 
