@@ -1,6 +1,6 @@
 <div align="center" style="margin: 12px">
   <a href="https://en.wikipedia.org/wiki/Digital_product_design">
-    <img src="https://github.com/ttt30ga/awesome-product-design/raw/main/images/apd-icon.png" width="140">
+    <img src="https://github.com/ttt30ga/awesome-product-design/raw/master/images/apd-icon.png" width="140">
   </a>
 </div>
 
