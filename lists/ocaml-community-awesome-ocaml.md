@@ -334,7 +334,7 @@ With the introduction of [Effect Handlers](https://ocaml.org/manual/effects.html
 - [Uucp ![GitHub Repo Stars](https://img.shields.io/github/stars/dbuenzli/uucp) ![GitHub last commit](https://img.shields.io/github/last-commit/dbuenzli/uucp)](https://github.com/dbuenzli/uucp) — Unicode character properties for OCaml.
 - [Uunf ![GitHub Repo Stars](https://img.shields.io/github/stars/dbuenzli/uunf) ![GitHub last commit](https://img.shields.io/github/last-commit/dbuenzli/uunf)](https://github.com/dbuenzli/uunf) — Unicode text normalization for OCaml.
 - [Uuseg ![GitHub Repo Stars](https://img.shields.io/github/stars/dbuenzli/uuseg) ![GitHub last commit](https://img.shields.io/github/last-commit/dbuenzli/uuseg)](https://github.com/dbuenzli/uuseg) — Unicode text segmentation for OCaml.
-- [Uutf ![GitHub Repo Stars](https://img.shields.io/github/stars/dbuenzli/uutf) ![GitHub last commit](https://img.shields.io/github/last-commit/dbuenzli/uutf)](https://github.com/dbuenzli/uutf) �� Non-blocking streaming Unicode codec for OCaml.
+- [Uutf ![GitHub Repo Stars](https://img.shields.io/github/stars/dbuenzli/uutf) ![GitHub last commit](https://img.shields.io/github/last-commit/dbuenzli/uutf)](https://github.com/dbuenzli/uutf) — Non-blocking streaming Unicode codec for OCaml.
 
 
 ## User Interface
@@ -568,7 +568,7 @@ With the introduction of [Effect Handlers](https://ocaml.org/manual/effects.html
 
 - [atdgen ![GitHub Repo Stars](https://img.shields.io/github/stars/ahrefs/atd) ![GitHub last commit](https://img.shields.io/github/last-commit/ahrefs/atd)](https://github.com/ahrefs/atd) — A serialization compiler for multiple languages (OCaml, Java, Python, Scala, Typescript) with a Binou or JSON format
 - [bencode ![GitHub Repo Stars](https://img.shields.io/github/stars/rgrinberg/bencode) ![GitHub last commit](https://img.shields.io/github/last-commit/rgrinberg/bencode)](https://github.com/rgrinberg/bencode) — Bencode (.torrent file format) reader/writer.
-- [biniou ![GitHub Repo Stars](https://img.shields.io/github/stars/mjambon/biniou) ![GitHub last commit](https://img.shields.io/github/last-commit/mjambon/biniou)](https://github.com/mjambon/biniou) ��� Extensible binary data format, like JSON but faster.
+- [biniou ![GitHub Repo Stars](https://img.shields.io/github/stars/mjambon/biniou) ![GitHub last commit](https://img.shields.io/github/last-commit/mjambon/biniou)](https://github.com/mjambon/biniou) – Extensible binary data format, like JSON but faster.
 - [cbor ![GitHub Repo Stars](https://img.shields.io/github/stars/ygrek/ocaml-cbor) ![GitHub last commit](https://img.shields.io/github/last-commit/ygrek/ocaml-cbor)](https://github.com/ygrek/ocaml-cbor) —  OCaml native [CBOR](https://cbor.io/) decoder/encoder.
 - [jsonm](http://erratique.ch/software/jsonm) — Non-blocking streaming JSON codec for OCaml.
 - [xmlm](http://erratique.ch/software/xmlm) — A streaming codec to decode and encode the XML data format.
