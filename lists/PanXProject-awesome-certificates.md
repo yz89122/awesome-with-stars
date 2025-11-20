@@ -262,7 +262,7 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 
 | Course Name | Course Provider | Level | Hour(s) | Reward |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
-| <a href="https://cognitiveclass.ai/courses/data-analysis-python" target="_blank" rel="noopener noreferrer">Data Analysis with Python</a> | IBM / Cognitive Class |Intermediate|3 | <a href="https://www.youracclaim.com/org/ibm/badge/data-analysis-using-python" target="_blank" rel="noopener noreferrer">🏅</a>|
+| <a href="https://cognitiveclass.ai/courses/data-analysis-python" target="_blank" rel="noopener noreferrer">Data Analysis with Python</a> | IBM / Cognitive Class |Intermediate|3 | <a href="https://www.youracclaim.com/org/ibm/badge/data-analysis-using-python" target="_blank" rel="noopener noreferrer">����</a>|
 | <a href="https://www.freecodecamp.org/learn/data-analysis-with-python/" target="_blank" rel="noopener noreferrer">Data Analysis with Python Certification</a> | FreeCodeCamp |Professional|300 | 🏆|
 | <a href="https://cognitiveclass.ai/courses/data-visualization-with-python" target="_blank" rel="noopener noreferrer">Data Visualization with Python</a> | IBM / Cognitive Class |Intermediate|3 | <a href="https://www.youracclaim.com/org/ibm/badge/data-visualization-using-python" target="_blank" rel="noopener noreferrer">🏅</a>|
 | <a href="https://cognitiveclass.ai/courses/data-visualization-with-r/" target="_blank" rel="noopener noreferrer">Data Visualization with R</a> | IBM / Cognitive Class |Beginner|3 | <a href="https://www.youracclaim.com/org/ibm/badge/data-visualization-with-r" target="_blank" rel="noopener noreferrer">🏅</a>|

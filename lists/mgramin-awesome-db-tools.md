@@ -318,7 +318,7 @@ Low-code and no-code platforms for application building
 
 ## DevOps
 - [DBmaestro](https://www.dbmaestro.com) - Accelerates release cycles & supports agility across the entire IT ecosystem.
-- [Toad DevOps Toolkit](https://www.quest.com/products/toad-devops-toolkit/) - Executes key database development functions within your DevOps workflow ���without compromising quality, performance or reliability.
+- [Toad DevOps Toolkit](https://www.quest.com/products/toad-devops-toolkit/) - Executes key database development functions within your DevOps workflow —without compromising quality, performance or reliability.
 
 
 ## Reporting
