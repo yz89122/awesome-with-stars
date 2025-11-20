@@ -29,7 +29,7 @@
 - [Fork announcement](https://opentofu.org/announcement)
 - [Registry ![GitHub Repo Stars](https://img.shields.io/github/stars/opentofu/registry) ![GitHub last commit](https://img.shields.io/github/last-commit/opentofu/registry)](https://github.com/opentofu/registry)
 - [Registry MCP Server ![GitHub Repo Stars](https://img.shields.io/github/stars/opentofu/opentofu-mcp-server) ![GitHub last commit](https://img.shields.io/github/last-commit/opentofu/opentofu-mcp-server)](https://github.com/opentofu/opentofu-mcp-server#opentofu-mcp-server)
-- [Weekly updates ![GitHub Repo Stars](https://img.shields.io/github/stars/opentofu/opentofu) ![GitHub last commit](https://img.shields.io/github/last-commit/opentofu/opentofu)](https://github.com/opentofu/opentofu/blob/main/WEEKLY_UPDATES.md#weekly-updates)
+- [Weekly updates ![GitHub Repo Stars](https://img.shields.io/github/stars/opentofu/opentofu) ![GitHub last commit](https://img.shields.io/github/last-commit/opentofu/opentofu)](https://github.com/opentofu/opentofu/blob/main/WEEKLY_UPDATES.md)
 - [Office hours](https://www.youtube.com/watch?v=aEoMzUza6Ok&list=PLnVotLM2QsyhCc1_8PA7fbVF-ixt4_XAY)
 - [Technical Steering Committee updates ![GitHub Repo Stars](https://img.shields.io/github/stars/opentofu/org) ![GitHub last commit](https://img.shields.io/github/last-commit/opentofu/org)](https://github.com/opentofu/org/tree/main/TSC)
 
@@ -90,7 +90,7 @@
 ### CI
 
 - [Atlantis](https://www.runatlantis.io/) - Automating workflows via pull requests.
-- [Burrito](https://docs.burrito.tf/overview/) - Burrito is a TACoS (Terraform Automation and Collaboration Software) that works inside Kubernetes.
+- [Burrito](https://docs.burrito.tf/latest/overview/) - A TACoS (Terraform Automation and Collaboration Software) that works inside Kubernetes.
 - [TF-via-PR ![GitHub Repo Stars](https://img.shields.io/github/stars/OP5dev/TF-via-PR) ![GitHub last commit](https://img.shields.io/github/last-commit/OP5dev/TF-via-PR)](https://github.com/OP5dev/TF-via-PR) - GitHub Action to init, plan and apply Terraform/OpenTofu via PR automation.
 - [pre-commit-opentofu ![GitHub Repo Stars](https://img.shields.io/github/stars/tofuutils/pre-commit-opentofu) ![GitHub last commit](https://img.shields.io/github/last-commit/tofuutils/pre-commit-opentofu)](https://github.com/tofuutils/pre-commit-opentofu) - Git pre-commit hooks plugin.
 - [setup-opentofu ![GitHub Repo Stars](https://img.shields.io/github/stars/opentofu/setup-opentofu) ![GitHub last commit](https://img.shields.io/github/last-commit/opentofu/setup-opentofu)](https://github.com/opentofu/setup-opentofu) - Set up OpenTofu CLI in your GitHub Actions workflow.
@@ -126,10 +126,10 @@
 ### Registry
 
 - [library.tf](https://library.tf/) - An indexer of registries for providers and modules with insights and documentation.
-- [boring-registry ![GitHub Repo Stars](https://img.shields.io/github/stars/boring-registry/boring-registry) ![GitHub last commit](https://img.shields.io/github/last-commit/boring-registry/boring-registry)](https://github.com/boring-registry/boring-registry) - Boring-registry is an open-source module and provider registry compatible with OpenTofu.
+- [boring-registry ![GitHub Repo Stars](https://img.shields.io/github/stars/boring-registry/boring-registry) ![GitHub last commit](https://img.shields.io/github/last-commit/boring-registry/boring-registry)](https://github.com/boring-registry/boring-registry) - An open-source module and provider registry compatible with OpenTofu.
 - [hermitcrab ![GitHub Repo Stars](https://img.shields.io/github/stars/seal-io/hermitcrab) ![GitHub last commit](https://img.shields.io/github/last-commit/seal-io/hermitcrab)](https://github.com/seal-io/hermitcrab) - Registry network mirroring service compatible with OpenTofu.
 - [terrac ![GitHub Repo Stars](https://img.shields.io/github/stars/haoliangyu/terrac) ![GitHub last commit](https://img.shields.io/github/last-commit/haoliangyu/terrac)](https://github.com/haoliangyu/terrac) - Minimal private module registry compatible with OpenTofu.
-- [GitLab Module Registry](https://docs.gitlab.com/ee/user/packages/terraform_module_registry/) - Use GitLab projects as a private registry for terraform modules.
+- [GitLab Module Registry](https://docs.gitlab.com/ee/user/packages/terraform_module_registry/) - Use GitLab projects as a private registry for Terraform modules.
 - [terralist ![GitHub Repo Stars](https://img.shields.io/github/stars/terralist/terralist) ![GitHub last commit](https://img.shields.io/github/last-commit/terralist/terralist)](https://github.com/terralist/terralist) - Private registry for providers and modules.
 - [citizen ![GitHub Repo Stars](https://img.shields.io/github/stars/outsideris/citizen) ![GitHub last commit](https://img.shields.io/github/last-commit/outsideris/citizen)](https://github.com/outsideris/citizen) - Private registry for modules and providers with support for multiple databases and storages.
 - [petra ![GitHub Repo Stars](https://img.shields.io/github/stars/devoteamgcloud/petra) ![GitHub last commit](https://img.shields.io/github/last-commit/devoteamgcloud/petra)](https://github.com/devoteamgcloud/petra) - Private registry manager using Google Cloud Storage.
@@ -141,7 +141,7 @@
 
 ### Helpers
 
-- [OpenTofu Language Server ![GitHub Repo Stars](https://img.shields.io/github/stars/opentofu/tofu-ls) ![GitHub last commit](https://img.shields.io/github/last-commit/opentofu/tofu-ls)](https://github.com/opentofu/tofu-ls) - OpenTofu Language Server.
+- [OpenTofu Language Server ![GitHub Repo Stars](https://img.shields.io/github/stars/opentofu/tofu-ls) ![GitHub last commit](https://img.shields.io/github/last-commit/opentofu/tofu-ls)](https://github.com/opentofu/tofu-ls) - The OpenTofu Language Server.
 - [VS Code Extension](https://open-vsx.org/extension/OpenTofu/vscode-opentofu) - Extension for Visual Studio Code with the OpenTofu Language Server adds editing features for OpenTofu files such as syntax highlighting, IntelliSense, code navigation, code formatting, module explorer.
 - [zed Extension ![GitHub Repo Stars](https://img.shields.io/github/stars/ashpool37/zed-extension-opentofu) ![GitHub last commit](https://img.shields.io/github/last-commit/ashpool37/zed-extension-opentofu)](https://github.com/ashpool37/zed-extension-opentofu) - Extension for the Zed Editor.
 - [terratag ![GitHub Repo Stars](https://img.shields.io/github/stars/env0/terratag) ![GitHub last commit](https://img.shields.io/github/last-commit/env0/terratag)](https://github.com/env0/terratag) - CLI tool allowing for tags or labels to be applied across an entire set of OpenTofu/Terraform files.
