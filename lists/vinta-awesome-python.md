@@ -331,6 +331,7 @@ Inspired by [awesome-php ![GitHub Repo Stars](https://img.shields.io/github/star
 * [pandas](http://pandas.pydata.org/) - A library providing high-performance, easy-to-use data structures and data analysis tools.
 * [aws-sdk-pandas ![GitHub Repo Stars](https://img.shields.io/github/stars/aws/aws-sdk-pandas) ![GitHub last commit](https://img.shields.io/github/last-commit/aws/aws-sdk-pandas)](https://github.com/aws/aws-sdk-pandas) - Pandas on AWS.
 * [datasette ![GitHub Repo Stars](https://img.shields.io/github/stars/simonw/datasette) ![GitHub last commit](https://img.shields.io/github/last-commit/simonw/datasette)](https://github.com/simonw/datasette) - An open source multi-tool for exploring and publishing data.
+* [desbordante ![GitHub Repo Stars](https://img.shields.io/github/stars/desbordante/desbordante-core) ![GitHub last commit](https://img.shields.io/github/last-commit/desbordante/desbordante-core)](https://github.com/desbordante/desbordante-core/) - An open source data profiler for complex pattern discovery.
 * [optimus ![GitHub Repo Stars](https://img.shields.io/github/stars/hi-primus/optimus) ![GitHub last commit](https://img.shields.io/github/last-commit/hi-primus/optimus)](https://github.com/hi-primus/optimus) - Agile Data Science Workflows made easy with PySpark.
 
 ## Data Validation
