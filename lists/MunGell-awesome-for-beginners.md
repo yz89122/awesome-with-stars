@@ -58,6 +58,7 @@ If you would like to be guided through how to contribute to a repository on GitH
 
 ## C
 
+- [Julia ![GitHub Repo Stars](https://img.shields.io/github/stars/JuliaLang/julia) ![GitHub last commit](https://img.shields.io/github/last-commit/JuliaLang/julia)](https://github.com/JuliaLang/julia) _(label: good first issue)_ <br> The Julia Programming Language - A high-level, high-performance dynamic language for technical computing.
 - [Profanity ![GitHub Repo Stars](https://img.shields.io/github/stars/profanity-im/profanity) ![GitHub last commit](https://img.shields.io/github/last-commit/profanity-im/profanity)](https://github.com/profanity-im/profanity) _(label: good first issue)_ <br> Ncurses XMPP chat client.
 
 ## C#
@@ -72,6 +73,7 @@ If you would like to be guided through how to contribute to a repository on GitH
 - [electron ![GitHub Repo Stars](https://img.shields.io/github/stars/electron/electron) ![GitHub last commit](https://img.shields.io/github/last-commit/electron/electron)](https://github.com/electron/electron) _(label: good first issue)_ <br> Build cross platform desktop apps with JavaScript, HTML, and CSS
 - [F3D ![GitHub Repo Stars](https://img.shields.io/github/stars/f3d-app/f3d) ![GitHub last commit](https://img.shields.io/github/last-commit/f3d-app/f3d)](https://github.com/f3d-app/f3d) _(label: good first issue)_ <br> Fast and minimalist 3D viewer.
 - [Godot Engine ![GitHub Repo Stars](https://img.shields.io/github/stars/godotengine/godot) ![GitHub last commit](https://img.shields.io/github/last-commit/godotengine/godot)](https://github.com/godotengine/godot) _(label: good first issue)_ <br> 2D and 3D cross-platform game engine. Also has C# and Python code.
+- [Julia ![GitHub Repo Stars](https://img.shields.io/github/stars/JuliaLang/julia) ![GitHub last commit](https://img.shields.io/github/last-commit/JuliaLang/julia)](https://github.com/JuliaLang/julia) _(label: good first issue)_ <br> The Julia Programming Language - A high-level, high-performance dynamic language for technical computing.
 - [MiniOB ![GitHub Repo Stars](https://img.shields.io/github/stars/oceanbase/miniob) ![GitHub last commit](https://img.shields.io/github/last-commit/oceanbase/miniob)](https://github.com/oceanbase/miniob) _(label: good first issue)_ <br> MiniOB is a compact database that assists developers in understanding the fundamental workings of a database(main language is Chinese).
 - [MoveIt ![GitHub Repo Stars](https://img.shields.io/github/stars/ros-planning/moveit) ![GitHub last commit](https://img.shields.io/github/last-commit/ros-planning/moveit)](https://github.com/ros-planning/moveit) _(label: good first issue)_ <br> Easy-to-use open source robotics manipulation platform for developing commercial applications, prototyping designs, and benchmarking algorithms.
 - [projectM ![GitHub Repo Stars](https://img.shields.io/github/stars/projectM-visualizer/projectm) ![GitHub last commit](https://img.shields.io/github/last-commit/projectM-visualizer/projectm)](https://github.com/projectM-visualizer/projectm) _(label: good first issue)_ <br> A music visualizer library using OpenGL and GLSL. Has applications using Qt5, SDL, emscripten, iTunes, Kodi.
@@ -220,9 +222,7 @@ If you would like to be guided through how to contribute to a repository on GitH
 
 ## Julia
 
-- [Julia ![GitHub Repo Stars](https://img.shields.io/github/stars/JuliaLang/julia) ![GitHub last commit](https://img.shields.io/github/last-commit/JuliaLang/julia)](https://github.com/JuliaLang/julia) _(label: good first issue)_ <br> Julia Projects for Beginners — Easy Ideas to Get Started Coding in Julia
-- [Julia Language: Good first issue ![GitHub Repo Stars](https://img.shields.io/github/stars/JuliaLang/julia) ![GitHub last commit](https://img.shields.io/github/last-commit/JuliaLang/julia)](https://github.com/JuliaLang/julia) _(label: good first issue)_ <br> "Move like Python, Run like C" - A fresh approach to technical computing!
-- [Julia Language: Help wanted ![GitHub Repo Stars](https://img.shields.io/github/stars/JuliaLang/julia) ![GitHub last commit](https://img.shields.io/github/last-commit/JuliaLang/julia)](https://github.com/JuliaLang/julia) _(label: help-wanted)_ <br> "Move like Python, Run like C" - A fresh approach to technical computing!
+- [Julia ![GitHub Repo Stars](https://img.shields.io/github/stars/JuliaLang/julia) ![GitHub last commit](https://img.shields.io/github/last-commit/JuliaLang/julia)](https://github.com/JuliaLang/julia) _(label: good first issue)_ <br> The Julia Programming Language - A high-level, high-performance dynamic language for technical computing.
 
 ## Kotlin
 
