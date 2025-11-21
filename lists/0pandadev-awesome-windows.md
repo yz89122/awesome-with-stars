@@ -126,9 +126,11 @@
 
 ## Command Line Tools
 
+
 * [btop4win ![GitHub Repo Stars](https://img.shields.io/github/stars/aristocratos/btop4win) ![GitHub last commit](https://img.shields.io/github/last-commit/aristocratos/btop4win)](https://github.com/aristocratos/btop4win) - Windows port of the famous btop resource monitor. ![Open-Source Software](https://github.com/0pandadev/awesome-windows/raw/main/assets/opensource.svg)
 * [Chocolatey](https://chocolatey.org/) - Package manager for Windows.
 * [gallery-dl ![GitHub Repo Stars](https://img.shields.io/github/stars/mikf/gallery-dl) ![GitHub last commit](https://img.shields.io/github/last-commit/mikf/gallery-dl)](https://github.com/mikf/gallery-dl) - Command-line program to download image galleries and collections from several image hosting sites. ![Open-Source Software](https://github.com/0pandadev/awesome-windows/raw/main/assets/opensource.svg)
+* [gsudo](https://gerardog.github.io/gsudo/) - Sudo equivalent for Windows, allows you to run a command with elevated permissions. [![Open-Source Software][oss]](https://github.com/gerardog/gsudo)
 * [Scoop ![GitHub Repo Stars](https://img.shields.io/github/stars/lukesampson/scoop) ![GitHub last commit](https://img.shields.io/github/last-commit/lukesampson/scoop)](https://github.com/lukesampson/scoop) - Command-line installer for Windows. ![Open-Source Software](https://github.com/0pandadev/awesome-windows/raw/main/assets/opensource.svg)
 * [winget](https://learn.microsoft.com/en-us/windows/package-manager/winget/) - Official Windows package manager from Microsoft. [![Open-Source Software][oss]](https://github.com/microsoft/winget-cli)
 * [yt-dlp ![GitHub Repo Stars](https://img.shields.io/github/stars/yt-dlp/yt-dlp) ![GitHub last commit](https://img.shields.io/github/last-commit/yt-dlp/yt-dlp)](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader. ![Open-Source Software](https://github.com/0pandadev/awesome-windows/raw/main/assets/opensource.svg)
