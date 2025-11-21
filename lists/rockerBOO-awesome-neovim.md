@@ -1289,6 +1289,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 - [Saecki/crates.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/Saecki/crates.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/Saecki/crates.nvim)](https://github.com/Saecki/crates.nvim) - Rust dependency management for `Cargo.toml`.
 - [piersolenski/import.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/piersolenski/import.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/piersolenski/import.nvim)](https://github.com/piersolenski/import.nvim) - Import modules faster based on what you've already imported in your project.
 - [Silletr/LazyDeveloperHelper ![GitHub Repo Stars](https://img.shields.io/github/stars/Silletr/LazyDeveloperHelper) ![GitHub last commit](https://img.shields.io/github/last-commit/Silletr/LazyDeveloperHelper)](https://github.com/Silletr/LazyDeveloperHelper) - Python dependencies manager, with auto-adding to your `requirements.txt` file.
+- [JesperLundberg/projektgunnar.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/JesperLundberg/projektgunnar) ![GitHub last commit](https://img.shields.io/github/last-commit/JesperLundberg/projektgunnar)](https://github.com/JesperLundberg/projektgunnar) - C# dependency manager with support for handling references between projects and solution files.
 
 <!--lint disable double-link -->
 
