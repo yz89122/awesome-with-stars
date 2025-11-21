@@ -53,6 +53,17 @@ Claude Code is a cutting-edge CLI-based coding assistant and agent released by [
 
 > Resources added in the past 7 days
 
+[`Awesome Claude Code Output Styles (That I Really Like)` ![GitHub Repo Stars](https://img.shields.io/github/stars/hesreallyhim/awesome-claude-code-output-styles-that-i-really-like) ![GitHub last commit](https://img.shields.io/github/last-commit/hesreallyhim/awesome-claude-code-output-styles-that-i-really-like)](https://github.com/hesreallyhim/awesome-claude-code-output-styles-that-i-really-like) &nbsp; by &nbsp; [Really Him](https://github.com/hesreallyhim/)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
+A fun and moderately amusing collection of experimental output styles.
+
+<details>
+<summary>📊 GitHub Stats</summary>
+
+![GitHub Stats for awesome-claude-code-output-styles-that-i-really-like](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=awesome-claude-code-output-styles-that-i-really-like&username=hesreallyhim&all_stats=true&stats_only=true)
+
+</details>
+<br>
+
 [`claude-code-docs` ![GitHub Repo Stars](https://img.shields.io/github/stars/costiash/claude-code-docs) ![GitHub last commit](https://img.shields.io/github/last-commit/costiash/claude-code-docs)](https://github.com/costiash/claude-code-docs) &nbsp; by &nbsp; [Constantin Shafranski](https://github.com/costiash)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;Mixed  
 A mirror of the Anthropic&copy; PBC documentation site for Claude/Code, but with bonus features like full-text search and query-time updates - a nice companion to `claude-code-docs` for up-to-the-minute, fully-indexed information so that Claude Code can read about itself.
 
@@ -60,17 +71,6 @@ A mirror of the Anthropic&copy; PBC documentation site for Claude/Code, but with
 <summary>📊 GitHub Stats</summary>
 
 ![GitHub Stats for claude-code-docs](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=claude-code-docs&username=costiash&all_stats=true&stats_only=true)
-
-</details>
-<br>
-
-[`Claude Code Documentation Mirror` ![GitHub Repo Stars](https://img.shields.io/github/stars/ericbuess/claude-code-docs) ![GitHub last commit](https://img.shields.io/github/last-commit/ericbuess/claude-code-docs)](https://github.com/ericbuess/claude-code-docs) &nbsp; by &nbsp; [Eric Buess](https://github.com/ericbuess)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;NOASSERTION  
-A mirror of the Anthropic &copy; PBC documentation pages for Claude Code, updated every few hours. Can come in handy when trying to stay on top of the ever-expanding feature-set of Dr. Claw D. Code, Ph.D.
-
-<details>
-<summary>📊 GitHub Stats</summary>
-
-![GitHub Stats for claude-code-docs](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=claude-code-docs&username=ericbuess&all_stats=true&stats_only=true)
 
 </details>
 <br>
@@ -931,7 +931,7 @@ A TypeScript-based system for configuring and customizing Claude Code hooks with
 A no-frills little library that adds delightful OS-native sounds to Claude Code via simple hooks. It really sparks joy.
 
 <details>
-<summary>📊 GitHub Stats</summary>
+<summary>�� GitHub Stats</summary>
 
 ![GitHub Stats for claudio](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=claudio&username=ctoth&all_stats=true&stats_only=true)
 
@@ -981,6 +981,17 @@ Quality check hook for Node.js TypeScript projects with TypeScript compilation. 
 
 <details open>
 <summary><h3>General <a href="#awesome-claude-code">🔝</a></h3></summary>
+
+[`Awesome Claude Code Output Styles (That I Really Like)` ![GitHub Repo Stars](https://img.shields.io/github/stars/hesreallyhim/awesome-claude-code-output-styles-that-i-really-like) ![GitHub last commit](https://img.shields.io/github/last-commit/hesreallyhim/awesome-claude-code-output-styles-that-i-really-like)](https://github.com/hesreallyhim/awesome-claude-code-output-styles-that-i-really-like) &nbsp; by &nbsp; [Really Him](https://github.com/hesreallyhim/)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
+A fun and moderately amusing collection of experimental output styles.
+
+<details>
+<summary>📊 GitHub Stats</summary>
+
+![GitHub Stats for awesome-claude-code-output-styles-that-i-really-like](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=awesome-claude-code-output-styles-that-i-really-like&username=hesreallyhim&all_stats=true&stats_only=true)
+
+</details>
+<br>
 
 [`ccoutputstyles` ![GitHub Repo Stars](https://img.shields.io/github/stars/viveknair/ccoutputstyles) ![GitHub last commit](https://img.shields.io/github/last-commit/viveknair/ccoutputstyles)](https://github.com/viveknair/ccoutputstyles) &nbsp; by &nbsp; [Vivek Nair](https://github.com/viveknair)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
 CLI tool and template gallery for customizing Claude Code output styles with pre-built templates. Features over 15 templates at the time of writing!
