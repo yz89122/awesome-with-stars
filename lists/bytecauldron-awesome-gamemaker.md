@@ -154,6 +154,7 @@ Custom timers, timelines, and task scheduling.
 - [Catspeak ![GitHub Repo Stars](https://img.shields.io/github/stars/katsaii/catspeak-lang) ![GitHub last commit](https://img.shields.io/github/last-commit/katsaii/catspeak-lang)](https://github.com/katsaii/catspeak-lang) - Cross-platform programming language for modding support.
 - [GMBenchmark ![GitHub Repo Stars](https://img.shields.io/github/stars/DragoniteSpam/GMBenchmark) ![GitHub last commit](https://img.shields.io/github/last-commit/DragoniteSpam/GMBenchmark)](https://github.com/DragoniteSpam/GMBenchmark) - A tool to benchmark GML code.
 - [GML-Multiprocessing ![GitHub Repo Stars](https://img.shields.io/github/stars/tinkerer-red/GML-Multiprocessing) ![GitHub last commit](https://img.shields.io/github/last-commit/tinkerer-red/GML-Multiprocessing)](https://github.com/tinkerer-red/GML-Multiprocessing) - A proof of concept for multiprocessing.
+- [Figgy ![GitHub Repo Stars](https://img.shields.io/github/stars/glebtsereteli/Figgy) ![GitHub last commit](https://img.shields.io/github/last-commit/glebtsereteli/Figgy)](https://github.com/glebtsereteli/Figgy) - Centralized and persistent live configs for seamless game tuning and balancing.
 
 ## Tools
 
@@ -183,6 +184,7 @@ Things that work with project files or GameMaker itself rather than being someth
 - [Gobo ![GitHub Repo Stars](https://img.shields.io/github/stars/Pizzaandy/Gobo) ![GitHub last commit](https://img.shields.io/github/last-commit/Pizzaandy/Gobo)](https://github.com/Pizzaandy/Gobo/) - An opinionated code formatter for GML.
 - [Inspectron ![GitHub Repo Stars](https://img.shields.io/github/stars/shdwcat/Inspectron) ![GitHub last commit](https://img.shields.io/github/last-commit/shdwcat/Inspectron)](https://github.com/shdwcat/Inspectron) - A fluent API for easily creating GameMaker debug views.
 - [GMPulse](https://topherlicious.itch.io/gmpulse) - A runtime inspector and control panel. 💸
+- [Lookout ![GitHub Repo Stars](https://img.shields.io/github/stars/glebtsereteli/Lookout) ![GitHub last commit](https://img.shields.io/github/last-commit/glebtsereteli/Lookout)](https://github.com/glebtsereteli/Lookout) - Helpful debug overlay views.
 
 ## Input Handling
 
