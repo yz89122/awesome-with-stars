@@ -424,7 +424,7 @@ High-performance Go implementation of Claude Code hooks and utilities. Provides 
 Interactive CLI tool for discovering and managing Claude Code configuration files and slash commands with a beautiful terminal UI.
 
 <details>
-<summary>📊 GitHub Stats</summary>
+<summary>��� GitHub Stats</summary>
 
 ![GitHub Stats for ccexp](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=ccexp&username=nyatinte&all_stats=true&stats_only=true)
 
