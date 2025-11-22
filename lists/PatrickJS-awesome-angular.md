@@ -1643,6 +1643,7 @@ to simplify usage and allow quick customization.
 * [hotkeys ![GitHub Repo Stars](https://img.shields.io/github/stars/ngneat/hotkeys) ![GitHub last commit](https://img.shields.io/github/last-commit/ngneat/hotkeys)](https://github.com/ngneat/hotkeys) - A declarative library for handling hotkeys in Angular applications.
 * [ngx-contextmenu ![GitHub Repo Stars](https://img.shields.io/github/stars/PerfectMemory/ngx-contextmenu) ![GitHub last commit](https://img.shields.io/github/last-commit/PerfectMemory/ngx-contextmenu)](https://github.com/PerfectMemory/ngx-contextmenu) - A context menu component for Angular.
 * [ngx-keys ![GitHub Repo Stars](https://img.shields.io/github/stars/mrivasperez/ngx-keys) ![GitHub last commit](https://img.shields.io/github/last-commit/mrivasperez/ngx-keys)](https://github.com/mrivasperez/ngx-keys) - A reactive Angular library for managing keyboard shortcuts with signals based UI integration.
+* [focusly ![GitHub Repo Stars](https://img.shields.io/github/stars/mad-vx/focusly) ![GitHub last commit](https://img.shields.io/github/last-commit/mad-vx/focusly)](https://github.com/mad-vx/focusly) - A lightweight Angular library that brings intuitive, keyboard-driven navigation to web applications.
 
 ### Layout Components
 
