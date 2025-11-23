@@ -269,9 +269,6 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 
 * [Angular Addicts](https://www.angularaddicts.com/)
 * [Angular Digest](https://geromegrignon.substack.com/)
-* [Angular Weekly](https://angularweekly.substack.com/)
-* [danywalls](https://www.danywalls.com/newsletter)
-* [practical-angular-newsletter](https://angularmentor.io/practical-angular-newsletter)
 * [ultimate courses](https://ultimatecourses.com/newsletter)
 * [Weekly Angular](https://prodigious-knitter-4508.kit.com/subscribe)
 
@@ -425,10 +422,8 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [Certificates.dev](https://certificates.dev/angular) - Obtain your Certification of Competence as an Angular Developer.
 * [Angular Academy CA](https://www.angularacademy.ca/angular-certification) - Angular Academy is the #1 provider of hands-on instructor-led classroom training in Canada!
 * [Hackerrank](https://www.hackerrank.com/skills-verification/angular_basic) - Angular (Basic) Skills Certification Test.
-* [Edureka](https://www.edureka.co/angular-training) - Angular Certification Course Online.
 * [Koenig](https://www.koenig-solutions.com/angularjs-training-certification-courses) - Various courses cover Angular separately or full-stack.
 * [Simplilearn](https://www.simplilearn.com/angular-certification-training-course) - Angular Certification Training Course.
-* [Altitude CSI](https://altitudecsi.org/products/angular-certification-program) - Angular Certification Program.
 
 ### Cheat Sheets
 
@@ -1137,6 +1132,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [angular-realworld-example-app ![GitHub Repo Stars](https://img.shields.io/github/stars/gothinkster/angular-realworld-example-app) ![GitHub last commit](https://img.shields.io/github/last-commit/gothinkster/angular-realworld-example-app)](https://github.com/gothinkster/angular-realworld-example-app) - Angular codebase containing real world examples (CRUD, auth, advanced patterns, etc) that adheres to the [RealWorld ![GitHub Repo Stars](https://img.shields.io/github/stars/gothinkster/realworld) ![GitHub last commit](https://img.shields.io/github/last-commit/gothinkster/realworld)](https://github.com/gothinkster/realworld) spec and API.
 * [angular.ng ![GitHub Repo Stars](https://img.shields.io/github/stars/desoga10/angular.ng) ![GitHub last commit](https://img.shields.io/github/last-commit/desoga10/angular.ng)](https://github.com/desoga10/angular.ng) - An open-source productivity dashboard built with Angular and Supabase.
 * [angluar-crm ![GitHub Repo Stars](https://img.shields.io/github/stars/minhpham-mew/angluar-crm) ![GitHub last commit](https://img.shields.io/github/last-commit/minhpham-mew/angluar-crm)](https://github.com/minhpham-mew/angluar-crm) - Angular CRM template with contact management, deal tracking, and analytics.
+
 ### Paid Templates
 
 * [Admin Mart](https://adminmart.com/templates/angular-dashboard/)
