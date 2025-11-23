@@ -782,7 +782,7 @@ A ktfmt IntelliJ plugin is available from the plugin repository. To install it, 
 
 - [DrNim](https://nim-lang.org/docs/drnim.html) — DrNim combines the Nim frontend with the Z3 proof engine in order to allow verify / validate software written in Nim.
 
-- **nimfmt** :warning: ��� Nim code formatter / linter / style checker
+- **nimfmt** :warning: — Nim code formatter / linter / style checker
 
 
 <a name="ocaml" />
@@ -1007,7 +1007,7 @@ It uses the pycodestyle utility to determine what parts of the code needs to be 
 
 - **pydocstyle** :warning: — Check compliance with Python docstring conventions.
 
-- [pyflakes](https://pypi.org/project/pyflakes) — Check Python source files for errors.
+- [pyflakes](https://pypi.org/project/pyflakes) ��� Check Python source files for errors.
 
 - [pylint](http://pylint.pycqa.org/en/latest) — Looks for programming errors, helps enforcing a coding standard and sniffs for some code smells. It additionally includes `pyreverse` (an UML diagram generator) and `symilar` (a similarities checker).
 
