@@ -610,7 +610,7 @@ VoiceMode MCP brings natural conversations to Claude Code. It supports any OpenA
 </details>
 
 <details open>
-<summary><h3>IDE Integrations <a href="#awesome-claude-code">🔝</a></h3></summary>
+<summary><h3>IDE Integrations <a href="#awesome-claude-code">���</a></h3></summary>
 
 [`Claude Code Chat`](https://marketplace.visualstudio.com/items?itemName=AndrePimenta.claude-code-chat) &nbsp; by &nbsp; [andrepimenta](https://github.com/andrepimenta)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;&copy;  
 An elegant and user-friendly Claude Code chat interface for VS Code.
