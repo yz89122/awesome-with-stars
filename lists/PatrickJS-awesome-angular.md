@@ -323,7 +323,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [Jack Franklin](https://x.com/jack_franklin)
 * [Thierry Chatel](https://x.com/ThierryChatel)
 * [Uri Shaked](https://x.com/urishaked)
-* [Gonzalo Ruiz de Villa Su��rez](https://x.com/gruizdevilla)
+* [Gonzalo Ruiz de Villa Suárez](https://x.com/gruizdevilla)
 * [Sharon DiOrio](https://x.com/sharondio)
 * [John Papa](https://x.com/John_Papa)
 * [Dan Wahlin](https://x.com/danwahlin)
