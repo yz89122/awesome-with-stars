@@ -396,6 +396,7 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 ### Functional
 
 - [atomico ![GitHub Repo Stars](https://img.shields.io/github/stars/atomicojs/atomico) ![GitHub last commit](https://img.shields.io/github/last-commit/atomicojs/atomico)](https://github.com/atomicojs/atomico) - Small library for the creation of interfaces based on web components using functions and hooks.
+- [Elemento ![GitHub Repo Stars](https://img.shields.io/github/stars/dsolimando/elemento) ![GitHub last commit](https://img.shields.io/github/last-commit/dsolimando/elemento)](https://github.com/dsolimando/elemento) - A lightweight library for building functional web components using signals and Lit.
 - [haunted ![GitHub Repo Stars](https://img.shields.io/github/stars/matthewp/haunted) ![GitHub last commit](https://img.shields.io/github/last-commit/matthewp/haunted)](https://github.com/matthewp/haunted) - React's Hooks API implemented for web components.
 - [hybrids ![GitHub Repo Stars](https://img.shields.io/github/stars/hybridsjs/hybrids) ![GitHub last commit](https://img.shields.io/github/last-commit/hybridsjs/hybrids)](https://github.com/hybridsjs/hybrids) - UI library for creating Web Components with simple and functional API.
 - [Solid Element ![GitHub Repo Stars](https://img.shields.io/github/stars/solidjs/solid) ![GitHub last commit](https://img.shields.io/github/last-commit/solidjs/solid)](https://github.com/solidjs/solid/tree/main/packages/solid-element) - Library that extends Solid adding Custom Web Components and extensions.
