@@ -132,6 +132,7 @@ Made with Electron.
 - [Ostara ![GitHub Repo Stars](https://img.shields.io/github/stars/krud-dev/ostara) ![GitHub last commit](https://img.shields.io/github/last-commit/krud-dev/ostara)](https://github.com/krud-dev/ostara) - Monitor and interact with Spring Boot apps via Actuator.
 - [PikaTorrent ![GitHub Repo Stars](https://img.shields.io/github/stars/G-Ray/pikatorrent) ![GitHub last commit](https://img.shields.io/github/last-commit/G-Ray/pikatorrent)](https://github.com/G-Ray/pikatorrent) - BitTorrent client.
 - [Wave Terminal ![GitHub Repo Stars](https://img.shields.io/github/stars/wavetermdev/waveterm) ![GitHub last commit](https://img.shields.io/github/last-commit/wavetermdev/waveterm)](https://github.com/wavetermdev/waveterm) - Open-source terminal with AI integration.
+- [Signal Desktop ![GitHub Repo Stars](https://img.shields.io/github/stars/signalapp/Signal-Desktop) ![GitHub last commit](https://img.shields.io/github/last-commit/signalapp/Signal-Desktop)](https://github.com/signalapp/Signal-Desktop) - Companion desktop app for Signal mobile app.
 
 ### Closed Source
 
@@ -182,6 +183,7 @@ Made with Electron.
 - [Lotus](https://getlotus.app) - Keep up with GitHub notifications without stress.
 - [RunJS](https://runjs.app) - Playground for JavaScript and TypeScript.
 - [OpenSFTP](https://opensftp.com) - Integrated SSH and SFTP workspace client.
+- [Obsidian](https://obsidian.md) - Extensible Markdown note taking and knowledge management.
 
 ### Samples
 
