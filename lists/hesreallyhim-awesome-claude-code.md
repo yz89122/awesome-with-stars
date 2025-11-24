@@ -610,7 +610,7 @@ VoiceMode MCP brings natural conversations to Claude Code. It supports any OpenA
 </details>
 
 <details open>
-<summary><h3>IDE Integrations <a href="#awesome-claude-code">🔝</a></h3></summary>
+<summary><h3>IDE Integrations <a href="#awesome-claude-code">���</a></h3></summary>
 
 [`Claude Code Chat`](https://marketplace.visualstudio.com/items?itemName=AndrePimenta.claude-code-chat) &nbsp; by &nbsp; [andrepimenta](https://github.com/andrepimenta)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;&copy;  
 An elegant and user-friendly Claude Code chat interface for VS Code.
@@ -801,7 +801,7 @@ Yet Another Claude Orchestrator - a collection of agents, commands, etc., for sh
 </details>
 <br>
 
-[`TSK - AI Agent Task Manager and Sandbox` ![GitHub Repo Stars](https://img.shields.io/github/stars/dtormoen/tsk) ![GitHub last commit](https://img.shields.io/github/last-commit/dtormoen/tsk)](https://github.com/dtormoen/tsk) &nbsp; by &nbsp; [dtormoen](https://github.com/dtormoen)  &nbsp;&nbsp;⚖��&nbsp;&nbsp;MIT  
+[`TSK - AI Agent Task Manager and Sandbox` ![GitHub Repo Stars](https://img.shields.io/github/stars/dtormoen/tsk) ![GitHub last commit](https://img.shields.io/github/last-commit/dtormoen/tsk)](https://github.com/dtormoen/tsk) &nbsp; by &nbsp; [dtormoen](https://github.com/dtormoen)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
 A Rust CLI tool that lets you delegate development tasks to AI agents running in sandboxed Docker environments. Multiple agents work in parallel, returning git branches for human review.
 
 <details>
