@@ -424,7 +424,7 @@ High-performance Go implementation of Claude Code hooks and utilities. Provides 
 Interactive CLI tool for discovering and managing Claude Code configuration files and slash commands with a beautiful terminal UI.
 
 <details>
-<summary>📊 GitHub Stats</summary>
+<summary>�� GitHub Stats</summary>
 
 ![GitHub Stats for ccexp](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=ccexp&username=nyatinte&all_stats=true&stats_only=true)
 
@@ -610,7 +610,7 @@ VoiceMode MCP brings natural conversations to Claude Code. It supports any OpenA
 </details>
 
 <details open>
-<summary><h3>IDE Integrations <a href="#awesome-claude-code">���</a></h3></summary>
+<summary><h3>IDE Integrations <a href="#awesome-claude-code">🔝</a></h3></summary>
 
 [`Claude Code Chat`](https://marketplace.visualstudio.com/items?itemName=AndrePimenta.claude-code-chat) &nbsp; by &nbsp; [andrepimenta](https://github.com/andrepimenta)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;&copy;  
 An elegant and user-friendly Claude Code chat interface for VS Code.
