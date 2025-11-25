@@ -1220,7 +1220,7 @@ Creates reproducible test cases for GitHub issues, ensuring tests fail reliably 
 Guides development using Test-Driven Development principles, enforcing Red-Green-Refactor discipline, integrating with git workflow, and managing PR creation.
 
 <details>
-<summary>📊 GitHub Stats</summary>
+<summary>�� GitHub Stats</summary>
 
 ![GitHub Stats for pane](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=pane&username=zscott&all_stats=true&stats_only=true)
 
