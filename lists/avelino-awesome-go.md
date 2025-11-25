@@ -237,7 +237,7 @@ _Libraries for building programs that leverage AI._
 
 _Libraries for manipulating audio._
 
-- [beep ![GitHub Repo Stars](https://img.shields.io/github/stars/faiface/beep) ![GitHub last commit](https://img.shields.io/github/last-commit/faiface/beep)](https://github.com/faiface/beep) - A simple library for playback and audio manipulation.
+- [beep ![GitHub Repo Stars](https://img.shields.io/github/stars/gopxl/beep) ![GitHub last commit](https://img.shields.io/github/last-commit/gopxl/beep)](https://github.com/gopxl/beep) - A simple library for playback and audio manipulation.
 - [flac ![GitHub Repo Stars](https://img.shields.io/github/stars/mewkiz/flac) ![GitHub last commit](https://img.shields.io/github/last-commit/mewkiz/flac)](https://github.com/mewkiz/flac) - Native Go FLAC encoder/decoder with support for FLAC streams.
 - [gaad ![GitHub Repo Stars](https://img.shields.io/github/stars/Comcast/gaad) ![GitHub last commit](https://img.shields.io/github/last-commit/Comcast/gaad)](https://github.com/Comcast/gaad) - Native Go AAC bitstream parser.
 - [go-mpris ![GitHub Repo Stars](https://img.shields.io/github/stars/leberKleber/go-mpris) ![GitHub last commit](https://img.shields.io/github/last-commit/leberKleber/go-mpris)](https://github.com/leberKleber/go-mpris) - Client for mpris dbus interfaces.
