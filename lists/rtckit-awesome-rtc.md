@@ -60,6 +60,7 @@
 ### STUN/TURN
 
 - [coturn ![GitHub Repo Stars](https://img.shields.io/github/stars/coturn/coturn) ![GitHub last commit](https://img.shields.io/github/last-commit/coturn/coturn)](https://github.com/coturn/coturn) - Fully featured TURN/STUN server supporting multiple platforms.
+- [eturnal](https://eturnal.net/) - Modern and scalable STUN/TURN server written in Erlang.
 - [STUNTMAN ![GitHub Repo Stars](https://img.shields.io/github/stars/jselbie/stunserver) ![GitHub last commit](https://img.shields.io/github/last-commit/jselbie/stunserver)](https://github.com/jselbie/stunserver) - RFC compliant open source STUN implementation.
 
 

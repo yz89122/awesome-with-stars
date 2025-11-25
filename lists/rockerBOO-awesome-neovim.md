@@ -1070,6 +1070,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 - [wsdjeg/mru.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/wsdjeg/mru.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/wsdjeg/mru.nvim)](https://github.com/wsdjeg/mru.nvim) - Manage and display your Most Recently Used (MRU) files.
 - [gruvw/strudel.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/gruvw/strudel.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/gruvw/strudel.nvim)](https://github.com/gruvw/strudel.nvim) - Live coding controller for [strudel](https://strudel.cc).
 - [wsdjeg/ctags.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/wsdjeg/ctags.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/wsdjeg/ctags.nvim)](https://github.com/wsdjeg/ctags.nvim) - Generate tags files and update tags option automatically.
+- [QuentinGruber/pomodoro.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/QuentinGruber/pomodoro.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/QuentinGruber/pomodoro.nvim)](https://github.com/QuentinGruber/pomodoro.nvim) - Use the Pomodoro Technique with built-in session tracking and break reminders.
 
 ### CSV Files
 
