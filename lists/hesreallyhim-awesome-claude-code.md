@@ -241,7 +241,7 @@ A mirror of the Anthropic &copy; PBC documentation pages for Claude Code, update
 </details>
 <br>
 
-[`Claude Code Infrastructure Showcase` ![GitHub Repo Stars](https://img.shields.io/github/stars/diet103/claude-code-infrastructure-showcase) ![GitHub last commit](https://img.shields.io/github/last-commit/diet103/claude-code-infrastructure-showcase)](https://github.com/diet103/claude-code-infrastructure-showcase) &nbsp; by &nbsp; [diet103](https://github.com/diet103)  &nbsp;&nbsp;��️&nbsp;&nbsp;MIT  
+[`Claude Code Infrastructure Showcase` ![GitHub Repo Stars](https://img.shields.io/github/stars/diet103/claude-code-infrastructure-showcase) ![GitHub last commit](https://img.shields.io/github/last-commit/diet103/claude-code-infrastructure-showcase)](https://github.com/diet103/claude-code-infrastructure-showcase) &nbsp; by &nbsp; [diet103](https://github.com/diet103)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
 A remarkably innovative approach to working with Skills, the centerpiece of which being a technique that leverages hooks to ensure that Claude intelligently selects and activates the appropriate Skill given the current context. Well-documented and adaptable to different projects and workflows.
 
 <details>
