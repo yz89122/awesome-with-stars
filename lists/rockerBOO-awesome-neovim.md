@@ -632,6 +632,7 @@
 - [xzbdmw/colorful-menu.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/xzbdmw/colorful-menu.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/xzbdmw/colorful-menu.nvim)](https://github.com/xzbdmw/colorful-menu.nvim) - Colorize your auto completion menu using Tree-sitter.
 - [nvzone/minty ![GitHub Repo Stars](https://img.shields.io/github/stars/nvzone/minty) ![GitHub last commit](https://img.shields.io/github/last-commit/nvzone/minty)](https://github.com/nvzone/minty) - Beautifully crafted color tools.
 - [3ZsForInsomnia/pacer.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/3ZsForInsomnia/pacer.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/3ZsForInsomnia/pacer.nvim)](https://github.com/3ZsForInsomnia/pacer.nvim) - Creates a reading pacer by highlighting one word at a time and dimming all text outside the current paragraph-and-some to help you read faster.
+- [wsdjeg/cpicker.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/wsdjeg/cpicker.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/wsdjeg/cpicker.nvim)](https://github.com/wsdjeg/cpicker.nvim) - A lightweight color palette plugin that supports a wide range of color models.
 
 <!--lint disable double-link -->
 
