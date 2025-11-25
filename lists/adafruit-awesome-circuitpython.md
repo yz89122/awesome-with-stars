@@ -218,7 +218,7 @@ Looking to add a new board to CircuitPython? It's highly encouraged! Adafruit ha
 
 ## Talks
 
-- [CircuitPython 入门](https://youtu.be/kVDFoyLCqXU) - CircuitPython 程���！An entry level CircuitPython tutorial in Chinese 01: From zero to Hello World (YouTube).
+- [CircuitPython 入门](https://youtu.be/kVDFoyLCqXU) - CircuitPython 程序！An entry level CircuitPython tutorial in Chinese 01: From zero to Hello World (YouTube).
 - [Changing Lives through Open Source, Passion and Mentoring](https://youtu.be/-bBHXimlfPQ) - Changing Lives through Open Source, Passion and Mentoring, Keynote by Kattni Rembor at PyOhio 2019.
 - [CircuitPython: Python on hardware](https://youtu.be/rN7kvWuAt7k) - CircuitPython: Python on hardware by Dave Astels at PyCon Canada.
 - [Embedded Programming for everyone using MicroPython and CircuitPython](https://youtu.be/LRvh1UDTbU0) - Embedded Programming for everyone using MicroPython and CircuitPython by Ayan Pahwa at FOSSASIA Summit.
