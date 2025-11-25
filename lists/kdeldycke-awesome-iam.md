@@ -295,7 +295,7 @@ TL;DR: don't. For details, see articles below.
 
 Part of the [FIDO2 project](https://en.wikipedia.org/wiki/FIDO_Alliance#FIDO2), and also known under the user-friendly name of *passkeys*.
 
-- [WebAuthn guide](https://webauthn.guide) - Introduce WebAuthn as a standard supported by all major browsers, and allowing “servers to register and authenticate users using public key cryptography instead of a password”.
+- [WebAuthn guide](https://webauthn.guide) - Introduce WebAuthn as a standard supported by all major browsers, and allowing ���servers to register and authenticate users using public key cryptography instead of a password”.
 
 - [Clearing up some misconceptions about Passkeys](https://www.stavros.io/posts/clearing-up-some-passkeys-misconceptions/) - Or why passkeys are not worse than passwords.
 
