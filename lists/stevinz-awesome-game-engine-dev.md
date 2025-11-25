@@ -266,7 +266,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Dark Basic ![GitHub Repo Stars](https://img.shields.io/github/stars/TheGameCreators/Dark-Basic-Pro) ![GitHub last commit](https://img.shields.io/github/last-commit/TheGameCreators/Dark-Basic-Pro)](https://github.com/TheGameCreators/Dark-Basic-Pro) - BASIC programming language for creating apps and games. [[Website](https://www.thegamecreators.com/product/dark-basic-pro-open-source)]
 
 ### C
-- 📚 [Learn C Programming](https://www.programiz.com/c-programming) - Excellent tutorials that will guide you to learn C programming.
+- �� [Learn C Programming](https://www.programiz.com/c-programming) - Excellent tutorials that will guide you to learn C programming.
 - C: App Framework
     - 🎉 [Allegro ![GitHub Repo Stars](https://img.shields.io/github/stars/liballeg/allegro5) ![GitHub last commit](https://img.shields.io/github/last-commit/liballeg/allegro5)](https://github.com/liballeg/allegro5) - Cross-platform library aimed at video game and multimedia apps.
     - 🎉 [glfw ![GitHub Repo Stars](https://img.shields.io/github/stars/glfw/glfw) ![GitHub last commit](https://img.shields.io/github/last-commit/glfw/glfw)](https://github.com/glfw/glfw) - Cross-platform API for windowing, graphics contexts, input and events.
@@ -451,7 +451,7 @@ _Language specific game engine development libraries / frameworks / code._
 - C++: Geometry
     - 🎉 [CinoLib ![GitHub Repo Stars](https://img.shields.io/github/stars/mlivesu/cinolib) ![GitHub last commit](https://img.shields.io/github/last-commit/mlivesu/cinolib)](https://github.com/mlivesu/cinolib) - Header-only library for processing polygonal and polyhedral meshes.
     - 🎉 [Delabella ![GitHub Repo Stars](https://img.shields.io/github/stars/msokalski/delabella) ![GitHub last commit](https://img.shields.io/github/last-commit/msokalski/delabella)](https://github.com/msokalski/delabella) - Super stable 2D delaunay triangulation.
-    - 🎉 [Delaunator-Cpp ![GitHub Repo Stars](https://img.shields.io/github/stars/soerendd/delaunator-cpp) ![GitHub last commit](https://img.shields.io/github/last-commit/soerendd/delaunator-cpp)](https://github.com/soerendd/delaunator-cpp) - Really fast library for Delaunay triangulation of 2D points.
+    - ���� [Delaunator-Cpp ![GitHub Repo Stars](https://img.shields.io/github/stars/soerendd/delaunator-cpp) ![GitHub last commit](https://img.shields.io/github/last-commit/soerendd/delaunator-cpp)](https://github.com/soerendd/delaunator-cpp) - Really fast library for Delaunay triangulation of 2D points.
     - 🔒 [Easy3D ![GitHub Repo Stars](https://img.shields.io/github/stars/LiangliangNan/Easy3D) ![GitHub last commit](https://img.shields.io/github/last-commit/LiangliangNan/Easy3D)](https://github.com/LiangliangNan/Easy3D) - Easy-to-use library for 3D modeling, geometry processing, and rendering.
     - 🎉 [Extrude ![GitHub Repo Stars](https://img.shields.io/github/stars/stevinz/extrude) ![GitHub last commit](https://img.shields.io/github/last-commit/stevinz/extrude)](https://github.com/stevinz/extrude) - Converts 2D images into 3D extruded meshes.
     - 🔒 [Generator ![GitHub Repo Stars](https://img.shields.io/github/stars/ilmola/generator) ![GitHub last commit](https://img.shields.io/github/last-commit/ilmola/generator)](https://github.com/ilmola/generator) - Procedural geometry generation library for C++11.
