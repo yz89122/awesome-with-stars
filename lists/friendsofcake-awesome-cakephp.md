@@ -19,6 +19,7 @@ Additional lists you might find useful:
 ## Table of Contents
 
 - [Plugins](#plugins)
+	- [AI Tools](#ai-tools)
 	- [Architecture](#architecture)
 	- [Asset Management](#asset-management)
 	- [Auditing / Logging](#auditing--logging)
@@ -68,6 +69,11 @@ Additional lists you might find useful:
 - [Contributing](#contributing)
 
 # Plugins
+
+## AI Tools
+*Plugins and libraries for integrating artificial intelligence and machine learning tools.*
+
+- [Synapse plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/josbeir/cakephp-synapse) ![GitHub last commit](https://img.shields.io/github/last-commit/josbeir/cakephp-synapse)](https://github.com/josbeir/cakephp-synapse) - Expose your application functionality via MCP, with built-in tools and documentation search to help you discover and interact with your app's capabilities.
 
 ## Architecture
 
