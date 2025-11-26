@@ -449,7 +449,7 @@ Any comments, suggestions? [Let us know! ![GitHub Repo Stars](https://img.shield
 * [Charles](https://www.charlesproxy.com/) - HTTP proxy/monitor to view HTTP and HTTPS traffic.
 * [James ![GitHub Repo Stars](https://img.shields.io/github/stars/james-proxy/james) ![GitHub last commit](https://img.shields.io/github/last-commit/james-proxy/james)](https://github.com/james-proxy/james) - Open-source proxy tool for checking and mapping requests with http as well as https. [![Open-Source Software][OSS Icon]](https://github.com/james-proxy/james) ![Freeware][Freeware Icon]
 * [Little Snitch](https://www.obdev.at/products/littlesnitch/download.html) - Network monitor with a world map for visualizing network connections.
-* [mitmproxy](https://mitmproxy.org/) - Interactive intercepting HTTP proxy for penetration testers and software developers. [![Open-Source Software][OSS Icon]](https://github.com/james-proxy/james) ![Freeware][Freeware Icon]
+* [mitmproxy](https://mitmproxy.org/) - Interactive intercepting HTTP proxy for penetration testers and software developers. [![Open-Source Software][OSS Icon]](https://github.com/mitmproxy/mitmproxy) ![Freeware][Freeware Icon]
 * [Proxie](https://proxie.app) - HTTP debugging proxy.
 * [Proxyman](https://proxyman.app) - Modern and intuitive HTTP debugging proxy for macOS. ![Freeware][Freeware Icon]
 * [Sniffnet ![GitHub Repo Stars](https://img.shields.io/github/stars/GyulyVGC/sniffnet) ![GitHub last commit](https://img.shields.io/github/last-commit/GyulyVGC/sniffnet)](https://github.com/GyulyVGC/sniffnet) - Application to comfortably monitor your network traffic. [![Open-Source Software][OSS Icon]](https://github.com/GyulyVGC/sniffnet) ![Freeware][Freeware Icon]
