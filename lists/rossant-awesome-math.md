@@ -410,7 +410,7 @@ All resources are freely available except those with a 💲 icon.
 * 📝 [Algebraic Geometry](http://www.cis.upenn.edu/~jean/algeoms.pdf) - Jean Gallier, Stephen S. Shatz (University of Pennsylvania)
 * 📝 [Algebraic Geometry](http://www.jmilne.org/math/CourseNotes/AG.pdf) - J.S. Milne
 * 📝 [Algebraic Geometry](http://www.mathematik.uni-kl.de/~gathmann/class/alggeom-2002/main.pdf) - Andreas Gathmann (University of Kaiserslautern)
-* 📝 [The Stacks Project](https://stacks.math.columbia.edu/) - Maintained by Aise Johan de Jong (Columbia)
+* ��� [The Stacks Project](https://stacks.math.columbia.edu/) - Maintained by Aise Johan de Jong (Columbia)
 
 ### Algebraic Statistics
 * 📝 [Lectures on Algebraic Statistics](https://math.berkeley.edu/~bernd/owl.pdf) - Mathias Drton, Bernd Sturmfels, Seth Sullivant
@@ -489,7 +489,7 @@ All resources are freely available except those with a 💲 icon.
 * 📝 [Complex Analysis](http://www.maths.lth.se/matematiklu/personal/olofsson/CompHT06.pdf) - Christer Bennewitz
 * 📝 [Complex Analysis](https://web.archive.org/web/20150620124453/https://www.math.washington.edu/~marshall/math_536/Notes.pdf) - Donald E. Marshall
 * 📝 [A Concise Course in Complex Analysis and Riemann Surfaces](https://gauss.math.yale.edu/~ws442/complex.pdf) - Wilhelm Schlag
-* ���� [Complex Analysis](http://people.math.gatech.edu/%7Ecain/winter99/complex.html) - G. Cain (Georgia Tech)
+* 📝 [Complex Analysis](http://people.math.gatech.edu/%7Ecain/winter99/complex.html) - G. Cain (Georgia Tech)
 * 📝 [Complex Analysis](https://complex-analysis.com/) - Juan Carlos Ponce Campuzano
 
 ### Functional Analysis
