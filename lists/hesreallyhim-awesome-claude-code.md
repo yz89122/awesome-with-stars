@@ -1608,7 +1608,7 @@ Features comprehensive repository structure breakdown with strong emphasis on co
 </details>
 <br>
 
-[`Inkline` ![GitHub Repo Stars](https://img.shields.io/github/stars/inkline/inkline) ![GitHub last commit](https://img.shields.io/github/last-commit/inkline/inkline)](https://github.com/inkline/inkline/blob/main/CLAUDE.md) &nbsp; by &nbsp; [inkline](https://github.com/inkline)  &nbsp;&nbsp;⚖��&nbsp;&nbsp;NOASSERTION  
+[`Inkline` ![GitHub Repo Stars](https://img.shields.io/github/stars/inkline/inkline) ![GitHub last commit](https://img.shields.io/github/last-commit/inkline/inkline)](https://github.com/inkline/inkline/blob/main/CLAUDE.md) &nbsp; by &nbsp; [inkline](https://github.com/inkline)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;NOASSERTION  
 Structures development workflow using pnpm with emphasis on TypeScript and Vue 3 Composition API, detailed component creation process, and comprehensive testing recommendations.
 
 <details>
