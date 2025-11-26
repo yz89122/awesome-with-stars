@@ -35,6 +35,7 @@ and find new insights about cyber threats.
 data in one single place.
 - [`Source++` ![GitHub Repo Stars](https://img.shields.io/github/stars/sourceplusplus/Assistant) ![GitHub last commit](https://img.shields.io/github/last-commit/sourceplusplus/Assistant)](https://github.com/sourceplusplus/Assistant) - Open-source automated programming assistant with runtime-aware and context-aware functionality.
 - [`Rasa` ![GitHub Repo Stars](https://img.shields.io/github/stars/RasaHQ/rasa) ![GitHub last commit](https://img.shields.io/github/last-commit/RasaHQ/rasa)](https://github.com/RasaHQ/rasa) - Open-source machine learning framework to automate text-and voice-based conversations.
+- [`TypeBridge` ![GitHub Repo Stars](https://img.shields.io/github/stars/ds1sqe/type-bridge) ![GitHub last commit](https://img.shields.io/github/last-commit/ds1sqe/type-bridge)](https://github.com/ds1sqe/type-bridge) - A modern, Pythonic ORM for TypeDB with an Attribute-based API that aligns with TypeDB's type system.
 
 ## Conferences
 
