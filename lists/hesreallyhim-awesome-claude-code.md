@@ -53,6 +53,17 @@ Claude Code is a cutting-edge CLI-based coding assistant and agent released by [
 
 > Resources added in the past 7 days
 
+[`Agentic Workflow Patterns` ![GitHub Repo Stars](https://img.shields.io/github/stars/ThibautMelen/agentic-workflow-patterns) ![GitHub last commit](https://img.shields.io/github/last-commit/ThibautMelen/agentic-workflow-patterns)](https://github.com/ThibautMelen/agentic-workflow-patterns) &nbsp; by &nbsp; [ThibautMelen](https://github.com/ThibautMelen)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
+A comprehensive and well-documented collection of agentic patterns from Anthropic docs, with colorful Mermaid diagrams and code examples for each pattern. Covers Subagent Orchestration, Progressive Skills, Parallel Tool Calling, Master-Clone Architecture, Wizard Workflows, and more. Also compatible with other providers.
+
+<details>
+<summary>📊 GitHub Stats</summary>
+
+![GitHub Stats for agentic-workflow-patterns](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=agentic-workflow-patterns&username=ThibautMelen&all_stats=true&stats_only=true)
+
+</details>
+<br>
+
 [`Gen-Alpha Slang` ![GitHub Repo Stars](https://img.shields.io/github/stars/sjnims/gen-alpha-output-style) ![GitHub last commit](https://img.shields.io/github/last-commit/sjnims/gen-alpha-output-style)](https://github.com/sjnims/gen-alpha-output-style) &nbsp; by &nbsp; [Steve Nims](https://github.com/sjnims)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
 This is really... different. I don't know what to say about this one. It does what it says on the tin. You might find it funny, you might want throw up. I'll just say candidly this is included strictly for its potentially comedic awesomeness.
 
@@ -219,6 +230,17 @@ A principled, spec-driven workflow that transforms large problems into focused, 
 </details>
 <br>
 
+[`Agentic Workflow Patterns` ![GitHub Repo Stars](https://img.shields.io/github/stars/ThibautMelen/agentic-workflow-patterns) ![GitHub last commit](https://img.shields.io/github/last-commit/ThibautMelen/agentic-workflow-patterns)](https://github.com/ThibautMelen/agentic-workflow-patterns) &nbsp; by &nbsp; [ThibautMelen](https://github.com/ThibautMelen)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
+A comprehensive and well-documented collection of agentic patterns from Anthropic docs, with colorful Mermaid diagrams and code examples for each pattern. Covers Subagent Orchestration, Progressive Skills, Parallel Tool Calling, Master-Clone Architecture, Wizard Workflows, and more. Also compatible with other providers.
+
+<details>
+<summary>📊 GitHub Stats</summary>
+
+![GitHub Stats for agentic-workflow-patterns](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=agentic-workflow-patterns&username=ThibautMelen&all_stats=true&stats_only=true)
+
+</details>
+<br>
+
 [`Blogging Platform Instructions` ![GitHub Repo Stars](https://img.shields.io/github/stars/cloudartisan/cloudartisan.github.io) ![GitHub last commit](https://img.shields.io/github/last-commit/cloudartisan/cloudartisan.github.io)](https://github.com/cloudartisan/cloudartisan.github.io/tree/main/.claude/commands) &nbsp; by &nbsp; [cloudartisan](https://github.com/cloudartisan)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;CC-BY-SA-4.0  
 Provides a well-structured set of commands for publishing and maintaining a blogging platform, including commands for creating posts, managing categories, and handling media files.
 
@@ -241,7 +263,7 @@ A mirror of the Anthropic &copy; PBC documentation pages for Claude Code, update
 </details>
 <br>
 
-[`Claude Code Infrastructure Showcase` ![GitHub Repo Stars](https://img.shields.io/github/stars/diet103/claude-code-infrastructure-showcase) ![GitHub last commit](https://img.shields.io/github/last-commit/diet103/claude-code-infrastructure-showcase)](https://github.com/diet103/claude-code-infrastructure-showcase) &nbsp; by &nbsp; [diet103](https://github.com/diet103)  &nbsp;&nbsp;��️&nbsp;&nbsp;MIT  
+[`Claude Code Infrastructure Showcase` ![GitHub Repo Stars](https://img.shields.io/github/stars/diet103/claude-code-infrastructure-showcase) ![GitHub last commit](https://img.shields.io/github/last-commit/diet103/claude-code-infrastructure-showcase)](https://github.com/diet103/claude-code-infrastructure-showcase) &nbsp; by &nbsp; [diet103](https://github.com/diet103)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
 A remarkably innovative approach to working with Skills, the centerpiece of which being a technique that leverages hooks to ensure that Claude intelligently selects and activates the appropriate Skill given the current context. Well-documented and adaptable to different projects and workflows.
 
 <details>

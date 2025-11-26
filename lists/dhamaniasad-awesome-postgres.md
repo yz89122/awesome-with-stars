@@ -76,6 +76,7 @@
 * [DataRow](https://www.datarow.com/) - Cross-platform SQL Client for Amazon Redshift: Simple, Effortless, Extensible.
 * [DBConvert Streams](https://streams.dbconvert.com/) - A cloud-native platform for real-time data migration and CDC replication between PostgreSQL and MySQL databases across various cloud environments. (Commercial Software).
 * [DBeaver](https://dbeaver.io/) - Universal Database Manager with excellent support for PostgreSQL.
+* [dbForge Studio for PostgreSQL](https://www.devart.com/dbforge/postgresql/studio/) - Feature-rich and intuitive IDE for managing and developing PostgreSQL databases (Commercial Software). 
 * [DbVisualizer](http://www.dbvis.com) - Cross-platform database client for developers, DBAs, and analysts (Commercial Software).
 * [Holistics](https://www.holistics.io/) - Online cross platform database management tool and SQL query reporting GUI with strong PostgreSQL support (Commercial Software).
 * [JackDB](https://www.jackdb.com/) - Web-based SQL query interface (Commercial Software).
@@ -157,9 +158,7 @@
 * [Citus ![GitHub Repo Stars](https://img.shields.io/github/stars/citusdata/citus) ![GitHub last commit](https://img.shields.io/github/last-commit/citusdata/citus)](https://github.com/citusdata/citus) - Scalable PostgreSQL cluster for real-time workloads.
 * [cstore\_fdw ![GitHub Repo Stars](https://img.shields.io/github/stars/citusdata/cstore_fdw) ![GitHub last commit](https://img.shields.io/github/last-commit/citusdata/cstore_fdw)](https://github.com/citusdata/cstore_fdw) - Columnar store for analytics with PostgreSQL.
 * [cyanaudit](https://pgxn.org/dist/cyanaudit/) - Cyan Audit provides in-database logging of all DML activity on a column-by-column basis.
-* [pg_analytics ![GitHub Repo Stars](https://img.shields.io/github/stars/paradedb/pg_analytics) ![GitHub last commit](https://img.shields.io/github/last-commit/paradedb/pg_analytics)](https://github.com/paradedb/pg_analytics) - pg_analytics is an extension that accelerates analytical query processing inside Postgres to a performance level comparable to dedicated OLAP databases.
-* [pg_lakehouse ![GitHub Repo Stars](https://img.shields.io/github/stars/paradedb/paradedb) ![GitHub last commit](https://img.shields.io/github/last-commit/paradedb/paradedb)](https://github.com/paradedb/paradedb/tree/dev/pg_lakehouse) - pg_lakehouse is an extension that transforms Postgres into an analytical query engine over object stores like AWS S3/GCS and table formats like Delta Lake/Iceberg.
-* [pg_search ![GitHub Repo Stars](https://img.shields.io/github/stars/paradedb/paradedb) ![GitHub last commit](https://img.shields.io/github/last-commit/paradedb/paradedb)](https://github.com/paradedb/paradedb/tree/dev/pg_search) - pg_search is a PostgreSQL extension that enables full-text search over SQL tables using the BM25 algorithm, the state-of-the-art ranking function for full-text search.
+* [pg_search ![GitHub Repo Stars](https://img.shields.io/github/stars/paradedb/paradedb) ![GitHub last commit](https://img.shields.io/github/last-commit/paradedb/paradedb)](https://github.com/paradedb/paradedb) - pg_search is a PostgreSQL extension that enables full-text search over SQL tables using the BM25 algorithm, the state-of-the-art ranking function for full-text search.
 * [pg_cron ![GitHub Repo Stars](https://img.shields.io/github/stars/citusdata/pg_cron) ![GitHub last commit](https://img.shields.io/github/last-commit/citusdata/pg_cron)](https://github.com/citusdata/pg_cron) - Run periodic jobs in PostgreSQL.
 * [pglogical ![GitHub Repo Stars](https://img.shields.io/github/stars/2ndQuadrant/pglogical) ![GitHub last commit](https://img.shields.io/github/last-commit/2ndQuadrant/pglogical)](https://github.com/2ndQuadrant/pglogical) - Extension that provides logical streaming replication.
 * [pgcat ![GitHub Repo Stars](https://img.shields.io/github/stars/kingluo/pgcat) ![GitHub last commit](https://img.shields.io/github/last-commit/kingluo/pgcat)](https://github.com/kingluo/pgcat) - Enhanced PostgreSQL logical replication
@@ -299,11 +298,12 @@ for `EXPLAIN`, that also provides performance tips (Commercial Software).
 * [Supabase](https://www.supabase.com) - Fully managed Postgres with read replicas, point-in-time-recovery, support packages, browser based GUI, and a generous free tier.
 * [Neon](https://neon.tech) - Fully managed serverless PostgreSQL. Neon separates storage and compute to offer modern developer features such as serverless, branching, bottomless storage, and more.
 * [Nile](https://www.thenile.dev/) - Fully managed PostgreSQL . Nile decouples storage from compute and virtualizes tenants to ship multi-tenant AI applications fast, safe, and with limitless scale. Free tier provides unlimited databases.
+* [Vela](https://vela.run) - Postgres-based backend-as-a-service built for modern AI apps. Offers instant database branches and clones, production-like test environments, and serverless scaling.
 
 ### Docker images
 * [citusdata/citus](https://hub.docker.com/r/citusdata/citus/) - Citus official images with citus extensions. Based on the official Postgres container.
 * [mdillon/postgis](https://hub.docker.com/r/mdillon/postgis/) - PostGIS 2.3 on Postgres 9. Based on the official Postgres container.
-* [paradedb/paradedb](https://hub.docker.com/r/paradedb/paradedb/) - ParadeDB is Postgres for Search and Analytics. Based on the Bitnami Postgres container with pg_search and pg_analytics Postgres extensions.
+* [paradedb/paradedb](https://hub.docker.com/r/paradedb/paradedb/) - ParadeDB is Postgres for Search and Analytics. Based on the official Postgres container with pg_search extension.
 * [postgres](https://hub.docker.com/_/postgres/) -  Official postgres container (from Docker)
 
 ### Kubernetes
