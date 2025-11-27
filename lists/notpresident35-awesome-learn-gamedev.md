@@ -508,7 +508,7 @@ Part 1](https://0fps.net/2014/02/10/replication-in-networked-games-overview-part
 [How To Draw](https://www.webtoons.com/en/challenge/how-to-draw-/intro-/viewer?title_no=730330&episode_no=1) 💠🟪 - An webcomic on how to draw, and much more importantly, how to _learn_ to draw.
 
 
-[Radiorunner's Curriculum for the Solo Artist](https://www.brendanmeachen.com/soloartist) 🟪 - A curriculum for self-teaching art. If you want to _really_ hone your skills, this will undoubtedly be worth your time.
+[Radiorunner's Curriculum for the Solo Artist](https://www.brendanmeachen.com/soloartist) ��� - A curriculum for self-teaching art. If you want to _really_ hone your skills, this will undoubtedly be worth your time.
 
 
 [DrawABox](https://drawabox.com/) 💠🟪 - An exhaustive course for the art fundamentals (completely free!)
@@ -845,7 +845,7 @@ Royalty free music! Don't forget to check the license.
 [Career Documents from Jean Leggett](https://docs.google.com/document/d/1pGglICnig6oZ1IABXLMuwAEN1azPP5pnZUvdrYwbyGs/edit) 🟪 - Another huge list of career documents and resources!
 
 
-[Game Dev LFW Resources](https://javieracordero.notion.site/cce9a8faef6e4f31bb43b7630521a4d2?v=efdf687094be499bb2d9a33f55b906bc) ��� - Yet another list of resources and communities!
+[Game Dev LFW Resources](https://javieracordero.notion.site/cce9a8faef6e4f31bb43b7630521a4d2?v=efdf687094be499bb2d9a33f55b906bc) 🟪 - Yet another list of resources and communities!
 
 
 [Interview Placemat](https://www.linkedin.com/posts/victoriaearle_jobhunt-jobsearch-interviewing-activity-7052059362810335232-UhrI/) 🟪 - A template useful for interview prep. [Archived Image](archives/InterviewPlacemat.jpg).

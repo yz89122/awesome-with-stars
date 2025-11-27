@@ -475,7 +475,7 @@ A humble but handy utility for viewing Claude Code `.jsonl` conversation files i
 </details>
 <br>
 
-[`Claude Code Templates` ![GitHub Repo Stars](https://img.shields.io/github/stars/davila7/claude-code-templates) ![GitHub last commit](https://img.shields.io/github/last-commit/davila7/claude-code-templates)](https://github.com/davila7/claude-code-templates) &nbsp; by &nbsp; [Daniel Avila](https://github.com/davila7)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
+[`Claude Code Templates` ![GitHub Repo Stars](https://img.shields.io/github/stars/davila7/claude-code-templates) ![GitHub last commit](https://img.shields.io/github/last-commit/davila7/claude-code-templates)](https://github.com/davila7/claude-code-templates) &nbsp; by &nbsp; [Daniel Avila](https://github.com/davila7)  &nbsp;&nbsp;⚖��&nbsp;&nbsp;MIT  
 Incredibly awesome collection of resources from every category in this list, presented with a neatly polished UI, great features like usage dashboard, analytics, and everything from slash commands to hooks to agents. An awesome companion for this awesome list.
 
 <details>
