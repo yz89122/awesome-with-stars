@@ -218,7 +218,7 @@ Use Strapi CMS to maintain and manage your Gatsby static site. Deploy to Heroku.
 
 Add search to your JAMStack website, through a static site integration or by crawling the content.
 
-- [Algolia](https://algolia.com/) - [���](https://stackshare.io/algolia) - Hosted search API, free up to 10,000 records.
+- [Algolia](https://algolia.com/) - [🛠](https://stackshare.io/algolia) - Hosted search API, free up to 10,000 records.
 - [DocSearch](https://community.algolia.com/docsearch) - [🐙 ![GitHub Repo Stars](https://img.shields.io/github/stars/algolia/docsearch-scraper) ![GitHub last commit](https://img.shields.io/github/last-commit/algolia/docsearch-scraper)](https://github.com/algolia/docsearch-scraper) - Crawls a website and uploads it to an index.
 - [gatsby-plugin-algolia](https://www.gatsbyjs.org/packages/gatsby-plugin-algolia/) - [🐙 ![GitHub Repo Stars](https://img.shields.io/github/stars/algolia/gatsby-plugin-algolia) ![GitHub last commit](https://img.shields.io/github/last-commit/algolia/gatsby-plugin-algolia)](https://github.com/algolia/gatsby-plugin-algolia) - Use GraphQL to specify Gatsby object to index with Algolia (beta).
 - [hugo-algolia ![GitHub Repo Stars](https://img.shields.io/github/stars/replicatedhq/hugo-algolia) ![GitHub last commit](https://img.shields.io/github/last-commit/replicatedhq/hugo-algolia)](https://github.com/replicatedhq/hugo-algolia) - [🐙 ![GitHub Repo Stars](https://img.shields.io/github/stars/replicatedhq/hugo-algolia) ![GitHub last commit](https://img.shields.io/github/last-commit/replicatedhq/hugo-algolia)](https://github.com/replicatedhq/hugo-algolia) - Generate and send indices from Hugo static sites for use with Algolia.
