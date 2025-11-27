@@ -14,6 +14,10 @@ A curated list of awesome tools, extensions, and resources for [Gemini CLI ![Git
 
 **👉 See also: [Awesome Gemini CLI Extensions ![GitHub Repo Stars](https://img.shields.io/github/stars/Piebald-AI/awesome-gemini-cli-extensions) ![GitHub last commit](https://img.shields.io/github/last-commit/Piebald-AI/awesome-gemini-cli-extensions)](https://github.com/Piebald-AI/awesome-gemini-cli-extensions)**
 
+## :tada: New
+
+- [IssueDB](https://issue-queue.readthedocs.io/en/latest/llm_agents.html) - LLM frendly command-line issue tracking system for software development projects, with built-in interface, context support and prompt providers for Gemini CLI and others.
+
 ## Contents
 
 - [Contents](#contents)
@@ -66,6 +70,7 @@ Playful and creative tools inspired by or that add personality to Gemini CLI.
 
 Tools that enhance your development workflow when using Gemini CLI.
 
+- [IssueDB](https://issue-queue.readthedocs.io/en/latest/llm_agents.html) - LLM frendly command-line issue tracking system for software development projects, with built-in interface, context support and prompt providers for Gemini CLI and others.
 - [Docker Gemini CLI ![GitHub Repo Stars](https://img.shields.io/github/stars/tgagor/docker-gemini-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/tgagor/docker-gemini-cli)](https://github.com/tgagor/docker-gemini-cli) - Gemini CLI wrapped as a Docker image, so you don't need to trash your OS with Node and its dependencies.
 - [Rulesync ![GitHub Repo Stars](https://img.shields.io/github/stars/dyoshikawa/rulesync) ![GitHub last commit](https://img.shields.io/github/last-commit/dyoshikawa/rulesync)](https://github.com/dyoshikawa/rulesync) - The Node.js CLI tool that automatically generates configs (rules, ignore files, MCP servers, commands, and subagents) for various AI coding agents. Rulesync can convert configs between Gemini CLI and other AI agents in both directions.
 - [Nix AI Tools ![GitHub Repo Stars](https://img.shields.io/github/stars/numtide/nix-ai-tools) ![GitHub last commit](https://img.shields.io/github/last-commit/numtide/nix-ai-tools)](https://github.com/numtide/nix-ai-tools) - Seamless Nix integration for reproducible Gemini CLI installations. Ensures consistent environments across teams and simplifies deployment with declarative configuration.

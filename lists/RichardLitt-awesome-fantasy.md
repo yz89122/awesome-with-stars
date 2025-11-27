@@ -1188,7 +1188,7 @@ One of the best love stories ever told. This movie has everything any kid could 
 
 The fate of the world does not really hang in balance, contrary to what the movie says. Still very fun to watch, especially if you're part of Gen Z, or have kids in primary school. - [@TheSherlockHomie](https://github.com/TheSherlockHomie)
 
-> Master sorcerer Balthazar Blake must find and train Merlin's descendant to defeat dark sorceress Morgana la F��e.
+> Master sorcerer Balthazar Blake must find and train Merlin's descendant to defeat dark sorceress Morgana la Fée.
 
 #### [Your Name - Kimi no na wa(Original title)](https://www.imdb.com/title/tt5311514/) [8.4]
 
