@@ -182,7 +182,7 @@ _Info on topics necessary for designing and developing game engines._
     - 🌎 [Metal](https://developer.apple.com/metal/) - API for developing 3D apps on _Apple_ platforms. [[Samples](https://developer.apple.com/metal/sample-code/)]
     - 📚 [Metal Tutorial](https://www.raywenderlich.com/7475-metal-tutorial-getting-started) - Learn how to get started with Metal at _RayWenderlich.com_.
 - Graphics API: OpenGL
-    - �� [LearnOpenGL](https://learnopengl.com) 🔥 - Incredible! In depth tutorials for modern graphics programming.
+    - 📚 [LearnOpenGL](https://learnopengl.com) 🔥 - Incredible! In depth tutorials for modern graphics programming.
     - 🌎 [Mesa 3D](https://www.mesa3d.org/) - Open source implementations of OpenGL.
     - 🌎 [OpenGL](https://www.opengl.org/) - The industry's foundation for high-performance graphics.
     - 📚 [OpenGL Tutorial](https://www.opengl-tutorial.org) - Collection of OpenGL tutorials with source code examples.
@@ -201,7 +201,7 @@ _Info on topics necessary for designing and developing game engines._
     - 🌎 [WebGPU Demos](https://webkit.org/demos/webgpu/) - Collection of simple WebGPU examples by _Apple_.
 - Pipeline: GPGPU
     - 🌎 [CUDA](https://developer.nvidia.com/cuda-zone) - Developed by _NVIDIA_ for parallel computing and programming.
-    - 📚 [DirectCompute](https://en.wikipedia.org/wiki/DirectCompute) - Developed by _Microsoft_ for using compute shaders with DirectX 10 & 11.
+    - ���� [DirectCompute](https://en.wikipedia.org/wiki/DirectCompute) - Developed by _Microsoft_ for using compute shaders with DirectX 10 & 11.
     - 🌎 [OpenCL](https://www.khronos.org/opencl/) - For writing programs that execute across CPUs, GPUs, and other processors.
 - Platform: XNA
     - 📚 [RB Whitaker's Wiki](http://rbwhitaker.wikidot.com/) - Tutorials on C#, MonoGame, XNA, and more.
@@ -229,7 +229,7 @@ _Info on topics necessary for designing and developing game engines._
     - 🌎 [Web Game Dev](https://www.webgamedev.com) - Resources on techniques and tools around JavaScript game development.
 - Books
     - 📚 [Art of Game Design](https://www.amazon.com/Art-Game-Design-Book-Lenses/dp/0123694965) - Teaches game design in an accessible manner.
-    - 📚 [Game Programming Patterns](https://gameprogrammingpatterns.com) - Patterns found in games that make code easier to understand.
+    - ��� [Game Programming Patterns](https://gameprogrammingpatterns.com) - Patterns found in games that make code easier to understand.
 - Developer Portals
     - 🌎 [Game Developer](https://www.gamedeveloper.com) - Industry blogs, events, jobs, updates and more. Formerly _Gamasutra_.
     - 🌎 [GameDev.net](https://www.gamedev.net/) - Game dev forums, tutorials, blogs, projects, portfolios, and news.
@@ -426,7 +426,7 @@ _Language specific game engine development libraries / frameworks / code._
 - C++: Game Framework
     - 🎉 [Acid ![GitHub Repo Stars](https://img.shields.io/github/stars/EQMG/Acid) ![GitHub last commit](https://img.shields.io/github/last-commit/EQMG/Acid)](https://github.com/EQMG/Acid) - Modern C++17 and structured to be fast, simple, and modular.
     - 🎉 [blah ![GitHub Repo Stars](https://img.shields.io/github/stars/NoelFB/blah) ![GitHub last commit](https://img.shields.io/github/last-commit/NoelFB/blah)](https://github.com/NoelFB/blah) - Small 2D game framework.
-    - 🎉 [Cocos2d-x ![GitHub Repo Stars](https://img.shields.io/github/stars/cocos2d/cocos2d-x) ![GitHub last commit](https://img.shields.io/github/last-commit/cocos2d/cocos2d-x)](https://github.com/cocos2d/cocos2d-x) - Widely used in indie game dev community.
+    - �� [Cocos2d-x ![GitHub Repo Stars](https://img.shields.io/github/stars/cocos2d/cocos2d-x) ![GitHub last commit](https://img.shields.io/github/last-commit/cocos2d/cocos2d-x)](https://github.com/cocos2d/cocos2d-x) - Widely used in indie game dev community.
     - 🎉 [Cute Framework ![GitHub Repo Stars](https://img.shields.io/github/stars/RandyGaul/cute_framework) ![GitHub last commit](https://img.shields.io/github/last-commit/RandyGaul/cute_framework)](https://github.com/RandyGaul/cute_framework) - Simple and consise framework for making 2D games.
     - 🔒 [Fireworks Engine ![GitHub Repo Stars](https://img.shields.io/github/stars/Pikachuxxxx/Fireworks-Engine) ![GitHub last commit](https://img.shields.io/github/last-commit/Pikachuxxxx/Fireworks-Engine)](https://github.com/Pikachuxxxx/Fireworks-Engine) - Lightweight OpenGL framework for quick prototyping.
     - 🎉 [Halley ![GitHub Repo Stars](https://img.shields.io/github/stars/amzeratul/halley) ![GitHub last commit](https://img.shields.io/github/last-commit/amzeratul/halley)](https://github.com/amzeratul/halley) - Modern C++17. Used for _Wargroove_, a strategy game on desktop and consoles.
