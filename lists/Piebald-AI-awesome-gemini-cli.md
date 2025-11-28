@@ -9,11 +9,11 @@ A curated list of awesome tools, extensions, and resources for [Gemini CLI ![Git
 > :tada: We'll create a new release highlighting **new entries** each week. :star2: Star this repository to receive **release notifications :bell:** for the new entries in your GitHub dashboard!
 -->
 
-
-
 ## :tada: New
 
-- [IssueDB](https://issue-queue.readthedocs.io/en/latest/llm_agents.html) - LLM frendly command-line issue tracking system for software development projects, with built-in interface, context support and prompt providers for Gemini CLI and others.
+- [**Gemini Dockerized CLI** ![GitHub Repo Stars](https://img.shields.io/github/stars/nordluf/gemini-dockerized-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/nordluf/gemini-dockerized-cli)](https://github.com/nordluf/gemini-dockerized-cli) - Gemini Dockerized CLI with small improvements.
+- [**Gemini CLI Tips by Addy Osmani** ![GitHub Repo Stars](https://img.shields.io/github/stars/addyosmani/gemini-cli-tips) ![GitHub last commit](https://img.shields.io/github/last-commit/addyosmani/gemini-cli-tips)](https://github.com/addyosmani/gemini-cli-tips) - ~30 pro-tips for effectively using Gemini CLI for agentic coding.
+- [**IssueDB**](https://issue-queue.readthedocs.io/en/latest/llm_agents.html) - LLM frendly command-line issue tracking system for software development projects, with built-in interface, context support and prompt providers for Gemini CLI and others.
 
 > [!tip]
 > **Track your local Gemini CLI usage with [Splitrail ![GitHub Repo Stars](https://img.shields.io/github/stars/Piebald-AI/splitrail) ![GitHub last commit](https://img.shields.io/github/last-commit/Piebald-AI/splitrail)](https://github.com/Piebald-AI/splitrail).**
