@@ -480,7 +480,7 @@ All resources are freely available except those with a 💲 icon.
 
 ### Complex Analysis
 
-* ���� [Introduction to Complex Analysis](https://mtaylor.web.unc.edu/wp-content/uploads/sites/16915/2018/04/complex.pdf) - Michael Taylor
+* 📝 [Introduction to Complex Analysis](https://mtaylor.web.unc.edu/wp-content/uploads/sites/16915/2018/04/complex.pdf) - Michael Taylor
 * 📝 [An Introduction to Complex Analysis and Geometry](http://www.math.uiuc.edu/~jpda/jpd-complex-geometry-book-5-refs-bip.pdf) - John P. D'Angelo (University of Illinois)
 * 📝 [A First Course in Complex Analysis](http://math.sfsu.edu/beck/papers/complex.pdf) - Matthias Beck, Gerald Marchesi, Dennis Pixton, Lucas Sabalka
 * 📝 [A Guide to Complex Variables](http://www.math.wustl.edu/~sk/books/guide.pdf) - Steven G. Krantz
@@ -489,7 +489,7 @@ All resources are freely available except those with a 💲 icon.
 * 📝 [Complex Variables](http://people.math.sc.edu/girardi/m7034/book/AshComplexVariablesWithHyperlinks.pdf) - R. B. Ash, W.P. Novinger
 * 📝 [Complex Analysis](http://www.maths.lth.se/matematiklu/personal/olofsson/CompHT06.pdf) - Christer Bennewitz
 * 📝 [Complex Analysis](https://web.archive.org/web/20150620124453/https://www.math.washington.edu/~marshall/math_536/Notes.pdf) - Donald E. Marshall
-* 📝 [A Concise Course in Complex Analysis and Riemann Surfaces](https://gauss.math.yale.edu/~ws442/complex.pdf) - Wilhelm Schlag
+* �� [A Concise Course in Complex Analysis and Riemann Surfaces](https://gauss.math.yale.edu/~ws442/complex.pdf) - Wilhelm Schlag
 * 📝 [Complex Analysis](http://people.math.gatech.edu/%7Ecain/winter99/complex.html) - G. Cain (Georgia Tech)
 * 📝 [Complex Analysis](https://complex-analysis.com/) - Juan Carlos Ponce Campuzano
 
@@ -507,7 +507,7 @@ All resources are freely available except those with a 💲 icon.
 ### Measure Theory
 
 * 📝 [An Introduction to Measure Theory](https://terrytao.files.wordpress.com/2012/12/gsm-126-tao5-measure-book.pdf) - Terence Tao (UCLA)
-* �� [Lecture Notes on Measure Theory and Functional Analysis](http://www.mat.uniroma2.it/~cannarsa/cam_0607.pdf) - P. Cannarsa, T. D’Aprile
+* 📝 [Lecture Notes on Measure Theory and Functional Analysis](http://www.mat.uniroma2.it/~cannarsa/cam_0607.pdf) - P. Cannarsa, T. D’Aprile
 * 📝 [Lecture Notes in Measure Theory](http://www.math.chalmers.se/~borell/MeasureTheory.pdf) - Christer Borell
 * 📝 [A Crash Course on the Lebesgue Integral and Measure Theory](http://www.gold-saucer.org/math/lebesgue/lebesgue.pdf) - Steve Cheng
 * 📝 [Measure Theory](https://www.math.ucdavis.edu/~hunter/measure_theory/measure_notes.pdf) - John K. Hunter (University of California at Davis)
