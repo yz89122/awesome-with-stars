@@ -74,6 +74,7 @@ A collection of awesome things regarding the React ecosystem.
 - [ariakit ![GitHub Repo Stars](https://img.shields.io/github/stars/ariakit/ariakit) ![GitHub last commit](https://img.shields.io/github/last-commit/ariakit/ariakit)](https://github.com/ariakit/ariakit) - Toolkit for building accessible web apps with React
 - [react-email ![GitHub Repo Stars](https://img.shields.io/github/stars/resend/react-email) ![GitHub last commit](https://img.shields.io/github/last-commit/resend/react-email)](https://github.com/resend/react-email) - Unstyled components for creating beautiful emails
 - [8bitcn-ui ![GitHub Repo Stars](https://img.shields.io/github/stars/TheOrcDev/8bitcn-ui) ![GitHub last commit](https://img.shields.io/github/last-commit/TheOrcDev/8bitcn-ui)](https://github.com/TheOrcDev/8bitcn-ui) - A retro 8-bit themed React component library built on top of shadcn
+- [headlessui ![GitHub Repo Stars](https://img.shields.io/github/stars/tailwindlabs/headlessui) ![GitHub last commit](https://img.shields.io/github/last-commit/tailwindlabs/headlessui)](https://github.com/tailwindlabs/headlessui) - Completely unstyled, accessible UI components for React
 
 #### React State Management and Data Fetching
 
