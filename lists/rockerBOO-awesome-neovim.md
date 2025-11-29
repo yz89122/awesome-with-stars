@@ -413,6 +413,7 @@
 - [doodleEsc/translator.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/doodleEsc/translator.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/doodleEsc/translator.nvim)](https://github.com/doodleEsc/translator.nvim) - A powerful AI-powered translation plugin, leveraging OpenAI's GPT models to provide high-quality translations with natural language understanding.
 - [kiyoon/Korean-IME.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/kiyoon/Korean-IME.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/kiyoon/Korean-IME.nvim)](https://github.com/kiyoon/Korean-IME.nvim) - OS-independent Korean input method that converts English inputs to Korean in-place.
 - [bennorichters/taal.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/bennorichters/taal.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/bennorichters/taal.nvim)](https://github.com/bennorichters/taal.nvim) - Improve grammar and spelling errors in multiple languages using LLMs.
+- [walkersumida/deepl.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/walkersumida/deepl.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/walkersumida/deepl.nvim)](https://github.com/walkersumida/deepl.nvim) - Translates text using the DeepL API with multiple output modes (float, replace, append).
 
 <!--lint disable double-link -->
 
