@@ -403,7 +403,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🔒 [Crown Engine ![GitHub Repo Stars](https://img.shields.io/github/stars/crownengine/crown) ![GitHub last commit](https://img.shields.io/github/last-commit/crownengine/crown)](https://github.com/crownengine/crown) - Data-driven 3D and 2D game engine.
     - 🎉 [Crystal Engine ![GitHub Repo Stars](https://img.shields.io/github/stars/neelmewada/CrystalEngine) ![GitHub last commit](https://img.shields.io/github/last-commit/neelmewada/CrystalEngine)](https://github.com/neelmewada/CrystalEngine) - Vulkan backend with PBR and styled GUI (_CrystalWidgets_).
     - 🎉 [Drop Creator ![GitHub Repo Stars](https://img.shields.io/github/stars/scidian/drop) ![GitHub last commit](https://img.shields.io/github/last-commit/scidian/drop)](https://github.com/scidian/drop) - No code, 2.5D game engine built with _Qt_, OpenGL and _Chipmunk Physics_.
-    - 🔒 [Enigma ![GitHub Repo Stars](https://img.shields.io/github/stars/enigma-dev/enigma-dev) ![GitHub last commit](https://img.shields.io/github/last-commit/enigma-dev/enigma-dev)](https://github.com/enigma-dev/enigma-dev) - GameMaker compatible 2D engine.
+    - �� [Enigma ![GitHub Repo Stars](https://img.shields.io/github/stars/enigma-dev/enigma-dev) ![GitHub last commit](https://img.shields.io/github/last-commit/enigma-dev/enigma-dev)](https://github.com/enigma-dev/enigma-dev) - GameMaker compatible 2D engine.
     - 🎉 [Esoterica Engine ![GitHub Repo Stars](https://img.shields.io/github/stars/BobbyAnguelov/Esoterica) ![GitHub last commit](https://img.shields.io/github/last-commit/BobbyAnguelov/Esoterica)](https://github.com/BobbyAnguelov/Esoterica) - High-performance game engine with editor and AAA quality animation graph.
     - 🎉 [Ethereal Engine ![GitHub Repo Stars](https://img.shields.io/github/stars/ir-engine/etherealengine-archive) ![GitHub last commit](https://img.shields.io/github/last-commit/ir-engine/etherealengine-archive)](https://github.com/ir-engine/etherealengine-archive) - Cross-platform game engine and editor.
     - 🎉 [ezEngine ![GitHub Repo Stars](https://img.shields.io/github/stars/ezEngine/ezEngine) ![GitHub last commit](https://img.shields.io/github/last-commit/ezEngine/ezEngine)](https://github.com/ezEngine/ezEngine) - Game engine in active development.
@@ -651,7 +651,7 @@ _Language specific game engine development libraries / frameworks / code._
 - 📚 [Awesome Go ![GitHub Repo Stars](https://img.shields.io/github/stars/avelino/awesome-go) ![GitHub last commit](https://img.shields.io/github/last-commit/avelino/awesome-go)](https://github.com/avelino/awesome-go) - Awesome Go frameworks, libraries and software.
 - 🌎 [Go](https://go.dev/) - Statically typed, compiled programming language designed at _Google_. [[GitHub](https://github.com/golang)]
 - Go: Audio
-    - 🎉 [Beep ![GitHub Repo Stars](https://img.shields.io/github/stars/faiface/beep) ![GitHub last commit](https://img.shields.io/github/last-commit/faiface/beep)](https://github.com/faiface/beep) - Playback and audio-processing.
+    - ���� [Beep ![GitHub Repo Stars](https://img.shields.io/github/stars/faiface/beep) ![GitHub last commit](https://img.shields.io/github/last-commit/faiface/beep)](https://github.com/faiface/beep) - Playback and audio-processing.
 - Go: Game Engine w/Editor
     - 🎉 [G3N ![GitHub Repo Stars](https://img.shields.io/github/stars/g3n/engine) ![GitHub last commit](https://img.shields.io/github/last-commit/g3n/engine)](https://github.com/g3n/engine) - OpenGL 3D game engine.
 - Go: Game Framework
