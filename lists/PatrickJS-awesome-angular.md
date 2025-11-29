@@ -1235,6 +1235,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [embla-carousel-angular ![GitHub Repo Stars](https://img.shields.io/github/stars/donaldxdonald/embla-carousel-angular) ![GitHub last commit](https://img.shields.io/github/last-commit/donaldxdonald/embla-carousel-angular)](https://github.com/donaldxdonald/embla-carousel-angular) - Angular wrapper for [Embla Carousel ![GitHub Repo Stars](https://img.shields.io/github/stars/davidjerleke/embla-carousel) ![GitHub last commit](https://img.shields.io/github/last-commit/davidjerleke/embla-carousel)](https://github.com/davidjerleke/embla-carousel).
 * [@vinlos/ngx-gallery ![GitHub Repo Stars](https://img.shields.io/github/stars/vinlos/ngx-gallery) ![GitHub last commit](https://img.shields.io/github/last-commit/vinlos/ngx-gallery)](https://github.com/vinlos/ngx-gallery) - A simple native gallery component for Angular 16+.
 * [ngx-cdk-lightbox ![GitHub Repo Stars](https://img.shields.io/github/stars/miskith/ngx-cdk-lightbox) ![GitHub last commit](https://img.shields.io/github/last-commit/miskith/ngx-cdk-lightbox)](https://github.com/miskith/ngx-cdk-lightbox/tree/master/projects/ngx-cdk-lightbox) - Tailored CDK-based solution for rendering an image gallery with lightbox functionality in Angular.
+* [rm-image-slider ![GitHub Repo Stars](https://img.shields.io/github/stars/malikrajat/rm-image-slider) ![GitHub last commit](https://img.shields.io/github/last-commit/malikrajat/rm-image-slider)](https://github.com/malikrajat/rm-image-slider) - Standalone Angular image slider with lightbox, lazy loading, and video support (YouTube/MP4).
 
 ### Charts
 
@@ -1433,6 +1434,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [quill-table-better-dooooit](https://www.npmjs.com/package/quill-table-better-dooooit) - A module that enhances the table functionality of `Quill`.
 * [ngx-wysicat ![GitHub Repo Stars](https://img.shields.io/github/stars/michalgrzegorczyk-dev/ngx-wysicat) ![GitHub last commit](https://img.shields.io/github/last-commit/michalgrzegorczyk-dev/ngx-wysicat)](https://github.com/michalgrzegorczyk-dev/ngx-wysicat) - Block‑editing and advanced formatting on top of Quill; plugins for structured documents.
 * [ng-diagram ![GitHub Repo Stars](https://img.shields.io/github/stars/synergycodes/ng-diagram) ![GitHub last commit](https://img.shields.io/github/last-commit/synergycodes/ng-diagram)](https://github.com/synergycodes/ng-diagram) - A robust Angular library for building interactive diagrams, Node-based editors, and visual programming interfaces.
+* [armor-editor ![GitHub Repo Stars](https://img.shields.io/github/stars/technicults/armor-editor) ![GitHub last commit](https://img.shields.io/github/last-commit/technicults/armor-editor)](https://github.com/technicults/armor-editor) - A secure, lightweight rich text editor with premium features—built to integrate seamlessly into Angular applications.
 
 ### File Upload
 
@@ -1937,6 +1939,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ng-storage ![GitHub Repo Stars](https://img.shields.io/github/stars/edisonaugusthy/ng-storage) ![GitHub last commit](https://img.shields.io/github/last-commit/edisonaugusthy/ng-storage)](https://github.com/edisonaugusthy/ng-storage) - A modern, reactive Angular service for browser storage management with AES-GCM encryption, TTL, change notifications, and Apollo-style providers.
 * [convex-angular ![GitHub Repo Stars](https://img.shields.io/github/stars/azhukau-dev/convex-angular) ![GitHub last commit](https://img.shields.io/github/last-commit/azhukau-dev/convex-angular)](https://github.com/azhukau-dev/convex-angular) - The Angular client for Convex.
 * [secure-client-store ![GitHub Repo Stars](https://img.shields.io/github/stars/msaadart/secure-client-store) ![GitHub last commit](https://img.shields.io/github/last-commit/msaadart/secure-client-store)](https://github.com/msaadart/secure-client-store) - Universal TypeScript library for AES-256-GCM client-side encryption (works in browsers & Node.js).
+* [ngx-persist ![GitHub Repo Stars](https://img.shields.io/github/stars/khvedela/ngx-persist) ![GitHub last commit](https://img.shields.io/github/last-commit/khvedela/ngx-persist)](https://github.com/khvedela/ngx-persist) - A type‑safe, signal‑based persistent state utility for Angular, syncing with localStorage, sessionStorage, IndexedDB, or custom backends.
 
 ### Tooltips
 
