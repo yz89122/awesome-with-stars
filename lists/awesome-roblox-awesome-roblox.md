@@ -49,6 +49,7 @@
 ### Backpack
 
 - [Neobar ![GitHub Repo Stars](https://img.shields.io/github/stars/ImAvafe/NeoHotbar) ![GitHub last commit](https://img.shields.io/github/last-commit/ImAvafe/NeoHotbar)](https://github.com/ImAvafe/NeoHotbar) - A modern, customizable hotbar for Roblox.
+- [Purse ![GitHub Repo Stars](https://img.shields.io/github/stars/RyanLua/Purse) ![GitHub last commit](https://img.shields.io/github/last-commit/RyanLua/Purse)](https://github.com/RyanLua/Purse) - CoreGui decoupled version of the Roblox default backpack.
 - [Satchel ![GitHub Repo Stars](https://img.shields.io/github/stars/RyanLua/Satchel) ![GitHub last commit](https://img.shields.io/github/last-commit/RyanLua/Satchel)](https://github.com/RyanLua/Satchel) - Modern alternative to Roblox's default backpack.
 
 ### Topbar
