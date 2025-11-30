@@ -888,7 +888,7 @@ This section contains libraries that take an experimental or unorthodox approach
 - Meetup [Tricity](https://www.meetup.com/pl-PL/Flutter-Tricity/)
 - Twitter [Tricity](https://twitter.com/FlutterTricity/)
 
-### 🇵�� Portugal
+### 🇵🇹 Portugal
 - [Meetup](https://www.meetup.com/flutterportugal)
 
 ### 🇵🇪 Peru
@@ -917,7 +917,7 @@ This section contains libraries that take an experimental or unorthodox approach
 - [Community GitHub Page](https://github.com/Colombo-Flutter-Meetup)
 - [Facebook Page](https://www.facebook.com/flutterCMB/)
 
-### 🇹🇷 Turkey
+### 🇹��� Turkey
 
 - [Twitter](https://twitter.com/flutter_turkiye)
 - [Medium](https://medium.com/flutter-türkiye/)
