@@ -157,6 +157,10 @@ This list accepts and encourages pull requests. See [CONTRIBUTING ![GitHub Repo 
 - [Percona Replication Manager ![GitHub Repo Stars](https://img.shields.io/github/stars/percona/replication-manager) ![GitHub last commit](https://img.shields.io/github/last-commit/percona/replication-manager)](https://github.com/percona/replication-manager) - Asynchronous MySQL replication manager agent for Pacemaker. Supports file and GTID based replication, geo-distributed clusters using booth.
 - [replication-manager ![GitHub Repo Stars](https://img.shields.io/github/stars/signal18/replication-manager) ![GitHub last commit](https://img.shields.io/github/last-commit/signal18/replication-manager)](https://github.com/signal18/replication-manager) - a high availability solution to manage MariaDB 10.x and MySQL & Percona Server 5.7 GTID replication topologies.
 
+## MCP
+
+- [MCP MariaDB Server ![GitHub Repo Stars](https://img.shields.io/github/stars/MariaDB/mcp) ![GitHub last commit](https://img.shields.io/github/last-commit/MariaDB/mcp)](https://github.com/MariaDB/mcp) - the official MariaDB MCP server.
+
 ## Proxy
 
 *Proxies to MySQL*
