@@ -622,7 +622,7 @@ All resources are freely available except those with a 💲 icon.
 
 ## Mathematical Biology
 
-* 📝 [Mathematical Biology](http://www.math.ust.hk/~machas/mathematical-biology.pdf) - Jeffrey Chasnov
+* ��� [Mathematical Biology](http://www.math.ust.hk/~machas/mathematical-biology.pdf) - Jeffrey Chasnov
 
 ## Mathematical Physics
 
