@@ -18,6 +18,7 @@ This list accepts and encourages pull requests. See [CONTRIBUTING ![GitHub Repo 
     - [Development](#development)
     - [GUI](#gui)
     - [HA](#ha)
+    - [MCP](#mcp)
     - [Proxy](#proxy)
     - [Replication](#replication)
     - [Schema](#schema)
