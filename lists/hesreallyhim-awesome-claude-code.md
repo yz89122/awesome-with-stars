@@ -413,7 +413,7 @@ A broader project management workflow for Claude Code that encompasses not just 
 
 <br>
 
-## Tooling 🧰 [��](#awesome-claude-code)
+## Tooling 🧰 [🔝](#awesome-claude-code)
 
 > **Tooling** denotes applications that are built on top of Claude Code and consist of more components than slash-commands and `CLAUDE.md` files
 
