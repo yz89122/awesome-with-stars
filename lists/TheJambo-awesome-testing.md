@@ -59,6 +59,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Ferrum ![GitHub Repo Stars](https://img.shields.io/github/stars/rubycdp/ferrum) ![GitHub last commit](https://img.shields.io/github/last-commit/rubycdp/ferrum)](https://github.com/rubycdp/ferrum) - Chrome automation via CDP with a high-level Ruby API.
 - [Hyperbrowser](https://hyperbrowser.ai) - Scalable headless browser testing with built-in session recording.
 - [Hercules ![GitHub Repo Stars](https://img.shields.io/github/stars/test-zeus-ai/testzeus-hercules) ![GitHub last commit](https://img.shields.io/github/last-commit/test-zeus-ai/testzeus-hercules)](https://github.com/test-zeus-ai/testzeus-hercules) - Open-source end-to-end testing agent.
+- [Keploy](https://keploy.io) – Open-source AI-powered end-to-end testing tool for APIs and microservices that auto-generates test cases and mocks from real traffic.
 - [LambdaTest](https://www.lambdatest.com) - Unified enterprise test execution cloud platform for browser and mobile testing.
 - [Mocky Balboa](https://docs.mockybalboa.com/) - Mock server side network requests in your fullstack apps declaratively at runtime
 - [Octomind](https://github.com/OctoMind-dev) - AI-powered test case discovery and maintenance.
