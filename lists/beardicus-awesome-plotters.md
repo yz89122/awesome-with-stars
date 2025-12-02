@@ -59,7 +59,9 @@ Pen plotters available to build or purchase, historical information, and restora
 - [Arduino CNC Drawing Machine](https://www.diymachines.co.uk/arduino-cnc-drawing-machine) - A fairly simple 3d-printed AxiDraw-style plotter with good video documentation.
 - [PlotterXY ![GitHub Repo Stars](https://img.shields.io/github/stars/jamescarruthers/PlotterXY) ![GitHub last commit](https://img.shields.io/github/last-commit/jamescarruthers/PlotterXY)](https://github.com/jamescarruthers/PlotterXY) - A coreXY plotter made from extrusion, 3d-printed parts, and an inexpensive 3d-printer control board.
 - [NextDraw](https://store.bantamtools.com/collections/bantam-tools-nextdraw) - The [Bantam Tools](https://www.bantamtools.com) successor to the popular AxiDraw pen plotter.
+- [openBrushograph ![GitHub Repo Stars](https://img.shields.io/github/stars/openBrushograph/openBrushograph_hardware) ![GitHub last commit](https://img.shields.io/github/last-commit/openBrushograph/openBrushograph_hardware)](https://github.com/openBrushograph/openBrushograph_hardware) - Open source 3d-printable XY gantry and Z-stage designed for automated brush and pen painting.
 - [Lego-Pen-Plotter ![GitHub Repo Stars](https://img.shields.io/github/stars/Jormono1/Lego-Pen-Plotter) ![GitHub last commit](https://img.shields.io/github/last-commit/Jormono1/Lego-Pen-Plotter)](https://github.com/Jormono1/Lego-Pen-Plotter) - Pen plotter built entirely of LEGO and programmed with PyBricks and Python.
+- [Makelangelo 5](https://www.marginallyclever.com/products/makelangelo-5/) - Polargraph robot that draws on a wall, window, or easel.
 - [Reviving the Apple 410 Color Plotter](https://www.nycresistor.com/2017/12/13/reviving-the-apple-410-color-plotter/)
 - [Apple-410 ![GitHub Repo Stars](https://img.shields.io/github/stars/phooky/Apple-410) ![GitHub last commit](https://img.shields.io/github/last-commit/phooky/Apple-410)](https://github.com/phooky/Apple-410) - Apple 410 Color Plotter documentation, drivers, and ROM dumps.
 
@@ -135,6 +137,7 @@ Software for controlling plotter hardware.
 
 - [axidraw ![GitHub Repo Stars](https://img.shields.io/github/stars/evil-mad/axidraw) ![GitHub last commit](https://img.shields.io/github/last-commit/evil-mad/axidraw)](https://github.com/evil-mad/axidraw) - Official AxiDraw extensions for Inkscape.
 - [axi ![GitHub Repo Stars](https://img.shields.io/github/stars/fogleman/axi) ![GitHub last commit](https://img.shields.io/github/last-commit/fogleman/axi)](https://github.com/fogleman/axi) - Unofficial Python library for the AxiDraw v3.
+- [bCNC ![GitHub Repo Stars](https://img.shields.io/github/stars/vlachoudis/bCNC) ![GitHub last commit](https://img.shields.io/github/last-commit/vlachoudis/bCNC)](https://github.com/vlachoudis/bCNC) - Cross-platform G-code sender and CNC control software for grbl.
 - [xy ![GitHub Repo Stars](https://img.shields.io/github/stars/fogleman/xy) ![GitHub last commit](https://img.shields.io/github/last-commit/fogleman/xy)](https://github.com/fogleman/xy) - Utilities for the Makeblock XY Plotter Robot Kit.
 - [LaserGRBL ![GitHub Repo Stars](https://img.shields.io/github/stars/arkypita/LaserGRBL) ![GitHub last commit](https://img.shields.io/github/last-commit/arkypita/LaserGRBL)](https://github.com/arkypita/LaserGRBL) - Laser-optimized Windows GUI for grbl controllers. Could be repurposed for DIY pen plotters that use a solenoid for pen up/down movements.
 - [Line-us Inkscape Plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/Line-us/Inkscape-Plugin) ![GitHub last commit](https://img.shields.io/github/last-commit/Line-us/Inkscape-Plugin)](https://github.com/Line-us/Inkscape-Plugin) - Sends drawings to the Line-us plotter directly from Inkscape.
@@ -148,6 +151,8 @@ Software for controlling plotter hardware.
 - [saxi ![GitHub Repo Stars](https://img.shields.io/github/stars/nornagon/saxi) ![GitHub last commit](https://img.shields.io/github/last-commit/nornagon/saxi)](https://github.com/nornagon/saxi) - Driver and library for the AxiDraw. Uses constant-acceleration motion planning and automatically resizes to paper.
 - [MP2300-Tools ![GitHub Repo Stars](https://img.shields.io/github/stars/Jan--Henrik/MP2300-Tools) ![GitHub last commit](https://img.shields.io/github/last-commit/Jan--Henrik/MP2300-Tools)](https://github.com/Jan--Henrik/MP2300-Tools) - Software for converting HPGL to Graphtec's GPGL format, as well as CAD files for a Graphtec plotter pen adapter.
 - [Inkcut ![GitHub Repo Stars](https://img.shields.io/github/stars/inkcut/inkcut) ![GitHub last commit](https://img.shields.io/github/last-commit/inkcut/inkcut)](https://github.com/inkcut/inkcut) - Application for controlling 2D plotters, cutters, engravers, and CNC machines.
+- [plottie ![GitHub Repo Stars](https://img.shields.io/github/stars/mossblaser/plottie) ![GitHub last commit](https://img.shields.io/github/last-commit/mossblaser/plottie)](https://github.com/mossblaser/plottie) - Command-line tool for controlling Silhouette plotters and cutters with SVG input.
+- [py_silhouette ![GitHub Repo Stars](https://img.shields.io/github/stars/mossblaser/py_silhouette) ![GitHub last commit](https://img.shields.io/github/last-commit/mossblaser/py_silhouette)](https://github.com/mossblaser/py_silhouette) - Python library for controlling Silhouette plotters and cutters.
 - [pypenwriter ![GitHub Repo Stars](https://img.shields.io/github/stars/Lana-chan/pypenwriter) ![GitHub last commit](https://img.shields.io/github/last-commit/Lana-chan/pypenwriter)](https://github.com/Lana-chan/pypenwriter) - Python script to convert and send SVG drawings to the Panasonic PenWriter family of typewriter plotters.
 
 ### Vector Creation
@@ -196,6 +201,7 @@ Tools to create vector artwork from scratch or by conversion from other formats.
 Tools to manipulate and optimize vector-based file formats.
 
 - [svgsort ![GitHub Repo Stars](https://img.shields.io/github/stars/inconvergent/svgsort) ![GitHub last commit](https://img.shields.io/github/last-commit/inconvergent/svgsort)](https://github.com/inconvergent/svgsort) - Path planning for plotting SVG files, reduces time spent moving with the pen up.
+- [svgoutline ![GitHub Repo Stars](https://img.shields.io/github/stars/mossblaser/svgoutline) ![GitHub last commit](https://img.shields.io/github/last-commit/mossblaser/svgoutline)](https://github.com/mossblaser/svgoutline) - Python library to extract strokes and outlines from SVGs as line segments.
 - [svgo ![GitHub Repo Stars](https://img.shields.io/github/stars/svg/svgo) ![GitHub last commit](https://img.shields.io/github/last-commit/svg/svgo)](https://github.com/svg/svgo) - Node.js-based tool for optimizing SVG files.
 - [Polargraph Optimizer ![GitHub Repo Stars](https://img.shields.io/github/stars/ezheidtmann/polargraph-optimizer) ![GitHub last commit](https://img.shields.io/github/last-commit/ezheidtmann/polargraph-optimizer)](https://github.com/ezheidtmann/polargraph-optimizer) - Optimize drawing plan for a polargraph.
 - [penkit-optimize ![GitHub Repo Stars](https://img.shields.io/github/stars/paulgb/penkit) ![GitHub last commit](https://img.shields.io/github/last-commit/paulgb/penkit)](https://github.com/paulgb/penkit/tree/master/optimizer) - An SVG optimizer that uses a vehicle routing solver to minimize plot time.
@@ -371,7 +377,7 @@ Academic papers about pen plotters, art, and related topics.
 
 - [Toward Aesthetic Guidelines for Paintings with the Aid of a Computer (1975) (paywall)](https://www.jstor.org/stable/1573236) - Vera Molnar.
 - [Pen Plotter as a Low-Cost Platform for Rapid Device Prototyping with Solution-Processable Nanomaterials (2023) (PDF)](https://onlinelibrary.wiley.com/doi/pdf/10.1002/adem.202300226)
-- [Preparation of V2O5 Thin Film by Sol–Gel Technique and Pen Plotter Printing](https://www.proquest.com/docview/2791602751)
+- [Preparation of V2O5 Thin Film by Sol–Gel Technique and Pen Plotter Printing](https://www.proquest.com/docview/2791602751?sourcetype=Scholarly%20Journals)
 - [PatternPortrait: Draw Me Like One of Your Scribbles (2024)](https://arxiv.org/abs/2401.13001)
 - [Can I teach a robot to replicate a line art (2019)](https://arxiv.org/abs/1910.07860)
 - [Tools, Tricks, and Hacks: Exploring Novel Digital Fabrication Workflows on #PlotterTwitter](https://dl.acm.org/doi/abs/10.1145/3411764.3445653) - Research paper on the novel workflows of the plotter community ([Video Summary](https://www.youtube.com/watch?v=xqhT-8ElJ68)).
