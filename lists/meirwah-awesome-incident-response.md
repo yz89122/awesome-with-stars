@@ -194,7 +194,7 @@ Digital Forensics and Incident Response (DFIR) teams are groups of people in an 
 * [Linux Memory Grabber ![GitHub Repo Stars](https://img.shields.io/github/stars/halpomeranz/lmg) ![GitHub last commit](https://img.shields.io/github/last-commit/halpomeranz/lmg)](https://github.com/halpomeranz/lmg/) - Script for dumping Linux memory and creating Volatility profiles.
 * [MAGNET DumpIt](https://www.magnetforensics.com/resources/magnet-dumpit-for-windows) - Fast memory acquisition tool for Windows (x86, x64, ARM64). Generate full memory crash dumps of Windows machines.
 * [Magnet RAM Capture](https://www.magnetforensics.com/free-tool-magnet-ram-capture/) - Free imaging tool designed to capture the physical memory of a suspect’s computer. Supports recent versions of Windows.
-* [OSForensics](http://www.osforensics.com/) - Tool to acquire live memory on 32-bit and 64-bit systems. A dump of an individual process���s memory space or physical memory dump can be done.
+* [OSForensics](http://www.osforensics.com/) - Tool to acquire live memory on 32-bit and 64-bit systems. A dump of an individual process’s memory space or physical memory dump can be done.
 
 ### OSX Evidence Collection
 
