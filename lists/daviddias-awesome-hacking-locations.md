@@ -861,7 +861,7 @@ Webpage: http://4sq.com/1JRQG4q
 
 Wifi | Power | Climatization  | Address | Open Hours
 ---- | ----- | -------------- | ------- | ----------
-✔ | ✔ | ❄���/♨️ | [Av. Joao XXI Lisboa](https://goo.gl/AadA8A) | Mon-Sat 7:30AM:8PM
+✔ | ✔ | ❄️/♨️ | [Av. Joao XXI Lisboa](https://goo.gl/AadA8A) | Mon-Sat 7:30AM:8PM
 
 #### Copenhagen Coffee Lab, Lisboa
 
@@ -1123,7 +1123,7 @@ Webpage: http://cafefatoljen.com
 
 Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
-✔    | ✔     | Götgatan 14, 118 46 Stockholm, Sweden | 9–23
+✔    | ✔     | G��tgatan 14, 118 46 Stockholm, Sweden | 9–23
 
 #### Café Pascal
 
