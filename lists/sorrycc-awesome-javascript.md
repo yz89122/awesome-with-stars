@@ -167,6 +167,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [ava ![GitHub Repo Stars](https://img.shields.io/github/stars/avajs/ava) ![GitHub last commit](https://img.shields.io/github/last-commit/avajs/ava)](https://github.com/avajs/ava) - 🚀 Futuristic JavaScript test runner
 * [Cypress](https://www.cypress.io/) - Complete end-to-end testing framework for anything that runs in a browser and beyond.
 * [WebdriverI/O](https://webdriver.io/) - Next-gen browser and mobile automation test framework for Node.js
+* [Suites](https://suites.dev) - A unit-testing framework for backends working with inversion of control and dependency injection
 
 ### Assertion
 
