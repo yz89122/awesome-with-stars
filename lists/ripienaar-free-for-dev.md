@@ -1872,7 +1872,7 @@ Update Time, five active automations, webhooks.
 
   * [Vagrant Cloud](https://app.vagrantup.com) - HashiCorp Vagrant Cloud. Vagrant box hosting.
 
-**[⬆️ Back to Top](#table-of-contents)**
+**[���️ Back to Top](#table-of-contents)**
 
 ## Dev Blogging Sites
 
