@@ -532,7 +532,7 @@ All resources are freely available except those with a 💲 icon.
 
 * 📝 [Notes on Partial Differential Equations](https://www.math.ucdavis.edu/~hunter/pdes/pde_notes.pdf) - John K. Hunter (University of California at Davis)
 * 📝 [Partial Differential Equations: Lecture Notes](http://www.math.uni-leipzig.de/~miersemann/pdebook.pdf) - Erich Miersemann (Leipzig University)
-* 📝 [Linear Methods of Applied Mathematics](http://www.mathphysics.com/pde/) - E. Harrell, J. Herod (Georgia Tech)
+* ���� [Linear Methods of Applied Mathematics](http://www.mathphysics.com/pde/) - E. Harrell, J. Herod (Georgia Tech)
 
 ### Chaos Theory
 
@@ -622,7 +622,7 @@ All resources are freely available except those with a 💲 icon.
 
 ## Mathematical Biology
 
-* ��� [Mathematical Biology](http://www.math.ust.hk/~machas/mathematical-biology.pdf) - Jeffrey Chasnov
+* 📝 [Mathematical Biology](http://www.math.ust.hk/~machas/mathematical-biology.pdf) - Jeffrey Chasnov
 
 ## Mathematical Physics
 

@@ -436,7 +436,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 ## Distribution
 *Tools that automate game publishing in one way or another*
 * [lover ![GitHub Repo Stars](https://img.shields.io/github/stars/Wolfyxon/lover) ![GitHub last commit](https://img.shields.io/github/last-commit/Wolfyxon/lover)](https://github.com/Wolfyxon/lover) - Bringing the joys of rust's package manager (`Cargo`) to love.
-* [LÖVE Actions](https://github.com/love-actions) - Build & deploy cross-platform game packages on ***ALL*** popular platforms. Supports Android, iOS, Linux, maxOS, Windows.
+* [L��VE Actions](https://github.com/love-actions) - Build & deploy cross-platform game packages on ***ALL*** popular platforms. Supports Android, iOS, Linux, maxOS, Windows.
 * [love-packager ![GitHub Repo Stars](https://img.shields.io/github/stars/simplifylabs/love-packager) ![GitHub last commit](https://img.shields.io/github/last-commit/simplifylabs/love-packager)](https://github.com/simplifylabs/love-packager) - Simple CLI to package your LÖVE Game in seconds.
 * [boon ![GitHub Repo Stars](https://img.shields.io/github/stars/camchenry/boon) ![GitHub last commit](https://img.shields.io/github/last-commit/camchenry/boon)](https://github.com/camchenry/boon) - Multi-platform, easy to use tool supporting Windows, macOS, Linux.
 * [LÖVE Game Development & Automated Build System ![GitHub Repo Stars](https://img.shields.io/github/stars/Oval-Tutu/bootstrap-love2d-project) ![GitHub last commit](https://img.shields.io/github/last-commit/Oval-Tutu/bootstrap-love2d-project)](https://github.com/Oval-Tutu/bootstrap-love2d-project) - Preconfigured VSCode/Codium. Build for Android, iOS, HTML5, Linux, macOS and Windows and automatically publish to Itch.io.
