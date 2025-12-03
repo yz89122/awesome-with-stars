@@ -1872,7 +1872,7 @@ Update Time, five active automations, webhooks.
 
   * [Vagrant Cloud](https://app.vagrantup.com) - HashiCorp Vagrant Cloud. Vagrant box hosting.
 
-**[⬆️ Back to Top](#table-of-contents)**
+**[���️ Back to Top](#table-of-contents)**
 
 ## Dev Blogging Sites
 
@@ -2009,7 +2009,7 @@ Update Time, five active automations, webhooks.
   * [Poliigon](https://www.poliigon.com/) - Free and paid textures (with variable resolution), models, HDRIs, and brushes. Offers free plugins to export to software like Blender.
   * [Freesound](https://freesound.org/) - Free collaborative sound library offerer with different CC licenses.
 
-**[���️ Back to Top](#table-of-contents)**
+**[⬆️ Back to Top](#table-of-contents)**
 
 ## Other Free Resources
 
