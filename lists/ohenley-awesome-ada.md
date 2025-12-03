@@ -574,6 +574,7 @@ language.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [kafka-ada ![GitHub Repo Stars](https://img.shields.io/github/stars/Latence-Technologies/Kafka-Ada) ![GitHub last commit](https://img.shields.io/github/last-commit/Latence-Technologies/Kafka-Ada)](https://github.com/Latence-Technologies/Kafka-Ada) - Binding for the C librdkafka library, allows sending and receiving from a Kafka bus.
 - [adare-net](https://gitlab.com/daresoft/network/adare_net) - This is a small, portable and easy to use Ada network lib. It supports ipv4 ipv6 udp and tcp, and can 'listen' with ipv6, too.
 - [pcsc-ada](https://www.codelabs.ch/pcscada) - PCSC/Ada provides a thick Ada binding to PC/SC-middleware. The library allows programs written in Ada to communicate with smart cards using the SCard API.
+- [coap-spark ![GitHub Repo Stars](https://img.shields.io/github/stars/mgrojo/coap_spark) ![GitHub last commit](https://img.shields.io/github/last-commit/mgrojo/coap_spark)](https://github.com/mgrojo/coap_spark) - A formally verified implementation of CoAP, the Constrained Application Protocol.
 
 ### Chatting and Communication
 - [axmpp ![GitHub Repo Stars](https://img.shields.io/github/stars/coopht/axmpp) ![GitHub last commit](https://img.shields.io/github/last-commit/coopht/axmpp)](https://github.com/coopht/axmpp) - With the AXMPP library you can connect to a Jabber server to send and receive messages.
