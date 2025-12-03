@@ -74,6 +74,7 @@
 ## Machine Learning
 
 ### General Purpose Machine Learning
+* [SciPy](https://scipy.org/) - Fundamental algorithms for scientific computing in Python
 * [scikit-learn](http://scikit-learn.org/stable/) - Machine learning in Python. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
 * [PyCaret ![GitHub Repo Stars](https://img.shields.io/github/stars/pycaret/pycaret) ![GitHub last commit](https://img.shields.io/github/last-commit/pycaret/pycaret)](https://github.com/pycaret/pycaret) - An open-source, low-code machine learning library in Python.  <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/R_big.png" alt="R inspired lib">
 * [Shogun ![GitHub Repo Stars](https://img.shields.io/github/stars/shogun-toolbox/shogun) ![GitHub last commit](https://img.shields.io/github/last-commit/shogun-toolbox/shogun)](https://github.com/shogun-toolbox/shogun) - Machine learning toolbox.
@@ -512,7 +513,7 @@
 * [AI Fairness 360 ![GitHub Repo Stars](https://img.shields.io/github/stars/IBM/AIF360) ![GitHub last commit](https://img.shields.io/github/last-commit/IBM/AIF360)](https://github.com/IBM/AIF360) - Fairness metrics for datasets and ML models, explanations, and algorithms to mitigate bias in datasets and models.
 
 ## Computations
-* [numpy](http://www.numpy.org/) - The fundamental package needed for scientific computing with Python.
+* [NumPy](https://numpy.org/) - The fundamental package for scientific computing with Python
 * [Dask ![GitHub Repo Stars](https://img.shields.io/github/stars/dask/dask) ![GitHub last commit](https://img.shields.io/github/last-commit/dask/dask)](https://github.com/dask/dask) - Parallel computing with task scheduling. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pandas_big.png" alt="pandas compatible">
 * [bottleneck ![GitHub Repo Stars](https://img.shields.io/github/stars/kwgoodman/bottleneck) ![GitHub last commit](https://img.shields.io/github/last-commit/kwgoodman/bottleneck)](https://github.com/kwgoodman/bottleneck) - Fast NumPy array functions written in C.
 * [CuPy ![GitHub Repo Stars](https://img.shields.io/github/stars/cupy/cupy) ![GitHub last commit](https://img.shields.io/github/last-commit/cupy/cupy)](https://github.com/cupy/cupy) - NumPy-like API accelerated with CUDA.
