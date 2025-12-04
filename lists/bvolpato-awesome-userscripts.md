@@ -1169,7 +1169,7 @@ Userscripts can be used w/ the following browsers:
     <blockquote>
         💾 <a href="https://update.greasyfork.org/scripts/789/Select%20text%20inside%20a%20link%20like%20Opera.user.js">
             Install</a> /
-        ���� <a href="https://github.com/eight04/select-text-inside-a-link-like-opera/#readme">
+        📖 <a href="https://github.com/eight04/select-text-inside-a-link-like-opera/#readme">
             Readme</a> /
         📢 <a href="https://github.com/eight04/select-text-inside-a-link-like-opera/discussions">
             Discuss</a> /
