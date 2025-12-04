@@ -221,7 +221,7 @@ All resources are freely available except those with a 💲 icon.
 
 ### Set Theory
 
-* 📝 [Sets, Relations, Functions](http://www.cosc.brocku.ca/~duentsch/papers/methprimer1.html) - Ivo Düntsch, Günther Gediga
+* 📝 [Sets, Relations, Functions](http://www.cosc.brocku.ca/~duentsch/papers/methprimer1.html) - Ivo D��ntsch, Günther Gediga
 * 📝 [An Introduction to Set Theory](http://www.math.toronto.edu/weiss/set_theory.pdf) - William A. R. Weiss
 * 📝 [Set Theory and Foundations of Mathematics](http://www.settheory.net/) - Sylvain Poirier
 * 📝 [Set Theory on the Stanford Encyclopedia of Philosophy](http://plato.stanford.edu/entries/set-theory/)
@@ -281,7 +281,7 @@ All resources are freely available except those with a 💲 icon.
 * 📝 [Elementary Number Theory](http://math.utoledo.edu/~codenth/Spring_13/3200/ENT-books/Elementary_Number_Theory-Clark.pdf) - W. Edwin Clark (University of South Florida)
 * 📝 [A Course on Number Theory](http://www.maths.qmul.ac.uk/~pjc/notes/nt.pdf) - Peter J. Cameron
 * 📝 [A Computational Introduction to Number Theory and Algebra](http://shoup.net/ntb/ntb-v2.pdf) - Victor Shoup
-* 📝 [Number Theory: A Contemporary Introduction](http://alpha.math.uga.edu/~pete/4400FULL.pdf) - Pete L. Clark
+* ��� [Number Theory: A Contemporary Introduction](http://alpha.math.uga.edu/~pete/4400FULL.pdf) - Pete L. Clark
 * 📝 [An Introduction to the Theory of Numbers](http://www.trillia.com/moser-number.html) - Leo Moser
 * 📝 [Yet Another Introductory Number Theory Textbook](https://www.poritz.net/jonathan/share/yaintt/) - Jonathan A. Poritz
 
@@ -480,7 +480,7 @@ All resources are freely available except those with a 💲 icon.
 
 ### Complex Analysis
 
-* ��� [Introduction to Complex Analysis](https://mtaylor.web.unc.edu/wp-content/uploads/sites/16915/2018/04/complex.pdf) - Michael Taylor
+* 📝 [Introduction to Complex Analysis](https://mtaylor.web.unc.edu/wp-content/uploads/sites/16915/2018/04/complex.pdf) - Michael Taylor
 * 📝 [An Introduction to Complex Analysis and Geometry](http://www.math.uiuc.edu/~jpda/jpd-complex-geometry-book-5-refs-bip.pdf) - John P. D'Angelo (University of Illinois)
 * 📝 [A First Course in Complex Analysis](http://math.sfsu.edu/beck/papers/complex.pdf) - Matthias Beck, Gerald Marchesi, Dennis Pixton, Lucas Sabalka
 * 📝 [A Guide to Complex Variables](http://www.math.wustl.edu/~sk/books/guide.pdf) - Steven G. Krantz
@@ -516,7 +516,7 @@ All resources are freely available except those with a 💲 icon.
 
 ### Ordinary Differential Equations
 
-* 📝 [Difference Equations To Differential Equations](http://www.synechism.org/wp/difference-equations-to-differential-equations/) - Dan Sloughter
+* �� [Difference Equations To Differential Equations](http://www.synechism.org/wp/difference-equations-to-differential-equations/) - Dan Sloughter
 * 📝 [Ordinary Differential Equation](https://www.math.uni-bielefeld.de/~grigor/odelec2008.pdf) - Alexander Grigorian (University of Bielefeld)
 * 📝 [Ordinary Differential Equations: Lecture Notes](http://www.cs.bgu.ac.il/~leonid/ode_bio_files/Ionascu_LectNotes.pdf) - Eugen J. Ionascu
 * 📝 [Ordinary Differential Equations](http://www.math.lmu.de/~philip/publications/lectureNotes/ODE.pdf) - Peter Philip
