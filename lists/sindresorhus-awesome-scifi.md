@@ -72,7 +72,7 @@ This intense linguistic thriller will change the way you think about language. -
   > Babel-17 is all about the power of language. Humanity, which has spread throughout the universe, is involved in a war with the Invaders, who have been covertly assassinating officials and sabotaging spaceships. The only clues humanity has to go on are strange alien messages that have been intercepted in space. Poet and linguist Rydra Wong is determined to understand the language and stop the alien threat.
 </details>
 
-#### [Barsoom series](https://www.goodreads.com/series/43942-barsoom) (1912-1927) _by [Edgar Rice Burroughs](https://en.wikipedia.org/wiki/Edgar_Rice_Burroughs)_ [3.8] 🌟
+#### [Barsoom series](https://www.goodreads.com/series/43942-barsoom) (1912-1927) _by [Edgar Rice Burroughs](https://en.wikipedia.org/wiki/Edgar_Rice_Burroughs)_ [3.8] ���
 
 Now more than a century old, has that unique writing style you can only find in adventure classics. - [@uraimo](https://github.com/uraimo)
 
@@ -1548,7 +1548,7 @@ A very entertaining military drama that has continued to grow on me, book by boo
 <details>
   <summary>Description</summary>
 
-  > _Old Man’s War_, _The Last Colony_ and _Zoe’s Tale_ were each nominated for the Hugo Award for Best Novel in their respective years. _Zoe’s Tale_ was additionally nominated for the Andre Norton Award for Best Young Adult Science Fiction/Fantasy. _The Ghost Brigades_ was nominated for the Prometheus Award. _Old Man’s War_ was the winner of the Geffen Award in Israel; _The Last Colony_ the recipient of the Seiun Award in Japan.
+  > _Old Man’s War_, _The Last Colony_ and _Zoe��s Tale_ were each nominated for the Hugo Award for Best Novel in their respective years. _Zoe’s Tale_ was additionally nominated for the Andre Norton Award for Best Young Adult Science Fiction/Fantasy. _The Ghost Brigades_ was nominated for the Prometheus Award. _Old Man’s War_ was the winner of the Geffen Award in Israel; _The Last Colony_ the recipient of the Seiun Award in Japan.
 </details>
 
 #### [Starship Troopers](https://www.goodreads.com/book/show/17214.Starship_Troopers) (1959) _by [Robert A. Heinlein](https://en.wikipedia.org/wiki/Robert_A._Heinlein)_ [4.0]
