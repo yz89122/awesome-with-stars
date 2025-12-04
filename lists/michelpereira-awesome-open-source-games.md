@@ -4,7 +4,7 @@
 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 -->
 
-Open source games that have the source code available on GitHub.
+Open source games that have the source code available.
 
 ## Contents
 
@@ -34,6 +34,7 @@ Open source games that have the source code available on GitHub.
 	- [Racing](#racing-1)
 	- [Programming](#programming)
 	- [Sandbox](#sandbox-1)
+	- [Simulation](#simulation)
 	- [Strategy](#strategy-1)
 - [Mobile Games](#mobile-games)
 	- [Android](#android)
@@ -369,12 +370,18 @@ A selection of major game studios, publishers, etc. using GitHub:
 - [Pycraft ![GitHub Repo Stars](https://img.shields.io/github/stars/itsapi/pycraft) ![GitHub last commit](https://img.shields.io/github/last-commit/itsapi/pycraft)](https://github.com/itsapi/pycraft) - A Minecraft-inspired game for the terminal.
 - [Rigs of Rods ![GitHub Repo Stars](https://img.shields.io/github/stars/RigsOfRods/rigs-of-rods) ![GitHub last commit](https://img.shields.io/github/last-commit/RigsOfRods/rigs-of-rods)](https://github.com/RigsOfRods/rigs-of-rods) - Soft-Body physics simulator for vehicles and more.
 - [Space Engineers ![GitHub Repo Stars](https://img.shields.io/github/stars/KeenSoftwareHouse/SpaceEngineers) ![GitHub last commit](https://img.shields.io/github/last-commit/KeenSoftwareHouse/SpaceEngineers)](https://github.com/KeenSoftwareHouse/SpaceEngineers) - Space Engineers is a voxel-based sandbox game set in an asteroid field in space.
+- [Starbound ![GitHub Repo Stars](https://img.shields.io/github/stars/rwf93/Starbound) ![GitHub last commit](https://img.shields.io/github/last-commit/rwf93/Starbound)](https://github.com/rwf93/Starbound) - A 2D sandbox adventure game where players explore a vast procedurally generated universe.
 - [Terasology ![GitHub Repo Stars](https://img.shields.io/github/stars/MovingBlocks/Terasology) ![GitHub last commit](https://img.shields.io/github/last-commit/MovingBlocks/Terasology)](https://github.com/MovingBlocks/Terasology) - Voxel world game engine inspired by Minecraft and others with fancy graphic effects and a heavy focus on extensibility.
 - [The Powder Toy ![GitHub Repo Stars](https://img.shields.io/github/stars/simtr/The-Powder-Toy) ![GitHub last commit](https://img.shields.io/github/last-commit/simtr/The-Powder-Toy)](https://github.com/simtr/The-Powder-Toy) - Falling-sand physics sandbox game.
+
+### Simulation
+
+- [Hurry Curry!](https://hurrycurry.org) - Cooperative fast-paced multiplayer cooking game.
 
 ### Strategy
 
 - [0 A.D. ![GitHub Repo Stars](https://img.shields.io/github/stars/0ad/0ad) ![GitHub last commit](https://img.shields.io/github/last-commit/0ad/0ad)](https://github.com/0ad/0ad) - 3D RTS similar to Age of Empires II.
+- [Beyond all Reason (BAR)](https://www.beyondallreason.info/) - RTS born from mods of the Total Annihilation on the SpringRTS game engine.
 - [Caesaria ![GitHub Repo Stars](https://img.shields.io/github/stars/dalerank/caesaria-game) ![GitHub last commit](https://img.shields.io/github/last-commit/dalerank/caesaria-game)](https://github.com/dalerank/caesaria-game) - Remake of the popular citybuilder and economic sim Caesar III.
 - [Colobot ![GitHub Repo Stars](https://img.shields.io/github/stars/colobot/colobot) ![GitHub last commit](https://img.shields.io/github/last-commit/colobot/colobot)](https://github.com/colobot/colobot) - A real-time strategy game with programmable bots.
 - [CorsixTH ![GitHub Repo Stars](https://img.shields.io/github/stars/CorsixTH/CorsixTH) ![GitHub last commit](https://img.shields.io/github/last-commit/CorsixTH/CorsixTH)](https://github.com/CorsixTH/CorsixTH) - Clone of Theme Hospital.
