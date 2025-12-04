@@ -329,7 +329,7 @@ Provides a systematic approach to priming Claude Code with comprehensive project
 </details>
 <br>
 
-[`Design Review Workflow` ![GitHub Repo Stars](https://img.shields.io/github/stars/OneRedOak/claude-code-workflows) ![GitHub last commit](https://img.shields.io/github/last-commit/OneRedOak/claude-code-workflows)](https://github.com/OneRedOak/claude-code-workflows/tree/main/design-review) &nbsp; by &nbsp; [Patrick Ellis](https://github.com/OneRedOak)  &nbsp;&nbsp;��️&nbsp;&nbsp;MIT  
+[`Design Review Workflow` ![GitHub Repo Stars](https://img.shields.io/github/stars/OneRedOak/claude-code-workflows) ![GitHub last commit](https://img.shields.io/github/last-commit/OneRedOak/claude-code-workflows)](https://github.com/OneRedOak/claude-code-workflows/tree/main/design-review) &nbsp; by &nbsp; [Patrick Ellis](https://github.com/OneRedOak)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
 A tailored workflow for enabling automated UI/UX design review, including specialized sub agents, slash commands, `CLAUDE.md` excerpts, and more. Covers a broad range of criteria from responsive design to accessibility.
 
 <details>
