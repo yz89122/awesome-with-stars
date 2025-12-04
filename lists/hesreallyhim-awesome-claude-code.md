@@ -329,7 +329,7 @@ Provides a systematic approach to priming Claude Code with comprehensive project
 </details>
 <br>
 
-[`Design Review Workflow` ![GitHub Repo Stars](https://img.shields.io/github/stars/OneRedOak/claude-code-workflows) ![GitHub last commit](https://img.shields.io/github/last-commit/OneRedOak/claude-code-workflows)](https://github.com/OneRedOak/claude-code-workflows/tree/main/design-review) &nbsp; by &nbsp; [Patrick Ellis](https://github.com/OneRedOak)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
+[`Design Review Workflow` ![GitHub Repo Stars](https://img.shields.io/github/stars/OneRedOak/claude-code-workflows) ![GitHub last commit](https://img.shields.io/github/last-commit/OneRedOak/claude-code-workflows)](https://github.com/OneRedOak/claude-code-workflows/tree/main/design-review) &nbsp; by &nbsp; [Patrick Ellis](https://github.com/OneRedOak)  &nbsp;&nbsp;��️&nbsp;&nbsp;MIT  
 A tailored workflow for enabling automated UI/UX design review, including specialized sub agents, slash commands, `CLAUDE.md` excerpts, and more. Covers a broad range of criteria from responsive design to accessibility.
 
 <details>
@@ -629,7 +629,7 @@ A versatile configuration framework that enhances Claude Code with specialized c
 </details>
 <br>
 
-[`tweakcc` ![GitHub Repo Stars](https://img.shields.io/github/stars/Piebald-AI/tweakcc) ![GitHub last commit](https://img.shields.io/github/last-commit/Piebald-AI/tweakcc)](https://github.com/Piebald-AI/tweakcc) &nbsp; by &nbsp; [Piebald-AI](https://github.com/Piebald-AI)  &nbsp;&nbsp;��️&nbsp;&nbsp;MIT  
+[`tweakcc` ![GitHub Repo Stars](https://img.shields.io/github/stars/Piebald-AI/tweakcc) ![GitHub last commit](https://img.shields.io/github/last-commit/Piebald-AI/tweakcc)](https://github.com/Piebald-AI/tweakcc) &nbsp; by &nbsp; [Piebald-AI](https://github.com/Piebald-AI)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
 Command-line tool to customize your Claude Code styling.
 
 <details>
@@ -1886,7 +1886,7 @@ Presents an innovative AI-human collaboration framework with Model Context Proto
 Provides detailed and emphatic instructions for Claude to follow as a coding agent, with testing guidance, code examples, and compliance checks.
 
 <details>
-<summary>��� GitHub Stats</summary>
+<summary>📊 GitHub Stats</summary>
 
 ![GitHub Stats for claude-code-mcp-enhanced](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=claude-code-mcp-enhanced&username=grahama1970&all_stats=true&stats_only=true)
 

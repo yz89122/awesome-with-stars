@@ -1548,7 +1548,7 @@ A very entertaining military drama that has continued to grow on me, book by boo
 <details>
   <summary>Description</summary>
 
-  > _Old Man’s War_, _The Last Colony_ and _Zoe��s Tale_ were each nominated for the Hugo Award for Best Novel in their respective years. _Zoe’s Tale_ was additionally nominated for the Andre Norton Award for Best Young Adult Science Fiction/Fantasy. _The Ghost Brigades_ was nominated for the Prometheus Award. _Old Man’s War_ was the winner of the Geffen Award in Israel; _The Last Colony_ the recipient of the Seiun Award in Japan.
+  > _Old Man’s War_, _The Last Colony_ and _Zoe’s Tale_ were each nominated for the Hugo Award for Best Novel in their respective years. _Zoe’s Tale_ was additionally nominated for the Andre Norton Award for Best Young Adult Science Fiction/Fantasy. _The Ghost Brigades_ was nominated for the Prometheus Award. _Old Man’s War_ was the winner of the Geffen Award in Israel; _The Last Colony_ the recipient of the Seiun Award in Japan.
 </details>
 
 #### [Starship Troopers](https://www.goodreads.com/book/show/17214.Starship_Troopers) (1959) _by [Robert A. Heinlein](https://en.wikipedia.org/wiki/Robert_A._Heinlein)_ [4.0]
