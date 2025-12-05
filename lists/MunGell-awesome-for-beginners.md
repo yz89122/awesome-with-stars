@@ -385,6 +385,7 @@ If you would like to be guided through how to contribute to a repository on GitH
 - [typescript-eslint ![GitHub Repo Stars](https://img.shields.io/github/stars/typescript-eslint/typescript-eslint) ![GitHub last commit](https://img.shields.io/github/last-commit/typescript-eslint/typescript-eslint)](https://github.com/typescript-eslint/typescript-eslint) _(label: good first issue)_ <br> Monorepo for all the tooling which enables ESLint to support TypeScript.
 - [Visual Studio Code ![GitHub Repo Stars](https://img.shields.io/github/stars/Microsoft/vscode) ![GitHub last commit](https://img.shields.io/github/last-commit/Microsoft/vscode)](https://github.com/Microsoft/vscode) _(label: good first issue)_ <br> A code editor redefined and optimized for building and debugging modern web and cloud applications.
 - [Vite ![GitHub Repo Stars](https://img.shields.io/github/stars/vitejs/vite) ![GitHub last commit](https://img.shields.io/github/last-commit/vitejs/vite)](https://github.com/vitejs/vite) _(label: good first issue)_ <br> Next generation frontend tooling. It's fast! Alternative to Create React App
+- [Vitest ![GitHub Repo Stars](https://img.shields.io/github/stars/vitest-dev/vitest) ![GitHub last commit](https://img.shields.io/github/last-commit/vitest-dev/vitest)](https://github.com/vitest-dev/vitest) _(label: good first issue)_ <br> A blazing fast unit test framework powered by Vite.
 
 
 ## Contribute
