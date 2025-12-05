@@ -225,6 +225,7 @@ Additional lists you might find useful:
 *Working with notification software.*
 
 - [Crustum/Broadcasting plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/crustum/broadcasting) ![GitHub last commit](https://img.shields.io/github/last-commit/crustum/broadcasting)](https://github.com/crustum/broadcasting) - The Broadcasting plugin provides real-time event broadcasting for CakePHP applications using WebSocket connections compatible with the Pusher protocol or Redis pub/sub.
+- [Crustum/Notification plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/crustum/notification) ![GitHub last commit](https://img.shields.io/github/last-commit/crustum/notification)](https://github.com/crustum/notification) - The Notification plugin provides support for sending notifications across a variety of delivery channels.
 - [Mercure plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/josbeir/cakephp-mercure) ![GitHub last commit](https://img.shields.io/github/last-commit/josbeir/cakephp-mercure)](https://github.com/josbeir/cakephp-mercure) - Push real-time updates to clients using the Mercure protocol.
 
 ## ORM / Database / Datamapping
