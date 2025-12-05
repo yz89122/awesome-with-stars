@@ -197,7 +197,7 @@ Video tutorials created by the community about Fiber.
 
 - [Is Fiber the best Go web framework? Better than Gin?](https://youtu.be/10miByMOGfY)
 
-## 🤖 Benchmarks
+## �� Benchmarks
 
 Several benchmarks to compare Fiber with other frameworks.
 
