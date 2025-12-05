@@ -1919,7 +1919,7 @@ Offers clear step-by-step installation instructions with multiple configuration 
 Claudable is an open-source web builder that leverages local CLI agents, such as Claude Code and Cursor Agent, to build and deploy products effortlessly.
 
 <details>
-<summary>��� GitHub Stats</summary>
+<summary>📊 GitHub Stats</summary>
 
 ![GitHub Stats for Claudable](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=Claudable&username=opactorai&all_stats=true&stats_only=true)
 
