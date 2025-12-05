@@ -340,6 +340,7 @@
 - [yelog/i18n.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/yelog/i18n.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/yelog/i18n.nvim)](https://github.com/yelog/i18n.nvim) - Internationalization (i18n) management with LSP support for `Vue`, `React`, `Java` and more.
 - [Kenzo-Wada/boundary.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/Kenzo-Wada/boundary.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/Kenzo-Wada/boundary.nvim)](https://github.com/Kenzo-Wada/boundary.nvim) - Display `'use client'` markers inline in your JSX code to visualize client component boundaries.
 - [abidibo/nvim-httpyac ![GitHub Repo Stars](https://img.shields.io/github/stars/abidibo/nvim-httpyac) ![GitHub last commit](https://img.shields.io/github/last-commit/abidibo/nvim-httpyac)](https://github.com/abidibo/nvim-httpyac) - Provides integration with `httpYac`.
+- [rodrigoscc/nurl.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/rodrigoscc/nurl.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/rodrigoscc/nurl.nvim)](https://github.com/rodrigoscc/nurl.nvim) - HTTP client with requests defined in pure Lua.
 
 ### Markdown and LaTeX
 
