@@ -53,6 +53,42 @@ Claude Code is a cutting-edge CLI-based coding assistant and agent released by [
 
 > Resources added in the past 7 days
 
+[`CCometixLine - Claude Code Statusline` ![GitHub Repo Stars](https://img.shields.io/github/stars/Haleclipse/CCometixLine) ![GitHub last commit](https://img.shields.io/github/last-commit/Haleclipse/CCometixLine)](https://github.com/Haleclipse/CCometixLine) &nbsp; by &nbsp; [Haleclipse](https://github.com/Haleclipse)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
+A high-performance Claude Code statusline tool written in Rust with Git integration, usage tracking, interactive TUI configuration, and Claude Code enhancement utilities.
+
+<details>
+<summary>📊 GitHub Stats</summary>
+
+![GitHub Stats for CCometixLine](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=CCometixLine&username=Haleclipse&all_stats=true&stats_only=true)
+
+</details>
+<br>
+
+[`Claude Code Handbook`](https://nikiforovall.blog/claude-code-rules/) &nbsp; by &nbsp; [nikiforovall](https://github.com/nikiforovall)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
+Collection of best practices, tips, and techniques for Claude Code development workflows, enhanced with distributable plugins
+
+[`Context Engineering Kit` ![GitHub Repo Stars](https://img.shields.io/github/stars/NeoLabHQ/context-engineering-kit) ![GitHub last commit](https://img.shields.io/github/last-commit/NeoLabHQ/context-engineering-kit)](https://github.com/NeoLabHQ/context-engineering-kit) &nbsp; by &nbsp; [Vlad Goncharov](https://github.com/LeoVS09)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;GPL-3.0  
+Hand-crafted collection of advanced context engineering techniques and patterns with minimal token footprint focused on improving agent result quality.
+
+<details>
+<summary>📊 GitHub Stats</summary>
+
+![GitHub Stats for context-engineering-kit](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=context-engineering-kit&username=NeoLabHQ&all_stats=true&stats_only=true)
+
+</details>
+<br>
+
+[`Claudix - Claude Code for VSCode` ![GitHub Repo Stars](https://img.shields.io/github/stars/Haleclipse/Claudix) ![GitHub last commit](https://img.shields.io/github/last-commit/Haleclipse/Claudix)](https://github.com/Haleclipse/Claudix) &nbsp; by &nbsp; [Haleclipse](https://github.com/Haleclipse)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;AGPL-3.0  
+A VSCode extension that brings Claude Code directly into your editor with interactive chat interface, session management, intelligent file operations, terminal execution, and real-time streaming responses. Built with Vue 3, TypeScript.
+
+<details>
+<summary>📊 GitHub Stats</summary>
+
+![GitHub Stats for Claudix](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=Claudix&username=Haleclipse&all_stats=true&stats_only=true)
+
+</details>
+<br>
+
 [`claude-starter-kit` ![GitHub Repo Stars](https://img.shields.io/github/stars/serpro69/claude-starter-kit) ![GitHub last commit](https://img.shields.io/github/last-commit/serpro69/claude-starter-kit)](https://github.com/serpro69/claude-starter-kit) &nbsp; by &nbsp; [serpro69](https://github.com/serpro69)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
 This is a starter template repository designed to provide a complete development environment for Claude-Code with pre-configured MCP servers and tools for AI-powered development workflows. The repository is intentionally minimal, containing only configuration templates for three primary systems: Claude Code, Serena, and Task Master.
 
@@ -230,6 +266,17 @@ Enables users to prompt codex from claude code. Unlike the raw codex mcp server,
 </details>
 <br>
 
+[`Context Engineering Kit` ![GitHub Repo Stars](https://img.shields.io/github/stars/NeoLabHQ/context-engineering-kit) ![GitHub last commit](https://img.shields.io/github/last-commit/NeoLabHQ/context-engineering-kit)](https://github.com/NeoLabHQ/context-engineering-kit) &nbsp; by &nbsp; [Vlad Goncharov](https://github.com/LeoVS09)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;GPL-3.0  
+Hand-crafted collection of advanced context engineering techniques and patterns with minimal token footprint focused on improving agent result quality.
+
+<details>
+<summary>📊 GitHub Stats</summary>
+
+![GitHub Stats for context-engineering-kit](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=context-engineering-kit&username=NeoLabHQ&all_stats=true&stats_only=true)
+
+</details>
+<br>
+
 [`Web Assets Generator Skill` ![GitHub Repo Stars](https://img.shields.io/github/stars/alonw0/web-asset-generator) ![GitHub last commit](https://img.shields.io/github/last-commit/alonw0/web-asset-generator)](https://github.com/alonw0/web-asset-generator) &nbsp; by &nbsp; [Alon Wolenitz](https://github.com/alonw0)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
 Easily generate web assets from Claude Code including favicons, app icons (PWA), and social media meta images (Open Graph) for Facebook, Twitter, WhatsApp, and LinkedIn. Handles image resizing, text-to-image generation, emojis, and provides proper HTML meta tags.
 
@@ -295,6 +342,9 @@ A mirror of the Anthropic &copy; PBC documentation pages for Claude Code, update
 
 </details>
 <br>
+
+[`Claude Code Handbook`](https://nikiforovall.blog/claude-code-rules/) &nbsp; by &nbsp; [nikiforovall](https://github.com/nikiforovall)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
+Collection of best practices, tips, and techniques for Claude Code development workflows, enhanced with distributable plugins
 
 [`Claude Code Infrastructure Showcase` ![GitHub Repo Stars](https://img.shields.io/github/stars/diet103/claude-code-infrastructure-showcase) ![GitHub last commit](https://img.shields.io/github/last-commit/diet103/claude-code-infrastructure-showcase)](https://github.com/diet103/claude-code-infrastructure-showcase) &nbsp; by &nbsp; [diet103](https://github.com/diet103)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
 A remarkably innovative approach to working with Skills, the centerpiece of which being a technique that leverages hooks to ensure that Claude intelligently selects and activates the appropriate Skill given the current context. Well-documented and adaptable to different projects and workflows.
@@ -747,6 +797,17 @@ A seamless integration between Claude Code AI assistant and Neovim.
 </details>
 <br>
 
+[`Claudix - Claude Code for VSCode` ![GitHub Repo Stars](https://img.shields.io/github/stars/Haleclipse/Claudix) ![GitHub last commit](https://img.shields.io/github/last-commit/Haleclipse/Claudix)](https://github.com/Haleclipse/Claudix) &nbsp; by &nbsp; [Haleclipse](https://github.com/Haleclipse)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;AGPL-3.0  
+A VSCode extension that brings Claude Code directly into your editor with interactive chat interface, session management, intelligent file operations, terminal execution, and real-time streaming responses. Built with Vue 3, TypeScript.
+
+<details>
+<summary>📊 GitHub Stats</summary>
+
+![GitHub Stats for Claudix](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=Claudix&username=Haleclipse&all_stats=true&stats_only=true)
+
+</details>
+<br>
+
 [`crystal` ![GitHub Repo Stars](https://img.shields.io/github/stars/stravu/crystal) ![GitHub last commit](https://img.shields.io/github/last-commit/stravu/crystal)](https://github.com/stravu/crystal) &nbsp; by &nbsp; [stravu](https://github.com/stravu)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
 A full-fledged desktop application for orchestrating, monitoring, and interacting with Claude Code agents.
 
@@ -932,6 +993,17 @@ A Rust CLI tool that lets you delegate development tasks to AI agents running in
 
 <details open>
 <summary><h3>General <a href="#awesome-claude-code">🔝</a></h3></summary>
+
+[`CCometixLine - Claude Code Statusline` ![GitHub Repo Stars](https://img.shields.io/github/stars/Haleclipse/CCometixLine) ![GitHub last commit](https://img.shields.io/github/last-commit/Haleclipse/CCometixLine)](https://github.com/Haleclipse/CCometixLine) &nbsp; by &nbsp; [Haleclipse](https://github.com/Haleclipse)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
+A high-performance Claude Code statusline tool written in Rust with Git integration, usage tracking, interactive TUI configuration, and Claude Code enhancement utilities.
+
+<details>
+<summary>📊 GitHub Stats</summary>
+
+![GitHub Stats for CCometixLine](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=CCometixLine&username=Haleclipse&all_stats=true&stats_only=true)
+
+</details>
+<br>
 
 [`ccstatusline` ![GitHub Repo Stars](https://img.shields.io/github/stars/sirmalloc/ccstatusline) ![GitHub last commit](https://img.shields.io/github/last-commit/sirmalloc/ccstatusline)](https://github.com/sirmalloc/ccstatusline) &nbsp; by &nbsp; [sirmalloc](https://github.com/sirmalloc)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
 A highly customizable status line formatter for Claude Code CLI that displays model info, git branch, token usage, and other metrics in your terminal.
