@@ -9,7 +9,7 @@
   
 <div>
     <a href='https://github.com/eurostat/gridviz' target='_blank'>
-        <img src='https://user-images.githubusercontent.com/25485293/191950255-cbd83c6a-4880-4c0a-a665-b59a21467702.PNG'>
+        <img src='https://github.com/joewdavies/awesome-frontend-gis/raw/main/images/awesome-fronted-gis-banner.png'>
     </a>
 </div>
 
@@ -19,25 +19,27 @@
 
 
 ## Contents
-- [👨‍💻 **JavaScript Libraries**](#-javascript-libraries)
-  - [Mapping](#mapping) 
+- [Contents](#contents)
+- [👨‍💻 JavaScript Libraries](#-javascript-libraries)
+  - [Mapping](#mapping)
   - [Data Processing](#data-processing)
   - [LiDAR](#lidar)
   - [Remote Sensing](#remote-sensing)
-- [💾 **Data sources**](#-data-sources)
+- [💾 Data sources](#-data-sources)
   - [Downloads](#downloads)
   - [Web APIs](#web-apis)
   - [Collections](#collections)
-- [📒 **Notebooks**](#-notebooks)
+- [📒 Notebooks](#-notebooks)
   - [Beginner](#beginner)
   - [Intermediate](#intermediate)
   - [Advanced](#advanced)
-- [:world_map: Web maps](#world_map-web-maps)
-- [🌐 **Web apps**](#-web-apps)
-- [🎨 **Colour advice**](#-colour-advice)
-- [���� **Icons**](#-icons)
-- [📺 **Videos**](#-videos)
-- [📚 **Further reading**](#-further-reading)
+- [:world\_map: Web maps](#world_map-web-maps)
+- [🌐 Web apps](#-web-apps)
+- [🎨 Colour advice](#-colour-advice)
+- [📍 Icons](#-icons)
+- [📺 Videos](#-videos)
+- [📚 Further reading](#-further-reading)
+- [Contributing](#contributing)
 
 ## 👨‍💻 JavaScript Libraries 
 

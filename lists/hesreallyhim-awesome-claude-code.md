@@ -478,7 +478,7 @@ A set of commands that provide a comprehensive workflow system for managing proj
 </details>
 <br>
 
-[`RIPER Workflow` ![GitHub Repo Stars](https://img.shields.io/github/stars/tony/claude-code-riper-5) ![GitHub last commit](https://img.shields.io/github/last-commit/tony/claude-code-riper-5)](https://github.com/tony/claude-code-riper-5) &nbsp; by &nbsp; [Tony Narlock](https://tony.sh)  &nbsp;&nbsp;⚖��&nbsp;&nbsp;MIT  
+[`RIPER Workflow` ![GitHub Repo Stars](https://img.shields.io/github/stars/tony/claude-code-riper-5) ![GitHub last commit](https://img.shields.io/github/last-commit/tony/claude-code-riper-5)](https://github.com/tony/claude-code-riper-5) &nbsp; by &nbsp; [Tony Narlock](https://tony.sh)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
 Structured development workflow enforcing separation between Research, Innovate, Plan, Execute, and Review phases. Features consolidated subagents for context-efficiency, branch-aware memory bank, and strict mode enforcement for guided development.
 
 <details>
