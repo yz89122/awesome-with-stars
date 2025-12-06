@@ -750,7 +750,7 @@ Its technology helps developers automate testing, find bugs, and reduce manual l
 
 - [diktat](https://diktat.saveourtool.com) — Strict coding standard for Kotlin and a linter that detects and auto-fixes code smells.
 
-- [ktfmt](https://facebook.github.io/ktfmt/) �� A program that reformats Kotlin source code to comply with the common community standard for Kotlin code conventions.
+- [ktfmt](https://facebook.github.io/ktfmt/) — A program that reformats Kotlin source code to comply with the common community standard for Kotlin code conventions.
 A ktfmt IntelliJ plugin is available from the plugin repository. To install it, go to your IDE's settings and select the Plugins category. Click the Marketplace tab, search for the ktfmt plugin, and click the Install button.
 
 - [ktlint](https://ktlint.github.io) — An anti-bikeshedding Kotlin linter with built-in formatter.
