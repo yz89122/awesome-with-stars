@@ -12,9 +12,9 @@
     <a href="https://t.me/opensourcemacosapps"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-Channel-blue.svg" /></a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Total%20Apps-614-blue" alt="Total Apps"/>
+    <img src="https://img.shields.io/badge/Total%20Apps-615-blue" alt="Total Apps"/>
     <img src="https://img.shields.io/badge/Categories-49-green" alt="Categories"/>
-    <img src="https://img.shields.io/badge/Last%20Updated-December%204,%202025-orange" alt="Last Updated"/>
+    <img src="https://img.shields.io/badge/Last%20Updated-December%206,%202025-orange" alt="Last Updated"/>
   </p>
 </div>
 
@@ -44,9 +44,9 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 
 | Metric | Count |
 |--------|-------|
-| 📱 Total Applications | 614 |
+| 📱 Total Applications | 615 |
 | 📂 Categories | 49 |
-| 🔝 Top Languages | Swift: 268 • Objective-C: 134 • Javascript: 108 • C++: 54 • C: 34 |
+| 🔝 Top Languages | Swift: 269 • Objective-C: 134 • Javascript: 108 • C++: 54 • C: 34 |
 
 ## Languages
 
@@ -9873,7 +9873,7 @@ You can see in which language an app is written. Currently there are following l
 <div align="right"><a href="#contents">⬆️ Back to Top</a></div>
 
 <a id="utilities"></a>
-### 🛠️ Utilities (80)
+### 🛠️ Utilities (81)
 - [Android tool for Mac ![GitHub Repo Stars](https://img.shields.io/github/stars/mortenjust/androidtool-mac) ![GitHub last commit](https://img.shields.io/github/last-commit/mortenjust/androidtool-mac)](https://github.com/mortenjust/androidtool-mac) - One-click screenshots, video recordings, app installation for iOS and Android 
 
   <details>
@@ -10605,6 +10605,23 @@ You can see in which language an app is written. Currently there are following l
   **Screenshots:**
 
   <img src='https://github.com/artginzburg/MiddleClick-Ventura/blob/master/demo.png' width='400' loading='lazy'/>
+
+  </p>
+  </details>
+
+- [MiddleDrag ![GitHub Repo Stars](https://img.shields.io/github/stars/NullPointerDepressiveDisorder/MiddleDrag) ![GitHub last commit](https://img.shields.io/github/last-commit/NullPointerDepressiveDisorder/MiddleDrag)](https://github.com/NullPointerDepressiveDisorder/MiddleDrag) - Three-finger trackpad gestures for middle-click and middle-drag.
+
+  <details>
+  <summary>More</summary>
+  <p>
+
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+
+  **Links:** <a href='https://github.com/NullPointerDepressiveDisorder/MiddleDrag/releases/latest'><img src='https://img.shields.io/github/v/release/NullPointerDepressiveDisorder/MiddleDrag?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/NullPointerDepressiveDisorder/MiddleDrag'><img src='https://img.shields.io/github/stars/NullPointerDepressiveDisorder/MiddleDrag?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/NullPointerDepressiveDisorder/MiddleDrag' alt='License'/>
+
+  **Screenshots:**
+
+  <img src='https://raw.githubusercontent.com/NullPointerDepressiveDisorder/MiddleDrag/main/Screenshots/MiddleDrag-Demo.gif' width='400' loading='lazy'/>
 
   </p>
   </details>
