@@ -53,6 +53,28 @@ Claude Code is a cutting-edge CLI-based coding assistant and agent released by [
 
 > Resources added in the past 7 days
 
+[`claude-starter-kit` ![GitHub Repo Stars](https://img.shields.io/github/stars/serpro69/claude-starter-kit) ![GitHub last commit](https://img.shields.io/github/last-commit/serpro69/claude-starter-kit)](https://github.com/serpro69/claude-starter-kit) &nbsp; by &nbsp; [serpro69](https://github.com/serpro69)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
+This is a starter template repository designed to provide a complete development environment for Claude-Code with pre-configured MCP servers and tools for AI-powered development workflows. The repository is intentionally minimal, containing only configuration templates for three primary systems: Claude Code, Serena, and Task Master.
+
+<details>
+<summary>📊 GitHub Stats</summary>
+
+![GitHub Stats for claude-starter-kit](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=claude-starter-kit&username=serpro69&all_stats=true&stats_only=true)
+
+</details>
+<br>
+
+[`viwo-cli` ![GitHub Repo Stars](https://img.shields.io/github/stars/OverseedAI/viwo) ![GitHub last commit](https://img.shields.io/github/last-commit/OverseedAI/viwo)](https://github.com/OverseedAI/viwo) &nbsp; by &nbsp; [Hal Shin](https://github.com/hal-shin)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
+Run Claude Code in a Docker container with git worktrees as volume mounts to enable safer usage of `--dangerously-skip-permissions` for frictionless one-shotting prompts. Allows users to spin up multiple instances of Claude Code in the background easily with reduced permission fatigue.
+
+<details>
+<summary>📊 GitHub Stats</summary>
+
+![GitHub Stats for viwo](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=viwo&username=OverseedAI&all_stats=true&stats_only=true)
+
+</details>
+<br>
+
 [`ccflare -> **better-ccflare**` ![GitHub Repo Stars](https://img.shields.io/github/stars/tombii/better-ccflare) ![GitHub last commit](https://img.shields.io/github/last-commit/tombii/better-ccflare)](https://github.com/tombii/better-ccflare/) &nbsp; by &nbsp; [tombii](https://github.com/tombii)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
 A well-maintained and feature-enhanced fork of the glorious `ccflare` usage dashboard by @snipeship (which at the time of writing has not had an update in a few months). `better-ccflare` builds on this foundation with some performance enhancements, extended provider support, bug fixes, Docker deployment, and more.
 
@@ -541,6 +563,17 @@ A collection of awesome tools, including tmux integrations, better session manag
 </details>
 <br>
 
+[`claude-starter-kit` ![GitHub Repo Stars](https://img.shields.io/github/stars/serpro69/claude-starter-kit) ![GitHub last commit](https://img.shields.io/github/last-commit/serpro69/claude-starter-kit)](https://github.com/serpro69/claude-starter-kit) &nbsp; by &nbsp; [serpro69](https://github.com/serpro69)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
+This is a starter template repository designed to provide a complete development environment for Claude-Code with pre-configured MCP servers and tools for AI-powered development workflows. The repository is intentionally minimal, containing only configuration templates for three primary systems: Claude Code, Serena, and Task Master.
+
+<details>
+<summary>📊 GitHub Stats</summary>
+
+![GitHub Stats for claude-starter-kit](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=claude-starter-kit&username=serpro69&all_stats=true&stats_only=true)
+
+</details>
+<br>
+
 [`claudekit` ![GitHub Repo Stars](https://img.shields.io/github/stars/carlrannaberg/claudekit) ![GitHub last commit](https://img.shields.io/github/last-commit/carlrannaberg/claudekit)](https://github.com/carlrannaberg/claudekit) &nbsp; by &nbsp; [Carl Rannaberg](https://github.com/carlrannaberg)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
 Impressive CLI toolkit providing auto-save checkpointing, code quality hooks, specification generation and execution, and 20+ specialized subagents including oracle (gpt-5), code-reviewer (6-aspect deep analysis), ai-sdk-expert (Vercel AI SDK), typescript-expert and many more for Claude Code workflows.
 
@@ -647,6 +680,17 @@ Analyzes your Claude Code prompts locally (using CC), provides intelligent sessi
 <summary>📊 GitHub Stats</summary>
 
 ![GitHub Stats for vibe-log-cli](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=vibe-log-cli&username=vibe-log&all_stats=true&stats_only=true)
+
+</details>
+<br>
+
+[`viwo-cli` ![GitHub Repo Stars](https://img.shields.io/github/stars/OverseedAI/viwo) ![GitHub last commit](https://img.shields.io/github/last-commit/OverseedAI/viwo)](https://github.com/OverseedAI/viwo) &nbsp; by &nbsp; [Hal Shin](https://github.com/hal-shin)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
+Run Claude Code in a Docker container with git worktrees as volume mounts to enable safer usage of `--dangerously-skip-permissions` for frictionless one-shotting prompts. Allows users to spin up multiple instances of Claude Code in the background easily with reduced permission fatigue.
+
+<details>
+<summary>📊 GitHub Stats</summary>
+
+![GitHub Stats for viwo](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=viwo&username=OverseedAI&all_stats=true&stats_only=true)
 
 </details>
 <br>
