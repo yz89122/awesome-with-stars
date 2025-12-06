@@ -53,6 +53,17 @@ Claude Code is a cutting-edge CLI-based coding assistant and agent released by [
 
 > Resources added in the past 7 days
 
+[`Claude Code Output Styles - Debugging` ![GitHub Repo Stars](https://img.shields.io/github/stars/JamieM0/claude-output-styles) ![GitHub last commit](https://img.shields.io/github/last-commit/JamieM0/claude-output-styles)](https://github.com/JamieM0/claude-output-styles) &nbsp; by &nbsp; [Jamie Matthews](https://github.com/JamieM0)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
+A small set of well-written output styles, specifically focused on debugging - root cause analysis, systematic, methodical debugging, encouraging a more careful approach to bug-squashing from Claude Code.
+
+<details>
+<summary>📊 GitHub Stats</summary>
+
+![GitHub Stats for claude-output-styles](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=claude-output-styles&username=JamieM0&all_stats=true&stats_only=true)
+
+</details>
+<br>
+
 [`CCometixLine - Claude Code Statusline` ![GitHub Repo Stars](https://img.shields.io/github/stars/Haleclipse/CCometixLine) ![GitHub last commit](https://img.shields.io/github/last-commit/Haleclipse/CCometixLine)](https://github.com/Haleclipse/CCometixLine) &nbsp; by &nbsp; [Haleclipse](https://github.com/Haleclipse)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
 A high-performance Claude Code statusline tool written in Rust with Git integration, usage tracking, interactive TUI configuration, and Claude Code enhancement utilities.
 
@@ -299,7 +310,7 @@ Easily generate web assets from Claude Code including favicons, app icons (PWA),
 <details open>
 <summary><h3>General <a href="#awesome-claude-code">🔝</a></h3></summary>
 
-[`AB Method` ![GitHub Repo Stars](https://img.shields.io/github/stars/ayoubben18/ab-method) ![GitHub last commit](https://img.shields.io/github/last-commit/ayoubben18/ab-method)](https://github.com/ayoubben18/ab-method) &nbsp; by &nbsp; [Ayoub Bensalah](https://github.com/ayoubben18)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
+[`AB Method` ![GitHub Repo Stars](https://img.shields.io/github/stars/ayoubben18/ab-method) ![GitHub last commit](https://img.shields.io/github/last-commit/ayoubben18/ab-method)](https://github.com/ayoubben18/ab-method) &nbsp; by &nbsp; [Ayoub Bensalah](https://github.com/ayoubben18)  &nbsp;&nbsp;���️&nbsp;&nbsp;MIT  
 A principled, spec-driven workflow that transforms large problems into focused, incremental missions using Claude Code's specialized sub agents. Includes slash-commands, sub agents, and specialized workflows designed for specific parts of the SDLC.
 
 <details>
@@ -1188,6 +1199,17 @@ CLI tool and template gallery for customizing Claude Code output styles with pre
 <summary>📊 GitHub Stats</summary>
 
 ![GitHub Stats for ccoutputstyles](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=ccoutputstyles&username=viveknair&all_stats=true&stats_only=true)
+
+</details>
+<br>
+
+[`Claude Code Output Styles - Debugging` ![GitHub Repo Stars](https://img.shields.io/github/stars/JamieM0/claude-output-styles) ![GitHub last commit](https://img.shields.io/github/last-commit/JamieM0/claude-output-styles)](https://github.com/JamieM0/claude-output-styles) &nbsp; by &nbsp; [Jamie Matthews](https://github.com/JamieM0)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
+A small set of well-written output styles, specifically focused on debugging - root cause analysis, systematic, methodical debugging, encouraging a more careful approach to bug-squashing from Claude Code.
+
+<details>
+<summary>📊 GitHub Stats</summary>
+
+![GitHub Stats for claude-output-styles](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=claude-output-styles&username=JamieM0&all_stats=true&stats_only=true)
 
 </details>
 <br>
