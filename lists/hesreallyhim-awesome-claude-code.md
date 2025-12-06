@@ -734,7 +734,7 @@ Handy CLI tool for managing and analyzing Claude Code usage, based on analyzing 
 Claude Code usage dashboard with a web-UI that would put Tableau to shame. Thoroughly comprehensive metrics, frictionless setup, detailed logging, really really nice UI.
 
 <details>
-<summary>📊 GitHub Stats</summary>
+<summary>���� GitHub Stats</summary>
 
 ![GitHub Stats for ccflare](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=ccflare&username=snipeship&all_stats=true&stats_only=true)
 
