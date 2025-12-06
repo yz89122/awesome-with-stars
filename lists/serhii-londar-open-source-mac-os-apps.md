@@ -6384,7 +6384,7 @@ You can see in which language an app is written. Currently there are following l
 <div align="right"><a href="#contents">⬆️ Back to Top</a></div>
 
 <a id="music"></a>
-### 🎧 Music (15)
+### ���� Music (15)
 - [Carol ![GitHub Repo Stars](https://img.shields.io/github/stars/AnaghSharma/Carol) ![GitHub last commit](https://img.shields.io/github/last-commit/AnaghSharma/Carol)](https://github.com/AnaghSharma/Carol) - A minimal and beautiful lyrics app that stays in the menu bar of macOS. 
 
   <details>
