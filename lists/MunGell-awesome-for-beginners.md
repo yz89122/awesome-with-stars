@@ -239,7 +239,7 @@ If you would like to be guided through how to contribute to a repository on GitH
 
 ## MLOps
 
-- [SuperDuperDB ![GitHub Repo Stars](https://img.shields.io/github/stars/SuperDuperDB/superduperdb) ![GitHub last commit](https://img.shields.io/github/last-commit/SuperDuperDB/superduperdb)](https://github.com/SuperDuperDB/superduperdb) _(label: good first issue)_ <br> 🔮SuperDuperDB: Bring AI to your favourite database! Integrate, train and manage any AI models and APIs directly with your database and your data
+- [SuperDuperDB ![GitHub Repo Stars](https://img.shields.io/github/stars/SuperDuperDB/superduperdb) ![GitHub last commit](https://img.shields.io/github/last-commit/SuperDuperDB/superduperdb)](https://github.com/SuperDuperDB/superduperdb) _(label: good first issue)_ <br> ����SuperDuperDB: Bring AI to your favourite database! Integrate, train and manage any AI models and APIs directly with your database and your data
 
 ## Perl
 
