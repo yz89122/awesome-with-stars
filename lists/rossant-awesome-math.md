@@ -410,7 +410,7 @@ All resources are freely available except those with a 💲 icon.
 * 📝 [Foundations of Algebraic Geometry](http://math.stanford.edu/~vakil/216blog/FOAGjun1113public.pdf) - Ravi Vakil
 * 📝 [Algebraic Geometry](http://www.cis.upenn.edu/~jean/algeoms.pdf) - Jean Gallier, Stephen S. Shatz (University of Pennsylvania)
 * 📝 [Algebraic Geometry](http://www.jmilne.org/math/CourseNotes/AG.pdf) - J.S. Milne
-* 📝 [Algebraic Geometry](http://www.mathematik.uni-kl.de/~gathmann/class/alggeom-2002/main.pdf) - Andreas Gathmann (University of Kaiserslautern)
+* �� [Algebraic Geometry](http://www.mathematik.uni-kl.de/~gathmann/class/alggeom-2002/main.pdf) - Andreas Gathmann (University of Kaiserslautern)
 * 📝 [The Stacks Project](https://stacks.math.columbia.edu/) - Maintained by Aise Johan de Jong (Columbia)
 
 ### Algebraic Statistics
@@ -622,7 +622,7 @@ All resources are freely available except those with a 💲 icon.
 
 ## Mathematical Biology
 
-* ��� [Mathematical Biology](http://www.math.ust.hk/~machas/mathematical-biology.pdf) - Jeffrey Chasnov
+* 📝 [Mathematical Biology](http://www.math.ust.hk/~machas/mathematical-biology.pdf) - Jeffrey Chasnov
 
 ## Mathematical Physics
 
