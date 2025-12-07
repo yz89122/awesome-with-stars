@@ -356,7 +356,7 @@ This is the sequel to Writing An Interpreter In Go.
 
 We're picking up right where we left off and write a compiler and a virtual machine for Monkey.
 
-Runnable and tested code front and center, built from the ground up, step by step �� just like before.
+Runnable and tested code front and center, built from the ground up, step by step — just like before.
 
 But this time, we're going to define bytecode, compile Monkey and execute it in our very own virtual machine.
 
