@@ -240,7 +240,7 @@ The world is simultaneously underwater and on fire, and people want to know what
 
 ## Jobs
 
-- [80,000 Hours](https://80000hours.org/job-board/) - This board presents some of the most promising publicly advertised vacancies we know about. Most of these roles are demanding and difficult to get, but if you’re a good fit for one of them, it could be your best opportunity to work on one of the world���s most pressing problems, or to get the career capital you need to have a big impact later.
+- [80,000 Hours](https://80000hours.org/job-board/) - This board presents some of the most promising publicly advertised vacancies we know about. Most of these roles are demanding and difficult to get, but if you’re a good fit for one of them, it could be your best opportunity to work on one of the world’s most pressing problems, or to get the career capital you need to have a big impact later.
 - [awesome-sustainability-jobs ![GitHub Repo Stars](https://img.shields.io/github/stars/pogopaule/awesome-sustainability-jobs) ![GitHub last commit](https://img.shields.io/github/last-commit/pogopaule/awesome-sustainability-jobs)](https://github.com/pogopaule/awesome-sustainability-jobs) - A curated, open source list of developer jobs in the sustainability sector.
 - [Circul'R](https://www.circul-r.com/) - Bridging startups and companies so they can co-create circular economy solutions
 - [Data Science for Social Good](https://dssg-berlin.org/) - Berlin based group helping NGOs to make use of their data by connecting them with volunteer data scientists and analysts.
