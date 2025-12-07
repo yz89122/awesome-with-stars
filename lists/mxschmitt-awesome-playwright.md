@@ -31,6 +31,7 @@
 - [@guidepup/Playwright ![GitHub Repo Stars](https://img.shields.io/github/stars/guidepup/guidepup-playwright) ![GitHub last commit](https://img.shields.io/github/last-commit/guidepup/guidepup-playwright)](https://github.com/guidepup/guidepup-playwright) - VoiceOver and NVDA screen reader driver integration for Playwright.
 - [@appetize/Playwright](https://docs.appetize.io/testing) - Mobile tests for web or native apps on [Appetize](https://www.appetize.io)'s virtual devices using Playwright Test Runner.
 - [appwright](https://www.npmjs.com/package/appwright) - Mobile tests using Appium with Playwright Test Runner.
+- [Happo](https://docs.happo.io/docs/playwright) - Catch unexpected visual and accessibility changes and UI bugs.
 
 ## Language Support
 
