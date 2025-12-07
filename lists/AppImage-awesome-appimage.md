@@ -106,6 +106,7 @@
 - [AppImageUpdate ![GitHub Repo Stars](https://img.shields.io/github/stars/AppImage/AppImageUpdate) ![GitHub last commit](https://img.shields.io/github/last-commit/AppImage/AppImageUpdate)](https://github.com/AppImage/AppImageUpdate) - Official grapical application to update AppImages; command-line tool to update AppImages.
 - [AppImageUpdater ![GitHub Repo Stars](https://img.shields.io/github/stars/antony-jr/AppImageUpdater) ![GitHub last commit](https://img.shields.io/github/last-commit/antony-jr/AppImageUpdater)](https://github.com/antony-jr/AppImageUpdater) - Simple updater for humans written in C++ and Qt.
 - [appimage-update ![GitHub Repo Stars](https://img.shields.io/github/stars/AppImageCrafters/appimage-update) ![GitHub last commit](https://img.shields.io/github/last-commit/AppImageCrafters/appimage-update)](https://github.com/AppImageCrafters/appimage-update) - AppImage Update implementation written in Go.
+- [appimage-updater](https://pypi.org/project/appimage-updater/) - AppImage Update implementation written in Python, distributed on PyPi.
 
 ### Sandboxes
 
