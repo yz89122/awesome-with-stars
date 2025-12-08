@@ -145,6 +145,7 @@ A collection of awesome things regarding the React ecosystem.
 - [tagify ![GitHub Repo Stars](https://img.shields.io/github/stars/yairEO/tagify) ![GitHub last commit](https://img.shields.io/github/last-commit/yairEO/tagify)](https://github.com/yairEO/tagify) - Lightweight, efficient Tags input component
 - [puck ![GitHub Repo Stars](https://img.shields.io/github/stars/measuredco/puck) ![GitHub last commit](https://img.shields.io/github/last-commit/measuredco/puck)](https://github.com/measuredco/puck) - The visual editor for React
 - [json-edit-react ![GitHub Repo Stars](https://img.shields.io/github/stars/CarlosNZ/json-edit-react) ![GitHub last commit](https://img.shields.io/github/last-commit/CarlosNZ/json-edit-react)](https://github.com/CarlosNZ/json-edit-react) - Highly configurable JSON/Object tree editor/viewer
+- [markdown-to-jsx](https://www.npmjs.com/package/markdown-to-jsx) - A fast, versatile, and 100% CommonMark + GFM compliant markdown toolchain for React and other renderers.
 
 #### React Components Sandboxes
 
