@@ -1611,6 +1611,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 - [notomo/cmdbuf.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/notomo/cmdbuf.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/notomo/cmdbuf.nvim)](https://github.com/notomo/cmdbuf.nvim) - Alternative command-line-window plugin.
 - [gelguy/wilder.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/gelguy/wilder.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/gelguy/wilder.nvim)](https://github.com/gelguy/wilder.nvim) - A plugin for fuzzy command line autocompletion.
 - [vzze/cmdline.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/vzze/cmdline.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/vzze/cmdline.nvim)](https://github.com/vzze/cmdline.nvim) - Helix-like command line with fuzzy autocompletion.
+- [nvim-mini/mini.nvim#mini.cmdline ![GitHub Repo Stars](https://img.shields.io/github/stars/nvim-mini/mini.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/nvim-mini/mini.nvim)](https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-cmdline.md) - Module of `mini.nvim` for command line tweaks. Adds autocompletion with customizable delay, autocorrection for words with fixed candidates, and autopeek command range in a floating window.
 
 <!--lint disable double-link -->
 
