@@ -310,7 +310,7 @@ Easily generate web assets from Claude Code including favicons, app icons (PWA),
 <details open>
 <summary><h3>General <a href="#awesome-claude-code">🔝</a></h3></summary>
 
-[`AB Method` ![GitHub Repo Stars](https://img.shields.io/github/stars/ayoubben18/ab-method) ![GitHub last commit](https://img.shields.io/github/last-commit/ayoubben18/ab-method)](https://github.com/ayoubben18/ab-method) &nbsp; by &nbsp; [Ayoub Bensalah](https://github.com/ayoubben18)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
+[`AB Method` ![GitHub Repo Stars](https://img.shields.io/github/stars/ayoubben18/ab-method) ![GitHub last commit](https://img.shields.io/github/last-commit/ayoubben18/ab-method)](https://github.com/ayoubben18/ab-method) &nbsp; by &nbsp; [Ayoub Bensalah](https://github.com/ayoubben18)  &nbsp;&nbsp;���️&nbsp;&nbsp;MIT  
 A principled, spec-driven workflow that transforms large problems into focused, incremental missions using Claude Code's specialized sub agents. Includes slash-commands, sub agents, and specialized workflows designed for specific parts of the SDLC.
 
 <details>
