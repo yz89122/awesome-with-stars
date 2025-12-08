@@ -891,7 +891,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [Simple Observability](https://simpleobservability.com) — Powerful server monitoring in a unified platform for metrics and logs, with no setup complexity. Free for one server.
   * [sitemonki.com](https://sitemonki.com/) — Website, domain, Cron & SSL monitoring, 5 monitors in each category for free
   * [sitesure.net](https://sitesure.net) - Website and cron monitoring - 2 monitors free
-  * [skylight.io](https://www.skylight.io/) �� Free for first 100,000 requests (Rails only)
+  * [skylight.io](https://www.skylight.io/) — Free for first 100,000 requests (Rails only)
   * [Servervana](https://servervana.com) - Advanced uptime monitoring with support for large projects and teams. Provides HTTP monitoring, Browser based monitoring, DNS monitoring, domain monitoring, status pages and more. The free tier includes 10 HTTP monitors, 1 DNS monitor and one status page.
   * [speedchecker.xyz](https://probeapi.speedchecker.xyz/) — Performance Monitoring API, checks Ping, DNS, etc.
   * [Squadcast.com](https://squadcast.com) - Squadcast is an end-to-end incident management software designed to help you promote SRE best practices. Free forever plan available for up to 10 users.
