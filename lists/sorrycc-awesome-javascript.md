@@ -363,6 +363,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [cola.js](https://ialab.it.monash.edu/webcola/) - library for arranging your HTML5 documents and diagrams using constraint-based optimization techniques
 * [jointjs ![GitHub Repo Stars](https://img.shields.io/github/stars/clientIO/joint) ![GitHub last commit](https://img.shields.io/github/last-commit/clientIO/joint)](https://github.com/clientIO/joint) - Diagramming library to create static diagrams or fully interactive diagramming tools.
 * [vizzu ![GitHub Repo Stars](https://img.shields.io/github/stars/vizzuhq/vizzu-lib) ![GitHub last commit](https://img.shields.io/github/last-commit/vizzuhq/vizzu-lib)](https://github.com/vizzuhq/vizzu-lib) - Library for animated data visualizations and data stories.
+* [G6 ![GitHub Repo Stars](https://img.shields.io/github/stars/antvis/g6) ![GitHub last commit](https://img.shields.io/github/last-commit/antvis/g6)](https://github.com/antvis/g6) - A graph visualization engine.
 
 There're also some great commercial libraries, like [amchart](https://www.amcharts.com/), [anychart](https://www.anychart.com/), [plotly](https://plotly.com/), and [lightning chart](https://www.arction.com/lightningchart-js/).
 
