@@ -14,7 +14,7 @@
 
 <!-- Generated with https://github.com/denvercoder1/readme-typing-svg -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&duration=3000&pause=100&color=F7080D&width=680&lines=Lollygagging...;Skedaddling...;Bumbershooting...;Widdershinning...;Higgledy-piggledying...;Doodlebugging...;Fiddle-faddling...;Whimwhamming...;Dilly-dallying...;Flapdoodling...;Ballyhooing...;Galumphing...;Razzle-dazzling...;Tiddle-taddling...;Zigzagging...;Twinkletoeing...;Puddle-jumping...;Snicker-snacking...;Jibber-jabbering...;Frabjoussing...;Piffle-puffling...;Whirligigging...;Bibbity-bobbitying...;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&duration=3000&pause=100&color=F7080D&width=680&lines=Same+as+it+ever+was...;)](https://git.io/typing-svg)
 
 <!--lint enable remark-lint:awesome-badge-->
 
@@ -264,7 +264,7 @@ A creative educational framework for Claude Code, inspired by the "FASTER" appro
 > **Agent skills** are model-controlled configurations (files, scripts, resources, etc.) that enable Claude Code to perform specialized tasks requiring specific knowledge or capabilities.
 
 <details open>
-<summary><h3>General <a href="#awesome-claude-code">🔝</a></h3></summary>
+<summary><h3>General <a href="#awesome-claude-code">����</a></h3></summary>
 
 [`Codex Skill` ![GitHub Repo Stars](https://img.shields.io/github/stars/skills-directory/skill-codex) ![GitHub last commit](https://img.shields.io/github/last-commit/skills-directory/skill-codex)](https://github.com/skills-directory/skill-codex) &nbsp; by &nbsp; [klaudworks](https://github.com/klaudworks)    
 Enables users to prompt codex from claude code. Unlike the raw codex mcp server, this skill infers parameters such as model, reasoning effort, sandboxing from your prompt or asks you to specify them. It also simplifies continuing prior codex sessions so that codex can continue with the prior context.
@@ -310,7 +310,7 @@ Easily generate web assets from Claude Code including favicons, app icons (PWA),
 <details open>
 <summary><h3>General <a href="#awesome-claude-code">🔝</a></h3></summary>
 
-[`AB Method` ![GitHub Repo Stars](https://img.shields.io/github/stars/ayoubben18/ab-method) ![GitHub last commit](https://img.shields.io/github/last-commit/ayoubben18/ab-method)](https://github.com/ayoubben18/ab-method) &nbsp; by &nbsp; [Ayoub Bensalah](https://github.com/ayoubben18)  &nbsp;&nbsp;���️&nbsp;&nbsp;MIT  
+[`AB Method` ![GitHub Repo Stars](https://img.shields.io/github/stars/ayoubben18/ab-method) ![GitHub last commit](https://img.shields.io/github/last-commit/ayoubben18/ab-method)](https://github.com/ayoubben18/ab-method) &nbsp; by &nbsp; [Ayoub Bensalah](https://github.com/ayoubben18)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
 A principled, spec-driven workflow that transforms large problems into focused, incremental missions using Claude Code's specialized sub agents. Includes slash-commands, sub agents, and specialized workflows designed for specific parts of the SDLC.
 
 <details>
