@@ -264,7 +264,7 @@ A creative educational framework for Claude Code, inspired by the "FASTER" appro
 > **Agent skills** are model-controlled configurations (files, scripts, resources, etc.) that enable Claude Code to perform specialized tasks requiring specific knowledge or capabilities.
 
 <details open>
-<summary><h3>General <a href="#awesome-claude-code">����</a></h3></summary>
+<summary><h3>General <a href="#awesome-claude-code">🔝</a></h3></summary>
 
 [`Codex Skill` ![GitHub Repo Stars](https://img.shields.io/github/stars/skills-directory/skill-codex) ![GitHub last commit](https://img.shields.io/github/last-commit/skills-directory/skill-codex)](https://github.com/skills-directory/skill-codex) &nbsp; by &nbsp; [klaudworks](https://github.com/klaudworks)    
 Enables users to prompt codex from claude code. Unlike the raw codex mcp server, this skill infers parameters such as model, reasoning effort, sandboxing from your prompt or asks you to specify them. It also simplifies continuing prior codex sessions so that codex can continue with the prior context.
