@@ -214,7 +214,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 - [Fancy Bottom Navigation ![GitHub Repo Stars](https://img.shields.io/github/stars/tunitowen/fancy_bottom_navigation) ![GitHub last commit](https://img.shields.io/github/last-commit/tunitowen/fancy_bottom_navigation)](https://github.com/tunitowen/fancy_bottom_navigation) [808⭐] - Animated bottom navigation by [Tony Owen](https://github.com/tunitowen).
 - [Circular Bottom Navigation ![GitHub Repo Stars](https://img.shields.io/github/stars/imaNNeoFighT/circular_bottom_navigation) ![GitHub last commit](https://img.shields.io/github/last-commit/imaNNeoFighT/circular_bottom_navigation)](https://github.com/imaNNeoFighT/circular_bottom_navigation) [680⭐] - Beautiful animated bottom navigation bar by [Iman Khoshabi](https://github.com/imaNNeoFighT).
-- [Bottom Navy Bar ![GitHub Repo Stars](https://img.shields.io/github/stars/pedromassango/bottom_navy_bar) ![GitHub last commit](https://img.shields.io/github/last-commit/pedromassango/bottom_navy_bar)](https://github.com/pedromassango/bottom_navy_bar) [1069⭐] - Beautiful and colorful animated bottom navigation bar by [Pedro Massango](https://github.com/pedromassango).
+- [Bottom Navy Bar ![GitHub Repo Stars](https://img.shields.io/github/stars/pedromassango/bottom_navy_bar) ![GitHub last commit](https://img.shields.io/github/last-commit/pedromassango/bottom_navy_bar)](https://github.com/pedromassango/bottom_navy_bar) [1069��] - Beautiful and colorful animated bottom navigation bar by [Pedro Massango](https://github.com/pedromassango).
 - [Titled Navigation Bar ![GitHub Repo Stars](https://img.shields.io/github/stars/pedromassango/titled_navigation_bar) ![GitHub last commit](https://img.shields.io/github/last-commit/pedromassango/titled_navigation_bar)](https://github.com/pedromassango/titled_navigation_bar) [370⭐] - Animated bottom navigation bar that switch between icon and title by [Pedro Massango](http://github.com/pedromassango).
 - [Google Nav Bar ![GitHub Repo Stars](https://img.shields.io/github/stars/sooxt98/google_nav_bar) ![GitHub last commit](https://img.shields.io/github/last-commit/sooxt98/google_nav_bar)](https://github.com/sooxt98/google_nav_bar) [772⭐] - A modern google style nav bar for flutter by [Sooxt98](http://github.com/sooxt98).
 
@@ -469,7 +469,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Geolocator ![GitHub Repo Stars](https://img.shields.io/github/stars/baseflow/flutter-geolocator) ![GitHub last commit](https://img.shields.io/github/last-commit/baseflow/flutter-geolocator)](https://github.com/baseflow/flutter-geolocator) [1311⭐] - A Flutter geolocation plugin which provides easy access to the platform specific location services by [Baseflow](https://baseflow.com).
 - [Permission Handler ![GitHub Repo Stars](https://img.shields.io/github/stars/baseflow/flutter-permission-handler) ![GitHub last commit](https://img.shields.io/github/last-commit/baseflow/flutter-permission-handler)](https://github.com/baseflow/flutter-permission-handler) [2144⭐] - A Flutter permission plugin which provides a cross-platform (iOS, Android) API to request and check permissions by [Baseflow](https://baseflow.com).
 - [WidgetKit ![GitHub Repo Stars](https://img.shields.io/github/stars/fasky-software/flutter_widgetkit) ![GitHub last commit](https://img.shields.io/github/last-commit/fasky-software/flutter_widgetkit)](https://github.com/fasky-software/flutter_widgetkit) [?⭐] - A plugins which allows you to create a Widget-Extention for iOS by [Thomas Leiter](https://github.com/tomLadder).
-- [Live Activities ![GitHub Repo Stars](https://img.shields.io/github/stars/istornz/live_activities) ![GitHub last commit](https://img.shields.io/github/last-commit/istornz/live_activities)](https://github.com/istornz/live_activities) [233⭐] - A plugin to use iOS live activities & Dynamic Island features by [Dimitri Dessus](https://github.com/istornz).
+- [Live Activities ![GitHub Repo Stars](https://img.shields.io/github/stars/istornz/live_activities) ![GitHub last commit](https://img.shields.io/github/last-commit/istornz/live_activities)](https://github.com/istornz/live_activities) [233��] - A plugin to use iOS live activities & Dynamic Island features by [Dimitri Dessus](https://github.com/istornz).
 
 #### Scanner
 
@@ -917,7 +917,7 @@ This section contains libraries that take an experimental or unorthodox approach
 - [Community GitHub Page](https://github.com/Colombo-Flutter-Meetup)
 - [Facebook Page](https://www.facebook.com/flutterCMB/)
 
-### 🇹��� Turkey
+### 🇹🇷 Turkey
 
 - [Twitter](https://twitter.com/flutter_turkiye)
 - [Medium](https://medium.com/flutter-türkiye/)
