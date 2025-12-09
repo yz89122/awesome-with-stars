@@ -75,6 +75,7 @@ A collection of awesome things regarding the React ecosystem.
 - [react-email ![GitHub Repo Stars](https://img.shields.io/github/stars/resend/react-email) ![GitHub last commit](https://img.shields.io/github/last-commit/resend/react-email)](https://github.com/resend/react-email) - Unstyled components for creating beautiful emails
 - [8bitcn-ui ![GitHub Repo Stars](https://img.shields.io/github/stars/TheOrcDev/8bitcn-ui) ![GitHub last commit](https://img.shields.io/github/last-commit/TheOrcDev/8bitcn-ui)](https://github.com/TheOrcDev/8bitcn-ui) - A retro 8-bit themed React component library built on top of shadcn
 - [headlessui ![GitHub Repo Stars](https://img.shields.io/github/stars/tailwindlabs/headlessui) ![GitHub last commit](https://img.shields.io/github/last-commit/tailwindlabs/headlessui)](https://github.com/tailwindlabs/headlessui) - Completely unstyled, accessible UI components for React
+- [ruixen-ui ![GitHub Repo Stars](https://img.shields.io/github/stars/ruixenui/ruixen.com) ![GitHub last commit](https://img.shields.io/github/last-commit/ruixenui/ruixen.com)](https://github.com/ruixenui/ruixen.com) - Modern, lightweight React component library with elegant design
 
 #### React State Management and Data Fetching
 
@@ -145,7 +146,6 @@ A collection of awesome things regarding the React ecosystem.
 - [tagify ![GitHub Repo Stars](https://img.shields.io/github/stars/yairEO/tagify) ![GitHub last commit](https://img.shields.io/github/last-commit/yairEO/tagify)](https://github.com/yairEO/tagify) - Lightweight, efficient Tags input component
 - [puck ![GitHub Repo Stars](https://img.shields.io/github/stars/measuredco/puck) ![GitHub last commit](https://img.shields.io/github/last-commit/measuredco/puck)](https://github.com/measuredco/puck) - The visual editor for React
 - [json-edit-react ![GitHub Repo Stars](https://img.shields.io/github/stars/CarlosNZ/json-edit-react) ![GitHub last commit](https://img.shields.io/github/last-commit/CarlosNZ/json-edit-react)](https://github.com/CarlosNZ/json-edit-react) - Highly configurable JSON/Object tree editor/viewer
-- [markdown-to-jsx](https://www.npmjs.com/package/markdown-to-jsx) - A fast, versatile, and 100% CommonMark + GFM compliant markdown toolchain for React and other renderers.
 
 #### React Components Sandboxes
 
@@ -187,6 +187,7 @@ A collection of awesome things regarding the React ecosystem.
 - [remotion ![GitHub Repo Stars](https://img.shields.io/github/stars/remotion-dev/remotion) ![GitHub last commit](https://img.shields.io/github/last-commit/remotion-dev/remotion)](https://github.com/remotion-dev/remotion) - Make videos programmatically with React
 - [react-pdf ![GitHub Repo Stars](https://img.shields.io/github/stars/diegomura/react-pdf) ![GitHub last commit](https://img.shields.io/github/last-commit/diegomura/react-pdf)](https://github.com/diegomura/react-pdf) - Create PDF files using React
 - [react-figma ![GitHub Repo Stars](https://img.shields.io/github/stars/react-figma/react-figma) ![GitHub last commit](https://img.shields.io/github/last-commit/react-figma/react-figma)](https://github.com/react-figma/react-figma) - A React renderer for Figma
+- [markdown-to-jsx ![GitHub Repo Stars](https://img.shields.io/github/stars/quantizor/markdown-to-jsx) ![GitHub last commit](https://img.shields.io/github/last-commit/quantizor/markdown-to-jsx)](https://github.com/quantizor/markdown-to-jsx) - A very fast and versatile markdown toolchain
 
 #### React Internationalization
 
