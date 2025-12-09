@@ -869,7 +869,7 @@ Royalty free music! Don't forget to check the license.
 [The Reverse Interview ![GitHub Repo Stars](https://img.shields.io/github/stars/viraptor/reverse-interview) ![GitHub last commit](https://img.shields.io/github/last-commit/viraptor/reverse-interview)](https://github.com/viraptor/reverse-interview) - Another list for you to ask a potential employer (created for non-games tech, but most questions apply to games, and some apply to all disciplines).
 
 
-[Guide to Game Art Applications](https://www.artstation.com/blogs/kierangoodson/mY0N/guide-to-game-art-applications-portfolios-and-job-postings) 🟪 - A guide to game art portfolios and job hunting.
+[Guide to Game Art Applications](https://www.artstation.com/blogs/kierangoodson/mY0N/guide-to-game-art-applications-portfolios-and-job-postings) ��� - A guide to game art portfolios and job hunting.
 
 
 [The Bible of Getting a Job in Game Audio](https://docs.google.com/document/d/1sAd8xOdngsdLJqKfcOnyL8xRhPi3Uitys6fEXU9O2X0/edit) 🟪 - A massive collection of career resources for game audio.
