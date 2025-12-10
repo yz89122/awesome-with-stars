@@ -278,10 +278,10 @@ All resources are freely available except those with a 💲 icon.
 ## Number Theory
 
 * 📝 [Elementary Number Theory: Primes, Congruences, and Secrets](http://wstein.org/ent/ent.pdf) - William Stein
-* �� [Elementary Number Theory](http://math.utoledo.edu/~codenth/Spring_13/3200/ENT-books/Elementary_Number_Theory-Clark.pdf) - W. Edwin Clark (University of South Florida)
+* 📝 [Elementary Number Theory](http://math.utoledo.edu/~codenth/Spring_13/3200/ENT-books/Elementary_Number_Theory-Clark.pdf) - W. Edwin Clark (University of South Florida)
 * 📝 [A Course on Number Theory](http://www.maths.qmul.ac.uk/~pjc/notes/nt.pdf) - Peter J. Cameron
 * 📝 [A Computational Introduction to Number Theory and Algebra](http://shoup.net/ntb/ntb-v2.pdf) - Victor Shoup
-* 📝 [Number Theory: A Contemporary Introduction](http://alpha.math.uga.edu/~pete/4400FULL.pdf) - Pete L. Clark
+* ���� [Number Theory: A Contemporary Introduction](http://alpha.math.uga.edu/~pete/4400FULL.pdf) - Pete L. Clark
 * 📝 [An Introduction to the Theory of Numbers](http://www.trillia.com/moser-number.html) - Leo Moser
 * 📝 [Yet Another Introductory Number Theory Textbook](https://www.poritz.net/jonathan/share/yaintt/) - Jonathan A. Poritz
 
@@ -297,7 +297,7 @@ All resources are freely available except those with a 💲 icon.
 * 📝 [Introduction to Analytic Number Theory](http://www.math.uiuc.edu/~hildebr/ant/main.pdf) - A.J. Hildebrand (University of Illinois)
 * 📝 [Elements of Analytic Number Theory](http://math.nsc.ru/~vdovin/lectures/numth_eng.pdf) - P. S. Kolesnikov, E. P. Vdovin (Novosibirsk)
 * 📝 [Analytic Number Theory](http://www.mathematik.uni-muenchen.de/~forster/v/ann/annth_all.pdf) - Otto Forster (LMU Munich)
-* 📝 [Analytic Number Theory - Lecture Notes based on Davenport’s book](http://www2.math.uu.se/~astrombe/analtalt08/www_notes.pdf) - Andreas Strömbergsson
+* 📝 [Analytic Number Theory - Lecture Notes based on Davenport’s book](http://www2.math.uu.se/~astrombe/analtalt08/www_notes.pdf) - Andreas Str��mbergsson
 
 
 ## Algebra
@@ -342,7 +342,7 @@ All resources are freely available except those with a 💲 icon.
 * 📝 [Introduction to vectors and tensors, Vol 1: linear and multilinear algebra](http://oaktrust.library.tamu.edu/handle/1969.1/2502) - Ray M Bowen, C. C. Wang
 * 📝 [Introduction to vectors and tensors, Vol 2: vector and tensor analysis](http://oaktrust.library.tamu.edu/handle/1969.1/3609) - Ray M Bowen, C. C. Wang
 * 📝 [Introduction to Applied Linear Algebra](https://web.stanford.edu/~boyd/vmls/vmls.pdf) - Stephen Boyd (Stanford University), Lieven Vandenberghe (UCLA)
-* 📝 [Linear Algebra Done Wrong](https://www.math.brown.edu/~treil/papers/LADW/LADW_2017-09-04.pdf) - Sergei Treil
+* ��� [Linear Algebra Done Wrong](https://www.math.brown.edu/~treil/papers/LADW/LADW_2017-09-04.pdf) - Sergei Treil
 * 📝 [Immersive Linear Algebra](http://immersivemath.com/ila/index.html) - J. Ström, K. Åström, and T. Akenine-Möller
 * 📝 [Interactive Linear Algebra](https://textbooks.math.gatech.edu/ila/) - Dan Margalit and Joseph Rabinoff
 * 📝 [Linear Algebra, Infinite Dimensions, and Maple](https://people.math.gatech.edu/~herod/Hspace/Hspace.html) - James Herod
@@ -396,7 +396,7 @@ All resources are freely available except those with a 💲 icon.
 
 * 📝 [Introduction to Differential Geometry](https://people.math.ethz.ch/~salamon/PREPRINTS/diffgeo.pdf) - Joel W. Robbin, Dietmar A. Salamon
 * 📝 [Notes on Differential Geometry and Lie Groups](https://www.cis.upenn.edu/~jean/gbooks/manif.html) - Jean Gallier (University of Pennsylvania)
-* ���� [Topics in Differential Geometry](http://www.mat.univie.ac.at/~michor/dgbook.pdf) - Peter W. Michor
+* 📝 [Topics in Differential Geometry](http://www.mat.univie.ac.at/~michor/dgbook.pdf) - Peter W. Michor
 * 📝 [Lectures on Differential Geometry](http://mysite.science.uottawa.ca/rossmann/Differential%20Geometry%20book_files/Diffgeo.pdf) - Wulf Rossmann
 * 📝 [An Introduction to Riemannian Geometry](http://www.matematik.lu.se/matematiklu/personal/sigma/Riemann.pdf) - Sigmundur Gudmundsson (Lund University)
 * 📝 [The Geometry and Topology of Three-Manifolds](http://msri.org/publications/books/gt3m/) - W. Thurston
@@ -545,7 +545,7 @@ All resources are freely available except those with a 💲 icon.
 ### Probability Theory
 
 * 📝 [Introduction to Probability](https://www.dartmouth.edu/~chance/teaching_aids/books_articles/probability_book/amsbook.mac.pdf) - Charles M. Grinstead, J. Laurie Snell
-* �� [Introduction to Probability](http://vfu.bg/en/e-Learning/Math--Bertsekas_Tsitsiklis_Introduction_to_probability.pdf) - Dimitri P. Bertsekas, John N. Tsitsiklis (MIT)
+* 📝 [Introduction to Probability](http://vfu.bg/en/e-Learning/Math--Bertsekas_Tsitsiklis_Introduction_to_probability.pdf) - Dimitri P. Bertsekas, John N. Tsitsiklis (MIT)
 * 📝 [A Short Introduction to Probability](http://www.maths.uq.edu.au/~kroese/asitp.pdf) - Dirk P. Kroese (University of Queensland)
 * 📝 [Probability: Theory and Examples](https://www.math.duke.edu/~rtd/PTE/PTE4_1.pdf) - Rick Durrett
 * 📝 [Probability and Statistics Cookbook ![GitHub Repo Stars](https://img.shields.io/github/stars/mavam/stat-cookbook) ![GitHub last commit](https://img.shields.io/github/last-commit/mavam/stat-cookbook)](https://github.com/mavam/stat-cookbook/releases/download/0.2.3/stat-cookbook.pdf) - Matthias Vallentin (UC Berkeley)
