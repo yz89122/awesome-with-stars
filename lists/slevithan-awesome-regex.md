@@ -361,7 +361,7 @@ Many regexes found online are low quality. It's risky to use regexes you don't f
 </details>
 
 <details>
-  <summary>��� <b>Future: Active proposals</b></summary>
+  <summary>🔮 <b>Future: Active proposals</b></summary>
   <br>
 
 - [Extended mode and comments ![GitHub Repo Stars](https://img.shields.io/github/stars/tc39/proposal-regexp-x-mode) ![GitHub last commit](https://img.shields.io/github/last-commit/tc39/proposal-regexp-x-mode)](https://github.com/tc39/proposal-regexp-x-mode) (2021) - Flag `x` (`extended`) with insignificant whitespace and line comments (`#…`), plus inline comments via `(?#…)`.
