@@ -161,6 +161,8 @@ This list accepts and encourages pull requests. See [CONTRIBUTING ![GitHub Repo 
 ## MCP
 
 - [MCP MariaDB Server ![GitHub Repo Stars](https://img.shields.io/github/stars/MariaDB/mcp) ![GitHub last commit](https://img.shields.io/github/last-commit/MariaDB/mcp)](https://github.com/MariaDB/mcp) - the official MariaDB MCP server.
+- [MySQL MCP Server ![GitHub Repo Stars](https://img.shields.io/github/stars/askdba/mysql-mcp-server) ![GitHub last commit](https://img.shields.io/github/last-commit/askdba/mysql-mcp-server)](https://github.com/askdba/mysql-mcp-server) - Advanced MCP server exposing MySQL via the Model Context Protocol
+- [TiDB MCP Server](https://pingcap.github.io/ai/integrations/tidb-mcp-server/) - MCP Server for TiDB.
 
 ## Proxy
 
