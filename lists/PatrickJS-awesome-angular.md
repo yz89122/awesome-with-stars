@@ -2058,7 +2058,7 @@ for the creation of web applications developed with Angular.
 * [c3-components ![GitHub Repo Stars](https://img.shields.io/github/stars/c3ulnta0rk/c3-components) ![GitHub last commit](https://img.shields.io/github/last-commit/c3ulnta0rk/c3-components)](https://github.com/c3ulnta0rk/c3-components) - An open-source component library that extends the `@angular/material` library.
 * [simplematcomponents ![GitHub Repo Stars](https://img.shields.io/github/stars/wobkenh/simplematcomponents) ![GitHub last commit](https://img.shields.io/github/last-commit/wobkenh/simplematcomponents)](https://github.com/wobkenh/simplematcomponents) - Set of Angular components that fit into or use Angular Material Design.
 * [Angular Material Dev UI](https://ui.angular-material.dev/home) - One place stop for developers to explore components and blocks for their Angular Material and Tailwind CSS based applications.
-* [nmce ![GitHub Repo Stars](https://img.shields.io/github/stars/zijianhuang/nmce) ![GitHub last commit](https://img.shields.io/github/last-commit/zijianhuang/nmce)](https://github.com/zijianhuang/nmce) - Suite of Angular Material extensions with reusable code and UI enhancements for complex, data‑rich business apps.
+* [nmce ![GitHub Repo Stars](https://img.shields.io/github/stars/zijianhuang/nmce) ![GitHub last commit](https://img.shields.io/github/last-commit/zijianhuang/nmce)](https://github.com/zijianhuang/nmce) - Suite of Angular Material extensions with reusable code and UI enhancements for complex, data���rich business apps.
 
 ### UI Libraries built on Tailwind CSS
 
