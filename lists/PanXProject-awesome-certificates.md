@@ -93,7 +93,7 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 | <a href="https://www.linkedin.com/learning/paths/career-essentials-in-generative-ai-by-microsoft-and-linkedin" target="_blank" rel="noopener noreferrer">Career Essentials in Generative AI</a> | LinkedIn & Microsoft | Beginner| 4.5 | 🏆 |
 | <a href="https://www.deeplearning.ai/short-courses/prompt-engineering-for-vision-models/" target="_blank" rel="noopener noreferrer">Prompt Engineering for Vision Models</a> | DeepLearning.AI & Comet | Beginner | 1.5 | 🏅 |
 | <a href="https://www.life-global.org/course/423-ai-for-business-professionals" target="_blank" rel="noopener noreferrer">AI for Business Professionals</a> | HP / Life Global | Beginner | 0.5 | 🏆 |
-| <a href="https://www.life-global.org/course/391-ai-for-beginners" target="_blank" rel="noopener noreferrer">AI for Beginners</a> | HP / Life Global | Beginner | 0.5 | �� |
+| <a href="https://www.life-global.org/course/391-ai-for-beginners" target="_blank" rel="noopener noreferrer">AI for Beginners</a> | HP / Life Global | Beginner | 0.5 | 🏆 |
 
 <a href="https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents" target="_blank" rel="noopener noreferrer">⬆️</a>
 
