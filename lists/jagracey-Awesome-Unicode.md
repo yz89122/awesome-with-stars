@@ -480,7 +480,7 @@ The zero-width non-joiner (ZWNJ) is a non-printing character used in the compute
 | [U+FB14](https://codepoints.net/U+FB14?lang=en) | `ﬔ`       | ARMENIAN SMALL LIGATURE MEN ECH                                          | `մ`, `ե`         | U+0574, U+0565         |
 | [U+FB15](https://codepoints.net/U+FB15?lang=en) | `ﬕ`       | ARMENIAN SMALL LIGATURE MEN INI                                          | `մ`, `ի`         | U+0574, U+056B         |
 | [U+FB16](https://codepoints.net/U+FB16?lang=en) | `ﬖ`       | ARMENIAN SMALL LIGATURE VEW NOW                                          | `վ`, `ն`         | U+057E, U+0576         |
-| [U+FB17](https://codepoints.net/U+FB17?lang=en) | `ﬗ`       | ARMENIAN SMALL LIGATURE MEN XEH                                          | `մ`, `խ`         | U+0574, U+056D         |
+| [U+FB17](https://codepoints.net/U+FB17?lang=en) | `���`       | ARMENIAN SMALL LIGATURE MEN XEH                                          | `մ`, `խ`         | U+0574, U+056D         |
 
 
 
