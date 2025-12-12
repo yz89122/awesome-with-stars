@@ -608,7 +608,7 @@ Royalty Free Game Art! Don't forget to check the license.
 <br />
 
 
-[The Art of Game Design](https://www.schellgames.com/art-of-game-design/) 💠🟪 - An essential book on game design, basically mandatory reading for designers. Has a price tag, but is well worth the money.
+[The Art of Game Design](https://www.schellgames.com/art-of-game-design/) ���🟪 - An essential book on game design, basically mandatory reading for designers. Has a price tag, but is well worth the money.
 
 
 [The Design of Everyday Things](https://ia902800.us.archive.org/3/items/thedesignofeverydaythingsbydonnorman/The%20Design%20of%20Everyday%20Things%20by%20Don%20Norman.pdf) 💠🟪 - A book on design in everything, basically mandatory reading for designers.
@@ -626,7 +626,7 @@ Royalty Free Game Art! Don't forget to check the license.
 [Pattern Language for Game Design](https://patternlanguageforgamedesign.com/) 💠🟪 - A database of common design patterns presented as problem solutions, compiled from the book _Pattern Language for Game Design_. Also contains work from students and designers completing excercises from the book.
 
 
-[The Evolution of Trust](https://ncase.me/trust/) 💠🟪 - An interactive walkthrough of some game theory. Would probably be mandatory reading in a game design class.
+[The Evolution of Trust](https://ncase.me/trust/) ���🟪 - An interactive walkthrough of some game theory. Would probably be mandatory reading in a game design class.
 
 
 [Extra Credits: So You Want To Be a Game Designer](https://www.youtube.com/watch?v=zQvWMdWhFCc) 💠🟪 - A channel on game design that was far ahead of its time. Their backlog is filled with invaluable advice, though their more recent content has a controversial reputation, and they've largely pivoted away from games into history and literature. Start with their career video(s) - dig through their game design backlog if you would like, but stick to the older stuff.
@@ -736,7 +736,7 @@ Royalty Free Game Art! Don't forget to check the license.
 [The Sound Effects Bible](https://postproduciendoenlaeav.files.wordpress.com/2017/09/the-sound-effects-bible-ric-viers.pdf) 🟪 - A book on everything sound effects.
 
 
-[Another list of resources!](https://twitter.com/chiragmachhar/status/1511446337639927811) 🟪 - [Archived PDF](archives/twitter/chiragmachharThread.pdf). 
+[Another list of resources!](https://twitter.com/chiragmachhar/status/1511446337639927811) ���� - [Archived PDF](archives/twitter/chiragmachharThread.pdf). 
 
 
 [SFXR](https://sfxr.me/) - A great program for generating simple sound effects.
@@ -869,7 +869,7 @@ Royalty free music! Don't forget to check the license.
 [The Reverse Interview ![GitHub Repo Stars](https://img.shields.io/github/stars/viraptor/reverse-interview) ![GitHub last commit](https://img.shields.io/github/last-commit/viraptor/reverse-interview)](https://github.com/viraptor/reverse-interview) - Another list for you to ask a potential employer (created for non-games tech, but most questions apply to games, and some apply to all disciplines).
 
 
-[Guide to Game Art Applications](https://www.artstation.com/blogs/kierangoodson/mY0N/guide-to-game-art-applications-portfolios-and-job-postings) ��� - A guide to game art portfolios and job hunting.
+[Guide to Game Art Applications](https://www.artstation.com/blogs/kierangoodson/mY0N/guide-to-game-art-applications-portfolios-and-job-postings) 🟪 - A guide to game art portfolios and job hunting.
 
 
 [The Bible of Getting a Job in Game Audio](https://docs.google.com/document/d/1sAd8xOdngsdLJqKfcOnyL8xRhPi3Uitys6fEXU9O2X0/edit) 🟪 - A massive collection of career resources for game audio.
