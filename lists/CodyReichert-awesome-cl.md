@@ -541,7 +541,7 @@ Data Structures
 
 strings:
 
-* �� [str ![GitHub Repo Stars](https://img.shields.io/github/stars/vindarel/cl-str) ![GitHub last commit](https://img.shields.io/github/last-commit/vindarel/cl-str)](https://github.com/vindarel/cl-str) - a modern, simple and consistent string manipulation library. [MIT][200].
+* 👍 [str ![GitHub Repo Stars](https://img.shields.io/github/stars/vindarel/cl-str) ![GitHub last commit](https://img.shields.io/github/last-commit/vindarel/cl-str)](https://github.com/vindarel/cl-str) - a modern, simple and consistent string manipulation library. [MIT][200].
 * [rope ![GitHub Repo Stars](https://img.shields.io/github/stars/garlic0x1/rope) ![GitHub last commit](https://img.shields.io/github/last-commit/garlic0x1/rope)](https://github.com/garlic0x1/rope) -  Immutable Ropes for Common Lisp. MIT.
 
 lists and sequences:
