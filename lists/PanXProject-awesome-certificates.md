@@ -398,7 +398,7 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 | <a href="https://codered.eccouncil.org/course/android-bug-bounty-hunting-hunt-like-a-rat" target="_blank" rel="noopener noreferrer">Android Bug Bounty Hunting: Hunt Like a Rat</a> | EC-Council | Beginner | 1 | 🏆 |
 | <a href="https://developers.google.com/profile/badges/tier/courses/android/android-development-with-kotlin" target="_blank" rel="noopener noreferrer">Android App Development with Kotlin</a> | Google | Intermediate | 20 |  🏅 |	
 
-<a href="https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents" target="_blank" rel="noopener noreferrer">���️</a>
+<a href="https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents" target="_blank" rel="noopener noreferrer">⬆️</a>
 
 ## Networking
 
