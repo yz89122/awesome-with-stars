@@ -1165,6 +1165,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 - [igorlfs/nvim-dap-view ![GitHub Repo Stars](https://img.shields.io/github/stars/igorlfs/nvim-dap-view) ![GitHub last commit](https://img.shields.io/github/last-commit/igorlfs/nvim-dap-view)](https://github.com/igorlfs/nvim-dap-view) - A modern, minimalistic UI for nvim-dap.
 - [Carcuis/dap-breakpoints.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/Carcuis/dap-breakpoints.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/Carcuis/dap-breakpoints.nvim)](https://github.com/Carcuis/dap-breakpoints.nvim) - Manage and create advanced breakpoints with virtual text and popup reveal for nvim-dap.
 - [ravsii/nvim-dap-envfile ![GitHub Repo Stars](https://img.shields.io/github/stars/ravsii/nvim-dap-envfile) ![GitHub last commit](https://img.shields.io/github/last-commit/ravsii/nvim-dap-envfile)](https://github.com/ravsii/nvim-dap-envfile) - Automatic `envFile` support for nvim-dap.
+- [fschaal/azfunc.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/fschaal/azfunc.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/fschaal/azfunc.nvim)](https://github.com/fschaal/azfunc.nvim) - Seamlessly debug Azure Functions with automatic DAP integration.
 
 ### Quickfix
 

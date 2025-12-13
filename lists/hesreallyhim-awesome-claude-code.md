@@ -710,7 +710,7 @@ _A broader project management workflow for Claude Code that encompasses not just
   </picture>
 </div>
 </h2>
-<div align="right"><a href="#awesome-claude-code">🔝 Back to top</a></div>
+<div align="right"><a href="#awesome-claude-code">���� Back to top</a></div>
 
 
 <div align="center">
