@@ -733,7 +733,7 @@ Royalty Free Game Art! Don't forget to check the license.
 [Game Audio Learning Resources](https://docs.google.com/spreadsheets/d/1fcuhGEesLC_PWCwY3dIwLgF774sKswOwIcZECWiH7Xo/edit#gid=0) 💠🟪 - A megalist of game audio learning resources! 
 
 
-[The Sound Effects Bible](https://postproduciendoenlaeav.files.wordpress.com/2017/09/the-sound-effects-bible-ric-viers.pdf) 🟪 - A book on everything sound effects.
+[The Sound Effects Bible](https://postproduciendoenlaeav.files.wordpress.com/2017/09/the-sound-effects-bible-ric-viers.pdf) ���� - A book on everything sound effects.
 
 
 [Another list of resources!](https://twitter.com/chiragmachhar/status/1511446337639927811) 🟪 - [Archived PDF](archives/twitter/chiragmachharThread.pdf). 
@@ -845,7 +845,7 @@ Royalty free music! Don't forget to check the license.
 [Career Documents from Jean Leggett](https://docs.google.com/document/d/1pGglICnig6oZ1IABXLMuwAEN1azPP5pnZUvdrYwbyGs/edit) 🟪 - Another huge list of career documents and resources!
 
 
-[Game Dev LFW Resources](https://javieracordero.notion.site/cce9a8faef6e4f31bb43b7630521a4d2?v=efdf687094be499bb2d9a33f55b906bc) ��� - Yet another list of resources and communities!
+[Game Dev LFW Resources](https://javieracordero.notion.site/cce9a8faef6e4f31bb43b7630521a4d2?v=efdf687094be499bb2d9a33f55b906bc) 🟪 - Yet another list of resources and communities!
 
 
 [Interview Placemat](https://www.linkedin.com/posts/victoriaearle_jobhunt-jobsearch-interviewing-activity-7052059362810335232-UhrI/) 🟪 - A template useful for interview prep. [Archived Image](archives/InterviewPlacemat.jpg).
