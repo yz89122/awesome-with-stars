@@ -126,6 +126,9 @@ Unlike R, Python was not built from the ground up with data science in mind, but
 
 Please, contribute about "agents"
 
+### Frameworks
+- [ADK-Rust ![GitHub Repo Stars](https://img.shields.io/github/stars/zavora-ai/adk-rust) ![GitHub last commit](https://img.shields.io/github/last-commit/zavora-ai/adk-rust)](https://github.com/zavora-ai/adk-rust) - Production-ready AI agent development kit for Rust with model-agnostic design (Gemini, OpenAI, Anthropic), multiple agent types (LLM, Graph, Workflow), MCP support, and built-in telemetry.
+
 ### Workflow  
 **[`^        back to top        ^`](#awesome-data-science)**
 - [sim](https://sim.ai) Sim Studio's interface is a lightweight, intuitive way to quickly build and deploy LLMs that connect with your favorite tools.
