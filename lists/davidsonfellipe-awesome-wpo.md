@@ -207,7 +207,7 @@ Here's a quick overview of the categories covered in this collection:
 - [Amazon CloudFront](https://aws.amazon.com/cloudfront/) - A content delivery network by Amazon that integrates nicely with other Amazon services or can be used standalone.
 - [jQuery](http://code.jquery.com/) - jQuery CDN – Latest Stable Versions, powered by MaxCDN.
 - :cn: [UpYun CDN](http://jscdn.upai.com/) - CDN provided by upyun.
-- :cn: [Bootstrap 中文网开放 CDN 服务](http://www.bootcdn.cn/) - Bootstrap Chinese net open CDN service (only HTTP).
+- :cn: [Bootstrap ��文网开放 CDN 服务](http://www.bootcdn.cn/) - Bootstrap Chinese net open CDN service (only HTTP).
 - :ru: [Yandex CDN](https://tech.yandex.ru/jslibs/) - Yandex Content Delivery Network hosts popular third-party JavaScript and CSS libraries (best for use in Russia).
 
 > To find useful more information for you to make the right choice between paid CDNs, please visit [CDNPlanet](http://www.cdnplanet.com/).
