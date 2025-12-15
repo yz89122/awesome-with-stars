@@ -229,7 +229,7 @@ _Info on topics necessary for designing and developing game engines._
     - 🌎 [Web Game Dev](https://www.webgamedev.com) - Resources on techniques and tools around JavaScript game development.
 - Books
     - 📚 [Art of Game Design](https://www.amazon.com/Art-Game-Design-Book-Lenses/dp/0123694965) - Teaches game design in an accessible manner.
-    - 📚 [Game Programming Patterns](https://gameprogrammingpatterns.com) - Patterns found in games that make code easier to understand.
+    - �� [Game Programming Patterns](https://gameprogrammingpatterns.com) - Patterns found in games that make code easier to understand.
 - Developer Portals
     - 🌎 [Game Developer](https://www.gamedeveloper.com) - Industry blogs, events, jobs, updates and more. Formerly _Gamasutra_.
     - 🌎 [GameDev.net](https://www.gamedev.net/) - Game dev forums, tutorials, blogs, projects, portfolios, and news.
@@ -612,7 +612,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [GeonBit.UI ![GitHub Repo Stars](https://img.shields.io/github/stars/RonenNess/GeonBit.UI) ![GitHub last commit](https://img.shields.io/github/last-commit/RonenNess/GeonBit.UI)](https://github.com/RonenNess/GeonBit.UI) - Gui for _MonoGame_ projects.
     - 🎉 [MGUI ![GitHub Repo Stars](https://img.shields.io/github/stars/Videogamers0/MGUI) ![GitHub last commit](https://img.shields.io/github/last-commit/Videogamers0/MGUI)](https://github.com/Videogamers0/MGUI) - UI framework for the _MonoGame_ game framework.
     - 🎉 [MonoGame.Forms ![GitHub Repo Stars](https://img.shields.io/github/stars/BlizzCrafter/MonoGame.Forms) ![GitHub last commit](https://img.shields.io/github/last-commit/BlizzCrafter/MonoGame.Forms)](https://github.com/BlizzCrafter/MonoGame.Forms) - _MonoGame_ render window for Windows Forms.
-    - 🎉 [Myra ![GitHub Repo Stars](https://img.shields.io/github/stars/rds1983/Myra) ![GitHub last commit](https://img.shields.io/github/last-commit/rds1983/Myra)](https://github.com/rds1983/Myra) - Gui library for _MonoGame_, _FNA_, and _Stride_.
+    - ���� [Myra ![GitHub Repo Stars](https://img.shields.io/github/stars/rds1983/Myra) ![GitHub last commit](https://img.shields.io/github/last-commit/rds1983/Myra)](https://github.com/rds1983/Myra) - Gui library for _MonoGame_, _FNA_, and _Stride_.
     - 🎉 [Squid ![GitHub Repo Stars](https://img.shields.io/github/stars/Roderik11/Squid) ![GitHub last commit](https://img.shields.io/github/last-commit/Roderik11/Squid)](https://github.com/Roderik11/Squid) - C# Realtime GUI System.
     - 🎉 [Uno ![GitHub Repo Stars](https://img.shields.io/github/stars/unoplatform/uno) ![GitHub last commit](https://img.shields.io/github/last-commit/unoplatform/uno)](https://github.com/unoplatform/uno) - Mobile, desktop and WebAssembly gui library. [[Website](https://platform.uno/)]
 - C#: Layout
