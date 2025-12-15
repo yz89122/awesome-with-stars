@@ -764,6 +764,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [orval ![GitHub Repo Stars](https://img.shields.io/github/stars/orval-labs/orval) ![GitHub last commit](https://img.shields.io/github/last-commit/orval-labs/orval)](https://github.com/orval-labs/orval) - Generate, validate, cache and mock in your frontend applications, based on your OpenAPI specification.
 * [angular-sitemap-generator ![GitHub Repo Stars](https://img.shields.io/github/stars/borisonekenobi/angular-sitemap-generator) ![GitHub last commit](https://img.shields.io/github/last-commit/borisonekenobi/angular-sitemap-generator)](https://github.com/borisonekenobi/angular-sitemap-generator) - Generates a `sitemap.xml` file for an Angular project.
 * [cem-angular-generator ![GitHub Repo Stars](https://img.shields.io/github/stars/lit-migrators/cem-angular-generator) ![GitHub last commit](https://img.shields.io/github/last-commit/lit-migrators/cem-angular-generator)](https://github.com/lit-migrators/cem-angular-generator) - Generate Angular wrapper libraries from Custom Elements Manifest output.
+* [AutoFormsBuilderFilesGenerator ![GitHub Repo Stars](https://img.shields.io/github/stars/XHAlawa/AutoFormsBuilderFilesGenerator) ![GitHub last commit](https://img.shields.io/github/last-commit/XHAlawa/AutoFormsBuilderFilesGenerator)](https://github.com/XHAlawa/AutoFormsBuilderFilesGenerator) - Generate Angular forms from OpenAPI/Swagger with `ng-openapi-gen`, featuring strong typing, validation, and UI helpers.
 
 ### Internationalization
 
