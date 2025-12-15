@@ -78,6 +78,7 @@ There is another file [`NonModernCMake.md`](NonModernCMake.md) with other links 
 * [vcpkg ![GitHub Repo Stars](https://img.shields.io/github/stars/Microsoft/vcpkg) ![GitHub last commit](https://img.shields.io/github/last-commit/Microsoft/vcpkg)](https://github.com/Microsoft/vcpkg) - A tool to acquire and build C++ open source libraries. Uses CMake internally as a build script language. [```[MIT]```][MIT]
 * [pmm ![GitHub Repo Stars](https://img.shields.io/github/stars/AnotherFoxGuy/pmm) ![GitHub last commit](https://img.shields.io/github/last-commit/AnotherFoxGuy/pmm)](https://github.com/AnotherFoxGuy/pmm) - PMM is a module for CMake that manages... package managers. [```[MIT]```][MIT]
 * [cpm ![GitHub Repo Stars](https://img.shields.io/github/stars/TheLartians/CPM) ![GitHub last commit](https://img.shields.io/github/last-commit/TheLartians/CPM)](https://github.com/TheLartians/CPM) - A setup-free CMake + git dependency manager. [```[MIT]```][MIT]
+* [FetchDependency ![GitHub Repo Stars](https://img.shields.io/github/stars/jpetrie/fetch-dependency) ![GitHub last commit](https://img.shields.io/github/last-commit/jpetrie/fetch-dependency)](https://github.com/jpetrie/fetch-dependency) - Configuration-time retrieval, configuration and building of dependencies. [```[MIT]```][MIT]
 
 ## Modules
 
