@@ -757,7 +757,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [GetUpdraft](https://www.getupdraft.com) - Distribute mobile apps for testing. The free plan includes one app project, three app versions, 500 MB storage, and 100 app installations per month.
   * [Appho.st](https://appho.st) - Mobile app hosting platform. The free plan includes five apps, 50 monthly downloads, and a maximum file size of 100 MB.
 
-**[⬆️ Back to Top](#table-of-contents)**
+**[⬆�� Back to Top](#table-of-contents)**
 
 ## Management System
 
@@ -877,7 +877,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [OnlineOrNot.com](https://onlineornot.com/) - OnlineOrNot provides uptime monitoring for websites and APIs, monitoring for cron jobs and scheduled tasks. Also provides status pages. The first five checks with a 3-minute interval are free. The free tier sends alerts via Slack, Discord, and Email.
   * [OntarioNet.ca CN Test](https://cntest.ontarionet.ca) — Check if a website is blocked in China by the Great Firewall. It identifies DNS pollution by comparing DNS results and ASN information detected by servers in China versus servers in the United States.
   * [opsgenie.com](https://www.opsgenie.com/) — Powerful alerting and on-call management for operating always-on services. Free up to 5 users.
-  * [paessler.com](https://www.paessler.com/) — Powerful infrastructure and network monitoring solution, including alerting, strong visualization capabilities, and basic reporting. Free up to 100 sensors.
+  * [paessler.com](https://www.paessler.com/) �� Powerful infrastructure and network monitoring solution, including alerting, strong visualization capabilities, and basic reporting. Free up to 100 sensors.
   * [pagecrawl.io](https://pagecrawl.io/) -  Monitor website changes, free for up to 6 monitors with daily checks.
   * [pagerly.io](https://pagerly.io/) -  Manage on-calls on Slack  (integrates with Pagerduty, OpsGenie). Free up to 1 team (one team refers to one on call)
   * [pageradar.io](https://pageradar.io/) — Monitor Core Web Vitals, SEO changes, and uptime for your websites. Free plan includes 5 URLs, daily Core Web Vitals monitoring, 10 HTML/SEO change monitors, 167-country affiliate link monitoring, and email alerts.
