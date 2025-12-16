@@ -16,6 +16,7 @@ Terraform enables you to safely and predictably create, change, and improve prod
 - [Official Resources](#official-resources)
 - [Community](#community)
 - [Books](#books)
+- [Learning and Studying](#learning-and-studying)
 - [Tutorials and Blog Posts](#tutorials-and-blog-posts)
   - [Beginner Guides](#beginner-guides)
   - [Writing Custom Providers](#writing-custom-providers)
@@ -332,6 +333,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 - [Coder](https://coder.com/) - Coder provisions software development environments on your infrastructure via Terraform.
 - [coretech/terrafile ![GitHub Repo Stars](https://img.shields.io/github/stars/coretech/terrafile) ![GitHub last commit](https://img.shields.io/github/last-commit/coretech/terrafile)](https://github.com/coretech/terrafile) - Systematically manage external modules from Github for use in Terraform (written in Go). :skull:
 - [driftctl ![GitHub Repo Stars](https://img.shields.io/github/stars/snyk/driftctl) ![GitHub last commit](https://img.shields.io/github/last-commit/snyk/driftctl)](https://github.com/snyk/driftctl) - Detect, track, and alert on infrastructure drift :skull:
+- [drifthound ![GitHub Repo Stars](https://img.shields.io/github/stars/treezio/drifthound) ![GitHub last commit](https://img.shields.io/github/last-commit/treezio/drifthound)](https://github.com/treezio/drifthound) - Continuous infrastructure drift detection with historical tracking and notifications.
 - [dxw/terrafile ![GitHub Repo Stars](https://img.shields.io/github/stars/dxw/terrafile) ![GitHub last commit](https://img.shields.io/github/last-commit/dxw/terrafile)](https://github.com/dxw/terrafile) - Systematically manage external modules from Github for use in Terraform (written in Ruby).
 - [flora ![GitHub Repo Stars](https://img.shields.io/github/stars/ketchoop/flora) ![GitHub last commit](https://img.shields.io/github/last-commit/ketchoop/flora)](https://github.com/ketchoop/flora) - Terraform version manager.
 - [fogg ![GitHub Repo Stars](https://img.shields.io/github/stars/chanzuckerberg/fogg) ![GitHub last commit](https://img.shields.io/github/last-commit/chanzuckerberg/fogg)](https://github.com/chanzuckerberg/fogg) - A tool for eliminating toil in managing terraform repositories.
