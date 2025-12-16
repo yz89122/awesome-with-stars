@@ -589,7 +589,7 @@ All resources are freely available except those with a 💲 icon.
 * 📝 [Stochastic Processes](http://statweb.stanford.edu/~adembo/math-136/nnotes.pdf) - Amir Dembo (Stanford University)
 * 📝 [Lecture Notes on Stochastic Processes](http://www.mi.fu-berlin.de/wiki/pub/CompMolBio/MarkovKetten15/stochastic_processes_2011.pdf) - Frank Noé, Bettina Keller and Jan-Hendrik Prinz (Freie Universität Berlin)
 * 📝 [Introduction to Stochastic Processes - Lecture Notes](https://www.ma.utexas.edu/users/gordanz/notes/introduction_to_stochastic_processes.pdf) - Gordan Žitković (University of Texas)
-* 📝 [Applied Stochastic Processes in science and engineering](https://www.math.uwaterloo.ca/~mscott/Little_Notes.pdf) - Matt Scott (University of Waterloo)
+* �� [Applied Stochastic Processes in science and engineering](https://www.math.uwaterloo.ca/~mscott/Little_Notes.pdf) - Matt Scott (University of Waterloo)
 * 📝 [An Introduction to Stochastic Processes in Continuous Time](http://www.math.leidenuniv.nl/~spieksma/colleges/sp-master/sp-hvz1.pdf) - Flora Spieksma (Leiden University)
 * 📝 [Markov Chains and Mixing Times](http://pages.uoregon.edu/dlevin/MARKOV/markovmixing.pdf) - David A. Levin, Yuval Peres, Elizabeth L. Wilmer
 * 📝 [Convergence of Stochastic Processes](http://www.stat.yale.edu/~pollard/Books/1984book/pollard1984.pdf) - David Pollard
