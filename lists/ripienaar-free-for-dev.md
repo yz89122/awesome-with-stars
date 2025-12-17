@@ -171,7 +171,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
     * [Queues](https://developers.cloudflare.com/queues/) - 1 million operations per month
     * [TURN](https://developers.cloudflare.com/calls/turn/) – 1TB of free (outgoing) traffic per month.
 
-**[⬆�� Back to Top](#table-of-contents)**
+**[⬆️ Back to Top](#table-of-contents)**
 
 ## Cloud management solutions
 
@@ -1028,7 +1028,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [Tuta](https://tuta.com/) - Free secure email account service provider with built-in end-to-end encryption, no ads, no tracking. Free 1GB storage, one calendar (Tuta also have an [paid plan](https://tuta.com/pricing).). Tuta is also partially [open source ![GitHub Repo Stars](https://img.shields.io/github/stars/tutao/tutanota) ![GitHub last commit](https://img.shields.io/github/last-commit/tutao/tutanota)](https://github.com/tutao/tutanota), so you can self-host.
   * [Verifalia](https://verifalia.com/email-verification-api) — Real-time email verification API with mailbox confirmation and disposable email address detector; 25 free email verifications/day.
   * [verimail.io](https://verimail.io/) — Bulk and API email verification service. 100 free verifications/month
-  * [Zoho](https://www.zoho.com) �� Started as an e-mail provider but now provides a suite of services, some of which have free plans. List of services having free plans :
+  * [Zoho](https://www.zoho.com) — Started as an e-mail provider but now provides a suite of services, some of which have free plans. List of services having free plans :
      - [Email](https://zoho.com/mail) Free for 5 users. 5GB/user & 25 MB attachment limit, one domain.
      - [Zoho Assist](https://www.zoho.com/assist) — Zoho Assist's forever free plan includes one concurrent remote support license and Access to 5 unattended computer licenses for unlimited duration available for both professional and personnel use.
      - [Sprints](https://zoho.com/sprints) Free for 5 users,5 Projects & 500MB storage.
