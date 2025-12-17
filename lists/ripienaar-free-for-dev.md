@@ -332,7 +332,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [ProxySentry](https://proxysentry.io/) - IP API that detects residential proxies and VPNs. ProxySentry.io offers a free tier with 10k requests per month on rapidapi.com.
   * [Public-Apis Github Repo ![GitHub Repo Stars](https://img.shields.io/github/stars/public-apis/public-apis) ![GitHub last commit](https://img.shields.io/github/last-commit/public-apis/public-apis)](https://github.com/public-apis/public-apis) — A list of free public APIs.
   * [Reducto](https://reducto.ai) - Turn any unstructured documents (PDF, XLSX, JPG, PPTX, etc.) into structured JSON data. Parse, extract data, and edit PDF forms. Free tier with 15k free credits and pay-as-you-go.
-  * [Rapidapi](https://rapidapi.com/) - World’s Largest API Hub Millions of developers find and connect to thousands of APIs, API Development using fun challenges (with solutions!) and interactive examples.
+  * [Rapidapi](https://rapidapi.com/) - World��s Largest API Hub Millions of developers find and connect to thousands of APIs, API Development using fun challenges (with solutions!) and interactive examples.
   * [Rendi](https://rendi.dev) - FFmpeg API - A REST API for FFmpeg, run FFmpeg online without handling the infrastructure. Free tier with monthly processing quota and 4 vCPUs available.
   * [RequestBin.com](https://requestbin.com) — Create a free endpoint to which you can send HTTP requests. Any HTTP requests sent to that endpoint will be recorded with the associated payload and headers so you can observe recommendations from webhooks and other services.
   * [reqres.in](https://reqres.in) - A Free hosted REST-API ready to respond to your AJAX requests.
