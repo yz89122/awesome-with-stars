@@ -110,7 +110,7 @@ This project lists books and other resources grouped by genres:
 + [Portuguese (Brazil)](books/free-programming-books-pt_BR.md)
 + [Portuguese (Portugal)](books/free-programming-books-pt_PT.md)
 + [Romanian (Romania) / limba română / român](books/free-programming-books-ro.md)
-+ [Russian / Русский язык](books/free-programming-books-ru.md)
++ [Russian / Русс��ий язык](books/free-programming-books-ru.md)
 + [Serbian / српски језик / srpski jezik](books/free-programming-books-sr.md)
 + [Slovak / slovenčina](books/free-programming-books-sk.md)
 + [Slovenian / Slovenščina](books/free-programming-books-sl.md)
@@ -210,7 +210,7 @@ Free Podcasts and Screencasts:
 + [Spanish / español / castellano](casts/free-podcasts-screencasts-es.md)
 + [Swedish / Svenska](casts/free-podcasts-screencasts-sv.md)
 + [Turkish / Türkçe](casts/free-podcasts-screencasts-tr.md)
-+ [Ukrainian / Українсь��а](casts/free-podcasts-screencasts-uk.md)
++ [Ukrainian / Українська](casts/free-podcasts-screencasts-uk.md)
 
 
 ### Programming Playgrounds
