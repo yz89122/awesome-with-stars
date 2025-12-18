@@ -292,6 +292,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [fjira ![GitHub Repo Stars](https://img.shields.io/github/stars/mk-5/fjira) ![GitHub last commit](https://img.shields.io/github/last-commit/mk-5/fjira)](https://github.com/mk-5/fjira) - Fuzzy finder and TUI application for Jira.
 - [OverTime ![GitHub Repo Stars](https://img.shields.io/github/stars/diit/overtime-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/diit/overtime-cli)](https://github.com/diit/overtime-cli) - Time-overlap tables for remote teams.
 - [CookCLI ![GitHub Repo Stars](https://img.shields.io/github/stars/cooklang/CookCLI) ![GitHub last commit](https://img.shields.io/github/last-commit/cooklang/CookCLI)](https://github.com/cooklang/CookCLI) - Full-featured recipe manager.
+- [hns ![GitHub Repo Stars](https://img.shields.io/github/stars/primaprashant/hns) ![GitHub last commit](https://img.shields.io/github/last-commit/primaprashant/hns)](https://github.com/primaprashant/hns) - Speech-to-text tool to transcribe voice from microphone.
 
 ### Time Tracking
 
@@ -446,6 +447,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 
 - [papis ![GitHub Repo Stars](https://img.shields.io/github/stars/papis/papis) ![GitHub last commit](https://img.shields.io/github/last-commit/papis/papis)](https://github.com/papis/papis) - Extensible document and bibliography manager.
 - [pubs ![GitHub Repo Stars](https://img.shields.io/github/stars/pubs/pubs) ![GitHub last commit](https://img.shields.io/github/last-commit/pubs/pubs)](https://github.com/pubs/pubs) - Scientific bibliography manager.
+- [OneCite ![GitHub Repo Stars](https://img.shields.io/github/stars/HzaCode/OneCite) ![GitHub last commit](https://img.shields.io/github/last-commit/HzaCode/OneCite)](https://github.com/HzaCode/OneCite) - Universal toolkit to generate citations.
 
 ### Weather
 
@@ -580,6 +582,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [shbin ![GitHub Repo Stars](https://img.shields.io/github/stars/Shiphero/shbin) ![GitHub last commit](https://img.shields.io/github/last-commit/Shiphero/shbin)](https://github.com/Shiphero/shbin/) - Turn a Github repo into a pastebin.
 - [sharing ![GitHub Repo Stars](https://img.shields.io/github/stars/parvardegr/sharing) ![GitHub last commit](https://img.shields.io/github/last-commit/parvardegr/sharing)](https://github.com/parvardegr/sharing) - Send and receive files on your mobile device.
 - [ncp ![GitHub Repo Stars](https://img.shields.io/github/stars/kha7iq/ncp) ![GitHub last commit](https://img.shields.io/github/last-commit/kha7iq/ncp)](https://github.com/kha7iq/ncp) - Transfer files and folders, to and from NFS servers.
+- [share ![GitHub Repo Stars](https://img.shields.io/github/stars/beavailable/share) ![GitHub last commit](https://img.shields.io/github/last-commit/beavailable/share)](https://github.com/beavailable/share) - Share and receive files effortlessly over HTTP.
 
 ### Directory Listing
 
