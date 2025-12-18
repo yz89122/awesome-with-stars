@@ -448,7 +448,9 @@ To third parties
 
 * [dyna ![GitHub Repo Stars](https://img.shields.io/github/stars/Rudolph-Miller/dyna) ![GitHub last commit](https://img.shields.io/github/last-commit/Rudolph-Miller/dyna)](https://github.com/Rudolph-Miller/dyna) - an AWS DynamoDB ORM. [MIT][200].
 * [cl-influxdb ![GitHub Repo Stars](https://img.shields.io/github/stars/mmaul/cl-influxdb) ![GitHub last commit](https://img.shields.io/github/last-commit/mmaul/cl-influxdb)](https://github.com/mmaul/cl-influxdb/) - an interface to the Time Series Database InfluxDB. [MIT][200].
-* [pzmq ![GitHub Repo Stars](https://img.shields.io/github/stars/orivej/pzmq) ![GitHub last commit](https://img.shields.io/github/last-commit/orivej/pzmq)](https://github.com/orivej/pzmq) -  ZeroMQ 4.0+ Common Lisp bindings. Unlicense.
+* [cl-remizmq](https://fossil.cyberia9.org/cl-remizmq/index) - ZeroMQ sockets, messages, timers, atomics, and proxies.
+  * low-level and high-level APIs. Tested with libzmq 5.2.5, any v4.x and v5.x should work, v3.x may as well.
+  * maybe also: [pzmq ![GitHub Repo Stars](https://img.shields.io/github/stars/orivej/pzmq) ![GitHub last commit](https://img.shields.io/github/last-commit/orivej/pzmq)](https://github.com/orivej/pzmq) -  ZeroMQ 4.0+ Common Lisp bindings. Unlicense.
 
 Tools
 -----
