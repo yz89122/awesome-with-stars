@@ -1810,6 +1810,10 @@ Readline, ncurses and other graphical TUI helpers
 * [cl-progress-bar ![GitHub Repo Stars](https://img.shields.io/github/stars/sirherrbatka/cl-progress-bar) ![GitHub last commit](https://img.shields.io/github/last-commit/sirherrbatka/cl-progress-bar)](https://github.com/sirherrbatka/cl-progress-bar/) - progress bars, just like in Quicklisp ! [MIT][200].
   * and [progressons ![GitHub Repo Stars](https://img.shields.io/github/stars/vindarel/progressons) ![GitHub last commit](https://img.shields.io/github/last-commit/vindarel/progressons)](https://github.com/vindarel/progressons), a progress bar on one line, for real an dumb terminals. MIT.
 * [text-draw](https://codeberg.org/shinmera/text-draw) - Toolkit to draw graphics using pure Unicode text only: boxes, backgrounds, checkboxes and radio buttons, lines, arrows, tables, trees… zlib.
+* [old-norse ![GitHub Repo Stars](https://img.shields.io/github/stars/nallen05/old-norse) ![GitHub last commit](https://img.shields.io/github/last-commit/nallen05/old-norse)](https://github.com/nallen05/old-norse) - a low-latency, grid-based terminal graphics engine with an integrated event loop. MIT.
+  * mouse support, 60fps rendering, deploy anywhere via SSH or TTYD.
+* [uncursed ![GitHub Repo Stars](https://img.shields.io/github/stars/Plisp/uncursed) ![GitHub last commit](https://img.shields.io/github/last-commit/Plisp/uncursed)](https://github.com/Plisp/uncursed) - cross-platform library for writing terminal interfaces with minimal dependencies. BSD_3Clause.
+  * a higher-level buffered drawing abstraction and low-level utilities are provided.
 
 Shells, shells interfaces
 -------------------------
