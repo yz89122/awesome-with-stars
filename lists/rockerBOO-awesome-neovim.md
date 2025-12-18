@@ -1238,6 +1238,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 - [chrisgrieser/nvim-justice ![GitHub Repo Stars](https://img.shields.io/github/stars/chrisgrieser/nvim-justice) ![GitHub last commit](https://img.shields.io/github/last-commit/chrisgrieser/nvim-justice)](https://github.com/chrisgrieser/nvim-justice) - Lightweight integration of the `just` task runner.
 - [pewpewnor/pilot.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/pewpewnor/pilot.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/pewpewnor/pilot.nvim)](https://github.com/pewpewnor/pilot.nvim) - Run your projects and files quickly with keybindings, and configure how to run them on the fly.
 - [ok97465/ipybridge.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/ok97465/ipybridge.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/ok97465/ipybridge.nvim)](https://github.com/ok97465/ipybridge.nvim) - Run Python code, execute Jupyter cells, debug, and explore variables.
+- [wsdjeg/code-runner.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/wsdjeg/code-runner.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/wsdjeg/code-runner.nvim)](https://github.com/wsdjeg/code-runner.nvim) - Async code runner with range support.
 
 <!--lint disable double-link -->
 

@@ -180,16 +180,17 @@
   </picture>
 </div>
 
-<a href="https://github.com/JamieM0/claude-output-styles"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/badge-claude-code-output-styles-debugging.svg" alt="Claude Code Output Styles - Debugging"></a>  
-_A small set of well-written output styles, specifically focused on debugging - root cause analysis, systematic, methodical debugging, encouraging a more careful approach to bug-squashing from Claude Code._  
-![GitHub Stats for claude-output-styles](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=claude-output-styles&username=JamieM0&all_stats=true&stats_only=true&hide_border=true&bg_color=00000000&icon_color=FF0000&text_color=FF0000)
+<a href="https://github.com/dreamiurg/claude-mountaineering-skills"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/badge-claude-mountaineering-skills.svg" alt="Claude Mountaineering Skills"></a>  
+_Claude Code skill that automates mountain route research for North American peaks. Aggregates data from 10+ mountaineering sources like Mountaineers.org, PeakBagger.com and SummitPost.com to generate detailed route beta reports with weather, avalanche conditions, and trip reports._  
+![GitHub Stats for claude-mountaineering-skills](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=claude-mountaineering-skills&username=dreamiurg&all_stats=true&stats_only=true&hide_border=true&bg_color=00000000&icon_color=FF0000&text_color=FF0000)
 
-<a href="https://github.com/Haleclipse/CCometixLine"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/badge-ccometixline-claude-code-statusline.svg" alt="CCometixLine - Claude Code Statusline"></a>  
-_A high-performance Claude Code statusline tool written in Rust with Git integration, usage tracking, interactive TUI configuration, and Claude Code enhancement utilities._  
-![GitHub Stats for CCometixLine](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=CCometixLine&username=Haleclipse&all_stats=true&stats_only=true&hide_border=true&bg_color=00000000&icon_color=FF0000&text_color=FF0000)
+<a href="https://github.com/Piebald-AI/claude-code-system-prompts"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/badge-claude-code-system-prompts.svg" alt="Claude Code System Prompts"></a>  
+_All parts of Claude Code's system prompt, including builtin tool descriptions, sub agent prompts (Plan/Explore/Task), utility prompts (CLAUDE.md, compact, Bash cmd, security review, agent creation, etc.). Updated for each Claude Code version._  
+![GitHub Stats for claude-code-system-prompts](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=claude-code-system-prompts&username=Piebald-AI&all_stats=true&stats_only=true&hide_border=true&bg_color=00000000&icon_color=FF0000&text_color=FF0000)
 
-<a href="https://nikiforovall.blog/claude-code-rules/"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/badge-claude-code-handbook.svg" alt="Claude Code Handbook"></a>  
-_Collection of best practices, tips, and techniques for Claude Code development workflows, enhanced with distributable plugins_
+<a href="https://github.com/fcakyon/claude-codex-settings"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/badge-claude-codex-settings.svg" alt="Claude Codex Settings"></a>  
+_A well-organized, well-written set of plugins covering core developer activities, such as working with common cloud platforms like GitHub, Azure, MongoDB, and popular services such as Tavily, Playwright, and more. Clear, not overly-opinionated, and compatible with a few other providers._  
+![GitHub Stats for claude-codex-settings](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=claude-codex-settings&username=fcakyon&all_stats=true&stats_only=true&hide_border=true&bg_color=00000000&icon_color=FF0000&text_color=FF0000)
 
 
 <br>
@@ -518,6 +519,20 @@ _Collection of best practices, tips, and techniques for Claude Code development 
 <details open id="skills-general">
 <summary><span><picture><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/subheader_skills_general.svg" alt="General" align="absmiddle"></picture></span></summary>
 
+<a href="https://github.com/fcakyon/claude-codex-settings"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/badge-claude-codex-settings.svg" alt="Claude Codex Settings"></a>  
+_A well-organized, well-written set of plugins covering core developer activities, such as working with common cloud platforms like GitHub, Azure, MongoDB, and popular services such as Tavily, Playwright, and more. Clear, not overly-opinionated, and compatible with a few other providers._  
+![GitHub Stats for claude-codex-settings](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=claude-codex-settings&username=fcakyon&all_stats=true&stats_only=true&hide_border=true&bg_color=00000000&icon_color=FF0000&text_color=FF0000)
+
+<div align="center"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/entry-separator-light-animated.svg" alt=""></div>
+
+
+<a href="https://github.com/dreamiurg/claude-mountaineering-skills"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/badge-claude-mountaineering-skills.svg" alt="Claude Mountaineering Skills"></a>  
+_Claude Code skill that automates mountain route research for North American peaks. Aggregates data from 10+ mountaineering sources like Mountaineers.org, PeakBagger.com and SummitPost.com to generate detailed route beta reports with weather, avalanche conditions, and trip reports._  
+![GitHub Stats for claude-mountaineering-skills](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=claude-mountaineering-skills&username=dreamiurg&all_stats=true&stats_only=true&hide_border=true&bg_color=00000000&icon_color=FF0000&text_color=FF0000)
+
+<div align="center"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/entry-separator-light-animated.svg" alt=""></div>
+
+
 <a href="https://github.com/skills-directory/skill-codex"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/badge-codex-skill.svg" alt="Codex Skill"></a>  
 _Enables users to prompt codex from claude code. Unlike the raw codex mcp server, this skill infers parameters such as model, reasoning effort, sandboxing from your prompt or asks you to specify them. It also simplifies continuing prior codex sessions so that codex can continue with the prior context._  
 ![GitHub Stats for skill-codex](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=skill-codex&username=skills-directory&all_stats=true&stats_only=true&hide_border=true&bg_color=00000000&icon_color=FF0000&text_color=FF0000)
@@ -626,6 +641,13 @@ _A remarkably innovative approach to working with Skills, the centerpiece of whi
 <a href="https://github.com/automazeio/ccpm"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/badge-claude-code-pm.svg" alt="Claude Code PM"></a>  
 _Really comprehensive and feature-packed project-management workflow for Claude Code. Numerous specialized agents, slash-commands, and strong documentation._  
 ![GitHub Stats for ccpm](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=ccpm&username=automazeio&all_stats=true&stats_only=true&hide_border=true&bg_color=00000000&icon_color=FF0000&text_color=FF0000)
+
+<div align="center"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/entry-separator-light-animated.svg" alt=""></div>
+
+
+<a href="https://github.com/Piebald-AI/claude-code-system-prompts"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/badge-claude-code-system-prompts.svg" alt="Claude Code System Prompts"></a>  
+_All parts of Claude Code's system prompt, including builtin tool descriptions, sub agent prompts (Plan/Explore/Task), utility prompts (CLAUDE.md, compact, Bash cmd, security review, agent creation, etc.). Updated for each Claude Code version._  
+![GitHub Stats for claude-code-system-prompts](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=claude-code-system-prompts&username=Piebald-AI&all_stats=true&stats_only=true&hide_border=true&bg_color=00000000&icon_color=FF0000&text_color=FF0000)
 
 <div align="center"><img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/entry-separator-light-animated.svg" alt=""></div>
 
