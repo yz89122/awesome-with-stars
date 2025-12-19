@@ -299,7 +299,7 @@ A foundation for scalable cross-platform desktop apps all the way from developme
 
 ##### Resources
 
-- [Vue.js & Electron: The easy way. ��� Mikeal](https://medium.com/@mikeal/vue-js-electron-the-easy-way-adc3ca09234a)
+- [Vue.js & Electron: The easy way. – Mikeal](https://medium.com/@mikeal/vue-js-electron-the-easy-way-adc3ca09234a)
 - [How to use Vue.js with Electron and Vuex](https://alligator.io/vuejs/vue-electron/)
 
 ### Code Coverage & CI [↗](https://awesomestacks.dev/code-coverage-and-ci)
@@ -339,7 +339,7 @@ FReMP stack is a highly scalable full stack framework, which can be used to buil
 - [Flask](https://flask.palletsprojects.com/) - [🛠️](https://stackshare.io/flask) - [🐙 ![GitHub Repo Stars](https://img.shields.io/github/stars/pallets/flask) ![GitHub last commit](https://img.shields.io/github/last-commit/pallets/flask)](https://github.com/pallets/flask) - The Python micro framework for building web applications.
 - [ReactJS](https://reactjs.org/) - [🛠️](https://stackshare.io/react) - [🐙 ![GitHub Repo Stars](https://img.shields.io/github/stars/facebook/react) ![GitHub last commit](https://img.shields.io/github/last-commit/facebook/react)](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
 - [MongoDB](https://www.mongodb.com/) - [🛠️](https://stackshare.io/mongodb) - [🐙 ![GitHub Repo Stars](https://img.shields.io/github/stars/mongodb/mongo) ![GitHub last commit](https://img.shields.io/github/last-commit/mongodb/mongo)](https://github.com/mongodb/mongo) - A document and JSON-oriented database.
-- [Python](https://www.python.org/) - [🛠��](https://stackshare.io/python) - [🐙 ![GitHub Repo Stars](https://img.shields.io/github/stars/python/cpython) ![GitHub last commit](https://img.shields.io/github/last-commit/python/cpython)](https://github.com/python/cpython) - A programming language that lets you work quickly.
+- [Python](https://www.python.org/) - [🛠️](https://stackshare.io/python) - [🐙 ![GitHub Repo Stars](https://img.shields.io/github/stars/python/cpython) ![GitHub last commit](https://img.shields.io/github/last-commit/python/cpython)](https://github.com/python/cpython) - A programming language that lets you work quickly.
 
 ##### Resources
 
@@ -466,7 +466,7 @@ Hasura is an open source GraphQL engine that deploys instant, real-time GraphQL 
 - [Hasura](https://hasura.io/) - [🛠️](https://stackshare.io/hasura) - [🐙 ![GitHub Repo Stars](https://img.shields.io/github/stars/hasura/graphql-engine) ![GitHub last commit](https://img.shields.io/github/last-commit/hasura/graphql-engine)](https://github.com/hasura/graphql-engine) - Blazing fast, instant real-time GraphQL APIs on Postgres with fine grained access control.
 - [React Native](https://facebook.github.io/react-native/) - [🛠️](https://stackshare.io/react-native) - [🐙 ![GitHub Repo Stars](https://img.shields.io/github/stars/facebook/react-native) ![GitHub last commit](https://img.shields.io/github/last-commit/facebook/react-native)](https://github.com/facebook/react-native) - Build native mobile apps using JavaScript and React.
 - [Expo](https://expo.io/) - [🛠️](https://stackshare.io/expo) - [🐙 ![GitHub Repo Stars](https://img.shields.io/github/stars/expo/expo) ![GitHub last commit](https://img.shields.io/github/last-commit/expo/expo)](https://github.com/expo/expo) - Build, deploy, and quickly iterate on native iOS and Android apps from the same JavaScript codebase.
-- [Digital Ocean](https://www.digitalocean.com/) - [🛠️](https://stackshare.io/digitalocean) - [🐙](https://github.com/digitalocean/) - Deploy an SSD cloud server in less than 55 seconds with a dedicated IP and root access.
+- [Digital Ocean](https://www.digitalocean.com/) - [��️](https://stackshare.io/digitalocean) - [🐙](https://github.com/digitalocean/) - Deploy an SSD cloud server in less than 55 seconds with a dedicated IP and root access.
 - [Auth0](https://auth0.com/) - [🛠️](https://stackshare.io/auth0) - A universal authentication & authorization platform for web, mobile and legacy applications.
 
 ##### Resources
