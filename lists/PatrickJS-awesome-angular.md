@@ -1353,6 +1353,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-vertical-timeline ![GitHub Repo Stars](https://img.shields.io/github/stars/callyafiune/ngx-vertical-timeline) ![GitHub last commit](https://img.shields.io/github/last-commit/callyafiune/ngx-vertical-timeline)](https://github.com/callyafiune/ngx-vertical-timeline) - An Angular component for creating a responsive vertical timeline.
 * [ngx-timeago ![GitHub Repo Stars](https://img.shields.io/github/stars/ihym/ngx-timeago) ![GitHub last commit](https://img.shields.io/github/last-commit/ihym/ngx-timeago)](https://github.com/ihym/ngx-timeago) - Dynamic timestamp rendering in Angular.
 * [ngx-chronica ![GitHub Repo Stars](https://img.shields.io/github/stars/klajdm/ngx-chronica) ![GitHub last commit](https://img.shields.io/github/last-commit/klajdm/ngx-chronica)](https://github.com/klajdm/ngx-chronica) - A comprehensive Angular library providing six specialized date and time picker components that fill critical gaps in the Angular ecosystem.
+* [ngx-mat-multi-date-picker ![GitHub Repo Stars](https://img.shields.io/github/stars/ali79heidari/ngx-mat-multi-date-picker) ![GitHub last commit](https://img.shields.io/github/last-commit/ali79heidari/ngx-mat-multi-date-picker)](https://github.com/ali79heidari/ngx-mat-multi-date-picker) - A comprehensive, standalone Angular library providing high-quality Gregorian, Jalali (Persian), and Hijri (Islamic) date pickers.
 
 ### Directives
 
@@ -1773,6 +1774,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-user-camera](https://codeberg.org/tomaszatoo/ngx-user-camera) - Modern Angular 20+ camera component with front/back switching, optional canvas rendering, and zoneless reactive signals.
 * [rm-ng-video-player ![GitHub Repo Stars](https://img.shields.io/github/stars/malikrajat/rm-ng-video-player-main) ![GitHub last commit](https://img.shields.io/github/last-commit/malikrajat/rm-ng-video-player-main)](https://github.com/malikrajat/rm-ng-video-player-main) - An advanced, feature-rich Angular video player with YouTube-style controls and Apple-inspired glassmorphism design.
 * [ngx-rumbletalk ![GitHub Repo Stars](https://img.shields.io/github/stars/RumbleTalk/ngx-rumbletalk) ![GitHub last commit](https://img.shields.io/github/last-commit/RumbleTalk/ngx-rumbletalk)](https://github.com/RumbleTalk/ngx-rumbletalk) - An Angular library for [Rumbletalk](https://rumbletalk.com/) group chats.
+* [ng-three-model-cropper ![GitHub Repo Stars](https://img.shields.io/github/stars/AlexRynas/ng-three-model-cropper) ![GitHub last commit](https://img.shields.io/github/last-commit/AlexRynas/ng-three-model-cropper)](https://github.com/AlexRynas/ng-three-model-cropper) - An Angular `Three.js` library for configurable 3D model cropping with GLB/FBX support and triangle-pruning export.
 
 ### Mixed Utilities
 
@@ -2042,6 +2044,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [particle-ng ![GitHub Repo Stars](https://img.shields.io/github/stars/entake-org/particle-ng) ![GitHub last commit](https://img.shields.io/github/last-commit/entake-org/particle-ng)](https://github.com/entake-org/particle-ng) - A lightweight, themeable component library offering flexible, high-control alternatives to Angular Material and PrimeNG.
 * [ngx-kit-ui ![GitHub Repo Stars](https://img.shields.io/github/stars/OpenKit-Labs/ngx-kit-ui) ![GitHub last commit](https://img.shields.io/github/last-commit/OpenKit-Labs/ngx-kit-ui)](https://github.com/OpenKit-Labs/ngx-kit-ui) - Modern Angular UI library for mobile and web.
 * [TecnualNG ![GitHub Repo Stars](https://img.shields.io/github/stars/tecnual/tecnualng) ![GitHub last commit](https://img.shields.io/github/last-commit/tecnual/tecnualng)](https://github.com/tecnual/tecnualng) - A modern Angular UI library offering reusable, customizable, and accessible components for building professional web applications.
+* [takeoff-ui ![GitHub Repo Stars](https://img.shields.io/github/stars/turkishtechnology/takeoff-ui) ![GitHub last commit](https://img.shields.io/github/last-commit/turkishtechnology/takeoff-ui)](https://github.com/turkishtechnology/takeoff-ui) - A comprehensive design system providing framework-agnostic web components developed with Stencil.js.
 
 ### UI Libraries built on Bootstrap
 
