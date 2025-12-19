@@ -106,6 +106,7 @@
 - [clarity.tools](https://clarity.tools) - In-browser Clarity REPL.
 - [ClarityGPT Prompt](https://claritygpt.com/) - Writing smart contracts with a chat bot.
 - [Hiro Platform](https://platform.hiro.so/) - In-browser IDE.
+- [secondlayer ![GitHub Repo Stars](https://img.shields.io/github/stars/ryanwaits/secondlayer) ![GitHub last commit](https://img.shields.io/github/last-commit/ryanwaits/secondlayer)](https://github.com/ryanwaits/secondlayer) - TypeScript code generation for Clarity contracts with React hooks and testing utilities. Inspired by Clarigen.
 
 ### Example Contracts
 
