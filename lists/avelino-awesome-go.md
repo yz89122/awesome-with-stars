@@ -363,7 +363,7 @@ _Libraries and tools help with build automation._
 
 _Libraries for building Console Applications and Console User Interfaces._
 
-- [asciigraph ![GitHub Repo Stars](https://img.shields.io/github/stars/guptarohit/asciigraph) ![GitHub last commit](https://img.shields.io/github/last-commit/guptarohit/asciigraph)](https://github.com/guptarohit/asciigraph) - Go package to make lightweight ASCII line graph ╭┈��� in command line apps with no other dependencies.
+- [asciigraph ![GitHub Repo Stars](https://img.shields.io/github/stars/guptarohit/asciigraph) ![GitHub last commit](https://img.shields.io/github/last-commit/guptarohit/asciigraph)](https://github.com/guptarohit/asciigraph) - Go package to make lightweight ASCII line graph ╭┈╯ in command line apps with no other dependencies.
 - [aurora ![GitHub Repo Stars](https://img.shields.io/github/stars/logrusorgru/aurora) ![GitHub last commit](https://img.shields.io/github/last-commit/logrusorgru/aurora)](https://github.com/logrusorgru/aurora) - ANSI terminal colors that support fmt.Printf/Sprintf.
 - [box-cli-maker ![GitHub Repo Stars](https://img.shields.io/github/stars/Delta456/box-cli-maker) ![GitHub last commit](https://img.shields.io/github/last-commit/Delta456/box-cli-maker)](https://github.com/Delta456/box-cli-maker) - Make Highly Customized Boxes for your CLI.
 - [bubble-table ![GitHub Repo Stars](https://img.shields.io/github/stars/Evertras/bubble-table) ![GitHub last commit](https://img.shields.io/github/last-commit/Evertras/bubble-table)](https://github.com/Evertras/bubble-table) - An interactive table component for bubbletea.
