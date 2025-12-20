@@ -451,7 +451,7 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 
 | Course Name | Course Provider | Level | Hour(s) | Reward |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
-| <a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/" target="_blank" rel="noopener noreferrer">JavaScript Algorithms and Data Structures Certification</a> | FreeCodeCamp |Professional|300 | 🏆|
+| <a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/" target="_blank" rel="noopener noreferrer">JavaScript Algorithms and Data Structures Certification</a> | FreeCodeCamp |Professional|300 | ����|
 | <a href="https://www.hackerrank.com/skills-verification/javascript_basic" target="_blank" rel="noopener noreferrer">JavaScript</a> | HackerRank |Beginner| 1.5 | 🏆|
 
 <a href="https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents" target="_blank" rel="noopener noreferrer">⬆️</a>
@@ -499,7 +499,7 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 | <a href="https://www.netacad.com/courses/packet-tracer" target="_blank" rel="noopener noreferrer">Intro to Packet Tracer</a> | Cisco Networking Academy | Beginner | 10  | <a href="https://www.youracclaim.com/org/cisco/badge/introduction-to-packet-tracer" target="_blank" rel="noopener noreferrer">🏅</a> |
 | <a href="https://skills.yourlearning.ibm.com/activity/ILB-DNRPWDGQGMMY7GGD" target="_blank" rel="noopener noreferrer">Cybersecurity Fundamentals</a> | IBM / SkillsBuild | Beginner | 10 | <a href="https://www.youracclaim.com/org/ibm/badge/cybersecurity-fundamentals" target="_blank" rel="noopener noreferrer">🏅</a> |
 | <a href="https://www.freecodecamp.org/learn/information-security/" target="_blank" rel="noopener noreferrer">Information Security Certification</a> | FreeCodeCamp |Professional|300 | 🏆|
-| <a href="https://tryhackme.com/path/outline/jrpenetrationtester" target="_blank" rel="noopener noreferrer">JR Penetration Tester</a> | TryHackMe |Intermediate| 64 | ���|
+| <a href="https://tryhackme.com/path/outline/jrpenetrationtester" target="_blank" rel="noopener noreferrer">JR Penetration Tester</a> | TryHackMe |Intermediate| 64 | 🏆|
 | <a href="https://tryhackme.com/path/outline/blueteam" target="_blank" rel="noopener noreferrer">Cyber Defense</a> | TryHackMe | Intermediate | 48 | 🏆 |
 | <a href="https://tryhackme.com/path/outline/redteaming" target="_blank" rel="noopener noreferrer">Red Teaming</a> | TryHackMe | Intermediate | 48 | 🏆 |
 | <a href="https://tryhackme.com/path/outline/pentesting" target="_blank" rel="noopener noreferrer">Offensive Testing</a> | TryHackMe | Intermediate | 47 | 🏆 |
