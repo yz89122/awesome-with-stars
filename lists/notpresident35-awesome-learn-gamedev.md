@@ -276,7 +276,7 @@ More huge lists of resources, with many, many more incredible things! Some of th
 [How do I become a graphics programmer?](https://gpuopen.com/learn/how_do_you_become_a_graphics_programmer/) 💠🟪 - An overview of graphics programming and a collection of resources tailored to beginners learning graphics programming. 
 
 
-[WebGLFundamentals](https://webglfundamentals.org) ���🟪 - An introduction to WebGL, a web-based rasterization engine. WebGL is a good tool to use when learning the fundamentals before diving into more complex frameworks such as Vulkan or DirectX 12.
+[WebGLFundamentals](https://webglfundamentals.org) 💠🟪 - An introduction to WebGL, a web-based rasterization engine. WebGL is a good tool to use when learning the fundamentals before diving into more complex frameworks such as Vulkan or DirectX 12.
 
 
 [GPU Gems](https://developer.nvidia.com/gpugems/gpugems/contributors) - Three (3) free books by Nvidia about GPU programming and architecture.
@@ -845,7 +845,7 @@ Royalty free music! Don't forget to check the license.
 [Career Documents from Jean Leggett](https://docs.google.com/document/d/1pGglICnig6oZ1IABXLMuwAEN1azPP5pnZUvdrYwbyGs/edit) 🟪 - Another huge list of career documents and resources!
 
 
-[Game Dev LFW Resources](https://javieracordero.notion.site/cce9a8faef6e4f31bb43b7630521a4d2?v=efdf687094be499bb2d9a33f55b906bc) 🟪 - Yet another list of resources and communities!
+[Game Dev LFW Resources](https://javieracordero.notion.site/cce9a8faef6e4f31bb43b7630521a4d2?v=efdf687094be499bb2d9a33f55b906bc) ��� - Yet another list of resources and communities!
 
 
 [Interview Placemat](https://www.linkedin.com/posts/victoriaearle_jobhunt-jobsearch-interviewing-activity-7052059362810335232-UhrI/) 🟪 - A template useful for interview prep. [Archived Image](archives/InterviewPlacemat.jpg).
