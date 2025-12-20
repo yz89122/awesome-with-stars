@@ -820,7 +820,7 @@ Royalty free music! Don't forget to check the license.
 [Community Dev Newsletter and Blog](https://www.victoriatran.com) 💠🟪 - A blog and a newsletter by Victoria Tran with advice on community management, social media, and marketing. Past newsletters are archived here. I personally recommend "Failure Marketing" and "Charm your Communities" as starting points.
 
 
-[Blog by Derek Lieu](https://www.derek-lieu.com/blog/) �� - A blog by Derek Lieu with advice on game trailers. I personally recommend "Show the Dream, Not the Job" and "Video Game Trailer Specifications" as starting points.
+[Blog by Derek Lieu](https://www.derek-lieu.com/blog/) 🟪 - A blog by Derek Lieu with advice on game trailers. I personally recommend "Show the Dream, Not the Job" and "Video Game Trailer Specifications" as starting points.
 
 
 [The Game Developer's Guide to Publishing Agreements](https://deviantlegal.com/guide/game-developers-guide-publishing-agreements/) 🟪 - An introduction to games contract law by René Otto, written primarily for developers seeking to work with publishers. 
@@ -845,7 +845,7 @@ Royalty free music! Don't forget to check the license.
 [Career Documents from Jean Leggett](https://docs.google.com/document/d/1pGglICnig6oZ1IABXLMuwAEN1azPP5pnZUvdrYwbyGs/edit) 🟪 - Another huge list of career documents and resources!
 
 
-[Game Dev LFW Resources](https://javieracordero.notion.site/cce9a8faef6e4f31bb43b7630521a4d2?v=efdf687094be499bb2d9a33f55b906bc) 🟪 - Yet another list of resources and communities!
+[Game Dev LFW Resources](https://javieracordero.notion.site/cce9a8faef6e4f31bb43b7630521a4d2?v=efdf687094be499bb2d9a33f55b906bc) ��� - Yet another list of resources and communities!
 
 
 [Interview Placemat](https://www.linkedin.com/posts/victoriaearle_jobhunt-jobsearch-interviewing-activity-7052059362810335232-UhrI/) 🟪 - A template useful for interview prep. [Archived Image](archives/InterviewPlacemat.jpg).
