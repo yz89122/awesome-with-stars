@@ -655,6 +655,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [Figma to Angular](https://www.builder.io/blog/figma-to-angular) - Convert designs to clean Angular code in a click.
 * [Frontend AI](https://app.webcrumbs.ai/frontend-ai) - Ask for a component or upload an image, and instantly receive ready-to-use code without lifting a finger.
 * [gitingest](https://gitingest.com/) - Turn any Git repository into a simple text digest of its codebase. This is useful for feeding a codebase into any LLM.
+* [glama](https://glama.ai/mcp/servers?query=angular) - Directory of MCP servers filtered for Angular-related entries.
 * [global seo](https://www.globalseo.ai/integrations/angular) - Translate Angular app with AI.
 * [hashbrown ![GitHub Repo Stars](https://img.shields.io/github/stars/liveloveapp/hashbrown) ![GitHub last commit](https://img.shields.io/github/last-commit/liveloveapp/hashbrown)](https://github.com/liveloveapp/hashbrown) - The [Hashbrown](https://hashbrown.dev/) framework is for building joyful, AI-powered user experiences.
 * [mini-bard-palm2-angular ![GitHub Repo Stars](https://img.shields.io/github/stars/gsans/mini-bard-palm2-angular) ![GitHub last commit](https://img.shields.io/github/last-commit/gsans/mini-bard-palm2-angular)](https://github.com/gsans/mini-bard-palm2-angular) - Result from this [step by step guide](https://medium.com/google-cloud/build-ai-powered-angular-apps-with-google-gemini-5bf5e905ca1d#f02a) on how to integrate Google Gemini with Angular.
@@ -1291,6 +1292,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [cookieconsent ![GitHub Repo Stars](https://img.shields.io/github/stars/orestbida/cookieconsent) ![GitHub last commit](https://img.shields.io/github/last-commit/orestbida/cookieconsent)](https://github.com/orestbida/cookieconsent) - Simple cross-browser cookie-consent plugin written in vanilla js that can be added to [Angular](https://cookieconsent.orestbida.com/essential/getting-started.html#angular).
 * [ngx-cookie-ssr ![GitHub Repo Stars](https://img.shields.io/github/stars/Ask-786/ngx-cookie-ssr) ![GitHub last commit](https://img.shields.io/github/last-commit/Ask-786/ngx-cookie-ssr)](https://github.com/Ask-786/ngx-cookie-ssr) - A straightforward cookie service for Angular 19 applications, inspired by ngx-cookie-service.
 * [ngx-gdpr-cookie-consent ![GitHub Repo Stars](https://img.shields.io/github/stars/KoblerS/ngx-gdpr-cookie-consent) ![GitHub last commit](https://img.shields.io/github/last-commit/KoblerS/ngx-gdpr-cookie-consent)](https://github.com/KoblerS/ngx-gdpr-cookie-consent) - A beautiful Cookie consent library, easy to use.
+* [smallest-cookie-banner ![GitHub Repo Stars](https://img.shields.io/github/stars/DreadfulCode/smallest-cookie-banner) ![GitHub last commit](https://img.shields.io/github/last-commit/DreadfulCode/smallest-cookie-banner)](https://github.com/DreadfulCode/smallest-cookie-banner) - Minimal framework-agnostic cookie consent banner.
 
 ### CSV
 
@@ -1690,6 +1692,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [@marxlnfcs/ngx-grid ![GitHub Repo Stars](https://img.shields.io/github/stars/marxlnfcs/ngx-grid) ![GitHub last commit](https://img.shields.io/github/last-commit/marxlnfcs/ngx-grid)](https://github.com/marxlnfcs/ngx-grid) - Simple Angular Grid Module for modern grid layouts.
 * [lightweight-grid-layout ![GitHub Repo Stars](https://img.shields.io/github/stars/liketiger/lightweight-grid-layout) ![GitHub last commit](https://img.shields.io/github/last-commit/liketiger/lightweight-grid-layout)](https://github.com/liketiger/lightweight-grid-layout) - A headless, dependency-free grid layout library for JavaScript/TypeScript that works with any framework or none, leaving rendering and styling to users.
 * [ng-flex-layout ![GitHub Repo Stars](https://img.shields.io/github/stars/alessiobianchini/ng-flex-layout) ![GitHub last commit](https://img.shields.io/github/last-commit/alessiobianchini/ng-flex-layout)](https://github.com/alessiobianchini/ng-flex-layout) - Angular library that provides a responsive, flexible layout API built on Flexbox and mediaQuery observables.
+* [dockview-angular](https://www.npmjs.com/package/dockview-angular) - Zero dependency layout manager supporting tabs, groups, grids, and splitviews.
 
 ### Loaders
 
