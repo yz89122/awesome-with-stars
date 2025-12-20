@@ -439,7 +439,7 @@ All resources are freely available except those with a 💲 icon.
 * 📝 [Introduction to Algebraic Topology](http://www.math.muni.cz/~cadek/at/at.pdf) - Martin Cadek
 * 📝 [Algebra and Topology](http://webusers.imj-prg.fr/~pierre.schapira/lectnotes/AlTo.pdf) - Pierre Schapira (Paris VI University)
 * 📝 [Lecture Notes in Algebraic Topology](http://www.indiana.edu/~jfdavis/teaching/m623/book.pdf) - James F. Davis, Paul Kirk (Indiana University)
-* 📝 [Algebraic Topology](https://www.ma.utexas.edu/ibl1/courses/resources/12_15_07_grad_alg_top_mooremethod.pdf) - Michael Starbird
+* ���� [Algebraic Topology](https://www.ma.utexas.edu/ibl1/courses/resources/12_15_07_grad_alg_top_mooremethod.pdf) - Michael Starbird
 * 📝 [Lecture Notes on Algebraic Topology](http://www.math.nus.edu.sg/~matwujie/ma5209.pdf) - Jie Wu
 
 
@@ -603,7 +603,7 @@ All resources are freely available except those with a 💲 icon.
 * 📝 [Lectures In Basic Computational Numerical Analysis](https://uknowledge.uky.edu/cgi/viewcontent.cgi?article=1000&context=math_textbooks) - J. M. McDonough (University of Kentucky)
 * 📝 [Advanced Numerical Methods and Their Applications to Industrial Problems: Adaptive Finite Element Methods](https://user.math.uni-bremen.de/schmi/SS04/YSU_Notes.pdf) - Alfred Schmidt, Arsen Narimanyan
 * 📝 [Numerical Analysis for Engineers](https://ece.uwaterloo.ca/~dwharder/nm/) - Douglas Wilhelm Harder
-* 📝�� [Advanced Linear Algebra: Foundations to Frontiers](https://www.cs.utexas.edu/users/flame/laff/alaff/frontmatter.html) - Robert van de Geijn, Margaret Myers (University of Texas at Austin)
+* 📝🎥 [Advanced Linear Algebra: Foundations to Frontiers](https://www.cs.utexas.edu/users/flame/laff/alaff/frontmatter.html) - Robert van de Geijn, Margaret Myers (University of Texas at Austin)
 
 ## Signal processing
 
