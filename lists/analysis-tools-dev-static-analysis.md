@@ -828,7 +828,7 @@ A ktfmt IntelliJ plugin is available from the plugin repository. To install it, 
 
 - [GrumPHP ![GitHub Repo Stars](https://img.shields.io/github/stars/phpro/grumphp) ![GitHub last commit](https://img.shields.io/github/last-commit/phpro/grumphp)](https://github.com/phpro/grumphp) — Checks code on every commit.
 
-- [larastan ![GitHub Repo Stars](https://img.shields.io/github/stars/larastan/larastan) ![GitHub last commit](https://img.shields.io/github/last-commit/larastan/larastan)](https://github.com/larastan/larastan) — Adds static analysis to Laravel improving developer productivity and code quality. It is a wrapper around PHPStan.
+- [larastan ![GitHub Repo Stars](https://img.shields.io/github/stars/larastan/larastan) ![GitHub last commit](https://img.shields.io/github/last-commit/larastan/larastan)](https://github.com/larastan/larastan) ��� Adds static analysis to Laravel improving developer productivity and code quality. It is a wrapper around PHPStan.
 
 - [mago](https://mago.carthage.software) — Mago is a complete toolchain for PHP, written in Rust, designed from the ground up for maximum performance.
 - ✨ A blazing-fast formatter that automatically formats your code according to PER-CS, ending style debates forever. - 🔎 An intelligent linter that catches stylistic issues, inconsistencies, and code smells before they become problems. - 🔬 A powerful static analyzer that finds type errors and logical bugs in your code without you ever having to run it. - 🛡️ A robust architectural guard that enforces dependency rules and structural conventions.
@@ -1485,7 +1485,7 @@ It supports multiple languages and is designed to be extensible, allowing you to
 
 - [DevSkim ![GitHub Repo Stars](https://img.shields.io/github/stars/microsoft/devskim) ![GitHub last commit](https://img.shields.io/github/last-commit/microsoft/devskim)](https://github.com/microsoft/devskim) — Regex-based static analysis tool for Visual Studio, VS Code, and Sublime Text - C/C++, C#, PHP, ASP, Python, Ruby, Java, and others.
 
-- [dotnet-format ![GitHub Repo Stars](https://img.shields.io/github/stars/dotnet/format) ![GitHub last commit](https://img.shields.io/github/last-commit/dotnet/format)](https://github.com/dotnet/format) — A code formatter for .NET. Preferences will be read from an `.editorconfig` file, if present, otherwise a default set of preferences will be used. At this time dotnet-format is able to format C# and Visual Basic projects with a subset of supported `.editorconfig` options.
+- [dotnet-format ![GitHub Repo Stars](https://img.shields.io/github/stars/dotnet/format) ![GitHub last commit](https://img.shields.io/github/last-commit/dotnet/format)](https://github.com/dotnet/format) ��� A code formatter for .NET. Preferences will be read from an `.editorconfig` file, if present, otherwise a default set of preferences will be used. At this time dotnet-format is able to format C# and Visual Basic projects with a subset of supported `.editorconfig` options.
 
 - [Embold](https://embold.io) :copyright: — Intelligent software analytics platform that identifies design issues, code issues, duplication and metrics. Supports Java, C, C++, C#, JavaScript, TypeScript, Python, Go, Kotlin and more.
 
@@ -1838,7 +1838,7 @@ Loading address: binbloom can parse a raw binary firmware and determine its load
 
 - [Steampunk Spotter](https://steampunk.si/spotter/) :copyright: — Ansible Playbook Scanning Tool that analyzes and offers recommendations for your playbooks.
 
-- [terraform-compliance](https://terraform-compliance.com) — A lightweight, compliance- and security focused, BDD test framework against Terraform.
+- [terraform-compliance](https://terraform-compliance.com) ��� A lightweight, compliance- and security focused, BDD test framework against Terraform.
 
 - [terrascan ![GitHub Repo Stars](https://img.shields.io/github/stars/cesar-rodriguez/terrascan) ![GitHub last commit](https://img.shields.io/github/last-commit/cesar-rodriguez/terrascan)](https://github.com/cesar-rodriguez/terrascan) — Collection of security and best practice tests for static code analysis of Terraform templates.
 
