@@ -451,7 +451,7 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 
 | Course Name | Course Provider | Level | Hour(s) | Reward |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
-| <a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/" target="_blank" rel="noopener noreferrer">JavaScript Algorithms and Data Structures Certification</a> | FreeCodeCamp |Professional|300 | ����|
+| <a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/" target="_blank" rel="noopener noreferrer">JavaScript Algorithms and Data Structures Certification</a> | FreeCodeCamp |Professional|300 | 🏆|
 | <a href="https://www.hackerrank.com/skills-verification/javascript_basic" target="_blank" rel="noopener noreferrer">JavaScript</a> | HackerRank |Beginner| 1.5 | 🏆|
 
 <a href="https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents" target="_blank" rel="noopener noreferrer">⬆️</a>
