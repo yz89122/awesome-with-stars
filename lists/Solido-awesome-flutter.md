@@ -438,7 +438,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 ### Vision
 
-- [ML Vision Camera Stream ![GitHub Repo Stars](https://img.shields.io/github/stars/santetis/flutter_camera_ml_vision) ![GitHub last commit](https://img.shields.io/github/last-commit/santetis/flutter_camera_ml_vision)](https://github.com/santetis/flutter_camera_ml_vision) [273⭐] - ML vision recognitions (QRcode, face, ...) with live camera stream by [Aumard Jimmy](https://github.com/jaumard) and [Santetis](https://github.com/santetis).
+- [ML Vision Camera Stream ![GitHub Repo Stars](https://img.shields.io/github/stars/santetis/flutter_camera_ml_vision) ![GitHub last commit](https://img.shields.io/github/last-commit/santetis/flutter_camera_ml_vision)](https://github.com/santetis/flutter_camera_ml_vision) [273���] - ML vision recognitions (QRcode, face, ...) with live camera stream by [Aumard Jimmy](https://github.com/jaumard) and [Santetis](https://github.com/santetis).
 - [Google Mobile Vision ![GitHub Repo Stars](https://img.shields.io/github/stars/edufolly/flutter_mobile_vision) ![GitHub last commit](https://img.shields.io/github/last-commit/edufolly/flutter_mobile_vision)](https://github.com/edufolly/flutter_mobile_vision) [456⭐] - Google Mobile Vision by [Eduardo Folly](https://github.com/edufolly).
 
 #### Augmented Reality
