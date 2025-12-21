@@ -244,6 +244,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-boomer ![GitHub Repo Stars](https://img.shields.io/github/stars/angular-sanctuary/ngx-boomer) ![GitHub last commit](https://img.shields.io/github/last-commit/angular-sanctuary/ngx-boomer)](https://github.com/angular-sanctuary/ngx-boomer) - A straightforward utility to enforce legacy naming‑convention rules for Angular 20 projects.
 * [angular-updater ![GitHub Repo Stars](https://img.shields.io/github/stars/stardyn/angular-updater) ![GitHub last commit](https://img.shields.io/github/last-commit/stardyn/angular-updater)](https://github.com/stardyn/angular-updater) - A lightweight solution for managing version control and updates in Angular apps with seamless Service Worker integration.
 * [Depfixer](https://depfixer.com/sample-report/angular) - Smart dependency analysis for JS/TS projects; detects compatibility conflicts and provides step‑by‑step fixes.
+* [migration-planificator ![GitHub Repo Stars](https://img.shields.io/github/stars/silvestv/migration-planificator-documentation) ![GitHub last commit](https://img.shields.io/github/last-commit/silvestv/migration-planificator-documentation)](https://github.com/silvestv/migration-planificator-documentation) - Plan Angular migrations with precision AST analysis, calculate workload estimates, and generate interactive HTML dashboards.
 
 ## Angular Pulse
 
@@ -2049,6 +2050,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-kit-ui ![GitHub Repo Stars](https://img.shields.io/github/stars/OpenKit-Labs/ngx-kit-ui) ![GitHub last commit](https://img.shields.io/github/last-commit/OpenKit-Labs/ngx-kit-ui)](https://github.com/OpenKit-Labs/ngx-kit-ui) - Modern Angular UI library for mobile and web.
 * [TecnualNG ![GitHub Repo Stars](https://img.shields.io/github/stars/tecnual/tecnualng) ![GitHub last commit](https://img.shields.io/github/last-commit/tecnual/tecnualng)](https://github.com/tecnual/tecnualng) - A modern Angular UI library offering reusable, customizable, and accessible components for building professional web applications.
 * [takeoff-ui ![GitHub Repo Stars](https://img.shields.io/github/stars/turkishtechnology/takeoff-ui) ![GitHub last commit](https://img.shields.io/github/last-commit/turkishtechnology/takeoff-ui)](https://github.com/turkishtechnology/takeoff-ui) - A comprehensive design system providing framework-agnostic web components developed with Stencil.js.
+* [mozek ![GitHub Repo Stars](https://img.shields.io/github/stars/thecodemeor/mozek-package) ![GitHub last commit](https://img.shields.io/github/last-commit/thecodemeor/mozek-package)](https://github.com/thecodemeor/mozek-package) - A lightweight SCSS toolkit and UI library designed for clean, simple, non‑over‑engineered styling with consistent spacing, colors, and typography.
 
 ### UI Libraries built on Bootstrap
 
