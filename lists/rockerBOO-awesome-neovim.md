@@ -234,6 +234,7 @@
 
 ## AI
 
+- [carlos-algms/agentic.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/carlos-algms/agentic.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/carlos-algms/agentic.nvim)](https://github.com/carlos-algms/agentic.nvim) - Chat interface for AI ACP providers such as Claude, Gemini, Codex, OpenCode and Cursor.
 - [blob42/codegpt-ng.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/blob42/codegpt-ng.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/blob42/codegpt-ng.nvim)](https://github.com/blob42/codegpt-ng.nvim) - Minimalist command based AI coding with a powerful template system. Supports Ollama, OpenAI and more.
 - [Aaronik/GPTModels.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/Aaronik/GPTModels.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/Aaronik/GPTModels.nvim)](https://github.com/Aaronik/GPTModels.nvim) - GPTModels - a stable, clean, multi model, window based LLM AI tool.
 - [Robitx/gp.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/Robitx/gp.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/Robitx/gp.nvim)](https://github.com/Robitx/gp.nvim) - ChatGPT like sessions and instructable text/code operations in your favorite editor.

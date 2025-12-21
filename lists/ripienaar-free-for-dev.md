@@ -972,7 +972,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [Brevo](https://www.brevo.com/) — 9,000 emails/month, 300 emails/day free
   * [OneSignal](https://onesignal.com/) — 10,000 emails/month,No Credit Cards are required.
   * [Bump](https://bump.email/) - Free 10 Bump email addresses, one custom domain
-  * [Burnermail](https://burnermail.io/) �� Free 5 Burner Email Addresses, 1 Mailbox, 7-day Mailbox History
+  * [Burnermail](https://burnermail.io/) – Free 5 Burner Email Addresses, 1 Mailbox, 7-day Mailbox History
   * [Buttondown](https://buttondown.email/) — Newsletter service. Up to 100 subscribers free
   * [CloudMailin](https://www.cloudmailin.com/) - Incoming email via HTTP POST and transactional outbound - 10,000 free emails/month
   * [Contact.do](https://contact.do/) — Contact form in a link (bitly for contact forms)
