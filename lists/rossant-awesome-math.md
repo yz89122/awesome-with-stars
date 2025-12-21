@@ -337,7 +337,7 @@ All resources are freely available except those with a 💲 icon.
 * 📝 [Linear Algebra and Matrices](https://web.archive.org/web/20140824074655/http://mathstat.helsinki.fi/~fluch/linear_algebra_1-sp07/la1.pdf) - Martin Fluch
 * 📝 [Vector Space Theory](http://www.maths.usyd.edu.au/u/bobh/UoS/MATH2902/vswhole.pdf) - Robert Howlett
 * 📝 [Linear Algebra](http://joshua.smcvt.edu/linearalgebra) - Jim Hefferon
-* 📝 [MIT OpenCourseWare Lectures on Linear Algebra (18.06) as Jupyter Notebooks ![GitHub Repo Stars](https://img.shields.io/github/stars/juanklopper/MIT_OCW_Linear_Algebra_18_06) ![GitHub last commit](https://img.shields.io/github/last-commit/juanklopper/MIT_OCW_Linear_Algebra_18_06)](https://github.com/juanklopper/MIT_OCW_Linear_Algebra_18_06) - Juan Klopper
+* �� [MIT OpenCourseWare Lectures on Linear Algebra (18.06) as Jupyter Notebooks ![GitHub Repo Stars](https://img.shields.io/github/stars/juanklopper/MIT_OCW_Linear_Algebra_18_06) ![GitHub last commit](https://img.shields.io/github/last-commit/juanklopper/MIT_OCW_Linear_Algebra_18_06)](https://github.com/juanklopper/MIT_OCW_Linear_Algebra_18_06) - Juan Klopper
 * 📝 [Elementary Linear Algebra](http://www.numbertheory.org/book/) - Keith Matthews
 * 📝 [A First Courses in Linear Algebra](http://linear.ups.edu/) - Rob Breezer
 * 📝 [Linear Algebra](https://www.math.ucdavis.edu/~linear/) - David Cherney, Tom Denton, Andrew Waldron
@@ -589,7 +589,7 @@ All resources are freely available except those with a 💲 icon.
 * 📝 [Stochastic Processes](http://statweb.stanford.edu/~adembo/math-136/nnotes.pdf) - Amir Dembo (Stanford University)
 * 📝 [Lecture Notes on Stochastic Processes](http://www.mi.fu-berlin.de/wiki/pub/CompMolBio/MarkovKetten15/stochastic_processes_2011.pdf) - Frank Noé, Bettina Keller and Jan-Hendrik Prinz (Freie Universität Berlin)
 * 📝 [Introduction to Stochastic Processes - Lecture Notes](https://www.ma.utexas.edu/users/gordanz/notes/introduction_to_stochastic_processes.pdf) - Gordan Žitković (University of Texas)
-* 📝 [Applied Stochastic Processes in science and engineering](https://www.math.uwaterloo.ca/~mscott/Little_Notes.pdf) - Matt Scott (University of Waterloo)
+* �� [Applied Stochastic Processes in science and engineering](https://www.math.uwaterloo.ca/~mscott/Little_Notes.pdf) - Matt Scott (University of Waterloo)
 * 📝 [An Introduction to Stochastic Processes in Continuous Time](http://www.math.leidenuniv.nl/~spieksma/colleges/sp-master/sp-hvz1.pdf) - Flora Spieksma (Leiden University)
 * 📝 [Markov Chains and Mixing Times](http://pages.uoregon.edu/dlevin/MARKOV/markovmixing.pdf) - David A. Levin, Yuval Peres, Elizabeth L. Wilmer
 * 📝 [Convergence of Stochastic Processes](http://www.stat.yale.edu/~pollard/Books/1984book/pollard1984.pdf) - David Pollard
@@ -603,7 +603,7 @@ All resources are freely available except those with a 💲 icon.
 * 📝 [Lectures In Basic Computational Numerical Analysis](https://uknowledge.uky.edu/cgi/viewcontent.cgi?article=1000&context=math_textbooks) - J. M. McDonough (University of Kentucky)
 * 📝 [Advanced Numerical Methods and Their Applications to Industrial Problems: Adaptive Finite Element Methods](https://user.math.uni-bremen.de/schmi/SS04/YSU_Notes.pdf) - Alfred Schmidt, Arsen Narimanyan
 * 📝 [Numerical Analysis for Engineers](https://ece.uwaterloo.ca/~dwharder/nm/) - Douglas Wilhelm Harder
-* 📝�� [Advanced Linear Algebra: Foundations to Frontiers](https://www.cs.utexas.edu/users/flame/laff/alaff/frontmatter.html) - Robert van de Geijn, Margaret Myers (University of Texas at Austin)
+* 📝🎥 [Advanced Linear Algebra: Foundations to Frontiers](https://www.cs.utexas.edu/users/flame/laff/alaff/frontmatter.html) - Robert van de Geijn, Margaret Myers (University of Texas at Austin)
 
 ## Signal processing
 
