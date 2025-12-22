@@ -55,8 +55,8 @@ Terraform enables you to safely and predictably create, change, and improve prod
 ## Official Resources
 
 - [Hashicorp Terraform Blog](https://www.hashicorp.com/en/blog/products/terraform)
-- [Introduction to Terraform](https://web.archive.org/web/20251001030259/https://developer.hashicorp.com/terraform/intro)
-- [Terraform Documentation](https://web.archive.org/web/20251003045432/https://developer.hashicorp.com/terraform/docs)
+- [Introduction to Terraform](https://developer.hashicorp.com/terraform/intro)
+- [Terraform Documentation](https://developer.hashicorp.com/terraform/docs)
 - [Terraform learn](https://developer.hashicorp.com/terraform/tutorials)
 
 ## Community
@@ -151,6 +151,7 @@ Terraform enables you to safely and predictably create, change, and improve prod
 - [Getting started with Terraform on Google Cloud](https://cloud.google.com/docs/terraform/get-started-with-terraform) - Using Terraform to create a VM in Google Cloud and Starting a basic Python Flask server.
 - [Managing Cloud Infrastructure with Terraform](https://www.cloudskillsboost.google/course_templates/746) - Deploy Kubernetes Load Balancer Service with Terraform, HTTPS Content-Based Load Balancer with Terraform, Modular Load Balancing with Terraform - Regional Load Balancer, Custom Providers with Terraform, Cloud SQL with Terraform, Building a VPN Between Google Cloud and AWS with Terraform.
 - [Hashicorp Terraform Tutorials for Google Cloud](https://developer.hashicorp.com/terraform/tutorials/gcp-get-started) - Get started with Terraform on Google Cloud.
+- [IAC - Terraform and Terragrunt on Google Cloud](https://www.academeez.com/courses/terraform) - Open source MIT Licensed course about creating infrastructure on Google Cloud using Terraform/OpenTofu and Terragrunt
 
 ### Miscellaneous
 
@@ -294,6 +295,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 - [terraform-provider-ucloud ![GitHub Repo Stars](https://img.shields.io/github/stars/ucloud/terraform-provider-ucloud) ![GitHub last commit](https://img.shields.io/github/last-commit/ucloud/terraform-provider-ucloud)](https://github.com/ucloud/terraform-provider-ucloud) - Provider to manage UCloud resources.
 - [terraform-provider-uptimerobot ![GitHub Repo Stars](https://img.shields.io/github/stars/louy/terraform-provider-uptimerobot) ![GitHub last commit](https://img.shields.io/github/last-commit/louy/terraform-provider-uptimerobot)](https://github.com/louy/terraform-provider-uptimerobot) - Provider to manage uptimerobot resources.
 - [terraform-provider-vaulted ![GitHub Repo Stars](https://img.shields.io/github/stars/sumup-oss/terraform-provider-vaulted) ![GitHub last commit](https://img.shields.io/github/last-commit/sumup-oss/terraform-provider-vaulted)](https://github.com/sumup-oss/terraform-provider-vaulted) - Encrypted HashiCorp Vault secrets via Terraform that can be stored in SCM such as Git.
+- [terraform-provider-scp ![GitHub Repo Stars](https://img.shields.io/github/stars/splunk/terraform-provider-scp) ![GitHub last commit](https://img.shields.io/github/last-commit/splunk/terraform-provider-scp)](https://github.com/splunk/terraform-provider-scp) - Provider for Splunk Cloud Platform.
 
 ### Community providers
 
