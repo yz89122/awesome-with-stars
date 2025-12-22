@@ -273,6 +273,7 @@ _Templates / boilerplate / starter kits / stack ensemble / Yeoman generator._
 - [AutoAnimate](https://auto-animate.formkit.com/) - A zero-config, drop-in animation utility that adds smooth transitions to your Svelte app.
 - [svelte-typewriter ![GitHub Repo Stars](https://img.shields.io/github/stars/henriquehbr/svelte-typewriter) ![GitHub last commit](https://img.shields.io/github/last-commit/henriquehbr/svelte-typewriter)](https://github.com/henriquehbr/svelte-typewriter) - A simple and reusable typewriter effect for your Svelte applications.
 - [moving-icons ![GitHub Repo Stars](https://img.shields.io/github/stars/jis3r/icons) ![GitHub last commit](https://img.shields.io/github/last-commit/jis3r/icons)](https://github.com/jis3r/icons) - beautifully crafted, moving icons. for svelte. 🧡
+- [ssgoi ![GitHub Repo Stars](https://img.shields.io/github/stars/meursyphus/ssgoi) ![GitHub last commit](https://img.shields.io/github/last-commit/meursyphus/ssgoi)](https://github.com/meursyphus/ssgoi) - Native app-like page transitions with spring physics, 60fps on mobile, SSR-ready, and all modern browser support.
 
 ### Drag & Drop
 
