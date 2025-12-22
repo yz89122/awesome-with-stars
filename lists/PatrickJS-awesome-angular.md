@@ -1609,6 +1609,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [oop-validator ![GitHub Repo Stars](https://img.shields.io/github/stars/visaruruqi/oop-validator) ![GitHub last commit](https://img.shields.io/github/last-commit/visaruruqi/oop-validator)](https://github.com/visaruruqi/oop-validator) - Powerful, flexible validation library for any UI framework—Vue, React, Angular, and more—for complete front-end validation.
 * [ngx-cross-field-validation ![GitHub Repo Stars](https://img.shields.io/github/stars/soc221b/ngx-cross-field-validation) ![GitHub last commit](https://img.shields.io/github/last-commit/soc221b/ngx-cross-field-validation)](https://github.com/soc221b/ngx-cross-field-validation) - Angular library providing conditional, equality, inequality, and sequence-based validations on form controls.
 * [validauth ![GitHub Repo Stars](https://img.shields.io/github/stars/adiksuu/validauth) ![GitHub last commit](https://img.shields.io/github/last-commit/adiksuu/validauth)](https://github.com/adiksuu/validauth) - Lightweight, powerful authentication validators for JavaScript applications.
+* [ngx-validation-messages ![GitHub Repo Stars](https://img.shields.io/github/stars/lagoshny/ngx-validation-messages) ![GitHub last commit](https://img.shields.io/github/last-commit/lagoshny/ngx-validation-messages)](https://github.com/lagoshny/ngx-validation-messages) - This module simplifies the display of form validator messages by using a single component.
 
 ### Icons
 
