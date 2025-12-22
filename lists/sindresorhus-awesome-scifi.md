@@ -220,7 +220,7 @@ Books:
 - [Tiamat's Wrath](https://www.goodreads.com/book/show/28335698-tiamat-s-wrath) [4.5]
 - [Leviathan Falls](https://www.goodreads.com/book/show/28335699-leviathan-falls) [4.5]
 
-#### [Flatland](https://www.goodreads.com/book/show/433567.Flatland) (1884) _by [Edwin A. Abbott](https://en.wikipedia.org/wiki/Edwin_Abbott_Abbott)_ [3.8] 🌟
+#### [Flatland](https://www.goodreads.com/book/show/433567.Flatland) (1884) _by [Edwin A. Abbott](https://en.wikipedia.org/wiki/Edwin_Abbott_Abbott)_ [3.8] ��
 
 This book will teach you to stretch your imagination and see things in a different way. - [@elssar](https://github.com/elssar)
 
