@@ -1051,6 +1051,7 @@ _Toaster / snackbar — Notify the user with a modeless temporary little popup_
 - [@kyvg/vue3-notification ![GitHub Repo Stars](https://img.shields.io/github/stars/kyvg/vue3-notification) ![GitHub last commit](https://img.shields.io/github/last-commit/kyvg/vue3-notification)](https://github.com/kyvg/vue3-notification) - Vue 3 notification library
 - [vue-global-alert-utility ![GitHub Repo Stars](https://img.shields.io/github/stars/RashadSaleh/vue-global-alert-utility) ![GitHub last commit](https://img.shields.io/github/last-commit/RashadSaleh/vue-global-alert-utility)](https://github.com/RashadSaleh/vue-global-alert-utility) - A Vue.js global alert utility to replace vanilla JavaScript `alert` function with better user and developer experience, while keeping it as simple as possible.
 - [notivue ![GitHub Repo Stars](https://img.shields.io/github/stars/smastrom/notivue) ![GitHub last commit](https://img.shields.io/github/last-commit/smastrom/notivue)](https://github.com/smastrom/notivue) - Fully-featured notification system for Vue 3 and Nuxt 3.
+- [Toastflow ![GitHub Repo Stars](https://img.shields.io/github/stars/adrianjanocko/toastflow) ![GitHub last commit](https://img.shields.io/github/last-commit/adrianjanocko/toastflow)](https://github.com/adrianjanocko/toastflow) - 💡 Headless toast (notification) engine + Vue 3 renderer (TS-first, CSS-first theming, highly customizable).
 
 #### Loader
 
@@ -1487,6 +1488,7 @@ _Detect when components enter viewport_
 - [blottie ![GitHub Repo Stars](https://img.shields.io/github/stars/Applelo/blottie) ![GitHub last commit](https://img.shields.io/github/last-commit/Applelo/blottie)](https://github.com/Applelo/blottie) Lottie component for Vue 3
 - [vue-countup-v3 ![GitHub Repo Stars](https://img.shields.io/github/stars/jizai1125/vue-countup-v3) ![GitHub last commit](https://img.shields.io/github/last-commit/jizai1125/vue-countup-v3)](https://github.com/jizai1125/vue-countup-v3) A Vue 3 Component for animation counting.
 - [timered-counter ![GitHub Repo Stars](https://img.shields.io/github/stars/siaikin/timered-counter) ![GitHub last commit](https://img.shields.io/github/last-commit/siaikin/timered-counter)](https://github.com/siaikin/timered-counter) A counter web component with smooth animations
+- [ssgoi ![GitHub Repo Stars](https://img.shields.io/github/stars/meursyphus/ssgoi) ![GitHub last commit](https://img.shields.io/github/last-commit/meursyphus/ssgoi)](https://github.com/meursyphus/ssgoi) - Native app-like page transitions with spring physics, 60fps on mobile, SSR-ready, and all modern browser support
 
 #### Meta Tags
 
@@ -1684,6 +1686,7 @@ _Integrate with services or other frameworks_
 - [Bit ![GitHub Repo Stars](https://img.shields.io/github/stars/teambit/bit) ![GitHub last commit](https://img.shields.io/github/last-commit/teambit/bit)](https://github.com/teambit/bit) - Manage and reuse `vue` components between projects. Easily isolate and share components from any project without changing its source code, organize curated collections and install in different projects.
 - [Vue Mess Detector ![GitHub Repo Stars](https://img.shields.io/github/stars/rrd108/vue-mess-detector) ![GitHub last commit](https://img.shields.io/github/last-commit/rrd108/vue-mess-detector)](https://github.com/rrd108/vue-mess-detector) - A static code analysis tool for 👉 detecting code smells and best practice violations in Vue.js and Nuxt.js projects
 - [Vue Log Arsenal ![GitHub Repo Stars](https://img.shields.io/github/stars/MvdZon/Vue3-log-arsenal) ![GitHub last commit](https://img.shields.io/github/last-commit/MvdZon/Vue3-log-arsenal)](https://github.com/MvdZon/Vue3-log-arsenal) - Lightweight Vue 3 plugin providing logging directives for easier debugging
+- [PocketMocker ![GitHub Repo Stars](https://img.shields.io/github/stars/tianchangNorth/pocket-mocker) ![GitHub last commit](https://img.shields.io/github/last-commit/tianchangNorth/pocket-mocker)](https://github.com/tianchangNorth/pocket-mocker) - Visual, browser-based HTTP mocking tool for front-end apps. Intercepts fetch/XHR, supports SmartMock rules, delay/error simulation and works great when developing Vue apps.
 
 #### Inspect
 
