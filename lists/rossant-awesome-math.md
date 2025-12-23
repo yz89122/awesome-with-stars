@@ -268,7 +268,7 @@ All resources are freely available except those with a 💲 icon.
 
 ### Homotopy Type Theory
 
-* ��� [Homotopy Type Theory](https://hottheory.files.wordpress.com/2013/03/hott-online-611-ga1a258c.pdf)
+* 📝 [Homotopy Type Theory](https://hottheory.files.wordpress.com/2013/03/hott-online-611-ga1a258c.pdf)
 
 ### Surreal Numbers
 
