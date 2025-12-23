@@ -101,7 +101,7 @@
 - [alyxshang/nuwa.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/alyxshang/nuwa.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/alyxshang/nuwa.nvim)](https://github.com/alyxshang/nuwa.nvim) - A light Neovim package manager.
 - [piersolenski/plugin-addict.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/piersolenski/plugin-addict.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/piersolenski/plugin-addict.nvim)](https://github.com/piersolenski/plugin-addict.nvim) - A stupidly simple way to quickly install plugins.
 - [synapse.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/OriginCoderPulse/synapse.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/OriginCoderPulse/synapse.nvim)](https://github.com/OriginCoderPulse/synapse.nvim) - A modern, lightweight plugin manager with beautiful UI, intelligent dependency management, tag/branch support, and post-install command execution.
-
+- [zuqini/zpack.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/zuqini/zpack.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/zuqini/zpack.nvim)](https://github.com/zuqini/zpack.nvim) - A thin layer on top of `vim.pack` to support lazy-loading and `lazy.nvim`'s declarative spec.
 <!--lint disable double-link -->
 
 **[⬆ back to top](#contents)**
