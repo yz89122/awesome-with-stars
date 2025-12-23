@@ -337,7 +337,7 @@ All resources are freely available except those with a 💲 icon.
 * 📝 [Linear Algebra and Matrices](https://web.archive.org/web/20140824074655/http://mathstat.helsinki.fi/~fluch/linear_algebra_1-sp07/la1.pdf) - Martin Fluch
 * 📝 [Vector Space Theory](http://www.maths.usyd.edu.au/u/bobh/UoS/MATH2902/vswhole.pdf) - Robert Howlett
 * 📝 [Linear Algebra](http://joshua.smcvt.edu/linearalgebra) - Jim Hefferon
-* 📝 [MIT OpenCourseWare Lectures on Linear Algebra (18.06) as Jupyter Notebooks ![GitHub Repo Stars](https://img.shields.io/github/stars/juanklopper/MIT_OCW_Linear_Algebra_18_06) ![GitHub last commit](https://img.shields.io/github/last-commit/juanklopper/MIT_OCW_Linear_Algebra_18_06)](https://github.com/juanklopper/MIT_OCW_Linear_Algebra_18_06) - Juan Klopper
+* �� [MIT OpenCourseWare Lectures on Linear Algebra (18.06) as Jupyter Notebooks ![GitHub Repo Stars](https://img.shields.io/github/stars/juanklopper/MIT_OCW_Linear_Algebra_18_06) ![GitHub last commit](https://img.shields.io/github/last-commit/juanklopper/MIT_OCW_Linear_Algebra_18_06)](https://github.com/juanklopper/MIT_OCW_Linear_Algebra_18_06) - Juan Klopper
 * 📝 [Elementary Linear Algebra](http://www.numbertheory.org/book/) - Keith Matthews
 * 📝 [A First Courses in Linear Algebra](http://linear.ups.edu/) - Rob Breezer
 * 📝 [Linear Algebra](https://www.math.ucdavis.edu/~linear/) - David Cherney, Tom Denton, Andrew Waldron
@@ -558,7 +558,7 @@ All resources are freely available except those with a 💲 icon.
 ### Statistics
 
 * 📝 [Lecture Notes on Statistical Theory](http://homepages.math.uic.edu/~rgmartin/Teaching/Stat411/Notes/411notes.pdf) - Ryan Martin (University of Illinois)
-* �� [Introduction to Statistics and Data Analysis for Physicists](http://www-library.desy.de/preparch/books/vstatmp_engl.pdf) - Gerhard Bohm, Günter Zech
+* 📝 [Introduction to Statistics and Data Analysis for Physicists](http://www-library.desy.de/preparch/books/vstatmp_engl.pdf) - Gerhard Bohm, Günter Zech
 * 📝 [Probability and Mathematical Statistics](http://www.iiserpune.ac.in/~ayan/MTH201/Sahoo_textbook.pdf) - Prasanna Sahoo (University of Louisville)
 * 📝 [Lectures on Statistics](http://math.arizona.edu/~faris/stat.pdf) - William G. Faris
 * 📝 [Statistical Theory](http://pages.pomona.edu/~ajr04747/Fall2009/Math152/Notes/Math152NotesFall09.pdf) - Adolfo J. Rumbos
@@ -589,7 +589,7 @@ All resources are freely available except those with a 💲 icon.
 * 📝 [Stochastic Processes](http://statweb.stanford.edu/~adembo/math-136/nnotes.pdf) - Amir Dembo (Stanford University)
 * 📝 [Lecture Notes on Stochastic Processes](http://www.mi.fu-berlin.de/wiki/pub/CompMolBio/MarkovKetten15/stochastic_processes_2011.pdf) - Frank Noé, Bettina Keller and Jan-Hendrik Prinz (Freie Universität Berlin)
 * 📝 [Introduction to Stochastic Processes - Lecture Notes](https://www.ma.utexas.edu/users/gordanz/notes/introduction_to_stochastic_processes.pdf) - Gordan Žitković (University of Texas)
-* 📝 [Applied Stochastic Processes in science and engineering](https://www.math.uwaterloo.ca/~mscott/Little_Notes.pdf) - Matt Scott (University of Waterloo)
+* �� [Applied Stochastic Processes in science and engineering](https://www.math.uwaterloo.ca/~mscott/Little_Notes.pdf) - Matt Scott (University of Waterloo)
 * 📝 [An Introduction to Stochastic Processes in Continuous Time](http://www.math.leidenuniv.nl/~spieksma/colleges/sp-master/sp-hvz1.pdf) - Flora Spieksma (Leiden University)
 * 📝 [Markov Chains and Mixing Times](http://pages.uoregon.edu/dlevin/MARKOV/markovmixing.pdf) - David A. Levin, Yuval Peres, Elizabeth L. Wilmer
 * 📝 [Convergence of Stochastic Processes](http://www.stat.yale.edu/~pollard/Books/1984book/pollard1984.pdf) - David Pollard
