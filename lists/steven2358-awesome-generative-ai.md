@@ -192,6 +192,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Windsurf](https://windsurf.com/) - An AI-native IDE that combines code editing with advanced AI assistance throughout the development process.
 - [Plandex ![GitHub Repo Stars](https://img.shields.io/github/stars/plandex-ai/plandex) ![GitHub last commit](https://img.shields.io/github/last-commit/plandex-ai/plandex)](https://github.com/plandex-ai/plandex) - Open source, terminal-based AI programming engine for complex tasks. [#opensource ![GitHub Repo Stars](https://img.shields.io/github/stars/plandex-ai/plandex) ![GitHub last commit](https://img.shields.io/github/last-commit/plandex-ai/plandex)](https://github.com/plandex-ai/plandex)
 - [Jupyter AI ![GitHub Repo Stars](https://img.shields.io/github/stars/jupyterlab/jupyter-ai) ![GitHub last commit](https://img.shields.io/github/last-commit/jupyterlab/jupyter-ai)](https://github.com/jupyterlab/jupyter-ai) - An open-source, configurable AI assistant in Jupyter Notebook and JupyterLab that supports 100+ LLMs, including locally-hosted models from Ollama and GPT4All. #opensource
+- [DataLine](https://dataline.app) - An AI-driven data analysis and visualization tool. [#opensource ![GitHub Repo Stars](https://img.shields.io/github/stars/RamiAwar/dataline) ![GitHub last commit](https://img.shields.io/github/last-commit/RamiAwar/dataline)](https://github.com/RamiAwar/dataline)
 
 ### Developer tools
 
