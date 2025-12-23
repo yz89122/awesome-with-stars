@@ -487,7 +487,7 @@ Fprettify is a tool that provides consistent whitespace, indentation, and delimi
 
 - [aligncheck](https://gitlab.com/opennota/check) — Find inefficiently packed structs.
 
-- [bodyclose ![GitHub Repo Stars](https://img.shields.io/github/stars/timakin/bodyclose) ![GitHub last commit](https://img.shields.io/github/last-commit/timakin/bodyclose)](https://github.com/timakin/bodyclose) — Checks whether HTTP response body is closed.
+- **bodyclose** :warning: — Checks whether HTTP response body is closed.
 
 - [deadcode ![GitHub Repo Stars](https://img.shields.io/github/stars/tsenart/deadcode) ![GitHub last commit](https://img.shields.io/github/last-commit/tsenart/deadcode)](https://github.com/tsenart/deadcode) — Finds unused code.
 
@@ -1057,7 +1057,7 @@ YAPF follows a distinctive methodology, originating from the 'clang-format' tool
 <h2>R</h2>
 
 
-- **CodeDepends** :warning: — Static Code Analysis for R.
+- [CodeDepends ![GitHub Repo Stars](https://img.shields.io/github/stars/duncantl/CodeDepends) ![GitHub last commit](https://img.shields.io/github/last-commit/duncantl/CodeDepends)](https://github.com/duncantl/CodeDepends) — Static Code Analysis for R.
 
 - [cyclocomp ![GitHub Repo Stars](https://img.shields.io/github/stars/MangoTheCat/cyclocomp) ![GitHub last commit](https://img.shields.io/github/last-commit/MangoTheCat/cyclocomp)](https://github.com/MangoTheCat/cyclocomp) — Quantifies the cyclomatic complexity of R functions / expressions.
 
