@@ -281,7 +281,7 @@ Features 🐭✨
   - Fetches plugins from GitHub repositories
   - Supports branches, tags, and commits
   - Handles Git submodules automatically
-- ⚡️ Lightweight and fast
+- ⚡��� Lightweight and fast
   - Parallel plugin sync
   - Built in Rust 🦀
 - 🔄 Seamless updates
