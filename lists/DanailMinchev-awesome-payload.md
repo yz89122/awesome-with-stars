@@ -15,7 +15,6 @@ Payload is natively integrated with Next.js and is installed directly into your 
 - [Education](#education)
 - [Templates](#templates)
 - [Plugins](#plugins)
-- [Miscellaneous](#miscellaneous)
 
 ## Official
 
@@ -82,12 +81,6 @@ List of interesting community plugins.
 - [rilrom / payload-bites ![GitHub Repo Stars](https://img.shields.io/github/stars/rilrom/payload-bites) ![GitHub last commit](https://img.shields.io/github/last-commit/rilrom/payload-bites)](https://github.com/rilrom/payload-bites) - Collection of various bite-sized Payload v3 plugins including image-search, fullscreen-editor, audit-fields, soft-delete and activity-log.
 - [shefing / payload-tools ![GitHub Repo Stars](https://img.shields.io/github/stars/shefing/payload-tools) ![GitHub last commit](https://img.shields.io/github/last-commit/shefing/payload-tools)](https://github.com/shefing/payload-tools) - Contains a set of powerful plugins designed to enhance your Payload projects (Authorization, Authors Info, Rich-text Comments, Right Panel, Custom Version View, Cross-Collection Config, Field-type Component Override, Color Picker Field, Icon Select, Quick Filter, Reset List View, etc).
 - [Crayonan / payload-plugin-ai-localization ![GitHub Repo Stars](https://img.shields.io/github/stars/Crayonan/payload-plugin-ai-localization) ![GitHub last commit](https://img.shields.io/github/last-commit/Crayonan/payload-plugin-ai-localization)](https://github.com/Crayonan/payload-plugin-ai-localization) - Adds an AI-powered "Translate" button to non-primary localized fields in Payload. Automatically translates content from the primary language using OpenAI or other models.
-
-## Miscellaneous
-
-Other resources.
-
-- [withPayload](https://withpayload.com/) - Discover starter kits, plugins, and other useful resources.
 
 ## Contributing
 
