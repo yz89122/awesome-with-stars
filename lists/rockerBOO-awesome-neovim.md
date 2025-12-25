@@ -969,6 +969,7 @@ then it is not supported:
 - [happyeric77/joplin.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/happyeric77/joplin.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/happyeric77/joplin.nvim)](https://github.com/happyeric77/joplin.nvim) - Joplin notes utilities: tree browser, search, open, and Telescope integration.
 - [ymich9963/mdnotes.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/ymich9963/mdnotes.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/ymich9963/mdnotes.nvim)](https://github.com/ymich9963/mdnotes.nvim) - Simple and improved Markdown note taking.
 - [nbeversl/urtext_neovim ![GitHub Repo Stars](https://img.shields.io/github/stars/nbeversl/urtext_neovim) ![GitHub last commit](https://img.shields.io/github/last-commit/nbeversl/urtext_neovim)](https://github.com/nbeversl/urtext_neovim) - An implementation of Urtext.
+- [losch/ztl](https://codeberg.org/losch/ztl) - A fast static note generator in a single binary with everything built-in.
 <!--lint disable double-link -->
 
 **[⬆ back to top](#contents)**
