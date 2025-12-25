@@ -278,7 +278,8 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [gdb-dashboard ![GitHub Repo Stars](https://img.shields.io/github/stars/cyrus-and/gdb-dashboard) ![GitHub last commit](https://img.shields.io/github/last-commit/cyrus-and/gdb-dashboard)](https://github.com/cyrus-and/gdb-dashboard) - Modular visual interface for GDB.
 - [loadtest ![GitHub Repo Stars](https://img.shields.io/github/stars/alexfernandez/loadtest) ![GitHub last commit](https://img.shields.io/github/last-commit/alexfernandez/loadtest)](https://github.com/alexfernandez/loadtest) - Run load tests.
 - [Step CI ![GitHub Repo Stars](https://img.shields.io/github/stars/stepci/stepci) ![GitHub last commit](https://img.shields.io/github/last-commit/stepci/stepci)](https://github.com/stepci/stepci) - API testing and QA framework.
-
+- [bats-core ![GitHub Repo Stars](https://img.shields.io/github/stars/bats-core/bats-core) ![GitHub last commit](https://img.shields.io/github/last-commit/bats-core/bats-core)](https://github.com/bats-core/bats-core) - Bash Automated Testing System.
+  
 ## Productivity
 
 - [doing ![GitHub Repo Stars](https://img.shields.io/github/stars/ttscoff/doing) ![GitHub last commit](https://img.shields.io/github/last-commit/ttscoff/doing)](https://github.com/ttscoff/doing/) - Keep track of what you’re doing and track what you’ve done.
