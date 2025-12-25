@@ -57,6 +57,7 @@ Inspired by the [awesome ![GitHub Repo Stars](https://img.shields.io/github/star
   - [Weather](#weather)
   - [Browser Replacement](#browser-replacement)
   - [Internet Speedtest](#internet-speedtest)
+  - [Science](#science)
 - [Command Line Learning](#command-line-learning)
 - [Data Manipulation](#data-manipulation)
   - [Processors](#processors)
@@ -472,6 +473,10 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [speed-test ![GitHub Repo Stars](https://img.shields.io/github/stars/sindresorhus/speed-test) ![GitHub last commit](https://img.shields.io/github/last-commit/sindresorhus/speed-test)](https://github.com/sindresorhus/speed-test) - `speedtest-net` wrapper with different UI.
 - [speedtest-cli ![GitHub Repo Stars](https://img.shields.io/github/stars/sivel/speedtest-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/sivel/speedtest-cli)](https://github.com/sivel/speedtest-cli) - Test internet bandwidth using speedtest.net.
 - [bandwhich ![GitHub Repo Stars](https://img.shields.io/github/stars/imsnif/bandwhich) ![GitHub last commit](https://img.shields.io/github/last-commit/imsnif/bandwhich)](https://github.com/imsnif/bandwhich) - Track bandwidth utilization by process.
+
+### Science
+
+- [periodic-table-cli ![GitHub Repo Stars](https://img.shields.io/github/stars/spirometaxas/periodic-table-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/spirometaxas/periodic-table-cli)](https://github.com/spirometaxas/periodic-table-cli) - View and explore the Periodic Table of Elements.
 
 ## Command Line Learning
 
