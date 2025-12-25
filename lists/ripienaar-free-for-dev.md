@@ -1996,7 +1996,7 @@ Update Time, five active automations, webhooks.
   * [Apache Guacamole™](https://guacamole.apache.org/) — Open source clientless remote desktop gateway
   * [RemSupp](https://remsupp.com) — On-demand support and permanent access to devices (2 sessions/day for free)
   * [RustDesk](https://rustdesk.com/) - Open source virtual/remote desktop infrastructure for everyone!
-  * [AnyDesk](https://anydesk.com) —  Free for 3 devices, no limits on the number and duration of sessions
+  * [AnyDesk](https://anydesk.com) ��  Free for 3 devices, no limits on the number and duration of sessions
 
 **[⬆️ Back to Top](#table-of-contents)**
 
