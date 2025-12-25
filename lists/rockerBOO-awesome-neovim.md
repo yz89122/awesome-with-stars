@@ -1730,6 +1730,7 @@ then it is not supported:
 
 ## Workflow
 
+- [letieu/jira.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/letieu/jira.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/letieu/jira.nvim)](https://github.com/letieu/jira.nvim) - Manage Jira tasks with a beautiful UI.
 - [m4xshen/hardtime.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/m4xshen/hardtime.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/m4xshen/hardtime.nvim)](https://github.com/m4xshen/hardtime.nvim) - Helping you establish good command workflow and habit.
 - [saxon1964/neovim-tips ![GitHub Repo Stars](https://img.shields.io/github/stars/saxon1964/neovim-tips) ![GitHub last commit](https://img.shields.io/github/last-commit/saxon1964/neovim-tips)](https://github.com/saxon1964/neovim-tips) - Provides hundreds of built-in Neovim tips, tricks, and shortcuts, with a custom picker interface and the ability to add your own tips.
 
