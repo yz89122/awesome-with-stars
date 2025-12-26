@@ -806,7 +806,7 @@ A ktfmt IntelliJ plugin is available from the plugin repository. To install it, 
 
 * 💪 Powerful: Detects unused, shadow and misplaced composer dependencies
 * ⚡ Performant: Scans 15 000 files in 2s!
-* ���️ Configurable: Fine-grained ignores via PHP config
+* ⚙️ Configurable: Fine-grained ignores via PHP config
 * 🕸️ Lightweight: No composer dependencies
 * 🍰 Easy-to-use: No config needed for first try
 * ✨ Compatible: PHP >= 7.2
