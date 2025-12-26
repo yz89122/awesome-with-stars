@@ -5175,7 +5175,7 @@ You can see in which language an app is written. Currently there are following l
 <div align="right"><a href="#contents">⬆️ Back to Top</a></div>
 
 <a id="images"></a>
-### 🖼��� Images (17)
+### 🖼️ Images (17)
 - [APNGb ![GitHub Repo Stars](https://img.shields.io/github/stars/shgodoroja/APNGb) ![GitHub last commit](https://img.shields.io/github/last-commit/shgodoroja/APNGb)](https://github.com/shgodoroja/APNGb) - macOS app which assembles and disassembles animated png files. 
 
   <details>
