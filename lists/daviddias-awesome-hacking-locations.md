@@ -208,7 +208,7 @@ Webpage: http://soho.bg/
 
 Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
-��� | ✔ | [4 Iskar str., Sofia, Bulgaria](https://goo.gl/maps/X5X42uPqFJu)  | Mon-Fri 9:00-19:00
+✔ | ✔ | [4 Iskar str., Sofia, Bulgaria](https://goo.gl/maps/X5X42uPqFJu)  | Mon-Fri 9:00-19:00
 
 
 ---------------------------------------------------------------
@@ -930,7 +930,7 @@ Wifi | Power | Climatization | Address | Open Hours
 
 Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
-✔ | ✔ | [R. António Nobre 17, 4450-618 Le��a da Palmeira](https://goo.gl/maps/4KR71dKDSxjjLzuR8) | 8:30am - 7:00pm
+✔ | ✔ | [R. António Nobre 17, 4450-618 Leça da Palmeira](https://goo.gl/maps/4KR71dKDSxjjLzuR8) | 8:30am - 7:00pm
 
 ![Screenshot from 2022-08-09 15-51-59](https://user-images.githubusercontent.com/19710754/183682207-df364826-3299-4945-9962-39e9996d177c.png)
 
