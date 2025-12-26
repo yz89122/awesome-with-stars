@@ -562,7 +562,7 @@ By default, govulncheck makes requests to the Go vulnerability database at https
 
 - [nargs ![GitHub Repo Stars](https://img.shields.io/github/stars/alexkohler/nargs) ![GitHub last commit](https://img.shields.io/github/last-commit/alexkohler/nargs)](https://github.com/alexkohler/nargs) — Finds unused arguments in function declarations.
 
-- [OSV-Scanner](https://osv.dev/) — Vulnerability scanner written in Go which uses the data provided by OSV.dev. Developed by Google to scan dependencies across multiple languages and package managers for known vulnerabilities. Supports container scanning, license scanning, and guided remediation. Works with lockfiles, SBOMs, and container images to identify security issues.
+- [OSV-Scanner](https://osv.dev/) ��� Vulnerability scanner written in Go which uses the data provided by OSV.dev. Developed by Google to scan dependencies across multiple languages and package managers for known vulnerabilities. Supports container scanning, license scanning, and guided remediation. Works with lockfiles, SBOMs, and container images to identify security issues.
 
 - [prealloc ![GitHub Repo Stars](https://img.shields.io/github/stars/alexkohler/prealloc) ![GitHub last commit](https://img.shields.io/github/last-commit/alexkohler/prealloc)](https://github.com/alexkohler/prealloc) — Finds slice declarations that could potentially be preallocated.
 
@@ -806,7 +806,7 @@ A ktfmt IntelliJ plugin is available from the plugin repository. To install it, 
 
 * 💪 Powerful: Detects unused, shadow and misplaced composer dependencies
 * ⚡ Performant: Scans 15 000 files in 2s!
-* ���️ Configurable: Fine-grained ignores via PHP config
+* ⚙️ Configurable: Fine-grained ignores via PHP config
 * 🕸️ Lightweight: No composer dependencies
 * 🍰 Easy-to-use: No config needed for first try
 * ✨ Compatible: PHP >= 7.2
