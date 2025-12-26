@@ -823,6 +823,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 
 ### Performance
 
+* [angular-rust-compiler ![GitHub Repo Stars](https://img.shields.io/github/stars/truonglvos/angular-rust-compiler) ![GitHub last commit](https://img.shields.io/github/last-commit/truonglvos/angular-rust-compiler)](https://github.com/truonglvos/angular-rust-compiler) - High-performance Angular AOT compiler written in Rust, providing full static compilation of Angular components and directives.
 * [detective ![GitHub Repo Stars](https://img.shields.io/github/stars/angular-architects/detective) ![GitHub last commit](https://img.shields.io/github/last-commit/angular-architects/detective)](https://github.com/angular-architects/detective) - Uses forensic code analysis at the architectural level to reveal hidden patterns within your codebase.
 * [esbuild Bundle Size Analyzer](https://esbuild.github.io/analyze/) - Visualize the contents of your esbuild bundle.
 * [hawkeye ![GitHub Repo Stars](https://img.shields.io/github/stars/angular-experts-io/hawkeye) ![GitHub last commit](https://img.shields.io/github/last-commit/angular-experts-io/hawkeye)](https://github.com/angular-experts-io/hawkeye) - A tool that visualizes and optimizes JavaScript bundles, revealing modules, dependencies, and assets affecting performance.
@@ -1142,6 +1143,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [angular.ng ![GitHub Repo Stars](https://img.shields.io/github/stars/desoga10/angular.ng) ![GitHub last commit](https://img.shields.io/github/last-commit/desoga10/angular.ng)](https://github.com/desoga10/angular.ng) - An open-source productivity dashboard built with Angular and Supabase.
 * [angluar-crm ![GitHub Repo Stars](https://img.shields.io/github/stars/minhpham-mew/angluar-crm) ![GitHub last commit](https://img.shields.io/github/last-commit/minhpham-mew/angluar-crm)](https://github.com/minhpham-mew/angluar-crm) - Angular CRM template with contact management, deal tracking, and analytics.
 * [ngx-admin-v20 ![GitHub Repo Stars](https://img.shields.io/github/stars/sebbegamer2222/ngx-admin-v20) ![GitHub last commit](https://img.shields.io/github/last-commit/sebbegamer2222/ngx-admin-v20)](https://github.com/sebbegamer2222/ngx-admin-v20) - With this admin dashboard, you’ll enjoy a modern Bootstrap 5 UI with SASS customization, reusable components, and a sleek material theme.
+* [nestjs-angular-starter ![GitHub Repo Stars](https://img.shields.io/github/stars/tivanov/nestjs-angular-starter) ![GitHub last commit](https://img.shields.io/github/last-commit/tivanov/nestjs-angular-starter)](https://github.com/tivanov/nestjs-angular-starter) - A full‑stack starter template featuring a NestJS backend and Angular frontend, complete with authentication, user management, and common infrastructure patterns.
 
 ### Paid Templates
 
@@ -1982,6 +1984,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [convex-angular ![GitHub Repo Stars](https://img.shields.io/github/stars/azhukau-dev/convex-angular) ![GitHub last commit](https://img.shields.io/github/last-commit/azhukau-dev/convex-angular)](https://github.com/azhukau-dev/convex-angular) - The Angular client for Convex.
 * [secure-client-store ![GitHub Repo Stars](https://img.shields.io/github/stars/msaadart/secure-client-store) ![GitHub last commit](https://img.shields.io/github/last-commit/msaadart/secure-client-store)](https://github.com/msaadart/secure-client-store) - Universal TypeScript library for AES-256-GCM client-side encryption (works in browsers & Node.js).
 * [ngx-persist ![GitHub Repo Stars](https://img.shields.io/github/stars/khvedela/ngx-persist) ![GitHub last commit](https://img.shields.io/github/last-commit/khvedela/ngx-persist)](https://github.com/khvedela/ngx-persist) - A type‑safe, signal‑based persistent state utility for Angular, syncing with localStorage, sessionStorage, IndexedDB, or custom backends.
+* [strata-storage ![GitHub Repo Stars](https://img.shields.io/github/stars/aoneahsan/strata-storage) ![GitHub last commit](https://img.shields.io/github/last-commit/aoneahsan/strata-storage)](https://github.com/aoneahsan/strata-storage) - Zero-dependency universal storage plugin providing a unified API for all storage operations across web, Android, and iOS platforms.
 
 ### Tooltips
 
