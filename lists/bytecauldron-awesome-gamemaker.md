@@ -183,7 +183,7 @@ Things that work with project files or GameMaker itself rather than being someth
 - [Duck ![GitHub Repo Stars](https://img.shields.io/github/stars/imlazyeye/duck) ![GitHub last commit](https://img.shields.io/github/last-commit/imlazyeye/duck)](https://github.com/imlazyeye/duck) - A fast GML analyzer to enforce code styling and detect errors.
 - [Gobo ![GitHub Repo Stars](https://img.shields.io/github/stars/Pizzaandy/Gobo) ![GitHub last commit](https://img.shields.io/github/last-commit/Pizzaandy/Gobo)](https://github.com/Pizzaandy/Gobo/) - An opinionated code formatter for GML.
 - [Inspectron ![GitHub Repo Stars](https://img.shields.io/github/stars/shdwcat/Inspectron) ![GitHub last commit](https://img.shields.io/github/last-commit/shdwcat/Inspectron)](https://github.com/shdwcat/Inspectron) - A fluent API for easily creating GameMaker debug views.
-- [GMPulse](https://topherlicious.itch.io/gmpulse) - A runtime inspector and control panel. 💸
+- [GMPulse](https://topherlicious.itch.io/gmpulse) - A runtime inspector and control panel. ����
 - [Lookout ![GitHub Repo Stars](https://img.shields.io/github/stars/glebtsereteli/Lookout) ![GitHub last commit](https://img.shields.io/github/last-commit/glebtsereteli/Lookout)](https://github.com/glebtsereteli/Lookout) - Helpful debug overlay views.
 
 ## Input Handling
