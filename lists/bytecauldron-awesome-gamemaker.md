@@ -252,7 +252,7 @@ Things that work with project files or GameMaker itself rather than being someth
 - [Verlet Integration Library](https://jamjamteam.itch.io/verlet-integration-gamemake-studio-2) - Verlet integration by Sarek Lambert.
 - [GMVerlet-Integration ![GitHub Repo Stars](https://img.shields.io/github/stars/tabularelf/GMVerlet-Integration) ![GitHub last commit](https://img.shields.io/github/last-commit/tabularelf/GMVerlet-Integration)](https://github.com/tabularelf/GMVerlet-Integration) - Verlet integration example used for visuals.
 - [Top-Down Movement & Collision](https://pixelatedpope.itch.io/tdmc/devlog/156556/converting-tdmc-to-use-tiles) - Robust object-based collision system from Pixelated Pope.
-- [GMPhysX](https://bytecauldron.itch.io/gmphysx) - Adds NVIDIA PhysX to GameMaker for physics-based 2D/3D games. 💸
+- [GMPhysX](https://bytecauldron.itch.io/gmphysx) - Adds NVIDIA PhysX to GameMaker for physics-based 2D/3D games. ����
 
 ## Sprites
 
@@ -323,7 +323,7 @@ Things that work with project files or GameMaker itself rather than being someth
 - [Fast Blur Area](https://foxyofjungle.itch.io/foxey-blur-area) - Fast alpha blur shader effect in two lines of code. 💸
 - [Transitions Pro](https://foxyofjungle.itch.io/foxey-transitions-pro) - 42 customizable transitions. 💸
 - [Sketch Cartoon Shader](https://foxyofjungle.itch.io/sketch-cartoon-shader) - Turn your game visuals into a drawing/sketch style. 💸
-- [2D Water Reflections](https://foxyofjungle.itch.io/water-reflective) - Customizable water object to easily display reflections. ���
+- [2D Water Reflections](https://foxyofjungle.itch.io/water-reflective) - Customizable water object to easily display reflections. 💸
 - [BJRTFX](https://zikbakguru.itch.io/bjrtfx) - Zik's CRT Utility Shader.
 - [bktGlitch](https://odditica.itch.io/bktglitch) - Glitch shader.
 - [H O R R I - F I](https://gizmo199.itch.io/horri-fi) - VHS Shader.
