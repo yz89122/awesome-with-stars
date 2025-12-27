@@ -59,6 +59,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 ### UI & End-to-End Testing
 - [BugBug](https://bugbug.io) - No-code test automation tool for web applications.
 - [Courgette](https://courgette-testing.com) - Declarative BDD UI testing with Gherkin.
+- [DeviceLab](https://devicelab.dev) - Private device lab infrastructure for mobile testing. Connect your own iOS/Android devices and run Appium, Maestro, or XCUITest remotely via WebRTC. Zero-trust architecture keeps test data on your network.
 - [Ferrum ![GitHub Repo Stars](https://img.shields.io/github/stars/rubycdp/ferrum) ![GitHub last commit](https://img.shields.io/github/last-commit/rubycdp/ferrum)](https://github.com/rubycdp/ferrum) - Chrome automation via CDP with a high-level Ruby API.
 - [Hyperbrowser](https://hyperbrowser.ai) - Scalable headless browser testing with built-in session recording.
 - [Hercules ![GitHub Repo Stars](https://img.shields.io/github/stars/test-zeus-ai/testzeus-hercules) ![GitHub last commit](https://img.shields.io/github/last-commit/test-zeus-ai/testzeus-hercules)](https://github.com/test-zeus-ai/testzeus-hercules) - Open-source end-to-end testing agent.
