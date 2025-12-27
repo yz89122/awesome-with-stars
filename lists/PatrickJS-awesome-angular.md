@@ -770,6 +770,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [angular-sitemap-generator ![GitHub Repo Stars](https://img.shields.io/github/stars/borisonekenobi/angular-sitemap-generator) ![GitHub last commit](https://img.shields.io/github/last-commit/borisonekenobi/angular-sitemap-generator)](https://github.com/borisonekenobi/angular-sitemap-generator) - Generates a `sitemap.xml` file for an Angular project.
 * [cem-angular-generator ![GitHub Repo Stars](https://img.shields.io/github/stars/lit-migrators/cem-angular-generator) ![GitHub last commit](https://img.shields.io/github/last-commit/lit-migrators/cem-angular-generator)](https://github.com/lit-migrators/cem-angular-generator) - Generate Angular wrapper libraries from Custom Elements Manifest output.
 * [AutoFormsBuilderFilesGenerator ![GitHub Repo Stars](https://img.shields.io/github/stars/XHAlawa/AutoFormsBuilderFilesGenerator) ![GitHub last commit](https://img.shields.io/github/last-commit/XHAlawa/AutoFormsBuilderFilesGenerator)](https://github.com/XHAlawa/AutoFormsBuilderFilesGenerator) - Generate Angular forms from OpenAPI/Swagger with `ng-openapi-gen`, featuring strong typing, validation, and UI helpers.
+* [ngx-autogen ![GitHub Repo Stars](https://img.shields.io/github/stars/barcidev/ngx-autogen) ![GitHub last commit](https://img.shields.io/github/last-commit/barcidev/ngx-autogen)](https://github.com/barcidev/ngx-autogen) - A set of schematics that streamline Angular workflows by generating best‑practice code and reducing repetitive setup tasks.
 
 ### Internationalization
 
@@ -1842,6 +1843,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [@farfadev/ngx-lib ![GitHub Repo Stars](https://img.shields.io/github/stars/farfadev/ngx-lib) ![GitHub last commit](https://img.shields.io/github/last-commit/farfadev/ngx-lib)](https://github.com/farfadev/ngx-lib) - Repository of Angular libraries from [Farfadev](https://github.com/farfadev), usable in any application.
 * [ngx-security ![GitHub Repo Stars](https://img.shields.io/github/stars/xbranch/ngx-security) ![GitHub last commit](https://img.shields.io/github/last-commit/xbranch/ngx-security)](https://github.com/xbranch/ngx-security) - A modular Angular library for authentication, roles, and permissions management.
 * [ng-catbee ![GitHub Repo Stars](https://img.shields.io/github/stars/catbee-technologies/ng-catbee) ![GitHub last commit](https://img.shields.io/github/last-commit/catbee-technologies/ng-catbee)](https://github.com/catbee-technologies/ng-catbee) - A collection of Angular libraries developed and maintained by the [Catbee](https://catbee.in/docs/@ng-catbee/) team.
+* [ngx-persian ![GitHub Repo Stars](https://img.shields.io/github/stars/alihoseiny/ngx-persian) ![GitHub last commit](https://img.shields.io/github/last-commit/alihoseiny/ngx-persian)](https://github.com/alihoseiny/ngx-persian) - A full-featured toolset for Persian Applications.
 
 ### Modals
 
@@ -2099,6 +2101,7 @@ for the creation of web applications developed with Angular.
 * [simplematcomponents ![GitHub Repo Stars](https://img.shields.io/github/stars/wobkenh/simplematcomponents) ![GitHub last commit](https://img.shields.io/github/last-commit/wobkenh/simplematcomponents)](https://github.com/wobkenh/simplematcomponents) - Set of Angular components that fit into or use Angular Material Design.
 * [Angular Material Dev UI](https://ui.angular-material.dev/home) - One place stop for developers to explore components and blocks for their Angular Material and Tailwind CSS based applications.
 * [nmce ![GitHub Repo Stars](https://img.shields.io/github/stars/zijianhuang/nmce) ![GitHub last commit](https://img.shields.io/github/last-commit/zijianhuang/nmce)](https://github.com/zijianhuang/nmce) - Suite of Angular Material extensions with reusable code and UI enhancements for complex, data‑rich business apps.
+* [NgxMatFacetToolkit ![GitHub Repo Stars](https://img.shields.io/github/stars/drsutphin/NgxMatFacetToolkit) ![GitHub last commit](https://img.shields.io/github/last-commit/drsutphin/NgxMatFacetToolkit)](https://github.com/drsutphin/NgxMatFacetToolkit) - Angular standalone facet filtering toolkit with Material UI.
 
 ### UI Libraries built on Tailwind CSS
 
