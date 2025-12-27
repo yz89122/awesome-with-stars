@@ -258,6 +258,7 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 
 * [unit-threaded ![GitHub Repo Stars](https://img.shields.io/github/stars/atilaneves/unit-threaded) ![GitHub last commit](https://img.shields.io/github/last-commit/atilaneves/unit-threaded)](https://github.com/atilaneves/unit-threaded) - Multi-threaded unit test framework
 * [silly](https://gitlab.com/AntonMeep/silly) - Better test runner for the D programming language. No nonsense.
+* [fluent-asserts ![GitHub Repo Stars](https://img.shields.io/github/stars/gedaiu/fluent-asserts) ![GitHub last commit](https://img.shields.io/github/last-commit/gedaiu/fluent-asserts)](https://github.com/gedaiu/fluent-asserts) - Fluent assertion framework with expressive syntax and detailed error messages.
 
 ## Javascript
 
