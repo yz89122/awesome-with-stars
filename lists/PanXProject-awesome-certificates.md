@@ -266,7 +266,7 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 | <a href="https://learn.snowflake.com/en/courses/OD-ESS-DWW/" target="_blank" rel="noopener noreferrer">Data Warehousing Workshop</a> | Snowflake |Beginner|6 | 🏅|
 | <a href="https://learn.snowflake.com/en/courses/OD-ESS-CMCW/" target="_blank" rel="noopener noreferrer">Collaboration, Marketplace & Cost Estimation Workshop</a> | Snowflake |Beginner|6 | 🏅|
 | <a href="https://learn.snowflake.com/en/courses/OD-ESS-DABW/" target="_blank" rel="noopener noreferrer">Data Application Builders Workshop</a> | Snowflake |Beginner|6 | 🏅|
-| <a href="https://learn.snowflake.com/en/courses/OD-ESS-DLKW/" target="_blank" rel="noopener noreferrer">Data Lake Workshop</a> | Snowflake |Beginner|6 | ��|
+| <a href="https://learn.snowflake.com/en/courses/OD-ESS-DLKW/" target="_blank" rel="noopener noreferrer">Data Lake Workshop</a> | Snowflake |Beginner|6 | 🏅|
 | <a href="https://learn.snowflake.com/en/courses/OD-ESS-DNGW/" target="_blank" rel="noopener noreferrer">Data Engineering Workshop</a> | Snowflake |Beginner|6 | 🏅|
 | <a href="https://learn.snowflake.com/en/courses/OD-ESS-DSCW/" target="_blank" rel="noopener noreferrer">Data Science Workshop</a> | Snowflake |Beginner|6 | 🏅|
 
@@ -518,7 +518,7 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 | <a href="https://tryhackme.com/path/outline/blueteam" target="_blank" rel="noopener noreferrer">Cyber Defense</a> | TryHackMe | Intermediate | 48 | 🏆 |
 | <a href="https://tryhackme.com/path/outline/redteaming" target="_blank" rel="noopener noreferrer">Red Teaming</a> | TryHackMe | Intermediate | 48 | 🏆 |
 | <a href="https://tryhackme.com/path/outline/pentesting" target="_blank" rel="noopener noreferrer">Offensive Testing</a> | TryHackMe | Intermediate | 47 | 🏆 |
-| <a href="https://tryhackme.com/path/outline/pentestplus" target="_blank" rel="noopener noreferrer">Comptia Pentest+</a> | TryHackMe | Beginner | 51 | 🏆 |
+| <a href="https://tryhackme.com/path/outline/pentestplus" target="_blank" rel="noopener noreferrer">Comptia Pentest+</a> | TryHackMe | Beginner | 51 | �� |
 | <a href="https://tryhackme.com/path/outline/web" target="_blank" rel="noopener noreferrer">Web Fundamentals</a> | TryHackMe | Beginner | 32 | 🏆 |
 | <a href="https://www.isc2.org/certifications/cc" target="_blank" rel="noopener noreferrer">Certified in Cybersecurity</a> | ISC2 | Beginner | 14 | <a href="https://www.credly.com/org/isc2/badge/certified-in-cybersecurity-cc" target="_blank" rel="noopener noreferrer">🏅</a> |
 | <a href="https://training.fortinet.com/local/staticpage/view.php?page=fcf_cybersecurity" target="_blank" rel="noopener noreferrer">Fortinet Certified Fundamentals in Cybersecurity</a> | Fortinet Training Institute | Beginner | 10 | <a href="https://www.credly.com/org/fortinet/badge/fortinet-certified-fundamentals-cybersecurity" target="_blank" rel="noopener noreferrer">🏆</a> |

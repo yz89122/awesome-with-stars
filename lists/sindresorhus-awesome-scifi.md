@@ -72,7 +72,7 @@ This intense linguistic thriller will change the way you think about language. -
   > Babel-17 is all about the power of language. Humanity, which has spread throughout the universe, is involved in a war with the Invaders, who have been covertly assassinating officials and sabotaging spaceships. The only clues humanity has to go on are strange alien messages that have been intercepted in space. Poet and linguist Rydra Wong is determined to understand the language and stop the alien threat.
 </details>
 
-#### [Barsoom series](https://www.goodreads.com/series/43942-barsoom) (1912-1927) _by [Edgar Rice Burroughs](https://en.wikipedia.org/wiki/Edgar_Rice_Burroughs)_ [3.8] ���
+#### [Barsoom series](https://www.goodreads.com/series/43942-barsoom) (1912-1927) _by [Edgar Rice Burroughs](https://en.wikipedia.org/wiki/Edgar_Rice_Burroughs)_ [3.8] 🌟
 
 Now more than a century old, has that unique writing style you can only find in adventure classics. - [@uraimo](https://github.com/uraimo)
 
@@ -1261,7 +1261,7 @@ _(And the sequels in the [Void Trilogy](https://www.goodreads.com/series/43520-v
 <details>
   <summary>Description</summary>
 
-  > Deploying invulnerable twenty-fifth-century soldiers called Skins, Zantiu-Braun’s corporate starships loot entire planets. But as the Skins invade bucolic Thallspring, Z-B’s strategy is about to go awry, all because of: Sgt. Lawrence Newton, a dreamer whose twenty years as a Skin have destroyed his hopes and desires; Denise Ebourn, a school teacher and resistance leader whose guerrilla tactics rival those of Che Guevara and George Washington and Simon Roderick, the director who serves Z-B with a dedication that not even he himself can understand. Grimly determined to steal, or protect, a mysterious treasure, the three players engage in a private war that will explode into unimaginable quests for personal grace… or galactic domination.
+  > Deploying invulnerable twenty-fifth-century soldiers called Skins, Zantiu-Braun’s corporate starships loot entire planets. But as the Skins invade bucolic Thallspring, Z-B’s strategy is about to go awry, all because of: Sgt. Lawrence Newton, a dreamer whose twenty years as a Skin have destroyed his hopes and desires; Denise Ebourn, a school teacher and resistance leader whose guerrilla tactics rival those of Che Guevara and George Washington and Simon Roderick, the director who serves Z-B with a dedication that not even he himself can understand. Grimly determined to steal, or protect, a mysterious treasure, the three players engage in a private war that will explode into unimaginable quests for personal grace��� or galactic domination.
 </details>
 
 #### [House of Suns](https://www.goodreads.com/book/show/1126719.House_of_Suns) (2008) _by [Alastair Reynolds](https://en.wikipedia.org/wiki/Alastair_Reynolds)_ [4.1]
