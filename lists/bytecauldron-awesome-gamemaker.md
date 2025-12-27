@@ -252,7 +252,7 @@ Things that work with project files or GameMaker itself rather than being someth
 - [Verlet Integration Library](https://jamjamteam.itch.io/verlet-integration-gamemake-studio-2) - Verlet integration by Sarek Lambert.
 - [GMVerlet-Integration ![GitHub Repo Stars](https://img.shields.io/github/stars/tabularelf/GMVerlet-Integration) ![GitHub last commit](https://img.shields.io/github/last-commit/tabularelf/GMVerlet-Integration)](https://github.com/tabularelf/GMVerlet-Integration) - Verlet integration example used for visuals.
 - [Top-Down Movement & Collision](https://pixelatedpope.itch.io/tdmc/devlog/156556/converting-tdmc-to-use-tiles) - Robust object-based collision system from Pixelated Pope.
-- [GMPhysX](https://bytecauldron.itch.io/gmphysx) - Adds NVIDIA PhysX to GameMaker for physics-based 2D/3D games. ����
+- [GMPhysX](https://bytecauldron.itch.io/gmphysx) - Adds NVIDIA PhysX to GameMaker for physics-based 2D/3D games. 💸
 
 ## Sprites
 
