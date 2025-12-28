@@ -1088,6 +1088,7 @@ then it is not supported:
 - [wsdjeg/ctags.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/wsdjeg/ctags.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/wsdjeg/ctags.nvim)](https://github.com/wsdjeg/ctags.nvim) - Generate tags files and update tags option automatically.
 - [QuentinGruber/pomodoro.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/QuentinGruber/pomodoro.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/QuentinGruber/pomodoro.nvim)](https://github.com/QuentinGruber/pomodoro.nvim) - Use the Pomodoro Technique with built-in session tracking and break reminders.
 - [leo-alvarenga/quoth.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/leo-alvarenga/quoth.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/leo-alvarenga/quoth.nvim)](https://github.com/leo-alvarenga/quoth.nvim) - A lightweight, configurable random quote provider with lazy loading, custom tables, and filters.
+- [stikypiston/cheaty.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/stikypiston/cheaty.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/stikypiston/cheaty.nvim)](https://github.com/stikypiston/cheaty.nvim) - A simple, configurable cheatsheet.
 
 ### CSV Files
 
