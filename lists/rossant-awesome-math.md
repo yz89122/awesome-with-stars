@@ -319,7 +319,7 @@ All resources are freely available except those with a 💲 icon.
 * 📝 [Algebraic Methods](https://feog.github.io/AA11.pdf) - F. Oggier
 * 📝 [Abstract Algebra : Theory and Applications](http://abstract.ups.edu/download/aata-20150812.pdf) - Thomas W. Judson, Robert A. Beezer (Austin State University)
 * 📝 [An Undergraduate Course in Abstract Algebra](http://www.maths.usyd.edu.au/u/bobh/UoS/rfwhole.pdf) - Robert Howlett
-* ��� [Elements of Abstract and Linear Algebra](http://www.math.miami.edu/~ec/book) - E.H. Connell (University of Miami)
+* 📝 [Elements of Abstract and Linear Algebra](http://www.math.miami.edu/~ec/book) - E.H. Connell (University of Miami)
 * 📝 [Abstract Algebra: The Basic Graduate Year](http://www.math.uiuc.edu/~r-ash/Algebra.html) - Robert Ash
 * 📝 [Abstract Algebra: Harvard Extension (Archived)](https://web.archive.org/web/20150528171650/extension.harvard.edu/open-learning-initiative/abstract-algebra) - Benedict Gross
 * 📝 [Abstract Algebra: Harvard Extension Videos](https://www.youtube.com/playlist?list=PLA58AC5CABC1321A3) - Benedict Gross
@@ -601,7 +601,7 @@ All resources are freely available except those with a 💲 icon.
 * 📝 [A Concise Introduction to Numerical Analysis](http://www.ima.umn.edu/~arnold/597.00-01/nabook.pdf) - Douglas N. Arnold (University of Minnesota)
 * 📝 [Numerical Analysis](http://people.cs.uchicago.edu/~ridg/newna/nalrs.pdf) - L. Ridgway Scott
 * 📝 [Lectures In Basic Computational Numerical Analysis](https://uknowledge.uky.edu/cgi/viewcontent.cgi?article=1000&context=math_textbooks) - J. M. McDonough (University of Kentucky)
-* ��� [Advanced Numerical Methods and Their Applications to Industrial Problems: Adaptive Finite Element Methods](https://user.math.uni-bremen.de/schmi/SS04/YSU_Notes.pdf) - Alfred Schmidt, Arsen Narimanyan
+* 📝 [Advanced Numerical Methods and Their Applications to Industrial Problems: Adaptive Finite Element Methods](https://user.math.uni-bremen.de/schmi/SS04/YSU_Notes.pdf) - Alfred Schmidt, Arsen Narimanyan
 * 📝 [Numerical Analysis for Engineers](https://ece.uwaterloo.ca/~dwharder/nm/) - Douglas Wilhelm Harder
 * 📝🎥 [Advanced Linear Algebra: Foundations to Frontiers](https://www.cs.utexas.edu/users/flame/laff/alaff/frontmatter.html) - Robert van de Geijn, Margaret Myers (University of Texas at Austin)
 
