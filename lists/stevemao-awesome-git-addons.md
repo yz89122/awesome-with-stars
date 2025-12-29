@@ -1833,7 +1833,7 @@ gitu://ŪĪАϔEäḝЃȣϟṈӛŀї
 $ git url -q -p lib/common.sh	# -q - quiet, -p - path
 gitu://eḶȸṋ0oǗȟЗÛjȩMżEäḝЃȣϟṈӛŀї
 
-$ git url //eḶȸṋ0oǗȟЗÛjȩMżEäḝЃ��ϟṈӛŀї
+$ git url //eḶȸṋ0oǗȟЗÛjȩMżEäḝЃȣϟṈӛŀї
 Decoding... OUTPUT is:
 
 Protocol:  https
