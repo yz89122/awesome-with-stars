@@ -501,7 +501,7 @@ Fprettify is a tool that provides consistent whitespace, indentation, and delimi
 
 - [errwrap ![GitHub Repo Stars](https://img.shields.io/github/stars/fatih/errwrap) ![GitHub last commit](https://img.shields.io/github/last-commit/fatih/errwrap)](https://github.com/fatih/errwrap) — Wrap and fix Go errors with the new %w verb directive.  This tool analyzes fmt.Errorf() calls and reports calls that contain a verb directive that  is different than the new %w verb directive introduced in Go v1.13.  It's also capable of rewriting calls to use the new %w wrap verb directive.
 
-- [flen ![GitHub Repo Stars](https://img.shields.io/github/stars/lafolle/flen) ![GitHub last commit](https://img.shields.io/github/last-commit/lafolle/flen)](https://github.com/lafolle/flen) — Get info on length of functions in a Go package.
+- [flen ![GitHub Repo Stars](https://img.shields.io/github/stars/lafolle/flen) ![GitHub last commit](https://img.shields.io/github/last-commit/lafolle/flen)](https://github.com/lafolle/flen) �� Get info on length of functions in a Go package.
 
 - **Go Meta Linter** :warning: — Concurrently run Go lint tools and normalise their output. Use `golangci-lint` for new projects.
 
