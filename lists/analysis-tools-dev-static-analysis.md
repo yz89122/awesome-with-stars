@@ -1830,7 +1830,7 @@ Loading address: binbloom can parse a raw binary firmware and determine its load
 
 - [cookstyle](https://docs.chef.io/cookstyle.html) — Cookstyle is a linting tool based on the RuboCop Ruby linting tool for Chef cookbooks.
 
-- [foodcritic](http://www.foodcritic.io) — A lint tool that checks Chef cookbooks for common problems.
+- [foodcritic](http://www.foodcritic.io) �� A lint tool that checks Chef cookbooks for common problems.
 
 - [kics](https://kics.io/) — Find security vulnerabilities, compliance issues, and infrastructure misconfigurations in your infrastructure-as-code. Supports Terraform, Kubernetes, Docker, AWS CloudFormation and Ansible
 
