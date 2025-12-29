@@ -238,7 +238,7 @@
 ## Workflow
 
 - [Luigi ![GitHub Repo Stars](https://img.shields.io/github/stars/spotify/luigi) ![GitHub last commit](https://img.shields.io/github/last-commit/spotify/luigi)](https://github.com/spotify/luigi) - A Python module that helps you build complex pipelines of batch jobs.
-- [CronQ ![GitHub Repo Stars](https://img.shields.io/github/stars/seatgeek/cronq) ![GitHub last commit](https://img.shields.io/github/last-commit/seatgeek/cronq)](https://github.com/seatgeek/cronq) - An application cron-like system. [Used](https://chairnerd.seatgeek.com/building-out-the-seatgeek-data-pipeline/) w/Luige. Deprecated.
+- [CronQ ![GitHub Repo Stars](https://img.shields.io/github/stars/seatgeek/cronq) ![GitHub last commit](https://img.shields.io/github/last-commit/seatgeek/cronq)](https://github.com/seatgeek/cronq) - An application cron-like system. [Used](https://chairnerd.seatgeek.com/building-out-the-seatgeek-data-pipeline/) w/Luigi. Deprecated.
 - [Cascading](https://www.cascading.org/) - Java based application development platform.
 - [Airflow ![GitHub Repo Stars](https://img.shields.io/github/stars/apache/airflow) ![GitHub last commit](https://img.shields.io/github/last-commit/apache/airflow)](https://github.com/apache/airflow) - A system to programmatically author, schedule, and monitor data pipelines.
 - [Azkaban](https://azkaban.github.io/) - A batch workflow job scheduler created at LinkedIn to run Hadoop jobs. Azkaban resolves the ordering through job dependencies and provides an easy-to-use web user interface to maintain and track your workflows.

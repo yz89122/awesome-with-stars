@@ -20,6 +20,7 @@ Feel free to suggest other missing nice projects either by comments or pull requ
 - [Game dev](#game-dev)
 - [Communications](#communications)
 	- [Network](#network)
+	- [Cloud & remote services](#cloud-remote-services)
 	- [Serial port](#serial-port)
 	- [Event bus](#event-bus)
 - [GUI](#gui)
@@ -29,7 +30,6 @@ Feel free to suggest other missing nice projects either by comments or pull requ
 	- [Viewers](#viewers)
 	- [Other GUI](#other-gui)
 - [Database](#database)
-- [Cloud Services](#cloud-services)
 - [Scripting](#scripting)
 - [Machine Learning](#machine-learning)
 - [Non-visual Classes/Utils](#non-visual-classesutils)
@@ -294,10 +294,6 @@ Feel free to suggest other missing nice projects either by comments or pull requ
 * [Delphi IOCP ![GitHub Repo Stars](https://img.shields.io/github/stars/ymofen/diocp-v5) ![GitHub last commit](https://img.shields.io/github/last-commit/ymofen/diocp-v5)](https://github.com/ymofen/diocp-v5). `[Delphi]` Implements several network classes based on Windows IOCP technology. Socket, HTTP, Ntrip servers and clients.
 // *Quite well documented and good styled code but Chinese only.*
 
-* [delphi-aws-ses ![GitHub Repo Stars](https://img.shields.io/github/stars/monde-sistemas/delphi-aws-ses) ![GitHub last commit](https://img.shields.io/github/last-commit/monde-sistemas/delphi-aws-ses)](https://github.com/monde-sistemas/delphi-aws-ses). `[Delphi]` Amazon Simple Email Service (AWS SES) library for Delphi applications.
-
-* [delphi-slackbot ![GitHub Repo Stars](https://img.shields.io/github/stars/monde-sistemas/delphi-slackbot) ![GitHub last commit](https://img.shields.io/github/last-commit/monde-sistemas/delphi-slackbot)](https://github.com/monde-sistemas/delphi-slackbot). `[Delphi]` Delphi library to send messages on [Slack](https://slack.com) using slackbot.
-
 * [Kitto ![GitHub Repo Stars](https://img.shields.io/github/stars/EtheaDev/kitto) ![GitHub last commit](https://img.shields.io/github/last-commit/EtheaDev/kitto)](https://github.com/EtheaDev/kitto). `[Delphi]` Allows to create Rich Internet Applications based on a data model that can be mapped onto any database. The client-side part uses ExtJS (through the ExtPascal library) to create a fully AJAX application, allowing you to build standard and advanced data-manipulating forms in a fraction of the time. Kitto is aimed at Delphi developers that need to create web application without delving into the intricacies of HTML, CSS, JavaScript or learning to use a particular library such as ExtJS, yet it allows access to the bare metal if required. Also newer versions [Kitto 2 ![GitHub Repo Stars](https://img.shields.io/github/stars/EtheaDev/kitto2) ![GitHub last commit](https://img.shields.io/github/last-commit/EtheaDev/kitto2)](https://github.com/EtheaDev/kitto2) and [Kitto 3 ![GitHub Repo Stars](https://img.shields.io/github/stars/EtheaDev/kitto3) ![GitHub last commit](https://img.shields.io/github/last-commit/EtheaDev/kitto3)](https://github.com/EtheaDev/kitto3) are available.
 
 * [Daraja Framework ![GitHub Repo Stars](https://img.shields.io/github/stars/michaelJustin/daraja-framework) ![GitHub last commit](https://img.shields.io/github/last-commit/michaelJustin/daraja-framework)](https://github.com/michaelJustin/daraja-framework). `[Delphi]` `[FPC]` Lightweight HTTP server framework for Object Pascal (Delphi 2009+ / Free Pascal 3.0). Implementing RESTful services is supported via the [daraja-restful ![GitHub Repo Stars](https://img.shields.io/github/stars/michaelJustin/daraja-restful) ![GitHub last commit](https://img.shields.io/github/last-commit/michaelJustin/daraja-restful)](https://github.com/michaelJustin/daraja-restful) extension.
@@ -308,21 +304,13 @@ Feel free to suggest other missing nice projects either by comments or pull requ
 
 * [mORMot](#general-libraries). RESTful ORM and SOA services via interfaces over high performance HTTP server, MVC/MVVM web sites
 
-* [SDriver ![GitHub Repo Stars](https://img.shields.io/github/stars/andrea-magni/SDriver) ![GitHub last commit](https://img.shields.io/github/last-commit/andrea-magni/SDriver)](https://github.com/andrea-magni/SDriver). `[Delphi]` Delphi wrapper for [Slack](https://slack.com) API.
-
 * [Hprose for Delphi/Lazarus ![GitHub Repo Stars](https://img.shields.io/github/stars/hprose/hprose-delphi) ![GitHub last commit](https://img.shields.io/github/last-commit/hprose/hprose-delphi)](https://github.com/hprose/hprose-delphi). `[Delphi]` `[FPC]` High Performance Remote Object Service Engine. It is a modern, lightweight, cross-language, cross-platform, object-oriented, high performance, remote dynamic communication middleware. It is not only easy to use, but powerful. This project is the implementation of Hprose for Delphi/Lazarus.
-
-* [TelegaPi ![GitHub Repo Stars](https://img.shields.io/github/stars/rareMaxim/TelegaPi) ![GitHub last commit](https://img.shields.io/github/last-commit/rareMaxim/TelegaPi)](https://github.com/rareMaxim/TelegaPi). `[Delphi]` Library for working with Telegram messenger Bot API in Delphi.
-
-* [fp-telegram ![GitHub Repo Stars](https://img.shields.io/github/stars/Al-Muhandis/fp-telegram) ![GitHub last commit](https://img.shields.io/github/last-commit/Al-Muhandis/fp-telegram)](https://github.com/Al-Muhandis/fp-telegram). `[FPC]` Library for working with Telegram bots API in FreePascal/Lazarus.
 
 * [DelphiZeroMQ ![GitHub Repo Stars](https://img.shields.io/github/stars/grijjy/DelphiZeroMQ) ![GitHub last commit](https://img.shields.io/github/last-commit/grijjy/DelphiZeroMQ)](https://github.com/grijjy/DelphiZeroMQ). `[Delphi]` Delphi implementation of ZeroMQ Majordomo protocol and CZMQ high level binding.
 
 * [GrijjyFoundation](#general-libraries). IOCP/EPOLL sockets, socket pools, HTTP, HTTP/2, OpenSSL, ProtocolBuffers.
 
 * [STOMP Client ![GitHub Repo Stars](https://img.shields.io/github/stars/danieleteti/delphistompclient) ![GitHub last commit](https://img.shields.io/github/last-commit/danieleteti/delphistompclient)](https://github.com/danieleteti/delphistompclient). `[Delphi]` `[FPC]` STOMP client for Embarcadero Delphi and FreePascal. The project can use INDY (Delphi) or Synapse (Delphi or FreePascal).
-
-* [delphiXero ![GitHub Repo Stars](https://img.shields.io/github/stars/littleearth/delphiXERO) ![GitHub last commit](https://img.shields.io/github/last-commit/littleearth/delphiXERO)](https://github.com/littleearth/delphiXERO). `[Delphi]` XERO cloud accounting API for Delphi.
 
 * [BesaSoap ![GitHub Repo Stars](https://img.shields.io/github/stars/besasoftware/besasoap) ![GitHub last commit](https://img.shields.io/github/last-commit/besasoftware/besasoap)](https://github.com/besasoftware/besasoap). `[Delphi]` The BesaSoap library is designed to help programmers develop faster and more native web service client applications. Represents C# or Java like native class support, nullable data types and custom attributes.
 
@@ -332,7 +320,7 @@ Feel free to suggest other missing nice projects either by comments or pull requ
 
 * [Internet Tools](#xmljsonyaml). XPath/XQuery/JSONiq/CSS/HTML; functions to perform HTTP/S requests on Windows/Linux/macOS/Android, an XSLT-inspired webscraping language, and an auto update class.
 
-* [Delphi Cross Socket ![GitHub Repo Stars](https://img.shields.io/github/stars/winddriver/Delphi-Cross-Socket) ![GitHub last commit](https://img.shields.io/github/last-commit/winddriver/Delphi-Cross-Socket)](https://github.com/winddriver/Delphi-Cross-Socket/). `[Delphi]` Delphi cross platform socket library (Chinese). Uses different IO models for different platforms: IOCP (Windows), KQUEUE (FreeBSD(macOS, iOS, etc)), EPOLL (Linux(Linux, Android)). Supports TCP, HTTP/HTTPS, WebSocket with SSL/TLS.
+* [Delphi Cross Socket ![GitHub Repo Stars](https://img.shields.io/github/stars/winddriver/Delphi-Cross-Socket) ![GitHub last commit](https://img.shields.io/github/last-commit/winddriver/Delphi-Cross-Socket)](https://github.com/winddriver/Delphi-Cross-Socket/). `[Delphi]` `[FPC]` Delphi/FPC cross platform socket library (Chinese). Uses different IO models for different platforms: IOCP (Windows), KQUEUE (FreeBSD(macOS, iOS, etc)), EPOLL (Linux(Linux, Android)). Supports TCP, HTTP/HTTPS, WebSocket with SSL/TLS.
 // *Zero-copy stream architecture for maximum throughput. 10K+ concurrent connections. [English comments fork ![GitHub Repo Stars](https://img.shields.io/github/stars/bero/Delphi-Cross-Socket) ![GitHub last commit](https://img.shields.io/github/last-commit/bero/Delphi-Cross-Socket)](https://github.com/bero/Delphi-Cross-Socket)*
 
 * [ToroKernel ![GitHub Repo Stars](https://img.shields.io/github/stars/torokernel/torokernel) ![GitHub last commit](https://img.shields.io/github/last-commit/torokernel/torokernel)](https://github.com/torokernel/torokernel). `[FPC]` This is a library-kernel that allows freepascal applications which are specially ported to run alone in the system. Toro is compiled within the user's application thus resulting in a single binary that can boot on baremetal or as a guest in a modern hypervisor,e.g., hyperv, kvm, qemu, firecraker. ToroKernel addresses the development of microservices by providing a dedicated API.
@@ -344,8 +332,6 @@ Feel free to suggest other missing nice projects either by comments or pull requ
 * [Delphi-RabbitMQ ![GitHub Repo Stars](https://img.shields.io/github/stars/HeZiHang/Delphi-RabbitMQ) ![GitHub last commit](https://img.shields.io/github/last-commit/HeZiHang/Delphi-RabbitMQ)](https://github.com/HeZiHang/Delphi-RabbitMQ). `[Delphi]` RabbitMQ driver for Delphi
 
 * [DelphiGrpc ![GitHub Repo Stars](https://img.shields.io/github/stars/ultraware/DelphiGrpc) ![GitHub last commit](https://img.shields.io/github/last-commit/ultraware/DelphiGrpc)](https://github.com/ultraware/DelphiGrpc). `[Delphi]` Implementation of the realtime and streaming gRPC protocol
-
-* [Google API for Delphi ![GitHub Repo Stars](https://img.shields.io/github/stars/googleapi/googleapi) ![GitHub last commit](https://img.shields.io/github/last-commit/googleapi/googleapi)](https://github.com/googleapi/googleapi). `[Delphi]` Google API for Delphi
 
 * [Delphi JOSE and JWT Library ![GitHub Repo Stars](https://img.shields.io/github/stars/paolo-rossi/delphi-jose-jwt) ![GitHub last commit](https://img.shields.io/github/last-commit/paolo-rossi/delphi-jose-jwt)](https://github.com/paolo-rossi/delphi-jose-jwt). `[Delphi]` Delphi implementation of JOSE (JSON Object Signing and Encryption) and JWT (JSON Web Token)
 
@@ -362,11 +348,6 @@ Feel free to suggest other missing nice projects either by comments or pull requ
 * [LazWebsockets ![GitHub Repo Stars](https://img.shields.io/github/stars/Warfley/LazWebsockets) ![GitHub last commit](https://img.shields.io/github/last-commit/Warfley/LazWebsockets)](https://github.com/Warfley/LazWebsockets). `[FPC]` This provides a small Websocket server and client implementation written for the FPC and Lazarus. It is fully based upon the fcl ssockets unit and therefore independent from any additional dependencies except from the FCL.
 
 * [NetCom7 ![GitHub Repo Stars](https://img.shields.io/github/stars/DelphiBuilder/NetCom7) ![GitHub last commit](https://img.shields.io/github/last-commit/DelphiBuilder/NetCom7)](https://github.com/DelphiBuilder/NetCom7). `[Delphi]` This set of components is the fastest possible implementation of socket communications, in any language; this is an extremely optimised code on TCP/IP sockets.
-
-* [VK API ![GitHub Repo Stars](https://img.shields.io/github/stars/HemulGM/VK_API) ![GitHub last commit](https://img.shields.io/github/last-commit/HemulGM/VK_API)](https://github.com/HemulGM/VK_API). `[Delphi]` Library for working with Vkontakte (Russian social network) API in Delphi. Full API (with Bot samples).
-
-* [AWS SDK for Dephi ![GitHub Repo Stars](https://img.shields.io/github/stars/landgraf-dev/aws-sdk-delphi) ![GitHub last commit](https://img.shields.io/github/last-commit/landgraf-dev/aws-sdk-delphi)](https://github.com/landgraf-dev/aws-sdk-delphi). `[Delphi]` Unofficial AWS (Amazon Web Services) SDK for Delphi.
-**WARNING! Requires paid libs from TMS**
 
 * [Voice Communication ![GitHub Repo Stars](https://img.shields.io/github/stars/terrylao/voice_communication) ![GitHub last commit](https://img.shields.io/github/last-commit/terrylao/voice_communication)](https://github.com/terrylao/voice_communication). `[Delphi]` Voice Communicator Components.
 // *Implement RTP, RTSP, SHOUT, SNTP, STUN protocols and multiple audio format endocing/deconding*
@@ -400,14 +381,6 @@ Feel free to suggest other missing nice projects either by comments or pull requ
 
 * [RealThinClient SDK ![GitHub Repo Stars](https://img.shields.io/github/stars/teppicom/RealThinClient-SDK) ![GitHub last commit](https://img.shields.io/github/last-commit/teppicom/RealThinClient-SDK)](https://github.com/teppicom/RealThinClient-SDK/). `[Delphi]` Flexible and modular framework for building reliable and scalable cross-platform Applications with Delphi, designed for the Web by utilizing HTTP/S with full IPv4 & IPv6 support and built-in multi-threading, extensively stress-tested to ensure the highest stability
 
-* [Ntfy for Delphi ![GitHub Repo Stars](https://img.shields.io/github/stars/hazzelnuts/ntfy-for-delphi) ![GitHub last commit](https://img.shields.io/github/last-commit/hazzelnuts/ntfy-for-delphi)](https://github.com/hazzelnuts/ntfy-for-delphi). `[Delphi]` Friendly library to push instant notifications using ntfy.sh servers in Delphi
-
-* [DelphiOpenAI ![GitHub Repo Stars](https://img.shields.io/github/stars/HemulGM/DelphiOpenAI) ![GitHub last commit](https://img.shields.io/github/last-commit/HemulGM/DelphiOpenAI)](https://github.com/HemulGM/DelphiOpenAI). `[Delphi]` OpenAI GPT-3 API for Delphi
-
-* [IPInfo API ![GitHub Repo Stars](https://img.shields.io/github/stars/HemulGM/IPInfo_API) ![GitHub last commit](https://img.shields.io/github/last-commit/HemulGM/IPInfo_API)](https://github.com/HemulGM/IPInfo_API). `[Delphi]` Wrapper for IP Info API service
-
-* [TGBot Mini API ![GitHub Repo Stars](https://img.shields.io/github/stars/HemulGM/TGBotMini) ![GitHub last commit](https://img.shields.io/github/last-commit/HemulGM/TGBotMini)](https://github.com/HemulGM/TGBotMini). `[Delphi]` Fast and simple API for creating a Telegram bot
-
 * [JabberClient ![GitHub Repo Stars](https://img.shields.io/github/stars/HemulGM/HGMJabberClient) ![GitHub last commit](https://img.shields.io/github/last-commit/HemulGM/HGMJabberClient)](https://github.com/HemulGM/HGMJabberClient). `[Delphi]` Jabber Client. XMPP protocol
 
 * [libssh2 Delphi ![GitHub Repo Stars](https://img.shields.io/github/stars/pult/libssh2_delphi) ![GitHub last commit](https://img.shields.io/github/last-commit/pult/libssh2_delphi)](https://github.com/pult/libssh2_delphi). `[Delphi]` `[FPC]` Delphi/Pascal Wrapper around the library libssh2, ssh and sftp protocols
@@ -418,6 +391,46 @@ Feel free to suggest other missing nice projects either by comments or pull requ
 * [WebSocket.pas ![GitHub Repo Stars](https://img.shields.io/github/stars/biot2/WebSocket.pas) ![GitHub last commit](https://img.shields.io/github/last-commit/biot2/WebSocket.pas)](https://github.com/biot2/WebSocket.pas) `[Delphi]` `[FPC]` WebSocket Client & Server Library with pure Object Pascal source code
 
 * [nats.pas ![GitHub Repo Stars](https://img.shields.io/github/stars/biot2/nats.pas) ![GitHub last commit](https://img.shields.io/github/last-commit/biot2/nats.pas)](https://github.com/biot2/nats.pas) `[Delphi]` `[FPC]` An Object Pascal Client for NATS based on libnats-c
+
+* [Firebase Services for Delphi ![GitHub Repo Stars](https://img.shields.io/github/stars/SchneiderInfosystems/FB4D) ![GitHub last commit](https://img.shields.io/github/last-commit/SchneiderInfosystems/FB4D)](https://github.com/SchneiderInfosystems/FB4D) `[Delphi]` Cross-platform (FMX/VCL/Console) library for the following Firebase Services (Google): Firebase RT-DB, Firestore DB, Cloud Storage, VisionML, Firebase Authorization, and Firebase Functions. The library supports all platforms (Windows, Mac, iOS, Android, and Linux).
+
+
+## Cloud & remote services
+
+*APIs for cloud and other remote services*
+
+* [delphi-aws-ses ![GitHub Repo Stars](https://img.shields.io/github/stars/monde-sistemas/delphi-aws-ses) ![GitHub last commit](https://img.shields.io/github/last-commit/monde-sistemas/delphi-aws-ses)](https://github.com/monde-sistemas/delphi-aws-ses). `[Delphi]` Amazon Simple Email Service (AWS SES) library for Delphi applications.
+
+* [delphi-slackbot ![GitHub Repo Stars](https://img.shields.io/github/stars/monde-sistemas/delphi-slackbot) ![GitHub last commit](https://img.shields.io/github/last-commit/monde-sistemas/delphi-slackbot)](https://github.com/monde-sistemas/delphi-slackbot). `[Delphi]` Delphi library to send messages on [Slack](https://slack.com) using slackbot.
+
+* [SDriver ![GitHub Repo Stars](https://img.shields.io/github/stars/andrea-magni/SDriver) ![GitHub last commit](https://img.shields.io/github/last-commit/andrea-magni/SDriver)](https://github.com/andrea-magni/SDriver). `[Delphi]` Delphi wrapper for [Slack](https://slack.com) API.
+
+* [TelegaPi ![GitHub Repo Stars](https://img.shields.io/github/stars/rareMaxim/TelegaPi) ![GitHub last commit](https://img.shields.io/github/last-commit/rareMaxim/TelegaPi)](https://github.com/rareMaxim/TelegaPi). `[Delphi]` Library for working with Telegram messenger Bot API in Delphi.
+
+* [fp-telegram ![GitHub Repo Stars](https://img.shields.io/github/stars/Al-Muhandis/fp-telegram) ![GitHub last commit](https://img.shields.io/github/last-commit/Al-Muhandis/fp-telegram)](https://github.com/Al-Muhandis/fp-telegram). `[FPC]` Library for working with Telegram bots API in FreePascal/Lazarus.
+
+* [delphiXero ![GitHub Repo Stars](https://img.shields.io/github/stars/littleearth/delphiXERO) ![GitHub last commit](https://img.shields.io/github/last-commit/littleearth/delphiXERO)](https://github.com/littleearth/delphiXERO). `[Delphi]` XERO cloud accounting API for Delphi.
+
+* [Google API for Delphi ![GitHub Repo Stars](https://img.shields.io/github/stars/googleapi/googleapi) ![GitHub last commit](https://img.shields.io/github/last-commit/googleapi/googleapi)](https://github.com/googleapi/googleapi). `[Delphi]` Google API for Delphi
+
+* [VK API ![GitHub Repo Stars](https://img.shields.io/github/stars/HemulGM/VK_API) ![GitHub last commit](https://img.shields.io/github/last-commit/HemulGM/VK_API)](https://github.com/HemulGM/VK_API). `[Delphi]` Library for working with Vkontakte (Russian social network) API in Delphi. Full API (with Bot samples).
+
+* [AWS SDK for Dephi ![GitHub Repo Stars](https://img.shields.io/github/stars/landgraf-dev/aws-sdk-delphi) ![GitHub last commit](https://img.shields.io/github/last-commit/landgraf-dev/aws-sdk-delphi)](https://github.com/landgraf-dev/aws-sdk-delphi). `[Delphi]` Unofficial AWS (Amazon Web Services) SDK for Delphi.
+
+* [Ntfy for Delphi ![GitHub Repo Stars](https://img.shields.io/github/stars/hazzelnuts/ntfy-for-delphi) ![GitHub last commit](https://img.shields.io/github/last-commit/hazzelnuts/ntfy-for-delphi)](https://github.com/hazzelnuts/ntfy-for-delphi). `[Delphi]` Friendly library to push instant notifications using ntfy.sh servers in Delphi
+
+* [DelphiOpenAI ![GitHub Repo Stars](https://img.shields.io/github/stars/HemulGM/DelphiOpenAI) ![GitHub last commit](https://img.shields.io/github/last-commit/HemulGM/DelphiOpenAI)](https://github.com/HemulGM/DelphiOpenAI). `[Delphi]` OpenAI GPT-3 API for Delphi
+
+* [IPInfo API ![GitHub Repo Stars](https://img.shields.io/github/stars/HemulGM/IPInfo_API) ![GitHub last commit](https://img.shields.io/github/last-commit/HemulGM/IPInfo_API)](https://github.com/HemulGM/IPInfo_API). `[Delphi]` Wrapper for IP Info API service
+
+* [TGBot Mini API ![GitHub Repo Stars](https://img.shields.io/github/stars/HemulGM/TGBotMini) ![GitHub last commit](https://img.shields.io/github/last-commit/HemulGM/TGBotMini)](https://github.com/HemulGM/TGBotMini). `[Delphi]` Fast and simple API for creating a Telegram bot
+
+* [ImgBB API ![GitHub Repo Stars](https://img.shields.io/github/stars/HemulGM/ImgBB.API) ![GitHub last commit](https://img.shields.io/github/last-commit/HemulGM/ImgBB.API)](https://github.com/HemulGM/ImgBB.API). `[Delphi]` ImgBB.com API Wrapper
+
+* [OWM API ![GitHub Repo Stars](https://img.shields.io/github/stars/HemulGM/OWM_API) ![GitHub last commit](https://img.shields.io/github/last-commit/HemulGM/OWM_API)](https://github.com/HemulGM/OWM_API). `[Delphi]` OpenWeatherMap.com API Wrapper
+
+
+
 
 ## Serial port
 
@@ -670,9 +683,6 @@ Feel free to suggest other missing nice projects either by comments or pull requ
 
 * [Bold for Delphi ![GitHub Repo Stars](https://img.shields.io/github/stars/bero/BoldForDelphi) ![GitHub last commit](https://img.shields.io/github/last-commit/bero/BoldForDelphi)](https://github.com/bero/BoldForDelphi). `[Delphi]` Model-Driven Architecture (MDA) framework and ORM. Design your domain model in UML and generate Delphi classes and database schemas. Features OCL (Object Constraint Language) for queries and derived attributes, automatic UI synchronization, built-in undo/redo, optimistic locking, and object subscriptions. Persistence via FireDAC, UniDAC or XML, supporting most modern databases. This fork adds Unicode and modern Delphi support. [Official Embarcadero repo ![GitHub Repo Stars](https://img.shields.io/github/stars/Embarcadero/BoldForDelphi) ![GitHub last commit](https://img.shields.io/github/last-commit/Embarcadero/BoldForDelphi)](https://github.com/Embarcadero/BoldForDelphi) is for Delphi 7.
 
-## Cloud Services ##
-
-* [Firebase Services for Delphi ![GitHub Repo Stars](https://img.shields.io/github/stars/SchneiderInfosystems/FB4D) ![GitHub last commit](https://img.shields.io/github/last-commit/SchneiderInfosystems/FB4D)](https://github.com/SchneiderInfosystems/FB4D) `[Delphi]` Cross-platform (FMX/VCL/Console) library for the following Firebase Services (Google): Firebase RT-DB, Firestore DB, Cloud Storage, VisionML, Firebase Authorization, and Firebase Functions. The library supports all platforms (Windows, Mac, iOS, Android, and Linux).
 
 ## Scripting ##
 
@@ -707,6 +717,8 @@ Feel free to suggest other missing nice projects either by comments or pull requ
 
 * [QuickJS-Engine ![GitHub Repo Stars](https://img.shields.io/github/stars/Coldzer0/QuickJS-Pascal) ![GitHub last commit](https://img.shields.io/github/last-commit/Coldzer0/QuickJS-Pascal)](https://github.com/Coldzer0/QuickJS-Pascal). `[Delphi]` `[FPC]` Delphi and Free Pascal bindings for Bellard's [QuickJS](https://bellard.org/quickjs) JavaScript Engine.
 
+* [Thorium ![GitHub Repo Stars](https://img.shields.io/github/stars/horazont/thorium) ![GitHub last commit](https://img.shields.io/github/last-commit/horazont/thorium)](https://github.com/horazont/thorium). `[Delphi]` `[FPC]` Powerful embedded scripting language written in FreePascal. It features a pluggable compiler and typing system, and ships with easy and fast import of host classes using RTTI. It also allows to call host methods and functions without the need for wrapper functions, thus saving the developer (that is you) the time to write these.
+
 
 ## Machine Learning ##
 
@@ -722,6 +734,7 @@ Feel free to suggest other missing nice projects either by comments or pull requ
 
 * [TensorFlow.Delphi ![GitHub Repo Stars](https://img.shields.io/github/stars/Pigrecos/TensorFlow.Delphi) ![GitHub last commit](https://img.shields.io/github/last-commit/Pigrecos/TensorFlow.Delphi)](https://github.com/Pigrecos/TensorFlow.Delphi). `[Delphi]` [TensorFlow](https://tensorflow.org) library binding for Delphi. It aims to implement the complete Tensorflow API in Delphi which allows Pascal developers to develop, train and deploy Machine Learning models with the Pascal Delphi
 
+* [Ascension ![GitHub Repo Stars](https://img.shields.io/github/stars/inversed-ru/Ascension) ![GitHub last commit](https://img.shields.io/github/last-commit/inversed-ru/Ascension)](https://github.com/inversed-ru/Ascension). `[Delphi]` `[FPC]` A research programme aimed at the development of a general-purpose global optimization framework. Its core components are intelligent algorithms called metaheuristics, which are applicable to a wide variety of optimization problems.
 
 ## Non-visual Classes/Utils ##
 
@@ -968,6 +981,7 @@ Feel free to suggest other missing nice projects either by comments or pull requ
 
 * [DFF Library](http://www.delphiforfun.org/programs/library/Default.htm). `[Delphi]` `[FPC]` Big Floating Point, Big Integers, Astronomical calcualtions
 
+* [LMath](https://sourceforge.net/projects/lmath-library) `[FPC]` Provides routines and demo programs for numerical analysis, including mathematical functions, probabilities, matrices, optimization, linear and nonlinear equations, integration, Fast Fourier Transform, random numbers, curve fitting, statistics and graphics. It is entirely written in Pascal and does not depend on external libraries.
 
 ## Command-line
 
@@ -1081,7 +1095,7 @@ Feel free to suggest other missing nice projects either by comments or pull requ
 
 *Tools that help dealing with OS-specific internals*
 
-* [GLibWMI](http://sourceforge.net/projects/glibwmi). `[Delphi]` Component Library for Delphi that encapsulate the classes for access to WMI of Windows in a set of VCL. BiosInfo, PrinterInfo, DiskInfo, etc. Allow access WMI Classes: WIN32_Bios, WIN32_Printers, WIN32_DiskDrive.
+* [GLibWMI ![GitHub Repo Stars](https://img.shields.io/github/stars/germanestevez/GLibWMI) ![GitHub last commit](https://img.shields.io/github/last-commit/germanestevez/GLibWMI)](https://github.com/germanestevez/GLibWMI). `[Delphi]` Component Library for Delphi that encapsulate the classes for access to WMI of Windows in a set of VCL. BiosInfo, PrinterInfo, DiskInfo, etc. Allow access WMI Classes: WIN32_Bios, WIN32_Printers, WIN32_DiskDrive.
 
 * [MemoryMap ![GitHub Repo Stars](https://img.shields.io/github/stars/AlexanderBagel/ProcessMemoryMap) ![GitHub last commit](https://img.shields.io/github/last-commit/AlexanderBagel/ProcessMemoryMap)](https://github.com/AlexanderBagel/ProcessMemoryMap/tree/master/MemoryMap). `[Delphi]` Set of classes to get all the info about a memory of a running process.
 
@@ -1231,6 +1245,8 @@ Feel free to suggest other missing nice projects either by comments or pull requ
 
 * [IDE-Notifiers ![GitHub Repo Stars](https://img.shields.io/github/stars/DGH2112/DGH-IDE-Notifiers) ![GitHub last commit](https://img.shields.io/github/last-commit/DGH2112/DGH-IDE-Notifiers)](https://github.com/DGH2112/DGH-IDE-Notifiers). RAD Studio IDE plug-in to display notifications of various operations in the IDE as they occur.
 
+* [C4D-Validate-Components ![GitHub Repo Stars](https://img.shields.io/github/stars/Code4Delphi/C4D-Validate-Components) ![GitHub last commit](https://img.shields.io/github/last-commit/Code4Delphi/C4D-Validate-Components)](https://github.com/Code4Delphi/C4D-Validate-Components). `[Delphi]` Utility for automatic validation of Delphi forms. Excellent to be used for both new projects and legacy products. Facilitating form field validations and reducing code complexity. It can be used for both DBWare and non-DBWare components.
+
 
 ## Plugins for other IDE's
 
@@ -1323,3 +1339,5 @@ Feel free to suggest other missing nice projects either by comments or pull requ
 
 * [James - The Delphi Project Manager ![GitHub Repo Stars](https://img.shields.io/github/stars/alefragnani/delphi-james) ![GitHub last commit](https://img.shields.io/github/last-commit/alefragnani/delphi-james)](https://github.com/alefragnani/delphi-james). `[Delphi]` It makes your life easier while switching from one project to another. If you see yourself manually installing components and updating Delphi settings every time you have to switch from one project to another, James may help you.
 
+* [OpenAPI Client Generator ![GitHub Repo Stars](https://img.shields.io/github/stars/landgraf-dev/openapi-delphi-generator) ![GitHub last commit](https://img.shields.io/github/last-commit/landgraf-dev/openapi-delphi-generator)](https://github.com/landgraf-dev/openapi-delphi-generator). `[Delphi]` Generate Delphi client SDKs for any REST API defined with the OpenAPI specification. This generator can read an OpenAPI document (from local file or URL) of a REST API and generate Delphi classes that you can use to invoke such REST API endpoints in a friendly way.
+// *Open source but requires commercial TMS BIZ library for build (trial version will do as well). Binaries are available*
