@@ -109,7 +109,7 @@ List of all possible software that can produce UI animations separated by using 
 * [Google web designer](https://www.google.com/webdesigner/) – HTML-based designs and motion graphics.
 * [Animatron](http://animatron.com/) – Web app for creating animations, banners, and infographics.
 * [Pixate](http://pixate.com/) – Prototyping platform.
-* [SpiritJS](https://spiritjs.io/) – Animation tool for the web (unrealized yet).
+* [SpiritJS](https://spiritjs.io/) �� Animation tool for the web (unrealized yet).
 * Any HTML/CSS editor, [libraries](#libraries) ;)
 
 And obvious your secret weapon – Pen and paper!
@@ -159,7 +159,7 @@ And obvious your secret weapon – Pen and paper!
 * [SnapSVG](http://snapsvg.io/) — JavaScript library makes working with your SVG assets as easy as jQuery makes working with the DOM.
 	* [How to Manipulate and Animate SVG With Snap.svg](http://webdesign.tutsplus.com/articles/how-to-manipulate-and-animate-svg-with-snapsvg--cms-21323)
 * [BonsaiJS](https://bonsaijs.org/) – Lightweight graphics library with intuitive graphics API and SVG renderer.
-* [Vivus.js](http://maxwellito.github.io/vivus/) – Allows you to animate SVGs, giving them the appearence of being drawn.
+* [Vivus.js](http://maxwellito.github.io/vivus/) �� Allows you to animate SVGs, giving them the appearence of being drawn.
 * [Walkway.js](http://connoratherton.com/walkway) – Easy way to animate SVG images consisting of line, path, and polyline elements.
 * [Transformicons](http://www.transformicons.com/) – Animated icons, symbols and buttons using SVG and CSS.
 
