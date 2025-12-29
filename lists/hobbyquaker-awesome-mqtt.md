@@ -179,6 +179,10 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 - [emqttc ![GitHub Repo Stars](https://img.shields.io/github/stars/emqx/emqtt) ![GitHub last commit](https://img.shields.io/github/last-commit/emqx/emqtt)](https://github.com/emqx/emqtt) - Asynchronous Erlang MQTT Client.
 - [mqttex ![GitHub Repo Stars](https://img.shields.io/github/stars/alfert/mqttex) ![GitHub last commit](https://img.shields.io/github/last-commit/alfert/mqttex)](https://github.com/alfert/mqttex) - MQTT implementation in Elixir.
 
+### Ballerina
+
+- [ballerina-mqtt ![GitHub Repo Stars](https://img.shields.io/github/stars/ballerina-platform/module-ballerina-mqtt) ![GitHub last commit](https://img.shields.io/github/last-commit/ballerina-platform/module-ballerina-mqtt)](https://github.com/ballerina-platform/module-ballerina-mqtt) - Ballerina MQTT client based on paho-mqtt.
+
 ### C or C++
 
 - [mqtt_cpp ![GitHub Repo Stars](https://img.shields.io/github/stars/redboltz/mqtt_cpp) ![GitHub last commit](https://img.shields.io/github/last-commit/redboltz/mqtt_cpp)](https://github.com/redboltz/mqtt_cpp) - MQTT client for C++14 based on Boost.Asio.

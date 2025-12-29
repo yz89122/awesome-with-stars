@@ -317,7 +317,7 @@
 - [Intro to Vue, repo for Frontend Masters Course ![GitHub Repo Stars](https://img.shields.io/github/stars/sdras/intro-to-vue) ![GitHub last commit](https://img.shields.io/github/last-commit/sdras/intro-to-vue)](https://github.com/sdras/intro-to-vue)
 - [Vue Guide on CSS-Tricks](https://css-tricks.com/guides/vue/)
 - [Using Typescript in your VueJS app](https://medium.com/coding-blocks/using-typescript-in-your-vue-app-c4aba0bbc8bc)
-- [Vue.js ��览](https://ninghao.net/course/4256) on ninghao.net
+- [Vue.js 预览](https://ninghao.net/course/4256) on ninghao.net
 - [Building a Vue v2 JS app using Vue-router](https://www.liquidlight.co.uk/blog/article/building-a-vue-v2-js-app-using-vue-router/)
 - [Build your own carousel with Vue](https://medium.com/@davidatomhernandez/how-to-a-simple-carousel-with-vue-138715d615d7) by [@Atom_Hernandez](https://twitter.com/Atom_Hernandez)
 - [Unit Testing Vue.js Components with the Official Vue Testing Tools and Jest](https://alexjoverm.github.io/series/Unit-Testing-Vue-js-Components-with-the-Official-Vue-Testing-Tools-and-Jest/) by [@alexjoverm](https://twitter.com/alexjoverm)
@@ -1475,6 +1475,9 @@ _Detect when components enter viewport_
 - [vue-use-paginator ![GitHub Repo Stars](https://img.shields.io/github/stars/Sun0fABeach/vue-use-paginator) ![GitHub last commit](https://img.shields.io/github/last-commit/Sun0fABeach/vue-use-paginator)](https://github.com/Sun0fABeach/vue-use-paginator) - Vue 3 use-hook to reactively paginate data and arrange paginator buttons. Completely renderless.
 - [vueginate ![GitHub Repo Stars](https://img.shields.io/github/stars/lombervid/vueginate) ![GitHub last commit](https://img.shields.io/github/last-commit/lombervid/vueginate)](https://github.com/lombervid/vueginate) - A simple pagination component for Vue 3
 - [vue-pagination ![GitHub Repo Stars](https://img.shields.io/github/stars/asika32764/vue-pagination) ![GitHub last commit](https://img.shields.io/github/last-commit/asika32764/vue-pagination)](https://github.com/asika32764/vue-pagination/) - A non-style pagination with composable that can integrate with any frameworks.
+- [@nabaraj/vue-pagination ![GitHub Repo Stars](https://img.shields.io/github/stars/nabaraj/vue-pagination-npm-package) ![GitHub last commit](https://img.shields.io/github/last-commit/nabaraj/vue-pagination-npm-package)](https://github.com/nabaraj/vue-pagination-npm-package) - A lightweight Vue 3 pagination component with TypeScript types and customizable slots.
+
+
 
 #### Animation
 
