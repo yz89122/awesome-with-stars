@@ -283,7 +283,7 @@ Expose a service running on localhost to the public web for testing and sharing.
   
 ## Productivity
 
-- [doing ![GitHub Repo Stars](https://img.shields.io/github/stars/ttscoff/doing) ![GitHub last commit](https://img.shields.io/github/last-commit/ttscoff/doing)](https://github.com/ttscoff/doing/) - Keep track of what you’re doing and track what you’ve done.
+- [doing ![GitHub Repo Stars](https://img.shields.io/github/stars/ttscoff/doing) ![GitHub last commit](https://img.shields.io/github/last-commit/ttscoff/doing)](https://github.com/ttscoff/doing/) - Keep track of what you��re doing and track what you’ve done.
 - [ffscreencast ![GitHub Repo Stars](https://img.shields.io/github/stars/cytopia/ffscreencast) ![GitHub last commit](https://img.shields.io/github/last-commit/cytopia/ffscreencast)](https://github.com/cytopia/ffscreencast) - A ffmpeg screencast with video overlay and multi monitor support.
 - [meetup-cli ![GitHub Repo Stars](https://img.shields.io/github/stars/specious/meetup-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/specious/meetup-cli)](https://github.com/specious/meetup-cli) - Meetup.com client.
 - [NeoMutt](https://neomutt.org) - Email client.
