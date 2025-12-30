@@ -109,7 +109,7 @@ Inspired by the [awesome ![GitHub Repo Stars](https://img.shields.io/github/star
 - [moc](http://moc.daper.net/) - Console audio player for Linux/UNIX.
 - [musikcube ![GitHub Repo Stars](https://img.shields.io/github/stars/clangen/musikcube) ![GitHub last commit](https://img.shields.io/github/last-commit/clangen/musikcube)](https://github.com/clangen/musikcube) - Cross-platform, terminal-based music player, audio engine, metadata indexer, and server.
 - [beets ![GitHub Repo Stars](https://img.shields.io/github/stars/beetbox/beets) ![GitHub last commit](https://img.shields.io/github/last-commit/beetbox/beets)](https://github.com/beetbox/beets) - Music library manager and tagger.
-- [spotify-tui ![GitHub Repo Stars](https://img.shields.io/github/stars/Rigellute/spotify-tui) ![GitHub last commit](https://img.shields.io/github/last-commit/Rigellute/spotify-tui)](https://github.com/Rigellute/spotify-tui) - Spotify client.
+- [spotatui ![GitHub Repo Stars](https://img.shields.io/github/stars/LargeModGames/spotatui) ![GitHub last commit](https://img.shields.io/github/last-commit/LargeModGames/spotatui)](https://github.com/LargeModGames/spotatui) - Spotify client.
 - [swaglyrics-for-spotify ![GitHub Repo Stars](https://img.shields.io/github/stars/SwagLyrics/SwagLyrics-For-Spotify) ![GitHub last commit](https://img.shields.io/github/last-commit/SwagLyrics/SwagLyrics-For-Spotify)](https://github.com/SwagLyrics/SwagLyrics-For-Spotify) - Spotify lyrics.
 - [dzr ![GitHub Repo Stars](https://img.shields.io/github/stars/yne/dzr) ![GitHub last commit](https://img.shields.io/github/last-commit/yne/dzr)](https://github.com/yne/dzr) - deezer.com player.
 - [radio-active ![GitHub Repo Stars](https://img.shields.io/github/stars/deep5050/radio-active) ![GitHub last commit](https://img.shields.io/github/last-commit/deep5050/radio-active)](https://github.com/deep5050/radio-active) - Internet radio player with 40k+ stations.
@@ -368,6 +368,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [stronghold ![GitHub Repo Stars](https://img.shields.io/github/stars/alichtman/stronghold) ![GitHub last commit](https://img.shields.io/github/last-commit/alichtman/stronghold)](https://github.com/alichtman/stronghold) - Configure security settings from the terminal.
 - [dark-mode ![GitHub Repo Stars](https://img.shields.io/github/stars/sindresorhus/dark-mode) ![GitHub last commit](https://img.shields.io/github/last-commit/sindresorhus/dark-mode)](https://github.com/sindresorhus/dark-mode) - Toggle dark mode.
 - [clippy ![GitHub Repo Stars](https://img.shields.io/github/stars/neilberkman/clippy) ![GitHub last commit](https://img.shields.io/github/last-commit/neilberkman/clippy)](https://github.com/neilberkman/clippy) - Clipboard tool for interacting with GUI applications.
+- [anvil ![GitHub Repo Stars](https://img.shields.io/github/stars/0xjuanma/anvil) ![GitHub last commit](https://img.shields.io/github/last-commit/0xjuanma/anvil)](https://github.com/0xjuanma/anvil) - Config management and app installations.
 
 ### Terminal Sharing Utilities
 
