@@ -289,7 +289,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [ipapi.is](https://ipapi.is/) - A reliable IP Address API from Developers for Developers with the best Hosting Detection capabilities that exist. The free plan offers 1000 lookups without signup.
   * [IPinfo](https://ipinfo.io/) — Fast, accurate, and free (up to 50k/month) IP address data API. Offers APIs with details on geolocation, companies, carriers, IP ranges, domains, abuse contacts, and more. All paid APIs can be trialed for free.
   * [IPQuery](https://ipquery.io) — Unlimited IP API for developers, no ratelimits, or pricing.
-  * [IPTrace](https://iptrace.io) �� An embarrassingly simple API that provides your business with reliable and helpful IP geolocation data with 50,000 free lookups per month.
+  * [IPTrace](https://iptrace.io) — An embarrassingly simple API that provides your business with reliable and helpful IP geolocation data with 50,000 free lookups per month.
   * [JSON2Video](https://json2video.com) - A video editing API to automate video marketing and social media videos, programmatically or with no code.
   * [JSON IP](https://getjsonip.com) — Returns the Public IP address of the client it is requested from. No registration is required for the free tier. Using CORS, data can be requested using client-side JS directly from the browser. Useful for services monitoring change in client and server IPs. Unlimited Requests.
   * [JSON Serve](https://jsonserve.com/) — A free service that helps developers to store JSON objects and use that JSON as a REST API in their app.
@@ -555,7 +555,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [goreportcard.com](https://goreportcard.com/) — Code Quality for Go projects, free for Open Source
   * [gtmetrix.com](https://gtmetrix.com/) — Reports and thorough recommendations to optimize websites
   * [holistic.dev](https://holistic.dev/) - The #1 static code analyzer for Postgresql optimization. Performance, security, and architect database issues automatic detection service
-  * [houndci.com](https://houndci.com/) ��� Comments on GitHub commits about code quality, free for Open Source
+  * [houndci.com](https://houndci.com/) — Comments on GitHub commits about code quality, free for Open Source
   * [Moderne.io](https://app.moderne.io) — Automatic source code refactoring. Moderne offers framework migrations, code analysis with remediation, and unrivaled code transformation at scale, so developers can spend their time building new things instead of maintaining the old. Free for Open Source.
   * [reviewable.io](https://reviewable.io/) — Code review for GitHub repositories, free for public or personal repos.
   * [parsers.dev](https://parsers.dev/) - Abstract syntax tree parsers and intermediate representation compilers as a service
@@ -1303,7 +1303,7 @@ Update Time, five active automations, webhooks.
   * [Zonomi](https://zonomi.com/) — Free DNS hosting service with instant DNS propagation. Free plan: 1 DNS zone (domain name) with up to 10 DNS records.
   * [dnspod.com](https://www.dnspod.com/) — Free DNS hosting.
   * [duckdns.org](https://www.duckdns.org/) — Free DDNS with up to 5 domains on the free tier. With configuration guides for various setups.
-  * [Dynv6.com](https://dynv6.com/) — Free DDNS service with [API support](https://dynv6.com/docs/apis) and management of a lot of dns record types (like CNAME, MX, SPF, SRV, TXT and others).
+  * [Dynv6.com](https://dynv6.com/) ��� Free DDNS service with [API support](https://dynv6.com/docs/apis) and management of a lot of dns record types (like CNAME, MX, SPF, SRV, TXT and others).
   * [freedns.afraid.org](https://freedns.afraid.org/) — Free DNS hosting. Also, provide free subdomains based on numerous public user [contributed domains](https://freedns.afraid.org/domain/registry/). Get free subdomains from the "Subdomains" menu after signing up.
   * [luadns.com](https://www.luadns.com/) — Free DNS hosting, three domains, all features with reasonable limits
   * [namecheap.com](https://www.namecheap.com/domains/freedns/) — Free DNS. No limit on the number of domains
