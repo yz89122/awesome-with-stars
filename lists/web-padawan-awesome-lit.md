@@ -161,6 +161,7 @@ At Lit's core is a boilerplate-killing component base class that provides reacti
 
 ## Component Libraries
 
+- [AgnosticUI ![GitHub Repo Stars](https://img.shields.io/github/stars/AgnosticUI/agnosticui) ![GitHub last commit](https://img.shields.io/github/last-commit/AgnosticUI/agnosticui)](https://github.com/AgnosticUI/agnosticui) - A CLI-based UI component library that copies Lit web components directly into your project. Full React and Vue wrappers for native framework experience.
 - [Apollo Elements ![GitHub Repo Stars](https://img.shields.io/github/stars/apollo-elements/apollo-elements) ![GitHub last commit](https://img.shields.io/github/last-commit/apollo-elements/apollo-elements)](https://github.com/apollo-elements/apollo-elements) - Custom elements meet Apollo GraphQL.
 - [Blackstone UI ![GitHub Repo Stars](https://img.shields.io/github/stars/kjantzer/bui) ![GitHub last commit](https://img.shields.io/github/last-commit/kjantzer/bui)](https://github.com/kjantzer/bui) - Web components for creating interfaces built with lit-html and LitElement.
 - [Chartjs Web Components ![GitHub Repo Stars](https://img.shields.io/github/stars/fsx950223/chartjs-web-components) ![GitHub last commit](https://img.shields.io/github/last-commit/fsx950223/chartjs-web-components)](https://github.com/fsx950223/chartjs-web-components) - Web components for chartjs.
