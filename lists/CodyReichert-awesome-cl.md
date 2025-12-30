@@ -236,6 +236,8 @@ Work In Progress:
 
 ## MCP servers
 
+* [cl-MCP ![GitHub Repo Stars](https://img.shields.io/github/stars/cl-ai-project/cl-mcp) ![GitHub last commit](https://img.shields.io/github/last-commit/cl-ai-project/cl-mcp)](https://github.com/cl-ai-project/cl-mcp) - MCP for Common Lisp.
+  * provides a newline‑delimited JSON‑RPC 2.0 transport over stdio or TCP, a small protocol layer (initialize, ping, tools/list, tools/call), and a REPL tool that evaluates forms and returns the last value.
 * [40ants-MCP ![GitHub Repo Stars](https://img.shields.io/github/stars/40ants/mcp) ![GitHub last commit](https://img.shields.io/github/last-commit/40ants/mcp)](https://github.com/40ants/mcp) - a framework for building Model Context Protocol servers in Common Lisp.
 * [Lisply MCP ![GitHub Repo Stars](https://img.shields.io/github/stars/gornskew/lisply-mcp) ![GitHub last commit](https://img.shields.io/github/last-commit/gornskew/lisply-mcp)](https://github.com/gornskew/lisply-mcp) - a generic Node.js wrapper meant to work with pretty much any language backend which can support "eval" and http .
   * By default, it comes configured to work with an existing reference-implementation backend CL-based container image which it will pull and run on-demand.
@@ -250,6 +252,7 @@ Work In Progress:
 ## Expert Systems
 
 * [Lisa ![GitHub Repo Stars](https://img.shields.io/github/stars/youngde811/Lisa) ![GitHub last commit](https://img.shields.io/github/last-commit/youngde811/Lisa)](https://github.com/youngde811/Lisa) - a production-quality, forward-chaining expert system shell featuring an optimized implementation of Charles Forgy's Rete algorithm, a highly efficient solution to the difficult many-to-many pattern matching problem. MIT.
+* [WouldWork ![GitHub Repo Stars](https://img.shields.io/github/stars/davypough/wouldwork) ![GitHub last commit](https://img.shields.io/github/last-commit/davypough/wouldwork)](https://github.com/davypough/wouldwork) - solve classical planning and constraint satisfaction problems without extensive programming experience. BSD_3Clause.
 
 Audio
 =====
@@ -450,7 +453,8 @@ To third parties
 * [cl-influxdb ![GitHub Repo Stars](https://img.shields.io/github/stars/mmaul/cl-influxdb) ![GitHub last commit](https://img.shields.io/github/last-commit/mmaul/cl-influxdb)](https://github.com/mmaul/cl-influxdb/) - an interface to the Time Series Database InfluxDB. [MIT][200].
 * [cl-remizmq](https://fossil.cyberia9.org/cl-remizmq/index) - ZeroMQ sockets, messages, timers, atomics, and proxies.
   * low-level and high-level APIs. Tested with libzmq 5.2.5, any v4.x and v5.x should work, v3.x may as well.
-  * maybe also: [pzmq ![GitHub Repo Stars](https://img.shields.io/github/stars/orivej/pzmq) ![GitHub last commit](https://img.shields.io/github/last-commit/orivej/pzmq)](https://github.com/orivej/pzmq) -  ZeroMQ 4.0+ Common Lisp bindings. Unlicense.
+* [coalton-zmq ![GitHub Repo Stars](https://img.shields.io/github/stars/coalton-lang/coalton-zmq) ![GitHub last commit](https://img.shields.io/github/last-commit/coalton-lang/coalton-zmq)](https://github.com/coalton-lang/coalton-zmq) - ZeroMQ interface for Coalton.
+  - "It's complete enough to be useful for building apps that use ZeroMQ". Many of the official [ZeroMQ examples ![GitHub Repo Stars](https://img.shields.io/github/stars/coalton-lang/coalton-zmq) ![GitHub last commit](https://img.shields.io/github/last-commit/coalton-lang/coalton-zmq)](https://github.com/coalton-lang/coalton-zmq/tree/main/zmq-examples) are implemented.
 
 Tools
 -----
@@ -944,8 +948,8 @@ For strings:
 
 Experimental:
 
-* [Moonly](https://gitlab.com/digikar/moonli) - Algol-style syntax that transpiles to Common Lisp.
-  * not even experimental but *pre-experimental*. New as of 2025.
+* [Moonli](https://gitlab.com/digikar/moonli) - a Julia/Python-ish syntax layer that transpiles to Common Lisp.
+  * *experimental*. New as of 2025.
 
 CLOS extensions
 ---------------
@@ -1283,9 +1287,10 @@ See also:
 * [hunchentoot-stuck-connection-monitor ![GitHub Repo Stars](https://img.shields.io/github/stars/avodonosov/hunchentoot-stuck-connection-monitor) ![GitHub last commit](https://img.shields.io/github/last-commit/avodonosov/hunchentoot-stuck-connection-monitor)](https://github.com/avodonosov/hunchentoot-stuck-connection-monitor/) - Monitors hunchentoot connections and logs the connections stuck in the same state for a long time.
   - offers an option to shutdown the stuck connections sockets manually or automatically, thus unblocking the connection threads and preventing thread and socket leakage. [BSD_2Clause][17].
 
-See also:
+Making Hunchentoot faster:
 
 * [cl-tbnl-gserver-tmgr ![GitHub Repo Stars](https://img.shields.io/github/stars/mdbergmann/cl-tbnl-gserver-tmgr) ![GitHub last commit](https://img.shields.io/github/last-commit/mdbergmann/cl-tbnl-gserver-tmgr)](https://github.com/mdbergmann/cl-tbnl-gserver-tmgr) -  Hunchentoot Gserver-based taskmanager. cl-gserver is an actor-like message-passing library (see below in "Actors pattern"). Experimental.
+* [hunchentoot-recycling-taskmaster ![GitHub Repo Stars](https://img.shields.io/github/stars/y2q-actionman/hunchentoot-recycling-taskmaster) ![GitHub last commit](https://img.shields.io/github/last-commit/y2q-actionman/hunchentoot-recycling-taskmaster)](https://github.com/y2q-actionman/hunchentoot-recycling-taskmaster) - a taskmaster implementation for Hunchentoot, aiming to improve connection establishment efficiency through thread-pooling and flexible thread count adjustment. BSD_2Clause.
 
 ### Clack plugins
 
@@ -1820,8 +1825,6 @@ Readline, ncurses and other graphical TUI helpers
 Shells, shells interfaces
 -------------------------
 
-* [Lish](https://codeberg.org/nibbula/yew/src/branch/master/lish) - `lish` may someday be a lisp shell. [GPL3][2].
-  * supports tab-completion of executables in the path and Lisp symbols, allows to write and to mix shell commands and Lisp code, has a tiny REPL and an interactive debugger, and more.
 * [shcl ![GitHub Repo Stars](https://img.shields.io/github/stars/bradleyjensen/shcl) ![GitHub last commit](https://img.shields.io/github/last-commit/bradleyjensen/shcl)](https://github.com/bradleyjensen/shcl) - a POSIX-like shell in Common Lisp. [Apache2.0][89].
 * [unix-in-lisp ![GitHub Repo Stars](https://img.shields.io/github/stars/PuellaeMagicae/unix-in-lisp) ![GitHub last commit](https://img.shields.io/github/last-commit/PuellaeMagicae/unix-in-lisp)](https://github.com/PuellaeMagicae/unix-in-lisp) -  Mount Unix system into Common Lisp image.
   * Unix concepts are directly/shallowly embedded into Lisp (Unix commands become Lisp macros, Unix file become Lisp variables, Unix streams become lazy Lisp sequences, etc).
