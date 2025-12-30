@@ -272,7 +272,7 @@ There's obviously a million posts on the topic. I'm sure this is not a good sele
   
 - **[The Bootstrapped Founder](https://thebootstrappedfounder.com/)**
 
-  How to start, run, and sell a bootstrapped SaaS company without burning out ��� by Arvid Kahl
+  How to start, run, and sell a bootstrapped SaaS company without burning out — by Arvid Kahl
   
 ##### Others
   
