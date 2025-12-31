@@ -72,7 +72,7 @@ This intense linguistic thriller will change the way you think about language. -
   > Babel-17 is all about the power of language. Humanity, which has spread throughout the universe, is involved in a war with the Invaders, who have been covertly assassinating officials and sabotaging spaceships. The only clues humanity has to go on are strange alien messages that have been intercepted in space. Poet and linguist Rydra Wong is determined to understand the language and stop the alien threat.
 </details>
 
-#### [Barsoom series](https://www.goodreads.com/series/43942-barsoom) (1912-1927) _by [Edgar Rice Burroughs](https://en.wikipedia.org/wiki/Edgar_Rice_Burroughs)_ [3.8] ���
+#### [Barsoom series](https://www.goodreads.com/series/43942-barsoom) (1912-1927) _by [Edgar Rice Burroughs](https://en.wikipedia.org/wiki/Edgar_Rice_Burroughs)_ [3.8] 🌟
 
 Now more than a century old, has that unique writing style you can only find in adventure classics. - [@uraimo](https://github.com/uraimo)
 
@@ -3093,7 +3093,7 @@ Rick and Morty is one of the best animated shows to have come out in the last de
   > An animated series that follows the exploits of a super scientist and his not-so-bright grandson.
 </details>
 
-#### [Star Trek: Deep Space Nine](https://www.imdb.com/title/tt0106145/) (1993���1999) [7.9]
+#### [Star Trek: Deep Space Nine](https://www.imdb.com/title/tt0106145/) (1993–1999) [7.9]
 
 Categories: `action` `adventure` `drama`
 
