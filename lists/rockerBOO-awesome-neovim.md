@@ -789,6 +789,7 @@ then it is not supported:
 - [pebeto/dookie.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/pebeto/dookie.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/pebeto/dookie.nvim)](https://github.com/pebeto/dookie.nvim) - **_`[TS][Lua]`_** A color scheme inspired by Plan9's acme editor.
 - [metalelf0/jellybeans-nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/metalelf0/jellybeans-nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/metalelf0/jellybeans-nvim)](https://github.com/metalelf0/jellybeans-nvim) - **_`[TS][Lua]`_** A port of jellybeans colorscheme.
 - [lalitmee/cobalt2.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/lalitmee/cobalt2.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/lalitmee/cobalt2.nvim)](https://github.com/lalitmee/cobalt2.nvim) - **_`[Lua]`_** A port of cobalt2 colorscheme using colorbuddy.
+- [dybdeskarphet/gruvbox-minimal.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/dybdeskarphet/gruvbox-minimal.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/dybdeskarphet/gruvbox-minimal.nvim)](https://github.com/dybdeskarphet/gruvbox-minimal.nvim) - **_`[TS][L/D][Lua]`_** A Gruvbox Material theme conceptually inspired by Alabaster.
 
 ### Colorscheme Creation
 
