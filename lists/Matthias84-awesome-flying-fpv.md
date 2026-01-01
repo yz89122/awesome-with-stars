@@ -464,7 +464,7 @@ Every hobby makes more fun and progress if you share your ideas and questions to
 * [OscarLiang.com](https://OscarLiang.com) - Important blog with builds and configurations and knowledge.
 * [intofpv.com](https://intofpv.com) - Forum with helpful information about anything FPV related.
 * [INAV fixed wing group](https://inavfixedwinggroup.com/) - Forum, Blog, Builds on fixed wing esp. with INAV compatible autopilot.
-* [fpv-community.de](https://fpv-community.de) - 🇩🇪 Auch Selbstbau.
+* [fpv-community.de](https://fpv-community.de) - 🇩���� Auch Selbstbau.
 * [RC-Network.de](https://RC-Network.de) - 🇩🇪 Über Selbstbau auch von Schiffen und Autos. Sehr umfangreiches [Wiki](https://wiki.rc-network.de/wiki/Hauptseite).
 * [kopterforum.de](https://kopterforum.de) - 🇩🇪 Auch Selbstbau.
 
