@@ -100,7 +100,7 @@ them.
   (Python, MIT, [GitHub ![GitHub Repo Stars](https://img.shields.io/github/stars/mikedh/trimesh) ![GitHub last commit](https://img.shields.io/github/last-commit/mikedh/trimesh)](https://github.com/mikedh/trimesh))
 - [dmsh ![GitHub Repo Stars](https://img.shields.io/github/stars/meshpro/dmsh) ![GitHub last commit](https://img.shields.io/github/last-commit/meshpro/dmsh)](https://github.com/meshpro/dmsh) - Simple generator for unstructured triangular meshes, inspired by distmesh.
   (Python, proprietary, GitHub)
-- [TetWild](https://yixin-hu.github.io/tetwild.pdf) - Generate tetrahedral meshes for triangular surface meshes.
+- [TetWild](https://arxiv.org/abs/1908.03581) - Generate tetrahedral meshes for triangular surface meshes.
   (C++, GPL 3, [GitHub ![GitHub Repo Stars](https://img.shields.io/github/stars/Yixin-Hu/TetWild) ![GitHub last commit](https://img.shields.io/github/last-commit/Yixin-Hu/TetWild)](https://github.com/Yixin-Hu/TetWild))
 - [TriWild](https://cims.nyu.edu/gcl/papers/2019-TriWild.pdf) - Robust triangulation with curve constraints.
   (C++, MPL 2, [GitHub ![GitHub Repo Stars](https://img.shields.io/github/stars/wildmeshing/TriWild) ![GitHub last commit](https://img.shields.io/github/last-commit/wildmeshing/TriWild)](https://github.com/wildmeshing/TriWild))
