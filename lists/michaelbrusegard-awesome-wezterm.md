@@ -59,6 +59,7 @@ To enhance your WezTerm configuration experience:
 - [MLFlexer/smart_workspace_switcher.wezterm ![GitHub Repo Stars](https://img.shields.io/github/stars/MLFlexer/smart_workspace_switcher.wezterm) ![GitHub last commit](https://img.shields.io/github/last-commit/MLFlexer/smart_workspace_switcher.wezterm)](https://github.com/MLFlexer/smart_workspace_switcher.wezterm) - Switch between workspaces with fuzzy finding and `zoxide`.
 - [vieitesss/workspacesionizer.wezterm ![GitHub Repo Stars](https://img.shields.io/github/stars/vieitesss/workspacesionizer.wezterm) ![GitHub last commit](https://img.shields.io/github/last-commit/vieitesss/workspacesionizer.wezterm)](https://github.com/vieitesss/workspacesionizer.wezterm) - Blazingly fast workspace chooser inspired by `tmux-sessionizer`.
 - [abidibo/wezterm-sessions ![GitHub Repo Stars](https://img.shields.io/github/stars/abidibo/wezterm-sessions) ![GitHub last commit](https://img.shields.io/github/last-commit/abidibo/wezterm-sessions)](https://github.com/abidibo/wezterm-sessions) - Save and restore sessions.
+- [srackham/tabsets.wezterm ![GitHub Repo Stars](https://img.shields.io/github/stars/srackham/tabsets.wezterm) ![GitHub last commit](https://img.shields.io/github/last-commit/srackham/tabsets.wezterm)](https://github.com/srackham/tabsets.wezterm) - Load, save, rename and delete named sets of tabs.
 
 ## Tab bar
 
