@@ -1588,6 +1588,8 @@ It supports multiple languages and is designed to be extensible, allowing you to
 
 - [ReSharper](https://www.jetbrains.com/resharper) :copyright: — Extends Visual Studio with on-the-fly code inspections for C#, VB.NET, ASP.NET, JavaScript, TypeScript and other technologies.
 
+- [Rev-dep ![GitHub Repo Stars](https://img.shields.io/github/stars/jayu/rev-dep) ![GitHub last commit](https://img.shields.io/github/last-commit/jayu/rev-dep)](https://github.com/jayu/rev-dep) — Dependency analysis and optimization toolkit for modern JavaScript and TypeScript projects. Trace imports, identify circular dependencies, find unused code, clean node modules.
+
 - [RIPS](https://www.ripstech.com) :copyright: — A static source code analyser for vulnerabilities in PHP scripts.
 
 - [Roslyn Analyzers ![GitHub Repo Stars](https://img.shields.io/github/stars/dotnet/roslyn-analyzers) ![GitHub last commit](https://img.shields.io/github/last-commit/dotnet/roslyn-analyzers)](https://github.com/dotnet/roslyn-analyzers) — Roslyn-based implementation of FxCop analyzers.
