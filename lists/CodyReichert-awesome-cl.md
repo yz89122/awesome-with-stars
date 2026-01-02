@@ -1032,6 +1032,8 @@ Reactive programming
 * [Cells ![GitHub Repo Stars](https://img.shields.io/github/stars/kennytilton/cells) ![GitHub last commit](https://img.shields.io/github/last-commit/kennytilton/cells)](https://github.com/kennytilton/cells) - an implementation of the dataflow programming paradigm, reactive spreadsheet-like expressiveness for CLOS. Used to build an [algebra learning system](http://tiltontec.com/). With [documentation ![GitHub Repo Stars](https://img.shields.io/github/stars/stefano/cells-doc) ![GitHub last commit](https://img.shields.io/github/last-commit/stefano/cells-doc)](https://github.com/stefano/cells-doc/). Lisp LGPL.
 * [lwcells ![GitHub Repo Stars](https://img.shields.io/github/stars/kchanqvq/lwcells) ![GitHub last commit](https://img.shields.io/github/last-commit/kchanqvq/lwcells)](https://github.com/kchanqvq/lwcells) - Light Weight Cells.
   * LWCELLS is a dataflow extension to Common Lisp. It maintains a consistent state of cells according to functions specifying their relation. LWCELLS is designed to be simple, clean, compositional and flexible.
+* NEW (2025) · [live-cells ![GitHub Repo Stars](https://img.shields.io/github/stars/alex-gutev/live-cells-cl) ![GitHub last commit](https://img.shields.io/github/last-commit/alex-gutev/live-cells-cl)](https://github.com/alex-gutev/live-cells-cl/) -  A reactive programming library for Lisp. BSD_3Clause.
+
 
 Contract programming
 --------------------
