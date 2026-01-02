@@ -55,6 +55,8 @@ Further resources:
       - [Extra](#clojure-extra)
   - [Crystal](#crystal)
       - [General-Purpose Machine Learning](#crystal-general-purpose-machine-learning)
+  - [CUDA PTX](#cuda-ptx)
+      - [Neurosymbolic AI](#cuda-ptx-neurosymbolic-ai)
   - [Elixir](#elixir)
       - [General-Purpose Machine Learning](#elixir-general-purpose-machine-learning)
       - [Natural Language Processing](#elixir-natural-language-processing)
@@ -212,6 +214,7 @@ Further resources:
 <a name="cpp-general-purpose-machine-learning"></a>
 #### General-Purpose Machine Learning
 
+* * [Agentic Context Engine ![GitHub Repo Stars](https://img.shields.io/github/stars/kayba-ai/agentic-context-engine) ![GitHub last commit](https://img.shields.io/github/last-commit/kayba-ai/agentic-context-engine)](https://github.com/kayba-ai/agentic-context-engine) -In-context learning framework that allows agents to learn from execution feedback.
 * [Speedster ![GitHub Repo Stars](https://img.shields.io/github/stars/nebuly-ai/nebullvm) ![GitHub last commit](https://img.shields.io/github/last-commit/nebuly-ai/nebullvm)](https://github.com/nebuly-ai/nebullvm/tree/main/apps/accelerate/speedster) -Automatically apply SOTA optimization techniques to achieve the maximum inference speed-up on your hardware. [DEEP LEARNING]
 * [BanditLib ![GitHub Repo Stars](https://img.shields.io/github/stars/jkomiyama/banditlib) ![GitHub last commit](https://img.shields.io/github/last-commit/jkomiyama/banditlib)](https://github.com/jkomiyama/banditlib) - A simple Multi-armed Bandit library. **[Deprecated]**
 * [Caffe ![GitHub Repo Stars](https://img.shields.io/github/stars/BVLC/caffe) ![GitHub last commit](https://img.shields.io/github/last-commit/BVLC/caffe)](https://github.com/BVLC/caffe) - A deep learning framework developed with cleanliness, readability, and speed in mind. [DEEP LEARNING]
@@ -261,6 +264,7 @@ Further resources:
 * [Phoenix](https://phoenix.arize.com) - Uncover insights, surface problems, monitor and fine tune your generative LLM, CV and tabular models.
 * [XAD ![GitHub Repo Stars](https://img.shields.io/github/stars/auto-differentiation/XAD) ![GitHub last commit](https://img.shields.io/github/last-commit/auto-differentiation/XAD)](https://github.com/auto-differentiation/XAD) - Comprehensive backpropagation tool for C++.
 * [Truss](https://truss.baseten.co) - An open source framework for packaging and serving ML models.
+* [nndeploy ![GitHub Repo Stars](https://img.shields.io/github/stars/nndeploy/nndeploy) ![GitHub last commit](https://img.shields.io/github/last-commit/nndeploy/nndeploy)](https://github.com/nndeploy/nndeploy) - An Easy-to-Use and High-Performance AI deployment framework.
 
 <a name="cpp-natural-language-processing"></a>
 #### Natural Language Processing
@@ -386,6 +390,14 @@ Further resources:
 
 * [machine ![GitHub Repo Stars](https://img.shields.io/github/stars/mathieulaporte/machine) ![GitHub last commit](https://img.shields.io/github/last-commit/mathieulaporte/machine)](https://github.com/mathieulaporte/machine) - Simple machine learning algorithm.
 * [crystal-fann ![GitHub Repo Stars](https://img.shields.io/github/stars/NeuraLegion/crystal-fann) ![GitHub last commit](https://img.shields.io/github/last-commit/NeuraLegion/crystal-fann)](https://github.com/NeuraLegion/crystal-fann) - FANN (Fast Artificial Neural Network) binding.
+
+<a name="cuda-ptx"></a>
+## CUDA PTX
+
+<a name="cuda-ptx-neurosymbolic-ai"></a>
+#### Neurosymbolic AI
+
+* [Knowledge3D (K3D) ![GitHub Repo Stars](https://img.shields.io/github/stars/danielcamposramos/Knowledge3D) ![GitHub last commit](https://img.shields.io/github/last-commit/danielcamposramos/Knowledge3D)](https://github.com/danielcamposramos/Knowledge3D) - Sovereign GPU-native spatial AI architecture with PTX-first cognitive engine (RPN/TRM reasoning), tri-modal fusion (text/visual/audio), and 3D persistent memory ("Houses"). Features sub-100µs inference, procedural knowledge compression (69:1 ratio), and multi-agent swarm architecture. Zero external dependencies for core inference paths.
 
 <a name="elixir"></a>
 ## Elixir
@@ -549,6 +561,7 @@ Read the paper [here](https://arxiv.org/abs/1902.06714).
 * [FlinkML in Apache Flink](https://ci.apache.org/projects/flink/flink-docs-master/dev/libs/ml/index.html) - Distributed machine learning library in Flink.
 * [H2O ![GitHub Repo Stars](https://img.shields.io/github/stars/h2oai/h2o-3) ![GitHub last commit](https://img.shields.io/github/last-commit/h2oai/h2o-3)](https://github.com/h2oai/h2o-3) - ML engine that supports distributed learning on Hadoop, Spark or your laptop via APIs in R, Python, Scala, REST/JSON.
 * [htm.java ![GitHub Repo Stars](https://img.shields.io/github/stars/numenta/htm.java) ![GitHub last commit](https://img.shields.io/github/last-commit/numenta/htm.java)](https://github.com/numenta/htm.java) - General Machine Learning library using Numenta’s Cortical Learning Algorithm.
+* [jSciPy ![GitHub Repo Stars](https://img.shields.io/github/stars/hissain/jscipy) ![GitHub last commit](https://img.shields.io/github/last-commit/hissain/jscipy)](https://github.com/hissain/jscipy) - A Java port of SciPy's signal processing module, offering filters, transformations, and other scientific computing utilities.
 * [liblinear-java ![GitHub Repo Stars](https://img.shields.io/github/stars/bwaldvogel/liblinear-java) ![GitHub last commit](https://img.shields.io/github/last-commit/bwaldvogel/liblinear-java)](https://github.com/bwaldvogel/liblinear-java) - Java version of liblinear.
 * [Mahout ![GitHub Repo Stars](https://img.shields.io/github/stars/apache/mahout) ![GitHub last commit](https://img.shields.io/github/last-commit/apache/mahout)](https://github.com/apache/mahout) - Distributed machine learning.
 * [Meka](http://meka.sourceforge.net/) - An open source implementation of methods for multi-label classification and evaluation (extension to Weka).
@@ -636,6 +649,7 @@ Read the paper [here](https://arxiv.org/abs/1902.06714).
 #### General-Purpose Machine Learning
 
 * [Auto ML ![GitHub Repo Stars](https://img.shields.io/github/stars/ClimbsRocks/auto_ml) ![GitHub last commit](https://img.shields.io/github/last-commit/ClimbsRocks/auto_ml)](https://github.com/ClimbsRocks/auto_ml) - Automated machine learning, data formatting, ensembling, and hyperparameter optimization for competitions and exploration- just give it a .csv file! **[Deprecated]**
+* [Catniff ![GitHub Repo Stars](https://img.shields.io/github/stars/nguyenphuminh/catniff) ![GitHub last commit](https://img.shields.io/github/last-commit/nguyenphuminh/catniff)](https://github.com/nguyenphuminh/catniff) - Torch-like deep learning framework for Javascript with support for tensors, autograd, optimizers, and other neural net constructs.
 * [Convnet.js](https://cs.stanford.edu/people/karpathy/convnetjs/) - ConvNetJS is a JavaScript library for training Deep Learning models[DEEP LEARNING] **[Deprecated]**
 * [Creatify MCP ![GitHub Repo Stars](https://img.shields.io/github/stars/TSavo/creatify-mcp) ![GitHub last commit](https://img.shields.io/github/last-commit/TSavo/creatify-mcp)](https://github.com/TSavo/creatify-mcp) - Model Context Protocol server that exposes Creatify AI's video generation capabilities to AI assistants, enabling natural language video creation workflows.
 * [Clusterfck](https://harthur.github.io/clusterfck/) - Agglomerative hierarchical clustering implemented in JavaScript for Node.js and the browser. **[Deprecated]**
@@ -1049,6 +1063,7 @@ be
 * [imutils ![GitHub Repo Stars](https://img.shields.io/github/stars/jrosebr1/imutils) ![GitHub last commit](https://img.shields.io/github/last-commit/jrosebr1/imutils)](https://github.com/jrosebr1/imutils) - A library containing Convenience functions to make basic image processing operations such as translation, rotation, resizing, skeletonization, and displaying Matplotlib images easier with OpenCV and Python.
 * [PyTorchCV ![GitHub Repo Stars](https://img.shields.io/github/stars/donnyyou/PyTorchCV) ![GitHub last commit](https://img.shields.io/github/last-commit/donnyyou/PyTorchCV)](https://github.com/donnyyou/PyTorchCV) - A PyTorch-Based Framework for Deep Learning in Computer Vision.
 * [joliGEN ![GitHub Repo Stars](https://img.shields.io/github/stars/jolibrain/joliGEN) ![GitHub last commit](https://img.shields.io/github/last-commit/jolibrain/joliGEN)](https://github.com/jolibrain/joliGEN) - Generative AI Image Toolset with GANs and Diffusion for Real-World Applications.
+* [Gempix2](https://gempix2.site) - Free production platform for text-to-image generation using Nano Banana V2 model.
 * [Self-supervised learning](https://pytorch-lightning-bolts.readthedocs.io/en/latest/self_supervised_models.html)
 * [neural-style-pt ![GitHub Repo Stars](https://img.shields.io/github/stars/ProGamerGov/neural-style-pt) ![GitHub last commit](https://img.shields.io/github/last-commit/ProGamerGov/neural-style-pt)](https://github.com/ProGamerGov/neural-style-pt) - A PyTorch implementation of Justin Johnson's neural-style (neural style transfer).
 * [Detecto ![GitHub Repo Stars](https://img.shields.io/github/stars/alankbi/detecto) ![GitHub last commit](https://img.shields.io/github/last-commit/alankbi/detecto)](https://github.com/alankbi/detecto) - Train and run a computer vision model with 5-10 lines of code.
@@ -1116,8 +1131,10 @@ be
 * [DL Translate ![GitHub Repo Stars](https://img.shields.io/github/stars/xhlulu/dl-translate) ![GitHub last commit](https://img.shields.io/github/last-commit/xhlulu/dl-translate)](https://github.com/xhlulu/dl-translate) - A deep learning-based translation library between 50 languages, built with `transformers`.
 * [Haystack ![GitHub Repo Stars](https://img.shields.io/github/stars/deepset-ai/haystack) ![GitHub last commit](https://img.shields.io/github/last-commit/deepset-ai/haystack)](https://github.com/deepset-ai/haystack) - A framework for building industrial-strength applications with Transformer models and LLMs.
 * [CometLLM ![GitHub Repo Stars](https://img.shields.io/github/stars/comet-ml/comet-llm) ![GitHub last commit](https://img.shields.io/github/last-commit/comet-ml/comet-llm)](https://github.com/comet-ml/comet-llm) - Track, log, visualize and evaluate your LLM prompts and prompt chains.
+* [NobodyWho ![GitHub Repo Stars](https://img.shields.io/github/stars/nobodywho-ooo/nobodywho) ![GitHub last commit](https://img.shields.io/github/last-commit/nobodywho-ooo/nobodywho)](https://github.com/nobodywho-ooo/nobodywho) - The simplest way to run an LLM locally. Supports tool calling and grammar constrained sampling.
 * [Transformers ![GitHub Repo Stars](https://img.shields.io/github/stars/huggingface/transformers) ![GitHub last commit](https://img.shields.io/github/last-commit/huggingface/transformers)](https://github.com/huggingface/transformers) - A deep learning library containing thousands of pre-trained models on different tasks. The goto place for anything related to Large Language Models.
 * [TextCL ![GitHub Repo Stars](https://img.shields.io/github/stars/alinapetukhova/textcl) ![GitHub last commit](https://img.shields.io/github/last-commit/alinapetukhova/textcl)](https://github.com/alinapetukhova/textcl) - Text preprocessing package for use in NLP tasks.
+* [VeritasGraph ![GitHub Repo Stars](https://img.shields.io/github/stars/bibinprathap/VeritasGraph) ![GitHub last commit](https://img.shields.io/github/last-commit/bibinprathap/VeritasGraph)](https://github.com/bibinprathap/VeritasGraph) - Enterprise-Grade Graph RAG for Secure, On-Premise AI with Verifiable Attribution.
 
 <a name="python-general-purpose-machine-learning"></a>
 #### General-Purpose Machine Learning
@@ -1148,6 +1165,7 @@ be
 * [einops ![GitHub Repo Stars](https://img.shields.io/github/stars/arogozhnikov/einops) ![GitHub last commit](https://img.shields.io/github/last-commit/arogozhnikov/einops)](https://github.com/arogozhnikov/einops) - Deep learning operations reinvented (for pytorch, tensorflow, jax and others).
 * [machine learning ![GitHub Repo Stars](https://img.shields.io/github/stars/jeff1evesque/machine-learning) ![GitHub last commit](https://img.shields.io/github/last-commit/jeff1evesque/machine-learning)](https://github.com/jeff1evesque/machine-learning) - automated build consisting of a [web-interface ![GitHub Repo Stars](https://img.shields.io/github/stars/jeff1evesque/machine-learning) ![GitHub last commit](https://img.shields.io/github/last-commit/jeff1evesque/machine-learning)](https://github.com/jeff1evesque/machine-learning#web-interface), and set of [programmatic-interface ![GitHub Repo Stars](https://img.shields.io/github/stars/jeff1evesque/machine-learning) ![GitHub last commit](https://img.shields.io/github/last-commit/jeff1evesque/machine-learning)](https://github.com/jeff1evesque/machine-learning#programmatic-interface) API, for support vector machines. Corresponding dataset(s) are stored into a SQL database, then generated model(s) used for prediction(s), are stored into a NoSQL datastore.
 * [XGBoost ![GitHub Repo Stars](https://img.shields.io/github/stars/dmlc/xgboost) ![GitHub last commit](https://img.shields.io/github/last-commit/dmlc/xgboost)](https://github.com/dmlc/xgboost) - Python bindings for eXtreme Gradient Boosting (Tree) Library.
+* [InterpretML ![GitHub Repo Stars](https://img.shields.io/github/stars/interpretml/interpret) ![GitHub last commit](https://img.shields.io/github/last-commit/interpretml/interpret)](https://github.com/interpretml/interpret) - InterpretML implements the Explainable Boosting Machine (EBM), a modern, fully interpretable machine learning model based on Generalized Additive Models (GAMs). This open-source package also provides visualization tools for EBMs, other glass-box models, and black-box explanations.
 * [ChefBoost ![GitHub Repo Stars](https://img.shields.io/github/stars/serengil/chefboost) ![GitHub last commit](https://img.shields.io/github/last-commit/serengil/chefboost)](https://github.com/serengil/chefboost) - a lightweight decision tree framework for Python with categorical feature support covering regular decision tree algorithms such as ID3, C4.5, CART, CHAID and regression tree; also some advanced bagging and boosting techniques such as gradient boosting, random forest and adaboost.
 * [Apache SINGA](https://singa.apache.org) - An Apache Incubating project for developing an open source machine learning library.
 * [Bayesian Methods for Hackers ![GitHub Repo Stars](https://img.shields.io/github/stars/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) ![GitHub last commit](https://img.shields.io/github/last-commit/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) - Book/iPython notebooks on Probabilistic Programming in Python.
@@ -1165,6 +1183,7 @@ be
 * [graphlab-create](https://turi.com/products/create/docs/) - A library with various machine learning models (regression, clustering, recommender systems, graph analytics, etc.) implemented on top of a disk-backed DataFrame.
 * [BigML](https://bigml.com) - A library that contacts external servers.
 * [pattern ![GitHub Repo Stars](https://img.shields.io/github/stars/clips/pattern) ![GitHub last commit](https://img.shields.io/github/last-commit/clips/pattern)](https://github.com/clips/pattern) - Web mining module for Python.
+* [Neurolink ![GitHub Repo Stars](https://img.shields.io/github/stars/juspay/neurolink) ![GitHub last commit](https://img.shields.io/github/last-commit/juspay/neurolink)](https://github.com/juspay/neurolink) - Enterprise-grade LLM integration framework for building production-ready AI applications with built-in hallucination prevention, RAG, and MCP support.
 * [NuPIC ![GitHub Repo Stars](https://img.shields.io/github/stars/numenta/nupic) ![GitHub last commit](https://img.shields.io/github/last-commit/numenta/nupic)](https://github.com/numenta/nupic) - Numenta Platform for Intelligent Computing.
 * [Pylearn2 ![GitHub Repo Stars](https://img.shields.io/github/stars/lisa-lab/pylearn2) ![GitHub last commit](https://img.shields.io/github/last-commit/lisa-lab/pylearn2)](https://github.com/lisa-lab/pylearn2) - A Machine Learning library based on [Theano ![GitHub Repo Stars](https://img.shields.io/github/stars/Theano/Theano) ![GitHub last commit](https://img.shields.io/github/last-commit/Theano/Theano)](https://github.com/Theano/Theano). **[Deprecated]**
 * [keras ![GitHub Repo Stars](https://img.shields.io/github/stars/keras-team/keras) ![GitHub last commit](https://img.shields.io/github/last-commit/keras-team/keras)](https://github.com/keras-team/keras) - High-level neural networks frontend for [TensorFlow ![GitHub Repo Stars](https://img.shields.io/github/stars/tensorflow/tensorflow) ![GitHub last commit](https://img.shields.io/github/last-commit/tensorflow/tensorflow)](https://github.com/tensorflow/tensorflow), [CNTK ![GitHub Repo Stars](https://img.shields.io/github/stars/Microsoft/CNTK) ![GitHub last commit](https://img.shields.io/github/last-commit/Microsoft/CNTK)](https://github.com/Microsoft/CNTK) and [Theano ![GitHub Repo Stars](https://img.shields.io/github/stars/Theano/Theano) ![GitHub last commit](https://img.shields.io/github/last-commit/Theano/Theano)](https://github.com/Theano/Theano).
@@ -1430,6 +1449,8 @@ be
 * [TResNet: Simple and powerful neural network library for python ![GitHub Repo Stars](https://img.shields.io/github/stars/zueve/neurolab) ![GitHub last commit](https://img.shields.io/github/last-commit/zueve/neurolab)](https://github.com/zueve/neurolab) - Variety of supported types of Artificial Neural Network and learning algorithms.
 * [Jina AI](https://jina.ai/) An easier way to build neural search in the cloud. Compatible with Jupyter Notebooks.
 * [sequitur ![GitHub Repo Stars](https://img.shields.io/github/stars/shobrook/sequitur) ![GitHub last commit](https://img.shields.io/github/last-commit/shobrook/sequitur)](https://github.com/shobrook/sequitur) PyTorch library for creating and training sequence autoencoders in just two lines of code
+* [ANEE ![GitHub Repo Stars](https://img.shields.io/github/stars/abkmystery/ANEE) ![GitHub last commit](https://img.shields.io/github/last-commit/abkmystery/ANEE)](https://github.com/abkmystery/ANEE) - Adaptive Neural Execution Engine for transformers. Per-token sparse inference with dynamic layer skipping, profiler-based gating, and KV-cache-safe compute reduction.
+
 
 
 <a name="python-spiking-neural-networks"></a>
@@ -1499,6 +1520,10 @@ be
 <a name="python-speech-recognition"></a>
 #### Speech Recognition
 * [EspNet ![GitHub Repo Stars](https://img.shields.io/github/stars/espnet/espnet) ![GitHub last commit](https://img.shields.io/github/last-commit/espnet/espnet)](https://github.com/espnet/espnet) - ESPnet is an end-to-end speech processing toolkit for tasks like speech recognition, translation, and enhancement, using PyTorch and Kaldi-style data processing.
+
+<a name="python-development tools"></a>
+#### Development Tools 
+* [CodeFlash.AI](https://www.codeflash.ai/) – CodeFlash.AI – Ship Blazing-Fast Python Code, Every Time.
 
 <a name="ruby"></a>
 ## Ruby
@@ -1572,6 +1597,7 @@ be
 
 * [huggingface/tokenizers ![GitHub Repo Stars](https://img.shields.io/github/stars/huggingface/tokenizers) ![GitHub last commit](https://img.shields.io/github/last-commit/huggingface/tokenizers)](https://github.com/huggingface/tokenizers) - Fast State-of-the-Art Tokenizers optimized for Research and Production
 * [rust-bert ![GitHub Repo Stars](https://img.shields.io/github/stars/guillaume-be/rust-bert) ![GitHub last commit](https://img.shields.io/github/last-commit/guillaume-be/rust-bert)](https://github.com/guillaume-be/rust-bert) - Rust native ready-to-use NLP pipelines and transformer-based models (BERT, DistilBERT, GPT2,...)
+* [shimmy ![GitHub Repo Stars](https://img.shields.io/github/stars/Michael-A-Kuykendall/shimmy) ![GitHub last commit](https://img.shields.io/github/last-commit/Michael-A-Kuykendall/shimmy)](https://github.com/Michael-A-Kuykendall/shimmy) - Python-free Rust inference server for NLP models with OpenAI API compatibility and hot model swapping.
 
 <a name="r"></a>
 ## R
@@ -1821,6 +1847,7 @@ be
 * [CatalyzeX](https://chrome.google.com/webstore/detail/code-finder-for-research/aikkeehnlfpamidigaffhfmgbkdeheil) - Browser extension ([Chrome](https://chrome.google.com/webstore/detail/code-finder-for-research/aikkeehnlfpamidigaffhfmgbkdeheil) and [Firefox](https://addons.mozilla.org/en-US/firefox/addon/code-finder-catalyzex/)) that automatically finds and shows code implementations for machine learning papers anywhere: Google, Twitter, Arxiv, Scholar, etc.
 * [ML Workspace ![GitHub Repo Stars](https://img.shields.io/github/stars/ml-tooling/ml-workspace) ![GitHub last commit](https://img.shields.io/github/last-commit/ml-tooling/ml-workspace)](https://github.com/ml-tooling/ml-workspace) - All-in-one web-based IDE for machine learning and data science. The workspace is deployed as a docker container and is preloaded with a variety of popular data science libraries (e.g., Tensorflow, PyTorch) and dev tools (e.g., Jupyter, VS Code).
 * [Notebooks ![GitHub Repo Stars](https://img.shields.io/github/stars/rlan/notebooks) ![GitHub last commit](https://img.shields.io/github/last-commit/rlan/notebooks)](https://github.com/rlan/notebooks) - A starter kit for Jupyter notebooks and machine learning. Companion docker images consist of all combinations of python versions, machine learning frameworks (Keras, PyTorch and Tensorflow) and CPU/CUDA versions.
+* [Deepnote ![GitHub Repo Stars](https://img.shields.io/github/stars/deepnote/deepnote) ![GitHub last commit](https://img.shields.io/github/last-commit/deepnote/deepnote)](https://github.com/deepnote/deepnote) - Deepnote is a drop-in replacement for Jupyter with an AI-first design, sleek UI, new blocks, and native data integrations. Use Python, R, and SQL locally in your favorite IDE, then scale to Deepnote cloud for real-time collaboration, Deepnote agent, and deployable data apps.
 * [DVC ![GitHub Repo Stars](https://img.shields.io/github/stars/iterative/dvc) ![GitHub last commit](https://img.shields.io/github/last-commit/iterative/dvc)](https://github.com/iterative/dvc) - Data Science Version Control is an open-source version control system for machine learning projects with pipelines support. It makes ML projects reproducible and shareable.
 * [DVClive ![GitHub Repo Stars](https://img.shields.io/github/stars/iterative/dvclive) ![GitHub last commit](https://img.shields.io/github/last-commit/iterative/dvclive)](https://github.com/iterative/dvclive) - Python library for experiment metrics logging into simply formatted local files.
 * [VDP ![GitHub Repo Stars](https://img.shields.io/github/stars/instill-ai/vdp) ![GitHub last commit](https://img.shields.io/github/last-commit/instill-ai/vdp)](https://github.com/instill-ai/vdp) - open source visual data ETL to streamline the end-to-end visual data processing pipeline: extract unstructured visual data from pre-built data sources, transform it into analysable structured insights by Vision AI models imported from various ML platforms, and load the insights into warehouses or applications.
@@ -1845,11 +1872,14 @@ be
 * [Ambrosia ![GitHub Repo Stars](https://img.shields.io/github/stars/reactorsh/ambrosia) ![GitHub last commit](https://img.shields.io/github/last-commit/reactorsh/ambrosia)](https://github.com/reactorsh/ambrosia) - Ambrosia helps you clean up your LLM datasets using _other_ LLMs.
 * [Fiddler AI](https://www.fiddler.ai) - The all-in-one AI Observability and Security platform for responsible AI. It provides monitoring, analytics, and centralized controls to operationalize ML, GenAI, and LLM applications with trust. Fiddler helps enterprises scale LLM and ML deployments to deliver high performance AI, reduce costs, and be responsible in governance.
 * [Maxim AI](https://getmaxim.ai) - The agent simulation, evaluation, and observability platform helping product teams ship their AI applications with the quality and speed needed for real-world use.
+* [promptfoo ![GitHub Repo Stars](https://img.shields.io/github/stars/promptfoo/promptfoo) ![GitHub last commit](https://img.shields.io/github/last-commit/promptfoo/promptfoo)](https://github.com/promptfoo/promptfoo) - Open-source LLM evaluation and red teaming framework. Test prompts, models, agents, and RAG pipelines. Run adversarial attacks (jailbreaks, prompt injection) and integrate security testing into CI/CD.
 * [Agentic Radar ![GitHub Repo Stars](https://img.shields.io/github/stars/splx-ai/agentic-radar) ![GitHub last commit](https://img.shields.io/github/last-commit/splx-ai/agentic-radar)](https://github.com/splx-ai/agentic-radar) -  Open-source CLI security scanner for agentic workflows. Scans your workflow’s source code, detects vulnerabilities, and generates an interactive visualization along with a detailed security report. Supports LangGraph, CrewAI, n8n, OpenAI Agents, and more.
 * [Agentic Signal ![GitHub Repo Stars](https://img.shields.io/github/stars/code-forge-temple/agentic-signal) ![GitHub last commit](https://img.shields.io/github/last-commit/code-forge-temple/agentic-signal)](https://github.com/code-forge-temple/agentic-signal) - Visual AI agent workflow automation platform with local LLM integration. Build intelligent workflows using drag-and-drop, no cloud required.
+* [Agentfield ![GitHub Repo Stars](https://img.shields.io/github/stars/Agent-Field/agentfield) ![GitHub last commit](https://img.shields.io/github/last-commit/Agent-Field/agentfield)](https://github.com/Agent-Field/agentfield) - Open source Kubernetes-style control plane for deploying AI agents as distributed microservices, with built-in service discovery, durable workflows, and observability.
 * [ScribePal ![GitHub Repo Stars](https://img.shields.io/github/stars/code-forge-temple/scribe-pal) ![GitHub last commit](https://img.shields.io/github/last-commit/code-forge-temple/scribe-pal)](https://github.com/code-forge-temple/scribe-pal) - Chrome extension that uses local LLMs to assist with writing and drafting responses based on the context of your open tabs.
 * [Local LLM NPC ![GitHub Repo Stars](https://img.shields.io/github/stars/code-forge-temple/local-llm-npc) ![GitHub last commit](https://img.shields.io/github/last-commit/code-forge-temple/local-llm-npc)](https://github.com/code-forge-temple/local-llm-npc) - Godot 4.x asset that enables NPCs to interact with players using local LLMs for structured, offline-first learning conversations in games.
 * [Awesome Hugging Face Models ![GitHub Repo Stars](https://img.shields.io/github/stars/JehoshuaM/awesome-huggingface-models) ![GitHub last commit](https://img.shields.io/github/last-commit/JehoshuaM/awesome-huggingface-models)](https://github.com/JehoshuaM/awesome-huggingface-models) - Curated list of top Hugging Face models for NLP, vision, and audio tasks with demos and benchmarks.
+* [PraisonAI ![GitHub Repo Stars](https://img.shields.io/github/stars/MervinPraison/PraisonAI) ![GitHub last commit](https://img.shields.io/github/last-commit/MervinPraison/PraisonAI)](https://github.com/MervinPraison/PraisonAI) - Production-ready Multi-AI Agents framework with self-reflection. Fastest agent instantiation (3.77μs), 100+ LLM support via LiteLLM, MCP integration, agentic workflows (route/parallel/loop/repeat), built-in memory, Python & JS SDKs.
 
 <a name="books"></a>
 ## Books

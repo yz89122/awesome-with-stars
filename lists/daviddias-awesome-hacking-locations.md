@@ -1016,7 +1016,7 @@ No hacking locations reported after the closure of Hollys Coffee
 
 #### Federal Café
 
-> Café with great natural lightning and delicious food
+> Caf�� with great natural lightning and delicious food
 
 Webpage: http://federalcafe.es/barcelona-gotic/
 
@@ -1354,7 +1354,7 @@ Webpage: http://pavementcoffeehouse.com/content/736-commonwealth
 
 Wifi | Power | Coffee | Address | Open Hours
 ---- | ----- | ------ | ------- | ----------
-open | ✔ | ✔ | [736 Commonwealth Avenue, Boston, MA 02215](https://goo.gl/maps/H3xzFxvo4nK2) | Mon-Fri 07:00-21:00, Sat 07:00-20:00, Sun 12:00-21:00
+open | ✔ | �� | [736 Commonwealth Avenue, Boston, MA 02215](https://goo.gl/maps/H3xzFxvo4nK2) | Mon-Fri 07:00-21:00, Sat 07:00-20:00, Sun 12:00-21:00
 
 #### Pavement Coffeehouse
 
