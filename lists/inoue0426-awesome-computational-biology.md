@@ -112,9 +112,11 @@ A knowledge collection of databases, software and papers related to computationa
 ## Preprocess
 
 - [Chemistry Development Kit ![GitHub Repo Stars](https://img.shields.io/github/stars/cdk/cdk) ![GitHub last commit](https://img.shields.io/github/last-commit/cdk/cdk)](https://github.com/cdk/cdk) - A software of cheminformatics and Machine Learning.
+- [FlashDeconv ![GitHub Repo Stars](https://img.shields.io/github/stars/cafferychen777/flashdeconv) ![GitHub last commit](https://img.shields.io/github/last-commit/cafferychen777/flashdeconv)](https://github.com/cafferychen777/flashdeconv) - High-performance spatial transcriptomics deconvolution. Processes 1M spots in ~3 minutes.
 - [RDKit ![GitHub Repo Stars](https://img.shields.io/github/stars/rdkit/rdkit) ![GitHub last commit](https://img.shields.io/github/last-commit/rdkit/rdkit)](https://github.com/rdkit/rdkit) - A software of cheminformatics and Machine Learning.
 - [Scanpy](https://scanpy.readthedocs.io/en/stable/) - scRNA analysis library in Python.
 - [Seurat](https://satijalab.org/seurat/) - scRNA analysis library in R.
+- [Squidpy](https://squidpy.readthedocs.io/) - Spatial single cell analysis library in Python.
 
 ## Machine Learning Tasks and Models
 
