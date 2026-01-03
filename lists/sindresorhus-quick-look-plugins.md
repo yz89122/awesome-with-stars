@@ -52,7 +52,7 @@ Run `brew install --cask qlmarkdown` or [download manually ![GitHub Repo Stars](
 
 > Preview JSON files
 
-Run `brew install quicklook-json` or [download manually](http://www.sagtau.com/media/QuickLookJSON.qlgenerator.zip)
+[Download manually](http://www.sagtau.com/media/QuickLookJSON.qlgenerator.zip)
 
 [![ ![GitHub Repo Stars](https://img.shields.io/github/stars/sindresorhus/quick-look-plugins) ![GitHub last commit](https://img.shields.io/github/last-commit/sindresorhus/quick-look-plugins)](https://github.com/sindresorhus/quick-look-plugins/raw/main/screenshots/QuickLookJSON.png)](http://www.sagtau.com/quicklookjson.html)
 

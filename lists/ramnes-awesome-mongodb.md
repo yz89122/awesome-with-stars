@@ -80,12 +80,10 @@ Inspired by the [awesome ![GitHub Repo Stars](https://img.shields.io/github/star
 
 ### Books
  - [50 Tips and Tricks for MongoDB Developers](https://www.oreilly.com/library/view/50-tips-and/9781449306779/) - Advanced MongoDB tips and tricks, given by a MongoDB inc. engineer
- - [Builder Book](https://builderbook.org) - Learn how to build a full stack JavaScript web app from scratch
  - [MongoDB Applied Design Patterns (Rick Copeland)](https://www.oreilly.com/library/view/mongodb-applied-design/9781449340056/)
  - [MongoDB in Action, Third Edition (Arek Borucki)](https://www.manning.com/books/mongodb-in-action-third-edition)
  - [Practical MongoDB Aggregations E-Book](https://www.practical-mongodb-aggregations.com/) - Free e-book: How to develop effective and optimal data manipulation and analytics pipelines
  - [The Little MongoDB Book ![GitHub Repo Stars](https://img.shields.io/github/stars/mongodb-developer/the-little-mongodb-book) ![GitHub last commit](https://img.shields.io/github/last-commit/mongodb-developer/the-little-mongodb-book)](https://github.com/mongodb-developer/the-little-mongodb-book) - Basic introduction
- - [SaaS Boilerplate Book](https://builderbook.org/book) - Learn how to build a production-ready SaaS web app from scratch
 
 ### Talks
  - [MongoDB Schema Design (Tugdual Grall, MongoDB Inc.)](https://www.youtube.com/watch?v=csKBT8zkRf0) [47']
@@ -280,6 +278,7 @@ Services:
 ### Desktop
  - [Compass ![GitHub Repo Stars](https://img.shields.io/github/stars/mongodb-js/compass) ![GitHub last commit](https://img.shields.io/github/last-commit/mongodb-js/compass)](https://github.com/mongodb-js/compass) - Free Cross-platform GUI from MongoDB
  - [MongoDB for VS Code](https://marketplace.visualstudio.com/items?itemName=mongodb.mongodb-vscode) - Connect to MongoDB and prototype queries from VS Code
+ - [MongoDB MCP Server ![GitHub Repo Stars](https://img.shields.io/github/stars/mongodb-js/mongodb-mcp-server) ![GitHub last commit](https://img.shields.io/github/last-commit/mongodb-js/mongodb-mcp-server)](https://github.com/mongodb-js/mongodb-mcp-server) - Official Model Context Protocol server for interacting with MongoDB databases and MongoDB Atlas
  - [MongoHub ![GitHub Repo Stars](https://img.shields.io/github/stars/jeromelebel/MongoHub-Mac) ![GitHub last commit](https://img.shields.io/github/last-commit/jeromelebel/MongoHub-Mac)](https://github.com/jeromelebel/MongoHub-Mac) - Mac native client
  - [WebDB ![GitHub Repo Stars](https://img.shields.io/github/stars/WebDB-App/app) ![GitHub last commit](https://img.shields.io/github/last-commit/WebDB-App/app)](https://github.com/WebDB-App/app) – Web-based and open-source "efficient database IDE". Provides ERDs, data generators, an AI assistant, a NoSQL structure manager, a time machine, auto-completion and more
 
@@ -357,7 +356,6 @@ Services:
 Those open-source applications have MongoDB somewhere in their stack:
 
  - [BookCars ![GitHub Repo Stars](https://img.shields.io/github/stars/aelassas/bookcars) ![GitHub last commit](https://img.shields.io/github/last-commit/aelassas/bookcars)](https://github.com/aelassas/bookcars) - Cross-platform, customizable and cost-efficient car rental management application
- - [Builder Book App ![GitHub Repo Stars](https://img.shields.io/github/stars/async-labs/builderbook) ![GitHub last commit](https://img.shields.io/github/last-commit/async-labs/builderbook)](https://github.com/async-labs/builderbook) - Web app to publish books or documentation built with React and Express
  - [CodeCombat ![GitHub Repo Stars](https://img.shields.io/github/stars/codecombat/codecombat) ![GitHub last commit](https://img.shields.io/github/last-commit/codecombat/codecombat)](https://github.com/codecombat/codecombat) - Multiplayer programming game for learning how to code
  - [Countly ![GitHub Repo Stars](https://img.shields.io/github/stars/countly/countly-server) ![GitHub last commit](https://img.shields.io/github/last-commit/countly/countly-server)](https://github.com/countly/countly-server) - Mobile & web analytics and marketing platform built with Node.js
  - [Errbit ![GitHub Repo Stars](https://img.shields.io/github/stars/errbit/errbit) ![GitHub last commit](https://img.shields.io/github/last-commit/errbit/errbit)](https://github.com/errbit/errbit) - A Ruby on Rails based tool for collecting and managing errors from other applications.
