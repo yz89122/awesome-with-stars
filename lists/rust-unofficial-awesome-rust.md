@@ -954,6 +954,7 @@ See also [Are we (I)DE yet?](https://areweideyet.com/) and [Rust Tools](https://
 
 [[assert](https://crates.io/keywords/assert), [static](https://crates.io/keywords/static)]
 
+* [cargo-coupling ![GitHub Repo Stars](https://img.shields.io/github/stars/nwiizo/cargo-coupling) ![GitHub last commit](https://img.shields.io/github/last-commit/nwiizo/cargo-coupling)](https://github.com/nwiizo/cargo-coupling) - A Rust coupling analysis tool using Vlad Khononov's "Balancing Coupling in Software Design" framework
 * [MIRAI ![GitHub Repo Stars](https://img.shields.io/github/stars/endorlabs/mirai) ![GitHub last commit](https://img.shields.io/github/last-commit/endorlabs/mirai)](https://github.com/endorlabs/mirai) - an abstract interpreter operating on Rust's mid-level intermediate representation (MIR) [![Continuous Integration ![GitHub Repo Stars](https://img.shields.io/github/stars/endorlabs/mirai) ![GitHub last commit](https://img.shields.io/github/last-commit/endorlabs/mirai)](https://github.com/endorlabs/mirai/actions/workflows/rust.yml/badge.svg)](https://github.com/endorlabs/mirai/actions/workflows/rust.yml)
 * [RAPx ![GitHub Repo Stars](https://img.shields.io/github/stars/Artisan-Lab/RAPx) ![GitHub last commit](https://img.shields.io/github/last-commit/Artisan-Lab/RAPx)](https://github.com/Artisan-Lab/RAPx) - A platform that helps Rust programmers develop and use advanced static analysis tools beyond those provided by the rustc compiler.
 * [static_assertions](https://crates.io/crates/static_assertions) - Compile-time assertions to ensure that invariants are met
@@ -1053,6 +1054,7 @@ See also [About Rust’s Machine Learning Community](https://medium.com/@autumn_
 #### Tooling
 
 * [BAML ![GitHub Repo Stars](https://img.shields.io/github/stars/BoundaryML/baml) ![GitHub last commit](https://img.shields.io/github/last-commit/BoundaryML/baml)](https://github.com/BoundaryML/baml) - A simple prompting language for building reliable AI workflows and agents. BAML's compiler is written in Rust!
+* [Cortex Memory ![GitHub Repo Stars](https://img.shields.io/github/stars/sopaco/cortex-mem) ![GitHub last commit](https://img.shields.io/github/last-commit/sopaco/cortex-mem)](https://github.com/sopaco/cortex-mem) - A complete solution for agent memory, from extraction and vector search to automated optimization, and insights dashboard out-of-the-box.
 
 ### Astronomy
 
