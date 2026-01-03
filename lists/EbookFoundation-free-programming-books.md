@@ -110,7 +110,7 @@ This project lists books and other resources grouped by genres:
 + [Portuguese (Brazil)](books/free-programming-books-pt_BR.md)
 + [Portuguese (Portugal)](books/free-programming-books-pt_PT.md)
 + [Romanian (Romania) / limba română / român](books/free-programming-books-ro.md)
-+ [Russian / Русс��ий язык](books/free-programming-books-ru.md)
++ [Russian / Русский язык](books/free-programming-books-ru.md)
 + [Serbian / српски језик / srpski jezik](books/free-programming-books-sr.md)
 + [Slovak / slovenčina](books/free-programming-books-sk.md)
 + [Slovenian / Slovenščina](books/free-programming-books-sl.md)
@@ -120,7 +120,7 @@ This project lists books and other resources grouped by genres:
 + [Telugu / తెలుగు](books/free-programming-books-te.md)
 + [Thai / ไทย](books/free-programming-books-th.md)
 + [Turkish / Türkçe](books/free-programming-books-tr.md)
-+ [Ukrainian / Українська](books/free-programming-books-uk.md)
++ [Ukrainian / Українськ��](books/free-programming-books-uk.md)
 + [Urdu / اردو](books/free-programming-books-ur.md)
 + [Vietnamese / Tiếng Việt](books/free-programming-books-vi.md)
 
