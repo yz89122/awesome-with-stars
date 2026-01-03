@@ -28,6 +28,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 ### API Testing
 - [BitDive](https://bitdive.io/) - Zero-code API testing platform for Java/Kotlin. Captures deep runtime context (HTTP, SQL, methods), auto-generates mocks from real traffic, and enables Live Context Replay for E2E testing and debugging.
 - [CORS Tester](https://cors-error.dev/cors-tester/) - A tool for developers and API testers to check if an API is CORS-enabled for a given domain and identify gaps.
+- [Vedika API](https://vedika.io/) - Vedic astrology API with free sandbox environment for testing. Includes Postman collection, 108+ endpoints, and AI-powered chatbot API for integration testing.
 - [HttpMaster](https://www.httpmaster.net) - Professional software tool for HTTP testing and debugging.
 - [Keploy ![GitHub Repo Stars](https://img.shields.io/github/stars/keploy/keploy) ![GitHub last commit](https://img.shields.io/github/last-commit/keploy/keploy)](https://github.com/keploy/keploy) - API Testing Platform that automatically generates unit test cases along with dependency mocks.
 - [RestQA ![GitHub Repo Stars](https://img.shields.io/github/stars/restqa/restqa) ![GitHub last commit](https://img.shields.io/github/last-commit/restqa/restqa)](https://github.com/restqa/restqa) - REST API testing framework based on Gherkin.
