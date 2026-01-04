@@ -138,7 +138,7 @@ Inspired by the [awesome ![GitHub Repo Stars](https://img.shields.io/github/star
 
 ### Books
 
-- [epr ![GitHub Repo Stars](https://img.shields.io/github/stars/wustho/epr) ![GitHub last commit](https://img.shields.io/github/last-commit/wustho/epr)](https://github.com/wustho/epr) - epub reader.
+- [epr ![GitHub Repo Stars](https://img.shields.io/github/stars/wustho/epr) ![GitHub last commit](https://img.shields.io/github/last-commit/wustho/epr)](https://github.com/wustho/epr), [epy ![GitHub Repo Stars](https://img.shields.io/github/stars/wustho/epy) ![GitHub last commit](https://img.shields.io/github/last-commit/wustho/epy)](https://github.com/wustho/epy) - EPUB reader.
 - [Bible.Js CLI ![GitHub Repo Stars](https://img.shields.io/github/stars/BibleJS/BibleApp) ![GitHub last commit](https://img.shields.io/github/last-commit/BibleJS/BibleApp)](https://github.com/BibleJS/BibleApp) - Bible.
 - [SpeedRead ![GitHub Repo Stars](https://img.shields.io/github/stars/sunsations/speed_read) ![GitHub last commit](https://img.shields.io/github/last-commit/sunsations/speed_read)](https://github.com/sunsations/speed_read) - Spritz-alike speedreader.
 - [medium-cli ![GitHub Repo Stars](https://img.shields.io/github/stars/djadmin/medium-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/djadmin/medium-cli)](https://github.com/djadmin/medium-cli) - Read [medium.com](https://medium.com/) stories.
@@ -224,6 +224,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [s5cmd ![GitHub Repo Stars](https://img.shields.io/github/stars/peak/s5cmd) ![GitHub last commit](https://img.shields.io/github/last-commit/peak/s5cmd)](https://github.com/peak/s5cmd) - Blazing fast S3 and local filesystem execution tool.
 - [updo ![GitHub Repo Stars](https://img.shields.io/github/stars/Owloops/updo) ![GitHub last commit](https://img.shields.io/github/last-commit/Owloops/updo)](https://github.com/Owloops/updo) - Website monitoring tool.
 - [cronboard ![GitHub Repo Stars](https://img.shields.io/github/stars/antoniorodr/Cronboard) ![GitHub last commit](https://img.shields.io/github/last-commit/antoniorodr/Cronboard)](https://github.com/antoniorodr/Cronboard) - Dashboard for managing cron jobs.
+- [s3m ![GitHub Repo Stars](https://img.shields.io/github/stars/s3m/s3m) ![GitHub last commit](https://img.shields.io/github/last-commit/s3m/s3m)](https://github.com/s3m/s3m) - Stream of data into S3 buckets.
 
 ### Docker
 
@@ -280,7 +281,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [loadtest ![GitHub Repo Stars](https://img.shields.io/github/stars/alexfernandez/loadtest) ![GitHub last commit](https://img.shields.io/github/last-commit/alexfernandez/loadtest)](https://github.com/alexfernandez/loadtest) - Run load tests.
 - [Step CI ![GitHub Repo Stars](https://img.shields.io/github/stars/stepci/stepci) ![GitHub last commit](https://img.shields.io/github/last-commit/stepci/stepci)](https://github.com/stepci/stepci) - API testing and QA framework.
 - [bats-core ![GitHub Repo Stars](https://img.shields.io/github/stars/bats-core/bats-core) ![GitHub last commit](https://img.shields.io/github/last-commit/bats-core/bats-core)](https://github.com/bats-core/bats-core) - Bash Automated Testing System.
-  
+
 ## Productivity
 
 - [doing ![GitHub Repo Stars](https://img.shields.io/github/stars/ttscoff/doing) ![GitHub last commit](https://img.shields.io/github/last-commit/ttscoff/doing)](https://github.com/ttscoff/doing/) - Keep track of what you’re doing and track what you’ve done.
