@@ -1397,6 +1397,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [date-time-picker ![GitHub Repo Stars](https://img.shields.io/github/stars/danielmoncada/date-time-picker) ![GitHub last commit](https://img.shields.io/github/last-commit/danielmoncada/date-time-picker)](https://github.com/danielmoncada/date-time-picker) - Angular date time picker.
 * [date-time-picker-moment-adapter ![GitHub Repo Stars](https://img.shields.io/github/stars/danielmoncada/date-time-picker-moment-adapter) ![GitHub last commit](https://img.shields.io/github/last-commit/danielmoncada/date-time-picker-moment-adapter)](https://github.com/danielmoncada/date-time-picker-moment-adapter) - Moment.js Adapter for `@danielmoncada/date-time-picker`.
 * [hijri-date-time-picker ![GitHub Repo Stars](https://img.shields.io/github/stars/hanygamal72/hijri-date-time-picker) ![GitHub last commit](https://img.shields.io/github/last-commit/hanygamal72/hijri-date-time-picker)](https://github.com/hanygamal72/hijri-date-time-picker) - Angular standalone dual Gregorian/Hijri datetime picker using Umm Al-Qura calendar.
+* [ng-laydate ![GitHub Repo Stars](https://img.shields.io/github/stars/lanxuexing/ng-laydate) ![GitHub last commit](https://img.shields.io/github/last-commit/lanxuexing/ng-laydate)](https://github.com/lanxuexing/ng-laydate) - A simple yet robust date & time picker for Angular 18+.
 
 ### Directives
 
@@ -1823,6 +1824,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [rm-ng-video-player ![GitHub Repo Stars](https://img.shields.io/github/stars/malikrajat/rm-ng-video-player-main) ![GitHub last commit](https://img.shields.io/github/last-commit/malikrajat/rm-ng-video-player-main)](https://github.com/malikrajat/rm-ng-video-player-main) - An advanced, feature-rich Angular video player with YouTube-style controls and Apple-inspired glassmorphism design.
 * [ngx-rumbletalk ![GitHub Repo Stars](https://img.shields.io/github/stars/RumbleTalk/ngx-rumbletalk) ![GitHub last commit](https://img.shields.io/github/last-commit/RumbleTalk/ngx-rumbletalk)](https://github.com/RumbleTalk/ngx-rumbletalk) - An Angular library for [Rumbletalk](https://rumbletalk.com/) group chats.
 * [ng-three-model-cropper ![GitHub Repo Stars](https://img.shields.io/github/stars/AlexRynas/ng-three-model-cropper) ![GitHub last commit](https://img.shields.io/github/last-commit/AlexRynas/ng-three-model-cropper)](https://github.com/AlexRynas/ng-three-model-cropper) - An Angular `Three.js` library for configurable 3D model cropping with GLB/FBX support and triangle-pruning export.
+* [@ngx-core/media-optimizer ![GitHub Repo Stars](https://img.shields.io/github/stars/barbozaa/media-optimizer-workspace) ![GitHub last commit](https://img.shields.io/github/last-commit/barbozaa/media-optimizer-workspace)](https://github.com/barbozaa/media-optimizer-workspace) - Professional framework-agnostic library for image optimization, conversion, and compression.
 
 ### Mixed Utilities
 
@@ -1878,6 +1880,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-security ![GitHub Repo Stars](https://img.shields.io/github/stars/xbranch/ngx-security) ![GitHub last commit](https://img.shields.io/github/last-commit/xbranch/ngx-security)](https://github.com/xbranch/ngx-security) - A modular Angular library for authentication, roles, and permissions management.
 * [ng-catbee ![GitHub Repo Stars](https://img.shields.io/github/stars/catbee-technologies/ng-catbee) ![GitHub last commit](https://img.shields.io/github/last-commit/catbee-technologies/ng-catbee)](https://github.com/catbee-technologies/ng-catbee) - A collection of Angular libraries developed and maintained by the [Catbee](https://catbee.in/docs/@ng-catbee/) team.
 * [ngx-persian ![GitHub Repo Stars](https://img.shields.io/github/stars/alihoseiny/ngx-persian) ![GitHub last commit](https://img.shields.io/github/last-commit/alihoseiny/ngx-persian)](https://github.com/alihoseiny/ngx-persian) - A full-featured toolset for Persian Applications.
+* [acontplus-libs ![GitHub Repo Stars](https://img.shields.io/github/stars/acontplus/acontplus-libs) ![GitHub last commit](https://img.shields.io/github/last-commit/acontplus/acontplus-libs)](https://github.com/acontplus/acontplus-libs) - Nx monorepo containing Angular libraries providing Domain-Driven Design (DDD) architecture, core utilities, and Angular Material UI components for enterprise applications.
 
 ### Modals
 

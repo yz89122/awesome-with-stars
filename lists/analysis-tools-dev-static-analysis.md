@@ -2052,7 +2052,7 @@ It identifies potential security risks in K8s RBAC design and makes suggestions 
 
 - [kube-score](https://kube-score.com) — Static code analysis of your Kubernetes object definitions.
 
-- [kubeconform ![GitHub Repo Stars](https://img.shields.io/github/stars/yannh/kubeconform) ![GitHub last commit](https://img.shields.io/github/last-commit/yannh/kubeconform)](https://github.com/yannh/kubeconform) ��� A fast Kubernetes manifests validator with support for custom resources.
+- [kubeconform ![GitHub Repo Stars](https://img.shields.io/github/stars/yannh/kubeconform) ![GitHub last commit](https://img.shields.io/github/last-commit/yannh/kubeconform)](https://github.com/yannh/kubeconform) — A fast Kubernetes manifests validator with support for custom resources.
 
 It is inspired by, contains code from and is designed to stay close to [Kubeval](https://analysis-tools.dev/tool/kubeval),
 but with the following improvements:
