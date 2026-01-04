@@ -109,9 +109,10 @@
 ## Browsers
 
 * [Arc](https://arc.net) - Organizes tabs vertically for improved productivity.
-* [Brave](https://brave.com) - Privacy focused browser with build in adblock. [![oss][oss]](https://github.com/brave/brave-browser)
+* [Brave](https://brave.com) - Privacy focused browser with built-in adblock. [![oss][oss]](https://github.com/brave/brave-browser)
 * [Firefox](https://firefox.com) - Browser with privacy and customization. [![oss][]](https://hg.mozilla.org/mozilla-central)
 * [Floorp](https://floorp.app/) - A Browser built for keeping the Open, Private and Sustainable Web alive. Based on Mozilla Firefox. [![Open-Source Software][oss]](https://github.com/floorp-Projects/floorp/)
+* [Helium](https://helium.computer/) - Browser based on Ungoogled Chromium with privacy, split-view, bangs and built-in ad-blocker. [![Open-Source Software][oss]](https://github.com/imputnet/helium/)
 * [Librewolf](https://librewolf.net) - A custom version of Firefox, focused on privacy, security and freedom. [![Open-Source Software][oss]](https://codeberg.org/librewolf/source)
 * [Tor Browser](https://www.torproject.org/) - Privacy browser routing traffic over the Tor network. [![Open-Source Software][oss]](https://gitlab.torproject.org/tpo/core/tor)
 * [Ungoogled Chromium ![GitHub Repo Stars](https://img.shields.io/github/stars/ungoogled-software/ungoogled-chromium) ![GitHub last commit](https://img.shields.io/github/last-commit/ungoogled-software/ungoogled-chromium)](https://github.com/ungoogled-software/ungoogled-chromium) - Removes Google integration and tracking. ![Open-Source Software](https://github.com/0pandadev/awesome-windows/raw/main/assets/opensource.svg)
@@ -380,8 +381,10 @@ every 20 minutes, look at something 20 feet (~6 meters) away for at least 20 sec
 
 ## Security
 
+
 * [AdwCleaner](https://toolslib.net/downloads/viewdownload/1-adwcleaner/) - Removal tool for adware, PUP/LPI, toolbars and hijackers.
 * [Bitdefender](https://www.bitdefender.com/) - Comprehensive malware protection suite.
+* [cppcryptfs ![GitHub Repo Stars](https://img.shields.io/github/stars/bailey27/cppcryptfs) ![GitHub last commit](https://img.shields.io/github/last-commit/bailey27/cppcryptfs)](https://github.com/bailey27/cppcryptfs) - cppcryptfs is an implementation of the gocryptfs encrypted overlay filesystem in C++ for Windows  
 * [Cryptomator](https://cryptomator.org/) - Client-side encryption for cloud files. [![Open-Source Software][oss]](https://github.com/cryptomator/cryptomator)
 * [ENCRYPTO](https://macpaw.com/encrypto) - File encryption utility.
 * [Ente Auth](https://ente.io/auth/) - Open source 2FA authenticator, with E2EE backups. [![Open-Source Software][oss]](https://github.com/ente-io/ente)
