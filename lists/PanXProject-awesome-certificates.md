@@ -198,7 +198,7 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 | <a href="https://www.life-global.org/course/427-professional-networking-for-career-growth" target="_blank" rel="noopener noreferrer">Professional Networking for Career Growth</a> | HP / Life Global | Beginner | 0.5 | 🏆 |
 | <a href="https://www.life-global.org/course/362-resume-writing-and-job-interviewing" target="_blank" rel="noopener noreferrer"> Resume Writing and Job Interviewing </a> | HP / Life Global | Beginner | 0.5 | 🏆 |
 | <a href="https://www.life-global.org/course/13-effective-leadership" target="_blank" rel="noopener noreferrer"> Effective Leadership </a> | HP / Life Global | Beginner | 0.5 | 🏆 |
-| <a href="https://www.life-global.org/course/12-effective-presentations" target="_blank" rel="noopener noreferrer"> Effective Presentations </a> | HP / Life Global | Beginner | 0.5 | ���� |
+| <a href="https://www.life-global.org/course/12-effective-presentations" target="_blank" rel="noopener noreferrer"> Effective Presentations </a> | HP / Life Global | Beginner | 0.5 | 🏆 |
 
 <a href="https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents" target="_blank" rel="noopener noreferrer">⬆️</a>
 
@@ -366,7 +366,7 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 
 | Course Name | Course Provider | Level | Hour(s) | Reward |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
-| <a href="https://learn.unity.com/pathway/unity-essentials" target="_blank" rel="noopener noreferrer">Unity Essentials</a> | Unity | Beginner | 336 | <a href="https://www.credly.com/org/unity/badge/unity-essentials-pathway" target="_blank" rel="noopener noreferrer">🏅</a> |
+| <a href="https://learn.unity.com/pathway/unity-essentials" target="_blank" rel="noopener noreferrer">Unity Essentials</a> | Unity | Beginner | 336 | <a href="https://www.credly.com/org/unity/badge/unity-essentials-pathway" target="_blank" rel="noopener noreferrer">���</a> |
 | <a href="https://learn.unity.com/pathway/junior-programmer" target="_blank" rel="noopener noreferrer">Junior Programmer</a> | Unity | Beginner | 2000 | <a href="https://www.credly.com/org/unity/badge/unity-junior-programmer" target="_blank" rel="noopener noreferrer">🏅</a>
 | <a href="https://learn.unity.com/pathway/creative-core" target="_blank" rel="noopener noreferrer">Creative Core</a> | Unity | Beginner | 1680 | <a href="https://www.credly.com/org/unity/badge/unity-creative-core" target="_blank" rel="noopener noreferrer">🏅</a>
 | <a href="https://learn.unity.com/pathway/vr-development" target="_blank" rel="noopener noreferrer">VR Development</a> | Unity | Beginner | 1000 | <a href="https://www.credly.com/org/unity/badge/unity-vr-development" target="_blank" rel="noopener noreferrer">🏅</a>
