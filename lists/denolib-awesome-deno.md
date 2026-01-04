@@ -502,7 +502,7 @@ This list is a collection of the best Deno modules and resources.
 
 ### Darija
 
-- [A first look at Deno | BlaBlaConf 2021 ��🇦](https://www.youtube.com/watch?v=Y_etUvzAa4s)
+- [A first look at Deno | BlaBlaConf 2021 🇲🇦](https://www.youtube.com/watch?v=Y_etUvzAa4s)
 
 ### Kurdish (Central)
 
