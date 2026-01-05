@@ -316,7 +316,7 @@
 
 ### YAML
 
-- [cuducos/yaml.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/cuducos/yaml.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/cuducos/yaml.nvim)](https://github.com/cuducos/yaml.nvim) - Utils to work with YAML files.
+- [cuducos.me/yaml.nvim](https://tangled.org/cuducos.me/yaml.nvim) - Utils to work with YAML files.
 
 ### Web Development
 
