@@ -326,6 +326,7 @@
 - [RunSQL](https://runsql.com/) - Free online SQL playground for MySQL, PostgreSQL, and SQL Server. Create database structures, run queries, and share results instantly.
 - [Spark Playground](https://www.sparkplayground.com/) - Write, run, and test PySpark code on Spark Playground's online compiler. Access real-world sample datasets & solve interview questions to enhance your PySpark skills for data engineering roles.
 - [daffy ![GitHub Repo Stars](https://img.shields.io/github/stars/vertti/daffy) ![GitHub last commit](https://img.shields.io/github/last-commit/vertti/daffy)](https://github.com/vertti/daffy/) - Decorator-first DataFrame contracts/validation (columns/dtypes/constraints) at function boundaries. Supports Pandas/Polars/PyArrow/Modin.
+- [Snowflake Emulator ![GitHub Repo Stars](https://img.shields.io/github/stars/nnnkkk7/snowflake-emulator) ![GitHub last commit](https://img.shields.io/github/last-commit/nnnkkk7/snowflake-emulator)](https://github.com/nnnkkk7/snowflake-emulator) - A Snowflake-compatible emulator for local development and testing.
 
 ## Community
 
