@@ -42,7 +42,7 @@
 - [playwright-go ![GitHub Repo Stars](https://img.shields.io/github/stars/playwright-community/playwright-go) ![GitHub last commit](https://img.shields.io/github/last-commit/playwright-community/playwright-go)](https://github.com/playwright-community/playwright-go) - Playwright port for Golang.
 - [playwright-ruby-client ![GitHub Repo Stars](https://img.shields.io/github/stars/YusukeIwaki/playwright-ruby-client) ![GitHub last commit](https://img.shields.io/github/last-commit/YusukeIwaki/playwright-ruby-client)](https://github.com/YusukeIwaki/playwright-ruby-client) - Playwright port for Ruby.
 - [playwright-cr ![GitHub Repo Stars](https://img.shields.io/github/stars/naqvis/playwright-cr) ![GitHub last commit](https://img.shields.io/github/last-commit/naqvis/playwright-cr)](https://github.com/naqvis/playwright-cr) - Playwright port for Crystal.
-- [playwright-rust ![GitHub Repo Stars](https://img.shields.io/github/stars/octaltree/playwright-rust) ![GitHub last commit](https://img.shields.io/github/last-commit/octaltree/playwright-rust)](https://github.com/octaltree/playwright-rust) - Playwright port for Rust.
+- [playwright-rust ![GitHub Repo Stars](https://img.shields.io/github/stars/padamson/playwright-rust) ![GitHub last commit](https://img.shields.io/github/last-commit/padamson/playwright-rust)](https://github.com/padamson/playwright-rust) - Playwright port for Rust.
 - [playwright-perl ![GitHub Repo Stars](https://img.shields.io/github/stars/teodesian/playwright-perl) ![GitHub last commit](https://img.shields.io/github/last-commit/teodesian/playwright-perl)](https://github.com/teodesian/playwright-perl) - Playwright port for Perl.
 
 ## Utils
@@ -83,7 +83,7 @@
 
 ## Showcases
 
-- [playwright-examples ![GitHub Repo Stars](https://img.shields.io/github/stars/microosft/playwright-examples) ![GitHub last commit](https://img.shields.io/github/last-commit/microosft/playwright-examples)](https://github.com/microosft/playwright-examples) - Various testing scenarios with Playwright.
+- [playwright-examples ![GitHub Repo Stars](https://img.shields.io/github/stars/microsoft/playwright-examples) ![GitHub last commit](https://img.shields.io/github/last-commit/microsoft/playwright-examples)](https://github.com/microsoft/playwright-examples) - Various testing scenarios with Playwright.
 - [VS Code ![GitHub Repo Stars](https://img.shields.io/github/stars/microsoft/vscode) ![GitHub last commit](https://img.shields.io/github/last-commit/microsoft/vscode)](https://github.com/microsoft/vscode) - Playwright is used to run cross-browser tests on their web builds.
 - [TypeScript ![GitHub Repo Stars](https://img.shields.io/github/stars/microsoft/TypeScript) ![GitHub last commit](https://img.shields.io/github/last-commit/microsoft/TypeScript)](https://github.com/microsoft/TypeScript) - Playwright is used test TypeScript.js across browsers.
 - [Elastic APM JS agent ![GitHub Repo Stars](https://img.shields.io/github/stars/elastic/apm-agent-rum-js) ![GitHub last commit](https://img.shields.io/github/last-commit/elastic/apm-agent-rum-js)](https://github.com/elastic/apm-agent-rum-js) - Playwright is used to run benchmark tests across browsers.
