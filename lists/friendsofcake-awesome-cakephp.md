@@ -73,6 +73,7 @@ Additional lists you might find useful:
 ## AI Tools
 *Plugins and libraries for integrating artificial intelligence and machine learning tools.*
 
+- [Crustum/OpenRouter plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/crustum/cakephp-open-router) ![GitHub last commit](https://img.shields.io/github/last-commit/crustum/cakephp-open-router)](https://github.com/crustum/cakephp-open-router) - Integration with OpenRouter service for unified LLM access, supporting multiple AI models with chat completions, streaming, tool calling, and web search.
 - [Synapse plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/josbeir/cakephp-synapse) ![GitHub last commit](https://img.shields.io/github/last-commit/josbeir/cakephp-synapse)](https://github.com/josbeir/cakephp-synapse) - Expose your application functionality via MCP, with built-in tools and documentation search to help you discover and interact with your app's capabilities.
 
 ## Architecture
@@ -202,6 +203,7 @@ Additional lists you might find useful:
 *Misc plugins and libraries.*
 
 - [Ajax plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/dereuromark/cakephp-ajax) ![GitHub last commit](https://img.shields.io/github/last-commit/dereuromark/cakephp-ajax)](https://github.com/dereuromark/cakephp-ajax) - A plugin to ease handling AJAX requests.
+- [AttributeRegistry plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/josbeir/cakephp-attribute-registry) ![GitHub last commit](https://img.shields.io/github/last-commit/josbeir/cakephp-attribute-registry)](https://github.com/josbeir/cakephp-attribute-registry) - A powerful CakePHP plugin for discovering, caching, and querying PHP 8 attributes across your application and plugins.
 - [CakeDC/Enum plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/CakeDC/enum) ![GitHub last commit](https://img.shields.io/github/last-commit/CakeDC/enum)](https://github.com/CakeDC/enum) - A plugin to add enumeration list support to your app.
 - [CakeDto plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/dereuromark/cakephp-dto) ![GitHub last commit](https://img.shields.io/github/last-commit/dereuromark/cakephp-dto)](https://github.com/dereuromark/cakephp-dto) - Quickly generate useful data transfer objects for your app (mutable/immutable), replacing messy arrays and leveraging your IDE through typehinting and autocomplete.
 - [CakeHtmx plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/zunnu/cake-htmx) ![GitHub last commit](https://img.shields.io/github/last-commit/zunnu/cake-htmx)](https://github.com/zunnu/cake-htmx) - CakePHP integration for [htmx](https://htmx.org/).
@@ -214,7 +216,6 @@ Additional lists you might find useful:
 - [Setup:Maintenance ![GitHub Repo Stars](https://img.shields.io/github/stars/dereuromark/cakephp-setup) ![GitHub last commit](https://img.shields.io/github/last-commit/dereuromark/cakephp-setup)](https://github.com/dereuromark/cakephp-setup/blob/master/docs/Maintenance/Maintenance.md) - Maintenance shell to go into maintenance mode for all requests with optional IP whitelisting.
 - [Shim plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/dereuromark/cakephp-shim) ![GitHub last commit](https://img.shields.io/github/last-commit/dereuromark/cakephp-shim)](https://github.com/dereuromark/cakephp-shim) - A plugin containing useful shims and improvements as basis for your application.
 - [Tools plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/dereuromark/cakephp-tools) ![GitHub last commit](https://img.shields.io/github/last-commit/dereuromark/cakephp-tools)](https://github.com/dereuromark/cakephp-tools) - Containing lots of useful helpers, behaviors, components, commands, helpers, libs and more.
- 
 
 ## Navigation
 *Building navigation structures.*
@@ -250,8 +251,9 @@ Additional lists you might find useful:
 *Working with event and task queues.*
 
 - [Queue plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/cakephp/queue) ![GitHub last commit](https://img.shields.io/github/last-commit/cakephp/queue)](https://github.com/cakephp/queue) - CakePHP core queue system for the [php-queue](https://php-enqueue.github.io) queue library.
-- [Crustum/BatchQueue plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/crustum/batch-queue) ![GitHub last commit](https://img.shields.io/github/last-commit/crustum/batch-queue)](https://github.com/crustum/batch-queue) - Unified system for managing batch job processing with parallel execution and sequential chains.
 - [Cake/Enqueue plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/CakeDC/cakephp-enqueue) ![GitHub last commit](https://img.shields.io/github/last-commit/CakeDC/cakephp-enqueue)](https://github.com/CakeDC/cakephp-enqueue) - Database-driven message queue integration using the Enqueue library for CakePHP Queue plugin.
+- [Crustum/BatchQueue plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/crustum/batch-queue) ![GitHub last commit](https://img.shields.io/github/last-commit/crustum/batch-queue)](https://github.com/crustum/batch-queue) - Unified system for managing batch job processing with parallel execution and sequential chains.
+- [Crustum/Temporal plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/crustum/cakephp-temporal) ![GitHub last commit](https://img.shields.io/github/last-commit/crustum/cakephp-temporal)](https://github.com/crustum/cakephp-temporal) - Workflow orchestration plugin for durable execution, reliable background jobs, and long-running processes with automatic retries.
 - [Queue plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/dereuromark/cakephp-queue) ![GitHub last commit](https://img.shields.io/github/last-commit/dereuromark/cakephp-queue)](https://github.com/dereuromark/cakephp-queue) - A minimal and dependency-free queue solution.
 - [QueueScheduler plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/dereuromark/cakephp-queue-scheduler) ![GitHub last commit](https://img.shields.io/github/last-commit/dereuromark/cakephp-queue-scheduler)](https://github.com/dereuromark/cakephp-queue-scheduler) - A dependency-free crontab-like scheduler as DB driven solution and addon to Queue (dereuromark) plugin.
 
