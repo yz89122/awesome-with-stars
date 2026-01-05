@@ -728,6 +728,7 @@ If you want to contribute to this list (please do), send me a pull request.
 - [GraphQL Intruder ![GitHub Repo Stars](https://img.shields.io/github/stars/davinerd/gql_intruder) ![GitHub last commit](https://img.shields.io/github/last-commit/davinerd/gql_intruder)](https://github.com/davinerd/gql_intruder) - Plugin based python script to perform GraphQL vulnerability assessment.
 - [GraphQL Cop ![GitHub Repo Stars](https://img.shields.io/github/stars/dolevf/graphql-cop) ![GitHub last commit](https://img.shields.io/github/last-commit/dolevf/graphql-cop)](https://github.com/dolevf/graphql-cop) - Security Audit Utility for GraphQL
 - [GraphQLer ![GitHub Repo Stars](https://img.shields.io/github/stars/omar2535/GraphQLer) ![GitHub last commit](https://img.shields.io/github/last-commit/omar2535/GraphQLer)](https://github.com/omar2535/GraphQLer) - Dependency-aware dynamic GraphQL testing tool
+- [Vulert](https://vulert.com) - Vulert secures software by detecting vulnerabilities in open-source dependencies—without accessing your code. It supports Js, PHP, Java, Python, and more
 
 ### Tools - Browser Extensions
 

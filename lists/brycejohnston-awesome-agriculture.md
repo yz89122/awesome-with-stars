@@ -55,11 +55,11 @@ Contributions welcome! Please follow the [contributing guidelines ![GitHub Repo 
 - [Open Plant Pathology](https://www.openplantpathology.org/) - A community that values open data and computational tools for advancing epidemiology and pathogen population biology and ecology.
 
 ## Datasets
-- [CWFID ![GitHub Repo Stars](https://img.shields.io/github/stars/cwfid/dataset) ![GitHub last commit](https://img.shields.io/github/last-commit/cwfid/dataset)](https://github.com/cwfid/dataset) - Dataset comprising field images, vegetation segmentation masks and crop/weed plant type annotations.
-- [CropHarvest ![GitHub Repo Stars](https://img.shields.io/github/stars/nasaharvest/cropharvest) ![GitHub last commit](https://img.shields.io/github/last-commit/nasaharvest/cropharvest)](https://github.com/nasaharvest/cropharvest) - Open source remote sensing dataset for global crop type mapping with 95,186 labeled datapoints from satellite imagery, supporting machine learning research for food security.
-- [FAO/NASA Harvest Crop Type Dataset](https://data.harvestportal.org/dataset/fao-bha-nasa-harvest-public-crop-type-datasets) - Ground truth crop type observations dataset with geolocated field data for validation and training of cropland classification models.
-- [CEAOD](https://ceaod.github.io/) - Controlled Environment Agriculture Open Data repository providing standardized datasets for greenhouse and indoor farming research with data analysis tools.
 - [Agriculture Datasets Collection](https://lacunafund.org/datasets/agriculture/) - Curated collection of machine learning datasets specifically designed to address food security challenges in developing regions.
+- [CEAOD](https://ceaod.github.io/) - Controlled Environment Agriculture Open Data repository providing standardized datasets for greenhouse and indoor farming research with data analysis tools.
+- [CropHarvest ![GitHub Repo Stars](https://img.shields.io/github/stars/nasaharvest/cropharvest) ![GitHub last commit](https://img.shields.io/github/last-commit/nasaharvest/cropharvest)](https://github.com/nasaharvest/cropharvest) - Open source remote sensing dataset for global crop type mapping with 95,186 labeled datapoints from satellite imagery, supporting machine learning research for food security.
+- [CWFID ![GitHub Repo Stars](https://img.shields.io/github/stars/cwfid/dataset) ![GitHub last commit](https://img.shields.io/github/last-commit/cwfid/dataset)](https://github.com/cwfid/dataset) - Dataset comprising field images, vegetation segmentation masks and crop/weed plant type annotations.
+- [FAO/NASA Harvest Crop Type Dataset](https://data.harvestportal.org/dataset/fao-bha-nasa-harvest-public-crop-type-datasets) - Ground truth crop type observations dataset with geolocated field data for validation and training of cropland classification models.
 - [Growstuff](https://www.growstuff.org/crops) - Record keeping & crop database, nice API
 - [PlantVillage](https://www.kaggle.com/datasets/emmarex/plantdisease) - Dataset containing leaf images of healthy and diseased plants, covering 38 disease classes across 14 different crops.
 - [SoybeanYield ![GitHub Repo Stars](https://img.shields.io/github/stars/saeedkhaki92/CNN-RNN-Yield-Prediction) ![GitHub last commit](https://img.shields.io/github/last-commit/saeedkhaki92/CNN-RNN-Yield-Prediction)](https://github.com/saeedkhaki92/CNN-RNN-Yield-Prediction?tab=readme-ov-file) - A multimodal agricultural dataset for soybean yield forecasting, integrating yield performance, management practices, weather data, and soil parameters. 
@@ -69,9 +69,10 @@ Contributions welcome! Please follow the [contributing guidelines ![GitHub Repo 
 
 - [AgGateway’s ADAPT Toolkit](https://adaptframework.org) - Open Source project providing tools to simplify communication between growers, their machines, and their partners.
 - [Agstack](https://github.com/agstack) - Open-Source Digital Infrastructure for the Agriculture Ecosystem.
-- [agx-ruby ![GitHub Repo Stars](https://img.shields.io/github/stars/brycejohnston/agx-ruby) ![GitHub last commit](https://img.shields.io/github/last-commit/brycejohnston/agx-ruby)](https://github.com/brycejohnston/agx-ruby) - Ruby client for Proagrica's agX platform APIs.
 - [API-Code-Samples ![GitHub Repo Stars](https://img.shields.io/github/stars/aWhereAPI/API-Code-Samples) ![GitHub last commit](https://img.shields.io/github/last-commit/aWhereAPI/API-Code-Samples)](https://github.com/aWhereAPI/API-Code-Samples) - Contains aWhere's API platform code samples.
+- [Botanica ![GitHub Repo Stars](https://img.shields.io/github/stars/Michael-A-Kuykendall/botanica) ![GitHub last commit](https://img.shields.io/github/last-commit/Michael-A-Kuykendall/botanica)](https://github.com/Michael-A-Kuykendall/botanica) - Production-ready Rust crate for professional botanical data management with taxonomic hierarchy, cultivation tracking, and Darwin Core compliance.
 - [ClearAg-API-Examples ![GitHub Repo Stars](https://img.shields.io/github/stars/IterisClearAg/ClearAg-API-Examples) ![GitHub last commit](https://img.shields.io/github/last-commit/IterisClearAg/ClearAg-API-Examples)](https://github.com/IterisClearAg/ClearAg-API-Examples) - A collection of code examples using the ClearAg APIs.
+- [Fiware AgriFood](https://www.fiware.org/community/smart-agrifood/) - Open Source data standards and IoT framework that help connect farm systems and enable practical smart farming and agrifood solutions—part of the larger Fiware.org project.
 - [JDLinkMachineDataAPI-OAuth2-CSharp-Example ![GitHub Repo Stars](https://img.shields.io/github/stars/JohnDeere/JDLinkMachineDataAPI-OAuth2-CSharp-Example) ![GitHub last commit](https://img.shields.io/github/last-commit/JohnDeere/JDLinkMachineDataAPI-OAuth2-CSharp-Example)](https://github.com/JohnDeere/JDLinkMachineDataAPI-OAuth2-CSharp-Example) - CSharp JDLink Machine Data API client example.
 - [Open Ag Data Alliance](https://github.com/oada) - OADA is an open project designed to bring interoperability, security, and privacy to agricultural data.
 - [MyJohnDeereAPI-OAuth2-Java-Example ![GitHub Repo Stars](https://img.shields.io/github/stars/JohnDeere/MyJohnDeereAPI-OAuth2-Java-Example) ![GitHub last commit](https://img.shields.io/github/last-commit/JohnDeere/MyJohnDeereAPI-OAuth2-Java-Example)](https://github.com/JohnDeere/MyJohnDeereAPI-OAuth2-Java-Example) - Java MyJohnDeere API client example.
@@ -83,11 +84,13 @@ Contributions welcome! Please follow the [contributing guidelines ![GitHub Repo 
 
 ## Farm Management Systems and Record Keeping
 
-- [farmOS ![GitHub Repo Stars](https://img.shields.io/github/stars/farmOS/farmOS) ![GitHub last commit](https://img.shields.io/github/last-commit/farmOS/farmOS)](https://github.com/farmOS/farmOS) - Web-based farm record keeping application built with Drupal and PHP.
 - [Ekylibre ![GitHub Repo Stars](https://img.shields.io/github/stars/ekylibre/ekylibre) ![GitHub last commit](https://img.shields.io/github/last-commit/ekylibre/ekylibre)](https://github.com/ekylibre/ekylibre) - Farm management information system for farmers and small enterprises built with Ruby on Rails and PostgreSQL/PostGIS.
+- [farmOS ![GitHub Repo Stars](https://img.shields.io/github/stars/farmOS/farmOS) ![GitHub last commit](https://img.shields.io/github/last-commit/farmOS/farmOS)](https://github.com/farmOS/farmOS) - Web-based farm record keeping application built with Drupal and PHP.
+- [GrowGood](https://gitlab.com/growgood)) - GrowGood is an open-source farm management platform using open standards like ValueFlows and JSON-LD to help track and share interoperable data across agricultural operations and marketplaces.
+- [LiteFarm ![GitHub Repo Stars](https://img.shields.io/github/stars/LiteFarmOrg/LiteFarm) ![GitHub last commit](https://img.shields.io/github/last-commit/LiteFarmOrg/LiteFarm)](https://github.com/LiteFarmOrg/LiteFarm) - LiteFarm is the world’s first community-led, not-for-profit, Farm management system
 - [Soil Mate ![GitHub Repo Stars](https://img.shields.io/github/stars/Open-Source-Agriculture/soil_mate) ![GitHub last commit](https://img.shields.io/github/last-commit/Open-Source-Agriculture/soil_mate)](https://github.com/Open-Source-Agriculture/soil_mate) - Helper app designed to assist the collection of soil data.
 - [Tania ![GitHub Repo Stars](https://img.shields.io/github/stars/Tanibox/tania-core) ![GitHub last commit](https://img.shields.io/github/last-commit/Tanibox/tania-core)](https://github.com/Tanibox/tania-core) - Free and open source farming management system for everyone built with Go and Vue.js.
-- [LiteFarm ![GitHub Repo Stars](https://img.shields.io/github/stars/LiteFarmOrg/LiteFarm) ![GitHub last commit](https://img.shields.io/github/last-commit/LiteFarmOrg/LiteFarm)](https://github.com/LiteFarmOrg/LiteFarm) - LiteFarm is the world’s first community-led, not-for-profit, Farm management system
+
 
 ## Geospatial and GIS
 
@@ -107,13 +110,14 @@ Contributions welcome! Please follow the [contributing guidelines ![GitHub Repo 
 ## IoT, Hardware
 
 - [AgOpenGPS ![GitHub Repo Stars](https://img.shields.io/github/stars/farmerbriantee/AgOpenGPS) ![GitHub last commit](https://img.shields.io/github/last-commit/farmerbriantee/AgOpenGPS)](https://github.com/farmerbriantee/AgOpenGPS) - Ag precision mapping and section control software.
-- [Open hydroponics](https://openhydroponics.com/) - Fully Automated Hydroponic OS 
 - [Farm-Data-Relay-System ![GitHub Repo Stars](https://img.shields.io/github/stars/timmbogner/Farm-Data-Relay-System) ![GitHub last commit](https://img.shields.io/github/last-commit/timmbogner/Farm-Data-Relay-System)](https://github.com/timmbogner/Farm-Data-Relay-System) - System using ESP-NOW, LoRa, and other protocols to transport sensor data in remote areas without relying on WiFi.
 - [Farm Hack](https://farmhack.org/tools) - Worldwide community of farmers that build and modify our own tools.
 - [Open Agriculture Foundation](https://github.com/OpenAgricultureFoundation) -  Open Source ecosystem of technologies that enable and promote transparency, networked experimentation, education, and hyper-local production.
+- [Open hydroponics](https://openhydroponics.com/) - Fully Automated Hydroponic OS 
 - [OpenMinder ![GitHub Repo Stars](https://img.shields.io/github/stars/autogrow/openminder) ![GitHub last commit](https://img.shields.io/github/last-commit/autogrow/openminder)](https://github.com/autogrow/openminder) - Open Source Rootzone Monitoring, API and open source hat for the RaspberryPi.
 - [OpenWeedLocator ![GitHub Repo Stars](https://img.shields.io/github/stars/geezacoleman/OpenWeedLocator) ![GitHub last commit](https://img.shields.io/github/last-commit/geezacoleman/OpenWeedLocator)](https://github.com/geezacoleman/OpenWeedLocator) - Open Source, low-cost, image-based weed detection device for in-crop and fallow scenarios.
 - [Simplesteer ![GitHub Repo Stars](https://img.shields.io/github/stars/matmis/simplesteer) ![GitHub last commit](https://img.shields.io/github/last-commit/matmis/simplesteer)](https://github.com/matmis/simplesteer) - RTK GPS tractor autosteer system with a web interface that you can control with a smartphone and can run on a Raspberry Pi.
+- [Smart Farming Thingsboard ![GitHub Repo Stars](https://img.shields.io/github/stars/arifulmrislam/Smart-farming-dashboard-with-ThingsBoard) ![GitHub last commit](https://img.shields.io/github/last-commit/arifulmrislam/Smart-farming-dashboard-with-ThingsBoard)](https://github.com/arifulmrislam/Smart-farming-dashboard-with-ThingsBoard) - a demo smart farming project using ThingsBoard to collect sensor data and display it on real-time agricultural dashboards.
 
 ## Knowledgebases and Learning Resources
 
@@ -131,9 +135,9 @@ Contributions welcome! Please follow the [contributing guidelines ![GitHub Repo 
 ## Remote Sensing and Imagery
 
 - [Awesome Sentinel ![GitHub Repo Stars](https://img.shields.io/github/stars/Fernerkundung/awesome-sentinel) ![GitHub last commit](https://img.shields.io/github/last-commit/Fernerkundung/awesome-sentinel)](https://github.com/Fernerkundung/awesome-sentinel) - A curated list of awesome tools, tutorials and APIs related to data from the Copernicus Sentinel Satellites.
+- [Awesome Vegetation Index ![GitHub Repo Stars](https://img.shields.io/github/stars/px39n/Awesome-Vegetation-Index) ![GitHub last commit](https://img.shields.io/github/last-commit/px39n/Awesome-Vegetation-Index)](https://github.com/px39n/Awesome-Vegetation-Index) - List of reference, applications of common Vegetation Indices for Multi-spectral, hyper-spectral and UAV images.
 - [Raster Vision ![GitHub Repo Stars](https://img.shields.io/github/stars/azavea/raster-vision) ![GitHub last commit](https://img.shields.io/github/last-commit/azavea/raster-vision)](https://github.com/azavea/raster-vision) - Deep learning for aerial/satellite imagery.
 - [Sen2Agri ![GitHub Repo Stars](https://img.shields.io/github/stars/Sen2Agri/Sen2Agri-System) ![GitHub last commit](https://img.shields.io/github/last-commit/Sen2Agri/Sen2Agri-System)](https://github.com/Sen2Agri/Sen2Agri-System) - Software system processing high resolution satellite images for agricultural purposes.
-- [Awesome Vegetation Index ![GitHub Repo Stars](https://img.shields.io/github/stars/px39n/Awesome-Vegetation-Index) ![GitHub last commit](https://img.shields.io/github/last-commit/px39n/Awesome-Vegetation-Index)](https://github.com/px39n/Awesome-Vegetation-Index) - List of reference, applications of common Vegetation Indices for Multi-spectral, hyper-spectral and UAV images.
 
 ## License
 
