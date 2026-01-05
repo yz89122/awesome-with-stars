@@ -238,6 +238,7 @@ Low-code and no-code platforms for application building
 
 ## Backup
 - [BaRMan ![GitHub Repo Stars](https://img.shields.io/github/stars/2ndquadrant-it/barman) ![GitHub last commit](https://img.shields.io/github/last-commit/2ndquadrant-it/barman)](https://github.com/2ndquadrant-it/barman) - Backup and Recovery Manager for PostgreSQL.
+- [Databasus ![GitHub Repo Stars](https://img.shields.io/github/stars/databasus/databasus) ![GitHub last commit](https://img.shields.io/github/last-commit/databasus/databasus)](https://github.com/databasus/databasus) - Tool for scheduled PostgreSQL backups via web UI with external storages (local, S3, FTP, Google Drive, etc.), notifications (webhook, Discord, Slack, etc.) and team management.
 - [pgbackrest ![GitHub Repo Stars](https://img.shields.io/github/stars/pgbackrest/pgbackrest) ![GitHub last commit](https://img.shields.io/github/last-commit/pgbackrest/pgbackrest)](https://github.com/pgbackrest/pgbackrest) - Reliable PostgreSQL Backup & Restore.
 - [pgcopydb ![GitHub Repo Stars](https://img.shields.io/github/stars/dimitri/pgcopydb) ![GitHub last commit](https://img.shields.io/github/last-commit/dimitri/pgcopydb)](https://github.com/dimitri/pgcopydb) - Copy a PostgreSQL database to a target PostgreSQL server (pg_dump | pg_restore on steroids).
 

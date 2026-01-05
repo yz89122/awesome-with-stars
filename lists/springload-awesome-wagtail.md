@@ -202,7 +202,7 @@ _You might also like [Awesome Django ![GitHub Repo Stars](https://img.shields.io
 ### Content Management
 
 - [Wagtail Themes ![GitHub Repo Stars](https://img.shields.io/github/stars/moorinl/wagtail-themes) ![GitHub last commit](https://img.shields.io/github/last-commit/moorinl/wagtail-themes)](https://github.com/moorinl/wagtail-themes) - Site-specific theme loader for Wagtail.
-- [Wagtail Sharing ![GitHub Repo Stars](https://img.shields.io/github/stars/cfpb/wagtail-sharing) ![GitHub last commit](https://img.shields.io/github/last-commit/cfpb/wagtail-sharing)](https://github.com/cfpb/wagtail-sharing) �� Easier sharing of Wagtail drafts.
+- [Wagtail Sharing ![GitHub Repo Stars](https://img.shields.io/github/stars/cfpb/wagtail-sharing) ![GitHub last commit](https://img.shields.io/github/last-commit/cfpb/wagtail-sharing)](https://github.com/cfpb/wagtail-sharing) – Easier sharing of Wagtail drafts.
 - [Wagtail Transfer ![GitHub Repo Stars](https://img.shields.io/github/stars/wagtail/wagtail-transfer) ![GitHub last commit](https://img.shields.io/github/last-commit/wagtail/wagtail-transfer)](https://github.com/wagtail/wagtail-transfer) - An official extension for Wagtail allowing content to be transferred between multiple instances of a Wagtail project
 - [Wagtail Import Export ![GitHub Repo Stars](https://img.shields.io/github/stars/torchbox/wagtail-import-export) ![GitHub last commit](https://img.shields.io/github/last-commit/torchbox/wagtail-import-export)](https://github.com/torchbox/wagtail-import-export) - Import/Export pages between Wagtail instances.
 - [Wagtail Import/Export Tool ![GitHub Repo Stars](https://img.shields.io/github/stars/berkalpyakici/wagtail-import-export-tool) ![GitHub last commit](https://img.shields.io/github/last-commit/berkalpyakici/wagtail-import-export-tool)](https://github.com/berkalpyakici/wagtail-import-export-tool) - Refactor of [Wagtail Import Export ![GitHub Repo Stars](https://img.shields.io/github/stars/torchbox/wagtail-import-export) ![GitHub last commit](https://img.shields.io/github/last-commit/torchbox/wagtail-import-export)](https://github.com/torchbox/wagtail-import-export). This tool supports importing/exporting images, documents, and snippets that are used on imported/exported pages.
@@ -309,7 +309,7 @@ _You might also like [Awesome Django ![GitHub Repo Stars](https://img.shields.io
 - [How Google uses Wagtail – Wagtail Space 2018](https://www.youtube.com/watch?v=lh9nmN1mzwQ&t=1937s) by Kevin Chung.
 - [Introducing Draft.js in Wagtail – Wagtail Space 2018](https://www.youtube.com/watch?v=lh9nmN1mzwQ&t=2690s) by Thibaud Colas. [Presentation](https://thib.me/introducing-draft-js-in-wagtail).
 - [Let It Go – Wagtail Space 2018](https://www.youtube.com/watch?v=lh9nmN1mzwQ&t=3938s) by Matt Wescott.
-- [Developing Solutions for Girls, by Men – Wagtail Space 2018](https://www.youtube.com/watch?v=lh9nmN1mzwQ&t=5184s) by Lisa Adams.
+- [Developing Solutions for Girls, by Men –��Wagtail Space 2018](https://www.youtube.com/watch?v=lh9nmN1mzwQ&t=5184s) by Lisa Adams.
 - [Wagtail’s first hatch – Wagtail Space 2018](https://www.youtube.com/watch?v=P8RUQE7Djdg&t=265s) by Bertrand Bordage.
 - [The Word Problem – Wagtail Space 2018](https://www.youtube.com/watch?v=P8RUQE7Djdg&t=2841s) by Tom Dyson.
 - [Wagtail on Divio Cloud – Wagtail Space 2018](https://www.youtube.com/watch?v=P8RUQE7Djdg&t=3856s) by Daniele Procida.
