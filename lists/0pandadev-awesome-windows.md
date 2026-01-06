@@ -409,6 +409,7 @@ every 20 minutes, look at something 20 feet (~6 meters) away for at least 20 sec
 * [CleanMyPC](https://macpaw.com/cleanmypc) - System cleanup and optimization utility. ![paid]
 * [CPU-Z](https://www.cpuid.com/softwares/cpu-z.html) - CPU monitoring and information tool.
 * [CrystalDiskInfo](https://crystalmark.info/en/software/crystaldiskinfo/) - Open-source utility for monitoring S.M.A.R.T. data, disk temperature and more. [![Open-Source Software][oss]](https://github.com/hiyohiyo/CrystalDiskInfo)
+* [CrunchyCleaner ![GitHub Repo Stars](https://img.shields.io/github/stars/Knuspii/CrunchyCleaner) ![GitHub last commit](https://img.shields.io/github/last-commit/Knuspii/CrunchyCleaner)](https://github.com/Knuspii/CrunchyCleaner) - A lightweight, software cache cleanup tool for Windows & Linux. [![Open-Source Software][oss]](https://github.com/Knuspii/CrunchyCleaner)
 * [Fan Control](https://getfancontrol.com/) - Highly focused fan controlling software. ![star]
 * [GPU-Z](https://www.techpowerup.com/gpuz/) - GPU monitoring and information tool.
 * [HTTrack](https://www.httrack.com/) - Offline website browser and mirror utility. [![Open-Source Software][oss]](https://github.com/xroche/httrack/tree/master)

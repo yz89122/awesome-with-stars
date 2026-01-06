@@ -510,6 +510,7 @@ See also [A comparison of operating systems written in Rust ![GitHub Repo Stars]
 * [ripasso ![GitHub Repo Stars](https://img.shields.io/github/stars/cortex/ripasso) ![GitHub last commit](https://img.shields.io/github/last-commit/cortex/ripasso)](https://github.com/cortex/ripasso/) - A password manager, filesystem compatible with pass
 * [rustscan ![GitHub Repo Stars](https://img.shields.io/github/stars/bee-san/RustScan) ![GitHub last commit](https://img.shields.io/github/last-commit/bee-san/RustScan)](https://github.com/bee-san/RustScan) - Make Nmap faster with this port scanning tool [![build badge ![GitHub Repo Stars](https://img.shields.io/github/stars/bee-san/RustScan) ![GitHub last commit](https://img.shields.io/github/last-commit/bee-san/RustScan)](https://github.com/bee-san/RustScan/actions/workflows/test.yml/badge.svg)](https://github.com/bee-san/RustScan/actions)
 * [ssh-vault ![GitHub Repo Stars](https://img.shields.io/github/stars/ssh-vault/ssh-vault) ![GitHub last commit](https://img.shields.io/github/last-commit/ssh-vault/ssh-vault)](https://github.com/ssh-vault/ssh-vault) - A simple tool to manage secrets using ssh keys for encryption and decryption.
+* [SystemVll/TAuth ![GitHub Repo Stars](https://img.shields.io/github/stars/SystemVll/TAuth) ![GitHub last commit](https://img.shields.io/github/last-commit/SystemVll/TAuth)](https://github.com/SystemVll/TAuth) - An easy and user friendly 2FA & Credentials manager, for your PC.
 
 ### Social networks
 
