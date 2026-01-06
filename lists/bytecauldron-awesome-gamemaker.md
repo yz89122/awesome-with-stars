@@ -200,7 +200,7 @@ Things that work with project files or GameMaker itself rather than being someth
 - [Good Vibes ![GitHub Repo Stars](https://img.shields.io/github/stars/mrdaneeyul/good-vibes) ![GitHub last commit](https://img.shields.io/github/last-commit/mrdaneeyul/good-vibes)](https://github.com/mrdaneeyul/good-vibes) - Device vibration.
 - [Mouse Queue ![GitHub Repo Stars](https://img.shields.io/github/stars/YAL-GameMaker/window_mouse_queue) ![GitHub last commit](https://img.shields.io/github/last-commit/YAL-GameMaker/window_mouse_queue)](https://github.com/YAL-GameMaker/window_mouse_queue) - Tracks the Windows mouse pointer with high precision.
 - [Native Cursors](https://yellowafterlife.itch.io/gamemaker-native-cursors) - System-level custom cursors. 💸
-- [Native Mouselock](https://yellowafterlife.itch.io/gamemaker-native-mouselock) - System-level mouse locking. ���
+- [Native Mouselock](https://yellowafterlife.itch.io/gamemaker-native-mouselock) - System-level mouse locking. 💸
 - [Raw Input](https://yellowafterlife.itch.io/gamemaker-raw-input) - Use multiple mice and keyboards. 💸
 
 ## User Interface

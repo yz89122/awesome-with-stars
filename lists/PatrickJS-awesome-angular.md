@@ -2119,6 +2119,7 @@ for the creation of web applications developed with Angular.
 * [ngx-gccb](https://www.npmjs.com/package/ngx-gccb) - Angular 19+ library with easy‑to‑use shared components, directives, pipes, and services. See [showcase](https://ngx-gccb.netlify.app/) for code snippets.
 * [Elementar UI](https://elementarui.com/) - Fully open-source Angular UI Components & Admin Panel based on Material 3 and Tailwind.
 * [ez-nav ![GitHub Repo Stars](https://img.shields.io/github/stars/pSkywalker/ez-nav) ![GitHub last commit](https://img.shields.io/github/last-commit/pSkywalker/ez-nav)](https://github.com/pSkywalker/ez-nav) - A config-driven, responsive Angular navigation bar that integrates seamlessly with Bootstrap layouts.
+* [cute-widgets ![GitHub Repo Stars](https://img.shields.io/github/stars/cute-widgets/base) ![GitHub last commit](https://img.shields.io/github/last-commit/cute-widgets/base)](https://github.com/cute-widgets/base) - An open‑source Angular UI library that provides native directive‑based components styled with Bootstrap 5+ utilities and design classes.
 
 ### UI Libraries built on Material
 
