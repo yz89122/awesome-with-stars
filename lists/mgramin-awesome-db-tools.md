@@ -61,6 +61,7 @@ For updates on `awesome-db-tools` and thoughts/news about databases/tools/SQL fo
 - [Aqua Data Studio](https://www.aquafold.com/aquadatastudio) - Productivity software for Database Developers, DBAs, and Analysts.
 - [Coginiti Pro](https://www.coginiti.co/products/coginiti-pro/) - Modern IDE for analyst and analytics engineers with proweful script and grid functionality.
 - [Database .net](http://fishcodelib.com/Database.htm) - Multiple database management tool with support for 20+ databases.
+- [Database Workbench](https://www.upscene.com/database_workbench/) - Complete IDE for database design, development and testing for Oracle, SQL Server, PostgreSQL, MySQL, MariaDB, Firebird, InterBase, SQLite and NexusDB.
 - [DataGrip](https://www.jetbrains.com/datagrip) - Cross-Platform IDE for Databases & SQL by JetBrains.
 - [DataStation ![GitHub Repo Stars](https://img.shields.io/github/stars/multiprocessio/datastation) ![GitHub last commit](https://img.shields.io/github/last-commit/multiprocessio/datastation)](https://github.com/multiprocessio/datastation) - Easily query, script, and visualize data from every database, file, and API.
 - [DBeaver ![GitHub Repo Stars](https://img.shields.io/github/stars/dbeaver/dbeaver) ![GitHub last commit](https://img.shields.io/github/last-commit/dbeaver/dbeaver)](https://github.com/dbeaver/dbeaver) - Free universal database manager and SQL client.
