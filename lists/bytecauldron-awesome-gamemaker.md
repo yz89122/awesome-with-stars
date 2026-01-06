@@ -165,7 +165,7 @@ Custom timers, timelines, and task scheduling.
 
 Things that work with project files or GameMaker itself rather than being something that's used in-game.
 
-- [Stitch](https://www.npmjs.com/package/@bscotch/stitch) - Pipeline Development Kit. Includes cross-project imports, batch-creating/updating sprites and sounds, texture page management, a VS Code integration, and more.
+- [Stitch for VSCode](https://marketplace.visualstudio.com/items?itemName=bscotch.bscotch-stitch-vscode) - Edit GameMaker projects in VSCode.
 - [GMEdit ![GitHub Repo Stars](https://img.shields.io/github/stars/YellowAfterlife/GMEdit) ![GitHub last commit](https://img.shields.io/github/last-commit/YellowAfterlife/GMEdit)](https://github.com/YellowAfterlife/GMEdit) - Code editor to use in conjunction with GameMaker.
 - [YYP Maker](https://sahaun.itch.io/yyp-maker) - Makes `.yyp` files for you.
 - [Rubber ![GitHub Repo Stars](https://img.shields.io/github/stars/GameMakerDiscord/Rubber) ![GitHub last commit](https://img.shields.io/github/last-commit/GameMakerDiscord/Rubber)](https://github.com/GameMakerDiscord/Rubber) - Compile GameMaker projects via the command line. Here's a [great guide](https://www.patreon.com/posts/how-to-build-36556955) on how to use it.
@@ -258,7 +258,7 @@ Things that work with project files or GameMaker itself rather than being someth
 - [AESnips ![GitHub Repo Stars](https://img.shields.io/github/stars/angelwire/AESnips) ![GitHub last commit](https://img.shields.io/github/last-commit/angelwire/AESnips)](https://github.com/angelwire/AESnips) - A sprite playback system.
 - [phgen ![GitHub Repo Stars](https://img.shields.io/github/stars/squircledev/phgen) ![GitHub last commit](https://img.shields.io/github/last-commit/squircledev/phgen)](https://github.com/squircledev/phgen) - Placeholder asset generation.
 - [Disarm ![GitHub Repo Stars](https://img.shields.io/github/stars/NuxiiGit/disarm) ![GitHub last commit](https://img.shields.io/github/last-commit/NuxiiGit/disarm)](https://github.com/NuxiiGit/disarm) - A spriter skeletal animation at runtime.
-- [Spritely ![GitHub Repo Stars](https://img.shields.io/github/stars/bscotch/stitch) ![GitHub last commit](https://img.shields.io/github/last-commit/bscotch/stitch)](https://github.com/bscotch/stitch/tree/develop/packages/spritely) - Image correction and cleanup for 2D video game sprites.
+- [SpriteSource ![GitHub Repo Stars](https://img.shields.io/github/stars/bscotch/stitch) ![GitHub last commit](https://img.shields.io/github/last-commit/bscotch/stitch)](https://github.com/bscotch/stitch/tree/develop/packages/sprite-source) - Utilities for creating art asset pipelines.
 - [PixelUpscaler ![GitHub Repo Stars](https://img.shields.io/github/stars/JujuAdams/Pixel-Art-Upscaling) ![GitHub last commit](https://img.shields.io/github/last-commit/JujuAdams/Pixel-Art-Upscaling)](https://github.com/JujuAdams/Pixel-Art-Upscaling) - Pixel art upscaling shader for awkward resolutions for GameMaker.
 - [ASESync](https://sahaun.itch.io/asesync) - Automatically syncs aesprite files in GameMaker.
 - [conveyorbelt ![GitHub Repo Stars](https://img.shields.io/github/stars/imissmyfriends/conveyorbelt) ![GitHub last commit](https://img.shields.io/github/last-commit/imissmyfriends/conveyorbelt)](https://github.com/imissmyfriends/conveyorbelt) - Similar to ASESync. Export Aesprite files to GameMaker sprites.
@@ -309,7 +309,6 @@ Things that work with project files or GameMaker itself rather than being someth
 ## Lighting
 
 - [Bulb ![GitHub Repo Stars](https://img.shields.io/github/stars/JujuAdams/Bulb) ![GitHub last commit](https://img.shields.io/github/last-commit/JujuAdams/Bulb)](https://github.com/JujuAdams/Bulb) - 2D lighting and shadows.
-- [Lighting System 2D ![GitHub Repo Stars](https://img.shields.io/github/stars/borup3/Lighting-System-2D) ![GitHub last commit](https://img.shields.io/github/last-commit/borup3/Lighting-System-2D)](https://github.com/borup3/Lighting-System-2D) - Requires GameMaker 2.2+ according to the repo.
 - [GameMaker Lighting Engine ![GitHub Repo Stars](https://img.shields.io/github/stars/bilouw/Gamemaker-Lighting-Engine) ![GitHub last commit](https://img.shields.io/github/last-commit/bilouw/Gamemaker-Lighting-Engine)](https://github.com/bilouw/Gamemaker-Lighting-Engine) - Tile-based Lighting Engine that projects shadows.
 - [Lighting Systems](https://www.youtube.com/playlist?list=PLYVea5brHS8YHECGPoEp4_gWU-k6nWzUy) - Very fast dynamic 2D lighting implementation from GrizzliusMaximus using shadow casting. ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)
 - [Crystal](https://foxyofjungle.itch.io/crystal-2d-lighting-engine) - Complete and efficient 2D lighting & shadows solution. 💸
@@ -338,7 +337,7 @@ Things that work with project files or GameMaker itself rather than being someth
 - [Outline Shader ![GitHub Repo Stars](https://img.shields.io/github/stars/Grisgram/gml-outline-shader-drawer) ![GitHub last commit](https://img.shields.io/github/last-commit/Grisgram/gml-outline-shader-drawer)](https://github.com/Grisgram/gml-outline-shader-drawer) - Outline shader.
 - [Chameleon ![GitHub Repo Stars](https://img.shields.io/github/stars/Lojemiru/Chameleon) ![GitHub last commit](https://img.shields.io/github/last-commit/Lojemiru/Chameleon)](https://github.com/Lojemiru/Chameleon) - Palette Swapper.
 - [Xpanda ![GitHub Repo Stars](https://img.shields.io/github/stars/GameMakerDiscord/Xpanda) ![GitHub last commit](https://img.shields.io/github/last-commit/GameMakerDiscord/Xpanda)](https://github.com/GameMakerDiscord/Xpanda) - Include code from external files in your shaders.
-- [Shadertoy to GameMaker](https://iarri.github.io/Shadertoy2GM/) - Convert shadertoy.com GLSL shaders to run in GameMaker.
+- [Shadertoy to GameMaker ![GitHub Repo Stars](https://img.shields.io/github/stars/jfkn1ght/Shadertoy2GM) ![GitHub last commit](https://img.shields.io/github/last-commit/jfkn1ght/Shadertoy2GM)](https://github.com/jfkn1ght/Shadertoy2GM) - Convert shadertoy.com shaders to run in GameMaker (GLSL ES).
 - [Shader Tutorials](https://www.youtube.com/watch?v=ch4BYqkL1w8&list=PL0kTSdIvQNCNE-BDKOlYu628AalMmXy_P) - Gaming Reverends. ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)
 - [Shader Tutorials](https://www.youtube.com/watch?v=a4S7LXx6-sQ&list=PL_hT--4HOvrdkihto8Xu7hhp1-5Gj8zsa) - DragoniteSpam. ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)
 
@@ -443,7 +442,6 @@ Things that work with project files or GameMaker itself rather than being someth
 - [GMLScripts.com](https://www.gmlscripts.com/script/index) - Dozens of helper scripts, organized similarly to the official documentation.
 - [GM48 Resources](https://gm48.net/resources) - Free resources from the community to become better at GameMaker Studio, game development and game jams.
 - [GameMaker Kitchen](https://www.gamemakerkitchen.com/) - Another great resource for open source libraries, assets, and snippets.
-- [obj_podcast](https://objpodcast.com/) - Gamedev-centered podcast featuring members of the GameMaker community.
 - [Dracula Theme ![GitHub Repo Stars](https://img.shields.io/github/stars/dracula/gamemaker-studio) ![GitHub last commit](https://img.shields.io/github/last-commit/dracula/gamemaker-studio)](https://github.com/dracula/gamemaker-studio) - A dark theme for the IDE.
 - [Gruvbox Theme ![GitHub Repo Stars](https://img.shields.io/github/stars/heygleeson/Gruvbox-GMTheme) ![GitHub last commit](https://img.shields.io/github/last-commit/heygleeson/Gruvbox-GMTheme)](https://github.com/heygleeson/Gruvbox-GMTheme) - A retro groove theme for the IDE.
 - [2.3 Syntax in Detail](https://yal.cc/gamemaker-2-3-syntax-in-details/) - A full guide of the syntax features/changes in GML from Yal.
