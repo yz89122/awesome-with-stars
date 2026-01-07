@@ -27,6 +27,7 @@ A knowledge collection of databases, software and papers related to computationa
   - [Compound Protein Interaction](#compound-protein-interaction)
   - [Pre-trained embedding](#pre-trained-embedding)
   - [LLM for biology](#llm-for-biology)
+  - [Foundation models](#foundation-models)
 
 ## Databases
 ### scRNA
@@ -114,6 +115,7 @@ A knowledge collection of databases, software and papers related to computationa
 - [Chemistry Development Kit ![GitHub Repo Stars](https://img.shields.io/github/stars/cdk/cdk) ![GitHub last commit](https://img.shields.io/github/last-commit/cdk/cdk)](https://github.com/cdk/cdk) - A software of cheminformatics and Machine Learning.
 - [FlashDeconv ![GitHub Repo Stars](https://img.shields.io/github/stars/cafferychen777/flashdeconv) ![GitHub last commit](https://img.shields.io/github/last-commit/cafferychen777/flashdeconv)](https://github.com/cafferychen777/flashdeconv) - High-performance spatial transcriptomics deconvolution. Processes 1M spots in ~3 minutes.
 - [RDKit ![GitHub Repo Stars](https://img.shields.io/github/stars/rdkit/rdkit) ![GitHub last commit](https://img.shields.io/github/last-commit/rdkit/rdkit)](https://github.com/rdkit/rdkit) - A software of cheminformatics and Machine Learning.
+- [ChatSpatial ![GitHub Repo Stars](https://img.shields.io/github/stars/cafferychen777/ChatSpatial) ![GitHub last commit](https://img.shields.io/github/last-commit/cafferychen777/ChatSpatial)](https://github.com/cafferychen777/ChatSpatial) - MCP server enabling spatial transcriptomics analysis via natural language.
 - [Scanpy](https://scanpy.readthedocs.io/en/stable/) - scRNA analysis library in Python.
 - [Seurat](https://satijalab.org/seurat/) - scRNA analysis library in R.
 - [Squidpy](https://squidpy.readthedocs.io/) - Spatial single cell analysis library in Python.
@@ -153,5 +155,7 @@ A knowledge collection of databases, software and papers related to computationa
 - [GenePT ![GitHub Repo Stars](https://img.shields.io/github/stars/yiqunchen/GenePT) ![GitHub last commit](https://img.shields.io/github/last-commit/yiqunchen/GenePT)](https://github.com/yiqunchen/GenePT) - foundation LLM for single cell data
 - [scPRINT ![GitHub Repo Stars](https://img.shields.io/github/stars/cantinilab/scPRINT) ![GitHub last commit](https://img.shields.io/github/last-commit/cantinilab/scPRINT)](https://github.com/cantinilab/scPRINT) - scPRINT is pretrained on 50M cells to denoise and perform zero imputation of any single cell RNAseq profile.
 
-
-
+### Foundation models
+- [scFoundation ![GitHub Repo Stars](https://img.shields.io/github/stars/biomap-research/scFoundation) ![GitHub last commit](https://img.shields.io/github/last-commit/biomap-research/scFoundation)](https://github.com/biomap-research/scFoundation) - A large-scale pretrained foundation model for single-cell gene expression data, enabling multiple downstream analysis tasks.
+- [scGPT ![GitHub Repo Stars](https://img.shields.io/github/stars/bowang-lab/scGPT) ![GitHub last commit](https://img.shields.io/github/last-commit/bowang-lab/scGPT)](https://github.com/bowang-lab/scGPT) - A transformer-based foundation model pretrained on millions of single-cell profiles to support various single-cell analysis tasks.
+- [BulkFormer ![GitHub Repo Stars](https://img.shields.io/github/stars/KangBoming/BulkFormer) ![GitHub last commit](https://img.shields.io/github/last-commit/KangBoming/BulkFormer)](https://github.com/KangBoming/BulkFormer) - A foundation model pretrained on large-scale bulk RNA-seq data to learn general transcriptomic representations for downstream analysis tasks.
