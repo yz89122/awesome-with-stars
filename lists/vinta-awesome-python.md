@@ -329,10 +329,13 @@ Inspired by [awesome-php ![GitHub Repo Stars](https://img.shields.io/github/star
 *Libraries for data analyzing.*
 
 * [pandas](http://pandas.pydata.org/) - A library providing high-performance, easy-to-use data structures and data analysis tools.
+* [polars ![GitHub Repo Stars](https://img.shields.io/github/stars/pola-rs/polars) ![GitHub last commit](https://img.shields.io/github/last-commit/pola-rs/polars)](https://github.com/pola-rs/polars) - A fast DataFrame library implemented in Rust with a Python API.
 * [aws-sdk-pandas ![GitHub Repo Stars](https://img.shields.io/github/stars/aws/aws-sdk-pandas) ![GitHub last commit](https://img.shields.io/github/last-commit/aws/aws-sdk-pandas)](https://github.com/aws/aws-sdk-pandas) - Pandas on AWS.
 * [datasette ![GitHub Repo Stars](https://img.shields.io/github/stars/simonw/datasette) ![GitHub last commit](https://img.shields.io/github/last-commit/simonw/datasette)](https://github.com/simonw/datasette) - An open source multi-tool for exploring and publishing data.
 * [desbordante ![GitHub Repo Stars](https://img.shields.io/github/stars/desbordante/desbordante-core) ![GitHub last commit](https://img.shields.io/github/last-commit/desbordante/desbordante-core)](https://github.com/desbordante/desbordante-core/) - An open source data profiler for complex pattern discovery.
 * [optimus ![GitHub Repo Stars](https://img.shields.io/github/stars/hi-primus/optimus) ![GitHub last commit](https://img.shields.io/github/last-commit/hi-primus/optimus)](https://github.com/hi-primus/optimus) - Agile Data Science Workflows made easy with PySpark.
+* [pathway ![GitHub Repo Stars](https://img.shields.io/github/stars/pathwaycom/pathway) ![GitHub last commit](https://img.shields.io/github/last-commit/pathwaycom/pathway)](https://github.com/pathwaycom/pathway) - Real-time data processing framework for Python with reactive dataflows.
+
 
 ## Data Validation
 
@@ -361,6 +364,7 @@ Inspired by [awesome-php ![GitHub Repo Stars](https://img.shields.io/github/star
 * [pygraphviz ![GitHub Repo Stars](https://img.shields.io/github/stars/pygraphviz/pygraphviz) ![GitHub last commit](https://img.shields.io/github/last-commit/pygraphviz/pygraphviz)](https://github.com/pygraphviz/pygraphviz/) - Python interface to [Graphviz](http://www.graphviz.org/).
 * [pyqtgraph ![GitHub Repo Stars](https://img.shields.io/github/stars/pyqtgraph/pyqtgraph) ![GitHub last commit](https://img.shields.io/github/last-commit/pyqtgraph/pyqtgraph)](https://github.com/pyqtgraph/pyqtgraph) - Interactive and realtime 2D/3D/Image plotting and science/engineering widgets.
 * [seaborn ![GitHub Repo Stars](https://img.shields.io/github/stars/mwaskom/seaborn) ![GitHub last commit](https://img.shields.io/github/last-commit/mwaskom/seaborn)](https://github.com/mwaskom/seaborn) - Statistical data visualization using Matplotlib.
+* [UltraPlot ![GitHub Repo Stars](https://img.shields.io/github/stars/ultraplot/UltraPlot) ![GitHub last commit](https://img.shields.io/github/last-commit/ultraplot/UltraPlot)](https://github.com/ultraplot/UltraPlot) - Matplotlib wrapper for publication-ready scientific figures with minimal code. Includes advanced subplot management, panel layouts, and batteries-included geoscience plotting.
 * [vispy ![GitHub Repo Stars](https://img.shields.io/github/stars/vispy/vispy) ![GitHub last commit](https://img.shields.io/github/last-commit/vispy/vispy)](https://github.com/vispy/vispy) - High-performance scientific visualization based on OpenGL.
 
 ## Database
@@ -420,6 +424,7 @@ Inspired by [awesome-php ![GitHub Repo Stars](https://img.shields.io/github/star
     * [django-debug-toolbar ![GitHub Repo Stars](https://img.shields.io/github/stars/jazzband/django-debug-toolbar) ![GitHub last commit](https://img.shields.io/github/last-commit/jazzband/django-debug-toolbar)](https://github.com/jazzband/django-debug-toolbar) - Display various debug information for Django.
     * [flask-debugtoolbar ![GitHub Repo Stars](https://img.shields.io/github/stars/pallets-eco/flask-debugtoolbar) ![GitHub last commit](https://img.shields.io/github/last-commit/pallets-eco/flask-debugtoolbar)](https://github.com/pallets-eco/flask-debugtoolbar) - A port of the django-debug-toolbar to flask.
     * [icecream ![GitHub Repo Stars](https://img.shields.io/github/stars/gruns/icecream) ![GitHub last commit](https://img.shields.io/github/last-commit/gruns/icecream)](https://github.com/gruns/icecream) - Inspect variables, expressions, and program execution with a single, simple function call.
+    * [memory-graph ![GitHub Repo Stars](https://img.shields.io/github/stars/bterwijn/memory_graph) ![GitHub last commit](https://img.shields.io/github/last-commit/bterwijn/memory_graph)](https://github.com/bterwijn/memory_graph) - Visualize Python data at runtime to debug references, mutability, and aliasing.
     * [pyelftools ![GitHub Repo Stars](https://img.shields.io/github/stars/eliben/pyelftools) ![GitHub last commit](https://img.shields.io/github/last-commit/eliben/pyelftools)](https://github.com/eliben/pyelftools) - Parsing and analyzing ELF files and DWARF debugging information.
 
 ## Deep Learning
@@ -577,6 +582,7 @@ Inspired by [awesome-php ![GitHub Repo Stars](https://img.shields.io/github/star
 *Libraries for working with GraphQL.*
 
 * [graphene ![GitHub Repo Stars](https://img.shields.io/github/stars/graphql-python/graphene) ![GitHub last commit](https://img.shields.io/github/last-commit/graphql-python/graphene)](https://github.com/graphql-python/graphene/) - GraphQL framework for Python.
+* [strawberry-django ![GitHub Repo Stars](https://img.shields.io/github/stars/strawberry-graphql/strawberry-django) ![GitHub last commit](https://img.shields.io/github/last-commit/strawberry-graphql/strawberry-django)](https://github.com/strawberry-graphql/strawberry-django) - Strawberry GraphQL integration with Django.
 
 ## Game Development
 
@@ -609,6 +615,7 @@ Inspired by [awesome-php ![GitHub Repo Stars](https://img.shields.io/github/star
 * [bleach ![GitHub Repo Stars](https://img.shields.io/github/stars/mozilla/bleach) ![GitHub last commit](https://img.shields.io/github/last-commit/mozilla/bleach)](https://github.com/mozilla/bleach) - A whitelist-based HTML sanitization and text linkification library.
 * [cssutils](https://pypi.org/project/cssutils/) - A CSS library for Python.
 * [html5lib ![GitHub Repo Stars](https://img.shields.io/github/stars/html5lib/html5lib-python) ![GitHub last commit](https://img.shields.io/github/last-commit/html5lib/html5lib-python)](https://github.com/html5lib/html5lib-python) - A standards-compliant library for parsing and serializing HTML documents and fragments.
+* [JustHTML ![GitHub Repo Stars](https://img.shields.io/github/stars/EmilStenstrom/justhtml) ![GitHub last commit](https://img.shields.io/github/last-commit/EmilStenstrom/justhtml)](https://github.com/EmilStenstrom/justhtml/) - A pure Python HTML5 parser that just works. No C extensions to compile. No system dependencies to install. No complex API to learn.
 * [lxml](http://lxml.de/) - A very fast, easy-to-use and versatile library for handling HTML and XML.
 * [markupsafe ![GitHub Repo Stars](https://img.shields.io/github/stars/pallets/markupsafe) ![GitHub last commit](https://img.shields.io/github/last-commit/pallets/markupsafe)](https://github.com/pallets/markupsafe) - Implements a XML/HTML/XHTML Markup safe string for Python.
 * [pyquery ![GitHub Repo Stars](https://img.shields.io/github/stars/gawel/pyquery) ![GitHub last commit](https://img.shields.io/github/last-commit/gawel/pyquery)](https://github.com/gawel/pyquery) - A jQuery-like library for parsing HTML.
@@ -719,6 +726,7 @@ Inspired by [awesome-php ![GitHub Repo Stars](https://img.shields.io/github/star
 * [vowpal_porpoise ![GitHub Repo Stars](https://img.shields.io/github/stars/josephreisinger/vowpal_porpoise) ![GitHub last commit](https://img.shields.io/github/last-commit/josephreisinger/vowpal_porpoise)](https://github.com/josephreisinger/vowpal_porpoise) - A lightweight Python wrapper for [Vowpal Wabbit ![GitHub Repo Stars](https://img.shields.io/github/stars/JohnLangford/vowpal_wabbit) ![GitHub last commit](https://img.shields.io/github/last-commit/JohnLangford/vowpal_wabbit)](https://github.com/JohnLangford/vowpal_wabbit/).
 * [xgboost ![GitHub Repo Stars](https://img.shields.io/github/stars/dmlc/xgboost) ![GitHub last commit](https://img.shields.io/github/last-commit/dmlc/xgboost)](https://github.com/dmlc/xgboost) - A scalable, portable, and distributed gradient boosting library.
 * [MindsDB ![GitHub Repo Stars](https://img.shields.io/github/stars/mindsdb/mindsdb) ![GitHub last commit](https://img.shields.io/github/last-commit/mindsdb/mindsdb)](https://github.com/mindsdb/mindsdb) - MindsDB is an open source AI layer for existing databases that allows you to effortlessly develop, train and deploy state-of-the-art machine learning models using standard queries.
+* [PraisonAI ![GitHub Repo Stars](https://img.shields.io/github/stars/MervinPraison/PraisonAI) ![GitHub last commit](https://img.shields.io/github/last-commit/MervinPraison/PraisonAI)](https://github.com/MervinPraison/PraisonAI) - Production-ready Multi-AI Agents framework with self-reflection, 100+ LLM support, MCP integration, and agentic workflows.
 
 ## Microsoft Windows
 
@@ -854,7 +862,7 @@ Inspired by [awesome-php ![GitHub Repo Stars](https://img.shields.io/github/star
 
 ## Refactoring
 
-*Refactoring tools and libraries for Python*
+*Refactoring tools and libraries for Python.*
 
  * [Bicycle Repair Man](http://bicyclerepair.sourceforge.net/) - Bicycle Repair Man, a refactoring tool for Python.
  * [Bowler](https://pybowler.io/) - Safe code refactoring for modern Python.
@@ -971,6 +979,7 @@ Inspired by [awesome-php ![GitHub Repo Stars](https://img.shields.io/github/star
     * [xlwt ![GitHub Repo Stars](https://img.shields.io/github/stars/python-excel/xlwt) ![GitHub last commit](https://img.shields.io/github/last-commit/python-excel/xlwt)](https://github.com/python-excel/xlwt) / [xlrd ![GitHub Repo Stars](https://img.shields.io/github/stars/python-excel/xlrd) ![GitHub last commit](https://img.shields.io/github/last-commit/python-excel/xlrd)](https://github.com/python-excel/xlrd) - Writing and reading data and formatting information from Excel files.
 * PDF
     * [pdfminer.six ![GitHub Repo Stars](https://img.shields.io/github/stars/pdfminer/pdfminer.six) ![GitHub last commit](https://img.shields.io/github/last-commit/pdfminer/pdfminer.six)](https://github.com/pdfminer/pdfminer.six) - Pdfminer.six is a community maintained fork of the original PDFMiner.
+    * [pikepdf ![GitHub Repo Stars](https://img.shields.io/github/stars/pikepdf/pikepdf) ![GitHub last commit](https://img.shields.io/github/last-commit/pikepdf/pikepdf)](https://github.com/pikepdf/pikepdf) - A powerful library for reading and editing PDF files, based on qpdf.
     * [PyPDF2 ![GitHub Repo Stars](https://img.shields.io/github/stars/mstamy2/PyPDF2) ![GitHub last commit](https://img.shields.io/github/last-commit/mstamy2/PyPDF2)](https://github.com/mstamy2/PyPDF2) - A library capable of splitting, merging and transforming PDF pages.
     * [ReportLab](https://www.reportlab.com/opensource/) - Allowing Rapid creation of rich PDF documents.
 * Markdown
@@ -1213,4 +1222,3 @@ Your contributions are always welcome! Please take a look at the [contribution g
 - - -
 
 If you have any question about this opinionated list, do not hesitate to contact me [@VintaChen](https://twitter.com/VintaChen) on Twitter or open an issue on GitHub.
-
