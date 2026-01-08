@@ -2353,6 +2353,7 @@ for the creation of web applications developed with Angular.
 * [Bit](https://bit.dev/docs/angular-introduction/) -  Leverage Bit to build composable software.
 * [angular-twitter-timeline ![GitHub Repo Stars](https://img.shields.io/github/stars/mustafaer/angular-twitter-timeline) ![GitHub last commit](https://img.shields.io/github/last-commit/mustafaer/angular-twitter-timeline)](https://github.com/mustafaer/angular-twitter-timeline) - Angular Public Twitter Timeline Widget.
 * [ngx-signalr-websocket ![GitHub Repo Stars](https://img.shields.io/github/stars/yurivoronin/ngx-signalr-websocket) ![GitHub last commit](https://img.shields.io/github/last-commit/yurivoronin/ngx-signalr-websocket)](https://github.com/yurivoronin/ngx-signalr-websocket) - A lightweight ASP.NET SignalR client for Angular.
+* [Keploy](https://keploy.io/docs/quickstart/openhospital/) - Record test cases and mocks by interacting with the Angular UI, and then test them using Keploy.
 
 ### Wrappers
 
