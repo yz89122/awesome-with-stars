@@ -122,7 +122,7 @@ Tools for building and deploying AI applications.
 - [Ideogram](https://ideogram.ai/) — Precise, legible text in generated images.
 - [Flux](https://blackforestlabs.ai/) — High-res, prompt-editable images.
 
-#### 🎥 Video
+#### ���� Video
 - [Kling](https://klingai.com/) — Cinematic, realistic video generation.
 - [Google Veo 3](https://deepmind.google/technologies/veo/) — High-quality video with synchronized audio.
 - [Runway](https://runwayml.com/) — Video editing + generation.
