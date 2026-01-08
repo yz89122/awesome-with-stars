@@ -115,6 +115,7 @@ Inspired by [awesome-php ![GitHub Repo Stars](https://img.shields.io/github/star
 * [django-grappelli ![GitHub Repo Stars](https://img.shields.io/github/stars/sehmaschine/django-grappelli) ![GitHub last commit](https://img.shields.io/github/last-commit/sehmaschine/django-grappelli)](https://github.com/sehmaschine/django-grappelli) - A jazzy skin for the Django Admin-Interface.
 * [flask-admin ![GitHub Repo Stars](https://img.shields.io/github/stars/flask-admin/flask-admin) ![GitHub last commit](https://img.shields.io/github/last-commit/flask-admin/flask-admin)](https://github.com/flask-admin/flask-admin) - Simple and extensible administrative interface framework for Flask.
 * [flower ![GitHub Repo Stars](https://img.shields.io/github/stars/mher/flower) ![GitHub last commit](https://img.shields.io/github/last-commit/mher/flower)](https://github.com/mher/flower) - Real-time monitor and web admin for Celery.
+* [func-to-web ![GitHub Repo Stars](https://img.shields.io/github/stars/offerrall/FuncToWeb) ![GitHub last commit](https://img.shields.io/github/last-commit/offerrall/FuncToWeb)](https://github.com/offerrall/FuncToWeb) - Instantly create web UIs from Python functions using type hints. Zero frontend code required.
 * [jet-bridge ![GitHub Repo Stars](https://img.shields.io/github/stars/jet-admin/jet-bridge) ![GitHub last commit](https://img.shields.io/github/last-commit/jet-admin/jet-bridge)](https://github.com/jet-admin/jet-bridge) - Admin panel framework for any application with nice UI (ex Jet Django).
 * [wooey ![GitHub Repo Stars](https://img.shields.io/github/stars/wooey/wooey) ![GitHub last commit](https://img.shields.io/github/last-commit/wooey/wooey)](https://github.com/wooey/wooey) - A Django app which creates automatic web UIs for Python scripts.
 * [streamlit ![GitHub Repo Stars](https://img.shields.io/github/stars/streamlit/streamlit) ![GitHub last commit](https://img.shields.io/github/last-commit/streamlit/streamlit)](https://github.com/streamlit/streamlit) - A framework which lets you build dashboards, generate reports, or create chat apps in minutes.
@@ -140,7 +141,7 @@ Inspired by [awesome-php ![GitHub Repo Stars](https://img.shields.io/github/star
 * [daphne ![GitHub Repo Stars](https://img.shields.io/github/stars/django/daphne) ![GitHub last commit](https://img.shields.io/github/last-commit/django/daphne)](https://github.com/django/daphne) - A HTTP, HTTP2 and WebSocket protocol server for ASGI and ASGI-HTTP.
 * [uvicorn ![GitHub Repo Stars](https://img.shields.io/github/stars/encode/uvicorn) ![GitHub last commit](https://img.shields.io/github/last-commit/encode/uvicorn)](https://github.com/encode/uvicorn) - A lightning-fast ASGI server implementation, using uvloop and httptools.
 * [hypercorn ![GitHub Repo Stars](https://img.shields.io/github/stars/pgjones/hypercorn) ![GitHub last commit](https://img.shields.io/github/last-commit/pgjones/hypercorn)](https://github.com/pgjones/hypercorn) - An ASGI and WSGI Server based on Hyper libraries and inspired by Gunicorn.
-
+* [granian ![GitHub Repo Stars](https://img.shields.io/github/stars/emmett-framework/granian) ![GitHub last commit](https://img.shields.io/github/last-commit/emmett-framework/granian)](https://github.com/emmett-framework/granian) - Granian is a Rust HTTP server for Python applications built on top of Hyper and Tokio,supporting WSGI/ASGI/RSGI.
 ## Asynchronous Programming
 
 *Libraries for asynchronous, concurrent and parallel execution. Also see [awesome-asyncio ![GitHub Repo Stars](https://img.shields.io/github/stars/timofurrer/awesome-asyncio) ![GitHub last commit](https://img.shields.io/github/last-commit/timofurrer/awesome-asyncio)](https://github.com/timofurrer/awesome-asyncio).*
@@ -270,6 +271,7 @@ Inspired by [awesome-php ![GitHub Repo Stars](https://img.shields.io/github/star
     * [cliff ![GitHub Repo Stars](https://img.shields.io/github/stars/openstack/cliff) ![GitHub last commit](https://img.shields.io/github/last-commit/openstack/cliff)](https://github.com/openstack/cliff) - A framework for creating command-line programs with multi-level commands.
     * [python-fire ![GitHub Repo Stars](https://img.shields.io/github/stars/google/python-fire) ![GitHub last commit](https://img.shields.io/github/last-commit/google/python-fire)](https://github.com/google/python-fire) - A library for creating command line interfaces from absolutely any Python object.
     * [python-prompt-toolkit ![GitHub Repo Stars](https://img.shields.io/github/stars/prompt-toolkit/python-prompt-toolkit) ![GitHub last commit](https://img.shields.io/github/last-commit/prompt-toolkit/python-prompt-toolkit)](https://github.com/prompt-toolkit/python-prompt-toolkit) - A library for building powerful interactive command lines.
+    * [Typer ![GitHub Repo Stars](https://img.shields.io/github/stars/tiangolo/typer) ![GitHub last commit](https://img.shields.io/github/last-commit/tiangolo/typer)](https://github.com/tiangolo/typer) - Modern CLI framework that uses Python type hints. Built on Click and Pydantic.
 * Terminal Rendering
     * [alive-progress ![GitHub Repo Stars](https://img.shields.io/github/stars/rsalmei/alive-progress) ![GitHub last commit](https://img.shields.io/github/last-commit/rsalmei/alive-progress)](https://github.com/rsalmei/alive-progress) - A new kind of Progress Bar, with real-time throughput, eta and very cool animations.
     * [asciimatics ![GitHub Repo Stars](https://img.shields.io/github/stars/peterbrittain/asciimatics) ![GitHub last commit](https://img.shields.io/github/last-commit/peterbrittain/asciimatics)](https://github.com/peterbrittain/asciimatics) - A package to create full-screen text UIs (from interactive forms to ASCII animations).
@@ -465,6 +467,7 @@ Inspired by [awesome-php ![GitHub Repo Stars](https://img.shields.io/github/star
 * Batch Processing
     * [dask ![GitHub Repo Stars](https://img.shields.io/github/stars/dask/dask) ![GitHub last commit](https://img.shields.io/github/last-commit/dask/dask)](https://github.com/dask/dask) - A flexible parallel computing library for analytic computing.
     * [luigi ![GitHub Repo Stars](https://img.shields.io/github/stars/spotify/luigi) ![GitHub last commit](https://img.shields.io/github/last-commit/spotify/luigi)](https://github.com/spotify/luigi) - A module that helps you build complex pipelines of batch jobs.
+    * [mpi4py ![GitHub Repo Stars](https://img.shields.io/github/stars/mpi4py/mpi4py) ![GitHub last commit](https://img.shields.io/github/last-commit/mpi4py/mpi4py)](https://github.com/mpi4py/mpi4py) - Python bindings for MPI.
     * [PySpark ![GitHub Repo Stars](https://img.shields.io/github/stars/apache/spark) ![GitHub last commit](https://img.shields.io/github/last-commit/apache/spark)](https://github.com/apache/spark) - [Apache Spark](https://spark.apache.org/) Python API.
     * [Ray ![GitHub Repo Stars](https://img.shields.io/github/stars/ray-project/ray) ![GitHub last commit](https://img.shields.io/github/last-commit/ray-project/ray)](https://github.com/ray-project/ray/) - A system for parallel and distributed Python that unifies the machine learning ecosystem.
 * Stream Processing
@@ -560,7 +563,6 @@ Inspired by [awesome-php ![GitHub Repo Stars](https://img.shields.io/github/star
 *Libraries for working with graphical user interface applications.*
 
 * [curses](https://docs.python.org/3/library/curses.html) - Built-in wrapper for [ncurses](http://www.gnu.org/software/ncurses/) used to create terminal GUI applications.
-* [Eel ![GitHub Repo Stars](https://img.shields.io/github/stars/ChrisKnott/Eel) ![GitHub last commit](https://img.shields.io/github/last-commit/ChrisKnott/Eel)](https://github.com/ChrisKnott/Eel) - A library for making simple Electron-like offline HTML/JS GUI apps.
 * [enaml ![GitHub Repo Stars](https://img.shields.io/github/stars/nucleic/enaml) ![GitHub last commit](https://img.shields.io/github/last-commit/nucleic/enaml)](https://github.com/nucleic/enaml) - Creating beautiful user-interfaces with Declarative Syntax like QML.
 * [Flet](https://flet.dev) - Cross-platform GUI framework for building modern apps in pure Python. Run on Windows, macOS, Linux, Android, iOS, and the Web.
 * [Flexx ![GitHub Repo Stars](https://img.shields.io/github/stars/zoofIO/flexx) ![GitHub last commit](https://img.shields.io/github/last-commit/zoofIO/flexx)](https://github.com/zoofIO/flexx) - Flexx is a pure Python toolkit for creating GUI's, that uses web technology for its rendering.
@@ -678,6 +680,7 @@ Inspired by [awesome-php ![GitHub Repo Stars](https://img.shields.io/github/star
 * [bpython ![GitHub Repo Stars](https://img.shields.io/github/stars/bpython/bpython) ![GitHub last commit](https://img.shields.io/github/last-commit/bpython/bpython)](https://github.com/bpython/bpython) - A fancy interface to the Python interpreter.
 * [Jupyter Notebook (IPython)](https://jupyter.org) - A rich toolkit to help you make the most out of using Python interactively.
     * [awesome-jupyter ![GitHub Repo Stars](https://img.shields.io/github/stars/markusschanta/awesome-jupyter) ![GitHub last commit](https://img.shields.io/github/last-commit/markusschanta/awesome-jupyter)](https://github.com/markusschanta/awesome-jupyter)
+* [marimo ![GitHub Repo Stars](https://img.shields.io/github/stars/marimo-team/marimo) ![GitHub last commit](https://img.shields.io/github/last-commit/marimo-team/marimo)](https://github.com/marimo-team/marimo) - Transform data and train models, feels like a next-gen notebook, stored as Git-friendly Python.
 * [ptpython ![GitHub Repo Stars](https://img.shields.io/github/stars/jonathanslenders/ptpython) ![GitHub last commit](https://img.shields.io/github/last-commit/jonathanslenders/ptpython)](https://github.com/jonathanslenders/ptpython) - Advanced Python REPL built on top of the [python-prompt-toolkit ![GitHub Repo Stars](https://img.shields.io/github/stars/jonathanslenders/python-prompt-toolkit) ![GitHub last commit](https://img.shields.io/github/last-commit/jonathanslenders/python-prompt-toolkit)](https://github.com/jonathanslenders/python-prompt-toolkit).
 
 ## Internationalization
@@ -736,7 +739,7 @@ Inspired by [awesome-php ![GitHub Repo Stars](https://img.shields.io/github/star
 * [pythonlibs](http://www.lfd.uci.edu/~gohlke/pythonlibs/) - Unofficial Windows binaries for Python extension packages.
 * [PythonNet ![GitHub Repo Stars](https://img.shields.io/github/stars/pythonnet/pythonnet) ![GitHub last commit](https://img.shields.io/github/last-commit/pythonnet/pythonnet)](https://github.com/pythonnet/pythonnet) - Python Integration with the .NET Common Language Runtime (CLR).
 * [PyWin32 ![GitHub Repo Stars](https://img.shields.io/github/stars/mhammond/pywin32) ![GitHub last commit](https://img.shields.io/github/last-commit/mhammond/pywin32)](https://github.com/mhammond/pywin32) - Python Extensions for Windows.
-* [WinPython](https://winpython.github.io/) - Portable development environment for Windows 7/8.
+* [WinPython](https://winpython.github.io/) - Portable development environment for Windows 10/11.
 
 ## Miscellaneous
 
@@ -792,6 +795,7 @@ Inspired by [awesome-php ![GitHub Repo Stars](https://img.shields.io/github/star
     * [Django Models](https://docs.djangoproject.com/en/dev/topics/db/models/) - The Django ORM.
     * [SQLAlchemy](https://www.sqlalchemy.org/) - The Python SQL Toolkit and Object Relational Mapper.
         * [awesome-sqlalchemy ![GitHub Repo Stars](https://img.shields.io/github/stars/dahlia/awesome-sqlalchemy) ![GitHub last commit](https://img.shields.io/github/last-commit/dahlia/awesome-sqlalchemy)](https://github.com/dahlia/awesome-sqlalchemy)
+    * [SQLModel](https://sqlmodel.tiangolo.com/) - SQLModel is based on Python type annotations, and powered by Pydantic and SQLAlchemy.
     * [dataset ![GitHub Repo Stars](https://img.shields.io/github/stars/pudo/dataset) ![GitHub last commit](https://img.shields.io/github/last-commit/pudo/dataset)](https://github.com/pudo/dataset) - Store Python dicts in a database - works with SQLite, MySQL, and PostgreSQL.
     * [orator ![GitHub Repo Stars](https://img.shields.io/github/stars/sdispater/orator) ![GitHub last commit](https://img.shields.io/github/last-commit/sdispater/orator)](https://github.com/sdispater/orator) -  The Orator ORM provides a simple yet beautiful ActiveRecord implementation.
     * [orm ![GitHub Repo Stars](https://img.shields.io/github/stars/encode/orm) ![GitHub last commit](https://img.shields.io/github/last-commit/encode/orm)](https://github.com/encode/orm) - An async ORM.
