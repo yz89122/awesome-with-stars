@@ -1364,7 +1364,7 @@ $ git ink
     - Works but does not provide any gains
 • hbsfy ................................................. 2015-10-21
 ✓ master ................................................ 2015-10-22
-• nda-ads4 .............................................. 2015-10-22
+�� nda-ads4 .............................................. 2015-10-22
 • remove-equalize_content_height ........................ 2015-10-21
 • remove-exorcise ....................................... 2015-10-21
     - Need to DRY up exorcise function
@@ -1818,7 +1818,7 @@ Site:      github.com
 Repo:      zdharma/git-url
 Revision:  master
 
-gitu://ҝjȩM��EäḝЃȣϟṈӛŀї
+gitu://ҝjȩMżEäḝЃȣϟṈӛŀї
 
 $ git url -r v1.0
 Encoding... INPUT is next paragraph:
