@@ -471,6 +471,7 @@ _Frameworks and libraries for Distributed Computing._
 
 _Libraries to create packaged executables for release distribution._
 
+- [cx_freeze ![GitHub Repo Stars](https://img.shields.io/github/stars/marcelotduarte/cx_Freeze) ![GitHub last commit](https://img.shields.io/github/last-commit/marcelotduarte/cx_Freeze)](https://github.com/marcelotduarte/cx_Freeze) - It is a Python tool that converts Python scripts into standalone executables and installers for Windows, macOS, and Linux.
 - [Nuitka ![GitHub Repo Stars](https://img.shields.io/github/stars/Nuitka/Nuitka) ![GitHub last commit](https://img.shields.io/github/last-commit/Nuitka/Nuitka)](https://github.com/Nuitka/Nuitka) - Compiles Python programs into high-performance standalone executables (cross-platform, supports all Python versions).
 - [py2app ![GitHub Repo Stars](https://img.shields.io/github/stars/ronaldoussoren/py2app) ![GitHub last commit](https://img.shields.io/github/last-commit/ronaldoussoren/py2app)](https://github.com/ronaldoussoren/py2app) - Freezes Python scripts (Mac OS X).
 - [py2exe ![GitHub Repo Stars](https://img.shields.io/github/stars/py2exe/py2exe) ![GitHub last commit](https://img.shields.io/github/last-commit/py2exe/py2exe)](https://github.com/py2exe/py2exe) - Freezes Python scripts (Windows).
@@ -558,6 +559,7 @@ _Functional Programming with Python._
 _Libraries for working with graphical user interface applications._
 
 - [curses](https://docs.python.org/3/library/curses.html) - Built-in wrapper for [ncurses](http://www.gnu.org/software/ncurses/) used to create terminal GUI applications.
+- [CustomTkinter ![GitHub Repo Stars](https://img.shields.io/github/stars/tomschimansky/customtkinter) ![GitHub last commit](https://img.shields.io/github/last-commit/tomschimansky/customtkinter)](https://github.com/tomschimansky/customtkinter) - A modern and customizable python UI-library based on Tkinter.
 - [DearPyGui ![GitHub Repo Stars](https://img.shields.io/github/stars/RaylockLLC/DearPyGui) ![GitHub last commit](https://img.shields.io/github/last-commit/RaylockLLC/DearPyGui)](https://github.com/RaylockLLC/DearPyGui/) - A Simple GPU accelerated Python GUI framework
 - [enaml ![GitHub Repo Stars](https://img.shields.io/github/stars/nucleic/enaml) ![GitHub last commit](https://img.shields.io/github/last-commit/nucleic/enaml)](https://github.com/nucleic/enaml) - Creating beautiful user-interfaces with Declarative Syntax like QML.
 - [Flet](https://flet.dev) - Cross-platform GUI framework for building modern apps in pure Python. Run on Windows, macOS, Linux, Android, iOS, and the Web.
@@ -567,7 +569,8 @@ _Libraries for working with graphical user interface applications._
 - [NiceGui ![GitHub Repo Stars](https://img.shields.io/github/stars/zauberzeug/nicegui) ![GitHub last commit](https://img.shields.io/github/last-commit/zauberzeug/nicegui)](https://github.com/zauberzeug/nicegui) - It is great for micro web apps, dashboards, robotics projects, smart home solutions and similar use cases. You can also use it in development, for example when tweaking/configuring a machine learning algorithm or tuning motor controllers.
 - [pyglet ![GitHub Repo Stars](https://img.shields.io/github/stars/pyglet/pyglet) ![GitHub last commit](https://img.shields.io/github/last-commit/pyglet/pyglet)](https://github.com/pyglet/pyglet) - A cross-platform windowing and multimedia library for Python.
 - [PyGObject](https://pygobject.readthedocs.io/) - Python Bindings for GLib/GObject/GIO/GTK+ (GTK+3).
-- [PyQt](https://doc.qt.io/qtforpython/) - Python bindings for the [Qt](https://www.qt.io/) cross-platform application and UI framework.
+- [PySide](https://doc.qt.io/qtforpython/) - Qt for Python offers the official Python bindings for [Qt](https://www.qt.io/), this is same as PyQt but it's the official binding with different licensing.
+- [PyQt](https://www.riverbankcomputing.com/static/Docs/PyQt6/) - Python bindings for the [Qt](https://www.qt.io/) cross-platform application and UI framework.
 - [pywebview ![GitHub Repo Stars](https://img.shields.io/github/stars/r0x0r/pywebview) ![GitHub last commit](https://img.shields.io/github/last-commit/r0x0r/pywebview)](https://github.com/r0x0r/pywebview/) - A lightweight cross-platform native wrapper around a webview component.
 - [Tkinter](https://wiki.python.org/moin/TkInter) - Tkinter is Python's de-facto standard GUI package.
 - [Toga ![GitHub Repo Stars](https://img.shields.io/github/stars/pybee/toga) ![GitHub last commit](https://img.shields.io/github/last-commit/pybee/toga)](https://github.com/pybee/toga) - A Python native, OS native GUI toolkit.
@@ -1139,6 +1142,7 @@ _Traditional full stack web frameworks. Also see [RESTful API ![GitHub Repo Star
     - [awesome-fasthtml ![GitHub Repo Stars](https://img.shields.io/github/stars/amosgyamfi/awesome-fasthtml) ![GitHub last commit](https://img.shields.io/github/last-commit/amosgyamfi/awesome-fasthtml)](https://github.com/amosgyamfi/awesome-fasthtml)
 - Asynchronous
   - [microdot ![GitHub Repo Stars](https://img.shields.io/github/stars/miguelgrinberg/microdot) ![GitHub last commit](https://img.shields.io/github/last-commit/miguelgrinberg/microdot)](https://github.com/miguelgrinberg/microdot) - The impossibly small web framework for Python and MicroPython.
+  - [reflex ![GitHub Repo Stars](https://img.shields.io/github/stars/reflex-dev/reflex) ![GitHub last commit](https://img.shields.io/github/last-commit/reflex-dev/reflex)](https://github.com/reflex-dev/reflex) – A framework for building reactive, full-stack web applications entirely with python .
   - [tornado ![GitHub Repo Stars](https://img.shields.io/github/stars/tornadoweb/tornado) ![GitHub last commit](https://img.shields.io/github/last-commit/tornadoweb/tornado)](https://github.com/tornadoweb/tornado) - A web framework and asynchronous networking library.
 
 ## WebSocket
