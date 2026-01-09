@@ -1647,6 +1647,7 @@ then it is not supported:
 
 ## Preconfigured Configuration
 
+- [abdellatif-temsamani/adev.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/abdellatif-temsamani/adev.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/abdellatif-temsamani/adev.nvim)](https://github.com/abdellatif-temsamani/adev.nvim) - The over-engineered Neovim distribution for developers who want everything.
 - [pgosar/CyberNvim ![GitHub Repo Stars](https://img.shields.io/github/stars/pgosar/CyberNvim) ![GitHub last commit](https://img.shields.io/github/last-commit/pgosar/CyberNvim)](https://github.com/pgosar/CyberNvim) - The world's simplest and most extensible Neovim distribution.
 - [sontungexpt/stinvim ![GitHub Repo Stars](https://img.shields.io/github/stars/sontungexpt/stinvim) ![GitHub last commit](https://img.shields.io/github/last-commit/sontungexpt/stinvim)](https://github.com/sontungexpt/stinvim) - Configuration for Full-Stack developers.
 - [Abstract-IDE/Abstract ![GitHub Repo Stars](https://img.shields.io/github/stars/Abstract-IDE/Abstract) ![GitHub last commit](https://img.shields.io/github/last-commit/Abstract-IDE/Abstract)](https://github.com/Abstract-IDE/Abstract) - Configuration to achieve the power of Modern IDE.
