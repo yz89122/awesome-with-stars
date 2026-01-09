@@ -408,7 +408,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 
 * [Packt Publishing](https://www.packtpub.com/en-us/search?query=angular&sort=best-selling) - Your best option to find the largest variety of up-to-date programming books.
 * [GumRoad](https://gumroad.com/software-development/web-development/javascript?tags=angular) - Various Free and Paid Angular ebooks.
-* [LeanPub](https://leanpub.com/bookstore?type=all&search=angular) - Support authors on your own terms with LeanPub’s flexible pricing model, giving you the freedom to choose what you pay.
+* [LeanPub](https://leanpub.com/bookstore?type=all&search=angular) - Support authors on your own terms with LeanPub��s flexible pricing model, giving you the freedom to choose what you pay.
 * [Manning](https://www.manning.com/) - Buy a Manning pBook anywhere, get the eBook free here.
 * [Become a ninja with Angular](https://books.ninja-squad.com/angular) - `Ninja Squad`.
 * [Angular-Buch (German)](https://angular-buch.com/) - `dpunkt.verlag`.
@@ -1087,7 +1087,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 
 ### Guides
 
-* [Testing Angular ��� A Guide to Robust Angular Applications](https://testing-angular.com) - A Guide to Robust Angular Applications. A free online book and e-book.
+* [Testing Angular – A Guide to Robust Angular Applications](https://testing-angular.com) - A Guide to Robust Angular Applications. A free online book and e-book.
 * [angular-tour-of-heroes-jest-100-coverage ![GitHub Repo Stars](https://img.shields.io/github/stars/kristiyan-velkov/angular-tour-of-heroes-jest-100-coverage) ![GitHub last commit](https://img.shields.io/github/last-commit/kristiyan-velkov/angular-tour-of-heroes-jest-100-coverage)](https://github.com/kristiyan-velkov/angular-tour-of-heroes-jest-100-coverage) - 100% unit testing coverage of the popular Angular demo app - Tour of Heroes.
 * [how-do-i-test ![GitHub Repo Stars](https://img.shields.io/github/stars/rainerhahnekamp/how-do-i-test) ![GitHub last commit](https://img.shields.io/github/last-commit/rainerhahnekamp/how-do-i-test)](https://github.com/rainerhahnekamp/how-do-i-test) - Repository representing different testing use cases for Angular and Spring.
 * [Tim Deschryver Blog](https://timdeschryver.dev/blog?q=Testing) - A rich source of valuable perspectives and practical tips on testing.
