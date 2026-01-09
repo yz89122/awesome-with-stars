@@ -121,6 +121,7 @@ sellers who aren't evil for physical resources.
     - [Hosting platforms](#hosting-platforms)
   - [Monitoring](#monitoring)
   - [Websockets](#websockets)
+  - [HTTPS](#https)
   - [Web development utilities](#web-development-utilities)
     - [Browser tests](#browser-tests)
     - [Form handling](#form-handling)
@@ -307,6 +308,7 @@ Build Systems
   * [known ASDF extensions](https://common-lisp.net/project/asdf/#extensions), such as `asdf-system-connections`, that lets you specify systems that are automatically loaded when two other systems are loaded, to connect them.
 * [asdf-viz ![GitHub Repo Stars](https://img.shields.io/github/stars/guicho271828/asdf-viz) ![GitHub last commit](https://img.shields.io/github/last-commit/guicho271828/asdf-viz)](https://github.com/guicho271828/asdf-viz) - a tool to visualize the library dependencies of ASDF systems, the call graph of a function and the class inheritances. [LLGPL][8].
 
+
 See also:
 
 * [modularize](https://codeberg.org/shinmera/modularize) -  A modularization framework for Common Lisp. [zlib][33].
@@ -316,6 +318,8 @@ See also:
 * [asdf-linguist ![GitHub Repo Stars](https://img.shields.io/github/stars/eudoxia0/asdf-linguist) ![GitHub last commit](https://img.shields.io/github/last-commit/eudoxia0/asdf-linguist)](https://github.com/eudoxia0/asdf-linguist) - Extensions for ASDF for compiling various languages and running various preprocessing tools on files in your project. [Expat][14].
   * Sass, LESS, Myth, C, C++, Fortran, CSS/JS minifiers, ParensScript, Make, CMake, org-mode, pandoc, dot, diita…
   * currently archived and unmaintained.
+* [asdf-dependency-traverser](https://codeberg.org/johnlorentzson/asdf-dependency-traverser/) - a small utility for traversing the dependency tree of an ASDF system. Zlib.
+
 
 Compilers, code generators
 ==========================
@@ -1348,12 +1352,16 @@ CLOG-based frameworks:
 Parsing html
 ---------------
 * 👍 [Plump][71] - A lenient HTML/XML parser, tolerant on malformed markup. [zlib][33]. Best used with [lquery][72] and [clss](https://codeberg.org/shinmera/CLSS).
-
-See also:
-
 * [cl-html5-parser ![GitHub Repo Stars](https://img.shields.io/github/stars/rotatef/cl-html5-parser) ![GitHub last commit](https://img.shields.io/github/last-commit/rotatef/cl-html5-parser)](https://github.com/rotatef/cl-html5-parser) -  HTML5 parser for Common Lisp. GPL3.0.
   * a port of the Python library html5lib.
   * compared to Plump: Plump is a mix of an XML and an HTML parser and breaks on some HTML rules, while cl-html5-parser is a fully compliant HTML parser.
+
+Sanitizing HTML:
+
+* [cl-sanitize-html ![GitHub Repo Stars](https://img.shields.io/github/stars/atgreen/cl-sanitize-html) ![GitHub last commit](https://img.shields.io/github/last-commit/atgreen/cl-sanitize-html)](https://github.com/atgreen/cl-sanitize-html/) - OWASP-style HTML sanitization library for Common Lisp, designed for safely rendering untrusted HTML content (like HTML emails or user-generated content). MIT.
+  - partly LLM. [reddit announce](https://old.reddit.com/r/Common_Lisp/comments/1q30bqh/atgreenclsanitizehtml_a_common_lisp_library_for/).
+  - related: [trivial-sanitize](https://codeberg.org/cage/trivial-sanitize)
+
 
 Querying HTML/DOM, web scraping
 ---------------------------------------
@@ -1481,6 +1489,16 @@ Websockets
   * "IOlib is to be a better and more modern I/O library than the standard Common Lisp library. It contains: a socket library, a DNS resolver, an I/O multiplexer, a pathname library and file-system utilities."
 
 *Editor's note: at the time of writing, it seems we don't have a full-featured websocket implementation for Common Lisp. We can however recommend Portal, and we invite you to double-check the current issues of Hunchensocket and websocket-driver.*
+
+HTTPS
+-----
+
+- [pure-tls ![GitHub Repo Stars](https://img.shields.io/github/stars/atgreen/pure-tls) ![GitHub last commit](https://img.shields.io/github/last-commit/atgreen/pure-tls)](https://github.com/atgreen/pure-tls) -  Pure Common Lisp TLS 1.3 implementation, HTTPS server with automatic Let's Encrypt certificate. MIT
+  - warn: new code, partly done with LLMs.
+  - read:
+    - [Building a TLS 1.3 implementation in Common Lisp](https://atgreen.github.io/repl-yell/posts/pure-tls/)
+    - [Automatic TLS Certificates for Common Lisp with pure-tls/acme](https://atgreen.github.io/repl-yell/posts/pure-tls-acme/)
+
 
 
 Web development utilities

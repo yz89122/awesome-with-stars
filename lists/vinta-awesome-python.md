@@ -798,6 +798,7 @@ _Libraries for package and dependency management._
   - [pip-tools ![GitHub Repo Stars](https://img.shields.io/github/stars/jazzband/pip-tools) ![GitHub last commit](https://img.shields.io/github/last-commit/jazzband/pip-tools)](https://github.com/jazzband/pip-tools) - A set of tools to keep your pinned Python dependencies fresh.
   - [PyPI](https://pypi.org/)
 - [conda ![GitHub Repo Stars](https://img.shields.io/github/stars/conda/conda) ![GitHub last commit](https://img.shields.io/github/last-commit/conda/conda)](https://github.com/conda/conda/) - Cross-platform, Python-agnostic binary package manager.
+- [Hatch ![GitHub Repo Stars](https://img.shields.io/github/stars/pypa/hatch) ![GitHub last commit](https://img.shields.io/github/last-commit/pypa/hatch)](https://github.com/pypa/hatch) - Modern, extensible Python project management.
 - [poetry ![GitHub Repo Stars](https://img.shields.io/github/stars/sdispater/poetry) ![GitHub last commit](https://img.shields.io/github/last-commit/sdispater/poetry)](https://github.com/sdispater/poetry) - Python dependency management and packaging made easy.
 - [uv ![GitHub Repo Stars](https://img.shields.io/github/stars/astral-sh/uv) ![GitHub last commit](https://img.shields.io/github/last-commit/astral-sh/uv)](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
 
