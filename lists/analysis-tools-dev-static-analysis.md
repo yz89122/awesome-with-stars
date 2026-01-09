@@ -129,6 +129,7 @@ Also check out the sister project, [awesome-dynamic-analysis ![GitHub Repo Stars
 - [Dockerfile](#dockerfile)
 - [Embedded](#embedded)
 - [Embedded Ruby (a.k.a. ERB, eRuby)](#erb)
+- [Formatter](#formatter)
 - [Gherkin](#gherkin)
 - [HTML](#html)
 - [JSON](#json)
@@ -293,7 +294,7 @@ Also check out the sister project, [awesome-dynamic-analysis ![GitHub Repo Stars
 
 - [SonarAnalyzer.CSharp ![GitHub Repo Stars](https://img.shields.io/github/stars/SonarSource/sonar-dotnet) ![GitHub last commit](https://img.shields.io/github/last-commit/SonarSource/sonar-dotnet)](https://github.com/SonarSource/sonar-dotnet) — These Roslyn analyzers allow you to produce Clean Code that is safe, reliable, and maintainable by helping you find and correct bugs, vulnerabilities, and code smells in your codebase.
 
-- **VSDiagnostics** :warning: — A collection of static analyzers based on Roslyn that integrates with VS.
+- **VSDiagnostics** :warning: ��� A collection of static analyzers based on Roslyn that integrates with VS.
 
 - [Wintellect.Analyzers ![GitHub Repo Stars](https://img.shields.io/github/stars/Wintellect/Wintellect.Analyzers) ![GitHub last commit](https://img.shields.io/github/last-commit/Wintellect/Wintellect.Analyzers)](https://github.com/Wintellect/Wintellect.Analyzers) — .NET Compiler Platform ("Roslyn") diagnostic analyzers and code fixes.
 
@@ -330,7 +331,7 @@ Also check out the sister project, [awesome-dynamic-analysis ![GitHub Repo Stars
 
 - **flint++** :warning: — Cross-platform, zero-dependency port of flint, a lint program for C++ developed and used at Facebook.
 
-- [Frama-C](https://www.frama-c.com) — A sound and extensible static analyzer for C code.
+- [GCC](https://gcc.gnu.org/onlinedocs/gcc/Static-Analyzer-Options.html) — The GCC compiler has static analysis capabilities since version 10. This option is only available if GCC was configured with analyzer support enabled.  It can also output its diagnostics to a JSON file in the SARIF format (from v13).
 
 - [Helix QAC](https://www.perforce.com/products/helix-qac) :copyright: — Enterprise-grade static analysis for embedded software. Supports MISRA, CERT, and AUTOSAR coding standards.
 
@@ -1976,6 +1977,17 @@ Its technology helps developers automate testing, find bugs, and reduce manual l
 - [ERB::Formatter ![GitHub Repo Stars](https://img.shields.io/github/stars/nebulab/erb-formatter) ![GitHub last commit](https://img.shields.io/github/last-commit/nebulab/erb-formatter)](https://github.com/nebulab/erb-formatter) — Format ERB files with speed and precision.
 
 - [htmlbeautifier ![GitHub Repo Stars](https://img.shields.io/github/stars/threedaymonk/htmlbeautifier) ![GitHub last commit](https://img.shields.io/github/last-commit/threedaymonk/htmlbeautifier)](https://github.com/threedaymonk/htmlbeautifier) — A normaliser/beautifier for HTML that also understands embedded Ruby. Ideal for tidying up Rails templates.
+
+
+<a name="formatter" />
+<h2>Formatter</h2>
+
+
+- [Neurolint-CLI](https://neurolint.dev) — Deterministic code transformation tool using AST parsing and rule-based transformations. 
+Automatically fixes 50+ issues including accessibility violations, hydration errors, 
+React 19/Next.js 16 migrations, and configuration updates. Features 5-step fail-safe 
+orchestration to ensure zero breaking changes. Specialized for React, Next.js, and TypeScript projects.
+
 
 
 <a name="gherkin" />
