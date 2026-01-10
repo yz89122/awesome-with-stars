@@ -1799,6 +1799,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-gaia-gis ![GitHub Repo Stars](https://img.shields.io/github/stars/Olympus-Analytics/ngx-gaia-gis) ![GitHub last commit](https://img.shields.io/github/last-commit/Olympus-Analytics/ngx-gaia-gis)](https://github.com/Olympus-Analytics/ngx-gaia-gis) - An Angular service that simplifies map creation and interaction using the powerful [OpenLayers](https://openlayers.org/) library.
 * [ngx-google-maps-places ![GitHub Repo Stars](https://img.shields.io/github/stars/lekhmanrus/ngx-google-maps-places) ![GitHub last commit](https://img.shields.io/github/last-commit/lekhmanrus/ngx-google-maps-places)](https://github.com/lekhmanrus/ngx-google-maps-places) - Angular wrapper for Google Maps Places API, simplifying Google Places integration.
 * [angular-yandex-maps ![GitHub Repo Stars](https://img.shields.io/github/stars/ddubrava/angular-yandex-maps) ![GitHub last commit](https://img.shields.io/github/last-commit/ddubrava/angular-yandex-maps)](https://github.com/ddubrava/angular-yandex-maps) - Yandex.Maps Angular components that implement the Yandex.Maps JavaScript API.
+* [workletjs ![GitHub Repo Stars](https://img.shields.io/github/stars/workletjs/workletjs) ![GitHub last commit](https://img.shields.io/github/last-commit/workletjs/workletjs)](https://github.com/workletjs/workletjs) - An Angular map component library that provides seamless integration with OpenLayers, enabling developers to create interactive and customizable maps.
 
 ### Markdown
 
