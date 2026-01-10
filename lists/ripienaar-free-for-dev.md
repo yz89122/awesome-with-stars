@@ -753,7 +753,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [sitesure.net](https://sitesure.net) - Website and cron monitoring - 2 monitors free
   * [skylight.io](https://www.skylight.io/) — Free for first 100,000 requests (Rails only)
   * [stathat.com](https://www.stathat.com/) — Get started with ten stats for free, no expiration
-  * [statuscake.com](https://www.statuscake.com/) �� Website monitoring, unlimited tests free with limitations
+  * [statuscake.com](https://www.statuscake.com/) — Website monitoring, unlimited tests free with limitations
   * [statusgator.com](https://statusgator.com/) — Status page monitoring, 3 monitors free
   * [SweetUptime](https://dicloud.net/sweetuptime-server-uptime-monitoring/) — Server monitoring, uptime monitoring, DNS & domain monitoring. Monitor 10 server, 10 uptime, and 10 domain for free.
   * [syagent.com](https://syagent.com/) — Noncommercial free server monitoring service, alerts and metrics.
@@ -1117,7 +1117,7 @@ Update Time, five active automations, webhooks.
   * [filebase.com](https://filebase.com/) - S3 Compatible Object Storage Powered by Blockchain. 5 GB free storage for an unlimited duration.
   * [Tebi](https://tebi.io/) - S3 compatibility object storage.Free 25 GB storage and 250GB outbound transfer.
 
-**[��️ Back to Top](#table-of-contents)**
+**[⬆️ Back to Top](#table-of-contents)**
 
 ## Managed Data Services
 
