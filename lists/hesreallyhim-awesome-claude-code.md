@@ -31,9 +31,9 @@ Claude Code is a CLI-based coding assistant from [Anthropic](https://www.anthrop
 
 ## Latest Additions
 
+- [Ralph Wiggum Plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/anthropics/claude-code) ![GitHub last commit](https://img.shields.io/github/last-commit/anthropics/claude-code)](https://github.com/anthropics/claude-code/tree/4f18698a9ed25517861a75125b526e319bcf8354/plugins/ralph-wiggum) by [Anthropic PBC](https://github.com/anthropics) - The official Anthropic implementation of the Ralph Wiggum technique for iterative, self-referential AI development loops in Claude Code.
 - [ralph-orchestrator ![GitHub Repo Stars](https://img.shields.io/github/stars/mikeyobrien/ralph-orchestrator) ![GitHub last commit](https://img.shields.io/github/last-commit/mikeyobrien/ralph-orchestrator)](https://github.com/mikeyobrien/ralph-orchestrator) by [mikeyobrien](https://github.com/mikeyobrien) - Ralph Orchestrator implements the simple but effective "Ralph Wiggum" technique for autonomous task completion, continuously running an AI agent against a prompt file until the task is marked as complete or limits are reached. This implementation provides a robust, well-tested, and feature-complete orchestration system for AI-driven development. Also cited in the Anthropic Ralph plugin documentation.
 - [Ralph for Claude Code ![GitHub Repo Stars](https://img.shields.io/github/stars/frankbria/ralph-claude-code) ![GitHub last commit](https://img.shields.io/github/last-commit/frankbria/ralph-claude-code)](https://github.com/frankbria/ralph-claude-code) by [Frank Bria](https://github.com/frankbria) - An autonomous AI development framework that enables Claude Code to work iteratively on projects until completion. Features intelligent exit detection, rate limiting, circuit breaker patterns, and comprehensive safety guardrails to prevent infinite loops and API overuse. Built with Bash, integrated with tmux for live monitoring, and includes 75+ comprehensive tests.
-- [Claude Code Repos Index ![GitHub Repo Stars](https://img.shields.io/github/stars/danielrosehill/Claude-Code-Repos-Index) ![GitHub last commit](https://img.shields.io/github/last-commit/danielrosehill/Claude-Code-Repos-Index)](https://github.com/danielrosehill/Claude-Code-Repos-Index) by [Daniel Rosehill](https://github.com/danielrosehill) - This is either the work of a prolific genius, or a very clever bot (or both), although it hardly matters because the quality is so good - an index of 75+ Claude Code repositories published by the author - and I'm not talking about slop. CMS, system design, deep research, IoT, agentic workflows, server management, personal health... If you spot the lie, let me know, otherwise please check these out.
 
 
 ## Contents
@@ -212,7 +212,7 @@ Claude Code is a CLI-based coding assistant from [Anthropic](https://www.anthrop
 
 <br>
 
-## Slash-Commands 🔪
+## Slash-Commands ���
 
 > "Slash Commands are customized, carefully refined prompts that control Claude's behavior in order to perform a specific task"
 
@@ -345,6 +345,7 @@ Claude Code is a CLI-based coding assistant from [Anthropic](https://www.anthrop
 - [Anthropic Documentation](https://docs.claude.com/en/home) by [Anthropic](https://github.com/anthropics) - The official documentation for Claude Code, including installation instructions, usage guidelines, API references, tutorials, examples, loads of information that I won't list individually. Like Claude Code, the documentation is frequently updated.
 - [Anthropic Quickstarts ![GitHub Repo Stars](https://img.shields.io/github/stars/anthropics/claude-quickstarts) ![GitHub last commit](https://img.shields.io/github/last-commit/anthropics/claude-quickstarts)](https://github.com/anthropics/claude-quickstarts) by [Anthropic](https://github.com/anthropics) - Offers comprehensive development guides for three distinct AI-powered demo projects with standardized workflows, strict code style guidelines, and containerization instructions.
 - [Claude Code GitHub Actions ![GitHub Repo Stars](https://img.shields.io/github/stars/anthropics/claude-code-action) ![GitHub last commit](https://img.shields.io/github/last-commit/anthropics/claude-code-action)](https://github.com/anthropics/claude-code-action/tree/main/examples) by [Anthropic](https://github.com/anthropics) - Official GitHub Actions integration for Claude Code with examples and documentation for automating AI-powered workflows in CI/CD pipelines.
+- [Ralph Wiggum Plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/anthropics/claude-code) ![GitHub last commit](https://img.shields.io/github/last-commit/anthropics/claude-code)](https://github.com/anthropics/claude-code/tree/4f18698a9ed25517861a75125b526e319bcf8354/plugins/ralph-wiggum) by [Anthropic PBC](https://github.com/anthropics) - The official Anthropic implementation of the Ralph Wiggum technique for iterative, self-referential AI development loops in Claude Code.
 
 
 ## Contributing [🔝](#awesome-claude-code)
