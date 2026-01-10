@@ -390,7 +390,7 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 | <a href="https://www.kaggle.com/learn/feature-engineering" target="_blank" rel="noopener noreferrer">Feature Engineering</a>| Kaggle          | Intermediate | 5     | 🏆     |
 | <a href="https://www.kaggle.com/learn/computer-vision" target="_blank" rel="noopener noreferrer">Computer Vision</a>  | Kaggle          | Intermediate | 4     | 🏆     |
 
-<a href="https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents" target="_blank" rel="noopener noreferrer">���️</a>
+<a href="https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents" target="_blank" rel="noopener noreferrer">⬆️</a>
 
 ## Mobile App Development
 

@@ -834,6 +834,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [eslint-config-spartan ![GitHub Repo Stars](https://img.shields.io/github/stars/glitch452/eslint-config-spartan) ![GitHub last commit](https://img.shields.io/github/last-commit/glitch452/eslint-config-spartan)](https://github.com/glitch452/eslint-config-spartan) - An opinionated ESLint configuration with separate configs (called mixins) for various eslint plugins.
 * [eslint-plugin-ng-module-sort ![GitHub Repo Stars](https://img.shields.io/github/stars/ducktordanny/eslint-plugin-ng-module-sort) ![GitHub last commit](https://img.shields.io/github/last-commit/ducktordanny/eslint-plugin-ng-module-sort)](https://github.com/ducktordanny/eslint-plugin-ng-module-sort) - Auto-sorts Angular and NestJS module arrays to keep your modules clean and organized.
 * [ngx-html-bridge-markuplint ![GitHub Repo Stars](https://img.shields.io/github/stars/nagashimam/ngx-html-bridge-markuplint) ![GitHub last commit](https://img.shields.io/github/last-commit/nagashimam/ngx-html-bridge-markuplint)](https://github.com/nagashimam/ngx-html-bridge-markuplint) - This library links Markuplint to Angular templates by reverse‑compiling them into HTML, enabling accurate linting with proper source‑mapped reporting.
+* [eslint-config-neon ![GitHub Repo Stars](https://img.shields.io/github/stars/iCrawl/eslint-config-neon) ![GitHub last commit](https://img.shields.io/github/last-commit/iCrawl/eslint-config-neon)](https://github.com/iCrawl/eslint-config-neon) - A comprehensive shareable ESLint configuration.
 
 ### Networking
 
@@ -891,6 +892,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-mq ![GitHub Repo Stars](https://img.shields.io/github/stars/martsinlabs/ngx-mq) ![GitHub last commit](https://img.shields.io/github/last-commit/martsinlabs/ngx-mq)](https://github.com/martsinlabs/ngx-mq) - A declarative library that uses signals and the native [matchMedia API](https://developer.mozilla.org/en-US/docs/Web/API/Window/matchMedia) to manage media queries, with built-in breakpoint presets for Tailwind, Bootstrap, and Angular Material.
 * [panda ![GitHub Repo Stars](https://img.shields.io/github/stars/chakra-ui/panda) ![GitHub last commit](https://img.shields.io/github/last-commit/chakra-ui/panda)](https://github.com/chakra-ui/panda) - Easily use Panda, CSS-in-JS Framework, with Angular with its dedicated [integration](https://panda-css.com/docs/docs/installation/angular).
 * [Super JSS ![GitHub Repo Stars](https://img.shields.io/github/stars/rsantoyo-dev/super-jss-workspace) ![GitHub last commit](https://img.shields.io/github/last-commit/rsantoyo-dev/super-jss-workspace)](https://github.com/rsantoyo-dev/super-jss-workspace) - Super JavaScript Stylesheets is a tiny Angular runtime library that generates atomic CSS with breakpoints and theming.
+* [Theme-Kit ![GitHub Repo Stars](https://img.shields.io/github/stars/M1tsumi/Theme-Kit) ![GitHub last commit](https://img.shields.io/github/last-commit/M1tsumi/Theme-Kit)](https://github.com/M1tsumi/Theme-Kit) - A unified design‑token SDK that centralizes your colors, typography, and spacing for seamless use across React, Vue, Angular, or any JavaScript project.
 * [tokiforge ![GitHub Repo Stars](https://img.shields.io/github/stars/TokiForge/tokiforge) ![GitHub last commit](https://img.shields.io/github/last-commit/TokiForge/tokiforge)](https://github.com/TokiForge/tokiforge) - Framework-agnostic design token engine for React, Vue, Angular, Svelte & vanilla JS.
 
 ## Security and Authentication
@@ -967,7 +969,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [SafeDep](https://safedep.io/) - It continuously scans open source code for vulnerabilities and malware, helping security engineering teams proactively mitigate inherited OSS risks.
 * [Snyk](https://snyk.io/) - A developer security platform that integrates directly into development tools, workflows, and automation pipelines.
 * [Socket](https://socket.dev/) - A developer-first security platform that protects your code from both vulnerable and malicious dependencies.
-* [Vulert](https://vulert.com) - Vulert secures software by detecting vulnerabilities in open-source dependencies—without accessing your code. It supports Js, PHP, Java, Python, and more.
+* [Vulert](https://vulert.com) - Secures software by detecting vulnerabilities in open-source dependencies—without accessing your code. It supports JS, PHP, Java, Python, and more.
 
 ## State Management
 
@@ -1891,6 +1893,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-persian ![GitHub Repo Stars](https://img.shields.io/github/stars/alihoseiny/ngx-persian) ![GitHub last commit](https://img.shields.io/github/last-commit/alihoseiny/ngx-persian)](https://github.com/alihoseiny/ngx-persian) - A full-featured toolset for Persian Applications.
 * [acontplus-libs ![GitHub Repo Stars](https://img.shields.io/github/stars/acontplus/acontplus-libs) ![GitHub last commit](https://img.shields.io/github/last-commit/acontplus/acontplus-libs)](https://github.com/acontplus/acontplus-libs) - Nx monorepo containing Angular libraries providing Domain-Driven Design (DDD) architecture, core utilities, and Angular Material UI components for enterprise applications.
 * [Angular Directive Workspace ![GitHub Repo Stars](https://img.shields.io/github/stars/sergeydus/ng-tailwind-workspace) ![GitHub last commit](https://img.shields.io/github/last-commit/sergeydus/ng-tailwind-workspace)](https://github.com/sergeydus/ng-tailwind-workspace) - An Angular monorepo that hosts several standalone directive and utility libraries, including [ng-signals-utils](https://www.npmjs.com/package/@sergeydus/ng-signals-utils).
+* [angular-cool ![GitHub Repo Stars](https://img.shields.io/github/stars/Hacklone/angular-cool) ![GitHub last commit](https://img.shields.io/github/last-commit/Hacklone/angular-cool)](https://github.com/Hacklone/angular-cool) - A monorepo packed with developer‑friendly Angular utilities that supercharge apps with effortless UI, storage, networking, and performance features.
 
 ### Modals
 
