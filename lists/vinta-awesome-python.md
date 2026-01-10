@@ -308,6 +308,7 @@ _Libraries for storing and parsing configuration options._
 
 - [configobj ![GitHub Repo Stars](https://img.shields.io/github/stars/DiffSK/configobj) ![GitHub last commit](https://img.shields.io/github/last-commit/DiffSK/configobj)](https://github.com/DiffSK/configobj) - INI file parser with validation.
 - [configparser](https://docs.python.org/3/library/configparser.html) - (Python standard library) INI file parser.
+- [dynaconf ![GitHub Repo Stars](https://img.shields.io/github/stars/dynaconf/dynaconf) ![GitHub last commit](https://img.shields.io/github/last-commit/dynaconf/dynaconf)](https://github.com/dynaconf/dynaconf) - Dynaconf is a configuration manager with plugins for Django, Flask and FastAPI.
 - [hydra ![GitHub Repo Stars](https://img.shields.io/github/stars/facebookresearch/hydra) ![GitHub last commit](https://img.shields.io/github/last-commit/facebookresearch/hydra)](https://github.com/facebookresearch/hydra) - Hydra is a framework for elegantly configuring complex applications.
 - [python-decouple ![GitHub Repo Stars](https://img.shields.io/github/stars/HBNetwork/python-decouple) ![GitHub last commit](https://img.shields.io/github/last-commit/HBNetwork/python-decouple)](https://github.com/HBNetwork/python-decouple) - Strict separation of settings from code.
 
@@ -452,6 +453,8 @@ _Software and libraries for DevOps._
   - [psutil ![GitHub Repo Stars](https://img.shields.io/github/stars/giampaolo/psutil) ![GitHub last commit](https://img.shields.io/github/last-commit/giampaolo/psutil)](https://github.com/giampaolo/psutil) - A cross-platform process and system utilities module.
 - Backup
   - [borg ![GitHub Repo Stars](https://img.shields.io/github/stars/borgbackup/borg) ![GitHub last commit](https://img.shields.io/github/last-commit/borgbackup/borg)](https://github.com/borgbackup/borg) - A deduplicating archiver with compression and encryption.
+- Chaos Engineering
+  - [chaostoolkit ![GitHub Repo Stars](https://img.shields.io/github/stars/chaostoolkit/chaostoolkit) ![GitHub last commit](https://img.shields.io/github/last-commit/chaostoolkit/chaostoolkit)](https://github.com/chaostoolkit/chaostoolkit) - A Chaos Engineering toolkit & Orchestration for Developers.
 
 ## Distributed Computing
 
