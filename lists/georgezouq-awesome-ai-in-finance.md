@@ -194,7 +194,7 @@ For Back Test & Live trading
 
 **System**
 
-- 🌟��🌟 [OpenBB ![GitHub Repo Stars](https://img.shields.io/github/stars/OpenBB-finance/OpenBB) ![GitHub last commit](https://img.shields.io/github/last-commit/OpenBB-finance/OpenBB)](https://github.com/OpenBB-finance/OpenBB) - AI-powered opensource research and analytics workspace.
+- 🌟🌟🌟 [OpenBB ![GitHub Repo Stars](https://img.shields.io/github/stars/OpenBB-finance/OpenBB) ![GitHub last commit](https://img.shields.io/github/last-commit/OpenBB-finance/OpenBB)](https://github.com/OpenBB-finance/OpenBB) - AI-powered opensource research and analytics workspace.
 - 🌟🌟 [zipline ![GitHub Repo Stars](https://img.shields.io/github/stars/quantopian/zipline) ![GitHub last commit](https://img.shields.io/github/last-commit/quantopian/zipline)](https://github.com/quantopian/zipline) - A python algorithmic trading library.
 - 🌟 [TradingView](http://tradingview.com/) - Get real-time information and market insights.
 - [rqalpha ![GitHub Repo Stars](https://img.shields.io/github/stars/ricequant/rqalpha) ![GitHub last commit](https://img.shields.io/github/last-commit/ricequant/rqalpha)](https://github.com/ricequant/rqalpha) - A extendable, replaceable Python algorithmic backtest & trading framework.
