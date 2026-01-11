@@ -616,6 +616,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [analog-stuff ![GitHub Repo Stars](https://img.shields.io/github/stars/joshuamorony/analog-stuff) ![GitHub last commit](https://img.shields.io/github/last-commit/joshuamorony/analog-stuff)](https://github.com/joshuamorony/analog-stuff) - Extra stuff for AnalogJS including `agx-remark-rehype`.
 * [ngx-trpc ![GitHub Repo Stars](https://img.shields.io/github/stars/lennybakkalian/ngx-trpc) ![GitHub last commit](https://img.shields.io/github/last-commit/lennybakkalian/ngx-trpc)](https://github.com/lennybakkalian/ngx-trpc) - Angular tRPC client with SSR, RxJS, Signals and Subscriptions Support.
 * [ngx-sitemaps ![GitHub Repo Stars](https://img.shields.io/github/stars/json-derulo/ngx-sitemaps) ![GitHub last commit](https://img.shields.io/github/last-commit/json-derulo/ngx-sitemaps)](https://github.com/json-derulo/ngx-sitemaps) - Generate sitemaps from Angular prerendered routes.
+* [ngx-bun ![GitHub Repo Stars](https://img.shields.io/github/stars/pegasusheavy/ngx-bun) ![GitHub last commit](https://img.shields.io/github/last-commit/pegasusheavy/ngx-bun)](https://github.com/pegasusheavy/ngx-bun) - High-performance SSR/SSG adapter for Angular 19+ using Bun's built-in server.
 
 ## Development Utilities
 
@@ -835,6 +836,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [eslint-plugin-ng-module-sort ![GitHub Repo Stars](https://img.shields.io/github/stars/ducktordanny/eslint-plugin-ng-module-sort) ![GitHub last commit](https://img.shields.io/github/last-commit/ducktordanny/eslint-plugin-ng-module-sort)](https://github.com/ducktordanny/eslint-plugin-ng-module-sort) - Auto-sorts Angular and NestJS module arrays to keep your modules clean and organized.
 * [ngx-html-bridge-markuplint ![GitHub Repo Stars](https://img.shields.io/github/stars/nagashimam/ngx-html-bridge-markuplint) ![GitHub last commit](https://img.shields.io/github/last-commit/nagashimam/ngx-html-bridge-markuplint)](https://github.com/nagashimam/ngx-html-bridge-markuplint) - This library links Markuplint to Angular templates by reverse‑compiling them into HTML, enabling accurate linting with proper source‑mapped reporting.
 * [eslint-config-neon ![GitHub Repo Stars](https://img.shields.io/github/stars/iCrawl/eslint-config-neon) ![GitHub last commit](https://img.shields.io/github/last-commit/iCrawl/eslint-config-neon)](https://github.com/iCrawl/eslint-config-neon) - A comprehensive shareable ESLint configuration.
+* [eslint-config-angular ![GitHub Repo Stars](https://img.shields.io/github/stars/noneforge/eslint-config-angular) ![GitHub last commit](https://img.shields.io/github/last-commit/noneforge/eslint-config-angular)](https://github.com/noneforge/eslint-config-angular) - Comprehensive Angular ESLint configuration with TypeScript support, component/template rules, accessibility, and CSS linting.
 
 ### Networking
 
@@ -1894,6 +1896,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [acontplus-libs ![GitHub Repo Stars](https://img.shields.io/github/stars/acontplus/acontplus-libs) ![GitHub last commit](https://img.shields.io/github/last-commit/acontplus/acontplus-libs)](https://github.com/acontplus/acontplus-libs) - Nx monorepo containing Angular libraries providing Domain-Driven Design (DDD) architecture, core utilities, and Angular Material UI components for enterprise applications.
 * [Angular Directive Workspace ![GitHub Repo Stars](https://img.shields.io/github/stars/sergeydus/ng-tailwind-workspace) ![GitHub last commit](https://img.shields.io/github/last-commit/sergeydus/ng-tailwind-workspace)](https://github.com/sergeydus/ng-tailwind-workspace) - An Angular monorepo that hosts several standalone directive and utility libraries, including [ng-signals-utils](https://www.npmjs.com/package/@sergeydus/ng-signals-utils).
 * [angular-cool ![GitHub Repo Stars](https://img.shields.io/github/stars/Hacklone/angular-cool) ![GitHub last commit](https://img.shields.io/github/last-commit/Hacklone/angular-cool)](https://github.com/Hacklone/angular-cool) - A monorepo packed with developer‑friendly Angular utilities that supercharge apps with effortless UI, storage, networking, and performance features.
+* [dasch-ng ![GitHub Repo Stars](https://img.shields.io/github/stars/DaSchTour/dasch-ng) ![GitHub last commit](https://img.shields.io/github/last-commit/DaSchTour/dasch-ng)](https://github.com/DaSchTour/dasch-ng) - A collection of reusable Angular libraries and TypeScript utilities for modern web development.
 
 ### Modals
 
