@@ -350,6 +350,7 @@ _Everything that simplifies interactions with the database._
 - [Redisson ![GitHub Repo Stars](https://img.shields.io/github/stars/redisson/redisson) ![GitHub last commit](https://img.shields.io/github/last-commit/redisson/redisson)](https://github.com/redisson/redisson) - Allows for distributed and scalable data structures on top of a Redis server.
 - [requery ![GitHub Repo Stars](https://img.shields.io/github/stars/requery/requery) ![GitHub last commit](https://img.shields.io/github/last-commit/requery/requery)](https://github.com/requery/requery) - Modern, lightweight but powerful object mapping and SQL generator. Easily map to or create databases, or perform queries and updates from any Java-using platform.
 - [Speedment ![GitHub Repo Stars](https://img.shields.io/github/stars/speedment/speedment) ![GitHub last commit](https://img.shields.io/github/last-commit/speedment/speedment)](https://github.com/speedment/speedment) - Database access library that utilizes Java 8's Stream API for querying.
+- [Spring Data Dynamic Query ![GitHub Repo Stars](https://img.shields.io/github/stars/tdilber/spring-data-dynamic-query) ![GitHub last commit](https://img.shields.io/github/last-commit/tdilber/spring-data-dynamic-query)](https://github.com/tdilber/spring-data-dynamic-query) - Unified dynamic query interface for Spring Data JPA, MongoDB, and Elasticsearch, enabling advanced JOIN(s), OR logic, scoped conditions, powerful projections and advanced features with zero boilerplate.
 - [Spring Data JPA MongoDB Expressions ![GitHub Repo Stars](https://img.shields.io/github/stars/mhewedy/spring-data-jpa-mongodb-expressions) ![GitHub last commit](https://img.shields.io/github/last-commit/mhewedy/spring-data-jpa-mongodb-expressions)](https://github.com/mhewedy/spring-data-jpa-mongodb-expressions) - Allows you to use MongoDB query language to query your relational database.
 - [Trino](https://trino.io) - Distributed SQL query engine for big data.
 - [Vibur DBCP](https://www.vibur.org) - JDBC connection pool library with advanced performance monitoring capabilities.
@@ -528,6 +529,7 @@ _Libraries to create modern graphical user interfaces._
 - [JavaFX](https://wiki.openjdk.java.net/display/OpenJFX/Main) - Successor of Swing.
 - [Scene Builder](https://gluonhq.com/products/scene-builder/) - Visual layout tool for JavaFX applications.
 - [SnapKit ![GitHub Repo Stars](https://img.shields.io/github/stars/reportmill/SnapKit) ![GitHub last commit](https://img.shields.io/github/last-commit/reportmill/SnapKit)](https://github.com/reportmill/SnapKit) - Modern Java UI library for both desktop and web.
+- [Sierra ![GitHub Repo Stars](https://img.shields.io/github/stars/HTTP-RPC/Sierra) ![GitHub last commit](https://img.shields.io/github/last-commit/HTTP-RPC/Sierra)](https://github.com/HTTP-RPC/Sierra) - Lightwieght declarative DSL for rapid development of Swing applications.
 - [SWT](https://www.eclipse.org/swt/) - Graphical widget toolkit.
 
 ### High Performance
@@ -743,6 +745,7 @@ _Everything else._
 - [ISBN core ![GitHub Repo Stars](https://img.shields.io/github/stars/ladutsko/isbn-core) ![GitHub last commit](https://img.shields.io/github/last-commit/ladutsko/isbn-core)](https://github.com/ladutsko/isbn-core) - A small library that contains a representation object of ISBN-10 and ISBN-13 and tools to parse, validate and format one.
 - [J2ObjC ![GitHub Repo Stars](https://img.shields.io/github/stars/google/j2objc) ![GitHub last commit](https://img.shields.io/github/last-commit/google/j2objc)](https://github.com/google/j2objc) - Java-to-Objective-C translator for porting Android libraries to iOS.
 - [JBake](https://jbake.org) - Static website generator.
+- [JBang](https://www.jbang.dev/) - JBang makes it easy to use Java for scripting. It lets you use a single file for code and dependency management and allows you to run it directly.
 - [JBot ![GitHub Repo Stars](https://img.shields.io/github/stars/rampatra/jbot) ![GitHub last commit](https://img.shields.io/github/last-commit/rampatra/jbot)](https://github.com/rampatra/jbot) - Framework for building chatbots. (GPL-3.0-only)
 - [JCuda](http://jcuda.org) - JCuda offers Java bindings for CUDA and CUDA-related libraries.
 - [JEmoji ![GitHub Repo Stars](https://img.shields.io/github/stars/felldo/JEmoji) ![GitHub last commit](https://img.shields.io/github/last-commit/felldo/JEmoji)](https://github.com/felldo/JEmoji) - An auto-generated emoji library that provides type-safe direct access to emojis and alias support for Discord, Slack, GitHub and many more features.
@@ -771,8 +774,6 @@ _Everything else._
 - [webcam-capture ![GitHub Repo Stars](https://img.shields.io/github/stars/sarxos/webcam-capture) ![GitHub last commit](https://img.shields.io/github/last-commit/sarxos/webcam-capture)](https://github.com/sarxos/webcam-capture) - Library for using built-in and external webcams directly in Java.
 - [XMLBeam ![GitHub Repo Stars](https://img.shields.io/github/stars/SvenEwald/xmlbeam) ![GitHub last commit](https://img.shields.io/github/last-commit/SvenEwald/xmlbeam)](https://github.com/SvenEwald/xmlbeam) - Processes XML by using annotations or XPath within code.
 - [yGuard ![GitHub Repo Stars](https://img.shields.io/github/stars/yWorks/yGuard) ![GitHub last commit](https://img.shields.io/github/last-commit/yWorks/yGuard)](https://github.com/yWorks/yGuard) - Obfuscation via renaming and shrinking.
-- [JBang ![GitHub Repo Stars](https://img.shields.io/github/stars/maxandersen/jbang) ![GitHub last commit](https://img.shields.io/github/last-commit/maxandersen/jbang)](https://github.com/maxandersen/jbang/) - JBang makes it easy to use Java for scripting. It lets you use a single file for
-  code and dependency management and allows you to run it directly.
 
 ### Mobile Development
 
@@ -896,7 +897,7 @@ _Tools to help with PDF files._
 - [flyingsaucer ![GitHub Repo Stars](https://img.shields.io/github/stars/flyingsaucerproject/flyingsaucer) ![GitHub last commit](https://img.shields.io/github/last-commit/flyingsaucerproject/flyingsaucer)](https://github.com/flyingsaucerproject/flyingsaucer) - XML/XHTML and CSS 2.1 renderer. (LGPL-2.1-or-later)
 - [iText ![c]](https://itextpdf.com/en) - Creates PDF files programmatically.
 - [JasperReports](https://community.jaspersoft.com/project/jasperreports-library) - Complex reporting engine. (LGPL-3.0-only)
-- [Open HTML to PDF ![GitHub Repo Stars](https://img.shields.io/github/stars/danfickle/openhtmltopdf) ![GitHub last commit](https://img.shields.io/github/last-commit/danfickle/openhtmltopdf)](https://github.com/danfickle/openhtmltopdf) - Properly supports modern PDF standards based on flyingsaucer and Apache PDFBox.
+- [Open HTML to PDF ![GitHub Repo Stars](https://img.shields.io/github/stars/openhtmltopdf/openhtmltopdf) ![GitHub last commit](https://img.shields.io/github/last-commit/openhtmltopdf/openhtmltopdf)](https://github.com/openhtmltopdf/openhtmltopdf) - Properly supports modern PDF standards based on flyingsaucer and Apache PDFBox.
 - [OpenPDF ![GitHub Repo Stars](https://img.shields.io/github/stars/LibrePDF/OpenPDF) ![GitHub last commit](https://img.shields.io/github/last-commit/LibrePDF/OpenPDF)](https://github.com/LibrePDF/OpenPDF) - Open-source iText fork. (LGPL-3.0-only & MPL-2.0)
 - [Tabula ![GitHub Repo Stars](https://img.shields.io/github/stars/tabulapdf/tabula-java) ![GitHub last commit](https://img.shields.io/github/last-commit/tabulapdf/tabula-java)](https://github.com/tabulapdf/tabula-java) - Extracts tables from PDF files.
 
@@ -1029,6 +1030,7 @@ _Libraries for scientific computing, analysis and visualization._
 - [JFreeChart](http://www.jfree.org/jfreechart/) - 2D chart library for Swing, JavaFX and server-side applications. (LGPL-2.1-only)
 - [JGraphT ![GitHub Repo Stars](https://img.shields.io/github/stars/jgrapht/jgrapht) ![GitHub last commit](https://img.shields.io/github/last-commit/jgrapht/jgrapht)](https://github.com/jgrapht/jgrapht) - Graph library that provides mathematical graph-theory objects and algorithms.
 - [JGraphX ![GitHub Repo Stars](https://img.shields.io/github/stars/jgraph/jgraphx) ![GitHub last commit](https://img.shields.io/github/last-commit/jgraph/jgraphx)](https://github.com/jgraph/jgraphx) - Library for visualizing (mainly Swing) and interacting with node-edge graphs.
+- [jSciPy ![GitHub Repo Stars](https://img.shields.io/github/stars/hissain/jscipy) ![GitHub last commit](https://img.shields.io/github/last-commit/hissain/jscipy)](https://github.com/hissain/jscipy) - jSciPy is a Java library designed for scientific computing, offering functionalities inspired by popular scientific computing libraries. It currently provides modules for signal processing, including Butterworth filters, peak finding algorithms, and an RK4 solver for ordinary differential equations.
 - [LogicNG ![GitHub Repo Stars](https://img.shields.io/github/stars/logic-ng/LogicNG) ![GitHub last commit](https://img.shields.io/github/last-commit/logic-ng/LogicNG)](https://github.com/logic-ng/LogicNG) - Library for creating, manipulating and solving Boolean and Pseudo-Boolean formulas.
 - [Mines Java Toolkit ![GitHub Repo Stars](https://img.shields.io/github/stars/MinesJTK/jtk) ![GitHub last commit](https://img.shields.io/github/last-commit/MinesJTK/jtk)](https://github.com/MinesJTK/jtk) - Library for geophysical scientific computation, visualization and digital signal analysis.
 - [Morpheus ![GitHub Repo Stars](https://img.shields.io/github/stars/zavtech/morpheus-core) ![GitHub last commit](https://img.shields.io/github/last-commit/zavtech/morpheus-core)](https://github.com/zavtech/morpheus-core) - Provides a versatile two-dimensional memory efficient tabular data structure called a DataFrame to enable efficient in-memory analytics for scientific computing on the JVM.
@@ -1161,6 +1163,7 @@ _Provide environments to run tests for a specific use case._
 - [Apache JMeter](http://jmeter.apache.org) - Functional testing and performance measurements.
 - [JMeter DSL.java](https://abstracta.github.io/jmeter-java-dsl/) - Load tests with JMeter as simple as a JUnit test.
 - [Arquillian](http://arquillian.org) - Integration and functional testing platform for Java EE containers.
+- [BitDive ![c]](https://bitdive.io) - Zero-code integration testing platform that generates tests from runtime application behavior.
 - [cdi-test ![GitHub Repo Stars](https://img.shields.io/github/stars/guhilling/cdi-test) ![GitHub last commit](https://img.shields.io/github/last-commit/guhilling/cdi-test)](https://github.com/guhilling/cdi-test) - JUnit extension for easy and efficient testing of CDI components.
 - [Citrus](https://citrusframework.org) - Integration testing framework that focuses on both client- and server-side messaging.
 - [Gatling](https://gatling.io) - Load testing tool designed for ease of use, maintainability and high performance.
