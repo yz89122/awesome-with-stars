@@ -1738,6 +1738,7 @@ Have a problem a plugin can solve? Add it to the [nvim-lua wishlist ![GitHub Rep
 - [LukasPietzschmann/telescope-tabs ![GitHub Repo Stars](https://img.shields.io/github/stars/LukasPietzschmann/telescope-tabs) ![GitHub last commit](https://img.shields.io/github/last-commit/LukasPietzschmann/telescope-tabs)](https://github.com/LukasPietzschmann/telescope-tabs) - Quickly navigate between tabs using telescope.
 - [ariel-frischer/bmessages.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/ariel-frischer/bmessages.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/ariel-frischer/bmessages.nvim)](https://github.com/ariel-frischer/bmessages.nvim) - Replace the default `:messages` window with a configurable, auto-updating buffer.
 - [markgandolfo/lightswitch.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/markgandolfo/lightswitch.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/markgandolfo/lightswitch.nvim)](https://github.com/markgandolfo/lightswitch.nvim) - Toggle various options using the `nui.nvim` library.
+- [wsdjeg/calendar.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/wsdjeg/calendar.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/wsdjeg/calendar.nvim)](https://github.com/wsdjeg/calendar.nvim) - A simple floating calendar with extensions support.
 
 <!--lint disable double-link -->
 [**⬆ back to top**](#contents)
