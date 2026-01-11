@@ -319,6 +319,7 @@
 ### YAML
 
 - [cuducos.me/yaml.nvim](https://tangled.org/cuducos.me/yaml.nvim) - Utils to work with YAML files.
+- [mosheavni/yaml-companion.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/mosheavni/yaml-companion.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/mosheavni/yaml-companion.nvim)](https://github.com/mosheavni/yaml-companion.nvim) - Automatic schema detection and selection for YAML files with `yaml-language-server`, including built-in Kubernetes support.
 
 ### Web Development
 
