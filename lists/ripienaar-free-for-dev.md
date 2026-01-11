@@ -1586,7 +1586,7 @@ Update Time, five active automations, webhooks.
 
 ## Dev Blogging Sites
 
-  * [AyeDot](https://ayedot.com/) — Share your ideas, knowledge, and stories with the world for Free in the form of Modern multimedia short-format Miniblogs.
+  * [AyeDot](https://ayedot.com/) �� Share your ideas, knowledge, and stories with the world for Free in the form of Modern multimedia short-format Miniblogs.
   * [BearBlog](https://bearblog.dev/) - Minimalist, Markdown-powered blog and website builder.
   * [Dev.to](https://dev.to/) - Where programmers share ideas and help each other grow.
   * [Hashnode](https://hashnode.com/) — Hassle-free Blogging Software for Developers!.
