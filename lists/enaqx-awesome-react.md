@@ -2,6 +2,7 @@
 
 A collection of awesome things regarding the React ecosystem.
 
+
 - [React](#react)
   - [React General Resources](#react-general-resources)
   - [React Tutorials](#react-tutorials)
@@ -55,7 +56,7 @@ A collection of awesome things regarding the React ecosystem.
 
 - [next ![GitHub Repo Stars](https://img.shields.io/github/stars/vercel/next.js) ![GitHub last commit](https://img.shields.io/github/last-commit/vercel/next.js)](https://github.com/vercel/next.js) - The React Framework
 - [gatsby ![GitHub Repo Stars](https://img.shields.io/github/stars/gatsbyjs/gatsby) ![GitHub last commit](https://img.shields.io/github/last-commit/gatsbyjs/gatsby)](https://github.com/gatsbyjs/gatsby) - Build modern websites with React
-- [remix ![GitHub Repo Stars](https://img.shields.io/github/stars/remix-run/remix) ![GitHub last commit](https://img.shields.io/github/last-commit/remix-run/remix)](https://github.com/remix-run/remix) - Full stack web Framework that lets you focus on the user interface
+- [remix ![GitHub Repo Stars](https://img.shields.io/github/stars/remix-run/remix) ![GitHub last commit](https://img.shields.io/github/last-commit/remix-run/remix)](https://github.com/remix-run/remix) - Full-stack web Framework that lets you focus on the user interface
 - [react-admin ![GitHub Repo Stars](https://img.shields.io/github/stars/marmelab/react-admin) ![GitHub last commit](https://img.shields.io/github/last-commit/marmelab/react-admin)](https://github.com/marmelab/react-admin) - A frontend Framework for building B2B applications
 - [refine ![GitHub Repo Stars](https://img.shields.io/github/stars/refinedev/refine) ![GitHub last commit](https://img.shields.io/github/last-commit/refinedev/refine)](https://github.com/refinedev/refine) - Build your React-based CRUD applications, without constraints
 - [vike ![GitHub Repo Stars](https://img.shields.io/github/stars/vikejs/vike) ![GitHub last commit](https://img.shields.io/github/last-commit/vikejs/vike)](https://github.com/vikejs/vike) - The Modular Framework - Next.js & Nuxt alternative
@@ -90,7 +91,7 @@ A collection of awesome things regarding the React ecosystem.
 - [xstate ![GitHub Repo Stars](https://img.shields.io/github/stars/statelyai/xstate) ![GitHub last commit](https://img.shields.io/github/last-commit/statelyai/xstate)](https://github.com/statelyai/xstate) - State machines and statecharts for the modern web
 - [effector ![GitHub Repo Stars](https://img.shields.io/github/stars/zerobias/effector) ![GitHub last commit](https://img.shields.io/github/last-commit/zerobias/effector)](https://github.com/zerobias/effector) - Business logic with ease
 - [immer ![GitHub Repo Stars](https://img.shields.io/github/stars/immerjs/immer) ![GitHub last commit](https://img.shields.io/github/last-commit/immerjs/immer)](https://github.com/immerjs/immer) - Create the next immutable state by mutating the current one
-- [immutable-js ![GitHub Repo Stars](https://img.shields.io/github/stars/immutable-js/immutable-js) ![GitHub last commit](https://img.shields.io/github/last-commit/immutable-js/immutable-js)](https://github.com/immutable-js/immutable-js) - Immutable persistent data collections for Javascript
+- [immutable-js ![GitHub Repo Stars](https://img.shields.io/github/stars/immutable-js/immutable-js) ![GitHub last commit](https://img.shields.io/github/last-commit/immutable-js/immutable-js)](https://github.com/immutable-js/immutable-js) - Immutable persistent data collections for JavaScript
 - [rxdb ![GitHub Repo Stars](https://img.shields.io/github/stars/pubkey/rxdb) ![GitHub last commit](https://img.shields.io/github/last-commit/pubkey/rxdb)](https://github.com/pubkey/rxdb) - A fast, offline-first, reactive database for JavaScript Applications
 
 #### React Styling

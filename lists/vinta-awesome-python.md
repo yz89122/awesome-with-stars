@@ -639,6 +639,7 @@ _Libraries for working with HTTP._
 
 _Libraries for programming with hardware._
 
+- [bleak ![GitHub Repo Stars](https://img.shields.io/github/stars/hbldh/bleak) ![GitHub last commit](https://img.shields.io/github/last-commit/hbldh/bleak)](https://github.com/hbldh/bleak) - A cross platform Bluetooth Low Energy Client for Python using asyncio.
 - [keyboard ![GitHub Repo Stars](https://img.shields.io/github/stars/boppreh/keyboard) ![GitHub last commit](https://img.shields.io/github/last-commit/boppreh/keyboard)](https://github.com/boppreh/keyboard) - Hook and simulate global keyboard events on Windows and Linux.
 - [mouse ![GitHub Repo Stars](https://img.shields.io/github/stars/boppreh/mouse) ![GitHub last commit](https://img.shields.io/github/last-commit/boppreh/mouse)](https://github.com/boppreh/mouse) - Hook and simulate global mouse events on Windows and Linux.
 - [pynput ![GitHub Repo Stars](https://img.shields.io/github/stars/moses-palmer/pynput) ![GitHub last commit](https://img.shields.io/github/last-commit/moses-palmer/pynput)](https://github.com/moses-palmer/pynput) - A library to control and monitor input devices.
@@ -719,6 +720,7 @@ _Libraries for generating and working with logs._
 
 _Libraries for Machine Learning. Also see [awesome-machine-learning ![GitHub Repo Stars](https://img.shields.io/github/stars/josephmisiti/awesome-machine-learning) ![GitHub last commit](https://img.shields.io/github/last-commit/josephmisiti/awesome-machine-learning)](https://github.com/josephmisiti/awesome-machine-learning#python)._
 
+- [diffusers ![GitHub Repo Stars](https://img.shields.io/github/stars/huggingface/diffusers) ![GitHub last commit](https://img.shields.io/github/last-commit/huggingface/diffusers)](https://github.com/huggingface/diffusers) - A library that provides pretrained diffusion models for generating and editing images, audio, and video.
 - [gym ![GitHub Repo Stars](https://img.shields.io/github/stars/openai/gym) ![GitHub last commit](https://img.shields.io/github/last-commit/openai/gym)](https://github.com/openai/gym) - A toolkit for developing and comparing reinforcement learning algorithms.
 - [Feature-engine ![GitHub Repo Stars](https://img.shields.io/github/stars/feature-engine/feature_engine) ![GitHub last commit](https://img.shields.io/github/last-commit/feature-engine/feature_engine)](https://github.com/feature-engine/feature_engine) - sklearn compatible API with the widest toolset for feature engineering and selection.
 - [H2O ![GitHub Repo Stars](https://img.shields.io/github/stars/h2oai/h2o-3) ![GitHub last commit](https://img.shields.io/github/last-commit/h2oai/h2o-3)](https://github.com/h2oai/h2o-3) - Open Source Fast Scalable Machine Learning Platform.
@@ -727,6 +729,7 @@ _Libraries for Machine Learning. Also see [awesome-machine-learning ![GitHub Rep
 - [PraisonAI ![GitHub Repo Stars](https://img.shields.io/github/stars/MervinPraison/PraisonAI) ![GitHub last commit](https://img.shields.io/github/last-commit/MervinPraison/PraisonAI)](https://github.com/MervinPraison/PraisonAI) - Production-ready Multi-AI Agents framework with self-reflection, 100+ LLM support, MCP integration, and agentic workflows.
 - [scikit-learn](http://scikit-learn.org/) - The most popular Python library for Machine Learning.
 - [Spark ML](http://spark.apache.org/docs/latest/ml-guide.html) - [Apache Spark](http://spark.apache.org/)'s scalable Machine Learning library.
+- [Transformers ![GitHub Repo Stars](https://img.shields.io/github/stars/huggingface/transformers) ![GitHub last commit](https://img.shields.io/github/last-commit/huggingface/transformers)](https://github.com/huggingface/transformers) - A framework that lets you easily use pretrained transformer models for NLP, vision, and audio tasks.
 - [xgboost ![GitHub Repo Stars](https://img.shields.io/github/stars/dmlc/xgboost) ![GitHub last commit](https://img.shields.io/github/last-commit/dmlc/xgboost)](https://github.com/dmlc/xgboost) - A scalable, portable, and distributed gradient boosting library.
 
 ## Microsoft Windows
@@ -932,6 +935,7 @@ _Libraries and software for indexing and performing search queries on data._
 _Libraries for serializing complex data types._
 
 - [marshmallow ![GitHub Repo Stars](https://img.shields.io/github/stars/marshmallow-code/marshmallow) ![GitHub last commit](https://img.shields.io/github/last-commit/marshmallow-code/marshmallow)](https://github.com/marshmallow-code/marshmallow) - A lightweight library for converting complex objects to and from simple Python datatypes.
+- [orjson ![GitHub Repo Stars](https://img.shields.io/github/stars/ijl/orjson) ![GitHub last commit](https://img.shields.io/github/last-commit/ijl/orjson)](https://github.com/ijl/orjson) - Fast, correct JSON library.
 - [pysimdjson ![GitHub Repo Stars](https://img.shields.io/github/stars/TkTech/pysimdjson) ![GitHub last commit](https://img.shields.io/github/last-commit/TkTech/pysimdjson)](https://github.com/TkTech/pysimdjson) - A Python bindings for [simdjson ![GitHub Repo Stars](https://img.shields.io/github/stars/lemire/simdjson) ![GitHub last commit](https://img.shields.io/github/last-commit/lemire/simdjson)](https://github.com/lemire/simdjson).
 - [python-rapidjson ![GitHub Repo Stars](https://img.shields.io/github/stars/python-rapidjson/python-rapidjson) ![GitHub last commit](https://img.shields.io/github/last-commit/python-rapidjson/python-rapidjson)](https://github.com/python-rapidjson/python-rapidjson) - A Python wrapper around [RapidJSON ![GitHub Repo Stars](https://img.shields.io/github/stars/Tencent/rapidjson) ![GitHub last commit](https://img.shields.io/github/last-commit/Tencent/rapidjson)](https://github.com/Tencent/rapidjson).
 - [toonify ![GitHub Repo Stars](https://img.shields.io/github/stars/ScrapeGraphAI/toonify) ![GitHub last commit](https://img.shields.io/github/last-commit/ScrapeGraphAI/toonify)](https://github.com/ScrapeGraphAI/toonify) - A compact, human-readable serialization format that reduces LLM token usage by 30-60% compared to JSON.
