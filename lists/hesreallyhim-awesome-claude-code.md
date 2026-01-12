@@ -212,7 +212,7 @@ Claude Code is a CLI-based coding assistant from [Anthropic](https://www.anthrop
 
 <br>
 
-## Slash-Commands 🔪
+## Slash-Commands ���
 
 > "Slash Commands are customized, carefully refined prompts that control Claude's behavior in order to perform a specific task"
 
