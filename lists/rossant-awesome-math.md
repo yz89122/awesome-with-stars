@@ -439,7 +439,7 @@ All resources are freely available except those with a 💲 icon.
 * 📝 [Introduction to Algebraic Topology](http://www.math.muni.cz/~cadek/at/at.pdf) - Martin Cadek
 * 📝 [Algebra and Topology](http://webusers.imj-prg.fr/~pierre.schapira/lectnotes/AlTo.pdf) - Pierre Schapira (Paris VI University)
 * 📝 [Lecture Notes in Algebraic Topology](http://www.indiana.edu/~jfdavis/teaching/m623/book.pdf) - James F. Davis, Paul Kirk (Indiana University)
-* 📝 [Algebraic Topology](https://www.ma.utexas.edu/ibl1/courses/resources/12_15_07_grad_alg_top_mooremethod.pdf) - Michael Starbird
+* ��� [Algebraic Topology](https://www.ma.utexas.edu/ibl1/courses/resources/12_15_07_grad_alg_top_mooremethod.pdf) - Michael Starbird
 * 📝 [Lecture Notes on Algebraic Topology](http://www.math.nus.edu.sg/~matwujie/ma5209.pdf) - Jie Wu
 
 
@@ -618,7 +618,7 @@ All resources are freely available except those with a 💲 icon.
 
 * 📝 [Mathematics for Computer Science](https://people.csail.mit.edu/meyer/mcs.pdf) - Eric Lehman, F. Thomson Leighton, Albert R. Meyer
 * 📝 [Algorithms and Complexity](http://www.math.upenn.edu/%7Ewilf/AlgComp3.html) - H. Wilf
-* ���� [Lecture Notes on Optimization](http://people.eecs.berkeley.edu/~varaiya/papers_ps.dir/NOO.pdf) - Pravin Varaiya
+* 📝 [Lecture Notes on Optimization](http://people.eecs.berkeley.edu/~varaiya/papers_ps.dir/NOO.pdf) - Pravin Varaiya
 * 📝 [Information Theory, Inference, and Learning Algorithms](http://www.inference.org.uk/mackay/itila/book.html) - David J. C. MacKay
 * 📝 [The Chaos Textbook: Mathematics in the age of the computer](https://hypertextbook.com/chaos/) - Glenn Elert
 
