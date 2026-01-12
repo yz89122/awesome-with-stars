@@ -198,7 +198,7 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 | <a href="https://www.life-global.org/course/427-professional-networking-for-career-growth" target="_blank" rel="noopener noreferrer">Professional Networking for Career Growth</a> | HP / Life Global | Beginner | 0.5 | 🏆 |
 | <a href="https://www.life-global.org/course/362-resume-writing-and-job-interviewing" target="_blank" rel="noopener noreferrer"> Resume Writing and Job Interviewing </a> | HP / Life Global | Beginner | 0.5 | 🏆 |
 | <a href="https://www.life-global.org/course/13-effective-leadership" target="_blank" rel="noopener noreferrer"> Effective Leadership </a> | HP / Life Global | Beginner | 0.5 | 🏆 |
-| <a href="https://www.life-global.org/course/12-effective-presentations" target="_blank" rel="noopener noreferrer"> Effective Presentations </a> | HP / Life Global | Beginner | 0.5 | ���� |
+| <a href="https://www.life-global.org/course/12-effective-presentations" target="_blank" rel="noopener noreferrer"> Effective Presentations </a> | HP / Life Global | Beginner | 0.5 | 🏆 |
 
 <a href="https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents" target="_blank" rel="noopener noreferrer">⬆️</a>
 
