@@ -1123,7 +1123,7 @@ Webpage: http://cafefatoljen.com
 
 Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
-✔    | ✔     | Götgatan 14, 118 46 Stockholm, Sweden | 9–23
+✔    | ✔     | G��tgatan 14, 118 46 Stockholm, Sweden | 9–23
 
 #### Café Pascal
 
