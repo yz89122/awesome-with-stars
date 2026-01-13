@@ -505,7 +505,7 @@ Complete and open source games.
 - [Tetris ![GitHub Repo Stars](https://img.shields.io/github/stars/vinheim3/tetris-gb-disasm) ![GitHub last commit](https://img.shields.io/github/last-commit/vinheim3/tetris-gb-disasm)](https://github.com/vinheim3/tetris-gb-disasm) - Complete Tetris disassembly.
 - [FX Hammer ![GitHub Repo Stars](https://img.shields.io/github/stars/DevEd2/FXHammer-Disasm) ![GitHub last commit](https://img.shields.io/github/last-commit/DevEd2/FXHammer-Disasm)](https://github.com/DevEd2/FXHammer-Disasm)
 - [Harvest Moon 3 ![GitHub Repo Stars](https://img.shields.io/github/stars/sanqui/hm3) ![GitHub last commit](https://img.shields.io/github/last-commit/sanqui/hm3)](https://github.com/sanqui/hm3)
-- [Final Fantasy Adventure ![GitHub Repo Stars](https://img.shields.io/github/stars/daid/FFA-disassembly) ![GitHub last commit](https://img.shields.io/github/last-commit/daid/FFA-disassembly)](https://github.com/daid/FFA-disassembly)
+- [Final Fantasy Adventure](https://daid.github.io/FFA-Disassembly/)
 - [The Jungle Book ![GitHub Repo Stars](https://img.shields.io/github/stars/not-chciken/jungle-book-gb-disassembly) ![GitHub last commit](https://img.shields.io/github/last-commit/not-chciken/jungle-book-gb-disassembly)](https://github.com/not-chciken/jungle-book-gb-disassembly)
 
 ## Game Boy Camera
@@ -606,3 +606,4 @@ Thanks to [every ![GitHub Repo Stars](https://img.shields.io/github/stars/avivac
 ### Sponsors
 
 Special thanks to our friends at [DigitalOcean](https://www.digitalocean.com/) and [Incube8 Games](https://incube8games.com/), sponsoring the open source activites of our Game Boy Development community.
+
