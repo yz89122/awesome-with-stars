@@ -194,7 +194,7 @@ A collection of awesome things regarding the React ecosystem.
 
 - [formatjs ![GitHub Repo Stars](https://img.shields.io/github/stars/formatjs/formatjs) ![GitHub last commit](https://img.shields.io/github/last-commit/formatjs/formatjs)](https://github.com/formatjs/formatjs) - Internationalize your web apps
 - [react-i18next ![GitHub Repo Stars](https://img.shields.io/github/stars/i18next/react-i18next) ![GitHub last commit](https://img.shields.io/github/last-commit/i18next/react-i18next)](https://github.com/i18next/react-i18next) - Internationalization for React done right
-- [react-inltayer ![GitHub Repo Stars](https://img.shields.io/github/stars/aymericzip/intlayer) ![GitHub last commit](https://img.shields.io/github/last-commit/aymericzip/intlayer)](https://github.com/aymericzip/intlayer) - Internationalization focused on maintenability for React
+- [react-intlayer ![GitHub Repo Stars](https://img.shields.io/github/stars/aymericzip/intlayer) ![GitHub last commit](https://img.shields.io/github/last-commit/aymericzip/intlayer)](https://github.com/aymericzip/intlayer) - Internationalization focused on maintainability for React
 
 #### React Graphics and Animations
 
