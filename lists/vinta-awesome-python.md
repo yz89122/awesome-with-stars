@@ -386,6 +386,7 @@ _Libraries for connecting and operating databases._
   - [pymssql ![GitHub Repo Stars](https://img.shields.io/github/stars/pymssql/pymssql) ![GitHub last commit](https://img.shields.io/github/last-commit/pymssql/pymssql)](https://github.com/pymssql/pymssql) - A simple database interface to Microsoft SQL Server.
 - NoSQL Databases
   - [cassandra-driver ![GitHub Repo Stars](https://img.shields.io/github/stars/datastax/python-driver) ![GitHub last commit](https://img.shields.io/github/last-commit/datastax/python-driver)](https://github.com/datastax/python-driver) - The Python Driver for Apache Cassandra.
+  - [Django MongoDB Backend ![GitHub Repo Stars](https://img.shields.io/github/stars/mongodb/django-mongodb-backend) ![GitHub last commit](https://img.shields.io/github/last-commit/mongodb/django-mongodb-backend)](https://github.com/mongodb/django-mongodb-backend) - Official MongoDB database backend for Django.
   - [happybase ![GitHub Repo Stars](https://img.shields.io/github/stars/python-happybase/happybase) ![GitHub last commit](https://img.shields.io/github/last-commit/python-happybase/happybase)](https://github.com/python-happybase/happybase) - A developer-friendly library for Apache HBase.
   - [kafka-python ![GitHub Repo Stars](https://img.shields.io/github/stars/dpkp/kafka-python) ![GitHub last commit](https://img.shields.io/github/last-commit/dpkp/kafka-python)](https://github.com/dpkp/kafka-python) - The Python client for Apache Kafka.
   - [motor ![GitHub Repo Stars](https://img.shields.io/github/stars/mongodb/motor) ![GitHub last commit](https://img.shields.io/github/last-commit/mongodb/motor)](https://github.com/mongodb/motor) - The async Python driver for MongoDB.
@@ -495,6 +496,7 @@ _Libraries for generating project documentation._
 _Libraries for downloading._
 
 - [akshare ![GitHub Repo Stars](https://img.shields.io/github/stars/jindaxiang/akshare) ![GitHub last commit](https://img.shields.io/github/last-commit/jindaxiang/akshare)](https://github.com/jindaxiang/akshare) - A financial data interface library, built for human beings!
+- [OpenBB ![GitHub Repo Stars](https://img.shields.io/github/stars/OpenBB-finance/OpenBB) ![GitHub last commit](https://img.shields.io/github/last-commit/OpenBB-finance/OpenBB)](https://github.com/OpenBB-finance/OpenBB) - A financial data platform for analysts, quants and AI agents.
 - [s3cmd ![GitHub Repo Stars](https://img.shields.io/github/stars/s3tools/s3cmd) ![GitHub last commit](https://img.shields.io/github/last-commit/s3tools/s3cmd)](https://github.com/s3tools/s3cmd) - A command line tool for managing Amazon S3 and CloudFront.
 - [youtube-dl ![GitHub Repo Stars](https://img.shields.io/github/stars/ytdl-org/youtube-dl) ![GitHub last commit](https://img.shields.io/github/last-commit/ytdl-org/youtube-dl)](https://github.com/ytdl-org/youtube-dl/) - A command-line program to download videos from YouTube and other video sites.
 
@@ -608,6 +610,7 @@ _Libraries for geocoding addresses and working with latitudes and longitudes._
 - [django-countries ![GitHub Repo Stars](https://img.shields.io/github/stars/SmileyChris/django-countries) ![GitHub last commit](https://img.shields.io/github/last-commit/SmileyChris/django-countries)](https://github.com/SmileyChris/django-countries) - A Django app that provides a country field for models and forms.
 - [geodjango](https://docs.djangoproject.com/en/dev/ref/contrib/gis/) - A world-class geographic web framework.
 - [geojson ![GitHub Repo Stars](https://img.shields.io/github/stars/jazzband/geojson) ![GitHub last commit](https://img.shields.io/github/last-commit/jazzband/geojson)](https://github.com/jazzband/geojson) - Python bindings and utilities for GeoJSON.
+- [geopandas ![GitHub Repo Stars](https://img.shields.io/github/stars/geopandas/geopandas) ![GitHub last commit](https://img.shields.io/github/last-commit/geopandas/geopandas)](https://github.com/geopandas/geopandas) - Python tools for geographic data (GeoSeries/GeoDataFrame) built on pandas.
 - [geopy ![GitHub Repo Stars](https://img.shields.io/github/stars/geopy/geopy) ![GitHub last commit](https://img.shields.io/github/last-commit/geopy/geopy)](https://github.com/geopy/geopy) - Python Geocoding Toolbox.
 
 ## HTML Manipulation
@@ -727,6 +730,7 @@ _Libraries for Machine Learning. Also see [awesome-machine-learning ![GitHub Rep
 - [Metrics ![GitHub Repo Stars](https://img.shields.io/github/stars/benhamner/Metrics) ![GitHub last commit](https://img.shields.io/github/last-commit/benhamner/Metrics)](https://github.com/benhamner/Metrics) - Machine learning evaluation metrics.
 - [MindsDB ![GitHub Repo Stars](https://img.shields.io/github/stars/mindsdb/mindsdb) ![GitHub last commit](https://img.shields.io/github/last-commit/mindsdb/mindsdb)](https://github.com/mindsdb/mindsdb) - MindsDB is an open source AI layer for existing databases that allows you to effortlessly develop, train and deploy state-of-the-art machine learning models using standard queries.
 - [PraisonAI ![GitHub Repo Stars](https://img.shields.io/github/stars/MervinPraison/PraisonAI) ![GitHub last commit](https://img.shields.io/github/last-commit/MervinPraison/PraisonAI)](https://github.com/MervinPraison/PraisonAI) - Production-ready Multi-AI Agents framework with self-reflection, 100+ LLM support, MCP integration, and agentic workflows.
+- [RAGFlow ![GitHub Repo Stars](https://img.shields.io/github/stars/infiniflow/ragflow) ![GitHub last commit](https://img.shields.io/github/last-commit/infiniflow/ragflow)](https://github.com/infiniflow/ragflow) - An open-source RAG engine for document understanding and question answering with LLMs.
 - [scikit-learn](http://scikit-learn.org/) - The most popular Python library for Machine Learning.
 - [Spark ML](http://spark.apache.org/docs/latest/ml-guide.html) - [Apache Spark](http://spark.apache.org/)'s scalable Machine Learning library.
 - [Transformers ![GitHub Repo Stars](https://img.shields.io/github/stars/huggingface/transformers) ![GitHub last commit](https://img.shields.io/github/last-commit/huggingface/transformers)](https://github.com/huggingface/transformers) - A framework that lets you easily use pretrained transformer models for NLP, vision, and audio tasks.
@@ -795,6 +799,7 @@ _Libraries that implement Object-Relational Mapping or data mapping techniques._
   - [SQLModel](https://sqlmodel.tiangolo.com/) - SQLModel is based on Python type annotations, and powered by Pydantic and SQLAlchemy.
 - NoSQL Databases
   - [mongoengine ![GitHub Repo Stars](https://img.shields.io/github/stars/MongoEngine/mongoengine) ![GitHub last commit](https://img.shields.io/github/last-commit/MongoEngine/mongoengine)](https://github.com/MongoEngine/mongoengine) - A Python Object-Document-Mapper for working with MongoDB.
+  - [ODMantic ![GitHub Repo Stars](https://img.shields.io/github/stars/art049/odmantic) ![GitHub last commit](https://img.shields.io/github/last-commit/art049/odmantic)](https://github.com/art049/odmantic) - Sync and Async ODM for MongoDB built on top of Pydantic for model definition and validation.
   - [PynamoDB ![GitHub Repo Stars](https://img.shields.io/github/stars/pynamodb/PynamoDB) ![GitHub last commit](https://img.shields.io/github/last-commit/pynamodb/PynamoDB)](https://github.com/pynamodb/PynamoDB) - A Pythonic interface for [Amazon DynamoDB](https://aws.amazon.com/dynamodb/).
 
 ## Package Management
@@ -905,6 +910,7 @@ _Libraries for scientific computing. Also see [Python-for-Scientists ![GitHub Re
 - [cclib](http://cclib.github.io/) - A library for parsing and interpreting the results of computational chemistry packages.
 - [Colour](http://colour-science.org/) - Implementing a comprehensive number of colour theory transformations and algorithms.
 - [Karate Club ![GitHub Repo Stars](https://img.shields.io/github/stars/benedekrozemberczki/karateclub) ![GitHub last commit](https://img.shields.io/github/last-commit/benedekrozemberczki/karateclub)](https://github.com/benedekrozemberczki/karateclub) - Unsupervised machine learning toolbox for graph structured data.
+- [manim ![GitHub Repo Stars](https://img.shields.io/github/stars/ManimCommunity/manim) ![GitHub last commit](https://img.shields.io/github/last-commit/ManimCommunity/manim)](https://github.com/ManimCommunity/manim) - An animation engine for explanatory math videos.
 - [NetworkX](https://networkx.github.io/) - A high-productivity software for complex networks.
 - [NIPY](http://nipy.org) - A collection of neuroimaging toolkits.
 - [NumPy](http://www.numpy.org/) - A fundamental package for scientific computing with Python.
@@ -915,6 +921,7 @@ _Libraries for scientific computing. Also see [Python-for-Scientists ![GitHub Re
 - [QuTiP](http://qutip.org/) - Quantum Toolbox in Python.
 - [RDKit](http://www.rdkit.org/) - Cheminformatics and Machine Learning Software.
 - [SciPy](https://www.scipy.org/) - A Python-based ecosystem of open-source software for mathematics, science, and engineering.
+- [shapely ![GitHub Repo Stars](https://img.shields.io/github/stars/shapely/shapely) ![GitHub last commit](https://img.shields.io/github/last-commit/shapely/shapely)](https://github.com/shapely/shapely) - Manipulation and analysis of geometric objects in the Cartesian plane.
 - [SimPy](https://gitlab.com/team-simpy/simpy) - A process-based discrete-event simulation framework.
 - [statsmodels ![GitHub Repo Stars](https://img.shields.io/github/stars/statsmodels/statsmodels) ![GitHub last commit](https://img.shields.io/github/last-commit/statsmodels/statsmodels)](https://github.com/statsmodels/statsmodels) - Statistical modeling and econometrics in Python.
 - [SymPy ![GitHub Repo Stars](https://img.shields.io/github/stars/sympy/sympy) ![GitHub last commit](https://img.shields.io/github/last-commit/sympy/sympy)](https://github.com/sympy/sympy) - A Python library for symbolic mathematics.
