@@ -1170,6 +1170,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-countUp ![GitHub Repo Stars](https://img.shields.io/github/stars/inorganik/ngx-countUp) ![GitHub last commit](https://img.shields.io/github/last-commit/inorganik/ngx-countUp)](https://github.com/inorganik/ngx-countUp) - Animates a numerical value by counting to it.
 * [ngx-gsap ![GitHub Repo Stars](https://img.shields.io/github/stars/marcos-velasquez/ngx-gsap) ![GitHub last commit](https://img.shields.io/github/last-commit/marcos-velasquez/ngx-gsap)](https://github.com/marcos-velasquez/ngx-gsap) - A lightweight, customizable Angular animation library powered by GSAP that's declarative and easy to use.
 * [ngx-animations ![GitHub Repo Stars](https://img.shields.io/github/stars/bananalasmari/ngx-animations) ![GitHub last commit](https://img.shields.io/github/last-commit/bananalasmari/ngx-animations)](https://github.com/bananalasmari/ngx-animations) - Angular animation library inspired by GSAP, offering high-performance directives, components, and a timeline service with full RTL support.
+* [ngx-spring ![GitHub Repo Stars](https://img.shields.io/github/stars/angular-threejs/ngx-spring) ![GitHub last commit](https://img.shields.io/github/last-commit/angular-threejs/ngx-spring)](https://github.com/angular-threejs/ngx-spring) - Create fluid, natural-feeling animations using spring physics instead of durations and easing curves.
 
 ### Calendars
 
@@ -1660,6 +1661,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [log4ngx ![GitHub Repo Stars](https://img.shields.io/github/stars/secondbounce/log4ngx) ![GitHub last commit](https://img.shields.io/github/last-commit/secondbounce/log4ngx)](https://github.com/secondbounce/log4ngx) - A TypeScript logging framework for Angular projects, based on concepts used in Log4j, Log4net, etc.
 * [ng-route-logger ![GitHub Repo Stars](https://img.shields.io/github/stars/souravion/ng-route-logger) ![GitHub last commit](https://img.shields.io/github/last-commit/souravion/ng-route-logger)](https://github.com/souravion/ng-route-logger) - A simple and powerful library that helps you track page navigation times inside your Angular application.
 * [candy-logger ![GitHub Repo Stars](https://img.shields.io/github/stars/shehari007/candy-logger) ![GitHub last commit](https://img.shields.io/github/last-commit/shehari007/candy-logger)](https://github.com/shehari007/candy-logger) - A lightweight logging library for JavaScript/TypeScript with a popup UI in browsers and enhanced terminal output in Node.
+* [@pubfunc/ngx-common-log ![GitHub Repo Stars](https://img.shields.io/github/stars/pubfunc/ngx-libs) ![GitHub last commit](https://img.shields.io/github/last-commit/pubfunc/ngx-libs)](https://github.com/pubfunc/ngx-libs/tree/master/packages/common/log) - A flexible logging library for Angular applications with support for multiple transports, log levels, namespaces, and dependency injection.
 
 ### Maps
 
