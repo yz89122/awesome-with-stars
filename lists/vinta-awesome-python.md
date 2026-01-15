@@ -247,6 +247,7 @@ _Tools of static analysis, linters and code quality checkers. Also see [awesome-
 - Static Type Checkers, also see [awesome-python-typing ![GitHub Repo Stars](https://img.shields.io/github/stars/typeddjango/awesome-python-typing) ![GitHub last commit](https://img.shields.io/github/last-commit/typeddjango/awesome-python-typing)](https://github.com/typeddjango/awesome-python-typing)
   - [mypy ![GitHub Repo Stars](https://img.shields.io/github/stars/python/mypy) ![GitHub last commit](https://img.shields.io/github/last-commit/python/mypy)](https://github.com/python/mypy) - Check variable types during compile time.
   - [pyre-check ![GitHub Repo Stars](https://img.shields.io/github/stars/facebook/pyre-check) ![GitHub last commit](https://img.shields.io/github/last-commit/facebook/pyre-check)](https://github.com/facebook/pyre-check) - Performant type checking.
+  - [ty ![GitHub Repo Stars](https://img.shields.io/github/stars/astral-sh/ty) ![GitHub last commit](https://img.shields.io/github/last-commit/astral-sh/ty)](https://github.com/astral-sh/ty) - An extremely fast Python type checker and language server.
   - [typeshed ![GitHub Repo Stars](https://img.shields.io/github/stars/python/typeshed) ![GitHub last commit](https://img.shields.io/github/last-commit/python/typeshed)](https://github.com/python/typeshed) - Collection of library stubs for Python, with static types.
 - Static Type Annotations Generators
   - [monkeytype ![GitHub Repo Stars](https://img.shields.io/github/stars/Instagram/MonkeyType) ![GitHub last commit](https://img.shields.io/github/last-commit/Instagram/MonkeyType)](https://github.com/Instagram/MonkeyType) - A system for Python that generates static type annotations by collecting runtime types.
@@ -392,6 +393,7 @@ _Libraries for connecting and operating databases._
   - [motor ![GitHub Repo Stars](https://img.shields.io/github/stars/mongodb/motor) ![GitHub last commit](https://img.shields.io/github/last-commit/mongodb/motor)](https://github.com/mongodb/motor) - The async Python driver for MongoDB.
   - [pymongo ![GitHub Repo Stars](https://img.shields.io/github/stars/mongodb/mongo-python-driver) ![GitHub last commit](https://img.shields.io/github/last-commit/mongodb/mongo-python-driver)](https://github.com/mongodb/mongo-python-driver) - The official Python client for MongoDB.
   - [redis-py ![GitHub Repo Stars](https://img.shields.io/github/stars/redis/redis-py) ![GitHub last commit](https://img.shields.io/github/last-commit/redis/redis-py)](https://github.com/redis/redis-py) - The Python client for Redis.
+  - [Beanie ![GitHub Repo Stars](https://img.shields.io/github/stars/BeanieODM/beanie) ![GitHub last commit](https://img.shields.io/github/last-commit/BeanieODM/beanie)](https://github.com/BeanieODM/beanie) - An asynchronous Python object-document mapper (ODM) for MongoDB.
 
 ## Date and Time
 
