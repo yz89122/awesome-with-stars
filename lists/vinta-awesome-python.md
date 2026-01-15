@@ -500,6 +500,7 @@ _Libraries for downloading._
 - [akshare ![GitHub Repo Stars](https://img.shields.io/github/stars/jindaxiang/akshare) ![GitHub last commit](https://img.shields.io/github/last-commit/jindaxiang/akshare)](https://github.com/jindaxiang/akshare) - A financial data interface library, built for human beings!
 - [OpenBB ![GitHub Repo Stars](https://img.shields.io/github/stars/OpenBB-finance/OpenBB) ![GitHub last commit](https://img.shields.io/github/last-commit/OpenBB-finance/OpenBB)](https://github.com/OpenBB-finance/OpenBB) - A financial data platform for analysts, quants and AI agents.
 - [s3cmd ![GitHub Repo Stars](https://img.shields.io/github/stars/s3tools/s3cmd) ![GitHub last commit](https://img.shields.io/github/last-commit/s3tools/s3cmd)](https://github.com/s3tools/s3cmd) - A command line tool for managing Amazon S3 and CloudFront.
+- [yfinance ![GitHub Repo Stars](https://img.shields.io/github/stars/ranaroussi/yfinance) ![GitHub last commit](https://img.shields.io/github/last-commit/ranaroussi/yfinance)](https://github.com/ranaroussi/yfinance) - Easy Pythonic way to download market and financial data from Yahoo Finance.
 - [youtube-dl ![GitHub Repo Stars](https://img.shields.io/github/stars/ytdl-org/youtube-dl) ![GitHub last commit](https://img.shields.io/github/last-commit/ytdl-org/youtube-dl)](https://github.com/ytdl-org/youtube-dl/) - A command-line program to download videos from YouTube and other video sites.
 
 ## Editor Plugins and IDEs
