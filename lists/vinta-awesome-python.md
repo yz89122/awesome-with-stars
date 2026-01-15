@@ -811,9 +811,8 @@ _Libraries for package and dependency management._
 
 - [pip](https://pip.pypa.io/en/stable/) - The package installer for Python.
   - [pip-tools ![GitHub Repo Stars](https://img.shields.io/github/stars/jazzband/pip-tools) ![GitHub last commit](https://img.shields.io/github/last-commit/jazzband/pip-tools)](https://github.com/jazzband/pip-tools) - A set of tools to keep your pinned Python dependencies fresh.
-  - [PyPI](https://pypi.org/)
 - [conda ![GitHub Repo Stars](https://img.shields.io/github/stars/conda/conda) ![GitHub last commit](https://img.shields.io/github/last-commit/conda/conda)](https://github.com/conda/conda/) - Cross-platform, Python-agnostic binary package manager.
-- [Hatch ![GitHub Repo Stars](https://img.shields.io/github/stars/pypa/hatch) ![GitHub last commit](https://img.shields.io/github/last-commit/pypa/hatch)](https://github.com/pypa/hatch) - Modern, extensible Python project management.
+- [hatch ![GitHub Repo Stars](https://img.shields.io/github/stars/pypa/hatch) ![GitHub last commit](https://img.shields.io/github/last-commit/pypa/hatch)](https://github.com/pypa/hatch) - Modern, extensible Python project management.
 - [poetry ![GitHub Repo Stars](https://img.shields.io/github/stars/sdispater/poetry) ![GitHub last commit](https://img.shields.io/github/last-commit/sdispater/poetry)](https://github.com/sdispater/poetry) - Python dependency management and packaging made easy.
 - [uv ![GitHub Repo Stars](https://img.shields.io/github/stars/astral-sh/uv) ![GitHub last commit](https://img.shields.io/github/last-commit/astral-sh/uv)](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
 
@@ -1157,8 +1156,8 @@ _Traditional full stack web frameworks. Also see [RESTful API ![GitHub Repo Star
   - [pyramid](https://pylonsproject.org/) - A small, fast, down-to-earth, open source Python web framework.
     - [awesome-pyramid ![GitHub Repo Stars](https://img.shields.io/github/stars/uralbash/awesome-pyramid) ![GitHub last commit](https://img.shields.io/github/last-commit/uralbash/awesome-pyramid)](https://github.com/uralbash/awesome-pyramid)
   - [fastHTML ![GitHub Repo Stars](https://img.shields.io/github/stars/AnswerDotAI/fasthtml) ![GitHub last commit](https://img.shields.io/github/last-commit/AnswerDotAI/fasthtml)](https://github.com/AnswerDotAI/fasthtml) - The fastest way to create an HTML app.
-  - [masonite ![GitHub Repo Stars](https://img.shields.io/github/stars/MasoniteFramework/masonite) ![GitHub last commit](https://img.shields.io/github/last-commit/MasoniteFramework/masonite)](https://github.com/MasoniteFramework/masonite) - The modern and developer centric Python web framework.
     - [awesome-fasthtml ![GitHub Repo Stars](https://img.shields.io/github/stars/amosgyamfi/awesome-fasthtml) ![GitHub last commit](https://img.shields.io/github/last-commit/amosgyamfi/awesome-fasthtml)](https://github.com/amosgyamfi/awesome-fasthtml)
+  - [masonite ![GitHub Repo Stars](https://img.shields.io/github/stars/MasoniteFramework/masonite) ![GitHub last commit](https://img.shields.io/github/last-commit/MasoniteFramework/masonite)](https://github.com/MasoniteFramework/masonite) - The modern and developer centric Python web framework.
 - Asynchronous
   - [microdot ![GitHub Repo Stars](https://img.shields.io/github/stars/miguelgrinberg/microdot) ![GitHub last commit](https://img.shields.io/github/last-commit/miguelgrinberg/microdot)](https://github.com/miguelgrinberg/microdot) - The impossibly small web framework for Python and MicroPython.
   - [reflex ![GitHub Repo Stars](https://img.shields.io/github/stars/reflex-dev/reflex) ![GitHub last commit](https://img.shields.io/github/last-commit/reflex-dev/reflex)](https://github.com/reflex-dev/reflex) – A framework for building reactive, full-stack web applications entirely with python .
