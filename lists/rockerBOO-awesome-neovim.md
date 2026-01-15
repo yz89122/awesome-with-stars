@@ -1452,6 +1452,7 @@ then it is not supported:
 - [JoosepAlviste/nvim-ts-context-commentstring ![GitHub Repo Stars](https://img.shields.io/github/stars/JoosepAlviste/nvim-ts-context-commentstring) ![GitHub last commit](https://img.shields.io/github/last-commit/JoosepAlviste/nvim-ts-context-commentstring)](https://github.com/JoosepAlviste/nvim-ts-context-commentstring) - Sets the `commentstring` option based on the cursor location in the file. The location is checked via Tree-sitter queries.
 - [LucasTavaresA/SingleComment.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/LucasTavaresA/SingleComment.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/LucasTavaresA/SingleComment.nvim)](https://github.com/LucasTavaresA/SingleComment.nvim) - Always single line, comment sensitive, indentation preserving commenting.
 - [Zeioth/dooku.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/Zeioth/dooku.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/Zeioth/dooku.nvim)](https://github.com/Zeioth/dooku.nvim) - Generate and open your HTML code documentation.
+- [georgeharker/comment-tasks.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/georgeharker/comment-tasks.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/georgeharker/comment-tasks.nvim)](https://github.com/georgeharker/comment-tasks.nvim) - Keep your task manager up to date from TODO and FIXME comments in code.
 
 ### Folding
 
