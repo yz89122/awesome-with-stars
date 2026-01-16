@@ -465,7 +465,7 @@ All resources are freely available except those with a 💲 icon.
 * 📝 [The Calculus of Functions of Several Variables](http://www.synechism.org/wp/the-calculus-of-functions-of-several-variables/) - Dan Sloughter
 * 📝 [A ProblemText in Advanced Calculus](http://web.pdx.edu/~erdman/PTAC/problemtext_pdf.pdf) - John M. Erdman
 * 📝 [Calculus and Linear Algebra. Vol. 1](http://hdl.handle.net/2027/spo.5597602.0001.001) - Wilfred Kaplan, Donald J. Lewis
-* �� [Calculus and Linear Algebra. Vol. 2](https://quod.lib.umich.edu/s/spobooks/5597602.0002.001) - Wilfred Kaplan, Donald J. Lewis
+* 📝 [Calculus and Linear Algebra. Vol. 2](https://quod.lib.umich.edu/s/spobooks/5597602.0002.001) - Wilfred Kaplan, Donald J. Lewis
 * 📝 [Introduction to Calculus I and II](http://www.math.odu.edu/~jhh/counter10.html) - J.H. Heinbockel
 * 📝 [Active Calculus](http://faculty.gvsu.edu/boelkinm/Home/Active_Calculus.html) - Matt Boelkins
 * 📝 [Supplements to the Exercises in Chapters 1-7 of Walter Rudin's "Principles of Mathematical Analysis"](https://math.berkeley.edu/~gbergman/ug.hndts/#Rudin) - George M. Bergman
@@ -553,12 +553,12 @@ All resources are freely available except those with a 💲 icon.
 * 📝 [Probability: Theory and Examples](https://www.math.duke.edu/~rtd/PTE/PTE4_1.pdf) - Rick Durrett
 * 📝 [Probability and Statistics Cookbook ![GitHub Repo Stars](https://img.shields.io/github/stars/mavam/stat-cookbook) ![GitHub last commit](https://img.shields.io/github/last-commit/mavam/stat-cookbook)](https://github.com/mavam/stat-cookbook/releases/download/0.2.3/stat-cookbook.pdf) - Matthias Vallentin (UC Berkeley)
 * 📝 [The Only Probability Cheatsheet You'll Ever Need](http://www.wzchen.com/probability-cheatsheet/) - William Chen
-* ��� [An Introduction to Probability and Random Processes](http://www.ellerman.org/Davids-Stuff/Maths/Rota-Baclawski-Prob-Theory-79.pdf) - Gian-Carlo Rota, Kenneth Baclawski
+* 📝 [An Introduction to Probability and Random Processes](http://www.ellerman.org/Davids-Stuff/Maths/Rota-Baclawski-Prob-Theory-79.pdf) - Gian-Carlo Rota, Kenneth Baclawski
 * 📝 [Foundations of Constructive Probability Theory](https://arxiv.org/pdf/1906.01803.pdf) - Yuen-Kwok Chan
 
 ### Statistics
 
-* 📝 [Lecture Notes on Statistical Theory](http://homepages.math.uic.edu/~rgmartin/Teaching/Stat411/Notes/411notes.pdf) - Ryan Martin (University of Illinois)
+* �� [Lecture Notes on Statistical Theory](http://homepages.math.uic.edu/~rgmartin/Teaching/Stat411/Notes/411notes.pdf) - Ryan Martin (University of Illinois)
 * 📝 [Introduction to Statistics and Data Analysis for Physicists](http://www-library.desy.de/preparch/books/vstatmp_engl.pdf) - Gerhard Bohm, Günter Zech
 * 📝 [Probability and Mathematical Statistics](http://www.iiserpune.ac.in/~ayan/MTH201/Sahoo_textbook.pdf) - Prasanna Sahoo (University of Louisville)
 * 📝 [Lectures on Statistics](http://math.arizona.edu/~faris/stat.pdf) - William G. Faris

@@ -40,7 +40,7 @@ A curated list of awesome tools, extensions, and resources for [Gemini CLI ![Git
 -->
 
 ## :tada: New
-- [Conductor ![GitHub Repo Stars](https://img.shields.io/github/stars/gemini-cli-extensions/conductor) ![GitHub last commit](https://img.shields.io/github/last-commit/gemini-cli-extensions/conductor)](http://github.com/gemini-cli-extensions/conductor) - Conductor is a Gemini CLI extension that allows you to specify, plan, and implement software features.
+- [Agent Squads ![GitHub Repo Stars](https://img.shields.io/github/stars/agents-squads/squads-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/agents-squads/squads-cli)](https://github.com/agents-squads/squads-cli) - Open source CLI for AI agent coordination that organizes agents into domain-aligned squads with persistent memory, goal tracking, and Git-native state.  Works with Gemini CLI.
 
 > [!tip]
 > **Track your local Gemini CLI usage with [Splitrail ![GitHub Repo Stars](https://img.shields.io/github/stars/Piebald-AI/splitrail) ![GitHub last commit](https://img.shields.io/github/last-commit/Piebald-AI/splitrail)](https://github.com/Piebald-AI/splitrail).**
@@ -86,6 +86,10 @@ Modified versions of Gemini CLI with enhanced features or alternative model supp
 - [LLxprt Code ![GitHub Repo Stars](https://img.shields.io/github/stars/vybestack/llxprt-code) ![GitHub last commit](https://img.shields.io/github/last-commit/vybestack/llxprt-code)](https://github.com/vybestack/llxprt-code) - An open-source multi-provider (including local) fork of Gemini CLI. Use whatever LLM you want to code in your terminal.
 - [iFlow CLI ![GitHub Repo Stars](https://img.shields.io/github/stars/iflow-ai/iflow-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/iflow-ai/iflow-cli)](https://github.com/iflow-ai/iflow-cli) - Powerful fork that extends Gemini CLI with repository analysis, context interpretation, and complex workflow automation. Perfect for teams needing advanced orchestration capabilities.
 - [Qwen Code ![GitHub Repo Stars](https://img.shields.io/github/stars/QwenLM/qwen-code) ![GitHub last commit](https://img.shields.io/github/last-commit/QwenLM/qwen-code)](https://github.com/QwenLM/qwen-code/) - Fork by the team behind Qwen LLM. Uses Qwen instead of Gemini.
+
+## Agent Orchestration & CLI Tools
+
+- [squads-cli ![GitHub Repo Stars](https://img.shields.io/github/stars/agents-squads/squads-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/agents-squads/squads-cli)](https://github.com/agents-squads/squads-cli) - Open source CLI for AI agent coordination that organizes agents into domain-aligned squads with persistent memory, goal tracking, and Git-native state.  Works with Gemini CLI.
 
 ## Fun
 
@@ -135,6 +139,7 @@ Services that expose Gemini CLI functionality through standard API protocols.
 **👉 See also: [Awesome Gemini CLI Extensions ![GitHub Repo Stars](https://img.shields.io/github/stars/Piebald-AI/awesome-gemini-cli-extensions) ![GitHub last commit](https://img.shields.io/github/last-commit/Piebald-AI/awesome-gemini-cli-extensions)](https://github.com/Piebald-AI/awesome-gemini-cli-extensions)** \
 Custom commands and extensions that add new capabilities to Gemini CLI.
 
+- [Conductor ![GitHub Repo Stars](https://img.shields.io/github/stars/gemini-cli-extensions/conductor) ![GitHub last commit](https://img.shields.io/github/last-commit/gemini-cli-extensions/conductor)](http://github.com/gemini-cli-extensions/conductor) - Conductor is a Gemini CLI extension that allows you to specify, plan, and implement software features.
 - [Listen ![GitHub Repo Stars](https://img.shields.io/github/stars/automateyournetwork/GeminiCLI_Listen_Extension) ![GitHub last commit](https://img.shields.io/github/last-commit/automateyournetwork/GeminiCLI_Listen_Extension)](https://github.com/automateyournetwork/GeminiCLI_Listen_Extension) - Run Gemini CLI as a server with /listen commands.
 - [Screenshare ![GitHub Repo Stars](https://img.shields.io/github/stars/automateyournetwork/GeminiCLI_ScreenShare_Extension) ![GitHub last commit](https://img.shields.io/github/last-commit/automateyournetwork/GeminiCLI_ScreenShare_Extension)](https://github.com/automateyournetwork/GeminiCLI_ScreenShare_Extension) - Screen sharing via MCP and custom slash commands.
 - [pyATS ![GitHub Repo Stars](https://img.shields.io/github/stars/automateyournetwork/pyATS_GeminiCLI_Extension) ![GitHub last commit](https://img.shields.io/github/last-commit/automateyournetwork/pyATS_GeminiCLI_Extension)](https://github.com/automateyournetwork/pyATS_GeminiCLI_Extension) - pyATS integration for network testing.
