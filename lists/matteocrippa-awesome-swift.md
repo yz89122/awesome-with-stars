@@ -10,7 +10,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 | Awesome | Linux | Projects | Updated |
 |:-------:|:-----:|:--------:|:-------:|
-| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | :penguin: | 1080 | July 31, 2025 |
+| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | :penguin: | 1081 | January 16, 2026 |
 
 In parternship with:
 
@@ -381,6 +381,7 @@ In parternship with:
 * [RxFlow ![GitHub Repo Stars](https://img.shields.io/github/stars/RxSwiftCommunity/RxFlow) ![GitHub last commit](https://img.shields.io/github/last-commit/RxSwiftCommunity/RxFlow)](https://github.com/RxSwiftCommunity/RxFlow) - RxFlow is a navigation framework for iOS applications based on a Reactive Flow Coordinator pattern.
 * [SwiftCurrent ![GitHub Repo Stars](https://img.shields.io/github/stars/wwt/SwiftCurrent) ![GitHub last commit](https://img.shields.io/github/last-commit/wwt/SwiftCurrent)](https://github.com/wwt/SwiftCurrent) - Manage complex workflows wherever Swift can be built. It comes with built-in support for UIKit, Storyboards, and SwiftUI.
 * [SwiftRouter ![GitHub Repo Stars](https://img.shields.io/github/stars/skyline75489/SwiftRouter) ![GitHub last commit](https://img.shields.io/github/last-commit/skyline75489/SwiftRouter)](https://github.com/skyline75489/SwiftRouter) - A URL Router for iOS.
+* [SwiftUIRoutes ![GitHub Repo Stars](https://img.shields.io/github/stars/gabriel/swiftui-routes) ![GitHub last commit](https://img.shields.io/github/last-commit/gabriel/swiftui-routes)](https://github.com/gabriel/swiftui-routes) - A minimal and flexible router for SwiftUI apps.
 * [URLNavigator ![GitHub Repo Stars](https://img.shields.io/github/stars/devxoul/URLNavigator) ![GitHub last commit](https://img.shields.io/github/last-commit/devxoul/URLNavigator)](https://github.com/devxoul/URLNavigator) - Elegant URL Routing.
 
 ### App Store
