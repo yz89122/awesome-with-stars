@@ -357,7 +357,7 @@ __Note:__ searching for ‘@’ will return all Twitter accounts listed on this 
 
 ### Archeological and Historical Networks
 
-> See also the bibliographies [by Claire Lemercier and Claire Zalc](http://www.quanti.ihmc.ens.fr/Analyse-de-reseaux-bibliographie.html) (section on ‘_études structurales_’), [by the Historical Network Research Group](http://historicalnetworkresearch.org/resources/bibliography/), and [by Tom Brughmans](https://archaeologicalnetworks.wordpress.com/network-science-bibliography/).
+> See also the bibliographies [by Claire Lemercier and Claire Zalc](http://www.quanti.ihmc.ens.fr/Analyse-de-reseaux-bibliographie.html) (section on ‘_��tudes structurales_’), [by the Historical Network Research Group](http://historicalnetworkresearch.org/resources/bibliography/), and [by Tom Brughmans](https://archaeologicalnetworks.wordpress.com/network-science-bibliography/).
 
 -   [Analyse de réseaux et histoire](https://doi.org/10.3917/rhmc.522.0088), in French (_Revue d’histoire moderne et contemporaine_, 2005).
 -   [Analyser les réseaux du passé en archéologie et en histoire](https://doi.org/10.4000/nda.2300), in French (_Les Nouvelles de l’Archéologie_, 2014).
