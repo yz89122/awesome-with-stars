@@ -696,6 +696,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ng-component-hierarchy-visualizer ![GitHub Repo Stars](https://img.shields.io/github/stars/timonkrebs/ng-component-hierarchy-visualizer) ![GitHub last commit](https://img.shields.io/github/last-commit/timonkrebs/ng-component-hierarchy-visualizer)](https://github.com/timonkrebs/ng-component-hierarchy-visualizer) - An unobtrusive tool that generates Mermaid diagrams of your Angular component hierarchy from route configs.
 * [easy-template-x-angular-expressions ![GitHub Repo Stars](https://img.shields.io/github/stars/alonrbar/easy-template-x-angular-expressions) ![GitHub last commit](https://img.shields.io/github/last-commit/alonrbar/easy-template-x-angular-expressions)](https://github.com/alonrbar/easy-template-x-angular-expressions) - Angular expressions support for [easy-template-x ![GitHub Repo Stars](https://img.shields.io/github/stars/alonrbar/easy-template-x) ![GitHub last commit](https://img.shields.io/github/last-commit/alonrbar/easy-template-x)](https://github.com/alonrbar/easy-template-x).
 * [story-ui ![GitHub Repo Stars](https://img.shields.io/github/stars/southleft/story-ui) ![GitHub last commit](https://img.shields.io/github/last-commit/southleft/story-ui)](https://github.com/southleft/story-ui) - Automate component documentation by generating Storybook stories through AI-powered conversations, compatible with many LLM providers.
+* [envguards ![GitHub Repo Stars](https://img.shields.io/github/stars/princeofv/envguards) ![GitHub last commit](https://img.shields.io/github/last-commit/princeofv/envguards)](https://github.com/princeofv/envguards) - Framework-agnostic environment variable validation, documentation generator, and `.env.example` creator.
 
 ### Editor and IDE Extensions
 
@@ -1769,6 +1770,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [dasch-ng ![GitHub Repo Stars](https://img.shields.io/github/stars/DaSchTour/dasch-ng) ![GitHub last commit](https://img.shields.io/github/last-commit/DaSchTour/dasch-ng)](https://github.com/DaSchTour/dasch-ng) - A collection of reusable Angular libraries and TypeScript utilities for modern web development.
 * [ngx-schema-tools ![GitHub Repo Stars](https://img.shields.io/github/stars/Expeed-Software/ngx-schema-tools) ![GitHub last commit](https://img.shields.io/github/last-commit/Expeed-Software/ngx-schema-tools)](https://github.com/Expeed-Software/ngx-schema-tools) - A monorepo containing Angular libraries for JSON schema editing, visual data mapping, and dynamic form rendering.
 * [angular-3d ![GitHub Repo Stars](https://img.shields.io/github/stars/Hive-Academy/angular-3d) ![GitHub last commit](https://img.shields.io/github/last-commit/Hive-Academy/angular-3d)](https://github.com/Hive-Academy/angular-3d) - Modern Angular libraries for building stunning 3D graphics and scroll animations.
+* [npm-ntk-cms-angular ![GitHub Repo Stars](https://img.shields.io/github/stars/akaravi/npm-ntk-cms-angular) ![GitHub last commit](https://img.shields.io/github/last-commit/akaravi/npm-ntk-cms-angular)](https://github.com/akaravi/npm-ntk-cms-angular) - This monorepo contains a collection of 9 reusable Angular libraries designed for building modern CMS applications.
 
 ### Modals
 
@@ -1820,6 +1822,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-number-to-words](https://www.npmjs.com/package/ngx-number-to-words) - Angular pipe to convert numbers into words, ideal for invoices, reports, and financial apps.
 * [ngx-highlight-text ![GitHub Repo Stars](https://img.shields.io/github/stars/ultrasonicsoft/ngx-highlight-text) ![GitHub last commit](https://img.shields.io/github/last-commit/ultrasonicsoft/ngx-highlight-text)](https://github.com/ultrasonicsoft/ngx-highlight-text) - Angular pipe that highlights a selected word in the HTML markup.
 * [ngx-smart-pipes ![GitHub Repo Stars](https://img.shields.io/github/stars/Kavshree/-bjkavyashree-ngx-smart-pipes) ![GitHub last commit](https://img.shields.io/github/last-commit/Kavshree/-bjkavyashree-ngx-smart-pipes)](https://github.com/Kavshree/-bjkavyashree-ngx-smart-pipes) - A lightweight, tree-shakeable collection of standalone Angular pipes designed for real-world use cases.
+* [ngx-dynamic-search ![GitHub Repo Stars](https://img.shields.io/github/stars/mustafaer/ngx-dynamic-search) ![GitHub last commit](https://img.shields.io/github/last-commit/mustafaer/ngx-dynamic-search)](https://github.com/mustafaer/ngx-dynamic-search) - Angular pipe designed for dynamic, deep search filtering across complex nested objects and arrays.
 
 ### Printing
 
