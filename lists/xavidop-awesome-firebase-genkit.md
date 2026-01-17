@@ -107,6 +107,7 @@ Genkit is a framework designed to help you build AI-powered applications and fea
    - [`@agentic/genkit`](https://docs.agentic.so/marketplace/ts-sdks/genkit) - Agentic Tools adapter for the Genkit SDK.
    - [`@auth0/ai-genkit`](https://genkit.dev/docs/plugins/auth0/) - Official Auth0 plugin for Genkit that provides authentication and authorization capabilities.
    - [`genkitx-langfuse` ![GitHub Repo Stars](https://img.shields.io/github/stars/marcelfolaron/genkitx-langfuse) ![GitHub last commit](https://img.shields.io/github/last-commit/marcelfolaron/genkitx-langfuse)](https://github.com/marcelfolaron/genkitx-langfuse) - Plugin to integrate with Langfuse for telemetry and prompt management.
+   - [`genkitx-posthog` ![GitHub Repo Stars](https://img.shields.io/github/stars/orchlab/genkitx-posthog) ![GitHub last commit](https://img.shields.io/github/last-commit/orchlab/genkitx-posthog)](https://github.com/orchlab/genkitx-posthog) - Plugin to integrate with PostHog for telemetry and analytics.
 
 ### Python - Official
 1. Model / Embedding Plugins
