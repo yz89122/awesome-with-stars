@@ -427,7 +427,7 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 | <a href="https://www.freecodecamp.org/learn/machine-learning-with-python/" target="_blank" rel="noopener noreferrer">Machine Learning with Python Certification</a> | FreeCodeCamp |Professional|300 | 🏆|
 | <a href="https://www.kaggle.com/learn/intro-to-machine-learning" target="_blank" rel="noopener noreferrer">Intro to Machine Learning</a> | Kaggle          | Beginner      | 3     | 🏆     |
 | <a href="https://www.kaggle.com/learn/intermediate-machine-learning" target="_blank" rel="noopener noreferrer">Intermediate Machine Learning</a> | Kaggle | Intermediate | 4     | 🏆     |
-| <a href="https://www.kaggle.com/learn/machine-learning-explainability" target="_blank" rel="noopener noreferrer">Machine Learning Explainability</a> | Kaggle | Intermediate | 4     | 🏆     |
+| <a href="https://www.kaggle.com/learn/machine-learning-explainability" target="_blank" rel="noopener noreferrer">Machine Learning Explainability</a> | Kaggle | Intermediate | 4     | ����     |
 | <a href="https://www.kaggle.com/learn/intro-to-deep-learning" target="_blank" rel="noopener noreferrer">Intro to Deep Learning</a>  | Kaggle          | Intermediate | 4     | 🏆     |
 | <a href="https://www.kaggle.com/learn/time-series" target="_blank" rel="noopener noreferrer">Time Series</a>    | Kaggle          | Intermediate | 5     | 🏆     |
 | <a href="https://www.kaggle.com/learn/feature-engineering" target="_blank" rel="noopener noreferrer">Feature Engineering</a>| Kaggle          | Intermediate | 5     | 🏆     |
@@ -551,7 +551,7 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 
 | Course Name | Course Provider | Level | Hour(s) | Reward |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
-| <a href="https://www.netacad.com/courses/cybersecurity/introduction-cybersecurity" target="_blank" rel="noopener noreferrer">Intro to Cybersecurity</a>| Cisco Networking Academy | Beginner | 15 | <a href="https://www.youracclaim.com/org/cisco/badge/introduction-to-cybersecurity" target="_blank" rel="noopener noreferrer">🏅</a>|
+| <a href="https://www.netacad.com/courses/cybersecurity/introduction-cybersecurity" target="_blank" rel="noopener noreferrer">Intro to Cybersecurity</a>| Cisco Networking Academy | Beginner | 15 | <a href="https://www.youracclaim.com/org/cisco/badge/introduction-to-cybersecurity" target="_blank" rel="noopener noreferrer">����</a>|
 | <a href="https://www.netacad.com/courses/cybersecurity/cybersecurity-essentials" target="_blank" rel="noopener noreferrer">Cybersecurity Essentials</a>| Cisco Networking Academy | Intermediate | 30 | <a href="https://www.youracclaim.com/org/cisco/badge/cybersecurity-essentials" target="_blank" rel="noopener noreferrer">🏅</a>|
 | <a href="https://www.netacad.com/courses/ethical-hacker" target="_blank" rel="noopener noreferrer">Ethical Hacker</a>| Cisco Networking Academy | Intermediate | 70 | <a href="https://www.netacad.com/courses/ethical-hacker" target="_blank" rel="noopener noreferrer">🏆</a>|
 | <a href="https://www.netacad.com/courses/packet-tracer" target="_blank" rel="noopener noreferrer">Intro to Packet Tracer</a> | Cisco Networking Academy | Beginner | 10  | <a href="https://www.youracclaim.com/org/cisco/badge/introduction-to-packet-tracer" target="_blank" rel="noopener noreferrer">🏅</a> |
