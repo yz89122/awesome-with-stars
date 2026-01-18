@@ -97,7 +97,7 @@
 - [PPCs ![GitHub Repo Stars](https://img.shields.io/github/stars/Perl/PPCs) ![GitHub last commit](https://img.shields.io/github/last-commit/Perl/PPCs)](https://github.com/Perl/PPCs) - Proposed Perl Changes is proposals to change the Perl language.
 - [DIPs ![GitHub Repo Stars](https://img.shields.io/github/stars/dlang/DIPs) ![GitHub last commit](https://img.shields.io/github/last-commit/dlang/DIPs)](https://github.com/dlang/DIPs) - D language Improvement Proposals.
 - [GEPs](https://groovy.apache.org/wiki/geps.html) - Groovy Enhancement Proposals and Issues tracked in Jira.
-- [Vlang RFCs ![GitHub Repo Stars](https://img.shields.io/github/stars/vlang/rfcs) ![GitHub last commit](https://img.shields.io/github/last-commit/vlang/rfcs)](https://github.com/vlang/rfcs) -  RFCs for changes to V lang.
+- [Vlang RFCs ![GitHub Repo Stars](https://img.shields.io/github/stars/vlang/rfcs) ![GitHub last commit](https://img.shields.io/github/last-commit/vlang/rfcs)](https://github.com/vlang/rfcs) - RFCs for changes to V lang.
 
 ## Tools
 
@@ -151,6 +151,7 @@
 - [CAIPs ![GitHub Repo Stars](https://img.shields.io/github/stars/ChainAgnostic/CAIPs) ![GitHub last commit](https://img.shields.io/github/last-commit/ChainAgnostic/CAIPs)](https://github.com/ChainAgnostic/CAIPs) - Chain Agnostic Improvement Proposals.
 - [AIPs](https://governance.aptosfoundation.org/) - Aptos Improvement Proposals.
 - [HIPs ![GitHub Repo Stars](https://img.shields.io/github/stars/helium/HIP) ![GitHub last commit](https://img.shields.io/github/last-commit/helium/HIP)](https://github.com/helium/HIP) - Helium Improvement Proposals.
+- [HCS ![GitHub Repo Stars](https://img.shields.io/github/stars/hiero-ledger/hiero-consensus-specifications) ![GitHub last commit](https://img.shields.io/github/last-commit/hiero-ledger/hiero-consensus-specifications)](https://github.com/hiero-ledger/hiero-consensus-specifications) - Hiero Consensus Standards.
 - [MIPs ![GitHub Repo Stars](https://img.shields.io/github/stars/makerdao/mips) ![GitHub last commit](https://img.shields.io/github/last-commit/makerdao/mips)](https://github.com/makerdao/mips) - Maker Improvement Proposals.
 - [SNIPs ![GitHub Repo Stars](https://img.shields.io/github/stars/starknet-io/SNIPs) ![GitHub last commit](https://img.shields.io/github/last-commit/starknet-io/SNIPs)](https://github.com/starknet-io/SNIPs) - Starknet Improvement Proposals.
 - [Nervos Network RFCs ![GitHub Repo Stars](https://img.shields.io/github/stars/nervosnetwork/rfcs) ![GitHub last commit](https://img.shields.io/github/last-commit/nervosnetwork/rfcs)](https://github.com/nervosnetwork/rfcs) - Proposals, standards and documentations related to Nervos Network.
