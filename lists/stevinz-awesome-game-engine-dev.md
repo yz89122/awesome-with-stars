@@ -201,7 +201,7 @@ _Info on topics necessary for designing and developing game engines._
     - 🌎 [WebGPU Demos](https://webkit.org/demos/webgpu/) - Collection of simple WebGPU examples by _Apple_.
 - Pipeline: GPGPU
     - 🌎 [CUDA](https://developer.nvidia.com/cuda-zone) - Developed by _NVIDIA_ for parallel computing and programming.
-    - ���� [DirectCompute](https://en.wikipedia.org/wiki/DirectCompute) - Developed by _Microsoft_ for using compute shaders with DirectX 10 & 11.
+    - 📚 [DirectCompute](https://en.wikipedia.org/wiki/DirectCompute) - Developed by _Microsoft_ for using compute shaders with DirectX 10 & 11.
     - 🌎 [OpenCL](https://www.khronos.org/opencl/) - For writing programs that execute across CPUs, GPUs, and other processors.
 - Platform: XNA
     - 📚 [RB Whitaker's Wiki](http://rbwhitaker.wikidot.com/) - Tutorials on C#, MonoGame, XNA, and more.
@@ -1196,7 +1196,7 @@ _Exploring specialty game engine / game development topics and features._
 - 📚 [Scriptorium ![GitHub Repo Stars](https://img.shields.io/github/stars/r-lyeh-archived/scriptorium) ![GitHub last commit](https://img.shields.io/github/last-commit/r-lyeh-archived/scriptorium)](https://github.com/r-lyeh-archived/scriptorium) - Game scripting languages benchmarked.
 
 ### Shaders
-- 📚 [3D Game Shaders For Beginners](https://lettier.github.io/3d-game-shaders-for-beginners/index.html) ���� - Shaders to improve your games. [[Source ![GitHub Repo Stars](https://img.shields.io/github/stars/lettier/3d-game-shaders-for-beginners) ![GitHub last commit](https://img.shields.io/github/last-commit/lettier/3d-game-shaders-for-beginners)](https://github.com/lettier/3d-game-shaders-for-beginners)]
+- 📚 [3D Game Shaders For Beginners](https://lettier.github.io/3d-game-shaders-for-beginners/index.html) 🔥 - Shaders to improve your games. [[Source ![GitHub Repo Stars](https://img.shields.io/github/stars/lettier/3d-game-shaders-for-beginners) ![GitHub last commit](https://img.shields.io/github/last-commit/lettier/3d-game-shaders-for-beginners)](https://github.com/lettier/3d-game-shaders-for-beginners)]
 - 📚 [Book of Shaders](https://thebookofshaders.com) 🔥 - Step-by-step guide through [Fragment Shaders](https://www.khronos.org/opengl/wiki/Fragment_Shader). [[Source ![GitHub Repo Stars](https://img.shields.io/github/stars/patriciogonzalezvivo/thebookofshaders) ![GitHub last commit](https://img.shields.io/github/last-commit/patriciogonzalezvivo/thebookofshaders)](https://github.com/patriciogonzalezvivo/thebookofshaders)]
 - 🎉 [CrossShader ![GitHub Repo Stars](https://img.shields.io/github/stars/alaingalvan/CrossShader) ![GitHub last commit](https://img.shields.io/github/last-commit/alaingalvan/CrossShader)](https://github.com/alaingalvan/CrossShader) - Cross-compiling shaders between GLSL, HLSL, Metal, and more. [[Online Tool](https://alain.xyz/libraries/crossshader)]
 - 🌎 [Geeks3D Shader Library](https://www.geeks3d.com/shader-library/) - Postprocessing, lighting, utlities and many more.
