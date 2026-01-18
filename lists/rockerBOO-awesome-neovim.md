@@ -1176,6 +1176,7 @@ then it is not supported:
 - [chrisgve/databox.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/chrisgve/databox.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/chrisgve/databox.nvim)](https://github.com/chrisgve/databox.nvim) - Encrypted storage for Lua tables using [age ![GitHub Repo Stars](https://img.shields.io/github/stars/FiloSottile/age) ![GitHub last commit](https://img.shields.io/github/last-commit/FiloSottile/age)](https://github.com/FiloSottile/age) or compatible encryption tools for cryptographic safety.
 - [BirdeeHub/lze ![GitHub Repo Stars](https://img.shields.io/github/stars/BirdeeHub/lze) ![GitHub last commit](https://img.shields.io/github/last-commit/BirdeeHub/lze)](https://github.com/BirdeeHub/lze) - A lazy-loading library for Neovim plugins.
 - [lumen-oss/lz.n ![GitHub Repo Stars](https://img.shields.io/github/stars/lumen-oss/lz.n) ![GitHub last commit](https://img.shields.io/github/last-commit/lumen-oss/lz.n)](https://github.com/lumen-oss/lz.n) - A simple lazy loading library for Neovim plugins.
+- [jrop/morph.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/jrop/morph.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/jrop/morph.nvim)](https://github.com/jrop/morph.nvim) - A React-like renderer for building interactive buffers/TUIs.
 <!--lint disable double-link -->
 [**⬆ back to top**](#contents)
 <!--lint enable double-link -->
