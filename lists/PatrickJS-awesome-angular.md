@@ -112,6 +112,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
   * [Mixed Utilities](#mixed-utilities)
   * [Modals](#modals)
   * [Notifications](#notifications)
+  * [Onboarding and Product Tours](#onboarding-and-product-tours)
   * [Pipes](#pipes)
   * [Printing](#printing)
   * [QR Codes](#qr-codes)
@@ -125,7 +126,6 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
   * [UI Libraries built on Tailwind CSS](#ui-libraries-built-on-tailwind-css)
   * [UI Library and Framework Ionic](#ui-library-and-framework-ionic)
   * [UI Primitives](#ui-primitives)
-  * [UX Components](#ux-components)
   * [Viewers](#viewers)
   * [Visual Effects](#visual-effects)
 * [Underlying Technologies](#underlying-technologies)
@@ -999,6 +999,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [usm ![GitHub Repo Stars](https://img.shields.io/github/stars/unadlib/usm) ![GitHub last commit](https://img.shields.io/github/last-commit/unadlib/usm)](https://github.com/unadlib/usm) - A modular state management library compatible with Angular.
 * [ngx-mxstore ![GitHub Repo Stars](https://img.shields.io/github/stars/MaxxtonGroup/ngx-mxstore) ![GitHub last commit](https://img.shields.io/github/last-commit/MaxxtonGroup/ngx-mxstore)](https://github.com/MaxxtonGroup/ngx-mxstore) - Simplifies state management by moving logic into pure, testable methods and connecting components to the store via decorators.
 * [ngx-stashr ![GitHub Repo Stars](https://img.shields.io/github/stars/nulzo/ngx-stashr) ![GitHub last commit](https://img.shields.io/github/last-commit/nulzo/ngx-stashr)](https://github.com/nulzo/ngx-stashr) - A lightweight, signal-driven state management library for Angular 21, inspired by React’s [Zustand ![GitHub Repo Stars](https://img.shields.io/github/stars/pmndrs/zustand) ![GitHub last commit](https://img.shields.io/github/last-commit/pmndrs/zustand)](https://github.com/pmndrs/zustand).
+* [ngx-event-bus-lib ![GitHub Repo Stars](https://img.shields.io/github/stars/orelnatan/ngx-event-bus-lib) ![GitHub last commit](https://img.shields.io/github/last-commit/orelnatan/ngx-event-bus-lib)](https://github.com/orelnatan/ngx-event-bus-lib) - Broadcast strongly-typed events anywhere in your app and react to them declaratively — without services, DI, providers, RxJS, signals, or tight coupling.
 
 ## Testing
 
@@ -1813,6 +1814,17 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [toastify ![GitHub Repo Stars](https://img.shields.io/github/stars/andreasnicolaou/toastify) ![GitHub last commit](https://img.shields.io/github/last-commit/andreasnicolaou/toastify)](https://github.com/andreasnicolaou/toastify) - Lightweight and customizable toast notifications for web applications.
 * [web-notifier ![GitHub Repo Stars](https://img.shields.io/github/stars/andreasnicolaou/web-notifier) ![GitHub last commit](https://img.shields.io/github/last-commit/andreasnicolaou/web-notifier)](https://github.com/andreasnicolaou/web-notifier) - Lightweight, flexible web notification library with simple RxJS‑based API for browser notifications.
 
+### Onboarding and Product Tours
+
+* [angular-shepherd ![GitHub Repo Stars](https://img.shields.io/github/stars/shepherd-pro/angular-shepherd) ![GitHub last commit](https://img.shields.io/github/last-commit/shepherd-pro/angular-shepherd)](https://github.com/shepherd-pro/angular-shepherd) - Angular Service wrapping the site tour library [Shepherd ![GitHub Repo Stars](https://img.shields.io/github/stars/shepherd-pro/shepherd) ![GitHub last commit](https://img.shields.io/github/last-commit/shepherd-pro/shepherd)](https://github.com/shepherd-pro/shepherd).
+* [skyux ![GitHub Repo Stars](https://img.shields.io/github/stars/blackbaud/skyux) ![GitHub last commit](https://img.shields.io/github/last-commit/blackbaud/skyux)](https://github.com/blackbaud/skyux) - SKY UX components for Angular.
+* [ngx-ui-tour ![GitHub Repo Stars](https://img.shields.io/github/stars/hakimio/ngx-ui-tour) ![GitHub last commit](https://img.shields.io/github/last-commit/hakimio/ngx-ui-tour)](https://github.com/hakimio/ngx-ui-tour) - A UI tour library inspired by [angular-ui-tour ![GitHub Repo Stars](https://img.shields.io/github/stars/benmarch/angular-ui-tour) ![GitHub last commit](https://img.shields.io/github/last-commit/benmarch/angular-ui-tour)](https://github.com/benmarch/angular-ui-tour).
+* [ngx-tour-wizard ![GitHub Repo Stars](https://img.shields.io/github/stars/tonysamperi/ngx-tour-wizard) ![GitHub last commit](https://img.shields.io/github/last-commit/tonysamperi/ngx-tour-wizard)](https://github.com/tonysamperi/ngx-tour-wizard) - Product Tour Wizard.
+* [bdc-walkthrough ![GitHub Repo Stars](https://img.shields.io/github/stars/Broadcom/bdc-walkthrough) ![GitHub last commit](https://img.shields.io/github/last-commit/Broadcom/bdc-walkthrough)](https://github.com/Broadcom/bdc-walkthrough) - An Angular Material library for displaying walk-through pop-ups and dialogs using a declarative way.
+* [ngx-onboarding ![GitHub Repo Stars](https://img.shields.io/github/stars/rosen-group/ngx-onboarding) ![GitHub last commit](https://img.shields.io/github/last-commit/rosen-group/ngx-onboarding)](https://github.com/rosen-group/ngx-onboarding) - Onboarding library for seamless Angular tutorials, helping users quickly learn and navigate your app.
+* [ngx-web-tour ![GitHub Repo Stars](https://img.shields.io/github/stars/abbas-mgz/ngx-web-tour) ![GitHub last commit](https://img.shields.io/github/last-commit/abbas-mgz/ngx-web-tour)](https://github.com/abbas-mgz/ngx-web-tour) - A customizable product tour library for Angular applications that supports user onboarding with animations and professional UI.
+* [ngxsmk-help-tour ![GitHub Repo Stars](https://img.shields.io/github/stars/toozuuu/ngxsmk-help-tour) ![GitHub last commit](https://img.shields.io/github/last-commit/toozuuu/ngxsmk-help-tour)](https://github.com/toozuuu/ngxsmk-help-tour) - Angular standalone library for spotlight focus and guided product tours with keyboard navigation, auto-advance, theming, and a11y.
+
 ### Pipes
 
 * [ng-generic-pipe ![GitHub Repo Stars](https://img.shields.io/github/stars/nigrosimone/ng-generic-pipe) ![GitHub last commit](https://img.shields.io/github/last-commit/nigrosimone/ng-generic-pipe)](https://github.com/nigrosimone/ng-generic-pipe) - Generic pipe for Angular application.
@@ -2060,17 +2072,6 @@ for the creation of web applications developed with Angular.
 * [vacui-ui ![GitHub Repo Stars](https://img.shields.io/github/stars/DanielAlcaraz/vacui-ui) ![GitHub last commit](https://img.shields.io/github/last-commit/DanielAlcaraz/vacui-ui)](https://github.com/DanielAlcaraz/vacui-ui) - A headless Angular library of utility-first, primitives, low-level directives as foundational elements.
 * [ngx-headless ![GitHub Repo Stars](https://img.shields.io/github/stars/fawadtariq/ngx-headless) ![GitHub last commit](https://img.shields.io/github/last-commit/fawadtariq/ngx-headless)](https://github.com/fawadtariq/ngx-headless) - A collection of standalone, accessible Angular primitives inspired by [Headless UI](https://headlessui.com) & [FormKit](https://formkit.com).
 
-### UX Components
-
-* [angular-shepherd ![GitHub Repo Stars](https://img.shields.io/github/stars/shepherd-pro/angular-shepherd) ![GitHub last commit](https://img.shields.io/github/last-commit/shepherd-pro/angular-shepherd)](https://github.com/shepherd-pro/angular-shepherd) - Angular Service wrapping the site tour library [Shepherd ![GitHub Repo Stars](https://img.shields.io/github/stars/shepherd-pro/shepherd) ![GitHub last commit](https://img.shields.io/github/last-commit/shepherd-pro/shepherd)](https://github.com/shepherd-pro/shepherd).
-* [skyux ![GitHub Repo Stars](https://img.shields.io/github/stars/blackbaud/skyux) ![GitHub last commit](https://img.shields.io/github/last-commit/blackbaud/skyux)](https://github.com/blackbaud/skyux) - SKY UX components for Angular.
-* [ngx-ui-tour ![GitHub Repo Stars](https://img.shields.io/github/stars/hakimio/ngx-ui-tour) ![GitHub last commit](https://img.shields.io/github/last-commit/hakimio/ngx-ui-tour)](https://github.com/hakimio/ngx-ui-tour) - A UI tour library inspired by [angular-ui-tour ![GitHub Repo Stars](https://img.shields.io/github/stars/benmarch/angular-ui-tour) ![GitHub last commit](https://img.shields.io/github/last-commit/benmarch/angular-ui-tour)](https://github.com/benmarch/angular-ui-tour).
-* [ngx-tour-wizard ![GitHub Repo Stars](https://img.shields.io/github/stars/tonysamperi/ngx-tour-wizard) ![GitHub last commit](https://img.shields.io/github/last-commit/tonysamperi/ngx-tour-wizard)](https://github.com/tonysamperi/ngx-tour-wizard) - Product Tour Wizard.
-* [bdc-walkthrough ![GitHub Repo Stars](https://img.shields.io/github/stars/Broadcom/bdc-walkthrough) ![GitHub last commit](https://img.shields.io/github/last-commit/Broadcom/bdc-walkthrough)](https://github.com/Broadcom/bdc-walkthrough) - An Angular Material library for displaying walk-through pop-ups and dialogs using a declarative way.
-* [ngx-onboarding ![GitHub Repo Stars](https://img.shields.io/github/stars/rosen-group/ngx-onboarding) ![GitHub last commit](https://img.shields.io/github/last-commit/rosen-group/ngx-onboarding)](https://github.com/rosen-group/ngx-onboarding) - Onboarding library for seamless Angular tutorials, helping users quickly learn and navigate your app.
-* [ngx-web-tour ![GitHub Repo Stars](https://img.shields.io/github/stars/abbas-mgz/ngx-web-tour) ![GitHub last commit](https://img.shields.io/github/last-commit/abbas-mgz/ngx-web-tour)](https://github.com/abbas-mgz/ngx-web-tour) - A customizable product tour library for Angular applications that supports user onboarding with animations and professional UI.
-* [ngxsmk-help-tour ![GitHub Repo Stars](https://img.shields.io/github/stars/toozuuu/ngxsmk-help-tour) ![GitHub last commit](https://img.shields.io/github/last-commit/toozuuu/ngxsmk-help-tour)](https://github.com/toozuuu/ngxsmk-help-tour) - Angular 17+ standalone library for spotlight focus and guided product tours with keyboard navigation, auto-advance, theming, and a11y.
-
 ### Viewers
 
 * [file-viewer ![GitHub Repo Stars](https://img.shields.io/github/stars/ameyb88/file-viewer) ![GitHub last commit](https://img.shields.io/github/last-commit/ameyb88/file-viewer)](https://github.com/ameyb88/file-viewer) - A powerful, universal file previewer library for Angular applications with support for PDF, images, documents, spreadsheets, and more.
@@ -2255,6 +2256,7 @@ for the creation of web applications developed with Angular.
 * [GTPL ![GitHub Repo Stars](https://img.shields.io/github/stars/garag-lib/GTPL) ![GitHub last commit](https://img.shields.io/github/last-commit/garag-lib/GTPL)](https://github.com/garag-lib/GTPL) - TypeScript library for reactive templates using Direct DOM and Proxy, inspired by Vue, Angular AOT, and JSX, in a compact 9KB package.
 * [illuma ![GitHub Repo Stars](https://img.shields.io/github/stars/git-zodyac/illuma) ![GitHub last commit](https://img.shields.io/github/last-commit/git-zodyac/illuma)](https://github.com/git-zodyac/illuma) - Angular-style dependency injection for TypeScript.
 * [indulgent ![GitHub Repo Stars](https://img.shields.io/github/stars/frodi-karlsson/indulgent) ![GitHub last commit](https://img.shields.io/github/last-commit/frodi-karlsson/indulgent)](https://github.com/frodi-karlsson/indulgent) - A lightweight set of TypeScript utilities designed for web development, free of external dependencies and optimized for solid runtime performance.
+* [injection-js ![GitHub Repo Stars](https://img.shields.io/github/stars/mgechev/injection-js) ![GitHub last commit](https://img.shields.io/github/last-commit/mgechev/injection-js)](https://github.com/mgechev/injection-js) - A fast, well‑tested JavaScript/TypeScript dependency injection library extracted from Angular’s `ReflectiveInjector`.
 * [ioc ![GitHub Repo Stars](https://img.shields.io/github/stars/Isqanderm/ioc) ![GitHub last commit](https://img.shields.io/github/last-commit/Isqanderm/ioc)](https://github.com/Isqanderm/ioc) - A powerful and flexible Inversion of Control (IoC) container for TypeScript applications. Inspired by Angular and NestJS.
 * [Lua-Generate ![GitHub Repo Stars](https://img.shields.io/github/stars/Gabriel-c0Nsp/Lua-Generate) ![GitHub last commit](https://img.shields.io/github/last-commit/Gabriel-c0Nsp/Lua-Generate)](https://github.com/Gabriel-c0Nsp/Lua-Generate) - A CLI tool to generate boilerplate code inspired by ng tool from Angular.
 * [named-slots ![GitHub Repo Stars](https://img.shields.io/github/stars/maybebot/named-slots) ![GitHub last commit](https://img.shields.io/github/last-commit/maybebot/named-slots)](https://github.com/maybebot/named-slots) - Declarative "holes" for React components, inspired by slots in Vue, Svelte, Angular, and WebComponents.
