@@ -410,7 +410,7 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 | Course Name | Course Provider | Level | Hour(s) | Reward |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
 | <a href="https://learn.unity.com/pathway/unity-essentials" target="_blank" rel="noopener noreferrer">Unity Essentials</a> | Unity | Beginner | 336 | <a href="https://www.credly.com/org/unity/badge/unity-essentials-pathway" target="_blank" rel="noopener noreferrer">🏅</a> |
-| <a href="https://learn.unity.com/pathway/junior-programmer" target="_blank" rel="noopener noreferrer">Junior Programmer</a> | Unity | Beginner | 2000 | <a href="https://www.credly.com/org/unity/badge/unity-junior-programmer" target="_blank" rel="noopener noreferrer">🏅</a>
+| <a href="https://learn.unity.com/pathway/junior-programmer" target="_blank" rel="noopener noreferrer">Junior Programmer</a> | Unity | Beginner | 2000 | <a href="https://www.credly.com/org/unity/badge/unity-junior-programmer" target="_blank" rel="noopener noreferrer">���</a>
 | <a href="https://learn.unity.com/pathway/creative-core" target="_blank" rel="noopener noreferrer">Creative Core</a> | Unity | Beginner | 1680 | <a href="https://www.credly.com/org/unity/badge/unity-creative-core" target="_blank" rel="noopener noreferrer">🏅</a>
 | <a href="https://learn.unity.com/pathway/vr-development" target="_blank" rel="noopener noreferrer">VR Development</a> | Unity | Beginner | 1000 | <a href="https://www.credly.com/org/unity/badge/unity-vr-development" target="_blank" rel="noopener noreferrer">🏅</a>
 | <a href="https://learn.unity.com/pathway/mobile-ar-development" target="_blank" rel="noopener noreferrer">Mobile AR Development</a> | Unity | Beginner | 1344 | <a href="https://www.credly.com/org/unity/badge/unity-mobile-ar-development" target="_blank" rel="noopener noreferrer">🏅</a>
@@ -471,7 +471,7 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 
 | Course Name | Course Provider | Level | Hour(s) | Reward |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
-| <a href="https://www.netacad.com/courses/os-it/ndg-linux-unhatched" target="_blank" rel="noopener noreferrer">NDG Linux Unhatched</a>| Cisco Networking Academy |Beginner| 8 |    🏆 |
+| <a href="https://www.netacad.com/courses/os-it/ndg-linux-unhatched" target="_blank" rel="noopener noreferrer">NDG Linux Unhatched</a>| Cisco Networking Academy |Beginner| 8 |    ��� |
 | <a href="https://www.netacad.com/courses/os-it/ndg-linux-essentials" target="_blank" rel="noopener noreferrer">NDG Linux Essentials</a> | Cisco Networking Academy |Intermediate| 70 |🏆|
 | <a href="https://learn.saylor.org/course/view.php?id=94" target="_blank" rel="noopener noreferrer">CS401: Operating Systems</a> | Saylor Academy |Professional|120 | 🏆|
 
@@ -555,7 +555,7 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 | <a href="https://www.netacad.com/courses/cybersecurity/cybersecurity-essentials" target="_blank" rel="noopener noreferrer">Cybersecurity Essentials</a>| Cisco Networking Academy | Intermediate | 30 | <a href="https://www.youracclaim.com/org/cisco/badge/cybersecurity-essentials" target="_blank" rel="noopener noreferrer">🏅</a>|
 | <a href="https://www.netacad.com/courses/ethical-hacker" target="_blank" rel="noopener noreferrer">Ethical Hacker</a>| Cisco Networking Academy | Intermediate | 70 | <a href="https://www.netacad.com/courses/ethical-hacker" target="_blank" rel="noopener noreferrer">🏆</a>|
 | <a href="https://www.netacad.com/courses/packet-tracer" target="_blank" rel="noopener noreferrer">Intro to Packet Tracer</a> | Cisco Networking Academy | Beginner | 10  | <a href="https://www.youracclaim.com/org/cisco/badge/introduction-to-packet-tracer" target="_blank" rel="noopener noreferrer">🏅</a> |
-| <a href="https://skills.yourlearning.ibm.com/activity/ILB-DNRPWDGQGMMY7GGD" target="_blank" rel="noopener noreferrer">Cybersecurity Fundamentals</a> | IBM / SkillsBuild | Beginner | 10 | <a href="https://www.youracclaim.com/org/ibm/badge/cybersecurity-fundamentals" target="_blank" rel="noopener noreferrer">���</a> |
+| <a href="https://skills.yourlearning.ibm.com/activity/ILB-DNRPWDGQGMMY7GGD" target="_blank" rel="noopener noreferrer">Cybersecurity Fundamentals</a> | IBM / SkillsBuild | Beginner | 10 | <a href="https://www.youracclaim.com/org/ibm/badge/cybersecurity-fundamentals" target="_blank" rel="noopener noreferrer">🏅</a> |
 | <a href="https://www.freecodecamp.org/learn/information-security/" target="_blank" rel="noopener noreferrer">Information Security Certification</a> | FreeCodeCamp |Professional|300 | 🏆|
 | <a href="https://tryhackme.com/path/outline/jrpenetrationtester" target="_blank" rel="noopener noreferrer">JR Penetration Tester</a> | TryHackMe |Intermediate| 64 | 🏆|
 | <a href="https://tryhackme.com/path/outline/blueteam" target="_blank" rel="noopener noreferrer">Cyber Defense</a> | TryHackMe | Intermediate | 48 | 🏆 |
