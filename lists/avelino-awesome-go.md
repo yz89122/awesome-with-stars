@@ -2107,6 +2107,7 @@ _Libraries for making HTTP requests._
 - [resty ![GitHub Repo Stars](https://img.shields.io/github/stars/go-resty/resty) ![GitHub last commit](https://img.shields.io/github/last-commit/go-resty/resty)](https://github.com/go-resty/resty) - Simple HTTP and REST client for Go inspired by Ruby rest-client.
 - [rq ![GitHub Repo Stars](https://img.shields.io/github/stars/ddo/rq) ![GitHub last commit](https://img.shields.io/github/last-commit/ddo/rq)](https://github.com/ddo/rq) - A nicer interface for golang stdlib HTTP client.
 - [sling ![GitHub Repo Stars](https://img.shields.io/github/stars/dghubble/sling) ![GitHub last commit](https://img.shields.io/github/last-commit/dghubble/sling)](https://github.com/dghubble/sling) - Sling is a Go HTTP client library for creating and sending API requests.
+- [surf ![GitHub Repo Stars](https://img.shields.io/github/stars/enetx/surf) ![GitHub last commit](https://img.shields.io/github/last-commit/enetx/surf)](https://github.com/enetx/surf) - Advanced HTTP client with HTTP/1.1, HTTP/2, HTTP/3 (QUIC), SOCKS5 proxy support and browser-grade TLS fingerprinting.
 - [tls-client ![GitHub Repo Stars](https://img.shields.io/github/stars/bogdanfinn/tls-client) ![GitHub last commit](https://img.shields.io/github/last-commit/bogdanfinn/tls-client)](https://github.com/bogdanfinn/tls-client) - net/http.Client like HTTP Client with options to select specific client TLS Fingerprints to use for requests.
 
 **[⬆ back to top](#contents)**
