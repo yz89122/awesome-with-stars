@@ -169,6 +169,7 @@ Price and Volume process with Technology Analysis Indices
 #### Crypto Currencies
 
 - [CryptoInscriber ![GitHub Repo Stars](https://img.shields.io/github/stars/Optixal/CryptoInscriber) ![GitHub last commit](https://img.shields.io/github/last-commit/Optixal/CryptoInscriber)](https://github.com/Optixal/CryptoInscriber) - A live crypto currency historical trade data blotter. Download live historical trade data from any crypto exchange.
+- [CoinPulse ![GitHub Repo Stars](https://img.shields.io/github/stars/soutone/coinpulse-python) ![GitHub last commit](https://img.shields.io/github/last-commit/soutone/coinpulse-python)](https://github.com/soutone/coinpulse-python) - Python SDK for cryptocurrency portfolio tracking with real-time prices, P/L calculations, backtesting, and price alerts. Free tier: 25 req/hr.
 - [Gekko-Datasets ![GitHub Repo Stars](https://img.shields.io/github/stars/xFFFFF/Gekko-Datasets) ![GitHub last commit](https://img.shields.io/github/last-commit/xFFFFF/Gekko-Datasets)](https://github.com/xFFFFF/Gekko-Datasets) - Gekko trading bot dataset dumps. Download and use history files in SQLite format.
 
 #### Alternative Data
@@ -194,7 +195,7 @@ For Back Test & Live trading
 
 **System**
 
-- 🌟��🌟 [OpenBB ![GitHub Repo Stars](https://img.shields.io/github/stars/OpenBB-finance/OpenBB) ![GitHub last commit](https://img.shields.io/github/last-commit/OpenBB-finance/OpenBB)](https://github.com/OpenBB-finance/OpenBB) - AI-powered opensource research and analytics workspace.
+- 🌟🌟🌟 [OpenBB ![GitHub Repo Stars](https://img.shields.io/github/stars/OpenBB-finance/OpenBB) ![GitHub last commit](https://img.shields.io/github/last-commit/OpenBB-finance/OpenBB)](https://github.com/OpenBB-finance/OpenBB) - AI-powered opensource research and analytics workspace.
 - 🌟🌟 [zipline ![GitHub Repo Stars](https://img.shields.io/github/stars/quantopian/zipline) ![GitHub last commit](https://img.shields.io/github/last-commit/quantopian/zipline)](https://github.com/quantopian/zipline) - A python algorithmic trading library.
 - 🌟 [TradingView](http://tradingview.com/) - Get real-time information and market insights.
 - [rqalpha ![GitHub Repo Stars](https://img.shields.io/github/stars/ricequant/rqalpha) ![GitHub last commit](https://img.shields.io/github/last-commit/ricequant/rqalpha)](https://github.com/ricequant/rqalpha) - A extendable, replaceable Python algorithmic backtest & trading framework.
