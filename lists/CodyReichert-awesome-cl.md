@@ -463,7 +463,7 @@ To third parties
 Tools
 -----
 
-* ��� [pgloader ![GitHub Repo Stars](https://img.shields.io/github/stars/dimitri/pgloader) ![GitHub last commit](https://img.shields.io/github/last-commit/dimitri/pgloader)](https://github.com/dimitri/pgloader) - a data loading tool for PostgreSQL. [PostgreSQL Licence][205].
+* ⭐ [pgloader ![GitHub Repo Stars](https://img.shields.io/github/stars/dimitri/pgloader) ![GitHub last commit](https://img.shields.io/github/last-commit/dimitri/pgloader)](https://github.com/dimitri/pgloader) - a data loading tool for PostgreSQL. [PostgreSQL Licence][205].
   * obligatory blog post: [Why is pgloader so much faster?](https://tapoueh.org/blog/2014/05/why-is-pgloader-so-much-faster/) (hint: it was re-written from Python to Common Lisp)
 
 Data Formats
