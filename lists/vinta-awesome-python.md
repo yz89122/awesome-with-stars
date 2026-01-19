@@ -534,6 +534,7 @@ _Libraries for sending and parsing email._
 _Libraries for Python version and virtual environment management._
 
 - [pyenv ![GitHub Repo Stars](https://img.shields.io/github/stars/pyenv/pyenv) ![GitHub last commit](https://img.shields.io/github/last-commit/pyenv/pyenv)](https://github.com/pyenv/pyenv) - Simple Python version management.
+- [pyenv-win ![GitHub Repo Stars](https://img.shields.io/github/stars/pyenv-win/pyenv-win) ![GitHub last commit](https://img.shields.io/github/last-commit/pyenv-win/pyenv-win)](https://github.com/pyenv-win/pyenv-win) - Pyenv for Windows, Simple Python version management.
 - [virtualenv ![GitHub Repo Stars](https://img.shields.io/github/stars/pypa/virtualenv) ![GitHub last commit](https://img.shields.io/github/last-commit/pypa/virtualenv)](https://github.com/pypa/virtualenv) - A tool to create isolated Python environments.
 
 ## File Manipulation
