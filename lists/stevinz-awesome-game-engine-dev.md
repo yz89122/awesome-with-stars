@@ -303,7 +303,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Vertext ![GitHub Repo Stars](https://img.shields.io/github/stars/kevinmkchin/vertext) ![GitHub last commit](https://img.shields.io/github/last-commit/kevinmkchin/vertext)](https://github.com/kevinmkchin/vertext) - Generates vertices for rendering text, requires stb_truetype.
 - C: Game Engine w/Editor
     - ⭐ [AVA ![GitHub Repo Stars](https://img.shields.io/github/stars/r-lyeh/AVA) ![GitHub last commit](https://img.shields.io/github/last-commit/r-lyeh/AVA)](https://github.com/r-lyeh/AVA) - Tiny, minimalistic 3D game engine.
-    - 🎉 [TIC-80 ![GitHub Repo Stars](https://img.shields.io/github/stars/nesbox/TIC-80) ![GitHub last commit](https://img.shields.io/github/last-commit/nesbox/TIC-80)](https://github.com/nesbox/TIC-80) - Virtual computer for making & sharing tiny games. [[Website](https://tic80.com/)]
+    - ���� [TIC-80 ![GitHub Repo Stars](https://img.shields.io/github/stars/nesbox/TIC-80) ![GitHub last commit](https://img.shields.io/github/last-commit/nesbox/TIC-80)](https://github.com/nesbox/TIC-80) - Virtual computer for making & sharing tiny games. [[Website](https://tic80.com/)]
 - C: Game Framework
     - 🎉 [CGL ![GitHub Repo Stars](https://img.shields.io/github/stars/Jaysmito101/cgl) ![GitHub last commit](https://img.shields.io/github/last-commit/Jaysmito101/cgl)](https://github.com/Jaysmito101/cgl) - Single-header file, lots of graphics & utility functions.
     - 🎉 [DOME ![GitHub Repo Stars](https://img.shields.io/github/stars/domeengine/dome) ![GitHub last commit](https://img.shields.io/github/last-commit/domeengine/dome)](https://github.com/domeengine/dome) - Melds SDL2 and the Wren scripting language. [[Website](https://domeengine.com/)]
