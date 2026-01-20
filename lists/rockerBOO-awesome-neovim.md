@@ -1467,6 +1467,7 @@ then it is not supported:
 - [kevinhwang91/nvim-ufo ![GitHub Repo Stars](https://img.shields.io/github/stars/kevinhwang91/nvim-ufo) ![GitHub last commit](https://img.shields.io/github/last-commit/kevinhwang91/nvim-ufo)](https://github.com/kevinhwang91/nvim-ufo) - Ultra fold with modern looking and performance boosting.
 - [chrisgrieser/nvim-origami ![GitHub Repo Stars](https://img.shields.io/github/stars/chrisgrieser/nvim-origami) ![GitHub last commit](https://img.shields.io/github/last-commit/chrisgrieser/nvim-origami)](https://github.com/chrisgrieser/nvim-origami) - Fold with relentless elegance.
 - [malbertzard/inline-fold.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/malbertzard/inline-fold.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/malbertzard/inline-fold.nvim)](https://github.com/malbertzard/inline-fold.nvim) - Hide certain elements inline like long CSS classes or `href` content.
+- [netmute/foldsigns.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/netmute/foldsigns.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/netmute/foldsigns.nvim)](https://github.com/netmute/foldsigns.nvim) - Adds fold markers to sign column to make folds more visible while editing.
 <!--lint disable double-link -->
 [**⬆ back to top**](#contents)
 <!--lint enable double-link -->
