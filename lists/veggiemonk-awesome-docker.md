@@ -548,6 +548,7 @@ Examples by:
 
 ### Linter
 
+-   [Dockadvisor ![GitHub Repo Stars](https://img.shields.io/github/stars/deckrun/dockadvisor) ![GitHub last commit](https://img.shields.io/github/last-commit/deckrun/dockadvisor)](https://github.com/deckrun/dockadvisor) - Lightweight Dockerfile linter with 60+ rules, quality scoring, and security checks by [@deckrun](https://github.com/deckrun)
 -   [docker-image-size-limit ![GitHub Repo Stars](https://img.shields.io/github/stars/wemake-services/docker-image-size-limit) ![GitHub last commit](https://img.shields.io/github/last-commit/wemake-services/docker-image-size-limit)](https://github.com/wemake-services/docker-image-size-limit) - A tool to keep an eye on your docker images size.
 -   [Dockerfile Linter action ![GitHub Repo Stars](https://img.shields.io/github/stars/buddy-works/dockerfile-linter) ![GitHub last commit](https://img.shields.io/github/last-commit/buddy-works/dockerfile-linter)](https://github.com/buddy-works/dockerfile-linter) - The linter lets you verify Dockerfile syntax to make sure it follows the best practices for building efficient Docker images.
 -   [dockfmt ![GitHub Repo Stars](https://img.shields.io/github/stars/jessfraz/dockfmt) ![GitHub last commit](https://img.shields.io/github/last-commit/jessfraz/dockfmt)](https://github.com/jessfraz/dockfmt) :construction: - Dockerfile formatter and parser by [@jessfraz][jessfraz]
