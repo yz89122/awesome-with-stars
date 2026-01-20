@@ -104,7 +104,7 @@ The curated list of resources for research and learning about stock trading and 
 - [MarketStack](https://marketstack.com) - MarketStack offers APIs for realtime and historical stock data, forex, and cryptocurrency data.
 - [Morningstar](https://developer.morningstar.com) - Provides data, research, and reports.
 - [Nasdaq Data Link](https://data.nasdaq.com) - Nasdaq Data Link offers a premier source for financial, economic and alternative datasets.
-- [Polygon](https://polygon.io/) - Polygon offers APIs for realtime and historical stock data, forex, and cryptocurrency data.
+- [Massive](https://massive.com/) - Massive offers APIs for realtime and historical stock data, forex, and cryptocurrency data.
 - [Refinitiv Eikon Data](https://www.refinitiv.com/en/products/eikon-trading-software/eikon-app-api-innovation/eikon-data-api) - The Eikon Data API allows applications to access data directly from Eikon or Refinitv Workspace.
 
 ## Knowledge
@@ -271,11 +271,20 @@ Cassidy chronicles the rise and fall of the dot-com bubble with insight and flai
 
 ## Most Important Stock Exchanges
 
-- 🇺🇸 [New York Stock Exchange (NYSE)](https://www.nyse.com) - Largest stock exchange in the world by market capitalization, with over 2,800 listed companies.
-- 🇺🇸 [NASDAQ](https://www.nasdaq.com) - Second largest stock exchange in the world by market capitalization, known for listing technology companies and having a high trading volume.
-- 🇯🇵 [Tokyo Stock Exchange (TSE)](https://www.jpx.co.jp/english/) - Third largest stock exchange in the world by market capitalization, and the largest in Asia.
-- 🇨🇳 [Shanghai Stock Exchange (SSE)](https://www.sse.com.cn/) - Fourth largest stock exchange in the world by market capitalization, and the largest in mainland China.
+- 🇦🇺 [Australian Securities Exchange (ASX)](https://www.asx.com.au) - The largest stock exchange in Australia, known for its strong mining and resource sector.
+- 🇧🇷 [B3 (Bovespa)](https://www.b3.com.br) - The largest stock exchange in Latin America and one of the fastest-growing markets globally.
+- 🇮🇳 [Bombay Stock Exchange (BSE)](https://www.bseindia.com) - The oldest stock exchange in Asia, founded in 1875, and one of the largest in India.
+- 🇩🇪 [Frankfurt Stock Exchange (XETRA)](https://www.deutsche-boerse.com) - The largest stock exchange in Germany owned and operated by Deutsche Börse.
 - 🇭🇰 [Hong Kong Stock Exchange (HKEX)](https://www.hkex.com.hk/) - One of the largest stock exchanges in Asia, known for attracting international investors due to its strategic location and listing rules.
+- 🇰🇷 [Korea Exchange (KRX)](https://www.koreaexchange.org) - The sole securities exchange operator in South Korea, hosting the KOSPI index.
 - 🇬🇧 [London Stock Exchange (LSE)](https://www.londonstockexchange.com) - One of the oldest and most important stock exchanges in the world, with over 3,000 listed companies.
+- 🇺🇸 [NASDAQ](https://www.nasdaq.com) - Second largest stock exchange in the world by market capitalization, known for listing technology companies and having a high trading volume.
+- 🇮🇳 [National Stock Exchange of India (NSE)](https://www.nseindia.com) - The largest stock exchange in India by market capitalization and trading volume.
+- 🇺🇸 [New York Stock Exchange (NYSE)](https://www.nyse.com) - Largest stock exchange in the world by market capitalization, with over 2,800 listed companies.
+- 🇨🇳 [Shanghai Stock Exchange (SSE)](https://www.sse.com.cn/) - Fourth largest stock exchange in the world by market capitalization, and the largest in mainland China.
+- 🇨🇳 [Shenzhen Stock Exchange (SZSE)](https://www.szse.cn/) - One of the largest stock exchanges in China, known for its focus on technology and growth companies.
+- 🇸🇬 [Singapore Exchange (SGX)](https://www.sgx.com) - One of the leading Asian exchanges, known for its regulatory excellence and derivatives market.
+- 🇨🇭 [Swiss Stock Exchange (SIX)](https://www.six-group.com) - The principal stock exchange in Switzerland, known for its life sciences and financial services companies.
+- 🇯🇵 [Tokyo Stock Exchange (TSE)](https://www.jpx.co.jp/english/) - Third largest stock exchange in the world by market capitalization, and the largest in Asia.
+- 🇨🇦 [Toronto Stock Exchange (TSX)](https://www.tsx.com) - The largest stock exchange in Canada and a major global mining and energy hub.
 - 🇪🇺 [Euronext](https://www.euronext.com/en) - A pan-European stock exchange operating in several countries, including France, the Netherlands, Belgium, Portugal, and Ireland.
-- 🇩🇪 [Frankfurt Stock Exchange (XETRA)](https://www.deutsche-boerse.com) - The largest stock exchange in Germany owned and operated by Deutsche Börse. 
