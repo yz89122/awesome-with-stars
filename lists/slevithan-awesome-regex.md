@@ -421,4 +421,4 @@ Awesome Regex was created by [Steven Levithan](https://github.com/slevithan) and
 
 If you want to support this project, I'd love your help by contributing improvements, sharing it with others, or [sponsoring ![GitHub Repo Stars](https://img.shields.io/github/stars/sponsors/slevithan) ![GitHub last commit](https://img.shields.io/github/last-commit/sponsors/slevithan)](https://github.com/sponsors/slevithan) ongoing development.
 
-© 2024–present. CC BY 4.0.
+© 2024��present. CC BY 4.0.
