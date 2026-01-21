@@ -55,7 +55,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
   * [Code Analysis](#code-analysis)
   * [Debugging](#debugging)
   * [Documentation Tools](#documentation-tools)
-  * [Editor and IDE Extensions](#editor-and-ide-extensions)
+  * [IDE Extensions](#ide-extensions)
   * [Generators and Scaffolding](#generators-and-scaffolding)
   * [Internationalization](#internationalization)
   * [Linting](#linting)
@@ -76,7 +76,6 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [Testing](#testing)
   * [E2E](#e2e)
   * [Component](#component)
-  * [Guides](#guides)
   * [Helpers](#helpers)
 * [Site Templates](#site-templates)
   * [Free Templates](#free-templates)
@@ -94,7 +93,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
   * [Directives](#directives)
   * [DOM](#dom)
   * [Drag and Drop](#drag-and-drop)
-  * [Editor Components](#editor-components)
+  * [Editors](#editors)
   * [File Upload](#file-upload)
   * [Forms](#forms)
   * [Form Controls](#form-controls)
@@ -103,7 +102,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
   * [Icons](#icons)
   * [Images](#images)
   * [Keyboard Mouse](#keyboard-mouse)
-  * [Layout Components](#layout-components)
+  * [Layout](#layout)
   * [Loaders](#loaders)
   * [Loggers](#loggers)
   * [Maps](#maps)
@@ -140,7 +139,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 
 ## Angular
 
-> Angular is a development platform for building mobile and desktop web applications.
+> Angular is a web framework that empowers developers to build fast, reliable applications that users love.
 
 ### Official Resources
 
@@ -406,6 +405,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [Angular University Ebooks](https://angular-university.io/my-ebooks) - Available separately or included with a subscription.
 * [Angular Signals Masterclass](https://angularexperts.io/products/ebook-signals) - `Kevin Kreuzer`.
 * [Mastering Angular Signals: A Practical Guide to Modern Reactivity, Performance, and Migration](https://www.amazon.com/dp/B0FF9LSHJN/) - `Muhammad Ahsan Ayaz`.
+* [Testing Angular – A Guide to Robust Angular Applications](https://testing-angular.com) - A Guide to Robust Angular Applications. A free online book and e-book.
 * [Angular Book ![GitHub Repo Stars](https://img.shields.io/github/stars/DenysVuika/angular-book) ![GitHub last commit](https://img.shields.io/github/last-commit/DenysVuika/angular-book)](https://github.com/DenysVuika/angular-book) - `Denys Vuika` **FREE**.
 * [Modern Angular](https://www.angulararchitects.io/en/ebooks/modern-angular/?book) - `Manfred Steyer` **FREE**.
 * [Ultimate Guide to Angular Evolution](https://houseofangular.io/the-ultimate-guide-to-angular-evolution/) - `House of Angular` **FREE**.
@@ -698,7 +698,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [story-ui ![GitHub Repo Stars](https://img.shields.io/github/stars/southleft/story-ui) ![GitHub last commit](https://img.shields.io/github/last-commit/southleft/story-ui)](https://github.com/southleft/story-ui) - Automate component documentation by generating Storybook stories through AI-powered conversations, compatible with many LLM providers.
 * [envguards ![GitHub Repo Stars](https://img.shields.io/github/stars/princeofv/envguards) ![GitHub last commit](https://img.shields.io/github/last-commit/princeofv/envguards)](https://github.com/princeofv/envguards) - Framework-agnostic environment variable validation, documentation generator, and `.env.example` creator.
 
-### Editor and IDE Extensions
+### IDE Extensions
 
 * [Angular Dev Tools](https://angular.dev/tools/devtools) - Browser extension for debugging and profiling Angular applications.
 * [Angular Extension Pack](https://marketplace.visualstudio.com/items?itemName=loiane.angular-extension-pack) - This extension pack packages some of the most popular VS Code Angular extensions.
@@ -1040,13 +1040,6 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [wdio-harness ![GitHub Repo Stars](https://img.shields.io/github/stars/badisi/wdio-harness) ![GitHub last commit](https://img.shields.io/github/last-commit/badisi/wdio-harness)](https://github.com/badisi/wdio-harness) - WebdriverIO support for Angular component test harnesses.
 * [testronaut ![GitHub Repo Stars](https://img.shields.io/github/stars/testronaut/testronaut) ![GitHub last commit](https://img.shields.io/github/last-commit/testronaut/testronaut)](https://github.com/testronaut/testronaut) - By removing mocks and guesswork, [Testronaut](https://testronaut.github.io/testronaut/) enables developers to visually inspect output and write precise tests with Playwright’s robust API.
 
-### Guides
-
-* [Testing Angular – A Guide to Robust Angular Applications](https://testing-angular.com) - A Guide to Robust Angular Applications. A free online book and e-book.
-* [angular-tour-of-heroes-jest-100-coverage ![GitHub Repo Stars](https://img.shields.io/github/stars/kristiyan-velkov/angular-tour-of-heroes-jest-100-coverage) ![GitHub last commit](https://img.shields.io/github/last-commit/kristiyan-velkov/angular-tour-of-heroes-jest-100-coverage)](https://github.com/kristiyan-velkov/angular-tour-of-heroes-jest-100-coverage) - 100% unit testing coverage of the popular Angular demo app - Tour of Heroes.
-* [how-do-i-test ![GitHub Repo Stars](https://img.shields.io/github/stars/rainerhahnekamp/how-do-i-test) ![GitHub last commit](https://img.shields.io/github/last-commit/rainerhahnekamp/how-do-i-test)](https://github.com/rainerhahnekamp/how-do-i-test) - Repository representing different testing use cases for Angular and Spring.
-* [Tim Deschryver Blog](https://timdeschryver.dev/blog?q=Testing) - A rich source of valuable perspectives and practical tips on testing.
-
 ### Helpers
 
 * [ng-mocks ![GitHub Repo Stars](https://img.shields.io/github/stars/help-me-mom/ng-mocks) ![GitHub last commit](https://img.shields.io/github/last-commit/help-me-mom/ng-mocks)](https://github.com/help-me-mom/ng-mocks) - Angular testing library for mocking components, directives, pipes, services and facilitating TestBed setup.
@@ -1213,6 +1206,9 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 
 ### Carousels
 
+* [@daelmaak/ngx-gallery ![GitHub Repo Stars](https://img.shields.io/github/stars/daelmaak/ngx-gallery) ![GitHub last commit](https://img.shields.io/github/last-commit/daelmaak/ngx-gallery)](https://github.com/daelmaak/ngx-gallery) - Small, performant, responsive, dependency free, easy to use Angular 8+ gallery.
+* [@MurhafSousli/ngx-gallery ![GitHub Repo Stars](https://img.shields.io/github/stars/MurhafSousli/ngx-gallery) ![GitHub last commit](https://img.shields.io/github/last-commit/MurhafSousli/ngx-gallery)](https://github.com/MurhafSousli/ngx-gallery/tree/release/13.0.0) - Simplifies the process of creating beautiful image galleries for the web and mobile devices.
+* [@vinlos/ngx-gallery ![GitHub Repo Stars](https://img.shields.io/github/stars/vinlos/ngx-gallery) ![GitHub last commit](https://img.shields.io/github/last-commit/vinlos/ngx-gallery)](https://github.com/vinlos/ngx-gallery) - A simple native gallery component for Angular.
 * [ngu-carousel ![GitHub Repo Stars](https://img.shields.io/github/stars/uiuniversal/ngu-carousel) ![GitHub last commit](https://img.shields.io/github/last-commit/uiuniversal/ngu-carousel)](https://github.com/uiuniversal/ngu-carousel) - Angular Universal carousel.
 * [ngx-slider ![GitHub Repo Stars](https://img.shields.io/github/stars/angular-slider/ngx-slider) ![GitHub last commit](https://img.shields.io/github/last-commit/angular-slider/ngx-slider)](https://github.com/angular-slider/ngx-slider) - Self-contained, mobile friendly slider component for Angular based on [angularjs-slider ![GitHub Repo Stars](https://img.shields.io/github/stars/angular-slider/angularjs-slider) ![GitHub last commit](https://img.shields.io/github/last-commit/angular-slider/angularjs-slider)](https://github.com/angular-slider/angularjs-slider).
 * [ngx-slick-carousel ![GitHub Repo Stars](https://img.shields.io/github/stars/leo6104/ngx-slick-carousel) ![GitHub last commit](https://img.shields.io/github/last-commit/leo6104/ngx-slick-carousel)](https://github.com/leo6104/ngx-slick-carousel) - Angular 17+ wrapper for slick plugin.
@@ -1224,9 +1220,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-stories ![GitHub Repo Stars](https://img.shields.io/github/stars/Gauravdarkslayer/ngx-stories) ![GitHub last commit](https://img.shields.io/github/last-commit/Gauravdarkslayer/ngx-stories)](https://github.com/Gauravdarkslayer/ngx-stories) - An Angular component to render Instagram like stories.
 * [carousel-library ![GitHub Repo Stars](https://img.shields.io/github/stars/GreenFlag31/carousel-library) ![GitHub last commit](https://img.shields.io/github/last-commit/GreenFlag31/carousel-library)](https://github.com/GreenFlag31/carousel-library) - A versatile Angular library providing a feature-rich, simple, and performant carousel component.
 * [ngx-simple-gallery ![GitHub Repo Stars](https://img.shields.io/github/stars/zolcsi/ngx-simple-gallery) ![GitHub last commit](https://img.shields.io/github/last-commit/zolcsi/ngx-simple-gallery)](https://github.com/zolcsi/ngx-simple-gallery) - A lightweight gallery library for Angular 18 that presents all images as thumbnails, expanding them to full size upon clicking or tapping.
-* [@daelmaak/ngx-gallery ![GitHub Repo Stars](https://img.shields.io/github/stars/daelmaak/ngx-gallery) ![GitHub last commit](https://img.shields.io/github/last-commit/daelmaak/ngx-gallery)](https://github.com/daelmaak/ngx-gallery) - Small, performant, responsive, dependency free, easy to use Angular 8+ gallery.
 * [embla-carousel-angular ![GitHub Repo Stars](https://img.shields.io/github/stars/donaldxdonald/embla-carousel-angular) ![GitHub last commit](https://img.shields.io/github/last-commit/donaldxdonald/embla-carousel-angular)](https://github.com/donaldxdonald/embla-carousel-angular) - Angular wrapper for [Embla Carousel ![GitHub Repo Stars](https://img.shields.io/github/stars/davidjerleke/embla-carousel) ![GitHub last commit](https://img.shields.io/github/last-commit/davidjerleke/embla-carousel)](https://github.com/davidjerleke/embla-carousel).
-* [@vinlos/ngx-gallery ![GitHub Repo Stars](https://img.shields.io/github/stars/vinlos/ngx-gallery) ![GitHub last commit](https://img.shields.io/github/last-commit/vinlos/ngx-gallery)](https://github.com/vinlos/ngx-gallery) - A simple native gallery component for Angular 16+.
 * [ngx-cdk-lightbox ![GitHub Repo Stars](https://img.shields.io/github/stars/miskith/ngx-cdk-lightbox) ![GitHub last commit](https://img.shields.io/github/last-commit/miskith/ngx-cdk-lightbox)](https://github.com/miskith/ngx-cdk-lightbox/tree/master/projects/ngx-cdk-lightbox) - Tailored CDK-based solution for rendering an image gallery with lightbox functionality in Angular.
 * [rm-image-slider ![GitHub Repo Stars](https://img.shields.io/github/stars/malikrajat/rm-image-slider) ![GitHub last commit](https://img.shields.io/github/last-commit/malikrajat/rm-image-slider)](https://github.com/malikrajat/rm-image-slider) - Standalone Angular image slider with lightbox, lazy loading, and video support (YouTube/MP4).
 * [ngx-carousel-modern ![GitHub Repo Stars](https://img.shields.io/github/stars/Aizaz-ul-haq/ngx-carousel-modern) ![GitHub last commit](https://img.shields.io/github/last-commit/Aizaz-ul-haq/ngx-carousel-modern)](https://github.com/Aizaz-ul-haq/ngx-carousel-modern) - A modern, customizable carousel component for Angular 16+ with support for both standalone and NgModule-based applications.
@@ -1393,7 +1387,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-dashboard ![GitHub Repo Stars](https://img.shields.io/github/stars/TobyBackstrom/ngx-dashboard) ![GitHub last commit](https://img.shields.io/github/last-commit/TobyBackstrom/ngx-dashboard)](https://github.com/TobyBackstrom/ngx-dashboard) - Modern Angular workspace for building drag-and-drop grid dashboards with resizable cells and customizable widgets.
 * [ngx-dropzone-next ![GitHub Repo Stars](https://img.shields.io/github/stars/arturovt/ngx-dropzone-next) ![GitHub last commit](https://img.shields.io/github/last-commit/arturovt/ngx-dropzone-next)](https://github.com/arturovt/ngx-dropzone-next) - A maintained fork of `@peterfreeman/ngx-dropzone`, providing bug fixes and compatibility with newer Angular versions.
 
-### Editor Components
+### Editors
 
 * [Angular-JSON-Tree-Editor-Component ![GitHub Repo Stars](https://img.shields.io/github/stars/stefonalfaro/Angular-JSON-Tree-Editor-Component) ![GitHub last commit](https://img.shields.io/github/last-commit/stefonalfaro/Angular-JSON-Tree-Editor-Component)](https://github.com/stefonalfaro/Angular-JSON-Tree-Editor-Component) - Angular JSON Tree Editor Component that actually works.
 * [acrodata/code-editor ![GitHub Repo Stars](https://img.shields.io/github/stars/acrodata/code-editor) ![GitHub last commit](https://img.shields.io/github/last-commit/acrodata/code-editor)](https://github.com/acrodata/code-editor) - CodeMirror 6 wrapper for Angular.
@@ -1424,6 +1418,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-workflow ![GitHub Repo Stars](https://img.shields.io/github/stars/abdulkyume/ngx-workflow) ![GitHub last commit](https://img.shields.io/github/last-commit/abdulkyume/ngx-workflow)](https://github.com/abdulkyume/ngx-workflow) - A powerful, highly customizable Angular library for building interactive node-based editors, flow charts, and diagrams.
 * [contentful-rich-text-angular-renderer ![GitHub Repo Stars](https://img.shields.io/github/stars/flowup/contentful-rich-text-angular-renderer) ![GitHub last commit](https://img.shields.io/github/last-commit/flowup/contentful-rich-text-angular-renderer)](https://github.com/flowup/contentful-rich-text-angular-renderer) - Angular renderer for Contentful Rich Text, offering customizable node and mark rendering using Angular templates.
 * [Monaco Pattern Editor ![GitHub Repo Stars](https://img.shields.io/github/stars/KhlifiIsmail/Editor) ![GitHub last commit](https://img.shields.io/github/last-commit/KhlifiIsmail/Editor)](https://github.com/KhlifiIsmail/Editor) - A premium Angular library that wraps Monaco Editor with beautiful themes and coding interview preparation features.
+* [angular-editor ![GitHub Repo Stars](https://img.shields.io/github/stars/kolkov/angular-editor) ![GitHub last commit](https://img.shields.io/github/last-commit/kolkov/angular-editor)](https://github.com/kolkov/angular-editor) - A simple native WYSIWYG editor component for Angular.
 
 ### File Upload
 
@@ -1610,7 +1605,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-arrow-state ![GitHub Repo Stars](https://img.shields.io/github/stars/jaychase/ngx-arrow-state) ![GitHub last commit](https://img.shields.io/github/last-commit/jaychase/ngx-arrow-state)](https://github.com/jaychase/ngx-arrow-state) - An Angular library that provides terminal/shell-like input history navigation using arrow keys, plus Ctrl+Enter form submission for textareas.
 * [angular-onscreen-material-keyboard ![GitHub Repo Stars](https://img.shields.io/github/stars/eFaps/angular-onscreen-material-keyboard) ![GitHub last commit](https://img.shields.io/github/last-commit/eFaps/angular-onscreen-material-keyboard)](https://github.com/eFaps/angular-onscreen-material-keyboard) - Onscreen virtual keyboard for Angular using Angular Material.
 
-### Layout Components
+### Layout
 
 * [angular-split ![GitHub Repo Stars](https://img.shields.io/github/stars/bertrandg/angular-split) ![GitHub last commit](https://img.shields.io/github/last-commit/bertrandg/angular-split)](https://github.com/bertrandg/angular-split) - Angular split component.
 * [overview ![GitHub Repo Stars](https://img.shields.io/github/stars/ngneat/overview) ![GitHub last commit](https://img.shields.io/github/last-commit/ngneat/overview)](https://github.com/ngneat/overview) - A collection of tools to make your Angular views more modular, scalable, and maintainable.
