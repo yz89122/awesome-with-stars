@@ -80,7 +80,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 ## Getting Started
 
 - [Getting Started with Apache JMeter](https://dzone.com/refcardz/getting-started-with-apache-jmeter)
-- [The Beginner's Guide to Performance Testing with Apache JMeter](https://betterprogramming.pub/the-beginners-guide-to-performance-testing-with-apache-jmeter-5cc52c327ff6)
+- [The Beginner's Guide to Performance Testing with Apache JMeter](https://medium.com/better-programming/the-beginners-guide-to-performance-testing-with-apache-jmeter-5cc52c327ff6)
 - JMeter — Performance and Load Testing: Beginner's Guide: [part 1](https://ekremkurt1907.medium.com/jmeter-performance-and-load-testing-beginners-guide-part-i-5121604bf97a), [part 2](https://ekremkurt1907.medium.com/jmeter-performance-and-load-testing-beginners-guide-part-ii-7edb98b0d2c3)
 
 ## Tutorials
@@ -93,6 +93,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 - [Load Testing with Apache JMeter](https://www.digitalocean.com/community/tutorial-series/load-testing-with-apache-jmeter) - By Mitchell Anicas @ DigitalOcean.
 - [JMeter Tutorial for Beginners](https://www.guru99.com/jmeter-tutorials.html) - By Guru99.
 - [JMeter Tutorials](https://qaautomation.expert/2023/12/07/jmeter-tutorials/) - By QA Automation Expert.
+- [Web App Load Testing Using Maven Plugins for Apache JMeter, and Analyzing the Results](https://dzone.com/articles/running-load-test-web-app-using-maven-plugins) - By Vincent DABURON.
 
 ## Best Practices
 
@@ -125,7 +126,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 - [Performance testing framework ![GitHub Repo Stars](https://img.shields.io/github/stars/serputko/performance-testing-framework) ![GitHub last commit](https://img.shields.io/github/last-commit/serputko/performance-testing-framework)](https://github.com/serputko/performance-testing-framework) - Framework both for backend load testing with Apache JMeter and frontend load testing with sitespeed.io + webpagetest private instance.
 - [JMeter Load Testing Center ![GitHub Repo Stars](https://img.shields.io/github/stars/innogames/ltc) ![GitHub last commit](https://img.shields.io/github/last-commit/innogames/ltc)](https://github.com/innogames/ltc) - Online web-application/dashboard to run, monitor and analyze results of load tests using JMeter.
 - [MeterSphere ![GitHub Repo Stars](https://img.shields.io/github/stars/metersphere/metersphere) ![GitHub last commit](https://img.shields.io/github/last-commit/metersphere/metersphere)](https://github.com/metersphere/metersphere) - One-stop open-source enterprise-class continuous testing platform, compatible with open-source standards such as JMeter :cn:.
-- [Carrier](https://getcarrier.io/) - Continuous test execution platform with ability to perform load testing using customized JMeter and Gatling containers.
+- [Carrier](https://github.com/carrier-io) - Continuous test execution platform with ability to perform load testing using customized JMeter and Gatling containers.
 
 ### Conversion
 
@@ -155,7 +156,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 ### Tutorials & Demo
 
 - Jenkins
-  - [Performance Tests with JMeter, Maven and Hudson](https://blog.theserverlabs.com/performance-tests-with-jmeter-maven-and-hudson-d1cbdb3ffad8)
+  - [Performance Tests with JMeter, Maven and Hudson](https://medium.com/the-server-labs/performance-tests-with-jmeter-maven-and-hudson-d1cbdb3ffad8)
   - [CI with Jenkins, Git, Maven, Grunt, and JMeter ![GitHub Repo Stars](https://img.shields.io/github/stars/dzuluagaapigee/apigee-ci-jenkins-git-maven-jmeter) ![GitHub last commit](https://img.shields.io/github/last-commit/dzuluagaapigee/apigee-ci-jenkins-git-maven-jmeter)](https://github.com/dzuluagaapigee/apigee-ci-jenkins-git-maven-jmeter)
   - [Continuous automated web tests using Jenkins and JMeter](https://www.linkedin.com/pulse/continuous-automated-web-tests-using-jenkins-jmeter-mahanta)
   - [Automating JMeter tests with Maven and Jenkins](https://www.codecentric.de/en/knowledge-hub/blog/automating-jmeter-tests-maven-jenkins)
@@ -194,7 +195,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
     - [gee ![GitHub Repo Stars](https://img.shields.io/github/stars/kowalcj0/gee) ![GitHub last commit](https://img.shields.io/github/last-commit/kowalcj0/gee)](https://github.com/kowalcj0/gee) - A modified version of JMeter-EC2 project.
     - [os-jmeter-aws ![GitHub Repo Stars](https://img.shields.io/github/stars/Aptimyze/os-jmeter-aws) ![GitHub last commit](https://img.shields.io/github/last-commit/Aptimyze/os-jmeter-aws)](https://github.com/Aptimyze/os-jmeter-aws) - Run JMeter on multiple Amazon EC2 instances, view results in ELK.
     - [Load Testing with JMeter and Amazon EC2](https://medium.com/@alttaf/load-testing-with-jmeter-and-amazon-ec2-e143a7350596)
-    - [Performance Testing in the Cloud with JMeter & AWS](http://web.archive.org/web/20190526033436/http://www.artofsoftwaredevelopment.com/performance/performance-testing-in-the-cloud-with-jmeter-aws)
+    - [Performance Testing in the Cloud with JMeter & AWS](https://web.archive.org/web/20190526033436/http://www.artofsoftwaredevelopment.com/performance/performance-testing-in-the-cloud-with-jmeter-aws)
     - [JMeter distributed testing with Amazon EC2](https://vedovini.net/2009/08/17/jmeter-distributed-testing-with-amazon-ec2/)
     - [jmeter-ecs ![GitHub Repo Stars](https://img.shields.io/github/stars/smithmicro/jmeter-ecs) ![GitHub last commit](https://img.shields.io/github/last-commit/smithmicro/jmeter-ecs)](https://github.com/smithmicro/jmeter-ecs) - JMeter Docker image for distributed testing on EC2 Container Service (ECS).
   - DigitalOcean
@@ -209,7 +210,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 - [Perforce BlazeMeter](https://www.blazemeter.com/) - Performance engineering platform with JMeter and Selenium support.
 - [OctoPerf](https://octoperf.com/) - SaaS and On-Premise Load Testing Tool with JMeter and Selenium support.
 - [RedLine13](https://redline13.com/) - AWS-based load testing service with JMeter, Gatling and Selenium scenarios support.
-- [LoadRunner Cloud](https://www.opentext.com/products/core-performance-engineering) - OpenText cloud-based solution for web and mobile performance testing with JMeter and Gatling support (formerly Micro Focus LoadRunner Cloud, formerly HP StormRunner Load).
+- [OpenText Core Performance Engineering](https://www.opentext.com/products/saas/core-performance-engineering) - OpenText cloud-based solution for web and mobile performance testing with JMeter and Gatling support (formerly Micro Focus LoadRunner Cloud, formerly HP StormRunner Load).
 - [Loadium](https://loadium.com/) - AWS-based load testing service with JMeter and Selenium support.
 - [Azure Microsoft](https://azure.microsoft.com/en-us/products/load-testing/) - Azure Load Testing Service use Apache JMeter.
 
@@ -243,7 +244,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 
 <!--lint ignore double-link-->
 - InfluxDB & Grafana
-  - [Using JMeter with InfluxDB & Grafana](https://www.vinsguru.com/category/influxdb/) - Collection of guides to collect and visualize real-time test results and server monitoring stats using InfluxDB & Grafana.
+  - [Using JMeter with InfluxDB & Grafana](https://blog.vinsguru.com/category/influxdb/) - Collection of guides to collect and visualize real-time test results and server monitoring stats using InfluxDB & Grafana.
   - [How to Use Grafana to Monitor JMeter Non-GUI Results](https://dzone.com/articles/how-to-use-grafana-to-monitor-jmeter-non-gui-resul)
   - [jmeterReports ![GitHub Repo Stars](https://img.shields.io/github/stars/kirillyu/jmeterReports) ![GitHub last commit](https://img.shields.io/github/last-commit/kirillyu/jmeterReports)](https://github.com/kirillyu/jmeterReports) - Autogenerated JMeter test-run results reported into Confluence, using Grafana custom dashboards :ru:.
   - [InfluxDB Community Template for JMeter ![GitHub Repo Stars](https://img.shields.io/github/stars/influxdata/community-templates) ![GitHub last commit](https://img.shields.io/github/last-commit/influxdata/community-templates)](https://github.com/influxdata/community-templates/tree/master/apache_jmeter) - Prepackaged InfluxDB configurations that contain everything from dashboards and Telegraf configurations to notifications and alerts in a single manifest file.
@@ -363,8 +364,8 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 
 <!--lint ignore double-link-->
 - [Servers Performance Monitoring Plugin](https://jmeter-plugins.org/wiki/PerfMon/) - Server monitoring plugin from [JMeter Plugins](#plugins) project.
-- [CA App Synthetic Monitor](https://asm.saas.broadcom.com/en/feature/transaction-monitoring-web-application-testing.html) - Transaction monitoring & testing solution with JMeter support.
-- Performance Remediation using New Relic and JMeter: [part 1](https://moduscreate.com/blog/performance-remediation-using-new-relic-jmeter-part-1-3/), [part 2](https://moduscreate.com/blog/performance-remediation-using-new-relic-jmeter-part-2-3/), [part 3](https://moduscreate.com/blog/performance-remediation-using-new-relic-jmeter-part-3-of-3/)
+- [DX App Synthetic Monitor](https://techdocs.broadcom.com/us/en/ca-enterprise-software/it-operations-management/app-synthetic-monitor/SaaS/using/use-jmeter-scripts-to-test-web-servers.html) - Transaction monitoring & testing solution with JMeter support.
+- Performance Remediation using New Relic and JMeter: [part 1](https://web.archive.org/web/20250811141928/https://moduscreate.com/blog/performance-remediation-using-new-relic-jmeter-part-1-3/), [part 2](https://web.archive.org/web/20250809025316/https://moduscreate.com/blog/performance-remediation-using-new-relic-jmeter-part-2-3/), [part 3](https://web.archive.org/web/20250719013947/https://moduscreate.com/blog/performance-remediation-using-new-relic-jmeter-part-3-of-3/)
 - [Elastic APM integration ![GitHub Repo Stars](https://img.shields.io/github/stars/vdaburon/jmeter-elastic-apm) ![GitHub last commit](https://img.shields.io/github/last-commit/vdaburon/jmeter-elastic-apm)](https://github.com/vdaburon/jmeter-elastic-apm) - Manages the integration of Elastic Application Performance Monitoring API in Apache JMeter script.
 
 ## JMeter Performance
@@ -394,7 +395,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 
 - [JMeter: Performance and Load Testing (Feb 2019)](https://www.linkedin.com/learning/jmeter-performance-and-load-testing) - By LinkedIn Learning.
 - [Advanced JMeter (Jul 2020)](https://www.linkedin.com/learning/advanced-jmeter) - By LinkedIn Learning.
-- [JMeter Training Courses](https://www.nobleprog.co.uk/jmeter-training) - By NobleProg.
+- [JMeter Training Courses](https://www.nobleprog.co.uk/cc/apachejmetertesting) - By NobleProg.
 - [BlazeMeter University](https://www.blazemeter.com/university) - By BlazeMeter.
 - [JMeter Courses collection](https://www.udemy.com/topic/jmeter/) - By Udemy.
 - [Web Applications (and Mobile Apps) Performance Testing with JMeter](http://pragmatictestlabs.com/web-applications-mobile-apps-performance-testing-jmeter/) - By Pragmatic Test Labs.
@@ -429,11 +430,11 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 ### Twitter
 
 <!--lint ignore double-link-->
-- [@ApacheJMeter](https://twitter.com/apachejmeter) - Official Twitter account of the Apache JMeter load testing tool.
-- [@jmeter_plugins](https://twitter.com/jmeter_plugins) - Twitter account of custom plugins project for JMeter load testing tool.
-- [@BlazeMeter](https://twitter.com/BlazeMeter) - Official Twitter account of Blazemeter, performance engineering platform for DevOps, based on JMeter.
-- [@masterjmeter](https://twitter.com/masterjmeter) - Official account of the [Master Apache JMeter from Load Testing to DevOps](#books) book.
-- [@ubikloadpack](https://twitter.com/ubikloadpack) - Twitter account of [Ubik Load Pack](#plugins), custom JMeter plugins for Video Streaming & complex protocols load testing.
+- [@ApacheJMeter](https://x.com/apachejmeter) - Official Twitter account of the Apache JMeter load testing tool.
+- [@jmeter_plugins](https://x.com/jmeter_plugins) - Twitter account of custom plugins project for JMeter load testing tool.
+- [@BlazeMeter](https://x.com/BlazeMeter) - Official Twitter account of Blazemeter, performance engineering platform for DevOps, based on JMeter.
+- [@masterjmeter](https://x.com/masterjmeter) - Official account of the [Master Apache JMeter from Load Testing to DevOps](#books) book.
+- [@ubikloadpack](https://x.com/ubikloadpack) - Twitter account of [Ubik Load Pack](#plugins), custom JMeter plugins for Video Streaming & complex protocols load testing.
 
 ### Q&A
 
