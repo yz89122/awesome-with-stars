@@ -376,7 +376,7 @@ Malfunction can have dramatic consequences, as well as your drone can cause mass
 
 * [Ardupilot Copter Checklist](https://ardupilot.org/copter/docs/checklist.html).
 
-### ID Systems 🛂
+### ID Systems ���
 
 We share the airspace with other pilots. RC copters and planes are hard to spot, so it is recommend to share your position via transponder systems. This allows also tracking of illegal maneuvers.
 
@@ -464,7 +464,7 @@ Every hobby makes more fun and progress if you share your ideas and questions to
 * [OscarLiang.com](https://OscarLiang.com) - Important blog with builds and configurations and knowledge.
 * [intofpv.com](https://intofpv.com) - Forum with helpful information about anything FPV related.
 * [INAV fixed wing group](https://inavfixedwinggroup.com/) - Forum, Blog, Builds on fixed wing esp. with INAV compatible autopilot.
-* [fpv-community.de](https://fpv-community.de) - 🇩���� Auch Selbstbau.
+* [fpv-community.de](https://fpv-community.de) - 🇩🇪 Auch Selbstbau.
 * [RC-Network.de](https://RC-Network.de) - 🇩🇪 Über Selbstbau auch von Schiffen und Autos. Sehr umfangreiches [Wiki](https://wiki.rc-network.de/wiki/Hauptseite).
 * [kopterforum.de](https://kopterforum.de) - 🇩🇪 Auch Selbstbau.
 
