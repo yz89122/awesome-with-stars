@@ -58,6 +58,7 @@ Please raise a [Pull-Request ![GitHub Repo Stars](https://img.shields.io/github/
 - [waveform-path ![GitHub Repo Stars](https://img.shields.io/github/stars/jerosoler/waveform-path) ![GitHub last commit](https://img.shields.io/github/last-commit/jerosoler/waveform-path)](https://github.com/jerosoler/waveform-path) - Library to generate waveforms paths in svg.
 - [wave-audio-path-player ![GitHub Repo Stars](https://img.shields.io/github/stars/jerosoler/wave-audio-path-player) ![GitHub last commit](https://img.shields.io/github/last-commit/jerosoler/wave-audio-path-player)](https://github.com/jerosoler/wave-audio-path-player) - Simple audio player webcomponent customizable with waveform.
 - [dsssp ![GitHub Repo Stars](https://img.shields.io/github/stars/NumberOneBot/dsssp) ![GitHub last commit](https://img.shields.io/github/last-commit/NumberOneBot/dsssp)](https://github.com/NumberOneBot/dsssp) - React component library for visualizing and managing audio filters with drag-n-drop and transitions support.
+- [tuning-fork ![GitHub Repo Stars](https://img.shields.io/github/stars/v-rusu/tuning-fork) ![GitHub last commit](https://img.shields.io/github/last-commit/v-rusu/tuning-fork)](https://github.com/v-rusu/tuning-fork) - A configurable client-side JavaScript library for guitar tuning with real-time pitch detection.
 
 ### Utilities
 

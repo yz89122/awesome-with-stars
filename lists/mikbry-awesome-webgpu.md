@@ -68,8 +68,8 @@ WebGPU is a work in progress Web standard from [W3C](https://www.w3.org/) for mo
 ### Safari
 > WebGPU support is still experimental
 - [macOS Safari TP](https://developer.apple.com/safari/resources/) - WebGPU is enabled by default since 190.
-- [macOS Safari](https://www.apple.com/safari/) - Soon available.
-- [iOS](https://mil-tokyo.github.io/webdnn/docs/tips/enable_webgpu_ios.html) - You can enable WebGPU in `Settings` &rightarrow; `Safari` &rightarrow; `Advanced` &rightarrow; `Feature Flags` &rightarrow; `WebGPU`.
+- [macOS Safari](https://www.apple.com/safari/) - WebGPU enabled by default on macOS 26 Tahoe or later; earlier versions require the `WebGPU` feature flag.
+- [iOS/iPadOS Safari](https://mil-tokyo.github.io/webdnn/docs/tips/enable_webgpu_ios.html) - WebGPU supported by default on iOS/iPadOS 26 or later; earlier versions require `Settings` &rightarrow; `Safari` &rightarrow; `Advanced` &rightarrow; `Feature Flags` &rightarrow; `WebGPU`.
 
 ## Articles
 
@@ -119,6 +119,7 @@ WebGPU is a work in progress Web standard from [W3C](https://www.w3.org/) for mo
 - [Babylon.js](https://doc.babylonjs.com/setup/support/webGPU) - Open game and rendering engine.
 - [Three.js](https://threejs.org/) - Easy-to-use, lightweight, general-purpose 3D library.
 - [PlayCanvas](https://playcanvas.com/) - Web-based game engine with WebGPU support.
+- [PixiJS](https://pixijs.com/) - 2D rendering engine with a WebGPU renderer.
 - [Dawn](https://dawn.googlesource.com/dawn) - Google implementation that powers WebGPU in Chromium, can be used as a standalone package.
 - [wgpu ![GitHub Repo Stars](https://img.shields.io/github/stars/gfx-rs/wgpu) ![GitHub last commit](https://img.shields.io/github/last-commit/gfx-rs/wgpu)](https://github.com/gfx-rs/wgpu) - Mozilla implementation used in Firefox. Like Dawn, can be used as a standalone package.
 - [webgpu-headers ![GitHub Repo Stars](https://img.shields.io/github/stars/webgpu-native/webgpu-headers) ![GitHub last commit](https://img.shields.io/github/last-commit/webgpu-native/webgpu-headers)](https://github.com/webgpu-native/webgpu-headers) - C/C++ headers.
@@ -141,6 +142,7 @@ WebGPU is a work in progress Web standard from [W3C](https://www.w3.org/) for mo
 - [WESL ![GitHub Repo Stars](https://img.shields.io/github/stars/wgsl-tooling-wg/wesl-spec) ![GitHub last commit](https://img.shields.io/github/last-commit/wgsl-tooling-wg/wesl-spec)](https://github.com/wgsl-tooling-wg/wesl-spec/blob/main/README.md) - WGSL extensions for `import`, `@if`, and more. 
 - [WebGpGpu.ts ![GitHub Repo Stars](https://img.shields.io/github/stars/eddow/webgpgpu) ![GitHub last commit](https://img.shields.io/github/last-commit/eddow/webgpgpu)](https://github.com/eddow/webgpgpu) - A WebGPU framework to access compute shaders, browser or server-side, without the steep learning curve.
 - [spark.js](https://ludicon.com/sparkjs/) - A real-time GPU texture compression library for WebGPU.
+- [ChartGPU ![GitHub Repo Stars](https://img.shields.io/github/stars/chartgpu/chartgpu) ![GitHub last commit](https://img.shields.io/github/last-commit/chartgpu/chartgpu)](https://github.com/chartgpu/chartgpu) - High-performance charting library built on WebGPU, handles 1M+ data points at 60fps.
 
 ## Debuggers and Profilers
 - [webgpu-inspector ![GitHub Repo Stars](https://img.shields.io/github/stars/brendan-duncan/webgpu_inspector) ![GitHub last commit](https://img.shields.io/github/last-commit/brendan-duncan/webgpu_inspector)](https://github.com/brendan-duncan/webgpu_inspector) - Inspection debugger for WebGpu.
@@ -168,6 +170,7 @@ Right now, demos work best on Chrome/Edge.
 - [Spookyball](https://spookyball.com) - A Halloween-themed, open source Breakout clone, by Brandon Jones - [Repository ![GitHub Repo Stars](https://img.shields.io/github/stars/toji/spookyball) ![GitHub last commit](https://img.shields.io/github/last-commit/toji/spookyball)](https://github.com/toji/spookyball)
 - [Babylon.js Playground](https://playground.babylonjs.com/) - By [Babylon.js](https://www.babylonjs.com/) (Note: Select `WebGPU` in the top right corner).
 - [PlayCanvas WebGPU Demos](https://playcanvas.vercel.app/) - By [PlayCanvas](https://playcanvas.com/) (Note: Select `WebGPU` in the top right corner).
+- [Project Prismatic](https://play.projectprismatic.com) - Stratton Studios Unity-powered WebGPU experience/demo.
 - [WebGPU Particles](https://hsimpson.github.io/webgpu-particles/) - Calculate and render particles, by [Daniel Toplak](https://github.com/hsimpson) - [Repository ![GitHub Repo Stars](https://img.shields.io/github/stars/hsimpson/webgpu-particles) ![GitHub last commit](https://img.shields.io/github/last-commit/hsimpson/webgpu-particles)](https://github.com/hsimpson/webgpu-particles)
 - [An online WebGPU calculator](https://laskin.live) - An online calculator, but you can only use it on your remote friend's GPU (via WebRTC) - [Repository ![GitHub Repo Stars](https://img.shields.io/github/stars/periferia-labs/laskin.live) ![GitHub last commit](https://img.shields.io/github/last-commit/periferia-labs/laskin.live)](https://github.com/periferia-labs/laskin.live)
 - [WebGPU Examples](https://tsherif.github.io/webgpu-examples/) - A few examples of rendering algorithms implemented in WebGPU, by [Tarek Sherif](https://github.com/tsherif) - [Repository ![GitHub Repo Stars](https://img.shields.io/github/stars/tsherif/webgpu-examples) ![GitHub last commit](https://img.shields.io/github/last-commit/tsherif/webgpu-examples)](https://github.com/tsherif/webgpu-examples)
