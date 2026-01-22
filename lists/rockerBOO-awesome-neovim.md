@@ -956,6 +956,7 @@ then it is not supported:
 
 ## Utility
 
+- [StefanBartl/color_my_ascii.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/StefanBartl/color_my_ascii.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/StefanBartl/color_my_ascii.nvim)](https://github.com/StefanBartl/color_my_ascii.nvim) - Colorful highlighting of ASCII art in Markdown code blocks.
 - [necrom4/calcium.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/necrom4/calcium.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/necrom4/calcium.nvim)](https://github.com/necrom4/calcium.nvim) - A powerful [`lua-lib-math`](https://www.lua.org/pil/18.html) in-buffer calculator with visual mode, functions and variable support.
 - [code-biscuits/nvim-biscuits ![GitHub Repo Stars](https://img.shields.io/github/stars/code-biscuits/nvim-biscuits) ![GitHub last commit](https://img.shields.io/github/last-commit/code-biscuits/nvim-biscuits)](https://github.com/code-biscuits/nvim-biscuits) - A port of Assorted Biscuits. Ends up with more supported languages too.
 - [rktjmp/paperplanes.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/rktjmp/paperplanes.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/rktjmp/paperplanes.nvim)](https://github.com/rktjmp/paperplanes.nvim) - Post selections or buffers to online paste bins.
