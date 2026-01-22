@@ -502,6 +502,7 @@ Any comments, suggestions? [Let us know! ![GitHub Repo Stars](https://img.shield
 ### Virtualization
 
 * [Docker](https://www.docker.com/) - Powerful, performs operating-system-level virtualization. [![Open-Source Software][OSS Icon]](https://github.com/docker) ![Freeware][Freeware Icon] [![Awesome List][awesome-list Icon]](https://github.com/veggiemonk/awesome-docker#readme)
+* [Cocoa-Way ![GitHub Repo Stars](https://img.shields.io/github/stars/J-x-Z/cocoa-way) ![GitHub last commit](https://img.shields.io/github/last-commit/J-x-Z/cocoa-way)](https://github.com/J-x-Z/cocoa-way) - Native Wayland compositor for running Linux GUI apps on macOS without VM overhead. Uses waypipe for seamless integration. [![Open-Source Software][OSS Icon]](https://github.com/J-x-Z/cocoa-way) ![Freeware][Freeware Icon]
 * [MacVirtue](https://naden.co) - Run free and unlimited Virtual Machines on your Mac.
 * [Multipass](https://multipass.run/) - Ubuntu VMs on demand for any workstation. [![Open-Source Software][OSS Icon]](https://github.com/canonical/multipass)
 * [OrbStack](https://orbstack.dev/) - Fast, light, and simple way to run Docker containers and Linux machines on macOS. ![Freeware][Freeware Icon]
@@ -1059,6 +1060,7 @@ Any comments, suggestions? [Let us know! ![GitHub Repo Stars](https://img.shield
 * [Boring Notch](https://theboring.name/) - Turn your MacBook notch into a music and file control center. [![Open-Source Software][OSS Icon]](https://github.com/TheBoredTeam/boring.notch) ![Freeware][Freeware Icon]
 * [Bye AppQuit ![GitHub Repo Stars](https://img.shields.io/github/stars/designsbymuzeer/Bye-Mac-App) ![GitHub last commit](https://img.shields.io/github/last-commit/designsbymuzeer/Bye-Mac-App)](https://github.com/designsbymuzeer/Bye-Mac-App) - A minimal menu bar app to quickly view and kill running processes. [![Open-Source Software][OSS Icon]](https://github.com/designsbymuzeer/Bye-Mac-App) ![Freeware][Freeware Icon]
 * [DayBar](https://wangchujiang.com/daybar/) - An application that can display the local date and reminder events in the menu bar. [![App Store][app-store Icon]](https://apps.apple.com/app/daybar/6739052447)
+* [Droppy](https://iordv.github.io/Droppy/) - Turns your screen's notch (or Dynamic Island) into a multifunctional tool. [![Open-Source Software][OSS Icon]](https://github.com/iordv/Droppy) ![Freeware][Freeware Icon]
 * [Dato](https://sindresorhus.com/dato) - A better menu bar clock with calendar, events, and time zones. [![App Store][app-store Icon]](https://apps.apple.com/us/app/dato/id1470584107)
 * [Dozer ![GitHub Repo Stars](https://img.shields.io/github/stars/Mortennn/Dozer) ![GitHub last commit](https://img.shields.io/github/last-commit/Mortennn/Dozer)](https://github.com/Mortennn/Dozer) - Hide MacOS menubar items. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/Mortennn/Dozer)
 * [DynamicHorizon](https://dynamichorizon.app) - Enhances the notch with seamless media controls, airdrop, notifications, system indicators and lock screen widgets.
