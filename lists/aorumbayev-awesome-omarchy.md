@@ -196,6 +196,7 @@
 - [hyprBluetooth ![GitHub Repo Stars](https://img.shields.io/github/stars/magudb/hyprBluetooth) ![GitHub last commit](https://img.shields.io/github/last-commit/magudb/hyprBluetooth)](https://github.com/magudb/hyprBluetooth) - Bluetoothctl-powered TUI for quickly pairing devices on Omarchy.
 - [omarchpods ![GitHub Repo Stars](https://img.shields.io/github/stars/tomycostantino/omarchpods) ![GitHub last commit](https://img.shields.io/github/last-commit/tomycostantino/omarchpods)](https://github.com/tomycostantino/omarchpods) - TUI for monitoring AirPods and other Bluetooth headphones with battery status and device info.
 - [wayscriber ![GitHub Repo Stars](https://img.shields.io/github/stars/devmobasa/wayscriber) ![GitHub last commit](https://img.shields.io/github/last-commit/devmobasa/wayscriber)](https://github.com/devmobasa/wayscriber) - Instant on-screen annotations and markup for Wayland, ZoomIt-inspired.
+- [lazyVPN-for-Omarchy ![GitHub Repo Stars](https://img.shields.io/github/stars/blank-query/lazyVPN-for-Omarchy) ![GitHub last commit](https://img.shields.io/github/last-commit/blank-query/lazyVPN-for-Omarchy)](https://github.com/blank-query/lazyVPN-for-Omarchy) - A WireGuard VPN manager with Walker menu integration, killswitch protection, and dynamic server browsing.
 
 ## Related Projects
 
