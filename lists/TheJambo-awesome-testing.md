@@ -41,6 +41,8 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 ### Security Testing
 - [BeEF](http://beefproject.com/) - Manipulate the browser by exploiting any XSS vulnerabilities you find.
 - [OWASP ZAP ![GitHub Repo Stars](https://img.shields.io/github/stars/zaproxy/zaproxy) ![GitHub last commit](https://img.shields.io/github/last-commit/zaproxy/zaproxy)](https://github.com/zaproxy/zaproxy) - Intercepting proxy for HTTP traffic manipulation, security scanning, and exploitation.
+- [BurpSuite](https://portswigger.net/burp/communitydownload) - Intercept API and Reply with changes in realtime with according api manipulations.
+- [Nuclei Scanner ![GitHub Repo Stars](https://img.shields.io/github/stars/projectdiscovery/nuclei) ![GitHub last commit](https://img.shields.io/github/last-commit/projectdiscovery/nuclei)](https://github.com/projectdiscovery/nuclei) - nuclie is automated scanner for common vulnerbilty finding on site.
 
 ### AI & LLM Testing
 - [promptfoo ![GitHub Repo Stars](https://img.shields.io/github/stars/promptfoo/promptfoo) ![GitHub last commit](https://img.shields.io/github/last-commit/promptfoo/promptfoo)](https://github.com/promptfoo/promptfoo) - Open-source framework for testing and red teaming LLM applications. Compare prompts, test RAG architectures, run multi-turn adversarial attacks, and catch security vulnerabilities with CI/CD integration.
@@ -57,6 +59,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [TestingBot](https://testingbot.com) - Supports automated, manual, and visual testing.
 - [recheck-web ![GitHub Repo Stars](https://img.shields.io/github/stars/retest/recheck-web) ![GitHub last commit](https://img.shields.io/github/last-commit/retest/recheck-web)](https://github.com/retest/recheck-web) - Change comparison tool with Golden Masters and "unbreakable Selenium" tests.
 - [wopee.io](https://wopee.io/) - Autonomous visual regression testing platform.
+- [Lambda testing Tool](https://www.testmu.ai/lt-browser)- UI Testing Frawnework. 
 
 ### UI & End-to-End Testing
 - [BugBug](https://bugbug.io) - No-code test automation tool for web applications.
