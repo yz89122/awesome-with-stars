@@ -659,7 +659,7 @@ then it is not supported:
 - [everviolet/nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/everviolet/nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/everviolet/nvim)](https://github.com/everviolet/nvim) - **_`[TS][LSP][L/D][Lua]`_** A comfy colorscheme for cozy morning coding.
 - [uhs-robert/oasis.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/uhs-robert/oasis.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/uhs-robert/oasis.nvim)](https://github.com/uhs-robert/oasis.nvim) - **_`[TS][LSP][L/D][Lua]`_** Desert theme from Vim ported to Neovim and made modern with 12 variants, a collection of dark themes for every color of the rainbow.
 - [sainnhe/sonokai ![GitHub Repo Stars](https://img.shields.io/github/stars/sainnhe/sonokai) ![GitHub last commit](https://img.shields.io/github/last-commit/sainnhe/sonokai)](https://github.com/sainnhe/sonokai) - **_`[TS][LSP]`_** High Contrast & Vivid Color Scheme based on Monokai Pro.
-- [nyoom-engineering/oxocarbon.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/nyoom-engineering/oxocarbon.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/nyoom-engineering/oxocarbon.nvim)](https://github.com/nyoom-engineering/oxocarbon.nvim) - **_`[TS][LSP][L/D][Lua]`_** A dark and light theme written in fennel, inspired by IBM Carbon.
+- [nyoom-engineering/oxocarbon.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/nyoom-engineering/oxocarbon.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/nyoom-engineering/oxocarbon.nvim)](https://github.com/nyoom-engineering/oxocarbon.nvim) - **_`[TS][LSP][L/D][Lua]`_** A dark and light theme written in Fennel, inspired by IBM Carbon.
 - [mhartington/oceanic-next ![GitHub Repo Stars](https://img.shields.io/github/stars/mhartington/oceanic-next) ![GitHub last commit](https://img.shields.io/github/last-commit/mhartington/oceanic-next)](https://github.com/mhartington/oceanic-next) - **_`[TS][L/D]`_** Oceanic Next theme.
 - [nvimdev/zephyr-nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/nvimdev/zephyr-nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/nvimdev/zephyr-nvim)](https://github.com/nvimdev/zephyr-nvim) - **_`[TS][Lua]`_** A dark colorscheme with Tree-sitter support.
 - [rockerBOO/boo-colorscheme-nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/rockerBOO/boo-colorscheme-nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/rockerBOO/boo-colorscheme-nvim)](https://github.com/rockerBOO/boo-colorscheme-nvim) - **_`[TS][Lua]`_** A colorscheme with handcrafted support for LSP, Tree-sitter.
@@ -1148,7 +1148,7 @@ then it is not supported:
 - [ok97465/ipybridge.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/ok97465/ipybridge.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/ok97465/ipybridge.nvim)](https://github.com/ok97465/ipybridge.nvim) - Run Python code, execute Jupyter cells, debug, and explore variables.
 - [wsdjeg/code-runner.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/wsdjeg/code-runner.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/wsdjeg/code-runner.nvim)](https://github.com/wsdjeg/code-runner.nvim) - Async code runner with range support.
 <!--lint disable double-link -->
-[**�� back to top**](#contents)
+[**⬆ back to top**](#contents)
 <!--lint enable double-link -->
 
 ## Neovim Lua Development
@@ -1191,7 +1191,7 @@ then it is not supported:
 - [Olical/nfnl ![GitHub Repo Stars](https://img.shields.io/github/stars/Olical/nfnl) ![GitHub last commit](https://img.shields.io/github/last-commit/Olical/nfnl)](https://github.com/Olical/nfnl) - Streamlined successor to Aniseed, compiling Fennel to Lua on file write.
 - [Olical/conjure ![GitHub Repo Stars](https://img.shields.io/github/stars/Olical/conjure) ![GitHub last commit](https://img.shields.io/github/last-commit/Olical/conjure)](https://github.com/Olical/conjure) - Interactive evaluation (Clojure, Fennel, Janet, Racket, Hy, MIT Scheme, Guile).
 - [rktjmp/hotpot.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/rktjmp/hotpot.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/rktjmp/hotpot.nvim)](https://github.com/rktjmp/hotpot.nvim) - Seamless, transparent Fennel inside Neovim.
-- [udayvir-singh/tangerine.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/udayvir-singh/tangerine.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/udayvir-singh/tangerine.nvim)](https://github.com/udayvir-singh/tangerine.nvim) - Tangerine provides a painless way to add fennel to your config.
+- [udayvir-singh/tangerine.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/udayvir-singh/tangerine.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/udayvir-singh/tangerine.nvim)](https://github.com/udayvir-singh/tangerine.nvim) - Tangerine provides a painless way to add Fennel to your config.
 - [udayvir-singh/hibiscus.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/udayvir-singh/hibiscus.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/udayvir-singh/hibiscus.nvim)](https://github.com/udayvir-singh/hibiscus.nvim) - Highly opinionated macros to elegantly write your config.
 <!--lint disable double-link -->
 [**⬆ back to top**](#contents)
@@ -1640,6 +1640,7 @@ then it is not supported:
 - [SunnyTamang/pendulum.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/SunnyTamang/pendulum.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/SunnyTamang/pendulum.nvim)](https://github.com/SunnyTamang/pendulum.nvim) - Simple timer for creating time based productive sessions for coders, competitive programmers, developers etc.
 - [ptdewey/pendulum-nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/ptdewey/pendulum-nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/ptdewey/pendulum-nvim)](https://github.com/ptdewey/pendulum-nvim) - Track time spent coding and glean insights through on-demand time reports.
 - [ravsii/timers.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/ravsii/timers.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/ravsii/timers.nvim)](https://github.com/ravsii/timers.nvim) - Timer manager, a clean Lua API, supporting multiple timers, persistence, UI, and plugin integrations.
+- [Rtarun3606k/takatime ![GitHub Repo Stars](https://img.shields.io/github/stars/Rtarun3606k/takatime) ![GitHub last commit](https://img.shields.io/github/last-commit/Rtarun3606k/takatime)](https://github.com/Rtarun3606k/takatime) - Privacy-first WakaTime alternative using Go and MongoDB.
 
 ### Automation
 
