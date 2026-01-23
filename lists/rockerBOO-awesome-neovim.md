@@ -338,6 +338,7 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 - [abidibo/nvim-httpyac ![GitHub Repo Stars](https://img.shields.io/github/stars/abidibo/nvim-httpyac) ![GitHub last commit](https://img.shields.io/github/last-commit/abidibo/nvim-httpyac)](https://github.com/abidibo/nvim-httpyac) - Provides integration with `httpYac`.
 - [rodrigoscc/nurl.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/rodrigoscc/nurl.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/rodrigoscc/nurl.nvim)](https://github.com/rodrigoscc/nurl.nvim) - HTTP client with requests defined in pure Lua.
 - [cjodo/convert.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/cjodo/convert.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/cjodo/convert.nvim)](https://github.com/cjodo/convert.nvim) - Helps with CSS unit conversions.
+- [tednguyendev/recent_rails.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/tednguyendev/recent_rails.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/tednguyendev/recent_rails.nvim)](https://github.com/tednguyendev/recent_rails.nvim) - Telescope picker for recent Rails actions, views, and errors.
 
 ### Markdown and LaTeX
 
@@ -1147,7 +1148,7 @@ then it is not supported:
 - [ok97465/ipybridge.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/ok97465/ipybridge.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/ok97465/ipybridge.nvim)](https://github.com/ok97465/ipybridge.nvim) - Run Python code, execute Jupyter cells, debug, and explore variables.
 - [wsdjeg/code-runner.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/wsdjeg/code-runner.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/wsdjeg/code-runner.nvim)](https://github.com/wsdjeg/code-runner.nvim) - Async code runner with range support.
 <!--lint disable double-link -->
-[**⬆ back to top**](#contents)
+[**�� back to top**](#contents)
 <!--lint enable double-link -->
 
 ## Neovim Lua Development
