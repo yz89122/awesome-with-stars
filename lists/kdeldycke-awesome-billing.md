@@ -281,7 +281,7 @@ This sub-section focus on bid/ask mechanism matching resource producer with cons
 
 - [GCP Preemptible VMs vs AWS Spot Instances](https://news.ycombinator.com/item?id=9564287) - “Google's prices are fixed, whereas AWS uses a market model”.
 
-- “Look at the 3-month spot price history to estimate cost and to discover combinations of availability zone and instance type with extra capacity.” ([source](https://news.ycombinator.com/item?id=16071684)) - Users are seeking more transparency on the spot market.
+- “Look at the 3-month spot price history to estimate cost and to discover combinations of availability zone and instance type with extra capacity.�� ([source](https://news.ycombinator.com/item?id=16071684)) - Users are seeking more transparency on the spot market.
 
 - [The Eternal Cost Savings Of Netflix's Internal Spot Market](http://highscalability.com/blog/2017/12/4/the-eternal-cost-savings-of-netflixs-internal-spot-market.html) - When you're big enough that [creating an internal secondary market](https://medium.com/netflix-techblog/creating-your-own-ec2-spot-market-6dd001875f5) for instances makes economic sense.
 
