@@ -543,7 +543,7 @@ The old-fashioned way of payment: by the way of banks.
 
 The usual money transfer services.
 
-- [UPI 101: The Basics](https://blog.setu.co/articles/upi-101-the-basics) - “In this article, we will learn about India's Unified Payments Interface. A four-year-old payment scheme that has been accounting for 40-45% of digital payments across India.”
+- [UPI 101: The Basics](https://blog.setu.co/articles/upi-101-the-basics) - “In this article, we will learn about India's Unified Payments Interface. A four-year-old payment scheme that has been accounting for 40-45% of digital payments across India.��
 
 - [20 years of payment processing problems](https://kaimi.io/en/2022/07/20-years-of-payment-processing-problems-en/) - A huge collection of everything that went wrong, and still is, with payment APIs from the past 2 decades. Any issue exposed in this article that gets unaddressed will end up as stolen money.
 
