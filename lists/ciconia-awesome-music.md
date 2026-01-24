@@ -97,7 +97,7 @@ Thanks to all [contributors ![GitHub Repo Stars](https://img.shields.io/github/s
 * [Hacklily](https://www.hacklily.org) - online LilyPond-based sheet music editor (with optional GitHub integration).
 * [Inknote ![GitHub Repo Stars](https://img.shields.io/github/stars/MichalPaszkiewicz/inknote) ![GitHub last commit](https://img.shields.io/github/last-commit/MichalPaszkiewicz/inknote)](https://github.com/MichalPaszkiewicz/inknote) - free, open source, browser based music notation and composition software.
 * [JotChord](https://www.jotchord.com) - an online, text-based editor for making PDF-formatted Nashville Number System song charts.
-* [LibMEI ![GitHub Repo Stars](https://img.shields.io/github/stars/DDMAL/libmei) ![GitHub last commit](https://img.shields.io/github/last-commit/DDMAL/libmei)](https://github.com/DDMAL/libmei) - a C++ library for reading and writing MEI files.
+* [LibMEI ![GitHub Repo Stars](https://img.shields.io/github/stars/rism-digital/verovio) ![GitHub last commit](https://img.shields.io/github/last-commit/rism-digital/verovio)](https://github.com/rism-digital/verovio/tree/develop/libmei) - a C++ library for reading and writing MEI files.
 * [Lilybin](http://lilybin.com/) - an open source web-based LilyPond editor.
 * [Lilypond](http://lilypond.org/) - free, open-source music engraving program, devoted to producing the highest-quality sheet music possible.
 * [Lilypond cook book ![GitHub Repo Stars](https://img.shields.io/github/stars/noteflakes/lilypond-cookbook) ![GitHub last commit](https://img.shields.io/github/last-commit/noteflakes/lilypond-cookbook)](https://github.com/noteflakes/lilypond-cookbook/wiki/) - tips & tricks for getting the most out of lilypond.
