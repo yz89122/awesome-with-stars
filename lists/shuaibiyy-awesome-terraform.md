@@ -62,7 +62,7 @@ Terraform enables you to safely and predictably create, change, and improve prod
 ## Community
 
 - [weekly.tf - Terraform Weekly Newsletter](https://www.weekly.tf/) - Various news in the Terraform world (projects, announcements, discussions).
-- [Complete Terraform documentation as PDF files (Updated nightly) ![GitHub Repo Stars](https://img.shields.io/github/stars/antonbabenko/terraform-docs-as-pdf) ![GitHub last commit](https://img.shields.io/github/last-commit/antonbabenko/terraform-docs-as-pdf)](https://github.com/antonbabenko/terraform-docs-as-pdf)
+- [Complete Terraform documentation as PDF files (Updated nightly) ![GitHub Repo Stars](https://img.shields.io/github/stars/antonbabenko/terraform-docs-as-pdf) ![GitHub last commit](https://img.shields.io/github/last-commit/antonbabenko/terraform-docs-as-pdf)](https://github.com/antonbabenko/terraform-docs-as-pdf) :skull:
 - [Terraform AWS Modules](https://github.com/terraform-aws-modules) + [meta-configurations repository ![GitHub Repo Stars](https://img.shields.io/github/stars/terraform-aws-modules/meta) ![GitHub last commit](https://img.shields.io/github/last-commit/terraform-aws-modules/meta)](https://github.com/terraform-aws-modules/meta)
 - [Terraform Bug Tracker ![GitHub Repo Stars](https://img.shields.io/github/stars/hashicorp/terraform) ![GitHub last commit](https://img.shields.io/github/last-commit/hashicorp/terraform)](https://github.com/hashicorp/terraform/issues)
 - [Terraform Community Modules](https://github.com/terraform-community-modules)
@@ -71,7 +71,8 @@ Terraform enables you to safely and predictably create, change, and improve prod
 - [Terraform Provider/Module Registry](https://registry.terraform.io/)
 - [Terraform PDF Doc ![GitHub Repo Stars](https://img.shields.io/github/stars/dohsimpson/terraform-doc-pdf) ![GitHub last commit](https://img.shields.io/github/last-commit/dohsimpson/terraform-doc-pdf)](https://github.com/dohsimpson/terraform-doc-pdf) :skull:
 - [Terraform Roadmap](https://roadmap.sh/terraform)
-- [Terragrunt Reference Architecture ![GitHub Repo Stars](https://img.shields.io/github/stars/antonbabenko/terragrunt-reference-architecture) ![GitHub last commit](https://img.shields.io/github/last-commit/antonbabenko/terragrunt-reference-architecture)](https://github.com/antonbabenko/terragrunt-reference-architecture)
+- [Terragrunt Reference Architecture ![GitHub Repo Stars](https://img.shields.io/github/stars/antonbabenko/terragrunt-reference-architecture) ![GitHub last commit](https://img.shields.io/github/last-commit/antonbabenko/terragrunt-reference-architecture)](https://github.com/antonbabenko/terragrunt-reference-architecture) :skull:
+- [The Claude Agent Skill for Terraform and OpenTofu - testing, modules, CI/CD, and production patterns ![GitHub Repo Stars](https://img.shields.io/github/stars/antonbabenko/terraform-skill) ![GitHub last commit](https://img.shields.io/github/last-commit/antonbabenko/terraform-skill)](https://github.com/antonbabenko/terraform-skill) - Get instant guidance on testing strategies, module patterns, CI/CD workflows, and production-ready infrastructure code.
 - Language-specific communities:
   - [Telegram (Ukrainian speak community)](https://t.me/terraform_ukraine)
 
