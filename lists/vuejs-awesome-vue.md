@@ -643,6 +643,7 @@
 - [RunJS](https://runjs.app) - JavaScript playground that evaluates your code as you type and gives instant feedback. Ideal for prototyping ideas or trying out new libraries.
 - [Sneat Vuetify VueJS Admin Template](https://themeselection.com/item/sneat-vuetify-vuejs-admin-template/) - The Ultimate VueJS Admin Template for responsive web apps.
 - [Litlyx](https://litlyx.com) - AI-powered web analytics platform. Open-source alternative to Google Analytics 4 and Mixpanel.
+- [Fynk](https://fynk.com) - Contract creation, signing, and management platform.
 
 
 ### Apps/Websites
@@ -808,6 +809,7 @@
 - [Portfolio Site](https://monayemislam.me) - Monayem Islam, A full-stack web application developer's portfolio site. Made with Love and Vue 3.
 - [MapperMate](https://mappermate.com) - Free-to-use tilemap editor used to create, edit, and manage tilemaps for 2D games
 - [Chris Courses](https://chriscourses.com) - JavaScript and 2D game dev learning platform with interactive videos, quizzes, and code challenges
+- [BulkPicTools](https://bulkpictools.com) - Privacy-first bulk image processor built with Vue 3 and WebAssembly.
 
 ### Interactive Experiences
 
@@ -1174,6 +1176,8 @@ _Display non-editable events in a Calendar_
 - [vue-mars3d ![GitHub Repo Stars](https://img.shields.io/github/stars/marsgis/mars3d-vue-template) ![GitHub last commit](https://img.shields.io/github/last-commit/marsgis/mars3d-vue-template)](https://github.com/marsgis/mars3d-vue-template) - Vue 2.x 3D earth visualization JS development platform.
 - [vue-maplibre-gl ![GitHub Repo Stars](https://img.shields.io/github/stars/razorness/vue-maplibre-gl) ![GitHub last commit](https://img.shields.io/github/last-commit/razorness/vue-maplibre-gl)](https://github.com/razorness/vue-maplibre-gl) - Vue 3.x wrapper around Maplibre GL JS library written in TS. Including style switch and frame rate control.
 - [Vue Datamaps ![GitHub Repo Stars](https://img.shields.io/github/stars/Seungwoo321/vue-datamaps) ![GitHub last commit](https://img.shields.io/github/last-commit/Seungwoo321/vue-datamaps)](https://github.com/Seungwoo321/vue-datamaps) - Vue 2 port of the javascript-based DataMaps
+- [@vue-leaflet/vue-leaflet ![GitHub Repo Stars](https://img.shields.io/github/stars/vue-leaflet/vue-leaflet) ![GitHub last commit](https://img.shields.io/github/last-commit/vue-leaflet/vue-leaflet)](https://github.com/vue-leaflet/vue-leaflet) - Vue 3 components for Leaflet (1.x) maps.
+- [@maxel01/vue-leaflet ![GitHub Repo Stars](https://img.shields.io/github/stars/maxel01/vue-leaflet) ![GitHub last commit](https://img.shields.io/github/last-commit/maxel01/vue-leaflet)](https://github.com/maxel01/vue-leaflet) - Vue 3 components for Leaflet (2.x) maps.
 
 #### Audio / Video
 
@@ -1253,6 +1257,7 @@ _Display non-editable events in a Calendar_
 - [zoom-image](https://willnguyen1312.github.io/zoom-image/) - A little yet powerful framework agnostic library to zoom image on the web
 - [vue-wheel-spinner ![GitHub Repo Stars](https://img.shields.io/github/stars/ilyasozkurt/vue-wheel-spinner) ![GitHub last commit](https://img.shields.io/github/last-commit/ilyasozkurt/vue-wheel-spinner)](https://github.com/ilyasozkurt/vue-wheel-spinner) - A simple, customizable wheel of fortune component. [See Demo](https://vue-wheel-spinner-demo.vercel.app/)
 - [vue-progress-circle ![GitHub Repo Stars](https://img.shields.io/github/stars/keiwen/vue-progress-circle) ![GitHub last commit](https://img.shields.io/github/last-commit/keiwen/vue-progress-circle)](https://github.com/keiwen/vue-progress-circle) - Circle progress bar component for vue3
+- [vuehex ![GitHub Repo Stars](https://img.shields.io/github/stars/vvollers/vuehex) ![GitHub last commit](https://img.shields.io/github/last-commit/vvollers/vuehex)](https://github.com/vvollers/vuehex) - Fast, virtualized hex viewer and editor for Vue 3. View and edit binary data. [Demo](https://vvollers.github.io/vuehex/demo/)
 
 #### Tabs
 
@@ -1423,6 +1428,7 @@ _Handling of user events (scroll, click, key strike, ...)_
 - [VueFormify ![GitHub Repo Stars](https://img.shields.io/github/stars/mateenagy/vue-formify) ![GitHub last commit](https://img.shields.io/github/last-commit/mateenagy/vue-formify)](https://github.com/mateenagy/vue-formify) - Build powerful, type-safe forms in Vue 3.
 - [Enforma](https://encolajs.com/enforma/) - UI agnostic, schema-ready form library for Vue 3. 30+ built-in validation rules. UI presets for Vuetify, PrimeVue and Quasar
 - [piying-view ![GitHub Repo Stars](https://img.shields.io/github/stars/piying-org/piying-view) ![GitHub last commit](https://img.shields.io/github/last-commit/piying-org/piying-view)](https://github.com/piying-org/piying-view) - Frontend Form Solution; strongly typed; Vue 3
+- [Formisch](https://formisch.dev/vue/guides/introduction/) - A form library with focus on performance, type safety and bundle size
 
 ##### Validation
 
@@ -1707,6 +1713,11 @@ _Create documentation_
 - [vue-styleguidist ![GitHub Repo Stars](https://img.shields.io/github/stars/vue-styleguidist/vue-styleguidist) ![GitHub last commit](https://img.shields.io/github/last-commit/vue-styleguidist/vue-styleguidist)](https://github.com/vue-styleguidist/vue-styleguidist) - A style guide generator for Vue components with a living style guide.
 - [vuese ![GitHub Repo Stars](https://img.shields.io/github/stars/vuese/vuese) ![GitHub last commit](https://img.shields.io/github/last-commit/vuese/vuese)](https://github.com/vuese/vuese) - One-stop solution for vue component documentation.
 - [Vue Cheatsheet](https://vue-cheatsheet.themeselection.com/) - The only Vue cheatsheet you will ever need
+- [Heroshot ![GitHub Repo Stars](https://img.shields.io/github/stars/omachala/heroshot) ![GitHub last commit](https://img.shields.io/github/last-commit/omachala/heroshot)](https://github.com/omachala/heroshot) - Automate documentation screenshots with Vue component integration and theme-aware output.
+
+_Browse documentation_
+
+- [Dash](https://kapeli.com/dash) - Offline API documentation browser for macOS with instant search access to Vue.js docs and 200+ other frameworks.
 
 #### Test
 
