@@ -1422,7 +1422,7 @@ If you come across websites offering pirated software or cracks, please post [HE
 * [alternativeTo](http://alternativeto.net/) - Also a very nice community. If you are looking for some alternative apps **FOR** Windows or another platform, check this site.
 * [Slant](https://www.slant.co) - I personally recommend this. This is a platform where you can compare apps side-by-side, you might get an idea by seeing other users recommendations. Please contribute if you find an application from this list!
 * Also, [Quora](https://www.quora.com/), [Reddit](https://www.reddit.com), you know the drill.
-* App Shopper：[http://appshopper.com/](http://appshopper.com/)
+* App Shopper���[http://appshopper.com/](http://appshopper.com/)
 * [Buy software, once](https://buyoncesoftware.com/) - The place to find all the software you can buy one time, and own for a lifetime.
 * [Open Alternative](https://openalternative.co/) - Discover Open Source Alternatives to Popular Software. A curated collection of the best open source alternatives to everyday SaaS products. Save money with reliable tools hand-picked for you.
 * MacUpdate：[https://www.macupdate.com/](https://www.macupdate.com/)
