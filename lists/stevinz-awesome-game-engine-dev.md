@@ -705,7 +705,7 @@ _Language specific game engine development libraries / frameworks / code._
 - Haxe: Libraries
     - 📚 [HaxeLibs](https://lib.haxe.org/all) - List of every library uploaded to the Haxe website.
     - 📚 [HaxeTink](https://github.com/haxetink) - Various addon libraries for Haxe.
-    - 🌎 [Snowkit](https://github.com/snowkit) - Collective of Haxe developers.
+    - ���� [Snowkit](https://github.com/snowkit) - Collective of Haxe developers.
 - Haxe: Physics
     - 🎉 [Haxe Bullet ![GitHub Repo Stars](https://img.shields.io/github/stars/armory3d/haxebullet) ![GitHub last commit](https://img.shields.io/github/last-commit/armory3d/haxebullet)](https://github.com/armory3d/haxebullet) - _Bullet 3D_ physics bindings for Haxe.
     - 🎉 [HeapsIO/bullet ![GitHub Repo Stars](https://img.shields.io/github/stars/HeapsIO/bullet) ![GitHub last commit](https://img.shields.io/github/last-commit/HeapsIO/bullet)](https://github.com/HeapsIO/bullet) - _Bullet 3D_ physics for _Heaps_ (Haxe's native low-level game framework).
@@ -1196,7 +1196,7 @@ _Exploring specialty game engine / game development topics and features._
 - 📚 [Scriptorium ![GitHub Repo Stars](https://img.shields.io/github/stars/r-lyeh-archived/scriptorium) ![GitHub last commit](https://img.shields.io/github/last-commit/r-lyeh-archived/scriptorium)](https://github.com/r-lyeh-archived/scriptorium) - Game scripting languages benchmarked.
 
 ### Shaders
-- 📚 [3D Game Shaders For Beginners](https://lettier.github.io/3d-game-shaders-for-beginners/index.html) ��� - Shaders to improve your games. [[Source ![GitHub Repo Stars](https://img.shields.io/github/stars/lettier/3d-game-shaders-for-beginners) ![GitHub last commit](https://img.shields.io/github/last-commit/lettier/3d-game-shaders-for-beginners)](https://github.com/lettier/3d-game-shaders-for-beginners)]
+- 📚 [3D Game Shaders For Beginners](https://lettier.github.io/3d-game-shaders-for-beginners/index.html) 🔥 - Shaders to improve your games. [[Source ![GitHub Repo Stars](https://img.shields.io/github/stars/lettier/3d-game-shaders-for-beginners) ![GitHub last commit](https://img.shields.io/github/last-commit/lettier/3d-game-shaders-for-beginners)](https://github.com/lettier/3d-game-shaders-for-beginners)]
 - 📚 [Book of Shaders](https://thebookofshaders.com) 🔥 - Step-by-step guide through [Fragment Shaders](https://www.khronos.org/opengl/wiki/Fragment_Shader). [[Source ![GitHub Repo Stars](https://img.shields.io/github/stars/patriciogonzalezvivo/thebookofshaders) ![GitHub last commit](https://img.shields.io/github/last-commit/patriciogonzalezvivo/thebookofshaders)](https://github.com/patriciogonzalezvivo/thebookofshaders)]
 - 🎉 [CrossShader ![GitHub Repo Stars](https://img.shields.io/github/stars/alaingalvan/CrossShader) ![GitHub last commit](https://img.shields.io/github/last-commit/alaingalvan/CrossShader)](https://github.com/alaingalvan/CrossShader) - Cross-compiling shaders between GLSL, HLSL, Metal, and more. [[Online Tool](https://alain.xyz/libraries/crossshader)]
 - 🌎 [Geeks3D Shader Library](https://www.geeks3d.com/shader-library/) - Postprocessing, lighting, utlities and many more.

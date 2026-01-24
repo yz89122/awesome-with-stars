@@ -2018,6 +2018,7 @@ See also [Are we game yet?](https://arewegameyet.rs)
 * [chromium/chromiumos/platform/crosvm](https://chromium.googlesource.com/chromiumos/platform/crosvm/) - CrOSVM Enables Chrome OS to run Linux apps inside a fast, secure virtualized environment
 * [oxidecomputer/propolis ![GitHub Repo Stars](https://img.shields.io/github/stars/oxidecomputer/propolis) ![GitHub last commit](https://img.shields.io/github/last-commit/oxidecomputer/propolis)](https://github.com/oxidecomputer/propolis) - Userspace program for illumos bhyve kernel modules
 * [saurvs/hypervisor-rs ![GitHub Repo Stars](https://img.shields.io/github/stars/saurvs/hypervisor-rs) ![GitHub last commit](https://img.shields.io/github/last-commit/saurvs/hypervisor-rs)](https://github.com/saurvs/hypervisor-rs) - Hardware-accelerated virtualization on OS X
+* [wasmi-labs/wasmi ![GitHub Repo Stars](https://img.shields.io/github/stars/wasmi-labs/wasmi) ![GitHub last commit](https://img.shields.io/github/last-commit/wasmi-labs/wasmi)](https://github.com/wasmi-labs/wasmi) - A lightweight runtime for WebAssembly
 
 ### Web programming
 
