@@ -307,6 +307,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 - [terraform-provider-uname ![GitHub Repo Stars](https://img.shields.io/github/stars/julienlevasseur/terraform-provider-uname) ![GitHub last commit](https://img.shields.io/github/last-commit/julienlevasseur/terraform-provider-uname)](https://github.com/julienlevasseur/terraform-provider-uname) - Uname Provider for Terraform.
 - [terraform-provider-value ![GitHub Repo Stars](https://img.shields.io/github/stars/pseudo-dynamic/terraform-provider-value) ![GitHub last commit](https://img.shields.io/github/last-commit/pseudo-dynamic/terraform-provider-value)](https://github.com/pseudo-dynamic/terraform-provider-value) - Value Provider for Terraform.
 - [terraform-provider-multipass ![GitHub Repo Stars](https://img.shields.io/github/stars/todoroff/terraform-provider-multipass) ![GitHub last commit](https://img.shields.io/github/last-commit/todoroff/terraform-provider-multipass)](https://github.com/todoroff/terraform-provider-multipass) - Terraform provider for Multipass.
+- [terraform-provider-plancost ![GitHub Repo Stars](https://img.shields.io/github/stars/plancost/terraform-provider-plancost) ![GitHub last commit](https://img.shields.io/github/last-commit/plancost/terraform-provider-plancost)](https://github.com/plancost/terraform-provider-plancost) - Terraform provider for Azure cost estimation and cost guardrails.
 
 ## Testing
 

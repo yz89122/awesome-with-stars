@@ -116,6 +116,7 @@ Thanks to all [contributors ![GitHub Repo Stars](https://img.shields.io/github/s
 * [Scorelib](http://scorelib.sapp.org/) - a C++ library for parsing SCORE data files.
 * [Tbon ![GitHub Repo Stars](https://img.shields.io/github/stars/Michael-F-Ellis/tbon) ![GitHub last commit](https://img.shields.io/github/last-commit/Michael-F-Ellis/tbon)](https://github.com/Michael-F-Ellis/tbon) - Typographic Beat-Oriented Notation for music.
 * [Unison](https://unisonofficial.com/html/user-documentation.html?title=unison-editor) - Proprietary software for creating music score with words.
+* [VectorScore ![GitHub Repo Stars](https://img.shields.io/github/stars/DrakeB1234/VectorScore) ![GitHub last commit](https://img.shields.io/github/last-commit/DrakeB1234/VectorScore)](https://github.com/DrakeB1234/VectorScore) - Lightweight, SVG-based music notation library for TypeScript under MIT license.
 * [Verovio ![GitHub Repo Stars](https://img.shields.io/github/stars/rism-ch/verovio) ![GitHub last commit](https://img.shields.io/github/last-commit/rism-ch/verovio)](https://github.com/rism-ch/verovio) - a library and a toolkit for engraving MEI music notation into SVG.
 * [Vexflow ![GitHub Repo Stars](https://img.shields.io/github/stars/0xfe/vexflow) ![GitHub last commit](https://img.shields.io/github/last-commit/0xfe/vexflow)](https://github.com/0xfe/vexflow) - a JavaScript library for rendering music notation and guitar tablature.
 
