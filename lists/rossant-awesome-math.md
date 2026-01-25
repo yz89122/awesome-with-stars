@@ -228,7 +228,7 @@ All resources are freely available except those with a 💲 icon.
 
 * 📝 [Sets, Relations, Functions](http://www.cosc.brocku.ca/~duentsch/papers/methprimer1.html) - Ivo Düntsch, Günther Gediga
 * 📝 [An Introduction to Set Theory](http://www.math.toronto.edu/weiss/set_theory.pdf) - William A. R. Weiss
-* 📝 [Set Theory and Foundations of Mathematics](http://www.settheory.net/) - Sylvain Poirier
+* �� [Set Theory and Foundations of Mathematics](http://www.settheory.net/) - Sylvain Poirier
 * 📝 [Set Theory on the Stanford Encyclopedia of Philosophy](http://plato.stanford.edu/entries/set-theory/)
 
 ### Logic
@@ -267,7 +267,7 @@ All resources are freely available except those with a 💲 icon.
 * 📝 [Proofs and Types](http://www.paultaylor.eu/stable/prot.pdf) - Jean-Yves Girard
 * 📝 [Intuitionistic Type Theory](https://archive-pml.github.io/martin-lof/pdfs/Bibliopolis-Book-retypeset-1984.pdf) - Per Martin-Lof
 * 📝 [Type Theory and Functional Programming](https://www.cs.kent.ac.uk/people/staff/sjt/TTFP/) - Simon Thompson
-* ���� [Programming in Martin-Lof’s Type Theory](http://www.cse.chalmers.se/research/group/logic/book/book.pdf) - Bengt Nordstrom, Kent Petersson, Jan M. Smith
+* 📝 [Programming in Martin-Lof’s Type Theory](http://www.cse.chalmers.se/research/group/logic/book/book.pdf) - Bengt Nordstrom, Kent Petersson, Jan M. Smith
 
 ### Homotopy Type Theory
 
@@ -441,7 +441,7 @@ All resources are freely available except those with a 💲 icon.
 * 📝 [A Concise Course in Algebraic Topology](http://www.math.uchicago.edu/~may/CONCISE/ConciseRevised.pdf) - J. P. May
 * 📝 [Introduction to Algebraic Topology](http://www.math.muni.cz/~cadek/at/at.pdf) - Martin Cadek
 * 📝 [Algebra and Topology](http://webusers.imj-prg.fr/~pierre.schapira/lectnotes/AlTo.pdf) - Pierre Schapira (Paris VI University)
-* 📝 [Lecture Notes in Algebraic Topology](http://www.indiana.edu/~jfdavis/teaching/m623/book.pdf) - James F. Davis, Paul Kirk (Indiana University)
+* �� [Lecture Notes in Algebraic Topology](http://www.indiana.edu/~jfdavis/teaching/m623/book.pdf) - James F. Davis, Paul Kirk (Indiana University)
 * 📝 [Algebraic Topology](https://www.ma.utexas.edu/ibl1/courses/resources/12_15_07_grad_alg_top_mooremethod.pdf) - Michael Starbird
 * 📝 [Lecture Notes on Algebraic Topology](http://www.math.nus.edu.sg/~matwujie/ma5209.pdf) - Jie Wu
 
