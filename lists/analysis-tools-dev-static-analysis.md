@@ -294,7 +294,7 @@ Also check out the sister project, [awesome-dynamic-analysis ![GitHub Repo Stars
 
 - [SonarAnalyzer.CSharp ![GitHub Repo Stars](https://img.shields.io/github/stars/SonarSource/sonar-dotnet) ![GitHub last commit](https://img.shields.io/github/last-commit/SonarSource/sonar-dotnet)](https://github.com/SonarSource/sonar-dotnet) — These Roslyn analyzers allow you to produce Clean Code that is safe, reliable, and maintainable by helping you find and correct bugs, vulnerabilities, and code smells in your codebase.
 
-- **VSDiagnostics** :warning: ��� A collection of static analyzers based on Roslyn that integrates with VS.
+- **VSDiagnostics** :warning: — A collection of static analyzers based on Roslyn that integrates with VS.
 
 - [Wintellect.Analyzers ![GitHub Repo Stars](https://img.shields.io/github/stars/Wintellect/Wintellect.Analyzers) ![GitHub last commit](https://img.shields.io/github/last-commit/Wintellect/Wintellect.Analyzers)](https://github.com/Wintellect/Wintellect.Analyzers) — .NET Compiler Platform ("Roslyn") diagnostic analyzers and code fixes.
 
@@ -2427,7 +2427,7 @@ TruffleHog is an open source secret-scanning engine that resolves exposed secret
 
 - [codespell ![GitHub Repo Stars](https://img.shields.io/github/stars/codespell-project/codespell) ![GitHub last commit](https://img.shields.io/github/last-commit/codespell-project/codespell)](https://github.com/codespell-project/codespell) — Check code for common misspellings.
 
-- [languagetool](https://languagetool.org) — Style and grammar checker for 25+ languages. It finds many errors that a simple spell checker cannot detect.
+- [languagetool](https://languagetool.org) �� Style and grammar checker for 25+ languages. It finds many errors that a simple spell checker cannot detect.
 
 - [misspell-fixer ![GitHub Repo Stars](https://img.shields.io/github/stars/vlajos/misspell-fixer) ![GitHub last commit](https://img.shields.io/github/last-commit/vlajos/misspell-fixer)](https://github.com/vlajos/misspell-fixer) — Quick tool for fixing common misspellings, typos in source code.
 
