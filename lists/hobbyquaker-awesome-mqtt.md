@@ -448,6 +448,7 @@ Here are complete firmwares to turn them into MQTT-controlled smart home nodes:
 ### Misc
 
 - [AlexaMqttBridge ![GitHub Repo Stars](https://img.shields.io/github/stars/mhdawson/AlexaMqttBridge) ![GitHub last commit](https://img.shields.io/github/last-commit/mhdawson/AlexaMqttBridge)](https://github.com/mhdawson/AlexaMqttBridge) - Bridge between Amazon Alexa and MQTT.
+- [anpr2mqtt](https://anpr2mqtt.rhizomatics.org.uk) - Listen for images on file server, analyze and create Home Assistant entities via MQTT Discovery.
 - [bt-mqtt-gateway ![GitHub Repo Stars](https://img.shields.io/github/stars/zewelor/bt-mqtt-gateway) ![GitHub last commit](https://img.shields.io/github/last-commit/zewelor/bt-mqtt-gateway)](https://github.com/zewelor/bt-mqtt-gateway) - Easily extensible Bluetooth to MQTT gateway, currently supports: EQ3 smart thermostat, Xiaomi Mi Scale, Linak Desk, MySensors and Xiaomi Mi Flora plant sensor.
 - [buderus2mqtt ![GitHub Repo Stars](https://img.shields.io/github/stars/krambox/buderus2mqtt) ![GitHub last commit](https://img.shields.io/github/last-commit/krambox/buderus2mqtt)](https://github.com/krambox/buderus2mqtt) - Bridge between Buderus KM200 internet gateway and MQTT.
 - [chrome2mqtt ![GitHub Repo Stars](https://img.shields.io/github/stars/tbowmo/chrome2mqtt) ![GitHub last commit](https://img.shields.io/github/last-commit/tbowmo/chrome2mqtt)](https://github.com/tbowmo/chrome2mqtt) - Python program to enable MQTT control endpoints for chromecasts (both audio and video).
