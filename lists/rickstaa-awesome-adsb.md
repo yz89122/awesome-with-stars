@@ -141,6 +141,7 @@ A curated list of awesome [ASD-B](https://en.wikipedia.org/wiki/Automatic_Depend
 - [flightmon ![GitHub Repo Stars](https://img.shields.io/github/stars/mik3y/flightmon) ![GitHub last commit](https://img.shields.io/github/last-commit/mik3y/flightmon)](https://github.com/mik3y/flightmon) - Simple command-line "GUI" for showing current dump1090/readsb data.
 - [sdr-enthusiasts/plane-alert-db ![GitHub Repo Stars](https://img.shields.io/github/stars/sdr-enthusiasts/plane-alert-db) ![GitHub last commit](https://img.shields.io/github/last-commit/sdr-enthusiasts/plane-alert-db)](https://github.com/sdr-enthusiasts/plane-alert-db) - A list of exciting aircraft - Governments, Dictators, Military, Historical and just plain odd.
 - [junzis/pyModeS ![GitHub Repo Stars](https://img.shields.io/github/stars/junzis/pyModeS) ![GitHub last commit](https://img.shields.io/github/last-commit/junzis/pyModeS)](https://github.com/junzis/pyModeS) - A python decoder for Mode S and ADS-B signals.
+- [adsb_actions ![GitHub Repo Stars](https://img.shields.io/github/stars/eastham/adsb_actions) ![GitHub last commit](https://img.shields.io/github/last-commit/eastham/adsb_actions)](https://github.com/eastham/adsb_actions) - Python tool to detect, act on, and visualize ADS-B traffic and events.
 
 ### Feeding
 
