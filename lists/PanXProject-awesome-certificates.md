@@ -354,7 +354,7 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 | <a href="https://tutorials.nmdprojects.net/play.html?illustrator_manage_color" target="_blank" rel="noopener noreferrer">Manage color in Illustrator</a> | UMaine New Media | Beginner| 0.11 | 🏅 |
 | <a href="https://tutorials.nmdprojects.net/play.html?illustrator_apply_strokes_fills" target="_blank" rel="noopener noreferrer">Apply strokes and fills in Illustrator</a> | UMaine New Media | Beginner| 0.1 | 🏅 |
 | <a href="https://tutorials.nmdprojects.net/play.html?illustrator_apply_gradient" target="_blank" rel="noopener noreferrer">Apply gradient in Illustrator</a> | UMaine New Media | intermediate| 0.1 | 🏅 |
-| <a href="https://tutorials.nmdprojects.net/play.html?make_infographic_illustrator_1" target="_blank" rel="noopener noreferrer">How to make an Infographic in Illustrator 1</a> | UMaine New Media | Beginner| 0.22 | ���� |
+| <a href="https://tutorials.nmdprojects.net/play.html?make_infographic_illustrator_1" target="_blank" rel="noopener noreferrer">How to make an Infographic in Illustrator 1</a> | UMaine New Media | Beginner| 0.22 | 🏅 |
 | <a href="https://tutorials.nmdprojects.net/play.html?make_infographic_illustrator_2" target="_blank" rel="noopener noreferrer">How to make an Infographic in Illustrator 2</a> | UMaine New Media | Beginner| 0.2 | 🏅 |
 
 <a href="https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents" target="_blank" rel="noopener noreferrer">⬆️</a>
@@ -375,7 +375,7 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 | Course Name | Course Provider | Level | Hour(s) | Reward |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
 | <a href="https://cognitiveclass.ai/learn/containers-k8s-and-istio-on-ibm-cloud" target="_blank" rel="noopener noreferrer">Containers, K8s and Istio on IBM cloud</a> | IBM / Cognitive Class |Beginner|9 | <a href="https://www.youracclaim.com/org/ibm/badge/containers-k8s-and-istio-on-ibm-cloud" target="_blank" rel="noopener noreferrer">🏅</a>|
-| <a href="https://cognitiveclass.ai/courses/docker-essentials" target="_blank" rel="noopener noreferrer">Docker Essentials</a> | IBM / Cognitive Class |Beginner|4 | <a href="https://www.youracclaim.com/org/ibm/badge/docker-essentials-a-developer-introduction" target="_blank" rel="noopener noreferrer">🏅</a>|
+| <a href="https://cognitiveclass.ai/courses/docker-essentials" target="_blank" rel="noopener noreferrer">Docker Essentials</a> | IBM / Cognitive Class |Beginner|4 | <a href="https://www.youracclaim.com/org/ibm/badge/docker-essentials-a-developer-introduction" target="_blank" rel="noopener noreferrer">��</a>|
 | <a href="https://cognitiveclass.ai/courses/kubernetes-course" target="_blank" rel="noopener noreferrer">Introduction to Containers, Kubernetes, and OpenShift</a> | IBM / Cognitive Class |Beginner|3 | <a href="https://www.youracclaim.com/org/ibm/badge/containers-kubernetes-essentials" target="_blank" rel="noopener noreferrer">🏅</a>|
 | <a href="https://cloud.layer5.io/academy/certifications/c5ada327-8a58-4c8a-b9fa-51b95696488c/certified-meshery-contributor" target="_blank" rel="noopener noreferrer">Certified Meshery Contributor</a> | Meshery |Beginner|2.5 | <a href="https://www.cncf.io/blog/2025/10/27/announcing-the-certified-meshery-contributor-cmc/" target="_blank" rel="noopener noreferrer">🏅</a>|
 
