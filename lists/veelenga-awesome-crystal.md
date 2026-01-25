@@ -211,6 +211,7 @@ described in [RFC 8032]
  * [JSON::OnSteroids ![GitHub Repo Stars](https://img.shields.io/github/stars/anykeyh/json_on_steroids) ![GitHub last commit](https://img.shields.io/github/last-commit/anykeyh/json_on_steroids)](https://github.com/anykeyh/json_on_steroids) - handle and mutate JSON document easily
  * [maxminddb.cr ![GitHub Repo Stars](https://img.shields.io/github/stars/delef/maxminddb.cr) ![GitHub last commit](https://img.shields.io/github/last-commit/delef/maxminddb.cr)](https://github.com/delef/maxminddb.cr) - MaxMindDB reader
  * [toml.cr ![GitHub Repo Stars](https://img.shields.io/github/stars/crystal-community/toml.cr) ![GitHub last commit](https://img.shields.io/github/last-commit/crystal-community/toml.cr)](https://github.com/crystal-community/toml.cr) - TOML parser
+ * [toon-crystal ![GitHub Repo Stars](https://img.shields.io/github/stars/mamantoha/toon-crystal) ![GitHub last commit](https://img.shields.io/github/last-commit/mamantoha/toon-crystal)](https://github.com/mamantoha/toon-crystal) - TOON (Token-Oriented Object Notation) parser
  * [XML](https://crystal-lang.org/api/XML.html) - parsing and generating XML documents (Crystal stdlib)
  * [YAML](https://crystal-lang.org/api/YAML.html) - parsing and generating YAML documents (Crystal stdlib)
 
