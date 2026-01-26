@@ -1061,6 +1061,7 @@ then it is not supported:
 - [Axot017/multiterm.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/Axot017/multiterm.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/Axot017/multiterm.nvim)](https://github.com/Axot017/multiterm.nvim) - A lightweight manager of multiple terminal instances with key bindings.
 - [da-moon/telescope-toggleterm.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/da-moon/telescope-toggleterm.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/da-moon/telescope-toggleterm.nvim)](https://github.com/da-moon/telescope-toggleterm.nvim) - Telescope picker for terminal buffers.
 - [benoror/gpg.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/benoror/gpg.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/benoror/gpg.nvim)](https://github.com/benoror/gpg.nvim) - Edit GPG encrypted files symmetrically.
+- [gh-liu/nvim-winterm ![GitHub Repo Stars](https://img.shields.io/github/stars/gh-liu/nvim-winterm) ![GitHub last commit](https://img.shields.io/github/last-commit/gh-liu/nvim-winterm)](https://github.com/gh-liu/nvim-winterm) - Multi-terminal window manager.
 <!--lint disable double-link -->
 [**⬆ back to top**](#contents)
 <!--lint enable double-link -->
@@ -1471,6 +1472,7 @@ then it is not supported:
 - [kevinhwang91/nvim-ufo ![GitHub Repo Stars](https://img.shields.io/github/stars/kevinhwang91/nvim-ufo) ![GitHub last commit](https://img.shields.io/github/last-commit/kevinhwang91/nvim-ufo)](https://github.com/kevinhwang91/nvim-ufo) - Ultra fold with modern looking and performance boosting.
 - [chrisgrieser/nvim-origami ![GitHub Repo Stars](https://img.shields.io/github/stars/chrisgrieser/nvim-origami) ![GitHub last commit](https://img.shields.io/github/last-commit/chrisgrieser/nvim-origami)](https://github.com/chrisgrieser/nvim-origami) - Fold with relentless elegance.
 - [malbertzard/inline-fold.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/malbertzard/inline-fold.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/malbertzard/inline-fold.nvim)](https://github.com/malbertzard/inline-fold.nvim) - Hide certain elements inline like long CSS classes or `href` content.
+- [netmute/foldchanged.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/netmute/foldchanged.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/netmute/foldchanged.nvim)](https://github.com/netmute/foldchanged.nvim) - Adds a `FoldChanged` User event.
 - [netmute/foldsigns.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/netmute/foldsigns.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/netmute/foldsigns.nvim)](https://github.com/netmute/foldsigns.nvim) - Adds fold markers to sign column to make folds more visible while editing.
 <!--lint disable double-link -->
 [**⬆ back to top**](#contents)
