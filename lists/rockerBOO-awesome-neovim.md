@@ -1006,6 +1006,7 @@ then it is not supported:
 - [wsdjeg/ctags.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/wsdjeg/ctags.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/wsdjeg/ctags.nvim)](https://github.com/wsdjeg/ctags.nvim) - Generate tags files and update tags option automatically.
 - [leo-alvarenga/quoth.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/leo-alvarenga/quoth.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/leo-alvarenga/quoth.nvim)](https://github.com/leo-alvarenga/quoth.nvim) - A lightweight, configurable random quote provider with lazy loading, custom tables, and filters.
 - [stikypiston/cheaty.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/stikypiston/cheaty.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/stikypiston/cheaty.nvim)](https://github.com/stikypiston/cheaty.nvim) - A simple, configurable cheatsheet.
+- [stikypiston/unobtrusive-relnums.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/stikypiston/unobtrusive-relnums) ![GitHub last commit](https://img.shields.io/github/last-commit/stikypiston/unobtrusive-relnums)](https://github.com/stikypiston/unobtrusive-relnums) - Unobtrusive relative line numbers in the sign column.
 
 ### CSV Files
 
