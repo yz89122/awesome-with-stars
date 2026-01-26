@@ -237,7 +237,7 @@ System integration is the process of linking together different IT systems (com
 - [JSONata (⭐2.5k) ![GitHub Repo Stars](https://img.shields.io/github/stars/jsonata-js/jsonata) ![GitHub last commit](https://img.shields.io/github/last-commit/jsonata-js/jsonata)](https://github.com/jsonata-js/jsonata) - Lightweight query and transformation language for JSON data.
 
 <!--lint disable-->
-**[�� back to top](#contents)**
+**[⬆ back to top](#contents)**
 <!--lint enable-->
 ### Enterprise Service Bus
 *Enterprise Service Bus (ESB) solutions facilitate the integration of disparate systems and applications by providing a communication layer that allows them to exchange information. ESBs offer a range of capabilities such as message routing, transformation, protocol conversion, and data mediation. They typically support various messaging patterns and communication protocols and provide a centralized platform for managing and monitoring message traffic.*
