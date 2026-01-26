@@ -189,7 +189,7 @@ Claude Code is a CLI-based coding assistant from [Anthropic](https://www.anthrop
 
 <br>
 
-## Status Lines ���
+## Status Lines 📊
 
 > Status lines - Configurations and customizations for Claude Code's status bar functionality
 
