@@ -523,7 +523,7 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 | <a href="https://www.hackerrank.com/skills-verification/python_basic" target="_blank" rel="noopener noreferrer">Python</a> | HackerRank |Beginner| 1.5 | 🏆|
 | <a href="https://memgraph.com/blog/learn-graph-analytics-with-python" target="_blank" rel="noopener noreferrer">Intro to Graph Analytics in Python free course</a> | Memgraph |Intermediate| 3 | 🏅|
 | <a href="https://www.kaggle.com/learn/python" target="_blank" rel="noopener noreferrer">Python</a>                                        | Kaggle          | Beginner      | 5     | 🏆     |
-| <a href="https://www.kaggle.com/learn/pandas" target="_blank" rel="noopener noreferrer">Pandas</a>                                      | Kaggle          | Beginner      | 4     | ����     |
+| <a href="https://www.kaggle.com/learn/pandas" target="_blank" rel="noopener noreferrer">Pandas</a>                                      | Kaggle          | Beginner      | 4     | 🏆     |
 | <a href="https://www.kaggle.com/learn/intro-to-programming" target="_blank" rel="noopener noreferrer">Intro to Programming</a>           | Kaggle          | Beginner      | 5     | 🏆     |
 
 <a href="https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents" target="_blank" rel="noopener noreferrer">⬆️</a>
