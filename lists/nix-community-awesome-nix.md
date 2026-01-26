@@ -80,7 +80,7 @@
 
 ### Discovery
 
-* [Home Manager Option Search](https://mipmip.github.io/home-manager-option-search/) - Search through all 2000+ Home Manager options and read how to use them.
+* [Home Manager Option Search](https://home-manager-options.extranix.com/) - Search through all 2000+ Home Manager options and read how to use them.
 <!-- * [Hound](https://search.nix.gsc.io) - Handily search across all or selected Nix-related repositories. -->
 * [Nix Package Versions](https://lazamar.co.uk/nix-versions/) - Find all versions of a package that were available in a channel and the revision you can download it from.
 * [nix-search-tv ![GitHub Repo Stars](https://img.shields.io/github/stars/3timeslazy/nix-search-tv) ![GitHub last commit](https://img.shields.io/github/last-commit/3timeslazy/nix-search-tv)](https://github.com/3timeslazy/nix-search-tv) - CLI fuzzy finder for packages and options from Nixpkgs, Home Manager, and more.
@@ -99,8 +99,8 @@
 
 ## Channel History
 
-* [Channel History](https://channels.nix.gsc.io) - Get historical git commits for Nix channels.
-* [Nix Infra Status](https://status.nixos.org) - Get the age and current git commit of each Nix channel.
+* [Channel History](https://channels.nix.gsc.io) - Get historical Git commits for Nix channels.
+* [Nix Infra Status](https://status.nixos.org) - Get the age and current Git commit of each Nix channel.
 * [Nix Review Tools Reports](https://malob.github.io/nix-review-tools-reports/) - Reports showing problematic dependencies (dependencies causing the most failed builds) for major Hydra jobsets.
 <!-- * [Nixpkgs Bot](https://git.maralorn.de/nixos-config/tree/packages/nixpkgs-bot) - A Matrix bot to track when a Nixpkgs pull request reaches a relevant branch. -->
 * [nixpkgs PR tracker](https://nixpk.gs/pr-tracker.html) - A tracker for whether a PR has made it into a channel yet.
@@ -188,7 +188,7 @@
 * [nixpkgs-review ![GitHub Repo Stars](https://img.shields.io/github/stars/Mic92/nixpkgs-review) ![GitHub last commit](https://img.shields.io/github/last-commit/Mic92/nixpkgs-review)](https://github.com/Mic92/nixpkgs-review) - The best tool to verify that a pull-request in Nixpkgs is building properly.
 * [Nixtest](https://gitlab.com/TECHNOFAB/nixtest) - Testing framework for Nix, with snapshot and unit test support, JUnit generation etc.
 * [npins ![GitHub Repo Stars](https://img.shields.io/github/stars/andir/npins) ![GitHub last commit](https://img.shields.io/github/last-commit/andir/npins)](https://github.com/andir/npins) - A simple tool for handling different types of dependencies in a Nix project. It is inspired by and comparable to Niv.
-* [pog ![GitHub Repo Stars](https://img.shields.io/github/stars/jpetrucciani/pog) ![GitHub last commit](https://img.shields.io/github/last-commit/jpetrucciani/pog)](https://github.com/jpetrucciani/pog) - A new, powerful way to do bash scripts. Pog is a powerful Nix library that transforms the way developers create command-line interfaces (CLIs). 
+* [pog ![GitHub Repo Stars](https://img.shields.io/github/stars/jpetrucciani/pog) ![GitHub last commit](https://img.shields.io/github/last-commit/jpetrucciani/pog)](https://github.com/jpetrucciani/pog) - A new, powerful way to do bash scripts. Pog is a powerful Nix library that transforms the way developers create command-line interfaces (CLIs).
 * [pre-commit-hooks.nix ![GitHub Repo Stars](https://img.shields.io/github/stars/cachix/git-hooks.nix) ![GitHub last commit](https://img.shields.io/github/last-commit/cachix/git-hooks.nix)](https://github.com/cachix/git-hooks.nix) - Run linters/formatters at commit time and on your CI.
 * [rnix-lsp ![GitHub Repo Stars](https://img.shields.io/github/stars/nix-community/rnix-lsp) ![GitHub last commit](https://img.shields.io/github/last-commit/nix-community/rnix-lsp)](https://github.com/nix-community/rnix-lsp) - A syntax-checking language server for Nix.
 * [robotnix ![GitHub Repo Stars](https://img.shields.io/github/stars/nix-community/robotnix) ![GitHub last commit](https://img.shields.io/github/last-commit/nix-community/robotnix)](https://github.com/nix-community/robotnix) - A declarative and reproducible build system for Android (AOSP) images.
@@ -310,7 +310,7 @@
 * [nix-topology ![GitHub Repo Stars](https://img.shields.io/github/stars/oddlama/nix-topology) ![GitHub last commit](https://img.shields.io/github/last-commit/oddlama/nix-topology)](https://github.com/oddlama/nix-topology) - Generate infrastructure and network diagrams directly from your NixOS configuration.
 * [NixOS hardware ![GitHub Repo Stars](https://img.shields.io/github/stars/NixOS/nixos-hardware) ![GitHub last commit](https://img.shields.io/github/last-commit/NixOS/nixos-hardware)](https://github.com/NixOS/nixos-hardware) - NixOS profiles to optimize settings for different hardware.
 * [NixOS-WSL ![GitHub Repo Stars](https://img.shields.io/github/stars/nix-community/NixOS-WSL) ![GitHub last commit](https://img.shields.io/github/last-commit/nix-community/NixOS-WSL)](https://github.com/nix-community/NixOS-WSL) - Modules for running NixOS on the Windows Subsystem for Linux.
-* [NixVim ![GitHub Repo Stars](https://img.shields.io/github/stars/nix-community/nixvim) ![GitHub last commit](https://img.shields.io/github/last-commit/nix-community/nixvim)](https://github.com/nix-community/nixvim) - A NeoVim distribution built with Nix modules and Nixpkgs.
+* [NixVim ![GitHub Repo Stars](https://img.shields.io/github/stars/nix-community/nixvim) ![GitHub last commit](https://img.shields.io/github/last-commit/nix-community/nixvim)](https://github.com/nix-community/nixvim) - A Neovim distribution built with Nix modules and Nixpkgs.
 * [Self Host Blocks ![GitHub Repo Stars](https://img.shields.io/github/stars/ibizaman/selfhostblocks) ![GitHub last commit](https://img.shields.io/github/last-commit/ibizaman/selfhostblocks)](https://github.com/ibizaman/selfhostblocks) - Modular server management based on NixOS modules and focused on best practices.
 * [Simple Nixos Mailserver](https://gitlab.com/simple-nixos-mailserver/nixos-mailserver) - A complete mailserver, managed with NixOS modules.
 * [Stylix ![GitHub Repo Stars](https://img.shields.io/github/stars/nix-community/stylix) ![GitHub last commit](https://img.shields.io/github/last-commit/nix-community/stylix)](https://github.com/nix-community/stylix) - System-wide colorscheming and typography for NixOS.

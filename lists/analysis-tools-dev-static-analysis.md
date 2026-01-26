@@ -2427,7 +2427,7 @@ TruffleHog is an open source secret-scanning engine that resolves exposed secret
 
 - [codespell ![GitHub Repo Stars](https://img.shields.io/github/stars/codespell-project/codespell) ![GitHub last commit](https://img.shields.io/github/last-commit/codespell-project/codespell)](https://github.com/codespell-project/codespell) — Check code for common misspellings.
 
-- [languagetool](https://languagetool.org) �� Style and grammar checker for 25+ languages. It finds many errors that a simple spell checker cannot detect.
+- [languagetool](https://languagetool.org) — Style and grammar checker for 25+ languages. It finds many errors that a simple spell checker cannot detect.
 
 - [misspell-fixer ![GitHub Repo Stars](https://img.shields.io/github/stars/vlajos/misspell-fixer) ![GitHub last commit](https://img.shields.io/github/last-commit/vlajos/misspell-fixer)](https://github.com/vlajos/misspell-fixer) — Quick tool for fixing common misspellings, typos in source code.
 
