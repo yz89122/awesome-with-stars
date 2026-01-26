@@ -296,6 +296,7 @@
 
 ### Zig
 
+* [zig2nix ![GitHub Repo Stars](https://img.shields.io/github/stars/Cloudef/zig2nix) ![GitHub last commit](https://img.shields.io/github/last-commit/Cloudef/zig2nix)](https://github.com/Cloudef/zig2nix) - Flake for packaging, building and running Zig projects.
 * [zon2nix ![GitHub Repo Stars](https://img.shields.io/github/stars/nix-community/zon2nix) ![GitHub last commit](https://img.shields.io/github/last-commit/nix-community/zon2nix)](https://github.com/nix-community/zon2nix) - Convert the dependencies in `build.zig.zon` to a Nix expression.
 
 ## NixOS Modules
