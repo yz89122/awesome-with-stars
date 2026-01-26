@@ -1393,7 +1393,7 @@
 
 | Players | Min. Age | Time   |
 | ------: | -------: | -----: |
-|   2–4 |        14+ | 60–120 Min |
+|   2–4 |        14+ | 60��120 Min |
 
 
 ### [Brass: Lancashire](https://boardgamegeek.com/boardgame/28720/brass-lancashire)
