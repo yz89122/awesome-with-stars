@@ -348,7 +348,7 @@
 * [ToDoList](https://abstractspoon.com/) - Feature-rich task management tool. [![Open-Source Software][oss]](https://github.com/abstractspoon/ToDoList)
 * [WordWeb](https://wordweb.info/) - Comprehensive English dictionary.
 * [Saga Reader ![GitHub Repo Stars](https://img.shields.io/github/stars/sopaco/saga-reader) ![GitHub last commit](https://img.shields.io/github/last-commit/sopaco/saga-reader)](https://github.com/sopaco/saga-reader) - A Blazing-Fast and Extremely-Lightweight Internet Reader driven by AI.Supports fetching of search engine information and RSS.
-* [EyeRest ![GitHub Repo Stars](https://img.shields.io/github/stars/necdetsanli/EyeRest) ![GitHub last commit](https://img.shields.io/github/last-commit/necdetsanli/EyeRest)](https://github.com/necdetsanli/EyeRest) - A lightweight Windows tray application that gently reminds you to follow the 20–20–20 rule:
+* [EyeRest ![GitHub Repo Stars](https://img.shields.io/github/stars/necdetsanli/EyeRest) ![GitHub last commit](https://img.shields.io/github/last-commit/necdetsanli/EyeRest)](https://github.com/necdetsanli/EyeRest) - A lightweight Windows tray application that gently reminds you to follow the 20���20–20 rule:
 every 20 minutes, look at something 20 feet (~6 meters) away for at least 20 seconds. [![Open-Source Software][oss]](https://github.com/necdetsanli/EyeRest)
 
 ## Proxy and VPN Tools

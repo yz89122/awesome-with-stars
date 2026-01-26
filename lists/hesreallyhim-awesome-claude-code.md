@@ -38,7 +38,7 @@ Claude Code is a CLI-based coding assistant from [Anthropic](https://www.anthrop
 
 ## Contents
 
-- [Agent Skills ���](#agent-skills-)
+- [Agent Skills 🤖](#agent-skills-)
   - [General](#general)
 - [Workflows & Knowledge Guides 🧠](#workflows--knowledge-guides-)
   - [General](#general-1)

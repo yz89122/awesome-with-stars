@@ -373,7 +373,7 @@ All resources are freely available except those with a 💲 icon.
 
 * 📝 [Basic Combinatorics](http://web.math.utk.edu/~wagner/papers/comb.pdf) - Carl G. Wagner (University of Tennessee)
 * 📝 [Applied Combinatorics](http://people.math.gatech.edu/~trotter/book.pdf) - Mitchel T. Keller, William T. Trotter
-* 📝 [Notes on Combinatorics](http://www.maths.qmul.ac.uk/~pjc/notes/comb.pdf) - Peter J. Cameron
+* ���� [Notes on Combinatorics](http://www.maths.qmul.ac.uk/~pjc/notes/comb.pdf) - Peter J. Cameron
 * 📝 [Analytic Combinatorics](http://algo.inria.fr/flajolet/Publications/book.pdf) - Philippe Flajolet, Robert Sedgewick
 * 📝 [generatingfunctionology](http://www.math.upenn.edu/~wilf/DownldGF.html) - Herbert Wilf
 
