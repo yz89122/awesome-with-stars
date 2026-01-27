@@ -305,7 +305,7 @@ Ground Control Stations (GCS) on laptops / tablets allow better overview of flig
 
 Your FC is focused on realtime control for maneuvers, while additional computers add ressources for more complex data processing, see also [Arudpilot.org - Companion Computers](https://ardupilot.org/dev/docs/companion-computers.html) and digital VTX systems above.
 
-* [öchìn CM4 ![GitHub Repo Stars](https://img.shields.io/github/stars/ochin-space/ochin-CM4) ![GitHub last commit](https://img.shields.io/github/last-commit/ochin-space/ochin-CM4)](https://github.com/ochin-space/ochin-CM4) - RPI Compute Module carrier board dedicated for FC
+* [öch��n CM4 ![GitHub Repo Stars](https://img.shields.io/github/stars/ochin-space/ochin-CM4) ![GitHub last commit](https://img.shields.io/github/last-commit/ochin-space/ochin-CM4)](https://github.com/ochin-space/ochin-CM4) - RPI Compute Module carrier board dedicated for FC
 * [APsync](https://ardupilot.org/dev/docs/apsync-intro.html) - Mavlink focused OS for different SBCs.
 * [RPanion](https://www.docs.rpanion.com/software/rpanion-server) - Mavlink focused RPI image.
 * [ROS ![GitHub Repo Stars](https://img.shields.io/github/stars/ros/ros) ![GitHub last commit](https://img.shields.io/github/last-commit/ros/ros)](https://github.com/ros/ros) - Robot Operating System, to handle more complex and interactive flights.
@@ -376,7 +376,7 @@ Malfunction can have dramatic consequences, as well as your drone can cause mass
 
 * [Ardupilot Copter Checklist](https://ardupilot.org/copter/docs/checklist.html).
 
-### ID Systems ���
+### ID Systems 🛂
 
 We share the airspace with other pilots. RC copters and planes are hard to spot, so it is recommend to share your position via transponder systems. This allows also tracking of illegal maneuvers.
 
