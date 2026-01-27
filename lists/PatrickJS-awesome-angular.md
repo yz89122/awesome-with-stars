@@ -1470,6 +1470,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-mat-form ![GitHub Repo Stars](https://img.shields.io/github/stars/Salromag/ngx-mat-form) ![GitHub last commit](https://img.shields.io/github/last-commit/Salromag/ngx-mat-form)](https://github.com/Salromag/ngx-mat-form) - Angular library that uses Reactive Forms and Angular Material to dynamically generate configurable forms from a schema.
 * [ng-forge ![GitHub Repo Stars](https://img.shields.io/github/stars/ng-forge/ng-forge) ![GitHub last commit](https://img.shields.io/github/last-commit/ng-forge/ng-forge)](https://github.com/ng-forge/ng-forge) - A type‑safe, dynamic forms library built for Angular’s signal‑based forms.
 * [zignal ![GitHub Repo Stars](https://img.shields.io/github/stars/biyonik/zignal) ![GitHub last commit](https://img.shields.io/github/last-commit/biyonik/zignal)](https://github.com/biyonik/zignal) - A type-safe Angular form library using signals and Zod validation, with Turkey-specific validators and multi-language support.
+* [ngx-form-stepper ![GitHub Repo Stars](https://img.shields.io/github/stars/rayaneriahi/ngx-form-stepper) ![GitHub last commit](https://img.shields.io/github/last-commit/rayaneriahi/ngx-form-stepper)](https://github.com/rayaneriahi/ngx-form-stepper) - A strongly typed Angular library for building robust multi‑step forms that prevent invalid states during development with minimal configuration.
 
 ### Form Controls
 

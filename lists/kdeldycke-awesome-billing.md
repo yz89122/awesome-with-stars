@@ -251,7 +251,7 @@ A marketplace connect supply with demand that lead to a financial transaction. I
 
 - [Papers we love: Auctions and Bidding ![GitHub Repo Stars](https://img.shields.io/github/stars/papers-we-love/papers-we-love) ![GitHub last commit](https://img.shields.io/github/last-commit/papers-we-love/papers-we-love)](https://github.com/papers-we-love/papers-we-love/tree/master/economics#auctions-and-bidding) - A collection of papers on bidding and auctions.
 
-- [Vickrey auction](https://en.wikipedia.org/wiki/Vickrey_auction) - Hinted by an [HN comment](https://news.ycombinator.com/item?id=19145391), in which yes, “‘Asking people what they'd pay for and how much rarely works.’ (…) Using a Vickrey auction, similar to Google's ad auction mechanism, can elicit a person's maximum willingness-to-pay.”
+- [Vickrey auction](https://en.wikipedia.org/wiki/Vickrey_auction) - Hinted by an [HN comment](https://news.ycombinator.com/item?id=19145391), in which yes, “‘Asking people what they'd pay for and how much rarely works.’ (…) Using a Vickrey auction, similar to Google's ad auction mechanism, can elicit a person's maximum willingness-to-pay.��
 
 - [19 Tactics to Solve the Chicken-or-Egg Problem and Grow Your Marketplace](https://www.nfx.com/post/19-marketplace-tactics-for-overcoming-the-chicken-or-egg-problem) - “Which comes first, the supply or the demand? Chicken or egg?”
 
