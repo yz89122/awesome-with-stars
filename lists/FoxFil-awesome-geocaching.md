@@ -62,4 +62,5 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ## Other
 - [pycaching](https://pypi.org/project/pycaching) - Python 3 interface for working with Geocaching.com website.
+- [Geocaching.com Friends Logs ![GitHub Repo Stars](https://img.shields.io/github/stars/rfsbraz/Geocaching.com-Friends-Logs) ![GitHub last commit](https://img.shields.io/github/last-commit/rfsbraz/Geocaching.com-Friends-Logs)](https://github.com/rfsbraz/Geocaching.com-Friends-Logs) - Browser extension that shows your friends' logs at the top of every cache listing page.
 - [GC little helper II ![GitHub Repo Stars](https://img.shields.io/github/stars/2Abendsegler/GClh) ![GitHub last commit](https://img.shields.io/github/last-commit/2Abendsegler/GClh)](https://github.com/2Abendsegler/GClh/tree/collector) - Powerful tool to enhance and extend the functionality of the geocaching website.
