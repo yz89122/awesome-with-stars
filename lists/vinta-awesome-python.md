@@ -1141,7 +1141,6 @@ _Traditional full stack web frameworks. Also see [RESTful API ![GitHub Repo Star
 - Synchronous
   - [django ![GitHub Repo Stars](https://img.shields.io/github/stars/django/django) ![GitHub last commit](https://img.shields.io/github/last-commit/django/django)](https://github.com/django/django) - The most popular web framework in Python.
     - [awesome-django ![GitHub Repo Stars](https://img.shields.io/github/stars/shahraizali/awesome-django) ![GitHub last commit](https://img.shields.io/github/last-commit/shahraizali/awesome-django)](https://github.com/shahraizali/awesome-django)
-    - [awesome-django ![GitHub Repo Stars](https://img.shields.io/github/stars/wsvincent/awesome-django) ![GitHub last commit](https://img.shields.io/github/last-commit/wsvincent/awesome-django)](https://github.com/wsvincent/awesome-django)
   - [flask ![GitHub Repo Stars](https://img.shields.io/github/stars/pallets/flask) ![GitHub last commit](https://img.shields.io/github/last-commit/pallets/flask)](https://github.com/pallets/flask) - A microframework for Python.
     - [awesome-flask ![GitHub Repo Stars](https://img.shields.io/github/stars/humiaozuzu/awesome-flask) ![GitHub last commit](https://img.shields.io/github/last-commit/humiaozuzu/awesome-flask)](https://github.com/humiaozuzu/awesome-flask)
   - [pyramid](https://pylonsproject.org/) - A small, fast, down-to-earth, open source Python web framework.
