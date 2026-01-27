@@ -1587,6 +1587,7 @@ then it is not supported:
 - [MisanthropicBit/winmove.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/MisanthropicBit/winmove.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/MisanthropicBit/winmove.nvim)](https://github.com/MisanthropicBit/winmove.nvim) - Easily move, swap, and resize windows.
 - [ycdzj/win-mover.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/ycdzj/win-mover.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/ycdzj/win-mover.nvim)](https://github.com/ycdzj/win-mover.nvim) - Window mover that avoids moving side windows.
 - [mkajsjo/windowcolumns.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/mkajsjo/windowcolumns.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/mkajsjo/windowcolumns.nvim)](https://github.com/mkajsjo/windowcolumns.nvim) - Column-first window management.
+- [aronjohanns/smooth-resize.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/aronjohanns/smooth-resize.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/aronjohanns/smooth-resize.nvim)](https://github.com/aronjohanns/smooth-resize.nvim) - Smooth, continuous window resizing with the default window resizing mappings.
 
 ### Tmux
 
