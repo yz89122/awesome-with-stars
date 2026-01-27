@@ -40,6 +40,7 @@ A curated list of awesome tools, extensions, and resources for [Gemini CLI ![Git
 -->
 
 ## :tada: New
+- [vsync ![GitHub Repo Stars](https://img.shields.io/github/stars/nicepkg/vsync) ![GitHub last commit](https://img.shields.io/github/last-commit/nicepkg/vsync)](https://github.com/nicepkg/vsync) - Sync Skills, MCP servers, Agents & Commands across Claude Code, Cursor, OpenCode, Codex, and Gemini CLI with automatic format conversion (JSON ↔ TOML ↔ JSONC).
 - [Pickle Rick ![GitHub Repo Stars](https://img.shields.io/github/stars/galz10/pickle-rick-extension) ![GitHub last commit](https://img.shields.io/github/last-commit/galz10/pickle-rick-extension)](http://github.com/galz10/pickle-rick-extension) - This extension transforms the Gemini CLI into "Pickle Rick," a hyper-intelligent, arrogant, yet extremely competent engineering persona. It enforces a rigid, iterative software development lifecycle through continuous AI agent loops.
 - [gemini-beads ![GitHub Repo Stars](https://img.shields.io/github/stars/thoreinstein/gemini-beads) ![GitHub last commit](https://img.shields.io/github/last-commit/thoreinstein/gemini-beads)](https://github.com/thoreinstein/gemini-beads) - Git-backed persistent memory and task management for Gemini CLI.
 - [Agent Squads ![GitHub Repo Stars](https://img.shields.io/github/stars/agents-squads/squads-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/agents-squads/squads-cli)](https://github.com/agents-squads/squads-cli) - Open source CLI for AI agent coordination that organizes agents into domain-aligned squads with persistent memory, goal tracking, and Git-native state.  Works with Gemini CLI.
@@ -103,6 +104,7 @@ Playful and creative tools inspired by or that add personality to Gemini CLI.
 
 Tools that enhance your development workflow when using Gemini CLI.
 
+- [vsync ![GitHub Repo Stars](https://img.shields.io/github/stars/nicepkg/vsync) ![GitHub last commit](https://img.shields.io/github/last-commit/nicepkg/vsync)](https://github.com/nicepkg/vsync) - Sync Skills, MCP servers, Agents & Commands across Claude Code, Cursor, OpenCode, Codex, and Gemini CLI with automatic format conversion (JSON ↔ TOML ↔ JSONC).
 - [**Gemini Dockerized CLI** ![GitHub Repo Stars](https://img.shields.io/github/stars/nordluf/gemini-dockerized-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/nordluf/gemini-dockerized-cli)](https://github.com/nordluf/gemini-dockerized-cli) - Gemini Dockerized CLI with small improvements.
 - [IssueDB](https://issue-queue.readthedocs.io/en/latest/llm_agents.html) - LLM frendly command-line issue tracking system for software development projects, with built-in interface, context support and prompt providers for Gemini CLI and others.
 - [Docker Gemini CLI ![GitHub Repo Stars](https://img.shields.io/github/stars/tgagor/docker-gemini-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/tgagor/docker-gemini-cli)](https://github.com/tgagor/docker-gemini-cli) - Gemini CLI wrapped as a Docker image, so you don't need to trash your OS with Node and its dependencies.
