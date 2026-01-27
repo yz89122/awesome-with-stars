@@ -182,7 +182,7 @@ _Info on topics necessary for designing and developing game engines._
     - 🌎 [Metal](https://developer.apple.com/metal/) - API for developing 3D apps on _Apple_ platforms. [[Samples](https://developer.apple.com/metal/sample-code/)]
     - 📚 [Metal Tutorial](https://www.raywenderlich.com/7475-metal-tutorial-getting-started) - Learn how to get started with Metal at _RayWenderlich.com_.
 - Graphics API: OpenGL
-    - ��� [LearnOpenGL](https://learnopengl.com) 🔥 - Incredible! In depth tutorials for modern graphics programming.
+    - 📚 [LearnOpenGL](https://learnopengl.com) 🔥 - Incredible! In depth tutorials for modern graphics programming.
     - 🌎 [Mesa 3D](https://www.mesa3d.org/) - Open source implementations of OpenGL.
     - 🌎 [OpenGL](https://www.opengl.org/) - The industry's foundation for high-performance graphics.
     - 📚 [OpenGL Tutorial](https://www.opengl-tutorial.org) - Collection of OpenGL tutorials with source code examples.
@@ -446,7 +446,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Supernova ![GitHub Repo Stars](https://img.shields.io/github/stars/supernovaengine/supernova) ![GitHub last commit](https://img.shields.io/github/last-commit/supernovaengine/supernova)](https://github.com/supernovaengine/supernova) - Cross-platform for 2D/3D projects.
     - 🎉 [Thunder ![GitHub Repo Stars](https://img.shields.io/github/stars/thunder-engine/thunder) ![GitHub last commit](https://img.shields.io/github/last-commit/thunder-engine/thunder)](https://github.com/thunder-engine/thunder) - Cross-platform 2D/3D with module architecture.
     - 🎉 [Two ![GitHub Repo Stars](https://img.shields.io/github/stars/hugoam/two) ![GitHub last commit](https://img.shields.io/github/last-commit/hugoam/two)](https://github.com/hugoam/two) - Toolkit for rapid development of live graphical apps and games.
-    - �� [Urho3D ![GitHub Repo Stars](https://img.shields.io/github/stars/urho3d/Urho3D) ![GitHub last commit](https://img.shields.io/github/last-commit/urho3d/Urho3D)](https://github.com/urho3d/Urho3D) - Cross-platform 2D/3D game framework.
+    - 🎉 [Urho3D ![GitHub Repo Stars](https://img.shields.io/github/stars/urho3d/Urho3D) ![GitHub last commit](https://img.shields.io/github/last-commit/urho3d/Urho3D)](https://github.com/urho3d/Urho3D) - Cross-platform 2D/3D game framework.
     - 💸 [Valve Source SDK ![GitHub Repo Stars](https://img.shields.io/github/stars/ValveSoftware/source-sdk-2013) ![GitHub last commit](https://img.shields.io/github/last-commit/ValveSoftware/source-sdk-2013)](https://github.com/ValveSoftware/source-sdk-2013) - The 2013 edition of the Source SDK by [Valve Software](https://www.valvesoftware.com/). [[Info](https://en.wikipedia.org/wiki/Source_(game_engine)) | [Wiki](https://developer.valvesoftware.com/wiki/Source_SDK_2013)]
 - C++: Geometry
     - 🎉 [CinoLib ![GitHub Repo Stars](https://img.shields.io/github/stars/mlivesu/cinolib) ![GitHub last commit](https://img.shields.io/github/last-commit/mlivesu/cinolib)](https://github.com/mlivesu/cinolib) - Header-only library for processing polygonal and polyhedral meshes.
