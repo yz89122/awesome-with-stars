@@ -5,8 +5,8 @@ Curated list of awesome open source healthcare software, libraries, tools and re
 ## Contents
 
 - [EHR](#ehr)
+- [Scribe](#scribe)
 - [Specifications](#specifications)
-- [Prescribing](#prescribing)
 - [Nursing](#nursing)
 - [Imaging](#imaging)
 - [Dental](#dental)
@@ -29,7 +29,6 @@ Curated list of awesome open source healthcare software, libraries, tools and re
 - [Compliance](#compliance)
 - [Asset Management](#asset-management)
 - [Logistics](#logistics)
-- [Analytics](#analytics)
 
 ### EHR
   * [Akello](https://akello.io) - Integrated Mental Health Infrastructure
@@ -57,6 +56,9 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [Ozone HIS](https://www.ozone-his.com) - The entreprise-grade integrated health information system built with OpenMRS 3
   * [Ripple](https://www.ripple.foundation) -  NHS-funded, community led initiative working towards an integrated Digital Care Record Platform.
 
+### Scribe
+  * [OpenScribe ![GitHub Repo Stars](https://img.shields.io/github/stars/sammargolis/OpenScribe) ![GitHub last commit](https://img.shields.io/github/last-commit/sammargolis/OpenScribe)](https://github.com/sammargolis/OpenScribe) - Open source, local-first medical scribe platform for recording clinical encounters, transcribing audio, and generating structured draft clinical notes.
+
 ### Specifications
   * [Continuity of Care Document](https://www.hl7.org/implement/standards/product_brief.cfm?product_id=7) - Continuity of Care Document specifications
   * [DICOM Standards Browser](https://dicom.innolitics.com/ciods) - Provides an effective way to learn the DICOM standard and inspect DICOM attributes.
@@ -66,9 +68,6 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [OpenEHR](https://www.openehr.org) - Open specification upon which software can be built.
   * [Open mHealth](https://www.openmhealth.org) - Open Standard For Mobile Health Data.
   * [SMART on FHIR](https://docs.smarthealthit.org/) - Open standards based technology platform.
-  
-### Prescribing
-  * [OpenEP ![GitHub Repo Stars](https://img.shields.io/github/stars/ehrscape/examples) ![GitHub last commit](https://img.shields.io/github/last-commit/ehrscape/examples)](https://github.com/ehrscape/examples/tree/master/openep) - Suite of medicines management apps that improve the safety and efficiency of prescribing and medicines management.
 
 ### Nursing
   * [open-eObs](https://openeobs.github.io/) - Observation and clinical assessment platform that offers a real-time view of all patients across a ward.
@@ -162,6 +161,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [Ruby FHIR ![GitHub Repo Stars](https://img.shields.io/github/stars/fhir-crucible/fhir_client) ![GitHub last commit](https://img.shields.io/github/last-commit/fhir-crucible/fhir_client)](https://github.com/fhir-crucible/fhir_client) - FHIR client implementation in Ruby.
   * [Ruby HL7 ![GitHub Repo Stars](https://img.shields.io/github/stars/segfault/ruby-hl7) ![GitHub last commit](https://img.shields.io/github/last-commit/segfault/ruby-hl7)](https://github.com/segfault/ruby-hl7) - Ruby HL7 library.
   * [Rust FHIR ![GitHub Repo Stars](https://img.shields.io/github/stars/itsbalamurali/rust-fhir) ![GitHub last commit](https://img.shields.io/github/last-commit/itsbalamurali/rust-fhir)](https://github.com/itsbalamurali/rust-fhir) - Rust SDK for HL7 FHIR
+  * [Scanpy](https://scanpy.readthedocs.io/) - Single-cell RNA-seq analysis library in Python.
   * [TorchXRayVision ![GitHub Repo Stars](https://img.shields.io/github/stars/mlmed/torchxrayvision) ![GitHub last commit](https://img.shields.io/github/last-commit/mlmed/torchxrayvision)](https://github.com/mlmed/torchxrayvision) - A library for chest X-ray datasets and models. Including pre-trained models.
 
 ### Applications
@@ -198,6 +198,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
 ### Bioinformatics
   * [ADAM ![GitHub Repo Stars](https://img.shields.io/github/stars/bigdatagenomics/adam) ![GitHub last commit](https://img.shields.io/github/last-commit/bigdatagenomics/adam)](https://github.com/bigdatagenomics/adam) - Genomics analysis platform.
   * [Bcbio ![GitHub Repo Stars](https://img.shields.io/github/stars/bcbio/bcbio-nextgen) ![GitHub last commit](https://img.shields.io/github/last-commit/bcbio/bcbio-nextgen)](https://github.com/bcbio/bcbio-nextgen) - Validated, scalable, community developed variant calling, RNA-seq and small RNA analysis.
+  * [FlashDeconv ![GitHub Repo Stars](https://img.shields.io/github/stars/cafferychen777/flashdeconv) ![GitHub last commit](https://img.shields.io/github/last-commit/cafferychen777/flashdeconv)](https://github.com/cafferychen777/flashdeconv) - High-performance spatial transcriptomics deconvolution for cell type mapping in tissue samples.
   * [Galaxy](https://galaxyproject.org/) - Open web-based platform for data intensive biomedical research.
   * [Wregex](https://ehubio.ehu.eus/wregex/) - Amino acid motif searching software with optional Position-Specific Scoring Matrix.
 

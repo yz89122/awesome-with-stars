@@ -1,6 +1,9 @@
 # Awesome Go Books
-
 [![Links ![GitHub Repo Stars](https://img.shields.io/github/stars/dariubs/GoBooks) ![GitHub last commit](https://img.shields.io/github/last-commit/dariubs/GoBooks)](https://github.com/dariubs/GoBooks/actions/workflows/links.yml/badge.svg)](https://github.com/dariubs/GoBooks/actions/workflows/links.yml) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
+
+GoBooks is a carefully curated collection of the best Go books available for developers of all levels, from beginners learning the basics of Golang to experienced engineers looking for advanced concurrency, performance, and system design topics. This repository gathers top Golang books covering core Go concepts, real-world patterns, best practices, and modern Go development, making it easy to find the right learning resource in one place. Whether you’re searching for your first Golang book, want to deepen your understanding of Go internals, or are looking for the most recommended and up-to-date Go programming books, GoBooks serves as a trusted reference for the Go community.
+
 
 - [Awesome Go Books](#awesome-go-books)
   - [Starter Books](#starter-books)
@@ -716,6 +719,12 @@ Another awesome book for learning Web Development in Golang.
 ### [Course: Web Development with Google’s Go Programming Language](https://www.udemy.com/course/go-programming-language)
 ### [Golangbot.com Articles](https://golangbot.com/)
 ### [Tuxerrante repo on go exercises ![GitHub Repo Stars](https://img.shields.io/github/stars/tuxerrante/go_exercises) ![GitHub last commit](https://img.shields.io/github/last-commit/tuxerrante/go_exercises)](https://github.com/tuxerrante/go_exercises)
+
+## Related Lists
+
+- [JavaScript Books ![GitHub Repo Stars](https://img.shields.io/github/stars/minouou/jsbooks) ![GitHub last commit](https://img.shields.io/github/last-commit/minouou/jsbooks)](https://github.com/minouou/jsbooks) – A collection of books and learning resources for JavaScript  
+- [PostgreSQL Books ![GitHub Repo Stars](https://img.shields.io/github/stars/sara8086/PostgresBooks) ![GitHub last commit](https://img.shields.io/github/last-commit/sara8086/PostgresBooks)](https://github.com/sara8086/PostgresBooks) – A curated list of books and guides for PostgreSQL  
+- [Python Books ![GitHub Repo Stars](https://img.shields.io/github/stars/lara-west/PythonBooks) ![GitHub last commit](https://img.shields.io/github/last-commit/lara-west/PythonBooks)](https://github.com/lara-west/PythonBooks) – A comprehensive list of Python books and tutorials  
 
 
 Contributing
