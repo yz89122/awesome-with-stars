@@ -104,11 +104,19 @@ Purchase on the [App Store](https://apps.apple.com/app/peek-quick-look-extension
 
 ### [Folder Preview](https://anybox.ltd/folder-preview) 💰
 
-> Preview folders and ZIP files with the familiar experience of Finder.
+> Quick look inside folders and archives.
 
 Purchase on the [App Store](https://apps.apple.com/app/folder-preview/id6698876601).
 
 [![ ![GitHub Repo Stars](https://img.shields.io/github/stars/sindresorhus/quick-look-plugins) ![GitHub last commit](https://img.shields.io/github/last-commit/sindresorhus/quick-look-plugins)](https://github.com/sindresorhus/quick-look-plugins/raw/main/screenshots/FolderPreview.png)](https://anybox.ltd/folder-preview)
+
+### [Markdown Preview](https://anybox.ltd/markdown-preview) 💰
+
+> Quick look Markdown files with KaTex and Mermaid support.
+
+Purchase on the [App Store](https://apps.apple.com/app/markdown-preview-quick-look/id6739955340).
+
+[![ ![GitHub Repo Stars](https://img.shields.io/github/stars/sindresorhus/quick-look-plugins) ![GitHub last commit](https://img.shields.io/github/last-commit/sindresorhus/quick-look-plugins)](https://github.com/sindresorhus/quick-look-plugins/raw/main/screenshots/MarkdownPreview.png)](https://anybox.ltd/markdown-preview)
 
 ### [ProvisionQL ![GitHub Repo Stars](https://img.shields.io/github/stars/ealeksandrov/ProvisionQL) ![GitHub last commit](https://img.shields.io/github/last-commit/ealeksandrov/ProvisionQL)](https://github.com/ealeksandrov/ProvisionQL)
 
