@@ -571,7 +571,7 @@ described in [RFC 8032]
 ## Unofficial
  * [Crystal Programming Discord Server](https://discord.gg/YS7YvQy) - Unofficial Discord server dedicated to the Crystal Programming Language
  * [Portuguese-speaking Telegram Group](https://t.me/crystalbrasil) - Bem vindos ao Crystal Brasil!
- * [Russian-speaking Telegram Group](https://t.me/crystal_ru) - Добро пожаловать, товарищ!
+ * [Russian-speaking Telegram Group](https://t.me/crystal_ru) - Добро пожалов��ть, товарищ!
 
 # Resources
  * [Crystal for Rubyists](http://www.crystalforrubyists.com/) - Free book to bootstrap your Crystal journey
