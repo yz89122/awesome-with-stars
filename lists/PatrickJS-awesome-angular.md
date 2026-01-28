@@ -1897,6 +1897,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-horizontal-menu-scroll ![GitHub Repo Stars](https://img.shields.io/github/stars/isahohieku/ngx-horizontal-menu-scroll) ![GitHub last commit](https://img.shields.io/github/last-commit/isahohieku/ngx-horizontal-menu-scroll)](https://github.com/isahohieku/ngx-horizontal-menu-scroll) - A lightweight, customizable Angular library for creating beautiful horizontal scrolling menus with smooth navigation controls.
 * [usal ![GitHub Repo Stars](https://img.shields.io/github/stars/italoalmeida0/usal) ![GitHub last commit](https://img.shields.io/github/last-commit/italoalmeida0/usal)](https://github.com/italoalmeida0/usal) - Framework agnostic ultimate scroll animation library.
 * [ar-virtual-scroll ![GitHub Repo Stars](https://img.shields.io/github/stars/artomenwork/ar-virtual-scroll) ![GitHub last commit](https://img.shields.io/github/last-commit/artomenwork/ar-virtual-scroll)](https://github.com/artomenwork/ar-virtual-scroll) - Lightweight Angular virtual scroll with automatic dynamic height, ideal for chats, feeds, and variable lists.
+* [angular-infinity-scroller ![GitHub Repo Stars](https://img.shields.io/github/stars/Jayant061/angular-infinity-scroller) ![GitHub last commit](https://img.shields.io/github/last-commit/Jayant061/angular-infinity-scroller)](https://github.com/Jayant061/angular-infinity-scroller) - A lightweight, high‑performance infinite‑scrolling directive built to work seamlessly with modern Angular and SSR setups.
 
 ### Storage
 
