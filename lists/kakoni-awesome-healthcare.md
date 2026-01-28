@@ -187,6 +187,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [NextGen Connect Integration Engine ![GitHub Repo Stars](https://img.shields.io/github/stars/nextgenhealthcare/connect) ![GitHub last commit](https://img.shields.io/github/last-commit/nextgenhealthcare/connect)](https://github.com/nextgenhealthcare/connect) - The swiss army knife of healthcare integration.
   * [Open eHealth Integration Platform ![GitHub Repo Stars](https://img.shields.io/github/stars/oehf/ipf) ![GitHub last commit](https://img.shields.io/github/last-commit/oehf/ipf)](https://github.com/oehf/ipf) - An extension of the Apache Camel routing and mediation engine
   * [OpenHIM](http://openhim.org/) - Health information mediator.
+  * [OpenWearables ![GitHub Repo Stars](https://img.shields.io/github/stars/the-momentum/open-wearables) ![GitHub last commit](https://img.shields.io/github/last-commit/the-momentum/open-wearables)](https://github.com/the-momentum/open-wearables) - Self-hosted platform to unify wearable health data through one AI-ready API.
   * [Zato](https://zato.io/en/industry/healthcare/index.html) - A Python-based ESB and integration platform for healthcare interoperability, automation and orchestration.
 
 ### Hardware
