@@ -105,7 +105,6 @@ A curated list of unique and useful CI/CD attack techniques.
 - [Nord Stream ![GitHub Repo Stars](https://img.shields.io/github/stars/synacktiv/nord-stream) ![GitHub last commit](https://img.shields.io/github/last-commit/synacktiv/nord-stream)](https://github.com/synacktiv/nord-stream) - A tool to extract secrets stored inside CI/CD environments.
 - [pwn_jenkins ![GitHub Repo Stars](https://img.shields.io/github/stars/gquere/pwn_jenkins) ![GitHub last commit](https://img.shields.io/github/last-commit/gquere/pwn_jenkins)](https://github.com/gquere/pwn_jenkins) - Notes about attacking Jenkins servers.
 - [Secrets Patterns Database ![GitHub Repo Stars](https://img.shields.io/github/stars/mazen160/secrets-patterns-db) ![GitHub last commit](https://img.shields.io/github/last-commit/mazen160/secrets-patterns-db)](https://github.com/mazen160/secrets-patterns-db) - The largest open-source database for detecting secrets, API keys, passwords, tokens, and more.
-- [SDLC Infrastructure Threat Framework (SITF) ![GitHub Repo Stars](https://img.shields.io/github/stars/wiz-sec-public/SITF) ![GitHub last commit](https://img.shields.io/github/last-commit/wiz-sec-public/SITF)](https://github.com/wiz-sec-public/SITF) - A comprehensive framework for analyzing and defending against attacks targeting Software Development Life Cycle Infrastructure.
 - [Sourcegraph](https://sourcegraph.com/search) - A web-based code search and navigation tool for public repositories.
 - [Token-Spray](https://blog.projectdiscovery.io/nuclei-v2-5-3-release/) - Automate token validation using Nuclei.
 
@@ -118,3 +117,4 @@ A curated list of unique and useful CI/CD attack techniques.
 - [Common Threat Matrix for CI/CD Pipeline ![GitHub Repo Stars](https://img.shields.io/github/stars/rung/threat-matrix-cicd) ![GitHub last commit](https://img.shields.io/github/last-commit/rung/threat-matrix-cicd)](https://github.com/rung/threat-matrix-cicd)
 - [Open Software Supply Chain Attack Reference (OSC&R)](https://pbom.dev/)
 - [Risk Explorer for Software Supply Chains](https://riskexplorer.endorlabs.com/#/attack-tree)
+- [SDLC Infrastructure Threat Framework (SITF) ![GitHub Repo Stars](https://img.shields.io/github/stars/wiz-sec-public/SITF) ![GitHub last commit](https://img.shields.io/github/last-commit/wiz-sec-public/SITF)](https://github.com/wiz-sec-public/SITF) - A comprehensive framework for analyzing and defending against attacks targeting Software Development Life Cycle Infrastructure.
