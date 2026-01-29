@@ -443,6 +443,14 @@ See [Vivraan/godot-lang-support ![GitHub Repo Stars](https://img.shields.io/gith
 - [Godot syntax themes ![GitHub Repo Stars](https://img.shields.io/github/stars/godotengine/godot-syntax-themes) ![GitHub last commit](https://img.shields.io/github/last-commit/godotengine/godot-syntax-themes)](https://github.com/godotengine/godot-syntax-themes) - 13 syntax themes including Ayu Mirage, Darcula, Gruvbox Dark, Monokai, One Dark, Solarized, and more.
 - [Syntax themes by Geequlim ![GitHub Repo Stars](https://img.shields.io/github/stars/Geequlim/godot-themes) ![GitHub last commit](https://img.shields.io/github/last-commit/Geequlim/godot-themes)](https://github.com/Geequlim/godot-themes/tree/master/syntax) - Chester, Google Code Light and Monokai.
 
+### External editor themes
+
+*Alternative themes with the trusted Godot editor's colors for external tools.*
+
+- [Alacritty ![GitHub Repo Stars](https://img.shields.io/github/stars/voylin/godot_color_theme) ![GitHub last commit](https://img.shields.io/github/last-commit/voylin/godot_color_theme)](https://github.com/voylin/godot_color_theme/tree/master/alacritty)
+- [NeoVim ![GitHub Repo Stars](https://img.shields.io/github/stars/voylin/godot_color_theme) ![GitHub last commit](https://img.shields.io/github/last-commit/voylin/godot_color_theme)](https://github.com/voylin/godot_color_theme/tree/master/lua)
+- [Visual Studio Code ![GitHub Repo Stars](https://img.shields.io/github/stars/ryanabx/godot-vscode-theme) ![GitHub last commit](https://img.shields.io/github/last-commit/ryanabx/godot-vscode-theme)](https://github.com/ryanabx/godot-vscode-theme)
+
 ## Unofficial Godot builds
 
 *Those builds will let you use recent versions of Godot Git, but they may be less stable than official ones – use at your own risk.*
