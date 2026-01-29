@@ -536,7 +536,7 @@ The tool is a fork of `gofmt` as of Go 1.19, and requires Go 1.18 or later.  It 
 
 - [GolangCI-Lint](https://golangci-lint.run) — Alternative to `Go Meta Linter`: GolangCI-Lint is a linters aggregator.
 
-- [golint ![GitHub Repo Stars](https://img.shields.io/github/stars/golang/lint) ![GitHub last commit](https://img.shields.io/github/last-commit/golang/lint)](https://github.com/golang/lint) �� Prints out coding style mistakes in Go source code.
+- [golint ![GitHub Repo Stars](https://img.shields.io/github/stars/golang/lint) ![GitHub last commit](https://img.shields.io/github/last-commit/golang/lint)](https://github.com/golang/lint) — Prints out coding style mistakes in Go source code.
 
 - [goreporter ![GitHub Repo Stars](https://img.shields.io/github/stars/360EntSecGroup-Skylar/goreporter) ![GitHub last commit](https://img.shields.io/github/last-commit/360EntSecGroup-Skylar/goreporter)](https://github.com/360EntSecGroup-Skylar/goreporter) — Concurrently runs many linters and normalises their output to a report.
 
