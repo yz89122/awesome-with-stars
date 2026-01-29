@@ -1424,6 +1424,7 @@ Javascript
   * full support of `format`([pull request ![GitHub Repo Stars](https://img.shields.io/github/stars/jscl-project/jscl) ![GitHub last commit](https://img.shields.io/github/last-commit/jscl-project/jscl)](https://github.com/jscl-project/jscl/pull/525))
   * supports `loop`([tests ![GitHub Repo Stars](https://img.shields.io/github/stars/jscl-project/jscl) ![GitHub last commit](https://img.shields.io/github/last-commit/jscl-project/jscl)](https://github.com/jscl-project/jscl/tree/master/tests/loop)) and `CLOS`([tests ![GitHub Repo Stars](https://img.shields.io/github/stars/jscl-project/jscl) ![GitHub last commit](https://img.shields.io/github/last-commit/jscl-project/jscl)](https://github.com/jscl-project/jscl/blob/master/tests/clos.lisp))
   * [live playground](https://jscl-project.github.io/)
+  * 🔥 [live JupyterLite playground](https://wiki3-ai.github.io/jscl-kernel/) (Wasm powered Jupyter running in the browser). Project source: [jscl-kernel ![GitHub Repo Stars](https://img.shields.io/github/stars/wiki3-ai/jscl-kernel) ![GitHub last commit](https://img.shields.io/github/last-commit/wiki3-ai/jscl-kernel)](https://github.com/wiki3-ai/jscl-kernel).
 * [CL-JavaScript](http://marijnhaverbeke.nl/cl-javascript/) - A translator from Javascript to Common Lisp. Not available on Quicklisp. [Expat][14].
 * [parse-js](http://marijnhaverbeke.nl/parse-js/) - A package for parsing ECMAScript 3. [zlib][33].
 * [remote-js ![GitHub Repo Stars](https://img.shields.io/github/stars/ceramic/remote-js) ![GitHub last commit](https://img.shields.io/github/last-commit/ceramic/remote-js)](https://github.com/ceramic/remote-js) - send JavaScript from Common Lisp to a browser. [MIT][200].
@@ -2313,10 +2314,12 @@ Linting, code formatting
 
 * [sblint ![GitHub Repo Stars](https://img.shields.io/github/stars/fukamachi/sblint) ![GitHub last commit](https://img.shields.io/github/last-commit/fukamachi/sblint)](https://github.com/fukamachi/sblint) - a linter for Common Lisp source code using SBCL, suited for Reviewdog ([slides](http://www.slideshare.net/fukamachi/sblint)). [BSD_2Clause][17].
 * [mallet ![GitHub Repo Stars](https://img.shields.io/github/stars/fukamachi/mallet) ![GitHub last commit](https://img.shields.io/github/last-commit/fukamachi/mallet)](https://github.com/fukamachi/mallet) -  A sensible Common Lisp linter that catches real mistakes, not style. MIT.
-* ocicl's built-in linter
+* [ocicl ![GitHub Repo Stars](https://img.shields.io/github/stars/ocicl/ocicl) ![GitHub last commit](https://img.shields.io/github/last-commit/ocicl/ocicl)](https://github.com/ocicl/ocicl/)'s built-in linter and auto-fix feature.
 * [trivial-formatter ![GitHub Repo Stars](https://img.shields.io/github/stars/hyotang666/trivial-formatter) ![GitHub last commit](https://img.shields.io/github/last-commit/hyotang666/trivial-formatter)](https://github.com/hyotang666/trivial-formatter) - code formatter for Common Lisp. [MIT][200].
 
-and also: [lisp-format ![GitHub Repo Stars](https://img.shields.io/github/stars/eschulte/lisp-format) ![GitHub last commit](https://img.shields.io/github/last-commit/eschulte/lisp-format)](https://github.com/eschulte/lisp-format) and [cl-indentify ![GitHub Repo Stars](https://img.shields.io/github/stars/yitzchak/cl-indentify) ![GitHub last commit](https://img.shields.io/github/last-commit/yitzchak/cl-indentify)](https://github.com/yitzchak/cl-indentify).
+and also:
+
+* [lisp-format ![GitHub Repo Stars](https://img.shields.io/github/stars/eschulte/lisp-format) ![GitHub last commit](https://img.shields.io/github/last-commit/eschulte/lisp-format)](https://github.com/eschulte/lisp-format) and [cl-indentify ![GitHub Repo Stars](https://img.shields.io/github/stars/yitzchak/cl-indentify) ![GitHub last commit](https://img.shields.io/github/last-commit/yitzchak/cl-indentify)](https://github.com/yitzchak/cl-indentify).
 
 Literate programming
 --------------------
