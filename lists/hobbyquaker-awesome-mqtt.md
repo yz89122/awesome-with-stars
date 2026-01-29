@@ -158,7 +158,7 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ### Python
 
-- [aiomqtt ![GitHub Repo Stars](https://img.shields.io/github/stars/mossblaser/aiomqtt) ![GitHub last commit](https://img.shields.io/github/last-commit/mossblaser/aiomqtt)](https://github.com/mossblaser/aiomqtt) - Async Python MQTT client based on paho-mqtt.
+- [aiomqtt ![GitHub Repo Stars](https://img.shields.io/github/stars/empicano/aiomqtt) ![GitHub last commit](https://img.shields.io/github/last-commit/empicano/aiomqtt)](https://github.com/empicano/aiomqtt) - The idiomatic asyncio MQTT client.
 - [gmqtt ![GitHub Repo Stars](https://img.shields.io/github/stars/wialon/gmqtt) ![GitHub last commit](https://img.shields.io/github/last-commit/wialon/gmqtt)](https://github.com/wialon/gmqtt) - Python MQTT v5.0 client (asyncio-based).
 <!--lint disable double-link-->
 - [hbmqtt Client ![GitHub Repo Stars](https://img.shields.io/github/stars/beerfactory/hbmqtt) ![GitHub last commit](https://img.shields.io/github/last-commit/beerfactory/hbmqtt)](https://github.com/beerfactory/hbmqtt) - Python MQTT client using asyncio.
@@ -201,7 +201,7 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 - [mqtt.dart ![GitHub Repo Stars](https://img.shields.io/github/stars/jnguillerme/mqtt.dart) ![GitHub last commit](https://img.shields.io/github/last-commit/jnguillerme/mqtt.dart)](https://github.com/jnguillerme/mqtt.dart) - Dart MQTT client.
 
-### DotNET
+### C# / .NET
 
 - [HiveMQtt ![GitHub Repo Stars](https://img.shields.io/github/stars/hivemq/hivemq-mqtt-client-dotnet) ![GitHub last commit](https://img.shields.io/github/last-commit/hivemq/hivemq-mqtt-client-dotnet)](https://github.com/hivemq/hivemq-mqtt-client-dotnet) - MQTT 5.0 compliant secure client with automatic back pressure management and TCP & WebSocket transport support.
 - [MQTTnet ![GitHub Repo Stars](https://img.shields.io/github/stars/chkr1011/MQTTnet) ![GitHub last commit](https://img.shields.io/github/last-commit/chkr1011/MQTTnet)](https://github.com/chkr1011/MQTTnet) - MQTT client and broker .NET implementations.

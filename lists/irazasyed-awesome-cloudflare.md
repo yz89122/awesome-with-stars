@@ -16,6 +16,7 @@ Cloudflare provides content delivery network (CDN) services, DDoS mitigation, In
   - [Reference](#reference)
   - [Tools](#tools)
   - [Recipes](#recipes)
+  - [AI](#ai)
 - [Other](#other)
 
 ## Community
@@ -146,6 +147,10 @@ Cloudflare provides content delivery network (CDN) services, DDoS mitigation, In
 - [Performance Optimized Workers ![GitHub Repo Stars](https://img.shields.io/github/stars/pmeenan/cf-workers) ![GitHub last commit](https://img.shields.io/github/last-commit/pmeenan/cf-workers)](https://github.com/pmeenan/cf-workers) - Collection of worker scripts, generally focused on performance optimizations.
 - [Google reCAPTCHA verification ![GitHub Repo Stars](https://img.shields.io/github/stars/HR/recaptcha-worker) ![GitHub last commit](https://img.shields.io/github/last-commit/HR/recaptcha-worker)](https://github.com/HR/recaptcha-worker) - Handle the server-side verification of your reCAPTCHA form.
 - [Cloudflare Workers Starter Kit ![GitHub Repo Stars](https://img.shields.io/github/stars/kriasoft/cloudflare-starter-kit) ![GitHub last commit](https://img.shields.io/github/last-commit/kriasoft/cloudflare-starter-kit)](https://github.com/kriasoft/cloudflare-starter-kit) -  - TypeScript template \w multiple CF Workers, `*.env` files, and local testing.
+
+### AI
+
+- [Moltworker ![GitHub Repo Stars](https://img.shields.io/github/stars/cloudflare/moltworker) ![GitHub last commit](https://img.shields.io/github/last-commit/cloudflare/moltworker)](https://github.com/cloudflare/moltworker) - Run Moltbot (formely Clawdbot) on Cloudflare Workers.
 
 ## Other
 
