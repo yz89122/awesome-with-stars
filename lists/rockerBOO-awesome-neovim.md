@@ -1251,6 +1251,7 @@ then it is not supported:
 - [Salanoid/gitlogdiff.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/Salanoid/gitlogdiff.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/Salanoid/gitlogdiff.nvim)](https://github.com/Salanoid/gitlogdiff.nvim) - Diff between multiple Git commits, similar to JetBrains's Git log.
 - [Sengoku11/commitpad.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/Sengoku11/commitpad.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/Sengoku11/commitpad.nvim)](https://github.com/Sengoku11/commitpad.nvim) - Write informative commits with persistent worktree-isolated drafts, visual 50/72 guides, and a Markdown buffer.
 - [BibekBhusal0/nvim-git-utils ![GitHub Repo Stars](https://img.shields.io/github/stars/BibekBhusal0/nvim-git-utils) ![GitHub last commit](https://img.shields.io/github/last-commit/BibekBhusal0/nvim-git-utils)](https://github.com/BibekBhusal0/nvim-git-utils) - Simple commands to make life easier while working with Git.
+- [spacedentist/resolve.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/spacedentist/resolve.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/spacedentist/resolve.nvim)](https://github.com/spacedentist/resolve.nvim) - Resolve merge conflicts with ease.
 
 ### GitHub
 
