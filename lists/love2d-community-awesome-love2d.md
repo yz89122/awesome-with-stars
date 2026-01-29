@@ -210,6 +210,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [lovebpm ![GitHub Repo Stars](https://img.shields.io/github/stars/rxi/lovebpm) ![GitHub last commit](https://img.shields.io/github/last-commit/rxi/lovebpm)](https://github.com/rxi/lovebpm) - A LÖVE library for syncing events to the BPM of an audio track.
 * [ripple ![GitHub Repo Stars](https://img.shields.io/github/stars/tesselode/ripple) ![GitHub last commit](https://img.shields.io/github/last-commit/tesselode/ripple)](https://github.com/tesselode/ripple) - An audio manager with tagging support.
 * [wave ![GitHub Repo Stars](https://img.shields.io/github/stars/Ulydev/wave) ![GitHub last commit](https://img.shields.io/github/last-commit/Ulydev/wave)](https://github.com/Ulydev/wave) - A sound manager with audio parsing and rhythm functionalities.
+* [Lua-Opus ![GitHub Repo Stars](https://img.shields.io/github/stars/GwyrddGlas/Lua-Opus) ![GitHub last commit](https://img.shields.io/github/last-commit/GwyrddGlas/Lua-Opus)](https://github.com/GwyrddGlas/Lua-Opus) - A module for streaming and decoding Ogg Opus audio files with queueable playback and PCM integration.
 
 ## Networking
 *Networking & Online-Play Libraries*
@@ -376,6 +377,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [splashy ![GitHub Repo Stars](https://img.shields.io/github/stars/videah/splashy) ![GitHub last commit](https://img.shields.io/github/last-commit/videah/splashy)](https://github.com/videah/splashy) - Splash Screen Library.
 * [text2.love](https://git.sr.ht/~akkartik/text2.love) - Full-featured text editor for prose (not code).
 * [tick ![GitHub Repo Stars](https://img.shields.io/github/stars/bjornbytes/tick) ![GitHub last commit](https://img.shields.io/github/last-commit/bjornbytes/tick)](https://github.com/bjornbytes/tick) - Useful timing tweaks for LÖVE's run loop.
+* [LUA-SNG-Parser ![GitHub Repo Stars](https://img.shields.io/github/stars/GwyrddGlas/LUA-SNG-Parser) ![GitHub last commit](https://img.shields.io/github/last-commit/GwyrddGlas/LUA-SNG-Parser)](https://github.com/GwyrddGlas/LUA-SNG-Parser) - A Lua library for parsing and extracting custom .sng song package files, supporting metadata reading, file listing, and batch extraction. Ideal for rhythm games, audio-based projects.
 
 ## Tutorials
 *Blogs and tutorials*
