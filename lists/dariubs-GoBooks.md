@@ -722,9 +722,12 @@ Another awesome book for learning Web Development in Golang.
 
 ## Related Lists
 
+- [Dev Books ![GitHub Repo Stars](https://img.shields.io/github/stars/devtoolsd/DevBooks) ![GitHub last commit](https://img.shields.io/github/last-commit/devtoolsd/DevBooks)](https://github.com/devtoolsd/DevBooks) – A collection of development and programming books  
 - [JavaScript Books ![GitHub Repo Stars](https://img.shields.io/github/stars/minouou/jsbooks) ![GitHub last commit](https://img.shields.io/github/last-commit/minouou/jsbooks)](https://github.com/minouou/jsbooks) – A collection of books and learning resources for JavaScript  
 - [PostgreSQL Books ![GitHub Repo Stars](https://img.shields.io/github/stars/sara8086/PostgresBooks) ![GitHub last commit](https://img.shields.io/github/last-commit/sara8086/PostgresBooks)](https://github.com/sara8086/PostgresBooks) – A curated list of books and guides for PostgreSQL  
-- [Python Books ![GitHub Repo Stars](https://img.shields.io/github/stars/lara-west/PythonBooks) ![GitHub last commit](https://img.shields.io/github/last-commit/lara-west/PythonBooks)](https://github.com/lara-west/PythonBooks) – A comprehensive list of Python books and tutorials  
+- [Python Books ![GitHub Repo Stars](https://img.shields.io/github/stars/lara-west/PythonBooks) ![GitHub last commit](https://img.shields.io/github/last-commit/lara-west/PythonBooks)](https://github.com/lara-west/PythonBooks) – A comprehensive list of Python books and tutorials
+- [AI Books ![GitHub Repo Stars](https://img.shields.io/github/stars/mahseema/aibooks) ![GitHub last commit](https://img.shields.io/github/last-commit/mahseema/aibooks)](https://github.com/mahseema/aibooks) – A curated collection of books and resources on artificial intelligence  
+
 
 
 Contributing

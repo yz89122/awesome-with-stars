@@ -699,7 +699,6 @@ additional ordered map implementations.
 
 _Data stores with expiring records, in-memory distributed data stores, or in-memory subsets of file-based databases._
 
-- [2q ![GitHub Repo Stars](https://img.shields.io/github/stars/floatdrop/2q) ![GitHub last commit](https://img.shields.io/github/last-commit/floatdrop/2q)](https://github.com/floatdrop/2q) - 2Q in-memory cache implementation.
 - [bcache ![GitHub Repo Stars](https://img.shields.io/github/stars/iwanbk/bcache) ![GitHub last commit](https://img.shields.io/github/last-commit/iwanbk/bcache)](https://github.com/iwanbk/bcache) - Eventually consistent distributed in-memory cache Go library.
 - [BigCache ![GitHub Repo Stars](https://img.shields.io/github/stars/allegro/bigcache) ![GitHub last commit](https://img.shields.io/github/last-commit/allegro/bigcache)](https://github.com/allegro/bigcache) - Efficient key/value cache for gigabytes of data.
 - [cache2go ![GitHub Repo Stars](https://img.shields.io/github/stars/muesli/cache2go) ![GitHub last commit](https://img.shields.io/github/last-commit/muesli/cache2go)](https://github.com/muesli/cache2go) - In-memory key:value cache which supports automatic invalidation based on timeouts.
