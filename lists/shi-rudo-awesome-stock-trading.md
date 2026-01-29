@@ -275,7 +275,7 @@ Cassidy chronicles the rise and fall of the dot-com bubble with insight and flai
 - 🇧🇷 [B3 (Bovespa)](https://www.b3.com.br) - The largest stock exchange in Latin America and one of the fastest-growing markets globally.
 - 🇮🇳 [Bombay Stock Exchange (BSE)](https://www.bseindia.com) - The oldest stock exchange in Asia, founded in 1875, and one of the largest in India.
 - 🇩🇪 [Frankfurt Stock Exchange (XETRA)](https://www.deutsche-boerse.com) - The largest stock exchange in Germany owned and operated by Deutsche Börse.
-- 🇭🇰 [Hong Kong Stock Exchange (HKEX)](https://www.hkex.com.hk/) - One of the largest stock exchanges in Asia, known for attracting international investors due to its strategic location and listing rules.
+- 🇭���� [Hong Kong Stock Exchange (HKEX)](https://www.hkex.com.hk/) - One of the largest stock exchanges in Asia, known for attracting international investors due to its strategic location and listing rules.
 - 🇰🇷 [Korea Exchange (KRX)](https://www.koreaexchange.org) - The sole securities exchange operator in South Korea, hosting the KOSPI index.
 - 🇬🇧 [London Stock Exchange (LSE)](https://www.londonstockexchange.com) - One of the oldest and most important stock exchanges in the world, with over 3,000 listed companies.
 - 🇺🇸 [NASDAQ](https://www.nasdaq.com) - Second largest stock exchange in the world by market capitalization, known for listing technology companies and having a high trading volume.
