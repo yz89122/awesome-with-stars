@@ -354,7 +354,7 @@ Further resources:
 
 <a name="clojure-data-visualization"></a>
 #### Data Visualization
-* [Hanami ![GitHub Repo Stars](https://img.shields.io/github/stars/jsa-aerial/hanami) ![GitHub last commit](https://img.shields.io/github/last-commit/jsa-aerial/hanami)](https://github.com/jsa-aerial/hanami) : Clojure(Script) library and framework for creating interactive visualization applications based in Vega-Lite (VGL) and/or Vega (VG) specifications. Automatic framing and layouts along with a powerful templating system for abstracting visualization specs
+* [Hanami ![GitHub Repo Stars](https://img.shields.io/github/stars/jsa-aerial/hanami) ![GitHub last commit](https://img.shields.io/github/last-commit/jsa-aerial/hanami)](https://github.com/jsa-aerial/hanami) - Clojure(Script) library and framework for creating interactive visualization applications based in Vega-Lite (VGL) and/or Vega (VG) specifications. Automatic framing and layouts along with a powerful templating system for abstracting visualization specs
 * [Saite ![GitHub Repo Stars](https://img.shields.io/github/stars/jsa-aerial/saite) ![GitHub last commit](https://img.shields.io/github/last-commit/jsa-aerial/saite)](https://github.com/jsa-aerial/saite) -  Clojure(Script) client/server application for dynamic interactive explorations and the creation of live shareable documents capturing them using Vega/Vega-Lite, CodeMirror, markdown, and LaTeX
 * [Oz ![GitHub Repo Stars](https://img.shields.io/github/stars/metasoarous/oz) ![GitHub last commit](https://img.shields.io/github/last-commit/metasoarous/oz)](https://github.com/metasoarous/oz) - Data visualisation using Vega/Vega-Lite and Hiccup, and a live-reload platform for literate-programming
 * [Envision ![GitHub Repo Stars](https://img.shields.io/github/stars/clojurewerkz/envision) ![GitHub last commit](https://img.shields.io/github/last-commit/clojurewerkz/envision)](https://github.com/clojurewerkz/envision) - Clojure Data Visualisation library, based on Statistiker and D3.
@@ -685,6 +685,7 @@ Read the paper [here](https://arxiv.org/abs/1902.06714).
 * [tensor-js ![GitHub Repo Stars](https://img.shields.io/github/stars/Hoff97/tensorjs) ![GitHub last commit](https://img.shields.io/github/last-commit/Hoff97/tensorjs)](https://github.com/Hoff97/tensorjs) - A deep learning library for the browser, accelerated by WebGL and WebAssembly.
 * [WebDNN ![GitHub Repo Stars](https://img.shields.io/github/stars/mil-tokyo/webdnn) ![GitHub last commit](https://img.shields.io/github/last-commit/mil-tokyo/webdnn)](https://github.com/mil-tokyo/webdnn) - Fast Deep Neural Network JavaScript Framework. WebDNN uses next generation JavaScript API, WebGPU for GPU execution, and WebAssembly for CPU execution.
 * [WebNN](https://webnn.dev) - A new web standard that allows web apps and frameworks to accelerate deep neural networks with on-device hardware such as GPUs, CPUs, or purpose-built AI accelerators.
+* [Kandle ![GitHub Repo Stars](https://img.shields.io/github/stars/final-kk/kandle) ![GitHub last commit](https://img.shields.io/github/last-commit/final-kk/kandle)](https://github.com/final-kk/kandle) - A JavaScript Native PyTorch-aligned Machine Learning Framework, built from scratch on WebGPU.
 
 <a name="javascript-misc"></a>
 #### Misc
