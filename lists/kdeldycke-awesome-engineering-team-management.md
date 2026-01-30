@@ -502,7 +502,7 @@ You're no longer an engineer. Still, your team is responsible for the systems, t
 
 You shouldn't spend your time coding. Leave that to the engineers: your value lies elsewhere now. But does that means you must forget all things technical? The answer is an astounding *NO*. Here are some arguments:
 
-- [Do engineering managers need to be technical?](https://increment.com/teams/do-engineering-managers-need-to-be-technical/) - Yes. ��Looking forward to the next 30 years of management trends, only a few things seem certain: Managers should be technical, and the definition of technical will continue to change.”
+- [Do engineering managers need to be technical?](https://increment.com/teams/do-engineering-managers-need-to-be-technical/) - Yes. “Looking forward to the next 30 years of management trends, only a few things seem certain: Managers should be technical, and the definition of technical will continue to change.”
 
 - [If Your Boss Could Do Your Job, You're More Likely to Be Happy at Work](https://archive.ph/J2vlo#selection-1025.8-1025.64) - “Although we found that many factors can matter for happiness at work – type of occupation, level of education, tenure, and industry are also significant, for instance – they don't even come close to mattering as much as the boss' technical competence.”
 
