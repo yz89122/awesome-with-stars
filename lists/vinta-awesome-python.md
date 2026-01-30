@@ -269,6 +269,7 @@ _Libraries for building command-line applications._
   - [bashplotlib ![GitHub Repo Stars](https://img.shields.io/github/stars/glamp/bashplotlib) ![GitHub last commit](https://img.shields.io/github/last-commit/glamp/bashplotlib)](https://github.com/glamp/bashplotlib) - Making basic plots in the terminal.
   - [colorama ![GitHub Repo Stars](https://img.shields.io/github/stars/tartley/colorama) ![GitHub last commit](https://img.shields.io/github/last-commit/tartley/colorama)](https://github.com/tartley/colorama) - Cross-platform colored terminal text.
   - [rich ![GitHub Repo Stars](https://img.shields.io/github/stars/Textualize/rich) ![GitHub last commit](https://img.shields.io/github/last-commit/Textualize/rich)](https://github.com/Textualize/rich) - Python library for rich text and beautiful formatting in the terminal. Also provides a great `RichHandler` log handler.
+  - [textual ![GitHub Repo Stars](https://img.shields.io/github/stars/Textualize/textual) ![GitHub last commit](https://img.shields.io/github/last-commit/Textualize/textual)](https://github.com/Textualize/textual) - A framework for building interactive user interfaces that run in the terminal and the browser.
   - [tqdm ![GitHub Repo Stars](https://img.shields.io/github/stars/tqdm/tqdm) ![GitHub last commit](https://img.shields.io/github/last-commit/tqdm/tqdm)](https://github.com/tqdm/tqdm) - Fast, extensible progress bar for loops and CLI.
 
 ## Command-line Tools
