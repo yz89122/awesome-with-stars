@@ -13,7 +13,7 @@ Ionic is an open-source mobile application framework that makes it easy to build
 </div>
 <div align="center">
   <h2><a href="https://capgo.app/?ref=awesomelist_ionic"> ➡️ Get Instant updates for your Capacitor App with Capgo 🚀</a></h2>
-  <h2><a href="https://capgo.app/consulting/?ref=awesomelist_ionic"> Fix your annoying bug now, Hire a Capacitor expert 💪</a></h2>
+  <h2><a href="https://capgo.app/premium-support/"> Fix your annoying bug now, Hire a Capacitor expert 💪</a></h2>
 </div>
 <br>
 
@@ -53,7 +53,7 @@ Ionic is an open-source mobile application framework that makes it easy to build
 - [Author](#author)
 
 ## Current Ionic version
-[![npm version](https://badge.fury.io/js/@ionic%2Fangular.svg)](https://badge.fury.io/js/@ionic%2Fangular)
+[![npm version](https://img.shields.io/npm/v/@ionic/angular)](https://www.npmjs.com/package/@ionic/angular)
 
 
 ## Official Resources
@@ -77,22 +77,22 @@ Ionic is an open-source mobile application framework that makes it easy to build
 - [How to Create a Data Model in Ionic](http://www.joshmorony.com/how-to-create-a-data-model-in-ionic-2/)
 - [Ionic and External Libraries](http://mhartington.io/post/ionic2-external-libraries/)
 - [Understanding Zones and Change Detection in Ionic & Angular 2](http://www.joshmorony.com/understanding-zones-and-change-detection-in-ionic-2-angular-2/)
-- [Understanding Ionic: Pipe](http://mcgivery.com/understanding-ionic-2-pipe/)
+- [Custom Pipes in Ionic](https://www.joshmorony.com/custom-pipes-in-ionic-2/)
 - [How to Manipulate Data in Ionic: Part 1](http://www.joshmorony.com/how-to-manipulate-data-in-ionic-2-part-1/)
 - [How to Manipulate Data in Ionic: Part 2](http://www.joshmorony.com/how-to-manipulate-data-in-ionic-2-part-2/)
 - [Filtering, Mapping, and Reducing Arrays in Ionic](https://www.youtube.com/watch?v=A-4CLa05tp0)
-- [Build a basic mobile app with Ionic 4](https://enappd.com/blog/how-to-create-an-ionic-4-app-for-beginners/13)
+- [Your First Ionic App: Angular](https://ionicframework.com/docs/angular/your-first-app)
 - [Read SMS in Ionic 4 apps](https://enappd.com/blog/automatically-read-sms-in-ionic-4-apps/42)
-- [Geolocation, geocoding and reverse geocoding in Ionic 4](https://enappd.com/blog/using-geolocation-geocoding-and-reverse-geocoding-in-ionic-4/45)
-- [RTL (right-to-left) layout in Ionic 4 apps](https://enappd.com/blog/rtl-right-to-left-use-in-ionic-4/50)
-- [Push notifications in Ionic 4 apps](https://enappd.com/blog/implement-ionic-4-firebase-push/34)
+- [Geolocation with Capacitor](https://capacitorjs.com/docs/apis/geolocation)
+
+- [Push Notifications with Firebase in Ionic](https://capacitorjs.com/docs/guides/push-notifications-firebase)
 - [Google Vision in Ionic 4 apps](https://enappd.com/blog/implement-google-vision-in-ionic-4/43)
 - [Add headless ButterCMS to your Ionic App by Mike Hartington](https://buttercms.com/blog/integrating-buttercms-with-ionic)
 
 
 ## Theming
 - [A Guide to Styling an Ionic Application](http://www.joshmorony.com/a-guide-to-styling-an-ionic-2-application/)
-- [Best practice when adding FontAwesome to an ionic2 app](http://luiscabrera.site/tech/2017/01/09/fontawesome-in-ionic2.html)
+
 - [A List of Common CSS Utility Attributes in Ionic](http://www.joshmorony.com/a-list-of-common-css-utility-attributes-in-ionic-2/)
 - [5 Animation Packages You Can Immediately Use Inside Your Ionic App](https://devdactic.com/5-animation-packages-ionic/)
 
@@ -106,10 +106,10 @@ Ionic is an open-source mobile application framework that makes it easy to build
 
 ## Authentication
 - [Twitter Login in Ionic 4 App using Firebase](https://enappd.com/blog/twitter-login-in-ionic-4-apps-using-firebase/24)
-- [Facebook Login in Ionic 4 App using Firebase](https://enappd.com/blog/facebook-login-in-ionic-4-apps-using-firebase/25)
+- [Facebook Login in Ionic with Firebase](https://www.joshmorony.com/native-web-facebook-authentication-with-firebase-in-ionic/)
 - [Google Login in Ionic 4 App using Firebase](https://enappd.com/blog/google-login-in-ionic-4-apps-using-firebase/39)
-- [Anonymous Login in Ionic 4 App using Firebase](https://enappd.com/blog/firebase-anonymous-login-in-ionic-4/37)
-- [Basic Email Login in Ionic 4 App using Firebase](https://enappd.com/blog/email-authentication-with-firebase-in-ionic-4/38)
+- [Firebase Anonymous Authentication](https://firebase.google.com/docs/auth/web/anonymous-auth)
+- [Firebase Email/Password Authentication](https://firebase.google.com/docs/auth/web/password-auth)
 - [Add Touch ID Authentication To An Ionic Mobile App](https://www.thepolyglotdeveloper.com/2016/03/add-touch-id-authentication-ionic-2-mobile-app/)
 - [Using An Oauth 2.0 Service Within An Ionic Mobile App](https://www.thepolyglotdeveloper.com/2016/01/using-an-oauth-2-0-service-within-an-ionic-2-mobile-app/)
 - [Ionic and Auth0](http://blog.ionic.io/ionic-2-and-auth0/)
@@ -132,15 +132,15 @@ Ionic is an open-source mobile application framework that makes it easy to build
 - [Add Barcode Scanning Functionality To Your Ionic App](https://www.thepolyglotdeveloper.com/2016/02/add-barcode-scanning-functionality-to-your-ionic-2-app/)
 - [Use Google Analytics In An Ionic Android And iOS App](https://www.thepolyglotdeveloper.com/2016/03/use-google-analytics-in-an-ionic-2-android-and-ios-app/)
 - [Share Things On Social Media Via An Ionic Mobile App](https://www.thepolyglotdeveloper.com/2016/02/share-things-on-social-media-via-an-ionic-2-mobile-app/)
-- [How To Use PouchDB + SQLite For Local Storage In Ionic](http://gonehybrid.com/how-to-use-pouchdb-sqlite-for-local-storage-in-ionic-2/)
+
 - [Adding Background Geolocation to an Ionic Application](http://www.joshmorony.com/adding-background-geolocation-to-an-ionic-2-application/)
 - [Getting Familiar with Local Notifications in Ionic](http://www.joshmorony.com/getting-familiar-with-local-notifications-in-ionic-2/)
 - [Create a Nearby Places List with Google Maps in Ionic – Part 1](http://www.joshmorony.com/create-a-nearby-places-list-with-google-maps-in-ionic-2-part-1/)
 - [Create a Nearby Places List with Google Maps in Ionic – Part 2](http://www.joshmorony.com/create-a-nearby-places-list-with-google-maps-in-ionic-2-part-2/)
 
 ## Payment Gateway Integrations
-- [Ionic 4 Stripe Payment Integration](https://enappd.com/blog/ionic-4-stripe-payment-integration-with-firebase-for-apps-and-pwa/17)
-- [Ionic 4 PayPal Payment Integration](https://enappd.com/blog/ionic-4-paypal-payment-integration-for-apps-and-pwa/16)
+- [Stripe Payment Integration in Ionic](https://medium.com/enappd/integrating-stripe-payment-in-ionic-4-for-apps-and-pwa-de05142c523e)
+- [PayPal Integration in Ionic](https://enappd.com/blog/paypal-integration-in-ionic-apps-and-pwa/142/)
 - [Ionic 4 Apple Pay Payment Integration](https://enappd.com/blog/how-to-integrate-apple-pay-in-ionic-4-apps/21)
 - [Ionic 4 Razorpay Payment Integration](https://enappd.com/blog/how-to-integrate-razorpay-in-ionic-4-apps-and-pwa/20)
 
@@ -151,13 +151,17 @@ Ionic is an open-source mobile application framework that makes it easy to build
 - [Make HTTP Requests In An Ionic Android And iOS App](https://www.thepolyglotdeveloper.com/2016/01/make-http-requests-in-an-ionic-2-android-and-ios-app/)
 
 ## i18n & l10n
-- [Internationalize and Localize Your Ionic 4 App](https://enappd.com/blog/how-to-translate-in-ionic-4-globalization-internationalization-and-localization/11)
+- [Localizing Ionic Apps with ngx-translate](https://phrase.com/blog/posts/localizing-ionic-applications-with-ngx-translate)
 - [attranslate ![GitHub Repo Stars](https://img.shields.io/github/stars/fkirc/attranslate) ![GitHub last commit](https://img.shields.io/github/last-commit/fkirc/attranslate)](https://github.com/fkirc/attranslate) - Semi-automated translation of JSON and other resource files.
 
 ## Tools
 - [Ionic2-vscode](https://marketplace.visualstudio.com/items?itemName=jgw9617.ionic2-vscode)
 - [Vim-ionic2 ![GitHub Repo Stars](https://img.shields.io/github/stars/akz92/vim-ionic2) ![GitHub last commit](https://img.shields.io/github/last-commit/akz92/vim-ionic2)](https://github.com/akz92/vim-ionic2)
 - [Capacitor safe area simulator](https://chromewebstore.google.com/detail/capacitor-safe-area-simul/ddaaodgcccedhjbjeollookhompnlfhi) - Chrome extension to simulate safe area in the browser, it support Ionic, Knsta UI and Tailwind Capacitor.
+- [Capgo Skills](https://capgo.app/skills/) - Test your Ionic/Capacitor skills with interactive challenges.
+- [Capgo Security Scanner](https://capgo.app/security-scanner/) - Scan your Capacitor app for security vulnerabilities.
+- [Capgo Semver Tester](https://capgo.app/semver_tester/) - Test semantic versioning compatibility for Capacitor plugins.
+- [AASA Tester](https://aasa-tester.capgo.app) - Test Apple App Site Association files for iOS Universal Links.
 
 ## Video Tutorials
 - [Build a Todo App from Scratch with Ionic](http://www.joshmorony.com/build-a-todo-app-from-scratch-with-ionic-2-video-tutorial/)
@@ -168,13 +172,11 @@ Ionic is an open-source mobile application framework that makes it easy to build
 
 ## Books
 - [Building Mobile Apps with Ionic](https://www.joshmorony.com/building-mobile-apps-with-ionic-2/)
-- [Ionic Blueprints](https://www.packtpub.com/web-development/ionic-2-blueprints)
-- [Hybrid Mobile Development with Ionic](https://www.packtpub.com/application-development/hybrid-mobile-development-ionic)
+
+
 
 ## Boilerplate/Demo Apps 
-- [Ionic 4 Full Starter App and PWA](https://ionicthemes.com/product/ionic4-full-starter-app)
-- [Ionic 3 Starter App Template](https://ionicthemes.com/product/ion2fullapp-full-ionic2-app-template-elite-version)
-- [Ion2FullApp - Ionic 3 Template](https://ionicthemes.com/templates/ion2fullapp-full-ionic2-app-template)
+- [Ionic Official Starter Templates ![GitHub Repo Stars](https://img.shields.io/github/stars/ionic-team/starters) ![GitHub last commit](https://img.shields.io/github/last-commit/ionic-team/starters)](https://github.com/ionic-team/starters)
 - [Ionic Boilerplate ![GitHub Repo Stars](https://img.shields.io/github/stars/marcoturi/ionic-boilerplate) ![GitHub last commit](https://img.shields.io/github/last-commit/marcoturi/ionic-boilerplate)](https://github.com/marcoturi/ionic-boilerplate)
 - [Cordova File Transfer ![GitHub Repo Stars](https://img.shields.io/github/stars/dsgriffin/ionic-2-file-transfer-example) ![GitHub last commit](https://img.shields.io/github/last-commit/dsgriffin/ionic-2-file-transfer-example)](https://github.com/dsgriffin/ionic-2-file-transfer-example)
 - [Update your App ![GitHub Repo Stars](https://img.shields.io/github/stars/NextFaze/ionic-manup) ![GitHub last commit](https://img.shields.io/github/last-commit/NextFaze/ionic-manup)](https://github.com/NextFaze/ionic-manup)
@@ -194,11 +196,7 @@ Ionic is an open-source mobile application framework that makes it easy to build
 - [Ionic 5 Tinder Starter](https://store.enappd.com/product/dating-app-starter-ionic4-tinder-clone/)
 - [Ionic 5 Spotify Starter](https://store.enappd.com/product/ionic-4-spotify-app-starter/)
 - [Ionic 5 Food Delivery App Starter](https://store.enappd.com/product/ionic-4-food-ordering-app-starter/)
-- [Ionic 5 Carpooling App Starter](https://store.enappd.com/product/carpool-app-starter/)
-- [Ionic 5 Google Vision Starter](https://store.enappd.com/product/ionic-4-google-vision-starter/)
-- [Ionic 5 Firebase Full App Starter](https://store.enappd.com/product/ionic-4-firebase-full-app-starter/)
-- [Ionic 6 vue Firebase Full App Starter](https://store.enappd.com/product/ionic-vue-firebase-full-app/)
-- [Ionic 6 React Full App Starter](https://store.enappd.com/product/ionic-react-full-app-capacitor/)
+
 - [Ionic 6 Capacitor Full App Starter](https://store.enappd.com/product/capacitor-full-app-with-ionic-angular/)
 
 ## Components
@@ -261,7 +259,7 @@ Ionic is an open-source mobile application framework that makes it easy to build
 ### Charts/Diagram
 - [Charts ![GitHub Repo Stars](https://img.shields.io/github/stars/valor-software/ng2-charts) ![GitHub last commit](https://img.shields.io/github/last-commit/valor-software/ng2-charts)](https://github.com/valor-software/ng2-charts) 
 - [D3 Service ![GitHub Repo Stars](https://img.shields.io/github/stars/tomwanzek/d3-ng2-service) ![GitHub last commit](https://img.shields.io/github/last-commit/tomwanzek/d3-ng2-service)](https://github.com/tomwanzek/d3-ng2-service) 
-- [D3 Barchart ![GitHub Repo Stars](https://img.shields.io/github/stars/keathmilligan/angular2-d3-v4) ![GitHub last commit](https://img.shields.io/github/last-commit/keathmilligan/angular2-d3-v4)](https://github.com/keathmilligan/angular2-d3-v4) 
+- [D3 Angular Examples ![GitHub Repo Stars](https://img.shields.io/github/stars/datencia/d3js-angular-examples) ![GitHub last commit](https://img.shields.io/github/last-commit/datencia/d3js-angular-examples)](https://github.com/datencia/d3js-angular-examples) 
 - [D3 Line/Bar/Pie Charts ![GitHub Repo Stars](https://img.shields.io/github/stars/datencia/d3js-angular2-example) ![GitHub last commit](https://img.shields.io/github/last-commit/datencia/d3js-angular2-example)](https://github.com/datencia/d3js-angular2-example) 
 
 ### Video/Audio
@@ -304,8 +302,6 @@ Ionic is an open-source mobile application framework that makes it easy to build
 - [Ionic 4 Twitter login with Firebase ![GitHub Repo Stars](https://img.shields.io/github/stars/enappd/Ionic-4-Twitter-auth) ![GitHub last commit](https://img.shields.io/github/last-commit/enappd/Ionic-4-Twitter-auth)](https://github.com/enappd/Ionic-4-Twitter-auth)
 - [Ionic 4 Facebook login with Firebase ![GitHub Repo Stars](https://img.shields.io/github/stars/enappd/ionic4-facebookAuth) ![GitHub last commit](https://img.shields.io/github/last-commit/enappd/ionic4-facebookAuth)](https://github.com/enappd/ionic4-facebookAuth)
 - [Translation in Ionic 4 - Internationalization and localization ![GitHub Repo Stars](https://img.shields.io/github/stars/enappd/ionic4-i18n) ![GitHub last commit](https://img.shields.io/github/last-commit/enappd/ionic4-i18n)](https://github.com/enappd/ionic4-i18n)
-- [Ionic 4 Free chat themes](https://store.enappd.com/product/free-chat-themes-ionic4/)
-
 ## Contribute
 Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
 
