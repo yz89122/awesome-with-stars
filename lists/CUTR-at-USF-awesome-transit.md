@@ -121,6 +121,7 @@ Software that makes it easy to consume GTFS data in a variety of languages.
 ##### R
 - [r-transit](https://github.com/r-transit) - Collection of tools for GTFS in R.
 - [gtfsio ![GitHub Repo Stars](https://img.shields.io/github/stars/r-transit/gtfsio) ![GitHub last commit](https://img.shields.io/github/last-commit/r-transit/gtfsio)](https://github.com/r-transit/gtfsio) - Fast and flexible functions to read and write GTFS in R.
+- [mobdb ![GitHub Repo Stars](https://img.shields.io/github/stars/jasonad123/mobdb) ![GitHub last commit](https://img.shields.io/github/last-commit/jasonad123/mobdb)](https://github.com/jasonad123/mobdb) - R functions to search, discover, and access transit feed data from the [Mobility Database](https://mobilitydatabase.org/).
 - [tidytransit ![GitHub Repo Stars](https://img.shields.io/github/stars/r-transit/tidytransit) ![GitHub last commit](https://img.shields.io/github/last-commit/r-transit/tidytransit)](https://github.com/r-transit/tidytransit) - Use tidytransit to map transit stops and routes, calculate travel times and transit frequencies, and validate transit feeds. tidytransit reads the General Transit Feed Specification into tidyverse and simple features data frames.
 
 ##### Ruby
