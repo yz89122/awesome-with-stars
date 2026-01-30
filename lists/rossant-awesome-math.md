@@ -228,7 +228,7 @@ All resources are freely available except those with a 💲 icon.
 
 * 📝 [Sets, Relations, Functions](http://www.cosc.brocku.ca/~duentsch/papers/methprimer1.html) - Ivo Düntsch, Günther Gediga
 * 📝 [An Introduction to Set Theory](http://www.math.toronto.edu/weiss/set_theory.pdf) - William A. R. Weiss
-* 📝 [Set Theory and Foundations of Mathematics](http://www.settheory.net/) - Sylvain Poirier
+* �� [Set Theory and Foundations of Mathematics](http://www.settheory.net/) - Sylvain Poirier
 * 📝 [Set Theory on the Stanford Encyclopedia of Philosophy](http://plato.stanford.edu/entries/set-theory/)
 
 ### Logic
@@ -491,7 +491,7 @@ All resources are freely available except those with a 💲 icon.
 * 📝 [A Guide to Complex Variables](http://www.math.wustl.edu/~sk/books/guide.pdf) - Steven G. Krantz
 * 📝 [Complex Analysis](http://www.maths.manchester.ac.uk/~cwalkden/complex-analysis/complex_analysis.pdf) - Charles Walkden
 * 📝 [Complex Analysis](http://www.math.ku.dk/noter/filer/koman-12.pdf) - Christian Berg
-* 📝 [Complex Variables](http://people.math.sc.edu/girardi/m7034/book/AshComplexVariablesWithHyperlinks.pdf) - R. B. Ash, W.P. Novinger
+* ��� [Complex Variables](http://people.math.sc.edu/girardi/m7034/book/AshComplexVariablesWithHyperlinks.pdf) - R. B. Ash, W.P. Novinger
 * 📝 [Complex Analysis](http://www.maths.lth.se/matematiklu/personal/olofsson/CompHT06.pdf) - Christer Bennewitz
 * 📝 [Complex Analysis](https://web.archive.org/web/20150620124453/https://www.math.washington.edu/~marshall/math_536/Notes.pdf) - Donald E. Marshall
 * 📝 [A Concise Course in Complex Analysis and Riemann Surfaces](https://gauss.math.yale.edu/~ws442/complex.pdf) - Wilhelm Schlag
