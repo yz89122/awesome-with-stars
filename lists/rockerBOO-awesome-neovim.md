@@ -603,7 +603,7 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 - [wsdjeg/bufdel.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/wsdjeg/bufdel.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/wsdjeg/bufdel.nvim)](https://github.com/wsdjeg/bufdel.nvim) - Delete buffers without changing windows layout.
 - [m-demare/attempt.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/m-demare/attempt.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/m-demare/attempt.nvim)](https://github.com/m-demare/attempt.nvim) - Manage and run temporary buffers.
 <!--lint disable double-link -->
-[**��� back to top**](#contents)
+[**⬆ back to top**](#contents)
 <!--lint enable double-link -->
 
 ## Color
