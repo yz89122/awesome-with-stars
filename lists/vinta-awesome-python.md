@@ -737,8 +737,8 @@ _Libraries for Machine Learning. Also see [awesome-machine-learning ![GitHub Rep
 - [pydantic-ai ![GitHub Repo Stars](https://img.shields.io/github/stars/pydantic/pydantic-ai) ![GitHub last commit](https://img.shields.io/github/last-commit/pydantic/pydantic-ai)](https://github.com/pydantic/pydantic-ai) - A Python agent framework for building generative AI applications with structured schemas.
 - [RAGFlow ![GitHub Repo Stars](https://img.shields.io/github/stars/infiniflow/ragflow) ![GitHub last commit](https://img.shields.io/github/last-commit/infiniflow/ragflow)](https://github.com/infiniflow/ragflow) - An open-source RAG engine for document understanding and question answering with LLMs.
 - [rasa ![GitHub Repo Stars](https://img.shields.io/github/stars/RasaHQ/rasa) ![GitHub last commit](https://img.shields.io/github/last-commit/RasaHQ/rasa)](https://github.com/RasaHQ/rasa) - An open-source machine learning framework for automated text and voice-based conversations.
-- [scikit-learn](http://scikit-learn.org/) - The most popular Python library for Machine Learning.
-- [Spark ML](http://spark.apache.org/docs/latest/ml-guide.html) - [Apache Spark](http://spark.apache.org/)'s scalable Machine Learning library.
+- [scikit-learn](http://scikit-learn.org/) - The most popular Python library for Machine Learning with extensive documentation and community support.
+- [Spark ML](http://spark.apache.org/docs/latest/ml-guide.html) - [Apache Spark](http://spark.apache.org/)'s scalable Machine Learning library for distributed computing.
 - [Transformers ![GitHub Repo Stars](https://img.shields.io/github/stars/huggingface/transformers) ![GitHub last commit](https://img.shields.io/github/last-commit/huggingface/transformers)](https://github.com/huggingface/transformers) - A framework that lets you easily use pretrained transformer models for NLP, vision, and audio tasks.
 - [xgboost ![GitHub Repo Stars](https://img.shields.io/github/stars/dmlc/xgboost) ![GitHub last commit](https://img.shields.io/github/last-commit/dmlc/xgboost)](https://github.com/dmlc/xgboost) - A scalable, portable, and distributed gradient boosting library.
 
@@ -1027,6 +1027,7 @@ _Libraries for testing codebases and generating test data._
   - [nose2 ![GitHub Repo Stars](https://img.shields.io/github/stars/nose-devs/nose2) ![GitHub last commit](https://img.shields.io/github/last-commit/nose-devs/nose2)](https://github.com/nose-devs/nose2) - The successor to `nose`, based on `unittest2.
   - [pytest](https://docs.pytest.org/en/latest/) - A mature full-featured Python testing tool.
   - [Robot Framework ![GitHub Repo Stars](https://img.shields.io/github/stars/robotframework/robotframework) ![GitHub last commit](https://img.shields.io/github/last-commit/robotframework/robotframework)](https://github.com/robotframework/robotframework) - A generic test automation framework.
+  - [ScanAPI](https://pypi.org/project/scanapi/) - Automated Testing and Documentation for your REST API.
   - [unittest](https://docs.python.org/3/library/unittest.html) - (Python standard library) Unit testing framework.
 - Test Runners
   - [green ![GitHub Repo Stars](https://img.shields.io/github/stars/CleanCut/green) ![GitHub last commit](https://img.shields.io/github/last-commit/CleanCut/green)](https://github.com/CleanCut/green) - A clean, colorful test runner.
