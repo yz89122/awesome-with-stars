@@ -880,6 +880,7 @@ _Set of components without layout system_
 - [element-pro-components ![GitHub Repo Stars](https://img.shields.io/github/stars/tolking/element-pro-components) ![GitHub last commit](https://img.shields.io/github/last-commit/tolking/element-pro-components)](https://github.com/tolking/element-pro-components) A component library for Vue 3 base on element-plus
 - [TW Elemetns for Vue](https://tw-elements.com/docs/standard/integrations/vue-integration/) - Vue integration with Tailwind CSS - a free, open-source UI Kit
 - [Origin UI Vue](https://originui-vue.pages.dev/) - Beautiful UI components built with Tailwind CSS and Vue
+- [@todovue/tv-ui ![GitHub Repo Stars](https://img.shields.io/github/stars/TODOvue/tv-ui) ![GitHub last commit](https://img.shields.io/github/last-commit/TODOvue/tv-ui)](https://github.com/TODOvue/tv-ui) - A customizable, accessibility-first UI component library for Vue 3. [Docs](https://ui.todovue.blog/)
 
 #### Admin Template
 
