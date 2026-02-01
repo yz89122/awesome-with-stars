@@ -435,6 +435,7 @@ _Frameworks for Neural Networks and Deep Learning. Also see [awesome-deep-learni
 - [pytorch ![GitHub Repo Stars](https://img.shields.io/github/stars/pytorch/pytorch) ![GitHub last commit](https://img.shields.io/github/last-commit/pytorch/pytorch)](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration.
 - [stable-baselines3 ![GitHub Repo Stars](https://img.shields.io/github/stars/DLR-RM/stable-baselines3) ![GitHub last commit](https://img.shields.io/github/last-commit/DLR-RM/stable-baselines3)](https://github.com/DLR-RM/stable-baselines3) - PyTorch implementations of Stable Baselines (deep) reinforcement learning algorithms.
 - [tensorflow ![GitHub Repo Stars](https://img.shields.io/github/stars/tensorflow/tensorflow) ![GitHub last commit](https://img.shields.io/github/last-commit/tensorflow/tensorflow)](https://github.com/tensorflow/tensorflow) - The most popular Deep Learning framework created by Google.
+- [vllm ![GitHub Repo Stars](https://img.shields.io/github/stars/vllm-project/vllm) ![GitHub last commit](https://img.shields.io/github/last-commit/vllm-project/vllm)](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs.
 
 ## DevOps Tools
 
@@ -546,6 +547,7 @@ _Libraries for Python version and virtual environment management._
 
 _Libraries for file manipulation._
 
+- [markitdown ![GitHub Repo Stars](https://img.shields.io/github/stars/microsoft/markitdown) ![GitHub last commit](https://img.shields.io/github/last-commit/microsoft/markitdown)](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [mimetypes](https://docs.python.org/3/library/mimetypes.html) - (Python standard library) Map filenames to MIME types.
 - [path.py ![GitHub Repo Stars](https://img.shields.io/github/stars/jaraco/path.py) ![GitHub last commit](https://img.shields.io/github/last-commit/jaraco/path.py)](https://github.com/jaraco/path.py) - A module wrapper for [os.path](https://docs.python.org/3/library/os.path.html).
 - [pathlib](https://docs.python.org/3/library/pathlib.html) - (Python standard library) An cross-platform, object-oriented path library.
