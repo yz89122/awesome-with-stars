@@ -790,6 +790,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [Transifex ![GitHub Repo Stars](https://img.shields.io/github/stars/transifex/transifex-javascript) ![GitHub last commit](https://img.shields.io/github/last-commit/transifex/transifex-javascript)](https://github.com/transifex/transifex-javascript/tree/master/packages/angular/projects/tx-native-angular-sdk) - You can easily localize Angular components using the [Transifex library extension](https://www.npmjs.com/package/@transifex/angular). This library extends the functionality of [Transifex Native JavaScript SDK](https://developers.transifex.com/docs/javascript-sdk).
 * [transloco ![GitHub Repo Stars](https://img.shields.io/github/stars/jsverse/transloco) ![GitHub last commit](https://img.shields.io/github/last-commit/jsverse/transloco)](https://github.com/jsverse/transloco) - The internationalization (i18n) library for Angular.
 * [transloco-keys-manager ![GitHub Repo Stars](https://img.shields.io/github/stars/jsverse/transloco-keys-manager) ![GitHub last commit](https://img.shields.io/github/last-commit/jsverse/transloco-keys-manager)](https://github.com/jsverse/transloco-keys-manager) - Tools to help reduce monotonous work.
+* [xlf-sync ![GitHub Repo Stars](https://img.shields.io/github/stars/atheodosiou/xlf-sync) ![GitHub last commit](https://img.shields.io/github/last-commit/atheodosiou/xlf-sync)](https://github.com/atheodosiou/xlf-sync) - A CLI tool for synchronizing Angular XLIFF (1.2 & 2.0) locale files.
 
 ### Linting
 

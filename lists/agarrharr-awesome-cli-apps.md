@@ -135,6 +135,7 @@ Inspired by the [awesome ![GitHub Repo Stars](https://img.shields.io/github/star
 - [Dwarf Fortress](http://www.bay12games.com/dwarves/) - Roguelike construction and management simulation.
 - [Cataclysm-DDA](https://cataclysmdda.org) - Turn-based survival game set in a post-apocalyptic world.
 - [Pokete ![GitHub Repo Stars](https://img.shields.io/github/stars/lxgr-linux/Pokete) ![GitHub last commit](https://img.shields.io/github/last-commit/lxgr-linux/Pokete)](https://github.com/lxgr-linux/Pokete) - Pokemon-like.
+- [NetHack](https://www.nethack.org) - Roguelike dungeon crawler.
 
 ### Books
 
