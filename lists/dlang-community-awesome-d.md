@@ -30,8 +30,8 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 * Continuous Integration
 	* [GitHub Actions](#github-actions)
 	* [Testing Frameworks](#testing-frameworks)
-* Compiler for Other Languages
-	* [Javascript](#javascript)
+* Languages
+	* [Programming Languages](#programming-languages)
 * OS
 	* [Operating Systems](#operating-systems)
 	* [Bare Metal / Kernel Development](#bare-metal--kernel-development)
@@ -260,13 +260,16 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 * [silly](https://gitlab.com/AntonMeep/silly) - Better test runner for the D programming language. No nonsense.
 * [fluent-asserts ![GitHub Repo Stars](https://img.shields.io/github/stars/gedaiu/fluent-asserts) ![GitHub last commit](https://img.shields.io/github/last-commit/gedaiu/fluent-asserts)](https://github.com/gedaiu/fluent-asserts) - Fluent assertion framework with expressive syntax and detailed error messages.
 
-## Javascript
+## Programming Languages
+
+*Programming languages written in D.*
 
 * [higgs ![GitHub Repo Stars](https://img.shields.io/github/stars/higgsjs/Higgs) ![GitHub last commit](https://img.shields.io/github/last-commit/higgsjs/Higgs)](https://github.com/higgsjs/Higgs) - Higgs JavaScript Virtual Machine, implemented in D.
+* [Glang ![GitHub Repo Stars](https://img.shields.io/github/stars/pouyathe/glang) ![GitHub last commit](https://img.shields.io/github/last-commit/pouyathe/glang)](https://github.com/pouyathe/glang) - Interpreter for G programming language.
 
 ## Operating Systems
 
-*Operating Systems written in D.*
+*Operating systems written in D.*
 
 * [PowerNex ![GitHub Repo Stars](https://img.shields.io/github/stars/PowerNex/PowerNex) ![GitHub last commit](https://img.shields.io/github/last-commit/PowerNex/PowerNex)](https://github.com/PowerNex/PowerNex) - A kernel written in D
 * [SerpentOS](https://gitlab.com/serpent-os) - Snek factory
@@ -386,7 +389,7 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 
 * [giD ![GitHub Repo Stars](https://img.shields.io/github/stars/Kymorphia/gid) ![GitHub last commit](https://img.shields.io/github/last-commit/Kymorphia/gid)](https://github.com/Kymorphia/gid) - GObject Introspection D Package Repository.
 * [Fluid](https://git.samerion.com/Samerion/Fluid) - A declarative cross-platform user interface library for D.
-* [minigui ![GitHub Repo Stars](https://img.shields.io/github/stars/adamdruppe/arsd) ![GitHub last commit](https://img.shields.io/github/last-commit/adamdruppe/arsd)](https://github.com/adamdruppe/arsd/blob/master/minigui.d) - A smallish GUI widget library, aiming to be on par with at least HTML4 forms and a few other expected gui components.
+* [minigui](https://arsd-official.dpldocs.info/arsd.minigui.html) - A smallish GUI widget library, aiming to be on par with at least HTML4 forms and a few other expected gui components. It's part of the [arsd libraries ![GitHub Repo Stars](https://img.shields.io/github/stars/adamdruppe/arsd) ![GitHub last commit](https://img.shields.io/github/last-commit/adamdruppe/arsd)](https://github.com/adamdruppe/arsd/blob/master/minigui.d).
 * [DLangUI ![GitHub Repo Stars](https://img.shields.io/github/stars/buggins/dlangui) ![GitHub last commit](https://img.shields.io/github/last-commit/buggins/dlangui)](https://github.com/buggins/dlangui) - Cross Platform GUI for D programming language. My personal favorite, because it is written in D(not a binding), and is cross platform. DLangUI also has a good showcase in the IDE [DLangIDE ![GitHub Repo Stars](https://img.shields.io/github/stars/buggins/dlangide) ![GitHub last commit](https://img.shields.io/github/last-commit/buggins/dlangide)](https://github.com/buggins/dlangide).
 * [microui-d ![GitHub Repo Stars](https://img.shields.io/github/stars/Kapendev/microui-d) ![GitHub last commit](https://img.shields.io/github/last-commit/Kapendev/microui-d)](https://github.com/Kapendev/microui-d) - A tiny immediate-mode UI library.
 * [GtkD ![GitHub Repo Stars](https://img.shields.io/github/stars/gtkd-developers/GtkD) ![GitHub last commit](https://img.shields.io/github/last-commit/gtkd-developers/GtkD)](https://github.com/gtkd-developers/GtkD) - GtkD is a D binding and OO wrapper of GTK+. GtkD is actively maintained and is currently the most stable GUI lib for D.
@@ -452,6 +455,8 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 *D libraries for game development.*
 
 * [InMath ![GitHub Repo Stars](https://img.shields.io/github/stars/Inochi2D/inmath) ![GitHub last commit](https://img.shields.io/github/last-commit/Inochi2D/inmath)](https://github.com/Inochi2D/inmath) - Games math library for D.
+* [godot-math ![GitHub Repo Stars](https://img.shields.io/github/stars/AuburnSounds/godot-math) ![GitHub last commit](https://img.shields.io/github/last-commit/AuburnSounds/godot-math)](https://github.com/AuburnSounds/godot-math) - A D port of Godot's linear algebra with unchanged semantics.
+* [text-mode ![GitHub Repo Stars](https://img.shields.io/github/stars/AuburnSounds/text-mode) ![GitHub last commit](https://img.shields.io/github/last-commit/AuburnSounds/text-mode)](https://github.com/AuburnSounds/text-mode) - Virtual text mode with 8x8 Unicode font and markup language.
 
 *Libraries for 2D-related projects.*
 
