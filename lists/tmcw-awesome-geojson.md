@@ -52,6 +52,7 @@ GeoJSON utilities that will make your life easier.
 * [img2geojson](https://caseymm.github.io/img2geojson/): digitize images by overlaying on a web map and drawing
 * [point_ed](https://zverik.github.io/point_ed/): click on map to add points, download those as GeoJSON file
 * [geojson.io-for-vscode](https://marketplace.visualstudio.com/items?itemName=swallow.geojson-io-for-vscode): create, edit, and preview GeoJSON data in VSCode, just like [geojson.io](http://geojson.io/)
+* [Vector Tile Lab ![GitHub Repo Stars](https://img.shields.io/github/stars/spider-hand/vector-tile-lab) ![GitHub last commit](https://img.shields.io/github/last-commit/spider-hand/vector-tile-lab)](https://github.com/spider-hand/vector-tile-lab): An interactive sandbox to tune vector tiles
 
 ### validation
 
