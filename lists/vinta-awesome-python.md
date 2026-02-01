@@ -561,6 +561,7 @@ _Functional Programming with Python._
 
 - [coconut ![GitHub Repo Stars](https://img.shields.io/github/stars/evhub/coconut) ![GitHub last commit](https://img.shields.io/github/last-commit/evhub/coconut)](https://github.com/evhub/coconut) - A variant of Python built for simple, elegant, Pythonic functional programming.
 - [cytoolz ![GitHub Repo Stars](https://img.shields.io/github/stars/pytoolz/cytoolz) ![GitHub last commit](https://img.shields.io/github/last-commit/pytoolz/cytoolz)](https://github.com/pytoolz/cytoolz/) - Cython implementation of `Toolz`: High performance functional utilities.
+- [functools](https://docs.python.org/3/library/functools.html) - (Python standard library) Higher-order functions and operations on callable objects.
 - [funcy ![GitHub Repo Stars](https://img.shields.io/github/stars/Suor/funcy) ![GitHub last commit](https://img.shields.io/github/last-commit/Suor/funcy)](https://github.com/Suor/funcy) - A fancy and practical functional tools.
 - [more-itertools ![GitHub Repo Stars](https://img.shields.io/github/stars/erikrose/more-itertools) ![GitHub last commit](https://img.shields.io/github/last-commit/erikrose/more-itertools)](https://github.com/erikrose/more-itertools) - More routines for operating on iterables, beyond `itertools`.
 - [returns ![GitHub Repo Stars](https://img.shields.io/github/stars/dry-python/returns) ![GitHub last commit](https://img.shields.io/github/last-commit/dry-python/returns)](https://github.com/dry-python/returns) - A set of type-safe monads, transformers, and composition utilities.
@@ -1134,6 +1135,7 @@ _Libraries for extracting web contents._
 
 _Libraries to automate web scraping._
 
+- [browser-use ![GitHub Repo Stars](https://img.shields.io/github/stars/browser-use/browser-use) ![GitHub last commit](https://img.shields.io/github/last-commit/browser-use/browser-use)](https://github.com/browser-use/browser-use) - Make websites accessible for AI agents with easy browser automation.
 - [feedparser ![GitHub Repo Stars](https://img.shields.io/github/stars/kurtmckee/feedparser) ![GitHub last commit](https://img.shields.io/github/last-commit/kurtmckee/feedparser)](https://github.com/kurtmckee/feedparser) - Universal feed parser.
 - [grab ![GitHub Repo Stars](https://img.shields.io/github/stars/lorien/grab) ![GitHub last commit](https://img.shields.io/github/last-commit/lorien/grab)](https://github.com/lorien/grab) - Site scraping framework.
 - [mechanicalsoup ![GitHub Repo Stars](https://img.shields.io/github/stars/MechanicalSoup/MechanicalSoup) ![GitHub last commit](https://img.shields.io/github/last-commit/MechanicalSoup/MechanicalSoup)](https://github.com/MechanicalSoup/MechanicalSoup) - A Python library for automating interaction with websites.
