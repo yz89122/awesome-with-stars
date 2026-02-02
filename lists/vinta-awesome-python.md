@@ -834,6 +834,7 @@ _Frameworks and tools for penetration testing._
 
 - [fsociety ![GitHub Repo Stars](https://img.shields.io/github/stars/Manisso/fsociety) ![GitHub last commit](https://img.shields.io/github/last-commit/Manisso/fsociety)](https://github.com/Manisso/fsociety) - A Penetration testing framework.
 - [setoolkit ![GitHub Repo Stars](https://img.shields.io/github/stars/trustedsec/social-engineer-toolkit) ![GitHub last commit](https://img.shields.io/github/last-commit/trustedsec/social-engineer-toolkit)](https://github.com/trustedsec/social-engineer-toolkit) - A toolkit for social engineering.
+- [sherlock ![GitHub Repo Stars](https://img.shields.io/github/stars/sherlock-project/sherlock) ![GitHub last commit](https://img.shields.io/github/last-commit/sherlock-project/sherlock)](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks.
 - [sqlmap ![GitHub Repo Stars](https://img.shields.io/github/stars/sqlmapproject/sqlmap) ![GitHub last commit](https://img.shields.io/github/last-commit/sqlmapproject/sqlmap)](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool.
 
 ## Permissions

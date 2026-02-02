@@ -553,7 +553,7 @@ By default, govulncheck makes requests to the Go vulnerability database at https
 
 - **interfacer** :warning: — Suggest narrower interfaces that can be used.
 
-- **lll** :warning: — Report long lines.
+- **lll** :warning: ��� Report long lines.
 
 - **maligned** :warning: — Detect structs that would take less memory if their fields were sorted.
 
