@@ -87,7 +87,7 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 - [Preconfigured Configuration](#preconfigured-configuration)
 - [External](#external)
   - [Version Manager](#version-manager)
-  - [Boilerplate](#boilerplate)
+  - [Plugin Template](#plugin-template)
   - [OS-specific](#os-specific)
 - [Wishlist](#wishlist)
 - [UI](#ui)
@@ -1730,7 +1730,7 @@ These tools are used externally to Neovim to enhance the experience.
 - [NTBBloodbath/nvenv ![GitHub Repo Stars](https://img.shields.io/github/stars/NTBBloodbath/nvenv) ![GitHub last commit](https://img.shields.io/github/last-commit/NTBBloodbath/nvenv)](https://github.com/NTBBloodbath/nvenv) - A lightweight and blazingly fast Neovim version manager.
 - [y3owk1n/nvs ![GitHub Repo Stars](https://img.shields.io/github/stars/y3owk1n/nvs) ![GitHub last commit](https://img.shields.io/github/last-commit/y3owk1n/nvs)](https://github.com/y3owk1n/nvs) - Another Neovim version manager with config switcher.
 
-### Boilerplate
+### Plugin Template
 
 - [gennaro-tedesco/boilit ![GitHub Repo Stars](https://img.shields.io/github/stars/gennaro-tedesco/boilit) ![GitHub last commit](https://img.shields.io/github/last-commit/gennaro-tedesco/boilit)](https://github.com/gennaro-tedesco/boilit) - Create boilerplate structure plugins.
 - [m00qek/plugin-template.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/m00qek/plugin-template.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/m00qek/plugin-template.nvim)](https://github.com/m00qek/plugin-template.nvim) - A plugin template that setups test infrastructure and GitHub Actions.
