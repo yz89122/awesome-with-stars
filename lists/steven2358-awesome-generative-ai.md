@@ -63,6 +63,7 @@ Generative Artificial Intelligence is a technology that creates original content
 - [Phind](https://phind.com/) - AI-based search engine.
 - [You.com](https://you.com/) - A search engine built on AI that provides users with a customized search experience while keeping their data 100% private.
 - [Komo](https://komo.ai/) - An AI-powered search engine.
+- [MemFree ![GitHub Repo Stars](https://img.shields.io/github/stars/memfreeme/memfree) ![GitHub last commit](https://img.shields.io/github/last-commit/memfreeme/memfree)](https://github.com/memfreeme/memfree) - Open Source Hybrid AI Search Engine, Instantly Get Accurate Answers from the Internet, Bookmarks, Notes, and Docs. Support One-Click Deployment
 
 ### Local search engines
 
@@ -340,7 +341,7 @@ Generative Artificial Intelligence is a technology that creates original content
 
 ### Animation
 
-- [Wonder Dynamics](https://wonderdynamics.com/) -  Effortlessly animate, light, and compose CG characters into live scenes.
+- [Wonder Dynamics](https://wonderdynamics.com/) - Effortlessly animate, light, and compose CG characters into live scenes.
 
 ## Audio
 
