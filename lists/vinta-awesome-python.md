@@ -127,6 +127,7 @@ _Python implementation of data structures, algorithms and design patterns. Also 
   - [sortedcontainers ![GitHub Repo Stars](https://img.shields.io/github/stars/grantjenks/python-sortedcontainers) ![GitHub last commit](https://img.shields.io/github/last-commit/grantjenks/python-sortedcontainers)](https://github.com/grantjenks/python-sortedcontainers) - Fast and pure-Python implementation of sorted collections.
   - [thealgorithms ![GitHub Repo Stars](https://img.shields.io/github/stars/TheAlgorithms/Python) ![GitHub last commit](https://img.shields.io/github/last-commit/TheAlgorithms/Python)](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python.
 - Design Patterns
+  - [python-cqrs ![GitHub Repo Stars](https://img.shields.io/github/stars/vadikko2/python-cqrs) ![GitHub last commit](https://img.shields.io/github/last-commit/vadikko2/python-cqrs)](https://github.com/vadikko2/python-cqrs) - Event-Driven Architecture Framework with CQRS/CQS, Transaction Outbox, Saga orchestration.
   - [python-patterns ![GitHub Repo Stars](https://img.shields.io/github/stars/faif/python-patterns) ![GitHub last commit](https://img.shields.io/github/last-commit/faif/python-patterns)](https://github.com/faif/python-patterns) - A collection of design patterns in Python.
   - [transitions ![GitHub Repo Stars](https://img.shields.io/github/stars/pytransitions/transitions) ![GitHub last commit](https://img.shields.io/github/last-commit/pytransitions/transitions)](https://github.com/pytransitions/transitions) - A lightweight, object-oriented finite state machine implementation.
 
@@ -257,6 +258,7 @@ _Tools of static analysis, linters and code quality checkers. Also see [awesome-
 _Libraries for building command-line applications._
 
 - Command-line Application Development
+  - [argparse](https://docs.python.org/3/library/argparse.html) - (Python standard library) Command-line option and argument parsing.
   - [cement ![GitHub Repo Stars](https://img.shields.io/github/stars/datafolklabs/cement) ![GitHub last commit](https://img.shields.io/github/last-commit/datafolklabs/cement)](https://github.com/datafolklabs/cement) - CLI Application Framework for Python.
   - [click ![GitHub Repo Stars](https://img.shields.io/github/stars/pallets/click) ![GitHub last commit](https://img.shields.io/github/last-commit/pallets/click)](https://github.com/pallets/click/) - A package for creating beautiful command line interfaces in a composable way.
   - [cliff ![GitHub Repo Stars](https://img.shields.io/github/stars/openstack/cliff) ![GitHub last commit](https://img.shields.io/github/last-commit/openstack/cliff)](https://github.com/openstack/cliff) - A framework for creating command-line programs with multi-level commands.
