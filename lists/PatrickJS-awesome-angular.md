@@ -2034,6 +2034,7 @@ for the creation of web applications developed with Angular.
 * [nmce ![GitHub Repo Stars](https://img.shields.io/github/stars/zijianhuang/nmce) ![GitHub last commit](https://img.shields.io/github/last-commit/zijianhuang/nmce)](https://github.com/zijianhuang/nmce) - Suite of Angular Material extensions with reusable code and UI enhancements for complex, data‑rich business apps.
 * [NgxMatFacetToolkit ![GitHub Repo Stars](https://img.shields.io/github/stars/drsutphin/NgxMatFacetToolkit) ![GitHub last commit](https://img.shields.io/github/last-commit/drsutphin/NgxMatFacetToolkit)](https://github.com/drsutphin/NgxMatFacetToolkit) - Angular standalone facet filtering toolkit with Material UI.
 * [ngx-dynamic-stepper ![GitHub Repo Stars](https://img.shields.io/github/stars/yingyu-projects/ngx-dynamic-stepper) ![GitHub last commit](https://img.shields.io/github/last-commit/yingyu-projects/ngx-dynamic-stepper)](https://github.com/yingyu-projects/ngx-dynamic-stepper) - A powerful, flexible Angular library for creating dynamic wizard-style steppers built on top of Angular Material Stepper.
+* [BuilderKit](https://builderkit.dev/) - A complete UI toolkit and modern design system built on Angular Material, with blocks, templates, and a solid foundation for building Angular applications.
 
 ### UI Libraries built on Tailwind CSS
 
