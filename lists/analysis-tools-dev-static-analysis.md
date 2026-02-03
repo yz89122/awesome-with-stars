@@ -294,7 +294,7 @@ Also check out the sister project, [awesome-dynamic-analysis ![GitHub Repo Stars
 
 - [SonarAnalyzer.CSharp ![GitHub Repo Stars](https://img.shields.io/github/stars/SonarSource/sonar-dotnet) ![GitHub last commit](https://img.shields.io/github/last-commit/SonarSource/sonar-dotnet)](https://github.com/SonarSource/sonar-dotnet) — These Roslyn analyzers allow you to produce Clean Code that is safe, reliable, and maintainable by helping you find and correct bugs, vulnerabilities, and code smells in your codebase.
 
-- **VSDiagnostics** :warning: ��� A collection of static analyzers based on Roslyn that integrates with VS.
+- **VSDiagnostics** :warning: — A collection of static analyzers based on Roslyn that integrates with VS.
 
 - [Wintellect.Analyzers ![GitHub Repo Stars](https://img.shields.io/github/stars/Wintellect/Wintellect.Analyzers) ![GitHub last commit](https://img.shields.io/github/last-commit/Wintellect/Wintellect.Analyzers)](https://github.com/Wintellect/Wintellect.Analyzers) — .NET Compiler Platform ("Roslyn") diagnostic analyzers and code fixes.
 
@@ -553,7 +553,7 @@ By default, govulncheck makes requests to the Go vulnerability database at https
 
 - **interfacer** :warning: — Suggest narrower interfaces that can be used.
 
-- **lll** :warning: — Report long lines.
+- **lll** :warning: ��� Report long lines.
 
 - **maligned** :warning: — Detect structs that would take less memory if their fields were sorted.
 
@@ -1262,7 +1262,7 @@ Kani verifies:
 
 - [sqlint ![GitHub Repo Stars](https://img.shields.io/github/stars/purcell/sqlint) ![GitHub last commit](https://img.shields.io/github/last-commit/purcell/sqlint)](https://github.com/purcell/sqlint) — Simple SQL linter.
 
-- [squawk](https://squawkhq.com) — Linter for PostgreSQL, focused on migrations. Prevents unexpected downtime caused by database migrations and encourages best practices around Postgres schemas and SQL.
+- [squawk](https://squawkhq.com) ��� Linter for PostgreSQL, focused on migrations. Prevents unexpected downtime caused by database migrations and encourages best practices around Postgres schemas and SQL.
 
 - **tsqllint** :warning: — T-SQL-specific linter.
 
