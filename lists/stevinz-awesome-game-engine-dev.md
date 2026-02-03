@@ -168,7 +168,7 @@ _Info on topics necessary for designing and developing game engines._
 - Education Portals
     - 📚 [Game Art Tricks](http://simonschreibt.de/game-art-tricks/) - Articles exploring different graphics techniques.
     - 📚 [Lighthouse3d.com](http://www.lighthouse3d.com/tutorials/) - Collection of tutorials on OpenGL, GLSL and other graphics topics.
-    - 📚 [Paper Bug](https://www.jeremyong.com/paperbug/) - Indexed compendium of graphics programming papers.
+    - ��� [Paper Bug](https://www.jeremyong.com/paperbug/) - Indexed compendium of graphics programming papers.
     - 📚 [Scratchapixel](https://www.scratchapixel.com) - In depth coverage of computer graphics topics.
 - Graphics API: DirectX
     - 🌎 [DirectX](https://docs.microsoft.com/en-us/windows/win32/directx) - _Microsoft_ API used to create 2D/3D games and apps. [[Blog](https://devblogs.microsoft.com/directx/) | [Samples ![GitHub Repo Stars](https://img.shields.io/github/stars/microsoft/DirectX-Graphics-Samples) ![GitHub last commit](https://img.shields.io/github/last-commit/microsoft/DirectX-Graphics-Samples)](https://github.com/microsoft/DirectX-Graphics-Samples)]
