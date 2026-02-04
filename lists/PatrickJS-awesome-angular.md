@@ -2056,6 +2056,7 @@ for the creation of web applications developed with Angular.
 * [simui ![GitHub Repo Stars](https://img.shields.io/github/stars/dofu-lab/simui) ![GitHub last commit](https://img.shields.io/github/last-commit/dofu-lab/simui)](https://github.com/dofu-lab/simui) - Beautiful Angular UI components built with Tailwind CSS and Spartan.
 * [synerity-ui ![GitHub Repo Stars](https://img.shields.io/github/stars/synerity-ai/synerity-ui) ![GitHub last commit](https://img.shields.io/github/last-commit/synerity-ai/synerity-ui)](https://github.com/synerity-ai/synerity-ui) - Enterprise‑grade Angular 20+ library with 90+ accessible, performant Tailwind‑styled components for modern apps.
 * [Tailkit UI](https://tailkit.com/) - Carefully crafted, customizable, fully responsive Tailwind CSS components, templates, and tools for your projects.
+* [tailng ![GitHub Repo Stars](https://img.shields.io/github/stars/tociva/tailng) ![GitHub last commit](https://img.shields.io/github/last-commit/tociva/tailng)](https://github.com/tociva/tailng) - Angular components styled with Tailwind to achieve a Material‑like look.
 * [zapui ![GitHub Repo Stars](https://img.shields.io/github/stars/zapuilib/zapui) ![GitHub last commit](https://img.shields.io/github/last-commit/zapuilib/zapui)](https://github.com/zapuilib/zapui) - Build scalable Angular apps with a Tailwind-powered design system from [zap:ui](https://zapui.togethercreative.co.uk/).
 
 ### UI Library and Framework Ionic
