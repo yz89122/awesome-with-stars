@@ -1704,6 +1704,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-md-editable](https://codeberg.org/tomaszatoo/ngx-md-editable) - A lightweight Angular component that edits Markdown and renders expressive HTML content.
 * [ngx-mdx ![GitHub Repo Stars](https://img.shields.io/github/stars/SalathielGenese/ngx-mdx) ![GitHub last commit](https://img.shields.io/github/last-commit/SalathielGenese/ngx-mdx)](https://github.com/SalathielGenese/ngx-mdx) - Take Angular lifecycle to Markdown for a seamless experience.
 * [ngx-remark ![GitHub Repo Stars](https://img.shields.io/github/stars/ericleib/ngx-remark) ![GitHub last commit](https://img.shields.io/github/last-commit/ericleib/ngx-remark)](https://github.com/ericleib/ngx-remark) - Render markdown with custom Angular templates.
+* [ngx-streamdown ![GitHub Repo Stars](https://img.shields.io/github/stars/dina-kar/ngx-streamdown) ![GitHub last commit](https://img.shields.io/github/last-commit/dina-kar/ngx-streamdown)](https://github.com/dina-kar/ngx-streamdown) - Angular port of [Streamdown](https://streamdown.ai/), a streaming Markdown renderer optimized for AI‑driven applications.
 
 ### Media
 
