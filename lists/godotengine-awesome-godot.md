@@ -451,6 +451,7 @@ See [Vivraan/godot-lang-support ![GitHub Repo Stars](https://img.shields.io/gith
 - [Alacritty ![GitHub Repo Stars](https://img.shields.io/github/stars/voylin/godot_color_theme) ![GitHub last commit](https://img.shields.io/github/last-commit/voylin/godot_color_theme)](https://github.com/voylin/godot_color_theme/tree/master/alacritty)
 - [NeoVim ![GitHub Repo Stars](https://img.shields.io/github/stars/voylin/godot_color_theme) ![GitHub last commit](https://img.shields.io/github/last-commit/voylin/godot_color_theme)](https://github.com/voylin/godot_color_theme/tree/master/lua)
 - [Visual Studio Code ![GitHub Repo Stars](https://img.shields.io/github/stars/ryanabx/godot-vscode-theme) ![GitHub last commit](https://img.shields.io/github/last-commit/ryanabx/godot-vscode-theme)](https://github.com/ryanabx/godot-vscode-theme)
+- [Zed ![GitHub Repo Stars](https://img.shields.io/github/stars/D4r3NPo/zed-godot-theme) ![GitHub last commit](https://img.shields.io/github/last-commit/D4r3NPo/zed-godot-theme)](https://github.com/D4r3NPo/zed-godot-theme)
 
 ## Unofficial Godot builds
 
