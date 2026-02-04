@@ -107,7 +107,7 @@ Creative technologists by definition have a breadth of skills as opposed to a sp
 | [**Geeksart**](http:&#x2F;&#x2F;geeks-art.com&#x2F;) | [Guangzhou] [Shanghai] | media sculptures, new media exhibition | [🌐](http:&#x2F;&#x2F;geeks-art.com&#x2F;join-us&#x2F;)
 | [**Giant Spoon**](https:&#x2F;&#x2F;giantspoon.com&#x2F;) | [NYC] [LA] | translate cultural trends into big ideas, experiential, gaming | [🌐](https:&#x2F;&#x2F;giantspoon.com&#x2F;#careers)
 | [**Groove Jones**](https:&#x2F;&#x2F;groovejones.com&#x2F;) | [Dallas] | XR, AR, VR, volumetric scanning, popups | [🌐](https:&#x2F;&#x2F;groovejones.com&#x2F;workwithus&#x2F;)
-| [**Hirsch &amp; Mann**](https:&#x2F;&#x2F;www.hirschandmann.com&#x2F;) | [London] | digital and physical experiences for premium brands worldwide, experiential retail marketing, installation design | [����](https:&#x2F;&#x2F;www.hirschandmann.com&#x2F;jobs&#x2F;)
+| [**Hirsch &amp; Mann**](https:&#x2F;&#x2F;www.hirschandmann.com&#x2F;) | [London] | digital and physical experiences for premium brands worldwide, experiential retail marketing, installation design | [🌐](https:&#x2F;&#x2F;www.hirschandmann.com&#x2F;jobs&#x2F;)
 | [**Hotel Creative**](https:&#x2F;&#x2F;hotelcreative.com&#x2F;) | [London] | retail, branding, exhibitions, events | [📧](mailto:jobs@hotelcreative.com)
 | [**Hovercraft**](https:&#x2F;&#x2F;www.hovercraftstudio.com&#x2F;) | [Denver] [Portland] | interactive installations, site-specific content, retail, sports | [🌐](https:&#x2F;&#x2F;hovercraftstudio.com&#x2F;careers?job&#x3D;freelance-creative-partners)
 | [**HUSH**](https:&#x2F;&#x2F;heyhush.com&#x2F;) | [NYC] | marketing and advertising, retail and DTC, architecture | [🌐](https:&#x2F;&#x2F;www.heyhush.com&#x2F;people)
