@@ -205,7 +205,7 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 | <a href="https://www.life-global.org/course/17-starting-a-small-business" target="_blank" rel="noopener noreferrer"> Starting a Small Business </a> | HP / Life Global | Beginner | 0.5 | 🏆 |
 | <a href="https://www.life-global.org/course/28-selling-online" target="_blank" rel="noopener noreferrer"> Selling Online </a> | HP / Life Global | Beginner | 0.5 | 🏆 |
 | <a href="https://www.life-global.org/course/318-social-entrepreneurship" target="_blank" rel="noopener noreferrer"> Social Entrepreneurship </a> | HP / Life Global | Beginner | 0.5 | 🏆 |
-| <a href="https://www.life-global.org/course/19-growth-engine-for-your-business" target="_blank" rel="noopener noreferrer"> Growth Engine for Your Business </a> | HP / Life Global | Beginner | 0.5 | 🏆 |
+| <a href="https://www.life-global.org/course/19-growth-engine-for-your-business" target="_blank" rel="noopener noreferrer"> Growth Engine for Your Business </a> | HP / Life Global | Beginner | 0.5 | ���� |
 
 <a href="https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents" target="_blank" rel="noopener noreferrer">⬆️</a>
 
@@ -354,7 +354,7 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 | <a href="https://tutorials.nmdprojects.net/play.html?illustrator_manage_color" target="_blank" rel="noopener noreferrer">Manage color in Illustrator</a> | UMaine New Media | Beginner| 0.11 | 🏅 |
 | <a href="https://tutorials.nmdprojects.net/play.html?illustrator_apply_strokes_fills" target="_blank" rel="noopener noreferrer">Apply strokes and fills in Illustrator</a> | UMaine New Media | Beginner| 0.1 | 🏅 |
 | <a href="https://tutorials.nmdprojects.net/play.html?illustrator_apply_gradient" target="_blank" rel="noopener noreferrer">Apply gradient in Illustrator</a> | UMaine New Media | intermediate| 0.1 | 🏅 |
-| <a href="https://tutorials.nmdprojects.net/play.html?make_infographic_illustrator_1" target="_blank" rel="noopener noreferrer">How to make an Infographic in Illustrator 1</a> | UMaine New Media | Beginner| 0.22 | ���� |
+| <a href="https://tutorials.nmdprojects.net/play.html?make_infographic_illustrator_1" target="_blank" rel="noopener noreferrer">How to make an Infographic in Illustrator 1</a> | UMaine New Media | Beginner| 0.22 | 🏅 |
 | <a href="https://tutorials.nmdprojects.net/play.html?make_infographic_illustrator_2" target="_blank" rel="noopener noreferrer">How to make an Infographic in Illustrator 2</a> | UMaine New Media | Beginner| 0.2 | 🏅 |
 
 <a href="https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents" target="_blank" rel="noopener noreferrer">⬆️</a>

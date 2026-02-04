@@ -265,7 +265,6 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 *Programming languages written in D.*
 
 * [higgs ![GitHub Repo Stars](https://img.shields.io/github/stars/higgsjs/Higgs) ![GitHub last commit](https://img.shields.io/github/last-commit/higgsjs/Higgs)](https://github.com/higgsjs/Higgs) - Higgs JavaScript Virtual Machine, implemented in D.
-* [Glang ![GitHub Repo Stars](https://img.shields.io/github/stars/pouyathe/glang) ![GitHub last commit](https://img.shields.io/github/last-commit/pouyathe/glang)](https://github.com/pouyathe/glang) - Interpreter for G programming language.
 
 ## Operating Systems
 
