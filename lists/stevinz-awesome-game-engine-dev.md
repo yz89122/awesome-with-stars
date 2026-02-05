@@ -162,7 +162,7 @@ _Info on topics necessary for designing and developing game engines._
 - Books
     - 📚 [GPU Gems](https://developer.nvidia.com/gpugems/gpugems/contributors) - Programming techniques, tips, and tricks for real-time graphics.
     - 📚 [GPU Gems 2](https://developer.nvidia.com/gpugems/gpugems2/copyright) - Programming techniques for high-performance graphics.
-    - �� [GPU Gems 3](https://developer.nvidia.com/gpugems/gpugems3/contributors) - Collection of state-of-the-art GPU programming examples hosted by _NVIDIA_.
+    - 📚 [GPU Gems 3](https://developer.nvidia.com/gpugems/gpugems3/contributors) - Collection of state-of-the-art GPU programming examples hosted by _NVIDIA_.
     - 📚 [Interactive Computer Graphics](https://www.cs.unm.edu/~angel/) - Top down approach to computer graphics.
     - 📚 [Physically-Based Rendering](https://www.pbrt.org) - From the Academy Award winning authority on PBR.
 - Education Portals
@@ -201,7 +201,7 @@ _Info on topics necessary for designing and developing game engines._
     - 🌎 [WebGPU Demos](https://webkit.org/demos/webgpu/) - Collection of simple WebGPU examples by _Apple_.
 - Pipeline: GPGPU
     - 🌎 [CUDA](https://developer.nvidia.com/cuda-zone) - Developed by _NVIDIA_ for parallel computing and programming.
-    - ���� [DirectCompute](https://en.wikipedia.org/wiki/DirectCompute) - Developed by _Microsoft_ for using compute shaders with DirectX 10 & 11.
+    - 📚 [DirectCompute](https://en.wikipedia.org/wiki/DirectCompute) - Developed by _Microsoft_ for using compute shaders with DirectX 10 & 11.
     - 🌎 [OpenCL](https://www.khronos.org/opencl/) - For writing programs that execute across CPUs, GPUs, and other processors.
 - Platform: XNA
     - 📚 [RB Whitaker's Wiki](http://rbwhitaker.wikidot.com/) - Tutorials on C#, MonoGame, XNA, and more.
@@ -246,7 +246,7 @@ _Info on topics necessary for designing and developing game engines._
 - 🌎 [Deadlock Empire](https://deadlockempire.github.io/#menu) - Interactive tutorial to master threads and concurrency.
 - 📚 [Every Programmer Should Know ![GitHub Repo Stars](https://img.shields.io/github/stars/mtdvio/every-programmer-should-know) ![GitHub last commit](https://img.shields.io/github/last-commit/mtdvio/every-programmer-should-know)](https://github.com/mtdvio/every-programmer-should-know) - Technical things every developer should know.
 - 📚 [Games of Coding ![GitHub Repo Stars](https://img.shields.io/github/stars/michelpereira/awesome-games-of-coding) ![GitHub last commit](https://img.shields.io/github/last-commit/michelpereira/awesome-games-of-coding)](https://github.com/michelpereira/awesome-games-of-coding#readme) - Games that teach you a programming language.
-- ��� [Geeks for Geeks](https://www.geeksforgeeks.org) - Tutorials, articles, courses, coding competitions, jobs and more.
+- 🌎 [Geeks for Geeks](https://www.geeksforgeeks.org) - Tutorials, articles, courses, coding competitions, jobs and more.
 - 📚 [Learn to Program ![GitHub Repo Stars](https://img.shields.io/github/stars/karlhorky/learn-to-program) ![GitHub last commit](https://img.shields.io/github/last-commit/karlhorky/learn-to-program)](https://github.com/karlhorky/learn-to-program#readme) - Educational resources to learn to program.
 - 📚 [TIOBE Index](https://www.tiobe.com/tiobe-index/) - Popularity of programming languages, updated monthly.
 
