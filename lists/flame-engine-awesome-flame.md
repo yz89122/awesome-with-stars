@@ -202,6 +202,8 @@ By Tommy Buonomo ([Frenchie Games](https://frenchiegames.app/#/))
 
 - CircleCapture [Android](https://play.google.com/store/apps/details?id=com.marioiannotta.cc) [iOS](https://apps.apple.com/us/app/circlecapture/id6747576924) - Tap and drag to draw circles that capture floating particles. By [MarioIannotta](http://github.com/marioIannotta/)
 
+- [Brick Breaker - Hexa](https://hexaapps.net/apps/brick-breaker) - [Android](https://play.google.com/store/apps/details?id=com.hexaapps.hexa_brick_breaker), [iOS](https://apps.apple.com/tr/app/brick-breaker-hexa/id6744274476) - Guide your paddle with precision to keep the ball in play as you destroy increasingly challenging brick formations. By [Hexa Apps](https://hexaapps.net/).
+
 
 #### Educational
 
@@ -239,6 +241,8 @@ By Tommy Buonomo ([Frenchie Games](https://frenchiegames.app/#/))
 - [Oderrube](https://oderrube.pcgoncalves.com.br/) - [Android](https://play.google.com/store/apps/details?id=br.com.pcgoncalves.oderrube), [IOS](https://apps.apple.com/br/app/oderrube/id6447583342?platform=iphone) - Oderrube is an physics puzzle game. Carefully remove the blocks to allow Derrubito to fall into the target. By [Paulo Gonçalves](https://www.linkedin.com/in/opaulogoncalves)
 
 - [Mine Cart Operator](https://cherrybit.itch.io/mine-cart-operator) - Mine cart operator is dekstop puzzle game for Windows, Mac and Linux. By [CherryBit Studios](https://cherrybit.studio/)
+
+- Jigsaw Puzzles - [Android](https://play.google.com/store/apps/details?id=jigsaw.puzzle.game), [iOS](https://apps.apple.com/us/app/jigsaw-puzzles-puzzle-play/id6469541260) - Relaxing jigsaw puzzle game with thousands of HD images, custom puzzles and daily challenges. By [Mikhail Smirnov](https://happyjigsaw.com)
 
 #### Role Playing
 
