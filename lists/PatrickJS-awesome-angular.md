@@ -1309,6 +1309,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-column-filter ![GitHub Repo Stars](https://img.shields.io/github/stars/kakarotx10/ngx-column-filter) ![GitHub last commit](https://img.shields.io/github/last-commit/kakarotx10/ngx-column-filter)](https://github.com/kakarotx10/ngx-column-filter) - A powerful, reusable Angular column filter component with support for multiple field types, advanced filtering rules, and customizable match modes.
 * [Jspreadsheet CE ![GitHub Repo Stars](https://img.shields.io/github/stars/jspreadsheet/ce) ![GitHub last commit](https://img.shields.io/github/last-commit/jspreadsheet/ce)](https://github.com/jspreadsheet/ce) - Open source JavaScript spreadsheet and data grid component, can be used in Angular apps when wrapped or consumed via Angular elements.
 * [TabularJS ![GitHub Repo Stars](https://img.shields.io/github/stars/jspreadsheet/tabularjs) ![GitHub last commit](https://img.shields.io/github/last-commit/jspreadsheet/tabularjs)](https://github.com/jspreadsheet/tabularjs) - Lightweight JavaScript table and data grid library for advanced table features in Angular.
+* [uni-table ![GitHub Repo Stars](https://img.shields.io/github/stars/Unify-India/uni-table) ![GitHub last commit](https://img.shields.io/github/last-commit/Unify-India/uni-table)](https://github.com/Unify-India/uni-table) - Angular data grid built on signals for zero‑lag performance, combining advanced server‑side features with a streamlined configuration API.
 
 ### Dates
 
@@ -1529,6 +1530,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-otp-code-input ![GitHub Repo Stars](https://img.shields.io/github/stars/Swaraj55/otp-input) ![GitHub last commit](https://img.shields.io/github/last-commit/Swaraj55/otp-input)](https://github.com/Swaraj55/otp-input) - An Angular OTP input component with extensive customization options, including masking, numeric-only input, and autofocus.
 * [smart-date-input ![GitHub Repo Stars](https://img.shields.io/github/stars/ngxpert/smart-date-input) ![GitHub last commit](https://img.shields.io/github/last-commit/ngxpert/smart-date-input)](https://github.com/ngxpert/smart-date-input) - A smart date input directive that uses the Writer API to parse natural language dates.
 * [color-picker ![GitHub Repo Stars](https://img.shields.io/github/stars/acrodata/color-picker) ![GitHub last commit](https://img.shields.io/github/last-commit/acrodata/color-picker)](https://github.com/acrodata/color-picker) - Another beautiful color picker.
+* [ngx-pattern-lock ![GitHub Repo Stars](https://img.shields.io/github/stars/nicotole/ngx-pattern-lock) ![GitHub last commit](https://img.shields.io/github/last-commit/nicotole/ngx-pattern-lock)](https://github.com/nicotole/ngx-pattern-lock) - A lightweight, fully responsive, and customizable Android-style pattern lock component for Angular.
 
 ### JSON Forms
 
