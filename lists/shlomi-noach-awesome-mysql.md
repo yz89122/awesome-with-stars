@@ -201,6 +201,7 @@ This list accepts and encourages pull requests. See [CONTRIBUTING ![GitHub Repo 
 
 - [MariaDB ![GitHub Repo Stars](https://img.shields.io/github/stars/MariaDB/server) ![GitHub last commit](https://img.shields.io/github/last-commit/MariaDB/server)](https://github.com/MariaDB/server) - Community developed fork of MySQL server.
 - [MySQL Server & MySQL Cluster ![GitHub Repo Stars](https://img.shields.io/github/stars/mysql/mysql-server) ![GitHub last commit](https://img.shields.io/github/last-commit/mysql/mysql-server)](https://github.com/mysql/mysql-server) - Official Oracle's MySQL server & MySQL Cluster distribution.
+- [MyVector ![GitHub Repo Stars](https://img.shields.io/github/stars/askdba/myvector) ![GitHub last commit](https://img.shields.io/github/last-commit/askdba/myvector)](https://github.com/askdba/myvector) - Native vector search plugin for MySQL, shipped as a server plugin.
 - [Percona Server ![GitHub Repo Stars](https://img.shields.io/github/stars/percona/percona-server) ![GitHub last commit](https://img.shields.io/github/last-commit/percona/percona-server)](https://github.com/percona/percona-server) - An enhanced, drop-in MySQL replacement.
 - [TiDB ![GitHub Repo Stars](https://img.shields.io/github/stars/pingcap/tidb) ![GitHub last commit](https://img.shields.io/github/last-commit/pingcap/tidb)](https://github.com/pingcap/tidb) - A distributed HTAP database compatible with the MySQL protocol.
 
