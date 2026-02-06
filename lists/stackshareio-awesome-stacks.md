@@ -267,7 +267,7 @@ Learn how to build a full-stack production ready note taking app using Serverles
 - [Amazon S3](https://aws.amazon.com/s3/) - [🛠️](https://stackshare.io/amazon-s3) - Store and retrieve any amount of data, at any time, from anywhere on the web.
 - [AWS Amplify](https://aws-amplify.github.io/) - [🛠️](https://stackshare.io/aws-amplify) - JavaScript Open Source Library with React, React Native Extensions.
 - [Amazon CloudFront](https://aws.amazon.com/cloudfront/) - [🛠️](https://stackshare.io/amazon-cloudfront) - Content delivery with low latency and high data transfer speeds.
-- [Create React App](https://facebook.github.io/create-react-app/) - [🛠](https://stackshare.io/create-react-app) - [🐙 ![GitHub Repo Stars](https://img.shields.io/github/stars/facebook/create-react-app) ![GitHub last commit](https://img.shields.io/github/last-commit/facebook/create-react-app)](https://github.com/facebook/create-react-app) - Set up a modern web app by running one command.
+- [Create React App](https://facebook.github.io/create-react-app/) - [����](https://stackshare.io/create-react-app) - [🐙 ![GitHub Repo Stars](https://img.shields.io/github/stars/facebook/create-react-app) ![GitHub last commit](https://img.shields.io/github/last-commit/facebook/create-react-app)](https://github.com/facebook/create-react-app) - Set up a modern web app by running one command.
 
 ##### Resources
 
@@ -436,7 +436,7 @@ Build, test, and deploy pipelines are configured by default.
 
 Build a simple and robust RESTful API.
 
-- [Spring Boot](https://spring.io/projects/spring-boot) - [��](https://stackshare.io/spring-boot) - [🐙 ![GitHub Repo Stars](https://img.shields.io/github/stars/spring-projects/spring-boot) ![GitHub last commit](https://img.shields.io/github/last-commit/spring-projects/spring-boot)](https://github.com/spring-projects/spring-boot) - Spring Boot makes it easy to create stand-alone, production-grade Spring based Applications that you can "just run".
+- [Spring Boot](https://spring.io/projects/spring-boot) - [🛠](https://stackshare.io/spring-boot) - [🐙 ![GitHub Repo Stars](https://img.shields.io/github/stars/spring-projects/spring-boot) ![GitHub last commit](https://img.shields.io/github/last-commit/spring-projects/spring-boot)](https://github.com/spring-projects/spring-boot) - Spring Boot makes it easy to create stand-alone, production-grade Spring based Applications that you can "just run".
 - [Gradle](https://gradle.org/) - [🛠️](https://stackshare.io/gradle) - [🐙 ![GitHub Repo Stars](https://img.shields.io/github/stars/gradle/gradle) ![GitHub last commit](https://img.shields.io/github/last-commit/gradle/gradle)](https://github.com/gradle/gradle)- A build tool with a focus on build automation and support for multi-language development.
 - [Java](https://docs.oracle.com/javase/specs/index.html) - [🛠️](https://stackshare.io/java) - Java is an Object-Oriented and one of the most used programming languages in the world.
 
