@@ -13,6 +13,7 @@ This list explores awesome projects that exploit the properties of blockchain te
 - [Blockchains for AI in finance](#blockchains-for-ai-in-finance)
 - [Blockchains for AI in medicine](#blockchains-for-ai-in-medicine)
 - [Blockchains for AI in supply chains](#blockchains-for-ai-in-supply-chains)
+- [Blockchains for autonomous agents](#blockchains-for-autonomous-agents)
 - [Academic Research](#academic-research)
 
 ## Recommended reading
@@ -73,6 +74,11 @@ This list explores awesome projects that exploit the properties of blockchain te
 - [BurstIQ](https://www.burstiq.com/) - Healthcare data marketplace with granular ownership and granular consent of data. By using on-chain storage on a custom blockchain, BurstIQ can comply with HIPAA, GDPR, and other regulations.
 
 ## Blockchains for AI in supply chains
+
+## Blockchains for autonomous agents
+
+- [Hashgraph Online (HOL)](https://hol.org/) - Universal agentic registry built on Hedera Hashgraph. Provides blockchain-based identity for AI agents using ERC-8004 standard and HCS-14 Universal Agent IDs (UAIDs). Enables agent discovery, verification, and autonomous commerce via x402 protocol.
+- [AgentFund ![GitHub Repo Stars](https://img.shields.io/github/stars/RioBot-Grind/agentfund) ![GitHub last commit](https://img.shields.io/github/last-commit/RioBot-Grind/agentfund)](https://github.com/RioBot-Grind/agentfund) - A decentralized crowdfunding infrastructure for autonomous AI agents on Base blockchain, enabling milestone-based escrow funding for AI projects and collaborations.
 
 ## Academic Research
 - [Coin.AI](https://doi.org/10.3390/e21080723) - Baldominos, A., & Saez, Y. (2019). Coin.AI: A proof-of-useful-work scheme for blockchain-based distributed deep learning. *Entropy*, 21(8), 723.
