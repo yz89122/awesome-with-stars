@@ -266,7 +266,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Dark Basic ![GitHub Repo Stars](https://img.shields.io/github/stars/TheGameCreators/Dark-Basic-Pro) ![GitHub last commit](https://img.shields.io/github/last-commit/TheGameCreators/Dark-Basic-Pro)](https://github.com/TheGameCreators/Dark-Basic-Pro) - BASIC programming language for creating apps and games. [[Website](https://www.thegamecreators.com/product/dark-basic-pro-open-source)]
 
 ### C
-- �� [Learn C Programming](https://www.programiz.com/c-programming) - Excellent tutorials that will guide you to learn C programming.
+- 📚 [Learn C Programming](https://www.programiz.com/c-programming) - Excellent tutorials that will guide you to learn C programming.
 - C: App Framework
     - 🎉 [Allegro ![GitHub Repo Stars](https://img.shields.io/github/stars/liballeg/allegro5) ![GitHub last commit](https://img.shields.io/github/last-commit/liballeg/allegro5)](https://github.com/liballeg/allegro5) - Cross-platform library aimed at video game and multimedia apps.
     - 🎉 [glfw ![GitHub Repo Stars](https://img.shields.io/github/stars/glfw/glfw) ![GitHub last commit](https://img.shields.io/github/last-commit/glfw/glfw)](https://github.com/glfw/glfw) - Cross-platform API for windowing, graphics contexts, input and events.
@@ -1022,7 +1022,7 @@ _Language specific game engine development libraries / frameworks / code._
 - 📚 [Awesome Rust ![GitHub Repo Stars](https://img.shields.io/github/stars/rust-unofficial/awesome-rust) ![GitHub last commit](https://img.shields.io/github/last-commit/rust-unofficial/awesome-rust)](https://github.com/rust-unofficial/awesome-rust) - Curated list of Rust code and resources.
 - 🌎 [Rust](https://www.rust-lang.org) - Empowering everyone to build quality software. [[Docs](https://www.rust-lang.org/learn) | [GitHub](https://github.com/rust-lang)]
 - Rust: App Framework
-    - 🎉 [Makepad ![GitHub Repo Stars](https://img.shields.io/github/stars/makepad/makepad) ![GitHub last commit](https://img.shields.io/github/last-commit/makepad/makepad)](https://github.com/makepad/makepad) - Software development platform and native-rendering gui framework. [[Editor](https://makepad.dev/)]
+    - ���� [Makepad ![GitHub Repo Stars](https://img.shields.io/github/stars/makepad/makepad) ![GitHub last commit](https://img.shields.io/github/last-commit/makepad/makepad)](https://github.com/makepad/makepad) - Software development platform and native-rendering gui framework. [[Editor](https://makepad.dev/)]
     - 🎉 [Tao ![GitHub Repo Stars](https://img.shields.io/github/stars/tauri-apps/tao) ![GitHub last commit](https://img.shields.io/github/last-commit/tauri-apps/tao)](https://github.com/tauri-apps/tao) - Cross-platform windowing. [[Docs](https://docs.rs/tao/latest/tao/)]
 - Rust: Audio
     - 🎉 [Kira ![GitHub Repo Stars](https://img.shields.io/github/stars/tesselode/kira) ![GitHub last commit](https://img.shields.io/github/last-commit/tesselode/kira)](https://github.com/tesselode/kira) - Create expressive audio for games.

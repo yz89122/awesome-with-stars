@@ -1130,6 +1130,7 @@ then it is not supported:
 
 ## Code Runner
 
+- [rafcamlet/nvim-luapad ![GitHub Repo Stars](https://img.shields.io/github/stars/rafcamlet/nvim-luapad) ![GitHub last commit](https://img.shields.io/github/last-commit/rafcamlet/nvim-luapad)](https://github.com/rafcamlet/nvim-luapad) - Interactive scratchpad for running Lua code.
 - [michaelb/sniprun ![GitHub Repo Stars](https://img.shields.io/github/stars/michaelb/sniprun) ![GitHub last commit](https://img.shields.io/github/last-commit/michaelb/sniprun)](https://github.com/michaelb/sniprun) - Run parts of code of any language directly from Neovim.
 - [CRAG666/code_runner.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/CRAG666/code_runner.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/CRAG666/code_runner.nvim)](https://github.com/CRAG666/code_runner.nvim) - The best code runner you could have, with super powers.
 - [is0n/jaq-nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/is0n/jaq-nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/is0n/jaq-nvim)](https://github.com/is0n/jaq-nvim) - Just Another Quickrun Plugin in Lua.
