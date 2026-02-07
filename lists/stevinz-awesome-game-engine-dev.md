@@ -266,7 +266,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Dark Basic ![GitHub Repo Stars](https://img.shields.io/github/stars/TheGameCreators/Dark-Basic-Pro) ![GitHub last commit](https://img.shields.io/github/last-commit/TheGameCreators/Dark-Basic-Pro)](https://github.com/TheGameCreators/Dark-Basic-Pro) - BASIC programming language for creating apps and games. [[Website](https://www.thegamecreators.com/product/dark-basic-pro-open-source)]
 
 ### C
-- 📚 [Learn C Programming](https://www.programiz.com/c-programming) - Excellent tutorials that will guide you to learn C programming.
+- �� [Learn C Programming](https://www.programiz.com/c-programming) - Excellent tutorials that will guide you to learn C programming.
 - C: App Framework
     - 🎉 [Allegro ![GitHub Repo Stars](https://img.shields.io/github/stars/liballeg/allegro5) ![GitHub last commit](https://img.shields.io/github/last-commit/liballeg/allegro5)](https://github.com/liballeg/allegro5) - Cross-platform library aimed at video game and multimedia apps.
     - 🎉 [glfw ![GitHub Repo Stars](https://img.shields.io/github/stars/glfw/glfw) ![GitHub last commit](https://img.shields.io/github/last-commit/glfw/glfw)](https://github.com/glfw/glfw) - Cross-platform API for windowing, graphics contexts, input and events.
