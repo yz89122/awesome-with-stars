@@ -1091,7 +1091,7 @@ https://twitter.com/grabbou
 
 <img src="https://github.com/karlhorky/awesome-speakers/raw/main/avatars/thymikee" height="70px" width="70px" align="left" alt="" />
 
-**Micha�� Pierzchała**\
+**Michał Pierzchała**\
 Topics: React Native, Jest, Testing, CSS\
 https://twitter.com/thymikee
 
