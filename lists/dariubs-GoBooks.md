@@ -1,5 +1,6 @@
 # Awesome Go Books
-[![Links ![GitHub Repo Stars](https://img.shields.io/github/stars/dariubs/GoBooks) ![GitHub last commit](https://img.shields.io/github/last-commit/dariubs/GoBooks)](https://github.com/dariubs/GoBooks/actions/workflows/links.yml/badge.svg)](https://github.com/dariubs/GoBooks/actions/workflows/links.yml) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
+[![Validate README ![GitHub Repo Stars](https://img.shields.io/github/stars/dariubs/GoBooks) ![GitHub last commit](https://img.shields.io/github/last-commit/dariubs/GoBooks)](https://github.com/dariubs/GoBooks/actions/workflows/validate.yml/badge.svg)](https://github.com/dariubs/GoBooks/actions/workflows/validate.yml) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 
 GoBooks is a carefully curated collection of the best Go books available for developers of all levels, from beginners learning the basics of Golang to experienced engineers looking for advanced concurrency, performance, and system design topics. This repository gathers top Golang books covering core Go concepts, real-world patterns, best practices, and modern Go development, making it easy to find the right learning resource in one place. Whether you’re searching for your first Golang book, want to deepen your understanding of Go internals, or are looking for the most recommended and up-to-date Go programming books, GoBooks serves as a trusted reference for the Go community.
@@ -43,7 +44,6 @@ GoBooks is a carefully curated collection of the best Go books available for dev
     - [Building Distributed Applications in Gin](#building-distributed-applications-in-gin)
     - [Network Programming with Go](#network-programming-with-go)
     - [Powerful Command-Line Applications in Go](#powerful-command-line-applications-in-go)
-    - [Effective Go](#effective-go)
     - [Cloud Native Go - Building Reliable Services in Unreliable Environments](#cloud-native-go---building-reliable-services-in-unreliable-environments)
     - [Everyday Go](#everyday-go)
     - [Practical Go: Building Scalable Network and Non-Network Applications](#practical-go-building-scalable-network-and-non-network-applications)
@@ -122,7 +122,6 @@ Widely regarded as the definitive guide to Go programming, this book offers an i
 *Authors:* **Miek Gieben**
 *Avaible For Free* : **[Source Code ![GitHub Repo Stars](https://img.shields.io/github/stars/miekg/learninggo) ![GitHub last commit](https://img.shields.io/github/last-commit/miekg/learninggo)](https://github.com/miekg/learninggo)**
 
-<a href="https://www.miek.nl/go"><img src="https://github.com/dariubs/GoBooks/raw/master/cover/learning-go.png" width="120px"/></a>
 
 A online book to start learning Golang. It features numerous exercises (and answers).
 
