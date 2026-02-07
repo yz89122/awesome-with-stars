@@ -61,6 +61,7 @@ This list accepts and encourages pull requests. See [CONTRIBUTING ![GitHub Repo 
 
 *Tools to stress your servers*
 
+- [HammerDB ![GitHub Repo Stars](https://img.shields.io/github/stars/TPC-Council/HammerDB) ![GitHub last commit](https://img.shields.io/github/last-commit/TPC-Council/HammerDB)](https://github.com/TPC-Council/HammerDB) - An open-source database benchmark for MySQL/MariaDB and other open source and commercial databases.
 - [go-tpc ![GitHub Repo Stars](https://img.shields.io/github/stars/pingcap/go-tpc) ![GitHub last commit](https://img.shields.io/github/last-commit/pingcap/go-tpc)](https://github.com/pingcap/go-tpc) - A golang port of [TPCC](http://www.tpc.org/tpcc/) and [TPCH](http://www.tpc.org/tpch/) benchmark for MySQL.
 - [iibench-mysql ![GitHub Repo Stars](https://img.shields.io/github/stars/tmcallaghan/iibench-mysql) ![GitHub last commit](https://img.shields.io/github/last-commit/tmcallaghan/iibench-mysql)](https://github.com/tmcallaghan/iibench-mysql) - Java based version of the Index Insertion Benchmark for MySQL/Percona/MariaDB.
 - [Sysbench ![GitHub Repo Stars](https://img.shields.io/github/stars/akopytov/sysbench) ![GitHub last commit](https://img.shields.io/github/last-commit/akopytov/sysbench)](https://github.com/akopytov/sysbench) - a modular, cross-platform and multi-threaded benchmark tool.
