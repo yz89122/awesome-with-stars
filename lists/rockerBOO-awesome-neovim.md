@@ -281,6 +281,7 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 
 ## Programming Languages Support
 
+- [alessio-vivaldelli/java-creator-nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/alessio-vivaldelli/java-creator-nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/alessio-vivaldelli/java-creator-nvim)](https://github.com/alessio-vivaldelli/java-creator-nvim) - Interactive Java file creator with automatic package detection, supporting classes, interfaces, enums, records and abstract classes.
 - [Julian/lean.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/Julian/lean.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/Julian/lean.nvim)](https://github.com/Julian/lean.nvim) - Support for the [Lean Theorem Prover](https://leanprover.github.io/).
 - [nvim-flutter/flutter-tools.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/nvim-flutter/flutter-tools.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/nvim-flutter/flutter-tools.nvim)](https://github.com/nvim-flutter/flutter-tools.nvim) - Build Flutter and Dart applications using the native LSP.
 - [brendalf/mix.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/brendalf/mix.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/brendalf/mix.nvim)](https://github.com/brendalf/mix.nvim) - Mix (from Elixir) wrapper plugin.
