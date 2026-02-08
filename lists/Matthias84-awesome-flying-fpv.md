@@ -123,7 +123,7 @@ Vertical take-off and landing are air vehicles that transform from copter to a g
   * [wing profile](https://www.printables.com/de/model/261434-vase-mode-wing) - Resulting wing profile 3D printing with LW-PLA.
 * [bicopter kit](https://hackaday.com/2018/08/27/the-best-new-quad-is-a-bicopter/) - CNC carbon, 2018.
 
-## Batteries & Power Control ����
+## Batteries & Power Control 🔋
 
 Commercial LiPo battery packs are common in RC, but can be replaced with custom 18650 based Liion packs. The onboard power bus drives the ESC and FC directly, which offer 5V outputs to supply onboard units.
 
@@ -138,7 +138,7 @@ Commercial LiPo battery packs are common in RC, but can be replaced with custom 
 * [diyBMS v4 ![GitHub Repo Stars](https://img.shields.io/github/stars/stuartpittaway/diyBMSv4) ![GitHub last commit](https://img.shields.io/github/last-commit/stuartpittaway/diyBMSv4)](https://github.com/stuartpittaway/diyBMSv4) - Battery management PCB and firmware for LiIon packs.
 
 
-## Motor Control ⚙���
+## Motor Control ⚙️
 
 Usually brushless DC motors (BLDC) are used for their power and precision. They require Electronic Speed Controller (ESC) per motor.
 
