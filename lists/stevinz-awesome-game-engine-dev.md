@@ -1366,7 +1366,7 @@ _Software to help with game engine / video game development._
 - 💰 [Smear FX](https://codemanu.itch.io/smear-fx) - Make your 2D animations juicy by adding some smearing to them.
 
 ### Vector Editors
-- 🆓 [Inkscape](https://inkscape.org) - Cross-platform, open source vector graphics editor. [[Source ![GitHub Repo Stars](https://img.shields.io/github/stars/inkscape/inkscape) ![GitHub last commit](https://img.shields.io/github/last-commit/inkscape/inkscape)](https://github.com/inkscape/inkscape)]
+- ���� [Inkscape](https://inkscape.org) - Cross-platform, open source vector graphics editor. [[Source ![GitHub Repo Stars](https://img.shields.io/github/stars/inkscape/inkscape) ![GitHub last commit](https://img.shields.io/github/last-commit/inkscape/inkscape)](https://github.com/inkscape/inkscape)]
 - 🆓 [Krita](https://krita.org/en/) - Professional quality, open source painting. [[Source ![GitHub Repo Stars](https://img.shields.io/github/stars/KDE/krita) ![GitHub last commit](https://img.shields.io/github/last-commit/KDE/krita)](https://github.com/KDE/krita)]
 - 💰 [Vec Maker](https://kronbits.itch.io/vecmaker) - Easy to use vector design.
 
