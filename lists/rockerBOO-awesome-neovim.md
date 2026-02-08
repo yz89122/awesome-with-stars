@@ -505,7 +505,7 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 - [wsdjeg/flygrep.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/wsdjeg/flygrep.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/wsdjeg/flygrep.nvim)](https://github.com/wsdjeg/flygrep.nvim) - Search text in a floating window asynchronously.
 - [prochri/telescope-all-recent.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/prochri/telescope-all-recent.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/prochri/telescope-all-recent.nvim)](https://github.com/prochri/telescope-all-recent.nvim) - Frequency and recency sorter for any Telescope picker.
 - [mahyarmirrashed/search-and-replace.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/mahyarmirrashed/search-and-replace.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/mahyarmirrashed/search-and-replace.nvim)](https://github.com/mahyarmirrashed/search-and-replace.nvim) - Simple, effective, search and replace functionality for the pragmatic engineer.
-- [bravoecho/brook.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/bravoecho/brook.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/bravoecho/brook.nvim)](https://github.com/bravoecho/brook.nvim) - Responsive, shell-safe ripgrep search for the quickfix list, with native n/N navigation. 
+- [bravoecho/brook.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/bravoecho/brook.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/bravoecho/brook.nvim)](https://github.com/bravoecho/brook.nvim) - Responsive, shell-safe ripgrep search for the quickfix list, with native n/N navigation.
 
 <!--lint disable double-link -->
 [**⬆ back to top**](#contents)
@@ -1782,6 +1782,7 @@ Have a problem a plugin can solve? Add it to the [nvim-lua wishlist ![GitHub Rep
 - [ariel-frischer/bmessages.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/ariel-frischer/bmessages.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/ariel-frischer/bmessages.nvim)](https://github.com/ariel-frischer/bmessages.nvim) - Replace the default `:messages` window with a configurable, auto-updating buffer.
 - [markgandolfo/lightswitch.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/markgandolfo/lightswitch.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/markgandolfo/lightswitch.nvim)](https://github.com/markgandolfo/lightswitch.nvim) - Toggle various options using the `nui.nvim` library.
 - [wsdjeg/calendar.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/wsdjeg/calendar.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/wsdjeg/calendar.nvim)](https://github.com/wsdjeg/calendar.nvim) - A simple floating calendar with extensions support.
+- [xieyonn/spinner.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/xieyonn/spinner.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/xieyonn/spinner.nvim)](https://github.com/xieyonn/spinner.nvim) - Extensible spinner framework for animated spinners in statusline, tabline, winbar, buffer, cmdline, or next to the cursor.
 
 <!--lint disable double-link -->
 [**⬆ back to top**](#contents)
