@@ -159,6 +159,7 @@ Inspired by the [awesome ![GitHub Repo Stars](https://img.shields.io/github/star
 - [SheetDB](https://sheetdb.io/) - Turn a Google Spreadsheet into a JSON API.
 - [Form2Channel](https://form2channel.com/) - Post your HTML form to Form2Channel to store submissions in Google Sheets and receive them via email, Slack or Telegram. No signups, no costs, no limits.
 - [reCAPTCHAme](https://recaptchame.com/) - reCAPTCHA and hCAPTCHA token verification service. Post your form to reCAPTCHAme to avoid getting spammed. Made for static websites, no server-side coding required.
+- [Formware](https://formware.io/) - Conversational forms with unlimited responses that can be embedded on any website.
 
 #### Provided by the Host
 
@@ -198,6 +199,7 @@ Inspired by the [awesome ![GitHub Repo Stars](https://img.shields.io/github/star
 - [Typeform](http://www.typeform.com/) - Really beautiful forms.
 - [Qualaroo](https://qualaroo.com/) - Embed surveys anywhere on your website that comes up from the bottom right side of the screen.
 - [Insight Stash](https://insightstash.com/) - Fast, Simple survey forms.
+- [Formware](https://formware.io/) - Create stunning surveys with unlimited responses for free.
 
 ## E-Commerce
 

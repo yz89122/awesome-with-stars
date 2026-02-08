@@ -231,7 +231,7 @@ _Info on topics necessary for designing and developing game engines._
     - 📚 [Art of Game Design](https://www.amazon.com/Art-Game-Design-Book-Lenses/dp/0123694965) - Teaches game design in an accessible manner.
     - 📚 [Game Programming Patterns](https://gameprogrammingpatterns.com) - Patterns found in games that make code easier to understand.
 - Developer Portals
-    - ��� [Game Developer](https://www.gamedeveloper.com) - Industry blogs, events, jobs, updates and more. Formerly _Gamasutra_.
+    - 🌎 [Game Developer](https://www.gamedeveloper.com) - Industry blogs, events, jobs, updates and more. Formerly _Gamasutra_.
     - 🌎 [GameDev.net](https://www.gamedev.net/) - Game dev forums, tutorials, blogs, projects, portfolios, and news.
     - 🌎 [GameFromScratch.com](https://gamefromscratch.com) - Game dev news, tutorials and much more.
     - 🌎 [itch.io](https://itch.io) - Game dev resources and platform to showcase / promote / buy & sell games.
@@ -560,7 +560,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [FlatBuffers ![GitHub Repo Stars](https://img.shields.io/github/stars/google/flatbuffers) ![GitHub last commit](https://img.shields.io/github/last-commit/google/flatbuffers)](https://github.com/google/flatbuffers) - Efficient cross-platform serialization library by _Google_.
     - 🎉 [JSON for Modern C++ ![GitHub Repo Stars](https://img.shields.io/github/stars/nlohmann/json) ![GitHub last commit](https://img.shields.io/github/last-commit/nlohmann/json)](https://github.com/nlohmann/json) - JSON support for Modern C++.
     - 🎉 [Protobuf ![GitHub Repo Stars](https://img.shields.io/github/stars/protocolbuffers/protobuf) ![GitHub last commit](https://img.shields.io/github/last-commit/protocolbuffers/protobuf)](https://github.com/protocolbuffers/protobuf) - Protocol Buffers, for platform-neutral serialized data by _Google_.
-    - ��� [RapidJSON ![GitHub Repo Stars](https://img.shields.io/github/stars/Tencent/rapidjson) ![GitHub last commit](https://img.shields.io/github/last-commit/Tencent/rapidjson)](https://github.com/Tencent/rapidjson/) - Fast JSON parser / generator.
+    - 🎉 [RapidJSON ![GitHub Repo Stars](https://img.shields.io/github/stars/Tencent/rapidjson) ![GitHub last commit](https://img.shields.io/github/last-commit/Tencent/rapidjson)](https://github.com/Tencent/rapidjson/) - Fast JSON parser / generator.
 - C++: Terrain
     - 🎉 [Terra Forge 3D ![GitHub Repo Stars](https://img.shields.io/github/stars/Jaysmito101/TerraForge3D) ![GitHub last commit](https://img.shields.io/github/last-commit/Jaysmito101/TerraForge3D)](https://github.com/Jaysmito101/TerraForge3D) - Procedural 3D terrain generation and texturing tool.
 - C++: Utility
