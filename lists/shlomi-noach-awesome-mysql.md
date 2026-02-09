@@ -248,3 +248,5 @@ This list accepts and encourages pull requests. See [CONTRIBUTING ![GitHub Repo 
 ## Incubating
 
 Projects that are known to be non-production and yet have either traction or substance that warrants exposure.
+
+- [VillageSQL ![GitHub Repo Stars](https://img.shields.io/github/stars/villagesql/villagesql-server) ![GitHub last commit](https://img.shields.io/github/last-commit/villagesql/villagesql-server)](https://github.com/villagesql/villagesql-server) - A drop-in replacement for MySQL with extensions for the agentic AI era.
