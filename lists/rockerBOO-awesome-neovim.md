@@ -186,6 +186,7 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 - [SunnyTamang/neodoc.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/SunnyTamang/neodoc.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/SunnyTamang/neodoc.nvim)](https://github.com/SunnyTamang/neodoc.nvim) - DocString generator that helps writing function/classes docstrings in formats like `google`, `numpy`, `sphinx` with live preview.
 - [barreiroleo/ltex_extra.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/barreiroleo/ltex_extra.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/barreiroleo/ltex_extra.nvim)](https://github.com/barreiroleo/ltex_extra.nvim) - LTeX LSP extension providing external file handling (rules and dictionaries).
 - [chojs23/ts-bridge ![GitHub Repo Stars](https://img.shields.io/github/stars/chojs23/ts-bridge) ![GitHub last commit](https://img.shields.io/github/last-commit/chojs23/ts-bridge)](https://github.com/chojs23/ts-bridge) - TypeScript language server shim that bridges the built-in LSP client with `tsserver`.
+- [akioweh/lsp-document-highlight.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/akioweh/lsp-document-highlight.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/akioweh/lsp-document-highlight.nvim)](https://github.com/akioweh/lsp-document-highlight.nvim) - Instantaneous LSP symbol reference highlighting under the cursor.
 
 ### LSP Installer
 
