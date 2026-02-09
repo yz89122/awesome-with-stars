@@ -56,6 +56,7 @@ This list accepts and encourages pull requests. See [CONTRIBUTING ![GitHub Repo 
 - [Dumpling ![GitHub Repo Stars](https://img.shields.io/github/stars/pingcap/tidb) ![GitHub last commit](https://img.shields.io/github/last-commit/pingcap/tidb)](https://github.com/pingcap/tidb/tree/master/dumpling) - Logical, parallel backup/dumper tool for MySQL/TiDB written in GoLang - support csv format output and integrated as library
 - [MyDumper ![GitHub Repo Stars](https://img.shields.io/github/stars/mydumper/mydumper) ![GitHub last commit](https://img.shields.io/github/last-commit/mydumper/mydumper)](https://github.com/mydumper/mydumper) - Logical, parallel backup/dumper tool for MySQL
 - [Percona Xtrabackup ![GitHub Repo Stars](https://img.shields.io/github/stars/percona/percona-xtrabackup) ![GitHub last commit](https://img.shields.io/github/last-commit/percona/percona-xtrabackup)](https://github.com/percona/percona-xtrabackup) - an open-source hot backup utility for MySQL - based servers that doesn’t lock your database during the backup.
+- [Portabase ![GitHub Repo Stars](https://img.shields.io/github/stars/Portabase/portabase) ![GitHub last commit](https://img.shields.io/github/last-commit/Portabase/portabase)](https://github.com/Portabase/portabase) - Agent-based platform for MySQL backups and restores with decentralized execution and centralized orchestration.
 
 ## Benchmarking
 
