@@ -1483,6 +1483,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ng-forge ![GitHub Repo Stars](https://img.shields.io/github/stars/ng-forge/ng-forge) ![GitHub last commit](https://img.shields.io/github/last-commit/ng-forge/ng-forge)](https://github.com/ng-forge/ng-forge) - A type‑safe, dynamic forms library built for Angular’s signal‑based forms.
 * [zignal ![GitHub Repo Stars](https://img.shields.io/github/stars/biyonik/zignal) ![GitHub last commit](https://img.shields.io/github/last-commit/biyonik/zignal)](https://github.com/biyonik/zignal) - A type-safe Angular form library using signals and Zod validation, with Turkey-specific validators and multi-language support.
 * [ngx-form-stepper ![GitHub Repo Stars](https://img.shields.io/github/stars/rayaneriahi/ngx-form-stepper) ![GitHub last commit](https://img.shields.io/github/last-commit/rayaneriahi/ngx-form-stepper)](https://github.com/rayaneriahi/ngx-form-stepper) - A strongly typed Angular library for building robust multi‑step forms that prevent invalid states during development with minimal configuration.
+* [ngx-form-rules ![GitHub Repo Stars](https://img.shields.io/github/stars/bulbul5391/ngx-form-rules) ![GitHub last commit](https://img.shields.io/github/last-commit/bulbul5391/ngx-form-rules)](https://github.com/bulbul5391/ngx-form-rules) - A lightweight Angular library that makes it easy to enable, disable, and control reactive form fields using simple, declarative rules.
 
 ### Form Controls
 
