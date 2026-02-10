@@ -518,7 +518,7 @@ Fprettify is a tool that provides consistent whitespace, indentation, and delimi
 
 - **goast** :warning: — Go AST (Abstract Syntax Tree) based static analysis tool with Rego.
 
-- [gochecknoglobals ![GitHub Repo Stars](https://img.shields.io/github/stars/leighmcculloch/gochecknoglobals) ![GitHub last commit](https://img.shields.io/github/last-commit/leighmcculloch/gochecknoglobals)](https://github.com/leighmcculloch/gochecknoglobals) — Checks that no globals are present.
+- **gochecknoglobals** :warning: — Checks that no globals are present.
 
 - [goconst ![GitHub Repo Stars](https://img.shields.io/github/stars/jgautheron/goconst) ![GitHub last commit](https://img.shields.io/github/last-commit/jgautheron/goconst)](https://github.com/jgautheron/goconst) — Finds repeated strings that could be replaced by a constant.
 
@@ -607,7 +607,7 @@ By default, govulncheck makes requests to the Go vulnerability database at https
 
 - [HLint ![GitHub Repo Stars](https://img.shields.io/github/stars/ndmitchell/hlint) ![GitHub last commit](https://img.shields.io/github/last-commit/ndmitchell/hlint)](https://github.com/ndmitchell/hlint) — HLint is a tool for suggesting possible improvements to Haskell code.
 
-- [Liquid Haskell](https://ucsd-progsys.github.io/liquidhaskell-blog/) �� Liquid Haskell is a refinement type checker for Haskell programs.
+- [Liquid Haskell](https://ucsd-progsys.github.io/liquidhaskell-blog/) — Liquid Haskell is a refinement type checker for Haskell programs.
 
 - [Stan](https://kowainik.github.io/projects/stan) — Stan is a command-line tool for analysing Haskell projects and outputting discovered vulnerabilities in a helpful way with possible solutions for detected problems.
 
@@ -747,7 +747,7 @@ Its technology helps developers automate testing, find bugs, and reduce manual l
 <h2>Kotlin</h2>
 
 
-- [detekt](https://detekt.github.io/detekt) ��� Static code analysis for Kotlin code.
+- [detekt](https://detekt.github.io/detekt) — Static code analysis for Kotlin code.
 
 - **diktat** :warning: — Strict coding standard for Kotlin and a linter that detects and auto-fixes code smells.
 
@@ -1016,7 +1016,9 @@ It uses the pycodestyle utility to determine what parts of the code needs to be 
 
 - [pylyzers](https://mtshiba.github.io/pylyzer/) — A static code analyzer / language server for Python, written in Rust, focused on type checking and readable output.
 
-- [pyre-check](https://pyre-check.org) — A fast, scalable type checker for large Python codebases.
+- **pyre-check** :warning: — A fast, scalable type checker for large Python codebases. Pyre-check has been superseded by Pyrefly, its next iteration.
+
+- [pyrefly](https://pyrefly.org/) — A fast, incremental type checker and language server for Python, providing IDE features like code navigation, semantic highlighting, and code completion.
 
 - [pyright ![GitHub Repo Stars](https://img.shields.io/github/stars/Microsoft/pyright) ![GitHub last commit](https://img.shields.io/github/last-commit/Microsoft/pyright)](https://github.com/Microsoft/pyright) — Static type checker for Python, created to address gaps in existing tools like mypy.
 
