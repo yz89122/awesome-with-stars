@@ -115,7 +115,6 @@ This list accepts and encourages pull requests. See [CONTRIBUTING ![GitHub Repo 
 
 *MySQL deployment tools*
 
-- [dbdeployer ![GitHub Repo Stars](https://img.shields.io/github/stars/datacharmer/dbdeployer) ![GitHub last commit](https://img.shields.io/github/last-commit/datacharmer/dbdeployer)](https://github.com/datacharmer/dbdeployer) (archived) - A tool that installs one or more MySQL servers within seconds, easily, securely, and with full control.
 - [MariaDB4j ![GitHub Repo Stars](https://img.shields.io/github/stars/MariaDB4j/MariaDB4j) ![GitHub last commit](https://img.shields.io/github/last-commit/MariaDB4j/MariaDB4j)](https://github.com/MariaDB4j/MariaDB4j) - A Java launcher to run MariaDB without installation or external dependencies.
 - [MySQL Docker](https://hub.docker.com/_/mysql/) - Official Docker images.
 
@@ -157,7 +156,7 @@ This list accepts and encourages pull requests. See [CONTRIBUTING ![GitHub Repo 
 
 - [Galera Cluster ![GitHub Repo Stars](https://img.shields.io/github/stars/codership/galera) ![GitHub last commit](https://img.shields.io/github/last-commit/codership/galera)](https://github.com/codership/galera) - a true Multimaster Cluster based on synchronous replication.
 - [mha4mysql-node ![GitHub Repo Stars](https://img.shields.io/github/stars/yoshinorim/mha4mysql-node) ![GitHub last commit](https://img.shields.io/github/last-commit/yoshinorim/mha4mysql-node)](https://github.com/yoshinorim/mha4mysql-node) and [mha4mysql-manager ![GitHub Repo Stars](https://img.shields.io/github/stars/yoshinorim/mha4mysql-manager) ![GitHub last commit](https://img.shields.io/github/last-commit/yoshinorim/mha4mysql-manager)](https://github.com/yoshinorim/mha4mysql-manager) (both unmaintained) - Master High Availability Manager and tools for MySQL.
-- [Orchestrator ![GitHub Repo Stars](https://img.shields.io/github/stars/openark/orchestrator) ![GitHub last commit](https://img.shields.io/github/last-commit/openark/orchestrator)](https://github.com/openark/orchestrator) - MySQL replication topology management and High Availability solution.
+- [Orchestrator ![GitHub Repo Stars](https://img.shields.io/github/stars/openark/orchestrator) ![GitHub last commit](https://img.shields.io/github/last-commit/openark/orchestrator)](https://github.com/openark/orchestrator) (archived) - MySQL replication topology management and High Availability solution.
 - [Percona Replication Manager ![GitHub Repo Stars](https://img.shields.io/github/stars/percona/replication-manager) ![GitHub last commit](https://img.shields.io/github/last-commit/percona/replication-manager)](https://github.com/percona/replication-manager) - Asynchronous MySQL replication manager agent for Pacemaker. Supports file and GTID based replication, geo-distributed clusters using booth.
 - [replication-manager ![GitHub Repo Stars](https://img.shields.io/github/stars/signal18/replication-manager) ![GitHub last commit](https://img.shields.io/github/last-commit/signal18/replication-manager)](https://github.com/signal18/replication-manager) - a high availability solution to manage MariaDB 10.x and MySQL & Percona Server 5.7 GTID replication topologies.
 
@@ -179,7 +178,7 @@ This list accepts and encourages pull requests. See [CONTRIBUTING ![GitHub Repo 
 
 *Replication related software*
 
-* [data-diff ![GitHub Repo Stars](https://img.shields.io/github/stars/datafold/data-diff) ![GitHub last commit](https://img.shields.io/github/last-commit/datafold/data-diff)](https://github.com/datafold/data-diff) - Command-line tool and Python library to efficiently diff rows across two different databases.
+* [data-diff ![GitHub Repo Stars](https://img.shields.io/github/stars/datafold/data-diff) ![GitHub last commit](https://img.shields.io/github/last-commit/datafold/data-diff)](https://github.com/datafold/data-diff) (archived) - Command-line tool and Python library to efficiently diff rows across two different databases.
 
 
 ## Schema
@@ -187,7 +186,7 @@ This list accepts and encourages pull requests. See [CONTRIBUTING ![GitHub Repo 
 *Add-on schemas*
 
 - [common_schema ![GitHub Repo Stars](https://img.shields.io/github/stars/shlomi-noach/common_schema) ![GitHub last commit](https://img.shields.io/github/last-commit/shlomi-noach/common_schema)](https://github.com/shlomi-noach/common_schema) - DBA's framework for MySQL, providing a function library, views library and QueryScript interpreter.
-- [sys ![GitHub Repo Stars](https://img.shields.io/github/stars/mysql/mysql-sys) ![GitHub last commit](https://img.shields.io/github/last-commit/mysql/mysql-sys)](https://github.com/mysql/mysql-sys) - A collection of views, functions and procedures to help MySQL administrators get insight in to MySQL Database usage.
+- [sys ![GitHub Repo Stars](https://img.shields.io/github/stars/mysql/mysql-sys) ![GitHub last commit](https://img.shields.io/github/last-commit/mysql/mysql-sys)](https://github.com/mysql/mysql-sys) (archived) - A collection of views, functions and procedures to help MySQL administrators get insight in to MySQL Database usage. See [sys schema docs](https://dev.mysql.com/doc/refman/8.4/en/sys-schema.html)
 
 
 ## Security
@@ -224,7 +223,7 @@ This list accepts and encourages pull requests. See [CONTRIBUTING ![GitHub Repo 
 - [MySQL Utilities ![GitHub Repo Stars](https://img.shields.io/github/stars/mysql/mysql-utilities) ![GitHub last commit](https://img.shields.io/github/last-commit/mysql/mysql-utilities)](https://github.com/mysql/mysql-utilities) (deprecated) - a collection of command-line utilities, written in Python, that are used for maintaining and administering MySQL servers, either individually, or within Replication hierarchies.
 - [Percona Toolkit ![GitHub Repo Stars](https://img.shields.io/github/stars/percona/percona-toolkit) ![GitHub last commit](https://img.shields.io/github/last-commit/percona/percona-toolkit)](https://github.com/percona/percona-toolkit) - a collection of advanced command-line tools to perform a variety of MySQL server and system tasks that are too difficult or complex to perform manually.
 - [Swoof ![GitHub Repo Stars](https://img.shields.io/github/stars/StirlingMarketingGroup/swoof) ![GitHub last commit](https://img.shields.io/github/last-commit/StirlingMarketingGroup/swoof)](https://github.com/StirlingMarketingGroup/swoof) - Ultra fast MySQL table importer that stages swaps through temporary tables and supports file/clipboard targets.
-- [UnDROP ![GitHub Repo Stars](https://img.shields.io/github/stars/twindb/undrop-for-innodb) ![GitHub last commit](https://img.shields.io/github/last-commit/twindb/undrop-for-innodb)](https://github.com/twindb/undrop-for-innodb) - a tool to recover data from dropped or corrupted InnoDB tables.
+- [UnDROP ![GitHub Repo Stars](https://img.shields.io/github/stars/twindb/undrop-for-innodb) ![GitHub last commit](https://img.shields.io/github/last-commit/twindb/undrop-for-innodb)](https://github.com/twindb/undrop-for-innodb) (archived) - a tool to recover data from dropped or corrupted InnoDB tables.
 
 # Resources
 

@@ -289,6 +289,7 @@ Services:
  - [NoSQLBooster](https://nosqlbooster.com) - Feature-rich but easy-to-use cross-platform IDE (formerly MongoBooster)
  - [Studio 3T](https://studio3t.com/) - Cross-platform GUI, stable and powerful (formerly MongoChef and Robo 3T)
  - [TablePlus](https://tableplus.com/) - Native, lightweight GUI on macOS
+ - [VisuaLeaf](https://visualeaf.com/) - MongoDB GUI designed for speed, clarity, and effortless data exploration
 
 ### Development
  - [C# Analyzer ![GitHub Repo Stars](https://img.shields.io/github/stars/mongodb/mongo-csharp-analyzer) ![GitHub last commit](https://img.shields.io/github/last-commit/mongodb/mongo-csharp-analyzer)](https://github.com/mongodb/mongo-csharp-analyzer) - View the MongoDB Query API equivalents of your builder expressions in Visual Studio
