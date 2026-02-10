@@ -971,6 +971,7 @@ _Shells built with Python._
 _Libraries for parsing and manipulating specific text formats._
 
 - General
+  - [kreuzberg ![GitHub Repo Stars](https://img.shields.io/github/stars/kreuzberg-dev/kreuzberg) ![GitHub last commit](https://img.shields.io/github/last-commit/kreuzberg-dev/kreuzberg)](https://github.com/kreuzberg-dev/kreuzberg) - High-performance document extraction library with a Rust core, supporting 62+ formats including PDF, Office, images with OCR, HTML, email, and archives.
   - [tablib ![GitHub Repo Stars](https://img.shields.io/github/stars/jazzband/tablib) ![GitHub last commit](https://img.shields.io/github/last-commit/jazzband/tablib)](https://github.com/jazzband/tablib) - A module for Tabular Datasets in XLS, CSV, JSON, YAML.
 - Office
   - [docxtpl ![GitHub Repo Stars](https://img.shields.io/github/stars/elapouya/python-docx-template) ![GitHub last commit](https://img.shields.io/github/last-commit/elapouya/python-docx-template)](https://github.com/elapouya/python-docx-template) - Editing a docx document by jinja2 template
