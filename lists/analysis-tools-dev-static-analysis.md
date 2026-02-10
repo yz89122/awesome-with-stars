@@ -294,7 +294,7 @@ Also check out the sister project, [awesome-dynamic-analysis ![GitHub Repo Stars
 
 - [SonarAnalyzer.CSharp ![GitHub Repo Stars](https://img.shields.io/github/stars/SonarSource/sonar-dotnet) ![GitHub last commit](https://img.shields.io/github/last-commit/SonarSource/sonar-dotnet)](https://github.com/SonarSource/sonar-dotnet) — These Roslyn analyzers allow you to produce Clean Code that is safe, reliable, and maintainable by helping you find and correct bugs, vulnerabilities, and code smells in your codebase.
 
-- **VSDiagnostics** :warning: ��� A collection of static analyzers based on Roslyn that integrates with VS.
+- **VSDiagnostics** :warning: — A collection of static analyzers based on Roslyn that integrates with VS.
 
 - [Wintellect.Analyzers ![GitHub Repo Stars](https://img.shields.io/github/stars/Wintellect/Wintellect.Analyzers) ![GitHub last commit](https://img.shields.io/github/last-commit/Wintellect/Wintellect.Analyzers)](https://github.com/Wintellect/Wintellect.Analyzers) — .NET Compiler Platform ("Roslyn") diagnostic analyzers and code fixes.
 
@@ -607,7 +607,7 @@ By default, govulncheck makes requests to the Go vulnerability database at https
 
 - [HLint ![GitHub Repo Stars](https://img.shields.io/github/stars/ndmitchell/hlint) ![GitHub last commit](https://img.shields.io/github/last-commit/ndmitchell/hlint)](https://github.com/ndmitchell/hlint) — HLint is a tool for suggesting possible improvements to Haskell code.
 
-- [Liquid Haskell](https://ucsd-progsys.github.io/liquidhaskell-blog/) �� Liquid Haskell is a refinement type checker for Haskell programs.
+- [Liquid Haskell](https://ucsd-progsys.github.io/liquidhaskell-blog/) — Liquid Haskell is a refinement type checker for Haskell programs.
 
 - [Stan](https://kowainik.github.io/projects/stan) — Stan is a command-line tool for analysing Haskell projects and outputting discovered vulnerabilities in a helpful way with possible solutions for detected problems.
 
@@ -747,7 +747,7 @@ Its technology helps developers automate testing, find bugs, and reduce manual l
 <h2>Kotlin</h2>
 
 
-- [detekt](https://detekt.github.io/detekt) ��� Static code analysis for Kotlin code.
+- [detekt](https://detekt.github.io/detekt) — Static code analysis for Kotlin code.
 
 - **diktat** :warning: — Strict coding standard for Kotlin and a linter that detects and auto-fixes code smells.
 
