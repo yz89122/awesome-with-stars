@@ -29,8 +29,6 @@ This list accepts and encourages pull requests. See [CONTRIBUTING ![GitHub Repo 
 
 - [Resources](#resources)
     - [E-Books](#e-books)
-    - [Media](#media)
-    - [Newsletters](#newsletters)
 
 
 ## Analysis
@@ -116,7 +114,6 @@ This list accepts and encourages pull requests. See [CONTRIBUTING ![GitHub Repo 
 *MySQL deployment tools*
 
 - [MariaDB4j ![GitHub Repo Stars](https://img.shields.io/github/stars/MariaDB4j/MariaDB4j) ![GitHub last commit](https://img.shields.io/github/last-commit/MariaDB4j/MariaDB4j)](https://github.com/MariaDB4j/MariaDB4j) - A Java launcher to run MariaDB without installation or external dependencies.
-- [MySQL Docker](https://hub.docker.com/_/mysql/) - Official Docker images.
 
 
 ## Development
@@ -235,14 +232,6 @@ This list accepts and encourages pull requests. See [CONTRIBUTING ![GitHub Repo 
 
 - [Database Systems Lecture Notes](http://spots.augusta.edu/caubert/db/ln/) - lecture notes on Database Systems (available in pdf, html, odt and markdown) including a Chapter on SQL that covers basic set-up, exercises and problems.
 - [SQL-exercise ![GitHub Repo Stars](https://img.shields.io/github/stars/XD-DENG/SQL-exercise) ![GitHub last commit](https://img.shields.io/github/last-commit/XD-DENG/SQL-exercise)](https://github.com/XD-DENG/SQL-exercise) - contains several SQL exercises, including the schema description figure, SQL code to build schema, questions and solutions in SQL. Based on wikibook [SQL Exercises](https://en.wikibooks.org/wiki/SQL_Exercises).
-
-## Media
-
-*Public, ongoing video & audio casts. This excludes conference presentations in fear of list size*
-
-## Newsletters
-
-*Newsletters require an email address, by definition. List below are newsletters that require nothing but an email address*
 
 ## Incubating
 
