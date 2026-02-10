@@ -534,7 +534,7 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
 | <a href="https://cognitiveclass.ai/courses/r-101" target="_blank" rel="noopener noreferrer">R 101</a> | IBM / Cognitive Class |Beginner|3| <a href="https://www.youracclaim.com/org/ibm/badge/r-essentials" target="_blank" rel="noopener noreferrer">🏅</a>|
 | <a href="https://cognitiveclass.ai/courses/using-r-with-databases/" target="_blank" rel="noopener noreferrer">Using R with Databases</a> | IBM / Cognitive Class |Beginner|3 | <a href="https://www.youracclaim.com/org/ibm/badge/using-r-with-databases" target="_blank" rel="noopener noreferrer">🏅</a>|
-| <a href="https://www.hackerrank.com/skills-verification/r_basic" target="_blank" rel="noopener noreferrer">R</a> | HackerRank |Beginner| 1.5 | ���|
+| <a href="https://www.hackerrank.com/skills-verification/r_basic" target="_blank" rel="noopener noreferrer">R</a> | HackerRank |Beginner| 1.5 | 🏆|
 
 <a href="https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents" target="_blank" rel="noopener noreferrer">⬆️</a>
 

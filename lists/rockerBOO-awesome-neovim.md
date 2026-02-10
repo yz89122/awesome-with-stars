@@ -1683,6 +1683,7 @@ then it is not supported:
 - [zongben/dbout.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/zongben/dbout.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/zongben/dbout.nvim)](https://github.com/zongben/dbout.nvim) - Manage database connections and run SQL queries directly with JSON results.
 - [kndndrj/nvim-dbee ![GitHub Repo Stars](https://img.shields.io/github/stars/kndndrj/nvim-dbee) ![GitHub last commit](https://img.shields.io/github/last-commit/kndndrj/nvim-dbee)](https://github.com/kndndrj/nvim-dbee) - Interactive database client.
 - [tashikomaaa/neomongo.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/tashikomaaa/neomongo.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/tashikomaaa/neomongo.nvim)](https://github.com/tashikomaaa/neomongo.nvim) - Explore, query, and edit MongoDB collections directly through a Telescope-powered dashboard.
+- [zerochae/dbab.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/zerochae/dbab.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/zerochae/dbab.nvim)](https://github.com/zerochae/dbab.nvim) - Lightweight database client with a modern UI and async execution.
 <!--lint disable double-link -->
 [**⬆ back to top**](#contents)
 <!--lint enable double-link -->
@@ -1752,6 +1753,7 @@ These tools are used externally to Neovim to enhance the experience.
 ### OS-specific
 
 - [chrisgrieser/alfred-neovim-utilities ![GitHub Repo Stars](https://img.shields.io/github/stars/chrisgrieser/alfred-neovim-utilities) ![GitHub last commit](https://img.shields.io/github/last-commit/chrisgrieser/alfred-neovim-utilities)](https://github.com/chrisgrieser/alfred-neovim-utilities) - Search Neovim plugins and online `:help` via Alfred (macOS).
+- [iamironz/android-nvim-plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/iamironz/android-nvim-plugin) ![GitHub last commit](https://img.shields.io/github/last-commit/iamironz/android-nvim-plugin)](https://github.com/iamironz/android-nvim-plugin) - Android build, deploy, and logcat commands with Gradle integration.
 - [massix/termux.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/massix/termux.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/massix/termux.nvim)](https://github.com/massix/termux.nvim) - Interact with Termux APIs, useful to gather various information about your Android phone to display in the statusline (e.g. battery level).
 - [m15a/flake-awesome-neovim-plugins ![GitHub Repo Stars](https://img.shields.io/github/stars/m15a/flake-awesome-neovim-plugins) ![GitHub last commit](https://img.shields.io/github/last-commit/m15a/flake-awesome-neovim-plugins)](https://github.com/m15a/flake-awesome-neovim-plugins) - Nix flake that provides a collection of `awesome-neovim` plugins as Nix packages.
 <!--lint disable double-link -->
