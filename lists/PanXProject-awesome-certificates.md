@@ -351,7 +351,7 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 | <a href="https://tutorials.nmdprojects.net/play.html?illustrator_select_shapes" target="_blank" rel="noopener noreferrer">How to Select shapes in Illustrator</a> | UMaine New Media | Beginner| 0.11 | 🏅 |
 | <a href="https://tutorials.nmdprojects.net/play.html?illustrator_create_shapes" target="_blank" rel="noopener noreferrer">How to Create shapes in Illustrator</a> | UMaine New Media | Beginner| 0.11 | 🏅 |
 | <a href="https://tutorials.nmdprojects.net/play.html?illustrator_wrap_shapes" target="_blank" rel="noopener noreferrer">How to Wrap shapes in Illustrator</a> | UMaine New Media | intermediate| 0.11 | 🏅 |
-| <a href="https://tutorials.nmdprojects.net/play.html?illustrator_manage_color" target="_blank" rel="noopener noreferrer">Manage color in Illustrator</a> | UMaine New Media | Beginner| 0.11 | ��� |
+| <a href="https://tutorials.nmdprojects.net/play.html?illustrator_manage_color" target="_blank" rel="noopener noreferrer">Manage color in Illustrator</a> | UMaine New Media | Beginner| 0.11 | 🏅 |
 | <a href="https://tutorials.nmdprojects.net/play.html?illustrator_apply_strokes_fills" target="_blank" rel="noopener noreferrer">Apply strokes and fills in Illustrator</a> | UMaine New Media | Beginner| 0.1 | 🏅 |
 | <a href="https://tutorials.nmdprojects.net/play.html?illustrator_apply_gradient" target="_blank" rel="noopener noreferrer">Apply gradient in Illustrator</a> | UMaine New Media | intermediate| 0.1 | 🏅 |
 | <a href="https://tutorials.nmdprojects.net/play.html?make_infographic_illustrator_1" target="_blank" rel="noopener noreferrer">How to make an Infographic in Illustrator 1</a> | UMaine New Media | Beginner| 0.22 | 🏅 |
@@ -487,7 +487,7 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 | <a href="https://www.hackerrank.com/skills-verification/c_sharp_basic" target="_blank" rel="noopener noreferrer">C#</a> | HackerRank |Beginner| 1 | 🏆|
 | <a href="https://www.freecodecamp.org/learn/foundational-c-sharp-with-microsoft" target="_blank" rel="noopener noreferrer">Foundational C# with Microsoft</a> | freeCodeCamp |Beginner| 35 | 🏆|
 
-<a href="https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents" target="_blank" rel="noopener noreferrer">⬆���</a>
+<a href="https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents" target="_blank" rel="noopener noreferrer">⬆️</a>
 
 ### Cypher
 
