@@ -493,6 +493,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [teachcode ![GitHub Repo Stars](https://img.shields.io/github/stars/madlabsinc/teachcode) ![GitHub last commit](https://img.shields.io/github/last-commit/madlabsinc/teachcode)](https://github.com/madlabsinc/teachcode) - Guide for the earliest lessons of coding.
 - [navi ![GitHub Repo Stars](https://img.shields.io/github/stars/denisidoro/navi) ![GitHub last commit](https://img.shields.io/github/last-commit/denisidoro/navi)](https://github.com/denisidoro/navi) - Interactive cheatsheet tool.
 - [yai ![GitHub Repo Stars](https://img.shields.io/github/stars/ekkinox/yai) ![GitHub last commit](https://img.shields.io/github/last-commit/ekkinox/yai)](https://github.com/ekkinox/yai) - AI powered terminal assistant.
+- [Linux Command Library](https://linuxcommandlibrary.com) - Comprehensive command reference including basic knowledge, tips, and examples.
 
 ## Data Manipulation
 
