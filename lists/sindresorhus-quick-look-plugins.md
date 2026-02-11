@@ -118,6 +118,14 @@ Purchase on the [App Store](https://apps.apple.com/app/markdown-preview-quick-lo
 
 [![ ![GitHub Repo Stars](https://img.shields.io/github/stars/sindresorhus/quick-look-plugins) ![GitHub last commit](https://img.shields.io/github/last-commit/sindresorhus/quick-look-plugins)](https://github.com/sindresorhus/quick-look-plugins/raw/main/screenshots/MarkdownPreview.png)](https://anybox.ltd/markdown-preview)
 
+### [EPS Preview](https://anybox.ltd/eps-preview) 💰
+
+> EPS Preview adds Quick Look and thumbnails of EPS files to Finder.
+
+Purchase on the [website](https://anybox.ltd/eps-preview).
+
+[![ ![GitHub Repo Stars](https://img.shields.io/github/stars/sindresorhus/quick-look-plugins) ![GitHub last commit](https://img.shields.io/github/last-commit/sindresorhus/quick-look-plugins)](https://github.com/sindresorhus/quick-look-plugins/raw/main/screenshots/EPSPreview.png)](https://anybox.ltd/eps-preview)
+
 ### [ProvisionQL ![GitHub Repo Stars](https://img.shields.io/github/stars/ealeksandrov/ProvisionQL) ![GitHub last commit](https://img.shields.io/github/last-commit/ealeksandrov/ProvisionQL)](https://github.com/ealeksandrov/ProvisionQL)
 
 > Preview iOS / macOS app and provision information
