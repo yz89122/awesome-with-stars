@@ -231,7 +231,7 @@ _Info on topics necessary for designing and developing game engines._
     - 📚 [Art of Game Design](https://www.amazon.com/Art-Game-Design-Book-Lenses/dp/0123694965) - Teaches game design in an accessible manner.
     - 📚 [Game Programming Patterns](https://gameprogrammingpatterns.com) - Patterns found in games that make code easier to understand.
 - Developer Portals
-    - ��� [Game Developer](https://www.gamedeveloper.com) - Industry blogs, events, jobs, updates and more. Formerly _Gamasutra_.
+    - 🌎 [Game Developer](https://www.gamedeveloper.com) - Industry blogs, events, jobs, updates and more. Formerly _Gamasutra_.
     - 🌎 [GameDev.net](https://www.gamedev.net/) - Game dev forums, tutorials, blogs, projects, portfolios, and news.
     - 🌎 [GameFromScratch.com](https://gamefromscratch.com) - Game dev news, tutorials and much more.
     - 🌎 [itch.io](https://itch.io) - Game dev resources and platform to showcase / promote / buy & sell games.
@@ -346,7 +346,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Cglm ![GitHub Repo Stars](https://img.shields.io/github/stars/recp/cglm) ![GitHub last commit](https://img.shields.io/github/last-commit/recp/cglm)](https://github.com/recp/cglm) - Highly optimized OpenGL math.
     - ⭐ [Handmade Math ![GitHub Repo Stars](https://img.shields.io/github/stars/HandmadeMath/Handmade-Math) ![GitHub last commit](https://img.shields.io/github/last-commit/HandmadeMath/Handmade-Math)](https://github.com/HandmadeMath/Handmade-Math) 🔥 - Simple, public domain math library for games and computer graphics.
     - 🎉 [Kazmath ![GitHub Repo Stars](https://img.shields.io/github/stars/Kazade/kazmath) ![GitHub last commit](https://img.shields.io/github/last-commit/Kazade/kazmath)](https://github.com/Kazade/kazmath) - Math library targeted at games.
-    - 🎉 [Raymath ![GitHub Repo Stars](https://img.shields.io/github/stars/raysan5/raylib) ![GitHub last commit](https://img.shields.io/github/last-commit/raysan5/raylib)](https://github.com/raysan5/raylib/blob/master/src/raymath.h) - Math library included in the _RayLib_ game framework.
+    - �� [Raymath ![GitHub Repo Stars](https://img.shields.io/github/stars/raysan5/raylib) ![GitHub last commit](https://img.shields.io/github/last-commit/raysan5/raylib)](https://github.com/raysan5/raylib/blob/master/src/raymath.h) - Math library included in the _RayLib_ game framework.
 - C: Network
     - 🎉 [ENet ![GitHub Repo Stars](https://img.shields.io/github/stars/zpl-c/enet) ![GitHub last commit](https://img.shields.io/github/last-commit/zpl-c/enet)](https://github.com/zpl-c/enet) - Simple, lightweight and reliable UDP networking library.
     - 🎉 [librg ![GitHub Repo Stars](https://img.shields.io/github/stars/zpl-c/librg) ![GitHub last commit](https://img.shields.io/github/last-commit/zpl-c/librg)](https://github.com/zpl-c/librg) - Middleware between networking / file-streaming libraries and app logic.
@@ -560,7 +560,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [FlatBuffers ![GitHub Repo Stars](https://img.shields.io/github/stars/google/flatbuffers) ![GitHub last commit](https://img.shields.io/github/last-commit/google/flatbuffers)](https://github.com/google/flatbuffers) - Efficient cross-platform serialization library by _Google_.
     - 🎉 [JSON for Modern C++ ![GitHub Repo Stars](https://img.shields.io/github/stars/nlohmann/json) ![GitHub last commit](https://img.shields.io/github/last-commit/nlohmann/json)](https://github.com/nlohmann/json) - JSON support for Modern C++.
     - 🎉 [Protobuf ![GitHub Repo Stars](https://img.shields.io/github/stars/protocolbuffers/protobuf) ![GitHub last commit](https://img.shields.io/github/last-commit/protocolbuffers/protobuf)](https://github.com/protocolbuffers/protobuf) - Protocol Buffers, for platform-neutral serialized data by _Google_.
-    - ��� [RapidJSON ![GitHub Repo Stars](https://img.shields.io/github/stars/Tencent/rapidjson) ![GitHub last commit](https://img.shields.io/github/last-commit/Tencent/rapidjson)](https://github.com/Tencent/rapidjson/) - Fast JSON parser / generator.
+    - 🎉 [RapidJSON ![GitHub Repo Stars](https://img.shields.io/github/stars/Tencent/rapidjson) ![GitHub last commit](https://img.shields.io/github/last-commit/Tencent/rapidjson)](https://github.com/Tencent/rapidjson/) - Fast JSON parser / generator.
 - C++: Terrain
     - 🎉 [Terra Forge 3D ![GitHub Repo Stars](https://img.shields.io/github/stars/Jaysmito101/TerraForge3D) ![GitHub last commit](https://img.shields.io/github/last-commit/Jaysmito101/TerraForge3D)](https://github.com/Jaysmito101/TerraForge3D) - Procedural 3D terrain generation and texturing tool.
 - C++: Utility
@@ -570,7 +570,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Parallel Hashmap ![GitHub Repo Stars](https://img.shields.io/github/stars/greg7mdp/parallel-hashmap) ![GitHub last commit](https://img.shields.io/github/last-commit/greg7mdp/parallel-hashmap)](https://github.com/greg7mdp/parallel-hashmap) - Header-only, fast and memory-friendly hashmap and binary tree containers.
     - 🎉 [Spdlog ![GitHub Repo Stars](https://img.shields.io/github/stars/gabime/spdlog) ![GitHub last commit](https://img.shields.io/github/last-commit/gabime/spdlog)](https://github.com/gabime/spdlog) - Fast logging library.
     - 🎉 [Tiny-Process-Library](https://gitlab.com/eidheim/tiny-process-library) - Making it simple to create and stop new processes.
-    - 🎉 [TinyXML-2 ![GitHub Repo Stars](https://img.shields.io/github/stars/leethomason/tinyxml2) ![GitHub last commit](https://img.shields.io/github/last-commit/leethomason/tinyxml2)](https://github.com/leethomason/tinyxml2) - XML parser that can be easily integrated into other programs.
+    - �� [TinyXML-2 ![GitHub Repo Stars](https://img.shields.io/github/stars/leethomason/tinyxml2) ![GitHub last commit](https://img.shields.io/github/last-commit/leethomason/tinyxml2)](https://github.com/leethomason/tinyxml2) - XML parser that can be easily integrated into other programs.
 - C++: Visual Programming / Nodes
     - 🎉 [NodeEditor ![GitHub Repo Stars](https://img.shields.io/github/stars/paceholder/nodeeditor) ![GitHub last commit](https://img.shields.io/github/last-commit/paceholder/nodeeditor)](https://github.com/paceholder/nodeeditor) - Graph-controlled data processing, built with _Qt_.
     - 🎉 [QuickQanava ![GitHub Repo Stars](https://img.shields.io/github/stars/cneben/QuickQanava) ![GitHub last commit](https://img.shields.io/github/last-commit/cneben/QuickQanava)](https://github.com/cneben/QuickQanava) - Display graphs and relational content in a _QtQuick_-based app, in C++14.
