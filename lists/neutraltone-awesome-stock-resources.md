@@ -49,7 +49,6 @@ All the resources below have specifically specified that their content is [:copy
 * [Freely Photos](https://freelyphotos.com/) - Totally free high quality Christian stock photography.
 * [Gratisography](https://gratisography.com/) - Free high-resolution pictures you can use on your personal and commercial projects. New pictures added weekly.
 * [Jay Mantri](https://jaymantri.com/) - Free pics. Do anything. Make magic.
-* [Jéshoots](https://jeshoots.com/) - Photos for business or personal use in high resolution for free.
 * [LibreShot](https://libreshot.com/) - A collection of hundreds of high quality free stock images for personal or commercial use.
 * [Life of Pix](https://www.lifeofpix.com/) - Free high-resolution photos, no copyright restrictions. Photographs added weekly.
 * [Little Visuals](https://littlevisuals.co/) - Hi-res images zipped up in your inbox. Use them anyway you want.
@@ -82,6 +81,7 @@ These following photography resources are those who have declared their own usag
 * [Compfight.com](https://compfight.com/) - [:copyright:](https://www.flickr.com/creativecommons/) An image search engine tailored to efficiently locate images for blogs, comps, inspiration, and research.
 * [Death to the Stock Photo](https://join.deathtothestockphoto.com/) - [:copyright:](https://www.mediafire.com/file/2ifplcw682487nz/Death+to+the+Stock+Photo+-+Photograph+End+User+License+%281-2014%29+%281%29.pdf) Free monthly photos for all your creative needs.
 * [Designer Pics](https://www.designerspics.com) - [:copyright:](https://www.designerspics.com/faq-and-terms/) Free photographs for personal and commercial by [Jeshu John](https://twitter.com/jeshujohn).
+* [Fleet Images](https://fleetimages.mobilityplaces.com/) - [:copyright:](https://fleetimages.mobilityplaces.com/license-summary) Free high quality car and truck images searchable by make, model and year.
 * [Freerange](https://freerangestock.com/) - [:copyright:](https://freerangestock.com/licensing.php) Quality stock photos for commercial and non-commercial use. For free.
 * [ISO Republic](https://isorepublic.com/) - [:copyright:](https://isorepublic.com/terms/) ISO Republic provides exclusive free stock photos for creatives.
 * [Kaboom Pics](https://kaboompics.com/) - [:copyright:](https://kaboompics.com/page/license-and-faq) Great place to get breathtaking Free Pictures for business or personal projects.
@@ -146,7 +146,7 @@ A collection of resources which contain stock graphical elements which don't fit
 * [FreeVectors.net](https://www.freeVectors.net) - [:copyright:](https://www.freevectors.net/terms) A fun little community of vector lovers who share free vector graphics.
 * [Humaans](https://www.humaaans.com/) - [:copyright:](https://creativecommons.org/share-your-work/public-domain/cc0/) CC0 licensed clipart images of humans.
 * [Logo Dust](https://logodust.com/) - [:copyright:](https://creativecommons.org/licenses/by/4.0/) Free CC Attribution 4.0 logo designs for your projects.
-* [Mega Doodles Pack ![GitHub Repo Stars](https://img.shields.io/github/stars/MariaLetta/mega-doodles-pack) ![GitHub last commit](https://img.shields.io/github/last-commit/MariaLetta/mega-doodles-pack)](https://github.com/MariaLetta/mega-doodles-pack) - [:copyright:](https://creativecommons.org/licenses/by-sa/4.0/) Free and big CC Attribution-ShareAlike 4.0 vector pack with hand-drawn doodles for presentations, social media, blog posts and so on. 
+* [Mega Doodles Pack ![GitHub Repo Stars](https://img.shields.io/github/stars/MariaLetta/mega-doodles-pack) ![GitHub last commit](https://img.shields.io/github/last-commit/MariaLetta/mega-doodles-pack)](https://github.com/MariaLetta/mega-doodles-pack) - [:copyright:](https://creativecommons.org/licenses/by-sa/4.0/) Free and big CC Attribution-ShareAlike 4.0 vector pack with hand-drawn doodles for presentations, social media, blog posts and so on.
 * [Open Doodles](https://www.opendoodles.com) - [:copyright:](https://creativecommons.org/publicdomain/zero/1.0/) CC-0-licensed vector sketches/cliparts with generator and compositions.
 * [Sketch Repo](https://sketchrepo.com/) - [:copyright:](https://sketchrepo.com/about/) Sketch Repo is a great place to discover Sketch App resources for your next design project.
 * [Vecteezy](https://www.vecteezy.com/) - [:copyright:](https://www.vecteezy.com/terms) Discover & download free vector art from a community of Illustrators.
@@ -190,7 +190,7 @@ A mixture of free and open source font resources.
 * [Font Fabric](https://www.fontfabric.com/category/free/) - Font Fabric's free fonts.
 * [Font Squirrel](https://www.fontsquirrel.com) - Handpicked fonts free for commercial use.
 * [Google Fonts](https://fonts.google.com/) - Interactive directory of free hosted application programming interfaces for web fonts.
-* [Open Type Foundry](https://open-foundry.com/hot30) - [:copyright:](https://open-foundry.com/info) A new platform for open-source fonts in a noise-free environment.
+* [Open Type Foundry](https://open-foundry.com/) - [:copyright:](https://open-foundry.com/about) A new platform for open-source fonts in a noise-free environment.
 * [The League of Movable Type](https://www.theleagueofmoveabletype.com/) - Open-source type foundry.
 
 ## Icons
@@ -264,6 +264,7 @@ A selection of websites offering color schemes.
 * [Flat UI Colors](https://flatuicolors.com/) - Flat color picker which gives you the perfect colors for flat designs.
 * [Material Design Colors](https://www.materialui.co/colors) - Material ui color palette for Android, Web & iOS.
 * [Material Palette](https://www.materialpalette.com/) - Generate & export your Material Design color palette.
+* [Volume](https://volumecolor.io/) - Generate and export perceptually uniform color systems in OKLCH.
 
 ## Aggregated Content
 
