@@ -41,6 +41,7 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
   * [IDEs](#ides)
   * [Logging](#logging)
   * [Shells](#shells)
+  * [Tools](#tools)
 * [Miscellaneous](#miscellaneous)
 * [Contributing](#contributing)
 
@@ -131,6 +132,7 @@ Other places you can look for MicroPython Libraries:
 * [ufastlz ![GitHub Repo Stars](https://img.shields.io/github/stars/dmazzella/ufastlz) ![GitHub last commit](https://img.shields.io/github/last-commit/dmazzella/ufastlz)](https://github.com/dmazzella/ufastlz) - MicroPython wrapper for FastLZ, a lightning-fast lossless compression library.
 * [tamp ![GitHub Repo Stars](https://img.shields.io/github/stars/BrianPugh/tamp) ![GitHub last commit](https://img.shields.io/github/last-commit/BrianPugh/tamp)](https://github.com/BrianPugh/tamp) - A low-memory, MicroPython-optimized, DEFLATE-inspired lossless compression library.
 * [micropython-zipfile ![GitHub Repo Stars](https://img.shields.io/github/stars/jonnor/micropython-zipfile) ![GitHub last commit](https://img.shields.io/github/last-commit/jonnor/micropython-zipfile)](https://github.com/jonnor/micropython-zipfile) - Read/write ZIP archive files. Ported from CPython, supports DEFLATE compression.
+* [bitstruct-micropython ![GitHub Repo Stars](https://img.shields.io/github/stars/peterzuger/bitstruct-micropython) ![GitHub last commit](https://img.shields.io/github/last-commit/peterzuger/bitstruct-micropython)](https://github.com/peterzuger/bitstruct-micropython) - MicroPython port of [bitstruct ![GitHub Repo Stars](https://img.shields.io/github/stars/eerimoq/bitstruct) ![GitHub last commit](https://img.shields.io/github/last-commit/eerimoq/bitstruct)](https://github.com/eerimoq/bitstruct).
 
 #### Cryptography
 
@@ -388,6 +390,7 @@ Other places you can look for MicroPython Libraries:
 * [minipb ![GitHub Repo Stars](https://img.shields.io/github/stars/dogtopus/minipb) ![GitHub last commit](https://img.shields.io/github/last-commit/dogtopus/minipb)](https://github.com/dogtopus/minipb) - Mini Protobuf {de}serializer in pure Python.
 * [ucbor ![GitHub Repo Stars](https://img.shields.io/github/stars/dmazzella/ucbor) ![GitHub last commit](https://img.shields.io/github/last-commit/dmazzella/ucbor)](https://github.com/dmazzella/ucbor) - Lightweight implementation of cbor for MicroPython.
 * [upy-msgpack ![GitHub Repo Stars](https://img.shields.io/github/stars/SpotlightKid/upy-msgpack) ![GitHub last commit](https://img.shields.io/github/last-commit/SpotlightKid/upy-msgpack)](https://github.com/SpotlightKid/upy-msgpack) - A lightweight MessagePack (de)serialization library (not only) for MicroPython.
+* [micropython-msgpack ![GitHub Repo Stars](https://img.shields.io/github/stars/gitcnd/micropython-msgpack) ![GitHub last commit](https://img.shields.io/github/last-commit/gitcnd/micropython-msgpack)](https://github.com/gitcnd/micropython-msgpack) - MessagePack serialisation library optimised for MicroPython.
 
 #### SMTP
 
@@ -408,6 +411,7 @@ Other places you can look for MicroPython Libraries:
 #### Telnet
 
 * [MicroTelnetServer ![GitHub Repo Stars](https://img.shields.io/github/stars/cpopp/MicroTelnetServer) ![GitHub last commit](https://img.shields.io/github/last-commit/cpopp/MicroTelnetServer)](https://github.com/cpopp/MicroTelnetServer) - Simple telnet server for MicroPython and the ESP8266 allowing telnet clients access to the REPL.
+* [telnetd ![GitHub Repo Stars](https://img.shields.io/github/stars/gitcnd/telnetd) ![GitHub last commit](https://img.shields.io/github/last-commit/gitcnd/telnetd)](https://github.com/gitcnd/telnetd) - Powerful telnetd server to access MicroPython REPL (with strong password support, and unlimited connections).
 
 #### Text-to-Speech
 
@@ -445,6 +449,7 @@ Other places you can look for MicroPython Libraries:
 * [micropython-urouter ![GitHub Repo Stars](https://img.shields.io/github/stars/majoson-chen/micropython-urouter) ![GitHub last commit](https://img.shields.io/github/last-commit/majoson-chen/micropython-urouter)](https://github.com/majoson-chen/micropython-urouter) - A lightweight HTTP request routing processing support library based on MicroPython. The previous name was micro-route.
 * [wlan-relays ![GitHub Repo Stars](https://img.shields.io/github/stars/oliver-joos/wlan-relays) ![GitHub last commit](https://img.shields.io/github/last-commit/oliver-joos/wlan-relays)](https://github.com/oliver-joos/wlan-relays) - Very simple HTTP server written in MicroPython for controlling the pins of an ESP32 board.
 * [micropidash ![GitHub Repo Stars](https://img.shields.io/github/stars/kritishmohapatra/micropidash) ![GitHub last commit](https://img.shields.io/github/last-commit/kritishmohapatra/micropidash)](https://github.com/kritishmohapatra/micropidash) – Simple web dashboard served directly from MicroPython boards (ESP32, Pico W).
+* [microsky ![GitHub Repo Stars](https://img.shields.io/github/stars/nakagami/microsky) ![GitHub last commit](https://img.shields.io/github/last-commit/nakagami/microsky)](https://github.com/nakagami/microsky) - A [Bluesky](https://bsky.app/) client for Python and MicroPython.
 
 #### WiFi
 
@@ -601,6 +606,7 @@ Other places you can look for MicroPython Libraries:
 * [micropython-tm1638spi](https://gitlab.com/robhamerling/micropython-tm1638spi) - MicroPython Library for a popular board with 8 7-segment digits, 8 separate LEDs and 8 push buttons controlled by a TM1638.
 * [micropython-hpdl1414 ![GitHub Repo Stars](https://img.shields.io/github/stars/rdagger/micropython-hpdl1414) ![GitHub last commit](https://img.shields.io/github/last-commit/rdagger/micropython-hpdl1414)](https://github.com/rdagger/micropython-hpdl1414) - MicroPython HPDL-1414 Display Driver.
 * [micropython-sevenseg ![GitHub Repo Stars](https://img.shields.io/github/stars/kritishmohapatra/micropython-sevenseg) ![GitHub last commit](https://img.shields.io/github/last-commit/kritishmohapatra/micropython-sevenseg)](https://github.com/kritishmohapatra/micropython-sevenseg) - Lightweight MicroPython library for single-digit 7-segment displays (common anode & cathode) with ESP32, ESP8266 and RP2040 support.
+* [max7219_8digit ![GitHub Repo Stars](https://img.shields.io/github/stars/GM-Script-Writer-62850/max7219_8digit) ![GitHub last commit](https://img.shields.io/github/last-commit/GM-Script-Writer-62850/max7219_8digit)](https://github.com/GM-Script-Writer-62850/max7219_8digit) - MicroPython driver for the MAX7219 with 8 x 7-segment display.
 
 #### LEDs
 
@@ -881,7 +887,8 @@ Other places you can look for MicroPython Libraries:
 * [uPyCam ![GitHub Repo Stars](https://img.shields.io/github/stars/lemariva/uPyCam) ![GitHub last commit](https://img.shields.io/github/last-commit/lemariva/uPyCam)](https://github.com/lemariva/uPyCam) - Take a photo with an ESP32-CAM running MicroPython.
 * [OV2640_uPy ![GitHub Repo Stars](https://img.shields.io/github/stars/FunPythonEC/OV2640_uPy) ![GitHub last commit](https://img.shields.io/github/last-commit/FunPythonEC/OV2640_uPy)](https://github.com/FunPythonEC/OV2640_uPy) - OV2640 camera library for MicroPython.
 * [MQTT-Cam ![GitHub Repo Stars](https://img.shields.io/github/stars/jono-allen/MQTT-Cam) ![GitHub last commit](https://img.shields.io/github/last-commit/jono-allen/MQTT-Cam)](https://github.com/jono-allen/MQTT-Cam) - ESP32-CAM MicroPython MQTT AWS S3 Uploader.
-* [huskylib ![GitHub Repo Stars](https://img.shields.io/github/stars/QuirkyCort/IoTy) ![GitHub last commit](https://img.shields.io/github/last-commit/QuirkyCort/IoTy)](https://github.com/QuirkyCort/IoTy/blob/main/public/extensions/huskylib.py) - MicroPython driver for the DFRobot Husky Lens. An easy-to-use AI Camera / Vision Sensor, featuring face recognition, object tracking, object recognition, line tracking, color recognition, and QR code recognition.
+* [IoTy huskylib ![GitHub Repo Stars](https://img.shields.io/github/stars/QuirkyCort/IoTy) ![GitHub last commit](https://img.shields.io/github/last-commit/QuirkyCort/IoTy)](https://github.com/QuirkyCort/IoTy/blob/main/public/extensions/huskylib.py) - MicroPython driver for the DFRobot Husky Lens. An easy-to-use AI Camera / Vision Sensor, featuring face recognition, object tracking, object recognition, line tracking, color recognition, and QR code recognition.
+* [IoTy mv ![GitHub Repo Stars](https://img.shields.io/github/stars/QuirkyCort/IoTy) ![GitHub last commit](https://img.shields.io/github/last-commit/QuirkyCort/IoTy)](https://github.com/QuirkyCort/IoTy/blob/main/public/extensions/mv.py) - A simple machine vision library that provides blob and circle detection.
 
 #### Colour
 
@@ -1022,6 +1029,7 @@ Other places you can look for MicroPython Libraries:
 * [MPU6050-ESP8266-MicroPython ![GitHub Repo Stars](https://img.shields.io/github/stars/adamjezek98/MPU6050-ESP8266-MicroPython) ![GitHub last commit](https://img.shields.io/github/last-commit/adamjezek98/MPU6050-ESP8266-MicroPython)](https://github.com/adamjezek98/MPU6050-ESP8266-MicroPython) - ESP8266 driver for MPU6050 accelerometer/gyroscope.
 * [py-mpu6050 ![GitHub Repo Stars](https://img.shields.io/github/stars/larsks/py-mpu6050) ![GitHub last commit](https://img.shields.io/github/last-commit/larsks/py-mpu6050)](https://github.com/larsks/py-mpu6050) - ESP8266 driver for MPU6050 accelerometer/gyroscope.
 * [upy-motion ![GitHub Repo Stars](https://img.shields.io/github/stars/OneMadGypsy/upy-motion) ![GitHub last commit](https://img.shields.io/github/last-commit/OneMadGypsy/upy-motion)](https://github.com/OneMadGypsy/upy-motion) - A simple MPU6050 driver written in MicroPython.
+* [MPU6050-ESP32-MicroPython ![GitHub Repo Stars](https://img.shields.io/github/stars/gitcnd/MPU6050-ESP32-MicroPython) ![GitHub last commit](https://img.shields.io/github/last-commit/gitcnd/MPU6050-ESP32-MicroPython)](https://github.com/gitcnd/MPU6050-ESP32-MicroPython) - MPU6050 (Accelerometer/Gyroscope) driver which works on ESP32.
 * [MicroPython_BMI160 ![GitHub Repo Stars](https://img.shields.io/github/stars/jposada202020/MicroPython_BMI160) ![GitHub last commit](https://img.shields.io/github/last-commit/jposada202020/MicroPython_BMI160)](https://github.com/jposada202020/MicroPython_BMI160) - ARCHIVED. MicroPython Driver for the Bosch BMI160 Accelerometer/Gyro Sensor.
 * [MicroPython_BMI270 ![GitHub Repo Stars](https://img.shields.io/github/stars/jposada202020/MicroPython_BMI270) ![GitHub last commit](https://img.shields.io/github/last-commit/jposada202020/MicroPython_BMI270)](https://github.com/jposada202020/MicroPython_BMI270) - ARCHIVED. MicroPython Driver for the Bosch BMI270 Accelerometer/Gyro Sensor.
 * [MicroPython_ICG20660 ![GitHub Repo Stars](https://img.shields.io/github/stars/jposada202020/MicroPython_ICG20660) ![GitHub last commit](https://img.shields.io/github/last-commit/jposada202020/MicroPython_ICG20660)](https://github.com/jposada202020/MicroPython_ICG20660) - ARCHIVED. MicroPython Driver for the TDK ICG20660 Accelerometer/Gyro sensor.
@@ -1144,6 +1152,7 @@ Other places you can look for MicroPython Libraries:
 #### Configuration file
 
 * [uPyftsConf ![GitHub Repo Stars](https://img.shields.io/github/stars/aleppax/upyftsconf) ![GitHub last commit](https://img.shields.io/github/last-commit/aleppax/upyftsconf)](https://github.com/aleppax/upyftsconf) - MicroPython Far Too Simple Config File. Single file library that writes configurations to itself.
+* [toml ![GitHub Repo Stars](https://img.shields.io/github/stars/gitcnd/toml) ![GitHub last commit](https://img.shields.io/github/last-commit/gitcnd/toml)](https://github.com/gitcnd/toml) - Read and write .toml files. Works in MicroPython and CircuitPython.
 
 #### Database
 
@@ -1316,6 +1325,7 @@ Other places you can look for MicroPython Libraries:
 
 * [upy-shell ![GitHub Repo Stars](https://img.shields.io/github/stars/dhylands/upy-shell) ![GitHub last commit](https://img.shields.io/github/last-commit/dhylands/upy-shell)](https://github.com/dhylands/upy-shell) - A simple command line-based shell for MicroPython.
 * [Micropython-Editor ![GitHub Repo Stars](https://img.shields.io/github/stars/robert-hh/Micropython-Editor) ![GitHub last commit](https://img.shields.io/github/last-commit/robert-hh/Micropython-Editor)](https://github.com/robert-hh/Micropython-Editor) - Small on-board editor for Pyboard, WiPy, ESP8266, ESP32, PyCom and Adafruit devices written in Python.
+* [mpy_shell ![GitHub Repo Stars](https://img.shields.io/github/stars/gitcnd/mpy_shell) ![GitHub last commit](https://img.shields.io/github/last-commit/gitcnd/mpy_shell)](https://github.com/gitcnd/mpy_shell) - Linux-like shell for MicroPython. Full featured, very lightweight.
 
 #### On Host
 
@@ -1328,6 +1338,12 @@ Other places you can look for MicroPython Libraries:
 * [MPRemoteEditor ![GitHub Repo Stars](https://img.shields.io/github/stars/joewez/MPRemoteEditor) ![GitHub last commit](https://img.shields.io/github/last-commit/joewez/MPRemoteEditor)](https://github.com/joewez/MPRemoteEditor) - A simple Windows IDE for developing with MicroPython MPRemote devices.
 * [uPyExplorer ![GitHub Repo Stars](https://img.shields.io/github/stars/RetepRelleum/uPyExplorer) ![GitHub last commit](https://img.shields.io/github/last-commit/RetepRelleum/uPyExplorer)](https://github.com/RetepRelleum/uPyExplorer) - Explorer for MicroPython Device.
 * [mpr ![GitHub Repo Stars](https://img.shields.io/github/stars/bulletmark/mpr) ![GitHub last commit](https://img.shields.io/github/last-commit/bulletmark/mpr)](https://github.com/bulletmark/mpr) - Wrapper for MicroPython mpremote tool.
+
+### Tools
+
+* [belay ![GitHub Repo Stars](https://img.shields.io/github/stars/BrianPugh/belay) ![GitHub last commit](https://img.shields.io/github/last-commit/BrianPugh/belay)](https://github.com/BrianPugh/belay) - Belay is a Python library that enables the rapid development of projects that interact with hardware via a MicroPython-compatible board.
+* [ESP-File_manager ![GitHub Repo Stars](https://img.shields.io/github/stars/mispacek/ESP-File_manager) ![GitHub last commit](https://img.shields.io/github/last-commit/mispacek/ESP-File_manager)](https://github.com/mispacek/ESP-File_manager) - Web-based file manager directly running on ESP32 in MicroPython.
+* [mcu_serial ![GitHub Repo Stars](https://img.shields.io/github/stars/gitcnd/mcu_serial) ![GitHub last commit](https://img.shields.io/github/last-commit/gitcnd/mcu_serial)](https://github.com/gitcnd/mcu_serial) - Command line serial emulator to connect to MicroPython boards.
 
 ## Miscellaneous
 
