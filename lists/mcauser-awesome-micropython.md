@@ -83,6 +83,7 @@ Other places you can look for MicroPython Libraries:
 * [yx5300 ![GitHub Repo Stars](https://img.shields.io/github/stars/QuirkyCort/IoTy) ![GitHub last commit](https://img.shields.io/github/last-commit/QuirkyCort/IoTy)](https://github.com/QuirkyCort/IoTy/blob/main/public/extensions/yx5300.py) - MP3 player that can be controlled via a serial interface.
 * [micropython_nonblocking_buzzer ![GitHub Repo Stars](https://img.shields.io/github/stars/jornamon/micropython_nonblocking_buzzer) ![GitHub last commit](https://img.shields.io/github/last-commit/jornamon/micropython_nonblocking_buzzer)](https://github.com/jornamon/micropython_nonblocking_buzzer) - A nonblocking implementation of a buzzer class that allows you to play basic melodies or sound patterns without blocking the main loop while the sound is being played.
 * [multi-midi ![GitHub Repo Stars](https://img.shields.io/github/stars/HLammers/multi-midi) ![GitHub last commit](https://img.shields.io/github/last-commit/HLammers/multi-midi)](https://github.com/HLammers/multi-midi) - Library for RP2 boards, providing an interface for UART and PIO based hardware MIDI and USB MIDI 1.0.
+* [IoTy vs1003 ![GitHub Repo Stars](https://img.shields.io/github/stars/QuirkyCort/IoTy) ![GitHub last commit](https://img.shields.io/github/last-commit/QuirkyCort/IoTy)](https://github.com/QuirkyCort/IoTy/blob/main/public/extensions/vs1003.py) - Driver for the VS1003 MP3 decoder / encoder. Supports playing of MP3, WMA, MIDI, ADPCM, and recording of ADPCM.
 
 ### Communications
 
@@ -119,6 +120,7 @@ Other places you can look for MicroPython Libraries:
 * [mijia-temphum-upy](https://codeberg.org/scy/mijia-temphum-upy) - MicroPython library to read certain Xiaomi Mijia BLE temperature & humidity sensors.
 * [micropython-aioble-itag ![GitHub Repo Stars](https://img.shields.io/github/stars/mcauser/micropython-aioble-itag) ![GitHub last commit](https://img.shields.io/github/last-commit/mcauser/micropython-aioble-itag)](https://github.com/mcauser/micropython-aioble-itag) - Examples using aioble to interact with iTag BLE keychain tags.
 * [micropython_aioble_examples ![GitHub Repo Stars](https://img.shields.io/github/stars/ekspla/micropython_aioble_examples) ![GitHub last commit](https://img.shields.io/github/last-commit/ekspla/micropython_aioble_examples)](https://github.com/ekspla/micropython_aioble_examples) - A few aioble (asyncio BLE) examples of MicroPython using ESP32.
+* [BTHome-MicroPython ![GitHub Repo Stars](https://img.shields.io/github/stars/DavesCodeMusings/BTHome-MicroPython) ![GitHub last commit](https://img.shields.io/github/last-commit/DavesCodeMusings/BTHome-MicroPython)](https://github.com/DavesCodeMusings/BTHome-MicroPython) - MicroPython module to format sensor readings for BTHome BLE advertising payloads.
 
 #### CAN
 
@@ -375,6 +377,7 @@ Other places you can look for MicroPython Libraries:
 * [DS1307 ![GitHub Repo Stars](https://img.shields.io/github/stars/peter-l5/DS1307) ![GitHub last commit](https://img.shields.io/github/last-commit/peter-l5/DS1307)](https://github.com/peter-l5/DS1307) - MicroPython driver for the DS1307 real time clock.
 * [micropython-DS3231-AT24C32 ![GitHub Repo Stars](https://img.shields.io/github/stars/pangopi/micropython-DS3231-AT24C32) ![GitHub last commit](https://img.shields.io/github/last-commit/pangopi/micropython-DS3231-AT24C32)](https://github.com/pangopi/micropython-DS3231-AT24C32) - MicroPython driver for DS3231 RTC.
 * [micropython_rx-8035 ![GitHub Repo Stars](https://img.shields.io/github/stars/ekspla/micropython_rx-8035) ![GitHub last commit](https://img.shields.io/github/last-commit/ekspla/micropython_rx-8035)](https://github.com/ekspla/micropython_rx-8035) - A MicroPython Driver for Seiko Epson's RTC, RX-8035SA/LC.
+* [micropython-ds1302-rtc ![GitHub Repo Stars](https://img.shields.io/github/stars/PaszaVonPomiot/micropython-ds1302-rtc) ![GitHub last commit](https://img.shields.io/github/last-commit/PaszaVonPomiot/micropython-ds1302-rtc)](https://github.com/PaszaVonPomiot/micropython-ds1302-rtc) - DS1302 RTC Clock driver for MicroPython.
 
 #### Serial
 
@@ -416,6 +419,7 @@ Other places you can look for MicroPython Libraries:
 #### Text-to-Speech
 
 * [micropython-SYN6988 ![GitHub Repo Stars](https://img.shields.io/github/stars/scruss/micropython-SYN6988) ![GitHub last commit](https://img.shields.io/github/last-commit/scruss/micropython-SYN6988)](https://github.com/scruss/micropython-SYN6988) - MicroPython library for the VoiceTX SYN6988 text to speech module.
+* [micropython-samtts ![GitHub Repo Stars](https://img.shields.io/github/stars/jacklinquan/micropython-samtts) ![GitHub last commit](https://img.shields.io/github/last-commit/jacklinquan/micropython-samtts)](https://github.com/jacklinquan/micropython-samtts) - A MicroPython port of Software Automatic Mouth Text-To-Speech program.
 
 #### Time
 
@@ -626,6 +630,7 @@ Other places you can look for MicroPython Libraries:
 * [micropython-rgb-led-driver](https://gitlab.com/Athanaze/micropython-rgb-led-driver) - Tiny driver to control an RGB LED with PWM.
 * [micropython-dotstar ![GitHub Repo Stars](https://img.shields.io/github/stars/mattytrentini/micropython-dotstar) ![GitHub last commit](https://img.shields.io/github/last-commit/mattytrentini/micropython-dotstar)](https://github.com/mattytrentini/micropython-dotstar) - A MicroPython port of the Adafruit CircuitPython APA102/DotStar library.
 * [micropython-aw210xx ![GitHub Repo Stars](https://img.shields.io/github/stars/eosti/micropython-aw210xx) ![GitHub last commit](https://img.shields.io/github/last-commit/eosti/micropython-aw210xx)](https://github.com/eosti/micropython-aw210xx) - Driver for Awinic's AW210xx line of 8-bit LED drivers.
+* [IS31FL3197 ![GitHub Repo Stars](https://img.shields.io/github/stars/omeErik/IS31FL3197) ![GitHub last commit](https://img.shields.io/github/last-commit/omeErik/IS31FL3197)](https://github.com/omeErik/IS31FL3197) - I2C driver for the IS31FL3197 chip, found on the Arduino GIGA Display Shield.
 
 #### OLED
 
@@ -934,6 +939,9 @@ Other places you can look for MicroPython Libraries:
 * [LidarLight_v3HP_micropython ![GitHub Repo Stars](https://img.shields.io/github/stars/Dnapert/LidarLight_v3HP_micropython) ![GitHub last commit](https://img.shields.io/github/last-commit/Dnapert/LidarLight_v3HP_micropython)](https://github.com/Dnapert/LidarLight_v3HP_micropython) - A MicroPython library for the Garmin Lidar Lite v3HP.
 * [vl53l1x ![GitHub Repo Stars](https://img.shields.io/github/stars/QuirkyCort/IoTy) ![GitHub last commit](https://img.shields.io/github/last-commit/QuirkyCort/IoTy)](https://github.com/QuirkyCort/IoTy/blob/main/public/extensions/vl53l1x.py) - MicroPython driver for the VL53L1X ToF sensor.
 * [vl53l0x-nb ![GitHub Repo Stars](https://img.shields.io/github/stars/antirez/vl53l0x-nb) ![GitHub last commit](https://img.shields.io/github/last-commit/antirez/vl53l0x-nb)](https://github.com/antirez/vl53l0x-nb) - Fork of MicroPython driver for vl53l0x TOF sensor to add non-blocking mode.
+* [IoTy lds02rr ![GitHub Repo Stars](https://img.shields.io/github/stars/QuirkyCort/IoTy) ![GitHub last commit](https://img.shields.io/github/last-commit/QuirkyCort/IoTy)](https://github.com/QuirkyCort/IoTy/blob/main/public/extensions/lds02rr.py) - Driver for the LDS02RR 360 degree LiDAR.
+* [IoTy coind4 ![GitHub Repo Stars](https://img.shields.io/github/stars/QuirkyCort/IoTy) ![GitHub last commit](https://img.shields.io/github/last-commit/QuirkyCort/IoTy)](https://github.com/QuirkyCort/IoTy/blob/main/public/extensions/coind4.py) - Driver for the COIN-D4 360 degree LiDAR.
+* [IoTy delta2d ![GitHub Repo Stars](https://img.shields.io/github/stars/QuirkyCort/IoTy) ![GitHub last commit](https://img.shields.io/github/last-commit/QuirkyCort/IoTy)](https://github.com/QuirkyCort/IoTy/blob/main/public/extensions/delta2d.py) - Driver for the Delta-2D 360 degree LiDAR.
 
 #### Distance Ultrasonic
 
@@ -1255,6 +1263,7 @@ Other places you can look for MicroPython Libraries:
 * [terkin-datalogger ![GitHub Repo Stars](https://img.shields.io/github/stars/hiveeyes/terkin-datalogger) ![GitHub last commit](https://img.shields.io/github/last-commit/hiveeyes/terkin-datalogger)](https://github.com/hiveeyes/terkin-datalogger) - Flexible data logger application for MicroPython and CPython.
 * [perthensis](https://codeberg.org/scy/perthensis) - Perthensis: an asynchronous framework for MicroPython.
 * [meerkat ![GitHub Repo Stars](https://img.shields.io/github/stars/crdietrich/meerkat) ![GitHub last commit](https://img.shields.io/github/last-commit/crdietrich/meerkat)](https://github.com/crdietrich/meerkat) - I2C Data Acquisition for MicroPython and Raspberry Pi.
+* [public-micropython-iot-platform ![GitHub Repo Stars](https://img.shields.io/github/stars/wolfen351/public-micropython-iot-platform) ![GitHub last commit](https://img.shields.io/github/last-commit/wolfen351/public-micropython-iot-platform)](https://github.com/wolfen351/public-micropython-iot-platform) - Project Fred MicroPython IOT Platform, code to control relays, temp sensors, buttons, touchscreen, GPS etc. Has a responsive Web UI, MQTT, Home Assistant and ThingsBoard support.
 
 ## Resources
 

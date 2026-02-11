@@ -358,7 +358,7 @@ Claude Code is a CLI-based coding assistant from [Anthropic](https://www.anthrop
 
 <br>
 
-## Official Documentation ��️
+## Official Documentation ���️
 
 > Links to some of Anthropic's terrific documentation and resources regarding Claude Code
 
