@@ -275,7 +275,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Cached Network Image ![GitHub Repo Stars](https://img.shields.io/github/stars/renefloor/flutter_cached_network_image) ![GitHub last commit](https://img.shields.io/github/last-commit/renefloor/flutter_cached_network_image)](https://github.com/renefloor/flutter_cached_network_image) [2547⭐] - Show images from the internet and keep them in the cache directory by.
 - [Lottie ![GitHub Repo Stars](https://img.shields.io/github/stars/xvrh/lottie-flutter) ![GitHub last commit](https://img.shields.io/github/last-commit/xvrh/lottie-flutter)](https://github.com/xvrh/lottie-flutter) [1257⭐] - Use airbnb's popular [After Effects Animation library](https://airbnb.design/lottie/) by [xvrh ![GitHub Repo Stars](https://img.shields.io/github/stars/xvrh/lottie-flutter) ![GitHub last commit](https://img.shields.io/github/last-commit/xvrh/lottie-flutter)](https://github.com/xvrh/lottie-flutter).
 - [Bitmap ![GitHub Repo Stars](https://img.shields.io/github/stars/renancaraujo/bitmap) ![GitHub last commit](https://img.shields.io/github/last-commit/renancaraujo/bitmap)](https://github.com/renancaraujo/bitmap) [176⭐] - Perform Bitmap manipulations (such as contrast and exposure) with a help from the Dart FFI by [Renan C. Araújo](https://github.com/renancaraujo).
-- [Crop ![GitHub Repo Stars](https://img.shields.io/github/stars/xclud/flutter_crop) ![GitHub last commit](https://img.shields.io/github/last-commit/xclud/flutter_crop)](https://github.com/xclud/flutter_crop) [259���] - Crop any widget/image in Android, iOS, Web and Desktop by [Mahdi K. Fard](https://github.com/xclud/).
+- [Crop ![GitHub Repo Stars](https://img.shields.io/github/stars/xclud/flutter_crop) ![GitHub last commit](https://img.shields.io/github/last-commit/xclud/flutter_crop)](https://github.com/xclud/flutter_crop) [259⭐] - Crop any widget/image in Android, iOS, Web and Desktop by [Mahdi K. Fard](https://github.com/xclud/).
 
 #### Image Picker
 
@@ -917,7 +917,7 @@ This section contains libraries that take an experimental or unorthodox approach
 - [Community GitHub Page](https://github.com/Colombo-Flutter-Meetup)
 - [Facebook Page](https://www.facebook.com/flutterCMB/)
 
-### 🇹🇷 Turkey
+### 🇹��� Turkey
 
 - [Twitter](https://twitter.com/flutter_turkiye)
 - [Medium](https://medium.com/flutter-türkiye/)
