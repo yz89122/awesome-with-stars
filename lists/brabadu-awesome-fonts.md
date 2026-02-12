@@ -15,6 +15,7 @@ A curated list of fonts and typography resources.
 
 ## General
 * [27 fonts (give or take) that explain your world](https://www.vox.com/2015/2/8/7475667/27-fonts-give-or-take-that-explain-your-world)
+* [FontAlternatives](https://fontalternatives.com/) - Free alternatives to premium fonts with visual comparisons
 * [Fontjoy](http://fontjoy.com/) - Generate font combinations with deep learning
 * [Font Of Web](https://fontofweb.com) - Fonts from the most inspiring websites on the web
 * [Fonts In Use](https://fontsinuse.com/) - A public archive of typography
@@ -116,7 +117,6 @@ A curated list of fonts and typography resources.
 * [Micon ![GitHub Repo Stars](https://img.shields.io/github/stars/xtoolkit/Micon) ![GitHub last commit](https://img.shields.io/github/last-commit/xtoolkit/Micon)](https://github.com/xtoolkit/Micon) - Iconic Windows 10 font and CSS toolkit
 * [octicons](https://octicons.github.com/) - GitHub's icon font
 * [openwebicons](https://pfefferle.github.io/openwebicons/) - Because Font Awesome had no RSS-icon and a font with only one icon would be a bit boring
-* [PaymentFont](https://paymentfont.com/) - A sleek webfont containing 94 icons of all main payment operators and methods
 * [PE-Analog-Clock-icon-font ![GitHub Repo Stars](https://img.shields.io/github/stars/jhogue/PE-Analog-Clock-icon-font) ![GitHub last commit](https://img.shields.io/github/last-commit/jhogue/PE-Analog-Clock-icon-font)](https://github.com/jhogue/PE-Analog-Clock-icon-font) - A set of icons for displaying a visual ("analog") representation of time stamps
 * [Simple Analog Clock Font ![GitHub Repo Stars](https://img.shields.io/github/stars/fshaxe/SimpleAnalogClockFont) ![GitHub last commit](https://img.shields.io/github/last-commit/fshaxe/SimpleAnalogClockFont)](https://github.com/fshaxe/SimpleAnalogClockFont) - A True-Type font containing all 720 clock faces as glyphs, with multiple weights.
 * [Picon](https://yne.fr/picon) ~666 Pico-sized and ligature based icons + online font generator.
@@ -147,6 +147,7 @@ A curated list of fonts and typography resources.
 * [Hack ![GitHub Repo Stars](https://img.shields.io/github/stars/source-foundry/Hack) ![GitHub last commit](https://img.shields.io/github/last-commit/source-foundry/Hack)](https://github.com/source-foundry/Hack)
 * [Inconsolata](http://levien.com/type/myfonts/inconsolata.html)
 * [Lab Mono ![GitHub Repo Stars](https://img.shields.io/github/stars/hatsumatsu/Lab-Mono) ![GitHub last commit](https://img.shields.io/github/last-commit/hatsumatsu/Lab-Mono)](https://github.com/hatsumatsu/Lab-Mono) - Geometric monospaced typeface
+* [Maple Mono](https://font.subf.dev/en/) - Smooth your coding flow
 * [Meslo-Font ![GitHub Repo Stars](https://img.shields.io/github/stars/andreberg/Meslo-Font) ![GitHub last commit](https://img.shields.io/github/last-commit/andreberg/Meslo-Font)](https://github.com/andreberg/Meslo-Font) - Customized version of Apple's Menlo font
 * [Miracode ![GitHub Repo Stars](https://img.shields.io/github/stars/IdreesInc/Miracode) ![GitHub last commit](https://img.shields.io/github/last-commit/IdreesInc/Miracode)](https://github.com/IdreesInc/Miracode)
 * [Mononoki](http://madmalik.github.io/mononoki/)
