@@ -172,6 +172,10 @@ Price and Volume process with Technology Analysis Indices
 - [CoinPulse ![GitHub Repo Stars](https://img.shields.io/github/stars/soutone/coinpulse-python) ![GitHub last commit](https://img.shields.io/github/last-commit/soutone/coinpulse-python)](https://github.com/soutone/coinpulse-python) - Python SDK for cryptocurrency portfolio tracking with real-time prices, P/L calculations, backtesting, and price alerts. Free tier: 25 req/hr.
 - [Gekko-Datasets ![GitHub Repo Stars](https://img.shields.io/github/stars/xFFFFF/Gekko-Datasets) ![GitHub last commit](https://img.shields.io/github/last-commit/xFFFFF/Gekko-Datasets)](https://github.com/xFFFFF/Gekko-Datasets) - Gekko trading bot dataset dumps. Download and use history files in SQLite format.
 
+#### News Data
+
+- [WorldMonitor ![GitHub Repo Stars](https://img.shields.io/github/stars/koala73/worldmonitor) ![GitHub last commit](https://img.shields.io/github/last-commit/koala73/worldmonitor)](https://github.com/koala73/worldmonitor) - AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface.
+
 #### Alternative Data
 
 - [Pizzint](https://www.pizzint.watch/) - Pentagon Pizza Index (PizzINT) is a real-time Pentagon pizza tracker that visualizes unusual activity at Pentagon-area pizzerias. It highlights a signal that has historically aligned with late-night, high-tempo operations and breaking news.
@@ -186,6 +190,8 @@ Price and Volume process with Technology Analysis Indices
 - [alphalens ![GitHub Repo Stars](https://img.shields.io/github/stars/quantopian/alphalens) ![GitHub last commit](https://img.shields.io/github/last-commit/quantopian/alphalens)](https://github.com/quantopian/alphalens) - Performance analysis of predictive (alpha) stock factors.
 - [empyrical ![GitHub Repo Stars](https://img.shields.io/github/stars/quantopian/empyrical) ![GitHub last commit](https://img.shields.io/github/last-commit/quantopian/empyrical)](https://github.com/quantopian/empyrical) - Common financial risk and performance metrics. Used by Zipline and pyfolio.
 - [zvt ![GitHub Repo Stars](https://img.shields.io/github/stars/zvtvz/zvt) ![GitHub last commit](https://img.shields.io/github/last-commit/zvtvz/zvt)](https://github.com/zvtvz/zvt) - Zero vector trader.
+- [WFGY ![GitHub Repo Stars](https://img.shields.io/github/stars/onestardao/WFGY) ![GitHub last commit](https://img.shields.io/github/last-commit/onestardao/WFGY)](https://github.com/onestardao/WFGY) – Open source framework for debugging and stress testing LLM agents and RAG pipelines. Includes a 16 mode failure map and long-horizon stress tests that are useful for financial research agents.
+
 
 ## Trading System
 

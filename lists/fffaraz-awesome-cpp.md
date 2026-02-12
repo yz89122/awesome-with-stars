@@ -599,6 +599,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 *Graphic User Interface*
 
 * [Boden ![GitHub Repo Stars](https://img.shields.io/github/stars/AshampooSystems/boden) ![GitHub last commit](https://img.shields.io/github/last-commit/AshampooSystems/boden)](https://github.com/AshampooSystems/boden) - Native, mobile, cross-platform GUI Framework. [GPL/LGPL/Proprietary] [website](https://www.boden.io)
+* [Brisk ![GitHub Repo Stars](https://img.shields.io/github/stars/brisklib/brisk) ![GitHub last commit](https://img.shields.io/github/last-commit/brisklib/brisk)](https://github.com/brisklib/brisk) - Cross-platform C++20 GUI framework. MVVM, reactive capabilities. Scalable, accelerated GPU rendering [GPL/Proprietary] [website](https://brisklib.com)
 * [CEGUI](http://cegui.org.uk/) - Flexible, cross-platform GUI library.
 * [Elements ![GitHub Repo Stars](https://img.shields.io/github/stars/cycfi/elements) ![GitHub last commit](https://img.shields.io/github/last-commit/cycfi/elements)](https://github.com/cycfi/elements) - Lightweight, fine-grained, resolution independent, modular GUI library. [MIT]
 * [FLTK](http://www.fltk.org/index.php) - Fast, light, cross-platform C++ GUI toolkit. [LGPL2]
