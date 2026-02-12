@@ -191,6 +191,7 @@ This list accepts and encourages pull requests. See [CONTRIBUTING ![GitHub Repo 
 *Tools that prevents leaking of sensitive data from database (encryption, masking and tokenization, honey-pots, etc)*
 
 - [Acra ![GitHub Repo Stars](https://img.shields.io/github/stars/cossacklabs/acra) ![GitHub last commit](https://img.shields.io/github/last-commit/cossacklabs/acra)](https://github.com/cossacklabs/acra) - SQL database protection suite: strong selective encryption, SQL injections prevention, intrusion detection system.
+- [myanon ![GitHub Repo Stars](https://img.shields.io/github/stars/ppomes/myanon) ![GitHub last commit](https://img.shields.io/github/last-commit/ppomes/myanon)](https://github.com/ppomes/myanon) - Streaming anonymizer for MySQL dump files, reading mysqldump output from stdin and writing anonymized data to stdout. Supports deterministic hashing, fixed values, JSON field anonymization, and Python extensions.
 - [myldapsync ![GitHub Repo Stars](https://img.shields.io/github/stars/6eh01der/myldapsync) ![GitHub last commit](https://img.shields.io/github/last-commit/6eh01der/myldapsync)](https://github.com/6eh01der/myldapsync) - Synchronize MySQL or MariaDB users with users in an LDAP directory.
 
 ## Server
