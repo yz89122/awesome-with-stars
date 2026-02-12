@@ -231,7 +231,7 @@ _Info on topics necessary for designing and developing game engines._
     - 📚 [Art of Game Design](https://www.amazon.com/Art-Game-Design-Book-Lenses/dp/0123694965) - Teaches game design in an accessible manner.
     - 📚 [Game Programming Patterns](https://gameprogrammingpatterns.com) - Patterns found in games that make code easier to understand.
 - Developer Portals
-    - 🌎 [Game Developer](https://www.gamedeveloper.com) - Industry blogs, events, jobs, updates and more. Formerly _Gamasutra_.
+    - ��� [Game Developer](https://www.gamedeveloper.com) - Industry blogs, events, jobs, updates and more. Formerly _Gamasutra_.
     - 🌎 [GameDev.net](https://www.gamedev.net/) - Game dev forums, tutorials, blogs, projects, portfolios, and news.
     - 🌎 [GameFromScratch.com](https://gamefromscratch.com) - Game dev news, tutorials and much more.
     - 🌎 [itch.io](https://itch.io) - Game dev resources and platform to showcase / promote / buy & sell games.
@@ -706,7 +706,7 @@ _Language specific game engine development libraries / frameworks / code._
 - Haxe: Libraries
     - 📚 [HaxeLibs](https://lib.haxe.org/all) - List of every library uploaded to the Haxe website.
     - 📚 [HaxeTink](https://github.com/haxetink) - Various addon libraries for Haxe.
-    - 🌎 [Snowkit](https://github.com/snowkit) - Collective of Haxe developers.
+    - ���� [Snowkit](https://github.com/snowkit) - Collective of Haxe developers.
 - Haxe: Physics
     - 🎉 [Haxe Bullet ![GitHub Repo Stars](https://img.shields.io/github/stars/armory3d/haxebullet) ![GitHub last commit](https://img.shields.io/github/last-commit/armory3d/haxebullet)](https://github.com/armory3d/haxebullet) - _Bullet 3D_ physics bindings for Haxe.
     - 🎉 [HeapsIO/bullet ![GitHub Repo Stars](https://img.shields.io/github/stars/HeapsIO/bullet) ![GitHub last commit](https://img.shields.io/github/last-commit/HeapsIO/bullet)](https://github.com/HeapsIO/bullet) - _Bullet 3D_ physics for _Heaps_ (Haxe's native low-level game framework).
