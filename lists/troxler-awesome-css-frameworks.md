@@ -349,12 +349,6 @@ We are keeping them here for reference/inspiration and hope for a revival.
   [Docs](https://unsemantic.com/css-documentation),
   [Repo ![GitHub Repo Stars](https://img.shields.io/github/stars/nathansmith/unsemantic) ![GitHub last commit](https://img.shields.io/github/last-commit/nathansmith/unsemantic)](https://github.com/nathansmith/unsemantic)
 
-- [**Propeller**](https://propeller.in) - Front-end responsive framework based on Google's Material Design standards & Bootstrap.  
-  ![](https://img.shields.io/github/stars/digicorp/propeller.svg?style=social&label=Star)
-  [Docs](https://propeller.in/frameworks/open-source/get-started/),
-  [Repo ![GitHub Repo Stars](https://img.shields.io/github/stars/digicorp/propeller) ![GitHub last commit](https://img.shields.io/github/last-commit/digicorp/propeller)](https://github.com/digicorp/propeller)
-  | #SCSS
-
 - [**Concise CSS**](https://concisecss.com) - Give up the bloat. Stop tripping over your classes. Be concise.  
   ![](https://img.shields.io/github/stars/ConciseCSS/concise.css.svg?style=social&label=Star)
   [Docs](https://concisecss.com/documentation/),
