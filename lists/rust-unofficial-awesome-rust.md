@@ -2153,7 +2153,7 @@ A registry allows you to publish your Rust libraries as crate packages, to share
   * [awesome-rust-mentors](https://rustbeginners.github.io/awesome-rust-mentors/) - A list of helpful mentors willing to take mentees and educate them about Rust and programming.
   * [CIS 198: Rust Programming](http://cis198-2016s.github.io/schedule/) - University of Pennsylvania's Comp Sci Rust Programming Course
   * [CodeCrafters.io](https://app.codecrafters.io/tracks/rust) - Build your own Redis, Git, Docker, or SQLite
-  * [Comprehensive Rust 🦀](https://google.github.io/comprehensive-rust/) - A 3-day course on Rust Fundamentals plus 1-day courses on Android, Bare-metal Rust, and Concurrency. Available in English, [Brazilian Portuguese](https://google.github.io/comprehensive-rust/pt-BR/), and [Korean](https://google.github.io/comprehensive-rust/ko/).
+  * [Comprehensive Rust ��](https://google.github.io/comprehensive-rust/) - A 3-day course on Rust Fundamentals plus 1-day courses on Android, Bare-metal Rust, and Concurrency. Available in English, [Brazilian Portuguese](https://google.github.io/comprehensive-rust/pt-BR/), and [Korean](https://google.github.io/comprehensive-rust/ko/).
   * [Easy Rust ![GitHub Repo Stars](https://img.shields.io/github/stars/Dhghomon/easy_rust) ![GitHub last commit](https://img.shields.io/github/last-commit/Dhghomon/easy_rust)](https://github.com/Dhghomon/easy_rust) - Learn Rust in easy English.
   * [exercism.org](https://exercism.org/tracks/rust) - programming exercises that help you learn new concepts in Rust.
   * [Hands-on Rust](https://pragprog.com/titles/hwrust/hands-on-rust/) - A hands-on guide to learning Rust by making games - by [Herbert Wolverson](https://github.com/thebracket/) (paid)
