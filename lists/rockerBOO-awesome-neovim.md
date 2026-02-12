@@ -1466,6 +1466,7 @@ then it is not supported:
 - [smoka7/multicursors.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/smoka7/multicursors.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/smoka7/multicursors.nvim)](https://github.com/smoka7/multicursors.nvim) - Provides a more intuitive way to edit repetitive text with multiple selections.
 - [tigion/swap.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/tigion/swap.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/tigion/swap.nvim)](https://github.com/tigion/swap.nvim) - Quickly switch a word under the cursor or a pattern in the current line.
 - [XXiaoA/atone.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/XXiaoA/atone.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/XXiaoA/atone.nvim)](https://github.com/XXiaoA/atone.nvim) - Undo tree for visualizing and managing undo history.
+- [nemanjamalesija/smart-paste.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/nemanjamalesija/smart-paste.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/nemanjamalesija/smart-paste.nvim)](https://github.com/nemanjamalesija/smart-paste.nvim) - Automatic indentation of pasted code using a three-tier indent strategy (indentexpr / Tree-sitter / heuristic).
 
 ### Comment
 
