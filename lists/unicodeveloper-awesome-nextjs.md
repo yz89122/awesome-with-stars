@@ -170,6 +170,7 @@ _List inspired by the [awesome ![GitHub Repo Stars](https://img.shields.io/githu
 - [next-api-decorators ![GitHub Repo Stars](https://img.shields.io/github/stars/storyofams/next-api-decorators) ![GitHub last commit](https://img.shields.io/github/last-commit/storyofams/next-api-decorators)](https://github.com/storyofams/next-api-decorators) - Decorators to create typed Next.js API routes, with easy request validation and transformation.
 - [Vercel AI SDK ![GitHub Repo Stars](https://img.shields.io/github/stars/vercel/ai) ![GitHub last commit](https://img.shields.io/github/last-commit/vercel/ai)](https://github.com/vercel/ai) - The AI Toolkit for TypeScript. Build AI-powered applications with React, Next.js, Vue, Svelte, and Node.js.
 - [CopilotKit ![GitHub Repo Stars](https://img.shields.io/github/stars/CopilotKit/CopilotKit) ![GitHub last commit](https://img.shields.io/github/last-commit/CopilotKit/CopilotKit)](https://github.com/CopilotKit/CopilotKit) - React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents in your Next.js apps.
+- [ShotOG ![GitHub Repo Stars](https://img.shields.io/github/stars/nicepkg/shotog) ![GitHub last commit](https://img.shields.io/github/last-commit/nicepkg/shotog)](https://github.com/nicepkg/shotog) - Dynamic OG image generation API for Next.js apps, powered by Cloudflare Workers.
 
 ## Apps
 
@@ -210,6 +211,7 @@ _List inspired by the [awesome ![GitHub Repo Stars](https://img.shields.io/githu
 - [Taxonomy ![GitHub Repo Stars](https://img.shields.io/github/stars/shadcn/taxonomy) ![GitHub last commit](https://img.shields.io/github/last-commit/shadcn/taxonomy)](https://github.com/shadcn/taxonomy) - An example app built using Next.js 13 server components.
 - [shadcn/ui ![GitHub Repo Stars](https://img.shields.io/github/stars/shadcn/ui) ![GitHub last commit](https://img.shields.io/github/last-commit/shadcn/ui)](https://github.com/shadcn/ui) - Beautifully designed components that you can copy and paste into your apps.
 - [StorageBox ![GitHub Repo Stars](https://img.shields.io/github/stars/AlandSleman/StorageBox) ![GitHub last commit](https://img.shields.io/github/last-commit/AlandSleman/StorageBox)](https://github.com/AlandSleman/StorageBox) - A Simple File Storage Service Built with Go and Next.js.
+- [Taskade](https://taskade.com/) - AI-powered workspace for teams with real-time collaboration, AI agents, project management, and workflow automation.
 
 ## Books
 
