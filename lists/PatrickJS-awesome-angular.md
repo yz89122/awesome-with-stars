@@ -519,8 +519,9 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [featurit-sdk-angular ![GitHub Repo Stars](https://img.shields.io/github/stars/featurit/featurit-sdk-angular) ![GitHub last commit](https://img.shields.io/github/last-commit/featurit/featurit-sdk-angular)](https://github.com/featurit/featurit-sdk-angular) - Angular wrapper of the JavaScript client for the [FeaturIT](https://featurit.com/) Feature Flag management platform.
 * [flagpole](https://www.npmjs.com/package/@flagpole/angular) - Angular SDK for the [Flagpole](https://useflagpole.dev/) feature flag management system.
 * [ngx-feature-proxy ![GitHub Repo Stars](https://img.shields.io/github/stars/zenkiet/ngx-feature-proxy) ![GitHub last commit](https://img.shields.io/github/last-commit/zenkiet/ngx-feature-proxy)](https://github.com/zenkiet/ngx-feature-proxy) - Angular feature flag library with Unleash; reactive and type-safe flag management with minimal setup.
-* [ngx-feature-flags ![GitHub Repo Stars](https://img.shields.io/github/stars/pavan-98/ngx-feature-flags) ![GitHub last commit](https://img.shields.io/github/last-commit/pavan-98/ngx-feature-flags)](https://github.com/pavan-98/ngx-feature-flags) - An Angular‑first, enterprise‑ready feature‑flag layer that standardizes how flags are resolved, guarded, and rendered across Angular apps.
+* [ngx-feature-flags ![GitHub Repo Stars](https://img.shields.io/github/stars/pavan-98/ngx-feature-flags) ![GitHub last commit](https://img.shields.io/github/last-commit/pavan-98/ngx-feature-flags)](https://github.com/pavan-98/ngx-feature-flags) - An Angular‑first, enterprise‑ready feature��flag layer that standardizes how flags are resolved, guarded, and rendered across Angular apps.
 * [ngx-feature-flags-toggly](https://www.npmjs.com/package/@ops-ai/ngx-feature-flags-toggly) - Angular SDK for [Toggly](https://toggly.io/) feature flags.
+* [ngx-circuit ![GitHub Repo Stars](https://img.shields.io/github/stars/pjlamb12/ngx-circuit) ![GitHub last commit](https://img.shields.io/github/last-commit/pjlamb12/ngx-circuit)](https://github.com/pjlamb12/ngx-circuit) - Streamlines feature‑toggle management, offering flexible strategies such as simple boolean flags, scheduled activations, percentage rollouts, user‑group targeting, environment‑based rules, and more.
 
 ### GraphQL
 
@@ -843,6 +844,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-compare-object ![GitHub Repo Stars](https://img.shields.io/github/stars/RzoDev/ngx-compare-object) ![GitHub last commit](https://img.shields.io/github/last-commit/RzoDev/ngx-compare-object)](https://github.com/RzoDev/ngx-compare-object) - Angular utility to compare an original object with its modified version.
 * [ngx-json-reader ![GitHub Repo Stars](https://img.shields.io/github/stars/Verbalman/ngx-json-reader) ![GitHub last commit](https://img.shields.io/github/last-commit/Verbalman/ngx-json-reader)](https://github.com/Verbalman/ngx-json-reader) - Angular 17+ JSON reader/editor with multi-URL comparison and diffing.
 * [ngx-signal-hub](https://www.npmjs.com/package/ngx-signal-hub) - Lightweight Angular hub unifying callbacks with signal‑based event observation.
+* [runtime-config-loader ![GitHub Repo Stars](https://img.shields.io/github/stars/pjlamb12/runtime-config-loader) ![GitHub last commit](https://img.shields.io/github/last-commit/pjlamb12/runtime-config-loader)](https://github.com/pjlamb12/runtime-config-loader) - Angular library that provides an easy way to load a configuration JSON file for runtime configuration.
 
 ### SEO
 
@@ -1488,6 +1490,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [zignal ![GitHub Repo Stars](https://img.shields.io/github/stars/biyonik/zignal) ![GitHub last commit](https://img.shields.io/github/last-commit/biyonik/zignal)](https://github.com/biyonik/zignal) - A type-safe Angular form library using signals and Zod validation, with Turkey-specific validators and multi-language support.
 * [ngx-form-stepper ![GitHub Repo Stars](https://img.shields.io/github/stars/rayaneriahi/ngx-form-stepper) ![GitHub last commit](https://img.shields.io/github/last-commit/rayaneriahi/ngx-form-stepper)](https://github.com/rayaneriahi/ngx-form-stepper) - A strongly typed Angular library for building robust multi‑step forms that prevent invalid states during development with minimal configuration.
 * [ngx-form-rules ![GitHub Repo Stars](https://img.shields.io/github/stars/bulbul5391/ngx-form-rules) ![GitHub last commit](https://img.shields.io/github/last-commit/bulbul5391/ngx-form-rules)](https://github.com/bulbul5391/ngx-form-rules) - A lightweight Angular library that makes it easy to enable, disable, and control reactive form fields using simple, declarative rules.
+* [ngx-reactive-forms-utils ![GitHub Repo Stars](https://img.shields.io/github/stars/pjlamb12/ngx-reactive-forms-utils) ![GitHub last commit](https://img.shields.io/github/last-commit/pjlamb12/ngx-reactive-forms-utils)](https://github.com/pjlamb12/ngx-reactive-forms-utils) - Utilities to assist in the use of reactive Angular forms.
 
 ### Form Controls
 
