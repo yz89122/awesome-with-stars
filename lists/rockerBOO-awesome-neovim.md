@@ -376,6 +376,7 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 - [Myzel394/easytables.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/Myzel394/easytables.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/Myzel394/easytables.nvim)](https://github.com/Myzel394/easytables.nvim) - Easily insert and edit Markdown tables with a live preview and useful helpers.
 - [tttol/md-outline.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/tttol/md-outline.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/tttol/md-outline.nvim)](https://github.com/tttol/md-outline.nvim) - Automatically displays an outline for Markdown files.
 - [rogue-87/inlyne.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/rogue-87/inlyne.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/rogue-87/inlyne.nvim)](https://github.com/rogue-87/inlyne.nvim) - Wrapper for [inlyne ![GitHub Repo Stars](https://img.shields.io/github/stars/Inlyne-Project/inlyne) ![GitHub last commit](https://img.shields.io/github/last-commit/Inlyne-Project/inlyne)](https://github.com/Inlyne-Project/inlyne) Markdown viewer.
+- [Prgebish/sigil.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/Prgebish/sigil.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/Prgebish/sigil.nvim)](https://github.com/Prgebish/sigil.nvim) - Implementation of Emacs' `prettify-symbols-mode` to visually replace text patterns with Unicode symbols while editing LaTeX and Typst files.
 
 ### PHP
 
@@ -591,6 +592,7 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 
 ## Buffers
 
+- [TheLazyCat00/workspaces-nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/TheLazyCat00/workspaces-nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/TheLazyCat00/workspaces-nvim)](https://github.com/TheLazyCat00/workspaces-nvim) - Pin files to specific keys within a project workspace, giving you quick access to your most important files.
 - [dzfrias/arena.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/dzfrias/arena.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/dzfrias/arena.nvim)](https://github.com/dzfrias/arena.nvim) - A smart (frecency-based) buffer switcher.
 - [backdround/tabscope.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/backdround/tabscope.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/backdround/tabscope.nvim)](https://github.com/backdround/tabscope.nvim) - Make tab-local buffers.
 - [j-morano/buffer_manager.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/j-morano/buffer_manager.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/j-morano/buffer_manager.nvim)](https://github.com/j-morano/buffer_manager.nvim) - Add one or more buffers, reorder them, save them inside a file or just delete them very easily from a small floating window.
@@ -1043,6 +1045,7 @@ then it is not supported:
 
 ## Terminal Integration
 
+- [TheLazyCat00/runner-nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/TheLazyCat00/runner-nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/TheLazyCat00/runner-nvim)](https://github.com/TheLazyCat00/runner-nvim) - Run commands in a floating terminal and keep track of the last command executed per CWD, making it easy to repeat build or test commands.
 - [LuxVim/nvim-luxterm ![GitHub Repo Stars](https://img.shields.io/github/stars/LuxVim/nvim-luxterm) ![GitHub last commit](https://img.shields.io/github/last-commit/LuxVim/nvim-luxterm)](https://github.com/LuxVim/nvim-luxterm) - A floating-window terminal session manager, offering elegant multi-terminal organization, live previews, and intuitive navigation with modern UI design. Manage, switch, and customize multiple terminals effortlessly.
 - [waiting-for-dev/ergoterm.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/waiting-for-dev/ergoterm.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/waiting-for-dev/ergoterm.nvim)](https://github.com/waiting-for-dev/ergoterm.nvim) - Seamless terminal workflow integration with smart picker-based terminal selection, flexible text sending and persistent configuration.
 - [ingur/floatty.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/ingur/floatty.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/ingur/floatty.nvim)](https://github.com/ingur/floatty.nvim) - A tiny (<200 LOC) but highly customizable floating terminal manager.
@@ -1226,6 +1229,7 @@ then it is not supported:
 
 ## Git
 
+- [YouSame2/inlinediff-nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/YouSame2/inlinediff-nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/YouSame2/inlinediff-nvim)](https://github.com/YouSame2/inlinediff-nvim) - Provides a better inline Git diff view, meant to be used alongside your favorite Git plugin (e.g. `gitsigns`).
 - [mrloop/telescope-git-branch.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/mrloop/telescope-git-branch.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/mrloop/telescope-git-branch.nvim)](https://github.com/mrloop/telescope-git-branch.nvim) - A telescope picker to find which files and preview what changes have been made to your Git branch across multiple commits.
 - [f-person/git-blame.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/f-person/git-blame.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/f-person/git-blame.nvim)](https://github.com/f-person/git-blame.nvim) - Show Git blame info.
 - [trevorhauter/gitportal.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/trevorhauter/gitportal.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/trevorhauter/gitportal.nvim)](https://github.com/trevorhauter/gitportal.nvim) - Generate Git permalinks, open them in your browser, load files locally from permalinks, and more.
