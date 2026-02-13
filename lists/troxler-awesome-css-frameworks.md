@@ -361,13 +361,6 @@ We are keeping them here for reference/inspiration and hope for a revival.
   [Repo ![GitHub Repo Stars](https://img.shields.io/github/stars/responsivebp/responsive) ![GitHub last commit](https://img.shields.io/github/last-commit/responsivebp/responsive)](https://github.com/responsivebp/responsive)
   | #SCSS
 
-- [**turretcss**](https://turretcss.com) - Responsive front-end framework for accessible and semantic websites.  
-  ![](https://img.shields.io/github/stars/turretcss/turretcss.svg?style=social&label=Star)
-  [Demo](https://turretcss.com/demo/),
-  [Docs](https://turretcss.com/getting-started/),
-  [Repo ![GitHub Repo Stars](https://img.shields.io/github/stars/turretcss/turretcss) ![GitHub last commit](https://img.shields.io/github/last-commit/turretcss/turretcss)](https://github.com/turretcss/turretcss)
-  | #CSS
-
 - [**Centurion**](https://www.centurionframework.com) - Web-based framework for rapid prototyping and building larger web projects.  
   ![](https://img.shields.io/github/stars/justinhough/Centurion.svg?style=social&label=Star)
   [Docs ![GitHub Repo Stars](https://img.shields.io/github/stars/justinhough/Centurion) ![GitHub last commit](https://img.shields.io/github/last-commit/justinhough/Centurion)](https://github.com/justinhough/Centurion/blob/master/DOCUMENTATION.md),
