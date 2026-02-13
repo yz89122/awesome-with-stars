@@ -22,7 +22,7 @@ A curated list of awesome QR code libraries, software and resources.
 
 ### Readers
 
-- [Web App ![GitHub Repo Stars](https://img.shields.io/github/stars/code-kotis/qr-code-scanner) ![GitHub last commit](https://img.shields.io/github/last-commit/code-kotis/qr-code-scanner)](https://github.com/code-kotis/qr-code-scanner) - A progressive web application to scan QR codes.
+- [Web App ![GitHub Repo Stars](https://img.shields.io/github/stars/gokulkrishh/qrcodescan.in) ![GitHub last commit](https://img.shields.io/github/last-commit/gokulkrishh/qrcodescan.in)](https://github.com/gokulkrishh/qrcodescan.in) - A progressive web application to scan QR codes.
 
 ### File Transfer
 
