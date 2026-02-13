@@ -1,14 +1,12 @@
 <div align="center">
   <a href="https://awesome-cl.com" target="_blank">
-    <img src="https://i.imgur.com/jLVXhpc.png">
+    <img src="https://raw.githubusercontent.com/CodyReichert/awesome-cl/refs/heads/master/alien.png">
   </a>
 </div>
 
 # Awesome Common Lisp [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Assertible status](https://assertible.com/apis/102e334d-f9a8-4565-9353-7572de775cae/status?api_token=8b55a286830323effb)](https://assertible.com/docs/guide/deployments)
 
 A curated list of _awesome_ Common Lisp libraries.
-
-For awesome *software*, see [lisp-lang.org's success stories](http://lisp-lang.org/success/) and the [awesome-cl-software ![GitHub Repo Stars](https://img.shields.io/github/stars/azzamsa/awesome-cl-software) ![GitHub last commit](https://img.shields.io/github/last-commit/azzamsa/awesome-cl-software)](https://github.com/azzamsa/awesome-cl-software) list.
 
 All libraries listed here are available from [Quicklisp][16] unless
 stated otherwise. The ones marked with a ⭐ are so widespread and
@@ -20,13 +18,23 @@ a problem better than a community standard but they aren't as
 widespread, or not considered as stable. For example, we prefer
 Spinneret over Cl-Who.
 
+---
+
+For a list of *software*, see the [lisp-screenshots.org](https://www.lisp-screenshots.org/) gallery and the
+[awesome-cl-software ![GitHub Repo Stars](https://img.shields.io/github/stars/azzamsa/awesome-cl-software) ![GitHub last commit](https://img.shields.io/github/last-commit/azzamsa/awesome-cl-software)](https://github.com/azzamsa/awesome-cl-software) list.
+
+For examples of *companies* using CL in production, see [lisp-lang.org's success stories](http://lisp-lang.org/success/),
+the [awesome-lisp-companies ![GitHub Repo Stars](https://img.shields.io/github/stars/azzamsa/awesome-lisp-companies) ![GitHub last commit](https://img.shields.io/github/last-commit/azzamsa/awesome-lisp-companies)](https://github.com/azzamsa/awesome-lisp-companies/) list,
+but also [LispWorks' success stories](https://www.lispworks.com/success-stories/index.html)
+and [Allegro's success stories](https://franz.com/success/).
+
+---
+
 Add something new! See the [contributing](#contributing) section for adding something to the
 list.
 
 This is released under the GNU Free Documentation License - its text
-is provided in the LICENSE file. This repository is also mirrored on
-[NotABug](https://notabug.org/CodyReichert/awesome-cl) - a **fully-free** (as in libre)
-alternative to Github.  Preference is given to [free software][13] and
+is provided in the LICENSE file. Preference is given to [free software][13] and
 sellers who aren't evil for physical resources.
 
 <!-- markdown-toc start - Don't edit this section. Run M-x markdown-toc-refresh-toc -->
@@ -107,6 +115,7 @@ sellers who aren't evil for physical resources.
   - [Advanced](#advanced-1)
   - [Other books](#other-books)
   - [Community](#community)
+  - [Showcase](#showcase)
 - [Library Manager](#library-manager)
   - [Interfaces to other package managers](#interfaces-to-other-package-managers)
 - [Network and Internet](#network-and-internet)
@@ -1214,7 +1223,6 @@ Community
 * [/r/Common_Lisp](https://www.reddit.com/r/Common_Lisp/) - subreddit about Common Lisp
 * [/r/learnlisp](https://www.reddit.com/r/learnlisp/) - a subreddit to ask questions and get help about Lisp
 * [common-lisp.net](https://common-lisp.net)
-* [lisp-lang.org](https://lisp-lang.org/)
 * [Lisp Discord Server](https://discord.gg/hhk46CE)
 * [#commonlisp](https://irclog.tymoon.eu/libera/%23commonlisp) on Libera Chat - main Common Lisp IRC channel.
 * [#lisp](https://irclog.tymoon.eu/libera/%23lisp) on Libera Chat - IRC channel for all Lisp dialects.
@@ -1223,6 +1231,14 @@ Community
 * [Planet Lisp](http://planet.lisp.org/) - A meta blog that collects the contents of various Lisp-related blogs.
 * [Common Lisp chat](https://chat.hexstreamsoft.com/) - Keybase team with well-defined rules and retention policies.
 * [Lisp Jabber/XMPP channel](https://xmpp.link/#lisp@conference.a3.pm?join)
+
+Showcase
+--------
+
+* [lisp-lang.org](https://lisp-lang.org/)
+* 🔥 [lisp-screenshots.org](https://www.lisp-screenshots.org/)
+* [awesome-lisp-companies ![GitHub Repo Stars](https://img.shields.io/github/stars/azzamsa/awesome-lisp-companies) ![GitHub last commit](https://img.shields.io/github/last-commit/azzamsa/awesome-lisp-companies)](https://github.com/azzamsa/awesome-lisp-companies/)
+* [cl-software ![GitHub Repo Stars](https://img.shields.io/github/stars/azzamsa/awesome-cl-software) ![GitHub last commit](https://img.shields.io/github/last-commit/azzamsa/awesome-cl-software)](https://github.com/azzamsa/awesome-cl-software)
 
 Library Manager
 ===============
