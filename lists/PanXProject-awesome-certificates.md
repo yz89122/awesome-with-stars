@@ -205,7 +205,7 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 | <a href="https://www.life-global.org/course/17-starting-a-small-business" target="_blank" rel="noopener noreferrer"> Starting a Small Business </a> | HP / Life Global | Beginner | 0.5 | 🏆 |
 | <a href="https://www.life-global.org/course/28-selling-online" target="_blank" rel="noopener noreferrer"> Selling Online </a> | HP / Life Global | Beginner | 0.5 | 🏆 |
 | <a href="https://www.life-global.org/course/318-social-entrepreneurship" target="_blank" rel="noopener noreferrer"> Social Entrepreneurship </a> | HP / Life Global | Beginner | 0.5 | 🏆 |
-| <a href="https://www.life-global.org/course/19-growth-engine-for-your-business" target="_blank" rel="noopener noreferrer"> Growth Engine for Your Business </a> | HP / Life Global | Beginner | 0.5 | 🏆 |
+| <a href="https://www.life-global.org/course/19-growth-engine-for-your-business" target="_blank" rel="noopener noreferrer"> Growth Engine for Your Business </a> | HP / Life Global | Beginner | 0.5 | ���� |
 
 <a href="https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents" target="_blank" rel="noopener noreferrer">⬆️</a>
 
@@ -536,7 +536,7 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 | <a href="https://cognitiveclass.ai/courses/using-r-with-databases/" target="_blank" rel="noopener noreferrer">Using R with Databases</a> | IBM / Cognitive Class |Beginner|3 | <a href="https://www.youracclaim.com/org/ibm/badge/using-r-with-databases" target="_blank" rel="noopener noreferrer">🏅</a>|
 | <a href="https://www.hackerrank.com/skills-verification/r_basic" target="_blank" rel="noopener noreferrer">R</a> | HackerRank |Beginner| 1.5 | 🏆|
 
-<a href="https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents" target="_blank" rel="noopener noreferrer">���️</a>
+<a href="https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents" target="_blank" rel="noopener noreferrer">⬆️</a>
 
 ## Robotics and IoT
 
