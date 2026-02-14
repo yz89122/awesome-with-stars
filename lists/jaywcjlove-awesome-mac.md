@@ -572,6 +572,7 @@ Any comments, suggestions? [Let us know! ![GitHub Repo Stars](https://img.shield
 ## Terminal Apps
 
 * [alacritty ![GitHub Repo Stars](https://img.shields.io/github/stars/jwilm/alacritty) ![GitHub last commit](https://img.shields.io/github/last-commit/jwilm/alacritty)](https://github.com/jwilm/alacritty) - A cross-platform, GPU-accelerated terminal emulator. [![Open-Source Software][OSS Icon]](https://github.com/jwilm/alacritty) ![Freeware][Freeware Icon]
+* [Command Book](https://commandbookapp.com) - A terminal companion for long-running terminal commands (freemium)
 * [electerm](https://electerm.github.io/electerm/) - A free, multi-platform Terminal and SSH/SFTP tool with a beautiful interface that is the perfect alternative to XShell for Windows! [![Open-Source Software][OSS Icon]](https://github.com/electerm/electerm) ![Freeware][Freeware Icon]
 * [Ghostty ![GitHub Repo Stars](https://img.shields.io/github/stars/ghostty-org/ghostty) ![GitHub last commit](https://img.shields.io/github/last-commit/ghostty-org/ghostty)](https://github.com/ghostty-org/ghostty) - A fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. [![Open-Source Software][OSS Icon]](https://github.com/ghostty-org/ghostty) ![Freeware][Freeware Icon]
 * [hyper](https://hyper.is) - A terminal built on web technologies. [![Open-Source Software][OSS Icon]](https://github.com/zeit/hyper) ![Freeware][Freeware Icon]
