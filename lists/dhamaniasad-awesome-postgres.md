@@ -320,6 +320,8 @@ for `EXPLAIN`, that also provides performance tips (Commercial Software).
 * [Zalando Operator ![GitHub Repo Stars](https://img.shields.io/github/stars/zalando/postgres-operator) ![GitHub last commit](https://img.shields.io/github/last-commit/zalando/postgres-operator)](https://github.com/zalando/postgres-operator) - Creates and manages PostgreSQL clusters running in Kubernetes.
 * [CloudNativePG operator ![GitHub Repo Stars](https://img.shields.io/github/stars/cloudnative-pg/cloudnative-pg) ![GitHub last commit](https://img.shields.io/github/last-commit/cloudnative-pg/cloudnative-pg)](https://github.com/cloudnative-pg/cloudnative-pg) - A comprehensive platform designed to seamlessly manage PostgreSQL databases within Kubernetes environments.
 * [KubeDB operator](https://kubedb.com/) - Run Production-Grade Databases on Kubernetes (Commercial Software).
+* [Percona PostgreSQL Operator ![GitHub Repo Stars](https://img.shields.io/github/stars/percona/percona-postgresql-operator) ![GitHub last commit](https://img.shields.io/github/last-commit/percona/percona-postgresql-operator)](https://github.com/percona/percona-postgresql-operator) - Percona Operator for PostgreSQL based on Crunchy Data operator.
+* [Percona Everest Operator ![GitHub Repo Stars](https://img.shields.io/github/stars/percona/everest-operator) ![GitHub last commit](https://img.shields.io/github/last-commit/percona/everest-operator)](https://github.com/percona/everest-operator) - Everest Operator is a Kubernetes Operator responsible for managing the lifecycle of MySQL, MongoDB, and PostgreSQL databases. It leverages Percona's Kubernetes Operators for MySQL, MongoDB, and PostgreSQL under the hood but provides a unified API and a single pane of glass for managing all three database types.
 
 ## Resources
 
@@ -347,7 +349,7 @@ for `EXPLAIN`, that also provides performance tips (Commercial Software).
 * [select * from depesz;](https://www.depesz.com/tag/postgresql/) - Hubert Lubaczewski's blog.
 * [Metis Blog](https://www.metisdata.io/blog) - Set of posts on PostgreSQL, SQL databases, performance, and tuning.
 * [Digoal's PostgreSQL and Technical blog(Chinese Language) ![GitHub Repo Stars](https://img.shields.io/github/stars/digoal/blog) ![GitHub last commit](https://img.shields.io/github/last-commit/digoal/blog)](https://github.com/digoal/blog/blob/master/README.md) 
-
+* [Pigsty blog / PostgreSQL](https://pigsty.io/blog/pg/) - Blog by the author of PIGSTY with insightful articles on PostgreSQL (as well as databases and cloud infrastructure).
 
 ### Books
 * [PostgreSQL Mistakes and How to Avoid Them](https://www.manning.com/books/postgresql-mistakes-and-how-to-avoid-them)
