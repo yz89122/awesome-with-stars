@@ -425,7 +425,7 @@ Measuring success, understanding data, and making data-driven product decisions.
 
 - [How to Calculate Customer Lifetime Value](https://blog.hubspot.com/service/how-to-calculate-customer-lifetime-value) - By [Clint Fontanella](https://www.pedaling4pups.com/).
 - [Analytics should be an Assembly Line](https://tayloramurphy.substack.com/p/analytics-should-be-an-assembly-line) - By [Taylor A. Murphy](https://substack.com/@tayloramurphy).
-- [SSEBITDA���A steady-state profit metric for SaaS companies](https://longform.asmartbear.com/ssebitda/) - By [Jason Cohen](https://www.linkedin.com/in/jasoncohen).
+- [SSEBITDA—A steady-state profit metric for SaaS companies](https://longform.asmartbear.com/ssebitda/) - By [Jason Cohen](https://www.linkedin.com/in/jasoncohen).
 - [In-depth: The AARRR pirate funnel explained](https://posthog.com/product-engineers/aarrr-pirate-funnel) - By [PostHog](https://posthog.com).
 
 ### Career Development & Skills
