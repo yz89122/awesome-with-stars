@@ -72,7 +72,7 @@ This intense linguistic thriller will change the way you think about language. -
   > Babel-17 is all about the power of language. Humanity, which has spread throughout the universe, is involved in a war with the Invaders, who have been covertly assassinating officials and sabotaging spaceships. The only clues humanity has to go on are strange alien messages that have been intercepted in space. Poet and linguist Rydra Wong is determined to understand the language and stop the alien threat.
 </details>
 
-#### [Barsoom series](https://www.goodreads.com/series/43942-barsoom) (1912-1927) _by [Edgar Rice Burroughs](https://en.wikipedia.org/wiki/Edgar_Rice_Burroughs)_ [3.8] ���
+#### [Barsoom series](https://www.goodreads.com/series/43942-barsoom) (1912-1927) _by [Edgar Rice Burroughs](https://en.wikipedia.org/wiki/Edgar_Rice_Burroughs)_ [3.8] 🌟
 
 Now more than a century old, has that unique writing style you can only find in adventure classics. - [@uraimo](https://github.com/uraimo)
 
@@ -183,7 +183,7 @@ I think what is most fascinating about Dune isn't that it is so commonly read, b
   > Published in 1965, it won the Hugo Award in 1966 and the inaugural Nebula Award for Best Novel. _Dune_ is frequently cited as the world’s best-selling SF novel.
 </details>
 
-#### [Embassytown](https://www.goodreads.com/book/show/9265453-embassytown) (2011) _by [China Mi��ville](https://en.wikipedia.org/wiki/China_Mi%C3%A9ville)_ [3.8]
+#### [Embassytown](https://www.goodreads.com/book/show/9265453-embassytown) (2011) _by [China Miéville](https://en.wikipedia.org/wiki/China_Mi%C3%A9ville)_ [3.8]
 
 <details>
   <summary>Description</summary>
