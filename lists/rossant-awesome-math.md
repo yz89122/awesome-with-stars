@@ -373,7 +373,7 @@ All resources are freely available except those with a 💲 icon.
 
 * 📝 [Basic Combinatorics](http://web.math.utk.edu/~wagner/papers/comb.pdf) - Carl G. Wagner (University of Tennessee)
 * 📝 [Applied Combinatorics](http://people.math.gatech.edu/~trotter/book.pdf) - Mitchel T. Keller, William T. Trotter
-* 📝 [Notes on Combinatorics](http://www.maths.qmul.ac.uk/~pjc/notes/comb.pdf) - Peter J. Cameron
+* ���� [Notes on Combinatorics](http://www.maths.qmul.ac.uk/~pjc/notes/comb.pdf) - Peter J. Cameron
 * 📝 [Analytic Combinatorics](http://algo.inria.fr/flajolet/Publications/book.pdf) - Philippe Flajolet, Robert Sedgewick
 * 📝 [generatingfunctionology](http://www.math.upenn.edu/~wilf/DownldGF.html) - Herbert Wilf
 
@@ -453,7 +453,7 @@ All resources are freely available except those with a 💲 icon.
 * 📝 [MIT OpenCourseWare Lectures on Calculus](https://ocw.mit.edu/resources/res-18-001-calculus-online-textbook-spring-2005/textbook/) - G. Strang
 * 📝 [Elementary Calculus: An Approach Using Infinitesimals](http://www.math.wisc.edu/~keisler/calc.html) - Professor H. Jerome Keisler
 * 📝 [An Introduction to Real Analysis](https://www.math.ucdavis.edu/~hunter/intro_analysis_pdf/intro_analysis.pdf) - John K. Hunter (University of California at Davis)
-* ���� [Introduction to Real Analysis](http://ramanujan.math.trinity.edu/wtrench/texts/TRENCH_REAL_ANALYSIS.PDF) - William F. Trench (Trinity University, Texas)
+* 📝 [Introduction to Real Analysis](http://ramanujan.math.trinity.edu/wtrench/texts/TRENCH_REAL_ANALYSIS.PDF) - William F. Trench (Trinity University, Texas)
 * 📝 [Basic Analysis: Introduction to Real Analysis](http://www.jirka.org/ra/realanal.pdf) - Jiří Lebl
 * 📝 [Elementary Real Analysis](http://prac.im.pwr.wroc.pl/~kwasnicki/pl/stuff/tbb-hyper.pdf) - Thomson, Bruckner
 * 📝 [Lecture Notes in Real Analysis](http://ms.mcmaster.ca/~sawyer/Publications/Real_Analysis.pdf) - Eric T. Sawyer (McMaster University)
