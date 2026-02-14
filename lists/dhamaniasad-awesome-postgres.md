@@ -50,6 +50,7 @@
 * [SkyTools ![GitHub Repo Stars](https://img.shields.io/github/stars/pgq/skytools-legacy) ![GitHub last commit](https://img.shields.io/github/last-commit/pgq/skytools-legacy)](https://github.com/pgq/skytools-legacy) - Replication tools, including PgQ, a queuing system, and Londiste, a replication system a bit simpler to manage than Slony.
 * [pg_auto_failover ![GitHub Repo Stars](https://img.shields.io/github/stars/citusdata/pg_auto_failover) ![GitHub last commit](https://img.shields.io/github/last-commit/citusdata/pg_auto_failover)](https://github.com/citusdata/pg_auto_failover) - Postgres extension and service for automated failover and high-availability.
 * [pgrwl ![GitHub Repo Stars](https://img.shields.io/github/stars/hashmap-kz/pgrwl) ![GitHub last commit](https://img.shields.io/github/last-commit/hashmap-kz/pgrwl)](https://github.com/hashmap-kz/pgrwl) - Stream write-ahead logs (WAL) from a PostgreSQL server in real time. A drop-in, container-friendly alternative to pg_receivewal.
+* [pg-status ![GitHub Repo Stars](https://img.shields.io/github/stars/krylosov-aa/pg-status) ![GitHub last commit](https://img.shields.io/github/last-commit/krylosov-aa/pg-status)](https://github.com/krylosov-aa/pg-status) - A microservice that provides HTTP endpoints for instantly retrieving the current master host or a replica that meets various criteria.
 
 ### Backups
 * [Barman](https://www.pgbarman.org/index.html) - Backup and Recovery Manager for PostgreSQL by 2ndQuadrant.
@@ -305,6 +306,7 @@ for `EXPLAIN`, that also provides performance tips (Commercial Software).
 * [Neon](https://neon.tech) - Fully managed serverless PostgreSQL. Neon separates storage and compute to offer modern developer features such as serverless, branching, bottomless storage, and more.
 * [Nile](https://www.thenile.dev/) - Fully managed PostgreSQL . Nile decouples storage from compute and virtualizes tenants to ship multi-tenant AI applications fast, safe, and with limitless scale. Free tier provides unlimited databases.
 * [Vela](https://vela.run) - Postgres-based backend-as-a-service built for modern AI apps. Offers instant database branches and clones, production-like test environments, and serverless scaling.
+* [Thalassa Cloud DBaaS](https://thalassa.cloud/products/databases/postgresql/) - Fully managed PostgreSQL database, multi-AZ, automated backups, hosted in the Netherlands.
 
 ### Docker images
 * [citusdata/citus](https://hub.docker.com/r/citusdata/citus/) - Citus official images with citus extensions. Based on the official Postgres container.
