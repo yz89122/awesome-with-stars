@@ -18,6 +18,7 @@ Proud to be featured in [Awesome ![GitHub Repo Stars](https://img.shields.io/git
    - [IDEs](#ides)
    - [SDKs](#sdks)
 - [Emulators](#emulators)
+- [Finance](#finance)
 - [Hardware](#hardware)
 - [Native Software](#native-software)
    - [Apps](#apps)
@@ -78,7 +79,11 @@ Proud to be featured in [Awesome ![GitHub Repo Stars](https://img.shields.io/git
 - [PSPKvm](https://sourceforge.net/projects/pspkvm/) - J2ME emulator for PSP.
 - [SquirrelJME ![GitHub Repo Stars](https://img.shields.io/github/stars/squirreljme/squirreljme) ![GitHub last commit](https://img.shields.io/github/last-commit/squirreljme/squirreljme)](https://github.com/squirreljme/squirreljme) - Java ME 8 Virtual Machine for embedded and Internet of Things devices.
 
+## Finance
 
+- [Glu Mobile 10-K archive](https://www.sec.gov/edgar/search/#/dateRange=all&category=custom&entityName=0001366246&forms=10-K) - Archive of 10-K of Glu Mobile from it's IPO(2007) till acquisition(2021). Includes revenue breakdown by means of distribution and region, management commentary, portfolio of games etc.
+
+- [UPI 123PAY](https://www.npci.org.in/what-we-do/upi-123pay/product-overview) - Official Unified Payment Interface(UPI)payments solution for feature phones by NPCI. Internet not required. Supported only in India.
 
 ## Hardware
 
@@ -96,7 +101,6 @@ Proud to be featured in [Awesome ![GitHub Repo Stars](https://img.shields.io/git
 - [MeBoy](http://arktos.se/meboy) - Supports emulating GBC with sound, color, and save states.
 - [Telegram Micro ![GitHub Repo Stars](https://img.shields.io/github/stars/faissaloo/telegram-micro) ![GitHub last commit](https://img.shields.io/github/last-commit/faissaloo/telegram-micro)](https://github.com/faissaloo/telegram-micro) - Telegram client.
 - [VK4ME ![GitHub Repo Stars](https://img.shields.io/github/stars/VK4ME/client) ![GitHub last commit](https://img.shields.io/github/last-commit/VK4ME/client)](https://github.com/VK4ME/client)  - Unofficial client for Russian social network VK for devices supporting CLDC 1.1 and MIDP 2.0.
-- [UPI 123PAY](https://www.npci.org.in/what-we-do/upi-123pay/product-overview) - Official Unified Payment Interface(UPI)payments solution for feature phones by NPCI. Internet not required. Supported only in India.
 - [Opera FTP Archive](https://ftp.opera.com/pub/opera) - Official FTP archive of various versions of Opera browser for all supported platforms.
 - [Pocket Gopher ![GitHub Repo Stars](https://img.shields.io/github/stars/felixp7/pocket-gopher) ![GitHub last commit](https://img.shields.io/github/last-commit/felixp7/pocket-gopher)](https://github.com/felixp7/pocket-gopher) - Open source Gopher and Gopher+ client for J2ME.
 
