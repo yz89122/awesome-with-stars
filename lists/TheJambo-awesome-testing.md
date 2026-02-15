@@ -46,6 +46,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 
 ### AI & LLM Testing
 - [promptfoo ![GitHub Repo Stars](https://img.shields.io/github/stars/promptfoo/promptfoo) ![GitHub last commit](https://img.shields.io/github/last-commit/promptfoo/promptfoo)](https://github.com/promptfoo/promptfoo) - Open-source framework for testing and red teaming LLM applications. Compare prompts, test RAG architectures, run multi-turn adversarial attacks, and catch security vulnerabilities with CI/CD integration.
+- [voicetest ![GitHub Repo Stars](https://img.shields.io/github/stars/voicetestdev/voicetest) ![GitHub last commit](https://img.shields.io/github/last-commit/voicetestdev/voicetest)](https://github.com/voicetestdev/voicetest) - Open-source test harness for voice AI agents supporting Retell, VAPI, LiveKit, and Bland with autonomous simulations and LLM-based evaluation.
 
 ### Service Virtualization
 - [Beeceptor](https://beeceptor.com/) - Easy to use no-code mock servers for service virtualization. Rest, SOAP, GraphQL supported. Create an API mock server from OpenAPI Specification or Postman collection.
@@ -66,6 +67,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Courgette](https://courgette-testing.com) - Declarative BDD UI testing with Gherkin.
 - [DeviceLab](https://devicelab.dev) - Private device lab infrastructure for mobile testing. Connect your own iOS/Android devices and run Appium, Maestro, or XCUITest remotely via WebRTC. Zero-trust architecture keeps test data on your network.
 - [Ferrum ![GitHub Repo Stars](https://img.shields.io/github/stars/rubycdp/ferrum) ![GitHub last commit](https://img.shields.io/github/last-commit/rubycdp/ferrum)](https://github.com/rubycdp/ferrum) - Chrome automation via CDP with a high-level Ruby API.
+- [flutter-skill ![GitHub Repo Stars](https://img.shields.io/github/stars/ai-dashboad/flutter-skill) ![GitHub last commit](https://img.shields.io/github/last-commit/ai-dashboad/flutter-skill)](https://github.com/ai-dashboad/flutter-skill) - AI-powered E2E testing via MCP for Flutter, React Native, iOS, Android, Electron, Tauri, KMP, and .NET MAUI. Zero test code.
 - [Hyperbrowser](https://hyperbrowser.ai) - Scalable headless browser testing with built-in session recording.
 - [Hercules ![GitHub Repo Stars](https://img.shields.io/github/stars/test-zeus-ai/testzeus-hercules) ![GitHub last commit](https://img.shields.io/github/last-commit/test-zeus-ai/testzeus-hercules)](https://github.com/test-zeus-ai/testzeus-hercules) - Open-source end-to-end testing agent.
 - [Keploy](https://keploy.io) – Open-source AI-powered end-to-end testing tool for APIs and microservices that auto-generates test cases and mocks from real traffic.
