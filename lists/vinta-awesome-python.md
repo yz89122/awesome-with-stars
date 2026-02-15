@@ -922,6 +922,7 @@ _Libraries for scientific computing. Also see [Python-for-Scientists ![GitHub Re
 - [NumPy](http://www.numpy.org/) - A fundamental package for scientific computing with Python.
 - [ObsPy ![GitHub Repo Stars](https://img.shields.io/github/stars/obspy/obspy) ![GitHub last commit](https://img.shields.io/github/last-commit/obspy/obspy)](https://github.com/obspy/obspy/wiki/) - A Python toolbox for seismology.
 - [Open Babel](https://open-babel.readthedocs.io/) - A chemical toolbox designed to speak the many languages of chemical data.
+- [PathSim ![GitHub Repo Stars](https://img.shields.io/github/stars/pathsim/pathsim) ![GitHub last commit](https://img.shields.io/github/last-commit/pathsim/pathsim)](https://github.com/pathsim/pathsim) - A block-based system modeling and simulation framework with a browser-based visual editor.
 - [PyDy](http://www.pydy.org/) - Short for Python Dynamics, used to assist with workflow in the modeling of dynamic motion.
 - [PyMC ![GitHub Repo Stars](https://img.shields.io/github/stars/pymc-devs/pymc3) ![GitHub last commit](https://img.shields.io/github/last-commit/pymc-devs/pymc3)](https://github.com/pymc-devs/pymc3) - Markov Chain Monte Carlo sampling toolkit.
 - [QuTiP](http://qutip.org/) - Quantum Toolbox in Python.

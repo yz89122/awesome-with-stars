@@ -45,6 +45,7 @@ This list accepts and encourages pull requests. See [CONTRIBUTING ![GitHub Repo 
 - [pstop ![GitHub Repo Stars](https://img.shields.io/github/stars/sjmudd/ps-top) ![GitHub last commit](https://img.shields.io/github/last-commit/sjmudd/ps-top)](https://github.com/sjmudd/ps-top) - a top-like program for MySQL, collecting, aggregating and displaying information from performance_schema.
 - [Wireshark](https://gitlab.com/wireshark/wireshark/) - a protocol analyzer that can decode the MySQL protocol.
 - [Dolphie ![GitHub Repo Stars](https://img.shields.io/github/stars/charles-001/dolphie) ![GitHub last commit](https://img.shields.io/github/last-commit/charles-001/dolphie)](https://github.com/charles-001/dolphie) - a modern terminal tool for real-time analytics into MySQL/MariaDB & ProxySQL
+- [sql-tap ![GitHub Repo Stars](https://img.shields.io/github/stars/mickamy/sql-tap) ![GitHub last commit](https://img.shields.io/github/last-commit/mickamy/sql-tap)](https://github.com/mickamy/sql-tap) - Real-time SQL traffic viewer.
 
 ## Backup
 
@@ -167,7 +168,6 @@ This list accepts and encourages pull requests. See [CONTRIBUTING ![GitHub Repo 
 
 *Proxies to MySQL*
 
-- [MySQL Proxy ![GitHub Repo Stars](https://img.shields.io/github/stars/mysql/mysql-proxy) ![GitHub last commit](https://img.shields.io/github/last-commit/mysql/mysql-proxy)](https://github.com/mysql/mysql-proxy) (deprecated) - A simple program that sits between your client and MySQL server(s) that can monitor, analyze or transform their communication.
 - [MySQL Router](https://dev.mysql.com/doc/mysql-router/en/) - MySQL Router is part of InnoDB cluster, and is a lightweight middleware that provides transparent routing between your application and back-end MySQL Servers.
 - [ProxySQL ![GitHub Repo Stars](https://img.shields.io/github/stars/sysown/proxysql) ![GitHub last commit](https://img.shields.io/github/last-commit/sysown/proxysql)](https://github.com/sysown/proxysql) - High performance proxy for MySQL.
 
