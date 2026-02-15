@@ -1052,7 +1052,7 @@ It uses the pycodestyle utility to determine what parts of the code needs to be 
 
 - [wily ![GitHub Repo Stars](https://img.shields.io/github/stars/tonybaloney/wily) ![GitHub last commit](https://img.shields.io/github/last-commit/tonybaloney/wily)](https://github.com/tonybaloney/wily) — A command-line tool for archiving, exploring and graphing the complexity of Python source code.
 
-- **xenon** :warning: ��� Monitor code complexity using [`radon` ![GitHub Repo Stars](https://img.shields.io/github/stars/rubik/radon) ![GitHub last commit](https://img.shields.io/github/last-commit/rubik/radon)](https://github.com/rubik/radon).
+- **xenon** :warning: — Monitor code complexity using [`radon` ![GitHub Repo Stars](https://img.shields.io/github/stars/rubik/radon) ![GitHub last commit](https://img.shields.io/github/last-commit/rubik/radon)](https://github.com/rubik/radon).
 
 - **yapf** :warning: — A formatter for Python files created by Google
 YAPF follows a distinctive methodology, originating from the 'clang-format' tool created by Daniel Jasper. Essentially, the program reframes the code to the most suitable formatting that abides by the style guide, even if the original code already follows the style guide. This concept is similar to the Go programming language's 'gofmt' tool, which aims to put an end to debates about formatting by having the entire codebase of a project pass through YAPF whenever changes are made, thereby maintaining a consistent style throughout the project and eliminating the need to argue about style in every code review.
