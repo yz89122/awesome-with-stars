@@ -276,7 +276,7 @@ The reality is, most users never use even 80% of these features. `rac` is delibe
 ![GitHub last commit](https://img.shields.io/github/last-commit/gotokazuki/rat-zsh)
   ![GitHub Repo stars](https://img.shields.io/github/stars/gotokazuki/rat-zsh)
 
-A lightweight, fast, and reproducible plugin manager for ZSH. Made with 🐭 & 🦀 ��� no magic, no heavy frameworks.
+A lightweight, fast, and reproducible plugin manager for ZSH. Made with 🐭 & 🦀 — no magic, no heavy frameworks.
 
 Features 🐭✨
 
