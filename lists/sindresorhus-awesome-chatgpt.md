@@ -236,6 +236,7 @@
 - [DuckDuckGPT ![GitHub Repo Stars](https://img.shields.io/github/stars/kudoai/duckduckgpt) ![GitHub last commit](https://img.shields.io/github/last-commit/kudoai/duckduckgpt)](https://github.com/kudoai/duckduckgpt) - DuckDuckGo bot.
 - [BraveGPT ![GitHub Repo Stars](https://img.shields.io/github/stars/kudoai/bravegpt) ![GitHub last commit](https://img.shields.io/github/last-commit/kudoai/bravegpt)](https://github.com/kudoai/bravegpt) - Brave Search bot.
 - [GoogleGPT](https://www.googlegpt.io) - Google Search bot.
+- [OpenClaw ![GitHub Repo Stars](https://img.shields.io/github/stars/openclaw/openclaw) ![GitHub last commit](https://img.shields.io/github/last-commit/openclaw/openclaw)](https://github.com/openclaw/openclaw) - Self-hosted multi-channel bot bridging Claude to WhatsApp, Telegram, Discord, Slack, and more.
 
 ## Integrations
 
