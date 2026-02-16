@@ -9984,7 +9984,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-- [baRSS �� Menu Bar RSS Reader ![GitHub Repo Stars](https://img.shields.io/github/stars/relikd/barss) ![GitHub last commit](https://img.shields.io/github/last-commit/relikd/barss)](https://github.com/relikd/barss) - RSS & Atom feed reader that lives in the system status bar.
+- [baRSS – Menu Bar RSS Reader ![GitHub Repo Stars](https://img.shields.io/github/stars/relikd/barss) ![GitHub last commit](https://img.shields.io/github/last-commit/relikd/barss)](https://github.com/relikd/barss) - RSS & Atom feed reader that lives in the system status bar.
 
   <details>
   <summary>More</summary>
