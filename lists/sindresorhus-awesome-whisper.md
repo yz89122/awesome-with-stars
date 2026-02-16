@@ -83,6 +83,7 @@
 - [bigWav](https://bigwav.app) - Audio transcription and annotation tool.
 - [Free Podcast Transcription](https://freepodcasttranscription.com) - Runs locally in your browser.
 - [Gladia](https://www.gladia.io) - Transcription with real-time processing.
+- [Whisper-Web ![GitHub Repo Stars](https://img.shields.io/github/stars/PierreMesure/whisper-web) ![GitHub last commit](https://img.shields.io/github/last-commit/PierreMesure/whisper-web)](https://github.com/PierreMesure/whisper-web) - Local transcription using WebGPU, with optimised fine-tuned models for several languages. (FOSS)
 
 ### Self-hosted
 
