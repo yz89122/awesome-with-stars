@@ -336,7 +336,8 @@ Additional lists you might find useful:
 *Software and tools for creating a sandboxed development environment.*
 
 - [CakePHP Docker ![GitHub Repo Stars](https://img.shields.io/github/stars/cnizzardini/cakephp-docker) ![GitHub last commit](https://img.shields.io/github/last-commit/cnizzardini/cakephp-docker)](https://github.com/cnizzardini/cakephp-docker) - A cakephp/app template for docker.
-- [CakePHP Vagrant Setup ![GitHub Repo Stars](https://img.shields.io/github/stars/cpierce/cakephp-vagrant-setup) ![GitHub last commit](https://img.shields.io/github/last-commit/cpierce/cakephp-vagrant-setup)](https://github.com/cpierce/cakephp-vagrant-setup) - Tool for spinning up multiple CakePHP vanilla dev environments.
+- [CakePHP Vagrant Setup ![GitHub Repo Stars](https://img.shields.io/github/stars/cpierce/cakephp-vagrant-setup) ![GitHub last commit](https://img.shields.io/github/last-commit/cpierce/cakephp-vagrant-setup)](https://github.com/cpierce/cakephp-vagrant-setup) - Tool for spinning up multiple CakePHP vanilla dev environments using Vagrant.
+- [CakePHP Docker Setup ![GitHub Repo Stars](https://img.shields.io/github/stars/cpierce/cakephp-docker-setup) ![GitHub last commit](https://img.shields.io/github/last-commit/cpierce/cakephp-docker-setup)](https://github.com/cpierce/cakephp-docker-setup) - Tool for spinning up multiple CakePHP vanilla dev environments using Docker.
 - [DDEV](https://ddev.readthedocs.io/en/stable/) - Docker based local env.
 - [Devilbox](https://devilbox.readthedocs.io/en/latest/) - A docker development environment for (CakePHP) apps to be auto-setup including a lot of tools.
 - [Docker ![GitHub Repo Stars](https://img.shields.io/github/stars/stefanvangastel/docker-cakephp) ![GitHub last commit](https://img.shields.io/github/last-commit/stefanvangastel/docker-cakephp)](https://github.com/stefanvangastel/docker-cakephp) - CakePHP in a docker container environment.

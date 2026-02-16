@@ -1965,9 +1965,6 @@ Starter kits:
   * *warm: Portacle is now un-maintained and ships an old Emacs.*
 * [IDEmacs](https://codeberg.org/IDEmacs/IDEmacs) is an attempt at making Emacs beginner friendly.
     * it ships Sly for Common Lisp. With Emacs v29 or higher, you can try IDEmacs temporarily without messing with your .emacs configuration, thanks to the new `--init-directory` option.
-* [Varhammer ![GitHub Repo Stars](https://img.shields.io/github/stars/varhammer/varhammer) ![GitHub last commit](https://img.shields.io/github/last-commit/varhammer/varhammer)](https://github.com/varhammer/varhammer) -  Portable Common Lisp IDE for Windows (Emacs + SBCL + SLIME). New in 2025.
-  * Emacs 30.2 + SBCL 2.6.0 + SLIME 2.32 + Quicklisp as of January, 2026.
-  * fully offline, USB ready, no installation required.
 
 Slime extensions:
 
