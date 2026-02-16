@@ -1,4 +1,4 @@
-[<img src="https://github.com/notpresident35/awesome-learn-gamedev/raw/main/images/MainIcon.png" align="right" width="128">](https://en.wikipedia.org/wiki/Easter_egg_(media))
+[<img src="https://github.com/notpresident35/awesome-learn-gamedev/raw/master/images/MainIcon.png" align="right" width="128">](https://en.wikipedia.org/wiki/Easter_egg_(media))
 
 # Awesome Learn Gamedev [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
@@ -40,7 +40,7 @@
 <br />
 
 
-![An illustration of a cream-and-orange calico cat that Hazel uses as her profile icon :3](https://github.com/notpresident35/awesome-learn-gamedev/raw/main/images/KittyIcon.png 'Check out my portfolio below!')
+![An illustration of a cream-and-orange calico cat that Hazel uses as her profile icon :3](https://github.com/notpresident35/awesome-learn-gamedev/raw/master/images/KittyIcon.png 'Check out my portfolio below!')
 
 
 ### 💜 Curated by <ins>[Hazel Kennedy](https://linktr.ee/dawdledoodles)</ins> 💜
@@ -869,7 +869,7 @@ Royalty free music! Don't forget to check the license.
 [The Reverse Interview ![GitHub Repo Stars](https://img.shields.io/github/stars/viraptor/reverse-interview) ![GitHub last commit](https://img.shields.io/github/last-commit/viraptor/reverse-interview)](https://github.com/viraptor/reverse-interview) - Another list for you to ask a potential employer (created for non-games tech, but most questions apply to games, and some apply to all disciplines).
 
 
-[Guide to Game Art Applications](https://www.artstation.com/blogs/kierangoodson/mY0N/guide-to-game-art-applications-portfolios-and-job-postings) ��� - A guide to game art portfolios and job hunting.
+[Guide to Game Art Applications](https://www.artstation.com/blogs/kierangoodson/mY0N/guide-to-game-art-applications-portfolios-and-job-postings) 🟪 - A guide to game art portfolios and job hunting.
 
 
 [The Bible of Getting a Job in Game Audio](https://docs.google.com/document/d/1sAd8xOdngsdLJqKfcOnyL8xRhPi3Uitys6fEXU9O2X0/edit) 🟪 - A massive collection of career resources for game audio.
@@ -947,5 +947,5 @@ Royalty free music! Don't forget to check the license.
 <br />
 <br />
   
-![A cute drawing of Asriel from Undertale reaching for a heart](https://github.com/notpresident35/awesome-learn-gamedev/raw/main/images/Asriel.png 'Thanks for reading!')
+![A cute drawing of Asriel from Undertale reaching for a heart](https://github.com/notpresident35/awesome-learn-gamedev/raw/master/images/Asriel.png 'Thanks for reading!')
 
