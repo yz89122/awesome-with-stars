@@ -858,6 +858,7 @@ _Libraries for starting and communicating with OS processes._
 
 _Libraries for quantum computing._
 
+- [PennyLane ![GitHub Repo Stars](https://img.shields.io/github/stars/PennyLaneAI/pennylane) ![GitHub last commit](https://img.shields.io/github/last-commit/PennyLaneAI/pennylane)](https://github.com/PennyLaneAI/pennylane) — A hybrid quantum-classical machine learning library with automatic differentiation support.
 - [Qiskit ![GitHub Repo Stars](https://img.shields.io/github/stars/Qiskit/qiskit) ![GitHub last commit](https://img.shields.io/github/last-commit/Qiskit/qiskit)](https://github.com/Qiskit/qiskit) — An IBM-backed quantum SDK for building, simulating, and running circuits on real quantum hardware.
 - [QuTiP](http://qutip.org/) - Quantum Toolbox in Python.
 
