@@ -410,7 +410,7 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 | Course Name | Course Provider | Level | Hour(s) | Reward |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
 | <a href="https://learn.unity.com/pathway/unity-essentials" target="_blank" rel="noopener noreferrer">Unity Essentials</a> | Unity | Beginner | 336 | <a href="https://www.credly.com/org/unity/badge/unity-essentials-pathway" target="_blank" rel="noopener noreferrer">🏅</a> |
-| <a href="https://learn.unity.com/pathway/junior-programmer" target="_blank" rel="noopener noreferrer">Junior Programmer</a> | Unity | Beginner | 2000 | <a href="https://www.credly.com/org/unity/badge/unity-junior-programmer" target="_blank" rel="noopener noreferrer">���</a>
+| <a href="https://learn.unity.com/pathway/junior-programmer" target="_blank" rel="noopener noreferrer">Junior Programmer</a> | Unity | Beginner | 2000 | <a href="https://www.credly.com/org/unity/badge/unity-junior-programmer" target="_blank" rel="noopener noreferrer">🏅</a>
 | <a href="https://learn.unity.com/pathway/creative-core" target="_blank" rel="noopener noreferrer">Creative Core</a> | Unity | Beginner | 1680 | <a href="https://www.credly.com/org/unity/badge/unity-creative-core" target="_blank" rel="noopener noreferrer">🏅</a>
 | <a href="https://learn.unity.com/pathway/vr-development" target="_blank" rel="noopener noreferrer">VR Development</a> | Unity | Beginner | 1000 | <a href="https://www.credly.com/org/unity/badge/unity-vr-development" target="_blank" rel="noopener noreferrer">🏅</a>
 | <a href="https://learn.unity.com/pathway/mobile-ar-development" target="_blank" rel="noopener noreferrer">Mobile AR Development</a> | Unity | Beginner | 1344 | <a href="https://www.credly.com/org/unity/badge/unity-mobile-ar-development" target="_blank" rel="noopener noreferrer">🏅</a>
@@ -471,7 +471,7 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 
 | Course Name | Course Provider | Level | Hour(s) | Reward |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
-| <a href="https://www.netacad.com/courses/os-it/ndg-linux-unhatched" target="_blank" rel="noopener noreferrer">NDG Linux Unhatched</a>| Cisco Networking Academy |Beginner| 8 |    ��� |
+| <a href="https://www.netacad.com/courses/os-it/ndg-linux-unhatched" target="_blank" rel="noopener noreferrer">NDG Linux Unhatched</a>| Cisco Networking Academy |Beginner| 8 |    🏆 |
 | <a href="https://www.netacad.com/courses/os-it/ndg-linux-essentials" target="_blank" rel="noopener noreferrer">NDG Linux Essentials</a> | Cisco Networking Academy |Intermediate| 70 |🏆|
 | <a href="https://learn.saylor.org/course/view.php?id=94" target="_blank" rel="noopener noreferrer">CS401: Operating Systems</a> | Saylor Academy |Professional|120 | 🏆|
 
@@ -563,7 +563,7 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 | <a href="https://tryhackme.com/path/outline/pentesting" target="_blank" rel="noopener noreferrer">Offensive Testing</a> | TryHackMe | Intermediate | 47 | 🏆 |
 | <a href="https://tryhackme.com/path/outline/pentestplus" target="_blank" rel="noopener noreferrer">Comptia Pentest+</a> | TryHackMe | Beginner | 51 | 🏆 |
 | <a href="https://tryhackme.com/path/outline/web" target="_blank" rel="noopener noreferrer">Web Fundamentals</a> | TryHackMe | Beginner | 32 | 🏆 |
-| <a href="https://www.isc2.org/certifications/cc" target="_blank" rel="noopener noreferrer">Certified in Cybersecurity</a> | ISC2 | Beginner | 14 | <a href="https://www.credly.com/org/isc2/badge/certified-in-cybersecurity-cc" target="_blank" rel="noopener noreferrer">🏅</a> |
+| <a href="https://www.isc2.org/certifications/cc" target="_blank" rel="noopener noreferrer">Certified in Cybersecurity</a> | ISC2 | Beginner | 14 | <a href="https://www.credly.com/org/isc2/badge/certified-in-cybersecurity-cc" target="_blank" rel="noopener noreferrer">����</a> |
 | <a href="https://training.fortinet.com/local/staticpage/view.php?page=fcf_cybersecurity" target="_blank" rel="noopener noreferrer">Fortinet Certified Fundamentals in Cybersecurity</a> | Fortinet Training Institute | Beginner | 10 | <a href="https://www.credly.com/org/fortinet/badge/fortinet-certified-fundamentals-cybersecurity" target="_blank" rel="noopener noreferrer">🏆</a> |
 | <a href="https://training.fortinet.com/local/staticpage/view.php?page=fca_cybersecurity" target="_blank" rel="noopener noreferrer">Fortinet Certified Associate in Cybersecurity</a> | Fortinet Training Institute | Beginner | 6 | <a href="https://www.credly.com/org/fortinet/badge/fortinet-certified-associate-cybersecurity.1" target="_blank" rel="noopener noreferrer">🏆</a> |
 | <a href="https://www.life-global.org/course/346-introduction-to-cybersecurity-awareness" target="_blank" rel="noopener noreferrer">Introduction to Cybersecurity Awareness</a> | HP / Life Global | Beginner | 0.5 | 🏆 |
