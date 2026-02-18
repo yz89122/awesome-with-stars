@@ -49,7 +49,7 @@ them.
   (Python, mostly BSD, [GitHub ![GitHub Repo Stars](https://img.shields.io/github/stars/scipy/scipy) ![GitHub last commit](https://img.shields.io/github/last-commit/scipy/scipy)](https://github.com/scipy/scipy/))
 - [NumPy](https://numpy.org/) - Fundamental package needed for scientific computing with Python.
   (Python, BSD, [GitHub ![GitHub Repo Stars](https://img.shields.io/github/stars/numpy/numpy) ![GitHub last commit](https://img.shields.io/github/last-commit/numpy/numpy)](https://github.com/numpy/numpy))
-- [DifferentialEquations.jl](https://diffeq.sciml.ai/) - Toolbox for solving different types of differential equations numerically. (Julia, MIT, [GitHub ![GitHub Repo Stars](https://img.shields.io/github/stars/SciML/DifferentialEquations.jl) ![GitHub last commit](https://img.shields.io/github/last-commit/SciML/DifferentialEquations.jl)](https://github.com/SciML/DifferentialEquations.jl))
+- [DifferentialEquations.jl](https://docs.sciml.ai/DiffEqDocs/stable/) - Toolbox for solving different types of differential equations numerically. (Julia, MIT, [GitHub ![GitHub Repo Stars](https://img.shields.io/github/stars/SciML/DifferentialEquations.jl) ![GitHub last commit](https://img.shields.io/github/last-commit/SciML/DifferentialEquations.jl)](https://github.com/SciML/DifferentialEquations.jl))
 
 ## Finite Elements
 

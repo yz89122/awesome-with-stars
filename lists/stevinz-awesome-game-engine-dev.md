@@ -231,7 +231,7 @@ _Info on topics necessary for designing and developing game engines._
     - 📚 [Art of Game Design](https://www.amazon.com/Art-Game-Design-Book-Lenses/dp/0123694965) - Teaches game design in an accessible manner.
     - 📚 [Game Programming Patterns](https://gameprogrammingpatterns.com) - Patterns found in games that make code easier to understand.
 - Developer Portals
-    - 🌎 [Game Developer](https://www.gamedeveloper.com) - Industry blogs, events, jobs, updates and more. Formerly _Gamasutra_.
+    - ��� [Game Developer](https://www.gamedeveloper.com) - Industry blogs, events, jobs, updates and more. Formerly _Gamasutra_.
     - 🌎 [GameDev.net](https://www.gamedev.net/) - Game dev forums, tutorials, blogs, projects, portfolios, and news.
     - 🌎 [GameFromScratch.com](https://gamefromscratch.com) - Game dev news, tutorials and much more.
     - 🌎 [itch.io](https://itch.io) - Game dev resources and platform to showcase / promote / buy & sell games.
@@ -570,7 +570,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Parallel Hashmap ![GitHub Repo Stars](https://img.shields.io/github/stars/greg7mdp/parallel-hashmap) ![GitHub last commit](https://img.shields.io/github/last-commit/greg7mdp/parallel-hashmap)](https://github.com/greg7mdp/parallel-hashmap) - Header-only, fast and memory-friendly hashmap and binary tree containers.
     - 🎉 [Spdlog ![GitHub Repo Stars](https://img.shields.io/github/stars/gabime/spdlog) ![GitHub last commit](https://img.shields.io/github/last-commit/gabime/spdlog)](https://github.com/gabime/spdlog) - Fast logging library.
     - 🎉 [Tiny-Process-Library](https://gitlab.com/eidheim/tiny-process-library) - Making it simple to create and stop new processes.
-    - 🎉 [TinyXML-2 ![GitHub Repo Stars](https://img.shields.io/github/stars/leethomason/tinyxml2) ![GitHub last commit](https://img.shields.io/github/last-commit/leethomason/tinyxml2)](https://github.com/leethomason/tinyxml2) - XML parser that can be easily integrated into other programs.
+    - ��� [TinyXML-2 ![GitHub Repo Stars](https://img.shields.io/github/stars/leethomason/tinyxml2) ![GitHub last commit](https://img.shields.io/github/last-commit/leethomason/tinyxml2)](https://github.com/leethomason/tinyxml2) - XML parser that can be easily integrated into other programs.
 - C++: Visual Programming / Nodes
     - 🎉 [NodeEditor ![GitHub Repo Stars](https://img.shields.io/github/stars/paceholder/nodeeditor) ![GitHub last commit](https://img.shields.io/github/last-commit/paceholder/nodeeditor)](https://github.com/paceholder/nodeeditor) - Graph-controlled data processing, built with _Qt_.
     - 🎉 [QuickQanava ![GitHub Repo Stars](https://img.shields.io/github/stars/cneben/QuickQanava) ![GitHub last commit](https://img.shields.io/github/last-commit/cneben/QuickQanava)](https://github.com/cneben/QuickQanava) - Display graphs and relational content in a _QtQuick_-based app, in C++14.
@@ -1366,7 +1366,7 @@ _Software to help with game engine / video game development._
 - 💰 [Smear FX](https://codemanu.itch.io/smear-fx) - Make your 2D animations juicy by adding some smearing to them.
 
 ### Vector Editors
-- 🆓 [Inkscape](https://inkscape.org) - Cross-platform, open source vector graphics editor. [[Source ![GitHub Repo Stars](https://img.shields.io/github/stars/inkscape/inkscape) ![GitHub last commit](https://img.shields.io/github/last-commit/inkscape/inkscape)](https://github.com/inkscape/inkscape)]
+- �� [Inkscape](https://inkscape.org) - Cross-platform, open source vector graphics editor. [[Source ![GitHub Repo Stars](https://img.shields.io/github/stars/inkscape/inkscape) ![GitHub last commit](https://img.shields.io/github/last-commit/inkscape/inkscape)](https://github.com/inkscape/inkscape)]
 - 🆓 [Krita](https://krita.org/en/) - Professional quality, open source painting. [[Source ![GitHub Repo Stars](https://img.shields.io/github/stars/KDE/krita) ![GitHub last commit](https://img.shields.io/github/last-commit/KDE/krita)](https://github.com/KDE/krita)]
 - 💰 [Vec Maker](https://kronbits.itch.io/vecmaker) - Easy to use vector design.
 
