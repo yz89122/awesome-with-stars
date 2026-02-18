@@ -1243,6 +1243,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-cdk-lightbox ![GitHub Repo Stars](https://img.shields.io/github/stars/miskith/ngx-cdk-lightbox) ![GitHub last commit](https://img.shields.io/github/last-commit/miskith/ngx-cdk-lightbox)](https://github.com/miskith/ngx-cdk-lightbox/tree/master/projects/ngx-cdk-lightbox) - Tailored CDK-based solution for rendering an image gallery with lightbox functionality in Angular.
 * [rm-image-slider ![GitHub Repo Stars](https://img.shields.io/github/stars/malikrajat/rm-image-slider) ![GitHub last commit](https://img.shields.io/github/last-commit/malikrajat/rm-image-slider)](https://github.com/malikrajat/rm-image-slider) - Standalone Angular image slider with lightbox, lazy loading, and video support (YouTube/MP4).
 * [ngx-carousel-modern ![GitHub Repo Stars](https://img.shields.io/github/stars/Aizaz-ul-haq/ngx-carousel-modern) ![GitHub last commit](https://img.shields.io/github/last-commit/Aizaz-ul-haq/ngx-carousel-modern)](https://github.com/Aizaz-ul-haq/ngx-carousel-modern) - A modern, customizable carousel component for Angular 16+ with support for both standalone and NgModule-based applications.
+* [fslightbox-angular ![GitHub Repo Stars](https://img.shields.io/github/stars/banthagroup/fslightbox-angular) ![GitHub last commit](https://img.shields.io/github/last-commit/banthagroup/fslightbox-angular)](https://github.com/banthagroup/fslightbox-angular) - The Angular version of [Fullscreen Lightbox](https://fslightbox.com/).
 
 ### Charts
 
