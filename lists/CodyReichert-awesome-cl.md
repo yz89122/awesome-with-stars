@@ -582,7 +582,7 @@ lists and sequences:
 
 (purely) functional data structures:
 
-* 👍 [FSet](https://common-lisp.net/project/fset) - A functional, set-theoretic collections data structure library. [LLGPL][8].
+* ���� [FSet](https://common-lisp.net/project/fset) - A functional, set-theoretic collections data structure library. [LLGPL][8].
   * defines four major types: seqs (sequences), maps (hash-tables), sets and bags (like sets, but they remember the number of times each member has been added to it).  Now includes JSON support in system FSet/Jzon.
 * [sycamore ![GitHub Repo Stars](https://img.shields.io/github/stars/ndantam/sycamore) ![GitHub last commit](https://img.shields.io/github/last-commit/ndantam/sycamore)](https://github.com/ndantam/sycamore) -  a fast, purely functional data structure library. [BSD_3Clause][15].
   - comparison: [FSet vs. Sycamore](https://scottlburson2.blogspot.com/2024/10/comparison-fset-vs-sycamore.html)
