@@ -214,7 +214,7 @@ _Info on topics necessary for designing and developing game engines._
 - Books
     - 📚 [Game Engine Architecture](https://www.gameenginebook.com) - Theory and practice of game engine development.
 - Commercial Studios Research Divisions
-    - 🌎 [Activision Research](https://research.activision.com/) - Blog posts, articles and presentations from research within _Activision_.
+    - �� [Activision Research](https://research.activision.com/) - Blog posts, articles and presentations from research within _Activision_.
     - 🌎 [EA Technology](https://www.ea.com/technology/research) - Research on game tech including info on the _Frostbite_ engine.
     - 🌎 [tri-Ace Research](https://research.tri-ace.com/) - Publications from the Research and Development Department at _tri-Ace Inc_.
     - 🌎 [Ubisoft Technology](https://www.ubisoft.com/en-us/company/how-we-make-games/technology) - Learn about in-house tech including the _Anvil_ and _Snowdrop_ engines.
@@ -231,7 +231,7 @@ _Info on topics necessary for designing and developing game engines._
     - 📚 [Art of Game Design](https://www.amazon.com/Art-Game-Design-Book-Lenses/dp/0123694965) - Teaches game design in an accessible manner.
     - 📚 [Game Programming Patterns](https://gameprogrammingpatterns.com) - Patterns found in games that make code easier to understand.
 - Developer Portals
-    - ��� [Game Developer](https://www.gamedeveloper.com) - Industry blogs, events, jobs, updates and more. Formerly _Gamasutra_.
+    - 🌎 [Game Developer](https://www.gamedeveloper.com) - Industry blogs, events, jobs, updates and more. Formerly _Gamasutra_.
     - 🌎 [GameDev.net](https://www.gamedev.net/) - Game dev forums, tutorials, blogs, projects, portfolios, and news.
     - 🌎 [GameFromScratch.com](https://gamefromscratch.com) - Game dev news, tutorials and much more.
     - 🌎 [itch.io](https://itch.io) - Game dev resources and platform to showcase / promote / buy & sell games.
@@ -245,7 +245,7 @@ _Info on topics necessary for designing and developing game engines._
 - 📚 [Big-O Cheat Sheet](https://www.bigocheatsheet.com) - Big-O complexities of algorithms used in computer science.
 - 🌎 [Deadlock Empire](https://deadlockempire.github.io/#menu) - Interactive tutorial to master threads and concurrency.
 - 📚 [Every Programmer Should Know ![GitHub Repo Stars](https://img.shields.io/github/stars/mtdvio/every-programmer-should-know) ![GitHub last commit](https://img.shields.io/github/last-commit/mtdvio/every-programmer-should-know)](https://github.com/mtdvio/every-programmer-should-know) - Technical things every developer should know.
-- 📚 [Games of Coding ![GitHub Repo Stars](https://img.shields.io/github/stars/michelpereira/awesome-games-of-coding) ![GitHub last commit](https://img.shields.io/github/last-commit/michelpereira/awesome-games-of-coding)](https://github.com/michelpereira/awesome-games-of-coding#readme) - Games that teach you a programming language.
+- �� [Games of Coding ![GitHub Repo Stars](https://img.shields.io/github/stars/michelpereira/awesome-games-of-coding) ![GitHub last commit](https://img.shields.io/github/last-commit/michelpereira/awesome-games-of-coding)](https://github.com/michelpereira/awesome-games-of-coding#readme) - Games that teach you a programming language.
 - 🌎 [Geeks for Geeks](https://www.geeksforgeeks.org) - Tutorials, articles, courses, coding competitions, jobs and more.
 - 📚 [Learn to Program ![GitHub Repo Stars](https://img.shields.io/github/stars/karlhorky/learn-to-program) ![GitHub last commit](https://img.shields.io/github/last-commit/karlhorky/learn-to-program)](https://github.com/karlhorky/learn-to-program#readme) - Educational resources to learn to program.
 - 📚 [TIOBE Index](https://www.tiobe.com/tiobe-index/) - Popularity of programming languages, updated monthly.
@@ -333,7 +333,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [libGamepad ![GitHub Repo Stars](https://img.shields.io/github/stars/mtwilliams/libgamepad) ![GitHub last commit](https://img.shields.io/github/last-commit/mtwilliams/libgamepad)](https://github.com/mtwilliams/libgamepad) - Cross-platform library for gamepad input.
     - 🎉 [Sokol Gamepad ![GitHub Repo Stars](https://img.shields.io/github/stars/floooh/sokol) ![GitHub last commit](https://img.shields.io/github/last-commit/floooh/sokol)](https://github.com/floooh/sokol/pull/393/commits/26a9da9dafd4adb22a1ace0de0d2569da31ae427) - Branch with addon support for gamepads in _Sokol_.
 - C: Layout
-    - 🎉 [Clay ![GitHub Repo Stars](https://img.shields.io/github/stars/nicbarker/clay) ![GitHub last commit](https://img.shields.io/github/last-commit/nicbarker/clay)](https://github.com/nicbarker/clay) - High performance 2D UI layout library.
+    - ���� [Clay ![GitHub Repo Stars](https://img.shields.io/github/stars/nicbarker/clay) ![GitHub last commit](https://img.shields.io/github/last-commit/nicbarker/clay)](https://github.com/nicbarker/clay) - High performance 2D UI layout library.
 - C: Libraries
     - ⭐ [Cute Headers ![GitHub Repo Stars](https://img.shields.io/github/stars/RandyGaul/cute_headers) ![GitHub last commit](https://img.shields.io/github/last-commit/RandyGaul/cute_headers)](https://github.com/RandyGaul/cute_headers) - Single-file libraries primarily used for games, by [Randy Gaul](https://github.com/RandyGaul).
     - ⭐ [Libs ![GitHub Repo Stars](https://img.shields.io/github/stars/mattiasgustavsson/libs) ![GitHub last commit](https://img.shields.io/github/last-commit/mattiasgustavsson/libs)](https://github.com/mattiasgustavsson/libs) - Single-file public domain libraries for C/C++, by [Mattias Gustavsson](https://github.com/mattiasgustavsson).
@@ -560,7 +560,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [FlatBuffers ![GitHub Repo Stars](https://img.shields.io/github/stars/google/flatbuffers) ![GitHub last commit](https://img.shields.io/github/last-commit/google/flatbuffers)](https://github.com/google/flatbuffers) - Efficient cross-platform serialization library by _Google_.
     - 🎉 [JSON for Modern C++ ![GitHub Repo Stars](https://img.shields.io/github/stars/nlohmann/json) ![GitHub last commit](https://img.shields.io/github/last-commit/nlohmann/json)](https://github.com/nlohmann/json) - JSON support for Modern C++.
     - 🎉 [Protobuf ![GitHub Repo Stars](https://img.shields.io/github/stars/protocolbuffers/protobuf) ![GitHub last commit](https://img.shields.io/github/last-commit/protocolbuffers/protobuf)](https://github.com/protocolbuffers/protobuf) - Protocol Buffers, for platform-neutral serialized data by _Google_.
-    - ��� [RapidJSON ![GitHub Repo Stars](https://img.shields.io/github/stars/Tencent/rapidjson) ![GitHub last commit](https://img.shields.io/github/last-commit/Tencent/rapidjson)](https://github.com/Tencent/rapidjson/) - Fast JSON parser / generator.
+    - 🎉 [RapidJSON ![GitHub Repo Stars](https://img.shields.io/github/stars/Tencent/rapidjson) ![GitHub last commit](https://img.shields.io/github/last-commit/Tencent/rapidjson)](https://github.com/Tencent/rapidjson/) - Fast JSON parser / generator.
 - C++: Terrain
     - 🎉 [Terra Forge 3D ![GitHub Repo Stars](https://img.shields.io/github/stars/Jaysmito101/TerraForge3D) ![GitHub last commit](https://img.shields.io/github/last-commit/Jaysmito101/TerraForge3D)](https://github.com/Jaysmito101/TerraForge3D) - Procedural 3D terrain generation and texturing tool.
 - C++: Utility
@@ -706,7 +706,7 @@ _Language specific game engine development libraries / frameworks / code._
 - Haxe: Libraries
     - 📚 [HaxeLibs](https://lib.haxe.org/all) - List of every library uploaded to the Haxe website.
     - 📚 [HaxeTink](https://github.com/haxetink) - Various addon libraries for Haxe.
-    - ���� [Snowkit](https://github.com/snowkit) - Collective of Haxe developers.
+    - 🌎 [Snowkit](https://github.com/snowkit) - Collective of Haxe developers.
 - Haxe: Physics
     - 🎉 [Haxe Bullet ![GitHub Repo Stars](https://img.shields.io/github/stars/armory3d/haxebullet) ![GitHub last commit](https://img.shields.io/github/last-commit/armory3d/haxebullet)](https://github.com/armory3d/haxebullet) - _Bullet 3D_ physics bindings for Haxe.
     - 🎉 [HeapsIO/bullet ![GitHub Repo Stars](https://img.shields.io/github/stars/HeapsIO/bullet) ![GitHub last commit](https://img.shields.io/github/last-commit/HeapsIO/bullet)](https://github.com/HeapsIO/bullet) - _Bullet 3D_ physics for _Heaps_ (Haxe's native low-level game framework).
