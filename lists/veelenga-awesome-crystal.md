@@ -431,6 +431,7 @@ described in [RFC 8032]
  * [crecto ![GitHub Repo Stars](https://img.shields.io/github/stars/Crecto/crecto) ![GitHub last commit](https://img.shields.io/github/last-commit/Crecto/crecto)](https://github.com/Crecto/crecto) - Database wrapper, based on Ecto
  * [granite ![GitHub Repo Stars](https://img.shields.io/github/stars/amberframework/granite) ![GitHub last commit](https://img.shields.io/github/last-commit/amberframework/granite)](https://github.com/amberframework/granite) - ORM for Postgres, Mysql, Sqlite
  * [jennifer.cr ![GitHub Repo Stars](https://img.shields.io/github/stars/imdrasil/jennifer.cr) ![GitHub last commit](https://img.shields.io/github/last-commit/imdrasil/jennifer.cr)](https://github.com/imdrasil/jennifer.cr) - Active Record pattern implementation with flexible query chainable builder and migration system
+ * [lustra ![GitHub Repo Stars](https://img.shields.io/github/stars/crystal-garage/lustra) ![GitHub last commit](https://img.shields.io/github/last-commit/crystal-garage/lustra)](https://github.com/crystal-garage/lustra) - Advanced PostgreSQL ORM with ActiveRecord pattern, full-text search, geometry types, and more
  * [rethinkdb-orm ![GitHub Repo Stars](https://img.shields.io/github/stars/spider-gazelle/rethinkdb-orm) ![GitHub last commit](https://img.shields.io/github/last-commit/spider-gazelle/rethinkdb-orm)](https://github.com/spider-gazelle/rethinkdb-orm) - ORM for RethinkDB / RebirthDB
 
 ## Package Management
