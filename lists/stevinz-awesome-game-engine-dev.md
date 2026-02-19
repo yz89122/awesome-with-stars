@@ -231,7 +231,7 @@ _Info on topics necessary for designing and developing game engines._
     - 📚 [Art of Game Design](https://www.amazon.com/Art-Game-Design-Book-Lenses/dp/0123694965) - Teaches game design in an accessible manner.
     - 📚 [Game Programming Patterns](https://gameprogrammingpatterns.com) - Patterns found in games that make code easier to understand.
 - Developer Portals
-    - 🌎 [Game Developer](https://www.gamedeveloper.com) - Industry blogs, events, jobs, updates and more. Formerly _Gamasutra_.
+    - ��� [Game Developer](https://www.gamedeveloper.com) - Industry blogs, events, jobs, updates and more. Formerly _Gamasutra_.
     - 🌎 [GameDev.net](https://www.gamedev.net/) - Game dev forums, tutorials, blogs, projects, portfolios, and news.
     - 🌎 [GameFromScratch.com](https://gamefromscratch.com) - Game dev news, tutorials and much more.
     - 🌎 [itch.io](https://itch.io) - Game dev resources and platform to showcase / promote / buy & sell games.
@@ -508,7 +508,7 @@ _Language specific game engine development libraries / frameworks / code._
 - C++: Input
     - 🎉 [Gainput ![GitHub Repo Stars](https://img.shields.io/github/stars/jkuhlmann/gainput) ![GitHub last commit](https://img.shields.io/github/last-commit/jkuhlmann/gainput)](https://github.com/jkuhlmann/gainput) - Easy to use input library.
     - 🎉 [OIS ![GitHub Repo Stars](https://img.shields.io/github/stars/wgois/OIS) ![GitHub last commit](https://img.shields.io/github/last-commit/wgois/OIS)](https://github.com/wgois/OIS) - Object-oriented input system. Compatiable with many operating systems.
-    - ���� [Oryol Input ![GitHub Repo Stars](https://img.shields.io/github/stars/floooh/oryol) ![GitHub last commit](https://img.shields.io/github/last-commit/floooh/oryol)](https://github.com/floooh/oryol/tree/043683dcb3181beb64ae1c85ea76e4a4eb71c124/code/Modules/Input) - Input module from the _Oryol_ game framework.
+    - 🎉 [Oryol Input ![GitHub Repo Stars](https://img.shields.io/github/stars/floooh/oryol) ![GitHub last commit](https://img.shields.io/github/last-commit/floooh/oryol)](https://github.com/floooh/oryol/tree/043683dcb3181beb64ae1c85ea76e4a4eb71c124/code/Modules/Input) - Input module from the _Oryol_ game framework.
 - C++: Layout
     - 🎉 [Yoga ![GitHub Repo Stars](https://img.shields.io/github/stars/facebook/yoga) ![GitHub last commit](https://img.shields.io/github/last-commit/facebook/yoga)](https://github.com/facebook/yoga) - Cross-platform [flexbox](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox) layout engine by _Facebook_. [[Website](https://yogalayout.com/)]
 - C++: Libraries
