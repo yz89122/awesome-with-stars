@@ -231,7 +231,7 @@ _Info on topics necessary for designing and developing game engines._
     - 📚 [Art of Game Design](https://www.amazon.com/Art-Game-Design-Book-Lenses/dp/0123694965) - Teaches game design in an accessible manner.
     - 📚 [Game Programming Patterns](https://gameprogrammingpatterns.com) - Patterns found in games that make code easier to understand.
 - Developer Portals
-    - 🌎 [Game Developer](https://www.gamedeveloper.com) - Industry blogs, events, jobs, updates and more. Formerly _Gamasutra_.
+    - ��� [Game Developer](https://www.gamedeveloper.com) - Industry blogs, events, jobs, updates and more. Formerly _Gamasutra_.
     - 🌎 [GameDev.net](https://www.gamedev.net/) - Game dev forums, tutorials, blogs, projects, portfolios, and news.
     - 🌎 [GameFromScratch.com](https://gamefromscratch.com) - Game dev news, tutorials and much more.
     - 🌎 [itch.io](https://itch.io) - Game dev resources and platform to showcase / promote / buy & sell games.
@@ -266,7 +266,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Dark Basic ![GitHub Repo Stars](https://img.shields.io/github/stars/TheGameCreators/Dark-Basic-Pro) ![GitHub last commit](https://img.shields.io/github/last-commit/TheGameCreators/Dark-Basic-Pro)](https://github.com/TheGameCreators/Dark-Basic-Pro) - BASIC programming language for creating apps and games. [[Website](https://www.thegamecreators.com/product/dark-basic-pro-open-source)]
 
 ### C
-- �� [Learn C Programming](https://www.programiz.com/c-programming) - Excellent tutorials that will guide you to learn C programming.
+- 📚 [Learn C Programming](https://www.programiz.com/c-programming) - Excellent tutorials that will guide you to learn C programming.
 - C: App Framework
     - 🎉 [Allegro ![GitHub Repo Stars](https://img.shields.io/github/stars/liballeg/allegro5) ![GitHub last commit](https://img.shields.io/github/last-commit/liballeg/allegro5)](https://github.com/liballeg/allegro5) - Cross-platform library aimed at video game and multimedia apps.
     - 🎉 [glfw ![GitHub Repo Stars](https://img.shields.io/github/stars/glfw/glfw) ![GitHub last commit](https://img.shields.io/github/last-commit/glfw/glfw)](https://github.com/glfw/glfw) - Cross-platform API for windowing, graphics contexts, input and events.
@@ -451,7 +451,7 @@ _Language specific game engine development libraries / frameworks / code._
 - C++: Geometry
     - 🎉 [CinoLib ![GitHub Repo Stars](https://img.shields.io/github/stars/mlivesu/cinolib) ![GitHub last commit](https://img.shields.io/github/last-commit/mlivesu/cinolib)](https://github.com/mlivesu/cinolib) - Header-only library for processing polygonal and polyhedral meshes.
     - 🎉 [Delabella ![GitHub Repo Stars](https://img.shields.io/github/stars/msokalski/delabella) ![GitHub last commit](https://img.shields.io/github/last-commit/msokalski/delabella)](https://github.com/msokalski/delabella) - Super stable 2D delaunay triangulation.
-    - ���� [Delaunator-Cpp ![GitHub Repo Stars](https://img.shields.io/github/stars/soerendd/delaunator-cpp) ![GitHub last commit](https://img.shields.io/github/last-commit/soerendd/delaunator-cpp)](https://github.com/soerendd/delaunator-cpp) - Really fast library for Delaunay triangulation of 2D points.
+    - 🎉 [Delaunator-Cpp ![GitHub Repo Stars](https://img.shields.io/github/stars/soerendd/delaunator-cpp) ![GitHub last commit](https://img.shields.io/github/last-commit/soerendd/delaunator-cpp)](https://github.com/soerendd/delaunator-cpp) - Really fast library for Delaunay triangulation of 2D points.
     - 🔒 [Easy3D ![GitHub Repo Stars](https://img.shields.io/github/stars/LiangliangNan/Easy3D) ![GitHub last commit](https://img.shields.io/github/last-commit/LiangliangNan/Easy3D)](https://github.com/LiangliangNan/Easy3D) - Easy-to-use library for 3D modeling, geometry processing, and rendering.
     - 🎉 [Extrude ![GitHub Repo Stars](https://img.shields.io/github/stars/stevinz/extrude) ![GitHub last commit](https://img.shields.io/github/last-commit/stevinz/extrude)](https://github.com/stevinz/extrude) - Converts 2D images into 3D extruded meshes.
     - 🔒 [Generator ![GitHub Repo Stars](https://img.shields.io/github/stars/ilmola/generator) ![GitHub last commit](https://img.shields.io/github/last-commit/ilmola/generator)](https://github.com/ilmola/generator) - Procedural geometry generation library for C++11.
@@ -560,7 +560,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [FlatBuffers ![GitHub Repo Stars](https://img.shields.io/github/stars/google/flatbuffers) ![GitHub last commit](https://img.shields.io/github/last-commit/google/flatbuffers)](https://github.com/google/flatbuffers) - Efficient cross-platform serialization library by _Google_.
     - 🎉 [JSON for Modern C++ ![GitHub Repo Stars](https://img.shields.io/github/stars/nlohmann/json) ![GitHub last commit](https://img.shields.io/github/last-commit/nlohmann/json)](https://github.com/nlohmann/json) - JSON support for Modern C++.
     - 🎉 [Protobuf ![GitHub Repo Stars](https://img.shields.io/github/stars/protocolbuffers/protobuf) ![GitHub last commit](https://img.shields.io/github/last-commit/protocolbuffers/protobuf)](https://github.com/protocolbuffers/protobuf) - Protocol Buffers, for platform-neutral serialized data by _Google_.
-    - 🎉 [RapidJSON ![GitHub Repo Stars](https://img.shields.io/github/stars/Tencent/rapidjson) ![GitHub last commit](https://img.shields.io/github/last-commit/Tencent/rapidjson)](https://github.com/Tencent/rapidjson/) - Fast JSON parser / generator.
+    - ��� [RapidJSON ![GitHub Repo Stars](https://img.shields.io/github/stars/Tencent/rapidjson) ![GitHub last commit](https://img.shields.io/github/last-commit/Tencent/rapidjson)](https://github.com/Tencent/rapidjson/) - Fast JSON parser / generator.
 - C++: Terrain
     - 🎉 [Terra Forge 3D ![GitHub Repo Stars](https://img.shields.io/github/stars/Jaysmito101/TerraForge3D) ![GitHub last commit](https://img.shields.io/github/last-commit/Jaysmito101/TerraForge3D)](https://github.com/Jaysmito101/TerraForge3D) - Procedural 3D terrain generation and texturing tool.
 - C++: Utility
