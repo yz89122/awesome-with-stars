@@ -170,7 +170,7 @@ Creative technologists by definition have a breadth of skills as opposed to a sp
 | [**SOSO**](https:&#x2F;&#x2F;www.sosolimited.com&#x2F;) | [Boston] [San Diego] | delivering real human impact across physical and virtual space, placemaking and storytelling | [🌐](https:&#x2F;&#x2F;www.sosolimited.com&#x2F;careers&#x2F;)
 | [**space150**](https:&#x2F;&#x2F;www.space150.com&#x2F;) | [Minneapolis] [LA] [NYC] | a tech-driven creative agency | [🌐](https:&#x2F;&#x2F;www.space150.com&#x2F;careers)
 | [**Sparks**](https:&#x2F;&#x2F;www.wearesparks.com&#x2F;) | [Philadelphia] [Shanghai] [Paris] [Berlin] [Amsterdam] | conferences, popups, event production, fabrication | 
-| [**Special Projects**](https:&#x2F;&#x2F;specialprojects.studio&#x2F;) | [London] | design and innovation agency that reveals user needs and transforms them into experiences and products | [��](mailto:careers@specialprojects.studio)
+| [**Special Projects**](https:&#x2F;&#x2F;specialprojects.studio&#x2F;) | [London] | design and innovation agency that reveals user needs and transforms them into experiences and products | [📧](mailto:careers@specialprojects.studio)
 | [**Spectacle**](https:&#x2F;&#x2F;spectacle.works&#x2F;) | [Phoenix] | expertise in fabricating experiences that drive engagement and wow participants | 
 | [**Spectra Studio**](https:&#x2F;&#x2F;spectra.studio&#x2F;) | [LA] | installations, projection, sculpture, robotics, light and sound | 
 | [**Squint&#x2F;Opera**](https:&#x2F;&#x2F;www.squintopera.com&#x2F;about&#x2F;) | [London] [NYC] [Dubai] | experience design for the built environment and musuems and attractions | 
@@ -352,6 +352,7 @@ Undergrad programs, masters and open course teaching and researching creative te
 
 | Name | Locations | Keywords | Jobs |
 | ---- | --------- | -------- | ---- |
+| [**Design and Technology at Parsons**](https:&#x2F;&#x2F;www.newschool.edu&#x2F;parsons&#x2F;mfa-design-technology&#x2F;) | [NYC] | critical computation, physical computing, game design, data visualization, creative coding, bio design | 
 | [**Goldsmiths**](https:&#x2F;&#x2F;www.gold.ac.uk&#x2F;pg&#x2F;ma-computational-arts&#x2F;) | [London] | a degree which develops your arts practice through the expressive world of creative computation | 
 | [**ITP**](https:&#x2F;&#x2F;tisch.nyu.edu&#x2F;itp) | [NYC] | ITP&#x2F;IMA offers four programs focused on creative and meaningful application of interactive tools and media. | 
 | [**MIT Medialab**](https:&#x2F;&#x2F;media.mit.edu&#x2F;) | [Boston] | art, science, design, and technology build and play off one another in an environment designed for collaboration and inspiration | 
