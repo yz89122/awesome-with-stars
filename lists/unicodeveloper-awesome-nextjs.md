@@ -170,6 +170,7 @@ _List inspired by the [awesome ![GitHub Repo Stars](https://img.shields.io/githu
 - [next-api-decorators ![GitHub Repo Stars](https://img.shields.io/github/stars/storyofams/next-api-decorators) ![GitHub last commit](https://img.shields.io/github/last-commit/storyofams/next-api-decorators)](https://github.com/storyofams/next-api-decorators) - Decorators to create typed Next.js API routes, with easy request validation and transformation.
 - [Vercel AI SDK ![GitHub Repo Stars](https://img.shields.io/github/stars/vercel/ai) ![GitHub last commit](https://img.shields.io/github/last-commit/vercel/ai)](https://github.com/vercel/ai) - The AI Toolkit for TypeScript. Build AI-powered applications with React, Next.js, Vue, Svelte, and Node.js.
 - [CopilotKit ![GitHub Repo Stars](https://img.shields.io/github/stars/CopilotKit/CopilotKit) ![GitHub last commit](https://img.shields.io/github/last-commit/CopilotKit/CopilotKit)](https://github.com/CopilotKit/CopilotKit) - React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents in your Next.js apps.
+- [ogimg.xyz](https://ogimg.xyz) - OG image generation API with 10 templates, background patterns, and URL auto-fetch. Built with Next.js + Satori on Vercel Edge.
 - [ShotOG ![GitHub Repo Stars](https://img.shields.io/github/stars/nicepkg/shotog) ![GitHub last commit](https://img.shields.io/github/last-commit/nicepkg/shotog)](https://github.com/nicepkg/shotog) - Dynamic OG image generation API for Next.js apps, powered by Cloudflare Workers.
 
 ## Apps
