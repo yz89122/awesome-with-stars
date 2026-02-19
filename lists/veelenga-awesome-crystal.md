@@ -134,6 +134,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [x_do.cr ![GitHub Repo Stars](https://img.shields.io/github/stars/woodruffw/x_do.cr) ![GitHub last commit](https://img.shields.io/github/last-commit/woodruffw/x_do.cr)](https://github.com/woodruffw/x_do.cr) - Bindings for libxdo ([`xdotool` ![GitHub Repo Stars](https://img.shields.io/github/stars/jordansissel/xdotool) ![GitHub last commit](https://img.shields.io/github/last-commit/jordansissel/xdotool)](https://github.com/jordansissel/xdotool))
 
 ## Caching
+ * [cache ![GitHub Repo Stars](https://img.shields.io/github/stars/crystal-cache/cache) ![GitHub last commit](https://img.shields.io/github/last-commit/crystal-cache/cache)](https://github.com/crystal-cache/cache) - A key/value store where pairs can expire after a specified interval
  * [crystal-memcached ![GitHub Repo Stars](https://img.shields.io/github/stars/comandeo/crystal-memcached) ![GitHub last commit](https://img.shields.io/github/last-commit/comandeo/crystal-memcached)](https://github.com/comandeo/crystal-memcached) - Implementation of a memcached client
 
 ## CLI Builders
