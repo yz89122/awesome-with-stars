@@ -12,9 +12,9 @@
     <a href="https://t.me/opensourcemacosapps"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-Channel-blue.svg" /></a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Total%20Apps-617-blue" alt="Total Apps"/>
+    <img src="https://img.shields.io/badge/Total%20Apps-620-blue" alt="Total Apps"/>
     <img src="https://img.shields.io/badge/Categories-49-green" alt="Categories"/>
-    <img src="https://img.shields.io/badge/Last%20Updated-December%207,%202025-orange" alt="Last Updated"/>
+    <img src="https://img.shields.io/badge/Last%20Updated-February%2019,%202026-orange" alt="Last Updated"/>
   </p>
 </div>
 
@@ -44,7 +44,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 
 | Metric | Count |
 |--------|-------|
-| 📱 Total Applications | 617 |
+| 📱 Total Applications | 620 |
 | 📂 Categories | 49 |
 | 🔝 Top Languages | Swift: 271 • Objective-C: 134 • Javascript: 108 • C++: 54 • C: 34 |
 
@@ -5749,7 +5749,7 @@ You can see in which language an app is written. Currently there are following l
 <div align="right"><a href="#contents">⬆️ Back to Top</a></div>
 
 <a id="menubar"></a>
-### 📊 Menubar (40)
+### 📊 Menubar (41)
 - [Airpass ![GitHub Repo Stars](https://img.shields.io/github/stars/alvesjtiago/airpass) ![GitHub last commit](https://img.shields.io/github/last-commit/alvesjtiago/airpass)](https://github.com/alvesjtiago/airpass) - Status bar Mac application to overcome time constrained WiFi networks. 
 
   <details>
@@ -6281,6 +6281,25 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
+- [RustCast ![GitHub Repo Stars](https://img.shields.io/github/stars/unsecretised/rustcast) ![GitHub last commit](https://img.shields.io/github/last-commit/unsecretised/rustcast)](https://github.com/unsecretised/rustcast) - Blazingly fast, customisable multi tool, application launcher
+
+  <details>
+  <summary>More</summary>
+  <p>
+
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/rust-16.png' alt='Rust icon' title='Rust' height='16'/> 
+
+  **Links:** <a href='https://github.com/unsecretised/rustcast/releases/latest'><img src='https://img.shields.io/github/v/release/unsecretised/rustcast?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/unsecretised/rustcast'><img src='https://img.shields.io/github/stars/unsecretised/rustcast?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/unsecretised/rustcast' alt='License'/>
+
+  **Website:** [https://rustcast.umangsurana.com](https://rustcast.umangsurana.com)
+
+  **Screenshots:**
+
+  <img src='https://rustcast.umangsurana.com/rustcast-v0-5-0.png' width='400' loading='lazy'/>
+
+  </p>
+  </details>
+
 - [SensibleSideButtons ![GitHub Repo Stars](https://img.shields.io/github/stars/archagon/sensible-side-buttons) ![GitHub last commit](https://img.shields.io/github/last-commit/archagon/sensible-side-buttons)](https://github.com/archagon/sensible-side-buttons) - Small menu bar utility that lets you use your third-party mouse's side buttons for navigation across a variety of apps.
 
   <details>
@@ -6772,7 +6791,7 @@ You can see in which language an app is written. Currently there are following l
 <div align="right"><a href="#contents">⬆️ Back to Top</a></div>
 
 <a id="notes"></a>
-### 📔 Notes (16)
+### 📔 Notes (17)
 - [Boostnote ![GitHub Repo Stars](https://img.shields.io/github/stars/BoostIO/BoostNote-Legacy) ![GitHub last commit](https://img.shields.io/github/last-commit/BoostIO/BoostNote-Legacy)](https://github.com/BoostIO/BoostNote-Legacy) - Note-taking application made for programmers just like you. 
 
   <details>
@@ -7005,6 +7024,21 @@ You can see in which language an app is written. Currently there are following l
   **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-16.png' alt='JavaScript icon' title='JavaScript' height='16'/> <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/css-16.png' alt='CSS icon' title='CSS' height='16'/> 
 
   **Links:** <a href='https://github.com/standardnotes/app/releases/latest'><img src='https://img.shields.io/github/v/release/standardnotes/app?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/standardnotes/app'><img src='https://img.shields.io/github/stars/standardnotes/app?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/standardnotes/app' alt='License'/>
+
+  </p>
+  </details>
+
+- [Stik ![GitHub Repo Stars](https://img.shields.io/github/stars/0xMassi/stik_app) ![GitHub last commit](https://img.shields.io/github/last-commit/0xMassi/stik_app)](https://github.com/0xMassi/stik_app) - Instant thought capture for macOS. Global hotkey summons a post-it note, type and close. Notes stored as plain markdown files.
+
+  <details>
+  <summary>More</summary>
+  <p>
+
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/rust-16.png' alt='Rust icon' title='Rust' height='16'/> <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/typescript-16.png' alt='TypeScript icon' title='TypeScript' height='16'/> 
+
+  **Links:** <a href='https://github.com/0xMassi/stik_app/releases/latest'><img src='https://img.shields.io/github/v/release/0xMassi/stik_app?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/0xMassi/stik_app'><img src='https://img.shields.io/github/stars/0xMassi/stik_app?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/0xMassi/stik_app' alt='License'/>
+
+  **Website:** [https://stik.ink](https://stik.ink)
 
   </p>
   </details>
@@ -7617,7 +7651,7 @@ You can see in which language an app is written. Currently there are following l
 <div align="right"><a href="#contents">⬆️ Back to Top</a></div>
 
 <a id="productivity"></a>
-### ⏱️ Productivity (57)
+### ⏱️ Productivity (59)
 - [Ao ![GitHub Repo Stars](https://img.shields.io/github/stars/klaudiosinani/ao) ![GitHub last commit](https://img.shields.io/github/last-commit/klaudiosinani/ao)](https://github.com/klaudiosinani/ao) - Elegant Microsoft To-Do desktop app.
 
   <details>
@@ -7804,6 +7838,25 @@ You can see in which language an app is written. Currently there are following l
   **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/c-16.png' alt='C icon' title='C' height='16'/> <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/cpp-16.png' alt='C++ icon' title='C++' height='16'/> 
 
   **Links:** <a href='https://github.com/elfmz/far2l/releases/latest'><img src='https://img.shields.io/github/v/release/elfmz/far2l?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/elfmz/far2l'><img src='https://img.shields.io/github/stars/elfmz/far2l?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/elfmz/far2l' alt='License'/>
+
+  </p>
+  </details>
+
+- [File Architect ![GitHub Repo Stars](https://img.shields.io/github/stars/filearchitect/app) ![GitHub last commit](https://img.shields.io/github/last-commit/filearchitect/app)](https://github.com/filearchitect/app) - Create file and folder structures from plain text descriptions.
+
+  <details>
+  <summary>More</summary>
+  <p>
+
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/typescript-16.png' alt='TypeScript icon' title='TypeScript' height='16'/> <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/rust-16.png' alt='Rust icon' title='Rust' height='16'/> 
+
+  **Links:** <a href='https://github.com/filearchitect/app/releases/latest'><img src='https://img.shields.io/github/v/release/filearchitect/app?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/filearchitect/app'><img src='https://img.shields.io/github/stars/filearchitect/app?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/filearchitect/app' alt='License'/>
+
+  **Website:** [https://filearchitect.com](https://filearchitect.com)
+
+  **Screenshots:**
+
+  <img src='https://raw.githubusercontent.com/filearchitect/app/main/docs/screenshots/filearchitect-main.png' width='400' loading='lazy'/>
 
   </p>
   </details>
@@ -8176,6 +8229,25 @@ You can see in which language an app is written. Currently there are following l
   **Screenshots:**
 
   <img src='https://github.com/b3z/reventlou/blob/master/assets/screenshot.png' width='400' loading='lazy'/>
+
+  </p>
+  </details>
+
+- [RustCast ![GitHub Repo Stars](https://img.shields.io/github/stars/unsecretised/rustcast) ![GitHub last commit](https://img.shields.io/github/last-commit/unsecretised/rustcast)](https://github.com/unsecretised/rustcast) - Blazingly fast, customisable multi tool, application launcher
+
+  <details>
+  <summary>More</summary>
+  <p>
+
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/rust-16.png' alt='Rust icon' title='Rust' height='16'/> 
+
+  **Links:** <a href='https://github.com/unsecretised/rustcast/releases/latest'><img src='https://img.shields.io/github/v/release/unsecretised/rustcast?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/unsecretised/rustcast'><img src='https://img.shields.io/github/stars/unsecretised/rustcast?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/unsecretised/rustcast' alt='License'/>
+
+  **Website:** [https://rustcast.umangsurana.com](https://rustcast.umangsurana.com)
+
+  **Screenshots:**
+
+  <img src='https://rustcast.umangsurana.com/rustcast-v0-5-0.png' width='400' loading='lazy'/>
 
   </p>
   </details>
@@ -9932,7 +10004,7 @@ You can see in which language an app is written. Currently there are following l
 <div align="right"><a href="#contents">⬆️ Back to Top</a></div>
 
 <a id="utilities"></a>
-### 🛠️ Utilities (83)
+### 🛠️ Utilities (85)
 - [Android tool for Mac ![GitHub Repo Stars](https://img.shields.io/github/stars/mortenjust/androidtool-mac) ![GitHub last commit](https://img.shields.io/github/last-commit/mortenjust/androidtool-mac)](https://github.com/mortenjust/androidtool-mac) - One-click screenshots, video recordings, app installation for iOS and Android 
 
   <details>
@@ -10335,6 +10407,25 @@ You can see in which language an app is written. Currently there are following l
   **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/c-16.png' alt='C icon' title='C' height='16'/> <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/cpp-16.png' alt='C++ icon' title='C++' height='16'/> 
 
   **Links:** <a href='https://github.com/elfmz/far2l/releases/latest'><img src='https://img.shields.io/github/v/release/elfmz/far2l?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/elfmz/far2l'><img src='https://img.shields.io/github/stars/elfmz/far2l?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/elfmz/far2l' alt='License'/>
+
+  </p>
+  </details>
+
+- [File Architect ![GitHub Repo Stars](https://img.shields.io/github/stars/filearchitect/app) ![GitHub last commit](https://img.shields.io/github/last-commit/filearchitect/app)](https://github.com/filearchitect/app) - Create file and folder structures from plain text descriptions.
+
+  <details>
+  <summary>More</summary>
+  <p>
+
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/typescript-16.png' alt='TypeScript icon' title='TypeScript' height='16'/> <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/rust-16.png' alt='Rust icon' title='Rust' height='16'/> 
+
+  **Links:** <a href='https://github.com/filearchitect/app/releases/latest'><img src='https://img.shields.io/github/v/release/filearchitect/app?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/filearchitect/app'><img src='https://img.shields.io/github/stars/filearchitect/app?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/filearchitect/app' alt='License'/>
+
+  **Website:** [https://filearchitect.com](https://filearchitect.com)
+
+  **Screenshots:**
+
+  <img src='https://raw.githubusercontent.com/filearchitect/app/main/docs/screenshots/filearchitect-main.png' width='400' loading='lazy'/>
 
   </p>
   </details>
@@ -11024,6 +11115,25 @@ You can see in which language an app is written. Currently there are following l
   **Screenshots:**
 
   <img src='https://github.com/swiftyfinch/Rugby/blob/main/Assets/Preview.jpg' width='400' loading='lazy'/>
+
+  </p>
+  </details>
+
+- [RustCast ![GitHub Repo Stars](https://img.shields.io/github/stars/unsecretised/rustcast) ![GitHub last commit](https://img.shields.io/github/last-commit/unsecretised/rustcast)](https://github.com/unsecretised/rustcast) - Blazingly fast, customisable multi tool, application launcher
+
+  <details>
+  <summary>More</summary>
+  <p>
+
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/rust-16.png' alt='Rust icon' title='Rust' height='16'/> 
+
+  **Links:** <a href='https://github.com/unsecretised/rustcast/releases/latest'><img src='https://img.shields.io/github/v/release/unsecretised/rustcast?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/unsecretised/rustcast'><img src='https://img.shields.io/github/stars/unsecretised/rustcast?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/unsecretised/rustcast' alt='License'/>
+
+  **Website:** [https://rustcast.umangsurana.com](https://rustcast.umangsurana.com)
+
+  **Screenshots:**
+
+  <img src='https://rustcast.umangsurana.com/rustcast-v0-5-0.png' width='400' loading='lazy'/>
 
   </p>
   </details>

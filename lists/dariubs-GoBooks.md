@@ -484,7 +484,7 @@ A developer's experience in golang.
 *Last published*: **2020**
 *Authors:* **Tom Steele, Chris Patten, Dan Kottmann**
 
-In Black Hat Go, you'll learn how to write powerful and effective penetration testing tools in Go, a language revered for its speed and scalability. Start off with an introduction to Go fundamentals like data types, control structures, and error handling; then, dive into the deep end of Go���s offensive capabilities.
+In Black Hat Go, you'll learn how to write powerful and effective penetration testing tools in Go, a language revered for its speed and scalability. Start off with an introduction to Go fundamentals like data types, control structures, and error handling; then, dive into the deep end of Go’s offensive capabilities.
 
 -----
 
