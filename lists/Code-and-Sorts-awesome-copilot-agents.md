@@ -4,7 +4,7 @@
 
 <!-- [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) -->
 <div align="center">
-  <img src="https://github.com/Code-and-Sorts/awesome-copilot-agents/raw/master/.refs/imgs/awesome-github-copilot.svg" alt="Awesome Copilot Instructions" height="300">
+  <img src="https://github.com/Code-and-Sorts/awesome-copilot-agents/raw/main/.refs/imgs/awesome-github-copilot.svg" alt="Awesome Copilot Instructions" height="300">
 </div>
 
 <h4 align="center">✨ A curated list of awesome GitHub instructions, prompt, skills and custom agent markdown files for enhancing your GitHub Copilot AI experience.</h4>
