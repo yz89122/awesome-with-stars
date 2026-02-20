@@ -12,7 +12,7 @@
     <a href="https://t.me/opensourcemacosapps"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-Channel-blue.svg" /></a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Total%20Apps-683-blue" alt="Total Apps"/>
+    <img src="https://img.shields.io/badge/Total%20Apps-686-blue" alt="Total Apps"/>
     <img src="https://img.shields.io/badge/Categories-49-green" alt="Categories"/>
     <img src="https://img.shields.io/badge/Last%20Updated-February%2020,%202026-orange" alt="Last Updated"/>
   </p>
@@ -44,9 +44,9 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 
 | Metric | Count |
 |--------|-------|
-| 📱 Total Applications | 683 |
+| 📱 Total Applications | 686 |
 | 📂 Categories | 49 |
-| 🔝 Top Languages | Swift: 302 • Objective-C: 137 • Javascript: 115 • C++: 58 • Typescript: 40 |
+| 🔝 Top Languages | Swift: 303 • Objective-C: 137 • Javascript: 115 • C++: 58 • Typescript: 41 |
 
 ## Languages
 
@@ -8592,7 +8592,22 @@ You can see in which language an app is written. Currently there are following l
 <div align="right"><a href="#contents">⬆️ Back to Top</a></div>
 
 <a id="productivity"></a>
-### ⏱️ Productivity (77)
+### ⏱️ Productivity (78)
+- [ActivityWatch ![GitHub Repo Stars](https://img.shields.io/github/stars/ActivityWatch/activitywatch) ![GitHub last commit](https://img.shields.io/github/last-commit/ActivityWatch/activitywatch)](https://github.com/ActivityWatch/activitywatch) - Open-source automated time tracker that tracks how you spend time on your devices.
+
+  **Badges:** <a href='https://github.com/ActivityWatch/activitywatch/releases/latest'><img src='https://img.shields.io/github/v/release/ActivityWatch/activitywatch?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/ActivityWatch/activitywatch'><img src='https://img.shields.io/github/stars/ActivityWatch/activitywatch?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/ActivityWatch/activitywatch' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/ActivityWatch/activitywatch' alt='License'/>
+
+  <details>
+  <summary>More</summary>
+  <p>
+
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/python-16.png' alt='Python icon' title='Python' height='16'/> <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/typescript-16.png' alt='TypeScript icon' title='TypeScript' height='16'/> 
+
+  **Website:** [https://activitywatch.net](https://activitywatch.net)
+
+  </p>
+  </details>
+
 - [Ao ![GitHub Repo Stars](https://img.shields.io/github/stars/klaudiosinani/ao) ![GitHub last commit](https://img.shields.io/github/last-commit/klaudiosinani/ao)](https://github.com/klaudiosinani/ao) - Elegant Microsoft To-Do desktop app.
 
   **Badges:** <a href='https://github.com/klaudiosinani/ao/releases/latest'><img src='https://img.shields.io/github/v/release/klaudiosinani/ao?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/klaudiosinani/ao'><img src='https://img.shields.io/github/stars/klaudiosinani/ao?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/klaudiosinani/ao' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/klaudiosinani/ao' alt='License'/>
@@ -11412,7 +11427,22 @@ You can see in which language an app is written. Currently there are following l
 <div align="right"><a href="#contents">⬆️ Back to Top</a></div>
 
 <a id="utilities"></a>
-### 🛠️ Utilities (110)
+### 🛠️ Utilities (112)
+- [ActivityWatch ![GitHub Repo Stars](https://img.shields.io/github/stars/ActivityWatch/activitywatch) ![GitHub last commit](https://img.shields.io/github/last-commit/ActivityWatch/activitywatch)](https://github.com/ActivityWatch/activitywatch) - Open-source automated time tracker that tracks how you spend time on your devices.
+
+  **Badges:** <a href='https://github.com/ActivityWatch/activitywatch/releases/latest'><img src='https://img.shields.io/github/v/release/ActivityWatch/activitywatch?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/ActivityWatch/activitywatch'><img src='https://img.shields.io/github/stars/ActivityWatch/activitywatch?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/ActivityWatch/activitywatch' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/ActivityWatch/activitywatch' alt='License'/>
+
+  <details>
+  <summary>More</summary>
+  <p>
+
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/python-16.png' alt='Python icon' title='Python' height='16'/> <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/typescript-16.png' alt='TypeScript icon' title='TypeScript' height='16'/> 
+
+  **Website:** [https://activitywatch.net](https://activitywatch.net)
+
+  </p>
+  </details>
+
 - [Android tool for Mac ![GitHub Repo Stars](https://img.shields.io/github/stars/mortenjust/androidtool-mac) ![GitHub last commit](https://img.shields.io/github/last-commit/mortenjust/androidtool-mac)](https://github.com/mortenjust/androidtool-mac) - One-click screenshots, video recordings, app installation for iOS and Android 
 
   **Badges:** <a href='https://github.com/mortenjust/androidtool-mac/releases/latest'><img src='https://img.shields.io/github/v/release/mortenjust/androidtool-mac?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/mortenjust/androidtool-mac'><img src='https://img.shields.io/github/stars/mortenjust/androidtool-mac?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/mortenjust/androidtool-mac' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/mortenjust/androidtool-mac' alt='License'/>
@@ -12642,6 +12672,21 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
+- [PeaZip ![GitHub Repo Stars](https://img.shields.io/github/stars/peazip/PeaZip) ![GitHub last commit](https://img.shields.io/github/last-commit/peazip/PeaZip)](https://github.com/peazip/PeaZip) - Free file archiver utility and open source file compression and encryption tool supporting 200+ formats.
+
+  **Badges:** <a href='https://github.com/peazip/PeaZip/releases/latest'><img src='https://img.shields.io/github/v/release/peazip/PeaZip?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/peazip/PeaZip'><img src='https://img.shields.io/github/stars/peazip/PeaZip?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/peazip/PeaZip' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/peazip/PeaZip' alt='License'/>
+
+  <details>
+  <summary>More</summary>
+  <p>
+
+  **Languages:** <code>pascal</code> 
+
+  **Website:** [https://peazip.github.io/](https://peazip.github.io/)
+
+  </p>
+  </details>
+
 - [PercentCalculator ![GitHub Repo Stars](https://img.shields.io/github/stars/cemolcay/PercentCalculator) ![GitHub last commit](https://img.shields.io/github/last-commit/cemolcay/PercentCalculator)](https://github.com/cemolcay/PercentCalculator) - A menu bar application that calculates percents. 
 
   **Badges:** <a href='https://github.com/cemolcay/PercentCalculator/releases/latest'><img src='https://img.shields.io/github/v/release/cemolcay/PercentCalculator?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/cemolcay/PercentCalculator'><img src='https://img.shields.io/github/stars/cemolcay/PercentCalculator?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/cemolcay/PercentCalculator' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/cemolcay/PercentCalculator' alt='License'/>
@@ -13282,7 +13327,7 @@ You can see in which language an app is written. Currently there are following l
 <div align="right"><a href="#contents">⬆️ Back to Top</a></div>
 
 <a id="vpn--proxy"></a>
-### 🔐 VPN & Proxy (7)
+### 🔐 VPN & Proxy (8)
 - [clashX ![GitHub Repo Stars](https://img.shields.io/github/stars/yichengchen/clashX) ![GitHub last commit](https://img.shields.io/github/last-commit/yichengchen/clashX)](https://github.com/yichengchen/clashX) - A rule based custom proxy with GUI for Mac base on clash. 
 
   **Badges:** <a href='https://github.com/yichengchen/clashX/releases/latest'><img src='https://img.shields.io/github/v/release/yichengchen/clashX?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/yichengchen/clashX'><img src='https://img.shields.io/github/stars/yichengchen/clashX?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/yichengchen/clashX' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/yichengchen/clashX' alt='License'/>
@@ -13382,6 +13427,19 @@ You can see in which language an app is written. Currently there are following l
   <img src='https://raw.githubusercontent.com/GeiserX/VPN-Bypass/main/assets/screenshot-dropdown.png' width='400' loading='lazy'/>
 
   <img src='https://raw.githubusercontent.com/GeiserX/VPN-Bypass/main/assets/screenshot-settings.png' width='400' loading='lazy'/>
+
+  </p>
+  </details>
+
+- [WireGuard](https://git.zx2c4.com/wireguard-apple/) - Fast, Modern, Secure VPN Tunnel.
+
+  <details>
+  <summary>More</summary>
+  <p>
+
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+
+  **Website:** [https://www.wireguard.com/](https://www.wireguard.com/)
 
   </p>
   </details>
