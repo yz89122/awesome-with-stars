@@ -279,7 +279,7 @@ Descriptions focus on structure, scope, and market role rather than time-depende
 * 🇧🇷 **[B3 (Brasil, Bolsa, Balcão)](https://www.b3.com.br)**
   The main exchange in Brazil and Latin America. Operates equities, derivatives, and clearing services.
 
-* ��🇳 **[Bombay Stock Exchange (BSE)](https://www.bseindia.com)**
+* 🇮🇳 **[Bombay Stock Exchange (BSE)](https://www.bseindia.com)**
   Asia’s oldest stock exchange. Major venue for Indian equities and indices.
 
 * 🇩🇪 **[Frankfurter Wertpapierbörse (Börse Frankfurt)](https://www.boerse-frankfurt.de)**
