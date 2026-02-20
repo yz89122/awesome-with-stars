@@ -748,6 +748,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [AutoFormsBuilderFilesGenerator ![GitHub Repo Stars](https://img.shields.io/github/stars/XHAlawa/AutoFormsBuilderFilesGenerator) ![GitHub last commit](https://img.shields.io/github/last-commit/XHAlawa/AutoFormsBuilderFilesGenerator)](https://github.com/XHAlawa/AutoFormsBuilderFilesGenerator) - Generate Angular forms from OpenAPI/Swagger with `ng-openapi-gen`, featuring strong typing, validation, and UI helpers.
 * [ngx-autogen ![GitHub Repo Stars](https://img.shields.io/github/stars/barcidev/ngx-autogen) ![GitHub last commit](https://img.shields.io/github/last-commit/barcidev/ngx-autogen)](https://github.com/barcidev/ngx-autogen) - A set of schematics that streamline Angular workflows by generating best‑practice code and reducing repetitive setup tasks.
 * [angular-momentum ![GitHub Repo Stars](https://img.shields.io/github/stars/TheGameKnave/angular-momentum) ![GitHub last commit](https://img.shields.io/github/last-commit/TheGameKnave/angular-momentum)](https://github.com/TheGameKnave/angular-momentum) - Spins up Angular projects in a monorepo quickly with minimal configuration.
+* [swaggular ![GitHub Repo Stars](https://img.shields.io/github/stars/AlexMA2/swaggular) ![GitHub last commit](https://img.shields.io/github/last-commit/AlexMA2/swaggular)](https://github.com/AlexMA2/swaggular) - A tool to generate Angular services and models from Swagger/OpenAPI specifications.
 
 ### Internationalization
 
