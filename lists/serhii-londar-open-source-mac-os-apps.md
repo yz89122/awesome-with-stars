@@ -46,7 +46,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 |--------|-------|
 | 📱 Total Applications | 688 |
 | 📂 Categories | 49 |
-| 🔝 Top Languages | Swift: 303 • Objective-C: 137 • Javascript: 115 • C++: 59 • Typescript: 41 |
+| 🔝 Top Languages | Swift: 303 • Objective-C: 137 • Javascript: 113 • C++: 59 • Typescript: 42 |
 
 ## Languages
 
@@ -54,26 +54,26 @@ You can see in which language an app is written. Currently there are following l
 
 | Language | Icon |
 |----------|------|
-| C | <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/c-16.png' alt='C' height='16'/> |
-| C++ | <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/cpp-16.png' alt='C++' height='16'/> |
-| C# | <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/csharp-16.png' alt='C#' height='16'/> |
-| Clojure | <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/clojure-16.png' alt='Clojure' height='16'/> |
-| CoffeeScript | <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/coffeescript-16.png' alt='CoffeeScript' height='16'/> |
-| CSS | <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/css-16.png' alt='CSS' height='16'/> |
-| Elm | <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/elm-16.png' alt='Elm' height='16'/> |
-| Go | <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/golang-16.png' alt='Go' height='16'/> |
-| Haskell | <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/haskell-16.png' alt='Haskell' height='16'/> |
-| Java | <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/java-16.png' alt='Java' height='16'/> |
-| JavaScript | <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-16.png' alt='JavaScript' height='16'/> |
-| Lua | <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/Lua-16.png' alt='Lua' height='16'/> |
-| Objective-C | <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-16.png' alt='Objective-C' height='16'/> |
-| Python | <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/python-16.png' alt='Python' height='16'/> |
-| Ruby | <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/ruby-16.png' alt='Ruby' height='16'/> |
-| Rust | <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/rust-16.png' alt='Rust' height='16'/> |
-| Shell | <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/shell-16.png' alt='Shell' height='16'/> |
-| Swift | <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift' height='16'/> |
-| TypeScript | <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/typescript-16.png' alt='TypeScript' height='16'/> |
-| Metal | <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/metal-16.png' alt='Metal' height='16'/> |
+| C | <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/c-64.png' alt='C' height='16'/> |
+| C++ | <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/cpp-64.png' alt='C++' height='16'/> |
+| C# | <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/csharp-64.png' alt='C#' height='16'/> |
+| Clojure | <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/clojure-64.png' alt='Clojure' height='16'/> |
+| CoffeeScript | <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/coffeescript-64.png' alt='CoffeeScript' height='16'/> |
+| CSS | <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/css-64.png' alt='CSS' height='16'/> |
+| Elm | <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/elm-64.png' alt='Elm' height='16'/> |
+| Go | <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/golang-64.png' alt='Go' height='16'/> |
+| Haskell | <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/haskell-64.png' alt='Haskell' height='16'/> |
+| Java | <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/java-64.png' alt='Java' height='16'/> |
+| JavaScript | <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-64.png' alt='JavaScript' height='16'/> |
+| Lua | <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/Lua-64.png' alt='Lua' height='16'/> |
+| Objective-C | <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-64.png' alt='Objective-C' height='16'/> |
+| Python | <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/python-64.png' alt='Python' height='16'/> |
+| Ruby | <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/ruby-64.png' alt='Ruby' height='16'/> |
+| Rust | <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/rust-64.png' alt='Rust' height='16'/> |
+| Shell | <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/shell-64.png' alt='Shell' height='16'/> |
+| Swift | <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift' height='16'/> |
+| TypeScript | <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/typescript-64.png' alt='TypeScript' height='16'/> |
+| Metal | <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/metal-64.png' alt='Metal' height='16'/> |
 
 ## Contents
 - [Audio](#audio)
@@ -136,7 +136,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-16.png' alt='Objective-C icon' title='Objective-C' height='16'/> <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/c-16.png' alt='C icon' title='C' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/c-64.png' alt='C icon' title='C' height='16'/> C 
 
   **Screenshots:**
 
@@ -153,7 +153,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/c-16.png' alt='C icon' title='C' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/c-64.png' alt='C icon' title='C' height='16'/> C 
 
   **Website:** [https://www.audacityteam.org/](https://www.audacityteam.org/)
 
@@ -172,7 +172,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Screenshots:**
 
@@ -189,7 +189,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Screenshots:**
 
@@ -212,7 +212,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-16.png' alt='Objective-C icon' title='Objective-C' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
 
   **Website:** [https://yoni.ninja/automute/](https://yoni.ninja/automute/)
 
@@ -233,7 +233,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/cpp-16.png' alt='C++ icon' title='C++' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++ 
 
   **Screenshots:**
 
@@ -250,7 +250,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/c-16.png' alt='C icon' title='C' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/c-64.png' alt='C icon' title='C' height='16'/> C 
 
   </p>
   </details>
@@ -263,7 +263,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-16.png' alt='JavaScript icon' title='JavaScript' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript 
 
   **Screenshots:**
 
@@ -286,7 +286,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/cpp-16.png' alt='C++ icon' title='C++' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++ 
 
   **Website:** [https://www.clementine-player.org/](https://www.clementine-player.org/)
 
@@ -309,7 +309,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-16.png' alt='Objective-C icon' title='Objective-C' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
 
   **Website:** [https://cogx.org/](https://cogx.org/)
 
@@ -324,7 +324,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/cpp-16.png' alt='C++ icon' title='C++' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++ 
 
   **Screenshots:**
 
@@ -343,7 +343,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/cpp-16.png' alt='C++ icon' title='C++' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++ 
 
   **Screenshots:**
 
@@ -360,7 +360,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-16.png' alt='Objective-C icon' title='Objective-C' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
 
   **Screenshots:**
 
@@ -377,7 +377,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Screenshots:**
 
@@ -400,7 +400,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-16.png' alt='JavaScript icon' title='JavaScript' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript 
 
   **Website:** [https://www.karaoke-eternal.com/](https://www.karaoke-eternal.com/)
 
@@ -419,7 +419,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-16.png' alt='Objective-C icon' title='Objective-C' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
 
   **Screenshots:**
 
@@ -436,7 +436,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-16.png' alt='JavaScript icon' title='JavaScript' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript 
 
   **Website:** [https://mifi.no/losslesscut/](https://mifi.no/losslesscut/)
 
@@ -455,7 +455,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-16.png' alt='JavaScript icon' title='JavaScript' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript 
 
   **Screenshots:**
 
@@ -476,7 +476,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-16.png' alt='Objective-C icon' title='Objective-C' height='16'/> <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Screenshots:**
 
@@ -497,7 +497,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Screenshots:**
 
@@ -520,7 +520,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-16.png' alt='Objective-C icon' title='Objective-C' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
 
   **Screenshots:**
 
@@ -537,7 +537,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/cpp-16.png' alt='C++ icon' title='C++' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++ 
 
   **Screenshots:**
 
@@ -560,7 +560,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/c-16.png' alt='C icon' title='C' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/c-64.png' alt='C icon' title='C' height='16'/> C 
 
   **Website:** [https://mpv.io](https://mpv.io)
 
@@ -579,7 +579,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   </p>
   </details>
@@ -592,7 +592,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Screenshots:**
 
@@ -609,7 +609,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Website:** [https://www.plugformac.com/](https://www.plugformac.com/)
 
@@ -628,7 +628,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/rust-16.png' alt='Rust icon' title='Rust' height='16'/> <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/typescript-16.png' alt='TypeScript icon' title='TypeScript' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript 
 
   **Screenshots:**
 
@@ -645,7 +645,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Website:** [https://billthefarmer.github.io/audiotools/](https://billthefarmer.github.io/audiotools/)
 
@@ -664,7 +664,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/c-16.png' alt='C icon' title='C' height='16'/> <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/cpp-16.png' alt='C++ icon' title='C++' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/c-64.png' alt='C icon' title='C' height='16'/> C <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++ 
 
   </p>
   </details>
@@ -677,7 +677,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-16.png' alt='Objective-C icon' title='Objective-C' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
 
   **Screenshots:**
 
@@ -694,7 +694,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-16.png' alt='Objective-C icon' title='Objective-C' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
 
   **Screenshots:**
 
@@ -711,7 +711,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Screenshots:**
 
@@ -728,7 +728,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-16.png' alt='Objective-C icon' title='Objective-C' height='16'/> <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Screenshots:**
 
@@ -745,7 +745,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-16.png' alt='JavaScript icon' title='JavaScript' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript 
 
   </p>
   </details>
@@ -758,7 +758,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/c-16.png' alt='C icon' title='C' height='16'/> <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/python-16.png' alt='Python icon' title='Python' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/c-64.png' alt='C icon' title='C' height='16'/> C <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python 
 
   **Screenshots:**
 
@@ -781,7 +781,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Screenshots:**
 
@@ -798,7 +798,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/rust-16.png' alt='Rust icon' title='Rust' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust 
 
   **Screenshots:**
 
@@ -819,7 +819,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Website:** [https://billthefarmer.github.io/ctuner/ ](https://billthefarmer.github.io/ctuner/ )
 
@@ -842,7 +842,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Screenshots:**
 
@@ -863,7 +863,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/golang-16.png' alt='Go icon' title='Go' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/golang-64.png' alt='Go icon' title='Go' height='16'/> Go 
 
   </p>
   </details>
@@ -874,7 +874,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/python-16.png' alt='Python icon' title='Python' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python 
 
   **Website:** [https://www.borgbase.com/](https://www.borgbase.com/)
 
@@ -889,7 +889,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/python-16.png' alt='Python icon' title='Python' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python 
 
   </p>
   </details>
@@ -902,7 +902,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/python-16.png' alt='Python icon' title='Python' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python 
 
   **Screenshots:**
 
@@ -919,7 +919,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   </p>
   </details>
@@ -932,7 +932,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/cpp-16.png' alt='C++ icon' title='C++' height='16'/> <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/c-16.png' alt='C icon' title='C' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++ <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/c-64.png' alt='C icon' title='C' height='16'/> C 
 
   </p>
   </details>
@@ -949,7 +949,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-16.png' alt='JavaScript icon' title='JavaScript' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript 
 
   **Screenshots:**
 
@@ -968,7 +968,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-16.png' alt='JavaScript icon' title='JavaScript' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript 
 
   </p>
   </details>
@@ -981,7 +981,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-16.png' alt='JavaScript icon' title='JavaScript' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript 
 
   </p>
   </details>
@@ -992,7 +992,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-16.png' alt='JavaScript icon' title='JavaScript' height='16'/> <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/cpp-16.png' alt='C++ icon' title='C++' height='16'/> <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/c-16.png' alt='C icon' title='C' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++ <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/c-64.png' alt='C icon' title='C' height='16'/> C 
 
   **Website:** [https://www.chromium.org/](https://www.chromium.org/)
 
@@ -1007,7 +1007,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   </p>
   </details>
@@ -1018,7 +1018,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-16.png' alt='JavaScript icon' title='JavaScript' height='16'/> <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/rust-16.png' alt='Rust icon' title='Rust' height='16'/> <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/cpp-16.png' alt='C++ icon' title='C++' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++ 
 
   **Website:** [https://www.mozilla.org/en-US/firefox/browsers/](https://www.mozilla.org/en-US/firefox/browsers/)
 
@@ -1033,7 +1033,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-16.png' alt='Objective-C icon' title='Objective-C' height='16'/> <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   </p>
   </details>
@@ -1046,7 +1046,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-16.png' alt='JavaScript icon' title='JavaScript' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript 
 
   **Website:** [https://minbrowser.org](https://minbrowser.org)
 
@@ -1061,7 +1061,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/cpp-16.png' alt='C++ icon' title='C++' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++ 
 
   **Screenshots:**
 
@@ -1078,7 +1078,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-16.png' alt='JavaScript icon' title='JavaScript' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript 
 
   **Screenshots:**
 
@@ -1101,7 +1101,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Website:** [https://sindresorhus.com/plash](https://sindresorhus.com/plash)
 
@@ -1120,7 +1120,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   </p>
   </details>
@@ -1133,7 +1133,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/c-16.png' alt='C icon' title='C' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/c-64.png' alt='C icon' title='C' height='16'/> C 
 
   </p>
   </details>
@@ -1150,7 +1150,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/c-16.png' alt='C icon' title='C' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/c-64.png' alt='C icon' title='C' height='16'/> C 
 
   **Website:** [https://adium.im/](https://adium.im/)
 
@@ -1169,7 +1169,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Website:** [https://beagle.im/](https://beagle.im/)
 
@@ -1188,7 +1188,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-16.png' alt='Objective-C icon' title='Objective-C' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
 
   **Screenshots:**
 
@@ -1205,7 +1205,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-16.png' alt='JavaScript icon' title='JavaScript' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript 
 
   **Screenshots:**
 
@@ -1222,7 +1222,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-16.png' alt='JavaScript icon' title='JavaScript' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript 
 
   </p>
   </details>
@@ -1235,7 +1235,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-16.png' alt='JavaScript icon' title='JavaScript' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript 
 
   **Screenshots:**
 
@@ -1252,7 +1252,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-16.png' alt='JavaScript icon' title='JavaScript' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript 
 
   **Screenshots:**
 
@@ -1269,7 +1269,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-16.png' alt='JavaScript icon' title='JavaScript' height='16'/> <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/css-16.png' alt='CSS icon' title='CSS' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/css-64.png' alt='CSS icon' title='CSS' height='16'/> CSS 
 
   **Screenshots:**
 
@@ -1286,7 +1286,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   </p>
   </details>
@@ -1299,7 +1299,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-16.png' alt='JavaScript icon' title='JavaScript' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript 
 
   **Website:** [https://www.rocket.chat/](https://www.rocket.chat/)
 
@@ -1314,7 +1314,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Screenshots:**
 
@@ -1331,7 +1331,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-16.png' alt='JavaScript icon' title='JavaScript' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript 
 
   </p>
   </details>
@@ -1344,7 +1344,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Screenshots:**
 
@@ -1361,7 +1361,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   </p>
   </details>
@@ -1374,7 +1374,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/cpp-16.png' alt='C++ icon' title='C++' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++ 
 
   **Screenshots:**
 
@@ -1391,7 +1391,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-16.png' alt='Objective-C icon' title='Objective-C' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
 
   **Screenshots:**
 
@@ -1412,7 +1412,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/cpp-16.png' alt='C++ icon' title='C++' height='16'/> <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-16.png' alt='JavaScript icon' title='JavaScript' height='16'/> <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/rust-16.png' alt='Rust icon' title='Rust' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++ <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust 
 
   **Website:** [https://www.thunderbird.net/en-US/](https://www.thunderbird.net/en-US/)
 
@@ -1435,7 +1435,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-16.png' alt='Objective-C icon' title='Objective-C' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
 
   </p>
   </details>
@@ -1448,7 +1448,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Screenshots:**
 
@@ -1469,7 +1469,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-16.png' alt='JavaScript icon' title='JavaScript' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript 
 
   </p>
   </details>
@@ -1486,7 +1486,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <code>C++</code> <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/python-16.png' alt='Python icon' title='Python' height='16'/> <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/shell-16.png' alt='Shell icon' title='Shell' height='16'/> 
+  **Languages:** <code>C++</code> <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/shell-64.png' alt='Shell icon' title='Shell' height='16'/> Shell 
 
   **Website:** [https://bitcoincore.org/](https://bitcoincore.org/)
 
@@ -1505,7 +1505,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Screenshots:**
 
@@ -1528,7 +1528,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/typescript-16.png' alt='TypeScript icon' title='TypeScript' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript 
 
   </p>
   </details>
@@ -1541,7 +1541,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-16.png' alt='JavaScript icon' title='JavaScript' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript 
 
   </p>
   </details>
@@ -1554,7 +1554,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Screenshots:**
 
@@ -1575,7 +1575,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-16.png' alt='JavaScript icon' title='JavaScript' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript 
 
   **Screenshots:**
 
@@ -1594,7 +1594,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-16.png' alt='JavaScript icon' title='JavaScript' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript 
 
   **Website:** [https://www.beekeeperstudio.io](https://www.beekeeperstudio.io)
 
@@ -1615,7 +1615,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/cpp-16.png' alt='C++ icon' title='C++' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++ 
 
   **Screenshots:**
 
@@ -1632,7 +1632,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/java-16.png' alt='Java icon' title='Java' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/java-64.png' alt='Java icon' title='Java' height='16'/> Java 
 
   **Screenshots:**
 
@@ -1655,7 +1655,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-16.png' alt='JavaScript icon' title='JavaScript' height='16'/> <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/typescript-16.png' alt='TypeScript icon' title='TypeScript' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript 
 
   **Website:** [https://dbgate.org](https://dbgate.org)
 
@@ -1680,7 +1680,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-16.png' alt='JavaScript icon' title='JavaScript' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript 
 
   **Screenshots:**
 
@@ -1697,7 +1697,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Screenshots:**
 
@@ -1714,7 +1714,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-16.png' alt='Objective-C icon' title='Objective-C' height='16'/> <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/c-16.png' alt='C icon' title='C' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/c-64.png' alt='C icon' title='C' height='16'/> C 
 
   </p>
   </details>
@@ -1727,7 +1727,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-16.png' alt='JavaScript icon' title='JavaScript' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript 
 
   **Screenshots:**
 
@@ -1748,7 +1748,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   </p>
   </details>
@@ -1761,7 +1761,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/cpp-16.png' alt='C++ icon' title='C++' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++ 
 
   **Screenshots:**
 
@@ -1778,7 +1778,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Screenshots:**
 
@@ -1795,7 +1795,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Screenshots:**
 
@@ -1812,7 +1812,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/typescript-16.png' alt='TypeScript icon' title='TypeScript' height='16'/> <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Screenshots:**
 
@@ -1829,7 +1829,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/cpp-16.png' alt='C++ icon' title='C++' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++ 
 
   **Screenshots:**
 
@@ -1846,7 +1846,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-16.png' alt='Objective-C icon' title='Objective-C' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
 
   **Website:** [https://sequel-ace.com/](https://sequel-ace.com/)
 
@@ -1861,7 +1861,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-16.png' alt='Objective-C icon' title='Objective-C' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
 
   **Screenshots:**
 
@@ -1880,7 +1880,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/typescript-16.png' alt='TypeScript icon' title='TypeScript' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript 
 
   **Website:** [https://sqlectron.github.io/](https://sqlectron.github.io/)
 
@@ -1894,7 +1894,7 @@ You can see in which language an app is written. Currently there are following l
 <div align="right"><a href="#contents">⬆️ Back to Top</a></div>
 
 <a id="development"></a>
-### 👨‍💻 Development (15)
+### 👨‍💻 Development (16)
 - [Apache Netbeans ![GitHub Repo Stars](https://img.shields.io/github/stars/apache/netbeans) ![GitHub last commit](https://img.shields.io/github/last-commit/apache/netbeans)](https://github.com/apache/netbeans) - Apache NetBeans is an IDE, Tooling Platform and Application Framework suitable for development in Java, JavaScript, PHP, HTML5, CSS, and more.
 
   **Badges:** <a href='https://github.com/apache/netbeans/releases/latest'><img src='https://img.shields.io/github/v/release/apache/netbeans?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/apache/netbeans'><img src='https://img.shields.io/github/stars/apache/netbeans?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/apache/netbeans' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/apache/netbeans' alt='License'/>
@@ -1903,7 +1903,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/java-16.png' alt='Java icon' title='Java' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/java-64.png' alt='Java icon' title='Java' height='16'/> Java 
 
   **Website:** [https://netbeans.apache.org/](https://netbeans.apache.org/)
 
@@ -1924,7 +1924,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-16.png' alt='JavaScript icon' title='JavaScript' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript 
 
   **Website:** [https://brackets.io/](https://brackets.io/)
 
@@ -1943,7 +1943,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/cpp-16.png' alt='C++ icon' title='C++' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++ 
 
   **Website:** [https://GetClipboard.app](https://GetClipboard.app)
 
@@ -1964,7 +1964,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/csharp-16.png' alt='C# icon' title='C#' height='16'/> <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-16.png' alt='Objective-C icon' title='Objective-C' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/csharp-64.png' alt='C# icon' title='C#' height='16'/> C# <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
 
   **Website:** [https://imazing.com/colorset](https://imazing.com/colorset)
 
@@ -1983,13 +1983,28 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Screenshots:**
 
   <img src='https://raw.githubusercontent.com/csprasad/DevLint/main/.github/images/App_screen_light.png' width='400' loading='lazy'/>
 
   <img src='https://raw.githubusercontent.com/csprasad/DevLint/main/.github/images/App_screen_light.png' width='400' loading='lazy'/>
+
+  </p>
+  </details>
+
+- [Eclipse ![GitHub Repo Stars](https://img.shields.io/github/stars/eclipse-platform/eclipse.platform) ![GitHub last commit](https://img.shields.io/github/last-commit/eclipse-platform/eclipse.platform)](https://github.com/eclipse-platform/eclipse.platform) - Eclipse is an open-source integrated development environment (IDE) used in computer programming, featuring a base workspace and an extensible plug-in system for customizing the environment.
+
+  **Badges:** <a href='https://github.com/eclipse-platform/eclipse.platform/releases/latest'><img src='https://img.shields.io/github/v/release/eclipse-platform/eclipse.platform?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/eclipse-platform/eclipse.platform'><img src='https://img.shields.io/github/stars/eclipse-platform/eclipse.platform?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/eclipse-platform/eclipse.platform' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/eclipse-platform/eclipse.platform' alt='License'/>
+
+  <details>
+  <summary>More</summary>
+  <p>
+
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/java-64.png' alt='Java icon' title='Java' height='16'/> Java 
+
+  **Website:** [https://www.eclipse.org](https://www.eclipse.org)
 
   </p>
   </details>
@@ -2002,7 +2017,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/cpp-16.png' alt='C++ icon' title='C++' height='16'/> <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/c-16.png' alt='C icon' title='C' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++ <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/c-64.png' alt='C icon' title='C' height='16'/> C 
 
   **Website:** [https://gitahead.github.io/gitahead.com/](https://gitahead.github.io/gitahead.com/)
 
@@ -2017,7 +2032,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-16.png' alt='JavaScript icon' title='JavaScript' height='16'/> <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/typescript-16.png' alt='TypeScript icon' title='TypeScript' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript 
 
   **Website:** [https://gridfy.astroon.pro/](https://gridfy.astroon.pro/)
 
@@ -2040,7 +2055,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Website:** [https://kaphacius.github.io/just-tags/](https://kaphacius.github.io/just-tags/)
 
@@ -2059,7 +2074,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/cpp-16.png' alt='C++ icon' title='C++' height='16'/> <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/c-16.png' alt='C icon' title='C' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++ <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/c-64.png' alt='C icon' title='C' height='16'/> C 
 
   **Website:** [https://www.kicad.org/](https://www.kicad.org/)
 
@@ -2068,13 +2083,13 @@ You can see in which language an app is written. Currently there are following l
 
 - [Layout Designer for UICollectionView ![GitHub Repo Stars](https://img.shields.io/github/stars/amirdew/CollectionViewPagingLayout) ![GitHub last commit](https://img.shields.io/github/last-commit/amirdew/CollectionViewPagingLayout)](https://github.com/amirdew/CollectionViewPagingLayout) - A simple but powerful tool that helps you make complex layouts for UICollectionView.
 
-  **Badges:** <a href='https://apps.apple.com/nl/app/layout-designer/id1507238011?l=en&mt=12'><img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/app_store-16.png' alt='App Store' title='Download on the Mac App Store' height='16'/> App Store</a> &nbsp; <a href='https://github.com/amirdew/CollectionViewPagingLayout/releases/latest'><img src='https://img.shields.io/github/v/release/amirdew/CollectionViewPagingLayout?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/amirdew/CollectionViewPagingLayout'><img src='https://img.shields.io/github/stars/amirdew/CollectionViewPagingLayout?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/amirdew/CollectionViewPagingLayout' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/amirdew/CollectionViewPagingLayout' alt='License'/>
+  **Badges:** <a href='https://apps.apple.com/nl/app/layout-designer/id1507238011?l=en&mt=12'><img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/app_store-64.png' alt='App Store' title='Download on the Mac App Store' height='16'/> App Store</a> &nbsp; <a href='https://github.com/amirdew/CollectionViewPagingLayout/releases/latest'><img src='https://img.shields.io/github/v/release/amirdew/CollectionViewPagingLayout?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/amirdew/CollectionViewPagingLayout'><img src='https://img.shields.io/github/stars/amirdew/CollectionViewPagingLayout?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/amirdew/CollectionViewPagingLayout' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/amirdew/CollectionViewPagingLayout' alt='License'/>
 
   <details>
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Website:** [https://apps.apple.com/nl/app/layout-designer/id1507238011?l=en&mt=12](https://apps.apple.com/nl/app/layout-designer/id1507238011?l=en&mt=12)
 
@@ -2093,7 +2108,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Website:** [https://schlaubischlump.github.io/LocationSimulator](https://schlaubischlump.github.io/LocationSimulator)
 
@@ -2112,7 +2127,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/typescript-16.png' alt='TypeScript icon' title='TypeScript' height='16'/> <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/rust-16.png' alt='Rust icon' title='Rust' height='16'/> <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/python-16.png' alt='Python icon' title='Python' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python 
 
   **Website:** [https://github.com/Mcourtyard/m-courtyard ![GitHub Repo Stars](https://img.shields.io/github/stars/Mcourtyard/m-courtyard) ![GitHub last commit](https://img.shields.io/github/last-commit/Mcourtyard/m-courtyard)](https://github.com/Mcourtyard/m-courtyard)
 
@@ -2135,7 +2150,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Website:** [https://sindresorhus.com/pasteboard-viewer](https://sindresorhus.com/pasteboard-viewer)
 
@@ -2154,7 +2169,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Screenshots:**
 
@@ -2171,7 +2186,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-16.png' alt='Objective-C icon' title='Objective-C' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
 
   **Website:** [https://mac.getutm.app/](https://mac.getutm.app/)
 
@@ -2194,7 +2209,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-16.png' alt='Objective-C icon' title='Objective-C' height='16'/> <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/c-16.png' alt='C icon' title='C' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/c-64.png' alt='C icon' title='C' height='16'/> C 
 
   </p>
   </details>
@@ -2207,7 +2222,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/rust-16.png' alt='Rust icon' title='Rust' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust 
 
   **Website:** [https://gitrebasetool.mitmaro.ca/](https://gitrebasetool.mitmaro.ca/)
 
@@ -2226,7 +2241,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/cpp-16.png' alt='C++ icon' title='C++' height='16'/> <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/c-16.png' alt='C icon' title='C' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++ <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/c-64.png' alt='C icon' title='C' height='16'/> C 
 
   **Website:** [https://gitahead.github.io/gitahead.com/](https://gitahead.github.io/gitahead.com/)
 
@@ -2241,7 +2256,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   </p>
   </details>
@@ -2254,7 +2269,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-16.png' alt='Objective-C icon' title='Objective-C' height='16'/> <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Screenshots:**
 
@@ -2277,7 +2292,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Screenshots:**
 
@@ -2294,7 +2309,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/typescript-16.png' alt='TypeScript icon' title='TypeScript' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript 
 
   **Screenshots:**
 
@@ -2311,7 +2326,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Screenshots:**
 
@@ -2328,7 +2343,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   </p>
   </details>
@@ -2341,7 +2356,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-16.png' alt='JavaScript icon' title='JavaScript' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript 
 
   **Website:** [https://www.gitify.io/](https://www.gitify.io/)
 
@@ -2360,7 +2375,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Screenshots:**
 
@@ -2377,7 +2392,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-16.png' alt='Objective-C icon' title='Objective-C' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
 
   **Screenshots:**
 
@@ -2400,7 +2415,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-16.png' alt='Objective-C icon' title='Objective-C' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
 
   </p>
   </details>
@@ -2413,7 +2428,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   </p>
   </details>
@@ -2426,7 +2441,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/shell-16.png' alt='Shell icon' title='Shell' height='16'/> <code>applescript</code> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/shell-64.png' alt='Shell icon' title='Shell' height='16'/> Shell <code>applescript</code> 
 
   </p>
   </details>
@@ -2439,7 +2454,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-16.png' alt='JavaScript icon' title='JavaScript' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript 
 
   **Screenshots:**
 
@@ -2456,7 +2471,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Screenshots:**
 
@@ -2473,7 +2488,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Screenshots:**
 
@@ -2492,7 +2507,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Screenshots:**
 
@@ -2509,7 +2524,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Screenshots:**
 
@@ -2530,7 +2545,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   </p>
   </details>
@@ -2543,7 +2558,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   </p>
   </details>
@@ -2556,7 +2571,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Screenshots:**
 
@@ -2573,7 +2588,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Screenshots:**
 
@@ -2594,7 +2609,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-16.png' alt='JavaScript icon' title='JavaScript' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript 
 
   **Website:** [https://boop.okat.best](https://boop.okat.best)
 
@@ -2613,7 +2628,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Screenshots:**
 
@@ -2630,7 +2645,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-16.png' alt='Objective-C icon' title='Objective-C' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
 
   </p>
   </details>
@@ -2643,7 +2658,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-16.png' alt='JavaScript icon' title='JavaScript' height='16'/> <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/typescript-16.png' alt='TypeScript icon' title='TypeScript' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript 
 
   **Screenshots:**
 
@@ -2662,7 +2677,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-16.png' alt='JavaScript icon' title='JavaScript' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript 
 
   **Screenshots:**
 
@@ -2680,7 +2695,7 @@ You can see in which language an app is written. Currently there are following l
 <div align="right"><a href="#contents">⬆️ Back to Top</a></div>
 
 <a id="web-development"></a>
-#### 🌍 Web Development (15)
+#### 🌍 Web Development (14)
 - [aws-s3-uploader ![GitHub Repo Stars](https://img.shields.io/github/stars/RafalWilinski/s3-uploader) ![GitHub last commit](https://img.shields.io/github/last-commit/RafalWilinski/s3-uploader)](https://github.com/RafalWilinski/s3-uploader) - Simple macOS app for uploading files to Amazon Web Services. 
 
   **Badges:** <a href='https://github.com/RafalWilinski/s3-uploader/releases/latest'><img src='https://img.shields.io/github/v/release/RafalWilinski/s3-uploader?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/RafalWilinski/s3-uploader'><img src='https://img.shields.io/github/stars/RafalWilinski/s3-uploader?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/RafalWilinski/s3-uploader' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/RafalWilinski/s3-uploader' alt='License'/>
@@ -2689,7 +2704,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-16.png' alt='JavaScript icon' title='JavaScript' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript 
 
   **Screenshots:**
 
@@ -2706,7 +2721,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Screenshots:**
 
@@ -2723,7 +2738,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-16.png' alt='Objective-C icon' title='Objective-C' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
 
   **Screenshots:**
 
@@ -2740,7 +2755,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/typescript-16.png' alt='TypeScript icon' title='TypeScript' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript 
 
   **Website:** [https://httptoolkit.com/](https://httptoolkit.com/)
 
@@ -2763,7 +2778,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-16.png' alt='JavaScript icon' title='JavaScript' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript 
 
   **Screenshots:**
 
@@ -2780,7 +2795,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   </p>
   </details>
@@ -2793,7 +2808,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Screenshots:**
 
@@ -2810,7 +2825,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Screenshots:**
 
@@ -2827,7 +2842,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   </p>
   </details>
@@ -2840,24 +2855,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
-
-  </p>
-  </details>
-
-- [ndm ![GitHub Repo Stars](https://img.shields.io/github/stars/720kb/ndm) ![GitHub last commit](https://img.shields.io/github/last-commit/720kb/ndm)](https://github.com/720kb/ndm) - Npm desktop GUI. 
-
-  **Badges:** <a href='https://github.com/720kb/ndm/releases/latest'><img src='https://img.shields.io/github/v/release/720kb/ndm?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/720kb/ndm'><img src='https://img.shields.io/github/stars/720kb/ndm?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/720kb/ndm' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/720kb/ndm' alt='License'/>
-
-  <details>
-  <summary>More</summary>
-  <p>
-
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-16.png' alt='JavaScript icon' title='JavaScript' height='16'/> 
-
-  **Screenshots:**
-
-  <img src='https://i.imgur.com/6KL3pt7.png' width='400' loading='lazy'/>
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   </p>
   </details>
@@ -2870,7 +2868,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   </p>
   </details>
@@ -2883,7 +2881,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-16.png' alt='JavaScript icon' title='JavaScript' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript 
 
   **Website:** [https://requestly.com](https://requestly.com)
 
@@ -2904,7 +2902,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Website:** [https://simplelocalize.io](https://simplelocalize.io)
 
@@ -2919,7 +2917,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Screenshots:**
 
@@ -2940,7 +2938,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-16.png' alt='Objective-C icon' title='Objective-C' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
 
   **Screenshots:**
 
@@ -2961,7 +2959,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Screenshots:**
 
@@ -2978,7 +2976,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Screenshots:**
 
@@ -2997,7 +2995,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-16.png' alt='Objective-C icon' title='Objective-C' height='16'/> <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Screenshots:**
 
@@ -3018,7 +3016,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   </p>
   </details>
@@ -3031,7 +3029,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Screenshots:**
 
@@ -3052,7 +3050,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   </p>
   </details>
@@ -3065,7 +3063,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-16.png' alt='Objective-C icon' title='Objective-C' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
 
   **Screenshots:**
 
@@ -3086,7 +3084,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Screenshots:**
 
@@ -3105,7 +3103,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Screenshots:**
 
@@ -3128,20 +3126,20 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-16.png' alt='Objective-C icon' title='Objective-C' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
 
   </p>
   </details>
 
 - [Clendar ![GitHub Repo Stars](https://img.shields.io/github/stars/vinhnx/Clendar) ![GitHub last commit](https://img.shields.io/github/last-commit/vinhnx/Clendar)](https://github.com/vinhnx/Clendar) - Clendar is an universal calendar app. Written in SwiftUI.
 
-  **Badges:** <a href='https://apps.apple.com/us/app/clendar-a-calendar-app/id1548102041'><img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/app_store-16.png' alt='App Store' title='Download on the Mac App Store' height='16'/> App Store</a> &nbsp; <a href='https://github.com/vinhnx/Clendar/releases/latest'><img src='https://img.shields.io/github/v/release/vinhnx/Clendar?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/vinhnx/Clendar'><img src='https://img.shields.io/github/stars/vinhnx/Clendar?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/vinhnx/Clendar' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/vinhnx/Clendar' alt='License'/>
+  **Badges:** <a href='https://apps.apple.com/us/app/clendar-a-calendar-app/id1548102041'><img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/app_store-64.png' alt='App Store' title='Download on the Mac App Store' height='16'/> App Store</a> &nbsp; <a href='https://github.com/vinhnx/Clendar/releases/latest'><img src='https://img.shields.io/github/v/release/vinhnx/Clendar?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/vinhnx/Clendar'><img src='https://img.shields.io/github/stars/vinhnx/Clendar?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/vinhnx/Clendar' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/vinhnx/Clendar' alt='License'/>
 
   <details>
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Website:** [https://apps.apple.com/us/app/clendar-a-calendar-app/id1548102041](https://apps.apple.com/us/app/clendar-a-calendar-app/id1548102041)
 
@@ -3162,7 +3160,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-16.png' alt='Objective-C icon' title='Objective-C' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
 
   **Screenshots:**
 
@@ -3185,7 +3183,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Website:** [https://coronatracker.samabox.com/](https://coronatracker.samabox.com/)
 
@@ -3206,7 +3204,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Screenshots:**
 
@@ -3225,7 +3223,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Screenshots:**
 
@@ -3242,7 +3240,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-16.png' alt='JavaScript icon' title='JavaScript' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript 
 
   **Screenshots:**
 
@@ -3261,7 +3259,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Screenshots:**
 
@@ -3272,13 +3270,13 @@ You can see in which language an app is written. Currently there are following l
 
 - [Iconology ![GitHub Repo Stars](https://img.shields.io/github/stars/liamrosenfeld/Iconology) ![GitHub last commit](https://img.shields.io/github/last-commit/liamrosenfeld/Iconology)](https://github.com/liamrosenfeld/Iconology) - Edit icons and then export to Xcode, icns, ico, favicon, macOS iconset, or a custom collection. 
 
-  **Badges:** <a href='https://apps.apple.com/us/app/iconology/id1463452867'><img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/app_store-16.png' alt='App Store' title='Download on the Mac App Store' height='16'/> App Store</a> &nbsp; <a href='https://github.com/liamrosenfeld/Iconology/releases/latest'><img src='https://img.shields.io/github/v/release/liamrosenfeld/Iconology?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/liamrosenfeld/Iconology'><img src='https://img.shields.io/github/stars/liamrosenfeld/Iconology?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/liamrosenfeld/Iconology' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/liamrosenfeld/Iconology' alt='License'/>
+  **Badges:** <a href='https://apps.apple.com/us/app/iconology/id1463452867'><img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/app_store-64.png' alt='App Store' title='Download on the Mac App Store' height='16'/> App Store</a> &nbsp; <a href='https://github.com/liamrosenfeld/Iconology/releases/latest'><img src='https://img.shields.io/github/v/release/liamrosenfeld/Iconology?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/liamrosenfeld/Iconology'><img src='https://img.shields.io/github/stars/liamrosenfeld/Iconology?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/liamrosenfeld/Iconology' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/liamrosenfeld/Iconology' alt='License'/>
 
   <details>
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Website:** [https://apps.apple.com/us/app/iconology/id1463452867](https://apps.apple.com/us/app/iconology/id1463452867)
 
@@ -3297,7 +3295,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-16.png' alt='Objective-C icon' title='Objective-C' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
 
   </p>
   </details>
@@ -3310,7 +3308,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-16.png' alt='Objective-C icon' title='Objective-C' height='16'/> <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   </p>
   </details>
@@ -3323,7 +3321,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Website:** [https://inputsource.pro](https://inputsource.pro)
 
@@ -3338,7 +3336,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-16.png' alt='Objective-C icon' title='Objective-C' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
 
   **Screenshots:**
 
@@ -3357,7 +3355,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-16.png' alt='Objective-C icon' title='Objective-C' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
 
   </p>
   </details>
@@ -3370,7 +3368,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-16.png' alt='Objective-C icon' title='Objective-C' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
 
   **Screenshots:**
 
@@ -3387,7 +3385,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Screenshots:**
 
@@ -3404,7 +3402,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   </p>
   </details>
@@ -3417,7 +3415,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   </p>
   </details>
@@ -3430,7 +3428,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   </p>
   </details>
@@ -3443,7 +3441,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Website:** [https://schlaubischlump.github.io/LocationSimulator](https://schlaubischlump.github.io/LocationSimulator)
 
@@ -3462,7 +3460,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Screenshots:**
 
@@ -3479,7 +3477,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Screenshots:**
 
@@ -3496,7 +3494,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Screenshots:**
 
@@ -3515,7 +3513,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-16.png' alt='Objective-C icon' title='Objective-C' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
 
   **Screenshots:**
 
@@ -3532,7 +3530,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-16.png' alt='JavaScript icon' title='JavaScript' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript 
 
   **Screenshots:**
 
@@ -3555,7 +3553,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-16.png' alt='Objective-C icon' title='Objective-C' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
 
   **Screenshots:**
 
@@ -3572,7 +3570,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   </p>
   </details>
@@ -3585,7 +3583,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-16.png' alt='Objective-C icon' title='Objective-C' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
 
   **Screenshots:**
 
@@ -3602,7 +3600,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Screenshots:**
 
@@ -3621,7 +3619,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   </p>
   </details>
@@ -3634,7 +3632,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   </p>
   </details>
@@ -3647,7 +3645,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Screenshots:**
 
@@ -3670,7 +3668,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Screenshots:**
 
@@ -3687,7 +3685,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-16.png' alt='Objective-C icon' title='Objective-C' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
 
   </p>
   </details>
@@ -3704,7 +3702,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   </p>
   </details>
@@ -3717,7 +3715,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Website:** [https://appfair.app](https://appfair.app)
 
@@ -3740,7 +3738,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Website:** [https://aerolite.dev/applite](https://aerolite.dev/applite)
 
@@ -3761,7 +3759,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/java-16.png' alt='Java icon' title='Java' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/java-64.png' alt='Java icon' title='Java' height='16'/> Java 
 
   **Website:** [https://subhra74.github.io/xdm/](https://subhra74.github.io/xdm/)
 
@@ -3789,7 +3787,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   </p>
   </details>
@@ -3802,7 +3800,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-16.png' alt='JavaScript icon' title='JavaScript' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript 
 
   **Website:** [https://motrix.app/](https://motrix.app/)
 
@@ -3827,7 +3825,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-16.png' alt='Objective-C icon' title='Objective-C' height='16'/> <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Screenshots:**
 
@@ -3846,7 +3844,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-16.png' alt='JavaScript icon' title='JavaScript' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript 
 
   </p>
   </details>
@@ -3859,7 +3857,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Screenshots:**
 
@@ -3880,7 +3878,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Website:** [https://auroraeditor.com](https://auroraeditor.com)
 
@@ -3899,7 +3897,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Website:** [https://www.chimehq.com/](https://www.chimehq.com/)
 
@@ -3918,7 +3916,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Website:** [https://www.codeedit.app/](https://www.codeedit.app/)
 
@@ -3937,7 +3935,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Screenshots:**
 
@@ -3956,7 +3954,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/c-16.png' alt='C icon' title='C' height='16'/> <code>c++</code> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/c-64.png' alt='C icon' title='C' height='16'/> C <code>c++</code> 
 
   **Website:** [https://www.geany.org/](https://www.geany.org/)
 
@@ -4000,7 +3998,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/rust-16.png' alt='Rust icon' title='Rust' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust 
 
   **Website:** [https://zed.dev](https://zed.dev)
 
@@ -4017,13 +4015,13 @@ You can see in which language an app is written. Currently there are following l
 #### 📊 CSV (1)
 - [TableTool ![GitHub Repo Stars](https://img.shields.io/github/stars/jakob/TableTool) ![GitHub last commit](https://img.shields.io/github/last-commit/jakob/TableTool)](https://github.com/jakob/TableTool) - A simple CSV editor for macOS.
 
-  **Badges:** <a href='https://apps.apple.com/app/table-tool/id1122008420'><img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/app_store-16.png' alt='App Store' title='Download on the Mac App Store' height='16'/> App Store</a> &nbsp; <a href='https://github.com/jakob/TableTool/releases/latest'><img src='https://img.shields.io/github/v/release/jakob/TableTool?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/jakob/TableTool'><img src='https://img.shields.io/github/stars/jakob/TableTool?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/jakob/TableTool' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/jakob/TableTool' alt='License'/>
+  **Badges:** <a href='https://apps.apple.com/app/table-tool/id1122008420'><img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/app_store-64.png' alt='App Store' title='Download on the Mac App Store' height='16'/> App Store</a> &nbsp; <a href='https://github.com/jakob/TableTool/releases/latest'><img src='https://img.shields.io/github/v/release/jakob/TableTool?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/jakob/TableTool'><img src='https://img.shields.io/github/stars/jakob/TableTool?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/jakob/TableTool' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/jakob/TableTool' alt='License'/>
 
   <details>
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-16.png' alt='Objective-C icon' title='Objective-C' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
 
   **Website:** [https://apps.apple.com/app/table-tool/id1122008420](https://apps.apple.com/app/table-tool/id1122008420)
 
@@ -4042,7 +4040,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/typescript-16.png' alt='TypeScript icon' title='TypeScript' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript 
 
   **Screenshots:**
 
@@ -4059,7 +4057,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-16.png' alt='JavaScript icon' title='JavaScript' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript 
 
   **Screenshots:**
 
@@ -4082,7 +4080,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/elm-16.png' alt='Elm icon' title='Elm' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/elm-64.png' alt='Elm icon' title='Elm' height='16'/> Elm 
 
   **Screenshots:**
 
@@ -4099,7 +4097,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-16.png' alt='JavaScript icon' title='JavaScript' height='16'/> <code>vue</code> <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/css-16.png' alt='CSS icon' title='CSS' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript <code>vue</code> <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/css-64.png' alt='CSS icon' title='CSS' height='16'/> CSS 
 
   **Website:** [https://uselinked.com](https://uselinked.com)
 
@@ -4120,7 +4118,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-16.png' alt='Objective-C icon' title='Objective-C' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
 
   </p>
   </details>
@@ -4133,7 +4131,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-16.png' alt='JavaScript icon' title='JavaScript' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript 
 
   </p>
   </details>
@@ -4146,7 +4144,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/typescript-16.png' alt='TypeScript icon' title='TypeScript' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript 
 
   **Website:** [https://markedit.app/](https://markedit.app/)
 
@@ -4194,7 +4192,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Website:** [https://notenik.app](https://notenik.app)
 
@@ -4213,7 +4211,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-16.png' alt='JavaScript icon' title='JavaScript' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript 
 
   **Website:** [https://obsidian.md/](https://obsidian.md/)
 
@@ -4232,7 +4230,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Screenshots:**
 
@@ -4253,7 +4251,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/cpp-16.png' alt='C++ icon' title='C++' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++ 
 
   **Website:** [https://www.qownnotes.org/](https://www.qownnotes.org/)
 
@@ -4272,7 +4270,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-16.png' alt='JavaScript icon' title='JavaScript' height='16'/> <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/typescript-16.png' alt='TypeScript icon' title='TypeScript' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript 
 
   **Website:** [https://www.zettlr.com/](https://www.zettlr.com/)
 
@@ -4293,7 +4291,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-16.png' alt='Objective-C icon' title='Objective-C' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
 
   **Website:** [https://bibdesk.sourceforge.io](https://bibdesk.sourceforge.io)
 
@@ -4314,7 +4312,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-16.png' alt='JavaScript icon' title='JavaScript' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript 
 
   **Screenshots:**
 
@@ -4339,7 +4337,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Website:** [https://auroraeditor.com](https://auroraeditor.com)
 
@@ -4358,7 +4356,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Screenshots:**
 
@@ -4375,7 +4373,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/c-16.png' alt='C icon' title='C' height='16'/> <code>c++</code> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/c-64.png' alt='C icon' title='C' height='16'/> C <code>c++</code> 
 
   **Website:** [https://www.geany.org/](https://www.geany.org/)
 
@@ -4394,7 +4392,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/c-16.png' alt='C icon' title='C' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/c-64.png' alt='C icon' title='C' height='16'/> C 
 
   </p>
   </details>
@@ -4407,7 +4405,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/golang-16.png' alt='Go icon' title='Go' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/golang-64.png' alt='Go icon' title='Go' height='16'/> Go 
 
   **Website:** [https://micro-editor.github.io](https://micro-editor.github.io)
 
@@ -4457,7 +4455,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-16.png' alt='JavaScript icon' title='JavaScript' height='16'/> <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/typescript-16.png' alt='TypeScript icon' title='TypeScript' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript 
 
   **Website:** [https://notesnook.com](https://notesnook.com)
 
@@ -4476,7 +4474,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Screenshots:**
 
@@ -4495,7 +4493,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/typescript-16.png' alt='TypeScript icon' title='TypeScript' height='16'/> <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Screenshots:**
 
@@ -4512,7 +4510,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-16.png' alt='Objective-C icon' title='Objective-C' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
 
   **Screenshots:**
 
@@ -4531,7 +4529,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-16.png' alt='Objective-C icon' title='Objective-C' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
 
   **Screenshots:**
 
@@ -4548,7 +4546,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-16.png' alt='Objective-C icon' title='Objective-C' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
 
   **Website:** [https://codingfriends.github.io/Tincta/](https://codingfriends.github.io/Tincta/)
 
@@ -4563,7 +4561,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   </p>
   </details>
@@ -4580,7 +4578,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-16.png' alt='JavaScript icon' title='JavaScript' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript 
 
   **Website:** [https://adguard.com/en/welcome.html](https://adguard.com/en/welcome.html)
 
@@ -4599,7 +4597,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Screenshots:**
 
@@ -4616,7 +4614,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Website:** [https://florian.codes/projects/is-it-private/](https://florian.codes/projects/is-it-private/)
 
@@ -4635,7 +4633,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/c-16.png' alt='C icon' title='C' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/c-64.png' alt='C icon' title='C' height='16'/> C 
 
   **Screenshots:**
 
@@ -4652,7 +4650,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Website:** [https://nef.bow-swift.io/](https://nef.bow-swift.io/)
 
@@ -4673,7 +4671,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-16.png' alt='JavaScript icon' title='JavaScript' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript 
 
   **Screenshots:**
 
@@ -4690,7 +4688,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Screenshots:**
 
@@ -4711,7 +4709,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-16.png' alt='JavaScript icon' title='JavaScript' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript 
 
   </p>
   </details>
@@ -4724,7 +4722,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   </p>
   </details>
@@ -4737,7 +4735,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Screenshots:**
 
@@ -4754,7 +4752,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Website:** [https://jintin.github.io/Swimat/](https://jintin.github.io/Swimat/)
 
@@ -4773,7 +4771,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Screenshots:**
 
@@ -4790,7 +4788,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Screenshots:**
 
@@ -4807,7 +4805,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Screenshots:**
 
@@ -4830,7 +4828,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-16.png' alt='Objective-C icon' title='Objective-C' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
 
   </p>
   </details>
@@ -4843,7 +4841,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Screenshots:**
 
@@ -4862,7 +4860,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/cpp-16.png' alt='C++ icon' title='C++' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++ 
 
   </p>
   </details>
@@ -4875,7 +4873,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-16.png' alt='Objective-C icon' title='Objective-C' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
 
   **Website:** [https://dupeguru.voltaicideas.net/](https://dupeguru.voltaicideas.net/)
 
@@ -4890,7 +4888,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Screenshots:**
 
@@ -4907,7 +4905,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   </p>
   </details>
@@ -4920,7 +4918,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Screenshots:**
 
@@ -4939,7 +4937,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/java-16.png' alt='Java icon' title='Java' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/java-64.png' alt='Java icon' title='Java' height='16'/> Java 
 
   **Website:** [https://www.mucommander.com/](https://www.mucommander.com/)
 
@@ -4954,7 +4952,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-16.png' alt='Objective-C icon' title='Objective-C' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
 
   **Screenshots:**
 
@@ -4971,7 +4969,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Screenshots:**
 
@@ -4990,7 +4988,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-16.png' alt='Objective-C icon' title='Objective-C' height='16'/> <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/c-16.png' alt='C icon' title='C' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/c-64.png' alt='C icon' title='C' height='16'/> C 
 
   **Screenshots:**
 
@@ -5013,7 +5011,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Website:** [https://saneclick.com](https://saneclick.com)
 
@@ -5032,7 +5030,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/rust-16.png' alt='Rust icon' title='Rust' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust 
 
   **Screenshots:**
 
@@ -5051,7 +5049,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/cpp-16.png' alt='C++ icon' title='C++' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++ 
 
   **Website:** [https://play0ad.com](https://play0ad.com)
 
@@ -5072,7 +5070,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-16.png' alt='Objective-C icon' title='Objective-C' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
 
   **Website:** [https://ariessciences.com/highlight?product=tic-tac-toe](https://ariessciences.com/highlight?product=tic-tac-toe)
 
@@ -5093,7 +5091,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/cpp-16.png' alt='C++ icon' title='C++' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++ 
 
   </p>
   </details>
@@ -5106,7 +5104,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/cpp-16.png' alt='C++ icon' title='C++' height='16'/> <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-16.png' alt='Objective-C icon' title='Objective-C' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++ <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
 
   </p>
   </details>
@@ -5136,7 +5134,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/cpp-16.png' alt='C++ icon' title='C++' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++ 
 
   </p>
   </details>
@@ -5149,7 +5147,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Website:** [https://apollozhu.github.io/Dynamic-Dark-Mode/](https://apollozhu.github.io/Dynamic-Dark-Mode/)
 
@@ -5168,7 +5166,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-16.png' alt='Objective-C icon' title='Objective-C' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
 
   **Screenshots:**
 
@@ -5185,7 +5183,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/cpp-16.png' alt='C++ icon' title='C++' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++ 
 
   **Screenshots:**
 
@@ -5202,7 +5200,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-16.png' alt='JavaScript icon' title='JavaScript' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript 
 
   **Website:** [http://sabaki.yichuanshen.de](http://sabaki.yichuanshen.de)
 
@@ -5217,7 +5215,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-16.png' alt='Objective-C icon' title='Objective-C' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
 
   **Screenshots:**
 
@@ -5234,7 +5232,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/cpp-16.png' alt='C++ icon' title='C++' height='16'/> <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-16.png' alt='Objective-C icon' title='Objective-C' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++ <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
 
   </p>
   </details>
@@ -5247,7 +5245,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <code>c++</code> <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/python-16.png' alt='Python icon' title='Python' height='16'/> <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/Lua-16.png' alt='Lua icon' title='Lua' height='16'/> <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-16.png' alt='JavaScript icon' title='JavaScript' height='16'/> 
+  **Languages:** <code>c++</code> <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/Lua-64.png' alt='Lua icon' title='Lua' height='16'/> Lua <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript 
 
   **Website:** [https://www.widelands.org](https://www.widelands.org)
 
@@ -5270,7 +5268,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/cpp-16.png' alt='C++ icon' title='C++' height='16'/> <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/c-16.png' alt='C icon' title='C' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++ <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/c-64.png' alt='C icon' title='C' height='16'/> C 
 
   </p>
   </details>
@@ -5281,7 +5279,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/c-16.png' alt='C icon' title='C' height='16'/> <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/cpp-16.png' alt='C++ icon' title='C++' height='16'/> <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/python-16.png' alt='Python icon' title='Python' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/c-64.png' alt='C icon' title='C' height='16'/> C <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++ <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python 
 
   **Website:** [https://www.blender.org](https://www.blender.org)
 
@@ -5306,7 +5304,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Screenshots:**
 
@@ -5323,7 +5321,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/csharp-16.png' alt='C# icon' title='C#' height='16'/> <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-16.png' alt='Objective-C icon' title='Objective-C' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/csharp-64.png' alt='C# icon' title='C#' height='16'/> C# <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
 
   **Website:** [https://imazing.com/colorset](https://imazing.com/colorset)
 
@@ -5342,7 +5340,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <code>c++</code> <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/python-16.png' alt='Python icon' title='Python' height='16'/> 
+  **Languages:** <code>c++</code> <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python 
 
   **Website:** [https://www.freecad.org/](https://www.freecad.org/)
 
@@ -5361,7 +5359,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/python-16.png' alt='Python icon' title='Python' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python 
 
   **Website:** [https://gaphor.org](https://gaphor.org)
 
@@ -5376,7 +5374,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Screenshots:**
 
@@ -5399,7 +5397,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/haskell-16.png' alt='Haskell icon' title='Haskell' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/haskell-64.png' alt='Haskell icon' title='Haskell' height='16'/> Haskell 
 
   **Screenshots:**
 
@@ -5418,7 +5416,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Screenshots:**
 
@@ -5441,7 +5439,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Screenshots:**
 
@@ -5456,7 +5454,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/cpp-16.png' alt='C++ icon' title='C++' height='16'/> <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/python-16.png' alt='Python icon' title='Python' height='16'/> <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/c-16.png' alt='C icon' title='C' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++ <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/c-64.png' alt='C icon' title='C' height='16'/> C 
 
   **Website:** [https://krita.org/en/](https://krita.org/en/)
 
@@ -5475,7 +5473,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <code>c++</code> <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/c-16.png' alt='C icon' title='C' height='16'/> 
+  **Languages:** <code>c++</code> <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/c-64.png' alt='C icon' title='C' height='16'/> C 
 
   **Website:** [https://librecad.org](https://librecad.org)
 
@@ -5494,7 +5492,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-16.png' alt='Objective-C icon' title='Objective-C' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
 
   **Screenshots:**
 
@@ -5511,7 +5509,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-16.png' alt='Objective-C icon' title='Objective-C' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
 
   **Screenshots:**
 
@@ -5528,7 +5526,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/typescript-16.png' alt='TypeScript icon' title='TypeScript' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript 
 
   **Screenshots:**
 
@@ -5545,7 +5543,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/cpp-16.png' alt='C++ icon' title='C++' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++ 
 
   </p>
   </details>
@@ -5558,7 +5556,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-16.png' alt='Objective-C icon' title='Objective-C' height='16'/> <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/css-16.png' alt='CSS icon' title='CSS' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/css-64.png' alt='CSS icon' title='CSS' height='16'/> CSS 
 
   **Screenshots:**
 
@@ -5570,7 +5568,7 @@ You can see in which language an app is written. Currently there are following l
 <div align="right"><a href="#contents">⬆️ Back to Top</a></div>
 
 <a id="ide"></a>
-### 💻 IDE (13)
+### 💻 IDE (14)
 - [Apache Netbeans ![GitHub Repo Stars](https://img.shields.io/github/stars/apache/netbeans) ![GitHub last commit](https://img.shields.io/github/last-commit/apache/netbeans)](https://github.com/apache/netbeans) - Apache NetBeans is an IDE, Tooling Platform and Application Framework suitable for development in Java, JavaScript, PHP, HTML5, CSS, and more.
 
   **Badges:** <a href='https://github.com/apache/netbeans/releases/latest'><img src='https://img.shields.io/github/v/release/apache/netbeans?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/apache/netbeans'><img src='https://img.shields.io/github/stars/apache/netbeans?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/apache/netbeans' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/apache/netbeans' alt='License'/>
@@ -5579,7 +5577,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/java-16.png' alt='Java icon' title='Java' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/java-64.png' alt='Java icon' title='Java' height='16'/> Java 
 
   **Website:** [https://netbeans.apache.org/](https://netbeans.apache.org/)
 
@@ -5592,25 +5590,6 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-- [Atom ![GitHub Repo Stars](https://img.shields.io/github/stars/atom/atom) ![GitHub last commit](https://img.shields.io/github/last-commit/atom/atom)](https://github.com/atom/atom) - The hackable text editor. 
-
-  **Badges:** <a href='https://github.com/atom/atom/releases/latest'><img src='https://img.shields.io/github/v/release/atom/atom?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/atom/atom'><img src='https://img.shields.io/github/stars/atom/atom?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/atom/atom' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/atom/atom' alt='License'/>
-
-  <details>
-  <summary>More</summary>
-  <p>
-
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-16.png' alt='JavaScript icon' title='JavaScript' height='16'/> 
-
-  **Screenshots:**
-
-  <img src='https://user-images.githubusercontent.com/378023/49132477-f4b77680-f31f-11e8-8357-ac6491761c6c.png' width='400' loading='lazy'/>
-
-  <img src='https://user-images.githubusercontent.com/378023/49132478-f4b77680-f31f-11e8-9e10-e8454d8d9b7e.png' width='400' loading='lazy'/>
-
-  </p>
-  </details>
-
 - [AuroraEditor ![GitHub Repo Stars](https://img.shields.io/github/stars/AuroraEditor/AuroraEditor) ![GitHub last commit](https://img.shields.io/github/last-commit/AuroraEditor/AuroraEditor)](https://github.com/AuroraEditor/AuroraEditor) - Lightweight Code Editor (IDE) for macOS. 
 
   **Badges:** <a href='https://github.com/AuroraEditor/AuroraEditor/releases/latest'><img src='https://img.shields.io/github/v/release/AuroraEditor/AuroraEditor?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/AuroraEditor/AuroraEditor'><img src='https://img.shields.io/github/stars/AuroraEditor/AuroraEditor?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/AuroraEditor/AuroraEditor' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/AuroraEditor/AuroraEditor' alt='License'/>
@@ -5619,7 +5598,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Website:** [https://auroraeditor.com](https://auroraeditor.com)
 
@@ -5638,7 +5617,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-16.png' alt='JavaScript icon' title='JavaScript' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript 
 
   **Website:** [https://brackets.io/](https://brackets.io/)
 
@@ -5657,13 +5636,28 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Website:** [https://www.codeedit.app/](https://www.codeedit.app/)
 
   **Screenshots:**
 
   <img src='https://user-images.githubusercontent.com/806104/194004176-3143d19f-1ad9-449c-bd41-8c4f9998f44b.png' width='400' loading='lazy'/>
+
+  </p>
+  </details>
+
+- [Eclipse ![GitHub Repo Stars](https://img.shields.io/github/stars/eclipse-platform/eclipse.platform) ![GitHub last commit](https://img.shields.io/github/last-commit/eclipse-platform/eclipse.platform)](https://github.com/eclipse-platform/eclipse.platform) - Eclipse is an open-source integrated development environment (IDE) used in computer programming, featuring a base workspace and an extensible plug-in system for customizing the environment.
+
+  **Badges:** <a href='https://github.com/eclipse-platform/eclipse.platform/releases/latest'><img src='https://img.shields.io/github/v/release/eclipse-platform/eclipse.platform?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/eclipse-platform/eclipse.platform'><img src='https://img.shields.io/github/stars/eclipse-platform/eclipse.platform?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/eclipse-platform/eclipse.platform' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/eclipse-platform/eclipse.platform' alt='License'/>
+
+  <details>
+  <summary>More</summary>
+  <p>
+
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/java-64.png' alt='Java icon' title='Java' height='16'/> Java 
+
+  **Website:** [https://www.eclipse.org](https://www.eclipse.org)
 
   </p>
   </details>
@@ -5676,7 +5670,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/c-16.png' alt='C icon' title='C' height='16'/> <code>c++</code> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/c-64.png' alt='C icon' title='C' height='16'/> C <code>c++</code> 
 
   **Website:** [https://www.geany.org/](https://www.geany.org/)
 
@@ -5695,7 +5689,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/java-16.png' alt='Java icon' title='Java' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/java-64.png' alt='Java icon' title='Java' height='16'/> Java 
 
   **Website:** [https://www.jetbrains.com/idea/](https://www.jetbrains.com/idea/)
 
@@ -5714,7 +5708,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/c-16.png' alt='C icon' title='C' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/c-64.png' alt='C icon' title='C' height='16'/> C 
 
   **Website:** [https://livecode.org/](https://livecode.org/)
 
@@ -5729,7 +5723,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-16.png' alt='JavaScript icon' title='JavaScript' height='16'/> <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/typescript-16.png' alt='TypeScript icon' title='TypeScript' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript 
 
   </p>
   </details>
@@ -5742,7 +5736,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/c-16.png' alt='C icon' title='C' height='16'/> <code>Vim script</code> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/c-64.png' alt='C icon' title='C' height='16'/> C <code>Vim script</code> 
 
   **Website:** [https://www.vim.org/](https://www.vim.org/)
 
@@ -5761,11 +5755,26 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/typescript-16.png' alt='TypeScript icon' title='TypeScript' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript 
 
   **Screenshots:**
 
   <img src='https://cloud.githubusercontent.com/assets/11839736/16642200/6624dde0-43bd-11e6-8595-c81885ba0dc2.png' width='400' loading='lazy'/>
+
+  </p>
+  </details>
+
+- [VSCodium ![GitHub Repo Stars](https://img.shields.io/github/stars/VSCodium/vscodium) ![GitHub last commit](https://img.shields.io/github/last-commit/VSCodium/vscodium)](https://github.com/VSCodium/vscodium) - VSCodium is a community-driven, freely-licensed binary distribution of Microsoft's VS Code with all telemetry removed. 
+
+  **Badges:** <a href='https://github.com/VSCodium/vscodium/releases/latest'><img src='https://img.shields.io/github/v/release/VSCodium/vscodium?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/VSCodium/vscodium'><img src='https://img.shields.io/github/stars/VSCodium/vscodium?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/VSCodium/vscodium' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/VSCodium/vscodium' alt='License'/>
+
+  <details>
+  <summary>More</summary>
+  <p>
+
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript 
+
+  **Website:** [https://vscodium.com/](https://vscodium.com/)
 
   </p>
   </details>
@@ -5778,7 +5787,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/rust-16.png' alt='Rust icon' title='Rust' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust 
 
   **Website:** [https://zed.dev](https://zed.dev)
 
@@ -5797,7 +5806,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/Lua-16.png' alt='Lua icon' title='Lua' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/Lua-64.png' alt='Lua icon' title='Lua' height='16'/> Lua 
 
   **Screenshots:**
 
@@ -5818,7 +5827,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   </p>
   </details>
@@ -5831,7 +5840,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/python-16.png' alt='Python icon' title='Python' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python 
 
   </p>
   </details>
@@ -5844,7 +5853,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-16.png' alt='JavaScript icon' title='JavaScript' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript 
 
   **Website:** [https://exifcleaner.com](https://exifcleaner.com)
 
@@ -5867,7 +5876,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/cpp-16.png' alt='C++ icon' title='C++' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++ 
 
   **Website:** [https://flameshot.org](https://flameshot.org)
 
@@ -5886,7 +5895,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Screenshots:**
 
@@ -5903,20 +5912,20 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/c-16.png' alt='C icon' title='C' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/c-64.png' alt='C icon' title='C' height='16'/> C 
 
   </p>
   </details>
 
 - [Iconology ![GitHub Repo Stars](https://img.shields.io/github/stars/liamrosenfeld/Iconology) ![GitHub last commit](https://img.shields.io/github/last-commit/liamrosenfeld/Iconology)](https://github.com/liamrosenfeld/Iconology) - Edit icons and then export to Xcode, icns, ico, favicon, macOS iconset, or a custom collection. 
 
-  **Badges:** <a href='https://apps.apple.com/us/app/iconology/id1463452867'><img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/app_store-16.png' alt='App Store' title='Download on the Mac App Store' height='16'/> App Store</a> &nbsp; <a href='https://github.com/liamrosenfeld/Iconology/releases/latest'><img src='https://img.shields.io/github/v/release/liamrosenfeld/Iconology?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/liamrosenfeld/Iconology'><img src='https://img.shields.io/github/stars/liamrosenfeld/Iconology?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/liamrosenfeld/Iconology' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/liamrosenfeld/Iconology' alt='License'/>
+  **Badges:** <a href='https://apps.apple.com/us/app/iconology/id1463452867'><img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/app_store-64.png' alt='App Store' title='Download on the Mac App Store' height='16'/> App Store</a> &nbsp; <a href='https://github.com/liamrosenfeld/Iconology/releases/latest'><img src='https://img.shields.io/github/v/release/liamrosenfeld/Iconology?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/liamrosenfeld/Iconology'><img src='https://img.shields.io/github/stars/liamrosenfeld/Iconology?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/liamrosenfeld/Iconology' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/liamrosenfeld/Iconology' alt='License'/>
 
   <details>
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Website:** [https://apps.apple.com/us/app/iconology/id1463452867](https://apps.apple.com/us/app/iconology/id1463452867)
 
@@ -5935,7 +5944,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-16.png' alt='Objective-C icon' title='Objective-C' height='16'/> <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/python-16.png' alt='Python icon' title='Python' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python 
 
   **Screenshots:**
 
@@ -5952,7 +5961,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/typescript-16.png' alt='TypeScript icon' title='TypeScript' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript 
 
   </p>
   </details>
@@ -5982,7 +5991,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/python-16.png' alt='Python icon' title='Python' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python 
 
   **Screenshots:**
 
@@ -6003,7 +6012,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-16.png' alt='JavaScript icon' title='JavaScript' height='16'/> <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/css-16.png' alt='CSS icon' title='CSS' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/css-64.png' alt='CSS icon' title='CSS' height='16'/> CSS 
 
   </p>
   </details>
@@ -6014,7 +6023,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/cpp-16.png' alt='C++ icon' title='C++' height='16'/> <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/python-16.png' alt='Python icon' title='Python' height='16'/> <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/c-16.png' alt='C icon' title='C' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++ <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/c-64.png' alt='C icon' title='C' height='16'/> C 
 
   **Website:** [https://krita.org/en/](https://krita.org/en/)
 
@@ -6033,7 +6042,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Screenshots:**
 
@@ -6056,7 +6065,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Screenshots:**
 
@@ -6073,7 +6082,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-16.png' alt='Objective-C icon' title='Objective-C' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
 
   **Screenshots:**
 
@@ -6090,7 +6099,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/c-16.png' alt='C icon' title='C' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/c-64.png' alt='C icon' title='C' height='16'/> C 
 
   </p>
   </details>
@@ -6107,7 +6116,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   </p>
   </details>
@@ -6120,7 +6129,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   </p>
   </details>
@@ -6133,7 +6142,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/clojure-16.png' alt='Clojure icon' title='Clojure' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/clojure-64.png' alt='Clojure icon' title='Clojure' height='16'/> Clojure 
 
   </p>
   </details>
@@ -6146,7 +6155,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Website:** [https://inputsource.pro](https://inputsource.pro)
 
@@ -6161,7 +6170,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/cpp-16.png' alt='C++ icon' title='C++' height='16'/> <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-16.png' alt='Objective-C icon' title='Objective-C' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++ <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
 
   </p>
   </details>
@@ -6174,7 +6183,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/cpp-16.png' alt='C++ icon' title='C++' height='16'/> <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-16.png' alt='Objective-C icon' title='Objective-C' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++ <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
 
   </p>
   </details>
@@ -6187,7 +6196,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Screenshots:**
 
@@ -6223,7 +6232,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Screenshots:**
 
@@ -6242,7 +6251,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Website:** [https://unshaky.nestederror.com/](https://unshaky.nestederror.com/)
 
@@ -6267,7 +6276,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-16.png' alt='JavaScript icon' title='JavaScript' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript 
 
   </p>
   </details>
@@ -6280,7 +6289,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/cpp-16.png' alt='C++ icon' title='C++' height='16'/> <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-16.png' alt='Objective-C icon' title='Objective-C' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++ <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
 
   **Screenshots:**
 
@@ -6297,7 +6306,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/typescript-16.png' alt='TypeScript icon' title='TypeScript' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript 
 
   **Screenshots:**
 
@@ -6316,7 +6325,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-16.png' alt='JavaScript icon' title='JavaScript' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript 
 
   **Website:** [https://getmailspring.com/](https://getmailspring.com/)
 
@@ -6331,7 +6340,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-16.png' alt='JavaScript icon' title='JavaScript' height='16'/> <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/css-16.png' alt='CSS icon' title='CSS' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/css-64.png' alt='CSS icon' title='CSS' height='16'/> CSS 
 
   </p>
   </details>
@@ -6344,7 +6353,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   </p>
   </details>
@@ -6355,7 +6364,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/cpp-16.png' alt='C++ icon' title='C++' height='16'/> <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-16.png' alt='JavaScript icon' title='JavaScript' height='16'/> <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/rust-16.png' alt='Rust icon' title='Rust' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++ <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust 
 
   **Website:** [https://www.thunderbird.net/en-US/](https://www.thunderbird.net/en-US/)
 
@@ -6382,7 +6391,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/python-16.png' alt='Python icon' title='Python' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python 
 
   **Screenshots:**
 
@@ -6407,7 +6416,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-16.png' alt='JavaScript icon' title='JavaScript' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript 
 
   </p>
   </details>
@@ -6420,7 +6429,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/python-16.png' alt='Python icon' title='Python' height='16'/> <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/ruby-16.png' alt='Ruby icon' title='Ruby' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/ruby-64.png' alt='Ruby icon' title='Ruby' height='16'/> Ruby 
 
   **Screenshots:**
 
@@ -6437,7 +6446,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-16.png' alt='Objective-C icon' title='Objective-C' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
 
   </p>
   </details>
@@ -6450,7 +6459,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Screenshots:**
 
@@ -6469,7 +6478,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-16.png' alt='Objective-C icon' title='Objective-C' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
 
   **Screenshots:**
 
@@ -6486,7 +6495,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/typescript-16.png' alt='TypeScript icon' title='TypeScript' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript 
 
   **Website:** [https://thijmendam.github.io/BarTranslate/](https://thijmendam.github.io/BarTranslate/)
 
@@ -6505,7 +6514,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Website:** [https://github.com/designsbymuzeer/Bye-Mac-App ![GitHub Repo Stars](https://img.shields.io/github/stars/designsbymuzeer/Bye-Mac-App) ![GitHub last commit](https://img.shields.io/github/last-commit/designsbymuzeer/Bye-Mac-App)](https://github.com/designsbymuzeer/Bye-Mac-App)
 
@@ -6524,7 +6533,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Website:** [https://github.com/praneeth552/clipflow ![GitHub Repo Stars](https://img.shields.io/github/stars/praneeth552/clipflow) ![GitHub last commit](https://img.shields.io/github/last-commit/praneeth552/clipflow)](https://github.com/praneeth552/clipflow)
 
@@ -6545,7 +6554,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-16.png' alt='Objective-C icon' title='Objective-C' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
 
   **Screenshots:**
 
@@ -6562,7 +6571,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   </p>
   </details>
@@ -6575,7 +6584,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   </p>
   </details>
@@ -6588,7 +6597,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Screenshots:**
 
@@ -6605,7 +6614,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Screenshots:**
 
@@ -6622,7 +6631,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Screenshots:**
 
@@ -6641,7 +6650,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   </p>
   </details>
@@ -6654,7 +6663,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Screenshots:**
 
@@ -6671,7 +6680,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Website:** [https://icemenubar.app/](https://icemenubar.app/)
 
@@ -6690,7 +6699,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   </p>
   </details>
@@ -6703,7 +6712,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-16.png' alt='Objective-C icon' title='Objective-C' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
 
   **Website:** [https://www.mowglii.com/itsycal/](https://www.mowglii.com/itsycal/)
 
@@ -6722,7 +6731,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Screenshots:**
 
@@ -6741,7 +6750,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Website:** [https://halo.github.io/LinkLiar/](https://halo.github.io/LinkLiar/)
 
@@ -6760,7 +6769,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   </p>
   </details>
@@ -6773,7 +6782,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Screenshots:**
 
@@ -6790,7 +6799,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-16.png' alt='JavaScript icon' title='JavaScript' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript 
 
   </p>
   </details>
@@ -6803,7 +6812,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-16.png' alt='Objective-C icon' title='Objective-C' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
 
   </p>
   </details>
@@ -6816,7 +6825,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Website:** [https://www.minisim.app/](https://www.minisim.app/)
 
@@ -6835,7 +6844,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   </p>
   </details>
@@ -6848,7 +6857,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Screenshots:**
 
@@ -6865,7 +6874,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Screenshots:**
 
@@ -6882,7 +6891,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   </p>
   </details>
@@ -6895,7 +6904,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Website:** [https://www.jacklandrin.com/2021/12/01/onlyswitch/](https://www.jacklandrin.com/2021/12/01/onlyswitch/)
 
@@ -6914,7 +6923,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Website:** [https://paretosecurity.com/](https://paretosecurity.com/)
 
@@ -6933,7 +6942,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-16.png' alt='Objective-C icon' title='Objective-C' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
 
   **Screenshots:**
 
@@ -6950,7 +6959,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> <code>metal</code> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift <code>metal</code> 
 
   **Website:** [https://superhighfives.com/pika](https://superhighfives.com/pika)
 
@@ -6969,7 +6978,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Screenshots:**
 
@@ -6986,7 +6995,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   </p>
   </details>
@@ -6999,7 +7008,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Website:** [https://ariessciences.com/highlight?product=quick-weather](https://ariessciences.com/highlight?product=quick-weather)
 
@@ -7020,7 +7029,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Screenshots:**
 
@@ -7037,7 +7046,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/rust-16.png' alt='Rust icon' title='Rust' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust 
 
   **Website:** [https://rustcast.umangsurana.com](https://rustcast.umangsurana.com)
 
@@ -7056,7 +7065,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Website:** [https://sanebar.com](https://sanebar.com)
 
@@ -7077,7 +7086,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Website:** [https://screenhint.com](https://screenhint.com)
 
@@ -7100,7 +7109,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-16.png' alt='Objective-C icon' title='Objective-C' height='16'/> <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/c-16.png' alt='C icon' title='C' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/c-64.png' alt='C icon' title='C' height='16'/> C 
 
   </p>
   </details>
@@ -7113,7 +7122,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Screenshots:**
 
@@ -7130,7 +7139,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Screenshots:**
 
@@ -7149,7 +7158,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Screenshots:**
 
@@ -7166,7 +7175,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Website:** [https://swiftbar.app](https://swiftbar.app)
 
@@ -7181,7 +7190,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/css-16.png' alt='CSS icon' title='CSS' height='16'/> <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-16.png' alt='JavaScript icon' title='JavaScript' height='16'/> <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/typescript-16.png' alt='TypeScript icon' title='TypeScript' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/css-64.png' alt='CSS icon' title='CSS' height='16'/> CSS <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript 
 
   **Website:** [https://timescribe.app](https://timescribe.app)
 
@@ -7206,7 +7215,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/css-16.png' alt='CSS icon' title='CSS' height='16'/> <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-16.png' alt='JavaScript icon' title='JavaScript' height='16'/> <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/typescript-16.png' alt='TypeScript icon' title='TypeScript' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/css-64.png' alt='CSS icon' title='CSS' height='16'/> CSS <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript 
 
   **Website:** [https://timescribe.app](https://timescribe.app)
 
@@ -7231,7 +7240,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Website:** [https://vercel-deployment-menu-bar.vercel.app/](https://vercel-deployment-menu-bar.vercel.app/)
 
@@ -7250,7 +7259,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Website:** [https://github.com/GeiserX/VPN-Bypass ![GitHub Repo Stars](https://img.shields.io/github/stars/GeiserX/VPN-Bypass) ![GitHub last commit](https://img.shields.io/github/last-commit/GeiserX/VPN-Bypass)](https://github.com/GeiserX/VPN-Bypass)
 
@@ -7271,7 +7280,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-16.png' alt='Objective-C icon' title='Objective-C' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
 
   </p>
   </details>
@@ -7288,7 +7297,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/csharp-16.png' alt='C# icon' title='C#' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/csharp-64.png' alt='C# icon' title='C#' height='16'/> C# 
 
   </p>
   </details>
@@ -7301,7 +7310,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   </p>
   </details>
@@ -7314,7 +7323,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/coffeescript-16.png' alt='CoffeeScript icon' title='CoffeeScript' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/coffeescript-64.png' alt='CoffeeScript icon' title='CoffeeScript' height='16'/> CoffeeScript 
 
   </p>
   </details>
@@ -7327,7 +7336,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Screenshots:**
 
@@ -7346,7 +7355,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-16.png' alt='JavaScript icon' title='JavaScript' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript 
 
   **Website:** [https://www.karaoke-eternal.com/](https://www.karaoke-eternal.com/)
 
@@ -7365,7 +7374,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-16.png' alt='JavaScript icon' title='JavaScript' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript 
 
   **Screenshots:**
 
@@ -7382,7 +7391,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Screenshots:**
 
@@ -7401,7 +7410,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/c-16.png' alt='C icon' title='C' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/c-64.png' alt='C icon' title='C' height='16'/> C 
 
   **Website:** [https://mpv.io](https://mpv.io)
 
@@ -7420,7 +7429,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   </p>
   </details>
@@ -7433,7 +7442,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Screenshots:**
 
@@ -7450,7 +7459,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Website:** [https://www.plugformac.com/](https://www.plugformac.com/)
 
@@ -7469,7 +7478,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-16.png' alt='JavaScript icon' title='JavaScript' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript 
 
   **Screenshots:**
 
@@ -7488,7 +7497,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-16.png' alt='JavaScript icon' title='JavaScript' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript 
 
   **Website:** [https://spicetify.app/](https://spicetify.app/)
 
@@ -7507,7 +7516,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-16.png' alt='JavaScript icon' title='JavaScript' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript 
 
   **Screenshots:**
 
@@ -7524,7 +7533,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/c-16.png' alt='C icon' title='C' height='16'/> <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/python-16.png' alt='Python icon' title='Python' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/c-64.png' alt='C icon' title='C' height='16'/> C <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python 
 
   **Screenshots:**
 
@@ -7547,7 +7556,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Screenshots:**
 
@@ -7574,7 +7583,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-16.png' alt='Objective-C icon' title='Objective-C' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
 
   **Screenshots:**
 
@@ -7591,7 +7600,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Screenshots:**
 
@@ -7608,7 +7617,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-16.png' alt='JavaScript icon' title='JavaScript' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript 
 
   **Screenshots:**
 
@@ -7625,7 +7634,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   </p>
   </details>
@@ -7638,7 +7647,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-16.png' alt='Objective-C icon' title='Objective-C' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
 
   </p>
   </details>
@@ -7651,7 +7660,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-16.png' alt='JavaScript icon' title='JavaScript' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript 
 
   **Website:** [https://getstream.io/winds/](https://getstream.io/winds/)
 
@@ -7678,7 +7687,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-16.png' alt='Objective-C icon' title='Objective-C' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
 
   **Website:** [https://bibdesk.sourceforge.io](https://bibdesk.sourceforge.io)
 
@@ -7699,7 +7708,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-16.png' alt='JavaScript icon' title='JavaScript' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript 
 
   **Screenshots:**
 
@@ -7716,7 +7725,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/golang-16.png' alt='Go icon' title='Go' height='16'/> <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/typescript-16.png' alt='TypeScript icon' title='TypeScript' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/golang-64.png' alt='Go icon' title='Go' height='16'/> Go <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript 
 
   **Website:** [https://www.getdnote.com/](https://www.getdnote.com/)
 
@@ -7735,7 +7744,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-16.png' alt='JavaScript icon' title='JavaScript' height='16'/> <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/css-16.png' alt='CSS icon' title='CSS' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/css-64.png' alt='CSS icon' title='CSS' height='16'/> CSS 
 
   </p>
   </details>
@@ -7748,7 +7757,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Screenshots:**
 
@@ -7767,7 +7776,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-16.png' alt='JavaScript icon' title='JavaScript' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript 
 
   </p>
   </details>
@@ -7780,7 +7789,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   </p>
   </details>
@@ -7793,7 +7802,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-16.png' alt='JavaScript icon' title='JavaScript' height='16'/> <code>vue</code> <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/css-16.png' alt='CSS icon' title='CSS' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript <code>vue</code> <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/css-64.png' alt='CSS icon' title='CSS' height='16'/> CSS 
 
   **Website:** [https://uselinked.com](https://uselinked.com)
 
@@ -7814,7 +7823,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-16.png' alt='JavaScript icon' title='JavaScript' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript 
 
   **Screenshots:**
 
@@ -7837,7 +7846,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Website:** [https://notenik.app](https://notenik.app)
 
@@ -7856,7 +7865,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   </p>
   </details>
@@ -7869,7 +7878,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-16.png' alt='JavaScript icon' title='JavaScript' height='16'/> <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/typescript-16.png' alt='TypeScript icon' title='TypeScript' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript 
 
   **Website:** [https://notesnook.com](https://notesnook.com)
 
@@ -7888,7 +7897,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Screenshots:**
 
@@ -7905,7 +7914,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/cpp-16.png' alt='C++ icon' title='C++' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++ 
 
   **Website:** [https://www.qownnotes.org/](https://www.qownnotes.org/)
 
@@ -7924,7 +7933,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-16.png' alt='Objective-C icon' title='Objective-C' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
 
   **Screenshots:**
 
@@ -7941,7 +7950,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-16.png' alt='JavaScript icon' title='JavaScript' height='16'/> <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/css-16.png' alt='CSS icon' title='CSS' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/css-64.png' alt='CSS icon' title='CSS' height='16'/> CSS 
 
   </p>
   </details>
@@ -7954,7 +7963,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/rust-16.png' alt='Rust icon' title='Rust' height='16'/> <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/typescript-16.png' alt='TypeScript icon' title='TypeScript' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript 
 
   **Website:** [https://stik.ink](https://stik.ink)
 
@@ -7969,7 +7978,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Screenshots:**
 
@@ -7986,7 +7995,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-16.png' alt='JavaScript icon' title='JavaScript' height='16'/> <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/css-16.png' alt='CSS icon' title='CSS' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/css-64.png' alt='CSS icon' title='CSS' height='16'/> CSS 
 
   </p>
   </details>
@@ -8003,7 +8012,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-16.png' alt='JavaScript icon' title='JavaScript' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript 
 
   **Website:** [https://betaflight.com/](https://betaflight.com/)
 
@@ -8022,7 +8031,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-16.png' alt='Objective-C icon' title='Objective-C' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
 
   **Screenshots:**
 
@@ -8039,7 +8048,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/typescript-16.png' alt='TypeScript icon' title='TypeScript' height='16'/> <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/rust-16.png' alt='Rust icon' title='Rust' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust 
 
   **Screenshots:**
 
@@ -8056,7 +8065,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Screenshots:**
 
@@ -8073,7 +8082,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-16.png' alt='Objective-C icon' title='Objective-C' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
 
   </p>
   </details>
@@ -8086,7 +8095,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/python-16.png' alt='Python icon' title='Python' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python 
 
   **Website:** [https://gramps-project.org](https://gramps-project.org)
 
@@ -8101,7 +8110,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-16.png' alt='Objective-C icon' title='Objective-C' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
 
   </p>
   </details>
@@ -8114,7 +8123,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-16.png' alt='Objective-C icon' title='Objective-C' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
 
   </p>
   </details>
@@ -8127,7 +8136,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Screenshots:**
 
@@ -8144,7 +8153,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-16.png' alt='JavaScript icon' title='JavaScript' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript 
 
   </p>
   </details>
@@ -8157,7 +8166,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Screenshots:**
 
@@ -8180,7 +8189,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   </p>
   </details>
@@ -8193,7 +8202,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-16.png' alt='JavaScript icon' title='JavaScript' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript 
 
   **Website:** [https://numi.app/](https://numi.app/)
 
@@ -8212,7 +8221,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-16.png' alt='Objective-C icon' title='Objective-C' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
 
   </p>
   </details>
@@ -8225,7 +8234,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   </p>
   </details>
@@ -8238,7 +8247,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-16.png' alt='JavaScript icon' title='JavaScript' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript 
 
   **Screenshots:**
 
@@ -8255,7 +8264,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-16.png' alt='JavaScript icon' title='JavaScript' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript 
 
   </p>
   </details>
@@ -8268,7 +8277,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Screenshots:**
 
@@ -8287,7 +8296,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/ruby-16.png' alt='Ruby icon' title='Ruby' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/ruby-64.png' alt='Ruby icon' title='Ruby' height='16'/> Ruby 
 
   </p>
   </details>
@@ -8300,7 +8309,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-16.png' alt='Objective-C icon' title='Objective-C' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
 
   **Screenshots:**
 
@@ -8317,7 +8326,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   </p>
   </details>
@@ -8330,7 +8339,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/rust-16.png' alt='Rust icon' title='Rust' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust 
 
   **Screenshots:**
 
@@ -8347,7 +8356,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-16.png' alt='Objective-C icon' title='Objective-C' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
 
   **Screenshots:**
 
@@ -8364,7 +8373,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-16.png' alt='Objective-C icon' title='Objective-C' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
 
   </p>
   </details>
@@ -8377,7 +8386,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-16.png' alt='Objective-C icon' title='Objective-C' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
 
   **Screenshots:**
 
@@ -8398,7 +8407,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Website:** [https://iina.io](https://iina.io)
 
@@ -8413,7 +8422,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-16.png' alt='Objective-C icon' title='Objective-C' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
 
   **Screenshots:**
 
@@ -8430,7 +8439,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/haskell-16.png' alt='Haskell icon' title='Haskell' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/haskell-64.png' alt='Haskell icon' title='Haskell' height='16'/> Haskell 
 
   **Screenshots:**
 
@@ -8449,7 +8458,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-16.png' alt='Objective-C icon' title='Objective-C' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
 
   </p>
   </details>
@@ -8462,7 +8471,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/c-16.png' alt='C icon' title='C' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/c-64.png' alt='C icon' title='C' height='16'/> C 
 
   **Website:** [https://mpv.io](https://mpv.io)
 
@@ -8481,7 +8490,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Website:** [https://www.plugformac.com/](https://www.plugformac.com/)
 
@@ -8504,7 +8513,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-16.png' alt='JavaScript icon' title='JavaScript' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript 
 
   **Screenshots:**
 
@@ -8521,7 +8530,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Screenshots:**
 
@@ -8538,7 +8547,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/python-16.png' alt='Python icon' title='Python' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python 
 
   **Website:** [https://gpodder.github.io/](https://gpodder.github.io/)
 
@@ -8557,7 +8566,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/python-16.png' alt='Python icon' title='Python' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python 
 
   </p>
   </details>
@@ -8570,7 +8579,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   </p>
   </details>
@@ -8583,7 +8592,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-16.png' alt='Objective-C icon' title='Objective-C' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
 
   **Screenshots:**
 
@@ -8600,7 +8609,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-16.png' alt='JavaScript icon' title='JavaScript' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript 
 
   **Website:** [https://getstream.io/winds/](https://getstream.io/winds/)
 
@@ -8629,7 +8638,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/python-16.png' alt='Python icon' title='Python' height='16'/> <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/typescript-16.png' alt='TypeScript icon' title='TypeScript' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript 
 
   **Website:** [https://activitywatch.net](https://activitywatch.net)
 
@@ -8644,7 +8653,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-16.png' alt='JavaScript icon' title='JavaScript' height='16'/> <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/css-16.png' alt='CSS icon' title='CSS' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/css-64.png' alt='CSS icon' title='CSS' height='16'/> CSS 
 
   </p>
   </details>
@@ -8657,7 +8666,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Website:** [https://appfair.app](https://appfair.app)
 
@@ -8678,7 +8687,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-16.png' alt='Objective-C icon' title='Objective-C' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
 
   **Website:** [https://bibdesk.sourceforge.io](https://bibdesk.sourceforge.io)
 
@@ -8699,7 +8708,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/typescript-16.png' alt='TypeScript icon' title='TypeScript' height='16'/> <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/rust-16.png' alt='Rust icon' title='Rust' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust 
 
   **Website:** [https://blinkeye.vercel.app/](https://blinkeye.vercel.app/)
 
@@ -8724,7 +8733,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Website:** [https://github.com/designsbymuzeer/Bye-Mac-App ![GitHub Repo Stars](https://img.shields.io/github/stars/designsbymuzeer/Bye-Mac-App) ![GitHub last commit](https://img.shields.io/github/last-commit/designsbymuzeer/Bye-Mac-App)](https://github.com/designsbymuzeer/Bye-Mac-App)
 
@@ -8743,7 +8752,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   </p>
   </details>
@@ -8756,20 +8765,20 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-16.png' alt='JavaScript icon' title='JavaScript' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript 
 
   </p>
   </details>
 
 - [Clendar ![GitHub Repo Stars](https://img.shields.io/github/stars/vinhnx/Clendar) ![GitHub last commit](https://img.shields.io/github/last-commit/vinhnx/Clendar)](https://github.com/vinhnx/Clendar) - Clendar is an universal calendar app. Written in SwiftUI.
 
-  **Badges:** <a href='https://apps.apple.com/us/app/clendar-a-calendar-app/id1548102041'><img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/app_store-16.png' alt='App Store' title='Download on the Mac App Store' height='16'/> App Store</a> &nbsp; <a href='https://github.com/vinhnx/Clendar/releases/latest'><img src='https://img.shields.io/github/v/release/vinhnx/Clendar?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/vinhnx/Clendar'><img src='https://img.shields.io/github/stars/vinhnx/Clendar?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/vinhnx/Clendar' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/vinhnx/Clendar' alt='License'/>
+  **Badges:** <a href='https://apps.apple.com/us/app/clendar-a-calendar-app/id1548102041'><img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/app_store-64.png' alt='App Store' title='Download on the Mac App Store' height='16'/> App Store</a> &nbsp; <a href='https://github.com/vinhnx/Clendar/releases/latest'><img src='https://img.shields.io/github/v/release/vinhnx/Clendar?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/vinhnx/Clendar'><img src='https://img.shields.io/github/stars/vinhnx/Clendar?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/vinhnx/Clendar' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/vinhnx/Clendar' alt='License'/>
 
   <details>
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Website:** [https://apps.apple.com/us/app/clendar-a-calendar-app/id1548102041](https://apps.apple.com/us/app/clendar-a-calendar-app/id1548102041)
 
@@ -8790,7 +8799,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/cpp-16.png' alt='C++ icon' title='C++' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++ 
 
   **Website:** [https://GetClipboard.app](https://GetClipboard.app)
 
@@ -8811,7 +8820,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-16.png' alt='Objective-C icon' title='Objective-C' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
 
   **Screenshots:**
 
@@ -8828,7 +8837,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-16.png' alt='Objective-C icon' title='Objective-C' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
 
   </p>
   </details>
@@ -8841,7 +8850,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-16.png' alt='JavaScript icon' title='JavaScript' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript 
 
   **Website:** [https://www.condution.com](https://www.condution.com)
 
@@ -8860,7 +8869,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-16.png' alt='Objective-C icon' title='Objective-C' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
 
   </p>
   </details>
@@ -8873,7 +8882,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Website:** [https://devutils.com](https://devutils.com)
 
@@ -8892,7 +8901,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Website:** [[official site](https://dockit-docs.pages.dev/?s=open-sourse-mac-os-apps)]([official site](https://dockit-docs.pages.dev/?s=open-sourse-mac-os-apps))
 
@@ -8911,7 +8920,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-16.png' alt='JavaScript icon' title='JavaScript' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript 
 
   **Screenshots:**
 
@@ -8930,7 +8939,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/rust-16.png' alt='Rust icon' title='Rust' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust 
 
   **Website:** [https://espanso.org](https://espanso.org)
 
@@ -8949,7 +8958,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/c-16.png' alt='C icon' title='C' height='16'/> <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/cpp-16.png' alt='C++ icon' title='C++' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/c-64.png' alt='C icon' title='C' height='16'/> C <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++ 
 
   </p>
   </details>
@@ -8962,7 +8971,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/typescript-16.png' alt='TypeScript icon' title='TypeScript' height='16'/> <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/rust-16.png' alt='Rust icon' title='Rust' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust 
 
   **Website:** [https://filearchitect.com](https://filearchitect.com)
 
@@ -8981,7 +8990,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-16.png' alt='Objective-C icon' title='Objective-C' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
 
   </p>
   </details>
@@ -8994,7 +9003,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/typescript-16.png' alt='TypeScript icon' title='TypeScript' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript 
 
   **Website:** [https://freeter.io/](https://freeter.io/)
 
@@ -9013,7 +9022,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Website:** [https://icemenubar.app/](https://icemenubar.app/)
 
@@ -9034,7 +9043,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-16.png' alt='Objective-C icon' title='Objective-C' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
 
   **Website:** [https://www.mowglii.com/itsycal/](https://www.mowglii.com/itsycal/)
 
@@ -9053,7 +9062,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   </p>
   </details>
@@ -9066,20 +9075,20 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   </p>
   </details>
 
 - [Layout Designer for UICollectionView ![GitHub Repo Stars](https://img.shields.io/github/stars/amirdew/CollectionViewPagingLayout) ![GitHub last commit](https://img.shields.io/github/last-commit/amirdew/CollectionViewPagingLayout)](https://github.com/amirdew/CollectionViewPagingLayout) - A simple but powerful tool that helps you make complex layouts for UICollectionView.
 
-  **Badges:** <a href='https://apps.apple.com/nl/app/layout-designer/id1507238011?l=en&mt=12'><img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/app_store-16.png' alt='App Store' title='Download on the Mac App Store' height='16'/> App Store</a> &nbsp; <a href='https://github.com/amirdew/CollectionViewPagingLayout/releases/latest'><img src='https://img.shields.io/github/v/release/amirdew/CollectionViewPagingLayout?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/amirdew/CollectionViewPagingLayout'><img src='https://img.shields.io/github/stars/amirdew/CollectionViewPagingLayout?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/amirdew/CollectionViewPagingLayout' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/amirdew/CollectionViewPagingLayout' alt='License'/>
+  **Badges:** <a href='https://apps.apple.com/nl/app/layout-designer/id1507238011?l=en&mt=12'><img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/app_store-64.png' alt='App Store' title='Download on the Mac App Store' height='16'/> App Store</a> &nbsp; <a href='https://github.com/amirdew/CollectionViewPagingLayout/releases/latest'><img src='https://img.shields.io/github/v/release/amirdew/CollectionViewPagingLayout?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/amirdew/CollectionViewPagingLayout'><img src='https://img.shields.io/github/stars/amirdew/CollectionViewPagingLayout?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/amirdew/CollectionViewPagingLayout' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/amirdew/CollectionViewPagingLayout' alt='License'/>
 
   <details>
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Website:** [https://apps.apple.com/nl/app/layout-designer/id1507238011?l=en&mt=12](https://apps.apple.com/nl/app/layout-designer/id1507238011?l=en&mt=12)
 
@@ -9098,7 +9107,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-16.png' alt='JavaScript icon' title='JavaScript' height='16'/> <code>vue</code> <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/css-16.png' alt='CSS icon' title='CSS' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript <code>vue</code> <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/css-64.png' alt='CSS icon' title='CSS' height='16'/> CSS 
 
   **Website:** [https://uselinked.com](https://uselinked.com)
 
@@ -9119,7 +9128,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Screenshots:**
 
@@ -9136,7 +9145,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/python-16.png' alt='Python icon' title='Python' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python 
 
   **Screenshots:**
 
@@ -9155,7 +9164,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Screenshots:**
 
@@ -9172,7 +9181,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   </p>
   </details>
@@ -9185,7 +9194,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-16.png' alt='JavaScript icon' title='JavaScript' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript 
 
   </p>
   </details>
@@ -9198,7 +9207,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Screenshots:**
 
@@ -9215,7 +9224,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/c-16.png' alt='C icon' title='C' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/c-64.png' alt='C icon' title='C' height='16'/> C 
 
   **Screenshots:**
 
@@ -9232,7 +9241,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-16.png' alt='JavaScript icon' title='JavaScript' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript 
 
   **Website:** [https://numi.app/](https://numi.app/)
 
@@ -9251,7 +9260,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Website:** [https://omniprompt.app/](https://omniprompt.app/)
 
@@ -9266,7 +9275,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-16.png' alt='JavaScript icon' title='JavaScript' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript 
 
   **Screenshots:**
 
@@ -9285,7 +9294,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   </p>
   </details>
@@ -9298,7 +9307,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-16.png' alt='JavaScript icon' title='JavaScript' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript 
 
   **Screenshots:**
 
@@ -9321,7 +9330,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/typescript-16.png' alt='TypeScript icon' title='TypeScript' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript 
 
   **Website:** [https://github.com/ziulev/pomodoro-cycle-app/releases ![GitHub Repo Stars](https://img.shields.io/github/stars/ziulev/pomodoro-cycle-app) ![GitHub last commit](https://img.shields.io/github/last-commit/ziulev/pomodoro-cycle-app)](https://github.com/ziulev/pomodoro-cycle-app/releases)
 
@@ -9340,7 +9349,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/cpp-16.png' alt='C++ icon' title='C++' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++ 
 
   **Website:** [https://www.qownnotes.org/](https://www.qownnotes.org/)
 
@@ -9359,7 +9368,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-16.png' alt='Objective-C icon' title='Objective-C' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
 
   </p>
   </details>
@@ -9372,7 +9381,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-16.png' alt='JavaScript icon' title='JavaScript' height='16'/> <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/css-16.png' alt='CSS icon' title='CSS' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/css-64.png' alt='CSS icon' title='CSS' height='16'/> CSS 
 
   **Screenshots:**
 
@@ -9389,7 +9398,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/typescript-16.png' alt='TypeScript icon' title='TypeScript' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript 
 
   **Website:** [https://readest.com](https://readest.com)
 
@@ -9414,7 +9423,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/typescript-16.png' alt='TypeScript icon' title='TypeScript' height='16'/> <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Screenshots:**
 
@@ -9431,7 +9440,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/rust-16.png' alt='Rust icon' title='Rust' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust 
 
   **Website:** [https://rustcast.umangsurana.com](https://rustcast.umangsurana.com)
 
@@ -9450,7 +9459,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Website:** [https://saneclip.com](https://saneclip.com)
 
@@ -9471,7 +9480,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Website:** [https://sanesales.com](https://sanesales.com)
 
@@ -9494,7 +9503,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Website:** [https://screenhint.com](https://screenhint.com)
 
@@ -9517,7 +9526,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/rust-16.png' alt='Rust icon' title='Rust' height='16'/> <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/typescript-16.png' alt='TypeScript icon' title='TypeScript' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript 
 
   **Website:** [https://screenpi.pe](https://screenpi.pe)
 
@@ -9536,7 +9545,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-16.png' alt='Objective-C icon' title='Objective-C' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
 
   </p>
   </details>
@@ -9549,7 +9558,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Screenshots:**
 
@@ -9566,7 +9575,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Screenshots:**
 
@@ -9577,13 +9586,13 @@ You can see in which language an app is written. Currently there are following l
 
 - [Speed Reader ![GitHub Repo Stars](https://img.shields.io/github/stars/LumingYin/SpeedReader) ![GitHub last commit](https://img.shields.io/github/last-commit/LumingYin/SpeedReader)](https://github.com/LumingYin/SpeedReader) - Read faster with the power of silencing vocalization with SpeedReader.
 
-  **Badges:** <a href='https://apps.apple.com/app/speed-reader/id1258448209'><img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/app_store-16.png' alt='App Store' title='Download on the Mac App Store' height='16'/> App Store</a> &nbsp; <a href='https://github.com/LumingYin/SpeedReader/releases/latest'><img src='https://img.shields.io/github/v/release/LumingYin/SpeedReader?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/LumingYin/SpeedReader'><img src='https://img.shields.io/github/stars/LumingYin/SpeedReader?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/LumingYin/SpeedReader' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/LumingYin/SpeedReader' alt='License'/>
+  **Badges:** <a href='https://apps.apple.com/app/speed-reader/id1258448209'><img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/app_store-64.png' alt='App Store' title='Download on the Mac App Store' height='16'/> App Store</a> &nbsp; <a href='https://github.com/LumingYin/SpeedReader/releases/latest'><img src='https://img.shields.io/github/v/release/LumingYin/SpeedReader?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/LumingYin/SpeedReader'><img src='https://img.shields.io/github/stars/LumingYin/SpeedReader?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/LumingYin/SpeedReader' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/LumingYin/SpeedReader' alt='License'/>
 
   <details>
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Website:** [https://apps.apple.com/app/speed-reader/id1258448209](https://apps.apple.com/app/speed-reader/id1258448209)
 
@@ -9602,7 +9611,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/typescript-16.png' alt='TypeScript icon' title='TypeScript' height='16'/> <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   </p>
   </details>
@@ -9615,7 +9624,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/typescript-16.png' alt='TypeScript icon' title='TypeScript' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript 
 
   **Website:** [https://sqlectron.github.io/](https://sqlectron.github.io/)
 
@@ -9634,7 +9643,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Screenshots:**
 
@@ -9651,7 +9660,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Website:** [https://github.com/LumingYin/StickyNotes/releases ![GitHub Repo Stars](https://img.shields.io/github/stars/LumingYin/StickyNotes) ![GitHub last commit](https://img.shields.io/github/last-commit/LumingYin/StickyNotes)](https://github.com/LumingYin/StickyNotes/releases)
 
@@ -9670,7 +9679,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/cpp-16.png' alt='C++ icon' title='C++' height='16'/> <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-16.png' alt='Objective-C icon' title='Objective-C' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++ <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
 
   **Website:** [https://khrykin.github.io/StrategrDesktop/](https://khrykin.github.io/StrategrDesktop/)
 
@@ -9691,7 +9700,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-16.png' alt='JavaScript icon' title='JavaScript' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript 
 
   </p>
   </details>
@@ -9704,7 +9713,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/typescript-16.png' alt='TypeScript icon' title='TypeScript' height='16'/> <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-16.png' alt='JavaScript icon' title='JavaScript' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript 
 
   **Website:** [https://super-productivity.com](https://super-productivity.com)
 
@@ -9723,7 +9732,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Screenshots:**
 
@@ -9740,7 +9749,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-16.png' alt='Objective-C icon' title='Objective-C' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
 
   </p>
   </details>
@@ -9753,7 +9762,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-16.png' alt='JavaScript icon' title='JavaScript' height='16'/> <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/css-16.png' alt='CSS icon' title='CSS' height='16'/> <code>html</code> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/css-64.png' alt='CSS icon' title='CSS' height='16'/> CSS <code>html</code> 
 
   **Website:** [https://timetoleave.app/](https://timetoleave.app/)
 
@@ -9774,7 +9783,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Screenshots:**
 
@@ -9793,7 +9802,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/css-16.png' alt='CSS icon' title='CSS' height='16'/> <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-16.png' alt='JavaScript icon' title='JavaScript' height='16'/> <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/typescript-16.png' alt='TypeScript icon' title='TypeScript' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/css-64.png' alt='CSS icon' title='CSS' height='16'/> CSS <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript 
 
   **Website:** [https://timescribe.app](https://timescribe.app)
 
@@ -9818,7 +9827,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/css-16.png' alt='CSS icon' title='CSS' height='16'/> <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-16.png' alt='JavaScript icon' title='JavaScript' height='16'/> <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/typescript-16.png' alt='TypeScript icon' title='TypeScript' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/css-64.png' alt='CSS icon' title='CSS' height='16'/> CSS <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript 
 
   **Website:** [https://timescribe.app](https://timescribe.app)
 
@@ -9843,7 +9852,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/cpp-16.png' alt='C++ icon' title='C++' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++ 
 
   </p>
   </details>
@@ -9856,7 +9865,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   </p>
   </details>
@@ -9869,7 +9878,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   </p>
   </details>
@@ -9882,7 +9891,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/typescript-16.png' alt='TypeScript icon' title='TypeScript' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript 
 
   **Website:** [https://ueli.app/](https://ueli.app/)
 
@@ -9901,7 +9910,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Screenshots:**
 
@@ -9918,7 +9927,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/python-16.png' alt='Python icon' title='Python' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python 
 
   **Screenshots:**
 
@@ -9937,7 +9946,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-16.png' alt='JavaScript icon' title='JavaScript' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript 
 
   **Screenshots:**
 
@@ -9954,7 +9963,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/cpp-16.png' alt='C++ icon' title='C++' height='16'/> <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/Lua-16.png' alt='Lua icon' title='Lua' height='16'/> <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/c-16.png' alt='C icon' title='C' height='16'/> <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/python-16.png' alt='Python icon' title='Python' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++ <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/Lua-64.png' alt='Lua icon' title='Lua' height='16'/> Lua <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/c-64.png' alt='C icon' title='C' height='16'/> C <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python 
 
   </p>
   </details>
@@ -9967,7 +9976,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Website:** [https://yippy.mattdavo.com](https://yippy.mattdavo.com)
 
@@ -9986,7 +9995,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   </p>
   </details>
@@ -10003,7 +10012,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Screenshots:**
 
@@ -10026,7 +10035,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Screenshots:**
 
@@ -10045,7 +10054,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-16.png' alt='Objective-C icon' title='Objective-C' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
 
   **Screenshots:**
 
@@ -10062,7 +10071,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   </p>
   </details>
@@ -10075,7 +10084,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-16.png' alt='Objective-C icon' title='Objective-C' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
 
   **Screenshots:**
 
@@ -10096,7 +10105,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Screenshots:**
 
@@ -10117,7 +10126,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Website:** [https://mattiarossini.github.io/MinimalClock/](https://mattiarossini.github.io/MinimalClock/)
 
@@ -10136,7 +10145,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-16.png' alt='Objective-C icon' title='Objective-C' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
 
   **Screenshots:**
 
@@ -10153,7 +10162,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Screenshots:**
 
@@ -10172,7 +10181,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-16.png' alt='JavaScript icon' title='JavaScript' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript 
 
   **Screenshots:**
 
@@ -10195,7 +10204,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/rust-16.png' alt='Rust icon' title='Rust' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust 
 
   **Website:** [https://adequate.systems/](https://adequate.systems/)
 
@@ -10214,7 +10223,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/java-16.png' alt='Java icon' title='Java' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/java-64.png' alt='Java icon' title='Java' height='16'/> Java 
 
   **Website:** [https://cryptomator.org/](https://cryptomator.org/)
 
@@ -10229,7 +10238,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-16.png' alt='Objective-C icon' title='Objective-C' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
 
   </p>
   </details>
@@ -10242,7 +10251,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/shell-16.png' alt='Shell icon' title='Shell' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/shell-64.png' alt='Shell icon' title='Shell' height='16'/> Shell 
 
   **Screenshots:**
 
@@ -10259,7 +10268,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Website:** [https://paretosecurity.com/](https://paretosecurity.com/)
 
@@ -10278,7 +10287,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   </p>
   </details>
@@ -10291,7 +10300,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Website:** [https://saneclip.com](https://saneclip.com)
 
@@ -10312,7 +10321,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Website:** [https://sanehosts.com](https://sanehosts.com)
 
@@ -10331,7 +10340,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/python-16.png' alt='Python icon' title='Python' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python 
 
   **Screenshots:**
 
@@ -10350,7 +10359,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-16.png' alt='JavaScript icon' title='JavaScript' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript 
 
   **Website:** [https://getswifty.pro](https://getswifty.pro)
 
@@ -10371,7 +10380,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/c-16.png' alt='C icon' title='C' height='16'/> <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/cpp-16.png' alt='C++ icon' title='C++' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/c-64.png' alt='C icon' title='C' height='16'/> C <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++ 
 
   **Website:** [https://www.veracrypt.fr](https://www.veracrypt.fr)
 
@@ -10390,7 +10399,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/java-16.png' alt='Java icon' title='Java' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/java-64.png' alt='Java icon' title='Java' height='16'/> Java 
 
   **Website:** [https://cyberduck.io](https://cyberduck.io)
 
@@ -10411,7 +10420,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/python-16.png' alt='Python icon' title='Python' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python 
 
   </p>
   </details>
@@ -10424,7 +10433,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-16.png' alt='Objective-C icon' title='Objective-C' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
 
   **Website:** [https://ariessciences.com/highlight?product=easy-share-uploader](https://ariessciences.com/highlight?product=easy-share-uploader)
 
@@ -10458,7 +10467,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   </p>
   </details>
@@ -10471,7 +10480,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/cpp-16.png' alt='C++ icon' title='C++' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++ 
 
   **Website:** [https://nitroshare.net](https://nitroshare.net)
 
@@ -10486,7 +10495,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/cpp-16.png' alt='C++ icon' title='C++' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++ 
 
   </p>
   </details>
@@ -10499,7 +10508,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-16.png' alt='Objective-C icon' title='Objective-C' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
 
   </p>
   </details>
@@ -10512,7 +10521,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-16.png' alt='Objective-C icon' title='Objective-C' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
 
   **Website:** [https://soduto.com/](https://soduto.com/)
 
@@ -10527,7 +10536,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-16.png' alt='Objective-C icon' title='Objective-C' height='16'/> <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/c-16.png' alt='C icon' title='C' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/c-64.png' alt='C icon' title='C' height='16'/> C 
 
   </p>
   </details>
@@ -10540,7 +10549,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/python-16.png' alt='Python icon' title='Python' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python 
 
   </p>
   </details>
@@ -10557,7 +10566,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-16.png' alt='JavaScript icon' title='JavaScript' height='16'/> <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/css-16.png' alt='CSS icon' title='CSS' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/css-64.png' alt='CSS icon' title='CSS' height='16'/> CSS 
 
   </p>
   </details>
@@ -10570,7 +10579,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-16.png' alt='JavaScript icon' title='JavaScript' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript 
 
   </p>
   </details>
@@ -10583,7 +10592,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   </p>
   </details>
@@ -10596,7 +10605,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-16.png' alt='Objective-C icon' title='Objective-C' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
 
   **Screenshots:**
 
@@ -10613,7 +10622,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   </p>
   </details>
@@ -10626,7 +10635,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-16.png' alt='JavaScript icon' title='JavaScript' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript 
 
   **Screenshots:**
 
@@ -10643,7 +10652,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-16.png' alt='JavaScript icon' title='JavaScript' height='16'/> <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/css-16.png' alt='CSS icon' title='CSS' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/css-64.png' alt='CSS icon' title='CSS' height='16'/> CSS 
 
   </p>
   </details>
@@ -10656,7 +10665,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Screenshots:**
 
@@ -10673,7 +10682,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Screenshots:**
 
@@ -10696,7 +10705,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-16.png' alt='JavaScript icon' title='JavaScript' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript 
 
   </p>
   </details>
@@ -10709,7 +10718,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/cpp-16.png' alt='C++ icon' title='C++' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++ 
 
   **Website:** [https://obsproject.com/](https://obsproject.com/)
 
@@ -10724,7 +10733,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Website:** [https://www.plugformac.com/](https://www.plugformac.com/)
 
@@ -10747,7 +10756,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Screenshots:**
 
@@ -10768,7 +10777,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-16.png' alt='Objective-C icon' title='Objective-C' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
 
   **Screenshots:**
 
@@ -10791,7 +10800,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Screenshots:**
 
@@ -10810,7 +10819,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Screenshots:**
 
@@ -10827,7 +10836,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-16.png' alt='Objective-C icon' title='Objective-C' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
 
   </p>
   </details>
@@ -10840,7 +10849,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Screenshots:**
 
@@ -10857,7 +10866,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-16.png' alt='Objective-C icon' title='Objective-C' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
 
   **Screenshots:**
 
@@ -10874,7 +10883,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/cpp-16.png' alt='C++ icon' title='C++' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++ 
 
   </p>
   </details>
@@ -10887,7 +10896,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Screenshots:**
 
@@ -10906,7 +10915,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-16.png' alt='Objective-C icon' title='Objective-C' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
 
   **Screenshots:**
 
@@ -10923,7 +10932,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Screenshots:**
 
@@ -10940,7 +10949,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-16.png' alt='Objective-C icon' title='Objective-C' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
 
   **Screenshots:**
 
@@ -10957,7 +10966,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/shell-16.png' alt='Shell icon' title='Shell' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/shell-64.png' alt='Shell icon' title='Shell' height='16'/> Shell 
 
   **Screenshots:**
 
@@ -10974,7 +10983,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-16.png' alt='Objective-C icon' title='Objective-C' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
 
   **Website:** [https://github.com/LumingYin/macOSLucidaGrande/releases ![GitHub Repo Stars](https://img.shields.io/github/stars/LumingYin/macOSLucidaGrande) ![GitHub last commit](https://img.shields.io/github/last-commit/LumingYin/macOSLucidaGrande)](https://github.com/LumingYin/macOSLucidaGrande/releases)
 
@@ -10993,7 +11002,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   </p>
   </details>
@@ -11006,7 +11015,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-16.png' alt='Objective-C icon' title='Objective-C' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
 
   **Screenshots:**
 
@@ -11023,7 +11032,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Screenshots:**
 
@@ -11042,7 +11051,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-16.png' alt='Objective-C icon' title='Objective-C' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
 
   **Screenshots:**
 
@@ -11063,7 +11072,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/typescript-16.png' alt='TypeScript icon' title='TypeScript' height='16'/> <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   </p>
   </details>
@@ -11076,7 +11085,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Screenshots:**
 
@@ -11093,7 +11102,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-16.png' alt='Objective-C icon' title='Objective-C' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
 
   </p>
   </details>
@@ -11106,7 +11115,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Screenshots:**
 
@@ -11121,7 +11130,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/c-16.png' alt='C icon' title='C' height='16'/> <code>c++</code> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/c-64.png' alt='C icon' title='C' height='16'/> C <code>c++</code> 
 
   **Website:** [https://www.wireshark.org/](https://www.wireshark.org/)
 
@@ -11140,7 +11149,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/rust-16.png' alt='Rust icon' title='Rust' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust 
 
   **Screenshots:**
 
@@ -11157,7 +11166,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/golang-16.png' alt='Go icon' title='Go' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/golang-64.png' alt='Go icon' title='Go' height='16'/> Go 
 
   </p>
   </details>
@@ -11170,7 +11179,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-16.png' alt='Objective-C icon' title='Objective-C' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
 
   </p>
   </details>
@@ -11183,7 +11192,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/cpp-16.png' alt='C++ icon' title='C++' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++ 
 
   **Website:** [https://GetClipboard.app](https://GetClipboard.app)
 
@@ -11204,7 +11213,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Screenshots:**
 
@@ -11221,7 +11230,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   </p>
   </details>
@@ -11234,7 +11243,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-16.png' alt='JavaScript icon' title='JavaScript' height='16'/> <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/css-16.png' alt='CSS icon' title='CSS' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/css-64.png' alt='CSS icon' title='CSS' height='16'/> CSS 
 
   **Screenshots:**
 
@@ -11251,7 +11260,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-16.png' alt='Objective-C icon' title='Objective-C' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
 
   </p>
   </details>
@@ -11264,7 +11273,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/python-16.png' alt='Python icon' title='Python' height='16'/> <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/c-16.png' alt='C icon' title='C' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/c-64.png' alt='C icon' title='C' height='16'/> C 
 
   </p>
   </details>
@@ -11277,7 +11286,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/shell-16.png' alt='Shell icon' title='Shell' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/shell-64.png' alt='Shell icon' title='Shell' height='16'/> Shell 
 
   **Screenshots:**
 
@@ -11294,7 +11303,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Screenshots:**
 
@@ -11313,7 +11322,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   </p>
   </details>
@@ -11326,7 +11335,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/typescript-16.png' alt='TypeScript icon' title='TypeScript' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript 
 
   **Screenshots:**
 
@@ -11345,7 +11354,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   </p>
   </details>
@@ -11358,7 +11367,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/rust-16.png' alt='Rust icon' title='Rust' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust 
 
   **Screenshots:**
 
@@ -11379,7 +11388,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Screenshots:**
 
@@ -11396,7 +11405,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   </p>
   </details>
@@ -11409,7 +11418,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Website:** [https://pock.app/](https://pock.app/)
 
@@ -11428,7 +11437,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   </p>
   </details>
@@ -11441,7 +11450,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   </p>
   </details>
@@ -11454,7 +11463,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Screenshots:**
 
@@ -11477,7 +11486,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/python-16.png' alt='Python icon' title='Python' height='16'/> <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/typescript-16.png' alt='TypeScript icon' title='TypeScript' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript 
 
   **Website:** [https://activitywatch.net](https://activitywatch.net)
 
@@ -11492,7 +11501,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Screenshots:**
 
@@ -11515,7 +11524,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Website:** [https://appfair.app](https://appfair.app)
 
@@ -11538,7 +11547,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   </p>
   </details>
@@ -11551,7 +11560,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/typescript-16.png' alt='TypeScript icon' title='TypeScript' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript 
 
   **Website:** [https://www.balena.io/etcher](https://www.balena.io/etcher)
 
@@ -11566,7 +11575,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-16.png' alt='Objective-C icon' title='Objective-C' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
 
   **Screenshots:**
 
@@ -11583,7 +11592,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-16.png' alt='Objective-C icon' title='Objective-C' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
 
   </p>
   </details>
@@ -11596,7 +11605,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-16.png' alt='JavaScript icon' title='JavaScript' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript 
 
   **Website:** [https://betaflight.com/](https://betaflight.com/)
 
@@ -11615,7 +11624,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/typescript-16.png' alt='TypeScript icon' title='TypeScript' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript 
 
   **Website:** [https://bitwarden.com/](https://bitwarden.com/)
 
@@ -11638,7 +11647,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/typescript-16.png' alt='TypeScript icon' title='TypeScript' height='16'/> <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Screenshots:**
 
@@ -11655,7 +11664,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/typescript-16.png' alt='TypeScript icon' title='TypeScript' height='16'/> <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/rust-16.png' alt='Rust icon' title='Rust' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust 
 
   **Website:** [https://blinkeye.vercel.app/](https://blinkeye.vercel.app/)
 
@@ -11680,7 +11689,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-16.png' alt='JavaScript icon' title='JavaScript' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript 
 
   **Website:** [https://boop.okat.best](https://boop.okat.best)
 
@@ -11699,7 +11708,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-16.png' alt='JavaScript icon' title='JavaScript' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript 
 
   **Screenshots:**
 
@@ -11716,7 +11725,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Website:** [https://github.com/designsbymuzeer/Bye-Mac-App ![GitHub Repo Stars](https://img.shields.io/github/stars/designsbymuzeer/Bye-Mac-App) ![GitHub last commit](https://img.shields.io/github/last-commit/designsbymuzeer/Bye-Mac-App)](https://github.com/designsbymuzeer/Bye-Mac-App)
 
@@ -11735,7 +11744,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   </p>
   </details>
@@ -11748,7 +11757,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/python-16.png' alt='Python icon' title='Python' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python 
 
   **Website:** [https://calibre-ebook.com](https://calibre-ebook.com)
 
@@ -11763,20 +11772,20 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   </p>
   </details>
 
 - [Clear Clipboard Text Format ![GitHub Repo Stars](https://img.shields.io/github/stars/LumingYin/ClipboardClear) ![GitHub last commit](https://img.shields.io/github/last-commit/LumingYin/ClipboardClear)](https://github.com/LumingYin/ClipboardClear) - Easily clear the format of your clipboard text with Clear Clipboard Text Format.
 
-  **Badges:** <a href='https://apps.apple.com/app/clear-clipboard-text-format/id1322855232'><img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/app_store-16.png' alt='App Store' title='Download on the Mac App Store' height='16'/> App Store</a> &nbsp; <a href='https://github.com/LumingYin/ClipboardClear/releases/latest'><img src='https://img.shields.io/github/v/release/LumingYin/ClipboardClear?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/LumingYin/ClipboardClear'><img src='https://img.shields.io/github/stars/LumingYin/ClipboardClear?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/LumingYin/ClipboardClear' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/LumingYin/ClipboardClear' alt='License'/>
+  **Badges:** <a href='https://apps.apple.com/app/clear-clipboard-text-format/id1322855232'><img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/app_store-64.png' alt='App Store' title='Download on the Mac App Store' height='16'/> App Store</a> &nbsp; <a href='https://github.com/LumingYin/ClipboardClear/releases/latest'><img src='https://img.shields.io/github/v/release/LumingYin/ClipboardClear?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/LumingYin/ClipboardClear'><img src='https://img.shields.io/github/stars/LumingYin/ClipboardClear?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/LumingYin/ClipboardClear' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/LumingYin/ClipboardClear' alt='License'/>
 
   <details>
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-16.png' alt='Objective-C icon' title='Objective-C' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
 
   **Website:** [https://apps.apple.com/app/clear-clipboard-text-format/id1322855232](https://apps.apple.com/app/clear-clipboard-text-format/id1322855232)
 
@@ -11795,7 +11804,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Website:** [https://github.com/praneeth552/clipflow ![GitHub Repo Stars](https://img.shields.io/github/stars/praneeth552/clipflow) ![GitHub last commit](https://img.shields.io/github/last-commit/praneeth552/clipflow)](https://github.com/praneeth552/clipflow)
 
@@ -11816,7 +11825,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Screenshots:**
 
@@ -11833,7 +11842,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Screenshots:**
 
@@ -11850,7 +11859,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-16.png' alt='JavaScript icon' title='JavaScript' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript 
 
   **Screenshots:**
 
@@ -11873,7 +11882,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Website:** [https://devutils.com](https://devutils.com)
 
@@ -11892,7 +11901,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-16.png' alt='Objective-C icon' title='Objective-C' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
 
   **Website:** [https://dupeguru.voltaicideas.net/](https://dupeguru.voltaicideas.net/)
 
@@ -11907,7 +11916,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Screenshots:**
 
@@ -11924,7 +11933,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   </p>
   </details>
@@ -11937,7 +11946,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Screenshots:**
 
@@ -11954,7 +11963,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/c-16.png' alt='C icon' title='C' height='16'/> <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/cpp-16.png' alt='C++ icon' title='C++' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/c-64.png' alt='C icon' title='C' height='16'/> C <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++ 
 
   </p>
   </details>
@@ -11967,7 +11976,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/typescript-16.png' alt='TypeScript icon' title='TypeScript' height='16'/> <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/rust-16.png' alt='Rust icon' title='Rust' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust 
 
   **Website:** [https://filearchitect.com](https://filearchitect.com)
 
@@ -11986,7 +11995,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/golang-16.png' alt='Go icon' title='Go' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/golang-64.png' alt='Go icon' title='Go' height='16'/> Go 
 
   **Website:** [https://adequate.systems/](https://adequate.systems/)
 
@@ -12005,7 +12014,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/rust-16.png' alt='Rust icon' title='Rust' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust 
 
   </p>
   </details>
@@ -12018,7 +12027,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-16.png' alt='Objective-C icon' title='Objective-C' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
 
   </p>
   </details>
@@ -12029,7 +12038,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-16.png' alt='Objective-C icon' title='Objective-C' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
 
   **Website:** [https://grandperspectiv.sourceforge.net](https://grandperspectiv.sourceforge.net)
 
@@ -12052,7 +12061,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   </p>
   </details>
@@ -12065,7 +12074,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Screenshots:**
 
@@ -12084,7 +12093,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-16.png' alt='JavaScript icon' title='JavaScript' height='16'/> <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/typescript-16.png' alt='TypeScript icon' title='TypeScript' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript 
 
   **Website:** [https://gridfy.astroon.pro/](https://gridfy.astroon.pro/)
 
@@ -12107,7 +12116,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/ruby-16.png' alt='Ruby icon' title='Ruby' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/ruby-64.png' alt='Ruby icon' title='Ruby' height='16'/> Ruby 
 
   **Website:** [https://brew.sh/](https://brew.sh/)
 
@@ -12126,7 +12135,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Website:** [https://icemenubar.app/](https://icemenubar.app/)
 
@@ -12147,7 +12156,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Website:** [https://inputsource.pro](https://inputsource.pro)
 
@@ -12162,7 +12171,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-16.png' alt='Objective-C icon' title='Objective-C' height='16'/> <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/c-16.png' alt='C icon' title='C' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/c-64.png' alt='C icon' title='C' height='16'/> C 
 
   **Screenshots:**
 
@@ -12181,7 +12190,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-16.png' alt='JavaScript icon' title='JavaScript' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript 
 
   </p>
   </details>
@@ -12194,7 +12203,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/cpp-16.png' alt='C++ icon' title='C++' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++ 
 
   </p>
   </details>
@@ -12207,7 +12216,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-16.png' alt='JavaScript icon' title='JavaScript' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript 
 
   </p>
   </details>
@@ -12220,7 +12229,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Website:** [https://www.keka.io/en/](https://www.keka.io/en/)
 
@@ -12239,20 +12248,20 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   </p>
   </details>
 
 - [Layout Designer for UICollectionView ![GitHub Repo Stars](https://img.shields.io/github/stars/amirdew/CollectionViewPagingLayout) ![GitHub last commit](https://img.shields.io/github/last-commit/amirdew/CollectionViewPagingLayout)](https://github.com/amirdew/CollectionViewPagingLayout) - A simple but powerful tool that helps you make complex layouts for UICollectionView.
 
-  **Badges:** <a href='https://apps.apple.com/nl/app/layout-designer/id1507238011?l=en&mt=12'><img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/app_store-16.png' alt='App Store' title='Download on the Mac App Store' height='16'/> App Store</a> &nbsp; <a href='https://github.com/amirdew/CollectionViewPagingLayout/releases/latest'><img src='https://img.shields.io/github/v/release/amirdew/CollectionViewPagingLayout?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/amirdew/CollectionViewPagingLayout'><img src='https://img.shields.io/github/stars/amirdew/CollectionViewPagingLayout?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/amirdew/CollectionViewPagingLayout' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/amirdew/CollectionViewPagingLayout' alt='License'/>
+  **Badges:** <a href='https://apps.apple.com/nl/app/layout-designer/id1507238011?l=en&mt=12'><img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/app_store-64.png' alt='App Store' title='Download on the Mac App Store' height='16'/> App Store</a> &nbsp; <a href='https://github.com/amirdew/CollectionViewPagingLayout/releases/latest'><img src='https://img.shields.io/github/v/release/amirdew/CollectionViewPagingLayout?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/amirdew/CollectionViewPagingLayout'><img src='https://img.shields.io/github/stars/amirdew/CollectionViewPagingLayout?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/amirdew/CollectionViewPagingLayout' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/amirdew/CollectionViewPagingLayout' alt='License'/>
 
   <details>
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Website:** [https://apps.apple.com/nl/app/layout-designer/id1507238011?l=en&mt=12](https://apps.apple.com/nl/app/layout-designer/id1507238011?l=en&mt=12)
 
@@ -12271,7 +12280,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Website:** [https://schlaubischlump.github.io/LocationSimulator](https://schlaubischlump.github.io/LocationSimulator)
 
@@ -12290,7 +12299,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   </p>
   </details>
@@ -12303,7 +12312,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Screenshots:**
 
@@ -12320,7 +12329,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/shell-16.png' alt='Shell icon' title='Shell' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/shell-64.png' alt='Shell icon' title='Shell' height='16'/> Shell 
 
   **Screenshots:**
 
@@ -12337,7 +12346,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Website:** [https://macpacker.app/](https://macpacker.app/)
 
@@ -12356,7 +12365,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-16.png' alt='Objective-C icon' title='Objective-C' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
 
   **Screenshots:**
 
@@ -12373,7 +12382,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   </p>
   </details>
@@ -12386,7 +12395,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Screenshots:**
 
@@ -12403,7 +12412,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   </p>
   </details>
@@ -12416,7 +12425,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/c-16.png' alt='C icon' title='C' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/c-64.png' alt='C icon' title='C' height='16'/> C 
 
   **Screenshots:**
 
@@ -12433,7 +12442,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Screenshots:**
 
@@ -12450,7 +12459,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-16.png' alt='Objective-C icon' title='Objective-C' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
 
   **Screenshots:**
 
@@ -12467,7 +12476,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Screenshots:**
 
@@ -12484,7 +12493,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   </p>
   </details>
@@ -12497,7 +12506,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-16.png' alt='JavaScript icon' title='JavaScript' height='16'/> <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/typescript-16.png' alt='TypeScript icon' title='TypeScript' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript 
 
   **Screenshots:**
 
@@ -12516,7 +12525,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <code>c++</code> <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/shell-16.png' alt='Shell icon' title='Shell' height='16'/> <code>nix</code> 
+  **Languages:** <code>c++</code> <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/shell-64.png' alt='Shell icon' title='Shell' height='16'/> Shell <code>nix</code> 
 
   **Website:** [https://nixos.org/explore.html](https://nixos.org/explore.html)
 
@@ -12531,7 +12540,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/cpp-16.png' alt='C++ icon' title='C++' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++ 
 
   **Website:** [https://nmap.org](https://nmap.org)
 
@@ -12546,7 +12555,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Screenshots:**
 
@@ -12563,7 +12572,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   </p>
   </details>
@@ -12576,7 +12585,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   </p>
   </details>
@@ -12589,7 +12598,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-16.png' alt='JavaScript icon' title='JavaScript' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript 
 
   **Website:** [https://numi.app/](https://numi.app/)
 
@@ -12608,7 +12617,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/shell-16.png' alt='Shell icon' title='Shell' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/shell-64.png' alt='Shell icon' title='Shell' height='16'/> Shell 
 
   </p>
   </details>
@@ -12621,7 +12630,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Website:** [https://omniprompt.app/](https://omniprompt.app/)
 
@@ -12636,7 +12645,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Website:** [https://www.jacklandrin.com/2021/12/01/onlyswitch/](https://www.jacklandrin.com/2021/12/01/onlyswitch/)
 
@@ -12655,7 +12664,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/python-16.png' alt='Python icon' title='Python' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python 
 
   **Website:** [https://dortania.github.io/OpenCore-Legacy-Patcher/](https://dortania.github.io/OpenCore-Legacy-Patcher/)
 
@@ -12670,7 +12679,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/java-16.png' alt='Java icon' title='Java' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/java-64.png' alt='Java icon' title='Java' height='16'/> Java 
 
   **Website:** [https://openrocket.info/](https://openrocket.info/)
 
@@ -12685,7 +12694,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-16.png' alt='JavaScript icon' title='JavaScript' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript 
 
   </p>
   </details>
@@ -12698,7 +12707,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-16.png' alt='JavaScript icon' title='JavaScript' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript 
 
   **Screenshots:**
 
@@ -12736,7 +12745,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   </p>
   </details>
@@ -12749,7 +12758,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> <code>metal</code> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift <code>metal</code> 
 
   **Website:** [https://superhighfives.com/pika](https://superhighfives.com/pika)
 
@@ -12768,7 +12777,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Screenshots:**
 
@@ -12787,7 +12796,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Screenshots:**
 
@@ -12804,7 +12813,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/shell-16.png' alt='Shell icon' title='Shell' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/shell-64.png' alt='Shell icon' title='Shell' height='16'/> Shell 
 
   **Screenshots:**
 
@@ -12821,7 +12830,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/csharp-16.png' alt='C# icon' title='C#' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/csharp-64.png' alt='C# icon' title='C#' height='16'/> C# 
 
   </p>
   </details>
@@ -12834,7 +12843,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Website:** [https://swiftyfinch.github.io/en/2021-03-09-rugby-story/](https://swiftyfinch.github.io/en/2021-03-09-rugby-story/)
 
@@ -12853,7 +12862,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/rust-16.png' alt='Rust icon' title='Rust' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust 
 
   **Website:** [https://rustcast.umangsurana.com](https://rustcast.umangsurana.com)
 
@@ -12872,7 +12881,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Website:** [https://sanebar.com](https://sanebar.com)
 
@@ -12893,7 +12902,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Website:** [https://saneclick.com](https://saneclick.com)
 
@@ -12912,7 +12921,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Website:** [https://saneclip.com](https://saneclip.com)
 
@@ -12933,7 +12942,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Website:** [https://sanehosts.com](https://sanehosts.com)
 
@@ -12952,7 +12961,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Website:** [https://sanesales.com](https://sanesales.com)
 
@@ -12975,7 +12984,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-16.png' alt='JavaScript icon' title='JavaScript' height='16'/> <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/css-16.png' alt='CSS icon' title='CSS' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/css-64.png' alt='CSS icon' title='CSS' height='16'/> CSS 
 
   </p>
   </details>
@@ -12988,7 +12997,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Website:** [https://screenhint.com](https://screenhint.com)
 
@@ -13011,7 +13020,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/rust-16.png' alt='Rust icon' title='Rust' height='16'/> <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/typescript-16.png' alt='TypeScript icon' title='TypeScript' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript 
 
   **Website:** [https://screenpi.pe](https://screenpi.pe)
 
@@ -13030,7 +13039,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Screenshots:**
 
@@ -13047,7 +13056,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Screenshots:**
 
@@ -13066,7 +13075,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-16.png' alt='Objective-C icon' title='Objective-C' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
 
   </p>
   </details>
@@ -13079,7 +13088,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/typescript-16.png' alt='TypeScript icon' title='TypeScript' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript 
 
   **Screenshots:**
 
@@ -13098,7 +13107,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/typescript-16.png' alt='TypeScript icon' title='TypeScript' height='16'/> <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   </p>
   </details>
@@ -13111,7 +13120,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Screenshots:**
 
@@ -13128,7 +13137,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/java-16.png' alt='Java icon' title='Java' height='16'/> <code>html</code> <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-16.png' alt='JavaScript icon' title='JavaScript' height='16'/> <code>html</code> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/java-64.png' alt='Java icon' title='Java' height='16'/> Java <code>html</code> <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript <code>html</code> 
 
   **Website:** [stirlingpdf.com](stirlingpdf.com)
 
@@ -13143,7 +13152,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Screenshots:**
 
@@ -13162,7 +13171,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/typescript-16.png' alt='TypeScript icon' title='TypeScript' height='16'/> <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-16.png' alt='JavaScript icon' title='JavaScript' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript 
 
   **Website:** [https://super-productivity.com](https://super-productivity.com)
 
@@ -13181,7 +13190,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-16.png' alt='Objective-C icon' title='Objective-C' height='16'/> <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   </p>
   </details>
@@ -13194,7 +13203,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-16.png' alt='JavaScript icon' title='JavaScript' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript 
 
   </p>
   </details>
@@ -13207,7 +13216,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Screenshots:**
 
@@ -13224,7 +13233,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   </p>
   </details>
@@ -13237,7 +13246,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Website:** [https://trex.ameba.co/](https://trex.ameba.co/)
 
@@ -13258,7 +13267,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Screenshots:**
 
@@ -13275,7 +13284,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Website:** [https://github.com/GeiserX/VPN-Bypass ![GitHub Repo Stars](https://img.shields.io/github/stars/GeiserX/VPN-Bypass) ![GitHub last commit](https://img.shields.io/github/last-commit/GeiserX/VPN-Bypass)](https://github.com/GeiserX/VPN-Bypass)
 
@@ -13296,7 +13305,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Website:** [https://wechsel.weise.io](https://wechsel.weise.io)
 
@@ -13315,7 +13324,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/cpp-16.png' alt='C++ icon' title='C++' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++ 
 
   **Website:** [https://www.wireshark.org](https://www.wireshark.org)
 
@@ -13330,7 +13339,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/cpp-16.png' alt='C++ icon' title='C++' height='16'/> <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/Lua-16.png' alt='Lua icon' title='Lua' height='16'/> <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/c-16.png' alt='C icon' title='C' height='16'/> <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/python-16.png' alt='Python icon' title='Python' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++ <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/Lua-64.png' alt='Lua icon' title='Lua' height='16'/> Lua <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/c-64.png' alt='C icon' title='C' height='16'/> C <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python 
 
   </p>
   </details>
@@ -13343,7 +13352,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/rust-16.png' alt='Rust icon' title='Rust' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust 
 
   **Screenshots:**
 
@@ -13360,7 +13369,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-16.png' alt='Objective-C icon' title='Objective-C' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
 
   </p>
   </details>
@@ -13377,7 +13386,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   </p>
   </details>
@@ -13390,7 +13399,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   </p>
   </details>
@@ -13403,7 +13412,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   </p>
   </details>
@@ -13416,7 +13425,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Screenshots:**
 
@@ -13433,7 +13442,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   </p>
   </details>
@@ -13446,7 +13455,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-16.png' alt='Objective-C icon' title='Objective-C' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
 
   </p>
   </details>
@@ -13459,7 +13468,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Website:** [https://github.com/GeiserX/VPN-Bypass ![GitHub Repo Stars](https://img.shields.io/github/stars/GeiserX/VPN-Bypass) ![GitHub last commit](https://img.shields.io/github/last-commit/GeiserX/VPN-Bypass)](https://github.com/GeiserX/VPN-Bypass)
 
@@ -13478,7 +13487,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Website:** [https://www.wireguard.com/](https://www.wireguard.com/)
 
@@ -13497,7 +13506,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/cpp-16.png' alt='C++ icon' title='C++' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++ 
 
   </p>
   </details>
@@ -13510,7 +13519,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-16.png' alt='Objective-C icon' title='Objective-C' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
 
   </p>
   </details>
@@ -13523,7 +13532,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Screenshots:**
 
@@ -13540,7 +13549,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Screenshots:**
 
@@ -13557,7 +13566,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Screenshots:**
 
@@ -13576,7 +13585,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-16.png' alt='Objective-C icon' title='Objective-C' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
 
   </p>
   </details>
@@ -13589,7 +13598,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/cpp-16.png' alt='C++ icon' title='C++' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++ 
 
   **Website:** [https://www.gnugk.org](https://www.gnugk.org)
 
@@ -13604,7 +13613,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/c-16.png' alt='C icon' title='C' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/c-64.png' alt='C icon' title='C' height='16'/> C 
 
   </p>
   </details>
@@ -13617,7 +13626,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-16.png' alt='JavaScript icon' title='JavaScript' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript 
 
   **Website:** [https://mifi.no/losslesscut/](https://mifi.no/losslesscut/)
 
@@ -13636,7 +13645,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-16.png' alt='JavaScript icon' title='JavaScript' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript 
 
   </p>
   </details>
@@ -13649,7 +13658,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/c-16.png' alt='C icon' title='C' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/c-64.png' alt='C icon' title='C' height='16'/> C 
 
   **Website:** [https://mpv.io](https://mpv.io)
 
@@ -13668,20 +13677,20 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/python-16.png' alt='Python icon' title='Python' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python 
 
   </p>
   </details>
 
 - [Quick Caption ![GitHub Repo Stars](https://img.shields.io/github/stars/LumingYin/Caption) ![GitHub last commit](https://img.shields.io/github/last-commit/LumingYin/Caption)](https://github.com/LumingYin/Caption) - Transcribe and generate caption files (SRT, ASS and FCPXML) without manually entering time codes.
 
-  **Badges:** <a href='https://apps.apple.com/app/quick-caption/id1363610340'><img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/app_store-16.png' alt='App Store' title='Download on the Mac App Store' height='16'/> App Store</a> &nbsp; <a href='https://github.com/LumingYin/Caption/releases/latest'><img src='https://img.shields.io/github/v/release/LumingYin/Caption?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/LumingYin/Caption'><img src='https://img.shields.io/github/stars/LumingYin/Caption?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/LumingYin/Caption' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/LumingYin/Caption' alt='License'/>
+  **Badges:** <a href='https://apps.apple.com/app/quick-caption/id1363610340'><img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/app_store-64.png' alt='App Store' title='Download on the Mac App Store' height='16'/> App Store</a> &nbsp; <a href='https://github.com/LumingYin/Caption/releases/latest'><img src='https://img.shields.io/github/v/release/LumingYin/Caption?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/LumingYin/Caption'><img src='https://img.shields.io/github/stars/LumingYin/Caption?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/LumingYin/Caption' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/LumingYin/Caption' alt='License'/>
 
   <details>
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Website:** [https://apps.apple.com/app/quick-caption/id1363610340](https://apps.apple.com/app/quick-caption/id1363610340)
 
@@ -13700,7 +13709,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-16.png' alt='Objective-C icon' title='Objective-C' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
 
   </p>
   </details>
@@ -13711,7 +13720,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-16.png' alt='Objective-C icon' title='Objective-C' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
 
   **Website:** [https://subler.org](https://subler.org)
 
@@ -13726,7 +13735,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   </p>
   </details>
@@ -13739,7 +13748,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/c-16.png' alt='C icon' title='C' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/c-64.png' alt='C icon' title='C' height='16'/> C 
 
   **Website:** [https://www.videolan.org/vlc/](https://www.videolan.org/vlc/)
 
@@ -13754,7 +13763,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-16.png' alt='JavaScript icon' title='JavaScript' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript 
 
   **Screenshots:**
 
@@ -13775,7 +13784,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Screenshots:**
 
@@ -13794,7 +13803,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-16.png' alt='JavaScript icon' title='JavaScript' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript 
 
   </p>
   </details>
@@ -13811,7 +13820,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   </p>
   </details>
@@ -13824,7 +13833,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Screenshots:**
 
@@ -13847,7 +13856,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-16.png' alt='Objective-C icon' title='Objective-C' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
 
   </p>
   </details>
@@ -13860,7 +13869,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Screenshots:**
 
@@ -13879,7 +13888,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/cpp-16.png' alt='C++ icon' title='C++' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++ 
 
   </p>
   </details>
@@ -13892,7 +13901,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Website:** [https://equinoxmac.com](https://equinoxmac.com)
 
@@ -13911,7 +13920,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   </p>
   </details>
@@ -13924,7 +13933,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Website:** [https://sindresorhus.com/plash](https://sindresorhus.com/plash)
 
@@ -13943,7 +13952,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/python-16.png' alt='Python icon' title='Python' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python 
 
   </p>
   </details>
@@ -13956,7 +13965,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-16.png' alt='Objective-C icon' title='Objective-C' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
 
   **Screenshots:**
 
@@ -13973,7 +13982,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Screenshots:**
 
@@ -13990,7 +13999,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/ruby-16.png' alt='Ruby icon' title='Ruby' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/ruby-64.png' alt='Ruby icon' title='Ruby' height='16'/> Ruby 
 
   </p>
   </details>
@@ -14007,7 +14016,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/shell-16.png' alt='Shell icon' title='Shell' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/shell-64.png' alt='Shell icon' title='Shell' height='16'/> Shell 
 
   **Website:** [https://alt-tab-macos.netlify.app/](https://alt-tab-macos.netlify.app/)
 
@@ -14030,7 +14039,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Website:** [https://alt-tab-macos.netlify.app/](https://alt-tab-macos.netlify.app/)
 
@@ -14049,7 +14058,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Screenshots:**
 
@@ -14070,7 +14079,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-16.png' alt='Objective-C icon' title='Objective-C' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
 
   **Screenshots:**
 
@@ -14089,7 +14098,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Screenshots:**
 
@@ -14108,7 +14117,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Website:** [[official site](https://dockit-docs.pages.dev/?s=open-sourse-mac-os-apps)]([official site](https://dockit-docs.pages.dev/?s=open-sourse-mac-os-apps))
 
@@ -14127,7 +14136,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/Lua-16.png' alt='Lua icon' title='Lua' height='16'/> <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-16.png' alt='Objective-C icon' title='Objective-C' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/Lua-64.png' alt='Lua icon' title='Lua' height='16'/> Lua <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
 
   </p>
   </details>
@@ -14140,7 +14149,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Website:** [https://icemenubar.app/](https://icemenubar.app/)
 
@@ -14161,7 +14170,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Screenshots:**
 
@@ -14178,7 +14187,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-16.png' alt='Objective-C icon' title='Objective-C' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
 
   **Screenshots:**
 
@@ -14195,7 +14204,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Website:** [https://rectangleapp.com](https://rectangleapp.com)
 
@@ -14210,7 +14219,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-16.png' alt='Objective-C icon' title='Objective-C' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
 
   **Screenshots:**
 
@@ -14231,7 +14240,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-16.png' alt='Objective-C icon' title='Objective-C' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
 
   </p>
   </details>
@@ -14244,7 +14253,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-16.png' alt='Objective-C icon' title='Objective-C' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
 
   </p>
   </details>
@@ -14257,7 +14266,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Screenshots:**
 
@@ -14274,7 +14283,7 @@ You can see in which language an app is written. Currently there are following l
   <summary>More</summary>
   <p>
 
-  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/c-16.png' alt='C icon' title='C' height='16'/> <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-16.png' alt='Objective-C icon' title='Objective-C' height='16'/> 
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/c-64.png' alt='C icon' title='C' height='16'/> C <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
 
   **Screenshots:**
 
@@ -14293,24 +14302,24 @@ Thanks to all the people who contribute:
 
 <a href="https://github.com/serhii-londar/open-source-mac-os-apps/graphs/contributors"><img src="https://opencollective.com/open-source-mac-os-apps/contributors.svg?width=890&button=false" /></a>
 
-[app_store]: https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/app_store-16.png 'App Store.'
-[c_icon]: https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/c-16.png 'C language.'
-[cpp_icon]: https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/cpp-16.png 'C++ language.'
-[c_sharp_icon]: https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/csharp-16.png 'C# Language'
-[clojure_icon]: https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/clojure-16.png 'Clojure Language'
-[coffee_script_icon]: https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/coffeescript-16.png 'CoffeeScript language.'
-[css_icon]: https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/css-16.png 'CSS language.'
-[go_icon]: https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/golang-16.png 'Go language.'
-[elm_icon]: https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/elm-16.png 'Elm Language'
-[haskell_icon]: https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/haskell-16.png 'Haskell language.'
-[java_icon]: https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/java-16.png 'Java language.'
-[javascript_icon]: https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-16.png 'JavaScript language.'
-[lua_icon]: https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/Lua-16.png 'Lua language.'
-[metal_icon]: https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/metal-16.png 'Metal language.'
-[objective_c_icon]: https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-16.png 'Objective-C language.'
-[python_icon]: https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/python-16.png 'Python language.'
-[ruby_icon]: https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/ruby-16.png 'Ruby language.'
-[rust_icon]: https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/rust-16.png 'Rust language.'
-[shell_icon]: https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/shell-16.png 'Shell language.'
-[swift_icon]: https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png 'Swift language.'
-[typescript_icon]: https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/typescript-16.png 'TypeScript language.'
+[app_store]: https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/app_store-64.png 'App Store.'
+[c_icon]: https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/c-64.png 'C language.'
+[cpp_icon]: https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/cpp-64.png 'C++ language.'
+[c_sharp_icon]: https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/csharp-64.png 'C# Language'
+[clojure_icon]: https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/clojure-64.png 'Clojure Language'
+[coffee_script_icon]: https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/coffeescript-64.png 'CoffeeScript language.'
+[css_icon]: https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/css-64.png 'CSS language.'
+[go_icon]: https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/golang-64.png 'Go language.'
+[elm_icon]: https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/elm-64.png 'Elm Language'
+[haskell_icon]: https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/haskell-64.png 'Haskell language.'
+[java_icon]: https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/java-64.png 'Java language.'
+[javascript_icon]: https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-64.png 'JavaScript language.'
+[lua_icon]: https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/Lua-64.png 'Lua language.'
+[metal_icon]: https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/metal-64.png 'Metal language.'
+[objective_c_icon]: https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-64.png 'Objective-C language.'
+[python_icon]: https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/python-64.png 'Python language.'
+[ruby_icon]: https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/ruby-64.png 'Ruby language.'
+[rust_icon]: https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/rust-64.png 'Rust language.'
+[shell_icon]: https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/shell-64.png 'Shell language.'
+[swift_icon]: https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png 'Swift language.'
+[typescript_icon]: https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/typescript-64.png 'TypeScript language.'

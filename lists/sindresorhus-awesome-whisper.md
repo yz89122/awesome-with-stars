@@ -65,6 +65,7 @@
 - [WhisperScript](https://store.getwavery.com/l/whisperscript) - Audio transcription macOS app. (Freemium · Electron)
 - [Audio Podium](https://apps.apple.com/app/id6449008295) - Audio/video management macOS app.
 - [superwhisper](https://superwhisper.com) - Global audio transcription macOS menu bar app.
+- [TypeWhisper ![GitHub Repo Stars](https://img.shields.io/github/stars/TypeWhisper/typewhisper-mac) ![GitHub last commit](https://img.shields.io/github/last-commit/TypeWhisper/typewhisper-mac)](https://github.com/TypeWhisper/typewhisper-mac) - Local speech-to-text transcription for macOS and Windows with system-wide dictation.
 - [Speech Note ![GitHub Repo Stars](https://img.shields.io/github/stars/mkiol/dsnote) ![GitHub last commit](https://img.shields.io/github/last-commit/mkiol/dsnote)](https://github.com/mkiol/dsnote) - Audio transcription Linux app.
 - [FridayGPT](https://www.fridaygpt.app) - Dictation macOS app powered by OpenAI API.
 - [EasyWhisper](https://easywhisper.io) - Windows and macOS app for audio transcription and speaker diarization. (Freemium)
