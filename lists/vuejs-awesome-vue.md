@@ -15,6 +15,7 @@
 
 - [Resources](#resources)
   - [Official Resources](#official-resources)
+  - [Truly awesome projects](#truly-awesome-projects)
   - [External Resources](#external-resources)
   - [Newsletters](#newsletters)
   - [Job Portal](#job-portal)
@@ -53,7 +54,6 @@
       - [Progress Bar](#progress-bar)
     - [Tooltip](#tooltip)
     - [Overlay](#overlay)
-    - [Icons](#icons)
     - [Marquee](#marquee)
     - [Menu](#menu)
     - [Carousel](#carousel)
@@ -161,6 +161,14 @@
 - [Vue.js News](https://news.vuejs.org/)
 - [IDE Language Support ![GitHub Repo Stars](https://img.shields.io/github/stars/vuejs/language-tools) ![GitHub last commit](https://img.shields.io/github/last-commit/vuejs/language-tools)](https://github.com/vuejs/language-tools?tab=readme-ov-file#vue-language-tools)
 - [Awesome Vite ![GitHub Repo Stars](https://img.shields.io/github/stars/vitejs/awesome-vite) ![GitHub last commit](https://img.shields.io/github/last-commit/vitejs/awesome-vite)](https://github.com/vitejs/awesome-vite)
+
+### Truly awesome projects
+
+These projects are exceptionally high quality, have a proven trackrecord, and are virtually indispensable.
+
+ - [Vue DevTools ![GitHub Repo Stars](https://img.shields.io/github/stars/vuejs/devtools) ![GitHub last commit](https://img.shields.io/github/last-commit/vuejs/devtools)](https://github.com/vuejs/devtools) - Browser devtools extension for debugging Vue.js applications.
+ - [unplugin-icons ![GitHub Repo Stars](https://img.shields.io/github/stars/unplugin/unplugin-icons) ![GitHub last commit](https://img.shields.io/github/last-commit/unplugin/unplugin-icons)](https://github.com/unplugin/unplugin-icons) - On-demand icon loader supporting all known popular icon sets
+ - [vue-i18n ![GitHub Repo Stars](https://img.shields.io/github/stars/intlify/vue-i18n) ![GitHub last commit](https://img.shields.io/github/last-commit/intlify/vue-i18n)](https://github.com/intlify/vue-i18n) - Internationalization plugin for Vue.js
 
 ### External Resources
 
@@ -1007,13 +1015,6 @@ _Overlay / modal / alert / dialog / lightbox / popup_
 - [vuejs-confirm-dialog ![GitHub Repo Stars](https://img.shields.io/github/stars/harmyderoman/vuejs-confirm-dialog) ![GitHub last commit](https://img.shields.io/github/last-commit/harmyderoman/vuejs-confirm-dialog)](https://github.com/harmyderoman/vuejs-confirm-dialog) - :speech_balloon: a simple way to create, reuse, promisify and build chains of modal dialogs in Vue.js.
 - [@kolirt/vue-modal ![GitHub Repo Stars](https://img.shields.io/github/stars/kolirt/vue-modal) ![GitHub last commit](https://img.shields.io/github/last-commit/kolirt/vue-modal)](https://github.com/kolirt/vue-modal) - ⚡️ Simple Vue3 modal package
 - [vuetify-resize-drawer ![GitHub Repo Stars](https://img.shields.io/github/stars/webdevnerdstuff/vuetify-resize-drawer) ![GitHub last commit](https://img.shields.io/github/last-commit/webdevnerdstuff/vuetify-resize-drawer)](https://github.com/webdevnerdstuff/vuetify-resize-drawer) - The vuetify-resize-drawer component extends the functionality of the v-navigation-drawer so that it is resizable by the user.
-
-#### Icons
-
-- [vue-material-design-icons ![GitHub Repo Stars](https://img.shields.io/github/stars/robcresswell/vue-material-design-icons) ![GitHub last commit](https://img.shields.io/github/last-commit/robcresswell/vue-material-design-icons)](https://github.com/robcresswell/vue-material-design-icons "vue-material-design-icons on GitHub") - A collection of SVG Material Design icons as single file components.
-- [vue-fontawesome ![GitHub Repo Stars](https://img.shields.io/github/stars/FortAwesome/vue-fontawesome) ![GitHub last commit](https://img.shields.io/github/last-commit/FortAwesome/vue-fontawesome)](https://github.com/FortAwesome/vue-fontawesome) - Font Awesome 5 Vue component
-- [vue-fa ![GitHub Repo Stars](https://img.shields.io/github/stars/Cweili/vue-fa) ![GitHub last commit](https://img.shields.io/github/last-commit/Cweili/vue-fa)](https://github.com/Cweili/vue-fa) - Simple FontAwesome 5 Vue.js 2 component.
-- [vue-icons ![GitHub Repo Stars](https://img.shields.io/github/stars/kalimah-apps/vue-icons) ![GitHub last commit](https://img.shields.io/github/last-commit/kalimah-apps/vue-icons)](https://github.com/kalimah-apps/vue-icons) - More than 11,000 icons from most popular icon libraries (bootstrap, fontawesome, feather .. etc)
 
 #### Marquee
 
