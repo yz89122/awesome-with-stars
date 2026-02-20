@@ -12,9 +12,9 @@
     <a href="https://t.me/opensourcemacosapps"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-Channel-blue.svg" /></a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Total%20Apps-645-blue" alt="Total Apps"/>
+    <img src="https://img.shields.io/badge/Total%20Apps-646-blue" alt="Total Apps"/>
     <img src="https://img.shields.io/badge/Categories-49-green" alt="Categories"/>
-    <img src="https://img.shields.io/badge/Last%20Updated-February%2019,%202026-orange" alt="Last Updated"/>
+    <img src="https://img.shields.io/badge/Last%20Updated-February%2020,%202026-orange" alt="Last Updated"/>
   </p>
 </div>
 
@@ -44,9 +44,9 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 
 | Metric | Count |
 |--------|-------|
-| 📱 Total Applications | 645 |
+| 📱 Total Applications | 646 |
 | 📂 Categories | 49 |
-| 🔝 Top Languages | Swift: 281 • Objective-C: 133 • Javascript: 112 • C++: 57 • C: 36 |
+| 🔝 Top Languages | Swift: 282 • Objective-C: 133 • Javascript: 112 • C++: 57 • C: 36 |
 
 ## Languages
 
@@ -6001,7 +6001,7 @@ You can see in which language an app is written. Currently there are following l
 <div align="right"><a href="#contents">⬆️ Back to Top</a></div>
 
 <a id="menubar"></a>
-### 📊 Menubar (46)
+### 📊 Menubar (47)
 - [Airpass ![GitHub Repo Stars](https://img.shields.io/github/stars/alvesjtiago/airpass) ![GitHub last commit](https://img.shields.io/github/last-commit/alvesjtiago/airpass)](https://github.com/alvesjtiago/airpass) - Status bar Mac application to overcome time constrained WiFi networks. 
 
   <details>
@@ -6586,6 +6586,27 @@ You can see in which language an app is written. Currently there are following l
   **Screenshots:**
 
   <img src='https://rustcast.umangsurana.com/rustcast-v0-5-0.png' width='400' loading='lazy'/>
+
+  </p>
+  </details>
+
+- [SaneBar ![GitHub Repo Stars](https://img.shields.io/github/stars/sane-apps/SaneBar) ![GitHub last commit](https://img.shields.io/github/last-commit/sane-apps/SaneBar)](https://github.com/sane-apps/SaneBar) - Privacy-first menu bar manager with Touch ID lock, Always-Hidden Zone, and automation triggers.
+
+  <details>
+  <summary>More</summary>
+  <p>
+
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+
+  **Links:** <a href='https://github.com/sane-apps/SaneBar/releases/latest'><img src='https://img.shields.io/github/v/release/sane-apps/SaneBar?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/sane-apps/SaneBar'><img src='https://img.shields.io/github/stars/sane-apps/SaneBar?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/sane-apps/SaneBar' alt='License'/>
+
+  **Website:** [https://sanebar.com](https://sanebar.com)
+
+  **Screenshots:**
+
+  <img src='https://raw.githubusercontent.com/sane-apps/SaneBar/main/docs/images/icon-panel.png' width='400' loading='lazy'/>
+
+  <img src='https://raw.githubusercontent.com/sane-apps/SaneBar/main/docs/images/second-menu-bar.png' width='400' loading='lazy'/>
 
   </p>
   </details>
@@ -10485,7 +10506,7 @@ You can see in which language an app is written. Currently there are following l
 <div align="right"><a href="#contents">⬆️ Back to Top</a></div>
 
 <a id="utilities"></a>
-### 🛠️ Utilities (94)
+### 🛠️ Utilities (95)
 - [Android tool for Mac ![GitHub Repo Stars](https://img.shields.io/github/stars/mortenjust/androidtool-mac) ![GitHub last commit](https://img.shields.io/github/last-commit/mortenjust/androidtool-mac)](https://github.com/mortenjust/androidtool-mac) - One-click screenshots, video recordings, app installation for iOS and Android 
 
   <details>
@@ -11710,6 +11731,27 @@ You can see in which language an app is written. Currently there are following l
   **Screenshots:**
 
   <img src='https://rustcast.umangsurana.com/rustcast-v0-5-0.png' width='400' loading='lazy'/>
+
+  </p>
+  </details>
+
+- [SaneBar ![GitHub Repo Stars](https://img.shields.io/github/stars/sane-apps/SaneBar) ![GitHub last commit](https://img.shields.io/github/last-commit/sane-apps/SaneBar)](https://github.com/sane-apps/SaneBar) - Privacy-first menu bar manager with Touch ID lock, Always-Hidden Zone, and automation triggers.
+
+  <details>
+  <summary>More</summary>
+  <p>
+
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+
+  **Links:** <a href='https://github.com/sane-apps/SaneBar/releases/latest'><img src='https://img.shields.io/github/v/release/sane-apps/SaneBar?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/sane-apps/SaneBar'><img src='https://img.shields.io/github/stars/sane-apps/SaneBar?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/sane-apps/SaneBar' alt='License'/>
+
+  **Website:** [https://sanebar.com](https://sanebar.com)
+
+  **Screenshots:**
+
+  <img src='https://raw.githubusercontent.com/sane-apps/SaneBar/main/docs/images/icon-panel.png' width='400' loading='lazy'/>
+
+  <img src='https://raw.githubusercontent.com/sane-apps/SaneBar/main/docs/images/second-menu-bar.png' width='400' loading='lazy'/>
 
   </p>
   </details>
