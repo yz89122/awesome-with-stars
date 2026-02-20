@@ -12,7 +12,7 @@
     <a href="https://t.me/opensourcemacosapps"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-Channel-blue.svg" /></a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Total%20Apps-646-blue" alt="Total Apps"/>
+    <img src="https://img.shields.io/badge/Total%20Apps-655-blue" alt="Total Apps"/>
     <img src="https://img.shields.io/badge/Categories-49-green" alt="Categories"/>
     <img src="https://img.shields.io/badge/Last%20Updated-February%2020,%202026-orange" alt="Last Updated"/>
   </p>
@@ -44,9 +44,9 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 
 | Metric | Count |
 |--------|-------|
-| 📱 Total Applications | 646 |
+| 📱 Total Applications | 655 |
 | 📂 Categories | 49 |
-| 🔝 Top Languages | Swift: 282 • Objective-C: 133 • Javascript: 112 • C++: 57 • C: 36 |
+| 🔝 Top Languages | Swift: 287 • Objective-C: 133 • Javascript: 112 • C++: 57 • C: 36 |
 
 ## Languages
 
@@ -1824,7 +1824,7 @@ You can see in which language an app is written. Currently there are following l
 <div align="right"><a href="#contents">⬆️ Back to Top</a></div>
 
 <a id="development"></a>
-### 👨‍💻 Development (11)
+### 👨‍💻 Development (12)
 - [Apache Netbeans ![GitHub Repo Stars](https://img.shields.io/github/stars/apache/netbeans) ![GitHub last commit](https://img.shields.io/github/last-commit/apache/netbeans)](https://github.com/apache/netbeans) - Apache NetBeans is an IDE, Tooling Platform and Application Framework suitable for development in Java, JavaScript, PHP, HTML5, CSS, and more.
 
   <details>
@@ -1969,6 +1969,29 @@ You can see in which language an app is written. Currently there are following l
   **Screenshots:**
 
   <img src='https://amir.app/git/layout_designer_preview.gif' width='400' loading='lazy'/>
+
+  </p>
+  </details>
+
+- [M-Courtyard ![GitHub Repo Stars](https://img.shields.io/github/stars/Mcourtyard/m-courtyard) ![GitHub last commit](https://img.shields.io/github/last-commit/Mcourtyard/m-courtyard)](https://github.com/Mcourtyard/m-courtyard) - Desktop app for fine-tuning LLMs on Apple Silicon Macs with zero code. Import documents, generate training datasets with AI, LoRA fine-tune, test, and export to Ollama — entirely offline.
+
+  <details>
+  <summary>More</summary>
+  <p>
+
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/typescript-16.png' alt='TypeScript icon' title='TypeScript' height='16'/> <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/rust-16.png' alt='Rust icon' title='Rust' height='16'/> <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/python-16.png' alt='Python icon' title='Python' height='16'/> 
+
+  **Links:** <a href='https://github.com/Mcourtyard/m-courtyard/releases/latest'><img src='https://img.shields.io/github/v/release/Mcourtyard/m-courtyard?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/Mcourtyard/m-courtyard'><img src='https://img.shields.io/github/stars/Mcourtyard/m-courtyard?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/Mcourtyard/m-courtyard' alt='License'/>
+
+  **Website:** [https://github.com/Mcourtyard/m-courtyard ![GitHub Repo Stars](https://img.shields.io/github/stars/Mcourtyard/m-courtyard) ![GitHub last commit](https://img.shields.io/github/last-commit/Mcourtyard/m-courtyard)](https://github.com/Mcourtyard/m-courtyard)
+
+  **Screenshots:**
+
+  <img src='https://raw.githubusercontent.com/Mcourtyard/m-courtyard/main/docs/screenshots/dashboard.png' width='400' loading='lazy'/>
+
+  <img src='https://raw.githubusercontent.com/Mcourtyard/m-courtyard/main/docs/screenshots/data-preparation.png' width='400' loading='lazy'/>
+
+  <img src='https://raw.githubusercontent.com/Mcourtyard/m-courtyard/main/docs/screenshots/training-progress.png' width='400' loading='lazy'/>
 
   </p>
   </details>
@@ -3641,7 +3664,7 @@ You can see in which language an app is written. Currently there are following l
 <div align="right"><a href="#contents">⬆️ Back to Top</a></div>
 
 <a id="editors"></a>
-### 📝 Editors (6)
+### 📝 Editors (7)
 - [AuroraEditor ![GitHub Repo Stars](https://img.shields.io/github/stars/AuroraEditor/AuroraEditor) ![GitHub last commit](https://img.shields.io/github/last-commit/AuroraEditor/AuroraEditor)](https://github.com/AuroraEditor/AuroraEditor) - Lightweight Code Editor (IDE) for macOS. 
 
   <details>
@@ -3758,6 +3781,25 @@ You can see in which language an app is written. Currently there are following l
   <img src='https://github.com/maxnd/mxMarkEdit/blob/main/screenshots/screenshot3.png' width='400' loading='lazy'/>
 
   *(1 more screenshots available in the repository)*
+
+  </p>
+  </details>
+
+- [Zed ![GitHub Repo Stars](https://img.shields.io/github/stars/zed-industries/zed) ![GitHub last commit](https://img.shields.io/github/last-commit/zed-industries/zed)](https://github.com/zed-industries/zed) - Zed is an open source, high-performance, and multiplayer code editor
+
+  <details>
+  <summary>More</summary>
+  <p>
+
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/rust-16.png' alt='Rust icon' title='Rust' height='16'/> 
+
+  **Links:** <a href='https://github.com/zed-industries/zed/releases/latest'><img src='https://img.shields.io/github/v/release/zed-industries/zed?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/zed-industries/zed'><img src='https://img.shields.io/github/stars/zed-industries/zed?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/zed-industries/zed' alt='License'/>
+
+  **Website:** [https://zed.dev](https://zed.dev)
+
+  **Screenshots:**
+
+  <img src='' width='400' loading='lazy'/>
 
   </p>
   </details>
@@ -4513,7 +4555,7 @@ You can see in which language an app is written. Currently there are following l
 <div align="right"><a href="#contents">⬆️ Back to Top</a></div>
 
 <a id="finder"></a>
-### 🔍 Finder (11)
+### 🔍 Finder (12)
 - [cd to...  ![GitHub Repo Stars](https://img.shields.io/github/stars/jbtule/cdto) ![GitHub last commit](https://img.shields.io/github/last-commit/jbtule/cdto)](https://github.com/jbtule/cdto) - Finder Toolbar app to open the current directory in the Terminal
 
   <details>
@@ -4678,6 +4720,25 @@ You can see in which language an app is written. Currently there are following l
   <img src='https://raw.githubusercontent.com/sindresorhus/quick-look-plugins/master/screenshots/QLMarkdown.png' width='400' loading='lazy'/>
 
   *(5 more screenshots available in the repository)*
+
+  </p>
+  </details>
+
+- [SaneClick ![GitHub Repo Stars](https://img.shields.io/github/stars/sane-apps/SaneClick) ![GitHub last commit](https://img.shields.io/github/last-commit/sane-apps/SaneClick)](https://github.com/sane-apps/SaneClick) - Finder extension with 51+ right-click actions for file management, image conversion, and developer tools.
+
+  <details>
+  <summary>More</summary>
+  <p>
+
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+
+  **Links:** <a href='https://github.com/sane-apps/SaneClick/releases/latest'><img src='https://img.shields.io/github/v/release/sane-apps/SaneClick?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/sane-apps/SaneClick'><img src='https://img.shields.io/github/stars/sane-apps/SaneClick?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/sane-apps/SaneClick' alt='License'/>
+
+  **Website:** [https://saneclick.com](https://saneclick.com)
+
+  **Screenshots:**
+
+  <img src='https://raw.githubusercontent.com/sane-apps/SaneClick/main/docs/screenshots/main-window.png' width='400' loading='lazy'/>
 
   </p>
   </details>
@@ -5192,7 +5253,7 @@ You can see in which language an app is written. Currently there are following l
 <div align="right"><a href="#contents">⬆️ Back to Top</a></div>
 
 <a id="ide"></a>
-### 💻 IDE (12)
+### 💻 IDE (13)
 - [Apache Netbeans ![GitHub Repo Stars](https://img.shields.io/github/stars/apache/netbeans) ![GitHub last commit](https://img.shields.io/github/last-commit/apache/netbeans)](https://github.com/apache/netbeans) - Apache NetBeans is an IDE, Tooling Platform and Application Framework suitable for development in Java, JavaScript, PHP, HTML5, CSS, and more.
 
   <details>
@@ -5388,6 +5449,25 @@ You can see in which language an app is written. Currently there are following l
   **Screenshots:**
 
   <img src='https://cloud.githubusercontent.com/assets/11839736/16642200/6624dde0-43bd-11e6-8595-c81885ba0dc2.png' width='400' loading='lazy'/>
+
+  </p>
+  </details>
+
+- [Zed ![GitHub Repo Stars](https://img.shields.io/github/stars/zed-industries/zed) ![GitHub last commit](https://img.shields.io/github/last-commit/zed-industries/zed)](https://github.com/zed-industries/zed) - Zed is an open source, high-performance, and multiplayer code editor
+
+  <details>
+  <summary>More</summary>
+  <p>
+
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/rust-16.png' alt='Rust icon' title='Rust' height='16'/> 
+
+  **Links:** <a href='https://github.com/zed-industries/zed/releases/latest'><img src='https://img.shields.io/github/v/release/zed-industries/zed?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/zed-industries/zed'><img src='https://img.shields.io/github/stars/zed-industries/zed?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/zed-industries/zed' alt='License'/>
+
+  **Website:** [https://zed.dev](https://zed.dev)
+
+  **Screenshots:**
+
+  <img src='' width='400' loading='lazy'/>
 
   </p>
   </details>
@@ -6001,7 +6081,7 @@ You can see in which language an app is written. Currently there are following l
 <div align="right"><a href="#contents">⬆️ Back to Top</a></div>
 
 <a id="menubar"></a>
-### 📊 Menubar (47)
+### 📊 Menubar (48)
 - [Airpass ![GitHub Repo Stars](https://img.shields.io/github/stars/alvesjtiago/airpass) ![GitHub last commit](https://img.shields.io/github/last-commit/alvesjtiago/airpass)](https://github.com/alvesjtiago/airpass) - Status bar Mac application to overcome time constrained WiFi networks. 
 
   <details>
@@ -6115,6 +6195,27 @@ You can see in which language an app is written. Currently there are following l
   **Screenshots:**
 
   <img src='https://github.com/user-attachments/assets/63dade24-d967-4946-89e5-f8ae44097b31' width='400' loading='lazy'/>
+
+  </p>
+  </details>
+
+- [ClipFlow ![GitHub Repo Stars](https://img.shields.io/github/stars/praneeth552/clipflow) ![GitHub last commit](https://img.shields.io/github/last-commit/praneeth552/clipflow)](https://github.com/praneeth552/clipflow) - Clipboard history manager for macOS with terminal-style navigation, image previews, and cursor-following popup.
+
+  <details>
+  <summary>More</summary>
+  <p>
+
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+
+  **Links:** <a href='https://github.com/praneeth552/clipflow/releases/latest'><img src='https://img.shields.io/github/v/release/praneeth552/clipflow?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/praneeth552/clipflow'><img src='https://img.shields.io/github/stars/praneeth552/clipflow?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/praneeth552/clipflow' alt='License'/>
+
+  **Website:** [https://github.com/praneeth552/clipflow ![GitHub Repo Stars](https://img.shields.io/github/stars/praneeth552/clipflow) ![GitHub last commit](https://img.shields.io/github/last-commit/praneeth552/clipflow)](https://github.com/praneeth552/clipflow)
+
+  **Screenshots:**
+
+  <img src='https://raw.githubusercontent.com/praneeth552/clipflow/main/screenshots/clipflow-popup.png' width='400' loading='lazy'/>
+
+  <img src='https://raw.githubusercontent.com/praneeth552/clipflow/main/screenshots/clipflow-menubar.png' width='400' loading='lazy'/>
 
   </p>
   </details>
@@ -7452,7 +7553,7 @@ You can see in which language an app is written. Currently there are following l
 <div align="right"><a href="#contents">⬆️ Back to Top</a></div>
 
 <a id="other"></a>
-### 📦 Other (22)
+### 📦 Other (23)
 - [Betaflight Configurator ![GitHub Repo Stars](https://img.shields.io/github/stars/betaflight/betaflight-configurator) ![GitHub last commit](https://img.shields.io/github/last-commit/betaflight/betaflight-configurator)](https://github.com/betaflight/betaflight-configurator) - Cross platform configuration tool for the Betaflight firmware.
 
   <details>
@@ -7746,6 +7847,23 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
+- [SwitchShuttle ![GitHub Repo Stars](https://img.shields.io/github/stars/s00d/switchshuttle) ![GitHub last commit](https://img.shields.io/github/last-commit/s00d/switchshuttle)](https://github.com/s00d/switchshuttle) - Simple commands shortcut menu for macOS. 
+
+  <details>
+  <summary>More</summary>
+  <p>
+
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/rust-16.png' alt='Rust icon' title='Rust' height='16'/> 
+
+  **Links:** <a href='https://github.com/s00d/switchshuttle/releases/latest'><img src='https://img.shields.io/github/v/release/s00d/switchshuttle?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/s00d/switchshuttle'><img src='https://img.shields.io/github/stars/s00d/switchshuttle?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/s00d/switchshuttle' alt='License'/>
+
+  **Screenshots:**
+
+  <img src='https://github.com/s00d/switchshuttle/raw/main/icons/intro.gif?raw=true' width='400' loading='lazy'/>
+
+  </p>
+  </details>
+
 - [syncthing-macosx ![GitHub Repo Stars](https://img.shields.io/github/stars/syncthing/syncthing-macos) ![GitHub last commit](https://img.shields.io/github/last-commit/syncthing/syncthing-macos)](https://github.com/syncthing/syncthing-macos) - Frugal nativemacOS macOS Syncthing application bundle. 
 
   <details>
@@ -8027,7 +8145,7 @@ You can see in which language an app is written. Currently there are following l
 <div align="right"><a href="#contents">⬆️ Back to Top</a></div>
 
 <a id="productivity"></a>
-### ⏱️ Productivity (65)
+### ⏱️ Productivity (68)
 - [Ao ![GitHub Repo Stars](https://img.shields.io/github/stars/klaudiosinani/ao) ![GitHub last commit](https://img.shields.io/github/last-commit/klaudiosinani/ao)](https://github.com/klaudiosinani/ao) - Elegant Microsoft To-Do desktop app.
 
   <details>
@@ -8290,6 +8408,25 @@ You can see in which language an app is written. Currently there are following l
   **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-16.png' alt='Objective-C icon' title='Objective-C' height='16'/> 
 
   **Links:** <a href='https://github.com/TermiT/flycut/releases/latest'><img src='https://img.shields.io/github/v/release/TermiT/flycut?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/TermiT/flycut'><img src='https://img.shields.io/github/stars/TermiT/flycut?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/TermiT/flycut' alt='License'/>
+
+  </p>
+  </details>
+
+- [Freeter ![GitHub Repo Stars](https://img.shields.io/github/stars/FreeterApp/Freeter) ![GitHub last commit](https://img.shields.io/github/last-commit/FreeterApp/Freeter)](https://github.com/FreeterApp/Freeter) - App that allows you to gather everything you need for work in one place, organized by projects and workflows, and have a quick access to them.
+
+  <details>
+  <summary>More</summary>
+  <p>
+
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/typescript-16.png' alt='TypeScript icon' title='TypeScript' height='16'/> 
+
+  **Links:** <a href='https://github.com/FreeterApp/Freeter/releases/latest'><img src='https://img.shields.io/github/v/release/FreeterApp/Freeter?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/FreeterApp/Freeter'><img src='https://img.shields.io/github/stars/FreeterApp/Freeter?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/FreeterApp/Freeter' alt='License'/>
+
+  **Website:** [https://freeter.io/](https://freeter.io/)
+
+  **Screenshots:**
+
+  <img src='https://freeter.io/images/app-screen.png' width='400' loading='lazy'/>
 
   </p>
   </details>
@@ -8693,6 +8830,50 @@ You can see in which language an app is written. Currently there are following l
   **Screenshots:**
 
   <img src='https://rustcast.umangsurana.com/rustcast-v0-5-0.png' width='400' loading='lazy'/>
+
+  </p>
+  </details>
+
+- [SaneClip ![GitHub Repo Stars](https://img.shields.io/github/stars/sane-apps/SaneClip) ![GitHub last commit](https://img.shields.io/github/last-commit/sane-apps/SaneClip)](https://github.com/sane-apps/SaneClip) - Clipboard manager with Touch ID protection, AES-256-GCM encryption, and sensitive data detection.
+
+  <details>
+  <summary>More</summary>
+  <p>
+
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+
+  **Links:** <a href='https://github.com/sane-apps/SaneClip/releases/latest'><img src='https://img.shields.io/github/v/release/sane-apps/SaneClip?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/sane-apps/SaneClip'><img src='https://img.shields.io/github/stars/sane-apps/SaneClip?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/sane-apps/SaneClip' alt='License'/>
+
+  **Website:** [https://saneclip.com](https://saneclip.com)
+
+  **Screenshots:**
+
+  <img src='https://raw.githubusercontent.com/sane-apps/SaneClip/main/docs/images/screenshot-popover.png' width='400' loading='lazy'/>
+
+  <img src='https://raw.githubusercontent.com/sane-apps/SaneClip/main/docs/images/screenshot-settings.png' width='400' loading='lazy'/>
+
+  </p>
+  </details>
+
+- [SaneSales ![GitHub Repo Stars](https://img.shields.io/github/stars/sane-apps/SaneSales) ![GitHub last commit](https://img.shields.io/github/last-commit/sane-apps/SaneSales)](https://github.com/sane-apps/SaneSales) - Universal indie sales tracker for LemonSqueezy, Gumroad, and Stripe with on-device privacy.
+
+  <details>
+  <summary>More</summary>
+  <p>
+
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+
+  **Links:** <a href='https://github.com/sane-apps/SaneSales/releases/latest'><img src='https://img.shields.io/github/v/release/sane-apps/SaneSales?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/sane-apps/SaneSales'><img src='https://img.shields.io/github/stars/sane-apps/SaneSales?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/sane-apps/SaneSales' alt='License'/>
+
+  **Website:** [https://sanesales.com](https://sanesales.com)
+
+  **Screenshots:**
+
+  <img src='https://raw.githubusercontent.com/sane-apps/SaneSales/main/docs/images/screenshot-mac-dashboard.png' width='400' loading='lazy'/>
+
+  <img src='https://raw.githubusercontent.com/sane-apps/SaneSales/main/docs/images/screenshot-mac-charts.png' width='400' loading='lazy'/>
+
+  <img src='https://raw.githubusercontent.com/sane-apps/SaneSales/main/docs/images/screenshot-iphone-dashboard.png' width='400' loading='lazy'/>
 
   </p>
   </details>
@@ -9338,7 +9519,7 @@ You can see in which language an app is written. Currently there are following l
 <div align="right"><a href="#contents">⬆️ Back to Top</a></div>
 
 <a id="security"></a>
-### 🔒 Security (9)
+### 🔒 Security (11)
 - [Cloaker ![GitHub Repo Stars](https://img.shields.io/github/stars/spieglt/cloaker) ![GitHub last commit](https://img.shields.io/github/last-commit/spieglt/cloaker)](https://github.com/spieglt/cloaker) - simple drag-and-drop, password-based file encryption.
 
   <details>
@@ -9431,6 +9612,46 @@ You can see in which language an app is written. Currently there are following l
   **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
 
   **Links:** <a href='https://github.com/smmr-software/privacy-redirect-safari/releases/latest'><img src='https://img.shields.io/github/v/release/smmr-software/privacy-redirect-safari?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/smmr-software/privacy-redirect-safari'><img src='https://img.shields.io/github/stars/smmr-software/privacy-redirect-safari?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/smmr-software/privacy-redirect-safari' alt='License'/>
+
+  </p>
+  </details>
+
+- [SaneClip ![GitHub Repo Stars](https://img.shields.io/github/stars/sane-apps/SaneClip) ![GitHub last commit](https://img.shields.io/github/last-commit/sane-apps/SaneClip)](https://github.com/sane-apps/SaneClip) - Clipboard manager with Touch ID protection, AES-256-GCM encryption, and sensitive data detection.
+
+  <details>
+  <summary>More</summary>
+  <p>
+
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+
+  **Links:** <a href='https://github.com/sane-apps/SaneClip/releases/latest'><img src='https://img.shields.io/github/v/release/sane-apps/SaneClip?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/sane-apps/SaneClip'><img src='https://img.shields.io/github/stars/sane-apps/SaneClip?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/sane-apps/SaneClip' alt='License'/>
+
+  **Website:** [https://saneclip.com](https://saneclip.com)
+
+  **Screenshots:**
+
+  <img src='https://raw.githubusercontent.com/sane-apps/SaneClip/main/docs/images/screenshot-popover.png' width='400' loading='lazy'/>
+
+  <img src='https://raw.githubusercontent.com/sane-apps/SaneClip/main/docs/images/screenshot-settings.png' width='400' loading='lazy'/>
+
+  </p>
+  </details>
+
+- [SaneHosts ![GitHub Repo Stars](https://img.shields.io/github/stars/sane-apps/SaneHosts) ![GitHub last commit](https://img.shields.io/github/last-commit/sane-apps/SaneHosts)](https://github.com/sane-apps/SaneHosts) - System-level ad and tracker blocker via /etc/hosts with 200+ curated blocklists and Touch ID protection.
+
+  <details>
+  <summary>More</summary>
+  <p>
+
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+
+  **Links:** <a href='https://github.com/sane-apps/SaneHosts/releases/latest'><img src='https://img.shields.io/github/v/release/sane-apps/SaneHosts?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/sane-apps/SaneHosts'><img src='https://img.shields.io/github/stars/sane-apps/SaneHosts?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/sane-apps/SaneHosts' alt='License'/>
+
+  **Website:** [https://sanehosts.com](https://sanehosts.com)
+
+  **Screenshots:**
+
+  <img src='https://raw.githubusercontent.com/sane-apps/SaneHosts/main/website/screenshot.png' width='400' loading='lazy'/>
 
   </p>
   </details>
@@ -10506,7 +10727,7 @@ You can see in which language an app is written. Currently there are following l
 <div align="right"><a href="#contents">⬆️ Back to Top</a></div>
 
 <a id="utilities"></a>
-### 🛠️ Utilities (95)
+### 🛠️ Utilities (100)
 - [Android tool for Mac ![GitHub Repo Stars](https://img.shields.io/github/stars/mortenjust/androidtool-mac) ![GitHub last commit](https://img.shields.io/github/last-commit/mortenjust/androidtool-mac)](https://github.com/mortenjust/androidtool-mac) - One-click screenshots, video recordings, app installation for iOS and Android 
 
   <details>
@@ -10783,6 +11004,27 @@ You can see in which language an app is written. Currently there are following l
   **Screenshots:**
 
   <img src='https://raw.githubusercontent.com/LumingYin/ClipboardClear/master/screenshot.jpg' width='400' loading='lazy'/>
+
+  </p>
+  </details>
+
+- [ClipFlow ![GitHub Repo Stars](https://img.shields.io/github/stars/praneeth552/clipflow) ![GitHub last commit](https://img.shields.io/github/last-commit/praneeth552/clipflow)](https://github.com/praneeth552/clipflow) - Clipboard history manager for macOS with terminal-style navigation, image previews, and cursor-following popup.
+
+  <details>
+  <summary>More</summary>
+  <p>
+
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+
+  **Links:** <a href='https://github.com/praneeth552/clipflow/releases/latest'><img src='https://img.shields.io/github/v/release/praneeth552/clipflow?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/praneeth552/clipflow'><img src='https://img.shields.io/github/stars/praneeth552/clipflow?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/praneeth552/clipflow' alt='License'/>
+
+  **Website:** [https://github.com/praneeth552/clipflow ![GitHub Repo Stars](https://img.shields.io/github/stars/praneeth552/clipflow) ![GitHub last commit](https://img.shields.io/github/last-commit/praneeth552/clipflow)](https://github.com/praneeth552/clipflow)
+
+  **Screenshots:**
+
+  <img src='https://raw.githubusercontent.com/praneeth552/clipflow/main/screenshots/clipflow-popup.png' width='400' loading='lazy'/>
+
+  <img src='https://raw.githubusercontent.com/praneeth552/clipflow/main/screenshots/clipflow-menubar.png' width='400' loading='lazy'/>
 
   </p>
   </details>
@@ -11752,6 +11994,88 @@ You can see in which language an app is written. Currently there are following l
   <img src='https://raw.githubusercontent.com/sane-apps/SaneBar/main/docs/images/icon-panel.png' width='400' loading='lazy'/>
 
   <img src='https://raw.githubusercontent.com/sane-apps/SaneBar/main/docs/images/second-menu-bar.png' width='400' loading='lazy'/>
+
+  </p>
+  </details>
+
+- [SaneClick ![GitHub Repo Stars](https://img.shields.io/github/stars/sane-apps/SaneClick) ![GitHub last commit](https://img.shields.io/github/last-commit/sane-apps/SaneClick)](https://github.com/sane-apps/SaneClick) - Finder extension with 51+ right-click actions for file management, image conversion, and developer tools.
+
+  <details>
+  <summary>More</summary>
+  <p>
+
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+
+  **Links:** <a href='https://github.com/sane-apps/SaneClick/releases/latest'><img src='https://img.shields.io/github/v/release/sane-apps/SaneClick?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/sane-apps/SaneClick'><img src='https://img.shields.io/github/stars/sane-apps/SaneClick?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/sane-apps/SaneClick' alt='License'/>
+
+  **Website:** [https://saneclick.com](https://saneclick.com)
+
+  **Screenshots:**
+
+  <img src='https://raw.githubusercontent.com/sane-apps/SaneClick/main/docs/screenshots/main-window.png' width='400' loading='lazy'/>
+
+  </p>
+  </details>
+
+- [SaneClip ![GitHub Repo Stars](https://img.shields.io/github/stars/sane-apps/SaneClip) ![GitHub last commit](https://img.shields.io/github/last-commit/sane-apps/SaneClip)](https://github.com/sane-apps/SaneClip) - Clipboard manager with Touch ID protection, AES-256-GCM encryption, and sensitive data detection.
+
+  <details>
+  <summary>More</summary>
+  <p>
+
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+
+  **Links:** <a href='https://github.com/sane-apps/SaneClip/releases/latest'><img src='https://img.shields.io/github/v/release/sane-apps/SaneClip?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/sane-apps/SaneClip'><img src='https://img.shields.io/github/stars/sane-apps/SaneClip?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/sane-apps/SaneClip' alt='License'/>
+
+  **Website:** [https://saneclip.com](https://saneclip.com)
+
+  **Screenshots:**
+
+  <img src='https://raw.githubusercontent.com/sane-apps/SaneClip/main/docs/images/screenshot-popover.png' width='400' loading='lazy'/>
+
+  <img src='https://raw.githubusercontent.com/sane-apps/SaneClip/main/docs/images/screenshot-settings.png' width='400' loading='lazy'/>
+
+  </p>
+  </details>
+
+- [SaneHosts ![GitHub Repo Stars](https://img.shields.io/github/stars/sane-apps/SaneHosts) ![GitHub last commit](https://img.shields.io/github/last-commit/sane-apps/SaneHosts)](https://github.com/sane-apps/SaneHosts) - System-level ad and tracker blocker via /etc/hosts with 200+ curated blocklists and Touch ID protection.
+
+  <details>
+  <summary>More</summary>
+  <p>
+
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+
+  **Links:** <a href='https://github.com/sane-apps/SaneHosts/releases/latest'><img src='https://img.shields.io/github/v/release/sane-apps/SaneHosts?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/sane-apps/SaneHosts'><img src='https://img.shields.io/github/stars/sane-apps/SaneHosts?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/sane-apps/SaneHosts' alt='License'/>
+
+  **Website:** [https://sanehosts.com](https://sanehosts.com)
+
+  **Screenshots:**
+
+  <img src='https://raw.githubusercontent.com/sane-apps/SaneHosts/main/website/screenshot.png' width='400' loading='lazy'/>
+
+  </p>
+  </details>
+
+- [SaneSales ![GitHub Repo Stars](https://img.shields.io/github/stars/sane-apps/SaneSales) ![GitHub last commit](https://img.shields.io/github/last-commit/sane-apps/SaneSales)](https://github.com/sane-apps/SaneSales) - Universal indie sales tracker for LemonSqueezy, Gumroad, and Stripe with on-device privacy.
+
+  <details>
+  <summary>More</summary>
+  <p>
+
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+
+  **Links:** <a href='https://github.com/sane-apps/SaneSales/releases/latest'><img src='https://img.shields.io/github/v/release/sane-apps/SaneSales?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/sane-apps/SaneSales'><img src='https://img.shields.io/github/stars/sane-apps/SaneSales?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/sane-apps/SaneSales' alt='License'/>
+
+  **Website:** [https://sanesales.com](https://sanesales.com)
+
+  **Screenshots:**
+
+  <img src='https://raw.githubusercontent.com/sane-apps/SaneSales/main/docs/images/screenshot-mac-dashboard.png' width='400' loading='lazy'/>
+
+  <img src='https://raw.githubusercontent.com/sane-apps/SaneSales/main/docs/images/screenshot-mac-charts.png' width='400' loading='lazy'/>
+
+  <img src='https://raw.githubusercontent.com/sane-apps/SaneSales/main/docs/images/screenshot-iphone-dashboard.png' width='400' loading='lazy'/>
 
   </p>
   </details>

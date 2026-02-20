@@ -102,7 +102,6 @@ The purpose of this document is to provide a quick overview over existing packag
 
 - [BackpackLogin ![GitHub Repo Stars](https://img.shields.io/github/stars/igeligel/BackpackLogin) ![GitHub last commit](https://img.shields.io/github/last-commit/igeligel/BackpackLogin)](https://github.com/igeligel/BackpackLogin) - A .NET Standard library for logging into backpack.tf using Steam credentials.
 - [TeamFortressOutpostApi ![GitHub Repo Stars](https://img.shields.io/github/stars/igeligel/TeamFortressOutpostApi) ![GitHub last commit](https://img.shields.io/github/last-commit/igeligel/TeamFortressOutpostApi)](https://github.com/igeligel/TeamFortressOutpostApi) - A .NET Standard class library which allows user to interact with TF2Outpost.
-- [SteamGaugesApi ![GitHub Repo Stars](https://img.shields.io/github/stars/igeligel/SteamGaugesApi) ![GitHub last commit](https://img.shields.io/github/last-commit/igeligel/SteamGaugesApi)](https://github.com/igeligel/SteamGaugesApi) - A .NET Standard 2.0 library to automatically use the API of [steamgauges](https://steamgaug.es/).
 
 ### PHP
 
