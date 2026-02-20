@@ -4861,7 +4861,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-- [Widelands ![GitHub Repo Stars](https://img.shields.io/github/stars/widelands/widelands) ![GitHub last commit](https://img.shields.io/github/last-commit/widelands/widelands)](https://github.com/widelands/widelands) - Widelands is a free, open source real-time strategy game with singleplayer campaigns and a multiplayer mode. The game was inspired by Settlers II™ (© Bluebyte) but has significantly more variety and depth to it.
+- [Widelands ![GitHub Repo Stars](https://img.shields.io/github/stars/widelands/widelands) ![GitHub last commit](https://img.shields.io/github/last-commit/widelands/widelands)](https://github.com/widelands/widelands) - Widelands is a free, open source real-time strategy game with singleplayer campaigns and a multiplayer mode. The game was inspired by Settlers II™ (�� Bluebyte) but has significantly more variety and depth to it.
 
   <details>
   <summary>More</summary>
