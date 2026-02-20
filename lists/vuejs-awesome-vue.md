@@ -795,7 +795,6 @@
 _Set of components + responsive layout system_
 
 - [quasar-framework ![GitHub Repo Stars](https://img.shields.io/github/stars/quasarframework/quasar) ![GitHub last commit](https://img.shields.io/github/last-commit/quasarframework/quasar)](https://github.com/quasarframework/quasar) - Quasar Framework. Build responsive websites, hybrid mobile Apps and Electron apps using same code, with Vue.js 3.
-- [vue-material ![GitHub Repo Stars](https://img.shields.io/github/stars/vuematerial/vue-material) ![GitHub last commit](https://img.shields.io/github/last-commit/vuematerial/vue-material)](https://github.com/vuematerial/vue-material) - Material design for Vue.js.
 - [vuetify ![GitHub Repo Stars](https://img.shields.io/github/stars/vuetifyjs/vuetify) ![GitHub last commit](https://img.shields.io/github/last-commit/vuetifyjs/vuetify)](https://github.com/vuetifyjs/vuetify) - Material Component Framework for Vue.js 2.
 - [buefy ![GitHub Repo Stars](https://img.shields.io/github/stars/rafaelpimpa/buefy) ![GitHub last commit](https://img.shields.io/github/last-commit/rafaelpimpa/buefy)](https://github.com/rafaelpimpa/buefy) - Components based on Bulma framework.
 - [element-ui ![GitHub Repo Stars](https://img.shields.io/github/stars/ElemeFE/element) ![GitHub last commit](https://img.shields.io/github/last-commit/ElemeFE/element)](https://github.com/ElemeFE/element) - A Vue.js 2.0 UI Toolkit for Web.
@@ -860,7 +859,6 @@ _Set of components without layout system_
 - [keen-ui ![GitHub Repo Stars](https://img.shields.io/github/stars/JosephusPaye/Keen-UI) ![GitHub last commit](https://img.shields.io/github/last-commit/JosephusPaye/Keen-UI)](https://github.com/JosephusPaye/Keen-UI) - A lightweight collection of essential UI components written with Vue and inspired by Material Design.
 - [uiv ![GitHub Repo Stars](https://img.shields.io/github/stars/uiv-lib/uiv) ![GitHub last commit](https://img.shields.io/github/last-commit/uiv-lib/uiv)](https://github.com/uiv-lib/uiv) - Bootstrap3 components implemented by Vue2.
 - [Essential JS 2 for Vue](https://www.syncfusion.com/products/vue) - Full-featured 45+ Vue.js components which includes Data Grid, Chart, Scheduler and Diagram components etc.
-- [DevExtreme Vue Components ![GitHub Repo Stars](https://img.shields.io/github/stars/DevExpress/devextreme-vue) ![GitHub last commit](https://img.shields.io/github/last-commit/DevExpress/devextreme-vue)](https://github.com/DevExpress/devextreme-vue) - 65+ responsive and feature-complete Vue UI components with customizable Material Design and Bootstrap compliant themes.
 - [jqwidgets](https://www.jqwidgets.com/vue/) - 70+ Vue.js 2.0 UI Components with Material Design themes.
 - [Kendo UI for Vue](https://www.telerik.com/kendo-vue-ui/components/) – Over 70 UI components, including a Grid, built for business applications. Fully responsive with support for several Design Languages including Material Design and Bootstrap.
 - [element-pro-components ![GitHub Repo Stars](https://img.shields.io/github/stars/tolking/element-pro-components) ![GitHub last commit](https://img.shields.io/github/last-commit/tolking/element-pro-components)](https://github.com/tolking/element-pro-components) A component library for Vue 3 base on element-plus
@@ -925,7 +923,6 @@ _Layout for the overall / main view_
 - [vue-fullpage.js ![GitHub Repo Stars](https://img.shields.io/github/stars/alvarotrigo/vue-fullpage.js) ![GitHub last commit](https://img.shields.io/github/last-commit/alvarotrigo/vue-fullpage.js)](https://github.com/alvarotrigo/vue-fullpage.js) - Official fullPage.js component for Vue.js.
 - [splitpanes ![GitHub Repo Stars](https://img.shields.io/github/stars/antoniandre/splitpanes) ![GitHub last commit](https://img.shields.io/github/last-commit/antoniandre/splitpanes)](https://github.com/antoniandre/splitpanes) - A Vue JS reliable, simple and touch-ready panes splitter / resizer.
 - [vue-simple-drawer ![GitHub Repo Stars](https://img.shields.io/github/stars/dreambo8563/vue-simple-drawer) ![GitHub last commit](https://img.shields.io/github/last-commit/dreambo8563/vue-simple-drawer)](https://github.com/dreambo8563/vue-simple-drawer) - A tiny drawer panel with bounced animation, nest supported and theme customized. directions: left/right/up/down
-- [vue-typed-virtual-list ![GitHub Repo Stars](https://img.shields.io/github/stars/bsssshhhhhhh/vue-typed-virtual-list) ![GitHub last commit](https://img.shields.io/github/last-commit/bsssshhhhhhh/vue-typed-virtual-list)](https://github.com/bsssshhhhhhh/vue-typed-virtual-list) - [Vue 3.x] small, efficient, TypeScript-friendly virtual scroller for rendering massive data
 - [fit-screen ![GitHub Repo Stars](https://img.shields.io/github/stars/jp-liu/fit-screen) ![GitHub last commit](https://img.shields.io/github/last-commit/jp-liu/fit-screen)](https://github.com/jp-liu/fit-screen) - A vue component based on the scale large screen adaptive solution.
 - [vue-virtual-waterfall ![GitHub Repo Stars](https://img.shields.io/github/stars/lhlyu/vue-virtual-waterfall) ![GitHub last commit](https://img.shields.io/github/last-commit/lhlyu/vue-virtual-waterfall)](https://github.com/lhlyu/vue-virtual-waterfall) - A virtual waterfall component for Vue 3.x.
 - [vue-stack-grid ![GitHub Repo Stars](https://img.shields.io/github/stars/chiribuc/vue-stack-grid) ![GitHub last commit](https://img.shields.io/github/last-commit/chiribuc/vue-stack-grid)](https://github.com/chiribuc/vue-stack-grid) - A Vue 3 component designed to make creating dynamic, responsive grid layouts easy and efficient.
@@ -938,7 +935,6 @@ _Layout for the overall / main view_
 _Tables / data grids_
 
 - [ag-grid-vue ![GitHub Repo Stars](https://img.shields.io/github/stars/ag-grid/ag-grid) ![GitHub last commit](https://img.shields.io/github/last-commit/ag-grid/ag-grid)](https://github.com/ag-grid/ag-grid) - Vue adaptor for ag-Grid.
-- [vue-data-tables ![GitHub Repo Stars](https://img.shields.io/github/stars/njleonzhang/vue-data-tables) ![GitHub last commit](https://img.shields.io/github/last-commit/njleonzhang/vue-data-tables)](https://github.com/njleonzhang/vue-data-tables) - Vue2.0 DataTables, based on element-ui.
 - [vue-grid ![GitHub Repo Stars](https://img.shields.io/github/stars/dzwillia/vue-grid) ![GitHub last commit](https://img.shields.io/github/last-commit/dzwillia/vue-grid)](https://github.com/dzwillia/vue-grid) - A flexible grid component for Vue.js
 - [vue-easytable ![GitHub Repo Stars](https://img.shields.io/github/stars/huangshuwei/vue-easytable) ![GitHub last commit](https://img.shields.io/github/last-commit/huangshuwei/vue-easytable)](https://github.com/huangshuwei/vue-easytable) - A powerful table components based on Vue2.x
 - [vue-crud-x ![GitHub Repo Stars](https://img.shields.io/github/stars/ais-one/cookbook) ![GitHub last commit](https://img.shields.io/github/last-commit/ais-one/cookbook)](https://github.com/ais-one/cookbook) - Extensible crud component using Vuetify layout, other than the usual page, sort, filter, it is able to do nested CRUD, custom forms, filters, operations.
@@ -946,7 +942,6 @@ _Tables / data grids_
 - [vue-cheetah-grid ![GitHub Repo Stars](https://img.shields.io/github/stars/future-architect/cheetah-grid) ![GitHub last commit](https://img.shields.io/github/last-commit/future-architect/cheetah-grid)](https://github.com/future-architect/cheetah-grid) - A high-performance grid engine that work on a canvas for Vue.js.
 - [vue-table-component](https://vue-table-component.spatie.be/) - A straight to the point Vue component to display tables.
 - [@lossendae/vue-table](https://lossendae.github.io/vue-table) - Simple table component for Vue.js 2.x with pagination and sortable columns.
-- [@marketconnect/vue-pivot-table ![GitHub Repo Stars](https://img.shields.io/github/stars/MarketConnect/vue-pivot-table) ![GitHub last commit](https://img.shields.io/github/last-commit/MarketConnect/vue-pivot-table)](https://github.com/MarketConnect/vue-pivot-table) - A vue component for pivot table
 - [vueye-datatable ![GitHub Repo Stars](https://img.shields.io/github/stars/boussadjra/vueye-table) ![GitHub last commit](https://img.shields.io/github/last-commit/boussadjra/vueye-table)](https://github.com/boussadjra/vueye-table) - Vueye data table is a responsive data table component based on Vue.js 2, it organizes your data per pages in order to navigate easily.
 - [fancy-grid-vue ![GitHub Repo Stars](https://img.shields.io/github/stars/FancyGrid/FancyGrid) ![GitHub last commit](https://img.shields.io/github/last-commit/FancyGrid/FancyGrid)](https://github.com/FancyGrid/FancyGrid) - Vue adaptor for FancyGrid.
 - [vue-quintable ![GitHub Repo Stars](https://img.shields.io/github/stars/Quintetio/vue-quintable) ![GitHub last commit](https://img.shields.io/github/last-commit/Quintetio/vue-quintable)](https://github.com/Quintetio/vue-quintable) - A responsive and highly configurable table based on Vue 2.x and Bootstrap 4.x
@@ -967,10 +962,8 @@ _Tables / data grids_
 _Toaster / snackbar — Notify the user with a modeless temporary little popup_
 
 - [vue-easy-toast ![GitHub Repo Stars](https://img.shields.io/github/stars/noru/vue-easy-toast) ![GitHub last commit](https://img.shields.io/github/last-commit/noru/vue-easy-toast)](https://github.com/noru/vue-easy-toast) - A toast plugin for vue/vue2.
-- [vue-toast-notification ![GitHub Repo Stars](https://img.shields.io/github/stars/ankurk91/vue-toast-notification) ![GitHub last commit](https://img.shields.io/github/last-commit/ankurk91/vue-toast-notification)](https://github.com/ankurk91/vue-toast-notification) - Yet another Vue.js Toast notification plugin.
 - [VueToastify ![GitHub Repo Stars](https://img.shields.io/github/stars/nandi95/vue-toastify) ![GitHub last commit](https://img.shields.io/github/last-commit/nandi95/vue-toastify)](https://github.com/nandi95/vue-toastify) - A fuss free notification component.
 - [@kyvg/vue3-notification ![GitHub Repo Stars](https://img.shields.io/github/stars/kyvg/vue3-notification) ![GitHub last commit](https://img.shields.io/github/last-commit/kyvg/vue3-notification)](https://github.com/kyvg/vue3-notification) - Vue 3 notification library
-- [vue-global-alert-utility ![GitHub Repo Stars](https://img.shields.io/github/stars/RashadSaleh/vue-global-alert-utility) ![GitHub last commit](https://img.shields.io/github/last-commit/RashadSaleh/vue-global-alert-utility)](https://github.com/RashadSaleh/vue-global-alert-utility) - A Vue.js global alert utility to replace vanilla JavaScript `alert` function with better user and developer experience, while keeping it as simple as possible.
 - [notivue ![GitHub Repo Stars](https://img.shields.io/github/stars/smastrom/notivue) ![GitHub last commit](https://img.shields.io/github/last-commit/smastrom/notivue)](https://github.com/smastrom/notivue) - Fully-featured notification system for Vue 3 and Nuxt 3.
 - [Toastflow ![GitHub Repo Stars](https://img.shields.io/github/stars/adrianjanocko/toastflow) ![GitHub last commit](https://img.shields.io/github/last-commit/adrianjanocko/toastflow)](https://github.com/adrianjanocko/toastflow) - 💡 Headless toast (notification) engine + Vue 3 renderer (TS-first, CSS-first theming, highly customizable).
 
@@ -979,7 +972,6 @@ _Toaster / snackbar — Notify the user with a modeless temporary little popup_
 _Loaders / spinners / progress bars — Let the user know that something is loading_
 
 - [epic-spinners ![GitHub Repo Stars](https://img.shields.io/github/stars/epicmaxco/epic-spinners) ![GitHub last commit](https://img.shields.io/github/last-commit/epicmaxco/epic-spinners)](https://github.com/epicmaxco/epic-spinners) - Easy to use css spinners collection with vue.js integration.
-- [vue-loading-overlay ![GitHub Repo Stars](https://img.shields.io/github/stars/ankurk91/vue-loading-overlay) ![GitHub last commit](https://img.shields.io/github/last-commit/ankurk91/vue-loading-overlay)](https://github.com/ankurk91/vue-loading-overlay) - Tiny full screen loading indicator
 - [vue-ellipse-progress ![GitHub Repo Stars](https://img.shields.io/github/stars/setaman/vue-ellipse-progress) ![GitHub last commit](https://img.shields.io/github/last-commit/setaman/vue-ellipse-progress)](https://github.com/setaman/vue-ellipse-progress) - A flexible Vue.js component to create beautiful animated circular progress bars and loaders
 - [vue-default-page ![GitHub Repo Stars](https://img.shields.io/github/stars/zero-one-code/vue-default-page) ![GitHub last commit](https://img.shields.io/github/last-commit/zero-one-code/vue-default-page)](https://github.com/zero-one-code/vue-default-page) - A Vue 3.0 plugin with built-in v-loading, v-skeleton, v-error and v-empty custom directives.
 - [vue-skeleton-content-loader ![GitHub Repo Stars](https://img.shields.io/github/stars/willmendesneto/vue-skeleton-content-loader) ![GitHub last commit](https://img.shields.io/github/last-commit/willmendesneto/vue-skeleton-content-loader)](https://github.com/willmendesneto/vue-skeleton-content-loader) - Lightweight and accessible library to make beautiful, animated loading skeletons that automatically adapt to your Vue app
@@ -1020,9 +1012,7 @@ _Overlay / modal / alert / dialog / lightbox / popup_
 
 - [vue-material-design-icons ![GitHub Repo Stars](https://img.shields.io/github/stars/robcresswell/vue-material-design-icons) ![GitHub last commit](https://img.shields.io/github/last-commit/robcresswell/vue-material-design-icons)](https://github.com/robcresswell/vue-material-design-icons "vue-material-design-icons on GitHub") - A collection of SVG Material Design icons as single file components.
 - [vue-fontawesome ![GitHub Repo Stars](https://img.shields.io/github/stars/FortAwesome/vue-fontawesome) ![GitHub last commit](https://img.shields.io/github/last-commit/FortAwesome/vue-fontawesome)](https://github.com/FortAwesome/vue-fontawesome) - Font Awesome 5 Vue component
-- [vue-country-flag ![GitHub Repo Stars](https://img.shields.io/github/stars/P3trur0/vue-country-flag) ![GitHub last commit](https://img.shields.io/github/last-commit/P3trur0/vue-country-flag)](https://github.com/P3trur0/vue-country-flag) - Vue component for country flag icons
 - [vue-fa ![GitHub Repo Stars](https://img.shields.io/github/stars/Cweili/vue-fa) ![GitHub last commit](https://img.shields.io/github/last-commit/Cweili/vue-fa)](https://github.com/Cweili/vue-fa) - Simple FontAwesome 5 Vue.js 2 component.
-- [vue-icomoon ![GitHub Repo Stars](https://img.shields.io/github/stars/aykutkardas/vue-icomoon) ![GitHub last commit](https://img.shields.io/github/last-commit/aykutkardas/vue-icomoon)](https://github.com/aykutkardas/vue-icomoon) - With vue-icomoon you can easily use the icons you have selected or created in icomoon.
 - [vue-icons ![GitHub Repo Stars](https://img.shields.io/github/stars/kalimah-apps/vue-icons) ![GitHub last commit](https://img.shields.io/github/last-commit/kalimah-apps/vue-icons)](https://github.com/kalimah-apps/vue-icons) - More than 11,000 icons from most popular icon libraries (bootstrap, fontawesome, feather .. etc)
 
 #### Marquee
@@ -1068,7 +1058,6 @@ _Overlay / modal / alert / dialog / lightbox / popup_
 
 _Display time / date / age_
 
-- [bs-vue-timeline ![GitHub Repo Stars](https://img.shields.io/github/stars/x10sv/bs-vue-timeline) ![GitHub last commit](https://img.shields.io/github/last-commit/x10sv/bs-vue-timeline)](https://github.com/x10sv/bs-vue-timeline) - An alternative responsive boostrap-vue timeline
 - [v-idle ![GitHub Repo Stars](https://img.shields.io/github/stars/malekim/v-idle) ![GitHub last commit](https://img.shields.io/github/last-commit/malekim/v-idle)](https://github.com/malekim/v-idle) - A Vue.js plugin to detect idle/non-active users.
 - [vue-timer-hook ![GitHub Repo Stars](https://img.shields.io/github/stars/riderx/vue-timer-hook) ![GitHub last commit](https://img.shields.io/github/last-commit/riderx/vue-timer-hook)](https://github.com/riderx/vue-timer-hook) - Vue 3 Timer module inspired by react-timer-hook
 
@@ -1124,7 +1113,6 @@ _Display non-editable events in a Calendar_
 
 - [sl-vue-tree ![GitHub Repo Stars](https://img.shields.io/github/stars/holiber/sl-vue-tree) ![GitHub last commit](https://img.shields.io/github/last-commit/holiber/sl-vue-tree)](https://github.com/holiber/sl-vue-tree) - A simple customizable draggable tree component for Vue.js
 - [vue-finder ![GitHub Repo Stars](https://img.shields.io/github/stars/jledentu/vue-finder) ![GitHub last commit](https://img.shields.io/github/last-commit/jledentu/vue-finder)](https://github.com/jledentu/vue-finder) - A component to display hierarchical data, with selection, filtering and drag & drop
-- [object-visualizer ![GitHub Repo Stars](https://img.shields.io/github/stars/iendeavor/object-visualizer) ![GitHub last commit](https://img.shields.io/github/last-commit/iendeavor/object-visualizer)](https://github.com/iendeavor/object-visualizer) - Vue 3 JSON inspector with Chrome-like theme.
 
 #### Graph
 
@@ -1158,19 +1146,15 @@ _Display non-editable events in a Calendar_
 - [vue-connection-listener ![GitHub Repo Stars](https://img.shields.io/github/stars/Botre/vue-connection-listener) ![GitHub last commit](https://img.shields.io/github/last-commit/Botre/vue-connection-listener)](https://github.com/Botre/vue-connection-listener) - Vue event bus plugin listening for online/offline changes.
 - [vue-prom ![GitHub Repo Stars](https://img.shields.io/github/stars/Botre/vue-prom) ![GitHub last commit](https://img.shields.io/github/last-commit/Botre/vue-prom)](https://github.com/Botre/vue-prom) - Vue promise wrapper component.
 - [vue-identify-network ![GitHub Repo Stars](https://img.shields.io/github/stars/vinayakkulkarni/vue-identify-network) ![GitHub last commit](https://img.shields.io/github/last-commit/vinayakkulkarni/vue-identify-network)](https://github.com/vinayakkulkarni/vue-identify-network) - ⚡️Identify what kinda internet your users are using!
-- [vue-highlight-words ![GitHub Repo Stars](https://img.shields.io/github/stars/Astray-git/vue-highlight-words) ![GitHub last commit](https://img.shields.io/github/last-commit/Astray-git/vue-highlight-words)](https://github.com/Astray-git/vue-highlight-words) - Vue component to highlight words within a larger body of text. Ported from [react-highlight-words ![GitHub Repo Stars](https://img.shields.io/github/stars/bvaughn/react-highlight-words) ![GitHub last commit](https://img.shields.io/github/last-commit/bvaughn/react-highlight-words)](https://github.com/bvaughn/react-highlight-words)
 - [vue-command ![GitHub Repo Stars](https://img.shields.io/github/stars/ndabAP/vue-command) ![GitHub last commit](https://img.shields.io/github/last-commit/ndabAP/vue-command)](https://github.com/ndabAP/vue-command) - A fully working Vue.js terminal emulator
 - [vue-fixed-header ![GitHub Repo Stars](https://img.shields.io/github/stars/potato4d/vue-fixed-header) ![GitHub last commit](https://img.shields.io/github/last-commit/potato4d/vue-fixed-header)](https://github.com/potato4d/vue-fixed-header) - Simple and cross-browser friendly fixed header component for Vue.js written by TypeScript.
-- [vue-twemoji-picker ![GitHub Repo Stars](https://img.shields.io/github/stars/kevinfaguiar/vue-twemoji-picker) ![GitHub last commit](https://img.shields.io/github/last-commit/kevinfaguiar/vue-twemoji-picker)](https://github.com/kevinfaguiar/vue-twemoji-picker) - A fast plug-n-play Twemoji Picker (+textarea for Twemoji rendering) for Vue.
 - [tsParticles ![GitHub Repo Stars](https://img.shields.io/github/stars/matteobruni/tsparticles) ![GitHub last commit](https://img.shields.io/github/last-commit/matteobruni/tsparticles)](https://github.com/matteobruni/tsparticles) - A lightweight Javascript library to easily create highly configurable and interactive particle animations
 - [vue-image-zoomer ![GitHub Repo Stars](https://img.shields.io/github/stars/samjonesigd/vue-image-zoomer) ![GitHub last commit](https://img.shields.io/github/last-commit/samjonesigd/vue-image-zoomer)](https://github.com/samjonesigd/vue-image-zoomer) - image zoom component for Vue.js 2 & 3, that also works on touch devices.
 - [vue-advanced-chat ![GitHub Repo Stars](https://img.shields.io/github/stars/antoine92190/vue-advanced-chat) ![GitHub last commit](https://img.shields.io/github/last-commit/antoine92190/vue-advanced-chat)](https://github.com/antoine92190/vue-advanced-chat) - Feature-rich and fully customizable chat rooms component. Support files, images, videos, audio, emojis, customised actions, etc.
 - [vue-word-highlighter ![GitHub Repo Stars](https://img.shields.io/github/stars/kawamataryo/vue-word-highlighter) ![GitHub last commit](https://img.shields.io/github/last-commit/kawamataryo/vue-word-highlighter)](https://github.com/kawamataryo/vue-word-highlighter) - The word highlighter library for Vue 2 and Vue 3.
 - [vue3-emoji-picker ![GitHub Repo Stars](https://img.shields.io/github/stars/delowardev/vue3-emoji-picker) ![GitHub last commit](https://img.shields.io/github/last-commit/delowardev/vue3-emoji-picker)](https://github.com/delowardev/vue3-emoji-picker) - Simple and Powerful Emoji Picker for Vue3.
-- [vue-magnifier ![GitHub Repo Stars](https://img.shields.io/github/stars/WebsiteBeaver/vue-magnifier) ![GitHub last commit](https://img.shields.io/github/last-commit/WebsiteBeaver/vue-magnifier)](https://github.com/WebsiteBeaver/vue-magnifier) - Vue 3 image zoom component.
 - [vue-web-terminal ![GitHub Repo Stars](https://img.shields.io/github/stars/tzfun/vue-web-terminal) ![GitHub last commit](https://img.shields.io/github/last-commit/tzfun/vue-web-terminal)](https://github.com/tzfun/vue-web-terminal) - 💻 A feature-rich and powerful web terminal plugin for vue2 & vue3.(功能强大的网页命令行终端插件)
 - [vite-plugin-vue-preview ![GitHub Repo Stars](https://img.shields.io/github/stars/liting-yes/vite-plugin-vue-preview) ![GitHub last commit](https://img.shields.io/github/last-commit/liting-yes/vite-plugin-vue-preview)](https://github.com/liting-yes/vite-plugin-vue-preview) - a vite plugin for code preview, of course you can also use the component separately
-- [Everright-filter ![GitHub Repo Stars](https://img.shields.io/github/stars/Liberty-liu/Everright-filter) ![GitHub last commit](https://img.shields.io/github/last-commit/Liberty-liu/Everright-filter)](https://github.com/Liberty-liu/Everright-filter) - A query builder component for Vue3. Supports filtering of multiple data types, including string, number, dropdown, cascade, region, date, and time.
 - [@kolirt/vue-web3-auth ![GitHub Repo Stars](https://img.shields.io/github/stars/kolirt/vue-web3-auth) ![GitHub last commit](https://img.shields.io/github/last-commit/kolirt/vue-web3-auth)](https://github.com/kolirt/vue-web3-auth) - 💎 Web3 authentication for Vue3 apps based on WalletConnect v2 and wagmi
 - [zoom-image](https://willnguyen1312.github.io/zoom-image/) - A little yet powerful framework agnostic library to zoom image on the web
 - [vue-wheel-spinner ![GitHub Repo Stars](https://img.shields.io/github/stars/ilyasozkurt/vue-wheel-spinner) ![GitHub last commit](https://img.shields.io/github/last-commit/ilyasozkurt/vue-wheel-spinner)](https://github.com/ilyasozkurt/vue-wheel-spinner) - A simple, customizable wheel of fortune component. [See Demo](https://vue-wheel-spinner-demo.vercel.app/)
@@ -1180,7 +1164,6 @@ _Display non-editable events in a Calendar_
 #### Tabs
 
 - [vue-lumino ![GitHub Repo Stars](https://img.shields.io/github/stars/tupilabs/vue-lumino) ![GitHub last commit](https://img.shields.io/github/last-commit/tupilabs/vue-lumino)](https://github.com/tupilabs/vue-lumino) - A component to use Vue.js with Jupyter Lumino (PhosphorJS), integrating DOM & VDOM through event listeners and Vue reactivity system.
-- [vue3-tabs-chrome ![GitHub Repo Stars](https://img.shields.io/github/stars/viewweiwu/vue3-tabs-chrome) ![GitHub last commit](https://img.shields.io/github/last-commit/viewweiwu/vue3-tabs-chrome)](https://github.com/viewweiwu/vue3-tabs-chrome) - A Vue3 component for Chrome-like tabs.
 - [vue3-tabor ![GitHub Repo Stars](https://img.shields.io/github/stars/daylenjeez/vue3-tabor) ![GitHub last commit](https://img.shields.io/github/last-commit/daylenjeez/vue3-tabor)](https://github.com/daylenjeez/vue3-tabor) - A versatile Vue 3 tabs component with rich API, supporting keep-alive and iframe integration.
 
 #### Form
@@ -1208,7 +1191,6 @@ _Let the user create & edit data_
 
 _Date / datetime / time Picker_
 
-- [vue-flatpickr-component ![GitHub Repo Stars](https://img.shields.io/github/stars/ankurk91/vue-flatpickr-component) ![GitHub last commit](https://img.shields.io/github/last-commit/ankurk91/vue-flatpickr-component)](https://github.com/ankurk91/vue-flatpickr-component) Vue.js component for [flatpickr ![GitHub Repo Stars](https://img.shields.io/github/stars/chmln/flatpickr) ![GitHub last commit](https://img.shields.io/github/last-commit/chmln/flatpickr)](https://github.com/chmln/flatpickr) datetime picker
 - [VCalendar](https://vcalendar.io/) Very customizable and powerful calendar/datepicker component with many features and good documentation.
 - [vue-datepicker ![GitHub Repo Stars](https://img.shields.io/github/stars/mathieustan/vue-datepicker) ![GitHub last commit](https://img.shields.io/github/last-commit/mathieustan/vue-datepicker)](https://github.com/mathieustan/vue-datepicker) - A clean & responsive datepicker with Material Design style for Vuejs 2.x. (date/month/quarter && date range picker) :new:
 
@@ -1228,7 +1210,6 @@ _Date / datetime / time Picker_
 - [Vue DnD Kit ![GitHub Repo Stars](https://img.shields.io/github/stars/zizigy/vue-dnd-kit) ![GitHub last commit](https://img.shields.io/github/last-commit/zizigy/vue-dnd-kit)](https://github.com/zizigy/vue-dnd-kit) - A lightweight, performant drag and drop toolkit for Vue 3 with composable API, keyboard navigation, accessibility support, and advanced customization options. Supports any cases, and touch devices. Inspired by React DnD Kit
 - [vuedraggable-plus ![GitHub Repo Stars](https://img.shields.io/github/stars/Alfred-Skyblue/vue-draggable-plus) ![GitHub last commit](https://img.shields.io/github/last-commit/Alfred-Skyblue/vue-draggable-plus)](https://github.com/Alfred-Skyblue/vue-draggable-plus) - Vue component allowing drag-and-drop sorting module, support Vue>=v3 or Vue>=2.7. Based on Sortable.js.
 - [vue-draggable-resizable ![GitHub Repo Stars](https://img.shields.io/github/stars/mauricius/vue-draggable-resizable) ![GitHub last commit](https://img.shields.io/github/last-commit/mauricius/vue-draggable-resizable)](https://github.com/mauricius/vue-draggable-resizable) - Vue2 component for draggable and resizable elements.
-- [vue-smooth-dnd ![GitHub Repo Stars](https://img.shields.io/github/stars/kutlugsahin/vue-smooth-dnd) ![GitHub last commit](https://img.shields.io/github/last-commit/kutlugsahin/vue-smooth-dnd)](https://github.com/kutlugsahin/vue-smooth-dnd) - Vue wrappers of smooth-dnd library. drag and drop, sortable library covering for many cases.
 - [vue3-dnd ![GitHub Repo Stars](https://img.shields.io/github/stars/hcg1023/vue3-dnd) ![GitHub last commit](https://img.shields.io/github/last-commit/hcg1023/vue3-dnd)](https://github.com/hcg1023/vue3-dnd) - React DnD in Composition API implementation, Use the Composition API for sortable and free draggable, Supported Vue2, Vue3.
 - [sortablejs-vue3 ![GitHub Repo Stars](https://img.shields.io/github/stars/MaxLeiter/sortablejs-vue3) ![GitHub last commit](https://img.shields.io/github/last-commit/MaxLeiter/sortablejs-vue3)](https://github.com/MaxLeiter/sortablejs-vue3) - A Vue 3 component acting as a thin wrapper around SortableJS
 - [vue-fluid-dnd ![GitHub Repo Stars](https://img.shields.io/github/stars/carlosjorger/vue-fluid-dnd) ![GitHub last commit](https://img.shields.io/github/last-commit/carlosjorger/vue-fluid-dnd)](https://github.com/carlosjorger/vue-fluid-dnd) - A Vue 3 drag and drop, sortable, dependency-free library with cool animations, a easy to use api using vue composables.
@@ -1237,7 +1218,6 @@ _Date / datetime / time Picker_
 
 _Let the user select a tag / something while typing_
 
-- [v-distpicker ![GitHub Repo Stars](https://img.shields.io/github/stars/jcc/v-distpicker) ![GitHub last commit](https://img.shields.io/github/last-commit/jcc/v-distpicker)](https://github.com/jcc/v-distpicker) A flexible, highly available district picker for picking provinces, cities and districts of China for Vue.js 2.x.
 - [v-image ![GitHub Repo Stars](https://img.shields.io/github/stars/vinayakkulkarni/v-image) ![GitHub last commit](https://img.shields.io/github/last-commit/vinayakkulkarni/v-image)](https://github.com/vinayakkulkarni/v-image) :camera: Tiny little component for input type=file (< 1kb, gzipped)
 
 ##### Color Picker
@@ -1251,7 +1231,6 @@ _Let the user select a tag / something while typing_
 _Switch / on/off toggle / checkbox_
 
 - [vue-toggles ![GitHub Repo Stars](https://img.shields.io/github/stars/juliandreas/vue-toggles) ![GitHub last commit](https://img.shields.io/github/last-commit/juliandreas/vue-toggles)](https://github.com/juliandreas/vue-toggles) - A highly customizable and accessible toggle component
-- [@vueform/toggle ![GitHub Repo Stars](https://img.shields.io/github/stars/vueform/toggle) ![GitHub last commit](https://img.shields.io/github/last-commit/vueform/toggle)](https://github.com/vueform/toggle) - Vue 3 toggle component with labels, custom slots and styling options.
 - [vue-collapsed ![GitHub Repo Stars](https://img.shields.io/github/stars/smastrom/vue-collapsed) ![GitHub last commit](https://img.shields.io/github/last-commit/smastrom/vue-collapsed)](https://github.com/smastrom/vue-collapsed) - Vue 3 CSS height transition from any to auto and vice versa. Accordion ready.
 - [vue-enhanced-check ![GitHub Repo Stars](https://img.shields.io/github/stars/keiwen/vue-enhancedCheck) ![GitHub last commit](https://img.shields.io/github/last-commit/keiwen/vue-enhancedCheck)](https://github.com/keiwen/vue-enhancedCheck) - Enhanced checkboxes / radio input + toggle, components for vue 3
 
@@ -1291,7 +1270,6 @@ _Display images_
 
 ##### Context Menu
 
-- [vue-simple-context-menu ![GitHub Repo Stars](https://img.shields.io/github/stars/johndatserakis/vue-simple-context-menu) ![GitHub last commit](https://img.shields.io/github/last-commit/johndatserakis/vue-simple-context-menu)](https://github.com/johndatserakis/vue-simple-context-menu) - Simple context-menu component built for Vue. Works well with both left and right clicks.
 
 ##### Miscellaneous
 
@@ -1355,7 +1333,6 @@ _Handling of user events (scroll, click, key strike, ...)_
 - [FormVuelar ![GitHub Repo Stars](https://img.shields.io/github/stars/janiskelemen/formvuelar) ![GitHub last commit](https://img.shields.io/github/last-commit/janiskelemen/formvuelar)](https://github.com/janiskelemen/formvuelar) - Vue form components with server-side validation in mind
 - [vue-final-validate](https://phphe.github.io/vue-final-validate/) - Vue validation solution from my development experience, support nested, async.
 - [@vuito/vue ![GitHub Repo Stars](https://img.shields.io/github/stars/mathix420/vuito) ![GitHub last commit](https://img.shields.io/github/last-commit/mathix420/vuito)](https://github.com/mathix420/vuito) - Simple, lightweight, isomorphic, and template-based validation library.
-- [vue-tiny-validate ![GitHub Repo Stars](https://img.shields.io/github/stars/FrontLabsOfficial/vue-tiny-validate) ![GitHub last commit](https://img.shields.io/github/last-commit/FrontLabsOfficial/vue-tiny-validate)](https://github.com/FrontLabsOfficial/vue-tiny-validate) - Tiny (2.5KB minified) Vue Validate Composition.
 - [vest ![GitHub Repo Stars](https://img.shields.io/github/stars/ealush/vest) ![GitHub last commit](https://img.shields.io/github/last-commit/ealush/vest)](https://github.com/ealush/vest) - 🦺 Declarative form validation framework inspired by unit testing.
 - [vorms ![GitHub Repo Stars](https://img.shields.io/github/stars/Mini-ghost/vorms) ![GitHub last commit](https://img.shields.io/github/last-commit/Mini-ghost/vorms)](https://github.com/Mini-ghost/vorms) - Vue Form Validate with Composition API.
 - [regle ![GitHub Repo Stars](https://img.shields.io/github/stars/victorgarciaesgi/regle) ![GitHub last commit](https://img.shields.io/github/last-commit/victorgarciaesgi/regle)](https://github.com/victorgarciaesgi/regle) - ✅ Headless form validation library for Vue.js.
@@ -1390,7 +1367,6 @@ _Detect when components enter viewport_
 
 #### Pagination
 
-- [laravel-vue-semantic-ui-pagination ![GitHub Repo Stars](https://img.shields.io/github/stars/vinayakkulkarni/laravel-vue-semantic-ui-pagination) ![GitHub last commit](https://img.shields.io/github/last-commit/vinayakkulkarni/laravel-vue-semantic-ui-pagination)](https://github.com/vinayakkulkarni/laravel-vue-semantic-ui-pagination) - A Vue.js 2.x pagination used with Laravel & Semantic-UI.
 - [vue-paginate-al ![GitHub Repo Stars](https://img.shields.io/github/stars/alziqziq/vue-paginate-al) ![GitHub last commit](https://img.shields.io/github/last-commit/alziqziq/vue-paginate-al)](https://github.com/alziqziq/vue-paginate-al) - Vue paginate with return your data.
 - [vue-tiny-pagination ![GitHub Repo Stars](https://img.shields.io/github/stars/coderdiaz/vue-tiny-pagination) ![GitHub last commit](https://img.shields.io/github/last-commit/coderdiaz/vue-tiny-pagination)](https://github.com/coderdiaz/vue-tiny-pagination) - A Vue component for create a tiny pagination.
 - [laravel-vue-pagination ![GitHub Repo Stars](https://img.shields.io/github/stars/gilbitron/laravel-vue-pagination) ![GitHub last commit](https://img.shields.io/github/last-commit/gilbitron/laravel-vue-pagination)](https://github.com/gilbitron/laravel-vue-pagination) - A Vue.js pagination component for Laravel paginators that works with Bootstrap.
@@ -1440,10 +1416,7 @@ _Move a DOM node to a target DOM node_
 #### WebGL
 
 - [VueGL ![GitHub Repo Stars](https://img.shields.io/github/stars/vue-gl/vue-gl) ![GitHub last commit](https://img.shields.io/github/last-commit/vue-gl/vue-gl)](https://github.com/vue-gl/vue-gl) - Vue.js components rendering 3D graphics reactively via three.js
-- [vue-displacement-slideshow ![GitHub Repo Stars](https://img.shields.io/github/stars/AlbanCrepel/vue-displacement-slideshow) ![GitHub last commit](https://img.shields.io/github/last-commit/AlbanCrepel/vue-displacement-slideshow)](https://github.com/AlbanCrepel/vue-displacement-slideshow) - A Vue.js component that makes Webgl image displacement transitions easier.
 - [TresJs ![GitHub Repo Stars](https://img.shields.io/github/stars/tresjs/tres) ![GitHub last commit](https://img.shields.io/github/last-commit/tresjs/tres)](https://github.com/tresjs/tres) - Declarative ThreeJS using Vue Components
-- [Cientos ![GitHub Repo Stars](https://img.shields.io/github/stars/Tresjs/cientos) ![GitHub last commit](https://img.shields.io/github/last-commit/Tresjs/cientos)](https://github.com/Tresjs/cientos) - Collection of useful helpers and fully functional, ready-made abstractions for TresJs
-- [trois ![GitHub Repo Stars](https://img.shields.io/github/stars/troisjs/trois) ![GitHub last commit](https://img.shields.io/github/last-commit/troisjs/trois)](https://github.com/troisjs/trois) - ✨ ThreeJS + VueJS 3 + ViteJS ⚡
 
 #### Fullscreen
 
@@ -1472,7 +1445,6 @@ _Utilities not directly related to the UI_
 
 _Retrieve data over HTTP_
 
-- [vue-async-computed ![GitHub Repo Stars](https://img.shields.io/github/stars/foxbenjaminfox/vue-async-computed) ![GitHub last commit](https://img.shields.io/github/last-commit/foxbenjaminfox/vue-async-computed)](https://github.com/foxbenjaminfox/vue-async-computed) - Async computed properties for Vue.js.
 - [vue-api-query ![GitHub Repo Stars](https://img.shields.io/github/stars/robsontenorio/vue-api-query) ![GitHub last commit](https://img.shields.io/github/last-commit/robsontenorio/vue-api-query)](https://github.com/robsontenorio/vue-api-query) - Elegant and simple way to build requests for REST API.
 - [vue-request ![GitHub Repo Stars](https://img.shields.io/github/stars/Attojs/vue-request) ![GitHub last commit](https://img.shields.io/github/last-commit/Attojs/vue-request)](https://github.com/Attojs/vue-request) - ⚡️ Vue 3 Composable for data fetching, supports SWR, polling, error retry, cache request, pagination, and other cool features.
 - [swrv ![GitHub Repo Stars](https://img.shields.io/github/stars/Kong/swrv) ![GitHub last commit](https://img.shields.io/github/last-commit/Kong/swrv)](https://github.com/Kong/swrv) - Stale-while-revalidate data fetching for Vue.
@@ -1483,7 +1455,6 @@ _Retrieve data over HTTP_
 
 _Internationalization / L10n / localization / translation_
 
-- [vue-i18n ![GitHub Repo Stars](https://img.shields.io/github/stars/kazupon/vue-i18n) ![GitHub last commit](https://img.shields.io/github/last-commit/kazupon/vue-i18n)](https://github.com/kazupon/vue-i18n) - Internationalization plugin for Vue.js.
 - [vscode-vue-i18n-ally ![GitHub Repo Stars](https://img.shields.io/github/stars/antfu/vue-i18n-ally) ![GitHub last commit](https://img.shields.io/github/last-commit/antfu/vue-i18n-ally)](https://github.com/antfu/vue-i18n-ally) - VSCode extension for better Vue-i18n experiences.
 - [v-intl ![GitHub Repo Stars](https://img.shields.io/github/stars/vinayakkulkarni/v-intl) ![GitHub last commit](https://img.shields.io/github/last-commit/vinayakkulkarni/v-intl)](https://github.com/vinayakkulkarni/v-intl) - Global Intl wrapper for your awesome Vue 3 app 🔉
 - [v-google-translate ![GitHub Repo Stars](https://img.shields.io/github/stars/i7eo/v-google-translate) ![GitHub last commit](https://img.shields.io/github/last-commit/i7eo/v-google-translate)](https://github.com/i7eo/v-google-translate) - A component that use google translate to internationalize your Vue.js app.
@@ -1503,7 +1474,6 @@ _Internationalization / L10n / localization / translation_
 
 _LocalStorage etc._
 
-- [vue2-storage ![GitHub Repo Stars](https://img.shields.io/github/stars/yarkovaleksei/vue2-storage) ![GitHub last commit](https://img.shields.io/github/last-commit/yarkovaleksei/vue2-storage)](https://github.com/yarkovaleksei/vue2-storage) Browser storage for Vue.js app
 
 #### State Management
 
@@ -1539,7 +1509,6 @@ _LocalStorage etc._
 #### GraphQL
 
 - [vue-apollo ![GitHub Repo Stars](https://img.shields.io/github/stars/Akryum/vue-apollo) ![GitHub last commit](https://img.shields.io/github/last-commit/Akryum/vue-apollo)](https://github.com/Akryum/vue-apollo) - Apollo/GraphQL integration for VueJS.
-- [apollo-vue-devtools ![GitHub Repo Stars](https://img.shields.io/github/stars/storipress/apollo-vue-devtools) ![GitHub last commit](https://img.shields.io/github/last-commit/storipress/apollo-vue-devtools)](https://github.com/storipress/apollo-vue-devtools) - Apollo integration for Vue-Devtools to inspect GraphQL queries in the vue-devtools timeline
 
 #### Code Style
 
@@ -1574,7 +1543,6 @@ _Utilities for building / compiling / bundling / loading assets_
 
 #### Web Sockets
 
-- [vue-socket.io-extended ![GitHub Repo Stars](https://img.shields.io/github/stars/probil/vue-socket.io-extended) ![GitHub last commit](https://img.shields.io/github/last-commit/probil/vue-socket.io-extended)](https://github.com/probil/vue-socket.io-extended) - Socket.io bindings for Vue.js and Vuex
 
 #### Payment
 
@@ -1627,7 +1595,6 @@ _Create documentation_
 
 - [Vuex CheatSheet](https://vuejs-tips.github.io/vuex-cheatsheet) - Complete Interactive Vuex API.
 - [vue-styleguidist ![GitHub Repo Stars](https://img.shields.io/github/stars/vue-styleguidist/vue-styleguidist) ![GitHub last commit](https://img.shields.io/github/last-commit/vue-styleguidist/vue-styleguidist)](https://github.com/vue-styleguidist/vue-styleguidist) - A style guide generator for Vue components with a living style guide.
-- [vuese ![GitHub Repo Stars](https://img.shields.io/github/stars/vuese/vuese) ![GitHub last commit](https://img.shields.io/github/last-commit/vuese/vuese)](https://github.com/vuese/vuese) - One-stop solution for vue component documentation.
 - [Vue Cheatsheet](https://vue-cheatsheet.themeselection.com/) - The only Vue cheatsheet you will ever need
 - [Heroshot ![GitHub Repo Stars](https://img.shields.io/github/stars/omachala/heroshot) ![GitHub last commit](https://img.shields.io/github/last-commit/omachala/heroshot)](https://github.com/omachala/heroshot) - Automate documentation screenshots with Vue component integration and theme-aware output.
 
@@ -1661,7 +1628,6 @@ _Text editor plugins_
 
 ##### Emacs
 
-- [Vue Mode ![GitHub Repo Stars](https://img.shields.io/github/stars/CodeFalling/vue-mode) ![GitHub last commit](https://img.shields.io/github/last-commit/CodeFalling/vue-mode)](https://github.com/CodeFalling/vue-mode) - Emacs major mode for vue.js.
 
 ### Scaffold
 

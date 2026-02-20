@@ -12,7 +12,7 @@
     <a href="https://t.me/opensourcemacosapps"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-Channel-blue.svg" /></a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Total%20Apps-655-blue" alt="Total Apps"/>
+    <img src="https://img.shields.io/badge/Total%20Apps-673-blue" alt="Total Apps"/>
     <img src="https://img.shields.io/badge/Categories-49-green" alt="Categories"/>
     <img src="https://img.shields.io/badge/Last%20Updated-February%2020,%202026-orange" alt="Last Updated"/>
   </p>
@@ -44,9 +44,9 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 
 | Metric | Count |
 |--------|-------|
-| 📱 Total Applications | 655 |
+| 📱 Total Applications | 673 |
 | 📂 Categories | 49 |
-| 🔝 Top Languages | Swift: 287 • Objective-C: 133 • Javascript: 112 • C++: 57 • C: 36 |
+| 🔝 Top Languages | Swift: 296 • Objective-C: 136 • Javascript: 113 • C++: 58 • Typescript: 40 |
 
 ## Languages
 
@@ -127,7 +127,7 @@ You can see in which language an app is written. Currently there are following l
 ## Applications
 
 <a id="audio"></a>
-### 🎵 Audio (37)
+### 🎵 Audio (39)
 - [[Un]MuteMic](https://github.com/CocoaHeadsBrasil/MuteUnmuteMic) - macOS app to mute & unmute the input volume of your microphone. Perfect for podcasters.
 
   <details>
@@ -620,6 +620,23 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
+- [Pulp ![GitHub Repo Stars](https://img.shields.io/github/stars/bazalp/pulp) ![GitHub last commit](https://img.shields.io/github/last-commit/bazalp/pulp)](https://github.com/bazalp/pulp) - Audio Sample manager.
+
+  <details>
+  <summary>More</summary>
+  <p>
+
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/rust-16.png' alt='Rust icon' title='Rust' height='16'/> <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/typescript-16.png' alt='TypeScript icon' title='TypeScript' height='16'/> 
+
+  **Links:** <a href='https://github.com/bazalp/pulp/releases/latest'><img src='https://img.shields.io/github/v/release/bazalp/pulp?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/bazalp/pulp'><img src='https://img.shields.io/github/stars/bazalp/pulp?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/bazalp/pulp' alt='License'/>
+
+  **Screenshots:**
+
+  <img src='https://raw.githubusercontent.com/bazalp/pulp/main/assets/img/app-pulp.png' width='400' loading='lazy'/>
+
+  </p>
+  </details>
+
 - [Scope ![GitHub Repo Stars](https://img.shields.io/github/stars/billthefarmer/audiotools) ![GitHub last commit](https://img.shields.io/github/last-commit/billthefarmer/audiotools)](https://github.com/billthefarmer/audiotools/tree/master/Scope/swift) - Audio Oscilloscope
 
   <details>
@@ -733,6 +750,29 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
+- [StargateDAW ![GitHub Repo Stars](https://img.shields.io/github/stars/stargatedaw/stargate) ![GitHub last commit](https://img.shields.io/github/last-commit/stargatedaw/stargate)](https://github.com/stargatedaw/stargate) - An all-in-one digital audio workstation (DAW) and plugin suite
+
+  <details>
+  <summary>More</summary>
+  <p>
+
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/c-16.png' alt='C icon' title='C' height='16'/> <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/python-16.png' alt='Python icon' title='Python' height='16'/> 
+
+  **Links:** <a href='https://github.com/stargatedaw/stargate/releases/latest'><img src='https://img.shields.io/github/v/release/stargatedaw/stargate?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/stargatedaw/stargate'><img src='https://img.shields.io/github/stars/stargatedaw/stargate?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/stargatedaw/stargate' alt='License'/>
+
+  **Screenshots:**
+
+  <img src='https://raw.githubusercontent.com/stargatedaw/stargate/main/assets/audio_item.png' width='400' loading='lazy'/>
+
+  <img src='https://raw.githubusercontent.com/stargatedaw/stargate/main/assets/note_item.png' width='400' loading='lazy'/>
+
+  <img src='https://raw.githubusercontent.com/stargatedaw/stargate/main/assets/plugins.png' width='400' loading='lazy'/>
+
+  *(3 more screenshots available in the repository)*
+
+  </p>
+  </details>
+
 - [Suohai ![GitHub Repo Stars](https://img.shields.io/github/stars/Sunnyyoung/Suohai) ![GitHub last commit](https://img.shields.io/github/last-commit/Sunnyyoung/Suohai)](https://github.com/Sunnyyoung/Suohai) - Audio input/output source lock for macOS. 
 
   <details>
@@ -814,7 +854,20 @@ You can see in which language an app is written. Currently there are following l
 <div align="right"><a href="#contents">⬆️ Back to Top</a></div>
 
 <a id="backup"></a>
-### 💾 Backup (5)
+### 💾 Backup (6)
+- [backy ![GitHub Repo Stars](https://img.shields.io/github/stars/vdbsh/backy) ![GitHub last commit](https://img.shields.io/github/last-commit/vdbsh/backy)](https://github.com/vdbsh/backy) - Tiny multiprocessing utility for file backups.
+
+  <details>
+  <summary>More</summary>
+  <p>
+
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/golang-16.png' alt='Go icon' title='Go' height='16'/> 
+
+  **Links:** <a href='https://github.com/vdbsh/backy/releases/latest'><img src='https://img.shields.io/github/v/release/vdbsh/backy?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/vdbsh/backy'><img src='https://img.shields.io/github/stars/vdbsh/backy?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/vdbsh/backy' alt='License'/>
+
+  </p>
+  </details>
+
 - [BorgBase/Vorta](https://github.com/borgbase) - Simple and Secure Offsite Backups
 
   <details>
@@ -1088,7 +1141,7 @@ You can see in which language an app is written. Currently there are following l
 <div align="right"><a href="#contents">⬆️ Back to Top</a></div>
 
 <a id="chat"></a>
-### 💬 Chat (19)
+### 💬 Chat (20)
 - [Adium ![GitHub Repo Stars](https://img.shields.io/github/stars/adium/adium) ![GitHub last commit](https://img.shields.io/github/last-commit/adium/adium)](https://github.com/adium/adium) - Instant messaging application that can connect to XMPP (Jabber), IRC and more.
 
   <details>
@@ -1279,6 +1332,23 @@ You can see in which language an app is written. Currently there are following l
   **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-16.png' alt='JavaScript icon' title='JavaScript' height='16'/> 
 
   **Links:** <a href='https://github.com/signalapp/Signal-Desktop/releases/latest'><img src='https://img.shields.io/github/v/release/signalapp/Signal-Desktop?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/signalapp/Signal-Desktop'><img src='https://img.shields.io/github/stars/signalapp/Signal-Desktop?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/signalapp/Signal-Desktop' alt='License'/>
+
+  </p>
+  </details>
+
+- [Swiftcord ![GitHub Repo Stars](https://img.shields.io/github/stars/SwiftcordApp/Swiftcord) ![GitHub last commit](https://img.shields.io/github/last-commit/SwiftcordApp/Swiftcord)](https://github.com/SwiftcordApp/Swiftcord) - Native Discord client built in Swift & SwiftUI. Light on your RAM and CPU.
+
+  <details>
+  <summary>More</summary>
+  <p>
+
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+
+  **Links:** <a href='https://github.com/SwiftcordApp/Swiftcord/releases/latest'><img src='https://img.shields.io/github/v/release/SwiftcordApp/Swiftcord?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/SwiftcordApp/Swiftcord'><img src='https://img.shields.io/github/stars/SwiftcordApp/Swiftcord?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/SwiftcordApp/Swiftcord' alt='License'/>
+
+  **Screenshots:**
+
+  <img src='https://github.com/SwiftcordApp/Swiftcord/blob/main/README_Resources/heroScreenshot.png' width='400' loading='lazy'/>
 
   </p>
   </details>
@@ -1824,7 +1894,7 @@ You can see in which language an app is written. Currently there are following l
 <div align="right"><a href="#contents">⬆️ Back to Top</a></div>
 
 <a id="development"></a>
-### 👨‍💻 Development (12)
+### 👨‍💻 Development (14)
 - [Apache Netbeans ![GitHub Repo Stars](https://img.shields.io/github/stars/apache/netbeans) ![GitHub last commit](https://img.shields.io/github/last-commit/apache/netbeans)](https://github.com/apache/netbeans) - Apache NetBeans is an IDE, Tooling Platform and Application Framework suitable for development in Java, JavaScript, PHP, HTML5, CSS, and more.
 
   <details>
@@ -1861,6 +1931,27 @@ You can see in which language an app is written. Currently there are following l
   **Screenshots:**
 
   <img src='https://brackets.io/img/hero.png' width='400' loading='lazy'/>
+
+  </p>
+  </details>
+
+- [Clipboard ![GitHub Repo Stars](https://img.shields.io/github/stars/Slackadays/Clipboard) ![GitHub last commit](https://img.shields.io/github/last-commit/Slackadays/Clipboard)](https://github.com/Slackadays/Clipboard) - An easy-to-use clipboard manager with time saving features that work across all terminals.
+
+  <details>
+  <summary>More</summary>
+  <p>
+
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/cpp-16.png' alt='C++ icon' title='C++' height='16'/> 
+
+  **Links:** <a href='https://github.com/Slackadays/Clipboard/releases/latest'><img src='https://img.shields.io/github/v/release/Slackadays/Clipboard?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/Slackadays/Clipboard'><img src='https://img.shields.io/github/stars/Slackadays/Clipboard?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/Slackadays/Clipboard' alt='License'/>
+
+  **Website:** [https://GetClipboard.app](https://GetClipboard.app)
+
+  **Screenshots:**
+
+  <img src='https://raw.githubusercontent.com/Slackadays/Clipboard/main/documentation/website/static/demo.png' width='400' loading='lazy'/>
+
+  <img src='https://raw.githubusercontent.com/Slackadays/Clipboard/main/documentation/readme-assets/ClipboardDemo.gif' width='400' loading='lazy'/>
 
   </p>
   </details>
@@ -1937,6 +2028,27 @@ You can see in which language an app is written. Currently there are following l
   <img src='https://raw.githubusercontent.com/Slllava/gridfy/refs/heads/main/media/pr-02.png' width='400' loading='lazy'/>
 
   <img src='https://raw.githubusercontent.com/Slllava/gridfy/refs/heads/main/media/pr-03.png' width='400' loading='lazy'/>
+
+  </p>
+  </details>
+
+- [JustTags ![GitHub Repo Stars](https://img.shields.io/github/stars/kaphacius/just-tags) ![GitHub last commit](https://img.shields.io/github/last-commit/kaphacius/just-tags)](https://github.com/kaphacius/just-tags) - JustTags in a macOS app for working with BERTLV EMV tags.
+
+  <details>
+  <summary>More</summary>
+  <p>
+
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+
+  **Links:** <a href='https://github.com/kaphacius/just-tags/releases/latest'><img src='https://img.shields.io/github/v/release/kaphacius/just-tags?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/kaphacius/just-tags'><img src='https://img.shields.io/github/stars/kaphacius/just-tags?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/kaphacius/just-tags' alt='License'/>
+
+  **Website:** [https://kaphacius.github.io/just-tags/](https://kaphacius.github.io/just-tags/)
+
+  **Screenshots:**
+
+  <img src='https://github.com/kaphacius/just-tags/raw/main/Screenshots/02_view.png?raw=true' width='400' loading='lazy'/>
+
+  <img src='https://github.com/kaphacius/just-tags/raw/main/Screenshots/04_diff.png?raw=true' width='400' loading='lazy'/>
 
   </p>
   </details>
@@ -3524,7 +3636,7 @@ You can see in which language an app is written. Currently there are following l
 <div align="right"><a href="#contents">⬆️ Back to Top</a></div>
 
 <a id="downloader"></a>
-### ⬇️ Downloader (8)
+### ⬇️ Downloader (9)
 - [App Downloader ![GitHub Repo Stars](https://img.shields.io/github/stars/yep/app-downloader) ![GitHub last commit](https://img.shields.io/github/last-commit/yep/app-downloader)](https://github.com/yep/app-downloader) - Easily search and download macOS apps from the huge `homebrew cask` app catalog. 
 
   <details>
@@ -3534,6 +3646,29 @@ You can see in which language an app is written. Currently there are following l
   **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
 
   **Links:** <a href='https://github.com/yep/app-downloader/releases/latest'><img src='https://img.shields.io/github/v/release/yep/app-downloader?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/yep/app-downloader'><img src='https://img.shields.io/github/stars/yep/app-downloader?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/yep/app-downloader' alt='License'/>
+
+  </p>
+  </details>
+
+- [App Fair ![GitHub Repo Stars](https://img.shields.io/github/stars/App-Fair/App) ![GitHub last commit](https://img.shields.io/github/last-commit/App-Fair/App)](https://github.com/App-Fair/App) - Find and install macOS apps from Homebrew Cask and Fairground App catalogs.
+
+  <details>
+  <summary>More</summary>
+  <p>
+
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+
+  **Links:** <a href='https://github.com/App-Fair/App/releases/latest'><img src='https://img.shields.io/github/v/release/App-Fair/App?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/App-Fair/App'><img src='https://img.shields.io/github/stars/App-Fair/App?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/App-Fair/App' alt='License'/>
+
+  **Website:** [https://appfair.app](https://appfair.app)
+
+  **Screenshots:**
+
+  <img src='https://appfair.app/screenshots/screen1.png' width='400' loading='lazy'/>
+
+  <img src='https://appfair.app/screenshots/screen2.png' width='400' loading='lazy'/>
+
+  <img src='https://appfair.app/screenshots/screen3.png' width='400' loading='lazy'/>
 
   </p>
   </details>
@@ -4102,7 +4237,7 @@ You can see in which language an app is written. Currently there are following l
 <div align="right"><a href="#contents">⬆️ Back to Top</a></div>
 
 <a id="text"></a>
-#### ✏️ Text (12)
+#### ✏️ Text (13)
 - [AuroraEditor ![GitHub Repo Stars](https://img.shields.io/github/stars/AuroraEditor/AuroraEditor) ![GitHub last commit](https://img.shields.io/github/last-commit/AuroraEditor/AuroraEditor)](https://github.com/AuroraEditor/AuroraEditor) - Lightweight Code Editor (IDE) for macOS. 
 
   <details>
@@ -4217,6 +4352,25 @@ You can see in which language an app is written. Currently there are following l
   <img src='https://github.com/maxnd/mxMarkEdit/blob/main/screenshots/screenshot3.png' width='400' loading='lazy'/>
 
   *(1 more screenshots available in the repository)*
+
+  </p>
+  </details>
+
+- [Notesnook ![GitHub Repo Stars](https://img.shields.io/github/stars/streetwriters/notesnook) ![GitHub last commit](https://img.shields.io/github/last-commit/streetwriters/notesnook)](https://github.com/streetwriters/notesnook) - A fully open source and end-to-end encrypted note taking alternative to Evernote.
+
+  <details>
+  <summary>More</summary>
+  <p>
+
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-16.png' alt='JavaScript icon' title='JavaScript' height='16'/> <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/typescript-16.png' alt='TypeScript icon' title='TypeScript' height='16'/> 
+
+  **Links:** <a href='https://github.com/streetwriters/notesnook/releases/latest'><img src='https://img.shields.io/github/v/release/streetwriters/notesnook?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/streetwriters/notesnook'><img src='https://img.shields.io/github/stars/streetwriters/notesnook?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/streetwriters/notesnook' alt='License'/>
+
+  **Website:** [https://notesnook.com](https://notesnook.com)
+
+  **Screenshots:**
+
+  <img src='https://notesnook.com/_next/static/images/hero-image-dark-1920@1x-6aeda670e2531cef9a81e47766eb6cbf.webp' width='400' loading='lazy'/>
 
   </p>
   </details>
@@ -4763,7 +4917,7 @@ You can see in which language an app is written. Currently there are following l
 <div align="right"><a href="#contents">⬆️ Back to Top</a></div>
 
 <a id="games"></a>
-### 🎮 Games (11)
+### 🎮 Games (12)
 - [0 A.D.](https://svn.wildfiregames.com/public/ps/trunk/) - Real-time strategy game of ancient warfare
 
   <details>
@@ -4779,6 +4933,27 @@ You can see in which language an app is written. Currently there are following l
   <img src='https://play0ad.com/wp-content/gallery/screenshots/EgyptianPyramids.jpg' width='400' loading='lazy'/>
 
   <img src='https://play0ad.com/wp-content/gallery/screenshots/screenshot0088.png' width='400' loading='lazy'/>
+
+  </p>
+  </details>
+
+- [Amazing Tic Tac Toe ![GitHub Repo Stars](https://img.shields.io/github/stars/Aries-Sciences-LLC/Tic-Tac-Toe) ![GitHub last commit](https://img.shields.io/github/last-commit/Aries-Sciences-LLC/Tic-Tac-Toe)](https://github.com/Aries-Sciences-LLC/Tic-Tac-Toe) - Fun Tic Tac Toe game equipped with multiplayer (local and online) and leveled single player available on the App Store.
+
+  <details>
+  <summary>More</summary>
+  <p>
+
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-16.png' alt='Objective-C icon' title='Objective-C' height='16'/> 
+
+  **Links:** <a href='https://github.com/Aries-Sciences-LLC/Tic-Tac-Toe/releases/latest'><img src='https://img.shields.io/github/v/release/Aries-Sciences-LLC/Tic-Tac-Toe?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/Aries-Sciences-LLC/Tic-Tac-Toe'><img src='https://img.shields.io/github/stars/Aries-Sciences-LLC/Tic-Tac-Toe?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/Aries-Sciences-LLC/Tic-Tac-Toe' alt='License'/>
+
+  **Website:** [https://ariessciences.com/highlight?product=tic-tac-toe](https://ariessciences.com/highlight?product=tic-tac-toe)
+
+  **Screenshots:**
+
+  <img src='https://raw.githubusercontent.com/Aries-Sciences-LLC/Tic-Tac-Toe/master/ScreenShots/previews/inGameDemos.png' width='400' loading='lazy'/>
+
+  <img src='https://raw.githubusercontent.com/Aries-Sciences-LLC/Tic-Tac-Toe/master/ScreenShots/previews/multiplayerModes.png' width='400' loading='lazy'/>
 
   </p>
   </details>
@@ -6081,7 +6256,7 @@ You can see in which language an app is written. Currently there are following l
 <div align="right"><a href="#contents">⬆️ Back to Top</a></div>
 
 <a id="menubar"></a>
-### 📊 Menubar (48)
+### 📊 Menubar (50)
 - [Airpass ![GitHub Repo Stars](https://img.shields.io/github/stars/alvesjtiago/airpass) ![GitHub last commit](https://img.shields.io/github/last-commit/alvesjtiago/airpass)](https://github.com/alvesjtiago/airpass) - Status bar Mac application to overcome time constrained WiFi networks. 
 
   <details>
@@ -6655,6 +6830,27 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
+- [Quick Weather ![GitHub Repo Stars](https://img.shields.io/github/stars/Aries-Sciences-LLC/Quick-Weather) ![GitHub last commit](https://img.shields.io/github/last-commit/Aries-Sciences-LLC/Quick-Weather)](https://github.com/Aries-Sciences-LLC/Quick-Weather) - Simple and elegant menubar weather app on the App Store.
+
+  <details>
+  <summary>More</summary>
+  <p>
+
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+
+  **Links:** <a href='https://github.com/Aries-Sciences-LLC/Quick-Weather/releases/latest'><img src='https://img.shields.io/github/v/release/Aries-Sciences-LLC/Quick-Weather?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/Aries-Sciences-LLC/Quick-Weather'><img src='https://img.shields.io/github/stars/Aries-Sciences-LLC/Quick-Weather?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/Aries-Sciences-LLC/Quick-Weather' alt='License'/>
+
+  **Website:** [https://ariessciences.com/highlight?product=quick-weather](https://ariessciences.com/highlight?product=quick-weather)
+
+  **Screenshots:**
+
+  <img src='https://raw.githubusercontent.com/Aries-Sciences-LLC/Quick-Weather/master/ScreenShots/Previews/page1.png' width='400' loading='lazy'/>
+
+  <img src='https://raw.githubusercontent.com/Aries-Sciences-LLC/Quick-Weather/master/ScreenShots/Previews/page3.png' width='400' loading='lazy'/>
+
+  </p>
+  </details>
+
 - [Quickeys ![GitHub Repo Stars](https://img.shields.io/github/stars/alexrosenfeld10/Quickeys) ![GitHub last commit](https://img.shields.io/github/last-commit/alexrosenfeld10/Quickeys)](https://github.com/alexrosenfeld10/Quickeys) - A mac menu bar app that provides note taking functionality though a quick dropdown menu. 
 
   <details>
@@ -6708,6 +6904,29 @@ You can see in which language an app is written. Currently there are following l
   <img src='https://raw.githubusercontent.com/sane-apps/SaneBar/main/docs/images/icon-panel.png' width='400' loading='lazy'/>
 
   <img src='https://raw.githubusercontent.com/sane-apps/SaneBar/main/docs/images/second-menu-bar.png' width='400' loading='lazy'/>
+
+  </p>
+  </details>
+
+- [ScreenHint ![GitHub Repo Stars](https://img.shields.io/github/stars/salemhilal/ScreenHint) ![GitHub last commit](https://img.shields.io/github/last-commit/salemhilal/ScreenHint)](https://github.com/salemhilal/ScreenHint) - A simple screenshotting utility for thinking clearly.
+
+  <details>
+  <summary>More</summary>
+  <p>
+
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+
+  **Links:** <a href='https://github.com/salemhilal/ScreenHint/releases/latest'><img src='https://img.shields.io/github/v/release/salemhilal/ScreenHint?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/salemhilal/ScreenHint'><img src='https://img.shields.io/github/stars/salemhilal/ScreenHint?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/salemhilal/ScreenHint' alt='License'/>
+
+  **Website:** [https://screenhint.com](https://screenhint.com)
+
+  **Screenshots:**
+
+  <img src='https://github.com/salemhilal/screenhint-site/blob/main/src/static/img/features/screenhint-in-action.png?raw=true' width='400' loading='lazy'/>
+
+  <img src='https://github.com/salemhilal/screenhint-site/blob/main/src/static/img/features/code-hints.png?raw=true' width='400' loading='lazy'/>
+
+  <img src='https://github.com/salemhilal/screenhint-site/blob/main/src/static/img/features/bike-ride-hints.png?raw=true' width='400' loading='lazy'/>
 
   </p>
   </details>
@@ -6899,7 +7118,7 @@ You can see in which language an app is written. Currently there are following l
 <div align="right"><a href="#contents">⬆️ Back to Top</a></div>
 
 <a id="music"></a>
-### 🎧 Music (15)
+### 🎧 Music (16)
 - [Carol ![GitHub Repo Stars](https://img.shields.io/github/stars/AnaghSharma/Carol) ![GitHub last commit](https://img.shields.io/github/last-commit/AnaghSharma/Carol)](https://github.com/AnaghSharma/Carol) - A minimal and beautiful lyrics app that stays in the menu bar of macOS. 
 
   <details>
@@ -7136,6 +7355,29 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
+- [StargateDAW ![GitHub Repo Stars](https://img.shields.io/github/stars/stargatedaw/stargate) ![GitHub last commit](https://img.shields.io/github/last-commit/stargatedaw/stargate)](https://github.com/stargatedaw/stargate) - An all-in-one digital audio workstation (DAW) and plugin suite
+
+  <details>
+  <summary>More</summary>
+  <p>
+
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/c-16.png' alt='C icon' title='C' height='16'/> <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/python-16.png' alt='Python icon' title='Python' height='16'/> 
+
+  **Links:** <a href='https://github.com/stargatedaw/stargate/releases/latest'><img src='https://img.shields.io/github/v/release/stargatedaw/stargate?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/stargatedaw/stargate'><img src='https://img.shields.io/github/stars/stargatedaw/stargate?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/stargatedaw/stargate' alt='License'/>
+
+  **Screenshots:**
+
+  <img src='https://raw.githubusercontent.com/stargatedaw/stargate/main/assets/audio_item.png' width='400' loading='lazy'/>
+
+  <img src='https://raw.githubusercontent.com/stargatedaw/stargate/main/assets/note_item.png' width='400' loading='lazy'/>
+
+  <img src='https://raw.githubusercontent.com/stargatedaw/stargate/main/assets/plugins.png' width='400' loading='lazy'/>
+
+  *(3 more screenshots available in the repository)*
+
+  </p>
+  </details>
+
 - [YouTube-Music ![GitHub Repo Stars](https://img.shields.io/github/stars/steve228uk/YouTube-Music) ![GitHub last commit](https://img.shields.io/github/last-commit/steve228uk/YouTube-Music)](https://github.com/steve228uk/YouTube-Music) - macOS wrapper for music.youtube.com. 
 
   <details>
@@ -7268,7 +7510,7 @@ You can see in which language an app is written. Currently there are following l
 <div align="right"><a href="#contents">⬆️ Back to Top</a></div>
 
 <a id="notes"></a>
-### 📔 Notes (17)
+### 📔 Notes (18)
 - [Boostnote ![GitHub Repo Stars](https://img.shields.io/github/stars/BoostIO/BoostNote-Legacy) ![GitHub last commit](https://img.shields.io/github/last-commit/BoostIO/BoostNote-Legacy)](https://github.com/BoostIO/BoostNote-Legacy) - Note-taking application made for programmers just like you. 
 
   <details>
@@ -7435,6 +7677,25 @@ You can see in which language an app is written. Currently there are following l
   **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
 
   **Links:** <a href='https://github.com/SauvageP/Notes/releases/latest'><img src='https://img.shields.io/github/v/release/SauvageP/Notes?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/SauvageP/Notes'><img src='https://img.shields.io/github/stars/SauvageP/Notes?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/SauvageP/Notes' alt='License'/>
+
+  </p>
+  </details>
+
+- [Notesnook ![GitHub Repo Stars](https://img.shields.io/github/stars/streetwriters/notesnook) ![GitHub last commit](https://img.shields.io/github/last-commit/streetwriters/notesnook)](https://github.com/streetwriters/notesnook) - A fully open source and end-to-end encrypted note taking alternative to Evernote.
+
+  <details>
+  <summary>More</summary>
+  <p>
+
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-16.png' alt='JavaScript icon' title='JavaScript' height='16'/> <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/typescript-16.png' alt='TypeScript icon' title='TypeScript' height='16'/> 
+
+  **Links:** <a href='https://github.com/streetwriters/notesnook/releases/latest'><img src='https://img.shields.io/github/v/release/streetwriters/notesnook?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/streetwriters/notesnook'><img src='https://img.shields.io/github/stars/streetwriters/notesnook?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/streetwriters/notesnook' alt='License'/>
+
+  **Website:** [https://notesnook.com](https://notesnook.com)
+
+  **Screenshots:**
+
+  <img src='https://notesnook.com/_next/static/images/hero-image-dark-1920@1x-6aeda670e2531cef9a81e47766eb6cbf.webp' width='400' loading='lazy'/>
 
   </p>
   </details>
@@ -8145,7 +8406,7 @@ You can see in which language an app is written. Currently there are following l
 <div align="right"><a href="#contents">⬆️ Back to Top</a></div>
 
 <a id="productivity"></a>
-### ⏱️ Productivity (68)
+### ⏱️ Productivity (73)
 - [Ao ![GitHub Repo Stars](https://img.shields.io/github/stars/klaudiosinani/ao) ![GitHub last commit](https://img.shields.io/github/last-commit/klaudiosinani/ao)](https://github.com/klaudiosinani/ao) - Elegant Microsoft To-Do desktop app.
 
   <details>
@@ -8155,6 +8416,29 @@ You can see in which language an app is written. Currently there are following l
   **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-16.png' alt='JavaScript icon' title='JavaScript' height='16'/> <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/css-16.png' alt='CSS icon' title='CSS' height='16'/> 
 
   **Links:** <a href='https://github.com/klaudiosinani/ao/releases/latest'><img src='https://img.shields.io/github/v/release/klaudiosinani/ao?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/klaudiosinani/ao'><img src='https://img.shields.io/github/stars/klaudiosinani/ao?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/klaudiosinani/ao' alt='License'/>
+
+  </p>
+  </details>
+
+- [App Fair ![GitHub Repo Stars](https://img.shields.io/github/stars/App-Fair/App) ![GitHub last commit](https://img.shields.io/github/last-commit/App-Fair/App)](https://github.com/App-Fair/App) - Find and install macOS apps from Homebrew Cask and Fairground App catalogs.
+
+  <details>
+  <summary>More</summary>
+  <p>
+
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+
+  **Links:** <a href='https://github.com/App-Fair/App/releases/latest'><img src='https://img.shields.io/github/v/release/App-Fair/App?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/App-Fair/App'><img src='https://img.shields.io/github/stars/App-Fair/App?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/App-Fair/App' alt='License'/>
+
+  **Website:** [https://appfair.app](https://appfair.app)
+
+  **Screenshots:**
+
+  <img src='https://appfair.app/screenshots/screen1.png' width='400' loading='lazy'/>
+
+  <img src='https://appfair.app/screenshots/screen2.png' width='400' loading='lazy'/>
+
+  <img src='https://appfair.app/screenshots/screen3.png' width='400' loading='lazy'/>
 
   </p>
   </details>
@@ -8225,6 +8509,27 @@ You can see in which language an app is written. Currently there are following l
   **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-16.png' alt='JavaScript icon' title='JavaScript' height='16'/> 
 
   **Links:** <a href='https://github.com/cerebroapp/cerebro/releases/latest'><img src='https://img.shields.io/github/v/release/cerebroapp/cerebro?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/cerebroapp/cerebro'><img src='https://img.shields.io/github/stars/cerebroapp/cerebro?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/cerebroapp/cerebro' alt='License'/>
+
+  </p>
+  </details>
+
+- [Clipboard ![GitHub Repo Stars](https://img.shields.io/github/stars/Slackadays/Clipboard) ![GitHub last commit](https://img.shields.io/github/last-commit/Slackadays/Clipboard)](https://github.com/Slackadays/Clipboard) - An easy-to-use clipboard manager with time saving features that work across all terminals.
+
+  <details>
+  <summary>More</summary>
+  <p>
+
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/cpp-16.png' alt='C++ icon' title='C++' height='16'/> 
+
+  **Links:** <a href='https://github.com/Slackadays/Clipboard/releases/latest'><img src='https://img.shields.io/github/v/release/Slackadays/Clipboard?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/Slackadays/Clipboard'><img src='https://img.shields.io/github/stars/Slackadays/Clipboard?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/Slackadays/Clipboard' alt='License'/>
+
+  **Website:** [https://GetClipboard.app](https://GetClipboard.app)
+
+  **Screenshots:**
+
+  <img src='https://raw.githubusercontent.com/Slackadays/Clipboard/main/documentation/website/static/demo.png' width='400' loading='lazy'/>
+
+  <img src='https://raw.githubusercontent.com/Slackadays/Clipboard/main/documentation/readme-assets/ClipboardDemo.gif' width='400' loading='lazy'/>
 
   </p>
   </details>
@@ -8650,6 +8955,21 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
+- [OmniPrompt ![GitHub Repo Stars](https://img.shields.io/github/stars/nsmet/omniprompt-gpt-mac-app) ![GitHub last commit](https://img.shields.io/github/last-commit/nsmet/omniprompt-gpt-mac-app)](https://github.com/nsmet/omniprompt-gpt-mac-app) - Your ultimate GPT companion for seamless access on your Mac
+
+  <details>
+  <summary>More</summary>
+  <p>
+
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+
+  **Links:** <a href='https://github.com/nsmet/omniprompt-gpt-mac-app/releases/latest'><img src='https://img.shields.io/github/v/release/nsmet/omniprompt-gpt-mac-app?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/nsmet/omniprompt-gpt-mac-app'><img src='https://img.shields.io/github/stars/nsmet/omniprompt-gpt-mac-app?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/nsmet/omniprompt-gpt-mac-app' alt='License'/>
+
+  **Website:** [https://omniprompt.app/](https://omniprompt.app/)
+
+  </p>
+  </details>
+
 - [Paperless Desktop ![GitHub Repo Stars](https://img.shields.io/github/stars/thomasbrueggemann/paperless-desktop) ![GitHub last commit](https://img.shields.io/github/last-commit/thomasbrueggemann/paperless-desktop)](https://github.com/thomasbrueggemann/paperless-desktop) - Desktop app that uses the paperless API to manage your document scans. 
 
   <details>
@@ -8874,6 +9194,29 @@ You can see in which language an app is written. Currently there are following l
   <img src='https://raw.githubusercontent.com/sane-apps/SaneSales/main/docs/images/screenshot-mac-charts.png' width='400' loading='lazy'/>
 
   <img src='https://raw.githubusercontent.com/sane-apps/SaneSales/main/docs/images/screenshot-iphone-dashboard.png' width='400' loading='lazy'/>
+
+  </p>
+  </details>
+
+- [ScreenHint ![GitHub Repo Stars](https://img.shields.io/github/stars/salemhilal/ScreenHint) ![GitHub last commit](https://img.shields.io/github/last-commit/salemhilal/ScreenHint)](https://github.com/salemhilal/ScreenHint) - A simple screenshotting utility for thinking clearly.
+
+  <details>
+  <summary>More</summary>
+  <p>
+
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+
+  **Links:** <a href='https://github.com/salemhilal/ScreenHint/releases/latest'><img src='https://img.shields.io/github/v/release/salemhilal/ScreenHint?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/salemhilal/ScreenHint'><img src='https://img.shields.io/github/stars/salemhilal/ScreenHint?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/salemhilal/ScreenHint' alt='License'/>
+
+  **Website:** [https://screenhint.com](https://screenhint.com)
+
+  **Screenshots:**
+
+  <img src='https://github.com/salemhilal/screenhint-site/blob/main/src/static/img/features/screenhint-in-action.png?raw=true' width='400' loading='lazy'/>
+
+  <img src='https://github.com/salemhilal/screenhint-site/blob/main/src/static/img/features/code-hints.png?raw=true' width='400' loading='lazy'/>
+
+  <img src='https://github.com/salemhilal/screenhint-site/blob/main/src/static/img/features/bike-ride-hints.png?raw=true' width='400' loading='lazy'/>
 
   </p>
   </details>
@@ -9311,6 +9654,25 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
+- [Yippy ![GitHub Repo Stars](https://img.shields.io/github/stars/mattDavo/Yippy) ![GitHub last commit](https://img.shields.io/github/last-commit/mattDavo/Yippy)](https://github.com/mattDavo/Yippy) - macOS open source clipboard manager
+
+  <details>
+  <summary>More</summary>
+  <p>
+
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+
+  **Links:** <a href='https://github.com/mattDavo/Yippy/releases/latest'><img src='https://img.shields.io/github/v/release/mattDavo/Yippy?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/mattDavo/Yippy'><img src='https://img.shields.io/github/stars/mattDavo/Yippy?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/mattDavo/Yippy' alt='License'/>
+
+  **Website:** [https://yippy.mattdavo.com](https://yippy.mattdavo.com)
+
+  **Screenshots:**
+
+  <img src='https://github.com/mattDavo/Yippy/raw/master/images/screenshot.jpg' width='400' loading='lazy'/>
+
+  </p>
+  </details>
+
 - [Yomu ![GitHub Repo Stars](https://img.shields.io/github/stars/sendyhalim/Yomu) ![GitHub last commit](https://img.shields.io/github/last-commit/sendyhalim/Yomu)](https://github.com/sendyhalim/Yomu) - Manga reader app for macOS. 
 
   <details>
@@ -9714,7 +10076,7 @@ You can see in which language an app is written. Currently there are following l
 <div align="right"><a href="#contents">⬆️ Back to Top</a></div>
 
 <a id="sharing-files"></a>
-### 📤 Sharing Files (9)
+### 📤 Sharing Files (10)
 - [Cyberduck ![GitHub Repo Stars](https://img.shields.io/github/stars/iterate-ch/cyberduck) ![GitHub last commit](https://img.shields.io/github/last-commit/iterate-ch/cyberduck)](https://github.com/iterate-ch/cyberduck) - Cyberduck is a libre server and cloud storage browser for Mac and Windows with support for FTP, SFTP, WebDAV, Amazon S3, OpenStack Swift, Backblaze B2, Microsoft Azure & OneDrive, Google Drive and Dropbox.
 
   <details>
@@ -9745,6 +10107,27 @@ You can see in which language an app is written. Currently there are following l
   **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/python-16.png' alt='Python icon' title='Python' height='16'/> 
 
   **Links:** <a href='https://github.com/deluge-torrent/deluge/releases/latest'><img src='https://img.shields.io/github/v/release/deluge-torrent/deluge?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/deluge-torrent/deluge'><img src='https://img.shields.io/github/stars/deluge-torrent/deluge?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/deluge-torrent/deluge' alt='License'/>
+
+  </p>
+  </details>
+
+- [Easy Share Uploader ![GitHub Repo Stars](https://img.shields.io/github/stars/Aries-Sciences-LLC/Easy-Share-Uploader) ![GitHub last commit](https://img.shields.io/github/last-commit/Aries-Sciences-LLC/Easy-Share-Uploader)](https://github.com/Aries-Sciences-LLC/Easy-Share-Uploader) - Allows users to easily host their local images to the internet through multiple services and available on App Store.
+
+  <details>
+  <summary>More</summary>
+  <p>
+
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-16.png' alt='Objective-C icon' title='Objective-C' height='16'/> 
+
+  **Links:** <a href='https://github.com/Aries-Sciences-LLC/Easy-Share-Uploader/releases/latest'><img src='https://img.shields.io/github/v/release/Aries-Sciences-LLC/Easy-Share-Uploader?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/Aries-Sciences-LLC/Easy-Share-Uploader'><img src='https://img.shields.io/github/stars/Aries-Sciences-LLC/Easy-Share-Uploader?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/Aries-Sciences-LLC/Easy-Share-Uploader' alt='License'/>
+
+  **Website:** [https://ariessciences.com/highlight?product=easy-share-uploader](https://ariessciences.com/highlight?product=easy-share-uploader)
+
+  **Screenshots:**
+
+  <img src='https://raw.githubusercontent.com/Aries-Sciences-LLC/Easy-Share-Uploader/master/Screenshots/finished/Screen%20Shot%202021-02-19%20at%2010.36.10%20PM.png' width='400' loading='lazy'/>
+
+  <img src='https://raw.githubusercontent.com/Aries-Sciences-LLC/Easy-Share-Uploader/master/Screenshots/finished/Screen%20Shot%202021-02-19%20at%2010.38.20%20PM.png' width='400' loading='lazy'/>
 
   </p>
   </details>
@@ -10430,7 +10813,7 @@ You can see in which language an app is written. Currently there are following l
 <div align="right"><a href="#contents">⬆️ Back to Top</a></div>
 
 <a id="terminal"></a>
-### 📺 Terminal (13)
+### 📺 Terminal (15)
 - [Alacritty ![GitHub Repo Stars](https://img.shields.io/github/stars/alacritty/alacritty) ![GitHub last commit](https://img.shields.io/github/last-commit/alacritty/alacritty)](https://github.com/alacritty/alacritty) - Cross-platform, GPU-accelerated terminal emulator. 
 
   <details>
@@ -10470,6 +10853,27 @@ You can see in which language an app is written. Currently there are following l
   **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-16.png' alt='Objective-C icon' title='Objective-C' height='16'/> 
 
   **Links:** <a href='https://github.com/jbtule/cdto/releases/latest'><img src='https://img.shields.io/github/v/release/jbtule/cdto?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/jbtule/cdto'><img src='https://img.shields.io/github/stars/jbtule/cdto?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/jbtule/cdto' alt='License'/>
+
+  </p>
+  </details>
+
+- [Clipboard ![GitHub Repo Stars](https://img.shields.io/github/stars/Slackadays/Clipboard) ![GitHub last commit](https://img.shields.io/github/last-commit/Slackadays/Clipboard)](https://github.com/Slackadays/Clipboard) - An easy-to-use clipboard manager with time saving features that work across all terminals.
+
+  <details>
+  <summary>More</summary>
+  <p>
+
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/cpp-16.png' alt='C++ icon' title='C++' height='16'/> 
+
+  **Links:** <a href='https://github.com/Slackadays/Clipboard/releases/latest'><img src='https://img.shields.io/github/v/release/Slackadays/Clipboard?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/Slackadays/Clipboard'><img src='https://img.shields.io/github/stars/Slackadays/Clipboard?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/Slackadays/Clipboard' alt='License'/>
+
+  **Website:** [https://GetClipboard.app](https://GetClipboard.app)
+
+  **Screenshots:**
+
+  <img src='https://raw.githubusercontent.com/Slackadays/Clipboard/main/documentation/website/static/demo.png' width='400' loading='lazy'/>
+
+  <img src='https://raw.githubusercontent.com/Slackadays/Clipboard/main/documentation/readme-assets/ClipboardDemo.gif' width='400' loading='lazy'/>
 
   </p>
   </details>
@@ -10592,6 +10996,25 @@ You can see in which language an app is written. Currently there are following l
   **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
 
   **Links:** <a href='https://github.com/es-kumagai/OpenTerminal/releases/latest'><img src='https://img.shields.io/github/v/release/es-kumagai/OpenTerminal?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/es-kumagai/OpenTerminal'><img src='https://img.shields.io/github/stars/es-kumagai/OpenTerminal?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/es-kumagai/OpenTerminal' alt='License'/>
+
+  </p>
+  </details>
+
+- [Tabby ![GitHub Repo Stars](https://img.shields.io/github/stars/Eugeny/tabby) ![GitHub last commit](https://img.shields.io/github/last-commit/Eugeny/tabby)](https://github.com/Eugeny/tabby) - Powerful cross-platform terminal emulator, featuring a modern GUI, and offering SSH, serial, Telnet, and SCP client support.
+
+  <details>
+  <summary>More</summary>
+  <p>
+
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/typescript-16.png' alt='TypeScript icon' title='TypeScript' height='16'/> 
+
+  **Links:** <a href='https://github.com/Eugeny/tabby/releases/latest'><img src='https://img.shields.io/github/v/release/Eugeny/tabby?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/Eugeny/tabby'><img src='https://img.shields.io/github/stars/Eugeny/tabby?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/Eugeny/tabby' alt='License'/>
+
+  **Screenshots:**
+
+  <img src='https://raw.githubusercontent.com/Eugeny/tabby/master/docs/readme.png' width='400' loading='lazy'/>
+
+  <img src='https://github.com/Eugeny/tabby/raw/master/docs/readme-terminal.png' width='400' loading='lazy'/>
 
   </p>
   </details>
@@ -10727,7 +11150,7 @@ You can see in which language an app is written. Currently there are following l
 <div align="right"><a href="#contents">⬆️ Back to Top</a></div>
 
 <a id="utilities"></a>
-### 🛠️ Utilities (100)
+### 🛠️ Utilities (106)
 - [Android tool for Mac ![GitHub Repo Stars](https://img.shields.io/github/stars/mortenjust/androidtool-mac) ![GitHub last commit](https://img.shields.io/github/last-commit/mortenjust/androidtool-mac)](https://github.com/mortenjust/androidtool-mac) - One-click screenshots, video recordings, app installation for iOS and Android 
 
   <details>
@@ -10747,6 +11170,29 @@ You can see in which language an app is written. Currently there are following l
   <img src='https://raw.githubusercontent.com/mortenjust/androidtool-mac/master/Demos/installapk.gif' width='400' loading='lazy'/>
 
   *(2 more screenshots available in the repository)*
+
+  </p>
+  </details>
+
+- [App Fair ![GitHub Repo Stars](https://img.shields.io/github/stars/App-Fair/App) ![GitHub last commit](https://img.shields.io/github/last-commit/App-Fair/App)](https://github.com/App-Fair/App) - Find and install macOS apps from Homebrew Cask and Fairground App catalogs.
+
+  <details>
+  <summary>More</summary>
+  <p>
+
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+
+  **Links:** <a href='https://github.com/App-Fair/App/releases/latest'><img src='https://img.shields.io/github/v/release/App-Fair/App?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/App-Fair/App'><img src='https://img.shields.io/github/stars/App-Fair/App?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/App-Fair/App' alt='License'/>
+
+  **Website:** [https://appfair.app](https://appfair.app)
+
+  **Screenshots:**
+
+  <img src='https://appfair.app/screenshots/screen1.png' width='400' loading='lazy'/>
+
+  <img src='https://appfair.app/screenshots/screen2.png' width='400' loading='lazy'/>
+
+  <img src='https://appfair.app/screenshots/screen3.png' width='400' loading='lazy'/>
 
   </p>
   </details>
@@ -11240,6 +11686,27 @@ You can see in which language an app is written. Currently there are following l
   **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-16.png' alt='Objective-C icon' title='Objective-C' height='16'/> 
 
   **Links:** <a href='https://github.com/thecatalinstan/Funky/releases/latest'><img src='https://img.shields.io/github/v/release/thecatalinstan/Funky?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/thecatalinstan/Funky'><img src='https://img.shields.io/github/stars/thecatalinstan/Funky?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/thecatalinstan/Funky' alt='License'/>
+
+  </p>
+  </details>
+
+- [GrandPerspective](https://git.code.sf.net/p/grandperspectiv/source) - Small utility for visualizing disk usage using tree maps.
+
+  <details>
+  <summary>More</summary>
+  <p>
+
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-16.png' alt='Objective-C icon' title='Objective-C' height='16'/> 
+
+  **Website:** [https://grandperspectiv.sourceforge.net](https://grandperspectiv.sourceforge.net)
+
+  **Screenshots:**
+
+  <img src='https://grandperspectiv.sourceforge.net/ScreenShots/3_4_1-Folders_Bujumbura.png' width='400' loading='lazy'/>
+
+  <img src='https://grandperspectiv.sourceforge.net/ScreenShots/3_4_1-Filetype_OrigamiMice.png' width='400' loading='lazy'/>
+
+  <img src='https://grandperspectiv.sourceforge.net/ScreenShots/3_4_1-Creation_Heathmap12.png' width='400' loading='lazy'/>
 
   </p>
   </details>
@@ -11775,6 +12242,21 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
+- [OmniPrompt ![GitHub Repo Stars](https://img.shields.io/github/stars/nsmet/omniprompt-gpt-mac-app) ![GitHub last commit](https://img.shields.io/github/last-commit/nsmet/omniprompt-gpt-mac-app)](https://github.com/nsmet/omniprompt-gpt-mac-app) - Your ultimate GPT companion for seamless access on your Mac
+
+  <details>
+  <summary>More</summary>
+  <p>
+
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+
+  **Links:** <a href='https://github.com/nsmet/omniprompt-gpt-mac-app/releases/latest'><img src='https://img.shields.io/github/v/release/nsmet/omniprompt-gpt-mac-app?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/nsmet/omniprompt-gpt-mac-app'><img src='https://img.shields.io/github/stars/nsmet/omniprompt-gpt-mac-app?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/nsmet/omniprompt-gpt-mac-app' alt='License'/>
+
+  **Website:** [https://omniprompt.app/](https://omniprompt.app/)
+
+  </p>
+  </details>
+
 - [OpenCore Legacy Patcher ![GitHub Repo Stars](https://img.shields.io/github/stars/dortania/OpenCore-Legacy-Patcher) ![GitHub last commit](https://img.shields.io/github/last-commit/dortania/OpenCore-Legacy-Patcher)](https://github.com/dortania/OpenCore-Legacy-Patcher) - OpenCore Legacy Patcher is a tool for installing new MacOS versions on legacy macs.
 
   <details>
@@ -12093,6 +12575,29 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
+- [ScreenHint ![GitHub Repo Stars](https://img.shields.io/github/stars/salemhilal/ScreenHint) ![GitHub last commit](https://img.shields.io/github/last-commit/salemhilal/ScreenHint)](https://github.com/salemhilal/ScreenHint) - A simple screenshotting utility for thinking clearly.
+
+  <details>
+  <summary>More</summary>
+  <p>
+
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+
+  **Links:** <a href='https://github.com/salemhilal/ScreenHint/releases/latest'><img src='https://img.shields.io/github/v/release/salemhilal/ScreenHint?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/salemhilal/ScreenHint'><img src='https://img.shields.io/github/stars/salemhilal/ScreenHint?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/salemhilal/ScreenHint' alt='License'/>
+
+  **Website:** [https://screenhint.com](https://screenhint.com)
+
+  **Screenshots:**
+
+  <img src='https://github.com/salemhilal/screenhint-site/blob/main/src/static/img/features/screenhint-in-action.png?raw=true' width='400' loading='lazy'/>
+
+  <img src='https://github.com/salemhilal/screenhint-site/blob/main/src/static/img/features/code-hints.png?raw=true' width='400' loading='lazy'/>
+
+  <img src='https://github.com/salemhilal/screenhint-site/blob/main/src/static/img/features/bike-ride-hints.png?raw=true' width='400' loading='lazy'/>
+
+  </p>
+  </details>
+
 - [Screenpipe ![GitHub Repo Stars](https://img.shields.io/github/stars/screenpipe/screenpipe) ![GitHub last commit](https://img.shields.io/github/last-commit/screenpipe/screenpipe)](https://github.com/screenpipe/screenpipe) - 24/7 screen and audio recording with AI-powered search. Local-first, privacy-focused rewind alternative.
 
   <details>
@@ -12140,6 +12645,25 @@ You can see in which language an app is written. Currently there are following l
   **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-16.png' alt='Objective-C icon' title='Objective-C' height='16'/> 
 
   **Links:** <a href='https://github.com/dteoh/SlowQuitApps/releases/latest'><img src='https://img.shields.io/github/v/release/dteoh/SlowQuitApps?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/dteoh/SlowQuitApps'><img src='https://img.shields.io/github/stars/dteoh/SlowQuitApps?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/dteoh/SlowQuitApps' alt='License'/>
+
+  </p>
+  </details>
+
+- [Smotrite ![GitHub Repo Stars](https://img.shields.io/github/stars/Lukentui/smotrite-app) ![GitHub last commit](https://img.shields.io/github/last-commit/Lukentui/smotrite-app)](https://github.com/Lukentui/smotrite-app) - Smotrite is a system monitor for macOS, which just work.
+
+  <details>
+  <summary>More</summary>
+  <p>
+
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/typescript-16.png' alt='TypeScript icon' title='TypeScript' height='16'/> 
+
+  **Links:** <a href='https://github.com/Lukentui/smotrite-app/releases/latest'><img src='https://img.shields.io/github/v/release/Lukentui/smotrite-app?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/Lukentui/smotrite-app'><img src='https://img.shields.io/github/stars/Lukentui/smotrite-app?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/Lukentui/smotrite-app' alt='License'/>
+
+  **Screenshots:**
+
+  <img src='https://raw.githubusercontent.com/Lukentui/smotrite-app/main/etc/screenshots/1.png' width='400' loading='lazy'/>
+
+  <img src='https://raw.githubusercontent.com/Lukentui/smotrite-app/main/etc/screenshots/2.png' width='400' loading='lazy'/>
 
   </p>
   </details>
@@ -12279,6 +12803,27 @@ You can see in which language an app is written. Currently there are following l
   **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
 
   **Links:** <a href='https://github.com/zenangst/ToTheTop/releases/latest'><img src='https://img.shields.io/github/v/release/zenangst/ToTheTop?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/zenangst/ToTheTop'><img src='https://img.shields.io/github/stars/zenangst/ToTheTop?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/zenangst/ToTheTop' alt='License'/>
+
+  </p>
+  </details>
+
+- [TRex ![GitHub Repo Stars](https://img.shields.io/github/stars/amebalabs/TRex) ![GitHub last commit](https://img.shields.io/github/last-commit/amebalabs/TRex)](https://github.com/amebalabs/TRex) - TRex is the easiest way to copy the uncopyable text from images, YouTube videos, Zoom calls and more. If you can see it - you can copy it. TRex captures any text right into your Clipboard with magic of OCR.
+
+  <details>
+  <summary>More</summary>
+  <p>
+
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> 
+
+  **Links:** <a href='https://github.com/amebalabs/TRex/releases/latest'><img src='https://img.shields.io/github/v/release/amebalabs/TRex?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/amebalabs/TRex'><img src='https://img.shields.io/github/stars/amebalabs/TRex?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/amebalabs/TRex' alt='License'/>
+
+  **Website:** [https://trex.ameba.co/](https://trex.ameba.co/)
+
+  **Screenshots:**
+
+  <img src='https://raw.githubusercontent.com/amebalabs/TRex/main/Resources/screenshot.png' width='400' loading='lazy'/>
+
+  <img src='https://raw.githubusercontent.com/amebalabs/TRex/main/Resources/demo.gif' width='400' loading='lazy'/>
 
   </p>
   </details>
