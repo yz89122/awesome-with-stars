@@ -322,6 +322,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [nb ![GitHub Repo Stars](https://img.shields.io/github/stars/xwmx/nb) ![GitHub last commit](https://img.shields.io/github/last-commit/xwmx/nb)](https://github.com/xwmx/nb) - A note‑taking, bookmarking, archiving, and knowledge base application.
 - [obsidian-cli ![GitHub Repo Stars](https://img.shields.io/github/stars/Yakitrak/obsidian-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/Yakitrak/obsidian-cli)](https://github.com/Yakitrak/obsidian-cli) - Interact with your Obsidian vault.
 - [journalot ![GitHub Repo Stars](https://img.shields.io/github/stars/jtaylortech/journalot) ![GitHub last commit](https://img.shields.io/github/last-commit/jtaylortech/journalot)](https://github.com/jtaylortech/journalot) - Journaling tool with git sync.
+- [Kagan ![GitHub Repo Stars](https://img.shields.io/github/stars/kagan-sh/kagan) ![GitHub last commit](https://img.shields.io/github/last-commit/kagan-sh/kagan)](https://github.com/kagan-sh/kagan) - AI-powered Kanban board for autonomous development workflows.
 
 ### Finance
 

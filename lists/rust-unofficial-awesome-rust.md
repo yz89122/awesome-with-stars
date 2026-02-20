@@ -53,6 +53,7 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
   * [Static analysis](#static-analysis)
   * [Testing](#testing)
   * [Transpiling](#transpiling)
+  * [Tunnel](#tunnel)
 - [Libraries](#libraries)
   * [Artificial Intelligence](#artificial-intelligence)
     + [Genetic algorithms](#genetic-algorithms)
@@ -1029,6 +1030,10 @@ See also [Are we (I)DE yet?](https://areweideyet.com/) and [Rust Tools](https://
 * [BayesWitnesses/m2cgen ![GitHub Repo Stars](https://img.shields.io/github/stars/BayesWitnesses/m2cgen) ![GitHub last commit](https://img.shields.io/github/last-commit/BayesWitnesses/m2cgen)](https://github.com/BayesWitnesses/m2cgen) - A CLI tool to transpile trained classic machine learning models into a native Rust code with zero dependencies. [![GitHub Actions Status ![GitHub Repo Stars](https://img.shields.io/github/stars/BayesWitnesses/m2cgen) ![GitHub last commit](https://img.shields.io/github/last-commit/BayesWitnesses/m2cgen)](https://github.com/BayesWitnesses/m2cgen/workflows/GitHub%20Actions/badge.svg?branch=master)](https://github.com/BayesWitnesses/m2cgen/actions)
 * [immunant/c2rust ![GitHub Repo Stars](https://img.shields.io/github/stars/immunant/c2rust) ![GitHub last commit](https://img.shields.io/github/last-commit/immunant/c2rust)](https://github.com/immunant/c2rust) - C to Rust translator and cross checker built atop Clang/LLVM.
 * [jameysharp/corrode ![GitHub Repo Stars](https://img.shields.io/github/stars/jameysharp/corrode) ![GitHub last commit](https://img.shields.io/github/last-commit/jameysharp/corrode)](https://github.com/jameysharp/corrode) - A C to Rust translator written in Haskell.
+
+### Tunnel
+
+* [ngrok/ngrok-rust ![GitHub Repo Stars](https://img.shields.io/github/stars/ngrok/ngrok-rust) ![GitHub last commit](https://img.shields.io/github/last-commit/ngrok/ngrok-rust)](https://github.com/ngrok/ngrok-rust) [[ngrok-rust](https://crates.io/crates/ngrok)] - ngrok is a developer tool that exposes your local app to the internet securely.
 
 ## Libraries
 

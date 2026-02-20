@@ -1934,6 +1934,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [angular-infinity-scroller ![GitHub Repo Stars](https://img.shields.io/github/stars/Jayant061/angular-infinity-scroller) ![GitHub last commit](https://img.shields.io/github/last-commit/Jayant061/angular-infinity-scroller)](https://github.com/Jayant061/angular-infinity-scroller) - A lightweight, high‑performance infinite‑scrolling directive built to work seamlessly with modern Angular and SSR setups.
 * [cerious-scroll ![GitHub Repo Stars](https://img.shields.io/github/stars/ceriousdevtech/cerious-scroll) ![GitHub last commit](https://img.shields.io/github/last-commit/ceriousdevtech/cerious-scroll)](https://github.com/ceriousdevtech/cerious-scroll) - High-performance virtual scrolling for web applications.
 * [ngx-zoneless-scrollbar ![GitHub Repo Stars](https://img.shields.io/github/stars/Legalfina/ngx-zoneless-scrollbar) ![GitHub last commit](https://img.shields.io/github/last-commit/Legalfina/ngx-zoneless-scrollbar)](https://github.com/Legalfina/ngx-zoneless-scrollbar) - A lightweight Angular scrollbar built for zoneless mode, using native scrolling with CSS styling.
+* [ngx-scrollbar-ultimate ![GitHub Repo Stars](https://img.shields.io/github/stars/andrew-dev283/ngx-scrollbar-ultimate) ![GitHub last commit](https://img.shields.io/github/last-commit/andrew-dev283/ngx-scrollbar-ultimate)](https://github.com/andrew-dev283/ngx-scrollbar-ultimate) - A lightweight library for vertical scrolling.
 
 ### Storage
 
