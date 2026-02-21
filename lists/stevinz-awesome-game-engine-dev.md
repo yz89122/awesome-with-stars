@@ -407,7 +407,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Esoterica Engine ![GitHub Repo Stars](https://img.shields.io/github/stars/BobbyAnguelov/Esoterica) ![GitHub last commit](https://img.shields.io/github/last-commit/BobbyAnguelov/Esoterica)](https://github.com/BobbyAnguelov/Esoterica) - High-performance game engine with editor and AAA quality animation graph.
     - 🎉 [Ethereal Engine ![GitHub Repo Stars](https://img.shields.io/github/stars/ir-engine/etherealengine-archive) ![GitHub last commit](https://img.shields.io/github/last-commit/ir-engine/etherealengine-archive)](https://github.com/ir-engine/etherealengine-archive) - Cross-platform game engine and editor.
     - 🎉 [ezEngine ![GitHub Repo Stars](https://img.shields.io/github/stars/ezEngine/ezEngine) ![GitHub last commit](https://img.shields.io/github/last-commit/ezEngine/ezEngine)](https://github.com/ezEngine/ezEngine) - Game engine in active development.
-    - 🎉 [FIFE ![GitHub Repo Stars](https://img.shields.io/github/stars/fifengine/fifengine) ![GitHub last commit](https://img.shields.io/github/last-commit/fifengine/fifengine)](https://github.com/fifengine/fifengine) - Multi-platform isometric game engine.
+    - �� [FIFE ![GitHub Repo Stars](https://img.shields.io/github/stars/fifengine/fifengine) ![GitHub last commit](https://img.shields.io/github/last-commit/fifengine/fifengine)](https://github.com/fifengine/fifengine) - Multi-platform isometric game engine.
     - 🎉 [Irrlicht](https://sourceforge.net/projects/irrlicht/) - Cross-platform 3D engine worked on for nearly 2 decades. [[Website](https://irrlicht.sourceforge.io/)]
     - 🎉 [Limon Engine ![GitHub Repo Stars](https://img.shields.io/github/stars/enginmanap/limonEngine) ![GitHub last commit](https://img.shields.io/github/last-commit/enginmanap/limonEngine)](https://github.com/enginmanap/limonEngine) - 3D FPS game engine with full dynamic lighting and shadows.
     - 🎉 [Lina Engine ![GitHub Repo Stars](https://img.shields.io/github/stars/inanevin/LinaEngine) ![GitHub last commit](https://img.shields.io/github/last-commit/inanevin/LinaEngine)](https://github.com/inanevin/LinaEngine) - Modular game engine, aimed to develop 3D desktop games.
@@ -1407,7 +1407,7 @@ _Resources to help bring video games and game engines alive._
 
 ### Model Assets
 - 🆓 [Pmndrs Market ![GitHub Repo Stars](https://img.shields.io/github/stars/pmndrs/market) ![GitHub last commit](https://img.shields.io/github/last-commit/pmndrs/market)](https://github.com/pmndrs/market) - Collection of public domain models.
-- 🆓 [Poly Pizza](https://poly.pizza) - Build something beautiful with thousands of free low poly models.
+- ���� [Poly Pizza](https://poly.pizza) - Build something beautiful with thousands of free low poly models.
 - 🆓 [Quaternius](https://quaternius.com) - Collection of CC0 1.0 3D models.
 - 📚 [Retro3DGraphicsCollection ![GitHub Repo Stars](https://img.shields.io/github/stars/Miziziziz/Retro3DGraphicsCollection) ![GitHub last commit](https://img.shields.io/github/last-commit/Miziziziz/Retro3DGraphicsCollection)](https://github.com/Miziziziz/Retro3DGraphicsCollection) - No attribution, retro (_PS1_ style) 3D graphics assets.
 - 💸 [Sketchfab](https://sketchfab.com) - Huge library of 3D assets.
