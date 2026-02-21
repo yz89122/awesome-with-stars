@@ -1550,6 +1550,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [color-picker ![GitHub Repo Stars](https://img.shields.io/github/stars/acrodata/color-picker) ![GitHub last commit](https://img.shields.io/github/last-commit/acrodata/color-picker)](https://github.com/acrodata/color-picker) - Another beautiful color picker.
 * [ngx-pattern-lock ![GitHub Repo Stars](https://img.shields.io/github/stars/nicotole/ngx-pattern-lock) ![GitHub last commit](https://img.shields.io/github/last-commit/nicotole/ngx-pattern-lock)](https://github.com/nicotole/ngx-pattern-lock) - A lightweight, fully responsive, and customizable Android-style pattern lock component for Angular.
 * [smt-select ![GitHub Repo Stars](https://img.shields.io/github/stars/sametacar/smt-select) ![GitHub last commit](https://img.shields.io/github/last-commit/sametacar/smt-select)](https://github.com/sametacar/smt-select) - A high-performance, lightweight, and customizable Angular select component with built-in virtual scroll and search capabilities.
+* [ngx-mat-searchable-select ![GitHub Repo Stars](https://img.shields.io/github/stars/khalilElmouedene/ngx-mat-searchable-select) ![GitHub last commit](https://img.shields.io/github/last-commit/khalilElmouedene/ngx-mat-searchable-select)](https://github.com/khalilElmouedene/ngx-mat-searchable-select) - A reusable Angular Material select component with infinite scroll, debounced search, "no items found" feedback, and static/mock data support.
 
 ### JSON Forms
 
@@ -1905,6 +1906,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-speculation-rules ![GitHub Repo Stars](https://img.shields.io/github/stars/SkyZeroZx/ngx-speculation-rules) ![GitHub last commit](https://img.shields.io/github/last-commit/SkyZeroZx/ngx-speculation-rules)](https://github.com/SkyZeroZx/ngx-speculation-rules) - Angular library for the [Speculation Rules API](https://developer.mozilla.org/en-US/docs/Web/API/Speculation_Rules_API) enabling prefetching and prerendering for faster, SSR- and Zoneless-compatible navigation.
 * [ui-router ![GitHub Repo Stars](https://img.shields.io/github/stars/ui-router/angular) ![GitHub last commit](https://img.shields.io/github/last-commit/ui-router/angular)](https://github.com/ui-router/angular) - State-based routing in Angular is enabled through [UI-Router for Angular](https://ui-router.github.io).
 * [ngx-url-params ![GitHub Repo Stars](https://img.shields.io/github/stars/shlomog12/ngx-url-params) ![GitHub last commit](https://img.shields.io/github/last-commit/shlomog12/ngx-url-params)](https://github.com/shlomog12/ngx-url-params) - Lightweight Angular service for managing and synchronizing URL query parameters with a concise, reactive API.
+* [ngx-history ![GitHub Repo Stars](https://img.shields.io/github/stars/lumentut/ngx-history) ![GitHub last commit](https://img.shields.io/github/last-commit/lumentut/ngx-history)](https://github.com/lumentut/ngx-history) - Modern Angular navigation history service with reactive programming support.
 
 ### Scroll
 
