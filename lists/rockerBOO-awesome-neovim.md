@@ -1670,6 +1670,7 @@ then it is not supported:
 
 ### Stats Tracking
 
+- [aikhe/wrapped.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/aikhe/wrapped.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/aikhe/wrapped.nvim)](https://github.com/aikhe/wrapped.nvim) - Visualize and review your configuration activity with stats, insights, history, heatmaps and more.
 - [gisketch/triforce.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/gisketch/triforce.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/gisketch/triforce.nvim)](https://github.com/gisketch/triforce.nvim) - Gamified stat tracker with XP, levels, achievements, and activity heatmaps for your coding sessions with lualine integration.
 - [QuentinGruber/pomodoro.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/QuentinGruber/pomodoro.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/QuentinGruber/pomodoro.nvim)](https://github.com/QuentinGruber/pomodoro.nvim) - Use the Pomodoro Technique with built-in session tracking and break reminders.
 - [gaborvecsei/usage-tracker.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/gaborvecsei/usage-tracker.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/gaborvecsei/usage-tracker.nvim)](https://github.com/gaborvecsei/usage-tracker.nvim) - Track your Neovim usage and visualize statistics easily.
