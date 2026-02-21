@@ -205,7 +205,7 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 | <a href="https://www.life-global.org/course/17-starting-a-small-business" target="_blank" rel="noopener noreferrer"> Starting a Small Business </a> | HP / Life Global | Beginner | 0.5 | 🏆 |
 | <a href="https://www.life-global.org/course/28-selling-online" target="_blank" rel="noopener noreferrer"> Selling Online </a> | HP / Life Global | Beginner | 0.5 | 🏆 |
 | <a href="https://www.life-global.org/course/318-social-entrepreneurship" target="_blank" rel="noopener noreferrer"> Social Entrepreneurship </a> | HP / Life Global | Beginner | 0.5 | 🏆 |
-| <a href="https://www.life-global.org/course/19-growth-engine-for-your-business" target="_blank" rel="noopener noreferrer"> Growth Engine for Your Business </a> | HP / Life Global | Beginner | 0.5 | �� |
+| <a href="https://www.life-global.org/course/19-growth-engine-for-your-business" target="_blank" rel="noopener noreferrer"> Growth Engine for Your Business </a> | HP / Life Global | Beginner | 0.5 | 🏆 |
 
 <a href="https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents" target="_blank" rel="noopener noreferrer">⬆️</a>
 
@@ -427,7 +427,7 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 | <a href="https://www.freecodecamp.org/learn/machine-learning-with-python/" target="_blank" rel="noopener noreferrer">Machine Learning with Python Certification</a> | FreeCodeCamp |Professional|300 | 🏆|
 | <a href="https://www.kaggle.com/learn/intro-to-machine-learning" target="_blank" rel="noopener noreferrer">Intro to Machine Learning</a> | Kaggle          | Beginner      | 3     | 🏆     |
 | <a href="https://www.kaggle.com/learn/intermediate-machine-learning" target="_blank" rel="noopener noreferrer">Intermediate Machine Learning</a> | Kaggle | Intermediate | 4     | 🏆     |
-| <a href="https://www.kaggle.com/learn/machine-learning-explainability" target="_blank" rel="noopener noreferrer">Machine Learning Explainability</a> | Kaggle | Intermediate | 4     | 🏆     |
+| <a href="https://www.kaggle.com/learn/machine-learning-explainability" target="_blank" rel="noopener noreferrer">Machine Learning Explainability</a> | Kaggle | Intermediate | 4     | ���     |
 | <a href="https://www.kaggle.com/learn/intro-to-deep-learning" target="_blank" rel="noopener noreferrer">Intro to Deep Learning</a>  | Kaggle          | Intermediate | 4     | 🏆     |
 | <a href="https://www.kaggle.com/learn/time-series" target="_blank" rel="noopener noreferrer">Time Series</a>    | Kaggle          | Intermediate | 5     | 🏆     |
 | <a href="https://www.kaggle.com/learn/feature-engineering" target="_blank" rel="noopener noreferrer">Feature Engineering</a>| Kaggle          | Intermediate | 5     | 🏆     |
