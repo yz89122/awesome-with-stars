@@ -1145,7 +1145,7 @@ Webpage: https://www.facebook.com/cafelinne/
 
 Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
-✔    | Some  | Svartb��cksgatan 22, 75 332 Uppsala, Sweden  | 8–22
+✔    | Some  | Svartbäcksgatan 22, 75 332 Uppsala, Sweden  | 8–22
 
 ---------------------------------------------------------------
 ---------------------------------------------------------------
