@@ -188,13 +188,14 @@ Things that work with project files or GameMaker itself rather than being someth
 - [FPS Speedometer](https://dragonite.itch.io/fps-speedometer-for-gamemaker) - Pretty framerate display.
 - [Duck ![GitHub Repo Stars](https://img.shields.io/github/stars/imlazyeye/duck) ![GitHub last commit](https://img.shields.io/github/last-commit/imlazyeye/duck)](https://github.com/imlazyeye/duck) - A fast GML analyzer to enforce code styling and detect errors.
 - [Gobo ![GitHub Repo Stars](https://img.shields.io/github/stars/Pizzaandy/Gobo) ![GitHub last commit](https://img.shields.io/github/last-commit/Pizzaandy/Gobo)](https://github.com/Pizzaandy/Gobo/) - An opinionated code formatter for GML.
+- [Gobo (EttyKitty fork) ![GitHub Repo Stars](https://img.shields.io/github/stars/EttyKitty/Gobo) ![GitHub last commit](https://img.shields.io/github/last-commit/EttyKitty/Gobo)](https://github.com/EttyKitty/Gobo/) - A bit less opinionated code formatter for GML, with more options and functionality.
 - [Inspectron ![GitHub Repo Stars](https://img.shields.io/github/stars/shdwcat/Inspectron) ![GitHub last commit](https://img.shields.io/github/last-commit/shdwcat/Inspectron)](https://github.com/shdwcat/Inspectron) - A fluent API for easily creating GameMaker debug views.
 - [GMPulse](https://topherlicious.itch.io/gmpulse) - A runtime inspector and control panel. 💸
 - [Lookout ![GitHub Repo Stars](https://img.shields.io/github/stars/glebtsereteli/Lookout) ![GitHub last commit](https://img.shields.io/github/last-commit/glebtsereteli/Lookout)](https://github.com/glebtsereteli/Lookout) - Helpful debug overlay views.
 
 ## Input Handling
 
-- [Input ![GitHub Repo Stars](https://img.shields.io/github/stars/JujuAdams/input) ![GitHub last commit](https://img.shields.io/github/last-commit/JujuAdams/input)](https://github.com/JujuAdams/input) - No nonsense gamepad/keyboard library.
+- [Input](https://codeberg.org/offalynne/Input) - No nonsense gamepad/keyboard library.
 - [XeroInput](https://www.reddit.com/r/gamemaker/comments/icoh6m/xeroinput_gms23_input_handler/) - Another library to handle multiple inputs for a single action.
 - [InputCandy ![GitHub Repo Stars](https://img.shields.io/github/stars/LAGameStudio/InputCandy) ![GitHub last commit](https://img.shields.io/github/last-commit/LAGameStudio/InputCandy)](https://github.com/LAGameStudio/InputCandy) - Similar to Input as it acts as a wrapper for SDL, with actions and signalling, but also provides testing, on-screen diagnostics, and some other UI components related to peripherals, as well as pre-built end-user configuration menus that can be easily restyled.
 - [Good Vibes ![GitHub Repo Stars](https://img.shields.io/github/stars/mrdaneeyul/good-vibes) ![GitHub last commit](https://img.shields.io/github/last-commit/mrdaneeyul/good-vibes)](https://github.com/mrdaneeyul/good-vibes) - Device vibration.
