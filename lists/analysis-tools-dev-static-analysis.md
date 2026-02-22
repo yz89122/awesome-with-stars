@@ -2059,7 +2059,7 @@ orchestration to ensure zero breaking changes. Specialized for React, Next.js, a
 
 - [clusterlint ![GitHub Repo Stars](https://img.shields.io/github/stars/digitalocean/clusterlint) ![GitHub last commit](https://img.shields.io/github/last-commit/digitalocean/clusterlint)](https://github.com/digitalocean/clusterlint) — Clusterlint queries live Kubernetes clusters for resources, executes common and  platform specific checks against these resources and provides actionable feedback to cluster operators.  It is a non invasive tool that is run externally. Clusterlint does not alter the resource configurations.
 
-- [Datree](https://datree.io/) ��� A CLI tool to prevent Kubernetes misconfigurations by ensuring that manifests and Helm charts follow best practices as well as your organization’s policies
+- [Datree](https://datree.io/) — A CLI tool to prevent Kubernetes misconfigurations by ensuring that manifests and Helm charts follow best practices as well as your organization’s policies
 
 - [kics](https://kics.io/) — Find security vulnerabilities, compliance issues, and infrastructure misconfigurations in your infrastructure-as-code. Supports Terraform, Kubernetes, Docker, AWS CloudFormation and Ansible
 
