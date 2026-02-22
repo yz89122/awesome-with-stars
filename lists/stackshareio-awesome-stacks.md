@@ -267,7 +267,7 @@ Learn how to build a full-stack production ready note taking app using Serverles
 - [Amazon S3](https://aws.amazon.com/s3/) - [🛠️](https://stackshare.io/amazon-s3) - Store and retrieve any amount of data, at any time, from anywhere on the web.
 - [AWS Amplify](https://aws-amplify.github.io/) - [🛠️](https://stackshare.io/aws-amplify) - JavaScript Open Source Library with React, React Native Extensions.
 - [Amazon CloudFront](https://aws.amazon.com/cloudfront/) - [🛠️](https://stackshare.io/amazon-cloudfront) - Content delivery with low latency and high data transfer speeds.
-- [Create React App](https://facebook.github.io/create-react-app/) - [🛠](https://stackshare.io/create-react-app) - [🐙 ![GitHub Repo Stars](https://img.shields.io/github/stars/facebook/create-react-app) ![GitHub last commit](https://img.shields.io/github/last-commit/facebook/create-react-app)](https://github.com/facebook/create-react-app) - Set up a modern web app by running one command.
+- [Create React App](https://facebook.github.io/create-react-app/) - [����](https://stackshare.io/create-react-app) - [🐙 ![GitHub Repo Stars](https://img.shields.io/github/stars/facebook/create-react-app) ![GitHub last commit](https://img.shields.io/github/last-commit/facebook/create-react-app)](https://github.com/facebook/create-react-app) - Set up a modern web app by running one command.
 
 ##### Resources
 
@@ -409,7 +409,7 @@ The Kafka-Spark-Cassandra pipeline for processing a firehose of incoming events.
 Self-hosted open source devops and collaboration tools, suitable for enterprise.
 
 - [GitLab](https://about.gitlab.com/) - [🛠](https://stackshare.io/gitlab) - [🐙 ![GitHub Repo Stars](https://img.shields.io/github/stars/gitlabhq/gitlabhq) ![GitHub last commit](https://img.shields.io/github/last-commit/gitlabhq/gitlabhq)](https://github.com/gitlabhq/gitlabhq) - Open source self-hosted Git management software.
-- [Zulip](https://zulipchat.com) - [🛠](https://stackshare.io/zulip) - [�� ![GitHub Repo Stars](https://img.shields.io/github/stars/zulip/zulip) ![GitHub last commit](https://img.shields.io/github/last-commit/zulip/zulip)](https://github.com/zulip/zulip) - Powerful open source team chat.
+- [Zulip](https://zulipchat.com) - [🛠](https://stackshare.io/zulip) - [🐙 ![GitHub Repo Stars](https://img.shields.io/github/stars/zulip/zulip) ![GitHub last commit](https://img.shields.io/github/last-commit/zulip/zulip)](https://github.com/zulip/zulip) - Powerful open source team chat.
 - [Hubot](https://hubot.github.com) - [🛠](https://stackshare.io/hubot) - [🐙 ![GitHub Repo Stars](https://img.shields.io/github/stars/hubotio/hubot) ![GitHub last commit](https://img.shields.io/github/last-commit/hubotio/hubot)](https://github.com/hubotio/hubot) - A customizable life embetterment robot.
 - [Sentry](https://sentry.io) - [🛠](https://stackshare.io/sentry) - [🐙 ![GitHub Repo Stars](https://img.shields.io/github/stars/getsentry/sentry) ![GitHub last commit](https://img.shields.io/github/last-commit/getsentry/sentry)](https://github.com/getsentry/sentry) - Cross-platform application monitoring, with a focus on error reporting.
 - [Taiga.io](https://taiga.io) - [🛠](https://stackshare.io/taiga) - [🐙](https://github.com/taigaio) - Project management web application with scrum in mind.
