@@ -41,6 +41,7 @@ Genkit is a framework designed to help you build AI-powered applications and fea
   - [Golang - Official](#golang---official)
   - [Golang - Community](#golang---community)
   - [Dart - Official](#dart---official)
+  - [Java (Unofficial) - Community](#java-unofficial---community)
 - [API References](#api-references)
 - [Books](#books)
 - [Solutions](#solutions)
@@ -161,6 +162,36 @@ Genkit is a framework designed to help you build AI-powered applications and fea
    - [`genkit_middleware`](https://pub.dev/packages/genkit_middleware) - Common middlewares (filesystem, skills, toolApproval) for Genkit Dart.
    - [`genkit_shelf`](https://pub.dev/packages/genkit_shelf) - Shelf HTTP Server integration for Genkit Dart.
 
+### Java (Unofficial) - Community
+
+1. Core
+   - [`genkit-java` ![GitHub Repo Stars](https://img.shields.io/github/stars/genkit-ai/genkit-java) ![GitHub last commit](https://img.shields.io/github/last-commit/genkit-ai/genkit-java)](https://github.com/genkit-ai/genkit-java/packages) - An unofficial Java SDK for Genkit, providing Java support for building AI-powered applications.
+2. Model / Embedding Plugins
+   - [`genkit-plugin-openai` ![GitHub Repo Stars](https://img.shields.io/github/stars/genkit-ai/genkit-java) ![GitHub last commit](https://img.shields.io/github/last-commit/genkit-ai/genkit-java)](https://github.com/genkit-ai/genkit-java/tree/main/plugins/openai) - Plugin for OpenAI models (GPT-4o, GPT-4o-mini, etc.) and embeddings.
+   - [`genkit-plugin-google-genai` ![GitHub Repo Stars](https://img.shields.io/github/stars/genkit-ai/genkit-java) ![GitHub last commit](https://img.shields.io/github/last-commit/genkit-ai/genkit-java)](https://github.com/genkit-ai/genkit-java/tree/main/plugins/google-genai) - Plugin for Google Gemini models and Imagen image generation.
+   - [`genkit-plugin-anthropic` ![GitHub Repo Stars](https://img.shields.io/github/stars/genkit-ai/genkit-java) ![GitHub last commit](https://img.shields.io/github/last-commit/genkit-ai/genkit-java)](https://github.com/genkit-ai/genkit-java/tree/main/plugins/anthropic) - Plugin for Anthropic Claude models.
+   - [`genkit-plugin-aws-bedrock` ![GitHub Repo Stars](https://img.shields.io/github/stars/genkit-ai/genkit-java) ![GitHub last commit](https://img.shields.io/github/last-commit/genkit-ai/genkit-java)](https://github.com/genkit-ai/genkit-java/tree/main/plugins/aws-bedrock) - Plugin for AWS Bedrock models (Amazon Nova, Claude, LLaMA, Mistral, etc.).
+   - [`genkit-plugin-azure-foundry` ![GitHub Repo Stars](https://img.shields.io/github/stars/genkit-ai/genkit-java) ![GitHub last commit](https://img.shields.io/github/last-commit/genkit-ai/genkit-java)](https://github.com/genkit-ai/genkit-java/tree/main/plugins/azure-foundry) - Plugin for Azure AI Foundry models.
+   - [`genkit-plugin-xai` ![GitHub Repo Stars](https://img.shields.io/github/stars/genkit-ai/genkit-java) ![GitHub last commit](https://img.shields.io/github/last-commit/genkit-ai/genkit-java)](https://github.com/genkit-ai/genkit-java/tree/main/plugins/xai) - Plugin for XAI (x.ai) Grok models.
+   - [`genkit-plugin-deepseek` ![GitHub Repo Stars](https://img.shields.io/github/stars/genkit-ai/genkit-java) ![GitHub last commit](https://img.shields.io/github/last-commit/genkit-ai/genkit-java)](https://github.com/genkit-ai/genkit-java/tree/main/plugins/deepseek) - Plugin for DeepSeek models.
+   - [`genkit-plugin-cohere` ![GitHub Repo Stars](https://img.shields.io/github/stars/genkit-ai/genkit-java) ![GitHub last commit](https://img.shields.io/github/last-commit/genkit-ai/genkit-java)](https://github.com/genkit-ai/genkit-java/tree/main/plugins/cohere) - Plugin for Cohere Command models.
+   - [`genkit-plugin-mistral` ![GitHub Repo Stars](https://img.shields.io/github/stars/genkit-ai/genkit-java) ![GitHub last commit](https://img.shields.io/github/last-commit/genkit-ai/genkit-java)](https://github.com/genkit-ai/genkit-java/tree/main/plugins/mistral) - Plugin for Mistral AI models.
+   - [`genkit-plugin-groq` ![GitHub Repo Stars](https://img.shields.io/github/stars/genkit-ai/genkit-java) ![GitHub last commit](https://img.shields.io/github/last-commit/genkit-ai/genkit-java)](https://github.com/genkit-ai/genkit-java/tree/main/plugins/groq) - Plugin for Groq ultra-fast inference.
+   - [`genkit-plugin-ollama` ![GitHub Repo Stars](https://img.shields.io/github/stars/genkit-ai/genkit-java) ![GitHub last commit](https://img.shields.io/github/last-commit/genkit-ai/genkit-java)](https://github.com/genkit-ai/genkit-java/tree/main/plugins/ollama) - Plugin for local Ollama models.
+   - [`genkit-plugin-compat-oai` ![GitHub Repo Stars](https://img.shields.io/github/stars/genkit-ai/genkit-java) ![GitHub last commit](https://img.shields.io/github/last-commit/genkit-ai/genkit-java)](https://github.com/genkit-ai/genkit-java/tree/main/plugins/compat-oai) - Plugin for any OpenAI-compatible API endpoint.
+3. Vector Store Plugins
+   - [`genkit-plugin-localvec` ![GitHub Repo Stars](https://img.shields.io/github/stars/genkit-ai/genkit-java) ![GitHub last commit](https://img.shields.io/github/last-commit/genkit-ai/genkit-java)](https://github.com/genkit-ai/genkit-java/tree/main/plugins/localvec) - Plugin for local file-based vector store for development.
+   - [`genkit-plugin-firebase` ![GitHub Repo Stars](https://img.shields.io/github/stars/genkit-ai/genkit-java) ![GitHub last commit](https://img.shields.io/github/last-commit/genkit-ai/genkit-java)](https://github.com/genkit-ai/genkit-java/tree/main/plugins/firebase) - Plugin for Firebase (Firestore vector search, Cloud Functions, telemetry).
+   - [`genkit-plugin-weaviate` ![GitHub Repo Stars](https://img.shields.io/github/stars/genkit-ai/genkit-java) ![GitHub last commit](https://img.shields.io/github/last-commit/genkit-ai/genkit-java)](https://github.com/genkit-ai/genkit-java/tree/main/plugins/weaviate) - Plugin for Weaviate vector database.
+   - [`genkit-plugin-postgresql` ![GitHub Repo Stars](https://img.shields.io/github/stars/genkit-ai/genkit-java) ![GitHub last commit](https://img.shields.io/github/last-commit/genkit-ai/genkit-java)](https://github.com/genkit-ai/genkit-java/tree/main/plugins/postgresql) - Plugin for PostgreSQL with pgvector.
+   - [`genkit-plugin-pinecone` ![GitHub Repo Stars](https://img.shields.io/github/stars/genkit-ai/genkit-java) ![GitHub last commit](https://img.shields.io/github/last-commit/genkit-ai/genkit-java)](https://github.com/genkit-ai/genkit-java/tree/main/plugins/pinecone) - Plugin for Pinecone vector database.
+4. Evaluator Plugins
+   - [`genkit-plugin-evaluators` ![GitHub Repo Stars](https://img.shields.io/github/stars/genkit-ai/genkit-java) ![GitHub last commit](https://img.shields.io/github/last-commit/genkit-ai/genkit-java)](https://github.com/genkit-ai/genkit-java/tree/main/plugins/evaluators) - Plugin for pre-built RAGAS-style evaluators (faithfulness, relevancy, etc.).
+5. Other Plugins
+   - [`genkit-plugin-jetty` ![GitHub Repo Stars](https://img.shields.io/github/stars/genkit-ai/genkit-java) ![GitHub last commit](https://img.shields.io/github/last-commit/genkit-ai/genkit-java)](https://github.com/genkit-ai/genkit-java/tree/main/plugins/jetty) - HTTP server plugin using Jetty 12.
+   - [`genkit-plugin-spring` ![GitHub Repo Stars](https://img.shields.io/github/stars/genkit-ai/genkit-java) ![GitHub last commit](https://img.shields.io/github/last-commit/genkit-ai/genkit-java)](https://github.com/genkit-ai/genkit-java/tree/main/plugins/spring) - HTTP server plugin using Spring Boot.
+   - [`genkit-plugin-mcp` ![GitHub Repo Stars](https://img.shields.io/github/stars/genkit-ai/genkit-java) ![GitHub last commit](https://img.shields.io/github/last-commit/genkit-ai/genkit-java)](https://github.com/genkit-ai/genkit-java/tree/main/plugins/mcp) - Plugin for Model Context Protocol (MCP) client integration.
+
 ## API References
 1. [JavaScript](https://js.api.genkit.dev/) - Specs for the JavaScript API.
 2. [Python](https://python.api.genkit.dev/) - Specs for the Python API.
@@ -174,6 +205,8 @@ Genkit is a framework designed to help you build AI-powered applications and fea
 - [`internal AI` ![GitHub Repo Stars](https://img.shields.io/github/stars/tanabee/internal-ai) ![GitHub last commit](https://img.shields.io/github/last-commit/tanabee/internal-ai)](https://github.com/tanabee/internal-ai) - An open-source Genkit-based internal AI chat application.
 - [`Perplexity CLI` ![GitHub Repo Stars](https://img.shields.io/github/stars/xavidop/perplexity-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/xavidop/perplexity-cli)](https://github.com/xavidop/perplexity-cli) - A command-line interface (CLI) tool that leverages Genkit to provide AI-powered answers to user queries by utilizing web search results from Tavily AI simulating how Perplexity works.
 - [`GCP Cost MCP Server` ![GitHub Repo Stars](https://img.shields.io/github/stars/nozomi-koborinai/gcp-cost-mcp-server) ![GitHub last commit](https://img.shields.io/github/last-commit/nozomi-koborinai/gcp-cost-mcp-server)](https://github.com/nozomi-koborinai/gcp-cost-mcp-server) - An MCP server built with Genkit for Go that enables AI assistants to estimate Google Cloud costs directly, replacing manual use of the GCP Pricing Calculator.
+- [`Genkit Azure Function AI Foundry` ![GitHub Repo Stars](https://img.shields.io/github/stars/xavidop/genkit-azure-function-ai-foundry) ![GitHub last commit](https://img.shields.io/github/last-commit/xavidop/genkit-azure-function-ai-foundry)](https://github.com/xavidop/genkit-azure-function-ai-foundry) - A sample project demonstrating how to use Genkit with Azure Functions and Azure AI Foundry.
+- [`Genkit AWS Lambda Bedrock` ![GitHub Repo Stars](https://img.shields.io/github/stars/xavidop/genkit-aws-lambda-bedrock) ![GitHub last commit](https://img.shields.io/github/last-commit/xavidop/genkit-aws-lambda-bedrock)](https://github.com/xavidop/genkit-aws-lambda-bedrock) - A sample project demonstrating how to use Genkit with AWS Lambda and Amazon Bedrock.
 
 ## Talks
 
@@ -229,3 +262,4 @@ Genkit is a framework designed to help you build AI-powered applications and fea
 - [Genkit Discord server](https://discord.gg/qXt5zzQKpc) - Official Discord server for Genkit.
 - [Genkit GitHub ![GitHub Repo Stars](https://img.shields.io/github/stars/firebase/genkit) ![GitHub last commit](https://img.shields.io/github/last-commit/firebase/genkit)](https://github.com/firebase/genkit) - Official GitHub repository for Genkit.
 - [Genkit Dart GitHub ![GitHub Repo Stars](https://img.shields.io/github/stars/genkit-ai/genkit-dart) ![GitHub last commit](https://img.shields.io/github/last-commit/genkit-ai/genkit-dart)](https://github.com/genkit-ai/genkit-dart) - Official GitHub repository for Genkit Dart.
+- [Genkit Java GitHub ![GitHub Repo Stars](https://img.shields.io/github/stars/genkit-ai/genkit-java) ![GitHub last commit](https://img.shields.io/github/last-commit/genkit-ai/genkit-java)](https://github.com/genkit-ai/genkit-java) - Unofficial GitHub repository for Genkit Java.
