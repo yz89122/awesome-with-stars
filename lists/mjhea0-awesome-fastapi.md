@@ -11,6 +11,7 @@
 - [Third-Party Extensions](#third-party-extensions)
   - [Admin](#admin)
   - [Auth](#auth)
+  - [CyberSecurity](#cybersecurity)
   - [Databases](#databases)
   - [Dependency Injection](#dependency-injection)
   - [Developer Tools](#developer-tools)
@@ -61,6 +62,10 @@
 - [FastAPI Simple Security ![GitHub Repo Stars](https://img.shields.io/github/stars/mrtolkien/fastapi_simple_security) ![GitHub last commit](https://img.shields.io/github/last-commit/mrtolkien/fastapi_simple_security)](https://github.com/mrtolkien/fastapi_simple_security) - Out-of-the-box API key security manageable through path operations.
 - [FastAPI Users ![GitHub Repo Stars](https://img.shields.io/github/stars/fastapi-users/fastapi-users) ![GitHub last commit](https://img.shields.io/github/last-commit/fastapi-users/fastapi-users)](https://github.com/fastapi-users/fastapi-users) - Account management, authentication, authorization.
 
+### CyberSecurity
+
+- [FastAPI Guard ![GitHub Repo Stars](https://img.shields.io/github/stars/rennf93/fastapi-guard) ![GitHub last commit](https://img.shields.io/github/last-commit/rennf93/fastapi-guard)](https://github.com/rennf93/fastapi-guard) - Rate Limiting, Automatically Ban IPs, Penetration Attack Detection, Whitelist/blacklist (countries, IPs, Cloud Providers), User Agent Filtering, Geolocation, Redis integration for persistence, and more.
+
 ### Databases
 
 #### ORMs
@@ -69,6 +74,7 @@
 - [FastAPI SQLAlchemy ![GitHub Repo Stars](https://img.shields.io/github/stars/mfreeborn/fastapi-sqlalchemy) ![GitHub last commit](https://img.shields.io/github/last-commit/mfreeborn/fastapi-sqlalchemy)](https://github.com/mfreeborn/fastapi-sqlalchemy) - Simple integration between FastAPI and [SQLAlchemy](https://www.sqlalchemy.org/).
 - [Fastapi-SQLA ![GitHub Repo Stars](https://img.shields.io/github/stars/dialoguemd/fastapi-sqla) ![GitHub last commit](https://img.shields.io/github/last-commit/dialoguemd/fastapi-sqla)](https://github.com/dialoguemd/fastapi-sqla) - SQLAlchemy extension for FastAPI with support for pagination, asyncio, and pytest.
 - [FastAPIwee ![GitHub Repo Stars](https://img.shields.io/github/stars/Ignisor/FastAPIwee) ![GitHub last commit](https://img.shields.io/github/last-commit/Ignisor/FastAPIwee)](https://github.com/Ignisor/FastAPIwee) - A simple way to create REST API based on [PeeWee ![GitHub Repo Stars](https://img.shields.io/github/stars/coleifer/peewee) ![GitHub last commit](https://img.shields.io/github/last-commit/coleifer/peewee)](https://github.com/coleifer/peewee) models.
+- [FastSQLA ![GitHub Repo Stars](https://img.shields.io/github/stars/hadrien/FastSQLA) ![GitHub last commit](https://img.shields.io/github/last-commit/hadrien/FastSQLA)](https://github.com/hadrien/FastSQLA) - Async SQLAlchemy 2.0+ extension for FastAPI with SQLModel support, built-in pagination & more.
 - [GINO ![GitHub Repo Stars](https://img.shields.io/github/stars/python-gino/gino) ![GitHub last commit](https://img.shields.io/github/last-commit/python-gino/gino)](https://github.com/python-gino/gino) - A lightweight asynchronous ORM built on top of SQLAlchemy core for Python asyncio.
   - [FastAPI Example ![GitHub Repo Stars](https://img.shields.io/github/stars/leosussan/fastapi-gino-arq-uvicorn) ![GitHub last commit](https://img.shields.io/github/last-commit/leosussan/fastapi-gino-arq-uvicorn)](https://github.com/leosussan/fastapi-gino-arq-uvicorn)
 - [ORM ![GitHub Repo Stars](https://img.shields.io/github/stars/encode/orm) ![GitHub last commit](https://img.shields.io/github/last-commit/encode/orm)](https://github.com/encode/orm) - An async ORM.
@@ -76,8 +82,6 @@
   - [FastAPI Example](https://collerek.github.io/ormar/latest/fastapi/) - Using FastAPI with ormar.
 - [Piccolo ![GitHub Repo Stars](https://img.shields.io/github/stars/piccolo-orm/piccolo) ![GitHub last commit](https://img.shields.io/github/last-commit/piccolo-orm/piccolo)](https://github.com/piccolo-orm/piccolo) - An async ORM and query builder, supporting Postgres and SQLite, with batteries (migrations, security, etc).
   - [FastAPI Examples ![GitHub Repo Stars](https://img.shields.io/github/stars/piccolo-orm/piccolo_examples) ![GitHub last commit](https://img.shields.io/github/last-commit/piccolo-orm/piccolo_examples)](https://github.com/piccolo-orm/piccolo_examples) - Using FastAPI with Piccolo.
-- [Prisma Client Python ![GitHub Repo Stars](https://img.shields.io/github/stars/RobertCraigie/prisma-client-py) ![GitHub last commit](https://img.shields.io/github/last-commit/RobertCraigie/prisma-client-py)](https://github.com/RobertCraigie/prisma-client-py) - An auto-generated, fully type safe ORM powered by Pydantic and tailored specifically for your schema - supports SQLite, PostgreSQL, MySQL, MongoDB, MariaDB and more.
-  - [FastAPI Example ![GitHub Repo Stars](https://img.shields.io/github/stars/RobertCraigie/prisma-client-py) ![GitHub last commit](https://img.shields.io/github/last-commit/RobertCraigie/prisma-client-py)](https://github.com/RobertCraigie/prisma-client-py/tree/main/examples/fastapi-basic)
 - [Tortoise ORM](https://tortoise.github.io) - An easy-to-use asyncio ORM (Object Relational Mapper) inspired by Django.
   - [FastAPI Example](https://tortoise.github.io/examples/fastapi.html) - An example of the Tortoise-ORM FastAPI integration.
   - [Tutorial: Setting up Tortoise ORM with FastAPI](https://web.archive.org/web/20200523174158/https://robwagner.dev/tortoise-fastapi-setup/)
@@ -94,7 +98,7 @@
 #### ODMs
 
 - [Beanie ![GitHub Repo Stars](https://img.shields.io/github/stars/BeanieODM/beanie) ![GitHub last commit](https://img.shields.io/github/last-commit/BeanieODM/beanie)](https://github.com/BeanieODM/beanie) - Asynchronous Python ODM for MongoDB, based on [Motor](https://motor.readthedocs.io/en/stable/) and [Pydantic](https://docs.pydantic.dev/latest/), which supports data and schema migrations out of the box.
-- [MongoEngine](http://mongoengine.org/) - A Document-Object Mapper (think ORM, but for document databases) for working with MongoDB from Python.
+- [MongoEngine ![GitHub Repo Stars](https://img.shields.io/github/stars/MongoEngine/mongoengine) ![GitHub last commit](https://img.shields.io/github/last-commit/MongoEngine/mongoengine)](https://github.com/MongoEngine/mongoengine) - A Document-Object Mapper (think ORM, but for document databases) for working with MongoDB from Python.
 - [Motor](https://motor.readthedocs.io/) - Asynchronous Python driver for MongoDB.
 - [ODMantic](https://art049.github.io/odmantic/) - AsyncIO MongoDB ODM integrated with [Pydantic](https://docs.pydantic.dev/latest/).
 - [PynamoDB ![GitHub Repo Stars](https://img.shields.io/github/stars/pynamodb/PynamoDB) ![GitHub last commit](https://img.shields.io/github/last-commit/pynamodb/PynamoDB)](https://github.com/pynamodb/PynamoDB) - A pythonic interface to Amazon's DynamoDB.
@@ -119,6 +123,7 @@
 - [Jupyter Notebook REST API ![GitHub Repo Stars](https://img.shields.io/github/stars/Invictify/Jupter-Notebook-REST-API) ![GitHub last commit](https://img.shields.io/github/last-commit/Invictify/Jupter-Notebook-REST-API)](https://github.com/Invictify/Jupter-Notebook-REST-API) - Run your Jupyter notebooks as RESTful API endpoints.
 - [Manage FastAPI ![GitHub Repo Stars](https://img.shields.io/github/stars/ycd/manage-fastapi) ![GitHub last commit](https://img.shields.io/github/last-commit/ycd/manage-fastapi)](https://github.com/ycd/manage-fastapi) - CLI tool for generating and managing FastAPI projects.
 - [msgpack-asgi ![GitHub Repo Stars](https://img.shields.io/github/stars/florimondmanca/msgpack-asgi) ![GitHub last commit](https://img.shields.io/github/last-commit/florimondmanca/msgpack-asgi)](https://github.com/florimondmanca/msgpack-asgi) - Automatic [MessagePack](https://msgpack.org/) content negotiation.
+- [python-cqrs ![GitHub Repo Stars](https://img.shields.io/github/stars/pypatterns/python-cqrs) ![GitHub last commit](https://img.shields.io/github/last-commit/pypatterns/python-cqrs)](https://github.com/pypatterns/python-cqrs) - Event-Driven Architecture Framework with CQRS, Transaction Outbox, Saga orchestration, seamless FastAPI/FastStream integration.
 
 ### Email
 
@@ -146,6 +151,7 @@
 - [FastAPI Pagination ![GitHub Repo Stars](https://img.shields.io/github/stars/uriyyo/fastapi-pagination) ![GitHub last commit](https://img.shields.io/github/last-commit/uriyyo/fastapi-pagination)](https://github.com/uriyyo/fastapi-pagination) - Pagination for FastAPI.
 - [FastAPI Plugins ![GitHub Repo Stars](https://img.shields.io/github/stars/madkote/fastapi-plugins) ![GitHub last commit](https://img.shields.io/github/last-commit/madkote/fastapi-plugins)](https://github.com/madkote/fastapi-plugins) - Redis and Scheduler plugins.
 - [FastAPI ServiceUtils ![GitHub Repo Stars](https://img.shields.io/github/stars/skallfass/fastapi_serviceutils) ![GitHub last commit](https://img.shields.io/github/last-commit/skallfass/fastapi_serviceutils)](https://github.com/skallfass/fastapi_serviceutils) - Generator for creating API services.
+- [FastAPI Shield ![GitHub Repo Stars](https://img.shields.io/github/stars/jymchng/fastapi-shield) ![GitHub last commit](https://img.shields.io/github/last-commit/jymchng/fastapi-shield)](https://github.com/jymchng/fastapi-shield) - General FastAPI library for writing any generic endpoint decorators capable of lazy dependencies injection.
 - [FastAPI SocketIO ![GitHub Repo Stars](https://img.shields.io/github/stars/pyropy/fastapi-socketio) ![GitHub last commit](https://img.shields.io/github/last-commit/pyropy/fastapi-socketio)](https://github.com/pyropy/fastapi-socketio) - Easy integration for FastAPI and SocketIO.
 - [FastAPI Utilities ![GitHub Repo Stars](https://img.shields.io/github/stars/fastapiutils/fastapi-utils) ![GitHub last commit](https://img.shields.io/github/last-commit/fastapiutils/fastapi-utils)](https://github.com/fastapiutils/fastapi-utils) - Reusable utilities: class-based views, response inferring router, periodic tasks, timing middleware, SQLAlchemy session, OpenAPI spec simplification.
 - [FastAPI Websocket Pub/Sub ![GitHub Repo Stars](https://img.shields.io/github/stars/authorizon/fastapi_websocket_pubsub) ![GitHub last commit](https://img.shields.io/github/last-commit/authorizon/fastapi_websocket_pubsub)](https://github.com/authorizon/fastapi_websocket_pubsub) - The classic pub/sub pattern made easily accessible and scalable over the web and across your cloud in realtime.
@@ -159,6 +165,7 @@
 - [Starlette OpenTracing ![GitHub Repo Stars](https://img.shields.io/github/stars/acidjunk/starlette-opentracing) ![GitHub last commit](https://img.shields.io/github/last-commit/acidjunk/starlette-opentracing)](https://github.com/acidjunk/starlette-opentracing) - Opentracing support for Starlette and FastAPI.
 - [Starlette Prometheus ![GitHub Repo Stars](https://img.shields.io/github/stars/perdy/starlette-prometheus) ![GitHub last commit](https://img.shields.io/github/last-commit/perdy/starlette-prometheus)](https://github.com/perdy/starlette-prometheus) - Prometheus integration for FastAPI and Starlette.
 - [Strawberry GraphQL ![GitHub Repo Stars](https://img.shields.io/github/stars/strawberry-graphql/strawberry) ![GitHub last commit](https://img.shields.io/github/last-commit/strawberry-graphql/strawberry)](https://github.com/strawberry-graphql/strawberry) - Python GraphQL library based on dataclasses.
+- [Pydantic Resolve ![GitHub Repo Stars](https://img.shields.io/github/stars/allmonday/pydantic-resolve) ![GitHub last commit](https://img.shields.io/github/last-commit/allmonday/pydantic-resolve)](https://github.com/allmonday/pydantic-resolve) -  Turns pydantic class into a powerful composable computing container by introducing resolve and post-process hooks.
 
 ## Resources
 
@@ -223,6 +230,7 @@
 
 - [FastAPI Best Practices ![GitHub Repo Stars](https://img.shields.io/github/stars/zhanymkanov/fastapi-best-practices) ![GitHub last commit](https://img.shields.io/github/last-commit/zhanymkanov/fastapi-best-practices)](https://github.com/zhanymkanov/fastapi-best-practices) - Collection of best practices in a GitHub repo.
 - [FastAPI-Dishka-FastStream ![GitHub Repo Stars](https://img.shields.io/github/stars/faststream-community/fastapi-dishka-faststream) ![GitHub last commit](https://img.shields.io/github/last-commit/faststream-community/fastapi-dishka-faststream)](https://github.com/faststream-community/fastapi-dishka-faststream) - Combines FastAPI, dishka, faststream, sqlalchemy, pydantic.
+- [FastAPI Clean Example ![GitHub Repo Stars](https://img.shields.io/github/stars/ivan-borovets/fastapi-clean-example) ![GitHub last commit](https://img.shields.io/github/last-commit/ivan-borovets/fastapi-clean-example)](https://github.com/ivan-borovets/fastapi-clean-example) - Clean Architecture backend example built with FastAPI.
 
 ## Hosting
 
@@ -231,7 +239,6 @@
 (Platforms-as-a-Service)
 
 - [AWS Elastic Beanstalk](https://aws.amazon.com/elasticbeanstalk/)
-- [Deta](https://www.deta.sh/) ([example](https://dev.to/athulcajay/fastapi-deta-ni5))
 - [Fly](https://fly.io) ([tutorial](https://fly.io/docs/python/frameworks/fastapi/), [Deploy from a Git repo ![GitHub Repo Stars](https://img.shields.io/github/stars/fly-apps/hello-fastapi) ![GitHub last commit](https://img.shields.io/github/last-commit/fly-apps/hello-fastapi)](https://github.com/fly-apps/hello-fastapi))
 - [Google App Engine](https://cloud.google.com/appengine)
 - [Heroku](https://www.heroku.com/) ([Step-by-step tutorial](https://tutlinks.com/create-and-deploy-fastapi-app-to-heroku/), [ML model on Heroku tutorial](https://testdriven.io/blog/fastapi-machine-learning/))
@@ -279,7 +286,7 @@ Compute:
 - [FastAPI template ![GitHub Repo Stars](https://img.shields.io/github/stars/s3rius/FastAPI-template) ![GitHub last commit](https://img.shields.io/github/last-commit/s3rius/FastAPI-template)](https://github.com/s3rius/FastAPI-template) - Flexible, lightweight FastAPI project generator. It includes support for SQLAlchemy, multiple databases, CI/CD, Docker, and Kubernetes.
 - [FastAPI on Google Cloud Run ![GitHub Repo Stars](https://img.shields.io/github/stars/anthonycorletti/cloudrun-fastapi) ![GitHub last commit](https://img.shields.io/github/last-commit/anthonycorletti/cloudrun-fastapi)](https://github.com/anthonycorletti/cloudrun-fastapi) - Boilerplate for API building with FastAPI, SQLModel, and Google Cloud Run.
 - [FastAPI with Firestore ![GitHub Repo Stars](https://img.shields.io/github/stars/anthonycorletti/firestore-fastapi) ![GitHub last commit](https://img.shields.io/github/last-commit/anthonycorletti/firestore-fastapi)](https://github.com/anthonycorletti/firestore-fastapi) - Boilerplate for API building with FastAPI and Google Cloud Firestore.
-- [fastapi-alembic-sqlmodel-async ![GitHub Repo Stars](https://img.shields.io/github/stars/jonra1993/fastapi-alembic-sqlmodel-async) ![GitHub last commit](https://img.shields.io/github/last-commit/jonra1993/fastapi-alembic-sqlmodel-async)](https://github.com/jonra1993/fastapi-alembic-sqlmodel-async) - This is a project template which uses FastAPI, Alembic, and async SQLModel as ORM.
+- [fastapi-alembic-sqlmodel-async ![GitHub Repo Stars](https://img.shields.io/github/stars/vargasjona/fastapi-alembic-sqlmodel-async) ![GitHub last commit](https://img.shields.io/github/last-commit/vargasjona/fastapi-alembic-sqlmodel-async)](https://github.com/vargasjona/fastapi-alembic-sqlmodel-async) - This is a project template which uses FastAPI, Alembic, and async SQLModel as ORM.
 - [fastapi-starter-project ![GitHub Repo Stars](https://img.shields.io/github/stars/mirzadelic/fastapi-starter-project) ![GitHub last commit](https://img.shields.io/github/last-commit/mirzadelic/fastapi-starter-project)](https://github.com/mirzadelic/fastapi-starter-project) - A project template which uses FastAPI, SQLModel, Alembic, Pytest, Docker, GitHub Actions CI.
 - [Full Stack FastAPI and MongoDB - Base Project Generator ![GitHub Repo Stars](https://img.shields.io/github/stars/mongodb-labs/full-stack-fastapi-mongodb) ![GitHub last commit](https://img.shields.io/github/last-commit/mongodb-labs/full-stack-fastapi-mongodb)](https://github.com/mongodb-labs/full-stack-fastapi-mongodb) - Full stack, modern web application generator, which includes FastAPI, MongoDB, Docker, Celery, React frontend, automatic HTTPS and more.
 - [Uvicorn Poetry FastAPI Project Template ![GitHub Repo Stars](https://img.shields.io/github/stars/max-pfeiffer/uvicorn-poetry-fastapi-project-template) ![GitHub last commit](https://img.shields.io/github/last-commit/max-pfeiffer/uvicorn-poetry-fastapi-project-template)](https://github.com/max-pfeiffer/uvicorn-poetry-fastapi-project-template) - Cookiecutter project template for starting a FastAPI application. Runs in a Docker container with Uvicorn ASGI server on Kubernetes. Supports AMD64 and ARM64 CPU architectures.

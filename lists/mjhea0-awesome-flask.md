@@ -52,7 +52,7 @@
 
 - [Eve](https://docs.python-eve.org) - RESTful API framework designed for human beings.
 - [Flask-Classful](https://flask-classful.readthedocs.io/) - Adds support for class-based views for setting up RESTful API route endpoints.
-- [Flask-MongoRest ![GitHub Repo Stars](https://img.shields.io/github/stars/closeio/flask-mongorest) ![GitHub last commit](https://img.shields.io/github/last-commit/closeio/flask-mongorest)](https://github.com/closeio/flask-mongorest) - RESTful API framework wrapped around [MongoEngine](http://mongoengine.org/).
+- [Flask-MongoRest ![GitHub Repo Stars](https://img.shields.io/github/stars/closeio/flask-mongorest) ![GitHub last commit](https://img.shields.io/github/last-commit/closeio/flask-mongorest)](https://github.com/closeio/flask-mongorest) - RESTful API framework wrapped around [MongoEngine ![GitHub Repo Stars](https://img.shields.io/github/stars/MongoEngine/mongoengine) ![GitHub last commit](https://img.shields.io/github/last-commit/MongoEngine/mongoengine)](https://github.com/MongoEngine/mongoengine).
 - [Flask-RESTful](https://flask-restful.readthedocs.io) - Quickly build RESTful APIs.
 
 #### RESTful API + Swagger/OpenAPI Documentation Support
@@ -85,6 +85,7 @@
 
 #### JWT-based (for JSON Endpoints)
 
+- [Axioms-Flask-Py ![GitHub Repo Stars](https://img.shields.io/github/stars/axioms-io/axioms-flask-py) ![GitHub last commit](https://img.shields.io/github/last-commit/axioms-io/axioms-flask-py)](https://github.com/axioms-io/axioms-flask-py) - OAuth2/OIDC authentication and authorization for Flask APIs. Supports authentication and claim-based fine-grained authorization (scopes, roles, permissions) using JWT tokens.
 - [Flask-JWT](https://pythonhosted.org/Flask-JWT/) - Basic support for working with JWTs.
 - [Flask-JWT-Extended](https://flask-jwt-extended.readthedocs.io) - Advanced support for working with JWTs.
 - [Flask-JWT-Router ![GitHub Repo Stars](https://img.shields.io/github/stars/joegasewicz/flask-jwt-router) ![GitHub last commit](https://img.shields.io/github/last-commit/joegasewicz/flask-jwt-router)](https://github.com/joegasewicz/flask-jwt-router) - Adds authorized routes to a Flask app.
@@ -185,7 +186,7 @@
 
 - [Flask-Argon2 ![GitHub Repo Stars](https://img.shields.io/github/stars/red-coracle/flask-argon2) ![GitHub last commit](https://img.shields.io/github/last-commit/red-coracle/flask-argon2)](https://github.com/red-coracle/flask-argon2) - Provides argon2 hashing utilities.
 - [Flask-Bcrypt](https://flask-bcrypt.readthedocs.io) - Provides bcrypt hashing utilities.
-- [Flask-CORS](https://flask-cors.readthedocs.io) - Cross Origin Resource Sharing (CORS) handling.
+- [Flask-CORS](https://flask-cors.readthedocs.io/) - Cross Origin Resource Sharing (CORS) handling.
 - [Flask-SeaSurf ![GitHub Repo Stars](https://img.shields.io/github/stars/maxcountryman/flask-seasurf) ![GitHub last commit](https://img.shields.io/github/last-commit/maxcountryman/flask-seasurf)](https://github.com/maxcountryman/flask-seasurf/) - Cross-site request forgery (CSRF) prevention.
 - [Flask-Talisman ![GitHub Repo Stars](https://img.shields.io/github/stars/wntrblm/flask-talisman) ![GitHub last commit](https://img.shields.io/github/last-commit/wntrblm/flask-talisman)](https://github.com/wntrblm/flask-talisman) - HTTPS and security headers.
 
@@ -347,7 +348,6 @@ Compute:
 ### Open Source Projects
 
 - [ActorCloud ![GitHub Repo Stars](https://img.shields.io/github/stars/actorcloud/ActorCloud) ![GitHub last commit](https://img.shields.io/github/last-commit/actorcloud/ActorCloud)](https://github.com/actorcloud/ActorCloud) - Open-source IoT Platform.
-- [Airflow ![GitHub Repo Stars](https://img.shields.io/github/stars/apache/airflow) ![GitHub last commit](https://img.shields.io/github/last-commit/apache/airflow)](https://github.com/apache/airflow/tree/master/airflow/www)
 - [Busy Beaver ![GitHub Repo Stars](https://img.shields.io/github/stars/busy-beaver-dev/busy-beaver) ![GitHub last commit](https://img.shields.io/github/last-commit/busy-beaver-dev/busy-beaver)](https://github.com/busy-beaver-dev/busy-beaver) - Chicago Python's Community Engagement Slack bot.
 - [FlaskBB ![GitHub Repo Stars](https://img.shields.io/github/stars/flaskbb/flaskbb) ![GitHub last commit](https://img.shields.io/github/last-commit/flaskbb/flaskbb)](https://github.com/flaskbb/flaskbb) - Classic forum software.
 - [Indico ![GitHub Repo Stars](https://img.shields.io/github/stars/indico/indico) ![GitHub last commit](https://img.shields.io/github/last-commit/indico/indico)](https://github.com/indico/indico) - Feature-rich event management system, made at [CERN](https://home.cern/).
