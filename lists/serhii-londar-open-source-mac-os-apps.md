@@ -12,9 +12,9 @@
     <a href="https://t.me/opensourcemacosapps"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-Channel-blue.svg" /></a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Total%20Apps-688-blue" alt="Total Apps"/>
+    <img src="https://img.shields.io/badge/Total%20Apps-689-blue" alt="Total Apps"/>
     <img src="https://img.shields.io/badge/Categories-49-green" alt="Categories"/>
-    <img src="https://img.shields.io/badge/Last%20Updated-February%2020,%202026-orange" alt="Last Updated"/>
+    <img src="https://img.shields.io/badge/Last%20Updated-February%2023,%202026-orange" alt="Last Updated"/>
   </p>
 </div>
 
@@ -44,9 +44,9 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 
 | Metric | Count |
 |--------|-------|
-| 📱 Total Applications | 688 |
+| 📱 Total Applications | 689 |
 | 📂 Categories | 49 |
-| 🔝 Top Languages | Swift: 303 • Objective-C: 137 • Javascript: 113 • C++: 59 • Typescript: 42 |
+| 🔝 Top Languages | Swift: 304 • Objective-C: 137 • Javascript: 113 • C++: 59 • Typescript: 42 |
 
 ## Languages
 
@@ -5150,7 +5150,7 @@ You can see in which language an app is written. Currently there are following l
 <div align="right"><a href="#contents">⬆️ Back to Top</a></div>
 
 <a id="menubar"></a>
-### 📊 Menubar (51)
+### 📊 Menubar (52)
 - [Airpass ![GitHub Repo Stars](https://img.shields.io/github/stars/alvesjtiago/airpass) ![GitHub last commit](https://img.shields.io/github/last-commit/alvesjtiago/airpass)](https://github.com/alvesjtiago/airpass) - Status bar Mac application to overcome time constrained WiFi networks. 
 
   **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript 
@@ -5431,6 +5431,14 @@ You can see in which language an app is written. Currently there are following l
 
   </p>
   </details>
+
+- [MacNTop ![GitHub Repo Stars](https://img.shields.io/github/stars/CorvidLabs/MacNTop) ![GitHub last commit](https://img.shields.io/github/last-commit/CorvidLabs/MacNTop)](https://github.com/CorvidLabs/MacNTop) - macOS menu bar system monitor with retro CRT aesthetics.
+
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
+  **Website:** [https://github.com/CorvidLabs/MacNTop ![GitHub Repo Stars](https://img.shields.io/github/stars/CorvidLabs/MacNTop) ![GitHub last commit](https://img.shields.io/github/last-commit/CorvidLabs/MacNTop)](https://github.com/CorvidLabs/MacNTop)
+
+  **Badges:** <a href='https://github.com/CorvidLabs/MacNTop/releases/latest'><img src='https://img.shields.io/github/v/release/CorvidLabs/MacNTop?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/CorvidLabs/MacNTop'><img src='https://img.shields.io/github/stars/CorvidLabs/MacNTop?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/CorvidLabs/MacNTop' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/CorvidLabs/MacNTop' alt='License'/>
 
 - [Market Bar ![GitHub Repo Stars](https://img.shields.io/github/stars/mnndnl/market-bar) ![GitHub last commit](https://img.shields.io/github/last-commit/mnndnl/market-bar)](https://github.com/mnndnl/market-bar ) - Tiny stocks watcher for the menu bar.
 
@@ -8541,7 +8549,7 @@ You can see in which language an app is written. Currently there are following l
 <div align="right"><a href="#contents">⬆️ Back to Top</a></div>
 
 <a id="system"></a>
-### ⚙️ System (23)
+### ⚙️ System (24)
 - [Apple Juice ![GitHub Repo Stars](https://img.shields.io/github/stars/raphaelhanneken/apple-juice) ![GitHub last commit](https://img.shields.io/github/last-commit/raphaelhanneken/apple-juice)](https://github.com/raphaelhanneken/apple-juice) - Advanced battery gauge for macOS. 
 
   **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
@@ -8717,6 +8725,14 @@ You can see in which language an app is written. Currently there are following l
 
   </p>
   </details>
+
+- [MacNTop ![GitHub Repo Stars](https://img.shields.io/github/stars/CorvidLabs/MacNTop) ![GitHub last commit](https://img.shields.io/github/last-commit/CorvidLabs/MacNTop)](https://github.com/CorvidLabs/MacNTop) - macOS menu bar system monitor with retro CRT aesthetics.
+
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
+  **Website:** [https://github.com/CorvidLabs/MacNTop ![GitHub Repo Stars](https://img.shields.io/github/stars/CorvidLabs/MacNTop) ![GitHub last commit](https://img.shields.io/github/last-commit/CorvidLabs/MacNTop)](https://github.com/CorvidLabs/MacNTop)
+
+  **Badges:** <a href='https://github.com/CorvidLabs/MacNTop/releases/latest'><img src='https://img.shields.io/github/v/release/CorvidLabs/MacNTop?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/CorvidLabs/MacNTop'><img src='https://img.shields.io/github/stars/CorvidLabs/MacNTop?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/last-commit/CorvidLabs/MacNTop' alt='Last commit'/> &nbsp; <img src='https://img.shields.io/github/license/CorvidLabs/MacNTop' alt='License'/>
 
 - [macOS GateKeeper Helper ![GitHub Repo Stars](https://img.shields.io/github/stars/wynioux/macOS-GateKeeper-Helper) ![GitHub last commit](https://img.shields.io/github/last-commit/wynioux/macOS-GateKeeper-Helper)](https://github.com/wynioux/macOS-GateKeeper-Helper) - Simple macOS GateKeeper script. It helps you to control your GateKeeper.
 
