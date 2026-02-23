@@ -817,7 +817,7 @@ A ktfmt IntelliJ plugin is available from the plugin repository. To install it, 
 
 - [dephpend ![GitHub Repo Stars](https://img.shields.io/github/stars/mihaeu/dephpend) ![GitHub last commit](https://img.shields.io/github/last-commit/mihaeu/dephpend)](https://github.com/mihaeu/dephpend) — Dependency analysis tool.
 
-- [deprecation-detector ![GitHub Repo Stars](https://img.shields.io/github/stars/sensiolabs-de/deprecation-detector) ![GitHub last commit](https://img.shields.io/github/last-commit/sensiolabs-de/deprecation-detector)](https://github.com/sensiolabs-de/deprecation-detector) — Finds usages of deprecated (Symfony) code.
+- [deprecation-detector ![GitHub Repo Stars](https://img.shields.io/github/stars/sensiolabs-de/deprecation-detector) ![GitHub last commit](https://img.shields.io/github/last-commit/sensiolabs-de/deprecation-detector)](https://github.com/sensiolabs-de/deprecation-detector) ��� Finds usages of deprecated (Symfony) code.
 
 - [deptrac ![GitHub Repo Stars](https://img.shields.io/github/stars/sensiolabs-de/deptrac) ![GitHub last commit](https://img.shields.io/github/last-commit/sensiolabs-de/deptrac)](https://github.com/sensiolabs-de/deptrac) — Enforce rules for dependencies between software layers.
 
@@ -2059,7 +2059,7 @@ orchestration to ensure zero breaking changes. Specialized for React, Next.js, a
 
 - [clusterlint ![GitHub Repo Stars](https://img.shields.io/github/stars/digitalocean/clusterlint) ![GitHub last commit](https://img.shields.io/github/last-commit/digitalocean/clusterlint)](https://github.com/digitalocean/clusterlint) — Clusterlint queries live Kubernetes clusters for resources, executes common and  platform specific checks against these resources and provides actionable feedback to cluster operators.  It is a non invasive tool that is run externally. Clusterlint does not alter the resource configurations.
 
-- [Datree](https://datree.io/) �� A CLI tool to prevent Kubernetes misconfigurations by ensuring that manifests and Helm charts follow best practices as well as your organization’s policies
+- [Datree](https://datree.io/) — A CLI tool to prevent Kubernetes misconfigurations by ensuring that manifests and Helm charts follow best practices as well as your organization’s policies
 
 - [kics](https://kics.io/) — Find security vulnerabilities, compliance issues, and infrastructure misconfigurations in your infrastructure-as-code. Supports Terraform, Kubernetes, Docker, AWS CloudFormation and Ansible
 
