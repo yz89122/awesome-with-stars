@@ -373,7 +373,7 @@ All resources are freely available except those with a 💲 icon.
 
 * 📝 [Basic Combinatorics](http://web.math.utk.edu/~wagner/papers/comb.pdf) - Carl G. Wagner (University of Tennessee)
 * 📝 [Applied Combinatorics](http://people.math.gatech.edu/~trotter/book.pdf) - Mitchel T. Keller, William T. Trotter
-* ���� [Notes on Combinatorics](http://www.maths.qmul.ac.uk/~pjc/notes/comb.pdf) - Peter J. Cameron
+* 📝 [Notes on Combinatorics](http://www.maths.qmul.ac.uk/~pjc/notes/comb.pdf) - Peter J. Cameron
 * 📝 [Analytic Combinatorics](http://algo.inria.fr/flajolet/Publications/book.pdf) - Philippe Flajolet, Robert Sedgewick
 * 📝 [generatingfunctionology](http://www.math.upenn.edu/~wilf/DownldGF.html) - Herbert Wilf
 
@@ -477,7 +477,7 @@ All resources are freely available except those with a 💲 icon.
 
 ### Harmonic Analysis
 
-* 📝 [Harmonic Analysis Lecture Notes](http://www.math.uiuc.edu/~laugesen/545/545Lectures.pdf) - Richard S. Laugesen (University of Illinois at Urbana–Champaign)
+* 📝 [Harmonic Analysis Lecture Notes](http://www.math.uiuc.edu/~laugesen/545/545Lectures.pdf) - Richard S. Laugesen (University of Illinois at Urbana��Champaign)
 * 📝 [Harmonic Analysis](http://www.math.uchicago.edu/~schlag/harmonicnotes.pdf) - W. Schlag
 * 📝 [Lecture Notes: Fourier Transform and its Applications](https://see.stanford.edu/materials/lsoftaee261/book-fall-07.pdf) - Brad Osgood
 * 📝 [Fourier Analysis](http://www.reed.edu/physics/courses/Physics331.f08/pdf/Fourier.pdf) - Lucas Illing
