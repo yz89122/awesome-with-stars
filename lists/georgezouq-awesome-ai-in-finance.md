@@ -144,6 +144,8 @@ Price and Volume process with Technology Analysis Indices
 - [crypto-signal ![GitHub Repo Stars](https://img.shields.io/github/stars/CryptoSignal/crypto-signal) ![GitHub last commit](https://img.shields.io/github/last-commit/CryptoSignal/crypto-signal)](https://github.com/CryptoSignal/crypto-signal) - Automated crypto trading & technical analysis (TA) bot for Bittrex, Binance, GDAX, and more.
 - [Gekko-Strategies ![GitHub Repo Stars](https://img.shields.io/github/stars/xFFFFF/Gekko-Strategies) ![GitHub last commit](https://img.shields.io/github/last-commit/xFFFFF/Gekko-Strategies)](https://github.com/xFFFFF/Gekko-Strategies) - Strategies to Gekko trading bot with backtests results and some useful tools.
 - [gekko-gannswing ![GitHub Repo Stars](https://img.shields.io/github/stars/johndoe75/gekko-gannswing) ![GitHub last commit](https://img.shields.io/github/last-commit/johndoe75/gekko-gannswing)](https://github.com/johndoe75/gekko-gannswing) - Gann's Swing trade strategy for Gekko trade bot.
+- [Chartscout](https://chartscout.io) - Real-time cryptocurrency chart pattern detection with automated alerts using pattern recognition algorithms
+
 
 ### Lottery & Gamble
 
@@ -201,6 +203,7 @@ For Back Test & Live trading
 
 **System**
 
+- [the0 ![GitHub Repo Stars](https://img.shields.io/github/stars/alexanderwanyoike/the0) ![GitHub last commit](https://img.shields.io/github/last-commit/alexanderwanyoike/the0)](https://github.com/alexanderwanyoike/the0) - Self-hosted execution engine for algorithmic trading bots. Supports Python, TypeScript, Rust, C++, C#, Scala, and Haskell. Each bot runs in an isolated container with scheduled or streaming execution.
 - 🌟🌟🌟 [OpenBB ![GitHub Repo Stars](https://img.shields.io/github/stars/OpenBB-finance/OpenBB) ![GitHub last commit](https://img.shields.io/github/last-commit/OpenBB-finance/OpenBB)](https://github.com/OpenBB-finance/OpenBB) - AI-powered opensource research and analytics workspace.
 - 🌟🌟 [zipline ![GitHub Repo Stars](https://img.shields.io/github/stars/quantopian/zipline) ![GitHub last commit](https://img.shields.io/github/last-commit/quantopian/zipline)](https://github.com/quantopian/zipline) - A python algorithmic trading library.
 - 🌟 [TradingView](http://tradingview.com/) - Get real-time information and market insights.
