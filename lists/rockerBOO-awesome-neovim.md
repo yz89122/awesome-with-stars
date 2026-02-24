@@ -1293,7 +1293,7 @@ then it is not supported:
 
 - [harrisoncramer/GitLab.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/harrisoncramer/GitLab.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/harrisoncramer/GitLab.nvim)](https://github.com/harrisoncramer/GitLab.nvim) - Review pull requests and manage other GitLab resources.
 <!--lint disable double-link -->
-[**�� back to top**](#contents)
+[**⬆ back to top**](#contents)
 <!--lint enable double-link -->
 
 ## Motion

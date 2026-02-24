@@ -333,7 +333,7 @@ _Libraries for data analysis._
 - [desbordante ![GitHub Repo Stars](https://img.shields.io/github/stars/desbordante/desbordante-core) ![GitHub last commit](https://img.shields.io/github/last-commit/desbordante/desbordante-core)](https://github.com/desbordante/desbordante-core/) - An open source data profiler for complex pattern discovery.
 - [docling ![GitHub Repo Stars](https://img.shields.io/github/stars/docling-project/docling) ![GitHub last commit](https://img.shields.io/github/last-commit/docling-project/docling)](https://github.com/docling-project/docling) - Library for converting documents into structured data.
 - [optimus ![GitHub Repo Stars](https://img.shields.io/github/stars/hi-primus/optimus) ![GitHub last commit](https://img.shields.io/github/last-commit/hi-primus/optimus)](https://github.com/hi-primus/optimus) - Agile Data Science Workflows made easy with PySpark.
-- [pandas](http://pandas.pydata.org/) - A library providing high-performance, easy-to-use data structures and data analysis tools.
+- [pandas](https://pandas.pydata.org/) - A library providing high-performance, easy-to-use data structures and data analysis tools.
 - [pathway ![GitHub Repo Stars](https://img.shields.io/github/stars/pathwaycom/pathway) ![GitHub last commit](https://img.shields.io/github/last-commit/pathwaycom/pathway)](https://github.com/pathwaycom/pathway) - Real-time data processing framework for Python with reactive dataflows.
 - [polars ![GitHub Repo Stars](https://img.shields.io/github/stars/pola-rs/polars) ![GitHub last commit](https://img.shields.io/github/last-commit/pola-rs/polars)](https://github.com/pola-rs/polars) - A fast DataFrame library implemented in Rust with a Python API.
 
@@ -591,7 +591,7 @@ _Libraries for working with graphical user interface applications._
 - [pywebview ![GitHub Repo Stars](https://img.shields.io/github/stars/r0x0r/pywebview) ![GitHub last commit](https://img.shields.io/github/last-commit/r0x0r/pywebview)](https://github.com/r0x0r/pywebview/) - A lightweight cross-platform native wrapper around a webview component.
 - [Tkinter](https://wiki.python.org/moin/TkInter) - Tkinter is Python's de-facto standard GUI package.
 - [Toga ![GitHub Repo Stars](https://img.shields.io/github/stars/pybee/toga) ![GitHub last commit](https://img.shields.io/github/last-commit/pybee/toga)](https://github.com/pybee/toga) - A Python native, OS native GUI toolkit.
-- [urwid](http://urwid.org/) - A library for creating terminal GUI applications with strong support for widgets, events, rich colors, etc.
+- [urwid](https://urwid.org/) - A library for creating terminal GUI applications with strong support for widgets, events, rich colors, etc.
 - [wxPython](https://wxpython.org/) - A blending of the wxWidgets C++ class library with the Python.
 
 ## GraphQL
@@ -609,7 +609,7 @@ _Awesome game development libraries._
 - [Cocos2d](https://www.cocos.com/en/cocos2d-x) - A framework for building 2D games, demos, and other graphical/interactive applications.
 - [Harfang3D](http://www.harfang3d.com) - Python framework for 3D, VR and game development.
 - [Panda3D](https://www.panda3d.org/) - 3D game engine developed by Disney.
-- [Pygame](http://www.pygame.org/news.html) - Pygame is a set of Python modules designed for writing games.
+- [Pygame](https://www.pygame.org/news.html) - Pygame is a set of Python modules designed for writing games.
 - [PyOgre](http://www.ogre3d.org/tikiwiki/PyOgre) - Python bindings for the Ogre 3D render engine, can be used for games, simulations, anything 3D.
 - [PyOpenGL](http://pyopengl.sourceforge.net/) - Python ctypes bindings for OpenGL and it's related APIs.
 - [PySDL2](https://pysdl2.readthedocs.io) - A ctypes based wrapper for the SDL2 library.
@@ -633,11 +633,11 @@ _Libraries for working with HTML and XML._
 - [cssutils](https://pypi.org/project/cssutils/) - A CSS library for Python.
 - [html5lib ![GitHub Repo Stars](https://img.shields.io/github/stars/html5lib/html5lib-python) ![GitHub last commit](https://img.shields.io/github/last-commit/html5lib/html5lib-python)](https://github.com/html5lib/html5lib-python) - A standards-compliant library for parsing and serializing HTML documents and fragments.
 - [JustHTML ![GitHub Repo Stars](https://img.shields.io/github/stars/EmilStenstrom/justhtml) ![GitHub last commit](https://img.shields.io/github/last-commit/EmilStenstrom/justhtml)](https://github.com/EmilStenstrom/justhtml/) - A pure Python HTML5 parser that just works.
-- [lxml](http://lxml.de/) - A very fast, easy-to-use and versatile library for handling HTML and XML.
+- [lxml](https://lxml.de/) - A very fast, easy-to-use and versatile library for handling HTML and XML.
 - [markupsafe ![GitHub Repo Stars](https://img.shields.io/github/stars/pallets/markupsafe) ![GitHub last commit](https://img.shields.io/github/last-commit/pallets/markupsafe)](https://github.com/pallets/markupsafe) - Implements a XML/HTML/XHTML Markup safe string for Python.
 - [pyquery ![GitHub Repo Stars](https://img.shields.io/github/stars/gawel/pyquery) ![GitHub last commit](https://img.shields.io/github/last-commit/gawel/pyquery)](https://github.com/gawel/pyquery) - A jQuery-like library for parsing HTML.
 - [untangle ![GitHub Repo Stars](https://img.shields.io/github/stars/stchris/untangle) ![GitHub last commit](https://img.shields.io/github/last-commit/stchris/untangle)](https://github.com/stchris/untangle) - Converts XML documents to Python objects for easy access.
-- [WeasyPrint](http://weasyprint.org) - A visual rendering engine for HTML and CSS that can export to PDF.
+- [WeasyPrint](https://weasyprint.org) - A visual rendering engine for HTML and CSS that can export to PDF.
 - [xmldataset](https://xmldataset.readthedocs.io/en/latest/) - Simple XML Parsing.
 - [xmltodict ![GitHub Repo Stars](https://img.shields.io/github/stars/martinblech/xmltodict) ![GitHub last commit](https://img.shields.io/github/last-commit/martinblech/xmltodict)](https://github.com/martinblech/xmltodict) - Working with XML feel like you are working with JSON.
 
@@ -664,12 +664,12 @@ _Libraries for programming with hardware._
 _Libraries for manipulating images._
 
 - [pillow ![GitHub Repo Stars](https://img.shields.io/github/stars/python-pillow/Pillow) ![GitHub last commit](https://img.shields.io/github/last-commit/python-pillow/Pillow)](https://github.com/python-pillow/Pillow) - Pillow is the friendly [PIL](http://www.pythonware.com/products/pil/) fork.
-- [pymatting ![GitHub Repo Stars](https://img.shields.io/github/stars/pymatting/pymatting) ![GitHub last commit](https://img.shields.io/github/last-commit/pymatting/pymatting)](http://github.com/pymatting/pymatting) - A library for alpha matting.
+- [pymatting ![GitHub Repo Stars](https://img.shields.io/github/stars/pymatting/pymatting) ![GitHub last commit](https://img.shields.io/github/last-commit/pymatting/pymatting)](https://github.com/pymatting/pymatting) - A library for alpha matting.
 - [python-barcode ![GitHub Repo Stars](https://img.shields.io/github/stars/WhyNotHugo/python-barcode) ![GitHub last commit](https://img.shields.io/github/last-commit/WhyNotHugo/python-barcode)](https://github.com/WhyNotHugo/python-barcode) - Create barcodes in Python with no extra dependencies.
 - [python-qrcode ![GitHub Repo Stars](https://img.shields.io/github/stars/lincolnloop/python-qrcode) ![GitHub last commit](https://img.shields.io/github/last-commit/lincolnloop/python-qrcode)](https://github.com/lincolnloop/python-qrcode) - A pure Python QR Code generator.
 - [pyvips ![GitHub Repo Stars](https://img.shields.io/github/stars/libvips/pyvips) ![GitHub last commit](https://img.shields.io/github/last-commit/libvips/pyvips)](https://github.com/libvips/pyvips) - A fast image processing library with low memory needs.
 - [quads ![GitHub Repo Stars](https://img.shields.io/github/stars/fogleman/Quads) ![GitHub last commit](https://img.shields.io/github/last-commit/fogleman/Quads)](https://github.com/fogleman/Quads) - Computer art based on quadtrees.
-- [scikit-image](http://scikit-image.org/) - A Python library for (scientific) image processing.
+- [scikit-image](https://scikit-image.org/) - A Python library for (scientific) image processing.
 - [thumbor ![GitHub Repo Stars](https://img.shields.io/github/stars/thumbor/thumbor) ![GitHub last commit](https://img.shields.io/github/last-commit/thumbor/thumbor)](https://github.com/thumbor/thumbor) - A smart imaging service. It enables on-demand crop, re-sizing and flipping of images.
 - [wand ![GitHub Repo Stars](https://img.shields.io/github/stars/emcconville/wand) ![GitHub last commit](https://img.shields.io/github/last-commit/emcconville/wand)](https://github.com/emcconville/wand) - Python bindings for [MagickWand](http://www.imagemagick.org/script/magick-wand.php), C API for ImageMagick.
 
@@ -701,7 +701,7 @@ _Interactive Python interpreters (REPL)._
 
 _Libraries for working with i18n._
 
-- [Babel](http://babel.pocoo.org/en/latest/) - An internationalization library for Python.
+- [Babel](https://babel.pocoo.org/en/latest/) - An internationalization library for Python.
 
 ## Job Scheduler
 
@@ -774,7 +774,7 @@ _Libraries for working with human languages._
 - General
   - [gensim ![GitHub Repo Stars](https://img.shields.io/github/stars/RaRe-Technologies/gensim) ![GitHub last commit](https://img.shields.io/github/last-commit/RaRe-Technologies/gensim)](https://github.com/RaRe-Technologies/gensim) - Topic Modeling for Humans.
   - [langid.py ![GitHub Repo Stars](https://img.shields.io/github/stars/saffsd/langid.py) ![GitHub last commit](https://img.shields.io/github/last-commit/saffsd/langid.py)](https://github.com/saffsd/langid.py) - Stand-alone language identification system.
-  - [nltk](http://www.nltk.org/) - A leading platform for building Python programs to work with human language data.
+  - [nltk](https://www.nltk.org/) - A leading platform for building Python programs to work with human language data.
   - [pattern ![GitHub Repo Stars](https://img.shields.io/github/stars/clips/pattern) ![GitHub last commit](https://img.shields.io/github/last-commit/clips/pattern)](https://github.com/clips/pattern) - A web mining module.
   - [polyglot ![GitHub Repo Stars](https://img.shields.io/github/stars/aboSamoor/polyglot) ![GitHub last commit](https://img.shields.io/github/last-commit/aboSamoor/polyglot)](https://github.com/aboSamoor/polyglot) - Natural language pipeline supporting hundreds of languages.
   - [spacy](https://spacy.io/) - A library for industrial-strength natural language processing in Python and Cython.
@@ -919,7 +919,7 @@ _RPC-compatible servers._
 
 _Libraries for scientific computing. Also see [Python-for-Scientists ![GitHub Repo Stars](https://img.shields.io/github/stars/TomNicholas/Python-for-Scientists) ![GitHub last commit](https://img.shields.io/github/last-commit/TomNicholas/Python-for-Scientists)](https://github.com/TomNicholas/Python-for-Scientists)._
 
-- [astropy](http://www.astropy.org/) - A community Python library for Astronomy.
+- [astropy](https://www.astropy.org/) - A community Python library for Astronomy.
 - [bcbio-nextgen ![GitHub Repo Stars](https://img.shields.io/github/stars/chapmanb/bcbio-nextgen) ![GitHub last commit](https://img.shields.io/github/last-commit/chapmanb/bcbio-nextgen)](https://github.com/chapmanb/bcbio-nextgen) - Providing best-practice pipelines for fully automated high throughput sequencing analysis.
 - [bcbb ![GitHub Repo Stars](https://img.shields.io/github/stars/chapmanb/bcbb) ![GitHub last commit](https://img.shields.io/github/last-commit/chapmanb/bcbb)](https://github.com/chapmanb/bcbb) - Collection of useful code related to biological analysis.
 - [Biopython](http://biopython.org/wiki/Main_Page) - Biopython is a set of freely available tools for biological computation.
