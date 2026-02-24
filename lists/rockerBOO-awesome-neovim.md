@@ -652,6 +652,7 @@ then it is not supported:
 - **_`[Fnl]`_** - Is written in Fennel.
 <!--lint enable awesome-list-item-->
 
+- [oskarnurm/koda.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/oskarnurm/koda.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/oskarnurm/koda.nvim)](https://github.com/oskarnurm/koda.nvim) - **_`[TS][LSP][L/D][Lua]`_** Code's quiet companion. A minimalist colorscheme, written in Lua.
 - [yonatan-perel/lake-dweller.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/yonatan-perel/lake-dweller.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/yonatan-perel/lake-dweller.nvim)](https://github.com/yonatan-perel/lake-dweller.nvim) - **_`[TS][LSP][Lua]`_** Dark and opinionated with selective highlighting aiming to be readable at a glance.
 - [silentium-theme/silentium.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/silentium-theme/silentium.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/silentium-theme/silentium.nvim)](https://github.com/silentium-theme/silentium.nvim) - **_`[TS][Luа]`_** Pragmatic and monochrome theme with the goal to increase reading speed and reduce eye strain by highlighting only what is needed.
 - [serhez/teide.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/serhez/teide.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/serhez/teide.nvim)](https://github.com/serhez/teide.nvim) - **_`[TS][LSP][L/D][Lua]`_** A fork of folke's `tokyonight.nvim` with a different color palette.
@@ -1292,7 +1293,7 @@ then it is not supported:
 
 - [harrisoncramer/GitLab.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/harrisoncramer/GitLab.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/harrisoncramer/GitLab.nvim)](https://github.com/harrisoncramer/GitLab.nvim) - Review pull requests and manage other GitLab resources.
 <!--lint disable double-link -->
-[**⬆ back to top**](#contents)
+[**�� back to top**](#contents)
 <!--lint enable double-link -->
 
 ## Motion
