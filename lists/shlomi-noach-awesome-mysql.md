@@ -122,6 +122,7 @@ This list accepts and encourages pull requests. See [CONTRIBUTING ![GitHub Repo 
 *Tools to support MySQL-related development*
 
 - [Flywaydb ![GitHub Repo Stars](https://img.shields.io/github/stars/flyway/flyway) ![GitHub last commit](https://img.shields.io/github/last-commit/flyway/flyway)](https://github.com/flyway/flyway) - Database migrations; Evolve your database schema easily and reliably across all your instances
+- [dbsafe ![GitHub Repo Stars](https://img.shields.io/github/stars/nethalo/dbsafe) ![GitHub last commit](https://img.shields.io/github/last-commit/nethalo/dbsafe)](https://github.com/nethalo/dbsafe) - Pre-execution safety analysis for MySQL DDL/DML operations
 - [Liquibase ![GitHub Repo Stars](https://img.shields.io/github/stars/liquibase/liquibase) ![GitHub last commit](https://img.shields.io/github/last-commit/liquibase/liquibase)](https://github.com/liquibase/liquibase) - Source control for your database
 - [Shift ![GitHub Repo Stars](https://img.shields.io/github/stars/square/shift) ![GitHub last commit](https://img.shields.io/github/last-commit/square/shift)](https://github.com/square/shift) - An application that helps you run schema migrations on MySQL databases
 - [Skeema ![GitHub Repo Stars](https://img.shields.io/github/stars/skeema/skeema) ![GitHub last commit](https://img.shields.io/github/last-commit/skeema/skeema)](https://github.com/skeema/skeema) - Declarative pure-SQL schema management system for MySQL and MariaDB, with support for sharding and external online schema change tools
