@@ -503,6 +503,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [TensorWatch ![GitHub Repo Stars](https://img.shields.io/github/stars/microsoft/tensorwatch) ![GitHub last commit](https://img.shields.io/github/last-commit/microsoft/tensorwatch)](https://github.com/microsoft/tensorwatch)
 - [geomap](https://pypi.org/project/geomap/)
 - [Dash](https://plotly.com/dash/)
+- [MetaReview](https://metareview-8c1.pages.dev/) - Free online meta-analysis platform with 11 interactive D3.js statistical charts (forest plot, funnel plot, Galbraith, L'Abbé, Baujat, etc.), 5 effect size measures, AI literature screening, and publication-ready report export. [github.com ![GitHub Repo Stars](https://img.shields.io/github/stars/TerryFYL/metareview) ![GitHub last commit](https://img.shields.io/github/last-commit/TerryFYL/metareview)](https://github.com/TerryFYL/metareview)
 
 ### Miscellaneous Tools
 **[`^        back to top        ^`](#awesome-data-science)**
