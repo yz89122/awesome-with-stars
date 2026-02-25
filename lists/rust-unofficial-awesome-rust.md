@@ -429,7 +429,7 @@ See also [Games Made With Piston ![GitHub Repo Stars](https://img.shields.io/git
 * [Narwhal ![GitHub Repo Stars](https://img.shields.io/github/stars/narwhal-io/narwhal) ![GitHub last commit](https://img.shields.io/github/last-commit/narwhal-io/narwhal)](https://github.com/narwhal-io/narwhal) - An extensible pub/sub messaging server for edge applications.
 * [Rmqtt ![GitHub Repo Stars](https://img.shields.io/github/stars/rmqtt/rmqtt) ![GitHub last commit](https://img.shields.io/github/last-commit/rmqtt/rmqtt)](https://github.com/rmqtt/rmqtt) - MQTT Server/MQTT Broker — Scalable distributed MQTT message broker for IoT in the 5G era.
 * [RobustMQ ![GitHub Repo Stars](https://img.shields.io/github/stars/robustmq/robustmq) ![GitHub last commit](https://img.shields.io/github/last-commit/robustmq/robustmq)](https://github.com/robustmq/robustmq) - Next generation cloud-native converged message queue.
-* [Rocketmq-Rust ![GitHub Repo Stars](https://img.shields.io/github/stars/mxsm/rocketmq-rust) ![GitHub last commit](https://img.shields.io/github/last-commit/mxsm/rocketmq-rust)](https://github.com/mxsm/rocketmq-rust) - 🚀Apache RocketMQ build in Rust🦀. Faster, safer, and with lower memory usage.
+* [Rocketmq-Rust ![GitHub Repo Stars](https://img.shields.io/github/stars/mxsm/rocketmq-rust) ![GitHub last commit](https://img.shields.io/github/last-commit/mxsm/rocketmq-rust)](https://github.com/mxsm/rocketmq-rust) - 🚀Apache RocketMQ build in Rust����. Faster, safer, and with lower memory usage.
 
 ### MLOps
 
