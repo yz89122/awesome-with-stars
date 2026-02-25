@@ -819,7 +819,7 @@ Wifi | Power | Address | Open Hours
 
 ## Guimarães
 
-#### Espaço Guimarães
+#### Espaço Guimar��es
 
 > Shopping mall just outside Guimarães. There is free WiFi provided by the mall, you just need to re-login once in a while. There is a big offer in power outlets on the restaurant zone. There is also a free shuttle between the shopping and the city (currently suspended due to the pandemic).
 
