@@ -245,7 +245,7 @@ A compilation of interesting web maps:
 - [Old Maps Online](https://www.oldmapsonline.org/) - Browse historical places and search for old maps with timeline.
 - [chronotrains](https://www.chronotrains.com) - Where can you go by train in 8h?
 
-## 🌐 Web apps 
+## ��� Web apps 
 Plug-and-play geospatial web apps:
 
 - [city roads](https://anvaka.github.io/city-roads/) - Render every single road in any city at once.
