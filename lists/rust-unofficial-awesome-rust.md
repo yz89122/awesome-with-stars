@@ -403,6 +403,7 @@ See also [Games Made With Piston ![GitHub Repo Stars](https://img.shields.io/git
 
 ### Graphics
 
+* [buildoak/tortuise ![GitHub Repo Stars](https://img.shields.io/github/stars/buildoak/tortuise) ![GitHub last commit](https://img.shields.io/github/last-commit/buildoak/tortuise)](https://github.com/buildoak/tortuise) - Terminal Gaussian Splatting 3D viewer. 6 render modes, CPU-only, crossterm + rayon.
 * [dps/rust-raytracer ![GitHub Repo Stars](https://img.shields.io/github/stars/dps/rust-raytracer) ![GitHub last commit](https://img.shields.io/github/last-commit/dps/rust-raytracer)](https://github.com/dps/rust-raytracer) - An implementation of a very simple raytracer based on Ray Tracing in One Weekend by Peter Shirley.
 * [flxzt/rnote ![GitHub Repo Stars](https://img.shields.io/github/stars/flxzt/rnote) ![GitHub last commit](https://img.shields.io/github/last-commit/flxzt/rnote)](https://github.com/flxzt/rnote) - Sketch and take handwritten notes.
 * [ivanceras/svgbob ![GitHub Repo Stars](https://img.shields.io/github/stars/ivanceras/svgbob) ![GitHub last commit](https://img.shields.io/github/last-commit/ivanceras/svgbob)](https://github.com/ivanceras/svgbob) - converts ASCII diagrams into SVG graphics
