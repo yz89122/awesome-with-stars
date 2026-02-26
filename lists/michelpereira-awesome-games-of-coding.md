@@ -10,7 +10,6 @@
 - [Java](#java)
 - [JavaScript](#javascript)
 - [C Sharp](#c-sharp)
-- [Ruby](#ruby)
 - [Assembly](#assembly)
 - [Scala](#scala)
 - [Miscellaneous](#miscellaneous)
@@ -18,6 +17,7 @@
 
 ## Language Independent
 
+- [Artifacts MMO](https://artifactsmmo.com/) - Artifacts is a Sandbox MMORPG where you can use any programming language to control your characters with our API.
 - [Lambda Spellcrafting Academy](https://www.bittwiddlegames.com/lambda-spellcrafting-academy/) - A visual programming / puzzle game where you build spells to solve puzzles. Covers introductory programming, as well as some data structures and algorithms. The language is inspired by Lisp, but the game focuses on programming fundamentals that apply to most languages.
 - [Codingame](https://www.codingame.com/home) - A platform to learn and compete. Proposes a variety of multiplayer games and contests as well as optimisation challenges and solo puzzles. You can contribute your own too. Choose your language, enjoy the graphics.
 - [CodeCombat](https://codecombat.com) - Choose your hero and code your way through the ogre patrols, lava pits, and laser beams of Kithgard Dungeon. Level up, earn gems, and loot magic items to unlock new programming powers. Join millions of players and go from a total beginner to writing advanced multiplayer AI in Python, JavaScript, CoffeeScript, or Lua in this open-source programming game.
@@ -38,6 +38,8 @@
 
 ## JavaScript
 
+- [Programming Game](https://programming-game.com) - A realtime survival MMORPG played via websockets. There's a super simple in browser [demo](https://programming-game.com/demo) that showcases how to play.
+- [AdventureLand](https://adventure.land/) - Adventure Land is an experimental Indie MMORPG. Anyone can code up to 4 characters, let JavaScript do the grinding while you do something productive!
 - [Screeps](https://screeps.com) - No point and clicking any longer! You write real JavaScript which controls your units autonomously. Any time, everywhere, even while you are offline.
 - [JavaScript Fight Club](https://jsfight.club) - The Red King and the Blue King are at war! Your JavaScript skills are needed to determine the victor: Can you code an effective AI for honor and glory?
 - [Elevator Saga](http://play.elevatorsaga.com) - Write JavaScript directly in the browser to program an elevator, such that it reaches its efficiency goals. Start with simple "getting started" scripts, and ramp up to much more complex situations with many floors and multiple elevators.
@@ -48,10 +50,6 @@
 ## C Sharp
 
 - [Robocode](http://robocode.sourceforge.io/robocode.dotnet) - The goal is to develop a robot battle tank to battle against other tanks. The robot battles are running in real-time and on-screen.
-
-## Ruby
-
-- [RubyWarrior](https://www.bloc.io/ruby-warrior) - A browser based game where you control your avatar through various levels filled with enemies using Ruby.
 
 ## Assembly
 
@@ -82,7 +80,7 @@
 - [The Command Line Murders ![GitHub Repo Stars](https://img.shields.io/github/stars/veltman/clmystery) ![GitHub last commit](https://img.shields.io/github/last-commit/veltman/clmystery)](https://github.com/veltman/clmystery) - There's been a murder in Terminal City, and TCPD needs your help.
 - [SQL Murder Mystery](https://mystery.knightlab.com/) - The SQL Murder Mystery is designed to be both a self-directed lesson to learn SQL concepts and commands and a fun game for experienced SQL users to solve an intriguing crime.
 - [S3 Game](http://s3game-level1.s3-website.us-east-2.amazonaws.com/) - You are the treasure hunter. Your task is to get as many secret codes and open as many chests as possible.
-- [Learn Git Branching](https://learngitbranching.js.org/) - Learn git on the web.
+- [Learn Git Branching](https://learngitbranching.js.org/) - Learn Git on the web.
 - [Oh my Git](https://ohmygit.org/) - An open source game about learning Git!
 
 

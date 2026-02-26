@@ -14,6 +14,9 @@ This list is an attempt to create a community driven approach to guarantee no-no
 - [Shops](#shops)
 - [Brands](#brands)
 - [Websites](#websites)
+- [Organizations and Activism](#organizations-and-activism)
+- [Documentaries](#documentaries)
+- [Apps and Tools](#apps-and-tools)
 
 ## Books
 
@@ -68,6 +71,9 @@ This list is an attempt to create a community driven approach to guarantee no-no
 - Ashland, OR, USA
   - [NW Raw](https://nwraw.com/) - Juices and snacks, vegan ice cream.
 
+- Bavel, Netherlands
+  - [Vannu](https://www.restaurantvannu.nl/) - Fancy plantbased dining with locally sourced ingredients. They serve accompanying homemade juices as well.
+    
 - Berkeley, CA, USA
   - [The Butcher's Son](https://www.thebutchersveganson.com/) - Comfort food spilling off of your plate. Grab a main, a couple of sides and a plenty of napkins.
 
@@ -147,6 +153,27 @@ This list is an attempt to create a community driven approach to guarantee no-no
 - [Gewoon Vegan](https://gewoonvegan.nl/) - Really useful website showing a lot of regular vegan products that can be found in Dutch supermarkets.
 - [Nederlandse Vereniging voor Veganisme](https://www.veganisme.org/) - Dutch association for veganism, running a magazine, giving yearly vegan awards, supporting the community, and various other projects.
 - [Vegan Wiki](https://veganwiki.nl/) - Wiki from the Dutch association for veganism with a huge collection of products available in the Netherlands.
+
+## Organizations and Activism
+
+- [Animal Equality](https://animalequality.org/) - International organization documenting conditions in factory farms and running corporate campaigns to end animal exploitation
+- [Mercy For Animals](https://mercyforanimals.org/) - Leading farmed animal protection organization using investigations, corporate engagement, and public education
+- [The Humane League](https://thehumaneleague.org/) - Ending the abuse of animals raised for food through institutional and individual change campaigns
+- [Veganuary](https://veganuary.com/) - Global campaign inspiring people to try vegan each January, with resources and recipes year-round
+- [Vegan Outreach](https://veganoutreach.org/) - Grassroots advocacy reaching millions through outreach programs and the Vegan Mentor program
+
+## Documentaries
+
+- [Dominion](https://www.dominionmovement.com/) - Feature-length documentary exposing standard practices in animal agriculture through drone footage and hidden cameras
+- [Cowspiracy](https://www.cowspiracy.com/) - Groundbreaking environmental documentary exploring the impact of animal agriculture on the planet
+- [The Game Changers](https://gamechangersmovie.com/) - Documentary following elite athletes and scientists exploring optimal nutrition through plant-based eating
+- [Earthlings](http://www.nationearth.com/) - Comprehensive documentary about humanity's dependence on animals for economic purposes
+
+## Apps and Tools
+
+- [HappyCow](https://www.happycow.net/) - Find vegan and vegetarian restaurants worldwide with community reviews and photos
+- [abillion](https://www.abillion.com/) - Review plant-based products and restaurants while donating to animal welfare organizations with every review
+- [Is It Vegan ![GitHub Repo Stars](https://img.shields.io/github/stars/hmontazeri/is-vegan) ![GitHub last commit](https://img.shields.io/github/last-commit/hmontazeri/is-vegan)](https://github.com/hmontazeri/is-vegan) - Open source library and tool to check if a food ingredient or product is vegan
 
 ## Contributing
 
