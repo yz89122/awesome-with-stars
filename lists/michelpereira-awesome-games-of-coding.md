@@ -29,7 +29,7 @@
 ## Python
 
 - [Robocode ![GitHub Repo Stars](https://img.shields.io/github/stars/turkishviking/Python-Robocode) ![GitHub last commit](https://img.shields.io/github/last-commit/turkishviking/Python-Robocode)](https://github.com/turkishviking/Python-Robocode) - The goal is to develop a robot battle tank to battle against other tanks. The robot battles are running in real-time and on-screen.
-- [Robot Rumble](https://robotrumble.org/) - A free and open source AI competition platform. Code an algorithm for a team of robots battling in 1x1 grid-based arenas, and test your skills against others on the site. Robots can move and attack in one of four directions, and the team with more robots after 100 turns wins. Supports Python and Javascript, and comes with a desktop-based command line tool.
+- [Robot Rumble](https://robotrumble.org/) - A free and open source AI competition platform. Code an algorithm for a team of robots battling in 1x1 grid-based arenas, and test your skills against others on the site. Robots can move and attack in one of four directions, and the team with more robots after 100 turns wins. Supports Python and JavaScript, and comes with a desktop-based command line tool.
 
 ## Java
 
@@ -42,15 +42,12 @@
 - [JavaScript Fight Club](https://jsfight.club) - The Red King and the Blue King are at war! Your JavaScript skills are needed to determine the victor: Can you code an effective AI for honor and glory?
 - [Elevator Saga](http://play.elevatorsaga.com) - Write JavaScript directly in the browser to program an elevator, such that it reaches its efficiency goals. Start with simple "getting started" scripts, and ramp up to much more complex situations with many floors and multiple elevators.
 - [Untrusted](https://alexnisnevich.github.io/untrusted) - The game presents you with a roguelike-like playing environment and a console window with the JavaScript code generating each level. As loaded, each level is unbeatable, and most of the JavaScript is blocked from editing. The challenge is to open a path to the next level using only the limited tools left open to you.
-- [Robot Rumble](https://robotrumble.org/) - A free and open source AI competition platform. Code an algorithm for a team of robots battling in 1x1 grid-based arenas, and test your skills against others on the site. Robots can move and attack in one of four directions, and the team with more robots after 100 turns wins. Supports Python and Javascript, and comes with a desktop-based command line tool.
 - [DeepestWorld](https://deepestworld.com/) - A browser MMORPG where you can code your character with JavaScript. Explore a boundless, persistent open world devoid of loading screens, where a multitude of biomes and creatures come together to form a living, breathing world.
 - [BitBurner ![GitHub Repo Stars](https://img.shields.io/github/stars/bitburner-official/bitburner-src) ![GitHub last commit](https://img.shields.io/github/last-commit/bitburner-official/bitburner-src)](https://github.com/bitburner-official/bitburner-src) - A programming-based idle incremental RPG where you, the player, take the role of an unknown hacker in a dark, dystopian world. The game can be played in the browser, or installed locally through Steam.
 
 ## C Sharp
 
 - [Robocode](http://robocode.sourceforge.io/robocode.dotnet) - The goal is to develop a robot battle tank to battle against other tanks. The robot battles are running in real-time and on-screen.
-- [Code Hero](http://www.codehero.org) - A first-person coding puzzle platformer that equips you with a code ray that casts C# at your target.
-
 
 ## Ruby
 
@@ -85,7 +82,7 @@
 - [The Command Line Murders ![GitHub Repo Stars](https://img.shields.io/github/stars/veltman/clmystery) ![GitHub last commit](https://img.shields.io/github/last-commit/veltman/clmystery)](https://github.com/veltman/clmystery) - There's been a murder in Terminal City, and TCPD needs your help.
 - [SQL Murder Mystery](https://mystery.knightlab.com/) - The SQL Murder Mystery is designed to be both a self-directed lesson to learn SQL concepts and commands and a fun game for experienced SQL users to solve an intriguing crime.
 - [S3 Game](http://s3game-level1.s3-website.us-east-2.amazonaws.com/) - You are the treasure hunter. Your task is to get as many secret codes and open as many chests as possible.
-- [Learn Git Branching](https://learngitbranching.js.org/) - is the most visual and interactive way to learn Git on the web; where you'll be challenged with exciting levels.
+- [Learn Git Branching](https://learngitbranching.js.org/) - Learn git on the web.
 - [Oh my Git](https://ohmygit.org/) - An open source game about learning Git!
 
 

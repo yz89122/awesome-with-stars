@@ -1230,6 +1230,7 @@ then it is not supported:
 - [Silletr/LazyDeveloperHelper ![GitHub Repo Stars](https://img.shields.io/github/stars/Silletr/LazyDeveloperHelper) ![GitHub last commit](https://img.shields.io/github/last-commit/Silletr/LazyDeveloperHelper)](https://github.com/Silletr/LazyDeveloperHelper) - Python dependencies manager, with auto-adding to your `requirements.txt` file.
 - [JesperLundberg/projektgunnar.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/JesperLundberg/projektgunnar.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/JesperLundberg/projektgunnar.nvim)](https://github.com/JesperLundberg/projektgunnar.nvim) - C# dependency manager with support for handling references between projects and solution files.
 - [cosmicbuffalo/gem_install.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/cosmicbuffalo/gem_install.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/cosmicbuffalo/gem_install.nvim)](https://github.com/cosmicbuffalo/gem_install.nvim) - Install Ruby gems, trigger `bundle install` and `gem install` with progress and caching to prevent retries when installs fail.
+- [taigrr/glaze.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/taigrr/glaze.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/taigrr/glaze.nvim)](https://github.com/taigrr/glaze.nvim) - Centralized manager for Go binaries, with parallel installs, auto-update checking, and a Mason-style UI.
 <!--lint disable double-link -->
 [**⬆ back to top**](#contents)
 <!--lint enable double-link -->
@@ -1680,6 +1681,7 @@ then it is not supported:
 - [ptdewey/pendulum-nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/ptdewey/pendulum-nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/ptdewey/pendulum-nvim)](https://github.com/ptdewey/pendulum-nvim) - Track time spent coding and glean insights through on-demand time reports.
 - [ravsii/timers.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/ravsii/timers.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/ravsii/timers.nvim)](https://github.com/ravsii/timers.nvim) - Timer manager, a clean Lua API, supporting multiple timers, persistence, UI, and plugin integrations.
 - [Rtarun3606k/takatime ![GitHub Repo Stars](https://img.shields.io/github/stars/Rtarun3606k/takatime) ![GitHub last commit](https://img.shields.io/github/last-commit/Rtarun3606k/takatime)](https://github.com/Rtarun3606k/takatime) - Privacy-first WakaTime alternative using Go and MongoDB.
+- [taigrr/blast.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/taigrr/blast.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/taigrr/blast.nvim)](https://github.com/taigrr/blast.nvim) - Activity tracking client for NvimBlast with per-project configuration, monorepo support, and privacy controls.
 
 ### Automation
 
