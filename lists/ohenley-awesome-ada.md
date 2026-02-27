@@ -281,6 +281,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 - [ada4cmake ![GitHub Repo Stars](https://img.shields.io/github/stars/mosteo/ada4cmake) ![GitHub last commit](https://img.shields.io/github/last-commit/mosteo/ada4cmake)](https://github.com/mosteo/ada4cmake) - CMake macros for simple gnat project inclusion.
 - [cmake-ada-offa ![GitHub Repo Stars](https://img.shields.io/github/stars/offa/cmake-ada) ![GitHub last commit](https://img.shields.io/github/last-commit/offa/cmake-ada)](https://github.com/offa/cmake-ada) - Ada language support for CMake.
 - [cmake-ada-cho3 ![GitHub Repo Stars](https://img.shields.io/github/stars/cho3/cmake-ada) ![GitHub last commit](https://img.shields.io/github/last-commit/cho3/cmake-ada)](https://github.com/cho3/cmake-ada) - CMake language support for Ada, fork of [plplot]'s cross-platform support code.
+- [tada ![GitHub Repo Stars](https://img.shields.io/github/stars/tomekw/tada) ![GitHub last commit](https://img.shields.io/github/last-commit/tomekw/tada)](https://github.com/tomekw/tada) - An opinionated package management tool for Ada.
 
 ### Continuous Integration
 - [continuous-verification ![GitHub Repo Stars](https://img.shields.io/github/stars/jklmnn/continuous-verification) ![GitHub last commit](https://img.shields.io/github/last-commit/jklmnn/continuous-verification)](https://github.com/jklmnn/continuous-verification) - SPARK formal verification automated with Travis CI.
