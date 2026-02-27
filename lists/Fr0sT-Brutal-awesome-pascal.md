@@ -101,7 +101,7 @@ Feel free to suggest other missing nice projects either by comments or pull requ
 
 * [Fido Library ![GitHub Repo Stars](https://img.shields.io/github/stars/mirko-bianco/FidoLib) ![GitHub last commit](https://img.shields.io/github/last-commit/mirko-bianco/FidoLib)](https://github.com/mirko-bianco/FidoLib). `[Delphi]` The Fido library has been created to make the life of a Delphi developer easier by following the "describe behavior instead of coding it, whenever is possible" design principle. Below is a list of the most important core features: Mappers, JSON marshalling and unmarshalling, Virtual database features, Virtual Api clients, Virtual Api servers, Websockets, Consul and Fabio support, Boxes, Events driven architecture, Functional programming, Currying, Caching, Channels
 
-* [TeeBI ![GitHub Repo Stars](https://img.shields.io/github/stars/Steema/TeeBI) ![GitHub last commit](https://img.shields.io/github/last-commit/Steema/TeeBI)](https://github.com/Steema/TeeBI) `[Delphi]` `[FPC]` Datamining, visualization, multidimensional queries, pivot tables and Big Data component library. VCL, Firemonkey.
+* [TeeBI ![GitHub Repo Stars](https://img.shields.io/github/stars/Steema/TeeBI) ![GitHub last commit](https://img.shields.io/github/last-commit/Steema/TeeBI)](https://github.com/Steema/TeeBI). `[Delphi]` `[FPC]` Datamining, visualization, multidimensional queries, pivot tables and Big Data component library. VCL, Firemonkey.
 
 ## Multimedia ##
 
@@ -150,7 +150,7 @@ Feel free to suggest other missing nice projects either by comments or pull requ
 
 * [CCR-EXIF](https://code.google.com/p/ccr-exif) (seems abandoned, list of forks on GH [here](https://github.com/search?l=Pascal&o=desc&q=ccr-exif&s=updated&type=Repositories)). `[Delphi]` Library to read and write Exif, IPTC and XMP metadata from JPEG, TIFF and PSD images.
 
-* [KIcon ![GitHub Repo Stars](https://img.shields.io/github/stars/ThomasJaeger/KControls) ![GitHub last commit](https://img.shields.io/github/last-commit/ThomasJaeger/KControls)](https://github.com/ThomasJaeger/KControls). `[Delphi]` `[FPC]` This component makes sense if a more complex manipulation with icons (or better icon files *.ico) than just viewing is needed. Full PNG icon image support, correct rendering, icons with alpha channel.
+* [KIcon ![GitHub Repo Stars](https://img.shields.io/github/stars/kryslt/KControls) ![GitHub last commit](https://img.shields.io/github/last-commit/kryslt/KControls)](https://github.com/kryslt/KControls). `[Delphi]` `[FPC]` This component makes sense if a more complex manipulation with icons (or better icon files *.ico) than just viewing is needed. Full PNG icon image support, correct rendering, icons with alpha channel.
 
 * [Delphi Twain](http://www.kluug.net/delphitwain.php). `[Delphi]` `[FPC]` The library allows you to easily access scanning functions from Delphi and Lazarus.
 
@@ -218,7 +218,7 @@ Feel free to suggest other missing nice projects either by comments or pull requ
 
 * [ImageQuality ![GitHub Repo Stars](https://img.shields.io/github/stars/GodModeUser/ImageQuality) ![GitHub last commit](https://img.shields.io/github/last-commit/GodModeUser/ImageQuality)](https://github.com/GodModeUser/ImageQuality). `[Delphi]` `[FPC]` A library for objectively measuring image/video quality. It implements many popular algorithms, such as MS-SSIM, MS-SSIM*, SIMM, MSE, and PSNR. It is designed to be fast, accurate, and reliable. It can be compiled directly and requires no additional libraries.
 
-* [DelphiX](http://www.micrel.cz/Dx/) `[Delphi]` `[FPC]` A good wrapper to DirectX. It can be used to create games or any kind of graphical interface.
+* [DelphiX](http://www.micrel.cz/Dx/). `[Delphi]` `[FPC]` A good wrapper to DirectX. It can be used to create games or any kind of graphical interface.
 
 * [Blen2d4Delphi ![GitHub Repo Stars](https://img.shields.io/github/stars/fatihtsp/Blen2d4Delphi) ![GitHub last commit](https://img.shields.io/github/last-commit/fatihtsp/Blen2d4Delphi)](https://github.com/fatihtsp/Blen2d4Delphi). `[Delphi]` Blend2D is a high performance 2D vector graphics engine written in C++ and released under the Zlib license. The engine utilizes a built-in JIT compiler to generate optimized pipelines at runtime and is capable of using multiple threads to boost the performance beyond the possibilities of single-threaded rendering.
 
@@ -266,6 +266,7 @@ Feel free to suggest other missing nice projects either by comments or pull requ
 * [ImGui-Pascal ![GitHub Repo Stars](https://img.shields.io/github/stars/Coldzer0/ImGui-Pascal) ![GitHub last commit](https://img.shields.io/github/last-commit/Coldzer0/ImGui-Pascal)](https://github.com/Coldzer0/ImGui-Pascal). `[Delphi]` `[FPC]` ImGui-Pascal is [ImGui ![GitHub Repo Stars](https://img.shields.io/github/stars/ocornut/imgui) ![GitHub last commit](https://img.shields.io/github/last-commit/ocornut/imgui)](https://github.com/ocornut/imgui) binding (crossplatform GUI lib) with the latest version & docking. Support Windows, Linux, OSX.
 
 * [abmaze ![GitHub Repo Stars](https://img.shields.io/github/stars/DosWorld/abmaze) ![GitHub last commit](https://img.shields.io/github/last-commit/DosWorld/abmaze)](https://github.com/DosWorld/abmaze). `[FPC]` `[TP]`Aldous-Broder algorithm implementation in Pascal for maze generation. Contains few optimizations.
+
 
 ## Communications ##
 
@@ -375,11 +376,11 @@ Feel free to suggest other missing nice projects either by comments or pull requ
 
 * [delphizmq ![GitHub Repo Stars](https://img.shields.io/github/stars/bvarga/delphizmq) ![GitHub last commit](https://img.shields.io/github/last-commit/bvarga/delphizmq)](https://github.com/bvarga/delphizmq). `[Delphi]` `[FPC]` Binding for ZeroMQ. Should work with Delphi7+ versions and with FPC 2.6.0. The package contains a wrapper (zmq.pas), and a higher level api (zmqapi.pas). It should work with ZMQ 2.2.x, and with 3.2.x. For version 2.2.x undefine zmq3, in zmq.inc. The dll's are not part of this repo, you can download the appropriate from the official distro, and rename it to libzmq.dll.
 
-* [xxm ![GitHub Repo Stars](https://img.shields.io/github/stars/stijnsanders/xxm) ![GitHub last commit](https://img.shields.io/github/last-commit/stijnsanders/xxm)](https://github.com/stijnsanders/xxm) `[Delphi]` Library enables you to create dynamic websites in Delphi, combining both Delphi and HTML in the source files. The project is compiled into a module, ready for use by a pluggable protocol handler in Internet Explorer, an ISAPI Extension, an Apache module, with HTTPAPI, with CGI or SCGI, or a stand-alone HTTP server.
+* [xxm ![GitHub Repo Stars](https://img.shields.io/github/stars/stijnsanders/xxm) ![GitHub last commit](https://img.shields.io/github/last-commit/stijnsanders/xxm)](https://github.com/stijnsanders/xxm). `[Delphi]` Library enables you to create dynamic websites in Delphi, combining both Delphi and HTML in the source files. The project is compiled into a module, ready for use by a pluggable protocol handler in Internet Explorer, an ISAPI Extension, an Apache module, with HTTPAPI, with CGI or SCGI, or a stand-alone HTTP server.
 
-* [WebSocket Component for Delphi](https://bitbucket.org/freeonterminate/websocket/src/master/) `[Delphi]` WebSocket Component for Delphi, platforms: Windows / macOS / Linux (Maybe iOS, Android)
+* [WebSocket Component for Delphi](https://bitbucket.org/freeonterminate/websocket/src/master/). `[Delphi]` WebSocket Component for Delphi, platforms: Windows / macOS / Linux (Maybe iOS, Android)
 
-* [Bird Socket Server ![GitHub Repo Stars](https://img.shields.io/github/stars/mateusvicente100/bird-socket-server) ![GitHub last commit](https://img.shields.io/github/last-commit/mateusvicente100/bird-socket-server)](https://github.com/mateusvicente100/bird-socket-server) `[Delphi]` Websocket server for Delphi.
+* [Bird Socket Server ![GitHub Repo Stars](https://img.shields.io/github/stars/mateusvicente100/bird-socket-server) ![GitHub last commit](https://img.shields.io/github/last-commit/mateusvicente100/bird-socket-server)](https://github.com/mateusvicente100/bird-socket-server). `[Delphi]` Websocket server for Delphi.
 
 * [RealThinClient SDK ![GitHub Repo Stars](https://img.shields.io/github/stars/teppicom/RealThinClient-SDK) ![GitHub last commit](https://img.shields.io/github/last-commit/teppicom/RealThinClient-SDK)](https://github.com/teppicom/RealThinClient-SDK/). `[Delphi]` Flexible and modular framework for building reliable and scalable cross-platform Applications with Delphi, designed for the Web by utilizing HTTP/S with full IPv4 & IPv6 support and built-in multi-threading, extensively stress-tested to ensure the highest stability
 
@@ -390,11 +391,13 @@ Feel free to suggest other missing nice projects either by comments or pull requ
 * [Brook framework ![GitHub Repo Stars](https://img.shields.io/github/stars/risoflora/brookframework) ![GitHub last commit](https://img.shields.io/github/last-commit/risoflora/brookframework)](https://github.com/risoflora/brookframework). `[Delphi]` `[FPC]` Microframework which helps to develop web Pascal applications.
 // *Based on external [libsagui](https://risoflora.github.io/libsagui/)*
 
-* [WebSocket.pas ![GitHub Repo Stars](https://img.shields.io/github/stars/biot2/WebSocket.pas) ![GitHub last commit](https://img.shields.io/github/last-commit/biot2/WebSocket.pas)](https://github.com/biot2/WebSocket.pas) `[Delphi]` `[FPC]` WebSocket Client & Server Library with pure Object Pascal source code
+* [WebSocket.pas ![GitHub Repo Stars](https://img.shields.io/github/stars/biot2/WebSocket.pas) ![GitHub last commit](https://img.shields.io/github/last-commit/biot2/WebSocket.pas)](https://github.com/biot2/WebSocket.pas). `[Delphi]` `[FPC]` WebSocket Client & Server Library with pure Object Pascal source code
 
-* [nats.pas ![GitHub Repo Stars](https://img.shields.io/github/stars/biot2/nats.pas) ![GitHub last commit](https://img.shields.io/github/last-commit/biot2/nats.pas)](https://github.com/biot2/nats.pas) `[Delphi]` `[FPC]` An Object Pascal Client for NATS based on libnats-c
+* [nats.pas ![GitHub Repo Stars](https://img.shields.io/github/stars/biot2/nats.pas) ![GitHub last commit](https://img.shields.io/github/last-commit/biot2/nats.pas)](https://github.com/biot2/nats.pas). `[Delphi]` `[FPC]` An Object Pascal Client for NATS based on libnats-c
 
-* [Firebase Services for Delphi ![GitHub Repo Stars](https://img.shields.io/github/stars/SchneiderInfosystems/FB4D) ![GitHub last commit](https://img.shields.io/github/last-commit/SchneiderInfosystems/FB4D)](https://github.com/SchneiderInfosystems/FB4D) `[Delphi]` Cross-platform (FMX/VCL/Console) library for the following Firebase Services (Google): Firebase RT-DB, Firestore DB, Cloud Storage, VisionML, Firebase Authorization, and Firebase Functions. The library supports all platforms (Windows, Mac, iOS, Android, and Linux).
+* [Firebase Services for Delphi ![GitHub Repo Stars](https://img.shields.io/github/stars/SchneiderInfosystems/FB4D) ![GitHub last commit](https://img.shields.io/github/last-commit/SchneiderInfosystems/FB4D)](https://github.com/SchneiderInfosystems/FB4D). `[Delphi]` Cross-platform (FMX/VCL/Console) library for the following Firebase Services (Google): Firebase RT-DB, Firestore DB, Cloud Storage, VisionML, Firebase Authorization, and Firebase Functions. The library supports all platforms (Windows, Mac, iOS, Android, and Linux).
+
+* [Dext Framework ![GitHub Repo Stars](https://img.shields.io/github/stars/cesarliws/dext) ![GitHub last commit](https://img.shields.io/github/last-commit/cesarliws/dext)](https://github.com/cesarliws/dext). `[Delphi]` Modern Full-Stack ecosystem for modern Delphi development. It brings the productivity and architectural patterns of frameworks like ASP.NET Core and Spring Boot to the native performance of Object Pascal.
 
 
 ## Cloud & remote services
@@ -432,8 +435,6 @@ Feel free to suggest other missing nice projects either by comments or pull requ
 * [OWM API ![GitHub Repo Stars](https://img.shields.io/github/stars/HemulGM/OWM_API) ![GitHub last commit](https://img.shields.io/github/last-commit/HemulGM/OWM_API)](https://github.com/HemulGM/OWM_API). `[Delphi]` OpenWeatherMap.com API Wrapper
 
 
-
-
 ## Serial port
 
 * [Synaser ![GitHub Repo Stars](https://img.shields.io/github/stars/geby/synapse) ![GitHub last commit](https://img.shields.io/github/last-commit/geby/synapse)](https://github.com/geby/synapse/blob/master/synaser.pas). `[Delphi]` `[FPC]` Library for blocking communication on serial ports. It is non-visual class as in Synapse, and programmer interface is very similar to Synapse.
@@ -448,7 +449,7 @@ Feel free to suggest other missing nice projects either by comments or pull requ
 
 * [ComPort Library ![GitHub Repo Stars](https://img.shields.io/github/stars/CWBudde/ComPort-Library) ![GitHub last commit](https://img.shields.io/github/last-commit/CWBudde/ComPort-Library)](https://github.com/CWBudde/ComPort-Library). `[Delphi]` COM Port Library for Delphi (fork from SourceForge) . The ComPort Library contains code to access COM Ports. Originally, the COM port was the name of the serial port interface of IBM-PC compatible computers. While nowadays COM ports get less important for communication in favor for USB access, it is still in use as virtual ports, especially as simple communication protocol for maker boards.
 
-* [Usb serial controller for Android ![GitHub Repo Stars](https://img.shields.io/github/stars/felHR85/UsbSerial) ![GitHub last commit](https://img.shields.io/github/last-commit/felHR85/UsbSerial)](https://github.com/felHR85/UsbSerial) `[Delphi]` Usb serial controller for Android
+* [Usb serial controller for Android ![GitHub Repo Stars](https://img.shields.io/github/stars/felHR85/UsbSerial) ![GitHub last commit](https://img.shields.io/github/last-commit/felHR85/UsbSerial)](https://github.com/felHR85/UsbSerial). `[Delphi]` Usb serial controller for Android
 
 
 ## Event bus
@@ -482,7 +483,7 @@ Feel free to suggest other missing nice projects either by comments or pull requ
 * [Orpheus](http://sourceforge.net/projects/tporpheus) ([Newest ![GitHub Repo Stars](https://img.shields.io/github/stars/TurboPack/Orpheus) ![GitHub last commit](https://img.shields.io/github/last-commit/TurboPack/Orpheus)](https://github.com/TurboPack/Orpheus) and maintained version for recent compiler version only). `[Delphi]` Award-winning UI toolkit for Borland Delphi & C++Builder. It contains over 120 components covering everything from data entry to calendars and clocks. Other noteworthy components include an Object Inspector, LookOut bar & report views.
 // *Advanced edits, comboboxes, grids + component (de)serializers. GUI components look rather old-style, theme support might be limited. Package contains many demos but no docs seem available. Second link points to an adapted version for newest compiler versions.*
 
-* [KControls ![GitHub Repo Stars](https://img.shields.io/github/stars/ThomasJaeger/KControls) ![GitHub last commit](https://img.shields.io/github/last-commit/ThomasJaeger/KControls)](https://github.com/ThomasJaeger/KControls). `[Delphi]` `[FPC]` Control components. All controls have been written with the aim to become both cross-IDE compatible (Delphi/C++Builder VCL and Lazarus LCL) and cross-platform compatible in Lazarus.
+* [KControls ![GitHub Repo Stars](https://img.shields.io/github/stars/kryslt/KControls) ![GitHub last commit](https://img.shields.io/github/last-commit/kryslt/KControls)](https://github.com/kryslt/KControls). `[Delphi]` `[FPC]` Control components. All controls have been written with the aim to become both cross-IDE compatible (Delphi/C++Builder VCL and Lazarus LCL) and cross-platform compatible in Lazarus.
 // *Most useful are TKGrid with its DB-aware heritage TKDBGrid — a very full-featured grid implementation incl. inplace editors. There's also hex editor, print preview, editors, labels, buttons etc.*
 
 * [D.P.F Delphi Android](http://sourceforge.net/projects/dpfdelphiandroid) / [D.P.F Delphi iOS](http://sourceforge.net/projects/dpfdelphiios) native components. `[Delphi]` D.P.F Delphi Native Components, 100% iOS Performance and styles. Develop iPhone & iPad & iPod Touch applications with fast native performance and native styles. Use native Android controls and services. Fast native performance. Mixed with FM VCL controls. Can be quick updated with latest Android controls & features.
@@ -572,9 +573,9 @@ Feel free to suggest other missing nice projects either by comments or pull requ
 
 * [SciDe ![GitHub Repo Stars](https://img.shields.io/github/stars/da-baranov/SciDe) ![GitHub last commit](https://img.shields.io/github/last-commit/da-baranov/SciDe)](https://github.com/da-baranov/SciDe). `[Delphi]` `[FPC]` [Sciter](https://sciter.com) (Embeddable HTML/CSS/script engine) wrapper for Delphi.
 
-* [ATBinHex for Delphi ![GitHub Repo Stars](https://img.shields.io/github/stars/Alexey-T/ATViewer) ![GitHub last commit](https://img.shields.io/github/last-commit/Alexey-T/ATViewer)](https://github.com/Alexey-T/ATViewer/blob/master/Source/ATBinHex.pas) `[Delphi]`, [ATBinHex for Laz ![GitHub Repo Stars](https://img.shields.io/github/stars/Alexey-T/ATBinHex-Lazarus) ![GitHub last commit](https://img.shields.io/github/last-commit/Alexey-T/ATBinHex-Lazarus)](https://github.com/Alexey-T/ATBinHex-Lazarus). `[FPC]` Viewer for files of unlimited size like in Total Commander.
+* [ATBinHex for Delphi ![GitHub Repo Stars](https://img.shields.io/github/stars/Alexey-T/ATViewer) ![GitHub last commit](https://img.shields.io/github/last-commit/Alexey-T/ATViewer)](https://github.com/Alexey-T/ATViewer/blob/master/Source/ATBinHex.pas). `[Delphi]`, [ATBinHex for Laz ![GitHub Repo Stars](https://img.shields.io/github/stars/Alexey-T/ATBinHex-Lazarus) ![GitHub last commit](https://img.shields.io/github/last-commit/Alexey-T/ATBinHex-Lazarus)](https://github.com/Alexey-T/ATBinHex-Lazarus). `[FPC]` Viewer for files of unlimited size like in Total Commander.
 
-* [ATImageBox for Delphi ![GitHub Repo Stars](https://img.shields.io/github/stars/Alexey-T/ATViewer) ![GitHub last commit](https://img.shields.io/github/last-commit/Alexey-T/ATViewer)](https://github.com/Alexey-T/ATViewer/blob/master/Source/ATImageBox.pas) `[Delphi]`, [ATImageBox for Laz ![GitHub Repo Stars](https://img.shields.io/github/stars/Alexey-T/ATImageBox-Lazarus) ![GitHub last commit](https://img.shields.io/github/last-commit/Alexey-T/ATImageBox-Lazarus)](https://github.com/Alexey-T/ATImageBox-Lazarus). `[FPC]` TScrollBox with embedded TImage. Control can auto position image inside.
+* [ATImageBox for Delphi ![GitHub Repo Stars](https://img.shields.io/github/stars/Alexey-T/ATViewer) ![GitHub last commit](https://img.shields.io/github/last-commit/Alexey-T/ATViewer)](https://github.com/Alexey-T/ATViewer/blob/master/Source/ATImageBox.pas). `[Delphi]`, [ATImageBox for Laz ![GitHub Repo Stars](https://img.shields.io/github/stars/Alexey-T/ATImageBox-Lazarus) ![GitHub last commit](https://img.shields.io/github/last-commit/Alexey-T/ATImageBox-Lazarus)](https://github.com/Alexey-T/ATImageBox-Lazarus). `[FPC]` TScrollBox with embedded TImage. Control can auto position image inside.
 
 * [CEF4Delphi ![GitHub Repo Stars](https://img.shields.io/github/stars/salvadordf/CEF4Delphi) ![GitHub last commit](https://img.shields.io/github/last-commit/salvadordf/CEF4Delphi)](https://github.com/salvadordf/CEF4Delphi). `[Delphi]` `[FPC]` Project to embed Chromium-based browsers in applications made with Delphi or Lazarus/FPC
 
@@ -650,7 +651,7 @@ Feel free to suggest other missing nice projects either by comments or pull requ
 
 * [tDBF](http://sourceforge.net/p/tdbf/code/HEAD/tree). `[Delphi]` `[FPC]` Native dBASE III+, dBase IV and dBase 2k data access component for Delphi, BCB, Kylix, FreePascal. It allows you to create very compact database programs which don't need any special installer programs. The DB engine code is compiled right into your executable.
 
-* [Redis client ![GitHub Repo Stars](https://img.shields.io/github/stars/danieleteti/delphiredisclient) ![GitHub last commit](https://img.shields.io/github/last-commit/danieleteti/delphiredisclient)](https://github.com/danieleteti/delphiredisclient) `[Delphi]` Delphi Redis Client version 2 is compatible with Delphi 10.1 Berlin and better. WARNING! If you use an older Delphi version you have to use [Delphi Redis Client Version 1 ![GitHub Repo Stars](https://img.shields.io/github/stars/danieleteti/delphiredisclient) ![GitHub last commit](https://img.shields.io/github/last-commit/danieleteti/delphiredisclient)](https://github.com/danieleteti/delphiredisclient/tree/DELPHI_REDIS_CLIENT_VERSION_1) wich works for Delphi 10 Seattle, XE8, XE7, XE6 and XE5 (should works also with older versions). This client is able to send all Redis commands and read the response using an internal parser.
+* [Redis client ![GitHub Repo Stars](https://img.shields.io/github/stars/danieleteti/delphiredisclient) ![GitHub last commit](https://img.shields.io/github/last-commit/danieleteti/delphiredisclient)](https://github.com/danieleteti/delphiredisclient). `[Delphi]` Delphi Redis Client version 2 is compatible with Delphi 10.1 Berlin and better. WARNING! If you use an older Delphi version you have to use [Delphi Redis Client Version 1 ![GitHub Repo Stars](https://img.shields.io/github/stars/danieleteti/delphiredisclient) ![GitHub last commit](https://img.shields.io/github/last-commit/danieleteti/delphiredisclient)](https://github.com/danieleteti/delphiredisclient/tree/DELPHI_REDIS_CLIENT_VERSION_1) wich works for Delphi 10 Seattle, XE8, XE7, XE6 and XE5 (should works also with older versions). This client is able to send all Redis commands and read the response using an internal parser.
 
 * [QDAC3](http://blog.qdac.cc/?page_id=139) (SVN: svn://www.qdac.cc/QDAC3). `[Delphi]` Stands for quick data access components. Useful units such as QJson (easy to use json unit), QWorker (job delivery) etc.
 // *Description and comments in Chinese, author is not good at English. Haven't tested this library by myself.*
@@ -679,7 +680,7 @@ Feel free to suggest other missing nice projects either by comments or pull requ
 
 * [d-ORModel ![GitHub Repo Stars](https://img.shields.io/github/stars/ultraware/d-ORModel) ![GitHub last commit](https://img.shields.io/github/last-commit/ultraware/d-ORModel)](https://github.com/ultraware/d-ORModel). `[Delphi]` ORM for Delphi, based on models and object fields. LINQ support, fully typed and compile time checks.
 
-* [Trysil ![GitHub Repo Stars](https://img.shields.io/github/stars/davidlastrucci/Trysil) ![GitHub last commit](https://img.shields.io/github/last-commit/davidlastrucci/Trysil)](https://github.com/davidlastrucci/Trysil) `[Delphi]` ORM (Object-Relational Mapping) for Delphi. Supports for SQLServer, FirebirdSQL and SQLite.
+* [Trysil ![GitHub Repo Stars](https://img.shields.io/github/stars/davidlastrucci/Trysil) ![GitHub last commit](https://img.shields.io/github/last-commit/davidlastrucci/Trysil)](https://github.com/davidlastrucci/Trysil). `[Delphi]` ORM (Object-Relational Mapping) for Delphi. Supports for SQLServer, FirebirdSQL and SQLite.
 
 * [SQLite for Delphi and FreePascal/Lazarus ![GitHub Repo Stars](https://img.shields.io/github/stars/plashenkov/SQLite3-Delphi-FPC) ![GitHub last commit](https://img.shields.io/github/last-commit/plashenkov/SQLite3-Delphi-FPC)](https://github.com/plashenkov/SQLite3-Delphi-FPC). `[Delphi]` `[FPC]` Complete SQLite3 API translation for Delphi and FreePascal/Lazarus, as well as a simple Unicode-enabled object wrapper to simplify the use of this database engine.
 
@@ -861,7 +862,7 @@ Feel free to suggest other missing nice projects either by comments or pull requ
 
 * [THTMLWriter ![GitHub Repo Stars](https://img.shields.io/github/stars/NickHodges/delphihtmlwriter) ![GitHub last commit](https://img.shields.io/github/last-commit/NickHodges/delphihtmlwriter)](https://github.com/NickHodges/delphihtmlwriter). `[Delphi]` Class library that enables the developer to create HTML and HTML documents. It uses the fluent interface to make creating HTML text easy and natural.
 
-* [Neon ![GitHub Repo Stars](https://img.shields.io/github/stars/paolo-rossi/delphi-neon) ![GitHub last commit](https://img.shields.io/github/last-commit/paolo-rossi/delphi-neon)](https://github.com/paolo-rossi/delphi-neon) `[Delphi]` Serialization library for Delphi that helps you to convert (back and forth) objects and other values to JSON. It supports simple Delphi types but also complex class and records. Neon has been designed with REST in mind, to exchange pure data between applications with no "metadata" or added fields
+* [Neon ![GitHub Repo Stars](https://img.shields.io/github/stars/paolo-rossi/delphi-neon) ![GitHub last commit](https://img.shields.io/github/last-commit/paolo-rossi/delphi-neon)](https://github.com/paolo-rossi/delphi-neon). `[Delphi]` Serialization library for Delphi that helps you to convert (back and forth) objects and other values to JSON. It supports simple Delphi types but also complex class and records. Neon has been designed with REST in mind, to exchange pure data between applications with no "metadata" or added fields
 
 * [YAML/JSON ParserTools ![GitHub Repo Stars](https://img.shields.io/github/stars/biot2/Yaml.Json.Parser) ![GitHub last commit](https://img.shields.io/github/last-commit/biot2/Yaml.Json.Parser)](https://github.com/biot2/Yaml.Json.Parser). `[Delphi]` `[FPC]` YAML and JSON parser, serializer and deserializer with YAML to JSON and vice versa conversion tools containing pure Object Pascal source code for both Delphi and Lazarus
 
@@ -921,7 +922,7 @@ Feel free to suggest other missing nice projects either by comments or pull requ
 
 * [AsyncCalls ![GitHub Repo Stars](https://img.shields.io/github/stars/ahausladen/AsyncCalls) ![GitHub last commit](https://img.shields.io/github/last-commit/ahausladen/AsyncCalls)](https://github.com/ahausladen/AsyncCalls). `[Delphi]` Asynchronous function call framework
 
-* [Storage Access Framework SAF ![GitHub Repo Stars](https://img.shields.io/github/stars/emozgun/delphi-android-SAF) ![GitHub last commit](https://img.shields.io/github/last-commit/emozgun/delphi-android-SAF)](https://github.com/emozgun/delphi-android-SAF) `[Delphi]` Android Scoped Storage : Storage Access Framework SAF API
+* [Storage Access Framework SAF ![GitHub Repo Stars](https://img.shields.io/github/stars/emozgun/delphi-android-SAF) ![GitHub last commit](https://img.shields.io/github/last-commit/emozgun/delphi-android-SAF)](https://github.com/emozgun/delphi-android-SAF). `[Delphi]` Android Scoped Storage : Storage Access Framework SAF API
 
 
 ## Template
@@ -988,7 +989,10 @@ Feel free to suggest other missing nice projects either by comments or pull requ
 
 * [DFF Library](http://www.delphiforfun.org/programs/library/Default.htm). `[Delphi]` `[FPC]` Big Floating Point, Big Integers, Astronomical calcualtions
 
-* [LMath](https://sourceforge.net/projects/lmath-library) `[FPC]` Provides routines and demo programs for numerical analysis, including mathematical functions, probabilities, matrices, optimization, linear and nonlinear equations, integration, Fast Fourier Transform, random numbers, curve fitting, statistics and graphics. It is entirely written in Pascal and does not depend on external libraries.
+* [LMath](https://sourceforge.net/projects/lmath-library). `[FPC]` Provides routines and demo programs for numerical analysis, including mathematical functions, probabilities, matrices, optimization, linear and nonlinear equations, integration, Fast Fourier Transform, random numbers, curve fitting, statistics and graphics. It is entirely written in Pascal and does not depend on external libraries.
+
+* [mrMath ![GitHub Repo Stars](https://img.shields.io/github/stars/mikerabat/mrmath) ![GitHub last commit](https://img.shields.io/github/last-commit/mikerabat/mrmath)](https://github.com/mikerabat/mrmath). `[Delphi]` `[FPC]` High-performance, multithreaded matrix and linear algebra library featuring hand-optimized assembler routines for SSE, AVX, AVX2 and FMA. Provides core decompositions (SVD, LU, QR, Hessian, Cholesky), optimized eigenvalue solvers for symmetric matrices, and advanced algorithms such as PCA, CCA, non-negative matrix factorization, SSA, wavelet transforms, RBF splines, t-SNE, and linear/non-linear least-squares fitting. Supports Windows and Linux on both 32-bit and 64-bit platforms.
+
 
 ## Command-line
 
@@ -1096,6 +1100,8 @@ Feel free to suggest other missing nice projects either by comments or pull requ
 * [GraphQL for Delphi ![GitHub Repo Stars](https://img.shields.io/github/stars/lminuti/graphql) ![GitHub last commit](https://img.shields.io/github/last-commit/lminuti/graphql)](https://github.com/lminuti/graphql). `[Delphi]` Simple implementation for GraphQL, a query language for APIs created by Facebook. GraphQL is a query language for your API and a server-side runtime for executing queries using a type system you define for your data. GraphQL isn't tied to any specific database or storage engine and is instead backed by your existing code and data.
 
 * [GraphQL Constructor ![GitHub Repo Stars](https://img.shields.io/github/stars/HemulGM/GraphQL) ![GitHub last commit](https://img.shields.io/github/last-commit/HemulGM/GraphQL)](https://github.com/HemulGM/GraphQL). `[Delphi]` GraphQL Constructor (constructor only)
+
+* [ACBr (Commercial Automation Brazil)](https://sourceforge.net/projects/acbr/) ([GitHub mirror ![GitHub Repo Stars](https://img.shields.io/github/stars/ProjetoACBr/ACBr) ![GitHub last commit](https://img.shields.io/github/last-commit/ProjetoACBr/ACBr)](https://github.com/ProjetoACBr/ACBr), [Organization page in GitHub](https://github.com/Projeto-ACBr-Oficial). `[Delphi]` `[FPC]` Set of components and libraries for Delphi and Lazarus, designed to simplify the development of commercial automation systems in Brazil. It is widely used by developers who need to integrate their software with fiscal obligations and automation equipment
 
 
 ## OS ##
@@ -1261,7 +1267,7 @@ Feel free to suggest other missing nice projects either by comments or pull requ
 
 * [Pascal ![GitHub Repo Stars](https://img.shields.io/github/stars/alefragnani/vscode-language-pascal) ![GitHub last commit](https://img.shields.io/github/last-commit/alefragnani/vscode-language-pascal)](https://github.com/alefragnani/vscode-language-pascal) and [Pascal Formatter ![GitHub Repo Stars](https://img.shields.io/github/stars/alefragnani/vscode-pascal-formatter) ![GitHub last commit](https://img.shields.io/github/last-commit/alefragnani/vscode-pascal-formatter)](https://github.com/alefragnani/vscode-pascal-formatter). Open source extensions created for Visual Studio Code that add Pascal support.
 
-* [Intellij IDEA Object Pascal plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/casteng/i-pascal) ![GitHub last commit](https://img.shields.io/github/last-commit/casteng/i-pascal)](https://github.com/casteng/i-pascal) `[Delphi]` `[FPC]` A free Object Pascal language plugin for IntelliJ IDEA
+* [Intellij IDEA Object Pascal plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/casteng/i-pascal) ![GitHub last commit](https://img.shields.io/github/last-commit/casteng/i-pascal)](https://github.com/casteng/i-pascal). `[Delphi]` `[FPC]` A free Object Pascal language plugin for IntelliJ IDEA
 
 
 ## Documentation
