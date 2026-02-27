@@ -644,7 +644,8 @@ language.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [player-ada ![GitHub Repo Stars](https://img.shields.io/github/stars/mosteo/player-ada) ![GitHub last commit](https://img.shields.io/github/last-commit/mosteo/player-ada)](https://github.com/mosteo/player-ada) - Ada bindings for the player robotic platform.
 
 ### Linux and POSIX
-- [florist](https://www.cs.fsu.edu/~baker/florist.html) - POSIX Ada binding, IEEE Standards 1003.5(b,c).
+- [florist ![GitHub Repo Stars](https://img.shields.io/github/stars/AdaCore/florist) ![GitHub last commit](https://img.shields.io/github/last-commit/AdaCore/florist)](https://github.com/AdaCore/florist/) - POSIX Ada binding, IEEE Standards 1003.5(b,c).
+- [florist-blady ![GitHub Repo Stars](https://img.shields.io/github/stars/Blady-Com/florist) ![GitHub last commit](https://img.shields.io/github/last-commit/Blady-Com/florist)](https://github.com/Blady-Com/florist) - A fork of Florist which is available as an Alire crate.
 - [wposix ![GitHub Repo Stars](https://img.shields.io/github/stars/AdaCore/wposix) ![GitHub last commit](https://img.shields.io/github/last-commit/AdaCore/wposix)](https://github.com/AdaCore/wposix) - Ada Windows POSIX binding.
 - [ada-v4l2 ![GitHub Repo Stars](https://img.shields.io/github/stars/frett27/AdaV4L2) ![GitHub last commit](https://img.shields.io/github/last-commit/frett27/AdaV4L2)](https://github.com/frett27/AdaV4L2) - Ada Posix Binding to Video 4 Linux, used for RPI.
 - [inotify-ada ![GitHub Repo Stars](https://img.shields.io/github/stars/onox/inotify-ada) ![GitHub last commit](https://img.shields.io/github/last-commit/onox/inotify-ada)](https://github.com/onox/inotify-ada) - An Ada 2012 library for monitoring filesystem events using Linux' inotify API.
