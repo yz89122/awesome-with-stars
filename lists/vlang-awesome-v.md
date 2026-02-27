@@ -303,6 +303,7 @@ SDL2 and SDL3 based applications importing `vlang/sdl`.
 
 ### Telegram
 
+- [velegram ![GitHub Repo Stars](https://img.shields.io/github/stars/tailsmails/velegram) ![GitHub last commit](https://img.shields.io/github/last-commit/tailsmails/velegram)](https://github.com/tailsmails/velegram) - A V language wrapper for TDLib (Telegram Database Library).
 - [vgram ![GitHub Repo Stars](https://img.shields.io/github/stars/dariotarantini/vgram) ![GitHub last commit](https://img.shields.io/github/last-commit/dariotarantini/vgram)](https://github.com/dariotarantini/vgram) - Telegram bot library.
 
 ### Text processing

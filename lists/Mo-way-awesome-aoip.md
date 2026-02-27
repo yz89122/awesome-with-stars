@@ -32,6 +32,7 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 - [Snapcast ![GitHub Repo Stars](https://img.shields.io/github/stars/badaix/snapcast) ![GitHub last commit](https://img.shields.io/github/last-commit/badaix/snapcast)](https://github.com/badaix/snapcast/tree/develop) - FOSS project for a Sonos-like multiroom solution, using a custom TCP-based protocol.
 - [Ravennakit SDK ![GitHub Repo Stars](https://img.shields.io/github/stars/soundondigital/ravennakit) ![GitHub last commit](https://img.shields.io/github/last-commit/soundondigital/ravennakit)](https://github.com/soundondigital/ravennakit) - Provides a cross-platform C++ SDK for professional networked audio using AES67, RAVENNA, and ST2110-30.
 - [Inferno](https://gitlab.com/lumifaza/inferno) - Open source implementation of Dante AoIP in Rust ([GitHub mirror ![GitHub Repo Stars](https://img.shields.io/github/stars/teodly/inferno) ![GitHub last commit](https://img.shields.io/github/last-commit/teodly/inferno)](https://github.com/teodly/inferno/)).
+- [ROC-streaming](https://roc-streaming.org/) - A tool for streaming audio over IP networks using UDP or RTP, specialized for real-time streaming. You write the stream to one end and read it from another end. Roc handles all the complexities.
 
 ### Closed Source
 
