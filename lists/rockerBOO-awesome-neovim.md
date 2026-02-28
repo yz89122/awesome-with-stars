@@ -187,6 +187,7 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 - [barreiroleo/ltex_extra.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/barreiroleo/ltex_extra.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/barreiroleo/ltex_extra.nvim)](https://github.com/barreiroleo/ltex_extra.nvim) - LTeX LSP extension providing external file handling (rules and dictionaries).
 - [chojs23/ts-bridge ![GitHub Repo Stars](https://img.shields.io/github/stars/chojs23/ts-bridge) ![GitHub last commit](https://img.shields.io/github/last-commit/chojs23/ts-bridge)](https://github.com/chojs23/ts-bridge) - TypeScript language server shim that bridges the built-in LSP client with `tsserver`.
 - [akioweh/lsp-document-highlight.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/akioweh/lsp-document-highlight.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/akioweh/lsp-document-highlight.nvim)](https://github.com/akioweh/lsp-document-highlight.nvim) - Instantaneous LSP symbol reference highlighting under the cursor.
+- [nemanjamalesija/ts-expand-hover.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/nemanjamalesija/ts-expand-hover.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/nemanjamalesija/ts-expand-hover.nvim)](https://github.com/nemanjamalesija/ts-expand-hover.nvim) - Progressively expand and collapse TypeScript type aliases inside the hover float.
 
 ### LSP Installer
 
@@ -930,6 +931,7 @@ then it is not supported:
 - [neo451/feed.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/neo451/feed.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/neo451/feed.nvim)](https://github.com/neo451/feed.nvim) - Web feed reader written in Lua (RSS, Atom, JSON feed).
 - [vyfor/cord.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/vyfor/cord.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/vyfor/cord.nvim)](https://github.com/vyfor/cord.nvim) - Highly extensible Rich Presence for Discord.
 - [iamt4nk/smm.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/iamt4nk/smm.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/iamt4nk/smm.nvim)](https://github.com/iamt4nk/smm.nvim) - Small TUI that allows for controlling Spotify playback.
+- [sanjay-np/nvim-yt-player ![GitHub Repo Stars](https://img.shields.io/github/stars/sanjay-np/nvim-yt-player) ![GitHub last commit](https://img.shields.io/github/last-commit/sanjay-np/nvim-yt-player)](https://github.com/sanjay-np/nvim-yt-player) - Play YouTube audio using `mpv` and `yt-dlp` via IPC socket.
 <!--lint disable double-link -->
 [**⬆ back to top**](#contents)
 <!--lint enable double-link -->
