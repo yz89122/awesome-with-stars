@@ -16,7 +16,7 @@ The Technology's Division's Resource Repository is [sponsored ![GitHub Repo Star
 <div style=text-align:center;>
 		<br>
 		<a href="https://www.esri.com/en-us/home">
-			<img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/Esri_logo.svg/2560px-Esri_logo.svg.png" width="160"/>
+			<img src="https://github.com/APA-Technology-Division/urban-and-regional-planning-resources/blob/main/assets/Esri%20Logo%20PNG%20SVG%20Vector-01.png" width="160"/>
 		</a>
     <br>
 
@@ -333,6 +333,7 @@ A collection of urban planning related data specifications and standards for use
 - [MTLFS ![GitHub Repo Stars](https://img.shields.io/github/stars/vta/Managed-and-Tolled-Lanes-Feed-Specification) ![GitHub last commit](https://img.shields.io/github/last-commit/vta/Managed-and-Tolled-Lanes-Feed-Specification)](https://github.com/vta/Managed-and-Tolled-Lanes-Feed-Specification) - The Managed and Tolled Lanes Feed Specification is intended to be used by the managed lanes and toll industry for the standardization and sharing of dynamic toll rates, and any managed lane purpose including but not limited to, ramp metering, bus only lanes, express lanes, especially if the resources are being priced dynamically.
 - [GMNS ![GitHub Repo Stars](https://img.shields.io/github/stars/zephyr-data-specs/GMNS) ![GitHub last commit](https://img.shields.io/github/last-commit/zephyr-data-specs/GMNS)](https://github.com/zephyr-data-specs/GMNS) - The General Modeling Network Specification defines a common human and machine readable format for sharing routable road network files.
 - [OpenDrive](https://www.asam.net/standards/detail/opendrive/) - The data that is stored in an ASAM OpenDRIVE file describes the geometry of roads, lanes and objects, such as roadmarks on the road, as well as features along the roads, like signals.
+- [GATIS](https://dotbts.github.io/BPA/) - A data specification for active transportation infrastructure that is supported by the National Collaboration on Bicycle, Pedestrian, and Accessibility Infrastructure Data (NC-BPAID).
 
 ## Planning Coding Resources
 This is a curated list of Python, R, or other open-source libraries or programming tools can be useful for urban planning applications.
