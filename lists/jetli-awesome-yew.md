@@ -125,6 +125,8 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 - [diff.rs ![GitHub Repo Stars](https://img.shields.io/github/stars/xfbs/diff.rs) ![GitHub last commit](https://img.shields.io/github/last-commit/xfbs/diff.rs)](https://github.com/xfbs/diff.rs) - Web application to render a diff between Rust crate versions. Implemented in Yew, runs fully in the browser as WebAssembly, [Live Demo](https://diff.rs).
 - [konnektoren.help ![GitHub Repo Stars](https://img.shields.io/github/stars/Konnektoren/konnektoren-web-game) ![GitHub last commit](https://img.shields.io/github/last-commit/Konnektoren/konnektoren-web-game)](https://github.com/Konnektoren/konnektoren-web-game) - An interactive web application for learning German grammar, featuring gamified challenges and a map-based interface. [Web App](https://konnektoren.help)
 - [layout-viewer](https://prideout.net/layout-viewer) - Examine layouts of integrated circuits with zoom and pan controls.
+- [Google Wasefire ![GitHub Repo Stars](https://img.shields.io/github/stars/google/wasefire) ![GitHub last commit](https://img.shields.io/github/last-commit/google/wasefire)](https://github.com/google/wasefire) - Secure firmware framework focusing on developer experience.
+- [Apache Iggy ![GitHub Repo Stars](https://img.shields.io/github/stars/apache/iggy) ![GitHub last commit](https://img.shields.io/github/last-commit/apache/iggy)](https://github.com/apache/iggy) - Apache Iggy: Hyper-Efficient Message Streaming at Laser Speed.
 
 ## Templates
 
