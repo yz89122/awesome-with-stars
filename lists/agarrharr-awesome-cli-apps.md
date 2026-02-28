@@ -726,11 +726,12 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 
 ## Other Resources
 
-- [awesome-git-addons ![GitHub Repo Stars](https://img.shields.io/github/stars/stevemao/awesome-git-addons) ![GitHub last commit](https://img.shields.io/github/last-commit/stevemao/awesome-git-addons)](https://github.com/stevemao/awesome-git-addons#readme) - Addons that extend git cli.
+- [awesome-cli-apps-in-a-csv ![GitHub Repo Stars](https://img.shields.io/github/stars/toolleeo/awesome-cli-apps-in-a-csv) ![GitHub last commit](https://img.shields.io/github/last-commit/toolleeo/awesome-cli-apps-in-a-csv)](https://github.com/toolleeo/awesome-cli-apps-in-a-csv) - Extensive list of cli apps.
 - [awesome-shell ![GitHub Repo Stars](https://img.shields.io/github/stars/alebcay/awesome-shell) ![GitHub last commit](https://img.shields.io/github/last-commit/alebcay/awesome-shell)](https://github.com/alebcay/awesome-shell#readme) – Command-line utilities and frameworks.
 - [terminals-are-sexy ![GitHub Repo Stars](https://img.shields.io/github/stars/k4m4/terminals-are-sexy) ![GitHub last commit](https://img.shields.io/github/last-commit/k4m4/terminals-are-sexy)](https://github.com/k4m4/terminals-are-sexy#readme) – Terminal frameworks, plugins & resources.
 - [awesome-zsh-plugins ![GitHub Repo Stars](https://img.shields.io/github/stars/unixorn/awesome-zsh-plugins) ![GitHub last commit](https://img.shields.io/github/last-commit/unixorn/awesome-zsh-plugins)](https://github.com/unixorn/awesome-zsh-plugins#readme) – ZSH frameworks, plugins, tutorials & themes.
 - [awesome-nodejs clis ![GitHub Repo Stars](https://img.shields.io/github/stars/sindresorhus/awesome-nodejs) ![GitHub last commit](https://img.shields.io/github/last-commit/sindresorhus/awesome-nodejs)](https://github.com/sindresorhus/awesome-nodejs#command-line-apps) – Node.js modules and resources.
+- [awesome-git-addons ![GitHub Repo Stars](https://img.shields.io/github/stars/stevemao/awesome-git-addons) ![GitHub last commit](https://img.shields.io/github/last-commit/stevemao/awesome-git-addons)](https://github.com/stevemao/awesome-git-addons#readme) - Addons that extend git cli.
 - [x-cmd ![GitHub Repo Stars](https://img.shields.io/github/stars/x-cmd/x-cmd) ![GitHub last commit](https://img.shields.io/github/last-commit/x-cmd/x-cmd)](https://github.com/x-cmd/x-cmd) - Ecosystem of cli tools, featuring a wide array of improve core utils, AI access and more.
 
 ## License
