@@ -932,6 +932,7 @@ Any comments, suggestions? [Let us know! ![GitHub Repo Stars](https://img.shield
 ## Input Methods
 
 * [Kawa ![GitHub Repo Stars](https://img.shields.io/github/stars/utatti/kawa) ![GitHub last commit](https://img.shields.io/github/last-commit/utatti/kawa)](https://github.com/utatti/kawa) - Better input source switcher for OS X. [![Open-Source Software][OSS Icon]](https://github.com/utatti/kawa) ![Freeware][Freeware Icon]
+* [LangSwitcher ![GitHub Repo Stars](https://img.shields.io/github/stars/reg2005/langSwitcher) ![GitHub last commit](https://img.shields.io/github/last-commit/reg2005/langSwitcher)](https://github.com/reg2005/langSwitcher) - Open-source keyboard layout text converter. Select text typed in wrong layout, press ⇧⇧ and it's instantly converted. Supports EN/RU/DE/FR/ES. [![Open-Source Software][OSS Icon]](https://github.com/reg2005/langSwitcher) ![Freeware][Freeware Icon]
 * [Rocket](http://matthewpalmer.net/rocket/) - Makes typing emoji faster and easier using Slack-style shortcuts. ![Freeware][Freeware Icon]
 * [Touch Emoji ![GitHub Repo Stars](https://img.shields.io/github/stars/lessmess-dev/touch-emoji) ![GitHub last commit](https://img.shields.io/github/last-commit/lessmess-dev/touch-emoji)](https://github.com/lessmess-dev/touch-emoji) - Emoji picker for MacBook Pro Touch Bar. [![Open-Source Software][OSS Icon]](https://github.com/lessmess-dev/touch-emoji)
 * [Type2Phone](https://www.houdah.com/type2Phone/) - Use Your Mac as Keyboard for iPhone, iPad & Apple TV.
