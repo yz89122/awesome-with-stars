@@ -26,15 +26,12 @@ Inspired by the [awesome ![GitHub Repo Stars](https://img.shields.io/github/star
    - [Delphi](#delphi)
    - [Elixir](#elixir)
    - [Erlang](#erlang)
-   - [Fantom](#fantom)
    - [Go](#go)
    - [Haskell](#haskell)
    - [Java](#java)
    - [JavaScript](#javascript)
-   - [Julia](#julia)
    - [Kotlin](#kotlin)
    - [Lisp](#lisp)
-   - [Mathematica](#mathematica)
    - [OCaml](#ocaml)
    - [PHP](#php)
    - [PowerShell](#powershell)
@@ -112,8 +109,6 @@ Inspired by the [awesome ![GitHub Repo Stars](https://img.shields.io/github/star
 ### C#/.NET ###
  - [mongo-csharp-driver ![GitHub Repo Stars](https://img.shields.io/github/stars/mongodb/mongo-csharp-driver) ![GitHub last commit](https://img.shields.io/github/last-commit/mongodb/mongo-csharp-driver)](https://github.com/mongodb/mongo-csharp-driver) - Official C# driver
  - [mongo-efcore-provider ![GitHub Repo Stars](https://img.shields.io/github/stars/mongodb/mongo-efcore-provider) ![GitHub last commit](https://img.shields.io/github/last-commit/mongodb/mongo-efcore-provider)](https://github.com/mongodb/mongo-efcore-provider) - Official Entity Framework (EF) Core provider for MongoDB
- - [mongo-queue-csharp ![GitHub Repo Stars](https://img.shields.io/github/stars/dominionenterprises/mongo-queue-csharp) ![GitHub last commit](https://img.shields.io/github/last-commit/dominionenterprises/mongo-queue-csharp)](https://github.com/dominionenterprises/mongo-queue-csharp) - C# message queue on top of MongoDB
- - [MongoDB Messaging ![GitHub Repo Stars](https://img.shields.io/github/stars/loresoft/MongoDB.Messaging) ![GitHub last commit](https://img.shields.io/github/last-commit/loresoft/MongoDB.Messaging)](https://github.com/loresoft/MongoDB.Messaging) - Lightweight queue pub/sub processing library
  - [MongoRepository ![GitHub Repo Stars](https://img.shields.io/github/stars/RobThree/MongoRepository) ![GitHub last commit](https://img.shields.io/github/last-commit/RobThree/MongoRepository)](https://github.com/RobThree/MongoRepository) - Repository abstraction layer on top of the C# driver
 
 ### D
@@ -134,14 +129,10 @@ Inspired by the [awesome ![GitHub Repo Stars](https://img.shields.io/github/star
 ### Erlang
  - [mongodb-erlang ![GitHub Repo Stars](https://img.shields.io/github/stars/comtihon/mongodb-erlang) ![GitHub last commit](https://img.shields.io/github/last-commit/comtihon/mongodb-erlang)](https://github.com/comtihon/mongodb-erlang) - Community Erlang driver
 
-### Fantom
- - [afMongo ![GitHub Repo Stars](https://img.shields.io/github/stars/Fantom-Factory/afMongo) ![GitHub last commit](https://img.shields.io/github/last-commit/Fantom-Factory/afMongo)](https://github.com/Fantom-Factory/afMongo) - Community Fantom driver
-
 ### Go
  - [Bongo ![GitHub Repo Stars](https://img.shields.io/github/stars/go-bongo/bongo) ![GitHub last commit](https://img.shields.io/github/last-commit/go-bongo/bongo)](https://github.com/go-bongo/bongo) - ODM based on mgo
  - [bsonic ![GitHub Repo Stars](https://img.shields.io/github/stars/kyle-williams-1/bsonic) ![GitHub last commit](https://img.shields.io/github/last-commit/kyle-williams-1/bsonic)](https://github.com/kyle-williams-1/bsonic) - Parse Lucene-style query syntax into BSON filters for MongoDB
  - [mgo ![GitHub Repo Stars](https://img.shields.io/github/stars/globalsign/mgo) ![GitHub last commit](https://img.shields.io/github/last-commit/globalsign/mgo)](https://github.com/globalsign/mgo) - Community Go driver
- - [minquery ![GitHub Repo Stars](https://img.shields.io/github/stars/icza/minquery) ![GitHub last commit](https://img.shields.io/github/last-commit/icza/minquery)](https://github.com/icza/minquery) - MongoDB cursor that paginates
  - [mongo-go-driver ![GitHub Repo Stars](https://img.shields.io/github/stars/mongodb/mongo-go-driver) ![GitHub last commit](https://img.shields.io/github/last-commit/mongodb/mongo-go-driver)](https://github.com/mongodb/mongo-go-driver) - Official Go driver
 
 ### Haskell
@@ -151,18 +142,14 @@ Inspired by the [awesome ![GitHub Repo Stars](https://img.shields.io/github/star
  - [Jongo ![GitHub Repo Stars](https://img.shields.io/github/stars/bguerout/jongo) ![GitHub last commit](https://img.shields.io/github/last-commit/bguerout/jongo)](https://github.com/bguerout/jongo) - Query in Java as in Mongo shell
  - [Hibernate OGM ![GitHub Repo Stars](https://img.shields.io/github/stars/hibernate/hibernate-ogm) ![GitHub last commit](https://img.shields.io/github/last-commit/hibernate/hibernate-ogm)](https://github.com/hibernate/hibernate-ogm) - The power and simplicity of JPA for NoSQL datastores
  - [mongo-java-driver ![GitHub Repo Stars](https://img.shields.io/github/stars/mongodb/mongo-java-driver) ![GitHub last commit](https://img.shields.io/github/last-commit/mongodb/mongo-java-driver)](https://github.com/mongodb/mongo-java-driver) - Official Java driver
- - [mongo-queue-java ![GitHub Repo Stars](https://img.shields.io/github/stars/yonderblue/mongo-queue-java) ![GitHub last commit](https://img.shields.io/github/last-commit/yonderblue/mongo-queue-java)](https://github.com/yonderblue/mongo-queue-java) - Java message queue on top of MongoDB
- - [mongoFS ![GitHub Repo Stars](https://img.shields.io/github/stars/dbuschman7/mongoFS) ![GitHub last commit](https://img.shields.io/github/last-commit/dbuschman7/mongoFS)](https://github.com/dbuschman7/mongoFS) - An enhancement of GridFS to allow for more features and capabilities
  - [Mongojack ![GitHub Repo Stars](https://img.shields.io/github/stars/mongojack/mongojack) ![GitHub last commit](https://img.shields.io/github/last-commit/mongojack/mongojack)](https://github.com/mongojack/mongojack) - Based on Jackson, allows you to easily handle your mongo objects as POJOs
  - [Morphia ![GitHub Repo Stars](https://img.shields.io/github/stars/MorphiaOrg/morphia) ![GitHub last commit](https://img.shields.io/github/last-commit/MorphiaOrg/morphia)](https://github.com/MorphiaOrg/morphia) - Java ODM
  - [Morphium ![GitHub Repo Stars](https://img.shields.io/github/stars/sboesebeck/morphium) ![GitHub last commit](https://img.shields.io/github/last-commit/sboesebeck/morphium)](https://github.com/sboesebeck/morphium) - Java ODM and caching layer
- - [Mungbean ![GitHub Repo Stars](https://img.shields.io/github/stars/jannehietamaki/mungbean) ![GitHub last commit](https://img.shields.io/github/last-commit/jannehietamaki/mungbean)](https://github.com/jannehietamaki/mungbean) - Community driver for languages running on the JVM
  - [Spring Data MongoDB ![GitHub Repo Stars](https://img.shields.io/github/stars/spring-projects/spring-data-mongodb) ![GitHub last commit](https://img.shields.io/github/last-commit/spring-projects/spring-data-mongodb)](https://github.com/spring-projects/spring-data-mongodb) - Spring based, object-document support and repositories
 
 ### JavaScript
  - [Camo ![GitHub Repo Stars](https://img.shields.io/github/stars/scottwrobinson/camo) ![GitHub last commit](https://img.shields.io/github/last-commit/scottwrobinson/camo)](https://github.com/scottwrobinson/camo) - Class-based ES6 ODM for Mongo-like databases
  - [deno_mongo ![GitHub Repo Stars](https://img.shields.io/github/stars/denodrivers/mongo) ![GitHub last commit](https://img.shields.io/github/last-commit/denodrivers/mongo)](https://github.com/denodrivers/mongo) - Community Deno driver
- - [DeriveJS ![GitHub Repo Stars](https://img.shields.io/github/stars/yuval-a/derivejs) ![GitHub last commit](https://img.shields.io/github/last-commit/yuval-a/derivejs)](https://github.com/yuval-a/derivejs) - Reactive ODM that uses Javascript Proxies to enable transparent DB persistence
  - [MEAN.JS ![GitHub Repo Stars](https://img.shields.io/github/stars/meanjs/mean) ![GitHub last commit](https://img.shields.io/github/last-commit/meanjs/mean)](https://github.com/meanjs/mean) - Full stack based on MongoDB, Express, AngularJS, and Node.js
  - [MERN (mern-starter) ![GitHub Repo Stars](https://img.shields.io/github/stars/Hashnode/mern-starter) ![GitHub last commit](https://img.shields.io/github/last-commit/Hashnode/mern-starter)](https://github.com/Hashnode/mern-starter) - Full stack based on MongoDB, Express, React and Node.js
  - [Meteor ![GitHub Repo Stars](https://img.shields.io/github/stars/meteor/meteor) ![GitHub last commit](https://img.shields.io/github/last-commit/meteor/meteor)](https://github.com/meteor/meteor) - Real-time/reactive client-server framework based on MongoDB, with lots of features
@@ -170,12 +157,8 @@ Inspired by the [awesome ![GitHub Repo Stars](https://img.shields.io/github/star
  - [Mongoose ![GitHub Repo Stars](https://img.shields.io/github/stars/Automattic/mongoose) ![GitHub last commit](https://img.shields.io/github/last-commit/Automattic/mongoose)](https://github.com/Automattic/mongoose) - Node.js asynchronous ODM
  - [CASL Mongoose ![GitHub Repo Stars](https://img.shields.io/github/stars/stalniy/casl) ![GitHub last commit](https://img.shields.io/github/last-commit/stalniy/casl)](https://github.com/stalniy/casl/tree/master/packages/casl-mongoose) - Permissions management library integrated with Mongoose
  - [mongration ![GitHub Repo Stars](https://img.shields.io/github/stars/awapps/mongration) ![GitHub last commit](https://img.shields.io/github/last-commit/awapps/mongration)](https://github.com/awapps/mongration) - Node.js migration framework
- - [Moonridge ![GitHub Repo Stars](https://img.shields.io/github/stars/capaj/Moonridge) ![GitHub last commit](https://img.shields.io/github/last-commit/capaj/Moonridge)](https://github.com/capaj/Moonridge) - Framework with live querying on top of Mongoose and socket.io
  - [Neuledge ![GitHub Repo Stars](https://img.shields.io/github/stars/neuledge/engine-js) ![GitHub last commit](https://img.shields.io/github/last-commit/neuledge/engine-js)](https://github.com/neuledge/engine-js) - Universal schema-based ORM with multi-state representation for entities
  - [node-mongodb-native ![GitHub Repo Stars](https://img.shields.io/github/stars/mongodb/node-mongodb-native) ![GitHub last commit](https://img.shields.io/github/last-commit/mongodb/node-mongodb-native)](https://github.com/mongodb/node-mongodb-native) - Official Node.js driver
-
-### Julia
- - [Mongo.jl ![GitHub Repo Stars](https://img.shields.io/github/stars/Lytol/Mongo.jl) ![GitHub last commit](https://img.shields.io/github/last-commit/Lytol/Mongo.jl)](https://github.com/Lytol/Mongo.jl) - C driver bindings
 
 ### Kotlin
 - [driver-kotlin-coroutine ![GitHub Repo Stars](https://img.shields.io/github/stars/mongodb/mongo-java-driver) ![GitHub last commit](https://img.shields.io/github/last-commit/mongodb/mongo-java-driver)](https://github.com/mongodb/mongo-java-driver/tree/master/driver-kotlin-coroutine) - Official Kotlin driver
@@ -183,11 +166,6 @@ Inspired by the [awesome ![GitHub Repo Stars](https://img.shields.io/github/star
 
 ### Lisp
  - [cl-mongo ![GitHub Repo Stars](https://img.shields.io/github/stars/fons/cl-mongo) ![GitHub last commit](https://img.shields.io/github/last-commit/fons/cl-mongo)](https://github.com/fons/cl-mongo) - Community Common Lisp interface
- - [mongo-cl-driver ![GitHub Repo Stars](https://img.shields.io/github/stars/archimag/mongo-cl-driver) ![GitHub last commit](https://img.shields.io/github/last-commit/archimag/mongo-cl-driver)](https://github.com/archimag/mongo-cl-driver) Community Common Lisp driver
- - [mongo-el ![GitHub Repo Stars](https://img.shields.io/github/stars/emacsorphanage/mongo) ![GitHub last commit](https://img.shields.io/github/last-commit/emacsorphanage/mongo)](https://github.com/emacsorphanage/mongo) - Community Emacs Lisp driver
-
-### Mathematica
- - [MongoDBLink ![GitHub Repo Stars](https://img.shields.io/github/stars/zbjornson/MongoDBLink) ![GitHub last commit](https://img.shields.io/github/last-commit/zbjornson/MongoDBLink)](https://github.com/zbjornson/MongoDBLink) - Community Mathematica driver
 
 ### OCaml
  - [Mongo.ml](http://massd.github.io/mongo/) - Community OCaml driver
@@ -219,7 +197,6 @@ Inspired by the [awesome ![GitHub Repo Stars](https://img.shields.io/github/star
  - [mongolite ![GitHub Repo Stars](https://img.shields.io/github/stars/jeroen/mongolite) ![GitHub last commit](https://img.shields.io/github/last-commit/jeroen/mongolite)](https://github.com/jeroen/mongolite) - Fast and simple client for R
 
 ### Ruby
- - [awesome_explain ![GitHub Repo Stars](https://img.shields.io/github/stars/sandboxws/awesome_explain) ![GitHub last commit](https://img.shields.io/github/last-commit/sandboxws/awesome_explain)](https://github.com/sandboxws/awesome_explain) - A simple global method to explain Mongoid queries
  - [mongo-ruby-driver ![GitHub Repo Stars](https://img.shields.io/github/stars/mongodb/mongo-ruby-driver) ![GitHub last commit](https://img.shields.io/github/last-commit/mongodb/mongo-ruby-driver)](https://github.com/mongodb/mongo-ruby-driver) - Official Ruby driver
  - [Mongoid ![GitHub Repo Stars](https://img.shields.io/github/stars/mongodb/mongoid) ![GitHub last commit](https://img.shields.io/github/last-commit/mongodb/mongoid)](https://github.com/mongodb/mongoid) - ODM framework
 
@@ -240,14 +217,11 @@ Inspired by the [awesome ![GitHub Repo Stars](https://img.shields.io/github/star
 
 ## Tools
 ### Administration
- - [k8s-backup-mongodb ![GitHub Repo Stars](https://img.shields.io/github/stars/tuladhar/k8s-backup-mongodb) ![GitHub last commit](https://img.shields.io/github/last-commit/tuladhar/k8s-backup-mongodb)](https://github.com/tuladhar/k8s-backup-mongodb) - Schedule MongoDB backups to S3 with a Kubernetes CronJob.
  - [mgob ![GitHub Repo Stars](https://img.shields.io/github/stars/stefanprodan/mgob) ![GitHub last commit](https://img.shields.io/github/last-commit/stefanprodan/mgob)](https://github.com/stefanprodan/mgob) - Full-featured MongoDB dockerized backup agent
  - [mongoctl ![GitHub Repo Stars](https://img.shields.io/github/stars/mongolab/mongoctl) ![GitHub last commit](https://img.shields.io/github/last-commit/mongolab/mongoctl)](https://github.com/mongolab/mongoctl) - Manage MongoDB servers and replica sets using JSON configurations
- - [MongoDB Smasher ![GitHub Repo Stars](https://img.shields.io/github/stars/duckie/mongo_smasher) ![GitHub last commit](https://img.shields.io/github/last-commit/duckie/mongo_smasher)](https://github.com/duckie/mongo_smasher) - Generate randomized datasets and benchmark your setup
  - [mongodb-tools ![GitHub Repo Stars](https://img.shields.io/github/stars/jwilder/mongodb-tools) ![GitHub last commit](https://img.shields.io/github/last-commit/jwilder/mongodb-tools)](https://github.com/jwilder/mongodb-tools) - Three neat Python scripts to work with collections and indexes
  - [mtools ![GitHub Repo Stars](https://img.shields.io/github/stars/rueckstiess/mtools) ![GitHub last commit](https://img.shields.io/github/last-commit/rueckstiess/mtools)](https://github.com/rueckstiess/mtools) - Collection of scripts to set up test environments and visualize log files
  - [nginx-gridfs ![GitHub Repo Stars](https://img.shields.io/github/stars/mdirolf/nginx-gridfs) ![GitHub last commit](https://img.shields.io/github/last-commit/mdirolf/nginx-gridfs)](https://github.com/mdirolf/nginx-gridfs) - Nginx module for serving files from GridFS
- - [nginx-mongodb-rest ![GitHub Repo Stars](https://img.shields.io/github/stars/minhajuddin/nginx-mongodb-rest) ![GitHub last commit](https://img.shields.io/github/last-commit/minhajuddin/nginx-mongodb-rest)](https://github.com/minhajuddin/nginx-mongodb-rest) - REST client written as an Nginx module
  - [pt-mongodb-query-digest](https://www.percona.com/doc/percona-toolkit/LATEST/pt-mongodb-query-digest.html) - Aggregates queries from query profiler and reports query usage statistics
  - [pt-mongodb-summary](https://www.percona.com/doc/percona-toolkit/LATEST/pt-mongodb-summary.html) - MongoDB cluster status overview command line tool
 
@@ -262,7 +236,6 @@ Services:
  - [mongo_fdw ![GitHub Repo Stars](https://img.shields.io/github/stars/EnterpriseDB/mongo_fdw) ![GitHub last commit](https://img.shields.io/github/last-commit/EnterpriseDB/mongo_fdw)](https://github.com/EnterpriseDB/mongo_fdw) - PostgreSQL foreign data wrapper
  - [mongo-hadoop ![GitHub Repo Stars](https://img.shields.io/github/stars/mongodb/mongo-hadoop) ![GitHub last commit](https://img.shields.io/github/last-commit/mongodb/mongo-hadoop)](https://github.com/mongodb/mongo-hadoop) - Hadoop connector
  - [Mongolastic ![GitHub Repo Stars](https://img.shields.io/github/stars/ozlerhakan/mongolastic) ![GitHub last commit](https://img.shields.io/github/last-commit/ozlerhakan/mongolastic)](https://github.com/ozlerhakan/mongolastic) - MongoDB to Elasticsearch (and vice-versa) migration tool
- - [MongoMultiMaster ![GitHub Repo Stars](https://img.shields.io/github/stars/rick446/mmm) ![GitHub last commit](https://img.shields.io/github/last-commit/rick446/mmm)](https://github.com/rick446/mmm) - Multi-master replication
 
 Services:
  - [Cluster to cluster sync](https://www.mongodb.com/products/cluster-to-cluster-sync) - MongoDB Inc. solution for continuous data sync between separate clusters
@@ -297,6 +270,7 @@ Services:
  - [Mongo Playground ![GitHub Repo Stars](https://img.shields.io/github/stars/feliixx/mongoplayground) ![GitHub last commit](https://img.shields.io/github/last-commit/feliixx/mongoplayground)](https://github.com/feliixx/mongoplayground) - Online query playground
  - [Mongo Seeding ![GitHub Repo Stars](https://img.shields.io/github/stars/pkosiec/mongo-seeding) ![GitHub last commit](https://img.shields.io/github/last-commit/pkosiec/mongo-seeding)](https://github.com/pkosiec/mongo-seeding) - Node.js library, CLI and Docker image for populating databases using JS and JSON files
  - [Mongoeye ![GitHub Repo Stars](https://img.shields.io/github/stars/mongoeye/mongoeye) ![GitHub last commit](https://img.shields.io/github/last-commit/mongoeye/mongoeye)](https://github.com/mongoeye/mongoeye) - Schema and data analyzer: explore data in your collections
+ - [sql-to-mongo-db-query-converter ![GitHub Repo Stars](https://img.shields.io/github/stars/vincentrussell/sql-to-mongo-db-query-converter) ![GitHub last commit](https://img.shields.io/github/last-commit/vincentrussell/sql-to-mongo-db-query-converter)](https://github.com/vincentrussell/sql-to-mongo-db-query-converter) - Query converter from SQL to MongoDB
  - [Variety ![GitHub Repo Stars](https://img.shields.io/github/stars/variety/variety) ![GitHub last commit](https://img.shields.io/github/last-commit/variety/variety)](https://github.com/variety/variety) - Schema analyzer: see what fields are in your collection and what's their content
  - [VS Code Extension ![GitHub Repo Stars](https://img.shields.io/github/stars/mongodb-js/vscode) ![GitHub last commit](https://img.shields.io/github/last-commit/mongodb-js/vscode)](https://github.com/mongodb-js/vscode)
 
@@ -305,13 +279,7 @@ Services:
  - [MongoDB Realm](https://www.mongodb.com/realm) - MongoDB Inc. solution for mobile data sync
 
 ### Monitoring
- - [check_mongodb ![GitHub Repo Stars](https://img.shields.io/github/stars/dalenys/check_mongodb) ![GitHub last commit](https://img.shields.io/github/last-commit/dalenys/check_mongodb)](https://github.com/dalenys/check_mongodb) - Nagios plugin (in Bash)
- - [mongo-monitor ![GitHub Repo Stars](https://img.shields.io/github/stars/dwmkerr/mongo-monitor) ![GitHub last commit](https://img.shields.io/github/last-commit/dwmkerr/mongo-monitor)](https://github.com/dwmkerr/mongo-monitor) - Simple monitoring CLI
  - [mongo-munin ![GitHub Repo Stars](https://img.shields.io/github/stars/erh/mongo-munin) ![GitHub last commit](https://img.shields.io/github/last-commit/erh/mongo-munin)](https://github.com/erh/mongo-munin) - Collection of Munin plugins
- - [Mongoop ![GitHub Repo Stars](https://img.shields.io/github/stars/Lujeni/mongoop) ![GitHub last commit](https://img.shields.io/github/last-commit/Lujeni/mongoop)](https://github.com/Lujeni/mongoop) - Long operations monitoring and alerting
- - [mongomon ![GitHub Repo Stars](https://img.shields.io/github/stars/pcdummy/mongomon) ![GitHub last commit](https://img.shields.io/github/last-commit/pcdummy/mongomon)](https://github.com/pcdummy/mongomon) - More Munin plugins
- - [Motop ![GitHub Repo Stars](https://img.shields.io/github/stars/tart/motop) ![GitHub last commit](https://img.shields.io/github/last-commit/tart/motop)](https://github.com/tart/motop) - MongoDB top clone
- - [mtop ![GitHub Repo Stars](https://img.shields.io/github/stars/beaufour/mtop) ![GitHub last commit](https://img.shields.io/github/last-commit/beaufour/mtop)](https://github.com/beaufour/mtop) - Another top clone
  - [nagios-plugin-mongodb ![GitHub Repo Stars](https://img.shields.io/github/stars/mzupan/nagios-plugin-mongodb) ![GitHub last commit](https://img.shields.io/github/last-commit/mzupan/nagios-plugin-mongodb)](https://github.com/mzupan/nagios-plugin-mongodb) - Nagios plugin (in Python)
  - [Percona Monitoring and Management](https://www.percona.com/software/database-tools/percona-monitoring-and-management) - Free and open-source platform for managing and monitoring databases performances
  - [mongotail ![GitHub Repo Stars](https://img.shields.io/github/stars/mrsarm/mongotail) ![GitHub last commit](https://img.shields.io/github/last-commit/mrsarm/mongotail)](https://github.com/mrsarm/mongotail) - Log all MongoDB queries in a "tail"able way
@@ -344,7 +312,6 @@ Services:
  - [mongo-express ![GitHub Repo Stars](https://img.shields.io/github/stars/mongo-express/mongo-express) ![GitHub last commit](https://img.shields.io/github/last-commit/mongo-express/mongo-express)](https://github.com/mongo-express/mongo-express) - Web-based admin interface built with Express
  - [mongoadmin ![GitHub Repo Stars](https://img.shields.io/github/stars/thomasst/mongoadmin) ![GitHub last commit](https://img.shields.io/github/last-commit/thomasst/mongoadmin)](https://github.com/thomasst/mongoadmin) - Admin interface built with Django
  - [Mongoku ![GitHub Repo Stars](https://img.shields.io/github/stars/huggingface/Mongoku) ![GitHub last commit](https://img.shields.io/github/last-commit/huggingface/Mongoku)](https://github.com/huggingface/Mongoku) - MongoDB client for the web
- - [mongri ![GitHub Repo Stars](https://img.shields.io/github/stars/dongri/mongri) ![GitHub last commit](https://img.shields.io/github/last-commit/dongri/mongri)](https://github.com/dongri/mongri) - Web-based user interface written in JavaScript
  - [Rockmongo ![GitHub Repo Stars](https://img.shields.io/github/stars/iwind/rockmongo) ![GitHub last commit](https://img.shields.io/github/last-commit/iwind/rockmongo)](https://github.com/iwind/rockmongo) - PHPMyAdmin for MongoDB, sort of
 
 Services:
@@ -361,6 +328,7 @@ Those open-source applications have MongoDB somewhere in their stack:
  - [Errbit ![GitHub Repo Stars](https://img.shields.io/github/stars/errbit/errbit) ![GitHub last commit](https://img.shields.io/github/last-commit/errbit/errbit)](https://github.com/errbit/errbit) - A Ruby on Rails based tool for collecting and managing errors from other applications.
  - [FactorJS ![GitHub Repo Stars](https://img.shields.io/github/stars/fiction-com/factor) ![GitHub last commit](https://img.shields.io/github/last-commit/fiction-com/factor)](https://github.com/fiction-com/factor) - JavaScript CMS built with Mongoose
  - [GrandNode ![GitHub Repo Stars](https://img.shields.io/github/stars/grandnode/grandnode) ![GitHub last commit](https://img.shields.io/github/last-commit/grandnode/grandnode)](https://github.com/grandnode/grandnode) - Multi-platform e-commerce shopping cart built with ASP.NET
+ - [LastSaaS ![GitHub Repo Stars](https://img.shields.io/github/stars/jonradoff/lastsaas) ![GitHub last commit](https://img.shields.io/github/last-commit/jonradoff/lastsaas)](https://github.com/jonradoff/lastsaas) - Open-source SaaS platform foundation with multi-tenant auth, Stripe billing, and MCP server, built with Go and MongoDB
  - [Leanote ![GitHub Repo Stars](https://img.shields.io/github/stars/leanote/leanote) ![GitHub last commit](https://img.shields.io/github/last-commit/leanote/leanote)](https://github.com/leanote/leanote) - Evernote clone built with Go
  - [NodeBB ![GitHub Repo Stars](https://img.shields.io/github/stars/NodeBB/NodeBB) ![GitHub last commit](https://img.shields.io/github/last-commit/NodeBB/NodeBB)](https://github.com/NodeBB/NodeBB) - Node.js based forum software ("built for the modern web")
  - [Reaction ![GitHub Repo Stars](https://img.shields.io/github/stars/reactioncommerce/reaction) ![GitHub last commit](https://img.shields.io/github/last-commit/reactioncommerce/reaction)](https://github.com/reactioncommerce/reaction) - Event-driven, real-time commerce platform built with ES6
