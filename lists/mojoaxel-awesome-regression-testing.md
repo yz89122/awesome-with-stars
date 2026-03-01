@@ -42,6 +42,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [AyeSpy ![GitHub Repo Stars](https://img.shields.io/github/stars/newsuk/ayespy) ![GitHub last commit](https://img.shields.io/github/last-commit/newsuk/ayespy)](https://github.com/newsuk/ayespy) - 44 image comparisons in 90 seconds.
 - [BackstopJS ![GitHub Repo Stars](https://img.shields.io/github/stars/garris/BackstopJS) ![GitHub last commit](https://img.shields.io/github/last-commit/garris/BackstopJS)](https://github.com/garris/BackstopJS) - Config-driven automated screenshot test framework.
 - [basset](https://basset.io) - Open source platform for generating and reviewing visual differences. Supports multiple browsers, integrations for github and slack.
+- [BitDive](https://bitdive.io/) - BitDive is a zero-code regression testing tool for Java/Kotlin applications. It captures real runtime behavior (methods, SQL, HTTP) and enables Live Context Replay with automatic mocking to detect semantic drift between versions.
 - [Chimp ![GitHub Repo Stars](https://img.shields.io/github/stars/xolvio/chimp) ![GitHub last commit](https://img.shields.io/github/last-commit/xolvio/chimp)](https://github.com/xolvio/chimp) - Develop acceptance tests & end-to-end tests with realtime feedback.
 - [CodeceptJS ![GitHub Repo Stars](https://img.shields.io/github/stars/codeception/codeceptjs) ![GitHub last commit](https://img.shields.io/github/last-commit/codeception/codeceptjs)](https://github.com/codeception/codeceptjs/) - Modern Era Acceptance Testing Framework for NodeJS.
 - [Creevey ![GitHub Repo Stars](https://img.shields.io/github/stars/wKich/creevey) ![GitHub last commit](https://img.shields.io/github/last-commit/wKich/creevey)](https://github.com/wKich/creevey) - Cross-browser visual testing with magic. Feature-rich tool with UI Runner, Tests Hot Reloading, Docker and Storybook integration.
@@ -100,6 +101,8 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Ghost Inspector](https://ghostinspector.com) - See [introduction video](https://vimeo.com/ghostinspector/intro).
 - [Happo](https://happo.io/) - Cloud-based screenshot testing service with support for multiple browsers.
 - [HeadSpin](https://www.headspin.io/) - HeadSpin's Regression testing gives you a powerful comparison tool for analysing degradation across new app builds, OS releases, feature additions, locations, and more.
+- [Keploy](https://keploy.io) - Open-source regression testing tool that automatically generates test cases and mocks from real API calls.
+
 - [LambdaTest](https://www.lambdatest.com/) - Perform Automated and Live Interactive Cross Browser Testing on 2000+ Real Browsers and Operating Systems Online.
 - [Meticulous.ai](https://meticulous.ai) - Easily create frontend tests without writing code. Use Meticulous to record workflows on your web app. You can then replay those flows on new frontend code, and create a test by diffing two replays.
 - [Micoo ![GitHub Repo Stars](https://img.shields.io/github/stars/Mikuu/Micoo) ![GitHub last commit](https://img.shields.io/github/last-commit/Mikuu/Micoo)](https://github.com/Mikuu/Micoo) - Open source service for all UI application visual regression solution
