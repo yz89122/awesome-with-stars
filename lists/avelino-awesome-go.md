@@ -2612,6 +2612,7 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 
 ### Regular Expressions
 
+- [coregex ![GitHub Repo Stars](https://img.shields.io/github/stars/coregx/coregex) ![GitHub last commit](https://img.shields.io/github/last-commit/coregx/coregex)](https://github.com/coregx/coregex) - Production regex engine with Rust regex-crate architecture: multi-engine DFA/NFA, SIMD prefilters, drop-in stdlib replacement.
 - [genex ![GitHub Repo Stars](https://img.shields.io/github/stars/alixaxel/genex) ![GitHub last commit](https://img.shields.io/github/last-commit/alixaxel/genex)](https://github.com/alixaxel/genex) - Count and expand Regular Expressions into all matching Strings.
 - [go-wildcard ![GitHub Repo Stars](https://img.shields.io/github/stars/IGLOU-EU/go-wildcard) ![GitHub last commit](https://img.shields.io/github/last-commit/IGLOU-EU/go-wildcard)](https://github.com/IGLOU-EU/go-wildcard) - Simple and lightweight wildcard pattern matching.
 - [goregen ![GitHub Repo Stars](https://img.shields.io/github/stars/zach-klippenstein/goregen) ![GitHub last commit](https://img.shields.io/github/last-commit/zach-klippenstein/goregen)](https://github.com/zach-klippenstein/goregen) - Library for generating random strings from regular expressions.
