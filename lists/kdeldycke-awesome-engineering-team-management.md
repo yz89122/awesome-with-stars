@@ -350,7 +350,7 @@ How to get newcomers up to speed with the rest of the team you manage. And how t
 
 - [The Most Important Performance Management Rule For Software Engineers](https://staysaasy.com/startups/2022/04/03/performance-management.html) - “Merge code every week. That's what you should be saying to your new Software Engineering hire.”
 
-- [Optimize Onboarding](https://staysaasy.com/management/2020/08/28/Optimize-Onboarding.html) - “Your organization has painfully slow onboarding. Endless HR videos, slow security processes, a mountain of fragile technology setup - these all make for a shitty and counterproductive start at a company. Optimize your onboarding to get people doing what you hired them to do.��
+- [Optimize Onboarding](https://staysaasy.com/management/2020/08/28/Optimize-Onboarding.html) - “Your organization has painfully slow onboarding. Endless HR videos, slow security processes, a mountain of fragile technology setup - these all make for a shitty and counterproductive start at a company. Optimize your onboarding to get people doing what you hired them to do.”
 
 - [As a manager of a new employee I make an absolute point of being a "helicopter mom" from the moment they hit the area until about week 2 or 3](https://news.ycombinator.com/item?id=24404676) - Navigating a new organization will be hard the first few weeks, and the presence of a manager can help speed things up.
 
@@ -454,7 +454,7 @@ Expansive lists of well-known models and concepts.
 
 - [Yes, and…](https://en.wikipedia.org/wiki/Yes,_and...) - “A rule-of-thumb in improvisational comedy (…). It is also used in business and other organizations as a principle that improves the effectiveness of the brainstorming process, fosters effective communication, and encourages the free sharing of ideas.”
 
-- [Strong Opinions, Weakly Held — a framework for thinking](https://medium.com/@ameet/strong-opinions-weakly-held-a-framework-for-thinking-6530d417e364) - “Allow your intuition to guide you to a conclusion, no matter how imperfect — this is the 'strong opinion' part. Then – and this is the 'weakly held' part – prove yourself wrong.”
+- [Strong Opinions, Weakly Held — a framework for thinking](https://medium.com/@ameet/strong-opinions-weakly-held-a-framework-for-thinking-6530d417e364) - “Allow your intuition to guide you to a conclusion, no matter how imperfect �� this is the 'strong opinion' part. Then – and this is the 'weakly held' part – prove yourself wrong.”
 
 ### Behavioral
 
