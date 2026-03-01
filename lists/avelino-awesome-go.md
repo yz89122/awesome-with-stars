@@ -331,6 +331,7 @@ _Libraries for building and working with bots._
 - [telebot ![GitHub Repo Stars](https://img.shields.io/github/stars/tucnak/telebot) ![GitHub last commit](https://img.shields.io/github/last-commit/tucnak/telebot)](https://github.com/tucnak/telebot) - Telegram bot framework is written in Go.
 - [telego ![GitHub Repo Stars](https://img.shields.io/github/stars/mymmrac/telego) ![GitHub last commit](https://img.shields.io/github/last-commit/mymmrac/telego)](https://github.com/mymmrac/telego) - Telegram Bot API library for Golang with full one-to-one API implementation.
 - [telegram-bot-api ![GitHub Repo Stars](https://img.shields.io/github/stars/go-telegram-bot-api/telegram-bot-api) ![GitHub last commit](https://img.shields.io/github/last-commit/go-telegram-bot-api/telegram-bot-api)](https://github.com/go-telegram-bot-api/telegram-bot-api) - Simple and clean Telegram bot client.
+- [TG ![GitHub Repo Stars](https://img.shields.io/github/stars/enetx/tg) ![GitHub last commit](https://img.shields.io/github/last-commit/enetx/tg)](https://github.com/enetx/tg) - Telegram Bot Framework for Go.
 - [wayback ![GitHub Repo Stars](https://img.shields.io/github/stars/wabarc/wayback) ![GitHub last commit](https://img.shields.io/github/last-commit/wabarc/wayback)](https://github.com/wabarc/wayback) - A bot for Telegram, Mastodon, Slack, and other messaging platforms archives webpages.
 
 **[⬆ back to top](#contents)**
@@ -618,6 +619,7 @@ additional ordered map implementations.
 
 - [concurrent-writer ![GitHub Repo Stars](https://img.shields.io/github/stars/free/concurrent-writer) ![GitHub last commit](https://img.shields.io/github/last-commit/free/concurrent-writer)](https://github.com/free/concurrent-writer) - Highly concurrent drop-in replacement for `bufio.Writer`.
 - [count-min-log ![GitHub Repo Stars](https://img.shields.io/github/stars/seiflotfy/count-min-log) ![GitHub last commit](https://img.shields.io/github/last-commit/seiflotfy/count-min-log)](https://github.com/seiflotfy/count-min-log) - Go implementation Count-Min-Log sketch: Approximately counting with approximate counters (Like Count-Min sketch but using less memory).
+- [FSM ![GitHub Repo Stars](https://img.shields.io/github/stars/enetx/fsm) ![GitHub last commit](https://img.shields.io/github/last-commit/enetx/fsm)](https://github.com/enetx/fsm) - FSM for Go.
 - [fsm ![GitHub Repo Stars](https://img.shields.io/github/stars/cocoonspace/fsm) ![GitHub last commit](https://img.shields.io/github/last-commit/cocoonspace/fsm)](https://github.com/cocoonspace/fsm) - Finite-State Machine package.
 - [genfuncs ![GitHub Repo Stars](https://img.shields.io/github/stars/nwillc/genfuncs) ![GitHub last commit](https://img.shields.io/github/last-commit/nwillc/genfuncs)](https://github.com/nwillc/genfuncs) - Go 1.18+ generics package inspired by Kotlin's Sequence and Map.
 - [go-generics ![GitHub Repo Stars](https://img.shields.io/github/stars/bobg/go-generics) ![GitHub last commit](https://img.shields.io/github/last-commit/bobg/go-generics)](https://github.com/bobg/go-generics) - Generic slice, map, set, iterator, and goroutine utilities.
