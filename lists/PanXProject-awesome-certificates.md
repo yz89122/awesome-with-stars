@@ -284,7 +284,7 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 | <a href="https://codered.eccouncil.org/course/a-practical-introduction-to-cloud-computing" target="_blank" rel="noopener noreferrer">Introduction to Cloud Computing</a> | EC-Council |Beginner|3 | 🏆|
 | <a href="https://explore.skillbuilder.aws/learn/public/learning_plan/view/82/cloud-essentials-knowledge-badge-readiness-path" target="_blank" rel="noopener noreferrer">Cloud Essentials Knowledge</a> | Amazon | Intermediate | 10 | 🏅 |
 
-<a href="https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents" target="_blank" rel="noopener noreferrer">⬆���</a>
+<a href="https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents" target="_blank" rel="noopener noreferrer">⬆️</a>
 
 ## Computer Theories and Concepts
 
@@ -354,7 +354,7 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 | <a href="https://tutorials.nmdprojects.net/play.html?illustrator_manage_color" target="_blank" rel="noopener noreferrer">Manage color in Illustrator</a> | UMaine New Media | Beginner| 0.11 | 🏅 |
 | <a href="https://tutorials.nmdprojects.net/play.html?illustrator_apply_strokes_fills" target="_blank" rel="noopener noreferrer">Apply strokes and fills in Illustrator</a> | UMaine New Media | Beginner| 0.1 | 🏅 |
 | <a href="https://tutorials.nmdprojects.net/play.html?illustrator_apply_gradient" target="_blank" rel="noopener noreferrer">Apply gradient in Illustrator</a> | UMaine New Media | intermediate| 0.1 | 🏅 |
-| <a href="https://tutorials.nmdprojects.net/play.html?make_infographic_illustrator_1" target="_blank" rel="noopener noreferrer">How to make an Infographic in Illustrator 1</a> | UMaine New Media | Beginner| 0.22 | 🏅 |
+| <a href="https://tutorials.nmdprojects.net/play.html?make_infographic_illustrator_1" target="_blank" rel="noopener noreferrer">How to make an Infographic in Illustrator 1</a> | UMaine New Media | Beginner| 0.22 | ���� |
 | <a href="https://tutorials.nmdprojects.net/play.html?make_infographic_illustrator_2" target="_blank" rel="noopener noreferrer">How to make an Infographic in Illustrator 2</a> | UMaine New Media | Beginner| 0.2 | 🏅 |
 
 <a href="https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents" target="_blank" rel="noopener noreferrer">⬆️</a>
