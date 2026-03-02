@@ -232,7 +232,7 @@ _Libraries for building programs that leverage AI._
 
 ## Audio and Music
 
-_Libraries for manipulating audio._
+_Libraries for manipulating audio and music._
 
 - [beep ![GitHub Repo Stars](https://img.shields.io/github/stars/gopxl/beep) ![GitHub last commit](https://img.shields.io/github/last-commit/gopxl/beep)](https://github.com/gopxl/beep) - A simple library for playback and audio manipulation.
 - [flac ![GitHub Repo Stars](https://img.shields.io/github/stars/mewkiz/flac) ![GitHub last commit](https://img.shields.io/github/last-commit/mewkiz/flac)](https://github.com/mewkiz/flac) - Native Go FLAC encoder/decoder with support for FLAC streams.
@@ -243,6 +243,7 @@ _Libraries for manipulating audio._
 - [id3v2 ![GitHub Repo Stars](https://img.shields.io/github/stars/bogem/id3v2) ![GitHub last commit](https://img.shields.io/github/last-commit/bogem/id3v2)](https://github.com/bogem/id3v2) - ID3 decoding and encoding library for Go.
 - [malgo ![GitHub Repo Stars](https://img.shields.io/github/stars/gen2brain/malgo) ![GitHub last commit](https://img.shields.io/github/last-commit/gen2brain/malgo)](https://github.com/gen2brain/malgo) - Mini audio library.
 - [minimp3 ![GitHub Repo Stars](https://img.shields.io/github/stars/tosone/minimp3) ![GitHub last commit](https://img.shields.io/github/last-commit/tosone/minimp3)](https://github.com/tosone/minimp3) - Lightweight MP3 decoder library.
+- [music-theory ![GitHub Repo Stars](https://img.shields.io/github/stars/go-music-theory/music-theory) ![GitHub last commit](https://img.shields.io/github/last-commit/go-music-theory/music-theory)](https://github.com/go-music-theory/music-theory) - Music theory models in Go.
 - [Oto ![GitHub Repo Stars](https://img.shields.io/github/stars/hajimehoshi/oto) ![GitHub last commit](https://img.shields.io/github/last-commit/hajimehoshi/oto)](https://github.com/hajimehoshi/oto) - A low-level library to play sound on multiple platforms.
 - [PortAudio ![GitHub Repo Stars](https://img.shields.io/github/stars/gordonklaus/portaudio) ![GitHub last commit](https://img.shields.io/github/last-commit/gordonklaus/portaudio)](https://github.com/gordonklaus/portaudio) - Go bindings for the PortAudio audio I/O library.
 
