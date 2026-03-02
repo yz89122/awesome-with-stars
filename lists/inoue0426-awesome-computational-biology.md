@@ -36,6 +36,11 @@ A curated collection of databases, software, and papers related to computational
     - [Pre-trained Embedding](#pre-trained-embedding)
     - [LLM for Biology](#llm-for-biology)
     - [Foundation Models](#foundation-models)
+      - [Transcriptomics Foundation Models](#transcriptomics-foundation-models)
+      - [Spatial Foundation Models](#spatial-foundation-models)
+      - [Multi-Modal Foundation Models](#multi-modal-foundation-models)
+      - [Domain Alignment](#domain-alignment)
+      - [Multi-Omics Foundation Models](#multi-omics-foundation-models)
     - [Protein Structure Prediction and Design](#protein-structure-prediction-and-design)
     - [Genomics Foundation Models](#genomics-foundation-models)
 
@@ -45,7 +50,9 @@ A curated collection of databases, software, and papers related to computational
 
 ### scRNA
 
+- [CZ CELLxGENE](https://cellxgene.cziscience.com/) — Single-cell dataset repository and interactive explorer from the Chan Zuckerberg Initiative.
 - [Gene Expression Omnibus](https://www.ncbi.nlm.nih.gov/geo/) — Public functional genomics database.
+- [Human Cell Atlas](https://www.humancellatlas.org/) — Open global atlas of all cells in the human body.
 - [Single Cell PORTAL](https://singlecell.broadinstitute.org/single_cell) — Public database for single-cell RNA.
 - [Single Cell Expression Atlas](https://www.ebi.ac.uk/gxa/sc/home) — Public database for single-cell RNA.
 
@@ -55,6 +62,7 @@ A curated collection of databases, software, and papers related to computational
 - [ChEBI](https://www.ebi.ac.uk/chebi/) — Database focused on small chemical compounds.
 - [ChEMBL](https://www.ebi.ac.uk/chembl/) — Bioactive molecules with drug-like properties.
 - [ChemSpider](http://www.chemspider.com/) — Chemical structure database.
+- [HMDB (Human Metabolome Database)](https://hmdb.ca/) — Comprehensive database of small molecule metabolites found in the human body.
 - [KEGG COMPOUND](https://www.genome.jp/kegg/compound/) — Collection of small molecules and biopolymers.
 - [LIPID MAPS](https://www.lipidmaps.org/databases/lmsd/overview) — Database of lipids.
 - [Rhea](https://www.rhea-db.org/) — Database of chemical reactions.
@@ -94,6 +102,8 @@ A curated collection of databases, software, and papers related to computational
 
 ### Genome
 
+- [ENCODE](https://www.encodeproject.org/) — Encyclopedia of DNA Elements; regulatory and functional genomic elements across the genome.
+- [Ensembl](https://www.ensembl.org/) — Genome browser and annotation database for vertebrate and other eukaryotic genomes.
 - [Human Genome Resources at NCBI](https://www.ncbi.nlm.nih.gov/projects/genome/guide/human/index.shtml) — Database for genomics, proteomics, transcriptomics, and systems biology.
 - [GenBank](https://www.ncbi.nlm.nih.gov/genbank/) — NCBI's database of genetic sequences.
 - [UCSC Genome Browser](https://genome.ucsc.edu/) — UCSC's genome browser.
@@ -111,6 +121,8 @@ A curated collection of databases, software, and papers related to computational
 
 - [KEGG DRUG](https://www.genome.jp/kegg/drug/) — Comprehensive, approved drug information.
 - [DrugBank](https://go.drugbank.com/) — Database of drugs and targets (University of Alberta).
+- [DisGeNET](https://www.disgenet.org/) — Database of gene-disease associations integrating expert-curated and GWAS data.
+- [OMIM (Online Mendelian Inheritance in Man)](https://www.omim.org/) — Comprehensive database of human genes and genetic disorders.
 
 ### Interaction
 
@@ -140,6 +152,7 @@ A curated collection of databases, software, and papers related to computational
 - [STRING](https://string-db.org/) — PPI networks for multiple organisms.
 - [BioGRID](https://thebiogrid.org/) — Protein, genetic, and chemical interactions.
 - [HIPPIE](http://cbdm-01.zdv.uni-mainz.de/~mschaefer/hippie/) — Human protein-protein interaction database.
+- [IntAct](https://www.ebi.ac.uk/intact/home) — Open-source molecular interaction database and analysis system from EMBL-EBI.
 
 #### Knowledge Graph
 
@@ -174,6 +187,7 @@ A curated collection of databases, software, and papers related to computational
 ## Preprocessing Tools
 
 - [Chemistry Development Kit ![GitHub Repo Stars](https://img.shields.io/github/stars/cdk/cdk) ![GitHub last commit](https://img.shields.io/github/last-commit/cdk/cdk)](https://github.com/cdk/cdk) — Cheminformatics software & machine learning tools.
+- [Biopython](https://biopython.org/) — Collection of Python tools for biological computation including sequence analysis, structure parsing, and database access.
 - [FlashDeconv ![GitHub Repo Stars](https://img.shields.io/github/stars/cafferychen777/flashdeconv) ![GitHub last commit](https://img.shields.io/github/last-commit/cafferychen777/flashdeconv)](https://github.com/cafferychen777/flashdeconv) — High-performance spatial transcriptomics deconvolution (~1M spots in ~3 min).
 - [RDKit ![GitHub Repo Stars](https://img.shields.io/github/stars/rdkit/rdkit) ![GitHub last commit](https://img.shields.io/github/last-commit/rdkit/rdkit)](https://github.com/rdkit/rdkit) — Cheminformatics software & machine learning toolkit.
 - [DeepChem ![GitHub Repo Stars](https://img.shields.io/github/stars/deepchem/deepchem) ![GitHub last commit](https://img.shields.io/github/last-commit/deepchem/deepchem)](https://github.com/deepchem/deepchem) — Deep learning library for drug discovery, quantum chemistry, and materials science.
@@ -184,6 +198,7 @@ A curated collection of databases, software, and papers related to computational
 - [CellTypist ![GitHub Repo Stars](https://img.shields.io/github/stars/Teichlab/celltypist) ![GitHub last commit](https://img.shields.io/github/last-commit/Teichlab/celltypist)](https://github.com/Teichlab/celltypist) — Automated cell type annotation for scRNA-seq.
 - [Squidpy](https://squidpy.readthedocs.io/) — Python library for spatial single-cell analysis.
 - [GROMACS](https://www.gromacs.org/) — Molecular dynamics simulation package for biochemical molecules.
+- [MDAnalysis](https://www.mdanalysis.org/) — Python library for analyzing and altering molecular dynamics simulation trajectories.
 - [OpenMM](https://openmm.org/) — High-performance toolkit for molecular simulation and GPU-accelerated MD.
 
 ---
@@ -223,6 +238,7 @@ A curated collection of databases, software, and papers related to computational
 - [Molecular Transformer ![GitHub Repo Stars](https://img.shields.io/github/stars/pschwllr/MolecularTransformer) ![GitHub last commit](https://img.shields.io/github/last-commit/pschwllr/MolecularTransformer)](https://github.com/pschwllr/MolecularTransformer) — Sequence-to-sequence model for retrosynthesis prediction.
 - [GuacaMol ![GitHub Repo Stars](https://img.shields.io/github/stars/BenevolentAI/guacamol) ![GitHub last commit](https://img.shields.io/github/last-commit/BenevolentAI/guacamol)](https://github.com/BenevolentAI/guacamol) — Benchmark suite for generative molecular design models.
 - [MOSES ![GitHub Repo Stars](https://img.shields.io/github/stars/molecularsets/moses) ![GitHub last commit](https://img.shields.io/github/last-commit/molecularsets/moses)](https://github.com/molecularsets/moses) — Benchmarking platform for molecular generation models.
+- [TargetDiff ![GitHub Repo Stars](https://img.shields.io/github/stars/guanjq/targetdiff) ![GitHub last commit](https://img.shields.io/github/last-commit/guanjq/targetdiff)](https://github.com/guanjq/targetdiff) — 3D equivariant diffusion model for structure-based drug design.
 
 ### Pre-trained Embedding
 
@@ -240,13 +256,50 @@ A curated collection of databases, software, and papers related to computational
 
 ### Foundation Models
 
+#### Transcriptomics Foundation Models
+
 - [scFoundation ![GitHub Repo Stars](https://img.shields.io/github/stars/biomap-research/scFoundation) ![GitHub last commit](https://img.shields.io/github/last-commit/biomap-research/scFoundation)](https://github.com/biomap-research/scFoundation) — Large-scale foundation model for single-cell gene expression, enabling multiple downstream tasks.
 - [scGPT ![GitHub Repo Stars](https://img.shields.io/github/stars/bowang-lab/scGPT) ![GitHub last commit](https://img.shields.io/github/last-commit/bowang-lab/scGPT)](https://github.com/bowang-lab/scGPT) — Transformer-based foundation model pretrained on millions of single-cell profiles.
+- [Geneformer](https://huggingface.co/ctheodoris/Geneformer) — Context-aware, attention-based deep learning model pretrained on a large corpus of single-cell transcriptomes.
 - [BulkFormer ![GitHub Repo Stars](https://img.shields.io/github/stars/KangBoming/BulkFormer) ![GitHub last commit](https://img.shields.io/github/last-commit/KangBoming/BulkFormer)](https://github.com/KangBoming/BulkFormer) — Foundation model for bulk RNA-seq data; learns general transcriptomic representations.
+- [scBERT ![GitHub Repo Stars](https://img.shields.io/github/stars/TencentAILabHealthcare/scBERT) ![GitHub last commit](https://img.shields.io/github/last-commit/TencentAILabHealthcare/scBERT)](https://github.com/TencentAILabHealthcare/scBERT) — BERT-based foundation model pretrained on large-scale scRNA-seq data for cell type annotation.
+- [CellPLM ![GitHub Repo Stars](https://img.shields.io/github/stars/OmicsML/CellPLM) ![GitHub last commit](https://img.shields.io/github/last-commit/OmicsML/CellPLM)](https://github.com/OmicsML/CellPLM) — Cell pre-trained language model with inter-cell transformer architecture for diverse single-cell analysis tasks.
+
+#### Spatial Foundation Models
+
+- [GigaPath ![GitHub Repo Stars](https://img.shields.io/github/stars/prov-gigapath/prov-gigapath) ![GitHub last commit](https://img.shields.io/github/last-commit/prov-gigapath/prov-gigapath)](https://github.com/prov-gigapath/prov-gigapath) — Slide-level digital pathology foundation model pretrained on 1.3 billion pathology image tokens from whole-slide images.
+- [UNI ![GitHub Repo Stars](https://img.shields.io/github/stars/mahmoodlab/UNI) ![GitHub last commit](https://img.shields.io/github/last-commit/mahmoodlab/UNI)](https://github.com/mahmoodlab/UNI) — General-purpose self-supervised pathology foundation model trained on 100K+ whole-slide images for diverse computational pathology tasks.
+- [CONCH ![GitHub Repo Stars](https://img.shields.io/github/stars/mahmoodlab/CONCH) ![GitHub last commit](https://img.shields.io/github/last-commit/mahmoodlab/CONCH)](https://github.com/mahmoodlab/CONCH) — Vision-language foundation model for computational pathology trained with contrastive captioning on pathology image–text pairs.
+- [Phikon](https://huggingface.co/owkin/phikon) — ViT-based pathology foundation model pretrained with iBOT self-supervision on TCGA whole-slide images.
+
+#### Multi-Modal Foundation Models
+
+- [CHIEF ![GitHub Repo Stars](https://img.shields.io/github/stars/hms-dbmi/CHIEF) ![GitHub last commit](https://img.shields.io/github/last-commit/hms-dbmi/CHIEF)](https://github.com/hms-dbmi/CHIEF) — Clinical Histopathology Imaging Evaluation Foundation model integrating histology images and clinical context for pan-cancer analysis.
+- [BiomedCLIP](https://huggingface.co/microsoft/BiomedCLIP-PubMedBERT_256-vit_g_14) — CLIP-based vision-language foundation model for biomedical images and text trained on PubMed figure–caption pairs.
+
+#### Domain Alignment
+
+- [scArches ![GitHub Repo Stars](https://img.shields.io/github/stars/theislab/scarches) ![GitHub last commit](https://img.shields.io/github/last-commit/theislab/scarches)](https://github.com/theislab/scarches) — Transfer learning framework for mapping new single-cell datasets onto pre-trained reference atlases across batches, conditions, and modalities.
+- [TOSICA ![GitHub Repo Stars](https://img.shields.io/github/stars/JackieHanlaopo/TOSICA) ![GitHub last commit](https://img.shields.io/github/last-commit/JackieHanlaopo/TOSICA)](https://github.com/JackieHanlaopo/TOSICA) — Transformer-based framework for one-stop interpretable cell-type annotation supporting cross-dataset and cross-species transfer.
+
+#### Multi-Omics Foundation Models
+
+- [scMulan ![GitHub Repo Stars](https://img.shields.io/github/stars/SuperBianC/scMulan) ![GitHub last commit](https://img.shields.io/github/last-commit/SuperBianC/scMulan)](https://github.com/SuperBianC/scMulan) — Single-cell multi-omic language model pretrained on ~10M cells spanning transcriptomics, epigenomics, and proteomics for cross-omics transfer tasks.
+- [totalVI ![GitHub Repo Stars](https://img.shields.io/github/stars/scverse/scvi-tools) ![GitHub last commit](https://img.shields.io/github/last-commit/scverse/scvi-tools)](https://github.com/scverse/scvi-tools) — Probabilistic framework for joint analysis of paired scRNA-seq and protein (CITE-seq) data enabling multi-modal cell state representation across single-cell datasets.
+- [MultiVI ![GitHub Repo Stars](https://img.shields.io/github/stars/scverse/scvi-tools) ![GitHub last commit](https://img.shields.io/github/last-commit/scverse/scvi-tools)](https://github.com/scverse/scvi-tools) — Multi-modal variational autoencoder for integrating paired and unpaired single-cell RNA-seq and ATAC-seq measurements into a unified latent space.
+- [MIRA ![GitHub Repo Stars](https://img.shields.io/github/stars/cistrome/MIRA) ![GitHub last commit](https://img.shields.io/github/last-commit/cistrome/MIRA)](https://github.com/cistrome/MIRA) — Probabilistic multimodal topic model jointly modeling single-cell transcriptomics and chromatin accessibility for regulatory network inference.
+- [GLUE ![GitHub Repo Stars](https://img.shields.io/github/stars/gao-lab/GLUE) ![GitHub last commit](https://img.shields.io/github/last-commit/gao-lab/GLUE)](https://github.com/gao-lab/GLUE) — Graph-Linked Unified Embedding framework for unpaired single-cell multi-omics data integration across RNA, ATAC, methylation, and protein modalities.
+- [BABEL ![GitHub Repo Stars](https://img.shields.io/github/stars/wukevin/babel) ![GitHub last commit](https://img.shields.io/github/last-commit/wukevin/babel)](https://github.com/wukevin/babel) — Cross-modality translation model enabling prediction between scRNA-seq and scATAC-seq profiles without requiring paired single-cell measurements.
+- [Multigrate ![GitHub Repo Stars](https://img.shields.io/github/stars/theislab/multigrate) ![GitHub last commit](https://img.shields.io/github/last-commit/theislab/multigrate)](https://github.com/theislab/multigrate) — Asymmetric multi-omics variational autoencoder for integrating single-cell data across RNA, ATAC, and protein modalities with missing-modality support.
+- [MOFA+ ![GitHub Repo Stars](https://img.shields.io/github/stars/bioFAM/MOFA2) ![GitHub last commit](https://img.shields.io/github/last-commit/bioFAM/MOFA2)](https://github.com/bioFAM/MOFA2) — Multi-Omics Factor Analysis framework identifying shared axes of variation across bulk and single-cell datasets including RNA, ATAC, proteomics, methylation, and copy number.
+- [GeneCompass ![GitHub Repo Stars](https://img.shields.io/github/stars/xCompass-AI/GeneCompass) ![GitHub last commit](https://img.shields.io/github/last-commit/xCompass-AI/GeneCompass)](https://github.com/xCompass-AI/GeneCompass) — Large-scale foundation model integrating DNA regulatory sequences and single-cell transcriptomics from 120M+ cells across multiple species for gene regulation prediction.
+- [UnitedNet ![GitHub Repo Stars](https://img.shields.io/github/stars/LiuLab-Bioelectronics-Harvard/UnitedNet) ![GitHub last commit](https://img.shields.io/github/last-commit/LiuLab-Bioelectronics-Harvard/UnitedNet)](https://github.com/LiuLab-Bioelectronics-Harvard/UnitedNet) — Interpretable multi-task deep neural network for single-cell multi-omics integration spanning transcriptomics, chromatin accessibility, and proteomics.
+- [SpatialGlue ![GitHub Repo Stars](https://img.shields.io/github/stars/zhanglabtools/SpatialGlue) ![GitHub last commit](https://img.shields.io/github/last-commit/zhanglabtools/SpatialGlue)](https://github.com/zhanglabtools/SpatialGlue) — Graph attention network for spatial multi-omics integration jointly embedding spatial transcriptomics with chromatin accessibility or proteomics.
 
 ### Protein Structure Prediction and Design
 
 - [AlphaFold3 ![GitHub Repo Stars](https://img.shields.io/github/stars/google-deepmind/alphafold3) ![GitHub last commit](https://img.shields.io/github/last-commit/google-deepmind/alphafold3)](https://github.com/google-deepmind/alphafold3) — Predicts structures of proteins, nucleic acids, small molecules, and their complexes.
+- [Chai-1 ![GitHub Repo Stars](https://img.shields.io/github/stars/chaidiscovery/chai-lab) ![GitHub last commit](https://img.shields.io/github/last-commit/chaidiscovery/chai-lab)](https://github.com/chaidiscovery/chai-lab) — Unified molecular structure prediction model covering proteins, nucleic acids, small molecules, and complexes.
 - [ESMFold ![GitHub Repo Stars](https://img.shields.io/github/stars/facebookresearch/esm) ![GitHub last commit](https://img.shields.io/github/last-commit/facebookresearch/esm)](https://github.com/facebookresearch/esm) — Fast protein structure prediction using language model embeddings.
 - [RFdiffusion ![GitHub Repo Stars](https://img.shields.io/github/stars/RosettaCommons/RFdiffusion) ![GitHub last commit](https://img.shields.io/github/last-commit/RosettaCommons/RFdiffusion)](https://github.com/RosettaCommons/RFdiffusion) — Generative model for protein backbone design using diffusion.
 - [ProteinMPNN ![GitHub Repo Stars](https://img.shields.io/github/stars/dauparas/ProteinMPNN) ![GitHub last commit](https://img.shields.io/github/last-commit/dauparas/ProteinMPNN)](https://github.com/dauparas/ProteinMPNN) — Deep learning model for protein sequence design given backbone structure.
@@ -260,6 +313,8 @@ A curated collection of databases, software, and papers related to computational
 - [DNABERT-2 ![GitHub Repo Stars](https://img.shields.io/github/stars/Zhihan1996/DNABERT_2) ![GitHub last commit](https://img.shields.io/github/last-commit/Zhihan1996/DNABERT_2)](https://github.com/Zhihan1996/DNABERT_2) — Improved genome foundation model with efficient tokenization.
 - [Enformer ![GitHub Repo Stars](https://img.shields.io/github/stars/deepmind/deepmind-research) ![GitHub last commit](https://img.shields.io/github/last-commit/deepmind/deepmind-research)](https://github.com/deepmind/deepmind-research/tree/master/enformer) — Transformer model predicting gene expression from DNA sequence.
 - [Basenji ![GitHub Repo Stars](https://img.shields.io/github/stars/calico/basenji) ![GitHub last commit](https://img.shields.io/github/last-commit/calico/basenji)](https://github.com/calico/basenji) — Sequential regulatory activity prediction from DNA sequences.
+- [Caduceus ![GitHub Repo Stars](https://img.shields.io/github/stars/kuleshov-group/caduceus) ![GitHub last commit](https://img.shields.io/github/last-commit/kuleshov-group/caduceus)](https://github.com/kuleshov-group/caduceus) — Bidirectional equivariant long-range DNA sequence model based on Mamba.
 - [Evo ![GitHub Repo Stars](https://img.shields.io/github/stars/evo-design/evo) ![GitHub last commit](https://img.shields.io/github/last-commit/evo-design/evo)](https://github.com/evo-design/evo) — Long-context genomic foundation model (up to 1M tokens).
+- [HyenaDNA ![GitHub Repo Stars](https://img.shields.io/github/stars/HazyResearch/hyena-dna) ![GitHub last commit](https://img.shields.io/github/last-commit/HazyResearch/hyena-dna)](https://github.com/HazyResearch/hyena-dna) — Long-range genomic foundation model handling sequences up to 1M tokens with sub-quadratic attention.
 
 ---
