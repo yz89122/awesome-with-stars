@@ -3163,6 +3163,7 @@ _Full stack web frameworks._
 - [d3d9 ![GitHub Repo Stars](https://img.shields.io/github/stars/gonutz/d3d9) ![GitHub last commit](https://img.shields.io/github/last-commit/gonutz/d3d9)](https://github.com/gonutz/d3d9) - Go bindings for Direct3D9.
 - [go-ole ![GitHub Repo Stars](https://img.shields.io/github/stars/go-ole/go-ole) ![GitHub last commit](https://img.shields.io/github/last-commit/go-ole/go-ole)](https://github.com/go-ole/go-ole) - Win32 OLE implementation for golang.
 - [gosddl ![GitHub Repo Stars](https://img.shields.io/github/stars/MonaxGT/gosddl) ![GitHub last commit](https://img.shields.io/github/last-commit/MonaxGT/gosddl)](https://github.com/MonaxGT/gosddl) - Converter from SDDL-string to user-friendly JSON. SDDL consist of four part: Owner, Primary Group, DACL, SACL.
+- [windowsupdate ![GitHub Repo Stars](https://img.shields.io/github/stars/ceshihao/windowsupdate) ![GitHub last commit](https://img.shields.io/github/last-commit/ceshihao/windowsupdate)](https://github.com/ceshihao/windowsupdate) - A Golang binding for Windows Update Agent API using go-ole.
 
 **[⬆ back to top](#contents)**
 
