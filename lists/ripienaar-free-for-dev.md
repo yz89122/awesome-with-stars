@@ -1454,7 +1454,7 @@ Update Time, five active automations, webhooks.
   * [positionstack](https://positionstack.com/) - Free geocoding for global places and coordinates. 25,000 Requests per month for personal use.
   * [stadiamaps.com](https://stadiamaps.com/) — Map tiles, routing, navigation, and other geospatial APIs. Two thousand five hundred free map views and API requests/day for non-commercial usage and testing.
 
-**[⬆️ Back to Top](#table-of-contents)**
+**[���️ Back to Top](#table-of-contents)**
 
 ## Package Build System
 
