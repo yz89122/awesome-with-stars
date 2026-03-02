@@ -8,31 +8,36 @@ A curated collection of databases, software, and papers related to computational
 
 ## Table of Contents
 
-- [Databases](#databases)
-  - [scRNA](#scrna)
-  - [Compound](#compound)
-  - [Pathway](#pathway)
-  - [Mass Spectra](#mass-spectra)
-  - [Protein](#protein)
-  - [Genome](#genome)
-  - [Disease](#disease)
-  - [Interaction](#interaction)
-    - [Drug-Gene Interaction](#drug-gene-interaction)
-    - [Drug (Cell Line) Response](#drug-cell-line-response)
-    - [Chemical-Protein Interaction](#chemical-protein-interaction)
-    - [Protein-Protein Interaction](#protein-protein-interaction)
-    - [Knowledge Graph](#knowledge-graph)
-  - [Clinical Trial](#clinical-trial)
-- [API](#api)
-- [Preprocessing Tools](#preprocessing-tools)
-- [Machine Learning Tasks and Models](#machine-learning-tasks-and-models)
-  - [Drug Response Prediction](#drug-response-prediction)
-  - [Drug Repurposing](#drug-repurposing)
-  - [Drug Target Interaction](#drug-target-interaction)
-  - [Compound-Protein Interaction](#compound-protein-interaction)
-  - [Pre-trained Embedding](#pre-trained-embedding)
-  - [LLM for Biology](#llm-for-biology)
-  - [Foundation Models](#foundation-models)
+- [Awesome Computational Biology ](#awesome-computational-biology-)
+  - [Table of Contents](#table-of-contents)
+  - [Databases](#databases)
+    - [scRNA](#scrna)
+    - [Compound](#compound)
+    - [Pathway](#pathway)
+    - [Mass Spectra](#mass-spectra)
+    - [Protein](#protein)
+    - [Genome](#genome)
+    - [Disease](#disease)
+    - [Interaction](#interaction)
+      - [Drug-Gene Interaction](#drug-gene-interaction)
+      - [Drug (Cell Line) Response](#drug-cell-line-response)
+      - [Chemical-Protein Interaction](#chemical-protein-interaction)
+      - [Protein-Protein Interaction](#protein-protein-interaction)
+      - [Knowledge Graph](#knowledge-graph)
+    - [Clinical Trial](#clinical-trial)
+  - [API](#api)
+  - [Preprocessing Tools](#preprocessing-tools)
+  - [Machine Learning Tasks and Models](#machine-learning-tasks-and-models)
+    - [Drug Response Prediction](#drug-response-prediction)
+    - [Drug Repurposing](#drug-repurposing)
+    - [Drug Target Interaction](#drug-target-interaction)
+    - [Compound-Protein Interaction](#compound-protein-interaction)
+    - [Molecular Generation](#molecular-generation)
+    - [Pre-trained Embedding](#pre-trained-embedding)
+    - [LLM for Biology](#llm-for-biology)
+    - [Foundation Models](#foundation-models)
+    - [Protein Structure Prediction and Design](#protein-structure-prediction-and-design)
+    - [Genomics Foundation Models](#genomics-foundation-models)
 
 ---
 
@@ -53,6 +58,7 @@ A curated collection of databases, software, and papers related to computational
 - [KEGG COMPOUND](https://www.genome.jp/kegg/compound/) — Collection of small molecules and biopolymers.
 - [LIPID MAPS](https://www.lipidmaps.org/databases/lmsd/overview) — Database of lipids.
 - [Rhea](https://www.rhea-db.org/) — Database of chemical reactions.
+- [DrugCentral](http://drugcentral.org/) — Online drug compendium with drug mode of action and indication information.
 - [Drug Repurposing Hub](https://repo-hub.broadinstitute.org/repurposing#download-data) — Collections of drug repurposing data (drug, MoA, target, etc).
 - [Therapeutic Target Database](https://idrblab.net/ttd/full-data-download) — Drug-target, target-disease, and drug-disease datasets.
 - [ZINC ligand discovery database](https://zinc.docking.org/) — Free database of commercially-available compounds for virtual screening.
@@ -83,6 +89,8 @@ A curated collection of databases, software, and papers related to computational
 - [Critical Assessment of Structure Prediction (CASP)](https://predictioncenter.org/) — Assessing methods for protein structure prediction.
 - [Uniclust](https://uniclust.mmseqs.com/) — Clustered protein sequence databases.
 - [CATH database](https://www.cathdb.info/) — Hierarchical classification of protein domain structures.
+- [SAbDab](https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabdab) — Structural Antibody Database containing all antibody structures in the PDB.
+- [OADB (Observed Antibody Space Database)](http://opig.stats.ox.ac.uk/webapps/oas/) — Database of antibody sequences from immune repertoire sequencing.
 
 ### Genome
 
@@ -96,6 +104,8 @@ A curated collection of databases, software, and papers related to computational
 - [Catalogue Of Somatic Mutations In Cancer (COSMIC)](https://cancer.sanger.ac.uk/cosmic) — Resource on somatic mutations in cancers.
 - [MGnify](https://www.ebi.ac.uk/metagenomics/) — Resource for metagenomic and metatranscriptomic data.
 - [JASPAR](http://jaspar.genereg.net/) — Database of transcription factor binding profiles.
+- [gnomAD](https://gnomad.broadinstitute.org/) — Genome Aggregation Database; genetic variation from large-scale sequencing projects.
+- [Rfam](https://rfam.org/) — Database of RNA families with sequence alignments and consensus structures.
 
 ### Disease
 
@@ -166,10 +176,15 @@ A curated collection of databases, software, and papers related to computational
 - [Chemistry Development Kit ![GitHub Repo Stars](https://img.shields.io/github/stars/cdk/cdk) ![GitHub last commit](https://img.shields.io/github/last-commit/cdk/cdk)](https://github.com/cdk/cdk) — Cheminformatics software & machine learning tools.
 - [FlashDeconv ![GitHub Repo Stars](https://img.shields.io/github/stars/cafferychen777/flashdeconv) ![GitHub last commit](https://img.shields.io/github/last-commit/cafferychen777/flashdeconv)](https://github.com/cafferychen777/flashdeconv) — High-performance spatial transcriptomics deconvolution (~1M spots in ~3 min).
 - [RDKit ![GitHub Repo Stars](https://img.shields.io/github/stars/rdkit/rdkit) ![GitHub last commit](https://img.shields.io/github/last-commit/rdkit/rdkit)](https://github.com/rdkit/rdkit) — Cheminformatics software & machine learning toolkit.
+- [DeepChem ![GitHub Repo Stars](https://img.shields.io/github/stars/deepchem/deepchem) ![GitHub last commit](https://img.shields.io/github/last-commit/deepchem/deepchem)](https://github.com/deepchem/deepchem) — Deep learning library for drug discovery, quantum chemistry, and materials science.
 - [ChatSpatial ![GitHub Repo Stars](https://img.shields.io/github/stars/cafferychen777/ChatSpatial) ![GitHub last commit](https://img.shields.io/github/last-commit/cafferychen777/ChatSpatial)](https://github.com/cafferychen777/ChatSpatial) — MCP server for spatial transcriptomics analysis via natural language.
 - [Scanpy](https://scanpy.readthedocs.io/en/stable/) — Python library for scRNA-seq analysis.
 - [Seurat](https://satijalab.org/seurat/) — R library for scRNA-seq analysis.
+- [scvi-tools](https://scvi-tools.org/) — Probabilistic models for single-cell omics data analysis.
+- [CellTypist ![GitHub Repo Stars](https://img.shields.io/github/stars/Teichlab/celltypist) ![GitHub last commit](https://img.shields.io/github/last-commit/Teichlab/celltypist)](https://github.com/Teichlab/celltypist) — Automated cell type annotation for scRNA-seq.
 - [Squidpy](https://squidpy.readthedocs.io/) — Python library for spatial single-cell analysis.
+- [GROMACS](https://www.gromacs.org/) — Molecular dynamics simulation package for biochemical molecules.
+- [OpenMM](https://openmm.org/) — High-performance toolkit for molecular simulation and GPU-accelerated MD.
 
 ---
 
@@ -201,6 +216,14 @@ A curated collection of databases, software, and papers related to computational
 - [MCPINN ![GitHub Repo Stars](https://img.shields.io/github/stars/mhlee0903/multi_channels_PINN) ![GitHub last commit](https://img.shields.io/github/last-commit/mhlee0903/multi_channels_PINN)](https://github.com/mhlee0903/multi_channels_PINN) — Drug discovery via compound-protein interaction and machine learning.
 - [TransformerCPI ![GitHub Repo Stars](https://img.shields.io/github/stars/lifanchen-simm/transformerCPI) ![GitHub last commit](https://img.shields.io/github/last-commit/lifanchen-simm/transformerCPI)](https://github.com/lifanchen-simm/transformerCPI) — CPI prediction using Transformer.
 
+### Molecular Generation
+
+- [REINVENT ![GitHub Repo Stars](https://img.shields.io/github/stars/MolecularAI/Reinvent) ![GitHub last commit](https://img.shields.io/github/last-commit/MolecularAI/Reinvent)](https://github.com/MolecularAI/Reinvent) — Reinforcement learning for de novo drug design.
+- [MolGPT ![GitHub Repo Stars](https://img.shields.io/github/stars/devalab/molgpt) ![GitHub last commit](https://img.shields.io/github/last-commit/devalab/molgpt)](https://github.com/devalab/molgpt) — Transformer-based model for molecular generation.
+- [Molecular Transformer ![GitHub Repo Stars](https://img.shields.io/github/stars/pschwllr/MolecularTransformer) ![GitHub last commit](https://img.shields.io/github/last-commit/pschwllr/MolecularTransformer)](https://github.com/pschwllr/MolecularTransformer) — Sequence-to-sequence model for retrosynthesis prediction.
+- [GuacaMol ![GitHub Repo Stars](https://img.shields.io/github/stars/BenevolentAI/guacamol) ![GitHub last commit](https://img.shields.io/github/last-commit/BenevolentAI/guacamol)](https://github.com/BenevolentAI/guacamol) — Benchmark suite for generative molecular design models.
+- [MOSES ![GitHub Repo Stars](https://img.shields.io/github/stars/molecularsets/moses) ![GitHub last commit](https://img.shields.io/github/last-commit/molecularsets/moses)](https://github.com/molecularsets/moses) — Benchmarking platform for molecular generation models.
+
 ### Pre-trained Embedding
 
 - [Evolutionary Scale Modeling (ESM) ![GitHub Repo Stars](https://img.shields.io/github/stars/facebookresearch/esm) ![GitHub last commit](https://img.shields.io/github/last-commit/facebookresearch/esm)](https://github.com/facebookresearch/esm) — Protein embeddings.
@@ -213,11 +236,30 @@ A curated collection of databases, software, and papers related to computational
 - [GeneGPT ![GitHub Repo Stars](https://img.shields.io/github/stars/ncbi/GeneGPT) ![GitHub last commit](https://img.shields.io/github/last-commit/ncbi/GeneGPT)](https://github.com/ncbi/GeneGPT) — LLM for biomedical information, integrated with various APIs.
 - [GenePT ![GitHub Repo Stars](https://img.shields.io/github/stars/yiqunchen/GenePT) ![GitHub last commit](https://img.shields.io/github/last-commit/yiqunchen/GenePT)](https://github.com/yiqunchen/GenePT) — Foundation LLM for single-cell data.
 - [scPRINT ![GitHub Repo Stars](https://img.shields.io/github/stars/cantinilab/scPRINT) ![GitHub last commit](https://img.shields.io/github/last-commit/cantinilab/scPRINT)](https://github.com/cantinilab/scPRINT) — Pretrained on 50M cells for scRNA-seq denoising & zero imputation.
+- [ClawBio ![GitHub Repo Stars](https://img.shields.io/github/stars/ClawBio/ClawBio) ![GitHub last commit](https://img.shields.io/github/last-commit/ClawBio/ClawBio)](https://github.com/ClawBio/ClawBio) — Bioinformatics-native AI agent skill library with local-first pharmacogenomics, ancestry PCA, semantic similarity, nutrigenomics, and metagenomics skills.
 
 ### Foundation Models
 
 - [scFoundation ![GitHub Repo Stars](https://img.shields.io/github/stars/biomap-research/scFoundation) ![GitHub last commit](https://img.shields.io/github/last-commit/biomap-research/scFoundation)](https://github.com/biomap-research/scFoundation) — Large-scale foundation model for single-cell gene expression, enabling multiple downstream tasks.
 - [scGPT ![GitHub Repo Stars](https://img.shields.io/github/stars/bowang-lab/scGPT) ![GitHub last commit](https://img.shields.io/github/last-commit/bowang-lab/scGPT)](https://github.com/bowang-lab/scGPT) — Transformer-based foundation model pretrained on millions of single-cell profiles.
 - [BulkFormer ![GitHub Repo Stars](https://img.shields.io/github/stars/KangBoming/BulkFormer) ![GitHub last commit](https://img.shields.io/github/last-commit/KangBoming/BulkFormer)](https://github.com/KangBoming/BulkFormer) — Foundation model for bulk RNA-seq data; learns general transcriptomic representations.
+
+### Protein Structure Prediction and Design
+
+- [AlphaFold3 ![GitHub Repo Stars](https://img.shields.io/github/stars/google-deepmind/alphafold3) ![GitHub last commit](https://img.shields.io/github/last-commit/google-deepmind/alphafold3)](https://github.com/google-deepmind/alphafold3) — Predicts structures of proteins, nucleic acids, small molecules, and their complexes.
+- [ESMFold ![GitHub Repo Stars](https://img.shields.io/github/stars/facebookresearch/esm) ![GitHub last commit](https://img.shields.io/github/last-commit/facebookresearch/esm)](https://github.com/facebookresearch/esm) — Fast protein structure prediction using language model embeddings.
+- [RFdiffusion ![GitHub Repo Stars](https://img.shields.io/github/stars/RosettaCommons/RFdiffusion) ![GitHub last commit](https://img.shields.io/github/last-commit/RosettaCommons/RFdiffusion)](https://github.com/RosettaCommons/RFdiffusion) — Generative model for protein backbone design using diffusion.
+- [ProteinMPNN ![GitHub Repo Stars](https://img.shields.io/github/stars/dauparas/ProteinMPNN) ![GitHub last commit](https://img.shields.io/github/last-commit/dauparas/ProteinMPNN)](https://github.com/dauparas/ProteinMPNN) — Deep learning model for protein sequence design given backbone structure.
+- [OmegaFold ![GitHub Repo Stars](https://img.shields.io/github/stars/HeliXonProtein/OmegaFold) ![GitHub last commit](https://img.shields.io/github/last-commit/HeliXonProtein/OmegaFold)](https://github.com/HeliXonProtein/OmegaFold) — High-resolution de novo protein structure prediction from sequence.
+- [RoseTTAFold ![GitHub Repo Stars](https://img.shields.io/github/stars/RosettaCommons/RoseTTAFold) ![GitHub last commit](https://img.shields.io/github/last-commit/RosettaCommons/RoseTTAFold)](https://github.com/RosettaCommons/RoseTTAFold) — Three-track neural network for protein structure prediction.
+
+### Genomics Foundation Models
+
+- [Nucleotide Transformer ![GitHub Repo Stars](https://img.shields.io/github/stars/instadeepai/nucleotide-transformer) ![GitHub last commit](https://img.shields.io/github/last-commit/instadeepai/nucleotide-transformer)](https://github.com/instadeepai/nucleotide-transformer) — Foundation model for genomic sequences across multiple species.
+- [DNABERT ![GitHub Repo Stars](https://img.shields.io/github/stars/jerryji1993/DNABERT) ![GitHub last commit](https://img.shields.io/github/last-commit/jerryji1993/DNABERT)](https://github.com/jerryji1993/DNABERT) — Pre-trained bidirectional encoder for DNA sequence analysis.
+- [DNABERT-2 ![GitHub Repo Stars](https://img.shields.io/github/stars/Zhihan1996/DNABERT_2) ![GitHub last commit](https://img.shields.io/github/last-commit/Zhihan1996/DNABERT_2)](https://github.com/Zhihan1996/DNABERT_2) — Improved genome foundation model with efficient tokenization.
+- [Enformer ![GitHub Repo Stars](https://img.shields.io/github/stars/deepmind/deepmind-research) ![GitHub last commit](https://img.shields.io/github/last-commit/deepmind/deepmind-research)](https://github.com/deepmind/deepmind-research/tree/master/enformer) — Transformer model predicting gene expression from DNA sequence.
+- [Basenji ![GitHub Repo Stars](https://img.shields.io/github/stars/calico/basenji) ![GitHub last commit](https://img.shields.io/github/last-commit/calico/basenji)](https://github.com/calico/basenji) — Sequential regulatory activity prediction from DNA sequences.
+- [Evo ![GitHub Repo Stars](https://img.shields.io/github/stars/evo-design/evo) ![GitHub last commit](https://img.shields.io/github/last-commit/evo-design/evo)](https://github.com/evo-design/evo) — Long-context genomic foundation model (up to 1M tokens).
 
 ---
