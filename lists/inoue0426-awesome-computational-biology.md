@@ -6,6 +6,12 @@ A curated collection of databases, software, and papers related to computational
 
 ---
 
+## Interface
+
+Browse and search the resources via the GitHub Pages UI: https://inoue0426.github.io/awesome-computational-biology/
+
+---
+
 ## Table of Contents
 
 - [Awesome Computational Biology](#awesome-computational-biology-)
@@ -70,7 +76,7 @@ A curated collection of databases, software, and papers related to computational
 - [KEGG COMPOUND](https://www.genome.jp/kegg/compound/) — Collection of small molecules and biopolymers.
 - [LIPID MAPS](https://www.lipidmaps.org/databases/lmsd/overview) — Database of lipids.
 - [Rhea](https://www.rhea-db.org/) — Database of chemical reactions.
-- [DrugCentral](http://drugcentral.org/) — Online drug compendium with drug mode of action and indication information.
+- [DrugCentral](http://drugcentral.org/) �� Online drug compendium with drug mode of action and indication information.
 - [Drug Repurposing Hub](https://repo-hub.broadinstitute.org/repurposing#download-data) — Collections of drug repurposing data (drug, MoA, target, etc).
 - [Therapeutic Target Database](https://idrblab.net/ttd/full-data-download) — Drug-target, target-disease, and drug-disease datasets.
 - [ZINC ligand discovery database](https://zinc.docking.org/) — Free database of commercially-available compounds for virtual screening.
