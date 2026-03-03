@@ -163,7 +163,7 @@ Use the laws of math instead of always reinventing your own thing. Algebraic!
 * [Js\_of\_ocaml](http://ocsigen.org/js_of_ocaml/) – Compiles [OCaml](http://ocaml.org/) bytecode to JavaScript, making it possible to run OCaml programs in the browser.
 * [Reason](https://reasonml.github.io) – Reason is a new interface to OCaml, a highly expressive dialect of the ML language featuring type inference and static type checking.
 * [ReScript](https://rescript-lang.org/) – (previously known as [Bucklescript](https://rescript-lang.org/bucklescript-rebranding)) ReScript is a type-safe language that compiles to the highest quality of clean, readable and performant JavaScript code.
-* [Scala.js](http://www.scala-js.org/) ��� Compiles [Scala](http://www.scala-lang.org/) to JavaScript.
+* [Scala.js](http://www.scala-js.org/) – Compiles [Scala](http://www.scala-lang.org/) to JavaScript.
 * [LiveScript](http://gkz.github.io/LiveScript/) – LiveScript has a straightforward mapping to JavaScript and allows you to write expressive code devoid of repetitive boilerplate.
 * [Quack ![GitHub Repo Stars](https://img.shields.io/github/stars/quack/quack) ![GitHub last commit](https://img.shields.io/github/last-commit/quack/quack)](https://github.com/quack/quack) - A multi-paradigm programming language with gradual and duck typing that targets PHP and JS.
 * [ion ![GitHub Repo Stars](https://img.shields.io/github/stars/ion-lang/ion) ![GitHub last commit](https://img.shields.io/github/last-commit/ion-lang/ion)](https://github.com/ion-lang/ion) - no BS JS
