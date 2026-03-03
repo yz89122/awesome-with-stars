@@ -682,7 +682,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [Pingram.io](https://www.pingram.io/) — Communication infrastructure in 5 minutes. Free tier includes: 100 SMS and calls, 3000 Emails, Push, Slack, MS Teams, WhatsApp, and more. 
   * [Pocket Alert](https://pocketalert.app) - Send push notifications to your iOS and Android devices. Effortlessly integrate via API or Webhooks and maintain full control over your alerts. Free plan: 50 messages per day to 1 device and 1 application.
   * [pubnub.com](https://www.pubnub.com/) - Swift, Kotlin, and React messaging at 1 million transactions each month. Transactions may contain multiple messages.
-  * [pusher.com](https://pusher.com/) — Realtime messaging service. Free for up to 100 simultaneous connections and 200,000 messages/day
+  * [pusher.com](https://pusher.com/) ��� Realtime messaging service. Free for up to 100 simultaneous connections and 200,000 messages/day
   * [scaledrone.com](https://www.scaledrone.com/) — Realtime messaging service. Free for up to 20 simultaneous connections and 100,000 events/day
   * [SMSGate](https://sms-gate.app) - SMS Gateway for Android™ enables sending and receiving SMS messages through your devices using cloud routing. Completely free cloud service (with recommended notification for usage above 10,000 messages/day to maintain quality for all users).
   * [SuprSend](https://www.suprsend.com/) - SuprSend is a notification infrastructure that streamlines your product notifications with an API-first approach. Create and deliver transactional, crons, and engagement notifications on multiple channels with a single notification API. In free plan you get 10,000 notifications per month, including different workflow nodes such as digests, batches, multi-channels, preferences, tenants, broadcasts and more.
@@ -1258,6 +1258,7 @@ Update Time, five active automations, webhooks.
   * [Dropshare](https://dropsha.re) - Zero-knowledge file sharing. End-to-end encrypted file sharing with AES-256-GCM encryption, client-side processing, and zero server-side data access. Free uploads for files up to 1GB with no data collection.
   * [embed.ly](https://embed.ly/) — Provides APIs for embedding media in a webpage, responsive image scaling, and extracting elements from a webpage. Free for up to 5,000 URLs/month at 15 requests/second
   * [Ente](https://ente.io/) - Ente is an end-to-end encrypted cloud for photos, videos and 2FA secrets. Can also be self-hosted along with a generous forever free-tier of 10GB. For free tier users, only single replica of data is kept.
+  * [FileShot.io](https://fileshot.io) — Zero-knowledge encrypted file sharing. AES-256-GCM browser-side encryption ensures files are encrypted in-browser before upload. No account required for sender or recipient. Self-hostable (MIT open-source). Free tier includes unlimited uploads with no file size restrictions.
   * [file.io](https://www.file.io) - 2 GB storage of files. A file is auto-deleted after one download. REST API to interact with the storage. Rate limit one request/minute.
   * [freetools.site](https://freetools.site/) — Free online tools. Convert or edit documents, images, audio, video, and more.
   * [getpantry.cloud](https://getpantry.cloud/) — A simple JSON data storage API perfect for personal projects, hackathons, and mobile apps!
