@@ -76,7 +76,7 @@ Browse and search the resources via the GitHub Pages UI: https://inoue0426.githu
 - [KEGG COMPOUND](https://www.genome.jp/kegg/compound/) — Collection of small molecules and biopolymers.
 - [LIPID MAPS](https://www.lipidmaps.org/databases/lmsd/overview) — Database of lipids.
 - [Rhea](https://www.rhea-db.org/) — Database of chemical reactions.
-- [DrugCentral](http://drugcentral.org/) — Online drug compendium with drug mode of action and indication information.
+- [DrugCentral](http://drugcentral.org/) �� Online drug compendium with drug mode of action and indication information.
 - [Drug Repurposing Hub](https://repo-hub.broadinstitute.org/repurposing#download-data) — Collections of drug repurposing data (drug, MoA, target, etc).
 - [Therapeutic Target Database](https://idrblab.net/ttd/full-data-download) — Drug-target, target-disease, and drug-disease datasets.
 - [ZINC ligand discovery database](https://zinc.docking.org/) — Free database of commercially-available compounds for virtual screening.
@@ -257,7 +257,7 @@ Browse and search the resources via the GitHub Pages UI: https://inoue0426.githu
 #### Molecular Generation
 
 - [REINVENT ![GitHub Repo Stars](https://img.shields.io/github/stars/MolecularAI/Reinvent) ![GitHub last commit](https://img.shields.io/github/last-commit/MolecularAI/Reinvent)](https://github.com/MolecularAI/Reinvent) — Reinforcement learning for de novo drug design.
-- [MolGPT ![GitHub Repo Stars](https://img.shields.io/github/stars/devalab/molgpt) ![GitHub last commit](https://img.shields.io/github/last-commit/devalab/molgpt)](https://github.com/devalab/molgpt) ��� Transformer-based model for molecular generation.
+- [MolGPT ![GitHub Repo Stars](https://img.shields.io/github/stars/devalab/molgpt) ![GitHub last commit](https://img.shields.io/github/last-commit/devalab/molgpt)](https://github.com/devalab/molgpt) — Transformer-based model for molecular generation.
 - [Molecular Transformer ![GitHub Repo Stars](https://img.shields.io/github/stars/pschwllr/MolecularTransformer) ![GitHub last commit](https://img.shields.io/github/last-commit/pschwllr/MolecularTransformer)](https://github.com/pschwllr/MolecularTransformer) — Sequence-to-sequence model for retrosynthesis prediction.
 - [TargetDiff ![GitHub Repo Stars](https://img.shields.io/github/stars/guanjq/targetdiff) ![GitHub last commit](https://img.shields.io/github/last-commit/guanjq/targetdiff)](https://github.com/guanjq/targetdiff) — 3D equivariant diffusion model for structure-based drug design.
 
@@ -288,7 +288,7 @@ Browse and search the resources via the GitHub Pages UI: https://inoue0426.githu
 - [GigaPath ![GitHub Repo Stars](https://img.shields.io/github/stars/prov-gigapath/prov-gigapath) ![GitHub last commit](https://img.shields.io/github/last-commit/prov-gigapath/prov-gigapath)](https://github.com/prov-gigapath/prov-gigapath) — Slide-level digital pathology foundation model pretrained on 1.3 billion pathology image tokens from whole-slide images.
 - [UNI ![GitHub Repo Stars](https://img.shields.io/github/stars/mahmoodlab/UNI) ![GitHub last commit](https://img.shields.io/github/last-commit/mahmoodlab/UNI)](https://github.com/mahmoodlab/UNI) — General-purpose self-supervised pathology foundation model trained on 100K+ whole-slide images for diverse computational pathology tasks.
 - [CONCH ![GitHub Repo Stars](https://img.shields.io/github/stars/mahmoodlab/CONCH) ![GitHub last commit](https://img.shields.io/github/last-commit/mahmoodlab/CONCH)](https://github.com/mahmoodlab/CONCH) — Vision-language foundation model for computational pathology trained with contrastive captioning on pathology image–text pairs.
-- [Phikon](https://huggingface.co/owkin/phikon) ��� ViT-based pathology foundation model pretrained with iBOT self-supervision on TCGA whole-slide images.
+- [Phikon](https://huggingface.co/owkin/phikon) — ViT-based pathology foundation model pretrained with iBOT self-supervision on TCGA whole-slide images.
 
 ##### Multi-Omics Foundation Models
 
