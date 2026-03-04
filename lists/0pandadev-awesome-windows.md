@@ -8,7 +8,7 @@
 
 > [!CAUTION]
 >
-> Vibecoded slop and tools that dont fall in the category of "awesome" are not welcomed on this list and PR's will be rejected.
+> Vibecoded slop and tools that don't fall in the category of "awesome" are not welcomed on this list and PR's will be rejected.
 
 > \[!NOTE]
 >
