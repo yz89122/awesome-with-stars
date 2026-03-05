@@ -230,7 +230,7 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 | <a href="https://www.life-global.org/course/27-your-target-audience" target="_blank" rel="noopener noreferrer">Your Target Audience</a> | HP / Life Global | Beginner | 0.5 | 🏆 |
 | <a href="https://www.life-global.org/course/30-effective-business-websites" target="_blank" rel="noopener noreferrer">Effective Business Websites</a> | HP / Life Global | Beginner | 0.5 | 🏆 |
 
-<a href="https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents" target="_blank" rel="noopener noreferrer">⬆️</a>
+<a href="https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents" target="_blank" rel="noopener noreferrer">���️</a>
 
 ### Professional Development / Communication
 
@@ -556,7 +556,7 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 | <a href="https://www.netacad.com/courses/ethical-hacker" target="_blank" rel="noopener noreferrer">Ethical Hacker</a>| Cisco Networking Academy | Intermediate | 70 | <a href="https://www.netacad.com/courses/ethical-hacker" target="_blank" rel="noopener noreferrer">🏆</a>|
 | <a href="https://www.netacad.com/courses/packet-tracer" target="_blank" rel="noopener noreferrer">Intro to Packet Tracer</a> | Cisco Networking Academy | Beginner | 10  | <a href="https://www.youracclaim.com/org/cisco/badge/introduction-to-packet-tracer" target="_blank" rel="noopener noreferrer">🏅</a> |
 | <a href="https://skills.yourlearning.ibm.com/activity/ILB-DNRPWDGQGMMY7GGD" target="_blank" rel="noopener noreferrer">Cybersecurity Fundamentals</a> | IBM / SkillsBuild | Beginner | 10 | <a href="https://www.youracclaim.com/org/ibm/badge/cybersecurity-fundamentals" target="_blank" rel="noopener noreferrer">🏅</a> |
-| <a href="https://www.freecodecamp.org/learn/information-security/" target="_blank" rel="noopener noreferrer">Information Security Certification</a> | FreeCodeCamp |Professional|300 | 🏆|
+| <a href="https://www.freecodecamp.org/learn/information-security/" target="_blank" rel="noopener noreferrer">Information Security Certification</a> | FreeCodeCamp |Professional|300 | ��|
 | <a href="https://tryhackme.com/path/outline/jrpenetrationtester" target="_blank" rel="noopener noreferrer">JR Penetration Tester</a> | TryHackMe |Intermediate| 64 | 🏆|
 | <a href="https://tryhackme.com/path/outline/blueteam" target="_blank" rel="noopener noreferrer">Cyber Defense</a> | TryHackMe | Intermediate | 48 | 🏆 |
 | <a href="https://tryhackme.com/path/outline/redteaming" target="_blank" rel="noopener noreferrer">Red Teaming</a> | TryHackMe | Intermediate | 48 | 🏆 |
