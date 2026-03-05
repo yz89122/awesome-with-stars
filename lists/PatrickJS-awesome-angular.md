@@ -1203,6 +1203,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-gsap ![GitHub Repo Stars](https://img.shields.io/github/stars/marcos-velasquez/ngx-gsap) ![GitHub last commit](https://img.shields.io/github/last-commit/marcos-velasquez/ngx-gsap)](https://github.com/marcos-velasquez/ngx-gsap) - A lightweight, customizable Angular animation library powered by GSAP that's declarative and easy to use.
 * [ngx-animations ![GitHub Repo Stars](https://img.shields.io/github/stars/bananalasmari/ngx-animations) ![GitHub last commit](https://img.shields.io/github/last-commit/bananalasmari/ngx-animations)](https://github.com/bananalasmari/ngx-animations) - Angular animation library inspired by GSAP, offering high-performance directives, components, and a timeline service with full RTL support.
 * [ngx-spring ![GitHub Repo Stars](https://img.shields.io/github/stars/angular-threejs/ngx-spring) ![GitHub last commit](https://img.shields.io/github/last-commit/angular-threejs/ngx-spring)](https://github.com/angular-threejs/ngx-spring) - Create fluid, natural-feeling animations using spring physics instead of durations and easing curves.
+* [ngx-unicode-spinners ![GitHub Repo Stars](https://img.shields.io/github/stars/neogenz/ngx-unicode-spinners) ![GitHub last commit](https://img.shields.io/github/last-commit/neogenz/ngx-unicode-spinners)](https://github.com/neogenz/ngx-unicode-spinners) - 18 braille-based Unicode spinner animations for Angular. Zero runtime dependencies.
 
 ### Calendars
 

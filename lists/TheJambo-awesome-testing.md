@@ -56,6 +56,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [WireMock ![GitHub Repo Stars](https://img.shields.io/github/stars/wiremock/wiremock) ![GitHub last commit](https://img.shields.io/github/last-commit/wiremock/wiremock)](https://github.com/wiremock/wiremock) - Open source HTTP mock engine written in Java. Embed in your test code, run as a standalone process, or deploy via Docker.
 
 ### Visual Testing
+- [Frostbyte Screenshot Action ![GitHub Repo Stars](https://img.shields.io/github/stars/OzorOwn/frostbyte-screenshot-action) ![GitHub last commit](https://img.shields.io/github/last-commit/OzorOwn/frostbyte-screenshot-action)](https://github.com/OzorOwn/frostbyte-screenshot-action) - GitHub Action for automated website screenshots in CI/CD pipelines. Supports multiple viewports, full-page capture, and dark mode emulation.
 - [Fluxguard](https://fluxguard.com) - Screenshot pixel and DOM change comparisons.
 - [GoodLooks ![GitHub Repo Stars](https://img.shields.io/github/stars/dashcamio/goodlooks) ![GitHub last commit](https://img.shields.io/github/last-commit/dashcamio/goodlooks)](https://github.com/dashcamio/goodlooks) - AI-powered visual validation for Playwright tests.
 - [Happo](https://happo.io) - Cross-browser screenshot and visual regression testing service, integrates with tools like Storybook, Playwright, and Cypress.
