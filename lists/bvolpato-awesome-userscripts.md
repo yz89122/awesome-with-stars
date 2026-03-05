@@ -564,7 +564,7 @@ Userscripts can be used w/ the following browsers:
             Install</a> /
         📖 <a href="https://docs.chatgptwidescreen.com/#readme">
             Readme</a> /
-        📢 <a href="https://github.com/adamlui/chatgpt-widescreen/discussions">
+        ��� <a href="https://github.com/adamlui/chatgpt-widescreen/discussions">
             Discuss</a> /
         🐛 <a href="https://github.com/adamlui/chatgpt-widescreen/issues">
             Report bug</a>
@@ -719,7 +719,7 @@ Userscripts can be used w/ the following browsers:
             Readme</a> /
         📢 <a href="https://github.com/adamlui/chatgpt-auto-continue/discussions">
             Discuss</a> /
-        🐛 <a href="https://github.com/adamlui/chatgpt-auto-continue/issues">
+        �� <a href="https://github.com/adamlui/chatgpt-auto-continue/issues">
             Report bug</a>
     </blockquote>
 </details>
@@ -775,7 +775,7 @@ Userscripts can be used w/ the following browsers:
             Readme</a> /
         📢 <a href="https://github.com/adamlui/chatgpt-infinity/discussions">
             Discuss</a> /
-        �� <a href="https://github.com/adamlui/chatgpt-infinity/issues">
+        🐛 <a href="https://github.com/adamlui/chatgpt-infinity/issues">
             Report bug</a>
     </blockquote>
 </details>
