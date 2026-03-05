@@ -285,7 +285,7 @@ Contributions are always welcome!
 * [Detecting outliers and anomalies in realtime at Datadog](https://www.youtube.com/watch?v=mG4ZpEhRKHA)
 * [How to Monitor the SRE Golden Signals](https://medium.com/devopslinks/how-to-monitor-the-sre-golden-signals-1391cadc7524)
 * [Monitoring in a DevOps World](https://queue.acm.org/detail.cfm?id=3178371)
-* [Monitoring Your Monitoring’s Monitoring](https://medium.com/@jerub/monitoring-your-monitorings-monitoring-51d479100f4c)
+* [Monitoring Your Monitoring��s Monitoring](https://medium.com/@jerub/monitoring-your-monitorings-monitoring-51d479100f4c)
 * [Observability: the new wave or buzzword?](https://medium.com/@dlite/observability-the-new-wave-or-buzzword-fc23a68abf72)
 * [Monitoring Isn't Observability](https://www.vividcortex.com/blog/monitoring-isnt-observability)
 * [Monitoring in the time of Cloud Native](https://medium.com/@copyconstruct/monitoring-in-the-time-of-cloud-native-c87c7a5bfa3e)
