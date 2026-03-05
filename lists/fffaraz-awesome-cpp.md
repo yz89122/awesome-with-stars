@@ -199,6 +199,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [minimp3 ![GitHub Repo Stars](https://img.shields.io/github/stars/lieff/minimp3) ![GitHub last commit](https://img.shields.io/github/last-commit/lieff/minimp3)](https://github.com/lieff/minimp3) - Public domain, header-only MP3 decoder with clean-room implementation. [CC0]
 * [Verovio ![GitHub Repo Stars](https://img.shields.io/github/stars/rism-ch/verovio) ![GitHub last commit](https://img.shields.io/github/last-commit/rism-ch/verovio)](https://github.com/rism-ch/verovio) - Verovio is a fast and lightweight music notation engraving library. [LGPL] [website](https://www.verovio.org)
 * [Wav2Letter++ ![GitHub Repo Stars](https://img.shields.io/github/stars/facebookresearch/wav2letter) ![GitHub last commit](https://img.shields.io/github/last-commit/facebookresearch/wav2letter)](https://github.com/facebookresearch/wav2letter/) - Public domain, a fast open source speech processing toolkit written entirely in C++ and uses the ArrayFire tensor library and the flashlight machine learning library for maximum efficiency. [BSD]
+* [PocketSphinx ![GitHub Repo Stars](https://img.shields.io/github/stars/cmusphinx/pocketsphinx) ![GitHub last commit](https://img.shields.io/github/last-commit/cmusphinx/pocketsphinx)](https://github.com/cmusphinx/pocketsphinx) - A lightweight speech recognition engine. [BSD-2-Clause] [website](https://cmusphinx.github.io/)
 
 ## Biology
 *Bioinformatics, Genomics, Biotech*
@@ -209,6 +210,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [SeqAn](http://www.seqan.de/) - Algorithms and data structures for the analysis of sequences with the focus on biological data. [BSD/3-clause]
 * [Vcflib ![GitHub Repo Stars](https://img.shields.io/github/stars/ekg/vcflib) ![GitHub last commit](https://img.shields.io/github/last-commit/ekg/vcflib)](https://github.com/ekg/vcflib) - A C++ library for parsing and manipulating VCF files. [MIT]
 * [Wham ![GitHub Repo Stars](https://img.shields.io/github/stars/zeeev/wham) ![GitHub last commit](https://img.shields.io/github/last-commit/zeeev/wham)](https://github.com/zeeev/wham) - Structural variants (SVs) in Genomes by directly applying association tests to BAM files. [MIT]
+* [htslib ![GitHub Repo Stars](https://img.shields.io/github/stars/samtools/htslib) ![GitHub last commit](https://img.shields.io/github/last-commit/samtools/htslib)](https://github.com/samtools/htslib) - A C library for reading/writing high-throughput sequencing data. [MIT/BSD] [website](http://www.htslib.org/)
 
 ## BitTorrent
 
@@ -262,6 +264,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
  * [termbox ![GitHub Repo Stars](https://img.shields.io/github/stars/nsf/termbox) ![GitHub last commit](https://img.shields.io/github/last-commit/nsf/termbox)](https://github.com/nsf/termbox) - A C library for writing text-based user interfaces. [MIT]
  * [TermOx ![GitHub Repo Stars](https://img.shields.io/github/stars/a-n-t-h-o-n-y/TermOx) ![GitHub last commit](https://img.shields.io/github/last-commit/a-n-t-h-o-n-y/TermOx)](https://github.com/a-n-t-h-o-n-y/TermOx) - C++17 Terminal User Interface(TUI) Library. [MIT]
  * [tuibox ![GitHub Repo Stars](https://img.shields.io/github/stars/Cubified/tuibox) ![GitHub last commit](https://img.shields.io/github/last-commit/Cubified/tuibox)](https://github.com/Cubified/tuibox) - A single-header terminal UI (TUI) library, capable of creating mouse-driven, interactive applications on the command line. [MIT]
+* [Ginseng ![GitHub Repo Stars](https://img.shields.io/github/stars/chewax/Ginseng) ![GitHub last commit](https://img.shields.io/github/last-commit/chewax/Ginseng)](https://github.com/chewax/Ginseng) - A C++ command-line argument parser. [MIT]
 
 ## Compression
 *Compression and Archiving Libraries*
@@ -292,6 +295,9 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [zlib-ng ![GitHub Repo Stars](https://img.shields.io/github/stars/zlib-ng/zlib-ng) ![GitHub last commit](https://img.shields.io/github/last-commit/zlib-ng/zlib-ng)](https://github.com/zlib-ng/zlib-ng) - zlib for the "next generation" systems. Drop-In replacement with some serious optimizations. [zlib]
 * [zstd ![GitHub Repo Stars](https://img.shields.io/github/stars/facebook/zstd) ![GitHub last commit](https://img.shields.io/github/last-commit/facebook/zstd)](https://github.com/facebook/zstd) - Zstandard - Fast real-time compression algorithm. Developed by Facebook. [BSD]
 * [ZZIPlib](http://zziplib.sourceforge.net/) - Provides read access on ZIP-archives. [MPL/LGPL]
+* [cmix ![GitHub Repo Stars](https://img.shields.io/github/stars/byronknoll/cmix) ![GitHub last commit](https://img.shields.io/github/last-commit/byronknoll/cmix)](https://github.com/byronknoll/cmix) - A lossless data compression program that aims for the highest compression ratios at the cost of speed. [GPL-3.0]
+* [LZSSE-SIMDe ![GitHub Repo Stars](https://img.shields.io/github/stars/nemequ/LZSSE-SIMDe) ![GitHub last commit](https://img.shields.io/github/last-commit/nemequ/LZSSE-SIMDe)](https://github.com/nemequ/LZSSE-SIMDe) - A portable SIMD implementation of LZSSE compression. [BSD-2-Clause]
+* [Zopfli ![GitHub Repo Stars](https://img.shields.io/github/stars/google/zopfli) ![GitHub last commit](https://img.shields.io/github/last-commit/google/zopfli)](https://github.com/google/zopfli) - A compression library that performs very good but slow deflate/zlib compression. [Apache-2.0]
 
 ## Concurrency
 *Concurrency and Multithreading*
@@ -344,6 +350,8 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [VexCL ![GitHub Repo Stars](https://img.shields.io/github/stars/ddemidov/vexcl) ![GitHub last commit](https://img.shields.io/github/last-commit/ddemidov/vexcl)](https://github.com/ddemidov/vexcl) - A C++ vector expression template library for OpenCL/CUDA. [MIT]
 * [STAPL](http://parasol-lab.gitlab.io/stapl-home/) - A C++ parallel programming framework designed to work on both shared and distributed memory parallel computers. [BSD]
 * [concurrencpp ![GitHub Repo Stars](https://img.shields.io/github/stars/David-Haim/concurrencpp) ![GitHub last commit](https://img.shields.io/github/last-commit/David-Haim/concurrencpp)](https://github.com/David-Haim/concurrencpp) - A general concurrency library containing tasks, executors, timers and C++20 coroutines to rule them all.
+* [libcu++ ![GitHub Repo Stars](https://img.shields.io/github/stars/NVIDIA/libcudacxx) ![GitHub last commit](https://img.shields.io/github/last-commit/NVIDIA/libcudacxx)](https://github.com/NVIDIA/libcudacxx) - The NVIDIA C++ Standard Library, providing heterogeneous implementation of C++ Standard Library facilities. [Apache-2.0]
+* [nvthreads ![GitHub Repo Stars](https://img.shields.io/github/stars/HewlettPackard/nvthreads) ![GitHub last commit](https://img.shields.io/github/last-commit/HewlettPackard/nvthreads)](https://github.com/HewlettPackard/nvthreads) - A library for enabling efficient and persistent threading in C/C++. [LGPL-2.1]
 
 ## Configuration
 *Configuration files, INI files*
@@ -387,6 +395,9 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [svector ![GitHub Repo Stars](https://img.shields.io/github/stars/martinus/svector) ![GitHub last commit](https://img.shields.io/github/last-commit/martinus/svector)](https://github.com/martinus/svector) - Compact SVO optimized vector for C++17 or higher. [MIT]
 * [tree.hh ![GitHub Repo Stars](https://img.shields.io/github/stars/kpeeters/tree.hh) ![GitHub last commit](https://img.shields.io/github/last-commit/kpeeters/tree.hh)](https://github.com/kpeeters/tree.hh) - An STL-like C++ header-only tree library. [GPL2+]
 * [unordered_dense ![GitHub Repo Stars](https://img.shields.io/github/stars/martinus/unordered_dense) ![GitHub last commit](https://img.shields.io/github/last-commit/martinus/unordered_dense)](https://github.com/martinus/unordered_dense) - A fast & densely stored hashmap and hashset based on robin-hood backward shift deletion. [MIT]
+* [CRoaring ![GitHub Repo Stars](https://img.shields.io/github/stars/RoaringBitmap/CRoaring) ![GitHub last commit](https://img.shields.io/github/last-commit/RoaringBitmap/CRoaring)](https://github.com/RoaringBitmap/CRoaring) - Roaring bitmaps in C (and C++), with SIMD optimizations. [Apache-2.0]
+* [fifo_map ![GitHub Repo Stars](https://img.shields.io/github/stars/nlohmann/fifo_map) ![GitHub last commit](https://img.shields.io/github/last-commit/nlohmann/fifo_map)](https://github.com/nlohmann/fifo_map) - A FIFO-ordered associative container for C++. [MIT]
+* [ordered-map ![GitHub Repo Stars](https://img.shields.io/github/stars/Tessil/ordered-map) ![GitHub last commit](https://img.shields.io/github/last-commit/Tessil/ordered-map)](https://github.com/Tessil/ordered-map) - A C++ hash map and hash set which preserves the order of insertion. [MIT]
 
 ## Cryptography
 *Cryptography and Encryption Libraries*
@@ -411,8 +422,13 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [sha1collisiondetection ![GitHub Repo Stars](https://img.shields.io/github/stars/cr-marcstevens/sha1collisiondetection) ![GitHub last commit](https://img.shields.io/github/last-commit/cr-marcstevens/sha1collisiondetection)](https://github.com/cr-marcstevens/sha1collisiondetection) - Library and command line tool to detect SHA-1 collision in a file. [MIT]
 * [Tink ![GitHub Repo Stars](https://img.shields.io/github/stars/google/tink) ![GitHub last commit](https://img.shields.io/github/last-commit/google/tink)](https://github.com/google/tink) - A multi-language, cross-platform library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse. [Apache-2.0]
 * [Tiny AES in C ![GitHub Repo Stars](https://img.shields.io/github/stars/kokke/tiny-AES-c) ![GitHub last commit](https://img.shields.io/github/last-commit/kokke/tiny-AES-c)](https://github.com/kokke/tiny-AES-c) - Small portable AES128/192/256 in C. [PublicDomain]
+* [tiny-ECDH-c ![GitHub Repo Stars](https://img.shields.io/github/stars/kokke/tiny-ECDH-c) ![GitHub last commit](https://img.shields.io/github/last-commit/kokke/tiny-ECDH-c)](https://github.com/kokke/tiny-ECDH-c) - Small and portable implementation of the ECDH key agreement protocol in C. [PublicDomain]
 * [Themis ![GitHub Repo Stars](https://img.shields.io/github/stars/cossacklabs/themis) ![GitHub last commit](https://img.shields.io/github/last-commit/cossacklabs/themis)](https://github.com/cossacklabs/themis) - crypto library for painless data security, providing symmetric and asymmetric encryption, secure sockets with forward secrecy, for mobile and server platforms. [Apache2]
 * [HEhub ![GitHub Repo Stars](https://img.shields.io/github/stars/primihub/HEhub) ![GitHub last commit](https://img.shields.io/github/last-commit/primihub/HEhub)](https://github.com/primihub/HEhub) - A library for homomorphic encryption and its applications. [Apache2]
+* [Qt-Secret ![GitHub Repo Stars](https://img.shields.io/github/stars/QuasarApp/Qt-Secret) ![GitHub last commit](https://img.shields.io/github/last-commit/QuasarApp/Qt-Secret)](https://github.com/QuasarApp/Qt-Secret) - Simple encryption library based on Qt for C++ projects. [LGPL]
+* [micro-ecc ![GitHub Repo Stars](https://img.shields.io/github/stars/kmackay/micro-ecc) ![GitHub last commit](https://img.shields.io/github/last-commit/kmackay/micro-ecc)](https://github.com/kmackay/micro-ecc) - A small and fast ECDH and ECDSA implementation for 8-bit, 32-bit, and 64-bit processors. [BSD-2-Clause]
+* [crypto-algorithms ![GitHub Repo Stars](https://img.shields.io/github/stars/B-Con/crypto-algorithms) ![GitHub last commit](https://img.shields.io/github/last-commit/B-Con/crypto-algorithms)](https://github.com/B-Con/crypto-algorithms) - Basic implementations of standard cryptography algorithms (AES, SHA, etc.) in C. [PublicDomain]
+* [aes-stream ![GitHub Repo Stars](https://img.shields.io/github/stars/jedisct1/aes-stream) ![GitHub last commit](https://img.shields.io/github/last-commit/jedisct1/aes-stream)](https://github.com/jedisct1/aes-stream) - A fast AES-based stream cipher for C. [ISC]
 
 ## CSV
 *Libraries for parsing Comma Separated Value (CSV) files*
@@ -473,6 +489,8 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [Trilogy ![GitHub Repo Stars](https://img.shields.io/github/stars/trilogy-libraries/trilogy) ![GitHub last commit](https://img.shields.io/github/last-commit/trilogy-libraries/trilogy)](https://github.com/trilogy-libraries/trilogy) - a client library for MySQL-compatible database servers, designed for performance, flexibility, and ease of embedding. [MIT]
 * [UStore ![GitHub Repo Stars](https://img.shields.io/github/stars/unum-cloud/ustore) ![GitHub last commit](https://img.shields.io/github/last-commit/unum-cloud/ustore)](https://github.com/unum-cloud/ustore) - Multi-Modal database for BLOBs, JSON, and graphs. [Apache2]
 * [Velox ![GitHub Repo Stars](https://img.shields.io/github/stars/facebookincubator/velox) ![GitHub last commit](https://img.shields.io/github/last-commit/facebookincubator/velox)](https://github.com/facebookincubator/velox) - A C++ vectorized database acceleration library aimed to optimizing query engines and data processing systems. [Apache-2.0] [website](https://velox-lib.io/)
+* [constexpr-sql ![GitHub Repo Stars](https://img.shields.io/github/stars/mkitzan/constexpr-sql) ![GitHub last commit](https://img.shields.io/github/last-commit/mkitzan/constexpr-sql)](https://github.com/mkitzan/constexpr-sql) - A compile-time SQL query parser and executor in C++17. [MIT]
+* [NuDB ![GitHub Repo Stars](https://img.shields.io/github/stars/cppalliance/NuDB) ![GitHub last commit](https://img.shields.io/github/last-commit/cppalliance/NuDB)](https://github.com/cppalliance/NuDB) - A fast, append-only key/value store for SSD drives. [Boost]
 
 ## Data visualization
 *Data visualization Libraries*
@@ -481,6 +499,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [matplotplusplus ![GitHub Repo Stars](https://img.shields.io/github/stars/alandefreitas/matplotplusplus) ![GitHub last commit](https://img.shields.io/github/last-commit/alandefreitas/matplotplusplus)](https://github.com/alandefreitas/matplotplusplus) - C++ Graphics Library for Data Visualization. [MIT] [website](https://alandefreitas.github.io/matplotplusplus/)
 * [mathplot ![GitHub Repo Stars](https://img.shields.io/github/stars/sebsjames/mathplot) ![GitHub last commit](https://img.shields.io/github/last-commit/sebsjames/mathplot)](https://github.com/sebsjames/mathplot) - C++ header-only graphing and data visualization with modern OpenGL. [Apache-2.0] [website](https://sebsjames.github.io/mathplot/)
 * [Plotly++ ![GitHub Repo Stars](https://img.shields.io/github/stars/jimmyorourke/plotlypp) ![GitHub last commit](https://img.shields.io/github/last-commit/jimmyorourke/plotlypp)](https://github.com/jimmyorourke/plotlypp) - A C++ interface to the Plotly.js figure spec, for creating interactive data visualizations. [MIT]
+* [matplotlib-cpp ![GitHub Repo Stars](https://img.shields.io/github/stars/lava/matplotlib-cpp) ![GitHub last commit](https://img.shields.io/github/last-commit/lava/matplotlib-cpp)](https://github.com/lava/matplotlib-cpp) - A C++ wrapper around the matplotlib Python plotting library. [MIT]
 
 ## Debug
 *Debugging Libraries, Memory Leak and Resource Leak Detection, Unit Testing*
@@ -528,6 +547,8 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [utl::profiler ![GitHub Repo Stars](https://img.shields.io/github/stars/DmitriBogdanov/UTL) ![GitHub last commit](https://img.shields.io/github/last-commit/DmitriBogdanov/UTL)](https://github.com/DmitriBogdanov/UTL/blob/master/docs/module_profiler.md) - Singe-header profiler for C++17. [MIT]
 * [μt ![GitHub Repo Stars](https://img.shields.io/github/stars/boost-experimental/ut) ![GitHub last commit](https://img.shields.io/github/last-commit/boost-experimental/ut)](https://github.com/boost-experimental/ut) - C++20 single header/single module, macro-free μ(micro)/Unit Testing Framework. [Boost]
 * [VLD](https://kinddragon.github.io/vld//) - Visual Leak Detector. A free, robust, open-source memory leak detection system for Visual C++.
+* [MTuner ![GitHub Repo Stars](https://img.shields.io/github/stars/milostosic/MTuner) ![GitHub last commit](https://img.shields.io/github/last-commit/milostosic/MTuner)](https://github.com/milostosic/MTuner) - A C/C++ memory profiler and memory leak finder for Windows, PlayStation, and other platforms. [BSD-2-Clause]
+* [heaptrack ![GitHub Repo Stars](https://img.shields.io/github/stars/KDE/heaptrack) ![GitHub last commit](https://img.shields.io/github/last-commit/KDE/heaptrack)](https://github.com/KDE/heaptrack) - A heap memory profiler for Linux. [LGPL-2.1]
 
 ## Documentation
 
@@ -629,6 +650,8 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [wxCharts ![GitHub Repo Stars](https://img.shields.io/github/stars/wxIshiko/wxCharts) ![GitHub last commit](https://img.shields.io/github/last-commit/wxIshiko/wxCharts)](https://github.com/wxIshiko/wxCharts) - A library to create charts in wxWidgets applications. [MIT] [website](https://www.wxishiko.com/wxCharts/)
 * [wxWidgets](http://wxwidgets.org/) - A C++ library that lets developers create applications for Windows, Mac OS X, Linux and other platforms with a single code base. [Own LGPL]
 * [Yue ![GitHub Repo Stars](https://img.shields.io/github/stars/yue/yue) ![GitHub last commit](https://img.shields.io/github/last-commit/yue/yue)](https://github.com/yue/yue) - A library for creating native cross-platform GUI apps. [LGPLv2]
+* [GuiLite ![GitHub Repo Stars](https://img.shields.io/github/stars/idea4good/GuiLite) ![GitHub last commit](https://img.shields.io/github/last-commit/idea4good/GuiLite)](https://github.com/idea4good/GuiLite) - The smallest header-only GUI library (5 KLOC) for all platforms. [Apache-2.0]
+* [LCUI ![GitHub Repo Stars](https://img.shields.io/github/stars/lc-soft/LCUI) ![GitHub last commit](https://img.shields.io/github/last-commit/lc-soft/LCUI)](https://github.com/lc-soft/LCUI) - A small C library for building user interfaces with C, XML and CSS. [MIT]
 
 ## Graphics
 
@@ -707,6 +730,8 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [Video++ ![GitHub Repo Stars](https://img.shields.io/github/stars/matt-42/vpp) ![GitHub last commit](https://img.shields.io/github/last-commit/matt-42/vpp)](https://github.com/matt-42/vpp) - A C++14 high performance video and image processing library. [MIT]
 * [VIGRA ![GitHub Repo Stars](https://img.shields.io/github/stars/ukoethe/vigra) ![GitHub last commit](https://img.shields.io/github/last-commit/ukoethe/vigra)](https://github.com/ukoethe/vigra) - A generic C++ computer vision library for image analysis. [MIT X11]
 * [VTK](http://www.vtk.org/) - Open-source, freely available software system for 3D computer graphics, image processing and visualization. [BSD]
+* [OpenImageDenoise ![GitHub Repo Stars](https://img.shields.io/github/stars/OpenImageDenoise/oidn) ![GitHub last commit](https://img.shields.io/github/last-commit/OpenImageDenoise/oidn)](https://github.com/OpenImageDenoise/oidn) - High-performance, high-quality denoising library for ray-traced images. [Apache-2.0] [website](https://www.openimagedenoise.org/)
+* [bitmap ![GitHub Repo Stars](https://img.shields.io/github/stars/ArashPartow/bitmap) ![GitHub last commit](https://img.shields.io/github/last-commit/ArashPartow/bitmap)](https://github.com/ArashPartow/bitmap) - C++ Bitmap Library for reading, writing, and processing BMP image files. [MIT]
 
 ## Internationalization
 
@@ -781,6 +806,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [UltraJSON ![GitHub Repo Stars](https://img.shields.io/github/stars/ultrajson/ultrajson) ![GitHub last commit](https://img.shields.io/github/last-commit/ultrajson/ultrajson)](https://github.com/ultrajson/ultrajson) - Ultra fast JSON decoder and encoder written in C. [BSD-3-Clause]
 * [YAJL ![GitHub Repo Stars](https://img.shields.io/github/stars/lloyd/yajl) ![GitHub last commit](https://img.shields.io/github/last-commit/lloyd/yajl)](https://github.com/lloyd/yajl) - A fast streaming JSON parsing library in C. [ISC]
 * [yyjson ![GitHub Repo Stars](https://img.shields.io/github/stars/ibireme/yyjson) ![GitHub last commit](https://img.shields.io/github/last-commit/ibireme/yyjson)](https://github.com/ibireme/yyjson) - A high performance JSON library written in ANSI C. [MIT]
+* [libdart ![GitHub Repo Stars](https://img.shields.io/github/stars/target/libdart) ![GitHub last commit](https://img.shields.io/github/last-commit/target/libdart)](https://github.com/target/libdart) - A high-performance, network-optimized JSON manipulation library. [MIT]
 
 ## Logging
 
@@ -804,6 +830,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [templog](http://www.templog.org/) - A very small and lightweight C++ library which you can use to add logging to your C++ applications. [Boost]
 * [P7Baical](http://baical.net/p7.html) - An open source and cross-platform library for high-speed sending telemetry & trace data  with minimal usage of CPU and memory. [LGPL]
 * [Quill ![GitHub Repo Stars](https://img.shields.io/github/stars/odygrd/quill) ![GitHub last commit](https://img.shields.io/github/last-commit/odygrd/quill)](https://github.com/odygrd/quill) - Asynchronous cross platform low latency logging library. [MIT]
+* [logfault ![GitHub Repo Stars](https://img.shields.io/github/stars/jgaa/logfault) ![GitHub last commit](https://img.shields.io/github/last-commit/jgaa/logfault)](https://github.com/jgaa/logfault) - A simple, elegant and efficient C++ header-only logging library. [MIT]
 
 ## Machine Learning
 
@@ -832,6 +859,8 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [USearch ![GitHub Repo Stars](https://img.shields.io/github/stars/unum-cloud/usearch) ![GitHub last commit](https://img.shields.io/github/last-commit/unum-cloud/usearch)](https://github.com/unum-cloud/usearch) - Fast search and clustering library for vectors and strings. [Apache2]
 * [VLFeat ![GitHub Repo Stars](https://img.shields.io/github/stars/vlfeat/vlfeat) ![GitHub last commit](https://img.shields.io/github/last-commit/vlfeat/vlfeat)](https://github.com/vlfeat/vlfeat) - The VLFeat open source library implements popular computer vision algorithms specialising in image understanding and local featurexs extraction and matching. [BSD-2-Clause] [website](http://www.vlfeat.org/)
 * [xgboost ![GitHub Repo Stars](https://img.shields.io/github/stars/dmlc/xgboost) ![GitHub last commit](https://img.shields.io/github/last-commit/dmlc/xgboost)](https://github.com/dmlc/xgboost) - Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library, for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Flink and DataFlow. [Apache2]
+* [TensorComprehensions ![GitHub Repo Stars](https://img.shields.io/github/stars/facebookresearch/TensorComprehensions) ![GitHub last commit](https://img.shields.io/github/last-commit/facebookresearch/TensorComprehensions)](https://github.com/facebookresearch/TensorComprehensions) - A fully-functional C++ library to automatically synthesize high-performance machine learning kernels. [Apache-2.0]
+* [kann ![GitHub Repo Stars](https://img.shields.io/github/stars/attractivechaos/kann) ![GitHub last commit](https://img.shields.io/github/last-commit/attractivechaos/kann)](https://github.com/attractivechaos/kann) - A lightweight C library for artificial neural networks. [MIT]
 
 ## Math
 
@@ -881,6 +910,13 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [universal ![GitHub Repo Stars](https://img.shields.io/github/stars/stillwater-sc/universal) ![GitHub last commit](https://img.shields.io/github/last-commit/stillwater-sc/universal)](https://github.com/stillwater-sc/universal) - A C++14 header-only library implementing arbitrary posit arithmetic. The posit number system is a tapered floating point that is more efficient than IEEE floating point. Posits enable reproducible computational science. [MIT license]
 * [utl::random ![GitHub Repo Stars](https://img.shields.io/github/stars/DmitriBogdanov/UTL) ![GitHub last commit](https://img.shields.io/github/last-commit/DmitriBogdanov/UTL)](https://github.com/DmitriBogdanov/UTL/blob/master/docs/module_random.md) - A C++17 header-only library implementing fast random for Monte-Carlo simulations & gamedev. [MIT]
 * [XAD ![GitHub Repo Stars](https://img.shields.io/github/stars/auto-differentiation/xad) ![GitHub last commit](https://img.shields.io/github/last-commit/auto-differentiation/xad)](https://github.com/auto-differentiation/xad) - Powerful Automatic Differentiation for C++. [AGPL] [website](https://auto-differentiation.github.io/)
+* [geogram ![GitHub Repo Stars](https://img.shields.io/github/stars/BrunoLevy/geogram) ![GitHub last commit](https://img.shields.io/github/last-commit/BrunoLevy/geogram)](https://github.com/BrunoLevy/geogram) - A programming library of geometric algorithms. [BSD-3-Clause] [website](http://alice.loria.fr/software/geogram/doc/html/index.html)
+* [std-simd ![GitHub Repo Stars](https://img.shields.io/github/stars/VcDevel/std-simd) ![GitHub last commit](https://img.shields.io/github/last-commit/VcDevel/std-simd)](https://github.com/VcDevel/std-simd) - A portable implementation of std::experimental::simd for C++. [BSD-3-Clause]
+* [libdivide ![GitHub Repo Stars](https://img.shields.io/github/stars/ridiculousfish/libdivide) ![GitHub last commit](https://img.shields.io/github/last-commit/ridiculousfish/libdivide)](https://github.com/ridiculousfish/libdivide) - Optimized integer division for C/C++ using libdivide. [zlib] [website](https://libdivide.com)
+* [fpsqrt ![GitHub Repo Stars](https://img.shields.io/github/stars/chmike/fpsqrt) ![GitHub last commit](https://img.shields.io/github/last-commit/chmike/fpsqrt)](https://github.com/chmike/fpsqrt) - Fast fixed point and floating point square root for C. [MIT]
+* [fastmod ![GitHub Repo Stars](https://img.shields.io/github/stars/lemire/fastmod) ![GitHub last commit](https://img.shields.io/github/last-commit/lemire/fastmod)](https://github.com/lemire/fastmod) - Header-only fast C/C++ library for computing remainders and modular reductions. [Apache-2.0]
+* [Spectra ![GitHub Repo Stars](https://img.shields.io/github/stars/yixuan/spectra) ![GitHub last commit](https://img.shields.io/github/last-commit/yixuan/spectra)](https://github.com/yixuan/spectra) - A C++ library for large scale eigenvalue problems, built on top of Eigen. [MPL2] [website](https://spectralib.org)
+* [FastNoiseSIMD ![GitHub Repo Stars](https://img.shields.io/github/stars/Auburns/FastNoiseSIMD) ![GitHub last commit](https://img.shields.io/github/last-commit/Auburns/FastNoiseSIMD)](https://github.com/Auburns/FastNoiseSIMD) - A library for SIMD-accelerated noise generation functions. [MIT]
 
 ## Memory Allocation
 
@@ -896,6 +932,9 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [TCMalloc ![GitHub Repo Stars](https://img.shields.io/github/stars/google/tcmalloc) ![GitHub last commit](https://img.shields.io/github/last-commit/google/tcmalloc)](https://github.com/google/tcmalloc) - Google's fast, multi-threaded malloc implementation. [Apache-2.0] [website](https://google.github.io/tcmalloc/)
 * [buddy_alloc ![GitHub Repo Stars](https://img.shields.io/github/stars/spaskalev/buddy_alloc) ![GitHub last commit](https://img.shields.io/github/last-commit/spaskalev/buddy_alloc)](https://github.com/spaskalev/buddy_alloc) - A single header buddy memory allocator for C with bounded allocation costs. [0BSD]
 * [tgc ![GitHub Repo Stars](https://img.shields.io/github/stars/orangeduck/tgc) ![GitHub last commit](https://img.shields.io/github/last-commit/orangeduck/tgc)](https://github.com/orangeduck/tgc) - A tiny garbage collector for C written in \~500 LOC. [BSD]
+* [Mesh ![GitHub Repo Stars](https://img.shields.io/github/stars/plasma-umass/Mesh) ![GitHub last commit](https://img.shields.io/github/last-commit/plasma-umass/Mesh)](https://github.com/plasma-umass/Mesh) - A memory allocator that automatically reduces the memory footprint of C/C++ applications. [Apache-2.0]
+* [rpmalloc ![GitHub Repo Stars](https://img.shields.io/github/stars/rampantpixels/rpmalloc) ![GitHub last commit](https://img.shields.io/github/last-commit/rampantpixels/rpmalloc)](https://github.com/rampantpixels/rpmalloc) - A public domain cross-platform lock-free thread-caching 16-byte aligned memory allocator. [PublicDomain]
+* [TLSF ![GitHub Repo Stars](https://img.shields.io/github/stars/mattconte/tlsf) ![GitHub last commit](https://img.shields.io/github/last-commit/mattconte/tlsf)](https://github.com/mattconte/tlsf) - Two-Level Segregated Fit memory allocator, a general purpose dynamic memory allocator. [BSD]
 
 ## Multimedia
 
@@ -976,6 +1015,9 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [PcapPlusPlus ![GitHub Repo Stars](https://img.shields.io/github/stars/seladb/PcapPlusPlus) ![GitHub last commit](https://img.shields.io/github/last-commit/seladb/PcapPlusPlus)](https://github.com/seladb/PcapPlusPlus) - a multiplatform C++ network sniffing and packet parsing and crafting framework. [Unlicense]
 * [ZeroMQ ![GitHub Repo Stars](https://img.shields.io/github/stars/zeromq/libzmq) ![GitHub last commit](https://img.shields.io/github/last-commit/zeromq/libzmq)](https://github.com/zeromq/libzmq) - High-speed, modular asynchronous communication library. [LGPL3/MPL2] [website](http://zeromq.org/)
 * [Zyre ![GitHub Repo Stars](https://img.shields.io/github/stars/zeromq/zyre) ![GitHub last commit](https://img.shields.io/github/last-commit/zeromq/zyre)](https://github.com/zeromq/zyre) - Local Area Clustering for Peer-to-Peer Applications. [MPL2]
+* [easyhttpcpp ![GitHub Repo Stars](https://img.shields.io/github/stars/sony/easyhttpcpp) ![GitHub last commit](https://img.shields.io/github/last-commit/sony/easyhttpcpp)](https://github.com/sony/easyhttpcpp) - A cross-platform HTTP client library providing a caching facility from Sony. [MIT]
+* [GameNetworkingSockets ![GitHub Repo Stars](https://img.shields.io/github/stars/ValveSoftware/GameNetworkingSockets) ![GitHub last commit](https://img.shields.io/github/last-commit/ValveSoftware/GameNetworkingSockets)](https://github.com/ValveSoftware/GameNetworkingSockets) - Reliable & unreliable messages over UDP by Valve. Connection-oriented API (like TCP). [BSD-3-Clause]
+* [wepoll ![GitHub Repo Stars](https://img.shields.io/github/stars/piscisaureus/wepoll) ![GitHub last commit](https://img.shields.io/github/last-commit/piscisaureus/wepoll)](https://github.com/piscisaureus/wepoll) - A Windows epoll wrapper based on Winsock. [BSD-2-Clause]
 
 ## Office Open XML
 *Libraries for parsing and manipulating xlsx, pptx, docx, etc.*
@@ -1022,6 +1064,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [QuarkPhysics ![GitHub Repo Stars](https://img.shields.io/github/stars/erayzesen/QuarkPhysics) ![GitHub last commit](https://img.shields.io/github/last-commit/erayzesen/QuarkPhysics)](https://github.com/erayzesen/QuarkPhysics) - A 2D Soft Body and Rigid Body Physics Engine. [MIT]
 * [Simbody ![GitHub Repo Stars](https://img.shields.io/github/stars/simbody/simbody) ![GitHub last commit](https://img.shields.io/github/last-commit/simbody/simbody)](https://github.com/simbody/simbody) - High-performance C++ multibody dynamics/physics library for simulating articulated biomechanical and mechanical systems like vehicles, robots, and the human skeleton. [Apache2]
 * [SOFA ![GitHub Repo Stars](https://img.shields.io/github/stars/sofa-framework/sofa) ![GitHub last commit](https://img.shields.io/github/last-commit/sofa-framework/sofa)](https://github.com/sofa-framework/sofa) - SOFA is an open-source framework targeting at real-time simulation, with an emphasis on medical simulation. [LGPL] [website](https://www.sofa-framework.org)
+* [tungsten ![GitHub Repo Stars](https://img.shields.io/github/stars/tunabrain/tungsten) ![GitHub last commit](https://img.shields.io/github/last-commit/tunabrain/tungsten)](https://github.com/tunabrain/tungsten) - A high-performance physically based renderer in C++. [zlib]
 
 ## Reflection
 
@@ -1058,6 +1101,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [SRELL](https://www.akenotsuki.com/misc/srell/en/) - Unicode-aware regular expression template library for C++. [BSD]
 * [TRE ![GitHub Repo Stars](https://img.shields.io/github/stars/laurikari/tre) ![GitHub last commit](https://img.shields.io/github/last-commit/laurikari/tre)](https://github.com/laurikari/tre) - The approximate regex matching library and agrep command line tool. [BSD-2-Clause]
 * [Vectorscan ![GitHub Repo Stars](https://img.shields.io/github/stars/VectorCamp/vectorscan) ![GitHub last commit](https://img.shields.io/github/last-commit/VectorCamp/vectorscan)](https://github.com/VectorCamp/vectorscan) - A portable fork of the high-performance regular expression matching library. [BSD-3-Clause] [website](https://www.vectorcamp.gr/project/vectorscan/)
+* [Pawn.Regex ![GitHub Repo Stars](https://img.shields.io/github/stars/urShadow/Pawn.Regex) ![GitHub last commit](https://img.shields.io/github/last-commit/urShadow/Pawn.Regex)](https://github.com/urShadow/Pawn.Regex) - A Pawn plugin that provides support for regular expressions using C++11 std::regex. [MIT]
 
 ## Robotics
 
@@ -1118,6 +1162,8 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [V8](https://v8.dev) - A fast JavaScript engine by Google that can be embedded into any C++ application. [BSD]
 * [v8pp ![GitHub Repo Stars](https://img.shields.io/github/stars/pmed/v8pp) ![GitHub last commit](https://img.shields.io/github/last-commit/pmed/v8pp)](https://github.com/pmed/v8pp) - Header-only library to expose C++ classes and functions into V8 to use them in JavaScript code. [BOOST] [website](https://pmed.github.io/v8pp/)
 * [ChakraCore ![GitHub Repo Stars](https://img.shields.io/github/stars/Microsoft/ChakraCore) ![GitHub last commit](https://img.shields.io/github/last-commit/Microsoft/ChakraCore)](https://github.com/Microsoft/ChakraCore) -A JavaScript engine by Microsoft that can be embedded into nodejs. [MIT]
+* [MuJS](https://codeberg.org/ccxvii/mujs) - An embeddable Javascript interpreter in C. [ISC] [website](http://mujs.com)
+* [hobbes ![GitHub Repo Stars](https://img.shields.io/github/stars/Morgan-Stanley/hobbes) ![GitHub last commit](https://img.shields.io/github/last-commit/Morgan-Stanley/hobbes)](https://github.com/Morgan-Stanley/hobbes) - A language and an embedded JIT compiler from Morgan Stanley. [Apache-2.0]
 
 ## Serialization
 
@@ -1144,6 +1190,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [Wirehair ![GitHub Repo Stars](https://img.shields.io/github/stars/catid/wirehair) ![GitHub last commit](https://img.shields.io/github/last-commit/catid/wirehair)](https://github.com/catid/wirehair) - O(N) Fountain Code for Large Data. [BSD-3-Clause]
 * [YAS ![GitHub Repo Stars](https://img.shields.io/github/stars/niXman/yas) ![GitHub last commit](https://img.shields.io/github/last-commit/niXman/yas)](https://github.com/niXman/yas) - Very fast **Y**et **A**nother **S**erialization library supports the binary/text/json formats. [Boost]
 * [zpp_bits ![GitHub Repo Stars](https://img.shields.io/github/stars/eyalz800/zpp_bits) ![GitHub last commit](https://img.shields.io/github/last-commit/eyalz800/zpp_bits)](https://github.com/eyalz800/zpp_bits) - Actually, the fastest modern **S**erialization library. Just check [this video](https://www.youtube.com/watch?v=G7-GQhCw8eE&ab_channel=CppCon).
+* [fbthrift ![GitHub Repo Stars](https://img.shields.io/github/stars/facebook/fbthrift) ![GitHub last commit](https://img.shields.io/github/last-commit/facebook/fbthrift)](https://github.com/facebook/fbthrift) - Facebook's branch of Apache Thrift, including a serialization library and RPC framework. [Apache-2.0]
 
 ## Serial Port
 
@@ -1171,6 +1218,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [OpenH264 ![GitHub Repo Stars](https://img.shields.io/github/stars/cisco/openh264) ![GitHub last commit](https://img.shields.io/github/last-commit/cisco/openh264)](https://github.com/cisco/openh264) - Open Source H.264 Codec. [BSD] [website](http://www.openh264.org/)
 * [Theora](http://www.theora.org/) - A free and open video compression format. [BSD]
 * [Vireo ![GitHub Repo Stars](https://img.shields.io/github/stars/twitter/vireo) ![GitHub last commit](https://img.shields.io/github/last-commit/twitter/vireo)](https://github.com/twitter/vireo/) - A lightweight and versatile video processing library by Twitter. [MIT]
+* [libuvc ![GitHub Repo Stars](https://img.shields.io/github/stars/libuvc/libuvc) ![GitHub last commit](https://img.shields.io/github/last-commit/libuvc/libuvc)](https://github.com/libuvc/libuvc) - A cross-platform library for USB video devices. [BSD]
 
 ## Virtual Machines
 
@@ -1197,6 +1245,8 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [TreeFrog Framework ![GitHub Repo Stars](https://img.shields.io/github/stars/treefrogframework/treefrog-framework) ![GitHub last commit](https://img.shields.io/github/last-commit/treefrogframework/treefrog-framework)](https://github.com/treefrogframework/treefrog-framework) - High-speed and full-stack web application framework based on C++ and Qt, which supports HTTP and WebSocket protocol (with O/R mapping). [BSD] [website](http://www.treefrogframework.org/)
 * [userver ![GitHub Repo Stars](https://img.shields.io/github/stars/userver-framework/userver) ![GitHub last commit](https://img.shields.io/github/last-commit/userver-framework/userver)](https://github.com/userver-framework/userver) - Asynchronous C++17 framework with a rich set of abstractions and database drivers for fast and comfortable creation of efficient microservices, services and utilities. [Apache-2.0] [website](https://userver.tech/)
 * [Wt](http://www.webtoolkit.eu/wt) - A C++ library for developing web applications. [GPL/Proprietary]
+* [httpserver.h ![GitHub Repo Stars](https://img.shields.io/github/stars/jeremycw/httpserver.h) ![GitHub last commit](https://img.shields.io/github/last-commit/jeremycw/httpserver.h)](https://github.com/jeremycw/httpserver.h) - A single-header HTTP server library for C. [MIT]
+* [libhttp ![GitHub Repo Stars](https://img.shields.io/github/stars/lammertb/libhttp) ![GitHub last commit](https://img.shields.io/github/last-commit/lammertb/libhttp)](https://github.com/lammertb/libhttp) - A cross-platform HTTP and HTTPS library in C/C++. [MIT]
 
 ## XML
 *XML is crap. Really. There are no excuses. XML is nasty to parse for humans, and it's a disaster to parse even for computers. There's just no reason for that horrible crap to exist. - Linus Torvalds*
@@ -1314,6 +1364,18 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [xxhash_cpp ![GitHub Repo Stars](https://img.shields.io/github/stars/RedSpah/xxhash_cpp) ![GitHub last commit](https://img.shields.io/github/last-commit/RedSpah/xxhash_cpp)](https://github.com/RedSpah/xxhash_cpp) - Port of the xxhash library to C++17. [BSD-2-Clause]
 * [ZBar](http://zbar.sourceforge.net/) - A barcode scanner library, which allows to scan photos/images/video streams for barcodes and return their value. [LGPL2]
 * [ZXing ![GitHub Repo Stars](https://img.shields.io/github/stars/zxing/zxing) ![GitHub last commit](https://img.shields.io/github/last-commit/zxing/zxing)](https://github.com/zxing/zxing/) - An open-source, multi-format 1D/2D barcode image processing library implemented in Java, with ports to other languages. [Apache]
+* [spy ![GitHub Repo Stars](https://img.shields.io/github/stars/jfalcou/spy) ![GitHub last commit](https://img.shields.io/github/last-commit/jfalcou/spy)](https://github.com/jfalcou/spy) - A C++17 constexpr library for detecting OS, compiler, architecture, and SIMD at compile time. [MIT]
+* [licensepp ![GitHub Repo Stars](https://img.shields.io/github/stars/amrayn/licensepp) ![GitHub last commit](https://img.shields.io/github/last-commit/amrayn/licensepp)](https://github.com/amrayn/licensepp) - A software license management library for C++ projects. [Apache-2.0]
+* [tinydir ![GitHub Repo Stars](https://img.shields.io/github/stars/cxong/tinydir) ![GitHub last commit](https://img.shields.io/github/last-commit/cxong/tinydir)](https://github.com/cxong/tinydir) - A lightweight, portable, and easy to integrate C directory and file reader. [BSD-2-Clause]
+* [Cello ![GitHub Repo Stars](https://img.shields.io/github/stars/orangeduck/Cello) ![GitHub last commit](https://img.shields.io/github/last-commit/orangeduck/Cello)](https://github.com/orangeduck/Cello) - Higher level programming in C, including generic data structures and polymorphism. [BSD-2-Clause] [website](http://libcello.org/)
+* [dyno ![GitHub Repo Stars](https://img.shields.io/github/stars/ldionne/dyno) ![GitHub last commit](https://img.shields.io/github/last-commit/ldionne/dyno)](https://github.com/ldionne/dyno) - A C++ library for runtime polymorphism with value semantics. [Boost]
+* [PolyHook ![GitHub Repo Stars](https://img.shields.io/github/stars/stevemk14ebr/PolyHook) ![GitHub last commit](https://img.shields.io/github/last-commit/stevemk14ebr/PolyHook)](https://github.com/stevemk14ebr/PolyHook) - A C++ x86/x64 hooking library. [MIT]
+* [Verdigris ![GitHub Repo Stars](https://img.shields.io/github/stars/woboq/verdigris) ![GitHub last commit](https://img.shields.io/github/last-commit/woboq/verdigris)](https://github.com/woboq/verdigris) - A header-only library that allows using Qt without the need for moc. [MIT]
+* [Flicks ![GitHub Repo Stars](https://img.shields.io/github/stars/OculusVR/Flicks) ![GitHub last commit](https://img.shields.io/github/last-commit/OculusVR/Flicks)](https://github.com/OculusVR/Flicks) - A unit of time defined by Facebook/Oculus for exact representation of common frame rates. [BSD]
+* [Linq ![GitHub Repo Stars](https://img.shields.io/github/stars/pfultz2/Linq) ![GitHub last commit](https://img.shields.io/github/last-commit/pfultz2/Linq)](https://github.com/pfultz2/Linq) - Provides a LINQ syntax for list comprehension in C++. [Boost]
+* [libcorrect ![GitHub Repo Stars](https://img.shields.io/github/stars/quiet/libcorrect) ![GitHub last commit](https://img.shields.io/github/last-commit/quiet/libcorrect)](https://github.com/quiet/libcorrect) - A C library for convolutional codes and Reed-Solomon error correction. [BSD-3-Clause]
+* [libfsm ![GitHub Repo Stars](https://img.shields.io/github/stars/katef/libfsm) ![GitHub last commit](https://img.shields.io/github/last-commit/katef/libfsm)](https://github.com/katef/libfsm) - A library for building and executing finite state machines, including regex and glob. [BSD-2-Clause]
+* [origin ![GitHub Repo Stars](https://img.shields.io/github/stars/asutton/origin) ![GitHub last commit](https://img.shields.io/github/last-commit/asutton/origin)](https://github.com/asutton/origin) - A C++ library for concepts, diagnostics, and other foundational utilities.
 
 # Software
 *Software for creating a development environment.*
@@ -1334,6 +1396,8 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [Open WatCom](https://github.com/open-watcom) - Watcom C, C++, and Fortran cross compilers and tools. [Sybase Open Watcom Public License]
 * [Oracle Solaris Studio](http://www.oracle.com/technetwork/server-storage/solarisstudio/overview/index.html) - C, C++ and Fortran compiler for SPARC and x86. Supports C++11. Available on Linux and Solaris. [OTN Developer License]
 * [TCC](http://bellard.org/tcc/) - Tiny C Compiler. [LGPL]
+* [sierra](https://sierra-lang.github.io/) - A CISC-oriented programming language focused on creating maintainable programs.
+* [movfuscator ![GitHub Repo Stars](https://img.shields.io/github/stars/xoreaxeaxeax/movfuscator) ![GitHub last commit](https://img.shields.io/github/last-commit/xoreaxeaxeax/movfuscator)](https://github.com/xoreaxeaxeax/movfuscator) - The single instruction C compiler, compiling programs into only mov instructions. [MIT]
 
 ## Online Compiler
 *List of online C or C++ compilers*
@@ -1392,6 +1456,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ## Build Systems
 
+* [awesome-cmake ![GitHub Repo Stars](https://img.shields.io/github/stars/onqtam/awesome-cmake) ![GitHub last commit](https://img.shields.io/github/last-commit/onqtam/awesome-cmake)](https://github.com/onqtam/awesome-cmake) - A curated list of awesome CMake scripts, modules, and resources.
 * [Bazel](https://bazel.build) - A multi-language, fast and scalable build system from Google. [Apache]
 * [Bear ![GitHub Repo Stars](https://img.shields.io/github/stars/rizsotto/Bear) ![GitHub last commit](https://img.shields.io/github/last-commit/rizsotto/Bear)](https://github.com/rizsotto/Bear) - A tool to generate compilation database for clang tooling. [GPLv3]
 * [Buck ![GitHub Repo Stars](https://img.shields.io/github/stars/facebook/buck) ![GitHub last commit](https://img.shields.io/github/last-commit/facebook/buck)](https://github.com/facebook/buck) - A fast build system that encourages the creation of small, reusable modules over a variety of platforms and languages including C++ developed and used at Facebook. Written in Java. [Apache]
@@ -1417,6 +1482,8 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [Vcpkg ![GitHub Repo Stars](https://img.shields.io/github/stars/microsoft/vcpkg) ![GitHub last commit](https://img.shields.io/github/last-commit/microsoft/vcpkg)](https://github.com/microsoft/vcpkg) - C++ library manager for Windows, Linux, and MacOS. [MIT]
 * [waf](https://gitlab.com/ita1024/waf) - Python-based framework for configuring, compiling and installing applications. [BSD] [website](https://waf.io/)
 * [XMake](https://xmake.io/) - A C/C++ cross-platform build utility based on Lua that comes with an integrated package manager, xrepo. [Apache]
+* [boost-cmake ![GitHub Repo Stars](https://img.shields.io/github/stars/Orphis/boost-cmake) ![GitHub last commit](https://img.shields.io/github/last-commit/Orphis/boost-cmake)](https://github.com/Orphis/boost-cmake) - CMake modules for Boost libraries. [BSD-3-Clause]
+* [cmake-examples ![GitHub Repo Stars](https://img.shields.io/github/stars/pr0g/cmake-examples) ![GitHub last commit](https://img.shields.io/github/last-commit/pr0g/cmake-examples)](https://github.com/pr0g/cmake-examples) - A collection of useful CMake examples for various scenarios. [MIT]
 
 ## Static Code Analysis
 *List of tools for improving quality and reducing defects by code analysis*
@@ -1435,6 +1502,8 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [List of tools for static code analysis](https://en.wikipedia.org/wiki/List_of_tools_for_static_code_analysis#C.2FC.2B.2B) - A list of tools for static code analysis from Wikipedia.
 * [OptView2 ![GitHub Repo Stars](https://img.shields.io/github/stars/OfekShilon/optview2) ![GitHub last commit](https://img.shields.io/github/last-commit/OfekShilon/optview2)](https://github.com/OfekShilon/optview2) - Inspect missed Clang optimizations.
 * [Trunk](https://trunk.io) - Toolkit to check, test, merge, and monitor code.
+* [CodeCompass ![GitHub Repo Stars](https://img.shields.io/github/stars/Ericsson/CodeCompass) ![GitHub last commit](https://img.shields.io/github/last-commit/Ericsson/CodeCompass)](https://github.com/Ericsson/CodeCompass) - An open-source code comprehension tool for large C/C++ projects. [GPL-3.0]
+* [CodeChecker ![GitHub Repo Stars](https://img.shields.io/github/stars/Ericsson/codechecker) ![GitHub last commit](https://img.shields.io/github/last-commit/Ericsson/codechecker)](https://github.com/Ericsson/codechecker) - An analyzer tooling, defect database and viewer extension for the Clang Static Analyzer and Clang-Tidy. [Apache-2.0]
 
 ## Coding Style Tools
 
@@ -1477,6 +1546,15 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [C++Now 2013 Presentations ![GitHub Repo Stars](https://img.shields.io/github/stars/boostcon/cppnow_presentations_2013) ![GitHub last commit](https://img.shields.io/github/last-commit/boostcon/cppnow_presentations_2013)](https://github.com/boostcon/cppnow_presentations_2013) - Presentation materials presented at C++Now 2013.
 * [C++Now 2012 Presentations ![GitHub Repo Stars](https://img.shields.io/github/stars/boostcon/cppnow_presentations_2012) ![GitHub last commit](https://img.shields.io/github/last-commit/boostcon/cppnow_presentations_2012)](https://github.com/boostcon/cppnow_presentations_2012) - Presentation materials presented at C++Now 2012.
 * [cpp17_in_TTs ![GitHub Repo Stars](https://img.shields.io/github/stars/tvaneerd/cpp17_in_TTs) ![GitHub last commit](https://img.shields.io/github/last-commit/tvaneerd/cpp17_in_TTs)](https://github.com/tvaneerd/cpp17_in_TTs) - Descriptions of C++17 features, presented mostly in "Tony Tables".
+* [All C++20 core language features with examples](https://oleksandrkvl.github.io/2021/04/02/cpp-20-overview.html) - A reference of all C++20 core language features with examples.
+* [Memory Footprint of GUI Toolkits](https://szibele.com/memory-footprint-of-gui-toolkits/) - A comparison of the memory footprint of various GUI toolkits.
+* [C++ UI Libraries](https://philippegroarke.com/posts/2018/c++_ui_solutions/) - A comprehensive list of C++ UI solutions.
+* [C++ Compilation ![GitHub Repo Stars](https://img.shields.io/github/stars/green7ea/cpp-compilation) ![GitHub last commit](https://img.shields.io/github/last-commit/green7ea/cpp-compilation)](https://github.com/green7ea/cpp-compilation) - A short description of the C++ compilation process.
+* [Books on C++17](https://blogs.msdn.microsoft.com/vcblog/2018/09/25/books-on-c17/) - A list of books on C++17.
+* [modern-cpp-features ![GitHub Repo Stars](https://img.shields.io/github/stars/AnthonyCalandra/modern-cpp-features) ![GitHub last commit](https://img.shields.io/github/last-commit/AnthonyCalandra/modern-cpp-features)](https://github.com/AnthonyCalandra/modern-cpp-features) - A cheatsheet of modern C++ language and library features.
+* [Choosing Some C++ Over C](https://medium.com/@davidtstrauss/choosing-some-c-over-c-f5acb3dce4f5) - An article about when to use C++ instead of C.
+* [C++ 17 Features](http://www.bfilipek.com/2017/01/cpp17features.html) - A comprehensive list of C++17 features.
+* [Master C Programming with Open Source Books](https://www.ossblog.org/master-c-programming-with-open-source-books/) - A curated list of open source books for learning C programming.
 
 ## Books
 *Fantastic C or C++ related books.*
@@ -1557,6 +1635,9 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [cppexpert.online](https://cppexpert.online) - Learn the best C++ practices by improving code snippets with some problems or with bad practices.
 * [C++ for yourself](https://github.com/cpp-for-yourself) - A comprehensive tutorial on modern C++ covering everything from fundamentals to software design.
 * [CompileBytes C++ Compiler](https://www.compilebytes.com/tools/cpp) – Online C++ compiler and interactive code execution environment.
+* [C++ Resources](https://andreasfertig.com/cpp-resources/) - A collection of C++ resources including books, articles, and tools.
+* [CppPatterns ![GitHub Repo Stars](https://img.shields.io/github/stars/sftrabbit/CppPatterns-Patterns) ![GitHub last commit](https://img.shields.io/github/last-commit/sftrabbit/CppPatterns-Patterns)](https://github.com/sftrabbit/CppPatterns-Patterns) - A repository of modern C++ patterns and idioms. [website](https://cpppatterns.com)
+* [Function Pointers ![GitHub Repo Stars](https://img.shields.io/github/stars/jerryryle/fuckingfunctionpointers.com) ![GitHub last commit](https://img.shields.io/github/last-commit/jerryryle/fuckingfunctionpointers.com)](https://github.com/jerryryle/fuckingfunctionpointers.com) - A guide to understanding function pointers in C/C++.
 
 
 ## Weblogs
@@ -1583,6 +1664,10 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [algorithms ![GitHub Repo Stars](https://img.shields.io/github/stars/xtaci/algorithms) ![GitHub last commit](https://img.shields.io/github/last-commit/xtaci/algorithms)](https://github.com/xtaci/algorithms) - Algorithms & Data Structures in C++.
 * [c-algorithms ![GitHub Repo Stars](https://img.shields.io/github/stars/fragglet/c-algorithms) ![GitHub last commit](https://img.shields.io/github/last-commit/fragglet/c-algorithms)](https://github.com/fragglet/c-algorithms) - C algorithms library.
 * [30 Seconds of C++ ![GitHub Repo Stars](https://img.shields.io/github/stars/Bhupesh-V/30-seconds-of-cpp) ![GitHub last commit](https://img.shields.io/github/last-commit/Bhupesh-V/30-seconds-of-cpp)](https://github.com/Bhupesh-V/30-seconds-of-cpp)
+* [awesome-ld-preload ![GitHub Repo Stars](https://img.shields.io/github/stars/gaul/awesome-ld-preload) ![GitHub last commit](https://img.shields.io/github/last-commit/gaul/awesome-ld-preload)](https://github.com/gaul/awesome-ld-preload) - A curated list of resources related to LD_PRELOAD.
+* [awesome-static-analysis ![GitHub Repo Stars](https://img.shields.io/github/stars/mre/awesome-static-analysis) ![GitHub last commit](https://img.shields.io/github/last-commit/mre/awesome-static-analysis)](https://github.com/mre/awesome-static-analysis) - A curated list of static analysis tools for all programming languages.
+* [cpp_functional_programming ![GitHub Repo Stars](https://img.shields.io/github/stars/graninas/cpp_functional_programming) ![GitHub last commit](https://img.shields.io/github/last-commit/graninas/cpp_functional_programming)](https://github.com/graninas/cpp_functional_programming) - A list of materials and links for C++ functional programming.
+* [algorithms_and_data_structures ![GitHub Repo Stars](https://img.shields.io/github/stars/mandliya/algorithms_and_data_structures) ![GitHub last commit](https://img.shields.io/github/last-commit/mandliya/algorithms_and_data_structures)](https://github.com/mandliya/algorithms_and_data_structures) - Implementation of algorithms and data structures in C++.
 
 # Other Awesome Lists
 *Other amazingly awesome lists*
