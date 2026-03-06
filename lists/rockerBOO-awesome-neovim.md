@@ -1113,6 +1113,7 @@ then it is not supported:
 - [Carcuis/dap-breakpoints.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/Carcuis/dap-breakpoints.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/Carcuis/dap-breakpoints.nvim)](https://github.com/Carcuis/dap-breakpoints.nvim) - Manage and create advanced breakpoints with virtual text and popup reveal for nvim-dap.
 - [ravsii/nvim-dap-envfile ![GitHub Repo Stars](https://img.shields.io/github/stars/ravsii/nvim-dap-envfile) ![GitHub last commit](https://img.shields.io/github/last-commit/ravsii/nvim-dap-envfile)](https://github.com/ravsii/nvim-dap-envfile) - Automatic `envFile` support for nvim-dap.
 - [fschaal/azfunc.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/fschaal/azfunc.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/fschaal/azfunc.nvim)](https://github.com/fschaal/azfunc.nvim) - Seamlessly debug Azure Functions with automatic DAP integration.
+- [evanmcpheron/rocketlog.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/evanmcpheron/rocketlog.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/evanmcpheron/rocketlog.nvim)](https://github.com/evanmcpheron/rocketlog.nvim) - Seamlessly add logging for JavaScript and TypeScript files, with log and metadata searching.
 
 ### Quickfix
 
@@ -1708,6 +1709,7 @@ then it is not supported:
 - [kndndrj/nvim-dbee ![GitHub Repo Stars](https://img.shields.io/github/stars/kndndrj/nvim-dbee) ![GitHub last commit](https://img.shields.io/github/last-commit/kndndrj/nvim-dbee)](https://github.com/kndndrj/nvim-dbee) - Interactive database client.
 - [tashikomaaa/neomongo.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/tashikomaaa/neomongo.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/tashikomaaa/neomongo.nvim)](https://github.com/tashikomaaa/neomongo.nvim) - Explore, query, and edit MongoDB collections directly through a Telescope-powered dashboard.
 - [zerochae/dbab.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/zerochae/dbab.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/zerochae/dbab.nvim)](https://github.com/zerochae/dbab.nvim) - Lightweight database client with a modern UI and async execution.
+- [joryeugene/dadbod-grip.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/joryeugene/dadbod-grip.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/joryeugene/dadbod-grip.nvim)](https://github.com/joryeugene/dadbod-grip.nvim) - Database editor with inline cell editing, staged mutations with live SQL preview, schema browser, DDL, AI SQL generation, FK navigation, and DuckDB/Parquet support.
 <!--lint disable double-link -->
 [**⬆ back to top**](#contents)
 <!--lint enable double-link -->
