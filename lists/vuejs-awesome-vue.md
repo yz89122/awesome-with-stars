@@ -1,4 +1,4 @@
-<p align="center">
+Resource from plugin:github:github at repo://vuejs/awesome-vue/sha/14fa265df1bd0a3d78fca341a9739a42bf6cd95d/contents/README.md] <p align="center">
   <br>
   <img width="400" src="https://github.com/vuejs/awesome-vue/raw/master/assets/logo.svg" alt="logo of vue-awesome repository">
   <br>
@@ -561,6 +561,7 @@ These projects are exceptionally high quality, have a proven trackrecord, and ar
 - [VueFinder File Library ![GitHub Repo Stars](https://img.shields.io/github/stars/n1crack/vuefinder) ![GitHub last commit](https://img.shields.io/github/last-commit/n1crack/vuefinder)](https://github.com/n1crack/vuefinder) - Web File Manager Library.
 - [Overlay ![GitHub Repo Stars](https://img.shields.io/github/stars/os-scar/overlay) ![GitHub last commit](https://img.shields.io/github/last-commit/os-scar/overlay)](https://github.com/os-scar/overlay) - A browser extension helping developers evaluate open source packages before picking them.
 - [activist.org/](https://activist.org/) - Open-source, nonprofit activism platform.
+- [MYDY Dashboard ![GitHub Repo Stars](https://img.shields.io/github/stars/pyramide-agency/mydy-dashboard) ![GitHub last commit](https://img.shields.io/github/last-commit/pyramide-agency/mydy-dashboard)](https://github.com/pyramide-agency/mydy-dashboard) - Self-hosted personal productivity and finance management dashboard with AI assistant, Kanban board, time tracking, and Telegram Mini App integration. Built with Nuxt 4 and Laravel 11.
 - [Sneat Free Vuetify VueJS Admin Template](https://themeselection.com/item/sneat-free-vuetify-vuejs-admin-template/) - The Ultimate Free VueJS Admin Template for building responsive web apps
 - [slidev ![GitHub Repo Stars](https://img.shields.io/github/stars/slidevjs/slidev) ![GitHub last commit](https://img.shields.io/github/last-commit/slidevjs/slidev)](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
 - [YesPlayMusic ![GitHub Repo Stars](https://img.shields.io/github/stars/qier222/YesPlayMusic) ![GitHub last commit](https://img.shields.io/github/last-commit/qier222/YesPlayMusic)](https://github.com/qier222/YesPlayMusic) - High-looking third-party NetEase cloud player, support Windows / macOS / Linux :electron:
@@ -569,6 +570,7 @@ These projects are exceptionally high quality, have a proven trackrecord, and ar
 - [fylepad ![GitHub Repo Stars](https://img.shields.io/github/stars/imrofayel/fylepad) ![GitHub last commit](https://img.shields.io/github/last-commit/imrofayel/fylepad)](https://github.com/imrofayel/fylepad) - a notepad with powerful rich-text editing, built with Vue.
 - [fresfolio ![GitHub Repo Stars](https://img.shields.io/github/stars/dkioroglou/fresfolio) ![GitHub last commit](https://img.shields.io/github/last-commit/dkioroglou/fresfolio)](https://github.com/dkioroglou/fresfolio) - a browser-based note-taking app for managing personal and research projects. The app uses Flask as backend and Vue.js as frontend leveraging the Quasar framework for UI components and responsive design.
 
+- [JARVIS ![GitHub Repo Stars](https://img.shields.io/github/stars/hyhmrright/JARVIS) ![GitHub last commit](https://img.shields.io/github/last-commit/hyhmrright/JARVIS)](https://github.com/hyhmrright/JARVIS) - Self-hosted AI assistant platform with Vue 3 frontend, Pinia state management, TypeScript, and real-time SSE streaming chat. FastAPI backend with LangGraph ReAct agents, RAG knowledge base, multi-LLM support (DeepSeek/OpenAI/Anthropic), and plugin SDK.
 ### Commercial Products
 
 - [Wijmo](https://wijmo.com/products/wijmo-5/) - A collection of UI controls with VueJS support.
@@ -956,6 +958,7 @@ _Tables / data grids_
 - [hy-vue-gantt ![GitHub Repo Stars](https://img.shields.io/github/stars/Xeyos88/HyVueGantt) ![GitHub last commit](https://img.shields.io/github/last-commit/Xeyos88/HyVueGantt)](https://github.com/Xeyos88/HyVueGantt) - A powerful and flexible Gantt chart component for Vue 3 applications.
 - [Vue3 Pivottable ![GitHub Repo Stars](https://img.shields.io/github/stars/vue-pivottable/vue3-pivottable) ![GitHub last commit](https://img.shields.io/github/last-commit/vue-pivottable/vue3-pivottable)](https://github.com/vue-pivottable/vue3-pivottable) – A Vue 3 port of the jQuery-based PivotTable.js.
 - [GridSheet ![GitHub Repo Stars](https://img.shields.io/github/stars/walkframe/gridsheet) ![GitHub last commit](https://img.shields.io/github/last-commit/walkframe/gridsheet)](https://github.com/walkframe/gridsheet) - Highly customizable spreadsheet engine with formula support, multi-sheet references, and a Vue3 wrapper built on a Preact core.
+- [@witqq/spreadsheet ![GitHub Repo Stars](https://img.shields.io/github/stars/witqq/spreadsheet) ![GitHub last commit](https://img.shields.io/github/last-commit/witqq/spreadsheet)](https://github.com/witqq/spreadsheet) - A canvas-based spreadsheet engine with zero dependencies, rendering 100K+ rows at 60fps with sorting, filtering, formulas, and collaboration.
 
 #### Notification
 
@@ -1182,6 +1185,7 @@ _Date / datetime / time Picker_
 
 - [VCalendar](https://vcalendar.io/) Very customizable and powerful calendar/datepicker component with many features and good documentation.
 - [vue-datepicker ![GitHub Repo Stars](https://img.shields.io/github/stars/mathieustan/vue-datepicker) ![GitHub last commit](https://img.shields.io/github/last-commit/mathieustan/vue-datepicker)](https://github.com/mathieustan/vue-datepicker) - A clean & responsive datepicker with Material Design style for Vuejs 2.x. (date/month/quarter && date range picker) :new:
+- [vue-timepicker ![GitHub Repo Stars](https://img.shields.io/github/stars/manos02/vue3-time-picker) ![GitHub last commit](https://img.shields.io/github/last-commit/manos02/vue3-time-picker)](https://github.com/manos02/vue3-time-picker) - A lightweight, customizable timepicker component for Vue 3 with TypeScript support. Supports single/range selection, multiple formats, easy styling, validation and more.
 
 ##### Select
 
@@ -1193,6 +1197,7 @@ _Date / datetime / time Picker_
 - [vue-select-sides ![GitHub Repo Stars](https://img.shields.io/github/stars/juliorosseti/vue-select-sides) ![GitHub last commit](https://img.shields.io/github/last-commit/juliorosseti/vue-select-sides)](https://github.com/juliorosseti/vue-select-sides) - A component for Vue.js to select double-sided data (2-sides).
 - [@vueform/multiselect ![GitHub Repo Stars](https://img.shields.io/github/stars/vueform/multiselect) ![GitHub last commit](https://img.shields.io/github/last-commit/vueform/multiselect)](https://github.com/vueform/multiselect) - Vue 3 multiselect component with single select, multiselect and tagging options.
 - [vue3-select-component ![GitHub Repo Stars](https://img.shields.io/github/stars/TotomInc/vue3-select-component) ![GitHub last commit](https://img.shields.io/github/last-commit/TotomInc/vue3-select-component)](https://github.com/TotomInc/vue3-select-component) - Vue 3 Select Component, single & multi-select, best-in-class DX support with TypeScript end-to-end typesafe, easy styling, slots and more ~4.4KB
+- [vue-superselect ![GitHub Repo Stars](https://img.shields.io/github/stars/nemanjamalesija/vue-superselect) ![GitHub last commit](https://img.shields.io/github/last-commit/nemanjamalesija/vue-superselect)](https://github.com/nemanjamalesija/vue-superselect) - Headless, accessible, TypeScript-first select/combobox for Vue 3 with dual compound component and composable APIs.
 
 ##### Drag and Drop
 
