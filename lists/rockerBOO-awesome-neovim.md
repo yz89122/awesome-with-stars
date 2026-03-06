@@ -1180,6 +1180,7 @@ then it is not supported:
 - [pewpewnor/pilot.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/pewpewnor/pilot.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/pewpewnor/pilot.nvim)](https://github.com/pewpewnor/pilot.nvim) - Run your projects and files quickly with keybindings, and configure how to run them on the fly.
 - [ok97465/ipybridge.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/ok97465/ipybridge.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/ok97465/ipybridge.nvim)](https://github.com/ok97465/ipybridge.nvim) - Run Python code, execute Jupyter cells, debug, and explore variables.
 - [wsdjeg/code-runner.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/wsdjeg/code-runner.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/wsdjeg/code-runner.nvim)](https://github.com/wsdjeg/code-runner.nvim) - Async code runner with range support.
+- [mikeboiko/nvim-flow ![GitHub Repo Stars](https://img.shields.io/github/stars/mikeboiko/nvim-flow) ![GitHub last commit](https://img.shields.io/github/last-commit/mikeboiko/nvim-flow)](https://github.com/mikeboiko/nvim-flow) - File-scoped command runner with YAML configuration, command preview, debug integration, and traceback quickfix.
 <!--lint disable double-link -->
 [**⬆ back to top**](#contents)
 <!--lint enable double-link -->
