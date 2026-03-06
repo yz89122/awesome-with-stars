@@ -65,7 +65,8 @@ You will find also a lot of spare parts or mods / extensions to commercial vehic
 
 Copters are built using different materials from alu / carbon profiles to CNC cuts to full 3D printed cases and have different configurations for different number of rotors (bi... octo):
 
-* [Sub 250g autonomous drone](https://www.youtube.com/watch?v=u_ArriXbrR0) - 3D printed bare minimum frame with Liion and GPS
+* [18650 Micro Foldable](https://www.printables.com/model/1081158-18650-micro-foldable-fpv-drone/) - 3D printed mcirodrone that lasts for 18mins
+* [Sub 250g autonomous drone] - 3D printed bare minimum frame with Liion and GPS
 * [JeNo 5.1" ![GitHub Repo Stars](https://img.shields.io/github/stars/WE-are-FPV/JeNo-5.1) ![GitHub last commit](https://img.shields.io/github/last-commit/WE-are-FPV/JeNo-5.1)](https://github.com/WE-are-FPV/JeNo-5.1) - Modern carbon wide X-frame with accessoirs
 * [Goblin v3](https://www.printables.com/de/model/396395-goblin-fpv-drone) - 3D printed frame, 4S power, 16x16 AIO stack, 2023.
 * [NanoLongRange](https://www.thingiverse.com/thing:4769576) - 3D printed frame with mostly a 18650 Liion cell and a all-in-one board for whoops, 2021.
@@ -93,6 +94,8 @@ Copters are built using different materials from alu / carbon profiles to CNC cu
 
 Traditional RC airplanes are created using balsa wood and foil covered rips for the wings. Commercial models make often use of foam, that you can also cut by CNC and lasers to create wing profiles.  Also fully 3D printed planes are possible, that you glue and strength with carbon roods. There is also a growing community for (commercial) 3D printed models like [Craycle Hobby](https://craycle.com/), [Eclipson airplanes](https://www.eclipson-airplanes.com/),[3D lab print](https://3dlabprint.com/product-category/printable-airplanes/), [Plane Print](https://www.planeprint.com/) , [OWLplane](https://owlplane.com/) or [rc-jetprint.de](https://rc-jetprint.de/en/) using lightweight PLA to save weight.
 
+* [Titandynamics Tornado v2](https://titandynamics.aero/free/p/tornado-v2) - 3D printed 1m modular doublemotor carrier airplane
+* [Merlin V2](https://www.youtube.com/watch?v=HT0NLQdX7Ak) - 3D printed 2.5m efficient longrange doublemotor carrier airplane
 * [HAWk Modular RC Wing Airplane v1](https://www.printables.com/de/model/422806-hawk-modular-rc-wing-airplane) - 3D printed LW-PLA 1m++ pusher / puller wing, full BOM + manual docs, 2023.
 * [V-Tail Aircraft for Long Range FPV & Autonomous Missions - by AeroStuff FPV](https://www.youtube.com/watch?v=sTjXVeo_lpQ) - Use folded depron panels for body and wings for a V-Tail pusher.
 * [Highly Modular Design -1 (HMD1)](https://forum.flitetest.com/index.php?threads/large-modular-uav-design.69987/) - 3D printed ABS V-tail plane for research, 2022.
@@ -118,6 +121,8 @@ Traditional RC airplanes are created using balsa wood and foil covered rips for 
 
 Vertical take-off and landing are air vehicles that transform from copter to a gliding wing, making it very easy to start/land but require a more complex mechanic and become a tip heavier than fixed wings.
 
+* [Vorian tilt-rotor quad](https://rotorbuilds.com/build/35240) - multi-material for tilting all 4 props
+* [Squirrel design](https://jgkang1210.github.io/fsdrone) - Like a mix of quad and bat with a membrane to glide.
 * [MiniHawk-VTOL v2.0 ![GitHub Repo Stars](https://img.shields.io/github/stars/StephenCarlson/MiniHawk-VTOL) ![GitHub last commit](https://img.shields.io/github/last-commit/StephenCarlson/MiniHawk-VTOL)](https://github.com/StephenCarlson/MiniHawk-VTOL) - 3d printed with 3 props
 * [VTOL in 5 revisions](https://www.youtube.com/watch?v=gPEeCjVrTBw) - 3D printed and foam, 2018.
   * [wing profile](https://www.printables.com/de/model/261434-vase-mode-wing) - Resulting wing profile 3D printing with LW-PLA.
@@ -186,7 +191,8 @@ Most receivers (RX, drone side) support standard serial protocols like Crossfire
 * [opentx-lua-widgets ![GitHub Repo Stars](https://img.shields.io/github/stars/Matze-Jung/opentx-lua-widgets) ![GitHub last commit](https://img.shields.io/github/last-commit/Matze-Jung/opentx-lua-widgets)](https://github.com/Matze-Jung/opentx-lua-widgets) - More UI widgets to present telemetry.
 * [opentx-lua-running-graphs ![GitHub Repo Stars](https://img.shields.io/github/stars/Matze-Jung/opentx-lua-running-graphs) ![GitHub last commit](https://img.shields.io/github/last-commit/Matze-Jung/opentx-lua-running-graphs)](https://github.com/Matze-Jung/opentx-lua-running-graphs) - More visual graphs as widgets.
 * [OpenTX-Pong ![GitHub Repo Stars](https://img.shields.io/github/stars/SpechtD/OpenTX-Pong) ![GitHub last commit](https://img.shields.io/github/last-commit/SpechtD/OpenTX-Pong)](https://github.com/SpechtD/OpenTX-Pong) - Simple game for your TX.
-* [Ardino Transmitter for ELRS ![GitHub Repo Stars](https://img.shields.io/github/stars/kkbin505/Arduino-Transmitter-for-ELRS) ![GitHub last commit](https://img.shields.io/github/last-commit/kkbin505/Arduino-Transmitter-for-ELRS)](https://github.com/kkbin505/Arduino-Transmitter-for-ELRS) - Simple gamepad like hand transmitter based on Arduino
+* [ELRS-Joystick-Control ![GitHub Repo Stars](https://img.shields.io/github/stars/kaack/elrs-joystick-control) ![GitHub last commit](https://img.shields.io/github/last-commit/kaack/elrs-joystick-control)](https://github.com/kaack/elrs-joystick-control) - ELRS Module directly connected to GCS with joysticks.
+* [Arduino Transmitter for ELRS ![GitHub Repo Stars](https://img.shields.io/github/stars/kkbin505/Arduino-Transmitter-for-ELRS) ![GitHub last commit](https://img.shields.io/github/last-commit/kkbin505/Arduino-Transmitter-for-ELRS)](https://github.com/kkbin505/Arduino-Transmitter-for-ELRS) - Simple gamepad like hand transmitter based on Arduino
 * [OpenAVRc ![GitHub Repo Stars](https://img.shields.io/github/stars/Ingwie/OpenAVRc_Hw) ![GitHub last commit](https://img.shields.io/github/last-commit/Ingwie/OpenAVRc_Hw)](https://github.com/Ingwie/OpenAVRc_Hw) - Custom TX based on Arduino Mega2560 boards.
 * [ER9X](http://www.er9x.com) - Alternative Firmware for 9XR handtransmitter.
 
@@ -210,9 +216,10 @@ Videotransmitter (VTX) are analog or digital radio transmitter on your drone, wh
 * [OpenHD ![GitHub Repo Stars](https://img.shields.io/github/stars/OpenHD/Open.HD) ![GitHub last commit](https://img.shields.io/github/last-commit/OpenHD/Open.HD)](https://github.com/OpenHD/Open.HD) - Use 2.4 / 5.8 GHz wifi hardware and SBCs on air and groundside to provide a video and telemetry downlink and an optional control uplink. Try to develop a more efficient dedicated hardware board. [Compare different open digital links](https://openhd.gitbook.io/open-hd/general/openhd-vs-alternatives).
 * [RubyFPV](https://rubyfpv.com) - Use 2.4 / 5.8 GHz wifi hardware and RPIs to provide a video and telemetry downlink and an optional control uplink. No source provided but plugin system.
 * [Wifibroadcast NG ![GitHub Repo Stars](https://img.shields.io/github/stars/svpcom/wifibroadcast) ![GitHub last commit](https://img.shields.io/github/last-commit/svpcom/wifibroadcast)](https://github.com/svpcom/wifibroadcast) - Use 2.4 / 5.8 GHz wifi hardware and RPIs to provide a video and telemetry downlink.
-* [wfb-ng on OpenIPC ![GitHub Repo Stars](https://img.shields.io/github/stars/OpenIPC/sandbox-fpv) ![GitHub last commit](https://img.shields.io/github/last-commit/OpenIPC/sandbox-fpv)](https://github.com/OpenIPC/sandbox-fpv) - Wifibroadcast NG on OpenIPC compatible CCTV modules, capable of 120fps or 4k video feeds with telemetry
+* [wfb-ng on OpenIPC ![GitHub Repo Stars](https://img.shields.io/github/stars/OpenIPC/sandbox-fpv) ![GitHub last commit](https://img.shields.io/github/last-commit/OpenIPC/sandbox-fpv)](https://github.com/OpenIPC/sandbox-fpv) - Wifibroadcast NG on OpenIPC compatible CCTV modules, capable of 120fps or 4k video feeds with telemetry. Existing commercial kits from various vendors (aka. EMAX Wyvern Link, Runcam Wifilink).
 * [DroneBridge ![GitHub Repo Stars](https://img.shields.io/github/stars/DroneBridge/DroneBridge) ![GitHub last commit](https://img.shields.io/github/last-commit/DroneBridge/DroneBridge)](https://github.com/DroneBridge/DroneBridge) - Use 2.4 GHz wifi hardware and RPIs, ESP32 and Android App for bidirectional link, [Comparison](https://dronebridge.gitbook.io/docs/comparison) to the other protocols here.
 * [EZ Wifibroadcast ![GitHub Repo Stars](https://img.shields.io/github/stars/rodizio1/EZ-WifiBroadcast) ![GitHub last commit](https://img.shields.io/github/last-commit/rodizio1/EZ-WifiBroadcast)](https://github.com/rodizio1/EZ-WifiBroadcast) - Oldest and first wifi based VTX setup.
+* [hx-esp32-cam-fpv ![GitHub Repo Stars](https://img.shields.io/github/stars/RomanLut/hx-esp32-cam-fpv) ![GitHub last commit](https://img.shields.io/github/last-commit/RomanLut/hx-esp32-cam-fpv)](https://github.com/RomanLut/hx-esp32-cam-fpv)- Cheap ESPcam boards transimitting MJPEG frames.
 * [wtfos ![GitHub Repo Stars](https://img.shields.io/github/stars/fpv-wtf/wtfos) ![GitHub last commit](https://img.shields.io/github/last-commit/fpv-wtf/wtfos)](https://github.com/fpv-wtf/wtfos) - Rooting and mod DJI FPV sender and receiver.
 * [DigiView-SBC ![GitHub Repo Stars](https://img.shields.io/github/stars/fpvout/DigiView-SBC) ![GitHub last commit](https://img.shields.io/github/last-commit/fpvout/DigiView-SBC)](https://github.com/fpvout/DigiView-SBC) - Receive DJI HD signal, alpha 2021.
 * [OpenVTx ![GitHub Repo Stars](https://img.shields.io/github/stars/OpenVTx/OpenVTx) ![GitHub last commit](https://img.shields.io/github/last-commit/OpenVTx/OpenVTx)](https://github.com/OpenVTx/OpenVTx) - Free firmware for open hardware anlog VTX.
@@ -224,6 +231,8 @@ Cameras feed the onboard videotransmitter for downlink or record as DVR with hig
 
 * [Gyroflow ![GitHub Repo Stars](https://img.shields.io/github/stars/gyroflow/gyroflow) ![GitHub last commit](https://img.shields.io/github/last-commit/gyroflow/gyroflow)](https://github.com/gyroflow/gyroflow) - Use IMU sensor data to smooth HD video recordings.
 * [OpenHD on thermal cameras](https://openhd.gitbook.io/open-hd/hardware/cameras) - How to user RPI to read this sensors.
+* [TetraPI ![GitHub Repo Stars](https://img.shields.io/github/stars/bluegreen-labs/TetraPi) ![GitHub last commit](https://img.shields.io/github/last-commit/bluegreen-labs/TetraPi)](https://github.com/bluegreen-labs/TetraPi) - Multispectra RPI based camera module.
+* [opentrack ![GitHub Repo Stars](https://img.shields.io/github/stars/opentrack/opentrack) ![GitHub last commit](https://img.shields.io/github/last-commit/opentrack/opentrack)](https://github.com/opentrack/opentrack) - Use integrated trackers of FPV googles or VR headsets as input.
 * [RC Headtracker ![GitHub Repo Stars](https://img.shields.io/github/stars/dlktdr/HeadTracker) ![GitHub last commit](https://img.shields.io/github/last-commit/dlktdr/HeadTracker)](https://github.com/dlktdr/HeadTracker) - Turn camera gimbal when you turn your googles. Based on Arduino and Bluetooth.
 * [STORM32BGC ![GitHub Repo Stars](https://img.shields.io/github/stars/olliw42/storm32bgc) ![GitHub last commit](https://img.shields.io/github/last-commit/olliw42/storm32bgc)](https://github.com/olliw42/storm32bgc) - Firmware and brushless gimbal controller.
 * [Open Brushless Gimbal](https://www.thingiverse.com/thing:110731) - 2013.
@@ -326,16 +335,20 @@ CV is on the processing of what you see at the UAV live image or recordings. Thi
 * [Fast-Planner ![GitHub Repo Stars](https://img.shields.io/github/stars/HKUST-Aerial-Robotics/Fast-Planner) ![GitHub last commit](https://img.shields.io/github/last-commit/HKUST-Aerial-Robotics/Fast-Planner)](https://github.com/HKUST-Aerial-Robotics/Fast-Planner) - Learn drones to avoid obstacles on the course.
 * [Autonomous Drone Dodges Obstacles Without GPS](https://hackaday.com/2021/11/03/autonomous-drone-dodges-obstacles-without-gps/) - RPI based CV and route planning and obstacle avoidance.
 * [Drone-net ![GitHub Repo Stars](https://img.shields.io/github/stars/chuanenlin/drone-net) ![GitHub last commit](https://img.shields.io/github/last-commit/chuanenlin/drone-net)](https://github.com/chuanenlin/drone-net) - ML detect quadcopters within photos / videos using YOLO v4.
+* [Anti-UAV ![GitHub Repo Stars](https://img.shields.io/github/stars/ZhaoJ9014/Anti-UAV) ![GitHub last commit](https://img.shields.io/github/last-commit/ZhaoJ9014/Anti-UAV)](https://github.com/ZhaoJ9014/Anti-UAV) - ML detect quadcopters within IR / RGB videos
 * [Fire Detection UAV ![GitHub Repo Stars](https://img.shields.io/github/stars/AlirezaShamsoshoara/Fire-Detection-UAV-Aerial-Image-Classification-Segmentation-UnmannedAerialVehicle) ![GitHub last commit](https://img.shields.io/github/last-commit/AlirezaShamsoshoara/Fire-Detection-UAV-Aerial-Image-Classification-Segmentation-UnmannedAerialVehicle)](https://github.com/AlirezaShamsoshoara/Fire-Detection-UAV-Aerial-Image-Classification-Segmentation-UnmannedAerialVehicle) - ML learn drones to spot fire.
 * [DroneAid ![GitHub Repo Stars](https://img.shields.io/github/stars/Call-for-Code/DroneAid) ![GitHub last commit](https://img.shields.io/github/last-commit/Call-for-Code/DroneAid)](https://github.com/Call-for-Code/DroneAid) - ML find persons in disaster response by emergency markers.
 * [AirPose ![GitHub Repo Stars](https://img.shields.io/github/stars/robot-perception-group/AirPose) ![GitHub last commit](https://img.shields.io/github/last-commit/robot-perception-group/AirPose)](https://github.com/robot-perception-group/AirPose) - ML human pose estimation from drone perspective.
+* [AruCo landing ![GitHub Repo Stars](https://img.shields.io/github/stars/radekholy24/aruco-landing) ![GitHub last commit](https://img.shields.io/github/last-commit/radekholy24/aruco-landing)](https://github.com/radekholy24/aruco-landing) - ML ROS addon to land on marker positions
 
 
 ## Complete Systems 🎁
 
 Dedicated drones and toolchains to help on a dedicated topic
 
-* [Guiness World record drone build](https://www.youtube.com/watch?v=RoSSaSkOTTc) - How a 300mph / 480 km/h quadcopter rocket needs to be designed and build. Similar is the [AOSHS5 build](https://www.youtube.com/watch?v=oG2GaSMlfdo) (but only 200mph).
+* [Sonora Medical Delivery Planes](https://www.peanutbuttertunaspoon.org) - Deliver medical kits to the Mexican outback using RC airplanes
+* [Guiness World record fastest drone build](https://www.youtube.com/watch?v=L_O45iEar4M) - How a 389mph / 626 km/h quadcopter rocket needs to be designed and build. Similar is the [AOSHS5 build](https://www.youtube.com/watch?v=oG2GaSMlfdo) (but only 200mph).
+* [Guiness World record endurance drone build](https://www.youtube.com/watch?v=1lfVKcKQ5BI) - Giant quad that flies 3:12hrs
 * [Arduino FPV Mini Drone](https://www.instructables.com/Make-a-Tiny-Arduino-Drone-With-FPV-Camera/) - Woodframed mini quad without BLDC and custom RF link around MultiWII
 * [SearchWing](https://www.hs-augsburg.de/searchwing/de/willkommen/) - A Search and Rescue RC airplane for visual inspection of huge areas on sea to rescue people from refugee boats at the EU sea border. Waterproof to land beside the SAR mothership.
 * [Dronecoria](https://dronecoria.org) - Octocopter made from wood as heavy lift to drop seeds.
@@ -354,7 +367,7 @@ Before you damage any hardware you can learn to avoid common pitfalls and train 
 The most consumer friendly trainer simulators are commercial, but available for Linux, macOS as well ([Freerider Recarged](https://fpv-freerider.itch.io/fpv-freerider-recharged), [Liftoff](https://store.steampowered.com/app/410340/Liftoff_FPV_Drone_Racing/), [DRL Sim](https://thedroneracingleague.com/drlsim/), [Velocidrone](https://www.velocidrone.com/).
 
 * [crrcsim](https://sourceforge.net/projects/crrcsim/) - For rc airplanes, 2018.
-* [Picasim](http://www.rowlhouse.co.uk/PicaSim/download.html) - For rc planes, closed source, sucessor of SSS, stall since 2019.
+* [Picasim ![GitHub Repo Stars](https://img.shields.io/github/stars/Rowlhouse/PicaSim) ![GitHub last commit](https://img.shields.io/github/last-commit/Rowlhouse/PicaSim)](https://github.com/Rowlhouse/PicaSim) - For rc planes, closed source, sucessor of SSS.
 * FlightGear - Usually for big airplanes, but can be paired with FC good description [from PaparazziUAV](https://wiki.paparazziuav.org/wiki/FlightGear) or [by Arduplane](https://ardupilot.org/dev/docs/simulation-2.html) for simulation.
 * [AirSim ![GitHub Repo Stars](https://img.shields.io/github/stars/microsoft/AirSim) ![GitHub last commit](https://img.shields.io/github/last-commit/microsoft/AirSim)](https://github.com/microsoft/AirSim) - By Microsoft for algorithm testing.
 * [jMAVSim ![GitHub Repo Stars](https://img.shields.io/github/stars/PX4/jMAVSim) ![GitHub last commit](https://img.shields.io/github/last-commit/PX4/jMAVSim)](https://github.com/PX4/jMAVSim) - For Mavlink.
@@ -383,9 +396,10 @@ We share the airspace with other pilots. RC copters and planes are hard to spot,
 * ADS-B transmitters of airplanes can be received using software defined radios can be realized using cheap USB DVB-T receivers. Can be integrated via radar extensions like [mwp-radar-view ![GitHub Repo Stars](https://img.shields.io/github/stars/stronnag/mwptools) ![GitHub last commit](https://img.shields.io/github/last-commit/stronnag/mwptools)](https://github.com/stronnag/mwptools/wiki/mwp-Radar-View), [Ardupilot ADS-B receiver](https://ardupilot.org/copter/docs/common-ads-b-receiver.html) or in OpenHD. Is part of Mavlink protocol and shows up on most GCS.  Can also be viewed online like [adsb-exchange.com](https://globe.adsbexchange.com/).
 * [INAV Radar ![GitHub Repo Stars](https://img.shields.io/github/stars/OlivierC-FR/ESP32-INAV-Radar) ![GitHub last commit](https://img.shields.io/github/last-commit/OlivierC-FR/ESP32-INAV-Radar)](https://github.com/OlivierC-FR/ESP32-INAV-Radar) - LORA radio and ESP32 broadcast positions and show it at your OSD.
 * [FormationFlight](https://formationflight.org/getting-started/) - Wifi radio of ESP32 to broadcast position and telemetry and show it at your OSD.
-* [SoftRF ![GitHub Repo Stars](https://img.shields.io/github/stars/lyusupov/SoftRF) ![GitHub last commit](https://img.shields.io/github/last-commit/lyusupov/SoftRF)](https://github.com/lyusupov/SoftRF) - UAV edition, supports also FLARM and more.
+* [SoftRF](hhttps://github.com/lyusupov/SoftRF/wiki/Nano-Edition) - Nano edition, supports also FLARM and more.
 * [Glidernet](https://www.glidernet.org) - Share FLARM / ADS-B positions online.
 * [Opensky Network](https://opensky-network.org) - Share ADS-B positions online.
+* [Stratux ![GitHub Repo Stars](https://img.shields.io/github/stars/stratux/stratux) ![GitHub last commit](https://img.shields.io/github/last-commit/stratux/stratux)](https://github.com/stratux/stratux) - Share position and course via different radio transmitters.
 * [ArduPilot RemoteID Transmitter ![GitHub Repo Stars](https://img.shields.io/github/stars/ArduPilot/ArduRemoteID) ![GitHub last commit](https://img.shields.io/github/last-commit/ArduPilot/ArduRemoteID)](https://github.com/ArduPilot/ArduRemoteID) - FCC RemoteID with Mavlink and DroneCAN integration.
 * [WiFi RID capture ![GitHub Repo Stars](https://img.shields.io/github/stars/sxjack/unix_rid_capture) ![GitHub last commit](https://img.shields.io/github/last-commit/sxjack/unix_rid_capture)](https://github.com/sxjack/unix_rid_capture) - Capture remote identification signals  with sniffer.
 * [Drone Detection and Tracking Using RF Identification Signals ](https://www.mdpi.com/1424-8220/23/17/7650) - Track DJI drones using wifi and KISMET sniffer.
@@ -394,6 +408,8 @@ We share the airspace with other pilots. RC copters and planes are hard to spot,
 
 Radio links per se are unsafe and can easily be jammed.
 
+* [RFUAV ![GitHub Repo Stars](https://img.shields.io/github/stars/kitoweeknd/RFUAV) ![GitHub last commit](https://img.shields.io/github/last-commit/kitoweeknd/RFUAV)](https://github.com/kitoweeknd/RFUAV) - Radio based drone detection and signal fingerprinting.
+* [Drone Remote ID Monitoring System ![GitHub Repo Stars](https://img.shields.io/github/stars/cyber-defence-campus/RemoteIDReceiver) ![GitHub last commit](https://img.shields.io/github/last-commit/cyber-defence-campus/RemoteIDReceiver)](https://github.com/cyber-defence-campus/RemoteIDReceiver) - Webfrontend to map DJI drones using their RemoteID.
 * [WTF WJI, UAV CTF?](https://ftp.fau.de/cdn.media.ccc.de/events/camp2023/h264-hd/camp2023-57063-eng-WTF_DJI_UAV_CTF_hd.mp4) - Talk on DJI mini 2 reverse engeniering to bypass manufacturers limitations. Mem dump analysis and crypto keys decryption and radio analysis. About DJI ecosystem and used [open source components](https://www.dji.com/de/opensource) (cccamp23 by Felix Domke).
 * [Drone-ID Receiver for DJI OcuSync 2.0 ![GitHub Repo Stars](https://img.shields.io/github/stars/RUB-SysSec/DroneSecurity) ![GitHub last commit](https://img.shields.io/github/last-commit/RUB-SysSec/DroneSecurity)](https://github.com/RUB-SysSec/DroneSecurity) - Decoding DJI radio transmissions including DroneID and pilot location with SDR in python
 * [Debugging Microcontrollers ](https://media.ccc.de/v/camp2023-57321-debugging_microcontrollers) - Talk on difficult debugging the PX4 hardware micocontrollers with RTOS NuttX  (cccamp23 by Niklas Hauser).
@@ -401,6 +417,7 @@ Radio links per se are unsafe and can easily be jammed.
 * [GPS jamming](https://www.researchgate.net/publication/339824302_Effective_GPS_Jamming_Techniques_for_UAVs_Using_Low-Cost_SDR_Platforms) - Use BladeRF SDR with GNUradio to block satellites.
 * [GPS spoofing](https://rnl.ae.utexas.edu/images/stories/files/papers/unmannedCapture.pdf) - Controll others UAVs by faking satellite transmissions from ground.
 * [RemoteID Spammer/Spoofer ![GitHub Repo Stars](https://img.shields.io/github/stars/jjshoots/RemoteIDSpoofer) ![GitHub last commit](https://img.shields.io/github/last-commit/jjshoots/RemoteIDSpoofer)](https://github.com/jjshoots/RemoteIDSpoofer) - An ESP8266/NodeMCU Drone RemoteID Spoofer
+* [Accoustic drone tracking](https://www.youtube.com/watch?v=cSuV9xzcgXY&feature=youtu.be) - Paper by Fraunhofer IDMT.
 * [Robot Vulnerability Database ![GitHub Repo Stars](https://img.shields.io/github/stars/aliasrobotics/RVD) ![GitHub last commit](https://img.shields.io/github/last-commit/aliasrobotics/RVD)](https://github.com/aliasrobotics/RVD) - CVEs for semi-autonomous machines.
 
 ## Accesoirs 🪠
