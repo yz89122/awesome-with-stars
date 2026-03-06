@@ -1261,7 +1261,7 @@ Kani verifies:
 
 - **sqlcheck** :warning: — Automatically identify anti-patterns in SQL queries.
 
-- [SQLFluff](https://www.sqlfluff.com/) �� Multiple dialect SQL linter and formatter.
+- [SQLFluff](https://www.sqlfluff.com/) — Multiple dialect SQL linter and formatter.
 
 - [sqlint ![GitHub Repo Stars](https://img.shields.io/github/stars/purcell/sqlint) ![GitHub last commit](https://img.shields.io/github/last-commit/purcell/sqlint)](https://github.com/purcell/sqlint) — Simple SQL linter.
 
