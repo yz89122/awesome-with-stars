@@ -1482,6 +1482,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-uploader-file ![GitHub Repo Stars](https://img.shields.io/github/stars/IsaiasCardenasM/ngx-uploader-file) ![GitHub last commit](https://img.shields.io/github/last-commit/IsaiasCardenasM/ngx-uploader-file)](https://github.com/IsaiasCardenasM/ngx-uploader-file) - A versatile Angular file upload library with preview, validation, image cropping, drag-and-drop, and multi-language support.
 * [ngx-filesize-pipe](https://www.npmjs.com/package/ngx-filesize-pipe) - An Angular pipe that converts bytes to a human-readable size, ideal for uploaders and media apps.
 * [ngx-file-helpers](https://www.npmjs.com/package/ngx-file-helpers) - Angular file helpers including a file picker and dropzone.
+* [ngx-file-uploader ![GitHub Repo Stars](https://img.shields.io/github/stars/uniprank/ngx-file-uploader) ![GitHub last commit](https://img.shields.io/github/last-commit/uniprank/ngx-file-uploader)](https://github.com/uniprank/ngx-file-uploader) - Angular upload components and directives with built‑in file preview.
 
 ### Forms
 
