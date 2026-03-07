@@ -1832,6 +1832,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-schema-tools ![GitHub Repo Stars](https://img.shields.io/github/stars/Expeed-Software/ngx-schema-tools) ![GitHub last commit](https://img.shields.io/github/last-commit/Expeed-Software/ngx-schema-tools)](https://github.com/Expeed-Software/ngx-schema-tools) - A monorepo containing Angular libraries for JSON schema editing, visual data mapping, and dynamic form rendering.
 * [angular-3d ![GitHub Repo Stars](https://img.shields.io/github/stars/Hive-Academy/angular-3d) ![GitHub last commit](https://img.shields.io/github/last-commit/Hive-Academy/angular-3d)](https://github.com/Hive-Academy/angular-3d) - Modern Angular libraries for building stunning 3D graphics and scroll animations.
 * [npm-ntk-cms-angular ![GitHub Repo Stars](https://img.shields.io/github/stars/akaravi/npm-ntk-cms-angular) ![GitHub last commit](https://img.shields.io/github/last-commit/akaravi/npm-ntk-cms-angular)](https://github.com/akaravi/npm-ntk-cms-angular) - This monorepo contains a collection of 9 reusable Angular libraries designed for building modern CMS applications.
+* [ngx-vertex ![GitHub Repo Stars](https://img.shields.io/github/stars/pjlamb12/ngx-vertex) ![GitHub last commit](https://img.shields.io/github/last-commit/pjlamb12/ngx-vertex)](https://github.com/pjlamb12/ngx-vertex) - Designed to assist in creating and managing a directed acyclic graph model in an Angular application.
 
 ### Modals
 
@@ -1964,6 +1965,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [cerious-scroll ![GitHub Repo Stars](https://img.shields.io/github/stars/ceriousdevtech/cerious-scroll) ![GitHub last commit](https://img.shields.io/github/last-commit/ceriousdevtech/cerious-scroll)](https://github.com/ceriousdevtech/cerious-scroll) - High-performance virtual scrolling for web applications.
 * [ngx-zoneless-scrollbar ![GitHub Repo Stars](https://img.shields.io/github/stars/Legalfina/ngx-zoneless-scrollbar) ![GitHub last commit](https://img.shields.io/github/last-commit/Legalfina/ngx-zoneless-scrollbar)](https://github.com/Legalfina/ngx-zoneless-scrollbar) - A lightweight Angular scrollbar built for zoneless mode, using native scrolling with CSS styling.
 * [ngx-scrollbar-ultimate ![GitHub Repo Stars](https://img.shields.io/github/stars/andrew-dev283/ngx-scrollbar-ultimate) ![GitHub last commit](https://img.shields.io/github/last-commit/andrew-dev283/ngx-scrollbar-ultimate)](https://github.com/andrew-dev283/ngx-scrollbar-ultimate) - A lightweight library for vertical scrolling.
+* [ngx-scrollspy ![GitHub Repo Stars](https://img.shields.io/github/stars/uniprank/ngx-scrollspy) ![GitHub last commit](https://img.shields.io/github/last-commit/uniprank/ngx-scrollspy)](https://github.com/uniprank/ngx-scrollspy) - Angular Scroll Spy Service with events.
 
 ### Storage
 
