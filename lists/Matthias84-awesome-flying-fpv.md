@@ -225,7 +225,7 @@ Videotransmitter (VTX) are analog or digital radio transmitter on your drone, wh
 * [OpenVTx ![GitHub Repo Stars](https://img.shields.io/github/stars/OpenVTx/OpenVTx) ![GitHub last commit](https://img.shields.io/github/last-commit/OpenVTx/OpenVTx)](https://github.com/OpenVTx/OpenVTx) - Free firmware for open hardware anlog VTX.
 * [VTX Power Measure ![GitHub Repo Stars](https://img.shields.io/github/stars/mrRobot62/vtx_power_measure) ![GitHub last commit](https://img.shields.io/github/last-commit/mrRobot62/vtx_power_measure)](https://github.com/mrRobot62/vtx_power_measure) - Python scripting the Immersion RF-Meter V2.
 
-## Camera & Gimbals 🎥
+## Camera & Gimbals ���
 
 Cameras feed the onboard videotransmitter for downlink or record as DVR with higher quality. See also VTX for custom systems which allow you different camera setups.
 

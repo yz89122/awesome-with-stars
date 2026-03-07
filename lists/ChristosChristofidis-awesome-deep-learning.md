@@ -342,7 +342,7 @@
 96. [ Youzhi (Will) Zou ](http://ai.stanford.edu/~wzou)
 97. [ Fei-Fei Li ](http://vision.stanford.edu/feifeili)
 98. [ Ian Goodfellow ](https://research.google.com/pubs/105214.html)
-99. [ Robert Laganière ](http://www.site.uottawa.ca/~laganier/)
+99. [ Robert Lagani��re ](http://www.site.uottawa.ca/~laganier/)
 100. [Merve Ayyüce Kızrak](http://www.ayyucekizrak.com/)
 
 
