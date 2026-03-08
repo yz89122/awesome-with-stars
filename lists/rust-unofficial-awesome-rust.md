@@ -1122,6 +1122,7 @@ See also [About Rust’s Machine Learning Community](https://medium.com/@autumn_
 
 * [BAML ![GitHub Repo Stars](https://img.shields.io/github/stars/BoundaryML/baml) ![GitHub last commit](https://img.shields.io/github/last-commit/BoundaryML/baml)](https://github.com/BoundaryML/baml) - A simple prompting language for building reliable AI workflows and agents. BAML's compiler is written in Rust!
 * [Cortex Memory ![GitHub Repo Stars](https://img.shields.io/github/stars/sopaco/cortex-mem) ![GitHub last commit](https://img.shields.io/github/last-commit/sopaco/cortex-mem)](https://github.com/sopaco/cortex-mem) - A complete solution for agent memory, from extraction and vector search to automated optimization, and insights dashboard out-of-the-box.
+* [memvid/memvid ![GitHub Repo Stars](https://img.shields.io/github/stars/memvid/memvid) ![GitHub last commit](https://img.shields.io/github/last-commit/memvid/memvid)](https://github.com/memvid/memvid) [[memvid-core](https://crates.io/crates/memvid-core)] - A single-file portable memory layer for AI agents with vector search, full-text search, and long-term recall packed into one `.mv2` file
 
 ### Astronomy
 
