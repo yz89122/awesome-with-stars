@@ -508,7 +508,7 @@ Part 1](https://0fps.net/2014/02/10/replication-in-networked-games-overview-part
 [How To Draw](https://www.webtoons.com/en/challenge/how-to-draw-/intro-/viewer?title_no=730330&episode_no=1) 💠🟪 - An webcomic on how to draw, and much more importantly, how to _learn_ to draw.
 
 
-[Radiorunner's Curriculum for the Solo Artist](https://www.brendanmeachen.com/soloartist) 🟪 - A curriculum for self-teaching art. If you want to _really_ hone your skills, this will undoubtedly be worth your time.
+[Radiorunner's Curriculum for the Solo Artist](https://www.brendanmeachen.com/soloartist) �� - A curriculum for self-teaching art. If you want to _really_ hone your skills, this will undoubtedly be worth your time.
 
 
 [DrawABox](https://drawabox.com/) 💠🟪 - An exhaustive course for the art fundamentals (completely free!)
@@ -733,7 +733,7 @@ Royalty Free Game Art! Don't forget to check the license.
 [Game Audio Learning Resources](https://docs.google.com/spreadsheets/d/1fcuhGEesLC_PWCwY3dIwLgF774sKswOwIcZECWiH7Xo/edit#gid=0) 💠🟪 - A megalist of game audio learning resources! 
 
 
-[The Sound Effects Bible](https://postproduciendoenlaeav.files.wordpress.com/2017/09/the-sound-effects-bible-ric-viers.pdf) ��� - A book on everything sound effects.
+[The Sound Effects Bible](https://postproduciendoenlaeav.files.wordpress.com/2017/09/the-sound-effects-bible-ric-viers.pdf) 🟪 - A book on everything sound effects.
 
 
 [Another list of resources!](https://twitter.com/chiragmachhar/status/1511446337639927811) 🟪 - [Archived PDF](archives/twitter/chiragmachharThread.pdf). 
