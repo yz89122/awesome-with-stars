@@ -3527,6 +3527,7 @@ _Where to discover new Go libraries._
 - [kvbench ![GitHub Repo Stars](https://img.shields.io/github/stars/jimrobinson/kvbench) ![GitHub last commit](https://img.shields.io/github/last-commit/jimrobinson/kvbench)](https://github.com/jimrobinson/kvbench) - Key/Value database benchmark.
 - [skynet ![GitHub Repo Stars](https://img.shields.io/github/stars/atemerev/skynet) ![GitHub last commit](https://img.shields.io/github/last-commit/atemerev/skynet)](https://github.com/atemerev/skynet) - Skynet 1M threads microbenchmark.
 - [speedtest-resize ![GitHub Repo Stars](https://img.shields.io/github/stars/fawick/speedtest-resize) ![GitHub last commit](https://img.shields.io/github/last-commit/fawick/speedtest-resize)](https://github.com/fawick/speedtest-resize) - Compare various Image resize algorithms for the Go language.
+- [vizb ![GitHub Repo Stars](https://img.shields.io/github/stars/goptics/vizb) ![GitHub last commit](https://img.shields.io/github/last-commit/goptics/vizb)](https://github.com/goptics/vizb) - A CLI tool to visualize Go benchmark data in 4D.
 
 **[⬆ back to top](#contents)**
 
