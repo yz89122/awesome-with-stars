@@ -23,7 +23,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
   * [Podcasting](#podcasting)
   * [Radio Production](#radio-production)
   * [Rundown Automation](#rundown-automation)
-  * [SCTE-35](#scte-35)
+  * [SCTE-35 & SCTE-104](#scte-35--scte-104)
   * [Software-defined radio](#software-defined-radio)
   * [Streaming](#streaming)
   * [Subtitling](#subtitling)
@@ -43,6 +43,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
 * [Macadam ![GitHub Repo Stars](https://img.shields.io/github/stars/Streampunk/macadam) ![GitHub last commit](https://img.shields.io/github/last-commit/Streampunk/macadam)](https://github.com/Streampunk/macadam) - Blackmagic Node.js bindings that support HTML/CSS (via [Electron](https://www.electronjs.org/)) and SVG (via [Sevruga ![GitHub Repo Stars](https://img.shields.io/github/stars/Streampunk/sevruga) ![GitHub last commit](https://img.shields.io/github/last-commit/Streampunk/sevruga)](https://github.com/Streampunk/sevruga)) graphics.
 * [Nebula](https://github.com/nebulabroadcast) - Media asset management and broadcast automation system.
 * [NodeCG](https://www.nodecg.dev/) - Broadcast graphics rendered in a browser using Node.js.
+* [OGraf ![GitHub Repo Stars](https://img.shields.io/github/stars/ebu/ograf) ![GitHub last commit](https://img.shields.io/github/last-commit/ebu/ograf)](https://github.com/ebu/ograf) - Open specification for HTML based Graphics, used in live television and post production workflows.
 * [Open Playout Automation ![GitHub Repo Stars](https://img.shields.io/github/stars/jaskie/PlayoutAutomation) ![GitHub last commit](https://img.shields.io/github/last-commit/jaskie/PlayoutAutomation)](https://github.com/jaskie/PlayoutAutomation) - A CasparCG-based MCR play-out system.
 * [ossia](https://ossia.io/) - A free and open-source intermedia sequencer.
 * [Sofie - TV Automation ![GitHub Repo Stars](https://img.shields.io/github/stars/Sofie-Automation/Sofie-TV-automation) ![GitHub last commit](https://img.shields.io/github/last-commit/Sofie-Automation/Sofie-TV-automation)](https://github.com/Sofie-Automation/Sofie-TV-automation) - MOS-driven automation system for news casts, with many libraries for e.g. device control.
@@ -268,9 +269,10 @@ The [Networked Media Open Specifications](https://specs.amwa.tv/nmos/) are thems
 * [OnTime ![GitHub Repo Stars](https://img.shields.io/github/stars/cpvalente/ontime) ![GitHub last commit](https://img.shields.io/github/last-commit/cpvalente/ontime)](https://github.com/cpvalente/ontime) - Web based time keeping system for live events with a broadcast clock view.
 * [SuperConductor ![GitHub Repo Stars](https://img.shields.io/github/stars/SuperFlyTV/SuperConductor) ![GitHub last commit](https://img.shields.io/github/last-commit/SuperFlyTV/SuperConductor)](https://github.com/SuperFlyTV/SuperConductor) - Rundown/playout controller for CasparCG Server, BMD ATEM, OBS Studio, vMix, OSC-compatible devices, HTTP (REST)-compatible devices among others.
 
-## SCTE-35
+## SCTE-35 & SCTE-104
 
 * [threefive ![GitHub Repo Stars](https://img.shields.io/github/stars/superkabuki/threefive_is_scte35) ![GitHub last commit](https://img.shields.io/github/last-commit/superkabuki/threefive_is_scte35)](https://github.com/superkabuki/threefive_is_scte35) - SCTE-35 Parser and Encoder for MPEGTS.
+* [wireshark-scte ![GitHub Repo Stars](https://img.shields.io/github/stars/m1tk4/wireshark-scte) ![GitHub last commit](https://img.shields.io/github/last-commit/m1tk4/wireshark-scte)](https://github.com/m1tk4/wireshark-scte) - SCTE-104 protocol dissector for Wireshark.
 * [x9k3 ![GitHub Repo Stars](https://img.shields.io/github/stars/superkabuki/x9k3) ![GitHub last commit](https://img.shields.io/github/last-commit/superkabuki/x9k3)](https://github.com/superkabuki/x9k3) - Adaptive Bit Rate HLS Segmenter and SCTE-35 Injector.
 
 ## Software-defined radio
@@ -298,6 +300,7 @@ The [Networked Media Open Specifications](https://specs.amwa.tv/nmos/) are thems
 * [Subtitle Edit](https://www.nikse.dk/SubtitleEdit) - An editor for subtitles.
 * [Subtitling Conversion Framework (SCF) ![GitHub Repo Stars](https://img.shields.io/github/stars/Irt-Open-Source/scf) ![GitHub last commit](https://img.shields.io/github/last-commit/Irt-Open-Source/scf)](https://github.com/Irt-Open-Source/scf) - Modules for converting subtitle formats, incl. EBU STL and EBU-TT files.
 * [Timed Text Toolkit (ttt) ![GitHub Repo Stars](https://img.shields.io/github/stars/skynav/ttt) ![GitHub last commit](https://img.shields.io/github/last-commit/skynav/ttt)](https://github.com/skynav/ttt) - Tools that support/use the W3C Timed Text Markup Language (TTML).
+* [ttconv ![GitHub Repo Stars](https://img.shields.io/github/stars/sandflow/ttconv) ![GitHub last commit](https://img.shields.io/github/last-commit/sandflow/ttconv)](https://github.com/sandflow/ttconv) - Subtitle conversion library and CLI tool. Converts between STL, SRT, TTML, SCC, TTML and WebVTT files.
 
 ## Video Production
 
