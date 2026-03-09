@@ -86,6 +86,8 @@ Inspired by the [awesome ![GitHub Repo Stars](https://img.shields.io/github/star
 
 - [WebdriverCSS ![GitHub Repo Stars](https://img.shields.io/github/stars/webdriverio/webdrivercss) ![GitHub last commit](https://img.shields.io/github/last-commit/webdriverio/webdrivercss)](https://github.com/webdriverio/webdrivercss) - Regression testing tool for [WebdriverIO](http://webdriver.io) (currently deprecated, please use [wdio-screenshot](https://www.npmjs.com/package/wdio-screenshot) for the time being).
 
+- [Website-Diff ![GitHub Repo Stars](https://img.shields.io/github/stars/GeiserX/Website-Diff) ![GitHub last commit](https://img.shields.io/github/last-commit/GeiserX/Website-Diff)](https://github.com/GeiserX/Website-Diff) - Intelligent web page comparison tool with Wayback Machine support and visual regression testing via Selenium.
+
 ### Containers
 
 #### Docker
