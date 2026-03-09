@@ -168,12 +168,14 @@ Price and Volume process with Technology Analysis Indices
 - [yahoo-finance ![GitHub Repo Stars](https://img.shields.io/github/stars/lukaszbanasiak/yahoo-finance) ![GitHub last commit](https://img.shields.io/github/last-commit/lukaszbanasiak/yahoo-finance)](https://github.com/lukaszbanasiak/yahoo-finance) - Python module to get stock data from Yahoo! Finance.
 - [Tushare ![GitHub Repo Stars](https://img.shields.io/github/stars/waditu/tushare) ![GitHub last commit](https://img.shields.io/github/last-commit/waditu/tushare)](https://github.com/waditu/tushare) - Crawling historical data of Chinese stocks.
 - [Financial Data](https://financialdata.net/) - Stock Market and Financial Data API.
+- [ValueRay](https://www.valueray.com/api) - Technical, quantitative and sentiment data for stocks and ETFs with risk metrics, peer percentiles and market regime signals. Optimized for AI/LLM agents.
 
 #### Crypto Currencies
 
 - [CryptoInscriber ![GitHub Repo Stars](https://img.shields.io/github/stars/Optixal/CryptoInscriber) ![GitHub last commit](https://img.shields.io/github/last-commit/Optixal/CryptoInscriber)](https://github.com/Optixal/CryptoInscriber) - A live crypto currency historical trade data blotter. Download live historical trade data from any crypto exchange.
 - [CoinPulse ![GitHub Repo Stars](https://img.shields.io/github/stars/soutone/coinpulse-python) ![GitHub last commit](https://img.shields.io/github/last-commit/soutone/coinpulse-python)](https://github.com/soutone/coinpulse-python) - Python SDK for cryptocurrency portfolio tracking with real-time prices, P/L calculations, backtesting, and price alerts. Free tier: 25 req/hr.
 - [Gekko-Datasets ![GitHub Repo Stars](https://img.shields.io/github/stars/xFFFFF/Gekko-Datasets) ![GitHub last commit](https://img.shields.io/github/last-commit/xFFFFF/Gekko-Datasets)](https://github.com/xFFFFF/Gekko-Datasets) - Gekko trading bot dataset dumps. Download and use history files in SQLite format.
+- [Frostbyte Crypto API](https://agent-gateway-kappa.vercel.app) - Free real-time cryptocurrency price data API. Supports BTC, ETH, SOL, and 20+ tokens. No signup or API key required for basic endpoints. JSON responses with price, 24h change, market cap, and volume.
 
 #### News Data
 
