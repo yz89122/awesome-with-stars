@@ -824,7 +824,7 @@ A ktfmt IntelliJ plugin is available from the plugin repository. To install it, 
 
 - **Enlightn** :warning: — A static and dynamic analysis tool for Laravel applications that provides recommendations to improve the performance, security and code reliability of Laravel apps. Contains 120 automated checks.
 
-- [exakat](https://www.exakat.io) — An automated code reviewing engine for PHP.
+- [exakat](https://www.exakat.io) �� An automated code reviewing engine for PHP.
 
 - [GrumPHP ![GitHub Repo Stars](https://img.shields.io/github/stars/phpro/grumphp) ![GitHub last commit](https://img.shields.io/github/last-commit/phpro/grumphp)](https://github.com/phpro/grumphp) — Checks code on every commit.
 

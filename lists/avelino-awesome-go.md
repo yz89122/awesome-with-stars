@@ -648,6 +648,7 @@ additional ordered map implementations.
 
 ### Queues
 
+- [deheap ![GitHub Repo Stars](https://img.shields.io/github/stars/aalpar/deheap) ![GitHub last commit](https://img.shields.io/github/last-commit/aalpar/deheap)](https://github.com/aalpar/deheap) - Doubly-ended heap (min-max heap) with O(log n) access to both minimum and maximum elements.
 - [deque ![GitHub Repo Stars](https://img.shields.io/github/stars/edwingeng/deque) ![GitHub last commit](https://img.shields.io/github/last-commit/edwingeng/deque)](https://github.com/edwingeng/deque) - A highly optimized double-ended queue.
 - [deque ![GitHub Repo Stars](https://img.shields.io/github/stars/gammazero/deque) ![GitHub last commit](https://img.shields.io/github/last-commit/gammazero/deque)](https://github.com/gammazero/deque) - Fast ring-buffer deque (double-ended queue).
 - [dqueue ![GitHub Repo Stars](https://img.shields.io/github/stars/vodolaz095/dqueue) ![GitHub last commit](https://img.shields.io/github/last-commit/vodolaz095/dqueue)](https://github.com/vodolaz095/dqueue) - Simple, in memory, zero dependency and battle tested, thread-safe deferred queue.
