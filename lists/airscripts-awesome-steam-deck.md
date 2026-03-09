@@ -27,14 +27,20 @@ Choose what you find more suitable for you:
 - [Hardware](#hardware)
 - [Accessory](#accessory)
 - [Software](#software)
+- [Performance](#performance)
+- [Customization](#customization)
+- [Power Management](#power-management)
 - [Emulation](#emulation)
 - [Launcher](#launcher)
 - [Remote](#remote)
 - [File Management](#file-management)
+- [Storage Management](#storage-management)
 - [Utility](#utility)
+- [Accessibility](#accessibility)
 - [Plugin](#plugin)
 - [Website](#website)
 - [Community](#community)
+- [Video Content](#video-content)
 - [Blog](#blog)
 - [Podcast](#podcast)
 
@@ -49,6 +55,9 @@ Choose what you find more suitable for you:
 - [Install NonSteamLaunchers](https://steamdeckhq.com/tips-and-guides/install-3rd-party-launchers-on-steam-deck/) - How to install NonSteamLaunchers.
 - [Activate SFTP](https://www.youtube.com/watch?v=Cb1U0_KbtLQ) - How to transfer files from PC to Steam Deck with SFTP.
 - [Install ProtonDB Badges Plugin](https://steamdecklife.com/2022/10/18/protondb-badges-steam-deck-plugin/) - How to install ProtonDB Badges Plugin which gives you games compatibility rating from the ProtonDB website.
+- [Steam Deck ArchWiki](https://wiki.archlinux.org/title/Steam_Deck) - Comprehensive technical documentation about Steam Deck and SteamOS.
+- [Install Decky Loader](https://decky.xyz/) - How to install the plugin system.
+- [Setup CSS Loader](https://deckthemes.com/) - How to install and use custom themes.
 
 ## Hardware
 - [Sabrent Rocket 2230 SSD](https://www.amazon.com/SABRENT-Rocket-2230-Performance-SB-2130-1TB/dp/B0BQG6JCRP/) - Suggested SSD made by Sabrent.
@@ -71,13 +80,13 @@ Choose what you find more suitable for you:
 - [UGREEN Dock](https://eu.ugreen.com/collections/docking-station/products/copy-of-snap-deal-ugreen-docking-station-for-steam-deck) - UGREEN Docking Station for Steam Deck.
 - [Extreme Rate Shells](https://extremerate.com/collections/steam-deck-shells) - Extreme Rate Steam Deck Shells.
 - [GamingCobra Shells](https://www.gamingcobra.com/collections/steam-deck-shells) - Gaming Cobra Steam Deck Shells.
-- [JSAUX Transparent Back Plate](https://jsaux.com/products/transparent-back-plate-for-steam-deck-pc0106) - JSAUX Transparent Back Plate for Steam Deck.
+- [JSAUX Transparent Back Plate](https://jsaux.com/products/transparent-back-plate-for-steam-deck-pc0106) - Transparent back plate for Steam Deck.
 - [Corsair K70 Pro Mini](https://www.amazon.com/dp/B0B4SW81GW/) - 60% wireless mechanical keyboard.
 - [Razer Viper V2 Pro](https://www.amazon.com/dp/B09VCR969M) - Premium gaming mouse with great set of features.
 - [8BitDo Wireless 2.4g Controller](https://www.amazon.com/dp/B0B9BR6H7N/) - Great controller for those who want a console-like gaming experience.
 - [HyperX Cloud II Wireless](https://www.amazon.com/dp/B00SAYCXWG/) - Value-for-money wireless headset for your Steam Deck.
 - [Razer Hammerhead (2021)](https://www.amazon.com/dp/B099LZ2BGB/) - Wireless earbuds for your Steam Deck.
-- [Acer Nitro XV272U Vbmiiprx 27" Monitor](https://www.amazon.com/dp/B09R26XXFW/) - 27-inch WQHD gaming monitor from Asus.
+- [Acer Nitro XV272U Vbmiiprx 27 Inch Monitor](https://www.amazon.com/dp/B09R26XXFW/) - 27-inch WQHD gaming monitor from Asus.
 - [ViewSonic VX1755](https://www.amazon.com/dp/B09CQJ39YS/) - Large-screen gaming experience with this portable gaming monitor from ViewSonic.
 - [Anker 7-in-1 USB-C Hub](https://www.amazon.com/dp/B07ZVKTP53) - 7-in-1 USB-C hub from Anker is a great alternative to a dedicated Steam Deck dock.
 - [Spigen Rugged Armor Case](https://www.amazon.com/dp/B0B75N73N9) - Protect your shiny-new Steam Deck from scratches and drops.
@@ -90,11 +99,33 @@ Choose what you find more suitable for you:
 - [rwfus ![GitHub Repo Stars](https://img.shields.io/github/stars/ValShaped/rwfus) ![GitHub last commit](https://img.shields.io/github/last-commit/ValShaped/rwfus)](https://github.com/ValShaped/rwfus) - Read and write OverlayFS for Steam Deck.
 - [BoilR ![GitHub Repo Stars](https://img.shields.io/github/stars/PhilipK/BoilR) ![GitHub last commit](https://img.shields.io/github/last-commit/PhilipK/BoilR)](https://github.com/PhilipK/BoilR) - Synchronize non-Steam games with your Steam library.
 - [Steam ROM Manager ![GitHub Repo Stars](https://img.shields.io/github/stars/SteamGridDB/steam-rom-manager) ![GitHub last commit](https://img.shields.io/github/last-commit/SteamGridDB/steam-rom-manager)](https://github.com/SteamGridDB/steam-rom-manager) - An app for managing ROMs in Steam.
-- [Discord Overlay](https://trigg.github.io/Discover/deckaddnonsteamgame) - Discord Overlay for Steam.
+- [Discord Overlay](https://trigg.github.io/Discover/deckaddnonsteamgame) - Overlay for Discord on Steam.
 - [SteamOS Btrfs](https://gitlab.com/popsulfr/steamos-btrfs) - Convert the /home partition from ext4 to btrfs.
 - [ProtonUp-Qt](https://davidotek.github.io/protonup-qt/) - Install and manage third-party compatibility tools for Steam Games.
 - [Clover ![GitHub Repo Stars](https://img.shields.io/github/stars/ryanrudolfoba/SteamDeck-Clover-dualboot) ![GitHub last commit](https://img.shields.io/github/last-commit/ryanrudolfoba/SteamDeck-Clover-dualboot)](https://github.com/ryanrudolfoba/SteamDeck-Clover-dualboot) - Graphical boot manager for the Steam Deck.
 - [Steam Deck Printing Rootless ![GitHub Repo Stars](https://img.shields.io/github/stars/Tymose/Steam-Deck-Printing-ROOTLESS) ![GitHub last commit](https://img.shields.io/github/last-commit/Tymose/Steam-Deck-Printing-ROOTLESS)](https://github.com/Tymose/Steam-Deck-Printing-ROOTLESS) - Utility that lets you print on the Steam Deck rootlessly and that survives updates as well.
+- [Protontricks ![GitHub Repo Stars](https://img.shields.io/github/stars/Matoking/protontricks) ![GitHub last commit](https://img.shields.io/github/last-commit/Matoking/protontricks)](https://github.com/Matoking/protontricks) - Configure Proton prefixes for Steam games.
+- [SteamTinkerLaunch ![GitHub Repo Stars](https://img.shields.io/github/stars/sonic2kk/steamtinkerlaunch) ![GitHub last commit](https://img.shields.io/github/last-commit/sonic2kk/steamtinkerlaunch)](https://github.com/sonic2kk/steamtinkerlaunch) - Advanced game launch customization and tweaking.
+- [GOverlay ![GitHub Repo Stars](https://img.shields.io/github/stars/benjamimgois/goverlay) ![GitHub last commit](https://img.shields.io/github/last-commit/benjamimgois/goverlay)](https://github.com/benjamimgois/goverlay) - Graphical UI for MangoHud configuration.
+- [CoreCtrl](https://gitlab.com/corectrl/corectrl) - Advanced CPU/GPU control utility.
+- [Flatseal ![GitHub Repo Stars](https://img.shields.io/github/stars/tchx84/Flatseal) ![GitHub last commit](https://img.shields.io/github/last-commit/tchx84/Flatseal)](https://github.com/tchx84/Flatseal) - Manage Flatpak permissions with a GUI.
+- [SteamGridDB Manager ![GitHub Repo Stars](https://img.shields.io/github/stars/SteamGridDB/steamgriddb-manager) ![GitHub last commit](https://img.shields.io/github/last-commit/SteamGridDB/steamgriddb-manager)](https://github.com/SteamGridDB/steamgriddb-manager) - Apply artwork for non-Steam games automatically.
+- [Warehouse](https://flathub.org/apps/io.github.flattool.Warehouse) - Modern Flatpak management tool.
+
+## Performance
+- [MangoHud ![GitHub Repo Stars](https://img.shields.io/github/stars/flightlessmango/MangoHud) ![GitHub last commit](https://img.shields.io/github/last-commit/flightlessmango/MangoHud)](https://github.com/flightlessmango/MangoHud) - Vulkan/OpenGL performance overlay (FPS, temps, CPU/GPU usage).
+- [Gamescope ![GitHub Repo Stars](https://img.shields.io/github/stars/ValveSoftware/gamescope) ![GitHub last commit](https://img.shields.io/github/last-commit/ValveSoftware/gamescope)](https://github.com/ValveSoftware/gamescope) - Micro-compositor for resolution scaling, frame limiting, and latency improvements.
+- [PowerTools ![GitHub Repo Stars](https://img.shields.io/github/stars/NGnius/PowerTools) ![GitHub last commit](https://img.shields.io/github/last-commit/NGnius/PowerTools)](https://github.com/NGnius/PowerTools) - Decky plugin for advanced CPU, GPU, and power management.
+- [SimpleDeckyTDP ![GitHub Repo Stars](https://img.shields.io/github/stars/aarron-lee/SimpleDeckyTDP) ![GitHub last commit](https://img.shields.io/github/last-commit/aarron-lee/SimpleDeckyTDP)](https://github.com/aarron-lee/SimpleDeckyTDP) - Decky plugin with simplified TDP controls for Steam Deck.
+- [ShareDeck](https://sharedeck.games/) - Community database of Steam Deck performance settings for games.
+
+## Customization
+- [CSS Loader ![GitHub Repo Stars](https://img.shields.io/github/stars/suchmememanyskill/SDH-CssLoader) ![GitHub last commit](https://img.shields.io/github/last-commit/suchmememanyskill/SDH-CssLoader)](https://github.com/suchmememanyskill/SDH-CssLoader) - Decky plugin to apply custom themes to Steam Deck UI.
+- [Audio Loader ![GitHub Repo Stars](https://img.shields.io/github/stars/EMERALD0874/SDH-AudioLoader) ![GitHub last commit](https://img.shields.io/github/last-commit/EMERALD0874/SDH-AudioLoader)](https://github.com/EMERALD0874/SDH-AudioLoader) - Decky plugin for custom boot and suspend sounds.
+- [Steam Deck Repo](https://steamdeckrepo.com/) - Custom boot videos and animations.
+
+## Power Management
+- [PowerControl ![GitHub Repo Stars](https://img.shields.io/github/stars/mengmeet/PowerControl) ![GitHub last commit](https://img.shields.io/github/last-commit/mengmeet/PowerControl)](https://github.com/mengmeet/PowerControl) - Decky plugin for advanced power profile management.
 
 ## Emulation
 - [EmuDeck ![GitHub Repo Stars](https://img.shields.io/github/stars/dragoonDorise/EmuDeck) ![GitHub last commit](https://img.shields.io/github/last-commit/dragoonDorise/EmuDeck)](https://github.com/dragoonDorise/EmuDeck) - Emulator configurator.
@@ -106,16 +137,25 @@ Choose what you find more suitable for you:
 - [shadPS4 ![GitHub Repo Stars](https://img.shields.io/github/stars/shadps4-emu/shadPS4) ![GitHub last commit](https://img.shields.io/github/last-commit/shadps4-emu/shadPS4)](https://github.com/shadps4-emu/shadPS4) - PS4 Emulator.
 - [PPSSPP ![GitHub Repo Stars](https://img.shields.io/github/stars/hrydgard/ppsspp) ![GitHub last commit](https://img.shields.io/github/last-commit/hrydgard/ppsspp)](https://github.com/hrydgard/ppsspp) - PSP Emulator.
 - [Vita3K ![GitHub Repo Stars](https://img.shields.io/github/stars/Vita3K/Vita3K) ![GitHub last commit](https://img.shields.io/github/last-commit/Vita3K/Vita3K)](https://github.com/Vita3K/Vita3K) - PS Vita Emulator.
+- [DuckStation ![GitHub Repo Stars](https://img.shields.io/github/stars/stenzek/duckstation) ![GitHub last commit](https://img.shields.io/github/last-commit/stenzek/duckstation)](https://github.com/stenzek/duckstation) - Fast and accurate PlayStation 1 emulator.
 - [bsnes ![GitHub Repo Stars](https://img.shields.io/github/stars/bsnes-emu/bsnes) ![GitHub last commit](https://img.shields.io/github/last-commit/bsnes-emu/bsnes)](https://github.com/bsnes-emu/bsnes) - SNES Emulator.
 - [Dolphin ![GitHub Repo Stars](https://img.shields.io/github/stars/dolphin-emu/dolphin) ![GitHub last commit](https://img.shields.io/github/last-commit/dolphin-emu/dolphin)](https://github.com/dolphin-emu/dolphin) - Gamecube/Wii Emulator.
 - [DeSmuME ![GitHub Repo Stars](https://img.shields.io/github/stars/TASEmulators/desmume) ![GitHub last commit](https://img.shields.io/github/last-commit/TASEmulators/desmume)](https://github.com/TASEmulators/desmume) - Nintendo DS Emulator.
+- [melonDS ![GitHub Repo Stars](https://img.shields.io/github/stars/melonDS-emu/melonDS) ![GitHub last commit](https://img.shields.io/github/last-commit/melonDS-emu/melonDS)](https://github.com/melonDS-emu/melonDS) - Nintendo DS emulator with local multiplayer support.
+- [Cemu ![GitHub Repo Stars](https://img.shields.io/github/stars/cemu-project/Cemu) ![GitHub last commit](https://img.shields.io/github/last-commit/cemu-project/Cemu)](https://github.com/cemu-project/Cemu) - Wii U emulator with excellent compatibility.
 - [xemu ![GitHub Repo Stars](https://img.shields.io/github/stars/xemu-project/xemu) ![GitHub last commit](https://img.shields.io/github/last-commit/xemu-project/xemu)](https://github.com/xemu-project/xemu) - Xbox Emulator.
+- [MAME ![GitHub Repo Stars](https://img.shields.io/github/stars/mamedev/mame) ![GitHub last commit](https://img.shields.io/github/last-commit/mamedev/mame)](https://github.com/mamedev/mame) - Arcade machine emulator.
+- [Flycast ![GitHub Repo Stars](https://img.shields.io/github/stars/flyinghead/flycast) ![GitHub last commit](https://img.shields.io/github/last-commit/flyinghead/flycast)](https://github.com/flyinghead/flycast) - Sega Dreamcast/Naomi emulator.
 
 ## Launcher
 - [Lutris](https://lutris.net/) - Open gaming platform.
 - [Heroic](https://heroicgameslauncher.com/) - Epic Games and GOG launcher.
 - [Bottles ![GitHub Repo Stars](https://img.shields.io/github/stars/bottlesdevs/Bottles) ![GitHub last commit](https://img.shields.io/github/last-commit/bottlesdevs/Bottles)](https://github.com/bottlesdevs/Bottles) - Run Windows software and games under Linux.
 - [NonSteamLaunchers ![GitHub Repo Stars](https://img.shields.io/github/stars/moraroy/NonSteamLaunchers-On-Steam-Deck) ![GitHub last commit](https://img.shields.io/github/last-commit/moraroy/NonSteamLaunchers-On-Steam-Deck)](https://github.com/moraroy/NonSteamLaunchers-On-Steam-Deck) - Automatic installation of the most popular launchers.
+- [Minigalaxy ![GitHub Repo Stars](https://img.shields.io/github/stars/sharkwouter/minigalaxy) ![GitHub last commit](https://img.shields.io/github/last-commit/sharkwouter/minigalaxy)](https://github.com/sharkwouter/minigalaxy) - Lightweight GOG client for Linux.
+- [Prism Launcher ![GitHub Repo Stars](https://img.shields.io/github/stars/PrismLauncher/PrismLauncher) ![GitHub last commit](https://img.shields.io/github/last-commit/PrismLauncher/PrismLauncher)](https://github.com/PrismLauncher/PrismLauncher) - Minecraft launcher with mod support.
+- [Itch](https://itch.io/app) - Indie game platform client.
+- [Legendary ![GitHub Repo Stars](https://img.shields.io/github/stars/derrod/legendary) ![GitHub last commit](https://img.shields.io/github/last-commit/derrod/legendary)](https://github.com/derrod/legendary) - CLI launcher for Epic Games Store.
 
 ## Remote
 - [Chiaki](https://git.sr.ht/~thestr4ng3r/chiaki) - Free and open source software client for PlayStation 4 and PlayStation 5 Remote Play.
@@ -123,11 +163,18 @@ Choose what you find more suitable for you:
 - [LocalSend ![GitHub Repo Stars](https://img.shields.io/github/stars/localsend/localsend) ![GitHub last commit](https://img.shields.io/github/last-commit/localsend/localsend)](https://github.com/localsend/localsend) - Open source app to share files between devices over your local network.
 - [Steam Link](https://store.steampowered.com/app/353380/Steam_Link/) - Extend your Steam gaming experience to more devices.
 - [Greenlight ![GitHub Repo Stars](https://img.shields.io/github/stars/unknownskl/greenlight) ![GitHub last commit](https://img.shields.io/github/last-commit/unknownskl/greenlight)](https://github.com/unknownskl/greenlight) - An open source client for streaming Xbox Cloud and Xbox Home.
+- [Moonlight ![GitHub Repo Stars](https://img.shields.io/github/stars/moonlight-stream/moonlight-qt) ![GitHub last commit](https://img.shields.io/github/last-commit/moonlight-stream/moonlight-qt)](https://github.com/moonlight-stream/moonlight-qt) - Stream games from PC with NVIDIA GPU.
+- [Sunshine ![GitHub Repo Stars](https://img.shields.io/github/stars/LizardByte/Sunshine) ![GitHub last commit](https://img.shields.io/github/last-commit/LizardByte/Sunshine)](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host (pairs with Moonlight).
+- [Parsec](https://parsec.app/) - Low-latency game streaming and co-op gaming.
 
 ## File Management
 - [Deck Drive Manager](https://deckdrivemanager.com/) - Copy PC games from PC to Steam Deck drives.
 - [Syncthing ![GitHub Repo Stars](https://img.shields.io/github/stars/syncthing/syncthing) ![GitHub last commit](https://img.shields.io/github/last-commit/syncthing/syncthing)](https://github.com/syncthing/syncthing) - Open source continuous file synchronization.
 - [OpenCloudSaves ![GitHub Repo Stars](https://img.shields.io/github/stars/DavidDeSimone/OpenCloudSaves) ![GitHub last commit](https://img.shields.io/github/last-commit/DavidDeSimone/OpenCloudSaves)](https://github.com/DavidDeSimone/OpenCloudSaves) - A tool used for syncing your save games across your devices.
+
+## Storage Management
+- [Storage Cleaner ![GitHub Repo Stars](https://img.shields.io/github/stars/mcarlucci/decky-storage-cleaner) ![GitHub last commit](https://img.shields.io/github/last-commit/mcarlucci/decky-storage-cleaner)](https://github.com/mcarlucci/decky-storage-cleaner) - Decky plugin to clean shader cache and temporary files.
+- [CompSize ![GitHub Repo Stars](https://img.shields.io/github/stars/kilobyte/compsize) ![GitHub last commit](https://img.shields.io/github/last-commit/kilobyte/compsize)](https://github.com/kilobyte/compsize) - Check btrfs compression ratios on Steam Deck.
 
 ## Utility
 - [Shortix ![GitHub Repo Stars](https://img.shields.io/github/stars/Jannomag/shortix) ![GitHub last commit](https://img.shields.io/github/last-commit/Jannomag/shortix)](https://github.com/Jannomag/shortix) - A script that creates human readable symlinks for Proton game prefixes.
@@ -135,9 +182,21 @@ Choose what you find more suitable for you:
 - [Steam Deck Shader Cache Killer ![GitHub Repo Stars](https://img.shields.io/github/stars/scawp/Steam-Deck.Shader-Cache-Killer) ![GitHub last commit](https://img.shields.io/github/last-commit/scawp/Steam-Deck.Shader-Cache-Killer)](https://github.com/scawp/Steam-Deck.Shader-Cache-Killer) - Script to purge Steam Deck shader cache.
 - [Ludusavi ![GitHub Repo Stars](https://img.shields.io/github/stars/mtkennerly/ludusavi) ![GitHub last commit](https://img.shields.io/github/last-commit/mtkennerly/ludusavi)](https://github.com/mtkennerly/ludusavi) - Backup tool for PC game saves.
 
+## Accessibility
+- [Orca Screen Reader](https://orca.gnome.org/) - Screen reader for desktop mode.
+- [Magnus ![GitHub Repo Stars](https://img.shields.io/github/stars/stuartlangridge/magnus) ![GitHub last commit](https://img.shields.io/github/last-commit/stuartlangridge/magnus)](https://github.com/stuartlangridge/magnus) - Screen magnifier utility for better visibility.
+- [Text-to-Speech Tools](https://wiki.archlinux.org/title/Speech_dispatcher) - System TTS for accessibility needs.
+
 ## Plugin
 - [Decky Loader ![GitHub Repo Stars](https://img.shields.io/github/stars/SteamDeckHomebrew/decky-loader) ![GitHub last commit](https://img.shields.io/github/last-commit/SteamDeckHomebrew/decky-loader)](https://github.com/SteamDeckHomebrew/decky-loader) - Plugin launcher.
 - [Deckbrew Plugins](https://plugins.deckbrew.xyz) - List of Deckbrew plugins.
+- [PowerTools](https://git.ngram.ca/NG-SD-Plugins/PowerTools) - Advanced CPU, GPU, and power management.
+- [VibrantDeck ![GitHub Repo Stars](https://img.shields.io/github/stars/libvibrant/vibrantDeck) ![GitHub last commit](https://img.shields.io/github/last-commit/libvibrant/vibrantDeck)](https://github.com/libvibrant/vibrantDeck) - Control display saturation and vibrance.
+- [Pause Games ![GitHub Repo Stars](https://img.shields.io/github/stars/popsUlfr/SDH-PauseGames) ![GitHub last commit](https://img.shields.io/github/last-commit/popsUlfr/SDH-PauseGames)](https://github.com/popsUlfr/SDH-PauseGames) - Pause any game, even those without native pause functionality.
+- [AutoFlatpaks ![GitHub Repo Stars](https://img.shields.io/github/stars/jurassicplayer/decky-autoflatpaks) ![GitHub last commit](https://img.shields.io/github/last-commit/jurassicplayer/decky-autoflatpaks)](https://github.com/jurassicplayer/decky-autoflatpaks) - Automatically update Flatpak applications.
+- [SteamGridDB Plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/SteamGridDB/decky-steamgriddb) ![GitHub last commit](https://img.shields.io/github/last-commit/SteamGridDB/decky-steamgriddb)](https://github.com/SteamGridDB/decky-steamgriddb) - Browse and apply custom game artwork directly from Steam Deck.
+- [AutoSuspend ![GitHub Repo Stars](https://img.shields.io/github/stars/jurassicplayer/decky-autosuspend) ![GitHub last commit](https://img.shields.io/github/last-commit/jurassicplayer/decky-autosuspend)](https://github.com/jurassicplayer/decky-autosuspend) - Automatically suspend Steam Deck after inactivity period.
+- [HLTB for Deck ![GitHub Repo Stars](https://img.shields.io/github/stars/hulkrelax/hltb-for-deck) ![GitHub last commit](https://img.shields.io/github/last-commit/hulkrelax/hltb-for-deck)](https://github.com/hulkrelax/hltb-for-deck) - How Long to Beat integration showing game completion times.
 - [MagicPods](https://magicpods.app/steamdeck) - A magic plugin for Decky Loader that lets you control your AirPods and Beats headphones in a comfortable way.
 
 ## Website
@@ -147,6 +206,12 @@ Choose what you find more suitable for you:
 - [Deck Verified](https://www.steamdeck.com/en/verified) - Steam games compatible with Steam Deck by Valve.
 - [Repair Steam Deck](https://www.ifixit.com/Device/Steam_Deck) - Repair, disassembly, and troubleshooting information for the Steam Deck.
 - [Steam Deck Web App Generator](https://steam-deck-web-app-generator.vercel.app/) - Create shortcut scripts for your favorite websites to game mode.
+- [ProtonDB](https://www.protondb.com/) - Community-driven game compatibility database.
+- [SteamDB](https://steamdb.info/) - Game database, price tracking, and statistics.
+- [SteamGridDB](https://www.steamgriddb.com/) - Custom artwork for Steam and non-Steam games.
+- [IsThereAnyDeal](https://isthereanydeal.com/) - Game price comparison across stores.
+- [PCGamingWiki](https://www.pcgamingwiki.com/) - Game fixes, tweaks, and configurations.
+- [HowLongToBeat](https://howlongtobeat.com/) - Game completion time estimates.
 
 ## Community
 - [r/SteamDeck](https://reddit.com/r/SteamDeck) - Official subreddit.
@@ -156,10 +221,16 @@ Choose what you find more suitable for you:
 - [Steam Deck Espana](https://t.me/SteamDeckPortatil) - Telegram spanish community.
 - [Steam Deck Group](https://t.me/steamdecktalk) - Telegram chinese community.
 - [Steam Deck Чат](https://t.me/steamdeckschat) - Telegram russian community.
-- [protondb.com](https://protondb.com) - Official ProtonDB site with games reviews and compatibility lists.
 - [Steam Deck Discord](https://discord.com/channels/865611969661632521/) - A Discord community.
 - [Steam Deck Italia](https://www.facebook.com/groups/340493584341055/) - Facebook italian group.
 - [Steam Deck](https://www.facebook.com/groups/steamdeck/) - Facebook english group.
+
+## Video Content
+- [Deck Wizard](https://www.youtube.com/@DeckWizard) - Tips, tricks, and optimization guides.
+- [Fan The Deck](https://www.youtube.com/@FanTheDeck) - Reviews, news, and tutorials.
+- [The Phawx](https://www.youtube.com/@ThePhawx) - In-depth handheld gaming analysis and reviews.
+- [ETA PRIME](https://www.youtube.com/@ETAPRIME) - Emulation and handheld gaming content.
+- [Wagner's Tech Talk](https://www.youtube.com/@WagnersTechTalk) - Detailed Steam Deck guides and tutorials.
 
 ## Blog
 - [Steam Deck Life](https://steamdecklife.com/) - A blog about Steam Deck.
