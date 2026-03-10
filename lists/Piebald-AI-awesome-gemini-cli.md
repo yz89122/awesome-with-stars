@@ -96,6 +96,7 @@ Modified versions of Gemini CLI with enhanced features or alternative model supp
 - [hcom ![GitHub Repo Stars](https://img.shields.io/github/stars/aannoo/hcom) ![GitHub last commit](https://img.shields.io/github/last-commit/aannoo/hcom)](https://github.com/aannoo/hcom) - Let AI agents message, watch, and spawn each other across terminals. First-class Gemini CLI support with hooks integration and PTY wrapper. Also works with Claude Code, Codex, and OpenCode.
 - [squads-cli ![GitHub Repo Stars](https://img.shields.io/github/stars/agents-squads/squads-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/agents-squads/squads-cli)](https://github.com/agents-squads/squads-cli) - Open source CLI for AI agent coordination that organizes agents into domain-aligned squads with persistent memory, goal tracking, and Git-native state.  Works with Gemini CLI.
 
+- [wolfpack ![GitHub Repo Stars](https://img.shields.io/github/stars/almogdepaz/wolfpack) ![GitHub last commit](https://img.shields.io/github/last-commit/almogdepaz/wolfpack)](https://github.com/almogdepaz/wolfpack) - Mobile & desktop command center for controlling AI coding agents (Claude, Codex, Gemini) across machines from your phone. Secured by Tailscale. Self-hosted.
 ## Fun
 
 Playful and creative tools inspired by or that add personality to Gemini CLI.
@@ -178,6 +179,7 @@ Model Context Protocol servers that enable Gemini CLI integration with other AI 
 - [gemini-cli-mcp ![GitHub Repo Stars](https://img.shields.io/github/stars/InfolabAI/gemini-cli-mcp) ![GitHub last commit](https://img.shields.io/github/last-commit/InfolabAI/gemini-cli-mcp)](https://github.com/InfolabAI/gemini-cli-mcp) - Tool that enables using Gemini AI as an MCP server within Claude Code with large file analysis and token savings.
 - [gemini-mcp ![GitHub Repo Stars](https://img.shields.io/github/stars/neriousy/gemini-mcp) ![GitHub last commit](https://img.shields.io/github/last-commit/neriousy/gemini-mcp)](https://github.com/neriousy/gemini-mcp) - A simple MCP server for using the Gemini CLI.
 - [gemini-cli-mcp ![GitHub Repo Stars](https://img.shields.io/github/stars/0xmountaintop/gemini-cli-mcp) ![GitHub last commit](https://img.shields.io/github/last-commit/0xmountaintop/gemini-cli-mcp)](https://github.com/0xmountaintop/gemini-cli-mcp) - A Model Context Protocol (MCP) wrapper for Google Gemini CLI that enables AI development tools to interact with Gemini.
+- [Xquik MCP ![GitHub Repo Stars](https://img.shields.io/github/stars/Xquik-dev/x-twitter-scraper) ![GitHub last commit](https://img.shields.io/github/last-commit/Xquik-dev/x-twitter-scraper)](https://github.com/Xquik-dev/x-twitter-scraper) - X/Twitter data MCP server with 76 REST API endpoints, 20 extraction tools, account monitoring, and giveaway draws. Works with any MCP client including Gemini CLI.
 
 ## Neovim Plugins
 
