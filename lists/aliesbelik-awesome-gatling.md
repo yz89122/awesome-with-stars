@@ -19,6 +19,7 @@ A curated collection of resources covering all aspects of load testing using [Ga
   - [Sandbox](#sandbox)
   - [Miscellaneous](#miscellaneous)
 - [CI](#ci)
+- [Test Management](#test-management)
 - [Trainings & Courses](#trainings--courses)
 - [Videos](#videos)
   - [Talks](#talks)
@@ -104,7 +105,6 @@ A curated collection of resources covering all aspects of load testing using [Ga
 ### Miscellaneous
 
 - [dakiya ![GitHub Repo Stars](https://img.shields.io/github/stars/rupeshmore/dakiya) ![GitHub last commit](https://img.shields.io/github/last-commit/rupeshmore/dakiya)](https://github.com/rupeshmore/dakiya) - Convert Postman collections to Gatling scripts.
-- [gatling.g8 ![GitHub Repo Stars](https://img.shields.io/github/stars/gatling/gatling.g8) ![GitHub last commit](https://img.shields.io/github/last-commit/gatling/gatling.g8)](https://github.com/gatling/gatling.g8) - Giter8 template for Gatling.
 - [gatling-template.g8 ![GitHub Repo Stars](https://img.shields.io/github/stars/galax-io/gatling-template.g8) ![GitHub last commit](https://img.shields.io/github/last-commit/galax-io/gatling-template.g8)](https://github.com/galax-io/gatling-template.g8) - A Giter8 template for Gatling performance test project.
 
 ## CI
@@ -112,9 +112,12 @@ A curated collection of resources covering all aspects of load testing using [Ga
 - [Gatling Jenkins Plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/jenkinsci/gatling-plugin) ![GitHub last commit](https://img.shields.io/github/last-commit/jenkinsci/gatling-plugin)](https://github.com/jenkinsci/gatling-plugin) - [Jenkins plugin](https://plugins.jenkins.io/gatling/) for Gatling.
 - [run-gatling ![GitHub Repo Stars](https://img.shields.io/github/stars/liatrio/run-gatling) ![GitHub last commit](https://img.shields.io/github/last-commit/liatrio/run-gatling)](https://github.com/liatrio/run-gatling) - GitHub Action to easily integrate Gatling performance tests to GitHub workflows.
 
+## Test Management
+
+- [Performance and load testing with Gatling](https://docs.getxray.app/space/XRAYCLOUD/44565472/Performance+and+load+testing+with+Gatling) - Integrating with Xray Test Management on Jira and Gatling.
+
 ## Trainings & Courses
 
-- [Gatling Academy](https://academy.gatling.io/)
 - [Gatling Courses](https://www.udemy.com/topic/gatling/) - By Udemy.
 - [Performance Test Automation 101: Gatling, Lighthouse, & Jenkins](https://www.educative.io/courses/performance-test-automation-101-gatling-lighthouse-jenkins) - By Educative.
 
