@@ -1206,6 +1206,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-animations ![GitHub Repo Stars](https://img.shields.io/github/stars/bananalasmari/ngx-animations) ![GitHub last commit](https://img.shields.io/github/last-commit/bananalasmari/ngx-animations)](https://github.com/bananalasmari/ngx-animations) - Angular animation library inspired by GSAP, offering high-performance directives, components, and a timeline service with full RTL support.
 * [ngx-spring ![GitHub Repo Stars](https://img.shields.io/github/stars/angular-threejs/ngx-spring) ![GitHub last commit](https://img.shields.io/github/last-commit/angular-threejs/ngx-spring)](https://github.com/angular-threejs/ngx-spring) - Create fluid, natural-feeling animations using spring physics instead of durations and easing curves.
 * [ngx-unicode-spinners ![GitHub Repo Stars](https://img.shields.io/github/stars/neogenz/ngx-unicode-spinners) ![GitHub last commit](https://img.shields.io/github/last-commit/neogenz/ngx-unicode-spinners)](https://github.com/neogenz/ngx-unicode-spinners) - 18 braille-based Unicode spinner animations for Angular. Zero runtime dependencies.
+* [ng-motion ![GitHub Repo Stars](https://img.shields.io/github/stars/ScriptType/ng-motion) ![GitHub last commit](https://img.shields.io/github/last-commit/ScriptType/ng-motion)](https://github.com/ScriptType/ng-motion) - Angular animation library built on [motion-dom ![GitHub Repo Stars](https://img.shields.io/github/stars/motiondivision/motion) ![GitHub last commit](https://img.shields.io/github/last-commit/motiondivision/motion)](https://github.com/motiondivision/motion).
 
 ### Calendars
 
@@ -1635,6 +1636,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [@TSB04/svg-icon ![GitHub Repo Stars](https://img.shields.io/github/stars/TSB04/svg-icon) ![GitHub last commit](https://img.shields.io/github/last-commit/TSB04/svg-icon)](https://github.com/TSB04/svg-icon) - Framework-agnostic, customizable, lightweight SVG icon package for React, Vue, Angular, and more.
 * [animated-icons ![GitHub Repo Stars](https://img.shields.io/github/stars/ajitzero/animated-icons) ![GitHub last commit](https://img.shields.io/github/last-commit/ajitzero/animated-icons)](https://github.com/ajitzero/animated-icons) - Animated icons for Angular based on [moving icons](https://www.movingicons.dev/).
 * [hugeicons-angular ![GitHub Repo Stars](https://img.shields.io/github/stars/hugeicons/angular) ![GitHub last commit](https://img.shields.io/github/last-commit/hugeicons/angular)](https://github.com/hugeicons/angular) - 4,600+ free MIT-licensed stroke-rounded icons for Angular.
+* [@quikturn-sdk/logos-angular ![GitHub Repo Stars](https://img.shields.io/github/stars/quikturn-sdk/Company-Logos) ![GitHub last commit](https://img.shields.io/github/last-commit/quikturn-sdk/Company-Logos)](https://github.com/quikturn-sdk/Company-Logos) - TypeScript SDK for the [Quikturn Logos API](https://getquikturn.io/) - Fetch any company's logo by domain name.
 
 ### Images
 
