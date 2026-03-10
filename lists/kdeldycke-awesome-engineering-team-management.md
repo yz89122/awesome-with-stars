@@ -340,7 +340,7 @@ A critical step to close up the hiring process.
 
 - [How to answer the “What's your current salary?” job interview question](https://web.archive.org/web/20190228034111/https://42hire.com/how-to-answer-the-whats-your-current-salary-job-interview-question-486254cb59ad?gi=a7f878096392) - This article explain the dynamic of that sneaky question and how to defuse it.
 
-- [Salary Negotiation: Make More Money, Be More Valued](https://www.kalzumeus.com/2012/01/23/salary-negotiation/) - “Your salary negotiation — which routinely takes less than 5 minutes to conclude — has an outsized influence on what your compensation is.”
+- [Salary Negotiation: Make More Money, Be More Valued](https://www.kalzumeus.com/2012/01/23/salary-negotiation/) - “Your salary negotiation ��� which routinely takes less than 5 minutes to conclude — has an outsized influence on what your compensation is.”
 
 - [Ten Rules for Negotiating a Job Offer](https://haseebq.com/my-ten-rules-for-negotiating-a-job-offer/) - “First part will be about conceptualizing the negotiating process, about how to begin the process and set yourself up for maximal success. The second part will be advice on the actual back-and-forth portion of negotiating and how to ask for what you want.”
 
