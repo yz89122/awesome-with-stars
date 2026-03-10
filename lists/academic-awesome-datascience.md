@@ -18,7 +18,7 @@
 
 # AWESOME DATA SCIENCE
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) 
+[![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) 
 
 **An open-source Data Science repository to learn and apply concepts toward solving real- world problems.**
 
@@ -125,6 +125,8 @@ Please, contribute about "agents"
 
 ### Tools
 - [Frostbyte MCP ![GitHub Repo Stars](https://img.shields.io/github/stars/OzorOwn/frostbyte-mcp) ![GitHub last commit](https://img.shields.io/github/last-commit/OzorOwn/frostbyte-mcp)](https://github.com/OzorOwn/frostbyte-mcp) - MCP server providing 13 data tools for AI agents: real-time crypto prices, IP geolocation, DNS lookups, web scraping to markdown, code execution, and screenshots. One API key for 40+ services.
+### Research & Knowledge Retrieval
+- [BGPT MCP](https://bgpt.pro/mcp) - MCP server that gives AI agents access to a database of scientific papers built from raw experimental data extracted from full-text studies. Returns 25+ structured fields per paper including methods, results, sample sizes, and quality scores. [GitHub ![GitHub Repo Stars](https://img.shields.io/github/stars/connerlambden/bgpt-mcp) ![GitHub last commit](https://img.shields.io/github/last-commit/connerlambden/bgpt-mcp)](https://github.com/connerlambden/bgpt-mcp)
 
 ### Workflow  
 **[`^        back to top        ^`](#awesome-data-science)**

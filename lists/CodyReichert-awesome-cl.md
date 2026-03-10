@@ -2024,6 +2024,7 @@ Tools:
 * [SLIMA ![GitHub Repo Stars](https://img.shields.io/github/stars/neil-lindquist/slima) ![GitHub last commit](https://img.shields.io/github/last-commit/neil-lindquist/slima)](https://github.com/neil-lindquist/slima) allows you to
   interactively develop Common Lisp code, turning Atom (or now Pulsar) into a
   pretty good, and actively developped, Lisp IDE. [MIT][200].
+  - *notice: at the time of writing, SLIMA is a bit lagging behind Slime and Swank's latest changes. It works for us with [Slime 2.27 ![GitHub Repo Stars](https://img.shields.io/github/stars/slime/slime) ![GitHub last commit](https://img.shields.io/github/last-commit/slime/slime)](https://github.com/slime/slime/releases/tag/v2.27). Tested on SBCL 2.5.8 and SBCL 2.1.11.debian.*
 
 ## Sublime Text ##
 
@@ -2073,10 +2074,15 @@ Tools:
 * [sbcli ![GitHub Repo Stars](https://img.shields.io/github/stars/hellerve/sbcli) ![GitHub last commit](https://img.shields.io/github/last-commit/hellerve/sbcli)](https://github.com/hellerve/sbcli) - a readline REPL for SBCL. With completion, quick commands, optional syntax highlighting (with pygments), and no interactive debugger. [GPL3][2].
 * [magic-ed ![GitHub Repo Stars](https://img.shields.io/github/stars/sanel/magic-ed) ![GitHub last commit](https://img.shields.io/github/last-commit/sanel/magic-ed)](https://github.com/sanel/magic-ed) - a tiny editing facility, where you can directly load, edit, manipulate and evaluate file or file content from the REPL, when going to a full IDE is too much. [MIT][200].
 
+<!-- See also: -->
+
+<!-- * [cl-web-editor](https://git.sr.ht/~hajovonta/cl-web-editor) - a simple in-browser editor that does on-the-fly form validation and instant REPL results. MIT. -->
+
 ## Online editors ##
 
 * [Judge0 IDE](https://ide.judge0.com/?lUpj) is an online editor which supports Common Lisp (SBCL). [MIT][200].
 * [Riju](https://riju.codes/commonlisp), a "fast online playground for every programming language", supports Common Lisp (SBCL).
+
 
 Text and binary parsers
 ============================
@@ -2155,6 +2161,12 @@ Editor utilities:
 
 * [Slite ![GitHub Repo Stars](https://img.shields.io/github/stars/tdrhq/slite) ![GitHub last commit](https://img.shields.io/github/last-commit/tdrhq/slite)](https://github.com/tdrhq/slite/) - a SLIme-based TEst runner for FiveAM Tests. [Apache2.0][89]
   - Slite interactively runs your Common Lisp tests (at the time of writing only FiveAM is supported). It allows you to see the summary of test failures, jump to test definitions, rerun tests with the debugger, all from inside Emacs.
+
+CI utilities:
+
+* [CI-utils ![GitHub Repo Stars](https://img.shields.io/github/stars/neil-lindquist/CI-Utils) ![GitHub last commit](https://img.shields.io/github/last-commit/neil-lindquist/CI-Utils)](https://github.com/neil-lindquist/CI-Utils) (low activity) - a set of utilities and examples for working on continuous integration platforms, including a run script for the Fiveam test library.
+  * helps run Fiveam tests with the right exit code.
+  * integrated with Roswell.
 
 For more: [Sabra Crolleton's extensive test frameworks comparison](https://sabracrolleton.github.io/testing-framework).
 
