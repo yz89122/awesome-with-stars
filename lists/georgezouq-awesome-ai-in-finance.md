@@ -33,6 +33,7 @@ With the power of the latest artificial intelligence research, people analyze & 
 - 🌟🌟 [nofx ![GitHub Repo Stars](https://img.shields.io/github/stars/NoFxAiOS/nofx) ![GitHub last commit](https://img.shields.io/github/last-commit/NoFxAiOS/nofx)](https://github.com/NoFxAiOS/nofx) - A multi-exchange Al trading platform with multi-Ai competition self-evolution, and real-time dashboard.
 - [TradingAgents ![GitHub Repo Stars](https://img.shields.io/github/stars/TauricResearch/TradingAgents) ![GitHub last commit](https://img.shields.io/github/last-commit/TauricResearch/TradingAgents)](https://github.com/TauricResearch/TradingAgents) - Multi-Agents LLM Financial Trading Framework.
 - 🌟 [FinRobot ![GitHub Repo Stars](https://img.shields.io/github/stars/AI4Finance-Foundation/FinRobot) ![GitHub last commit](https://img.shields.io/github/last-commit/AI4Finance-Foundation/FinRobot)](https://github.com/AI4Finance-Foundation/FinRobot) - An Open-Source AI Agent Platform for Financial Analysis using LLMs.
+- [AgentFund ![GitHub Repo Stars](https://img.shields.io/github/stars/RioBot-Grind/agentfund) ![GitHub last commit](https://img.shields.io/github/last-commit/RioBot-Grind/agentfund)](https://github.com/RioBot-Grind/agentfund) - Decentralized crowdfunding platform for AI agents with milestone-based escrow on Base blockchain.
 
 ## LLMs
 
