@@ -313,6 +313,7 @@ _Tools for building blockchains._
 - [nview ![GitHub Repo Stars](https://img.shields.io/github/stars/blinklabs-io/nview) ![GitHub last commit](https://img.shields.io/github/last-commit/blinklabs-io/nview)](https://github.com/blinklabs-io/nview) - Local monitoring tool for a Cardano Node. It's a TUI (terminal user interface) designed to fit most screens.
 - [solana-go ![GitHub Repo Stars](https://img.shields.io/github/stars/gagliardetto/solana-go) ![GitHub last commit](https://img.shields.io/github/last-commit/gagliardetto/solana-go)](https://github.com/gagliardetto/solana-go) - Go library to interface with Solana JSON RPC and WebSocket interfaces.
 - [tendermint ![GitHub Repo Stars](https://img.shields.io/github/stars/tendermint/tendermint) ![GitHub last commit](https://img.shields.io/github/last-commit/tendermint/tendermint)](https://github.com/tendermint/tendermint) - High-performance middleware for transforming a state machine written in any programming language into a Byzantine Fault Tolerant replicated state machine using the Tendermint consensus and blockchain protocols.
+- [tronlib ![GitHub Repo Stars](https://img.shields.io/github/stars/kslamph/tronlib) ![GitHub last commit](https://img.shields.io/github/last-commit/kslamph/tronlib)](https://github.com/kslamph/tronlib) - A comprehensive, production-ready Go SDK for interacting with the TRON blockchain with TRC20 token support.
 
 **[⬆ back to top](#contents)**
 

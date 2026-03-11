@@ -10,7 +10,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 | Awesome | Linux | Projects | Updated |
 |:-------:|:-----:|:--------:|:-------:|
-| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | :penguin: | 1081 | January 16, 2026 |
+| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | :penguin: | 1086 | March 11, 2026 |
 
 In parternship with:
 
@@ -325,6 +325,7 @@ In parternship with:
 *Analytics related libraries to easily track your app usage* [back to top](#readme) 
 
 * [Aptabase ![GitHub Repo Stars](https://img.shields.io/github/stars/aptabase/aptabase) ![GitHub last commit](https://img.shields.io/github/last-commit/aptabase/aptabase)](https://github.com/aptabase/aptabase) - Open Source, Privacy-First and Simple Analytics for Swift Apps.
+* [Scout ![GitHub Repo Stars](https://img.shields.io/github/stars/kasianov-mikhail/scout) ![GitHub last commit](https://img.shields.io/github/last-commit/kasianov-mikhail/scout)](https://github.com/kasianov-mikhail/scout) - Production-grade logging SDK for iOS apps using CloudKit as a backend.
 * [Tracker Aggregator ![GitHub Repo Stars](https://img.shields.io/github/stars/kafejo/Tracker-Aggregator) ![GitHub last commit](https://img.shields.io/github/last-commit/kafejo/Tracker-Aggregator)](https://github.com/kafejo/Tracker-Aggregator) - Versatile analytics abstraction layer.
 * [Umbrella ![GitHub Repo Stars](https://img.shields.io/github/stars/devxoul/Umbrella) ![GitHub last commit](https://img.shields.io/github/last-commit/devxoul/Umbrella)](https://github.com/devxoul/Umbrella) - Analytics abstraction layer.
 
@@ -369,6 +370,7 @@ In parternship with:
 * [Swiftkube ![GitHub Repo Stars](https://img.shields.io/github/stars/swiftkube/client) ![GitHub last commit](https://img.shields.io/github/last-commit/swiftkube/client)](https://github.com/swiftkube/client) :penguin: - Swift client for Kubernetes.
 * [SwiftlySalesforce ![GitHub Repo Stars](https://img.shields.io/github/stars/mike4aday/SwiftlySalesforce) ![GitHub last commit](https://img.shields.io/github/last-commit/mike4aday/SwiftlySalesforce)](https://github.com/mike4aday/SwiftlySalesforce) - Framework for rapid development of native iOS apps that integrate with Salesforce.
 * [SwiftyInsta ![GitHub Repo Stars](https://img.shields.io/github/stars/TheM4hd1/SwiftyInsta) ![GitHub last commit](https://img.shields.io/github/last-commit/TheM4hd1/SwiftyInsta)](https://github.com/TheM4hd1/SwiftyInsta) - Private and Tokenless Instagram RESTful API.
+* [YouTubeKit ![GitHub Repo Stars](https://img.shields.io/github/stars/b5i/YouTubeKit) ![GitHub last commit](https://img.shields.io/github/last-commit/b5i/YouTubeKit)](https://github.com/b5i/YouTubeKit) - Interact with the YouTube API without an API key.
 
 ### App Routing
 *Internal app routing systems.* [back to top](#readme) 
@@ -389,6 +391,7 @@ In parternship with:
 
 * [Apphud ![GitHub Repo Stars](https://img.shields.io/github/stars/apphud/ApphudSDK) ![GitHub last commit](https://img.shields.io/github/last-commit/apphud/ApphudSDK)](https://github.com/apphud/ApphudSDK) - Lightweight library to easily handle auto-renewable subscriptions with no backend required.
 * [AppReview ![GitHub Repo Stars](https://img.shields.io/github/stars/mezhevikin/AppReview) ![GitHub last commit](https://img.shields.io/github/last-commit/mezhevikin/AppReview)](https://github.com/mezhevikin/AppReview) - A tiny library to request review on the AppStore via SKStoreReviewController.
+* [Flare ![GitHub Repo Stars](https://img.shields.io/github/stars/space-code/flare) ![GitHub last commit](https://img.shields.io/github/last-commit/space-code/flare)](https://github.com/space-code/flare) - A framework that simplifies working with in-app purchases on iOS, macOS, tvOS, and watchOS, with full support for both StoreKit 1 and StoreKit 2.
 * [InAppPurchase ![GitHub Repo Stars](https://img.shields.io/github/stars/jinSasaki/InAppPurchase) ![GitHub last commit](https://img.shields.io/github/last-commit/jinSasaki/InAppPurchase)](https://github.com/jinSasaki/InAppPurchase) - A Simple, Lightweight and Safe framework for In App Purchase.
 * [merchantkit ![GitHub Repo Stars](https://img.shields.io/github/stars/benjaminmayo/merchantkit) ![GitHub last commit](https://img.shields.io/github/last-commit/benjaminmayo/merchantkit)](https://github.com/benjaminmayo/merchantkit) - A modern In-App Purchases management framework for iOS.
 * [SwiftyStoreKit ![GitHub Repo Stars](https://img.shields.io/github/stars/bizz84/SwiftyStoreKit) ![GitHub last commit](https://img.shields.io/github/last-commit/bizz84/SwiftyStoreKit)](https://github.com/bizz84/SwiftyStoreKit) - Lightweight In App Purchases framework.
@@ -1241,6 +1244,7 @@ In parternship with:
 * [BonMot ![GitHub Repo Stars](https://img.shields.io/github/stars/Rightpoint/BonMot) ![GitHub last commit](https://img.shields.io/github/last-commit/Rightpoint/BonMot)](https://github.com/Rightpoint/BonMot) - Beautiful, easy attributed strings for iOS.
 * [Croc ![GitHub Repo Stars](https://img.shields.io/github/stars/JKalash/Croc) ![GitHub last commit](https://img.shields.io/github/last-commit/JKalash/Croc)](https://github.com/JKalash/Croc) - A lightweight Emoji parsing and querying library.
 * [edhita ![GitHub Repo Stars](https://img.shields.io/github/stars/tnantoka/edhita) ![GitHub last commit](https://img.shields.io/github/last-commit/tnantoka/edhita)](https://github.com/tnantoka/edhita) - Fully open source text editor for iOS.
+* [GMarkdown ![GitHub Repo Stars](https://img.shields.io/github/stars/GIKICoder/GMarkdown) ![GitHub last commit](https://img.shields.io/github/last-commit/GIKICoder/GMarkdown)](https://github.com/GIKICoder/GMarkdown) - Markdown rendering library for iOS with support for tables, LaTeX, Mermaid, and code highlighting.
 * [MarkdownKit ![GitHub Repo Stars](https://img.shields.io/github/stars/bmoliveira/MarkdownKit) ![GitHub last commit](https://img.shields.io/github/last-commit/bmoliveira/MarkdownKit)](https://github.com/bmoliveira/MarkdownKit) - A simple and customizable Markdown Parser.
 * [MarkdownView ![GitHub Repo Stars](https://img.shields.io/github/stars/keitaoouchi/MarkdownView) ![GitHub last commit](https://img.shields.io/github/last-commit/keitaoouchi/MarkdownView)](https://github.com/keitaoouchi/MarkdownView) - iOS Markdown view.
 * [MarkyMark ![GitHub Repo Stars](https://img.shields.io/github/stars/M2Mobi/Marky-Mark) ![GitHub last commit](https://img.shields.io/github/last-commit/M2Mobi/Marky-Mark)](https://github.com/M2Mobi/Marky-Mark) - Converts Markdown into native views or attributed strings.
@@ -1290,6 +1294,7 @@ In parternship with:
 * [BulletinBoard ![GitHub Repo Stars](https://img.shields.io/github/stars/alexaubry/BulletinBoard) ![GitHub last commit](https://img.shields.io/github/last-commit/alexaubry/BulletinBoard)](https://github.com/alexaubry/BulletinBoard) - Generates and manages contextual cards displayed at the bottom of the screen.
 * [CapturePreventionKit ![GitHub Repo Stars](https://img.shields.io/github/stars/Jaesung-Jung/CapturePreventionKit) ![GitHub last commit](https://img.shields.io/github/last-commit/Jaesung-Jung/CapturePreventionKit)](https://github.com/Jaesung-Jung/CapturePreventionKit) - Provides `Label` and `ImageView` for `screen capture prevention`.
 * [CircularProgress ![GitHub Repo Stars](https://img.shields.io/github/stars/sindresorhus/CircularProgress) ![GitHub last commit](https://img.shields.io/github/last-commit/sindresorhus/CircularProgress)](https://github.com/sindresorhus/CircularProgress) - Circular progress indicator for your macOS app.
+* [CircularRangeSlider ![GitHub Repo Stars](https://img.shields.io/github/stars/diegotid/circular-range-slider) ![GitHub last commit](https://img.shields.io/github/last-commit/diegotid/circular-range-slider)](https://github.com/diegotid/circular-range-slider) - A customizable SwiftUI component for selecting a range of values using a circular slider.
 * [ClassicKit ![GitHub Repo Stars](https://img.shields.io/github/stars/Baddaboo/ClassicKit) ![GitHub last commit](https://img.shields.io/github/last-commit/Baddaboo/ClassicKit)](https://github.com/Baddaboo/ClassicKit) - A collection of classic-style UI components.
 * [ContainerController ![GitHub Repo Stars](https://img.shields.io/github/stars/mrustaa/ContainerController) ![GitHub last commit](https://img.shields.io/github/last-commit/mrustaa/ContainerController)](https://github.com/mrustaa/ContainerController) - UI Component. This is a copy swipe-panel from app: Apple Maps, Stocks
 * [CountryPickerView ![GitHub Repo Stars](https://img.shields.io/github/stars/kizitonwose/CountryPickerView) ![GitHub last commit](https://img.shields.io/github/last-commit/kizitonwose/CountryPickerView)](https://github.com/kizitonwose/CountryPickerView) - A simple, customizable view for efficiently collecting country information in iOS apps.
