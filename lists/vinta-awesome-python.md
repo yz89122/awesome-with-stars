@@ -1034,7 +1034,7 @@ _Libraries for testing codebases and generating test data._
 
 - Testing Frameworks
   - [hypothesis ![GitHub Repo Stars](https://img.shields.io/github/stars/HypothesisWorks/hypothesis) ![GitHub last commit](https://img.shields.io/github/last-commit/HypothesisWorks/hypothesis)](https://github.com/HypothesisWorks/hypothesis) - Hypothesis is an advanced Quickcheck style property based testing library.
-  - [nose2 ![GitHub Repo Stars](https://img.shields.io/github/stars/nose-devs/nose2) ![GitHub last commit](https://img.shields.io/github/last-commit/nose-devs/nose2)](https://github.com/nose-devs/nose2) - The successor to `nose`, based on `unittest2.
+  - [nose2 ![GitHub Repo Stars](https://img.shields.io/github/stars/nose-devs/nose2) ![GitHub last commit](https://img.shields.io/github/last-commit/nose-devs/nose2)](https://github.com/nose-devs/nose2) - The successor to `nose`, based on `unittest2`.
   - [pytest](https://docs.pytest.org/en/latest/) - A mature full-featured Python testing tool.
   - [Robot Framework ![GitHub Repo Stars](https://img.shields.io/github/stars/robotframework/robotframework) ![GitHub last commit](https://img.shields.io/github/last-commit/robotframework/robotframework)](https://github.com/robotframework/robotframework) - A generic test automation framework.
   - [ScanAPI](https://pypi.org/project/scanapi/) - Automated Testing and Documentation for your REST API.
