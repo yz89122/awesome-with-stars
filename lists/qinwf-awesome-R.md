@@ -154,7 +154,7 @@ for <a target="_blank" href="https://github.com/rstudio/RStartHere/blob/master/t
 * [xkcd](https://cran.r-project.org/web/packages/xkcd/index.html) - Use xkcd style in graphs.
 * [imager](http://dahtah.github.io/imager/) - An image processing package based on CImg library to work with images and display them.
 * [hrbrthemes ![GitHub Repo Stars](https://img.shields.io/github/stars/hrbrmstr/hrbrthemes) ![GitHub last commit](https://img.shields.io/github/last-commit/hrbrmstr/hrbrthemes)](https://github.com/hrbrmstr/hrbrthemes) -  🔏 Opinionated, typographic-centric ggplot2 themes and theme components.
-* [waffle ![GitHub Repo Stars](https://img.shields.io/github/stars/hrbrmstr/waffle) ![GitHub last commit](https://img.shields.io/github/last-commit/hrbrmstr/waffle)](https://github.com/hrbrmstr/waffle) -  🍁 Make waffle (square pie) charts in R.
+* [waffle ![GitHub Repo Stars](https://img.shields.io/github/stars/hrbrmstr/waffle) ![GitHub last commit](https://img.shields.io/github/last-commit/hrbrmstr/waffle)](https://github.com/hrbrmstr/waffle) -  �� Make waffle (square pie) charts in R.
 * [dendextend ![GitHub Repo Stars](https://img.shields.io/github/stars/talgalili/dendextend) ![GitHub last commit](https://img.shields.io/github/last-commit/talgalili/dendextend)](https://github.com/talgalili/dendextend) -  visualizing, adjusting and comparing trees of hierarchical clustering.
 * [idendro ![GitHub Repo Stars](https://img.shields.io/github/stars/tsieger/idendro) ![GitHub last commit](https://img.shields.io/github/last-commit/tsieger/idendro)](https://github.com/tsieger/idendro) -  interactive exploration of dendrograms (trees of hierarchical clustering).
 * [r2d3](https://rstudio.github.io/r2d3/) - R Interface to D3 Visualizations
