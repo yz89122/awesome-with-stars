@@ -83,6 +83,7 @@ _List inspired by the [awesome ![GitHub Repo Stars](https://img.shields.io/githu
 
 ## Boilerplates
 
+- [Kaiforge Lite ![GitHub Repo Stars](https://img.shields.io/github/stars/DevxiaLabs/kaiforge-lite) ![GitHub last commit](https://img.shields.io/github/last-commit/DevxiaLabs/kaiforge-lite)](https://github.com/DevxiaLabs/kaiforge-lite) - Free admin dashboard template with Next.js 14, Tailwind CSS, TypeScript, dark/light mode, and 5 ready-to-use pages. MIT licensed. [Demo](https://lite.kaiforge.dev)
 - [Kaminari Template](https://kaminari.vercel.app/) - Power packed Next.js and Tailwind CSS template. Built with developer experience in mind. Contains Husky, CommitLint, Prettier, Eslint etc. configs. ✨
 - [Next.js, Strapi Portfolio Starter ![GitHub Repo Stars](https://img.shields.io/github/stars/PictureElement/nextjs-strapi-portfolio-starter) ![GitHub last commit](https://img.shields.io/github/last-commit/PictureElement/nextjs-strapi-portfolio-starter)](https://github.com/PictureElement/nextjs-strapi-portfolio-starter) – ⚡️ A modern portfolio starter with Next.js, Strapi, and Tailwind CSS, featuring automated XML sitemap, JSON-LD schemas, OpenGraph metadata, and a contact form with spam protection.
 - [Next.js Static Blog](https://www.cosmicjs.com/apps/nextjs-static-blog) - Next.js static blog powered by the Cosmic Headless CMS
@@ -175,6 +176,7 @@ _List inspired by the [awesome ![GitHub Repo Stars](https://img.shields.io/githu
 - [CopilotKit ![GitHub Repo Stars](https://img.shields.io/github/stars/CopilotKit/CopilotKit) ![GitHub last commit](https://img.shields.io/github/last-commit/CopilotKit/CopilotKit)](https://github.com/CopilotKit/CopilotKit) - React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents in your Next.js apps.
 - [ogimg.xyz](https://ogimg.xyz) - OG image generation API with 10 templates, background patterns, and URL auto-fetch. Built with Next.js + Satori on Vercel Edge.
 - [ShotOG ![GitHub Repo Stars](https://img.shields.io/github/stars/nicepkg/shotog) ![GitHub last commit](https://img.shields.io/github/last-commit/nicepkg/shotog)](https://github.com/nicepkg/shotog) - Dynamic OG image generation API for Next.js apps, powered by Cloudflare Workers.
+- [Frontman ![GitHub Repo Stars](https://img.shields.io/github/stars/frontman-ai/frontman) ![GitHub last commit](https://img.shields.io/github/last-commit/frontman-ai/frontman)](https://github.com/frontman-ai/frontman) - An open-source AI coding agent that lives in your browser, enabling visual element selection and plain-English code edits with hot reload.
 
 ## Apps
 
