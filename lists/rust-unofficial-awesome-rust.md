@@ -804,6 +804,7 @@ See also [A comparison of operating systems written in Rust ![GitHub Repo Stars]
 * [scriptisto ![GitHub Repo Stars](https://img.shields.io/github/stars/igor-petruk/scriptisto) ![GitHub last commit](https://img.shields.io/github/last-commit/igor-petruk/scriptisto)](https://github.com/igor-petruk/scriptisto) - A language-agnostic "shebang interpreter" that enables you to write one file scripts in compiled languages. [![Build Status](https://cloud.drone.io/api/badges/igor-petruk/scriptisto/status.svg)](https://cloud.drone.io/igor-petruk/scriptisto)
 * [typos ![GitHub Repo Stars](https://img.shields.io/github/stars/crate-ci/typos) ![GitHub last commit](https://img.shields.io/github/last-commit/crate-ci/typos)](https://github.com/crate-ci/typos) [[typos-cli](https://crates.io/crates/typos-cli)] - Source code spell checker
 * [VT Code](https://crates.io/crates/vtcode) - Terminal coding agent that pairs a modern TUI with deep, semantic code understanding powered by tree-sitter and ast-grep.
+* [Wilfred/difftastic ![GitHub Repo Stars](https://img.shields.io/github/stars/Wilfred/difftastic) ![GitHub last commit](https://img.shields.io/github/last-commit/Wilfred/difftastic)](https://github.com/Wilfred/difftastic) [[difftastic](https://crates.io/crates/difftastic)] - A structural diff tool that understands syntax, supporting 30+ programming languages
 
 ### Build system
 

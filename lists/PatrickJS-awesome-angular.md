@@ -1762,6 +1762,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-remark ![GitHub Repo Stars](https://img.shields.io/github/stars/ericleib/ngx-remark) ![GitHub last commit](https://img.shields.io/github/last-commit/ericleib/ngx-remark)](https://github.com/ericleib/ngx-remark) - Render markdown with custom Angular templates.
 * [ngx-streamdown ![GitHub Repo Stars](https://img.shields.io/github/stars/dina-kar/ngx-streamdown) ![GitHub last commit](https://img.shields.io/github/last-commit/dina-kar/ngx-streamdown)](https://github.com/dina-kar/ngx-streamdown) - Angular port of [Streamdown](https://streamdown.ai/), a streaming Markdown renderer optimized for AI‑driven applications.
 * [mark-down ![GitHub Repo Stars](https://img.shields.io/github/stars/mzebley/mark-down) ![GitHub last commit](https://img.shields.io/github/last-commit/mzebley/mark-down)](https://github.com/mzebley/mark-down) - A framework‑agnostic snippet engine with an Angular adapter that indexes Markdown at build time and renders HTML at runtime with optional sanitization.
+* [m-render ![GitHub Repo Stars](https://img.shields.io/github/stars/Foblex/m-render) ![GitHub last commit](https://img.shields.io/github/last-commit/Foblex/m-render)](https://github.com/Foblex/m-render) - A library for rendering Markdown with extended support for Angular components and code snippets.
 
 ### Media
 
@@ -1897,6 +1898,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-web-tour ![GitHub Repo Stars](https://img.shields.io/github/stars/abbas-mgz/ngx-web-tour) ![GitHub last commit](https://img.shields.io/github/last-commit/abbas-mgz/ngx-web-tour)](https://github.com/abbas-mgz/ngx-web-tour) - A customizable product tour library for Angular applications that supports user onboarding with animations and professional UI.
 * [ngxsmk-help-tour ![GitHub Repo Stars](https://img.shields.io/github/stars/toozuuu/ngxsmk-help-tour) ![GitHub last commit](https://img.shields.io/github/last-commit/toozuuu/ngxsmk-help-tour)](https://github.com/toozuuu/ngxsmk-help-tour) - Angular standalone library for spotlight focus and guided product tours with keyboard navigation, auto-advance, theming, and a11y.
 * [ngx-intro ![GitHub Repo Stars](https://img.shields.io/github/stars/andresciceri/ngx-intro) ![GitHub last commit](https://img.shields.io/github/last-commit/andresciceri/ngx-intro)](https://github.com/andresciceri/ngx-intro) - An Angular library that provides a simple integration of [Intro.js](https://introjs.com/) to create interactive guides and step-by-step tutorials.
+* [ngx-custom-tour ![GitHub Repo Stars](https://img.shields.io/github/stars/miraxes/ngx-custom-tour) ![GitHub last commit](https://img.shields.io/github/last-commit/miraxes/ngx-custom-tour)](https://github.com/miraxes/ngx-custom-tour) - Easy to customize step-by-step tour / onboarding for Angular 15+.
 
 ### Pipes
 
