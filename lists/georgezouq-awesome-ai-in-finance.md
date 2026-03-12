@@ -280,6 +280,8 @@ Do it in real world!
 - [zipline-tensorboard ![GitHub Repo Stars](https://img.shields.io/github/stars/jimgoo/zipline-tensorboard) ![GitHub last commit](https://img.shields.io/github/last-commit/jimgoo/zipline-tensorboard)](https://github.com/jimgoo/zipline-tensorboard) - TensorBoard as a Zipline dashboard.
 - [gekko-quasar-ui ![GitHub Repo Stars](https://img.shields.io/github/stars/H256/gekko-quasar-ui) ![GitHub last commit](https://img.shields.io/github/last-commit/H256/gekko-quasar-ui)](https://github.com/H256/gekko-quasar-ui) - An UI port for gekko trading bot using Quasar framework.
 - [Floom ![GitHub Repo Stars](https://img.shields.io/github/stars/FloomAI/Floom) ![GitHub last commit](https://img.shields.io/github/last-commit/FloomAI/Floom)](https://github.com/FloomAI/Floom) AI gateway and marketplace for developers, enables streamlined integration and least volatile approach of AI features into products
+- [LendTrain](https://www.lendtrain.com) - AI-native mortgage refinance plugin for Claude Code with real-time institutional pricing, state-specific closing costs, FHA Streamline/VA IRRRL detection, and regulatory compliance. Uses MCP (Model Context Protocol) to connect LLMs to live mortgage pricing.
+- [Registry Broker ![GitHub Repo Stars](https://img.shields.io/github/stars/hashgraph-online/hashnet-mcp-js) ![GitHub last commit](https://img.shields.io/github/last-commit/hashgraph-online/hashnet-mcp-js)](https://github.com/hashgraph-online/hashnet-mcp-js) - Universal AI agent index for discovering trading agents across Virtuals Protocol, NANDA, MCP, and other registries.
 
 #### Other Resource
 
