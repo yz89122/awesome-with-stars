@@ -166,6 +166,7 @@ SDL2 and SDL3 based applications importing `vlang/sdl`.
 
 ### Utilities
 
+- [boj-server ![GitHub Repo Stars](https://img.shields.io/github/stars/hyperpolymath/boj-server) ![GitHub last commit](https://img.shields.io/github/last-commit/hyperpolymath/boj-server)](https://github.com/hyperpolymath/boj-server) - Unified developer tool server using V for the network adapter layer. Exposes REST (port 7700), gRPC (7701), and GraphQL (7702) from a single V codebase. 18 capability cartridges loaded via Zig FFI with Idris2-verified interfaces.
 - [emoji-mart-desktop ![GitHub Repo Stars](https://img.shields.io/github/stars/ttytm/emoji-mart-desktop) ![GitHub last commit](https://img.shields.io/github/last-commit/ttytm/emoji-mart-desktop)](https://github.com/ttytm/emoji-mart-desktop) - An emoji picker created with V, webview and SvelteKit.
 - [v-nodejs-addon ![GitHub Repo Stars](https://img.shields.io/github/stars/fanlia/v-nodejs-addon) ![GitHub last commit](https://img.shields.io/github/last-commit/fanlia/v-nodejs-addon)](https://github.com/fanlia/v-nodejs-addon) - An demo of how to create a Node.js addon with V.
 

@@ -34,6 +34,7 @@ Here's a quick overview of the categories covered in this collection:
 - [CDN](#cdn)
 - [CDN - Monitor](#cdn---monitor)
 - [CDN - Utilities](#cdn---utilities)
+- [Core Web Vitals](#core-web-vitals)
 - [Extensions](#extensions)
 - [Image Optimizers](#image-optimizers)
 - [Generators](#generators)
@@ -194,7 +195,7 @@ Here's a quick overview of the categories covered in this collection:
 - [PerfMap ![GitHub Repo Stars](https://img.shields.io/github/stars/zeman/perfmap) ![GitHub last commit](https://img.shields.io/github/last-commit/zeman/perfmap)](https://github.com/zeman/perfmap) - A bookmarklet to create a frontend performance heatmap of resources loaded in the browser using the Resource Timing API.
 - [DOM Monster ![GitHub Repo Stars](https://img.shields.io/github/stars/madrobby/dom-monster) ![GitHub last commit](https://img.shields.io/github/last-commit/madrobby/dom-monster)](https://github.com/madrobby/dom-monster) - A cross-platform, cross-browser bookmarklet that will analyze the DOM & other features of the page you're on, and give you its bill of health.
 - [CSS Stress](http://andy.edinborough.org/CSS-Stress-Testing-and-Performance-Profiling) - CSS Stress is a Testing and Performance Profiling.
-- [Performance-Bookmarklet ![GitHub Repo Stars](https://img.shields.io/github/stars/micmro/performance-bookmarklet) ![GitHub last commit](https://img.shields.io/github/last-commit/micmro/performance-bookmarklet)](https://github.com/micmro/performance-bookmarklet) - Analyze the current page through the Resource Timing API, Navigation Timing API and User-Timing - Sort of a light live WebPageTest. As [Chrome Extension](https://chrome.google.com/webstore/detail/performance-analyser/djgfmlohefpomchfabngccpbaflcahjf?hl=en) and [Firefox Add-on](https://addons.mozilla.org/en-us/firefox/addon/performance-analyser/?src=cb-dl-created) under the name Performance-Analyser.
+- [Performance-Bookmarklet ![GitHub Repo Stars](https://img.shields.io/github/stars/micmro/performance-bookmarklet) ![GitHub last commit](https://img.shields.io/github/last-commit/micmro/performance-bookmarklet)](https://github.com/micmro/performance-bookmarklet) - Analyze the current page through the Resource Timing API, Navigation Timing API and User-Timing - Sort of a light live WebPageTest. As [Firefox Add-on](https://addons.mozilla.org/en-us/firefox/addon/performance-analyser/?src=cb-dl-created) under the name Performance-Analyser.
 
 ## CDN
 
@@ -220,6 +221,12 @@ Here's a quick overview of the categories covered in this collection:
 ## CDN - Utilities
 
 - [Gulp-google-cdn ![GitHub Repo Stars](https://img.shields.io/github/stars/sindresorhus/gulp-google-cdn) ![GitHub last commit](https://img.shields.io/github/last-commit/sindresorhus/gulp-google-cdn)](https://github.com/sindresorhus/gulp-google-cdn) - Replaces script references with Google CDN ones.
+
+## Core Web Vitals
+
+- [web-vitals ![GitHub Repo Stars](https://img.shields.io/github/stars/GoogleChrome/web-vitals) ![GitHub last commit](https://img.shields.io/github/last-commit/GoogleChrome/web-vitals)](https://github.com/GoogleChrome/web-vitals) - Small library to accurately measure Core Web Vitals (LCP, FID, CLS, INP, TTFB) in the browser.
+- [Lighthouse ![GitHub Repo Stars](https://img.shields.io/github/stars/GoogleChrome/lighthouse) ![GitHub last commit](https://img.shields.io/github/last-commit/GoogleChrome/lighthouse)](https://github.com/GoogleChrome/lighthouse) - Audits Core Web Vitals in lab conditions (see [Analyzers](#analyzers)).
+- [Lighthouse CI ![GitHub Repo Stars](https://img.shields.io/github/stars/GoogleChrome/lighthouse-ci) ![GitHub last commit](https://img.shields.io/github/last-commit/GoogleChrome/lighthouse-ci)](https://github.com/GoogleChrome/lighthouse-ci) - Run Lighthouse in CI to enforce Core Web Vitals budgets on every commit.
 
 ## Extensions
 
