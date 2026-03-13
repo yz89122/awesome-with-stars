@@ -8,9 +8,8 @@ IRC (Internet Relay Chat) is an open source protocol that can be used for multi-
 
 ## Contents
 
-<!--lint disable awesome-toc-->
 <!--lint disable awesome-list-item-->
-<!--lint ignore double-link-->
+<!--lint ignore awesome-toc double-link-->
 - [Clients](#clients)
 - [Bouncers](#bouncers)
   - [Hosted](#hosted)
@@ -18,12 +17,12 @@ IRC (Internet Relay Chat) is an open source protocol that can be used for multi-
 - [Daemons](#daemons)
 - [Services](#services)
 - [Bots](#bots)
+- [Encryption](#encryption)
 - [Frameworks](#frameworks)
   - [Bridges](#bridges)
 - [Channels](#channels)
   - [Discovery](#discovery)
   - [Platforms](#platforms)
-  - [Programming](#programming)
 - [Networks](#networks)
 - [Articles](#articles)
 - [Guides](#guides)
@@ -34,25 +33,28 @@ IRC (Internet Relay Chat) is an open source protocol that can be used for multi-
 
 *You use these to connect to IRC.*
 
-- [Textual](https://www.codeux.com/textual/) - Very customizable, ZNC integration, iCloud sync ($4.99). ([source ![GitHub Repo Stars](https://img.shields.io/github/stars/Codeux-Software/Textual) ![GitHub last commit](https://img.shields.io/github/last-commit/Codeux-Software/Textual)](https://github.com/Codeux-Software/Textual)) `macOS`
-- [LimeChat](http://limechat.net/mac/) - One window for multiple servers, keyboard shortcuts, fast & stable. ([source ![GitHub Repo Stars](https://img.shields.io/github/stars/psychs/limechat) ![GitHub last commit](https://img.shields.io/github/last-commit/psychs/limechat)](https://github.com/psychs/limechat)) `macOS` `iOS`
-- [HexChat](https://hexchat.github.io) - Based on XChat, easy to use, spell check & multiple languages. ([source ![GitHub Repo Stars](https://img.shields.io/github/stars/hexchat/hexchat) ![GitHub last commit](https://img.shields.io/github/last-commit/hexchat/hexchat)](https://github.com/hexchat/hexchat)) `Windows` `macOS` `Linux`
+- [![Textual-icon](https://user-images.githubusercontent.com/15098724/56874954-680a0500-69f2-11e9-87ec-d4015ce54af5.png) Textual](https://www.codeux.com/textual/) - Very customizable, ZNC integration, iCloud sync ($4.99). ([source ![GitHub Repo Stars](https://img.shields.io/github/stars/Codeux-Software/Textual) ![GitHub last commit](https://img.shields.io/github/last-commit/Codeux-Software/Textual)](https://github.com/Codeux-Software/Textual)) `macOS`
+- [![LimeChat-icon](https://user-images.githubusercontent.com/15098724/56875043-04cca280-69f3-11e9-8e1f-285e54784fe4.png) LimeChat](http://limechat.net/mac/) - One window for multiple servers, keyboard shortcuts, fast & stable. ([source ![GitHub Repo Stars](https://img.shields.io/github/stars/psychs/limechat) ![GitHub last commit](https://img.shields.io/github/last-commit/psychs/limechat)](https://github.com/psychs/limechat)) `macOS` `iOS`
+- [![HexChat-icon](https://user-images.githubusercontent.com/15098724/56874706-b28a8200-69f0-11e9-9ca7-27c8779134e0.png) HexChat](https://hexchat.github.io) - Based on XChat, easy to use, spell check & multiple languages. ([source ![GitHub Repo Stars](https://img.shields.io/github/stars/hexchat/hexchat) ![GitHub last commit](https://img.shields.io/github/last-commit/hexchat/hexchat)](https://github.com/hexchat/hexchat)) `Windows` `macOS` `Linux`
 - [gamja](https://sr.ht/~emersion/gamja/) - A simple IRC web client. ([source](https://git.sr.ht/~emersion/gamja)) `Web`
-- [Kiwi IRC](https://kiwiirc.com) - Powerful modern IRC messenger for the web. ([source ![GitHub Repo Stars](https://img.shields.io/github/stars/kiwiirc/kiwiirc) ![GitHub last commit](https://img.shields.io/github/last-commit/kiwiirc/kiwiirc)](https://github.com/kiwiirc/kiwiirc), [demo](https://kiwiirc.com/nextclient/)) `Web`
-- [CIRC](https://flackr.github.io/circ/) - Uses the chrome.sockets APIs to connect directly to IRC servers without needing a proxy. ([source ![GitHub Repo Stars](https://img.shields.io/github/stars/flackr/circ) ![GitHub last commit](https://img.shields.io/github/last-commit/flackr/circ)](https://github.com/flackr/circ)) `Chrome`
-- [Quassel](https://quassel-irc.org) - Distributed (clients can attach to and detach from a central core that stays permanently online. ([source ![GitHub Repo Stars](https://img.shields.io/github/stars/quassel/quassel) ![GitHub last commit](https://img.shields.io/github/last-commit/quassel/quassel)](https://github.com/quassel/quassel)) `Linux` `macOS` `Windows`
-- [Yaaic](https://www.yaaic.org) - Multi-server/channel support, SASL support, Smooth channel scrolling / swiping. ([source ![GitHub Repo Stars](https://img.shields.io/github/stars/pocmo/Yaaic) ![GitHub last commit](https://img.shields.io/github/last-commit/pocmo/Yaaic)](https://github.com/pocmo/Yaaic)) `Android`
-- [relay.js ![GitHub Repo Stars](https://img.shields.io/github/stars/Fauntleroy/relay.js) ![GitHub last commit](https://img.shields.io/github/last-commit/Fauntleroy/relay.js)](https://github.com/Fauntleroy/relay.js) - Focuses on making IRC less intimidating and easier to use. `Web`
-- [Circe ![GitHub Repo Stars](https://img.shields.io/github/stars/emacs-circe/circe) ![GitHub last commit](https://img.shields.io/github/last-commit/emacs-circe/circe)](https://github.com/emacs-circe/circe) - For use in Emacs, sane defaults. `Emacs`
-- [Smuxi](https://smuxi.im) - User-friendly, based on GNOME / GTK+. ([source ![GitHub Repo Stars](https://img.shields.io/github/stars/meebey/smuxi) ![GitHub last commit](https://img.shields.io/github/last-commit/meebey/smuxi)](https://github.com/meebey/smuxi)) `Linux` `Windows` `macOS`
-- [KvIRC](https://www.kvirc.net) - Free, portable, based on Qt GUI toolkit. ([source ![GitHub Repo Stars](https://img.shields.io/github/stars/kvirc/KVIrc) ![GitHub last commit](https://img.shields.io/github/last-commit/kvirc/KVIrc)](https://github.com/kvirc/KVIrc)) `Linux` `macOS` `Windows`
-- [Konversation](https://konversation.kde.org) - User-friendly client built on the KDE Platform. ([source ![GitHub Repo Stars](https://img.shields.io/github/stars/KDE/konversation) ![GitHub last commit](https://img.shields.io/github/last-commit/KDE/konversation)](https://github.com/KDE/konversation)) `Linux`
-- [sic](https://tools.suckless.org/sic/) - **S**imple **I**RC **c**lient - a terminal client in less than 250 lines of C. `Linux`
-- [irssi](https://irssi.org) - Terminal client, multi-protocol friendly for module authors, GPLv2. `Linux` `macOS` `Cygwin` `BSD`
-- [Revolution IRC ![GitHub Repo Stars](https://img.shields.io/github/stars/MCMrARM/revolution-irc) ![GitHub last commit](https://img.shields.io/github/last-commit/MCMrARM/revolution-irc)](https://github.com/MCMrARM/revolution-irc) - Feature-full, actively maintained Android IRC client. `Android`
-- [AdiIRC](https://adiirc.com) - Never has a client offered such granular settings for every aspect of the IRC experience. ([features](https://dev.adiirc.com/projects/adiirc/wiki/Features), [screenshots](https://dev.adiirc.com/projects/adiirc/wiki/Screenshots)) `Windows` `WINE`
-- [IRC for Android™](https://www.countercultured.net/android/) - Android/Chrome OS client for power users, with ZNC built-ins, notification logic, reliable DCC, keybinds for hardware keyboards, etc. `Android` `ChromeOS`
+- [![KiwiIRC-icon](https://user-images.githubusercontent.com/15098724/56875143-a7852100-69f3-11e9-8b33-2035c156c016.png) Kiwi IRC](https://kiwiirc.com) - Powerful modern IRC messenger for the web. ([source ![GitHub Repo Stars](https://img.shields.io/github/stars/kiwiirc/kiwiirc) ![GitHub last commit](https://img.shields.io/github/last-commit/kiwiirc/kiwiirc)](https://github.com/kiwiirc/kiwiirc), [demo](https://kiwiirc.com/nextclient/)) `Web`
+- [![CIRC-icon](https://user-images.githubusercontent.com/15098724/56875201-1498b680-69f4-11e9-91ff-ae3b674c82be.png) CIRC](https://flackr.github.io/circ/) - Uses the chrome.sockets APIs to connect directly to IRC servers without needing a proxy. ([source ![GitHub Repo Stars](https://img.shields.io/github/stars/flackr/circ) ![GitHub last commit](https://img.shields.io/github/last-commit/flackr/circ)](https://github.com/flackr/circ)) `Chrome`
+- [![Quassel-icon](https://user-images.githubusercontent.com/15098724/56875264-84a73c80-69f4-11e9-807c-75db09db0ec5.png) Quassel](https://quassel-irc.org) - Distributed (clients can attach to and detach from a central core that stays permanently online. ([source ![GitHub Repo Stars](https://img.shields.io/github/stars/quassel/quassel) ![GitHub last commit](https://img.shields.io/github/last-commit/quassel/quassel)](https://github.com/quassel/quassel)) `Linux` `macOS` `Windows`
+- [![Circe-icon](https://user-images.githubusercontent.com/15098724/56875558-a3a6ce00-69f6-11e9-92da-2e4d8c7b4a53.png) Circe](https://github.com/emacs-circe/circe) - For use in Emacs, sane defaults. `Emacs`
+- [![Smuxi-icon](https://user-images.githubusercontent.com/15098724/56875672-2f205f00-69f7-11e9-8cac-5721602234bb.png) Smuxi](https://smuxi.im) - User-friendly, based on GNOME / GTK+. ([source ![GitHub Repo Stars](https://img.shields.io/github/stars/meebey/smuxi) ![GitHub last commit](https://img.shields.io/github/last-commit/meebey/smuxi)](https://github.com/meebey/smuxi)) `Linux` `Windows` `macOS`
+- [![KvIRC-icon](https://user-images.githubusercontent.com/15098724/56874636-1d878900-69f0-11e9-856e-719c4c822e25.png) KvIRC](https://www.kvirc.net) - Free, portable, based on Qt GUI toolkit. ([source ![GitHub Repo Stars](https://img.shields.io/github/stars/kvirc/KVIrc) ![GitHub last commit](https://img.shields.io/github/last-commit/kvirc/KVIrc)](https://github.com/kvirc/KVIrc)) `Linux` `macOS` `Windows`
+- [![Konversation-icon](https://user-images.githubusercontent.com/15098724/56876024-609a2a00-69f9-11e9-91dd-196f310776d7.png) Konversation](https://konversation.kde.org) - User-friendly client built on the KDE Platform. ([source ![GitHub Repo Stars](https://img.shields.io/github/stars/KDE/konversation) ![GitHub last commit](https://img.shields.io/github/last-commit/KDE/konversation)](https://github.com/KDE/konversation)) `Linux`
+- [![sic-icon](https://user-images.githubusercontent.com/15098724/56876157-457bea00-69fa-11e9-94f5-11dcd0bfb00c.png) sic](https://tools.suckless.org/sic/) - **S**imple **I**RC **c**lient - a terminal client in less than 250 lines of C. `Linux` `macOS`
+- [![irssi-icon](https://user-images.githubusercontent.com/15098724/56876266-0c904500-69fb-11e9-85a9-00796373cf88.png) irssi](https://irssi.org) - Terminal client, multi-protocol friendly for module authors, GPLv2. `Linux` `macOS` `Cygwin` `BSD`
+- [![RevolutionIRC-icon](https://user-images.githubusercontent.com/15098724/56876444-4f065180-69fc-11e9-8200-b244b6a86e94.png) Revolution IRC](https://github.com/MCMrARM/revolution-irc) - Feature-full, actively maintained Android IRC client. `Android`
+- [![AdiIRC-icon](https://user-images.githubusercontent.com/15098724/56632956-0e2fc680-6611-11e9-949e-c79c21f465a0.png) AdiIRC](https://adiirc.com) - Never has a client offered such granular settings for every aspect of the IRC experience. ([features](https://dev.adiirc.com/projects/adiirc/wiki/Features), [screenshots](https://dev.adiirc.com/projects/adiirc/wiki/Screenshots)) `Windows` `WINE`
+- [![IRCforAndroid-icon](https://user-images.githubusercontent.com/15098724/56655816-b3b25c80-6648-11e9-92e1-12ca4587d9eb.png) IRC for Android™](https://www.countercultured.net/android/) - Android/Chrome OS client for power users, with ZNC built-ins, notification logic, reliable DCC, keybinds for hardware keyboards, etc. `Android` `ChromeOS`
 - [Iridium](https://appcenter.elementary.io/com.github.avojak.iridium/) - Friendly IRC client built in Vala and GTK, designed for elementary OS. ([source ![GitHub Repo Stars](https://img.shields.io/github/stars/avojak/iridium) ![GitHub last commit](https://img.shields.io/github/last-commit/avojak/iridium)](https://github.com/avojak/iridium)) `Linux`
+- [mIRC](https://www.mirc.co.uk) - One of the most popular IRC clients for Windows, with a built-in scripting language. `Windows`
+- [ObsidianIRC](https://hello.obby.world/) - Modern WebSocket IRC client with Discord-like UI. ([source ![GitHub Repo Stars](https://img.shields.io/github/stars/ObsidianIRC/ObsidianIRC) ![GitHub last commit](https://img.shields.io/github/last-commit/ObsidianIRC/ObsidianIRC)](https://github.com/ObsidianIRC/ObsidianIRC)) `Linux` `Windows` `macOS` `Android` `iOS` `Web`
+- [XChat](https://xchat.org) - Precursor to HexChat, multi-platform graphical IRC client. `Windows` `Linux`
+- [ircII](http://www.eterna23.net/ircii/) - One of the oldest IRC clients, initially released in 1989. `Linux` `macOS`
+- [BitchX](https://bitchx.sourceforge.net/) - Terminal-based client popular on Unix-like systems. ([screenshots](https://bitchx.sourceforge.net/category/screenshots.html)) `Linux` `macOS` `Windows`
 - [Goguma](https://sr.ht/~emersion/goguma/) - An IRC client for mobile devices, from the creator of soju. `Android` `Linux`
 
 <!--lint ignore double-link-->
@@ -64,20 +66,21 @@ IRC (Internet Relay Chat) is an open source protocol that can be used for multi-
 
 ### Hosted
 
-- [IRCCloud](https://www.irccloud.com) - Group chat for teams, friends, and communities. stay connected, chat from anywhere, and never miss a message (+client) (£0-£3.50/month).
+- [![IRCCloud-icon](https://user-images.githubusercontent.com/15098724/56879253-ba581f80-6a0c-11e9-8f6b-8461c10ed149.png) IRCCloud](https://www.irccloud.com) - Group chat for teams, friends, and communities. stay connected, chat from anywhere, and never miss a message (+client) (£0-£3.50/month).
   - [iOS App ![GitHub Repo Stars](https://img.shields.io/github/stars/irccloud/ios) ![GitHub last commit](https://img.shields.io/github/last-commit/irccloud/ios)](https://github.com/irccloud/ios) - Official. `Objective-C`
   - [Android App ![GitHub Repo Stars](https://img.shields.io/github/stars/irccloud/android) ![GitHub last commit](https://img.shields.io/github/last-commit/irccloud/android)](https://github.com/irccloud/android) - Official. `Java`
   - [Nimbus ![GitHub Repo Stars](https://img.shields.io/github/stars/jnordberg/irccloudapp) ![GitHub last commit](https://img.shields.io/github/last-commit/jnordberg/irccloudapp)](https://github.com/jnordberg/irccloudapp) - Standalone client. `macOS` `Objective-C`
 
 ### Self-hosted
 
-- [Convos](https://convos.chat) - Always online web IRC client. ([source ![GitHub Repo Stars](https://img.shields.io/github/stars/convos-chat/convos) ![GitHub last commit](https://img.shields.io/github/last-commit/convos-chat/convos)](https://github.com/convos-chat/convos)) `Perl` `JavaScript` `Web`
-- [ZNC](https://wiki.znc.in/ZNC) - Most popular. many different plugins. ([source ![GitHub Repo Stars](https://img.shields.io/github/stars/znc/znc) ![GitHub last commit](https://img.shields.io/github/last-commit/znc/znc)](https://github.com/znc/znc)) `C++`
-- [BIP IRC Proxy](https://bip.milkypond.org) - Always online, lightweight and secure Open Source IRC proxying with backlogging. ([source](https://projects.duckcorp.org/projects/bip/repository)) `C`
-- [TheLounge](https://thelounge.chat) - Responsive, self-hosted & support for multiple users. ([source ![GitHub Repo Stars](https://img.shields.io/github/stars/thelounge/thelounge) ![GitHub last commit](https://img.shields.io/github/last-commit/thelounge/thelounge)](https://github.com/thelounge/thelounge), [demo](https://demo.thelounge.chat/)) `JavaScript` `Node.js` `Web`
-- [WeeChat](https://weechat.org) - A fast, light and extensible chat client. ([source ![GitHub Repo Stars](https://img.shields.io/github/stars/weechat/weechat) ![GitHub last commit](https://img.shields.io/github/last-commit/weechat/weechat)](https://github.com/weechat/weechat)) `Linux` `macOS` `Windows`
+- [![Convos-icon](https://user-images.githubusercontent.com/15098724/56879497-d8724f80-6a0d-11e9-844d-7a5380b4524b.png) Convos](https://convos.chat) - Always online web IRC client. ([source ![GitHub Repo Stars](https://img.shields.io/github/stars/convos-chat/convos) ![GitHub last commit](https://img.shields.io/github/last-commit/convos-chat/convos)](https://github.com/convos-chat/convos)) `Perl` `JavaScript` `Web`
+- [![ZNC-icon](https://user-images.githubusercontent.com/15098724/56879721-d8268400-6a0e-11e9-8b74-c2c748d15c4a.png) ZNC](https://wiki.znc.in/ZNC) - Most popular. many different plugins. ([source ![GitHub Repo Stars](https://img.shields.io/github/stars/znc/znc) ![GitHub last commit](https://img.shields.io/github/last-commit/znc/znc)](https://github.com/znc/znc)) `C++`
+- [![BIP-icon](https://user-images.githubusercontent.com/15098724/56899123-89491080-6a47-11e9-8513-4c8d09be32d9.png) BIP IRC Proxy](https://bip.milkypond.org) - Always online, lightweight and secure Open Source IRC proxying with backlogging. ([source](https://projects.duckcorp.org/projects/bip/repository)) `C`
+- [![TheLounge-icon](https://user-images.githubusercontent.com/15098724/56899491-6b2fe000-6a48-11e9-9f01-1ed2cfb86b09.png) TheLounge](https://thelounge.chat) - Responsive, self-hosted & support for multiple users. ([source ![GitHub Repo Stars](https://img.shields.io/github/stars/thelounge/thelounge) ![GitHub last commit](https://img.shields.io/github/last-commit/thelounge/thelounge)](https://github.com/thelounge/thelounge), [demo](https://demo.thelounge.chat/)) `JavaScript` `Node.js` `Web`
+- [![WeeChat-icon](https://user-images.githubusercontent.com/15098724/56876389-e028f880-69fb-11e9-82d6-8084e17f2f04.png) WeeChat](https://weechat.org) - A fast, light and extensible chat client. ([source ![GitHub Repo Stars](https://img.shields.io/github/stars/weechat/weechat) ![GitHub last commit](https://img.shields.io/github/last-commit/weechat/weechat)](https://github.com/weechat/weechat)) `Linux` `macOS`
 - [soju](https://git.sr.ht/~emersion/soju) - A user-friendly IRC bouncer. `Go`
 - [sms-webhook ![GitHub Repo Stars](https://img.shields.io/github/stars/terminaldweller/sms-webhook) ![GitHub last commit](https://img.shields.io/github/last-commit/terminaldweller/sms-webhook)](https://github.com/terminaldweller/sms-webhook) - A simple webhook to receive SMS messages on IRC. `Go`
+- [psyBNC](https://psybnc.org/) - Multi-user, permanent IRC bouncer with encryption support. `Linux`
 
 ## Daemons
 
@@ -87,7 +90,8 @@ IRC (Internet Relay Chat) is an open source protocol that can be used for multi-
 - [InspIRCd](https://www.inspircd.org) - Modular, stable, written from scratch. ([source ![GitHub Repo Stars](https://img.shields.io/github/stars/inspircd/inspircd) ![GitHub last commit](https://img.shields.io/github/last-commit/inspircd/inspircd)](https://github.com/inspircd/inspircd))
 - [miniircd ![GitHub Repo Stars](https://img.shields.io/github/stars/jrosdahl/miniircd) ![GitHub last commit](https://img.shields.io/github/last-commit/jrosdahl/miniircd)](https://github.com/jrosdahl/miniircd) - Very simple and limited.
 - [ngIRCd](https://ngircd.barton.de) - Portable and lightweight for small or private networks. ([source ![GitHub Repo Stars](https://img.shields.io/github/stars/ngircd/ngircd) ![GitHub last commit](https://img.shields.io/github/last-commit/ngircd/ngircd)](https://github.com/ngircd/ngircd))
-- [Ergo ![GitHub Repo Stars](https://img.shields.io/github/stars/ergochat/ergo) ![GitHub last commit](https://img.shields.io/github/last-commit/ergochat/ergo)](https://github.com/ergochat/ergo) - Modern server that's portable and designed around specifications (bleeding-edge IRCv3 support).
+- [Ergo](https://ergo.chat/) - Modern server that's portable and designed around specifications (bleeding-edge IRCv3 support). ([source ![GitHub Repo Stars](https://img.shields.io/github/stars/ergochat/ergo) ![GitHub last commit](https://img.shields.io/github/last-commit/ergochat/ergo)](https://github.com/ergochat/ergo))
+- [UnrealIRCd](https://www.unrealircd.org) - Modular, advanced IRCd serving thousands of networks since 1999. ([source ![GitHub Repo Stars](https://img.shields.io/github/stars/unrealircd/unrealircd) ![GitHub last commit](https://img.shields.io/github/last-commit/unrealircd/unrealircd)](https://github.com/unrealircd/unrealircd))
 - [RobustIRC](https://robustirc.net) - IRC server without netsplits. ([source ![GitHub Repo Stars](https://img.shields.io/github/stars/robustirc/robustirc) ![GitHub last commit](https://img.shields.io/github/last-commit/robustirc/robustirc)](https://github.com/robustirc/robustirc/))
 
 ## Services
@@ -106,7 +110,6 @@ IRC (Internet Relay Chat) is an open source protocol that can be used for multi-
 - [Limnoria ![GitHub Repo Stars](https://img.shields.io/github/stars/ProgVal/Limnoria) ![GitHub last commit](https://img.shields.io/github/last-commit/ProgVal/Limnoria)](https://github.com/ProgVal/Limnoria) - Robust, user friendly, developer friendly. `Python`
 - [Twitch Plays ![GitHub Repo Stars](https://img.shields.io/github/stars/aidanrwt/twitch-plays) ![GitHub last commit](https://img.shields.io/github/last-commit/aidanrwt/twitch-plays)](https://github.com/aidanrwt/twitch-plays ) - Takes input from the chat and presses the corresponding key. `Python`
 - [Skybot ![GitHub Repo Stars](https://img.shields.io/github/stars/rmmh/skybot) ![GitHub last commit](https://img.shields.io/github/last-commit/rmmh/skybot)](https://github.com/rmmh/skybot) - Main goals are simplicity and power. `Python`
-- [talkbackbot](https://geekchick77.dreamwidth.org/472.html) - Responds to configured trigger phrases with quotes from notable women. ([source ![GitHub Repo Stars](https://img.shields.io/github/stars/jessamynsmith/talkbackbot) ![GitHub last commit](https://img.shields.io/github/last-commit/jessamynsmith/talkbackbot)](https://github.com/jessamynsmith/talkbackbot)) `Python`
 - [lazybot ![GitHub Repo Stars](https://img.shields.io/github/stars/Raynes/lazybot) ![GitHub last commit](https://img.shields.io/github/last-commit/Raynes/lazybot)](https://github.com/Raynes/lazybot) - User-friendly and powerful. `Clojure`
 - [IRC-BF](https://gitlab.com/ddevault/bf-irc-bot) - `Brainfuck`
 - [geordi ![GitHub Repo Stars](https://img.shields.io/github/stars/Eelis/geordi) ![GitHub last commit](https://img.shields.io/github/last-commit/Eelis/geordi)](https://github.com/Eelis/geordi) - Compiles and runs C++ code snippets. `C++`
@@ -120,6 +123,14 @@ IRC (Internet Relay Chat) is an open source protocol that can be used for multi-
 - [wayback ![GitHub Repo Stars](https://img.shields.io/github/stars/wabarc/wayback) ![GitHub last commit](https://img.shields.io/github/last-commit/wabarc/wayback)](https://github.com/wabarc/wayback) - An archiving tool with an IRC interface integrated with various archiving services.
 - [milla ![GitHub Repo Stars](https://img.shields.io/github/stars/terminaldweller/milla) ![GitHub last commit](https://img.shields.io/github/last-commit/terminaldweller/milla)](https://github.com/terminaldweller/milla) - New generation LLM-powered bot with lua scripting support. `Go`
 
+## Encryption
+
+*Plugins and tools for encrypting IRC messages.*
+
+- [irssi-otr ![GitHub Repo Stars](https://img.shields.io/github/stars/cryptodotis/irssi-otr) ![GitHub last commit](https://img.shields.io/github/last-commit/cryptodotis/irssi-otr)](https://github.com/cryptodotis/irssi-otr) - Off-the-Record (OTR) messaging plugin for irssi. `C`
+- [weechat-otr ![GitHub Repo Stars](https://img.shields.io/github/stars/mmb/weechat-otr) ![GitHub last commit](https://img.shields.io/github/last-commit/mmb/weechat-otr)](https://github.com/mmb/weechat-otr) - Off-the-Record (OTR) messaging plugin for WeeChat. `Python`
+- [FiSH-irssi ![GitHub Repo Stars](https://img.shields.io/github/stars/falsovsky/FiSH-irssi) ![GitHub last commit](https://img.shields.io/github/last-commit/falsovsky/FiSH-irssi)](https://github.com/falsovsky/FiSH-irssi) - Blowfish encryption in ECB/CBC modes with Diffie-Hellman key exchange for irssi. `C`
+
 ## Frameworks
 
 *Helpful to write bots or integrate IRC with applications.*
@@ -129,7 +140,7 @@ IRC (Internet Relay Chat) is an open source protocol that can be used for multi-
 - [Hubot IRC Adapter ![GitHub Repo Stars](https://img.shields.io/github/stars/nandub/hubot-irc) ![GitHub last commit](https://img.shields.io/github/last-commit/nandub/hubot-irc)](https://github.com/nandub/hubot-irc) - The IRC adapter for hubot. `JavaScript`
 - [go-ircevent ![GitHub Repo Stars](https://img.shields.io/github/stars/thoj/go-ircevent) ![GitHub last commit](https://img.shields.io/github/last-commit/thoj/go-ircevent)](https://github.com/thoj/go-ircevent) - Event-based. `Go`
 - [slate-irc ![GitHub Repo Stars](https://img.shields.io/github/stars/slate/slate-irc) ![GitHub last commit](https://img.shields.io/github/last-commit/slate/slate-irc)](https://github.com/slate/slate-irc) - Plugin system, simple api, arbitrary input stream, debug support. `JavaScript`
-- [PircBotX ![GitHub Repo Stars](https://img.shields.io/github/stars/pircbotx/pircbotx) ![GitHub last commit](https://img.shields.io/github/last-commit/pircbotx/pircbotx)](https://github.com/pircbotx/pircbotx) - Event based IRC Library with a straightforward API (updated fork of [PircBot](http://www.jibble.org/pircbot.php)). `Java`
+- [PircBotX ![GitHub Repo Stars](https://img.shields.io/github/stars/pircbotx/pircbotx) ![GitHub last commit](https://img.shields.io/github/last-commit/pircbotx/pircbotx)](https://github.com/pircbotx/pircbotx) - Event based IRC Library with a straightforward API (updated fork of [PircBot](https://www.jibble.org/pircbot.php)). `Java`
 - [IRC::Client ![GitHub Repo Stars](https://img.shields.io/github/stars/lizmat/IRC-Client) ![GitHub last commit](https://img.shields.io/github/last-commit/lizmat/IRC-Client)](https://github.com/lizmat/IRC-Client) - `Perl6` based extendable IRC client framework.
 - [irccd](https://projects.malikania.fr/irccd/index.html) - Flexible IRC bot customizable with JavaScript. `C++`.
 
@@ -139,12 +150,13 @@ IRC (Internet Relay Chat) is an open source protocol that can be used for multi-
 
 - [discord-irc ![GitHub Repo Stars](https://img.shields.io/github/stars/reactiflux/discord-irc) ![GitHub last commit](https://img.shields.io/github/last-commit/reactiflux/discord-irc)](https://github.com/reactiflux/discord-irc) - Discord ↔ IRC. `JavaScript`
 - [dibridge ![GitHub Repo Stars](https://img.shields.io/github/stars/OpenTTD/dibridge) ![GitHub last commit](https://img.shields.io/github/last-commit/OpenTTD/dibridge)](https://github.com/OpenTTD/dibridge) - Discord ↔ IRC (with puppets) `Python`
+- [Dis4IRC ![GitHub Repo Stars](https://img.shields.io/github/stars/zachbr/Dis4IRC) ![GitHub last commit](https://img.shields.io/github/last-commit/zachbr/Dis4IRC)](https://github.com/zachbr/Dis4IRC) - Discord ↔ IRC. `Kotlin`
 - [slack-irc ![GitHub Repo Stars](https://img.shields.io/github/stars/ekmartin/slack-irc) ![GitHub last commit](https://img.shields.io/github/last-commit/ekmartin/slack-irc)](https://github.com/ekmartin/slack-irc) - Slack ↔ IRC. `JavaScript`
 - [irc-slack ![GitHub Repo Stars](https://img.shields.io/github/stars/insomniacslk/irc-slack) ![GitHub last commit](https://img.shields.io/github/last-commit/insomniacslk/irc-slack)](https://github.com/insomniacslk/irc-slack) - Slack ↔ IRC. `Go`
 - [BitlBee](https://www.bitlbee.org/main.php/news.r.html) - XMPP, Jabber, Google Talk, MSN Messenger, Yahoo! Messenger, AIM, ICQ, Twitter API, HipChat ↔ IRC. `C`
 - [Biboumi](https://biboumi.louiz.org/) - IRC gateway for XMPP clients `C`
 - [teleirc ![GitHub Repo Stars](https://img.shields.io/github/stars/RITlug/teleirc) ![GitHub last commit](https://img.shields.io/github/last-commit/RITlug/teleirc)](https://github.com/RITlug/teleirc) - Telegram ↔ IRC. `JavaScript`
-- [toxirc ![GitHub Repo Stars](https://img.shields.io/github/stars/jhert0/toxirc) ![GitHub last commit](https://img.shields.io/github/last-commit/jhert0/toxirc)](https://github.com/jhert0/toxirc) - Tox ↔ IRC. `C`
+- [toxirc ![GitHub Repo Stars](https://img.shields.io/github/stars/e0ff/toxirc) ![GitHub last commit](https://img.shields.io/github/last-commit/e0ff/toxirc)](https://github.com/e0ff/toxirc) - Tox ↔ IRC. `C`
 - [skyweb2irc ![GitHub Repo Stars](https://img.shields.io/github/stars/ProgVal/skyweb2irc) ![GitHub last commit](https://img.shields.io/github/last-commit/ProgVal/skyweb2irc)](https://github.com/ProgVal/skyweb2irc) - Skype (webclient API) ↔ IRC. `Javascript`
 - [matterbridge ![GitHub Repo Stars](https://img.shields.io/github/stars/42wim/matterbridge) ![GitHub last commit](https://img.shields.io/github/last-commit/42wim/matterbridge)](https://github.com/42wim/matterbridge) - IRC ↔ Mattermost ↔ Discord ↔ XMPP ↔ Gitter ↔ Slack ↔ Discord ↔ Telegram ↔ etc. `Go`
 - [Heisenbridge ![GitHub Repo Stars](https://img.shields.io/github/stars/hifi/heisenbridge) ![GitHub last commit](https://img.shields.io/github/last-commit/hifi/heisenbridge)](https://github.com/hifi/heisenbridge) - Bouncer-style Matrix IRC bridge `Python`
@@ -158,12 +170,11 @@ IRC (Internet Relay Chat) is an open source protocol that can be used for multi-
 ### Discovery
 
 - [netsplit.de Search](https://netsplit.de/channels/ ) - Searches 563 different networks.
-- [mibbit Search](https://search.mibbit.com) - Searches networks listed [here](https://search.mibbit.com/networks).
 - [KiwiIRC Search](https://kiwiirc.com/search) - Searches 318 different networks.
 
 ### Platforms
 
-- [#ubuntu](https://wiki.ubuntu.com/IRC/ChannelList)@Libera.Chat - Official Ubuntu support channel. ([rules](https://wiki.ubuntu.com/IRC/Guidelines))
+- [#Ubuntu](https://wiki.ubuntu.com/IRC/ChannelList)@Libera.Chat - Official Ubuntu support channel. ([rules](https://wiki.ubuntu.com/IRC/Guidelines))
 
 ## Networks
 
@@ -199,7 +210,6 @@ IRC (Internet Relay Chat) is an open source protocol that can be used for multi-
 - [grawity's IRC docs ![GitHub Repo Stars](https://img.shields.io/github/stars/grawity/irc-docs) ![GitHub last commit](https://img.shields.io/github/last-commit/grawity/irc-docs)](https://github.com/grawity/irc-docs) - Collection of misc IRC protocol documentation.
 - [Protocol Statistics](https://stats.ircdocs.horse) - Statistics around the server software in use on networks today. ([source ![GitHub Repo Stars](https://img.shields.io/github/stars/ircdocs/irc-stats) ![GitHub last commit](https://img.shields.io/github/last-commit/ircdocs/irc-stats)](https://github.com/ircdocs/irc-stats))
 - [IRC Parser Tests ![GitHub Repo Stars](https://img.shields.io/github/stars/ircdocs/parser-tests) ![GitHub last commit](https://img.shields.io/github/last-commit/ircdocs/parser-tests)](https://github.com/ircdocs/parser-tests) - A CC0 set of test suites, to ensure IRC message parsers are consistent.
-- [DareNET Archives](https://archives.darenet.org) - IRC Archives for old hard to find IRC related software.
 
 ## Miscellaneous
 

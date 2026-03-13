@@ -3603,7 +3603,7 @@ _Where to discover new Go libraries._
 - [The Little Go Book ![GitHub Repo Stars](https://img.shields.io/github/stars/karlseguin/the-little-go-book) ![GitHub last commit](https://img.shields.io/github/last-commit/karlseguin/the-little-go-book)](https://github.com/karlseguin/the-little-go-book)
 - [Web Application with Go the Anti-Textbook ![GitHub Repo Stars](https://img.shields.io/github/stars/thewhitetulip/web-dev-golang-anti-textbook) ![GitHub last commit](https://img.shields.io/github/last-commit/thewhitetulip/web-dev-golang-anti-textbook)](https://github.com/thewhitetulip/web-dev-golang-anti-textbook/)
 
-**[⬆ back to top](#contents)**
+**[�� back to top](#contents)**
 
 ## Gophers
 

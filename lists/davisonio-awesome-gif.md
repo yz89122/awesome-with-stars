@@ -10,7 +10,6 @@ A list of tools, scripts, libraries, examples & other resources related to the G
 - [General Tools](#general-tools)
 - [Utilities](#utilities)
 - [Libraries](#libraries)
-	- [ActionScript](#actionscript)
 	- [C++](#c)
 	- [C#](#c-sharp)
 	- [Haxe](#haxe)
@@ -33,53 +32,32 @@ A list of tools, scripts, libraries, examples & other resources related to the G
 	- [Cinemagraphs](#cinemagraphs)
 	- [Perfect loop](#perfect-loop)
 	- [YouTube video to GIF](#youtube-video-to-gif)
-	- [Grabbing each frame of an HTML5 canvas](#grabbing-each-frame-of-an-html5-canvas)
 - [Miscellaneous](#miscellaneous)
 
 ## General Tools
 
 - [FFmpeg](https://www.ffmpeg.org)
 - [ImageMagick](http://www.imagemagick.org/script/index.php)
-- [GraphicsMagick](http://www.graphicsmagick.org/) - GraphicsMagick is usually faster than ImageMagick.
+- [GraphicsMagick](http://www.graphicsmagick.org/) - Usually faster than ImageMagick.
 - [MoviePy](https://zulko.github.io/moviepy/) - Python module for video editing.
 
 ## Utilities
 
 - [Gifgen ![GitHub Repo Stars](https://img.shields.io/github/stars/lukechilds/gifgen) ![GitHub last commit](https://img.shields.io/github/last-commit/lukechilds/gifgen)](https://github.com/lukechilds/gifgen) - Simple high quality GIF encoding.
 - [Gifify ![GitHub Repo Stars](https://img.shields.io/github/stars/jclem/gifify) ![GitHub last commit](https://img.shields.io/github/last-commit/jclem/gifify)](https://github.com/jclem/gifify) - Convert screen recording into GIF.
-- [Gifs ![GitHub Repo Stars](https://img.shields.io/github/stars/jglovier/gifs) ![GitHub last commit](https://img.shields.io/github/last-commit/jglovier/gifs)](https://github.com/jglovier/gifs) - Storage place for GIFs.
-- [Gifshot ![GitHub Repo Stars](https://img.shields.io/github/stars/yahoo/gifshot) ![GitHub last commit](https://img.shields.io/github/last-commit/yahoo/gifshot)](https://github.com/yahoo/gifshot) - Create animated GIFs from media by Yahoo. ([demo](http://yahoo.github.io/gifshot/))
-- [Gifsockets ![GitHub Repo Stars](https://img.shields.io/github/stars/videlalvaro/gifsockets) ![GitHub last commit](https://img.shields.io/github/last-commit/videlalvaro/gifsockets)](https://github.com/videlalvaro/gifsockets) - Real Time communication library using Animated GIFs as a transport.
-- [X-gif ![GitHub Repo Stars](https://img.shields.io/github/stars/geelen/x-gif) ![GitHub last commit](https://img.shields.io/github/last-commit/geelen/x-gif)](https://github.com/geelen/x-gif) - A web component for flexible GIF playback.
-- [GifW00t ![GitHub Repo Stars](https://img.shields.io/github/stars/yaronn/GifW00t) ![GitHub last commit](https://img.shields.io/github/last-commit/yaronn/GifW00t)](https://github.com/yaronn/GifW00t) - JavaScript web recorder.
-- [gif-machine ![GitHub Repo Stars](https://img.shields.io/github/stars/lelandbatey/gif-machine) ![GitHub last commit](https://img.shields.io/github/last-commit/lelandbatey/gif-machine)](https://github.com/lelandbatey/gif-machine) - GIF creation from YouTube videos.
-- [gifstreaming ![GitHub Repo Stars](https://img.shields.io/github/stars/jbochi/gifstreaming) ![GitHub last commit](https://img.shields.io/github/last-commit/jbochi/gifstreaming)](https://github.com/jbochi/gifstreaming) - Live video streaming server.
 - [Screengif ![GitHub Repo Stars](https://img.shields.io/github/stars/dergachev/screengif) ![GitHub last commit](https://img.shields.io/github/last-commit/dergachev/screengif)](https://github.com/dergachev/screengif) - Create animated GIF screencasts.
-- [vnc-over-gif ![GitHub Repo Stars](https://img.shields.io/github/stars/sidorares/vnc-over-gif) ![GitHub last commit](https://img.shields.io/github/last-commit/sidorares/vnc-over-gif)](https://github.com/sidorares/vnc-over-gif) - Serves screen updates as animated GIF over http.
-- [gifdeck ![GitHub Repo Stars](https://img.shields.io/github/stars/jaipandya/gifdeck) ![GitHub last commit](https://img.shields.io/github/last-commit/jaipandya/gifdeck)](https://github.com/jaipandya/gifdeck) - Convert your SlideShares into animated GIFs.
-- [Gifbot ![GitHub Repo Stars](https://img.shields.io/github/stars/schuyler/gifbot) ![GitHub last commit](https://img.shields.io/github/last-commit/schuyler/gifbot)](https://github.com/schuyler/gifbot) - GIF search for Slack.
-- [Gif-camera ![GitHub Repo Stars](https://img.shields.io/github/stars/FuzzyWobble/GIF-Camera) ![GitHub last commit](https://img.shields.io/github/last-commit/FuzzyWobble/GIF-Camera)](https://github.com/FuzzyWobble/GIF-Camera) - Create animated GIFs using webcam.
 - [Gifline ![GitHub Repo Stars](https://img.shields.io/github/stars/zehfernandes/gifline) ![GitHub last commit](https://img.shields.io/github/last-commit/zehfernandes/gifline)](https://github.com/zehfernandes/gifline) - Chrome extension to put GIFs in your emails.
-- [Gifdrop ![GitHub Repo Stars](https://img.shields.io/github/stars/markjaquith/gifdrop) ![GitHub last commit](https://img.shields.io/github/last-commit/markjaquith/gifdrop)](https://github.com/markjaquith/gifdrop) - Create a repository for your collection of GIF images.
-- [Gh-gif ![GitHub Repo Stars](https://img.shields.io/github/stars/node-gh/gh-gif) ![GitHub last commit](https://img.shields.io/github/last-commit/node-gh/gh-gif)](https://github.com/node-gh/gh-gif) - NodeGH plugin for commenting on pull requests/issues using GIF reactions.
 - [Tty2gif ![GitHub Repo Stars](https://img.shields.io/github/stars/z24/tty2gif) ![GitHub last commit](https://img.shields.io/github/last-commit/z24/tty2gif)](https://github.com/z24/tty2gif) - Record scripts and their outputs into both binary and GIF formats.
-- [Giftoppr ![GitHub Repo Stars](https://img.shields.io/github/stars/desktoppr/giftoppr) ![GitHub last commit](https://img.shields.io/github/last-commit/desktoppr/giftoppr)](https://github.com/desktoppr/giftoppr) - Sync your favourite GIFs with Dropbox.
 - [Gifit ![GitHub Repo Stars](https://img.shields.io/github/stars/Fauntleroy/GIFit) ![GitHub last commit](https://img.shields.io/github/last-commit/Fauntleroy/GIFit)](https://github.com/Fauntleroy/GIFit) - Chrome extension to make a GIF from a YouTube video.
 - [Ccapture.js ![GitHub Repo Stars](https://img.shields.io/github/stars/spite/ccapture.js) ![GitHub last commit](https://img.shields.io/github/last-commit/spite/ccapture.js)](https://github.com/spite/ccapture.js) - Capture animations created with HTML5 canvas.
 - [Kap](https://getkap.co/) - Beautiful open-source app to capture your screen and export to GIF.
-- [Gifit (the other one) ![GitHub Repo Stars](https://img.shields.io/github/stars/rotblauer/gifit) ![GitHub last commit](https://img.shields.io/github/last-commit/rotblauer/gifit)](https://github.com/rotblauer/gifit) - Get a search resulting giphy GIF in markdown in stdout, ala `$ gifit kittens`.
 - [gifski ![GitHub Repo Stars](https://img.shields.io/github/stars/ImageOptim/gifski) ![GitHub last commit](https://img.shields.io/github/last-commit/ImageOptim/gifski)](https://github.com/ImageOptim/gifski) - High-quality GIF encoder based on libimagequant.
 - [Gifcurry ![GitHub Repo Stars](https://img.shields.io/github/stars/lettier/gifcurry) ![GitHub last commit](https://img.shields.io/github/last-commit/lettier/gifcurry)](https://github.com/lettier/gifcurry) - Open-source, Haskell-built editor for GIF makers.
 
 ## Libraries
 
-### ActionScript
-
-- [Flash Animated GIF Library ![GitHub Repo Stars](https://img.shields.io/github/stars/theturtle32/Flash-Animated-GIF-Library) ![GitHub last commit](https://img.shields.io/github/last-commit/theturtle32/Flash-Animated-GIF-Library)](https://github.com/theturtle32/Flash-Animated-GIF-Library) - AS3 library for playing Animated GIFs in Flash.
-
 ### C++
 
-- [Node-gif ![GitHub Repo Stars](https://img.shields.io/github/stars/pkrumins/node-gif) ![GitHub last commit](https://img.shields.io/github/last-commit/pkrumins/node-gif)](https://github.com/pkrumins/node-gif) - C++ library to make GIF.
 - [Gif-h ![GitHub Repo Stars](https://img.shields.io/github/stars/charlietangora/gif-h) ![GitHub last commit](https://img.shields.io/github/last-commit/charlietangora/gif-h)](https://github.com/charlietangora/gif-h) - C++ one-header library for the creation of animated GIFs.
 - [msf_gif ![GitHub Repo Stars](https://img.shields.io/github/stars/notnullnotvoid/msf_gif) ![GitHub last commit](https://img.shields.io/github/last-commit/notnullnotvoid/msf_gif)](https://github.com/notnullnotvoid/msf_gif) - C/C++ single-header library for creating animated GIFs.
 
@@ -97,14 +75,9 @@ A list of tools, scripts, libraries, examples & other resources related to the G
 ### Java
 
 - [Android-gif-drawable ![GitHub Repo Stars](https://img.shields.io/github/stars/koral--/android-gif-drawable) ![GitHub last commit](https://img.shields.io/github/last-commit/koral--/android-gif-drawable)](https://github.com/koral--/android-gif-drawable) - Views and Drawable for displaying animated GIFs on Android.
-- [gifanimateddrawable ![GitHub Repo Stars](https://img.shields.io/github/stars/Hipmob/gifanimateddrawable) ![GitHub last commit](https://img.shields.io/github/last-commit/Hipmob/gifanimateddrawable)](https://github.com/Hipmob/gifanimateddrawable) - Use an animated GIF as an Android Drawable.
-- [GifView ![GitHub Repo Stars](https://img.shields.io/github/stars/RoiSoleil/GifView) ![GitHub last commit](https://img.shields.io/github/last-commit/RoiSoleil/GifView)](https://github.com/RoiSoleil/GifView) - Android library to deal with GIF.
-- [Gif Movie View ![GitHub Repo Stars](https://img.shields.io/github/stars/sbakhtiarov/gif-movie-view) ![GitHub last commit](https://img.shields.io/github/last-commit/sbakhtiarov/gif-movie-view)](https://github.com/sbakhtiarov/gif-movie-view) - Android View widget for displaying GIF animations.
 - [GifImageView ![GitHub Repo Stars](https://img.shields.io/github/stars/felipecsl/GifImageView) ![GitHub last commit](https://img.shields.io/github/last-commit/felipecsl/GifImageView)](https://github.com/felipecsl/GifImageView) - Android ImageView that handles animated GIF images.
 - [Gif-animation ![GitHub Repo Stars](https://img.shields.io/github/stars/extrapixel/gif-animation) ![GitHub last commit](https://img.shields.io/github/last-commit/extrapixel/gif-animation)](https://github.com/extrapixel/gif-animation) - Processing library to play and export GIF.
 - [Android-gif-encoder ![GitHub Repo Stars](https://img.shields.io/github/stars/nbadal/android-gif-encoder) ![GitHub last commit](https://img.shields.io/github/last-commit/nbadal/android-gif-encoder)](https://github.com/nbadal/android-gif-encoder) - Animated GIF encoder for Android.
-- [GIFDroid ![GitHub Repo Stars](https://img.shields.io/github/stars/curtislarson/GIFDroid) ![GitHub last commit](https://img.shields.io/github/last-commit/curtislarson/GIFDroid)](https://github.com/curtislarson/GIFDroid) - Android video to GIF converter.
-- [Android-GifStitch ![GitHub Repo Stars](https://img.shields.io/github/stars/CaptPhunkosis/Android-GifStitch) ![GitHub last commit](https://img.shields.io/github/last-commit/CaptPhunkosis/Android-GifStitch)](https://github.com/CaptPhunkosis/Android-GifStitch) - Create and share animated GIFs.
 
 ### JavaScript
 
@@ -113,32 +86,17 @@ A list of tools, scripts, libraries, examples & other resources related to the G
 - [Animated_GIF ![GitHub Repo Stars](https://img.shields.io/github/stars/sole/Animated_GIF) ![GitHub last commit](https://img.shields.io/github/last-commit/sole/Animated_GIF)](https://github.com/sole/Animated_GIF) - JavaScript library for creating animated GIFs.
 - [Gifffer ![GitHub Repo Stars](https://img.shields.io/github/stars/krasimir/gifffer) ![GitHub last commit](https://img.shields.io/github/last-commit/krasimir/gifffer)](https://github.com/krasimir/gifffer) - JavaScript library that prevents the autoplaying of the animated GIFs.
 - [Gifplayer ![GitHub Repo Stars](https://img.shields.io/github/stars/rubentd/gifplayer) ![GitHub last commit](https://img.shields.io/github/last-commit/rubentd/gifplayer)](https://github.com/rubentd/gifplayer) - JQuery plugin to play and stop animated GIFs.
-- [Jsgif ![GitHub Repo Stars](https://img.shields.io/github/stars/shachaf/jsgif) ![GitHub last commit](https://img.shields.io/github/last-commit/shachaf/jsgif)](https://github.com/shachaf/jsgif) - JavaScript GIF parser and player.
-- [node-gify ![GitHub Repo Stars](https://img.shields.io/github/stars/tj/node-gify) ![GitHub last commit](https://img.shields.io/github/last-commit/tj/node-gify)](https://github.com/tj/node-gify) - JavaScript convert videos to GIFs using ffmpeg and gifsicle.
+- [node-gify ![GitHub Repo Stars](https://img.shields.io/github/stars/tj/node-gify) ![GitHub last commit](https://img.shields.io/github/last-commit/tj/node-gify)](https://github.com/tj/node-gify) - JavaScript convert videos to GIFs using FFmpeg and gifsicle.
 - [Gifencoder ![GitHub Repo Stars](https://img.shields.io/github/stars/eugeneware/gifencoder) ![GitHub last commit](https://img.shields.io/github/last-commit/eugeneware/gifencoder)](https://github.com/eugeneware/gifencoder) - Server side animated GIF generation for Node.js.
-- [Gif-video ![GitHub Repo Stars](https://img.shields.io/github/stars/hughsk/gif-video) ![GitHub last commit](https://img.shields.io/github/last-commit/hughsk/gif-video)](https://github.com/hughsk/gif-video) - JavaScript Convert a GIF image into an HTML5-ready video.
-- [Gif-player ![GitHub Repo Stars](https://img.shields.io/github/stars/apankrat/gif-player) ![GitHub last commit](https://img.shields.io/github/last-commit/apankrat/gif-player)](https://github.com/apankrat/gif-player) - On-demand GIF loader/player in JavaScript.
-- [GifgifLab-face ![GitHub Repo Stars](https://img.shields.io/github/stars/Viral-MediaLab/gifgifLab-face) ![GitHub last commit](https://img.shields.io/github/last-commit/Viral-MediaLab/gifgifLab-face)](https://github.com/Viral-MediaLab/gifgifLab-face) - Facial-emotion detectors.
-- [node-youtube ![GitHub Repo Stars](https://img.shields.io/github/stars/javascipt/node-youtube) ![GitHub last commit](https://img.shields.io/github/last-commit/javascipt/node-youtube)](https://github.com/javascipt/node-youtube) - YouTube to snapshots and GIFs.
 
 ### PHP
 
 - [GifCreator ![GitHub Repo Stars](https://img.shields.io/github/stars/Sybio/GifCreator) ![GitHub last commit](https://img.shields.io/github/last-commit/Sybio/GifCreator)](https://github.com/Sybio/GifCreator) - PHP class that creates animated GIF from multiple images.
-- [Spacer.gif ![GitHub Repo Stars](https://img.shields.io/github/stars/msng/spacer.gif) ![GitHub last commit](https://img.shields.io/github/last-commit/msng/spacer.gif)](https://github.com/msng/spacer.gif) - PHP script offering spacer.gif 1x1.
 - [GifFrameExtractor ![GitHub Repo Stars](https://img.shields.io/github/stars/Sybio/GifFrameExtractor) ![GitHub last commit](https://img.shields.io/github/last-commit/Sybio/GifFrameExtractor)](https://github.com/Sybio/GifFrameExtractor) - PHP class that separates all the frames of an animated GIF.
 
 ### Objective-C
 
-- [UIimage from GIF ![GitHub Repo Stars](https://img.shields.io/github/stars/mayoff/uiimage-from-animated-gif) ![GitHub last commit](https://img.shields.io/github/last-commit/mayoff/uiimage-from-animated-gif)](https://github.com/mayoff/uiimage-from-animated-gif) - UIImage category that loads animated GIFs.
-- [GIFRefreshControl ![GitHub Repo Stars](https://img.shields.io/github/stars/cyndibaby905/GIFRefreshControl) ![GitHub last commit](https://img.shields.io/github/last-commit/cyndibaby905/GIFRefreshControl)](https://github.com/cyndibaby905/GIFRefreshControl) - "Twitter music" and "Yahoo! Weather" like pull-to-refresh control.
-- [UIImageView-PlayGIF ![GitHub Repo Stars](https://img.shields.io/github/stars/yfme/UIImageView-PlayGIF) ![GitHub last commit](https://img.shields.io/github/last-commit/yfme/UIImageView-PlayGIF)](https://github.com/yfme/UIImageView-PlayGIF) - UIImageView category/subclass for playing GIF.
 - [FLAnimatedImage ![GitHub Repo Stars](https://img.shields.io/github/stars/Flipboard/FLAnimatedImage) ![GitHub last commit](https://img.shields.io/github/last-commit/Flipboard/FLAnimatedImage)](https://github.com/Flipboard/FLAnimatedImage) - GIF engine for iOS by FlipBoard.
-- [Animated-GIF-iPhone ![GitHub Repo Stars](https://img.shields.io/github/stars/arturogutierrez/Animated-GIF-iPhone) ![GitHub last commit](https://img.shields.io/github/last-commit/arturogutierrez/Animated-GIF-iPhone)](https://github.com/arturogutierrez/Animated-GIF-iPhone) - Support for Animated GIF on iOS.
-- [UzysAnimatedGifPullToRefresh ![GitHub Repo Stars](https://img.shields.io/github/stars/uzysjung/UzysAnimatedGifPullToRefresh) ![GitHub last commit](https://img.shields.io/github/last-commit/uzysjung/UzysAnimatedGifPullToRefresh)](https://github.com/uzysjung/UzysAnimatedGifPullToRefresh) - PullToRefresh using animated GIF to any scrollView.
-- [SvGifView ![GitHub Repo Stars](https://img.shields.io/github/stars/smileEvday/SvGifView) ![GitHub last commit](https://img.shields.io/github/last-commit/smileEvday/SvGifView)](https://github.com/smileEvday/SvGifView) - iOS load and display GIF.
-- [GifHUD ![GitHub Repo Stars](https://img.shields.io/github/stars/cemolcay/GiFHUD) ![GitHub last commit](https://img.shields.io/github/last-commit/cemolcay/GiFHUD)](https://github.com/cemolcay/GiFHUD) - iOS progress hud for displaying only animated GIF images.
-- [Video-Background GIF ![GitHub Repo Stars](https://img.shields.io/github/stars/ElvinJin/Video-Background-GIF) ![GitHub last commit](https://img.shields.io/github/last-commit/ElvinJin/Video-Background-GIF)](https://github.com/ElvinJin/Video-Background-GIF) - iOS Video Background GIF.
-- [AnimatedGifExample ![GitHub Repo Stars](https://img.shields.io/github/stars/kasatani/AnimatedGifExample) ![GitHub last commit](https://img.shields.io/github/last-commit/kasatani/AnimatedGifExample)](https://github.com/kasatani/AnimatedGifExample) - iOS animated and transparent GIFs.
 
 ### Swift
 
@@ -149,11 +107,9 @@ A list of tools, scripts, libraries, examples & other resources related to the G
 
 - [Glyph](http://www.glyph.video/) - Tool for generating seamlessly looping GIFs and cinemagraphs from videos.
 - [Qgifer](https://sourceforge.net/projects/qgifer/)
-- [GifPro ![GitHub Repo Stars](https://img.shields.io/github/stars/unixpickle/GifPro) ![GitHub last commit](https://img.shields.io/github/last-commit/unixpickle/GifPro)](https://github.com/unixpickle/GifPro) - GIF encoder for Mac.
 
 ## Hosting
 
-- [Gfycat](https://gfycat.com) - Maximum GIF/video length: 15 seconds.  Maximum file upload is 300Mb.
 - [Imgur](https://imgur.com) - Maximum file upload is 50MB.
 
 ## Online Tools
@@ -161,6 +117,7 @@ A list of tools, scripts, libraries, examples & other resources related to the G
 - [Vid2gif](https://imgur.com/vidgif) - Video to GIF by imgur.
 - [EzGif](https://ezgif.com/) - Online GIF maker and image editor.
 - [Giflr](https://giflr.com/) - A web app for making or remixing animated GIFs.
+- [GIF Frame Extractor](https://giftoframes.org/) - Convert animated GIFs into individual frames online.
 
 ## Community
 
@@ -176,9 +133,9 @@ FFmpeg
 ffmpeg -f image2 -i image%d.jpg animated.gif
 ```
 
-Imagemagick
+ImageMagick
 ```bash
-convert   -delay 20   -loop 0   frames*.png   animated.gif
+magick -delay 20 -loop 0 frames*.png animated.gif
 ```
 Bash script (```frames2gif.sh```) for GraphicsMagick, ImageMagick, FFmpeg
 ```bash
@@ -194,7 +151,7 @@ fi
         suffix="jpg"
     fi
 
-    CONVERT=$(which convert)
+    CONVERT=$(which magick)
     GM=$(which gm)
     FFMPEG=$(which ffmpeg)
     FFPROBE=$(which ffprobe)
@@ -219,12 +176,12 @@ From [DeepDreamVideo ![GitHub Repo Stars](https://img.shields.io/github/stars/gr
 ffmpeg -i video.mpg image%d.jpg
 ```
 ```bash
-convert -coalesce animated.gif image%05d.png
+magick animated.gif -coalesce image%05d.png
 ```
 
 ### High quality GIF
 
-with ffmpeg / based on this [article](http://blog.pkh.me/p/21-high-quality-gif-with-ffmpeg.html)
+with FFmpeg / based on this [article](http://blog.pkh.me/p/21-high-quality-gif-with-ffmpeg.html)
 
 - Generate a palette :
 
@@ -247,8 +204,8 @@ ffmpeg -ss $start_time -t $duration -i input.avi -i palette.png -filter_complex 
 
 ### Optimize GIF
 
-```
-convert -layers Optimize output.gif output_optimized.gif
+```bash
+magick output.gif -layers Optimize output_optimized.gif
 ```
 
 ### Lossy GIF Compressor
@@ -263,11 +220,11 @@ convert -layers Optimize output.gif output_optimized.gif
 ### Making GIF from video
 
 ```python
-from moviepy.editor import *
+from moviepy import VideoFileClip
 
 clip = (VideoFileClip("input.avi")
-        .subclip((4,00.00),(5,00.00))
-        .resize(0.3))
+        .subclipped((4,00.00),(5,00.00))
+        .resized(0.3))
 clip.write_gif("output.gif")
 
 ```
@@ -279,12 +236,12 @@ clip.write_gif("output.gif")
 Freezing a region
 
 ```python
-from moviepy.editor import *
+from moviepy import VideoFileClip, vfx
 
 clip = (VideoFileClip("input.avi")
-        .subclip((4,00.00),(5,00.00))
-        .resize(0.3)
-        .fx(vfx.freeze_region, outside_region=(170, 230, 380, 320)))
+        .subclipped((4,00.00),(5,00.00))
+        .resized(0.3)
+        .with_effects([vfx.FreezeRegion(outside_region=(170, 230, 380, 320))]))
 clip.write_gif("output.gif", fps=15)
 ```
 <!--lint ignore double-link-->
@@ -310,59 +267,27 @@ ffmpeg \
 ### Perfect Loop
 
 ```python
-import moviepy.editor as mp
+from moviepy import VideoFileClip
 from moviepy.video.tools.cuts import FramesMatches
 
-clip = mp.VideoFileClip("input.avi").resize(0.3)
+clip = VideoFileClip("input.avi").resized(0.3)
 scenes = FramesMatches.from_clip(clip, 10, 3)
 
 selected_scenes = scenes.select_scenes(2, 1, 4, 0.5)
-selected_scenes.write_gifs(clip.resize(width=450), "./outputs_directory")
+selected_scenes.write_gifs(clip.resized(width=450), "./outputs_directory")
 
 ```
 [article](http://zulko.github.io/blog/2015/02/01/extracting-perfectly-looping-gifs-from-videos-with-python-and-moviepy/)
 
 ### YouTube video to GIF
 
-- Download it via youtube-dl and then convert it.
+- Download it via yt-dlp and then convert it.
 
+```bash
+yt-dlp https://www.youtube.com/watch?v=V2XpsaLqXc8
 ```
-youtube-dl https://www.youtube.com/watch?v=V2XpsaLqXc8
-```
 
-[Youtube-dl](https://rg3.github.io/youtube-dl/)
-
-### Grabbing each frame of an HTML5 Canvas
-
-Using [PhantomJS](https://phantomjs.org).
-
-Example with this [canvas](http://www.effectgames.com/demos/canvascycle/?sound=0).
-
-```javascript
-var webPage = require('webpage');
-var fs = require('fs');
-var page = webPage.create();
-
-var NB_FRAME = 100;
-var current = 0;
-
-page.open('http://www.effectgames.com/demos/canvascycle/?sound=0',
-function(status) {
-  if (status === "success") {
-      var current = 0;
-      var grabber = setInterval(function () {
-          var frame = page.evaluate(function() {
-           return document.getElementById('mycanvas').toDataURL("image/png").split(",")[1];
-          });
-          fs.write("./frame-" + current + ".png",atob(frame), 'wb');
-      if (++current === NB_FRAME) {
-         window.clearInterval(grabber);
-         phantom.exit(0);
-      }
-    }, 1000);
-  }
-});
-```
+[yt-dlp ![GitHub Repo Stars](https://img.shields.io/github/stars/yt-dlp/yt-dlp) ![GitHub last commit](https://img.shields.io/github/last-commit/yt-dlp/yt-dlp)](https://github.com/yt-dlp/yt-dlp)
 
 ## Miscellaneous
 
