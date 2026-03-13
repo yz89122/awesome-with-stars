@@ -328,6 +328,8 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 - [bingada ![GitHub Repo Stars](https://img.shields.io/github/stars/jfuica/bingada) ![GitHub last commit](https://img.shields.io/github/last-commit/jfuica/bingada)](https://github.com/jfuica/bingada) - Bingo application in [gtkada].
 - [civ-klon ![GitHub Repo Stars](https://img.shields.io/github/stars/HonkiTonk/Civ-Klon) ![GitHub last commit](https://img.shields.io/github/last-commit/HonkiTonk/Civ-Klon)](https://github.com/HonkiTonk/Civ-Klon) - Civilization-style turn-based strategy game. Requires [asfml].
 - [eepers ![GitHub Repo Stars](https://img.shields.io/github/stars/tsoding/eepers) ![GitHub last commit](https://img.shields.io/github/last-commit/tsoding/eepers)](https://github.com/tsoding/eepers) - A simple Turn-based Game in Ada (made with [raylib ![GitHub Repo Stars](https://img.shields.io/github/stars/raysan5/raylib) ![GitHub last commit](https://img.shields.io/github/last-commit/raysan5/raylib)](https://github.com/raysan5/raylib)).
+- [gade ![GitHub Repo Stars](https://img.shields.io/github/stars/ellamosi/gade) ![GitHub last commit](https://img.shields.io/github/last-commit/ellamosi/gade)](https://github.com/ellamosi/gade) - A Game Boy emulation library in Ada.
+- [gade-sdl ![GitHub Repo Stars](https://img.shields.io/github/stars/ellamosi/gade-sdl) ![GitHub last commit](https://img.shields.io/github/last-commit/ellamosi/gade-sdl)](https://github.com/ellamosi/gade-sdl) - An SDL2 Game Boy emulation front end for [Gade ![GitHub Repo Stars](https://img.shields.io/github/stars/ellamosi/gade) ![GitHub last commit](https://img.shields.io/github/last-commit/ellamosi/gade)](https://github.com/ellamosi/gade) using [SDLAda ![GitHub Repo Stars](https://img.shields.io/github/stars/Lucretia/sdlada) ![GitHub last commit](https://img.shields.io/github/last-commit/Lucretia/sdlada)](https://github.com/Lucretia/sdlada).
 
 ## Frameworks
 
@@ -403,6 +405,7 @@ language.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [bbt ![GitHub Repo Stars](https://img.shields.io/github/stars/LionelDraghi/bbt) ![GitHub last commit](https://img.shields.io/github/last-commit/LionelDraghi/bbt)](https://github.com/LionelDraghi/bbt) - Simple tool to black box check the behavior of an executable through the command line.
 - [gnatbdd ![GitHub Repo Stars](https://img.shields.io/github/stars/briot/gnatbdd) ![GitHub last commit](https://img.shields.io/github/last-commit/briot/gnatbdd)](https://github.com/briot/gnatbdd) - Behavior Driven Development in Ada.
 - [scripted-testing ![GitHub Repo Stars](https://img.shields.io/github/stars/simonjwright/scripted_testing) ![GitHub last commit](https://img.shields.io/github/last-commit/simonjwright/scripted_testing)](https://github.com/simonjwright/scripted_testing) - Supports functional testing using Tcl scripts.
+- [testy ![GitHub Repo Stars](https://img.shields.io/github/stars/tomekw/testy) ![GitHub last commit](https://img.shields.io/github/last-commit/tomekw/testy)](https://github.com/tomekw/testy) - Ada testing framework, part of [Tada ![GitHub Repo Stars](https://img.shields.io/github/stars/tomekw/tada) ![GitHub last commit](https://img.shields.io/github/last-commit/tomekw/tada)](https://github.com/tomekw/tada).
 
 ### Logging
 - [alog](https://www.codelabs.ch/alog/) - Stackable logging framework for Ada.
@@ -732,6 +735,7 @@ language.  It is loosely modelled after JUnit and some ideas from AUnit.
 ### Multimedia
 - [ada-3ds ![GitHub Repo Stars](https://img.shields.io/github/stars/AdaDoom3/Ada3DS) ![GitHub last commit](https://img.shields.io/github/last-commit/AdaDoom3/Ada3DS)](https://github.com/AdaDoom3/Ada3DS) - A simple 3DS Max model renderer.
 - [canta](https://sourceforge.net/projects/canta/) - A tool to help to sing in tune.
+- [blackvideo-mini-player ![GitHub Repo Stars](https://img.shields.io/github/stars/BlackBlazent/blackvideo-mini-player) ![GitHub last commit](https://img.shields.io/github/last-commit/BlackBlazent/blackvideo-mini-player)](https://github.com/BlackBlazent/blackvideo-mini-player) - A stand-alone lightweight auxiliary video player support for [``BlackVideo`` ![GitHub Repo Stars](https://img.shields.io/github/stars/BlackBlazent/BlackVideo) ![GitHub last commit](https://img.shields.io/github/last-commit/BlackBlazent/BlackVideo)](https://github.com/BlackBlazent/BlackVideo). 
 
 ### Automation
 - [acnc ![GitHub Repo Stars](https://img.shields.io/github/stars/Fabien-Chouteau/ACNC) ![GitHub last commit](https://img.shields.io/github/last-commit/Fabien-Chouteau/ACNC)](https://github.com/Fabien-Chouteau/ACNC) - A G-code parser and CNC controller (in Ada).
