@@ -1224,13 +1224,3 @@ Some data mining competition platforms
 
 ### Hobby
 - [Awesome Music Production ![GitHub Repo Stars](https://img.shields.io/github/stars/ad-si/awesome-music-production) ![GitHub last commit](https://img.shields.io/github/last-commit/ad-si/awesome-music-production)](https://github.com/ad-si/awesome-music-production)
-
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-YL0RV0E5XZ"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-YL0RV0E5XZ');
-</script>
