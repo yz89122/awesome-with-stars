@@ -177,6 +177,7 @@ _List inspired by the [awesome ![GitHub Repo Stars](https://img.shields.io/githu
 - [ogimg.xyz](https://ogimg.xyz) - OG image generation API with 10 templates, background patterns, and URL auto-fetch. Built with Next.js + Satori on Vercel Edge.
 - [ShotOG ![GitHub Repo Stars](https://img.shields.io/github/stars/nicepkg/shotog) ![GitHub last commit](https://img.shields.io/github/last-commit/nicepkg/shotog)](https://github.com/nicepkg/shotog) - Dynamic OG image generation API for Next.js apps, powered by Cloudflare Workers.
 - [Frontman ![GitHub Repo Stars](https://img.shields.io/github/stars/frontman-ai/frontman) ![GitHub last commit](https://img.shields.io/github/last-commit/frontman-ai/frontman)](https://github.com/frontman-ai/frontman) - An open-source AI coding agent that lives in your browser, enabling visual element selection and plain-English code edits with hot reload.
+- [@farming-labs/docs ![GitHub Repo Stars](https://img.shields.io/github/stars/farming-labs/docs) ![GitHub last commit](https://img.shields.io/github/last-commit/farming-labs/docs)](https://github.com/farming-labs/docs) - A modern documentation framework that works. One config file, zero boilerplate.
 
 ## Apps
 
