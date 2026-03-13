@@ -41,6 +41,7 @@
 
 ## Cookbooks
 
+- [tasty-cooking ![GitHub Repo Stars](https://img.shields.io/github/stars/douvy/tasty-cooking) ![GitHub last commit](https://img.shields.io/github/last-commit/douvy/tasty-cooking)](https://github.com/douvy/tasty-cooking) - A collection of high-quality and easy-to-follow recipes with best-in-class minimalist responsive design, focused on speed, accessibility, and visual appeal.
 - [the-bread-code ![GitHub Repo Stars](https://img.shields.io/github/stars/hendricius/the-bread-code) ![GitHub last commit](https://img.shields.io/github/last-commit/hendricius/the-bread-code)](https://github.com/hendricius/the-bread-code) - Learn how to master the art of baking the programmer way.
 - [1337-Noms-The-Hacker-Cookbook ![GitHub Repo Stars](https://img.shields.io/github/stars/DEAD10C5/1337-Noms-The-Hacker-Cookbook) ![GitHub last commit](https://img.shields.io/github/last-commit/DEAD10C5/1337-Noms-The-Hacker-Cookbook)](https://github.com/DEAD10C5/1337-Noms-The-Hacker-Cookbook) - The goal of this repo is to collect recipes for an eclectic mix of dishes from around the hacker community.
 - [Vegan-chocolate-seduction-cookbook ![GitHub Repo Stars](https://img.shields.io/github/stars/the-domains/vegan-chocolate-seduction-cookbook) ![GitHub last commit](https://img.shields.io/github/last-commit/the-domains/vegan-chocolate-seduction-cookbook)](https://github.com/the-domains/vegan-chocolate-seduction-cookbook) - Several great vegan chocolate recipes.
