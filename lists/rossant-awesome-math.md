@@ -372,7 +372,7 @@ All resources are freely available except those with a 💲 icon.
 
 ## Combinatorics
 
-* 📝 [Basic Combinatorics](http://web.math.utk.edu/~wagner/papers/comb.pdf) - Carl G. Wagner (University of Tennessee)
+* �� [Basic Combinatorics](http://web.math.utk.edu/~wagner/papers/comb.pdf) - Carl G. Wagner (University of Tennessee)
 * 📝 [Applied Combinatorics](http://people.math.gatech.edu/~trotter/book.pdf) - Mitchel T. Keller, William T. Trotter
 * 📝 [Notes on Combinatorics](http://www.maths.qmul.ac.uk/~pjc/notes/comb.pdf) - Peter J. Cameron
 * 📝 [Analytic Combinatorics](http://algo.inria.fr/flajolet/Publications/book.pdf) - Philippe Flajolet, Robert Sedgewick
@@ -420,7 +420,7 @@ All resources are freely available except those with a 💲 icon.
 * 📝 [The Stacks Project](https://stacks.math.columbia.edu/) - Maintained by Aise Johan de Jong (Columbia)
 
 ### Algebraic Statistics
-* 📝 [Lectures on Algebraic Statistics](https://math.berkeley.edu/~bernd/owl.pdf) - Mathias Drton, Bernd Sturmfels, Seth Sullivant
+* �� [Lectures on Algebraic Statistics](https://math.berkeley.edu/~bernd/owl.pdf) - Mathias Drton, Bernd Sturmfels, Seth Sullivant
 * 📝 [An Introduction to Algebraic Statistics](https://www3.diism.unisi.it/~chiantini/did/00Book.pdf) - Cristiano Bocci, Luca Chiantini and Anthony V. Geramita
 * 📝 [Algebraic Statistics](https://tore.tuhh.de/dspace-cris-server/api/core/bitstreams/a0c378d5-ce8e-442a-8891-9e7f763b4279/content) - Karl-Heinz Zimmermann
 * 📝 [Algebraic Statistics for Computational Biology](http://yaroslavvb.com/papers/pachter-algebraic.pdf) - Pachter, and Sturmfels.
