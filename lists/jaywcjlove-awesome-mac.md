@@ -1291,6 +1291,7 @@ Any comments, suggestions? [Let us know! ![GitHub Repo Stars](https://img.shield
 * [Pomodoro Cycle ![GitHub Repo Stars](https://img.shields.io/github/stars/jet8a/pomodoro-cycle-app) ![GitHub last commit](https://img.shields.io/github/last-commit/jet8a/pomodoro-cycle-app)](https://github.com/jet8a/pomodoro-cycle-app) - Pomodoro tracker
 * [Qbserve](https://qotoqot.com/qbserve/) - Time tracking automation: freelance project tracking, timesheets, invoicing & real-time productivity feedback.
 * [Raycast](https://raycast.com?via=ae02) - Raycast lets you control your tools and apps with shortcuts, download extensions from the store, and use AI models like ChatGPT, DeepSeek, Gemini, Claude, etc. You can also create snippets and use Raycast Notes to maximize your productivity.
+* [Rustcast](https://rustcast.app) - Workflow launcher for modes, quick app access, file search, clipboard history, and more. [![Open-Source Software][OSS Icon]](https://github.com/unsecretised/rustcast) ![Freeware][Freeware Icon]
 * [RescueTime](https://www.rescuetime.com/) - Personal analytics service that shows you how you spend your time and provides tools to help you be more productive.
 * [SuperCorners](https://supercorners.vercel.app/) - Make your screen corners more powerful — turn Hot Corners into efficient workflow triggers. [![Open-Source Software][OSS Icon]](https://github.com/daniyalmaster693/SuperCorners) ![Freeware][Freeware Icon]
 * [Rize](https://rize.io/) - A.I. powered time tracker that automatically improves your focus and helps you build better work habits.
