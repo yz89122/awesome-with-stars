@@ -154,7 +154,6 @@ IRC (Internet Relay Chat) is an open source protocol that can be used for multi-
 - [slack-irc ![GitHub Repo Stars](https://img.shields.io/github/stars/ekmartin/slack-irc) ![GitHub last commit](https://img.shields.io/github/last-commit/ekmartin/slack-irc)](https://github.com/ekmartin/slack-irc) - Slack ↔ IRC. `JavaScript`
 - [irc-slack ![GitHub Repo Stars](https://img.shields.io/github/stars/insomniacslk/irc-slack) ![GitHub last commit](https://img.shields.io/github/last-commit/insomniacslk/irc-slack)](https://github.com/insomniacslk/irc-slack) - Slack ↔ IRC. `Go`
 - [BitlBee](https://www.bitlbee.org/main.php/news.r.html) - XMPP, Jabber, Google Talk, MSN Messenger, Yahoo! Messenger, AIM, ICQ, Twitter API, HipChat ↔ IRC. `C`
-- [Biboumi](https://biboumi.louiz.org/) - IRC gateway for XMPP clients `C`
 - [teleirc ![GitHub Repo Stars](https://img.shields.io/github/stars/RITlug/teleirc) ![GitHub last commit](https://img.shields.io/github/last-commit/RITlug/teleirc)](https://github.com/RITlug/teleirc) - Telegram ↔ IRC. `JavaScript`
 - [toxirc ![GitHub Repo Stars](https://img.shields.io/github/stars/e0ff/toxirc) ![GitHub last commit](https://img.shields.io/github/last-commit/e0ff/toxirc)](https://github.com/e0ff/toxirc) - Tox ↔ IRC. `C`
 - [skyweb2irc ![GitHub Repo Stars](https://img.shields.io/github/stars/ProgVal/skyweb2irc) ![GitHub last commit](https://img.shields.io/github/last-commit/ProgVal/skyweb2irc)](https://github.com/ProgVal/skyweb2irc) - Skype (webclient API) ↔ IRC. `Javascript`
@@ -190,7 +189,6 @@ IRC (Internet Relay Chat) is an open source protocol that can be used for multi-
 *Articles and blog posts about IRC.*
 
 - [Please don't use Slack for FOSS projects](https://drewdevault.com/2015/11/01/Please-stop-using-slack.html) - Drew DeVault's Blog.
-- [IRC Networks Under Systematic Attack From Governments](https://www.quakenet.org/articles/102-press-release-irc-networks-under-systematic-attack-from-governments) - QuakeNet.
 - [IRC is dead, long live IRC](https://www.pingdom.com/blog/irc-is-dead-long-live-irc/) - Pingdom.
 - [IRC Has Lost 60% Of Its Users Since 2003, But Life As A Robot Is Just Beginning](https://techcrunch.com/2013/01/06/irc-has-lost-60-of-its-users-since-2003-but-life-as-a-robot-is-just-beginning/) - Alex Williams (TechCrunch).
 
