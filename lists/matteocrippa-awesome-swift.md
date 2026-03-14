@@ -10,7 +10,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 | Awesome | Linux | Projects | Updated |
 |:-------:|:-----:|:--------:|:-------:|
-| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | :penguin: | 1089 | March 11, 2026 |
+| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | :penguin: | 1090 | March 14, 2026 |
 
 In parternship with:
 
@@ -1064,6 +1064,7 @@ In parternship with:
 * [SwiftHTTP ![GitHub Repo Stars](https://img.shields.io/github/stars/daltoniam/SwiftHTTP) ![GitHub last commit](https://img.shields.io/github/last-commit/daltoniam/SwiftHTTP)](https://github.com/daltoniam/SwiftHTTP) - NSURLSession wrapper.
 * [SwiftyOAuth ![GitHub Repo Stars](https://img.shields.io/github/stars/delba/SwiftyOAuth) ![GitHub last commit](https://img.shields.io/github/last-commit/delba/SwiftyOAuth)](https://github.com/delba/SwiftyOAuth) - A small OAuth library with a built-in set of providers.
 * [TermiNetwork ![GitHub Repo Stars](https://img.shields.io/github/stars/billp/TermiNetwork) ![GitHub last commit](https://img.shields.io/github/last-commit/billp/TermiNetwork)](https://github.com/billp/TermiNetwork) - 🌏 A zero-dependency networking solution for building modern and secure iOS, watchOS, macOS and tvOS applications.
+* [Tiercel ![GitHub Repo Stars](https://img.shields.io/github/stars/Danie1s/Tiercel) ![GitHub last commit](https://img.shields.io/github/last-commit/Danie1s/Tiercel)](https://github.com/Danie1s/Tiercel) - Background downloads, relaunch recovery, resumable transfers, and task management for iOS apps.
 * [TRON ![GitHub Repo Stars](https://img.shields.io/github/stars/MLSDev/TRON) ![GitHub last commit](https://img.shields.io/github/last-commit/MLSDev/TRON)](https://github.com/MLSDev/TRON) - Lightweight network abstraction layer, written on top of Alamofire.
 * [Wormholy ![GitHub Repo Stars](https://img.shields.io/github/stars/pmusolino/Wormholy) ![GitHub last commit](https://img.shields.io/github/last-commit/pmusolino/Wormholy)](https://github.com/pmusolino/Wormholy) - iOS network debugging, like a wizard 🧙‍.
 
