@@ -79,7 +79,8 @@ A note on abbreviations: `CC` is ComputerCraft, `CC:T` is ComputerCraft: Tweaked
 ### Utility
 
 - [Artist ![GitHub Repo Stars](https://img.shields.io/github/stars/SquidDev-CC/artist) ![GitHub last commit](https://img.shields.io/github/last-commit/SquidDev-CC/artist)](https://github.com/SquidDev-CC/artist) -  One of the first item management systems for ComputerCraft.
-- [ComputerCraft Advanced Shell (cash)](https://cash.madefor.cc) -  A Bourne-compatible shell for ComputerCraft. 
+- [ComputerCraft Advanced Shell (cash)](https://cash.madefor.cc) -  A Bourne-compatible shell for ComputerCraft.
+- [CCVim ![GitHub Repo Stars](https://img.shields.io/github/stars/Minater247/CCVim) ![GitHub last commit](https://img.shields.io/github/last-commit/Minater247/CCVim)](https://github.com/Minater247/CCVim/tree/rewrite-2026) - A faithful port of Vim for ComputerCraft.
 - [Consult](https://consult.madefor.cc) -  A text editor emphasizing ease of use and compatibility with many systems. 
     - [Consult: Recrafted ![GitHub Repo Stars](https://img.shields.io/github/stars/manaphoenix/CONSULT_RECRAFTED) ![GitHub last commit](https://img.shields.io/github/last-commit/manaphoenix/CONSULT_RECRAFTED)](https://github.com/manaphoenix/CONSULT_RECRAFTED) -  A fork of Consult for Recrafted systems.
 - [`hopper.lua` ![GitHub Repo Stars](https://img.shields.io/github/stars/umnikos/hopper.lua) ![GitHub last commit](https://img.shields.io/github/last-commit/umnikos/hopper.lua)](https://github.com/umnikos/hopper.lua) - A command-line program for moving items between containers.
