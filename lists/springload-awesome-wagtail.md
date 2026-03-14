@@ -333,7 +333,7 @@ _You might also like [Awesome Django ![GitHub Repo Stars](https://img.shields.io
 - [Learning Wagtail – Wagtail Space US 2018](https://www.youtube.com/watch?v=C-tXt5fLj_s&index=11&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV) by Dawn Wages.
 - [Sharing is Caring – Wagtail Space US 2018](https://www.youtube.com/watch?v=6AXyg6vvMTE&index=12&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV) by Andy Chosak.
 - [Lightning Talks – Wagtail Space US 2018](https://www.youtube.com/watch?v=uoxyBIpaXTU&index=13&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV)
-- [Wagtail: к��гда хочется чего-то приятнее, чем просто Django – Moscow Python Conf++ 2018](https://www.youtube.com/watch?v=xPPfTvLS7oQ) by Игорь Мосягин
+- [Wagtail: когда хочется чего-то приятнее, чем просто Django – Moscow Python Conf++ 2018](https://www.youtube.com/watch?v=xPPfTvLS7oQ) by Игорь Мосягин
 - [The State of Wagtail – Wagtail Space 2019](https://www.youtube.com/watch?t=592&v=MAzZ2lhMhzM) by Tom Dyson.
 - [Image rotation feature – Wagtail Space 2019](https://www.youtube.com/watch?t=2057&v=MAzZ2lhMhzM) by Chris Adams. Code.
 - [Debug templates – Wagtail Space 2019](https://www.youtube.com/watch?t=2264&v=MAzZ2lhMhzM) by Coen van der Kamp.
