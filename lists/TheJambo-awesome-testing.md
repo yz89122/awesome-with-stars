@@ -123,6 +123,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 
 ### Test Automation Frameworks
 - [Robot Framework](https://robotframework.org/) - Generic open-source automation framework for testing and RPA.
+- [OpenTester ![GitHub Repo Stars](https://img.shields.io/github/stars/kznr02/OpenTester) ![GitHub last commit](https://img.shields.io/github/last-commit/kznr02/OpenTester)](https://github.com/kznr02/OpenTester) - MCP-First Testing Framwork: AI Agents Can Now Test Like Humans
 
 ### Screen Recording & Session Replays
 - [Captura ![GitHub Repo Stars](https://img.shields.io/github/stars/MathewSachin/Captura) ![GitHub last commit](https://img.shields.io/github/last-commit/MathewSachin/Captura)](https://github.com/MathewSachin/Captura) - Open-source video recording tool.
