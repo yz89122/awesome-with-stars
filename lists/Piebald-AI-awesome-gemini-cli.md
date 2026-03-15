@@ -97,6 +97,9 @@ Modified versions of Gemini CLI with enhanced features or alternative model supp
 - [squads-cli ![GitHub Repo Stars](https://img.shields.io/github/stars/agents-squads/squads-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/agents-squads/squads-cli)](https://github.com/agents-squads/squads-cli) - Open source CLI for AI agent coordination that organizes agents into domain-aligned squads with persistent memory, goal tracking, and Git-native state.  Works with Gemini CLI.
 
 - [wolfpack ![GitHub Repo Stars](https://img.shields.io/github/stars/almogdepaz/wolfpack) ![GitHub last commit](https://img.shields.io/github/last-commit/almogdepaz/wolfpack)](https://github.com/almogdepaz/wolfpack) - Mobile & desktop command center for controlling AI coding agents (Claude, Codex, Gemini) across machines from your phone. Secured by Tailscale. Self-hosted.
+
+- [Untether ![GitHub Repo Stars](https://img.shields.io/github/stars/littlebearapps/untether) ![GitHub last commit](https://img.shields.io/github/last-commit/littlebearapps/untether)](https://github.com/littlebearapps/untether) - Telegram bridge for Gemini CLI (and 5 other agents). Send tasks by voice, stream progress, configure approval mode (read-only/edit files/full access) via inline buttons. Self-hosted, MIT licensed.
+
 ## Fun
 
 Playful and creative tools inspired by or that add personality to Gemini CLI.
