@@ -286,7 +286,7 @@ If you like Mind Expanding books you should check out my new project http://diff
 |------|--------|------------------|----------------|
 | Behave: The Biology of Humans at Our Best and Worst | Robert M. Sapolsky | [4.42](https://www.goodreads.com/book/show/31170723-behave) | 2017 |
 | Asimov's New Guide to Science | Isaac Asimov | [4.36](https://www.goodreads.com/book/show/977262.Asimov_s_New_Guide_To_Science) | 1985 |
-| Factfulness: Ten Reasons We're Wrong About the World – and Why Things Are Better Than You Think | Hans Rosling | [4.36](https://www.goodreads.com/book/show/34890015-factfulness) | 2018 |
+| Factfulness: Ten Reasons We're Wrong About the World ��� and Why Things Are Better Than You Think | Hans Rosling | [4.36](https://www.goodreads.com/book/show/34890015-factfulness) | 2018 |
 | The Gene: An Intimate History | Siddhartha Mukherjee | [4.35](https://www.goodreads.com/book/show/27276428-the-gene) | 2016 |
 | Origins of Form: The Shape of Natural and Man-Made Things | Christopher Williams | [4.31](https://www.goodreads.com/book/show/16255011-origins-of-form) | 2013 |
 | The Body: A Guide for Occupants | Bill Bryson | [4.31](https://www.goodreads.com/book/show/43582376-the-body) | 2019 |
