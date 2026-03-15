@@ -560,7 +560,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [FlatBuffers ![GitHub Repo Stars](https://img.shields.io/github/stars/google/flatbuffers) ![GitHub last commit](https://img.shields.io/github/last-commit/google/flatbuffers)](https://github.com/google/flatbuffers) - Efficient cross-platform serialization library by _Google_.
     - 🎉 [JSON for Modern C++ ![GitHub Repo Stars](https://img.shields.io/github/stars/nlohmann/json) ![GitHub last commit](https://img.shields.io/github/last-commit/nlohmann/json)](https://github.com/nlohmann/json) - JSON support for Modern C++.
     - 🎉 [Protobuf ![GitHub Repo Stars](https://img.shields.io/github/stars/protocolbuffers/protobuf) ![GitHub last commit](https://img.shields.io/github/last-commit/protocolbuffers/protobuf)](https://github.com/protocolbuffers/protobuf) - Protocol Buffers, for platform-neutral serialized data by _Google_.
-    - ��� [RapidJSON ![GitHub Repo Stars](https://img.shields.io/github/stars/Tencent/rapidjson) ![GitHub last commit](https://img.shields.io/github/last-commit/Tencent/rapidjson)](https://github.com/Tencent/rapidjson/) - Fast JSON parser / generator.
+    - 🎉 [RapidJSON ![GitHub Repo Stars](https://img.shields.io/github/stars/Tencent/rapidjson) ![GitHub last commit](https://img.shields.io/github/last-commit/Tencent/rapidjson)](https://github.com/Tencent/rapidjson/) - Fast JSON parser / generator.
 - C++: Terrain
     - 🎉 [Terra Forge 3D ![GitHub Repo Stars](https://img.shields.io/github/stars/Jaysmito101/TerraForge3D) ![GitHub last commit](https://img.shields.io/github/last-commit/Jaysmito101/TerraForge3D)](https://github.com/Jaysmito101/TerraForge3D) - Procedural 3D terrain generation and texturing tool.
 - C++: Utility
@@ -1366,7 +1366,7 @@ _Software to help with game engine / video game development._
 - 💰 [Smear FX](https://codemanu.itch.io/smear-fx) - Make your 2D animations juicy by adding some smearing to them.
 
 ### Vector Editors
-- 🆓 [Inkscape](https://inkscape.org) - Cross-platform, open source vector graphics editor. [[Source ![GitHub Repo Stars](https://img.shields.io/github/stars/inkscape/inkscape) ![GitHub last commit](https://img.shields.io/github/last-commit/inkscape/inkscape)](https://github.com/inkscape/inkscape)]
+- ��� [Inkscape](https://inkscape.org) - Cross-platform, open source vector graphics editor. [[Source ![GitHub Repo Stars](https://img.shields.io/github/stars/inkscape/inkscape) ![GitHub last commit](https://img.shields.io/github/last-commit/inkscape/inkscape)](https://github.com/inkscape/inkscape)]
 - 🆓 [Krita](https://krita.org/en/) - Professional quality, open source painting. [[Source ![GitHub Repo Stars](https://img.shields.io/github/stars/KDE/krita) ![GitHub last commit](https://img.shields.io/github/last-commit/KDE/krita)](https://github.com/KDE/krita)]
 - 💰 [Vec Maker](https://kronbits.itch.io/vecmaker) - Easy to use vector design.
 

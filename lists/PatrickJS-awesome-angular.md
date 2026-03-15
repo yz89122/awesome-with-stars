@@ -2297,6 +2297,7 @@ for the creation of web applications developed with Angular.
 * [ngx-signalr-websocket ![GitHub Repo Stars](https://img.shields.io/github/stars/yurivoronin/ngx-signalr-websocket) ![GitHub last commit](https://img.shields.io/github/last-commit/yurivoronin/ngx-signalr-websocket)](https://github.com/yurivoronin/ngx-signalr-websocket) - A lightweight ASP.NET SignalR client for Angular.
 * [Keploy](https://keploy.io/docs/quickstart/openhospital/) - Record test cases and mocks by interacting with the Angular UI, and then test them using Keploy.
 * [alterior ![GitHub Repo Stars](https://img.shields.io/github/stars/alterior-mvc/alterior) ![GitHub last commit](https://img.shields.io/github/last-commit/alterior-mvc/alterior)](https://github.com/alterior-mvc/alterior) - Isomorphic TypeScript framework for building modular services with seamless Angular integration.
+* [23blocks SDK ![GitHub Repo Stars](https://img.shields.io/github/stars/23blocks-OS/frontend-sdk) ![GitHub last commit](https://img.shields.io/github/last-commit/23blocks-OS/frontend-sdk)](https://github.com/23blocks-OS/frontend-sdk) - Build full-stack apps 10x faster with modular backend blocks.
 
 ### Wrappers
 
