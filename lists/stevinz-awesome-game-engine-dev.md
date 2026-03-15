@@ -231,7 +231,7 @@ _Info on topics necessary for designing and developing game engines._
     - 📚 [Art of Game Design](https://www.amazon.com/Art-Game-Design-Book-Lenses/dp/0123694965) - Teaches game design in an accessible manner.
     - 📚 [Game Programming Patterns](https://gameprogrammingpatterns.com) - Patterns found in games that make code easier to understand.
 - Developer Portals
-    - ��� [Game Developer](https://www.gamedeveloper.com) - Industry blogs, events, jobs, updates and more. Formerly _Gamasutra_.
+    - 🌎 [Game Developer](https://www.gamedeveloper.com) - Industry blogs, events, jobs, updates and more. Formerly _Gamasutra_.
     - 🌎 [GameDev.net](https://www.gamedev.net/) - Game dev forums, tutorials, blogs, projects, portfolios, and news.
     - 🌎 [GameFromScratch.com](https://gamefromscratch.com) - Game dev news, tutorials and much more.
     - 🌎 [itch.io](https://itch.io) - Game dev resources and platform to showcase / promote / buy & sell games.
@@ -1366,7 +1366,7 @@ _Software to help with game engine / video game development._
 - 💰 [Smear FX](https://codemanu.itch.io/smear-fx) - Make your 2D animations juicy by adding some smearing to them.
 
 ### Vector Editors
-- ��� [Inkscape](https://inkscape.org) - Cross-platform, open source vector graphics editor. [[Source ![GitHub Repo Stars](https://img.shields.io/github/stars/inkscape/inkscape) ![GitHub last commit](https://img.shields.io/github/last-commit/inkscape/inkscape)](https://github.com/inkscape/inkscape)]
+- 🆓 [Inkscape](https://inkscape.org) - Cross-platform, open source vector graphics editor. [[Source ![GitHub Repo Stars](https://img.shields.io/github/stars/inkscape/inkscape) ![GitHub last commit](https://img.shields.io/github/last-commit/inkscape/inkscape)](https://github.com/inkscape/inkscape)]
 - 🆓 [Krita](https://krita.org/en/) - Professional quality, open source painting. [[Source ![GitHub Repo Stars](https://img.shields.io/github/stars/KDE/krita) ![GitHub last commit](https://img.shields.io/github/last-commit/KDE/krita)](https://github.com/KDE/krita)]
 - 💰 [Vec Maker](https://kronbits.itch.io/vecmaker) - Easy to use vector design.
 

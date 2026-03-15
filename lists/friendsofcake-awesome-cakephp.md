@@ -1,5 +1,8 @@
-# Awesome CakePHP [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-A curated list of amazingly awesome **CakePHP 5.x+** plugins, resources and shiny things.
+# Awesome CakePHP [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+> A curated list of CakePHP plugins, resources, and tools.
+
+[CakePHP](https://cakephp.org/) is a rapid development PHP framework that uses well-known design patterns like MVC and ORM. It provides a robust foundation for building web applications with conventions over configuration.
 
 If you are looking for previous CakePHP resources please visit:
 - the [CakePHP 2.x version ![GitHub Repo Stars](https://img.shields.io/github/stars/FriendsOfCake/awesome-cakephp) ![GitHub last commit](https://img.shields.io/github/last-commit/FriendsOfCake/awesome-cakephp)](https://github.com/FriendsOfCake/awesome-cakephp/tree/cake2) of this awesome list
@@ -16,7 +19,7 @@ Additional lists you might find useful:
 > plugin subparts (instead of only the whole plugin/repo), more granular
 > grouping and the primary focus on task-specific functionality.
 
-## Table of Contents
+## Contents
 
 - [Plugins](#plugins)
 	- [AI Tools](#ai-tools)
@@ -54,7 +57,7 @@ Additional lists you might find useful:
 	- [Third Party APIs](#third-party-apis)
 - [Software](#software)
 	- [Development Environment](#development-environment)
-- [Web Applications](#web-applications)
+	- [Web Applications](#web-applications)
 	- [CMS and applications built on CakePHP](#cms-and-applications-built-on-cakephp)
 	- [Demo](#demo)
 - [Resources](#resources)
@@ -66,28 +69,27 @@ Additional lists you might find useful:
 	- [CakePHP Reading and Listening](#cakephp-reading-and-listening)
 	- [CakePHP Internals Reading](#cakephp-internals-reading)
 - [Conferences](#conferences)
-- [Contributing](#contributing)
 
-# Plugins
+## Plugins
 
-## AI Tools
+### AI Tools
 *Plugins and libraries for integrating artificial intelligence and machine learning tools.*
 
 - [Crustum/OpenRouter plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/crustum/cakephp-open-router) ![GitHub last commit](https://img.shields.io/github/last-commit/crustum/cakephp-open-router)](https://github.com/crustum/cakephp-open-router) - Integration with OpenRouter service for unified LLM access, supporting multiple AI models with chat completions, streaming, tool calling, and web search.
 - [Synapse plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/josbeir/cakephp-synapse) ![GitHub last commit](https://img.shields.io/github/last-commit/josbeir/cakephp-synapse)](https://github.com/josbeir/cakephp-synapse) - Expose your application functionality via MCP, with built-in tools and documentation search to help you discover and interact with your app's capabilities.
 
-## Architecture
+### Architecture
 
 - [Burzum/CakeServiceLayer plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/burzum/cakephp-service-layer) ![GitHub last commit](https://img.shields.io/github/last-commit/burzum/cakephp-service-layer)](https://github.com/burzum/cakephp-service-layer) - Service layer and domain/business model implementation.
 
-## Asset Management
+### Asset Management
 *Managing, compressing and minifying website assets.*
 
 - [AssetCompress plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/markstory/asset_compress) ![GitHub last commit](https://img.shields.io/github/last-commit/markstory/asset_compress)](https://github.com/markstory/asset_compress) - A complete asset manager for CakePHP.
 - [AssetMix plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/ishanvyas22/asset-mix) ![GitHub last commit](https://img.shields.io/github/last-commit/ishanvyas22/asset-mix)](https://github.com/ishanvyas22/asset-mix) - Provides integration with [Laravel Mix](https://laravel-mix.com) asset compilation.
 - [CakeVite plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/josbeir/cakephp-vite) ![GitHub last commit](https://img.shields.io/github/last-commit/josbeir/cakephp-vite)](https://github.com/josbeir/cakephp-vite) - A fully-featured [Vite](https://vite.dev/) plugin (spiritual successor of [brandcom/cakephp-vite ![GitHub Repo Stars](https://img.shields.io/github/stars/brandcom/cakephp-vite) ![GitHub last commit](https://img.shields.io/github/last-commit/brandcom/cakephp-vite)](https://github.com/brandcom/cakephp-vite)).
 
-## Auditing / Logging
+### Auditing / Logging
 *Tracking changes and events in your app.*
 
 - [AuditStash plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/dereuromark/cakephp-audit-stash) ![GitHub last commit](https://img.shields.io/github/last-commit/dereuromark/cakephp-audit-stash)](https://github.com/dereuromark/cakephp-audit-stash) - Flexible and rock solid audit log tracking.
@@ -96,7 +98,7 @@ Additional lists you might find useful:
 - [Muffin/Footprint plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/UseMuffin/Footprint) ![GitHub last commit](https://img.shields.io/github/last-commit/UseMuffin/Footprint)](https://github.com/UseMuffin/Footprint) - Plugin to allow passing currently logged in user to model layer.
 - [Version plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/josegonzalez/cakephp-version) ![GitHub last commit](https://img.shields.io/github/last-commit/josegonzalez/cakephp-version)](https://github.com/josegonzalez/cakephp-version) - A plugin that facilitates versioned database entities.
 
-## Authentication and Authorization
+### Authentication and Authorization
 *Plugins and libraries for implementing authentication and authorization.*
 
 - [ADmad/SocialAuth plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/ADmad/cakephp-social-auth) ![GitHub last commit](https://img.shields.io/github/last-commit/ADmad/cakephp-social-auth)](https://github.com/ADmad/cakephp-social-auth) - A plugin which allows you to authenticate using social providers like Facebook/Google/Twitter etc. using [SocialConnect/auth ![GitHub Repo Stars](https://img.shields.io/github/stars/SocialConnect/auth) ![GitHub last commit](https://img.shields.io/github/last-commit/SocialConnect/auth)](https://github.com/SocialConnect/auth) social sign on library.
@@ -110,13 +112,13 @@ Additional lists you might find useful:
 - [Tools:Passwordable ![GitHub Repo Stars](https://img.shields.io/github/stars/dereuromark/cakephp-tools) ![GitHub last commit](https://img.shields.io/github/last-commit/dereuromark/cakephp-tools)](https://github.com/dereuromark/cakephp-tools) - Containing [Passwordable behavior ![GitHub Repo Stars](https://img.shields.io/github/stars/dereuromark/cakephp-tools) ![GitHub last commit](https://img.shields.io/github/last-commit/dereuromark/cakephp-tools)](https://github.com/dereuromark/cakephp-tools/blob/master/docs/Behavior/Passwordable.md) for a DRY approach on password hashing.
 - [TwoFactorAuth plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/andrej-griniuk/cakephp-two-factor-auth) ![GitHub last commit](https://img.shields.io/github/last-commit/andrej-griniuk/cakephp-two-factor-auth)](https://github.com/andrej-griniuk/cakephp-two-factor-auth) - Allows two factor authentication using Google Authenticator or similar app to generate one-time codes. Based on [RobThree/TwoFactorAuth ![GitHub Repo Stars](https://img.shields.io/github/stars/RobThree/TwoFactorAuth) ![GitHub last commit](https://img.shields.io/github/last-commit/RobThree/TwoFactorAuth)](https://github.com/RobThree/TwoFactorAuth) library.
 
-## Caching
+### Caching
 *Storing data for faster retrieval.*
 
 - [Cache plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/dereuromark/cakephp-cache) ![GitHub last commit](https://img.shields.io/github/last-commit/dereuromark/cakephp-cache)](https://github.com/dereuromark/cakephp-cache) - For caching views (HTML, CSV, JSON, XML, ...) as static cache files.
 - [CakeDC/CachedRouting plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/CakeDC/cakephp-cached-routing) ![GitHub last commit](https://img.shields.io/github/last-commit/CakeDC/cakephp-cached-routing)](https://github.com/CakeDC/cakephp-cached-routing) - Provides a cached version of the RoutingMiddleware to improve the load time of routes.
 
-## Code Analysis
+### Code Analysis
 *Analyzing, parsing and manipulation codebases.*
 
 - [cakedc/cakephp-phpstan ![GitHub Repo Stars](https://img.shields.io/github/stars/CakeDC/cakephp-phpstan) ![GitHub last commit](https://img.shields.io/github/last-commit/CakeDC/cakephp-phpstan)](https://github.com/CakeDC/cakephp-phpstan) - A PHPStan extension to resolve CakePHP magic around getter return types for the static analyzer.
@@ -125,35 +127,35 @@ Additional lists you might find useful:
 - [lordsimal/cakephp-psalm ![GitHub Repo Stars](https://img.shields.io/github/stars/LordSimal/cakephp-psalm) ![GitHub last commit](https://img.shields.io/github/last-commit/LordSimal/cakephp-psalm)](https://github.com/LordSimal/cakephp-psalm) - A Psalm extension to resolve CakePHP magic around getter return types for the static analyzer.
 - [TestHelper plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/dereuromark/cakephp-test-helper) ![GitHub last commit](https://img.shields.io/github/last-commit/dereuromark/cakephp-test-helper)](https://github.com/dereuromark/cakephp-test-helper) - Provides testing enhancements and TDD support as browser backend.
 
-## Console
+### Console
 *Command-line tools and improvements.*
 
 - [SignalHandler plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/skie/SignalHandler) ![GitHub last commit](https://img.shields.io/github/last-commit/skie/SignalHandler)](https://github.com/skie/SignalHandler) - Cross-platform signal handling for CakePHP console commands with zero external dependencies. Supports Linux (pcntl), Windows (native API).
 - [Scheduling plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/skie/cakephp-scheduling) ![GitHub last commit](https://img.shields.io/github/last-commit/skie/cakephp-scheduling)](https://github.com/skie/cakephp-scheduling) - The plugin provides task scheduling capabilities with sub-minute precision, allowing you to schedule tasks as frequently as every second, with single crontab entry point. It allows tasks monitoring.
 
-## Debugging
+### Debugging
 *Debugging and local development.*
 
 - [AssociationsDebugger plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/zunnu/associations-debugger) ![GitHub last commit](https://img.shields.io/github/last-commit/zunnu/associations-debugger)](https://github.com/zunnu/associations-debugger) - A plugin that draws your model associations as diagram.
 - [CakephpWhoops plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/dereuromark/cakephp-whoops) ![GitHub last commit](https://img.shields.io/github/last-commit/dereuromark/cakephp-whoops)](https://github.com/dereuromark/cakephp-whoops) - PHP errors and exceptions for cool kids with [filp/whoops ![GitHub Repo Stars](https://img.shields.io/github/stars/filp/whoops) ![GitHub last commit](https://img.shields.io/github/last-commit/filp/whoops)](https://github.com/filp/whoops).
 - [DebugKit plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/cakephp/debug_kit) ![GitHub last commit](https://img.shields.io/github/last-commit/cakephp/debug_kit)](https://github.com/cakephp/debug_kit) - The de-facto standard for debugging.
 - [Execution order ![GitHub Repo Stars](https://img.shields.io/github/stars/dereuromark/executionorder) ![GitHub last commit](https://img.shields.io/github/last-commit/dereuromark/executionorder)](https://github.com/dereuromark/executionorder) - A demo app to display the execution order of files, methods and callbacks.
-- [Sentry plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/lordsimal/cakephp-sentry) ![GitHub last commit](https://img.shields.io/github/last-commit/lordsimal/cakephp-sentry)](https://github.com/lordsimal/cakephp-sentry) A plugin to seamlessly integrate Sentry for errors and exceptions.
+- [Sentry plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/lordsimal/cakephp-sentry) ![GitHub last commit](https://img.shields.io/github/last-commit/lordsimal/cakephp-sentry)](https://github.com/lordsimal/cakephp-sentry) - A plugin to seamlessly integrate Sentry for errors and exceptions.
 - [Setup plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/dereuromark/cakephp-setup) ![GitHub last commit](https://img.shields.io/github/last-commit/dereuromark/cakephp-setup)](https://github.com/dereuromark/cakephp-setup) - A lightweight setup plugin containing healthcheck(s), debugging and maintenance tools.
 
-## Email
+### Email
 *Transports and tools for email handling.*
 
 - [Queue plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/dereuromark/cakephp-queue) ![GitHub last commit](https://img.shields.io/github/last-commit/dereuromark/cakephp-queue)](https://github.com/dereuromark/cakephp-queue) - A dependency-free queue-based mail solution using Mailer/Email class, allowing re-queue on (network) failure.
 - [SendGrid plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/sprintcube/cakephp-sendgrid) ![GitHub last commit](https://img.shields.io/github/last-commit/sprintcube/cakephp-sendgrid)](https://github.com/sprintcube/cakephp-sendgrid) - Email transport plugin for sending email via SendGrid API.
 
-## File Manipulation
+### File Manipulation
 *Upload, storage, and file handling.*
 
 - [FileStorage plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/dereuromark/cakephp-file-storage) ![GitHub last commit](https://img.shields.io/github/last-commit/dereuromark/cakephp-file-storage)](https://github.com/dereuromark/cakephp-file-storage) - Flexible file storage and upload plugin.
 - [Josegonzalez/Upload plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/FriendsOfCake/cakephp-upload) ![GitHub last commit](https://img.shields.io/github/last-commit/FriendsOfCake/cakephp-upload)](https://github.com/FriendsOfCake/cakephp-upload) - A customisable plugin that uses [Flysystem](https://flysystem.thephpleague.com/) to write to multiple backends (Dropbox, FTP, S3, Local, etc.).
 
-## Filtering and Validation
+### Filtering and Validation
 *Data sanitization and validation rules.*
 
 - see Cake/Localized plugin below.
@@ -161,25 +163,25 @@ Additional lists you might find useful:
 - [RuleFlow plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/skie/rule-flow) ![GitHub last commit](https://img.shields.io/github/last-commit/skie/rule-flow)](https://github.com/skie/rule-flow) - A plugin that seamlessly transforms server-side validation rules into client-side JSON Logic validation, providing automatic form validation without requiring separate client-side validation code.
 
 
-## Geolocation
+### Geolocation
 *Geocoding addresses and working with latitudes and longitudes.*
 
 - [Geo plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/dereuromark/cakephp-geo) ![GitHub last commit](https://img.shields.io/github/last-commit/dereuromark/cakephp-geo)](https://github.com/dereuromark/cakephp-geo) - Containing [Geocoder behavior](https://www.dereuromark.de/2012/06/12/geocoding-with-cakephp/) and [GoogleMaps helper](https://www.dereuromark.de/2010/12/21/googlemapsv3-cakephp-helper/).
 
-## I18n
+### I18n
 *I18n (Internationalization) and L10n (Localization).*
 
 - [ADmad/I18n plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/ADmad/cakephp-i18n) ![GitHub last commit](https://img.shields.io/github/last-commit/ADmad/cakephp-i18n)](https://github.com/ADmad/cakephp-i18n) - A plugin with I18n related tools.
 - [Cake/Localized plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/cakephp/localized) ![GitHub last commit](https://img.shields.io/github/last-commit/cakephp/localized)](https://github.com/cakephp/localized) - Localized validation and ready-to-use translation PO files.
 - [Translate plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/dereuromark/cakephp-translate) ![GitHub last commit](https://img.shields.io/github/last-commit/dereuromark/cakephp-translate)](https://github.com/dereuromark/cakephp-translate) - Translate your translations in the backend with ease.
 
-## Imagery
+### Imagery
 *Image processing and manipulation libraries.*
 
 - [ADmad/Glide plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/ADmad/cakephp-glide) ![GitHub last commit](https://img.shields.io/github/last-commit/ADmad/cakephp-glide)](https://github.com/ADmad/cakephp-glide) - A plugin for using [Glide](https://glide.thephpleague.com/) image manipulation library.
 - [QrCodePlugin ![GitHub Repo Stars](https://img.shields.io/github/stars/dereuromark/cakephp-qrcode) ![GitHub last commit](https://img.shields.io/github/last-commit/dereuromark/cakephp-qrcode)](https://github.com/dereuromark/cakephp-qrcode/) - Easily render SVG/PNG QR Codes for your app.
 
-## Libs
+### Libs
 *Useful libraries or tools that don't fit in any of the other categories.*
 
 - [Chronos ![GitHub Repo Stars](https://img.shields.io/github/stars/cakephp/chronos) ![GitHub last commit](https://img.shields.io/github/last-commit/cakephp/chronos)](https://github.com/cakephp/chronos) - A simple standalone DateTime API extension (successor of Carbon).
@@ -188,12 +190,12 @@ Additional lists you might find useful:
 - [Graphviz ![GitHub Repo Stars](https://img.shields.io/github/stars/alexandresalome/graphviz) ![GitHub last commit](https://img.shields.io/github/last-commit/alexandresalome/graphviz)](https://github.com/alexandresalome/graphviz) - A Graphviz library.
 - [Rocketeer ![GitHub Repo Stars](https://img.shields.io/github/stars/rocketeers/rocketeer) ![GitHub last commit](https://img.shields.io/github/last-commit/rocketeers/rocketeer)](https://github.com/rocketeers/rocketeer) - PHP task runner and deployment package.
 
-## Markup
+### Markup
 *Syntax highlighting and markup processing.*
 
 - [Markup plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/dereuromark/cakephp-markup) ![GitHub last commit](https://img.shields.io/github/last-commit/dereuromark/cakephp-markup)](https://github.com/dereuromark/cakephp-markup) - Allows to use PHP or JS based syntax highlighting.
 
-## Migration
+### Migration
 *Plugins and resources around migration and upgrading.*
 
 - [Migrations plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/cakephp/migrations) ![GitHub last commit](https://img.shields.io/github/last-commit/cakephp/migrations)](https://github.com/cakephp/migrations) - (DB) Migration plugin.
@@ -201,7 +203,7 @@ Additional lists you might find useful:
 - [Upgrade app (extended) ![GitHub Repo Stars](https://img.shields.io/github/stars/dereuromark/upgrade) ![GitHub last commit](https://img.shields.io/github/last-commit/dereuromark/upgrade)](https://github.com/dereuromark/upgrade) - An extended upgrade app for 3.x=>4.x and some 5.x snippets.
 - [Upgrade/Migration Guide](https://book.cakephp.org/5/en/appendices.html) - Official migration guide.
 
-## Miscellaneous
+### Miscellaneous
 *Misc plugins and libraries.*
 
 - [Ajax plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/dereuromark/cakephp-ajax) ![GitHub last commit](https://img.shields.io/github/last-commit/dereuromark/cakephp-ajax)](https://github.com/dereuromark/cakephp-ajax) - A plugin to ease handling AJAX requests.
@@ -210,7 +212,7 @@ Additional lists you might find useful:
 - [CakeDto plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/dereuromark/cakephp-dto) ![GitHub last commit](https://img.shields.io/github/last-commit/dereuromark/cakephp-dto)](https://github.com/dereuromark/cakephp-dto) - Quickly generate useful data transfer objects for your app (mutable/immutable), replacing messy arrays and leveraging your IDE through typehinting and autocomplete.
 - [CakeHtmx plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/zunnu/cake-htmx) ![GitHub last commit](https://img.shields.io/github/last-commit/zunnu/cake-htmx)](https://github.com/zunnu/cake-htmx) - CakePHP integration for [htmx](https://htmx.org/).
 - [Calendar plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/dereuromark/cakephp-calendar) ![GitHub last commit](https://img.shields.io/github/last-commit/dereuromark/cakephp-calendar)](https://github.com/dereuromark/cakephp-calendar) - For generating basic calendars. Includes IcalView for ICS calendar file generation.
-- [DatabaseBackup plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/mirko-pagliai/cakephp-database-backup) ![GitHub last commit](https://img.shields.io/github/last-commit/mirko-pagliai/cakephp-database-backup)](https://github.com/mirko-pagliai/cakephp-database-backup) - A plugin to to export, import and manage database backups. Currently, the plugin supports MySql, Postgres and Sqlite databases.
+- [DatabaseBackup plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/mirko-pagliai/cakephp-database-backup) ![GitHub last commit](https://img.shields.io/github/last-commit/mirko-pagliai/cakephp-database-backup)](https://github.com/mirko-pagliai/cakephp-database-backup) - A plugin to export, import and manage database backups. Currently, the plugin supports MySQL, PostgreSQL and SQLite databases.
 - [Feedback plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/dereuromark/cakephp-feedback) ![GitHub last commit](https://img.shields.io/github/last-commit/dereuromark/cakephp-feedback)](https://github.com/dereuromark/cakephp-feedback) - Allow visitors to send quick and easy feedback incl. a screenshot via sidebar form.
 - [Flash plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/dereuromark/cakephp-flash) ![GitHub last commit](https://img.shields.io/github/last-commit/dereuromark/cakephp-flash)](https://github.com/dereuromark/cakephp-flash) - More powerful flash messages for your application.
 - [Inertia plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/CakeDC/cakephp-inertia) ![GitHub last commit](https://img.shields.io/github/last-commit/CakeDC/cakephp-inertia)](https://github.com/CakeDC/cakephp-inertia) - Plugin for connecting a Vue 3 app and use an API interface using a middleware.
@@ -219,19 +221,19 @@ Additional lists you might find useful:
 - [Shim plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/dereuromark/cakephp-shim) ![GitHub last commit](https://img.shields.io/github/last-commit/dereuromark/cakephp-shim)](https://github.com/dereuromark/cakephp-shim) - A plugin containing useful shims and improvements as basis for your application.
 - [Tools plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/dereuromark/cakephp-tools) ![GitHub last commit](https://img.shields.io/github/last-commit/dereuromark/cakephp-tools)](https://github.com/dereuromark/cakephp-tools) - Containing lots of useful helpers, behaviors, components, commands, helpers, libs and more.
 
-## Navigation
+### Navigation
 *Building navigation structures.*
 
 - [Icings/Menu plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/icings/menu) ![GitHub last commit](https://img.shields.io/github/last-commit/icings/menu)](https://github.com/icings/menu) - A [KnpMenu ![GitHub Repo Stars](https://img.shields.io/github/stars/KnpLabs/KnpMenu) ![GitHub last commit](https://img.shields.io/github/last-commit/KnpLabs/KnpMenu)](https://github.com/KnpLabs/KnpMenu) seasoned menu plugin for CakePHP.
 
-## Notifications and Real-time Communication
+### Notifications and Real-time Communication
 *Working with notification software.*
 
 - [Crustum/Broadcasting plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/crustum/broadcasting) ![GitHub last commit](https://img.shields.io/github/last-commit/crustum/broadcasting)](https://github.com/crustum/broadcasting) - The Broadcasting plugin provides real-time event broadcasting for CakePHP applications using WebSocket connections compatible with the Pusher protocol or Redis pub/sub.
 - [Crustum/Notification plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/crustum/notification) ![GitHub last commit](https://img.shields.io/github/last-commit/crustum/notification)](https://github.com/crustum/notification) - The Notification plugin provides support for sending notifications across a variety of delivery channels.
 - [Mercure plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/josbeir/cakephp-mercure) ![GitHub last commit](https://img.shields.io/github/last-commit/josbeir/cakephp-mercure)](https://github.com/josbeir/cakephp-mercure) - Push real-time updates to clients using the Mercure protocol.
 
-## ORM / Database / Datamapping
+### ORM / Database / Datamapping
 *Plugins that implement object-relational mapping or data-mapping techniques.*
 
 - [ADmad/Sequence plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/ADmad/cakephp-sequence) ![GitHub last commit](https://img.shields.io/github/last-commit/ADmad/cakephp-sequence)](https://github.com/ADmad/cakephp-sequence) - Behavior for maintaining ordered list of records.
@@ -244,12 +246,12 @@ Additional lists you might find useful:
 - [Itosho/EasyQuery plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/itosho/easy-query) ![GitHub last commit](https://img.shields.io/github/last-commit/itosho/easy-query)](https://github.com/itosho/easy-query) - Behavior for easily generating some complicated queries like (bulk) insert/upsert etc.
 - [Icings/Partitionable plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/icings/partitionable) ![GitHub last commit](https://img.shields.io/github/last-commit/icings/partitionable)](https://github.com/icings/partitionable) - Partitionable associations allowing for basic limiting per group.
 
-## PDF
+### PDF
 *Plugins and software for working with PDF files.*
 
 - [CakePdf plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/FriendsOfCake/CakePdf) ![GitHub last commit](https://img.shields.io/github/last-commit/FriendsOfCake/CakePdf)](https://github.com/FriendsOfCake/CakePdf) - A plugin around PDF generation.
 
-## Queue
+### Queue
 *Working with event and task queues.*
 
 - [Queue plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/cakephp/queue) ![GitHub last commit](https://img.shields.io/github/last-commit/cakephp/queue)](https://github.com/cakephp/queue) - CakePHP core queue system for the [php-queue](https://php-enqueue.github.io) queue library.
@@ -259,7 +261,7 @@ Additional lists you might find useful:
 - [Queue plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/dereuromark/cakephp-queue) ![GitHub last commit](https://img.shields.io/github/last-commit/dereuromark/cakephp-queue)](https://github.com/dereuromark/cakephp-queue) - A minimal and dependency-free queue solution.
 - [QueueScheduler plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/dereuromark/cakephp-queue-scheduler) ![GitHub last commit](https://img.shields.io/github/last-commit/dereuromark/cakephp-queue-scheduler)](https://github.com/dereuromark/cakephp-queue-scheduler) - A dependency-free crontab-like scheduler as DB driven solution and addon to Queue (dereuromark) plugin.
 
-## REST and API
+### REST and API
 *Plugins and web tools for developing REST-ful APIs.*
 
 - [CRUD plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/FriendsOfCake/crud) ![GitHub last commit](https://img.shields.io/github/last-commit/FriendsOfCake/crud)](https://github.com/FriendsOfCake/crud) - CakePHP Application development on steroids - rapid prototyping / scaffolding & production-ready code.
@@ -268,16 +270,16 @@ Additional lists you might find useful:
 - [MixerApi](https://mixerapi.com) - Streamline development of modern RESTful APIs for your team's CakePHP project.
 - [SwaggerBake plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/cnizzardini/cakephp-swagger-bake) ![GitHub last commit](https://img.shields.io/github/last-commit/cnizzardini/cakephp-swagger-bake)](https://github.com/cnizzardini/cakephp-swagger-bake) - This plugin automatically builds OpenAPI from your existing models and routes for display in Swagger and Redoc.
 
-## Search
+### Search
 *Plugins and software for indexing and performing search queries on data.*
 
-- [Cake/ElasticSearch plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/cakephp/elastic-search) ![GitHub last commit](https://img.shields.io/github/last-commit/cakephp/elastic-search)](https://github.com/cakephp/elastic-search) - Alternative ORM using [Elasticsearch](https://www.elastic.co/) as its backend.
+- [Cake/Elasticsearch plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/cakephp/elastic-search) ![GitHub last commit](https://img.shields.io/github/last-commit/cakephp/elastic-search)](https://github.com/cakephp/elastic-search) - Alternative ORM using [Elasticsearch](https://www.elastic.co/) as its backend.
 - [CakeDC/SearchFilter plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/CakeDC/search-filter) ![GitHub last commit](https://img.shields.io/github/last-commit/CakeDC/search-filter)](https://github.com/CakeDC/search-filter) - Powerful and flexible solution for implementing advanced search functionality. Provides a robust set of tools for creating dynamic, user-friendly search interfaces with minimal effort.
 - [PlumSearch plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/skie/plum_search) ![GitHub last commit](https://img.shields.io/github/last-commit/skie/plum_search)](https://github.com/skie/plum_search) - Implements custom, flexible and extendable search strategies. Implements PRG pattern.
 - [Search plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/FriendsOfCake/search) ![GitHub last commit](https://img.shields.io/github/last-commit/FriendsOfCake/search)](https://github.com/FriendsOfCake/search) - Provides easy searching/filtering for paginated views using PRG pattern.
 - [Tags plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/dereuromark/cakephp-tags) ![GitHub last commit](https://img.shields.io/github/last-commit/dereuromark/cakephp-tags)](https://github.com/dereuromark/cakephp-tags) - For tagging and finding tagged records.
 
-## Security
+### Security
 *Plugins and information around security, preventing vulnerabilities and protection against XSS and alike.*
 
 - [Captcha plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/dereuromark/cakephp-captcha) ![GitHub last commit](https://img.shields.io/github/last-commit/dereuromark/cakephp-captcha)](https://github.com/dereuromark/cakephp-captcha) - Simple, unobtrusive and extendable captcha solution providing by default an image based math captcha.
@@ -286,26 +288,26 @@ Additional lists you might find useful:
 - [Muffin/Throttle plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/usemuffin/throttle) ![GitHub last commit](https://img.shields.io/github/last-commit/usemuffin/throttle)](https://github.com/usemuffin/throttle) - A plugin for rate limiting (API) requests.
 - [Recaptcha plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/ctlabvn/Recaptcha) ![GitHub last commit](https://img.shields.io/github/last-commit/ctlabvn/Recaptcha)](https://github.com/ctlabvn/Recaptcha) - Simple, lightweight Google Recaptcha v2.
 
-## SEO
+### SEO
 *Search Engine Optimization.*
 
 - [Muffin/Slug plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/UseMuffin/Slug) ![GitHub last commit](https://img.shields.io/github/last-commit/UseMuffin/Slug)](https://github.com/UseMuffin/Slug) - A plugin for generating slugs and finding records by slug. Uses a pluggable architecture which allows using your own slug generator class.
 - [Tools:Slugged ![GitHub Repo Stars](https://img.shields.io/github/stars/dereuromark/cakephp-tools) ![GitHub last commit](https://img.shields.io/github/last-commit/dereuromark/cakephp-tools)](https://github.com/dereuromark/cakephp-tools) - Containing Slugged behavior to auto-generate URL-compatible slugs from titles.
 
-## Skeleton
+### Skeleton
 *Plugins and repositories around app skeletons.*
 
 - [App template ![GitHub Repo Stars](https://img.shields.io/github/stars/cakephp/app) ![GitHub last commit](https://img.shields.io/github/last-commit/cakephp/app)](https://github.com/cakephp/app) - An empty CakePHP project for use with composer.
 - [BS flavored App template ![GitHub Repo Stars](https://img.shields.io/github/stars/dereuromark/cakephp-app) ![GitHub last commit](https://img.shields.io/github/last-commit/dereuromark/cakephp-app)](https://github.com/dereuromark/cakephp-app) - An empty CakePHP project with BS5 and FontAwesome out of the box.
 
-## Social
+### Social
 *Plugins around social features.*
 
 - [Comments plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/dereuromark/cakephp-comments) ![GitHub last commit](https://img.shields.io/github/last-commit/dereuromark/cakephp-comments)](https://github.com/dereuromark/cakephp-comments) - Allows users to comment records, supporting different formats.
 - [Favorites plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/dereuromark/cakephp-favorites) ![GitHub last commit](https://img.shields.io/github/last-commit/dereuromark/cakephp-favorites)](https://github.com/dereuromark/cakephp-favorites) - Allows users to star/like/favor records.
 - [Ratings plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/dereuromark/cakephp-ratings) ![GitHub last commit](https://img.shields.io/github/last-commit/dereuromark/cakephp-ratings)](https://github.com/dereuromark/cakephp-ratings) - Allows users to rate records and displays ratings.
 
-## Templating
+### Templating
 *Template engines and view generation.*
 
 - [Bake plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/cakephp/bake) ![GitHub last commit](https://img.shields.io/github/last-commit/cakephp/bake)](https://github.com/cakephp/bake) - Provides code generation functionality.
@@ -320,29 +322,30 @@ Additional lists you might find useful:
 - [TwigView plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/cakephp/twig-view) ![GitHub last commit](https://img.shields.io/github/last-commit/cakephp/twig-view)](https://github.com/cakephp/twig-view) - A plugin to use the Twig Templating Language for views.
 - [XlsView plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/impronta48/cakephp-xlsview) ![GitHub last commit](https://img.shields.io/github/last-commit/impronta48/cakephp-xlsview)](https://github.com/impronta48/cakephp-xlsview) - A view class to easily generate XLS using PHPSpreadsheet.
 
-## Testing
+### Testing
 *Plugins/Tools for testing codebases and generating test data.*
 
 - [CakePHP CodeSniffer rules ![GitHub Repo Stars](https://img.shields.io/github/stars/cakephp/cakephp-codesniffer) ![GitHub last commit](https://img.shields.io/github/last-commit/cakephp/cakephp-codesniffer)](https://github.com/cakephp/cakephp-codesniffer) - The official CakePHP CS rules.
 - [CakephpFixtureFactories plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/dereuromark/cakephp-fixture-factories) ![GitHub last commit](https://img.shields.io/github/last-commit/dereuromark/cakephp-fixture-factories)](https://github.com/dereuromark/cakephp-fixture-factories) - Create your fixtures dynamically on a test basis, accelerate the writing and maintenance of your tests.
-- [FriendsOfCake/Fixturize plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/FriendsOfCake/fixturize) ![GitHub last commit](https://img.shields.io/github/last-commit/FriendsOfCake/fixturize)](https://github.com/FriendsOfCake/fixturize) - More efficient inserting fixtures when running test suites by decreasing amount of inserts (mysql only).
+- [FriendsOfCake/Fixturize plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/FriendsOfCake/fixturize) ![GitHub last commit](https://img.shields.io/github/last-commit/FriendsOfCake/fixturize)](https://github.com/FriendsOfCake/fixturize) - More efficient inserting fixtures when running test suites by decreasing amount of inserts (MySQL only).
 
-## Third Party APIs
+### Third Party APIs
 *Accessing third party APIs.*
 
 
-# Software
+## Software
+
 *Software for creating a development environment.*
 
-## Development Environment
+### Development Environment
 *Software and tools for creating a sandboxed development environment.*
 
-- [CakePHP Docker ![GitHub Repo Stars](https://img.shields.io/github/stars/cnizzardini/cakephp-docker) ![GitHub last commit](https://img.shields.io/github/last-commit/cnizzardini/cakephp-docker)](https://github.com/cnizzardini/cakephp-docker) - A cakephp/app template for docker.
+- [CakePHP Docker ![GitHub Repo Stars](https://img.shields.io/github/stars/cnizzardini/cakephp-docker) ![GitHub last commit](https://img.shields.io/github/last-commit/cnizzardini/cakephp-docker)](https://github.com/cnizzardini/cakephp-docker) - A cakephp/app template for Docker.
 - [CakePHP Vagrant Setup ![GitHub Repo Stars](https://img.shields.io/github/stars/cpierce/cakephp-vagrant-setup) ![GitHub last commit](https://img.shields.io/github/last-commit/cpierce/cakephp-vagrant-setup)](https://github.com/cpierce/cakephp-vagrant-setup) - Tool for spinning up multiple CakePHP vanilla dev environments using Vagrant.
 - [CakePHP Docker Setup ![GitHub Repo Stars](https://img.shields.io/github/stars/cpierce/cakephp-docker-setup) ![GitHub last commit](https://img.shields.io/github/last-commit/cpierce/cakephp-docker-setup)](https://github.com/cpierce/cakephp-docker-setup) - Tool for spinning up multiple CakePHP vanilla dev environments using Docker.
 - [DDEV](https://ddev.readthedocs.io/en/stable/) - Docker based local env.
-- [Devilbox](https://devilbox.readthedocs.io/en/latest/) - A docker development environment for (CakePHP) apps to be auto-setup including a lot of tools.
-- [Docker ![GitHub Repo Stars](https://img.shields.io/github/stars/stefanvangastel/docker-cakephp) ![GitHub last commit](https://img.shields.io/github/last-commit/stefanvangastel/docker-cakephp)](https://github.com/stefanvangastel/docker-cakephp) - CakePHP in a docker container environment.
+- [Devilbox](https://devilbox.readthedocs.io/en/latest/) - A Docker development environment for (CakePHP) apps to be auto-setup including a lot of tools.
+- [Docker ![GitHub Repo Stars](https://img.shields.io/github/stars/stefanvangastel/docker-cakephp) ![GitHub last commit](https://img.shields.io/github/last-commit/stefanvangastel/docker-cakephp)](https://github.com/stefanvangastel/docker-cakephp) - CakePHP in a Docker container environment.
 - [Galley](https://gitlab.com/amayer5125/galley) - A small Docker dev environment for CakePHP development which includes a simple command line utility.
 - [NetBeans ![GitHub Repo Stars](https://img.shields.io/github/stars/junichi11/cakephp3-netbeans) ![GitHub last commit](https://img.shields.io/github/last-commit/junichi11/cakephp3-netbeans)](https://github.com/junichi11/cakephp3-netbeans) - This package provides support for CakePHP in NetBeans 8.1+.
 - [Oven ![GitHub Repo Stars](https://img.shields.io/github/stars/CakeDC/oven) ![GitHub last commit](https://img.shields.io/github/last-commit/CakeDC/oven)](https://github.com/CakeDC/oven) - Setup your favorite framework with 1 file and 1 click.
@@ -351,34 +354,36 @@ Additional lists you might find useful:
 
 IDE specific compatibility information and tips can be found [here ![GitHub Repo Stars](https://img.shields.io/github/stars/dereuromark/cakephp-ide-helper) ![GitHub last commit](https://img.shields.io/github/last-commit/dereuromark/cakephp-ide-helper)](https://github.com/dereuromark/cakephp-ide-helper/wiki#ide-support-and-tips).
 
-## Web Applications
+### Web Applications
 
-## CMS and applications built on CakePHP
+### CMS and applications built on CakePHP
 
 - [baserCMS ![GitHub Repo Stars](https://img.shields.io/github/stars/baserproject/basercms) ![GitHub last commit](https://img.shields.io/github/last-commit/baserproject/basercms)](https://github.com/baserproject/basercms) - This is a website development framework with RESTful APIs. Installable as a plugin for CakePHP.
 
-## Demo
+### Demo
+
 *Web-based (demo) applications and tools.*
 
 - [BlogMVC ![GitHub Repo Stars](https://img.shields.io/github/stars/Kareylo/BlogMVC-CakePHP3) ![GitHub last commit](https://img.shields.io/github/last-commit/Kareylo/BlogMVC-CakePHP3)](https://github.com/Kareylo/BlogMVC-CakePHP3) - A simple Blog example with CakePHP based on [BlogMVC Project ![GitHub Repo Stars](https://img.shields.io/github/stars/Grafikart/BlogMVC) ![GitHub last commit](https://img.shields.io/github/last-commit/Grafikart/BlogMVC)](https://github.com/Grafikart/BlogMVC).
-- [Bookmarkr ![GitHub Repo Stars](https://img.shields.io/github/stars/lorenzo/cakephp3-bookmarkr) ![GitHub last commit](https://img.shields.io/github/last-commit/lorenzo/cakephp3-bookmarkr)](https://github.com/lorenzo/cakephp3-bookmarkr) A bookmarking application built with the CRUD plugin.
-- [Fluentd + Grafana Loki demo application ![GitHub Repo Stars](https://img.shields.io/github/stars/ishanvyas22/cakephp-loki-demo) ![GitHub last commit](https://img.shields.io/github/last-commit/ishanvyas22/cakephp-loki-demo)](https://github.com/ishanvyas22/cakephp-loki-demo) - A demo application to send CakePHP docker container logs to [Grafana Loki](https://grafana.com/logs/) via [Fluentd](https://www.fluentd.org/).
+- [Bookmarkr ![GitHub Repo Stars](https://img.shields.io/github/stars/lorenzo/cakephp3-bookmarkr) ![GitHub last commit](https://img.shields.io/github/last-commit/lorenzo/cakephp3-bookmarkr)](https://github.com/lorenzo/cakephp3-bookmarkr) - A bookmarking application built with the CRUD plugin.
+- [Fluentd + Grafana Loki demo application ![GitHub Repo Stars](https://img.shields.io/github/stars/ishanvyas22/cakephp-loki-demo) ![GitHub last commit](https://img.shields.io/github/last-commit/ishanvyas22/cakephp-loki-demo)](https://github.com/ishanvyas22/cakephp-loki-demo) - A demo application to send CakePHP Docker container logs to [Grafana Loki](https://grafana.com/logs/) via [Fluentd](https://www.fluentd.org/).
 - [RealWorld ![GitHub Repo Stars](https://img.shields.io/github/stars/gothinkster/cakephp-realworld-example-app) ![GitHub last commit](https://img.shields.io/github/last-commit/gothinkster/cakephp-realworld-example-app)](https://github.com/gothinkster/cakephp-realworld-example-app) - Example CakePHP codebase containing real world examples (CRUD, auth, advanced patterns and more) that adheres to the [RealWorld ![GitHub Repo Stars](https://img.shields.io/github/stars/gothinkster/realworld-example-apps) ![GitHub last commit](https://img.shields.io/github/last-commit/gothinkster/realworld-example-apps)](https://github.com/gothinkster/realworld-example-apps) spec and API.
 - [Sandbox](https://sandbox.dereuromark.de) - A sandbox CakePHP application with lots of demos and plugin showcasings.
-- [Query Examples ![GitHub Repo Stars](https://img.shields.io/github/stars/lorenzo/cakephp3-examples) ![GitHub last commit](https://img.shields.io/github/last-commit/lorenzo/cakephp3-examples)](https://github.com/lorenzo/cakephp3-examples) Advanced query building examples.
+- [Query Examples ![GitHub Repo Stars](https://img.shields.io/github/stars/lorenzo/cakephp3-examples) ![GitHub last commit](https://img.shields.io/github/last-commit/lorenzo/cakephp3-examples)](https://github.com/lorenzo/cakephp3-examples) - Advanced query building examples.
 - [Xeta ![GitHub Repo Stars](https://img.shields.io/github/stars/XetaIO/Xeta) ![GitHub last commit](https://img.shields.io/github/last-commit/XetaIO/Xeta)](https://github.com/XetaIO/Xeta) - A resource to help people starting with CakePHP.
-- [Vue.js Demo App ![GitHub Repo Stars](https://img.shields.io/github/stars/ishanvyas22/cakephpvue-spa) ![GitHub last commit](https://img.shields.io/github/last-commit/ishanvyas22/cakephpvue-spa)](https://github.com/ishanvyas22/cakephpvue-spa) - A CakePHP + VueJS single page application skeleton.
+- [Vue.js Demo App ![GitHub Repo Stars](https://img.shields.io/github/stars/ishanvyas22/cakephpvue-spa) ![GitHub last commit](https://img.shields.io/github/last-commit/ishanvyas22/cakephpvue-spa)](https://github.com/ishanvyas22/cakephpvue-spa) - A CakePHP + Vue.js single page application skeleton.
 
-# Resources
+## Resources
+
 Various resources, such as books, websites and articles, for improving your CakePHP development skills and knowledge.
 
-## Help
+### Help
 *Where to get help.*
 
 - [Official CakePHP Forum](https://discourse.cakephp.org/) - This is for generic questions and alike.
 - [stackoverflow.com/questions/tagged/cakephp](https://stackoverflow.com/questions/tagged/cakephp) - This is for specific questions, ideally along with some example code.
 
-## CakePHP Websites
+### CakePHP Websites
 *Useful and current CakePHP-related websites and blogs.*
 
 - [CakeDC](https://www.cakedc.com/articles) - Articles around CakePHP.
@@ -386,41 +391,41 @@ Various resources, such as books, websites and articles, for improving your Cake
 - [josediazgonzalez.com](https://josediazgonzalez.com/) - A mainly CakePHP related core dev blog.
 - [mark-story.com](https://mark-story.com) - CakePHP lead dev blog.
 
-## CakePHP Books and Articles
+### CakePHP Books and Articles
 *Fantastic CakePHP-related (e)books and other reading material.*
 
-## CakePHP Videos
+### CakePHP Videos
 *Fantastic CakePHP-related videos.*
 
 - [CakePHP](https://www.youtube.com/user/CakePHP) - Channel about CakePHP videos.
 
 
-## CakePHP Tutorials
+### CakePHP Tutorials
 *Must-do tutorials.*
 
 - [Official Content Management Tutorial](https://book.cakephp.org/5/en/tutorials-and-examples/cms/installation.html)
 
-## CakePHP Reading and Listening
+### CakePHP Reading and Listening
 *Documentation and CakePHP-related reading and listening materials.*
 
 - [CakePHP Cookbook(!)](https://book.cakephp.org/) - The official CakePHP documentation.
 
-## CakePHP Internals Reading
+### CakePHP Internals Reading
 *Reading materials related to the CakePHP internals and decisions.*
 
 - [Top 10 (and more) core contributors ![GitHub Repo Stars](https://img.shields.io/github/stars/cakephp/cakephp) ![GitHub last commit](https://img.shields.io/github/last-commit/cakephp/cakephp)](https://github.com/cakephp/cakephp/graphs/contributors) - Give 'em a hand.
 
-# Conferences
+## Conferences
 
-## Official
+### Official
 *International conference.*
 
 - [cakefest.org](https://cakefest.org/) - Annual CakePHP Conference.
 
-## MeetUps
+### MeetUps
 *Regional meet-ups.*
 
 - [CakePHP-DE](https://www.meetup.com/CakePHP-DE) - MeetUps in Germany.
 
-## Credits
+## Footnotes
 awesome-cakephp has been created by [dereuromark](https://github.com/dereuromark) and is currently maintained by him and the FriendsOfCake group. Thank you to all [contributors ![GitHub Repo Stars](https://img.shields.io/github/stars/FriendsOfCake/awesome-cakephp) ![GitHub last commit](https://img.shields.io/github/last-commit/FriendsOfCake/awesome-cakephp)](https://github.com/FriendsOfCake/awesome-cakephp/graphs/contributors), too.
