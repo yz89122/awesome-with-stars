@@ -1143,6 +1143,7 @@ _Libraries for extracting web contents._
 _Libraries to automate web scraping._
 
 - [browser-use ![GitHub Repo Stars](https://img.shields.io/github/stars/browser-use/browser-use) ![GitHub last commit](https://img.shields.io/github/last-commit/browser-use/browser-use)](https://github.com/browser-use/browser-use) - Make websites accessible for AI agents with easy browser automation.
+- [crawl4ai ![GitHub Repo Stars](https://img.shields.io/github/stars/unclecode/crawl4ai) ![GitHub last commit](https://img.shields.io/github/last-commit/unclecode/crawl4ai)](https://github.com/unclecode/crawl4ai) - An open-source, LLM-friendly web crawler that provides lightning-fast, structured data extraction specifically designed for AI agents.
 - [feedparser ![GitHub Repo Stars](https://img.shields.io/github/stars/kurtmckee/feedparser) ![GitHub last commit](https://img.shields.io/github/last-commit/kurtmckee/feedparser)](https://github.com/kurtmckee/feedparser) - Universal feed parser.
 - [grab ![GitHub Repo Stars](https://img.shields.io/github/stars/lorien/grab) ![GitHub last commit](https://img.shields.io/github/last-commit/lorien/grab)](https://github.com/lorien/grab) - Site scraping framework.
 - [mechanicalsoup ![GitHub Repo Stars](https://img.shields.io/github/stars/MechanicalSoup/MechanicalSoup) ![GitHub last commit](https://img.shields.io/github/last-commit/MechanicalSoup/MechanicalSoup)](https://github.com/MechanicalSoup/MechanicalSoup) - A Python library for automating interaction with websites.
