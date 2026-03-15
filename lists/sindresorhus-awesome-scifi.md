@@ -3093,7 +3093,7 @@ Rick and Morty is one of the best animated shows to have come out in the last de
   > An animated series that follows the exploits of a super scientist and his not-so-bright grandson.
 </details>
 
-#### [Star Trek: Deep Space Nine](https://www.imdb.com/title/tt0106145/) (1993–1999) [7.9]
+#### [Star Trek: Deep Space Nine](https://www.imdb.com/title/tt0106145/) (1993��1999) [7.9]
 
 Categories: `action` `adventure` `drama`
 

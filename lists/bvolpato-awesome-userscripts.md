@@ -775,7 +775,7 @@ Userscripts can be used w/ the following browsers:
             Readme</a> /
         📢 <a href="https://github.com/adamlui/chatgpt-infinity/discussions">
             Discuss</a> /
-        🐛 <a href="https://github.com/adamlui/chatgpt-infinity/issues">
+        ���� <a href="https://github.com/adamlui/chatgpt-infinity/issues">
             Report bug</a>
     </blockquote>
 </details>
