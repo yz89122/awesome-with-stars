@@ -283,6 +283,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [loadtest ![GitHub Repo Stars](https://img.shields.io/github/stars/alexfernandez/loadtest) ![GitHub last commit](https://img.shields.io/github/last-commit/alexfernandez/loadtest)](https://github.com/alexfernandez/loadtest) - Run load tests.
 - [Step CI ![GitHub Repo Stars](https://img.shields.io/github/stars/stepci/stepci) ![GitHub last commit](https://img.shields.io/github/last-commit/stepci/stepci)](https://github.com/stepci/stepci) - API testing and QA framework.
 - [bats-core ![GitHub Repo Stars](https://img.shields.io/github/stars/bats-core/bats-core) ![GitHub last commit](https://img.shields.io/github/last-commit/bats-core/bats-core)](https://github.com/bats-core/bats-core) - Bash Automated Testing System.
+- [cmdperf ![GitHub Repo Stars](https://img.shields.io/github/stars/miklosn/cmdperf) ![GitHub last commit](https://img.shields.io/github/last-commit/miklosn/cmdperf)](https://github.com/miklosn/cmdperf) - Quickly benchmark and compare command performance.
 
 ## Productivity
 
@@ -298,6 +299,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [OverTime ![GitHub Repo Stars](https://img.shields.io/github/stars/diit/overtime-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/diit/overtime-cli)](https://github.com/diit/overtime-cli) - Time-overlap tables for remote teams.
 - [CookCLI ![GitHub Repo Stars](https://img.shields.io/github/stars/cooklang/CookCLI) ![GitHub last commit](https://img.shields.io/github/last-commit/cooklang/CookCLI)](https://github.com/cooklang/CookCLI) - Full-featured recipe manager.
 - [hns ![GitHub Repo Stars](https://img.shields.io/github/stars/primaprashant/hns) ![GitHub last commit](https://img.shields.io/github/last-commit/primaprashant/hns)](https://github.com/primaprashant/hns) - Speech-to-text tool to transcribe voice from microphone.
+- [mynav ![GitHub Repo Stars](https://img.shields.io/github/stars/GianlucaP106/mynav) ![GitHub last commit](https://img.shields.io/github/last-commit/GianlucaP106/mynav)](https://github.com/GianlucaP106/mynav) - Workspace and session management TUI.
 
 ### Time Tracking
 
@@ -308,6 +310,8 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [utt ![GitHub Repo Stars](https://img.shields.io/github/stars/larose/utt) ![GitHub last commit](https://img.shields.io/github/last-commit/larose/utt)](https://github.com/larose/utt) - Simple time tracking tool.
 - [Bartib ![GitHub Repo Stars](https://img.shields.io/github/stars/nikolassv/bartib) ![GitHub last commit](https://img.shields.io/github/last-commit/nikolassv/bartib)](https://github.com/nikolassv/bartib) - Easy to use time tracking tool.
 - [arttime ![GitHub Repo Stars](https://img.shields.io/github/stars/reportaman/arttime) ![GitHub last commit](https://img.shields.io/github/last-commit/reportaman/arttime)](https://github.com/reportaman/arttime) - Featureful timer with native desktop notifications and curated ASCII art.
+- [Tock ![GitHub Repo Stars](https://img.shields.io/github/stars/kriuchkov/tock) ![GitHub last commit](https://img.shields.io/github/last-commit/kriuchkov/tock)](https://github.com/kriuchkov/tock) - Powerful time tracking tool.
+- [Helm ![GitHub Repo Stars](https://img.shields.io/github/stars/0xjuanma/helm) ![GitHub last commit](https://img.shields.io/github/last-commit/0xjuanma/helm)](https://github.com/0xjuanma/helm) - Minimalistic timer.
 
 ### Note Taking and Lists
 
@@ -362,6 +366,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [kill-tabs ![GitHub Repo Stars](https://img.shields.io/github/stars/sindresorhus/kill-tabs) ![GitHub last commit](https://img.shields.io/github/last-commit/sindresorhus/kill-tabs)](https://github.com/sindresorhus/kill-tabs) - Kill all Chrome tabs.
 - [alex ![GitHub Repo Stars](https://img.shields.io/github/stars/get-alex/alex) ![GitHub last commit](https://img.shields.io/github/last-commit/get-alex/alex)](https://github.com/get-alex/alex) - Catch insensitive, inconsiderate writing.
 - [clevercli ![GitHub Repo Stars](https://img.shields.io/github/stars/clevercli/clevercli) ![GitHub last commit](https://img.shields.io/github/last-commit/clevercli/clevercli)](https://github.com/clevercli/clevercli) - Collection of ChatGPT powered utilities.
+- [OctoType ![GitHub Repo Stars](https://img.shields.io/github/stars/mahlquistj/octotype) ![GitHub last commit](https://img.shields.io/github/last-commit/mahlquistj/octotype)](https://github.com/mahlquistj/octotype) - A customizable typing trainer.
 
 ### macOS
 
@@ -435,7 +440,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [mdv ![GitHub Repo Stars](https://img.shields.io/github/stars/axiros/terminal_markdown_viewer) ![GitHub last commit](https://img.shields.io/github/last-commit/axiros/terminal_markdown_viewer)](https://github.com/axiros/terminal_markdown_viewer) - Styled terminal markdown viewer.
 - [glow ![GitHub Repo Stars](https://img.shields.io/github/stars/charmbracelet/glow) ![GitHub last commit](https://img.shields.io/github/last-commit/charmbracelet/glow)](https://github.com/charmbracelet/glow) - Styled markdown rendering.
 - [gtree ![GitHub Repo Stars](https://img.shields.io/github/stars/ddddddO/gtree) ![GitHub last commit](https://img.shields.io/github/last-commit/ddddddO/gtree)](https://github.com/ddddddO/gtree) - Use markdown to generate directory trees and the directories itself.
-- [resumx ![GitHub Repo Stars](https://img.shields.io/github/stars/resumx/resumx) ![GitHub last commit](https://img.shields.io/github/last-commit/resumx/resumx)](https://github.com/resumx/resumx) - Markdown resume renderer with auto page-fitting.
+- [Jimmy ![GitHub Repo Stars](https://img.shields.io/github/stars/marph91/jimmy) ![GitHub last commit](https://img.shields.io/github/last-commit/marph91/jimmy)](https://github.com/marph91/jimmy) - Convert various note formats to markdown.
 
 ### Security
 
@@ -461,6 +466,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [wttr.in ![GitHub Repo Stars](https://img.shields.io/github/stars/chubin/wttr.in) ![GitHub last commit](https://img.shields.io/github/last-commit/chubin/wttr.in)](https://github.com/chubin/wttr.in)
 - [wego ![GitHub Repo Stars](https://img.shields.io/github/stars/schachmat/wego) ![GitHub last commit](https://img.shields.io/github/last-commit/schachmat/wego)](https://github.com/schachmat/wego)
 - [weather-cli ![GitHub Repo Stars](https://img.shields.io/github/stars/riyadhalnur/weather-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/riyadhalnur/weather-cli)](https://github.com/riyadhalnur/weather-cli)
+- [weathr ![GitHub Repo Stars](https://img.shields.io/github/stars/veirt/weathr) ![GitHub last commit](https://img.shields.io/github/last-commit/veirt/weathr)](https://github.com/veirt/weathr) - ASCII animations.
 
 ### Browser Replacement
 
@@ -482,6 +488,12 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 ### Science
 
 - [periodic-table-cli ![GitHub Repo Stars](https://img.shields.io/github/stars/spirometaxas/periodic-table-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/spirometaxas/periodic-table-cli)](https://github.com/spirometaxas/periodic-table-cli) - View and explore the Periodic Table of Elements.
+- [astroterm ![GitHub Repo Stars](https://img.shields.io/github/stars/da-luce/astroterm) ![GitHub last commit](https://img.shields.io/github/last-commit/da-luce/astroterm)](https://github.com/da-luce/astroterm) - An ASCII planetarium.
+
+### Professional: Resume
+
+- [resumx ![GitHub Repo Stars](https://img.shields.io/github/stars/resumx/resumx) ![GitHub last commit](https://img.shields.io/github/last-commit/resumx/resumx)](https://github.com/resumx/resumx) - Markdown resume renderer with auto page-fitting.
+- [YAMLResume ![GitHub Repo Stars](https://img.shields.io/github/stars/yamlresume/yamlresume) ![GitHub last commit](https://img.shields.io/github/last-commit/yamlresume/yamlresume)](https://github.com/yamlresume/yamlresume) - Resumes as code.
 
 ## Command Line Learning
 
@@ -500,6 +512,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 ## Data Manipulation
 
 - [visidata ![GitHub Repo Stars](https://img.shields.io/github/stars/saulpw/visidata) ![GitHub last commit](https://img.shields.io/github/last-commit/saulpw/visidata)](https://github.com/saulpw/visidata) - Spreadsheet multitool for data discovery and arrangement.
+- [sc-im ![GitHub Repo Stars](https://img.shields.io/github/stars/andmarti1424/sc-im) ![GitHub last commit](https://img.shields.io/github/last-commit/andmarti1424/sc-im)](https://github.com/andmarti1424/sc-im) - Vim-like spreadsheet calculator.
 
 ### Processors
 
@@ -582,6 +595,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [RecoverPy ![GitHub Repo Stars](https://img.shields.io/github/stars/PabloLec/RecoverPy) ![GitHub last commit](https://img.shields.io/github/last-commit/PabloLec/RecoverPy)](https://github.com/PabloLec/RecoverPy) - Recover overwritten or deleted files.
 - [f2 ![GitHub Repo Stars](https://img.shields.io/github/stars/ayoisaiah/f2) ![GitHub last commit](https://img.shields.io/github/last-commit/ayoisaiah/f2)](https://github.com/ayoisaiah/f2) - A cross-platform tool for fast, safe, and flexible batch renaming.
 - [scc ![GitHub Repo Stars](https://img.shields.io/github/stars/boyter/scc) ![GitHub last commit](https://img.shields.io/github/last-commit/boyter/scc)](https://github.com/boyter/scc) - Count lines of code, blank lines, comment lines, and physical lines of source code.
+- [chkbit](https://laktak.github.io/chkbit/) - Check your files for data corruption.
 
 ### File Sync/Sharing
 
@@ -604,6 +618,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [ll ![GitHub Repo Stars](https://img.shields.io/github/stars/antonmedv/ll) ![GitHub last commit](https://img.shields.io/github/last-commit/antonmedv/ll)](https://github.com/antonmedv/ll) - `ls` with git status.
 - [lsd ![GitHub Repo Stars](https://img.shields.io/github/stars/Peltoche/lsd) ![GitHub last commit](https://img.shields.io/github/last-commit/Peltoche/lsd)](https://github.com/Peltoche/lsd) - `ls` with many extra features.
 - [lla ![GitHub Repo Stars](https://img.shields.io/github/stars/triyanox/lla) ![GitHub last commit](https://img.shields.io/github/last-commit/triyanox/lla)](https://github.com/triyanox/lla) - Improved `ls` with plugins.
+- [pls ![GitHub Repo Stars](https://img.shields.io/github/stars/pls-rs/pls) ![GitHub last commit](https://img.shields.io/github/last-commit/pls-rs/pls)](https://github.com/pls-rs/pls)  - `ls` for the pros.
 
 ### Directory Navigation
 
@@ -658,6 +673,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [gitui ![GitHub Repo Stars](https://img.shields.io/github/stars/extrawurst/gitui) ![GitHub last commit](https://img.shields.io/github/last-commit/extrawurst/gitui)](https://github.com/extrawurst/gitui) - Blazing fast terminal-ui for git written in Rust.
 - [ggc ![GitHub Repo Stars](https://img.shields.io/github/stars/bmf-san/ggc) ![GitHub last commit](https://img.shields.io/github/last-commit/bmf-san/ggc)](https://github.com/bmf-san/ggc) - A modern Git tool with both CLI and interactive incremental-search UI.
 - [AI Git Narrator ![GitHub Repo Stars](https://img.shields.io/github/stars/pmusolino/AI-Git-Narrator) ![GitHub last commit](https://img.shields.io/github/last-commit/pmusolino/AI-Git-Narrator)](https://github.com/pmusolino/AI-Git-Narrator) - [macOS]: https://github.com/agarrharr/awesome-cli-apps/raw/master/Generate commit messages with AI.
+- [gibr ![GitHub Repo Stars](https://img.shields.io/github/stars/ytreister/gibr) ![GitHub last commit](https://img.shields.io/github/last-commit/ytreister/gibr)](https://github.com/ytreister/gibr) - Easily create consistent git branch names.
 
 ### GitHub
 
@@ -676,6 +692,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [carbon-now-cli ![GitHub Repo Stars](https://img.shields.io/github/stars/mixn/carbon-now-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/mixn/carbon-now-cli)](https://github.com/mixn/carbon-now-cli) - Generate beautiful images of your code.
 - [imgur-uploader-cli ![GitHub Repo Stars](https://img.shields.io/github/stars/kevva/imgur-uploader-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/kevva/imgur-uploader-cli)](https://github.com/kevva/imgur-uploader-cli) - Upload images to imgur.
 - [pageres-cli ![GitHub Repo Stars](https://img.shields.io/github/stars/sindresorhus/pageres-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/sindresorhus/pageres-cli)](https://github.com/sindresorhus/pageres-cli) - Capture website screenshots.
+- [optimizt ![GitHub Repo Stars](https://img.shields.io/github/stars/343dev/optimizt) ![GitHub last commit](https://img.shields.io/github/last-commit/343dev/optimizt)](https://github.com/343dev/optimizt) - Helps prepare images for the web.
 
 ### Gif Creation
 
@@ -700,6 +717,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [pipes.sh ![GitHub Repo Stars](https://img.shields.io/github/stars/pipeseroni/pipes.sh) ![GitHub last commit](https://img.shields.io/github/last-commit/pipeseroni/pipes.sh)](https://github.com/pipeseroni/pipes.sh) - Random pipes that grow across the screen.
 - [YuleLog ![GitHub Repo Stars](https://img.shields.io/github/stars/Duroktar/YuleLog) ![GitHub last commit](https://img.shields.io/github/last-commit/Duroktar/YuleLog)](https://github.com/Duroktar/YuleLog) - Christmas Yule Log fireplace.
 - [cli-fireplace ![GitHub Repo Stars](https://img.shields.io/github/stars/dolsup/cli-fireplace) ![GitHub last commit](https://img.shields.io/github/last-commit/dolsup/cli-fireplace)](https://github.com/dolsup/cli-fireplace) - Digital fireplace.
+- [gitlogue ![GitHub Repo Stars](https://img.shields.io/github/stars/unhappychoice/gitlogue) ![GitHub last commit](https://img.shields.io/github/last-commit/unhappychoice/gitlogue)](https://github.com/unhappychoice/gitlogue) - Cinematic git commit replay.
 
 ## Graphics
 
