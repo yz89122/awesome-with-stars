@@ -250,6 +250,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [docker-pushrm ![GitHub Repo Stars](https://img.shields.io/github/stars/christian-korneck/docker-pushrm) ![GitHub last commit](https://img.shields.io/github/last-commit/christian-korneck/docker-pushrm)](https://github.com/christian-korneck/docker-pushrm) - Push a readme to container registries.
 - [ctop ![GitHub Repo Stars](https://img.shields.io/github/stars/bcicen/ctop) ![GitHub last commit](https://img.shields.io/github/last-commit/bcicen/ctop)](https://github.com/bcicen/ctop) - Top like interface for container metrics.
 - [decompose ![GitHub Repo Stars](https://img.shields.io/github/stars/s0rg/decompose) ![GitHub last commit](https://img.shields.io/github/last-commit/s0rg/decompose)](https://github.com/s0rg/decompose) - Create connections graph for running docker containers.
+- [kool ![GitHub Repo Stars](https://img.shields.io/github/stars/kool-dev/kool) ![GitHub last commit](https://img.shields.io/github/last-commit/kool-dev/kool)](https://github.com/kool-dev/kool) - Web development with containers made easy. 
 
 ### Release
 
@@ -344,6 +345,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [notesmd-cli ![GitHub Repo Stars](https://img.shields.io/github/stars/Yakitrak/notesmd-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/Yakitrak/notesmd-cli)](https://github.com/Yakitrak/notesmd-cli) - Interact with your Obsidian vault.
 - [journalot ![GitHub Repo Stars](https://img.shields.io/github/stars/jtaylortech/journalot) ![GitHub last commit](https://img.shields.io/github/last-commit/jtaylortech/journalot)](https://github.com/jtaylortech/journalot) - Journaling tool with git sync.
 - [rucola ![GitHub Repo Stars](https://img.shields.io/github/stars/Linus-Mussmaecher/rucola) ![GitHub last commit](https://img.shields.io/github/last-commit/Linus-Mussmaecher/rucola)](https://github.com/Linus-Mussmaecher/rucola) - Manage your markdown notes.
+- [kanban.bash ![GitHub Repo Stars](https://img.shields.io/github/stars/coderofsalvation/kanban.bash) ![GitHub last commit](https://img.shields.io/github/last-commit/coderofsalvation/kanban.bash)](https://github.com/coderofsalvation/kanban.bash) - Kanban todo manager with a CSV backend.
 
 ### Finance
 
@@ -592,6 +594,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [cpy-cli ![GitHub Repo Stars](https://img.shields.io/github/stars/sindresorhus/cpy-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/sindresorhus/cpy-cli)](https://github.com/sindresorhus/cpy-cli) - Copies files.
 - [rename-cli ![GitHub Repo Stars](https://img.shields.io/github/stars/jhotmann/node-rename-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/jhotmann/node-rename-cli)](https://github.com/jhotmann/node-rename-cli) - Rename files quickly.
 - [renameutils](https://www.nongnu.org/renameutils/) - Mass renaming in your editor.
+- [nomino ![GitHub Repo Stars](https://img.shields.io/github/stars/yaa110/nomino) ![GitHub last commit](https://img.shields.io/github/last-commit/yaa110/nomino)](https://github.com/yaa110/nomino) - Batch rename utility for developers.
 
 ### Disk Usage
 

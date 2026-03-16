@@ -2230,6 +2230,7 @@ for the creation of web applications developed with Angular.
 * [rxjs-course ![GitHub Repo Stars](https://img.shields.io/github/stars/angular-university/rxjs-course) ![GitHub last commit](https://img.shields.io/github/last-commit/angular-university/rxjs-course)](https://github.com/angular-university/rxjs-course) - RxJS course from Angular University.
 * [subscribable-things ![GitHub Repo Stars](https://img.shields.io/github/stars/chrisguttandin/subscribable-things) ![GitHub last commit](https://img.shields.io/github/last-commit/chrisguttandin/subscribable-things)](https://github.com/chrisguttandin/subscribable-things) - A collection of reactive wrappers for various browser APIs.
 * [subsiphon ![GitHub Repo Stars](https://img.shields.io/github/stars/shobeiry/subsiphon) ![GitHub last commit](https://img.shields.io/github/last-commit/shobeiry/subsiphon)](https://github.com/shobeiry/subsiphon) - Lightweight utility for managing multiple RxJS subscriptions with indexed/named keys and simple cleanup methods.
+* [web-serial-rxjs ![GitHub Repo Stars](https://img.shields.io/github/stars/gurezo/web-serial-rxjs) ![GitHub last commit](https://img.shields.io/github/last-commit/gurezo/web-serial-rxjs)](https://github.com/gurezo/web-serial-rxjs) - A TypeScript library that provides a reactive RxJS-based wrapper for the Web Serial API, enabling easy serial port communication in web applications.
 
 ### TypeScript
 
