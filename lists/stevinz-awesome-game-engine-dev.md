@@ -1022,7 +1022,7 @@ _Language specific game engine development libraries / frameworks / code._
 - 📚 [Awesome Rust ![GitHub Repo Stars](https://img.shields.io/github/stars/rust-unofficial/awesome-rust) ![GitHub last commit](https://img.shields.io/github/last-commit/rust-unofficial/awesome-rust)](https://github.com/rust-unofficial/awesome-rust) - Curated list of Rust code and resources.
 - 🌎 [Rust](https://www.rust-lang.org) - Empowering everyone to build quality software. [[Docs](https://www.rust-lang.org/learn) | [GitHub](https://github.com/rust-lang)]
 - Rust: App Framework
-    - 🎉 [Makepad ![GitHub Repo Stars](https://img.shields.io/github/stars/makepad/makepad) ![GitHub last commit](https://img.shields.io/github/last-commit/makepad/makepad)](https://github.com/makepad/makepad) - Software development platform and native-rendering gui framework. [[Editor](https://makepad.dev/)]
+    - ��� [Makepad ![GitHub Repo Stars](https://img.shields.io/github/stars/makepad/makepad) ![GitHub last commit](https://img.shields.io/github/last-commit/makepad/makepad)](https://github.com/makepad/makepad) - Software development platform and native-rendering gui framework. [[Editor](https://makepad.dev/)]
     - 🎉 [Tao ![GitHub Repo Stars](https://img.shields.io/github/stars/tauri-apps/tao) ![GitHub last commit](https://img.shields.io/github/last-commit/tauri-apps/tao)](https://github.com/tauri-apps/tao) - Cross-platform windowing. [[Docs](https://docs.rs/tao/latest/tao/)]
 - Rust: Audio
     - 🎉 [Kira ![GitHub Repo Stars](https://img.shields.io/github/stars/tesselode/kira) ![GitHub last commit](https://img.shields.io/github/last-commit/tesselode/kira)](https://github.com/tesselode/kira) - Create expressive audio for games.

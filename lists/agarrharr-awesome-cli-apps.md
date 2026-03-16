@@ -2,6 +2,14 @@
 	<img width="763" src="https://cdn.rawgit.com/aharris88/awesome-cli-apps/master/media/banner.png" alt="awesome cli apps">
 </p>
 
+<p align="center">
+  Proudly maintained by:
+  <a href="https://jneidel.com">
+    <img width="24px" src="https://jneidel.com/img/logo.png" alt="jneidel.com logo">
+    <span>jneidel.com</span>
+  </a>
+</p>
+
 ---
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -171,6 +179,7 @@ Inspired by the [awesome ![GitHub Repo Stars](https://img.shields.io/github/star
 - [is-up-cli ![GitHub Repo Stars](https://img.shields.io/github/stars/sindresorhus/is-up-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/sindresorhus/is-up-cli)](https://github.com/sindresorhus/is-up-cli) - Check if a domain is up.
 - [reachable ![GitHub Repo Stars](https://img.shields.io/github/stars/italolelis/reachable) ![GitHub last commit](https://img.shields.io/github/last-commit/italolelis/reachable)](https://github.com/italolelis/reachable) - Check if a domain is up.
 - [diff2html-cli ![GitHub Repo Stars](https://img.shields.io/github/stars/rtfpessoa/diff2html-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/rtfpessoa/diff2html-cli)](https://github.com/rtfpessoa/diff2html-cli) - Create pretty HTML from diffs.
+- [mk ![GitHub Repo Stars](https://img.shields.io/github/stars/pycontribs/mk) ![GitHub last commit](https://img.shields.io/github/last-commit/pycontribs/mk)](https://github.com/pycontribs/mk) - Exposes most common actions you can run in unfamiliar repos.
 
 ### Text Editors
 
@@ -346,6 +355,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [cash-cli ![GitHub Repo Stars](https://img.shields.io/github/stars/xxczaki/cash-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/xxczaki/cash-cli)](https://github.com/xxczaki/cash-cli) - Convert Currency Rates.
 - [cointop ![GitHub Repo Stars](https://img.shields.io/github/stars/miguelmota/cointop) ![GitHub last commit](https://img.shields.io/github/last-commit/miguelmota/cointop)](https://github.com/miguelmota/cointop) - Track cryptocurrencies.
 - [ticker ![GitHub Repo Stars](https://img.shields.io/github/stars/achannarasappa/ticker) ![GitHub last commit](https://img.shields.io/github/last-commit/achannarasappa/ticker)](https://github.com/achannarasappa/ticker) - Stock ticker.
+- [lakshmi ![GitHub Repo Stars](https://img.shields.io/github/stars/sarvjeets/lakshmi) ![GitHub last commit](https://img.shields.io/github/last-commit/sarvjeets/lakshmi)](https://github.com/sarvjeets/lakshmi) - Bogleheads inspired tool for managing your investing portfolio.
 
 ### Presentations
 
@@ -429,6 +439,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [pipe_exec ![GitHub Repo Stars](https://img.shields.io/github/stars/koraa/pipe_exec) ![GitHub last commit](https://img.shields.io/github/last-commit/koraa/pipe_exec)](https://github.com/koraa/pipe_exec) - Run executables from stdin, pipes and ttys without creating a temporary file.
 - [intelli-shell ![GitHub Repo Stars](https://img.shields.io/github/stars/lasantosr/intelli-shell) ![GitHub last commit](https://img.shields.io/github/last-commit/lasantosr/intelli-shell)](https://github.com/lasantosr/intelli-shell) - Manage command templates/snippets.
 - [envio ![GitHub Repo Stars](https://img.shields.io/github/stars/envio-cli/envio) ![GitHub last commit](https://img.shields.io/github/last-commit/envio-cli/envio)](https://github.com/envio-cli/envio) - Manage environment variables securely.
+- [await ![GitHub Repo Stars](https://img.shields.io/github/stars/slavaGanzin/await) ![GitHub last commit](https://img.shields.io/github/last-commit/slavaGanzin/await)](https://github.com/slavaGanzin/await) - Runs commands in parallel and waits for their termination.
 
 ### System Interaction Utilities
 
@@ -620,6 +631,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [ncp ![GitHub Repo Stars](https://img.shields.io/github/stars/kha7iq/ncp) ![GitHub last commit](https://img.shields.io/github/last-commit/kha7iq/ncp)](https://github.com/kha7iq/ncp) - Transfer files and folders, to and from NFS servers.
 - [share ![GitHub Repo Stars](https://img.shields.io/github/stars/beavailable/share) ![GitHub last commit](https://img.shields.io/github/last-commit/beavailable/share)](https://github.com/beavailable/share) - Share and receive files effortlessly over HTTP.
 - [shuk](https://shuk.rs) - Quicky share files using Amazon S3 buckets.
+- [croc ![GitHub Repo Stars](https://img.shields.io/github/stars/schollz/croc) ![GitHub last commit](https://img.shields.io/github/last-commit/schollz/croc)](https://github.com/schollz/croc) - Easily send things from one computer to another.
 
 ### Directory Listing
 
@@ -681,7 +693,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [git-all-branches ![GitHub Repo Stars](https://img.shields.io/github/stars/zacanger/git-all-branches) ![GitHub last commit](https://img.shields.io/github/last-commit/zacanger/git-all-branches)](https://github.com/zacanger/git-all-branches) - Improved `git branch -a`.
 - [czg ![GitHub Repo Stars](https://img.shields.io/github/stars/Zhengqbbb/cz-git) ![GitHub last commit](https://img.shields.io/github/last-commit/Zhengqbbb/cz-git)](https://github.com/Zhengqbbb/cz-git/tree/main/packages/cli) - Interactively generate standardized commit messages.
 - [shallow-backup ![GitHub Repo Stars](https://img.shields.io/github/stars/alichtman/shallow-backup) ![GitHub last commit](https://img.shields.io/github/last-commit/alichtman/shallow-backup)](https://github.com/alichtman/shallow-backup) - Git integrated backup tool.
-- [Lazygit ![GitHub Repo Stars](https://img.shields.io/github/stars/jesseduffield/lazygit) ![GitHub last commit](https://img.shields.io/github/last-commit/jesseduffield/lazygit)](https://github.com/jesseduffield/lazygit) - Simple TUI for git commands.
+- [lazygit ![GitHub Repo Stars](https://img.shields.io/github/stars/jesseduffield/lazygit) ![GitHub last commit](https://img.shields.io/github/last-commit/jesseduffield/lazygit)](https://github.com/jesseduffield/lazygit) - Simple TUI for git commands.
 - [bash-git-prompt ![GitHub Repo Stars](https://img.shields.io/github/stars/magicmonty/bash-git-prompt) ![GitHub last commit](https://img.shields.io/github/last-commit/magicmonty/bash-git-prompt)](https://github.com/magicmonty/bash-git-prompt) - Informative and fancy bash prompt for Git users.
 - [gitui ![GitHub Repo Stars](https://img.shields.io/github/stars/extrawurst/gitui) ![GitHub last commit](https://img.shields.io/github/last-commit/extrawurst/gitui)](https://github.com/extrawurst/gitui) - Blazing fast terminal-ui for git written in Rust.
 - [ggc ![GitHub Repo Stars](https://img.shields.io/github/stars/bmf-san/ggc) ![GitHub last commit](https://img.shields.io/github/last-commit/bmf-san/ggc)](https://github.com/bmf-san/ggc) - A modern Git tool with both CLI and interactive incremental-search UI.
