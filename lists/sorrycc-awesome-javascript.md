@@ -1102,6 +1102,7 @@ https://listjs.com
 * [Functional-Light JavaScript ![GitHub Repo Stars](https://img.shields.io/github/stars/getify/Functional-Light-JS) ![GitHub last commit](https://img.shields.io/github/last-commit/getify/Functional-Light-JS)](https://github.com/getify/Functional-Light-JS) - Pragmatic, balanced FP in JavaScript.
 * [Clean Code JavaScript ![GitHub Repo Stars](https://img.shields.io/github/stars/ryanmcdermott/clean-code-javascript) ![GitHub last commit](https://img.shields.io/github/last-commit/ryanmcdermott/clean-code-javascript)](https://github.com/ryanmcdermott/clean-code-javascript) - Clean Code concepts adapted for JavaScript.
 * [Roadmap.sh JavaScript Roadmap](https://roadmap.sh/javascript) - Learn JavaScript from a community sourced learning roadmap.
+* [JavaScript Info](https://javascript.info) - Modern JavaScript tutorial with simple explanations.
 
 
 # Other Awesome Lists

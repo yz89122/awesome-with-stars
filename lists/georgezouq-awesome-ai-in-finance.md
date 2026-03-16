@@ -34,6 +34,7 @@ With the power of the latest artificial intelligence research, people analyze & 
 - [TradingAgents ![GitHub Repo Stars](https://img.shields.io/github/stars/TauricResearch/TradingAgents) ![GitHub last commit](https://img.shields.io/github/last-commit/TauricResearch/TradingAgents)](https://github.com/TauricResearch/TradingAgents) - Multi-Agents LLM Financial Trading Framework.
 - 🌟 [FinRobot ![GitHub Repo Stars](https://img.shields.io/github/stars/AI4Finance-Foundation/FinRobot) ![GitHub last commit](https://img.shields.io/github/last-commit/AI4Finance-Foundation/FinRobot)](https://github.com/AI4Finance-Foundation/FinRobot) - An Open-Source AI Agent Platform for Financial Analysis using LLMs.
 - [AgentFund ![GitHub Repo Stars](https://img.shields.io/github/stars/RioBot-Grind/agentfund) ![GitHub last commit](https://img.shields.io/github/last-commit/RioBot-Grind/agentfund)](https://github.com/RioBot-Grind/agentfund) - Decentralized crowdfunding platform for AI agents with milestone-based escrow on Base blockchain.
+- 🌟 [ATLAS ![GitHub Repo Stars](https://img.shields.io/github/stars/chrisworsey55/atlas-gic) ![GitHub last commit](https://img.shields.io/github/last-commit/chrisworsey55/atlas-gic)](https://github.com/chrisworsey55/atlas-gic) - Self-improving AI trading system with 25 agents, Karpathy-style autoresearch, Darwinian selection, autonomous agent spawning, and multi-cohort meta-weighting.
 
 ## LLMs
 
@@ -78,6 +79,7 @@ With the power of the latest artificial intelligence research, people analyze & 
 - [Mastering Python for Finance ![GitHub Repo Stars](https://img.shields.io/github/stars/jamesmawm/mastering-python-for-finance-second-edition) ![GitHub last commit](https://img.shields.io/github/last-commit/jamesmawm/mastering-python-for-finance-second-edition)](https://github.com/jamesmawm/mastering-python-for-finance-second-edition) - Sources codes for: Mastering Python for Finance, Second Edition.
 - [MLSys-NYU-2022 ![GitHub Repo Stars](https://img.shields.io/github/stars/jacopotagliabue/MLSys-NYU-2022) ![GitHub last commit](https://img.shields.io/github/last-commit/jacopotagliabue/MLSys-NYU-2022)](https://github.com/jacopotagliabue/MLSys-NYU-2022/tree/main) - Slides, scripts and materials for the Machine Learning in Finance course at NYU Tandon, 2022.
 - [Train and Deploy a Serverless API to predict crypto prices ![GitHub Repo Stars](https://img.shields.io/github/stars/Paulescu/hands-on-train-and-deploy-ml) ![GitHub last commit](https://img.shields.io/github/last-commit/Paulescu/hands-on-train-and-deploy-ml)](https://github.com/Paulescu/hands-on-train-and-deploy-ml) - In this tutorial you won't build an ML system that will make you rich. But you will master the MLOps frameworks and tools you need to build ML systems that, together with tons of experimentation, can take you there.
+- [KeepRule](https://keeprule.com) - AI-powered investment discipline platform with principles from 26 legendary investors including Buffett, Munger, and Dalio.
 
 ## Strategies & Research
 
@@ -178,6 +180,7 @@ Price and Volume process with Technology Analysis Indices
 - [CoinPulse ![GitHub Repo Stars](https://img.shields.io/github/stars/soutone/coinpulse-python) ![GitHub last commit](https://img.shields.io/github/last-commit/soutone/coinpulse-python)](https://github.com/soutone/coinpulse-python) - Python SDK for cryptocurrency portfolio tracking with real-time prices, P/L calculations, backtesting, and price alerts. Free tier: 25 req/hr.
 - [Gekko-Datasets ![GitHub Repo Stars](https://img.shields.io/github/stars/xFFFFF/Gekko-Datasets) ![GitHub last commit](https://img.shields.io/github/last-commit/xFFFFF/Gekko-Datasets)](https://github.com/xFFFFF/Gekko-Datasets) - Gekko trading bot dataset dumps. Download and use history files in SQLite format.
 - [Frostbyte Crypto API](https://agent-gateway-kappa.vercel.app) - Free real-time cryptocurrency price data API. Supports BTC, ETH, SOL, and 20+ tokens. No signup or API key required for basic endpoints. JSON responses with price, 24h change, market cap, and volume.
+- [Philidor](https://docs.philidor.io/docs) - Institutional-grade DeFi risk scoring for 700+ vaults across 9 protocols and 6 chains. REST API and MCP server (Claude, Cursor, Windsurf). Deterministic 0–10 risk scores, tiers (Prime/Core/Edge), portfolio analysis, oracle monitoring. No API key required.
 
 #### News Data
 
@@ -186,6 +189,10 @@ Price and Volume process with Technology Analysis Indices
 #### Alternative Data
 
 - [Pizzint](https://www.pizzint.watch/) - Pentagon Pizza Index (PizzINT) is a real-time Pentagon pizza tracker that visualizes unusual activity at Pentagon-area pizzerias. It highlights a signal that has historically aligned with late-night, high-tempo operations and breaking news.
+
+#### Prediction Markets
+
+- [Parsec API](https://docs.parsecapi.com) - Unified prediction market infrastructure for normalized data, execution, and live streams across Polymarket, Kalshi, Opinion, Limitless, and PredictFun. MCP server for AI agent trading. Generous free tier.
 
 ## Research Tools
 
@@ -248,6 +255,7 @@ For Back Test & Live trading
 
 Do it in real world!
 
+- [Trade It](https://docs.tradeit.app/mcp) - MCP for trading on common brokerages (Robinhood, ETrade, Schwab, Webull, Public, tastytrade, Coinbase, Kraken so far)
 - [IbPy ![GitHub Repo Stars](https://img.shields.io/github/stars/blampe/IbPy) ![GitHub last commit](https://img.shields.io/github/last-commit/blampe/IbPy)](https://github.com/blampe/IbPy) - Python API for the Interactive Brokers on-line trading system.
 - [HuobiFeeder ![GitHub Repo Stars](https://img.shields.io/github/stars/mmmaaaggg/HuobiFeeder) ![GitHub last commit](https://img.shields.io/github/last-commit/mmmaaaggg/HuobiFeeder)](https://github.com/mmmaaaggg/HuobiFeeder) - Connect HUOBIPRO exchange, get market/historical data for ABAT trading platform backtest analysis and live trading.
 - [ctpwrapper ![GitHub Repo Stars](https://img.shields.io/github/stars/nooperpudd/ctpwrapper) ![GitHub last commit](https://img.shields.io/github/last-commit/nooperpudd/ctpwrapper)](https://github.com/nooperpudd/ctpwrapper) - Shanghai future exchange CTP api.
@@ -282,6 +290,7 @@ Do it in real world!
 - [Floom ![GitHub Repo Stars](https://img.shields.io/github/stars/FloomAI/Floom) ![GitHub last commit](https://img.shields.io/github/last-commit/FloomAI/Floom)](https://github.com/FloomAI/Floom) AI gateway and marketplace for developers, enables streamlined integration and least volatile approach of AI features into products
 - [LendTrain](https://www.lendtrain.com) - AI-native mortgage refinance plugin for Claude Code with real-time institutional pricing, state-specific closing costs, FHA Streamline/VA IRRRL detection, and regulatory compliance. Uses MCP (Model Context Protocol) to connect LLMs to live mortgage pricing.
 - [Registry Broker ![GitHub Repo Stars](https://img.shields.io/github/stars/hashgraph-online/hashnet-mcp-js) ![GitHub last commit](https://img.shields.io/github/last-commit/hashgraph-online/hashnet-mcp-js)](https://github.com/hashgraph-online/hashnet-mcp-js) - Universal AI agent index for discovering trading agents across Virtuals Protocol, NANDA, MCP, and other registries.
+- [Philidor](https://docs.philidor.io/docs) - DeFi risk infrastructure for AI agents: MCP server and REST API for vault risk scores, portfolio analysis, and due diligence. No API key. 700+ vaults, 9 protocols, 6 chains.
 
 #### Other Resource
 
