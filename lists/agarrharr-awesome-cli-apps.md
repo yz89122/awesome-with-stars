@@ -58,6 +58,7 @@ Inspired by the [awesome ![GitHub Repo Stars](https://img.shields.io/github/star
   - [Browser Replacement](#browser-replacement)
   - [Internet Speedtest](#internet-speedtest)
   - [Science](#science)
+  - [Professional: Resume](#professional-resume)
 - [Command Line Learning](#command-line-learning)
 - [Data Manipulation](#data-manipulation)
   - [Processors](#processors)
@@ -85,6 +86,9 @@ Inspired by the [awesome ![GitHub Repo Stars](https://img.shields.io/github/star
 - [Graphics](#graphics)
 - [Just for Fun](#just-for-fun)
   - [Emoji](#emoji-1)
+- [AI](#ai)
+  - [Agents](#agents)
+  - [LLM Interaction](#llm-interaction)
 - [Other Resources](#other-resources)
 - [License](#license)
 
@@ -227,6 +231,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [updo ![GitHub Repo Stars](https://img.shields.io/github/stars/Owloops/updo) ![GitHub last commit](https://img.shields.io/github/last-commit/Owloops/updo)](https://github.com/Owloops/updo) - Website monitoring tool.
 - [cronboard ![GitHub Repo Stars](https://img.shields.io/github/stars/antoniorodr/Cronboard) ![GitHub last commit](https://img.shields.io/github/last-commit/antoniorodr/Cronboard)](https://github.com/antoniorodr/Cronboard) - Dashboard for managing cron jobs.
 - [s3m ![GitHub Repo Stars](https://img.shields.io/github/stars/s3m/s3m) ![GitHub last commit](https://img.shields.io/github/last-commit/s3m/s3m)](https://github.com/s3m/s3m) - Stream of data into S3 buckets.
+- [bencher ![GitHub Repo Stars](https://img.shields.io/github/stars/bencherdev/bencher) ![GitHub last commit](https://img.shields.io/github/last-commit/bencherdev/bencher)](https://github.com/bencherdev/bencher) - A continuous benchmarking tool.
 
 ### Docker
 
@@ -235,6 +240,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [lazydocker ![GitHub Repo Stars](https://img.shields.io/github/stars/jesseduffield/lazydocker) ![GitHub last commit](https://img.shields.io/github/last-commit/jesseduffield/lazydocker)](https://github.com/jesseduffield/lazydocker) - Simple docker/docker-compose interface.
 - [docker-pushrm ![GitHub Repo Stars](https://img.shields.io/github/stars/christian-korneck/docker-pushrm) ![GitHub last commit](https://img.shields.io/github/last-commit/christian-korneck/docker-pushrm)](https://github.com/christian-korneck/docker-pushrm) - Push a readme to container registries.
 - [ctop ![GitHub Repo Stars](https://img.shields.io/github/stars/bcicen/ctop) ![GitHub last commit](https://img.shields.io/github/last-commit/bcicen/ctop)](https://github.com/bcicen/ctop) - Top like interface for container metrics.
+- [decompose ![GitHub Repo Stars](https://img.shields.io/github/stars/s0rg/decompose) ![GitHub last commit](https://img.shields.io/github/last-commit/s0rg/decompose)](https://github.com/s0rg/decompose) - Create connections graph for running docker containers.
 
 ### Release
 
@@ -253,6 +259,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [npm-check-updates ![GitHub Repo Stars](https://img.shields.io/github/stars/tjunnone/npm-check-updates) ![GitHub last commit](https://img.shields.io/github/last-commit/tjunnone/npm-check-updates)](https://github.com/tjunnone/npm-check-updates) - Find newer versions of package dependencies than what your package.json allows.
 - [updates ![GitHub Repo Stars](https://img.shields.io/github/stars/silverwind/updates) ![GitHub last commit](https://img.shields.io/github/last-commit/silverwind/updates)](https://github.com/silverwind/updates) - Flexible npm dependency update tool.
 - [wipe-modules ![GitHub Repo Stars](https://img.shields.io/github/stars/bntzio/wipe-modules) ![GitHub last commit](https://img.shields.io/github/last-commit/bntzio/wipe-modules)](https://github.com/bntzio/wipe-modules) - Remove `node_modules` of inactive projects.
+- [npm-deprecated-check ![GitHub Repo Stars](https://img.shields.io/github/stars/KID-joker/npm-deprecated-check) ![GitHub last commit](https://img.shields.io/github/last-commit/KID-joker/npm-deprecated-check)](https://github.com/KID-joker/npm-deprecated-check) - Check for deprecated dependencies.
 
 ### Boilerplate
 
@@ -325,8 +332,9 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [taskbook ![GitHub Repo Stars](https://img.shields.io/github/stars/klaussinani/taskbook) ![GitHub last commit](https://img.shields.io/github/last-commit/klaussinani/taskbook)](https://github.com/klaussinani/taskbook) - Tasks, boards & notes for the command-line habitat.
 - [dnote ![GitHub Repo Stars](https://img.shields.io/github/stars/dnote/dnote) ![GitHub last commit](https://img.shields.io/github/last-commit/dnote/dnote)](https://github.com/dnote/dnote) - A interactive, multi-device notebook.
 - [nb ![GitHub Repo Stars](https://img.shields.io/github/stars/xwmx/nb) ![GitHub last commit](https://img.shields.io/github/last-commit/xwmx/nb)](https://github.com/xwmx/nb) - A note‑taking, bookmarking, archiving, and knowledge base application.
-- [obsidian-cli ![GitHub Repo Stars](https://img.shields.io/github/stars/Yakitrak/obsidian-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/Yakitrak/obsidian-cli)](https://github.com/Yakitrak/obsidian-cli) - Interact with your Obsidian vault.
+- [notesmd-cli ![GitHub Repo Stars](https://img.shields.io/github/stars/Yakitrak/notesmd-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/Yakitrak/notesmd-cli)](https://github.com/Yakitrak/notesmd-cli) - Interact with your Obsidian vault.
 - [journalot ![GitHub Repo Stars](https://img.shields.io/github/stars/jtaylortech/journalot) ![GitHub last commit](https://img.shields.io/github/last-commit/jtaylortech/journalot)](https://github.com/jtaylortech/journalot) - Journaling tool with git sync.
+- [rucola ![GitHub Repo Stars](https://img.shields.io/github/stars/Linus-Mussmaecher/rucola) ![GitHub last commit](https://img.shields.io/github/last-commit/Linus-Mussmaecher/rucola)](https://github.com/Linus-Mussmaecher/rucola) - Manage your markdown notes.
 
 ### Finance
 
@@ -409,6 +417,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [QuickWall ![GitHub Repo Stars](https://img.shields.io/github/stars/deepjyoti30/QuickWall) ![GitHub last commit](https://img.shields.io/github/last-commit/deepjyoti30/QuickWall)](https://github.com/deepjyoti30/QuickWall) - Directly set wallpapers from Unsplash.
 - [oh-my-posh](https://ohmyposh.dev) - Prompt theme engine.
 - [starship ![GitHub Repo Stars](https://img.shields.io/github/stars/starship/starship) ![GitHub last commit](https://img.shields.io/github/last-commit/starship/starship)](https://github.com/starship/starship) - Minimal, blazing-fast, and infinitely customizable prompt for any shell.
+- [gowall ![GitHub Repo Stars](https://img.shields.io/github/stars/Achno/gowall) ![GitHub last commit](https://img.shields.io/github/last-commit/Achno/gowall)](https://github.com/Achno/gowall) - Extract image color pallet, recolor images/icon and more.
 
 ### Shell Utilities
 
@@ -419,6 +428,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [undollar ![GitHub Repo Stars](https://img.shields.io/github/stars/ImFeelingDucky/undollar) ![GitHub last commit](https://img.shields.io/github/last-commit/ImFeelingDucky/undollar)](https://github.com/ImFeelingDucky/undollar) - Strip the '$' preceding copy-pasted terminal commands.
 - [pipe_exec ![GitHub Repo Stars](https://img.shields.io/github/stars/koraa/pipe_exec) ![GitHub last commit](https://img.shields.io/github/last-commit/koraa/pipe_exec)](https://github.com/koraa/pipe_exec) - Run executables from stdin, pipes and ttys without creating a temporary file.
 - [intelli-shell ![GitHub Repo Stars](https://img.shields.io/github/stars/lasantosr/intelli-shell) ![GitHub last commit](https://img.shields.io/github/last-commit/lasantosr/intelli-shell)](https://github.com/lasantosr/intelli-shell) - Manage command templates/snippets.
+- [envio ![GitHub Repo Stars](https://img.shields.io/github/stars/envio-cli/envio) ![GitHub last commit](https://img.shields.io/github/last-commit/envio-cli/envio)](https://github.com/envio-cli/envio) - Manage environment variables securely.
 
 ### System Interaction Utilities
 
@@ -609,6 +619,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [sharing ![GitHub Repo Stars](https://img.shields.io/github/stars/parvardegr/sharing) ![GitHub last commit](https://img.shields.io/github/last-commit/parvardegr/sharing)](https://github.com/parvardegr/sharing) - Send and receive files on your mobile device.
 - [ncp ![GitHub Repo Stars](https://img.shields.io/github/stars/kha7iq/ncp) ![GitHub last commit](https://img.shields.io/github/last-commit/kha7iq/ncp)](https://github.com/kha7iq/ncp) - Transfer files and folders, to and from NFS servers.
 - [share ![GitHub Repo Stars](https://img.shields.io/github/stars/beavailable/share) ![GitHub last commit](https://img.shields.io/github/last-commit/beavailable/share)](https://github.com/beavailable/share) - Share and receive files effortlessly over HTTP.
+- [shuk](https://shuk.rs) - Quicky share files using Amazon S3 buckets.
 
 ### Directory Listing
 
@@ -645,6 +656,8 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [skim ![GitHub Repo Stars](https://img.shields.io/github/stars/lotabout/skim) ![GitHub last commit](https://img.shields.io/github/last-commit/lotabout/skim)](https://github.com/lotabout/skim) - A general fuzzy finder written in Rust, similar to fzf.
 - [ast-grep ![GitHub Repo Stars](https://img.shields.io/github/stars/ast-grep/ast-grep) ![GitHub last commit](https://img.shields.io/github/last-commit/ast-grep/ast-grep)](https://github.com/ast-grep/ast-grep) - A tool for code structural search, linting and rewriting.
 - [television ![GitHub Repo Stars](https://img.shields.io/github/stars/alexpasmantier/television) ![GitHub last commit](https://img.shields.io/github/last-commit/alexpasmantier/television)](https://github.com/alexpasmantier/television) - A very fast general purpose fuzzy finder.
+- [srgn ![GitHub Repo Stars](https://img.shields.io/github/stars/alexpovel/srgn) ![GitHub last commit](https://img.shields.io/github/last-commit/alexpovel/srgn)](https://github.com/alexpovel/srgn/) - A grep-like tool which understands code syntax and also allows for manipulation.
+- [rawhide ![GitHub Repo Stars](https://img.shields.io/github/stars/raforg/rawhide) ![GitHub last commit](https://img.shields.io/github/last-commit/raforg/rawhide)](https://github.com/raforg/rawhide) - Find files using pretty C expressions.
 
 ## Version Control
 
@@ -710,6 +723,8 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [imgp ![GitHub Repo Stars](https://img.shields.io/github/stars/jarun/imgp) ![GitHub last commit](https://img.shields.io/github/last-commit/jarun/imgp)](https://github.com/jarun/imgp) - Blazing fast batch image resizer and rotator.
 - [korkut ![GitHub Repo Stars](https://img.shields.io/github/stars/oguzhaninan/korkut) ![GitHub last commit](https://img.shields.io/github/last-commit/oguzhaninan/korkut)](https://github.com/oguzhaninan/korkut) - Quick and simple image processing.
 - [pdfjuicer ![GitHub Repo Stars](https://img.shields.io/github/stars/dmikhr/pdfjuicer) ![GitHub last commit](https://img.shields.io/github/last-commit/dmikhr/pdfjuicer)](https://github.com/dmikhr/pdfjuicer) - Extract PDF pages as images.
+- [gowall ![GitHub Repo Stars](https://img.shields.io/github/stars/Achno/gowall) ![GitHub last commit](https://img.shields.io/github/last-commit/Achno/gowall)](https://github.com/Achno/gowall) - Recolor images, OCR, image upscaling and more.
+- [img2ascii ![GitHub Repo Stars](https://img.shields.io/github/stars/JosefVesely/Image-to-ASCII) ![GitHub last commit](https://img.shields.io/github/last-commit/JosefVesely/Image-to-ASCII)](https://github.com/JosefVesely/Image-to-ASCII) - Convert images to ASCII art.
 
 ## Screensavers
 
@@ -743,6 +758,19 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [emoj ![GitHub Repo Stars](https://img.shields.io/github/stars/sindresorhus/emoj) ![GitHub last commit](https://img.shields.io/github/last-commit/sindresorhus/emoj)](https://github.com/sindresorhus/emoj) - Find relevant emoji from text on the command-line.
 - [emoji-finder ![GitHub Repo Stars](https://img.shields.io/github/stars/dematerializer/emoji-finder) ![GitHub last commit](https://img.shields.io/github/last-commit/dematerializer/emoji-finder)](https://github.com/dematerializer/emoji-finder) - Quickly find and copy emoji to the clipboard via the command-line.
 - [oji ![GitHub Repo Stars](https://img.shields.io/github/stars/xxczaki/oji) ![GitHub last commit](https://img.shields.io/github/last-commit/xxczaki/oji)](https://github.com/xxczaki/oji) - Interactive text emoji maker.
+
+## AI
+Inclusion criteria are less strict for this fast-moving field.
+
+### Agents
+- [greywall ![GitHub Repo Stars](https://img.shields.io/github/stars/GreyhavenHQ/greywall) ![GitHub last commit](https://img.shields.io/github/last-commit/GreyhavenHQ/greywall)](https://github.com/GreyhavenHQ/greywall) - Deny-by-default sandbox with filesystem and network isolation.
+- [agent-of-empires ![GitHub Repo Stars](https://img.shields.io/github/stars/njbrake/agent-of-empires) ![GitHub last commit](https://img.shields.io/github/last-commit/njbrake/agent-of-empires)](https://github.com/njbrake/agent-of-empires) - Coding agent session manager via tmux and git worktrees.
+- [agent-deck ![GitHub Repo Stars](https://img.shields.io/github/stars/asheshgoplani/agent-deck) ![GitHub last commit](https://img.shields.io/github/last-commit/asheshgoplani/agent-deck)](https://github.com/asheshgoplani/agent-deck) - Dashboard for managing multiple AI coding agent sessions.
+- [Sugar ![GitHub Repo Stars](https://img.shields.io/github/stars/roboticforce/sugar) ![GitHub last commit](https://img.shields.io/github/last-commit/roboticforce/sugar)](https://github.com/roboticforce/sugar) - Autonomous agent that queues and executes tasks in the background.
+
+### LLM Interaction
+- [aye-chat ![GitHub Repo Stars](https://img.shields.io/github/stars/acrotron/aye-chat) ![GitHub last commit](https://img.shields.io/github/last-commit/acrotron/aye-chat)](https://github.com/acrotron/aye-chat) - Workspace for editing, running commands, and chatting with your codebase.
+- [cmd-ai ![GitHub Repo Stars](https://img.shields.io/github/stars/BrodaNoel/cmd-ai) ![GitHub last commit](https://img.shields.io/github/last-commit/BrodaNoel/cmd-ai)](https://github.com/BrodaNoel/cmd-ai) - Turns natural language into executable shell commands.
 
 ## Other Resources
 
