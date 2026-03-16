@@ -790,7 +790,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [honeybadger.io](https://www.honeybadger.io) - Exception, uptime, and cron monitoring. Free for small teams and open-source projects (12,000 errors/month).
   * [Jam](https://jam.dev) - Developer friendly bug reports in one click. Free plan with unlimited jams.
   * [memfault.com](https://memfault.com) — Cloud device observability and debugging platform. 100 devices free for [Nordic](https://app.memfault.com/register-nordic), [NXP](https://app.memfault.com/register-nxp), and [Laird](https://app.memfault.com/register-laird) devices.
-  * [rollbar.com](https://rollbar.com/) — Exception and error monitoring, free plan with 5,000 errors/month, unlimited users, 30 days retention
+  * [rollbar.com](https://rollbar.com/) �� Exception and error monitoring, free plan with 5,000 errors/month, unlimited users, 30 days retention
   * [Semaphr](https://semaphr.com) — Free all-in-one kill switch for your mobile apps.
   * [sentry.io](https://sentry.io/) — Sentry tracks app exceptions in real-time and has a small free plan. Free for 5k errors per month/ 1 user, unrestricted use if self-hosted
   * [Whitespace](https://whitespace.dev) – One-click bug reports straight in your browser. Free plan with unlimited recordings for personal use.
@@ -923,6 +923,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [FabForm](https://fabform.io/) - Form backend platform for intelligent developers. The free plan allows 250 form submissions per month. Friendly modern GUI. Integrates with Google Sheets, Airtable, Slack, Email, and others.
   * [Feathery](https://feathery.io) - Powerful, developer-friendly form builder. Build signup & login, user onboarding, payment flows, complex financial applications, and more. The free plan allows up to 250 submissions/month and five active forms.
   * [feedback.fish](https://feedback.fish/) - Free plan allows collecting 25 total feedback submissions. Easy to integrate with React and Vue components provided.
+  * [FluidForms](https://fluidforms.ai/) — Form builder and backend with AI-driven logic. Free plan includes 100 responses per month, unlimited forms (including AI-created forms), webhooks, and embedding.
   * [Form.taxi](https://form.taxi/) — Endpoint for HTML forms submissions. With notifications, spam blockers, and GDPR-compliant data processing. Free plan for basic usage.
   * [Formcarry.com](https://formcarry.com) - HTTP POST Form endpoint, Free plan allows 100 monthly submissions.
   * [Formester.com](https://formester.com) - Share and embed unique-looking forms on your website—no limits on the number of forms created or features restricted by the plan. Get up to 100 submissions every month for free.
@@ -1557,7 +1558,7 @@ Update Time, five active automations, webhooks.
   * [usabilityhub.com](https://usabilityhub.com/) — Test designs and mockups on real people and track visitors. Free for one user, unlimited tests
   * [Userbird](https://userbird.com) - Google Analytics alternative with heatmaps, session recordings and revenue tracking.
 
-**[⬆️ Back to Top](#table-of-contents)**
+**[⬆��� Back to Top](#table-of-contents)**
 
 ## Visitor Session Recording
 
