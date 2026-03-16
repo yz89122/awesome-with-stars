@@ -206,6 +206,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [sqlline ![GitHub Repo Stars](https://img.shields.io/github/stars/julianhyde/sqlline) ![GitHub last commit](https://img.shields.io/github/last-commit/julianhyde/sqlline)](https://github.com/julianhyde/sqlline) - Shell for issuing SQL via JDBC.
 - [iredis ![GitHub Repo Stars](https://img.shields.io/github/stars/laixintao/iredis) ![GitHub last commit](https://img.shields.io/github/last-commit/laixintao/iredis)](https://github.com/laixintao/iredis) - Redis client with autocompletion and syntax highlighting.
 - [usql ![GitHub Repo Stars](https://img.shields.io/github/stars/xo/usql) ![GitHub last commit](https://img.shields.io/github/last-commit/xo/usql)](https://github.com/xo/usql) - Universal SQL client with autocompletion and syntax highlighting.
+- [rdsai-cli ![GitHub Repo Stars](https://img.shields.io/github/stars/aliyun/rdsai-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/aliyun/rdsai-cli)](https://github.com/aliyun/rdsai-cli) - AI-powered MySQL client.
 
 ### Devops
 
@@ -434,6 +435,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [mdv ![GitHub Repo Stars](https://img.shields.io/github/stars/axiros/terminal_markdown_viewer) ![GitHub last commit](https://img.shields.io/github/last-commit/axiros/terminal_markdown_viewer)](https://github.com/axiros/terminal_markdown_viewer) - Styled terminal markdown viewer.
 - [glow ![GitHub Repo Stars](https://img.shields.io/github/stars/charmbracelet/glow) ![GitHub last commit](https://img.shields.io/github/last-commit/charmbracelet/glow)](https://github.com/charmbracelet/glow) - Styled markdown rendering.
 - [gtree ![GitHub Repo Stars](https://img.shields.io/github/stars/ddddddO/gtree) ![GitHub last commit](https://img.shields.io/github/last-commit/ddddddO/gtree)](https://github.com/ddddddO/gtree) - Use markdown to generate directory trees and the directories itself.
+- [resumx ![GitHub Repo Stars](https://img.shields.io/github/stars/resumx/resumx) ![GitHub last commit](https://img.shields.io/github/last-commit/resumx/resumx)](https://github.com/resumx/resumx) - Markdown resume renderer with auto page-fitting.
 
 ### Security
 
@@ -726,7 +728,8 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 
 ## Other Resources
 
-- [awesome-cli-apps-in-a-csv ![GitHub Repo Stars](https://img.shields.io/github/stars/toolleeo/awesome-cli-apps-in-a-csv) ![GitHub last commit](https://img.shields.io/github/last-commit/toolleeo/awesome-cli-apps-in-a-csv)](https://github.com/toolleeo/awesome-cli-apps-in-a-csv) - Extensive list of cli apps.
+- [awesome-cli-apps-in-a-csv ![GitHub Repo Stars](https://img.shields.io/github/stars/toolleeo/awesome-cli-apps-in-a-csv) ![GitHub last commit](https://img.shields.io/github/last-commit/toolleeo/awesome-cli-apps-in-a-csv)](https://github.com/toolleeo/awesome-cli-apps-in-a-csv) - Extensive list of CLI apps.
+- [Terminal Trove](https://terminaltrove.com/) - List of CLI apps.
 - [awesome-shell ![GitHub Repo Stars](https://img.shields.io/github/stars/alebcay/awesome-shell) ![GitHub last commit](https://img.shields.io/github/last-commit/alebcay/awesome-shell)](https://github.com/alebcay/awesome-shell#readme) – Command-line utilities and frameworks.
 - [terminals-are-sexy ![GitHub Repo Stars](https://img.shields.io/github/stars/k4m4/terminals-are-sexy) ![GitHub last commit](https://img.shields.io/github/last-commit/k4m4/terminals-are-sexy)](https://github.com/k4m4/terminals-are-sexy#readme) – Terminal frameworks, plugins & resources.
 - [awesome-zsh-plugins ![GitHub Repo Stars](https://img.shields.io/github/stars/unixorn/awesome-zsh-plugins) ![GitHub last commit](https://img.shields.io/github/last-commit/unixorn/awesome-zsh-plugins)](https://github.com/unixorn/awesome-zsh-plugins#readme) – ZSH frameworks, plugins, tutorials & themes.

@@ -54,7 +54,7 @@ A collaborative list of great resources about RESTful API architecture, developm
 * [Cisco REST API Guide ![GitHub Repo Stars](https://img.shields.io/github/stars/CiscoDevNet/api-design-guide) ![GitHub last commit](https://img.shields.io/github/last-commit/CiscoDevNet/api-design-guide)](https://github.com/CiscoDevNet/api-design-guide) - Guidelines for designing REST APIs at Cisco.
 * [Google Cloud API design guide](https://cloud.google.com/apis/design/) - Guidelines Google follows when designing Cloud APIs and other Google APIs (REST APIs and gRPC APIs).
 * [Haufe API Style Guide ![GitHub Repo Stars](https://img.shields.io/github/stars/Haufe-Lexware/api-style-guide) ![GitHub last commit](https://img.shields.io/github/last-commit/Haufe-Lexware/api-style-guide)](https://github.com/Haufe-Lexware/api-style-guide) - Guidelines created by Haufe-Lexware CTO team.
-* [Microsoft REST API Guidelines ![GitHub Repo Stars](https://img.shields.io/github/stars/Microsoft/api-guidelines) ![GitHub last commit](https://img.shields.io/github/last-commit/Microsoft/api-guidelines)](https://github.com/Microsoft/api-guidelines/blob/vNext/Guidelines.md#readme) - The Microsoft REST API Guidelines, as a design principle, encourages application developers to have resources accessible to them via a RESTful HTTP interface.
+* [Microsoft REST API Guidelines ![GitHub Repo Stars](https://img.shields.io/github/stars/microsoft/api-guidelines) ![GitHub last commit](https://img.shields.io/github/last-commit/microsoft/api-guidelines)](https://github.com/microsoft/api-guidelines/blob/vNext/graph/GuidelinesGraph.md) - The Microsoft REST API Guidelines, as a design principle, encourages application developers to have resources accessible to them via a RESTful HTTP interface.
 * [Restful API Guidelines by Zalando ![GitHub Repo Stars](https://img.shields.io/github/stars/zalando/restful-api-guidelines) ![GitHub last commit](https://img.shields.io/github/last-commit/zalando/restful-api-guidelines)](https://github.com/zalando/restful-api-guidelines) - Developing Restful APIs: A Comprehensive Set of Guidelines.
 
 ## Standards
@@ -179,7 +179,7 @@ A collaborative list of great resources about RESTful API architecture, developm
 * [apistar ![GitHub Repo Stars](https://img.shields.io/github/stars/encode/apistar) ![GitHub last commit](https://img.shields.io/github/last-commit/encode/apistar)](https://github.com/encode/apistar) - A smart Web API framework, designed for Python 3. 
 * [Falcon ![GitHub Repo Stars](https://img.shields.io/github/stars/falconry/falcon) ![GitHub last commit](https://img.shields.io/github/last-commit/falconry/falcon)](https://github.com/falconry/falcon) - Falcon is a bare-metal Python web API framework for building high-performance microservices, app backends, and higher-level frameworks.
 * [FastAPI ![GitHub Repo Stars](https://img.shields.io/github/stars/tiangolo/fastapi) ![GitHub last commit](https://img.shields.io/github/last-commit/tiangolo/fastapi)](https://github.com/tiangolo/fastapi) - FastAPI is a modern, fast (high-performance), web framework for building APIs with Python 3.6+ based on standard Python type hints. With automatic API documentation using Swagger UI and ReDoc, based on OpenAPI and JSON Schema.
-* [Zato](https://zato.io) - Platform for building server-side integrations, automations and API backends in Python.
+* [Zato ![GitHub Repo Stars](https://img.shields.io/github/stars/zatosource/zato) ![GitHub last commit](https://img.shields.io/github/last-commit/zatosource/zato)](https://github.com/zatosource/zato/) - Platform for building server-side integrations, automations and API backends in Python.
 
 ### Ruby
 
@@ -249,7 +249,7 @@ A collaborative list of great resources about RESTful API architecture, developm
 
 ### Public REST APIs To Use In Tests
 
-* [Public APIS ![GitHub Repo Stars](https://img.shields.io/github/stars/public-apis/public-apis) ![GitHub last commit](https://img.shields.io/github/last-commit/public-apis/public-apis)](https://github.com/public-apis/public-apis) - Explore The Largest API Directory In The Galaxy.
+* [Public APIs](https://publicapis.dev/) - The world's largest directory of public APIs.
 * [APIs.guru](https://APIs.guru) - Wikipedia for Web APIs, each API has OpenAPI/Swagger description.
 * [JSON Placeholder](https://jsonplaceholder.typicode.com/) - Fake REST API abput posts, users and comments
 
@@ -270,7 +270,7 @@ A collaborative list of great resources about RESTful API architecture, developm
 * [API Umbrella ![GitHub Repo Stars](https://img.shields.io/github/stars/NREL/api-umbrella) ![GitHub last commit](https://img.shields.io/github/last-commit/NREL/api-umbrella)](https://github.com/NREL/api-umbrella) - API management platform for exposing web services, with web interface and analytics, written in Lua.
 * [WSO2 API Management ![GitHub Repo Stars](https://img.shields.io/github/stars/wso2/product-apim) ![GitHub last commit](https://img.shields.io/github/last-commit/wso2/product-apim)](https://github.com/wso2/product-apim) - API management tool with lightweight gateway and API lifecycle management, written in Java.
 * [Express Gateway ![GitHub Repo Stars](https://img.shields.io/github/stars/ExpressGateway/express-gateway) ![GitHub last commit](https://img.shields.io/github/last-commit/ExpressGateway/express-gateway)](https://github.com/ExpressGateway/express-gateway) - Microservices API Gateway built on top of ExpressJS (Node.js).
-* [KrakenD ![GitHub Repo Stars](https://img.shields.io/github/stars/devopsfaith/krakend) ![GitHub last commit](https://img.shields.io/github/last-commit/devopsfaith/krakend)](https://github.com/devopsfaith/krakend) - Ultra performant API Gateway with middleware. Written in Go.
+* [Lura ![GitHub Repo Stars](https://img.shields.io/github/stars/luraproject/lura) ![GitHub last commit](https://img.shields.io/github/last-commit/luraproject/lura)](https://github.com/luraproject/lura) - Ultra performant API Gateway with middleware. Written in Go.
 * [AWS API Gateway](https://aws.amazon.com/api-gateway/) - Fully managed service that helps developers to create, publish, maintain, monitor, and secure APIs at any scale.
 * [Zuplo](https://zuplo.com/) - OpenAPI-Powered API & MCP Management platform for Security, Deployment, and Documentation. Add auth, rate-limiting, and monetization to your API or MCP Server in minutes, written in TypeScript & Go.
 
@@ -278,6 +278,7 @@ A collaborative list of great resources about RESTful API architecture, developm
 
 * [Nango ![GitHub Repo Stars](https://img.shields.io/github/stars/NangoHQ/nango) ![GitHub last commit](https://img.shields.io/github/last-commit/NangoHQ/nango)](https://github.com/NangoHQ/nango) - Native integrations framework to consume REST APIs (open-source).
 * [Runscope](https://www.runscope.com/) - Automated API Monitoring & Testing.
+* [Keploy](https://keploy.io) - Open-source API testing and data mocking tool that generates test cases and stubs automatically from real traffic, enabling end-to-end API testing and monitoring.
 * [Ping-API](https://ping-api.com/) - Automated API Monitoring & Testing.
 * [Apiary](https://apiary.io/) - Collaborative design, instant API mock, generated documentation, integrated code samples, debugging and automated testing.
 * [Amazon API Gateway](https://aws.amazon.com/api-gateway/) - Amazon API Gateway is a fully managed service that makes it easy for developers to create, publish, maintain, monitor, and secure APIs at any scale.
