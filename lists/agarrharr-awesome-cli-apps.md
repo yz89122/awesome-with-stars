@@ -721,6 +721,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [imgur-uploader-cli ![GitHub Repo Stars](https://img.shields.io/github/stars/kevva/imgur-uploader-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/kevva/imgur-uploader-cli)](https://github.com/kevva/imgur-uploader-cli) - Upload images to imgur.
 - [pageres-cli ![GitHub Repo Stars](https://img.shields.io/github/stars/sindresorhus/pageres-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/sindresorhus/pageres-cli)](https://github.com/sindresorhus/pageres-cli) - Capture website screenshots.
 - [optimizt ![GitHub Repo Stars](https://img.shields.io/github/stars/343dev/optimizt) ![GitHub last commit](https://img.shields.io/github/last-commit/343dev/optimizt)](https://github.com/343dev/optimizt) - Helps prepare images for the web.
+- [freeze ![GitHub Repo Stars](https://img.shields.io/github/stars/charmbracelet/freeze) ![GitHub last commit](https://img.shields.io/github/last-commit/charmbracelet/freeze)](https://github.com/charmbracelet/freeze) - Generate images of code and terminal output.
 
 ### Gif Creation
 
