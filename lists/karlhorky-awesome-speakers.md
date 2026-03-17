@@ -447,7 +447,7 @@ https://twitter.com/enthusiasto
 Topics: Elm, Visualizations\
 https://twitter.com/tereza_sokol
 
-## Finland ��🇮
+## Finland 🇫🇮
 
 ### Helsinki
 
@@ -1145,7 +1145,7 @@ https://twitter.com/luisabrpereira
 Topics: Ember, JavaScript\
 https://twitter.com/maskedwarrior
 
-## Romania ���🇴
+## Romania 🇷🇴
 
 <img src="https://github.com/karlhorky/awesome-speakers/raw/main/avatars/martonkodok" height="70px" width="70px" align="left" alt="" />
 
