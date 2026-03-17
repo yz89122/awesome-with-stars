@@ -349,10 +349,10 @@ Supports:
 - list, check, reload, update & remove plugin(s) with commands
 
 Dependencies:
-- zsh
+- `zsh`
 - gnu coreutils
-- git (optional, if you want to clone git repositories from internet)
-- curl (optional, if you want to fetch a script file by url)
+- `git` (optional, if you want to clone git repositories from internet)
+- `curl` (optional, if you want to fetch a script file by url)
 
 Pros:
 - extremely simple and light, but enough to use.
@@ -417,7 +417,7 @@ Tools Provided by x-cmd:
 ![GitHub last commit](https://img.shields.io/github/last-commit/qoomon/zgem)
  ![GitHub Repo stars](https://img.shields.io/github/stars/qoomon/zgem)
 
-**zgem** is a plugin manager for ZSH that supports loading and updating plugins and themes from git, http and local files.
+**zgem** is a plugin manager for ZSH that supports loading and updating plugins and themes from `git`, http and local files.
 
 ### [zgen ![GitHub Repo Stars](https://img.shields.io/github/stars/tarjoilija/zgen) ![GitHub last commit](https://img.shields.io/github/last-commit/tarjoilija/zgen)](https://github.com/tarjoilija/zgen)
 ![GitHub last commit](https://img.shields.io/github/last-commit/tarjoilija/zgen)
@@ -425,7 +425,7 @@ Tools Provided by x-cmd:
 
 **Zgen is currently not being actively maintained**. I recommend you use the [zgenom ![GitHub Repo Stars](https://img.shields.io/github/stars/jandamm/zgenom) ![GitHub last commit](https://img.shields.io/github/last-commit/jandamm/zgenom)](https://github.com/jandamm/zgenom) fork instead, which is actively maintained and continues to get new features and bug fixes.
 
-**Zgen** is a lightweight plugin manager for ZSH inspired by [Antigen ![GitHub Repo Stars](https://img.shields.io/github/stars/zsh-users/antigen) ![GitHub last commit](https://img.shields.io/github/last-commit/zsh-users/antigen)](https://github.com/zsh-users/antigen). The goal is to have minimal overhead when starting up the shell because nobody likes waiting.
+**Zgen** was a lightweight plugin manager for ZSH inspired by [Antigen ![GitHub Repo Stars](https://img.shields.io/github/stars/zsh-users/antigen) ![GitHub last commit](https://img.shields.io/github/last-commit/zsh-users/antigen)](https://github.com/zsh-users/antigen). The goal was to have minimal overhead when starting up the shell because nobody likes waiting.
 
 ### [zgenom ![GitHub Repo Stars](https://img.shields.io/github/stars/jandamm/zgenom) ![GitHub last commit](https://img.shields.io/github/last-commit/jandamm/zgenom)](https://github.com/jandamm/zgenom)
 ![GitHub last commit](https://img.shields.io/github/last-commit/jandamm/zgenom)
@@ -477,8 +477,8 @@ The project is very active – currently > 3100 commits.
 This is Zinit 4 from the [original author](https://github.com/psprint), who once removed the [Zinit ![GitHub Repo Stars](https://img.shields.io/github/stars/zdharma-continuum/zinit) ![GitHub last commit](https://img.shields.io/github/last-commit/zdharma-continuum/zinit)](https://github.com/zdharma-continuum/zinit) repository from GitHub. This spawned a community-driven [zdharma-continuum](https://github.com/zdharma-continuum) organization that revived all of psprint's ZSH projects. Its main innovations from the @zdharma-continuum fork are:
 
 - AppImage distribution (release link),
-- Action complete – press Alt-Shift-A and Alt-Shift-C to complete plugin names and ice modifiers,
-- Themes – set $ZITHEME to one of default, blue and gold to set a color set to use for Zinit 4 messages,
+- Action complete – press `Alt-Shift-A` and `Alt-Shift-C` to complete plugin names and ice modifiers,
+- Themes – set `$ZITHEM`E to one of default, blue and gold to set a color set to use for Zinit 4 messages,
 - New ice `build` which is equivalent of three other ices: `null`, `configure` and `make install` and simply builds the project from sources, with support for autotools/CMake/Meson/Scons.
 
 These are the most visible changes, but there are more (like e.g.: support for compiling with libraries from previously built projects/`$ZPFX`).
@@ -576,7 +576,7 @@ ZSH package managers are abundant, but most are bloated, slow or have excessive 
 
 **zshing** is a ZSH plugin manager similar to Vundle/Vim and allows you to...
 
-- Keep track of and configure your plugins right in the `.zshrc`
+- Keep track of and configure your plugins right in your `~/.zshrc`
 - Install ZSH plugins
 - Update ZSH plugins
 - Search by name all available ZSH Plugins
@@ -679,7 +679,7 @@ This section is for full setup dropins - they aren't frameworks, but they're not
 
 ## Prerequisites
 
-If you're on a Mac, the `zsh` that comes with it is usually pretty stale. You can use `brew install zsh` to update it.
+If you're on a Mac, the `zsh` that comes with each OS update is usually very stale. You can use `brew install zsh` to update it.
 
 Many of the themes here use special glyphs for things like displaying a branch icon. You'll need to use a [Nerd Font ![GitHub Repo Stars](https://img.shields.io/github/stars/ryanoasis/nerd-fonts) ![GitHub last commit](https://img.shields.io/github/last-commit/ryanoasis/nerd-fonts)](https://github.com/ryanoasis/nerd-fonts) or a Powerline-compatible font in your terminal program or you'll see ugly broken boxes where the symbols should be.
 
@@ -693,13 +693,16 @@ Here are a few good sources for Nerd Fonts and Powerline-compatible fonts:
 - [Hack](http://sourcefoundry.org/hack/) - Another Powerline-compatible font designed for source code and terminal usage.
 - [Input Mono](https://input.djr.com/) - A family of fonts designed specifically for code. It offers both monospaced and proportional fonts and includes Powerline glyphs.
 - [Iosevka](https://be5invis.github.io/Iosevka/) - Iosevka is an open source slender monospace sans-serif and slab-serif typeface inspired by [Pragmata Pro](http://www.fsd.it/fonts/pragmatapro.htm), M+ and [PF DIN Mono](https://www.myfonts.com/fonts/parachute/pf-din-mono/), designed to be the ideal font for programming.
+- [Monaspace ![GitHub Repo Stars](https://img.shields.io/github/stars/githubnext/monaspace) ![GitHub last commit](https://img.shields.io/github/last-commit/githubnext/monaspace)](https://github.com/githubnext/monaspace) - Monaspace is five interchangable type families, each of which is packaged into three distinct formats. You can install all of them side-by-side; their family names are distinct by family and format.
 - [Monoid](http://larsenwork.com/monoid/) - Monoid is customizable and optimized for coding with bitmap-like sharpness at 15px line-height even on low res displays.
 - [Mononoki](https://madmalik.github.io/mononoki/) - Mononoki is a typeface by Matthias Tellen, created to enhance code formatting.
-- [More Nerd Fonts](https://www.nerdfonts.com/font-downloads) - Another site to download Nerd Fonts.
+- [More Nerd Fonts](https://www.nerdfonts.com/font-downloads) - Another site collecting Nerd Fonts to download.
 - [Nerd fonts ![GitHub Repo Stars](https://img.shields.io/github/stars/ryanoasis/nerd-fonts) ![GitHub last commit](https://img.shields.io/github/last-commit/ryanoasis/nerd-fonts)](https://github.com/ryanoasis/nerd-fonts) - A collection of over 20 patched fonts (over 1,700 variations) & the fontforge font patcher python script for Powerline, devicons, and vim-devicons: includes Droid Sans, Meslo, AnonymousPro, ProFont, Inconsolta, and many more. These can be installed with `brew` - do `brew tap homebrew/cask-fonts && brew install --cask fontname`
 - [Powerline patched font collection ![GitHub Repo Stars](https://img.shields.io/github/stars/powerline/fonts) ![GitHub last commit](https://img.shields.io/github/last-commit/powerline/fonts)](https://github.com/powerline/fonts) - A collection of a dozen or so fonts patched to include Powerline glyphs.
 - [Spacemono ![GitHub Repo Stars](https://img.shields.io/github/stars/googlefonts/spacemono) ![GitHub last commit](https://img.shields.io/github/last-commit/googlefonts/spacemono)](https://github.com/googlefonts/spacemono) - Google's new original monospace display typeface family.
 - [Victor Mono](https://rubjo.github.io/victor-mono/) - Victor Mono is a free programming font with semi-connected cursive italics, symbol ligatures (!=, ->>, =>, ===, <=, >=, ++) and Latin, Cyrillic and Greek characters.
+
+If you're looking for a new font to use, check out [www.codingfont.com](https://www.codingfont.com/) - it presents programming fonts in a bracket-style tournament and lets you keep picking the best of two presented options until landing on a final font.
 
 ## Tutorials
 
@@ -1044,6 +1047,7 @@ Here are a few good sources for Nerd Fonts and Powerline-compatible fonts:
 - [exa-ls ![GitHub Repo Stars](https://img.shields.io/github/stars/birdhackor/zsh-exa-ls-plugin) ![GitHub last commit](https://img.shields.io/github/last-commit/birdhackor/zsh-exa-ls-plugin)](https://github.com/birdhackor/zsh-exa-ls-plugin) - Adds aliases so that you can use [exa ![GitHub Repo Stars](https://img.shields.io/github/stars/ogham/exa) ![GitHub last commit](https://img.shields.io/github/last-commit/ogham/exa)](https://github.com/ogham/exa) as a drop-in replacement for `ls` and `tree`.
 - [exercism ![GitHub Repo Stars](https://img.shields.io/github/stars/fabiokiatkowski/exercism.plugin.zsh) ![GitHub last commit](https://img.shields.io/github/last-commit/fabiokiatkowski/exercism.plugin.zsh)](https://github.com/fabiokiatkowski/exercism.plugin.zsh) - A plugin for [exercism.io](http://exercism.io/).
 - [expand-ealias ![GitHub Repo Stars](https://img.shields.io/github/stars/zigius/expand-ealias.plugin.zsh) ![GitHub last commit](https://img.shields.io/github/last-commit/zigius/expand-ealias.plugin.zsh)](https://github.com/zigius/expand-ealias.plugin.zsh) - Expand specific aliases with space.
+- [expand-space ![GitHub Repo Stars](https://img.shields.io/github/stars/spqw/zsh-alias-expand-space) ![GitHub last commit](https://img.shields.io/github/last-commit/spqw/zsh-alias-expand-space)](https://github.com/spqw/zsh-alias-expand-space) - Expand command-position `zsh` aliases when you press space.
 - [expand ![GitHub Repo Stars](https://img.shields.io/github/stars/MenkeTechnologies/zsh-expand) ![GitHub last commit](https://img.shields.io/github/last-commit/MenkeTechnologies/zsh-expand)](https://github.com/MenkeTechnologies/zsh-expand) - Expands regular aliases, global aliases, incorrect spellings and phrases, globs, history expansion and $parameters with the spacebar key.
 - [expander ![GitHub Repo Stars](https://img.shields.io/github/stars/ianthehenry/zsh-expander) ![GitHub last commit](https://img.shields.io/github/last-commit/ianthehenry/zsh-expander)](https://github.com/ianthehenry/zsh-expander) - A `zle` widget that allows you to write custom expanders and select them with [fzf ![GitHub Repo Stars](https://img.shields.io/github/stars/junegunn/fzf) ![GitHub last commit](https://img.shields.io/github/last-commit/junegunn/fzf)](https://github.com/junegunn/fzf).
 - [explain-shell (brokentoaster) ![GitHub Repo Stars](https://img.shields.io/github/stars/brokentoaster/zsh-explainshell) ![GitHub last commit](https://img.shields.io/github/last-commit/brokentoaster/zsh-explainshell)](https://github.com/brokentoaster/zsh-explainshell) - Uses [lynx](https://lynx.browser.org/) to look up the current command line on [explainshell.com](https://explainshell.com).
@@ -2224,7 +2228,6 @@ These plugins add tab completions without adding extra functions or aliases.
 - [bronze ![GitHub Repo Stars](https://img.shields.io/github/stars/reujab/bronze) ![GitHub last commit](https://img.shields.io/github/last-commit/reujab/bronze)](https://github.com/reujab/bronze) - A cross-shell customizable powerline-like prompt with icons written in go. Requires [nerd-fonts ![GitHub Repo Stars](https://img.shields.io/github/stars/ryanoasis/nerd-fonts) ![GitHub last commit](https://img.shields.io/github/last-commit/ryanoasis/nerd-fonts)](https://github.com/ryanoasis/nerd-fonts).
 - [brs ![GitHub Repo Stars](https://img.shields.io/github/stars/evenhold/brs-zsh-theme) ![GitHub last commit](https://img.shields.io/github/last-commit/evenhold/brs-zsh-theme)](https://github.com/evenhold/brs-zsh-theme) - Displays the current song in the prompt with `audtool`.
 - [bruh ![GitHub Repo Stars](https://img.shields.io/github/stars/haze/bruh) ![GitHub last commit](https://img.shields.io/github/last-commit/haze/bruh)](https://github.com/haze/bruh) - Includes `git` status decorations.
-- [brunty ![GitHub Repo Stars](https://img.shields.io/github/stars/Brunty/omz-brunty) ![GitHub last commit](https://img.shields.io/github/last-commit/Brunty/omz-brunty)](https://github.com/Brunty/omz-brunty) - Includes `git` status decorations.
 - [bryce-robbyrussell ![GitHub Repo Stars](https://img.shields.io/github/stars/Bryan-Cee/bryce-robbyrussell) ![GitHub last commit](https://img.shields.io/github/last-commit/Bryan-Cee/bryce-robbyrussell)](https://github.com/Bryan-Cee/bryce-robbyrussell) - Inspired by the [powerline ![GitHub Repo Stars](https://img.shields.io/github/stars/Lokaltog/vim-powerline) ![GitHub last commit](https://img.shields.io/github/last-commit/Lokaltog/vim-powerline)](https://github.com/Lokaltog/vim-powerline) and [robbyrussell ![GitHub Repo Stars](https://img.shields.io/github/stars/ohmyzsh/ohmyzsh) ![GitHub last commit](https://img.shields.io/github/last-commit/ohmyzsh/ohmyzsh)](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes#robbyrussell) themes.
 - [bttf-color ![GitHub Repo Stars](https://img.shields.io/github/stars/yasuhiroki/bttf-color-zsh) ![GitHub last commit](https://img.shields.io/github/last-commit/yasuhiroki/bttf-color-zsh)](https://github.com/yasuhiroki/bttf-color-zsh) - BTTF color theme. Includes `git` status decorations.
 - [bubblegum ![GitHub Repo Stars](https://img.shields.io/github/stars/ice-bear-forever/bubblegum-zsh) ![GitHub last commit](https://img.shields.io/github/last-commit/ice-bear-forever/bubblegum-zsh)](https://github.com/ice-bear-forever/bubblegum-zsh) - Minimalist bright pink theme with a triangular glyph and your working directory, nothing else—leaving you with the cleanest shell possible.
@@ -3020,7 +3023,6 @@ These plugins add tab completions without adding extra functions or aliases.
 - [temeraf ![GitHub Repo Stars](https://img.shields.io/github/stars/filiptoma/temeraf-zsh) ![GitHub last commit](https://img.shields.io/github/last-commit/filiptoma/temeraf-zsh)](https://github.com/filiptoma/temeraf-zsh) - Minimalist theme with decorations for `git` status, timestamps and last exit status.
 - [tepig-ys ![GitHub Repo Stars](https://img.shields.io/github/stars/thingerpig/tepig-ys.zsh-theme) ![GitHub last commit](https://img.shields.io/github/last-commit/thingerpig/tepig-ys.zsh-theme)](https://github.com/thingerpig/tepig-ys.zsh-theme) - Includes `git` status decorations and conda/virtualenv status.
 - [termux ![GitHub Repo Stars](https://img.shields.io/github/stars/rooted-cyber/Termux-zsh-theme) ![GitHub last commit](https://img.shields.io/github/last-commit/rooted-cyber/Termux-zsh-theme)](https://github.com/rooted-cyber/Termux-zsh-theme) - Minimalist theme.
-- [termuxer ![GitHub Repo Stars](https://img.shields.io/github/stars/patrick330602/termuxer) ![GitHub last commit](https://img.shields.io/github/last-commit/patrick330602/termuxer)](https://github.com/patrick330602/termuxer) - Theme inspired by [Agnoster ![GitHub Repo Stars](https://img.shields.io/github/stars/agnoster/agnoster-zsh-theme) ![GitHub last commit](https://img.shields.io/github/last-commit/agnoster/agnoster-zsh-theme)](https://github.com/agnoster/agnoster-zsh-theme) and linuxer.
 - [thayne ![GitHub Repo Stars](https://img.shields.io/github/stars/tmccombs/thayne.zsh-theme) ![GitHub last commit](https://img.shields.io/github/last-commit/tmccombs/thayne.zsh-theme)](https://github.com/tmccombs/thayne.zsh-theme) - Includes decorators for exit status of last command, time to run if > 1 second, current time, current directory and `git` status. Requires a [Nerd Font ![GitHub Repo Stars](https://img.shields.io/github/stars/ryanoasis/nerd-fonts) ![GitHub last commit](https://img.shields.io/github/last-commit/ryanoasis/nerd-fonts)](https://github.com/ryanoasis/nerd-fonts).
 - [the-time-lord ![GitHub Repo Stars](https://img.shields.io/github/stars/jhwhite/the-time-lord) ![GitHub last commit](https://img.shields.io/github/last-commit/jhwhite/the-time-lord)](https://github.com/jhwhite/the-time-lord) - A theme based on [gallifrey ![GitHub Repo Stars](https://img.shields.io/github/stars/ohmyzsh/ohmyzsh) ![GitHub last commit](https://img.shields.io/github/last-commit/ohmyzsh/ohmyzsh)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/gallifrey.zsh-theme).
 - [theme-line ![GitHub Repo Stars](https://img.shields.io/github/stars/yw9381/oh-my-zsh_theme_line) ![GitHub last commit](https://img.shields.io/github/last-commit/yw9381/oh-my-zsh_theme_line)](https://github.com/yw9381/oh-my-zsh_theme_line) - Colorful theme with `git` status.
