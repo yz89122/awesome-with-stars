@@ -88,6 +88,8 @@ Inspired by the [awesome ![GitHub Repo Stars](https://img.shields.io/github/star
 
 - [Website-Diff ![GitHub Repo Stars](https://img.shields.io/github/stars/GeiserX/Website-Diff) ![GitHub last commit](https://img.shields.io/github/last-commit/GeiserX/Website-Diff)](https://github.com/GeiserX/Website-Diff) - Intelligent web page comparison tool with Wayback Machine support and visual regression testing via Selenium.
 
+- [Wopee.io](https://wopee.io) - Autonomous visual regression testing platform with AI-powered test agents. Integrates with Playwright, Cypress, and Robot Framework.
+
 ### Containers
 
 #### Docker
