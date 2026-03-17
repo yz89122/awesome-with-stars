@@ -103,6 +103,8 @@ Price and Volume process with Technology Analysis Indices
 - [stock_market_reinforcement_learning ![GitHub Repo Stars](https://img.shields.io/github/stars/kh-kim/stock_market_reinforcement_learning) ![GitHub last commit](https://img.shields.io/github/last-commit/kh-kim/stock_market_reinforcement_learning)](https://github.com/kh-kim/stock_market_reinforcement_learning) - Stock market trading OpenAI Gym environment with Deep Reinforcement Learning using Keras.
 - [Chaos Genius ![GitHub Repo Stars](https://img.shields.io/github/stars/chaos-genius/chaos_genius) ![GitHub last commit](https://img.shields.io/github/last-commit/chaos-genius/chaos_genius)](https://github.com/chaos-genius/chaos_genius) - ML powered analytics engine for outlier/anomaly detection and root cause analysis..
 - [mlforecast ![GitHub Repo Stars](https://img.shields.io/github/stars/Nixtla/mlforecast) ![GitHub last commit](https://img.shields.io/github/last-commit/Nixtla/mlforecast)](https://github.com/Nixtla/mlforecast) - Scalable machine learning based time series forecasting.
+- [patternity ![GitHub Repo Stars](https://img.shields.io/github/stars/quantium-ai/patternity) ![GitHub last commit](https://img.shields.io/github/last-commit/quantium-ai/patternity)](https://github.com/quantium-ai/patternity) - Deterministic algorithm for stock price prediction, focusing on pattern recognition in historical data.
+- [Quantium Research ![GitHub Repo Stars](https://img.shields.io/github/stars/quantium-ai/research) ![GitHub last commit](https://img.shields.io/github/last-commit/quantium-ai/research)](https://github.com/quantium-ai/research) - Research experiments exploring uncommon quant techniques.
 
 ### Portfolio Management
 
