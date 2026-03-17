@@ -647,6 +647,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 | [Turbostream ![GitHub Repo Stars](https://img.shields.io/github/stars/turboline-ai/turbostream) ![GitHub last commit](https://img.shields.io/github/last-commit/turboline-ai/turbostream)](https://github.com/turboline-ai/turbostream) | A terminal UI for experimenting with custom rule engines and selective LLM analysis on real-time data streams, without worrying about streaming infra or backpressure. |
 | [WFGY ProblemMap ![GitHub Repo Stars](https://img.shields.io/github/stars/onestardao/WFGY) ![GitHub last commit](https://img.shields.io/github/last-commit/onestardao/WFGY)](https://github.com/onestardao/WFGY/blob/main/ProblemMap/README.md) | Open source “failure atlas” of 16 recurring issues in LLM and RAG pipelines, with observable symptoms and suggested fixes for data science teams. |
 | [Deploybase](https://deploybase.ai/) | Track real-time GPU and LLM pricing across all cloud and inference providers. |
+| [DeepAnalyze ![GitHub Repo Stars](https://img.shields.io/github/stars/ruc-datalab/DeepAnalyze) ![GitHub last commit](https://img.shields.io/github/last-commit/ruc-datalab/DeepAnalyze)](https://github.com/ruc-datalab/DeepAnalyze) | An agentic LLM for autonomous data science, which can autonomously complete a wide range of data science tasks without human intervention. |
 
 
 
