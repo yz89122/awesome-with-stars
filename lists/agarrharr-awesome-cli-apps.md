@@ -442,6 +442,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [intelli-shell ![GitHub Repo Stars](https://img.shields.io/github/stars/lasantosr/intelli-shell) ![GitHub last commit](https://img.shields.io/github/last-commit/lasantosr/intelli-shell)](https://github.com/lasantosr/intelli-shell) - Manage command templates/snippets.
 - [envio ![GitHub Repo Stars](https://img.shields.io/github/stars/envio-cli/envio) ![GitHub last commit](https://img.shields.io/github/last-commit/envio-cli/envio)](https://github.com/envio-cli/envio) - Manage environment variables securely.
 - [await ![GitHub Repo Stars](https://img.shields.io/github/stars/slavaGanzin/await) ![GitHub last commit](https://img.shields.io/github/last-commit/slavaGanzin/await)](https://github.com/slavaGanzin/await) - Runs commands in parallel and waits for their termination.
+- [aha ![GitHub Repo Stars](https://img.shields.io/github/stars/theZiz/aha) ![GitHub last commit](https://img.shields.io/github/last-commit/theZiz/aha)](https://github.com/theZiz/aha) - Convert ANSI output to HTML.
 
 ### System Interaction Utilities
 
@@ -673,6 +674,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [television ![GitHub Repo Stars](https://img.shields.io/github/stars/alexpasmantier/television) ![GitHub last commit](https://img.shields.io/github/last-commit/alexpasmantier/television)](https://github.com/alexpasmantier/television) - A very fast general purpose fuzzy finder.
 - [srgn ![GitHub Repo Stars](https://img.shields.io/github/stars/alexpovel/srgn) ![GitHub last commit](https://img.shields.io/github/last-commit/alexpovel/srgn)](https://github.com/alexpovel/srgn/) - A grep-like tool which understands code syntax and also allows for manipulation.
 - [rawhide ![GitHub Repo Stars](https://img.shields.io/github/stars/raforg/rawhide) ![GitHub last commit](https://img.shields.io/github/last-commit/raforg/rawhide)](https://github.com/raforg/rawhide) - Find files using pretty C expressions.
+- [semantic-grep ![GitHub Repo Stars](https://img.shields.io/github/stars/arunsupe/semantic-grep) ![GitHub last commit](https://img.shields.io/github/last-commit/arunsupe/semantic-grep)](https://github.com/arunsupe/semantic-grep) - A tool for semantic search using word embeddings (e.g. search for "death" and find "dead", "killing", "murder".)
 
 ## Version Control
 
