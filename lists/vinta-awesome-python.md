@@ -934,7 +934,6 @@ _Libraries for scientific computing. Also see [Python-for-Scientists ![GitHub Re
 - [SimPy](https://gitlab.com/team-simpy/simpy) - A process-based discrete-event simulation framework.
 - [statsmodels ![GitHub Repo Stars](https://img.shields.io/github/stars/statsmodels/statsmodels) ![GitHub last commit](https://img.shields.io/github/last-commit/statsmodels/statsmodels)](https://github.com/statsmodels/statsmodels) - Statistical modeling and econometrics in Python.
 - [SymPy ![GitHub Repo Stars](https://img.shields.io/github/stars/sympy/sympy) ![GitHub last commit](https://img.shields.io/github/last-commit/sympy/sympy)](https://github.com/sympy/sympy) - A Python library for symbolic mathematics.
-- [Zipline ![GitHub Repo Stars](https://img.shields.io/github/stars/quantopian/zipline) ![GitHub last commit](https://img.shields.io/github/last-commit/quantopian/zipline)](https://github.com/quantopian/zipline) - A Pythonic algorithmic trading library.
 
 ## Search
 

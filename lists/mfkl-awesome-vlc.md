@@ -40,6 +40,7 @@ This is a list of awesome resources about VLC and LibVLC.
 - [playlist-youtube-vlc ![GitHub Repo Stars](https://img.shields.io/github/stars/Abstraxt-AA/playlist-youtube-vlc) ![GitHub last commit](https://img.shields.io/github/last-commit/Abstraxt-AA/playlist-youtube-vlc)](https://github.com/Abstraxt-AA/playlist-youtube-vlc) - Lua plugin to parse Youtube playlists.
 - [vlc-super-skipper ![GitHub Repo Stars](https://img.shields.io/github/stars/Trevelopment/vlc-super-skipper) ![GitHub last commit](https://img.shields.io/github/last-commit/Trevelopment/vlc-super-skipper)](https://github.com/Trevelopment/vlc-super-skipper) - Automatically Skip Opening and Ending Sequences.
 - [vlc-mcp-server ![GitHub Repo Stars](https://img.shields.io/github/stars/piebro/vlc-mcp-server) ![GitHub last commit](https://img.shields.io/github/last-commit/piebro/vlc-mcp-server)](https://github.com/piebro/vlc-mcp-server) -  An MCP (Model Context Protocol) Server to play and control movies using the VLC HTTP API and natural language using an LLM.
+- [vlc-auto-dir-enqueue-prev-next ![GitHub Repo Stars](https://img.shields.io/github/stars/eltoro0815/vlc-auto-dir-enqueue-prev-next) ![GitHub last commit](https://img.shields.io/github/last-commit/eltoro0815/vlc-auto-dir-enqueue-prev-next)](https://github.com/eltoro0815/vlc-auto-dir-enqueue-prev-next) - Automatically adds the previous and next track from the same directory to the VLC playlist as soon as a file starts playing.
 
 ## Apps
 
