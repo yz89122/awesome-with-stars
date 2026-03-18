@@ -2665,6 +2665,7 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 
 ### Utility/Miscellaneous
 
+- [ahocorasick ![GitHub Repo Stars](https://img.shields.io/github/stars/coregx/ahocorasick) ![GitHub last commit](https://img.shields.io/github/last-commit/coregx/ahocorasick)](https://github.com/coregx/ahocorasick) - High-performance Aho-Corasick multi-pattern string matching with DFA compilation and SIMD prefilter, up to 7 GB/s throughput (part of [coregx](https://github.com/coregx) ecosystem).
 - [go-runewidth ![GitHub Repo Stars](https://img.shields.io/github/stars/mattn/go-runewidth) ![GitHub last commit](https://img.shields.io/github/last-commit/mattn/go-runewidth)](https://github.com/mattn/go-runewidth) - Functions to get fixed width of the character or string.
 - [kace ![GitHub Repo Stars](https://img.shields.io/github/stars/codemodus/kace) ![GitHub last commit](https://img.shields.io/github/last-commit/codemodus/kace)](https://github.com/codemodus/kace) - Common case conversions covering common initialisms.
 - [lancet ![GitHub Repo Stars](https://img.shields.io/github/stars/duke-git/lancet) ![GitHub last commit](https://img.shields.io/github/last-commit/duke-git/lancet)](https://github.com/duke-git/lancet) - A comprehensive, Lodash-like utility library for Go
