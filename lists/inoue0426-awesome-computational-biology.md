@@ -207,7 +207,7 @@ Browse and search the resources via the [GitHub Pages UI](https://inoue0426.gith
 - [TAPE (Tasks Assessing Protein Embeddings) ![GitHub Repo Stars](https://img.shields.io/github/stars/songlab-cal/tape) ![GitHub last commit](https://img.shields.io/github/last-commit/songlab-cal/tape)](https://github.com/songlab-cal/tape) — Benchmark suite of five biologically meaningful semi-supervised learning tasks for evaluating protein representations.
 - [The Cancer Genome Atlas (TCGA)](https://www.cancer.gov/about-nci/organization/ccg/research/structural-genomics/tcga) — Comprehensive multi-omics (genomics, transcriptomics, proteomics, methylation) dataset for 33 cancer types across ~11,000 patients.
 - [Therapeutics Data Commons (TDC)](https://tdcommons.ai/) — Unified benchmark suite covering ADMET, drug-target interaction, drug response, and more.
-- [Tox21](https://tripod.nih.gov/tox21/challenge/) �� 12,707 compounds tested in 12 nuclear receptor and stress-response pathway biochemical assays for toxicity prediction.
+- [Tox21](https://tripod.nih.gov/tox21/challenge/) — 12,707 compounds tested in 12 nuclear receptor and stress-response pathway biochemical assays for toxicity prediction.
 - [UK Biobank](https://www.ukbiobank.ac.uk/) — Large-scale biomedical database of ~500K participants with genetic, imaging, and health data for population genetics and disease studies.
 
 ---
