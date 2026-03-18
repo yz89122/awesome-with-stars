@@ -1558,7 +1558,7 @@ Update Time, five active automations, webhooks.
   * [usabilityhub.com](https://usabilityhub.com/) — Test designs and mockups on real people and track visitors. Free for one user, unlimited tests
   * [Userbird](https://userbird.com) - Google Analytics alternative with heatmaps, session recordings and revenue tracking.
 
-**[⬆️ Back to Top](#table-of-contents)**
+**[⬆��� Back to Top](#table-of-contents)**
 
 ## Visitor Session Recording
 

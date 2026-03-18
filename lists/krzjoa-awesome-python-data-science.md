@@ -275,6 +275,7 @@
 * [Little Ball of Fur ![GitHub Repo Stars](https://img.shields.io/github/stars/benedekrozemberczki/littleballoffur) ![GitHub last commit](https://img.shields.io/github/last-commit/benedekrozemberczki/littleballoffur)](https://github.com/benedekrozemberczki/littleballoffur) - A library for sampling graph structured data.
 * [GreatX ![GitHub Repo Stars](https://img.shields.io/github/stars/EdisonLeeeee/GreatX) ![GitHub last commit](https://img.shields.io/github/last-commit/EdisonLeeeee/GreatX)](https://github.com/EdisonLeeeee/GreatX) - A graph reliability toolbox based on PyTorch and PyTorch Geometric (PyG). <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible">
 * [Jraph ![GitHub Repo Stars](https://img.shields.io/github/stars/google-deepmind/jraph) ![GitHub last commit](https://img.shields.io/github/last-commit/google-deepmind/jraph)](https://github.com/google-deepmind/jraph) - A Graph Neural Network Library in Jax.
+* [TRL ![GitHub Repo Stars](https://img.shields.io/github/stars/huggingface/trl) ![GitHub last commit](https://img.shields.io/github/last-commit/huggingface/trl)](https://github.com/huggingface/trl) - Train transformer language models with reinforcement learning.
   
 
 ## Graph Manipulation
