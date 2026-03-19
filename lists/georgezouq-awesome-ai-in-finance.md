@@ -35,6 +35,7 @@ With the power of the latest artificial intelligence research, people analyze & 
 - 🌟 [FinRobot ![GitHub Repo Stars](https://img.shields.io/github/stars/AI4Finance-Foundation/FinRobot) ![GitHub last commit](https://img.shields.io/github/last-commit/AI4Finance-Foundation/FinRobot)](https://github.com/AI4Finance-Foundation/FinRobot) - An Open-Source AI Agent Platform for Financial Analysis using LLMs.
 - [AgentFund ![GitHub Repo Stars](https://img.shields.io/github/stars/RioBot-Grind/agentfund) ![GitHub last commit](https://img.shields.io/github/last-commit/RioBot-Grind/agentfund)](https://github.com/RioBot-Grind/agentfund) - Decentralized crowdfunding platform for AI agents with milestone-based escrow on Base blockchain.
 - 🌟 [ATLAS ![GitHub Repo Stars](https://img.shields.io/github/stars/chrisworsey55/atlas-gic) ![GitHub last commit](https://img.shields.io/github/last-commit/chrisworsey55/atlas-gic)](https://github.com/chrisworsey55/atlas-gic) - Self-improving AI trading system with 25 agents, Karpathy-style autoresearch, Darwinian selection, autonomous agent spawning, and multi-cohort meta-weighting.
+- [InvicTrade](https://invictrade.com) - AI-powered trading signals with 74% historical win rate, combining strategies from legendary investors using multi-model AI intelligence.
 
 ## LLMs
 
