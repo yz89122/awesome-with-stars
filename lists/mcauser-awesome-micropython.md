@@ -341,6 +341,7 @@ Other places you can look for MicroPython Libraries:
 * [pico_jjy_tx ![GitHub Repo Stars](https://img.shields.io/github/stars/elehobica/pico_jjy_tx) ![GitHub last commit](https://img.shields.io/github/last-commit/elehobica/pico_jjy_tx)](https://github.com/elehobica/pico_jjy_tx) - JJY transmitter for Raspberry Pi Pico W.
 * [pico_dcf77_tx ![GitHub Repo Stars](https://img.shields.io/github/stars/elehobica/pico_dcf77_tx) ![GitHub last commit](https://img.shields.io/github/last-commit/elehobica/pico_dcf77_tx)](https://github.com/elehobica/pico_dcf77_tx) - DCF77 transmitter for Raspberry Pi Pico W.
 * [micropython_dcf77](https://codeberg.org/dsiggi/micropython-dcf77) - DCF77 receiver and decoder.
+* [MicroPython-BresserWeatherSensorReceiver ![GitHub Repo Stars](https://img.shields.io/github/stars/matthias-bs/MicroPython-BresserWeatherSensorReceiver) ![GitHub last commit](https://img.shields.io/github/last-commit/matthias-bs/MicroPython-BresserWeatherSensorReceiver)](https://github.com/matthias-bs/MicroPython-BresserWeatherSensorReceiver) - Bresser 5-in-1/6-in-1/7-in-1 868 MHz Weather Sensor Radio Receiver and Decoder.
 
 #### RC receiver
 
@@ -1233,7 +1234,7 @@ Other places you can look for MicroPython Libraries:
 * [Melbourne MicroPython Meetup](https://www.meetup.com/en-au/micropython-meetup/) - Regular meetup at CCHS in Melbourne, Australia.
 
 ## Tutorials
-
+* [100 Days 100 IoT Projects ![GitHub Repo Stars](https://img.shields.io/github/stars/kritishmohapatra/100_Days_100_IoT_Projects) ![GitHub last commit](https://img.shields.io/github/last-commit/kritishmohapatra/100_Days_100_IoT_Projects)](https://github.com/kritishmohapatra/100_Days_100_IoT_Projects) - A 100-day challenge building real-world IoT projects with MicroPython on ESP32, ESP8266 and Raspberry Pi Pico 2W. Step-by-step documented with wiring diagrams and code for beginners.
 * [asyncio ![GitHub Repo Stars](https://img.shields.io/github/stars/peterhinch/micropython-async) ![GitHub last commit](https://img.shields.io/github/last-commit/peterhinch/micropython-async)](https://github.com/peterhinch/micropython-async/blob/master/v3/docs/TUTORIAL.md) - Write asynchronous code which interfaces to hardware devices.
 * [Asynchronous drivers ![GitHub Repo Stars](https://img.shields.io/github/stars/peterhinch/micropython-async) ![GitHub last commit](https://img.shields.io/github/last-commit/peterhinch/micropython-async)](https://github.com/peterhinch/micropython-async/blob/master/v3/docs/DRIVERS.md) - Tutorial and code for asynchronous interfaces to switches, pushbuttons, encoders and ADCs.
 * [Pyboard micropower ![GitHub Repo Stars](https://img.shields.io/github/stars/peterhinch/micropython-micropower) ![GitHub last commit](https://img.shields.io/github/last-commit/peterhinch/micropython-micropower)](https://github.com/peterhinch/micropython-micropower) - Tutorial and code for low power applications on Pyboard 1.x and Pyboard D.
