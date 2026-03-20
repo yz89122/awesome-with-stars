@@ -67,6 +67,7 @@
 - 🎨🌍🔧 [Inclusive colors](https://www.inclusivecolors.com/) - Create fine-tuned WCAG accessible Tailwind CSS color palettes.
 - 🔼🌍 [Prefixer](https://github.vue.tailwind-prefix.cbass.dev) - Tailwind classes' prefixer tool.
 - 🔼 [RustyWind ![GitHub Repo Stars](https://img.shields.io/github/stars/avencera/rustywind) ![GitHub last commit](https://img.shields.io/github/last-commit/avencera/rustywind)](https://github.com/avencera/rustywind) - CLI tool for sorting Tailwind CSS classes.
+- 🔼 [Tailwind to Inline styles converter ![GitHub Repo Stars](https://img.shields.io/github/stars/vardan-arm/tailwind-to-inline) ![GitHub last commit](https://img.shields.io/github/last-commit/vardan-arm/tailwind-to-inline)](https://github.com/vardan-arm/tailwind-to-inline) - Converts Tailwind CSS classes to inline styles in email templates.
 - 🚀 [Maizzle](https://maizzle.com/) - Framework for rapid email prototyping with Tailwind CSS.
 - 💼 [@nuxtjs/tailwindcss ![GitHub Repo Stars](https://img.shields.io/github/stars/nuxt-community/tailwindcss-module) ![GitHub last commit](https://img.shields.io/github/last-commit/nuxt-community/tailwindcss-module)](https://github.com/nuxt-community/tailwindcss-module) - Tailwind CSS module for NuxtJS with PurgeCSS and modern CSS (preset env 1).
 - 💼 [tailwindcss-rails ![GitHub Repo Stars](https://img.shields.io/github/stars/rails/tailwindcss-rails) ![GitHub last commit](https://img.shields.io/github/last-commit/rails/tailwindcss-rails)](https://github.com/rails/tailwindcss-rails) - Gem for using Tailwind CSS with Rails' asset pipeline.
