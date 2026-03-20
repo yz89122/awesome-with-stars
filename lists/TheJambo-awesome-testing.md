@@ -81,7 +81,6 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [playwright-bdd ![GitHub Repo Stars](https://img.shields.io/github/stars/vitalets/playwright-bdd) ![GitHub last commit](https://img.shields.io/github/last-commit/vitalets/playwright-bdd)](https://github.com/vitalets/playwright-bdd) - BDD-style Playwright testing.
 - [QA Wolf ![GitHub Repo Stars](https://img.shields.io/github/stars/qawolf/qawolf) ![GitHub last commit](https://img.shields.io/github/last-commit/qawolf/qawolf)](https://github.com/qawolf/qawolf) - Node.js library for creating browser tests faster.
 - [UI Coverage Tool ![GitHub Repo Stars](https://img.shields.io/github/stars/Nikita-Filonov/ui-coverage-scenario-tool) ![GitHub last commit](https://img.shields.io/github/last-commit/Nikita-Filonov/ui-coverage-scenario-tool)](https://github.com/Nikita-Filonov/ui-coverage-scenario-tool) - UI Coverage Tool is an innovative, no-overhead solution for tracking and visualizing UI test coverage — directly on your actual application, not static snapshots.
-- [TestDino](https://github.com/TestDinoHQ) - A Playwright‑focused test reporting and analytics platform that centralizes CI runs, classifies failures, and uses AI insights to help teams debug faster and ship more reliable releases.
   
   
 ### Test Management
