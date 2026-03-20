@@ -1746,7 +1746,7 @@ Update Time, five active automations, webhooks.
   * [Poliigon](https://www.poliigon.com/) - Free and paid textures (with variable resolution), models, HDRIs, and brushes. Offers free plugins to export to software like Blender.
   * [Poly Pizza](https://poly.pizza/) - Free low poly 3D assets
 
-**[���️ Back to Top](#table-of-contents)**
+**[⬆️ Back to Top](#table-of-contents)**
 
 ## Other Free Resources
 
