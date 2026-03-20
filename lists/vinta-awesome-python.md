@@ -541,9 +541,10 @@ _Libraries for sending and parsing email._
 
 _Libraries for Python version and virtual environment management._
 
-- [pyenv-win ![GitHub Repo Stars](https://img.shields.io/github/stars/pyenv-win/pyenv-win) ![GitHub last commit](https://img.shields.io/github/last-commit/pyenv-win/pyenv-win)](https://github.com/pyenv-win/pyenv-win) - Pyenv for Windows, Simple Python version management.
 - [pyenv ![GitHub Repo Stars](https://img.shields.io/github/stars/pyenv/pyenv) ![GitHub last commit](https://img.shields.io/github/last-commit/pyenv/pyenv)](https://github.com/pyenv/pyenv) - Simple Python version management.
+  - [pyenv-win ![GitHub Repo Stars](https://img.shields.io/github/stars/pyenv-win/pyenv-win) ![GitHub last commit](https://img.shields.io/github/last-commit/pyenv-win/pyenv-win)](https://github.com/pyenv-win/pyenv-win) - Pyenv for Windows, Simple Python version management.
 - [virtualenv ![GitHub Repo Stars](https://img.shields.io/github/stars/pypa/virtualenv) ![GitHub last commit](https://img.shields.io/github/last-commit/pypa/virtualenv)](https://github.com/pypa/virtualenv) - A tool to create isolated Python environments.
+- [uv ![GitHub Repo Stars](https://img.shields.io/github/stars/astral-sh/uv) ![GitHub last commit](https://img.shields.io/github/last-commit/astral-sh/uv)](https://github.com/astral-sh/uv) - An extremely fast Python version, package and project manager, written in Rust.
 
 ## File Manipulation
 
@@ -809,11 +810,11 @@ _Libraries that implement Object-Relational Mapping or data mapping techniques._
 _Libraries for package and dependency management._
 
 - [pip ![GitHub Repo Stars](https://img.shields.io/github/stars/pypa/pip) ![GitHub last commit](https://img.shields.io/github/last-commit/pypa/pip)](https://github.com/pypa/pip) - The package installer for Python.
-  - [pip-tools ![GitHub Repo Stars](https://img.shields.io/github/stars/jazzband/pip-tools) ![GitHub last commit](https://img.shields.io/github/last-commit/jazzband/pip-tools)](https://github.com/jazzband/pip-tools) - A set of tools to keep your pinned Python dependencies fresh.
+- [pipx ![GitHub Repo Stars](https://img.shields.io/github/stars/pypa/pipx) ![GitHub last commit](https://img.shields.io/github/last-commit/pypa/pipx)](https://github.com/pypa/pipx) - Install and Run Python Applications in Isolated Environments. Like `npx` in Node.js.
 - [conda ![GitHub Repo Stars](https://img.shields.io/github/stars/conda/conda) ![GitHub last commit](https://img.shields.io/github/last-commit/conda/conda)](https://github.com/conda/conda/) - Cross-platform, Python-agnostic binary package manager.
-- [hatch ![GitHub Repo Stars](https://img.shields.io/github/stars/pypa/hatch) ![GitHub last commit](https://img.shields.io/github/last-commit/pypa/hatch)](https://github.com/pypa/hatch) - Modern, extensible Python project management.
+- [mamba ![GitHub Repo Stars](https://img.shields.io/github/stars/mamba-org/mamba) ![GitHub last commit](https://img.shields.io/github/last-commit/mamba-org/mamba)](https://github.com/mamba-org/mamba) - A reimplementation of the `conda` package manager in C++.
 - [poetry ![GitHub Repo Stars](https://img.shields.io/github/stars/sdispater/poetry) ![GitHub last commit](https://img.shields.io/github/last-commit/sdispater/poetry)](https://github.com/sdispater/poetry) - Python dependency management and packaging made easy.
-- [uv ![GitHub Repo Stars](https://img.shields.io/github/stars/astral-sh/uv) ![GitHub last commit](https://img.shields.io/github/last-commit/astral-sh/uv)](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
+- [uv ![GitHub Repo Stars](https://img.shields.io/github/stars/astral-sh/uv) ![GitHub last commit](https://img.shields.io/github/last-commit/astral-sh/uv)](https://github.com/astral-sh/uv) - An extremely fast Python version, package and project manager, written in Rust.
 
 ## Package Repositories
 
