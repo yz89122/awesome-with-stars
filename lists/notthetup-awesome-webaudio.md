@@ -64,6 +64,7 @@ Please raise a [Pull-Request ![GitHub Repo Stars](https://img.shields.io/github/
 
 - [Audion ![GitHub Repo Stars](https://img.shields.io/github/stars/google/audion) ![GitHub last commit](https://img.shields.io/github/last-commit/google/audion)](https://github.com/google/audion) - Chrome extension that adds a Web Audio panel to Developer Tools.
 - [web-audio-generator ![GitHub Repo Stars](https://img.shields.io/github/stars/ISNIT0/webaudio-generator) ![GitHub last commit](https://img.shields.io/github/last-commit/ISNIT0/webaudio-generator)](https://github.com/ISNIT0/webaudio-generator) - A UI for generating Web Audio code.
+- [Web Audio Studio](https://app.webaudio.studio) - A real-time visualizer for Web Audio API graphs generated from code.
 
 ### MIDI
 
@@ -103,6 +104,7 @@ Please raise a [Pull-Request ![GitHub Repo Stars](https://img.shields.io/github/
 - [Drumhaus](https://drumha.us/) – a browser-based drum machine with step sequencing, pattern variations, and groove editing.
 - [All-in-One Advanced BPM Tool](https://tapbpmhub.com/) – Instantly measure song speed by tapping or using the spacebar. Features MIDI input, optional sound clicks, and real-time BPM visualization. Essential for producers, DJs, rhythm gamers.
 - .[synflow](https://synflow.org) [Github ![GitHub Repo Stars](https://img.shields.io/github/stars/k1ln/synflow) ![GitHub last commit](https://img.shields.io/github/last-commit/k1ln/synflow)](https://github.com/k1ln/synflow) - a browser based modular synth flow engine. With all Web Audio API nodes and more with Worklets (like Vocoder, Reverb, etc. ). With sophisticated Flow automation.
+- [online decibel meter](https://realtimesoundmeter.org/) – Free online sound meter to measure environmental noise levels in decibels (dB). Real-time sound level meter for detecting quiet, noisy, or harmful sound levels.
   
 ## Resources
 
