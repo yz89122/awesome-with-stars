@@ -231,7 +231,7 @@ _Info on topics necessary for designing and developing game engines._
     - 📚 [Art of Game Design](https://www.amazon.com/Art-Game-Design-Book-Lenses/dp/0123694965) - Teaches game design in an accessible manner.
     - 📚 [Game Programming Patterns](https://gameprogrammingpatterns.com) - Patterns found in games that make code easier to understand.
 - Developer Portals
-    - ��� [Game Developer](https://www.gamedeveloper.com) - Industry blogs, events, jobs, updates and more. Formerly _Gamasutra_.
+    - 🌎 [Game Developer](https://www.gamedeveloper.com) - Industry blogs, events, jobs, updates and more. Formerly _Gamasutra_.
     - 🌎 [GameDev.net](https://www.gamedev.net/) - Game dev forums, tutorials, blogs, projects, portfolios, and news.
     - 🌎 [GameFromScratch.com](https://gamefromscratch.com) - Game dev news, tutorials and much more.
     - 🌎 [itch.io](https://itch.io) - Game dev resources and platform to showcase / promote / buy & sell games.
@@ -1022,7 +1022,7 @@ _Language specific game engine development libraries / frameworks / code._
 - 📚 [Awesome Rust ![GitHub Repo Stars](https://img.shields.io/github/stars/rust-unofficial/awesome-rust) ![GitHub last commit](https://img.shields.io/github/last-commit/rust-unofficial/awesome-rust)](https://github.com/rust-unofficial/awesome-rust) - Curated list of Rust code and resources.
 - 🌎 [Rust](https://www.rust-lang.org) - Empowering everyone to build quality software. [[Docs](https://www.rust-lang.org/learn) | [GitHub](https://github.com/rust-lang)]
 - Rust: App Framework
-    - 🎉 [Makepad ![GitHub Repo Stars](https://img.shields.io/github/stars/makepad/makepad) ![GitHub last commit](https://img.shields.io/github/last-commit/makepad/makepad)](https://github.com/makepad/makepad) - Software development platform and native-rendering gui framework. [[Editor](https://makepad.dev/)]
+    - ��� [Makepad ![GitHub Repo Stars](https://img.shields.io/github/stars/makepad/makepad) ![GitHub last commit](https://img.shields.io/github/last-commit/makepad/makepad)](https://github.com/makepad/makepad) - Software development platform and native-rendering gui framework. [[Editor](https://makepad.dev/)]
     - 🎉 [Tao ![GitHub Repo Stars](https://img.shields.io/github/stars/tauri-apps/tao) ![GitHub last commit](https://img.shields.io/github/last-commit/tauri-apps/tao)](https://github.com/tauri-apps/tao) - Cross-platform windowing. [[Docs](https://docs.rs/tao/latest/tao/)]
 - Rust: Audio
     - 🎉 [Kira ![GitHub Repo Stars](https://img.shields.io/github/stars/tesselode/kira) ![GitHub last commit](https://img.shields.io/github/last-commit/tesselode/kira)](https://github.com/tesselode/kira) - Create expressive audio for games.

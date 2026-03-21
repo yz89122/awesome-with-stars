@@ -160,7 +160,7 @@ _Libraries for Machine Learning. Also see [awesome-machine-learning ![GitHub Rep
 - [mindsdb ![GitHub Repo Stars](https://img.shields.io/github/stars/mindsdb/mindsdb) ![GitHub last commit](https://img.shields.io/github/last-commit/mindsdb/mindsdb)](https://github.com/mindsdb/mindsdb) - MindsDB is an open source AI layer for existing databases that allows you to effortlessly develop, train and deploy state-of-the-art machine learning models using standard queries.
 - [pgmpy ![GitHub Repo Stars](https://img.shields.io/github/stars/pgmpy/pgmpy) ![GitHub last commit](https://img.shields.io/github/last-commit/pgmpy/pgmpy)](https://github.com/pgmpy/pgmpy) - A Python library for probabilistic graphical models and Bayesian networks.
 - [scikit-learn ![GitHub Repo Stars](https://img.shields.io/github/stars/scikit-learn/scikit-learn) ![GitHub last commit](https://img.shields.io/github/last-commit/scikit-learn/scikit-learn)](https://github.com/scikit-learn/scikit-learn) - The most popular Python library for Machine Learning with extensive documentation and community support.
-- [spark.ml](http://spark.apache.org/docs/latest/ml-guide.html) - [Apache Spark](http://spark.apache.org/)'s scalable Machine Learning library for distributed computing.
+- [spark.ml ![GitHub Repo Stars](https://img.shields.io/github/stars/apache/spark) ![GitHub last commit](https://img.shields.io/github/last-commit/apache/spark)](https://github.com/apache/spark) - [Apache Spark](https://spark.apache.org/)'s scalable [Machine Learning library](https://spark.apache.org/docs/latest/ml-guide.html) for distributed computing.
 - [xgboost ![GitHub Repo Stars](https://img.shields.io/github/stars/dmlc/xgboost) ![GitHub last commit](https://img.shields.io/github/last-commit/dmlc/xgboost)](https://github.com/dmlc/xgboost) - A scalable, portable, and distributed gradient boosting library.
 
 ## Natural Language Processing
@@ -299,6 +299,7 @@ _Libraries for administrative interfaces._
 - [django-grappelli ![GitHub Repo Stars](https://img.shields.io/github/stars/sehmaschine/django-grappelli) ![GitHub last commit](https://img.shields.io/github/last-commit/sehmaschine/django-grappelli)](https://github.com/sehmaschine/django-grappelli) - A jazzy skin for the Django Admin-Interface.
 - [django-unfold ![GitHub Repo Stars](https://img.shields.io/github/stars/unfoldadmin/django-unfold) ![GitHub last commit](https://img.shields.io/github/last-commit/unfoldadmin/django-unfold)](https://github.com/unfoldadmin/django-unfold) - Elevate your Django admin with a stunning modern interface, powerful features, and seamless user experience.
 - [flask-admin ![GitHub Repo Stars](https://img.shields.io/github/stars/pallets-eco/flask-admin) ![GitHub last commit](https://img.shields.io/github/last-commit/pallets-eco/flask-admin)](https://github.com/pallets-eco/flask-admin) - Simple and extensible administrative interface framework for Flask.
+- [flower ![GitHub Repo Stars](https://img.shields.io/github/stars/mher/flower) ![GitHub last commit](https://img.shields.io/github/last-commit/mher/flower)](https://github.com/mher/flower) - Real-time monitor and web admin for Celery.
 - [func-to-web ![GitHub Repo Stars](https://img.shields.io/github/stars/offerrall/FuncToWeb) ![GitHub last commit](https://img.shields.io/github/last-commit/offerrall/FuncToWeb)](https://github.com/offerrall/FuncToWeb) - Instantly create web UIs from Python functions using type hints. Zero frontend code required.
 - [jet-bridge ![GitHub Repo Stars](https://img.shields.io/github/stars/jet-admin/jet-bridge) ![GitHub last commit](https://img.shields.io/github/last-commit/jet-admin/jet-bridge)](https://github.com/jet-admin/jet-bridge) - Admin panel framework for any application with nice UI (ex Jet Django).
 
@@ -360,7 +361,7 @@ _Libraries for sending and parsing email, and mail server management._
 _Libraries that implement Object-Relational Mapping or data mapping techniques._
 
 - Relational Databases
-  - [django.db.models](https://docs.djangoproject.com/en/dev/topics/db/models/) - The Django ORM.
+  - [django.db.models ![GitHub Repo Stars](https://img.shields.io/github/stars/django/django) ![GitHub last commit](https://img.shields.io/github/last-commit/django/django)](https://github.com/django/django) - The Django [ORM](https://docs.djangoproject.com/en/dev/topics/db/models/).
   - [sqlalchemy ![GitHub Repo Stars](https://img.shields.io/github/stars/sqlalchemy/sqlalchemy) ![GitHub last commit](https://img.shields.io/github/last-commit/sqlalchemy/sqlalchemy)](https://github.com/sqlalchemy/sqlalchemy) - The Python SQL Toolkit and Object Relational Mapper.
     - [awesome-sqlalchemy ![GitHub Repo Stars](https://img.shields.io/github/stars/dahlia/awesome-sqlalchemy) ![GitHub last commit](https://img.shields.io/github/last-commit/dahlia/awesome-sqlalchemy)](https://github.com/dahlia/awesome-sqlalchemy)
   - [dataset ![GitHub Repo Stars](https://img.shields.io/github/stars/pudo/dataset) ![GitHub last commit](https://img.shields.io/github/last-commit/pudo/dataset)](https://github.com/pudo/dataset) - Store Python dicts in a database - works with SQLite, MySQL, and PostgreSQL.
@@ -487,7 +488,7 @@ _Libraries for visualizing data. Also see [awesome-javascript ![GitHub Repo Star
 _Libraries for geocoding addresses and working with latitudes and longitudes._
 
 - [django-countries ![GitHub Repo Stars](https://img.shields.io/github/stars/SmileyChris/django-countries) ![GitHub last commit](https://img.shields.io/github/last-commit/SmileyChris/django-countries)](https://github.com/SmileyChris/django-countries) - A Django app that provides a country field for models and forms.
-- [geodjango](https://docs.djangoproject.com/en/dev/ref/contrib/gis/) - A world-class geographic web framework.
+- [geodjango ![GitHub Repo Stars](https://img.shields.io/github/stars/django/django) ![GitHub last commit](https://img.shields.io/github/last-commit/django/django)](https://github.com/django/django) - A world-class geographic web framework that is part of [Django](https://docs.djangoproject.com/en/dev/ref/contrib/gis/).
 - [geojson ![GitHub Repo Stars](https://img.shields.io/github/stars/jazzband/geojson) ![GitHub last commit](https://img.shields.io/github/last-commit/jazzband/geojson)](https://github.com/jazzband/geojson) - Python bindings and utilities for GeoJSON.
 - [geopandas ![GitHub Repo Stars](https://img.shields.io/github/stars/geopandas/geopandas) ![GitHub last commit](https://img.shields.io/github/last-commit/geopandas/geopandas)](https://github.com/geopandas/geopandas) - Python tools for geographic data (GeoSeries/GeoDataFrame) built on pandas.
 - [geopy ![GitHub Repo Stars](https://img.shields.io/github/stars/geopy/geopy) ![GitHub last commit](https://img.shields.io/github/last-commit/geopy/geopy)](https://github.com/geopy/geopy) - Python Geocoding Toolbox.
@@ -669,7 +670,7 @@ _Software and libraries for DevOps._
 - Configuration Management
   - [ansible ![GitHub Repo Stars](https://img.shields.io/github/stars/ansible/ansible) ![GitHub last commit](https://img.shields.io/github/last-commit/ansible/ansible)](https://github.com/ansible/ansible) - A radically simple IT automation platform.
   - [cloudinit ![GitHub Repo Stars](https://img.shields.io/github/stars/canonical/cloud-init) ![GitHub last commit](https://img.shields.io/github/last-commit/canonical/cloud-init)](https://github.com/canonical/cloud-init) - A multi-distribution package that handles early initialization of a cloud instance.
-  - [openstack](https://www.openstack.org/) - Open source software for building private and public clouds.
+  - [openstack ![GitHub Repo Stars](https://img.shields.io/github/stars/openstack/openstack) ![GitHub last commit](https://img.shields.io/github/last-commit/openstack/openstack)](https://github.com/openstack/openstack) - Open source software for building private and public clouds.
   - [pyinfra ![GitHub Repo Stars](https://img.shields.io/github/stars/pyinfra-dev/pyinfra) ![GitHub last commit](https://img.shields.io/github/last-commit/pyinfra-dev/pyinfra)](https://github.com/pyinfra-dev/pyinfra) - A versatile CLI tools and python libraries to automate infrastructure.
   - [saltstack ![GitHub Repo Stars](https://img.shields.io/github/stars/saltstack/salt) ![GitHub last commit](https://img.shields.io/github/last-commit/saltstack/salt)](https://github.com/saltstack/salt) - Infrastructure automation and management system.
 - Deployment
@@ -702,7 +703,6 @@ _Frameworks and libraries for Distributed Computing._
 _Libraries for working with task queues._
 
 - [celery ![GitHub Repo Stars](https://img.shields.io/github/stars/celery/celery) ![GitHub last commit](https://img.shields.io/github/last-commit/celery/celery)](https://github.com/celery/celery) - An asynchronous task queue/job queue based on distributed message passing.
-  - [flower ![GitHub Repo Stars](https://img.shields.io/github/stars/mher/flower) ![GitHub last commit](https://img.shields.io/github/last-commit/mher/flower)](https://github.com/mher/flower) - Real-time monitor and web admin for Celery.
 - [dramatiq ![GitHub Repo Stars](https://img.shields.io/github/stars/Bogdanp/dramatiq) ![GitHub last commit](https://img.shields.io/github/last-commit/Bogdanp/dramatiq)](https://github.com/Bogdanp/dramatiq) - A fast and reliable background task processing library for Python 3.
 - [huey ![GitHub Repo Stars](https://img.shields.io/github/stars/coleifer/huey) ![GitHub last commit](https://img.shields.io/github/last-commit/coleifer/huey)](https://github.com/coleifer/huey) - Little multi-threaded task queue.
 - [rq ![GitHub Repo Stars](https://img.shields.io/github/stars/rq/rq) ![GitHub last commit](https://img.shields.io/github/last-commit/rq/rq)](https://github.com/rq/rq) - Simple job queues for Python.
@@ -988,7 +988,7 @@ _Libraries for working with dates and times._
 _Libraries for Python version and virtual environment management._
 
 - [pyenv ![GitHub Repo Stars](https://img.shields.io/github/stars/pyenv/pyenv) ![GitHub last commit](https://img.shields.io/github/last-commit/pyenv/pyenv)](https://github.com/pyenv/pyenv) - Simple Python version management.
-  - [pyenv-win ![GitHub Repo Stars](https://img.shields.io/github/stars/pyenv-win/pyenv-win) ![GitHub last commit](https://img.shields.io/github/last-commit/pyenv-win/pyenv-win)](https://github.com/pyenv-win/pyenv-win) - Pyenv for Windows, Simple Python version management.
+- [pyenv-win ![GitHub Repo Stars](https://img.shields.io/github/stars/pyenv-win/pyenv-win) ![GitHub last commit](https://img.shields.io/github/last-commit/pyenv-win/pyenv-win)](https://github.com/pyenv-win/pyenv-win) - Pyenv for Windows.
 - [uv ![GitHub Repo Stars](https://img.shields.io/github/stars/astral-sh/uv) ![GitHub last commit](https://img.shields.io/github/last-commit/astral-sh/uv)](https://github.com/astral-sh/uv) - An extremely fast Python version, package and project manager, written in Rust.
 - [virtualenv ![GitHub Repo Stars](https://img.shields.io/github/stars/pypa/virtualenv) ![GitHub last commit](https://img.shields.io/github/last-commit/pypa/virtualenv)](https://github.com/pypa/virtualenv) - A tool to create isolated Python environments.
 
