@@ -208,7 +208,7 @@ Pull requests are welcome with the condition that the resource should be free! P
 * [Hunting for Defense Evation](https://info.cyborgsecurity.com/en-us/threat-hunting-workshop-4) - Join Cyborg Security's expert threat hunters as they dive into the interesting MITRE ATT&CK Tactic of Defense Evasion (TA0005).
 
 <!--lint disable double-link-->
-[↑](#contents)
+[��](#contents)
 <!--lint enable double-link-->
 
 ### Level 3 - Beginner Forensics, Threat Intel & Cryptography
