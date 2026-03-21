@@ -565,6 +565,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 *Digital signal processing.*
 
 * [DSPFilters ![GitHub Repo Stars](https://img.shields.io/github/stars/vinniefalco/DSPFilters) ![GitHub last commit](https://img.shields.io/github/last-commit/vinniefalco/DSPFilters)](https://github.com/vinniefalco/DSPFilters) - A collection of useful C++ classes for digital signal processing. [MIT]
+* [fCWT ![GitHub Repo Stars](https://img.shields.io/github/stars/fastlib/fCWT) ![GitHub last commit](https://img.shields.io/github/last-commit/fastlib/fCWT)](https://github.com/fastlib/fCWT) - The fast Continuous Wavelet Transform (fCWT) is a library for fast calculation of CWT. [Apache-2.0]
 * [FFTW](http://www.fftw.org/) - A C library for computing the DFT in one or more dimensions. [GPL]
 * [iir1 ![GitHub Repo Stars](https://img.shields.io/github/stars/berndporr/iir1) ![GitHub last commit](https://img.shields.io/github/last-commit/berndporr/iir1)](https://github.com/berndporr/iir1) - IIR Realtime C++ filter library. [MIT]
 * [kissfft ![GitHub Repo Stars](https://img.shields.io/github/stars/mborgerding/kissfft) ![GitHub last commit](https://img.shields.io/github/last-commit/mborgerding/kissfft)](https://github.com/mborgerding/kissfft) - A Fast Fourier Transform (FFT) library that tries to Keep it Simple, Stupid. [BSD-3-Clause]
