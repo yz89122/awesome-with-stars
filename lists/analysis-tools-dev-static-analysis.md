@@ -1358,7 +1358,7 @@ TSLint is an extensible static analysis tool that checks TypeScript code for rea
 <h2>Verilog/SystemVerilog</h2>
 
 
-- **Icarus Verilog** :warning: — A Verilog simulation and synthesis tool that operates by compiling source code written in IEEE-1364 Verilog into some target format
+- **Icarus Verilog** :warning: ��� A Verilog simulation and synthesis tool that operates by compiling source code written in IEEE-1364 Verilog into some target format
 
 - [svls ![GitHub Repo Stars](https://img.shields.io/github/stars/dalance/svls) ![GitHub last commit](https://img.shields.io/github/last-commit/dalance/svls)](https://github.com/dalance/svls) — A Language Server Protocol implementation for Verilog and SystemVerilog, including lint capabilities.
 
