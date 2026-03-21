@@ -360,7 +360,6 @@ Looking to have a more enjoyable experience when consuming a popular .NET librar
 - [Awesome .NET! ![GitHub Repo Stars](https://img.shields.io/github/stars/quozd/awesome-dotnet) ![GitHub last commit](https://img.shields.io/github/last-commit/quozd/awesome-dotnet)](https://github.com/quozd/awesome-dotnet) - Collection of awesome .NET libraries, tools, frameworks and software.
 - [Companies using F# ![GitHub Repo Stars](https://img.shields.io/github/stars/fsprojects/fsharp-companies) ![GitHub last commit](https://img.shields.io/github/last-commit/fsprojects/fsharp-companies)](https://github.com/fsprojects/fsharp-companies) - Community curated list of companies that use F# (maybe useful if you're looking for a job?)
 - [F# Community Projects](http://fsharp.org/community/projects/) - Everything produced by the F# community. 
-- [FSharpest](https://www.fsharpest.xyz) - A directory to discover F# tools, libraries and resources.
 - [Fable Resources](https://fable.io/resources.html) - A curated list of useful Fable-related tutorials, libraries and software.
 
 ### Websites
