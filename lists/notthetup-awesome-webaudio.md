@@ -105,7 +105,8 @@ Please raise a [Pull-Request ![GitHub Repo Stars](https://img.shields.io/github/
 - [All-in-One Advanced BPM Tool](https://tapbpmhub.com/) – Instantly measure song speed by tapping or using the spacebar. Features MIDI input, optional sound clicks, and real-time BPM visualization. Essential for producers, DJs, rhythm gamers.
 - .[synflow](https://synflow.org) [Github ![GitHub Repo Stars](https://img.shields.io/github/stars/k1ln/synflow) ![GitHub last commit](https://img.shields.io/github/last-commit/k1ln/synflow)](https://github.com/k1ln/synflow) - a browser based modular synth flow engine. With all Web Audio API nodes and more with Worklets (like Vocoder, Reverb, etc. ). With sophisticated Flow automation.
 - [online decibel meter](https://realtimesoundmeter.org/) – Free online sound meter to measure environmental noise levels in decibels (dB). Real-time sound level meter for detecting quiet, noisy, or harmful sound levels.
-  
+- [PracticeLoop](https://teal-semifreddo-cad4ad.netlify.app/) - Free YouTube looper with progressive speed training, metronome, and chromatic tuner for music practice.
+
 ## Resources
 
 ### Tutorials
