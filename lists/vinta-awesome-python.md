@@ -61,7 +61,6 @@ An opinionated list of awesome Python frameworks, libraries, tools, software and
 - [Debugging Tools](#debugging-tools)
 - [Build Tools](#build-tools)
 - [Documentation](#documentation)
-- [Editor Plugins and IDEs](#editor-plugins-and-ides)
 
 **DevOps**
 
@@ -71,7 +70,6 @@ An opinionated list of awesome Python frameworks, libraries, tools, software and
 - [Job Schedulers](#job-schedulers)
 - [Logging](#logging)
 - [Network Virtualization](#network-virtualization)
-- [RPC Servers](#rpc-servers)
 
 **CLI & GUI**
 
@@ -157,7 +155,6 @@ _Libraries for Machine Learning. Also see [awesome-machine-learning ![GitHub Rep
 
 - [catboost ![GitHub Repo Stars](https://img.shields.io/github/stars/catboost/catboost) ![GitHub last commit](https://img.shields.io/github/last-commit/catboost/catboost)](https://github.com/catboost/catboost) - A fast, scalable, high performance gradient boosting on decision trees library.
 - [feature_engine ![GitHub Repo Stars](https://img.shields.io/github/stars/feature-engine/feature_engine) ![GitHub last commit](https://img.shields.io/github/last-commit/feature-engine/feature_engine)](https://github.com/feature-engine/feature_engine) - sklearn compatible API with the widest toolset for feature engineering and selection.
-- [karateclub ![GitHub Repo Stars](https://img.shields.io/github/stars/benedekrozemberczki/karateclub) ![GitHub last commit](https://img.shields.io/github/last-commit/benedekrozemberczki/karateclub)](https://github.com/benedekrozemberczki/karateclub) - Unsupervised machine learning toolbox for graph structured data.
 - [h2o ![GitHub Repo Stars](https://img.shields.io/github/stars/h2oai/h2o-3) ![GitHub last commit](https://img.shields.io/github/last-commit/h2oai/h2o-3)](https://github.com/h2oai/h2o-3) - Open Source Fast Scalable Machine Learning Platform.
 - [lightgbm ![GitHub Repo Stars](https://img.shields.io/github/stars/lightgbm-org/LightGBM) ![GitHub last commit](https://img.shields.io/github/last-commit/lightgbm-org/LightGBM)](https://github.com/lightgbm-org/LightGBM) - A fast, distributed, high performance gradient boosting framework.
 - [mindsdb ![GitHub Repo Stars](https://img.shields.io/github/stars/mindsdb/mindsdb) ![GitHub last commit](https://img.shields.io/github/last-commit/mindsdb/mindsdb)](https://github.com/mindsdb/mindsdb) - MindsDB is an open source AI layer for existing databases that allows you to effortlessly develop, train and deploy state-of-the-art machine learning models using standard queries.
@@ -252,6 +249,9 @@ _ASGI and WSGI compatible web servers._
   - [gunicorn ![GitHub Repo Stars](https://img.shields.io/github/stars/benoitc/gunicorn) ![GitHub last commit](https://img.shields.io/github/last-commit/benoitc/gunicorn)](https://github.com/benoitc/gunicorn) - Pre-forked, ported from Ruby's Unicorn project.
   - [uwsgi ![GitHub Repo Stars](https://img.shields.io/github/stars/unbit/uwsgi) ![GitHub last commit](https://img.shields.io/github/last-commit/unbit/uwsgi)](https://github.com/unbit/uwsgi) - A project aims at developing a full stack for building hosting services, written in C.
   - [waitress ![GitHub Repo Stars](https://img.shields.io/github/stars/Pylons/waitress) ![GitHub last commit](https://img.shields.io/github/last-commit/Pylons/waitress)](https://github.com/Pylons/waitress) - Multi-threaded, powers Pyramid.
+- RPC
+  - [grpcio ![GitHub Repo Stars](https://img.shields.io/github/stars/grpc/grpc) ![GitHub last commit](https://img.shields.io/github/last-commit/grpc/grpc)](https://github.com/grpc/grpc) - HTTP/2-based RPC framework with Python bindings, built by Google.
+  - [rpyc ![GitHub Repo Stars](https://img.shields.io/github/stars/tomerfiliba-org/rpyc) ![GitHub last commit](https://img.shields.io/github/last-commit/tomerfiliba-org/rpyc)](https://github.com/tomerfiliba-org/rpyc) (Remote Python Call) - A transparent and symmetric RPC library for Python.
 
 ## WebSocket
 
@@ -274,7 +274,6 @@ _Libraries and tools for templating and lexing._
 _Tools for managing, compressing and minifying website assets._
 
 - [django-compressor ![GitHub Repo Stars](https://img.shields.io/github/stars/django-compressor/django-compressor) ![GitHub last commit](https://img.shields.io/github/last-commit/django-compressor/django-compressor)](https://github.com/django-compressor/django-compressor) - Compresses linked and inline JavaScript or CSS into a single cached file.
-- [django-pipeline ![GitHub Repo Stars](https://img.shields.io/github/stars/jazzband/django-pipeline) ![GitHub last commit](https://img.shields.io/github/last-commit/jazzband/django-pipeline)](https://github.com/jazzband/django-pipeline) - An asset packaging library for Django.
 - [django-storages ![GitHub Repo Stars](https://img.shields.io/github/stars/jschneier/django-storages) ![GitHub last commit](https://img.shields.io/github/last-commit/jschneier/django-storages)](https://github.com/jschneier/django-storages) - A collection of custom storage back ends for Django.
 
 ## Authentication
@@ -349,7 +348,7 @@ _Libraries to automate web scraping and extract web content._
 
 ## Email
 
-_Libraries for sending and parsing email._
+_Libraries for sending and parsing email, and mail server management._
 
 - [modoboa ![GitHub Repo Stars](https://img.shields.io/github/stars/modoboa/modoboa) ![GitHub last commit](https://img.shields.io/github/last-commit/modoboa/modoboa)](https://github.com/modoboa/modoboa) - A mail hosting and management platform including a modern Web UI.
 - [yagmail ![GitHub Repo Stars](https://img.shields.io/github/stars/kootenpv/yagmail) ![GitHub last commit](https://img.shields.io/github/last-commit/kootenpv/yagmail)](https://github.com/kootenpv/yagmail) - Yet another Gmail/SMTP client.
@@ -388,7 +387,7 @@ _Libraries for connecting and operating databases._
   - [sqlite3](https://docs.python.org/3/library/sqlite3.html) - (Python standard library) SQlite interface compliant with DB-API 2.0.
 - Other Relational Databases
   - [clickhouse-driver ![GitHub Repo Stars](https://img.shields.io/github/stars/mymarilyn/clickhouse-driver) ![GitHub last commit](https://img.shields.io/github/last-commit/mymarilyn/clickhouse-driver)](https://github.com/mymarilyn/clickhouse-driver) - Python driver with native interface for ClickHouse.
-  - [pymssql ![GitHub Repo Stars](https://img.shields.io/github/stars/pymssql/pymssql) ![GitHub last commit](https://img.shields.io/github/last-commit/pymssql/pymssql)](https://github.com/pymssql/pymssql) - A simple database interface to Microsoft SQL Server.
+  - [mssql-python ![GitHub Repo Stars](https://img.shields.io/github/stars/microsoft/mssql-python) ![GitHub last commit](https://img.shields.io/github/last-commit/microsoft/mssql-python)](https://github.com/microsoft/mssql-python) - Official Microsoft driver for SQL Server and Azure SQL, built on ODBC for high performance and low memory usage.
 - NoSQL Databases
   - [cassandra-driver ![GitHub Repo Stars](https://img.shields.io/github/stars/apache/cassandra-python-driver) ![GitHub last commit](https://img.shields.io/github/last-commit/apache/cassandra-python-driver)](https://github.com/apache/cassandra-python-driver) - The Python Driver for Apache Cassandra.
   - [django-mongodb-backend ![GitHub Repo Stars](https://img.shields.io/github/stars/mongodb/django-mongodb-backend) ![GitHub last commit](https://img.shields.io/github/last-commit/mongodb/django-mongodb-backend)](https://github.com/mongodb/django-mongodb-backend) - Official MongoDB database backend for Django.
@@ -412,8 +411,6 @@ _Libraries for caching data._
 - [cachetools ![GitHub Repo Stars](https://img.shields.io/github/stars/tkem/cachetools) ![GitHub last commit](https://img.shields.io/github/last-commit/tkem/cachetools)](https://github.com/tkem/cachetools) - Extensible memoizing collections and decorators.
 - [django-cacheops ![GitHub Repo Stars](https://img.shields.io/github/stars/Suor/django-cacheops) ![GitHub last commit](https://img.shields.io/github/last-commit/Suor/django-cacheops)](https://github.com/Suor/django-cacheops) - A slick ORM cache with automatic granular event-driven invalidation.
 - [dogpile.cache ![GitHub Repo Stars](https://img.shields.io/github/stars/sqlalchemy/dogpile.cache) ![GitHub last commit](https://img.shields.io/github/last-commit/sqlalchemy/dogpile.cache)](https://github.com/sqlalchemy/dogpile.cache) - dogpile.cache is a next generation replacement for Beaker made by the same authors.
-- [hermescache](https://pypi.org/project/HermesCache/) - Python caching library with tag-based invalidation and dogpile effect prevention.
-- [pylibmc ![GitHub Repo Stars](https://img.shields.io/github/stars/lericson/pylibmc) ![GitHub last commit](https://img.shields.io/github/last-commit/lericson/pylibmc)](https://github.com/lericson/pylibmc) - A Python wrapper around the [libmemcached](https://libmemcached.org/libMemcached.html) interface.
 - [python-diskcache ![GitHub Repo Stars](https://img.shields.io/github/stars/grantjenks/python-diskcache) ![GitHub last commit](https://img.shields.io/github/last-commit/grantjenks/python-diskcache)](https://github.com/grantjenks/python-diskcache) - SQLite and file backed cache backend with faster lookups than memcached and redis.
 
 ## Search
@@ -660,16 +657,6 @@ _Libraries for generating project documentation._
 - [mkdocs ![GitHub Repo Stars](https://img.shields.io/github/stars/mkdocs/mkdocs) ![GitHub last commit](https://img.shields.io/github/last-commit/mkdocs/mkdocs)](https://github.com/mkdocs/mkdocs/) - Markdown friendly documentation generator.
 - [pdoc ![GitHub Repo Stars](https://img.shields.io/github/stars/mitmproxy/pdoc) ![GitHub last commit](https://img.shields.io/github/last-commit/mitmproxy/pdoc)](https://github.com/mitmproxy/pdoc) - Epydoc replacement to auto generate API documentation for Python libraries.
 
-## Editor Plugins and IDEs
-
-- [elpy ![GitHub Repo Stars](https://img.shields.io/github/stars/jorgenschaefer/elpy) ![GitHub last commit](https://img.shields.io/github/last-commit/jorgenschaefer/elpy)](https://github.com/jorgenschaefer/elpy) - Emacs Python Development Environment.
-- [jedi-vim ![GitHub Repo Stars](https://img.shields.io/github/stars/davidhalter/jedi-vim) ![GitHub last commit](https://img.shields.io/github/last-commit/davidhalter/jedi-vim)](https://github.com/davidhalter/jedi-vim) - Vim bindings for the Jedi auto-completion library for Python.
-- [PyCharm](https://www.jetbrains.com/pycharm/) - Commercial Python IDE by JetBrains. Has free community edition available.
-- [Python for VSCode](https://marketplace.visualstudio.com/items?itemName=ms-python.python) - The official VSCode extension with rich support for Python.
-- [python-mode ![GitHub Repo Stars](https://img.shields.io/github/stars/python-mode/python-mode) ![GitHub last commit](https://img.shields.io/github/last-commit/python-mode/python-mode)](https://github.com/python-mode/python-mode) - An all in one plugin for turning Vim into a Python IDE.
-- [spyder ![GitHub Repo Stars](https://img.shields.io/github/stars/spyder-ide/spyder) ![GitHub last commit](https://img.shields.io/github/last-commit/spyder-ide/spyder)](https://github.com/spyder-ide/spyder) - Open Source Python IDE.
-- [YouCompleteMe ![GitHub Repo Stars](https://img.shields.io/github/stars/ycm-core/YouCompleteMe) ![GitHub last commit](https://img.shields.io/github/last-commit/ycm-core/YouCompleteMe)](https://github.com/ycm-core/YouCompleteMe) - Includes [Jedi ![GitHub Repo Stars](https://img.shields.io/github/stars/davidhalter/jedi) ![GitHub last commit](https://img.shields.io/github/last-commit/davidhalter/jedi)](https://github.com/davidhalter/jedi)-based completion engine for Python.
-
 **DevOps**
 
 ## DevOps Tools
@@ -730,7 +717,6 @@ _Libraries for scheduling jobs._
 - [prefect ![GitHub Repo Stars](https://img.shields.io/github/stars/PrefectHQ/prefect) ![GitHub last commit](https://img.shields.io/github/last-commit/PrefectHQ/prefect)](https://github.com/PrefectHQ/prefect) - A modern workflow orchestration framework that makes it easy to build, schedule and monitor robust data pipelines.
 - [schedule ![GitHub Repo Stars](https://img.shields.io/github/stars/dbader/schedule) ![GitHub last commit](https://img.shields.io/github/last-commit/dbader/schedule)](https://github.com/dbader/schedule) - Python job scheduling for humans.
 - [SpiffWorkflow ![GitHub Repo Stars](https://img.shields.io/github/stars/sartography/SpiffWorkflow) ![GitHub last commit](https://img.shields.io/github/last-commit/sartography/SpiffWorkflow)](https://github.com/sartography/SpiffWorkflow) - A powerful workflow engine implemented in pure Python.
-- [taskflow](https://docs.openstack.org/developer/taskflow/) - A Python library that helps to make task execution easy, consistent and reliable.
 
 ## Logging
 
@@ -747,13 +733,6 @@ _Tools and libraries for Virtual Networking and SDN (Software Defined Networking
 - [mininet ![GitHub Repo Stars](https://img.shields.io/github/stars/mininet/mininet) ![GitHub last commit](https://img.shields.io/github/last-commit/mininet/mininet)](https://github.com/mininet/mininet) - A popular network emulator and API written in Python.
 - [napalm ![GitHub Repo Stars](https://img.shields.io/github/stars/napalm-automation/napalm) ![GitHub last commit](https://img.shields.io/github/last-commit/napalm-automation/napalm)](https://github.com/napalm-automation/napalm) - Cross-vendor API to manipulate network devices.
 - [scapy ![GitHub Repo Stars](https://img.shields.io/github/stars/secdev/scapy) ![GitHub last commit](https://img.shields.io/github/last-commit/secdev/scapy)](https://github.com/secdev/scapy) - A brilliant packet manipulation library.
-
-## RPC Servers
-
-_RPC-compatible servers._
-
-- [grpcio ![GitHub Repo Stars](https://img.shields.io/github/stars/grpc/grpc) ![GitHub last commit](https://img.shields.io/github/last-commit/grpc/grpc)](https://github.com/grpc/grpc) - HTTP/2-based RPC framework with Python bindings, built by Google.
-- [rpyc ![GitHub Repo Stars](https://img.shields.io/github/stars/tomerfiliba-org/rpyc) ![GitHub last commit](https://img.shields.io/github/last-commit/tomerfiliba-org/rpyc)](https://github.com/tomerfiliba-org/rpyc) (Remote Python Call) - A transparent and symmetric RPC library for Python
 
 **CLI & GUI**
 
@@ -784,7 +763,6 @@ _Useful CLI-based tools for productivity._
   - [cookiecutter ![GitHub Repo Stars](https://img.shields.io/github/stars/cookiecutter/cookiecutter) ![GitHub last commit](https://img.shields.io/github/last-commit/cookiecutter/cookiecutter)](https://github.com/cookiecutter/cookiecutter) - A command-line utility that creates projects from cookiecutters (project templates).
   - [copier ![GitHub Repo Stars](https://img.shields.io/github/stars/copier-org/copier) ![GitHub last commit](https://img.shields.io/github/last-commit/copier-org/copier)](https://github.com/copier-org/copier) - A library and command-line utility for rendering projects templates.
   - [doitlive ![GitHub Repo Stars](https://img.shields.io/github/stars/sloria/doitlive) ![GitHub last commit](https://img.shields.io/github/last-commit/sloria/doitlive)](https://github.com/sloria/doitlive) - A tool for live presentations in the terminal.
-  - [fpp ![GitHub Repo Stars](https://img.shields.io/github/stars/facebook/PathPicker) ![GitHub last commit](https://img.shields.io/github/last-commit/facebook/PathPicker)](https://github.com/facebook/PathPicker) - Select files out of bash output.
   - [thefuck ![GitHub Repo Stars](https://img.shields.io/github/stars/nvbn/thefuck) ![GitHub last commit](https://img.shields.io/github/last-commit/nvbn/thefuck)](https://github.com/nvbn/thefuck) - Correcting your previous console command.
   - [tmuxp ![GitHub Repo Stars](https://img.shields.io/github/stars/tmux-python/tmuxp) ![GitHub last commit](https://img.shields.io/github/last-commit/tmux-python/tmuxp)](https://github.com/tmux-python/tmuxp) - A [tmux ![GitHub Repo Stars](https://img.shields.io/github/stars/tmux/tmux) ![GitHub last commit](https://img.shields.io/github/last-commit/tmux/tmux)](https://github.com/tmux/tmux) session manager.
   - [xonsh ![GitHub Repo Stars](https://img.shields.io/github/stars/xonsh/xonsh) ![GitHub last commit](https://img.shields.io/github/last-commit/xonsh/xonsh)](https://github.com/xonsh/xonsh/) - A Python-powered shell. Full-featured and cross-platform.
@@ -840,7 +818,7 @@ _Libraries for parsing and manipulating plain texts._
   - [textdistance ![GitHub Repo Stars](https://img.shields.io/github/stars/life4/textdistance) ![GitHub last commit](https://img.shields.io/github/last-commit/life4/textdistance)](https://github.com/life4/textdistance) - Compute distance between sequences with 30+ algorithms.
   - [unidecode ![GitHub Repo Stars](https://img.shields.io/github/stars/avian2/unidecode) ![GitHub last commit](https://img.shields.io/github/last-commit/avian2/unidecode)](https://github.com/avian2/unidecode) - ASCII transliterations of Unicode text.
 - Unique identifiers
-  - [hashids ![GitHub Repo Stars](https://img.shields.io/github/stars/davidaurelio/hashids-python) ![GitHub last commit](https://img.shields.io/github/last-commit/davidaurelio/hashids-python)](https://github.com/davidaurelio/hashids-python) - Implementation of [hashids](http://hashids.org) in Python.
+  - [sqids ![GitHub Repo Stars](https://img.shields.io/github/stars/sqids/sqids-python) ![GitHub last commit](https://img.shields.io/github/last-commit/sqids/sqids-python)](https://github.com/sqids/sqids-python) - A library for generating short unique IDs from numbers.
   - [shortuuid ![GitHub Repo Stars](https://img.shields.io/github/stars/skorokithakis/shortuuid) ![GitHub last commit](https://img.shields.io/github/last-commit/skorokithakis/shortuuid)](https://github.com/skorokithakis/shortuuid) - A generator library for concise, unambiguous and URL-safe UUIDs.
 - Parser
   - [pygments ![GitHub Repo Stars](https://img.shields.io/github/stars/pygments/pygments) ![GitHub last commit](https://img.shields.io/github/last-commit/pygments/pygments)](https://github.com/pygments/pygments) - A generic syntax highlighter.
@@ -1076,7 +1054,6 @@ _Frameworks and tools for penetration testing._
 _Libraries for programming with hardware._
 
 - [bleak ![GitHub Repo Stars](https://img.shields.io/github/stars/hbldh/bleak) ![GitHub last commit](https://img.shields.io/github/last-commit/hbldh/bleak)](https://github.com/hbldh/bleak) - A cross platform Bluetooth Low Energy Client for Python using asyncio.
-- [mouse ![GitHub Repo Stars](https://img.shields.io/github/stars/boppreh/mouse) ![GitHub last commit](https://img.shields.io/github/last-commit/boppreh/mouse)](https://github.com/boppreh/mouse) - Hook and simulate global mouse events on Windows and Linux.
 - [pynput ![GitHub Repo Stars](https://img.shields.io/github/stars/moses-palmer/pynput) ![GitHub last commit](https://img.shields.io/github/last-commit/moses-palmer/pynput)](https://github.com/moses-palmer/pynput) - A library to control and monitor input devices.
 
 ## Microsoft Windows
