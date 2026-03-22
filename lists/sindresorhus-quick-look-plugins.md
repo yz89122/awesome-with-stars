@@ -118,6 +118,14 @@ Purchase on the [App Store](https://apps.apple.com/app/folder-preview/id66988766
 
 [![ ![GitHub Repo Stars](https://img.shields.io/github/stars/sindresorhus/quick-look-plugins) ![GitHub last commit](https://img.shields.io/github/last-commit/sindresorhus/quick-look-plugins)](https://github.com/sindresorhus/quick-look-plugins/raw/main/screenshots/FolderPreview.png)](https://anybox.ltd/folder-preview)
 
+### [Folder Quick Look](https://apps.apple.com/app/id6753110395) 💰
+
+> Preview folder and archive contents (ZIP, RAR, and more).
+
+Purchase on the [App Store](https://apps.apple.com/app/id6753110395).
+
+[![ ![GitHub Repo Stars](https://img.shields.io/github/stars/sindresorhus/quick-look-plugins) ![GitHub last commit](https://img.shields.io/github/last-commit/sindresorhus/quick-look-plugins)](https://github.com/sindresorhus/quick-look-plugins/raw/main/screenshots/FolderQuickLook.png)](https://apps.apple.com/app/id6753110395)
+
 ### [FluxMarkdown ![GitHub Repo Stars](https://img.shields.io/github/stars/xykong/flux-markdown) ![GitHub last commit](https://img.shields.io/github/last-commit/xykong/flux-markdown)](https://github.com/xykong/flux-markdown)
 
 > Preview Markdown files with Mermaid diagrams, KaTeX math, GFM support, and interactive table of contents.
