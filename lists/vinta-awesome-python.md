@@ -2,6 +2,8 @@
 
 An opinionated list of Python frameworks, libraries, tools, and resources.
 
+# **Sponsors**
+
 > The **#10 most-starred repo on GitHub**. Put your product in front of Python developers. [Become a sponsor](SPONSORSHIP.md).
 
 # Categories
@@ -894,14 +896,14 @@ _Libraries for file manipulation._
 
 _Libraries for manipulating images._
 
-- [pillow ![GitHub Repo Stars](https://img.shields.io/github/stars/python-pillow/Pillow) ![GitHub last commit](https://img.shields.io/github/last-commit/python-pillow/Pillow)](https://github.com/python-pillow/Pillow) - Pillow is the friendly [PIL](http://www.pythonware.com/products/pil/) fork.
+- [pillow ![GitHub Repo Stars](https://img.shields.io/github/stars/python-pillow/Pillow) ![GitHub last commit](https://img.shields.io/github/last-commit/python-pillow/Pillow)](https://github.com/python-pillow/Pillow) - Pillow is the friendly [PIL](https://www.pythonware.com/products/pil/) fork.
 - [pymatting ![GitHub Repo Stars](https://img.shields.io/github/stars/pymatting/pymatting) ![GitHub last commit](https://img.shields.io/github/last-commit/pymatting/pymatting)](https://github.com/pymatting/pymatting) - A library for alpha matting.
 - [python-barcode ![GitHub Repo Stars](https://img.shields.io/github/stars/WhyNotHugo/python-barcode) ![GitHub last commit](https://img.shields.io/github/last-commit/WhyNotHugo/python-barcode)](https://github.com/WhyNotHugo/python-barcode) - Create barcodes in Python with no extra dependencies.
 - [python-qrcode ![GitHub Repo Stars](https://img.shields.io/github/stars/lincolnloop/python-qrcode) ![GitHub last commit](https://img.shields.io/github/last-commit/lincolnloop/python-qrcode)](https://github.com/lincolnloop/python-qrcode) - A pure Python QR Code generator.
 - [pyvips ![GitHub Repo Stars](https://img.shields.io/github/stars/libvips/pyvips) ![GitHub last commit](https://img.shields.io/github/last-commit/libvips/pyvips)](https://github.com/libvips/pyvips) - A fast image processing library with low memory needs.
 - [scikit-image ![GitHub Repo Stars](https://img.shields.io/github/stars/scikit-image/scikit-image) ![GitHub last commit](https://img.shields.io/github/last-commit/scikit-image/scikit-image)](https://github.com/scikit-image/scikit-image) - A Python library for (scientific) image processing.
 - [thumbor ![GitHub Repo Stars](https://img.shields.io/github/stars/thumbor/thumbor) ![GitHub last commit](https://img.shields.io/github/last-commit/thumbor/thumbor)](https://github.com/thumbor/thumbor) - A smart imaging service. It enables on-demand crop, re-sizing and flipping of images.
-- [wand ![GitHub Repo Stars](https://img.shields.io/github/stars/emcconville/wand) ![GitHub last commit](https://img.shields.io/github/last-commit/emcconville/wand)](https://github.com/emcconville/wand) - Python bindings for [MagickWand](http://www.imagemagick.org/script/magick-wand.php), C API for ImageMagick.
+- [wand ![GitHub Repo Stars](https://img.shields.io/github/stars/emcconville/wand) ![GitHub last commit](https://img.shields.io/github/last-commit/emcconville/wand)](https://github.com/emcconville/wand) - Python bindings for [MagickWand](https://www.imagemagick.org/script/magick-wand.php), C API for ImageMagick.
 
 ## Audio & Video Processing
 
@@ -1093,7 +1095,6 @@ Where to discover learning resources or new Python libraries.
 - [Django Chat](https://djangochat.com/)
 - [PyPodcats](https://pypodcats.live)
 - [Python Bytes](https://pythonbytes.fm)
-- [Python Test](https://podcast.pythontest.com/)
 - [Talk Python To Me](https://talkpython.fm/)
 - [The Real Python Podcast](https://realpython.com/podcasts/rpp/)
 
