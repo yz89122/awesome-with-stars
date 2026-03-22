@@ -90,6 +90,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 ### Test Management
 - [Gwirian](https://www.gwirian.com) - Open source BDD test management for QA teams. Given/When/Then scenarios, search, dashboards; self-host or hosted.
 - [Kiwi TCMS ![GitHub Repo Stars](https://img.shields.io/github/stars/kiwitcms/Kiwi) ![GitHub last commit](https://img.shields.io/github/last-commit/kiwitcms/Kiwi)](https://github.com/kiwitcms/Kiwi) - Open-source test case management.
+- [skipper ![GitHub Repo Stars](https://img.shields.io/github/stars/get-skipper/skipper) ![GitHub last commit](https://img.shields.io/github/last-commit/get-skipper/skipper)](https://github.com/get-skipper/skipper) - Real-time test execution control via Google Spreadsheet, enabling instant toggle without code changes.
 - [TestLink ![GitHub Repo Stars](https://img.shields.io/github/stars/TestLinkOpenSourceTRMS/testlink-code) ![GitHub last commit](https://img.shields.io/github/last-commit/TestLinkOpenSourceTRMS/testlink-code)](https://github.com/TestLinkOpenSourceTRMS/testlink-code) - Open-source test case management system.
 - [Testomatio](https://testomat.io/) - Modern TCMS allowing sync of manual and automated tests.
 
