@@ -15,7 +15,7 @@ An opinionated list of Python frameworks, libraries, tools, and resources.
 - [Computer Vision](#computer-vision)
 - [Recommender Systems](#recommender-systems)
 
-**Web**
+**Web Development**
 
 - [Web Frameworks](#web-frameworks)
 - [Web APIs](#web-apis)
@@ -125,6 +125,10 @@ An opinionated list of Python frameworks, libraries, tools, and resources.
 
 _Libraries for building AI applications, LLM integrations, and autonomous agents._
 
+- Agent Skills
+  - [django-ai-plugins ![GitHub Repo Stars](https://img.shields.io/github/stars/vintasoftware/django-ai-plugins) ![GitHub last commit](https://img.shields.io/github/last-commit/vintasoftware/django-ai-plugins)](https://github.com/vintasoftware/django-ai-plugins) - Django backend agent skills for Django, DRF, Celery, and Django-specific code review.
+  - [sentry-skills ![GitHub Repo Stars](https://img.shields.io/github/stars/getsentry/skills) ![GitHub last commit](https://img.shields.io/github/last-commit/getsentry/skills)](https://github.com/getsentry/skills) - Python-focused engineering skills for code review, debugging, and backend workflows.
+  - [trailofbits-skills ![GitHub Repo Stars](https://img.shields.io/github/stars/trailofbits/skills) ![GitHub last commit](https://img.shields.io/github/last-commit/trailofbits/skills)](https://github.com/trailofbits/skills) - Python-friendly security skills for auditing, testing, and safer backend development.
 - Frameworks
   - [autogen ![GitHub Repo Stars](https://img.shields.io/github/stars/microsoft/autogen) ![GitHub last commit](https://img.shields.io/github/last-commit/microsoft/autogen)](https://github.com/microsoft/autogen) - A programming framework for building agentic AI applications.
   - [crewai ![GitHub Repo Stars](https://img.shields.io/github/stars/crewAIInc/crewAI) ![GitHub last commit](https://img.shields.io/github/last-commit/crewAIInc/crewAI)](https://github.com/crewAIInc/crewAI) - A framework for orchestrating role-playing autonomous AI agents for collaborative task solving.
@@ -193,7 +197,7 @@ _Libraries for building recommender systems._
 - [implicit ![GitHub Repo Stars](https://img.shields.io/github/stars/benfred/implicit) ![GitHub last commit](https://img.shields.io/github/last-commit/benfred/implicit)](https://github.com/benfred/implicit) - A fast Python implementation of collaborative filtering for implicit datasets.
 - [scikit-surprise ![GitHub Repo Stars](https://img.shields.io/github/stars/NicolasHug/Surprise) ![GitHub last commit](https://img.shields.io/github/last-commit/NicolasHug/Surprise)](https://github.com/NicolasHug/Surprise) - A scikit for building and analyzing recommender systems.
 
-**Web**
+**Web Development**
 
 ## Web Frameworks
 
@@ -572,14 +576,15 @@ _Tools of static analysis, linters and code quality checkers. Also see [awesome-
 - Code Formatters
   - [black ![GitHub Repo Stars](https://img.shields.io/github/stars/psf/black) ![GitHub last commit](https://img.shields.io/github/last-commit/psf/black)](https://github.com/psf/black) - The uncompromising Python code formatter.
   - [isort ![GitHub Repo Stars](https://img.shields.io/github/stars/PyCQA/isort) ![GitHub last commit](https://img.shields.io/github/last-commit/PyCQA/isort)](https://github.com/PyCQA/isort) - A Python utility / library to sort imports.
-- Static Type Checkers, also see [awesome-python-typing ![GitHub Repo Stars](https://img.shields.io/github/stars/typeddjango/awesome-python-typing) ![GitHub last commit](https://img.shields.io/github/last-commit/typeddjango/awesome-python-typing)](https://github.com/typeddjango/awesome-python-typing)
+  - [ruff ![GitHub Repo Stars](https://img.shields.io/github/stars/astral-sh/ruff) ![GitHub last commit](https://img.shields.io/github/last-commit/astral-sh/ruff)](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter.
+- Refactoring
+  - [rope ![GitHub Repo Stars](https://img.shields.io/github/stars/python-rope/rope) ![GitHub last commit](https://img.shields.io/github/last-commit/python-rope/rope)](https://github.com/python-rope/rope) - Rope is a python refactoring library.
+- Type Checkers - [awesome-python-typing ![GitHub Repo Stars](https://img.shields.io/github/stars/typeddjango/awesome-python-typing) ![GitHub last commit](https://img.shields.io/github/last-commit/typeddjango/awesome-python-typing)](https://github.com/typeddjango/awesome-python-typing)
   - [mypy ![GitHub Repo Stars](https://img.shields.io/github/stars/python/mypy) ![GitHub last commit](https://img.shields.io/github/last-commit/python/mypy)](https://github.com/python/mypy) - Check variable types during compile time.
   - [pyre-check ![GitHub Repo Stars](https://img.shields.io/github/stars/facebook/pyre-check) ![GitHub last commit](https://img.shields.io/github/last-commit/facebook/pyre-check)](https://github.com/facebook/pyre-check) - Performant type checking.
   - [ty ![GitHub Repo Stars](https://img.shields.io/github/stars/astral-sh/ty) ![GitHub last commit](https://img.shields.io/github/last-commit/astral-sh/ty)](https://github.com/astral-sh/ty) - An extremely fast Python type checker and language server.
   - [typeshed ![GitHub Repo Stars](https://img.shields.io/github/stars/python/typeshed) ![GitHub last commit](https://img.shields.io/github/last-commit/python/typeshed)](https://github.com/python/typeshed) - Collection of library stubs for Python, with static types.
-- Refactoring
-  - [rope ![GitHub Repo Stars](https://img.shields.io/github/stars/python-rope/rope) ![GitHub last commit](https://img.shields.io/github/last-commit/python-rope/rope)](https://github.com/python-rope/rope) - Rope is a python refactoring library.
-- Static Type Annotations Generators
+- Type Annotations Generators
   - [monkeytype ![GitHub Repo Stars](https://img.shields.io/github/stars/Instagram/MonkeyType) ![GitHub last commit](https://img.shields.io/github/last-commit/Instagram/MonkeyType)](https://github.com/Instagram/MonkeyType) - A system for Python that generates static type annotations by collecting runtime types.
   - [pytype ![GitHub Repo Stars](https://img.shields.io/github/stars/google/pytype) ![GitHub last commit](https://img.shields.io/github/last-commit/google/pytype)](https://github.com/google/pytype) - Pytype checks and infers types for Python code - without requiring type annotations.
 
@@ -587,7 +592,7 @@ _Tools of static analysis, linters and code quality checkers. Also see [awesome-
 
 _Libraries for testing codebases and generating test data._
 
-- Testing Frameworks
+- Frameworks
   - [hypothesis ![GitHub Repo Stars](https://img.shields.io/github/stars/HypothesisWorks/hypothesis) ![GitHub last commit](https://img.shields.io/github/last-commit/HypothesisWorks/hypothesis)](https://github.com/HypothesisWorks/hypothesis) - Hypothesis is an advanced Quickcheck style property based testing library.
   - [pytest ![GitHub Repo Stars](https://img.shields.io/github/stars/pytest-dev/pytest) ![GitHub last commit](https://img.shields.io/github/last-commit/pytest-dev/pytest)](https://github.com/pytest-dev/pytest) - A mature full-featured Python testing tool.
   - [robotframework ![GitHub Repo Stars](https://img.shields.io/github/stars/robotframework/robotframework) ![GitHub last commit](https://img.shields.io/github/last-commit/robotframework/robotframework)](https://github.com/robotframework/robotframework) - A generic test automation framework.
@@ -735,11 +740,11 @@ _Tools and libraries for Virtual Networking and SDN (Software Defined Networking
 
 **CLI & GUI**
 
-## Command-line Interface Development
+## CLI Development
 
 _Libraries for building command-line applications._
 
-- Command-line Application Development
+- CLI Development
   - [argparse](https://docs.python.org/3/library/argparse.html) - (Python standard library) Command-line option and argument parsing.
   - [cement ![GitHub Repo Stars](https://img.shields.io/github/stars/datafolklabs/cement) ![GitHub last commit](https://img.shields.io/github/last-commit/datafolklabs/cement)](https://github.com/datafolklabs/cement) - CLI Application Framework for Python.
   - [click ![GitHub Repo Stars](https://img.shields.io/github/stars/pallets/click) ![GitHub last commit](https://img.shields.io/github/last-commit/pallets/click)](https://github.com/pallets/click/) - A package for creating beautiful command line interfaces in a composable way.
@@ -754,7 +759,7 @@ _Libraries for building command-line applications._
   - [textual ![GitHub Repo Stars](https://img.shields.io/github/stars/Textualize/textual) ![GitHub last commit](https://img.shields.io/github/last-commit/Textualize/textual)](https://github.com/Textualize/textual) - A framework for building interactive user interfaces that run in the terminal and the browser.
   - [tqdm ![GitHub Repo Stars](https://img.shields.io/github/stars/tqdm/tqdm) ![GitHub last commit](https://img.shields.io/github/last-commit/tqdm/tqdm)](https://github.com/tqdm/tqdm) - Fast, extensible progress bar for loops and CLI.
 
-## Command-line Tools
+## CLI Tools
 
 _Useful CLI-based tools for productivity._
 
@@ -848,7 +853,7 @@ _Libraries for parsing and manipulating specific text formats._
   - [kreuzberg ![GitHub Repo Stars](https://img.shields.io/github/stars/kreuzberg-dev/kreuzberg) ![GitHub last commit](https://img.shields.io/github/last-commit/kreuzberg-dev/kreuzberg)](https://github.com/kreuzberg-dev/kreuzberg) - High-performance document extraction library with a Rust core, supporting 62+ formats including PDF, Office, images with OCR, HTML, email, and archives.
   - [pyelftools ![GitHub Repo Stars](https://img.shields.io/github/stars/eliben/pyelftools) ![GitHub last commit](https://img.shields.io/github/last-commit/eliben/pyelftools)](https://github.com/eliben/pyelftools) - Parsing and analyzing ELF files and DWARF debugging information.
   - [tablib ![GitHub Repo Stars](https://img.shields.io/github/stars/jazzband/tablib) ![GitHub last commit](https://img.shields.io/github/last-commit/jazzband/tablib)](https://github.com/jazzband/tablib) - A module for Tabular Datasets in XLS, CSV, JSON, YAML.
-- Office
+- MS Office
   - [docxtpl ![GitHub Repo Stars](https://img.shields.io/github/stars/elapouya/python-docx-template) ![GitHub last commit](https://img.shields.io/github/last-commit/elapouya/python-docx-template)](https://github.com/elapouya/python-docx-template) - Editing a docx document by jinja2 template
   - [openpyxl](https://openpyxl.readthedocs.io/en/stable/) - A library for reading and writing Excel 2010 xlsx/xlsm/xltx/xltm files.
   - [pyexcel ![GitHub Repo Stars](https://img.shields.io/github/stars/pyexcel/pyexcel) ![GitHub last commit](https://img.shields.io/github/last-commit/pyexcel/pyexcel)](https://github.com/pyexcel/pyexcel) - Providing one API for reading, manipulating and writing csv, ods, xls, xlsx and xlsm files.
