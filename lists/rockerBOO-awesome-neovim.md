@@ -310,6 +310,7 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 - [atomicptr/defold.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/atomicptr/defold.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/atomicptr/defold.nvim)](https://github.com/atomicptr/defold.nvim) - Batteries-included development environment for the Defold game engine.
 - [onlyati/quadlet-lsp.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/onlyati/quadlet-lsp.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/onlyati/quadlet-lsp.nvim)](https://github.com/onlyati/quadlet-lsp.nvim) - Provides completion, hover and other language server features for Podman Quadlet files.
 - [leblocks/hopcsharp.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/leblocks/hopcsharp.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/leblocks/hopcsharp.nvim)](https://github.com/leblocks/hopcsharp.nvim) - Provides LSP-less navigation and type-hierarchy information in C# repositories.
+- [AnsonH/copy-python-path.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/AnsonH/copy-python-path.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/AnsonH/copy-python-path.nvim)](https://github.com/AnsonH/copy-python-path.nvim) - Copy the reference or import path of a Python symbol.
 
 ### Golang
 
