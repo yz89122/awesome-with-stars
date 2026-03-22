@@ -1,6 +1,6 @@
 # Awesome Python
 
-An opinionated list of awesome Python frameworks, libraries, tools, software and resources.
+An opinionated list of Python frameworks, libraries, tools, and resources.
 
 > The **#10 most-starred repo on GitHub**. Put your product where Python developers discover tools. [Become a sponsor](SPONSORSHIP.md).
 
@@ -543,7 +543,6 @@ _Python implementation of data structures, algorithms and design patterns. Also 
   - [sortedcontainers ![GitHub Repo Stars](https://img.shields.io/github/stars/grantjenks/python-sortedcontainers) ![GitHub last commit](https://img.shields.io/github/last-commit/grantjenks/python-sortedcontainers)](https://github.com/grantjenks/python-sortedcontainers) - Fast and pure-Python implementation of sorted collections.
   - [thealgorithms ![GitHub Repo Stars](https://img.shields.io/github/stars/TheAlgorithms/Python) ![GitHub last commit](https://img.shields.io/github/last-commit/TheAlgorithms/Python)](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python.
 - Design Patterns
-  - [python-cqrs ![GitHub Repo Stars](https://img.shields.io/github/stars/pypatterns/python-cqrs) ![GitHub last commit](https://img.shields.io/github/last-commit/pypatterns/python-cqrs)](https://github.com/pypatterns/python-cqrs) - Event-Driven Architecture Framework with CQRS/CQS, Transaction Outbox, Saga orchestration.
   - [python-patterns ![GitHub Repo Stars](https://img.shields.io/github/stars/faif/python-patterns) ![GitHub last commit](https://img.shields.io/github/last-commit/faif/python-patterns)](https://github.com/faif/python-patterns) - A collection of design patterns in Python.
   - [transitions ![GitHub Repo Stars](https://img.shields.io/github/stars/pytransitions/transitions) ![GitHub last commit](https://img.shields.io/github/last-commit/pytransitions/transitions)](https://github.com/pytransitions/transitions) - A lightweight, object-oriented finite state machine implementation.
 
@@ -599,7 +598,7 @@ _Libraries for testing codebases and generating test data._
   - [tox ![GitHub Repo Stars](https://img.shields.io/github/stars/tox-dev/tox) ![GitHub last commit](https://img.shields.io/github/last-commit/tox-dev/tox)](https://github.com/tox-dev/tox) - Auto builds and tests distributions in multiple Python versions
 - GUI / Web Testing
   - [locust ![GitHub Repo Stars](https://img.shields.io/github/stars/locustio/locust) ![GitHub last commit](https://img.shields.io/github/last-commit/locustio/locust)](https://github.com/locustio/locust) - Scalable user load testing tool written in Python.
-  - [playwright ![GitHub Repo Stars](https://img.shields.io/github/stars/microsoft/playwright-python) ![GitHub last commit](https://img.shields.io/github/last-commit/microsoft/playwright-python)](https://github.com/microsoft/playwright-python) - Python version of the Playwright testing and automation library.
+  - [playwright-python ![GitHub Repo Stars](https://img.shields.io/github/stars/microsoft/playwright-python) ![GitHub last commit](https://img.shields.io/github/last-commit/microsoft/playwright-python)](https://github.com/microsoft/playwright-python) - Python version of the Playwright testing and automation library.
   - [pyautogui ![GitHub Repo Stars](https://img.shields.io/github/stars/asweigart/pyautogui) ![GitHub last commit](https://img.shields.io/github/last-commit/asweigart/pyautogui)](https://github.com/asweigart/pyautogui) - PyAutoGUI is a cross-platform GUI automation Python module for human beings.
   - [schemathesis ![GitHub Repo Stars](https://img.shields.io/github/stars/schemathesis/schemathesis) ![GitHub last commit](https://img.shields.io/github/last-commit/schemathesis/schemathesis)](https://github.com/schemathesis/schemathesis) - A tool for automatic property-based testing of web applications built with Open API / Swagger specifications.
   - [selenium ![GitHub Repo Stars](https://img.shields.io/github/stars/SeleniumHQ/selenium) ![GitHub last commit](https://img.shields.io/github/last-commit/SeleniumHQ/selenium)](https://github.com/SeleniumHQ/selenium) - Python bindings for [Selenium](https://selenium.dev/) [WebDriver](https://selenium.dev/documentation/webdriver/).
@@ -833,11 +832,11 @@ _Libraries for parsing and manipulating plain texts._
 _Libraries for working with HTML and XML._
 
 - [beautifulsoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) - Providing Pythonic idioms for iterating, searching, and modifying HTML or XML.
-- [cssutils ![GitHub Repo Stars](https://img.shields.io/github/stars/jaraco/cssutils) ![GitHub last commit](https://img.shields.io/github/last-commit/jaraco/cssutils)](https://github.com/jaraco/cssutils) - A CSS library for Python.
 - [justhtml ![GitHub Repo Stars](https://img.shields.io/github/stars/EmilStenstrom/justhtml) ![GitHub last commit](https://img.shields.io/github/last-commit/EmilStenstrom/justhtml)](https://github.com/EmilStenstrom/justhtml/) - A pure Python HTML5 parser that just works.
 - [lxml ![GitHub Repo Stars](https://img.shields.io/github/stars/lxml/lxml) ![GitHub last commit](https://img.shields.io/github/last-commit/lxml/lxml)](https://github.com/lxml/lxml) - A very fast, easy-to-use and versatile library for handling HTML and XML.
 - [markupsafe ![GitHub Repo Stars](https://img.shields.io/github/stars/pallets/markupsafe) ![GitHub last commit](https://img.shields.io/github/last-commit/pallets/markupsafe)](https://github.com/pallets/markupsafe) - Implements a XML/HTML/XHTML Markup safe string for Python.
 - [pyquery ![GitHub Repo Stars](https://img.shields.io/github/stars/gawel/pyquery) ![GitHub last commit](https://img.shields.io/github/last-commit/gawel/pyquery)](https://github.com/gawel/pyquery) - A jQuery-like library for parsing HTML.
+- [tinycss2 ![GitHub Repo Stars](https://img.shields.io/github/stars/Kozea/tinycss2) ![GitHub last commit](https://img.shields.io/github/last-commit/Kozea/tinycss2)](https://github.com/Kozea/tinycss2) - A low-level CSS parser and generator written in Python.
 - [xmltodict ![GitHub Repo Stars](https://img.shields.io/github/stars/martinblech/xmltodict) ![GitHub last commit](https://img.shields.io/github/last-commit/martinblech/xmltodict)](https://github.com/martinblech/xmltodict) - Working with XML feel like you are working with JSON.
 
 ## File Format Processing
