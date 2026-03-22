@@ -47,7 +47,7 @@
 - [playwright-perl ![GitHub Repo Stars](https://img.shields.io/github/stars/teodesian/playwright-perl) ![GitHub last commit](https://img.shields.io/github/last-commit/teodesian/playwright-perl)](https://github.com/teodesian/playwright-perl) - Playwright port for Perl.
 
 ## Utils
-
+- [playwright-skill ![GitHub Repo Stars](https://img.shields.io/github/stars/testdino-hq/playwright-skill) ![GitHub last commit](https://img.shields.io/github/last-commit/testdino-hq/playwright-skill)](https://github.com/testdino-hq/playwright-skill) - AI Agent Skills: 70+ production-tested Playwright skill for coding agents. Covers core best practices to write better Playwright code, POM patterns, CI/CD pipelines, agent-friendly CLI, and migration paths from Cypress and Selenium. TypeScript and JavaScript.
 - [automated-Playwright-UI-tests](https://github.com/OctoMind-dev) - Auto-generated, run & maintained with AI-assisted test case discovery.
 - [BrowserClaw ![GitHub Repo Stars](https://img.shields.io/github/stars/idan-rubin/browserclaw) ![GitHub last commit](https://img.shields.io/github/last-commit/idan-rubin/browserclaw)](https://github.com/idan-rubin/browserclaw) - AI browser automation via accessibility snapshot and ref targeting. Built on Playwright. No vision model, no CSS selectors — snapshot the page, AI picks a ref, library hits the exact element.
 - [Try Playwright](https://try.playwright.tech) - Interactive playground for running Playwright tests.
@@ -85,6 +85,7 @@
 - [TestDino](https://testdino.com) - An AI Cloud platform for Playwright test analytics with instant failure debugging, flaky test detection, and ML categorization.
 - [playwright-ctrf-json-reporter ![GitHub Repo Stars](https://img.shields.io/github/stars/ctrf-io/playwright-ctrf-json-reporter) ![GitHub last commit](https://img.shields.io/github/last-commit/ctrf-io/playwright-ctrf-json-reporter)](https://github.com/ctrf-io/playwright-ctrf-json-reporter) - A Playwright JSON test results reporter that follows the CTRF schema.
 - [Checkly](https://www.checklyhq.com/docs/detect/testing/playwright-reporter/) - Uploads Playwright test results, screenshots, videos and traces to the Checkly platform for monitoring and debugging across global regions.
+- [playwright-smart-reporter](https://www.npmjs.com/package/playwright-smart-reporter) - A feature-rich HTML reporter with stability grades, trend analytics, retry analysis, performance tracking, and optional AI-powered failure analysis.
 
 ## Showcases
 
