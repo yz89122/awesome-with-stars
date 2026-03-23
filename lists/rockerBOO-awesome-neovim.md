@@ -433,6 +433,7 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 - [fei6409/log-highlight.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/fei6409/log-highlight.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/fei6409/log-highlight.nvim)](https://github.com/fei6409/log-highlight.nvim) - Generic log syntax highlighting and log filetype management support.
 - [MeanderingProgrammer/treesitter-modules.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/MeanderingProgrammer/treesitter-modules.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/MeanderingProgrammer/treesitter-modules.nvim)](https://github.com/MeanderingProgrammer/treesitter-modules.nvim) - Original modules from nvim-treesitter master branch.
 - [BibekBhusal0/tree-hierarchy.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/BibekBhusal0/tree-hierarchy.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/BibekBhusal0/tree-hierarchy.nvim)](https://github.com/BibekBhusal0/tree-hierarchy.nvim) - Edit text and nevigate based on Tree-sitter.
+- [Sang-it/fluoride ![GitHub Repo Stars](https://img.shields.io/github/stars/Sang-it/fluoride) ![GitHub last commit](https://img.shields.io/github/last-commit/Sang-it/fluoride)](https://github.com/Sang-it/fluoride) - A structural code editor. View, reorder, rename, and annotate code declarations from a floating window based on Tree-sitter.
 <!--lint disable double-link -->
 [**⬆ back to top**](#contents)
 <!--lint enable double-link -->
