@@ -108,6 +108,7 @@ Inspired by the [awesome ![GitHub Repo Stars](https://img.shields.io/github/star
 
 - [newsboat ![GitHub Repo Stars](https://img.shields.io/github/stars/newsboat/newsboat) ![GitHub last commit](https://img.shields.io/github/last-commit/newsboat/newsboat)](https://github.com/newsboat/newsboat) - An extendable RSS feed reader for text terminals.
 - [mal-cli ![GitHub Repo Stars](https://img.shields.io/github/stars/L4z3x/mal-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/L4z3x/mal-cli)](https://github.com/L4z3x/mal-cli) - MyAnimeList client.
+- [golazo ![GitHub Repo Stars](https://img.shields.io/github/stars/0xjuanma/golazo) ![GitHub last commit](https://img.shields.io/github/last-commit/0xjuanma/golazo)](https://github.com/0xjuanma/golazo) - Soccer matches.
 
 ### Music
 
@@ -321,7 +322,6 @@ Expose a service running on localhost to the public web for testing and sharing.
 ### Time Tracking
 
 - [Timetrap ![GitHub Repo Stars](https://img.shields.io/github/stars/samg/timetrap) ![GitHub last commit](https://img.shields.io/github/last-commit/samg/timetrap)](https://github.com/samg/timetrap) - Simple timetracker.
-- [moro ![GitHub Repo Stars](https://img.shields.io/github/stars/omidfi/moro) ![GitHub last commit](https://img.shields.io/github/last-commit/omidfi/moro)](https://github.com/omidfi/moro) - Simple tool for tracking work hours.
 - [Timewarrior ![GitHub Repo Stars](https://img.shields.io/github/stars/GothenburgBitFactory/timewarrior) ![GitHub last commit](https://img.shields.io/github/last-commit/GothenburgBitFactory/timewarrior)](https://github.com/GothenburgBitFactory/timewarrior) - Utility with simple stopwatch, calendar-based backfill and flexible reporting.
 - [Watson ![GitHub Repo Stars](https://img.shields.io/github/stars/TailorDev/Watson) ![GitHub last commit](https://img.shields.io/github/last-commit/TailorDev/Watson)](https://github.com/TailorDev/Watson) - Generate reports for clients and manage your time.
 - [utt ![GitHub Repo Stars](https://img.shields.io/github/stars/larose/utt) ![GitHub last commit](https://img.shields.io/github/last-commit/larose/utt)](https://github.com/larose/utt) - Simple time tracking tool.
@@ -785,6 +785,7 @@ Inclusion criteria are less strict for this fast-moving field.
 - [agent-of-empires ![GitHub Repo Stars](https://img.shields.io/github/stars/njbrake/agent-of-empires) ![GitHub last commit](https://img.shields.io/github/last-commit/njbrake/agent-of-empires)](https://github.com/njbrake/agent-of-empires) - Coding agent session manager via tmux and git worktrees.
 - [agent-deck ![GitHub Repo Stars](https://img.shields.io/github/stars/asheshgoplani/agent-deck) ![GitHub last commit](https://img.shields.io/github/last-commit/asheshgoplani/agent-deck)](https://github.com/asheshgoplani/agent-deck) - Dashboard for managing multiple AI coding agent sessions.
 - [Sugar ![GitHub Repo Stars](https://img.shields.io/github/stars/roboticforce/sugar) ![GitHub last commit](https://img.shields.io/github/last-commit/roboticforce/sugar)](https://github.com/roboticforce/sugar) - Autonomous agent that queues and executes tasks in the background.
+- [Shep ![GitHub Repo Stars](https://img.shields.io/github/stars/shep-ai/cli) ![GitHub last commit](https://img.shields.io/github/last-commit/shep-ai/cli)](https://github.com/shep-ai/cli) - Multi-session SDLC control center for AI coding agents.
 
 ### LLM Interaction
 - [aye-chat ![GitHub Repo Stars](https://img.shields.io/github/stars/acrotron/aye-chat) ![GitHub last commit](https://img.shields.io/github/last-commit/acrotron/aye-chat)](https://github.com/acrotron/aye-chat) - Workspace for editing, running commands, and chatting with your codebase.
