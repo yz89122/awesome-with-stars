@@ -762,6 +762,22 @@ Userscripts can be used w/ the following browsers:
     </blockquote>
 </details>
 
+<details> <!-- ChatGPT Exporter -->
+    <summary><a href="https://github.com/pionxzh/chatgpt-exporter">ChatGPT Exporter</a> - Export and share your ChatGPT conversation history (Markdown, JSON, PNG, PDF).</summary><br>
+    <blockquote>
+        <a href="https://github.com/pionxzh/chatgpt-exporter">
+            <img width=511 src="https://github.com/pionxzh/chatgpt-exporter/assets/9910706/1c864670-7912-4484-b4be-bdf5dde51557"></a>
+    </blockquote>
+    <blockquote>
+        💾 <a href="https://update.greasyfork.org/scripts/456055/ChatGPT%20Exporter.user.js">
+            Install</a> /
+        📖 <a href="https://github.com/pionxzh/chatgpt-exporter#readme">
+            Readme</a> /
+        🐛 <a href="https://github.com/pionxzh/chatgpt-exporter/issues">
+            Report bug</a>
+    </blockquote>
+</details>
+
 <details> <!-- ChatGPT Infinity -->
     <summary><a href="https://www.chatgptinfinity.com">ChatGPT Infinity</a> - Generate endless answers from all-knowing ChatGPT (on any topic!)</summary><br>
     <blockquote>
@@ -834,6 +850,22 @@ Userscripts can be used w/ the following browsers:
     </blockquote>
 </details>
 
+<details> <!-- KeepChatGPT -->
+    <summary><a href="https://github.com/xcanwin/KeepChatGPT">KeepChatGPT</a> - Auto-refresh, session keep-alive, data security, audit cancellation, conversation cloning, unlimited characters, page purification, full-screen display, and more.</summary><br>
+    <blockquote>
+        <a href="https://github.com/xcanwin/KeepChatGPT">
+            <img width=511 src="https://cdn.jsdelivr.net/gh/xcanwin/KeepChatGPT@f65c751/assets/chat_light.png"></a>
+    </blockquote>
+    <blockquote>
+        💾 <a href="https://update.greasyfork.org/scripts/462804/KeepChatGPT.user.js">
+            Install</a> /
+        📖 <a href="https://github.com/xcanwin/KeepChatGPT#readme">
+            Readme</a> /
+        🐛 <a href="https://github.com/xcanwin/KeepChatGPT/issues">
+            Report bug</a>
+    </blockquote>
+</details>
+
 
 ### <picture><source type="image/png" media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@f11c95f/assets/images/icons/sites/discord/white/icon256.png"><img height=17 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@f11c95f/assets/images/icons/sites/discord/icon256.png"></picture> Discord
 
@@ -890,6 +922,23 @@ Userscripts can be used w/ the following browsers:
         📢 <a href="https://greasyfork.org/scripts/528895/feedback">
             Discuss</a> /
         🐛 <a href="https://greasyfork.org/scripts/528895/feedback">
+            Report bug</a>
+    </blockquote>
+</details>
+
+
+<details> <!-- Font Rendering (Customized) -->
+    <summary><a href="https://github.com/F9y4ng/GreasyFork-Scripts/blob/master/README_EN.md#font-rendering-customized-font-renderinguserjs">Font Rendering (Customized)</a> - Customize font rendering on any website: font replacement, anti-aliasing, stroke, shadow, and more.</summary><br>
+    <blockquote>
+        <a href="https://github.com/F9y4ng/GreasyFork-Scripts/blob/master/README_EN.md#font-rendering-customized-font-renderinguserjs">
+            <img width=720 src="https://private-user-images.githubusercontent.com/15855068/292612185-9632354e-1c7a-4f10-a197-2e7337f0d5ca.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzQzOTE1OTAsIm5iZiI6MTc3NDM5MTI5MCwicGF0aCI6Ii8xNTg1NTA2OC8yOTI2MTIxODUtOTYzMjM1NGUtMWM3YS00ZjEwLWExOTctMmU3MzM3ZjBkNWNhLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAzMjQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMzI0VDIyMjgxMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWU2ZWI1ZWUzNDk5YTc4MDExOTVlOGNjYzk4MzMyNGY5YzE1NGEyYzdiMWM4YzNkNTM5YjRjOWFkMWU4MDAwY2MmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.l0E-IRei9LKsoN8AkRMDzQdl2Z_udHmTBJC"></a>
+    </blockquote>
+    <blockquote>
+        💾 <a href="https://update.greasyfork.org/scripts/416688/%E5%AD%97%E4%BD%93%E6%B8%B2%E6%9F%93%EF%BC%88%E8%87%AA%E7%94%A8%E8%84%9A%E6%9C%AC%EF%BC%89.user.js">
+            Install</a> /
+        📖 <a href="https://github.com/F9y4ng/GreasyFork-Scripts/blob/master/README_EN.md#font-rendering-customized-font-renderinguserjs">
+            Readme</a> /
+        🐛 <a href="https://github.com/F9y4ng/GreasyFork-Scripts/issues">
             Report bug</a>
     </blockquote>
 </details>
@@ -1079,25 +1128,6 @@ Userscripts can be used w/ the following browsers:
             Report bug</a>
     </blockquote>
 </details>
-
-<details> <!-- Endless Google -->
-    <summary><a href="https://openuserjs.org/scripts/tumpio/Endless_Google">Endless Google</a> - Load more results automatically and endlessly.</summary><br>
-    <blockquote>
-        <a href="https://openuserjs.org/scripts/tumpio/Endless_Google">
-            <img width=600 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@00884ad/assets/images/screenshots/scripts/endless-google.png"></a>
-    </blockquote>
-    <blockquote>
-        💾 <a href="https://openuserjs.org/install/tumpio/Endless_Google.user.js">
-            Install</a> /
-        📖 <a href="https://openuserjs.org/scripts/tumpio/Endless_Google">
-            Readme</a> /
-        📢 <a href="https://github.com/tumpio/gmscripts/discussions">
-            Discuss</a> /
-        🐛 <a href="https://github.com/tumpio/gmscripts/issues">
-            Report bug</a>
-    </blockquote>
-</details>
-
 <details> <!-- GoogleGPT -->
     <summary><a href="https://www.googlegpt.io">GoogleGPT</a> - Adds AI chat & search summaries to Google Search, powered by the latest LLMs.</summary><br>
     <blockquote>
@@ -1194,25 +1224,6 @@ Userscripts can be used w/ the following browsers:
     </blockquote>
 </details>
 
-<details> <!-- Select text inside a link like Opera -->
-    <summary><a href="https://github.com/eight04/select-text-inside-a-link-like-opera">Select text inside a link like Opera</a> - Disable link dragging and select text.</summary><br>
-    <blockquote>
-        <a href="https://github.com/eight04/select-text-inside-a-link-like-opera">
-            <img width=511 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@00884ad/assets/images/screenshots/scripts/select-text-inside-a-link-like-opera.png"></a>
-    </blockquote>
-    <blockquote>
-        💾 <a href="https://update.greasyfork.org/scripts/789/Select%20text%20inside%20a%20link%20like%20Opera.user.js">
-            Install</a> /
-        📖 <a href="https://github.com/eight04/select-text-inside-a-link-like-opera/#readme">
-            Readme</a> /
-        📢 <a href="https://github.com/eight04/select-text-inside-a-link-like-opera/discussions">
-            Discuss</a> /
-        🐛 <a href="https://github.com/eight04/select-text-inside-a-link-like-opera/issues">
-            Report bug</a>
-    </blockquote>
-</details>
-
-
 ### <picture><source type="image/png" media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@f11c95f/assets/images/icons/symbols/play/white/icon32.png"><img height=17 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@f11c95f/assets/images/icons/symbols/play/black/icon32.png"></picture> Media
 
 <details> <!-- Double-click Image Downloader -->
@@ -1231,6 +1242,22 @@ Userscripts can be used w/ the following browsers:
         📢 <a href="https://greasyfork.org/scripts/469594-double-click-image-downloader/feedback">
             Discuss</a> /
         🐛 <a href="https://greasyfork.org/scripts/469594-double-click-image-downloader/feedback">
+            Report bug</a>
+    </blockquote>
+</details>
+
+<details> <!-- HTML5 Video Player Tools (h5player) -->
+    <summary><a href="https://github.com/xxxily/h5player">HTML5 Video Player Tools</a> - Variable speed playback, screenshot, video download, picture-in-picture, full-screen, and keyboard shortcuts for all HTML5 video sites (YouTube, Bilibili, TikTok, etc).</summary><br>
+    <blockquote>
+        <a href="https://github.com/xxxily/h5player">
+            <img width=511 src="https://h5player.anzz.top/assets/img/h5player_ui.jpg"></a>
+    </blockquote>
+    <blockquote>
+        💾 <a href="https://update.greasyfork.org/scripts/381682/%E9%9F%B3%E8%A7%86%E9%A2%91%E5%A2%9E%E5%BC%BA%E8%84%9A%E6%9C%AC%EF%BC%9A%E6%97%A0%E6%9E%81%E8%B0%83%E9%80%9F%7C%E5%80%8D%E9%80%9F%E5%BF%AB%E5%AD%A6%7C%E5%BF%AB%E4%B9%90%E5%88%B7%E5%89%A7%7C%E8%A7%86%E9%A2%91%E4%B8%8B%E8%BD%BD%7C%E7%94%BB%E9%9D%A2%E6%88%AA%E5%9B%BE%E7%AD%89%E3%80%8C%E9%80%82%E7%94%A8%E5%A4%A7%E9%83%A8%E5%88%86%E7%BD%91%E7%AB%99%E3%80%8D.user.js">
+            Install</a> /
+        📖 <a href="https://github.com/xxxily/h5player#readme">
+            Readme</a> /
+        🐛 <a href="https://github.com/xxxily/h5player/issues">
             Report bug</a>
     </blockquote>
 </details>
@@ -1291,44 +1318,7 @@ Userscripts can be used w/ the following browsers:
     </blockquote>
 </details>
 
-<details> <!-- Show and reload broken images -->
-    <summary><a href="https://greasyfork.org/scripts/790-show-and-reload-broken-images">Show and reload broken images</a> - Show and reload broken images, even when it contains "alt" tag.</summary><br>
-    <blockquote>
-        <a href="https://greasyfork.org/scripts/790-show-and-reload-broken-images">
-            <img width=411 src="https://i.imgur.com/EwrhEpi.png"></a>
-    </blockquote>
-    <blockquote>
-        💾 <a href="https://update.greasyfork.org/scripts/790/Show%20and%20reload%20broken%20images.user.js">
-            Install</a> /
-        📖 <a href="https://github.com/eight04/show-and-reload-broken-images/#readme">
-            Readme</a> /
-        📢 <a href="https://github.com/eight04/show-and-reload-broken-images/discussions">
-            Discuss</a> /
-        🐛 <a href="https://github.com/eight04/show-and-reload-broken-images/issues">
-            Report bug</a>
-    </blockquote>
-</details>
-
-
 ### <picture><source type="image/png" media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@f11c95f/assets/images/icons/symbols/nav/white/icon32.png"><img height=12 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@f11c95f/assets/images/icons/symbols/nav/black/icon32.png"></picture> Navigation
-
-<details> <!-- Endless Google -->
-    <summary><a href="https://openuserjs.org/scripts/tumpio/Endless_Google">Endless Google</a> - Load more results automatically and endlessly.</summary><br>
-    <blockquote>
-        <a href="https://openuserjs.org/scripts/tumpio/Endless_Google">
-            <img width=600 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@00884ad/assets/images/screenshots/scripts/endless-google.png"></a>
-    </blockquote>
-    <blockquote>
-        💾 <a href="https://openuserjs.org/install/tumpio/Endless_Google.user.js">
-            Install</a> /
-        📖 <a href="https://openuserjs.org/scripts/tumpio/Endless_Google">
-            Readme</a> /
-        📢 <a href="https://github.com/tumpio/gmscripts/discussions">
-            Discuss</a> /
-        🐛 <a href="https://github.com/tumpio/gmscripts/issues">
-            Report bug</a>
-    </blockquote>
-</details>
 
 <details> <!-- Pagetual -->
     <summary><a href="https://pagetual.hoothin.com">Pagetual</a> - Add seamless infinite scrolling to thousands of sites.</summary><br>
@@ -1697,6 +1687,7 @@ Userscripts can be used w/ the following browsers:
   - [Greasemonkey Hacks](https://www.oreilly.com/library/view/greasemonkey-hacks/0596101651/pr05s02.html) - Complete wiki book on Userscripts.
   - [Greasemonkey Tutorial for Beginners](http://hayageek.com/greasemonkey-tutorial/) - How to create simple Userscripts and installing it using Greasemonkey.
   - [Video - GreaseMonkey Userscript Development](https://www.youtube.com/watch?v=hAeWOOJPp0o)
+  - [vite-plugin-monkey ![GitHub Repo Stars](https://img.shields.io/github/stars/lisonge/vite-plugin-monkey) ![GitHub last commit](https://img.shields.io/github/last-commit/lisonge/vite-plugin-monkey)](https://github.com/lisonge/vite-plugin-monkey) - A Vite plugin to develop and build userscripts for Tampermonkey, Violentmonkey, Greasemonkey, and ScriptCat.
 
 <img height=6px width="100%" src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts/assets/images/separators/gradient-aqua.png">
 
