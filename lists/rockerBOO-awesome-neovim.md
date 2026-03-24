@@ -384,6 +384,7 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 - [tttol/md-outline.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/tttol/md-outline.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/tttol/md-outline.nvim)](https://github.com/tttol/md-outline.nvim) - Automatically displays an outline for Markdown files.
 - [rogue-87/inlyne.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/rogue-87/inlyne.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/rogue-87/inlyne.nvim)](https://github.com/rogue-87/inlyne.nvim) - Wrapper for [inlyne ![GitHub Repo Stars](https://img.shields.io/github/stars/Inlyne-Project/inlyne) ![GitHub last commit](https://img.shields.io/github/last-commit/Inlyne-Project/inlyne)](https://github.com/Inlyne-Project/inlyne) Markdown viewer.
 - [Prgebish/sigil.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/Prgebish/sigil.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/Prgebish/sigil.nvim)](https://github.com/Prgebish/sigil.nvim) - Implementation of Emacs' `prettify-symbols-mode` to visually replace text patterns with Unicode symbols while editing LaTeX and Typst files.
+- [satozawa/graft.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/username/graft.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/username/graft.nvim)](https://github.com/username/graft.nvim) - Tree-structured editing for Markdown bullet lists with subtree text objects, Alt+hjkl navigation, and structural operations.
 
 ### PHP
 
@@ -1306,6 +1307,7 @@ then it is not supported:
 - [3ZsForInsomnia/revman.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/3ZsForInsomnia/revman.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/3ZsForInsomnia/revman.nvim)](https://github.com/3ZsForInsomnia/revman.nvim) - Track PRs that need review automatically and open them in Octo.nvim.
 - [cd-4/git-needy.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/cd-4/git-needy.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/cd-4/git-needy.nvim)](https://github.com/cd-4/git-needy.nvim) - Keeps a tally of workflows that need to be reviewed in your statusbar.
 - [claydugo/browsher.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/claydugo/browsher.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/claydugo/browsher.nvim)](https://github.com/claydugo/browsher.nvim) - Create commit pinned links to GitHub hosted files/lines.
+- [gh-tui-tools/gh-review.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/gh-tui-tools/gh-review.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/gh-tui-tools/gh-review.nvim)](https://github.com/gh-tui-tools/gh-review.nvim) - Review GitHub PRs.
 
 ### GitLab
 

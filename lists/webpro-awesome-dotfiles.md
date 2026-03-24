@@ -112,6 +112,7 @@ scripts to manage dotfiles and plugins.
   data located in separate directories on the filesystem, and makes them appear to be installed in the same place.
 - [homeshick ![GitHub Repo Stars](https://img.shields.io/github/stars/andsens/homeshick) ![GitHub last commit](https://img.shields.io/github/last-commit/andsens/homeshick)](https://github.com/andsens/homeshick) - Git dotfile synchronizer written in Bash.
 - [mackup ![GitHub Repo Stars](https://img.shields.io/github/stars/lra/mackup) ![GitHub last commit](https://img.shields.io/github/last-commit/lra/mackup)](https://github.com/lra/mackup) - Keep your application settings in sync (macOS/Linux).
+- [OpenBoot ![GitHub Repo Stars](https://img.shields.io/github/stars/openbootdotdev/openboot) ![GitHub last commit](https://img.shields.io/github/last-commit/openbootdotdev/openboot)](https://github.com/openbootdotdev/openboot) - Mac dev environment manager that captures and restores Homebrew packages, dotfiles, shell configuration, and macOS preferences via interactive TUI.
 - [Pearl ![GitHub Repo Stars](https://img.shields.io/github/stars/pearl-core/pearl) ![GitHub last commit](https://img.shields.io/github/last-commit/pearl-core/pearl)](https://github.com/pearl-core/pearl) - Package manager that allows to control, sync, share dotfiles as
   packages automatically activated during shells or editors startup. There is a wide range of packages already
   available. in the [Official Pearl Hub](https://github.com/pearl-hub) (for Linux and OSX).
