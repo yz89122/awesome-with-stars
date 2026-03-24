@@ -2439,8 +2439,8 @@ _Libraries and tools for stream processing and reactive programming._
 
 _Libraries and tools for templating and lexing._
 
+- [bagme ![GitHub Repo Stars](https://img.shields.io/github/stars/boxesandglue/bagme) ![GitHub last commit](https://img.shields.io/github/last-commit/boxesandglue/bagme)](https://github.com/boxesandglue/bagme) - HTML/CSS to PDF rendering with TeX-quality typesetting in pure Go.
 - [ego ![GitHub Repo Stars](https://img.shields.io/github/stars/benbjohnson/ego) ![GitHub last commit](https://img.shields.io/github/last-commit/benbjohnson/ego)](https://github.com/benbjohnson/ego) - Lightweight templating language that lets you write templates in Go. Templates are translated into Go and compiled.
-- [extemplate](https://git.sr.ht/~dvko/extemplate) - Tiny wrapper around html/template to allow for easy file-based template inheritance.
 - [fasttemplate ![GitHub Repo Stars](https://img.shields.io/github/stars/valyala/fasttemplate) ![GitHub last commit](https://img.shields.io/github/last-commit/valyala/fasttemplate)](https://github.com/valyala/fasttemplate) - Simple and fast template engine. Substitutes template placeholders up to 10x faster than [text/template](https://golang.org/pkg/text/template/).
 - [gomponents](https://www.gomponents.com) - HTML 5 components in pure Go, that look something like this: `func(name string) g.Node { return Div(Class("headline"), g.Textf("Hi %v!", name)) }`.
 - [got ![GitHub Repo Stars](https://img.shields.io/github/stars/goradd/got) ![GitHub last commit](https://img.shields.io/github/last-commit/goradd/got)](https://github.com/goradd/got) - A Go code generator inspired by Hero and Fasttemplate. Has include files, custom tag definitions, injected Go code, language translation, and more.
