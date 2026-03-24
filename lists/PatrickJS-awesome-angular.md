@@ -625,9 +625,10 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 
 * [Official AI docs](https://angular.dev/ai)
 * [Official Angular CLI MCP Server Setup](https://angular.dev/ai/mcp)
+* [Official Angular Examples Repo ![GitHub Repo Stars](https://img.shields.io/github/stars/angular/examples) ![GitHub last commit](https://img.shields.io/github/last-commit/angular/examples)](https://github.com/angular/examples) - Angular Examples using [GenKit](https://firebase.google.com/docs/genkit) and [Vertex AI](https://cloud.google.com/vertex-ai).
+* [Official Angular Skills ![GitHub Repo Stars](https://img.shields.io/github/stars/angular/skills) ![GitHub last commit](https://img.shields.io/github/last-commit/angular/skills)](https://github.com/angular/skills)
 * [Official llms.txt file](https://angular.dev/llms.txt)
 * [Official llms-full.txt file](https://angular.dev/assets/context/llms-full.txt)
-* [Official Angular Examples Repo ![GitHub Repo Stars](https://img.shields.io/github/stars/angular/examples) ![GitHub last commit](https://img.shields.io/github/last-commit/angular/examples)](https://github.com/angular/examples) - Angular Examples using [GenKit](https://firebase.google.com/docs/genkit) and [Vertex AI](https://cloud.google.com/vertex-ai).
 * [abbi-ng-ai-image-descriptor ![GitHub Repo Stars](https://img.shields.io/github/stars/slsfi/abbi-ng-ai-image-descriptor) ![GitHub last commit](https://img.shields.io/github/last-commit/slsfi/abbi-ng-ai-image-descriptor)](https://github.com/slsfi/abbi-ng-ai-image-descriptor) - Angular web app for AI-generated image descriptions. You need an OpenAI API key to use the tool.
 * [AGENT.md](https://ampcode.com/AGENT.md#tool-integration) - The universal agent configuration file.
 * [agentbridge ![GitHub Repo Stars](https://img.shields.io/github/stars/ayoubachak/agentbridge) ![GitHub last commit](https://img.shields.io/github/last-commit/ayoubachak/agentbridge)](https://github.com/ayoubachak/agentbridge) - A framework that standardizes how AI agents discover, interact with, and control application components.
