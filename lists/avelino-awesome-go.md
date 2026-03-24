@@ -1106,6 +1106,7 @@ _Embedding other languages inside your go code._
 - [gentee ![GitHub Repo Stars](https://img.shields.io/github/stars/gentee/gentee) ![GitHub last commit](https://img.shields.io/github/last-commit/gentee/gentee)](https://github.com/gentee/gentee) - Embeddable scripting programming language.
 - [gisp ![GitHub Repo Stars](https://img.shields.io/github/stars/jcla1/gisp) ![GitHub last commit](https://img.shields.io/github/last-commit/jcla1/gisp)](https://github.com/jcla1/gisp) - Simple LISP in Go.
 - [go-lua ![GitHub Repo Stars](https://img.shields.io/github/stars/Shopify/go-lua) ![GitHub last commit](https://img.shields.io/github/last-commit/Shopify/go-lua)](https://github.com/Shopify/go-lua) - Port of the Lua 5.2 VM to pure Go.
+- [go-lua ![GitHub Repo Stars](https://img.shields.io/github/stars/speedata/go-lua) ![GitHub last commit](https://img.shields.io/github/last-commit/speedata/go-lua)](https://github.com/speedata/go-lua) - Lua 5.4 VM implemented in pure Go.
 - [go-php ![GitHub Repo Stars](https://img.shields.io/github/stars/deuill/go-php) ![GitHub last commit](https://img.shields.io/github/last-commit/deuill/go-php)](https://github.com/deuill/go-php) - PHP bindings for Go.
 - [goal](https://codeberg.org/anaseto/goal) - An embeddable scripting array language.
 - [goja ![GitHub Repo Stars](https://img.shields.io/github/stars/dop251/goja) ![GitHub last commit](https://img.shields.io/github/last-commit/dop251/goja)](https://github.com/dop251/goja) - ECMAScript 5.1(+) implementation in Go.
