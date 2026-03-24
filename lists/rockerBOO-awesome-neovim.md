@@ -350,6 +350,7 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 - [rodrigoscc/nurl.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/rodrigoscc/nurl.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/rodrigoscc/nurl.nvim)](https://github.com/rodrigoscc/nurl.nvim) - HTTP client with requests defined in pure Lua.
 - [cjodo/convert.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/cjodo/convert.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/cjodo/convert.nvim)](https://github.com/cjodo/convert.nvim) - Helps with CSS unit conversions.
 - [tednguyendev/recent_rails.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/tednguyendev/recent_rails.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/tednguyendev/recent_rails.nvim)](https://github.com/tednguyendev/recent_rails.nvim) - Telescope picker for recent Rails actions, views, and errors.
+- [ankushbhagats/liveserver.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/ankushbhagats/liveserver.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/ankushbhagats/liveserver.nvim)](https://github.com/ankushbhagats/liveserver.nvim) - Live-server integration with smart commands and a clickable lualine toggle.
 
 ### Markdown and LaTeX
 
@@ -384,7 +385,7 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 - [tttol/md-outline.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/tttol/md-outline.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/tttol/md-outline.nvim)](https://github.com/tttol/md-outline.nvim) - Automatically displays an outline for Markdown files.
 - [rogue-87/inlyne.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/rogue-87/inlyne.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/rogue-87/inlyne.nvim)](https://github.com/rogue-87/inlyne.nvim) - Wrapper for [inlyne ![GitHub Repo Stars](https://img.shields.io/github/stars/Inlyne-Project/inlyne) ![GitHub last commit](https://img.shields.io/github/last-commit/Inlyne-Project/inlyne)](https://github.com/Inlyne-Project/inlyne) Markdown viewer.
 - [Prgebish/sigil.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/Prgebish/sigil.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/Prgebish/sigil.nvim)](https://github.com/Prgebish/sigil.nvim) - Implementation of Emacs' `prettify-symbols-mode` to visually replace text patterns with Unicode symbols while editing LaTeX and Typst files.
-- [satozawa/graft.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/username/graft.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/username/graft.nvim)](https://github.com/username/graft.nvim) - Tree-structured editing for Markdown bullet lists with subtree text objects, Alt+hjkl navigation, and structural operations.
+- [satozawa/graft.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/satozawa/graft.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/satozawa/graft.nvim)](https://github.com/satozawa/graft.nvim) - Tree-structured editing for Markdown bullet lists with subtree text objects, Alt+hjkl navigation, and structural operations.
 
 ### PHP
 
@@ -797,6 +798,7 @@ then it is not supported:
 - [lalitmee/cobalt2.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/lalitmee/cobalt2.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/lalitmee/cobalt2.nvim)](https://github.com/lalitmee/cobalt2.nvim) - **_`[Lua]`_** A port of cobalt2 colorscheme using colorbuddy.
 - [dybdeskarphet/gruvbox-minimal.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/dybdeskarphet/gruvbox-minimal.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/dybdeskarphet/gruvbox-minimal.nvim)](https://github.com/dybdeskarphet/gruvbox-minimal.nvim) - **_`[TS][L/D][Lua]`_** A Gruvbox Material theme conceptually inspired by Alabaster.
 - [taigrr/cyberpunk.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/taigrr/cyberpunk.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/taigrr/cyberpunk.nvim)](https://github.com/taigrr/cyberpunk.nvim) - **_`[TS][LSP][Lua]`_** Dark neon colorscheme with green, cyan, yellow, and red highlights on a black background.
+- [ankushbhagats/pastel.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/ankushbhagats/pastel.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/ankushbhagats/pastel.nvim)](https://github.com/ankushbhagats/pastel.nvim) - **_`[TS][LSP][L/D][Lua]`_** Elegant pastel colorschemes with advanced customization, styles, and integrations.
 <!--lint disable double-link -->
 [**⬆ back to top**](#contents)
 <!--lint enable double-link -->
