@@ -116,6 +116,7 @@ More information in CLAUDE.md and llms.txt.
 * [MusicBrainz Picard](https://picard.musicbrainz.org/) - Identifies and tags music files. [![Open-Source Software][oss]](https://github.com/metabrainz/picard)
 * [musikcube](https://musikcube.com/) - Plays music through terminal. [![Open-Source Software][oss]](https://github.com/clangen/musikcube)
 * [Nora](https://noramusic.netlify.app/) - Plays and manages music. [![Open-Source Software][oss]](https://github.com/Sandakan/Nora)
+* [Tenacity](https://tenacityaudio.org/) - A variant of Audacity without telemetry. [![Open-Source Software][oss]](https://codeberg.org/tenacityteam/tenacity)
 
 ## Backup
 
@@ -136,6 +137,7 @@ More information in CLAUDE.md and llms.txt.
 ## Cloud Storage
 
 * [Dropbox](https://www.dropbox.com/) - Syncs files across devices with version history.
+* [Filen](https://filen.io/) - Provides zero-knowledge, client side-encrypted cloud storage.
 * [Google Drive](https://www.google.com/drive//) - Enables real-time collaboration on Google Docs, Sheets and Slides.
 * [Mega](https://mega.nz/) - Encrypts files before they leave your device.
 * [Nextcloud](https://nextcloud.com/) - Lets you host your own cloud storage and communication server. [![Open-Source Software][oss]](https://github.com/nextcloud)
@@ -257,6 +259,7 @@ More information in CLAUDE.md and llms.txt.
 * [Godot Engine](https://godotengine.org/) - Free and open source game engine with beginner-friendly workflow. [![Open-Source Software][oss]](https://github.com/godotengine/godot)
 * [GOG](https://www.gog.com/) - DRM-free game store featuring classic and modern titles.
 * [Hydra Launcher](https://hydralauncher.gg/) - A game launcher that allows you to download, play, track your stats and manage your games all in one place. [![Open-Source Software][oss]](https://github.com/hydralauncher/hydra)
+* [Heroic Games Launcher](https://heroicgameslauncher.com/) - A game launcher with support for GOG, Epic Games and Amazon games. [![Open-Source Software][oss]](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher)
 * [Itch.io](https://itch.io/app/) - Platform for discovering and distributing indie games. [![Open-Source Software][oss]](https://github.com/itchio/itch)
 * [LuaStudio](https://scormpool.com/luastudio) - Free game development tool using Lua/LuaJIT with multi-platform export capabilities.
 * [Origin](https://www.origin.com/en-in/store/) - EA's digital game distribution platform.
@@ -337,6 +340,7 @@ More information in CLAUDE.md and llms.txt.
 
 * [1Password](https://1password.com/) - Premium password manager with secure vault and team features. ![paid]
 * [Bitwarden](https://bitwarden.com/) - Open-source password manager with encrypted vault. [![Open-Source Software][oss]](https://github.com/bitwarden) 
+* [KeePassXC](https://keepassxc.org/) = Local open-source KeePass client. [![Open-Source Software][oss]](https://github.com/keepassxreboot/keepassxc)
 * [Padloc](https://padloc.app/) - End-to-end encrypted password manager. [![Open-Source Software][oss]](https://github.com/padloc/padloc)
 * [Proton Pass](https://proton.me/pass) - Zero-knowledge encrypted password manager. ![star]
 * [Vaultwarden ![GitHub Repo Stars](https://img.shields.io/github/stars/dani-garcia/vaultwarden) ![GitHub last commit](https://img.shields.io/github/last-commit/dani-garcia/vaultwarden)](https://github.com/dani-garcia/vaultwarden) - Lightweight Bitwarden server implementation. [![Open-Source Software][oss]](https://github.com/dani-garcia/vaultwarden) 
@@ -372,6 +376,7 @@ every 20 minutes, look at something 20 feet (~6 meters) away for at least 20 sec
 
 * [Algo ![GitHub Repo Stars](https://img.shields.io/github/stars/trailofbits/algo) ![GitHub last commit](https://img.shields.io/github/last-commit/trailofbits/algo)](https://github.com/trailofbits/algo) - Personal IPSEC VPN in the cloud.
 * [Cloudflare WARP](https://1.1.1.1) - Fast, free VPN and DNS.
+* [Mullvad VPN](https://mullvad.net) - No-logs Sweden VPN service.
 * [ProtonVPN](https://protonvpn.com/) - High-speed Swiss VPN that safeguards your privacy. ![star]
 * [Tailscale](https://tailscale.com/) - Zero config VPN for building secure networks. ![star]
 * [Twingate](https://www.twingate.com/) - Modern zero trust network access solution.
@@ -509,6 +514,7 @@ every 20 minutes, look at something 20 feet (~6 meters) away for at least 20 sec
 * [mpv](https://mpv.io/) - Script-based media player with extensive keyboard controls. [![Open-Source Software][oss]](https://github.com/mpv-player/mpv) ![star]
 * [Olive Video Editor](https://www.olivevideoeditor.org/) - Node-based video editor with real-time effects. [![Open-Source Software][oss]](https://github.com/olive-editor/olive)
 * [PotPlayer](https://potplayer.daum.net/) - Media player with hardware acceleration and streaming capabilities.
+* [Screenbox ![GitHub Repo Stars](https://img.shields.io/github/stars/huynhsontung/Screenbox) ![GitHub last commit](https://img.shields.io/github/last-commit/huynhsontung/Screenbox)](https://github.com/huynhsontung/Screenbox) - Windows-optimized media player based on LibVLC. [![Open-Source Software][oss]](https://github.com/huynhsontung/Screenbox)
 * [ScreenToGif](https://www.screentogif.com/) - Records screen areas and saves as GIF or video. [![Open-Source Software][oss]](https://github.com/NickeManarin/ScreenToGif/)
 * [Shotcut](https://www.shotcut.org/download/) - Video editor with native timeline filtering. [![Open-Source Software][oss]](https://github.com/mltframework/shotcut)
 * [Shutter Encoder](https://www.shutterencoder.com/) - Converts between hundreds of media formats with processing options.
