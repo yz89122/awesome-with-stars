@@ -127,6 +127,7 @@ scripts to manage dotfiles and plugins.
   directories.
 - [yadm ![GitHub Repo Stars](https://img.shields.io/github/stars/TheLocehiliosan/yadm) ![GitHub last commit](https://img.shields.io/github/last-commit/TheLocehiliosan/yadm)](https://github.com/TheLocehiliosan/yadm) - Tool for managing a collection of files across multiple computers,
   using a shared Git repository and some additional features.
+- [dots ![GitHub Repo Stars](https://img.shields.io/github/stars/ulises-jeremias/dotfiles) ![GitHub last commit](https://img.shields.io/github/last-commit/ulises-jeremias/dotfiles)](https://github.com/ulises-jeremias/dotfiles) - Opinionated dotfiles generator that allows quick configuration of different window managers in multiple OSs!
 
 ### macOS
 
