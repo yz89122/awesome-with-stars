@@ -54,6 +54,10 @@ With the power of the latest artificial intelligence research, people analyze & 
 - [ChatGPT Strategy by OctoBot](https://blog.octobot.online/trading-using-chat-gpt) - Use ChatGPT to determine which cryptocurrency to trade based on technical indicators.
 - [LLMs Meet Finance](https://arxiv.org/abs/2504.13125) - A three-stage fine-tuning pipeline (SFT → DPO → synthetic-data RL) that adapts Qwen2.5 and DeepSeek-R1 to financial tasks on the Open FinLLM Leaderboard, with findings on cross-task transfer and data scaling laws in finance.
 
+## Skills
+
+- [XVARY Stock Research ![GitHub Repo Stars](https://img.shields.io/github/stars/xvary-research/claude-code-stock-analysis-skill) ![GitHub last commit](https://img.shields.io/github/last-commit/xvary-research/claude-code-stock-analysis-skill)](https://github.com/xvary-research/claude-code-stock-analysis-skill) — Claude Code skill for public SEC EDGAR + market data: `/analyze`, `/score`, `/compare`. MIT.
+
 ## Papers
 
 - [The Theory of Speculation L. Bachelier, 1900](http://www.radio.goldseek.com/bachelier-thesis-theory-of-speculation-en.pdf) - The influences which determine the movements of the Stock Exchange are.
@@ -299,6 +303,7 @@ Do it in real world!
 - [Floom ![GitHub Repo Stars](https://img.shields.io/github/stars/FloomAI/Floom) ![GitHub last commit](https://img.shields.io/github/last-commit/FloomAI/Floom)](https://github.com/FloomAI/Floom) AI gateway and marketplace for developers, enables streamlined integration and least volatile approach of AI features into products
 - [LendTrain](https://www.lendtrain.com) - AI-native mortgage refinance plugin for Claude Code with real-time institutional pricing, state-specific closing costs, FHA Streamline/VA IRRRL detection, and regulatory compliance. Uses MCP (Model Context Protocol) to connect LLMs to live mortgage pricing.
 - [Registry Broker ![GitHub Repo Stars](https://img.shields.io/github/stars/hashgraph-online/hashnet-mcp-js) ![GitHub last commit](https://img.shields.io/github/last-commit/hashgraph-online/hashnet-mcp-js)](https://github.com/hashgraph-online/hashnet-mcp-js) - Universal AI agent index for discovering trading agents across Virtuals Protocol, NANDA, MCP, and other registries.
+- [KeepRule](https://keeprule.com) - AI-powered investment discipline tracking platform with curated principles from 26 legendary investors including Buffett, Munger, and Dalio. Helps traders maintain rational decision-making.
 - [Philidor](https://docs.philidor.io/docs) - DeFi risk infrastructure for AI agents: MCP server and REST API for vault risk scores, portfolio analysis, and due diligence. No API key. 700+ vaults, 9 protocols, 6 chains.
 
 #### Other Resource
@@ -310,3 +315,4 @@ Do it in real world!
 - [FinancePy ![GitHub Repo Stars](https://img.shields.io/github/stars/domokane/FinancePy) ![GitHub last commit](https://img.shields.io/github/last-commit/domokane/FinancePy)](https://github.com/domokane/FinancePy) - A Python Finance Library that focuses on the pricing and risk-management of Financial Derivatives, including fixed-income, equity, FX and credit derivatives.
 - [Explore Finance Service Libraries & Projects](https://kandi.openweaver.com/explore/financial-services#Top-Authors) - Explore a curated list of Fintech popular & new libraries, top authors, trending project kits, discussions, tutorials & learning resources on kandi.
 - [AgentMarket](https://agentmarket.cloud) - B2A marketplace for AI agents. 189 listings, 28M+ real energy data records, LangChain/MCP integration.
+
