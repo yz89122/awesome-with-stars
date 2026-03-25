@@ -50,7 +50,7 @@
 **Legend**: 💙 Official resource
 
 - 💙 [Intellisense for Code](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss) - Provides IntelliSense in Visual Studio Code.
-- [LSP support for Emacs ![GitHub Repo Stars](https://img.shields.io/github/stars/merrickluo/lsp-tailwindcss) ![GitHub last commit](https://img.shields.io/github/last-commit/merrickluo/lsp-tailwindcss)](https://github.com/merrickluo/lsp-tailwindcss) - LSP support for Emacs.
+- [LSP support for Emacs ![GitHub Repo Stars](https://img.shields.io/github/stars/merrickluo/lsp-tailwindcss) ![GitHub last commit](https://img.shields.io/github/last-commit/merrickluo/lsp-tailwindcss)](https://github.com/merrickluo/lsp-tailwindcss) - Provides IntelliSense in Emacs.
 - [Editor support for VS2022 ![GitHub Repo Stars](https://img.shields.io/github/stars/theron-wang/VS2022-Editor-Support-for-Tailwind-CSS) ![GitHub last commit](https://img.shields.io/github/last-commit/theron-wang/VS2022-Editor-Support-for-Tailwind-CSS)](https://github.com/theron-wang/VS2022-Editor-Support-for-Tailwind-CSS) - IntelliSense, linting, sorting, and more in Visual Studio 2022.
 
 ## Tools
@@ -58,7 +58,7 @@
 **Legend**: 🌍 Accessible online · 🌐 Browser extension · 🔼 Conversion or upgrade tool · 🔧 Generator · 🅰 Typing/enforcement · 💼 Plugins/Tools/Extensions for external services · 🎨 Color-related · 🚀 Framework
 
 - 💙💼 [Prettier plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/tailwindlabs/prettier-plugin-tailwindcss) ![GitHub last commit](https://img.shields.io/github/last-commit/tailwindlabs/prettier-plugin-tailwindcss)](https://github.com/tailwindlabs/prettier-plugin-tailwindcss) - Official Tailwind CSS plugin for Prettier.
-- 🎨🌍🔧 [UI colors](https://uicolors.app/create) - Color palette generator for Tailwind CSS.
+- 🎨��🔧 [UI colors](https://uicolors.app/create) - Color palette generator for Tailwind CSS.
 - 🎨🌍🔧 [Tailwind Color Shades](https://javisperez.github.io/tailwindcolorshades) - Color shades generator for Tailwind CSS.
 - 🎨🌍🔧 [TailwindInk](https://tailwind.ink/) - AI palette generator, trained with the Tailwind CSS palette.
 - 🎨🌍🔧 [Hypercolor](https://hypercolor.dev/) - Collection of Tailwind CSS gradients with directional options.
@@ -69,11 +69,11 @@
 - 🔼 [RustyWind ![GitHub Repo Stars](https://img.shields.io/github/stars/avencera/rustywind) ![GitHub last commit](https://img.shields.io/github/last-commit/avencera/rustywind)](https://github.com/avencera/rustywind) - CLI tool for sorting Tailwind CSS classes.
 - 🔼 [Tailwind to Inline styles converter ![GitHub Repo Stars](https://img.shields.io/github/stars/vardan-arm/tailwind-to-inline) ![GitHub last commit](https://img.shields.io/github/last-commit/vardan-arm/tailwind-to-inline)](https://github.com/vardan-arm/tailwind-to-inline) - Converts Tailwind CSS classes to inline styles in email templates.
 - 🚀 [Maizzle](https://maizzle.com/) - Framework for rapid email prototyping with Tailwind CSS.
-- 💼 [@nuxtjs/tailwindcss ![GitHub Repo Stars](https://img.shields.io/github/stars/nuxt-community/tailwindcss-module) ![GitHub last commit](https://img.shields.io/github/last-commit/nuxt-community/tailwindcss-module)](https://github.com/nuxt-community/tailwindcss-module) - Tailwind CSS module for NuxtJS with PurgeCSS and modern CSS (preset env 1).
+- 💼 [`@nuxtjs/tailwindcss` ![GitHub Repo Stars](https://img.shields.io/github/stars/nuxt-community/tailwindcss-module) ![GitHub last commit](https://img.shields.io/github/last-commit/nuxt-community/tailwindcss-module)](https://github.com/nuxt-community/tailwindcss-module) - Tailwind CSS module for Nuxt.js with PurgeCSS and modern CSS (preset env 1).
 - 💼 [tailwindcss-rails ![GitHub Repo Stars](https://img.shields.io/github/stars/rails/tailwindcss-rails) ![GitHub last commit](https://img.shields.io/github/last-commit/rails/tailwindcss-rails)](https://github.com/rails/tailwindcss-rails) - Gem for using Tailwind CSS with Rails' asset pipeline.
 - 💼 [Config viewer ![GitHub Repo Stars](https://img.shields.io/github/stars/rogden/tailwind-config-viewer) ![GitHub last commit](https://img.shields.io/github/last-commit/rogden/tailwind-config-viewer)](https://github.com/rogden/tailwind-config-viewer) - Local UI tool for visualizing your Tailwind CSS configuration file.
 - 💼 [Raycast extension](https://www.raycast.com/vimtor/tailwindcss) - Search classes, documentation and colors in Raycast Launcher.
-- 💼 [NativeWind](https://www.nativewind.dev) - NativeWind uses Tailwind CSS as scripting language to create a universal style system for React Native.
+- 💼 [NativeWind](https://www.nativewind.dev) - Uses Tailwind CSS as scripting language to create a universal style system for React Native.
 - 🌐 [Gimli Tailwind](https://chromewebstore.google.com/detail/gimli-tailwind/fojckembkmaoehhmkiomebhkcengcljl) - Smart tools for Tailwind CSS as a browser extension.
 - 🌐 [CSS Variables Editor](https://www.cssvariables.com) - AI-powered Chrome extension for managing colors in daisyUI and shadcn/ui.
 - 🌐 [DivMagic](https://divmagic.com) - Copy any web element and style as Tailwind CSS component.
