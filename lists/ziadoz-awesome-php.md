@@ -160,6 +160,7 @@ Please see [CONTRIBUTING ![GitHub Repo Stars](https://img.shields.io/github/star
 * [Moodle](https://moodle.org/) - An open-source learning platform.
 * [OpenMage ![GitHub Repo Stars](https://img.shields.io/github/stars/OpenMage/magento-lts) ![GitHub last commit](https://img.shields.io/github/last-commit/OpenMage/magento-lts)](https://github.com/OpenMage/magento-lts) - Fork of EoL Magento 1 e-commerce platform.
 * [Pico CMS](https://picocms.org/) - A stupidly simple, blazing fast, flat file CMS.
+* [Silverstripe](https://silverstripe.org) - A simple, flexible, and secure CMS. 
 * [Statamic](https://statamic.com/) - Build beautiful, easy-to-manage websites.
 * [Sulu](https://sulu.io/) - A user and developer friendly focused CMS and Platform based on the Symfony Framework.
 * [TYPO3](https://typo3.org) - An enterprise level CMS.
@@ -263,6 +264,7 @@ Please see [CONTRIBUTING ![GitHub Repo Stars](https://img.shields.io/github/star
 *Libraries for sending and parsing email.*
 
 * [CssToInlineStyles ![GitHub Repo Stars](https://img.shields.io/github/stars/tijsverkoyen/CssToInlineStyles) ![GitHub last commit](https://img.shields.io/github/last-commit/tijsverkoyen/CssToInlineStyles)](https://github.com/tijsverkoyen/CssToInlineStyles) - A library to inline CSS in email templates.
+* [ddeboer/imap ![GitHub Repo Stars](https://img.shields.io/github/stars/ddeboer/imap) ![GitHub last commit](https://img.shields.io/github/last-commit/ddeboer/imap)](https://github.com/ddeboer/imap) - Object-oriented, fully tested PHP IMAP library.
 * [Email Reply Parser ![GitHub Repo Stars](https://img.shields.io/github/stars/willdurand/EmailReplyParser) ![GitHub last commit](https://img.shields.io/github/last-commit/willdurand/EmailReplyParser)](https://github.com/willdurand/EmailReplyParser) - An email reply parser library.
 * [Email Validator ![GitHub Repo Stars](https://img.shields.io/github/stars/nojacko/email-validator) ![GitHub last commit](https://img.shields.io/github/last-commit/nojacko/email-validator)](https://github.com/nojacko/email-validator) - A small email address validation library.
 * [Fetch ![GitHub Repo Stars](https://img.shields.io/github/stars/tedious/Fetch) ![GitHub last commit](https://img.shields.io/github/last-commit/tedious/Fetch)](https://github.com/tedious/Fetch) - An IMAP library.
