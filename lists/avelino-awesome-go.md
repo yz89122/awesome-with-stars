@@ -2569,6 +2569,7 @@ _Libraries for testing codebases and generating test data._
 
 ### Selenium and browser control tools
 
+- [bonk ![GitHub Repo Stars](https://img.shields.io/github/stars/joakimcarlsson/bonk) ![GitHub last commit](https://img.shields.io/github/last-commit/joakimcarlsson/bonk)](https://github.com/joakimcarlsson/bonk) - Fast, stealth-first browser automation library using Chrome DevTools Protocol over WebSocket with no external dependencies.
 - [cdp ![GitHub Repo Stars](https://img.shields.io/github/stars/mafredri/cdp) ![GitHub last commit](https://img.shields.io/github/last-commit/mafredri/cdp)](https://github.com/mafredri/cdp) - Type-safe bindings for the Chrome Debugging Protocol that can be used with browsers or other debug targets that implement it.
 - [chromedp ![GitHub Repo Stars](https://img.shields.io/github/stars/knq/chromedp) ![GitHub last commit](https://img.shields.io/github/last-commit/knq/chromedp)](https://github.com/knq/chromedp) - a way to drive/test Chrome, Safari, Edge, Android Webviews, and other browsers supporting the Chrome Debugging Protocol.
 - [playwright-go ![GitHub Repo Stars](https://img.shields.io/github/stars/mxschmitt/playwright-go) ![GitHub last commit](https://img.shields.io/github/last-commit/mxschmitt/playwright-go)](https://github.com/mxschmitt/playwright-go) - browser automation library to control Chromium, Firefox and WebKit with a single API.
