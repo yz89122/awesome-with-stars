@@ -231,7 +231,7 @@ _Info on topics necessary for designing and developing game engines._
     - 📚 [Art of Game Design](https://www.amazon.com/Art-Game-Design-Book-Lenses/dp/0123694965) - Teaches game design in an accessible manner.
     - 📚 [Game Programming Patterns](https://gameprogrammingpatterns.com) - Patterns found in games that make code easier to understand.
 - Developer Portals
-    - ��� [Game Developer](https://www.gamedeveloper.com) - Industry blogs, events, jobs, updates and more. Formerly _Gamasutra_.
+    - 🌎 [Game Developer](https://www.gamedeveloper.com) - Industry blogs, events, jobs, updates and more. Formerly _Gamasutra_.
     - 🌎 [GameDev.net](https://www.gamedev.net/) - Game dev forums, tutorials, blogs, projects, portfolios, and news.
     - 🌎 [GameFromScratch.com](https://gamefromscratch.com) - Game dev news, tutorials and much more.
     - 🌎 [itch.io](https://itch.io) - Game dev resources and platform to showcase / promote / buy & sell games.
@@ -388,7 +388,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Entt ![GitHub Repo Stars](https://img.shields.io/github/stars/skypjack/entt) ![GitHub last commit](https://img.shields.io/github/last-commit/skypjack/entt)](https://github.com/skypjack/entt) - Gaming meets modern C++, a fast and reliable entity component system.
 - C++: Fonts
     - 🎉 [HarfBuzz ![GitHub Repo Stars](https://img.shields.io/github/stars/harfbuzz/harfbuzz) ![GitHub last commit](https://img.shields.io/github/last-commit/harfbuzz/harfbuzz)](https://github.com/harfbuzz/harfbuzz) - Text shaping library. Formatted and positioned glyph output.
-    - ���� [msdfgen ![GitHub Repo Stars](https://img.shields.io/github/stars/Chlumsky/msdfgen) ![GitHub last commit](https://img.shields.io/github/last-commit/Chlumsky/msdfgen)](https://github.com/Chlumsky/msdfgen) - Multi-channel signed distance field generator.
+    - 🎉 [msdfgen ![GitHub Repo Stars](https://img.shields.io/github/stars/Chlumsky/msdfgen) ![GitHub last commit](https://img.shields.io/github/last-commit/Chlumsky/msdfgen)](https://github.com/Chlumsky/msdfgen) - Multi-channel signed distance field generator.
     - 💰 [Slug](http://sluglibrary.com) - High-quality, resolution-independent text and vector graphics for 3D apps.
 - C++: File Formats
     - ⭐ [Jpeg-Compressor ![GitHub Repo Stars](https://img.shields.io/github/stars/richgel999/jpeg-compressor) ![GitHub last commit](https://img.shields.io/github/last-commit/richgel999/jpeg-compressor)](https://github.com/richgel999/jpeg-compressor) - Single-file library that writes baseline JPEG compressed images.
