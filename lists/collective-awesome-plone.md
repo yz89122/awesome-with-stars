@@ -169,6 +169,7 @@ _Add-ons for search engine optimization._
 * [bda.plone.gtm ![GitHub Repo Stars](https://img.shields.io/github/stars/bluedynamics/bda.plone.gtm) ![GitHub last commit](https://img.shields.io/github/last-commit/bluedynamics/bda.plone.gtm)](https://github.com/bluedynamics/bda.plone.gtm) - Google Tag Manager Integration.
 * [collective.behavior.seo ![GitHub Repo Stars](https://img.shields.io/github/stars/collective/collective.behavior.seo) ![GitHub last commit](https://img.shields.io/github/last-commit/collective/collective.behavior.seo)](https://github.com/collective/collective.behavior.seo) - Adds extra fields used for SEO optimisation.
 * [collective.splitsitemap ![GitHub Repo Stars](https://img.shields.io/github/stars/collective/collective.splitsitemap) ![GitHub last commit](https://img.shields.io/github/last-commit/collective/collective.splitsitemap)](https://github.com/collective/collective.splitsitemap) - Provides a cached split sitemap on big public sites.
+* [kitconcept.seo ![GitHub Repo Stars](https://img.shields.io/github/stars/kitconcept/kitconcept.seo) ![GitHub last commit](https://img.shields.io/github/last-commit/kitconcept/kitconcept.seo)](https://github.com/kitconcept/kitconcept.seo) - Adds extra fields used for SEO optimisation for sites using Volto.
 
 ## Authentication
 
