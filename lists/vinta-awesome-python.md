@@ -144,6 +144,7 @@ _Libraries for building AI applications, LLM integrations, and autonomous agents
 - Pre-trained Models and Inference
   - [diffusers ![GitHub Repo Stars](https://img.shields.io/github/stars/huggingface/diffusers) ![GitHub last commit](https://img.shields.io/github/last-commit/huggingface/diffusers)](https://github.com/huggingface/diffusers) - A library that provides pre-trained diffusion models for generating and editing images, audio, and video.
   - [transformers ![GitHub Repo Stars](https://img.shields.io/github/stars/huggingface/transformers) ![GitHub last commit](https://img.shields.io/github/last-commit/huggingface/transformers)](https://github.com/huggingface/transformers) - A framework that lets you easily use pre-trained transformer models for NLP, vision, and audio tasks.
+  - [unsloth ![GitHub Repo Stars](https://img.shields.io/github/stars/unslothai/unsloth) ![GitHub last commit](https://img.shields.io/github/last-commit/unslothai/unsloth)](https://github.com/unslothai/unsloth) - A library for faster LLM fine-tuning and training with reduced memory usage.
   - [vllm ![GitHub Repo Stars](https://img.shields.io/github/stars/vllm-project/vllm) ![GitHub last commit](https://img.shields.io/github/last-commit/vllm-project/vllm)](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs.
 
 ## Deep Learning
@@ -730,6 +731,7 @@ _Libraries for scheduling jobs._
 
 _Libraries for generating and working with logs._
 
+- [logfmter ![GitHub Repo Stars](https://img.shields.io/github/stars/josheppinette/python-logfmter) ![GitHub last commit](https://img.shields.io/github/last-commit/josheppinette/python-logfmter)](https://github.com/josheppinette/python-logfmter) - A standard library compatible logfmt formatter.
 - [logging](https://docs.python.org/3/library/logging.html) - (Python standard library) Logging facility for Python.
 - [loguru ![GitHub Repo Stars](https://img.shields.io/github/stars/Delgan/loguru) ![GitHub last commit](https://img.shields.io/github/last-commit/Delgan/loguru)](https://github.com/Delgan/loguru) - Library which aims to bring enjoyable logging in Python.
 - [structlog ![GitHub Repo Stars](https://img.shields.io/github/stars/hynek/structlog) ![GitHub last commit](https://img.shields.io/github/last-commit/hynek/structlog)](https://github.com/hynek/structlog) - Structured logging made easy.
