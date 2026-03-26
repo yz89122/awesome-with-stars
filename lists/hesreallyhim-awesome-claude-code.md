@@ -41,7 +41,7 @@
 - [Workflows & Knowledge Guides 🧠](#workflows--knowledge-guides-)
   - [General](#general-1)
   - [Ralph Wiggum](#ralph-wiggum)
-- [Tooling ����](#tooling-)
+- [Tooling 🧰](#tooling-)
   - [General](#general-2)
   - [IDE Integrations](#ide-integrations)
   - [Usage Monitors](#usage-monitors)
