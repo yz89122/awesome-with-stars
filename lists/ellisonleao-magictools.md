@@ -506,6 +506,7 @@ _Blogs, portals, magazines and more_
 - :tada: [Doom 3 ![GitHub Repo Stars](https://img.shields.io/github/stars/id-Software/DOOM-3) ![GitHub last commit](https://img.shields.io/github/last-commit/id-Software/DOOM-3)](https://github.com/id-Software/DOOM-3)
 - :tada: [Doom ![GitHub Repo Stars](https://img.shields.io/github/stars/id-Software/DOOM) ![GitHub last commit](https://img.shields.io/github/last-commit/id-Software/DOOM)](https://github.com/id-Software/DOOM)
 - :tada: [Duke Nukem 3D: Atomic Edition](http://legacy.3drealms.com/duke3d/)
+- :tada: [Legend of Elya ![GitHub Repo Stars](https://img.shields.io/github/stars/Scottcjn/legend-of-elya-n64) ![GitHub last commit](https://img.shields.io/github/last-commit/Scottcjn/legend-of-elya-n64)](https://github.com/Scottcjn/legend-of-elya-n64) - N64 dungeon crawler with AI NPCs powered by an 819K-parameter LLM running on the MIPS R4300i
 - :tada: [NetHack ![GitHub Repo Stars](https://img.shields.io/github/stars/NetHack/NetHack) ![GitHub last commit](https://img.shields.io/github/last-commit/NetHack/NetHack)](https://github.com/NetHack/NetHack)
 - :tada: [OpenRA ![GitHub Repo Stars](https://img.shields.io/github/stars/OpenRA/OpenRA) ![GitHub last commit](https://img.shields.io/github/last-commit/OpenRA/OpenRA)](https://github.com/OpenRA/OpenRA)
 - :tada: [OpenTTD ![GitHub Repo Stars](https://img.shields.io/github/stars/OpenTTD/OpenTTD) ![GitHub last commit](https://img.shields.io/github/last-commit/OpenTTD/OpenTTD)](https://github.com/OpenTTD/OpenTTD)
