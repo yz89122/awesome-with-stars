@@ -537,6 +537,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 
 - [visidata ![GitHub Repo Stars](https://img.shields.io/github/stars/saulpw/visidata) ![GitHub last commit](https://img.shields.io/github/last-commit/saulpw/visidata)](https://github.com/saulpw/visidata) - Spreadsheet multitool for data discovery and arrangement.
 - [sc-im ![GitHub Repo Stars](https://img.shields.io/github/stars/andmarti1424/sc-im) ![GitHub last commit](https://img.shields.io/github/last-commit/andmarti1424/sc-im)](https://github.com/andmarti1424/sc-im) - Vim-like spreadsheet calculator.
+- [nless ![GitHub Repo Stars](https://img.shields.io/github/stars/mpryor/nothing-less) ![GitHub last commit](https://img.shields.io/github/last-commit/mpryor/nothing-less)](https://github.com/mpryor/nothing-less) - Interactive pager for exploring tabular data.
 
 ### Processors
 
