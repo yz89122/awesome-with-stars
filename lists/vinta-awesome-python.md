@@ -946,6 +946,7 @@ _Implementations of Python._
 - [cython ![GitHub Repo Stars](https://img.shields.io/github/stars/cython/cython) ![GitHub last commit](https://img.shields.io/github/last-commit/cython/cython)](https://github.com/cython/cython) - Optimizing Static Compiler for Python.
 - [ironpython ![GitHub Repo Stars](https://img.shields.io/github/stars/IronLanguages/ironpython3) ![GitHub last commit](https://img.shields.io/github/last-commit/IronLanguages/ironpython3)](https://github.com/IronLanguages/ironpython3) - Implementation of the Python programming language written in C#.
 - [micropython ![GitHub Repo Stars](https://img.shields.io/github/stars/micropython/micropython) ![GitHub last commit](https://img.shields.io/github/last-commit/micropython/micropython)](https://github.com/micropython/micropython) - A lean and efficient Python programming language implementation.
+- [pyodide ![GitHub Repo Stars](https://img.shields.io/github/stars/pyodide/pyodide) ![GitHub last commit](https://img.shields.io/github/last-commit/pyodide/pyodide)](https://github.com/pyodide/pyodide) - Python distribution for the browser and Node.js based on WebAssembly.
 - [pypy ![GitHub Repo Stars](https://img.shields.io/github/stars/pypy/pypy) ![GitHub last commit](https://img.shields.io/github/last-commit/pypy/pypy)](https://github.com/pypy/pypy) - A very fast and compliant implementation of the Python language.
 
 ## Built-in Classes Enhancement
