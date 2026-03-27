@@ -10,6 +10,7 @@ A collection of awesome things regarding the React ecosystem.
   - [React Component Libraries](#react-component-libraries)
   - [React State Management and Data Fetching](#react-state-management-and-data-fetching)
   - [React Styling](#react-styling)
+  - [React Icon Libraries](#react-icon-libraries)
   - [React Routing](#react-routing)
   - [React Development Tools](#react-development-tools)
   - [React Libraries](#react-libraries)
@@ -100,6 +101,13 @@ A collection of awesome things regarding the React ecosystem.
 - [emotion ![GitHub Repo Stars](https://img.shields.io/github/stars/emotion-js/emotion) ![GitHub last commit](https://img.shields.io/github/last-commit/emotion-js/emotion)](https://github.com/emotion-js/emotion) - CSS-in-JS library designed for high performance style composition
 - [vanilla-extract ![GitHub Repo Stars](https://img.shields.io/github/stars/seek-oss/vanilla-extract) ![GitHub last commit](https://img.shields.io/github/last-commit/seek-oss/vanilla-extract)](https://github.com/seek-oss/vanilla-extract) - Zero-runtime Stylesheets-in-TypeScript
 
+#### React Icon Libraries
+
+- [react-icons ![GitHub Repo Stars](https://img.shields.io/github/stars/react-icons/react-icons) ![GitHub last commit](https://img.shields.io/github/last-commit/react-icons/react-icons)](https://github.com/react-icons/react-icons) - SVG React icons of popular icon packs
+- [lucide-react ![GitHub Repo Stars](https://img.shields.io/github/stars/lucide-icons/lucide) ![GitHub last commit](https://img.shields.io/github/last-commit/lucide-icons/lucide)](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit
+- [heroicons ![GitHub Repo Stars](https://img.shields.io/github/stars/tailwindlabs/heroicons) ![GitHub last commit](https://img.shields.io/github/last-commit/tailwindlabs/heroicons)](https://github.com/tailwindlabs/heroicons) - Beautiful hand-crafted SVG icons by the makers of Tailwind CSS
+- [thesvg ![GitHub Repo Stars](https://img.shields.io/github/stars/GLINCKER/thesvg) ![GitHub last commit](https://img.shields.io/github/last-commit/GLINCKER/thesvg)](https://github.com/GLINCKER/thesvg) - A collection of free SVG icons for popular brands and technologies
+
 #### React Routing
 
 - [react-router ![GitHub Repo Stars](https://img.shields.io/github/stars/remix-run/react-router) ![GitHub last commit](https://img.shields.io/github/last-commit/remix-run/react-router)](https://github.com/remix-run/react-router) - Declarative routing for React
@@ -111,10 +119,12 @@ A collection of awesome things regarding the React ecosystem.
 - [parcel ![GitHub Repo Stars](https://img.shields.io/github/stars/parcel-bundler/parcel) ![GitHub last commit](https://img.shields.io/github/last-commit/parcel-bundler/parcel)](https://github.com/parcel-bundler/parcel) - The zero configuration build tool for the web
 - [reactotron ![GitHub Repo Stars](https://img.shields.io/github/stars/skellock/reactotron) ![GitHub last commit](https://img.shields.io/github/last-commit/skellock/reactotron)](https://github.com/skellock/reactotron) - A desktop app for inspecting your React and React Native projects
 - [eslint-plugin-react ![GitHub Repo Stars](https://img.shields.io/github/stars/yannickcr/eslint-plugin-react) ![GitHub last commit](https://img.shields.io/github/last-commit/yannickcr/eslint-plugin-react)](https://github.com/yannickcr/eslint-plugin-react) - React specific linting rules for ESLint
+- [react-scan ![GitHub Repo Stars](https://img.shields.io/github/stars/aidenybai/react-scan) ![GitHub last commit](https://img.shields.io/github/last-commit/aidenybai/react-scan)](https://github.com/aidenybai/react-scan) - Scan for React performance issues and eliminate slow renders in your app
 - [why-did-you-render ![GitHub Repo Stars](https://img.shields.io/github/stars/welldone-software/why-did-you-render) ![GitHub last commit](https://img.shields.io/github/last-commit/welldone-software/why-did-you-render)](https://github.com/welldone-software/why-did-you-render) - Monkey patches React to notify you about avoidable re-renders
 
 #### React Libraries
 
+- [ai-sdk ![GitHub Repo Stars](https://img.shields.io/github/stars/vercel/ai) ![GitHub last commit](https://img.shields.io/github/last-commit/vercel/ai)](https://github.com/vercel/ai) - The AI Toolkit for TypeScript and React from the creators of Next.js
 - [preact ![GitHub Repo Stars](https://img.shields.io/github/stars/preactjs/preact) ![GitHub last commit](https://img.shields.io/github/last-commit/preactjs/preact)](https://github.com/preactjs/preact) - Fast React alternative with the same modern API
 - [floating-ui ![GitHub Repo Stars](https://img.shields.io/github/stars/floating-ui/floating-ui) ![GitHub last commit](https://img.shields.io/github/last-commit/floating-ui/floating-ui)](https://github.com/floating-ui/floating-ui) - Toolkit to create floating elements
 - [loadable-components ![GitHub Repo Stars](https://img.shields.io/github/stars/gregberge/loadable-components) ![GitHub last commit](https://img.shields.io/github/last-commit/gregberge/loadable-components)](https://github.com/gregberge/loadable-components) - The recommended Code Splitting library for React
