@@ -8164,7 +8164,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-<div align="right"><a href="#contents">���️ Back to Top</a></div>
+<div align="right"><a href="#contents">⬆️ Back to Top</a></div>
 
 <a id="security"></a>
 ### 🔒 Security (11)

@@ -275,6 +275,7 @@ for `EXPLAIN`, that also provides performance tips (Commercial Software).
 * [planter ![GitHub Repo Stars](https://img.shields.io/github/stars/achiku/planter) ![GitHub last commit](https://img.shields.io/github/last-commit/achiku/planter)](https://github.com/achiku/planter) - Generate PlantUML ER diagram textual description from PostgreSQL tables
 * [pgroll ![GitHub Repo Stars](https://img.shields.io/github/stars/xataio/pgroll) ![GitHub last commit](https://img.shields.io/github/last-commit/xataio/pgroll)](https://github.com/xataio/pgroll) - Zero-downtime, reversible, schema migrations for Postgres
 * [RegreSQL ![GitHub Repo Stars](https://img.shields.io/github/stars/dimitri/regresql) ![GitHub last commit](https://img.shields.io/github/last-commit/dimitri/regresql)](https://github.com/dimitri/regresql) - Tool to build, maintain and execute a regression testing suite for SQL queries.
+* [diesel-guard ![GitHub Repo Stars](https://img.shields.io/github/stars/ayarotsky/diesel-guard) ![GitHub last commit](https://img.shields.io/github/last-commit/ayarotsky/diesel-guard)](https://github.com/ayarotsky/diesel-guard) - Linter for dangerous Postgres migration patterns in Diesel and SQLx.
 
 ### Language bindings
 * Common Lisp: [Postmodern ![GitHub Repo Stars](https://img.shields.io/github/stars/marijnh/Postmodern) ![GitHub last commit](https://img.shields.io/github/last-commit/marijnh/Postmodern)](https://github.com/marijnh/Postmodern)
@@ -345,6 +346,7 @@ for `EXPLAIN`, that also provides performance tips (Commercial Software).
 * [PostgreSQL Primer for Busy People](https://zaiste.net/posts/postgresql-primer-for-busy-people/) - A collection of the most common commands used in PostgreSQL
 * [pg-utils ![GitHub Repo Stars](https://img.shields.io/github/stars/dataegret/pg-utils) ![GitHub last commit](https://img.shields.io/github/last-commit/dataegret/pg-utils)](https://github.com/dataegret/pg-utils) - Useful DBA tools by Data Egret
 * [pagila ![GitHub Repo Stars](https://img.shields.io/github/stars/xzilla/pagila) ![GitHub last commit](https://img.shields.io/github/last-commit/xzilla/pagila)](https://github.com/xzilla/pagila) - Pagila, Postgres Sample Database
+* [SQL Syntax Cheat Sheet ![GitHub Repo Stars](https://img.shields.io/github/stars/mergisi/sql-syntax-cheat-sheet) ![GitHub last commit](https://img.shields.io/github/last-commit/mergisi/sql-syntax-cheat-sheet)](https://github.com/mergisi/sql-syntax-cheat-sheet) - Comprehensive SQL syntax reference covering window functions, CTEs, and PostgreSQL-specific syntax (UPSERT, JSON queries, array operations).
 
 ### Blogs
 * [Planet PostgreSQL](https://planet.postgresql.org/) - Blog aggregation service for PostgreSQL.
