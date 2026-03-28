@@ -117,9 +117,11 @@
 * [pgplan ![GitHub Repo Stars](https://img.shields.io/github/stars/JacobArthurs/pgplan) ![GitHub last commit](https://img.shields.io/github/last-commit/JacobArthurs/pgplan)](https://github.com/JacobArthurs/pgplan) - compare and analyze PostgreSQL EXPLAIN plans from the CLI
 * [pgschema](https://www.pgschema.com) - Terraform-style declarative schema migration for Postgres
 * [pg-schema-diff ![GitHub Repo Stars](https://img.shields.io/github/stars/stripe/pg-schema-diff) ![GitHub last commit](https://img.shields.io/github/last-commit/stripe/pg-schema-diff)](https://github.com/stripe/pg-schema-diff) - CLI (and Golang library) for diffing Postgres schemas and generating SQL migrations with minimal locking.
+* [MigrationPilot ![GitHub Repo Stars](https://img.shields.io/github/stars/mickelsamuel/migrationpilot) ![GitHub last commit](https://img.shields.io/github/last-commit/mickelsamuel/migrationpilot)](https://github.com/mickelsamuel/migrationpilot) - PostgreSQL migration safety CLI that catches dangerous DDL before production — 80 rules, lock classification, auto-fix, GitHub Action.
 * [pgsh ![GitHub Repo Stars](https://img.shields.io/github/stars/sastraxi/pgsh) ![GitHub last commit](https://img.shields.io/github/last-commit/sastraxi/pgsh)](https://github.com/sastraxi/pgsh) - Branch your PostgreSQL Database like Git
 * [psql](https://www.postgresql.org/docs/current/static/app-psql.html) - The built-in PostgreSQL CLI client
 * [psql2csv ![GitHub Repo Stars](https://img.shields.io/github/stars/fphilipe/psql2csv) ![GitHub last commit](https://img.shields.io/github/last-commit/fphilipe/psql2csv)](https://github.com/fphilipe/psql2csv) - Run a query in psql and output the result as CSV
+* [sabiql ![GitHub Repo Stars](https://img.shields.io/github/stars/riii111/sabiql) ![GitHub last commit](https://img.shields.io/github/last-commit/riii111/sabiql)](https://github.com/riii111/sabiql) - A fast, driver-less TUI to browse, query, and edit PostgreSQL databases.
 * [schemaspy ![GitHub Repo Stars](https://img.shields.io/github/stars/schemaspy/schemaspy) ![GitHub last commit](https://img.shields.io/github/last-commit/schemaspy/schemaspy)](https://github.com/schemaspy/schemaspy) - SchemaSpy is a JAVA JDBC-compliant tool for generating your database to HTML documentation, including Entity Relationship diagrams
 * [pdot](https://gitlab.com/dmfay/pdot) - Visualize and explore database structures in your shell, from high-context views of the foreign key graph to trigger cascades, role inheritance and permissions, and many more
 
@@ -140,6 +142,7 @@
 * [Datadog](https://www.datadoghq.com/product/database-monitoring/) - SaaS monitoring that collects and visualizes metrics, queries, and explain plans, and sends alerts when problems are encountered (Commercial Software).
 * [Instrumental ![GitHub Repo Stars](https://img.shields.io/github/stars/Instrumental/instrumentald) ![GitHub last commit](https://img.shields.io/github/last-commit/Instrumental/instrumentald)](https://github.com/Instrumental/instrumentald) - Real-time performance monitoring, including [pre-made graphs](https://instrumentalapp.com/docs/instrumentald/postgresql#suggested-graphs) for ease of setup (Commercial Software)
 * [libzbxpgsql ![GitHub Repo Stars](https://img.shields.io/github/stars/cavaliercoder/libzbxpgsql) ![GitHub last commit](https://img.shields.io/github/last-commit/cavaliercoder/libzbxpgsql)](https://github.com/cavaliercoder/libzbxpgsql) - Comprehensive PostgreSQL monitoring module for Zabbix.
+* [myDBA](https://mydba.dev) - PostgreSQL performance monitoring with 75+ automated health checks, cluster-aware index advisor, query analysis, and extension monitoring for TimescaleDB, pgvector, and PostGIS (Commercial Software).
 * [PMM ![GitHub Repo Stars](https://img.shields.io/github/stars/percona/pmm) ![GitHub last commit](https://img.shields.io/github/last-commit/percona/pmm)](https://github.com/percona/pmm) - Percona Monitoring and Management (PMM) is a Free and Open Source platform for monitoring and managing PostgreSQL, MySQL, and MongoDB.
 * [Pome ![GitHub Repo Stars](https://img.shields.io/github/stars/rach/pome) ![GitHub last commit](https://img.shields.io/github/last-commit/rach/pome)](https://github.com/rach/pome) - Pome stands for PostgreSQL Metrics. Pome is a PostgreSQL Metrics Dashboard to keep track of the health of your database.
 * [pgmetrics](https://pgmetrics.io/) - pgmetrics is an open-source, zero-dependency, single-binary tool that can collect a lot of information and statistics from a running PostgreSQL server and display it in easy-to-read text format or export it as JSON and CSV for scripting.
@@ -233,6 +236,7 @@ for `EXPLAIN`, that also provides performance tips (Commercial Software).
 * [ora2pg](http://ora2pg.darold.net) - Perl module to export an Oracle database schema to a PostgreSQL compatible schema.
 * [pg\_activity ![GitHub Repo Stars](https://img.shields.io/github/stars/dalibo/pg_activity) ![GitHub last commit](https://img.shields.io/github/last-commit/dalibo/pg_activity)](https://github.com/dalibo/pg_activity) - top like application for PostgreSQL server activity monitoring.
 * [pg-formatter ![GitHub Repo Stars](https://img.shields.io/github/stars/gajus/pg-formatter) ![GitHub last commit](https://img.shields.io/github/last-commit/gajus/pg-formatter)](https://github.com/gajus/pg-formatter) - A PostgreSQL SQL syntax beautifier (Node.js).
+* [pg-safe-migrate ![GitHub Repo Stars](https://img.shields.io/github/stars/defnotwig/pg-safe-migrate) ![GitHub last commit](https://img.shields.io/github/last-commit/defnotwig/pg-safe-migrate)](https://github.com/defnotwig/pg-safe-migrate) - Safety-first Node.js migration engine with advisory locks, SHA-256 drift detection, and 10 built-in lint rules for PostgreSQL.
 * [pganalyze](https://pganalyze.com) - PostgreSQL Performance Monitoring (Commercial Software).
 * [pgbadger ![GitHub Repo Stars](https://img.shields.io/github/stars/darold/pgbadger) ![GitHub last commit](https://img.shields.io/github/last-commit/darold/pgbadger)](https://github.com/darold/pgbadger) - Fast PostgreSQL Log Analyzer.
 * [PgBouncer](http://www.pgbouncer.org/) - Lightweight connection pooler for PostgreSQL.
@@ -303,10 +307,11 @@ for `EXPLAIN`, that also provides performance tips (Commercial Software).
 * [OVHcloud Cloud Databases](https://www.ovhcloud.com/en/public-cloud/databases/) - Highly available, scalable, and secured PostgreSQL. Daily backups with point-in-time recovery, no lock-in, free incoming and outgoing traffic.
 * [Render Managed PostgreSQL](https://render.com/docs/databases) - Secure, reliable, and completely hands-off managed PostgreSQL. Encryption at rest, automated backups, and expandable SSD storage included in all plans. Plans start at $7 per month for 256MB RAM and 1GB storage (free for first 90 days).
 * [ScaleGrid PostgreSQL DBaaS](https://scalegrid.io/postgresql.html) - Fully managed PostgreSQL hosting with high availability, dedicated servers, and superuser control on the #1 multi-cloud Amazon RDS alternative.
-* [Scaleway Managed Database](https://www.scaleway.com/en/database/) - Fully managed PostgreSQL databases with HA, scaling, and automated backups, hosted in the EU. Starting at ��10 per month.
+* [Scaleway Managed Database](https://www.scaleway.com/en/database/) - Fully managed PostgreSQL databases with HA, scaling, and automated backups, hosted in the EU. Starting at €10 per month.
 * [Supabase](https://www.supabase.com) - Fully managed Postgres with read replicas, point-in-time-recovery, support packages, browser based GUI, and a generous free tier.
 * [Neon](https://neon.tech) - Fully managed serverless PostgreSQL. Neon separates storage and compute to offer modern developer features such as serverless, branching, bottomless storage, and more.
 * [Nile](https://www.thenile.dev/) - Fully managed PostgreSQL . Nile decouples storage from compute and virtualizes tenants to ship multi-tenant AI applications fast, safe, and with limitless scale. Free tier provides unlimited databases.
+* [PlanetScale](https://planetscale.com/postgres) - PlanetScale for Postgres provides fully-managed, high availability PostgreSQL database clusters built on modern cloud infrastructure.
 * [Vela](https://vela.run) - Postgres-based backend-as-a-service built for modern AI apps. Offers instant database branches and clones, production-like test environments, and serverless scaling.
 * [Thalassa Cloud DBaaS](https://thalassa.cloud/products/databases/postgresql/) - Fully managed PostgreSQL database, multi-AZ, automated backups, hosted in the Netherlands.
 
@@ -354,11 +359,13 @@ for `EXPLAIN`, that also provides performance tips (Commercial Software).
 * [Metis Blog](https://www.metisdata.io/blog) - Set of posts on PostgreSQL, SQL databases, performance, and tuning.
 * [Digoal's PostgreSQL and Technical blog(Chinese Language) ![GitHub Repo Stars](https://img.shields.io/github/stars/digoal/blog) ![GitHub last commit](https://img.shields.io/github/last-commit/digoal/blog)](https://github.com/digoal/blog/blob/master/README.md) 
 * [Pigsty blog / PostgreSQL](https://pigsty.io/blog/pg/) - Blog by the author of PIGSTY with insightful articles on PostgreSQL (as well as databases and cloud infrastructure).
+* [BigData Boutique Blog / PostgreSQL](https://bigdataboutique.com/blog/tagged/postgresql) - Blog by the BigData Boutique team, mostly with analytics focus).
 
 ### Books
 * [PostgreSQL Mistakes and How to Avoid Them](https://www.manning.com/books/postgresql-mistakes-and-how-to-avoid-them)
 * [The Internals of PostgreSQL](https://www.interdb.jp/pg/index.html) - A free e-book by Hironobu Suzuki
 * [PostgreSQL 14 Internals](https://postgrespro.com/community/books/internals) - A free e-book by Egor Rogov
+* [Lift the Elephant](https://leanpub.com/lift-the-elephant) - A practical guide to scaling Postgres in production, covering tuning, connection pooling, partitioning, and high availability.
 
 
 ### Documentation
