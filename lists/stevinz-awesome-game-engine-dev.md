@@ -375,7 +375,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Ozz-Animation ![GitHub Repo Stars](https://img.shields.io/github/stars/guillaumeblanc/ozz-animation) ![GitHub last commit](https://img.shields.io/github/last-commit/guillaumeblanc/ozz-animation)](https://github.com/guillaumeblanc/ozz-animation) - Skeletal animation library and toolset.
     - 🎉 [Tweeny ![GitHub Repo Stars](https://img.shields.io/github/stars/mobius3/tweeny) ![GitHub last commit](https://img.shields.io/github/last-commit/mobius3/tweeny)](https://github.com/mobius3/tweeny) - Inbetweening library for complex animations for games / apps.
 - C++: Audio
-    - 🎉 [Amplitude Audio SDK ![GitHub Repo Stars](https://img.shields.io/github/stars/SparkyStudios/AmplitudeAudioSDK) ![GitHub last commit](https://img.shields.io/github/last-commit/SparkyStudios/AmplitudeAudioSDK)](https://github.com/SparkyStudios/AmplitudeAudioSDK) - Cross-platform audio engine designed for the needs of games.
+    - ���� [Amplitude Audio SDK ![GitHub Repo Stars](https://img.shields.io/github/stars/SparkyStudios/AmplitudeAudioSDK) ![GitHub last commit](https://img.shields.io/github/last-commit/SparkyStudios/AmplitudeAudioSDK)](https://github.com/SparkyStudios/AmplitudeAudioSDK) - Cross-platform audio engine designed for the needs of games.
     - 💰 [irrKlang](https://www.ambiera.com/irrklang/) - High level 2D/3D sound engine and audio library.
     - 💰 [Juce ![GitHub Repo Stars](https://img.shields.io/github/stars/juce-framework/JUCE) ![GitHub last commit](https://img.shields.io/github/last-commit/juce-framework/JUCE)](https://github.com/juce-framework/JUCE) - The leading framework for multi-platform audio apps.
     - 🔒 [OpenAL Soft ![GitHub Repo Stars](https://img.shields.io/github/stars/kcat/openal-soft) ![GitHub last commit](https://img.shields.io/github/last-commit/kcat/openal-soft)](https://github.com/kcat/openal-soft) - Software implementation of the _OpenAL_ 3D audio API.
@@ -520,7 +520,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 📚 [NVIDIA GameWorks](https://github.com/NVIDIAGameWorks) - _NVIDIA_ technologies for game & app developers.
 - C++: Lighting
     - 🎉 [Thekla Atlas ![GitHub Repo Stars](https://img.shields.io/github/stars/Thekla/thekla_atlas) ![GitHub last commit](https://img.shields.io/github/last-commit/Thekla/thekla_atlas)](https://github.com/Thekla/thekla_atlas) - Atlas generation tool.
-    - 🎉 [UVAtlas ![GitHub Repo Stars](https://img.shields.io/github/stars/Microsoft/UVAtlas) ![GitHub last commit](https://img.shields.io/github/last-commit/Microsoft/UVAtlas)](https://github.com/Microsoft/UVAtlas) - DirectX library for creating and packing texture atlases.
+    - ��� [UVAtlas ![GitHub Repo Stars](https://img.shields.io/github/stars/Microsoft/UVAtlas) ![GitHub last commit](https://img.shields.io/github/last-commit/Microsoft/UVAtlas)](https://github.com/Microsoft/UVAtlas) - DirectX library for creating and packing texture atlases.
 - C++: Math
     - 🎉 [OpenGL Mathematics ![GitHub Repo Stars](https://img.shields.io/github/stars/g-truc/glm) ![GitHub last commit](https://img.shields.io/github/last-commit/g-truc/glm)](https://github.com/g-truc/glm) - Header-only math library for graphics software.
 - C++: Network
