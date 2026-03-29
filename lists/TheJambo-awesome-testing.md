@@ -48,6 +48,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Nuclei Scanner ![GitHub Repo Stars](https://img.shields.io/github/stars/projectdiscovery/nuclei) ![GitHub last commit](https://img.shields.io/github/last-commit/projectdiscovery/nuclei)](https://github.com/projectdiscovery/nuclei) - nuclie is automated scanner for common vulnerbilty finding on site.
 
 ### AI & LLM Testing
+- [Litmus ![GitHub Repo Stars](https://img.shields.io/github/stars/rylinjames/litmus) ![GitHub last commit](https://img.shields.io/github/last-commit/rylinjames/litmus)](https://github.com/rylinjames/litmus) - Record and replay AI agent LLM calls deterministically for testing and CI, with fault injection and reliability scoring.
 - [promptfoo ![GitHub Repo Stars](https://img.shields.io/github/stars/promptfoo/promptfoo) ![GitHub last commit](https://img.shields.io/github/last-commit/promptfoo/promptfoo)](https://github.com/promptfoo/promptfoo) - Open-source framework for testing and red teaming LLM applications. Compare prompts, test RAG architectures, run multi-turn adversarial attacks, and catch security vulnerabilities with CI/CD integration.
 - [voicetest ![GitHub Repo Stars](https://img.shields.io/github/stars/voicetestdev/voicetest) ![GitHub last commit](https://img.shields.io/github/last-commit/voicetestdev/voicetest)](https://github.com/voicetestdev/voicetest) - Open-source test harness for voice AI agents supporting Retell, VAPI, LiveKit, and Bland with autonomous simulations and LLM-based evaluation.
 

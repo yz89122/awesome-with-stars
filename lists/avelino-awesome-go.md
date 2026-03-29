@@ -230,6 +230,7 @@ _Libraries for building programs that leverage AI._
 - [LocalAI ![GitHub Repo Stars](https://img.shields.io/github/stars/mudler/LocalAI) ![GitHub last commit](https://img.shields.io/github/last-commit/mudler/LocalAI)](https://github.com/mudler/LocalAI) - Open Source OpenAI alternative, self-host AI models.
 - [Ollama ![GitHub Repo Stars](https://img.shields.io/github/stars/jmorganca/ollama) ![GitHub last commit](https://img.shields.io/github/last-commit/jmorganca/ollama)](https://github.com/jmorganca/ollama) - Run large language models locally.
 - [OllamaFarm ![GitHub Repo Stars](https://img.shields.io/github/stars/presbrey/ollamafarm) ![GitHub last commit](https://img.shields.io/github/last-commit/presbrey/ollamafarm)](https://github.com/presbrey/ollamafarm) - Manage, load-balance, and failover packs of Ollamas.
+- [otellix ![GitHub Repo Stars](https://img.shields.io/github/stars/oluwajubelo1/otellix) ![GitHub last commit](https://img.shields.io/github/last-commit/oluwajubelo1/otellix)](https://github.com/oluwajubelo1/otellix) - OpenTelemetry-native LLM observability and budget guardrails for cost-constrained production environments.
 
 **[⬆ back to top](#contents)**
 
