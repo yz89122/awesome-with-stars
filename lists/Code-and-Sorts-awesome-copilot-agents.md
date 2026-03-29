@@ -4,10 +4,10 @@
 
 <!-- [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) -->
 <div align="center">
-  <img src="https://github.com/Code-and-Sorts/awesome-copilot-agents/raw/main/.refs/imgs/awesome-github-copilot.svg" alt="Awesome Copilot Instructions" height="300">
+  <img src="https://github.com/Code-and-Sorts/awesome-copilot-agents/raw/main/.refs/imgs/awesome-github-copilot.svg" alt="Awesome Copilot Agents" height="300">
 </div>
 
-<h4 align="center">✨ A curated list of awesome GitHub instructions, prompt, skills and custom agent markdown files for enhancing your GitHub Copilot AI experience.</h4>
+<h4 align="center">✨ A curated list of awesome GitHub instructions, prompt, skills, MCPs and custom agent markdown files for enhancing your GitHub Copilot AI experience.</h4>
 
 <!--lint enable remark-lint:awesome-badge-->
 
@@ -26,7 +26,7 @@
 
 ## Contents
 
-- [Why Copilot Instructions](#why-copilot-instructions)
+- [Why Copilot Agents](#why-copilot-agents)
 - [Instructions](#instructions)
   - [Boilerplates & Templates](#boilerplates--templates)
   - [Language & Stack](#language--stack)
@@ -38,13 +38,14 @@
 - [Custom Agents](#custom-agents)
   - [AI Development Mode](#ai-development-mode)
 - [Agent Skills](#agent-skills)
+- [MCPs](#mcps)
 - [How to Use](#how-to-use)
 
-## Why Copilot Instructions
+## Why Copilot Agents
 
-`copilot-instructions.md` and `*.instructions.md` files help guide GitHub Copilot by providing contextual details about your repository such as the type of workflow your team follows, tools and other project specific details such as coding style, frameworks used or project specific rules.
+Customized instructions, prompts, agent skills, agent MCPs and custom agents help guide GitHub Copilot by providing contextual details about your repository such as the type of workflow your team follows, tools and other project specific details such as coding style, frameworks used or project specific rules.
 
-**Tip**: Learn more about Copilot Instructions in the [VS Code documentation](https://code.visualstudio.com/docs/copilot/copilot-customization).
+**Tip**: Learn more about customizing GitHub Copilot in VS Code in the [VS Code documentation](https://code.visualstudio.com/docs/copilot/customization/overview).
 
 ## Instructions
 
@@ -186,6 +187,7 @@ Agent Skills are portable, [open standard](https://agentskills.io/home), version
 
 - [Calculator ![GitHub Repo Stars](https://img.shields.io/github/stars/Code-and-Sorts/awesome-copilot-agents) ![GitHub last commit](https://img.shields.io/github/last-commit/Code-and-Sorts/awesome-copilot-agents)](https://github.com/Code-and-Sorts/awesome-copilot-agents/tree/main/skills/calculator/SKILL.md) - Performs arbitrary-precision arithmetic calculations including addition, subtraction, multiplication, division, and exponents.
 - [Jira CLI ![GitHub Repo Stars](https://img.shields.io/github/stars/Code-and-Sorts/awesome-copilot-agents) ![GitHub last commit](https://img.shields.io/github/last-commit/Code-and-Sorts/awesome-copilot-agents)](https://github.com/Code-and-Sorts/awesome-copilot-agents/tree/main/skills/jira-cli/SKILL.md) - Interact with Jira from the command line to create, list, view, edit, and transition issues, manage sprints and epics, and perform common Jira workflows.
+- [Skill Creator ![GitHub Repo Stars](https://img.shields.io/github/stars/anthropics/skills) ![GitHub last commit](https://img.shields.io/github/last-commit/anthropics/skills)](https://github.com/anthropics/skills/blob/main/skills/skill-creator/SKILL.md) - Create new skills, modify and improve existing skills, and measure skill performance.
 
 ### Documents
 
@@ -193,6 +195,43 @@ Agent Skills are portable, [open standard](https://agentskills.io/home), version
 - [pdf ![GitHub Repo Stars](https://img.shields.io/github/stars/Code-and-Sorts/awesome-copilot-agents) ![GitHub last commit](https://img.shields.io/github/last-commit/Code-and-Sorts/awesome-copilot-agents)](https://github.com/Code-and-Sorts/awesome-copilot-agents/tree/main/skills/documents/pdf/README.md) - PDF manipulation toolkit for extracting text and tables, creating new PDFs, merging/splitting documents, and handling forms.
 - [pptx ![GitHub Repo Stars](https://img.shields.io/github/stars/Code-and-Sorts/awesome-copilot-agents) ![GitHub last commit](https://img.shields.io/github/last-commit/Code-and-Sorts/awesome-copilot-agents)](https://github.com/Code-and-Sorts/awesome-copilot-agents/tree/main/skills/documents/pptx/README.md) - Presentation creation, editing, and analysis.
 - [xlsx ![GitHub Repo Stars](https://img.shields.io/github/stars/Code-and-Sorts/awesome-copilot-agents) ![GitHub last commit](https://img.shields.io/github/last-commit/Code-and-Sorts/awesome-copilot-agents)](https://github.com/Code-and-Sorts/awesome-copilot-agents/tree/main/skills/documents/xlsx/README.md) - Spreadsheet creation, editing, and analysis with support for formulas, formatting, data analysis, and visualization.
+
+### Cloud
+
+- [Az CLI ![GitHub Repo Stars](https://img.shields.io/github/stars/Code-and-Sorts/awesome-copilot-agents) ![GitHub last commit](https://img.shields.io/github/last-commit/Code-and-Sorts/awesome-copilot-agents)](https://github.com/Code-and-Sorts/awesome-copilot-agents/tree/main/skills/cloud/az-cli/SKILL.md) - Azure CLI documentation to execute or ask about Azure CLI commands.
+- [Azure Prices ![GitHub Repo Stars](https://img.shields.io/github/stars/Code-and-Sorts/awesome-copilot-agents) ![GitHub last commit](https://img.shields.io/github/last-commit/Code-and-Sorts/awesome-copilot-agents)](https://github.com/Code-and-Sorts/awesome-copilot-agents/tree/main/skills/cloud/azure-prices/SKILL.md) - Look up and compare Azure service pricing using the Azure Retail Prices API.
+
+### Development
+
+- [Playwright CLI ![GitHub Repo Stars](https://img.shields.io/github/stars/microsoft/playwright-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/microsoft/playwright-cli)](https://github.com/microsoft/playwright-cli/blob/main/skills/playwright-cli/SKILL.md) - Automate browser interactions, test web pages and work with Playwright tests.
+- [Frontend Design ![GitHub Repo Stars](https://img.shields.io/github/stars/anthropics/skills) ![GitHub last commit](https://img.shields.io/github/last-commit/anthropics/skills)](https://github.com/anthropics/skills/blob/main/skills/frontend-design/SKILL.md) - Create distinctive, production-grade frontend interfaces with high design quality.
+- [Webapp Testing ![GitHub Repo Stars](https://img.shields.io/github/stars/anthropics/skills) ![GitHub last commit](https://img.shields.io/github/last-commit/anthropics/skills)](https://github.com/anthropics/skills/blob/main/skills/webapp-testing/SKILL.md) - Toolkit for interacting with and testing local web applications using Playwright.
+
+## MCPs
+
+MCPs (Model Context Protocol servers) give agents a standardized way to connect to external tools, APIs, data sources, and local capabilities. They extend what an agent can do beyond plain chat by exposing actions such as reading files, browsing the web, querying cloud platforms, or interacting with development tooling through a common protocol.
+
+This section highlights useful MCP servers you can add to your Copilot setup to expand agent capabilities for research, development, automation, and cloud workflows.
+
+### General MCPs
+
+- [Knowledge Graph Memory ![GitHub Repo Stars](https://img.shields.io/github/stars/modelcontextprotocol/servers) ![GitHub last commit](https://img.shields.io/github/last-commit/modelcontextprotocol/servers)](https://github.com/modelcontextprotocol/servers/tree/main/src/memory) - Create a local knowledge graph for your agent to remember information across different chat sessions.
+- [Filesystem ![GitHub Repo Stars](https://img.shields.io/github/stars/modelcontextprotocol/servers) ![GitHub last commit](https://img.shields.io/github/last-commit/modelcontextprotocol/servers)](https://github.com/modelcontextprotocol/servers/tree/main/src/filesystem) - Read and write files in batch operations, search file contents, list files, and validate file paths.
+- [Fetch ![GitHub Repo Stars](https://img.shields.io/github/stars/modelcontextprotocol/servers) ![GitHub last commit](https://img.shields.io/github/last-commit/modelcontextprotocol/servers)](https://github.com/modelcontextprotocol/servers/blob/main/src/fetch) - Automate web browsing for agents to retrieve and process content from web pages, converting HTML to markdown for easier consumption.
+- [Sequential Thinking ![GitHub Repo Stars](https://img.shields.io/github/stars/modelcontextprotocol/servers) ![GitHub last commit](https://img.shields.io/github/last-commit/modelcontextprotocol/servers)](https://github.com/modelcontextprotocol/servers/tree/main/src/sequentialthinking) - Break down complex problems into structured steps.
+- [GitHub ![GitHub Repo Stars](https://img.shields.io/github/stars/github/github-mcp-server) ![GitHub last commit](https://img.shields.io/github/last-commit/github/github-mcp-server)](https://github.com/github/github-mcp-server) - Allow your agent access to repository and workflow management.
+- [Time ![GitHub Repo Stars](https://img.shields.io/github/stars/modelcontextprotocol/servers) ![GitHub last commit](https://img.shields.io/github/last-commit/modelcontextprotocol/servers)](https://github.com/modelcontextprotocol/servers/blob/main/src/time) - Enables agents to get current time information and perform timezone conversions using IANA timezone names, with automatic system timezone detection.
+
+### Development MCPs
+
+- [Playwright ![GitHub Repo Stars](https://img.shields.io/github/stars/microsoft/playwright-mcp) ![GitHub last commit](https://img.shields.io/github/last-commit/microsoft/playwright-mcp)](https://github.com/microsoft/playwright-mcp) - Playwright MCP to automate browser interactions, test web pages and work with Playwright tests.
+- [Context7 ![GitHub Repo Stars](https://img.shields.io/github/stars/upstash/context7) ![GitHub last commit](https://img.shields.io/github/last-commit/upstash/context7)](https://github.com/upstash/context7) - Inject version-specific code documentation in your agent session to provide the correct API docs for code generation.
+
+### Cloud MCPs
+
+- [Azure MCP ![GitHub Repo Stars](https://img.shields.io/github/stars/microsoft/mcp) ![GitHub last commit](https://img.shields.io/github/last-commit/microsoft/mcp)](https://github.com/microsoft/mcp/blob/main/servers/Azure.Mcp.Server/README.md) - Azure MCP Server supercharges your agents with Azure context across different Azure services.
+- [AWS Documentation ![GitHub Repo Stars](https://img.shields.io/github/stars/awslabs/mcp) ![GitHub last commit](https://img.shields.io/github/last-commit/awslabs/mcp)](https://github.com/awslabs/mcp/tree/main/src/aws-documentation-mcp-server) - Agent tools to access AWS documentation, search for content, and get recommendations.
+- [gcloud ![GitHub Repo Stars](https://img.shields.io/github/stars/googleapis/gcloud-mcp) ![GitHub last commit](https://img.shields.io/github/last-commit/googleapis/gcloud-mcp)](https://github.com/googleapis/gcloud-mcp) - Agent tools to interact with the Google Cloud environment using the gcloud CLI.
 
 ## How to Use
 

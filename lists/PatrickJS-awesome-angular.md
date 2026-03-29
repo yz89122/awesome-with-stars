@@ -1169,7 +1169,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-blog ![GitHub Repo Stars](https://img.shields.io/github/stars/pegasusheavy/ngx-blog) ![GitHub last commit](https://img.shields.io/github/last-commit/pegasusheavy/ngx-blog)](https://github.com/pegasusheavy/ngx-blog) - A modern Angular-based blogging CMS with theme support and SEO optimization.
 * [radixweb](https://radixweb.com/starter-kits/enterprise-microservices-boilerplate) - Full production-ready microservices boilerplate.
 * [base-angular-monorepo ![GitHub Repo Stars](https://img.shields.io/github/stars/myvictorlife/base-angular-monorepo) ![GitHub last commit](https://img.shields.io/github/last-commit/myvictorlife/base-angular-monorepo)](https://github.com/myvictorlife/base-angular-monorepo) - A production-ready base project for developing scalable Angular applications (Nx, NgRx, Tailwind CSS, Jest, ESLint, Prettier).
-* [nx-ng-starter ![GitHub Repo Stars](https://img.shields.io/github/stars/rfprod/nx-ng-starter) ![GitHub last commit](https://img.shields.io/github/last-commit/rfprod/nx-ng-starter)](https://github.com/rfprod/nx-ng-starter) - Monorepo starter with workflow automation: Nx, Angular, Angular Elements, Electron, NodeJS, NestJS, Firebase.
+* [nx-ng-starter ![GitHub Repo Stars](https://img.shields.io/github/stars/rfprod/nx-ng-starter) ![GitHub last commit](https://img.shields.io/github/last-commit/rfprod/nx-ng-starter)](https://github.com/rfprod/nx-ng-starter) - Monorepo starter with workflow automation: Nx, Angular, Angular Elements, Electron, Node, Nest, Firebase.
 
 ### Paid Templates
 
@@ -1483,6 +1483,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [contentful-rich-text-angular-renderer ![GitHub Repo Stars](https://img.shields.io/github/stars/flowup/contentful-rich-text-angular-renderer) ![GitHub last commit](https://img.shields.io/github/last-commit/flowup/contentful-rich-text-angular-renderer)](https://github.com/flowup/contentful-rich-text-angular-renderer) - Angular renderer for Contentful Rich Text, offering customizable node and mark rendering using Angular templates.
 * [Monaco Pattern Editor ![GitHub Repo Stars](https://img.shields.io/github/stars/KhlifiIsmail/Editor) ![GitHub last commit](https://img.shields.io/github/last-commit/KhlifiIsmail/Editor)](https://github.com/KhlifiIsmail/Editor) - A premium Angular library that wraps Monaco Editor with beautiful themes and coding interview preparation features.
 * [angular-editor ![GitHub Repo Stars](https://img.shields.io/github/stars/kolkov/angular-editor) ![GitHub last commit](https://img.shields.io/github/last-commit/kolkov/angular-editor)](https://github.com/kolkov/angular-editor) - A simple native WYSIWYG editor component for Angular.
+* [ngx-json-editor ![GitHub Repo Stars](https://img.shields.io/github/stars/RonnyValdivieso/ngx-json-editor) ![GitHub last commit](https://img.shields.io/github/last-commit/RonnyValdivieso/ngx-json-editor)](https://github.com/RonnyValdivieso/ngx-json-editor) - A minimal, themeable JSON editor for Angular.
 
 ### File Upload
 
