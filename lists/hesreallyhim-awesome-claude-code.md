@@ -49,7 +49,7 @@
   - [Config Managers](#config-managers)
 - [Status Lines 📊](#status-lines-)
   - [General](#general-3)
-- [Hooks ���](#hooks-)
+- [Hooks 🪝](#hooks-)
   - [General](#general-4)
 - [Slash-Commands 🔪](#slash-commands-)
   - [General](#general-5)
