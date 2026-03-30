@@ -1538,6 +1538,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-reactive-forms-utils ![GitHub Repo Stars](https://img.shields.io/github/stars/pjlamb12/ngx-reactive-forms-utils) ![GitHub last commit](https://img.shields.io/github/last-commit/pjlamb12/ngx-reactive-forms-utils)](https://github.com/pjlamb12/ngx-reactive-forms-utils) - Utilities to assist in the use of reactive Angular forms.
 * [ngx-entity-forms ![GitHub Repo Stars](https://img.shields.io/github/stars/irvrodflo/ngx-entity-form) ![GitHub last commit](https://img.shields.io/github/last-commit/irvrodflo/ngx-entity-form)](https://github.com/irvrodflo/ngx-entity-form) - Generates fully typed Angular FormGroups from your entity interface, complete with autocompletion, validation, and error messages.
 * [ngx-form-draft ![GitHub Repo Stars](https://img.shields.io/github/stars/neokyuubi/ngx-form-draft) ![GitHub last commit](https://img.shields.io/github/last-commit/neokyuubi/ngx-form-draft)](https://github.com/neokyuubi/ngx-form-draft) - Zero-dependency Angular form draft auto-save and restore.
+* [ngx-signal-forms ![GitHub Repo Stars](https://img.shields.io/github/stars/lorenzomusche/ngx-signal-forms) ![GitHub last commit](https://img.shields.io/github/last-commit/lorenzomusche/ngx-signal-forms)](https://github.com/lorenzomusche/ngx-signal-forms) - A signal‑driven, type‑safe Angular form library built on the experimental Signal Forms API with modern M3 styling.
 
 ### Form Controls
 
@@ -1859,6 +1860,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-vertex ![GitHub Repo Stars](https://img.shields.io/github/stars/pjlamb12/ngx-vertex) ![GitHub last commit](https://img.shields.io/github/last-commit/pjlamb12/ngx-vertex)](https://github.com/pjlamb12/ngx-vertex) - Designed to assist in creating and managing a directed acyclic graph model in an Angular application.
 * [telperion ![GitHub Repo Stars](https://img.shields.io/github/stars/telperiontech/telperion) ![GitHub last commit](https://img.shields.io/github/last-commit/telperiontech/telperion)](https://github.com/telperiontech/telperion) - A collection of high-quality, framework-independent utilities and tools for modern web development, including [ng-pack ![GitHub Repo Stars](https://img.shields.io/github/stars/telperiontech/telperion) ![GitHub last commit](https://img.shields.io/github/last-commit/telperiontech/telperion)](https://github.com/telperiontech/telperion/tree/main/libs/ng-pack).
 * [signality ![GitHub Repo Stars](https://img.shields.io/github/stars/signalityjs/signality) ![GitHub last commit](https://img.shields.io/github/last-commit/signalityjs/signality)](https://github.com/signalityjs/signality) - A collection of atomic utilities for building reactive compositions in Angular.
+* [@alvaromarinho/libs ![GitHub Repo Stars](https://img.shields.io/github/stars/alvaromarinho/libs) ![GitHub last commit](https://img.shields.io/github/last-commit/alvaromarinho/libs)](https://github.com/alvaromarinho/libs) - A collection of Angular libraries for common UI needs, compatible with Angular 14+.
 
 ### Modals
 
