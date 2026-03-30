@@ -682,7 +682,7 @@ Language: English
 
 ### JavaScript
 
-[TypeScript��](#typescript)
+[TypeScript↴](#typescript)
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/deno.webp">
 
