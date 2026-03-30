@@ -675,7 +675,7 @@ Its technology helps developers automate testing, find bugs, and reduce manual l
 
 - [Spoon](https://spoon.gforge.inria.fr) — Spoon is a metaprogramming library to analyze and transform Java source code (incl Java 9, 10, 11, 12, 13, 14). It parses source files to build a well-designed AST with powerful analysis and transformation API. Can be integrated in Maven and Gradle.
 
-- [SpotBugs](https://spotbugs.github.io) ��� SpotBugs is FindBugs' successor. A tool for static analysis to look for bugs in Java code.
+- [SpotBugs](https://spotbugs.github.io) — SpotBugs is FindBugs' successor. A tool for static analysis to look for bugs in Java code.
 
 - **steady** :warning: — Analyses your Java applications for open-source dependencies with known vulnerabilities, using both static analysis and testing to determine code context and usage for greater accuracy.
 
