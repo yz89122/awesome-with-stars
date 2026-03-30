@@ -37,6 +37,7 @@ With the power of the latest artificial intelligence research, people analyze & 
 - 🌟 [ATLAS ![GitHub Repo Stars](https://img.shields.io/github/stars/chrisworsey55/atlas-gic) ![GitHub last commit](https://img.shields.io/github/last-commit/chrisworsey55/atlas-gic)](https://github.com/chrisworsey55/atlas-gic) - Self-improving AI trading system with 25 agents, Karpathy-style autoresearch, Darwinian selection, autonomous agent spawning, and multi-cohort meta-weighting.
 - [InvicTrade](https://invictrade.com) - AI-powered trading signals with 74% historical win rate, combining strategies from legendary investors using multi-model AI intelligence.
 - [OpenFinClaw ![GitHub Repo Stars](https://img.shields.io/github/stars/cryptoSUN2049/openFinclaw) ![GitHub last commit](https://img.shields.io/github/last-commit/cryptoSUN2049/openFinclaw)](https://github.com/cryptoSUN2049/openFinclaw) - AI-native one-person hedge fund platform. Expert agent teams turn natural language into quant strategies in 60s. Multi-market (US/HK/CN/Crypto), self-evolving strategy pipeline with community leaderboard.
+- [ProfitPlay Agent Arena ![GitHub Repo Stars](https://img.shields.io/github/stars/jarvismaximum-hue/profitplay-starter) ![GitHub last commit](https://img.shields.io/github/last-commit/jarvismaximum-hue/profitplay-starter)](https://github.com/jarvismaximum-hue/profitplay-starter) - Open prediction market arena where AI agents compete in real-time BTC/ETH/SOL prediction games. Python and Node.js SDKs, 9 live markets, REST + WebSocket APIs.
 
 ## LLMs
 
@@ -158,7 +159,7 @@ Price and Volume process with Technology Analysis Indices
 - [Gekko-Strategies ![GitHub Repo Stars](https://img.shields.io/github/stars/xFFFFF/Gekko-Strategies) ![GitHub last commit](https://img.shields.io/github/last-commit/xFFFFF/Gekko-Strategies)](https://github.com/xFFFFF/Gekko-Strategies) - Strategies to Gekko trading bot with backtests results and some useful tools.
 - [gekko-gannswing ![GitHub Repo Stars](https://img.shields.io/github/stars/johndoe75/gekko-gannswing) ![GitHub last commit](https://img.shields.io/github/last-commit/johndoe75/gekko-gannswing)](https://github.com/johndoe75/gekko-gannswing) - Gann's Swing trade strategy for Gekko trade bot.
 - [Chartscout](https://chartscout.io) - Real-time cryptocurrency chart pattern detection with automated alerts using pattern recognition algorithms
-
+* [MarginSafe.ai](https://marginsafe.ai) - AI stock analysis platform specialized in intrinsic value and Wyckoff timing.
 
 ### Lottery & Gamble
 
@@ -218,7 +219,7 @@ Price and Volume process with Technology Analysis Indices
 - [zvt ![GitHub Repo Stars](https://img.shields.io/github/stars/zvtvz/zvt) ![GitHub last commit](https://img.shields.io/github/last-commit/zvtvz/zvt)](https://github.com/zvtvz/zvt) - Zero vector trader.
 - [WFGY ![GitHub Repo Stars](https://img.shields.io/github/stars/onestardao/WFGY) ![GitHub last commit](https://img.shields.io/github/last-commit/onestardao/WFGY)](https://github.com/onestardao/WFGY) – Open source framework for debugging and stress testing LLM agents and RAG pipelines. Includes a 16 mode failure map and long-horizon stress tests that are useful for financial research agents.
 - [ChainPulse ![GitHub Repo Stars](https://img.shields.io/github/stars/Bortlesboat/chainpulse) ![GitHub last commit](https://img.shields.io/github/last-commit/Bortlesboat/chainpulse)](https://github.com/Bortlesboat/chainpulse) - AI-powered Bitcoin network intelligence CLI for natural language queries on mempool, fees, blocks, and mining analysis.
-
+- [CRNG ![GitHub Repo Stars](https://img.shields.io/github/stars/brotto/crng) ![GitHub last commit](https://img.shields.io/github/last-commit/brotto/crng)](https://github.com/brotto/crng) - Contingency RNG, generates random numbers with real market fat tails (K=5-220) and volatility clustering. Matches 86% of real market metrics vs 14% for NumPy. Includes regime detector.
 
 ## Trading System
 

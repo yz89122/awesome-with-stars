@@ -468,6 +468,7 @@ _Libraries for validating data. Used for forms in many cases._
 - [jsonschema ![GitHub Repo Stars](https://img.shields.io/github/stars/python-jsonschema/jsonschema) ![GitHub last commit](https://img.shields.io/github/last-commit/python-jsonschema/jsonschema)](https://github.com/python-jsonschema/jsonschema) - An implementation of [JSON Schema](http://json-schema.org/) for Python.
 - [pandera ![GitHub Repo Stars](https://img.shields.io/github/stars/unionai-oss/pandera) ![GitHub last commit](https://img.shields.io/github/last-commit/unionai-oss/pandera)](https://github.com/unionai-oss/pandera) - A data validation library for dataframes, with support for pandas, polars, and Spark.
 - [pydantic ![GitHub Repo Stars](https://img.shields.io/github/stars/pydantic/pydantic) ![GitHub last commit](https://img.shields.io/github/last-commit/pydantic/pydantic)](https://github.com/pydantic/pydantic) - Data validation using Python type hints.
+- [voluptuous ![GitHub Repo Stars](https://img.shields.io/github/stars/alecthomas/voluptuous) ![GitHub last commit](https://img.shields.io/github/last-commit/alecthomas/voluptuous)](https://github.com/alecthomas/voluptuous) - A Python data validation library primarily intended for validating data from untrusted sources.
 
 ## Data Visualization
 

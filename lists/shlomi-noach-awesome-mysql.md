@@ -128,6 +128,7 @@ This list accepts and encourages pull requests. See [CONTRIBUTING ![GitHub Repo 
 - [Skeema ![GitHub Repo Stars](https://img.shields.io/github/stars/skeema/skeema) ![GitHub last commit](https://img.shields.io/github/last-commit/skeema/skeema)](https://github.com/skeema/skeema) - Declarative pure-SQL schema management system for MySQL and MariaDB, with support for sharding and external online schema change tools
 - [SQLE ![GitHub Repo Stars](https://img.shields.io/github/stars/actiontech/sqle) ![GitHub last commit](https://img.shields.io/github/last-commit/actiontech/sqle)](https://github.com/actiontech/sqle/blob/main/README_en.md) - SQLE is a SQL audit platform for DBA or developer
 - [Test database ![GitHub Repo Stars](https://img.shields.io/github/stars/datacharmer/test_db) ![GitHub last commit](https://img.shields.io/github/last-commit/datacharmer/test_db)](https://github.com/datacharmer/test_db) - A sample MySQL database with an integrated test suite, used to test applications and servers
+- [cover_me ![GitHub Repo Stars](https://img.shields.io/github/stars/verizonconnect/database-development) ![GitHub last commit](https://img.shields.io/github/last-commit/verizonconnect/database-development)](https://github.com/verizonconnect/database-development) - code coverage tool for mysql stored procedures and functions
 
 ## GUI
 
