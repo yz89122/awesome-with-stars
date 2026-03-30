@@ -55,6 +55,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 ![Open-Source Software][OSS Icon] means **open source**. click the icon to see the item's repository;\
 ![Freeware][Freeware Icon] means **free** to use, or **free** personal license;\
 ![App Store][app-store Icon] means **App store** hyperlink;\
+![Native App][Native Icon] means **native app**;\
 ![Awesome List][awesome-list Icon] means hyperlink to a corresponding **Awesome list** for the item;
 
 ✦ My macOS application:
@@ -585,7 +586,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Studio 3T](https://studio3t.com/) - the Ultimate GUI for MongoDB. ![Freeware][Freeware Icon]
 * [SurrealDB ![GitHub Repo Stars](https://img.shields.io/github/stars/surrealdb/surrealdb) ![GitHub last commit](https://img.shields.io/github/last-commit/surrealdb/surrealdb)](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web. [![Open-Source Software][oss icon]](https://github.com/surrealdb/surrealdb)
 * [TablePlus](https://tableplus.io) - Supports: PostgreSQL, MySQL, RedShift, MariaDB... High-end security ensured.
-* [TablePro ![GitHub Repo Stars](https://img.shields.io/github/stars/datlechin/TablePro) ![GitHub last commit](https://img.shields.io/github/last-commit/datlechin/TablePro)](https://github.com/datlechin/TablePro) - Fast database client with AI-assisted SQL editing and support for major SQL/NoSQL engines. [![Open-Source Software][OSS Icon]](https://github.com/datlechin/TablePro) ![Freeware][Freeware Icon]
+* [TablePro ![GitHub Repo Stars](https://img.shields.io/github/stars/datlechin/TablePro) ![GitHub last commit](https://img.shields.io/github/last-commit/datlechin/TablePro)](https://github.com/datlechin/TablePro) - Fast database client with AI-assisted SQL editing and support for major SQL/NoSQL engines. [![Open-Source Software][OSS Icon]](https://github.com/datlechin/TablePro) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [TrailBase](https://trailbase.io) - Open, sub-millisecond, single-executable FireBase alternative with type-safe APIs, notifications, builtin JS/TS runtime, auth & admin UI built on SQLite, Rust & V8. [![Open-Source Software][OSS Icon]](https://github.com/trailbaseio/trailbase)
 * [redis-pro ![GitHub Repo Stars](https://img.shields.io/github/stars/cmushroom/redis-pro) ![GitHub last commit](https://img.shields.io/github/last-commit/cmushroom/redis-pro)](https://github.com/cmushroom/redis-pro) - Small, easy to use Redis management, written with SwiftUI, support Dark mode. [![Open-Source Software][OSS Icon]](https://github.com/cmushroom/redis-pro) ![Freeware][Freeware Icon]
 
@@ -1073,6 +1074,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 ## Proxy and VPN Tools
 
 * [Algo ![GitHub Repo Stars](https://img.shields.io/github/stars/trailofbits/algo) ![GitHub last commit](https://img.shields.io/github/last-commit/trailofbits/algo)](https://github.com/trailofbits/algo) - Personal IPSEC VPN in the cloud. [![Open-Source Software][OSS Icon]](https://github.com/trailofbits/algo)
+* [ClashBar](https://clashbar.vercel.app/) - mihomo-powered menu bar proxy client. [![Open-Source Software][OSS Icon]](https://github.com/Sitoi/ClashBar) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [ClashX Guide](https://clashx.tech) - Comprehensive tutorials, tools, and troubleshooting guides for ClashX proxy on macOS. Features YAML validator, rule generator, and optimization tips. ![Freeware][Freeware Icon]
 * [Cloudflare WARP](https://1.1.1.1/) - Replaces the connection between your device and the Internet with a modern, optimized, protocol. ![Freeware][Freeware Icon]
 * [Hiddify ![GitHub Repo Stars](https://img.shields.io/github/stars/hiddify/hiddify-app) ![GitHub last commit](https://img.shields.io/github/last-commit/hiddify/hiddify-app)](https://github.com/hiddify/hiddify-app) - Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH etc.[![Open-Source Software][OSS Icon]](https://github.com/hiddify/hiddify-app) ![Freeware][Freeware Icon]
@@ -1565,6 +1567,7 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 [OSS Icon]: https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software"
 [Freeware Icon]: https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware"
 [app-store Icon]: https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software"
+[Native Icon]: https://jaywcjlove.github.io/sb/ico/min-native-app.svg "Native App"
 [awesome-list Icon]: https://jaywcjlove.github.io/sb/ico/min-awesome.svg "Awesome List"
 
 
