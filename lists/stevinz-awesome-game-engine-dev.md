@@ -231,7 +231,7 @@ _Info on topics necessary for designing and developing game engines._
     - 📚 [Art of Game Design](https://www.amazon.com/Art-Game-Design-Book-Lenses/dp/0123694965) - Teaches game design in an accessible manner.
     - 📚 [Game Programming Patterns](https://gameprogrammingpatterns.com) - Patterns found in games that make code easier to understand.
 - Developer Portals
-    - 🌎 [Game Developer](https://www.gamedeveloper.com) - Industry blogs, events, jobs, updates and more. Formerly _Gamasutra_.
+    - ��� [Game Developer](https://www.gamedeveloper.com) - Industry blogs, events, jobs, updates and more. Formerly _Gamasutra_.
     - 🌎 [GameDev.net](https://www.gamedev.net/) - Game dev forums, tutorials, blogs, projects, portfolios, and news.
     - 🌎 [GameFromScratch.com](https://gamefromscratch.com) - Game dev news, tutorials and much more.
     - 🌎 [itch.io](https://itch.io) - Game dev resources and platform to showcase / promote / buy & sell games.
@@ -470,7 +470,7 @@ _Language specific game engine development libraries / frameworks / code._
 - C++: Graphics - 2D
     - 🎉 [Blend2D ![GitHub Repo Stars](https://img.shields.io/github/stars/blend2d/blend2d) ![GitHub last commit](https://img.shields.io/github/last-commit/blend2d/blend2d)](https://github.com/blend2d/blend2d) - High-performance 2D vector graphics engine. [[Website](https://blend2d.com/)]
     - 🎉 [C++ Bitmap Library ![GitHub Repo Stars](https://img.shields.io/github/stars/ArashPartow/bitmap) ![GitHub last commit](https://img.shields.io/github/last-commit/ArashPartow/bitmap)](https://github.com/ArashPartow/bitmap) - Featured bitmap loading and manipulation library.
-    - 🎉 [QNanoPainter ![GitHub Repo Stars](https://img.shields.io/github/stars/QUItCoding/qnanopainter) ![GitHub last commit](https://img.shields.io/github/last-commit/QUItCoding/qnanopainter)](https://github.com/QUItCoding/qnanopainter) - OpenGL accelerated vector drawing library for _Qt_, powered by _NanoVG_.
+    - �� [QNanoPainter ![GitHub Repo Stars](https://img.shields.io/github/stars/QUItCoding/qnanopainter) ![GitHub last commit](https://img.shields.io/github/last-commit/QUItCoding/qnanopainter)](https://github.com/QUItCoding/qnanopainter) - OpenGL accelerated vector drawing library for _Qt_, powered by _NanoVG_.
     - 🎉 [Skia ![GitHub Repo Stars](https://img.shields.io/github/stars/google/skia) ![GitHub last commit](https://img.shields.io/github/last-commit/google/skia)](https://github.com/google/skia) - Complete 2D graphics library used in Chrome by _Google_. [[Website](https://skia.org)]
     - 🎉 [vg-renderer ![GitHub Repo Stars](https://img.shields.io/github/stars/jdryg/vg-renderer) ![GitHub last commit](https://img.shields.io/github/last-commit/jdryg/vg-renderer)](https://github.com/jdryg/vg-renderer) - 2D vector graphics renderer for _Bgfx_, based on ideas from _NanoVG_.
 - C++: Graphics - 3D

@@ -30,6 +30,7 @@ Browse and search the resources via the [GitHub Pages UI](https://inoue0426.gith
       - [Chemical-Protein Interaction](#chemical-protein-interaction)
       - [Protein-Protein Interaction](#protein-protein-interaction)
       - [Knowledge Graph](#knowledge-graph)
+      - [Gene Regulatory Network](#gene-regulatory-network)
     - [Clinical Trial](#clinical-trial)
   - [Benchmarks & Datasets](#benchmarks--datasets)
   - [API](#api)
@@ -72,6 +73,7 @@ Browse and search the resources via the [GitHub Pages UI](https://inoue0426.gith
 - [ChEBI](https://www.ebi.ac.uk/chebi/) — Database focused on small chemical compounds.
 - [ChEMBL](https://www.ebi.ac.uk/chembl/) — Bioactive molecules with drug-like properties.
 - [ChemSpider](http://www.chemspider.com/) — Chemical structure database.
+- [DrugTargetCommons](https://drugtargetcommons.fimm.fi/) — Community platform for curating and integrating experimental bioactivity data across drugs and targets.
 - [HMDB (Human Metabolome Database)](https://hmdb.ca/) — Comprehensive database of small molecule metabolites found in the human body.
 - [KEGG COMPOUND](https://www.genome.jp/kegg/compound/) — Collection of small molecules and biopolymers.
 - [LIPID MAPS](https://www.lipidmaps.org/databases/lmsd/overview) — Database of lipids.
@@ -105,9 +107,13 @@ Browse and search the resources via the [GitHub Pages UI](https://inoue0426.gith
 - [RCSB Protein Data Bank](https://www.rcsb.org/) — Repository for structural data of biological molecules.
 - [Critical Assessment of Structure Prediction (CASP)](https://predictioncenter.org/) — Assessing methods for protein structure prediction.
 - [Uniclust](https://uniclust.mmseqs.com/) — Clustered protein sequence databases.
+- [UniRef](https://www.uniprot.org/uniref/) — Non-redundant sequence database clustering UniProtKB entries at multiple sequence identity thresholds.
 - [CATH database](https://www.cathdb.info/) — Hierarchical classification of protein domain structures.
 - [SAbDab](https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabdab) — Structural Antibody Database containing all antibody structures in the PDB.
 - [OADB (Observed Antibody Space Database)](http://opig.stats.ox.ac.uk/webapps/oas/) — Database of antibody sequences from immune repertoire sequencing.
+- [InterPro](https://www.ebi.ac.uk/interpro/) — Protein families, domains, and functional sites database integrating 14 member databases including Pfam and PROSITE.
+- [Pfam](https://www.ebi.ac.uk/interpro/entry/pfam/) — Database of protein families described by multiple sequence alignments and hidden Markov models.
+- [NeXtProt](https://www.nextprot.org/) — Expert knowledge base on human proteins with deep functional annotation, complementary to UniProt.
 
 ### Genome
 
@@ -125,6 +131,8 @@ Browse and search the resources via the [GitHub Pages UI](https://inoue0426.gith
 - [JASPAR](http://jaspar.genereg.net/) — Database of transcription factor binding profiles.
 - [gnomAD](https://gnomad.broadinstitute.org/) — Genome Aggregation Database; genetic variation from large-scale sequencing projects.
 - [Rfam](https://rfam.org/) — Database of RNA families with sequence alignments and consensus structures.
+- [ROADMAP Epigenomics](http://www.roadmapepigenomics.org/) — Reference epigenome maps for 111 primary human cell types and tissues, including histone modifications, chromatin accessibility, and DNA methylation.
+- [FANTOM5](https://fantom.gsc.riken.jp/5/) — Functional annotation of mammalian genome; comprehensive atlas of active enhancers, promoters, and transcription start sites across human and mouse cell types.
 
 ### Disease
 
@@ -132,6 +140,9 @@ Browse and search the resources via the [GitHub Pages UI](https://inoue0426.gith
 - [DrugBank](https://go.drugbank.com/) — Database of drugs and targets (University of Alberta).
 - [DisGeNET](https://www.disgenet.org/) — Database of gene-disease associations integrating expert-curated and GWAS data.
 - [OMIM (Online Mendelian Inheritance in Man)](https://www.omim.org/) — Comprehensive database of human genes and genetic disorders.
+- [Open Targets Platform](https://platform.opentargets.org/) — Systematic target identification and prioritization platform integrating genetics, genomics, and drug data for drug discovery.
+- [Human Phenotype Ontology (HPO)](https://hpo.jax.org/) — Standardized vocabulary of phenotypic abnormalities in human disease, linking genes, variants, and clinical features.
+- [DISEASES](https://diseases.jensenlab.org/) — Gene–disease association database integrating evidence from text mining, curated databases, and experimental data.
 
 ### Interaction
 
@@ -152,6 +163,8 @@ Browse and search the resources via the [GitHub Pages UI](https://inoue0426.gith
 
 - [STITCH](http://stitch.embl.de/) — Chemical-protein interactions.
 - [BindingDB](https://www.bindingdb.org/rwd/bind/index.jsp) — Compounds and target database.
+- [Davis kinase inhibitors DB](http://staff.cs.utu.fi/~aijrinas/dti/) — Experimental kinase inhibitor binding affinity dataset for protein–ligand interaction research.
+- [Kinase Inhibitor Bioactivity Data (KIBA)](https://janeliascicomp.github.io/KIBA/) — Integrated bioactivity scores for kinase inhibitors combining Ki, Kd, and IC50 measurements.
 - [PDBBind](https://www.pdbbind-plus.org.cn/) — Binding affinity data for biomolecular complexes.
 
 #### Protein-Protein Interaction
@@ -167,6 +180,12 @@ Browse and search the resources via the [GitHub Pages UI](https://inoue0426.gith
 - [DRKG ![GitHub Repo Stars](https://img.shields.io/github/stars/gnn4dr/DRKG) ![GitHub last commit](https://img.shields.io/github/last-commit/gnn4dr/DRKG)](https://github.com/gnn4dr/DRKG) — Large-scale biological knowledge graph for drug discovery.
 - [Hetionet ![GitHub Repo Stars](https://img.shields.io/github/stars/hetio/hetionet) ![GitHub last commit](https://img.shields.io/github/last-commit/hetio/hetionet)](https://github.com/hetio/hetionet) — Heterogeneous network integrating genes, diseases, drugs, pathways, and more.
 - [PrimeKG ![GitHub Repo Stars](https://img.shields.io/github/stars/mims-harvard/PrimeKG) ![GitHub last commit](https://img.shields.io/github/last-commit/mims-harvard/PrimeKG)](https://github.com/mims-harvard/PrimeKG) — Multi-modal precision medicine knowledge graph integrating clinical, genetic, and drug data.
+
+#### Gene Regulatory Network
+
+- [TRRUST](https://www.grnpedia.org/trrust/) — Manually curated database of human and mouse transcriptional regulatory interactions between transcription factors and their target genes.
+- [RegNetwork](http://www.regnetworkweb.org/) — Database of gene regulatory networks covering transcription factor–target gene and miRNA–gene interaction data across multiple species.
+- [miRBase](https://www.mirbase.org/) — Reference repository for microRNA gene annotations, sequences, and experimentally validated targets.
 
 ### Clinical Trial
 
@@ -197,6 +216,7 @@ Browse and search the resources via the [GitHub Pages UI](https://inoue0426.gith
 - [OGB (Open Graph Benchmark)](https://ogb.stanford.edu/) — Large-scale graph ML benchmark suite including biological datasets such as ogbl-ppa (protein-protein associations) and ogbg-molhiv.
 - [OpenBioLink ![GitHub Repo Stars](https://img.shields.io/github/stars/OpenBioLink/OpenBioLink) ![GitHub last commit](https://img.shields.io/github/last-commit/OpenBioLink/OpenBioLink)](https://github.com/OpenBioLink/OpenBioLink) — Benchmark datasets for biological knowledge graph completion.
 - [PharmGKB](https://www.pharmgkb.org/) — Curated pharmacogenomics dataset linking genetic variants to drug response phenotypes across thousands of drugs.
+- [PK-DB](https://pk-db.com/) — Open database of experimental pharmacokinetics (PK) and ADME data from clinical and preclinical studies.
 - [PRISM](https://depmap.org/portal/prism/) — Cancer drug sensitivity profiling of >4,500 drugs across >900 cancer cell lines using pooled-cell-line barcoding.
 - [ProteinGym ![GitHub Repo Stars](https://img.shields.io/github/stars/OATML-Markslab/ProteinGym) ![GitHub last commit](https://img.shields.io/github/last-commit/OATML-Markslab/ProteinGym)](https://github.com/OATML-Markslab/ProteinGym) — Large-scale benchmark of deep mutational scanning assays for evaluating protein fitness landscape models.
 - [QM9](https://figshare.com/collections/Quantum_chemistry_structures_and_properties_of_134_kilo_molecules/978904) — Quantum chemistry properties for 134K stable small organic molecules computed at DFT level.
@@ -242,6 +262,13 @@ Browse and search the resources via the [GitHub Pages UI](https://inoue0426.gith
 - [MDAnalysis](https://www.mdanalysis.org/) — Python library for analyzing and altering molecular dynamics simulation trajectories.
 - [OpenMM](https://openmm.org/) — High-performance toolkit for molecular simulation and GPU-accelerated MD.
 - [scVelo ![GitHub Repo Stars](https://img.shields.io/github/stars/theislab/scvelo) ![GitHub last commit](https://img.shields.io/github/last-commit/theislab/scvelo)](https://github.com/theislab/scvelo) — RNA velocity estimation for single-cell transcriptomics, inferring the direction and speed of cell differentiation.
+- [STAR ![GitHub Repo Stars](https://img.shields.io/github/stars/alexdobin/STAR) ![GitHub last commit](https://img.shields.io/github/last-commit/alexdobin/STAR)](https://github.com/alexdobin/STAR) — Ultrafast universal RNA-seq aligner with support for spliced alignment and single-cell quantification via STARsolo.
+- [kallisto](https://pachterlab.github.io/kallisto/) — Near-optimal RNA-seq quantification using pseudoalignment for fast transcript abundance estimation.
+- [Harmony ![GitHub Repo Stars](https://img.shields.io/github/stars/immunogenomics/harmony) ![GitHub last commit](https://img.shields.io/github/last-commit/immunogenomics/harmony)](https://github.com/immunogenomics/harmony) — Fast and scalable integration of single-cell data across datasets, conditions, technologies, and species.
+- [Monocle3](https://cole-trapnell-lab.github.io/monocle3/) — Single-cell trajectory analysis tool for learning developmental trajectories and ordering cells in pseudotime.
+- [CellChat ![GitHub Repo Stars](https://img.shields.io/github/stars/sqjin/CellChat) ![GitHub last commit](https://img.shields.io/github/last-commit/sqjin/CellChat)](https://github.com/sqjin/CellChat) — Inference and analysis of cell-cell communication ligand-receptor networks from single-cell transcriptomics data.
+- [SCENIC ![GitHub Repo Stars](https://img.shields.io/github/stars/aertslab/SCENIC) ![GitHub last commit](https://img.shields.io/github/last-commit/aertslab/SCENIC)](https://github.com/aertslab/SCENIC) — Single-cell regulatory network inference and clustering linking transcription factors to co-expressed gene modules.
+- [DoubletFinder ![GitHub Repo Stars](https://img.shields.io/github/stars/chris-mcginnis-ucsf/DoubletFinder) ![GitHub last commit](https://img.shields.io/github/last-commit/chris-mcginnis-ucsf/DoubletFinder)](https://github.com/chris-mcginnis-ucsf/DoubletFinder) — Machine learning approach for detecting multiplet (doublet) artifacts in single-cell RNA-seq data.
 
 ---
 
@@ -257,6 +284,8 @@ Browse and search the resources via the [GitHub Pages UI](https://inoue0426.gith
 - [DGDRP ![GitHub Repo Stars](https://img.shields.io/github/stars/minwoopak/heteronet) ![GitHub last commit](https://img.shields.io/github/last-commit/minwoopak/heteronet)](https://github.com/minwoopak/heteronet) — Multi-view embedding neural network.
 - [DeepAEG ![GitHub Repo Stars](https://img.shields.io/github/stars/zhejiangzhuque/DeepAEG) ![GitHub last commit](https://img.shields.io/github/last-commit/zhejiangzhuque/DeepAEG)](https://github.com/zhejiangzhuque/DeepAEG) — GNN embedding + attention mechanism.
 - [RECOVER ![GitHub Repo Stars](https://img.shields.io/github/stars/RECOVERcoalition/Recover) ![GitHub last commit](https://img.shields.io/github/last-commit/RECOVERcoalition/Recover)](https://github.com/RECOVERcoalition/Recover) — Machine learning framework for predicting synergistic drug combination responses across cell lines.
+- [TGSA ![GitHub Repo Stars](https://img.shields.io/github/stars/violet-sto/TGSA) ![GitHub last commit](https://img.shields.io/github/last-commit/violet-sto/TGSA)](https://github.com/violet-sto/TGSA) — Tumor gene set and attention-based model leveraging biological pathway knowledge for drug response prediction.
+- [HiDRA ![GitHub Repo Stars](https://img.shields.io/github/stars/bsml320/HiDRA) ![GitHub last commit](https://img.shields.io/github/last-commit/bsml320/HiDRA)](https://github.com/bsml320/HiDRA) — Hierarchical network model incorporating gene and pathway-level information for cancer drug response prediction.
 
 #### Drug Repurposing
 
@@ -283,6 +312,7 @@ Browse and search the resources via the [GitHub Pages UI](https://inoue0426.gith
 - [Molecular Transformer ![GitHub Repo Stars](https://img.shields.io/github/stars/pschwllr/MolecularTransformer) ![GitHub last commit](https://img.shields.io/github/last-commit/pschwllr/MolecularTransformer)](https://github.com/pschwllr/MolecularTransformer) — Sequence-to-sequence model for retrosynthesis prediction.
 - [TargetDiff ![GitHub Repo Stars](https://img.shields.io/github/stars/guanjq/targetdiff) ![GitHub last commit](https://img.shields.io/github/last-commit/guanjq/targetdiff)](https://github.com/guanjq/targetdiff) — 3D equivariant diffusion model for structure-based drug design.
 - [DiffDock ![GitHub Repo Stars](https://img.shields.io/github/stars/gcorso/DiffDock) ![GitHub last commit](https://img.shields.io/github/last-commit/gcorso/DiffDock)](https://github.com/gcorso/DiffDock) — Diffusion generative model for molecular docking, predicting the binding pose of small molecules to protein targets.
+- [JTVAE ![GitHub Repo Stars](https://img.shields.io/github/stars/wengong-jin/icml18-jtnn) ![GitHub last commit](https://img.shields.io/github/last-commit/wengong-jin/icml18-jtnn)](https://github.com/wengong-jin/icml18-jtnn) — Junction tree variational autoencoder for molecular graph generation that guarantees chemical validity via a hierarchical tree decomposition.
 
 ### LLM for Biology
 
@@ -293,6 +323,8 @@ Browse and search the resources via the [GitHub Pages UI](https://inoue0426.gith
 - [scPRINT ![GitHub Repo Stars](https://img.shields.io/github/stars/cantinilab/scPRINT) ![GitHub last commit](https://img.shields.io/github/last-commit/cantinilab/scPRINT)](https://github.com/cantinilab/scPRINT) — Pretrained on 50M cells for scRNA-seq denoising & zero imputation.
 - [ClawBio ![GitHub Repo Stars](https://img.shields.io/github/stars/ClawBio/ClawBio) ![GitHub last commit](https://img.shields.io/github/last-commit/ClawBio/ClawBio)](https://github.com/ClawBio/ClawBio) — Bioinformatics-native AI agent skill library with local-first pharmacogenomics, ancestry PCA, semantic similarity, nutrigenomics, and metagenomics skills.
 - [BioMedLM](https://huggingface.co/stanford-crfm/BioMedLM) — 2.7B parameter GPT-2-style language model trained exclusively on biomedical literature from PubMed for biomedical question answering and text generation.
+- [MolT5 ![GitHub Repo Stars](https://img.shields.io/github/stars/blender-nlp/MolT5) ![GitHub last commit](https://img.shields.io/github/last-commit/blender-nlp/MolT5)](https://github.com/blender-nlp/MolT5) — Language model for molecular tasks bridging text and SMILES, enabling molecule captioning and text-driven molecule generation.
+- [ChatDrug ![GitHub Repo Stars](https://img.shields.io/github/stars/chao1224/ChatDrug) ![GitHub last commit](https://img.shields.io/github/last-commit/chao1224/ChatDrug)](https://github.com/chao1224/ChatDrug) — LLM-based conversational pipeline for drug discovery, using natural language prompts for iterative drug editing and optimization.
 
 ### Foundation Models
 
@@ -342,6 +374,9 @@ Browse and search the resources via the [GitHub Pages UI](https://inoue0426.gith
 
 - [Evolutionary Scale Modeling (ESM) ![GitHub Repo Stars](https://img.shields.io/github/stars/facebookresearch/esm) ![GitHub last commit](https://img.shields.io/github/last-commit/facebookresearch/esm)](https://github.com/facebookresearch/esm) — Protein embeddings.
 - [ChemBERTa-2 ![GitHub Repo Stars](https://img.shields.io/github/stars/seyonechithrananda/bert-loves-chemistry) ![GitHub last commit](https://img.shields.io/github/last-commit/seyonechithrananda/bert-loves-chemistry)](https://github.com/seyonechithrananda/bert-loves-chemistry) — Chemical embeddings & prediction.
+- [ProtTrans ![GitHub Repo Stars](https://img.shields.io/github/stars/agemagician/ProtTrans) ![GitHub last commit](https://img.shields.io/github/last-commit/agemagician/ProtTrans)](https://github.com/agemagician/ProtTrans) — Suite of protein language models (ProtBERT, ProtT5, ProtXLNet) trained on billions of protein sequences from UniRef and BFD.
+- [ProGen2 ![GitHub Repo Stars](https://img.shields.io/github/stars/salesforce/progen) ![GitHub last commit](https://img.shields.io/github/last-commit/salesforce/progen)](https://github.com/salesforce/progen) — Protein language model trained on diverse protein families for sequence generation and fitness prediction.
+- [Ankh ![GitHub Repo Stars](https://img.shields.io/github/stars/agemagician/Ankh) ![GitHub last commit](https://img.shields.io/github/last-commit/agemagician/Ankh)](https://github.com/agemagician/Ankh) — Efficient protein language model optimized for downstream prediction tasks including secondary structure, localization, and function annotation.
 
 ##### Protein Structure Prediction and Design
 
@@ -367,12 +402,15 @@ Browse and search the resources via the [GitHub Pages UI](https://inoue0426.gith
 
 - [Nucleotide Transformer ![GitHub Repo Stars](https://img.shields.io/github/stars/instadeepai/nucleotide-transformer) ![GitHub last commit](https://img.shields.io/github/last-commit/instadeepai/nucleotide-transformer)](https://github.com/instadeepai/nucleotide-transformer) — Foundation model for genomic sequences across multiple species.
 - [DNABERT ![GitHub Repo Stars](https://img.shields.io/github/stars/jerryji1993/DNABERT) ![GitHub last commit](https://img.shields.io/github/last-commit/jerryji1993/DNABERT)](https://github.com/jerryji1993/DNABERT) — Pre-trained bidirectional encoder for DNA sequence analysis.
-- [DNABERT-2 ![GitHub Repo Stars](https://img.shields.io/github/stars/Zhihan1996/DNABERT_2) ![GitHub last commit](https://img.shields.io/github/last-commit/Zhihan1996/DNABERT_2)](https://github.com/Zhihan1996/DNABERT_2) — Improved genome foundation model with efficient tokenization.
+- [DNABERT-2 ![GitHub Repo Stars](https://img.shields.io/github/stars/Zhihan1996/DNABERT_2) ![GitHub last commit](https://img.shields.io/github/last-commit/Zhihan1996/DNABERT_2)](https://github.com/Zhihan1996/DNABERT_2) ��� Improved genome foundation model with efficient tokenization.
 - [Enformer ![GitHub Repo Stars](https://img.shields.io/github/stars/deepmind/deepmind-research) ![GitHub last commit](https://img.shields.io/github/last-commit/deepmind/deepmind-research)](https://github.com/deepmind/deepmind-research/tree/master/enformer) — Transformer model predicting gene expression from DNA sequence.
 - [Basenji ![GitHub Repo Stars](https://img.shields.io/github/stars/calico/basenji) ![GitHub last commit](https://img.shields.io/github/last-commit/calico/basenji)](https://github.com/calico/basenji) — Sequential regulatory activity prediction from DNA sequences.
 - [Caduceus ![GitHub Repo Stars](https://img.shields.io/github/stars/kuleshov-group/caduceus) ![GitHub last commit](https://img.shields.io/github/last-commit/kuleshov-group/caduceus)](https://github.com/kuleshov-group/caduceus) — Bidirectional equivariant long-range DNA sequence model based on Mamba.
 - [Evo ![GitHub Repo Stars](https://img.shields.io/github/stars/evo-design/evo) ![GitHub last commit](https://img.shields.io/github/last-commit/evo-design/evo)](https://github.com/evo-design/evo) — Long-context genomic foundation model (up to 1M tokens).
 - [HyenaDNA ![GitHub Repo Stars](https://img.shields.io/github/stars/HazyResearch/hyena-dna) ![GitHub last commit](https://img.shields.io/github/last-commit/HazyResearch/hyena-dna)](https://github.com/HazyResearch/hyena-dna) — Long-range genomic foundation model handling sequences up to 1M tokens with sub-quadratic attention.
 - [Borzoi ![GitHub Repo Stars](https://img.shields.io/github/stars/calico/borzoi) ![GitHub last commit](https://img.shields.io/github/last-commit/calico/borzoi)](https://github.com/calico/borzoi) — Extended successor to Enformer for predicting RNA-seq coverage from long genomic sequence windows (524 kb) with improved resolution.
+- [DeepSEA](http://deepsea.princeton.edu/) — Deep learning framework for predicting chromatin effects of sequence alterations with single-nucleotide sensitivity across thousands of chromatin features.
+- [Sei ![GitHub Repo Stars](https://img.shields.io/github/stars/FunctionLab/sei-framework) ![GitHub last commit](https://img.shields.io/github/last-commit/FunctionLab/sei-framework)](https://github.com/FunctionLab/sei-framework) — Sequence-to-function framework learning a genome-wide regulatory activity code from DNA sequences for variant effect prediction.
+- [GPN (Genomic Pre-trained Network) ![GitHub Repo Stars](https://img.shields.io/github/stars/songlab-cal/gpn) ![GitHub last commit](https://img.shields.io/github/last-commit/songlab-cal/gpn)](https://github.com/songlab-cal/gpn) — Masked language model for DNA sequences enabling zero-shot variant effect prediction without requiring functional annotations.
 
 ---
