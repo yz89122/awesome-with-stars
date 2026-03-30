@@ -122,6 +122,7 @@
 - [Pretch ![GitHub Repo Stars](https://img.shields.io/github/stars/EGAMAGZ/pretch) ![GitHub last commit](https://img.shields.io/github/last-commit/EGAMAGZ/pretch)](https://github.com/EGAMAGZ/pretch) - A lightweight and flexible fetch enhancement library that works with vanilla JavaScript, React, and Preact
 - [Formisch](https://formisch.dev/preact/guides/introduction/) - A form library for Preact with focus on performance, type safety and bundle size.
 - [zikofy ![GitHub Repo Stars](https://img.shields.io/github/stars/zakarialaoui10/zikofy) ![GitHub last commit](https://img.shields.io/github/last-commit/zakarialaoui10/zikofy)](https://github.com/zakarialaoui10/zikofy) - Turns Preact components into Zikojs `UIElement`.
+- [Preact In Motion ![GitHub Repo Stars](https://img.shields.io/github/stars/alloc/preact-in-motion) ![GitHub last commit](https://img.shields.io/github/last-commit/alloc/preact-in-motion)](https://github.com/alloc/preact-in-motion) - Light, elegant animation plugin for Preact (powered by Motion.dev and WAAPI).
 
 ### Testing Utils
 - [Preact JSX Chai ![GitHub Repo Stars](https://img.shields.io/github/stars/developit/preact-jsx-chai) ![GitHub last commit](https://img.shields.io/github/last-commit/developit/preact-jsx-chai)](https://github.com/developit/preact-jsx-chai) - JSX assertion testing _(no DOM, right in Node)_.
