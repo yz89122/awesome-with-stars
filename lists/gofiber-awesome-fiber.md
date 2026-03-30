@@ -169,11 +169,12 @@ Recipes for Fiber.
 
 Several tools to make Fiber usage easier.
 
-- [go-dawn/dawn ![GitHub Repo Stars](https://img.shields.io/github/stars/go-dawn/dawn) ![GitHub last commit](https://img.shields.io/github/last-commit/go-dawn/dawn)](https://github.com/go-dawn/dawn) - Dawn is an opinionated web framework that provides rapid development capabilities which on top of Fiber.
-- [tompston/gomakeme ![GitHub Repo Stars](https://img.shields.io/github/stars/tompston/gomakeme) ![GitHub last commit](https://img.shields.io/github/last-commit/tompston/gomakeme)](https://github.com/tompston/gomakeme) - Generate boilerplate + endpoints for Fiber or Gin REST APIs.
-- [ryanbekhen/feserve ![GitHub Repo Stars](https://img.shields.io/github/stars/ryanbekhen/feserve) ![GitHub last commit](https://img.shields.io/github/last-commit/ryanbekhen/feserve)](https://github.com/ryanbekhen/feserve) - Feserve is a lightweight application or Docker image to serve frontend and load balancer applications.
-- [deepmap/oapi-codegen ![GitHub Repo Stars](https://img.shields.io/github/stars/deepmap/oapi-codegen) ![GitHub last commit](https://img.shields.io/github/last-commit/deepmap/oapi-codegen)](https://github.com/deepmap/oapi-codegen) - Generate Go client and server boilerplate from OpenAPI 3 specifications.
 - [Alibaba/opentelemetry-go-auto-instrumentation ![GitHub Repo Stars](https://img.shields.io/github/stars/alibaba/opentelemetry-go-auto-instrumentation) ![GitHub last commit](https://img.shields.io/github/last-commit/alibaba/opentelemetry-go-auto-instrumentation)](https://github.com/alibaba/opentelemetry-go-auto-instrumentation) - A tool to monitor fiber application without changing any code with OpenTelemetry APIs.
+- [deepmap/oapi-codegen ![GitHub Repo Stars](https://img.shields.io/github/stars/deepmap/oapi-codegen) ![GitHub last commit](https://img.shields.io/github/last-commit/deepmap/oapi-codegen)](https://github.com/deepmap/oapi-codegen) - Generate Go client and server boilerplate from OpenAPI 3 specifications.
+- [go-dawn/dawn ![GitHub Repo Stars](https://img.shields.io/github/stars/go-dawn/dawn) ![GitHub last commit](https://img.shields.io/github/last-commit/go-dawn/dawn)](https://github.com/go-dawn/dawn) - Dawn is an opinionated web framework that provides rapid development capabilities which on top of Fiber.
+- [MUlt1mate/protoc-gen-httpgo ![GitHub Repo Stars](https://img.shields.io/github/stars/MUlt1mate/protoc-gen-httpgo) ![GitHub last commit](https://img.shields.io/github/last-commit/MUlt1mate/protoc-gen-httpgo)](https://github.com/MUlt1mate/protoc-gen-httpgo) - A protoc plugin that generates Fiber HTTP server and client code from proto files.
+- [ryanbekhen/feserve ![GitHub Repo Stars](https://img.shields.io/github/stars/ryanbekhen/feserve) ![GitHub last commit](https://img.shields.io/github/last-commit/ryanbekhen/feserve)](https://github.com/ryanbekhen/feserve) - Feserve is a lightweight application or Docker image to serve frontend and load balancer applications.
+- [tompston/gomakeme ![GitHub Repo Stars](https://img.shields.io/github/stars/tompston/gomakeme) ![GitHub last commit](https://img.shields.io/github/last-commit/tompston/gomakeme)](https://github.com/tompston/gomakeme) - Generate boilerplate + endpoints for Fiber or Gin REST APIs.
 
 ## 📖 Articles
 
