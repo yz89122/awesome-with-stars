@@ -920,7 +920,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [FontGet](https://www.fontget.com/) - Has a variety of fonts available to download and sorted neatly with tags.
   * [fonts.xz.style](https://fonts.xz.style/) - free and open source service for delivering font families to websites using CSS.
   * [Fontsensei](https://fontsensei.com/) - Opensourced Google fonts tagged by users. With CJK (Chinese,Japanese, Korean) font tags.
-  * [Fontshare](https://www.fontshare.com/) - is a free fonts service. It��s a growing collection of professional-grade fonts, 100% free for personal and commercial use.
+  * [Fontshare](https://www.fontshare.com/) - is a free fonts service. It’s a growing collection of professional-grade fonts, 100% free for personal and commercial use.
   * [Google Fonts](https://fonts.google.com/) - Many free fonts are easy and quick to install on a website via a download or a link to Google's CDN.
 
 **[⬆️ Back to Top](#table-of-contents)**
