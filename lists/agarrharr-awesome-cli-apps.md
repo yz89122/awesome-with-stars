@@ -346,6 +346,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [journalot ![GitHub Repo Stars](https://img.shields.io/github/stars/jtaylortech/journalot) ![GitHub last commit](https://img.shields.io/github/last-commit/jtaylortech/journalot)](https://github.com/jtaylortech/journalot) - Journaling tool with git sync.
 - [rucola ![GitHub Repo Stars](https://img.shields.io/github/stars/Linus-Mussmaecher/rucola) ![GitHub last commit](https://img.shields.io/github/last-commit/Linus-Mussmaecher/rucola)](https://github.com/Linus-Mussmaecher/rucola) - Manage your markdown notes.
 - [kanban.bash ![GitHub Repo Stars](https://img.shields.io/github/stars/coderofsalvation/kanban.bash) ![GitHub last commit](https://img.shields.io/github/last-commit/coderofsalvation/kanban.bash)](https://github.com/coderofsalvation/kanban.bash) - Kanban todo manager with a CSV backend.
+- [kanban ![GitHub Repo Stars](https://img.shields.io/github/stars/fulsomenko/kanban) ![GitHub last commit](https://img.shields.io/github/last-commit/fulsomenko/kanban)](https://github.com/fulsomenko/kanban) - Keyboard-driven project management tool inspired by lazygit.
 
 ### Finance
 
