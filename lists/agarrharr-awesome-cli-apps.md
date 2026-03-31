@@ -789,6 +789,7 @@ Inclusion criteria are less strict for this fast-moving field.
 - [Sugar ![GitHub Repo Stars](https://img.shields.io/github/stars/roboticforce/sugar) ![GitHub last commit](https://img.shields.io/github/last-commit/roboticforce/sugar)](https://github.com/roboticforce/sugar) - Autonomous agent that queues and executes tasks in the background.
 - [Shep ![GitHub Repo Stars](https://img.shields.io/github/stars/shep-ai/cli) ![GitHub last commit](https://img.shields.io/github/last-commit/shep-ai/cli)](https://github.com/shep-ai/cli) - Multi-session SDLC control center for AI coding agents.
 - [InkOS ![GitHub Repo Stars](https://img.shields.io/github/stars/Narcooo/inkos) ![GitHub last commit](https://img.shields.io/github/last-commit/Narcooo/inkos)](https://github.com/Narcooo/inkos/blob/master/README.en.md) - Novel-writing agent.
+- [coi ![GitHub Repo Stars](https://img.shields.io/github/stars/mensfeld/code-on-incus) ![GitHub last commit](https://img.shields.io/github/last-commit/mensfeld/code-on-incus)](https://github.com/mensfeld/code-on-incus) - Incus container runtime for agents.
 
 ### LLM Interaction
 - [aye-chat ![GitHub Repo Stars](https://img.shields.io/github/stars/acrotron/aye-chat) ![GitHub last commit](https://img.shields.io/github/last-commit/acrotron/aye-chat)](https://github.com/acrotron/aye-chat) - Workspace for editing, running commands, and chatting with your codebase.
