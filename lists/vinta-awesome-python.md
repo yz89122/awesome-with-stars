@@ -250,7 +250,7 @@ _Libraries for building RESTful and GraphQL APIs._
 _ASGI and WSGI compatible web servers._
 
 - ASGI
-  - [daphne ![GitHub Repo Stars](https://img.shields.io/github/stars/django/daphne) ![GitHub last commit](https://img.shields.io/github/last-commit/django/daphne)](https://github.com/django/daphne) - A HTTP, HTTP2 and WebSocket protocol server for ASGI and ASGI-HTTP.
+  - [daphne ![GitHub Repo Stars](https://img.shields.io/github/stars/django/daphne) ![GitHub last commit](https://img.shields.io/github/last-commit/django/daphne)](https://github.com/django/daphne) - An HTTP, HTTP/2 and WebSocket protocol server for ASGI and ASGI-HTTP.
   - [granian ![GitHub Repo Stars](https://img.shields.io/github/stars/emmett-framework/granian) ![GitHub last commit](https://img.shields.io/github/last-commit/emmett-framework/granian)](https://github.com/emmett-framework/granian) - A Rust HTTP server for Python applications built on top of Hyper and Tokio, supporting WSGI/ASGI/RSGI.
   - [hypercorn ![GitHub Repo Stars](https://img.shields.io/github/stars/pgjones/hypercorn) ![GitHub last commit](https://img.shields.io/github/last-commit/pgjones/hypercorn)](https://github.com/pgjones/hypercorn) - An ASGI and WSGI Server based on Hyper libraries and inspired by Gunicorn.
   - [uvicorn ![GitHub Repo Stars](https://img.shields.io/github/stars/Kludex/uvicorn) ![GitHub last commit](https://img.shields.io/github/last-commit/Kludex/uvicorn)](https://github.com/Kludex/uvicorn) - A lightning-fast ASGI server implementation, using uvloop and httptools.
