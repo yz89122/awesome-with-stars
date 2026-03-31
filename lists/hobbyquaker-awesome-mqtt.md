@@ -154,6 +154,7 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 - [mqtt-stats ![GitHub Repo Stars](https://img.shields.io/github/stars/gambitcomminc/mqtt-stats) ![GitHub last commit](https://img.shields.io/github/last-commit/gambitcomminc/mqtt-stats)](https://github.com/gambitcomminc/mqtt-stats) - Subscriber client to monitor MQTT Topic Statistics.
 - [mqtt_monitor ![GitHub Repo Stars](https://img.shields.io/github/stars/filipsPL/mqtt-monitor) ![GitHub last commit](https://img.shields.io/github/last-commit/filipsPL/mqtt-monitor)](https://github.com/filipsPL/mqtt-monitor) - Simple and lightweight console moniotor for mqtt topics, with eye-candies, in python 3.
 - [mqttcommander ![GitHub Repo Stars](https://img.shields.io/github/stars/vroomfondel/mqttcommander) ![GitHub last commit](https://img.shields.io/github/last-commit/vroomfondel/mqttcommander)](https://github.com/vroomfondel/mqttcommander) - A console-based MQTT client and commander, especially useful for IoT, Tasmota, and Node-RED setups.
+- [mqttv5 ![GitHub Repo Stars](https://img.shields.io/github/stars/LabOverWire/mqtt-lib) ![GitHub last commit](https://img.shields.io/github/last-commit/LabOverWire/mqtt-lib)](https://github.com/LabOverWire/mqtt-lib) - Unified MQTT v5.0 CLI for publishing, subscribing, running a broker, and benchmarking with multi-transport support.
 
 ## Clients
 
