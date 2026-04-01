@@ -372,7 +372,7 @@ Python Libraries & Related Resources.
 - [TerraVide](https://pypi.org/project/TerraVide/) - An open source Python package to process large urban environments mapped with LiDAR (Light Detection and Ranging) data. As of v0.1.6, focuses on tree extraction.
 - [Dash](https://dash.plotly.com/) - An open source Python library for building interactive data visualizations on the web. It enables you to build custom data dashboards using pure Python.
 - [Neatnet ![GitHub Repo Stars](https://img.shields.io/github/stars/uscuni/neatnet) ![GitHub last commit](https://img.shields.io/github/last-commit/uscuni/neatnet)](https://github.com/uscuni/neatnet) - An open source library for simplifying the structure of street networks.
-- [Linref ![GitHub Repo Stars](https://img.shields.io/github/stars/tariqshihadah/linref) ![GitHub last commit](https://img.shields.io/github/last-commit/tariqshihadah/linref)](https://github.com/tariqshihadah/linref)- A library that builds on tabular and geospatial libraries pandas and geopandas to implement powerful features for linearly referenced data through event collection objects. 
+- [Linref ![GitHub Repo Stars](https://img.shields.io/github/stars/tariqshihadah/linref) ![GitHub last commit](https://img.shields.io/github/last-commit/tariqshihadah/linref)](https://github.com/tariqshihadah/linref) - A library that builds on tabular and geospatial libraries to implement powerful features for linearly referenced data through event collection objects. 
 
 
 
