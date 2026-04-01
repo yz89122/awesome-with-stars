@@ -407,7 +407,7 @@ The Go Workshop will take the pain out of learning the Go programming language (
 
 <a href="https://amzn.to/4r1FJdA"><img src="https://github.com/dariubs/GoBooks/raw/master/gobooks/covers/head-first-go.jpg" width="120px"/></a>
 
-Go makes it easy to build software that's simple, reliable, and efficient. Andthis book makes it easy for programmers like you to get started. Google designed Go for high-performance networking and multiprocessing, but—like Python and JavaScript—the language is easy to read and use. With this practical hands-on guide, you'll learn how to write Go code using clear examples that demonstrate the language in action. Best of all, you'll understand the conventions and techniques that employers want entry-level Go developers to know.
+Go makes it easy to build software that's simple, reliable, and efficient. Andthis book makes it easy for programmers like you to get started. Google designed Go for high-performance networking and multiprocessing, but���like Python and JavaScript—the language is easy to read and use. With this practical hands-on guide, you'll learn how to write Go code using clear examples that demonstrate the language in action. Best of all, you'll understand the conventions and techniques that employers want entry-level Go developers to know.
 
 -----
 
