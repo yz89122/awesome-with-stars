@@ -76,6 +76,7 @@ To enhance your WezTerm configuration experience:
 ## Themes
 
 - [neapsix/wezterm ![GitHub Repo Stars](https://img.shields.io/github/stars/neapsix/wezterm) ![GitHub last commit](https://img.shields.io/github/last-commit/neapsix/wezterm)](https://github.com/neapsix/wezterm) - Rosé Pine theme, all natural pine, faux fur and a bit of soho vibes.
+- [sravioli/kanagawa.wz ![GitHub Repo Stars](https://img.shields.io/github/stars/sravioli/kanagawa.wz) ![GitHub last commit](https://img.shields.io/github/last-commit/sravioli/kanagawa.wz)](https://github.com/sravioli/kanagawa.wz) - Kanagawa.nvim color schemes with Wave, Dragon, and Lotus variants.
 - [koh-sh/wezterm-theme-rotator ![GitHub Repo Stars](https://img.shields.io/github/stars/koh-sh/wezterm-theme-rotator) ![GitHub last commit](https://img.shields.io/github/last-commit/koh-sh/wezterm-theme-rotator)](https://github.com/koh-sh/wezterm-theme-rotator) - Cycle through built-in themes using keyboard shortcuts.
 
 ## Utility
@@ -87,4 +88,5 @@ To enhance your WezTerm configuration experience:
 - [lilaqua/tunicodes](https://gitlab.com/lilaqua/tunicodes) - Insert Unicode characters via their codepoints.
 - [zsh-sage/toggle_terminal.wez ![GitHub Repo Stars](https://img.shields.io/github/stars/zsh-sage/toggle_terminal.wez) ![GitHub last commit](https://img.shields.io/github/last-commit/zsh-sage/toggle_terminal.wez)](https://github.com/zsh-sage/toggle_terminal.wez) - An easy-to-use toggleable terminal window.
 - [quantonganh/quickselect.wezterm ![GitHub Repo Stars](https://img.shields.io/github/stars/quantonganh/quickselect.wezterm) ![GitHub last commit](https://img.shields.io/github/last-commit/quantonganh/quickselect.wezterm)](https://github.com/quantonganh/quickselect.wezterm) - Jump to the build error by opening them in Helix.
+- [sravioli/memo.wz ![GitHub Repo Stars](https://img.shields.io/github/stars/sravioli/memo.wz) ![GitHub last commit](https://img.shields.io/github/last-commit/sravioli/memo.wz)](https://github.com/sravioli/memo.wz) - Memoization, caching, and persistent state management.
 - [btrachey/wezterm-replay ![GitHub Repo Stars](https://img.shields.io/github/stars/btrachey/wezterm-replay) ![GitHub last commit](https://img.shields.io/github/last-commit/btrachey/wezterm-replay)](https://github.com/btrachey/wezterm-replay) - Parse command output and get URLs, shell commands, etc. pasted into your next prompt.
