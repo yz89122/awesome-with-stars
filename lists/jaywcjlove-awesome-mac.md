@@ -17,50 +17,12 @@
   <a href="https://ip.im/">IP.IM Free IP address information query website</a>
   <br><br>
 
-  <a href="https://www.warp.dev/awesome-mac">
-    <img alt="Warp sponsorship" width="400" src="https://jaywcjlove.github.io/sponsor/warp-banner.png">
-  </a>
-  <br>
-  <a href="https://warp.dev/awesome-mac"><b>Warp, the intelligent terminal for developers!</b></a><br>
-  <a href="https://warp.dev/awesome-mac">Available for MacOS, Linux, & Windows</a><br><br>
   
 </div>
 <hr>
 
-Awesome Mac
-===
-<!--rehype:style=font-size: 38px; border-bottom: 0; display: flex; min-height: 260px; align-items: center; justify-content: center;-->
-
-[![Buy me a coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-ffdd00?logo=buy-me-a-coffee&logoColor=black)](https://jaywcjlove.github.io/#/sponsor)
-[![Follow On X](https://img.shields.io/badge/Follow%20on%20X-333333?logo=x&logoColor=white)](https://x.com/jaywcjlove)
-[![Awesome](https://jaywcjlove.github.io/sb/ico/awesome.svg)](https://github.com/sindresorhus/awesome)
-[![NPM version](https://img.shields.io/npm/v/awesome-mac.svg?style=flat)](https://npmjs.org/package/awesome-mac)
-[![WeiBo](https://jaywcjlove.github.io/sb/ico/weibo.svg)](http://weibo.com/pc175)
-[![Docker Image Version (latest by date)](https://img.shields.io/docker/v/wcjiang/awesome-mac?logo=docker)](https://hub.docker.com/r/wcjiang/awesome-mac)
-[![Chinese List](https://jaywcjlove.github.io/sb/lang/chinese.svg)](README-zh.md)
-[![Japanese List](https://jaywcjlove.github.io/sb/lang/japanese.svg)](./README-ja.md)
-[![Korean List](https://jaywcjlove.github.io/sb/lang/korean.svg)](./README-ko.md)
-<!--rehype:style=text-align: center;-->
-
-This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use. As it continues to grow, the project has far exceeded our initial expectations and has become more comprehensive and refined.
-
-Feel free to **star** ⭐ and **fork** 🍴 to support the project!
-
-If you have any suggestions, ideas, or discover excellent software, feel free to submit a PR to help improve this list. Please read the [contributing guidelines ![GitHub Repo Stars](https://img.shields.io/github/stars/jaywcjlove/awesome-mac) ![GitHub last commit](https://img.shields.io/github/last-commit/jaywcjlove/awesome-mac)](https://github.com/jaywcjlove/awesome-mac/blob/master/CONTRIBUTING.md) before contributing. We also welcome you to continue following this [awesome ![GitHub Repo Stars](https://img.shields.io/github/stars/sindresorhus/awesome) ![GitHub last commit](https://img.shields.io/github/last-commit/sindresorhus/awesome)](https://github.com/sindresorhus/awesome) list to build a better macOS tool collection together.
-
-**Explanation**
-
-[中文](README-zh.md) | [한국어](README-ko.md) | [日本語](README-ja.md) | [RSS](./feed/feed.md) | [Awesome Command Line Apps](./command-line-apps.md) | [Awesome Swift macOS Apps ![GitHub Repo Stars](https://img.shields.io/github/stars/jaywcjlove/awesome-swift-macos-apps) ![GitHub last commit](https://img.shields.io/github/last-commit/jaywcjlove/awesome-swift-macos-apps)](https://github.com/jaywcjlove/awesome-swift-macos-apps)
-
-![Open-Source Software][OSS Icon] means **open source**. click the icon to see the item's repository;\
-![Freeware][Freeware Icon] means **free** to use, or **free** personal license;\
-![App Store][app-store Icon] means **App store** hyperlink;\
-![Native App][Native Icon] means **native app**;\
-![Awesome List][awesome-list Icon] means hyperlink to a corresponding **Awesome list** for the item;
-
-✦ My macOS application:
-
 <p style="display: inline_block">
+<sup>Using <a href="https://wangchujiang.com/#/app" target="_blank">my app</a> is also a way to <a href="https://wangchujiang.com/#/sponsor" target="_blank">support</a> me:</sup><br/>
 <a target="_blank" href="https://apps.apple.com/app/6758053530" title="Scap: Screenshot & Markup Edit for macOS"><img alt="Scap: Screenshot & Markup Edit" height="52" width="52" src="https://wangchujiang.com/appicon/scap.png"></a>
 <a target="_blank" href="https://apps.apple.com/app/6757317079" title="Screen Test for macOS"><img alt="Screen Test" height="52" width="52" src="https://wangchujiang.com/appicon/screen-test.png"></a>
 <a target="_blank" href="https://apps.apple.com/app/Deskmark/6755948110" title="Deskmark for macOS"><img alt="Deskmark" height="52" width="52" src="https://wangchujiang.com/appicon/deskmark.png"></a>
@@ -94,6 +56,38 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 <a target="_blank" href="https://apps.apple.com/app/6472593276" title="Palette Genius for macOS"><img alt="Palette Genius" height="52" width="52" src="https://wangchujiang.com/appicon/palette-genius.png"></a>
 <a target="_blank" href="https://apps.apple.com/app/6470879005" title="Symbol Scribe for macOS"><img alt="Symbol Scribe" height="52" width="52" src="https://wangchujiang.com/appicon/symbol-scribe.png"></a>
 </p>
+<hr>
+
+Awesome Mac
+===
+<!--rehype:style=font-size: 38px; border-bottom: 0; display: flex; min-height: 260px; align-items: center; justify-content: center;-->
+
+[![Buy me a coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-ffdd00?logo=buy-me-a-coffee&logoColor=black)](https://jaywcjlove.github.io/#/sponsor)
+[![Follow On X](https://img.shields.io/badge/Follow%20on%20X-333333?logo=x&logoColor=white)](https://x.com/jaywcjlove)
+[![Awesome](https://jaywcjlove.github.io/sb/ico/awesome.svg)](https://github.com/sindresorhus/awesome)
+[![NPM version](https://img.shields.io/npm/v/awesome-mac.svg?style=flat)](https://npmjs.org/package/awesome-mac)
+[![WeiBo](https://jaywcjlove.github.io/sb/ico/weibo.svg)](http://weibo.com/pc175)
+[![Docker Image Version (latest by date)](https://img.shields.io/docker/v/wcjiang/awesome-mac?logo=docker)](https://hub.docker.com/r/wcjiang/awesome-mac)
+[![Chinese List](https://jaywcjlove.github.io/sb/lang/chinese.svg)](README-zh.md)
+[![Japanese List](https://jaywcjlove.github.io/sb/lang/japanese.svg)](./README-ja.md)
+[![Korean List](https://jaywcjlove.github.io/sb/lang/korean.svg)](./README-ko.md)
+<!--rehype:style=text-align: center;-->
+
+This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use. As it continues to grow, the project has far exceeded our initial expectations and has become more comprehensive and refined.
+
+Feel free to **star** ⭐ and **fork** 🍴 to support the project!
+
+If you have any suggestions, ideas, or discover excellent software, feel free to submit a PR to help improve this list. Please read the [contributing guidelines ![GitHub Repo Stars](https://img.shields.io/github/stars/jaywcjlove/awesome-mac) ![GitHub last commit](https://img.shields.io/github/last-commit/jaywcjlove/awesome-mac)](https://github.com/jaywcjlove/awesome-mac/blob/master/CONTRIBUTING.md) before contributing. We also welcome you to continue following this [awesome ![GitHub Repo Stars](https://img.shields.io/github/stars/sindresorhus/awesome) ![GitHub last commit](https://img.shields.io/github/last-commit/sindresorhus/awesome)](https://github.com/sindresorhus/awesome) list to build a better macOS tool collection together.
+
+**Explanation**
+
+[中文](README-zh.md) | [한국어](README-ko.md) | [日本語](README-ja.md) | [RSS](./feed/feed.md) | [Awesome Command Line Apps](./command-line-apps.md) | [Awesome Swift macOS Apps ![GitHub Repo Stars](https://img.shields.io/github/stars/jaywcjlove/awesome-swift-macos-apps) ![GitHub last commit](https://img.shields.io/github/last-commit/jaywcjlove/awesome-swift-macos-apps)](https://github.com/jaywcjlove/awesome-swift-macos-apps)
+
+![Open-Source Software][OSS Icon] means **open source**. click the icon to see the item's repository;\
+![Freeware][Freeware Icon] means **free** to use, or **free** personal license;\
+![App Store][app-store Icon] means **App store** hyperlink;\
+![Native App][Native Icon] means **native app**;\
+![Awesome List][awesome-list Icon] means hyperlink to a corresponding **Awesome list** for the item;
 
 <!--idoc:ignore:start-->
 
@@ -986,6 +980,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Aiko](https://sindresorhus.com/aiko) - High-quality on-device transcription. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1666327168?platform=mac)
 * [Azex Speech ![GitHub Repo Stars](https://img.shields.io/github/stars/azex-ai/speech) ![GitHub last commit](https://img.shields.io/github/last-commit/azex-ai/speech)](https://github.com/azex-ai/speech) - Voice input tuned for mixed Chinese-English dictation in AI and crypto work. [![Open-Source Software][OSS Icon]](https://github.com/azex-ai/speech) ![Freeware][Freeware Icon]
 * [buzz ![GitHub Repo Stars](https://img.shields.io/github/stars/chidiwilliams/buzz) ![GitHub last commit](https://img.shields.io/github/last-commit/chidiwilliams/buzz)](https://github.com/chidiwilliams/buzz) - Transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper. [![Open-Source Software][OSS Icon]](https://github.com/chidiwilliams/buzz)
+* [EnviousWispr](https://enviouswispr.com) - Free on-device AI dictation for macOS. Runs Whisper and Parakeet speech models locally on Apple Silicon.
 * [FnKey ![GitHub Repo Stars](https://img.shields.io/github/stars/evoleinik/fnkey) ![GitHub last commit](https://img.shields.io/github/last-commit/evoleinik/fnkey)](https://github.com/evoleinik/fnkey) - Hold Fn, speak, release — text is pasted instantly. Streams audio to Deepgram Nova-3 in real time, no batch delay. [![Open-Source Software][OSS Icon]](https://github.com/evoleinik/fnkey) ![Freeware][Freeware Icon]
 * [OpenDictation ![GitHub Repo Stars](https://img.shields.io/github/stars/kdcokenny/OpenDictation) ![GitHub last commit](https://img.shields.io/github/last-commit/kdcokenny/OpenDictation)](https://github.com/kdcokenny/OpenDictation) - Open-source dictation utility with local and cloud speech-to-text. [![Open-Source Software][OSS Icon]](https://github.com/kdcokenny/OpenDictation) ![Freeware][Freeware Icon]
 * [OpenTypeless ![GitHub Repo Stars](https://img.shields.io/github/stars/tover0314-w/opentypeless) ![GitHub last commit](https://img.shields.io/github/last-commit/tover0314-w/opentypeless)](https://github.com/tover0314-w/opentypeless) - Open-source AI voice input for desktop. Press a hotkey, speak, and get AI-polished text typed into any app. Supports 6+ STT providers (Whisper, Groq, Deepgram) and multiple LLMs (GPT, Claude, Gemini, Ollama). [![Open-Source Software][OSS Icon]](https://github.com/tover0314-w/opentypeless) ![Freeware][Freeware Icon]
