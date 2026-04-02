@@ -2220,7 +2220,7 @@ _Unofficial libraries for package and dependency management._
 - [statsviz ![GitHub Repo Stars](https://img.shields.io/github/stars/arl/statsviz) ![GitHub last commit](https://img.shields.io/github/last-commit/arl/statsviz)](https://github.com/arl/statsviz) - Live visualization of your Go application runtime statistics.
 - [tracer ![GitHub Repo Stars](https://img.shields.io/github/stars/kamilsk/tracer) ![GitHub last commit](https://img.shields.io/github/last-commit/kamilsk/tracer)](https://github.com/kamilsk/tracer) - Simple, lightweight tracing.
 
-**[�� back to top](#contents)**
+**[⬆ back to top](#contents)**
 
 ## Query Language
 
