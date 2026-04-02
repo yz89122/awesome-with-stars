@@ -358,7 +358,7 @@ Dedicated drones and toolchains to help on a dedicated topic
 * [ESP32 Drone](https://hackaday.io/project/188578-esp32-drone) - no traditional FPV, but low cost quad using ESP32 board, 2022.
 * [Wifree-copter](https://open-diy-projects.com/wifree-copter/) - Easy 3D printed copter that uses RPI as WIFI remote control with App, 2016.
 
-## Security & Safety ���
+## Security & Safety 🪂
 
 ### Simulators 🌐
 
@@ -458,7 +458,7 @@ Depending on the country you live in, the laws and legal rules of airspace may v
 * [Bundesnetzagentur](https://www.bundesnetzagentur.de/DE/Sachgebiete/Telekommunikation/Unternehmen_Institutionen/Frequenzen/Grundlagen/Frequenzplan/frequenzplan-node.html) - 🇩🇪 Zulässige Sendefrequenzen und -Leistungen.
 
 * [Urząd Lotnictwa Cywilnego](https://drony.ulc.gov.pl) - 🇵🇱 Urząd Lotnictwa Cywilnego - allows to apply for license in Poland and EU
-* [Bezzałogowe Statki Powietrzne](https://ulc.gov.pl/pl/drony) - 🇵🇱 List of regulations regarding operations of UAV in Poland
+* [Bezzałogowe Statki Powietrzne](https://ulc.gov.pl/pl/drony) - ����🇱 List of regulations regarding operations of UAV in Poland
 
 ## Communities 🗣️
 
