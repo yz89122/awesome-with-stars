@@ -237,6 +237,7 @@ For Back Test & Live trading
 - [rqalpha ![GitHub Repo Stars](https://img.shields.io/github/stars/ricequant/rqalpha) ![GitHub last commit](https://img.shields.io/github/last-commit/ricequant/rqalpha)](https://github.com/ricequant/rqalpha) - A extendable, replaceable Python algorithmic backtest & trading framework.
 - [backtrader ![GitHub Repo Stars](https://img.shields.io/github/stars/backtrader/backtrader) ![GitHub last commit](https://img.shields.io/github/last-commit/backtrader/backtrader)](https://github.com/backtrader/backtrader) - Python backtesting library for trading strategies.
 - [kungfu ![GitHub Repo Stars](https://img.shields.io/github/stars/taurusai/kungfu) ![GitHub last commit](https://img.shields.io/github/last-commit/taurusai/kungfu)](https://github.com/taurusai/kungfu) - Kungfu Master trading system.
+- [finclaw ![GitHub Repo Stars](https://img.shields.io/github/stars/NeuZhou/finclaw) ![GitHub last commit](https://img.shields.io/github/last-commit/NeuZhou/finclaw)](https://github.com/NeuZhou/finclaw) - AI-native quantitative trading engine with 484 alpha factors, genetic algorithm strategy evolution, walk-forward backtesting and paper trading. Supports A-shares, crypto, and MCP server for AI agent integration.
 - [lean ![GitHub Repo Stars](https://img.shields.io/github/stars/QuantConnect/Lean) ![GitHub last commit](https://img.shields.io/github/last-commit/QuantConnect/Lean)](https://github.com/QuantConnect/Lean) - Algorithmic trading engine built for easy strategy research, backtesting and live trading.
 
 **Combine & Rebuild**
