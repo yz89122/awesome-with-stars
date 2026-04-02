@@ -203,6 +203,7 @@ Processing Unit (GPU).
 * [WebGL 2 Fundamentals](https://webgl2fundamentals.org/)- Series of online tutorials with code samples and live demonstrations.
 * [WebGL 2 Samples](http://webglsamples.org/WebGL2Samples/) - Great source of many different WebGL 2 work with very good commenting.
 * [WebGL 2 Examples ![GitHub Repo Stars](https://img.shields.io/github/stars/tsherif/webgl2examples) ![GitHub last commit](https://img.shields.io/github/last-commit/tsherif/webgl2examples)](https://github.com/tsherif/webgl2examples) - Rendering algorithms implemented in raw WebGL 2.
+* [WebGL 2 & GLSL Primer: A Zero-to-Hero, Spaced-Repetition Guide ![GitHub Repo Stars](https://img.shields.io/github/stars/GregStanton/webgl2-glsl-primer) ![GitHub last commit](https://img.shields.io/github/last-commit/GregStanton/webgl2-glsl-primer)](https://github.com/GregStanton/webgl2-glsl-primer) - Grok WebGL2 and GLSL through a sequence of guided lessons, each chunked into atomic Q&A cards, with hands-on projects and solution code integrated throughout.
 
 ### Videos
 
