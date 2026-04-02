@@ -18,6 +18,7 @@ The purpose of this document is to provide a quick overview over existing packag
   - [Java](#java)
   - [Objective-C](#objective-c)
   - [Ruby](#ruby)
+  - [Rust](#rust)
 
 - [Resources](#resources)
   - [General](#general-3)
@@ -40,6 +41,7 @@ The purpose of this document is to provide a quick overview over existing packag
 - [steam-user ![GitHub Repo Stars](https://img.shields.io/github/stars/DoctorMcKay/node-steam-user) ![GitHub last commit](https://img.shields.io/github/last-commit/DoctorMcKay/node-steam-user)](https://github.com/DoctorMcKay/node-steam-user) - Feature-rich easy-to-use Steam client.
 - [vapor ![GitHub Repo Stars](https://img.shields.io/github/stars/scholtzm/vapor) ![GitHub last commit](https://img.shields.io/github/last-commit/scholtzm/vapor)](https://github.com/scholtzm/vapor) - Lightweight Steam client framework.
 - [steam-parentbot ![GitHub Repo Stars](https://img.shields.io/github/stars/dragonbanshee/node-steam-parentbot) ![GitHub last commit](https://img.shields.io/github/last-commit/dragonbanshee/node-steam-parentbot)](https://github.com/dragonbanshee/node-steam-parentbot) - Simple base class for a Steam bot.
+- [steamworks-ffi-node ![GitHub Repo Stars](https://img.shields.io/github/stars/ArtyProf/steamworks-ffi-node) ![GitHub last commit](https://img.shields.io/github/last-commit/ArtyProf/steamworks-ffi-node)](https://github.com/ArtyProf/steamworks-ffi-node) - A Node.js wrapper for Steamworks SDK.
 
 #### WebAPI
 
@@ -156,6 +158,10 @@ The purpose of this document is to provide a quick overview over existing packag
 ### Ruby
 
 - [steam-trade ![GitHub Repo Stars](https://img.shields.io/github/stars/OmG3r/steam-trade) ![GitHub last commit](https://img.shields.io/github/last-commit/OmG3r/steam-trade)](https://github.com/OmG3r/steam-trade) - Ruby gem for sending trade offers.
+
+### Rust
+
+- [steamguard-cli ![GitHub Repo Stars](https://img.shields.io/github/stars/dyc3/steamguard-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/dyc3/steamguard-cli)](https://github.com/dyc3/steamguard-cli) - Command-line utility for generating Steam 2FA codes and managing Steam confirmations.
 
 ## Resources
 
