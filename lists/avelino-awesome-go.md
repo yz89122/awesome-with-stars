@@ -233,6 +233,7 @@ _Libraries for building programs that leverage AI._
 - [Ollama ![GitHub Repo Stars](https://img.shields.io/github/stars/jmorganca/ollama) ![GitHub last commit](https://img.shields.io/github/last-commit/jmorganca/ollama)](https://github.com/jmorganca/ollama) - Run large language models locally.
 - [OllamaFarm ![GitHub Repo Stars](https://img.shields.io/github/stars/presbrey/ollamafarm) ![GitHub last commit](https://img.shields.io/github/last-commit/presbrey/ollamafarm)](https://github.com/presbrey/ollamafarm) - Manage, load-balance, and failover packs of Ollamas.
 - [otellix ![GitHub Repo Stars](https://img.shields.io/github/stars/oluwajubelo1/otellix) ![GitHub last commit](https://img.shields.io/github/last-commit/oluwajubelo1/otellix)](https://github.com/oluwajubelo1/otellix) - OpenTelemetry-native LLM observability and budget guardrails for cost-constrained production environments.
+- [routex ![GitHub Repo Stars](https://img.shields.io/github/stars/Ad3bay0c/routex) ![GitHub last commit](https://img.shields.io/github/last-commit/Ad3bay0c/routex)](https://github.com/Ad3bay0c/routex) - YAML-driven multi-agent AI runtime for Go with Erlang-style supervision, MCP tool server support, and a CLI.
 
 **[⬆ back to top](#contents)**
 
