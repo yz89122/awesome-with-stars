@@ -149,6 +149,7 @@ Inspired by the [awesome ![GitHub Repo Stars](https://img.shields.io/github/star
 
 ### JavaScript
  - [Camo ![GitHub Repo Stars](https://img.shields.io/github/stars/scottwrobinson/camo) ![GitHub last commit](https://img.shields.io/github/last-commit/scottwrobinson/camo)](https://github.com/scottwrobinson/camo) - Class-based ES6 ODM for Mongo-like databases
+ - [connect-mongo ![GitHub Repo Stars](https://img.shields.io/github/stars/jdesboeufs/connect-mongo) ![GitHub last commit](https://img.shields.io/github/last-commit/jdesboeufs/connect-mongo)](https://github.com/jdesboeufs/connect-mongo) - MongoDB session store for Connect and Express written in Typescript.
  - [deno_mongo ![GitHub Repo Stars](https://img.shields.io/github/stars/denodrivers/mongo) ![GitHub last commit](https://img.shields.io/github/last-commit/denodrivers/mongo)](https://github.com/denodrivers/mongo) - Community Deno driver
  - [MEAN.JS ![GitHub Repo Stars](https://img.shields.io/github/stars/meanjs/mean) ![GitHub last commit](https://img.shields.io/github/last-commit/meanjs/mean)](https://github.com/meanjs/mean) - Full stack based on MongoDB, Express, AngularJS, and Node.js
  - [MERN (mern-starter) ![GitHub Repo Stars](https://img.shields.io/github/stars/Hashnode/mern-starter) ![GitHub last commit](https://img.shields.io/github/last-commit/Hashnode/mern-starter)](https://github.com/Hashnode/mern-starter) - Full stack based on MongoDB, Express, React and Node.js
