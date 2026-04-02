@@ -261,7 +261,7 @@ Groups that mostly fabricate pieces for creative technology companies.
 | ---- | --------- | -------- | ---- |
 | [**5 Ten**](https:&#x2F;&#x2F;www.510visuals.com&#x2F;) | [NYC] | LED technology design, fabrication, and integration | 
 | [**Bednark**](https:&#x2F;&#x2F;builtbybednark.com&#x2F;) | [NYC] | full-service fabrication, production, install | 
-| [**Bridgewater Studio**](https:&#x2F;&#x2F;www.bridgewaterstudio.net) | [Chicago] | full service design and fabrication | [🌐](https:&#x2F;&#x2F;www.bridgewaterstudio.net&#x2F;about)
+| [**Bridgewater Studio**](https:&#x2F;&#x2F;www.bridgewaterstudio.net) | [Chicago] | full service design and fabrication | [����](https:&#x2F;&#x2F;www.bridgewaterstudio.net&#x2F;about)
 | [**Eventscape**](https:&#x2F;&#x2F;eventscape.com&#x2F;) | [Toronto] | building the extraordinary, full service | 
 | [**Gamma**](https:&#x2F;&#x2F;gamma.nyc&#x2F;) | [NYC] | large scale robotic cnc, install, sculptures | 
 | [**Pink Sparrow**](https:&#x2F;&#x2F;www.pinksparrow.com&#x2F;) | [NYC] [LA] | environmental design, project management | 
