@@ -421,6 +421,7 @@ _Libraries for building standard or basic Command Line applications._
 - [acmd ![GitHub Repo Stars](https://img.shields.io/github/stars/cristalhq/acmd) ![GitHub last commit](https://img.shields.io/github/last-commit/cristalhq/acmd)](https://github.com/cristalhq/acmd) - Simple, useful, and opinionated CLI package in Go.
 - [argparse ![GitHub Repo Stars](https://img.shields.io/github/stars/akamensky/argparse) ![GitHub last commit](https://img.shields.io/github/last-commit/akamensky/argparse)](https://github.com/akamensky/argparse) - Command line argument parser inspired by Python's argparse module.
 - [argv ![GitHub Repo Stars](https://img.shields.io/github/stars/cosiner/argv) ![GitHub last commit](https://img.shields.io/github/last-commit/cosiner/argv)](https://github.com/cosiner/argv) - Go library to split command line string as arguments array using the bash syntax.
+- [boa ![GitHub Repo Stars](https://img.shields.io/github/stars/GiGurra/boa) ![GitHub last commit](https://img.shields.io/github/last-commit/GiGurra/boa)](https://github.com/GiGurra/boa) - Declarative flags, env vars, validation, and config files from struct tags. Built on cobra.
 - [carapace ![GitHub Repo Stars](https://img.shields.io/github/stars/rsteube/carapace) ![GitHub last commit](https://img.shields.io/github/last-commit/rsteube/carapace)](https://github.com/rsteube/carapace) - Command argument completion generator for spf13/cobra.
 - [carapace-bin ![GitHub Repo Stars](https://img.shields.io/github/stars/rsteube/carapace-bin) ![GitHub last commit](https://img.shields.io/github/last-commit/rsteube/carapace-bin)](https://github.com/rsteube/carapace-bin) - Multi-shell multi-command argument completer.
 - [carapace-spec ![GitHub Repo Stars](https://img.shields.io/github/stars/rsteube/carapace-spec) ![GitHub last commit](https://img.shields.io/github/last-commit/rsteube/carapace-spec)](https://github.com/rsteube/carapace-spec) - Define simple completions using a spec file.
@@ -2219,7 +2220,7 @@ _Unofficial libraries for package and dependency management._
 - [statsviz ![GitHub Repo Stars](https://img.shields.io/github/stars/arl/statsviz) ![GitHub last commit](https://img.shields.io/github/last-commit/arl/statsviz)](https://github.com/arl/statsviz) - Live visualization of your Go application runtime statistics.
 - [tracer ![GitHub Repo Stars](https://img.shields.io/github/stars/kamilsk/tracer) ![GitHub last commit](https://img.shields.io/github/last-commit/kamilsk/tracer)](https://github.com/kamilsk/tracer) - Simple, lightweight tracing.
 
-**[⬆ back to top](#contents)**
+**[�� back to top](#contents)**
 
 ## Query Language
 
