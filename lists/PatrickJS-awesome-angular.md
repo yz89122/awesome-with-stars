@@ -1051,6 +1051,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [stateloom ![GitHub Repo Stars](https://img.shields.io/github/stars/sujeet-pro/stateloom) ![GitHub last commit](https://img.shields.io/github/last-commit/sujeet-pro/stateloom)](https://github.com/sujeet-pro/stateloom) - A universal state‑management SDK featuring a signal‑driven reactive core, along with paradigm adapters (Store, Atom, Proxy) and framework adapters for React, Angular, and more.
 * [ngx-state-crafter ![GitHub Repo Stars](https://img.shields.io/github/stars/irvrodflo/ngx-state-crafter) ![GitHub last commit](https://img.shields.io/github/last-commit/irvrodflo/ngx-state-crafter)](https://github.com/irvrodflo/ngx-state-crafter) - A lightweight, signal‑driven state library for Angular with a clean, boilerplate‑free API.
 * [coaction ![GitHub Repo Stars](https://img.shields.io/github/stars/unadlib/coaction) ![GitHub last commit](https://img.shields.io/github/last-commit/unadlib/coaction)](https://github.com/unadlib/coaction) - An efficient and flexible state management library for building high-performance, multithreading web applications.
+* [flurryx ![GitHub Repo Stars](https://img.shields.io/github/stars/fmflurry/flurryx) ![GitHub last commit](https://img.shields.io/github/last-commit/fmflurry/flurryx)](https://github.com/fmflurry/flurryx) - A signal-first reactive state toolkit for Angular that bridges RxJS streams into structured, cache-aware stores.
 
 ## Testing
 
@@ -1366,6 +1367,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [TabularJS ![GitHub Repo Stars](https://img.shields.io/github/stars/jspreadsheet/tabularjs) ![GitHub last commit](https://img.shields.io/github/last-commit/jspreadsheet/tabularjs)](https://github.com/jspreadsheet/tabularjs) - Lightweight JavaScript table and data grid library for advanced table features in Angular.
 * [uni-table ![GitHub Repo Stars](https://img.shields.io/github/stars/Unify-India/uni-table) ![GitHub last commit](https://img.shields.io/github/last-commit/Unify-India/uni-table)](https://github.com/Unify-India/uni-table) - Angular data grid built on signals for zero‑lag performance, combining advanced server‑side features with a streamlined configuration API.
 * [ogrid ![GitHub Repo Stars](https://img.shields.io/github/stars/alaarab/ogrid) ![GitHub last commit](https://img.shields.io/github/last-commit/alaarab/ogrid)](https://github.com/alaarab/ogrid) - The lightweight, multi-framework data grid with enterprise features and zero enterprise cost.
+* [angular-datatables.net ![GitHub Repo Stars](https://img.shields.io/github/stars/Vinccool96/angular-datatables.net) ![GitHub last commit](https://img.shields.io/github/last-commit/Vinccool96/angular-datatables.net)](https://github.com/Vinccool96/angular-datatables.net) - Angular plus [DataTables](https://datatables.net/).
 
 ### Dates
 
@@ -1603,6 +1605,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [smt-select ![GitHub Repo Stars](https://img.shields.io/github/stars/sametacar/smt-select) ![GitHub last commit](https://img.shields.io/github/last-commit/sametacar/smt-select)](https://github.com/sametacar/smt-select) - A high-performance, lightweight, and customizable Angular select component with built-in virtual scroll and search capabilities.
 * [ngx-mat-searchable-select ![GitHub Repo Stars](https://img.shields.io/github/stars/khalilElmouedene/ngx-mat-searchable-select) ![GitHub last commit](https://img.shields.io/github/last-commit/khalilElmouedene/ngx-mat-searchable-select)](https://github.com/khalilElmouedene/ngx-mat-searchable-select) - A reusable Angular Material select component with infinite scroll, debounced search, "no items found" feedback, and static/mock data support.
 * [mat-password-meter ![GitHub Repo Stars](https://img.shields.io/github/stars/ngx-zen/mat-password-meter) ![GitHub last commit](https://img.shields.io/github/last-commit/ngx-zen/mat-password-meter)](https://github.com/ngx-zen/mat-password-meter) - Three Angular Material password strength components with a signals-based API.
+* [nicematic-emoji-picker ![GitHub Repo Stars](https://img.shields.io/github/stars/myposty/nicematic-emoji-picker) ![GitHub last commit](https://img.shields.io/github/last-commit/myposty/nicematic-emoji-picker)](https://github.com/myposty/nicematic-emoji-picker) - High‑performance, zero‑dependency emoji picker for Angular 17+ with 929 emojis, auto‑theming, i18n, and responsive design.
 
 ### JSON Forms
 
