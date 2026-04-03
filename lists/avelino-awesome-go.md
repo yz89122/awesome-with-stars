@@ -342,6 +342,7 @@ _Libraries for building and working with bots._
 - [telegram-bot-api ![GitHub Repo Stars](https://img.shields.io/github/stars/go-telegram-bot-api/telegram-bot-api) ![GitHub last commit](https://img.shields.io/github/last-commit/go-telegram-bot-api/telegram-bot-api)](https://github.com/go-telegram-bot-api/telegram-bot-api) - Simple and clean Telegram bot client.
 - [TG ![GitHub Repo Stars](https://img.shields.io/github/stars/enetx/tg) ![GitHub last commit](https://img.shields.io/github/last-commit/enetx/tg)](https://github.com/enetx/tg) - Telegram Bot Framework for Go.
 - [wayback ![GitHub Repo Stars](https://img.shields.io/github/stars/wabarc/wayback) ![GitHub last commit](https://img.shields.io/github/last-commit/wabarc/wayback)](https://github.com/wabarc/wayback) - A bot for Telegram, Mastodon, Slack, and other messaging platforms archives webpages.
+   - [Wisp ![GitHub Repo Stars](https://img.shields.io/github/stars/wisp-trading/wisp) ![GitHub last commit](https://img.shields.io/github/last-commit/wisp-trading/wisp)](https://github.com/wisp-trading/wisp) - Event-driven trading framework for Go. Spot, perpetual futures, prediction markets. Multi-exchange (Bybit, Hyperliquid, Polymarket).
 
 **[⬆ back to top](#contents)**
 
