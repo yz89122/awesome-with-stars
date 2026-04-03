@@ -1409,6 +1409,7 @@ _Tools for managing and working with Goroutines._
 - [tunny ![GitHub Repo Stars](https://img.shields.io/github/stars/Jeffail/tunny) ![GitHub last commit](https://img.shields.io/github/last-commit/Jeffail/tunny)](https://github.com/Jeffail/tunny) - Goroutine pool for golang.
 - [worker-pool ![GitHub Repo Stars](https://img.shields.io/github/stars/vardius/worker-pool) ![GitHub last commit](https://img.shields.io/github/last-commit/vardius/worker-pool)](https://github.com/vardius/worker-pool) - goworker is a Go simple async worker pool.
 - [workerpool ![GitHub Repo Stars](https://img.shields.io/github/stars/gammazero/workerpool) ![GitHub last commit](https://img.shields.io/github/last-commit/gammazero/workerpool)](https://github.com/gammazero/workerpool) - Goroutine pool that limits the concurrency of task execution, not the number of tasks queued.
+- [autopool ![GitHub Repo Stars](https://img.shields.io/github/stars/AshvinBambhaniya/autopool) ![GitHub last commit](https://img.shields.io/github/last-commit/AshvinBambhaniya/autopool)](https://github.com/AshvinBambhaniya/autopool) - Zero-config, auto-scaling worker pool for Go with priority-aware scheduling.
 
 **[⬆ back to top](#contents)**
 
