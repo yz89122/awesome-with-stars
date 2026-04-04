@@ -1564,6 +1564,7 @@ _Libraries for scheduling jobs._
 - [pending ![GitHub Repo Stars](https://img.shields.io/github/stars/kahoon/pending) ![GitHub last commit](https://img.shields.io/github/last-commit/kahoon/pending)](https://github.com/kahoon/pending) - ID-based debounced task scheduler for deferred tasks with cancellation, graceful shutdown, and optional concurrency limits.
 - [sched ![GitHub Repo Stars](https://img.shields.io/github/stars/romshark/sched) ![GitHub last commit](https://img.shields.io/github/last-commit/romshark/sched)](https://github.com/romshark/sched) - A job scheduler with the ability to fast-forward time.
 - [scheduler ![GitHub Repo Stars](https://img.shields.io/github/stars/carlescere/scheduler) ![GitHub last commit](https://img.shields.io/github/last-commit/carlescere/scheduler)](https://github.com/carlescere/scheduler) - Cronjobs scheduling made easy.
+- [scheduler ![GitHub Repo Stars](https://img.shields.io/github/stars/yuseferi/scheduler) ![GitHub last commit](https://img.shields.io/github/last-commit/yuseferi/scheduler)](https://github.com/yuseferi/scheduler) - Go-native distributed job scheduler with delayed tasks, batched Redis coordination, retries, lease-based recovery, and versioned queue partitioning.
 - [tasks ![GitHub Repo Stars](https://img.shields.io/github/stars/madflojo/tasks) ![GitHub last commit](https://img.shields.io/github/last-commit/madflojo/tasks)](https://github.com/madflojo/tasks) - An easy to use in-process scheduler for recurring tasks in Go.
 
 **[⬆ back to top](#contents)**
