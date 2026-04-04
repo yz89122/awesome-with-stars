@@ -466,6 +466,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [glow ![GitHub Repo Stars](https://img.shields.io/github/stars/charmbracelet/glow) ![GitHub last commit](https://img.shields.io/github/last-commit/charmbracelet/glow)](https://github.com/charmbracelet/glow) - Styled markdown rendering.
 - [gtree ![GitHub Repo Stars](https://img.shields.io/github/stars/ddddddO/gtree) ![GitHub last commit](https://img.shields.io/github/last-commit/ddddddO/gtree)](https://github.com/ddddddO/gtree) - Use markdown to generate directory trees and the directories itself.
 - [Jimmy ![GitHub Repo Stars](https://img.shields.io/github/stars/marph91/jimmy) ![GitHub last commit](https://img.shields.io/github/last-commit/marph91/jimmy)](https://github.com/marph91/jimmy) - Convert various note formats to markdown.
+- [mq ![GitHub Repo Stars](https://img.shields.io/github/stars/harehare/mq) ![GitHub last commit](https://img.shields.io/github/last-commit/harehare/mq)](https://github.com/harehare/mq) - Jq-like markdown processor.
 
 ### Security
 
@@ -548,6 +549,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [yaml-cli ![GitHub Repo Stars](https://img.shields.io/github/stars/pandastrike/yaml-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/pandastrike/yaml-cli)](https://github.com/pandastrike/yaml-cli) - Query/update YAML.
 - [ramda-cli ![GitHub Repo Stars](https://img.shields.io/github/stars/raine/ramda-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/raine/ramda-cli)](https://github.com/raine/ramda-cli) - Process data with functional pipelines.
 - [xq ![GitHub Repo Stars](https://img.shields.io/github/stars/sibprogrammer/xq) ![GitHub last commit](https://img.shields.io/github/last-commit/sibprogrammer/xq)](https://github.com/sibprogrammer/xq) - XML and HTML beautifier and content extractor.
+- [mq ![GitHub Repo Stars](https://img.shields.io/github/stars/harehare/mq) ![GitHub last commit](https://img.shields.io/github/last-commit/harehare/mq)](https://github.com/harehare/mq) - Jq-like markdown processor.
 
 ### JSON
 
