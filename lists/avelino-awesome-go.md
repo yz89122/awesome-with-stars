@@ -794,7 +794,8 @@ _Data stores with expiring records, in-memory distributed data stores, or in-mem
 - [unitdb ![GitHub Repo Stars](https://img.shields.io/github/stars/unit-io/unitdb) ![GitHub last commit](https://img.shields.io/github/last-commit/unit-io/unitdb)](https://github.com/unit-io/unitdb) - Fast timeseries database for IoT, realtime messaging applications. Access unitdb with pubsub over tcp or websocket using github.com/unit-io/unitd application.
 - [Vasto ![GitHub Repo Stars](https://img.shields.io/github/stars/chrislusf/vasto) ![GitHub last commit](https://img.shields.io/github/last-commit/chrislusf/vasto)](https://github.com/chrislusf/vasto) - A distributed high-performance key-value store. On Disk. Eventual consistent. HA. Able to grow or shrink without service interruption.
 - [VictoriaMetrics ![GitHub Repo Stars](https://img.shields.io/github/stars/VictoriaMetrics/VictoriaMetrics) ![GitHub last commit](https://img.shields.io/github/last-commit/VictoriaMetrics/VictoriaMetrics)](https://github.com/VictoriaMetrics/VictoriaMetrics) - fast, resource-effective and scalable open source time series database. May be used as long-term remote storage for Prometheus. Supports PromQL.
-
+- [minisql ![GitHub Repo Stars](https://img.shields.io/github/stars/RichardKnop/minisql) ![GitHub last commit](https://img.shields.io/github/last-commit/RichardKnop/minisql)](https://github.com/RichardKnop/minisql) - Embedded single file SQL database.
+- 
 ### Database Schema Migration
 
 - [atlas ![GitHub Repo Stars](https://img.shields.io/github/stars/ariga/atlas) ![GitHub last commit](https://img.shields.io/github/last-commit/ariga/atlas)](https://github.com/ariga/atlas) - A Database Toolkit. A CLI designed to help companies better work with their data.
