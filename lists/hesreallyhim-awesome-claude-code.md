@@ -29,9 +29,9 @@
 
 ## Latest Additions
 
+- [Claude Code Agent Teams: Exercises ![GitHub Repo Stars](https://img.shields.io/github/stars/panaversity/claude-code-agent-teams-exercises) ![GitHub last commit](https://img.shields.io/github/last-commit/panaversity/claude-code-agent-teams-exercises)](https://github.com/panaversity/claude-code-agent-teams-exercises) by [Panaversity](https://github.com/panaversity) - Practical exercises for Claude Code Agent Teams - 6 exercises + 2 capstones covering team creation, task coordination, quality hooks, and parallel code review - good learning resource.
 - [Harness ![GitHub Repo Stars](https://img.shields.io/github/stars/revfactory/harness) ![GitHub last commit](https://img.shields.io/github/last-commit/revfactory/harness)](https://github.com/revfactory/harness) by [revfactory](https://github.com/revfactory) - A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use. Resources are in Korean but can produce high-quality English-language output.
 - [claude-devtools ![GitHub Repo Stars](https://img.shields.io/github/stars/matt1398/claude-devtools) ![GitHub last commit](https://img.shields.io/github/last-commit/matt1398/claude-devtools)](https://github.com/matt1398/claude-devtools) by [matt1398](https://github.com/matt1398) - A well-designed desktop app that provides detailed observability into your Claude Code sessions by analyzing the session logs. Provides turn-based context data across numerous categories, compaction visualization, subagent execution trees, and custom notification triggers. Easy to install, and nice visual design.
-- [agnix ![GitHub Repo Stars](https://img.shields.io/github/stars/agent-sh/agnix) ![GitHub last commit](https://img.shields.io/github/last-commit/agent-sh/agnix)](https://github.com/agent-sh/agnix) by [agent-sh](https://github.com/agent-sh) - A comprehensive linter for Claude Code agent files. Validate CLAUDE.md, AGENTS.md, SKILL.md, hooks, MCP, and more. Plugin for all major IDEs included, with auto-fixes.
 
 
 ## Contents
@@ -133,6 +133,7 @@
 
 ### Teams
 
+- [Claude Code Agent Teams: Exercises ![GitHub Repo Stars](https://img.shields.io/github/stars/panaversity/claude-code-agent-teams-exercises) ![GitHub last commit](https://img.shields.io/github/last-commit/panaversity/claude-code-agent-teams-exercises)](https://github.com/panaversity/claude-code-agent-teams-exercises) by [Panaversity](https://github.com/panaversity) - Practical exercises for Claude Code Agent Teams - 6 exercises + 2 capstones covering team creation, task coordination, quality hooks, and parallel code review - good learning resource.
 - [Harness ![GitHub Repo Stars](https://img.shields.io/github/stars/revfactory/harness) ![GitHub last commit](https://img.shields.io/github/last-commit/revfactory/harness)](https://github.com/revfactory/harness) by [revfactory](https://github.com/revfactory) - A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use. Resources are in Korean but can produce high-quality English-language output.
 
 ### Ralph Wiggum
