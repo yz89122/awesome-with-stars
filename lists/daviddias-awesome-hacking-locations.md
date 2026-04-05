@@ -897,7 +897,7 @@ Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
 ✘ | ✘ | [Rua Portas De Santo Antão, 136, Lisbon, Portugal](https://goo.gl/maps/6cYBbdg82rv) |
 
-#### Padaria Portuguesa - Cais do Sodré
+#### Padaria Portuguesa - Cais do Sodr��
 
 > One of the many Padaria Portuguesa bakeries, delivious sweets and sandwiches.
 
