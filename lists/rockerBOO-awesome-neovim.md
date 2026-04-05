@@ -1694,6 +1694,7 @@ then it is not supported:
 - [saxon1964/neovim-tips ![GitHub Repo Stars](https://img.shields.io/github/stars/saxon1964/neovim-tips) ![GitHub last commit](https://img.shields.io/github/last-commit/saxon1964/neovim-tips)](https://github.com/saxon1964/neovim-tips) - Provides hundreds of built-in tips, tricks and shortcuts, with a custom picker interface and the ability to add your own tips.
 - [ecthelionvi/NeoComposer.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/ecthelionvi/NeoComposer.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/ecthelionvi/NeoComposer.nvim)](https://github.com/ecthelionvi/NeoComposer.nvim) - Simplify macro management, enhance productivity, and create harmonious workflows.
 - [yagiziskirik/AirSupport.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/yagiziskirik/AirSupport.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/yagiziskirik/AirSupport.nvim)](https://github.com/yagiziskirik/AirSupport.nvim) - Searchable reminder window for your custom shortcuts and commands.
+- [emrearmagan/atlas.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/emrearmagan/atlas.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/emrearmagan/atlas.nvim)](https://github.com/emrearmagan/atlas.nvim) - Manage Bitbucket PRs and Jira issues.
 
 ### Stats Tracking
 
