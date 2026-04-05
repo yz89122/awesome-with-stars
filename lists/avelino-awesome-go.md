@@ -1467,6 +1467,7 @@ _Libraries, tools, and tutorials for interacting with hardware._
 - [go-rpio ![GitHub Repo Stars](https://img.shields.io/github/stars/stianeikeland/go-rpio) ![GitHub last commit](https://img.shields.io/github/last-commit/stianeikeland/go-rpio)](https://github.com/stianeikeland/go-rpio) - GPIO for Go, doesn't require cgo.
 - [goroslib ![GitHub Repo Stars](https://img.shields.io/github/stars/aler9/goroslib) ![GitHub last commit](https://img.shields.io/github/last-commit/aler9/goroslib)](https://github.com/aler9/goroslib) - Robot Operating System (ROS) library for Go.
 - [joystick ![GitHub Repo Stars](https://img.shields.io/github/stars/0xcafed00d/joystick) ![GitHub last commit](https://img.shields.io/github/last-commit/0xcafed00d/joystick)](https://github.com/0xcafed00d/joystick) - a polled API to read the state of an attached joystick.
+- [moody ![GitHub Repo Stars](https://img.shields.io/github/stars/dinakars777/moody) ![GitHub last commit](https://img.shields.io/github/last-commit/dinakars777/moody)](https://github.com/dinakars777/moody) - Hardware event personality daemon for macOS. Monitors USB, charger, lid, and other hardware events and responds with customizable personalities.
 - [sysinfo ![GitHub Repo Stars](https://img.shields.io/github/stars/zcalusic/sysinfo) ![GitHub last commit](https://img.shields.io/github/last-commit/zcalusic/sysinfo)](https://github.com/zcalusic/sysinfo) - A pure Go library providing Linux OS / kernel / hardware system information.
 
 **[⬆ back to top](#contents)**
