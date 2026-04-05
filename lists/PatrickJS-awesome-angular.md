@@ -241,7 +241,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [npx-app-updater ![GitHub Repo Stars](https://img.shields.io/github/stars/DSI-HUG/ngx-app-updater) ![GitHub last commit](https://img.shields.io/github/last-commit/DSI-HUG/ngx-app-updater)](https://github.com/DSI-HUG/ngx-app-updater) - Alerts users to available updates when a new version is deployed.
 * [ngx-update-app ![GitHub Repo Stars](https://img.shields.io/github/stars/Celtian/ngx-update-app) ![GitHub last commit](https://img.shields.io/github/last-commit/Celtian/ngx-update-app)](https://github.com/Celtian/ngx-update-app) - Angular directive for updating app via service workers.
 * [Angular Caniuse](https://www.angular.courses/caniuse/features) - Track Angular features from preview to stable stages.
-* [Depfixer](https://depfixer.com/sample-report/angular) - Smart dependency analysis for JS/TS projects; detects compatibility conflicts and provides step‑by���step fixes.
+* [Depfixer](https://depfixer.com/sample-report/angular) - Smart dependency analysis for JS/TS projects; detects compatibility conflicts and provides step‑by‑step fixes.
 * [migration-planificator ![GitHub Repo Stars](https://img.shields.io/github/stars/silvestv/migration-planificator-documentation) ![GitHub last commit](https://img.shields.io/github/last-commit/silvestv/migration-planificator-documentation)](https://github.com/silvestv/migration-planificator-documentation) - Plan Angular migrations with precision AST analysis, calculate workload estimates, and generate interactive HTML dashboards.
 
 ## Angular Pulse
