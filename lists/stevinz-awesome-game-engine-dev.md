@@ -1365,7 +1365,7 @@ _Software to help with game engine / video game development._
 - 💰 [Juice FX](https://codemanu.itch.io/juicefx) - Add style to your sprites and animations with ease.
 - 🆓 [Piskel](https://www.piskelapp.com) - Online editor for animated sprites & pixel art. [[Source ![GitHub Repo Stars](https://img.shields.io/github/stars/piskelapp/piskel) ![GitHub last commit](https://img.shields.io/github/last-commit/piskelapp/piskel)](https://github.com/piskelapp/piskel)]
 - 💰 [PixaTool](https://kronbits.itch.io/pixatool) - Create pixel art by converting your images, sprites or videos.
-- 💰 [Pixel FX](https://codemanu.itch.io/particle-fx-designer) - Create pixel art particle effects and render them to sprite sheets.
+- �� [Pixel FX](https://codemanu.itch.io/particle-fx-designer) - Create pixel art particle effects and render them to sprite sheets.
 - 💰 [Smear FX](https://codemanu.itch.io/smear-fx) - Make your 2D animations juicy by adding some smearing to them.
 
 ### Vector Editors
