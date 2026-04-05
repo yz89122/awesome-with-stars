@@ -328,7 +328,6 @@ If you would like to be guided through how to contribute to a repository on GitH
 
 ## Rust
 
-- [a-b-street ![GitHub Repo Stars](https://img.shields.io/github/stars/a-b-street/abstreet) ![GitHub last commit](https://img.shields.io/github/last-commit/a-b-street/abstreet)](https://github.com/a-b-street/abstreet) _(label: good first issue)_ <br> Transportation planning and traffic simulation software for creating cities friendlier to walking, biking, and public transit.
 - [dotenv-linter ![GitHub Repo Stars](https://img.shields.io/github/stars/dotenv-linter/dotenv-linter) ![GitHub last commit](https://img.shields.io/github/last-commit/dotenv-linter/dotenv-linter)](https://github.com/dotenv-linter/dotenv-linter) _(label: good first issue)_ <br> Lightning-fast linter for .env files. Written in Rust
 - [Hyper ![GitHub Repo Stars](https://img.shields.io/github/stars/hyperium/hyper) ![GitHub last commit](https://img.shields.io/github/last-commit/hyperium/hyper)](https://github.com/hyperium/hyper) _(label: E-easy)_ <br> A fast, safe and correct low-level HTTP library for Rust.
 - [nushell ![GitHub Repo Stars](https://img.shields.io/github/stars/nushell/nushell) ![GitHub last commit](https://img.shields.io/github/last-commit/nushell/nushell)](https://github.com/nushell/nushell) _(label: good first issue)_ <br> A modern shell for the GitHub era written in Rust.
