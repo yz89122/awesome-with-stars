@@ -224,6 +224,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [OpenLIT ![GitHub Repo Stars](https://img.shields.io/github/stars/openlit/openlit) ![GitHub last commit](https://img.shields.io/github/last-commit/openlit/openlit)](https://github.com/openlit/openlit) - Open-source GenAI and LLM observability platform native to OpenTelemetry with traces and metrics. #opensource
 - [Helicone AI](https://helicone.ai/) - Open-source LLM observability platform for logging, monitoring, and debugging AI applications. [#opensource ![GitHub Repo Stars](https://img.shields.io/github/stars/Helicone/helicone) ![GitHub last commit](https://img.shields.io/github/last-commit/Helicone/helicone)](https://github.com/Helicone/helicone)
 - [Wren AI](https://www.getwren.ai/oss) - An open-source text-to-SQL and generative BI agent with a semantic layer. [#opensource ![GitHub Repo Stars](https://img.shields.io/github/stars/Canner/WrenAI) ![GitHub last commit](https://img.shields.io/github/last-commit/Canner/WrenAI)](https://github.com/Canner/WrenAI)
+- [Cleanlab](https://cleanlab.ai/tlm/) - An API for detecting and scoring hallucinations in LLM outputs.
 
 ### Playgrounds
 - [OpenAI Playground](https://platform.openai.com/playground) - Explore resources, tutorials, API docs, and dynamic examples.
