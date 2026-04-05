@@ -40,6 +40,7 @@
     - [mysql_utils ![GitHub Repo Stars](https://img.shields.io/github/stars/pinterest/mysql_utils) ![GitHub last commit](https://img.shields.io/github/last-commit/pinterest/mysql_utils)](https://github.com/pinterest/mysql_utils) - Pinterest MySQL Management Tools.
   - [MariaDB](https://mariadb.org/) - An enhanced, drop-in replacement for MySQL.
   - [PostgreSQL](https://www.postgresql.org/) - The world's most advanced open source database.
+  - [Rivestack](https://rivestack.io/) - Managed PostgreSQL with pgvector for AI workloads. HNSW indexing, sub-4ms latency, and built-in SQL editor with automatic embedding generation.
   - [Amazon RDS](https://aws.amazon.com/rds/) - Makes it easy to set up, operate, and scale a relational database in the cloud.
   - [Crate.IO](https://crate.io/) - Scalable SQL database with the NOSQL goodies.
 - Key-Value
@@ -69,6 +70,7 @@
   - [RethinkDB](https://rethinkdb.com/) - The open-source database for the realtime web.
   - [RavenDB](https://ravendb.net/) - Fully Transactional NoSQL Document Database.
 - Graph
+  - [ArcadeDB](https://arcadedb.com/) - Open-source multi-model database with native graph, document, key-value, and vector support. SQL, Cypher, and Gremlin query languages. Apache 2.0 license.
   - [Neo4j](https://neo4j.com/) - The world's leading graph database.
   - [OrientDB](https://orientdb.com) - 2nd Generation Distributed Graph Database with the flexibility of Documents in one product with an Open Source commercial friendly license.
   - [ArangoDB](https://www.arangodb.com/) - A distributed free and open-source database with a flexible data model for documents, graphs, and key-values.
@@ -144,6 +146,11 @@
 - [Estuary Flow](https://estuary.dev) - No/low-code data pipeline platform that handles both batch and real-time data ingestion.
 - [db2lake ![GitHub Repo Stars](https://img.shields.io/github/stars/bahador-r/db2lake) ![GitHub last commit](https://img.shields.io/github/last-commit/bahador-r/db2lake)](https://github.com/bahador-r/db2lake) - Lightweight Node.js ETL framework for databases → data lakes/warehouses.
 - [Kreuzberg ![GitHub Repo Stars](https://img.shields.io/github/stars/kreuzberg-dev/kreuzberg) ![GitHub last commit](https://img.shields.io/github/last-commit/kreuzberg-dev/kreuzberg)](https://github.com/kreuzberg-dev/kreuzberg) - Polyglot document intelligence library with a Rust core and bindings for Python, TypeScript, Go, and more. Extracts text, tables, and metadata from 62+ document formats for data pipeline ingestion.
+- [DataRaven](https://dataraven.io/) - Managed cloud object storage transfers for ingestion workflows.
+- [Xquik](https://xquik.com) - Real-time X (Twitter) data extraction platform with REST API (76 endpoints), 20 bulk extraction tools, account monitoring, HMAC-signed webhooks, and MCP server for AI agent integration.
+- [Arpe.io](https://www.arpe.io/) - High-speed CLI tools for database export, import, replication and migration with parallel streaming to CSV, Parquet, JSON and cloud storage, supporting PostgreSQL, MySQL, Oracle, SQL Server and 80+ sources.
+- [Crustdata](https://crustdata.com) - A real-time B2B data API for company and people intelligence, providing firmographics, headcount signals, job listings, web traffic, and funding events via REST API and webhooks for data enrichment pipelines.
+- [crdt-merge ![GitHub Repo Stars](https://img.shields.io/github/stars/mgillr/crdt-merge) ![GitHub last commit](https://img.shields.io/github/last-commit/mgillr/crdt-merge)](https://github.com/mgillr/crdt-merge) - Conflict-free merge for DataFrames, JSON, ML models & distributed agents — powered by CRDTs.
 
 ## File System
 
@@ -209,6 +216,7 @@
 - [Tez](https://tez.apache.org/) - An application framework which allows for a complex directed-acyclic-graph of tasks for processing data.
 - [Bistro ![GitHub Repo Stars](https://img.shields.io/github/stars/asavinov/bistro) ![GitHub last commit](https://img.shields.io/github/last-commit/asavinov/bistro)](https://github.com/asavinov/bistro) - A light-weight engine for general-purpose data processing including both batch and stream analytics. It is based on a novel unique data model, which represents data via _functions_ and processes data via _columns operations_ as opposed to having only set operations in conventional approaches like MapReduce or SQL.
 - [Substation ![GitHub Repo Stars](https://img.shields.io/github/stars/brexhq/substation) ![GitHub last commit](https://img.shields.io/github/last-commit/brexhq/substation)](https://github.com/brexhq/substation) - A cloud native data pipeline and transformation toolkit written in Go.
+- [dna-claude-analysis ![GitHub Repo Stars](https://img.shields.io/github/stars/shmlkv/dna-claude-analysis) ![GitHub last commit](https://img.shields.io/github/last-commit/shmlkv/dna-claude-analysis)](https://github.com/shmlkv/dna-claude-analysis) - Personal genome analysis toolkit with Python scripts analyzing raw DNA data across 17 categories (health risks, ancestry, pharmacogenomics, nutrition, psychology, etc.) and generating a terminal-style single-page HTML visualization.
 - Batch ML
   - [H2O](https://www.h2o.ai/) - Fast scalable machine learning API for smarter applications.
   - [Mahout](https://mahout.apache.org/) - An environment for quickly creating scalable performant machine learning applications.
@@ -243,6 +251,7 @@
 
 ## Workflow
 
+- [Bonnard](https://bonnard.dev/) - Agent-native semantic layer with governed metrics, React SDK, and multi-warehouse support. Connects AI agents and dashboards to a single source of truth.
 - [Bruin ![GitHub Repo Stars](https://img.shields.io/github/stars/bruin-data/bruin) ![GitHub last commit](https://img.shields.io/github/last-commit/bruin-data/bruin)](https://github.com/bruin-data/bruin) - End-to-end data pipeline tool that combines ingestion, transformation (SQL + Python), and data quality in a single CLI. Connects to BigQuery, Snowflake, PostgreSQL, Redshift, and more. Includes VS Code extension with live previews.
 - [Luigi ![GitHub Repo Stars](https://img.shields.io/github/stars/spotify/luigi) ![GitHub last commit](https://img.shields.io/github/last-commit/spotify/luigi)](https://github.com/spotify/luigi) - A Python module that helps you build complex pipelines of batch jobs.
 - [CronQ ![GitHub Repo Stars](https://img.shields.io/github/stars/seatgeek/cronq) ![GitHub last commit](https://img.shields.io/github/last-commit/seatgeek/cronq)](https://github.com/seatgeek/cronq) - An application cron-like system. [Used](https://chairnerd.seatgeek.com/building-out-the-seatgeek-data-pipeline/) w/Luigi. Deprecated.
@@ -298,6 +307,7 @@
 
 ### Realtime
 
+- [DexPaprika](https://api.dexpaprika.com) - Free real-time DEX data via SSE streaming across 34 blockchains. 30M+ pools, 27M+ tokens, ~1 second price updates. No API key, no rate limits. [Docs](https://docs.dexpaprika.com)
 - [Twitter Realtime](https://developer.twitter.com/en/docs/tweets/filter-realtime/overview) - The Streaming APIs give developers low latency access to Twitter's global stream of Tweet data.
 - [Eventsim ![GitHub Repo Stars](https://img.shields.io/github/stars/Interana/eventsim) ![GitHub last commit](https://img.shields.io/github/last-commit/Interana/eventsim)](https://github.com/Interana/eventsim) - Event data simulator. Generates a stream of pseudo-random events from a set of users, designed to simulate web traffic.
 - [Reddit](https://www.reddit.com/r/datasets/comments/3mk1vg/realtime_data_is_available_including_comments/) - Real-time data is available including comments, submissions and links posted to reddit.
@@ -307,6 +317,7 @@
 - [GitHub Archive](https://www.gharchive.org/) - GitHub's public timeline since 2011, updated every hour.
 - [Common Crawl](https://commoncrawl.org/) - Open source repository of web crawl data.
 - [Wikipedia](https://dumps.wikimedia.org/enwiki/latest/) - Wikipedia's complete copy of all wikis, in the form of Wikitext source and metadata embedded in XML. A number of raw database tables in SQL form are also available.
+- [FirstData ![GitHub Repo Stars](https://img.shields.io/github/stars/MLT-OSS/FirstData) ![GitHub last commit](https://img.shields.io/github/last-commit/MLT-OSS/FirstData)](https://github.com/MLT-OSS/FirstData) - The world's most comprehensive authoritative data source knowledge base. 160+ curated sources from governments, international organizations, and research institutions with MCP integration.
 
 ## Monitoring
 
@@ -329,10 +340,14 @@
 - [DQOps ![GitHub Repo Stars](https://img.shields.io/github/stars/dqops/dqo) ![GitHub last commit](https://img.shields.io/github/last-commit/dqops/dqo)](https://github.com/dqops/dqo) - An open-source data quality platform for the whole data platform lifecycle from profiling new data sources to applying full automation of data quality monitoring.
 - [DataKitchen](https://datakitchen.io/) -  Open Source Data Observability for end-to-end Data Journey Observability, data profiling, anomaly detection, and auto-created data quality validation tests.
 - [GreatExpectation](https://greatexpectations.io/) -  Open Source data validation framework to manage data quality. Users can define and document “expectations” rules about how data should look and behave.
+- [Provero ![GitHub Repo Stars](https://img.shields.io/github/stars/provero-org/provero) ![GitHub last commit](https://img.shields.io/github/last-commit/provero-org/provero)](https://github.com/provero-org/provero) - A vendor-neutral, declarative data quality engine. Define checks in YAML, run anywhere. Includes 16 built-in check types, SQL batch optimizer, anomaly detection, and data contracts.
 - [RunSQL](https://runsql.com/) - Free online SQL playground for MySQL, PostgreSQL, and SQL Server. Create database structures, run queries, and share results instantly.
 - [Spark Playground](https://www.sparkplayground.com/) - Write, run, and test PySpark code on Spark Playground's online compiler. Access real-world sample datasets & solve interview questions to enhance your PySpark skills for data engineering roles.
 - [daffy ![GitHub Repo Stars](https://img.shields.io/github/stars/vertti/daffy) ![GitHub last commit](https://img.shields.io/github/last-commit/vertti/daffy)](https://github.com/vertti/daffy/) - Decorator-first DataFrame contracts/validation (columns/dtypes/constraints) at function boundaries. Supports Pandas/Polars/PyArrow/Modin.
 - [Snowflake Emulator ![GitHub Repo Stars](https://img.shields.io/github/stars/nnnkkk7/snowflake-emulator) ![GitHub last commit](https://img.shields.io/github/last-commit/nnnkkk7/snowflake-emulator)](https://github.com/nnnkkk7/snowflake-emulator) - A Snowflake-compatible emulator for local development and testing.
+- [DataScreenIQ](https://datascreeniq.com) - Real-time data quality firewall for pipelines and APIs. Screens rows in milliseconds for schema drift, null spikes, type mismatches, and data anomalies with PASS / WARN / BLOCK decisions.
+- [DataDriven](https://www.datadriven.io/) - Interview practice with SQL query execution, Python, and data modeling exercises.
+
 
 ## Community
 
@@ -347,7 +362,12 @@
 
 ### Podcasts
 
+- [Chain of Thought](https://www.chainofthought.show/) - Interviews with AI and data infrastructure leaders on building production systems.
 - [Data Engineering Podcast](https://www.dataengineeringpodcast.com/) - The show about modern data infrastructure.
+- [Latent Space](https://www.latent.space/podcast) - Technical deep dives on AI engineering, from model training to deployment.
+- [Practical AI](https://practicalai.fm/) - Making AI practical, productive, and accessible to everyone.
+- [Software Engineering Daily](https://softwareengineeringdaily.com/) - Daily interviews about technical software topics, including data infrastructure.
+- [The Analytics Engineering Podcast](https://roundup.getdbt.com/s/the-analytics-engineering-podcast) - How analytics engineers build and maintain data pipelines at scale.
 - [The Data Stack Show](https://datastackshow.com/) - A show where they talk to data engineers, analysts, and data scientists about their experience around building and maintaining data infrastructure, delivering data and data products, and driving better outcomes across their businesses with data.
 
 ### Books
