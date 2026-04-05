@@ -174,7 +174,7 @@ _Info on topics necessary for designing and developing game engines._
     - 🌎 [DirectX](https://docs.microsoft.com/en-us/windows/win32/directx) - _Microsoft_ API used to create 2D/3D games and apps. [[Blog](https://devblogs.microsoft.com/directx/) | [Samples ![GitHub Repo Stars](https://img.shields.io/github/stars/microsoft/DirectX-Graphics-Samples) ![GitHub last commit](https://img.shields.io/github/last-commit/microsoft/DirectX-Graphics-Samples)](https://github.com/microsoft/DirectX-Graphics-Samples)]
     - 📚 [DirectXTutorial.com](http://www.directxtutorial.com/default.aspx) - Older resource with lots of tutorials on DirectX versions 9 & 11.
 - Graphics API: Glide
-    - 📚 [Glide](https://en.wikipedia.org/wiki/Glide_(API)) - Developed by _3dfx Interactive_ for their _Voodoo Graphics_ in the 1990's.
+    - ��� [Glide](https://en.wikipedia.org/wiki/Glide_(API)) - Developed by _3dfx Interactive_ for their _Voodoo Graphics_ in the 1990's.
     - 🌎 [Glide Open Source Project](https://glide.sourceforge.net/) - Glide open source project.
 - Graphics API: Mantle
     - 📚 [Mantle](https://en.wikipedia.org/wiki/Mantle_(API)) - Developed by _AMD_ as an alternative to Direct3D and OpenGL.
@@ -520,7 +520,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 📚 [NVIDIA GameWorks](https://github.com/NVIDIAGameWorks) - _NVIDIA_ technologies for game & app developers.
 - C++: Lighting
     - 🎉 [Thekla Atlas ![GitHub Repo Stars](https://img.shields.io/github/stars/Thekla/thekla_atlas) ![GitHub last commit](https://img.shields.io/github/last-commit/Thekla/thekla_atlas)](https://github.com/Thekla/thekla_atlas) - Atlas generation tool.
-    - 🎉 [UVAtlas ![GitHub Repo Stars](https://img.shields.io/github/stars/Microsoft/UVAtlas) ![GitHub last commit](https://img.shields.io/github/last-commit/Microsoft/UVAtlas)](https://github.com/Microsoft/UVAtlas) - DirectX library for creating and packing texture atlases.
+    - ���� [UVAtlas ![GitHub Repo Stars](https://img.shields.io/github/stars/Microsoft/UVAtlas) ![GitHub last commit](https://img.shields.io/github/last-commit/Microsoft/UVAtlas)](https://github.com/Microsoft/UVAtlas) - DirectX library for creating and packing texture atlases.
 - C++: Math
     - 🎉 [OpenGL Mathematics ![GitHub Repo Stars](https://img.shields.io/github/stars/g-truc/glm) ![GitHub last commit](https://img.shields.io/github/last-commit/g-truc/glm)](https://github.com/g-truc/glm) - Header-only math library for graphics software.
 - C++: Network
