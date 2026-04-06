@@ -255,7 +255,7 @@ Browse and search the resources via the [GitHub Pages UI](https://inoue0426.gith
 - [ChatSpatial ![GitHub Repo Stars](https://img.shields.io/github/stars/cafferychen777/ChatSpatial) ![GitHub last commit](https://img.shields.io/github/last-commit/cafferychen777/ChatSpatial)](https://github.com/cafferychen777/ChatSpatial) — MCP server for spatial transcriptomics analysis via natural language.
 - [Scanpy](https://scanpy.readthedocs.io/en/stable/) — Python library for scRNA-seq analysis.
 - [Seurat](https://satijalab.org/seurat/) — R library for scRNA-seq analysis.
-- [scvi-tools](https://scvi-tools.org/) — Probabilistic models for single-cell omics data analysis.
+- [scvi-tools](https://scvi-tools.org/) ��� Probabilistic models for single-cell omics data analysis.
 - [CellTypist ![GitHub Repo Stars](https://img.shields.io/github/stars/Teichlab/celltypist) ![GitHub last commit](https://img.shields.io/github/last-commit/Teichlab/celltypist)](https://github.com/Teichlab/celltypist) — Automated cell type annotation for scRNA-seq.
 - [Squidpy](https://squidpy.readthedocs.io/) — Python library for spatial single-cell analysis.
 - [GROMACS](https://www.gromacs.org/) — Molecular dynamics simulation package for biochemical molecules.
@@ -402,7 +402,7 @@ Browse and search the resources via the [GitHub Pages UI](https://inoue0426.gith
 
 - [Nucleotide Transformer ![GitHub Repo Stars](https://img.shields.io/github/stars/instadeepai/nucleotide-transformer) ![GitHub last commit](https://img.shields.io/github/last-commit/instadeepai/nucleotide-transformer)](https://github.com/instadeepai/nucleotide-transformer) — Foundation model for genomic sequences across multiple species.
 - [DNABERT ![GitHub Repo Stars](https://img.shields.io/github/stars/jerryji1993/DNABERT) ![GitHub last commit](https://img.shields.io/github/last-commit/jerryji1993/DNABERT)](https://github.com/jerryji1993/DNABERT) — Pre-trained bidirectional encoder for DNA sequence analysis.
-- [DNABERT-2 ![GitHub Repo Stars](https://img.shields.io/github/stars/Zhihan1996/DNABERT_2) ![GitHub last commit](https://img.shields.io/github/last-commit/Zhihan1996/DNABERT_2)](https://github.com/Zhihan1996/DNABERT_2) ��� Improved genome foundation model with efficient tokenization.
+- [DNABERT-2 ![GitHub Repo Stars](https://img.shields.io/github/stars/Zhihan1996/DNABERT_2) ![GitHub last commit](https://img.shields.io/github/last-commit/Zhihan1996/DNABERT_2)](https://github.com/Zhihan1996/DNABERT_2) — Improved genome foundation model with efficient tokenization.
 - [Enformer ![GitHub Repo Stars](https://img.shields.io/github/stars/deepmind/deepmind-research) ![GitHub last commit](https://img.shields.io/github/last-commit/deepmind/deepmind-research)](https://github.com/deepmind/deepmind-research/tree/master/enformer) — Transformer model predicting gene expression from DNA sequence.
 - [Basenji ![GitHub Repo Stars](https://img.shields.io/github/stars/calico/basenji) ![GitHub last commit](https://img.shields.io/github/last-commit/calico/basenji)](https://github.com/calico/basenji) — Sequential regulatory activity prediction from DNA sequences.
 - [Caduceus ![GitHub Repo Stars](https://img.shields.io/github/stars/kuleshov-group/caduceus) ![GitHub last commit](https://img.shields.io/github/last-commit/kuleshov-group/caduceus)](https://github.com/kuleshov-group/caduceus) — Bidirectional equivariant long-range DNA sequence model based on Mamba.
