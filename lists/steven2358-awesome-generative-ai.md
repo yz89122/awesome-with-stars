@@ -198,6 +198,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [v0](https://v0.dev) - Prompt-driven UI generation for React and Next.js, creating production-ready components.
 - [Lovable](https://lovable.dev) - Conversational full-stack app generation, turning ideas into deployable code.
 - [aider](https://aider.chat/) - AI pair programming in your terminal, supporting multiple LLM providers. [#opensource ![GitHub Repo Stars](https://img.shields.io/github/stars/paul-gauthier/aider) ![GitHub last commit](https://img.shields.io/github/last-commit/paul-gauthier/aider)](https://github.com/paul-gauthier/aider)
+- [Kilo Code](https://kilocode.ai) - Open-source AI coding assistant for VS Code, JetBrains, and the CLI. [#opensource ![GitHub Repo Stars](https://img.shields.io/github/stars/Kilo-Org/kilocode) ![GitHub last commit](https://img.shields.io/github/last-commit/Kilo-Org/kilocode)](https://github.com/Kilo-Org/kilocode)
 
 ### Developer tools
 
