@@ -149,7 +149,7 @@ Browse and search the resources via the [GitHub Pages UI](https://inoue0426.gith
 #### Drug-Gene Interaction
 
 - [DGIdb](https://www.dgidb.org/) — Drug-gene interactions and the druggable genome.
-- [Comparative Toxicogenomics Database](http://ctdbase.org/) — Chemical-gene interactions, chemical-disease and gene-disease associations, chemical-phenotype associations.
+- [Comparative Toxicogenomics Database](http://ctdbase.org/) ��� Chemical-gene interactions, chemical-disease and gene-disease associations, chemical-phenotype associations.
 - [SNAP](https://snap.stanford.edu/biodata/datasets/10002/10002-ChG-Miner.html) — Dataset of drug-gene interactions.
 
 #### Drug (Cell Line) Response
@@ -402,7 +402,7 @@ Browse and search the resources via the [GitHub Pages UI](https://inoue0426.gith
 
 - [Nucleotide Transformer ![GitHub Repo Stars](https://img.shields.io/github/stars/instadeepai/nucleotide-transformer) ![GitHub last commit](https://img.shields.io/github/last-commit/instadeepai/nucleotide-transformer)](https://github.com/instadeepai/nucleotide-transformer) — Foundation model for genomic sequences across multiple species.
 - [DNABERT ![GitHub Repo Stars](https://img.shields.io/github/stars/jerryji1993/DNABERT) ![GitHub last commit](https://img.shields.io/github/last-commit/jerryji1993/DNABERT)](https://github.com/jerryji1993/DNABERT) — Pre-trained bidirectional encoder for DNA sequence analysis.
-- [DNABERT-2 ![GitHub Repo Stars](https://img.shields.io/github/stars/Zhihan1996/DNABERT_2) ![GitHub last commit](https://img.shields.io/github/last-commit/Zhihan1996/DNABERT_2)](https://github.com/Zhihan1996/DNABERT_2) ��� Improved genome foundation model with efficient tokenization.
+- [DNABERT-2 ![GitHub Repo Stars](https://img.shields.io/github/stars/Zhihan1996/DNABERT_2) ![GitHub last commit](https://img.shields.io/github/last-commit/Zhihan1996/DNABERT_2)](https://github.com/Zhihan1996/DNABERT_2) — Improved genome foundation model with efficient tokenization.
 - [Enformer ![GitHub Repo Stars](https://img.shields.io/github/stars/deepmind/deepmind-research) ![GitHub last commit](https://img.shields.io/github/last-commit/deepmind/deepmind-research)](https://github.com/deepmind/deepmind-research/tree/master/enformer) — Transformer model predicting gene expression from DNA sequence.
 - [Basenji ![GitHub Repo Stars](https://img.shields.io/github/stars/calico/basenji) ![GitHub last commit](https://img.shields.io/github/last-commit/calico/basenji)](https://github.com/calico/basenji) — Sequential regulatory activity prediction from DNA sequences.
 - [Caduceus ![GitHub Repo Stars](https://img.shields.io/github/stars/kuleshov-group/caduceus) ![GitHub last commit](https://img.shields.io/github/last-commit/kuleshov-group/caduceus)](https://github.com/kuleshov-group/caduceus) — Bidirectional equivariant long-range DNA sequence model based on Mamba.
