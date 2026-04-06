@@ -443,6 +443,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [The Generative AI Landscape ![GitHub Repo Stars](https://img.shields.io/github/stars/ai-collection/ai-collection) ![GitHub last commit](https://img.shields.io/github/last-commit/ai-collection/ai-collection)](https://github.com/ai-collection/ai-collection) - A Collection of Awesome Generative AI Applications.
 - [Molecular design ![GitHub Repo Stars](https://img.shields.io/github/stars/AspirinCode/papers-for-molecular-design-using-DL) ![GitHub last commit](https://img.shields.io/github/last-commit/AspirinCode/papers-for-molecular-design-using-DL)](https://github.com/AspirinCode/papers-for-molecular-design-using-DL) - List of molecular design using Generative AI and Deep Learning.
 - [Open LLMs ![GitHub Repo Stars](https://img.shields.io/github/stars/eugeneyan/open-llms) ![GitHub last commit](https://img.shields.io/github/last-commit/eugeneyan/open-llms)](https://github.com/eugeneyan/open-llms) - A list of open LLMs available for commercial use.
+- [Awesome Music AI ![GitHub Repo Stars](https://img.shields.io/github/stars/steven2358/awesome-music-ai) ![GitHub last commit](https://img.shields.io/github/last-commit/steven2358/awesome-music-ai)](https://github.com/steven2358/awesome-music-ai) - A curated list of AI tools for music composition, generation, and analysis.
 
 ### Lists on ChatGPT
 
