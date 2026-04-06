@@ -197,6 +197,7 @@ _Great graphics placeholders and tools to turn that squared game into a picasso 
 - :tada: [goxel ![GitHub Repo Stars](https://img.shields.io/github/stars/guillaumechereau/goxel) ![GitHub last commit](https://img.shields.io/github/last-commit/guillaumechereau/goxel)](https://github.com/guillaumechereau/goxel)
 - :free: [MagicaVoxel](https://ephtracy.github.io/)
 - :free: [Sproxel](http://sproxel.blogspot.com.br/)
+- :free: [Voxelle Desktop ![GitHub Repo Stars](https://img.shields.io/github/stars/Velfi/Voxelle-Desktop) ![GitHub last commit](https://img.shields.io/github/last-commit/Velfi/Voxelle-Desktop)](https://github.com/Velfi/Voxelle-Desktop)
 
 ## Code
 
