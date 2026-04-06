@@ -270,6 +270,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [moltbook](https://www.moltbook.com) - A social network for AI agents.
 - [AgentMail](https://www.agentmail.to) - Email inboxes for AI agents.
 - [Openwork](https://openwork.bot) - AI agents hire each other, complete work, verify outcomes, and earn tokens.
+- [Agent Skills](https://agentskills.io) - Open format and reference SDK for packaging reusable capabilities and expertise for AI agents. [#opensource ![GitHub Repo Stars](https://img.shields.io/github/stars/agentskills/agentskills) ![GitHub last commit](https://img.shields.io/github/last-commit/agentskills/agentskills)](https://github.com/agentskills/agentskills)
 
 ### Custom assistants
 
@@ -434,7 +435,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 ## More lists
 
 - [Tools and Resources for AI Art](https://pharmapsychotic.com/tools.html) - A large list of Google Colab notebooks for generative AI, by [@pharmapsychotic](https://twitter.com/pharmapsychotic).
-- [The Generative AI Application Landscape](https://twitter.com/sonyatweetybird/status/1584580362339962880) - An infographic that maps the generative AI ecosystem, by [Sonya Huang](https://twitter.com/sonyatweetybird) of Sequioa Capital.
+- [The Generative AI Application Landscape](https://twitter.com/sonyatweetybird/status/1584580362339962880) - An infographic that maps the generative AI ecosystem, by [Sonya Huang](https://twitter.com/sonyatweetybird) of Sequoia Capital.
 - [Startups - @builtwithgenai](https://airtable.com/shr6nfE9FOHp17IjG/tblL3ekHZfkm3p6YT) - An Airtable list by [@builtwithgenai](https://twitter.com/builtwithgenai).
 - [The Generative AI Index](https://airtable.com/shrH4REIgddv8SzUo/tbl5dsXdD1P859QLO) - An Airtable list by [Scale Venture Partners](https://www.scalevp.com/generative-ai).
 - [Generative AI for Games](https://twitter.com/gwertz/status/1593268767269670912) - A market map of companies working on Generative AI for games, by [a16z](https://a16z.com/).
@@ -445,6 +446,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Molecular design ![GitHub Repo Stars](https://img.shields.io/github/stars/AspirinCode/papers-for-molecular-design-using-DL) ![GitHub last commit](https://img.shields.io/github/last-commit/AspirinCode/papers-for-molecular-design-using-DL)](https://github.com/AspirinCode/papers-for-molecular-design-using-DL) - List of molecular design using Generative AI and Deep Learning.
 - [Open LLMs ![GitHub Repo Stars](https://img.shields.io/github/stars/eugeneyan/open-llms) ![GitHub last commit](https://img.shields.io/github/last-commit/eugeneyan/open-llms)](https://github.com/eugeneyan/open-llms) - A list of open LLMs available for commercial use.
 - [Awesome Music AI ![GitHub Repo Stars](https://img.shields.io/github/stars/steven2358/awesome-music-ai) ![GitHub last commit](https://img.shields.io/github/last-commit/steven2358/awesome-music-ai)](https://github.com/steven2358/awesome-music-ai) - A curated list of AI tools for music composition, generation, and analysis.
+- [Awesome AI Market Maps ![GitHub Repo Stars](https://img.shields.io/github/stars/joylarkin/Awesome-AI-Market-Maps) ![GitHub last commit](https://img.shields.io/github/last-commit/joylarkin/Awesome-AI-Market-Maps)](https://github.com/joylarkin/Awesome-AI-Market-Maps) - A curated list of AI market maps from 2026, 2025, and 2024, by [Joy Larkin](https://twitter.com/joy).
 
 ### Lists on ChatGPT
 
