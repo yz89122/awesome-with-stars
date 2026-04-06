@@ -10,27 +10,26 @@ Your favorite tool or your own paper is not listed? Fork and create a Pull Reque
 ## Contents
 
 - [Books](#books)
+- [Talks](#talks)
 - [Papers](#papers)
 - [Tools](#tools)
-- [Platform](#platform)
 
 
 ## Books
 - [Fuzzing Against the Machine: Automate vulnerability research with emulated IoT devices on QEMU](https://a.co/d/0bXISQgZ) (2023)
 - [Fuzzing-101 ![GitHub Repo Stars](https://img.shields.io/github/stars/antonio-morales/Fuzzing101) ![GitHub last commit](https://img.shields.io/github/last-commit/antonio-morales/Fuzzing101)](https://github.com/antonio-morales/Fuzzing101)
 - [The Fuzzing Book](https://www.fuzzingbook.org/) (2019)
-- [The Art, Science, and Engineering of Fuzzing: A Survey](https://ieeexplore.ieee.org/document/8863940) (2019) - 
-Actually, this document is a paper, but it contains more important and essential content than any other book.
+- [The Art, Science, and Engineering of Fuzzing: A Survey](https://ieeexplore.ieee.org/document/8863940) (2019) - Actually, this document is a paper, but it contains more important and essential content than any other book.
 - [Fuzzing for Software Security Testing and Quality Assurance, 2nd Edition](https://www.amazon.com/Fuzzing-Software-Security-Testing-Assurance/dp/1608078507/) (2018)
 - [Fuzzing: Brute Force Vulnerability Discovery, 1st Edition](https://www.amazon.com/Fuzzing-Brute-Force-Vulnerability-Discovery/dp/0321446119/) (2007)
 - [Open Source Fuzzing Tools, 1st Edition](https://www.amazon.com/Open-Source-Fuzzing-Tools-Rathaus/dp/1597491950/) (2007)
 
 
 ## Talks
-- [Fuzzing Labs - Patrick Ventuzelo](https://www.youtube.com/channel/UCGD1Qt2jgnFRjrfAITGdNfQ), Youtube
-- [Effective File Format Fuzzing](https://youtu.be/qTTwqFRD1H8), Black Hat Europe 2016
-- [Adventures in Fuzzing](https://www.youtube.com/watch?v=SngK4W4tVc0), NYU Talk 2018
-- [Fuzzing with AFL](https://www.youtube.com/watch?v=DFQT1YxvpDo), NDC Conferences 2018
+- [Fuzzing Labs - Patrick Ventuzelo](https://www.youtube.com/channel/UCGD1Qt2jgnFRjrfAITGdNfQ) - YouTube.
+- [Effective File Format Fuzzing](https://youtu.be/qTTwqFRD1H8) - Black Hat Europe 2016.
+- [Adventures in Fuzzing](https://www.youtube.com/watch?v=SngK4W4tVc0) - NYU Talk 2018.
+- [Fuzzing with AFL](https://www.youtube.com/watch?v=DFQT1YxvpDo) - NDC Conferences 2018.
 
 ## Papers
 To achieve a well-defined scope, I have chosen to include publications on fuzzing in the last proceedings of 4
@@ -450,9 +449,9 @@ Information about the various open source tools you can use to leverage fuzz tes
 ### Firmware
 ### Hypervisor
 ### CPU
-- [DifuzzRTL ![GitHub Repo Stars](https://img.shields.io/github/stars/compsec-snu/difuzz-rtl) ![GitHub last commit](https://img.shields.io/github/last-commit/compsec-snu/difuzz-rtl)](https://github.com/compsec-snu/difuzz-rtl) - DifuzzRTL is a differential fuzz testing approach for CPU verification. 
+- [DifuzzRTL ![GitHub Repo Stars](https://img.shields.io/github/stars/compsec-snu/difuzz-rtl) ![GitHub last commit](https://img.shields.io/github/last-commit/compsec-snu/difuzz-rtl)](https://github.com/compsec-snu/difuzz-rtl) - DifuzzRTL is a differential fuzz testing approach for CPU verification.
 - [MorFuzz ![GitHub Repo Stars](https://img.shields.io/github/stars/sycuricon/MorFuzz) ![GitHub last commit](https://img.shields.io/github/last-commit/sycuricon/MorFuzz)](https://github.com/sycuricon/MorFuzz) - MorFuzz is a generic RISC-V processor fuzzing framework that can efficiently detect software triggerable functional bugs.
-- [SpecFuzz ![GitHub Repo Stars](https://img.shields.io/github/stars/tudinfse/SpecFuzz) ![GitHub last commit](https://img.shields.io/github/last-commit/tudinfse/SpecFuzz)](https://github.com/tudinfse/SpecFuzz) - SpecFuzz is a tool to enable fuzzing for Spectre vulnerabilities
+- [SpecFuzz ![GitHub Repo Stars](https://img.shields.io/github/stars/tudinfse/SpecFuzz) ![GitHub last commit](https://img.shields.io/github/last-commit/tudinfse/SpecFuzz)](https://github.com/tudinfse/SpecFuzz) - SpecFuzz is a tool to enable fuzzing for Spectre vulnerabilities.
 - [Transynther ![GitHub Repo Stars](https://img.shields.io/github/stars/vernamlab/Medusa) ![GitHub last commit](https://img.shields.io/github/last-commit/vernamlab/Medusa)](https://github.com/vernamlab/Medusa) - Transynther automatically generates and tests building blocks for Meltdown attacks with various faults and microcode assists.
 ### Lib
 ### Web
@@ -462,7 +461,7 @@ Information about the various open source tools you can use to leverage fuzz tes
 ### DOM
 ### Argument
 ### Blockchain
-- [Fluffy ![GitHub Repo Stars](https://img.shields.io/github/stars/snuspl/fluffy) ![GitHub last commit](https://img.shields.io/github/last-commit/snuspl/fluffy)](https://github.com/snuspl/fluffy) - Fluffy is a multi-transaction differential fuzzer for finding consensus bugs in Ethereum. 
+- [Fluffy ![GitHub Repo Stars](https://img.shields.io/github/stars/snuspl/fluffy) ![GitHub last commit](https://img.shields.io/github/last-commit/snuspl/fluffy)](https://github.com/snuspl/fluffy) - Fluffy is a multi-transaction differential fuzzer for finding consensus bugs in Ethereum.
 - [LOKI ![GitHub Repo Stars](https://img.shields.io/github/stars/ConsensusFuzz/LOKI) ![GitHub last commit](https://img.shields.io/github/last-commit/ConsensusFuzz/LOKI)](https://github.com/ConsensusFuzz/LOKI) - LOKI is a blockchain consensus protocol fuzzing framework that detects the consensus memory related and logic bugs.
 ### DBMS
 - [Squirrel ![GitHub Repo Stars](https://img.shields.io/github/stars/s3team/Squirrel) ![GitHub last commit](https://img.shields.io/github/last-commit/s3team/Squirrel)](https://github.com/s3team/Squirrel) - Squirrel is a fuzzer for database managment systems (DBMSs).
