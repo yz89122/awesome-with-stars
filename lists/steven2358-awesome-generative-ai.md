@@ -197,6 +197,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [DataLine](https://dataline.app) - An AI-driven data analysis and visualization tool. [#opensource ![GitHub Repo Stars](https://img.shields.io/github/stars/RamiAwar/dataline) ![GitHub last commit](https://img.shields.io/github/last-commit/RamiAwar/dataline)](https://github.com/RamiAwar/dataline)
 - [v0](https://v0.dev) - Prompt-driven UI generation for React and Next.js, creating production-ready components.
 - [Lovable](https://lovable.dev) - Conversational full-stack app generation, turning ideas into deployable code.
+- [aider](https://aider.chat/) - AI pair programming in your terminal, supporting multiple LLM providers. [#opensource ![GitHub Repo Stars](https://img.shields.io/github/stars/paul-gauthier/aider) ![GitHub last commit](https://img.shields.io/github/last-commit/paul-gauthier/aider)](https://github.com/paul-gauthier/aider)
 
 ### Developer tools
 
@@ -227,6 +228,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Cleanlab](https://cleanlab.ai/tlm/) - An API for detecting and scoring hallucinations in LLM outputs.
 - [Opik ![GitHub Repo Stars](https://img.shields.io/github/stars/comet-ml/opik) ![GitHub last commit](https://img.shields.io/github/last-commit/comet-ml/opik)](https://github.com/comet-ml/opik) - An open-source platform for tracing, evaluating, and monitoring LLM applications. [#opensource ![GitHub Repo Stars](https://img.shields.io/github/stars/comet-ml/opik) ![GitHub last commit](https://img.shields.io/github/last-commit/comet-ml/opik)](https://github.com/comet-ml/opik)
 - [Langfuse](https://langfuse.com/) - An open-source LLM engineering platform for tracing, evaluation, prompt management, and metrics. [#opensource ![GitHub Repo Stars](https://img.shields.io/github/stars/langfuse/langfuse) ![GitHub last commit](https://img.shields.io/github/last-commit/langfuse/langfuse)](https://github.com/langfuse/langfuse)
+- [MLflow](https://mlflow.org/) - An open-source platform for tracking ML experiments, evaluating models and prompts, deploying models, and adding LLM observability. [#opensource ![GitHub Repo Stars](https://img.shields.io/github/stars/mlflow/mlflow) ![GitHub last commit](https://img.shields.io/github/last-commit/mlflow/mlflow)](https://github.com/mlflow/mlflow)
 
 ### Playgrounds
 - [OpenAI Playground](https://platform.openai.com/playground) - Explore resources, tutorials, API docs, and dynamic examples.
