@@ -946,6 +946,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 ## Multimedia
 
 * [GStreamer](http://gstreamer.freedesktop.org/) - A library for constructing graphs of media-handling components. [LGPL]
+* [icey ![GitHub Repo Stars](https://img.shields.io/github/stars/nilstate/icey) ![GitHub last commit](https://img.shields.io/github/last-commit/nilstate/icey)](https://github.com/nilstate/icey) - Real-time media stack and lightweight libwebrtc alternative for RTSP ingest, media processing, signaling, TURN, and browser delivery, built in C++20. [LGPL v2.1+]
 * [libass ![GitHub Repo Stars](https://img.shields.io/github/stars/libass/libass) ![GitHub last commit](https://img.shields.io/github/last-commit/libass/libass)](https://github.com/libass/libass) - Portable subtitle renderer for the ASS/SSA subtitle format. [ISC]
 * [libav ![GitHub Repo Stars](https://img.shields.io/github/stars/libav/libav) ![GitHub last commit](https://img.shields.io/github/last-commit/libav/libav)](https://github.com/libav/libav) - A collection of libraries and tools to process multimedia content such as audio, video, subtitles and related metadata. [LGPL v2.1+ and others] [website](https://www.libav.org/)
 * [LIVE555 Streaming Media](http://www.live555.com/liveMedia/) - Multimedia streaming library using open standard protocols (RTP/RTCP, RTSP, SIP). [LGPL]

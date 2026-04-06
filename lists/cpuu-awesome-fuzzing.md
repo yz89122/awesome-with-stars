@@ -13,6 +13,7 @@ Your favorite tool or your own paper is not listed? Fork and create a Pull Reque
 - [Talks](#talks)
 - [Papers](#papers)
 - [Tools](#tools)
+- [Contribute](#contribute)
 
 
 ## Books
@@ -143,6 +144,52 @@ Security and Privacy (S&P), (iii) USENIX Security Symposium (USEC), and (iv) ACM
 
 
 ### IEEE Symposium on Security and Privacy (IEEE S&P)
+
+<details><summary>2025 (7 papers)</summary>
+
+- [CHIMERA: Fuzzing P4 Network Infrastructure for Multi-Plane Bug Detection and Vulnerability Discovery, 2025](https://www.computer.org/csdl/proceedings-article/sp/2025/223600c865/26hiVb0gXUA)
+- [FirmRCA: Towards Post-Fuzzing Analysis on ARM Embedded Firmware with Efficient Event-based Fault Localization, 2025](https://www.computer.org/csdl/proceedings-article/sp/2025/223600a002/21B7PVDny6I)
+- [Fuzz-Testing Meets LLM-Based Agents: An Automated and Efficient Framework for Jailbreaking Text-To-Image Generation Models, 2025](https://www.computer.org/csdl/proceedings-article/sp/2025/223600a336/26hiTETXKow)
+- [HouseFuzz: Service-Aware Grey-Box Fuzzing for Vulnerability Detection in Linux-Based Firmware, 2025](https://www.computer.org/csdl/proceedings-article/sp/2025/223600d507/26hiVy3bGHm)
+- [Predator: Directed Web Application Fuzzing for Efficient Vulnerability Validation, 2025](https://www.computer.org/csdl/proceedings-article/sp/2025/223600a066/21B7Ray6BkA)
+- [RGFuzz: Rule-Guided Fuzzer for WebAssembly Runtimes, 2025](https://www.computer.org/csdl/proceedings-article/sp/2025/223600a003/21B7PWv1JGU)
+- [Stateful Analysis and Fuzzing of Commercial Baseband Firmware, 2025](https://www.computer.org/csdl/proceedings-article/sp/2025/223600b120/26EkFox5zyg)
+
+</details>
+
+<details><summary>2024 (14 papers)</summary>
+
+- [AFGen: Whole-Function Fuzzing for Applications and Libraries, 2024](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a011/1RjE9PjiDss)
+- [Chronos: Finding Timeout Bugs in Practical Distributed Systems by Deep-Priority Fuzzing with Transient Delay, 2024](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a109/1Ub23heRtUA)
+- [DY Fuzzing: Formal Dolev-Yao Models Meet Cryptographic Protocol Fuzz Testing, 2024](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a096/1Ub234bjuWA)
+- [Everything is Good for Something: Counterexample-Guided Directed Fuzzing via Likely Invariant Inference, 2024](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a142/1Ub23ZRRhRu)
+- [LABRADOR: Response Guided Directed Fuzzing for Black-box IoT Devices, 2024](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a127/1Ub23HQTJ1C)
+- [LLMIF: Augmented Large Language Model for Fuzzing IoT Devices, 2024](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a196/1WPcYnhN15u)
+- [Predecessor-aware Directed Greybox Fuzzing, 2024](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a040/1RjEaeMELbq)
+- [SATURN: Host-Gadget Synergistic USB Driver Fuzzing, 2024](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a051/1RjEaqzRsfC)
+- [SoK: Prudent Evaluation Practices for Fuzzing, 2024](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a137/1Ub23V26Svm)
+- [SyzGen++: Dependency Inference for Augmenting Kernel Driver Fuzzing, 2024](https://www.computer.org/csdl/proceedings-article/sp/2024/313000e661/1ZZvBxFudzi)
+- [SyzTrust: State-aware Fuzzing on Trusted OS Designed for IoT Devices, 2024](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a070/1RjEaG9OpTa)
+- [Titan: Efficient Multi-target Directed Greybox Fuzzing, 2024](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a059/1RjEaxqvmQ8)
+- [To Boldly Go Where No Fuzzer Has Gone Before: Finding Bugs in Linux' Wireless Stacks through VirtIO Devices, 2024](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a024/1RjEa0y9RMQ)
+- [Towards Smart Contract Fuzzing on GPU, 2024](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a195/1WPcYmDLzKo)
+
+</details>
+
+<details><summary>2023 (10 papers)</summary>
+
+- [TEEzz: Fuzzing Trusted Applications on COTS Android Devices, 2023](https://hexhive.epfl.ch/publications/files/23Oakland.pdf)
+- [SEGFUZZ: Segmentizing Thread Interleaving to Discover Kernel Concurrency Bugs through Fuzzing, 2023](https://lifeasageek.github.io/papers/jeong-segfuzz.pdf)
+- [RSFuzzer: Discovering Deep SMI Handler Vulnerabilities in UEFI Firmware with Hybrid Fuzzing, 2023](https://www.computer.org/csdl/proceedings-article/sp/2023/933600b765/1OXH123kRcQ)
+- [Toss a Fault to Your Witcher: Applying Grey-box Coverage-Guided Mutational Fuzzing to Detect SQL and Command Injection Vulnerabilities, 2023](https://www.computer.org/csdl/proceedings-article/sp/2023/933600a116/1He7XPiaynS)
+- [UTOPIA: Automatic Generation of Fuzz Driver using Unit Tests, 2023](https://www.computer.org/csdl/proceedings-article/sp/2023/933600a746/1OXH6X6Fexi)
+- [SelectFuzz: Efficient Directed Fuzzing with Selective Path Exploration, 2023](https://www.computer.org/csdl/proceedings-article/sp/2023/933600b050/1OXGOF6jNp6)
+- [Finding Specification Blind Spots via Fuzz Testing, 2023](https://www.computer.org/csdl/proceedings-article/sp/2023/933600c708/1OXH7BohI2Y)
+- [ODDFUZZ: Discovering Java Deserialization Vulnerabilities via Structure-Aware Directed Greybox Fuzzing, 2023](https://www.computer.org/csdl/proceedings-article/sp/2023/933600c726/1OXH0xA0Lrq)
+- [VIDEZZO: Dependency-aware Virtual Device Fuzzing, 2023](https://www.computer.org/csdl/proceedings-article/sp/2023/933600d228/1OXH4y2HyuI)
+- [DEVFUZZ: Automatic Device Model-Guided Device Driver Fuzzing, 2023](https://www.computer.org/csdl/proceedings-article/sp/2023/933600d246/1OXH2Xsv2Du)
+
+</details>
 
 <details><summary>2022 (5 papers)</summary>
 
@@ -434,37 +481,37 @@ Security and Privacy (S&P), (iii) USENIX Security Symposium (USEC), and (iv) ACM
 ## Tools
 Information about the various open source tools you can use to leverage fuzz testing. The items in this section have been organized and classified based on the standards set by the https://fuzzing-survey.org/ website. Although there are currently more than 35 categories, we have selected the most relevant ones to provide efficient information. Additionally, items that are outdated and deprecated have been excluded, and only those that are currently usable are listed.
 ### File
-- [AFL++ ![GitHub Repo Stars](https://img.shields.io/github/stars/AFLplusplus/AFLplusplus) ![GitHub last commit](https://img.shields.io/github/last-commit/AFLplusplus/AFLplusplus)](https://github.com/AFLplusplus/AFLplusplus) - AFL++ is a superior fork to Google's AFL - more speed, more and better mutations, more and better instrumentation, custom module support, etc.
-- [Angora ![GitHub Repo Stars](https://img.shields.io/github/stars/AngoraFuzzer/Angora) ![GitHub last commit](https://img.shields.io/github/last-commit/AngoraFuzzer/Angora)](https://github.com/AngoraFuzzer/Angora) - Angora is a mutation-based coverage guided fuzzer. The main goal of Angora is to increase branch coverage by solving path constraints without symbolic execution.
+- [AFL++ ![GitHub Repo Stars](https://img.shields.io/github/stars/AFLplusplus/AFLplusplus) ![GitHub last commit](https://img.shields.io/github/last-commit/AFLplusplus/AFLplusplus)](https://github.com/AFLplusplus/AFLplusplus) - A superior fork to Google's AFL with more speed, more and better mutations, more and better instrumentation, and custom module support.
+- [Angora ![GitHub Repo Stars](https://img.shields.io/github/stars/AngoraFuzzer/Angora) ![GitHub last commit](https://img.shields.io/github/last-commit/AngoraFuzzer/Angora)](https://github.com/AngoraFuzzer/Angora) - A mutation-based coverage guided fuzzer that increases branch coverage by solving path constraints without symbolic execution.
 ### Kernel
 ### Network
 ### API
-- [IvySyn](https://gitlab.com/brown-ssl/ivysyn) - IvySyn is a fully-automated framework for discovering memory error vulnerabilities in Deep Learning (DL) frameworks.
-- [MINER ![GitHub Repo Stars](https://img.shields.io/github/stars/puppet-meteor/MINER) ![GitHub last commit](https://img.shields.io/github/last-commit/puppet-meteor/MINER)](https://github.com/puppet-meteor/MINER) - MINER is a REST API fuzzer that utilizes three data-driven designs working together to guide the sequence generation, improve the request generation quality, and capture the unique errors caused by incorrect parameter usage.
-- [RestTestGen ![GitHub Repo Stars](https://img.shields.io/github/stars/SeUniVr/RestTestGen) ![GitHub last commit](https://img.shields.io/github/last-commit/SeUniVr/RestTestGen)](https://github.com/SeUniVr/RestTestGen) - RestTestGen is a robust tool and framework designed for automated black-box testing of RESTful web APIs.
-- [GraphFuzz ![GitHub Repo Stars](https://img.shields.io/github/stars/ForAllSecure/GraphFuzz) ![GitHub last commit](https://img.shields.io/github/last-commit/ForAllSecure/GraphFuzz)](https://github.com/ForAllSecure/GraphFuzz) - GraphFuzz is an experimental framework for building structure-aware, library API fuzzers.
-- [Minerva ![GitHub Repo Stars](https://img.shields.io/github/stars/ChijinZ/Minerva) ![GitHub last commit](https://img.shields.io/github/last-commit/ChijinZ/Minerva)](https://github.com/ChijinZ/Minerva) - Minerva is a browser fuzzer augmented by API mod-ref relations, aiming to synthesize highly-relevant browser API invocations in each test case.
-- [FANS ![GitHub Repo Stars](https://img.shields.io/github/stars/iromise/fans) ![GitHub last commit](https://img.shields.io/github/last-commit/iromise/fans)](https://github.com/iromise/fans) - FANS is a fuzzing tool for fuzzing Android native system services. It contains four components: interface collector, interface model extractor, dependency inferer, and fuzzer engine.
+- [IvySyn](https://gitlab.com/brown-ssl/ivysyn) - A fully-automated framework for discovering memory error vulnerabilities in Deep Learning (DL) frameworks.
+- [MINER ![GitHub Repo Stars](https://img.shields.io/github/stars/puppet-meteor/MINER) ![GitHub last commit](https://img.shields.io/github/last-commit/puppet-meteor/MINER)](https://github.com/puppet-meteor/MINER) - A REST API fuzzer that utilizes three data-driven designs working together to guide sequence generation, improve request generation quality, and capture unique errors caused by incorrect parameter usage.
+- [RestTestGen ![GitHub Repo Stars](https://img.shields.io/github/stars/SeUniVr/RestTestGen) ![GitHub last commit](https://img.shields.io/github/last-commit/SeUniVr/RestTestGen)](https://github.com/SeUniVr/RestTestGen) - A robust tool and framework designed for automated black-box testing of RESTful web APIs.
+- [GraphFuzz ![GitHub Repo Stars](https://img.shields.io/github/stars/ForAllSecure/GraphFuzz) ![GitHub last commit](https://img.shields.io/github/last-commit/ForAllSecure/GraphFuzz)](https://github.com/ForAllSecure/GraphFuzz) - An experimental framework for building structure-aware, library API fuzzers.
+- [Minerva ![GitHub Repo Stars](https://img.shields.io/github/stars/ChijinZ/Minerva) ![GitHub last commit](https://img.shields.io/github/last-commit/ChijinZ/Minerva)](https://github.com/ChijinZ/Minerva) - A browser fuzzer augmented by API mod-ref relations, aiming to synthesize highly-relevant browser API invocations in each test case.
+- [FANS ![GitHub Repo Stars](https://img.shields.io/github/stars/iromise/fans) ![GitHub last commit](https://img.shields.io/github/last-commit/iromise/fans)](https://github.com/iromise/fans) - A fuzzing tool for Android native system services with four components: interface collector, interface model extractor, dependency inferer, and fuzzer engine.
 ### JavaScript
 ### Firmware
 ### Hypervisor
 ### CPU
-- [DifuzzRTL ![GitHub Repo Stars](https://img.shields.io/github/stars/compsec-snu/difuzz-rtl) ![GitHub last commit](https://img.shields.io/github/last-commit/compsec-snu/difuzz-rtl)](https://github.com/compsec-snu/difuzz-rtl) - DifuzzRTL is a differential fuzz testing approach for CPU verification.
-- [MorFuzz ![GitHub Repo Stars](https://img.shields.io/github/stars/sycuricon/MorFuzz) ![GitHub last commit](https://img.shields.io/github/last-commit/sycuricon/MorFuzz)](https://github.com/sycuricon/MorFuzz) - MorFuzz is a generic RISC-V processor fuzzing framework that can efficiently detect software triggerable functional bugs.
-- [SpecFuzz ![GitHub Repo Stars](https://img.shields.io/github/stars/tudinfse/SpecFuzz) ![GitHub last commit](https://img.shields.io/github/last-commit/tudinfse/SpecFuzz)](https://github.com/tudinfse/SpecFuzz) - SpecFuzz is a tool to enable fuzzing for Spectre vulnerabilities.
-- [Transynther ![GitHub Repo Stars](https://img.shields.io/github/stars/vernamlab/Medusa) ![GitHub last commit](https://img.shields.io/github/last-commit/vernamlab/Medusa)](https://github.com/vernamlab/Medusa) - Transynther automatically generates and tests building blocks for Meltdown attacks with various faults and microcode assists.
+- [DifuzzRTL ![GitHub Repo Stars](https://img.shields.io/github/stars/compsec-snu/difuzz-rtl) ![GitHub last commit](https://img.shields.io/github/last-commit/compsec-snu/difuzz-rtl)](https://github.com/compsec-snu/difuzz-rtl) - A differential fuzz testing approach for CPU verification.
+- [MorFuzz ![GitHub Repo Stars](https://img.shields.io/github/stars/sycuricon/MorFuzz) ![GitHub last commit](https://img.shields.io/github/last-commit/sycuricon/MorFuzz)](https://github.com/sycuricon/MorFuzz) - A generic RISC-V processor fuzzing framework that can efficiently detect software triggerable functional bugs.
+- [SpecFuzz ![GitHub Repo Stars](https://img.shields.io/github/stars/tudinfse/SpecFuzz) ![GitHub last commit](https://img.shields.io/github/last-commit/tudinfse/SpecFuzz)](https://github.com/tudinfse/SpecFuzz) - A tool to enable fuzzing for Spectre vulnerabilities.
+- [Transynther ![GitHub Repo Stars](https://img.shields.io/github/stars/vernamlab/Medusa) ![GitHub last commit](https://img.shields.io/github/last-commit/vernamlab/Medusa)](https://github.com/vernamlab/Medusa) - Automatically generates and tests building blocks for Meltdown attacks with various faults and microcode assists.
 ### Lib
 ### Web
-- [TEFuzz ![GitHub Repo Stars](https://img.shields.io/github/stars/seclab-fudan/TEFuzz) ![GitHub last commit](https://img.shields.io/github/last-commit/seclab-fudan/TEFuzz)](https://github.com/seclab-fudan/TEFuzz/) - TEFuzz is a tailored fuzzing-based framework to facilitate the detection and exploitation of template escape bugs.
-- [Witcher ![GitHub Repo Stars](https://img.shields.io/github/stars/sefcom/Witcher) ![GitHub last commit](https://img.shields.io/github/last-commit/sefcom/Witcher)](https://github.com/sefcom/Witcher) - Witcher is a web application fuzzer that utilizes mutational fuzzing to explore web applications and fault escalation to detect command and SQL injection vulnerabilities.
-- [CorbFuzz ![GitHub Repo Stars](https://img.shields.io/github/stars/shouc/corbfuzz) ![GitHub last commit](https://img.shields.io/github/last-commit/shouc/corbfuzz)](https://github.com/shouc/corbfuzz) - CorbFuzz is a state-aware fuzzer for generating as much reponses from a web application as possible without need of setting up database, etc.
+- [TEFuzz ![GitHub Repo Stars](https://img.shields.io/github/stars/seclab-fudan/TEFuzz) ![GitHub last commit](https://img.shields.io/github/last-commit/seclab-fudan/TEFuzz)](https://github.com/seclab-fudan/TEFuzz/) - A tailored fuzzing-based framework to facilitate the detection and exploitation of template escape bugs.
+- [Witcher ![GitHub Repo Stars](https://img.shields.io/github/stars/sefcom/Witcher) ![GitHub last commit](https://img.shields.io/github/last-commit/sefcom/Witcher)](https://github.com/sefcom/Witcher) - A web application fuzzer that utilizes mutational fuzzing to explore web applications and fault escalation to detect command and SQL injection vulnerabilities.
+- [CorbFuzz ![GitHub Repo Stars](https://img.shields.io/github/stars/shouc/corbfuzz) ![GitHub last commit](https://img.shields.io/github/last-commit/shouc/corbfuzz)](https://github.com/shouc/corbfuzz) - A state-aware fuzzer for generating as many responses from a web application as possible without need of setting up a database.
 ### DOM
 ### Argument
 ### Blockchain
-- [Fluffy ![GitHub Repo Stars](https://img.shields.io/github/stars/snuspl/fluffy) ![GitHub last commit](https://img.shields.io/github/last-commit/snuspl/fluffy)](https://github.com/snuspl/fluffy) - Fluffy is a multi-transaction differential fuzzer for finding consensus bugs in Ethereum.
-- [LOKI ![GitHub Repo Stars](https://img.shields.io/github/stars/ConsensusFuzz/LOKI) ![GitHub last commit](https://img.shields.io/github/last-commit/ConsensusFuzz/LOKI)](https://github.com/ConsensusFuzz/LOKI) - LOKI is a blockchain consensus protocol fuzzing framework that detects the consensus memory related and logic bugs.
+- [Fluffy ![GitHub Repo Stars](https://img.shields.io/github/stars/snuspl/fluffy) ![GitHub last commit](https://img.shields.io/github/last-commit/snuspl/fluffy)](https://github.com/snuspl/fluffy) - A multi-transaction differential fuzzer for finding consensus bugs in Ethereum.
+- [LOKI ![GitHub Repo Stars](https://img.shields.io/github/stars/ConsensusFuzz/LOKI) ![GitHub last commit](https://img.shields.io/github/last-commit/ConsensusFuzz/LOKI)](https://github.com/ConsensusFuzz/LOKI) - A Blockchain consensus protocol fuzzing framework that detects consensus memory related and logic bugs.
 ### DBMS
-- [Squirrel ![GitHub Repo Stars](https://img.shields.io/github/stars/s3team/Squirrel) ![GitHub last commit](https://img.shields.io/github/last-commit/s3team/Squirrel)](https://github.com/s3team/Squirrel) - Squirrel is a fuzzer for database managment systems (DBMSs).
+- [Squirrel ![GitHub Repo Stars](https://img.shields.io/github/stars/s3team/Squirrel) ![GitHub last commit](https://img.shields.io/github/last-commit/s3team/Squirrel)](https://github.com/s3team/Squirrel) - A fuzzer for database management systems (DBMSs).
 
 
 ## Contribute
@@ -472,9 +519,3 @@ Information about the various open source tools you can use to leverage fuzz tes
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
 
 
-## License
-
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
-
-To the extent possible under law, cpuu has waived all copyright and
-related or neighboring rights to this work.
