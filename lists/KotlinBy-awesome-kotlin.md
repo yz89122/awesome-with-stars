@@ -10,8 +10,6 @@ Discuss this project in [Kotlin Slack](http://slack.kotlinlang.org/), channel: *
 
 :newspaper: [RSS Feed of articles, videos, slides, updates (full archive)](http://kotlin.link/rss-full.xml)
 
-:octocat: [Awesome Kotlin - README.md ![GitHub Repo Stars](https://img.shields.io/github/stars/Heapy/awesome-kotlin) ![GitHub last commit](https://img.shields.io/github/last-commit/Heapy/awesome-kotlin)](https://github.com/Heapy/awesome-kotlin/blob/readme/README.md) - README with links
-
 ## Spread Awesome Kotlin!
 
 Here is the awesome badge for your project:
