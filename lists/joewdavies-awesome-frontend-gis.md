@@ -188,6 +188,7 @@ Restful APIs for consuming geospatial data on the fly:
 - [Sunrise and sunset](https://sunrise-sunset.org) - Provides sunset and sunrise times for locations.
 - [TomTom](https://developer.tomtom.com/api-explorer-index/documentation/product-information/introduction) - Geocoding, routing, traffic, and more.
 - [USGS earthquake data](https://earthquake.usgs.gov/fdsnws/event/1/) - Search earthquake data by various parameters.
+- [ZipCheckup API ![GitHub Repo Stars](https://img.shields.io/github/stars/artakulov/us-water-quality-data) ![GitHub last commit](https://img.shields.io/github/last-commit/artakulov/us-water-quality-data)](https://github.com/artakulov/us-water-quality-data) - Free REST API for US ZIP-level environmental safety data: water quality, air quality, PFAS, radon, lead, flood risk.
 - [what3words](https://developer.what3words.com/public-api) - Converts 3-word addresses to coordinates.
 
 ### Collections 
@@ -267,6 +268,8 @@ Plug-and-play geospatial web apps:
 - [bboxFinder](http://bboxfinder.com/) - Helper page for finding bbox values from a map.
 - [geojson.io](https://geojson.io/) - A quick, simple tool for creating, viewing, and sharing spatial data.
 - [GeoJSONLint](https://geojsonlint.com/) - Use this site to validate and view your GeoJSON.
+- [Pharos AI](https://conflicts.app) - Open-source real-time intelligence dashboard for geopolitical conflict tracking with interactive DeckGL/MapLibre geospatial visualization. ([Source Code ![GitHub Repo Stars](https://img.shields.io/github/stars/Juliusolsson05/pharos-ai) ![GitHub last commit](https://img.shields.io/github/last-commit/Juliusolsson05/pharos-ai)](https://github.com/Juliusolsson05/pharos-ai))
+- [Pumperly ![GitHub Repo Stars](https://img.shields.io/github/stars/GeiserX/pumperly) ![GitHub last commit](https://img.shields.io/github/last-commit/GeiserX/pumperly)](https://github.com/GeiserX/pumperly) - Open-source fuel price comparison and EV charging route planner using MapLibre GL JS, PostGIS, Valhalla routing, and Photon geocoding.
 
 
 ## 🎨 Colour advice 
@@ -287,7 +290,7 @@ Icons to add to your GIS websites:
 - [Material Symbols](https://fonts.google.com/icons?icon.query=map) - Over 2,990 glyphs in a single font file with a wide range of design variants.
 - [Geoapify map marker playground](https://apidocs.geoapify.com/playground/icon/) - The Marker Icon API lets you create beautiful icons and use them as Map Markers.
 
-## 📺 Videos
+## ���� Videos
 Videos of web mapping presentations and tutorials:
 
 - [Mapping Geolocation with Leaflet.js - Working with Data and APIs in JavaScript](https://www.youtube.com/watch?v=nZaZ2dB6pow) - The Coding Train.

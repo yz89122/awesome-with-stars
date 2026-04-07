@@ -1055,6 +1055,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-state-crafter ![GitHub Repo Stars](https://img.shields.io/github/stars/irvrodflo/ngx-state-crafter) ![GitHub last commit](https://img.shields.io/github/last-commit/irvrodflo/ngx-state-crafter)](https://github.com/irvrodflo/ngx-state-crafter) - A lightweight, signal‑driven state library for Angular with a clean, boilerplate‑free API.
 * [coaction ![GitHub Repo Stars](https://img.shields.io/github/stars/unadlib/coaction) ![GitHub last commit](https://img.shields.io/github/last-commit/unadlib/coaction)](https://github.com/unadlib/coaction) - An efficient and flexible state management library for building high-performance, multithreading web applications.
 * [flurryx ![GitHub Repo Stars](https://img.shields.io/github/stars/fmflurry/flurryx) ![GitHub last commit](https://img.shields.io/github/last-commit/fmflurry/flurryx)](https://github.com/fmflurry/flurryx) - A signal-first reactive state toolkit for Angular that bridges RxJS streams into structured, cache-aware stores.
+* [ngStato ![GitHub Repo Stars](https://img.shields.io/github/stars/becher/ngStato) ![GitHub last commit](https://img.shields.io/github/last-commit/becher/ngStato)](https://github.com/becher/ngStato) - State management for Angular that uses async/await instead of RxJS.
 
 ## Testing
 
