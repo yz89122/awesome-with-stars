@@ -657,7 +657,7 @@ Its technology helps developers automate testing, find bugs, and reduce manual l
 
 - [JArchitect](https://www.jarchitect.com) :copyright: — Measure, query and visualize your code and avoid unexpected issues, technical debt and complexity.
 
-- [JBMC](https://www.cprover.org/jbmc) — Bounded model-checker for Java (bytecode), verifies user-defined assertions, standard assertions, several coverage metric analyses.
+- [JBMC](https://www.cprover.org/jbmc) ��� Bounded model-checker for Java (bytecode), verifies user-defined assertions, standard assertions, several coverage metric analyses.
 
 - [JLiSA ![GitHub Repo Stars](https://img.shields.io/github/stars/lisa-analyzer/jlisa) ![GitHub last commit](https://img.shields.io/github/last-commit/lisa-analyzer/jlisa)](https://github.com/lisa-analyzer/jlisa) — An abstract interpretation-based static analyzer for Java build upon the [LiSA ![GitHub Repo Stars](https://img.shields.io/github/stars/lisa-analyzer/lisa) ![GitHub last commit](https://img.shields.io/github/last-commit/lisa-analyzer/lisa)](https://github.com/lisa-analyzer/lisa) framekwork.
 

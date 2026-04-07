@@ -164,6 +164,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [imgsys](https://imgsys.org/rankings) - A generative image model arena by fal.ai.
 - [OpenRouter LLM Rankings](https://openrouter.ai/rankings) - Language models ranked and analyzed by usage across apps.
 - [SEAL LLM Leaderboard](https://scale.com/leaderboard) - Expert-driven LLM benchmarks and updated AI model leaderboards.
+- [LLM Stats](https://llm-stats.com/) - Compare AI models across benchmarks, pricing, speed, and context window.
 
 ### Other text generators
 
@@ -348,6 +349,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [PublicPrompts](https://publicprompts.art/) - A collection of free prompts for Stable Diffusion.
 - [Stableboost](https://stableboost.ai/) - Stableboost is a Stable Diffusion WebUI that lets you quickly generate a lot of images so you can find the perfect ones.
 - [Hugging Face Diffusion Models Course ![GitHub Repo Stars](https://img.shields.io/github/stars/huggingface/diffusion-models-class) ![GitHub last commit](https://img.shields.io/github/last-commit/huggingface/diffusion-models-class)](https://github.com/huggingface/diffusion-models-class) - Python materials for the online course on diffusion models by [@huggingface](https://github.com/huggingface).
+- [ComfyUI ![GitHub Repo Stars](https://img.shields.io/github/stars/comfyanonymous/ComfyUI) ![GitHub last commit](https://img.shields.io/github/last-commit/comfyanonymous/ComfyUI)](https://github.com/comfyanonymous/ComfyUI) - A node-based interface for building and running Stable Diffusion workflows. [#opensource ![GitHub Repo Stars](https://img.shields.io/github/stars/comfyanonymous/ComfyUI) ![GitHub last commit](https://img.shields.io/github/last-commit/comfyanonymous/ComfyUI)](https://github.com/comfyanonymous/ComfyUI)
 
 ## Video
 
@@ -438,6 +440,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Build a Large Language Model (From Scratch)](https://www.manning.com/books/build-a-large-language-model-from-scratch) - A guide to building your own working LLM, by Sebastian Raschka.
 - [Prompt Engineering for Vision Models](https://www.deeplearning.ai/short-courses/prompt-engineering-for-vision-models/) - A free DeepLearning.AI short course on how to prompt computer vision models with natural language, bounding boxes, segmentation masks, coordinate points, and other images.
 - [Build a Reasoning Model (From Scratch)](https://www.manning.com/books/build-a-reasoning-model-from-scratch) - A guide to building a working reasoning model from the ground up, by Sebastian Raschka.
+- [Build an AI Agent (From Scratch)](https://www.manning.com/books/build-an-ai-agent-from-scratch) - A book about building AI agents with tools, memory, planning, and multi-agent systems.
 
 ## More lists
 
