@@ -265,7 +265,7 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 * [Abstract Algebra ![GitHub Repo Stars](https://img.shields.io/github/stars/taketo1024/SwiftyMath) ![GitHub last commit](https://img.shields.io/github/last-commit/taketo1024/SwiftyMath)](https://github.com/taketo1024/SwiftyMath) - Abstract algebra concepts implemented in Swift.
 * [Swift Accelerate ![GitHub Repo Stars](https://img.shields.io/github/stars/haginile/SwiftAccelerate) ![GitHub last commit](https://img.shields.io/github/last-commit/haginile/SwiftAccelerate)](https://github.com/haginile/SwiftAccelerate) - Using the Accelerate framework and Swift for Linear Algebra. ⏳
 * [Swifty Mathematics ![GitHub Repo Stars](https://img.shields.io/github/stars/DylanModesitt/swiftyMathematics) ![GitHub last commit](https://img.shields.io/github/last-commit/DylanModesitt/swiftyMathematics)](https://github.com/DylanModesitt/swiftyMathematics) - A collection of swift playground about mathematics. ⏳
-* [Numerical Algorithms](https://www.raywenderlich.com/99559/numeric-algorithms-using-playgrounds) - Numerical argorithms playground from Ray Wenderlich. ��
+* [Numerical Algorithms](https://www.raywenderlich.com/99559/numeric-algorithms-using-playgrounds) - Numerical argorithms playground from Ray Wenderlich. ⏳
 
 ## Libraries and APIs
 *Library tutorials, in a playground*
