@@ -134,6 +134,7 @@ Custom commands and extensions that add new capabilities to Gemini CLI.
 - [gemini-flow ![GitHub Repo Stars](https://img.shields.io/github/stars/clduab11/gemini-flow) ![GitHub last commit](https://img.shields.io/github/last-commit/clduab11/gemini-flow)](https://github.com/clduab11/gemini-flow) - Transforms Gemini CLI into an autonomous AI development team using proven Claude-Flow patterns, enabling complex multi-agent workflows.
 - [**ru-text** ![GitHub Repo Stars](https://img.shields.io/github/stars/talkstream/ru-text) ![GitHub last commit](https://img.shields.io/github/last-commit/talkstream/ru-text)](https://github.com/talkstream/ru-text) - Russian text quality — ~1,040 rules for typography, info-style, editorial, UX writing, business correspondence.
 - [TokRepo Search Skill ![GitHub Repo Stars](https://img.shields.io/github/stars/henu-wang/tokrepo-search-skill) ![GitHub last commit](https://img.shields.io/github/last-commit/henu-wang/tokrepo-search-skill)](https://github.com/henu-wang/tokrepo-search-skill) - Cross-platform TokRepo skill with Gemini extension files for finding and installing AI assets such as prompts, MCP configs, workflows, and reusable skills.
+- [dRPC Agent Skills ![GitHub Repo Stars](https://img.shields.io/github/stars/drpcorg/drpc-agent-skills) ![GitHub last commit](https://img.shields.io/github/last-commit/drpcorg/drpc-agent-skills)](https://github.com/drpcorg/drpc-agent-skills) - Query blockchain RPCs from Gemini CLI. Fetch balances, read contracts, and check gas prices via dRPC.
 
 ## Fun
 

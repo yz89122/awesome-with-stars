@@ -208,6 +208,7 @@
   * [cravendb ![GitHub Repo Stars](https://img.shields.io/github/stars/robashton/cravendb) ![GitHub last commit](https://img.shields.io/github/last-commit/robashton/cravendb)](https://github.com/robashton/cravendb)
   * [Monger](http://clojuremongodb.info/): for MongoDB
   * [Monglorious](https://baumandm.github.io/monglorious/): for MongoDB
+  * [cmql ![GitHub Repo Stars](https://img.shields.io/github/stars/tkaryadis/cmql-core) ![GitHub last commit](https://img.shields.io/github/last-commit/tkaryadis/cmql-core)](https://github.com/tkaryadis/cmql-core): for MongoDB
   * [clj-rethinkdb ![GitHub Repo Stars](https://img.shields.io/github/stars/apa512/clj-rethinkdb) ![GitHub last commit](https://img.shields.io/github/last-commit/apa512/clj-rethinkdb)](https://github.com/apa512/clj-rethinkdb): for RethinkDB
   * [Revise ![GitHub Repo Stars](https://img.shields.io/github/stars/bitemyapp/revise) ![GitHub last commit](https://img.shields.io/github/last-commit/bitemyapp/revise)](https://github.com/bitemyapp/revise): for RethinkDB
   * [Spandex ![GitHub Repo Stars](https://img.shields.io/github/stars/mpenet/spandex) ![GitHub last commit](https://img.shields.io/github/last-commit/mpenet/spandex)](https://github.com/mpenet/spandex): for ElasticSearch
@@ -247,6 +248,7 @@
 
   * [pronto ![GitHub Repo Stars](https://img.shields.io/github/stars/AppsFlyer/pronto) ![GitHub last commit](https://img.shields.io/github/last-commit/AppsFlyer/pronto)](https://github.com/AppsFlyer/pronto)
   * [lein-protodeps ![GitHub Repo Stars](https://img.shields.io/github/stars/AppsFlyer/lein-protodeps) ![GitHub last commit](https://img.shields.io/github/last-commit/AppsFlyer/lein-protodeps)](https://github.com/AppsFlyer/lein-protodeps)
+  * [protojure ![GitHub Repo Stars](https://img.shields.io/github/stars/metosin/protojure) ![GitHub last commit](https://img.shields.io/github/last-commit/metosin/protojure)](https://github.com/metosin/protojure)
 
 ## Database Cli
 
@@ -271,6 +273,7 @@
   * [Friend ![GitHub Repo Stars](https://img.shields.io/github/stars/cemerick/friend) ![GitHub last commit](https://img.shields.io/github/last-commit/cemerick/friend)](https://github.com/cemerick/friend)
   * [secrets.clj ![GitHub Repo Stars](https://img.shields.io/github/stars/lk-geimfari/secrets.clj) ![GitHub last commit](https://img.shields.io/github/last-commit/lk-geimfari/secrets.clj)](https://github.com/lk-geimfari/secrets.clj)
   * [bolt ![GitHub Repo Stars](https://img.shields.io/github/stars/juxt/bolt) ![GitHub last commit](https://img.shields.io/github/last-commit/juxt/bolt)](https://github.com/juxt/bolt)
+  * [EACL ![GitHub Repo Stars](https://img.shields.io/github/stars/theronic/eacl) ![GitHub last commit](https://img.shields.io/github/last-commit/theronic/eacl)](https://github.com/theronic/eacl): ReBAC authorization library based on SpiceDB, backed by Datomic
 
 ## RESTful API
 
@@ -481,6 +484,7 @@ anylysis and visualization.*
 
   * [marginalia ![GitHub Repo Stars](https://img.shields.io/github/stars/gdeer81/marginalia) ![GitHub last commit](https://img.shields.io/github/last-commit/gdeer81/marginalia)](https://github.com/gdeer81/marginalia)
   * [klipse ![GitHub Repo Stars](https://img.shields.io/github/stars/viebel/klipse) ![GitHub last commit](https://img.shields.io/github/last-commit/viebel/klipse)](https://github.com/viebel/klipse)
+  * [blackfog ![GitHub Repo Stars](https://img.shields.io/github/stars/neromous/blackfog.dsl) ![GitHub last commit](https://img.shields.io/github/last-commit/neromous/blackfog.dsl)](https://github.com/neromous/blackfog.dsl)
 
 ## Archives and Compression
 
@@ -576,6 +580,7 @@ anylysis and visualization.*
   * [clojure-doc](http://clojure-doc.org/)
   * [The Clojure Toolbox](http://www.clojure-toolbox.com/)
   * [ZEEF/Clojure](https://clojure.zeef.com/vlad.bokov)
+  * [Clojure Land](https://clojure.land)
 
 ## Twitter
 
