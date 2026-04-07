@@ -158,6 +158,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [ASReview](https://asreview.nl/) - Open-source AI-powered tool for systematic reviews, helping researchers screen large volumes of academic literature efficiently. [#opensource ![GitHub Repo Stars](https://img.shields.io/github/stars/asreview/asreview) ![GitHub last commit](https://img.shields.io/github/last-commit/asreview/asreview)](https://github.com/asreview/asreview)
 
 ### Leaderboards
+
 - [Chatbot Arena](https://lmarena.ai/) - An open platform for crowdsourced AI benchmarking, hosted by researchers at UC Berkeley SkyLab and LMArena.
 - [Artificial Analysis](https://artificialanalysis.ai/) - Artificial Analysis provides objective benchmarks & information to help choose AI models and hosting providers.
 - [imgsys](https://imgsys.org/rankings) - A generative image model arena by fal.ai.
@@ -232,11 +233,13 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [MLflow](https://mlflow.org/) - An open-source platform for tracking ML experiments, evaluating models and prompts, deploying models, and adding LLM observability. [#opensource ![GitHub Repo Stars](https://img.shields.io/github/stars/mlflow/mlflow) ![GitHub last commit](https://img.shields.io/github/last-commit/mlflow/mlflow)](https://github.com/mlflow/mlflow)
 
 ### Playgrounds
+
 - [OpenAI Playground](https://platform.openai.com/playground) - Explore resources, tutorials, API docs, and dynamic examples.
 - [Google AI Studio](https://aistudio.google.com/) - A web-based tool to prototype with Gemini and experimental models.
 - [GitHub Models ![GitHub Repo Stars](https://img.shields.io/github/stars/marketplace/models) ![GitHub last commit](https://img.shields.io/github/last-commit/marketplace/models)](https://github.com/marketplace/models) - Find and experiment with AI models to develop a generative AI application.
 
 ### Local LLM Deployment
+
 - [Ollama ![GitHub Repo Stars](https://img.shields.io/github/stars/ollama/ollama) ![GitHub last commit](https://img.shields.io/github/last-commit/ollama/ollama)](https://github.com/ollama/ollama) - Get up and running with large language models locally.
 - [Open WebUI ![GitHub Repo Stars](https://img.shields.io/github/stars/open-webui/open-webui) ![GitHub last commit](https://img.shields.io/github/last-commit/open-webui/open-webui)](https://github.com/open-webui/open-webui) - An extensible, feature-rich, and user-friendly self-hosted AI platform designed to operate entirely offline. #opensource
 - [Jan](https://jan.ai/) - Run LLMs like Mistral or Llama2 locally and offline on your computer, or connect to remote AI APIs. [#opensource ![GitHub Repo Stars](https://img.shields.io/github/stars/janhq/jan) ![GitHub last commit](https://img.shields.io/github/last-commit/janhq/jan)](https://github.com/janhq/jan)
@@ -265,6 +268,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Sauna](https://www.sauna.ai) - An AI assistant built for compounding context. It learns your taste, detects hidden patterns, augments your brain context and works proactively.
 - [Claude Code](https://code.claude.com) - Anthropic's agentic coding tool that lives in your terminal and helps you turn ideas into code.
 - [Gemini CLI](https://geminicli.com) - An open-source AI agent that brings the power of Gemini directly into your terminal. [#opensource ![GitHub Repo Stars](https://img.shields.io/github/stars/google-gemini/gemini-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/google-gemini/gemini-cli)](https://github.com/google-gemini/gemini-cli)
+- [OpenCode](https://opencode.ai) - The open-source AI coding agent. [#opensource ![GitHub Repo Stars](https://img.shields.io/github/stars/anomalyco/opencode) ![GitHub last commit](https://img.shields.io/github/last-commit/anomalyco/opencode)](https://github.com/anomalyco/opencode)
 - [Mastra](https://mastra.ai) - An all-in-one framework for building AI-powered applications and agents.
 - [OpenClaw](https://openclaw.ai) - A personal AI assistant you run on your own devices. [#opensource ![GitHub Repo Stars](https://img.shields.io/github/stars/clawdbot/clawdbot) ![GitHub last commit](https://img.shields.io/github/last-commit/clawdbot/clawdbot)](https://github.com/clawdbot/clawdbot)
 - [moltbook](https://www.moltbook.com) - A social network for AI agents.
@@ -386,8 +390,10 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [VALL-E X](https://vallex-demo.github.io/) - A cross-lingual neural codec language model for cross-lingual speech synthesis.
 - [TorToiSe ![GitHub Repo Stars](https://img.shields.io/github/stars/neonbjb/tortoise-tts) ![GitHub last commit](https://img.shields.io/github/last-commit/neonbjb/tortoise-tts)](https://github.com/neonbjb/tortoise-tts) - A multi-voice text-to-speech system trained with an emphasis on quality. #opensource
 - [Bark ![GitHub Repo Stars](https://img.shields.io/github/stars/suno-ai/bark) ![GitHub last commit](https://img.shields.io/github/last-commit/suno-ai/bark)](https://github.com/suno-ai/bark) - A transformer-based text-to-audio model. #opensource
+- [TTS WebUI ![GitHub Repo Stars](https://img.shields.io/github/stars/rsxdalv/TTS-WebUI) ![GitHub last commit](https://img.shields.io/github/last-commit/rsxdalv/TTS-WebUI)](https://github.com/rsxdalv/TTS-WebUI) - Web UI for running multiple text-to-speech, music generation, and audio tools. #opensource
 
 ### Speech-to-text
+
 - [Whisper](https://openai.com/index/whisper/) - Robust speech recognition via large-scale weak supervision. [#opensource ![GitHub Repo Stars](https://img.shields.io/github/stars/openai/whisper) ![GitHub last commit](https://img.shields.io/github/last-commit/openai/whisper)](https://github.com/openai/whisper)
 - [Wispr Flow](https://wisprflow.ai/) - Flow makes writing quick with seamless voice dictation for any application on your computer.
 - [Vibe Transcribe](https://thewh1teagle.github.io/vibe/) - All-in-one solution for effortless audio and video transcription. [#opensource ![GitHub Repo Stars](https://img.shields.io/github/stars/thewh1teagle/vibe) ![GitHub last commit](https://img.shields.io/github/last-commit/thewh1teagle/vibe)](https://github.com/thewh1teagle/vibe)
