@@ -650,6 +650,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [lsd ![GitHub Repo Stars](https://img.shields.io/github/stars/Peltoche/lsd) ![GitHub last commit](https://img.shields.io/github/last-commit/Peltoche/lsd)](https://github.com/Peltoche/lsd) - `ls` with many extra features.
 - [lla ![GitHub Repo Stars](https://img.shields.io/github/stars/triyanox/lla) ![GitHub last commit](https://img.shields.io/github/last-commit/triyanox/lla)](https://github.com/triyanox/lla) - Improved `ls` with plugins.
 - [pls ![GitHub Repo Stars](https://img.shields.io/github/stars/pls-rs/pls) ![GitHub last commit](https://img.shields.io/github/last-commit/pls-rs/pls)](https://github.com/pls-rs/pls)  - `ls` for the pros.
+- [treepp ![GitHub Repo Stars](https://img.shields.io/github/stars/Water-Run/treepp) ![GitHub last commit](https://img.shields.io/github/last-commit/Water-Run/treepp)](https://github.com/Water-Run/treepp) - Windows tree++.
 
 ### Directory Navigation
 
