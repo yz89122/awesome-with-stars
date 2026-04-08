@@ -1958,6 +1958,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 
 ### Printing
 
+* [ngx-pos-print ![GitHub Repo Stars](https://img.shields.io/github/stars/gmetenou7/NGX-POS-PRINT) ![GitHub last commit](https://img.shields.io/github/last-commit/gmetenou7/NGX-POS-PRINT)](https://github.com/gmetenou7/NGX-POS-PRINT) - Print receipts on POS thermal printers from your Angular app.
 * [ngx-print ![GitHub Repo Stars](https://img.shields.io/github/stars/selemxmn/ngx-print) ![GitHub last commit](https://img.shields.io/github/last-commit/selemxmn/ngx-print)](https://github.com/selemxmn/ngx-print) - A plug n' play Angulae library to print your stuff.
 * [ngx-printer-demo ![GitHub Repo Stars](https://img.shields.io/github/stars/plaetzchen79/ngx-printer-demo) ![GitHub last commit](https://img.shields.io/github/last-commit/plaetzchen79/ngx-printer-demo)](https://github.com/plaetzchen79/ngx-printer-demo) - A simple Angular service to print a window, parts of a window (div), images, HTMLElements or Angular Objects.
 
