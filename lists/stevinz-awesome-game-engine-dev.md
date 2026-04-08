@@ -231,7 +231,7 @@ _Info on topics necessary for designing and developing game engines._
     - 📚 [Art of Game Design](https://www.amazon.com/Art-Game-Design-Book-Lenses/dp/0123694965) - Teaches game design in an accessible manner.
     - 📚 [Game Programming Patterns](https://gameprogrammingpatterns.com) - Patterns found in games that make code easier to understand.
 - Developer Portals
-    - ��� [Game Developer](https://www.gamedeveloper.com) - Industry blogs, events, jobs, updates and more. Formerly _Gamasutra_.
+    - 🌎 [Game Developer](https://www.gamedeveloper.com) - Industry blogs, events, jobs, updates and more. Formerly _Gamasutra_.
     - 🌎 [GameDev.net](https://www.gamedev.net/) - Game dev forums, tutorials, blogs, projects, portfolios, and news.
     - 🌎 [GameFromScratch.com](https://gamefromscratch.com) - Game dev news, tutorials and much more.
     - 🌎 [itch.io](https://itch.io) - Game dev resources and platform to showcase / promote / buy & sell games.
@@ -1198,7 +1198,7 @@ _Exploring specialty game engine / game development topics and features._
 - 📚 [Scriptorium ![GitHub Repo Stars](https://img.shields.io/github/stars/r-lyeh-archived/scriptorium) ![GitHub last commit](https://img.shields.io/github/last-commit/r-lyeh-archived/scriptorium)](https://github.com/r-lyeh-archived/scriptorium) - Game scripting languages benchmarked.
 
 ### Shaders
-- 📚 [3D Game Shaders For Beginners](https://lettier.github.io/3d-game-shaders-for-beginners/index.html) ���� - Shaders to improve your games. [[Source ![GitHub Repo Stars](https://img.shields.io/github/stars/lettier/3d-game-shaders-for-beginners) ![GitHub last commit](https://img.shields.io/github/last-commit/lettier/3d-game-shaders-for-beginners)](https://github.com/lettier/3d-game-shaders-for-beginners)]
+- 📚 [3D Game Shaders For Beginners](https://lettier.github.io/3d-game-shaders-for-beginners/index.html) 🔥 - Shaders to improve your games. [[Source ![GitHub Repo Stars](https://img.shields.io/github/stars/lettier/3d-game-shaders-for-beginners) ![GitHub last commit](https://img.shields.io/github/last-commit/lettier/3d-game-shaders-for-beginners)](https://github.com/lettier/3d-game-shaders-for-beginners)]
 - 📚 [Book of Shaders](https://thebookofshaders.com) 🔥 - Step-by-step guide through [Fragment Shaders](https://www.khronos.org/opengl/wiki/Fragment_Shader). [[Source ![GitHub Repo Stars](https://img.shields.io/github/stars/patriciogonzalezvivo/thebookofshaders) ![GitHub last commit](https://img.shields.io/github/last-commit/patriciogonzalezvivo/thebookofshaders)](https://github.com/patriciogonzalezvivo/thebookofshaders)]
 - 🎉 [CrossShader ![GitHub Repo Stars](https://img.shields.io/github/stars/alaingalvan/CrossShader) ![GitHub last commit](https://img.shields.io/github/last-commit/alaingalvan/CrossShader)](https://github.com/alaingalvan/CrossShader) - Cross-compiling shaders between GLSL, HLSL, Metal, and more.
 - 🌎 [Geeks3D Shader Library](https://www.geeks3d.com/shader-library/) - Postprocessing, lighting, utlities and many more.
