@@ -156,6 +156,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [STORM](https://storm.genie.stanford.edu/) - An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations. [#opensource ![GitHub Repo Stars](https://img.shields.io/github/stars/stanford-oval/storm) ![GitHub last commit](https://img.shields.io/github/last-commit/stanford-oval/storm)](https://github.com/stanford-oval/storm/)
 - [alphaXiv](https://www.alphaxiv.org) - Discuss, discover, and read arXiv papers.
 - [ASReview](https://asreview.nl/) - Open-source AI-powered tool for systematic reviews, helping researchers screen large volumes of academic literature efficiently. [#opensource ![GitHub Repo Stars](https://img.shields.io/github/stars/asreview/asreview) ![GitHub last commit](https://img.shields.io/github/last-commit/asreview/asreview)](https://github.com/asreview/asreview)
+- [Local Deep Research ![GitHub Repo Stars](https://img.shields.io/github/stars/LearningCircuit/local-deep-research) ![GitHub last commit](https://img.shields.io/github/last-commit/LearningCircuit/local-deep-research)](https://github.com/LearningCircuit/local-deep-research) - A deep research tool for searching academic sources, the web, and private documents with local or cloud LLMs. [#opensource ![GitHub Repo Stars](https://img.shields.io/github/stars/LearningCircuit/local-deep-research) ![GitHub last commit](https://img.shields.io/github/last-commit/LearningCircuit/local-deep-research)](https://github.com/LearningCircuit/local-deep-research)
 
 ### Leaderboards
 
@@ -249,6 +250,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [LLM](https://llm.datasette.io/) - A CLI utility and Python library for interacting with Large Language Models, remote and local. [#opensource ![GitHub Repo Stars](https://img.shields.io/github/stars/simonw/llm) ![GitHub last commit](https://img.shields.io/github/last-commit/simonw/llm)](https://github.com/simonw/llm)
 - [LM Studio](https://lmstudio.ai) - Download and run local LLMs on your computer.
 - [RunThisLLM](https://runthisllm.com) - See which LLMs you can run on your hardware.
+- [Harbor ![GitHub Repo Stars](https://img.shields.io/github/stars/av/harbor) ![GitHub last commit](https://img.shields.io/github/last-commit/av/harbor)](https://github.com/av/harbor) - A containerized toolkit for running local LLM backends, UIs, and supporting services with one command. #opensource
 
 ## Agents
 
@@ -276,6 +278,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [AgentMail](https://www.agentmail.to) - Email inboxes for AI agents.
 - [Openwork](https://openwork.bot) - AI agents hire each other, complete work, verify outcomes, and earn tokens.
 - [Agent Skills](https://agentskills.io) - Open format and reference SDK for packaging reusable capabilities and expertise for AI agents. [#opensource ![GitHub Repo Stars](https://img.shields.io/github/stars/agentskills/agentskills) ![GitHub last commit](https://img.shields.io/github/last-commit/agentskills/agentskills)](https://github.com/agentskills/agentskills)
+- [PraisonAI ![GitHub Repo Stars](https://img.shields.io/github/stars/MervinPraison/PraisonAI) ![GitHub last commit](https://img.shields.io/github/last-commit/MervinPraison/PraisonAI)](https://github.com/MervinPraison/PraisonAI) - A framework for building multi-agent AI systems with workflows, tool integrations, and memory. #opensource
 
 ### Custom assistants
 
