@@ -522,6 +522,7 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 - [prochri/telescope-all-recent.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/prochri/telescope-all-recent.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/prochri/telescope-all-recent.nvim)](https://github.com/prochri/telescope-all-recent.nvim) - Frequency and recency sorter for any Telescope picker.
 - [mahyarmirrashed/search-and-replace.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/mahyarmirrashed/search-and-replace.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/mahyarmirrashed/search-and-replace.nvim)](https://github.com/mahyarmirrashed/search-and-replace.nvim) - Simple, effective, search and replace functionality for the pragmatic engineer.
 - [bravoecho/brook.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/bravoecho/brook.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/bravoecho/brook.nvim)](https://github.com/bravoecho/brook.nvim) - Responsive, shell-safe ripgrep search for the quickfix list, with native n/N navigation.
+- [KieranCanter/candela.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/KieranCanter/candela.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/KieranCanter/candela.nvim)](https://github.com/KieranCanter/candela.nvim) - Analyze logs by defining regex patterns to highlight and/or isolate matching lines.
 
 <!--lint disable double-link -->
 [**⬆ back to top**](#contents)
