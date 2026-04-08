@@ -463,6 +463,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Open LLMs ![GitHub Repo Stars](https://img.shields.io/github/stars/eugeneyan/open-llms) ![GitHub last commit](https://img.shields.io/github/last-commit/eugeneyan/open-llms)](https://github.com/eugeneyan/open-llms) - A list of open LLMs available for commercial use.
 - [Awesome Music AI ![GitHub Repo Stars](https://img.shields.io/github/stars/steven2358/awesome-music-ai) ![GitHub last commit](https://img.shields.io/github/last-commit/steven2358/awesome-music-ai)](https://github.com/steven2358/awesome-music-ai) - A curated list of AI tools for music composition, generation, and analysis.
 - [Awesome AI Market Maps ![GitHub Repo Stars](https://img.shields.io/github/stars/joylarkin/Awesome-AI-Market-Maps) ![GitHub last commit](https://img.shields.io/github/last-commit/joylarkin/Awesome-AI-Market-Maps)](https://github.com/joylarkin/Awesome-AI-Market-Maps) - A curated list of AI market maps from 2026, 2025, and 2024, by [Joy Larkin](https://twitter.com/joy).
+- [Awesome RAG Production ![GitHub Repo Stars](https://img.shields.io/github/stars/Yigtwxx/Awesome-RAG-Production) ![GitHub last commit](https://img.shields.io/github/last-commit/Yigtwxx/Awesome-RAG-Production)](https://github.com/Yigtwxx/Awesome-RAG-Production) - A curated list of tools and resources for building production RAG systems.
 
 ### Lists on ChatGPT
 
