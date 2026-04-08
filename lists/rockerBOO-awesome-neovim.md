@@ -579,7 +579,7 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 - [vodchella/hodur.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/vodchella/hodur.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/vodchella/hodur.nvim)](https://github.com/vodchella/hodur.nvim) - Allows you to quickly open a file or copy URL located under cursor.
 - [A7Lavinraj/fyler.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/A7Lavinraj/fyler.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/A7Lavinraj/fyler.nvim)](https://github.com/A7Lavinraj/fyler.nvim) - File manager which can edit file system like a buffer with tree view.
 <!--lint disable double-link -->
-[**⬆ back to top**](#contents)
+[**��� back to top**](#contents)
 <!--lint enable double-link -->
 
 ## Project
