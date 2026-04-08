@@ -324,7 +324,7 @@
 
 <br>
 
-## CLAUDE.md Files ����
+## CLAUDE.md Files 📂
 
 > `CLAUDE.md` files are files that contain important guidelines and context-specific information or instructions that help Claude Code to better understand your project and your coding standards
 
