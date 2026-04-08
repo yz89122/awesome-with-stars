@@ -685,7 +685,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [plausible ![GitHub Repo Stars](https://img.shields.io/github/stars/plausible/analytics) ![GitHub last commit](https://img.shields.io/github/last-commit/plausible/analytics)](https://github.com/plausible/analytics) - Lightweight, open‑source, privacy‑friendly analytics with SPA support—see [SPA support](https://plausible.io/docs/spa-support).
 * [rybbit ![GitHub Repo Stars](https://img.shields.io/github/stars/rybbit-io/rybbit) ![GitHub last commit](https://img.shields.io/github/last-commit/rybbit-io/rybbit)](https://github.com/rybbit-io/rybbit) - A privacy-friendly alternative to Google Analytics; see this [guide](https://www.rybbit.io/docs/guides/angular) for Angular integration.
 * [ngx-segment-community ![GitHub Repo Stars](https://img.shields.io/github/stars/behdi/ngx-segment-community) ![GitHub last commit](https://img.shields.io/github/last-commit/behdi/ngx-segment-community)](https://github.com/behdi/ngx-segment-community) - The community-maintained successor to [ngx-segment-analytics ![GitHub Repo Stars](https://img.shields.io/github/stars/opendecide/ngx-segment-analytics) ![GitHub last commit](https://img.shields.io/github/last-commit/opendecide/ngx-segment-analytics)](https://github.com/opendecide/ngx-segment-analytics).
-* [swetrix ![GitHub Repo Stars](https://img.shields.io/github/stars/Swetrix/swetrix) ![GitHub last commit](https://img.shields.io/github/last-commit/Swetrix/swetrix)](https://github.com/Swetrix/swetrix) - [Integrate Swetrix with your Angular application](https://swetrix.com/docs/angular-integration) to track page views, monitor errors, and capture custom events — all while staying privacy-friendly and GDPR-compliant. 
+* [swetrix ![GitHub Repo Stars](https://img.shields.io/github/stars/Swetrix/swetrix) ![GitHub last commit](https://img.shields.io/github/last-commit/Swetrix/swetrix)](https://github.com/Swetrix/swetrix) - [Integrate Swetrix with your Angular application](https://swetrix.com/docs/angular-integration) to track page views, monitor errors, and capture custom events — all while staying privacy-friendly and GDPR-compliant.
 
 ### Code Analysis
 
@@ -1188,7 +1188,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 
 * [Admin Mart](https://adminmart.com/templates/angular-dashboard/)
 * [Angular-Templates](https://angular-templates.io/)
-* [CozyDevKit](https://cozydevkit.com/) - Interactive tools, architecture patterns, cheat sheets, and DevOps services for Angular 21. 
+* [CozyDevKit](https://cozydevkit.com/) - Interactive tools, architecture patterns, cheat sheets, and DevOps services for Angular 21.
 * [NgFast](https://ngfast.com/) - The Angular boilerplate for building SaaS, landing pages, and web apps fast—turning your ideas into income.
 * [Nzoni](https://nzoni.app/) - Launch your SAAS in days with Angular.
 * [Theme Forest](https://themeforest.net/search/angular)
@@ -1730,6 +1730,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [lightweight-grid-layout ![GitHub Repo Stars](https://img.shields.io/github/stars/liketiger/lightweight-grid-layout) ![GitHub last commit](https://img.shields.io/github/last-commit/liketiger/lightweight-grid-layout)](https://github.com/liketiger/lightweight-grid-layout) - A headless, dependency-free grid layout library for JavaScript/TypeScript that works with any framework or none, leaving rendering and styling to users.
 * [ng-flex-layout ![GitHub Repo Stars](https://img.shields.io/github/stars/alessiobianchini/ng-flex-layout) ![GitHub last commit](https://img.shields.io/github/last-commit/alessiobianchini/ng-flex-layout)](https://github.com/alessiobianchini/ng-flex-layout) - Angular library that provides a responsive, flexible layout API built on Flexbox and mediaQuery observables.
 * [dockview-angular](https://www.npmjs.com/package/dockview-angular) - Zero dependency layout manager supporting tabs, groups, grids, and splitviews.
+* [ngx-compactable-row ![GitHub Repo Stars](https://img.shields.io/github/stars/MikeVensel/ngx-compactable-row) ![GitHub last commit](https://img.shields.io/github/last-commit/MikeVensel/ngx-compactable-row)](https://github.com/MikeVensel/ngx-compactable-row) - Provides a responsive button row that moves excess buttons into a menu when space is limited.
 
 ### Loaders
 
@@ -2037,7 +2038,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-persist ![GitHub Repo Stars](https://img.shields.io/github/stars/khvedela/ngx-persist) ![GitHub last commit](https://img.shields.io/github/last-commit/khvedela/ngx-persist)](https://github.com/khvedela/ngx-persist) - A type‑safe, signal‑based persistent state utility for Angular, syncing with localStorage, sessionStorage, IndexedDB, or custom backends.
 * [strata-storage ![GitHub Repo Stars](https://img.shields.io/github/stars/aoneahsan/strata-storage) ![GitHub last commit](https://img.shields.io/github/last-commit/aoneahsan/strata-storage)](https://github.com/aoneahsan/strata-storage) - Zero-dependency universal storage plugin providing a unified API for all storage operations across web, Android, and iOS platforms.
 * [ngx-webstore ![GitHub Repo Stars](https://img.shields.io/github/stars/saurabh-vaish/ngx-webstore) ![GitHub last commit](https://img.shields.io/github/last-commit/saurabh-vaish/ngx-webstore)](https://github.com/saurabh-vaish/ngx-webstore) - A comprehensive Angular library for browser storage management with TypeScript support, reactive APIs, encryption, TTL, and more.
-* [@moltendb-web/angular ![GitHub Repo Stars](https://img.shields.io/github/stars/maximilian27/moltendb-web) ![GitHub last commit](https://img.shields.io/github/last-commit/maximilian27/moltendb-web)](https://github.com/maximilian27/moltendb-web) - Rust/WASM local‑first DB for Angular with Signals, OPFS, GraphQL‑style queries, and Web Workers.
+* [@moltendb-web/angular ![GitHub Repo Stars](https://img.shields.io/github/stars/maximilian27/moltendb-web) ![GitHub last commit](https://img.shields.io/github/last-commit/maximilian27/moltendb-web)](https://github.com/maximilian27/moltendb-web) - Rust/WebAssembly local‑first DB for Angular with Signals, OPFS, GraphQL‑style queries, and Web Workers.
 
 ### Tooltips
 
