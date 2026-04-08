@@ -235,6 +235,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Langfuse](https://langfuse.com/) - An open-source LLM engineering platform for tracing, evaluation, prompt management, and metrics. [#opensource ![GitHub Repo Stars](https://img.shields.io/github/stars/langfuse/langfuse) ![GitHub last commit](https://img.shields.io/github/last-commit/langfuse/langfuse)](https://github.com/langfuse/langfuse)
 - [MLflow](https://mlflow.org/) - An open-source platform for tracking ML experiments, evaluating models and prompts, deploying models, and adding LLM observability. [#opensource ![GitHub Repo Stars](https://img.shields.io/github/stars/mlflow/mlflow) ![GitHub last commit](https://img.shields.io/github/last-commit/mlflow/mlflow)](https://github.com/mlflow/mlflow)
 - [rehydra ![GitHub Repo Stars](https://img.shields.io/github/stars/rehydra-ai/rehydra-sdk) ![GitHub last commit](https://img.shields.io/github/last-commit/rehydra-ai/rehydra-sdk)](https://github.com/rehydra-ai/rehydra-sdk) - A zero-trust SDK for anonymizing PII locally before sending prompts to LLMs and seamlessly rehydrating the response.
+- [Agentset](https://agentset.ai/) - An open-source platform for building and evaluating RAG and agentic applications. [#opensource ![GitHub Repo Stars](https://img.shields.io/github/stars/agentset-ai/agentset) ![GitHub last commit](https://img.shields.io/github/last-commit/agentset-ai/agentset)](https://github.com/agentset-ai/agentset)
 
 ### Playgrounds
 
