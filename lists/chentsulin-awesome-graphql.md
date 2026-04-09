@@ -773,6 +773,7 @@ If you want to contribute to this list (please do), send me a pull request.
 - [Apollo APQ Debugger ![GitHub Repo Stars](https://img.shields.io/github/stars/rookieInTraining/apq-debugger) ![GitHub last commit](https://img.shields.io/github/last-commit/rookieInTraining/apq-debugger)](https://github.com/rookieInTraining/apq-debugger) - Reveal full GraphQL queries behind Apollo APQ hashes. Inspect fallback flow and debug Automatic Persisted Queries in DevTools.
   <a name="databases" />
 
+- [Gitstar](https://gitstar.ai?utm_medium=github_readme&utm_source=awesome_list&utm_campaign=chentsulin_awesome-graphql) - Social feed for GitHub. Follow backend engineers, discover trending API frameworks and tools.
 ## Databases
 
 - [Cube](https://cube.dev) - [Headless BI](https://cube.dev/blog/headless-bi) for building data applications with SQL, REST, and [GraphQL API](https://cube.dev/docs/backend/graphql). Connect any database or data warehouse and instantly get a GraphQL API with sub-second latency on top of it. - [Source Code ![GitHub Repo Stars](https://img.shields.io/github/stars/cube-js/cube.js) ![GitHub last commit](https://img.shields.io/github/last-commit/cube-js/cube.js)](https://github.com/cube-js/cube.js)
