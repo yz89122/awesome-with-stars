@@ -279,7 +279,7 @@ The reality is, most users never use even 80% of these features. `rac` is delibe
 
 A lightweight, fast, and reproducible plugin manager for ZSH. Made with 🐭 & 🦀 — no magic, no heavy frameworks.
 
-Features 🐭✨
+Features ��✨
 
 - 🚀 Simple setup
   - Install with a single curl line
