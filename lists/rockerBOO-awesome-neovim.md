@@ -329,6 +329,7 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 - [Yu-Leo/gosigns.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/Yu-Leo/gosigns.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/Yu-Leo/gosigns.nvim)](https://github.com/Yu-Leo/gosigns.nvim) - Visualize some Go hints: struct, interface, and methods implementations; go comments.
 - [Yu-Leo/cmp-go-pkgs ![GitHub Repo Stars](https://img.shields.io/github/stars/Yu-Leo/cmp-go-pkgs) ![GitHub last commit](https://img.shields.io/github/last-commit/Yu-Leo/cmp-go-pkgs)](https://github.com/Yu-Leo/cmp-go-pkgs) - Cmp source providing the names of Go packages to import.
 - [fredrikaverpil/godoc.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/fredrikaverpil/godoc.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/fredrikaverpil/godoc.nvim)](https://github.com/fredrikaverpil/godoc.nvim) - Fuzzy search Go packages/symbols and view docs.
+- [sjclayton/goplexity.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/sjclayton/goplexity.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/sjclayton/goplexity.nvim)](https://github.com/sjclayton/goplexity.nvim) - Time/space (Big-O) complexity analyzer for Golang.
 
 ### YAML
 
@@ -667,6 +668,7 @@ then it is not supported:
 - **_`[Fnl]`_** - Is written in Fennel.
 <!--lint enable awesome-list-item-->
 
+- [ThorstenRhau/token ![GitHub Repo Stars](https://img.shields.io/github/stars/ThorstenRhau/token) ![GitHub last commit](https://img.shields.io/github/last-commit/ThorstenRhau/token)](https://github.com/ThorstenRhau/token) - **_`[TS][LSP][L/D][Lua]`_** Token has warm tones and careful contrast, with full Tree-sitter and LSP integration.
 - [oskarnurm/koda.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/oskarnurm/koda.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/oskarnurm/koda.nvim)](https://github.com/oskarnurm/koda.nvim) - **_`[TS][LSP][L/D][Lua]`_** Code's quiet companion. A minimalist colorscheme, written in Lua.
 - [yonatan-perel/lake-dweller.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/yonatan-perel/lake-dweller.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/yonatan-perel/lake-dweller.nvim)](https://github.com/yonatan-perel/lake-dweller.nvim) - **_`[TS][LSP][Lua]`_** Dark and opinionated with selective highlighting aiming to be readable at a glance.
 - [silentium-theme/silentium.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/silentium-theme/silentium.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/silentium-theme/silentium.nvim)](https://github.com/silentium-theme/silentium.nvim) - **_`[TS][Luа]`_** Pragmatic and monochrome theme with the goal to increase reading speed and reduce eye strain by highlighting only what is needed.
