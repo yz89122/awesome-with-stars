@@ -794,6 +794,7 @@ Inclusion criteria are less strict for this fast-moving field.
 - [InkOS ![GitHub Repo Stars](https://img.shields.io/github/stars/Narcooo/inkos) ![GitHub last commit](https://img.shields.io/github/last-commit/Narcooo/inkos)](https://github.com/Narcooo/inkos/blob/master/README.en.md) - Novel-writing agent.
 - [coi ![GitHub Repo Stars](https://img.shields.io/github/stars/mensfeld/code-on-incus) ![GitHub last commit](https://img.shields.io/github/last-commit/mensfeld/code-on-incus)](https://github.com/mensfeld/code-on-incus) - Incus container runtime for agents.
 - [agentify ![GitHub Repo Stars](https://img.shields.io/github/stars/koriyoshi2041/agentify) ![GitHub last commit](https://img.shields.io/github/last-commit/koriyoshi2041/agentify)](https://github.com/koriyoshi2041/agentify) - Transform OpenAPI specs into formats for agents.
+- [actionbook ![GitHub Repo Stars](https://img.shields.io/github/stars/actionbook/actionbook) ![GitHub last commit](https://img.shields.io/github/last-commit/actionbook/actionbook)](https://github.com/actionbook/actionbook) - Parallel browser interaction for agents.
 
 ### LLM Interaction
 - [aye-chat ![GitHub Repo Stars](https://img.shields.io/github/stars/acrotron/aye-chat) ![GitHub last commit](https://img.shields.io/github/last-commit/acrotron/aye-chat)](https://github.com/acrotron/aye-chat) - Workspace for editing, running commands, and chatting with your codebase.
