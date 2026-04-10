@@ -10,7 +10,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 | Awesome | Linux | Projects | Updated |
 |:-------:|:-----:|:--------:|:-------:|
-| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | :penguin: | 1098 | March 28, 2026 |
+| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | :penguin: | 1099 | April 10, 2026 |
 
 In parternship with:
 
@@ -311,6 +311,7 @@ In parternship with:
 
 * [CoreML-Models ![GitHub Repo Stars](https://img.shields.io/github/stars/likedan/Awesome-CoreML-Models) ![GitHub last commit](https://img.shields.io/github/last-commit/likedan/Awesome-CoreML-Models)](https://github.com/likedan/Awesome-CoreML-Models) - A collection of unique Core ML Models.
 * [DL4S ![GitHub Repo Stars](https://img.shields.io/github/stars/palle-k/DL4S) ![GitHub last commit](https://img.shields.io/github/last-commit/palle-k/DL4S)](https://github.com/palle-k/DL4S) - Automatic differentiation, fast tensor operations and dynamic neural networks from CNNs and RNNs to transformers.
+* [EdgeRunner ![GitHub Repo Stars](https://img.shields.io/github/stars/christopherkarani/EdgeRunner) ![GitHub last commit](https://img.shields.io/github/last-commit/christopherkarani/EdgeRunner)](https://github.com/christopherkarani/EdgeRunner) - Fast, local LLM inference for Apple Silicon. Built in Swift and Metal from the ground up.
 * [Espresso ![GitHub Repo Stars](https://img.shields.io/github/stars/christopherkarani/Espresso) ![GitHub last commit](https://img.shields.io/github/last-commit/christopherkarani/Espresso)](https://github.com/christopherkarani/Espresso) - Compile transformers directly for Apple's Neural Engine.
 * [Fazm ![GitHub Repo Stars](https://img.shields.io/github/stars/m13v/fazm) ![GitHub last commit](https://img.shields.io/github/last-commit/m13v/fazm)](https://github.com/m13v/fazm) - A voice-controlled AI agent for macOS using accessibility APIs and ScreenCaptureKit.
 * [OpenAI ![GitHub Repo Stars](https://img.shields.io/github/stars/MacPaw/OpenAI) ![GitHub last commit](https://img.shields.io/github/last-commit/MacPaw/OpenAI)](https://github.com/MacPaw/OpenAI) - Swift package for OpenAI public API.
