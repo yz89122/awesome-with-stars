@@ -184,7 +184,7 @@ Inspired by the [awesome ![GitHub Repo Stars](https://img.shields.io/github/star
 
 ### Text Editors
 
-- [emacs ![GitHub Repo Stars](https://img.shields.io/github/stars/emacs-mirror/emacs) ![GitHub last commit](https://img.shields.io/github/last-commit/emacs-mirror/emacs)](https://github.com/emacs-mirror/emacs) - An extensible, customizable, free/libre text editor — and more.
+- [emacs ![GitHub Repo Stars](https://img.shields.io/github/stars/emacs-mirror/emacs) ![GitHub last commit](https://img.shields.io/github/last-commit/emacs-mirror/emacs)](https://github.com/emacs-mirror/emacs) - An extensible, customizable, free/libre text editor ��� and more.
 - [vim ![GitHub Repo Stars](https://img.shields.io/github/stars/vim/vim) ![GitHub last commit](https://img.shields.io/github/last-commit/vim/vim)](https://github.com/vim/vim) - Vim - the ubiquitous text editor.
 - [neovim ![GitHub Repo Stars](https://img.shields.io/github/stars/neovim/neovim) ![GitHub last commit](https://img.shields.io/github/last-commit/neovim/neovim)](https://github.com/neovim/neovim) - Modern vim.
 - [kakoune ![GitHub Repo Stars](https://img.shields.io/github/stars/mawww/kakoune) ![GitHub last commit](https://img.shields.io/github/last-commit/mawww/kakoune)](https://github.com/mawww/kakoune) - Modal editor inspired by vim.
