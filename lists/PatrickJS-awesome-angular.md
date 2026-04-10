@@ -1189,6 +1189,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [Admin Mart](https://adminmart.com/templates/angular-dashboard/)
 * [Angular-Templates](https://angular-templates.io/)
 * [CozyDevKit](https://cozydevkit.com/) - Interactive tools, architecture patterns, cheat sheets, and DevOps services for Angular 21.
+* [devkitly](https://www.devkitly.io/) - Production-ready Angular 21 starter kit with auth, billing, audit logging, feature flags, and SSR.
 * [NgFast](https://ngfast.com/) - The Angular boilerplate for building SaaS, landing pages, and web apps fast—turning your ideas into income.
 * [Nzoni](https://nzoni.app/) - Launch your SAAS in days with Angular.
 * [Theme Forest](https://themeforest.net/search/angular)
@@ -2417,6 +2418,7 @@ for the creation of web applications developed with Angular.
 * [react-di-lite ![GitHub Repo Stars](https://img.shields.io/github/stars/zobla-kv/react-di-lite) ![GitHub last commit](https://img.shields.io/github/last-commit/zobla-kv/react-di-lite)](https://github.com/zobla-kv/react-di-lite) - Lightweight, hierarchical dependency injection for React inspired by Angular’s services.
 * [@joanpablo/reactive_forms ![GitHub Repo Stars](https://img.shields.io/github/stars/joanpablo/reactive_forms) ![GitHub last commit](https://img.shields.io/github/last-commit/joanpablo/reactive_forms)](https://github.com/joanpablo/reactive_forms) - A Dart library using a model-driven approach for forms and validations, inspired by Angular's Reactive Forms.
 * [reaktiv ![GitHub Repo Stars](https://img.shields.io/github/stars/buiapp/reaktiv) ![GitHub last commit](https://img.shields.io/github/last-commit/buiapp/reaktiv)](https://github.com/buiapp/reaktiv) - Reactive Signals for Python with first-class async support, inspired by Angular's reactivity model.
+* [rxor ![GitHub Repo Stars](https://img.shields.io/github/stars/nsevendev/rxor) ![GitHub last commit](https://img.shields.io/github/last-commit/nsevendev/rxor)](https://github.com/nsevendev/rxor) - Brings reactive signals to React, inspired by Angular Signals, Vue 3's `ref/computed`, and SolidJS.
 * [sio ![GitHub Repo Stars](https://img.shields.io/github/stars/silicia-apps/sio) ![GitHub last commit](https://img.shields.io/github/last-commit/silicia-apps/sio)](https://github.com/silicia-apps/sio) - Silicia Framework: a fresh approach built upon Ionic, designed to streamline the development of hybrid applications and websites.
 * [UnReact.js ![GitHub Repo Stars](https://img.shields.io/github/stars/arnvjshi/unreactpjs) ![GitHub last commit](https://img.shields.io/github/last-commit/arnvjshi/unreactpjs)](https://github.com/arnvjshi/unreactpjs) - A modern framework combining the best of Angular and React for enhanced component communication.
 * [use-vue-service ![GitHub Repo Stars](https://img.shields.io/github/stars/kaokei/use-vue-service) ![GitHub last commit](https://img.shields.io/github/last-commit/kaokei/use-vue-service)](https://github.com/kaokei/use-vue-service) - Lightweight Vue 3 state management with dependency injection, inspired by Angular services.
