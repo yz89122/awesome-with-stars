@@ -170,7 +170,7 @@ Creative technologists by definition have a breadth of skills as opposed to a sp
 | [**SOSO**](https:&#x2F;&#x2F;www.sosolimited.com&#x2F;) | [Boston] [San Diego] | delivering real human impact across physical and virtual space, placemaking and storytelling | [🌐](https:&#x2F;&#x2F;www.sosolimited.com&#x2F;careers&#x2F;)
 | [**space150**](https:&#x2F;&#x2F;www.space150.com&#x2F;) | [Minneapolis] [LA] [NYC] | a tech-driven creative agency | [🌐](https:&#x2F;&#x2F;www.space150.com&#x2F;careers)
 | [**Sparks**](https:&#x2F;&#x2F;www.wearesparks.com&#x2F;) | [Philadelphia] [Shanghai] [Paris] [Berlin] [Amsterdam] | conferences, popups, event production, fabrication | 
-| [**Special Projects**](https:&#x2F;&#x2F;specialprojects.studio&#x2F;) | [London] | design and innovation agency that reveals user needs and transforms them into experiences and products | [��](mailto:careers@specialprojects.studio)
+| [**Special Projects**](https:&#x2F;&#x2F;specialprojects.studio&#x2F;) | [London] | design and innovation agency that reveals user needs and transforms them into experiences and products | [📧](mailto:careers@specialprojects.studio)
 | [**Spectacle**](https:&#x2F;&#x2F;spectacle.works&#x2F;) | [Phoenix] | expertise in fabricating experiences that drive engagement and wow participants | 
 | [**Spectra Studio**](https:&#x2F;&#x2F;spectra.studio&#x2F;) | [LA] | installations, projection, sculpture, robotics, light and sound | 
 | [**Squint&#x2F;Opera**](https:&#x2F;&#x2F;www.squintopera.com&#x2F;about&#x2F;) | [London] [NYC] [Dubai] | experience design for the built environment and musuems and attractions | 
