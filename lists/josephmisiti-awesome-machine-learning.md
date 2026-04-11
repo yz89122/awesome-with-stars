@@ -20,6 +20,16 @@ Further resources:
 
 * For a list of free-to-attend meetups and local events, go [here ![GitHub Repo Stars](https://img.shields.io/github/stars/josephmisiti/awesome-machine-learning) ![GitHub last commit](https://img.shields.io/github/last-commit/josephmisiti/awesome-machine-learning)](https://github.com/josephmisiti/awesome-machine-learning/blob/master/meetups.md).
 
+## Star History
+
+<a href="https://www.star-history.com/?repos=josephmisiti%2Fawesome-machine-learning&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=josephmisiti/awesome-machine-learning&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=josephmisiti/awesome-machine-learning&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=josephmisiti/awesome-machine-learning&type=date&legend=top-left" />
+ </picture>
+</a>
+
 ## Table of Contents
 
 ### Frameworks and Libraries
