@@ -524,6 +524,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-feature-flags-toggly](https://www.npmjs.com/package/@ops-ai/ngx-feature-flags-toggly) - Angular SDK for [Toggly](https://toggly.io/) feature flags.
 * [ngx-circuit ![GitHub Repo Stars](https://img.shields.io/github/stars/pjlamb12/ngx-circuit) ![GitHub last commit](https://img.shields.io/github/last-commit/pjlamb12/ngx-circuit)](https://github.com/pjlamb12/ngx-circuit) - Streamlines feature‑toggle management, offering flexible strategies such as simple boolean flags, scheduled activations, percentage rollouts, user‑group targeting, environment‑based rules, and more.
 * [ngx-feature-toggle ![GitHub Repo Stars](https://img.shields.io/github/stars/willmendesneto/ngx-feature-toggle) ![GitHub last commit](https://img.shields.io/github/last-commit/willmendesneto/ngx-feature-toggle)](https://github.com/willmendesneto/ngx-feature-toggle) - Simplify managing feature toggles with this Angular directive.
+* [@rollgate/sdk-angular ![GitHub Repo Stars](https://img.shields.io/github/stars/rollgate/sdks) ![GitHub last commit](https://img.shields.io/github/last-commit/rollgate/sdks)](https://github.com/rollgate/sdks/tree/main/packages/sdk-angular) - Angular SDK for [Rollgate](https://rollgate.io), a feature flag platform with scheduled releases, instant rollback, gradual rollouts, A/B testing and real-time SSE updates.
 
 ### GraphQL
 
@@ -1501,6 +1502,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [angular-editor ![GitHub Repo Stars](https://img.shields.io/github/stars/kolkov/angular-editor) ![GitHub last commit](https://img.shields.io/github/last-commit/kolkov/angular-editor)](https://github.com/kolkov/angular-editor) - A simple native WYSIWYG editor component for Angular.
 * [ngx-json-editor ![GitHub Repo Stars](https://img.shields.io/github/stars/RonnyValdivieso/ngx-json-editor) ![GitHub last commit](https://img.shields.io/github/last-commit/RonnyValdivieso/ngx-json-editor)](https://github.com/RonnyValdivieso/ngx-json-editor) - A minimal, themeable JSON editor for Angular.
 * [ngx-ace-signal ![GitHub Repo Stars](https://img.shields.io/github/stars/WebArtWork/ngx-ace-signal) ![GitHub last commit](https://img.shields.io/github/last-commit/WebArtWork/ngx-ace-signal)](https://github.com/WebArtWork/ngx-ace-signal) - A modern Angular signals-based wrapper for the Ace editor.
+* [ngx-rwriter ![GitHub Repo Stars](https://img.shields.io/github/stars/ReiAg/ngx-rwriter) ![GitHub last commit](https://img.shields.io/github/last-commit/ReiAg/ngx-rwriter)](https://github.com/ReiAg/ngx-rwriter) - A modern Rich Text Editor component for Angular 21+ with native support for images, alignment, lists, color pickers, and translations.
 
 ### File Upload
 
