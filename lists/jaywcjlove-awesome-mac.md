@@ -77,7 +77,7 @@ This project is dedicated to collecting high-quality macOS software and organizi
 
 Feel free to **star** ⭐ and **fork** 🍴 to support the project!
 
-If you have any suggestions, ideas, or discover excellent software, feel free to submit a PR to help improve this list. Please read the [contributing guidelines ![GitHub Repo Stars](https://img.shields.io/github/stars/jaywcjlove/awesome-mac) ![GitHub last commit](https://img.shields.io/github/last-commit/jaywcjlove/awesome-mac)](https://github.com/jaywcjlove/awesome-mac/blob/master/CONTRIBUTING.md) before contributing. We also welcome you to continue following this [awesome ![GitHub Repo Stars](https://img.shields.io/github/stars/sindresorhus/awesome) ![GitHub last commit](https://img.shields.io/github/last-commit/sindresorhus/awesome)](https://github.com/sindresorhus/awesome) list to build a better macOS tool collection together.
+If you have any suggestions, ideas, or discover excellent software, feel free to submit a PR to help improve this list. Please read the [contributing guidelines ![GitHub Repo Stars](https://img.shields.io/github/stars/jaywcjlove/awesome-mac) ![GitHub last commit](https://img.shields.io/github/last-commit/jaywcjlove/awesome-mac)](https://github.com/jaywcjlove/awesome-mac/blob/master/docs/CONTRIBUTING.md) before contributing. We also welcome you to continue following this [awesome ![GitHub Repo Stars](https://img.shields.io/github/stars/sindresorhus/awesome) ![GitHub last commit](https://img.shields.io/github/last-commit/sindresorhus/awesome)](https://github.com/sindresorhus/awesome) list to build a better macOS tool collection together.
 
 **Explanation**
 
@@ -683,6 +683,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 
 ### Screenshot Tools
 
+* [Capso ![GitHub Repo Stars](https://img.shields.io/github/stars/lzhgus/Capso) ![GitHub last commit](https://img.shields.io/github/last-commit/lzhgus/Capso)](https://github.com/lzhgus/Capso) - Free, open-source screenshot and screen recording for macOS. Area/window/fullscreen capture, MP4 & GIF recording, webcam PiP, OCR, annotations, and screenshot beautification. [![Open-Source Software][OSS Icon]](https://github.com/lzhgus/Capso) ![Freeware][Freeware Icon]
 * [CleanShot X](https://cleanshot.com/) - Discover a superior way to capture your Mac's screen.
 * [CloudApp](https://www.getcloudapp.com/) - Work at the speed of sight. ![Freeware][Freeware Icon]
 * [Dropbox](https://www.dropbox.com/) - Dropbox app offers easy screenshot capturing and sharing ![Freeware][Freeware Icon]
