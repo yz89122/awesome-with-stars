@@ -461,6 +461,7 @@ _Libraries for data analysis._
 - Financial Data
   - [akshare ![GitHub Repo Stars](https://img.shields.io/github/stars/akfamily/akshare) ![GitHub last commit](https://img.shields.io/github/last-commit/akfamily/akshare)](https://github.com/akfamily/akshare) - A financial data interface library, built for human beings!
   - [edgartools ![GitHub Repo Stars](https://img.shields.io/github/stars/dgunning/edgartools) ![GitHub last commit](https://img.shields.io/github/last-commit/dgunning/edgartools)](https://github.com/dgunning/edgartools) - Library for downloading structured data from SEC EDGAR filings and XBRL financial statements.
+  - [lumibot ![GitHub Repo Stars](https://img.shields.io/github/stars/Lumiwealth/lumibot) ![GitHub last commit](https://img.shields.io/github/last-commit/Lumiwealth/lumibot)](https://github.com/Lumiwealth/lumibot) - Algorithmic trading framework for backtesting and live deployment across stocks, options, crypto, futures, and forex.
   - [openbb ![GitHub Repo Stars](https://img.shields.io/github/stars/OpenBB-finance/OpenBB) ![GitHub last commit](https://img.shields.io/github/last-commit/OpenBB-finance/OpenBB)](https://github.com/OpenBB-finance/OpenBB) - A financial data platform for analysts, quants and AI agents.
   - [yfinance ![GitHub Repo Stars](https://img.shields.io/github/stars/ranaroussi/yfinance) ![GitHub last commit](https://img.shields.io/github/last-commit/ranaroussi/yfinance)](https://github.com/ranaroussi/yfinance) - Easy Pythonic way to download market and financial data from Yahoo Finance.
 

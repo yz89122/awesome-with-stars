@@ -302,7 +302,7 @@ A collection of Android security-related resources.
 
 Your contributions are always welcome!
 
-## 📖 Citation
+## ��� Citation
 
 ```bibtex
 @misc{
