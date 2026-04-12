@@ -231,7 +231,7 @@ _Info on topics necessary for designing and developing game engines._
     - 📚 [Art of Game Design](https://www.amazon.com/Art-Game-Design-Book-Lenses/dp/0123694965) - Teaches game design in an accessible manner.
     - 📚 [Game Programming Patterns](https://gameprogrammingpatterns.com) - Patterns found in games that make code easier to understand.
 - Developer Portals
-    - 🌎 [Game Developer](https://www.gamedeveloper.com) - Industry blogs, events, jobs, updates and more. Formerly _Gamasutra_.
+    - ��� [Game Developer](https://www.gamedeveloper.com) - Industry blogs, events, jobs, updates and more. Formerly _Gamasutra_.
     - 🌎 [GameDev.net](https://www.gamedev.net/) - Game dev forums, tutorials, blogs, projects, portfolios, and news.
     - 🌎 [GameFromScratch.com](https://gamefromscratch.com) - Game dev news, tutorials and much more.
     - 🌎 [itch.io](https://itch.io) - Game dev resources and platform to showcase / promote / buy & sell games.
@@ -1365,7 +1365,7 @@ _Software to help with game engine / video game development._
 - 💰 [Juice FX](https://codemanu.itch.io/juicefx) - Add style to your sprites and animations with ease.
 - 🆓 [Piskel](https://www.piskelapp.com) - Online editor for animated sprites & pixel art. [[Source ![GitHub Repo Stars](https://img.shields.io/github/stars/piskelapp/piskel) ![GitHub last commit](https://img.shields.io/github/last-commit/piskelapp/piskel)](https://github.com/piskelapp/piskel)]
 - 💰 [PixaTool](https://kronbits.itch.io/pixatool) - Create pixel art by converting your images, sprites or videos.
-- ��� [Pixel FX](https://codemanu.itch.io/particle-fx-designer) - Create pixel art particle effects and render them to sprite sheets.
+- 💰 [Pixel FX](https://codemanu.itch.io/particle-fx-designer) - Create pixel art particle effects and render them to sprite sheets.
 - 💰 [Smear FX](https://codemanu.itch.io/smear-fx) - Make your 2D animations juicy by adding some smearing to them.
 
 ### Vector Editors
