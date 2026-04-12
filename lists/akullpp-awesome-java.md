@@ -372,7 +372,7 @@ _Everything that simplifies interactions with the database._
 _Libraries related to handling date and time._
 
 - [iCal4j ![GitHub Repo Stars](https://img.shields.io/github/stars/ical4j/ical4j) ![GitHub last commit](https://img.shields.io/github/last-commit/ical4j/ical4j)](https://github.com/ical4j/ical4j) - Parse and build iCalendar [RFC 5545](https://tools.ietf.org/html/rfc5545) data models.
-- [Jollyday ![GitHub Repo Stars](https://img.shields.io/github/stars/svendiedrichsen/jollyday) ![GitHub last commit](https://img.shields.io/github/last-commit/svendiedrichsen/jollyday)](https://github.com/svendiedrichsen/jollyday) - Determines the holidays for a given year, country/name and eventually state/region.
+- [Jollyday ![GitHub Repo Stars](https://img.shields.io/github/stars/focus-shift/jollyday) ![GitHub last commit](https://img.shields.io/github/last-commit/focus-shift/jollyday)](https://github.com/focus-shift/jollyday) - Determines the holidays for a given year, country/name and eventually state/region.
 - [ThreeTen-Extra ![GitHub Repo Stars](https://img.shields.io/github/stars/ThreeTen/threeten-extra) ![GitHub last commit](https://img.shields.io/github/last-commit/ThreeTen/threeten-extra)](https://github.com/ThreeTen/threeten-extra) - Additional date-time classes that complement those in JDK 8.
 - [Time4J ![GitHub Repo Stars](https://img.shields.io/github/stars/MenoData/Time4J) ![GitHub last commit](https://img.shields.io/github/last-commit/MenoData/Time4J)](https://github.com/MenoData/Time4J) - Advanced date and time library. (LGPL-2.1-only)
 
