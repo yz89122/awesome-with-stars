@@ -1800,7 +1800,7 @@ Loading address: binbloom can parse a raw binary firmware and determine its load
 
 - [CSS Stats](https://cssstats.com) — Potentially interesting stats on stylesheets.
 
-- [CSScomb ![GitHub Repo Stars](https://img.shields.io/github/stars/csscomb/csscomb.js) ![GitHub last commit](https://img.shields.io/github/last-commit/csscomb/csscomb.js)](https://github.com/csscomb/csscomb.js) — A coding style formatter for CSS. Supports own configurations to make style sheets beautiful and consistent.
+- [CSScomb ![GitHub Repo Stars](https://img.shields.io/github/stars/csscomb/csscomb.js) ![GitHub last commit](https://img.shields.io/github/last-commit/csscomb/csscomb.js)](https://github.com/csscomb/csscomb.js) ��� A coding style formatter for CSS. Supports own configurations to make style sheets beautiful and consistent.
 
 - [CSSLint](http://csslint.net) — Does basic syntax checking and finds problematic patterns or signs of inefficiency.
 
