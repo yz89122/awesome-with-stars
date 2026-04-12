@@ -293,6 +293,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [ain ![GitHub Repo Stars](https://img.shields.io/github/stars/jonaslu/ain) ![GitHub last commit](https://img.shields.io/github/last-commit/jonaslu/ain)](https://github.com/jonaslu/ain) - HTTP client with a simple format to organize API endpoints.
 - [curlie ![GitHub Repo Stars](https://img.shields.io/github/stars/rs/curlie) ![GitHub last commit](https://img.shields.io/github/last-commit/rs/curlie)](https://github.com/rs/curlie) - A curl frontend with the ease of use of HTTPie.
 - [ATAC ![GitHub Repo Stars](https://img.shields.io/github/stars/Julien-cpsn/ATAC) ![GitHub last commit](https://img.shields.io/github/last-commit/Julien-cpsn/ATAC)](https://github.com/Julien-cpsn/ATAC) - A feature-full TUI API client made in Rust.
+- [httptap ![GitHub Repo Stars](https://img.shields.io/github/stars/ozeranskii/httptap) ![GitHub last commit](https://img.shields.io/github/last-commit/ozeranskii/httptap)](https://github.com/ozeranskii/httptap) - Breakdown and visualize HTTP requests. 
 
 ### Testing
 
