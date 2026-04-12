@@ -466,4 +466,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) - fir
 
 ## Author
 
-<a href="https://capgo.app/">Capgo — Live updates for capacitor</a>
+<a href="https://capgo.app/">Capgo ��� Live updates for capacitor</a>
