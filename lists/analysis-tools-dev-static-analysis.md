@@ -606,7 +606,7 @@ By default, govulncheck makes requests to the Go vulnerability database at https
 
 - [Liquid Haskell](https://ucsd-progsys.github.io/liquidhaskell-blog/) — Liquid Haskell is a refinement type checker for Haskell programs.
 
-- [Stan](https://kowainik.github.io/projects/stan) — Stan is a command-line tool for analysing Haskell projects and outputting discovered vulnerabilities in a helpful way with possible solutions for detected problems.
+- [Stan](https://kowainik.github.io/projects/stan) ��� Stan is a command-line tool for analysing Haskell projects and outputting discovered vulnerabilities in a helpful way with possible solutions for detected problems.
 
 - [Weeder ![GitHub Repo Stars](https://img.shields.io/github/stars/ocharles/weeder) ![GitHub last commit](https://img.shields.io/github/last-commit/ocharles/weeder)](https://github.com/ocharles/weeder) — A tool for detecting dead exports or package imports in Haskell code.
 
