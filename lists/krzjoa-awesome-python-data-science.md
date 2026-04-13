@@ -58,6 +58,8 @@
 	- [Pipelines](#pipelines)
 	- [Data-centric AI](#data-centric-ai)
 	- [Synthetic Data](#synthetic-data)
+
+- [TabGAN ![GitHub Repo Stars](https://img.shields.io/github/stars/Diyago/Tabular-data-generation) ![GitHub last commit](https://img.shields.io/github/last-commit/Diyago/Tabular-data-generation)](https://github.com/Diyago/Tabular-data-generation) - Synthetic tabular data generation using GANs, Diffusion Models, and LLMs. <img height="16" width="16" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
 - [Deployment](#deployment)
 - [Statistics](#statistics)
 - [Distributed Computing](#distributed-computing)
@@ -76,7 +78,7 @@
 
 ### General Purpose Machine Learning
 * [SciPy](https://scipy.org/) - Fundamental algorithms for scientific computing in Python
-* [scikit-learn](http://scikit-learn.org/stable/) - Machine learning in Python. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
+* [scikit-learn](https://scikit-learn.org/stable/) - Machine learning in Python. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
 * [PyCaret ![GitHub Repo Stars](https://img.shields.io/github/stars/pycaret/pycaret) ![GitHub last commit](https://img.shields.io/github/last-commit/pycaret/pycaret)](https://github.com/pycaret/pycaret) - An open-source, low-code machine learning library in Python.  <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/R_big.png" alt="R inspired lib">
 * [Shogun ![GitHub Repo Stars](https://img.shields.io/github/stars/shogun-toolbox/shogun) ![GitHub last commit](https://img.shields.io/github/last-commit/shogun-toolbox/shogun)](https://github.com/shogun-toolbox/shogun) - Machine learning toolbox.
 * [xLearn ![GitHub Repo Stars](https://img.shields.io/github/stars/aksnzhy/xlearn) ![GitHub last commit](https://img.shields.io/github/last-commit/aksnzhy/xlearn)](https://github.com/aksnzhy/xlearn) - High Performance, Easy-to-use, and Scalable Machine Learning Package.
@@ -297,8 +299,8 @@
 ## Probabilistic Methods
 * [pyro ![GitHub Repo Stars](https://img.shields.io/github/stars/uber/pyro) ![GitHub last commit](https://img.shields.io/github/last-commit/uber/pyro)](https://github.com/uber/pyro) - A flexible, scalable deep probabilistic programming library built on PyTorch. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible">
 * [PyMC ![GitHub Repo Stars](https://img.shields.io/github/stars/pymc-devs/pymc) ![GitHub last commit](https://img.shields.io/github/last-commit/pymc-devs/pymc)](https://github.com/pymc-devs/pymc) - Bayesian Stochastic Modelling in Python.
-* [ZhuSuan](http://zhusuan.readthedocs.io/en/latest/) - Bayesian Deep Learning. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/tf_big2.png" alt="sklearn">
-* [GPflow](http://gpflow.readthedocs.io/en/latest/?badge=latest) - Gaussian processes in TensorFlow. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/tf_big2.png" alt="sklearn">
+* [ZhuSuan](https://zhusuan.readthedocs.io/en/latest/) - Bayesian Deep Learning. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/tf_big2.png" alt="sklearn">
+* [GPflow](https://gpflow.readthedocs.io/en/latest/?badge=latest) - Gaussian processes in TensorFlow. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/tf_big2.png" alt="sklearn">
 * [InferPy ![GitHub Repo Stars](https://img.shields.io/github/stars/PGM-Lab/InferPy) ![GitHub last commit](https://img.shields.io/github/last-commit/PGM-Lab/InferPy)](https://github.com/PGM-Lab/InferPy) - Deep Probabilistic Modelling Made Easy.  <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/tf_big2.png" alt="sklearn">
 * [PyStan ![GitHub Repo Stars](https://img.shields.io/github/stars/stan-dev/pystan) ![GitHub last commit](https://img.shields.io/github/last-commit/stan-dev/pystan)](https://github.com/stan-dev/pystan) - Bayesian inference using the No-U-Turn sampler (Python interface).
 * [sklearn-bayes ![GitHub Repo Stars](https://img.shields.io/github/stars/AmazaspShumik/sklearn-bayes) ![GitHub last commit](https://img.shields.io/github/last-commit/AmazaspShumik/sklearn-bayes)](https://github.com/AmazaspShumik/sklearn-bayes) - Python package for Bayesian Machine Learning with scikit-learn API. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
@@ -388,6 +390,7 @@
 * [dirty_cat ![GitHub Repo Stars](https://img.shields.io/github/stars/dirty-cat/dirty_cat) ![GitHub last commit](https://img.shields.io/github/last-commit/dirty-cat/dirty_cat)](https://github.com/dirty-cat/dirty_cat) - Machine learning on dirty tabular data (especially: string-based variables for classifcation and regression). <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
 * [NitroFE ![GitHub Repo Stars](https://img.shields.io/github/stars/NITRO-AI/NitroFE) ![GitHub last commit](https://img.shields.io/github/last-commit/NITRO-AI/NitroFE)](https://github.com/NITRO-AI/NitroFE) - Moving window features. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
 * [sk-transformer ![GitHub Repo Stars](https://img.shields.io/github/stars/chrislemke/sk-transformers) ![GitHub last commit](https://img.shields.io/github/last-commit/chrislemke/sk-transformers)](https://github.com/chrislemke/sk-transformers) - A collection of various pandas & scikit-learn compatible transformers for all kinds of preprocessing and feature engineering steps <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pandas_big.png" alt="pandas compatible">
+* [tubular ![GitHub Repo Stars](https://img.shields.io/github/stars/azukds/tubular) ![GitHub last commit](https://img.shields.io/github/last-commit/azukds/tubular)](https://github.com/azukds/tubular) - Collection of scikit-learn compatible transformers written in [narwhals]( https://github.com/narwhals-dev/narwhals), which can accept either polars/pandas inputs and utilise the chosen library under the hood. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn"><img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pandas_big.png" alt="pandas compatible">
 
 
 ### Feature Selection
