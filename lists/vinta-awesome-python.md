@@ -578,6 +578,7 @@ _Tools of static analysis, linters and code quality checkers. Also see [awesome-
 - Code Analysis
   - [code2flow ![GitHub Repo Stars](https://img.shields.io/github/stars/scottrogowski/code2flow) ![GitHub last commit](https://img.shields.io/github/last-commit/scottrogowski/code2flow)](https://github.com/scottrogowski/code2flow) - Turn your Python and JavaScript code into DOT flowcharts.
   - [prospector ![GitHub Repo Stars](https://img.shields.io/github/stars/prospector-dev/prospector) ![GitHub last commit](https://img.shields.io/github/last-commit/prospector-dev/prospector)](https://github.com/prospector-dev/prospector) - A tool to analyze Python code.
+  - [repowise ![GitHub Repo Stars](https://img.shields.io/github/stars/repowise-dev/repowise) ![GitHub last commit](https://img.shields.io/github/last-commit/repowise-dev/repowise)](https://github.com/repowise-dev/repowise) - Codebase intelligence that indexes repos into dependency graphs, git history, and auto-generated docs with dead code detection.
   - [vulture ![GitHub Repo Stars](https://img.shields.io/github/stars/jendrikseipp/vulture) ![GitHub last commit](https://img.shields.io/github/last-commit/jendrikseipp/vulture)](https://github.com/jendrikseipp/vulture) - A tool for finding and analyzing dead Python code.
 - Code Linters
   - [bandit ![GitHub Repo Stars](https://img.shields.io/github/stars/PyCQA/bandit) ![GitHub last commit](https://img.shields.io/github/last-commit/PyCQA/bandit)](https://github.com/PyCQA/bandit) - A tool designed to find common security issues in Python code.
