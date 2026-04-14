@@ -231,7 +231,7 @@ _Info on topics necessary for designing and developing game engines._
     - 📚 [Art of Game Design](https://www.amazon.com/Art-Game-Design-Book-Lenses/dp/0123694965) - Teaches game design in an accessible manner.
     - 📚 [Game Programming Patterns](https://gameprogrammingpatterns.com) - Patterns found in games that make code easier to understand.
 - Developer Portals
-    - 🌎 [Game Developer](https://www.gamedeveloper.com) - Industry blogs, events, jobs, updates and more. Formerly _Gamasutra_.
+    - ��� [Game Developer](https://www.gamedeveloper.com) - Industry blogs, events, jobs, updates and more. Formerly _Gamasutra_.
     - 🌎 [GameDev.net](https://www.gamedev.net/) - Game dev forums, tutorials, blogs, projects, portfolios, and news.
     - 🌎 [GameFromScratch.com](https://gamefromscratch.com) - Game dev news, tutorials and much more.
     - 🌎 [itch.io](https://itch.io) - Game dev resources and platform to showcase / promote / buy & sell games.
@@ -294,7 +294,7 @@ _Language specific game engine development libraries / frameworks / code._
 - C: File System
     - 🎉 [HexEmbed ![GitHub Repo Stars](https://img.shields.io/github/stars/codeplea/hexembed) ![GitHub last commit](https://img.shields.io/github/last-commit/codeplea/hexembed)](https://github.com/codeplea/hexembed) - Small utility to help embed files in C/C++ programs in an easy, cross-platform way.
     - ⭐ [Incbin ![GitHub Repo Stars](https://img.shields.io/github/stars/graphitemaster/incbin) ![GitHub last commit](https://img.shields.io/github/last-commit/graphitemaster/incbin)](https://github.com/graphitemaster/incbin) - Include binary and text files in your C/C++ apps with ease.
-    - �� [PhysicsFS ![GitHub Repo Stars](https://img.shields.io/github/stars/icculus/physfs) ![GitHub last commit](https://img.shields.io/github/last-commit/icculus/physfs)](https://github.com/icculus/physfs) - Portable, flexible file I/O abstraction. Provides access to various archives.
+    - 🎉 [PhysicsFS ![GitHub Repo Stars](https://img.shields.io/github/stars/icculus/physfs) ![GitHub last commit](https://img.shields.io/github/last-commit/icculus/physfs)](https://github.com/icculus/physfs) - Portable, flexible file I/O abstraction. Provides access to various archives.
     - ⭐ [Where Am I ![GitHub Repo Stars](https://img.shields.io/github/stars/gpakosz/whereami) ![GitHub last commit](https://img.shields.io/github/last-commit/gpakosz/whereami)](https://github.com/gpakosz/whereami) - Locates the current path on the local file system.
 - C: Fonts
     - 🎉 [Font Stash ![GitHub Repo Stars](https://img.shields.io/github/stars/memononen/fontstash) ![GitHub last commit](https://img.shields.io/github/last-commit/memononen/fontstash)](https://github.com/memononen/fontstash) - Lightweight library that uses stb_truetype to render fonts to a texture atlas.
