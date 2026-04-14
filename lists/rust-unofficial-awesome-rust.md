@@ -786,6 +786,7 @@ See also [A comparison of operating systems written in Rust ![GitHub Repo Stars]
 ### Workflow Automation
 
 * [dali-benothmen/cronflow ![GitHub Repo Stars](https://img.shields.io/github/stars/dali-benothmen/cronflow) ![GitHub last commit](https://img.shields.io/github/last-commit/dali-benothmen/cronflow)](https://github.com/dali-benothmen/cronflow) - Cronflow is a high-performance, developer-focused workflow automation library that lets you build and orchestrate complex, scalable automation workflows fully in code. [![release ![GitHub Repo Stars](https://img.shields.io/github/stars/dali-benothmen/cronflow) ![GitHub last commit](https://img.shields.io/github/last-commit/dali-benothmen/cronflow)](https://github.com/dali-benothmen/cronflow/actions/workflows/release.yml/badge.svg)](https://github.com/dali-benothmen/cronflow/actions/workflows/release.yml)
+- [CCHub ![GitHub Repo Stars](https://img.shields.io/github/stars/Moresl/cchub) ![GitHub last commit](https://img.shields.io/github/last-commit/Moresl/cchub)](https://github.com/Moresl/cchub) - A desktop control panel for the Claude Code / Codex / Gemini CLI ecosystem. Manage MCP servers, config profiles, agent skills, CLAUDE.md, hooks, and workflow templates from a single Tauri app (Windows / macOS / Linux).
 
 ## Development tools
 
