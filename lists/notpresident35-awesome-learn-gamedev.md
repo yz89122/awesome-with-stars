@@ -508,7 +508,7 @@ Part 1](https://0fps.net/2014/02/10/replication-in-networked-games-overview-part
 [How To Draw](https://www.webtoons.com/en/challenge/how-to-draw-/intro-/viewer?title_no=730330&episode_no=1) 💠🟪 - An webcomic on how to draw, and much more importantly, how to _learn_ to draw.
 
 
-[Radiorunner's Curriculum for the Solo Artist](https://www.brendanmeachen.com/soloartist) 🟪 - A curriculum for self-teaching art. If you want to _really_ hone your skills, this will undoubtedly be worth your time.
+[Radiorunner's Curriculum for the Solo Artist](https://www.brendanmeachen.com/soloartist) ��� - A curriculum for self-teaching art. If you want to _really_ hone your skills, this will undoubtedly be worth your time.
 
 
 [DrawABox](https://drawabox.com/) 💠🟪 - An exhaustive course for the art fundamentals (completely free!)
@@ -820,7 +820,7 @@ Royalty free music! Don't forget to check the license.
 [Community Dev Newsletter and Blog](https://www.victoriatran.com) 💠🟪 - A blog and a newsletter by Victoria Tran with advice on community management, social media, and marketing. Past newsletters are archived here. I personally recommend "Failure Marketing" and "Charm your Communities" as starting points.
 
 
-[Blog by Derek Lieu](https://www.derek-lieu.com/blog/) ���� - A blog by Derek Lieu with advice on game trailers. I personally recommend "Show the Dream, Not the Job" and "Video Game Trailer Specifications" as starting points.
+[Blog by Derek Lieu](https://www.derek-lieu.com/blog/) 🟪 - A blog by Derek Lieu with advice on game trailers. I personally recommend "Show the Dream, Not the Job" and "Video Game Trailer Specifications" as starting points.
 
 
 [The Game Developer's Guide to Publishing Agreements](https://deviantlegal.com/guide/game-developers-guide-publishing-agreements/) 🟪 - An introduction to games contract law by René Otto, written primarily for developers seeking to work with publishers. 

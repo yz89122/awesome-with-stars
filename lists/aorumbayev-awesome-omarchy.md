@@ -148,6 +148,7 @@
 ## Development Tools
 
 - [awesome-omarchy-tui ![GitHub Repo Stars](https://img.shields.io/github/stars/aorumbayev/awesome-omarchy-tui) ![GitHub last commit](https://img.shields.io/github/last-commit/aorumbayev/awesome-omarchy-tui)](https://github.com/aorumbayev/awesome-omarchy-tui) - Terminal UI for browsing awesome-omarchy repository content.
+- [omaclip ![GitHub Repo Stars](https://img.shields.io/github/stars/rhemvi/omaclip) ![GitHub last commit](https://img.shields.io/github/last-commit/rhemvi/omaclip)](https://github.com/rhemvi/omaclip) - A clipboard manager with cross-device sync and hot theme reloading.
 - [omarchy-ai ![GitHub Repo Stars](https://img.shields.io/github/stars/mitkox/omarchy-ai) ![GitHub last commit](https://img.shields.io/github/last-commit/mitkox/omarchy-ai)](https://github.com/mitkox/omarchy-ai) - AI-powered enhancements and tools for Omarchy.
 - [omarchy-iso ![GitHub Repo Stars](https://img.shields.io/github/stars/omacom-io/omarchy-iso) ![GitHub last commit](https://img.shields.io/github/last-commit/omacom-io/omarchy-iso)](https://github.com/omacom-io/omarchy-iso) - Custom ISO builder for Omarchy installations.
 - [omarchy-box ![GitHub Repo Stars](https://img.shields.io/github/stars/dylanbr/omarchy-box) ![GitHub last commit](https://img.shields.io/github/last-commit/dylanbr/omarchy-box)](https://github.com/dylanbr/omarchy-box) - Containerized Omarchy environment.
