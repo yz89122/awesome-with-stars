@@ -408,6 +408,7 @@ Here are complete firmwares to turn them into MQTT-controlled smart home nodes:
 - [openHAB](https://github.com/openhab) - Includes a [MQTT binding ![GitHub Repo Stars](https://img.shields.io/github/stars/openhab/openhab1-addons) ![GitHub last commit](https://img.shields.io/github/last-commit/openhab/openhab1-addons)](https://github.com/openhab/openhab1-addons/wiki/MQTT-Binding).
 - [openLuup ![GitHub Repo Stars](https://img.shields.io/github/stars/akbooer/openLuup) ![GitHub last commit](https://img.shields.io/github/last-commit/akbooer/openLuup)](https://github.com/akbooer/openLuup) - A pure-Lua open-source emulation of the Vera Luup home automation environment with MQTT.
 - [pimatic](https://pimatic.org/) - MQTT plugin included.
+- [shopsavvy-mqtt ![GitHub Repo Stars](https://img.shields.io/github/stars/shopsavvy/shopsavvy-mqtt) ![GitHub last commit](https://img.shields.io/github/last-commit/shopsavvy/shopsavvy-mqtt)](https://github.com/shopsavvy/shopsavvy-mqtt) - MQTT bridge that publishes product price data with Home Assistant MQTT discovery support.
 - [knx2mqtt](https://c0d3.sh/smarthome/knx2mqtt) - Telegram bi-directional integration as alternative to HomeAssistant's built-in support.
 
 
