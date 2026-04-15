@@ -123,7 +123,7 @@ Creative technologists by definition have a breadth of skills as opposed to a sp
 | [**Lorem Ipsum**](https:&#x2F;&#x2F;loremipsumcorp.com&#x2F;) | [NYC] [Moscow] [London] | experience design, narrative, physical and digital environments | 
 | [**m ss ng p eces**](https:&#x2F;&#x2F;mssngpeces.com&#x2F;) | [NYC] [LA] | new wave production and entertainment partner for content and immersive experiences that inspire culture | 
 | [**Magnopus**](https:&#x2F;&#x2F;www.magnopus.com&#x2F;) | [LA] [London] | unite the physical and digital worlds with extraordinary experiences | [🌐](https:&#x2F;&#x2F;www.magnopus.com&#x2F;current-openings)
-| [**Manifold**](https:&#x2F;&#x2F;www.wearemanifold.com&#x2F;) | [San Francisco] [LA] [Portland] | we hire smart people and get out of their way | [🌐](https:&#x2F;&#x2F;www.wearemanifold.com&#x2F;contact&#x2F;)
+| [**Manifold**](https:&#x2F;&#x2F;www.wearemanifold.com&#x2F;) | [San Francisco] [LA] [Portland] | we hire smart people and get out of their way | [����](https:&#x2F;&#x2F;www.wearemanifold.com&#x2F;contact&#x2F;)
 | [**Map**](http:&#x2F;&#x2F;mapprojectoffice.com&#x2F;) | [London] | industrial designers who believe great design can solve problems | [🌐](https:&#x2F;&#x2F;universal.pinpointhq.com&#x2F;)
 | [**Marshmallow Laser Feast**](https:&#x2F;&#x2F;www.marshmallowlaserfeast.com&#x2F;) | [London] | leaving a slug trail of sensory nuggets as we journey through the cosmos | [📧](mailto:jobs@marshmallowlaserfeast.com)
 | [**Master of Shapes**](https:&#x2F;&#x2F;masterofshapes.com&#x2F;) | [LA] | a space surfing, geometry taming, buffalo riding, Future House | 
@@ -191,7 +191,7 @@ Creative technologists by definition have a breadth of skills as opposed to a sp
 | [**The Lab at Rockwell Group**](https:&#x2F;&#x2F;www.labatrockwellgroup.com) | [NYC] | architecture and design, branded experiences, immersive environments, pop ups | 
 | [**The Projects**](http:&#x2F;&#x2F;theprojects.com&#x2F;) | [London] [LA] [NYC] [Sydney] | brand consultancy, meaningful experiences, tell stories | 
 | [**THG**](https:&#x2F;&#x2F;thehettemagroup.com&#x2F;) | [LA] | experiential, exhibit, live shows, theme parks, retail, dining, museums | 
-| [**Thinkwell**](https:&#x2F;&#x2F;thinkwellgroup.com&#x2F;) | [LA] [Montreal] [Abu Dhabi] [Riyadh] | strategy, experience design, production, master planning, entertainment destinations, branded attractions, interactive media installations, events, museums, expos | [��](https:&#x2F;&#x2F;thinkwellgroup.com&#x2F;careers&#x2F;)
+| [**Thinkwell**](https:&#x2F;&#x2F;thinkwellgroup.com&#x2F;) | [LA] [Montreal] [Abu Dhabi] [Riyadh] | strategy, experience design, production, master planning, entertainment destinations, branded attractions, interactive media installations, events, museums, expos | [🌐](https:&#x2F;&#x2F;thinkwellgroup.com&#x2F;careers&#x2F;)
 | [**Tinker**](https:&#x2F;&#x2F;tinker.nl&#x2F;en) | [Utrecht] | narrative spaces, musuems, experience design, consultancy | 
 | [**Tool**](https:&#x2F;&#x2F;www.toolofna.com&#x2F;) | [LA] | help brands and agencies with ideation, content, and experience production that generate buzz | 
 | [**Trivium Interactive**](https:&#x2F;&#x2F;www.triviuminteractive.com&#x2F;) | [Boston] | experience design and production | [🌐](https:&#x2F;&#x2F;www.triviuminteractive.com&#x2F;careers)
