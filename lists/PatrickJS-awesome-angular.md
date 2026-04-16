@@ -2221,6 +2221,7 @@ for the creation of web applications developed with Angular.
 * [ngx-headless ![GitHub Repo Stars](https://img.shields.io/github/stars/fawadtariq/ngx-headless) ![GitHub last commit](https://img.shields.io/github/last-commit/fawadtariq/ngx-headless)](https://github.com/fawadtariq/ngx-headless) - A collection of standalone, accessible Angular primitives inspired by [Headless UI](https://headlessui.com) & [FormKit](https://formkit.com).
 * [Clean Architecture Frontend ![GitHub Repo Stars](https://img.shields.io/github/stars/ialiaslani/caf) ![GitHub last commit](https://img.shields.io/github/last-commit/ialiaslani/caf)](https://github.com/ialiaslani/caf) - Domain-agnostic primitives for building frontend applications with Clean Architecture. Works with React, Vue, Angular, or any future framework.
 * [@luminacn/ui ![GitHub Repo Stars](https://img.shields.io/github/stars/luminacn/ui) ![GitHub last commit](https://img.shields.io/github/last-commit/luminacn/ui)](https://github.com/luminacn/ui) - Signal-first, headless UI primitives for Angular.
+* [Bloc UI ![GitHub Repo Stars](https://img.shields.io/github/stars/debasish1996/BLOC-UI) ![GitHub last commit](https://img.shields.io/github/last-commit/debasish1996/BLOC-UI)](https://github.com/debasish1996/BLOC-UI) - Lightweight, accessible Angular components with zero design opinions. Use your own styles or the optional theme package.
 
 ### Viewers
 
