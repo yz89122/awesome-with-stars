@@ -341,6 +341,7 @@ This list is a collection of the best Deno modules and resources.
 - [Fresh Showcase](https://fresh.deno.dev/showcase) - The official showcase of Fresh apps.
 - [GitHub Profile Trophy ![GitHub Repo Stars](https://img.shields.io/github/stars/ryo-ma/github-profile-trophy) ![GitHub last commit](https://img.shields.io/github/last-commit/ryo-ma/github-profile-trophy)](https://github.com/ryo-ma/github-profile-trophy) - 🏆 Add dynamically generated GitHub Trophy on your readme
 - [Saleor Deno Merch ![GitHub Repo Stars](https://img.shields.io/github/stars/saleor/deno-merch) ![GitHub last commit](https://img.shields.io/github/last-commit/saleor/deno-merch)](https://github.com/saleor/deno-merch) - A fork of the original Deno Merch e-commerce website, rebuilt with [Saleor ![GitHub Repo Stars](https://img.shields.io/github/stars/saleor/saleor) ![GitHub last commit](https://img.shields.io/github/last-commit/saleor/saleor)](https://github.com/saleor/saleor).
+- [ShopSavvy Deno Deploy ![GitHub Repo Stars](https://img.shields.io/github/stars/shopsavvy/deno-deploy-shopsavvy) ![GitHub last commit](https://img.shields.io/github/last-commit/shopsavvy/deno-deploy-shopsavvy)](https://github.com/shopsavvy/deno-deploy-shopsavvy) - Deno Deploy router with Hono for product search, real-time pricing, and price history.
 - [The Official Showcase](https://deno.land/showcase) - The official showcase of Deno.
 - [UsingDeno](https://usingdeno.com) - Curated list of Web Applications & Projects using Deno 🦕.
 

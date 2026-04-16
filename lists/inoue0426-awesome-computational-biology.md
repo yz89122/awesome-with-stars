@@ -420,7 +420,7 @@ Browse and search the resources via the [GitHub Pages UI](https://inoue0426.gith
 
 #### Multi-Modal Foundation Models
 
-- [CHIEF ![GitHub Repo Stars](https://img.shields.io/github/stars/hms-dbmi/CHIEF) ![GitHub last commit](https://img.shields.io/github/last-commit/hms-dbmi/CHIEF)](https://github.com/hms-dbmi/CHIEF) — Clinical Histopathology Imaging Evaluation Foundation model integrating histology images and clinical context for pan-cancer analysis.
+- [CHIEF ![GitHub Repo Stars](https://img.shields.io/github/stars/hms-dbmi/CHIEF) ![GitHub last commit](https://img.shields.io/github/last-commit/hms-dbmi/CHIEF)](https://github.com/hms-dbmi/CHIEF) ��� Clinical Histopathology Imaging Evaluation Foundation model integrating histology images and clinical context for pan-cancer analysis.
 - [BiomedCLIP](https://huggingface.co/microsoft/BiomedCLIP-PubMedBERT_256-vit_g_14) — CLIP-based vision-language foundation model for biomedical images and text trained on PubMed figure–caption pairs.
 - [PORPOISE ![GitHub Repo Stars](https://img.shields.io/github/stars/mahmoodlab/PORPOISE) ![GitHub last commit](https://img.shields.io/github/last-commit/mahmoodlab/PORPOISE)](https://github.com/mahmoodlab/PORPOISE) — Pan-cancer integrative histology-genomic analysis framework using multimodal deep learning for patient stratification.
 - [PathomicFusion ![GitHub Repo Stars](https://img.shields.io/github/stars/mahmoodlab/PathomicFusion) ![GitHub last commit](https://img.shields.io/github/last-commit/mahmoodlab/PathomicFusion)](https://github.com/mahmoodlab/PathomicFusion) — Integrated framework fusing histopathology and genomic features via CNN, GNN, and attention gating for cancer diagnosis and prognosis.
