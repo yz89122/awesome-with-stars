@@ -106,6 +106,7 @@ Please raise a [Pull-Request ![GitHub Repo Stars](https://img.shields.io/github/
 - .[synflow](https://synflow.org) [Github ![GitHub Repo Stars](https://img.shields.io/github/stars/k1ln/synflow) ![GitHub last commit](https://img.shields.io/github/last-commit/k1ln/synflow)](https://github.com/k1ln/synflow) - a browser based modular synth flow engine. With all Web Audio API nodes and more with Worklets (like Vocoder, Reverb, etc. ). With sophisticated Flow automation.
 - [online decibel meter](https://realtimesoundmeter.org/) – Free online sound meter to measure environmental noise levels in decibels (dB). Real-time sound level meter for detecting quiet, noisy, or harmful sound levels.
 - [PracticeLoop](https://teal-semifreddo-cad4ad.netlify.app/) - Free YouTube looper with progressive speed training, metronome, and chromatic tuner for music practice.
+- [keystrum](https://keystrum.app) ([source ![GitHub Repo Stars](https://img.shields.io/github/stars/kimhinton/keystrum) ![GitHub last commit](https://img.shields.io/github/last-commit/kimhinton/keystrum)](https://github.com/kimhinton/keystrum)) - A browser instrument that turns a QWERTY keyboard into a strum machine using Karplus-Strong synthesis. No samples loaded.
 
 ## Resources
 
