@@ -214,7 +214,7 @@ _Info on topics necessary for designing and developing game engines._
 - Books
     - 📚 [Game Engine Architecture](https://www.gameenginebook.com) - Theory and practice of game engine development.
 - Commercial Studios Research Divisions
-    - 🌎 [Activision Research](https://research.activision.com/) - Blog posts, articles and presentations from research within _Activision_.
+    - �� [Activision Research](https://research.activision.com/) - Blog posts, articles and presentations from research within _Activision_.
     - 🌎 [EA Technology](https://www.ea.com/technology/research) - Research on game tech including info on the _Frostbite_ engine.
     - 🌎 [tri-Ace Research](https://research.tri-ace.com/) - Publications from the Research and Development Department at _tri-Ace Inc_.
     - 🌎 [Ubisoft Technology](https://www.ubisoft.com/en-us/company/how-we-make-games/technology) - Learn about in-house tech including the _Anvil_ and _Snowdrop_ engines.
@@ -245,7 +245,7 @@ _Info on topics necessary for designing and developing game engines._
 - 📚 [Big-O Cheat Sheet](https://www.bigocheatsheet.com) - Big-O complexities of algorithms used in computer science.
 - 🌎 [Deadlock Empire](https://deadlockempire.github.io/#menu) - Interactive tutorial to master threads and concurrency.
 - 📚 [Every Programmer Should Know ![GitHub Repo Stars](https://img.shields.io/github/stars/mtdvio/every-programmer-should-know) ![GitHub last commit](https://img.shields.io/github/last-commit/mtdvio/every-programmer-should-know)](https://github.com/mtdvio/every-programmer-should-know) - Technical things every developer should know.
-- 📚 [Games of Coding ![GitHub Repo Stars](https://img.shields.io/github/stars/michelpereira/awesome-games-of-coding) ![GitHub last commit](https://img.shields.io/github/last-commit/michelpereira/awesome-games-of-coding)](https://github.com/michelpereira/awesome-games-of-coding#readme) - Games that teach you a programming language.
+- �� [Games of Coding ![GitHub Repo Stars](https://img.shields.io/github/stars/michelpereira/awesome-games-of-coding) ![GitHub last commit](https://img.shields.io/github/last-commit/michelpereira/awesome-games-of-coding)](https://github.com/michelpereira/awesome-games-of-coding#readme) - Games that teach you a programming language.
 - 🌎 [Geeks for Geeks](https://www.geeksforgeeks.org) - Tutorials, articles, courses, coding competitions, jobs and more.
 - 📚 [Learn to Program ![GitHub Repo Stars](https://img.shields.io/github/stars/karlhorky/learn-to-program) ![GitHub last commit](https://img.shields.io/github/last-commit/karlhorky/learn-to-program)](https://github.com/karlhorky/learn-to-program#readme) - Educational resources to learn to program.
 - 📚 [TIOBE Index](https://www.tiobe.com/tiobe-index/) - Popularity of programming languages, updated monthly.
@@ -333,7 +333,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [libGamepad ![GitHub Repo Stars](https://img.shields.io/github/stars/mtwilliams/libgamepad) ![GitHub last commit](https://img.shields.io/github/last-commit/mtwilliams/libgamepad)](https://github.com/mtwilliams/libgamepad) - Cross-platform library for gamepad input.
     - 🎉 [Sokol Gamepad ![GitHub Repo Stars](https://img.shields.io/github/stars/floooh/sokol) ![GitHub last commit](https://img.shields.io/github/last-commit/floooh/sokol)](https://github.com/floooh/sokol/pull/393/commits/26a9da9dafd4adb22a1ace0de0d2569da31ae427) - Branch with addon support for gamepads in _Sokol_.
 - C: Layout
-    - 🎉 [Clay ![GitHub Repo Stars](https://img.shields.io/github/stars/nicbarker/clay) ![GitHub last commit](https://img.shields.io/github/last-commit/nicbarker/clay)](https://github.com/nicbarker/clay) - High performance 2D UI layout library.
+    - ���� [Clay ![GitHub Repo Stars](https://img.shields.io/github/stars/nicbarker/clay) ![GitHub last commit](https://img.shields.io/github/last-commit/nicbarker/clay)](https://github.com/nicbarker/clay) - High performance 2D UI layout library.
 - C: Libraries
     - ⭐ [Cute Headers ![GitHub Repo Stars](https://img.shields.io/github/stars/RandyGaul/cute_headers) ![GitHub last commit](https://img.shields.io/github/last-commit/RandyGaul/cute_headers)](https://github.com/RandyGaul/cute_headers) - Single-file libraries primarily used for games, by [Randy Gaul](https://github.com/RandyGaul).
     - ⭐ [Libs ![GitHub Repo Stars](https://img.shields.io/github/stars/mattiasgustavsson/libs) ![GitHub last commit](https://img.shields.io/github/last-commit/mattiasgustavsson/libs)](https://github.com/mattiasgustavsson/libs) - Single-file public domain libraries for C/C++, by [Mattias Gustavsson](https://github.com/mattiasgustavsson).
