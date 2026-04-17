@@ -58,13 +58,14 @@
 **Legend**: 🌍 Accessible online · 🌐 Browser extension · 🔼 Conversion or upgrade tool · 🔧 Generator · 🅰 Typing/enforcement · 💼 Plugins/Tools/Extensions for external services · 🎨 Color-related · 🚀 Framework
 
 - 💙💼 [Prettier plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/tailwindlabs/prettier-plugin-tailwindcss) ![GitHub last commit](https://img.shields.io/github/last-commit/tailwindlabs/prettier-plugin-tailwindcss)](https://github.com/tailwindlabs/prettier-plugin-tailwindcss) - Official Tailwind CSS plugin for Prettier.
-- 🎨��🔧 [UI colors](https://uicolors.app/create) - Color palette generator for Tailwind CSS.
+- 🎨🌍🔧 [UI colors](https://uicolors.app/create) - Color palette generator for Tailwind CSS.
 - 🎨🌍🔧 [Tailwind Color Shades](https://javisperez.github.io/tailwindcolorshades) - Color shades generator for Tailwind CSS.
 - 🎨🌍🔧 [TailwindInk](https://tailwind.ink/) - AI palette generator, trained with the Tailwind CSS palette.
 - 🎨🌍🔧 [Hypercolor](https://hypercolor.dev/) - Collection of Tailwind CSS gradients with directional options.
 - 🎨🌍🔧 [Tints](https://www.tints.dev/) - Color palette generator and API for Tailwind CSS.
 - 🎨🌍🔧 [Fullwind CSS](https://fullwindcss.com/) - Extend Tailwind CSS color palettes with additional shades.
 - 🎨🌍🔧 [Inclusive colors](https://www.inclusivecolors.com/) - Create fine-tuned WCAG accessible Tailwind CSS color palettes.
+- 🌍🔧 [Base-2 Rounding](https://objectivelyround.dev) - Spacing and sizing value picker for Tailwind CSS v4's bracketless arbitrary values.
 - 🔼🌍 [Prefixer](https://github.vue.tailwind-prefix.cbass.dev) - Tailwind classes' prefixer tool.
 - 🔼 [RustyWind ![GitHub Repo Stars](https://img.shields.io/github/stars/avencera/rustywind) ![GitHub last commit](https://img.shields.io/github/last-commit/avencera/rustywind)](https://github.com/avencera/rustywind) - CLI tool for sorting Tailwind CSS classes.
 - 🔼 [Tailwind to Inline styles converter ![GitHub Repo Stars](https://img.shields.io/github/stars/vardan-arm/tailwind-to-inline) ![GitHub last commit](https://img.shields.io/github/last-commit/vardan-arm/tailwind-to-inline)](https://github.com/vardan-arm/tailwind-to-inline) - Converts Tailwind CSS classes to inline styles in email templates.
