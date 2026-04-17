@@ -305,7 +305,7 @@ Groups that are have a more general focus, but have a knack for projects imbued 
 | [**BUCK**](https:&#x2F;&#x2F;buck.co&#x2F;) | [LA] [NYC] [Sydney] [Amsterdam] | VR, AR, installation, real-time animation, 3D, experiential | 
 | [**Framestore**](https:&#x2F;&#x2F;www.framestore.com&#x2F;) | [London] [NYC] [Montreal] | virtual, augmented and mixed realities, location-based entertainment, and theme park rides | 
 | [**ManvsMachine**](https:&#x2F;&#x2F;mvsm.com&#x2F;) | [London] [LA] | multidimensional creative studio | 
-| [**Media Monks**](https:&#x2F;&#x2F;www.mediamonks.com&#x2F;) | [Amsterdam] [London] [Dubai] [Stockholm] [NYC] [LA] [San Francisco] [Mexico City] [S��o Paulo] [Buenos Aires] [Shanghai] [Singapore] | creative production | 
+| [**Media Monks**](https:&#x2F;&#x2F;www.mediamonks.com&#x2F;) | [Amsterdam] [London] [Dubai] [Stockholm] [NYC] [LA] [San Francisco] [Mexico City] [São Paulo] [Buenos Aires] [Shanghai] [Singapore] | creative production | 
 | [**R&#x2F;GA**](https:&#x2F;&#x2F;www.rga.com&#x2F;) | [Austin] [Chicago] [LA] [NYC] [Portland] [San Francisco] [Berlin] [Bucharest] [London] [Buenos Aires] [Santiago] [São Paulo] [Melbourne] [Shanghai] [Singapore] [Sydney] [Tokyo] | business, experience, and marketing transformation | 
 | [**SuperUber**](https:&#x2F;&#x2F;www.superuber.com&#x2F;) | [Rio de Janeiro] [São Paulo] | experiences that blend art, technology, architecture and design | 
 | [**The Mill**](https:&#x2F;&#x2F;www.themill.com&#x2F;) | [London] [NYC] [LA] [Chicago] [Bangalore] [Berlin] | experience makers, media and brand activation, innovative design, and inventive technologies | 
