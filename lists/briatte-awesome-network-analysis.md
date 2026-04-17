@@ -653,6 +653,7 @@ Inspired by [Awesome Deep Learning ![GitHub Repo Stars](https://img.shields.io/g
 
 -   [bokeh](https://bokeh.org/) - Python library for interactive data visualization in the browser, with support for networks.
 -   [cdlib ![GitHub Repo Stars](https://img.shields.io/github/stars/GiulioRossetti/cdlib) ![GitHub last commit](https://img.shields.io/github/last-commit/GiulioRossetti/cdlib)](https://github.com/GiulioRossetti/cdlib) - Python community detection library, with 60+ methods and evaluation/visualization features.
+-   [CHSZLabLib ![GitHub Repo Stars](https://img.shields.io/github/stars/CHSZLab/CHSZLabLib) ![GitHub last commit](https://img.shields.io/github/last-commit/CHSZLab/CHSZLabLib)](https://github.com/CHSZLab/CHSZLabLib) - Unified Python interface to 20 high-performance C++ libraries for graph partitioning, community detection, cuts, independent sets, and dynamic graph algorithms.
 -   [dash-cytoscape ![GitHub Repo Stars](https://img.shields.io/github/stars/plotly/dash-cytoscape) ![GitHub last commit](https://img.shields.io/github/last-commit/plotly/dash-cytoscape)](https://github.com/plotly/dash-cytoscape) - Interactive network visualization library in Python, powered by Cytoscape.js and Dash
 -   [graph-tool](http://graph-tool.skewed.de/) - Python module for network manipulation and analysis, written mostly in C++ for speed.
 -   [Graphinate](https://erivlis.github.io/graphinate/) - Python package aimed at generating graphs from data sources, built on top of `networkx`.
@@ -1031,8 +1032,9 @@ Alden S. Klovdahl,
 [Rohan Dandage](https://github.com/rraadd88), 
 [Benjamin Smith](https://github.com/benyamindsmith), 
 [Beth Duckles](https://github.com/bduckles), 
-[Lei Cao](https://github.com/cllei12) and 
-[Simon Delarue](https://www.simondelarue.com/) - 
+[Lei Cao](https://github.com/cllei12), 
+[Simon Delarue](https://www.simondelarue.com/) and 
+[Christian Schulz](https://schulzchristian.github.io/) - 
 have waived all copyright and related or neighboring rights to this work.
 
 Thanks to [Robert J. Ackland](https://github.com/rjackland), 
