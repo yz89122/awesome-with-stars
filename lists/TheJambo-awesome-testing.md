@@ -114,6 +114,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 ### Accessibility & Usability Testing
 - [Colour Blindness Simulator](https://altreus.github.io/colourblind/) - Simulate different types of color blindness.
 - [RatedWithAI](https://ratedwithai.com) - AI-powered website accessibility scanner that checks for ADA and WCAG 2.2 compliance with instant actionable audits.
+- [VertaaUX CLI ![GitHub Repo Stars](https://img.shields.io/github/stars/VertaaUX/cli) ![GitHub last commit](https://img.shields.io/github/last-commit/VertaaUX/cli)](https://github.com/VertaaUX/cli) - UX, accessibility, and conversion audits from the terminal and CI, with score-based quality gates and PR regression detection.
 - [WAVE](https://wave.webaim.org/) - Suite of evaluation tools that helps authors make their web content more accessible to individuals with disabilities.
 
 ### Performance & Load Testing
