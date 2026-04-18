@@ -245,7 +245,7 @@ Guowei Xu, Peng Jin, Hao Li, Yibing Song, Lichao Sun, Li Yuan
 </p>
 
 <details>
-<summary>��️ <i>More Information</i></summary>
+<summary>ℹ️ <i>More Information</i></summary>
 
 LLaVA-CoT builds upon the Llama-3.2-Vision model and introduces a structured, four-stage reasoning process: Summary (briefly outlines the task), Caption (describes relevant image parts), Reasoning (detailed analysis), and Conclusion (provides the final answer).  Each stage is marked with specific tags (<SUMMARY>, <CAPTION>, <REASONING>, <CONCLUSION>) to maintain clarity. Unlike traditional Chain-of-Thought (CoT) prompting, LLaVA-CoT promotes structured thinking by first organizing the problem and known information, then performing detailed reasoning, and finally deriving a conclusion. The model is trained on the newly compiled LLaVA-CoT-100k dataset. This dataset integrates samples from various visual question answering sources and providing structured reasoning instructions. The dataset contains 99k image and Question answer pairs using GPT-4o to provide details. Data is gathered from general VQA datasets (ShareGPT4V, ChartQA, A-OKVQA, DocVQA, PISC, CLEVR) and Science targeted VQA (AI2D, GeoQA+, ScienceQA, CLEVR-Math).  The paper also proposes a novel inference-time stage-level beam search method. This method generates multiple candidate results at *each* stage of the reasoning process, selecting the best to continue, improving performance and scalability. This contrasts with traditional best-of-N or sentence-level beam search. The entire model is trained using the Supervised-Fine Tuning.
 </details>
