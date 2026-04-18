@@ -137,7 +137,7 @@ Orr Zohar, Xiaohan Wang, Yann Dubois, Nikhil Mehta, Tong Xiao, Philippe Hansen-E
 </p>
 
 <details>
-<summary>��️ <i>More Information</i></summary>
+<summary>ℹ️ <i>More Information</i></summary>
 
 
 Apollo leverages the Qwen2.5 series of Large Language Models (LLMs) with 1.5B, 3B, and 7B parameters. The key architectural innovation is the combination of a SigLIP-SO400M image encoder and an InternVideo2 video encoder. Features from both encoders are interpolated and concatenated channel-wise before being fed into a Perceiver Resampler, which outputs 32 tokens per frame. This combination was empirically found to be superior to other encoder choices. The model uses a 3-stage training approach. Critically, the paper introduces the concept of "Scaling Consistency," demonstrating that design decisions made on smaller models and datasets (up to a critical size) effectively transfer to larger models. This allows for more efficient experimentation. The paper also advocates for frames-per-second (fps) sampling during training, as opposed to uniform frame sampling, and demonstrates its superiority. The optimal number of tokens is 8-32 per frame. It also includes a curated benchmark, ApolloBench, that reduces evaluation time by 41x compared to existing benchmarks while maintaining high correlation and focusing on temporal reasoning and perception. The exploration also includes Token Resampling showing that Perceiver resampling has a good performace. Token Integration is also discussed: Adding tokens (text, learned, etc.) between the video tokens derived from different frames
