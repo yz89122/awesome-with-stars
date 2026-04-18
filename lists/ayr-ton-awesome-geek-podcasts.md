@@ -297,7 +297,7 @@ A curated list of podcasts we like to listen to.
 * [El gato de Turing](https://elgatodeturing.com/) - Podcast sobre la actualidad científica y tecnológica.
 * [Fallo de sistema](http://www.rtve.es/alacarta/audios/fallo-de-sistema/) - Programa de divulgación científica, ciencia ficción y vídeo juegos.
 * [Ideas ágiles](https://dosideas.com/podcast/ideasagiles/) - Podcast sobre charlas, entrevistas y experiencias sobre la vida del desarrollador de software.
-* [Naci��n Lumpen](https://www.nacionlumpen.com/) - similar a "Basta ya de picar".
+* [Nación Lumpen](https://www.nacionlumpen.com/) - similar a "Basta ya de picar".
 * [Python en español](https://podcast.jcea.es/python/) - Python en tu idioma
 * [WeDevelopers](http://wedevelopers.com/) - Podcast de developers (algunos episodios en inglés / some podcasts in English).
 * [Atareao Podcast](https://www.atareao.es/podcasts) - Podcast sobre Linux, Ubuntu, Android y Open Source.
