@@ -187,6 +187,7 @@ _Libraries for working with human languages._
   - [stanza ![GitHub Repo Stars](https://img.shields.io/github/stars/stanfordnlp/stanza) ![GitHub last commit](https://img.shields.io/github/last-commit/stanfordnlp/stanza)](https://github.com/stanfordnlp/stanza) - The Stanford NLP Group's official Python library, supporting 60+ languages.
 - Chinese
   - [funnlp ![GitHub Repo Stars](https://img.shields.io/github/stars/fighting41love/funNLP) ![GitHub last commit](https://img.shields.io/github/last-commit/fighting41love/funNLP)](https://github.com/fighting41love/funNLP) - A collection of tools and datasets for Chinese NLP.
+  - [jieba ![GitHub Repo Stars](https://img.shields.io/github/stars/fxsjy/jieba) ![GitHub last commit](https://img.shields.io/github/last-commit/fxsjy/jieba)](https://github.com/fxsjy/jieba) - The most popular Chinese text segmentation library.
 
 ## Computer Vision
 
