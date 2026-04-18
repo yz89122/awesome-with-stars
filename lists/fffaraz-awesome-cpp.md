@@ -588,6 +588,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [otfcc ![GitHub Repo Stars](https://img.shields.io/github/stars/caryll/otfcc) ![GitHub last commit](https://img.shields.io/github/last-commit/caryll/otfcc)](https://github.com/caryll/otfcc) - A C library and utility used for parsing and writing OpenType font files. [Apache-2.0]
 * [harfbuzz ![GitHub Repo Stars](https://img.shields.io/github/stars/harfbuzz/harfbuzz) ![GitHub last commit](https://img.shields.io/github/last-commit/harfbuzz/harfbuzz)](https://github.com/harfbuzz/harfbuzz) - A text shaping engine. [Old MIT]
 * [libschrift ![GitHub Repo Stars](https://img.shields.io/github/stars/tomolt/libschrift) ![GitHub last commit](https://img.shields.io/github/last-commit/tomolt/libschrift)](https://github.com/tomolt/libschrift) - A lightweight TrueType font rendering library. [ISC]
+* [SheenBidi ![GitHub Repo Stars](https://img.shields.io/github/stars/Tehreer/SheenBidi) ![GitHub last commit](https://img.shields.io/github/last-commit/Tehreer/SheenBidi)](https://github.com/Tehreer/SheenBidi) - A sophisticated implementation of Unicode Bidirectional Algorithm. [Apache-2.0]
 
 ## Game Engine
 
