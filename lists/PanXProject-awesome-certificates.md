@@ -308,7 +308,7 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
 | <a href="https://learn.snowflake.com/en/courses/OD-ESS-DWW/" target="_blank" rel="noopener noreferrer">Data Warehousing Workshop</a> | Snowflake |Beginner|6 | 🏅|
 | <a href="https://learn.snowflake.com/en/courses/OD-ESS-CMCW/" target="_blank" rel="noopener noreferrer">Collaboration, Marketplace & Cost Estimation Workshop</a> | Snowflake |Beginner|6 | 🏅|
-| <a href="https://learn.snowflake.com/en/courses/OD-ESS-DABW/" target="_blank" rel="noopener noreferrer">Data Application Builders Workshop</a> | Snowflake |Beginner|6 | 🏅|
+| <a href="https://learn.snowflake.com/en/courses/OD-ESS-DABW/" target="_blank" rel="noopener noreferrer">Data Application Builders Workshop</a> | Snowflake |Beginner|6 | ����|
 | <a href="https://learn.snowflake.com/en/courses/OD-ESS-DLKW/" target="_blank" rel="noopener noreferrer">Data Lake Workshop</a> | Snowflake |Beginner|6 | 🏅|
 | <a href="https://learn.snowflake.com/en/courses/OD-ESS-DNGW/" target="_blank" rel="noopener noreferrer">Data Engineering Workshop</a> | Snowflake |Beginner|6 | 🏅|
 | <a href="https://learn.snowflake.com/en/courses/OD-ESS-DSCW/" target="_blank" rel="noopener noreferrer">Data Science Workshop</a> | Snowflake |Beginner|6 | 🏅|
