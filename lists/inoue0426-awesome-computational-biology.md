@@ -289,7 +289,7 @@ Browse and search the resources via the [GitHub Pages UI](https://inoue0426.gith
 - [COMMOT ![GitHub Repo Stars](https://img.shields.io/github/stars/zcang/COMMOT) ![GitHub last commit](https://img.shields.io/github/last-commit/zcang/COMMOT)](https://github.com/zcang/COMMOT) — Optimal transport-based framework for screening cell-cell communication in spatial transcriptomics.
 - [TIGON ![GitHub Repo Stars](https://img.shields.io/github/stars/yutongo/TIGON) ![GitHub last commit](https://img.shields.io/github/last-commit/yutongo/TIGON)](https://github.com/yutongo/TIGON) — Neural optimal transport method for reconstructing growth and dynamic trajectories from single-cell transcriptomics.
 - [LINGER ![GitHub Repo Stars](https://img.shields.io/github/stars/Durenlab/LINGER) ![GitHub last commit](https://img.shields.io/github/last-commit/Durenlab/LINGER)](https://github.com/Durenlab/LINGER) — Neural network for gene regulatory network inference from single-cell multiome (RNA+ATAC-seq) data with bulk data pretraining.
-- [sciPENN ![GitHub Repo Stars](https://img.shields.io/github/stars/jlakkis/sciPENN) ![GitHub last commit](https://img.shields.io/github/last-commit/jlakkis/sciPENN)](https://github.com/jlakkis/sciPENN) — RNN-based method for simultaneous protein expression prediction, uncertainty estimation, and cell-type label transfer from CITE-seq and scRNA-seq data.
+- [sciPENN ![GitHub Repo Stars](https://img.shields.io/github/stars/jlakkis/sciPENN) ![GitHub last commit](https://img.shields.io/github/last-commit/jlakkis/sciPENN)](https://github.com/jlakkis/sciPENN) ��� RNN-based method for simultaneous protein expression prediction, uncertainty estimation, and cell-type label transfer from CITE-seq and scRNA-seq data.
 - [MOGONET ![GitHub Repo Stars](https://img.shields.io/github/stars/txWang/MOGONET) ![GitHub last commit](https://img.shields.io/github/last-commit/txWang/MOGONET)](https://github.com/txWang/MOGONET) — Multi-omics graph convolutional network framework for patient classification and biomarker identification.
 
 ---
@@ -320,7 +320,7 @@ Browse and search the resources via the [GitHub Pages UI](https://inoue0426.gith
 
 #### Drug Target Interaction
 
-- [NeoDTI ![GitHub Repo Stars](https://img.shields.io/github/stars/FangpingWan/NeoDTI) ![GitHub last commit](https://img.shields.io/github/last-commit/FangpingWan/NeoDTI)](https://github.com/FangpingWan/NeoDTI) �� Library for drug-target interaction prediction.
+- [NeoDTI ![GitHub Repo Stars](https://img.shields.io/github/stars/FangpingWan/NeoDTI) ![GitHub last commit](https://img.shields.io/github/last-commit/FangpingWan/NeoDTI)](https://github.com/FangpingWan/NeoDTI) — Library for drug-target interaction prediction.
 - [DTINet ![GitHub Repo Stars](https://img.shields.io/github/stars/luoyunan/DTINet) ![GitHub last commit](https://img.shields.io/github/last-commit/luoyunan/DTINet)](https://github.com/luoyunan/DTINet) — Network-based framework integrating heterogeneous biological data for DTI prediction.
 - [DeepDTA ![GitHub Repo Stars](https://img.shields.io/github/stars/hkmztrk/DeepDTA) ![GitHub last commit](https://img.shields.io/github/last-commit/hkmztrk/DeepDTA)](https://github.com/hkmztrk/DeepDTA) — Deep learning model using CNNs on protein sequences and drug SMILES.
 - [GraphDTA ![GitHub Repo Stars](https://img.shields.io/github/stars/thinng/GraphDTA) ![GitHub last commit](https://img.shields.io/github/last-commit/thinng/GraphDTA)](https://github.com/thinng/GraphDTA) — Graph neural network–based DTI prediction using molecular graphs.
