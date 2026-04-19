@@ -127,7 +127,7 @@ The storefront of Magento 2 can be styled in numerous ways:
 - [Magento Log Viewer (VS Code extension)](https://marketplace.visualstudio.com/items?itemName=MathiasElle.magento-log-viewer) - VS Code extension to view, watch and manage Magento log files and reports directly in your workspace.
 
 <details>
-<summary>���� Graveyard — projects no longer recommended</summary>
+<summary>🪦 Graveyard — projects no longer recommended</summary>
 
 - [Documentation Search for Alfred ![GitHub Repo Stars](https://img.shields.io/github/stars/DavidLambauer/Alfred-Workflow-Magento-2-DevDocs-Search) ![GitHub last commit](https://img.shields.io/github/last-commit/DavidLambauer/Alfred-Workflow-Magento-2-DevDocs-Search)](https://github.com/DavidLambauer/Alfred-Workflow-Magento-2-DevDocs-Search) - Alfred workflow integrating the official Magento 2 documentation search.
 - [Pestle ![GitHub Repo Stars](https://img.shields.io/github/stars/astorm/pestle) ![GitHub last commit](https://img.shields.io/github/last-commit/astorm/pestle)](https://github.com/astorm/pestle) - Code generation tool by Alan Storm.
