@@ -127,7 +127,7 @@ The storefront of Magento 2 can be styled in numerous ways:
 - [Magento Log Viewer (VS Code extension)](https://marketplace.visualstudio.com/items?itemName=MathiasElle.magento-log-viewer) - VS Code extension to view, watch and manage Magento log files and reports directly in your workspace.
 
 <details>
-<summary>���� Graveyard — projects no longer recommended</summary>
+<summary>🪦 Graveyard — projects no longer recommended</summary>
 
 - [Documentation Search for Alfred ![GitHub Repo Stars](https://img.shields.io/github/stars/DavidLambauer/Alfred-Workflow-Magento-2-DevDocs-Search) ![GitHub last commit](https://img.shields.io/github/last-commit/DavidLambauer/Alfred-Workflow-Magento-2-DevDocs-Search)](https://github.com/DavidLambauer/Alfred-Workflow-Magento-2-DevDocs-Search) - Alfred workflow integrating the official Magento 2 documentation search.
 - [Pestle ![GitHub Repo Stars](https://img.shields.io/github/stars/astorm/pestle) ![GitHub last commit](https://img.shields.io/github/last-commit/astorm/pestle)](https://github.com/astorm/pestle) - Code generation tool by Alan Storm.
@@ -355,7 +355,7 @@ The storefront of Magento 2 can be styled in numerous ways:
 - [Magento Official Website](https://www.magento.com) - Magento's official website.
 - [Magento Developer Documentation](http://devdocs.magento.com/) - Official developer documentation.
 - [Magento Forum](https://community.magento.com/) - Community forum run by Magento.
-- [Magento GitHub Repository ![GitHub Repo Stars](https://img.shields.io/github/stars/magento/magento2) ![GitHub last commit](https://img.shields.io/github/last-commit/magento/magento2)](https://github.com/magento/magento2) 🫡 - Magento 2 GitHub repository.
+- [Magento GitHub Repository ![GitHub Repo Stars](https://img.shields.io/github/stars/magento/magento2) ![GitHub last commit](https://img.shields.io/github/last-commit/magento/magento2)](https://github.com/magento/magento2) �� - Magento 2 GitHub repository.
 - [Magento Developer Blog](https://community.magento.com/t5/Magento-DevBlog/bg-p/devblog) - Developer blog run by Magento.
 - [Magento 2 data migration tool ![GitHub Repo Stars](https://img.shields.io/github/stars/magento/data-migration-tool) ![GitHub last commit](https://img.shields.io/github/last-commit/magento/data-migration-tool)](https://github.com/magento/data-migration-tool) - Official Magento 1 → Magento 2 migration tool.
 - [Magento Coding Standards ![GitHub Repo Stars](https://img.shields.io/github/stars/magento/magento-coding-standard) ![GitHub last commit](https://img.shields.io/github/last-commit/magento/magento-coding-standard)](https://github.com/magento/magento-coding-standard) 🫡 - Official Magento 2 advanced ruleset for PHP_CodeSniffer.
