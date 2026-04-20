@@ -283,7 +283,7 @@ Services:
 ### Monitoring
  - [mongo-munin ![GitHub Repo Stars](https://img.shields.io/github/stars/erh/mongo-munin) ![GitHub last commit](https://img.shields.io/github/last-commit/erh/mongo-munin)](https://github.com/erh/mongo-munin) - Collection of Munin plugins
  - [nagios-plugin-mongodb ![GitHub Repo Stars](https://img.shields.io/github/stars/mzupan/nagios-plugin-mongodb) ![GitHub last commit](https://img.shields.io/github/last-commit/mzupan/nagios-plugin-mongodb)](https://github.com/mzupan/nagios-plugin-mongodb) - Nagios plugin (in Python)
- - [Percona Monitoring and Management](https://www.percona.com/software/database-tools/percona-monitoring-and-management) - Free and open-source platform for managing and monitoring databases performances
+ - [Percona Monitoring and Management ![GitHub Repo Stars](https://img.shields.io/github/stars/percona/pmm) ![GitHub last commit](https://img.shields.io/github/last-commit/percona/pmm)](https://github.com/percona/pmm) - Free and open-source platform for managing and monitoring databases performances
  - [mongotail ![GitHub Repo Stars](https://img.shields.io/github/stars/mrsarm/mongotail) ![GitHub last commit](https://img.shields.io/github/last-commit/mrsarm/mongotail)](https://github.com/mrsarm/mongotail) - Log all MongoDB queries in a "tail"able way
 
 Services:
