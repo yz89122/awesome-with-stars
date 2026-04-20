@@ -307,7 +307,7 @@ Descriptions focus on structure, scope, and market role rather than time-depende
 * 🇨🇳 **[Shanghai Stock Exchange (SSE)](https://www.sse.com.cn)**
   Major mainland Chinese exchange, focused on large state-owned and industrial enterprises.
 
-* 🇨���� **[Shenzhen Stock Exchange (SZSE)](https://www.szse.cn)**
+* 🇨🇳 **[Shenzhen Stock Exchange (SZSE)](https://www.szse.cn)**
   Chinese exchange with emphasis on growth, technology, and small- to mid-cap companies.
 
 * 🇸🇬 **[Singapore Exchange (SGX)](https://www.sgx.com)**
