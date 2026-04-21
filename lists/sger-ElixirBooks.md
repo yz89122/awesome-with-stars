@@ -205,7 +205,7 @@ Languages may come and go, but the relational database endures. Learn how to use
 
 <img src="http://ecx.images-amazon.com/images/I/41pPn50VnvL._SX415_BO1,204,203,200_.jpg" width="120px"/>
 
-Don’t accept the compromise between fast and beautiful: you can have it all. Phoenix creator Chris McCord, Elixir creator José Valim, and award-winning author Bruce Tate walk you through building an application that’s fast and reliable. At every step, you���ll learn from the Phoenix creators not just what to do, but why. Packed with insider insights, this definitive guide will be your constant companion in your journey from Phoenix novice to expert, as you build the next generation of web applications.
+Don’t accept the compromise between fast and beautiful: you can have it all. Phoenix creator Chris McCord, Elixir creator José Valim, and award-winning author Bruce Tate walk you through building an application that’s fast and reliable. At every step, you’ll learn from the Phoenix creators not just what to do, but why. Packed with insider insights, this definitive guide will be your constant companion in your journey from Phoenix novice to expert, as you build the next generation of web applications.
 
 ### [Real-Time Phoenix](https://pragprog.com/titles/sbsockets/real-time-phoenix/)
 
