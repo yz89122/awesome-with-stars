@@ -239,6 +239,7 @@ _Traditional full stack web frameworks. Also see [Web APIs](#web-apis)._
 _Libraries for building RESTful and GraphQL APIs._
 
 - Django
+  - [django-modern-rest ![GitHub Repo Stars](https://img.shields.io/github/stars/wemake-services/django-modern-rest) ![GitHub last commit](https://img.shields.io/github/last-commit/wemake-services/django-modern-rest)](https://github.com/wemake-services/django-modern-rest) - Modern REST with speed, types, async, `msgspec`, `pydantic` and other goodies!
   - [django-ninja ![GitHub Repo Stars](https://img.shields.io/github/stars/vitalik/django-ninja) ![GitHub last commit](https://img.shields.io/github/last-commit/vitalik/django-ninja)](https://github.com/vitalik/django-ninja) - Fast, Django REST framework based on type hints and Pydantic.
   - [django-rest-framework ![GitHub Repo Stars](https://img.shields.io/github/stars/encode/django-rest-framework) ![GitHub last commit](https://img.shields.io/github/last-commit/encode/django-rest-framework)](https://github.com/encode/django-rest-framework) - A powerful and flexible toolkit to build web APIs.
   - [strawberry-django ![GitHub Repo Stars](https://img.shields.io/github/stars/strawberry-graphql/strawberry-django) ![GitHub last commit](https://img.shields.io/github/last-commit/strawberry-graphql/strawberry-django)](https://github.com/strawberry-graphql/strawberry-django) - Strawberry GraphQL integration with Django.

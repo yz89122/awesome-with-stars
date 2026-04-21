@@ -1779,6 +1779,7 @@ then it is not supported:
 - [adoyle-h/one.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/adoyle-h/one.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/adoyle-h/one.nvim)](https://github.com/adoyle-h/one.nvim) - All-in-one config framework in Lua.
 - [nvim-mini/MiniMax ![GitHub Repo Stars](https://img.shields.io/github/stars/nvim-mini/MiniMax) ![GitHub last commit](https://img.shields.io/github/last-commit/nvim-mini/MiniMax)](https://github.com/nvim-mini/MiniMax) - A collection of self-contained and extensively commented configurations which mostly use MINI tools.
 - [TheItcor/MoaiVim ![GitHub Repo Stars](https://img.shields.io/github/stars/TheItcor/MoaiVim) ![GitHub last commit](https://img.shields.io/github/last-commit/TheItcor/MoaiVim)](https://github.com/TheItcor/MoaiVim) - A minimalist config that emulates a lightweight IDE.
+- [plutowang/nvim.pack ![GitHub Repo Stars](https://img.shields.io/github/stars/plutowang/nvim.pack) ![GitHub last commit](https://img.shields.io/github/last-commit/plutowang/nvim.pack)](https://github.com/plutowang/nvim.pack) - Declarative, event-driven lazy-loading configuration built purely on native Vim.pack for extreme startup performance.
 <!--lint disable double-link -->
 [**⬆ back to top**](#contents)
 <!--lint enable double-link -->
