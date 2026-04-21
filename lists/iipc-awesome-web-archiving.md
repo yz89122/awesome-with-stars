@@ -42,6 +42,8 @@ Web archiving is the process of collecting portions of the World Wide Web to ens
   * [UNT Web Archiving Course ![GitHub Repo Stars](https://img.shields.io/github/stars/vphill/web-archiving-course) ![GitHub last commit](https://img.shields.io/github/last-commit/vphill/web-archiving-course)](https://github.com/vphill/web-archiving-course)
   * [Continuing Education to Advance Web Archiving (CEDWARC)](https://cedwarc.github.io/)
   * [A Whirlwind Tour of Common Crawl's Datasets using Python ![GitHub Repo Stars](https://img.shields.io/github/stars/commoncrawl/whirlwind-python) ![GitHub last commit](https://img.shields.io/github/last-commit/commoncrawl/whirlwind-python)](https://github.com/commoncrawl/whirlwind-python/)
+  * [A Whirlwind Tour of Common Crawl's Datasets as a Python notebook ![GitHub Repo Stars](https://img.shields.io/github/stars/commoncrawl/whirlwind-python-notebook) ![GitHub last commit](https://img.shields.io/github/last-commit/commoncrawl/whirlwind-python-notebook)](https://github.com/commoncrawl/whirlwind-python-notebook)
+  * [A Whirlwind Tour of Common Crawl's Datasets using Java ![GitHub Repo Stars](https://img.shields.io/github/stars/commoncrawl/whirlwind-java) ![GitHub last commit](https://img.shields.io/github/last-commit/commoncrawl/whirlwind-java)](https://github.com/commoncrawl/whirlwind-java/)
 * The WARC Standard:
   * The [warc-specifications](https://iipc.github.io/warc-specifications/) community HTML version of the official specification and hub for new proposals.
   * The [offical ISO 28500 WARC specification homepage](http://bibnum.bnf.fr/WARC/).
