@@ -3146,6 +3146,7 @@ _Full stack web frameworks._
 - [WebGo ![GitHub Repo Stars](https://img.shields.io/github/stars/naughtygopher/webgo) ![GitHub last commit](https://img.shields.io/github/last-commit/naughtygopher/webgo)](https://github.com/naughtygopher/webgo) - A micro-framework to build web apps with handler chaining, middleware, and context injection. With standard library-compliant HTTP handlers (i.e., `http.HandlerFunc`)..
 - [Xun ![GitHub Repo Stars](https://img.shields.io/github/stars/yaitoo/xun) ![GitHub last commit](https://img.shields.io/github/last-commit/yaitoo/xun)](https://github.com/yaitoo/xun) - Web framework built on Go's built-in html/template and net/http package’s router. It is designed to be lightweight, fast, and easy to use while providing a simple and intuitive API for building web applications with advanced features such as middleware, routing, and template rendering.
 - [Yokai ![GitHub Repo Stars](https://img.shields.io/github/stars/ankorstore/yokai) ![GitHub last commit](https://img.shields.io/github/last-commit/ankorstore/yokai)](https://github.com/ankorstore/yokai) - Simple, modular, and observable Go framework for backend applications.
+- [NotNet ![GitHub Repo Stars](https://img.shields.io/github/stars/nottechdm/notnet) ![GitHub last commit](https://img.shields.io/github/last-commit/nottechdm/notnet)](https://github.com/nottechdm/notnet) - A lightweight Go framework for building fast, ergonomic RESTful APIs with middleware and flexible routing.
 
 **[⬆ back to top](#contents)**
 
