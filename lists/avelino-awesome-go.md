@@ -1572,6 +1572,7 @@ _Libraries for scheduling jobs._
 - [scheduler ![GitHub Repo Stars](https://img.shields.io/github/stars/carlescere/scheduler) ![GitHub last commit](https://img.shields.io/github/last-commit/carlescere/scheduler)](https://github.com/carlescere/scheduler) - Cronjobs scheduling made easy.
 - [scheduler ![GitHub Repo Stars](https://img.shields.io/github/stars/yuseferi/scheduler) ![GitHub last commit](https://img.shields.io/github/last-commit/yuseferi/scheduler)](https://github.com/yuseferi/scheduler) - Go-native distributed job scheduler with delayed tasks, batched Redis coordination, retries, lease-based recovery, and versioned queue partitioning.
 - [tasks ![GitHub Repo Stars](https://img.shields.io/github/stars/madflojo/tasks) ![GitHub last commit](https://img.shields.io/github/last-commit/madflojo/tasks)](https://github.com/madflojo/tasks) - An easy to use in-process scheduler for recurring tasks in Go.
+- [tickstem/cron ![GitHub Repo Stars](https://img.shields.io/github/stars/tickstem/cron) ![GitHub last commit](https://img.shields.io/github/last-commit/tickstem/cron)](https://github.com/tickstem/cron) - Go client for scheduling HTTP cron jobs, with execution history, failure alerts, and tsk-local for testing handlers without live credentials.
 
 **[⬆ back to top](#contents)**
 
