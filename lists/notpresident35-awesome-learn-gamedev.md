@@ -820,7 +820,7 @@ Royalty free music! Don't forget to check the license.
 [Community Dev Newsletter and Blog](https://www.victoriatran.com) 💠🟪 - A blog and a newsletter by Victoria Tran with advice on community management, social media, and marketing. Past newsletters are archived here. I personally recommend "Failure Marketing" and "Charm your Communities" as starting points.
 
 
-[Blog by Derek Lieu](https://www.derek-lieu.com/blog/) ��� - A blog by Derek Lieu with advice on game trailers. I personally recommend "Show the Dream, Not the Job" and "Video Game Trailer Specifications" as starting points.
+[Blog by Derek Lieu](https://www.derek-lieu.com/blog/) 🟪 - A blog by Derek Lieu with advice on game trailers. I personally recommend "Show the Dream, Not the Job" and "Video Game Trailer Specifications" as starting points.
 
 
 [The Game Developer's Guide to Publishing Agreements](https://deviantlegal.com/guide/game-developers-guide-publishing-agreements/) 🟪 - An introduction to games contract law by René Otto, written primarily for developers seeking to work with publishers. 
@@ -869,7 +869,7 @@ Royalty free music! Don't forget to check the license.
 [The Reverse Interview ![GitHub Repo Stars](https://img.shields.io/github/stars/viraptor/reverse-interview) ![GitHub last commit](https://img.shields.io/github/last-commit/viraptor/reverse-interview)](https://github.com/viraptor/reverse-interview) - Another list for you to ask a potential employer (created for non-games tech, but most questions apply to games, and some apply to all disciplines).
 
 
-[Guide to Game Art Applications](https://www.artstation.com/blogs/kierangoodson/mY0N/guide-to-game-art-applications-portfolios-and-job-postings) 🟪 - A guide to game art portfolios and job hunting.
+[Guide to Game Art Applications](https://www.artstation.com/blogs/kierangoodson/mY0N/guide-to-game-art-applications-portfolios-and-job-postings) ��� - A guide to game art portfolios and job hunting.
 
 
 [The Bible of Getting a Job in Game Audio](https://docs.google.com/document/d/1sAd8xOdngsdLJqKfcOnyL8xRhPi3Uitys6fEXU9O2X0/edit) 🟪 - A massive collection of career resources for game audio.
