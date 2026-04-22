@@ -1432,6 +1432,7 @@ then it is not supported:
 
 ## Editing Support
 
+- [DrKJeff16/shebang.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/DrKJeff16/shebang.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/DrKJeff16/shebang.nvim)](https://github.com/DrKJeff16/shebang.nvim) - Add or modify a shebang on top of the current file.
 - [nxhung2304/lastplace.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/nxhung2304/lastplace.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/nxhung2304/lastplace.nvim)](https://github.com/nxhung2304/lastplace.nvim) - Intelligently restore your cursor position when reopening files.
 - [attilarepka/header.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/attilarepka/header.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/attilarepka/header.nvim)](https://github.com/attilarepka/header.nvim) - Add or update copyright and license headers in any source file.
 - [rlychrisg/truncateline.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/rlychrisg/truncateline.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/rlychrisg/truncateline.nvim)](https://github.com/rlychrisg/truncateline.nvim) - Truncate long lines to keep track of where you are when the start gets lost off the left side of the screen.
