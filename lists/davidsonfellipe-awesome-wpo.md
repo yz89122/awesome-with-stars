@@ -93,7 +93,7 @@ Here's a quick overview of the categories covered in this collection:
 
 ## Documentation
 
-- [PageSpeed Insights Rules](https://developers.google.com/speed/docs/insights/rules) - A guide created by PageSpeed Team.
+- [PageSpeed Insights Rules](https://developers.google.com/speed/docs/insights/v5/get-started) - A guide created by PageSpeed Team.
   Deprecated. This is deprecated and will be shut down in May 2019. Version 5 is the latest and provides both real-world data from the Chrome User Experience Report and lab data from Lighthouse.
 - [Best Practices for Speeding Up Your site](https://developer.yahoo.com/performance/rules.html) - The list includes 35 best practices divided into 7 categories, created by Yahoo! Exceptional Performance team.
 
@@ -105,7 +105,6 @@ Here's a quick overview of the categories covered in this collection:
 
 - [We Love Speed](https://www.welovespeed.com/2024/) - Born from the desire to share knowledge and experiences in web performance as widely as possible.
 - [PWA Summit](https://pwasummit.org/) - A free, online, single-track conference focused on helping everyone succeed with Progressive Web Apps.
-- [Velocity](http://conferences.oreilly.com/velocity) - At Velocity, web operations, performance, and DevOps professionals learn to build fast, resilient, and highly available sites and apps.
 - [performance.now()](https://perfnow.nl/) - The performance.now() conference will return to Amsterdam! We're a single-track conference with fourteen world-class speakers, covering today’s most important web performance insights.
 - [#PerfMatters](https://perfmattersconf.com/) - Conference is the ONLINE web performance conference by internationally renowned performance developers.
 
@@ -137,7 +136,6 @@ Here's a quick overview of the categories covered in this collection:
 - [Yellow Lab Tools](https://yellowlab.tools/) - Online quick and easy tool that audits frontend bad practices, reveals performance issues, and profiles JavaScript.
 - [Pagelocity](https://pagelocity.com/) - A web performance optimization and analysis tool.
 - [Speed Racer ![GitHub Repo Stars](https://img.shields.io/github/stars/speedracer/speedracer) ![GitHub last commit](https://img.shields.io/github/last-commit/speedracer/speedracer)](https://github.com/speedracer/speedracer) - Collect performance metrics for your library/application using Chrome headless.
-- [Speedrank](https://blog.speedrank.app/wir-sagen-goodbye/) - Monitors your site's performance in the background, displays Lighthouse reports over time, and delivers recommendations for improvement. Paid product with 14-day trial.
 - [Lightest App](https://lightest.app/) - Webpage load time is extremely important for conversion and revenue. Visualize web performance against competitors.
 - [Redirect Checker ![GitHub Repo Stars](https://img.shields.io/github/stars/brancogao/redirect-checker) ![GitHub last commit](https://img.shields.io/github/last-commit/brancogao/redirect-checker)](https://github.com/brancogao/redirect-checker) - Analyze HTTP redirect chains, detect loops, and measure performance impact on page load times.
 
@@ -255,7 +253,6 @@ Here's a quick overview of the categories covered in this collection:
 - [SvgToCSS ![GitHub Repo Stars](https://img.shields.io/github/stars/kajyr/SvgToCSS) ![GitHub last commit](https://img.shields.io/github/last-commit/kajyr/SvgToCSS)](https://github.com/kajyr/SvgToCSS) - Optimizes and renders SVG files in CSS / Sass sprites.
 - [Assetgraph-sprite ![GitHub Repo Stars](https://img.shields.io/github/stars/assetgraph/assetgraph-sprite) ![GitHub last commit](https://img.shields.io/github/last-commit/assetgraph/assetgraph-sprite)](https://github.com/assetgraph/assetgraph-sprite) - Assetgraph transform for auto-generating sprites based on the CSS dependency graph.
 - [Sprite Cow](http://www.spritecow.com/) - Get the background-position, width, and height of sprites within a spritesheet as copyable CSS.
-- [ZeroSprites](http://zerosprites.com/) - CSS sprite generator aimed at area minimization using algorithms from VLSI floorplanning.
 - [CSS Sprite Generator](https://css.spritegen.com/) - CSS sprites allow you to combine multiple images into a single file.
 - [Sprity ![GitHub Repo Stars](https://img.shields.io/github/stars/sprity/sprity) ![GitHub last commit](https://img.shields.io/github/last-commit/sprity/sprity)](https://github.com/sprity/sprity) - A modular image sprite generator with a lot of features: supports retina sprites, supports different output formats, generates sprites and proper style files out of a directory of images, etc...
 - [Sprite Factory ![GitHub Repo Stars](https://img.shields.io/github/stars/jakesgordon/sprite-factory) ![GitHub last commit](https://img.shields.io/github/last-commit/jakesgordon/sprite-factory)](https://github.com/jakesgordon/sprite-factory) - The sprite factory is a ruby library that can be used to generate CSS sprites. It combines individual image files from a directory into a single unified sprite image and creates an appropriate CSS style sheet for use in your web application.
@@ -271,7 +268,6 @@ Here's a quick overview of the categories covered in this collection:
 - [Imagemin ![GitHub Repo Stars](https://img.shields.io/github/stars/imagemin/imagemin) ![GitHub last commit](https://img.shields.io/github/last-commit/imagemin/imagemin)](https://github.com/imagemin/imagemin) - Minify images seamlessly with Node.js.
 - [Sharp ![GitHub Repo Stars](https://img.shields.io/github/stars/lovell/sharp) ![GitHub last commit](https://img.shields.io/github/last-commit/lovell/sharp)](https://github.com/lovell/sharp) - The typical use case for this high-speed Node.js module is to convert large images of many formats to smaller, web-friendly JPEG, PNG, and WebP images of varying dimensions.
 - [Gm ![GitHub Repo Stars](https://img.shields.io/github/stars/aheckmann/gm) ![GitHub last commit](https://img.shields.io/github/last-commit/aheckmann/gm)](https://github.com/aheckmann/gm) - GraphicsMagick and ImageMagick for Node.js.
-- [Exexif ![GitHub Repo Stars](https://img.shields.io/github/stars/h4cc/awesome-elixir) ![GitHub last commit](https://img.shields.io/github/last-commit/h4cc/awesome-elixir)](https://github.com/h4cc/awesome-elixir) - Pure elixir library to extract tiff and exif metadata from JPEG files.
 - [ExifCleaner](https://exifcleaner.com) - GUI app to remove EXIF metadata from images and video files with drag and drop. Free and open source.
 - [OptiPNG](https://optipng.sourceforge.net/) - PNG optimizer that recompresses image files to a smaller size without losing information.
 - [Grunt-contrib-imagemin ![GitHub Repo Stars](https://img.shields.io/github/stars/gruntjs/grunt-contrib-imagemin) ![GitHub last commit](https://img.shields.io/github/last-commit/gruntjs/grunt-contrib-imagemin)](https://github.com/gruntjs/grunt-contrib-imagemin) - Minify PNG and JPEG images for Grunt.
@@ -285,7 +281,6 @@ Here's a quick overview of the categories covered in this collection:
 - [Tinypng](https://tinypng.com/) - Advanced lossy compression for PNG images that preserves full alpha transparency.
 - [Kraken Web-interface](https://kraken.io/web-interface) - Optimize your images and will be available for download for 12 hours.
 - [Compressor](https://compressor.io/) - Online image compressor for JPG, PNG, SVG and GIF.
-- [Shrinkray](https://shrinkray.io) - One-click optimization for images in your GitHub repos.
 - [mozjpeg ![GitHub Repo Stars](https://img.shields.io/github/stars/mozilla/mozjpeg) ![GitHub last commit](https://img.shields.io/github/last-commit/mozilla/mozjpeg)](https://github.com/mozilla/mozjpeg) - Improved JPEG encoder.
 - [Jpegoptim ![GitHub Repo Stars](https://img.shields.io/github/stars/tjko/jpegoptim) ![GitHub last commit](https://img.shields.io/github/last-commit/tjko/jpegoptim)](https://github.com/tjko/jpegoptim) - Utility to optimize/compress JPEG files.
 - [ZopfliPNG ![GitHub Repo Stars](https://img.shields.io/github/stars/google/zopfli) ![GitHub last commit](https://img.shields.io/github/last-commit/google/zopfli)](https://github.com/google/zopfli) - A command-line program to optimize PNG images.
