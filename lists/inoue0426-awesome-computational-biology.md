@@ -58,6 +58,8 @@ Browse and search the resources via the [GitHub Pages UI](https://inoue0426.gith
         - [Spatial Foundation Models](#spatial-foundation-models)
         - [Multi-Omics Foundation Models](#multi-omics-foundation-models)
         - [Domain Alignment](#domain-alignment)
+      - [Compound Foundation Models](#compound-foundation-models)
+        - [Compound Embedding](#compound-embedding)
       - [Protein Foundation Models](#protein-foundation-models)
         - [Pre-trained Embedding](#pre-trained-embedding)
         - [Protein Structure Prediction and Design](#protein-structure-prediction-and-design)
@@ -232,7 +234,7 @@ Browse and search the resources via the [GitHub Pages UI](https://inoue0426.gith
 - [ProteinGym ![GitHub Repo Stars](https://img.shields.io/github/stars/OATML-Markslab/ProteinGym) ![GitHub last commit](https://img.shields.io/github/last-commit/OATML-Markslab/ProteinGym)](https://github.com/OATML-Markslab/ProteinGym) — Large-scale benchmark of deep mutational scanning assays for evaluating protein fitness landscape models.
 - [QM9](https://figshare.com/collections/Quantum_chemistry_structures_and_properties_of_134_kilo_molecules/978904) — Quantum chemistry properties for 134K stable small organic molecules computed at DFT level.
 - [scIB (Single-cell Integration Benchmarks) ![GitHub Repo Stars](https://img.shields.io/github/stars/theislab/scib) ![GitHub last commit](https://img.shields.io/github/last-commit/theislab/scib)](https://github.com/theislab/scib) — Comprehensive benchmarking framework for single-cell data integration methods.
-- [scPerturb ![GitHub Repo Stars](https://img.shields.io/github/stars/sanderlab/scPerturb) ![GitHub last commit](https://img.shields.io/github/last-commit/sanderlab/scPerturb)](https://github.com/sanderlab/scPerturb) — Curated and continuously updated single-cell perturbation data resource spanning CRISPR and drug perturbation studies.
+- [scPerturb ![GitHub Repo Stars](https://img.shields.io/github/stars/sanderlab/scPerturb) ![GitHub last commit](https://img.shields.io/github/last-commit/sanderlab/scPerturb)](https://github.com/sanderlab/scPerturb) �� Curated and continuously updated single-cell perturbation data resource spanning CRISPR and drug perturbation studies.
 - [SIDER (Side Effect Resource)](http://sideeffects.embl.de/) — Database of 1,430 approved drugs with their recorded adverse drug reactions across 27 system-organ classes.
 - [Tabula Muris](https://tabula-muris.ds.czbiohub.org/) — Comprehensive single-cell atlas of 20 mouse organs and tissues, enabling cross-tissue and cross-species comparisons.
 - [Tabula Sapiens](https://tabula-sapiens-portal.ds.czbiohub.org/) — Comprehensive human single-cell atlas of ~500K cells from 24 organs and tissues across multiple donors.
@@ -280,7 +282,7 @@ Browse and search the resources via the [GitHub Pages UI](https://inoue0426.gith
 - [Monocle3](https://cole-trapnell-lab.github.io/monocle3/) — Single-cell trajectory analysis tool for learning developmental trajectories and ordering cells in pseudotime.
 - [CellChat ![GitHub Repo Stars](https://img.shields.io/github/stars/sqjin/CellChat) ![GitHub last commit](https://img.shields.io/github/last-commit/sqjin/CellChat)](https://github.com/sqjin/CellChat) — Inference and analysis of cell-cell communication ligand-receptor networks from single-cell transcriptomics data.
 - [SCENIC ![GitHub Repo Stars](https://img.shields.io/github/stars/aertslab/SCENIC) ![GitHub last commit](https://img.shields.io/github/last-commit/aertslab/SCENIC)](https://github.com/aertslab/SCENIC) — Single-cell regulatory network inference and clustering linking transcription factors to co-expressed gene modules.
-- [DoubletFinder ![GitHub Repo Stars](https://img.shields.io/github/stars/chris-mcginnis-ucsf/DoubletFinder) ![GitHub last commit](https://img.shields.io/github/last-commit/chris-mcginnis-ucsf/DoubletFinder)](https://github.com/chris-mcginnis-ucsf/DoubletFinder) �� Machine learning approach for detecting multiplet (doublet) artifacts in single-cell RNA-seq data.
+- [DoubletFinder ![GitHub Repo Stars](https://img.shields.io/github/stars/chris-mcginnis-ucsf/DoubletFinder) ![GitHub last commit](https://img.shields.io/github/last-commit/chris-mcginnis-ucsf/DoubletFinder)](https://github.com/chris-mcginnis-ucsf/DoubletFinder) — Machine learning approach for detecting multiplet (doublet) artifacts in single-cell RNA-seq data.
 - [Numbat ![GitHub Repo Stars](https://img.shields.io/github/stars/kharchenkolab/numbat) ![GitHub last commit](https://img.shields.io/github/last-commit/kharchenkolab/numbat)](https://github.com/kharchenkolab/numbat) — Haplotype-aware copy number variation inference from single-cell RNA-seq using hidden Markov models.
 - [CaSpER ![GitHub Repo Stars](https://img.shields.io/github/stars/akdess/CaSpER) ![GitHub last commit](https://img.shields.io/github/last-commit/akdess/CaSpER)](https://github.com/akdess/CaSpER) — CNV identification and visualization by integrative analysis of single-cell or bulk RNA-seq data.
 - [CellCharter ![GitHub Repo Stars](https://img.shields.io/github/stars/CSOgroup/cellcharter) ![GitHub last commit](https://img.shields.io/github/last-commit/CSOgroup/cellcharter)](https://github.com/CSOgroup/cellcharter) — Identification and characterization of spatial cell niches from spatial transcriptomics using VAEs and Gaussian mixture models.
@@ -407,12 +409,21 @@ Browse and search the resources via the [GitHub Pages UI](https://inoue0426.gith
 - [scArches ![GitHub Repo Stars](https://img.shields.io/github/stars/theislab/scarches) ![GitHub last commit](https://img.shields.io/github/last-commit/theislab/scarches)](https://github.com/theislab/scarches) — Transfer learning framework for mapping new single-cell datasets onto pre-trained reference atlases across batches, conditions, and modalities.
 - [TOSICA ![GitHub Repo Stars](https://img.shields.io/github/stars/JackieHanlaopo/TOSICA) ![GitHub last commit](https://img.shields.io/github/last-commit/JackieHanlaopo/TOSICA)](https://github.com/JackieHanlaopo/TOSICA) — Transformer-based framework for one-stop interpretable cell-type annotation supporting cross-dataset and cross-species transfer.
 
+#### Compound Foundation Models
+
+##### Compound Embedding
+
+- [ChemBERTa-2 ![GitHub Repo Stars](https://img.shields.io/github/stars/seyonechithrananda/bert-loves-chemistry) ![GitHub last commit](https://img.shields.io/github/last-commit/seyonechithrananda/bert-loves-chemistry)](https://github.com/seyonechithrananda/bert-loves-chemistry) — RoBERTa-based molecular language model pretrained on SMILES for small-molecule representation learning.
+- [GROVER ![GitHub Repo Stars](https://img.shields.io/github/stars/tencent-ailab/grover) ![GitHub last commit](https://img.shields.io/github/last-commit/tencent-ailab/grover)](https://github.com/tencent-ailab/grover) — Self-supervised graph transformer for large-scale molecular representation learning from unlabeled compounds.
+- [Mol2Vec ![GitHub Repo Stars](https://img.shields.io/github/stars/samoturk/mol2vec) ![GitHub last commit](https://img.shields.io/github/last-commit/samoturk/mol2vec)](https://github.com/samoturk/mol2vec) — Unsupervised molecular embedding method inspired by Word2Vec for learning vector representations of chemical substructures.
+- [MolFormer ![GitHub Repo Stars](https://img.shields.io/github/stars/IBM/molformer) ![GitHub last commit](https://img.shields.io/github/last-commit/IBM/molformer)](https://github.com/IBM/molformer) — Linear attention transformer pretrained on millions of SMILES strings for efficient molecular embeddings.
+- [Uni-Mol ![GitHub Repo Stars](https://img.shields.io/github/stars/deepmodeling/Uni-Mol) ![GitHub last commit](https://img.shields.io/github/last-commit/deepmodeling/Uni-Mol)](https://github.com/deepmodeling/Uni-Mol) — 3D molecular pretraining framework for universal representation learning on molecules and protein pockets.
+
 #### Protein Foundation Models
 
 ##### Pre-trained Embedding
 
 - [Evolutionary Scale Modeling (ESM) ![GitHub Repo Stars](https://img.shields.io/github/stars/facebookresearch/esm) ![GitHub last commit](https://img.shields.io/github/last-commit/facebookresearch/esm)](https://github.com/facebookresearch/esm) — Protein embeddings.
-- [ChemBERTa-2 ![GitHub Repo Stars](https://img.shields.io/github/stars/seyonechithrananda/bert-loves-chemistry) ![GitHub last commit](https://img.shields.io/github/last-commit/seyonechithrananda/bert-loves-chemistry)](https://github.com/seyonechithrananda/bert-loves-chemistry) — Chemical embeddings & prediction.
 - [ProtTrans ![GitHub Repo Stars](https://img.shields.io/github/stars/agemagician/ProtTrans) ![GitHub last commit](https://img.shields.io/github/last-commit/agemagician/ProtTrans)](https://github.com/agemagician/ProtTrans) — Suite of protein language models (ProtBERT, ProtT5, ProtXLNet) trained on billions of protein sequences from UniRef and BFD.
 - [ProGen2 ![GitHub Repo Stars](https://img.shields.io/github/stars/salesforce/progen) ![GitHub last commit](https://img.shields.io/github/last-commit/salesforce/progen)](https://github.com/salesforce/progen) — Protein language model trained on diverse protein families for sequence generation and fitness prediction.
 - [Ankh ![GitHub Repo Stars](https://img.shields.io/github/stars/agemagician/Ankh) ![GitHub last commit](https://img.shields.io/github/last-commit/agemagician/Ankh)](https://github.com/agemagician/Ankh) — Efficient protein language model optimized for downstream prediction tasks including secondary structure, localization, and function annotation.
@@ -459,7 +470,6 @@ Browse and search the resources via the [GitHub Pages UI](https://inoue0426.gith
 - [GPN (Genomic Pre-trained Network) ![GitHub Repo Stars](https://img.shields.io/github/stars/songlab-cal/gpn) ![GitHub last commit](https://img.shields.io/github/last-commit/songlab-cal/gpn)](https://github.com/songlab-cal/gpn) — Masked language model for DNA sequences enabling zero-shot variant effect prediction without requiring functional annotations.
 
 ---
-
 
 ## Citation
 
