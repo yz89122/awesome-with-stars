@@ -22,7 +22,7 @@
 
 > A curated list of awesome Magento 2 Extensions & Resources.
 
-> Tracking **221** projects · **44** actively maintained · **6** 🔥 hot · **42** 🪦 on the graveyard shelf.
+> Tracking **222** projects · **44** actively maintained · **6** 🔥 hot · **42** 🪦 on the graveyard shelf.
 
 - [What is an awesome list? ![GitHub Repo Stars](https://img.shields.io/github/stars/sindresorhus/awesome) ![GitHub last commit](https://img.shields.io/github/last-commit/sindresorhus/awesome)](https://github.com/sindresorhus/awesome/blob/master/awesome.md)
 - [Contribution guide](contributing.md) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/DavidLambauer/awesome-magento2/issues)
@@ -237,6 +237,7 @@ The storefront of Magento 2 can be styled in numerous ways:
 - [Magento 2 Blog Extension by Magefan ![GitHub Repo Stars](https://img.shields.io/github/stars/magefan/module-blog) ![GitHub last commit](https://img.shields.io/github/last-commit/magefan/module-blog)](https://github.com/magefan/module-blog) 🫡 - Free Blog module for Magento 2 with unlimited blog posts and categories, SEO friendly, lazy load and AMP support.
 - [Mageplaza Blog Extension ![GitHub Repo Stars](https://img.shields.io/github/stars/mageplaza/magento-2-blog-extension) ![GitHub last commit](https://img.shields.io/github/last-commit/mageplaza/magento-2-blog-extension)](https://github.com/mageplaza/magento-2-blog-extension) 🫡 - Simple but well-working Blog Extension.
 - [Opengento GDPR ![GitHub Repo Stars](https://img.shields.io/github/stars/opengento/magento2-gdpr) ![GitHub last commit](https://img.shields.io/github/last-commit/opengento/magento2-gdpr)](https://github.com/opengento/magento2-gdpr) - Magento 2 GDPR module to help be GDPR compliant.
+- [hyva-ai-tools ![GitHub Repo Stars](https://img.shields.io/github/stars/hyva-themes/hyva-ai-tools) ![GitHub last commit](https://img.shields.io/github/last-commit/hyva-themes/hyva-ai-tools)](https://github.com/hyva-themes/hyva-ai-tools) - AI-powered skills for Magento 2 development with Hyva Theme. These skills extend AI coding assistants with specialized knowledge for creating Hyva themes, modules, and CMS components.
 - [module-page-builder-widget ![GitHub Repo Stars](https://img.shields.io/github/stars/mage-os/module-page-builder-widget) ![GitHub last commit](https://img.shields.io/github/last-commit/mage-os/module-page-builder-widget)](https://github.com/mage-os/module-page-builder-widget) - Native Magento Page Builder support for CMS Widgets
 
 ### Marketing
