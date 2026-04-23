@@ -646,7 +646,7 @@ _Language specific game engine development libraries / frameworks / code._
 - F#: Game Engine w/Editor
     - 🎉 [Nu Game Engine ![GitHub Repo Stars](https://img.shields.io/github/stars/bryanedds/Nu) ![GitHub last commit](https://img.shields.io/github/last-commit/bryanedds/Nu)](https://github.com/bryanedds/Nu) - Cross-platform game engine built in the functional style.
 - F#: Gui
-    - ��� [Fabulous ![GitHub Repo Stars](https://img.shields.io/github/stars/fabulous-dev/Fabulous) ![GitHub last commit](https://img.shields.io/github/last-commit/fabulous-dev/Fabulous)](https://github.com/fabulous-dev/Fabulous) - Declarative UI framework for cross-platform apps.
+    - 🎉 [Fabulous ![GitHub Repo Stars](https://img.shields.io/github/stars/fabulous-dev/Fabulous) ![GitHub last commit](https://img.shields.io/github/last-commit/fabulous-dev/Fabulous)](https://github.com/fabulous-dev/Fabulous) - Declarative UI framework for cross-platform apps.
 
 ### Go
 - 📚 [Awesome Go ![GitHub Repo Stars](https://img.shields.io/github/stars/avelino/awesome-go) ![GitHub last commit](https://img.shields.io/github/last-commit/avelino/awesome-go)](https://github.com/avelino/awesome-go) - Awesome Go frameworks, libraries and software.

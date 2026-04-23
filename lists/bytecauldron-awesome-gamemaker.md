@@ -176,6 +176,7 @@ Things that work with project files or GameMaker itself rather than being someth
 - [Win7 patcher for GM2024.11+](https://yellowafterlife.itch.io/gm2024-win7-patcher) - Makes games made in new GM versions run on Windows 7.
 - [RerouteAudio](https://yellowafterlife.itch.io/gamemaker-reroute-audio) - Organizes audio files compiled games into subdirectories. 💸
 - [GMLC ![GitHub Repo Stars](https://img.shields.io/github/stars/tinkerer-red/GMLC) ![GitHub last commit](https://img.shields.io/github/last-commit/tinkerer-red/GMLC)](https://github.com/tinkerer-red/GMLC) - Runtime compiler and interpreter to load, compile, and execute GML code at runtime.
+- [GMLVM ![GitHub Repo Stars](https://img.shields.io/github/stars/erkan612/GMLVM) ![GitHub last commit](https://img.shields.io/github/last-commit/erkan612/GMLVM)](https://github.com/erkan612/GMLVM) - An easy to use complete GML interpreter to execute GML at runtime.
 
 ## Debugging
 
