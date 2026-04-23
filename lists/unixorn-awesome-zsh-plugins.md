@@ -32,6 +32,7 @@ A collection of ZSH frameworks, plugins, tutorials & themes inspired by the vari
   - [dotzsh](#dotzsh)
   - [fresh](#fresh)
   - [gh-source](#gh-source)
+  - [lazy.zsh](#lazyzsh)
   - [miniplug](#miniplug)
   - [oh-my-zsh](#oh-my-zsh)
   - [PMS](#pms)
@@ -231,6 +232,11 @@ A minimalist ZSH plugin manager.
 ![GitHub last commit](https://img.shields.io/github/last-commit/Yarden-zamir/gh-source) ![GitHub Repo stars](https://img.shields.io/github/stars/Yarden-zamir/gh-source)
 
 **gh-source** is a plugin manager for people who don't like plugin managers. It's a simple shell function that downloads and installs plugins from GitHub as part of the sourcing step. It's designed to be used with `zsh`, but it should work with any shell.
+
+### [lazy.zsh ![GitHub Repo Stars](https://img.shields.io/github/stars/stanleyndachi/lazy.zsh) ![GitHub last commit](https://img.shields.io/github/last-commit/stanleyndachi/lazy.zsh)](https://github.com/stanleyndachi/lazy.zsh)
+![GitHub last commit](https://img.shields.io/github/last-commit/stanleyndachi/lazy.zsh) ![GitHub Repo stars](https://img.shields.io/github/stars/stanleyndachi/lazy.zsh)
+
+With **lazy.zsh**, your `.zshrc` is the single source of truth. Reproduce the same ZSH setup anywhere using the same config; no frameworks, no auto-sourcing, no hidden behavior. **lazy.zsh** installs, updates, and tracks plugins, while you control exactly how and when they are loaded.
 
 ### [miniplug](https://sr.ht/~yerinalexey/miniplug)
 ![GitHub last commit](https://img.shields.io/github/last-commit/yerinalexey/miniplug) ![GitHub Repo stars](https://img.shields.io/github/stars/yerinalexey/miniplug)
@@ -1456,6 +1462,7 @@ If you're looking for a new font to use, check out [www.codingfont.com](https://
 - [passwordless-history ![GitHub Repo Stars](https://img.shields.io/github/stars/jgogstad/passwordless-history) ![GitHub last commit](https://img.shields.io/github/last-commit/jgogstad/passwordless-history)](https://github.com/jgogstad/passwordless-history) - Keeps passwords from entering your command line history.
 - [paste-guard ![GitHub Repo Stars](https://img.shields.io/github/stars/stefanoamorelli/zsh-paste-guard) ![GitHub last commit](https://img.shields.io/github/last-commit/stefanoamorelli/zsh-paste-guard)](https://github.com/stefanoamorelli/zsh-paste-guard) - Detects pasted commands and requires a confirmation phrase before execution to prevent clipboard injection attacks (MITRE ATT&CK T1204.004). Reads confirmation from `/dev/tty` so attackers cannot embed the confirmation in the payload.
 - [path-ethic ![GitHub Repo Stars](https://img.shields.io/github/stars/sha1n/path-ethic) ![GitHub last commit](https://img.shields.io/github/last-commit/sha1n/path-ethic)](https://github.com/sha1n/path-ethic) - Helps manage your `$PATH` quickly and easily. Doesn't touch your existing `.zshrc`, `.zprofile`, but adds on top of your existing environment instead.
+- [patina ![GitHub Repo Stars](https://img.shields.io/github/stars/michel-kraemer/zsh-patina) ![GitHub last commit](https://img.shields.io/github/last-commit/michel-kraemer/zsh-patina)](https://github.com/michel-kraemer/zsh-patina) - A blazingly fast ZSH syntax highlighter written in Rust.
 - [pctl ![GitHub Repo Stars](https://img.shields.io/github/stars/ytet5uy4/pctl) ![GitHub last commit](https://img.shields.io/github/last-commit/ytet5uy4/pctl)](https://github.com/ytet5uy4/pctl) - Toggle the environment variables for proxying.
 - [peco-history ![GitHub Repo Stars](https://img.shields.io/github/stars/jimeh/zsh-peco-history) ![GitHub last commit](https://img.shields.io/github/last-commit/jimeh/zsh-peco-history)](https://github.com/jimeh/zsh-peco-history) - Search shell history with Peco when pressing `ctrl+R`.
 - [penmux ![GitHub Repo Stars](https://img.shields.io/github/stars/mfulz/zsh-penmux) ![GitHub last commit](https://img.shields.io/github/last-commit/mfulz/zsh-penmux)](https://github.com/mfulz/zsh-penmux) - A session manager plugin meant to be used for penetration testing sessions and tracking the terminal sessions to be used in reports.
