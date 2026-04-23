@@ -23,6 +23,7 @@ Welcome to the curated list of Web Performance Optimization resources. This repo
 
 Here's a quick overview of the categories covered in this collection:
 
+- [Agent Skills](#agent-skills)
 - [Analyzers](README.md#analyzers)
 - [Analyzers API](README.md#analyzers---api)
 - [Application Performance Monitoring](#application-performance-monitoring)
@@ -53,6 +54,16 @@ Here's a quick overview of the categories covered in this collection:
 - [Stats](#stats)
 - [Other Awesome Lists](#other-awesome-lists)
 - [Contributing](#contributing)
+
+## Agent Skills
+
+> Agent skills for web quality audits and optimization workflows.
+
+- [web-quality-audit ![GitHub Repo Stars](https://img.shields.io/github/stars/addyosmani/web-quality-skills) ![GitHub last commit](https://img.shields.io/github/last-commit/addyosmani/web-quality-skills)](https://github.com/addyosmani/web-quality-skills#web-quality-audit) - Comprehensive quality review across all categories.
+- [core-web-vitals ![GitHub Repo Stars](https://img.shields.io/github/stars/addyosmani/web-quality-skills) ![GitHub last commit](https://img.shields.io/github/last-commit/addyosmani/web-quality-skills)](https://github.com/addyosmani/web-quality-skills#core-web-vitals) - LCP, INP, and CLS specific optimizations.
+- [accessibility ![GitHub Repo Stars](https://img.shields.io/github/stars/addyosmani/web-quality-skills) ![GitHub last commit](https://img.shields.io/github/last-commit/addyosmani/web-quality-skills)](https://github.com/addyosmani/web-quality-skills#accessibility) - WCAG compliance, screen reader support, and keyboard navigation.
+- [performance ![GitHub Repo Stars](https://img.shields.io/github/stars/addyosmani/web-quality-skills) ![GitHub last commit](https://img.shields.io/github/last-commit/addyosmani/web-quality-skills)](https://github.com/addyosmani/web-quality-skills#performance) - Loading speed, runtime efficiency, and resource optimization.
+- [best-practices ![GitHub Repo Stars](https://img.shields.io/github/stars/addyosmani/web-quality-skills) ![GitHub last commit](https://img.shields.io/github/last-commit/addyosmani/web-quality-skills)](https://github.com/addyosmani/web-quality-skills#best-practices) - Security, modern APIs, and code quality patterns.
 
 ## Articles
 
@@ -85,6 +96,7 @@ Here's a quick overview of the categories covered in this collection:
 - [Web Components in Action](https://www.manning.com/books/web-components-in-action) - Ben Farrell.
 - [Image Optimization](https://www.smashingmagazine.com/printed-books/image-optimization/) - Addy Osmani.
 - [Performance Engineering in Practice](https://www.manning.com/books/performance-engineering-in-practice) - Den Odell.
+- [Web Performance Engineering in the Age of AI](https://www.oreilly.com/library/view/web-performance-engineering/9798341660182/) - Addy Osmani.
 
 ## Case studies
 
@@ -96,6 +108,14 @@ Here's a quick overview of the categories covered in this collection:
 - [PageSpeed Insights Rules](https://developers.google.com/speed/docs/insights/v5/get-started) - A guide created by PageSpeed Team.
   Deprecated. This is deprecated and will be shut down in May 2019. Version 5 is the latest and provides both real-world data from the Chrome User Experience Report and lab data from Lighthouse.
 - [Best Practices for Speeding Up Your site](https://developer.yahoo.com/performance/rules.html) - The list includes 35 best practices divided into 7 categories, created by Yahoo! Exceptional Performance team.
+- [Chrome Developers: Performance](https://developer.chrome.com/docs/performance/) - Deep guides on rendering, loading, and runtime performance.
+- [Lighthouse Docs](https://developer.chrome.com/docs/lighthouse/) - Audit methodology, scoring details, and usage guidance.
+- [Navigation Timing API (MDN)](https://developer.mozilla.org/en-US/docs/Web/API/Navigation_timing_API) - Page navigation and load milestone metrics.
+- [Resource Timing API (MDN)](https://developer.mozilla.org/en-US/docs/Web/API/Resource_Timing_API) - Detailed network timing for assets.
+- [Long Tasks API (MDN)](https://developer.mozilla.org/en-US/docs/Web/API/Long_Tasks_API) - Detect main-thread blocking work.
+- [Paint Timing API (MDN)](https://developer.mozilla.org/en-US/docs/Web/API/Paint_Timing_API) - First paint and first contentful paint signals.
+- [Largest Contentful Paint API (MDN)](https://developer.mozilla.org/en-US/docs/Web/API/LargestContentfulPaint) - Programmatic access to LCP entries.
+- [Layout Instability API (MDN)](https://developer.mozilla.org/en-US/docs/Web/API/LayoutShift) - Measure and inspect layout shifts (CLS).
 
 ## Events
 
@@ -121,15 +141,13 @@ Here's a quick overview of the categories covered in this collection:
 ## Analyzers
 
 - [Web.dev](https://web.dev/) - Get the web's modern capabilities on your own sites and apps with useful guidance and analysis from web.dev.
+- [PageSpeed Insights](https://pagespeed.web.dev/) - Lab and field CWV diagnostics for any URL.
 - [PageGym](https://pagegym.com) - Advanced page speed analysis and optimization tool for experienced users and technical SEO professionals.
-- [Confess ![GitHub Repo Stars](https://img.shields.io/github/stars/jamesgpearce/confess) ![GitHub last commit](https://img.shields.io/github/last-commit/jamesgpearce/confess)](https://github.com/jamesgpearce/confess) - Uses PhantomJS to headlessly analyze web pages and generate manifests.
 - [DebugBear](https://www.debugbear.com/) - Site monitoring based on Lighthouse. See how your scores and metrics changed over time, with a focus on understanding what caused each change. Paid product with a free 30-day trial.
 - [Page Speed](https://developers.google.com/speed) - The PageSpeed family of tools is designed to help you optimize the performance of your site. PageSpeed Insights products will help you identify performance best practices that can be applied to your site, and PageSpeed optimization tools can help you automate the process.
 - [Screpy](https://screpy.com) - AI-Based SEO Analysis & Monitoring Tool.
 - [YSlow ![GitHub Repo Stars](https://img.shields.io/github/stars/marcelduran/yslow) ![GitHub last commit](https://img.shields.io/github/last-commit/marcelduran/yslow)](https://github.com/marcelduran/yslow) - Analyzes web pages and suggests ways to improve their performance based on a set of rules for high-performance web pages.
-- [YSlow for PhantomJS](https://yslow.org/phantomjs/) - PhantomJS build that adds new output formats for automated test frameworks: TAP (Test Anything Protocol) and JUnit.
 - [Grunt-WebPageTest ![GitHub Repo Stars](https://img.shields.io/github/stars/sideroad/grunt-wpt) ![GitHub last commit](https://img.shields.io/github/last-commit/sideroad/grunt-wpt)](https://github.com/sideroad/grunt-wpt) - Grunt plugin for continuous measurement of WebPageTest. ([Demo](http://sideroad.github.io/sample-wpt-page/))
-- [Grunt-yslow ![GitHub Repo Stars](https://img.shields.io/github/stars/andyshora/grunt-yslow) ![GitHub last commit](https://img.shields.io/github/last-commit/andyshora/grunt-yslow)](https://github.com/andyshora/grunt-yslow) - Grunt task for testing page performance using PhantomJS, a headless WebKit browser.
 - [Grunt-perfbudget ![GitHub Repo Stars](https://img.shields.io/github/stars/tkadlec/grunt-perfbudget) ![GitHub last commit](https://img.shields.io/github/last-commit/tkadlec/grunt-perfbudget)](https://github.com/tkadlec/grunt-perfbudget) - A Grunt.js task for enforcing a performance budget ([more on performance budgets](https://timkadlec.com/2013/01/setting-a-performance-budget/)).
 - [Web Tracing Framework ![GitHub Repo Stars](https://img.shields.io/github/stars/google/tracing-framework) ![GitHub last commit](https://img.shields.io/github/last-commit/google/tracing-framework)](https://github.com/google/tracing-framework) - Libraries, tools, and visualizers for tracing and investigating complex web applications.
 - [Yandex.Tank ![GitHub Repo Stars](https://img.shields.io/github/stars/yandex/yandex-tank) ![GitHub last commit](https://img.shields.io/github/last-commit/yandex/yandex-tank)](https://github.com/yandex/yandex-tank) - An extensible open-source load testing tool for advanced Linux users which is especially good as a part of an automated load testing suite.
@@ -138,6 +156,9 @@ Here's a quick overview of the categories covered in this collection:
 - [Speed Racer ![GitHub Repo Stars](https://img.shields.io/github/stars/speedracer/speedracer) ![GitHub last commit](https://img.shields.io/github/last-commit/speedracer/speedracer)](https://github.com/speedracer/speedracer) - Collect performance metrics for your library/application using Chrome headless.
 - [Lightest App](https://lightest.app/) - Webpage load time is extremely important for conversion and revenue. Visualize web performance against competitors.
 - [Redirect Checker ![GitHub Repo Stars](https://img.shields.io/github/stars/brancogao/redirect-checker) ![GitHub last commit](https://img.shields.io/github/last-commit/brancogao/redirect-checker)](https://github.com/brancogao/redirect-checker) - Analyze HTTP redirect chains, detect loops, and measure performance impact on page load times.
+- [Third Party Analysis Tool](https://tools.paulcalvano.com/wpt-third-party-analysis/) - Analyze third-party request risk, render-blocking impact, and potential single points of failure from WebPageTest runs.
+- [Web Font Analyzer](https://tools.paulcalvano.com/wpt-font-analysis/) - Inspect font loading timing, payload, and glyph usage using WebPageTest data.
+- [Webfont Usage Analyzer ![GitHub Repo Stars](https://img.shields.io/github/stars/paulcalvano/webfont-usage-analyzer) ![GitHub last commit](https://img.shields.io/github/last-commit/paulcalvano/webfont-usage-analyzer)](https://github.com/paulcalvano/webfont-usage-analyzer) - Bookmarklet script to map loaded web fonts to visible DOM usage and help spot font optimization opportunities.
 
 ## Analyzers - API
 
@@ -158,7 +179,7 @@ Here's a quick overview of the categories covered in this collection:
 - [Atatus](https://www.atatus.com/) - Full-stack observability including RUM, APM, synthetic uptime, session replay, and OpenTelemetry.
 - [Datadog Real User Monitoring](https://www.datadoghq.com/product/real-user-monitoring/) - Browser and mobile RUM with session replay, Core Web Vitals, and correlation with traces and logs.
 - [New Relic Browser Monitoring](https://newrelic.com/platform/browser-monitoring) - Real-user browser monitoring with Core Web Vitals, distributed tracing to backend, and deployment markers.
-- [SpeedCurve](https://www.speedcurve.com/) - Web performance monitoring combining synthetic testing, RUM, Lighthouse, Core Web Vitals, performance budgets, and competitive benchmarking.
+- [SpeedCurve](https://www.speedcurve.com/features/performance-monitoring/) - Web performance monitoring combining synthetic testing, RUM, Lighthouse, Core Web Vitals, performance budgets, and competitive benchmarking.
 - [Boomerang (Open Source)](https://akamai.github.io/boomerang/oss/) - Documentation for the Open Source version of Boomerang, which is maintained by Akamai employees with contributions from the OSS community.
 - [Akamai mPulse Boomerang](https://techdocs.akamai.com/mpulse-boomerang/docs/welcome-to-mpulse-boomerang) - Documentation for the Akamai mPulse version of Boomerang, which includes additions specific to interacting with mPulse.
 
@@ -275,6 +296,7 @@ Here's a quick overview of the categories covered in this collection:
 - [Grunt-WebP ![GitHub Repo Stars](https://img.shields.io/github/stars/somerandomdude/grunt-webp) ![GitHub last commit](https://img.shields.io/github/last-commit/somerandomdude/grunt-webp)](https://github.com/somerandomdude/grunt-webp) - Convert your images to WebP format.
 - [Gulp-WebP ![GitHub Repo Stars](https://img.shields.io/github/stars/sindresorhus/gulp-webp) ![GitHub last commit](https://img.shields.io/github/last-commit/sindresorhus/gulp-webp)](https://github.com/sindresorhus/gulp-webp) - Convert images to WebP for Gulp.
 - [Imageoptim](https://imageoptim.com/mac) - Free app that makes images take up less disk space and load faster, without sacrificing quality. It optimizes compression parameters, and removes junk metadata and unnecessary color profiles.
+- [Imager ![GitHub Repo Stars](https://img.shields.io/github/stars/imager-io/imager) ![GitHub last commit](https://img.shields.io/github/last-commit/imager-io/imager)](http://github.com/imager-io/imager) - Automated image compression for efficiently distributing images on the web.
 - [Grunt-imageoptim ![GitHub Repo Stars](https://img.shields.io/github/stars/JamieMason/grunt-imageoptim) ![GitHub last commit](https://img.shields.io/github/last-commit/JamieMason/grunt-imageoptim)](https://github.com/JamieMason/grunt-imageoptim) - Make ImageOptim, ImageAlpha, and JPEGmini part of your automated build process.
 - [ImageOptim-CLI ![GitHub Repo Stars](https://img.shields.io/github/stars/JamieMason/ImageOptim-CLI) ![GitHub last commit](https://img.shields.io/github/last-commit/JamieMason/ImageOptim-CLI)](https://github.com/JamieMason/ImageOptim-CLI) - Automates ImageOptim, ImageAlpha, and JPEGmini for Mac to make batch optimization of images part of your automated build process.
 - [Tapnesh-CLI ![GitHub Repo Stars](https://img.shields.io/github/stars/JafarAkhondali/Tapnesh) ![GitHub last commit](https://img.shields.io/github/last-commit/JafarAkhondali/Tapnesh)](https://github.com/JafarAkhondali/Tapnesh) - Tapnesh is a CLI tool that will optimize all your images in parallel easily and efficiently!
@@ -296,6 +318,7 @@ Here's a quick overview of the categories covered in this collection:
 
 - [lazyload ![GitHub Repo Stars](https://img.shields.io/github/stars/vvo/lazyload) ![GitHub last commit](https://img.shields.io/github/last-commit/vvo/lazyload)](https://github.com/vvo/lazyload) - Defer images, iframes, and widgets with a standalone JavaScript lazyloader (~1kb).
 - [lozad.js ![GitHub Repo Stars](https://img.shields.io/github/stars/ApoorvSaxena/lozad.js) ![GitHub last commit](https://img.shields.io/github/last-commit/ApoorvSaxena/lozad.js)](https://github.com/ApoorvSaxena/lozad.js) - Highly performant, light ~0.9kb, and configurable lazy loader in pure JS with no dependencies for responsive images, iframes, and more.
+- [quicklink ![GitHub Repo Stars](https://img.shields.io/github/stars/GoogleChromeLabs/quicklink) ![GitHub last commit](https://img.shields.io/github/last-commit/GoogleChromeLabs/quicklink)](https://github.com/GoogleChromeLabs/quicklink) - Prefetch links in the viewport (via Intersection Observer) to make future navigations faster.
 
 ## Loaders
 
@@ -304,7 +327,9 @@ Here's a quick overview of the categories covered in this collection:
 - [Labjs ![GitHub Repo Stars](https://img.shields.io/github/stars/getify/LABjs) ![GitHub last commit](https://img.shields.io/github/last-commit/getify/LABjs)](https://github.com/getify/LABjs) - An open-source (MIT license) project supported by Getify Solutions. The core purpose of LABjs is to be an all-purpose, on-demand JavaScript loader, capable of loading any JavaScript resource, from any location, into any page, at any time.
 - [Defer.js ![GitHub Repo Stars](https://img.shields.io/github/stars/wessman/defer.js) ![GitHub last commit](https://img.shields.io/github/last-commit/wessman/defer.js)](https://github.com/wessman/defer.js) - Async Everything: Make the meat of your pages load faster with this JS morsel.
 - [InstantClick ![GitHub Repo Stars](https://img.shields.io/github/stars/dieulot/instantclick) ![GitHub last commit](https://img.shields.io/github/last-commit/dieulot/instantclick)](https://github.com/dieulot/instantclick) - Preloads pages on hover so in-site links feel instant.
+- [prerender.js ![GitHub Repo Stars](https://img.shields.io/github/stars/genderev/prerender.js) ![GitHub last commit](https://img.shields.io/github/last-commit/genderev/prerender.js)](https://github.com/genderev/prerender.js) - Preloads pages and assets ahead of navigation for faster page transitions.
 - [JIT ![GitHub Repo Stars](https://img.shields.io/github/stars/shootaroo/jit-grunt) ![GitHub last commit](https://img.shields.io/github/last-commit/shootaroo/jit-grunt)](https://github.com/shootaroo/jit-grunt) - A JIT (Just In Time) plugin loader for Grunt. The load time of Grunt does not slow down even if there are many plugins.
+- [Guess.js ![GitHub Repo Stars](https://img.shields.io/github/stars/guess-js/guess) ![GitHub last commit](https://img.shields.io/github/last-commit/guess-js/guess)](https://github.com/guess-js/guess) - Predictive prefetching and performance optimization using analytics and machine learning.
 
 ## Metrics Monitor
 
@@ -316,11 +341,13 @@ Here's a quick overview of the categories covered in this collection:
 - [Pingdom site Speed Test](https://tools.pingdom.com/) - Test the load time of that page, analyze it, and find bottlenecks.
 - [Dotcom-tools](https://www.dotcom-tools.com/website-speed-test) - Analyze your website's speed in real browsers from 20 locations worldwide.
 - [WebPageTest](https://www.catchpoint.com/webpagetest) - Run a free site speed test from multiple locations around the globe using real browsers (IE and Chrome) and at real consumer connection speeds. You can run simple tests or perform advanced testing including multi-step transactions, video capture, content blocking and much more. Your results will provide rich diagnostic information including resource-loading waterfall charts, Page Speed optimization checks and suggestions for improvements.
-- [Sitespeed.io](https://www.sitespeed.io/documentation/) - Open-source tool that checks your site against web performance best practices and uses the Navigation Timing API to collect metrics. Outputs XML and HTML reports.
+- [Sitespeed.io](https://www.sitespeed.io/) - Open-source tool that checks your site against web performance best practices and uses the Navigation Timing API to collect metrics. Outputs XML and HTML reports.
 - [Grunt-phantomas ![GitHub Repo Stars](https://img.shields.io/github/stars/stefanjudis/grunt-phantomas) ![GitHub last commit](https://img.shields.io/github/last-commit/stefanjudis/grunt-phantomas)](https://github.com/stefanjudis/grunt-phantomas) - Grunt plugin wrapping phantomas to measure frontend performance.
 - [Perfjankie](https://www.npmjs.com/package/perfjankie) - Runtime Browser Performance regression suite ([Demo ![GitHub Repo Stars](https://img.shields.io/github/stars/asciidisco/perfjankie-test) ![GitHub last commit](https://img.shields.io/github/last-commit/asciidisco/perfjankie-test)](https://github.com/asciidisco/perfjankie-test)).
 - [BrowserView Monitoring](https://www.dotcom-monitor.com/products/web-page-monitoring/) - Continually checks web page load times in Internet Explorer, Chrome and Firefox from multiple points around the world.
 - [DareBoost](https://www.dareboost.com/en) - Real Browser Monitoring. Offers complete reports about web performance and quality using YSlow, Page Speed and numerous custom tips.
+- [Perfume.js ![GitHub Repo Stars](https://img.shields.io/github/stars/Zizzamia/perfume.js) ![GitHub last commit](https://img.shields.io/github/last-commit/Zizzamia/perfume.js)](https://github.com/Zizzamia/perfume.js) - Tiny library to collect Core Web Vitals and other performance metrics from real users.
+- [puppeteer-webperf ![GitHub Repo Stars](https://img.shields.io/github/stars/addyosmani/puppeteer-webperf) ![GitHub last commit](https://img.shields.io/github/last-commit/addyosmani/puppeteer-webperf)](https://github.com/addyosmani/puppeteer-webperf) - Collect web performance metrics in Puppeteer scripts.
 
 ## Metrics Monitor - API
 
@@ -420,10 +447,12 @@ Here's a quick overview of the categories covered in this collection:
 - [Performance Timeline](https://www.w3.org/TR/performance-timeline/) - This specification defines a unified interface to store and retrieve performance metric data. This specification does not cover individual performance metric interfaces.
 - [CSS will-change](https://drafts.csswg.org/css-will-change/) - This specification defines the `will-change` CSS property which allows an author to declare ahead-of-time what properties are likely to change in the future, so the UA can set up the appropriate optimizations some time before they’re needed. This way, when the actual change happens, the page updates in a snappy manner.
 - [Resource Hints](http://www.w3.org/TR/resource-hints/) - This specification defines the dns-prefetch, preconnect, prefetch, and prerender relationships of the HTML Link Element (&lt;link&gt;). These primitives enable the developer, and the server generating or delivering the resources, to assist the user agent in the decision process of which origins it should connect to, and which resources it should fetch and preprocess to improve page performance.
+- [RFC 9218: HTTP Prioritization](https://www.rfc-editor.org/rfc/rfc9218.html) - Protocol-level prioritization mechanisms for HTTP.
 
 ## Stats
 
 - [HTTP Archive](https://httparchive.org/) - It's a permanent repository of web performance information such as size of pages, failed requests, and technologies utilized. This performance information allows us to see trends in how the Web is built and provides a common data set from which to conduct web performance research.
+- [Chrome User Experience Report (CrUX)](https://developer.chrome.com/docs/crux/) - Origin-level real-user performance data from Chrome users.
 
 ## Other Awesome Lists
 
