@@ -162,7 +162,6 @@ Here's a quick overview of the categories covered in this collection:
 
 ## Analyzers - API
 
-- [Node-yslowjs ![GitHub Repo Stars](https://img.shields.io/github/stars/jmervine/node-yslowjs) ![GitHub last commit](https://img.shields.io/github/last-commit/jmervine/node-yslowjs)](https://github.com/jmervine/node-yslowjs) - YSlow.js on Node.js is a simple Node.js wrapper for programmatically running phantomjs yslow.js.
 - [PSI ![GitHub Repo Stars](https://img.shields.io/github/stars/GoogleChromeLabs/psi) ![GitHub last commit](https://img.shields.io/github/last-commit/GoogleChromeLabs/psi)](https://github.com/GoogleChromeLabs/psi) - PageSpeed Insights for Node.js - with reporting.
 
 ## Application Performance Monitoring
@@ -305,7 +304,6 @@ Here's a quick overview of the categories covered in this collection:
 - [Compressor](https://compressor.io/) - Online image compressor for JPG, PNG, SVG and GIF.
 - [mozjpeg ![GitHub Repo Stars](https://img.shields.io/github/stars/mozilla/mozjpeg) ![GitHub last commit](https://img.shields.io/github/last-commit/mozilla/mozjpeg)](https://github.com/mozilla/mozjpeg) - Improved JPEG encoder.
 - [Jpegoptim ![GitHub Repo Stars](https://img.shields.io/github/stars/tjko/jpegoptim) ![GitHub last commit](https://img.shields.io/github/last-commit/tjko/jpegoptim)](https://github.com/tjko/jpegoptim) - Utility to optimize/compress JPEG files.
-- [ZopfliPNG ![GitHub Repo Stars](https://img.shields.io/github/stars/google/zopfli) ![GitHub last commit](https://img.shields.io/github/last-commit/google/zopfli)](https://github.com/google/zopfli) - A command-line program to optimize PNG images.
 - [AdvPNG](http://www.advancemame.it/doc-advpng.html) - Recompress PNG files to get the smallest possible size.
 - [Leanify ![GitHub Repo Stars](https://img.shields.io/github/stars/JayXon/Leanify) ![GitHub last commit](https://img.shields.io/github/last-commit/JayXon/Leanify)](https://github.com/JayXon/Leanify) - Lightweight lossless file minifier/optimizer.
 - [Trimage](https://trimage.org/) - A cross-platform tool for losslessly optimizing PNG and JPG files.
@@ -348,13 +346,7 @@ Here's a quick overview of the categories covered in this collection:
 - [DareBoost](https://www.dareboost.com/en) - Real Browser Monitoring. Offers complete reports about web performance and quality using YSlow, Page Speed and numerous custom tips.
 - [Perfume.js ![GitHub Repo Stars](https://img.shields.io/github/stars/Zizzamia/perfume.js) ![GitHub last commit](https://img.shields.io/github/last-commit/Zizzamia/perfume.js)](https://github.com/Zizzamia/perfume.js) - Tiny library to collect Core Web Vitals and other performance metrics from real users.
 - [puppeteer-webperf ![GitHub Repo Stars](https://img.shields.io/github/stars/addyosmani/puppeteer-webperf) ![GitHub last commit](https://img.shields.io/github/last-commit/addyosmani/puppeteer-webperf)](https://github.com/addyosmani/puppeteer-webperf) - Collect web performance metrics in Puppeteer scripts.
-
-## Metrics Monitor - API
-
 - [WebPageTest API Wrapper for Node.js ![GitHub Repo Stars](https://img.shields.io/github/stars/catchpoint/WebPageTest.api-nodejs) ![GitHub last commit](https://img.shields.io/github/last-commit/catchpoint/WebPageTest.api-nodejs)](https://github.com/catchpoint/WebPageTest.api-nodejs) - WebPageTest API Wrapper is an npm package that wraps WebPageTest API for Node.js as a module and a command-line tool.
-
-## Metrics Monitor - EMAIL
-
 - [WebPerformance Report](https://webperformancereport.com/) - Web performance report every week in your inbox. Get a Personalized Report on the Status of the E-commerce or Website that you want to monitor in terms of Web performance and Web optimization, Core Web Vitals are included.
 
 ## Minifiers - HTML
@@ -374,10 +366,8 @@ Here's a quick overview of the categories covered in this collection:
 
 ## Minifiers - JS & CSS
 
-- [YUI Compressor ![GitHub Repo Stars](https://img.shields.io/github/stars/yui/yuicompressor) ![GitHub last commit](https://img.shields.io/github/last-commit/yui/yuicompressor)](https://github.com/yui/yuicompressor) - JavaScript compressor which, in addition to removing comments and white-spaces, obfuscates local variables using the smallest possible variable name. This obfuscation is safe, even when using constructs such as 'eval' or 'with' (although the compression is not optimal is those cases) Compared to jsmin, the average savings is around 20%.
 - [UglifyJS2 ![GitHub Repo Stars](https://img.shields.io/github/stars/mishoo/UglifyJS) ![GitHub last commit](https://img.shields.io/github/last-commit/mishoo/UglifyJS)](https://github.com/mishoo/UglifyJS) - UglifyJS is a JavaScript parser, minifier, compressor or beautifier toolkit, written in JavaScript.
 - [CSSO ![GitHub Repo Stars](https://img.shields.io/github/stars/css/csso) ![GitHub last commit](https://img.shields.io/github/last-commit/css/csso)](https://github.com/css/csso) - CSS minimizer unlike others. In addition to usual minification techniques, it can perform structural optimization of CSS files, resulting in smaller file size compared to other minifiers.
-- [CSSmin.js ![GitHub Repo Stars](https://img.shields.io/github/stars/stoyan/yuicompressor) ![GitHub last commit](https://img.shields.io/github/last-commit/stoyan/yuicompressor)](https://github.com/stoyan/yuicompressor/blob/master/ports/js/cssmin.js) - JavaScript port of YUICompressor's CSS minifier.
 - [Grunt-contrib-concat ![GitHub Repo Stars](https://img.shields.io/github/stars/gruntjs/grunt-contrib-concat) ![GitHub last commit](https://img.shields.io/github/last-commit/gruntjs/grunt-contrib-concat)](https://github.com/gruntjs/grunt-contrib-concat) - A Grunt plugin to concatenate files.
 - [Grunt-contrib-uglify ![GitHub Repo Stars](https://img.shields.io/github/stars/gruntjs/grunt-contrib-uglify) ![GitHub last commit](https://img.shields.io/github/last-commit/gruntjs/grunt-contrib-uglify)](https://github.com/gruntjs/grunt-contrib-uglify) - A Grunt plugin to concatenate and minify JavaScript files.
 - [Clean-css ![GitHub Repo Stars](https://img.shields.io/github/stars/clean-css/clean-css) ![GitHub last commit](https://img.shields.io/github/last-commit/clean-css/clean-css)](https://github.com/clean-css/clean-css) - A fast, efficient, and well-tested CSS minifier for node.js.
