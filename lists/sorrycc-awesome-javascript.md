@@ -216,6 +216,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [JS-Beautifier ![GitHub Repo Stars](https://img.shields.io/github/stars/beautify-web/js-beautify) ![GitHub last commit](https://img.shields.io/github/last-commit/beautify-web/js-beautify)](https://github.com/beautify-web/js-beautify) - Npm cli and library to format JS code.
 * [husky ![GitHub Repo Stars](https://img.shields.io/github/stars/typicode/husky) ![GitHub last commit](https://img.shields.io/github/last-commit/typicode/husky)](https://github.com/typicode/husky) - Prevents bad git commit, git push and more.
 * [Rev-dep ![GitHub Repo Stars](https://img.shields.io/github/stars/jayu/rev-dep) ![GitHub last commit](https://img.shields.io/github/last-commit/jayu/rev-dep)](https://github.com/jayu/rev-dep) - Trace imports, identify circular dependencies, find unused code, clean node modules — all from a blazing-fast CLI.
+* [fallow ![GitHub Repo Stars](https://img.shields.io/github/stars/fallow-rs/fallow) ![GitHub last commit](https://img.shields.io/github/last-commit/fallow-rs/fallow)](https://github.com/fallow-rs/fallow) - Finds dead code, duplication, circular dependencies, and complexity hotspots in JavaScript and TypeScript projects.
 
 ## MVC Frameworks and Libraries
 
