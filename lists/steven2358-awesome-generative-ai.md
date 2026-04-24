@@ -408,6 +408,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Wispr Flow](https://wisprflow.ai/) - Flow makes writing quick with seamless voice dictation for any application on your computer.
 - [Vibe Transcribe](https://thewh1teagle.github.io/vibe/) - All-in-one solution for effortless audio and video transcription. [#opensource ![GitHub Repo Stars](https://img.shields.io/github/stars/thewh1teagle/vibe) ![GitHub last commit](https://img.shields.io/github/last-commit/thewh1teagle/vibe)](https://github.com/thewh1teagle/vibe)
 - [whisper.cpp ![GitHub Repo Stars](https://img.shields.io/github/stars/ggerganov/whisper.cpp) ![GitHub last commit](https://img.shields.io/github/last-commit/ggerganov/whisper.cpp)](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++. #opensource
+- [whisper-ctranslate2 ![GitHub Repo Stars](https://img.shields.io/github/stars/Softcatala/whisper-ctranslate2) ![GitHub last commit](https://img.shields.io/github/last-commit/Softcatala/whisper-ctranslate2)](https://github.com/Softcatala/whisper-ctranslate2) - A Whisper CLI client compatible with the original OpenAI client, using CTranslate2 for faster inference. [#opensource ![GitHub Repo Stars](https://img.shields.io/github/stars/Softcatala/whisper-ctranslate2) ![GitHub last commit](https://img.shields.io/github/last-commit/Softcatala/whisper-ctranslate2)](https://github.com/Softcatala/whisper-ctranslate2)
 
 ### Music
 
