@@ -42,8 +42,7 @@ Here's a quick overview of the categories covered in this collection:
 - [Lazyloaders](#lazyloaders)
 - [Loaders](#loaders)
 - [Metrics Monitor](#metrics-monitor)
-- [Minifiers HTML](#minifiers---html)
-- [Minifiers JS & CSS](#minifiers---js--css)
+- [Minifiers](#minifiers)
 - [Miscellaneous](#miscellaneous)
 - [Real User Monitoring](#real-user-monitoring)
 - [SVG](#svg)
@@ -159,6 +158,7 @@ Here's a quick overview of the categories covered in this collection:
 - [Third Party Analysis Tool](https://tools.paulcalvano.com/wpt-third-party-analysis/) - Analyze third-party request risk, render-blocking impact, and potential single points of failure from WebPageTest runs.
 - [Web Font Analyzer](https://tools.paulcalvano.com/wpt-font-analysis/) - Inspect font loading timing, payload, and glyph usage using WebPageTest data.
 - [Webfont Usage Analyzer ![GitHub Repo Stars](https://img.shields.io/github/stars/paulcalvano/webfont-usage-analyzer) ![GitHub last commit](https://img.shields.io/github/last-commit/paulcalvano/webfont-usage-analyzer)](https://github.com/paulcalvano/webfont-usage-analyzer) - Bookmarklet script to map loaded web fonts to visible DOM usage and help spot font optimization opportunities.
+- [Waterfall Tools](https://waterfall-tools.com/) - Advanced client-side network request waterfall viewer for HAR, WPT JSON, Chrome traces/netlogs, and tcpdump captures.
 
 ## Analyzers - API
 
@@ -349,7 +349,7 @@ Here's a quick overview of the categories covered in this collection:
 - [WebPageTest API Wrapper for Node.js ![GitHub Repo Stars](https://img.shields.io/github/stars/catchpoint/WebPageTest.api-nodejs) ![GitHub last commit](https://img.shields.io/github/last-commit/catchpoint/WebPageTest.api-nodejs)](https://github.com/catchpoint/WebPageTest.api-nodejs) - WebPageTest API Wrapper is an npm package that wraps WebPageTest API for Node.js as a module and a command-line tool.
 - [WebPerformance Report](https://webperformancereport.com/) - Web performance report every week in your inbox. Get a Personalized Report on the Status of the E-commerce or Website that you want to monitor in terms of Web performance and Web optimization, Core Web Vitals are included.
 
-## Minifiers - HTML
+## Minifiers
 
 - [HTMLCompressor](https://code.google.com/archive/p/htmlcompressor/) - Small, fast Java library that minifies HTML or XML by removing extra whitespace, comments, and unneeded characters without breaking structure. Includes a command-line build.
 - [Django-htmlmin ![GitHub Repo Stars](https://img.shields.io/github/stars/cobrateam/django-htmlmin) ![GitHub last commit](https://img.shields.io/github/last-commit/cobrateam/django-htmlmin)](https://github.com/cobrateam/django-htmlmin) - HTML minifier for Python with full support for HTML 5. Supports Django, Flask, and any other Python web framework, plus a command-line tool for static sites or deployment scripts.
@@ -363,9 +363,6 @@ Here's a quick overview of the categories covered in this collection:
 - [HTML Minifier Online](http://kangax.github.io/html-minifier/) - A HTML min tool by kangax (HTMLMinifier Creator).
 - [Minimize ![GitHub Repo Stars](https://img.shields.io/github/stars/Swaagie/minimize) ![GitHub last commit](https://img.shields.io/github/last-commit/Swaagie/minimize)](https://github.com/Swaagie/minimize) - HTML minifier based on node-htmlparser; currently server-side only. Client-side minification is planned.
 - [Html-minifier ![GitHub Repo Stars](https://img.shields.io/github/stars/deanhume/html-minifier) ![GitHub last commit](https://img.shields.io/github/last-commit/deanhume/html-minifier)](https://github.com/deanhume/html-minifier) - A simple Windows command-line tool to minify your HTML, Razor views & Web Forms views.
-
-## Minifiers - JS & CSS
-
 - [UglifyJS2 ![GitHub Repo Stars](https://img.shields.io/github/stars/mishoo/UglifyJS) ![GitHub last commit](https://img.shields.io/github/last-commit/mishoo/UglifyJS)](https://github.com/mishoo/UglifyJS) - UglifyJS is a JavaScript parser, minifier, compressor or beautifier toolkit, written in JavaScript.
 - [CSSO ![GitHub Repo Stars](https://img.shields.io/github/stars/css/csso) ![GitHub last commit](https://img.shields.io/github/last-commit/css/csso)](https://github.com/css/csso) - CSS minimizer unlike others. In addition to usual minification techniques, it can perform structural optimization of CSS files, resulting in smaller file size compared to other minifiers.
 - [Grunt-contrib-concat ![GitHub Repo Stars](https://img.shields.io/github/stars/gruntjs/grunt-contrib-concat) ![GitHub last commit](https://img.shields.io/github/last-commit/gruntjs/grunt-contrib-concat)](https://github.com/gruntjs/grunt-contrib-concat) - A Grunt plugin to concatenate files.
