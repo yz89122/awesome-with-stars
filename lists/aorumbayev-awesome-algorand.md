@@ -256,7 +256,13 @@ Algorand is an open-source, proof of stake Blockchain and smart contract computi
 #### Swift
 
 - [algorand-wallet ![GitHub Repo Stars](https://img.shields.io/github/stars/algorand/algorand-wallet) ![GitHub last commit](https://img.shields.io/github/last-commit/algorand/algorand-wallet)](https://github.com/algorand/algorand-wallet) - Algorand wallet official implementation in Swift.
+- [swift-algorand ![GitHub Repo Stars](https://img.shields.io/github/stars/CorvidLabs/swift-algorand) ![GitHub last commit](https://img.shields.io/github/last-commit/CorvidLabs/swift-algorand)](https://github.com/CorvidLabs/swift-algorand) - Modern Swift SDK for the Algorand Blockchain with async/await and Swift concurrency support.
 - [swift-algorand-sdk ![GitHub Repo Stars](https://img.shields.io/github/stars/Jesulonimi21/Swift-Algorand-Sdk) ![GitHub last commit](https://img.shields.io/github/last-commit/Jesulonimi21/Swift-Algorand-Sdk)](https://github.com/Jesulonimi21/Swift-Algorand-Sdk) - A Swift SDK for interacting with the Algorand Blockchain.
+- [swift-algorand ![GitHub Repo Stars](https://img.shields.io/github/stars/CorvidLabs/swift-algorand) ![GitHub last commit](https://img.shields.io/github/last-commit/CorvidLabs/swift-algorand)](https://github.com/CorvidLabs/swift-algorand) - Modern Swift SDK for the Algorand Blockchain with async/await support.
+- [swift-algokit ![GitHub Repo Stars](https://img.shields.io/github/stars/CorvidLabs/swift-algokit) ![GitHub last commit](https://img.shields.io/github/last-commit/CorvidLabs/swift-algokit)](https://github.com/CorvidLabs/swift-algokit) - AlgoKit utilities for Swift developers.
+- [swift-arc ![GitHub Repo Stars](https://img.shields.io/github/stars/CorvidLabs/swift-arc) ![GitHub last commit](https://img.shields.io/github/last-commit/CorvidLabs/swift-arc)](https://github.com/CorvidLabs/swift-arc) - Swift library for working with Algorand ARC metadata standards for NFTs.
+- [swift-mint ![GitHub Repo Stars](https://img.shields.io/github/stars/CorvidLabs/swift-mint) ![GitHub last commit](https://img.shields.io/github/last-commit/CorvidLabs/swift-mint)](https://github.com/CorvidLabs/swift-mint) - Swift library for minting NFTs on the Algorand Blockchain.
+- [swift-algochat ![GitHub Repo Stars](https://img.shields.io/github/stars/CorvidLabs/swift-algochat) ![GitHub last commit](https://img.shields.io/github/last-commit/CorvidLabs/swift-algochat)](https://github.com/CorvidLabs/swift-algochat) - End-to-end encrypted messaging on Algorand with hybrid ECDH and PSK ratcheting in Swift.
 
 #### Ruby
 
@@ -316,6 +322,7 @@ Algorand is an open-source, proof of stake Blockchain and smart contract computi
 - [irulan](https://irulan.dev/) - Web app for deploying + testing smart contracts ([open source! + PRs welcome ![GitHub Repo Stars](https://img.shields.io/github/stars/thencc/irulan) ![GitHub last commit](https://img.shields.io/github/last-commit/thencc/irulan)](https://github.com/thencc/irulan)).
 - [algojig ![GitHub Repo Stars](https://img.shields.io/github/stars/Hipo/algojig) ![GitHub last commit](https://img.shields.io/github/last-commit/Hipo/algojig)](https://github.com/Hipo/algojig) - A tool for testing Algorand smart contracts.
 - [tealinspector ![GitHub Repo Stars](https://img.shields.io/github/stars/Hipo/tealinspector) ![GitHub last commit](https://img.shields.io/github/last-commit/Hipo/tealinspector)](https://github.com/Hipo/tealinspector) - Quick and easy TEAL code debugging by Hipo labs.
+- [swift-algotest ![GitHub Repo Stars](https://img.shields.io/github/stars/CorvidLabs/swift-algotest) ![GitHub last commit](https://img.shields.io/github/last-commit/CorvidLabs/swift-algotest)](https://github.com/CorvidLabs/swift-algotest) - Swift testing framework for Algorand smart contracts with mock chain support.
 
 
 ### Deployment & Environment
@@ -358,6 +365,7 @@ Algorand is an open-source, proof of stake Blockchain and smart contract computi
 - [Algorand Ballet](https://akaalias.github.io/algorand-ballet/) - Algorand accounts' 2D graphs.
 - [Algorand Multiverse](https://algo3d.live/) - Algorand accounts' 3D graphs.
 - [AlgoSurf](https://algo.surf/) - Algorand Network Explorer (supports LocalNet in `localhost`).
+- [Algo Explorer ![GitHub Repo Stars](https://img.shields.io/github/stars/corvid-agent/algo-explorer) ![GitHub last commit](https://img.shields.io/github/last-commit/corvid-agent/algo-explorer)](https://github.com/corvid-agent/algo-explorer) - Modern Algorand Blockchain explorer with real-time transaction monitoring.
 
 
 ### Portfolio Trackers
@@ -442,8 +450,8 @@ Algorand is an open-source, proof of stake Blockchain and smart contract computi
 - [algorand-remote-mcp ![GitHub Repo Stars](https://img.shields.io/github/stars/GoPlausible/algorand-remote-mcp) ![GitHub last commit](https://img.shields.io/github/last-commit/GoPlausible/algorand-remote-mcp)](https://github.com/GoPlausible/algorand-remote-mcp) - Algorand remote SSE MCP Server Cloudflare Worker.
 - [arcontextify ![GitHub Repo Stars](https://img.shields.io/github/stars/aorumbayev/arcontextify) ![GitHub last commit](https://img.shields.io/github/last-commit/aorumbayev/arcontextify)](https://github.com/aorumbayev/arcontextify) - Algorand ARC-56 to MCP server converter.
 - [VibeKit ![GitHub Repo Stars](https://img.shields.io/github/stars/gabrielkuettel/vibekit) ![GitHub last commit](https://img.shields.io/github/last-commit/gabrielkuettel/vibekit)](https://github.com/gabrielkuettel/vibekit) - CLI + MCP server that gives AI coding assistants the skills and tools to build on Algorand.
-- [AlgoChat ![GitHub Repo Stars](https://img.shields.io/github/stars/CorvidLabs/ts-algochat) ![GitHub last commit](https://img.shields.io/github/last-commit/CorvidLabs/ts-algochat)](https://github.com/CorvidLabs/ts-algochat) - Encrypted on-chain messaging protocol for Algorand, enabling AI agent-to-agent communication via transaction notes.
-- [CorvidAgent ![GitHub Repo Stars](https://img.shields.io/github/stars/CorvidLabs/corvid-agent) ![GitHub last commit](https://img.shields.io/github/last-commit/CorvidLabs/corvid-agent)](https://github.com/CorvidLabs/corvid-agent) - AI agent orchestration platform with on-chain messaging, persistent memory, and autonomous scheduling via Algorand.
+- [corvid-agent ![GitHub Repo Stars](https://img.shields.io/github/stars/corvid-agent/corvid-agent) ![GitHub last commit](https://img.shields.io/github/last-commit/corvid-agent/corvid-agent)](https://github.com/corvid-agent/corvid-agent) - An autonomous AI agent platform built on Algorand with encrypted on-chain messaging.
+- [AlgoChat ![GitHub Repo Stars](https://img.shields.io/github/stars/corvid-agent/corvid-agent-chat) ![GitHub last commit](https://img.shields.io/github/last-commit/corvid-agent/corvid-agent-chat)](https://github.com/corvid-agent/corvid-agent-chat) - Encrypted peer-to-peer chat client using Algorand transactions and PSK ratcheting.
 - [algorand-agent-skills ![GitHub Repo Stars](https://img.shields.io/github/stars/algorand-devrel/algorand-agent-skills) ![GitHub last commit](https://img.shields.io/github/last-commit/algorand-devrel/algorand-agent-skills)](https://github.com/algorand-devrel/algorand-agent-skills) - Canonical collection of Agent Skills for AI-assisted development on Algorand by Algorand DevRel.
 
 
@@ -463,6 +471,7 @@ Algorand is an open-source, proof of stake Blockchain and smart contract computi
 - [vestige.fi](https://vestige.fi/) - A decentralized ecosystem of tools primary used as a tool to track and trend Algorand Standard Assets and Liquidity Pools across the ecosystem. The platform also provides a decentralized swap and a launchpad platform.
 - [folks-router ![GitHub Repo Stars](https://img.shields.io/github/stars/Folks-Finance/folks-router) ![GitHub last commit](https://img.shields.io/github/last-commit/Folks-Finance/folks-router)](https://github.com/Folks-Finance/folks-router) - Efficient swap routing SDK on Algorand by Folks Finance.
 - [Folks-Finance/algorand-js-sdk ![GitHub Repo Stars](https://img.shields.io/github/stars/Folks-Finance/folks-finance-js-sdk) ![GitHub last commit](https://img.shields.io/github/last-commit/Folks-Finance/folks-finance-js-sdk)](https://github.com/Folks-Finance/folks-finance-js-sdk) - Official Folks Finance Algorand Protocol SDK.
+- [DorkFi](https://dork.fi/) - Cross-chain borrow/lend protocol on Algorand and Voi Network. Features overcollateralized lending, WAD stablecoin minting, and UNIT governance token.
 
 
 ### NFT Marketplaces
@@ -473,6 +482,7 @@ Algorand is an open-source, proof of stake Blockchain and smart contract computi
 - [AlgoGems](https://algogems.io/) - Algorand Standard Asset (ASA) markeplace and trading platform for NFT collectors.
 - [AlgoMart ![GitHub Repo Stars](https://img.shields.io/github/stars/deptagency/algomart) ![GitHub last commit](https://img.shields.io/github/last-commit/deptagency/algomart)](https://github.com/deptagency/algomart) - Opensource NFT marketplace whitelabel solution.
 - [Flatter](https://www.flatternft.com/) - NFT art and collectible marketplace.
+- [NFT Gallery ![GitHub Repo Stars](https://img.shields.io/github/stars/corvid-agent/nft-gallery) ![GitHub last commit](https://img.shields.io/github/last-commit/corvid-agent/nft-gallery)](https://github.com/corvid-agent/nft-gallery) - Algorand NFT gallery browser with ARC-standard support.
 
 ### Prediction Markets
 
