@@ -405,7 +405,7 @@ If you enjoy this awesome list and would like to support it, check out my [Patre
 - [Exploiting CSRF on JSON endpoints with Flash and redirects](https://blog.appsecco.com/exploiting-csrf-on-json-endpoints-with-flash-and-redirects-681d4ad6b31b) - Written by [@riyazwalikar](https://blog.appsecco.com/@riyazwalikar).
 - [Stealing CSRF tokens with CSS injection (without iFrames) ![GitHub Repo Stars](https://img.shields.io/github/stars/dxa4481/cssInjection) ![GitHub last commit](https://img.shields.io/github/last-commit/dxa4481/cssInjection)](https://github.com/dxa4481/cssInjection) - Written by [@dxa4481](https://github.com/dxa4481).
 - [Cracking Java’s RNG for CSRF - Javax Faces and Why CSRF Token Randomness Matters](https://blog.securityevaluators.com/cracking-javas-rng-for-csrf-ea9cacd231d2) - Written by [@rramgattie](https://blog.securityevaluators.com/@rramgattie).
-- [If HttpOnly You Could Still CSRF��� Of CORS you can!](https://medium.com/@_graphx/if-httponly-you-could-still-csrf-of-cors-you-can-5d7ee2c7443) - Written by [@GraphX](https://twitter.com/GraphX).
+- [If HttpOnly You Could Still CSRF… Of CORS you can!](https://medium.com/@_graphx/if-httponly-you-could-still-csrf-of-cors-you-can-5d7ee2c7443) - Written by [@GraphX](https://twitter.com/GraphX).
 
 <a name="tricks-clickjacking"></a>
 ### Clickjacking
@@ -572,7 +572,7 @@ If you enjoy this awesome list and would like to support it, check out my [Patre
 
 - [js-vuln-db ![GitHub Repo Stars](https://img.shields.io/github/stars/tunz/js-vuln-db) ![GitHub last commit](https://img.shields.io/github/last-commit/tunz/js-vuln-db)](https://github.com/tunz/js-vuln-db) - Collection of JavaScript engine CVEs with PoCs by [@tunz](https://github.com/tunz).
 - [awesome-cve-poc ![GitHub Repo Stars](https://img.shields.io/github/stars/qazbnm456/awesome-cve-poc) ![GitHub last commit](https://img.shields.io/github/last-commit/qazbnm456/awesome-cve-poc)](https://github.com/qazbnm456/awesome-cve-poc) - Curated list of CVE PoCs by [@qazbnm456](https://github.com/qazbnm456).
-- [Some-PoC-oR-ExP ![GitHub Repo Stars](https://img.shields.io/github/stars/coffeehb/Some-PoC-oR-ExP) ![GitHub last commit](https://img.shields.io/github/last-commit/coffeehb/Some-PoC-oR-ExP)](https://github.com/coffeehb/Some-PoC-oR-ExP) - 各种漏洞poc、Exp的收集或编写 by [@coffeehb](https://github.com/coffeehb).
+- [Some-PoC-oR-ExP ![GitHub Repo Stars](https://img.shields.io/github/stars/coffeehb/Some-PoC-oR-ExP) ![GitHub last commit](https://img.shields.io/github/last-commit/coffeehb/Some-PoC-oR-ExP)](https://github.com/coffeehb/Some-PoC-oR-ExP) - 各种漏���poc、Exp的收集或编写 by [@coffeehb](https://github.com/coffeehb).
 - [uxss-db ![GitHub Repo Stars](https://img.shields.io/github/stars/Metnew/uxss-db) ![GitHub last commit](https://img.shields.io/github/last-commit/Metnew/uxss-db)](https://github.com/Metnew/uxss-db) - Collection of UXSS CVEs with PoCs by [@Metnew](https://github.com/Metnew).
 - [SPLOITUS](https://sploitus.com/) - Exploits & Tools Search Engine by [@i_bo0om](https://twitter.com/i_bo0om).
 - [Exploit Database](https://www.exploit-db.com/) - ultimate archive of Exploits, Shellcode, and Security Papers by [Offensive Security](https://www.offensive-security.com/).
