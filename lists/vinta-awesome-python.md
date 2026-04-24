@@ -71,6 +71,7 @@ An opinionated list of Python frameworks, libraries, tools, and resources.
 - [DevOps Tools](#devops-tools)
 - [Distributed Computing](#distributed-computing)
 - [Task Queues](#task-queues)
+- [Messaging](#messaging)
 - [Job Schedulers](#job-schedulers)
 - [Logging](#logging)
 - [Network Virtualization](#network-virtualization)
@@ -114,6 +115,7 @@ An opinionated list of Python frameworks, libraries, tools, and resources.
 
 - [Cryptography](#cryptography)
 - [Penetration Testing](#penetration-testing)
+- [Web Security](#web-security)
 
 **Miscellaneous**
 
@@ -141,6 +143,7 @@ _Libraries for building AI applications, LLM integrations, and autonomous agents
   - [dspy ![GitHub Repo Stars](https://img.shields.io/github/stars/stanfordnlp/dspy) ![GitHub last commit](https://img.shields.io/github/last-commit/stanfordnlp/dspy)](https://github.com/stanfordnlp/dspy) - A framework for programming, not prompting, language models.
   - [hermes-agent ![GitHub Repo Stars](https://img.shields.io/github/stars/nousresearch/hermes-agent) ![GitHub last commit](https://img.shields.io/github/last-commit/nousresearch/hermes-agent)](https://github.com/nousresearch/hermes-agent) - An adaptive AI agent framework that grows with you.
   - [langchain ![GitHub Repo Stars](https://img.shields.io/github/stars/langchain-ai/langchain) ![GitHub last commit](https://img.shields.io/github/last-commit/langchain-ai/langchain)](https://github.com/langchain-ai/langchain) - Building applications with LLMs through composability.
+  - [openai-agents ![GitHub Repo Stars](https://img.shields.io/github/stars/openai/openai-agents-python) ![GitHub last commit](https://img.shields.io/github/last-commit/openai/openai-agents-python)](https://github.com/openai/openai-agents-python) - OpenAI's framework for building and managing AI agents.
   - [pydantic-ai ![GitHub Repo Stars](https://img.shields.io/github/stars/pydantic/pydantic-ai) ![GitHub last commit](https://img.shields.io/github/last-commit/pydantic/pydantic-ai)](https://github.com/pydantic/pydantic-ai) - A Python agent framework for building generative AI applications with structured schemas.
   - [TradingAgents ![GitHub Repo Stars](https://img.shields.io/github/stars/TauricResearch/TradingAgents) ![GitHub last commit](https://img.shields.io/github/last-commit/TauricResearch/TradingAgents)](https://github.com/TauricResearch/TradingAgents) - A multi-agents LLM financial trading framework.
 - Data Layer
@@ -738,6 +741,12 @@ _Libraries for working with task queues._
 - [huey ![GitHub Repo Stars](https://img.shields.io/github/stars/coleifer/huey) ![GitHub last commit](https://img.shields.io/github/last-commit/coleifer/huey)](https://github.com/coleifer/huey) - Little multi-threaded task queue.
 - [rq ![GitHub Repo Stars](https://img.shields.io/github/stars/rq/rq) ![GitHub last commit](https://img.shields.io/github/last-commit/rq/rq)](https://github.com/rq/rq) - Simple job queues for Python.
 
+## Messaging
+
+_Libraries for working with message brokers and event streaming._
+
+- [faststream ![GitHub Repo Stars](https://img.shields.io/github/stars/ag2ai/faststream) ![GitHub last commit](https://img.shields.io/github/last-commit/ag2ai/faststream)](https://github.com/ag2ai/faststream) - A framework for building asynchronous services over Apache Kafka, RabbitMQ, NATS, MQTT and Redis.
+
 ## Job Schedulers
 
 _Libraries for scheduling jobs._
@@ -1079,6 +1088,12 @@ _Frameworks and tools for penetration testing._
 - [setoolkit ![GitHub Repo Stars](https://img.shields.io/github/stars/trustedsec/social-engineer-toolkit) ![GitHub last commit](https://img.shields.io/github/last-commit/trustedsec/social-engineer-toolkit)](https://github.com/trustedsec/social-engineer-toolkit) - A toolkit for social engineering.
 - [sherlock ![GitHub Repo Stars](https://img.shields.io/github/stars/sherlock-project/sherlock) ![GitHub last commit](https://img.shields.io/github/last-commit/sherlock-project/sherlock)](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks.
 - [sqlmap ![GitHub Repo Stars](https://img.shields.io/github/stars/sqlmapproject/sqlmap) ![GitHub last commit](https://img.shields.io/github/last-commit/sqlmapproject/sqlmap)](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool.
+
+## Web Security
+
+_Libraries for application-layer web security._
+
+- [secure ![GitHub Repo Stars](https://img.shields.io/github/stars/TypeError/secure) ![GitHub last commit](https://img.shields.io/github/last-commit/TypeError/secure)](https://github.com/TypeError/secure) - HTTP security headers for Python web applications with ASGI and WSGI middleware.
 
 **Miscellaneous**
 

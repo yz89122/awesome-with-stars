@@ -426,7 +426,7 @@ Browse and search the resources via the [GitHub Pages UI](https://inoue0426.gith
 - [Evolutionary Scale Modeling (ESM) ![GitHub Repo Stars](https://img.shields.io/github/stars/facebookresearch/esm) ![GitHub last commit](https://img.shields.io/github/last-commit/facebookresearch/esm)](https://github.com/facebookresearch/esm) — Protein embeddings.
 - [ProtTrans ![GitHub Repo Stars](https://img.shields.io/github/stars/agemagician/ProtTrans) ![GitHub last commit](https://img.shields.io/github/last-commit/agemagician/ProtTrans)](https://github.com/agemagician/ProtTrans) — Suite of protein language models (ProtBERT, ProtT5, ProtXLNet) trained on billions of protein sequences from UniRef and BFD.
 - [ProGen2 ![GitHub Repo Stars](https://img.shields.io/github/stars/salesforce/progen) ![GitHub last commit](https://img.shields.io/github/last-commit/salesforce/progen)](https://github.com/salesforce/progen) — Protein language model trained on diverse protein families for sequence generation and fitness prediction.
-- [Ankh ![GitHub Repo Stars](https://img.shields.io/github/stars/agemagician/Ankh) ![GitHub last commit](https://img.shields.io/github/last-commit/agemagician/Ankh)](https://github.com/agemagician/Ankh) — Efficient protein language model optimized for downstream prediction tasks including secondary structure, localization, and function annotation.
+- [Ankh ![GitHub Repo Stars](https://img.shields.io/github/stars/agemagician/Ankh) ![GitHub last commit](https://img.shields.io/github/last-commit/agemagician/Ankh)](https://github.com/agemagician/Ankh) �� Efficient protein language model optimized for downstream prediction tasks including secondary structure, localization, and function annotation.
 
 ##### Protein Structure Prediction and Design
 
