@@ -214,7 +214,7 @@ _Info on topics necessary for designing and developing game engines._
 - Books
     - 📚 [Game Engine Architecture](https://www.gameenginebook.com) - Theory and practice of game engine development.
 - Commercial Studios Research Divisions
-    - �� [Activision Research](https://research.activision.com/) - Blog posts, articles and presentations from research within _Activision_.
+    - 🌎 [Activision Research](https://research.activision.com/) - Blog posts, articles and presentations from research within _Activision_.
     - 🌎 [EA Technology](https://www.ea.com/technology/research) - Research on game tech including info on the _Frostbite_ engine.
     - 🌎 [tri-Ace Research](https://research.tri-ace.com/) - Publications from the Research and Development Department at _tri-Ace Inc_.
     - 🌎 [Ubisoft Technology](https://www.ubisoft.com/en-us/company/how-we-make-games/technology) - Learn about in-house tech including the _Anvil_ and _Snowdrop_ engines.
@@ -231,7 +231,7 @@ _Info on topics necessary for designing and developing game engines._
     - 📚 [Art of Game Design](https://www.amazon.com/Art-Game-Design-Book-Lenses/dp/0123694965) - Teaches game design in an accessible manner.
     - 📚 [Game Programming Patterns](https://gameprogrammingpatterns.com) - Patterns found in games that make code easier to understand.
 - Developer Portals
-    - 🌎 [Game Developer](https://www.gamedeveloper.com) - Industry blogs, events, jobs, updates and more. Formerly _Gamasutra_.
+    - ��� [Game Developer](https://www.gamedeveloper.com) - Industry blogs, events, jobs, updates and more. Formerly _Gamasutra_.
     - 🌎 [GameDev.net](https://www.gamedev.net/) - Game dev forums, tutorials, blogs, projects, portfolios, and news.
     - 🌎 [GameFromScratch.com](https://gamefromscratch.com) - Game dev news, tutorials and much more.
     - 🌎 [itch.io](https://itch.io) - Game dev resources and platform to showcase / promote / buy & sell games.
@@ -867,7 +867,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [LUME ![GitHub Repo Stars](https://img.shields.io/github/stars/lume/lume) ![GitHub last commit](https://img.shields.io/github/last-commit/lume/lume)](https://github.com/lume/lume) - Simplifies the creation of interactive 2D/3D experiences.
     - ⭐ [OGL ![GitHub Repo Stars](https://img.shields.io/github/stars/oframe/ogl) ![GitHub last commit](https://img.shields.io/github/last-commit/oframe/ogl)](https://github.com/oframe/ogl) 🔥 - Fast, powerful, minimal WebGL library. [[Examples](https://oframe.github.io/ogl/examples)]
     - 🎉 [PicoGL.js ![GitHub Repo Stars](https://img.shields.io/github/stars/tsherif/picogl.js) ![GitHub last commit](https://img.shields.io/github/last-commit/tsherif/picogl.js)](https://github.com/tsherif/picogl.js) - Minimal WebGL 2 rendering library. [[Examples](https://tsherif.github.io/picogl.js/)]
-    - 🎉 [Pixi3D ![GitHub Repo Stars](https://img.shields.io/github/stars/jnsmalm/pixi3d) ![GitHub last commit](https://img.shields.io/github/last-commit/jnsmalm/pixi3d)](https://github.com/jnsmalm/pixi3d) - 3D renderer for _PixiJS_, seamless integration with 2D apps. [[Examples](https://pixi3d.org/)]
+    - �� [Pixi3D ![GitHub Repo Stars](https://img.shields.io/github/stars/jnsmalm/pixi3d) ![GitHub last commit](https://img.shields.io/github/last-commit/jnsmalm/pixi3d)](https://github.com/jnsmalm/pixi3d) - 3D renderer for _PixiJS_, seamless integration with 2D apps. [[Examples](https://pixi3d.org/)]
     - 🎉 [RedGL ![GitHub Repo Stars](https://img.shields.io/github/stars/redcamel/RedGL2) ![GitHub last commit](https://img.shields.io/github/last-commit/redcamel/RedGL2)](https://github.com/redcamel/RedGL2) - JavaScript 3D WebGL library.
     - 🎉 [Regl ![GitHub Repo Stars](https://img.shields.io/github/stars/regl-project/regl) ![GitHub last commit](https://img.shields.io/github/last-commit/regl-project/regl)](https://github.com/regl-project/regl) - Fast functional WebGL.
     - 🎉 [SwissGL ![GitHub Repo Stars](https://img.shields.io/github/stars/google/swissgl) ![GitHub last commit](https://img.shields.io/github/last-commit/google/swissgl)](https://github.com/google/swissgl) - Minimalistic wrapper on top of WebGL2.
