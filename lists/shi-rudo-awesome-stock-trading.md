@@ -282,7 +282,7 @@ Descriptions focus on structure, scope, and market role rather than time-depende
 * 🇮🇳 **[Bombay Stock Exchange (BSE)](https://www.bseindia.com)**
   Asia’s oldest stock exchange. Major venue for Indian equities and indices.
 
-* ���🇪 **[Frankfurter Wertpapierbörse (Börse Frankfurt)](https://www.boerse-frankfurt.de)**
+* 🇩🇪 **[Frankfurter Wertpapierbörse (Börse Frankfurt)](https://www.boerse-frankfurt.de)**
   Germany’s principal stock exchange, operated by Deutsche Börse.
   Electronic trading is conducted via **[Xetra](https://www.xetra.com)**.
 
