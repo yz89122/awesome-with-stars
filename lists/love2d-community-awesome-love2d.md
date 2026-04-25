@@ -411,7 +411,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 	* [Local Lua Debugger](https://marketplace.visualstudio.com/items?itemName=tomblind.local-lua-debugger-vscode) - Simple Lua debugger with no dependencies. Löve specific launch.json example provided.
 	* [Lua for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=trixnz.vscode-lua) - Provides Intellisense and Linting for Lua in VSCode.
 	* [Lua Language Server](https://marketplace.visualstudio.com/items?itemName=sumneko.lua) - Various language features for Lua to make development easier and faster; includes LÖVE code completion and documentation.
-	* [Visual Studio Code LÖVE Launcher](https://marketplace.visualstudio.com/items?itemName=JanW.love-launcher) - A Löve Launcher Extension for Visual Studio Code.
+	* [Visual Studio Code L��VE Launcher](https://marketplace.visualstudio.com/items?itemName=JanW.love-launcher) - A Löve Launcher Extension for Visual Studio Code.
 * [Sublime Text](https://www.sublimetext.com) - A sophisticated text editor for code, markup and prose. You'll love the slick user interface, extraordinary features and amazing performance.
 	* [Package Manager](https://packagecontrol.io/) - The Sublime Text package manager that makes it exceedingly simple to find, install and keep packages up-to-date.
 	* [SublimeLove](https://packagecontrol.io/packages/SublimeLove) - Supports syntax highlighting, auto-completion, and build system.
