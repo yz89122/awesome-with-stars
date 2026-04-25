@@ -326,9 +326,10 @@ Language: English
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/raspberry_pi.webp">
 
-[__Raspberry Pie__](https://discord.com/invite/raspberry-pie-204621105720328193) \
-Notable Channels: `#tech-talk`, `#i-need-help`, `#python-dev`, `#projects-chat`,`#project-showcase`, `#show-off-your-ideas`, `#project-ideas` \
-Language: English
+[__Raspberry Pie__](https://discord.gg/xHP4a7f) \
+Notable Channels: `#projects-chat`, `#get-help`, `#faq`,`#project-showcase`, `#uwu` \
+Language: English \
+<br>
 
 ### DIY
 
