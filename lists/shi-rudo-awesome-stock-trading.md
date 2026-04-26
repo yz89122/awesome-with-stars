@@ -279,10 +279,10 @@ Descriptions focus on structure, scope, and market role rather than time-depende
 * 🇧🇷 **[B3 (Brasil, Bolsa, Balcão)](https://www.b3.com.br)**
   The main exchange in Brazil and Latin America. Operates equities, derivatives, and clearing services.
 
-* 🇮🇳 **[Bombay Stock Exchange (BSE)](https://www.bseindia.com)**
+* ����🇳 **[Bombay Stock Exchange (BSE)](https://www.bseindia.com)**
   Asia’s oldest stock exchange. Major venue for Indian equities and indices.
 
-* ���🇪 **[Frankfurter Wertpapierbörse (Börse Frankfurt)](https://www.boerse-frankfurt.de)**
+* 🇩🇪 **[Frankfurter Wertpapierbörse (Börse Frankfurt)](https://www.boerse-frankfurt.de)**
   Germany’s principal stock exchange, operated by Deutsche Börse.
   Electronic trading is conducted via **[Xetra](https://www.xetra.com)**.
 
@@ -304,7 +304,7 @@ Descriptions focus on structure, scope, and market role rather than time-depende
 * 🇺🇸 **[New York Stock Exchange (NYSE)](https://www.nyse.com)**
   Central venue for large-cap and blue-chip companies, operating a hybrid trading model.
 
-* 🇨🇳 **[Shanghai Stock Exchange (SSE)](https://www.sse.com.cn)**
+* ����🇳 **[Shanghai Stock Exchange (SSE)](https://www.sse.com.cn)**
   Major mainland Chinese exchange, focused on large state-owned and industrial enterprises.
 
 * 🇨🇳 **[Shenzhen Stock Exchange (SZSE)](https://www.szse.cn)**
