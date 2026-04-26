@@ -1212,6 +1212,7 @@ then it is not supported:
 
 ## Neovim Lua Development
 
+- [saghen/blink.lib ![GitHub Repo Stars](https://img.shields.io/github/stars/saghen/blink.lib) ![GitHub last commit](https://img.shields.io/github/last-commit/saghen/blink.lib)](https://github.com/saghen/blink.lib) - Generic utilities for all other `blink.*` plugins.
 - [folke/lazydev.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/folke/lazydev.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/folke/lazydev.nvim)](https://github.com/folke/lazydev.nvim) - Faster LuaLS setup.
 - [lumen-oss/luarocks-tag-release ![GitHub Repo Stars](https://img.shields.io/github/stars/lumen-oss/luarocks-tag-release) ![GitHub last commit](https://img.shields.io/github/last-commit/lumen-oss/luarocks-tag-release)](https://github.com/lumen-oss/luarocks-tag-release) - A GitHub action that publishes your Neovim plugins to LuaRocks.
 - [svermeulen/vimpeccable ![GitHub Repo Stars](https://img.shields.io/github/stars/svermeulen/vimpeccable) ![GitHub last commit](https://img.shields.io/github/last-commit/svermeulen/vimpeccable)](https://github.com/svermeulen/vimpeccable) - Commands to help write your .vimrc in Lua or any Lua based language.
