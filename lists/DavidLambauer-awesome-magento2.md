@@ -22,7 +22,7 @@
 
 > A curated list of awesome Magento 2 Extensions & Resources.
 
-> Tracking **222** projects · **44** actively maintained · **6** 🔥 hot · **42** 🪦 on the graveyard shelf.
+> Tracking **222** projects · **47** actively maintained · **7** 🔥 hot · **45** 🪦 on the graveyard shelf.
 
 - [What is an awesome list? ![GitHub Repo Stars](https://img.shields.io/github/stars/sindresorhus/awesome) ![GitHub last commit](https://img.shields.io/github/last-commit/sindresorhus/awesome)](https://github.com/sindresorhus/awesome/blob/master/awesome.md)
 - [Contribution guide](contributing.md) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/DavidLambauer/awesome-magento2/issues)
@@ -93,16 +93,16 @@ Also see:
 - [Meet Magento Florida](https://meetmagentofl.com/) 🫡 - Meet Magento event series — Florida.
 - [Meet Magento Netherlands](https://nl.meet-magento.com/) 🫡 - Meet Magento event series — Netherlands.
 - [Meet Magento New York City](https://meetmagentonyc.com/) 🫡 - Meet Magento event series — NYC.
-- [Meet Magento Poland](https://meetmagento.pl/) 🫡 - Meet Magento event series — Poland.
 - [Meet Magento UK](https://meet-magento.co.uk/) 🫡 - Meet Magento event series — UK.
-- [Meet Magento Baltics](https://meetmagentobaltics.com/) - Meet Magento event series — Baltics.
 - [Meet Magento Malaysia](https://www.meetmagento.asia/) - Meet Magento event series — Malaysia.
 - [Meet Magento Romania](https://ro.meet-magento.com/) - Meet Magento event series — Romania.
 
 <details>
 <summary>🪦 Graveyard — projects no longer recommended</summary>
 
+- [Meet Magento Baltics](https://meetmagentobaltics.com/) - Meet Magento event series — Baltics.
 - [Meet Magento India](https://www.meetmagento.in/) - Meet Magento event series — India.
+- [Meet Magento Poland](https://meetmagento.pl/) - Meet Magento event series — Poland.
 - [Meet Magento Singapore](https://meetmagento.sg/) - Meet Magento event series — Singapore.
 
 </details>
@@ -113,7 +113,7 @@ The storefront of Magento 2 can be styled in numerous ways:
 
 - [Adobe PWA Studio](https://developer.adobe.com/commerce/pwa-studio/) - Adobe's headless React frontend. GraphQL client; offers Venia theme, Peregrine hooks, Buildpack (Webpack) and UPWARD (SSR/image middleware).
 - [Magento Luma](https://developer.adobe.com/commerce/frontend-core/guide/) - Magento 2's default demo theme (extends Magento/blank). The name also refers to the whole Luma stack: XML layout + blocks/containers + PHTML templates, enriched with LESS-compiled CSS and RequireJS/KnockoutJS/jQuery.
-- [Alokai ![GitHub Repo Stars](https://img.shields.io/github/stars/vuestorefront/vue-storefront) ![GitHub last commit](https://img.shields.io/github/last-commit/vuestorefront/vue-storefront)](https://github.com/vuestorefront/vue-storefront) 🫡 - Formerly Vue Storefront — headless frontend framework.
+- [Alokai ![GitHub Repo Stars](https://img.shields.io/github/stars/vuestorefront/vue-storefront) ![GitHub last commit](https://img.shields.io/github/last-commit/vuestorefront/vue-storefront)](https://github.com/vuestorefront/vue-storefront) - Formerly Vue Storefront — headless frontend framework.
 - [ScandiPWA ![GitHub Repo Stars](https://img.shields.io/github/stars/scandipwa/scandipwa) ![GitHub last commit](https://img.shields.io/github/last-commit/scandipwa/scandipwa)](https://github.com/scandipwa/scandipwa) - React/Redux PWA theme for Magento 2.3+.
 - [Breeze Evolution](https://breezefront.com/themes) - Lightweight Luma-compatible theme targeting 100 PageSpeed.
 - [Front-Commerce](https://www.front-commerce.com/) - French PWA front-end solution for Magento.
@@ -188,8 +188,8 @@ The storefront of Magento 2 can be styled in numerous ways:
 ### Deployment
 
 - [Deployer Magento2 Recipe ![GitHub Repo Stars](https://img.shields.io/github/stars/deployphp/deployer) ![GitHub last commit](https://img.shields.io/github/last-commit/deployphp/deployer)](https://github.com/deployphp/deployer/blob/master/recipe/magento2.php) 🫡 - Magento 2 deployment recipe for deployer.
+- [easyaudit-cli ![GitHub Repo Stars](https://img.shields.io/github/stars/crealoz/easyaudit-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/crealoz/easyaudit-cli)](https://github.com/crealoz/easyaudit-cli) 🫡 - Static analysis CLI tool for Magento 2 codebases - detects anti-patterns, code quality issues, and architectural problems. SARIF output for CI/CD integration.
 - [Github Actions for Magento2 ![GitHub Repo Stars](https://img.shields.io/github/stars/extdn/github-actions-m2) ![GitHub last commit](https://img.shields.io/github/last-commit/extdn/github-actions-m2)](https://github.com/extdn/github-actions-m2) - GitHub Actions for Magento 2 Extensions.
-- [easyaudit-cli ![GitHub Repo Stars](https://img.shields.io/github/stars/crealoz/easyaudit-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/crealoz/easyaudit-cli)](https://github.com/crealoz/easyaudit-cli) - Static analysis CLI tool for Magento 2 codebases - detects anti-patterns, code quality issues, and architectural problems. SARIF output for CI/CD integration.
 
 <details>
 <summary>🪦 Graveyard — projects no longer recommended</summary>
@@ -234,11 +234,11 @@ The storefront of Magento 2 can be styled in numerous ways:
 
 ### CMS
 
-- [Magento 2 Blog Extension by Magefan ![GitHub Repo Stars](https://img.shields.io/github/stars/magefan/module-blog) ![GitHub last commit](https://img.shields.io/github/last-commit/magefan/module-blog)](https://github.com/magefan/module-blog) 🫡 - Free Blog module for Magento 2 with unlimited blog posts and categories, SEO friendly, lazy load and AMP support.
+- [Magento 2 Blog Extension by Magefan ![GitHub Repo Stars](https://img.shields.io/github/stars/magefan/module-blog) ![GitHub last commit](https://img.shields.io/github/last-commit/magefan/module-blog)](https://github.com/magefan/module-blog) 🔥 🫡 - Free Blog module for Magento 2 with unlimited blog posts and categories, SEO friendly, lazy load and AMP support.
 - [Mageplaza Blog Extension ![GitHub Repo Stars](https://img.shields.io/github/stars/mageplaza/magento-2-blog-extension) ![GitHub last commit](https://img.shields.io/github/last-commit/mageplaza/magento-2-blog-extension)](https://github.com/mageplaza/magento-2-blog-extension) 🫡 - Simple but well-working Blog Extension.
+- [module-page-builder-widget ![GitHub Repo Stars](https://img.shields.io/github/stars/mage-os/module-page-builder-widget) ![GitHub last commit](https://img.shields.io/github/last-commit/mage-os/module-page-builder-widget)](https://github.com/mage-os/module-page-builder-widget) 🫡 - Native Magento Page Builder support for CMS Widgets
 - [Opengento GDPR ![GitHub Repo Stars](https://img.shields.io/github/stars/opengento/magento2-gdpr) ![GitHub last commit](https://img.shields.io/github/last-commit/opengento/magento2-gdpr)](https://github.com/opengento/magento2-gdpr) - Magento 2 GDPR module to help be GDPR compliant.
 - [hyva-ai-tools ![GitHub Repo Stars](https://img.shields.io/github/stars/hyva-themes/hyva-ai-tools) ![GitHub last commit](https://img.shields.io/github/last-commit/hyva-themes/hyva-ai-tools)](https://github.com/hyva-themes/hyva-ai-tools) - AI-powered skills for Magento 2 development with Hyva Theme. These skills extend AI coding assistants with specialized knowledge for creating Hyva themes, modules, and CMS components.
-- [module-page-builder-widget ![GitHub Repo Stars](https://img.shields.io/github/stars/mage-os/module-page-builder-widget) ![GitHub last commit](https://img.shields.io/github/last-commit/mage-os/module-page-builder-widget)](https://github.com/mage-os/module-page-builder-widget) - Native Magento Page Builder support for CMS Widgets
 
 ### Marketing
 
@@ -256,9 +256,11 @@ The storefront of Magento 2 can be styled in numerous ways:
 
 - [Menu Editor ![GitHub Repo Stars](https://img.shields.io/github/stars/SnowdogApps/magento2-menu) ![GitHub last commit](https://img.shields.io/github/last-commit/SnowdogApps/magento2-menu)](https://github.com/SnowdogApps/magento2-menu) 🔥 🫡 - Provides a powerful menu editor to replace category-based menus in Magento 2.
 - [Custom SMTP ![GitHub Repo Stars](https://img.shields.io/github/stars/magepal/magento2-gmail-smtp-app) ![GitHub last commit](https://img.shields.io/github/last-commit/magepal/magento2-gmail-smtp-app)](https://github.com/magepal/magento2-gmail-smtp-app) 🫡 - Configure Magento 2 to send all transactional email using Google App, Gmail, Amazon SES, Microsoft Office 365 and other SMTP servers.
-- [Disable Stock Reservation ![GitHub Repo Stars](https://img.shields.io/github/stars/AmpersandHQ/magento2-disable-stock-reservation) ![GitHub last commit](https://img.shields.io/github/last-commit/AmpersandHQ/magento2-disable-stock-reservation)](https://github.com/AmpersandHQ/magento2-disable-stock-reservation) 🫡 - Disables the inventory reservation logic introduced as part of MSI in Magento 2.3.3.
 - [Sentry.io ![GitHub Repo Stars](https://img.shields.io/github/stars/justbetter/magento2-sentry) ![GitHub last commit](https://img.shields.io/github/last-commit/justbetter/magento2-sentry)](https://github.com/justbetter/magento2-sentry) 🫡 - Application monitoring and error tracking software for Magento 2.
+- [magento2-hyva-admin ![GitHub Repo Stars](https://img.shields.io/github/stars/hyva-themes/magento2-hyva-admin) ![GitHub last commit](https://img.shields.io/github/last-commit/hyva-themes/magento2-hyva-admin)](https://github.com/hyva-themes/magento2-hyva-admin) 🫡 - This module aims to make creating grids and forms in the Magento 2 adminhtml area joyful and fast.
 - [Guest to Customer ![GitHub Repo Stars](https://img.shields.io/github/stars/magepal/magento2-guest-to-customer) ![GitHub last commit](https://img.shields.io/github/last-commit/magepal/magento2-guest-to-customer)](https://github.com/magepal/magento2-guest-to-customer) 🫡 - Quickly and easily convert existing guest checkout customers to registered customers.
+- [theme-adminhtml-m137 ![GitHub Repo Stars](https://img.shields.io/github/stars/mage-os/theme-adminhtml-m137) ![GitHub last commit](https://img.shields.io/github/last-commit/mage-os/theme-adminhtml-m137)](https://github.com/mage-os/theme-adminhtml-m137) 🫡 - M137 Admin Theme for Magento/Mage-OS
+- [Disable Stock Reservation ![GitHub Repo Stars](https://img.shields.io/github/stars/AmpersandHQ/magento2-disable-stock-reservation) ![GitHub last commit](https://img.shields.io/github/last-commit/AmpersandHQ/magento2-disable-stock-reservation)](https://github.com/AmpersandHQ/magento2-disable-stock-reservation) - Disables the inventory reservation logic introduced as part of MSI in Magento 2.3.3.
 - [Customer Force Login ![GitHub Repo Stars](https://img.shields.io/github/stars/bitExpert/magento2-force-login) ![GitHub last commit](https://img.shields.io/github/last-commit/bitExpert/magento2-force-login)](https://github.com/bitExpert/magento2-force-login) - Forces customers to log in before accessing certain pages.
 - [Clean Admin Menu ![GitHub Repo Stars](https://img.shields.io/github/stars/redchamps/clean-admin-menu) ![GitHub last commit](https://img.shields.io/github/last-commit/redchamps/clean-admin-menu)](https://github.com/redchamps/clean-admin-menu) - Merges 3rd-party extensions into a single menu.
 - [FireGento Fast Simple Import ![GitHub Repo Stars](https://img.shields.io/github/stars/firegento/FireGento_FastSimpleImport2) ![GitHub last commit](https://img.shields.io/github/last-commit/firegento/FireGento_FastSimpleImport2)](https://github.com/firegento/FireGento_FastSimpleImport2) - Wrapper for Magento 2 ImportExport functionality, which imports products and customers from arrays.
@@ -268,8 +270,6 @@ The storefront of Magento 2 can be styled in numerous ways:
 - [PageNotFound ![GitHub Repo Stars](https://img.shields.io/github/stars/experius/Magento-2-Module-PageNotFound) ![GitHub last commit](https://img.shields.io/github/last-commit/experius/Magento-2-Module-PageNotFound)](https://github.com/experius/Magento-2-Module-PageNotFound) - Saves upcoming 404s in your database with the possibility to create a redirect.
 - [Reset UI Bookmarks ![GitHub Repo Stars](https://img.shields.io/github/stars/magenizr/Magenizr_ResetUiBookmarks) ![GitHub last commit](https://img.shields.io/github/last-commit/magenizr/Magenizr_ResetUiBookmarks)](https://github.com/magenizr/Magenizr_ResetUiBookmarks) - Allows admin users to reset their own UI bookmarks such as filter state, column positions and applied sorting (e.g. Sales > Orders).
 - [Product Links Navigator ![GitHub Repo Stars](https://img.shields.io/github/stars/elninotech/ElNino_ProductLinksNavigator) ![GitHub last commit](https://img.shields.io/github/last-commit/elninotech/ElNino_ProductLinksNavigator)](https://github.com/elninotech/ElNino_ProductLinksNavigator) - Enhances admin product-to-product navigation. Adds direct frontend/backend links to products in grids and modals, and a "Parent Products" tab.
-- [magento2-hyva-admin ![GitHub Repo Stars](https://img.shields.io/github/stars/hyva-themes/magento2-hyva-admin) ![GitHub last commit](https://img.shields.io/github/last-commit/hyva-themes/magento2-hyva-admin)](https://github.com/hyva-themes/magento2-hyva-admin) - This module aims to make creating grids and forms in the Magento 2 adminhtml area joyful and fast.
-- [theme-adminhtml-m137 ![GitHub Repo Stars](https://img.shields.io/github/stars/mage-os/theme-adminhtml-m137) ![GitHub last commit](https://img.shields.io/github/last-commit/mage-os/theme-adminhtml-m137)](https://github.com/mage-os/theme-adminhtml-m137) - M137 Admin Theme for Magento/Mage-OS
 
 <details>
 <summary>🪦 Graveyard — projects no longer recommended</summary>
@@ -300,12 +300,12 @@ The storefront of Magento 2 can be styled in numerous ways:
 ### Infrastructure
 
 - [Ethan3600/magento2-CronjobManager ![GitHub Repo Stars](https://img.shields.io/github/stars/Ethan3600/magento2-CronjobManager) ![GitHub last commit](https://img.shields.io/github/last-commit/Ethan3600/magento2-CronjobManager)](https://github.com/Ethan3600/magento2-CronjobManager) 🔥 - Cron Job Manager for Magento 2.
+- [module-theme-optimization ![GitHub Repo Stars](https://img.shields.io/github/stars/mage-os/module-theme-optimization) ![GitHub last commit](https://img.shields.io/github/last-commit/mage-os/module-theme-optimization)](https://github.com/mage-os/module-theme-optimization) 🫡 - bfcache, speculative loading, and view transitions for Magento
 - [Fastly Extension ![GitHub Repo Stars](https://img.shields.io/github/stars/fastly/fastly-magento2) ![GitHub last commit](https://img.shields.io/github/last-commit/fastly/fastly-magento2)](https://github.com/fastly/fastly-magento2) - Magento 2 Fastly integration.
 - [Interceptor Optimization ![GitHub Repo Stars](https://img.shields.io/github/stars/creatuity/magento2-interceptors) ![GitHub last commit](https://img.shields.io/github/last-commit/creatuity/magento2-interceptors)](https://github.com/creatuity/magento2-interceptors) - New interceptors approach for Magento 2.
 - [Clean Media ![GitHub Repo Stars](https://img.shields.io/github/stars/sivaschenko/magento2-clean-media) ![GitHub last commit](https://img.shields.io/github/last-commit/sivaschenko/magento2-clean-media)](https://github.com/sivaschenko/magento2-clean-media) - A module that provides information about media files and potential removal options.
 - [Magento 2 Ngrok ![GitHub Repo Stars](https://img.shields.io/github/stars/shkoliar/magento-ngrok) ![GitHub last commit](https://img.shields.io/github/last-commit/shkoliar/magento-ngrok)](https://github.com/shkoliar/magento-ngrok) - Magento 2 Ngrok Integration.
 - [magento-cache-clean ![GitHub Repo Stars](https://img.shields.io/github/stars/mage-os/magento-cache-clean) ![GitHub last commit](https://img.shields.io/github/last-commit/mage-os/magento-cache-clean)](https://github.com/mage-os/magento-cache-clean) - A faster drop in replacement for bin/magento cache:clean with file watcher
-- [module-theme-optimization ![GitHub Repo Stars](https://img.shields.io/github/stars/mage-os/module-theme-optimization) ![GitHub last commit](https://img.shields.io/github/last-commit/mage-os/module-theme-optimization)](https://github.com/mage-os/module-theme-optimization) - bfcache, speculative loading, and view transitions for Magento
 
 ### Proprietary Extensions
 
@@ -316,8 +316,8 @@ The storefront of Magento 2 can be styled in numerous ways:
 
 - [ScandiPWA Theme ![GitHub Repo Stars](https://img.shields.io/github/stars/scandipwa/base-theme) ![GitHub last commit](https://img.shields.io/github/last-commit/scandipwa/base-theme)](https://github.com/scandipwa/base-theme) - Magento 2.3+ PWA theme based on React and Redux.
 - [magento2-default-theme ![GitHub Repo Stars](https://img.shields.io/github/stars/hyva-themes/magento2-default-theme) ![GitHub last commit](https://img.shields.io/github/last-commit/hyva-themes/magento2-default-theme)](https://github.com/hyva-themes/magento2-default-theme) - A Magento theme built with Tailwind
-- [magento2-default-theme-csp ![GitHub Repo Stars](https://img.shields.io/github/stars/hyva-themes/magento2-default-theme-csp) ![GitHub last commit](https://img.shields.io/github/last-commit/hyva-themes/magento2-default-theme-csp)](https://github.com/hyva-themes/magento2-default-theme-csp) - A strict CSP compatible Magento theme built with Tailwind and Alpine.js
 - [magento2-theme-module ![GitHub Repo Stars](https://img.shields.io/github/stars/hyva-themes/magento2-theme-module) ![GitHub last commit](https://img.shields.io/github/last-commit/hyva-themes/magento2-theme-module)](https://github.com/hyva-themes/magento2-theme-module) - Magento Tailwind Theme companion module
+- [magento2-default-theme-csp ![GitHub Repo Stars](https://img.shields.io/github/stars/hyva-themes/magento2-default-theme-csp) ![GitHub last commit](https://img.shields.io/github/last-commit/hyva-themes/magento2-default-theme-csp)](https://github.com/hyva-themes/magento2-default-theme-csp) - A strict CSP compatible Magento theme built with Tailwind and Alpine.js
 
 ---
 
@@ -325,13 +325,14 @@ The storefront of Magento 2 can be styled in numerous ways:
 
 ### Personal Blogs
 
-- [Jigar Karangiya](https://jigarkarangiya.com/) - Personal blog on Magento 2 and Adobe Commerce development.
+
 
 <details>
 <summary>🪦 Graveyard — projects no longer recommended</summary>
 
 - [Alan Storm](http://alanstorm.com/category/magento-2/) - Deep Magento 2 technical writeups.
 - [Fabian Schmengler](https://www.schmengler-se.de/) - Personal blog covering Magento 2 architecture and process.
+- [Jigar Karangiya](https://jigarkarangiya.com/) - Personal blog on Magento 2 and Adobe Commerce development.
 
 </details>
 
