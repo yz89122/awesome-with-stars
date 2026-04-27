@@ -144,6 +144,7 @@ _Libraries for building AI applications, LLM integrations, and autonomous agents
   - [hermes-agent ![GitHub Repo Stars](https://img.shields.io/github/stars/nousresearch/hermes-agent) ![GitHub last commit](https://img.shields.io/github/last-commit/nousresearch/hermes-agent)](https://github.com/nousresearch/hermes-agent) - An adaptive AI agent framework that grows with you.
   - [langchain ![GitHub Repo Stars](https://img.shields.io/github/stars/langchain-ai/langchain) ![GitHub last commit](https://img.shields.io/github/last-commit/langchain-ai/langchain)](https://github.com/langchain-ai/langchain) - Building applications with LLMs through composability.
   - [openai-agents ![GitHub Repo Stars](https://img.shields.io/github/stars/openai/openai-agents-python) ![GitHub last commit](https://img.shields.io/github/last-commit/openai/openai-agents-python)](https://github.com/openai/openai-agents-python) - OpenAI's framework for building and managing AI agents.
+  - [OpenChronicle ![GitHub Repo Stars](https://img.shields.io/github/stars/Einsia/OpenChronicle) ![GitHub last commit](https://img.shields.io/github/last-commit/Einsia/OpenChronicle)](https://github.com/Einsia/OpenChronicle) - Open-source, local-first memory for any tool-capable LLM agent.
   - [pydantic-ai ![GitHub Repo Stars](https://img.shields.io/github/stars/pydantic/pydantic-ai) ![GitHub last commit](https://img.shields.io/github/last-commit/pydantic/pydantic-ai)](https://github.com/pydantic/pydantic-ai) - A Python agent framework for building generative AI applications with structured schemas.
   - [TradingAgents ![GitHub Repo Stars](https://img.shields.io/github/stars/TauricResearch/TradingAgents) ![GitHub last commit](https://img.shields.io/github/last-commit/TauricResearch/TradingAgents)](https://github.com/TauricResearch/TradingAgents) - A multi-agents LLM financial trading framework.
 - Data Layer
@@ -1029,6 +1030,7 @@ _Libraries for working with dates and times._
 
 _Libraries for Python version and virtual environment management._
 
+- [KillPy ![GitHub Repo Stars](https://img.shields.io/github/stars/Tlaloc-Es/killpy) ![GitHub last commit](https://img.shields.io/github/last-commit/Tlaloc-Es/killpy)](https://github.com/Tlaloc-Es/killpy) - Analyze, detect, and clean unused Python environments and pipx packages.
 - [pyenv ![GitHub Repo Stars](https://img.shields.io/github/stars/pyenv/pyenv) ![GitHub last commit](https://img.shields.io/github/last-commit/pyenv/pyenv)](https://github.com/pyenv/pyenv) - Simple Python version management.
 - [pyenv-win ![GitHub Repo Stars](https://img.shields.io/github/stars/pyenv-win/pyenv-win) ![GitHub last commit](https://img.shields.io/github/last-commit/pyenv-win/pyenv-win)](https://github.com/pyenv-win/pyenv-win) - Pyenv for Windows.
 - [uv ![GitHub Repo Stars](https://img.shields.io/github/stars/astral-sh/uv) ![GitHub last commit](https://img.shields.io/github/last-commit/astral-sh/uv)](https://github.com/astral-sh/uv) - An extremely fast Python version, package and project manager, written in Rust.
