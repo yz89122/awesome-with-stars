@@ -439,7 +439,7 @@ The old *OpenID* is dead; the new *OpenID Connect* is very much not-dead.
 
 - [Hidden OAuth attack vectors](https://portswigger.net/web-security/oauth) - How to identify and exploit some of the key vulnerabilities found in OAuth 2.0 authentication mechanisms.
 
-- [PKCE Explained](https://www.loginradius.com/blog/engineering/pkce/) - “PKCE is used to provide one more security layer to the authorization code flow in OAuth and OpenID Connect.”
+- [PKCE Explained](https://www.loginradius.com/blog/engineering/pkce/) - ���PKCE is used to provide one more security layer to the authorization code flow in OAuth and OpenID Connect.”
 
 - [Hydra ![GitHub Repo Stars](https://img.shields.io/github/stars/ory/hydra) ![GitHub last commit](https://img.shields.io/github/last-commit/ory/hydra)](https://github.com/ory/hydra) - 💸 Open-source OIDC & OAuth2 Server Provider.
 
