@@ -304,8 +304,6 @@ List of questions that can be used when vetting potential candidates, and topics
 
 - [Back-End Developer Interview Questions ![GitHub Repo Stars](https://img.shields.io/github/stars/arialdomartini/Back-End-Developer-Interview-Questions) ![GitHub last commit](https://img.shields.io/github/last-commit/arialdomartini/Back-End-Developer-Interview-Questions)](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions) - A great source of inspiration.
 
-- [Engineering Leadership Interviews ![GitHub Repo Stars](https://img.shields.io/github/stars/kaushikb9/em-interviews) ![GitHub last commit](https://img.shields.io/github/last-commit/kaushikb9/em-interviews)](https://github.com/kaushikb9/em-interviews) - An outline on how to recruit for engineering manager roles.
-
 - [Reverse interview ![GitHub Repo Stars](https://img.shields.io/github/stars/viraptor/reverse-interview) ![GitHub last commit](https://img.shields.io/github/last-commit/viraptor/reverse-interview)](https://github.com/viraptor/reverse-interview) - Questions to ask the company during your interview. Be prepared to answer them as a manager.
 
 - [Culture Queries](https://www.keyvalues.com/culture-queries) - A sample of question to ask in job interviews to try to understand the values of a company.
@@ -422,7 +420,7 @@ Expansive lists of well-known models and concepts.
 
 - [Mental Models I Find Repeatedly Useful](https://medium.com/@yegg/mental-models-i-find-repeatedly-useful-936f1cc405d#.qb3gkdmtk) - Huge compiled list of mental models. Became the basis of book.
 
-- [Tools for better thinking](https://untools.co) - “Collection of thinking tools and frameworks to help you solve problems, make decisions and understand systems.”
+- [Tools for better thinking](https://untools.co) - 🆓 “Collection of thinking tools and frameworks to help you solve problems, make decisions and understand systems.”
 
 - [A Few Rules](https://www.collaborativefund.com/blog/a-few-rules/) - A formalized list of some wisdom you probably encountered elsewhere.
 
@@ -644,8 +642,6 @@ On interviewing for a PM position. And how to conduct an interview to assess a P
 
 - [What Everybody Ought To Know About The Product Manager Case Interview](http://www.venturegrit.com/what-everybody-ought-to-know-about-the-product-manager-case-interview/)
 
-- [What are frequently asked questions in product manager interviews?](https://www.quora.com/What-are-frequently-asked-questions-in-product-manager-interviews)
-
 ### Product-Market Fit
 
 The first step to validate your product: is the market finding interest in your venture?
@@ -802,7 +798,7 @@ On mentoring, education and learning.
 
 - [What Medieval People Got Right About Learning](https://www.scotthyoung.com/blog/2019/06/07/apprenticeships/) - “Why apprenticeships beat classrooms”.
 
-- [Developer Roadmaps](https://roadmap.sh/roadmaps) - Very high-level guides and paths to learn different practice and tools.
+- [Developer Roadmaps](https://roadmap.sh/roadmaps) - 💸 Very high-level guides and paths to learn different practice and tools.
 
 ## Communication
 
@@ -932,9 +928,7 @@ It's not only about the salary, but the whole package: equity, bonuses, perks, a
 
 ### Salary
 
-- [levels.fyi](https://www.levels.fyi) - Compares salary range and compensation charts across big tech companies.
-
-- [benefits.fyi](https://benefits.fyi) - Same as above, but trying to evaluate the values of benefits across companies.
+- [levels.fyi](https://www.levels.fyi) - 💸 Compares salary range, compensation charts, and benefits across big tech companies.
 
 - [L8-L10 salaries at AWS](https://news.ycombinator.com/item?id=21823987) - A reference point to what \$M+ compensation packages looks like.
 
