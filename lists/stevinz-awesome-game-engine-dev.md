@@ -706,7 +706,7 @@ _Language specific game engine development libraries / frameworks / code._
 - Haxe: Libraries
     - 📚 [HaxeLibs](https://lib.haxe.org/all) - List of every library uploaded to the Haxe website.
     - 📚 [HaxeTink](https://github.com/haxetink) - Various addon libraries for Haxe.
-    - 🌎 [Snowkit](https://github.com/snowkit) - Collective of Haxe developers.
+    - ��� [Snowkit](https://github.com/snowkit) - Collective of Haxe developers.
 - Haxe: Physics
     - 🎉 [Haxe Bullet ![GitHub Repo Stars](https://img.shields.io/github/stars/armory3d/haxebullet) ![GitHub last commit](https://img.shields.io/github/last-commit/armory3d/haxebullet)](https://github.com/armory3d/haxebullet) - _Bullet 3D_ physics bindings for Haxe.
     - 🎉 [HeapsIO/bullet ![GitHub Repo Stars](https://img.shields.io/github/stars/HeapsIO/bullet) ![GitHub last commit](https://img.shields.io/github/last-commit/HeapsIO/bullet)](https://github.com/HeapsIO/bullet) - _Bullet 3D_ physics for _Heaps_ (Haxe's native low-level game framework).
@@ -867,7 +867,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [LUME ![GitHub Repo Stars](https://img.shields.io/github/stars/lume/lume) ![GitHub last commit](https://img.shields.io/github/last-commit/lume/lume)](https://github.com/lume/lume) - Simplifies the creation of interactive 2D/3D experiences.
     - ⭐ [OGL ![GitHub Repo Stars](https://img.shields.io/github/stars/oframe/ogl) ![GitHub last commit](https://img.shields.io/github/last-commit/oframe/ogl)](https://github.com/oframe/ogl) 🔥 - Fast, powerful, minimal WebGL library. [[Examples](https://oframe.github.io/ogl/examples)]
     - 🎉 [PicoGL.js ![GitHub Repo Stars](https://img.shields.io/github/stars/tsherif/picogl.js) ![GitHub last commit](https://img.shields.io/github/last-commit/tsherif/picogl.js)](https://github.com/tsherif/picogl.js) - Minimal WebGL 2 rendering library. [[Examples](https://tsherif.github.io/picogl.js/)]
-    - �� [Pixi3D ![GitHub Repo Stars](https://img.shields.io/github/stars/jnsmalm/pixi3d) ![GitHub last commit](https://img.shields.io/github/last-commit/jnsmalm/pixi3d)](https://github.com/jnsmalm/pixi3d) - 3D renderer for _PixiJS_, seamless integration with 2D apps. [[Examples](https://pixi3d.org/)]
+    - 🎉 [Pixi3D ![GitHub Repo Stars](https://img.shields.io/github/stars/jnsmalm/pixi3d) ![GitHub last commit](https://img.shields.io/github/last-commit/jnsmalm/pixi3d)](https://github.com/jnsmalm/pixi3d) - 3D renderer for _PixiJS_, seamless integration with 2D apps. [[Examples](https://pixi3d.org/)]
     - 🎉 [RedGL ![GitHub Repo Stars](https://img.shields.io/github/stars/redcamel/RedGL2) ![GitHub last commit](https://img.shields.io/github/last-commit/redcamel/RedGL2)](https://github.com/redcamel/RedGL2) - JavaScript 3D WebGL library.
     - 🎉 [Regl ![GitHub Repo Stars](https://img.shields.io/github/stars/regl-project/regl) ![GitHub last commit](https://img.shields.io/github/last-commit/regl-project/regl)](https://github.com/regl-project/regl) - Fast functional WebGL.
     - 🎉 [SwissGL ![GitHub Repo Stars](https://img.shields.io/github/stars/google/swissgl) ![GitHub last commit](https://img.shields.io/github/last-commit/google/swissgl)](https://github.com/google/swissgl) - Minimalistic wrapper on top of WebGL2.
