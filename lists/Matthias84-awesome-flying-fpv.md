@@ -360,7 +360,7 @@ Dedicated drones and toolchains to help on a dedicated topic
 
 ## Security & Safety 🪂
 
-### Simulators 🌐
+### Simulators ���
 
 Before you damage any hardware you can learn to avoid common pitfalls and train by virtual flights using your handhelt TX. Other allow to test / benchmark autopilots to work in controlled environments.
 
@@ -458,7 +458,7 @@ Depending on the country you live in, the laws and legal rules of airspace may v
 * [Bundesnetzagentur](https://www.bundesnetzagentur.de/DE/Sachgebiete/Telekommunikation/Unternehmen_Institutionen/Frequenzen/Grundlagen/Frequenzplan/frequenzplan-node.html) - 🇩🇪 Zulässige Sendefrequenzen und -Leistungen.
 
 * [Urząd Lotnictwa Cywilnego](https://drony.ulc.gov.pl) - 🇵🇱 Urząd Lotnictwa Cywilnego - allows to apply for license in Poland and EU
-* [Bezzałogowe Statki Powietrzne](https://ulc.gov.pl/pl/drony) - ����🇱 List of regulations regarding operations of UAV in Poland
+* [Bezzałogowe Statki Powietrzne](https://ulc.gov.pl/pl/drony) - 🇵🇱 List of regulations regarding operations of UAV in Poland
 
 ## Communities 🗣️
 
