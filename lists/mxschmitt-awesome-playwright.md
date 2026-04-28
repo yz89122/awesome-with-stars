@@ -51,6 +51,7 @@
 - [eslint-plugin-playwright ![GitHub Repo Stars](https://img.shields.io/github/stars/playwright-community/eslint-plugin-playwright) ![GitHub last commit](https://img.shields.io/github/last-commit/playwright-community/eslint-plugin-playwright)](https://github.com/playwright-community/eslint-plugin-playwright) - ESLint plugin for your Playwright testing needs.
 - [@global-cache/Playwright ![GitHub Repo Stars](https://img.shields.io/github/stars/vitalets/global-cache) ![GitHub last commit](https://img.shields.io/github/last-commit/vitalets/global-cache)](https://github.com/vitalets/global-cache) - A key-value cache for sharing data between parallel workers and test runs.
 - [Heroshot ![GitHub Repo Stars](https://img.shields.io/github/stars/omachala/heroshot) ![GitHub last commit](https://img.shields.io/github/last-commit/omachala/heroshot)](https://github.com/omachala/heroshot) - Documentation screenshot automation. Visual picker to define screenshots, one command to regenerate them all.
+- [Libretto ![GitHub Repo Stars](https://img.shields.io/github/stars/saffron-health/libretto) ![GitHub last commit](https://img.shields.io/github/last-commit/saffron-health/libretto)](https://github.com/saffron-health/libretto) - Open-source Playwright-based toolkit and CLI for coding agents to inspect pages, capture network traffic, and generate automation scripts.
 - [Moon ![GitHub Repo Stars](https://img.shields.io/github/stars/aerokube/moon) ![GitHub last commit](https://img.shields.io/github/last-commit/aerokube/moon)](https://github.com/aerokube/moon) - Tools for executing Playwright tests in parallel in a Kubernetes cluster.
 - [octomind.dev](https://octomind.dev) - Auto-generated, run & maintained with AI-assisted test case discovery.
 - [playwright-best-practices-skill ![GitHub Repo Stars](https://img.shields.io/github/stars/currents-dev/playwright-best-practices-skill) ![GitHub last commit](https://img.shields.io/github/last-commit/currents-dev/playwright-best-practices-skill)](https://github.com/currents-dev/playwright-best-practices-skill) - AI Skill to make agents experts at writing, debugging and maintaining Playwright tests.
@@ -84,6 +85,7 @@
 - [qase ![GitHub Repo Stars](https://img.shields.io/github/stars/qase-tms/qase-javascript) ![GitHub last commit](https://img.shields.io/github/last-commit/qase-tms/qase-javascript)](https://github.com/qase-tms/qase-javascript/tree/main/qase-playwright) - Playwright Qase Reporter, send test executions to [qase](https://qase.io).
 - [TestDino](https://testdino.com) - An AI Cloud platform for Playwright test analytics with instant failure debugging, flaky test detection, and ML categorization.
 - [testomatio-reporter ![GitHub Repo Stars](https://img.shields.io/github/stars/testomatio/reporter) ![GitHub last commit](https://img.shields.io/github/last-commit/testomatio/reporter)](https://github.com/testomatio/reporter) - Runs and sends test executions to the TCMS testomatio, Jira / Linear / Azure DevOps task management.
+- [playwright-timeline-reporter ![GitHub Repo Stars](https://img.shields.io/github/stars/vitalets/playwright-timeline-reporter) ![GitHub last commit](https://img.shields.io/github/last-commit/vitalets/playwright-timeline-reporter)](https://github.com/vitalets/playwright-timeline-reporter) - An interactive timeline reporter to optimize your test run performance and worker utilization.
 
 ## Showcases
 
@@ -104,4 +106,4 @@
 
 ## Contribute
 
-Contributions welcome! Read the [contribution guidelines ![GitHub Repo Stars](https://img.shields.io/github/stars/mxschmitt/awesome-playwright) ![GitHub last commit](https://img.shields.io/github/last-commit/mxschmitt/awesome-playwright)](https://github.com/mxschmitt/awesome-playwright/blob/master/CONTRIBUTING.md) first.
+Contributions welcome! Read the [contribution guidelines ![GitHub Repo Stars](https://img.shields.io/github/stars/mxschmitt/awesome-playwright) ![GitHub last commit](https://img.shields.io/github/last-commit/mxschmitt/awesome-playwright)](https://github.com/mxschmitt/awesome-playwright/blob/main/CONTRIBUTING.md) first.
