@@ -56,6 +56,7 @@
 - [FastAPI ![GitHub Repo Stars](https://img.shields.io/github/stars/hxjo/fastapi-inertia) ![GitHub last commit](https://img.shields.io/github/last-commit/hxjo/fastapi-inertia)](https://github.com/hxjo/fastapi-inertia)
 - [Grails ![GitHub Repo Stars](https://img.shields.io/github/stars/matrei/grails-inertia-plugin) ![GitHub last commit](https://img.shields.io/github/last-commit/matrei/grails-inertia-plugin)](https://github.com/matrei/grails-inertia-plugin)
 - [Flask ![GitHub Repo Stars](https://img.shields.io/github/stars/j0ack/flask-inertia) ![GitHub last commit](https://img.shields.io/github/last-commit/j0ack/flask-inertia)](https://github.com/j0ack/flask-inertia)
+- [Symfony ![GitHub Repo Stars](https://img.shields.io/github/stars/nytodev/inertia-bundle) ![GitHub last commit](https://img.shields.io/github/last-commit/nytodev/inertia-bundle)](https://github.com/nytodev/inertia-bundle)
 
 ## Resources
 
