@@ -248,7 +248,7 @@ Things that work with project files or GameMaker itself rather than being someth
 ## Physics
 
 - [Loj Hadron Collider ![GitHub Repo Stars](https://img.shields.io/github/stars/Lojemiru/Loj-Hadron-Collider) ![GitHub last commit](https://img.shields.io/github/last-commit/Lojemiru/Loj-Hadron-Collider)](https://github.com/Lojemiru/Loj-Hadron-Collider) - A robust, pixel-perfect collision engine.
-- [On Slopes and Grids](https://forum.yoyogames.com/index.php?threads/on-slopes-and-grids-subpixel-perfect-topdown-movement-and-collision-line-without-objects.4073/) - A tutorial to implement 45�� slopes.
+- [On Slopes and Grids](https://forum.yoyogames.com/index.php?threads/on-slopes-and-grids-subpixel-perfect-topdown-movement-and-collision-line-without-objects.4073/) - A tutorial to implement 45° slopes.
 - [GMS2 Platforming System](https://benal.itch.io/basic-modern-platforming-system) - GameMaker implementation by Ben Allen and an expansion on Shaun Spalding's original 1.4 platformer tutorial.
 - [Inverse Kinematics Extension ![GitHub Repo Stars](https://img.shields.io/github/stars/tonystr/Inverse-Kinematics-Extension-for-Gamemaker) ![GitHub last commit](https://img.shields.io/github/last-commit/tonystr/Inverse-Kinematics-Extension-for-Gamemaker)](https://github.com/tonystr/Inverse-Kinematics-Extension-for-Gamemaker) - A library for working with inverse kinematics.
 - [Verlet Integration Library](https://jamjamteam.itch.io/verlet-integration-gamemake-studio-2) - Verlet integration by Sarek Lambert.

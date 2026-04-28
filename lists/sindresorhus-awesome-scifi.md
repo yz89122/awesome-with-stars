@@ -183,7 +183,7 @@ I think what is most fascinating about Dune isn't that it is so commonly read, b
   > Published in 1965, it won the Hugo Award in 1966 and the inaugural Nebula Award for Best Novel. _Dune_ is frequently cited as the world’s best-selling SF novel.
 </details>
 
-#### [Embassytown](https://www.goodreads.com/book/show/9265453-embassytown) (2011) _by [China Mi��ville](https://en.wikipedia.org/wiki/China_Mi%C3%A9ville)_ [3.8]
+#### [Embassytown](https://www.goodreads.com/book/show/9265453-embassytown) (2011) _by [China Miéville](https://en.wikipedia.org/wiki/China_Mi%C3%A9ville)_ [3.8]
 
 <details>
   <summary>Description</summary>
