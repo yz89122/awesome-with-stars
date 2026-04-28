@@ -389,6 +389,7 @@ Here's a quick overview of the categories covered in this collection:
 
 ## Miscellaneous
 
+- [Fontaine ![GitHub Repo Stars](https://img.shields.io/github/stars/unjs/fontaine) ![GitHub last commit](https://img.shields.io/github/last-commit/unjs/fontaine)](https://github.com/unjs/fontaine) - Automatic font fallback based on font metrics to reduce Cumulative Layout Shift (CLS) caused by web font loading.
 - [Socialite.js](http://socialitejs.com/) - Socialite provides a very easy way to implement and activate a plethora of social sharing buttons — any time you wish. On document load, on article hover, on any event.
 - [uCSS ![GitHub Repo Stars](https://img.shields.io/github/stars/oyvindeh/ucss) ![GitHub last commit](https://img.shields.io/github/last-commit/oyvindeh/ucss)](https://github.com/oyvindeh/ucss) - Crawls large sites to find unused CSS selectors (does not remove unused CSS).
 - [HTTPinvoke ![GitHub Repo Stars](https://img.shields.io/github/stars/jakutis/httpinvoke) ![GitHub last commit](https://img.shields.io/github/last-commit/jakutis/httpinvoke)](https://github.com/jakutis/httpinvoke) - A no-dependencies HTTP client library for browsers and Node.js with a promise-based or Node.js-style callback-based API to progress events, text, and binary file upload and download, partial response body, request and response headers, status code.
