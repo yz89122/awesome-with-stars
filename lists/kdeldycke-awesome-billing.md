@@ -7,6 +7,20 @@
 </p>
 
 <p align="center">
+  <a href="https://credyt.ai/?utm_source=awesome-billing&utm_medium=referral&utm_campaign=awesome-billing-oss-sponsorship">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kdeldycke/awesome-billing/main/assets/credyt-logo-dark-background.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kdeldycke/awesome-billing/main/assets/credyt-logo-light-background.svg">
+      <img width="300" src="https://raw.githubusercontent.com/kdeldycke/awesome-billing/main/assets/credyt-logo-light-background.svg">
+    </picture>
+    <br/>
+    <strong>Real-time monetization infrastructure for AI.</strong><br/>
+    Usage-based metering, prepaid wallets, and a drop-in billing portal for AI products.
+  </a>
+  <br/><br/>
+</p>
+
+<p align="center">
   <a href="https://github.com/sponsors/kdeldycke">
     <strong>Your brand → here 🚀</strong>
     <br/>
