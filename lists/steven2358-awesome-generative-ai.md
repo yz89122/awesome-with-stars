@@ -157,11 +157,11 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 
 ### Leaderboards
 
-- [Chatbot Arena](https://lmarena.ai/) - An open platform for crowdsourced AI benchmarking, hosted by researchers at UC Berkeley SkyLab and LMArena.
+- [Arena](https://arena.ai/) - An open platform for crowdsourced AI benchmarking, hosted by researchers at UC Berkeley SkyLab.
 - [Artificial Analysis](https://artificialanalysis.ai/) - Artificial Analysis provides objective benchmarks & information to help choose AI models and hosting providers.
 - [imgsys](https://imgsys.org/rankings) - A generative image model arena by fal.ai.
 - [OpenRouter LLM Rankings](https://openrouter.ai/rankings) - Language models ranked and analyzed by usage across apps.
-- [SEAL LLM Leaderboard](https://scale.com/leaderboard) - Expert-driven LLM benchmarks and updated AI model leaderboards.
+- [SEAL LLM Leaderboard](https://labs.scale.com/leaderboard) - Expert-driven LLM benchmarks and updated AI model leaderboards.
 - [LLM Stats](https://llm-stats.com/) - Compare AI models across benchmarks, pricing, speed, and context window.
 
 ### Other text generators
@@ -180,15 +180,13 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [tabnine](https://www.tabnine.com/) - Code faster with whole-line & full-function code completions.
 - [Stenography](https://stenography.dev/) - Automatic code documentation.
 - [Mintlify](https://mintlify.com/) - AI powered documentation writer.
-- [Debuild](https://debuild.app/) - AI-powered low-code tool for web apps.
 - [AI2sql](https://www.ai2sql.io/) - With AI2sql, engineers and non-engineers can easily write efficient, error-free SQL queries without knowing SQL.
-- [CodiumAI](https://www.codium.ai/) - With CodiumAI, you get non-trivial tests suggested right inside your IDE, so you stay confident when you push.
-- [PR-Agent ![GitHub Repo Stars](https://img.shields.io/github/stars/Codium-ai/pr-agent) ![GitHub last commit](https://img.shields.io/github/last-commit/Codium-ai/pr-agent)](https://github.com/Codium-ai/pr-agent) - AI-powered tool for automated PR analysis, feedback, suggestions and more.
-- [MutableAI](https://mutable.ai/) - AI Accelerated Software Development.
+- [Qodo](https://www.qodo.ai/) - AI code review tool with agentic workflows for IDEs, pull requests, and security.
+- [PR-Agent ![GitHub Repo Stars](https://img.shields.io/github/stars/The-PR-Agent/pr-agent) ![GitHub last commit](https://img.shields.io/github/last-commit/The-PR-Agent/pr-agent)](https://github.com/The-PR-Agent/pr-agent) - AI-powered tool for automated PR analysis, feedback, suggestions and more.
 - [TurboPilot ![GitHub Repo Stars](https://img.shields.io/github/stars/ravenscroftj/turbopilot) ![GitHub last commit](https://img.shields.io/github/last-commit/ravenscroftj/turbopilot)](https://github.com/ravenscroftj/turbopilot) - A self-hosted copilot clone which uses the library behind llama.cpp to run the 6 billion parameter Salesforce Codegen model in 4 GB of RAM.
 - [GPT-Code UI ![GitHub Repo Stars](https://img.shields.io/github/stars/ricklamers/gpt-code-ui) ![GitHub last commit](https://img.shields.io/github/last-commit/ricklamers/gpt-code-ui)](https://github.com/ricklamers/gpt-code-ui) - An open source implementation of OpenAI's ChatGPT Code interpreter. #opensource
-- [MetaGPT ![GitHub Repo Stars](https://img.shields.io/github/stars/geekan/MetaGPT) ![GitHub last commit](https://img.shields.io/github/last-commit/geekan/MetaGPT)](https://github.com/geekan/MetaGPT) - The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo
-- [Open Interpreter ![GitHub Repo Stars](https://img.shields.io/github/stars/KillianLucas/open-interpreter) ![GitHub last commit](https://img.shields.io/github/last-commit/KillianLucas/open-interpreter)](https://github.com/KillianLucas/open-interpreter) - OpenAI's Code Interpreter in your terminal, running locally.
+- [MetaGPT ![GitHub Repo Stars](https://img.shields.io/github/stars/FoundationAgents/MetaGPT) ![GitHub last commit](https://img.shields.io/github/last-commit/FoundationAgents/MetaGPT)](https://github.com/FoundationAgents/MetaGPT) - The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo
+- [Open Interpreter ![GitHub Repo Stars](https://img.shields.io/github/stars/openinterpreter/open-interpreter) ![GitHub last commit](https://img.shields.io/github/last-commit/openinterpreter/open-interpreter)](https://github.com/openinterpreter/open-interpreter) - OpenAI's Code Interpreter in your terminal, running locally.
 - [Continue](https://www.continue.dev/) - Open-source AI code assistant. Connect any model and any context to create custom autocomplete and chat experiences inside the IDE. [#opensource ![GitHub Repo Stars](https://img.shields.io/github/stars/continuedev/continue) ![GitHub last commit](https://img.shields.io/github/last-commit/continuedev/continue)](https://github.com/continuedev/continue)
 - [RooCode ![GitHub Repo Stars](https://img.shields.io/github/stars/RooCodeInc/Roo-Code) ![GitHub last commit](https://img.shields.io/github/last-commit/RooCodeInc/Roo-Code)](https://github.com/RooCodeInc/Roo-Code) - An AI-powered autonomous coding agent integrated directly into VS Code. [#opensource ![GitHub Repo Stars](https://img.shields.io/github/stars/RooCodeInc/Roo-Code) ![GitHub last commit](https://img.shields.io/github/last-commit/RooCodeInc/Roo-Code)](https://github.com/RooCodeInc/Roo-Code)
 - [Windsurf](https://windsurf.com/) - An AI-native IDE that combines code editing with advanced AI assistance throughout the development process.
@@ -198,7 +196,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [v0](https://v0.dev) - Prompt-driven UI generation for React and Next.js, creating production-ready components.
 - [Lovable](https://lovable.dev) - Conversational full-stack app generation, turning ideas into deployable code.
 - [aider](https://aider.chat/) - AI pair programming in your terminal, supporting multiple LLM providers. [#opensource ![GitHub Repo Stars](https://img.shields.io/github/stars/paul-gauthier/aider) ![GitHub last commit](https://img.shields.io/github/last-commit/paul-gauthier/aider)](https://github.com/paul-gauthier/aider)
-- [Kilo Code](https://kilocode.ai) - Open-source AI coding assistant for VS Code, JetBrains, and the CLI. [#opensource ![GitHub Repo Stars](https://img.shields.io/github/stars/Kilo-Org/kilocode) ![GitHub last commit](https://img.shields.io/github/last-commit/Kilo-Org/kilocode)](https://github.com/Kilo-Org/kilocode)
+- [Kilo](https://kilo.ai/) - Open-source AI coding assistant for VS Code, JetBrains, and the CLI. [#opensource ![GitHub Repo Stars](https://img.shields.io/github/stars/Kilo-Org/kilocode) ![GitHub last commit](https://img.shields.io/github/last-commit/Kilo-Org/kilocode)](https://github.com/Kilo-Org/kilocode)
 
 ### Developer tools
 
