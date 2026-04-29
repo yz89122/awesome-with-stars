@@ -485,7 +485,7 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 
 ### Tools
 
-- [Backlight](https://backlight.dev/) �� With collaboration between developers and designers at heart, Backlight is a very complete coding platform where teams build, document, publish, scale and maintain Design Systems.
+- [Backlight](https://backlight.dev/) — With collaboration between developers and designers at heart, Backlight is a very complete coding platform where teams build, document, publish, scale and maintain Design Systems.
 - [Custom Elements Locator ![GitHub Repo Stars](https://img.shields.io/github/stars/open-wc/locator) ![GitHub last commit](https://img.shields.io/github/last-commit/open-wc/locator)](https://github.com/open-wc/locator) - Chrome extension to find custom elements on a page.
 - [@storybook/web-components](https://www.npmjs.com/package/@storybook/web-components) - UI development environment for plain web-component snippets.
 - [webcomponents.dev](https://webcomponents.dev) - Component IDE for web platform developers.
