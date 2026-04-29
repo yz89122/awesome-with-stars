@@ -179,7 +179,8 @@ Additional lists you might find useful:
 *Image processing and manipulation libraries.*
 
 - [ADmad/Glide plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/ADmad/cakephp-glide) ![GitHub last commit](https://img.shields.io/github/last-commit/ADmad/cakephp-glide)](https://github.com/ADmad/cakephp-glide) - A plugin for using [Glide](https://glide.thephpleague.com/) image manipulation library.
-- [QrCodePlugin ![GitHub Repo Stars](https://img.shields.io/github/stars/dereuromark/cakephp-qrcode) ![GitHub last commit](https://img.shields.io/github/last-commit/dereuromark/cakephp-qrcode)](https://github.com/dereuromark/cakephp-qrcode/) - Easily render SVG/PNG QR Codes for your app.
+- [file-storage-image-processor ![GitHub Repo Stars](https://img.shields.io/github/stars/php-collective/file-storage-image-processor) ![GitHub last commit](https://img.shields.io/github/last-commit/php-collective/file-storage-image-processor)](https://github.com/php-collective/file-storage-image-processor) as `intervention/image` wrapper through [FileStorage plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/dereuromark/cakephp-file-storage) ![GitHub last commit](https://img.shields.io/github/last-commit/dereuromark/cakephp-file-storage)](https://github.com/dereuromark/cakephp-file-storage).
+- [QrCode plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/dereuromark/cakephp-qrcode) ![GitHub last commit](https://img.shields.io/github/last-commit/dereuromark/cakephp-qrcode)](https://github.com/dereuromark/cakephp-qrcode/) - Easily render SVG/PNG QR Codes for your app.
 
 ### Libs
 *Useful libraries or tools that don't fit in any of the other categories.*
@@ -220,6 +221,7 @@ Additional lists you might find useful:
 - [Setup:Maintenance ![GitHub Repo Stars](https://img.shields.io/github/stars/dereuromark/cakephp-setup) ![GitHub last commit](https://img.shields.io/github/last-commit/dereuromark/cakephp-setup)](https://github.com/dereuromark/cakephp-setup/blob/master/docs/Maintenance/Maintenance.md) - Maintenance shell to go into maintenance mode for all requests with optional IP whitelisting.
 - [Shim plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/dereuromark/cakephp-shim) ![GitHub last commit](https://img.shields.io/github/last-commit/dereuromark/cakephp-shim)](https://github.com/dereuromark/cakephp-shim) - A plugin containing useful shims and improvements as basis for your application.
 - [Tools plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/dereuromark/cakephp-tools) ![GitHub last commit](https://img.shields.io/github/last-commit/dereuromark/cakephp-tools)](https://github.com/dereuromark/cakephp-tools) - Containing lots of useful helpers, behaviors, components, commands, helpers, libs and more.
+- [Workflow plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/dereuromark/cakephp-workflow) ![GitHub last commit](https://img.shields.io/github/last-commit/dereuromark/cakephp-workflow)](https://github.com/dereuromark/cakephp-workflow) - Batteries-included state machine plugin with PHP 8 attributes, YAML config, audit trails, and visual admin dashboard.
 
 ### Navigation
 *Building navigation structures.*

@@ -1357,6 +1357,7 @@ _Detect when components enter viewport_
 - [v-route-generate ![GitHub Repo Stars](https://img.shields.io/github/stars/weiquanju/v-route-generate) ![GitHub last commit](https://img.shields.io/github/last-commit/weiquanju/v-route-generate)](https://github.com/weiquanju/v-route-generate) - A tool to generate routes for vue-router 4.x.
 - [kitbag/router ![GitHub Repo Stars](https://img.shields.io/github/stars/kitbagjs/router) ![GitHub last commit](https://img.shields.io/github/last-commit/kitbagjs/router)](https://github.com/kitbagjs/router) - A type safe router for vuejs
 - [unplugin-vue-router ![GitHub Repo Stars](https://img.shields.io/github/stars/posva/unplugin-vue-router) ![GitHub last commit](https://img.shields.io/github/last-commit/posva/unplugin-vue-router)](https://github.com/posva/unplugin-vue-router) - Next Generation file based typed routing for Vue Router.
+- [vite-plugin-vue-middleware ![GitHub Repo Stars](https://img.shields.io/github/stars/awdr74100/vite-plugin-vue-middleware) ![GitHub last commit](https://img.shields.io/github/last-commit/awdr74100/vite-plugin-vue-middleware)](https://github.com/awdr74100/vite-plugin-vue-middleware) - File-based navigation guards for Vue Router
 
 #### Lazy Load
 
