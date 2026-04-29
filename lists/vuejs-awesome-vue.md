@@ -144,7 +144,7 @@ Resource from plugin:github:github at repo://vuejs/awesome-vue/sha/14fa265df1bd0
       - [Emacs](#emacs)
   - [Scaffold](#scaffold)
     - [Universal](#universal)
-    - [Electron](#electron)
+    - [Desktop](#desktop)
   - [Prerendering](#prerendering)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -839,7 +839,7 @@ _Set of components + responsive layout system_
 - [Prefect Design](https://prefect-design.netlify.app/) - Component library using Vue 3, Typescript & Tailwind.
 - [Stellar UI ![GitHub Repo Stars](https://img.shields.io/github/stars/ManukMinasyan/stellar-ui) ![GitHub last commit](https://img.shields.io/github/last-commit/ManukMinasyan/stellar-ui)](https://github.com/ManukMinasyan/stellar-ui) - Fully styled and customizable components for Vue 3.
 - [Shadcn UI ![GitHub Repo Stars](https://img.shields.io/github/stars/radix-vue/shadcn-vue) ![GitHub last commit](https://img.shields.io/github/last-commit/radix-vue/shadcn-vue)](https://github.com/radix-vue/shadcn-vue) - An unofficial, community-led Vue port of [shadcn/ui ![GitHub Repo Stars](https://img.shields.io/github/stars/shadcn-ui/ui) ![GitHub last commit](https://img.shields.io/github/last-commit/shadcn-ui/ui)](https://github.com/shadcn-ui/ui) (re-usable components built with [Radix Vue ![GitHub Repo Stars](https://img.shields.io/github/stars/radix-vue/radix-vue) ![GitHub last commit](https://img.shields.io/github/last-commit/radix-vue/radix-vue)](https://github.com/radix-vue/radix-vue) and [Tailwind CSS ![GitHub Repo Stars](https://img.shields.io/github/stars/tailwindlabs/tailwindcss) ![GitHub last commit](https://img.shields.io/github/last-commit/tailwindlabs/tailwindcss)](https://github.com/tailwindlabs/tailwindcss)).
-- [BoldKit ![GitHub Repo Stars](https://img.shields.io/github/stars/ANIBIT14/boldkit) ![GitHub last commit](https://img.shields.io/github/last-commit/ANIBIT14/boldkit)](https://github.com/ANIBIT14/boldkit) - A neubrutalism-styled Vue 3 & Nuxt component library with 45+ components, 35 SVG shapes, and charts. Built on Reka UI and compatible with shadcn-vue CLI.
+- [BoldKit](https://boldkit.dev) - A neubrutalism component library for Vue 3 & Nuxt with 55+ components, 10 chart types, 64 SVG shapes, and 17 animated ASCII shapes. Built on Reka UI, compatible with shadcn-vue CLI.
 - [Inspira UI](https://inspira-ui.com/) - Open Source components to build stunning animated interfaces effortlessly using Vue, Nuxt and Tailwind CSS.
 - [flowbite-vue ![GitHub Repo Stars](https://img.shields.io/github/stars/themesberg/flowbite-vue) ![GitHub last commit](https://img.shields.io/github/last-commit/themesberg/flowbite-vue)](https://github.com/themesberg/flowbite-vue) - Vue component library based on Tailwind CSS
 - [Maz-UI ![GitHub Repo Stars](https://img.shields.io/github/stars/LouisMazel/maz-ui) ![GitHub last commit](https://img.shields.io/github/last-commit/LouisMazel/maz-ui)](https://github.com/LouisMazel/maz-ui) - Lightweight and efficient library for Vue 3 & Nuxt 3 & 4 with 50+ components, theming, i18n and useful plugins and composables.
@@ -1159,6 +1159,7 @@ _Display non-editable events in a Calendar_
 - [vue-progress-circle ![GitHub Repo Stars](https://img.shields.io/github/stars/keiwen/vue-progress-circle) ![GitHub last commit](https://img.shields.io/github/last-commit/keiwen/vue-progress-circle)](https://github.com/keiwen/vue-progress-circle) - Circle progress bar component for vue3
 - [vue-awesome-button ![GitHub Repo Stars](https://img.shields.io/github/stars/rcaferati/vue-awesome-button) ![GitHub last commit](https://img.shields.io/github/last-commit/rcaferati/vue-awesome-button)](https://github.com/rcaferati/vue-awesome-button) - Vue 3D button components with progress states, social sharing, themes, and animated transitions.
 - [vuehex ![GitHub Repo Stars](https://img.shields.io/github/stars/vvollers/vuehex) ![GitHub last commit](https://img.shields.io/github/last-commit/vvollers/vuehex)](https://github.com/vvollers/vuehex) - Fast, virtualized hex viewer and editor for Vue 3. View and edit binary data. [Demo](https://vvollers.github.io/vuehex/demo/)
+- [vue3-icon-picker ![GitHub Repo Stars](https://img.shields.io/github/stars/noeGnh/vue3-icon-picker) ![GitHub last commit](https://img.shields.io/github/last-commit/noeGnh/vue3-icon-picker)](https://github.com/noeGnh/vue3-icon-picker) Icon picker component for Vue 3.
 
 #### Tabs
 
@@ -1360,6 +1361,7 @@ _Detect when components enter viewport_
 - [kitbag/router ![GitHub Repo Stars](https://img.shields.io/github/stars/kitbagjs/router) ![GitHub last commit](https://img.shields.io/github/last-commit/kitbagjs/router)](https://github.com/kitbagjs/router) - A type safe router for vuejs
 - [unplugin-vue-router ![GitHub Repo Stars](https://img.shields.io/github/stars/posva/unplugin-vue-router) ![GitHub last commit](https://img.shields.io/github/last-commit/posva/unplugin-vue-router)](https://github.com/posva/unplugin-vue-router) - Next Generation file based typed routing for Vue Router.
 - [vite-plugin-vue-middleware ![GitHub Repo Stars](https://img.shields.io/github/stars/awdr74100/vite-plugin-vue-middleware) ![GitHub last commit](https://img.shields.io/github/last-commit/awdr74100/vite-plugin-vue-middleware)](https://github.com/awdr74100/vite-plugin-vue-middleware) - File-based navigation guards for Vue Router
+- [vue-router-citadel ![GitHub Repo Stars](https://img.shields.io/github/stars/Kassaila/vue-router-citadel) ![GitHub last commit](https://img.shields.io/github/last-commit/Kassaila/vue-router-citadel)](https://github.com/Kassaila/vue-router-citadel) - A middleware-driven navigation control system for Vue Router.
 
 #### Lazy Load
 
@@ -1654,11 +1656,12 @@ _Render Vue application to HTML on the server and to the DOM in the browser_
 
 - [Vue.js/Nuxt.js full-featured boilerplate ![GitHub Repo Stars](https://img.shields.io/github/stars/GrabarzUndPartner/gp-vue-boilerplate) ![GitHub last commit](https://img.shields.io/github/last-commit/GrabarzUndPartner/gp-vue-boilerplate)](https://github.com/GrabarzUndPartner/gp-vue-boilerplate) - professional agency frontend template for building fast, robust, and adaptable web apps or sites by vuejs/nuxtjs.
 
-#### Electron
+#### Desktop
 
 - [electron-vite-template ![GitHub Repo Stars](https://img.shields.io/github/stars/umbrella22/electron-vite-template) ![GitHub last commit](https://img.shields.io/github/last-commit/umbrella22/electron-vite-template)](https://github.com/umbrella22/electron-vite-template) - A modern desktop application project template with Vue 3, Vite & Electron. **It's fast!**
 - [Vutron ![GitHub Repo Stars](https://img.shields.io/github/stars/jooy2/vutron) ![GitHub last commit](https://img.shields.io/github/last-commit/jooy2/vutron)](https://github.com/jooy2/vutron) - Quick start templates for Vite + Electron + Vue 3 + Vuetify + TypeScript.
 - [electron-vite-vue ![GitHub Repo Stars](https://img.shields.io/github/stars/electron-vite/electron-vite-vue) ![GitHub last commit](https://img.shields.io/github/last-commit/electron-vite/electron-vite-vue)](https://github.com/electron-vite/electron-vite-vue) - Really simple Electron + Vite + Vue boilerplate.
+- [MōBrowser](https://teamdev.com/mobrowser) - A framework for building desktop apps with web technologies. Templates and plumbing for Vite + Vue + Quasar are included.
 
 ### Prerendering
 
