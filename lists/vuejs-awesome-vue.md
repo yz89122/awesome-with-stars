@@ -1082,6 +1082,7 @@ _Display non-editable events in a Calendar_
 - [@vue-leaflet/vue-leaflet ![GitHub Repo Stars](https://img.shields.io/github/stars/vue-leaflet/vue-leaflet) ![GitHub last commit](https://img.shields.io/github/last-commit/vue-leaflet/vue-leaflet)](https://github.com/vue-leaflet/vue-leaflet) - Vue 3 components for Leaflet (1.x) maps.
 - [@maxel01/vue-leaflet ![GitHub Repo Stars](https://img.shields.io/github/stars/maxel01/vue-leaflet) ![GitHub last commit](https://img.shields.io/github/last-commit/maxel01/vue-leaflet)](https://github.com/maxel01/vue-leaflet) - Vue 3 components for Leaflet (2.x) maps.
 - [mapmetrics-gl ![GitHub Repo Stars](https://img.shields.io/github/stars/MapMetrics/mapmetrics-gl) ![GitHub last commit](https://img.shields.io/github/last-commit/MapMetrics/mapmetrics-gl)](https://github.com/MapMetrics/mapmetrics-gl) - Mapbox GL JS-compatible mapping library with built-in tiles, geocoding, routing, and search.
+- [vue3-map-chart ![GitHub Repo Stars](https://img.shields.io/github/stars/noeGnh/vue3-map-chart) ![GitHub last commit](https://img.shields.io/github/last-commit/noeGnh/vue3-map-chart)](https://github.com/noeGnh/vue3-map-chart) - Vue 3 components for displaying dynamic data on a world, continents, countries and custom maps.
 
 #### Audio / Video
 
@@ -1156,6 +1157,7 @@ _Display non-editable events in a Calendar_
 - [zoom-image](https://willnguyen1312.github.io/zoom-image/) - A little yet powerful framework agnostic library to zoom image on the web
 - [vue-wheel-spinner ![GitHub Repo Stars](https://img.shields.io/github/stars/ilyasozkurt/vue-wheel-spinner) ![GitHub last commit](https://img.shields.io/github/last-commit/ilyasozkurt/vue-wheel-spinner)](https://github.com/ilyasozkurt/vue-wheel-spinner) - A simple, customizable wheel of fortune component. [See Demo](https://vue-wheel-spinner-demo.vercel.app/)
 - [vue-progress-circle ![GitHub Repo Stars](https://img.shields.io/github/stars/keiwen/vue-progress-circle) ![GitHub last commit](https://img.shields.io/github/last-commit/keiwen/vue-progress-circle)](https://github.com/keiwen/vue-progress-circle) - Circle progress bar component for vue3
+- [vue-awesome-button ![GitHub Repo Stars](https://img.shields.io/github/stars/rcaferati/vue-awesome-button) ![GitHub last commit](https://img.shields.io/github/last-commit/rcaferati/vue-awesome-button)](https://github.com/rcaferati/vue-awesome-button) - Vue 3D button components with progress states, social sharing, themes, and animated transitions.
 - [vuehex ![GitHub Repo Stars](https://img.shields.io/github/stars/vvollers/vuehex) ![GitHub last commit](https://img.shields.io/github/last-commit/vvollers/vuehex)](https://github.com/vvollers/vuehex) - Fast, virtualized hex viewer and editor for Vue 3. View and edit binary data. [Demo](https://vvollers.github.io/vuehex/demo/)
 
 #### Tabs
@@ -1407,6 +1409,7 @@ _Move a DOM node to a target DOM node_
 
 - [vue-svgicon ![GitHub Repo Stars](https://img.shields.io/github/stars/MMF-FE/vue-svgicon) ![GitHub last commit](https://img.shields.io/github/last-commit/MMF-FE/vue-svgicon)](https://github.com/MMF-FE/vue-svgicon) - A tool to create svg icon components. (vue 2.x).
 - [vue-inline-svg ![GitHub Repo Stars](https://img.shields.io/github/stars/shrpne/vue-inline-svg) ![GitHub last commit](https://img.shields.io/github/last-commit/shrpne/vue-inline-svg)](https://github.com/shrpne/vue-inline-svg) - Vue component loads an SVG source dynamically and inline `<svg>` so you can manipulate the style of it with CSS or JS. (vue 2.x, vue 3.x)
+- [lucide-motion-vue ![GitHub Repo Stars](https://img.shields.io/github/stars/respeak-io/lucide-motion-vue) ![GitHub last commit](https://img.shields.io/github/last-commit/respeak-io/lucide-motion-vue)](https://github.com/respeak-io/lucide-motion-vue) - 516 animated Lucide icons for Vue 3 with ergonomic hover/tap/viewport triggers and a composable `<AnimateIcon>` wrapper. Tree-shakable, one chunk per icon, TypeScript-first. (vue 3.x)
 
 #### Miscellaneous
 
@@ -1481,6 +1484,7 @@ _LocalStorage etc._
 - [vue-datatable-url-sync ![GitHub Repo Stars](https://img.shields.io/github/stars/socotecio/vue-datatable-url-sync) ![GitHub last commit](https://img.shields.io/github/last-commit/socotecio/vue-datatable-url-sync)](https://github.com/socotecio/vue-datatable-url-sync) - Synchronize datatable options and filters with the url to keep user preference even after refresh or navigation
 - [harlem ![GitHub Repo Stars](https://img.shields.io/github/stars/andrewcourtice/harlem) ![GitHub last commit](https://img.shields.io/github/last-commit/andrewcourtice/harlem)](https://github.com/andrewcourtice/harlem) - Simple, unopinionated, lightweight and extensible state management for Vue 3
 - [exome ![GitHub Repo Stars](https://img.shields.io/github/stars/Marcisbee/exome) ![GitHub last commit](https://img.shields.io/github/last-commit/Marcisbee/exome)](https://github.com/Marcisbee/exome) - Simple proxy based state manager for deeply nested states.
+- [Stan](https://stan.party) - a minimal, atomic state manager (framework-agnostic, with Vue bindings).
 
 ##### Mobx
 
@@ -1560,6 +1564,7 @@ _Integrate with services or other frameworks_
 - [vue-postgrest ![GitHub Repo Stars](https://img.shields.io/github/stars/technowledgy/vue-postgrest) ![GitHub last commit](https://img.shields.io/github/last-commit/technowledgy/vue-postgrest)](https://github.com/technowledgy/vue-postgrest) - Vue.js integration for postgREST: flexible, powerful and easy to use.
 - [vue-tweet ![GitHub Repo Stars](https://img.shields.io/github/stars/DannyFeliz/vue-tweet) ![GitHub last commit](https://img.shields.io/github/last-commit/DannyFeliz/vue-tweet)](https://github.com/DannyFeliz/vue-tweet) - Vue 3 component that let you embed tweets in your App by only giving the tweet id
 - [vue-tg ![GitHub Repo Stars](https://img.shields.io/github/stars/deptyped/vue-telegram) ![GitHub last commit](https://img.shields.io/github/last-commit/deptyped/vue-telegram)](https://github.com/deptyped/vue-telegram) - Telegram Web Apps integration for Vue 3.
+- [@rollgate/sdk-vue ![GitHub Repo Stars](https://img.shields.io/github/stars/rollgate/sdks) ![GitHub last commit](https://img.shields.io/github/last-commit/rollgate/sdks)](https://github.com/rollgate/sdks/tree/main/packages/sdk-vue) - Vue 3 feature flag SDK with composables, gradual rollouts, A/B testing and real-time updates. Backend: [Rollgate](https://rollgate.io)
 
 #### Vue CLI Plugins
 
