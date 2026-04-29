@@ -283,7 +283,7 @@ Descriptions focus on structure, scope, and market role rather than time-depende
   Germany’s principal stock exchange, operated by Deutsche Börse.
   Electronic trading is conducted via **[Xetra](https://www.xetra.com)**.
 
-* 🇭🇰 **[Hong Kong Stock Exchange (HKEX)](https://www.hkex.com.hk)**
+* ���🇰 **[Hong Kong Stock Exchange (HKEX)](https://www.hkex.com.hk)**
   Key international financial hub connecting Chinese and global capital markets.
 
 * 🇰🇷 **[Korea Exchange (KRX)](https://global.krx.co.kr)**
