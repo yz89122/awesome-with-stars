@@ -84,7 +84,7 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
   - [Stats Tracking](#stats-tracking)
   - [Automation](#automation)
 - [Database](#database)
-- [Preconfigured Configuration](#preconfigured-configuration)
+- [Pre-made Configuration](#pre-made-configuration)
 - [External](#external)
   - [Version Manager](#version-manager)
   - [Plugin Template](#plugin-template)
@@ -1747,7 +1747,7 @@ then it is not supported:
 [**⬆ back to top**](#contents)
 <!--lint enable double-link -->
 
-## Preconfigured Configuration
+## Pre-made Configuration
 
 - [abdellatif-temsamani/adev.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/abdellatif-temsamani/adev.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/abdellatif-temsamani/adev.nvim)](https://github.com/abdellatif-temsamani/adev.nvim) - The over-engineered Neovim distribution for developers who want everything.
 - [pgosar/CyberNvim ![GitHub Repo Stars](https://img.shields.io/github/stars/pgosar/CyberNvim) ![GitHub last commit](https://img.shields.io/github/last-commit/pgosar/CyberNvim)](https://github.com/pgosar/CyberNvim) - The world's simplest and most extensible Neovim distribution.
