@@ -185,7 +185,6 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [PR-Agent ![GitHub Repo Stars](https://img.shields.io/github/stars/The-PR-Agent/pr-agent) ![GitHub last commit](https://img.shields.io/github/last-commit/The-PR-Agent/pr-agent)](https://github.com/The-PR-Agent/pr-agent) - AI-powered tool for automated PR analysis, feedback, suggestions and more.
 - [TurboPilot ![GitHub Repo Stars](https://img.shields.io/github/stars/ravenscroftj/turbopilot) ![GitHub last commit](https://img.shields.io/github/last-commit/ravenscroftj/turbopilot)](https://github.com/ravenscroftj/turbopilot) - A self-hosted copilot clone which uses the library behind llama.cpp to run the 6 billion parameter Salesforce Codegen model in 4 GB of RAM.
 - [GPT-Code UI ![GitHub Repo Stars](https://img.shields.io/github/stars/ricklamers/gpt-code-ui) ![GitHub last commit](https://img.shields.io/github/last-commit/ricklamers/gpt-code-ui)](https://github.com/ricklamers/gpt-code-ui) - An open source implementation of OpenAI's ChatGPT Code interpreter. #opensource
-- [MetaGPT ![GitHub Repo Stars](https://img.shields.io/github/stars/FoundationAgents/MetaGPT) ![GitHub last commit](https://img.shields.io/github/last-commit/FoundationAgents/MetaGPT)](https://github.com/FoundationAgents/MetaGPT) - The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo
 - [Open Interpreter ![GitHub Repo Stars](https://img.shields.io/github/stars/openinterpreter/open-interpreter) ![GitHub last commit](https://img.shields.io/github/last-commit/openinterpreter/open-interpreter)](https://github.com/openinterpreter/open-interpreter) - OpenAI's Code Interpreter in your terminal, running locally.
 - [Continue](https://www.continue.dev/) - Open-source AI code assistant. Connect any model and any context to create custom autocomplete and chat experiences inside the IDE. [#opensource ![GitHub Repo Stars](https://img.shields.io/github/stars/continuedev/continue) ![GitHub last commit](https://img.shields.io/github/last-commit/continuedev/continue)](https://github.com/continuedev/continue)
 - [RooCode ![GitHub Repo Stars](https://img.shields.io/github/stars/RooCodeInc/Roo-Code) ![GitHub last commit](https://img.shields.io/github/last-commit/RooCodeInc/Roo-Code)](https://github.com/RooCodeInc/Roo-Code) - An AI-powered autonomous coding agent integrated directly into VS Code. [#opensource ![GitHub Repo Stars](https://img.shields.io/github/stars/RooCodeInc/Roo-Code) ![GitHub last commit](https://img.shields.io/github/last-commit/RooCodeInc/Roo-Code)](https://github.com/RooCodeInc/Roo-Code)
@@ -200,7 +199,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 
 ### Developer tools
 
-- [co:here](https://cohere.ai/) - Cohere provides access to advanced Large Language Models and NLP tools.
+- [Cohere](https://cohere.com/) - Cohere provides access to advanced Large Language Models and NLP tools.
 - [Haystack](https://haystack.deepset.ai/) - A framework for building NLP applications (e.g. agents, semantic search, question-answering) with language models.
 - [LangChain](https://langchain.com/) - A framework for developing applications powered by language models.
 - [gpt4all ![GitHub Repo Stars](https://img.shields.io/github/stars/nomic-ai/gpt4all) ![GitHub last commit](https://img.shields.io/github/last-commit/nomic-ai/gpt4all)](https://github.com/nomic-ai/gpt4all) - A chatbot trained on a massive collection of clean assistant data including code, stories and dialogue.
@@ -208,8 +207,8 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [LMQL](https://lmql.ai/) - LMQL is a query language for large language models.
 - [LlamaIndex](https://www.llamaindex.ai/) - A data framework for building LLM applications over external data.
 - [Phoenix](https://phoenix.arize.com/) - Open-source tool for ML observability that runs in your notebook environment, by Arize. Monitor and fine tune LLM, CV and tabular models.
-- [Cursor](https://www.cursor.so/) - Cursor is the IDE of the future, built for pair-programming with Powerful AI.
-- [SymbolicAI ![GitHub Repo Stars](https://img.shields.io/github/stars/Xpitfire/symbolicai) ![GitHub last commit](https://img.shields.io/github/last-commit/Xpitfire/symbolicai)](https://github.com/Xpitfire/symbolicai) - A neuro-symbolic framework for building applications with LLMs at the core.
+- [Cursor](https://cursor.com/) - Cursor is the IDE of the future, built for pair-programming with Powerful AI.
+- [SymbolicAI ![GitHub Repo Stars](https://img.shields.io/github/stars/ExtensityAI/symbolicai) ![GitHub last commit](https://img.shields.io/github/last-commit/ExtensityAI/symbolicai)](https://github.com/ExtensityAI/symbolicai) - A neuro-symbolic framework for building applications with LLMs at the core.
 - [Vanna.ai](https://vanna.ai/) - An open-source Python RAG framework for SQL generation and related functionality. [#opensource ![GitHub Repo Stars](https://img.shields.io/github/stars/vanna-ai/vanna) ![GitHub last commit](https://img.shields.io/github/last-commit/vanna-ai/vanna)](https://github.com/vanna-ai/vanna)
 - [Portkey](https://portkey.ai/) - A full-stack LLMOps platform for LLM monitoring, caching, and management.
 - [agenta ![GitHub Repo Stars](https://img.shields.io/github/stars/agenta-ai/agenta) ![GitHub last commit](https://img.shields.io/github/last-commit/agenta-ai/agenta)](https://github.com/agenta-ai/agenta) - An open-source end-to-end LLMOps platform for prompt engineering, evaluation, and deployment. #opensource
@@ -242,7 +241,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Ollama ![GitHub Repo Stars](https://img.shields.io/github/stars/ollama/ollama) ![GitHub last commit](https://img.shields.io/github/last-commit/ollama/ollama)](https://github.com/ollama/ollama) - Get up and running with large language models locally.
 - [Open WebUI ![GitHub Repo Stars](https://img.shields.io/github/stars/open-webui/open-webui) ![GitHub last commit](https://img.shields.io/github/last-commit/open-webui/open-webui)](https://github.com/open-webui/open-webui) - An extensible, feature-rich, and user-friendly self-hosted AI platform designed to operate entirely offline. #opensource
 - [Jan](https://jan.ai/) - Run LLMs like Mistral or Llama2 locally and offline on your computer, or connect to remote AI APIs. [#opensource ![GitHub Repo Stars](https://img.shields.io/github/stars/janhq/jan) ![GitHub last commit](https://img.shields.io/github/last-commit/janhq/jan)](https://github.com/janhq/jan)
-- [Msty](https://msty.app/) - A straightforward and powerful interface for local and online AI models.
+- [Msty](https://msty.ai/) - A straightforward and powerful interface for local and online AI models.
 - [PyGPT](https://pygpt.net/) - Personal desktop AI assistant with chat, vision, agents, image generation, tools and commands, voice control and more. #opensource
 - [LLM](https://llm.datasette.io/) - A CLI utility and Python library for interacting with Large Language Models, remote and local. [#opensource ![GitHub Repo Stars](https://img.shields.io/github/stars/simonw/llm) ![GitHub last commit](https://img.shields.io/github/last-commit/simonw/llm)](https://github.com/simonw/llm)
 - [LM Studio](https://lmstudio.ai) - Download and run local LLMs on your computer.
@@ -253,16 +252,16 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 
 ### Autonomous agents
 
-- [Auto-GPT ![GitHub Repo Stars](https://img.shields.io/github/stars/Torantulino/Auto-GPT) ![GitHub last commit](https://img.shields.io/github/last-commit/Torantulino/Auto-GPT)](https://github.com/Torantulino/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
+- [Auto-GPT ![GitHub Repo Stars](https://img.shields.io/github/stars/Significant-Gravitas/AutoGPT) ![GitHub last commit](https://img.shields.io/github/last-commit/Significant-Gravitas/AutoGPT)](https://github.com/Significant-Gravitas/AutoGPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [babyagi ![GitHub Repo Stars](https://img.shields.io/github/stars/yoheinakajima/babyagi) ![GitHub last commit](https://img.shields.io/github/last-commit/yoheinakajima/babyagi)](https://github.com/yoheinakajima/babyagi) - An AI-powered task management system.
 - [AgentGPT ![GitHub Repo Stars](https://img.shields.io/github/stars/reworkd/AgentGPT) ![GitHub last commit](https://img.shields.io/github/last-commit/reworkd/AgentGPT)](https://github.com/reworkd/AgentGPT) - Assemble, configure, and deploy autonomous AI Agents in your browser.
 - [GPT Engineer ![GitHub Repo Stars](https://img.shields.io/github/stars/AntonOsika/gpt-engineer) ![GitHub last commit](https://img.shields.io/github/last-commit/AntonOsika/gpt-engineer)](https://github.com/AntonOsika/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
 - [GPT Prompt Engineer ![GitHub Repo Stars](https://img.shields.io/github/stars/mshumer/gpt-prompt-engineer) ![GitHub last commit](https://img.shields.io/github/last-commit/mshumer/gpt-prompt-engineer)](https://github.com/mshumer/gpt-prompt-engineer) - Automated prompt engineering. It generates, tests, and ranks prompts to find the best ones.
-- [MetaGPT ![GitHub Repo Stars](https://img.shields.io/github/stars/geekan/MetaGPT) ![GitHub last commit](https://img.shields.io/github/last-commit/geekan/MetaGPT)](https://github.com/geekan/MetaGPT) - The Multi-Agent Framework: Given one line requirement, return PRD, design, tasks, repo.
+- [MetaGPT ![GitHub Repo Stars](https://img.shields.io/github/stars/FoundationAgents/MetaGPT) ![GitHub last commit](https://img.shields.io/github/last-commit/FoundationAgents/MetaGPT)](https://github.com/FoundationAgents/MetaGPT) - The Multi-Agent Framework: Given one line requirement, return PRD, design, tasks, repo.
 - [AutoGen ![GitHub Repo Stars](https://img.shields.io/github/stars/microsoft/autogen) ![GitHub last commit](https://img.shields.io/github/last-commit/microsoft/autogen)](https://github.com/microsoft/autogen) - AutoGen is a framework that enables the development of LLM applications using multiple agents that can converse with each other to solve tasks.
 - [GPT Pilot ![GitHub Repo Stars](https://img.shields.io/github/stars/Pythagora-io/gpt-pilot) ![GitHub last commit](https://img.shields.io/github/last-commit/Pythagora-io/gpt-pilot)](https://github.com/Pythagora-io/gpt-pilot) - Dev tool that writes scalable apps from scratch while the developer oversees the implementation.
 - [Devin](https://devin.ai/) - An autonomous AI software engineer by Cognition Labs.
-- [OpenDevin ![GitHub Repo Stars](https://img.shields.io/github/stars/OpenDevin/OpenDevin) ![GitHub last commit](https://img.shields.io/github/last-commit/OpenDevin/OpenDevin)](https://github.com/OpenDevin/OpenDevin) - An autonomous agent designed to navigate the complexities of software engineering. #opensource
+- [OpenHands ![GitHub Repo Stars](https://img.shields.io/github/stars/OpenHands/OpenHands) ![GitHub last commit](https://img.shields.io/github/last-commit/OpenHands/OpenHands)](https://github.com/OpenHands/OpenHands) - An autonomous agent designed to navigate the complexities of software engineering. #opensource
 - [Davika ![GitHub Repo Stars](https://img.shields.io/github/stars/stitionai/devika) ![GitHub last commit](https://img.shields.io/github/last-commit/stitionai/devika)](https://github.com/stitionai/devika) - An agentic AI software engineer. #opensource
 - [n8n](https://n8n.io/) - A workflow automation platform that combines AI capabilities with business process automation.
 - [Sauna](https://www.sauna.ai) - An AI assistant built for compounding context. It learns your taste, detects hidden patterns, augments your brain context and works proactively.
@@ -281,8 +280,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 ### Custom assistants
 
 - [Poe](https://poe.com/) - Poe gives access to a variety of bots.
-- [GPT Builder](https://chat.openai.com/gpts/editor) - Assistant for creating GPT-based assistants.
-- [GPTStore](https://gptstore.ai/) - Find useful GPTs. Share your own GPTs.
+- [GPT Builder](https://chatgpt.com/gpts/editor) - Assistant for creating GPT-based assistants.
 
 ## Image
 
@@ -292,17 +290,16 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Stable Diffusion](https://huggingface.co/CompVis/stable-diffusion-v1-4) - Stable Diffusion by Stability AI is a state of the art text-to-image model that generates images from text. #opensource
 - [Midjourney](https://www.midjourney.com/) - Midjourney is an independent research lab exploring new mediums of thought and expanding the imaginative powers of the human species.
 - [Imagen](https://imagen.research.google/) - Imagen by Google is a text-to-image diffusion model with an unprecedented degree of photorealism and a deep level of language understanding.
-- [Make-A-Scene](https://ai.facebook.com/blog/greater-creative-control-for-ai-image-generation/) - Make-A-Scene by Meta is a multimodal generative AI method puts creative control in the hands of people who use it by allowing them to describe and illustrate their vision through both text descriptions and freeform sketches.
+- [Make-A-Scene](https://ai.meta.com/blog/greater-creative-control-for-ai-image-generation/) - Make-A-Scene by Meta is a multimodal generative AI method puts creative control in the hands of people who use it by allowing them to describe and illustrate their vision through both text descriptions and freeform sketches.
 - [DragGAN ![GitHub Repo Stars](https://img.shields.io/github/stars/XingangPan/DragGAN) ![GitHub last commit](https://img.shields.io/github/last-commit/XingangPan/DragGAN)](https://github.com/XingangPan/DragGAN) - Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold.
 - [Flux ![GitHub Repo Stars](https://img.shields.io/github/stars/black-forest-labs/flux) ![GitHub last commit](https://img.shields.io/github/last-commit/black-forest-labs/flux)](https://github.com/black-forest-labs/flux) - Text-to-image models by Black Forest Labs with high-quality photorealistic output. #opensource
 
 ### Services
 
 - [Craiyon](https://www.craiyon.com/) - Craiyon, formerly DALL-E mini, is an AI model that can draw images from any text prompt.
-- [DreamStudio](https://beta.dreamstudio.ai/) - DreamStudio is an easy-to-use interface for creating images using the Stable Diffusion image generation model.
+- [DreamStudio](https://stability.ai/dreamstudio) - DreamStudio is an easy-to-use interface for creating images using the Stable Diffusion image generation model.
 - [Artbreeder](https://www.artbreeder.com/) - Artbreeder is new type of creative tool that empowers users creativity by making it easier to collaborate and explore.
-- [GauGAN2](http://gaugan.org/gaugan2/) - GauGAN2 is a robust tool for creating photorealistic art using a combination of words and drawings since it integrates segmentation mapping, inpainting, and text-to-image production in a single model.
-- [Magic Eraser](https://www.magiceraser.io/) - Remove unwanted things from images in seconds.
+- [Magic Eraser](https://magicstudio.com/magiceraser/) - Remove unwanted things from images in seconds.
 - [Imagine by Magic Studio](https://magicstudio.com/imagine) - A tool by Magic Studio that let's you express yourself by just describing what's on your mind.
 - [Alpaca](https://www.getalpaca.io/) - Stable Diffusion Photoshop plugin.
 - [Patience.ai](https://www.patience.ai/) - Patience.ai is an app for creating images with Stable Diffusion, a cutting edge AI developed by Stability.AI.
