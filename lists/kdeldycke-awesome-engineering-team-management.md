@@ -762,7 +762,7 @@ Time management and planning starts with estimates, but often degenerates into d
 
 - [Failed #SquadGoals - Spotify doesn't use "the Spotify model" and neither should you](https://www.jeremiahlee.com/posts/failed-squad-goals/) - “Why it didn't work? 1. Matrix management solved the wrong problem; 2. It fixated on team autonomy; 3. Collaboration was an assumed competency; 4. Mythology became difficult to change”.
 
-- [Recurring opinions or productive improvements ��� what agile teams actually discuss in retrospectives](https://link.springer.com/article/10.1007/s10664-016-9464-2) - An 3-years analysis of a team's retrospectives, with dire conclusions: people keep forgetting what they already learned, keep discussing unsolveable problems out of their control, and keep debating opinions based on biased interpretations or incorrect understandings.
+- [Recurring opinions or productive improvements — what agile teams actually discuss in retrospectives](https://link.springer.com/article/10.1007/s10664-016-9464-2) - An 3-years analysis of a team's retrospectives, with dire conclusions: people keep forgetting what they already learned, keep discussing unsolveable problems out of their control, and keep debating opinions based on biased interpretations or incorrect understandings.
 
 ## Key Performance Indicator (KPI)
 
