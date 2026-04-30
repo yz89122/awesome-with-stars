@@ -693,6 +693,7 @@ additional ordered map implementations.
 - [mspm ![GitHub Repo Stars](https://img.shields.io/github/stars/BlackRabbitt/mspm) ![GitHub last commit](https://img.shields.io/github/last-commit/BlackRabbitt/mspm)](https://github.com/BlackRabbitt/mspm) - Multi-String Pattern Matching Algorithm for information retrieval.
 - [parsefields ![GitHub Repo Stars](https://img.shields.io/github/stars/MonaxGT/parsefields) ![GitHub last commit](https://img.shields.io/github/last-commit/MonaxGT/parsefields)](https://github.com/MonaxGT/parsefields) - Tools for parse JSON-like logs for collecting unique fields and events.
 - [ptrie ![GitHub Repo Stars](https://img.shields.io/github/stars/viant/ptrie) ![GitHub last commit](https://img.shields.io/github/last-commit/viant/ptrie)](https://github.com/viant/ptrie) - An implementation of prefix tree.
+- [radixtree ![GitHub Repo Stars](https://img.shields.io/github/stars/gammazero/radixtree) ![GitHub last commit](https://img.shields.io/github/last-commit/gammazero/radixtree)](https://github.com/gammazero/radixtree) - Adaptive radix tree (prefix-tree or compact-trie).
 - [trie ![GitHub Repo Stars](https://img.shields.io/github/stars/derekparker/trie) ![GitHub last commit](https://img.shields.io/github/last-commit/derekparker/trie)](https://github.com/derekparker/trie) - Trie implementation in Go.
 
 ### Trees
