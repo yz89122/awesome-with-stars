@@ -1536,7 +1536,7 @@ Userscripts can be used w/ the following browsers:
             Install</a> /
         📖 <a href="https://github.com/immersive-translate/immersive-translate/#readme">
             Readme</a> /
-        ���� <a href="https://github.com/immersive-translate/immersive-translate/discussions">
+        📢 <a href="https://github.com/immersive-translate/immersive-translate/discussions">
             Discuss</a> /
         🐛 <a href="https://github.com/immersive-translate/immersive-translate/issues">
             Report bug</a>
