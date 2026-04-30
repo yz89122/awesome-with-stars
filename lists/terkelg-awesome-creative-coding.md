@@ -195,7 +195,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [Ammo.js ![GitHub Repo Stars](https://img.shields.io/github/stars/kripken/ammo.js) ![GitHub last commit](https://img.shields.io/github/last-commit/kripken/ammo.js)](https://github.com/kripken/ammo.js/) - Direct port of the Bullet physics engine to JavaScript using Emscripten.
 - [Theatre.js ![GitHub Repo Stars](https://img.shields.io/github/stars/theatre-js/theatre) ![GitHub last commit](https://img.shields.io/github/last-commit/theatre-js/theatre)](https://github.com/theatre-js/theatre) - Motion design library with visual tools
 
-### Projection Mapping ��� VJing
+### Projection Mapping • VJing
 
 - [MadMapper](https://www.madmapper.com/) [Mac] - Video mapping projections and Light mapping.
 - [VDMX](https://vidvox.net/) [Mac] - Realtime multimedia performance application.
