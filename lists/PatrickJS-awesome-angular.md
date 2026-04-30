@@ -407,7 +407,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 ### Certification Programs
 
 * [Certificates.dev](https://certificates.dev/angular) - Obtain your Certification of Competence as an Angular Developer.
-* [Angular Academy CA](https://www.angularacademy.ca/angular-certification) - Hands‑on, instructor��led Angular training in Canada.
+* [Angular Academy CA](https://www.angularacademy.ca/angular-certification) - Hands‑on, instructor‑led Angular training in Canada.
 * [Hackerrank](https://www.hackerrank.com/skills-verification/angular_basic) - Angular (Basic) Skills Certification Test.
 * [Koenig](https://www.koenig-solutions.com/angularjs-training-certification-courses) - Various courses cover Angular separately or full-stack.
 * [Simplilearn](https://www.simplilearn.com/angular-certification-training-course) - Angular Certification Training Course.
@@ -1835,6 +1835,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-highlight-text ![GitHub Repo Stars](https://img.shields.io/github/stars/ultrasonicsoft/ngx-highlight-text) ![GitHub last commit](https://img.shields.io/github/last-commit/ultrasonicsoft/ngx-highlight-text)](https://github.com/ultrasonicsoft/ngx-highlight-text) - Angular pipe that highlights a selected word in the HTML markup.
 * [ngx-smart-pipes ![GitHub Repo Stars](https://img.shields.io/github/stars/Kavshree/-bjkavyashree-ngx-smart-pipes) ![GitHub last commit](https://img.shields.io/github/last-commit/Kavshree/-bjkavyashree-ngx-smart-pipes)](https://github.com/Kavshree/-bjkavyashree-ngx-smart-pipes) - A lightweight, tree-shakeable collection of standalone Angular pipes designed for real-world use cases.
 * [ngx-dynamic-search ![GitHub Repo Stars](https://img.shields.io/github/stars/mustafaer/ngx-dynamic-search) ![GitHub last commit](https://img.shields.io/github/last-commit/mustafaer/ngx-dynamic-search)](https://github.com/mustafaer/ngx-dynamic-search) - Angular pipe designed for dynamic, deep search filtering across complex nested objects and arrays.
+* [ngx-name-capitalize ![GitHub Repo Stars](https://img.shields.io/github/stars/gabo2151/ngx-name-capitalize) ![GitHub last commit](https://img.shields.io/github/last-commit/gabo2151/ngx-name-capitalize)](https://github.com/gabo2151/ngx-name-capitalize) - Angular pipe for name capitalization that formats compound surnames, linguistic particles, hyphenated names, apostrophes, and Unicode characters.
 
 ### Printing
 
@@ -2276,6 +2277,7 @@ for the creation of web applications developed with Angular.
 * [react-di-lite ![GitHub Repo Stars](https://img.shields.io/github/stars/zobla-kv/react-di-lite) ![GitHub last commit](https://img.shields.io/github/last-commit/zobla-kv/react-di-lite)](https://github.com/zobla-kv/react-di-lite) - Lightweight, hierarchical dependency injection for React inspired by Angular’s services.
 * [@joanpablo/reactive_forms ![GitHub Repo Stars](https://img.shields.io/github/stars/joanpablo/reactive_forms) ![GitHub last commit](https://img.shields.io/github/last-commit/joanpablo/reactive_forms)](https://github.com/joanpablo/reactive_forms) - A Dart library using a model-driven approach for forms and validations, inspired by Angular's Reactive Forms.
 * [reaktiv ![GitHub Repo Stars](https://img.shields.io/github/stars/buiapp/reaktiv) ![GitHub last commit](https://img.shields.io/github/last-commit/buiapp/reaktiv)](https://github.com/buiapp/reaktiv) - Reactive Signals for Python with first-class async support, inspired by Angular's reactivity model.
+* [rgenex ![GitHub Repo Stars](https://img.shields.io/github/stars/asengar14/rgenex) ![GitHub last commit](https://img.shields.io/github/last-commit/asengar14/rgenex)](https://github.com/asengar14/rgenex) - An Angular‑CLI–style generator for React that instantly scaffolds components, hooks, and pages.
 * [rxor ![GitHub Repo Stars](https://img.shields.io/github/stars/nsevendev/rxor) ![GitHub last commit](https://img.shields.io/github/last-commit/nsevendev/rxor)](https://github.com/nsevendev/rxor) - Brings reactive signals to React, inspired by Angular Signals, Vue 3's `ref/computed`, and SolidJS.
 * [Signals ![GitHub Repo Stars](https://img.shields.io/github/stars/dmytrodemchenko/Signals) ![GitHub last commit](https://img.shields.io/github/last-commit/dmytrodemchenko/Signals)](https://github.com/dmytrodemchenko/Signals) - Zero‑dependency, glitch‑free reactive signals for TypeScript and JavaScript using an optimized Angular‑inspired push/pull architecture.
 * [sio ![GitHub Repo Stars](https://img.shields.io/github/stars/silicia-apps/sio) ![GitHub last commit](https://img.shields.io/github/last-commit/silicia-apps/sio)](https://github.com/silicia-apps/sio) - Silicia Framework: a fresh approach built upon Ionic, designed to streamline the development of hybrid applications and websites.
