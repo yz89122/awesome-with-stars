@@ -553,7 +553,7 @@ Wifi | Power | Address | Open Hours
 ---------------------------------------------------------------
 ---------------------------------------------------------------
 
-# Japan 🇯🇵
+# Japan ��🇵
 
 ## Nagoya
 
@@ -1378,7 +1378,7 @@ Webpage: http://www.tosci.com/
 
 Wifi | Power | Coffee | Address | Open Hours
 ---- | ----- | ------ | ------- | ----------
-open | ✔ | ✔ | [1899 Main St, Cambridge, MA 02139](https://goo.gl/maps/moxJxcmX2bp) | Mon-Fri 08:00-23:00, Sat-Sun 09:00-23:00
+open | ✔ | ��� | [1899 Main St, Cambridge, MA 02139](https://goo.gl/maps/moxJxcmX2bp) | Mon-Fri 08:00-23:00, Sat-Sun 09:00-23:00
 
 ### Somerville, MA <a id="somerville-ma"></a>
 
