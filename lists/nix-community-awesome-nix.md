@@ -1,4 +1,4 @@
-# Awesome Nix [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Nix [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 
 <a href="https://nixos.org">
   <picture>
@@ -73,9 +73,9 @@ A curated list of the best resources in the Nix community.
 * [NixOS & Flakes Book ![GitHub Repo Stars](https://img.shields.io/github/stars/ryan4yin/nixos-and-flakes-book) ![GitHub last commit](https://img.shields.io/github/last-commit/ryan4yin/nixos-and-flakes-book)](https://github.com/ryan4yin/nixos-and-flakes-book) - An unofficial and opinionated NixOS & Flakes book for beginners.
 * [NixOS Asia Tutorial Series](https://nixos.asia/en/tutorial) - A series of high-level tutorials on using Nix Flakes, NixOS, home-manager, etc.
 * [NixOS in Production](https://leanpub.com/nixos-in-production) - Free (pay-what-you-want) book in pdf format.
-* [Official Nix manual](https://nixos.org/manual/nix/stable) - Latest stable version of the official Nix manual, best used as reference guide. Receives updates when available.
-* [Official NixOS manual](https://nixos.org/manual/nixos/stable) - Latest stable version of the official NixOS manual, mix of tutorial and reference guide. Receives updates when available.
-* [Official Nixpkgs manual](https://nixos.org/manual/nixpkgs/stable) - Latest stable version of the official Nixpkgs reference manual. Receives updates when available.
+* [Official Nix manual](https://nix.dev/manual/nix/stable/) - Latest stable version of the official Nix manual, best used as reference guide. Receives updates when available.
+* [Official NixOS manual](https://nixos.org/manual/nixos/stable/) - Latest stable version of the official NixOS manual, mix of tutorial and reference guide. Receives updates when available.
+* [Official Nixpkgs manual](https://nixos.org/manual/nixpkgs/stable/) - Latest stable version of the official Nixpkgs reference manual. Receives updates when available.
 * [Tour of Nix](https://nixcloud.io/tour/) - An online interactive tutorial on Nix language constructs.
 * [Wombat's Book of Nix](https://mhwombat.codeberg.page/nix-book/) - A book-length introduction to Nix and flakes.
 * [Zero to Nix](https://zero-to-nix.com/) - A flake-centric guide to Nix and its concepts created by Determinate Systems to quickly onboard beginners.
@@ -203,7 +203,6 @@ A curated list of the best resources in the Nix community.
 
 ## DevOps
 
-* [Makes ![GitHub Repo Stars](https://img.shields.io/github/stars/fluidattacks/makes) ![GitHub last commit](https://img.shields.io/github/last-commit/fluidattacks/makes)](https://github.com/fluidattacks/makes) - A Nix-based CI/CD pipeline framework for building, testing, and releasing projects in any language, from anywhere.
 * [Nix GitLab CI](https://gitlab.com/TECHNOFAB/nix-gitlab-ci) - Define GitLab CI pipelines in pure Nix with full access to all Nix packages (incl. caching).
 * [nixidy ![GitHub Repo Stars](https://img.shields.io/github/stars/arnarg/nixidy) ![GitHub last commit](https://img.shields.io/github/last-commit/arnarg/nixidy)](https://github.com/arnarg/nixidy) - Kubernetes GitOps with Nix and Argo CD.
 * [Standard ![GitHub Repo Stars](https://img.shields.io/github/stars/divnix/std) ![GitHub last commit](https://img.shields.io/github/last-commit/divnix/std)](https://github.com/divnix/std) - An opinionated Nix Flakes framework to keep Nix code in large projects organized, accompanied by a friendly CLI/TUI optized for DevOps scenarios.
@@ -334,7 +333,6 @@ A curated list of the best resources in the Nix community.
 ## Overlays
 
 * [awesome-nix-hpc ![GitHub Repo Stars](https://img.shields.io/github/stars/freuk/awesome-nix-hpc) ![GitHub last commit](https://img.shields.io/github/last-commit/freuk/awesome-nix-hpc)](https://github.com/freuk/awesome-nix-hpc) - High Performance Computing package sets.
-* [chaotic-nyx ![GitHub Repo Stars](https://img.shields.io/github/stars/chaotic-cx/nyx) ![GitHub last commit](https://img.shields.io/github/last-commit/chaotic-cx/nyx)](https://github.com/chaotic-cx/nyx) - Daily bumped bleeding edge packages like `mesa_git` & others that aren't yet in Nixpkgs. Created by the makers of [Chaotic-AUR](https://github.com/chaotic-aur/).
 * [neovim-nightly-overlay ![GitHub Repo Stars](https://img.shields.io/github/stars/nix-community/neovim-nightly-overlay) ![GitHub last commit](https://img.shields.io/github/last-commit/nix-community/neovim-nightly-overlay)](https://github.com/nix-community/neovim-nightly-overlay) - Daily bumped Neovim nightly package.
 * [nixpkgs-firefox-darwin ![GitHub Repo Stars](https://img.shields.io/github/stars/bandithedoge/nixpkgs-firefox-darwin) ![GitHub last commit](https://img.shields.io/github/last-commit/bandithedoge/nixpkgs-firefox-darwin)](https://github.com/bandithedoge/nixpkgs-firefox-darwin) - Automatically updated Firefox binary packages for macOS.
 * [nixpkgs-wayland ![GitHub Repo Stars](https://img.shields.io/github/stars/nix-community/nixpkgs-wayland) ![GitHub last commit](https://img.shields.io/github/last-commit/nix-community/nixpkgs-wayland)](https://github.com/nix-community/nixpkgs-wayland) - Bleeding-edge Wayland packages.
@@ -352,8 +350,8 @@ A curated list of the best resources in the Nix community.
 
 * [#nix:nixos.org](https://matrix.to/#/#nix:nixos.org)
 * [#nixos on Libera.Chat](https://web.libera.chat/?nick=Guest?#nixos)
-* [Discord - Nix/Nixos (Unofficial)](https://discord.gg/BMUCQx6)
+* [Discord - Nix/Nixos (Unofficial)](https://discord.com/invite/BMUCQx6)
 * [Discourse](https://discourse.nixos.org/) - The best place to get help and discuss Nix-related topics.
 * [NixCon](https://nixcon.org/) - The annual community conference for contributors and users of Nix and NixOS.
-* [Wiki (Official)](https://wiki.nixos.org)
-* [Wiki (Unofficial)](https://nixos.wiki)
+* [Wiki (Official)](https://wiki.nixos.org/wiki/Main_Page)
+* [Wiki (Unofficial)](https://nixos.wiki/wiki/Main_Page)
