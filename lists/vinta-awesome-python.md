@@ -229,7 +229,7 @@ _Traditional full stack web frameworks. Also see [Web APIs](#web-apis)._
 - Synchronous
   - [bottle ![GitHub Repo Stars](https://img.shields.io/github/stars/bottlepy/bottle) ![GitHub last commit](https://img.shields.io/github/last-commit/bottlepy/bottle)](https://github.com/bottlepy/bottle) - A fast and simple micro-framework distributed as a single file with no dependencies.
   - [django ![GitHub Repo Stars](https://img.shields.io/github/stars/django/django) ![GitHub last commit](https://img.shields.io/github/last-commit/django/django)](https://github.com/django/django) - The most popular web framework in Python.
-    - [awesome-django ![GitHub Repo Stars](https://img.shields.io/github/stars/shahraizali/awesome-django) ![GitHub last commit](https://img.shields.io/github/last-commit/shahraizali/awesome-django)](https://github.com/shahraizali/awesome-django)
+    - [awesome-django ![GitHub Repo Stars](https://img.shields.io/github/stars/wsvincent/awesome-django) ![GitHub last commit](https://img.shields.io/github/last-commit/wsvincent/awesome-django)](https://github.com/wsvincent/awesome-django)
   - [flask ![GitHub Repo Stars](https://img.shields.io/github/stars/pallets/flask) ![GitHub last commit](https://img.shields.io/github/last-commit/pallets/flask)](https://github.com/pallets/flask) - A microframework for Python.
     - [awesome-flask ![GitHub Repo Stars](https://img.shields.io/github/stars/humiaozuzu/awesome-flask) ![GitHub last commit](https://img.shields.io/github/last-commit/humiaozuzu/awesome-flask)](https://github.com/humiaozuzu/awesome-flask)
   - [pyramid ![GitHub Repo Stars](https://img.shields.io/github/stars/Pylons/pyramid) ![GitHub last commit](https://img.shields.io/github/last-commit/Pylons/pyramid)](https://github.com/Pylons/pyramid) - A small, fast, down-to-earth, open source Python web framework.
@@ -620,11 +620,12 @@ _Tools of static analysis, linters and code quality checkers. Also see [awesome-
 
 ## Testing
 
-_Libraries for testing codebases and generating test data._
+_Libraries for testing codebases and generating test data. Also see [awesome-python-testing ![GitHub Repo Stars](https://img.shields.io/github/stars/cleder/awesome-python-testing) ![GitHub last commit](https://img.shields.io/github/last-commit/cleder/awesome-python-testing)](https://github.com/cleder/awesome-python-testing)._
 
 - Frameworks
   - [hypothesis ![GitHub Repo Stars](https://img.shields.io/github/stars/HypothesisWorks/hypothesis) ![GitHub last commit](https://img.shields.io/github/last-commit/HypothesisWorks/hypothesis)](https://github.com/HypothesisWorks/hypothesis) - Hypothesis is an advanced Quickcheck style property based testing library.
   - [pytest ![GitHub Repo Stars](https://img.shields.io/github/stars/pytest-dev/pytest) ![GitHub last commit](https://img.shields.io/github/last-commit/pytest-dev/pytest)](https://github.com/pytest-dev/pytest) - A mature full-featured Python testing tool.
+    - [awesome-pytest ![GitHub Repo Stars](https://img.shields.io/github/stars/augustogoulart/awesome-pytest) ![GitHub last commit](https://img.shields.io/github/last-commit/augustogoulart/awesome-pytest)](https://github.com/augustogoulart/awesome-pytest)
   - [robotframework ![GitHub Repo Stars](https://img.shields.io/github/stars/robotframework/robotframework) ![GitHub last commit](https://img.shields.io/github/last-commit/robotframework/robotframework)](https://github.com/robotframework/robotframework) - A generic test automation framework.
   - [scanapi ![GitHub Repo Stars](https://img.shields.io/github/stars/scanapi/scanapi) ![GitHub last commit](https://img.shields.io/github/last-commit/scanapi/scanapi)](https://github.com/scanapi/scanapi) - Automated Testing and Documentation for your REST API.
   - [unittest](https://docs.python.org/3/library/unittest.html) - (Python standard library) Unit testing framework.
