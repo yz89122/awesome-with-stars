@@ -191,6 +191,7 @@ Inspired by the [awesome ![GitHub Repo Stars](https://img.shields.io/github/star
 - [micro ![GitHub Repo Stars](https://img.shields.io/github/stars/zyedidia/micro) ![GitHub last commit](https://img.shields.io/github/last-commit/zyedidia/micro)](https://github.com/zyedidia/micro) - A simple and intuitive editor.
 - [o ![GitHub Repo Stars](https://img.shields.io/github/stars/xyproto/o) ![GitHub last commit](https://img.shields.io/github/last-commit/xyproto/o)](https://github.com/xyproto/o) - Configuration-free text editor and IDE.
 - [helix ![GitHub Repo Stars](https://img.shields.io/github/stars/helix-editor/helix) ![GitHub last commit](https://img.shields.io/github/last-commit/helix-editor/helix)](https://github.com/helix-editor/helix) - Modal editor inspired by kakoune.
+- [Prosaic ![GitHub Repo Stars](https://img.shields.io/github/stars/DimwitLabs/Prosaic) ![GitHub last commit](https://img.shields.io/github/last-commit/DimwitLabs/Prosaic)](https://github.com/DimwitLabs/Prosaic) - A writer-first app crafted for long-form writing.
 
 ### Frontend Development
 
