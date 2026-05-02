@@ -543,7 +543,7 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 
 * [sdlang ![GitHub Repo Stars](https://img.shields.io/github/stars/dlang-community/SDLang-D) ![GitHub last commit](https://img.shields.io/github/last-commit/dlang-community/SDLang-D)](https://github.com/dlang-community/SDLang-D) - An SDL (Simple Declarative Language) library for D.
 * [D:YAML ![GitHub Repo Stars](https://img.shields.io/github/stars/dlang-community/D-YAML) ![GitHub last commit](https://img.shields.io/github/last-commit/dlang-community/D-YAML)](https://github.com/dlang-community/D-YAML) - YAML parser and emitter for the D programming language.
-* [inifile-D ![GitHub Repo Stars](https://img.shields.io/github/stars/burner/inifiled) ![GitHub last commit](https://img.shields.io/github/last-commit/burner/inifiled)](https://github.com/burner/inifiled) - A compile time ini file parser and writter generator for D
+* [inifile-D ![GitHub Repo Stars](https://img.shields.io/github/stars/burner/inifiled) ![GitHub last commit](https://img.shields.io/github/last-commit/burner/inifiled)](https://github.com/burner/inifiled) - A compile time ini file parser and writer generator for D
 
 ## Blog Engine
 
