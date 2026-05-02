@@ -415,7 +415,7 @@ A fairly well-wrapped first book in a trilogy, that has some very imaginative an
 <details>
   <summary>Description</summary>
 
-  > In the first novel of C. S. Lewis’s classic science fiction trilogy, Dr. Ransom, a Cambridge academic, is abducted and taken on a spaceship to the red planet of Malacandra, which he knows as Mars. His captors are plotting to plunder the planet’s treasures and plan to offer Ransom as a sacrifice to the creatures who live there. Ransom discovers he has come from the ���silent planet”–Earth–whose tragic story is known throughout the universe…
+  > In the first novel of C. S. Lewis’s classic science fiction trilogy, Dr. Ransom, a Cambridge academic, is abducted and taken on a spaceship to the red planet of Malacandra, which he knows as Mars. His captors are plotting to plunder the planet’s treasures and plan to offer Ransom as a sacrifice to the creatures who live there. Ransom discovers he has come from the “silent planet”–Earth–whose tragic story is known throughout the universe…
 </details>
 
 ##### [Perelandra](https://www.goodreads.com/book/show/100924.Perelandra) (1944) _by [C. S. Lewis](https://en.wikipedia.org/wiki/C._S._Lewis)_ [4.0]
@@ -3093,7 +3093,7 @@ Rick and Morty is one of the best animated shows to have come out in the last de
   > An animated series that follows the exploits of a super scientist and his not-so-bright grandson.
 </details>
 
-#### [Star Trek: Deep Space Nine](https://www.imdb.com/title/tt0106145/) (1993��1999) [7.9]
+#### [Star Trek: Deep Space Nine](https://www.imdb.com/title/tt0106145/) (1993–1999) [7.9]
 
 Categories: `action` `adventure` `drama`
 
