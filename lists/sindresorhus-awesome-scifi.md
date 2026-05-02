@@ -72,7 +72,7 @@ This intense linguistic thriller will change the way you think about language. -
   > Babel-17 is all about the power of language. Humanity, which has spread throughout the universe, is involved in a war with the Invaders, who have been covertly assassinating officials and sabotaging spaceships. The only clues humanity has to go on are strange alien messages that have been intercepted in space. Poet and linguist Rydra Wong is determined to understand the language and stop the alien threat.
 </details>
 
-#### [Barsoom series](https://www.goodreads.com/series/43942-barsoom) (1912-1927) _by [Edgar Rice Burroughs](https://en.wikipedia.org/wiki/Edgar_Rice_Burroughs)_ [3.8] ���
+#### [Barsoom series](https://www.goodreads.com/series/43942-barsoom) (1912-1927) _by [Edgar Rice Burroughs](https://en.wikipedia.org/wiki/Edgar_Rice_Burroughs)_ [3.8] 🌟
 
 Now more than a century old, has that unique writing style you can only find in adventure classics. - [@uraimo](https://github.com/uraimo)
 
@@ -210,7 +210,7 @@ The books are real page turners with its mix of high politics, space battles, an
 </details>
 
 Books:
-- [Leviathan Wakes](https://www.goodreads.com/book/show/8855321-leviathan-wakes) [4.2] ��
+- [Leviathan Wakes](https://www.goodreads.com/book/show/8855321-leviathan-wakes) [4.2] 🔥
 - [Caliban's War](https://www.goodreads.com/book/show/12591698-caliban-s-war) [4.3] 🔥
 - [Abaddon's Gate](https://www.goodreads.com/book/show/16131032-abaddon-s-gate) [4.2]
 - [Cibola Burn](https://www.goodreads.com/book/show/18656030-cibola-burn) [4.2]
