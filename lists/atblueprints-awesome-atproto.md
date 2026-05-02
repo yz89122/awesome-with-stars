@@ -75,6 +75,7 @@ For more Bluesky tools, check [Awesome Bluesky ![GitHub Repo Stars](https://img.
 ## Tools
 
 * [ATFile ![GitHub Repo Stars](https://img.shields.io/github/stars/ziodotsh/atfile) ![GitHub last commit](https://img.shields.io/github/last-commit/ziodotsh/atfile)](https://github.com/ziodotsh/atfile) - Store and retrieve files on the ATmosphere.
+* [ShopSavvy for Bluesky ![GitHub Repo Stars](https://img.shields.io/github/stars/shopsavvy/bluesky-shopsavvy) ![GitHub last commit](https://img.shields.io/github/last-commit/shopsavvy/bluesky-shopsavvy)](https://github.com/shopsavvy/bluesky-shopsavvy) - AT Protocol suite: reactive mention bot for real-time price lookups, a custom deals feed generator, and a daily deal poster.
 
 ## Lexicons
 
