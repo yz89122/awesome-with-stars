@@ -800,6 +800,7 @@ See also [A comparison of operating systems written in Rust ![GitHub Repo Stars]
 
 ### Workflow Automation
 
+* [cowork-forge ![GitHub Repo Stars](https://img.shields.io/github/stars/sopaco/cowork-forge) ![GitHub last commit](https://img.shields.io/github/last-commit/sopaco/cowork-forge)](https://github.com/sopaco/cowork-forge) - AI-native multi-agent platform that orchestrates specialized agents through a 7-stage pipeline to transform ideas into production-ready software. [![release](https://img.shields.io/github/actions/workflow/status/sopaco/cowork-forge/rust.yml?label=Build)](https://github.com/sopaco/cowork-forge/actions/workflows/release.yml)
 * [dali-benothmen/cronflow ![GitHub Repo Stars](https://img.shields.io/github/stars/dali-benothmen/cronflow) ![GitHub last commit](https://img.shields.io/github/last-commit/dali-benothmen/cronflow)](https://github.com/dali-benothmen/cronflow) - Cronflow is a high-performance, developer-focused workflow automation library that lets you build and orchestrate complex, scalable automation workflows fully in code. [![release ![GitHub Repo Stars](https://img.shields.io/github/stars/dali-benothmen/cronflow) ![GitHub last commit](https://img.shields.io/github/last-commit/dali-benothmen/cronflow)](https://github.com/dali-benothmen/cronflow/actions/workflows/release.yml/badge.svg)](https://github.com/dali-benothmen/cronflow/actions/workflows/release.yml)
 
 ## Development tools
