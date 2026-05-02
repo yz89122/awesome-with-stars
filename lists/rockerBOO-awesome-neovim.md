@@ -970,6 +970,7 @@ then it is not supported:
 
 ## Note Taking
 
+- [DaFi-1/tasknvim ![GitHub Repo Stars](https://img.shields.io/github/stars/DaFi-1/tasknvim) ![GitHub last commit](https://img.shields.io/github/last-commit/DaFi-1/tasknvim)](https://github.com/DaFi-1/tasknvim) - A simple tool for life and personal development that helps organize goals, track habits, and improve productivity.
 - [niuiic/todo.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/niuiic/todo.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/niuiic/todo.nvim)](https://github.com/niuiic/todo.nvim) - Simple but powerful TODO manager based on text.
 - [flashcodes-themayankjha/Fknotes.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/flashcodes-themayankjha/Fknotes.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/flashcodes-themayankjha/Fknotes.nvim)](https://github.com/flashcodes-themayankjha/Fknotes.nvim) - Take notes, TODOs from anywhere inside your project, search all TODOs, get reminders and more.
 - [apdot/doodle ![GitHub Repo Stars](https://img.shields.io/github/stars/apdot/doodle) ![GitHub last commit](https://img.shields.io/github/last-commit/apdot/doodle)](https://github.com/apdot/doodle) - A developer-centric knowledge base with project/branch scoped notes, bi-directional linking, note-tagging, graph-view, telescope integration, and Git synchronization.
