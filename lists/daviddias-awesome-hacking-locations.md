@@ -655,7 +655,7 @@ Webpage: [kekdelft.nl](http://www.kekdelft.nl/)
 
 Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
-��� | ✔ | [Voldersgracht 27, Delft, Netherlands](https://goo.gl/maps/PUKMd1YMKPD2) | Mon-Fri 8:30-18:00, Sat-Sun 9:00-18:00
+✔ | ✔ | [Voldersgracht 27, Delft, Netherlands](https://goo.gl/maps/PUKMd1YMKPD2) | Mon-Fri 8:30-18:00, Sat-Sun 9:00-18:00
 
 ---------------------------------------------------------------
 ---------------------------------------------------------------
