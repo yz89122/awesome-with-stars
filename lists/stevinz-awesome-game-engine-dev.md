@@ -231,7 +231,7 @@ _Info on topics necessary for designing and developing game engines._
     - 📚 [Art of Game Design](https://www.amazon.com/Art-Game-Design-Book-Lenses/dp/0123694965) - Teaches game design in an accessible manner.
     - 📚 [Game Programming Patterns](https://gameprogrammingpatterns.com) - Patterns found in games that make code easier to understand.
 - Developer Portals
-    - 🌎 [Game Developer](https://www.gamedeveloper.com) - Industry blogs, events, jobs, updates and more. Formerly _Gamasutra_.
+    - ��� [Game Developer](https://www.gamedeveloper.com) - Industry blogs, events, jobs, updates and more. Formerly _Gamasutra_.
     - 🌎 [GameDev.net](https://www.gamedev.net/) - Game dev forums, tutorials, blogs, projects, portfolios, and news.
     - 🌎 [GameFromScratch.com](https://gamefromscratch.com) - Game dev news, tutorials and much more.
     - 🌎 [itch.io](https://itch.io) - Game dev resources and platform to showcase / promote / buy & sell games.
@@ -308,7 +308,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [CGL ![GitHub Repo Stars](https://img.shields.io/github/stars/Jaysmito101/cgl) ![GitHub last commit](https://img.shields.io/github/last-commit/Jaysmito101/cgl)](https://github.com/Jaysmito101/cgl) - Single-header file, lots of graphics & utility functions.
     - 🎉 [DOME ![GitHub Repo Stars](https://img.shields.io/github/stars/domeengine/dome) ![GitHub last commit](https://img.shields.io/github/last-commit/domeengine/dome)](https://github.com/domeengine/dome) - Melds SDL2 and the Wren scripting language. [[Website](https://domeengine.com/)]
     - 🎉 [Entrypoint ![GitHub Repo Stars](https://img.shields.io/github/stars/jimon/entrypoint) ![GitHub last commit](https://img.shields.io/github/last-commit/jimon/entrypoint)](https://github.com/jimon/entrypoint) - Lightweight entry point for games.
-    - �� [FWK ![GitHub Repo Stars](https://img.shields.io/github/stars/r-lyeh/FWK) ![GitHub last commit](https://img.shields.io/github/last-commit/r-lyeh/FWK)](https://github.com/r-lyeh/FWK) - 3D game framework.
+    - ⭐ [FWK ![GitHub Repo Stars](https://img.shields.io/github/stars/r-lyeh/FWK) ![GitHub last commit](https://img.shields.io/github/last-commit/r-lyeh/FWK)](https://github.com/r-lyeh/FWK) - 3D game framework.
     - 🎉 [Gunslinger ![GitHub Repo Stars](https://img.shields.io/github/stars/MrFrenik/gunslinger) ![GitHub last commit](https://img.shields.io/github/last-commit/MrFrenik/gunslinger)](https://github.com/MrFrenik/gunslinger) - Header-only C99 framework for multimedia apps.
     - 🎉 [RayLib ![GitHub Repo Stars](https://img.shields.io/github/stars/raysan5/raylib) ![GitHub last commit](https://img.shields.io/github/last-commit/raysan5/raylib)](https://github.com/raysan5/raylib) 🔥 - Simple and easy-to-use library to enjoy 2D/3D videogame programming.
 - C: Geometry
@@ -319,7 +319,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Par_Streamlines ![GitHub Repo Stars](https://img.shields.io/github/stars/prideout/par) ![GitHub last commit](https://img.shields.io/github/last-commit/prideout/par)](https://github.com/prideout/par/blob/master/par_streamlines.h) - Triangulating thick lines, béziers, streamlines. [[Demo ![GitHub Repo Stars](https://img.shields.io/github/stars/prideout/streamlines_demo) ![GitHub last commit](https://img.shields.io/github/last-commit/prideout/streamlines_demo)](https://github.com/prideout/streamlines_demo) | [Info](https://prideout.net/blog/par_streamlines/)]
 - C: Graphics - 2D
     - 🎉 [NanoVG ![GitHub Repo Stars](https://img.shields.io/github/stars/memononen/nanovg) ![GitHub last commit](https://img.shields.io/github/last-commit/memononen/nanovg)](https://github.com/memononen/nanovg) - OpenGL-based 2D vector drawing library for UI and visualizations.
-    - �� [Tilengine ![GitHub Repo Stars](https://img.shields.io/github/stars/megamarc/Tilengine) ![GitHub last commit](https://img.shields.io/github/last-commit/megamarc/Tilengine)](https://github.com/megamarc/Tilengine) - 2D graphics with raster effects for retro style game development.
+    - 🎉 [Tilengine ![GitHub Repo Stars](https://img.shields.io/github/stars/megamarc/Tilengine) ![GitHub last commit](https://img.shields.io/github/last-commit/megamarc/Tilengine)](https://github.com/megamarc/Tilengine) - 2D graphics with raster effects for retro style game development.
 - C: Graphics - 3D
     - 🎉 [Sokol Gfx ![GitHub Repo Stars](https://img.shields.io/github/stars/floooh/sokol) ![GitHub last commit](https://img.shields.io/github/last-commit/floooh/sokol)](https://github.com/floooh/sokol/blob/master/sokol_gfx.h) - Cross-platform, single-file graphics. [[Examples](https://floooh.github.io/sokol-html5/)]
     - 🎉 [Sokol Graphics Painter ![GitHub Repo Stars](https://img.shields.io/github/stars/edubart/sokol_gp) ![GitHub last commit](https://img.shields.io/github/last-commit/edubart/sokol_gp)](https://github.com/edubart/sokol_gp) - 2D graphics painter implemented with _Sokol_.
@@ -706,7 +706,7 @@ _Language specific game engine development libraries / frameworks / code._
 - Haxe: Libraries
     - 📚 [HaxeLibs](https://lib.haxe.org/all) - List of every library uploaded to the Haxe website.
     - 📚 [HaxeTink](https://github.com/haxetink) - Various addon libraries for Haxe.
-    - 🌎 [Snowkit](https://github.com/snowkit) - Collective of Haxe developers.
+    - �� [Snowkit](https://github.com/snowkit) - Collective of Haxe developers.
 - Haxe: Physics
     - 🎉 [Haxe Bullet ![GitHub Repo Stars](https://img.shields.io/github/stars/armory3d/haxebullet) ![GitHub last commit](https://img.shields.io/github/last-commit/armory3d/haxebullet)](https://github.com/armory3d/haxebullet) - _Bullet 3D_ physics bindings for Haxe.
     - 🎉 [HeapsIO/bullet ![GitHub Repo Stars](https://img.shields.io/github/stars/HeapsIO/bullet) ![GitHub last commit](https://img.shields.io/github/last-commit/HeapsIO/bullet)](https://github.com/HeapsIO/bullet) - _Bullet 3D_ physics for _Heaps_ (Haxe's native low-level game framework).
