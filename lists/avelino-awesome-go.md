@@ -3507,6 +3507,7 @@ _Software written in Go._
 - [wait-for ![GitHub Repo Stars](https://img.shields.io/github/stars/dnnrly/wait-for) ![GitHub last commit](https://img.shields.io/github/last-commit/dnnrly/wait-for)](https://github.com/dnnrly/wait-for) - Wait for something to happen (from the command line) before continuing. Easy orchestration of Docker services and other things.
 - [Wide](https://wide.b3log.org/login) - Web-based IDE for Teams using Golang.
 - [winrm-cli ![GitHub Repo Stars](https://img.shields.io/github/stars/masterzen/winrm-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/masterzen/winrm-cli)](https://github.com/masterzen/winrm-cli) - Cli tool to remotely execute commands on Windows machines.
+- [zerohand ![GitHub Repo Stars](https://img.shields.io/github/stars/nilpoona/zerohand) ![GitHub last commit](https://img.shields.io/github/last-commit/nilpoona/zerohand)](https://github.com/nilpoona/zerohand) - A simple and efficient load testing tool for Web APIs.
 
 **[⬆ back to top](#contents)**
 
