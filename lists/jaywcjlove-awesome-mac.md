@@ -764,6 +764,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 
 ## AI Tools
 
+* [Agenttrace](https://luoyuctl.github.io/agenttrace/) - Local-first TUI for inspecting AI coding agent sessions, costs, tokens, latency, tool failures, health, and diffs. [![Open-Source Software][OSS Icon]](https://github.com/luoyuctl/agenttrace) ![Freeware][Freeware Icon]
 * [AppleAi](https://www.theappleai.tech/) - Access multiple AI assistants from your menu bar with one shortcut. [![Open-Source Software][OSS Icon]](https://github.com/bunnysayzz/AppleAI)
 * [Apple On-Device OpenAI ![GitHub Repo Stars](https://img.shields.io/github/stars/gety-ai/apple-on-device-openai) ![GitHub last commit](https://img.shields.io/github/last-commit/gety-ai/apple-on-device-openai)](https://github.com/gety-ai/apple-on-device-openai) - Runs Apple on-device models behind an OpenAI-compatible API. [![Open-Source Software][OSS Icon]](https://github.com/gety-ai/apple-on-device-openai) ![Freeware][Freeware Icon]
 * [Atomic Chat ![GitHub Repo Stars](https://img.shields.io/github/stars/AtomicBot-ai/Atomic-Chat) ![GitHub last commit](https://img.shields.io/github/last-commit/AtomicBot-ai/Atomic-Chat)](https://github.com/AtomicBot-ai/Atomic-Chat) - Open-source AI chat client for local and cloud models with MCP support. [![Open-Source Software][OSS Icon]](https://github.com/AtomicBot-ai/Atomic-Chat)
