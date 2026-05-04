@@ -116,7 +116,7 @@ Creative technologists by definition have a breadth of skills as opposed to a sp
 | [**FIELD**](https:&#x2F;&#x2F;www.field.io&#x2F;) | [London] | future aesthetics for design, motion, experiential | 
 | [**Five Stone Studios**](https:&#x2F;&#x2F;fivestonestudios.com&#x2F;) | [Nashville] | Our creative arsenal spans design, live action, animation, &amp; experiential storytelling | 
 | [**Fjord**](https:&#x2F;&#x2F;fjordstudio.no&#x2F;) | [Oslo] | light art curation and production for festivals, installations, and stage productions | 
-| [**Float4**](https:&#x2F;&#x2F;float4.com&#x2F;en&#x2F;) | [Montreal] [NYC] | integrates digital experiences into physical spaces to amplify their identity | [��](https:&#x2F;&#x2F;float4.com&#x2F;en&#x2F;life-at-float4&#x2F;)
+| [**Float4**](https:&#x2F;&#x2F;float4.com&#x2F;en&#x2F;) | [Montreal] [NYC] | integrates digital experiences into physical spaces to amplify their identity | [🌐](https:&#x2F;&#x2F;float4.com&#x2F;en&#x2F;life-at-float4&#x2F;)
 | [**Friendly Vengeance**](https:&#x2F;&#x2F;friendlyvengeance.com&#x2F;) | [Culver City, CA] | interactive experiences and experiential design | 
 | [**fuse**](https:&#x2F;&#x2F;www.fuseworks.it&#x2F;en&#x2F;) | [Modena, Italy] | live-media performances, experimentation, electronic music, digital arts | 
 | [**Future Colossal**](https:&#x2F;&#x2F;www.futurecolossal.com&#x2F;) | [NYC] | experiential technologies in advertising and entertainment and art | [🌐](https:&#x2F;&#x2F;www.futurecolossal.com&#x2F;contact)
@@ -134,7 +134,7 @@ Creative technologists by definition have a breadth of skills as opposed to a sp
 | [**HUSH**](https:&#x2F;&#x2F;heyhush.com&#x2F;) | [NYC] | marketing and advertising, retail and DTC, architecture | [🌐](https:&#x2F;&#x2F;www.heyhush.com&#x2F;people)
 | [**Hyper Studio**](https:&#x2F;&#x2F;hyperstudio.es&#x2F;en&#x2F;) | [Madrid] | art, design, and technology studio integrating digital and physical worlds through experiential and interactive work | 
 | [**iart**](https:&#x2F;&#x2F;iart.ch&#x2F;en&#x2F;) | [Basel] | studio for media architectures, enhancing physical spaces with digital technology | [🌐](https:&#x2F;&#x2F;iart.ch&#x2F;en&#x2F;jobs)
-| [**IMG SRC**](https:&#x2F;&#x2F;www.imgsrc.co.jp&#x2F;) | [Tokyo] | full-service communication agency focusing on websites, installations, and R&amp;D | [🌐](https:&#x2F;&#x2F;www.imgsrc.co.jp&#x2F;en&#x2F;careers&#x2F;)
+| [**IMG SRC**](https:&#x2F;&#x2F;www.imgsrc.co.jp&#x2F;) | [Tokyo] | full-service communication agency focusing on websites, installations, and R&amp;D | [��](https:&#x2F;&#x2F;www.imgsrc.co.jp&#x2F;en&#x2F;careers&#x2F;)
 | [**Immersive International**](https:&#x2F;&#x2F;www.immersive.international&#x2F;) | [London] [Shanghai] [Ottawa] [Hong Kong] [Cape Town] | live experiences and art installations in public, private and commercial spaces | 
 | [**Incite CO**](https:&#x2F;&#x2F;inciteco.com&#x2F;) | [LA] | creative production and experiential design studio specializing in photography, film, and brand content | 
 | [**Intergalactic**](https:&#x2F;&#x2F;intergalactic.com) | [Vancouver] [London] | mobile apps, interactive screens, web development, application design and visualization | [🌐](https:&#x2F;&#x2F;intergalactic.com&#x2F;careers)
