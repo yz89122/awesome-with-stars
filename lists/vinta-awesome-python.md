@@ -2,13 +2,13 @@
 
 An opinionated guide to the best Python frameworks, libraries, tools, and resources.
 
-# **Sponsors**
+## **Sponsors**
 
 - **[pyr](https://pyrun.dev)**: Zero-config Python project manager. Bootstraps its own runtime, app-convention, and working imports - out the box.
 
 > The **#10 most-starred repo on GitHub**. Put your product in front of Python developers. [Become a sponsor](SPONSORSHIP.md).
 
-# Categories
+## Categories
 
 **AI & ML**
 
@@ -123,11 +123,11 @@ An opinionated guide to the best Python frameworks, libraries, tools, and resour
 - [Microsoft Windows](#microsoft-windows)
 - [Miscellaneous](#miscellaneous)
 
----
+## Projects
 
 **AI & ML**
 
-## AI and Agents
+### AI and Agents
 
 _Libraries for building AI applications, LLM integrations, and autonomous agents._
 
@@ -163,7 +163,7 @@ _Libraries for building AI applications, LLM integrations, and autonomous agents
   - [vibevoice ![GitHub Repo Stars](https://img.shields.io/github/stars/microsoft/VibeVoice) ![GitHub last commit](https://img.shields.io/github/last-commit/microsoft/VibeVoice)](https://github.com/microsoft/VibeVoice) - A family of open-source voice AI models from Microsoft for text-to-speech and long-form speech recognition.
   - [voxcpm ![GitHub Repo Stars](https://img.shields.io/github/stars/OpenBMB/VoxCPM) ![GitHub last commit](https://img.shields.io/github/last-commit/OpenBMB/VoxCPM)](https://github.com/OpenBMB/VoxCPM) - A tokenizer-free text-to-speech foundation model for multilingual speech generation and voice cloning.
 
-## Deep Learning
+### Deep Learning
 
 _Frameworks for Neural Networks and Deep Learning. Also see [awesome-deep-learning ![GitHub Repo Stars](https://img.shields.io/github/stars/ChristosChristofidis/awesome-deep-learning) ![GitHub last commit](https://img.shields.io/github/last-commit/ChristosChristofidis/awesome-deep-learning)](https://github.com/ChristosChristofidis/awesome-deep-learning)._
 
@@ -174,7 +174,7 @@ _Frameworks for Neural Networks and Deep Learning. Also see [awesome-deep-learni
 - [stable-baselines3 ![GitHub Repo Stars](https://img.shields.io/github/stars/DLR-RM/stable-baselines3) ![GitHub last commit](https://img.shields.io/github/last-commit/DLR-RM/stable-baselines3)](https://github.com/DLR-RM/stable-baselines3) - PyTorch implementations of Stable Baselines (deep) reinforcement learning algorithms.
 - [tensorflow ![GitHub Repo Stars](https://img.shields.io/github/stars/tensorflow/tensorflow) ![GitHub last commit](https://img.shields.io/github/last-commit/tensorflow/tensorflow)](https://github.com/tensorflow/tensorflow) - The most popular Deep Learning framework created by Google.
 
-## Machine Learning
+### Machine Learning
 
 _Libraries for Machine Learning. Also see [awesome-machine-learning ![GitHub Repo Stars](https://img.shields.io/github/stars/josephmisiti/awesome-machine-learning) ![GitHub last commit](https://img.shields.io/github/last-commit/josephmisiti/awesome-machine-learning)](https://github.com/josephmisiti/awesome-machine-learning#python)._
 
@@ -190,7 +190,7 @@ _Libraries for Machine Learning. Also see [awesome-machine-learning ![GitHub Rep
 - [timesfm ![GitHub Repo Stars](https://img.shields.io/github/stars/google-research/timesfm) ![GitHub last commit](https://img.shields.io/github/last-commit/google-research/timesfm)](https://github.com/google-research/timesfm) - A pretrained foundation model from Google Research for time-series forecasting.
 - [xgboost ![GitHub Repo Stars](https://img.shields.io/github/stars/dmlc/xgboost) ![GitHub last commit](https://img.shields.io/github/last-commit/dmlc/xgboost)](https://github.com/dmlc/xgboost) - A scalable, portable, and distributed gradient boosting library.
 
-## Natural Language Processing
+### Natural Language Processing
 
 _Libraries for working with human languages._
 
@@ -203,7 +203,7 @@ _Libraries for working with human languages._
   - [funnlp ![GitHub Repo Stars](https://img.shields.io/github/stars/fighting41love/funNLP) ![GitHub last commit](https://img.shields.io/github/last-commit/fighting41love/funNLP)](https://github.com/fighting41love/funNLP) - A collection of tools and datasets for Chinese NLP.
   - [jieba ![GitHub Repo Stars](https://img.shields.io/github/stars/fxsjy/jieba) ![GitHub last commit](https://img.shields.io/github/last-commit/fxsjy/jieba)](https://github.com/fxsjy/jieba) - The most popular Chinese text segmentation library.
 
-## Computer Vision
+### Computer Vision
 
 _Libraries for Computer Vision._
 
@@ -212,7 +212,7 @@ _Libraries for Computer Vision._
 - [opencv ![GitHub Repo Stars](https://img.shields.io/github/stars/opencv/opencv-python) ![GitHub last commit](https://img.shields.io/github/last-commit/opencv/opencv-python)](https://github.com/opencv/opencv-python) - Open Source Computer Vision Library.
 - [pytesseract ![GitHub Repo Stars](https://img.shields.io/github/stars/madmaze/pytesseract) ![GitHub last commit](https://img.shields.io/github/last-commit/madmaze/pytesseract)](https://github.com/madmaze/pytesseract) - A wrapper for [Google Tesseract OCR](https://github.com/tesseract-ocr).
 
-## Recommender Systems
+### Recommender Systems
 
 _Libraries for building recommender systems._
 
@@ -222,7 +222,7 @@ _Libraries for building recommender systems._
 
 **Web Development**
 
-## Web Frameworks
+### Web Frameworks
 
 _Traditional full stack web frameworks. Also see [Web APIs](#web-apis)._
 
@@ -245,7 +245,7 @@ _Traditional full stack web frameworks. Also see [Web APIs](#web-apis)._
   - [starlette ![GitHub Repo Stars](https://img.shields.io/github/stars/Kludex/starlette) ![GitHub last commit](https://img.shields.io/github/last-commit/Kludex/starlette)](https://github.com/Kludex/starlette) - A lightweight ASGI framework and toolkit for building high-performance async services.
   - [tornado ![GitHub Repo Stars](https://img.shields.io/github/stars/tornadoweb/tornado) ![GitHub last commit](https://img.shields.io/github/last-commit/tornadoweb/tornado)](https://github.com/tornadoweb/tornado) - A web framework and asynchronous networking library.
 
-## Web APIs
+### Web APIs
 
 _Libraries for building RESTful and GraphQL APIs._
 
@@ -264,7 +264,7 @@ _Libraries for building RESTful and GraphQL APIs._
   - [strawberry ![GitHub Repo Stars](https://img.shields.io/github/stars/strawberry-graphql/strawberry) ![GitHub last commit](https://img.shields.io/github/last-commit/strawberry-graphql/strawberry)](https://github.com/strawberry-graphql/strawberry) - A GraphQL library that leverages Python type annotations for schema definition.
   - [webargs ![GitHub Repo Stars](https://img.shields.io/github/stars/marshmallow-code/webargs) ![GitHub last commit](https://img.shields.io/github/last-commit/marshmallow-code/webargs)](https://github.com/marshmallow-code/webargs) - A friendly library for parsing HTTP request arguments with built-in support for popular web frameworks.
 
-## Web Servers
+### Web Servers
 
 _ASGI and WSGI compatible web servers._
 
@@ -281,7 +281,7 @@ _ASGI and WSGI compatible web servers._
   - [grpcio ![GitHub Repo Stars](https://img.shields.io/github/stars/grpc/grpc) ![GitHub last commit](https://img.shields.io/github/last-commit/grpc/grpc)](https://github.com/grpc/grpc) - HTTP/2-based RPC framework with Python bindings, built by Google.
   - [rpyc ![GitHub Repo Stars](https://img.shields.io/github/stars/tomerfiliba-org/rpyc) ![GitHub last commit](https://img.shields.io/github/last-commit/tomerfiliba-org/rpyc)](https://github.com/tomerfiliba-org/rpyc) (Remote Python Call) - A transparent and symmetric RPC library for Python.
 
-## WebSocket
+### WebSocket
 
 _Libraries for working with WebSocket._
 
@@ -291,21 +291,21 @@ _Libraries for working with WebSocket._
 - [picows ![GitHub Repo Stars](https://img.shields.io/github/stars/tarasko/picows) ![GitHub last commit](https://img.shields.io/github/last-commit/tarasko/picows)](https://github.com/tarasko/picows) - Fastest WebSocket clients and servers with a frame level interface for the most demanding use-cases.
 - [websockets ![GitHub Repo Stars](https://img.shields.io/github/stars/python-websockets/websockets) ![GitHub last commit](https://img.shields.io/github/last-commit/python-websockets/websockets)](https://github.com/python-websockets/websockets) - A library for building WebSocket servers and clients with a focus on correctness and simplicity.
 
-## Template Engines
+### Template Engines
 
 _Libraries and tools for templating and lexing._
 
 - [jinja ![GitHub Repo Stars](https://img.shields.io/github/stars/pallets/jinja) ![GitHub last commit](https://img.shields.io/github/last-commit/pallets/jinja)](https://github.com/pallets/jinja) - A modern and designer friendly templating language.
 - [mako ![GitHub Repo Stars](https://img.shields.io/github/stars/sqlalchemy/mako) ![GitHub last commit](https://img.shields.io/github/last-commit/sqlalchemy/mako)](https://github.com/sqlalchemy/mako) - Hyperfast and lightweight templating for the Python platform.
 
-## Web Asset Management
+### Web Asset Management
 
 _Tools for managing, compressing and minifying website assets._
 
 - [django-compressor ![GitHub Repo Stars](https://img.shields.io/github/stars/django-compressor/django-compressor) ![GitHub last commit](https://img.shields.io/github/last-commit/django-compressor/django-compressor)](https://github.com/django-compressor/django-compressor) - Compresses linked and inline JavaScript or CSS into a single cached file.
 - [django-storages ![GitHub Repo Stars](https://img.shields.io/github/stars/jschneier/django-storages) ![GitHub last commit](https://img.shields.io/github/last-commit/jschneier/django-storages)](https://github.com/jschneier/django-storages) - A collection of custom storage back ends for Django.
 
-## Authentication
+### Authentication
 
 _Libraries for implementing authentication schemes._
 
@@ -320,7 +320,7 @@ _Libraries for implementing authentication schemes._
   - [django-guardian ![GitHub Repo Stars](https://img.shields.io/github/stars/django-guardian/django-guardian) ![GitHub last commit](https://img.shields.io/github/last-commit/django-guardian/django-guardian)](https://github.com/django-guardian/django-guardian) - Implementation of per object permissions for Django 1.2+
   - [django-rules ![GitHub Repo Stars](https://img.shields.io/github/stars/dfunckt/django-rules) ![GitHub last commit](https://img.shields.io/github/last-commit/dfunckt/django-rules)](https://github.com/dfunckt/django-rules) - A tiny but powerful app providing object-level permissions to Django, without requiring a database.
 
-## Admin Panels
+### Admin Panels
 
 _Libraries for administrative interfaces._
 
@@ -332,7 +332,7 @@ _Libraries for administrative interfaces._
 - [func-to-web ![GitHub Repo Stars](https://img.shields.io/github/stars/offerrall/FuncToWeb) ![GitHub last commit](https://img.shields.io/github/last-commit/offerrall/FuncToWeb)](https://github.com/offerrall/FuncToWeb) - Instantly create web UIs from Python functions using type hints. Zero frontend code required.
 - [jet-bridge ![GitHub Repo Stars](https://img.shields.io/github/stars/jet-admin/jet-bridge) ![GitHub last commit](https://img.shields.io/github/last-commit/jet-admin/jet-bridge)](https://github.com/jet-admin/jet-bridge) - Admin panel framework for any application with nice UI (ex Jet Django).
 
-## CMS
+### CMS
 
 _Content Management Systems._
 
@@ -340,7 +340,7 @@ _Content Management Systems._
 - [indico ![GitHub Repo Stars](https://img.shields.io/github/stars/indico/indico) ![GitHub last commit](https://img.shields.io/github/last-commit/indico/indico)](https://github.com/indico/indico) - A feature-rich event management system, made @ [CERN](https://en.wikipedia.org/wiki/CERN).
 - [wagtail ![GitHub Repo Stars](https://img.shields.io/github/stars/wagtail/wagtail) ![GitHub last commit](https://img.shields.io/github/last-commit/wagtail/wagtail)](https://github.com/wagtail/wagtail) - A Django content management system.
 
-## Static Site Generators
+### Static Site Generators
 
 _Static site generator is a software that takes some text + templates as input and produces HTML files on the output._
 
@@ -350,7 +350,7 @@ _Static site generator is a software that takes some text + templates as input a
 
 **HTTP & Scraping**
 
-## HTTP Clients
+### HTTP Clients
 
 _Libraries for working with HTTP._
 
@@ -361,7 +361,7 @@ _Libraries for working with HTTP._
 - [requests ![GitHub Repo Stars](https://img.shields.io/github/stars/psf/requests) ![GitHub last commit](https://img.shields.io/github/last-commit/psf/requests)](https://github.com/psf/requests) - HTTP Requests for Humans.
 - [urllib3 ![GitHub Repo Stars](https://img.shields.io/github/stars/urllib3/urllib3) ![GitHub last commit](https://img.shields.io/github/last-commit/urllib3/urllib3)](https://github.com/urllib3/urllib3) - A HTTP library with thread-safe connection pooling, file post support, sanity friendly.
 
-## Web Scraping
+### Web Scraping
 
 _Libraries to automate web scraping and extract web content._
 
@@ -377,7 +377,7 @@ _Libraries to automate web scraping and extract web content._
   - [sumy ![GitHub Repo Stars](https://img.shields.io/github/stars/miso-belica/sumy) ![GitHub last commit](https://img.shields.io/github/last-commit/miso-belica/sumy)](https://github.com/miso-belica/sumy) - A module for automatic summarization of text documents and HTML pages.
   - [trafilatura ![GitHub Repo Stars](https://img.shields.io/github/stars/adbar/trafilatura) ![GitHub last commit](https://img.shields.io/github/last-commit/adbar/trafilatura)](https://github.com/adbar/trafilatura) - A tool for gathering text and metadata from the web, with built-in content filtering.
 
-## Email
+### Email
 
 _Libraries for sending and parsing email, and mail server management._
 
@@ -386,7 +386,7 @@ _Libraries for sending and parsing email, and mail server management._
 
 **Database & Storage**
 
-## ORM
+### ORM
 
 _Libraries that implement Object-Relational Mapping or data mapping techniques._
 
@@ -404,7 +404,7 @@ _Libraries that implement Object-Relational Mapping or data mapping techniques._
   - [mongoengine ![GitHub Repo Stars](https://img.shields.io/github/stars/MongoEngine/mongoengine) ![GitHub last commit](https://img.shields.io/github/last-commit/MongoEngine/mongoengine)](https://github.com/MongoEngine/mongoengine) - A Python Object-Document-Mapper for working with MongoDB.
   - [pynamodb ![GitHub Repo Stars](https://img.shields.io/github/stars/pynamodb/PynamoDB) ![GitHub last commit](https://img.shields.io/github/last-commit/pynamodb/PynamoDB)](https://github.com/pynamodb/PynamoDB) - A Pythonic interface for [Amazon DynamoDB](https://aws.amazon.com/dynamodb/).
 
-## Database Drivers
+### Database Drivers
 
 _Libraries for connecting and operating databases._
 
@@ -425,7 +425,7 @@ _Libraries for connecting and operating databases._
   - [pymongo ![GitHub Repo Stars](https://img.shields.io/github/stars/mongodb/mongo-python-driver) ![GitHub last commit](https://img.shields.io/github/last-commit/mongodb/mongo-python-driver)](https://github.com/mongodb/mongo-python-driver) - The official Python client for MongoDB.
   - [redis-py ![GitHub Repo Stars](https://img.shields.io/github/stars/redis/redis-py) ![GitHub last commit](https://img.shields.io/github/last-commit/redis/redis-py)](https://github.com/redis/redis-py) - The Python client for Redis.
 
-## Database
+### Database
 
 _Databases implemented in Python._
 
@@ -435,7 +435,7 @@ _Databases implemented in Python._
 - [tinydb ![GitHub Repo Stars](https://img.shields.io/github/stars/msiemens/tinydb) ![GitHub last commit](https://img.shields.io/github/last-commit/msiemens/tinydb)](https://github.com/msiemens/tinydb) - A tiny, document-oriented database.
 - [ZODB ![GitHub Repo Stars](https://img.shields.io/github/stars/zopefoundation/ZODB) ![GitHub last commit](https://img.shields.io/github/last-commit/zopefoundation/ZODB)](https://github.com/zopefoundation/ZODB) - A native object database for Python. A key-value and object graph database.
 
-## Caching
+### Caching
 
 _Libraries for caching data._
 
@@ -444,7 +444,7 @@ _Libraries for caching data._
 - [dogpile.cache ![GitHub Repo Stars](https://img.shields.io/github/stars/sqlalchemy/dogpile.cache) ![GitHub last commit](https://img.shields.io/github/last-commit/sqlalchemy/dogpile.cache)](https://github.com/sqlalchemy/dogpile.cache) - dogpile.cache is a next generation replacement for Beaker made by the same authors.
 - [python-diskcache ![GitHub Repo Stars](https://img.shields.io/github/stars/grantjenks/python-diskcache) ![GitHub last commit](https://img.shields.io/github/last-commit/grantjenks/python-diskcache)](https://github.com/grantjenks/python-diskcache) - SQLite and file backed cache backend with faster lookups than memcached and redis.
 
-## Search
+### Search
 
 _Libraries and software for indexing and performing search queries on data._
 
@@ -452,7 +452,7 @@ _Libraries and software for indexing and performing search queries on data._
 - [elasticsearch-py ![GitHub Repo Stars](https://img.shields.io/github/stars/elastic/elasticsearch-py) ![GitHub last commit](https://img.shields.io/github/last-commit/elastic/elasticsearch-py)](https://github.com/elastic/elasticsearch-py) - The official low-level Python client for [Elasticsearch](https://www.elastic.co/products/elasticsearch).
 - [pysolr ![GitHub Repo Stars](https://img.shields.io/github/stars/django-haystack/pysolr) ![GitHub last commit](https://img.shields.io/github/last-commit/django-haystack/pysolr)](https://github.com/django-haystack/pysolr) - A lightweight Python wrapper for [Apache Solr](https://lucene.apache.org/solr/).
 
-## Serialization
+### Serialization
 
 _Libraries for serializing complex data types._
 
@@ -462,7 +462,7 @@ _Libraries for serializing complex data types._
 
 **Data & Science**
 
-## Data Analysis
+### Data Analysis
 
 _Libraries for data analysis._
 
@@ -483,7 +483,7 @@ _Libraries for data analysis._
   - [openbb ![GitHub Repo Stars](https://img.shields.io/github/stars/OpenBB-finance/OpenBB) ![GitHub last commit](https://img.shields.io/github/last-commit/OpenBB-finance/OpenBB)](https://github.com/OpenBB-finance/OpenBB) - A financial data platform for analysts, quants and AI agents.
   - [yfinance ![GitHub Repo Stars](https://img.shields.io/github/stars/ranaroussi/yfinance) ![GitHub last commit](https://img.shields.io/github/last-commit/ranaroussi/yfinance)](https://github.com/ranaroussi/yfinance) - Easy Pythonic way to download market and financial data from Yahoo Finance.
 
-## Data Validation
+### Data Validation
 
 _Libraries for validating data. Used for forms in many cases._
 
@@ -493,7 +493,7 @@ _Libraries for validating data. Used for forms in many cases._
 - [pydantic ![GitHub Repo Stars](https://img.shields.io/github/stars/pydantic/pydantic) ![GitHub last commit](https://img.shields.io/github/last-commit/pydantic/pydantic)](https://github.com/pydantic/pydantic) - Data validation using Python type hints.
 - [voluptuous ![GitHub Repo Stars](https://img.shields.io/github/stars/alecthomas/voluptuous) ![GitHub last commit](https://img.shields.io/github/last-commit/alecthomas/voluptuous)](https://github.com/alecthomas/voluptuous) - A Python data validation library primarily intended for validating data from untrusted sources.
 
-## Data Visualization
+### Data Visualization
 
 _Libraries for visualizing data. Also see [awesome-javascript ![GitHub Repo Stars](https://img.shields.io/github/stars/sorrycc/awesome-javascript) ![GitHub last commit](https://img.shields.io/github/last-commit/sorrycc/awesome-javascript)](https://github.com/sorrycc/awesome-javascript#data-visualization)._
 
@@ -516,7 +516,7 @@ _Libraries for visualizing data. Also see [awesome-javascript ![GitHub Repo Star
   - [gradio ![GitHub Repo Stars](https://img.shields.io/github/stars/gradio-app/gradio) ![GitHub last commit](https://img.shields.io/github/last-commit/gradio-app/gradio)](https://github.com/gradio-app/gradio) - Build and share machine learning apps, all in Python.
   - [streamlit ![GitHub Repo Stars](https://img.shields.io/github/stars/streamlit/streamlit) ![GitHub last commit](https://img.shields.io/github/last-commit/streamlit/streamlit)](https://github.com/streamlit/streamlit) - A framework which lets you build dashboards, generate reports, or create chat apps in minutes.
 
-## Geolocation
+### Geolocation
 
 _Libraries for geocoding addresses and working with latitudes and longitudes._
 
@@ -526,7 +526,7 @@ _Libraries for geocoding addresses and working with latitudes and longitudes._
 - [geopandas ![GitHub Repo Stars](https://img.shields.io/github/stars/geopandas/geopandas) ![GitHub last commit](https://img.shields.io/github/last-commit/geopandas/geopandas)](https://github.com/geopandas/geopandas) - Python tools for geographic data (GeoSeries/GeoDataFrame) built on pandas.
 - [geopy ![GitHub Repo Stars](https://img.shields.io/github/stars/geopy/geopy) ![GitHub last commit](https://img.shields.io/github/last-commit/geopy/geopy)](https://github.com/geopy/geopy) - Python Geocoding Toolbox.
 
-## Science
+### Science
 
 _Libraries for scientific computing. Also see [Python-for-Scientists ![GitHub Repo Stars](https://img.shields.io/github/stars/TomNicholas/Python-for-Scientists) ![GitHub last commit](https://img.shields.io/github/last-commit/TomNicholas/Python-for-Scientists)](https://github.com/TomNicholas/Python-for-Scientists)._
 
@@ -557,7 +557,7 @@ _Libraries for scientific computing. Also see [Python-for-Scientists ![GitHub Re
   - [networkx ![GitHub Repo Stars](https://img.shields.io/github/stars/networkx/networkx) ![GitHub last commit](https://img.shields.io/github/last-commit/networkx/networkx)](https://github.com/networkx/networkx) - A high-productivity software for complex networks.
   - [shapely ![GitHub Repo Stars](https://img.shields.io/github/stars/shapely/shapely) ![GitHub last commit](https://img.shields.io/github/last-commit/shapely/shapely)](https://github.com/shapely/shapely) - Manipulation and analysis of geometric objects in the Cartesian plane.
 
-## Quantum Computing
+### Quantum Computing
 
 _Libraries for quantum computing._
 
@@ -568,7 +568,7 @@ _Libraries for quantum computing._
 
 **Developer Tools**
 
-## Algorithms and Design Patterns
+### Algorithms and Design Patterns
 
 _Python implementation of data structures, algorithms and design patterns. Also see [awesome-algorithms ![GitHub Repo Stars](https://img.shields.io/github/stars/tayllan/awesome-algorithms) ![GitHub last commit](https://img.shields.io/github/last-commit/tayllan/awesome-algorithms)](https://github.com/tayllan/awesome-algorithms)._
 
@@ -580,7 +580,7 @@ _Python implementation of data structures, algorithms and design patterns. Also 
   - [python-patterns ![GitHub Repo Stars](https://img.shields.io/github/stars/faif/python-patterns) ![GitHub last commit](https://img.shields.io/github/last-commit/faif/python-patterns)](https://github.com/faif/python-patterns) - A collection of design patterns in Python.
   - [transitions ![GitHub Repo Stars](https://img.shields.io/github/stars/pytransitions/transitions) ![GitHub last commit](https://img.shields.io/github/last-commit/pytransitions/transitions)](https://github.com/pytransitions/transitions) - A lightweight, object-oriented finite state machine implementation.
 
-## Interactive Interpreter
+### Interactive Interpreter
 
 _Interactive Python interpreters (REPL)._
 
@@ -589,7 +589,7 @@ _Interactive Python interpreters (REPL)._
 - [marimo ![GitHub Repo Stars](https://img.shields.io/github/stars/marimo-team/marimo) ![GitHub last commit](https://img.shields.io/github/last-commit/marimo-team/marimo)](https://github.com/marimo-team/marimo) - Transform data and train models, feels like a next-gen notebook, stored as Git-friendly Python.
 - [ptpython ![GitHub Repo Stars](https://img.shields.io/github/stars/prompt-toolkit/ptpython) ![GitHub last commit](https://img.shields.io/github/last-commit/prompt-toolkit/ptpython)](https://github.com/prompt-toolkit/ptpython) - Advanced Python REPL built on top of the [python-prompt-toolkit ![GitHub Repo Stars](https://img.shields.io/github/stars/prompt-toolkit/python-prompt-toolkit) ![GitHub last commit](https://img.shields.io/github/last-commit/prompt-toolkit/python-prompt-toolkit)](https://github.com/prompt-toolkit/python-prompt-toolkit).
 
-## Code Analysis
+### Code Analysis
 
 _Tools of static analysis, linters and code quality checkers. Also see [awesome-static-analysis ![GitHub Repo Stars](https://img.shields.io/github/stars/analysis-tools-dev/static-analysis) ![GitHub last commit](https://img.shields.io/github/last-commit/analysis-tools-dev/static-analysis)](https://github.com/analysis-tools-dev/static-analysis)._
 
@@ -619,7 +619,7 @@ _Tools of static analysis, linters and code quality checkers. Also see [awesome-
   - [monkeytype ![GitHub Repo Stars](https://img.shields.io/github/stars/Instagram/MonkeyType) ![GitHub last commit](https://img.shields.io/github/last-commit/Instagram/MonkeyType)](https://github.com/Instagram/MonkeyType) - A system for Python that generates static type annotations by collecting runtime types.
   - [pytype ![GitHub Repo Stars](https://img.shields.io/github/stars/google/pytype) ![GitHub last commit](https://img.shields.io/github/last-commit/google/pytype)](https://github.com/google/pytype) - Pytype checks and infers types for Python code - without requiring type annotations.
 
-## Testing
+### Testing
 
 _Libraries for testing codebases and generating test data. Also see [awesome-python-testing ![GitHub Repo Stars](https://img.shields.io/github/stars/cleder/awesome-python-testing) ![GitHub last commit](https://img.shields.io/github/last-commit/cleder/awesome-python-testing)](https://github.com/cleder/awesome-python-testing)._
 
@@ -655,7 +655,7 @@ _Libraries for testing codebases and generating test data. Also see [awesome-pyt
   - [faker ![GitHub Repo Stars](https://img.shields.io/github/stars/joke2k/faker) ![GitHub last commit](https://img.shields.io/github/last-commit/joke2k/faker)](https://github.com/joke2k/faker) - A Python package that generates fake data.
   - [mimesis ![GitHub Repo Stars](https://img.shields.io/github/stars/lk-geimfari/mimesis) ![GitHub last commit](https://img.shields.io/github/last-commit/lk-geimfari/mimesis)](https://github.com/lk-geimfari/mimesis) - is a Python library that help you generate fake data.
 
-## Debugging Tools
+### Debugging Tools
 
 _Libraries for debugging code._
 
@@ -674,7 +674,7 @@ _Libraries for debugging code._
   - [icecream ![GitHub Repo Stars](https://img.shields.io/github/stars/gruns/icecream) ![GitHub last commit](https://img.shields.io/github/last-commit/gruns/icecream)](https://github.com/gruns/icecream) - Inspect variables, expressions, and program execution with a single, simple function call.
   - [memory_graph ![GitHub Repo Stars](https://img.shields.io/github/stars/bterwijn/memory_graph) ![GitHub last commit](https://img.shields.io/github/last-commit/bterwijn/memory_graph)](https://github.com/bterwijn/memory_graph) - Visualize Python data at runtime to debug references, mutability, and aliasing.
 
-## Build Tools
+### Build Tools
 
 _Compile software from source code._
 
@@ -685,7 +685,7 @@ _Compile software from source code._
 - [doit ![GitHub Repo Stars](https://img.shields.io/github/stars/pydoit/doit) ![GitHub last commit](https://img.shields.io/github/last-commit/pydoit/doit)](https://github.com/pydoit/doit) - A task runner and build tool.
 - [scons ![GitHub Repo Stars](https://img.shields.io/github/stars/SCons/scons) ![GitHub last commit](https://img.shields.io/github/last-commit/SCons/scons)](https://github.com/SCons/scons) - A software construction tool.
 
-## Documentation
+### Documentation
 
 _Libraries for generating project documentation._
 
@@ -697,7 +697,7 @@ _Libraries for generating project documentation._
 
 **DevOps**
 
-## DevOps Tools
+### DevOps Tools
 
 _Software and libraries for DevOps._
 
@@ -723,7 +723,7 @@ _Software and libraries for DevOps._
   - [chaostoolkit ![GitHub Repo Stars](https://img.shields.io/github/stars/chaostoolkit/chaostoolkit) ![GitHub last commit](https://img.shields.io/github/last-commit/chaostoolkit/chaostoolkit)](https://github.com/chaostoolkit/chaostoolkit) - A Chaos Engineering toolkit & Orchestration for Developers.
   - [pre-commit ![GitHub Repo Stars](https://img.shields.io/github/stars/pre-commit/pre-commit) ![GitHub last commit](https://img.shields.io/github/last-commit/pre-commit/pre-commit)](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
 
-## Distributed Computing
+### Distributed Computing
 
 _Frameworks and libraries for Distributed Computing._
 
@@ -735,7 +735,7 @@ _Frameworks and libraries for Distributed Computing._
   - [joblib ![GitHub Repo Stars](https://img.shields.io/github/stars/joblib/joblib) ![GitHub last commit](https://img.shields.io/github/last-commit/joblib/joblib)](https://github.com/joblib/joblib) - A set of tools to provide lightweight pipelining in Python.
   - [ray ![GitHub Repo Stars](https://img.shields.io/github/stars/ray-project/ray) ![GitHub last commit](https://img.shields.io/github/last-commit/ray-project/ray)](https://github.com/ray-project/ray/) - A system for parallel and distributed Python that unifies the machine learning ecosystem.
 
-## Task Queues
+### Task Queues
 
 _Libraries for working with task queues._
 
@@ -744,13 +744,13 @@ _Libraries for working with task queues._
 - [huey ![GitHub Repo Stars](https://img.shields.io/github/stars/coleifer/huey) ![GitHub last commit](https://img.shields.io/github/last-commit/coleifer/huey)](https://github.com/coleifer/huey) - Little multi-threaded task queue.
 - [rq ![GitHub Repo Stars](https://img.shields.io/github/stars/rq/rq) ![GitHub last commit](https://img.shields.io/github/last-commit/rq/rq)](https://github.com/rq/rq) - Simple job queues for Python.
 
-## Messaging
+### Messaging
 
 _Libraries for working with message brokers and event streaming._
 
 - [faststream ![GitHub Repo Stars](https://img.shields.io/github/stars/ag2ai/faststream) ![GitHub last commit](https://img.shields.io/github/last-commit/ag2ai/faststream)](https://github.com/ag2ai/faststream) - A framework for building asynchronous services over Apache Kafka, RabbitMQ, NATS, MQTT and Redis.
 
-## Job Schedulers
+### Job Schedulers
 
 _Libraries for scheduling jobs._
 
@@ -761,7 +761,7 @@ _Libraries for scheduling jobs._
 - [schedule ![GitHub Repo Stars](https://img.shields.io/github/stars/dbader/schedule) ![GitHub last commit](https://img.shields.io/github/last-commit/dbader/schedule)](https://github.com/dbader/schedule) - Python job scheduling for humans.
 - [SpiffWorkflow ![GitHub Repo Stars](https://img.shields.io/github/stars/sartography/SpiffWorkflow) ![GitHub last commit](https://img.shields.io/github/last-commit/sartography/SpiffWorkflow)](https://github.com/sartography/SpiffWorkflow) - A powerful workflow engine implemented in pure Python.
 
-## Logging
+### Logging
 
 _Libraries for generating and working with logs._
 
@@ -770,7 +770,7 @@ _Libraries for generating and working with logs._
 - [loguru ![GitHub Repo Stars](https://img.shields.io/github/stars/Delgan/loguru) ![GitHub last commit](https://img.shields.io/github/last-commit/Delgan/loguru)](https://github.com/Delgan/loguru) - Library which aims to bring enjoyable logging in Python.
 - [structlog ![GitHub Repo Stars](https://img.shields.io/github/stars/hynek/structlog) ![GitHub last commit](https://img.shields.io/github/last-commit/hynek/structlog)](https://github.com/hynek/structlog) - Structured logging made easy.
 
-## Network Virtualization
+### Network Virtualization
 
 _Tools and libraries for Virtual Networking and SDN (Software Defined Networking)._
 
@@ -780,7 +780,7 @@ _Tools and libraries for Virtual Networking and SDN (Software Defined Networking
 
 **CLI & GUI**
 
-## CLI Development
+### CLI Development
 
 _Libraries for building command-line applications._
 
@@ -799,7 +799,7 @@ _Libraries for building command-line applications._
   - [textual ![GitHub Repo Stars](https://img.shields.io/github/stars/Textualize/textual) ![GitHub last commit](https://img.shields.io/github/last-commit/Textualize/textual)](https://github.com/Textualize/textual) - A framework for building interactive user interfaces that run in the terminal and the browser.
   - [tqdm ![GitHub Repo Stars](https://img.shields.io/github/stars/tqdm/tqdm) ![GitHub last commit](https://img.shields.io/github/last-commit/tqdm/tqdm)](https://github.com/tqdm/tqdm) - Fast, extensible progress bar for loops and CLI.
 
-## CLI Tools
+### CLI Tools
 
 _Useful CLI-based tools for productivity._
 
@@ -818,7 +818,7 @@ _Useful CLI-based tools for productivity._
   - [mycli ![GitHub Repo Stars](https://img.shields.io/github/stars/dbcli/mycli) ![GitHub last commit](https://img.shields.io/github/last-commit/dbcli/mycli)](https://github.com/dbcli/mycli) - MySQL CLI with autocompletion and syntax highlighting.
   - [pgcli ![GitHub Repo Stars](https://img.shields.io/github/stars/dbcli/pgcli) ![GitHub last commit](https://img.shields.io/github/last-commit/dbcli/pgcli)](https://github.com/dbcli/pgcli) - PostgreSQL CLI with autocompletion and syntax highlighting.
 
-## GUI Development
+### GUI Development
 
 _Libraries for working with graphical user interface applications._
 
@@ -846,7 +846,7 @@ _Libraries for working with graphical user interface applications._
 
 **Text & Documents**
 
-## Text Processing
+### Text Processing
 
 _Libraries for parsing and manipulating plain texts._
 
@@ -872,7 +872,7 @@ _Libraries for parsing and manipulating plain texts._
   - [python-user-agents ![GitHub Repo Stars](https://img.shields.io/github/stars/selwin/python-user-agents) ![GitHub last commit](https://img.shields.io/github/last-commit/selwin/python-user-agents)](https://github.com/selwin/python-user-agents) - Browser user agent parser.
   - [sqlparse ![GitHub Repo Stars](https://img.shields.io/github/stars/andialbrecht/sqlparse) ![GitHub last commit](https://img.shields.io/github/last-commit/andialbrecht/sqlparse)](https://github.com/andialbrecht/sqlparse) - A non-validating SQL parser.
 
-## HTML Manipulation
+### HTML Manipulation
 
 _Libraries for working with HTML and XML._
 
@@ -884,7 +884,7 @@ _Libraries for working with HTML and XML._
 - [tinycss2 ![GitHub Repo Stars](https://img.shields.io/github/stars/Kozea/tinycss2) ![GitHub last commit](https://img.shields.io/github/last-commit/Kozea/tinycss2)](https://github.com/Kozea/tinycss2) - A low-level CSS parser and generator written in Python.
 - [xmltodict ![GitHub Repo Stars](https://img.shields.io/github/stars/martinblech/xmltodict) ![GitHub last commit](https://img.shields.io/github/last-commit/martinblech/xmltodict)](https://github.com/martinblech/xmltodict) - Working with XML feel like you are working with JSON.
 
-## File Format Processing
+### File Format Processing
 
 _Libraries for parsing and manipulating specific text formats._
 
@@ -918,7 +918,7 @@ _Libraries for parsing and manipulating specific text formats._
   - [pyyaml ![GitHub Repo Stars](https://img.shields.io/github/stars/yaml/pyyaml) ![GitHub last commit](https://img.shields.io/github/last-commit/yaml/pyyaml)](https://github.com/yaml/pyyaml) - YAML implementations for Python.
   - [tomllib](https://docs.python.org/3/library/tomllib.html) - (Python standard library) Parse TOML files.
 
-## File Manipulation
+### File Manipulation
 
 _Libraries for file manipulation._
 
@@ -930,7 +930,7 @@ _Libraries for file manipulation._
 
 **Media**
 
-## Image Processing
+### Image Processing
 
 _Libraries for manipulating images._
 
@@ -943,7 +943,7 @@ _Libraries for manipulating images._
 - [thumbor ![GitHub Repo Stars](https://img.shields.io/github/stars/thumbor/thumbor) ![GitHub last commit](https://img.shields.io/github/last-commit/thumbor/thumbor)](https://github.com/thumbor/thumbor) - A smart imaging service. It enables on-demand crop, re-sizing and flipping of images.
 - [wand ![GitHub Repo Stars](https://img.shields.io/github/stars/emcconville/wand) ![GitHub last commit](https://img.shields.io/github/last-commit/emcconville/wand)](https://github.com/emcconville/wand) - Python bindings for [MagickWand](https://www.imagemagick.org/script/magick-wand.php), C API for ImageMagick.
 
-## Audio & Video Processing
+### Audio & Video Processing
 
 _Libraries for manipulating audio, video, and their metadata._
 
@@ -960,7 +960,7 @@ _Libraries for manipulating audio, video, and their metadata._
   - [mutagen ![GitHub Repo Stars](https://img.shields.io/github/stars/quodlibet/mutagen) ![GitHub last commit](https://img.shields.io/github/last-commit/quodlibet/mutagen)](https://github.com/quodlibet/mutagen) - A Python module to handle audio metadata.
   - [tinytag ![GitHub Repo Stars](https://img.shields.io/github/stars/devsnd/tinytag) ![GitHub last commit](https://img.shields.io/github/last-commit/devsnd/tinytag)](https://github.com/devsnd/tinytag) - A library for reading music meta data of MP3, OGG, FLAC and Wave files.
 
-## Game Development
+### Game Development
 
 _Awesome game development libraries._
 
@@ -973,7 +973,7 @@ _Awesome game development libraries._
 
 **Python Language**
 
-## Implementations
+### Implementations
 
 _Implementations of Python._
 
@@ -984,7 +984,7 @@ _Implementations of Python._
 - [pyodide ![GitHub Repo Stars](https://img.shields.io/github/stars/pyodide/pyodide) ![GitHub last commit](https://img.shields.io/github/last-commit/pyodide/pyodide)](https://github.com/pyodide/pyodide) - Python distribution for the browser and Node.js based on WebAssembly.
 - [pypy ![GitHub Repo Stars](https://img.shields.io/github/stars/pypy/pypy) ![GitHub last commit](https://img.shields.io/github/last-commit/pypy/pypy)](https://github.com/pypy/pypy) - A very fast and compliant implementation of the Python language.
 
-## Built-in Classes Enhancement
+### Built-in Classes Enhancement
 
 _Libraries for enhancing Python built-in classes._
 
@@ -992,7 +992,7 @@ _Libraries for enhancing Python built-in classes._
 - [bidict ![GitHub Repo Stars](https://img.shields.io/github/stars/jab/bidict) ![GitHub last commit](https://img.shields.io/github/last-commit/jab/bidict)](https://github.com/jab/bidict) - Efficient, Pythonic bidirectional map data structures and related functionality.
 - [box ![GitHub Repo Stars](https://img.shields.io/github/stars/cdgriffith/Box) ![GitHub last commit](https://img.shields.io/github/last-commit/cdgriffith/Box)](https://github.com/cdgriffith/Box) - Python dictionaries with advanced dot notation access.
 
-## Functional Programming
+### Functional Programming
 
 _Functional Programming with Python._
 
@@ -1003,7 +1003,7 @@ _Functional Programming with Python._
 - [returns ![GitHub Repo Stars](https://img.shields.io/github/stars/dry-python/returns) ![GitHub last commit](https://img.shields.io/github/last-commit/dry-python/returns)](https://github.com/dry-python/returns) - A set of type-safe monads, transformers, and composition utilities.
 - [toolz ![GitHub Repo Stars](https://img.shields.io/github/stars/pytoolz/toolz) ![GitHub last commit](https://img.shields.io/github/last-commit/pytoolz/toolz)](https://github.com/pytoolz/toolz) - A collection of functional utilities for iterators, functions, and dictionaries. Also available as [cytoolz ![GitHub Repo Stars](https://img.shields.io/github/stars/pytoolz/cytoolz) ![GitHub last commit](https://img.shields.io/github/last-commit/pytoolz/cytoolz)](https://github.com/pytoolz/cytoolz/) for Cython-accelerated performance.
 
-## Asynchronous Programming
+### Asynchronous Programming
 
 _Libraries for asynchronous, concurrent and parallel execution. Also see [awesome-asyncio ![GitHub Repo Stars](https://img.shields.io/github/stars/timofurrer/awesome-asyncio) ![GitHub last commit](https://img.shields.io/github/last-commit/timofurrer/awesome-asyncio)](https://github.com/timofurrer/awesome-asyncio)._
 
@@ -1017,7 +1017,7 @@ _Libraries for asynchronous, concurrent and parallel execution. Also see [awesom
 - [twisted ![GitHub Repo Stars](https://img.shields.io/github/stars/twisted/twisted) ![GitHub last commit](https://img.shields.io/github/last-commit/twisted/twisted)](https://github.com/twisted/twisted) - An event-driven networking engine.
 - [uvloop ![GitHub Repo Stars](https://img.shields.io/github/stars/MagicStack/uvloop) ![GitHub last commit](https://img.shields.io/github/last-commit/MagicStack/uvloop)](https://github.com/MagicStack/uvloop) - Ultra fast asyncio event loop.
 
-## Date and Time
+### Date and Time
 
 _Libraries for working with dates and times._
 
@@ -1028,7 +1028,7 @@ _Libraries for working with dates and times._
 
 **Python Toolchain**
 
-## Environment Management
+### Environment Management
 
 _Libraries for Python version and virtual environment management._
 
@@ -1038,7 +1038,7 @@ _Libraries for Python version and virtual environment management._
 - [uv ![GitHub Repo Stars](https://img.shields.io/github/stars/astral-sh/uv) ![GitHub last commit](https://img.shields.io/github/last-commit/astral-sh/uv)](https://github.com/astral-sh/uv) - An extremely fast Python version, package and project manager, written in Rust.
 - [virtualenv ![GitHub Repo Stars](https://img.shields.io/github/stars/pypa/virtualenv) ![GitHub last commit](https://img.shields.io/github/last-commit/pypa/virtualenv)](https://github.com/pypa/virtualenv) - A tool to create isolated Python environments.
 
-## Package Management
+### Package Management
 
 _Libraries for package and dependency management._
 
@@ -1048,7 +1048,7 @@ _Libraries for package and dependency management._
 - [poetry ![GitHub Repo Stars](https://img.shields.io/github/stars/python-poetry/poetry) ![GitHub last commit](https://img.shields.io/github/last-commit/python-poetry/poetry)](https://github.com/python-poetry/poetry) - Python dependency management and packaging made easy.
 - [uv ![GitHub Repo Stars](https://img.shields.io/github/stars/astral-sh/uv) ![GitHub last commit](https://img.shields.io/github/last-commit/astral-sh/uv)](https://github.com/astral-sh/uv) - An extremely fast Python version, package and project manager, written in Rust.
 
-## Package Repositories
+### Package Repositories
 
 _Local PyPI repository server and proxies._
 
@@ -1056,7 +1056,7 @@ _Local PyPI repository server and proxies._
 - [devpi ![GitHub Repo Stars](https://img.shields.io/github/stars/devpi/devpi) ![GitHub last commit](https://img.shields.io/github/last-commit/devpi/devpi)](https://github.com/devpi/devpi) - PyPI server and packaging/testing/release tool.
 - [warehouse ![GitHub Repo Stars](https://img.shields.io/github/stars/pypa/warehouse) ![GitHub last commit](https://img.shields.io/github/last-commit/pypa/warehouse)](https://github.com/pypa/warehouse) - Next generation Python Package Repository (PyPI).
 
-## Distribution
+### Distribution
 
 _Libraries to create packaged executables for release distribution._
 
@@ -1066,7 +1066,7 @@ _Libraries to create packaged executables for release distribution._
 - [pyinstaller ![GitHub Repo Stars](https://img.shields.io/github/stars/pyinstaller/pyinstaller) ![GitHub last commit](https://img.shields.io/github/last-commit/pyinstaller/pyinstaller)](https://github.com/pyinstaller/pyinstaller) - Converts Python programs into stand-alone executables (cross-platform).
 - [shiv ![GitHub Repo Stars](https://img.shields.io/github/stars/linkedin/shiv) ![GitHub last commit](https://img.shields.io/github/last-commit/linkedin/shiv)](https://github.com/linkedin/shiv) - A command line utility for building fully self-contained zipapps (PEP 441), but with all their dependencies included.
 
-## Configuration Files
+### Configuration Files
 
 _Libraries for storing and parsing configuration options._
 
@@ -1078,13 +1078,13 @@ _Libraries for storing and parsing configuration options._
 
 **Security**
 
-## Cryptography
+### Cryptography
 
 - [cryptography ![GitHub Repo Stars](https://img.shields.io/github/stars/pyca/cryptography) ![GitHub last commit](https://img.shields.io/github/last-commit/pyca/cryptography)](https://github.com/pyca/cryptography) - A package designed to expose cryptographic primitives and recipes to Python developers.
 - [paramiko ![GitHub Repo Stars](https://img.shields.io/github/stars/paramiko/paramiko) ![GitHub last commit](https://img.shields.io/github/last-commit/paramiko/paramiko)](https://github.com/paramiko/paramiko) - The leading native Python SSHv2 protocol library.
 - [pynacl ![GitHub Repo Stars](https://img.shields.io/github/stars/pyca/pynacl) ![GitHub last commit](https://img.shields.io/github/last-commit/pyca/pynacl)](https://github.com/pyca/pynacl) - Python binding to the Networking and Cryptography (NaCl) library.
 
-## Penetration Testing
+### Penetration Testing
 
 _Frameworks and tools for penetration testing._
 
@@ -1093,7 +1093,7 @@ _Frameworks and tools for penetration testing._
 - [sherlock ![GitHub Repo Stars](https://img.shields.io/github/stars/sherlock-project/sherlock) ![GitHub last commit](https://img.shields.io/github/last-commit/sherlock-project/sherlock)](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks.
 - [sqlmap ![GitHub Repo Stars](https://img.shields.io/github/stars/sqlmapproject/sqlmap) ![GitHub last commit](https://img.shields.io/github/last-commit/sqlmapproject/sqlmap)](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool.
 
-## Web Security
+### Web Security
 
 _Libraries for application-layer web security._
 
@@ -1101,14 +1101,14 @@ _Libraries for application-layer web security._
 
 **Other**
 
-## Hardware
+### Hardware
 
 _Libraries for programming with hardware._
 
 - [bleak ![GitHub Repo Stars](https://img.shields.io/github/stars/hbldh/bleak) ![GitHub last commit](https://img.shields.io/github/last-commit/hbldh/bleak)](https://github.com/hbldh/bleak) - A cross platform Bluetooth Low Energy Client for Python using asyncio.
 - [pynput ![GitHub Repo Stars](https://img.shields.io/github/stars/moses-palmer/pynput) ![GitHub last commit](https://img.shields.io/github/last-commit/moses-palmer/pynput)](https://github.com/moses-palmer/pynput) - A library to control and monitor input devices.
 
-## Microsoft Windows
+### Microsoft Windows
 
 _Python programming on Microsoft Windows._
 
@@ -1116,7 +1116,7 @@ _Python programming on Microsoft Windows._
 - [pywin32 ![GitHub Repo Stars](https://img.shields.io/github/stars/mhammond/pywin32) ![GitHub last commit](https://img.shields.io/github/last-commit/mhammond/pywin32)](https://github.com/mhammond/pywin32) - Python Extensions for Windows.
 - [winpython ![GitHub Repo Stars](https://img.shields.io/github/stars/winpython/winpython) ![GitHub last commit](https://img.shields.io/github/last-commit/winpython/winpython)](https://github.com/winpython/winpython) - Portable development environment for Windows 10/11.
 
-## Miscellaneous
+### Miscellaneous
 
 _Useful libraries or tools that don't fit in the categories above._
 
@@ -1125,18 +1125,18 @@ _Useful libraries or tools that don't fit in the categories above._
 - [itsdangerous ![GitHub Repo Stars](https://img.shields.io/github/stars/pallets/itsdangerous) ![GitHub last commit](https://img.shields.io/github/last-commit/pallets/itsdangerous)](https://github.com/pallets/itsdangerous) - Various helpers to pass trusted data to untrusted environments.
 - [tryton ![GitHub Repo Stars](https://img.shields.io/github/stars/tryton/tryton) ![GitHub last commit](https://img.shields.io/github/last-commit/tryton/tryton)](https://github.com/tryton/tryton) - A general-purpose business framework.
 
-# Resources
+## Resources
 
 Where to discover learning resources or new Python libraries.
 
-## Newsletters
+### Newsletters
 
 - [Awesome Python Newsletter](http://python.libhunt.com/newsletter)
 - [Pycoder's Weekly](https://pycoders.com/)
 - [Python Tricks](https://realpython.com/python-tricks/)
 - [Python Weekly](https://www.pythonweekly.com/)
 
-## Podcasts
+### Podcasts
 
 - [Django Chat](https://djangochat.com/)
 - [PyPodcats](https://pypodcats.live)
@@ -1144,11 +1144,11 @@ Where to discover learning resources or new Python libraries.
 - [Talk Python To Me](https://talkpython.fm/)
 - [The Real Python Podcast](https://realpython.com/podcasts/rpp/)
 
-## Websites
+### Websites
 
 - [Python Developer Tooling Handbook](https://pydevtools.com/) - Comprehensive guide to modern Python developer tools covering package management, linting, type checking, testing, and more.
 
-# Contributing
+## Contributing
 
 Your contributions are always welcome! Please take a look at the [contribution guidelines ![GitHub Repo Stars](https://img.shields.io/github/stars/vinta/awesome-python) ![GitHub last commit](https://img.shields.io/github/last-commit/vinta/awesome-python)](https://github.com/vinta/awesome-python/blob/master/CONTRIBUTING.md) first.
 
