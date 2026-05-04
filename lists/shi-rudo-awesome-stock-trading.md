@@ -307,7 +307,7 @@ Descriptions focus on structure, scope, and market role rather than time-depende
 * 🇨🇳 **[Shenzhen Stock Exchange (SZSE)](https://www.szse.cn)**
   Chinese exchange with emphasis on growth, technology, and small- to mid-cap companies.
 
-* 🇸🇬 **[Singapore Exchange (SGX)](https://www.sgx.com)**
+* 🇸�� **[Singapore Exchange (SGX)](https://www.sgx.com)**
   Regional financial hub with strengths in derivatives, commodities, and international listings.
 
 * 🇨🇭 **[SIX Swiss Exchange](https://www.six-group.com)**
