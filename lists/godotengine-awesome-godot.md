@@ -464,6 +464,7 @@ See [Vivraan/godot-lang-support ![GitHub Repo Stars](https://img.shields.io/gith
 *Those builds will let you use recent versions of Godot Git, but they may be less stable than official ones – use at your own risk.*
 
 - [bend-n's 2D builds ![GitHub Repo Stars](https://img.shields.io/github/stars/bend-n/godot-builds) ![GitHub last commit](https://img.shields.io/github/last-commit/bend-n/godot-builds)](https://github.com/bend-n/godot-builds) - Godot builds [optimized for size](https://docs.godotengine.org/en/stable/engine_details/development/compiling/optimizing_for_size.html) with [these modules disabled ![GitHub Repo Stars](https://img.shields.io/github/stars/bend-n/godot-builds) ![GitHub last commit](https://img.shields.io/github/last-commit/bend-n/godot-builds)](https://github.com/bend-n/godot-builds/blob/main/.github/2d-build-modules.py). Also includes misc non breaking patches.
+- [Godot RISC-V](https://gitee.com/openkylin/godot-riscv) - Godot built for the RISC‑V architecture.
 
 ## Bash scripts
 
