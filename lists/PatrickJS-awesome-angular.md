@@ -2190,6 +2190,7 @@ for the creation of web applications developed with Angular.
 * [gong ![GitHub Repo Stars](https://img.shields.io/github/stars/fullstack-lang/gong) ![GitHub last commit](https://img.shields.io/github/last-commit/fullstack-lang/gong)](https://github.com/fullstack-lang/gong) - Full‑stack framework with Go (Gin, Gorm, pure SQLite) backend and Angular Material frontend.
 * [@retejs/angular-plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/retejs/angular-plugin) ![GitHub last commit](https://img.shields.io/github/last-commit/retejs/angular-plugin)](https://github.com/retejs/angular-plugin) - Angular plugin with a classic preset of node, connection, socket, and control components, built on [Rete.js](https://retejs.org/).
 * [Stencil](https://stenciljs.com/docs/angular) - Generate Angular component wrappers for your web components.
+* [AnQst ![GitHub Repo Stars](https://img.shields.io/github/stars/DusteDdk/AnQst) ![GitHub last commit](https://img.shields.io/github/last-commit/DusteDdk/AnQst)](https://github.com/DusteDdk/AnQst) - Generates Angular services and native Qt widgets from a shared DSL, letting Angular apps compile into QWidget‑based C++ UIs via the AnQst CLI and host libraries.
 
 ### External Integration
 
