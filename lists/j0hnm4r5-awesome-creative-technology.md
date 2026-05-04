@@ -134,7 +134,7 @@ Creative technologists by definition have a breadth of skills as opposed to a sp
 | [**HUSH**](https:&#x2F;&#x2F;heyhush.com&#x2F;) | [NYC] | marketing and advertising, retail and DTC, architecture | [🌐](https:&#x2F;&#x2F;www.heyhush.com&#x2F;people)
 | [**Hyper Studio**](https:&#x2F;&#x2F;hyperstudio.es&#x2F;en&#x2F;) | [Madrid] | art, design, and technology studio integrating digital and physical worlds through experiential and interactive work | 
 | [**iart**](https:&#x2F;&#x2F;iart.ch&#x2F;en&#x2F;) | [Basel] | studio for media architectures, enhancing physical spaces with digital technology | [🌐](https:&#x2F;&#x2F;iart.ch&#x2F;en&#x2F;jobs)
-| [**IMG SRC**](https:&#x2F;&#x2F;www.imgsrc.co.jp&#x2F;) | [Tokyo] | full-service communication agency focusing on websites, installations, and R&amp;D | [��](https:&#x2F;&#x2F;www.imgsrc.co.jp&#x2F;en&#x2F;careers&#x2F;)
+| [**IMG SRC**](https:&#x2F;&#x2F;www.imgsrc.co.jp&#x2F;) | [Tokyo] | full-service communication agency focusing on websites, installations, and R&amp;D | [🌐](https:&#x2F;&#x2F;www.imgsrc.co.jp&#x2F;en&#x2F;careers&#x2F;)
 | [**Immersive International**](https:&#x2F;&#x2F;www.immersive.international&#x2F;) | [London] [Shanghai] [Ottawa] [Hong Kong] [Cape Town] | live experiences and art installations in public, private and commercial spaces | 
 | [**Incite CO**](https:&#x2F;&#x2F;inciteco.com&#x2F;) | [LA] | creative production and experiential design studio specializing in photography, film, and brand content | 
 | [**Intergalactic**](https:&#x2F;&#x2F;intergalactic.com) | [Vancouver] [London] | mobile apps, interactive screens, web development, application design and visualization | [🌐](https:&#x2F;&#x2F;intergalactic.com&#x2F;careers)
