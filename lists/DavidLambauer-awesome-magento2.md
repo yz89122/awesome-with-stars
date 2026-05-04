@@ -22,7 +22,7 @@
 
 > A curated list of awesome Magento 2 Extensions & Resources.
 
-> Tracking **222** projects · **47** actively maintained · **7** 🔥 hot · **45** 🪦 on the graveyard shelf.
+> Tracking **222** projects · **48** actively maintained · **7** 🔥 hot · **42** 🪦 on the graveyard shelf.
 
 - [What is an awesome list? ![GitHub Repo Stars](https://img.shields.io/github/stars/sindresorhus/awesome) ![GitHub last commit](https://img.shields.io/github/last-commit/sindresorhus/awesome)](https://github.com/sindresorhus/awesome/blob/master/awesome.md)
 - [Contribution guide](contributing.md) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/DavidLambauer/awesome-magento2/issues)
@@ -93,16 +93,16 @@ Also see:
 - [Meet Magento Florida](https://meetmagentofl.com/) 🫡 - Meet Magento event series — Florida.
 - [Meet Magento Netherlands](https://nl.meet-magento.com/) 🫡 - Meet Magento event series — Netherlands.
 - [Meet Magento New York City](https://meetmagentonyc.com/) 🫡 - Meet Magento event series — NYC.
+- [Meet Magento Poland](https://meetmagento.pl/) 🫡 - Meet Magento event series — Poland.
 - [Meet Magento UK](https://meet-magento.co.uk/) 🫡 - Meet Magento event series — UK.
+- [Meet Magento Baltics](https://meetmagentobaltics.com/) - Meet Magento event series — Baltics.
 - [Meet Magento Malaysia](https://www.meetmagento.asia/) - Meet Magento event series — Malaysia.
 - [Meet Magento Romania](https://ro.meet-magento.com/) - Meet Magento event series — Romania.
 
 <details>
 <summary>🪦 Graveyard — projects no longer recommended</summary>
 
-- [Meet Magento Baltics](https://meetmagentobaltics.com/) - Meet Magento event series — Baltics.
 - [Meet Magento India](https://www.meetmagento.in/) - Meet Magento event series — India.
-- [Meet Magento Poland](https://meetmagento.pl/) - Meet Magento event series — Poland.
 - [Meet Magento Singapore](https://meetmagento.sg/) - Meet Magento event series — Singapore.
 
 </details>
@@ -128,7 +128,6 @@ The storefront of Magento 2 can be styled in numerous ways:
 - [PhpStorm Magento2 Extension ![GitHub Repo Stars](https://img.shields.io/github/stars/magento/magento2-phpstorm-plugin) ![GitHub last commit](https://img.shields.io/github/last-commit/magento/magento2-phpstorm-plugin)](https://github.com/magento/magento2-phpstorm-plugin) 🫡 - Official PhpStorm Magento 2 extension.
 - [Magento 2 Url Data Integrity Checker ![GitHub Repo Stars](https://img.shields.io/github/stars/baldwin-agency/magento2-module-url-data-integrity-checker) ![GitHub last commit](https://img.shields.io/github/last-commit/baldwin-agency/magento2-module-url-data-integrity-checker)](https://github.com/baldwin-agency/magento2-module-url-data-integrity-checker) 🫡 - Magento 2 module that finds potential URL-related problems in your catalog data.
 - [Tango ![GitHub Repo Stars](https://img.shields.io/github/stars/roma-glushko/tango) ![GitHub last commit](https://img.shields.io/github/last-commit/roma-glushko/tango)](https://github.com/roma-glushko/tango) 🫡 - CLI for analyzing access logs.
-- [Magento 2 Database Synchronizer ![GitHub Repo Stars](https://img.shields.io/github/stars/jellesiderius/mage-db-sync) ![GitHub last commit](https://img.shields.io/github/last-commit/jellesiderius/mage-db-sync)](https://github.com/jellesiderius/mage-db-sync) 🫡 - Database synchronizer for Magento 2 (and WordPress), based on Magerun2. Keeps development, staging and production in sync.
 - [Mage ![GitHub Repo Stars](https://img.shields.io/github/stars/GrimLink/mage) ![GitHub last commit](https://img.shields.io/github/last-commit/GrimLink/mage)](https://github.com/GrimLink/mage) 🫡 - Simplifies bin/magento commands with shortcuts and productivity helpers.
 - [MageForge ![GitHub Repo Stars](https://img.shields.io/github/stars/OpenForgeProject/mageforge) ![GitHub last commit](https://img.shields.io/github/last-commit/OpenForgeProject/mageforge)](https://github.com/OpenForgeProject/mageforge) 🫡 - Magento 2 CLI automatic theme builder (Hyvä ready).
 - [markshust/docker-magento ![GitHub Repo Stars](https://img.shields.io/github/stars/markshust/docker-magento) ![GitHub last commit](https://img.shields.io/github/last-commit/markshust/docker-magento)](https://github.com/markshust/docker-magento) - Mark Shust's Docker configuration for Magento.
@@ -136,6 +135,7 @@ The storefront of Magento 2 can be styled in numerous ways:
 - [AmpersandHQ/ampersand-magento2-upgrade-patch-helper ![GitHub Repo Stars](https://img.shields.io/github/stars/AmpersandHQ/ampersand-magento2-upgrade-patch-helper) ![GitHub last commit](https://img.shields.io/github/last-commit/AmpersandHQ/ampersand-magento2-upgrade-patch-helper)](https://github.com/AmpersandHQ/ampersand-magento2-upgrade-patch-helper) - Helper script to aid upgrading Magento 2 websites by detecting overrides.
 - [MageSpecialist DevTools for Magento 2 ![GitHub Repo Stars](https://img.shields.io/github/stars/magespecialist/m2-MSP_DevTools) ![GitHub last commit](https://img.shields.io/github/last-commit/magespecialist/m2-MSP_DevTools)](https://github.com/magespecialist/m2-MSP_DevTools) - Developer toolbar for Magento 2.
 - [Migrate DB Magento 2 Commerce to Magento 2 Open-Source ![GitHub Repo Stars](https://img.shields.io/github/stars/opengento/magento2-downgrade-ee-ce) ![GitHub last commit](https://img.shields.io/github/last-commit/opengento/magento2-downgrade-ee-ce)](https://github.com/opengento/magento2-downgrade-ee-ce) - Migrate a Magento 2 Commerce database to Magento 2 Open Source.
+- [Magento 2 Database Synchronizer ![GitHub Repo Stars](https://img.shields.io/github/stars/jellesiderius/mage-db-sync) ![GitHub last commit](https://img.shields.io/github/last-commit/jellesiderius/mage-db-sync)](https://github.com/jellesiderius/mage-db-sync) - Database synchronizer for Magento 2 (and WordPress), based on Magerun2. Keeps development, staging and production in sync.
 - [RabbitMQ Retry Mechanism ![GitHub Repo Stars](https://img.shields.io/github/stars/run-as-root/magento2-message-queue-retry) ![GitHub last commit](https://img.shields.io/github/last-commit/run-as-root/magento2-message-queue-retry)](https://github.com/run-as-root/magento2-message-queue-retry) - Magento 2 extension that brings possibility to retry RabbitMQ failed messages.
 - [Mage Wizard ![GitHub Repo Stars](https://img.shields.io/github/stars/clickAndMortar/mage-wizard) ![GitHub last commit](https://img.shields.io/github/last-commit/clickAndMortar/mage-wizard)](https://github.com/clickAndMortar/mage-wizard) - Local web UI to view and create modules, plugins, configs, observers, commands, crontabs directly in a Magento 2 codebase.
 - [magento2docker ![GitHub Repo Stars](https://img.shields.io/github/stars/aliuosio/magento2docker) ![GitHub last commit](https://img.shields.io/github/last-commit/aliuosio/magento2docker)](https://github.com/aliuosio/magento2docker) - MariaDB, PHP, Redis, ElasticSearch in one Dockerfile for fast demo/development environments.
@@ -325,14 +325,13 @@ The storefront of Magento 2 can be styled in numerous ways:
 
 ### Personal Blogs
 
-
+- [Jigar Karangiya](https://jigarkarangiya.com/) 🫡 - Personal blog on Magento 2 and Adobe Commerce development.
 
 <details>
 <summary>🪦 Graveyard — projects no longer recommended</summary>
 
 - [Alan Storm](http://alanstorm.com/category/magento-2/) - Deep Magento 2 technical writeups.
 - [Fabian Schmengler](https://www.schmengler-se.de/) - Personal blog covering Magento 2 architecture and process.
-- [Jigar Karangiya](https://jigarkarangiya.com/) - Personal blog on Magento 2 and Adobe Commerce development.
 
 </details>
 
