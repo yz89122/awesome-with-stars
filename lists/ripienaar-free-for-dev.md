@@ -1442,7 +1442,7 @@ Update Time, five active automations, webhooks.
   * [wakatime.com](https://wakatime.com/) - Quantified self-metrics about your coding activity using text editor plugins, limited plan for free.
   * [Wave Terminal](https://waveterm.dev/) - Wave is an open-source, cross-platform terminal for seamless workflows. Render anything inline. Save sessions and history. Powered by open web standards. MacOS and Linux.
 
-**[⬆�� Back to Top](#table-of-contents)**
+**[⬆��� Back to Top](#table-of-contents)**
 
 ## Analytics, Events and Statistics
 
