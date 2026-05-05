@@ -232,6 +232,7 @@ Things that work with project files or GameMaker itself rather than being someth
 - [gooey](https://manta-ray.itch.io/gooey) - Sprite-based UI Library for GameMaker LTS.
 - [SimpleUI ![GitHub Repo Stars](https://img.shields.io/github/stars/evolutionleo/SimpleUI) ![GitHub last commit](https://img.shields.io/github/last-commit/evolutionleo/SimpleUI)](https://github.com/evolutionleo/SimpleUI) - Minimalistic UI framework.
 - [LimeUI ![GitHub Repo Stars](https://img.shields.io/github/stars/Limekys/LimeUI) ![GitHub last commit](https://img.shields.io/github/last-commit/Limekys/LimeUI)](https://github.com/Limekys/LimeUI) - Flexpanel system for modern, touch-friendly interfaces.
+- [Bento ![GitHub Repo Stars](https://img.shields.io/github/stars/JujuAdams/Bento) ![GitHub last commit](https://img.shields.io/github/last-commit/JujuAdams/Bento)](https://github.com/JujuAdams/Bento) - Cross-platform UI framework.
 
 ## Localization
 
