@@ -10,7 +10,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 | Awesome | Linux | Projects | Updated |
 |:-------:|:-----:|:--------:|:-------:|
-| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | :penguin: | 1099 | April 10, 2026 |
+| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | :penguin: | 1100 | May 05, 2026 |
 
 In parternship with:
 
@@ -473,6 +473,7 @@ In parternship with:
 * [MessageKit ![GitHub Repo Stars](https://img.shields.io/github/stars/MessageKit/MessageKit) ![GitHub last commit](https://img.shields.io/github/last-commit/MessageKit/MessageKit)](https://github.com/MessageKit/MessageKit) - A community-driven replacement for JSQMessagesViewController.
 * [MessengerKit ![GitHub Repo Stars](https://img.shields.io/github/stars/steve228uk/MessengerKit) ![GitHub last commit](https://img.shields.io/github/last-commit/steve228uk/MessengerKit)](https://github.com/steve228uk/MessengerKit) - A UI framework for building messenger interfaces.
 * [Real-time Chat with Firebase ![GitHub Repo Stars](https://img.shields.io/github/stars/dopebase/messenger-iOS-chat-swift-firestore) ![GitHub last commit](https://img.shields.io/github/last-commit/dopebase/messenger-iOS-chat-swift-firestore)](https://github.com/dopebase/messenger-iOS-chat-swift-firestore) - Functional real-time chat app with Firebase Firestore using MessageKit.
+* [swiftui-messaging-ui ![GitHub Repo Stars](https://img.shields.io/github/stars/FluidGroup/swiftui-messaging-ui) ![GitHub last commit](https://img.shields.io/github/last-commit/FluidGroup/swiftui-messaging-ui)](https://github.com/FluidGroup/swiftui-messaging-ui) - Primitive SwiftUI chat UI component with stable prepending for loading older messages without scroll jumps.
 
 ### Colors
 *Interesting snippets related to color management and utility.* [back to top](#readme) 
