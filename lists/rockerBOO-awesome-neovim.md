@@ -871,6 +871,7 @@ then it is not supported:
 - [mawkler/hml.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/mawkler/hml.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/mawkler/hml.nvim)](https://github.com/mawkler/hml.nvim) - Adds `H`/`M`/`L` indicators to your line numbers.
 - [neur1n/noline.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/neur1n/noline.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/neur1n/noline.nvim)](https://github.com/neur1n/noline.nvim) - Fully customizable bars and lines components with no presets nor constraints.
 - [OXY2DEV/bars.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/OXY2DEV/bars.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/OXY2DEV/bars.nvim)](https://github.com/OXY2DEV/bars.nvim) - A starting point/guide for creating custom statusline, statuscolumn, tabline and winbar.
+- [zaakiy/line-justice.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/zaakiy/line-justice.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/zaakiy/line-justice.nvim)](https://github.com/zaakiy/line-justice.nvim) - Shows both absolute and relative line numbers simultaneously.
 
 ### Statusline
 
