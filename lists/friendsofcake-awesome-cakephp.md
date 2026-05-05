@@ -359,6 +359,8 @@ IDE specific compatibility information and tips can be found [here ![GitHub Repo
 
 ### Web Applications
 
+- [Toolbox](https://toolbox.dereuromark.de) - Online toolbox with useful tools for modern CakePHP apps. Powers the awesome CI/linter.
+
 ### CMS and applications built on CakePHP
 
 - [baserCMS ![GitHub Repo Stars](https://img.shields.io/github/stars/baserproject/basercms) ![GitHub last commit](https://img.shields.io/github/last-commit/baserproject/basercms)](https://github.com/baserproject/basercms) - This is a website development framework with RESTful APIs. Installable as a plugin for CakePHP.
@@ -372,9 +374,10 @@ IDE specific compatibility information and tips can be found [here ![GitHub Repo
 - [Fluentd + Grafana Loki demo application ![GitHub Repo Stars](https://img.shields.io/github/stars/ishanvyas22/cakephp-loki-demo) ![GitHub last commit](https://img.shields.io/github/last-commit/ishanvyas22/cakephp-loki-demo)](https://github.com/ishanvyas22/cakephp-loki-demo) - A demo application to send CakePHP Docker container logs to [Grafana Loki](https://grafana.com/) via [Fluentd](https://www.fluentd.org/).
 - [RealWorld ![GitHub Repo Stars](https://img.shields.io/github/stars/gothinkster/cakephp-realworld-example-app) ![GitHub last commit](https://img.shields.io/github/last-commit/gothinkster/cakephp-realworld-example-app)](https://github.com/gothinkster/cakephp-realworld-example-app) - Example CakePHP codebase containing real world examples (CRUD, auth, advanced patterns and more) that adheres to the [RealWorld ![GitHub Repo Stars](https://img.shields.io/github/stars/gothinkster/realworld-example-apps) ![GitHub last commit](https://img.shields.io/github/last-commit/gothinkster/realworld-example-apps)](https://github.com/gothinkster/realworld-example-apps) spec and API.
 - [Sandbox](https://sandbox.dereuromark.de) - A sandbox CakePHP application with lots of demos and plugin showcasings.
-- [Query Examples ![GitHub Repo Stars](https://img.shields.io/github/stars/lorenzo/cakephp3-examples) ![GitHub last commit](https://img.shields.io/github/last-commit/lorenzo/cakephp3-examples)](https://github.com/lorenzo/cakephp3-examples) - Advanced query building examples.
+- [TinyAuth demo ![GitHub Repo Stars](https://img.shields.io/github/stars/dereuromark/cakephp-tinyauth-demo) ![GitHub last commit](https://img.shields.io/github/last-commit/dereuromark/cakephp-tinyauth-demo)](https://github.com/dereuromark/cakephp-tinyauth-demo) - Full interactivate auth (TinyAuth incl. Authentication and Authorization core plugins) demo.
+- [Query examples ![GitHub Repo Stars](https://img.shields.io/github/stars/lorenzo/cakephp3-examples) ![GitHub last commit](https://img.shields.io/github/last-commit/lorenzo/cakephp3-examples)](https://github.com/lorenzo/cakephp3-examples) - Advanced query building examples.
 - [Xeta ![GitHub Repo Stars](https://img.shields.io/github/stars/XetaIO/Xeta) ![GitHub last commit](https://img.shields.io/github/last-commit/XetaIO/Xeta)](https://github.com/XetaIO/Xeta) - A resource to help people starting with CakePHP.
-- [Vue.js Demo App ![GitHub Repo Stars](https://img.shields.io/github/stars/ishanvyas22/cakephpvue-spa) ![GitHub last commit](https://img.shields.io/github/last-commit/ishanvyas22/cakephpvue-spa)](https://github.com/ishanvyas22/cakephpvue-spa) - A CakePHP + Vue.js single page application skeleton.
+- [Vue.js demo app ![GitHub Repo Stars](https://img.shields.io/github/stars/ishanvyas22/cakephpvue-spa) ![GitHub last commit](https://img.shields.io/github/last-commit/ishanvyas22/cakephpvue-spa)](https://github.com/ishanvyas22/cakephpvue-spa) - A CakePHP + Vue.js single page application skeleton.
 
 ## Resources
 
