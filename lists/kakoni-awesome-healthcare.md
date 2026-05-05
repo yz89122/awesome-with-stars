@@ -53,6 +53,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [openMAXIMS ![GitHub Repo Stars](https://img.shields.io/github/stars/IMS-MAXIMS/openMAXIMS) ![GitHub last commit](https://img.shields.io/github/last-commit/IMS-MAXIMS/openMAXIMS)](https://github.com/IMS-MAXIMS/openMAXIMS) - Full Patient Administration System designed for the NHS.
   * [OpenMRS](https://openmrs.org) - Enterprise Electronic Medical Record System platform.
   * [OSCAR EMR](https://bitbucket.org/oscaremr/oscar) - OSCAR McMaster Project.
+  * [Ottehr ![GitHub Repo Stars](https://img.shields.io/github/stars/masslight/ottehr) ![GitHub last commit](https://img.shields.io/github/last-commit/masslight/ottehr)](https://github.com/masslight/ottehr) - Modular, Production-Ready, Open-Source EHR
   * [Ozone HIS](https://www.ozone-his.com) - The entreprise-grade integrated health information system built with OpenMRS 3
   * [Ripple](https://www.ripple.foundation) -  NHS-funded, community led initiative working towards an integrated Digital Care Record Platform.
 
