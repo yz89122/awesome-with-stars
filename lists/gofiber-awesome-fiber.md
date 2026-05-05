@@ -166,7 +166,7 @@ Recipes for Fiber.
 - [kubestellar/console ![GitHub Repo Stars](https://img.shields.io/github/stars/kubestellar/console) ![GitHub last commit](https://img.shields.io/github/last-commit/kubestellar/console)](https://github.com/kubestellar/console) - AI-powered multi-cluster Kubernetes dashboard built on Fiber, with real-time observability and CNCF integrations.
 - [paundraP/golang-starter-template ![GitHub Repo Stars](https://img.shields.io/github/stars/paundraP/Go-Starter-Template) ![GitHub last commit](https://img.shields.io/github/last-commit/paundraP/Go-Starter-Template)](https://github.com/paundraP/Go-Starter-Template) - Golang REST API with authentication, authorization, and integrated payment gateway support.
 
-## 🛠️ Tools
+## ���️ Tools
 
 Several tools to make Fiber usage easier.
 
