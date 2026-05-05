@@ -660,6 +660,7 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 - [nvzone/minty ![GitHub Repo Stars](https://img.shields.io/github/stars/nvzone/minty) ![GitHub last commit](https://img.shields.io/github/last-commit/nvzone/minty)](https://github.com/nvzone/minty) - Beautifully crafted color tools.
 - [3ZsForInsomnia/pacer.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/3ZsForInsomnia/pacer.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/3ZsForInsomnia/pacer.nvim)](https://github.com/3ZsForInsomnia/pacer.nvim) - Creates a reading pacer by highlighting one word at a time and dimming all text outside the current paragraph-and-some to help you read faster.
 - [wsdjeg/cpicker.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/wsdjeg/cpicker.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/wsdjeg/cpicker.nvim)](https://github.com/wsdjeg/cpicker.nvim) - A lightweight color palette plugin that supports a wide range of color models.
+- [leolaurindo/tunnelvision.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/leolaurindo/tunnelvision.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/leolaurindo/tunnelvision.nvim)](https://github.com/leolaurindo/tunnelvision.nvim) - Focus on one symbol at a time by dimming unrelated lines.
 <!--lint disable double-link -->
 [**⬆ back to top**](#contents)
 <!--lint enable double-link -->
@@ -1123,6 +1124,7 @@ then it is not supported:
 - [da-moon/telescope-toggleterm.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/da-moon/telescope-toggleterm.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/da-moon/telescope-toggleterm.nvim)](https://github.com/da-moon/telescope-toggleterm.nvim) - Telescope picker for terminal buffers.
 - [benoror/gpg.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/benoror/gpg.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/benoror/gpg.nvim)](https://github.com/benoror/gpg.nvim) - Edit GPG encrypted files symmetrically.
 - [gh-liu/nvim-winterm ![GitHub Repo Stars](https://img.shields.io/github/stars/gh-liu/nvim-winterm) ![GitHub last commit](https://img.shields.io/github/last-commit/gh-liu/nvim-winterm)](https://github.com/gh-liu/nvim-winterm) - Multi-terminal window manager.
+- [hawknewton/termyank.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/hawknewton/termyank.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/hawknewton/termyank.nvim)](https://github.com/hawknewton/termyank.nvim) - Avoid yanking newlines in a terminal buffer.
 <!--lint disable double-link -->
 [**⬆ back to top**](#contents)
 <!--lint enable double-link -->
