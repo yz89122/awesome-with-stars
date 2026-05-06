@@ -72,6 +72,7 @@
 - Graph
   - [ArcadeDB](https://arcadedb.com/) - Open-source multi-model database with native graph, document, key-value, and vector support. SQL, Cypher, and Gremlin query languages. Apache 2.0 license.
   - [Neo4j](https://neo4j.com/) - The world's leading graph database.
+  - [Omnigraph ![GitHub Repo Stars](https://img.shields.io/github/stars/ModernRelay/omnigraph) ![GitHub last commit](https://img.shields.io/github/last-commit/ModernRelay/omnigraph)](https://github.com/ModernRelay/omnigraph) - Typed graph database where agents branch and merge like Git. S3-native, Rust, traversal + vector + BM25 in one runtime.
   - [OrientDB](https://orientdb.com) - 2nd Generation Distributed Graph Database with the flexibility of Documents in one product with an Open Source commercial friendly license.
   - [ArangoDB](https://www.arangodb.com/) - A distributed free and open-source database with a flexible data model for documents, graphs, and key-values.
   - [Titan](https://titan.thinkaurelius.com) - A scalable graph database optimized for storing and querying graphs containing hundreds of billions of vertices and edges distributed across a multi-machine cluster.
@@ -101,6 +102,7 @@
   - [Snappydata ![GitHub Repo Stars](https://img.shields.io/github/stars/SnappyDataInc/snappydata) ![GitHub last commit](https://img.shields.io/github/last-commit/SnappyDataInc/snappydata)](https://github.com/SnappyDataInc/snappydata) - OLTP + OLAP Database built on Apache Spark.
   - [TimescaleDB](https://www.timescale.com/) - Built as an extension on top of PostgreSQL, TimescaleDB is a time-series SQL database providing fast analytics, scalability, with automated data management on a proven storage engine.
   - [DuckDB](https://duckdb.org/) - A fast in-process analytical database that has zero external dependencies, runs on Linux/macOS/Windows, offers a rich SQL dialect, and is free and extensible.
+  - [SlothDB ![GitHub Repo Stars](https://img.shields.io/github/stars/SouravRoy-ETL/slothdb) ![GitHub last commit](https://img.shields.io/github/last-commit/SouravRoy-ETL/slothdb)](https://github.com/SouravRoy-ETL/slothdb) - In-process analytical SQL database written in C++20. Reads Parquet, CSV, JSON, Avro, Arrow, SQLite, and Excel directly. Single binary, Python package, and 1.3 MB WASM build for the browser.
 
 ## Data Comparison
 
@@ -111,6 +113,7 @@
 
 ## Data Ingestion
 
+- [DataSpoc Pipe ![GitHub Repo Stars](https://img.shields.io/github/stars/dataspoclab/dataspoc-pipe) ![GitHub last commit](https://img.shields.io/github/last-commit/dataspoclab/dataspoc-pipe)](https://github.com/dataspoclab/dataspoc-pipe) - Data ingestion engine that connects 400+ Singer taps to Parquet files in cloud buckets (S3, GCS, Azure). Streaming, incremental, with auto-catalog.
 - [ingestr ![GitHub Repo Stars](https://img.shields.io/github/stars/bruin-data/ingestr) ![GitHub last commit](https://img.shields.io/github/last-commit/bruin-data/ingestr)](https://github.com/bruin-data/ingestr) - CLI tool to copy data between databases with a single command. Supports 50+ sources including PostgreSQL, MySQL, MongoDB, Salesforce, Shopify to any data warehouse.
 - [Kafka](https://kafka.apache.org/) - Publish-subscribe messaging rethought as a distributed commit log.
   - [BottledWater ![GitHub Repo Stars](https://img.shields.io/github/stars/confluentinc/bottledwater-pg) ![GitHub last commit](https://img.shields.io/github/last-commit/confluentinc/bottledwater-pg)](https://github.com/confluentinc/bottledwater-pg) - Change data capture from PostgreSQL into Kafka. Deprecated.
@@ -137,6 +140,7 @@
 - [Apache Pulsar](https://pulsar.apache.org/) - An open-source distributed pub-sub messaging system.
 - [AWS Data Wrangler ![GitHub Repo Stars](https://img.shields.io/github/stars/awslabs/aws-data-wrangler) ![GitHub last commit](https://img.shields.io/github/last-commit/awslabs/aws-data-wrangler)](https://github.com/awslabs/aws-data-wrangler) - Utility belt to handle data on AWS.
 - [Airbyte](https://airbyte.io/) - Open-source data integration for modern data teams.
+- [DBConvert Streams](https://streams.dbconvert.com) - self-hosted database migration and change data capture (CDC) tool with built-in SQL IDE.
 - [Artie](https://www.artie.com/) - Real-time data ingestion tool leveraging change data capture.
 - [Sling](https://slingdata.io/) - CLI data integration tool specialized in moving data between databases, as well as storage systems.
 - [Meltano](https://meltano.com/) - CLI & code-first ELT.
@@ -145,12 +149,15 @@
 - [CsvPath Framework](https://www.csvpath.org/) - A delimited data preboarding framework that fills the gap between MFT and the data lake.
 - [Estuary Flow](https://estuary.dev) - No/low-code data pipeline platform that handles both batch and real-time data ingestion.
 - [db2lake ![GitHub Repo Stars](https://img.shields.io/github/stars/bahador-r/db2lake) ![GitHub last commit](https://img.shields.io/github/last-commit/bahador-r/db2lake)](https://github.com/bahador-r/db2lake) - Lightweight Node.js ETL framework for databases → data lakes/warehouses.
+- [data-genie ![GitHub Repo Stars](https://img.shields.io/github/stars/pujansrt/data-genie) ![GitHub last commit](https://img.shields.io/github/last-commit/pujansrt/data-genie)](https://github.com/pujansrt/data-genie) - High-performance, streaming-first ETL engine for Node.js and TypeScript with constant memory footprint.
 - [Kreuzberg ![GitHub Repo Stars](https://img.shields.io/github/stars/kreuzberg-dev/kreuzberg) ![GitHub last commit](https://img.shields.io/github/last-commit/kreuzberg-dev/kreuzberg)](https://github.com/kreuzberg-dev/kreuzberg) - Polyglot document intelligence library with a Rust core and bindings for Python, TypeScript, Go, and more. Extracts text, tables, and metadata from 62+ document formats for data pipeline ingestion.
+- [pdfmux ![GitHub Repo Stars](https://img.shields.io/github/stars/NameetP/pdfmux) ![GitHub last commit](https://img.shields.io/github/last-commit/NameetP/pdfmux)](https://github.com/NameetP/pdfmux) - Python PDF-to-Markdown orchestrator. Classifies each page and routes to the optimal backend (PyMuPDF, Docling, RapidOCR, Gemini Flash), emitting Markdown plus a per-page confidence score so ingestion pipelines can quarantine low-trust pages before feeding LLMs or retrieval.
 - [DataRaven](https://dataraven.io/) - Managed cloud object storage transfers for ingestion workflows.
 - [Xquik](https://xquik.com) - Real-time X (Twitter) data extraction platform with REST API (76 endpoints), 20 bulk extraction tools, account monitoring, HMAC-signed webhooks, and MCP server for AI agent integration.
 - [Arpe.io](https://www.arpe.io/) - High-speed CLI tools for database export, import, replication and migration with parallel streaming to CSV, Parquet, JSON and cloud storage, supporting PostgreSQL, MySQL, Oracle, SQL Server and 80+ sources.
 - [Crustdata](https://crustdata.com) - A real-time B2B data API for company and people intelligence, providing firmographics, headcount signals, job listings, web traffic, and funding events via REST API and webhooks for data enrichment pipelines.
 - [crdt-merge ![GitHub Repo Stars](https://img.shields.io/github/stars/mgillr/crdt-merge) ![GitHub last commit](https://img.shields.io/github/last-commit/mgillr/crdt-merge)](https://github.com/mgillr/crdt-merge) - Conflict-free merge for DataFrames, JSON, ML models & distributed agents — powered by CRDTs.
+- [LinkedIn Jobs Scraper](https://apify.com/cryptosignals/linkedin-jobs-scraper) - Crawlee-based actor extracting structured LinkedIn job listings at scale without API keys.
 
 ## File System
 
@@ -171,6 +178,7 @@
 
 ## Serialization format
 
+- [AKF ![GitHub Repo Stars](https://img.shields.io/github/stars/HMAKT99/AKF) ![GitHub last commit](https://img.shields.io/github/last-commit/HMAKT99/AKF)](https://github.com/HMAKT99/AKF) - The AI native file format. Trust scores, source provenance, and compliance metadata that embed into 20+ formats (DOCX, PDF, images, code). EXIF for AI.
 - [Apache Avro](https://avro.apache.org) - Apache Avro™ is a data serialization system.
 - [Apache Parquet](https://parquet.apache.org) - A columnar storage format available to any project in the Hadoop ecosystem, regardless of the choice of data processing framework, data model or programming language.
   - [Snappy ![GitHub Repo Stars](https://img.shields.io/github/stars/google/snappy) ![GitHub last commit](https://img.shields.io/github/last-commit/google/snappy)](https://github.com/google/snappy) - A fast compressor/decompressor. Used with Parquet.
@@ -180,6 +188,7 @@
 - [ProtoBuf ![GitHub Repo Stars](https://img.shields.io/github/stars/protocolbuffers/protobuf) ![GitHub last commit](https://img.shields.io/github/last-commit/protocolbuffers/protobuf)](https://github.com/protocolbuffers/protobuf) - Protocol Buffers - Google's data interchange format.
 - [SequenceFile](https://wiki.apache.org/hadoop/SequenceFile) - A flat file consisting of binary key/value pairs. It is extensively used in MapReduce as input/output formats.
 - [Kryo ![GitHub Repo Stars](https://img.shields.io/github/stars/EsotericSoftware/kryo) ![GitHub last commit](https://img.shields.io/github/last-commit/EsotericSoftware/kryo)](https://github.com/EsotericSoftware/kryo) - A fast and efficient object graph serialization framework for Java.
+- [PFC-JSONL ![GitHub Repo Stars](https://img.shields.io/github/stars/ImpossibleForge/pfc-jsonl) ![GitHub last commit](https://img.shields.io/github/last-commit/ImpossibleForge/pfc-jsonl)](https://github.com/ImpossibleForge/pfc-jsonl) - Specialized JSONL log compressor with block-level timestamp indexing and DuckDB integration. Achieves ~9% compression ratio (better than gzip) with time-range random access queries.
 
 ## Stream Processing
 
@@ -221,6 +230,7 @@
   - [H2O](https://www.h2o.ai/) - Fast scalable machine learning API for smarter applications.
   - [Mahout](https://mahout.apache.org/) - An environment for quickly creating scalable performant machine learning applications.
   - [Spark MLlib](https://spark.apache.org/docs/latest/ml-guide.html) - Spark's scalable machine learning library consisting of common learning algorithms and utilities, including classification, regression, clustering, collaborative filtering, dimensionality reduction, as well as underlying optimization primitives.
+  - [Datatrax ![GitHub Repo Stars](https://img.shields.io/github/stars/rbmuller/datatrax) ![GitHub last commit](https://img.shields.io/github/last-commit/rbmuller/datatrax)](https://github.com/rbmuller/datatrax) - Pure-Go classic machine learning toolkit and data engineering utilities. Eight algorithms with zero external dependencies.
 - Batch Graph
   - [GraphLab Create](https://turi.com/products/create/docs/) - A machine learning platform that enables data scientists and app developers to easily create intelligent apps at scale.
   - [Giraph](https://giraph.apache.org/) - An iterative graph processing system built for high scalability.
@@ -245,9 +255,11 @@
 - [Apache Superset ![GitHub Repo Stars](https://img.shields.io/github/stars/apache/incubator-superset) ![GitHub last commit](https://img.shields.io/github/last-commit/apache/incubator-superset)](https://github.com/apache/incubator-superset) - A modern, enterprise-ready business intelligence web application.
 - [Redash](https://redash.io/) - Make Your Company Data Driven. Connect to any data source, easily visualize and share your data.
 - [Metabase ![GitHub Repo Stars](https://img.shields.io/github/stars/metabase/metabase) ![GitHub last commit](https://img.shields.io/github/last-commit/metabase/metabase)](https://github.com/metabase/metabase) - The easy, open source way for everyone in your company to ask questions and learn from data.
+- [stratif.io](https://stratif.io) - Open-source, self-hosted, warehouse-native product analytics. Runs funnels, retention, and paths directly on DuckDB, Postgres, Snowflake, or ClickHouse.
 - [PyQtGraph](https://www.pyqtgraph.org/) - A pure-python graphics and GUI library built on PyQt4 / PySide and numpy. It is intended for use in mathematics / scientific / engineering applications.
 - [Seaborn](https://seaborn.pydata.org) - A Python visualization library based on matplotlib. It provides a high-level interface for drawing attractive statistical graphics.
 - [QueryGPT ![GitHub Repo Stars](https://img.shields.io/github/stars/MKY508/QueryGPT) ![GitHub last commit](https://img.shields.io/github/last-commit/MKY508/QueryGPT)](https://github.com/MKY508/QueryGPT) - Natural language database query interface with automatic chart generation, supporting Chinese and English queries.
+- [AI for Database](https://aifordatabase.com/) - Agentic AI platform to connect any database (PostgreSQL, MySQL, MongoDB, etc.) and query in plain English; includes self-refreshing intelligent dashboards and action workflows triggered by data changes.
 
 ## Workflow
 
@@ -264,6 +276,7 @@
 - [Hamilton ![GitHub Repo Stars](https://img.shields.io/github/stars/dagworks-inc/hamilton) ![GitHub last commit](https://img.shields.io/github/last-commit/dagworks-inc/hamilton)](https://github.com/dagworks-inc/hamilton) - A lightweight library to define data transformations as a directed-acyclic graph (DAG). If you like dbt for SQL transforms, you will like Hamilton for Python processing.
 - [Kedro](https://kedro.readthedocs.io/en/latest/) - A framework that makes it easy to build robust and scalable data pipelines by providing uniform project templates, data abstraction, configuration and pipeline assembly.
 - [Dataform](https://dataform.co/) - An open-source framework and web based IDE to manage datasets and their dependencies. SQLX extends your existing SQL warehouse dialect to add features that support dependency management, testing, documentation and more.
+- [Dotflow ![GitHub Repo Stars](https://img.shields.io/github/stars/dotflow-io/dotflow) ![GitHub last commit](https://img.shields.io/github/last-commit/dotflow-io/dotflow)](https://github.com/dotflow-io/dotflow) - A lightweight Python library for building execution pipelines with retry, parallel execution, cron scheduling, and async support.
 - [Census](https://getcensus.com/) - A reverse-ETL tool that let you sync data from your cloud data warehouse to SaaS applications like Salesforce, Marketo, HubSpot, Zendesk, etc. No engineering favors required—just SQL.
 - [dbt](https://getdbt.com/) - A command line tool that enables data analysts and engineers to transform data in their warehouses more effectively.
 - [Kestra ![GitHub Repo Stars](https://img.shields.io/github/stars/kestra-io/kestra) ![GitHub last commit](https://img.shields.io/github/last-commit/kestra-io/kestra)](https://github.com/kestra-io/kestra) - Scalable, event-driven, language-agnostic orchestration and scheduling platform to manage millions of workflows declaratively in code.
@@ -282,6 +295,7 @@
 - [Ilum](https://ilum.cloud/) - A modular Data Lakehouse platform that simplifies the management and monitoring of Apache Spark clusters across Kubernetes and Hadoop environments.
 - [Gravitino ![GitHub Repo Stars](https://img.shields.io/github/stars/apache/gravitino) ![GitHub last commit](https://img.shields.io/github/last-commit/apache/gravitino)](https://github.com/apache/gravitino) - An open-source, unified metadata management for data lakes, data warehouses, and external catalogs.
 - [FlightPath Data](https://www.flightpathdata.com) - FlightPath is a gateway to a data lake's bronze layer, protecting it from invalid external data file feeds as a trusted publisher.
+- [rawquery](https://rawquery.dev) - Managed lakehouse platform on Apache Iceberg with DuckDB query compute, S3 storage, Postgres wire protocol, and SQL transforms.
 
 ## ELK Elastic Logstash Kibana
 
@@ -308,7 +322,9 @@
 ### Realtime
 
 - [DexPaprika](https://api.dexpaprika.com) - Free real-time DEX data via SSE streaming across 34 blockchains. 30M+ pools, 27M+ tokens, ~1 second price updates. No API key, no rate limits. [Docs](https://docs.dexpaprika.com)
+- [Helium MCP ![GitHub Repo Stars](https://img.shields.io/github/stars/connerlambden/helium-mcp) ![GitHub last commit](https://img.shields.io/github/last-commit/connerlambden/helium-mcp)](https://github.com/connerlambden/helium-mcp) - Remote MCP server for real-time financial data, 3.2M+ news articles, ML options pricing, and news bias analysis. Free, no API key. [MCP](https://heliumtrades.com/mcp)
 - [Twitter Realtime](https://developer.twitter.com/en/docs/tweets/filter-realtime/overview) - The Streaming APIs give developers low latency access to Twitter's global stream of Tweet data.
+- [Sorsa API](https://api.sorsa.io) - Real-time X (Twitter) data API providing tweets, profiles, search, communities and engagement metrics. Up to 50x cheaper than the official X API with 20 req/sec rate limit, JSON output.
 - [Eventsim ![GitHub Repo Stars](https://img.shields.io/github/stars/Interana/eventsim) ![GitHub last commit](https://img.shields.io/github/last-commit/Interana/eventsim)](https://github.com/Interana/eventsim) - Event data simulator. Generates a stream of pseudo-random events from a set of users, designed to simulate web traffic.
 - [Reddit](https://www.reddit.com/r/datasets/comments/3mk1vg/realtime_data_is_available_including_comments/) - Real-time data is available including comments, submissions and links posted to reddit.
 
@@ -318,6 +334,7 @@
 - [Common Crawl](https://commoncrawl.org/) - Open source repository of web crawl data.
 - [Wikipedia](https://dumps.wikimedia.org/enwiki/latest/) - Wikipedia's complete copy of all wikis, in the form of Wikitext source and metadata embedded in XML. A number of raw database tables in SQL form are also available.
 - [FirstData ![GitHub Repo Stars](https://img.shields.io/github/stars/MLT-OSS/FirstData) ![GitHub last commit](https://img.shields.io/github/last-commit/MLT-OSS/FirstData)](https://github.com/MLT-OSS/FirstData) - The world's most comprehensive authoritative data source knowledge base. 160+ curated sources from governments, international organizations, and research institutions with MCP integration.
+- [Mindweave Synthetic Business Data ![GitHub Repo Stars](https://img.shields.io/github/stars/MindweaveTech/sme-sim-sample) ![GitHub last commit](https://img.shields.io/github/last-commit/MindweaveTech/sme-sim-sample)](https://github.com/MindweaveTech/sme-sim-sample) - 42-table synthetic SME dataset with double-entry accounting, tax compliance (AU/US/UK), and temporal realism. CSV, SQL, Parquet, SQLite. Ideal for ETL pipeline testing.
 
 ## Monitoring
 
@@ -325,6 +342,7 @@
 
 - [Prometheus.io ![GitHub Repo Stars](https://img.shields.io/github/stars/prometheus/prometheus) ![GitHub last commit](https://img.shields.io/github/last-commit/prometheus/prometheus)](https://github.com/prometheus/prometheus) - An open-source service monitoring system and time series database.
 - [HAProxy Exporter ![GitHub Repo Stars](https://img.shields.io/github/stars/prometheus/haproxy_exporter) ![GitHub last commit](https://img.shields.io/github/last-commit/prometheus/haproxy_exporter)](https://github.com/prometheus/haproxy_exporter) - Simple server that scrapes HAProxy stats and exports them via HTTP for Prometheus consumption.
+- [Signals CLI ![GitHub Repo Stars](https://img.shields.io/github/stars/sortlist/signals-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/sortlist/signals-cli)](https://github.com/sortlist/signals-cli) - Intent signal monitoring CLI. Track LinkedIn engagers, keyword posters, job changers, funding events. JSON output for data pipelines.
 
 ## Profiling
 
@@ -341,6 +359,7 @@
 - [DataKitchen](https://datakitchen.io/) -  Open Source Data Observability for end-to-end Data Journey Observability, data profiling, anomaly detection, and auto-created data quality validation tests.
 - [GreatExpectation](https://greatexpectations.io/) -  Open Source data validation framework to manage data quality. Users can define and document “expectations” rules about how data should look and behave.
 - [Provero ![GitHub Repo Stars](https://img.shields.io/github/stars/provero-org/provero) ![GitHub last commit](https://img.shields.io/github/last-commit/provero-org/provero)](https://github.com/provero-org/provero) - A vendor-neutral, declarative data quality engine. Define checks in YAML, run anywhere. Includes 16 built-in check types, SQL batch optimizer, anomaly detection, and data contracts.
+- [Scherlok ![GitHub Repo Stars](https://img.shields.io/github/stars/rbmuller/scherlok) ![GitHub last commit](https://img.shields.io/github/last-commit/rbmuller/scherlok)](https://github.com/rbmuller/scherlok) - Zero-config data quality CLI. Profiles every table on first run, then auto-detects anomalies (volume drops, schema drift, freshness misses, distribution shifts) on subsequent runs. No YAML, no rules to write. Works with Postgres, BigQuery, Snowflake, and dbt.
 - [RunSQL](https://runsql.com/) - Free online SQL playground for MySQL, PostgreSQL, and SQL Server. Create database structures, run queries, and share results instantly.
 - [Spark Playground](https://www.sparkplayground.com/) - Write, run, and test PySpark code on Spark Playground's online compiler. Access real-world sample datasets & solve interview questions to enhance your PySpark skills for data engineering roles.
 - [daffy ![GitHub Repo Stars](https://img.shields.io/github/stars/vertti/daffy) ![GitHub last commit](https://img.shields.io/github/last-commit/vertti/daffy)](https://github.com/vertti/daffy/) - Decorator-first DataFrame contracts/validation (columns/dtypes/constraints) at function boundaries. Supports Pandas/Polars/PyArrow/Modin.
@@ -355,6 +374,7 @@
 
 - [/r/dataengineering](https://www.reddit.com/r/dataengineering/) - News, tips, and background on Data Engineering.
 - [/r/etl](https://www.reddit.com/r/ETL/) - Subreddit focused on ETL.
+- [AI Dev Jobs](https://aidevboard.com) - Job board focused on AI, ML, and data engineering roles with 7,400+ listings, salary data, and a free REST API.
 
 ### Conferences
 
