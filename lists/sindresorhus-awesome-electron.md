@@ -168,7 +168,7 @@ Made with Electron.
 - [CashNotify](https://cashnotify.com) - Monitor your Stripe accounts from your menu bar.
 - [Mockoon](https://mockoon.com) - Mock servers in seconds.
 - [Twitch](https://app.twitch.tv) - Official Twitch app.
-- [Fen��tre](https://fenêt.re) - Picture-in-picture for your Mac.
+- [Fenêtre](https://fenêt.re) - Picture-in-picture for your Mac.
 - [Cleavr](https://cleavr.io) - Provision servers and deploy web apps.
 - [Brandy](https://getbrandy.io) - A brand asset manager for your menu bar.
 - [Cacher](https://www.cacher.io) - Cloud-based, team-enabled code snippet manager with Gist sync.
