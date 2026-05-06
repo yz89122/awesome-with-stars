@@ -895,6 +895,7 @@ then it is not supported:
 - [Mr-LLLLL/lualine-ext.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/Mr-LLLLL/lualine-ext.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/Mr-LLLLL/lualine-ext.nvim)](https://github.com/Mr-LLLLL/lualine-ext.nvim) - Show more information on lualine.
 - [mikesmithgh/git-prompt-string-lualine.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/mikesmithgh/git-prompt-string-lualine.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/mikesmithgh/git-prompt-string-lualine.nvim)](https://github.com/mikesmithgh/git-prompt-string-lualine.nvim) - Add git-prompt-string to your statusline.
 - [sschleemilch/slimline.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/sschleemilch/slimline.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/sschleemilch/slimline.nvim)](https://github.com/sschleemilch/slimline.nvim) - A slim, minimal and opinionated Lua statusline.
+- [tajirhas9/muslim.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/tajirhas9/muslim.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/tajirhas9/muslim.nvim)](https://github.com/tajirhas9/muslim.nvim) - Get prayer times and useful islamic essentials in your statusline.
 
 ### Tabline
 
