@@ -168,7 +168,7 @@ On character encoding, string formatting, unicode and internationalization.
 - [Breaking Our `Latin-1` Assumptions](https://manishearth.github.io/blog/2017/01/15/breaking-our-latin-1-assumptions/) - Most programmers spend so much time with `Latin-1` they forgets about other's scripts quirks.
 - [Ode to a shipping label](http://i.imgur.com/4J7Il0m.jpg) - Character encoding is hard, more so when each broken layer of data input adds its own spice.
 - [Localization Failure: Temperature is Hard](https://randomascii.wordpress.com/2023/10/17/localization-failure-temperature-is-hard/) - You cannot localize temperature differences as-is.
-- [i18n Testing Data ![GitHub Repo Stars](https://img.shields.io/github/stars/patch/i18n-testing) ![GitHub last commit](https://img.shields.io/github/last-commit/patch/i18n-testing)](https://github.com/patch/i18n-testing) - ���� Compilation of real-word international and diverse name data for unit testing and QA.
+- [i18n Testing Data ![GitHub Repo Stars](https://img.shields.io/github/stars/patch/i18n-testing) ![GitHub last commit](https://img.shields.io/github/last-commit/patch/i18n-testing)](https://github.com/patch/i18n-testing) - 🆓 Compilation of real-word international and diverse name data for unit testing and QA.
 - [Big List of Naughty Strings ![GitHub Repo Stars](https://img.shields.io/github/stars/minimaxir/big-list-of-naughty-strings) ![GitHub last commit](https://img.shields.io/github/last-commit/minimaxir/big-list-of-naughty-strings)](https://github.com/minimaxir/big-list-of-naughty-strings) - 🆓 A huge corpus of strings which have a high probability of causing issues when used as user-input data. A must have set of practical edge-cases to test your software against.
 
 ## Management
@@ -266,7 +266,7 @@ On character encoding, string formatting, unicode and internationalization.
 
 ## Web
 
-- [Falsehoods about HTML](https://www.aartaka.me.eu.org/falsehoods-html) - “Web is beautiful. Web is ugly. Web is astonishing. A part of this appeal is HTML, with its historical quirks.”
+- [Falsehoods about HTML](https://www.aartaka.me.eu.org/falsehoods-html) - ���Web is beautiful. Web is ugly. Web is astonishing. A part of this appeal is HTML, with its historical quirks.”
 - [Falsehoods about REST APIs](https://web.archive.org/web/20201112010147/http://slinkp.com/falsehoods-programmers-believe-about-apis.html) - Pitfalls to be mindful of when creating and documenting APIs.
 - [URLs: It's complicated…](https://www.netmeister.org/blog/urls.html) - There's a lot of components in an URL, and all have their own logic.
 - [The Hidden Complexity of Downloading Favicons, Told in 15+ Edge Cases](https://web.archive.org/web/20230604033340/https://www.simplecto.com/complexity-downloading-favicons-told-in-15-plus-edge-cases/) - Downloading that little icon you see in you browser tabs should be a simple exercise. It turned out to be a lot more complicated than you think. Be vigilant that you are not shaving a Yak.
