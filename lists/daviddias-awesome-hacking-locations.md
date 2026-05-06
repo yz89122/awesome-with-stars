@@ -1123,7 +1123,7 @@ Webpage: http://cafefatoljen.com
 
 Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
-✔    | ✔     | G��tgatan 14, 118 46 Stockholm, Sweden | 9–23
+✔    | ✔     | Götgatan 14, 118 46 Stockholm, Sweden | 9–23
 
 #### Café Pascal
 
@@ -1199,7 +1199,7 @@ Webpage: https://london.hackspace.org.uk/
 
 Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
-✔ | ✔ | [447 Hackney Road, London, E2 9DY](https://goo.gl/maps/iyzxMYzKocw) | 24/7 (Members Only)
+✔ | �� | [447 Hackney Road, London, E2 9DY](https://goo.gl/maps/iyzxMYzKocw) | 24/7 (Members Only)
 
 ## Scotland
 
