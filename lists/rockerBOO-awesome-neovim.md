@@ -98,6 +98,7 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 
 ## Plugin Manager
 
+- [alyxshang/nuwa.nvim](https://source.alyxshang.boo/alyxshang/nuwa.nvim) - A light package manager.
 - [lewis6991/pckr.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/lewis6991/pckr.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/lewis6991/pckr.nvim)](https://github.com/lewis6991/pckr.nvim) - Spiritual successor of `wbthomason/packer.nvim`.
 - [savq/paq-nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/savq/paq-nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/savq/paq-nvim)](https://github.com/savq/paq-nvim) - Package manager written in Lua.
 <!--lint disable double-link -->
