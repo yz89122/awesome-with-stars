@@ -193,6 +193,7 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
 * [wezterm ![GitHub Repo Stars](https://img.shields.io/github/stars/wezterm/wezterm) ![GitHub last commit](https://img.shields.io/github/last-commit/wezterm/wezterm)](https://github.com/wezterm/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer
 * [WinterJS ![GitHub Repo Stars](https://img.shields.io/github/stars/wasmerio/winterjs) ![GitHub last commit](https://img.shields.io/github/last-commit/wasmerio/winterjs)](https://github.com/wasmerio/winterjs) - A secure JavaScript runtime built with SpiderMonkey and Axum
 * [zellij ![GitHub Repo Stars](https://img.shields.io/github/stars/zellij-org/zellij) ![GitHub last commit](https://img.shields.io/github/last-commit/zellij-org/zellij)](https://github.com/zellij-org/zellij) - A terminal multiplexer (workspace) with batteries included
+* [Zephyr ![GitHub Repo Stars](https://img.shields.io/github/stars/Juwan-Hwang/Zephyr) ![GitHub last commit](https://img.shields.io/github/last-commit/Juwan-Hwang/Zephyr)](https://github.com/Juwan-Hwang/Zephyr) - A modern, lightweight, and secure Mihomo (Clash Meta) GUI client built with Tauri. [![Security Audit ![GitHub Repo Stars](https://img.shields.io/github/stars/Juwan-Hwang/Zephyr) ![GitHub last commit](https://img.shields.io/github/last-commit/Juwan-Hwang/Zephyr)](https://github.com/Juwan-Hwang/Zephyr/actions/workflows/security.yml/badge.svg)](https://github.com/Juwan-Hwang/Zephyr/actions/workflows/security.yml)
 
 ### Audio and Music
 
