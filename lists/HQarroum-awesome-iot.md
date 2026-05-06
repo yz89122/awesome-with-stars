@@ -177,7 +177,7 @@ Inspired by the [awesome ![GitHub Repo Stars](https://img.shields.io/github/star
  - [authBroker ![GitHub Repo Stars](https://img.shields.io/github/stars/authbroker/authbroker) ![GitHub last commit](https://img.shields.io/github/last-commit/authbroker/authbroker)](https://github.com/authbroker/authbroker) - A Keycloak HTTP/MQTT/CoAP IoT Brokers Adapter like Aedes.
  - [MQTT File Uploader ![GitHub Repo Stars](https://img.shields.io/github/stars/volkanalkilic/Mqtt-File-Uploader) ![GitHub last commit](https://img.shields.io/github/last-commit/volkanalkilic/Mqtt-File-Uploader)](https://github.com/volkanalkilic/Mqtt-File-Uploader) - MQTT File Uploader is a simple Cross-platform .NET Core application that watches local directories for changes and uploads new or modified files to an MQTT broker.
  - [PiSpot-Show ![GitHub Repo Stars](https://img.shields.io/github/stars/GeiserX/PiSpot-Show) ![GitHub last commit](https://img.shields.io/github/last-commit/GeiserX/PiSpot-Show)](https://github.com/GeiserX/PiSpot-Show) - Raspberry Pi WiFi voucher display system with weather integration and PiJuice battery management.
-- [SIGNL4 – Mobile Alerting](https://www.signl4.com/iot-service-alerting/) - SIGNL4 brings reliable mobile alerting with app push, SMS, and voice calls – plus escalation and duty scheduling ��� for your IoT projects.
+- [SIGNL4 – Mobile Alerting](https://www.signl4.com/iot-service-alerting/) - SIGNL4 brings reliable mobile alerting with app push, SMS, and voice calls – plus escalation and duty scheduling – for your IoT projects.
 
 ## Protocols and Networks
 

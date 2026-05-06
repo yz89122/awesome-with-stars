@@ -321,6 +321,7 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
 
 ### Embedded
 
+* [embassy-rs/embassy ![GitHub Repo Stars](https://img.shields.io/github/stars/embassy-rs/embassy) ![GitHub last commit](https://img.shields.io/github/last-commit/embassy-rs/embassy)](https://github.com/embassy-rs/embassy) [[embassy](https://crates.io/crates/embassy)] - Next-generation async/await framework for embedded Rust with HALs for STM32, nRF, RP, ESP32, and more. Features embassy-time, embassy-net, embassy-usb, and low-power support. [![Build Status ![GitHub Repo Stars](https://img.shields.io/github/stars/embassy-rs/embassy) ![GitHub last commit](https://img.shields.io/github/last-commit/embassy-rs/embassy)](https://github.com/embassy-rs/embassy/actions/workflows/ci.yml/badge.svg)](https://github.com/embassy-rs/embassy/actions)
 * [rmk ![GitHub Repo Stars](https://img.shields.io/github/stars/haobogu/rmk) ![GitHub last commit](https://img.shields.io/github/last-commit/haobogu/rmk)](https://github.com/haobogu/rmk) - A feature-rich keyboard firmware.
 * [uefi-rs ![GitHub Repo Stars](https://img.shields.io/github/stars/rust-osdev/uefi-rs) ![GitHub last commit](https://img.shields.io/github/last-commit/rust-osdev/uefi-rs)](https://github.com/rust-osdev/uefi-rs) - Rusty wrapper for the Unified Extensible Firmware Interface. This crate makes it easy to develop Rust software that leverages safe, convenient, and performant abstractions for UEFI functionality.
 
