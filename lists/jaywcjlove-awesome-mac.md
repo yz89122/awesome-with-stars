@@ -1576,7 +1576,7 @@ If you come across websites offering pirated software or cracks, please post [HE
 *Refuse piracy from me. Software vendors can go to these places rights.*
 
 * AppKed：~~`http://www.macbed.com`~~
-* Softasm：~~`https://softasm.com/`~~
+* Softasm��~~`https://softasm.com/`~~
 * Appstorrent：~~`http://appstorrent.ru/`~~
 
 ## Podcasts
