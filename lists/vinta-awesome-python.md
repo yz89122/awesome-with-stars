@@ -744,6 +744,7 @@ _Libraries for working with task queues._
 - [dramatiq ![GitHub Repo Stars](https://img.shields.io/github/stars/Bogdanp/dramatiq) ![GitHub last commit](https://img.shields.io/github/last-commit/Bogdanp/dramatiq)](https://github.com/Bogdanp/dramatiq) - A fast and reliable background task processing library for Python 3.
 - [huey ![GitHub Repo Stars](https://img.shields.io/github/stars/coleifer/huey) ![GitHub last commit](https://img.shields.io/github/last-commit/coleifer/huey)](https://github.com/coleifer/huey) - Little multi-threaded task queue.
 - [rq ![GitHub Repo Stars](https://img.shields.io/github/stars/rq/rq) ![GitHub last commit](https://img.shields.io/github/last-commit/rq/rq)](https://github.com/rq/rq) - Simple job queues for Python.
+- [taskiq ![GitHub Repo Stars](https://img.shields.io/github/stars/taskiq-python/taskiq) ![GitHub last commit](https://img.shields.io/github/last-commit/taskiq-python/taskiq)](https://github.com/taskiq-python/taskiq) - Distributed task queue with native asyncio support and pluggable brokers.
 
 ### Messaging
 
@@ -949,6 +950,7 @@ _Libraries for manipulating images._
 _Libraries for manipulating audio, video, and their metadata._
 
 - Audio
+  - [birdnet ![GitHub Repo Stars](https://img.shields.io/github/stars/kahst/BirdNET-Analyzer) ![GitHub last commit](https://img.shields.io/github/last-commit/kahst/BirdNET-Analyzer)](https://github.com/kahst/BirdNET-Analyzer) - Deep learning framework for acoustic species detection; identifies bird species from audio recordings using TensorFlow.
   - [gtts ![GitHub Repo Stars](https://img.shields.io/github/stars/pndurette/gTTS) ![GitHub last commit](https://img.shields.io/github/last-commit/pndurette/gTTS)](https://github.com/pndurette/gTTS) - Python library and CLI tool for converting text to speech using Google Translate TTS.
   - [librosa ![GitHub Repo Stars](https://img.shields.io/github/stars/librosa/librosa) ![GitHub last commit](https://img.shields.io/github/last-commit/librosa/librosa)](https://github.com/librosa/librosa) - Python library for audio and music analysis.
   - [matchering ![GitHub Repo Stars](https://img.shields.io/github/stars/sergree/matchering) ![GitHub last commit](https://img.shields.io/github/last-commit/sergree/matchering)](https://github.com/sergree/matchering) - A library for automated reference audio mastering.
