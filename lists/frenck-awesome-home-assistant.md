@@ -18,7 +18,7 @@ you should check out the [Home Assistant online demo](https://demo.home-assistan
 
 Awesome Home Assistant is a curated list of awesome
 [Home Assistant](https://www.home-assistant.io) resources.
-Additional software, tutorials, custom integration, add-ons,
+Additional software, tutorials, custom integrations, apps,
 custom dashboard cards & plugins, cookbooks, example setups, and much more.
 
 The list is divided into categories. The links in those categories do not have
@@ -35,9 +35,9 @@ to suggest additions, updates or removals.
   - [Official Communities](#official-communities)
   - [Other Communities](#other-communities)
 - [Public Configurations](#public-configurations)
-- [Add-ons](#add-ons)
-  - [Official Add-ons](#official-add-ons)
-  - [Third Party Add-ons](#third-party-add-ons)
+- [Apps](#apps)
+  - [Official Apps](#official-apps)
+  - [Third Party Apps](#third-party-apps)
 - [Dashboards](#dashboards)
   - [Icon packs](#icon-packs)
   - [Themes](#themes)
@@ -85,7 +85,7 @@ Home Assistant recommends the Home Assistant OS installation method.
 
 _There are various ways to get in touch with the Home Assistant community.
 It doesn't matter if you have a question, need help, want to request a feature,
-or just say ‘Hi’._
+or just say "Hi"._
 
 ### Official Communities
 
@@ -97,7 +97,6 @@ or just say ‘Hi’._
 ### Other Communities
 
 - [Dr. ZZs](https://www.facebook.com/groups/1969622823351838/) - Facebook group by Dr. Zzs.
-- [Home Assistant Community Add-ons Discord](https://discord.me/hassioaddons) - Get support on the Home Assistant Community Add-ons.
 - [ESPHome Discord](https://discord.gg/KhAMKrd) - Get support for your DIY ESPHome project.
 - 🇳🇱 [Dutch Domotics Discord](https://discord.gg/Ee5X7T7) - Dutch Discord server with home automation enthusiasts.
 
@@ -116,13 +115,14 @@ an awesome source for learning and a great source of inspiration._
 - [Klaas Schoute ![GitHub Repo Stars](https://img.shields.io/github/stars/klaasnicolaas/Student-homeassistant-config) ![GitHub last commit](https://img.shields.io/github/last-commit/klaasnicolaas/Student-homeassistant-config)](https://github.com/klaasnicolaas/Student-homeassistant-config) - Hass.io based, Intel NUC, Ubuntu Server, Docker and regularly updated.
 - [Andrea Iannucci ![GitHub Repo Stars](https://img.shields.io/github/stars/SeLLeRoNe/HA-Config) ![GitHub last commit](https://img.shields.io/github/last-commit/SeLLeRoNe/HA-Config)](https://github.com/SeLLeRoNe/HA-Config) - Also known as SeLLeRoNe. Regularly updated.
 
-## Add-ons
+## Apps
 
-_Add-ons are additional applications and services, that can be run alongside
-Home Assistant. The Home Assistant OS and Supervised installations types,
-provide the Supervisor, which is capable of running and manage these add-ons._
+_Apps (formerly known as Add-ons) are additional applications and services
+that can be run alongside Home Assistant. The Home Assistant OS and Supervised
+installation types provide the Supervisor, which is capable of running and
+managing these apps._
 
-### Official Add-ons
+### Official Apps
 
 _Created and maintained by the Home Assistant team._
 
@@ -133,45 +133,41 @@ _Created and maintained by the Home Assistant team._
 - [Samba ![GitHub Repo Stars](https://img.shields.io/github/stars/home-assistant/hassio-addons) ![GitHub last commit](https://img.shields.io/github/last-commit/home-assistant/hassio-addons)](https://github.com/home-assistant/hassio-addons/blob/master/samba/DOCS.md) - Access your configuration files using Windows network shares.
 - [NGINX SSL proxy ![GitHub Repo Stars](https://img.shields.io/github/stars/home-assistant/hassio-addons) ![GitHub last commit](https://img.shields.io/github/last-commit/home-assistant/hassio-addons)](https://github.com/home-assistant/hassio-addons/blob/master/nginx_proxy/DOCS.md) - Reverse proxy with SSL termination.
 - [deCONZ ![GitHub Repo Stars](https://img.shields.io/github/stars/home-assistant/hassio-addons) ![GitHub last commit](https://img.shields.io/github/last-commit/home-assistant/hassio-addons)](https://github.com/home-assistant/hassio-addons/blob/master/deconz/DOCS.md) - Control a ZigBee network using ConBee or RaspBee hardware by Dresden Elektronik.
-- [TellStick ![GitHub Repo Stars](https://img.shields.io/github/stars/home-assistant/hassio-addons) ![GitHub last commit](https://img.shields.io/github/last-commit/home-assistant/hassio-addons)](https://github.com/home-assistant/hassio-addons/blob/master/tellstick/DOCS.md) - Run a TellStick and TellStick Duo service.
-- [Ada ![GitHub Repo Stars](https://img.shields.io/github/stars/home-assistant/hassio-addons) ![GitHub last commit](https://img.shields.io/github/last-commit/home-assistant/hassio-addons)](https://github.com/home-assistant/hassio-addons/blob/master/ada/DOCS.md) - Ada is voice assistant powered by Almond which is open and privacy-preserving.
-- [Almond ![GitHub Repo Stars](https://img.shields.io/github/stars/home-assistant/hassio-addons) ![GitHub last commit](https://img.shields.io/github/last-commit/home-assistant/hassio-addons)](https://github.com/home-assistant/hassio-addons/blob/master/almond/DOCS.md) - The Open, Privacy-Preserving Virtual Assistant.
-- [HomeMatic ![GitHub Repo Stars](https://img.shields.io/github/stars/home-assistant/hassio-addons) ![GitHub last commit](https://img.shields.io/github/last-commit/home-assistant/hassio-addons)](https://github.com/home-assistant/hassio-addons/blob/master/homematic/DOCS.md) - HomeMatic central based on OCCU.
+
 - [Let's Encrypt ![GitHub Repo Stars](https://img.shields.io/github/stars/home-assistant/hassio-addons) ![GitHub last commit](https://img.shields.io/github/last-commit/home-assistant/hassio-addons)](https://github.com/home-assistant/hassio-addons/blob/master/letsencrypt/DOCS.md) - Get a free SSL certificate from Let's Encrypt; an open and automated certificate authority (CA).
 - [MariaDB ![GitHub Repo Stars](https://img.shields.io/github/stars/home-assistant/hassio-addons) ![GitHub last commit](https://img.shields.io/github/last-commit/home-assistant/hassio-addons)](https://github.com/home-assistant/hassio-addons/blob/master/mariadb/DOCS.md) - An open source relational database (fork of MySQL).
 
-### Third Party Add-ons
+### Third Party Apps
 
-_Anyone can create an add-on, the following are created by the community._
+_Anyone can create an app, the following are created by the community._
 
-- [SSH & Web Terminal ![GitHub Repo Stars](https://img.shields.io/github/stars/hassio-addons/addon-ssh) ![GitHub last commit](https://img.shields.io/github/last-commit/hassio-addons/addon-ssh)](https://github.com/hassio-addons/addon-ssh) - SSH and Web-based terminal with tons of pre-loaded useful tools.
-- [UniFi Controller ![GitHub Repo Stars](https://img.shields.io/github/stars/hassio-addons/addon-unifi) ![GitHub last commit](https://img.shields.io/github/last-commit/hassio-addons/addon-unifi)](https://github.com/hassio-addons/addon-unifi) - The UniFi Controller allows you to manage your UniFi network using a web browser.
-- [Node-RED ![GitHub Repo Stars](https://img.shields.io/github/stars/hassio-addons/addon-node-red) ![GitHub last commit](https://img.shields.io/github/last-commit/hassio-addons/addon-node-red)](https://github.com/hassio-addons/addon-node-red) - Flow-based programming for the Internet of Things.
-- [Plex Media Server ![GitHub Repo Stars](https://img.shields.io/github/stars/hassio-addons/addon-plex) ![GitHub last commit](https://img.shields.io/github/last-commit/hassio-addons/addon-plex)](https://github.com/hassio-addons/addon-plex) - Your recorded media beautifully organized and ready to stream.
+- [SSH & Web Terminal ![GitHub Repo Stars](https://img.shields.io/github/stars/hassio-addons/app-ssh) ![GitHub last commit](https://img.shields.io/github/last-commit/hassio-addons/app-ssh)](https://github.com/hassio-addons/app-ssh) - SSH and Web-based terminal with tons of pre-loaded useful tools.
+- [UniFi Controller ![GitHub Repo Stars](https://img.shields.io/github/stars/hassio-addons/app-unifi) ![GitHub last commit](https://img.shields.io/github/last-commit/hassio-addons/app-unifi)](https://github.com/hassio-addons/app-unifi) - The UniFi Controller allows you to manage your UniFi network using a web browser.
+- [Node-RED ![GitHub Repo Stars](https://img.shields.io/github/stars/hassio-addons/app-node-red) ![GitHub last commit](https://img.shields.io/github/last-commit/hassio-addons/app-node-red)](https://github.com/hassio-addons/app-node-red) - Flow-based programming for the Internet of Things.
+- [Plex Media Server ![GitHub Repo Stars](https://img.shields.io/github/stars/hassio-addons/app-plex) ![GitHub last commit](https://img.shields.io/github/last-commit/hassio-addons/app-plex)](https://github.com/hassio-addons/app-plex) - Your recorded media beautifully organized and ready to stream.
 - [IDE ![GitHub Repo Stars](https://img.shields.io/github/stars/hassio-addons/addon-ide) ![GitHub last commit](https://img.shields.io/github/last-commit/hassio-addons/addon-ide)](https://github.com/hassio-addons/addon-ide) - Advanced web-based IDE, based on Cloud9 IDE.
-- [Dasshio ![GitHub Repo Stars](https://img.shields.io/github/stars/danimtb/dasshio) ![GitHub last commit](https://img.shields.io/github/last-commit/danimtb/dasshio)](https://github.com/danimtb/dasshio) - Easily use your Amazon Dash Buttons.
 - [InfluxDB ![GitHub Repo Stars](https://img.shields.io/github/stars/hassio-addons/addon-influxdb) ![GitHub last commit](https://img.shields.io/github/last-commit/hassio-addons/addon-influxdb)](https://github.com/hassio-addons/addon-influxdb) - Scalable datastore for metrics, events, and real-time analytics.
 - [Grafana ![GitHub Repo Stars](https://img.shields.io/github/stars/hassio-addons/addon-grafana) ![GitHub last commit](https://img.shields.io/github/last-commit/hassio-addons/addon-grafana)](https://github.com/hassio-addons/addon-grafana) - Open platform for beautiful analytics and monitoring.
-- [Tor ![GitHub Repo Stars](https://img.shields.io/github/stars/hassio-addons/addon-tor) ![GitHub last commit](https://img.shields.io/github/last-commit/hassio-addons/addon-tor)](https://github.com/hassio-addons/addon-tor) - Protect your privacy and access your instance via Tor.
-- [Spotify Connect ![GitHub Repo Stars](https://img.shields.io/github/stars/hassio-addons/addon-spotify-connect) ![GitHub last commit](https://img.shields.io/github/last-commit/hassio-addons/addon-spotify-connect)](https://github.com/hassio-addons/addon-spotify-connect) - Spotify Connect client for playing music on your Home Assistant device.
+- [Tor ![GitHub Repo Stars](https://img.shields.io/github/stars/hassio-addons/app-tor) ![GitHub last commit](https://img.shields.io/github/last-commit/hassio-addons/app-tor)](https://github.com/hassio-addons/app-tor) - Protect your privacy and access your instance via Tor.
+- [Spotify Connect ![GitHub Repo Stars](https://img.shields.io/github/stars/hassio-addons/app-spotify-connect) ![GitHub last commit](https://img.shields.io/github/last-commit/hassio-addons/app-spotify-connect)](https://github.com/hassio-addons/app-spotify-connect) - Stream music from Spotify directly to your Home Assistant device.
 - [zigbee2mqtt ![GitHub Repo Stars](https://img.shields.io/github/stars/danielwelch/hassio-zigbee2mqtt) ![GitHub last commit](https://img.shields.io/github/last-commit/danielwelch/hassio-zigbee2mqtt)](https://github.com/danielwelch/hassio-zigbee2mqtt) - Zigbee to MQTT bridge, get rid of your proprietary Zigbee bridges.
-- [AppDaemon ![GitHub Repo Stars](https://img.shields.io/github/stars/hassio-addons/addon-appdaemon) ![GitHub last commit](https://img.shields.io/github/last-commit/hassio-addons/addon-appdaemon)](https://github.com/hassio-addons/addon-appdaemon) - Python Apps and HADashboard.
+- [AppDaemon ![GitHub Repo Stars](https://img.shields.io/github/stars/hassio-addons/app-appdaemon) ![GitHub last commit](https://img.shields.io/github/last-commit/hassio-addons/app-appdaemon)](https://github.com/hassio-addons/app-appdaemon) - Python Apps and HADashboard.
 - [TasmoAdmin ![GitHub Repo Stars](https://img.shields.io/github/stars/hassio-addons/addon-tasmoadmin) ![GitHub last commit](https://img.shields.io/github/last-commit/hassio-addons/addon-tasmoadmin)](https://github.com/hassio-addons/addon-tasmoadmin) - Centrally manage all your Sonoff-Tasmota devices.
-- [Aircast ![GitHub Repo Stars](https://img.shields.io/github/stars/hassio-addons/addon-aircast) ![GitHub last commit](https://img.shields.io/github/last-commit/hassio-addons/addon-aircast)](https://github.com/hassio-addons/addon-aircast) - AirPlay capabilities for your Chromecast players.
-- [AirSonos ![GitHub Repo Stars](https://img.shields.io/github/stars/hassio-addons/addon-airsonos) ![GitHub last commit](https://img.shields.io/github/last-commit/hassio-addons/addon-airsonos)](https://github.com/hassio-addons/addon-airsonos) - AirPlay capabilities for your Sonos players.
+- [Aircast ![GitHub Repo Stars](https://img.shields.io/github/stars/hassio-addons/app-aircast) ![GitHub last commit](https://img.shields.io/github/last-commit/hassio-addons/app-aircast)](https://github.com/hassio-addons/app-aircast) - AirPlay capabilities for your Chromecast players.
+- [AirSonos ![GitHub Repo Stars](https://img.shields.io/github/stars/hassio-addons/app-airsonos) ![GitHub last commit](https://img.shields.io/github/last-commit/hassio-addons/app-airsonos)](https://github.com/hassio-addons/app-airsonos) - AirPlay capabilities for your Sonos players.
 - [Dropbox Sync ![GitHub Repo Stars](https://img.shields.io/github/stars/danielwelch/hassio-dropbox-sync) ![GitHub last commit](https://img.shields.io/github/last-commit/danielwelch/hassio-dropbox-sync)](https://github.com/danielwelch/hassio-dropbox-sync) - Upload your backup snapshots to Dropbox.
 - [Log Viewer ![GitHub Repo Stars](https://img.shields.io/github/stars/hassio-addons/addon-log-viewer) ![GitHub last commit](https://img.shields.io/github/last-commit/hassio-addons/addon-log-viewer)](https://github.com/hassio-addons/addon-log-viewer) - Browser-based live log viewing utility.
 - [Tautulli ![GitHub Repo Stars](https://img.shields.io/github/stars/hassio-addons/addon-tautulli) ![GitHub last commit](https://img.shields.io/github/last-commit/hassio-addons/addon-tautulli)](https://github.com/hassio-addons/addon-tautulli) - Monitor and get statistics from your Plex server.
 - [motionEye ![GitHub Repo Stars](https://img.shields.io/github/stars/hassio-addons/addon-motioneye) ![GitHub last commit](https://img.shields.io/github/last-commit/hassio-addons/addon-motioneye)](https://github.com/hassio-addons/addon-motioneye) - Simple, elegant and feature-rich CCTV/NVR for your cameras.
 - [JupyterLab ![GitHub Repo Stars](https://img.shields.io/github/stars/hassio-addons/addon-jupyterlab) ![GitHub last commit](https://img.shields.io/github/last-commit/hassio-addons/addon-jupyterlab)](https://github.com/hassio-addons/addon-jupyterlab) - Create documents containing live code, equations, visualizations, and explanatory text.
 - [Backup to Google Drive ![GitHub Repo Stars](https://img.shields.io/github/stars/samccauley/addon-hassiogooglebackup) ![GitHub last commit](https://img.shields.io/github/last-commit/samccauley/addon-hassiogooglebackup)](https://github.com/samccauley/addon-hassiogooglebackup) - Backup snapshots to Google Drive.
-- [Glances ![GitHub Repo Stars](https://img.shields.io/github/stars/hassio-addons/addon-glances) ![GitHub last commit](https://img.shields.io/github/last-commit/hassio-addons/addon-glances)](https://github.com/hassio-addons/addon-glances) - A cross-platform system monitoring tool written in Python.
+- [Glances ![GitHub Repo Stars](https://img.shields.io/github/stars/hassio-addons/app-glances) ![GitHub last commit](https://img.shields.io/github/last-commit/hassio-addons/app-glances)](https://github.com/hassio-addons/app-glances) - A cross-platform system monitoring tool written in Python.
 - [Matrix ![GitHub Repo Stars](https://img.shields.io/github/stars/hassio-addons/addon-matrix) ![GitHub last commit](https://img.shields.io/github/last-commit/hassio-addons/addon-matrix)](https://github.com/hassio-addons/addon-matrix) - A secure and decentralized communication platform.
-- [AdGuard Home ![GitHub Repo Stars](https://img.shields.io/github/stars/hassio-addons/addon-adguard-home) ![GitHub last commit](https://img.shields.io/github/last-commit/hassio-addons/addon-adguard-home)](https://github.com/hassio-addons/addon-adguard-home) - A network-wide ad-and-tracker blocking DNS server with parental control.
-- [Traccar ![GitHub Repo Stars](https://img.shields.io/github/stars/hassio-addons/addon-traccar) ![GitHub last commit](https://img.shields.io/github/last-commit/hassio-addons/addon-traccar)](https://github.com/hassio-addons/addon-traccar) - Traccar is modern GPS Tracking Platform.
+- [AdGuard Home ![GitHub Repo Stars](https://img.shields.io/github/stars/hassio-addons/app-adguard-home) ![GitHub last commit](https://img.shields.io/github/last-commit/hassio-addons/app-adguard-home)](https://github.com/hassio-addons/app-adguard-home) - A network-wide ad-and-tracker blocking DNS server with parental control.
+- [Traccar ![GitHub Repo Stars](https://img.shields.io/github/stars/hassio-addons/addon-traccar) ![GitHub last commit](https://img.shields.io/github/last-commit/hassio-addons/addon-traccar)](https://github.com/hassio-addons/addon-traccar) - Modern GPS tracking platform.
 - [Home Panel ![GitHub Repo Stars](https://img.shields.io/github/stars/hassio-addons/addon-home-panel) ![GitHub last commit](https://img.shields.io/github/last-commit/hassio-addons/addon-home-panel)](https://github.com/hassio-addons/addon-home-panel) - A touch-compatible web frontend for controlling the home.
 - [Hass.io Google Drive Backup ![GitHub Repo Stars](https://img.shields.io/github/stars/sabeechen/hassio-google-drive-backup) ![GitHub last commit](https://img.shields.io/github/last-commit/sabeechen/hassio-google-drive-backup)](https://github.com/sabeechen/hassio-google-drive-backup) - A complete and easy to configure solution for backing up your snapshots to Google Drive.
-- [Grocy ![GitHub Repo Stars](https://img.shields.io/github/stars/hassio-addons/addon-grocy) ![GitHub last commit](https://img.shields.io/github/last-commit/hassio-addons/addon-grocy)](https://github.com/hassio-addons/addon-grocy) - ERP beyond your fridge! A groceries & household management solution for your home.
+- [Grocy ![GitHub Repo Stars](https://img.shields.io/github/stars/hassio-addons/app-grocy) ![GitHub last commit](https://img.shields.io/github/last-commit/hassio-addons/app-grocy)](https://github.com/hassio-addons/app-grocy) - ERP beyond your fridge! A groceries & household management solution for your home.
 - [EmonCMS ![GitHub Repo Stars](https://img.shields.io/github/stars/inverse/hassio-addon-emoncms) ![GitHub last commit](https://img.shields.io/github/last-commit/inverse/hassio-addon-emoncms)](https://github.com/inverse/hassio-addon-emoncms) - A powerful open-source web app for processing, logging, and visualizing energy, temperature, and other environmental data.
 - [CrowdSec ![GitHub Repo Stars](https://img.shields.io/github/stars/crowdsecurity/home-assistant-addons) ![GitHub last commit](https://img.shields.io/github/last-commit/crowdsecurity/home-assistant-addons)](https://github.com/crowdsecurity/home-assistant-addons) - A next-gen collaborative IPS/IDS to protect you from intrusion.
 
@@ -221,14 +217,14 @@ which you can easily add to your instance._
 - [Thermostat Card ![GitHub Repo Stars](https://img.shields.io/github/stars/ciotlosm/lovelace-thermostat-dark-card) ![GitHub last commit](https://img.shields.io/github/last-commit/ciotlosm/lovelace-thermostat-dark-card)](https://github.com/ciotlosm/lovelace-thermostat-dark-card) - Thermostat control card that looks like a Nest Thermostat.
 - [Mini Media Player ![GitHub Repo Stars](https://img.shields.io/github/stars/kalkih/mini-media-player) ![GitHub last commit](https://img.shields.io/github/last-commit/kalkih/mini-media-player)](https://github.com/kalkih/mini-media-player) - A minimalistic media player card.
 - [Mini Graph Card ![GitHub Repo Stars](https://img.shields.io/github/stars/kalkih/mini-graph-card) ![GitHub last commit](https://img.shields.io/github/last-commit/kalkih/mini-graph-card)](https://github.com/kalkih/mini-graph-card) - A minimalistic sensor graph card.
-- [Button card ![GitHub Repo Stars](https://img.shields.io/github/stars/kuuji/button-card) ![GitHub last commit](https://img.shields.io/github/last-commit/kuuji/button-card)](https://github.com/kuuji/button-card) - Button card for your entities.
+- [Button card ![GitHub Repo Stars](https://img.shields.io/github/stars/custom-cards/button-card) ![GitHub last commit](https://img.shields.io/github/last-commit/custom-cards/button-card)](https://github.com/custom-cards/button-card) - Highly customizable button for your entities.
 - [Slider Entity Row ![GitHub Repo Stars](https://img.shields.io/github/stars/thomasloven/lovelace-slider-entity-row) ![GitHub last commit](https://img.shields.io/github/last-commit/thomasloven/lovelace-slider-entity-row)](https://github.com/thomasloven/lovelace-slider-entity-row) - Add a slider to adjust, e.g., the brightness of lights in lovelace entity cards.
 - [Power Wheel Card ![GitHub Repo Stars](https://img.shields.io/github/stars/gurbyz/power-wheel-card) ![GitHub last commit](https://img.shields.io/github/last-commit/gurbyz/power-wheel-card)](https://github.com/gurbyz/power-wheel-card) - An intuitive way to represent the power that your home is consuming or producing.
 - [Simple Thermostat ![GitHub Repo Stars](https://img.shields.io/github/stars/nervetattoo/simple-thermostat) ![GitHub last commit](https://img.shields.io/github/last-commit/nervetattoo/simple-thermostat)](https://github.com/nervetattoo/simple-thermostat) - A simpler and more flexible thermostat card.
 - [Card Modder ![GitHub Repo Stars](https://img.shields.io/github/stars/thomasloven/lovelace-card-mod) ![GitHub last commit](https://img.shields.io/github/last-commit/thomasloven/lovelace-card-mod)](https://github.com/thomasloven/lovelace-card-mod) - Style your Lovelace cards.
-- [Bar Card ![GitHub Repo Stars](https://img.shields.io/github/stars/Gluwc/bar-card) ![GitHub last commit](https://img.shields.io/github/last-commit/Gluwc/bar-card)](https://github.com/Gluwc/bar-card) - Customizable animated bar card.
+- [Bar Card ![GitHub Repo Stars](https://img.shields.io/github/stars/custom-cards/bar-card) ![GitHub last commit](https://img.shields.io/github/last-commit/custom-cards/bar-card)](https://github.com/custom-cards/bar-card) - Customizable animated bar card.
 - [forked-daapd Card ![GitHub Repo Stars](https://img.shields.io/github/stars/kalkih/forked-daapd-card) ![GitHub last commit](https://img.shields.io/github/last-commit/kalkih/forked-daapd-card)](https://github.com/kalkih/forked-daapd-card) - Control a forked daapd instance.
-- [Dual Gauge Card ![GitHub Repo Stars](https://img.shields.io/github/stars/Rocka84/dual-gauge-card) ![GitHub last commit](https://img.shields.io/github/last-commit/Rocka84/dual-gauge-card)](https://github.com/Rocka84/dual-gauge-card) - Shows two gauges in one.
+- [Dual Gauge Card ![GitHub Repo Stars](https://img.shields.io/github/stars/custom-cards/dual-gauge-card) ![GitHub last commit](https://img.shields.io/github/last-commit/custom-cards/dual-gauge-card)](https://github.com/custom-cards/dual-gauge-card) - Shows two gauges in one.
 - [Atomic Calendar Revive ![GitHub Repo Stars](https://img.shields.io/github/stars/totaldebug/atomic-calendar-revive) ![GitHub last commit](https://img.shields.io/github/last-commit/totaldebug/atomic-calendar-revive)](https://github.com/totaldebug/atomic-calendar-revive) - Calendar card with advanced settings.
 - [Xiaomi Vacuum Card ![GitHub Repo Stars](https://img.shields.io/github/stars/benct/lovelace-xiaomi-vacuum-card) ![GitHub last commit](https://img.shields.io/github/last-commit/benct/lovelace-xiaomi-vacuum-card)](https://github.com/benct/lovelace-xiaomi-vacuum-card) - Detailed card for Xiaomi vacuum cleaners (and others).
 - [Simple Weather Card ![GitHub Repo Stars](https://img.shields.io/github/stars/kalkih/simple-weather-card) ![GitHub last commit](https://img.shields.io/github/last-commit/kalkih/simple-weather-card)](https://github.com/kalkih/simple-weather-card) - A minimalistic weather card, inspired by Google Material Design.
@@ -237,9 +233,9 @@ which you can easily add to your instance._
 - [Spotify Card ![GitHub Repo Stars](https://img.shields.io/github/stars/custom-cards/spotify-card) ![GitHub last commit](https://img.shields.io/github/last-commit/custom-cards/spotify-card)](https://github.com/custom-cards/spotify-card) - List and select from current available devices and users top playlists on Spotify.
 - [Battery Entity ![GitHub Repo Stars](https://img.shields.io/github/stars/cbulock/lovelace-battery-entity) ![GitHub last commit](https://img.shields.io/github/last-commit/cbulock/lovelace-battery-entity)](https://github.com/cbulock/lovelace-battery-entity) - Displaying battery levels for battery entities.
 - [Multiple Entity Row ![GitHub Repo Stars](https://img.shields.io/github/stars/benct/lovelace-multiple-entity-row) ![GitHub last commit](https://img.shields.io/github/last-commit/benct/lovelace-multiple-entity-row)](https://github.com/benct/lovelace-multiple-entity-row) - Show multiple entity states or attributes on entity rows.
-- [Vacuum Map Card ![GitHub Repo Stars](https://img.shields.io/github/stars/PiotrMachowski/Home-Assistant-Lovelace-Xiaomi-Vacuum-Map-card) ![GitHub last commit](https://img.shields.io/github/last-commit/PiotrMachowski/Home-Assistant-Lovelace-Xiaomi-Vacuum-Map-card)](https://github.com/PiotrMachowski/Home-Assistant-Lovelace-Xiaomi-Vacuum-Map-card) - This card provides a user-friendly way to fully control Xiaomi (Roborock/Viomi/Dreame/Roidmi) and Neato (+ possibly other) vacuums.
+- [Vacuum Map Card ![GitHub Repo Stars](https://img.shields.io/github/stars/PiotrMachowski/lovelace-xiaomi-vacuum-map-card) ![GitHub last commit](https://img.shields.io/github/last-commit/PiotrMachowski/lovelace-xiaomi-vacuum-map-card)](https://github.com/PiotrMachowski/lovelace-xiaomi-vacuum-map-card) - This card provides a user-friendly way to fully control Xiaomi (Roborock/Viomi/Dreame/Roidmi) and Neato (+ possibly other) vacuums.
 - [Home Feed Card ![GitHub Repo Stars](https://img.shields.io/github/stars/gadgetchnnel/lovelace-home-feed-card) ![GitHub last commit](https://img.shields.io/github/last-commit/gadgetchnnel/lovelace-home-feed-card)](https://github.com/gadgetchnnel/lovelace-home-feed-card) - Display a combination of persistent notifications, calendar events, and entities in the style of a feed.
-- [Config Template Card ![GitHub Repo Stars](https://img.shields.io/github/stars/custom-cards/config-template-card) ![GitHub last commit](https://img.shields.io/github/last-commit/custom-cards/config-template-card)](https://github.com/custom-cards/config-template-card) - Allow using templates in Lovelace.
+- [Config Template Card ![GitHub Repo Stars](https://img.shields.io/github/stars/iantrich/config-template-card) ![GitHub last commit](https://img.shields.io/github/last-commit/iantrich/config-template-card)](https://github.com/iantrich/config-template-card) - Allow using templates in Lovelace.
 - [RGB Light Card ![GitHub Repo Stars](https://img.shields.io/github/stars/bokub/rgb-light-card) ![GitHub last commit](https://img.shields.io/github/last-commit/bokub/rgb-light-card)](https://github.com/bokub/rgb-light-card) - Colorful buttons to control your RGB Lights.
 - [LG WebOS Remote Control ![GitHub Repo Stars](https://img.shields.io/github/stars/madmicio/LG-WebOS-Remote-Control) ![GitHub last commit](https://img.shields.io/github/last-commit/madmicio/LG-WebOS-Remote-Control)](https://github.com/madmicio/LG-WebOS-Remote-Control) - Remote Control for LG TV WebOS.
 - [Restriction Card ![GitHub Repo Stars](https://img.shields.io/github/stars/iantrich/restriction-card) ![GitHub last commit](https://img.shields.io/github/last-commit/iantrich/restriction-card)](https://github.com/iantrich/restriction-card) - A card to provide restrictions on Lovelace cards defined within.
@@ -249,23 +245,19 @@ which you can easily add to your instance._
 
 ### Alternative Dashboards
 
-- [TileBoard ![GitHub Repo Stars](https://img.shields.io/github/stars/resoai/TileBoard) ![GitHub last commit](https://img.shields.io/github/last-commit/resoai/TileBoard)](https://github.com/resoai/TileBoard) - A simple yet highly configurable Dashboard.
 - [Dwains Dashboard ![GitHub Repo Stars](https://img.shields.io/github/stars/dwainscheeren/dwains-lovelace-dashboard) ![GitHub last commit](https://img.shields.io/github/last-commit/dwainscheeren/dwains-lovelace-dashboard)](https://github.com/dwainscheeren/dwains-lovelace-dashboard) - An fully auto-generating dashboard for desktop, tablet and mobile.
 
 ## Custom Integrations
 
 _Additional integrations for Home Assistant, that were created by the community._
 
-- [Lutron Caseta Pro ![GitHub Repo Stars](https://img.shields.io/github/stars/upsert/lutron-caseta-pro) ![GitHub last commit](https://img.shields.io/github/last-commit/upsert/lutron-caseta-pro)](https://github.com/upsert/lutron-caseta-pro) - Integrates Lutron Caseta Smart Bridge PRO / RA2 Select.
 - [SmartIR ![GitHub Repo Stars](https://img.shields.io/github/stars/smartHomeHub/SmartIR) ![GitHub last commit](https://img.shields.io/github/last-commit/smartHomeHub/SmartIR)](https://github.com/smartHomeHub/SmartIR) - Integrates devices using Broadlink IR.
 - [Xiaomi Hygrothermo ![GitHub Repo Stars](https://img.shields.io/github/stars/dolezsa/Xiaomi_Hygrothermo) ![GitHub last commit](https://img.shields.io/github/last-commit/dolezsa/Xiaomi_Hygrothermo)](https://github.com/dolezsa/Xiaomi_Hygrothermo) - Sensor platform for Xiaomi Mijia BT Hygrothermo temperature and humidity sensor.
-- [Volkswagen Carnet ![GitHub Repo Stars](https://img.shields.io/github/stars/robinostlund/homeassistant-volkswagencarnet) ![GitHub last commit](https://img.shields.io/github/last-commit/robinostlund/homeassistant-volkswagencarnet)](https://github.com/robinostlund/homeassistant-volkswagencarnet) - Integrates Volkswagen Carnet (requires valid Carnet subscription).
-- [Untappd ![GitHub Repo Stars](https://img.shields.io/github/stars/custom-components/sensor.untapped) ![GitHub last commit](https://img.shields.io/github/last-commit/custom-components/sensor.untapped)](https://github.com/custom-components/sensor.untapped) - Connects with your Untappd account.
 - [Elasticsearch ![GitHub Repo Stars](https://img.shields.io/github/stars/legrego/homeassistant-elasticsearch) ![GitHub last commit](https://img.shields.io/github/last-commit/legrego/homeassistant-elasticsearch)](https://github.com/legrego/homeassistant-elasticsearch) - Publishes events to Elasticsearch.
 - [Alexa Media Player ![GitHub Repo Stars](https://img.shields.io/github/stars/keatontaylor/alexa_media_player) ![GitHub last commit](https://img.shields.io/github/last-commit/keatontaylor/alexa_media_player)](https://github.com/keatontaylor/alexa_media_player) - Allow control of Amazon Alexa devices.
 - [iCloud3 ![GitHub Repo Stars](https://img.shields.io/github/stars/gcobb321/icloud3) ![GitHub last commit](https://img.shields.io/github/last-commit/gcobb321/icloud3)](https://github.com/gcobb321/icloud3) - Improved version of the iCloud device tracker component with a lot of capabilities.
 - [HACS](https://hacs.xyz/) - This is a manager for your custom integration (components) and plugin (lovelace elements) needs.
-- [Circadian Lighting ![GitHub Repo Stars](https://img.shields.io/github/stars/claytonjn/hass-circadian_lighting) ![GitHub last commit](https://img.shields.io/github/last-commit/claytonjn/hass-circadian_lighting)](https://github.com/claytonjn/hass-circadian_lighting) - Circadian Lighting slowly synchronizes your color changing lights with the regular naturally occuring color temperature of the sky throughout the day.
+- [Circadian Lighting ![GitHub Repo Stars](https://img.shields.io/github/stars/claytonjn/hass-circadian_lighting) ![GitHub last commit](https://img.shields.io/github/last-commit/claytonjn/hass-circadian_lighting)](https://github.com/claytonjn/hass-circadian_lighting) - Slowly synchronizes your color-changing lights with the naturally occurring color temperature of the sky throughout the day.
 - [HASS Aarlo ![GitHub Repo Stars](https://img.shields.io/github/stars/twrecked/hass-aarlo) ![GitHub last commit](https://img.shields.io/github/last-commit/twrecked/hass-aarlo)](https://github.com/twrecked/hass-aarlo) - Asynchronous Arlo integration. Similar to the Arlo web site; monitors events and states for all base stations, cameras and doorbells.
 - [Xiaomi Cloud Map Extractor ![GitHub Repo Stars](https://img.shields.io/github/stars/PiotrMachowski/Home-Assistant-custom-components-Xiaomi-Cloud-Map-Extractor) ![GitHub last commit](https://img.shields.io/github/last-commit/PiotrMachowski/Home-Assistant-custom-components-Xiaomi-Cloud-Map-Extractor)](https://github.com/PiotrMachowski/Home-Assistant-custom-components-Xiaomi-Cloud-Map-Extractor) - Presents a live view of a map for Xiaomi (Roborock/Viomi/Roidmi/Dreame) vacuums without a need for rooting.
 - [WebRTC Camera ![GitHub Repo Stars](https://img.shields.io/github/stars/AlexxIT/WebRTC) ![GitHub last commit](https://img.shields.io/github/last-commit/AlexxIT/WebRTC)](https://github.com/AlexxIT/WebRTC) - View RTSP streams from IP Cameras in real-time through WebRTC or MSE with Pan/Zoom controls.
@@ -299,7 +291,6 @@ could also build them yourself!_
 - [ESP MQTT Digital LEDs ![GitHub Repo Stars](https://img.shields.io/github/stars/bruhautomation/ESP-MQTT-JSON-Digital-LEDs) ![GitHub last commit](https://img.shields.io/github/last-commit/bruhautomation/ESP-MQTT-JSON-Digital-LEDs)](https://github.com/bruhautomation/ESP-MQTT-JSON-Digital-LEDs) - WS2811 LED Stripe for the JSON Light Component from BRUH.
 - [Bed Presence Detection](https://selfhostedhome.com/diy-bed-presence-detection-home-assistant/) - ESP8266 based Bed Presence Detection.
 - [NFC Scanner ![GitHub Repo Stars](https://img.shields.io/github/stars/klaasnicolaas/ha_nfc_scanner) ![GitHub last commit](https://img.shields.io/github/last-commit/klaasnicolaas/ha_nfc_scanner)](https://github.com/klaasnicolaas/ha_nfc_scanner) - Build an NFC tag/card scanner with an ESP8266, PN532 and MQTT.
-- [ESP32-Cam Facebox](https://www.dopebuild.com/i-am-sorry-dave-i-am-unable-to-do-that/) - Tie a ESP32-CAM, HA, and Facebox together for a cheap Facial Recog / Home monitoring solution.
 - [RaspiPool ![GitHub Repo Stars](https://img.shields.io/github/stars/segalion/raspipool) ![GitHub last commit](https://img.shields.io/github/last-commit/segalion/raspipool)](https://github.com/segalion/raspipool) - A cost-effective, easy-to-build, easy-to-use "Swimming-Pool Automation System".
 - [QuinLED](https://quinled.info/) - DIY Wi-Fi LED dimmers and controllers using ESP32 boards.
 
@@ -310,7 +301,6 @@ _Links to various users of Home Assistant that regularly publish Home Assistant 
 ### Blogs
 
 - [DIY Futurism](https://diyfuturism.com/) - Brad posts articles with great instructions for new users.
-- [Phil Hawthorne](https://philhawthorne.com/homeautomation) - Co-host of the Home Assistant Podcast.
 - [Smart Home Hobby](https://smarthomehobby.com/) - Features budget friendly guides and information.
 - [Self Hosted Home](https://selfhostedhome.com/) - Articles on DIY home automation projects and self hosted services.
 - [Tinkering with Home Automation](https://blog.ceard.tech/) - Tinkerer's blog and guides.
@@ -322,11 +312,8 @@ _Links to various users of Home Assistant that regularly publish Home Assistant 
 _Sit back, relax, watch, and learn._
 
 - [Home Assistant](https://www.youtube.com/channel/UCbX3YkedQunLt7EQAdVxh7w) - Official YouTube Channel where new launches and live streams are held.
-- [BRUH](https://www.youtube.com/channel/UCLecVrux63S6aYiErxdiy4w) - Ben has great tutorials for getting started, unfortunately, inactive lately.
 - [BurnsHA](https://www.youtube.com/channel/UCSKQutOXuNLvFetrKuwudpg) - Great informational and tutorial videos.
-- [DrZzs](https://www.youtube.com/channel/UC7G4tLa4Kt6A9e3hJ-HO8ng) - Great how-to videos and also streams live.
 - [The Hook Up](https://www.youtube.com/channel/UC2gyzKcHbYfqoXA5xbyGXtQ) - Tutorials and more, also has videos on home automation in general.
-- [HASSCASTS](https://www.youtube.com/channel/UCGOCeqMJnLvr-5C-ypUw7IQ) - Tips, Tricks & Tutorials, moving to mainly live streams.
 - [JuanMTech](https://www.youtube.com/juanmtech) - Easy to follow how-to videos, product reviews and more.
 - [vCloudInfo](https://www.youtube.com/vCloudInfo) - Publishes videos based on his home and GitHub repository.
 - [digiblurDIY](https://www.youtube.com/channel/UC5ZdPKE2ckcBhljTc2R_qNA) - Tutorials on hardware projects and Tasmota automations.
@@ -349,10 +336,10 @@ _Keep up with the latest news and updates, 280 characters at a time!_
 - [@hass_devs](https://twitter.com/hass_devs) - Latest news on the development of Home Assistant for contributors.
 - [@balloob](https://twitter.com/balloob) - Founder of the Home Assistant project.
 - [@pvizeli](https://twitter.com/pvizeli) - Core developer and creator of the Hass.io project.
-- [@frenck](https://twitter.com/frenck) - Creator of this Awesome list and maintainer of the Community Hass.io Add-ons project.
+- [@frenck](https://twitter.com/frenck) - Creator of this Awesome list and maintainer of the Home Assistant Community Apps project.
 - [@ccostan](https://twitter.com/ccostan) - Blogger of all things Tech. Smart Home, #IOT & other Geeky subjects.
 - [@HomeTechHacker](https://twitter.com/HomeTechHacker) - Guy friends call when #tech happens. Tweet 25-50x/week about #smarthome, #homenetwork, #cybersecurity, #Linux, #gadgets, and #life.
-- [@hassioaddons](https://twitter.com/hassioaddons) - For all commmunity add-on news and updates.
+- [@hassioaddons](https://twitter.com/hassioaddons) - For all community app news and updates.
 - [@Dr_Zzs](https://twitter.com/Dr_Zzs) - Great how-to videos and also streams live.
 
 ## Uncategorized
@@ -362,19 +349,17 @@ _Valuable links, that don't fit in any of the above categories (yet!)._
 - [Room Assistant ![GitHub Repo Stars](https://img.shields.io/github/stars/mKeRix/room-assistant) ![GitHub last commit](https://img.shields.io/github/last-commit/mKeRix/room-assistant)](https://github.com/mKeRix/room-assistant) - A companion client to handle sensors in multiple rooms.
 - [Home Assistant Companion](https://itunes.apple.com/us/app/home-assistant-open-source-home-automation/id1099568401?mt=8) - iPhone/iPad/iOS App to control and monitor your home remotely.
 - [Mi Flora via MQTT daemon ![GitHub Repo Stars](https://img.shields.io/github/stars/ThomDietrich/miflora-mqtt-daemon) ![GitHub last commit](https://img.shields.io/github/last-commit/ThomDietrich/miflora-mqtt-daemon)](https://github.com/ThomDietrich/miflora-mqtt-daemon) - Collect and transfer Xiaomi Mi Flora plant sensor data via MQTT.
-- [hassctl ![GitHub Repo Stars](https://img.shields.io/github/stars/dale3h/hassctl) ![GitHub last commit](https://img.shields.io/github/last-commit/dale3h/hassctl)](https://github.com/dale3h/hassctl) - Simple command line utility to help debug your configuration.
 - [rhasspy ![GitHub Repo Stars](https://img.shields.io/github/stars/rhasspy/rhasspy) ![GitHub last commit](https://img.shields.io/github/last-commit/rhasspy/rhasspy)](https://github.com/rhasspy/rhasspy) - Toolkit for developing custom voice assistants.
-- [Fully Kiosk Browser](https://www.ozerov.de/fully-kiosk-browser/) - Highly configurable Android Kiosk Browser and App Launcher.
-- [AppDaemon ![GitHub Repo Stars](https://img.shields.io/github/stars/AppDaemon/appdaemon) ![GitHub last commit](https://img.shields.io/github/last-commit/AppDaemon/appdaemon)](https://github.com/AppDaemon/appdaemon) - AppDaemon is a loosely coupled, multi-threaded, sandboxed Python execution environment for writing automation apps.
+
+- [AppDaemon ![GitHub Repo Stars](https://img.shields.io/github/stars/AppDaemon/appdaemon) ![GitHub last commit](https://img.shields.io/github/last-commit/AppDaemon/appdaemon)](https://github.com/AppDaemon/appdaemon) - A loosely coupled, multi-threaded, sandboxed Python execution environment for writing automation apps.
 - [Developer Documentation](https://developers.home-assistant.io/) - The official developer documentation.
 - [HASS Configurator ![GitHub Repo Stars](https://img.shields.io/github/stars/danielperna84/hass-configurator) ![GitHub last commit](https://img.shields.io/github/last-commit/danielperna84/hass-configurator)](https://github.com/danielperna84/hass-configurator) - Browser-based configuration file editor.
 - [HA-Dockermon ![GitHub Repo Stars](https://img.shields.io/github/stars/philhawthorne/ha-dockermon) ![GitHub last commit](https://img.shields.io/github/last-commit/philhawthorne/ha-dockermon)](https://github.com/philhawthorne/ha-dockermon) - A Node.js service for RESTful switches to control Docker containers.
-- [Python Amazon Dash ![GitHub Repo Stars](https://img.shields.io/github/stars/Nekmo/amazon-dash) ![GitHub last commit](https://img.shields.io/github/last-commit/Nekmo/amazon-dash)](https://github.com/Nekmo/amazon-dash) - Hack your Amazon Dash to run what you want. Without welders.
 - [homekit2mqtt ![GitHub Repo Stars](https://img.shields.io/github/stars/hobbyquaker/homekit2mqtt) ![GitHub last commit](https://img.shields.io/github/last-commit/hobbyquaker/homekit2mqtt)](https://github.com/hobbyquaker/homekit2mqtt) - HomeKit to MQTT bridge.
 - [Home Assistant Device Database](https://www.hadevices.com/) - Database of supported/confirmed working devices.
 - [Jinja Scripts for Curious Minds ![GitHub Repo Stars](https://img.shields.io/github/stars/skalavala/mysmarthome) ![GitHub last commit](https://img.shields.io/github/last-commit/skalavala/mysmarthome)](https://github.com/skalavala/mysmarthome/tree/master/jinja_helpers) - Bunch of Jinja2 scripts helping you to understand it better.
-- [Ariela](https://play.google.com/store/apps/details?id=com.surodev.ariela) - Freemium Android client application with widget support.
-- [Gitlab CI/CD](https://about.gitlab.com/2018/08/02/using-the-gitlab-ci-slash-cd-for-smart-home-configuration-management/) - How to simplify your smart home configuration with GitLab CI/CD.
+
+- [GitLab CI/CD](https://about.gitlab.com/2018/08/02/using-the-gitlab-ci-slash-cd-for-smart-home-configuration-management/) - How to simplify your smart home configuration with GitLab CI/CD.
 - [Monitor ![GitHub Repo Stars](https://img.shields.io/github/stars/andrewjfreyer/monitor) ![GitHub last commit](https://img.shields.io/github/last-commit/andrewjfreyer/monitor)](https://github.com/andrewjfreyer/monitor) - Distributed advertisement-based BTLE presence detection reported via MQTT.
 - [HASS-data-detective ![GitHub Repo Stars](https://img.shields.io/github/stars/robmarkcole/HASS-data-detective) ![GitHub last commit](https://img.shields.io/github/last-commit/robmarkcole/HASS-data-detective)](https://github.com/robmarkcole/HASS-data-detective) - Explore and analyse your database data.
 - [ADB Intents](https://gist.github.com/mcfrojd/9e6875e1db5c089b1e3ddeb7dba0f304) - List of ADB intents to control Android Devices.
@@ -388,7 +373,7 @@ are some alternatives._
 
 - [openHAB](https://github.com/openhab) - Java-based and aims at being a universal integration platform.
 - [Domoticz ![GitHub Repo Stars](https://img.shields.io/github/stars/domoticz/domoticz) ![GitHub last commit](https://img.shields.io/github/last-commit/domoticz/domoticz)](https://github.com/domoticz/domoticz) - A lightweight Home Automation System.
-- [Gladys ![GitHub Repo Stars](https://img.shields.io/github/stars/GladysProject/Gladys) ![GitHub last commit](https://img.shields.io/github/last-commit/GladysProject/Gladys)](https://github.com/GladysProject/Gladys) - Open source program which runs on your Raspberry Pi.
+- [Gladys ![GitHub Repo Stars](https://img.shields.io/github/stars/GladysAssistant/Gladys) ![GitHub last commit](https://img.shields.io/github/last-commit/GladysAssistant/Gladys)](https://github.com/GladysAssistant/Gladys) - Open source program which runs on your Raspberry Pi.
 - [SmartThings](https://www.smartthings.com/) - Commercial home automation hub by Samsung.
 
 ## Other Awesome Lists
@@ -400,14 +385,14 @@ interwebs._
 - [awesome-iot ![GitHub Repo Stars](https://img.shields.io/github/stars/HQarroum/awesome-iot) ![GitHub last commit](https://img.shields.io/github/last-commit/HQarroum/awesome-iot)](https://github.com/HQarroum/awesome-iot) - Curated list of awesome Internet of Things projects and resources.
 - [awesome-open-iot ![GitHub Repo Stars](https://img.shields.io/github/stars/Agile-IoT/awesome-open-iot) ![GitHub last commit](https://img.shields.io/github/last-commit/Agile-IoT/awesome-open-iot)](https://github.com/Agile-IoT/awesome-open-iot) - Curated list of open source IoT frameworks, libraries and software.
 - [awesome-amazon-alexa ![GitHub Repo Stars](https://img.shields.io/github/stars/miguelmota/awesome-amazon-alexa) ![GitHub last commit](https://img.shields.io/github/last-commit/miguelmota/awesome-amazon-alexa)](https://github.com/miguelmota/awesome-amazon-alexa#readme) - Curated list of awesome resources for the Amazon Alexa platform.
-- [awesome-mqtt ![GitHub Repo Stars](https://img.shields.io/github/stars/hobbyquaker/awesome-mqtt) ![GitHub last commit](https://img.shields.io/github/last-commit/hobbyquaker/awesome-mqtt)](https://github.com/hobbyquaker/awesome-mqtt#readme) - Curated list of MQTT related stuff.
+- [awesome-mqtt ![GitHub Repo Stars](https://img.shields.io/github/stars/awesome-mqtt/awesome-mqtt) ![GitHub last commit](https://img.shields.io/github/last-commit/awesome-mqtt/awesome-mqtt)](https://github.com/awesome-mqtt/awesome-mqtt#readme) - Curated list of MQTT related stuff.
 - [awesome-selfhosted ![GitHub Repo Stars](https://img.shields.io/github/stars/awesome-selfhosted/awesome-selfhosted) ![GitHub last commit](https://img.shields.io/github/last-commit/awesome-selfhosted/awesome-selfhosted)](https://github.com/awesome-selfhosted/awesome-selfhosted) - Curated list of awesome self hosted software.
 
 ## Contributing
 
 This awesome list is an active open-source project and is always open to
 people who want to contribute to it. We have set up a separate document
-containing our [Contribution Guidelines ![GitHub Repo Stars](https://img.shields.io/github/stars/frenck/awesome-home-assistant) ![GitHub last commit](https://img.shields.io/github/last-commit/frenck/awesome-home-assistant)](https://github.com/frenck/awesome-home-assistant/blob/master/CONTRIBUTING.md).
+containing our [Contribution Guidelines ![GitHub Repo Stars](https://img.shields.io/github/stars/frenck/awesome-home-assistant) ![GitHub last commit](https://img.shields.io/github/last-commit/frenck/awesome-home-assistant)](https://github.com/frenck/awesome-home-assistant/blob/main/.github/CONTRIBUTING.md).
 
 The original setup of this awesome list is by [Franck Nijhof](https://twitter.com/frenck).
 
