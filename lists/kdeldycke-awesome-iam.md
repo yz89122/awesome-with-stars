@@ -563,7 +563,7 @@ How to detect, unmask and classify offensive online activities. Most of the time
 
 - [Awesome Threat Intelligence ![GitHub Repo Stars](https://img.shields.io/github/stars/hslatman/awesome-threat-intelligence) ![GitHub last commit](https://img.shields.io/github/last-commit/hslatman/awesome-threat-intelligence)](https://github.com/hslatman/awesome-threat-intelligence) - “A concise definition of Threat Intelligence: evidence-based knowledge, including context, mechanisms, indicators, implications and actionable advice, about an existing or emerging menace or hazard to assets that can be used to inform decisions regarding the subject's response to that menace or hazard.”
 
-- [SpiderFoot ![GitHub Repo Stars](https://img.shields.io/github/stars/poppopjmp/spiderfoot) ![GitHub last commit](https://img.shields.io/github/last-commit/poppopjmp/spiderfoot)](https://github.com/poppopjmp/spiderfoot) - ���� An open source intelligence (OSINT) automation tool. It integrates with just about every data source available and uses a range of methods for data analysis, making that data easy to navigate.
+- [SpiderFoot ![GitHub Repo Stars](https://img.shields.io/github/stars/poppopjmp/spiderfoot) ![GitHub last commit](https://img.shields.io/github/last-commit/poppopjmp/spiderfoot)](https://github.com/poppopjmp/spiderfoot) - 🆓 An open source intelligence (OSINT) automation tool. It integrates with just about every data source available and uses a range of methods for data analysis, making that data easy to navigate.
 
 - [Standards related to Threat Intelligence](https://www.threat-intelligence.eu/standards/) - Open standards, tools and methodologies to support threat intelligence analysis.
 
