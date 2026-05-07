@@ -479,7 +479,7 @@ Architectures, software and hardware allowing the storage and usage of secrets t
 
 - [Infisical ![GitHub Repo Stars](https://img.shields.io/github/stars/Infisical/infisical) ![GitHub last commit](https://img.shields.io/github/last-commit/Infisical/infisical)](https://github.com/Infisical/infisical) - 💸 An alternative to HashiCorp Vault.
 
-- [`sops` ![GitHub Repo Stars](https://img.shields.io/github/stars/mozilla/sops) ![GitHub last commit](https://img.shields.io/github/last-commit/mozilla/sops)](https://github.com/mozilla/sops) - 🆓 Editor of encrypted files that supports YAML, JSON, ENV, INI and BINARY formats and encrypts with AWS KMS, GCP KMS, Azure Key Vault, age, and PGP.
+- [`sops` ![GitHub Repo Stars](https://img.shields.io/github/stars/mozilla/sops) ![GitHub last commit](https://img.shields.io/github/last-commit/mozilla/sops)](https://github.com/mozilla/sops) - �� Editor of encrypted files that supports YAML, JSON, ENV, INI and BINARY formats and encrypts with AWS KMS, GCP KMS, Azure Key Vault, age, and PGP.
 
 - [`gitleaks` ![GitHub Repo Stars](https://img.shields.io/github/stars/zricethezav/gitleaks) ![GitHub last commit](https://img.shields.io/github/last-commit/zricethezav/gitleaks)](https://github.com/zricethezav/gitleaks) - 🆓 Audit Git repos for secrets.
 
