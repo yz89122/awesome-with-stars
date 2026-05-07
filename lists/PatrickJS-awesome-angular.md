@@ -1312,6 +1312,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [angular-datatables.net ![GitHub Repo Stars](https://img.shields.io/github/stars/Vinccool96/angular-datatables.net) ![GitHub last commit](https://img.shields.io/github/last-commit/Vinccool96/angular-datatables.net)](https://github.com/Vinccool96/angular-datatables.net) - Angular plus [DataTables](https://datatables.net/).
 * [uiGrid ![GitHub Repo Stars](https://img.shields.io/github/stars/orneryd/uiGrid) ![GitHub last commit](https://img.shields.io/github/last-commit/orneryd/uiGrid)](https://github.com/orneryd/uiGrid) - Open‑source, multi‑platform data grid rebuilt from the original [ui‑grid ![GitHub Repo Stars](https://img.shields.io/github/stars/angular-ui/ui-grid) ![GitHub last commit](https://img.shields.io/github/last-commit/angular-ui/ui-grid)](https://github.com/angular-ui/ui-grid) with the same API and modern Angular signals, supporting Angular, Web Components, React, and Rust.
 * [ngx-datawindow ![GitHub Repo Stars](https://img.shields.io/github/stars/sugitter/ngx-datawindow) ![GitHub last commit](https://img.shields.io/github/last-commit/sugitter/ngx-datawindow)](https://github.com/sugitter/ngx-datawindow) - Table component modernizing the classic DataWindow with zero‑config CRUD, computed columns, multi‑buffer state, offline sync, and granular change tracking.
+* [simple-table ![GitHub Repo Stars](https://img.shields.io/github/stars/petera2c/simple-table) ![GitHub last commit](https://img.shields.io/github/last-commit/petera2c/simple-table)](https://github.com/petera2c/simple-table) - Framework-agnostic data grid and table component for building modern, scalable applications.
 
 ### Dates
 
@@ -1444,6 +1445,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-file-preview ![GitHub Repo Stars](https://img.shields.io/github/stars/wh131462/ngx-file-preview) ![GitHub last commit](https://img.shields.io/github/last-commit/wh131462/ngx-file-preview)](https://github.com/wh131462/ngx-file-preview) - A powerful preview tool for many file types.
 * [ngx-file-helpers ![GitHub Repo Stars](https://img.shields.io/github/stars/fvilers/ngx-file-helpers) ![GitHub last commit](https://img.shields.io/github/last-commit/fvilers/ngx-file-helpers)](https://github.com/fvilers/ngx-file-helpers) - Angular file helpers including a file picker and dropzone.
 * [ngx-file-uploader ![GitHub Repo Stars](https://img.shields.io/github/stars/uniprank/ngx-file-uploader) ![GitHub last commit](https://img.shields.io/github/last-commit/uniprank/ngx-file-uploader)](https://github.com/uniprank/ngx-file-uploader) - Angular upload components and directives with built‑in file preview.
+* [file-uploader ![GitHub Repo Stars](https://img.shields.io/github/stars/uploadcare/file-uploader) ![GitHub last commit](https://img.shields.io/github/last-commit/uploadcare/file-uploader)](https://github.com/uploadcare/file-uploader) - A Web Components–based file upload widget compatible with any JavaScript framework — React, Next.js, Vue, Angular, and Svelte — without adapters.
 
 ### Forms
 
@@ -1533,6 +1535,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-starflow ![GitHub Repo Stars](https://img.shields.io/github/stars/ahmadfakher/ngx-starflow) ![GitHub last commit](https://img.shields.io/github/last-commit/ahmadfakher/ngx-starflow)](https://github.com/ahmadfakher/ngx-starflow) - A lightweight Angular component for displaying fractional star ratings with full precision.
 * [combobox ![GitHub Repo Stars](https://img.shields.io/github/stars/ng-matero/combobox) ![GitHub last commit](https://img.shields.io/github/last-commit/ng-matero/combobox)](https://github.com/ng-matero/combobox) - An all‑in‑one Angular Select solution with built‑in multiselect and autocomplete features.
 * [BlossomColorPicker ![GitHub Repo Stars](https://img.shields.io/github/stars/dayflow-js/BlossomColorPicker) ![GitHub last commit](https://img.shields.io/github/last-commit/dayflow-js/BlossomColorPicker)](https://github.com/dayflow-js/BlossomColorPicker) - A polished, blooming color picker for the Web, offered as a standalone JS library with lightweight wrappers for Angular, React, Vue, and Svelte.
+* [ngx-intl-phone-input ![GitHub Repo Stars](https://img.shields.io/github/stars/JoaoHenriqueAlmeida/ngx-intl-phone-input) ![GitHub last commit](https://img.shields.io/github/last-commit/JoaoHenriqueAlmeida/ngx-intl-phone-input)](https://github.com/JoaoHenriqueAlmeida/ngx-intl-phone-input) - Accessible, headless Angular international phone input with CDK-powered country selector.
 
 ### JSON Forms
 
