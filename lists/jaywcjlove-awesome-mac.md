@@ -1002,12 +1002,14 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [EnviousWispr](https://enviouswispr.com) - Sub-second dictation running Whisper/Parakeet locally with privacy-first AI text polish. ![Freeware][Freeware Icon]
 * [FnKey ![GitHub Repo Stars](https://img.shields.io/github/stars/evoleinik/fnkey) ![GitHub last commit](https://img.shields.io/github/last-commit/evoleinik/fnkey)](https://github.com/evoleinik/fnkey) - Push-to-talk voice input tool that pastes transcribed text instantly. [![Open-Source Software][OSS Icon]](https://github.com/evoleinik/fnkey) ![Freeware][Freeware Icon]
 * [OpenDictation ![GitHub Repo Stars](https://img.shields.io/github/stars/kdcokenny/OpenDictation) ![GitHub last commit](https://img.shields.io/github/last-commit/kdcokenny/OpenDictation)](https://github.com/kdcokenny/OpenDictation) - Open-source dictation utility with local and cloud speech-to-text. [![Open-Source Software][OSS Icon]](https://github.com/kdcokenny/OpenDictation) ![Freeware][Freeware Icon]
+* [OpenQuack ![GitHub Repo Stars](https://img.shields.io/github/stars/larryxiao/openquack) ![GitHub last commit](https://img.shields.io/github/last-commit/larryxiao/openquack)](https://github.com/larryxiao/openquack) - Privacy-first voice dictation tool that transcribes locally with WhisperKit and inserts text at the cursor with a hotkey. [![Open-Source Software][OSS Icon]](https://github.com/larryxiao/openquack) ![Freeware][Freeware Icon]
 * [OpenTypeless ![GitHub Repo Stars](https://img.shields.io/github/stars/tover0314-w/opentypeless) ![GitHub last commit](https://img.shields.io/github/last-commit/tover0314-w/opentypeless)](https://github.com/tover0314-w/opentypeless) - Open-source AI voice input that types polished text into any app. [![Open-Source Software][OSS Icon]](https://github.com/tover0314-w/opentypeless) ![Freeware][Freeware Icon]
 * [Ottex](https://ottex.ai) - AI dictation tool that formats text for the app or site you are using.
 * [Spokenly](https://spokenly.app/) - Voice-to-text with 100+ languages, offline mode, and AI-powered formatting.
 * [Tambourine](https://tambourinevoice.com/) - Open-source, customizable AI voice dictation that works in any app. [![Open-Source Software][OSS Icon]](https://github.com/kstonekuan/tambourine-voice/) ![Freeware][Freeware Icon]
 * [TypeWhisper](https://www.typewhisper.com) - Local Whisper-based speech-to-text with a global hotkey. [![Open-Source Software][OSS Icon]](https://github.com/TypeWhisper/typewhisper-mac) ![Freeware][Freeware Icon]
 * [VoiceInk](https://tryvoiceink.com/) - Real-time speech-to-text app. [![Open-Source Software][OSS Icon]](https://github.com/Beingpax/VoiceInk) ![Freeware][Freeware Icon]
+* [Voxt ![GitHub Repo Stars](https://img.shields.io/github/stars/hehehai/voxt) ![GitHub last commit](https://img.shields.io/github/last-commit/hehehai/voxt)](https://github.com/hehehai/voxt) - Hold-to-talk voice input tool with AI transcription rules per app and URL, and built-in translation. [![Open-Source Software][OSS Icon]](https://github.com/hehehai/voxt) ![Freeware][Freeware Icon]
 * [Whispering](https://epicenter.md/whispering/) - Multi-provider speech-to-text with AI transformations and keyboard shortcuts. [![Open-Source Software][OSS Icon]](https://github.com/EpicenterHQ/epicenter/tree/main/apps/whispering) ![Freeware][Freeware Icon]
 * [Willow Voice](https://willowvoice.com/) - AI dictation with automatic editing, style-matching, and noise optimization.
 
@@ -1576,7 +1578,7 @@ If you come across websites offering pirated software or cracks, please post [HE
 *Refuse piracy from me. Software vendors can go to these places rights.*
 
 * AppKed：~~`http://www.macbed.com`~~
-* Softasm��~~`https://softasm.com/`~~
+* Softasm：~~`https://softasm.com/`~~
 * Appstorrent：~~`http://appstorrent.ru/`~~
 
 ## Podcasts
