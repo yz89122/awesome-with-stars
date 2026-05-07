@@ -489,7 +489,7 @@ _Libraries for data analysis._
 _Libraries for validating data. Used for forms in many cases._
 
 - [cerberus ![GitHub Repo Stars](https://img.shields.io/github/stars/pyeve/cerberus) ![GitHub last commit](https://img.shields.io/github/last-commit/pyeve/cerberus)](https://github.com/pyeve/cerberus) - A lightweight and extensible data validation library.
-- [jsonschema ![GitHub Repo Stars](https://img.shields.io/github/stars/python-jsonschema/jsonschema) ![GitHub last commit](https://img.shields.io/github/last-commit/python-jsonschema/jsonschema)](https://github.com/python-jsonschema/jsonschema) - An implementation of [JSON Schema](http://json-schema.org/) for Python.
+- [jsonschema ![GitHub Repo Stars](https://img.shields.io/github/stars/python-jsonschema/jsonschema) ![GitHub last commit](https://img.shields.io/github/last-commit/python-jsonschema/jsonschema)](https://github.com/python-jsonschema/jsonschema) - An implementation of [JSON Schema](https://json-schema.org/) for Python.
 - [pandera ![GitHub Repo Stars](https://img.shields.io/github/stars/unionai-oss/pandera) ![GitHub last commit](https://img.shields.io/github/last-commit/unionai-oss/pandera)](https://github.com/unionai-oss/pandera) - A data validation library for dataframes, with support for pandas, polars, and Spark.
 - [pydantic ![GitHub Repo Stars](https://img.shields.io/github/stars/pydantic/pydantic) ![GitHub last commit](https://img.shields.io/github/last-commit/pydantic/pydantic)](https://github.com/pydantic/pydantic) - Data validation using Python type hints.
 - [voluptuous ![GitHub Repo Stars](https://img.shields.io/github/stars/alecthomas/voluptuous) ![GitHub last commit](https://img.shields.io/github/last-commit/alecthomas/voluptuous)](https://github.com/alecthomas/voluptuous) - A Python data validation library primarily intended for validating data from untrusted sources.
@@ -512,7 +512,7 @@ _Libraries for visualizing data. Also see [awesome-javascript ![GitHub Repo Star
   - [vispy ![GitHub Repo Stars](https://img.shields.io/github/stars/vispy/vispy) ![GitHub last commit](https://img.shields.io/github/last-commit/vispy/vispy)](https://github.com/vispy/vispy) - High-performance scientific visualization based on OpenGL.
 - Specialized
   - [cartopy ![GitHub Repo Stars](https://img.shields.io/github/stars/SciTools/cartopy) ![GitHub last commit](https://img.shields.io/github/last-commit/SciTools/cartopy)](https://github.com/SciTools/cartopy) - A cartographic python library with matplotlib support.
-  - [pygraphviz ![GitHub Repo Stars](https://img.shields.io/github/stars/pygraphviz/pygraphviz) ![GitHub last commit](https://img.shields.io/github/last-commit/pygraphviz/pygraphviz)](https://github.com/pygraphviz/pygraphviz/) - Python interface to [Graphviz](http://www.graphviz.org/).
+  - [pygraphviz ![GitHub Repo Stars](https://img.shields.io/github/stars/pygraphviz/pygraphviz) ![GitHub last commit](https://img.shields.io/github/last-commit/pygraphviz/pygraphviz)](https://github.com/pygraphviz/pygraphviz/) - Python interface to [Graphviz](https://www.graphviz.org/).
 - Dashboards and Apps
   - [gradio ![GitHub Repo Stars](https://img.shields.io/github/stars/gradio-app/gradio) ![GitHub last commit](https://img.shields.io/github/last-commit/gradio-app/gradio)](https://github.com/gradio-app/gradio) - Build and share machine learning apps, all in Python.
   - [streamlit ![GitHub Repo Stars](https://img.shields.io/github/stars/streamlit/streamlit) ![GitHub last commit](https://img.shields.io/github/last-commit/streamlit/streamlit)](https://github.com/streamlit/streamlit) - A framework which lets you build dashboards, generate reports, or create chat apps in minutes.
@@ -840,7 +840,7 @@ _Libraries for working with graphical user interface applications._
   - [nicegui ![GitHub Repo Stars](https://img.shields.io/github/stars/zauberzeug/nicegui) ![GitHub last commit](https://img.shields.io/github/last-commit/zauberzeug/nicegui)](https://github.com/zauberzeug/nicegui) - An easy-to-use, Python-based UI framework, which shows up in your web browser.
   - [pywebview ![GitHub Repo Stars](https://img.shields.io/github/stars/r0x0r/pywebview) ![GitHub last commit](https://img.shields.io/github/last-commit/r0x0r/pywebview)](https://github.com/r0x0r/pywebview/) - A lightweight cross-platform native wrapper around a webview component.
 - Terminal
-  - [curses](https://docs.python.org/3/library/curses.html) - (Python standard library) The built-in wrapper for [ncurses](http://www.gnu.org/software/ncurses/) used to create terminal GUI applications.
+  - [curses](https://docs.python.org/3/library/curses.html) - (Python standard library) The built-in wrapper for [ncurses](https://www.gnu.org/software/ncurses/) used to create terminal GUI applications.
   - [urwid ![GitHub Repo Stars](https://img.shields.io/github/stars/urwid/urwid) ![GitHub last commit](https://img.shields.io/github/last-commit/urwid/urwid)](https://github.com/urwid/urwid) - A library for creating terminal GUI applications with strong support for widgets, events, rich colors, etc.
 - Wrappers
   - [gooey ![GitHub Repo Stars](https://img.shields.io/github/stars/chriskiehl/Gooey) ![GitHub last commit](https://img.shields.io/github/last-commit/chriskiehl/Gooey)](https://github.com/chriskiehl/Gooey) - Turn command line programs into a full GUI application with one line.
@@ -1132,7 +1132,7 @@ Where to discover learning resources or new Python libraries.
 
 ### Newsletters
 
-- [Awesome Python Newsletter](http://python.libhunt.com/newsletter)
+- [Awesome Python Newsletter](https://python.libhunt.com/newsletter)
 - [Pycoder's Weekly](https://pycoders.com/)
 - [Python Tricks](https://realpython.com/python-tricks/)
 - [Python Weekly](https://www.pythonweekly.com/)
