@@ -191,6 +191,7 @@ Converters from various static schedule formats to and from GTFS.
 - [Amarillo ![GitHub Repo Stars](https://img.shields.io/github/stars/mfdz/amarillo) ![GitHub last commit](https://img.shields.io/github/last-commit/mfdz/amarillo)](https://github.com/mfdz/amarillo) - Aggregates and enhances carpooling-offers and publishes them as GTFS(-RT)
 - [GTFS Studio](https://gtfs.studio) - Online editor for GTFS feeds
 - [Uttu ![GitHub Repo Stars](https://img.shields.io/github/stars/entur/uttu) ![GitHub last commit](https://img.shields.io/github/last-commit/entur/uttu)](https://github.com/entur/uttu) - Back-end for Nplan, a simple timetable editor.
+- [GTFS Express](https://gtfsexpress.com) - Web application to edit, validate and analyze GTFS feeds — including Fares v2 and GTFS-Flex — with an interactive schedule grid and map editor, an SQL console with AI-assisted natural-language queries, and strict canonical validation via [MobilityData's gtfs-validator ![GitHub Repo Stars](https://img.shields.io/github/stars/MobilityData/gtfs-validator) ![GitHub last commit](https://img.shields.io/github/last-commit/MobilityData/gtfs-validator)](https://github.com/MobilityData/gtfs-validator).
 
 #### GTFS Merge Tools
 - [combine_gtfs_feeds ![GitHub Repo Stars](https://img.shields.io/github/stars/psrc/combine_gtfs_feeds) ![GitHub last commit](https://img.shields.io/github/last-commit/psrc/combine_gtfs_feeds)](https://github.com/psrc/combine_gtfs_feeds) - A Python tool to combine multiple gtfs feeds into one feed/dataset.
@@ -214,7 +215,6 @@ Converters from various static schedule formats to and from GTFS.
 - [GTFS-to-Chart ![GitHub Repo Stars](https://img.shields.io/github/stars/BlinkTagInc/gtfs-to-chart) ![GitHub last commit](https://img.shields.io/github/last-commit/BlinkTagInc/gtfs-to-chart)](https://github.com/BlinkTagInc/gtfs-to-chart) - Creates stringline charts showing all vehicles on a transit route from GTFS data.
 - [GTFS Display](https://codeberg.org/dancingCycle/gtfs-display) - Analyse, monitor and maintain GTFS data ([Example instances](https://www.swingbe.de/activity/gtfs-display/)).
 - [PTNA](https://wiki.openstreetmap.org/wiki/Public_Transport_Network_Analysis) - Public Transit Nework Analysis is a open source system for finding and aggregating information about public transportation lines mapped in OSM.
-- [GTFS Explorer](https://gtfs-explorer.org) - Web application to upload, validate and visually explore GTFS feeds, featuring an interactive network map, route and stop inspection, schedule grids, and a network statistics dashboard.
 
 #### GTFS Timetable Publishing Tools
 
