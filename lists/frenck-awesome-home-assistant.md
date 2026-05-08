@@ -42,7 +42,9 @@ to suggest additions, updates or removals.
 - [Installing](#installing)
 - [In case you need help](#in-case-you-need-help)
   - [🤝 Official Communities](#-official-communities)
-  - [🌐 Other Communities](#-other-communities)
+  - [🌍 In your language](#-in-your-language)
+  - [🧩 Around community projects](#-around-community-projects)
+  - [💬 Other community spaces](#-other-community-spaces)
 - [Public Configurations](#public-configurations)
 - [Custom Integrations](#custom-integrations)
   - [🤖 AI & LLMs](#-ai--llms)
@@ -128,23 +130,52 @@ become one click away.
 
 ## In case you need help
 
-Stuck on a configuration, wondering why a device will not pair, or just want
-to see what other people are building? Home Assistant has one of the most
-active home-automation communities on the internet, and most of it is free
-to join.
+Stuck on a configuration, wondering why a device will not pair, or just
+want to see what other people are building? Home Assistant has one of the
+most active home-automation communities on the internet, and most of it
+is free to join. The official channels are below; further down you will
+find communities in your language and around specific projects from the
+wider ecosystem.
 
 ### 🤝 Official Communities
 
-- [Home Assistant Discord](https://discordapp.com/invite/c5DvZ4e) - Join the chat, most of us are there.
-- [Home Assistant Community](https://community.home-assistant.io/?u=frenck) - The community discussion forum.
-- [Home Assistant Subreddit](https://www.reddit.com/r/homeassistant/) - If you are into Reddit, subscribe.
+- [Home Assistant Discord](https://discordapp.com/invite/c5DvZ4e) - The main chat, most of us are there.
+- [Home Assistant Community](https://community.home-assistant.io/?u=frenck) - The discussion forum.
+- [Home Assistant Subreddit](https://www.reddit.com/r/homeassistant/) - The official subreddit.
 - [Home Assistant Facebook Group](https://www.facebook.com/groups/HomeAssistant/) - Facebook group for enthusiasts.
 
-### 🌐 Other Communities
+### 🌍 In your language
 
-- [Dr. ZZs](https://www.facebook.com/groups/1969622823351838/) - Facebook group by Dr. Zzs.
-- [ESPHome Discord](https://discord.gg/KhAMKrd) - Get support for your DIY ESPHome project.
-- 🇳🇱 [Dutch Domotics Discord](https://discord.gg/Ee5X7T7) - Dutch Discord server with home automation enthusiasts.
+_Communities in languages other than English. Multiple groups can exist per language; add yours via a pull request. Sorted alphabetically by language._
+
+- 🇧🇷 [Home Assistant Brasil](https://t.me/homeassistant_brasil) - Brazilian Portuguese Telegram group for users of all skill levels.
+- 🇳🇱 [Dutch Domotics Discord](https://discord.gg/Ee5X7T7) - Dutch-language home-automation Discord.
+- 🇳🇱 [Home Assistant NL](https://t.me/home_assistant_nl) - Dutch-language Telegram group.
+- 🇫🇷 [HACF Forum](https://forum.hacf.fr) - Discussion forum of the French-speaking association HACF (Home Assistant Communauté Française).
+- 🇩🇪 [Home Assistant DE](https://t.me/homeassistant_de) - German-language Telegram group for discussions, tips, and help.
+- 🇮🇹 [Home Assistant Italia](https://t.me/HomeAssistantItalia) - Italian Telegram group for sharing ideas and projects.
+- 🇷🇺 [Home Assistant RU Telegram](https://t.me/HomeAssistantRU) - Russian-speaking Telegram group.
+
+### 🧩 Around community projects
+
+_Discords, forums, and chats run by community projects you will see elsewhere on this list. Sorted alphabetically by project._
+
+- [AppDaemon Discord](https://discord.gg/sgSr79jW5x) - Help with the Python automation framework that runs alongside the core.
+- [ESPHome Discord](https://discord.gg/KhAMKrd) - Help with ESP-based DIY devices and the YAML firmware for them.
+- [Frigate Discussions ![GitHub Repo Stars](https://img.shields.io/github/stars/blakeblackshear/frigate) ![GitHub last commit](https://img.shields.io/github/last-commit/blakeblackshear/frigate)](https://github.com/blakeblackshear/frigate/discussions) - GitHub Discussions for the local-NVR / object-detection project.
+- [HACS Discord](https://discord.gg/apgchf8) - Help with the Home Assistant Community Store.
+- [Music Assistant Discord](https://discord.gg/kaVm8hGpne) - Chat for the multi-room music server.
+- [NetDaemon Discord](https://discord.gg/K3xwfcX) - Help with writing automations in C# / .NET.
+- [Tasmota Discord](https://discord.gg/Ks2Kzd4) - Chat for the ESP firmware that powers many Sonoff and eWeLink devices.
+- [Z-Wave JS Discord](https://discord.gg/HFqcyFNfWd) - Chat for the Z-Wave JS stack used by the Z-Wave integration.
+- [Zigbee2MQTT Discussions ![GitHub Repo Stars](https://img.shields.io/github/stars/Koenkk/zigbee2mqtt) ![GitHub last commit](https://img.shields.io/github/last-commit/Koenkk/zigbee2mqtt)](https://github.com/Koenkk/zigbee2mqtt/discussions) - GitHub Discussions for the popular Zigbee bridge.
+
+### 💬 Other community spaces
+
+_Independent groups not tied to a specific language or project._
+
+- [Home Assistant International Telegram](https://t.me/home_assistant_international) - English-speaking Telegram group for the wider international community.
+- [Dr. ZZs Facebook Group](https://www.facebook.com/groups/1969622823351838/) - Community around the YouTube creator Dr. Zzs.
 
 ## Public Configurations
 
@@ -166,25 +197,27 @@ _Integrations Home Assistant does not ship with out of the box, written by the c
 
 _Wire Home Assistant up to a large language model and let it read your devices, build dashboards, write automations, or describe what your cameras see._
 
-- [Suggest one ![GitHub Repo Stars](https://img.shields.io/github/stars/frenck/awesome-home-assistant) ![GitHub last commit](https://img.shields.io/github/last-commit/frenck/awesome-home-assistant)](https://github.com/frenck/awesome-home-assistant/issues/new/choose) - Have a community resource that fits here? Open an issue to propose it.
+- [LLM Vision ![GitHub Repo Stars](https://img.shields.io/github/stars/valentinfrlch/ha-llmvision) ![GitHub last commit](https://img.shields.io/github/last-commit/valentinfrlch/ha-llmvision)](https://github.com/valentinfrlch/ha-llmvision) - Add visual intelligence to your automations: caption camera snapshots, summarize what is happening, react to specific events (1,325★).
 
 ### 💡 Lighting
 
 _Effects, schedules, and behaviour layers that sit on top of your lights._
 
 - [Circadian Lighting ![GitHub Repo Stars](https://img.shields.io/github/stars/claytonjn/hass-circadian_lighting) ![GitHub last commit](https://img.shields.io/github/last-commit/claytonjn/hass-circadian_lighting)](https://github.com/claytonjn/hass-circadian_lighting) - Slowly synchronizes your color-changing lights with the naturally occurring color temperature of the sky throughout the day (882★).
+- [Adaptive Lighting ![GitHub Repo Stars](https://img.shields.io/github/stars/basnijholt/adaptive-lighting) ![GitHub last commit](https://img.shields.io/github/last-commit/basnijholt/adaptive-lighting)](https://github.com/basnijholt/adaptive-lighting) - Slowly adjust the brightness and color temperature of your lights based on the position of the sun (3,279★).
 
 ### 🌡️ Climate
 
 _Smarter thermostats, comfort sensors, and HVAC integrations that go beyond what comes built in._
 
-- [Suggest one ![GitHub Repo Stars](https://img.shields.io/github/stars/frenck/awesome-home-assistant) ![GitHub last commit](https://img.shields.io/github/last-commit/frenck/awesome-home-assistant)](https://github.com/frenck/awesome-home-assistant/issues/new/choose) - Have a community resource that fits here? Open an issue to propose it.
+- [Better Thermostat ![GitHub Repo Stars](https://img.shields.io/github/stars/KartoffelToby/better_thermostat) ![GitHub last commit](https://img.shields.io/github/last-commit/KartoffelToby/better_thermostat)](https://github.com/KartoffelToby/better_thermostat) - Smarter thermostat with window detection, heating curves, and per-room comfort profiles for thermostatic radiator valves (1,389★).
+- [Versatile Thermostat ![GitHub Repo Stars](https://img.shields.io/github/stars/jmcollin78/versatile_thermostat) ![GitHub last commit](https://img.shields.io/github/last-commit/jmcollin78/versatile_thermostat)](https://github.com/jmcollin78/versatile_thermostat) - Full-featured thermostat with presets, window detection, motion-based comfort, and presence (1,040★).
 
 ### ⚡ Energy & solar
 
 _Pull your solar inverter, smart meter, home battery, or utility tariff into Home Assistant and feed the energy dashboard._
 
-- [Suggest one ![GitHub Repo Stars](https://img.shields.io/github/stars/frenck/awesome-home-assistant) ![GitHub last commit](https://img.shields.io/github/last-commit/frenck/awesome-home-assistant)](https://github.com/frenck/awesome-home-assistant/issues/new/choose) - Have a community resource that fits here? Open an issue to propose it.
+- [Powercalc ![GitHub Repo Stars](https://img.shields.io/github/stars/bramstroker/homeassistant-powercalc) ![GitHub last commit](https://img.shields.io/github/last-commit/bramstroker/homeassistant-powercalc)](https://github.com/bramstroker/homeassistant-powercalc) - Calculate estimated power consumption of lights and other devices, even those that don't report it themselves (1,472★).
 
 ### 📹 Cameras & video
 
@@ -192,18 +225,24 @@ _Pair specific camera brands and video sources that Home Assistant does not supp
 
 - [HASS Aarlo ![GitHub Repo Stars](https://img.shields.io/github/stars/twrecked/hass-aarlo) ![GitHub last commit](https://img.shields.io/github/last-commit/twrecked/hass-aarlo)](https://github.com/twrecked/hass-aarlo) - Asynchronous Arlo integration. Similar to the Arlo web site; monitors events and states for all base stations, cameras and doorbells (466★).
 - [WebRTC Camera ![GitHub Repo Stars](https://img.shields.io/github/stars/AlexxIT/WebRTC) ![GitHub last commit](https://img.shields.io/github/last-commit/AlexxIT/WebRTC)](https://github.com/AlexxIT/WebRTC) - View RTSP streams from IP Cameras in real-time through WebRTC or MSE with Pan/Zoom controls (2,104★).
+- [Frigate ![GitHub Repo Stars](https://img.shields.io/github/stars/blakeblackshear/frigate-hass-integration) ![GitHub last commit](https://img.shields.io/github/last-commit/blakeblackshear/frigate-hass-integration)](https://github.com/blakeblackshear/frigate-hass-integration) - Integrate the Frigate NVR with local object detection into your dashboard, alerts, and snapshots (1,153★).
+- [Eufy Security ![GitHub Repo Stars](https://img.shields.io/github/stars/fuatakgun/eufy_security) ![GitHub last commit](https://img.shields.io/github/last-commit/fuatakgun/eufy_security)](https://github.com/fuatakgun/eufy_security) - Manage Eufy Security cameras, doorbells, and base stations with live streams and event notifications (1,318★).
+- [Tapo Control ![GitHub Repo Stars](https://img.shields.io/github/stars/JurajNyiri/HomeAssistant-Tapo-Control) ![GitHub last commit](https://img.shields.io/github/last-commit/JurajNyiri/HomeAssistant-Tapo-Control)](https://github.com/JurajNyiri/HomeAssistant-Tapo-Control) - Control TP-Link Tapo cameras with PTZ, motion events, and a live RTSP stream (1,861★).
 
 ### 🚨 Security & alarm
 
 _Turn Home Assistant into a fully-featured alarm system with arm and disarm flows, user codes, zones, and panic._
 
-- [Suggest one ![GitHub Repo Stars](https://img.shields.io/github/stars/frenck/awesome-home-assistant) ![GitHub last commit](https://img.shields.io/github/last-commit/frenck/awesome-home-assistant)](https://github.com/frenck/awesome-home-assistant/issues/new/choose) - Have a community resource that fits here? Open an issue to propose it.
+- [Alarmo ![GitHub Repo Stars](https://img.shields.io/github/stars/nielsfaber/alarmo) ![GitHub last commit](https://img.shields.io/github/last-commit/nielsfaber/alarmo)](https://github.com/nielsfaber/alarmo) - Easy-to-use alarm system with arm/disarm flows, user codes, zones, and panic mode (2,109★).
 
 ### 🔊 Voice & media playback
 
 _Send commands to voice speakers and media players, or relay what they hear and play back into Home Assistant._
 
 - [Spotcast ![GitHub Repo Stars](https://img.shields.io/github/stars/fondberg/spotcast) ![GitHub last commit](https://img.shields.io/github/last-commit/fondberg/spotcast)](https://github.com/fondberg/spotcast) - Start Spotify playback on an idle Chromecast device as well as control Spotify connect devices (807★).
+- [Alexa Media Player ![GitHub Repo Stars](https://img.shields.io/github/stars/alandtse/alexa_media_player) ![GitHub last commit](https://img.shields.io/github/last-commit/alandtse/alexa_media_player)](https://github.com/alandtse/alexa_media_player) - Control Amazon Alexa devices: announce, play media, and pull device state into your automations (1,935★).
+- [YandexStation ![GitHub Repo Stars](https://img.shields.io/github/stars/AlexxIT/YandexStation) ![GitHub last commit](https://img.shields.io/github/last-commit/AlexxIT/YandexStation)](https://github.com/AlexxIT/YandexStation) - Control Yandex Station speakers and other smart-home devices through Alice (1,837★).
+- [Yandex Smart Home ![GitHub Repo Stars](https://img.shields.io/github/stars/dext0r/yandex_smart_home) ![GitHub last commit](https://img.shields.io/github/last-commit/dext0r/yandex_smart_home)](https://github.com/dext0r/yandex_smart_home) - Expose your devices to Yandex Alice and the Yandex smart-home app (1,046★).
 
 ### 🚗 Cars & EV charging
 
@@ -222,18 +261,20 @@ _Figure out who is home and where they are, often more accurately than the built
 _Control specific robot vacuums and surface their map data, beyond what comes built in._
 
 - [Xiaomi Cloud Map Extractor ![GitHub Repo Stars](https://img.shields.io/github/stars/PiotrMachowski/Home-Assistant-custom-components-Xiaomi-Cloud-Map-Extractor) ![GitHub last commit](https://img.shields.io/github/last-commit/PiotrMachowski/Home-Assistant-custom-components-Xiaomi-Cloud-Map-Extractor)](https://github.com/PiotrMachowski/Home-Assistant-custom-components-Xiaomi-Cloud-Map-Extractor) - Presents a live view of a map for Xiaomi (Roborock/Viomi/Roidmi/Dreame) vacuums without a need for rooting (1,392★).
+- [Dreame Vacuum ![GitHub Repo Stars](https://img.shields.io/github/stars/Tasshack/dreame-vacuum) ![GitHub last commit](https://img.shields.io/github/last-commit/Tasshack/dreame-vacuum)](https://github.com/Tasshack/dreame-vacuum) - Dreame robot vacuums with full map support, including no-go zones and selective room cleaning (1,916★).
 
 ### 🔵 Bluetooth & BLE
 
 _Pull data from sensors that broadcast over Bluetooth, or use Bluetooth itself for room-level presence detection._
 
-- [Suggest one ![GitHub Repo Stars](https://img.shields.io/github/stars/frenck/awesome-home-assistant) ![GitHub last commit](https://img.shields.io/github/last-commit/frenck/awesome-home-assistant)](https://github.com/frenck/awesome-home-assistant/issues/new/choose) - Have a community resource that fits here? Open an issue to propose it.
+- [BLE Monitor ![GitHub Repo Stars](https://img.shields.io/github/stars/custom-components/ble_monitor) ![GitHub last commit](https://img.shields.io/github/last-commit/custom-components/ble_monitor)](https://github.com/custom-components/ble_monitor) - Passively read sensor data from Xiaomi MiBeacon, Govee, ATC, Inkbird, Qingping, and many other BLE sensors (2,202★).
+- [Bermuda ![GitHub Repo Stars](https://img.shields.io/github/stars/agittins/bermuda) ![GitHub last commit](https://img.shields.io/github/last-commit/agittins/bermuda)](https://github.com/agittins/bermuda) - Room-level presence detection by triangulating BLE signals across multiple ESPHome receivers (1,750★).
 
 ### 🔋 Battery monitoring
 
 _Keep an eye on the batteries in all your devices and get warned before they run flat._
 
-- [Suggest one ![GitHub Repo Stars](https://img.shields.io/github/stars/frenck/awesome-home-assistant) ![GitHub last commit](https://img.shields.io/github/last-commit/frenck/awesome-home-assistant)](https://github.com/frenck/awesome-home-assistant/issues/new/choose) - Have a community resource that fits here? Open an issue to propose it.
+- [Battery Notes ![GitHub Repo Stars](https://img.shields.io/github/stars/andrew-codechimp/HA-Battery-Notes) ![GitHub last commit](https://img.shields.io/github/last-commit/andrew-codechimp/HA-Battery-Notes)](https://github.com/andrew-codechimp/HA-Battery-Notes) - Annotate every device with its battery type and quantity, then track replacements, low-battery warnings, and history (1,078★).
 
 ### 🏷️ Vendor & brand
 
@@ -241,12 +282,19 @@ _Pull a specific manufacturer's devices into Home Assistant, often with more fea
 
 - [SmartIR ![GitHub Repo Stars](https://img.shields.io/github/stars/smartHomeHub/SmartIR) ![GitHub last commit](https://img.shields.io/github/last-commit/smartHomeHub/SmartIR)](https://github.com/smartHomeHub/SmartIR) - Integrates devices using Broadlink IR (2,698★).
 - [Sonoff LAN ![GitHub Repo Stars](https://img.shields.io/github/stars/AlexxIT/SonoffLAN) ![GitHub last commit](https://img.shields.io/github/last-commit/AlexxIT/SonoffLAN)](https://github.com/AlexxIT/SonoffLAN) - Control Sonoff devices with eWeLink (original) firmware over LAN and/or Cloud (3,230★).
+- [Xiaomi MIoT ![GitHub Repo Stars](https://img.shields.io/github/stars/al-one/hass-xiaomi-miot) ![GitHub last commit](https://img.shields.io/github/last-commit/al-one/hass-xiaomi-miot)](https://github.com/al-one/hass-xiaomi-miot) - Auto-integrate Xiaomi smart-home devices over Wi-Fi, BLE, and Zigbee using the MIoT-spec protocol (5,859★).
+- [Xiaomi Gateway 3 ![GitHub Repo Stars](https://img.shields.io/github/stars/AlexxIT/XiaomiGateway3) ![GitHub last commit](https://img.shields.io/github/last-commit/AlexxIT/XiaomiGateway3)](https://github.com/AlexxIT/XiaomiGateway3) - Local control of Xiaomi Multimode Gateway and Aqara Hub E1 over LAN, no cloud round-trips (2,745★).
+- [Midea AC LAN ![GitHub Repo Stars](https://img.shields.io/github/stars/wuwentao/midea_ac_lan) ![GitHub last commit](https://img.shields.io/github/last-commit/wuwentao/midea_ac_lan)](https://github.com/wuwentao/midea_ac_lan) - Local control of Midea air conditioners, heat pumps, and other M-Smart devices (1,616★).
+- [SmartThinQ Sensors ![GitHub Repo Stars](https://img.shields.io/github/stars/ollo69/ha-smartthinq-sensors) ![GitHub last commit](https://img.shields.io/github/last-commit/ollo69/ha-smartthinq-sensors)](https://github.com/ollo69/ha-smartthinq-sensors) - LG appliances (washers, dryers, AC, fridges) wired up via SmartThinQ with rich state and remote start (1,296★).
 
 ### 🛠️ Automation tooling
 
 _Helpers that make automations easier to write, debug, and maintain._
 
 - [The Watchman ![GitHub Repo Stars](https://img.shields.io/github/stars/dummylabs/thewatchman) ![GitHub last commit](https://img.shields.io/github/last-commit/dummylabs/thewatchman)](https://github.com/dummylabs/thewatchman) - Keep track of missing entities and services in your config files (643★).
+- [Browser Mod ![GitHub Repo Stars](https://img.shields.io/github/stars/thomasloven/hass-browser_mod) ![GitHub last commit](https://img.shields.io/github/last-commit/thomasloven/hass-browser_mod)](https://github.com/thomasloven/hass-browser_mod) - Turn each browser into a controllable entity: pop up cards, navigate views, play sounds, or detect who is looking at the dashboard (1,730★).
+- [Pyscript ![GitHub Repo Stars](https://img.shields.io/github/stars/custom-components/pyscript) ![GitHub last commit](https://img.shields.io/github/last-commit/custom-components/pyscript)](https://github.com/custom-components/pyscript) - Write automations and templates in Python instead of YAML (1,150★).
+- [Spook ![GitHub Repo Stars](https://img.shields.io/github/stars/frenck/spook) ![GitHub last commit](https://img.shields.io/github/last-commit/frenck/spook)](https://github.com/frenck/spook) - A toolbox of helpful sensors, services, and templates that surface things the UI normally hides (1,112★).
 
 ### 🏘️ Civic & household
 
@@ -264,7 +312,7 @@ _Sign in to Home Assistant with single sign-on, route through a tunnel, or pull 
 
 _Link multiple Home Assistant instances together, share entities across homes, or relay between them._
 
-- [Suggest one ![GitHub Repo Stars](https://img.shields.io/github/stars/frenck/awesome-home-assistant) ![GitHub last commit](https://img.shields.io/github/last-commit/frenck/awesome-home-assistant)](https://github.com/frenck/awesome-home-assistant/issues/new/choose) - Have a community resource that fits here? Open an issue to propose it.
+- [Remote Home Assistant ![GitHub Repo Stars](https://img.shields.io/github/stars/custom-components/remote_homeassistant) ![GitHub last commit](https://img.shields.io/github/last-commit/custom-components/remote_homeassistant)](https://github.com/custom-components/remote_homeassistant) - Link multiple instances together so entities, services, and events flow between them (1,217★).
 
 ### 📊 Logging & analytics
 
@@ -280,7 +328,9 @@ _Lovelace plugins that drop into your dashboard. Grouped roughly by what they do
 
 _Full card collections that change the look and feel of your dashboards. Mushroom, Bubble Card, Floorplan, and similar all-in-one toolkits._
 
-- [Suggest one ![GitHub Repo Stars](https://img.shields.io/github/stars/frenck/awesome-home-assistant) ![GitHub last commit](https://img.shields.io/github/last-commit/frenck/awesome-home-assistant)](https://github.com/frenck/awesome-home-assistant/issues/new/choose) - Have a community resource that fits here? Open an issue to propose it.
+- [Mushroom ![GitHub Repo Stars](https://img.shields.io/github/stars/piitaya/lovelace-mushroom) ![GitHub last commit](https://img.shields.io/github/last-commit/piitaya/lovelace-mushroom)](https://github.com/piitaya/lovelace-mushroom) - A complete card collection with a soft, mobile-first aesthetic that you can drop into existing dashboards (4,960★).
+- [Bubble Card ![GitHub Repo Stars](https://img.shields.io/github/stars/Clooos/Bubble-Card) ![GitHub last commit](https://img.shields.io/github/last-commit/Clooos/Bubble-Card)](https://github.com/Clooos/Bubble-Card) - Minimalist card collection with a pop-up touch and rich customization (4,173★).
+- [Floorplan ![GitHub Repo Stars](https://img.shields.io/github/stars/ExperienceLovelace/ha-floorplan) ![GitHub last commit](https://img.shields.io/github/last-commit/ExperienceLovelace/ha-floorplan)](https://github.com/ExperienceLovelace/ha-floorplan) - Map entities onto an SVG of your house and animate them based on state changes (1,523★).
 
 ### 📐 Layout helpers
 
@@ -292,6 +342,11 @@ _Cards that change where and how other cards appear: stack, fold, show condition
 - [Config Template Card ![GitHub Repo Stars](https://img.shields.io/github/stars/iantrich/config-template-card) ![GitHub last commit](https://img.shields.io/github/last-commit/iantrich/config-template-card)](https://github.com/iantrich/config-template-card) - Allow using templates in Lovelace (547★).
 - [Button card ![GitHub Repo Stars](https://img.shields.io/github/stars/custom-cards/button-card) ![GitHub last commit](https://img.shields.io/github/last-commit/custom-cards/button-card)](https://github.com/custom-cards/button-card) - Highly customizable button for your entities (2,432★).
 - [Expander Card ![GitHub Repo Stars](https://img.shields.io/github/stars/Alia5/lovelace-expander-card) ![GitHub last commit](https://img.shields.io/github/last-commit/Alia5/lovelace-expander-card)](https://github.com/Alia5/lovelace-expander-card) - Expandable and collapsible card to group and hide other cards behind a header (412★).
+- [Layout Card ![GitHub Repo Stars](https://img.shields.io/github/stars/thomasloven/lovelace-layout-card) ![GitHub last commit](https://img.shields.io/github/last-commit/thomasloven/lovelace-layout-card)](https://github.com/thomasloven/lovelace-layout-card) - Get fine-grained control over how cards are placed on your dashboard, including masonry-style and grid layouts (1,241★).
+- [Vertical Stack In Card ![GitHub Repo Stars](https://img.shields.io/github/stars/ofekashery/vertical-stack-in-card) ![GitHub last commit](https://img.shields.io/github/last-commit/ofekashery/vertical-stack-in-card)](https://github.com/ofekashery/vertical-stack-in-card) - Group multiple cards into a single sleek card with one shared border (970★).
+- [Fold Entity Row ![GitHub Repo Stars](https://img.shields.io/github/stars/thomasloven/lovelace-fold-entity-row) ![GitHub last commit](https://img.shields.io/github/last-commit/thomasloven/lovelace-fold-entity-row)](https://github.com/thomasloven/lovelace-fold-entity-row) - A foldable row that hides extra entities behind a header until clicked (706★).
+- [State Switch ![GitHub Repo Stars](https://img.shields.io/github/stars/thomasloven/lovelace-state-switch) ![GitHub last commit](https://img.shields.io/github/last-commit/thomasloven/lovelace-state-switch)](https://github.com/thomasloven/lovelace-state-switch) - Dynamically swap one card for another based on the state of an entity, the time of day, or the user viewing (456★).
+- [Swipe Navigation ![GitHub Repo Stars](https://img.shields.io/github/stars/zanna-37/hass-swipe-navigation) ![GitHub last commit](https://img.shields.io/github/last-commit/zanna-37/hass-swipe-navigation)](https://github.com/zanna-37/hass-swipe-navigation) - Switch between dashboard views with a swipe gesture on mobile (533★).
 
 ### 📈 Charts & graphs
 
@@ -300,18 +355,22 @@ _Visualise sensor data over time. Gauges, line graphs, bars, and Sankey diagrams
 - [Mini Graph Card ![GitHub Repo Stars](https://img.shields.io/github/stars/kalkih/mini-graph-card) ![GitHub last commit](https://img.shields.io/github/last-commit/kalkih/mini-graph-card)](https://github.com/kalkih/mini-graph-card) - A minimalistic sensor graph card (3,810★).
 - [Canvas Gauge Card ![GitHub Repo Stars](https://img.shields.io/github/stars/custom-cards/canvas-gauge-card) ![GitHub last commit](https://img.shields.io/github/last-commit/custom-cards/canvas-gauge-card)](https://github.com/custom-cards/canvas-gauge-card) - Use awesome gauges from canvas-gauges.com (216★).
 - [Dual Gauge Card ![GitHub Repo Stars](https://img.shields.io/github/stars/custom-cards/dual-gauge-card) ![GitHub last commit](https://img.shields.io/github/last-commit/custom-cards/dual-gauge-card)](https://github.com/custom-cards/dual-gauge-card) - Shows two gauges in one (220★).
+- [ApexCharts Card ![GitHub Repo Stars](https://img.shields.io/github/stars/RomRider/apexcharts-card) ![GitHub last commit](https://img.shields.io/github/last-commit/RomRider/apexcharts-card)](https://github.com/RomRider/apexcharts-card) - Advanced graphs and charts powered by ApexChartsJS with timelines, multi-axis, and event markers (1,769★).
+- [Sankey Chart ![GitHub Repo Stars](https://img.shields.io/github/stars/MindFreeze/ha-sankey-chart) ![GitHub last commit](https://img.shields.io/github/last-commit/MindFreeze/ha-sankey-chart)](https://github.com/MindFreeze/ha-sankey-chart) - Sankey-style flow diagram for visualising power, water, or any other flow across your home (650★).
 
 ### 📋 Status & info rows
 
 _Compact rows that pack more information into entity-card style listings._
 
 - [Slider Entity Row ![GitHub Repo Stars](https://img.shields.io/github/stars/thomasloven/lovelace-slider-entity-row) ![GitHub last commit](https://img.shields.io/github/last-commit/thomasloven/lovelace-slider-entity-row)](https://github.com/thomasloven/lovelace-slider-entity-row) - Add a slider to adjust, e.g., the brightness of lights in lovelace entity cards (906★).
+- [Battery State Card ![GitHub Repo Stars](https://img.shields.io/github/stars/maxwroc/battery-state-card) ![GitHub last commit](https://img.shields.io/github/last-commit/maxwroc/battery-state-card)](https://github.com/maxwroc/battery-state-card) - List devices with their battery levels in a tidy card, sorted and color-coded (1,235★).
+- [Scheduler Card ![GitHub Repo Stars](https://img.shields.io/github/stars/nielsfaber/scheduler-card) ![GitHub last commit](https://img.shields.io/github/last-commit/nielsfaber/scheduler-card)](https://github.com/nielsfaber/scheduler-card) - Build and edit weekly schedules for any entity right from the dashboard (1,220★).
 
 ### ☀️ Weather cards
 
 _Weather widgets with the look you actually want._
 
-- [Suggest one ![GitHub Repo Stars](https://img.shields.io/github/stars/frenck/awesome-home-assistant) ![GitHub last commit](https://img.shields.io/github/last-commit/frenck/awesome-home-assistant)](https://github.com/frenck/awesome-home-assistant/issues/new/choose) - Have a community resource that fits here? Open an issue to propose it.
+- [Weather Chart Card ![GitHub Repo Stars](https://img.shields.io/github/stars/mlamberts78/weather-chart-card) ![GitHub last commit](https://img.shields.io/github/last-commit/mlamberts78/weather-chart-card)](https://github.com/mlamberts78/weather-chart-card) - Weather card with a chart-style hourly forecast and customizable layout (435★).
 
 ### 🎵 Media cards
 
@@ -348,7 +407,7 @@ _Show a map of where your devices and people are, with history trails and custom
 
 _Display camera streams the way you want them, with overlays, controls, event timelines, and pop-out viewers._
 
-- [Suggest one ![GitHub Repo Stars](https://img.shields.io/github/stars/frenck/awesome-home-assistant) ![GitHub last commit](https://img.shields.io/github/last-commit/frenck/awesome-home-assistant)](https://github.com/frenck/awesome-home-assistant/issues/new/choose) - Have a community resource that fits here? Open an issue to propose it.
+- [Advanced Camera Card ![GitHub Repo Stars](https://img.shields.io/github/stars/dermotduffy/advanced-camera-card) ![GitHub last commit](https://img.shields.io/github/last-commit/dermotduffy/advanced-camera-card)](https://github.com/dermotduffy/advanced-camera-card) - Comprehensive camera card with timelines, galleries, snapshots, clips, and per-event playback (1,041★).
 
 ### 🧹 Vacuum cards
 
@@ -362,12 +421,15 @@ _Show vacuum status, room maps, and start/stop controls in your dashboard._
 _Calendar views and rolling feeds of upcoming events._
 
 - [Atomic Calendar Revive ![GitHub Repo Stars](https://img.shields.io/github/stars/totaldebug/atomic-calendar-revive) ![GitHub last commit](https://img.shields.io/github/last-commit/totaldebug/atomic-calendar-revive)](https://github.com/totaldebug/atomic-calendar-revive) - Calendar card with advanced settings (611★).
+- [Week Planner Card ![GitHub Repo Stars](https://img.shields.io/github/stars/FamousWolf/week-planner-card) ![GitHub last commit](https://img.shields.io/github/last-commit/FamousWolf/week-planner-card)](https://github.com/FamousWolf/week-planner-card) - Responsive multi-day overview of upcoming events, alarms, and reminders (503★).
 
 ### 📡 Remote control
 
 _Virtual remotes for TVs, streamers, and AV gear._
 
 - [LG WebOS Remote Control ![GitHub Repo Stars](https://img.shields.io/github/stars/madmicio/LG-WebOS-Remote-Control) ![GitHub last commit](https://img.shields.io/github/last-commit/madmicio/LG-WebOS-Remote-Control)](https://github.com/madmicio/LG-WebOS-Remote-Control) - Remote Control for LG TV WebOS (547★).
+- [HA Firemote ![GitHub Repo Stars](https://img.shields.io/github/stars/PRProd/HA-Firemote) ![GitHub last commit](https://img.shields.io/github/last-commit/PRProd/HA-Firemote)](https://github.com/PRProd/HA-Firemote) - Virtual remote for Apple TV, Fire TV, Chromecast, Homatics, Shield, onn., Roku, Xiaomi, and more (956★).
+- [Universal Remote Card ![GitHub Repo Stars](https://img.shields.io/github/stars/Nerwyn/universal-remote-card) ![GitHub last commit](https://img.shields.io/github/last-commit/Nerwyn/universal-remote-card)](https://github.com/Nerwyn/universal-remote-card) - Fully customizable virtual remote for any media device, supporting custom buttons and haptics (549★).
 
 ### 🍃 Air quality
 
@@ -379,7 +441,8 @@ _Display readings from purifiers and air-quality sensors._
 
 _Hide the chrome, run full-screen, or turn an old tablet on the wall into a dedicated touch panel._
 
-- [Suggest one ![GitHub Repo Stars](https://img.shields.io/github/stars/frenck/awesome-home-assistant) ![GitHub last commit](https://img.shields.io/github/last-commit/frenck/awesome-home-assistant)](https://github.com/frenck/awesome-home-assistant/issues/new/choose) - Have a community resource that fits here? Open an issue to propose it.
+- [Wall Panel ![GitHub Repo Stars](https://img.shields.io/github/stars/j-a-n/lovelace-wallpanel) ![GitHub last commit](https://img.shields.io/github/last-commit/j-a-n/lovelace-wallpanel)](https://github.com/j-a-n/lovelace-wallpanel) - Wall-panel mode and photo-screensaver for tablets mounted on the wall (829★).
+- [Kiosk Mode ![GitHub Repo Stars](https://img.shields.io/github/stars/NemesisRE/kiosk-mode) ![GitHub last commit](https://img.shields.io/github/last-commit/NemesisRE/kiosk-mode)](https://github.com/NemesisRE/kiosk-mode) - Hide the header, sidebar, and overflow menu for a clean kiosk-style view (714★).
 
 ## Dashboards
 
@@ -402,6 +465,14 @@ _It is all about the looks, apply some style._
 - [Carbon Green](https://community.home-assistant.io/t/share-your-themes/22018/95?u=frenck) - Light carbon theme with green accents by Reua.
 - [Slate ![GitHub Repo Stars](https://img.shields.io/github/stars/seangreen2/slate_theme) ![GitHub last commit](https://img.shields.io/github/last-commit/seangreen2/slate_theme)](https://github.com/seangreen2/slate_theme) - A dark theme close to the vanilla look (136★).
 - [Synthwave ![GitHub Repo Stars](https://img.shields.io/github/stars/bbbenji/synthwave-hass) ![GitHub last commit](https://img.shields.io/github/last-commit/bbbenji/synthwave-hass)](https://github.com/bbbenji/synthwave-hass) - A theme influenced by the cover artwork of modern Synthwave bands (199★).
+- [Frosted Glass ![GitHub Repo Stars](https://img.shields.io/github/stars/wessamlauf/homeassistant-frosted-glass-themes) ![GitHub last commit](https://img.shields.io/github/last-commit/wessamlauf/homeassistant-frosted-glass-themes)](https://github.com/wessamlauf/homeassistant-frosted-glass-themes) - Modern frosted-glass dark and light themes with translucent cards (864★).
+- [iOS Themes ![GitHub Repo Stars](https://img.shields.io/github/stars/basnijholt/lovelace-ios-themes) ![GitHub last commit](https://img.shields.io/github/last-commit/basnijholt/lovelace-ios-themes)](https://github.com/basnijholt/lovelace-ios-themes) - Themes inspired by iOS dark and light modes (860★).
+- [LCARS ![GitHub Repo Stars](https://img.shields.io/github/stars/th3jesta/ha-lcars) ![GitHub last commit](https://img.shields.io/github/last-commit/th3jesta/ha-lcars)](https://github.com/th3jesta/ha-lcars) - Star Trek LCARS-inspired theme for the bridge feel (524★).
+- [Material You ![GitHub Repo Stars](https://img.shields.io/github/stars/Nerwyn/material-you-theme) ![GitHub last commit](https://img.shields.io/github/last-commit/Nerwyn/material-you-theme)](https://github.com/Nerwyn/material-you-theme) - Material Design 3 theme that adapts to your accent color (444★).
+- [Graphite ![GitHub Repo Stars](https://img.shields.io/github/stars/TilmanGriesel/graphite) ![GitHub last commit](https://img.shields.io/github/last-commit/TilmanGriesel/graphite)](https://github.com/TilmanGriesel/graphite) - Calm and clean theme with a focused, low-contrast feel (432★).
+- [Catppuccin ![GitHub Repo Stars](https://img.shields.io/github/stars/catppuccin/home-assistant) ![GitHub last commit](https://img.shields.io/github/last-commit/catppuccin/home-assistant)](https://github.com/catppuccin/home-assistant) - Soothing pastel theme matching the popular Catppuccin palette across editors and apps (410★).
+- [Mushroom Themes ![GitHub Repo Stars](https://img.shields.io/github/stars/piitaya/lovelace-mushroom-themes) ![GitHub last commit](https://img.shields.io/github/last-commit/piitaya/lovelace-mushroom-themes)](https://github.com/piitaya/lovelace-mushroom-themes) - Additional themes designed to pair with the Mushroom card collection (302★).
+- [visionOS ![GitHub Repo Stars](https://img.shields.io/github/stars/Nezz/homeassistant-visionos-theme) ![GitHub last commit](https://img.shields.io/github/last-commit/Nezz/homeassistant-visionos-theme)](https://github.com/Nezz/homeassistant-visionos-theme) - Theme inspired by Apple's visionOS (296★).
 
 ## Icon packs
 
