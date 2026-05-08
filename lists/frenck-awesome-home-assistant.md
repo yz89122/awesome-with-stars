@@ -233,6 +233,7 @@ _Cards that change where and how other cards appear: stack, fold, show condition
 - [Restriction Card ![GitHub Repo Stars](https://img.shields.io/github/stars/iantrich/restriction-card) ![GitHub last commit](https://img.shields.io/github/last-commit/iantrich/restriction-card)](https://github.com/iantrich/restriction-card) - A card to provide restrictions on Lovelace cards defined within (316★).
 - [Config Template Card ![GitHub Repo Stars](https://img.shields.io/github/stars/iantrich/config-template-card) ![GitHub last commit](https://img.shields.io/github/last-commit/iantrich/config-template-card)](https://github.com/iantrich/config-template-card) - Allow using templates in Lovelace (547★).
 - [Button card ![GitHub Repo Stars](https://img.shields.io/github/stars/custom-cards/button-card) ![GitHub last commit](https://img.shields.io/github/last-commit/custom-cards/button-card)](https://github.com/custom-cards/button-card) - Highly customizable button for your entities (2,432★).
+- [Expander Card ![GitHub Repo Stars](https://img.shields.io/github/stars/Alia5/lovelace-expander-card) ![GitHub last commit](https://img.shields.io/github/last-commit/Alia5/lovelace-expander-card)](https://github.com/Alia5/lovelace-expander-card) - Expandable and collapsible card to group and hide other cards behind a header (412★).
 
 #### Charts & graphs
 
@@ -272,6 +273,12 @@ _Show vacuum status, room maps, and start/stop controls in your dashboard._
 
 - [Vacuum Map Card ![GitHub Repo Stars](https://img.shields.io/github/stars/PiotrMachowski/lovelace-xiaomi-vacuum-map-card) ![GitHub last commit](https://img.shields.io/github/last-commit/PiotrMachowski/lovelace-xiaomi-vacuum-map-card)](https://github.com/PiotrMachowski/lovelace-xiaomi-vacuum-map-card) - This card provides a user-friendly way to fully control Xiaomi (Roborock/Viomi/Dreame/Roidmi) and Neato (+ possibly other) vacuums (1,863★).
 - [Vacuum Card ![GitHub Repo Stars](https://img.shields.io/github/stars/denysdovhan/vacuum-card) ![GitHub last commit](https://img.shields.io/github/last-commit/denysdovhan/vacuum-card)](https://github.com/denysdovhan/vacuum-card) - A card to card for controlling a vacuum cleaner robot (1,199★).
+
+#### Maps & location
+
+_Show a map of where your devices and people are, with history trails and custom overlays._
+
+- [ha-map-card ![GitHub Repo Stars](https://img.shields.io/github/stars/nathan-gs/ha-map-card) ![GitHub last commit](https://img.shields.io/github/last-commit/nathan-gs/ha-map-card)](https://github.com/nathan-gs/ha-map-card) - Leaflet-based map card with history trails, custom tile layers, and tap actions (110★).
 
 #### Calendar & feed
 
@@ -454,6 +461,8 @@ _Some of the best smart-home gadgets do not exist as products you can buy, but o
 
 - [ESPHome](https://esphome.io/) - Program ESP8266 boards and ESP32 boards using YAML.
 - [Tasmota ![GitHub Repo Stars](https://img.shields.io/github/stars/arendst/Tasmota) ![GitHub last commit](https://img.shields.io/github/last-commit/arendst/Tasmota)](https://github.com/arendst/Tasmota) - Firmware for ESP8266 boards and devices (24,346★).
+- [Sonoff NSPanel ![GitHub Repo Stars](https://img.shields.io/github/stars/joBr99/nspanel-lovelace-ui) ![GitHub last commit](https://img.shields.io/github/last-commit/joBr99/nspanel-lovelace-ui)](https://github.com/joBr99/nspanel-lovelace-ui) - Custom firmware for Sonoff NSPanel touchscreens with a Lovelace-style UI (986★).
+- [CODESYS V3 Home Automation ![GitHub Repo Stars](https://img.shields.io/github/stars/MichielVanwelsenaere/HomeAutomation.CoDeSys3) ![GitHub last commit](https://img.shields.io/github/last-commit/MichielVanwelsenaere/HomeAutomation.CoDeSys3)](https://github.com/MichielVanwelsenaere/HomeAutomation.CoDeSys3) - PLC home-automation software that communicates over MQTT for wired automation setups (142★).
 
 ### DIY Gateways
 
@@ -511,7 +520,7 @@ _Sit back, relax, watch, and learn._
 - [digiblurDIY](https://www.youtube.com/channel/UC5ZdPKE2ckcBhljTc2R_qNA) - Tutorials on hardware projects and Tasmota automations.
 - [Intermit.Tech](https://www.youtube.com/channel/UCv7UOhZ2XuPwm9SN5oJsCjA) - Tutorials & reviews: Camera's, Home Networking, ESP8266 boards, Node-RED.
 - [BeardedTinker](https://www.youtube.com/channel/UCuqokNoK8ZFNQdXxvlE129g) - Tutorials & 3D printing.
-- [Smart Home Junkie](https://www.youtube.com/channel/UCVtQ4AOSmCFUuvixddYiSxw/) - How-to videos and tutorials for starters and advanced users.
+- [Smart Home Junkie](https://www.youtube.com/@smarthomejunkie) - How-to videos and tutorials for starters and advanced users.
 - [Everything Smart Home](https://www.youtube.com/c/EverythingSmartHome) - Focuses on Smart Home, Home Automation, general tech reviews, guides, and step-by-step DIY projects.
 
 ### Podcasts
