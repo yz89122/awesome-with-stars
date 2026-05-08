@@ -128,6 +128,7 @@ Inspired by the [awesome ![GitHub Repo Stars](https://img.shields.io/github/star
 - [radio-active ![GitHub Repo Stars](https://img.shields.io/github/stars/deep5050/radio-active) ![GitHub last commit](https://img.shields.io/github/last-commit/deep5050/radio-active)](https://github.com/deep5050/radio-active) - Internet radio player with 40k+ stations.
 - [mpvc ![GitHub Repo Stars](https://img.shields.io/github/stars/gmt4/mpvc) ![GitHub last commit](https://img.shields.io/github/last-commit/gmt4/mpvc)](https://github.com/gmt4/mpvc) - Music player interfacing mpv.
 - [TUISIC ![GitHub Repo Stars](https://img.shields.io/github/stars/Dark-Kernel/tuisic) ![GitHub last commit](https://img.shields.io/github/last-commit/Dark-Kernel/tuisic)](https://github.com/Dark-Kernel/tuisic) - Login-free music streaming.
+- [termusic ![GitHub Repo Stars](https://img.shields.io/github/stars/tramhao/termusic) ![GitHub last commit](https://img.shields.io/github/last-commit/tramhao/termusic)](https://github.com/tramhao/termusic) - Music player in rust with download capabilities.
 
 ### Video
 

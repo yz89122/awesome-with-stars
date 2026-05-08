@@ -323,6 +323,7 @@ _Hide the chrome, run full-screen, or turn an old tablet on the wall into a dedi
 ### Alternative Dashboards
 
 - [Dwains Dashboard ![GitHub Repo Stars](https://img.shields.io/github/stars/dwainscheeren/dwains-lovelace-dashboard) ![GitHub last commit](https://img.shields.io/github/last-commit/dwainscheeren/dwains-lovelace-dashboard)](https://github.com/dwainscheeren/dwains-lovelace-dashboard) - An fully auto-generating dashboard for desktop, tablet and mobile (2,033★).
+- [Mushroom Strategy ![GitHub Repo Stars](https://img.shields.io/github/stars/DigiLive/mushroom-strategy) ![GitHub last commit](https://img.shields.io/github/last-commit/DigiLive/mushroom-strategy)](https://github.com/DigiLive/mushroom-strategy) - A strategy that automatically generates a dashboard using Mushroom cards (640★).
 
 ## Custom Integrations
 
@@ -496,6 +497,7 @@ _Home Assistant has a thriving community of bloggers, YouTubers, podcasters, and
 - [Tinkering with Home Automation](https://blog.ceard.tech/) - Tinkerer's blog and guides.
 - [HomeTechHacker](https://HomeTechHacker.com) - DIY Smarthome guides, reviews, and advice.
 - [Intermittent Technology](https://blog.quindorian.org) - Quindor's personal blog for pasting random (mostly technology related) things.
+- [SmartHomeScene](https://smarthomescene.com/) - Beginner-friendly tutorials, smart-home device reviews, and DIY automation projects.
 
 ### YouTube Channels
 
