@@ -72,12 +72,6 @@ This list is a collection of the best Deno modules and resources.
 
 - [V8 Docs for Deno](https://denolib.github.io/v8-docs/)
 
-### Online Playgrounds
-
-- [Deno Starter in Codesandbox](https://codesandbox.io/s/y56n2)
-- [myCompiler.io](https://www.mycompiler.io/new/deno)
-- [Repl.it](https://repl.it/languages/deno)
-
 ## Modules
 
 ### Automation
@@ -161,6 +155,7 @@ This list is a collection of the best Deno modules and resources.
 - [deno-smtp ![GitHub Repo Stars](https://img.shields.io/github/stars/manyuanrong/deno-smtp) ![GitHub last commit](https://img.shields.io/github/last-commit/manyuanrong/deno-smtp)](https://github.com/manyuanrong/deno-smtp) - A smtp mail sender for deno.
 
 ### Markdown
+- [LiteMarkup ![GitHub Repo Stars](https://img.shields.io/github/stars/tuures/LiteMarkup) ![GitHub last commit](https://img.shields.io/github/last-commit/tuures/LiteMarkup)](https://github.com/tuures/LiteMarkup) - AST-first parser. Under 3 KB gzipped, zero dependencies.
 - [marked ![GitHub Repo Stars](https://img.shields.io/github/stars/denolib/marked) ![GitHub last commit](https://img.shields.io/github/last-commit/denolib/marked)](https://github.com/denolib/marked/) - Markdown-to-HTML converter.
 
 ### Math
