@@ -151,11 +151,11 @@ to join.
 _Wondering how more experienced users have set up their thermostat schedules, presence detection, or automations? These are full Home Assistant configurations published on GitHub. Read them like recipe books, copy the bits that look useful, and skip the rest._
 
 - [Carlo Costanzo ![GitHub Repo Stars](https://img.shields.io/github/stars/CCOSTAN/Home-AssistantConfig) ![GitHub last commit](https://img.shields.io/github/last-commit/CCOSTAN/Home-AssistantConfig)](https://github.com/CCOSTAN/Home-AssistantConfig#logo) - Probably the most documented configuration out there (5,147★).
-- [DubhAd ![GitHub Repo Stars](https://img.shields.io/github/stars/DubhAd/Home-AssistantConfig) ![GitHub last commit](https://img.shields.io/github/last-commit/DubhAd/Home-AssistantConfig)](https://github.com/DubhAd/Home-AssistantConfig) - Also known as Tinkerer shares his configuration files (686★).
-- [geekofweek ![GitHub Repo Stars](https://img.shields.io/github/stars/geekofweek/homeassistant) ![GitHub last commit](https://img.shields.io/github/last-commit/geekofweek/homeassistant)](https://github.com/geekofweek/homeassistant) - Has over 300+ automations (1,472★).
+- [DubhAd ![GitHub Repo Stars](https://img.shields.io/github/stars/DubhAd/Home-AssistantConfig) ![GitHub last commit](https://img.shields.io/github/last-commit/DubhAd/Home-AssistantConfig)](https://github.com/DubhAd/Home-AssistantConfig) - Also known as Tinkerer, shares his configuration files (686★).
+- [geekofweek ![GitHub Repo Stars](https://img.shields.io/github/stars/geekofweek/homeassistant) ![GitHub last commit](https://img.shields.io/github/last-commit/geekofweek/homeassistant)](https://github.com/geekofweek/homeassistant) - Has 300+ automations (1,472★).
 - [Alok Saboo ![GitHub Repo Stars](https://img.shields.io/github/stars/arsaboo/homeassistant-config) ![GitHub last commit](https://img.shields.io/github/last-commit/arsaboo/homeassistant-config)](https://github.com/arsaboo/homeassistant-config) - Also known as arsaboo. Regularly updated (1,953★).
-- [Franck Nijhof ![GitHub Repo Stars](https://img.shields.io/github/stars/frenck/home-assistant-config) ![GitHub last commit](https://img.shields.io/github/last-commit/frenck/home-assistant-config)](https://github.com/frenck/home-assistant-config) - Hass.io based, very different configuration structure compared to others (1,999★).
-- [Klaas Schoute ![GitHub Repo Stars](https://img.shields.io/github/stars/klaasnicolaas/Student-homeassistant-config) ![GitHub last commit](https://img.shields.io/github/last-commit/klaasnicolaas/Student-homeassistant-config)](https://github.com/klaasnicolaas/Student-homeassistant-config) - Hass.io based, Intel NUC, Ubuntu Server, Docker and regularly updated (223★).
+- [Franck Nijhof ![GitHub Repo Stars](https://img.shields.io/github/stars/frenck/home-assistant-config) ![GitHub last commit](https://img.shields.io/github/last-commit/frenck/home-assistant-config)](https://github.com/frenck/home-assistant-config) - Home Assistant OS based, very different configuration structure compared to others (1,999★).
+- [Klaas Schoute ![GitHub Repo Stars](https://img.shields.io/github/stars/klaasnicolaas/Student-homeassistant-config) ![GitHub last commit](https://img.shields.io/github/last-commit/klaasnicolaas/Student-homeassistant-config)](https://github.com/klaasnicolaas/Student-homeassistant-config) - Home Assistant OS based, Intel NUC, Ubuntu Server, Docker and regularly updated (223★).
 
 ## Custom Integrations
 
@@ -354,7 +354,7 @@ _Display camera streams the way you want them, with overlays, controls, event ti
 _Show vacuum status, room maps, and start/stop controls in your dashboard._
 
 - [Vacuum Map Card ![GitHub Repo Stars](https://img.shields.io/github/stars/PiotrMachowski/lovelace-xiaomi-vacuum-map-card) ![GitHub last commit](https://img.shields.io/github/last-commit/PiotrMachowski/lovelace-xiaomi-vacuum-map-card)](https://github.com/PiotrMachowski/lovelace-xiaomi-vacuum-map-card) - This card provides a user-friendly way to fully control Xiaomi (Roborock/Viomi/Dreame/Roidmi) and Neato (+ possibly other) vacuums (1,863★).
-- [Vacuum Card ![GitHub Repo Stars](https://img.shields.io/github/stars/denysdovhan/vacuum-card) ![GitHub last commit](https://img.shields.io/github/last-commit/denysdovhan/vacuum-card)](https://github.com/denysdovhan/vacuum-card) - A card to card for controlling a vacuum cleaner robot (1,199★).
+- [Vacuum Card ![GitHub Repo Stars](https://img.shields.io/github/stars/denysdovhan/vacuum-card) ![GitHub last commit](https://img.shields.io/github/last-commit/denysdovhan/vacuum-card)](https://github.com/denysdovhan/vacuum-card) - A card for controlling a robot vacuum (1,199★).
 
 ### 📅 Calendar & feed
 
@@ -384,7 +384,7 @@ _Hide the chrome, run full-screen, or turn an old tablet on the wall into a dedi
 
 _Frameworks that replace or extend the default Home Assistant dashboard with a different look and feel._
 
-- [Dwains Dashboard ![GitHub Repo Stars](https://img.shields.io/github/stars/dwainscheeren/dwains-lovelace-dashboard) ![GitHub last commit](https://img.shields.io/github/last-commit/dwainscheeren/dwains-lovelace-dashboard)](https://github.com/dwainscheeren/dwains-lovelace-dashboard) - An fully auto-generating dashboard for desktop, tablet and mobile (2,033★).
+- [Dwains Dashboard ![GitHub Repo Stars](https://img.shields.io/github/stars/dwainscheeren/dwains-lovelace-dashboard) ![GitHub last commit](https://img.shields.io/github/last-commit/dwainscheeren/dwains-lovelace-dashboard)](https://github.com/dwainscheeren/dwains-lovelace-dashboard) - A fully auto-generating dashboard for desktop, tablet and mobile (2,033★).
 - [Mushroom Strategy ![GitHub Repo Stars](https://img.shields.io/github/stars/DigiLive/mushroom-strategy) ![GitHub last commit](https://img.shields.io/github/last-commit/DigiLive/mushroom-strategy)](https://github.com/DigiLive/mushroom-strategy) - A strategy that automatically generates a dashboard using Mushroom cards (640★).
 
 ## Themes
@@ -399,7 +399,7 @@ _It is all about the looks, apply some style._
 - [Black and Green](https://community.home-assistant.io/t/black-and-green-theme/28602?u=frenck) - A dark theme with pale green accents by GreenTurtwig.
 - [Vintage](https://community.home-assistant.io/t/vintage-theme/42806?u=frenck) - Give your frontend a vintage look with this theme by Anup Surendran.
 - [Carbon Green](https://community.home-assistant.io/t/share-your-themes/22018/95?u=frenck) - Light carbon theme with green accents by Reua.
-- [Slate ![GitHub Repo Stars](https://img.shields.io/github/stars/seangreen2/slate_theme) ![GitHub last commit](https://img.shields.io/github/last-commit/seangreen2/slate_theme)](https://github.com/seangreen2/slate_theme) - A dark theme close to the vanila looks from seangreen2 (136★).
+- [Slate ![GitHub Repo Stars](https://img.shields.io/github/stars/seangreen2/slate_theme) ![GitHub last commit](https://img.shields.io/github/last-commit/seangreen2/slate_theme)](https://github.com/seangreen2/slate_theme) - A dark theme close to the vanilla look (136★).
 - [Synthwave ![GitHub Repo Stars](https://img.shields.io/github/stars/bbbenji/synthwave-hass) ![GitHub last commit](https://img.shields.io/github/last-commit/bbbenji/synthwave-hass)](https://github.com/bbbenji/synthwave-hass) - A theme influenced by the cover artwork of modern Synthwave bands (199★).
 
 ## Icon packs
@@ -418,10 +418,10 @@ _Need a database, a reverse proxy, an MQTT broker (the messaging service many sm
 
 _Created and maintained by the Home Assistant team._
 
-- [DuckDNS ![GitHub Repo Stars](https://img.shields.io/github/stars/home-assistant/hassio-addons) ![GitHub last commit](https://img.shields.io/github/last-commit/home-assistant/hassio-addons)](https://github.com/home-assistant/hassio-addons/blob/master/duckdns/DOCS.md) - Updates your Duck DNS IP address and generate SSL using Let's Encrypt.
+- [DuckDNS ![GitHub Repo Stars](https://img.shields.io/github/stars/home-assistant/hassio-addons) ![GitHub last commit](https://img.shields.io/github/last-commit/home-assistant/hassio-addons)](https://github.com/home-assistant/hassio-addons/blob/master/duckdns/DOCS.md) - Updates your Duck DNS IP address and generates SSL using Let's Encrypt.
 - [File editor ![GitHub Repo Stars](https://img.shields.io/github/stars/home-assistant/hassio-addons) ![GitHub last commit](https://img.shields.io/github/last-commit/home-assistant/hassio-addons)](https://github.com/home-assistant/hassio-addons/blob/master/configurator/DOCS.md) - Browser-based configuration file editor.
 - [Mosquitto ![GitHub Repo Stars](https://img.shields.io/github/stars/home-assistant/hassio-addons) ![GitHub last commit](https://img.shields.io/github/last-commit/home-assistant/hassio-addons)](https://github.com/home-assistant/hassio-addons/blob/master/mosquitto/DOCS.md) - Fast and reliable MQTT broker.
-- [Terminal & SSH ![GitHub Repo Stars](https://img.shields.io/github/stars/home-assistant/hassio-addons) ![GitHub last commit](https://img.shields.io/github/last-commit/home-assistant/hassio-addons)](https://github.com/home-assistant/hassio-addons/blob/master/ssh/DOCS.md) - Allows logging in remotely to using a web terminal or SSH client.
+- [Terminal & SSH ![GitHub Repo Stars](https://img.shields.io/github/stars/home-assistant/hassio-addons) ![GitHub last commit](https://img.shields.io/github/last-commit/home-assistant/hassio-addons)](https://github.com/home-assistant/hassio-addons/blob/master/ssh/DOCS.md) - Allows logging in remotely using a web terminal or SSH client.
 - [Samba ![GitHub Repo Stars](https://img.shields.io/github/stars/home-assistant/hassio-addons) ![GitHub last commit](https://img.shields.io/github/last-commit/home-assistant/hassio-addons)](https://github.com/home-assistant/hassio-addons/blob/master/samba/DOCS.md) - Access your configuration files using Windows network shares.
 - [NGINX SSL proxy ![GitHub Repo Stars](https://img.shields.io/github/stars/home-assistant/hassio-addons) ![GitHub last commit](https://img.shields.io/github/last-commit/home-assistant/hassio-addons)](https://github.com/home-assistant/hassio-addons/blob/master/nginx_proxy/DOCS.md) - Reverse proxy with SSL termination.
 - [deCONZ ![GitHub Repo Stars](https://img.shields.io/github/stars/home-assistant/hassio-addons) ![GitHub last commit](https://img.shields.io/github/last-commit/home-assistant/hassio-addons)](https://github.com/home-assistant/hassio-addons/blob/master/deconz/DOCS.md) - Control a ZigBee network using ConBee or RaspBee hardware by Dresden Elektronik.
@@ -452,7 +452,7 @@ _Anyone can create an app, the following are created by the community._
 - [Glances ![GitHub Repo Stars](https://img.shields.io/github/stars/hassio-addons/app-glances) ![GitHub last commit](https://img.shields.io/github/last-commit/hassio-addons/app-glances)](https://github.com/hassio-addons/app-glances) - A cross-platform system monitoring tool written in Python (184★).
 - [AdGuard Home ![GitHub Repo Stars](https://img.shields.io/github/stars/hassio-addons/app-adguard-home) ![GitHub last commit](https://img.shields.io/github/last-commit/hassio-addons/app-adguard-home)](https://github.com/hassio-addons/app-adguard-home) - A network-wide ad-and-tracker blocking DNS server with parental control (511★).
 - [Traccar ![GitHub Repo Stars](https://img.shields.io/github/stars/hassio-addons/addon-traccar) ![GitHub last commit](https://img.shields.io/github/last-commit/hassio-addons/addon-traccar)](https://github.com/hassio-addons/addon-traccar) - Modern GPS tracking platform (158★).
-- [Hass.io Google Drive Backup ![GitHub Repo Stars](https://img.shields.io/github/stars/sabeechen/hassio-google-drive-backup) ![GitHub last commit](https://img.shields.io/github/last-commit/sabeechen/hassio-google-drive-backup)](https://github.com/sabeechen/hassio-google-drive-backup) - A complete and easy to configure solution for backing up your snapshots to Google Drive (3,537★).
+- [Hass.io Google Drive Backup ![GitHub Repo Stars](https://img.shields.io/github/stars/sabeechen/hassio-google-drive-backup) ![GitHub last commit](https://img.shields.io/github/last-commit/sabeechen/hassio-google-drive-backup)](https://github.com/sabeechen/hassio-google-drive-backup) - A complete and easy-to-configure solution for backing up to Google Drive (3,537★).
 - [Grocy ![GitHub Repo Stars](https://img.shields.io/github/stars/hassio-addons/app-grocy) ![GitHub last commit](https://img.shields.io/github/last-commit/hassio-addons/app-grocy)](https://github.com/hassio-addons/app-grocy) - ERP beyond your fridge! A groceries & household management solution for your home (429★).
 - [CrowdSec ![GitHub Repo Stars](https://img.shields.io/github/stars/crowdsecurity/home-assistant-addons) ![GitHub last commit](https://img.shields.io/github/last-commit/crowdsecurity/home-assistant-addons)](https://github.com/crowdsecurity/home-assistant-addons) - A next-gen collaborative IPS/IDS to protect you from intrusion (94★).
 
@@ -475,7 +475,7 @@ _Some of the best smart-home gadgets do not exist as products you can buy, but o
 ### 🔨 DIY Projects
 
 - [HA SwitchPlate](https://community.home-assistant.io/t/ha-switchplate-diy-lcd-touchscreen-wall-switch-replacement/25464?u=frenck) - LCD Touchscreen wall switch replacement.
-- [$10 WiFi RGB Bulb](https://community.home-assistant.io/t/how-to-inexpensive-10-us-wifi-rgb-bulb-that-works-with-home-assistant/14735?u=frenck) - In inexpensive RGB bulb that works on WiFi.
+- [$10 WiFi RGB Bulb](https://community.home-assistant.io/t/how-to-inexpensive-10-us-wifi-rgb-bulb-that-works-with-home-assistant/14735?u=frenck) - An inexpensive RGB bulb that works on WiFi.
 - [433mhz/IR Bidirectional Gateway](https://community.home-assistant.io/t/433mhz-infrared-ir-to-and-from-mqtt-on-esp8266/6779?u=frenck) - Bidirectional with IR and 433mhz using ESP8266 and MQTT.
 - [esp8266MQTTBlinds](https://community.home-assistant.io/t/esp8266-window-blinds-mqtt/14863?u=frenck) - Automate your window blinds using an ESP8266, a servo and MQTT.
 - [Home Assistant's Hackster.io](https://www.hackster.io/home-assistant?f=1#_=_) - A Hackster channel with multiple DIY projects.
@@ -494,7 +494,7 @@ _Helpers, daemons, and developer tools that sit alongside Home Assistant rather 
 - [Monitor ![GitHub Repo Stars](https://img.shields.io/github/stars/andrewjfreyer/monitor) ![GitHub last commit](https://img.shields.io/github/last-commit/andrewjfreyer/monitor)](https://github.com/andrewjfreyer/monitor) - Distributed advertisement-based BTLE presence detection reported via MQTT (2,101★).
 - [HASS-data-detective ![GitHub Repo Stars](https://img.shields.io/github/stars/robmarkcole/HASS-data-detective) ![GitHub last commit](https://img.shields.io/github/last-commit/robmarkcole/HASS-data-detective)](https://github.com/robmarkcole/HASS-data-detective) - Explore and analyse your database data (204★).
 - [ADB Intents](https://gist.github.com/mcfrojd/9e6875e1db5c089b1e3ddeb7dba0f304) - List of ADB intents to control Android Devices.
-- [Home Assistant Config Helper for VSCode](https://marketplace.visualstudio.com/items?itemName=keesschollaart.vscode-home-assistant) - Visual Studio Code Extension that provides auto-completion, config validation and snippets when editting your configuration.
+- [Home Assistant Config Helper for VSCode](https://marketplace.visualstudio.com/items?itemName=keesschollaart.vscode-home-assistant) - Visual Studio Code Extension that provides auto-completion, config validation and snippets when editing your configuration.
 - [Mi Flora via MQTT daemon ![GitHub Repo Stars](https://img.shields.io/github/stars/ThomDietrich/miflora-mqtt-daemon) ![GitHub last commit](https://img.shields.io/github/last-commit/ThomDietrich/miflora-mqtt-daemon)](https://github.com/ThomDietrich/miflora-mqtt-daemon) - Collect and transfer Xiaomi Mi Flora plant sensor data via MQTT (624★).
 - [Home Assistant Taskbar Menu ![GitHub Repo Stars](https://img.shields.io/github/stars/PiotrMachowski/Home-Assistant-Taskbar-Menu) ![GitHub last commit](https://img.shields.io/github/last-commit/PiotrMachowski/Home-Assistant-Taskbar-Menu)](https://github.com/PiotrMachowski/Home-Assistant-Taskbar-Menu) - A client for Windows that can display Lovelace views, control entities and show persistent notifications (342★).
 
@@ -540,7 +540,7 @@ _Follow along on social media. The list still leans on X (formerly Twitter); Blu
 - [@home_assistant](https://twitter.com/home_assistant) - Open source home automation that puts local control and privacy first.
 - [@hass_devs](https://twitter.com/hass_devs) - Latest news on the development of Home Assistant for contributors.
 - [@balloob](https://twitter.com/balloob) - Founder of the Home Assistant project.
-- [@pvizeli](https://twitter.com/pvizeli) - Core developer and creator of the Hass.io project.
+- [@pvizeli](https://twitter.com/pvizeli) - Core developer and creator of the Home Assistant Supervisor.
 - [@frenck](https://twitter.com/frenck) - Creator of this Awesome list and maintainer of the Home Assistant Community Apps project.
 - [@ccostan](https://twitter.com/ccostan) - Blogger of all things Tech. Smart Home, #IOT & other Geeky subjects.
 - [@HomeTechHacker](https://twitter.com/HomeTechHacker) - Guy friends call when #tech happens. Tweet 25-50x/week about #smarthome, #homenetwork, #cybersecurity, #Linux, #gadgets, and #life.
@@ -579,11 +579,18 @@ Thank you for being involved! 😍
 
 ## Trademark Legal Notice
 
-This Awesome list is not created, developed, affiliated, supported, maintained
-or endorsed by Home Assistant.
+Awesome Home Assistant is an independent, community-curated index. It is not
+created, endorsed, sponsored by, or affiliated with
+[Home Assistant](https://www.home-assistant.io) or the
+[Open Home Foundation](https://www.openhomefoundation.org). "Home Assistant"
+and the Home Assistant logo are trademarks of the Open Home Foundation.
 
-All product names, logos, brands, trademarks and registered trademarks are
-property of their respective owners. All company, product, and service names
-used in this list are for identification purposes only.
+All other product names, logos, brands, trademarks, and registered trademarks
+referenced in this list are the property of their respective owners.
+References to specific manufacturers, products, integrations, add-ons,
+services, and community projects are for identification purposes only and do
+not imply endorsement by their owners.
 
-Use of these names, logos, trademarks, and brands does not imply endorsement.
+The contents of this list are licensed under [Creative Commons Attribution
+4.0 International](https://creativecommons.org/licenses/by/4.0/) (CC-BY-4.0).
+See [LICENSE.md](LICENSE.md) for the full text.
