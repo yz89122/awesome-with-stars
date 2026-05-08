@@ -287,7 +287,7 @@ _Pull a specific manufacturer's devices into Home Assistant, often with more fea
 - [Midea AC LAN ![GitHub Repo Stars](https://img.shields.io/github/stars/wuwentao/midea_ac_lan) ![GitHub last commit](https://img.shields.io/github/last-commit/wuwentao/midea_ac_lan)](https://github.com/wuwentao/midea_ac_lan) - Local control of Midea air conditioners, heat pumps, and other M-Smart devices (1,616★).
 - [SmartThinQ Sensors ![GitHub Repo Stars](https://img.shields.io/github/stars/ollo69/ha-smartthinq-sensors) ![GitHub last commit](https://img.shields.io/github/last-commit/ollo69/ha-smartthinq-sensors)](https://github.com/ollo69/ha-smartthinq-sensors) - LG appliances (washers, dryers, AC, fridges) wired up via SmartThinQ with rich state and remote start (1,296★).
 
-### 🛠️ Automation tooling
+### ���️ Automation tooling
 
 _Helpers that make automations easier to write, debug, and maintain._
 
@@ -308,7 +308,7 @@ _Sign in to Home Assistant with single sign-on, route through a tunnel, or pull 
 
 - [Suggest one ![GitHub Repo Stars](https://img.shields.io/github/stars/frenck/awesome-home-assistant) ![GitHub last commit](https://img.shields.io/github/last-commit/frenck/awesome-home-assistant)](https://github.com/frenck/awesome-home-assistant/issues/new/choose) - Have a community resource that fits here? Open an issue to propose it.
 
-### 🔗 Federation & multi-instance
+### ��� Federation & multi-instance
 
 _Link multiple Home Assistant instances together, share entities across homes, or relay between them._
 
