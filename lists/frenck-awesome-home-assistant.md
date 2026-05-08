@@ -156,6 +156,7 @@ _Wondering how more experienced users have set up their thermostat schedules, pr
 - [Alok Saboo ![GitHub Repo Stars](https://img.shields.io/github/stars/arsaboo/homeassistant-config) ![GitHub last commit](https://img.shields.io/github/last-commit/arsaboo/homeassistant-config)](https://github.com/arsaboo/homeassistant-config) - Also known as arsaboo. Regularly updated (1,953★).
 - [Franck Nijhof ![GitHub Repo Stars](https://img.shields.io/github/stars/frenck/home-assistant-config) ![GitHub last commit](https://img.shields.io/github/last-commit/frenck/home-assistant-config)](https://github.com/frenck/home-assistant-config) - Home Assistant OS based, very different configuration structure compared to others (1,999★).
 - [Klaas Schoute ![GitHub Repo Stars](https://img.shields.io/github/stars/klaasnicolaas/Student-homeassistant-config) ![GitHub last commit](https://img.shields.io/github/last-commit/klaasnicolaas/Student-homeassistant-config)](https://github.com/klaasnicolaas/Student-homeassistant-config) - Home Assistant OS based, Intel NUC, Ubuntu Server, Docker and regularly updated (223★).
+- [Ryan Warner ![GitHub Repo Stars](https://img.shields.io/github/stars/rwarner/Home-Assistant-Config) ![GitHub last commit](https://img.shields.io/github/last-commit/rwarner/Home-Assistant-Config)](https://github.com/rwarner/Home-Assistant-Config) - Docker on Ubuntu HA Config, maintained since early HA. Highly documented and regularly updated (5★).
 
 ## Custom Integrations
 
@@ -526,6 +527,7 @@ _Sit back, relax, watch, and learn._
 - [BeardedTinker](https://www.youtube.com/channel/UCuqokNoK8ZFNQdXxvlE129g) - Tutorials & 3D printing.
 - [Smart Home Junkie](https://www.youtube.com/@smarthomejunkie) - How-to videos and tutorials for starters and advanced users.
 - [Everything Smart Home](https://www.youtube.com/c/EverythingSmartHome) - Focuses on Smart Home, Home Automation, general tech reviews, guides, and step-by-step DIY projects.
+- [Warner Discovers](https://www.youtube.com/c/WarnerDiscovers) - Tech reviews, DIY installs, smart home gear, and solar DIY.
 
 ### 🎙️ Podcasts
 
