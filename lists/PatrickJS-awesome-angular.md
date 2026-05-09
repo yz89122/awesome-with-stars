@@ -1830,6 +1830,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [toastify ![GitHub Repo Stars](https://img.shields.io/github/stars/andreasnicolaou/toastify) ![GitHub last commit](https://img.shields.io/github/last-commit/andreasnicolaou/toastify)](https://github.com/andreasnicolaou/toastify) - Lightweight and customizable toast notifications for web applications.
 * [web-notifier ![GitHub Repo Stars](https://img.shields.io/github/stars/andreasnicolaou/web-notifier) ![GitHub last commit](https://img.shields.io/github/last-commit/andreasnicolaou/web-notifier)](https://github.com/andreasnicolaou/web-notifier) - Lightweight, flexible web notification library with simple RxJS‑based API for browser notifications.
 * [ngx-dynamic-toast ![GitHub Repo Stars](https://img.shields.io/github/stars/ederjavs/ngx-dynamic-toast) ![GitHub last commit](https://img.shields.io/github/last-commit/ederjavs/ngx-dynamic-toast)](https://github.com/ederjavs/ngx-dynamic-toast) - An elegant, liquid-smooth toast notification library for Angular, heavily inspired by the beautiful [Sileo ![GitHub Repo Stars](https://img.shields.io/github/stars/hiaaryan/sileo) ![GitHub last commit](https://img.shields.io/github/last-commit/hiaaryan/sileo)](https://github.com/hiaaryan/sileo) project.
+* [flexi-toast ![GitHub Repo Stars](https://img.shields.io/github/stars/FlexiUI-labs/flexi-toast) ![GitHub last commit](https://img.shields.io/github/last-commit/FlexiUI-labs/flexi-toast)](https://github.com/FlexiUI-labs/flexi-toast) - Angular toast notification component with title, message, icon types, auto-dismiss, manual close, animations, theme, and positioning support.
 
 ### Onboarding and Product Tours
 
@@ -1960,6 +1961,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 ### UI Libraries
 
 * [Dev Extreme](https://js.devexpress.com/Overview/Angular/) - Feature-Complete 65+ Angular Component Suite.
+* [Zyra UI](https://zyraui.dev/) - Modern Angular component library with design tokens, signals, dark-mode-first theming, and WCAG 2.1 AA accessibility.
 * [Syncfusion](https://www.syncfusion.com/angular-components) - Its [Essential UI Kit for Angular ![GitHub Repo Stars](https://img.shields.io/github/stars/syncfusion/essential-ui-kit-for-angular) ![GitHub last commit](https://img.shields.io/github/last-commit/syncfusion/essential-ui-kit-for-angular)](https://github.com/syncfusion/essential-ui-kit-for-angular) is compatible with both Tailwind CSS and Bootstrap.
 * [ej2-angular-ui-components ![GitHub Repo Stars](https://img.shields.io/github/stars/syncfusion/ej2-angular-ui-components) ![GitHub last commit](https://img.shields.io/github/last-commit/syncfusion/ej2-angular-ui-components)](https://github.com/syncfusion/ej2-angular-ui-components) - Syncfusion Angular UI library with 70+ lightweight, responsive, modular, touch‑friendly components.
 * [Nebular ![GitHub Repo Stars](https://img.shields.io/github/stars/akveo/nebular) ![GitHub last commit](https://img.shields.io/github/last-commit/akveo/nebular)](https://github.com/akveo/nebular) - Customizable Angular UI Library based on Eva Design System.
