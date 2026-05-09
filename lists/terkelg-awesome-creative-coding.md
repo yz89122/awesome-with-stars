@@ -373,7 +373,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [Let's Make A Ray Marcher](https://www.shadertoy.com/view/MdBfRK) - Interactive Shader-Toy on writing a ray marcher.
 - [Raymarching](https://www.shadertoy.com/view/4dSfRc) - Interactive Shader-Toy raymarching tutorial.
 
-### Quick References • Cheat Sheets
+### Quick References ��� Cheat Sheets
 
 - [Shaderific GLSL](https://shaderific.com/glsl.html) - OpenGL ES shading language reference.
 - [The Book of Shaders Glossary](https://thebookofshaders.com/glossary/) - Shader glossary by theme.
