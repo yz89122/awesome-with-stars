@@ -208,7 +208,7 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 - [artemave/workspace-diagnostics.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/artemave/workspace-diagnostics.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/artemave/workspace-diagnostics.nvim)](https://github.com/artemave/workspace-diagnostics.nvim) - Populate diagnostics for all projects files, not just the opened ones.
 - [Kurama622/clean-diagnostic ![GitHub Repo Stars](https://img.shields.io/github/stars/Kurama622/clean-diagnostic) ![GitHub last commit](https://img.shields.io/github/last-commit/Kurama622/clean-diagnostic)](https://github.com/Kurama622/clean-diagnostic) - Display diagnostic count using virtual text, and show diagnostic details in a floating window.
 <!--lint disable double-link -->
-[**⬆ back to top**](#contents)
+[**�� back to top**](#contents)
 <!--lint enable double-link -->
 
 ## Completion
