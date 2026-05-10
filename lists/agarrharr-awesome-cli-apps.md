@@ -434,7 +434,8 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [QuickWall ![GitHub Repo Stars](https://img.shields.io/github/stars/deepjyoti30/QuickWall) ![GitHub last commit](https://img.shields.io/github/last-commit/deepjyoti30/QuickWall)](https://github.com/deepjyoti30/QuickWall) - Directly set wallpapers from Unsplash.
 - [oh-my-posh](https://ohmyposh.dev) - Prompt theme engine.
 - [starship ![GitHub Repo Stars](https://img.shields.io/github/stars/starship/starship) ![GitHub last commit](https://img.shields.io/github/last-commit/starship/starship)](https://github.com/starship/starship) - Minimal, blazing-fast, and infinitely customizable prompt for any shell.
-- [gowall ![GitHub Repo Stars](https://img.shields.io/github/stars/Achno/gowall) ![GitHub last commit](https://img.shields.io/github/last-commit/Achno/gowall)](https://github.com/Achno/gowall) - Extract image color pallet, recolor images/icon and more.
+- [gowall ![GitHub Repo Stars](https://img.shields.io/github/stars/Achno/gowall) ![GitHub last commit](https://img.shields.io/github/last-commit/Achno/gowall)](https://github.com/Achno/gowall) - Extract image color palette, recolor images/icon and more.
+- [cwal ![GitHub Repo Stars](https://img.shields.io/github/stars/nitinbhat972/cwal) ![GitHub last commit](https://img.shields.io/github/last-commit/nitinbhat972/cwal)](https://github.com/nitinbhat972/cwal) - pywal-like color palette generator.
 
 ### Shell Utilities
 
