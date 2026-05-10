@@ -1571,7 +1571,7 @@ Update Time, five active automations, webhooks.
   * [SnapAPI](https://snapapi.pics) - Screenshot, video recording, PDF generation, and web data extraction API. Free plan includes 200 screenshots/month.
   * [thumbnail.ws](https://thumbnail.ws) - API for generating thumbnails of websites. Free 1,000 requests/month.
 
-**[⬆️ Back to Top](#table-of-contents)**
+**[⬆�� Back to Top](#table-of-contents)**
 
 ## Flutter Related and Building IOS Apps without Mac
 
