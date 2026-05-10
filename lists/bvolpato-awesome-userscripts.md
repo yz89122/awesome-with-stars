@@ -502,7 +502,7 @@ Userscripts can be used w/ the following browsers:
             <img width=511 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@5d22849/assets/images/screenshots/scripts/adguard-extra.png"></a>
     </blockquote>
     <blockquote>
-        ��� <a href="https://userscripts.adtidy.org/release/adguard-extra/1.0/adguard-extra.user.js">
+        💾 <a href="https://userscripts.adtidy.org/release/adguard-extra/1.0/adguard-extra.user.js">
             Install Stable Build</a> /
         💾 <a href="https://userscripts.adtidy.org/beta/adguard-extra/1.0/adguard-extra.user.js">
             Install Beta Build</a> /

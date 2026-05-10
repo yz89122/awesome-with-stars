@@ -151,6 +151,7 @@ This section contains agent frameworks and tools that are useful for data scienc
 
 ### Research & Knowledge Retrieval
 - [BGPT MCP](https://bgpt.pro/mcp) - MCP server that gives AI agents access to a database of scientific papers built from raw experimental data extracted from full-text studies. Returns 25+ structured fields per paper including methods, results, sample sizes, and quality scores. [GitHub ![GitHub Repo Stars](https://img.shields.io/github/stars/connerlambden/bgpt-mcp) ![GitHub last commit](https://img.shields.io/github/last-commit/connerlambden/bgpt-mcp)](https://github.com/connerlambden/bgpt-mcp)
+- [Chunk Tuner ![GitHub Repo Stars](https://img.shields.io/github/stars/shantanu-deshmukh/chunktuner) ![GitHub last commit](https://img.shields.io/github/last-commit/shantanu-deshmukh/chunktuner)](https://github.com/shantanu-deshmukh/chunktuner) - Open-source Python library and MCP server to benchmark document chunking strategies for RAG, score retrieval quality, and recommend configurations for a corpus.
 
 ### Workflow
 **[`^        back to top        ^`](#awesome-data-science)**
