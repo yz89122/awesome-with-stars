@@ -39,6 +39,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Webhook Debugger & Logger](https://apify.com/ar27111994/webhook-debugger-logger) - Enterprise-grade tool for testing, debugging, and logging incoming webhooks in real-time.
 - [Webhook Debugger ![GitHub Repo Stars](https://img.shields.io/github/stars/brancogao/webhook-debugger) ![GitHub last commit](https://img.shields.io/github/last-commit/brancogao/webhook-debugger)](https://github.com/brancogao/webhook-debugger) - Open-source, self-hosted webhook inspector with signature verification support.
 - [Spiderhash](https://spiderhash.io/) - Webhook debugging and request inspection tool for testing callback payloads, headers, and delivery behavior.
+- [KushoAI](https://kusho.ai/) - AI-native platform for API contract testing, end-to-end testing, UI testing, and continuous security scanning, with self-healing tests that automatically adapt to code changes in CI/CD.
 
 ### Security Testing
 - [BeEF](http://beefproject.com/) - Manipulate the browser by exploiting any XSS vulnerabilities you find.
@@ -47,11 +48,11 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Nuclei Scanner ![GitHub Repo Stars](https://img.shields.io/github/stars/projectdiscovery/nuclei) ![GitHub last commit](https://img.shields.io/github/last-commit/projectdiscovery/nuclei)](https://github.com/projectdiscovery/nuclei) - nuclie is automated scanner for common vulnerbilty finding on site.
 
 ### AI & LLM Testing
-- [Litmus ![GitHub Repo Stars](https://img.shields.io/github/stars/rylinjames/litmus) ![GitHub last commit](https://img.shields.io/github/last-commit/rylinjames/litmus)](https://github.com/rylinjames/litmus) - Record and replay AI agent LLM calls deterministically for testing and CI, with fault injection and reliability scoring.
 - [promptfoo ![GitHub Repo Stars](https://img.shields.io/github/stars/promptfoo/promptfoo) ![GitHub last commit](https://img.shields.io/github/last-commit/promptfoo/promptfoo)](https://github.com/promptfoo/promptfoo) - Open-source framework for testing and red teaming LLM applications. Compare prompts, test RAG architectures, run multi-turn adversarial attacks, and catch security vulnerabilities with CI/CD integration.
 - [Tenro ![GitHub Repo Stars](https://img.shields.io/github/stars/tenro-ai/tenro-python) ![GitHub last commit](https://img.shields.io/github/last-commit/tenro-ai/tenro-python)](https://github.com/tenro-ai/tenro-python) - Open-source testing framework for AI agents. Simulate LLM and tool calls to test edge cases, failure paths, and agent logic without live API calls.
 - [voicetest ![GitHub Repo Stars](https://img.shields.io/github/stars/voicetestdev/voicetest) ![GitHub last commit](https://img.shields.io/github/last-commit/voicetestdev/voicetest)](https://github.com/voicetestdev/voicetest) - Open-source test harness for voice AI agents supporting Retell, VAPI, LiveKit, and Bland with autonomous simulations and LLM-based evaluation.
 - [AgentSkeptic ![GitHub Repo Stars](https://img.shields.io/github/stars/jwekavanagh/agentskeptic) ![GitHub last commit](https://img.shields.io/github/last-commit/jwekavanagh/agentskeptic)](https://github.com/jwekavanagh/agentskeptic) - Verifies AI/agent workflows by checking database state after execution, comparing expected vs observed outcomes with read-only SQL.
+- [Evaliphy ![GitHub Repo Stars](https://img.shields.io/github/stars/evaliphy/evaliphy) ![GitHub last commit](https://img.shields.io/github/last-commit/evaliphy/evaliphy)](https://github.com/evaliphy/evaliphy) - Test your AI system end-to-end with Evaliphy. It uses a Playwright-style testing approach and generates HTML reports.
 
 ### Service Virtualization
 - [Beeceptor](https://beeceptor.com/) - Easy to use no-code mock servers for service virtualization. Rest, SOAP, GraphQL supported. Create an API mock server from OpenAPI Specification or Postman collection.
@@ -66,6 +67,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Fluxguard](https://fluxguard.com) - Screenshot pixel and DOM change comparisons.
 - [GoodLooks ![GitHub Repo Stars](https://img.shields.io/github/stars/dashcamio/goodlooks) ![GitHub last commit](https://img.shields.io/github/last-commit/dashcamio/goodlooks)](https://github.com/dashcamio/goodlooks) - AI-powered visual validation for Playwright tests.
 - [Happo](https://happo.io) - Cross-browser screenshot and visual regression testing service, integrates with tools like Storybook, Playwright, and Cypress.
+- [Lastest](https://lastest.cloud) - Visual regression testing for Playwright with AI flake triage and baseline review.
 - [TestingBot](https://testingbot.com) - Supports automated, manual, and visual testing.
 - [recheck-web ![GitHub Repo Stars](https://img.shields.io/github/stars/retest/recheck-web) ![GitHub last commit](https://img.shields.io/github/last-commit/retest/recheck-web)](https://github.com/retest/recheck-web) - Change comparison tool with Golden Masters and "unbreakable Selenium" tests.
 - [Sherlo ![GitHub Repo Stars](https://img.shields.io/github/stars/sherlo-io/sherlo) ![GitHub last commit](https://img.shields.io/github/last-commit/sherlo-io/sherlo)](https://github.com/sherlo-io/sherlo) - Visual testing platform for React Native Storybook. Captures screenshots on iOS and Android simulators in the cloud and detects visual changes automatically.
@@ -91,7 +93,6 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
   
   
 ### Test Management
-- [Gwirian](https://www.gwirian.com) - Open source BDD test management for QA teams. Given/When/Then scenarios, search, dashboards; self-host or hosted.
 - [Kiwi TCMS ![GitHub Repo Stars](https://img.shields.io/github/stars/kiwitcms/Kiwi) ![GitHub last commit](https://img.shields.io/github/last-commit/kiwitcms/Kiwi)](https://github.com/kiwitcms/Kiwi) - Open-source test case management.
 - [skipper ![GitHub Repo Stars](https://img.shields.io/github/stars/get-skipper/skipper) ![GitHub last commit](https://img.shields.io/github/last-commit/get-skipper/skipper)](https://github.com/get-skipper/skipper) - Real-time test execution control via Google Spreadsheet, enabling instant toggle without code changes.
 - [TestLink ![GitHub Repo Stars](https://img.shields.io/github/stars/TestLinkOpenSourceTRMS/testlink-code) ![GitHub last commit](https://img.shields.io/github/last-commit/TestLinkOpenSourceTRMS/testlink-code)](https://github.com/TestLinkOpenSourceTRMS/testlink-code) - Open-source test case management system.
@@ -138,7 +139,6 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 
 ### Screen Recording & Session Replays
 - [Captura ![GitHub Repo Stars](https://img.shields.io/github/stars/MathewSachin/Captura) ![GitHub last commit](https://img.shields.io/github/last-commit/MathewSachin/Captura)](https://github.com/MathewSachin/Captura) - Open-source video recording tool.
-- [Replayable](https://replayable.io) - Desktop dashcam for capturing manual testing sessions.
 
 ### Mind Mapping & Documentation
 - [Xmind](http://www.xmind.net/) - Mind mapping tool for documenting test cases and strategies.

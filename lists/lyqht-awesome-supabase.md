@@ -73,6 +73,8 @@ The following starters supports the `@supabase/supabase-js` v2 library.
 - [Bemi for Supabase JS ![GitHub Repo Stars](https://img.shields.io/github/stars/BemiHQ/bemi-supabase-js) ![GitHub last commit](https://img.shields.io/github/last-commit/BemiHQ/bemi-supabase-js)](https://github.com/BemiHQ/bemi-supabase-js) - Open-source platform for automatic data change tracking.
 - [Supabase automated self host ![GitHub Repo Stars](https://img.shields.io/github/stars/singh-inder/supabase-automated-self-host) ![GitHub last commit](https://img.shields.io/github/last-commit/singh-inder/supabase-automated-self-host)](https://github.com/singh-inder/supabase-automated-self-host) - Self-host Supabase with Caddy and Authelia. Just run ONE script.
 - [Edge Worker](https://pgflow.dev) - Open-source serverless task queue worker that runs on Supabase Edge Functions (Background Tasks) and Supabase Queues. It simplifies consuming the queues and adds useful features like concurrency control, retries, and observability.
+- [Supabase DataFlows SMS Hook ![GitHub Repo Stars](https://img.shields.io/github/stars/dataflows-au/supabase-sms-hook) ![GitHub last commit](https://img.shields.io/github/last-commit/dataflows-au/supabase-sms-hook)](https://github.com/dataflows-au/supabase-sms-hook) - Send phone OTP verification via DataFlows SMS API. Australian alternative to Twilio for Supabase Auth.
+- [Pharos AI ![GitHub Repo Stars](https://img.shields.io/github/stars/Juliusolsson05/pharos-ai) ![GitHub last commit](https://img.shields.io/github/last-commit/Juliusolsson05/pharos-ai)](https://github.com/Juliusolsson05/pharos-ai) - Open-source real-time intelligence dashboard for geopolitical conflict tracking with interactive maps, OSINT feeds, and AI-powered briefs.
 
 ## Online Courses
 
