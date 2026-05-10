@@ -56,6 +56,7 @@ A collection of ZSH frameworks, plugins, tutorials & themes inspired by the vari
   - [zapack](#zapack)
   - [zcomet](#zcomet)
   - [zeesh](#zeesh)
+  - [zert](#zert)
   - [zgem](#zgem)
   - [zgen](#zgen)
   - [zgenom](#zgenom)
@@ -441,6 +442,24 @@ Features Provided by XC-Manager:
  ![GitHub Repo stars](https://img.shields.io/github/stars/zeekay/zeesh)
 
 **Zeesh** is a cross-platform ZSH framework. It's similar to, but incompatible with, [oh-my-zsh](http://ohmyz.sh/). It has a modular plugin architecture making it easy to extend. It has a rich set of defaults, but is designed to be as lightweight as possible.
+
+### [zert ![GitHub Repo Stars](https://img.shields.io/github/stars/oxcl/zert) ![GitHub last commit](https://img.shields.io/github/last-commit/oxcl/zert)](https://github.com/oxcl/zert)
+![GitHub last commit](https://img.shields.io/github/last-commit/oxcl/zert)
+ ![GitHub Repo stars](https://img.shields.io/github/stars/oxcl/zert)
+
+ **zert** is a pure-ZSH plugin manager built around a simple idea: your plugins should be declared directly in your `.zshrc`, pinned to exact commits, and reproducible on any machine — just like `npm` does for Node projects.
+
+No config files to maintain. No subcommands to memorize for adding plugins. No external tools. Just ZSH, `git`, and `curl`.
+
+Features
+
+* **Inline, declarative syntax** — declare plugins directly in `.zshrc`. No separate config file, no add command.
+* **Lockfile-based reproducibility** — `zert.lock` pins every plugin to an exact `git` commit SHA. Commit it. Share it. Reproduce it anywhere.
+* **Parallel installs** — clones multiple plugins simultaneously using `git clone --filter=tree:0` for minimal bandwidth.
+* **Sequential, ordered loading** — plugins are sourced in exactly the order you declare them. Always.
+* **Zero external UI dependencies** — real-time progress bars and spinners built entirely from ANSI escape codes.
+* **Self-managing** — Zert updates itself with `zert update zert`, managed as a first-class plugin.
+* **Oh-My-Zsh / Prezto compatibility** — load OMZ libs and Prezto modules without installing either framework.*
 
 ### [zgem ![GitHub Repo Stars](https://img.shields.io/github/stars/qoomon/zgem) ![GitHub last commit](https://img.shields.io/github/last-commit/qoomon/zgem)](https://github.com/qoomon/zgem)
 ![GitHub last commit](https://img.shields.io/github/last-commit/qoomon/zgem)
@@ -842,6 +861,7 @@ If you're looking for a new font to use, check out [www.codingfont.com](https://
 - [arc-prompt ![GitHub Repo Stars](https://img.shields.io/github/stars/dkryaklin/arc-zsh-plugin) ![GitHub last commit](https://img.shields.io/github/last-commit/dkryaklin/arc-zsh-plugin)](https://github.com/dkryaklin/arc-zsh-plugin) - Arc VCS prompt integration with branch display, status caching, operation mode detection, agnoster theme support, and aliases.
 - [arc-search ![GitHub Repo Stars](https://img.shields.io/github/stars/michaelsousajr/zsh-arc-search) ![GitHub last commit](https://img.shields.io/github/last-commit/michaelsousajr/zsh-arc-search)](https://github.com/michaelsousajr/zsh-arc-search) - Enables quick searches using Arc browser directly from your terminal. Features URL encoding for search terms.
 - [arc ![GitHub Repo Stars](https://img.shields.io/github/stars/anton-rudeshko/zsh-arc) ![GitHub last commit](https://img.shields.io/github/last-commit/anton-rudeshko/zsh-arc)](https://github.com/anton-rudeshko/zsh-arc) - Adds aliases for Yandex version control system.
+- [arch-aptstyle ![GitHub Repo Stars](https://img.shields.io/github/stars/MRoldL001/arch-aptstyle) ![GitHub last commit](https://img.shields.io/github/last-commit/MRoldL001/arch-aptstyle)](https://github.com/MRoldL001/arch-aptstyle) - Designed to provide Debian/Ubuntu-style `apt` command wrappers for users transitioning from those distributions to arch. Requires `yay` or `paru` for full functionality.
 - [archlinux (fourdim) ![GitHub Repo Stars](https://img.shields.io/github/stars/fourdim/zsh-archlinux) ![GitHub last commit](https://img.shields.io/github/last-commit/fourdim/zsh-archlinux)](https://github.com/fourdim/zsh-archlinux) - Defines helper functions for `pacman` on Arch Linux.
 - [archlinux (junker) ![GitHub Repo Stars](https://img.shields.io/github/stars/Junker/zsh-archlinux) ![GitHub last commit](https://img.shields.io/github/last-commit/Junker/zsh-archlinux)](https://github.com/Junker/zsh-archlinux) - Based on the oh-my-zsh [archlinux ![GitHub Repo Stars](https://img.shields.io/github/stars/ohmyzsh/ohmyzsh) ![GitHub last commit](https://img.shields.io/github/last-commit/ohmyzsh/ohmyzsh)](https://github.com/ohmyzsh/ohmyzsh/blob/master/plugins/archlinux) plugin. Defines helper functions and aliases.
 - [arduino ![GitHub Repo Stars](https://img.shields.io/github/stars/raghur/zsh-arduino) ![GitHub last commit](https://img.shields.io/github/last-commit/raghur/zsh-arduino)](https://github.com/raghur/zsh-arduino) - Adds scripts to build, upload and monitor arduino sketches from a command line. Requires [`jq`](https://stedolan.github.io/jq/).
@@ -1480,6 +1500,7 @@ If you're looking for a new font to use, check out [www.codingfont.com](https://
 - [php-version-switcher ![GitHub Repo Stars](https://img.shields.io/github/stars/Akollade/php-version-switcher.plugin.zsh) ![GitHub last commit](https://img.shields.io/github/last-commit/Akollade/php-version-switcher.plugin.zsh)](https://github.com/Akollade/php-version-switcher.plugin.zsh) - Changes php versions if a `.php-version` file is found.
 - [phpcs ![GitHub Repo Stars](https://img.shields.io/github/stars/voronkovich/phpcs.plugin.zsh) ![GitHub last commit](https://img.shields.io/github/last-commit/voronkovich/phpcs.plugin.zsh)](https://github.com/voronkovich/phpcs.plugin.zsh) - Plugin for [PHP code sniffer ![GitHub Repo Stars](https://img.shields.io/github/stars/squizlabs/PHP_CodeSniffer) ![GitHub last commit](https://img.shields.io/github/last-commit/squizlabs/PHP_CodeSniffer)](https://github.com/squizlabs/PHP_CodeSniffer).
 - [phpunit ![GitHub Repo Stars](https://img.shields.io/github/stars/voronkovich/phpunit.plugin.zsh) ![GitHub last commit](https://img.shields.io/github/last-commit/voronkovich/phpunit.plugin.zsh)](https://github.com/voronkovich/phpunit.plugin.zsh) - Plugin for [PHPUnit](https://phpunit.de/).
+- [pi ![GitHub Repo Stars](https://img.shields.io/github/stars/nearsyh/pi-zsh-plugin) ![GitHub last commit](https://img.shields.io/github/last-commit/nearsyh/pi-zsh-plugin)](https://github.com/nearsyh/pi-zsh-plugin) - Maps `:` commands in your shell to `pi -p` calls and keeps a per-shell `pi` session file for continuity.
 - [pins ![GitHub Repo Stars](https://img.shields.io/github/stars/mehalter/zsh-pins) ![GitHub last commit](https://img.shields.io/github/last-commit/mehalter/zsh-pins)](https://github.com/mehalter/zsh-pins) - A plugin for pinning directories. Like a CLI folder bookmark manager with tab completions.
 - [pip-app ![GitHub Repo Stars](https://img.shields.io/github/stars/sharat87/pip-app) ![GitHub last commit](https://img.shields.io/github/last-commit/sharat87/pip-app)](https://github.com/sharat87/pip-app) - Makes it easy to install python applications into distinct Python virtualenvs so they don't conflict with any other python requirements on your system.
 - [pip-env ![GitHub Repo Stars](https://img.shields.io/github/stars/iboyperson/zsh-pipenv) ![GitHub last commit](https://img.shields.io/github/last-commit/iboyperson/zsh-pipenv)](https://github.com/iboyperson/zsh-pipenv) - Automatic [pipenv](https://pipenv.readthedocs.io/en/latest/) activation upon entry into a `pipenv` project.
@@ -1495,6 +1516,7 @@ If you're looking for a new font to use, check out [www.codingfont.com](https://
 - [plugin-vscode ![GitHub Repo Stars](https://img.shields.io/github/stars/wuotr/zsh-plugin-vscode) ![GitHub last commit](https://img.shields.io/github/last-commit/wuotr/zsh-plugin-vscode)](https://github.com/wuotr/zsh-plugin-vscode) - Plugin for [Visual Studio Code](https://code.visualstudio.com/download), a text editor for macOS, Windows, and Linux.
 - [plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/darrenbutcher/plugin) ![GitHub last commit](https://img.shields.io/github/last-commit/darrenbutcher/plugin)](https://github.com/darrenbutcher/plugin) - Creates custom [oh-my-zsh](https://ohmyz.sh) plugins from a boilerplate template. Very oh-my-zsh centric, the generated plugins may need editing to work with other frameworks.
 - [pnpm (baliestri) ![GitHub Repo Stars](https://img.shields.io/github/stars/baliestri/pnpm.plugin.zsh) ![GitHub last commit](https://img.shields.io/github/last-commit/baliestri/pnpm.plugin.zsh)](https://github.com/baliestri/pnpm.plugin.zsh) - Adds useful aliases for many common [pnpm](https://pnpm.io/) commands. Includes tab-completions.
+- [pnpm (bgowers) ![GitHub Repo Stars](https://img.shields.io/github/stars/bgowers/omz-pnpm) ![GitHub last commit](https://img.shields.io/github/last-commit/bgowers/omz-pnpm)](https://github.com/bgowers/omz-pnpm) - Adds a small set of alias for the [pnpm](https://pnpm.io/) commands you actually type and tab-completions.
 - [pnpm (leizhenpeng) ![GitHub Repo Stars](https://img.shields.io/github/stars/Leizhenpeng/zsh-plugin-pnpm) ![GitHub last commit](https://img.shields.io/github/last-commit/Leizhenpeng/zsh-plugin-pnpm)](https://github.com/Leizhenpeng/zsh-plugin-pnpm) - Adds useful aliases for common [pnpm](https://pnpm.io/) commands.
 - [pnpm (mat2ja) ![GitHub Repo Stars](https://img.shields.io/github/stars/mat2ja/pnpm.plugin.zsh) ![GitHub last commit](https://img.shields.io/github/last-commit/mat2ja/pnpm.plugin.zsh)](https://github.com/mat2ja/pnpm.plugin.zsh) - Better [pnpm](https://pnpm.io/) aliases.
 - [pnpm (ntnyq) ![GitHub Repo Stars](https://img.shields.io/github/stars/ntnyq/omz-plugin-pnpm) ![GitHub last commit](https://img.shields.io/github/last-commit/ntnyq/omz-plugin-pnpm)](https://github.com/ntnyq/omz-plugin-pnpm) - Adds useful aliases for common [pnpm](https://pnpm.io/) commands.
@@ -1741,6 +1763,7 @@ If you're looking for a new font to use, check out [www.codingfont.com](https://
 - [ubuntualiases ![GitHub Repo Stars](https://img.shields.io/github/stars/GuilleDF/zsh-ubuntualiases) ![GitHub last commit](https://img.shields.io/github/last-commit/GuilleDF/zsh-ubuntualiases)](https://github.com/GuilleDF/zsh-ubuntualiases) - Ubuntu 16 aliases.
 - [ugit ![GitHub Repo Stars](https://img.shields.io/github/stars/Bhupesh-V/ugit) ![GitHub last commit](https://img.shields.io/github/last-commit/Bhupesh-V/ugit)](https://github.com/Bhupesh-V/ugit) - Lets you undo your last `git` operation.
 - [uncloudium ![GitHub Repo Stars](https://img.shields.io/github/stars/Talon1024/omz-uncloudium) ![GitHub last commit](https://img.shields.io/github/last-commit/Talon1024/omz-uncloudium)](https://github.com/Talon1024/omz-uncloudium) - Adds helper script to download crx files from the Google Chrome web store.
+- [undo-dir ![GitHub Repo Stars](https://img.shields.io/github/stars/allisnulll/zsh-undo-dir) ![GitHub last commit](https://img.shields.io/github/last-commit/allisnulll/zsh-undo-dir)](https://github.com/allisnulll/zsh-undo-dir) - Undo and redo current working directory changes.
 - [undollar ![GitHub Repo Stars](https://img.shields.io/github/stars/zpm-zsh/undollar) ![GitHub last commit](https://img.shields.io/github/last-commit/zpm-zsh/undollar)](https://github.com/zpm-zsh/undollar) - Strips the dollar sign from the beginning of the terminal prompt.
 - [unique-id ![GitHub Repo Stars](https://img.shields.io/github/stars/z-shell/zsh-unique-id) ![GitHub last commit](https://img.shields.io/github/last-commit/z-shell/zsh-unique-id)](https://github.com/z-shell/zsh-unique-id) - Provides a unique number that identifies a running Zshell session, in its shell variable `$ZUID_ID`. Besides this unique number, also a unique codename is provided, in shell variable `$ZUID_CODENAME`. An example use case is to hold logs in files `.../mylog-${ZUID_CODENAME}.log`, so that two different Zshells will not write to the same file at the same time.
 - [unix-simple ![GitHub Repo Stars](https://img.shields.io/github/stars/redxtech/zsh-unix-simple) ![GitHub last commit](https://img.shields.io/github/last-commit/redxtech/zsh-unix-simple)](https://github.com/redxtech/zsh-unix-simple) - A command that shows a graphic about the simplicity of unix.
