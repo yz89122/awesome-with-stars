@@ -739,6 +739,7 @@ If you enjoy this awesome list and would like to support it, check out my [Patre
 - [Acra ![GitHub Repo Stars](https://img.shields.io/github/stars/cossacklabs/acra) ![GitHub last commit](https://img.shields.io/github/last-commit/cossacklabs/acra)](https://github.com/cossacklabs/acra) - Client-side encryption engine for SQL databases, with strong selective encryption, SQL injections prevention and intrusion detection by [@cossacklabs](https://www.cossacklabs.com/).
 - [DOMPurify ![GitHub Repo Stars](https://img.shields.io/github/stars/cure53/DOMPurify) ![GitHub last commit](https://img.shields.io/github/last-commit/cure53/DOMPurify)](https://github.com/cure53/DOMPurify) - DOM-only, super-fast, uber-tolerant XSS sanitizer for HTML, MathML and SVG by [Cure53](https://cure53.de/).
 - [Csper](https://csper.io) - A set of tools for building/evaluating/monitoring content-security-policy to prevent/detect cross site scripting by [Csper](https://csper.io).
+- [UUSEC WAF ![GitHub Repo Stars](https://img.shields.io/github/stars/Safe3/uusec-waf) ![GitHub last commit](https://img.shields.io/github/last-commit/Safe3/uusec-waf)](https://github.com/Safe3/uusec-waf/) - An open-source web application firewall and API security gateway maintained by [UUCORP](https://github.com/Safe3/).
 
 <a name="tools-proxy"></a>
 ### Proxy
