@@ -219,7 +219,7 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 ### Core Image
 
 * [Interpolation Playground ![GitHub Repo Stars](https://img.shields.io/github/stars/FlexMonkey/Interpolation-Playground-) ![GitHub last commit](https://img.shields.io/github/last-commit/FlexMonkey/Interpolation-Playground-)](https://github.com/FlexMonkey/Interpolation-Playground-) - Playground demonstrating lerp, smooth step, Catcall-Rom and others! ⏳
-* [CoreImage for Swift Playgrounds ![GitHub Repo Stars](https://img.shields.io/github/stars/FlexMonkey/CoreImageForSwiftPlaygrounds) ![GitHub last commit](https://img.shields.io/github/last-commit/FlexMonkey/CoreImageForSwiftPlaygrounds)](https://github.com/FlexMonkey/CoreImageForSwiftPlaygrounds) - Growing collection of CoreImage playgrounds from the upcoming book "CoreImage For Swift". ��� ⏳
+* [CoreImage for Swift Playgrounds ![GitHub Repo Stars](https://img.shields.io/github/stars/FlexMonkey/CoreImageForSwiftPlaygrounds) ![GitHub last commit](https://img.shields.io/github/last-commit/FlexMonkey/CoreImageForSwiftPlaygrounds)](https://github.com/FlexMonkey/CoreImageForSwiftPlaygrounds) - Growing collection of CoreImage playgrounds from the upcoming book "CoreImage For Swift". 🌟 ⏳
 * [Image Processor ![GitHub Repo Stars](https://img.shields.io/github/stars/mortenbrudvik/ImageProcessor) ![GitHub last commit](https://img.shields.io/github/last-commit/mortenbrudvik/ImageProcessor)](https://github.com/mortenbrudvik/ImageProcessor) - Implementing different image filter algorithms. ⏳
 
 ### Metal
@@ -252,7 +252,7 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 * [Bach Playground ![GitHub Repo Stars](https://img.shields.io/github/stars/dreamwieber/BachPlayground) ![GitHub last commit](https://img.shields.io/github/last-commit/dreamwieber/BachPlayground)](https://github.com/dreamwieber/BachPlayground) - A Simple Swift Playground that plays a brief piece by Bach with AVAudioEngine and AVMIDIPlayer.
 * [PlayerNode Playground ![GitHub Repo Stars](https://img.shields.io/github/stars/genedelisa/PlayerNodePlayground) ![GitHub last commit](https://img.shields.io/github/last-commit/genedelisa/PlayerNodePlayground)](https://github.com/genedelisa/PlayerNodePlayground) - Playground using AVAudioEngine with a playernode and effects to play an audio file. 🌟
 * [Miles ![GitHub Repo Stars](https://img.shields.io/github/stars/lalomts/Miles) ![GitHub last commit](https://img.shields.io/github/last-commit/lalomts/Miles)](https://github.com/lalomts/Miles) - A Swift Playground that creates jazz improvisations in any key using AudioToolbox and AVFoundation. 
-* [Rhythm Snap ![GitHub Repo Stars](https://img.shields.io/github/stars/carlosmbe/Rhythm-Snap) ![GitHub last commit](https://img.shields.io/github/last-commit/carlosmbe/Rhythm-Snap)](https://github.com/carlosmbe/Rhythm-Snap) - A Swift Playground using Vision and AVFoundation to help you practice rhythm in a fun way.🍁
+* [Rhythm Snap ![GitHub Repo Stars](https://img.shields.io/github/stars/carlosmbe/Rhythm-Snap) ![GitHub last commit](https://img.shields.io/github/last-commit/carlosmbe/Rhythm-Snap)](https://github.com/carlosmbe/Rhythm-Snap) - A Swift Playground using Vision and AVFoundation to help you practice rhythm in a fun way.���
 
 
 ## Mathematics

@@ -345,7 +345,7 @@ _Helpers that make automations easier to write, debug, and maintain._
 
 - [The Watchman ![GitHub Repo Stars](https://img.shields.io/github/stars/dummylabs/thewatchman) ![GitHub last commit](https://img.shields.io/github/last-commit/dummylabs/thewatchman)](https://github.com/dummylabs/thewatchman) - Keep track of missing entities and services in your config files (643★).
 - [Browser Mod ![GitHub Repo Stars](https://img.shields.io/github/stars/thomasloven/hass-browser_mod) ![GitHub last commit](https://img.shields.io/github/last-commit/thomasloven/hass-browser_mod)](https://github.com/thomasloven/hass-browser_mod) - Turn each browser into a controllable entity: pop up cards, navigate views, play sounds, or detect who is looking at the dashboard (1,730★).
-- [Pyscript ![GitHub Repo Stars](https://img.shields.io/github/stars/custom-components/pyscript) ![GitHub last commit](https://img.shields.io/github/last-commit/custom-components/pyscript)](https://github.com/custom-components/pyscript) - Write automations and templates in Python instead of YAML (1,150★).
+- [Pyscript ![GitHub Repo Stars](https://img.shields.io/github/stars/custom-components/pyscript) ![GitHub last commit](https://img.shields.io/github/last-commit/custom-components/pyscript)](https://github.com/custom-components/pyscript) - Write automations and templates in Python instead of YAML (1,150��).
 - [Spook ![GitHub Repo Stars](https://img.shields.io/github/stars/frenck/spook) ![GitHub last commit](https://img.shields.io/github/last-commit/frenck/spook)](https://github.com/frenck/spook) - A toolbox of helpful sensors, services, and templates that surface things the UI normally hides (1,112★).
 - [Scheduler Component ![GitHub Repo Stars](https://img.shields.io/github/stars/nielsfaber/scheduler-component) ![GitHub last commit](https://img.shields.io/github/last-commit/nielsfaber/scheduler-component)](https://github.com/nielsfaber/scheduler-component) - Build weekly schedules for any entity through a card-driven UI, no YAML required (874★).
 - [Node-RED Companion ![GitHub Repo Stars](https://img.shields.io/github/stars/zachowj/hass-node-red) ![GitHub last commit](https://img.shields.io/github/last-commit/zachowj/hass-node-red)](https://github.com/zachowj/hass-node-red) - Companion component for the node-red-contrib-home-assistant-websocket project that exposes services, sensors, and binary sensors back to your dashboards (568★).
@@ -575,7 +575,7 @@ _Custom icon sets you install through HACS to replace or extend the default icon
 
 _Need a database, a reverse proxy, an MQTT broker (the messaging service many smart-home devices use), or another tool running alongside Home Assistant? Apps, formerly called Add-ons, let you install them straight into Home Assistant OS. No Docker, no separate server, no command line required._
 
-### ���️ Official Apps
+### 🛡️ Official Apps
 
 _Created and maintained by the Home Assistant team._
 
@@ -648,7 +648,7 @@ _Some of the best smart-home gadgets do not exist as products you can buy, but o
 
 _Helpers, daemons, and developer tools that sit alongside Home Assistant rather than inside it. Useful for editing your config, debugging your data, sending device data over MQTT, or wiring HA into a wider workflow._
 
-- [HASS Configurator ![GitHub Repo Stars](https://img.shields.io/github/stars/danielperna84/hass-configurator) ![GitHub last commit](https://img.shields.io/github/last-commit/danielperna84/hass-configurator)](https://github.com/danielperna84/hass-configurator) - Browser-based configuration file editor (335★).
+- [HASS Configurator ![GitHub Repo Stars](https://img.shields.io/github/stars/danielperna84/hass-configurator) ![GitHub last commit](https://img.shields.io/github/last-commit/danielperna84/hass-configurator)](https://github.com/danielperna84/hass-configurator) - Browser-based configuration file editor (335��).
 - [HA-Dockermon ![GitHub Repo Stars](https://img.shields.io/github/stars/philhawthorne/ha-dockermon) ![GitHub last commit](https://img.shields.io/github/last-commit/philhawthorne/ha-dockermon)](https://github.com/philhawthorne/ha-dockermon) - A Node.js service for RESTful switches to control Docker containers (291★).
 - [Home Assistant Device Database](https://www.hadevices.com/) - Database of supported/confirmed working devices.
 - [Jinja Scripts for Curious Minds ![GitHub Repo Stars](https://img.shields.io/github/stars/skalavala/mysmarthome) ![GitHub last commit](https://img.shields.io/github/last-commit/skalavala/mysmarthome)](https://github.com/skalavala/mysmarthome/tree/master/jinja_helpers) - Bunch of Jinja2 scripts helping you to understand it better.
