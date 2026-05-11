@@ -804,6 +804,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [eslint-config-neon ![GitHub Repo Stars](https://img.shields.io/github/stars/iCrawl/eslint-config-neon) ![GitHub last commit](https://img.shields.io/github/last-commit/iCrawl/eslint-config-neon)](https://github.com/iCrawl/eslint-config-neon) - A comprehensive shareable ESLint configuration.
 * [eslint-config-angular ![GitHub Repo Stars](https://img.shields.io/github/stars/noneforge/eslint-config-angular) ![GitHub last commit](https://img.shields.io/github/last-commit/noneforge/eslint-config-angular)](https://github.com/noneforge/eslint-config-angular) - Comprehensive Angular ESLint configuration with TypeScript support, component/template rules, accessibility, and CSS linting.
 * [linters ![GitHub Repo Stars](https://img.shields.io/github/stars/developer239/linters) ![GitHub last commit](https://img.shields.io/github/last-commit/developer239/linters)](https://github.com/developer239/linters) - Collection of super strict configurations for ESLint / StyleLint and other code quality tools.
+* [eslint-plugin-angular-class-ordering ![GitHub Repo Stars](https://img.shields.io/github/stars/Leritas/eslint-plugin-angular-class-ordering) ![GitHub last commit](https://img.shields.io/github/last-commit/Leritas/eslint-plugin-angular-class-ordering)](https://github.com/Leritas/eslint-plugin-angular-class-ordering) - ESLint plugin that keeps Angular class members (fields and methods) in a consistent order with auto-fix functionality.
 
 ### Networking
 
