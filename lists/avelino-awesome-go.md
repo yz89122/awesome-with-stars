@@ -236,6 +236,7 @@ _Libraries for building programs that leverage AI._
 - [OllamaFarm ![GitHub Repo Stars](https://img.shields.io/github/stars/presbrey/ollamafarm) ![GitHub last commit](https://img.shields.io/github/last-commit/presbrey/ollamafarm)](https://github.com/presbrey/ollamafarm) - Manage, load-balance, and failover packs of Ollamas.
 - [otellix ![GitHub Repo Stars](https://img.shields.io/github/stars/oluwajubelo1/otellix) ![GitHub last commit](https://img.shields.io/github/last-commit/oluwajubelo1/otellix)](https://github.com/oluwajubelo1/otellix) - OpenTelemetry-native LLM observability and budget guardrails for cost-constrained production environments.
 - [routex ![GitHub Repo Stars](https://img.shields.io/github/stars/Ad3bay0c/routex) ![GitHub last commit](https://img.shields.io/github/last-commit/Ad3bay0c/routex)](https://github.com/Ad3bay0c/routex) - YAML-driven multi-agent AI runtime for Go with Erlang-style supervision, MCP tool server support, and a CLI.
+- [zenflow ![GitHub Repo Stars](https://img.shields.io/github/stars/zendev-sh/zenflow) ![GitHub last commit](https://img.shields.io/github/last-commit/zendev-sh/zenflow)](https://github.com/zendev-sh/zenflow) - Multi-agent orchestration & workflow engine. Declarative YAML workflows, LLM coordinator with hub-and-spoke mailboxes, race-safe delivery. One YAML file, one Go binary. Runs on any goai-supported provider.
 
 **[⬆ back to top](#contents)**
 
