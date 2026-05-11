@@ -16,6 +16,7 @@ What kind of games can you make in GameMaker? [Check out this list.](https://ste
 - [Data Manipulation](#data-manipulation)
 - [Native Extensions](#native-extensions)
 - [Timing](#timing)
+- [Async](#async)
 - [Utilities](#utilities)
 - [Tools](#tools)
 - [Debugging](#debugging)
@@ -74,7 +75,6 @@ This includes data structures and file formats that do not fit into a more speci
 - [Map ![GitHub Repo Stars](https://img.shields.io/github/stars/GameMakerDiscord/Map.gml) ![GitHub last commit](https://img.shields.io/github/last-commit/GameMakerDiscord/Map.gml)](https://github.com/GameMakerDiscord/Map.gml) - Hash table implementations.
 - [Matrices ![GitHub Repo Stars](https://img.shields.io/github/stars/JujuAdams/matrices) ![GitHub last commit](https://img.shields.io/github/last-commit/JujuAdams/matrices)](https://github.com/JujuAdams/matrices) - A collection of matrix handling scripts.
 - [gm-stream ![GitHub Repo Stars](https://img.shields.io/github/stars/daikon-games/gm-stream) ![GitHub last commit](https://img.shields.io/github/last-commit/daikon-games/gm-stream)](https://github.com/daikon-games/gm-stream) - Data structure manipulation.
-- [Promises ![GitHub Repo Stars](https://img.shields.io/github/stars/YAL-GameMaker/Promise.gml) ![GitHub last commit](https://img.shields.io/github/last-commit/YAL-GameMaker/Promise.gml)](https://github.com/YAL-GameMaker/Promise.gml) - An adaptation of JavaScript Promises.
 - [ForEach ![GitHub Repo Stars](https://img.shields.io/github/stars/KeeVeeGames/foreach.gml) ![GitHub last commit](https://img.shields.io/github/last-commit/KeeVeeGames/foreach.gml)](https://github.com/KeeVeeGames/foreach.gml) - Adds a foreach implementation for arrays, ds_lists, ds_maps, ds_stacks, ds_queues, ds_priorities and structs.
 - [DeepCopy ![GitHub Repo Stars](https://img.shields.io/github/stars/KeeVeeGames/DeepCopy.gml) ![GitHub last commit](https://img.shields.io/github/last-commit/KeeVeeGames/DeepCopy.gml)](https://github.com/KeeVeeGames/DeepCopy.gml) - Deep clone class instances / constructed structs, anonymous structs and arrays nested in any order!
 - [Cottonwool ![GitHub Repo Stars](https://img.shields.io/github/stars/JujuAdams/Cottonwool) ![GitHub last commit](https://img.shields.io/github/last-commit/JujuAdams/Cottonwool)](https://github.com/JujuAdams/Cottonwool) - Safe surfaces without memory leaks.
@@ -128,6 +128,14 @@ Custom timers, timelines, and task scheduling.
 - [GMTimeLine ![GitHub Repo Stars](https://img.shields.io/github/stars/TimVN/GMTimeLine) ![GitHub last commit](https://img.shields.io/github/last-commit/TimVN/GMTimeLine)](https://github.com/TimVN/GMTimeLine) - A pure code alternative to GameMaker timelines.
 - [Agenda ![GitHub Repo Stars](https://img.shields.io/github/stars/benal20/Agenda.gml) ![GitHub last commit](https://img.shields.io/github/last-commit/benal20/Agenda.gml)](https://github.com/benal20/Agenda.gml) - Schedule and delay the execution of callbacks.
 
+## Async
+
+- [Coroutines ![GitHub Repo Stars](https://img.shields.io/github/stars/JujuAdams/Coroutines) ![GitHub last commit](https://img.shields.io/github/last-commit/JujuAdams/Coroutines)](https://github.com/JujuAdams/Coroutines) - Asynchronous functions for GameMaker.
+- [SimThreads ![GitHub Repo Stars](https://img.shields.io/github/stars/tabularelf/SimThreads) ![GitHub last commit](https://img.shields.io/github/last-commit/tabularelf/SimThreads)](https://github.com/tabularelf/SimThreads) - Simulated threads for GameMaker.
+- [MultiProcessing ![GitHub Repo Stars](https://img.shields.io/github/stars/tinkerer-red/MultiProcessing) ![GitHub last commit](https://img.shields.io/github/last-commit/tinkerer-red/MultiProcessing)](https://github.com/tinkerer-red/MultiProcessing) - A proof of concept for multiprocessing in GameMaker.
+- [Promises ![GitHub Repo Stars](https://img.shields.io/github/stars/YAL-GameMaker/Promise.gml) ![GitHub last commit](https://img.shields.io/github/last-commit/YAL-GameMaker/Promise.gml)](https://github.com/YAL-GameMaker/Promise.gml) - An adaptation of JavaScript Promises.
+- [GML Promise ![GitHub Repo Stars](https://img.shields.io/github/stars/tinkerer-red/GML-Promise) ![GitHub last commit](https://img.shields.io/github/last-commit/tinkerer-red/GML-Promise)](https://github.com/tinkerer-red/GML-Promise) - Another JS-style promise library.
+
 ## Utilities
 
 - [gm-core](https://github.com/gm-core) - Foundational utility suite and a great starting point for new GameMaker projects. Comes with quality of life methods, networking tools, testing framework, delta timing, and more.
@@ -138,7 +146,6 @@ Custom timers, timelines, and task scheduling.
 - [Broadcast ![GitHub Repo Stars](https://img.shields.io/github/stars/JulianDicken/Broadcast) ![GitHub last commit](https://img.shields.io/github/last-commit/JulianDicken/Broadcast)](https://github.com/JulianDicken/Broadcast) - Event handling library.
 - [Polarca ![GitHub Repo Stars](https://img.shields.io/github/stars/VitorEstevam/polarca) ![GitHub last commit](https://img.shields.io/github/last-commit/VitorEstevam/polarca)](https://github.com/VitorEstevam/polarca) - Interpolation functions.
 - [Twerp](https://pixelatedpope.itch.io/twerp) - Easing function similar to lerp().
-- [Coroutines ![GitHub Repo Stars](https://img.shields.io/github/stars/JujuAdams/Coroutines) ![GitHub last commit](https://img.shields.io/github/last-commit/JujuAdams/Coroutines)](https://github.com/JujuAdams/Coroutines) - Asynchronous functions for GameMaker.
 - [Dynamo ![GitHub Repo Stars](https://img.shields.io/github/stars/JujuAdams/Dynamo) ![GitHub last commit](https://img.shields.io/github/last-commit/JujuAdams/Dynamo)](https://github.com/JujuAdams/Dynamo) - Dynamic data loader.
 - [Gumshoe ![GitHub Repo Stars](https://img.shields.io/github/stars/JujuAdams/Gumshoe) ![GitHub last commit](https://img.shields.io/github/last-commit/JujuAdams/Gumshoe)](https://github.com/JujuAdams/Gumshoe) - Simple deep file search function.
 - [Mathematical Scripts ![GitHub Repo Stars](https://img.shields.io/github/stars/adam-rumpf/game-maker-scripts) ![GitHub last commit](https://img.shields.io/github/last-commit/adam-rumpf/game-maker-scripts)](https://github.com/adam-rumpf/game-maker-scripts) - A collection of math scripts.
@@ -157,7 +164,6 @@ Custom timers, timelines, and task scheduling.
 - [Catspeak ![GitHub Repo Stars](https://img.shields.io/github/stars/katsaii/catspeak-lang) ![GitHub last commit](https://img.shields.io/github/last-commit/katsaii/catspeak-lang)](https://github.com/katsaii/catspeak-lang) - Cross-platform programming language for modding support.
 - [JITSpeak ![GitHub Repo Stars](https://img.shields.io/github/stars/BenjaminUrquhart/JITSpeak) ![GitHub last commit](https://img.shields.io/github/last-commit/BenjaminUrquhart/JITSpeak)](https://github.com/BenjaminUrquhart/JITSpeak) - Improves Catspeak performance.
 - [GMBenchmark ![GitHub Repo Stars](https://img.shields.io/github/stars/DragoniteSpam/GMBenchmark) ![GitHub last commit](https://img.shields.io/github/last-commit/DragoniteSpam/GMBenchmark)](https://github.com/DragoniteSpam/GMBenchmark) - A tool to benchmark GML code.
-- [GML-Multiprocessing ![GitHub Repo Stars](https://img.shields.io/github/stars/tinkerer-red/GML-Multiprocessing) ![GitHub last commit](https://img.shields.io/github/last-commit/tinkerer-red/GML-Multiprocessing)](https://github.com/tinkerer-red/GML-Multiprocessing) - A proof of concept for multiprocessing.
 - [Figgy ![GitHub Repo Stars](https://img.shields.io/github/stars/glebtsereteli/Figgy) ![GitHub last commit](https://img.shields.io/github/last-commit/glebtsereteli/Figgy)](https://github.com/glebtsereteli/Figgy) - Centralized and persistent live configs for seamless game tuning and balancing.
 - [RenderStack ![GitHub Repo Stars](https://img.shields.io/github/stars/FoxyOfJungle/RenderStack) ![GitHub last commit](https://img.shields.io/github/last-commit/FoxyOfJungle/RenderStack)](https://github.com/FoxyOfJungle/RenderStack) - Organize your game's rendering into a customizable order.
 - [GMLiteSearch ![GitHub Repo Stars](https://img.shields.io/github/stars/erkan612/GMLiteSearch) ![GitHub last commit](https://img.shields.io/github/last-commit/erkan612/GMLiteSearch)](https://github.com/erkan612/GMLiteSearch) - Fast, flexible full‑text search for GameMaker. Built for small to medium datasets (10k‑50k+ docs) with real‑time indexing, fuzzy search, n‑grams, BM25/TF‑IDF scoring, and persistence.
@@ -233,6 +239,8 @@ Things that work with project files or GameMaker itself rather than being someth
 - [SimpleUI ![GitHub Repo Stars](https://img.shields.io/github/stars/evolutionleo/SimpleUI) ![GitHub last commit](https://img.shields.io/github/last-commit/evolutionleo/SimpleUI)](https://github.com/evolutionleo/SimpleUI) - Minimalistic UI framework.
 - [LimeUI ![GitHub Repo Stars](https://img.shields.io/github/stars/Limekys/LimeUI) ![GitHub last commit](https://img.shields.io/github/last-commit/Limekys/LimeUI)](https://github.com/Limekys/LimeUI) - Flexpanel system for modern, touch-friendly interfaces.
 - [Bento ![GitHub Repo Stars](https://img.shields.io/github/stars/JujuAdams/Bento) ![GitHub last commit](https://img.shields.io/github/last-commit/JujuAdams/Bento)](https://github.com/JujuAdams/Bento) - Cross-platform UI framework.
+- [InteractiveBooks](https://marketplace.gamemaker.io/assets/4858/now-free-interactive-books) - Highly flexible, interactable books.
+- [SimpleBook ![GitHub Repo Stars](https://img.shields.io/github/stars/Gizmo199/SimpleBook) ![GitHub last commit](https://img.shields.io/github/last-commit/Gizmo199/SimpleBook)](https://github.com/Gizmo199/SimpleBook) - Simple book rendering framework.
 
 ## Localization
 
