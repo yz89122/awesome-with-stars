@@ -575,7 +575,7 @@ _Custom icon sets you install through HACS to replace or extend the default icon
 
 _Need a database, a reverse proxy, an MQTT broker (the messaging service many smart-home devices use), or another tool running alongside Home Assistant? Apps, formerly called Add-ons, let you install them straight into Home Assistant OS. No Docker, no separate server, no command line required._
 
-### 🛡️ Official Apps
+### ����️ Official Apps
 
 _Created and maintained by the Home Assistant team._
 
