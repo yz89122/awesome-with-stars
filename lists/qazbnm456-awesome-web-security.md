@@ -659,6 +659,7 @@ If you enjoy this awesome list and would like to support it, check out my [Patre
 - [wpscan ![GitHub Repo Stars](https://img.shields.io/github/stars/wpscanteam/wpscan) ![GitHub last commit](https://img.shields.io/github/last-commit/wpscanteam/wpscan)](https://github.com/wpscanteam/wpscan) - WPScan is a black box WordPress vulnerability scanner by [@wpscanteam](https://github.com/wpscanteam).
 - [WAScan ![GitHub Repo Stars](https://img.shields.io/github/stars/m4ll0k/WAScan) ![GitHub last commit](https://img.shields.io/github/last-commit/m4ll0k/WAScan)](https://github.com/m4ll0k/WAScan) - Is an open source web application security scanner that uses "black-box" method, created by [@m4ll0k](https://github.com/m4ll0k).
 - [Nuclei ![GitHub Repo Stars](https://img.shields.io/github/stars/projectdiscovery/nuclei) ![GitHub last commit](https://img.shields.io/github/last-commit/projectdiscovery/nuclei)](https://github.com/projectdiscovery/nuclei) - Nuclei is a fast tool for configurable targeted scanning based on templates offering massive extensibility and ease of use by [@projectdiscovery](https://github.com/projectdiscovery).
+- [ZAP by Checkmarx](https://zaproxy.org) - Open-source web application security scanner maintained by the ZAP Core Team.
 
 <a name="tools-penetration-testing"></a>
 ### Penetration Testing
