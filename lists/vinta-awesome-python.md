@@ -50,6 +50,7 @@ An opinionated guide to the best Python frameworks, libraries, tools, and resour
 **Data & Science**
 
 - [Data Analysis](#data-analysis)
+- [Data Ingestion / ETL](#data-ingestion--etl)
 - [Data Validation](#data-validation)
 - [Data Visualization](#data-visualization)
 - [Geolocation](#geolocation)
@@ -484,6 +485,12 @@ _Libraries for data analysis._
   - [lumibot ![GitHub Repo Stars](https://img.shields.io/github/stars/Lumiwealth/lumibot) ![GitHub last commit](https://img.shields.io/github/last-commit/Lumiwealth/lumibot)](https://github.com/Lumiwealth/lumibot) - Algorithmic trading framework for backtesting and live deployment across stocks, options, crypto, futures, and forex.
   - [openbb ![GitHub Repo Stars](https://img.shields.io/github/stars/OpenBB-finance/OpenBB) ![GitHub last commit](https://img.shields.io/github/last-commit/OpenBB-finance/OpenBB)](https://github.com/OpenBB-finance/OpenBB) - A financial data platform for analysts, quants and AI agents.
   - [yfinance ![GitHub Repo Stars](https://img.shields.io/github/stars/ranaroussi/yfinance) ![GitHub last commit](https://img.shields.io/github/last-commit/ranaroussi/yfinance)](https://github.com/ranaroussi/yfinance) - Easy Pythonic way to download market and financial data from Yahoo Finance.
+  
+### Data Ingestion / ETL
+
+_Libraries for extracting data from external sources and loading it into databases, warehouses, and lakehouses._
+
+- [dlt ![GitHub Repo Stars](https://img.shields.io/github/stars/dlt-hub/dlt) ![GitHub last commit](https://img.shields.io/github/last-commit/dlt-hub/dlt)](https://github.com/dlt-hub/dlt) - A Python library for building data pipelines with automatic schema inference, incremental loading, and support for multiple sources and destinations.
 
 ### Data Validation
 
@@ -605,7 +612,6 @@ _Tools of static analysis, linters and code quality checkers. Also see [awesome-
   - [flake8 ![GitHub Repo Stars](https://img.shields.io/github/stars/PyCQA/flake8) ![GitHub last commit](https://img.shields.io/github/last-commit/PyCQA/flake8)](https://github.com/PyCQA/flake8) - A wrapper around `pycodestyle`, `pyflakes` and McCabe.
     - [awesome-flake8-extensions ![GitHub Repo Stars](https://img.shields.io/github/stars/DmytroLitvinov/awesome-flake8-extensions) ![GitHub last commit](https://img.shields.io/github/last-commit/DmytroLitvinov/awesome-flake8-extensions)](https://github.com/DmytroLitvinov/awesome-flake8-extensions)
   - [pylint ![GitHub Repo Stars](https://img.shields.io/github/stars/pylint-dev/pylint) ![GitHub last commit](https://img.shields.io/github/last-commit/pylint-dev/pylint)](https://github.com/pylint-dev/pylint) - A fully customizable source code analyzer.
-  - [ruff ![GitHub Repo Stars](https://img.shields.io/github/stars/astral-sh/ruff) ![GitHub last commit](https://img.shields.io/github/last-commit/astral-sh/ruff)](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter.
 - Code Formatters
   - [black ![GitHub Repo Stars](https://img.shields.io/github/stars/psf/black) ![GitHub last commit](https://img.shields.io/github/last-commit/psf/black)](https://github.com/psf/black) - The uncompromising Python code formatter.
   - [isort ![GitHub Repo Stars](https://img.shields.io/github/stars/PyCQA/isort) ![GitHub last commit](https://img.shields.io/github/last-commit/PyCQA/isort)](https://github.com/PyCQA/isort) - A Python utility / library to sort imports.
