@@ -54,6 +54,7 @@
 - [Preact Router ![GitHub Repo Stars](https://img.shields.io/github/stars/developit/preact-router) ![GitHub last commit](https://img.shields.io/github/last-commit/developit/preact-router)](https://github.com/developit/preact-router) - URL router for Preact.
 - [Preact Route Async ![GitHub Repo Stars](https://img.shields.io/github/stars/mjanssen/preact-route-async) ![GitHub last commit](https://img.shields.io/github/last-commit/mjanssen/preact-route-async)](https://github.com/mjanssen/preact-route-async) - A (440b gzip) route component that enables async loading of page-components.
 - [Wouter ![GitHub Repo Stars](https://img.shields.io/github/stars/molefrog/wouter) ![GitHub last commit](https://img.shields.io/github/last-commit/molefrog/wouter)](https://github.com/molefrog/wouter) - A tiny (1KB gzip) router for Preact/React with React Router-like API.
+- [Ufbr ![GitHub Repo Stars](https://img.shields.io/github/stars/zakarialaoui10/ufbr) ![GitHub last commit](https://img.shields.io/github/last-commit/zakarialaoui10/ufbr)](https://github.com/zakarialaoui10/ufbr) - A tiny client side universal file-based router with `Preact` support.
 
 ### Components
 - [Preact Material Components ![GitHub Repo Stars](https://img.shields.io/github/stars/prateekbh/preact-material-components) ![GitHub last commit](https://img.shields.io/github/last-commit/prateekbh/preact-material-components)](https://github.com/prateekbh/preact-material-components) - Preact wrapper for "Material Components for the web".
@@ -105,6 +106,7 @@
 - [HelloCSV](https://hellocsv.github.io/HelloCSV/) - Modern, elegant, drop-in CSV importer, built in Preact. Flatfile alternative.
 - [Vski Table](https://table.vski.ai) - Datagrid component built with Preact.
 - [Kamod UI ![GitHub Repo Stars](https://img.shields.io/github/stars/kamod-ch/kamod-ui) ![GitHub last commit](https://img.shields.io/github/last-commit/kamod-ch/kamod-ui)](https://github.com/kamod-ch/kamod-ui) - Lightweight Preact and Tailwind UI components (shadcn-style approach) *([demo](https://kamod-ch.github.io/kamod-ui/))*.
+- [Preact Filter Builder ![GitHub Repo Stars](https://img.shields.io/github/stars/dimidd/preact-filter-builder) ![GitHub last commit](https://img.shields.io/github/last-commit/dimidd/preact-filter-builder)](https://github.com/dimidd/preact-filter-builder) - A reusable Preact-based filter builder UI component with AND/OR boolean connectors *([demo](https://cute-empanada-425012.netlify.app/))*.
 
 ### Libraries
 - [Redux Zero ![GitHub Repo Stars](https://img.shields.io/github/stars/concretesolutions/redux-zero) ![GitHub last commit](https://img.shields.io/github/last-commit/concretesolutions/redux-zero)](https://github.com/concretesolutions/redux-zero) - A lightweight state container based on Redux with a single store and no reducers.
