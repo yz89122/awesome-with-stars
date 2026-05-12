@@ -1,4 +1,4 @@
-# Awesome Terraform [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) <!-- omit in toc -->
+# Awesome Terraform [![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) <!-- omit in toc -->
 
 [![Link Checker ![GitHub Repo Stars](https://img.shields.io/github/stars/shuaibiyy/awesome-tf) ![GitHub last commit](https://img.shields.io/github/last-commit/shuaibiyy/awesome-tf)](https://github.com/shuaibiyy/awesome-tf/actions/workflows/link-checker.yml/badge.svg)](https://github.com/shuaibiyy/awesome-tf/actions/workflows/link-checker.yml)
 [![Misspell Check ![GitHub Repo Stars](https://img.shields.io/github/stars/shuaibiyy/awesome-tf) ![GitHub last commit](https://img.shields.io/github/last-commit/shuaibiyy/awesome-tf)](https://github.com/shuaibiyy/awesome-tf/actions/workflows/misspell.yml/badge.svg)](https://github.com/shuaibiyy/awesome-tf/actions/workflows/misspell.yml)
@@ -17,6 +17,7 @@ Terraform enables you to safely and predictably create, change, and improve prod
 - [Community](#community)
 - [Books](#books)
 - [Learning and Studying](#learning-and-studying)
+- [Apps](#apps)
 - [Tutorials and Blog Posts](#tutorials-and-blog-posts)
   - [Beginner Guides](#beginner-guides)
   - [Writing Custom Providers](#writing-custom-providers)
@@ -86,7 +87,7 @@ Terraform enables you to safely and predictably create, change, and improve prod
 - [Getting Started with Terraform, 2nd ed.](https://www.amazon.com/Getting-Started-Terraform-production-infrastructure/dp/1788623533/)
 - [HashiCorp Infrastructure Automation Certification Guide](https://www.amazon.com/HashiCorp-Infrastructure-Automation-Certification-Guide-ebook/dp/B092KM7LXC/)
 - [IaC starting with Terraform (Korean)](https://product.kyobobook.co.kr/detail/S000202478097)
-- [Infrastructure as Code](http://shop.oreilly.com/product/0636920039297.do)
+- [Infrastructure as Code](https://shop.oreilly.com/product/0636920039297.do)
 - [Patterns and Practices for Infrastructure as Code: With examples in Python and Terraform](https://www.manning.com/books/infrastructure-as-code-patterns-and-practices)
 - [Terraform Best Practices](https://www.terraform-best-practices.com/) - [open-source ebook ![GitHub Repo Stars](https://img.shields.io/github/stars/antonbabenko/terraform-best-practices) ![GitHub last commit](https://img.shields.io/github/last-commit/antonbabenko/terraform-best-practices)](https://github.com/antonbabenko/terraform-best-practices)
 - [Terraform Cookbook](https://www.amazon.com/Terraform-Cookbook-Efficiently-Infrastructure-platforms/dp/1800207557)
@@ -97,8 +98,16 @@ Terraform enables you to safely and predictably create, change, and improve prod
 - [The Terraform Book](https://terraformbook.com/)
 
 ## Learning and Studying
-- Terraform Academy - (https://www.terraformacademy.com)
+- [Terraform Academy](https://www.terraformacademy.app) - Interactive Terraform / IaC learning platform with hands-on labs, certification prep (HashiCorp, AWS, GCP, Azure, Docker, Kubernetes, GitOps), AI coaching, and progress tracking. See also the [SRE Pro Tips blog](https://www.terraformacademy.app/protips/?cat=sre-pro-tips) and the mobile/PWA apps below.
 - [compliance.tf docs](https://compliance.tf/docs/) - Free Terraform implementations of SOC 2, PCI DSS, HIPAA, NIST 800-53, and 35+ other compliance controls — open reference for writing compliant infrastructure code.
+
+## Apps
+
+Mobile, desktop, and PWA apps for learning and working with Terraform on the go.
+
+- [Terraform Academy — iOS](https://apps.apple.com/us/app/terraform-academy/id6745738634) - Native iOS app for the Terraform Academy interactive learning platform. Hands-on labs, certification prep (HashiCorp, AWS, GCP, Azure, Docker, Kubernetes, GitOps), AI coaching, and progress sync across devices.
+- [Terraform Academy — Android](https://play.google.com/store/apps/details?id=com.terraformacade1.app) - Native Android app for the Terraform Academy learning platform with the same labs, cert prep, and AI coaching as the iOS and web versions.
+- [Terraform Academy — PWA / Web App](https://www.terraformacademy.app/) - Installable Progressive Web App version of Terraform Academy. Works offline, installs to home screen on any platform, and syncs progress with the mobile apps.
 
 ## Tutorials and Blog Posts
 
@@ -160,6 +169,7 @@ Terraform enables you to safely and predictably create, change, and improve prod
 
 ### Miscellaneous
 
+- [Terraform Academy — SRE Pro Tips](https://www.terraformacademy.app/protips/?cat=sre-pro-tips) - Curated SRE-focused pro tips for Terraform / IaC: drift detection, state hygiene, blast-radius control, on-call-friendly module design, and other reliability patterns.
 - [Sharing data between Terraform configurations](https://web.archive.org/web/20230927082422/https://jamesmckay.net/2016/09/sharing-data-between-terraform-configurations/) - Illustrates how to use remote state to share data between Terraform configurations.
 - [The Segment AWS Stack](https://web.archive.org/web/20250322120753/https://segment.com/blog/the-segment-aws-stack/) - Shows the behind the scenes of the infrastructure powered by Terraform that solved [The Million Dollar Engineering Problem](https://segment.com/blog/the-million-dollar-eng-problem/) at [Segment](https://segment.com/).
 - [Top 3 Terraform Testing Strategies for Ultra-Reliable Infrastructure-as-Code](https://www.contino.io/insights/top-3-terraform-testing-strategies-for-ultra-reliable-infrastructure-as-code)
@@ -192,7 +202,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 - [terraform-aws-elb ![GitHub Repo Stars](https://img.shields.io/github/stars/terraform-aws-modules/terraform-aws-elb) ![GitHub last commit](https://img.shields.io/github/last-commit/terraform-aws-modules/terraform-aws-elb)](https://github.com/terraform-aws-modules/terraform-aws-elb) - Creates Elastic load-balancer on AWS (verified module).
 - [terraform-aws-eventbridge ![GitHub Repo Stars](https://img.shields.io/github/stars/terraform-aws-modules/terraform-aws-eventbridge) ![GitHub last commit](https://img.shields.io/github/last-commit/terraform-aws-modules/terraform-aws-eventbridge)](https://github.com/terraform-aws-modules/terraform-aws-eventbridge) - Creates EventBridge resources on AWS.
 - [terraform-aws-jenkins-ha-agents ![GitHub Repo Stars](https://img.shields.io/github/stars/neiman-marcus/terraform-aws-jenkins-ha-agents) ![GitHub last commit](https://img.shields.io/github/last-commit/neiman-marcus/terraform-aws-jenkins-ha-agents)](https://github.com/neiman-marcus/terraform-aws-jenkins-ha-agents) - EC2 Based Jenkins deployment with HA (spot) agents. Runs on EFS for immutability. Fully customizable, with sensible defaults.
-- [terraform-aws-jenkins ![GitHub Repo Stars](https://img.shields.io/github/stars/cloudposse-archives/terraform-aws-jenkins) ![GitHub last commit](https://img.shields.io/github/last-commit/cloudposse-archives/terraform-aws-jenkins)](https://github.com/cloudposse-archives/terraform-aws-jenkins) - Build a Docker image with Jenkins, saves it to an ECR repo, and deploys it to Elastic Beanstalk running a Docker stack.
+- [terraform-aws-jenkins ![GitHub Repo Stars](https://img.shields.io/github/stars/cloudposse-archives/terraform-aws-jenkins) ![GitHub last commit](https://img.shields.io/github/last-commit/cloudposse-archives/terraform-aws-jenkins)](https://github.com/cloudposse-archives/terraform-aws-jenkins) - Build a Docker image with Jenkins, saves it to an ECR repo, and deploys it to Elastic Beanstalk running a Docker stack. :skull:
 - [terraform-aws-key-pair ![GitHub Repo Stars](https://img.shields.io/github/stars/cloudposse/terraform-aws-key-pair) ![GitHub last commit](https://img.shields.io/github/last-commit/cloudposse/terraform-aws-key-pair)](https://github.com/cloudposse/terraform-aws-key-pair) - Automatically Generate SSH Key Pairs (Public/Private Keys).
 - [terraform-aws-lambda-auto-package ![GitHub Repo Stars](https://img.shields.io/github/stars/nozaq/terraform-aws-lambda-auto-package) ![GitHub last commit](https://img.shields.io/github/last-commit/nozaq/terraform-aws-lambda-auto-package)](https://github.com/nozaq/terraform-aws-lambda-auto-package) - A terraform module to define a lambda function which source files are automatically built and packaged for lambda deployment.
 - [terraform-aws-lambda ![GitHub Repo Stars](https://img.shields.io/github/stars/terraform-aws-modules/terraform-aws-lambda) ![GitHub last commit](https://img.shields.io/github/last-commit/terraform-aws-modules/terraform-aws-lambda)](https://github.com/terraform-aws-modules/terraform-aws-lambda) - Terraform module, which builds dependencies and packages, and also creates AWS Lambda resources in countless combinations.
@@ -461,7 +471,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 - [tfk8s ![GitHub Repo Stars](https://img.shields.io/github/stars/jrhouston/tfk8s) ![GitHub last commit](https://img.shields.io/github/last-commit/jrhouston/tfk8s)](https://github.com/jrhouston/tfk8s) - A tool for converting Kubernetes YAML manifests to Terraform HCL
 - [tflint ![GitHub Repo Stars](https://img.shields.io/github/stars/terraform-linters/tflint) ![GitHub last commit](https://img.shields.io/github/last-commit/terraform-linters/tflint)](https://github.com/terraform-linters/tflint) - Terraform linter for detecting errors that can not be detected by `terraform plan`
 - [tfmake ![GitHub Repo Stars](https://img.shields.io/github/stars/tfmake/tfmake) ![GitHub last commit](https://img.shields.io/github/last-commit/tfmake/tfmake)](https://github.com/tfmake/tfmake) - Automating Terraform with the power of make.
-- [tfmask ![GitHub Repo Stars](https://img.shields.io/github/stars/cloudposse-archives/tfmask) ![GitHub last commit](https://img.shields.io/github/last-commit/cloudposse-archives/tfmask)](https://github.com/cloudposse-archives/tfmask) - Terraform utility to mask select output from `terraform plan` and `terraform apply`
+- [tfmask ![GitHub Repo Stars](https://img.shields.io/github/stars/cloudposse-archives/tfmask) ![GitHub last commit](https://img.shields.io/github/last-commit/cloudposse-archives/tfmask)](https://github.com/cloudposse-archives/tfmask) - Terraform utility to mask select output from `terraform plan` and `terraform apply` :skull:
 - [tfmigrate ![GitHub Repo Stars](https://img.shields.io/github/stars/minamijoyo/tfmigrate) ![GitHub last commit](https://img.shields.io/github/last-commit/minamijoyo/tfmigrate)](https://github.com/minamijoyo/tfmigrate) - A Terraform state migration tool for GitOps.
 - [tfmigrator ![GitHub Repo Stars](https://img.shields.io/github/stars/tfmigrator/cli) ![GitHub last commit](https://img.shields.io/github/last-commit/tfmigrator/cli)](https://github.com/tfmigrator/cli) - Go library and CLI to migrate Terraform Configuration and State
 - [tfmv ![GitHub Repo Stars](https://img.shields.io/github/stars/suzuki-shunsuke/tfmv) ![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/tfmv)](https://github.com/suzuki-shunsuke/tfmv) - Rename Terraform resources and generate moved blocks
@@ -553,7 +563,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 
 ## Videos
 
-- [Your Weekly Dose of Terraform](https://bit.ly/terraform-youtube) - YouTube channel with weekly live streams covering Terraform news, reviews, interviews, Q&A, live coding, and some hacking with Terraform.
+- [Your Weekly Dose of Terraform](https://www.youtube.com/channel/UCGH0yYPvlCN1VjSFMGVmFgQ) - YouTube channel with weekly live streams covering Terraform news, reviews, interviews, Q&A, live coding, and some hacking with Terraform.
 - [Terraform explained in 15 mins](https://www.youtube.com/watch?v=l5k1ai_GBDE) - Terraform explained in 15 mins.
 - [Terraform Course](https://www.youtube.com/watch?v=SLB_c_ayRMo) - Automate your AWS cloud infrastructure.
 - [How to Build Reusable, Composable, Battle tested Terraform Modules](https://www.youtube.com/watch?v=LVgP63BkhKQ) - Yevgeniy Brikman talks about how to write Terraform code so that it is reusable, composable and testable. The presentation focuses on Terraform modules but also provides a brief and clear explanation of what problem Terraform was created to solve and a short demo of Terraform basics (~39 min, October 2017).
@@ -588,6 +598,6 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 
 ## License
 
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, Shuaib Yunus has waived all copyright and related or neighboring rights to this work.
