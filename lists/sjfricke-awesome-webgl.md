@@ -300,7 +300,7 @@ Processing Unit (GPU).
 * [A-Frame](https://aframe.io/) - Web framework for building virtual reality experiences.
   * [Awesome-AFrame ![GitHub Repo Stars](https://img.shields.io/github/stars/aframevr/awesome-aframe) ![GitHub last commit](https://img.shields.io/github/last-commit/aframevr/awesome-aframe)](https://github.com/aframevr/awesome-aframe)
 * [Hologram](https://hologram.cool/) - Desktop app that let you create and prototype WebVR in interactive way needing no previous coding knowledge.
-* [LÖVR](https://lovr.org/) - Simple framework for creating VR with Lua.
+* [L��VR](https://lovr.org/) - Simple framework for creating VR with Lua.
 * [React 360](https://facebook.github.io/react-360/) - Build VR websites and interactive 360 experiences with React.
 * [Primrose ![GitHub Repo Stars](https://img.shields.io/github/stars/capnmidnight/Primrose) ![GitHub last commit](https://img.shields.io/github/last-commit/capnmidnight/Primrose)](https://github.com/capnmidnight/Primrose/) - Rapidly prototype VR applications in your browser.
 
