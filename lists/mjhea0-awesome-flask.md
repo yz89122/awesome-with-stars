@@ -348,6 +348,7 @@ Compute:
 ### Open Source Projects
 
 - [ActorCloud ![GitHub Repo Stars](https://img.shields.io/github/stars/actorcloud/ActorCloud) ![GitHub last commit](https://img.shields.io/github/last-commit/actorcloud/ActorCloud)](https://github.com/actorcloud/ActorCloud) - Open-source IoT Platform.
+- [BOFS ![GitHub Repo Stars](https://img.shields.io/github/stars/colbyj/bride-of-frankensystem) ![GitHub last commit](https://img.shields.io/github/last-commit/colbyj/bride-of-frankensystem)](https://github.com/colbyj/bride-of-frankensystem) - Create online surveys and behavioral experiments based on declarative configuration files; extend functionality via Flask as-needed.
 - [Busy Beaver ![GitHub Repo Stars](https://img.shields.io/github/stars/busy-beaver-dev/busy-beaver) ![GitHub last commit](https://img.shields.io/github/last-commit/busy-beaver-dev/busy-beaver)](https://github.com/busy-beaver-dev/busy-beaver) - Chicago Python's Community Engagement Slack bot.
 - [FlaskBB ![GitHub Repo Stars](https://img.shields.io/github/stars/flaskbb/flaskbb) ![GitHub last commit](https://img.shields.io/github/last-commit/flaskbb/flaskbb)](https://github.com/flaskbb/flaskbb) - Classic forum software.
 - [Indico ![GitHub Repo Stars](https://img.shields.io/github/stars/indico/indico) ![GitHub last commit](https://img.shields.io/github/last-commit/indico/indico)](https://github.com/indico/indico) - Feature-rich event management system, made at [CERN](https://home.cern/).

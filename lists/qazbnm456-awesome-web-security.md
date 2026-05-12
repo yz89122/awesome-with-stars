@@ -685,6 +685,7 @@ Then ask any web-security question and the skill activates on topics like XSS, S
 - [WAScan ![GitHub Repo Stars](https://img.shields.io/github/stars/m4ll0k/WAScan) ![GitHub last commit](https://img.shields.io/github/last-commit/m4ll0k/WAScan)](https://github.com/m4ll0k/WAScan) - Is an open source web application security scanner that uses "black-box" method, created by [@m4ll0k](https://github.com/m4ll0k).
 - [Nuclei ![GitHub Repo Stars](https://img.shields.io/github/stars/projectdiscovery/nuclei) ![GitHub last commit](https://img.shields.io/github/last-commit/projectdiscovery/nuclei)](https://github.com/projectdiscovery/nuclei) - Nuclei is a fast tool for configurable targeted scanning based on templates offering massive extensibility and ease of use by [@projectdiscovery](https://github.com/projectdiscovery).
 - [ZAP by Checkmarx](https://zaproxy.org) - Open-source web application security scanner maintained by the ZAP Core Team.
+- [Trust Scan ![GitHub Repo Stars](https://img.shields.io/github/stars/undeadlist/trust-scan) ![GitHub last commit](https://img.shields.io/github/last-commit/undeadlist/trust-scan)](https://github.com/undeadlist/trust-scan) - URL security scanner combining threat intelligence (URLhaus, PhishTank, Spamhaus) with 40+ scam and phishing pattern detection by [@undeadlist](https://github.com/undeadlist).
 
 <a name="tools-penetration-testing"></a>
 ### Penetration Testing
@@ -854,6 +855,7 @@ Then ask any web-security question and the skill activates on topics like XSS, S
 - [Hackxor](http://hackxor.net/) - Realistic web application hacking game - Written by [@albinowax](https://twitter.com/albinowax).
 - [OWASP Juice Shop ![GitHub Repo Stars](https://img.shields.io/github/stars/bkimminich/juice-shop) ![GitHub last commit](https://img.shields.io/github/last-commit/bkimminich/juice-shop)](https://github.com/bkimminich/juice-shop) - Probably the most modern and sophisticated insecure web application - Written by [@bkimminich](https://github.com/bkimminich) and the [@owasp_juiceshop](https://twitter.com/owasp_juiceshop) team.
 - [Portswigger Web Security Academy](https://portswigger.net/web-security) - Free trainings and labs - Written by [PortSwigger](https://portswigger.net/).
+- [OopsSec Store ![GitHub Repo Stars](https://img.shields.io/github/stars/kOaDT/oss-oopssec-store) ![GitHub last commit](https://img.shields.io/github/last-commit/kOaDT/oss-oopssec-store)](https://github.com/kOaDT/oss-oopssec-store) - Intentionally vulnerable e-commerce application built with Next.js - Written by [@kOaDT](https://github.com/kOaDT).
 
 <a name="practices-aws"></a>
 ### AWS
