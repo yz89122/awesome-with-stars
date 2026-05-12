@@ -108,6 +108,7 @@
 *Analyze and manipulate OpenTofu's state.*
 
 - [tfmigrate ![GitHub Repo Stars](https://img.shields.io/github/stars/minamijoyo/tfmigrate) ![GitHub last commit](https://img.shields.io/github/last-commit/minamijoyo/tfmigrate)](https://github.com/minamijoyo/tfmigrate) - State migration tool.
+- [tfimport ![GitHub Repo Stars](https://img.shields.io/github/stars/coolapso/tfimport) ![GitHub last commit](https://img.shields.io/github/last-commit/coolapso/tfimport)](https://github.com/coolapso/tfimport) - Tool to automate state imports.
 
 ### Providers
 
