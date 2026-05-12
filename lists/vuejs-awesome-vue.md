@@ -962,6 +962,7 @@ _Tables / data grids_
 - [GridSheet ![GitHub Repo Stars](https://img.shields.io/github/stars/walkframe/gridsheet) ![GitHub last commit](https://img.shields.io/github/last-commit/walkframe/gridsheet)](https://github.com/walkframe/gridsheet) - Highly customizable spreadsheet engine with formula support, multi-sheet references, and a Vue3 wrapper built on a Preact core.
 - [@witqq/spreadsheet ![GitHub Repo Stars](https://img.shields.io/github/stars/witqq/spreadsheet) ![GitHub last commit](https://img.shields.io/github/last-commit/witqq/spreadsheet)](https://github.com/witqq/spreadsheet) - A canvas-based spreadsheet engine with zero dependencies, rendering 100K+ rows at 60fps with sorting, filtering, formulas, and collaboration.
 - [Jordium Gantt Vue3 ![GitHub Repo Stars](https://img.shields.io/github/stars/nelson820125/jordium-gantt-vue3) ![GitHub last commit](https://img.shields.io/github/last-commit/nelson820125/jordium-gantt-vue3)](https://github.com/nelson820125/jordium-gantt-vue3) - Vue3 Gantt chart component with Resource View, task dependencies, and project scheduling capabilities.
+- [gp-grid](https://www.gp-grid.io) - TypeScript Vue3 data grid featuring slot-based virtual scrolling, no features paywalls, and zero runtime dependencies. 
 
 #### Notification
 
