@@ -189,6 +189,7 @@
 - [Flask-CORS](https://flask-cors.readthedocs.io/) - Cross Origin Resource Sharing (CORS) handling.
 - [Flask-SeaSurf ![GitHub Repo Stars](https://img.shields.io/github/stars/maxcountryman/flask-seasurf) ![GitHub last commit](https://img.shields.io/github/last-commit/maxcountryman/flask-seasurf)](https://github.com/maxcountryman/flask-seasurf/) - Cross-site request forgery (CSRF) prevention.
 - [Flask-Talisman ![GitHub Repo Stars](https://img.shields.io/github/stars/wntrblm/flask-talisman) ![GitHub last commit](https://img.shields.io/github/last-commit/wntrblm/flask-talisman)](https://github.com/wntrblm/flask-talisman) - HTTPS and security headers.
+- [secure ![GitHub Repo Stars](https://img.shields.io/github/stars/TypeError/secure) ![GitHub last commit](https://img.shields.io/github/last-commit/TypeError/secure)](https://github.com/TypeError/secure) - A lightweight library for defining and applying HTTP security headers consistently in Flask applications.
 
 ### Task Queues
 
