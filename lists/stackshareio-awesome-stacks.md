@@ -416,7 +416,7 @@ Self-hosted open source devops and collaboration tools, suitable for enterprise.
 - [Metabase](https://www.metabase.com/) - [🛠](https://stackshare.io/metabase) - [🐙 ![GitHub Repo Stars](https://img.shields.io/github/stars/metabase/metabase) ![GitHub last commit](https://img.shields.io/github/last-commit/metabase/metabase)](https://github.com/metabase/metabase) - An open-source business intelligence tool.
 
 
-### Production Ready Django + Docker [��](https://awesomestacks.dev/production-ready-django-docker)
+### Production Ready Django + Docker [↗](https://awesomestacks.dev/production-ready-django-docker)
 
 Bleeding edge Django template focused on code quality and security.
 
@@ -424,7 +424,7 @@ Build, test, and deploy pipelines are configured by default.
 
 - [Python 3](https://www.python.org/) - [🛠](https://stackshare.io/python) - [🐙 ![GitHub Repo Stars](https://img.shields.io/github/stars/python/cpython) ![GitHub last commit](https://img.shields.io/github/last-commit/python/cpython)](https://github.com/python/cpython) - A programming language that lets you work quickly.
 - [Django](https://www.djangoproject.com/) - [🛠](https://stackshare.io/django) - [🐙 ![GitHub Repo Stars](https://img.shields.io/github/stars/django/django) ![GitHub last commit](https://img.shields.io/github/last-commit/django/django)](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
-- [Docker](https://www.docker.com/) - [🛠](https://stackshare.io/docker) - [🐙 ![GitHub Repo Stars](https://img.shields.io/github/stars/docker/docker) ![GitHub last commit](https://img.shields.io/github/last-commit/docker/docker)](https://github.com/docker/docker) - A tool to create, deploy and run applications inside containers.
+- [Docker](https://www.docker.com/) - [����](https://stackshare.io/docker) - [🐙 ![GitHub Repo Stars](https://img.shields.io/github/stars/docker/docker) ![GitHub last commit](https://img.shields.io/github/last-commit/docker/docker)](https://github.com/docker/docker) - A tool to create, deploy and run applications inside containers.
 - [GitLab](https://about.gitlab.com/) - [🛠](https://stackshare.io/gitlab) - [🐙 ![GitHub Repo Stars](https://img.shields.io/github/stars/gitlabhq/gitlabhq) ![GitHub last commit](https://img.shields.io/github/last-commit/gitlabhq/gitlabhq)](https://github.com/gitlabhq/gitlabhq) - Open source self-hosted Git management software.
 - [Caddy](https://caddyserver.com/) - [🛠](https://stackshare.io/caddy) - [🐙 ![GitHub Repo Stars](https://img.shields.io/github/stars/mholt/caddy) ![GitHub last commit](https://img.shields.io/github/last-commit/mholt/caddy)](https://github.com/mholt/caddy) - The HTTP/2 Web Server with Automatic HTTPS.
 
