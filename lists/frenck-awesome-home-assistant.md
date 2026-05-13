@@ -730,7 +730,7 @@ _Sorted alphabetically by language, then by subscriber count._
 - 🇩🇪 [Tristans Smartes Heim](https://www.youtube.com/@tristanssmartesheim) - Smart-home setup guides and integrations by Tristan Küsters (13.7K subs).
 - 🇮🇹 [DinamoTech](https://www.youtube.com/@DinamoTech) - Smart-home tutorials and reviews by Francesco Cova (77.2K subs).
 - 🇮🇹 [Ipensieridellarchitetto](https://www.youtube.com/@ipensieridellarchitetto) - Domotics, technology, and AI walkthroughs (14.8K subs).
-- ����🇸 [Home Assistant y Domótica Fácil](https://www.youtube.com/@HomeAssistantFacil) - Smart-home tutorials and automations by Luis del Valle (133K subs).
+- 🇪🇸 [Home Assistant y Domótica Fácil](https://www.youtube.com/@HomeAssistantFacil) - Smart-home tutorials and automations by Luis del Valle (133K subs).
 - 🇪🇸 [Tecnoyfoto](https://www.youtube.com/@Tecnoyfoto) - Tutorials and product reviews by Albert Barnosell (44.8K subs).
 
 ### 🎙️ Podcasts
