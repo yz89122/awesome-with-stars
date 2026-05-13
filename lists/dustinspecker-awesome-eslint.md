@@ -72,6 +72,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 ## Preconfigured Configs with ESLint Set up
 
 - [Node.js Standard Style ![GitHub Repo Stars](https://img.shields.io/github/stars/geek/node-style) ![GitHub last commit](https://img.shields.io/github/last-commit/geek/node-style)](https://github.com/geek/node-style) - Node.js core config.
+- [eslint-config-airbnb-extended ![GitHub Repo Stars](https://img.shields.io/github/stars/eslint-config/airbnb-extended) ![GitHub last commit](https://img.shields.io/github/last-commit/eslint-config/airbnb-extended)](https://github.com/eslint-config/airbnb-extended) - A powerful ESLint configuration extending the popular Airbnb style guide, with added support for TypeScript.
 - [eslint-config-prettier ![GitHub Repo Stars](https://img.shields.io/github/stars/prettier/eslint-config-prettier) ![GitHub last commit](https://img.shields.io/github/last-commit/prettier/eslint-config-prettier)](https://github.com/prettier/eslint-config-prettier) - Prettier config for ESlint maintained by Prettier team.
 - [Standard ![GitHub Repo Stars](https://img.shields.io/github/stars/feross/standard) ![GitHub last commit](https://img.shields.io/github/last-commit/feross/standard)](https://github.com/feross/standard) - JavaScript Standard Style.
 - [Superlint ![GitHub Repo Stars](https://img.shields.io/github/stars/supermind/superlint) ![GitHub last commit](https://img.shields.io/github/last-commit/supermind/superlint)](https://github.com/supermind/superlint) - JavaScript Supermind Style.
