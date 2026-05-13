@@ -687,6 +687,7 @@ Then ask any web-security question and the skill activates on topics like XSS, S
 - [Nuclei ![GitHub Repo Stars](https://img.shields.io/github/stars/projectdiscovery/nuclei) ![GitHub last commit](https://img.shields.io/github/last-commit/projectdiscovery/nuclei)](https://github.com/projectdiscovery/nuclei) - Nuclei is a fast tool for configurable targeted scanning based on templates offering massive extensibility and ease of use by [@projectdiscovery](https://github.com/projectdiscovery).
 - [ZAP by Checkmarx](https://zaproxy.org) - Open-source web application security scanner maintained by the ZAP Core Team.
 - [Trust Scan ![GitHub Repo Stars](https://img.shields.io/github/stars/undeadlist/trust-scan) ![GitHub last commit](https://img.shields.io/github/last-commit/undeadlist/trust-scan)](https://github.com/undeadlist/trust-scan) - URL security scanner combining threat intelligence (URLhaus, PhishTank, Spamhaus) with 40+ scam and phishing pattern detection by [@undeadlist](https://github.com/undeadlist).
+- [ZeroTrust ![GitHub Repo Stars](https://img.shields.io/github/stars/sattyamjjain/zerotrust) ![GitHub last commit](https://img.shields.io/github/last-commit/sattyamjjain/zerotrust)](https://github.com/sattyamjjain/zerotrust) - Privacy-first Chrome extension that analyzes website security locally with on-device AI (WebGPU), producing trust scores from HTTPS, phishing, malicious-script, and cookie-compliance signals, by [@sattyamjjain](https://github.com/sattyamjjain).
 
 <a name="tools-penetration-testing"></a>
 ### Penetration Testing
