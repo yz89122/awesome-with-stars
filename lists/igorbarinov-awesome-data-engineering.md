@@ -114,6 +114,7 @@
 ## Data Ingestion
 
 - [DataSpoc Pipe ![GitHub Repo Stars](https://img.shields.io/github/stars/dataspoclab/dataspoc-pipe) ![GitHub last commit](https://img.shields.io/github/last-commit/dataspoclab/dataspoc-pipe)](https://github.com/dataspoclab/dataspoc-pipe) - Data ingestion engine that connects 400+ Singer taps to Parquet files in cloud buckets (S3, GCS, Azure). Streaming, incremental, with auto-catalog.
+- [Enrich.sh](https://enrich.sh) - Managed event ingestion service that converts JSON sent to a REST API into Hive-partitioned Parquet on Cloudflare R2, queryable from DuckDB, ClickHouse, BigQuery, Snowflake, and Python.
 - [ingestr ![GitHub Repo Stars](https://img.shields.io/github/stars/bruin-data/ingestr) ![GitHub last commit](https://img.shields.io/github/last-commit/bruin-data/ingestr)](https://github.com/bruin-data/ingestr) - CLI tool to copy data between databases with a single command. Supports 50+ sources including PostgreSQL, MySQL, MongoDB, Salesforce, Shopify to any data warehouse.
 - [Kafka](https://kafka.apache.org/) - Publish-subscribe messaging rethought as a distributed commit log.
   - [BottledWater ![GitHub Repo Stars](https://img.shields.io/github/stars/confluentinc/bottledwater-pg) ![GitHub last commit](https://img.shields.io/github/last-commit/confluentinc/bottledwater-pg)](https://github.com/confluentinc/bottledwater-pg) - Change data capture from PostgreSQL into Kafka. Deprecated.
@@ -355,6 +356,7 @@
 
 ## Testing
 
+- [Aegis DQ ![GitHub Repo Stars](https://img.shields.io/github/stars/aegis-dq/aegis-dq) ![GitHub last commit](https://img.shields.io/github/last-commit/aegis-dq/aegis-dq)](https://github.com/aegis-dq/aegis-dq) - Open-source agentic data quality framework with LLM-powered diagnosis, root-cause analysis, SQL auto-fix proposals, and 31 rule types — DuckDB, Postgres, BigQuery, Databricks, Athena, Snowflake.
 - [Grai ![GitHub Repo Stars](https://img.shields.io/github/stars/grai-io/grai-core) ![GitHub last commit](https://img.shields.io/github/last-commit/grai-io/grai-core)](https://github.com/grai-io/grai-core/) - A data catalog tool that integrates into your CI system exposing downstream impact testing of data changes. These tests prevent data changes which might break data pipelines or BI dashboards from making it to production.
 - [DQOps ![GitHub Repo Stars](https://img.shields.io/github/stars/dqops/dqo) ![GitHub last commit](https://img.shields.io/github/last-commit/dqops/dqo)](https://github.com/dqops/dqo) - An open-source data quality platform for the whole data platform lifecycle from profiling new data sources to applying full automation of data quality monitoring.
 - [DataKitchen](https://datakitchen.io/) -  Open Source Data Observability for end-to-end Data Journey Observability, data profiling, anomaly detection, and auto-created data quality validation tests.
