@@ -623,7 +623,7 @@ Royalty Free Game Art! Don't forget to check the license.
 [How to make a Game Design Document](https://www.gamedesigning.org/learn/game-design-document/) - A tutorial on writing Game Design Documents (GDDs).
 
 
-[Pattern Language for Game Design](https://patternlanguageforgamedesign.com/) 💠🟪 - A database of common design patterns presented as problem solutions, compiled from the book _Pattern Language for Game Design_. Also contains work from students and designers completing excercises from the book.
+[Pattern Language for Game Design](https://patternlanguageforgamedesign.com/) 💠�� - A database of common design patterns presented as problem solutions, compiled from the book _Pattern Language for Game Design_. Also contains work from students and designers completing excercises from the book.
 
 
 [The Evolution of Trust](https://ncase.me/trust/) 💠🟪 - An interactive walkthrough of some game theory. Would probably be mandatory reading in a game design class.
@@ -869,7 +869,7 @@ Royalty free music! Don't forget to check the license.
 [The Reverse Interview ![GitHub Repo Stars](https://img.shields.io/github/stars/viraptor/reverse-interview) ![GitHub last commit](https://img.shields.io/github/last-commit/viraptor/reverse-interview)](https://github.com/viraptor/reverse-interview) - Another list for you to ask a potential employer (created for non-games tech, but most questions apply to games, and some apply to all disciplines).
 
 
-[Guide to Game Art Applications](https://www.artstation.com/blogs/kierangoodson/mY0N/guide-to-game-art-applications-portfolios-and-job-postings) ��� - A guide to game art portfolios and job hunting.
+[Guide to Game Art Applications](https://www.artstation.com/blogs/kierangoodson/mY0N/guide-to-game-art-applications-portfolios-and-job-postings) 🟪 - A guide to game art portfolios and job hunting.
 
 
 [The Bible of Getting a Job in Game Audio](https://docs.google.com/document/d/1sAd8xOdngsdLJqKfcOnyL8xRhPi3Uitys6fEXU9O2X0/edit) 🟪 - A massive collection of career resources for game audio.

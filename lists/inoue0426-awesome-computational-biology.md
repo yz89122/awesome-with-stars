@@ -212,7 +212,7 @@ Browse and search the resources via the [GitHub Pages UI](https://inoue0426.gith
 ### Clinical Trial
 
 - [ClinicalTrials.gov](https://clinicaltrials.gov/) — Privately and publicly funded clinical studies.
-- [ICD10](https://icd.who.int/browse10/2019/en) — International Classification of Diseases, 10th revision.
+- [ICD10](https://icd.who.int/browse10/2019/en) �� International Classification of Diseases, 10th revision.
 - [EU Drug Regulating Authorities Clinical Trials DB (EudraCT)](https://eudract.ema.europa.eu/) — European clinical trial database.
 - [MIMIC-IV](https://mimic.mit.edu/) — Freely accessible critical care database.
 
@@ -413,7 +413,7 @@ Browse and search the resources via the [GitHub Pages UI](https://inoue0426.gith
 - [Concerto ![GitHub Repo Stars](https://img.shields.io/github/stars/melobio/Concerto-reproducibility) ![GitHub last commit](https://img.shields.io/github/last-commit/melobio/Concerto-reproducibility)](https://github.com/melobio/Concerto-reproducibility) — Contrastive self-supervised learning framework for single-cell multimodal data integration, batch correction, and reference-query mapping.
 - [scButterfly ![GitHub Repo Stars](https://img.shields.io/github/stars/BioX-NKU/scButterfly) ![GitHub last commit](https://img.shields.io/github/last-commit/BioX-NKU/scButterfly)](https://github.com/BioX-NKU/scButterfly) — Dual-aligned variational autoencoder for single-cell cross-modality translation between paired and unpaired multiomics data.
 - [JAMIE ![GitHub Repo Stars](https://img.shields.io/github/stars/Oafish1/JAMIE) ![GitHub last commit](https://img.shields.io/github/last-commit/Oafish1/JAMIE)](https://github.com/Oafish1/JAMIE) — Joint variational autoencoder for multimodal single-cell data imputation and embedding.
-- [scPair ![GitHub Repo Stars](https://img.shields.io/github/stars/quon-titative-biology/scPair) ![GitHub last commit](https://img.shields.io/github/last-commit/quon-titative-biology/scPair)](https://github.com/quon-titative-biology/scPair) �� Bidirectional feedforward network for single-cell multimodal analysis with cross-modality prediction leveraging single-cell atlases.
+- [scPair ![GitHub Repo Stars](https://img.shields.io/github/stars/quon-titative-biology/scPair) ![GitHub last commit](https://img.shields.io/github/last-commit/quon-titative-biology/scPair)](https://github.com/quon-titative-biology/scPair) — Bidirectional feedforward network for single-cell multimodal analysis with cross-modality prediction leveraging single-cell atlases.
 
 ##### Domain Alignment
 
