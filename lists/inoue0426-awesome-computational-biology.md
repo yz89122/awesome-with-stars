@@ -212,7 +212,7 @@ Browse and search the resources via the [GitHub Pages UI](https://inoue0426.gith
 ### Clinical Trial
 
 - [ClinicalTrials.gov](https://clinicaltrials.gov/) — Privately and publicly funded clinical studies.
-- [ICD10](https://icd.who.int/browse10/2019/en) �� International Classification of Diseases, 10th revision.
+- [ICD10](https://icd.who.int/browse10/2019/en) — International Classification of Diseases, 10th revision.
 - [EU Drug Regulating Authorities Clinical Trials DB (EudraCT)](https://eudract.ema.europa.eu/) — European clinical trial database.
 - [MIMIC-IV](https://mimic.mit.edu/) — Freely accessible critical care database.
 
