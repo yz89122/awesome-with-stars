@@ -698,6 +698,7 @@ Then ask any web-security question and the skill activates on topics like XSS, S
 - [aws_pwn ![GitHub Repo Stars](https://img.shields.io/github/stars/dagrz/aws_pwn) ![GitHub last commit](https://img.shields.io/github/last-commit/dagrz/aws_pwn)](https://github.com/dagrz/aws_pwn) - A collection of AWS penetration testing junk by [@dagrz](https://github.com/dagrz).
 - [grayhatwarfare](https://buckets.grayhatwarfare.com/) - Public buckets by [grayhatwarfare](http://www.grayhatwarfare.com/).
 - [TIDoS-Framework ![GitHub Repo Stars](https://img.shields.io/github/stars/theInfectedDrake/TIDoS-Framework) ![GitHub last commit](https://img.shields.io/github/last-commit/theInfectedDrake/TIDoS-Framework)](https://github.com/theInfectedDrake/TIDoS-Framework) - A comprehensive web application audit framework to cover up everything from Reconnaissance and OSINT to Vulnerability Analysis by [@_tID](https://github.com/theInfectedDrake).
+- [numasec ![GitHub Repo Stars](https://img.shields.io/github/stars/FrancescoStabile/numasec) ![GitHub last commit](https://img.shields.io/github/last-commit/FrancescoStabile/numasec)](https://github.com/FrancescoStabile/numasec) - AI-driven penetration-testing platform that coordinates 10 agents and 38 vulnerability scanners covering OWASP Top 10, by [@FrancescoStabile](https://github.com/FrancescoStabile).
 
 <a name="tools-offensive"></a>
 ### Offensive
@@ -748,6 +749,7 @@ Then ask any web-security question and the skill activates on topics like XSS, S
 - [pwngitmanager ![GitHub Repo Stars](https://img.shields.io/github/stars/allyshka/pwngitmanager) ![GitHub last commit](https://img.shields.io/github/last-commit/allyshka/pwngitmanager)](https://github.com/allyshka/pwngitmanager) - Git manager for pentesters by [@allyshka](https://github.com/allyshka).
 - [snallygaster ![GitHub Repo Stars](https://img.shields.io/github/stars/hannob/snallygaster) ![GitHub last commit](https://img.shields.io/github/last-commit/hannob/snallygaster)](https://github.com/hannob/snallygaster) - Tool to scan for secret files on HTTP servers by [@hannob](https://github.com/hannob).
 - [LinkFinder ![GitHub Repo Stars](https://img.shields.io/github/stars/GerbenJavado/LinkFinder) ![GitHub last commit](https://img.shields.io/github/last-commit/GerbenJavado/LinkFinder)](https://github.com/GerbenJavado/LinkFinder) - Python script that finds endpoints in JavaScript files by [@GerbenJavado](https://github.com/GerbenJavado).
+- [keyFinder ![GitHub Repo Stars](https://img.shields.io/github/stars/momenbasel/keyFinder) ![GitHub last commit](https://img.shields.io/github/last-commit/momenbasel/keyFinder)](https://github.com/momenbasel/keyFinder) - Chrome extension that passively scans web pages for leaked API keys, tokens, and credentials across 10 attack surfaces using 80+ detection patterns and Shannon-entropy analysis, by [@momenbasel](https://github.com/momenbasel).
 
 <a name="tools-detecting"></a>
 ### Detecting
@@ -773,6 +775,7 @@ Then ask any web-security question and the skill activates on topics like XSS, S
 - [FCaptcha ![GitHub Repo Stars](https://img.shields.io/github/stars/WebDecoy/FCaptcha) ![GitHub last commit](https://img.shields.io/github/last-commit/WebDecoy/FCaptcha)](https://github.com/WebDecoy/FCaptcha) - Self-hosted CAPTCHA with behavioral analysis, vision-AI agent detection, headless-browser fingerprinting, and SHA-256 proof-of-work, maintained by [WebDecoy](https://github.com/WebDecoy).
 - [Pompelmi ![GitHub Repo Stars](https://img.shields.io/github/stars/pompelmi/pompelmi) ![GitHub last commit](https://img.shields.io/github/last-commit/pompelmi/pompelmi)](https://github.com/pompelmi/pompelmi) - In-process file-upload security middleware for Node.js that scans untrusted uploads before storage to detect malware, MIME spoofing, and risky archives, maintained by [pompelmi](https://github.com/pompelmi).
 - [WebDecoy ![GitHub Repo Stars](https://img.shields.io/github/stars/WebDecoy/wordpress-plugin) ![GitHub last commit](https://img.shields.io/github/last-commit/WebDecoy/wordpress-plugin)](https://github.com/WebDecoy/wordpress-plugin) - Zero-configuration WordPress bot-detection plugin combining WebDriver detection, headless-browser fingerprinting, behavioral analysis, and SHA-256 proof-of-work, maintained by [WebDecoy](https://github.com/WebDecoy).
+- [verifyfetch ![GitHub Repo Stars](https://img.shields.io/github/stars/hamzaydia/verifyfetch) ![GitHub last commit](https://img.shields.io/github/last-commit/hamzaydia/verifyfetch)](https://github.com/hamzaydia/verifyfetch) - Browser-side integrity verification and resumable downloads for large files using SRI hashes, defending against CDN compromise and supply-chain attacks, by [@hamzaydia](https://github.com/hamzaydia).
 
 <a name="tools-proxy"></a>
 ### Proxy
@@ -925,6 +928,7 @@ Then ask any web-security question and the skill activates on topics like XSS, S
 - [DOS File Path Magic Tricks](https://medium.com/walmartlabs/dos-file-path-magic-tricks-5eda7a7a85fa) - Written by [@clr2of8](https://medium.com/@clr2of8).
 - [How I got my first big bounty payout with Tesla](https://medium.com/heck-the-packet/how-i-got-my-first-big-bounty-payout-with-tesla-8d28b520162d) - Written by [@cj.fairhead](https://medium.com/@cj.fairhead).
 - [Grokking Web Application Security](https://www.manning.com/books/grokking-web-application-security) - Hands-on introduction to web application security fundamentals by Malcolm McDonald (Manning).
+- [htb-writeups ![GitHub Repo Stars](https://img.shields.io/github/stars/momenbasel/htb-writeups) ![GitHub last commit](https://img.shields.io/github/last-commit/momenbasel/htb-writeups)](https://github.com/momenbasel/htb-writeups) - Comprehensive Hack The Box writeup collection covering 75+ web challenges including XSS, SQLi, SSTI, SSRF, and deserialization, by [@momenbasel](https://github.com/momenbasel).
 
 ## Code of Conduct
 
