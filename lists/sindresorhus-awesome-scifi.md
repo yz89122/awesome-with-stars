@@ -819,7 +819,7 @@ An interesting take on the near-future colonization of Mars by one hundred of th
 <details>
   <summary>Description</summary>
 
-  > For eons, sandstorms have swept the barren desolate landscape of the red planet. For centuries, Mars has beckoned to mankind to come and conquer its hostile climate. Now, in the year 2026, a group of one hundred colonists is about to fulfill that destiny. John Boone, Maya Toitavna, Frank Chalmers, and Arkady Bogdanov lead a mission whose ultimate goal is the terraforming of Mars. For some, Mars will become a passion driving them to daring acts of courage and madness; for others it offers and opportunity to strip the planet of its riches. And for the genetic “alchemists,” Mars presents a chance to create a biomedical miracle, a breakthrough that could change all we know about life… and death.
+  > For eons, sandstorms have swept the barren desolate landscape of the red planet. For centuries, Mars has beckoned to mankind to come and conquer its hostile climate. Now, in the year 2026, a group of one hundred colonists is about to fulfill that destiny. John Boone, Maya Toitavna, Frank Chalmers, and Arkady Bogdanov lead a mission whose ultimate goal is the terraforming of Mars. For some, Mars will become a passion driving them to daring acts of courage and madness; for others it offers and opportunity to strip the planet of its riches. And for the genetic ��alchemists,” Mars presents a chance to create a biomedical miracle, a breakthrough that could change all we know about life… and death.
 </details>
 
 #### [Schild’s Ladder](https://www.goodreads.com/book/show/156780.Schild_s_Ladder) (2002) _by [Greg Egan](https://en.wikipedia.org/wiki/Greg_Egan)_ [3.9]
@@ -975,7 +975,7 @@ Idea-driven scifi about a tech-savvy movement of "walkaways", disenchanted peopl
 
   > In a world of non-work, ruined by human-created climate change and pollution, and where people are under surveillance and ruled over by a mega-rich elite, Hubert, Etc, his friend Seth, and Natalie, decide that they have nothing to lose by turning their backs and walking away from the everyday world or "default reality".
   >
-  > With the advent of 3D printing – and especially the ability to use these to fabricate even better fabricators ��� and with machines that can search for and reprocess waste or discarded materials, they no longer have need of Default for the basic essentials of life, such as food, clothing and shelter.
+  > With the advent of 3D printing – and especially the ability to use these to fabricate even better fabricators – and with machines that can search for and reprocess waste or discarded materials, they no longer have need of Default for the basic essentials of life, such as food, clothing and shelter.
   >
   > As more and more people choose to "walkaway", the ruling elite do not take these social changes sitting down. They use the military, police and mercenaries to attack and disrupt the walkaways' new settlements.
   >
