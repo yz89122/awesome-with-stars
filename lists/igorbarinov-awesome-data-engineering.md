@@ -160,6 +160,7 @@
 - [Crustdata](https://crustdata.com) - A real-time B2B data API for company and people intelligence, providing firmographics, headcount signals, job listings, web traffic, and funding events via REST API and webhooks for data enrichment pipelines.
 - [crdt-merge ![GitHub Repo Stars](https://img.shields.io/github/stars/mgillr/crdt-merge) ![GitHub last commit](https://img.shields.io/github/last-commit/mgillr/crdt-merge)](https://github.com/mgillr/crdt-merge) - Conflict-free merge for DataFrames, JSON, ML models & distributed agents — powered by CRDTs.
 - [LinkedIn Jobs Scraper](https://apify.com/cryptosignals/linkedin-jobs-scraper) - Crawlee-based actor extracting structured LinkedIn job listings at scale without API keys.
+- [CARQ ![GitHub Repo Stars](https://img.shields.io/github/stars/whispering3/CARQ) ![GitHub last commit](https://img.shields.io/github/last-commit/whispering3/CARQ)](https://github.com/whispering3/CARQ) - Context-Aware RAG Processing Queue for high availability and adaptive rate-limiting.
 
 ## File System
 
@@ -335,6 +336,7 @@
 - [GitHub Archive](https://www.gharchive.org/) - GitHub's public timeline since 2011, updated every hour.
 - [Common Crawl](https://commoncrawl.org/) - Open source repository of web crawl data.
 - [Wikipedia](https://dumps.wikimedia.org/enwiki/latest/) - Wikipedia's complete copy of all wikis, in the form of Wikitext source and metadata embedded in XML. A number of raw database tables in SQL form are also available.
+- [The Quiet-Broke Index](https://jeevesagency.github.io/quiet-broke-index/) - A 30-metro composite of US household cost burdens (housing, taxes, childcare, healthcare, transport) aggregated from Census ACS, BLS Consumer Expenditure Survey, and HUD Fair Market Rents. Open methodology, free, no email gate.
 - [FirstData ![GitHub Repo Stars](https://img.shields.io/github/stars/MLT-OSS/FirstData) ![GitHub last commit](https://img.shields.io/github/last-commit/MLT-OSS/FirstData)](https://github.com/MLT-OSS/FirstData) - The world's most comprehensive authoritative data source knowledge base. 160+ curated sources from governments, international organizations, and research institutions with MCP integration.
 - [Mindweave Synthetic Business Data ![GitHub Repo Stars](https://img.shields.io/github/stars/MindweaveTech/sme-sim-sample) ![GitHub last commit](https://img.shields.io/github/last-commit/MindweaveTech/sme-sim-sample)](https://github.com/MindweaveTech/sme-sim-sample) - 42-table synthetic SME dataset with double-entry accounting, tax compliance (AU/US/UK), and temporal realism. CSV, SQL, Parquet, SQLite. Ideal for ETL pipeline testing.
 
@@ -369,7 +371,7 @@
 - [Snowflake Emulator ![GitHub Repo Stars](https://img.shields.io/github/stars/nnnkkk7/snowflake-emulator) ![GitHub last commit](https://img.shields.io/github/last-commit/nnnkkk7/snowflake-emulator)](https://github.com/nnnkkk7/snowflake-emulator) - A Snowflake-compatible emulator for local development and testing.
 - [DataScreenIQ](https://datascreeniq.com) - Real-time data quality firewall for pipelines and APIs. Screens rows in milliseconds for schema drift, null spikes, type mismatches, and data anomalies with PASS / WARN / BLOCK decisions.
 - [DataDriven](https://www.datadriven.io/) - Interview practice with SQL query execution, Python, and data modeling exercises.
-
+- [Fixzi](https://fixzi.ai) - JSON/XML validation and API contract monitoring tool for debugging and testing structured data.
 
 ## Community
 
