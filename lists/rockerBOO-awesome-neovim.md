@@ -80,6 +80,7 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
   - [Tmux](#tmux)
 - [Game](#game)
   - [Competitive Programming](#competitive-programming)
+- [Toys](#toys)
 - [Workflow](#workflow)
   - [Stats Tracking](#stats-tracking)
   - [Automation](#automation)
@@ -1153,6 +1154,7 @@ then it is not supported:
 - [ravsii/nvim-dap-envfile ![GitHub Repo Stars](https://img.shields.io/github/stars/ravsii/nvim-dap-envfile) ![GitHub last commit](https://img.shields.io/github/last-commit/ravsii/nvim-dap-envfile)](https://github.com/ravsii/nvim-dap-envfile) - Automatic `envFile` support for nvim-dap.
 - [fschaal/azfunc.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/fschaal/azfunc.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/fschaal/azfunc.nvim)](https://github.com/fschaal/azfunc.nvim) - Seamlessly debug Azure Functions with automatic DAP integration.
 - [evanmcpheron/rocketlog.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/evanmcpheron/rocketlog.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/evanmcpheron/rocketlog.nvim)](https://github.com/evanmcpheron/rocketlog.nvim) - Seamlessly add logging for JavaScript and TypeScript files, with log and metadata searching.
+- [NickTsaizer/splitasm.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/NickTsaizer/splitasm.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/NickTsaizer/splitasm.nvim)](https://github.com/NickTsaizer/splitasm.nvim) - View compiled assembly output side by side with source code, with synchronized cursor movement.
 
 ### Quickfix
 
@@ -1716,6 +1718,17 @@ then it is not supported:
 - [barrettruth/cp.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/barrettruth/cp.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/barrettruth/cp.nvim)](https://github.com/barrettruth/cp.nvim) - Competitive programming workflow for popular contest platforms (CodeForces, CSES, etc.) Includes automatic test scraping, I/O view, and diff panel.
 - [kawre/leetcode.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/kawre/leetcode.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/kawre/leetcode.nvim)](https://github.com/kawre/leetcode.nvim) - Solve Leetcode problems.
 - [2KAbhishek/exercism.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/2KAbhishek/exercism.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/2KAbhishek/exercism.nvim)](https://github.com/2KAbhishek/exercism.nvim) - Browse and solve Exercism problems.
+<!--lint disable double-link -->
+[**⬆ back to top**](#contents)
+<!--lint enable double-link -->
+
+## Toys
+
+- [folke/drop.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/folke/drop.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/folke/drop.nvim)](https://github.com/folke/drop.nvim) - Screensavers with support for dashboards.
+- [axsaucedo/neovim-power-mode ![GitHub Repo Stars](https://img.shields.io/github/stars/axsaucedo/neovim-power-mode) ![GitHub last commit](https://img.shields.io/github/last-commit/axsaucedo/neovim-power-mode)](https://github.com/axsaucedo/neovim-power-mode) - Combo counter, particle effects and explosions for your editor.
+- [jerrywang1981/keystroke.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/jerrywang1981/keystroke.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/jerrywang1981/keystroke.nvim)](https://github.com/jerrywang1981/keystroke.nvim) - Play sounds and do other things as you type.
+- [cxwx/keywound.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/cxwx/keysound.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/cxwx/keysound.nvim)](https://github.com/cxwx/keysound.nvim) - Play a sound on each keystroke, supports customizable sounds.
+
 <!--lint disable double-link -->
 [**⬆ back to top**](#contents)
 <!--lint enable double-link -->

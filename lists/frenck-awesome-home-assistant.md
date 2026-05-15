@@ -588,7 +588,7 @@ _It is all about the looks, apply some style._
 - [Material You ![GitHub Repo Stars](https://img.shields.io/github/stars/Nerwyn/material-you-theme) ![GitHub last commit](https://img.shields.io/github/last-commit/Nerwyn/material-you-theme)](https://github.com/Nerwyn/material-you-theme) - Material Design 3 theme that adapts to your accent color (444★).
 - [Graphite ![GitHub Repo Stars](https://img.shields.io/github/stars/TilmanGriesel/graphite) ![GitHub last commit](https://img.shields.io/github/last-commit/TilmanGriesel/graphite)](https://github.com/TilmanGriesel/graphite) - Calm and clean theme with a focused, low-contrast feel (432★).
 - [Catppuccin ![GitHub Repo Stars](https://img.shields.io/github/stars/catppuccin/home-assistant) ![GitHub last commit](https://img.shields.io/github/last-commit/catppuccin/home-assistant)](https://github.com/catppuccin/home-assistant) - Soothing pastel theme matching the popular Catppuccin palette across editors and apps (410★).
-- [Mushroom Themes ![GitHub Repo Stars](https://img.shields.io/github/stars/piitaya/lovelace-mushroom-themes) ![GitHub last commit](https://img.shields.io/github/last-commit/piitaya/lovelace-mushroom-themes)](https://github.com/piitaya/lovelace-mushroom-themes) - Additional themes designed to pair with the Mushroom card collection (302���).
+- [Mushroom Themes ![GitHub Repo Stars](https://img.shields.io/github/stars/piitaya/lovelace-mushroom-themes) ![GitHub last commit](https://img.shields.io/github/last-commit/piitaya/lovelace-mushroom-themes)](https://github.com/piitaya/lovelace-mushroom-themes) - Additional themes designed to pair with the Mushroom card collection (302★).
 - [visionOS ![GitHub Repo Stars](https://img.shields.io/github/stars/Nezz/homeassistant-visionos-theme) ![GitHub last commit](https://img.shields.io/github/last-commit/Nezz/homeassistant-visionos-theme)](https://github.com/Nezz/homeassistant-visionos-theme) - Theme inspired by Apple's visionOS (296★).
 - [Nordic ![GitHub Repo Stars](https://img.shields.io/github/stars/coltondick/nordic-theme-main) ![GitHub last commit](https://img.shields.io/github/last-commit/coltondick/nordic-theme-main)](https://github.com/coltondick/nordic-theme-main) - Light and dark themes in a Nordic palette, with several blue-tinted variants (41★).
 
@@ -715,7 +715,7 @@ _Home Assistant has a thriving community of bloggers, YouTubers, podcasters, and
 _Sorted alphabetically by language._
 
 - 🇩🇪 [simon42](https://www.simon42.com/) - Beginner-friendly guides on installation, integrations, and automations by Simon Müller.
-- 🇩��� [smarterkram](https://smarterkram.de/) - Detailed tutorials on Zigbee, Matter, ESPHome, and hardware by Oliver Kluth.
+- 🇩🇪 [smarterkram](https://smarterkram.de/) - Detailed tutorials on Zigbee, Matter, ESPHome, and hardware by Oliver Kluth.
 - 🇩🇪 [SmartHome yourself](https://smarthomeyourself.de/) - Release coverage, device reviews, and integration guides by Daniel Scheidler.
 
 ### 📺 YouTube Channels

@@ -1,4 +1,4 @@
-# Awesome Python Typing [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) [![Gitter](https://img.shields.io/gitter/room/mypy-django/Lobby?color=9cf&style=flat-square)](https://gitter.im/mypy-django/Lobby?source=title)
+# Awesome Python Typing [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
 Collection of awesome Python types, stubs, plugins, and tools to work with them.
 
@@ -24,8 +24,9 @@ Collection of awesome Python types, stubs, plugins, and tools to work with them.
 - [pyanalyze ![GitHub Repo Stars](https://img.shields.io/github/stars/quora/pyanalyze) ![GitHub last commit](https://img.shields.io/github/last-commit/quora/pyanalyze)](https://github.com/quora/pyanalyze) - Extensible static analyzer and type checker.
 - [PyCharm](https://www.jetbrains.com/pycharm/) - IDE for Professional Developers.
 - [pylyzer ![GitHub Repo Stars](https://img.shields.io/github/stars/mtshiba/pylyzer) ![GitHub last commit](https://img.shields.io/github/last-commit/mtshiba/pylyzer)](https://github.com/mtshiba/pylyzer/) - A fast static code analyzer & language server for Python, written in Rust.
-- [pyre](https://pyre-check.org/) - Performant type-checker.
+- [pyrefly ![GitHub Repo Stars](https://img.shields.io/github/stars/facebook/pyrefly) ![GitHub last commit](https://img.shields.io/github/last-commit/facebook/pyrefly)](https://github.com/facebook/pyrefly) - A fast type checker and language server for Python.
 - [pyright ![GitHub Repo Stars](https://img.shields.io/github/stars/Microsoft/pyright) ![GitHub last commit](https://img.shields.io/github/last-commit/Microsoft/pyright)](https://github.com/Microsoft/pyright) - Fast type checker meant for large Python source bases. It can run in a “watch” mode and performs fast incremental updates when files are modified.
+- [pycroscope ![GitHub Repo Stars](https://img.shields.io/github/stars/JelleZijlstra/pycroscope) ![GitHub last commit](https://img.shields.io/github/last-commit/JelleZijlstra/pycroscope)](https://github.com/JelleZijlstra/pycroscope) - A semi-static type checker for Python code. It imports the modules it type checks, enabling `pycroscope` to understand many dynamic constructs that other type checkers will reject. This makes it possible to extend `pycroscope` with plugins that interact directly with your code.
 - [pytype ![GitHub Repo Stars](https://img.shields.io/github/stars/google/pytype) ![GitHub last commit](https://img.shields.io/github/last-commit/google/pytype)](https://github.com/google/pytype) - Tool to check and infer types - without requiring type annotations.
 - [ty ![GitHub Repo Stars](https://img.shields.io/github/stars/astral-sh/ty) ![GitHub last commit](https://img.shields.io/github/last-commit/astral-sh/ty)](https://github.com/astral-sh/ty) - An extremely fast Python type checker, written in Rust, from the creators of Ruff and uv.
 
