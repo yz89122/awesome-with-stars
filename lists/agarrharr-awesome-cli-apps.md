@@ -686,6 +686,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [srgn ![GitHub Repo Stars](https://img.shields.io/github/stars/alexpovel/srgn) ![GitHub last commit](https://img.shields.io/github/last-commit/alexpovel/srgn)](https://github.com/alexpovel/srgn/) - A grep-like tool which understands code syntax and also allows for manipulation.
 - [rawhide ![GitHub Repo Stars](https://img.shields.io/github/stars/raforg/rawhide) ![GitHub last commit](https://img.shields.io/github/last-commit/raforg/rawhide)](https://github.com/raforg/rawhide) - Find files using pretty C expressions.
 - [semantic-grep ![GitHub Repo Stars](https://img.shields.io/github/stars/arunsupe/semantic-grep) ![GitHub last commit](https://img.shields.io/github/last-commit/arunsupe/semantic-grep)](https://github.com/arunsupe/semantic-grep) - A tool for semantic search using word embeddings (e.g. search for "death" and find "dead", "killing", "murder".)
+- [reflex ![GitHub Repo Stars](https://img.shields.io/github/stars/reflex-search/reflex) ![GitHub last commit](https://img.shields.io/github/last-commit/reflex-search/reflex)](https://github.com/reflex-search/reflex) - Instant, offline, code-aware search for text, symbols, and import graphs.
 
 ## Version Control
 
