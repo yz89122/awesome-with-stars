@@ -392,6 +392,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [alex ![GitHub Repo Stars](https://img.shields.io/github/stars/get-alex/alex) ![GitHub last commit](https://img.shields.io/github/last-commit/get-alex/alex)](https://github.com/get-alex/alex) - Catch insensitive, inconsiderate writing.
 - [clevercli ![GitHub Repo Stars](https://img.shields.io/github/stars/clevercli/clevercli) ![GitHub last commit](https://img.shields.io/github/last-commit/clevercli/clevercli)](https://github.com/clevercli/clevercli) - Collection of ChatGPT powered utilities.
 - [OctoType ![GitHub Repo Stars](https://img.shields.io/github/stars/mahlquistj/octotype) ![GitHub last commit](https://img.shields.io/github/last-commit/mahlquistj/octotype)](https://github.com/mahlquistj/octotype) - A customizable typing trainer.
+- [gittype ![GitHub Repo Stars](https://img.shields.io/github/stars/unhappychoice/gittype) ![GitHub last commit](https://img.shields.io/github/last-commit/unhappychoice/gittype)](https://github.com/unhappychoice/gittype) - Turn your source code into typing challenges.
 
 ### macOS
 
