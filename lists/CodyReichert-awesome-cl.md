@@ -640,7 +640,7 @@ lock-free, concurrent, key/value index with efficient memory-mapped persistence 
 
 Generic access of data structures:
 
-* 👍 [access ![GitHub Repo Stars](https://img.shields.io/github/stars/AccelerationNet/access) ![GitHub last commit](https://img.shields.io/github/last-commit/AccelerationNet/access)](https://github.com/AccelerationNet/access/) - Consistent and nested access to most common data structures. [BSD_3Clause][15].
+* ���� [access ![GitHub Repo Stars](https://img.shields.io/github/stars/AccelerationNet/access) ![GitHub last commit](https://img.shields.io/github/last-commit/AccelerationNet/access)](https://github.com/AccelerationNet/access/) - Consistent and nested access to most common data structures. [BSD_3Clause][15].
 
 
 See also:
