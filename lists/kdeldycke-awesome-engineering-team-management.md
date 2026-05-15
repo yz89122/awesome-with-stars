@@ -434,7 +434,7 @@ Expansive lists of well-known models and concepts.
 
 - [Regression toward the mean](https://en.wikipedia.org/wiki/Regression_toward_the_mean) - Or why after a period of intense euphoria and ambition, things slowly get back to their usual mediocrity.
 
-- [Locus of control](https://en.wikipedia.org/wiki/Locus_of_control) - A framework on “the degree to which people believe that they have control over the outcome of events in their lives, as opposed to external forces beyond their control.”
+- [Locus of control](https://en.wikipedia.org/wiki/Locus_of_control) - A framework on ��the degree to which people believe that they have control over the outcome of events in their lives, as opposed to external forces beyond their control.”
 
 ### Problem Solving
 
