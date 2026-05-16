@@ -1,19 +1,3 @@
-<div align="center" markdown="1">
-   <sup>Special thanks to Sponsors:</sup>
-   <br />
-   <br />
-   <a href="https://requestly.com/awesomedatascience">
-      <img alt="Requestly sponsorship" width="400" src="https://github.com/user-attachments/assets/24670320-997d-4d62-9bca-955c59fe883d">
-   </a>
-   <br>
-   
-   ### [Requestly - Free & Open-Source alternative to Postman](https://requestly.com/awesomedatascience)
-   [All-in-one platform to Test, Mock and Intercept APIs](https://requestly.com/awesomedatascience)
-   <br>
-</div>
-
-<hr>
-
 <div align="center"><img src="https://github.com/academic/awesome-datascience/raw/master/assets/head.jpg"></div>
 
 # AWESOME DATA SCIENCE
@@ -1161,6 +1145,7 @@ Some data mining competition platforms
 - [GeoLite Legacy Downloadable Databases](https://dev.maxmind.com/geoip)
 - [Hugging Face Datasets](https://huggingface.co/datasets)
 - [Japan Neighborhoods](https://japanneighborhoods.com) - English dataset of Tokyo crime statistics across 5,078 neighborhoods × 7 years (36,222 records, 2018-2024), sourced from Tokyo Metropolitan Police open data. Includes interactive crime map, safety grading, and cost-of-living index. CC BY licensed.
+- [The Quiet-Broke Index](https://jeevesagency.github.io/quiet-broke-index/) - A 30-metro composite ranking of how much of a $400K household income gets consumed by housing, taxes, childcare, healthcare, and transport. Open methodology, free, no email gate.
 - [Crime Brasil](https://crimebrasil.com.br) - Open-data platform for Brazilian crime statistics. Neighborhood-level in Rio Grande do Sul (2.99M incidents across 79,024 neighborhoods, 2022–2025), municipality-level for MG and RJ, plus national PRF highway and DATASUS interpersonal-violence data. Free REST API, CSV/Parquet, daily updates, CC BY 4.0.
 - [Quora's Big Datasets Answer](https://www.quora.com/Where-can-I-find-large-datasets-open-to-the-public)
 - [Public Big Data Sets](https://hadoopilluminated.com/hadoop_illuminated/Public_Bigdata_Sets.html)
