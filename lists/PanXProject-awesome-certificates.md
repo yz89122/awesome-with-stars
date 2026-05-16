@@ -523,7 +523,7 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 | <a href="https://www.hackerrank.com/skills-verification/python_basic" target="_blank" rel="noopener noreferrer">Python</a> | HackerRank |Beginner| 1.5 | 🏆|
 | <a href="https://memgraph.com/blog/learn-graph-analytics-with-python" target="_blank" rel="noopener noreferrer">Intro to Graph Analytics in Python free course</a> | Memgraph |Intermediate| 3 | 🏅|
 | <a href="https://www.kaggle.com/learn/python" target="_blank" rel="noopener noreferrer">Python</a>                                        | Kaggle          | Beginner      | 5     | 🏆     |
-| <a href="https://www.kaggle.com/learn/pandas" target="_blank" rel="noopener noreferrer">Pandas</a>                                      | Kaggle          | Beginner      | 4     | 🏆     |
+| <a href="https://www.kaggle.com/learn/pandas" target="_blank" rel="noopener noreferrer">Pandas</a>                                      | Kaggle          | Beginner      | 4     | ����     |
 | <a href="https://www.kaggle.com/learn/intro-to-programming" target="_blank" rel="noopener noreferrer">Intro to Programming</a>           | Kaggle          | Beginner      | 5     | 🏆     |
 
 <a href="https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents" target="_blank" rel="noopener noreferrer">⬆️</a>
@@ -555,7 +555,7 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 | <a href="https://www.netacad.com/courses/cybersecurity/cybersecurity-essentials" target="_blank" rel="noopener noreferrer">Cybersecurity Essentials</a>| Cisco Networking Academy | Intermediate | 30 | <a href="https://www.youracclaim.com/org/cisco/badge/cybersecurity-essentials" target="_blank" rel="noopener noreferrer">🏅</a>|
 | <a href="https://www.netacad.com/courses/ethical-hacker" target="_blank" rel="noopener noreferrer">Ethical Hacker</a>| Cisco Networking Academy | Intermediate | 70 | <a href="https://www.netacad.com/courses/ethical-hacker" target="_blank" rel="noopener noreferrer">🏆</a>|
 | <a href="https://www.netacad.com/courses/packet-tracer" target="_blank" rel="noopener noreferrer">Intro to Packet Tracer</a> | Cisco Networking Academy | Beginner | 10  | <a href="https://www.youracclaim.com/org/cisco/badge/introduction-to-packet-tracer" target="_blank" rel="noopener noreferrer">🏅</a> |
-| <a href="https://skills.yourlearning.ibm.com/activity/ILB-DNRPWDGQGMMY7GGD" target="_blank" rel="noopener noreferrer">Cybersecurity Fundamentals</a> | IBM / SkillsBuild | Beginner | 10 | <a href="https://www.youracclaim.com/org/ibm/badge/cybersecurity-fundamentals" target="_blank" rel="noopener noreferrer">���</a> |
+| <a href="https://skills.yourlearning.ibm.com/activity/ILB-DNRPWDGQGMMY7GGD" target="_blank" rel="noopener noreferrer">Cybersecurity Fundamentals</a> | IBM / SkillsBuild | Beginner | 10 | <a href="https://www.youracclaim.com/org/ibm/badge/cybersecurity-fundamentals" target="_blank" rel="noopener noreferrer">🏅</a> |
 | <a href="https://www.freecodecamp.org/learn/information-security/" target="_blank" rel="noopener noreferrer">Information Security Certification</a> | FreeCodeCamp |Professional|300 | 🏆|
 | <a href="https://tryhackme.com/path/outline/jrpenetrationtester" target="_blank" rel="noopener noreferrer">JR Penetration Tester</a> | TryHackMe |Intermediate| 64 | 🏆|
 | <a href="https://tryhackme.com/path/outline/blueteam" target="_blank" rel="noopener noreferrer">Cyber Defense</a> | TryHackMe | Intermediate | 48 | 🏆 |
