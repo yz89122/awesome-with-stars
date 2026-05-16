@@ -481,6 +481,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [xiringuito ![GitHub Repo Stars](https://img.shields.io/github/stars/ivanilves/xiringuito) ![GitHub last commit](https://img.shields.io/github/last-commit/ivanilves/xiringuito)](https://github.com/ivanilves/xiringuito) - SSH-based VPN.
 - [hasha-cli ![GitHub Repo Stars](https://img.shields.io/github/stars/sindresorhus/hasha-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/sindresorhus/hasha-cli)](https://github.com/sindresorhus/hasha-cli) - Get the hash of text or stdin.
 - [ots ![GitHub Repo Stars](https://img.shields.io/github/stars/sniptt-official/ots) ![GitHub last commit](https://img.shields.io/github/last-commit/sniptt-official/ots)](https://github.com/sniptt-official/ots) - Share secrets with others via a one-time URL.
+- [andcli ![GitHub Repo Stars](https://img.shields.io/github/stars/tjblackheart/andcli) ![GitHub last commit](https://img.shields.io/github/last-commit/tjblackheart/andcli)](https://github.com/tjblackheart/andcli) - Work with 2FA tokens from multiple OTP providers.
 
 ### Math
 
