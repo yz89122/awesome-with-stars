@@ -79,7 +79,7 @@ See [README.md](./scripts/README.md) for more options.
 
 ## Contributing Guidelines
 
-Please take a look at our [CONTRIBUTING.md ![GitHub Repo Stars](https://img.shields.io/github/stars/papers-we-love/papers-we-love) ![GitHub last commit](https://img.shields.io/github/last-commit/papers-we-love/papers-we-love)](https://github.com/papers-we-love/papers-we-love/blob/master/.github/CONTRIBUTING.md) file.
+Please take a look at our [CONTRIBUTING.md ![GitHub Repo Stars](https://img.shields.io/github/stars/papers-we-love/papers-we-love) ![GitHub last commit](https://img.shields.io/github/last-commit/papers-we-love/papers-we-love)](https://github.com/papers-we-love/papers-we-love/blob/main/.github/CONTRIBUTING.md) file.
 
 ## Copyright
 
