@@ -1574,7 +1574,7 @@ Userscripts can be used w/ the following browsers:
             Install</a> /
         📖 <a href="https://github.com/sinazadeh/userscripts/blob/main/Xbox_PriceLens.readme.md">
             Readme</a> /
-        📢 <a href="https://github.com/sinazadeh/userscripts/discussions">
+        ��� <a href="https://github.com/sinazadeh/userscripts/discussions">
             Discuss</a> /
         🐛 <a href="https://github.com/sinazadeh/userscripts/issues">
             Report bug</a>
