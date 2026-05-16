@@ -436,6 +436,8 @@ Graph databases
 * [vivace-graph ![GitHub Repo Stars](https://img.shields.io/github/stars/kraison/vivace-graph-v3) ![GitHub last commit](https://img.shields.io/github/last-commit/kraison/vivace-graph-v3)](https://github.com/kraison/vivace-graph-v3) - graph database & Prolog implementation. Takes design inspiration from CouchDB, neo4j and AllegroGraph. It implements an ACID-compliant object graph model with user-defined indexes and map-reduce views. It also implements a master / slave replication scheme for redundancy and horizontal read scaling. Querying the graph is accomplished via a number of Lisp methods or via a Prolog-like query language. [MIT][200].
   * "I have used Vivace Graph as an online catalog for millions of products, as the back end for a complex, adaptable VoIP-based IVR, as well as data store for several complex big data analysis systems, and finally as the engine for two recommender systems." (issue #23)
   * "Why is vivace graph so fast? I have been comparing it with SQL-based approach and Neo4j, and vivace graph is much, much faster."
+* [Ariadne](https://git.sr.ht/~hajovonta/ariadne) - A graph database in Common Lisp with full W3C SPARQL 1.1 and SHACL conformance, Gremlin-style traversal, RDF import/export, property graph support, inference rules, graph analytics, and Graphviz visualization.
+  * *Built with LLMs*.
 
 and also:
 
@@ -1241,8 +1243,10 @@ Community
 * #clschool on Libera Chat - IRC channel for learning Common Lisp.
 * #lispcafe on Libera Chat - IRC channel for off-topic discussions.
 * [Planet Lisp](http://planet.lisp.org/) - A meta blog that collects the contents of various Lisp-related blogs.
-* [Common Lisp chat](https://chat.hexstreamsoft.com/) - Keybase team with well-defined rules and retention policies.
 * [Lisp Jabber/XMPP channel](https://xmpp.link/#lisp@conference.a3.pm?join)
+* [Matrix-for-lispers](https://web.matrix-for-lispers.net/) - a space for chatting about different lisp topics with support for persistency, markdown, screenshots.
+  * NEW as of May, 2026.
+  * the registration token is `lisp-spelt-without-caps`. Click on "explore" to see all the available rooms.
 
 Showcase
 --------
@@ -2284,6 +2288,12 @@ call hooks when loading a package,…). [BSD_2Clause][17].
 * [printv ![GitHub Repo Stars](https://img.shields.io/github/stars/danlentz/printv) ![GitHub last commit](https://img.shields.io/github/last-commit/danlentz/printv)](https://github.com/danlentz/printv) -  A batteries-included tracing and debug-logging macro. [Apache2][89].
 * [journal ![GitHub Repo Stars](https://img.shields.io/github/stars/melisgl/journal) ![GitHub last commit](https://img.shields.io/github/last-commit/melisgl/journal)](https://github.com/melisgl/journal) - a library for logging, tracing, record-and-replay testing and persistence. MIT.
 * [brake ![GitHub Repo Stars](https://img.shields.io/github/stars/varjagg/brake) ![GitHub last commit](https://img.shields.io/github/last-commit/varjagg/brake)](https://github.com/varjagg/brake) -  An extended breakpoint facility for Common Lisp. [MIT][200].
+* [cl-codegraph](https://sr.ht/~hajovonta/cl-codegraph/) - Automatic Knowledge Graph of Common Lisp code via live image introspection.
+  * Given a package loaded in the SBCL image, builds and maintains a
+    graph of its symbols, class hierarchies, method
+    specializations, call relationships, and metadata — all without
+    parsing source code. Includes a live Emacs integration that shows
+    code intelligence as you navigate and a web-based graph viewer.
 
 and also:
 
