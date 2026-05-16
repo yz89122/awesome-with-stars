@@ -494,7 +494,7 @@ By default, govulncheck makes requests to the Go vulnerability database at https
 
 - **interfacer** :warning: — Suggest narrower interfaces that can be used.
 
-- [lll ![GitHub Repo Stars](https://img.shields.io/github/stars/walle/lll) ![GitHub last commit](https://img.shields.io/github/last-commit/walle/lll)](https://github.com/walle/lll) — Report long lines.
+- [lll ![GitHub Repo Stars](https://img.shields.io/github/stars/walle/lll) ![GitHub last commit](https://img.shields.io/github/last-commit/walle/lll)](https://github.com/walle/lll) ��� Report long lines.
 
 - **maligned** :warning: — Detect structs that would take less memory if their fields were sorted.
 

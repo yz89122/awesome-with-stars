@@ -272,6 +272,7 @@ Credit: borretti.me's [State of CL Ecosystem 2015](http://borretti.me/article/co
 * [AIMA-lisp ![GitHub Repo Stars](https://img.shields.io/github/stars/aimacode/aima-lisp) ![GitHub last commit](https://img.shields.io/github/last-commit/aimacode/aima-lisp)](https://github.com/aimacode/aima-lisp) -  Common Lisp implementation of algorithms from Russell and Norvig's "Artificial Intelligence - A Modern Approach".
 * the book [Reinforcement Learning: An Introduction](http://www.incompleteideas.net/book/the-book.html), by Richard S. Sutton and Andrew G. Barto, with code in Lisp.
   * the authors are the recipients of the [2024 ACM A.M. Turing Award](https://awards.acm.org/about/2024-turing) for developing the conceptual and algorithmic foundations of reinforcement learning.
+* [microgpt ![GitHub Repo Stars](https://img.shields.io/github/stars/40ants/microgpt) ![GitHub last commit](https://img.shields.io/github/last-commit/40ants/microgpt)](https://github.com/40ants/microgpt) - A Common Lisp port of @karpathy microgpt.py — the most atomicimplementation of a GPT with a hand-written scalar autograd engine.
 
 
 Audio
@@ -1685,7 +1686,11 @@ Numerical and Scientific
   * [wxMaxima](https://wxmaxima-developers.github.io/wxmaxima/): a graphical frontend.
   * [Maxima on Jupyter ![GitHub Repo Stars](https://img.shields.io/github/stars/robert-dodier/maxima-jupyter) ![GitHub last commit](https://img.shields.io/github/last-commit/robert-dodier/maxima-jupyter)](https://github.com/robert-dodier/maxima-jupyter)
   * [new, POC] [Maxima in the browser on WASM](https://maxima-on-wasm.pages.dev/), [sources](https://gitlab.com/spaghettisalat/maxima/-/tree/emscripten-port-deployed)
-  * it can be used via [SageMath](https://www.sagemath.org/) and [KDE Cantor](https://apps.kde.org/cantor/). Of course, with Emacs: [maxima-mode](https://gitlab.com/sasanidas/maxima) ([screenshot](https://community.linuxmint.com/img/screenshots/maxima-emacs.png)) and [maxima-interface ![GitHub Repo Stars](https://img.shields.io/github/stars/jmbr/maxima-interface) ![GitHub last commit](https://img.shields.io/github/last-commit/jmbr/maxima-interface)](https://github.com/jmbr/maxima-interface) to ease the interface between Maxima and Common Lisp.
+  * it can be used via [SageMath](https://www.sagemath.org/) and [KDE Cantor](https://apps.kde.org/cantor/).
+  * it can be used within Emacs:
+    * [maxima-mode](https://gitlab.com/sasanidas/maxima) ([screenshot](https://community.linuxmint.com/img/screenshots/maxima-emacs.png))
+    * [maxima-interface ![GitHub Repo Stars](https://img.shields.io/github/stars/jmbr/maxima-interface) ![GitHub last commit](https://img.shields.io/github/last-commit/jmbr/maxima-interface)](https://github.com/jmbr/maxima-interface) to ease the interface between Maxima and Common Lisp.
+    * [symbol-cruncher](https://git.sr.ht/~jmbr/symbol-cruncher) - Computer algebra system for computations in differential geometry. Built on top of maxima-interface.
 * [numcl ![GitHub Repo Stars](https://img.shields.io/github/stars/numcl/numcl) ![GitHub last commit](https://img.shields.io/github/last-commit/numcl/numcl)](https://github.com/numcl/numcl) - Numpy clone in Common Lisp. [LGPL3][9].
 * [numericals ![GitHub Repo Stars](https://img.shields.io/github/stars/digikar99/numericals) ![GitHub last commit](https://img.shields.io/github/last-commit/digikar99/numericals)](https://github.com/digikar99/numericals) -  SIMD powered simple-math numerical operations on arrays for Common Lisp through CFFI [still experimental]. MIT.
   * documentation: https://digikar99.github.io/numericals/
@@ -1989,6 +1994,7 @@ Starter kits:
   * *warm: Portacle is now un-maintained and ships an old Emacs.*
 * [IDEmacs](https://codeberg.org/IDEmacs/IDEmacs) is an attempt at making Emacs beginner friendly.
     * it ships Sly for Common Lisp. With Emacs v29 or higher, you can try IDEmacs temporarily without messing with your .emacs configuration, thanks to the new `--init-directory` option.
+* [lisp-stat's Docker image](https://lisp-stat.dev/blog/2026/03/09/getting-started/) comes with a ready-to-use Emacs.
 
 Slime extensions:
 
