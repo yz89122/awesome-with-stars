@@ -247,7 +247,7 @@ If you would like to be guided through how to contribute to a repository on GitH
 
 ## PHP
 
-- [Appwrite ![GitHub Repo Stars](https://img.shields.io/github/stars/appwrite/appwrite) ![GitHub last commit](https://img.shields.io/github/last-commit/appwrite/appwrite)](https://github.com/appwrite/appwrite) _(label: good first issue)_ <br> An End-to-end backend server for frontend and mobile developers. ��
+- [Appwrite ![GitHub Repo Stars](https://img.shields.io/github/stars/appwrite/appwrite) ![GitHub last commit](https://img.shields.io/github/last-commit/appwrite/appwrite)](https://github.com/appwrite/appwrite) _(label: good first issue)_ <br> An End-to-end backend server for frontend and mobile developers. 🚀
 - [CodeIgniter ![GitHub Repo Stars](https://img.shields.io/github/stars/codeigniter4/CodeIgniter4) ![GitHub last commit](https://img.shields.io/github/last-commit/codeigniter4/CodeIgniter4)](https://github.com/codeigniter4/CodeIgniter4) _(label: good first issue)_ <br> A lightweight, fast PHP framework, it is easy to install and perfect for learning MVC architecture.
 - [Deployer ![GitHub Repo Stars](https://img.shields.io/github/stars/deployphp/deployer) ![GitHub last commit](https://img.shields.io/github/last-commit/deployphp/deployer)](https://github.com/deployphp/deployer) _(label: good-for-beginner)_ <br> A deployment tool written in PHP with support for popular frameworks out of the box.
 - [Drupal](https://www.drupal.org/getting-involved-guide) _(label: n/a)_ <br> Leading open-source CMS for ambitious digital experiences that reach your audience across multiple channels.

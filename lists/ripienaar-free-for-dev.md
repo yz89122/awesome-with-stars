@@ -467,7 +467,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [TinaCMS](https://tina.io/) - Replacing Forestry.io. Open source Git-backed headless CMS that supports Markdown, MDX, and JSON. The basic offer is free with two users available.
   * [WPJack](https://wpjack.com) - Set up WordPress on any cloud in less than 5 minutes! The free tier includes 1 server, 2 sites, free SSL certificates, and unlimited cron jobs. No time limits or expirations-your website, your way.
 
-**[���️ Back to Top](#table-of-contents)**
+**[⬆️ Back to Top](#table-of-contents)**
 
 ## Code Generation
 
