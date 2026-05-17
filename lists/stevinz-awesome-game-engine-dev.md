@@ -174,7 +174,7 @@ _Info on topics necessary for designing and developing game engines._
     - 🌎 [DirectX](https://docs.microsoft.com/en-us/windows/win32/directx) - _Microsoft_ API used to create 2D/3D games and apps. [[Blog](https://devblogs.microsoft.com/directx/) | [Samples ![GitHub Repo Stars](https://img.shields.io/github/stars/microsoft/DirectX-Graphics-Samples) ![GitHub last commit](https://img.shields.io/github/last-commit/microsoft/DirectX-Graphics-Samples)](https://github.com/microsoft/DirectX-Graphics-Samples)]
     - 📚 [DirectXTutorial.com](http://www.directxtutorial.com/default.aspx) - Older resource with lots of tutorials on DirectX versions 9 & 11.
 - Graphics API: Glide
-    - ��� [Glide](https://en.wikipedia.org/wiki/Glide_(API)) - Developed by _3dfx Interactive_ for their _Voodoo Graphics_ in the 1990's.
+    - 📚 [Glide](https://en.wikipedia.org/wiki/Glide_(API)) - Developed by _3dfx Interactive_ for their _Voodoo Graphics_ in the 1990's.
     - 🌎 [Glide Open Source Project](https://glide.sourceforge.net/) - Glide open source project.
 - Graphics API: Mantle
     - 📚 [Mantle](https://en.wikipedia.org/wiki/Mantle_(API)) - Developed by _AMD_ as an alternative to Direct3D and OpenGL.
