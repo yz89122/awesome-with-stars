@@ -120,6 +120,7 @@ SDL2 and SDL3 based applications importing `vlang/sdl`.
 - [vee ![GitHub Repo Stars](https://img.shields.io/github/stars/Larpon/vee) ![GitHub last commit](https://img.shields.io/github/last-commit/Larpon/vee)](https://github.com/Larpon/vee) - V Editor Engine. A V module providing the guts of a text editor. Comes with a [TUI editor example ![GitHub Repo Stars](https://img.shields.io/github/stars/Larpon/vee) ![GitHub last commit](https://img.shields.io/github/last-commit/Larpon/vee)](https://github.com/Larpon/vee/blob/master/examples/tuieditor/).
 - [volt ![GitHub Repo Stars](https://img.shields.io/github/stars/Volt-Editor-Team/volt) ![GitHub last commit](https://img.shields.io/github/last-commit/Volt-Editor-Team/volt)](https://github.com/Volt-Editor-Team/volt) - Aims to be a fully featured text editor written entirely in Vlang.
 - [vPDF ![GitHub Repo Stars](https://img.shields.io/github/stars/vlang/pdf) ![GitHub last commit](https://img.shields.io/github/last-commit/vlang/pdf)](https://github.com/vlang/pdf) - A module to simplify PDF file creation using the V programming language.
+- [vro ![GitHub Repo Stars](https://img.shields.io/github/stars/undivisible/vro) ![GitHub last commit](https://img.shields.io/github/last-commit/undivisible/vro)](https://github.com/undivisible/vro) - <0.5MB micro-inspired basic text editor. Compatible with Micro's YAML syntax highlighting.
 
 ### Games
 
