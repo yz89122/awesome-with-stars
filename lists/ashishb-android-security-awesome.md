@@ -165,7 +165,7 @@ A collection of Android security-related resources.
 1. [CFR](http://www.benf.org/other/cfr/) - Java decompiler
 1. [Krakatau ![GitHub Repo Stars](https://img.shields.io/github/stars/Storyyeller/Krakatau) ![GitHub last commit](https://img.shields.io/github/last-commit/Storyyeller/Krakatau)](https://github.com/Storyyeller/Krakatau) - Java decompiler
 1. [FernFlower ![GitHub Repo Stars](https://img.shields.io/github/stars/fesh0r/fernflower) ![GitHub last commit](https://img.shields.io/github/last-commit/fesh0r/fernflower)](https://github.com/fesh0r/fernflower) - Java decompiler
-1. [Redexer ![GitHub Repo Stars](https://img.shields.io/github/stars/plum-umd/redexer) ![GitHub last commit](https://img.shields.io/github/last-commit/plum-umd/redexer)](https://github.com/plum-umd/redexer) – apk manipulation
+1. [Redexer ![GitHub Repo Stars](https://img.shields.io/github/stars/plum-umd/redexer) ![GitHub last commit](https://img.shields.io/github/last-commit/plum-umd/redexer)](https://github.com/plum-umd/redexer) �� apk manipulation
 1. [Simplify Android deobfuscator ![GitHub Repo Stars](https://img.shields.io/github/stars/CalebFenton/simplify) ![GitHub last commit](https://img.shields.io/github/last-commit/CalebFenton/simplify)](https://github.com/CalebFenton/simplify)
 1. [Bytecode viewer ![GitHub Repo Stars](https://img.shields.io/github/stars/Konloch/bytecode-viewer) ![GitHub last commit](https://img.shields.io/github/last-commit/Konloch/bytecode-viewer)](https://github.com/Konloch/bytecode-viewer)
 1. [Radare2 ![GitHub Repo Stars](https://img.shields.io/github/stars/radare/radare2) ![GitHub last commit](https://img.shields.io/github/last-commit/radare/radare2)](https://github.com/radare/radare2)
