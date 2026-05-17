@@ -257,6 +257,7 @@ _Libraries for manipulating audio and music._
 - [music-theory ![GitHub Repo Stars](https://img.shields.io/github/stars/go-music-theory/music-theory) ![GitHub last commit](https://img.shields.io/github/last-commit/go-music-theory/music-theory)](https://github.com/go-music-theory/music-theory) - Music theory models in Go.
 - [Oto ![GitHub Repo Stars](https://img.shields.io/github/stars/hajimehoshi/oto) ![GitHub last commit](https://img.shields.io/github/last-commit/hajimehoshi/oto)](https://github.com/hajimehoshi/oto) - A low-level library to play sound on multiple platforms.
 - [PortAudio ![GitHub Repo Stars](https://img.shields.io/github/stars/gordonklaus/portaudio) ![GitHub last commit](https://img.shields.io/github/last-commit/gordonklaus/portaudio)](https://github.com/gordonklaus/portaudio) - Go bindings for the PortAudio audio I/O library.
+-[voxrai-ai ![GitHub Repo Stars](https://img.shields.io/github/stars/Voxray-AI/Voxray) ![GitHub last commit](https://img.shields.io/github/last-commit/Voxray-AI/Voxray)](https://github.com/Voxray-AI/Voxray) - AI voice agents with a JSON configuration,  STT → LLM → TTS pipelines over WebSocket and WebRTC 
 
 **[⬆ back to top](#contents)**
 
