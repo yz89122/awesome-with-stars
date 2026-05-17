@@ -391,7 +391,7 @@ All the invoicing terms & conditions are materialzed by the contract signed betw
 
 - [Quantity discounts on a virtual good: The results of a massive pricing experiment](https://sci-hub.st/https://www.pnas.org/doi/pdf/10.1073/pnas.1510501113) - “Implementing price reductions ranging from 9–70% for large purchases, we found remarkably little impact on revenue, either positively or negatively.” If discounts are a placebo and are still widely used in the industry, maybe they are a marketing hack to lure big customers?
 
-- “It used to be I could just give a lump sum and let Google Ads play until there is no more budget. Not anymore.” - ([source](https://news.ycombinator.com/item?id=36325785)) - Google Ads used to implement a concept of capped actuals. A kind of monthly budget with rollover, which is an optimal billing scheme to limit surprises for customers. It always looked to me as a way to sell quotas.
+- “It used to be I could just give a lump sum and let Google Ads play until there is no more budget. Not anymore.��� - ([source](https://news.ycombinator.com/item?id=36325785)) - Google Ads used to implement a concept of capped actuals. A kind of monthly budget with rollover, which is an optimal billing scheme to limit surprises for customers. It always looked to me as a way to sell quotas.
 
 ## Coupons and Vouchers
 
