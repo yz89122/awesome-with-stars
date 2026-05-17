@@ -95,13 +95,18 @@ _For live capability comparison, see [Terminal-Bench](https://www.tbench.ai/lead
 
 - [Claude Code](https://code.claude.com/) — Anthropic's CLI agent; multi-file codebase refactoring with long context.
 - [Codex CLI ![GitHub Repo Stars](https://img.shields.io/github/stars/openai/codex) ![GitHub last commit](https://img.shields.io/github/last-commit/openai/codex)](https://github.com/openai/codex) — OpenAI's Rust-based local terminal agent; lightweight and fast.
+- [Gemini CLI ![GitHub Repo Stars](https://img.shields.io/github/stars/google-gemini/gemini-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/google-gemini/gemini-cli)](https://github.com/google-gemini/gemini-cli) — Google's official open-source terminal agent; long-context repo exploration.
 - [Cursor CLI](https://cursor.com/cli) — Cursor's terminal-native agent with sandboxed permissions.
 - [Aider](https://aider.chat/) — Git-integrated pair programming with surgical edits and undo.
 - [OpenCode](https://opencode.ai/) — Provider-agnostic terminal harness with a strong TUI.
+- [OpenHands](https://docs.all-hands.dev/) — Open-source autonomous SWE platform; browser + shell + editor loop.
+- [Cline ![GitHub Repo Stars](https://img.shields.io/github/stars/cline/cline) ![GitHub last commit](https://img.shields.io/github/last-commit/cline/cline)](https://github.com/cline/cline) — Open-source agentic IDE extension with strong multi-provider support.
+- [Continue](https://www.continue.dev/) — Open-source IDE + CLI assistant with source-controlled rules.
 - [Goose](https://block.github.io/goose/) — Block's extensible, MCP-driven local agent.
-- [Cline CLI ![GitHub Repo Stars](https://img.shields.io/github/stars/cline/cline) ![GitHub last commit](https://img.shields.io/github/last-commit/cline/cline)](https://github.com/cline/cline) — Parallel agent execution with git worktrees; headless CI-friendly.
 - [Factory Droid](https://factory.ai/product/cli) — Benchmark-leading multi-model harness with BYOK local execution.
+- [Amp](https://ampcode.com/) — Sourcegraph's commercial agentic coding tool with strong product UX.
 - [Mistral Vibe](https://mistral.ai/products/vibe) — Mistral's agentic coding CLI, powered by Devstral.
+- [Qwen Code ![GitHub Repo Stars](https://img.shields.io/github/stars/QwenLM/qwen-code) ![GitHub last commit](https://img.shields.io/github/last-commit/QwenLM/qwen-code)](https://github.com/QwenLM/qwen-code) — Alibaba's terminal coding agent, optimized for Qwen models.
 - [Pi](https://pi.dev/) — Highly customizable terminal harness; minimal base prompt, extension-driven.
 - [Nanocoder ![GitHub Repo Stars](https://img.shields.io/github/stars/Nano-Collective/nanocoder) ![GitHub last commit](https://img.shields.io/github/last-commit/Nano-Collective/nanocoder)](https://github.com/Nano-Collective/nanocoder) — Private, local-first agent for Ollama and LM Studio.
 - [Kilo CLI](https://kilo.ai/cli) — Multi-mode agent with a unified gateway to 500+ models.
