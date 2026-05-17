@@ -346,7 +346,7 @@ The storefront of Magento 2 can be styled in numerous ways:
 - [M.academy](https://m.academy/blog/) - Blog from the M.academy team.
 
 <details>
-<summary>�� Graveyard — projects no longer recommended</summary>
+<summary>🪦 Graveyard — projects no longer recommended</summary>
 
 - [bitExpert AG](https://blog.bitexpert.de/blog/tags/magento) - bitExpert's Magento-tagged blog posts.
 - [Fooman](http://store.fooman.co.nz/blog) - Fooman's Magento extension and development blog.
