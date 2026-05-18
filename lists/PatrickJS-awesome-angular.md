@@ -1080,6 +1080,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [testing-library-queries ![GitHub Repo Stars](https://img.shields.io/github/stars/thomasmikava/testing-library-queries) ![GitHub last commit](https://img.shields.io/github/last-commit/thomasmikava/testing-library-queries)](https://github.com/thomasmikava/testing-library-queries) - Streamlines DOM querying with a composable, chainable API, TypeScript support, CSS selector helpers, concise syntax, reusable query logic, and framework-agnostic compatibility.
 * [ArchUnitTS ![GitHub Repo Stars](https://img.shields.io/github/stars/LukasNiessen/ArchUnitTS) ![GitHub last commit](https://img.shields.io/github/last-commit/LukasNiessen/ArchUnitTS)](https://github.com/LukasNiessen/ArchUnitTS) - Enforce architecture rules, detect circular dependencies, and validate code standards in JS/TS projects with easy setup and seamless test framework integration.
 * [qc-auto-package ![GitHub Repo Stars](https://img.shields.io/github/stars/KareemMostafa77/qc-auto-package) ![GitHub last commit](https://img.shields.io/github/last-commit/KareemMostafa77/qc-auto-package)](https://github.com/KareemMostafa77/qc-auto-package) - Effortless, reliable test IDs for Angular — managed by testers, independent of code.
+* [ng-magic-test-bed ![GitHub Repo Stars](https://img.shields.io/github/stars/peejay-solutions/ng-magic-test-bed) ![GitHub last commit](https://img.shields.io/github/last-commit/peejay-solutions/ng-magic-test-bed)](https://github.com/peejay-solutions/ng-magic-test-bed) - Angular test bed wrapper that allows you to remove a lot of bloat code from your spec files.
 
 ## Site Templates
 
@@ -1135,6 +1136,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [radixweb](https://radixweb.com/starter-kits/enterprise-microservices-boilerplate) - Full production-ready microservices boilerplate.
 * [base-angular-monorepo ![GitHub Repo Stars](https://img.shields.io/github/stars/myvictorlife/base-angular-monorepo) ![GitHub last commit](https://img.shields.io/github/last-commit/myvictorlife/base-angular-monorepo)](https://github.com/myvictorlife/base-angular-monorepo) - A production-ready base project for developing scalable Angular applications (Nx, NgRx, Tailwind CSS, Jest, ESLint, Prettier).
 * [nx-ng-starter ![GitHub Repo Stars](https://img.shields.io/github/stars/rfprod/nx-ng-starter) ![GitHub last commit](https://img.shields.io/github/last-commit/rfprod/nx-ng-starter)](https://github.com/rfprod/nx-ng-starter) - Monorepo starter with workflow automation: Nx, Angular, Angular Elements, Electron, Node, Nest, Firebase.
+* [elements-template ![GitHub Repo Stars](https://img.shields.io/github/stars/giacomo/elements-template) ![GitHub last commit](https://img.shields.io/github/last-commit/giacomo/elements-template)](https://github.com/giacomo/elements-template) - A modern, opinionated starter kit for building custom Web Components powered by Angular 21, Tailwind CSS v4, and Vitest.
 
 ### Paid Templates
 
@@ -2117,6 +2119,7 @@ for the creation of web applications developed with Angular.
 * [Clean Architecture Frontend ![GitHub Repo Stars](https://img.shields.io/github/stars/ialiaslani/caf) ![GitHub last commit](https://img.shields.io/github/last-commit/ialiaslani/caf)](https://github.com/ialiaslani/caf) - Domain-agnostic primitives for building frontend applications with Clean Architecture. Works with React, Vue, Angular, or any future framework.
 * [@luminacn/ui ![GitHub Repo Stars](https://img.shields.io/github/stars/luminacn/ui) ![GitHub last commit](https://img.shields.io/github/last-commit/luminacn/ui)](https://github.com/luminacn/ui) - Signal-first, headless UI primitives for Angular.
 * [Bloc UI ![GitHub Repo Stars](https://img.shields.io/github/stars/debasish1996/BLOC-UI) ![GitHub last commit](https://img.shields.io/github/last-commit/debasish1996/BLOC-UI)](https://github.com/debasish1996/BLOC-UI) - Lightweight, accessible Angular components with zero design opinions. Use your own styles or the optional theme package.
+* [angular-primitives ![GitHub Repo Stars](https://img.shields.io/github/stars/snatuva/angular-primitives) ![GitHub last commit](https://img.shields.io/github/last-commit/snatuva/angular-primitives)](https://github.com/snatuva/angular-primitives) - Signal-first Angular primitives for building scalable, accessible UI systems.
 
 ### Viewers
 
