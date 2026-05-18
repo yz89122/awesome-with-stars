@@ -62,6 +62,7 @@
 
 - [coturn ![GitHub Repo Stars](https://img.shields.io/github/stars/coturn/coturn) ![GitHub last commit](https://img.shields.io/github/last-commit/coturn/coturn)](https://github.com/coturn/coturn) - Fully featured TURN/STUN server supporting multiple platforms.
 - [eturnal](https://eturnal.net/) - Modern and scalable STUN/TURN server written in Erlang.
+- [natcheck ![GitHub Repo Stars](https://img.shields.io/github/stars/1mb-dev/natcheck) ![GitHub last commit](https://img.shields.io/github/last-commit/1mb-dev/natcheck)](https://github.com/1mb-dev/natcheck) - NAT type diagnosis CLI. Probes STUN servers, classifies mapping behaviour per RFC 5780, and reports a WebRTC direct-P2P forecast.
 - [STUNTMAN ![GitHub Repo Stars](https://img.shields.io/github/stars/jselbie/stunserver) ![GitHub last commit](https://img.shields.io/github/last-commit/jselbie/stunserver)](https://github.com/jselbie/stunserver) - RFC compliant open source STUN implementation.
 
 
@@ -134,6 +135,7 @@
 - [PJSIP](https://www.pjsip.org) - Multi-protocol RTC library written in C.
 - [eXosip](http://savannah.nongnu.org/projects/exosip) - eXtended osip is a mature C library for abstracting the SIP protocol.
 - [libdatachannel ![GitHub Repo Stars](https://img.shields.io/github/stars/paullouisageneau/libdatachannel) ![GitHub last commit](https://img.shields.io/github/last-commit/paullouisageneau/libdatachannel)](https://github.com/paullouisageneau/libdatachannel) - Standalone WebRTC DataChannels C++ implementation.
+- [icey ![GitHub Repo Stars](https://img.shields.io/github/stars/nilstate/icey) ![GitHub last commit](https://img.shields.io/github/last-commit/nilstate/icey)](https://github.com/nilstate/icey) - C++20 WebRTC media runtime with FFmpeg pipeline, Symple signalling, and RFC 5766 TURN.
 - [libSRTP ![GitHub Repo Stars](https://img.shields.io/github/stars/cisco/libsrtp) ![GitHub last commit](https://img.shields.io/github/last-commit/cisco/libsrtp)](https://github.com/cisco/libsrtp) - Secure Real-time Transport Protocol (SRTP) library for C.
 - [usrsctp ![GitHub Repo Stars](https://img.shields.io/github/stars/sctplab/usrsctp) ![GitHub last commit](https://img.shields.io/github/last-commit/sctplab/usrsctp)](https://github.com/sctplab/usrsctp) - Portable Stream Control Transmission Protocol (SCTP) user-land stack.
 - [rawrtc ![GitHub Repo Stars](https://img.shields.io/github/stars/rawrtc/rawrtc) ![GitHub last commit](https://img.shields.io/github/last-commit/rawrtc/rawrtc)](https://github.com/rawrtc/rawrtc) - WebRTC and ORTC library with a small footprint.
