@@ -216,6 +216,7 @@ _Libraries for Computer Vision._
 - [kornia ![GitHub Repo Stars](https://img.shields.io/github/stars/kornia/kornia) ![GitHub last commit](https://img.shields.io/github/last-commit/kornia/kornia)](https://github.com/kornia/kornia/) - Open Source Differentiable Computer Vision Library for PyTorch.
 - [opencv ![GitHub Repo Stars](https://img.shields.io/github/stars/opencv/opencv-python) ![GitHub last commit](https://img.shields.io/github/last-commit/opencv/opencv-python)](https://github.com/opencv/opencv-python) - Open Source Computer Vision Library.
 - [pytesseract ![GitHub Repo Stars](https://img.shields.io/github/stars/madmaze/pytesseract) ![GitHub last commit](https://img.shields.io/github/last-commit/madmaze/pytesseract)](https://github.com/madmaze/pytesseract) - A wrapper for [Google Tesseract OCR](https://github.com/tesseract-ocr).
+- [ultralytics ![GitHub Repo Stars](https://img.shields.io/github/stars/ultralytics/ultralytics) ![GitHub last commit](https://img.shields.io/github/last-commit/ultralytics/ultralytics)](https://github.com/ultralytics/ultralytics) - Ultralytics YOLO for object detection, segmentation, pose estimation, and classification with state-of-the-art accuracy and speed.
 
 ### Recommender Systems
 
