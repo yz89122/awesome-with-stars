@@ -533,4 +533,4 @@ Other tools that can be used to create Visualization/Dashboards can be found und
 - [Let's Encrypt Mosquitto Docker Container](https://hub.docker.com/r/pythonlinks/letsencrypt-mosquitto) - Easier TLS certificate management for brokers.
 - [mqttsa ![GitHub Repo Stars](https://img.shields.io/github/stars/stfbk/mqttsa) ![GitHub last commit](https://img.shields.io/github/last-commit/stfbk/mqttsa)](https://github.com/stfbk/mqttsa) - Broker mis-configuration detection for cyber protection.
 - [MQTT-PWN ![GitHub Repo Stars](https://img.shields.io/github/stars/akamai-threat-research/mqtt-pwn) ![GitHub last commit](https://img.shields.io/github/last-commit/akamai-threat-research/mqtt-pwn)](https://github.com/akamai-threat-research/mqtt-pwn) - IoT Broker penetration-testing and security assessment operations.
-- [Teserakt E4](https://teserakt.io/) - End-to-end encryption and key management for MQTT and other M2M protocols – Open-source and paid plans.
+- [Teserakt E4](https://teserakt.io/) - End-to-end encryption and key management for MQTT and other M2M protocols ��� Open-source and paid plans.
