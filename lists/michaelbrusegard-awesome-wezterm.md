@@ -80,6 +80,7 @@ To enhance your WezTerm configuration experience:
 - [neapsix/wezterm ![GitHub Repo Stars](https://img.shields.io/github/stars/neapsix/wezterm) ![GitHub last commit](https://img.shields.io/github/last-commit/neapsix/wezterm)](https://github.com/neapsix/wezterm) - Rosé Pine theme, all natural pine, faux fur and a bit of soho vibes.
 - [sravioli/kanagawa.wz ![GitHub Repo Stars](https://img.shields.io/github/stars/sravioli/kanagawa.wz) ![GitHub last commit](https://img.shields.io/github/last-commit/sravioli/kanagawa.wz)](https://github.com/sravioli/kanagawa.wz) - Kanagawa.nvim color schemes with Wave, Dragon, and Lotus variants.
 - [koh-sh/wezterm-theme-rotator ![GitHub Repo Stars](https://img.shields.io/github/stars/koh-sh/wezterm-theme-rotator) ![GitHub last commit](https://img.shields.io/github/last-commit/koh-sh/wezterm-theme-rotator)](https://github.com/koh-sh/wezterm-theme-rotator) - Cycle through built-in themes using keyboard shortcuts.
+- [willytop8/Wezterm-Window-Tint ![GitHub Repo Stars](https://img.shields.io/github/stars/willytop8/Wezterm-Window-Tint) ![GitHub last commit](https://img.shields.io/github/last-commit/willytop8/Wezterm-Window-Tint)](https://github.com/willytop8/Wezterm-Window-Tint) - Color the window frame, tab bar, and status badge by the active pane's Git root.
 
 ## Utility
 
