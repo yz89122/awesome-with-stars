@@ -904,6 +904,7 @@ _Libraries for building and using SQL._
 - [dynamo ![GitHub Repo Stars](https://img.shields.io/github/stars/fogfish/dynamo) ![GitHub last commit](https://img.shields.io/github/last-commit/fogfish/dynamo)](https://github.com/fogfish/dynamo) - A simple key-value abstraction to store algebraic and linked-data data types at AWS storage services: AWS DynamoDB and AWS S3.
 - [go-transaction-manager ![GitHub Repo Stars](https://img.shields.io/github/stars/avito-tech/go-transaction-manager) ![GitHub last commit](https://img.shields.io/github/last-commit/avito-tech/go-transaction-manager)](https://github.com/avito-tech/go-transaction-manager) - Transaction manager with multiple adapters (sql, sqlx, gorm, mongo, ...) controls transaction boundaries.
 - [gokv ![GitHub Repo Stars](https://img.shields.io/github/stars/philippgille/gokv) ![GitHub last commit](https://img.shields.io/github/last-commit/philippgille/gokv)](https://github.com/philippgille/gokv) - Simple key-value store abstraction and implementations for Go (Redis, Consul, etcd, bbolt, BadgerDB, LevelDB, Memcached, DynamoDB, S3, PostgreSQL, MongoDB, CockroachDB and many more).
+- [transactor ![GitHub Repo Stars](https://img.shields.io/github/stars/metalfm/transactor) ![GitHub last commit](https://img.shields.io/github/last-commit/metalfm/transactor)](https://github.com/metalfm/transactor) - Type-safe transaction boundary abstraction with adapters for database/sql, sqlx, and pgx.
 
 ### Relational Database Drivers
 
