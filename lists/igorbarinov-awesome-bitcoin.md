@@ -45,8 +45,10 @@ A curated list of bitcoin services and tools for software developers
 * [Bitcoin Serverless Donations ![GitHub Repo Stars](https://img.shields.io/github/stars/tombennet/bitcoin-serverless-donations) ![GitHub last commit](https://img.shields.io/github/last-commit/tombennet/bitcoin-serverless-donations)](https://github.com/tombennet/bitcoin-serverless-donations) - Self-custodial serverless donation widget with address rotation derived from an XPUB.
 * [BTC Tooling ![GitHub Repo Stars](https://img.shields.io/github/stars/douvy/btc-tooling) ![GitHub last commit](https://img.shields.io/github/last-commit/douvy/btc-tooling)](https://github.com/douvy/btc-tooling) - Bitcoin dashboard with real-time price data, a chart, orderbook, market summary, Twitter/X insights, and halving countdown data. [Live Demo](https://www.btctooling.com/)
 * [Chartscout](https://chartscout.io) - Real-time BTC chart pattern detection and trading alerts across multiple exchanges.
+* [Bitcoin Bottom Score](https://bitcoinbottom.app) - Real-time Bitcoin cycle bottom probability tracker. Aggregates 25 on-chain and macro signals (MVRV Z-Score, Puell Multiple, Hash Ribbon, ETF flows) into a daily P(bottom) score. Free, updated twice daily.
 * [BTC Airgap Bridge ![GitHub Repo Stars](https://img.shields.io/github/stars/paranoid-qrypto/btc-airgap-bridge) ![GitHub last commit](https://img.shields.io/github/last-commit/paranoid-qrypto/btc-airgap-bridge)](https://github.com/paranoid-qrypto/btc-airgap-bridge) - 100% client-side tool for broadcasting signed Bitcoin transactions from air-gapped wallets.
 * [SuperScalar MCP ![GitHub Repo Stars](https://img.shields.io/github/stars/8144225309/superscalar-mcp) ![GitHub last commit](https://img.shields.io/github/last-commit/8144225309/superscalar-mcp)](https://github.com/8144225309/superscalar-mcp) - MCP server for SuperScalar Bitcoin Lightning channel factories — onboard N users in one shared UTXO, no soft fork required.
+* [Lightning Memory ![GitHub Repo Stars](https://img.shields.io/github/stars/singularityjason/lightning-memory) ![GitHub last commit](https://img.shields.io/github/last-commit/singularityjason/lightning-memory)](https://github.com/singularityjason/lightning-memory) - Open-source memory layer for AI agents in the Bitcoin/Lightning economy. L402 payment gateway, vendor reputation, spending anomaly detection.
 
 ## Blockchain API and Web services
 * [3xpl.com](https://3xpl.com/) - Fastest ad-free universal block explorer.
@@ -68,9 +70,11 @@ A curated list of bitcoin services and tools for software developers
 * [Maestro](https://www.gomaestro.org/) - A high-performance Bitcoin RPC and UTXO indexer API that powers applications with real-time blockchain data, mempool monitoring, and event notifications.
 
 ## Market Data API
+* [CoinGapRadar](https://coingapradar.com) - Real-time crypto premium tracker across 9 countries. Monitor kimchi premium and regional price gaps. Free, no signup.
 * [CoinMetrics.io](https://docs.coinmetrics.io/) JSON REST API (free as well as paid) with access to market data. Also CSV data file download available.
 * [CoinPaprika](https://api.coinpaprika.com) Free crypto market data API. 12,000+ coins, 350+ exchanges, tickers, OHLCV, historical prices. No API key for free tier.
 * [Messari.io](https://messari.io/api) JSON REST API (free as well as paid) with access to market data, news, metrics, profile, etc.
+* [PreReason](https://www.prereason.com) - Pre-analyzed Bitcoin market briefings via REST API. Covers BTC price, hash rate, difficulty, mining production costs, treasury holdings (30 public companies), and macro signals that move Bitcoin (Fed balance sheet, M2, Treasury yields). Returns trend direction, confidence scores, and regime classification instead of raw numbers. Free tier available.
 
 ## Wallets API
 * [BitGo](https://developers.bitgo.com)
@@ -109,7 +113,8 @@ A curated list of bitcoin services and tools for software developers
 * [UltrafastSecp256k1 ![GitHub Repo Stars](https://img.shields.io/github/stars/shrec/UltrafastSecp256k1) ![GitHub last commit](https://img.shields.io/github/last-commit/shrec/UltrafastSecp256k1)](https://github.com/shrec/UltrafastSecp256k1) - High-performance `secp256k1` engine with a stable C ABI, CPU, CUDA, OpenCL, embedded, and WebAssembly targets.
 
 ## C++ Libraries
-* [Libbitcoin](https://libbitcoin.info/)
+* [Libbitcoin](https://libbitcoin.org/)
+* [Libbitcoin](https://libbitcoin.info/) - A set of cross platform C++ libraries for building bitcoin applications
 * [libwally-core ![GitHub Repo Stars](https://img.shields.io/github/stars/ElementsProject/libwally-core) ![GitHub last commit](https://img.shields.io/github/last-commit/ElementsProject/libwally-core)](https://github.com/ElementsProject/libwally-core)
 
 ## JavaScript Libraries
@@ -124,7 +129,7 @@ A curated list of bitcoin services and tools for software developers
 * [noble-secp256k1 ![GitHub Repo Stars](https://img.shields.io/github/stars/paulmillr/noble-secp256k1) ![GitHub last commit](https://img.shields.io/github/last-commit/paulmillr/noble-secp256k1)](https://github.com/paulmillr/noble-secp256k1) — alternative implementation of secp256k1: size is only 4KB gzipped; lots of comments, very valuable for learning how algorithms work
 * [scure-btc-signer ![GitHub Repo Stars](https://img.shields.io/github/stars/paulmillr/scure-btc-signer) ![GitHub last commit](https://img.shields.io/github/last-commit/paulmillr/scure-btc-signer)](https://github.com/paulmillr/scure-btc-signer) — audited & minimal library for creating, signing & decoding Bitcoin transactions. With Schnorr, Taproot, UTXO & PSBT.
 * [bitcoin-sdk-js ![GitHub Repo Stars](https://img.shields.io/github/stars/ChrisCho-H/bitcoin-sdk-js) ![GitHub last commit](https://img.shields.io/github/last-commit/ChrisCho-H/bitcoin-sdk-js)](https://github.com/ChrisCho-H/bitcoin-sdk-js) — Bitcoin TypeScript/JavaScript Library for NodeJS, Browser and Mobile. Segwit & Taproot support.
-
+* [toll-booth ![GitHub Repo Stars](https://img.shields.io/github/stars/forgesworn/toll-booth) ![GitHub last commit](https://img.shields.io/github/last-commit/forgesworn/toll-booth)](https://github.com/forgesworn/toll-booth) - HTTP 402 payment middleware for Node.js; gates any API behind Lightning, Cashu, or stablecoin payments with five backend options.
 ## PHP Libraries
 * [PHP-OP_RETURN ![GitHub Repo Stars](https://img.shields.io/github/stars/coinspark/php-OP_RETURN) ![GitHub last commit](https://img.shields.io/github/last-commit/coinspark/php-OP_RETURN)](https://github.com/coinspark/php-OP_RETURN)
 * [BlockTrail PHP SDK ![GitHub Repo Stars](https://img.shields.io/github/stars/blocktrail/blocktrail-sdk-php) ![GitHub last commit](https://img.shields.io/github/last-commit/blocktrail/blocktrail-sdk-php)](https://github.com/blocktrail/blocktrail-sdk-php)
@@ -154,6 +159,7 @@ A curated list of bitcoin services and tools for software developers
 * [BitcoinJ](https://bitcoinj.github.io)
 * [XChange ![GitHub Repo Stars](https://img.shields.io/github/stars/knowm/XChange) ![GitHub last commit](https://img.shields.io/github/last-commit/knowm/XChange)](https://github.com/knowm/XChange) - Library that provides a simple and consistent API for interacting with 50+ Bitcoin currency exchanges.
 * [Bitcoin Spring Boot Starter ![GitHub Repo Stars](https://img.shields.io/github/stars/theborakompanioni/bitcoin-spring-boot-starter) ![GitHub last commit](https://img.shields.io/github/last-commit/theborakompanioni/bitcoin-spring-boot-starter)](https://github.com/theborakompanioni/bitcoin-spring-boot-starter) - Bitcoin integration for Spring Boot applications.
+* [bech32 ![GitHub Repo Stars](https://img.shields.io/github/stars/NostrGameEngine/bech32) ![GitHub last commit](https://img.shields.io/github/last-commit/NostrGameEngine/bech32)](https://github.com/NostrGameEngine/bech32) - Bech32 and Bech32m encode/decode library.
 
 ## Scala libraries
 > Note that you can also use [Java libraries](#java-libraries) in Scala.
@@ -221,6 +227,7 @@ A curated list of bitcoin services and tools for software developers
 * [Learn me a Bitcoin - Greg Walker](https://learnmeabitcoin.com/) - extensive learning resource for bitcoin developers
 * [Bennet.org](https://bennet.org/) - Interactive technical guides for bitcoiners.
 * [Knowing Bitcoin](https://knowingbitcoin.com/) - Comprehensive Bitcoin education with 214+ in-depth guides on Lightning Network, wallets, security, privacy, and nodes.
+* [Bitcoin.diy](https://bitcoin.diy) - Bitcoin-only education and hardware wallet reviews, focused on self-custody for beginners and intermediate users.
 ---
 
 Inspired by the [awesome ![GitHub Repo Stars](https://img.shields.io/github/stars/sindresorhus/awesome) ![GitHub last commit](https://img.shields.io/github/last-commit/sindresorhus/awesome)](https://github.com/sindresorhus/awesome) list thing.

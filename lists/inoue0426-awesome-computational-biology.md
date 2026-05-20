@@ -223,7 +223,7 @@ Browse and search the resources via the [GitHub Pages UI](https://inoue0426.gith
 - [1000 Genomes Project](https://www.internationalgenome.org/) — Reference panel of human genetic variation from 2,504 individuals across 26 populations.
 - [BACE](https://www.kaggle.com/datasets/gokturkkoch/bace) — Binary classification and regression dataset for β-secretase 1 (BACE-1) inhibitor binding affinity.
 - [BEAT AML](https://biodev.github.io/BeatAML2/) — Functional ex vivo drug sensitivity measurements paired with genomics for acute myeloid leukemia.
-- [BindingDB Curated Sets](https://www.bindingdb.org/rwd/bind/chemsearch/marvin/SDFdownload.jsp?all_download=yes) — Curated binding affinity datasets for protein–ligand interaction benchmarking.
+- [BindingDB Curated Sets](https://www.bindingdb.org/rwd/bind/chemsearch/marvin/SDFdownload.jsp?all_download=yes) �� Curated binding affinity datasets for protein–ligand interaction benchmarking.
 - [Cancer Therapeutics Response Portal (CTRP)](https://portals.broadinstitute.org/ctrp/) — Drug sensitivity profiles across ~900 cancer cell lines for >400 compounds.
 - [ClinTox](https://tdcommons.ai/single_pred_tasks/tox/#clintox) — Clinical toxicity dataset contrasting FDA-approved drugs with those that failed clinical trials due to toxicity.
 - [CPTAC (Clinical Proteomic Tumor Analysis Consortium)](https://proteomics.cancer.gov/programs/cptac) — Multi-omic proteogenomic datasets for multiple cancer types linking proteomics with genomics.
@@ -413,7 +413,7 @@ Browse and search the resources via the [GitHub Pages UI](https://inoue0426.gith
 - [Concerto ![GitHub Repo Stars](https://img.shields.io/github/stars/melobio/Concerto-reproducibility) ![GitHub last commit](https://img.shields.io/github/last-commit/melobio/Concerto-reproducibility)](https://github.com/melobio/Concerto-reproducibility) — Contrastive self-supervised learning framework for single-cell multimodal data integration, batch correction, and reference-query mapping.
 - [scButterfly ![GitHub Repo Stars](https://img.shields.io/github/stars/BioX-NKU/scButterfly) ![GitHub last commit](https://img.shields.io/github/last-commit/BioX-NKU/scButterfly)](https://github.com/BioX-NKU/scButterfly) — Dual-aligned variational autoencoder for single-cell cross-modality translation between paired and unpaired multiomics data.
 - [JAMIE ![GitHub Repo Stars](https://img.shields.io/github/stars/Oafish1/JAMIE) ![GitHub last commit](https://img.shields.io/github/last-commit/Oafish1/JAMIE)](https://github.com/Oafish1/JAMIE) — Joint variational autoencoder for multimodal single-cell data imputation and embedding.
-- [scPair ![GitHub Repo Stars](https://img.shields.io/github/stars/quon-titative-biology/scPair) ![GitHub last commit](https://img.shields.io/github/last-commit/quon-titative-biology/scPair)](https://github.com/quon-titative-biology/scPair) �� Bidirectional feedforward network for single-cell multimodal analysis with cross-modality prediction leveraging single-cell atlases.
+- [scPair ![GitHub Repo Stars](https://img.shields.io/github/stars/quon-titative-biology/scPair) ![GitHub last commit](https://img.shields.io/github/last-commit/quon-titative-biology/scPair)](https://github.com/quon-titative-biology/scPair) — Bidirectional feedforward network for single-cell multimodal analysis with cross-modality prediction leveraging single-cell atlases.
 
 ##### Domain Alignment
 
