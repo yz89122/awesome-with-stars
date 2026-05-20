@@ -985,7 +985,7 @@ It uses the pycodestyle utility to determine what parts of the code needs to be 
 
 - [Safety](https://safetycli.com/) — Python dependency vulnerability scanner designed to enhance software supply chain security by detecting packages with known vulnerabilities. Checks Python dependencies against a database of known security vulnerabilities and provides detailed reports. Supports CI/CD integration and multiple output formats.
 
-- [ty](https://docs.astral.sh/ty/) — An extremely fast Python type checker written in Rust.
+- [ty](https://docs.astral.sh/ty/) ��� An extremely fast Python type checker written in Rust.
 
 - [unimport](https://unimport.hakancelik.dev) — A linter, formatter for finding and removing unused import statements.
 
