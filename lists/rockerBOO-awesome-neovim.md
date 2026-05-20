@@ -322,6 +322,7 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 - [leblocks/hopcsharp.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/leblocks/hopcsharp.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/leblocks/hopcsharp.nvim)](https://github.com/leblocks/hopcsharp.nvim) - Provides LSP-less navigation and type-hierarchy information in C# repositories.
 - [AnsonH/copy-python-path.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/AnsonH/copy-python-path.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/AnsonH/copy-python-path.nvim)](https://github.com/AnsonH/copy-python-path.nvim) - Copy the reference or import path of a Python symbol.
 - [J-Cowsert/classlayout.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/J-Cowsert/classlayout.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/J-Cowsert/classlayout.nvim)](https://github.com/J-Cowsert/classlayout.nvim) - Visualize C/C++ struct and class memory layouts (field offsets, padding, alignment) in a floating window.
+- [awsum-lang/awsum-nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/awsum-lang/awsum-nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/awsum-lang/awsum-nvim)](https://github.com/awsum-lang/awsum-nvim) - LSP client and Tree-sitter highlighting for the [Awsum](https://awsum-lang.org) programming language.
 
 ### Golang
 
@@ -1712,6 +1713,7 @@ then it is not supported:
 - [csessh/aoc.vim ![GitHub Repo Stars](https://img.shields.io/github/stars/csessh/aoc.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/csessh/aoc.nvim)](https://github.com/csessh/aoc.nvim) - Simple little elf who fetches Advent of Code puzzle input for you.
 - [seandewar/actually-doom.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/seandewar/actually-doom.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/seandewar/actually-doom.nvim)](https://github.com/seandewar/actually-doom.nvim) - Editing text is boring; play DOOM instead!.
 - [piersolenski/skifree.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/piersolenski/skifree.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/piersolenski/skifree.nvim)](https://github.com/piersolenski/skifree.nvim) - Play the Windows 3.1 SkiFree game.
+- [xiangnongWu2233/rubiks-cube.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/xiangnongWu2233/rubiks-cube.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/xiangnongWu2233/rubiks-cube.nvim)](https://github.com/xiangnongWu2233/rubiks-cube.nvim) - A playable Rubik's cube with auto-solver.
 
 ### Competitive Programming
 
