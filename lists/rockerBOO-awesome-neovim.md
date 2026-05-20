@@ -476,7 +476,7 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 
 - [bfredl/nvim-miniyank ![GitHub Repo Stars](https://img.shields.io/github/stars/bfredl/nvim-miniyank) ![GitHub last commit](https://img.shields.io/github/last-commit/bfredl/nvim-miniyank)](https://github.com/bfredl/nvim-miniyank) - The killring-alike plugin with no default mappings.
 - [gennaro-tedesco/nvim-peekup ![GitHub Repo Stars](https://img.shields.io/github/stars/gennaro-tedesco/nvim-peekup) ![GitHub last commit](https://img.shields.io/github/last-commit/gennaro-tedesco/nvim-peekup)](https://github.com/gennaro-tedesco/nvim-peekup) - Dynamically interact with Vim registers.
-- [tversteeg/registers.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/tversteeg/registers.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/tversteeg/registers.nvim)](https://github.com/tversteeg/registers.nvim) - Non-obtrusive minimal preview of Vim registers.
+- [tversteeg/registers.nvim](https://codeberg.org/fosk/registers.nvim) - Non-obtrusive minimal preview of Vim registers.
 - [acksld/nvim-neoclip.lua ![GitHub Repo Stars](https://img.shields.io/github/stars/AckslD/nvim-neoclip.lua) ![GitHub last commit](https://img.shields.io/github/last-commit/AckslD/nvim-neoclip.lua)](https://github.com/AckslD/nvim-neoclip.lua) - Clipboard manager with telescope integration.
 - [tenxsoydev/karen-yank.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/tenxsoydev/karen-yank.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/tenxsoydev/karen-yank.nvim)](https://github.com/tenxsoydev/karen-yank.nvim) - More intentional register handling with delete, cut and yank mappings.
 - [desdic/macrothis.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/desdic/macrothis.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/desdic/macrothis.nvim)](https://github.com/desdic/macrothis.nvim) - Save and load macros/registers.
@@ -1659,6 +1659,7 @@ then it is not supported:
 - [SUSTech-data/neopyter ![GitHub Repo Stars](https://img.shields.io/github/stars/SUSTech-data/neopyter) ![GitHub last commit](https://img.shields.io/github/last-commit/SUSTech-data/neopyter)](https://github.com/SUSTech-data/neopyter) - Edit in Neovim and preview/run in Jupyter Lab.
 - [kiyoon/jupynium.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/kiyoon/jupynium.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/kiyoon/jupynium.nvim)](https://github.com/kiyoon/jupynium.nvim) - Selenium-automated Jupyter Notebook that is synchronised with Neovim in real-time.
 - [gruvw/strudel.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/gruvw/strudel.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/gruvw/strudel.nvim)](https://github.com/gruvw/strudel.nvim) - Live coding controller for [strudel](https://strudel.cc).
+- [ritschalex/jupyter_ascending.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/RitschAlex/jupyter_ascending.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/RitschAlex/jupyter_ascending.nvim)](https://github.com/RitschAlex/jupyter_ascending.nvim) - A seamless way to work with Jupyter Notebooks using Jupyter Ascending.
 
 <!--lint disable double-link -->
 [**⬆ back to top**](#contents)
