@@ -96,6 +96,7 @@
 * [Postbird ![GitHub Repo Stars](https://img.shields.io/github/stars/Paxa/postbird) ![GitHub last commit](https://img.shields.io/github/last-commit/Paxa/postbird)](https://github.com/Paxa/postbird) - PostgreSQL Client for macOS.
 * [PostgresCompare](https://www.postgrescompare.com) - Cross-platform database comparison and deployment tool (Commercial Software).
 * [Postico](https://eggerapps.at/postico/) - Modern PostgreSQL Client for macOS (Commercial Software).
+* [QueryGlow](https://queryglow.com/) - Self-hosted, web-based database GUI with AI SQL generation, EXPLAIN visualizer, and schema-aware autocomplete (Commercial Software).
 * [PSequel](http://www.psequel.com/) - Clean and simple interface to perform common PostgreSQL tasks quickly (Commercial Software).
 * [Redash ![GitHub Repo Stars](https://img.shields.io/github/stars/getredash/redash) ![GitHub last commit](https://img.shields.io/github/last-commit/getredash/redash)](https://github.com/getredash/redash) - Connect to any data source, easily visualize and share your data.
 * [SQL Tabs](http://www.sqltabs.com/) - Cross Platform Desktop Client for PostgreSQL written in JS.
@@ -124,6 +125,7 @@
 * [sabiql ![GitHub Repo Stars](https://img.shields.io/github/stars/riii111/sabiql) ![GitHub last commit](https://img.shields.io/github/last-commit/riii111/sabiql)](https://github.com/riii111/sabiql) - A fast, driver-less TUI to browse, query, and edit PostgreSQL databases.
 * [schemaspy ![GitHub Repo Stars](https://img.shields.io/github/stars/schemaspy/schemaspy) ![GitHub last commit](https://img.shields.io/github/last-commit/schemaspy/schemaspy)](https://github.com/schemaspy/schemaspy) - SchemaSpy is a JAVA JDBC-compliant tool for generating your database to HTML documentation, including Entity Relationship diagrams
 * [pdot](https://gitlab.com/dmfay/pdot) - Visualize and explore database structures in your shell, from high-context views of the foreign key graph to trigger cascades, role inheritance and permissions, and many more
+* [squix ![GitHub Repo Stars](https://img.shields.io/github/stars/eduardofuncao/squix) ![GitHub last commit](https://img.shields.io/github/last-commit/eduardofuncao/squix)](https://github.com/eduardofuncao/squix) - SQL command-line client with query management and interactive results.
 
 ### Server
 * [AgensGraph](https://bitnine.net/) - Powerful graph database based on the PostgreSQL.
@@ -228,6 +230,7 @@ for `EXPLAIN`, that also provides performance tips (Commercial Software).
 * [ERAlchemy ![GitHub Repo Stars](https://img.shields.io/github/stars/Alexis-benoist/eralchemy) ![GitHub last commit](https://img.shields.io/github/last-commit/Alexis-benoist/eralchemy)](https://github.com/Alexis-benoist/eralchemy) - ERAlchemy generates Entity Relation (ER) diagram from databases.
 * [flyway](https://flywaydb.org/) - Schema migration tool for Postgres and others.
 * [GatewayD ![GitHub Repo Stars](https://img.shields.io/github/stars/gatewayd-io/gatewayd) ![GitHub last commit](https://img.shields.io/github/last-commit/gatewayd-io/gatewayd)](https://github.com/gatewayd-io/gatewayd) - Cloud-native database gateway and framework for building data-driven applications. Like API gateways, for databases.
+* [Greenmask ![GitHub Repo Stars](https://img.shields.io/github/stars/GreenmaskIO/greenmask) ![GitHub last commit](https://img.shields.io/github/last-commit/GreenmaskIO/greenmask)](https://github.com/GreenmaskIO/greenmask) - Database anonymization and synthetic data generation tool for MySQL and PostgreSQL.
 * [Hasura GraphQL Engine ![GitHub Repo Stars](https://img.shields.io/github/stars/hasura/graphql-engine) ![GitHub last commit](https://img.shields.io/github/last-commit/hasura/graphql-engine)](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events.
 * [ldap2pg ![GitHub Repo Stars](https://img.shields.io/github/stars/dalibo/ldap2pg) ![GitHub last commit](https://img.shields.io/github/last-commit/dalibo/ldap2pg)](https://github.com/dalibo/ldap2pg) - Synchronize roles and privileges from YML and LDAP.
 * [migra ![GitHub Repo Stars](https://img.shields.io/github/stars/djrobstep/migra) ![GitHub last commit](https://img.shields.io/github/last-commit/djrobstep/migra)](https://github.com/djrobstep/migra) - Like diff but for Postgres schemas.
@@ -268,6 +271,7 @@ for `EXPLAIN`, that also provides performance tips (Commercial Software).
 * [pgmigrate ![GitHub Repo Stars](https://img.shields.io/github/stars/yandex/pgmigrate) ![GitHub last commit](https://img.shields.io/github/last-commit/yandex/pgmigrate)](https://github.com/yandex/pgmigrate) - CLI tool to evolve schema migrations, developed by Yandex.
 * [pgcmp ![GitHub Repo Stars](https://img.shields.io/github/stars/cbbrowne/pgcmp) ![GitHub last commit](https://img.shields.io/github/last-commit/cbbrowne/pgcmp)](https://github.com/cbbrowne/pgcmp) - Tool to compare database schemas, with capability to accept some persistent differences
 * [pg-differ ![GitHub Repo Stars](https://img.shields.io/github/stars/multum/pg-differ) ![GitHub last commit](https://img.shields.io/github/last-commit/multum/pg-differ)](https://github.com/multum/pg-differ) - Tool for easy initialization / updating of the structure of PostgreSQL tables, migration alternative (Node.js).
+* [Qail ![GitHub Repo Stars](https://img.shields.io/github/stars/qail-io/qail) ![GitHub last commit](https://img.shields.io/github/last-commit/qail-io/qail)](https://github.com/qail-io/qail) - rust-first typed AST pipeline for PostgreSQL with compile-time query checks and built-in tenant scoping.
 * [sqlcheck ![GitHub Repo Stars](https://img.shields.io/github/stars/jarulraj/sqlcheck) ![GitHub last commit](https://img.shields.io/github/last-commit/jarulraj/sqlcheck)](https://github.com/jarulraj/sqlcheck) - Automatically detects common SQL anti-patterns. Such anti-patterns often slow down queries. Addressing them will, therefore, help accelerate queries.
 * [postgres-checkup](https://gitlab.com/postgres-ai/postgres-checkup) - a new-generation diagnostics tool that allows users to collect deep analysis of the health of a Postgres database.
 * [Pyrseas ![GitHub Repo Stars](https://img.shields.io/github/stars/perseas/Pyrseas) ![GitHub last commit](https://img.shields.io/github/last-commit/perseas/Pyrseas)](https://github.com/perseas/Pyrseas) - Postgres database schema versioning.
@@ -294,7 +298,7 @@ for `EXPLAIN`, that also provides performance tips (Commercial Software).
 * Ruby: [pg ![GitHub Repo Stars](https://img.shields.io/github/stars/ged/ruby-pg) ![GitHub last commit](https://img.shields.io/github/last-commit/ged/ruby-pg)](https://github.com/ged/ruby-pg)
 * Rust: [rust-postgresql ![GitHub Repo Stars](https://img.shields.io/github/stars/sfackler/rust-postgres) ![GitHub last commit](https://img.shields.io/github/last-commit/sfackler/rust-postgres)](https://github.com/sfackler/rust-postgres), [pgx ![GitHub Repo Stars](https://img.shields.io/github/stars/tcdi/pgx) ![GitHub last commit](https://img.shields.io/github/last-commit/tcdi/pgx)](https://github.com/tcdi/pgx), [wtx ![GitHub Repo Stars](https://img.shields.io/github/stars/c410-f3r/wtx) ![GitHub last commit](https://img.shields.io/github/last-commit/c410-f3r/wtx)](https://github.com/c410-f3r/wtx)
 * TypeScript: [zapatos ![GitHub Repo Stars](https://img.shields.io/github/stars/jawj/zapatos) ![GitHub last commit](https://img.shields.io/github/last-commit/jawj/zapatos)](https://github.com/jawj/zapatos)
-* Zig: [pg.zig ![GitHub Repo Stars](https://img.shields.io/github/stars/karlseguin/pg.zig) ![GitHub last commit](https://img.shields.io/github/last-commit/karlseguin/pg.zig)](https://github.com/karlseguin/pg.zig)
+* Zig: [pg.zig ![GitHub Repo Stars](https://img.shields.io/github/stars/karlseguin/pg.zig) ![GitHub last commit](https://img.shields.io/github/last-commit/karlseguin/pg.zig)](https://github.com/karlseguin/pg.zig), [qail-zig ![GitHub Repo Stars](https://img.shields.io/github/stars/qail-io/qail-zig) ![GitHub last commit](https://img.shields.io/github/last-commit/qail-io/qail-zig)](https://github.com/qail-io/qail-zig)
 
 ### PaaS *(PostgreSQL as a Service)*
 * [Aiven PostgreSQL](https://aiven.io/postgresql) - PostgreSQL as a service in AWS, Azure, DigitalOcean, Google Cloud and UpCloud; plans range from $19/month single node instances to large highly-available setups, free trial for two weeks.
@@ -379,6 +383,7 @@ for `EXPLAIN`, that also provides performance tips (Commercial Software).
 
 * [Postgres Weekly](https://postgresweekly.com/) - Weekly newsletter that contains articles, news, and repos relevant to PostgreSQL.
 * [pgMustard newsletter](https://www.pgmustard.com/newsletter) - Monthly newsletter that contains Postgres performance articles and videos.
+* [pgsql-hackers Weekly Digest](https://ryogrid.net/pgsql-hackers-digest/) - Weekly digest of the pgsql-hackers mailing list that provides a list of active threads, thread summaries, and more.
 
 ### Podcasts
 * [PostgresFM](https://postgres.fm/) - Weekly discussions about Postgres topics.
