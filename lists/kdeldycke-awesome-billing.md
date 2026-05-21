@@ -137,6 +137,8 @@ From monthly subscription to commodity-like on-the-go consumption, there's plent
 
 The dynamic scheme for elastic resources.
 
+- [Credyt](https://credyt.ai/?utm_source=awesome-billing&utm_medium=referral&utm_campaign=awesome-billing-oss-sponsorship) - Real-time monetization infrastructure for AI products: meter usage, charge from prepaid balances, and ship a branded customer portal without writing frontend. Commercial SaaS.
+
 - [Why I Love Usage-Based Pricing](https://www.rdegges.com/2020/the-only-type-of-api-services-ill-use/) - “The most important reason I like this pricing model is that it heavily incentivizes both the customer and the service provider to act in everyone's best interest.” Also details issues with other pricing models.
 
 - [Use-cases for cloud services](https://news.ycombinator.com/item?id=19830022) - The reason usage-based pricing makes even more sense for cloud services: to optimize ROI, keep all regular workload in traditional architecture and reserve cloud computing for elastic and experimental projects.
@@ -161,7 +163,7 @@ The dynamic scheme for elastic resources.
 
 - [Electropedia: Tariffs for electricity](https://www.electropedia.org/iev/iev.nsf/index?openform&part=691) - Before the cloud, there was another metered resource priced by its usage: electricity. Here is a detailed (and multi-lingual) taxonomy of its vocabulary from the International Electrotechnical Commission.
 
-- [Lago ![GitHub Repo Stars](https://img.shields.io/github/stars/getlago/lago) ![GitHub last commit](https://img.shields.io/github/last-commit/getlago/lago)](https://github.com/getlago/lago) - 💸 Open-source metering & usage-based billing in Ruby. Lago SAS sells a hosted Cloud and Premium add-ons on top of the AGPL core.
+- [Lago ![GitHub Repo Stars](https://img.shields.io/github/stars/getlago/lago) ![GitHub last commit](https://img.shields.io/github/last-commit/getlago/lago)](https://github.com/getlago/lago) - �� Open-source metering & usage-based billing in Ruby. Lago SAS sells a hosted Cloud and Premium add-ons on top of the AGPL core.
 
 - [CGRateS ![GitHub Repo Stars](https://img.shields.io/github/stars/cgrates/cgrates) ![GitHub last commit](https://img.shields.io/github/last-commit/cgrates/cgrates)](https://github.com/cgrates/cgrates) - 🆓 An open-source, fast (50k+ CPS) and scalable (load-balancer + replication included) real-time billing for ISPs and Telecom Operators, written in Go. Vendor-neutral, support-only commercial model.
 
