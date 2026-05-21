@@ -421,7 +421,7 @@ _Libraries for building Console Applications and Console User Interfaces._
 - [yacspin ![GitHub Repo Stars](https://img.shields.io/github/stars/theckman/yacspin) ![GitHub last commit](https://img.shields.io/github/last-commit/theckman/yacspin)](https://github.com/theckman/yacspin) - Yet Another CLi Spinner package, for working with terminal spinners.
 - [goscaf ![GitHub Repo Stars](https://img.shields.io/github/stars/iyashjayesh/goscaf) ![GitHub last commit](https://img.shields.io/github/last-commit/iyashjayesh/goscaf)](https://github.com/iyashjayesh/goscaf) - goscaf generates opinionated, production-quality Go project boilerplate via an interactive CLI. Stop copy-pasting skeleton code between projects.
 
-**[�� back to top](#contents)**
+**[⬆ back to top](#contents)**
 
 ### Standard CLI
 
@@ -3586,6 +3586,7 @@ _Software written in Go._
 - [limetext](https://limetext.github.io) - Lime Text is a powerful and elegant text editor primarily developed in Go that aims to be a Free and open-source software successor to Sublime Text.
 - [LiteIDE ![GitHub Repo Stars](https://img.shields.io/github/stars/visualfc/liteide) ![GitHub last commit](https://img.shields.io/github/last-commit/visualfc/liteide)](https://github.com/visualfc/liteide) - LiteIDE is a simple, open source, cross-platform Go IDE.
 - [mac-cleanup-go ![GitHub Repo Stars](https://img.shields.io/github/stars/2ykwang/mac-cleanup-go) ![GitHub last commit](https://img.shields.io/github/last-commit/2ykwang/mac-cleanup-go)](https://github.com/2ykwang/mac-cleanup-go) - Preview-first TUI for cleaning macOS caches, logs, and temporary files.
+- [mdv ![GitHub Repo Stars](https://img.shields.io/github/stars/Allra-Fintech/mdv) ![GitHub last commit](https://img.shields.io/github/last-commit/Allra-Fintech/mdv)](https://github.com/Allra-Fintech/mdv) - CLI tool that renders Markdown files in the browser with live reload, GFM, syntax highlighting, Mermaid diagrams, and PDF export.
 - [mockingjay ![GitHub Repo Stars](https://img.shields.io/github/stars/quii/mockingjay-server) ![GitHub last commit](https://img.shields.io/github/last-commit/quii/mockingjay-server)](https://github.com/quii/mockingjay-server) - Fake HTTP servers and consumer driven contracts from one configuration file. You can also make the server randomly misbehave to help do more realistic performance tests.
 - [myLG ![GitHub Repo Stars](https://img.shields.io/github/stars/mehrdadrad/mylg) ![GitHub last commit](https://img.shields.io/github/last-commit/mehrdadrad/mylg)](https://github.com/mehrdadrad/mylg) - Command Line Network Diagnostic tool written in Go.
 - [naclpipe ![GitHub Repo Stars](https://img.shields.io/github/stars/unix4fun/naclpipe) ![GitHub last commit](https://img.shields.io/github/last-commit/unix4fun/naclpipe)](https://github.com/unix4fun/naclpipe) - Simple NaCL EC25519 based crypto pipe tool written in Go.
