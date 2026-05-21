@@ -635,7 +635,7 @@ Inspired by the [awesome ![GitHub Repo Stars](https://img.shields.io/github/star
 [Instant Loading: Building offline-first Progressive Web Apps](https://www.youtube.com/watch?v=cmGr0RszHc8)
 (Jake Archibald - May 20, 2016)
 
-[Offline First ��� the good parts](https://www.youtube.com/watch?v=NEferkZOGV4&feature=youtu.be)
+[Offline First – the good parts](https://www.youtube.com/watch?v=NEferkZOGV4&feature=youtu.be)
 (Gregor Martynus - May 12, 2016)
 
 [Offline Web Applications: Using IndexedDB & Service Worker](https://www.udacity.com/course/offline-web-applications--ud899)
