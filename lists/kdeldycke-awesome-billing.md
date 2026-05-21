@@ -163,7 +163,7 @@ The dynamic scheme for elastic resources.
 
 - [Electropedia: Tariffs for electricity](https://www.electropedia.org/iev/iev.nsf/index?openform&part=691) - Before the cloud, there was another metered resource priced by its usage: electricity. Here is a detailed (and multi-lingual) taxonomy of its vocabulary from the International Electrotechnical Commission.
 
-- [Lago ![GitHub Repo Stars](https://img.shields.io/github/stars/getlago/lago) ![GitHub last commit](https://img.shields.io/github/last-commit/getlago/lago)](https://github.com/getlago/lago) - 💸 Open-source metering & usage-based billing in Ruby. Lago SAS sells a hosted Cloud and Premium add-ons on top of the AGPL core.
+- [Lago ![GitHub Repo Stars](https://img.shields.io/github/stars/getlago/lago) ![GitHub last commit](https://img.shields.io/github/last-commit/getlago/lago)](https://github.com/getlago/lago) - �� Open-source metering & usage-based billing in Ruby. Lago SAS sells a hosted Cloud and Premium add-ons on top of the AGPL core.
 
 - [CGRateS ![GitHub Repo Stars](https://img.shields.io/github/stars/cgrates/cgrates) ![GitHub last commit](https://img.shields.io/github/last-commit/cgrates/cgrates)](https://github.com/cgrates/cgrates) - 🆓 An open-source, fast (50k+ CPS) and scalable (load-balancer + replication included) real-time billing for ISPs and Telecom Operators, written in Go. Vendor-neutral, support-only commercial model.
 
