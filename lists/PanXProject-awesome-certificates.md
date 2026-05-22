@@ -205,7 +205,7 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 | <a href="https://www.life-global.org/course/17-starting-a-small-business" target="_blank" rel="noopener noreferrer"> Starting a Small Business </a> | HP / Life Global | Beginner | 0.5 | 🏆 |
 | <a href="https://www.life-global.org/course/28-selling-online" target="_blank" rel="noopener noreferrer"> Selling Online </a> | HP / Life Global | Beginner | 0.5 | 🏆 |
 | <a href="https://www.life-global.org/course/318-social-entrepreneurship" target="_blank" rel="noopener noreferrer"> Social Entrepreneurship </a> | HP / Life Global | Beginner | 0.5 | 🏆 |
-| <a href="https://www.life-global.org/course/19-growth-engine-for-your-business" target="_blank" rel="noopener noreferrer"> Growth Engine for Your Business </a> | HP / Life Global | Beginner | 0.5 | ���� |
+| <a href="https://www.life-global.org/course/19-growth-engine-for-your-business" target="_blank" rel="noopener noreferrer"> Growth Engine for Your Business </a> | HP / Life Global | Beginner | 0.5 | 🏆 |
 
 <a href="https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents" target="_blank" rel="noopener noreferrer">⬆️</a>
 
@@ -284,7 +284,7 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 | <a href="https://codered.eccouncil.org/course/a-practical-introduction-to-cloud-computing" target="_blank" rel="noopener noreferrer">Introduction to Cloud Computing</a> | EC-Council |Beginner|3 | 🏆|
 | <a href="https://explore.skillbuilder.aws/learn/public/learning_plan/view/82/cloud-essentials-knowledge-badge-readiness-path" target="_blank" rel="noopener noreferrer">Cloud Essentials Knowledge</a> | Amazon | Intermediate | 10 | 🏅 |
 
-<a href="https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents" target="_blank" rel="noopener noreferrer">⬆️</a>
+<a href="https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents" target="_blank" rel="noopener noreferrer">⬆���</a>
 
 ## Computer Theories and Concepts
 
@@ -442,7 +442,7 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 | Course Name | Course Provider | Level | Hour(s) | Reward |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
 | <a href="https://developers.google.com/learn/pathways/intro-to-flutter" target="_blank" rel="noopener noreferrer">Intro to Flutter</a> | Google | Beginner | 0.2 | 🏅 |
-| <a href="https://codehs.com/playlist/hour-of-code-3111" target="_blank" rel="noopener noreferrer">React Native</a> | CodeHS | Beginner | 1 | 🏅 |
+| <a href="https://codehs.com/playlist/hour-of-code-3111" target="_blank" rel="noopener noreferrer">React Native</a> | CodeHS | Beginner | 1 | ��� |
 | <a href="https://cursa.app/en/free-online-courses/react-native" target="_blank" rel="noopener noreferrer">React Native for Beginners</a> | Cursa | Beginner | 5 | 🏆 |
 | <a href="https://tutorials.nmdprojects.net/play.html?react_native_html_to_jsx" target="_blank" rel="noopener noreferrer">React Native HTML to JSX</a> | Umaine New Media | Intermediate | 0.2 | 🏅 |
 | <a href="https://tutorials.nmdprojects.net/play.html?react_native_css_to_jsx" target="_blank" rel="noopener noreferrer">React Native CSS to JSX</a> | Umaine New Media | Intermediate | 0.2 | 🏅 |
