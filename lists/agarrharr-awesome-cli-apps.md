@@ -182,6 +182,7 @@ Inspired by the [awesome ![GitHub Repo Stars](https://img.shields.io/github/star
 - [reachable ![GitHub Repo Stars](https://img.shields.io/github/stars/italolelis/reachable) ![GitHub last commit](https://img.shields.io/github/last-commit/italolelis/reachable)](https://github.com/italolelis/reachable) - Check if a domain is up.
 - [diff2html-cli ![GitHub Repo Stars](https://img.shields.io/github/stars/rtfpessoa/diff2html-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/rtfpessoa/diff2html-cli)](https://github.com/rtfpessoa/diff2html-cli) - Create pretty HTML from diffs.
 - [mk ![GitHub Repo Stars](https://img.shields.io/github/stars/pycontribs/mk) ![GitHub last commit](https://img.shields.io/github/last-commit/pycontribs/mk)](https://github.com/pycontribs/mk) - Exposes most common actions you can run in unfamiliar repos.
+- [dotenv-diff ![GitHub Repo Stars](https://img.shields.io/github/stars/Chrilleweb/dotenv-diff) ![GitHub last commit](https://img.shields.io/github/last-commit/Chrilleweb/dotenv-diff)](https://github.com/Chrilleweb/dotenv-diff) - Validate environment variable usage in a codebase.
 
 ### Text Editors
 
