@@ -421,7 +421,7 @@ _Libraries for building Console Applications and Console User Interfaces._
 - [yacspin ![GitHub Repo Stars](https://img.shields.io/github/stars/theckman/yacspin) ![GitHub last commit](https://img.shields.io/github/last-commit/theckman/yacspin)](https://github.com/theckman/yacspin) - Yet Another CLi Spinner package, for working with terminal spinners.
 - [goscaf ![GitHub Repo Stars](https://img.shields.io/github/stars/iyashjayesh/goscaf) ![GitHub last commit](https://img.shields.io/github/last-commit/iyashjayesh/goscaf)](https://github.com/iyashjayesh/goscaf) - goscaf generates opinionated, production-quality Go project boilerplate via an interactive CLI. Stop copy-pasting skeleton code between projects.
 
-**[�� back to top](#contents)**
+**[⬆ back to top](#contents)**
 
 ### Standard CLI
 
