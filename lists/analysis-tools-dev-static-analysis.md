@@ -993,7 +993,7 @@ It uses the pycodestyle utility to determine what parts of the code needs to be 
 
 - [wemake-python-styleguide](https://wemake-python-styleguide.rtfd.io/) — The strictest and most opinionated python linter ever.
 
-- [wily ![GitHub Repo Stars](https://img.shields.io/github/stars/tonybaloney/wily) ![GitHub last commit](https://img.shields.io/github/last-commit/tonybaloney/wily)](https://github.com/tonybaloney/wily) — A command-line tool for archiving, exploring and graphing the complexity of Python source code.
+- [wily ![GitHub Repo Stars](https://img.shields.io/github/stars/tonybaloney/wily) ![GitHub last commit](https://img.shields.io/github/last-commit/tonybaloney/wily)](https://github.com/tonybaloney/wily) ��� A command-line tool for archiving, exploring and graphing the complexity of Python source code.
 
 - **xenon** :warning: — Monitor code complexity using [`radon` ![GitHub Repo Stars](https://img.shields.io/github/stars/rubik/radon) ![GitHub last commit](https://img.shields.io/github/last-commit/rubik/radon)](https://github.com/rubik/radon).
 
@@ -1421,7 +1421,7 @@ It supports multiple languages and is designed to be extensible, allowing you to
 
 - [Coverity](https://www.synopsys.com/software-integrity/security-testing/static-analysis-sast.html) :copyright: — Synopsys Coverity supports 20 languages and over 70 frameworks including Ruby on rails, Scala, PHP, Python, JavaScript, TypeScript, Java, Fortran, C, C++, C#, VB.NET.
 
-- [cpp-linter-action](https://cpp-linter.github.io/cpp-linter-action/) �� A Github Action for linting C/C++ code integrating clang-tidy and clang-format to collect feedback provided in the form of thread comments and/or annotations.
+- [cpp-linter-action](https://cpp-linter.github.io/cpp-linter-action/) — A Github Action for linting C/C++ code integrating clang-tidy and clang-format to collect feedback provided in the form of thread comments and/or annotations.
 
 - **cqc** :warning: — Check your code quality for js, jsx, vue, css, less, scss, sass and styl files.
 
