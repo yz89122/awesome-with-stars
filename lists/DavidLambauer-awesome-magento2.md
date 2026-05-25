@@ -22,7 +22,7 @@
 
 > A curated list of awesome Magento 2 Extensions & Resources.
 
-> Tracking **225** projects · **53** actively maintained · **8** 🔥 hot · **42** 🪦 on the graveyard shelf.
+> Tracking **225** projects · **55** actively maintained · **9** 🔥 hot · **43** 🪦 on the graveyard shelf.
 
 - [What is an awesome list? ![GitHub Repo Stars](https://img.shields.io/github/stars/sindresorhus/awesome) ![GitHub last commit](https://img.shields.io/github/last-commit/sindresorhus/awesome)](https://github.com/sindresorhus/awesome/blob/master/awesome.md)
 - [Contribution guide](contributing.md) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/DavidLambauer/awesome-magento2/issues)
@@ -82,8 +82,14 @@ Also see:
 ## Events: Meet the community
 
 - [MageUnconference Netherlands](https://mageunconference.nl/) 🫡 - Magento unconference held in the Netherlands.
-- [Meet Commerce](https://www.meetcommerce.com/) 🫡 - Global series of conferences focused on commerce and innovation.
 - [MageUnconference Germany](https://www.mageunconference.org/) - Magento unconference held in Germany.
+
+<details>
+<summary>🪦 Graveyard — projects no longer recommended</summary>
+
+- [Meet Commerce](https://www.meetcommerce.com/) - Global series of conferences focused on commerce and innovation.
+
+</details>
 
 ### Meet Magento
 
@@ -123,6 +129,7 @@ The storefront of Magento 2 can be styled in numerous ways:
 
 - [PhpInsights ![GitHub Repo Stars](https://img.shields.io/github/stars/nunomaduro/phpinsights) ![GitHub last commit](https://img.shields.io/github/last-commit/nunomaduro/phpinsights)](https://github.com/nunomaduro/phpinsights) 🔥 🫡 - PHP quality checks with Magento 2 presets.
 - [DDEV ![GitHub Repo Stars](https://img.shields.io/github/stars/ddev/ddev) ![GitHub last commit](https://img.shields.io/github/last-commit/ddev/ddev)](https://github.com/ddev/ddev) 🔥 🫡 - Open source tool for launching local web development environments in minutes. Supports PHP, Node.js and Python.
+- [markshust/docker-magento ![GitHub Repo Stars](https://img.shields.io/github/stars/markshust/docker-magento) ![GitHub last commit](https://img.shields.io/github/last-commit/markshust/docker-magento)](https://github.com/markshust/docker-magento) 🫡 - Mark Shust's Docker configuration for Magento.
 - [n98-magerun2 ![GitHub Repo Stars](https://img.shields.io/github/stars/netz98/n98-magerun2) ![GitHub last commit](https://img.shields.io/github/last-commit/netz98/n98-magerun2)](https://github.com/netz98/n98-magerun2) 🫡 - The CLI Swiss Army Knife for Magento 2.
 - [Warden ![GitHub Repo Stars](https://img.shields.io/github/stars/wardenenv/warden) ![GitHub last commit](https://img.shields.io/github/last-commit/wardenenv/warden)](https://github.com/wardenenv/warden) 🫡 - CLI utility for working with docker-compose environments by David Alger.
 - [PhpStorm Magento2 Extension ![GitHub Repo Stars](https://img.shields.io/github/stars/magento/magento2-phpstorm-plugin) ![GitHub last commit](https://img.shields.io/github/last-commit/magento/magento2-phpstorm-plugin)](https://github.com/magento/magento2-phpstorm-plugin) 🫡 - Official PhpStorm Magento 2 extension.
@@ -130,7 +137,6 @@ The storefront of Magento 2 can be styled in numerous ways:
 - [Tango ![GitHub Repo Stars](https://img.shields.io/github/stars/roma-glushko/tango) ![GitHub last commit](https://img.shields.io/github/last-commit/roma-glushko/tango)](https://github.com/roma-glushko/tango) 🫡 - CLI for analyzing access logs.
 - [Mage ![GitHub Repo Stars](https://img.shields.io/github/stars/GrimLink/mage) ![GitHub last commit](https://img.shields.io/github/last-commit/GrimLink/mage)](https://github.com/GrimLink/mage) 🫡 - Simplifies bin/magento commands with shortcuts and productivity helpers.
 - [MageForge ![GitHub Repo Stars](https://img.shields.io/github/stars/OpenForgeProject/mageforge) ![GitHub last commit](https://img.shields.io/github/last-commit/OpenForgeProject/mageforge)](https://github.com/OpenForgeProject/mageforge) 🫡 - Magento 2 CLI automatic theme builder (Hyvä ready).
-- [markshust/docker-magento ![GitHub Repo Stars](https://img.shields.io/github/stars/markshust/docker-magento) ![GitHub last commit](https://img.shields.io/github/last-commit/markshust/docker-magento)](https://github.com/markshust/docker-magento) - Mark Shust's Docker configuration for Magento.
 - [Mage Chrome Toolbar ![GitHub Repo Stars](https://img.shields.io/github/stars/magespecialist/mage-chrome-toolbar) ![GitHub last commit](https://img.shields.io/github/last-commit/magespecialist/mage-chrome-toolbar)](https://github.com/magespecialist/mage-chrome-toolbar) - Chrome extension for Magento 2 development by MageSpecialist.
 - [AmpersandHQ/ampersand-magento2-upgrade-patch-helper ![GitHub Repo Stars](https://img.shields.io/github/stars/AmpersandHQ/ampersand-magento2-upgrade-patch-helper) ![GitHub last commit](https://img.shields.io/github/last-commit/AmpersandHQ/ampersand-magento2-upgrade-patch-helper)](https://github.com/AmpersandHQ/ampersand-magento2-upgrade-patch-helper) - Helper script to aid upgrading Magento 2 websites by detecting overrides.
 - [MageSpecialist DevTools for Magento 2 ![GitHub Repo Stars](https://img.shields.io/github/stars/magespecialist/m2-MSP_DevTools) ![GitHub last commit](https://img.shields.io/github/last-commit/magespecialist/m2-MSP_DevTools)](https://github.com/magespecialist/m2-MSP_DevTools) - Developer toolbar for Magento 2.
@@ -160,7 +166,6 @@ The storefront of Magento 2 can be styled in numerous ways:
 
 - [Magento Cache Clean ![GitHub Repo Stars](https://img.shields.io/github/stars/mage2tv/magento-cache-clean) ![GitHub last commit](https://img.shields.io/github/last-commit/mage2tv/magento-cache-clean)](https://github.com/mage2tv/magento-cache-clean) 🔥 - A faster drop-in replacement for bin/magento cache:clean with file watcher by Vinai Kopp.
 - [Magewire PHP ![GitHub Repo Stars](https://img.shields.io/github/stars/magewirephp/magewire) ![GitHub last commit](https://img.shields.io/github/last-commit/magewirephp/magewire)](https://github.com/magewirephp/magewire) 🫡 - A Laravel Livewire port for building complex AJAX-based components with ease. Used by the Hyvä Checkout.
-- [bitExpert/phpstan-magento ![GitHub Repo Stars](https://img.shields.io/github/stars/bitExpert/phpstan-magento) ![GitHub last commit](https://img.shields.io/github/last-commit/bitExpert/phpstan-magento)](https://github.com/bitExpert/phpstan-magento) 🫡 - Magento-specific extension for PHPStan.
 - [graycoreio/magento2-cors ![GitHub Repo Stars](https://img.shields.io/github/stars/graycoreio/magento2-cors) ![GitHub last commit](https://img.shields.io/github/last-commit/graycoreio/magento2-cors)](https://github.com/graycoreio/magento2-cors) 🫡 - Enables configurable CORS headers on the Magento GraphQL API.
 - [Magento 2 Prometheus Exporter ![GitHub Repo Stars](https://img.shields.io/github/stars/run-as-root/magento2-prometheus-exporter) ![GitHub last commit](https://img.shields.io/github/last-commit/run-as-root/magento2-prometheus-exporter)](https://github.com/run-as-root/magento2-prometheus-exporter) 🫡 - Prometheus Exporter for common Magento data.
 - [Rest Client ![GitHub Repo Stars](https://img.shields.io/github/stars/zepgram/module-rest) ![GitHub last commit](https://img.shields.io/github/last-commit/zepgram/module-rest)](https://github.com/zepgram/module-rest) 🫡 - Technical Magento 2 module providing simple development pattern, configurations and optimizations to make REST API requests toward external services based on Guzzle Client.
@@ -172,6 +177,7 @@ The storefront of Magento 2 can be styled in numerous ways:
 - [Cypress Testing Suite ![GitHub Repo Stars](https://img.shields.io/github/stars/elgentos/magento2-cypress-testing-suite) ![GitHub last commit](https://img.shields.io/github/last-commit/elgentos/magento2-cypress-testing-suite)](https://github.com/elgentos/magento2-cypress-testing-suite/) - A community-driven Cypress testing suite for Magento 2.
 - [Scope Hints ![GitHub Repo Stars](https://img.shields.io/github/stars/avstudnitz/AvS_ScopeHint2) ![GitHub last commit](https://img.shields.io/github/last-commit/avstudnitz/AvS_ScopeHint2)](https://github.com/avstudnitz/AvS_ScopeHint2) - Displays additional information in the Store Configuration by Andreas von Studnitz.
 - [Config ImportExport ![GitHub Repo Stars](https://img.shields.io/github/stars/semaio/Magento2-ConfigImportExport) ![GitHub last commit](https://img.shields.io/github/last-commit/semaio/Magento2-ConfigImportExport)](https://github.com/semaio/Magento2-ConfigImportExport) - CLI-based config management.
+- [bitExpert/phpstan-magento ![GitHub Repo Stars](https://img.shields.io/github/stars/bitExpert/phpstan-magento) ![GitHub last commit](https://img.shields.io/github/last-commit/bitExpert/phpstan-magento)](https://github.com/bitExpert/phpstan-magento) - Magento-specific extension for PHPStan.
 - [Whoops Exceptions ![GitHub Repo Stars](https://img.shields.io/github/stars/yireo/Yireo_Whoops) ![GitHub last commit](https://img.shields.io/github/last-commit/yireo/Yireo_Whoops)](https://github.com/yireo/Yireo_Whoops) - PHP Exceptions for Cool Kids in Magento 2.
 - [Auto Cache Flush ![GitHub Repo Stars](https://img.shields.io/github/stars/yireo/Yireo_AutoFlushCache) ![GitHub last commit](https://img.shields.io/github/last-commit/yireo/Yireo_AutoFlushCache)](https://github.com/yireo/Yireo_AutoFlushCache) - Magento 2 module to automatically flush the cache.
 - [Dot Env ![GitHub Repo Stars](https://img.shields.io/github/stars/zepgram/magento-dotenv) ![GitHub last commit](https://img.shields.io/github/last-commit/zepgram/magento-dotenv)](https://github.com/zepgram/magento-dotenv) - Magento 2 Environment Variable Component implementing Symfony Dotenv.
@@ -236,10 +242,10 @@ The storefront of Magento 2 can be styled in numerous ways:
 
 - [Magento 2 Blog Extension by Magefan ![GitHub Repo Stars](https://img.shields.io/github/stars/magefan/module-blog) ![GitHub last commit](https://img.shields.io/github/last-commit/magefan/module-blog)](https://github.com/magefan/module-blog) 🔥 🫡 - Free Blog module for Magento 2 with unlimited blog posts and categories, SEO friendly, lazy load and AMP support.
 - [Mageplaza Blog Extension ![GitHub Repo Stars](https://img.shields.io/github/stars/mageplaza/magento-2-blog-extension) ![GitHub last commit](https://img.shields.io/github/last-commit/mageplaza/magento-2-blog-extension)](https://github.com/mageplaza/magento-2-blog-extension) 🫡 - Simple but well-working Blog Extension.
+- [magento-2-seeder ![GitHub Repo Stars](https://img.shields.io/github/stars/run-as-root/magento-2-seeder) ![GitHub last commit](https://img.shields.io/github/last-commit/run-as-root/magento-2-seeder)](https://github.com/run-as-root/magento-2-seeder) 🫡 - Laravel-style database seeder for Magento 2 / Mage-OS. Generate realistic products (all types), categories, customers, orders (all states), CMS pages, and reviews via bin/magento db:seed.
 - [module-page-builder-widget ![GitHub Repo Stars](https://img.shields.io/github/stars/mage-os/module-page-builder-widget) ![GitHub last commit](https://img.shields.io/github/last-commit/mage-os/module-page-builder-widget)](https://github.com/mage-os/module-page-builder-widget) 🫡 - Native Magento Page Builder support for CMS Widgets
 - [Opengento GDPR ![GitHub Repo Stars](https://img.shields.io/github/stars/opengento/magento2-gdpr) ![GitHub last commit](https://img.shields.io/github/last-commit/opengento/magento2-gdpr)](https://github.com/opengento/magento2-gdpr) - Magento 2 GDPR module to help be GDPR compliant.
 - [hyva-ai-tools ![GitHub Repo Stars](https://img.shields.io/github/stars/hyva-themes/hyva-ai-tools) ![GitHub last commit](https://img.shields.io/github/last-commit/hyva-themes/hyva-ai-tools)](https://github.com/hyva-themes/hyva-ai-tools) - AI-powered skills for Magento 2 development with Hyva Theme. These skills extend AI coding assistants with specialized knowledge for creating Hyva themes, modules, and CMS components.
-- [magento-2-seeder ![GitHub Repo Stars](https://img.shields.io/github/stars/run-as-root/magento-2-seeder) ![GitHub last commit](https://img.shields.io/github/last-commit/run-as-root/magento-2-seeder)](https://github.com/run-as-root/magento-2-seeder) - Laravel-style database seeder for Magento 2 / Mage-OS. Generate realistic products (all types), categories, customers, orders (all states), CMS pages, and reviews via bin/magento db:seed.
 
 ### Marketing
 

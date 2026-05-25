@@ -421,7 +421,7 @@ _Libraries for building Console Applications and Console User Interfaces._
 - [yacspin ![GitHub Repo Stars](https://img.shields.io/github/stars/theckman/yacspin) ![GitHub last commit](https://img.shields.io/github/last-commit/theckman/yacspin)](https://github.com/theckman/yacspin) - Yet Another CLi Spinner package, for working with terminal spinners.
 - [goscaf ![GitHub Repo Stars](https://img.shields.io/github/stars/iyashjayesh/goscaf) ![GitHub last commit](https://img.shields.io/github/last-commit/iyashjayesh/goscaf)](https://github.com/iyashjayesh/goscaf) - goscaf generates opinionated, production-quality Go project boilerplate via an interactive CLI. Stop copy-pasting skeleton code between projects.
 
-**[⬆ back to top](#contents)**
+**[��� back to top](#contents)**
 
 ### Standard CLI
 
@@ -462,6 +462,7 @@ _Libraries for building standard or basic Command Line applications._
 - [kingpin ![GitHub Repo Stars](https://img.shields.io/github/stars/alecthomas/kingpin) ![GitHub last commit](https://img.shields.io/github/last-commit/alecthomas/kingpin)](https://github.com/alecthomas/kingpin) - Command line and flag parser supporting sub commands (superseded by `kong`; see below).
 - [liner ![GitHub Repo Stars](https://img.shields.io/github/stars/peterh/liner) ![GitHub last commit](https://img.shields.io/github/last-commit/peterh/liner)](https://github.com/peterh/liner) - Go readline-like library for command-line interfaces.
 - [mcli ![GitHub Repo Stars](https://img.shields.io/github/stars/jxskiss/mcli) ![GitHub last commit](https://img.shields.io/github/last-commit/jxskiss/mcli)](https://github.com/jxskiss/mcli) - A minimal but very powerful cli library for Go.
+- [memsh ![GitHub Repo Stars](https://img.shields.io/github/stars/amjadjibon/memsh) ![GitHub last commit](https://img.shields.io/github/last-commit/amjadjibon/memsh)](https://github.com/amjadjibon/memsh) - Virtual bash shell in Go: executes shell commands against an in-memory filesystem (afero), with WASM plugin support and an embeddable HTTP server.
 - [mkideal/cli ![GitHub Repo Stars](https://img.shields.io/github/stars/mkideal/cli) ![GitHub last commit](https://img.shields.io/github/last-commit/mkideal/cli)](https://github.com/mkideal/cli) - Feature-rich and easy to use command-line package based on golang struct tags.
 - [mow.cli ![GitHub Repo Stars](https://img.shields.io/github/stars/jawher/mow.cli) ![GitHub last commit](https://img.shields.io/github/last-commit/jawher/mow.cli)](https://github.com/jawher/mow.cli) - Go library for building CLI applications with sophisticated flag and argument parsing and validation.
 - [ops ![GitHub Repo Stars](https://img.shields.io/github/stars/nanovms/ops) ![GitHub last commit](https://img.shields.io/github/last-commit/nanovms/ops)](https://github.com/nanovms/ops) - Unikernel Builder/Orchestrator.
