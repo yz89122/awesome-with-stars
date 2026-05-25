@@ -46,7 +46,7 @@ Inspired by the [awesome ![GitHub Repo Stars](https://img.shields.io/github/star
   - [Testing](#testing)
 - [Productivity](#productivity)
   - [Time Tracking](#time-tracking)
-  - [Note Taking and Lists](#note-taking-and-lists)
+  - [Note Taking, Lists, Task Management](#note-taking-lists-task-management)
   - [Finance](#finance)
   - [Presentations](#presentations)
   - [Calendars](#calendars)
@@ -335,7 +335,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [Tock ![GitHub Repo Stars](https://img.shields.io/github/stars/kriuchkov/tock) ![GitHub last commit](https://img.shields.io/github/last-commit/kriuchkov/tock)](https://github.com/kriuchkov/tock) - Powerful time tracking tool.
 - [Helm ![GitHub Repo Stars](https://img.shields.io/github/stars/0xjuanma/helm) ![GitHub last commit](https://img.shields.io/github/last-commit/0xjuanma/helm)](https://github.com/0xjuanma/helm) - Minimalistic timer.
 
-### Note Taking and Lists
+### Note Taking, Lists, Task Management
 
 - [idea ![GitHub Repo Stars](https://img.shields.io/github/stars/IonicaBizau/idea) ![GitHub last commit](https://img.shields.io/github/last-commit/IonicaBizau/idea)](https://github.com/IonicaBizau/idea) - A lightweight tool for keeping ideas in a safe place quick and easy.
 - [geeknote ![GitHub Repo Stars](https://img.shields.io/github/stars/vitaly-zdanevich/geeknote) ![GitHub last commit](https://img.shields.io/github/last-commit/vitaly-zdanevich/geeknote)](https://github.com/vitaly-zdanevich/geeknote) - Evernote client.
@@ -352,6 +352,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [rucola ![GitHub Repo Stars](https://img.shields.io/github/stars/Linus-Mussmaecher/rucola) ![GitHub last commit](https://img.shields.io/github/last-commit/Linus-Mussmaecher/rucola)](https://github.com/Linus-Mussmaecher/rucola) - Manage your markdown notes.
 - [kanban.bash ![GitHub Repo Stars](https://img.shields.io/github/stars/coderofsalvation/kanban.bash) ![GitHub last commit](https://img.shields.io/github/last-commit/coderofsalvation/kanban.bash)](https://github.com/coderofsalvation/kanban.bash) - Kanban todo manager with a CSV backend.
 - [kanban ![GitHub Repo Stars](https://img.shields.io/github/stars/fulsomenko/kanban) ![GitHub last commit](https://img.shields.io/github/last-commit/fulsomenko/kanban)](https://github.com/fulsomenko/kanban) - Keyboard-driven project management tool inspired by lazygit.
+- [gtasks ![GitHub Repo Stars](https://img.shields.io/github/stars/BRO3886/gtasks) ![GitHub last commit](https://img.shields.io/github/last-commit/BRO3886/gtasks)](https://github.com/BRO3886/gtasks) - Manage Google Tasks.
 
 ### Finance
 
@@ -382,6 +383,8 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [vdirsyncer ![GitHub Repo Stars](https://img.shields.io/github/stars/pimutils/vdirsyncer) ![GitHub last commit](https://img.shields.io/github/last-commit/pimutils/vdirsyncer)](https://github.com/pimutils/vdirsyncer) - CalDAV sync.
 - [remind](https://dianne.skoll.ca/projects/remind/) - A sophisticated calendar and alarm program.
 - [birthday ![GitHub Repo Stars](https://img.shields.io/github/stars/IonicaBizau/birthday) ![GitHub last commit](https://img.shields.io/github/last-commit/IonicaBizau/birthday)](https://github.com/IonicaBizau/birthday) - Know when a friend's birthday is coming.
+- [ical ![GitHub Repo Stars](https://img.shields.io/github/stars/BRO3886/ical) ![GitHub last commit](https://img.shields.io/github/last-commit/BRO3886/ical)](https://github.com/BRO3886/ical) - Manage macOS Calendar.
+- [rem ![GitHub Repo Stars](https://img.shields.io/github/stars/BRO3886/rem) ![GitHub last commit](https://img.shields.io/github/last-commit/BRO3886/rem)](https://github.com/BRO3886/rem) - Manage macOS Reminders.
 
 ## Utilities
 
@@ -394,6 +397,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [clevercli ![GitHub Repo Stars](https://img.shields.io/github/stars/clevercli/clevercli) ![GitHub last commit](https://img.shields.io/github/last-commit/clevercli/clevercli)](https://github.com/clevercli/clevercli) - Collection of ChatGPT powered utilities.
 - [OctoType ![GitHub Repo Stars](https://img.shields.io/github/stars/mahlquistj/octotype) ![GitHub last commit](https://img.shields.io/github/last-commit/mahlquistj/octotype)](https://github.com/mahlquistj/octotype) - A customizable typing trainer.
 - [gittype ![GitHub Repo Stars](https://img.shields.io/github/stars/unhappychoice/gittype) ![GitHub last commit](https://img.shields.io/github/last-commit/unhappychoice/gittype)](https://github.com/unhappychoice/gittype) - Turn your source code into typing challenges.
+- [amazon-orders ![GitHub Repo Stars](https://img.shields.io/github/stars/alexdlaird/amazon-orders) ![GitHub last commit](https://img.shields.io/github/last-commit/alexdlaird/amazon-orders)](https://github.com/alexdlaird/amazon-orders) - Retrieve Amazon order history.
 
 ### macOS
 
@@ -523,6 +527,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 
 - [periodic-table-cli ![GitHub Repo Stars](https://img.shields.io/github/stars/spirometaxas/periodic-table-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/spirometaxas/periodic-table-cli)](https://github.com/spirometaxas/periodic-table-cli) - View and explore the Periodic Table of Elements.
 - [astroterm ![GitHub Repo Stars](https://img.shields.io/github/stars/da-luce/astroterm) ![GitHub last commit](https://img.shields.io/github/last-commit/da-luce/astroterm)](https://github.com/da-luce/astroterm) - An ASCII planetarium.
+- [birda ![GitHub Repo Stars](https://img.shields.io/github/stars/tphakala/birda) ![GitHub last commit](https://img.shields.io/github/last-commit/tphakala/birda)](https://github.com/tphakala/birda) - Identify bird species from audio recordings.
 
 ### Professional: Resume
 
