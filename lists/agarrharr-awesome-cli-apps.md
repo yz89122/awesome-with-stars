@@ -430,6 +430,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [gg ![GitHub Repo Stars](https://img.shields.io/github/stars/mzz2017/gg) ![GitHub last commit](https://img.shields.io/github/last-commit/mzz2017/gg)](https://github.com/mzz2017/gg) - One-click proxy without installing v2ray or anything else.
 - [rustnet ![GitHub Repo Stars](https://img.shields.io/github/stars/domcyrus/rustnet) ![GitHub last commit](https://img.shields.io/github/last-commit/domcyrus/rustnet)](https://github.com/domcyrus/rustnet) - Network monitoring with process identification and deep packet inspection.
 - [sshuttle ![GitHub Repo Stars](https://img.shields.io/github/stars/sshuttle/sshuttle) ![GitHub last commit](https://img.shields.io/github/last-commit/sshuttle/sshuttle)](https://github.com/sshuttle/sshuttle) - Transparent proxy server that works as a poor man's VPN.
+- [tldx ![GitHub Repo Stars](https://img.shields.io/github/stars/brandonyoungdev/tldx) ![GitHub last commit](https://img.shields.io/github/last-commit/brandonyoungdev/tldx)](https://github.com/brandonyoungdev/tldx) - Bulk domain availability checker.
 
 ### Theming and Customization
 
