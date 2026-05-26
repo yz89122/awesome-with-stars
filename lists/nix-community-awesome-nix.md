@@ -87,7 +87,7 @@ A curated list of the best resources in the Nix community.
 * [Nix Package Versions](https://lazamar.co.uk/nix-versions/) - Find all versions of a package that were available in a channel and the revision you can download it from.
 * [nix-search-tv ![GitHub Repo Stars](https://img.shields.io/github/stars/3timeslazy/nix-search-tv) ![GitHub last commit](https://img.shields.io/github/last-commit/3timeslazy/nix-search-tv)](https://github.com/3timeslazy/nix-search-tv) - CLI fuzzy finder for packages and options from Nixpkgs, Home Manager, and more.
 * [Noogle](https://noogle.dev/) - Nix API search engine allowing to search functions based on their types and other attributes.
-* [NüschtOS Search ![GitHub Repo Stars](https://img.shields.io/github/stars/NuschtOS/search) ![GitHub last commit](https://img.shields.io/github/last-commit/NuschtOS/search)](https://github.com/NuschtOS/search) - Simple and fast static-page NixOS option search.
+* [N��schtOS Search ![GitHub Repo Stars](https://img.shields.io/github/stars/NuschtOS/search) ![GitHub last commit](https://img.shields.io/github/last-commit/NuschtOS/search)](https://github.com/NuschtOS/search) - Simple and fast static-page NixOS option search.
 * [Searchix](https://searchix.ovh/) - Search Nix packages and options from NixOS, Darwin and Home Manager.
 
 ## Installation Media

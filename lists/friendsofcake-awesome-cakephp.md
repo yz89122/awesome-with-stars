@@ -227,6 +227,7 @@ Additional lists you might find useful:
 *Building navigation structures.*
 
 - [Icings/Menu plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/icings/menu) ![GitHub last commit](https://img.shields.io/github/last-commit/icings/menu)](https://github.com/icings/menu) - A [KnpMenu ![GitHub Repo Stars](https://img.shields.io/github/stars/KnpLabs/KnpMenu) ![GitHub last commit](https://img.shields.io/github/last-commit/KnpLabs/KnpMenu)](https://github.com/KnpLabs/KnpMenu) seasoned menu plugin for CakePHP.
+- [Menu plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/dereuromark/cakephp-menu) ![GitHub last commit](https://img.shields.io/github/last-commit/dereuromark/cakephp-menu)](https://github.com/dereuromark/cakephp-menu) - Composable menu builder and renderer for nested navigation, active-state matching, and breadcrumbs - and zero dependencies.
 
 ### Notifications and Real-time Communication
 *Working with notification software.*
