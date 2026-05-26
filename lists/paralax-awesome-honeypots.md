@@ -19,12 +19,28 @@ Discover more awesome lists at [sindresorhus/awesome ![GitHub Repo Stars](https:
 
 ## Related Lists
 
+## Commercial Honepots 
+- [honerix](https://www.honerix.com) - Honerix is a distributed system for capturing web-based attacks. Honerix works by simulating vulnerable applications, with the goal of pushing attackers into deploying their malicious payload.
+
+## <a name="honeypots"></a> Honeypots
 - [awesome-pcaptools ![GitHub Repo Stars](https://img.shields.io/github/stars/caesar0301/awesome-pcaptools) ![GitHub last commit](https://img.shields.io/github/last-commit/caesar0301/awesome-pcaptools)](https://github.com/caesar0301/awesome-pcaptools) - Useful in network traffic analysis.
 - [awesome-malware-analysis ![GitHub Repo Stars](https://img.shields.io/github/stars/rshipp/awesome-malware-analysis) ![GitHub last commit](https://img.shields.io/github/last-commit/rshipp/awesome-malware-analysis)](https://github.com/rshipp/awesome-malware-analysis) - Some overlap here for artifact analysis.
+- [CyberBriefing IOC Feeds API](https://cyberbriefing.info) - REST API with 63K+ active IOCs from 20+ feeds. Useful for cross-referencing honeypot-captured IPs and domains against known malicious indicators. Free tier available.
 
 ## Honeypots
 
 - Database Honeypots
+    - [Acra ![GitHub Repo Stars](https://img.shields.io/github/stars/cossacklabs/acra) ![GitHub last commit](https://img.shields.io/github/last-commit/cossacklabs/acra)](https://github.com/cossacklabs/acra) - Effective SQL database protection suite: strong selective encryption, SQL injections prevention, intrusion detection system based on using honeypots/poison records in the database.
+    - [Delilah ![GitHub Repo Stars](https://img.shields.io/github/stars/Novetta/delilah) ![GitHub last commit](https://img.shields.io/github/last-commit/Novetta/delilah)](https://github.com/Novetta/delilah) - An Elasticsearch Honeypot written in Python.
+    - [ESPot ![GitHub Repo Stars](https://img.shields.io/github/stars/mycert/ESPot) ![GitHub last commit](https://img.shields.io/github/last-commit/mycert/ESPot)](https://github.com/mycert/ESPot) - An Elasticsearch honeypot written in NodeJS, to capture every attempts to exploit CVE-2014-3120.
+    - [Elastic honey ![GitHub Repo Stars](https://img.shields.io/github/stars/jordan-wright/elastichoney) ![GitHub last commit](https://img.shields.io/github/last-commit/jordan-wright/elastichoney)](https://github.com/jordan-wright/elastichoney) - A Simple Elasticsearch Honeypot.
+    - [HoneyMysql ![GitHub Repo Stars](https://img.shields.io/github/stars/xiaoxiaoleo/HoneyMysql) ![GitHub last commit](https://img.shields.io/github/last-commit/xiaoxiaoleo/HoneyMysql)](https://github.com/xiaoxiaoleo/HoneyMysql) - A simple Mysql honeypot project.
+    - [MongoDB-HoneyProxy ![GitHub Repo Stars](https://img.shields.io/github/stars/Plazmaz/MongoDB-HoneyProxy) ![GitHub last commit](https://img.shields.io/github/last-commit/Plazmaz/MongoDB-HoneyProxy)](https://github.com/Plazmaz/MongoDB-HoneyProxy) - A MongoDB honeypot proxy.
+    - [NoSQLpot ![GitHub Repo Stars](https://img.shields.io/github/stars/torque59/nosqlpot) ![GitHub last commit](https://img.shields.io/github/last-commit/torque59/nosqlpot)](https://github.com/torque59/nosqlpot) - The NoSQL Honeypot Framework.
+    - [mysql-honeypotd ![GitHub Repo Stars](https://img.shields.io/github/stars/sjinks/mysql-honeypotd) ![GitHub last commit](https://img.shields.io/github/last-commit/sjinks/mysql-honeypotd)](https://github.com/sjinks/mysql-honeypotd) - Low interaction MySQL honeypot written in C.
+    - [MysqlPot ![GitHub Repo Stars](https://img.shields.io/github/stars/schmalle/MysqlPot) ![GitHub last commit](https://img.shields.io/github/last-commit/schmalle/MysqlPot)](https://github.com/schmalle/MysqlPot) - A mysql honeypot, still very very early stage.
+    - [pghoney ![GitHub Repo Stars](https://img.shields.io/github/stars/betheroot/pghoney) ![GitHub last commit](https://img.shields.io/github/last-commit/betheroot/pghoney)](https://github.com/betheroot/pghoney) - Low-interaction Postgres Honeypot.
+    - [sticky_elephant ![GitHub Repo Stars](https://img.shields.io/github/stars/betheroot/sticky_elephant) ![GitHub last commit](https://img.shields.io/github/last-commit/betheroot/sticky_elephant)](https://github.com/betheroot/sticky_elephant) - medium interaction postgresql honeypot.
 
   - [Delilah ![GitHub Repo Stars](https://img.shields.io/github/stars/SecurityTW/delilah) ![GitHub last commit](https://img.shields.io/github/last-commit/SecurityTW/delilah)](https://github.com/SecurityTW/delilah) - Elasticsearch Honeypot written in Python (originally from Novetta).
   - [ESPot ![GitHub Repo Stars](https://img.shields.io/github/stars/mycert/ESPot) ![GitHub last commit](https://img.shields.io/github/last-commit/mycert/ESPot)](https://github.com/mycert/ESPot) - Elasticsearch honeypot written in NodeJS, to capture every attempts to exploit CVE-2014-3120.
@@ -38,11 +54,16 @@ Discover more awesome lists at [sindresorhus/awesome ![GitHub Repo Stars](https:
   - [sticky_elephant ![GitHub Repo Stars](https://img.shields.io/github/stars/betheroot/sticky_elephant) ![GitHub last commit](https://img.shields.io/github/last-commit/betheroot/sticky_elephant)](https://github.com/betheroot/sticky_elephant) - Medium interaction postgresql honeypot.
   - [RedisHoneyPot ![GitHub Repo Stars](https://img.shields.io/github/stars/cypwnpwnsocute/RedisHoneyPot) ![GitHub last commit](https://img.shields.io/github/last-commit/cypwnpwnsocute/RedisHoneyPot)](https://github.com/cypwnpwnsocute/RedisHoneyPot) - High Interaction Honeypot Solution for Redis protocol.
 
+- Blockchain honeypots
+    - [Ethereum-honey-pot ![GitHub Repo Stars](https://img.shields.io/github/stars/jeremyfritzen/Ethereum-honey-pot) ![GitHub last commit](https://img.shields.io/github/last-commit/jeremyfritzen/Ethereum-honey-pot)](https://github.com/jeremyfritzen/Ethereum-honey-pot) - Tool hacking-back hackers who tried to steal tokens.
+
 - Web honeypots
-  
+
+  - [Krawl ![GitHub Repo Stars](https://img.shields.io/github/stars/BlessedRebuS/Krawl) ![GitHub last commit](https://img.shields.io/github/last-commit/BlessedRebuS/Krawl)](https://github.com/BlessedRebuS/Krawl) - Lightweight deception server and anti‑crawler that deploys realistic fake web applications with low‑hanging vulnerabilities and randomly generated decoy data.
   - [Cloud Active Defense ![GitHub Repo Stars](https://img.shields.io/github/stars/SAP/cloud-active-defense) ![GitHub last commit](https://img.shields.io/github/last-commit/SAP/cloud-active-defense)](https://github.com/SAP/cloud-active-defense?tab=readme-ov-file) - Cloud active defense lets you deploy decoys right into your cloud applications, putting adversaries into a dilemma: to hack or not to hack?
   - [Express honeypot ![GitHub Repo Stars](https://img.shields.io/github/stars/christophe77/express-honeypot) ![GitHub last commit](https://img.shields.io/github/last-commit/christophe77/express-honeypot)](https://github.com/christophe77/express-honeypot) - RFI & LFI honeypot using nodeJS and express.
   - [EoHoneypotBundle ![GitHub Repo Stars](https://img.shields.io/github/stars/eymengunay/EoHoneypotBundle) ![GitHub last commit](https://img.shields.io/github/last-commit/eymengunay/EoHoneypotBundle)](https://github.com/eymengunay/EoHoneypotBundle) - Honeypot type for Symfony2 forms.
+  - [FCaptcha ![GitHub Repo Stars](https://img.shields.io/github/stars/WebDecoy/FCaptcha) ![GitHub last commit](https://img.shields.io/github/last-commit/WebDecoy/FCaptcha)](https://github.com/WebDecoy/FCaptcha) - Self-hosted CAPTCHA that acts as an inline honeypot, detecting bots and vision AI agents through 40+ behavioral signals, headless browser fingerprinting, and SHA-256 proof of work.
   - [Glastopf ![GitHub Repo Stars](https://img.shields.io/github/stars/mushorg/glastopf) ![GitHub last commit](https://img.shields.io/github/last-commit/mushorg/glastopf)](https://github.com/mushorg/glastopf) - Web Application Honeypot.
   - [Google Hack Honeypot](http://ghh.sourceforge.net) - Designed to provide reconnaissance against attackers that use search engines as a hacking tool against your resources.
   - [HellPot ![GitHub Repo Stars](https://img.shields.io/github/stars/yunginnanet/HellPot) ![GitHub last commit](https://img.shields.io/github/last-commit/yunginnanet/HellPot)](https://github.com/yunginnanet/HellPot) - Honeypot that tries to crash the bots and clients that visit it's location.
@@ -58,6 +79,7 @@ Discover more awesome lists at [sindresorhus/awesome ![GitHub Repo Stars](https:
   - [bwpot ![GitHub Repo Stars](https://img.shields.io/github/stars/graneed/bwpot) ![GitHub last commit](https://img.shields.io/github/last-commit/graneed/bwpot)](https://github.com/graneed/bwpot) - Breakable Web applications honeyPot.
   - [django-admin-honeypot ![GitHub Repo Stars](https://img.shields.io/github/stars/dmpayton/django-admin-honeypot) ![GitHub last commit](https://img.shields.io/github/last-commit/dmpayton/django-admin-honeypot)](https://github.com/dmpayton/django-admin-honeypot) - Fake Django admin login screen to notify admins of attempted unauthorized access.
   - [drupo ![GitHub Repo Stars](https://img.shields.io/github/stars/d1str0/drupot) ![GitHub last commit](https://img.shields.io/github/last-commit/d1str0/drupot)](https://github.com/d1str0/drupot) - Drupal Honeypot.
+  - [flux ![GitHub Repo Stars](https://img.shields.io/github/stars/andrewmichaelsmith/flux) ![GitHub last commit](https://img.shields.io/github/last-commit/andrewmichaelsmith/flux)](https://github.com/andrewmichaelsmith/flux) - Dynamic Web Honeypot with Canary Token Integration that is being actively maintained by LLMs.
   - [galah ![GitHub Repo Stars](https://img.shields.io/github/stars/0x4D31/galah) ![GitHub last commit](https://img.shields.io/github/last-commit/0x4D31/galah)](https://github.com/0x4D31/galah) - an LLM-powered web honeypot using the OpenAI API.
   - [honeyhttpd ![GitHub Repo Stars](https://img.shields.io/github/stars/bocajspear1/honeyhttpd) ![GitHub last commit](https://img.shields.io/github/last-commit/bocajspear1/honeyhttpd)](https://github.com/bocajspear1/honeyhttpd) - Python-based web server honeypot builder.
   - [honeyup ![GitHub Repo Stars](https://img.shields.io/github/stars/LogoiLab/honeyup) ![GitHub last commit](https://img.shields.io/github/last-commit/LogoiLab/honeyup)](https://github.com/LogoiLab/honeyup) - An uploader honeypot designed to look like poor website security.
@@ -75,6 +97,7 @@ Discover more awesome lists at [sindresorhus/awesome ![GitHub Repo Stars](https:
     - [HonnyPotter ![GitHub Repo Stars](https://img.shields.io/github/stars/MartinIngesen/HonnyPotter) ![GitHub last commit](https://img.shields.io/github/last-commit/MartinIngesen/HonnyPotter)](https://github.com/MartinIngesen/HonnyPotter) - WordPress login honeypot for collection and analysis of failed login attempts.
     - [HoneyPress ![GitHub Repo Stars](https://img.shields.io/github/stars/kungfuguapo/HoneyPress) ![GitHub last commit](https://img.shields.io/github/last-commit/kungfuguapo/HoneyPress)](https://github.com/kungfuguapo/HoneyPress) - Python based WordPress honeypot in a Docker container.
     - [wp-smart-honeypot ![GitHub Repo Stars](https://img.shields.io/github/stars/freak3dot/wp-smart-honeypot) ![GitHub last commit](https://img.shields.io/github/last-commit/freak3dot/wp-smart-honeypot)](https://github.com/freak3dot/wp-smart-honeypot) - WordPress plugin to reduce comment spam with a smarter honeypot.
+    - [WebDecoy ![GitHub Repo Stars](https://img.shields.io/github/stars/WebDecoy/wordpress-plugin) ![GitHub last commit](https://img.shields.io/github/last-commit/WebDecoy/wordpress-plugin)](https://github.com/WebDecoy/wordpress-plugin) - Zero-configuration WordPress plugin with invisible honeypot fields, behavioral analysis, and SHA-256 proof-of-work challenges to detect bots, headless browsers, and automation frameworks.
     - [wordpot ![GitHub Repo Stars](https://img.shields.io/github/stars/gbrindisi/wordpot) ![GitHub last commit](https://img.shields.io/github/last-commit/gbrindisi/wordpot)](https://github.com/gbrindisi/wordpot) - WordPress Honeypot.
   - [Python-Honeypot ![GitHub Repo Stars](https://img.shields.io/github/stars/OWASP/Python-Honeypot) ![GitHub last commit](https://img.shields.io/github/last-commit/OWASP/Python-Honeypot)](https://github.com/OWASP/Python-Honeypot) - OWASP Honeypot, Automated Deception Framework.
 
@@ -121,6 +144,7 @@ Discover more awesome lists at [sindresorhus/awesome ![GitHub Repo Stars](https:
   - [canarytokendetector ![GitHub Repo Stars](https://img.shields.io/github/stars/referefref/canarytokendetector) ![GitHub last commit](https://img.shields.io/github/last-commit/referefref/canarytokendetector)](https://github.com/referefref/canarytokendetector) - Tool for detection and nullification of Thinkst CanaryTokens
   - [honeydet ![GitHub Repo Stars](https://img.shields.io/github/stars/referefref/honeydet) ![GitHub last commit](https://img.shields.io/github/last-commit/referefref/honeydet)](https://github.com/referefref/honeydet) - Signature based honeypot detector tool written in Golang
   - [kippo_detect ![GitHub Repo Stars](https://img.shields.io/github/stars/andrew-morris/kippo_detect) ![GitHub last commit](https://img.shields.io/github/last-commit/andrew-morris/kippo_detect)](https://github.com/andrew-morris/kippo_detect) - Offensive component that detects the presence of the kippo honeypot.
+  - [potsnitch ![GitHub Repo Stars](https://img.shields.io/github/stars/f0rw4rd/potsnitch) ![GitHub last commit](https://img.shields.io/github/last-commit/f0rw4rd/potsnitch)](https://github.com/f0rw4rd/potsnitch) - Honeypot detection toolkit with protocol fingerprinting for 25+ honeypot types.
 
 - ICS/SCADA honeypots
 
@@ -129,6 +153,12 @@ Discover more awesome lists at [sindresorhus/awesome ![GitHub Repo Stars](https:
   - [SCADA honeynet](http://scadahoneynet.sourceforge.net) - Building Honeypots for Industrial Networks.
   - [gridpot ![GitHub Repo Stars](https://img.shields.io/github/stars/sk4ld/gridpot) ![GitHub last commit](https://img.shields.io/github/last-commit/sk4ld/gridpot)](https://github.com/sk4ld/gridpot) - Open source tools for realistic-behaving electric grid honeynets.
   - [scada-honeynet](http://www.digitalbond.com/blog/2007/07/24/scada-honeynet-article-in-infragard-publication/) - Mimics many of the services from a popular PLC and better helps SCADA researchers understand potential risks of exposed control system devices.
+  - [HoneyPLC ![GitHub Repo Stars](https://img.shields.io/github/stars/sefcom/honeyplc) ![GitHub last commit](https://img.shields.io/github/last-commit/sefcom/honeyplc)](https://github.com/sefcom/honeyplc) - Mimics multiple PLC devices, including Siemenens and Rockewell
+
+- Space/Satellite honeypots
+
+  - [HoneySat ![GitHub Repo Stars](https://img.shields.io/github/stars/HoneySat/honeysat-deploy) ![GitHub last commit](https://img.shields.io/github/last-commit/HoneySat/honeysat-deploy)](https://github.com/HoneySat/honeysat-deploy) - Mimics multiple satellite missions
+   
 
 - Other/random
 
@@ -144,6 +174,7 @@ Discover more awesome lists at [sindresorhus/awesome ![GitHub Repo Stars](https:
   - [OpenCanary ![GitHub Repo Stars](https://img.shields.io/github/stars/thinkst/opencanary) ![GitHub last commit](https://img.shields.io/github/last-commit/thinkst/opencanary)](https://github.com/thinkst/opencanary) - Modular and decentralised honeypot daemon that runs several canary versions of services that alerts when a service is (ab)used.
   - [ciscoasa_honeypot ![GitHub Repo Stars](https://img.shields.io/github/stars/cymmetria/ciscoasa_honeypot) ![GitHub last commit](https://img.shields.io/github/last-commit/cymmetria/ciscoasa_honeypot)](https://github.com/cymmetria/ciscoasa_honeypot) A low interaction honeypot for the Cisco ASA component capable of detecting CVE-2018-0101, a DoS and remote code execution vulnerability.
   - [miniprint ![GitHub Repo Stars](https://img.shields.io/github/stars/sa7mon/miniprint) ![GitHub last commit](https://img.shields.io/github/last-commit/sa7mon/miniprint)](https://github.com/sa7mon/miniprint) - A medium interaction printer honeypot.
+  - [FortiGate SSL-VPN Honeypot ![GitHub Repo Stars](https://img.shields.io/github/stars/PeterGabaldon/Fortigate.VPN-SSL.Honeypot) ![GitHub last commit](https://img.shields.io/github/last-commit/PeterGabaldon/Fortigate.VPN-SSL.Honeypot)](https://github.com/PeterGabaldon/Fortigate.VPN-SSL.Honeypot) - Mimics FortiGate SSL-VPN devices to capture brute-force attempts, symlink exploit probes, and malicious IP telemetry.
 
 - Botnet C2 tools
 
@@ -178,6 +209,10 @@ Discover more awesome lists at [sindresorhus/awesome ![GitHub Repo Stars](https:
 - Log anonymizer
 
   - [LogAnon](http://code.google.com/archive/p/loganon/) - Log anonymization library that helps having anonymous logs consistent between logs and network captures.
+
+- Dynamic Deception Tool
+
+  - [Mimicry ![GitHub Repo Stars](https://img.shields.io/github/stars/chaitin/mimicry) ![GitHub last commit](https://img.shields.io/github/last-commit/chaitin/mimicry)](https://github.com/chaitin/mimicry) - Mimicry is a dynamic deception tool that actively deceives an attacker during exploitation and post-exploitation.
 
 - Low interaction honeypot (router back door)
 
@@ -239,7 +274,7 @@ Discover more awesome lists at [sindresorhus/awesome ![GitHub Repo Stars](https:
 - Server
 
   - [Amun](http://amunhoney.sourceforge.net) - Vulnerability emulation honeypot.
-  - [Artillery ![GitHub Repo Stars](https://img.shields.io/github/stars/trustedsec/artillery) ![GitHub last commit](https://img.shields.io/github/last-commit/trustedsec/artillery)](https://github.com/trustedsec/artillery/) - Open-source blue team tool designed to protect Linux and Windows operating systems through multiple methods.
+  - [Artillery ![GitHub Repo Stars](https://img.shields.io/github/stars/BinaryDefense/artillery) ![GitHub last commit](https://img.shields.io/github/last-commit/BinaryDefense/artillery)](https://github.com/BinaryDefense/artillery) - Open-source blue team tool designed to protect Linux and Windows operating systems through multiple methods.
   - [Bait and Switch](http://baitnswitch.sourceforge.net) - Redirects all hostile traffic to a honeypot that is partially mirroring your production system.
   - [Bifrozt ![GitHub Repo Stars](https://img.shields.io/github/stars/Ziemeck/bifrozt-ansible) ![GitHub last commit](https://img.shields.io/github/last-commit/Ziemeck/bifrozt-ansible)](https://github.com/Ziemeck/bifrozt-ansible) - Automatic deploy bifrozt with ansible.
   - [Conpot](http://conpot.org/) - Low interactive server side Industrial Control Systems honeypot.
@@ -345,6 +380,7 @@ Discover more awesome lists at [sindresorhus/awesome ![GitHub Repo Stars](https:
   - [endlessh ![GitHub Repo Stars](https://img.shields.io/github/stars/skeeto/endlessh) ![GitHub last commit](https://img.shields.io/github/last-commit/skeeto/endlessh)](https://github.com/skeeto/endlessh) - SSH tarpit that slowly sends an endless banner. ([docker image](https://hub.docker.com/r/linuxserver/endlessh))
   - [HonSSH ![GitHub Repo Stars](https://img.shields.io/github/stars/tnich/honssh) ![GitHub last commit](https://img.shields.io/github/last-commit/tnich/honssh)](https://github.com/tnich/honssh) - Logs all SSH communications between a client and server.
   - [HUDINX ![GitHub Repo Stars](https://img.shields.io/github/stars/Cryptix720/HUDINX) ![GitHub last commit](https://img.shields.io/github/last-commit/Cryptix720/HUDINX)](https://github.com/Cryptix720/HUDINX) - Tiny interaction SSH honeypot engineered in Python to log brute force attacks and, most importantly, the entire shell interaction performed by the attacker.
+  - [InnerWarden ![GitHub Repo Stars](https://img.shields.io/github/stars/InnerWarden/innerwarden) ![GitHub last commit](https://img.shields.io/github/last-commit/InnerWarden/innerwarden)](https://github.com/InnerWarden/innerwarden) - Security agent with built-in SSH and HTTP honeypots featuring an LLM-powered interactive fake shell that captures credentials and attacker commands.
   - [Kippo ![GitHub Repo Stars](https://img.shields.io/github/stars/desaster/kippo) ![GitHub last commit](https://img.shields.io/github/last-commit/desaster/kippo)](https://github.com/desaster/kippo) - Medium interaction SSH honeypot.
   - [Kippo_JunOS ![GitHub Repo Stars](https://img.shields.io/github/stars/gregcmartin/Kippo_JunOS) ![GitHub last commit](https://img.shields.io/github/last-commit/gregcmartin/Kippo_JunOS)](https://github.com/gregcmartin/Kippo_JunOS) - Kippo configured to be a backdoored netscreen.
   - [Kojoney2 ![GitHub Repo Stars](https://img.shields.io/github/stars/madirish/kojoney2) ![GitHub last commit](https://img.shields.io/github/last-commit/madirish/kojoney2)](https://github.com/madirish/kojoney2) - Low interaction SSH honeypot written in Python and based on Kojoney by Jose Antonio Coret.
@@ -462,7 +498,8 @@ Discover more awesome lists at [sindresorhus/awesome ![GitHub Repo Stars](https:
   - [Honeyλ (HoneyLambda) ![GitHub Repo Stars](https://img.shields.io/github/stars/0x4D31/honeylambda) ![GitHub last commit](https://img.shields.io/github/last-commit/0x4D31/honeylambda)](https://github.com/0x4D31/honeylambda) - Simple, serverless application designed to create and monitor URL honeytokens, on top of AWS Lambda and Amazon API Gateway.
   - [dcept ![GitHub Repo Stars](https://img.shields.io/github/stars/secureworks/dcept) ![GitHub last commit](https://img.shields.io/github/last-commit/secureworks/dcept)](https://github.com/secureworks/dcept) - Tool for deploying and detecting use of Active Directory honeytokens.
   - [honeyku ![GitHub Repo Stars](https://img.shields.io/github/stars/0x4D31/honeyku) ![GitHub last commit](https://img.shields.io/github/last-commit/0x4D31/honeyku)](https://github.com/0x4D31/honeyku) - Heroku-based web honeypot that can be used to create and monitor fake HTTP endpoints (i.e. honeytokens).
-
+  - [Tracebit Community Edition](https://community.tracebit.com) - online free canary tokens (AWS, SSH, Email, Web)
+    
 ## Honeyd Tools
 
 - Honeyd plugin
@@ -531,11 +568,13 @@ Discover more awesome lists at [sindresorhus/awesome ![GitHub Repo Stars](https:
   - [Kippo-Graph](https://bruteforcelab.com/kippo-graph) - Full featured script to visualize statistics from a Kippo SSH honeypot.
   - [The Intelligent HoneyNet ![GitHub Repo Stars](https://img.shields.io/github/stars/jpyorre/IntelligentHoneyNet) ![GitHub last commit](https://img.shields.io/github/last-commit/jpyorre/IntelligentHoneyNet)](https://github.com/jpyorre/IntelligentHoneyNet) - Create actionable information from honeypots.
   - [ovizart ![GitHub Repo Stars](https://img.shields.io/github/stars/oguzy/ovizart) ![GitHub last commit](https://img.shields.io/github/last-commit/oguzy/ovizart)](https://github.com/oguzy/ovizart) - Visual analysis for network traffic.
+  - [SSH-Radar ![GitHub Repo Stars](https://img.shields.io/github/stars/antonsatt/ssh-radar) ![GitHub last commit](https://img.shields.io/github/last-commit/antonsatt/ssh-radar)](https://github.com/antonsatt/ssh-radar) - Real-time monitoring and visualization of failed SSH login attempts with geolocation and Grafana dashboards.
 
 ## Guides
 
 - [T-Pot: A Multi-Honeypot Platform](https://dtag-dev-sec.github.io/mediator/feature/2015/03/17/concept.html)
 - [Honeypot (Dionaea and kippo) setup script ![GitHub Repo Stars](https://img.shields.io/github/stars/andrewmichaelsmith/honeypot-setup-script) ![GitHub last commit](https://img.shields.io/github/last-commit/andrewmichaelsmith/honeypot-setup-script)](https://github.com/andrewmichaelsmith/honeypot-setup-script/)
+- [The Security Canary Maturity Model](https://tracebit.com/blog/the-security-canary-maturity-model)
 
 - Deployment
 
@@ -547,3 +586,6 @@ Discover more awesome lists at [sindresorhus/awesome ![GitHub Repo Stars](https:
 
   - [Honeypot research papers ![GitHub Repo Stars](https://img.shields.io/github/stars/shbhmsingh72/Honeypot-Research-Papers) ![GitHub last commit](https://img.shields.io/github/last-commit/shbhmsingh72/Honeypot-Research-Papers)](https://github.com/shbhmsingh72/Honeypot-Research-Papers) - PDFs of research papers on honeypots.
   - [vEYE](https://link.springer.com/article/10.1007%2Fs10115-008-0137-3) - Behavioral footprinting for self-propagating worm detection and profiling.
+  - [The Tularosa Study: An Experimental Design and Implementation to Quantify the Effectiveness of Cyber Deception](https://www.osti.gov/servlets/purl/1524844)
+  - ['It's Not Paranoia If They're Really After You': When Announcing Deception Technology Can Change Attacker Decisions](https://scholarspace.manoa.hawaii.edu/items/88cd00a5-914f-456e-a322-01c22fd5b7d7)
+  - [When to Deceive: A Cross-Layer Stackelberg Game Framework for Strategic Timing of Cyber Deception](https://arxiv.org/pdf/2505.21244)
