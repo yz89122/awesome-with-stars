@@ -1296,7 +1296,7 @@ Useful React Native tooling.
 
 Get a head start on development with an existing seed.
 
-* [🔥 Ignite ���8832 ![GitHub Repo Stars](https://img.shields.io/github/stars/infinitered/ignite) ![GitHub last commit](https://img.shields.io/github/last-commit/infinitered/ignite)](https://github.com/infinitered/ignite) - An unfair start for React Native - Generator CLI for redux/sagas and more.
+* [🔥 Ignite ★8832 ![GitHub Repo Stars](https://img.shields.io/github/stars/infinitered/ignite) ![GitHub last commit](https://img.shields.io/github/last-commit/infinitered/ignite)](https://github.com/infinitered/ignite) - An unfair start for React Native - Generator CLI for redux/sagas and more.
 * [Pepperoni ★4383 ![GitHub Repo Stars](https://img.shields.io/github/stars/futurice/pepperoni-app-kit) ![GitHub last commit](https://img.shields.io/github/last-commit/futurice/pepperoni-app-kit)](https://github.com/futurice/pepperoni-app-kit) - **(deprecated)** Starter kit for Android & iOS, Redux, Immutable.js, disk-persisted app state
 * [Snowflake ★4321 ![GitHub Repo Stars](https://img.shields.io/github/stars/bartonhammond/snowflake) ![GitHub last commit](https://img.shields.io/github/last-commit/bartonhammond/snowflake)](https://github.com/bartonhammond/snowflake) - Android & iOS, Redux, Jest (88% coverage), Immutable, Parse.com
 * [native-starter-kit ★1506 ![GitHub Repo Stars](https://img.shields.io/github/stars/start-react/native-starter-kit) ![GitHub last commit](https://img.shields.io/github/last-commit/start-react/native-starter-kit)](https://github.com/start-react/native-starter-kit) - A Starter Kit for React Native + NativeBase + React Navigation + Redux + CodePush Apps (iOS & Android)
