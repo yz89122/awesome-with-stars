@@ -338,6 +338,7 @@ described in [RFC 8032]
  * [charly](https://github.com/charly-lang) - Charly Programming Language
  * [cltk ![GitHub Repo Stars](https://img.shields.io/github/stars/ziprandom/cltk) ![GitHub last commit](https://img.shields.io/github/last-commit/ziprandom/cltk)](https://github.com/ziprandom/cltk) - A crystal port of the Ruby Language Toolkit
  * [crisp ![GitHub Repo Stars](https://img.shields.io/github/stars/rhysd/Crisp) ![GitHub last commit](https://img.shields.io/github/last-commit/rhysd/Crisp)](https://github.com/rhysd/Crisp) - Lisp dialect implemented with Crystal
+ * [GiavaScript ![GitHub Repo Stars](https://img.shields.io/github/stars/memburg/GiavaScript) ![GitHub last commit](https://img.shields.io/github/last-commit/memburg/GiavaScript)](https://github.com/memburg/GiavaScript) - Open-source, cross-platform JavaScript runtime
  * [LinCAS-lang](https://github.com/LinCAS-lang) - A programming language for scientific computation
  * [mint-lang ![GitHub Repo Stars](https://img.shields.io/github/stars/mint-lang/mint) ![GitHub last commit](https://img.shields.io/github/last-commit/mint-lang/mint)](https://github.com/mint-lang/mint) - A refreshing programming language for the front-end web
  * [myst-lang](https://github.com/myst-lang/) - A practical, dynamic language designed to be written and understood as easily and efficiently as possible
