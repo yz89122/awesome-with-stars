@@ -304,7 +304,7 @@ Browse and search the resources via the [GitHub Pages UI](https://inoue0426.gith
 - [TIGON ![GitHub Repo Stars](https://img.shields.io/github/stars/yutongo/TIGON) ![GitHub last commit](https://img.shields.io/github/last-commit/yutongo/TIGON)](https://github.com/yutongo/TIGON) — Neural optimal transport method for reconstructing growth and dynamic trajectories from single-cell transcriptomics.
 - [LINGER ![GitHub Repo Stars](https://img.shields.io/github/stars/Durenlab/LINGER) ![GitHub last commit](https://img.shields.io/github/last-commit/Durenlab/LINGER)](https://github.com/Durenlab/LINGER) — Neural network for gene regulatory network inference from single-cell multiome (RNA+ATAC-seq) data with bulk data pretraining.
 - [sciPENN ![GitHub Repo Stars](https://img.shields.io/github/stars/jlakkis/sciPENN) ![GitHub last commit](https://img.shields.io/github/last-commit/jlakkis/sciPENN)](https://github.com/jlakkis/sciPENN) — RNN-based method for simultaneous protein expression prediction, uncertainty estimation, and cell-type label transfer from CITE-seq and scRNA-seq data.
-- [MOGONET ![GitHub Repo Stars](https://img.shields.io/github/stars/txWang/MOGONET) ![GitHub last commit](https://img.shields.io/github/last-commit/txWang/MOGONET)](https://github.com/txWang/MOGONET) �� Multi-omics graph convolutional network framework for patient classification and biomarker identification.
+- [MOGONET ![GitHub Repo Stars](https://img.shields.io/github/stars/txWang/MOGONET) ![GitHub last commit](https://img.shields.io/github/last-commit/txWang/MOGONET)](https://github.com/txWang/MOGONET) — Multi-omics graph convolutional network framework for patient classification and biomarker identification.
 
 ---
 
