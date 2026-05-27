@@ -78,11 +78,15 @@ Thanks to all [contributors ![GitHub Repo Stars](https://img.shields.io/github/s
 
 ## MIDI Tools & Libraries
 
+* [Gingoduino ![GitHub Repo Stars](https://img.shields.io/github/stars/sauloverissimo/gingoduino) ![GitHub last commit](https://img.shields.io/github/last-commit/sauloverissimo/gingoduino)](https://github.com/sauloverissimo/gingoduino) - music theory engine for embedded systems with MIDI 1.0/2.0 UMP support.
 * [JJazzLab ![GitHub Repo Stars](https://img.shields.io/github/stars/jjazzboss/JJazzLab) ![GitHub last commit](https://img.shields.io/github/last-commit/jjazzboss/JJazzLab)](https://github.com/jjazzboss/JJazzLab) - a complete Midi-based framework for automatic backing tracks generation.
 * [Midifile](http://midifile.sapp.org/) - C++ library for parsing Standard MIDI Files.
+* [Midimonster ![GitHub Repo Stars](https://img.shields.io/github/stars/cbdevnet/midimonster) ![GitHub last commit](https://img.shields.io/github/last-commit/cbdevnet/midimonster)](https://github.com/cbdevnet/midimonster) - universal control and translation tool for most show control protocols.
 * [mido ![GitHub Repo Stars](https://img.shields.io/github/stars/mido/mido) ![GitHub last commit](https://img.shields.io/github/last-commit/mido/mido)](https://github.com/mido/mido) - Python library for working with MIDI messages and ports.
+* [mididings ![GitHub Repo Stars](https://img.shields.io/github/stars/mididings/mididings) ![GitHub last commit](https://img.shields.io/github/last-commit/mididings/mididings)](https://github.com/mididings/mididings) - A Python-based MIDI router and processor for Linux and macOS
 * [Polyrhythmix ![GitHub Repo Stars](https://img.shields.io/github/stars/dredozubov/polyrhythmix) ![GitHub last commit](https://img.shields.io/github/last-commit/dredozubov/polyrhythmix)](http://github.com/dredozubov/polyrhythmix) - MIDI drums
   generator, designed for polyrhythmic parts
+* [stagedings ![GitHub Repo Stars](https://img.shields.io/github/stars/mididings/stagedings) ![GitHub last commit](https://img.shields.io/github/last-commit/mididings/stagedings)](https://github.com/mididings/stagedings) - An UI and API for mididings
 * [Timidity](http://timidity.sourceforge.net/) - an open-source command line synthesizer that plays MIDI files.
 
 ## Music Notation
