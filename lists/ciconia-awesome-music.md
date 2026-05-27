@@ -52,12 +52,12 @@ Thanks to all [contributors ![GitHub Repo Stars](https://img.shields.io/github/s
 * [fre:ac ![GitHub Repo Stars](https://img.shields.io/github/stars/enzo1982/freac) ![GitHub last commit](https://img.shields.io/github/last-commit/enzo1982/freac)](https://github.com/enzo1982/freac) - free audio converter. It supports audio CD ripping and tag editing.
 * [Jack ![GitHub Repo Stars](https://img.shields.io/github/stars/jack-cli-cd-ripper/jack) ![GitHub last commit](https://img.shields.io/github/last-commit/jack-cli-cd-ripper/jack)](https://github.com/jack-cli-cd-ripper/jack) - command-line CD ripper.
 * [K3b ![GitHub Repo Stars](https://img.shields.io/github/stars/KDE/k3b) ![GitHub last commit](https://img.shields.io/github/last-commit/KDE/k3b)](https://github.com/KDE/k3b) - is a full-featured CD/DVD/Blu-ray burning and ripping application.
+* [Kima ![GitHub Repo Stars](https://img.shields.io/github/stars/Chevron7Locked/kima-hub) ![GitHub last commit](https://img.shields.io/github/last-commit/Chevron7Locked/kima-hub)](https://github.com/Chevron7Locked/kima-hub) - a self-hosted music streaming server with ML-powered audio analysis, vibe-based discovery, and Subsonic API support.
 * [Koel ![GitHub Repo Stars](https://img.shields.io/github/stars/phanan/koel) ![GitHub last commit](https://img.shields.io/github/last-commit/phanan/koel)](https://github.com/phanan/koel) - an open-source personal audio streaming server.
 * [Lame](http://lame.sourceforge.net/) - a high quality, free and open-source MP3 encoder.
 * [lltag ![GitHub Repo Stars](https://img.shields.io/github/stars/bgoglin/lltag) ![GitHub last commit](https://img.shields.io/github/last-commit/bgoglin/lltag)](https://github.com/bgoglin/lltag) - automatic command-line mp3/ogg/flac file tagger and renamer.
 * [matchering ![GitHub Repo Stars](https://img.shields.io/github/stars/sergree/matchering) ![GitHub last commit](https://img.shields.io/github/last-commit/sergree/matchering)](https://github.com/sergree/matchering) - сontainerized web application and library for automated reference audio mastering.
 * [MusicBrainz](https://musicbrainz.org) - Open Encyclopedia for Music information and Metadata, providing a unique ID for everything
-* [Musikernel ![GitHub Repo Stars](https://img.shields.io/github/stars/j3ffhubb/musikernel) ![GitHub last commit](https://img.shields.io/github/last-commit/j3ffhubb/musikernel)](https://github.com/j3ffhubb/musikernel) - a futuristic audio production platform (hardware support, APIs, hosts, plugins and more)
 * [Rubyripper ![GitHub Repo Stars](https://img.shields.io/github/stars/bleskodev/rubyripper) ![GitHub last commit](https://img.shields.io/github/last-commit/bleskodev/rubyripper)](https://github.com/bleskodev/rubyripper) - is a secure digital audio extraction application ("cd ripper") for Unix-like operating systems.
 * [SoX](http://sox.sourceforge.net/) - a free open-source command line utility for playing, converting and manipulating audio files.
 * [split2flac ![GitHub Repo Stars](https://img.shields.io/github/stars/ftrvxmtrx/split2flac) ![GitHub last commit](https://img.shields.io/github/last-commit/ftrvxmtrx/split2flac)](https://github.com/ftrvxmtrx/split2flac) - split flac/ape/wv/wav + cue sheet into separate tracks
@@ -78,7 +78,7 @@ Thanks to all [contributors ![GitHub Repo Stars](https://img.shields.io/github/s
 
 ## MIDI Tools & Libraries
 
-* [JJazzLab-X ![GitHub Repo Stars](https://img.shields.io/github/stars/jjazzboss/JJazzLab-X) ![GitHub last commit](https://img.shields.io/github/last-commit/jjazzboss/JJazzLab-X)](https://github.com/jjazzboss/JJazzLab-X) - a complete Midi-based framework for automatic backing tracks generation.
+* [JJazzLab ![GitHub Repo Stars](https://img.shields.io/github/stars/jjazzboss/JJazzLab) ![GitHub last commit](https://img.shields.io/github/last-commit/jjazzboss/JJazzLab)](https://github.com/jjazzboss/JJazzLab) - a complete Midi-based framework for automatic backing tracks generation.
 * [Midifile](http://midifile.sapp.org/) - C++ library for parsing Standard MIDI Files.
 * [mido ![GitHub Repo Stars](https://img.shields.io/github/stars/mido/mido) ![GitHub last commit](https://img.shields.io/github/last-commit/mido/mido)](https://github.com/mido/mido) - Python library for working with MIDI messages and ports.
 * [Polyrhythmix ![GitHub Repo Stars](https://img.shields.io/github/stars/dredozubov/polyrhythmix) ![GitHub last commit](https://img.shields.io/github/last-commit/dredozubov/polyrhythmix)](http://github.com/dredozubov/polyrhythmix) - MIDI drums
@@ -177,6 +177,7 @@ Thanks to all [contributors ![GitHub Repo Stars](https://img.shields.io/github/s
 
 ## Related lists
 
+* [Awesome AI Music Generation ![GitHub Repo Stars](https://img.shields.io/github/stars/Curated-Awesome-Lists/awesome-ai-music-generation) ![GitHub last commit](https://img.shields.io/github/last-commit/Curated-Awesome-Lists/awesome-ai-music-generation)](https://github.com/Curated-Awesome-Lists/awesome-ai-music-generation) - A curated list of AI music generation tools and resources.
 * [Awesome Audio DSP ![GitHub Repo Stars](https://img.shields.io/github/stars/BillyDM/awesome-audio-dsp) ![GitHub last commit](https://img.shields.io/github/last-commit/BillyDM/awesome-audio-dsp)](https://github.com/BillyDM/awesome-audio-dsp) - A curated list of audio DSP and plugin development resources.
 * [Awesome Audio Visualization ![GitHub Repo Stars](https://img.shields.io/github/stars/willianjusten/awesome-audio-visualization) ![GitHub last commit](https://img.shields.io/github/last-commit/willianjusten/awesome-audio-visualization)](https://github.com/willianjusten/awesome-audio-visualization) - A curated list about Audio Visualization.
 * [Awesome Music Listening ![GitHub Repo Stars](https://img.shields.io/github/stars/ybayle/awesome-music-listening) ![GitHub last commit](https://img.shields.io/github/last-commit/ybayle/awesome-music-listening)](https://github.com/ybayle/awesome-music-listening) - Awesome list of websites dedicated to listening to music.
