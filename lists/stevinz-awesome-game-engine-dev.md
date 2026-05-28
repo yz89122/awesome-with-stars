@@ -388,7 +388,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Entt ![GitHub Repo Stars](https://img.shields.io/github/stars/skypjack/entt) ![GitHub last commit](https://img.shields.io/github/last-commit/skypjack/entt)](https://github.com/skypjack/entt) - Gaming meets modern C++, a fast and reliable entity component system.
 - C++: Fonts
     - 🎉 [HarfBuzz ![GitHub Repo Stars](https://img.shields.io/github/stars/harfbuzz/harfbuzz) ![GitHub last commit](https://img.shields.io/github/last-commit/harfbuzz/harfbuzz)](https://github.com/harfbuzz/harfbuzz) - Text shaping library. Formatted and positioned glyph output.
-    - 🎉 [msdfgen ![GitHub Repo Stars](https://img.shields.io/github/stars/Chlumsky/msdfgen) ![GitHub last commit](https://img.shields.io/github/last-commit/Chlumsky/msdfgen)](https://github.com/Chlumsky/msdfgen) - Multi-channel signed distance field generator.
+    - ��� [msdfgen ![GitHub Repo Stars](https://img.shields.io/github/stars/Chlumsky/msdfgen) ![GitHub last commit](https://img.shields.io/github/last-commit/Chlumsky/msdfgen)](https://github.com/Chlumsky/msdfgen) - Multi-channel signed distance field generator.
     - 💰 [Slug](http://sluglibrary.com) - High-quality, resolution-independent text and vector graphics for 3D apps.
 - C++: File Formats
     - ⭐ [Jpeg-Compressor ![GitHub Repo Stars](https://img.shields.io/github/stars/richgel999/jpeg-compressor) ![GitHub last commit](https://img.shields.io/github/last-commit/richgel999/jpeg-compressor)](https://github.com/richgel999/jpeg-compressor) - Single-file library that writes baseline JPEG compressed images.
