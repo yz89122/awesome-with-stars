@@ -399,7 +399,7 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 | <a href="https://www.freecodecamp.org/learn/2022/responsive-web-design/" target="_blank" rel="noopener noreferrer">Responsive Web Design Certification</a> | FreeCodeCamp|Professional|300| 🏆|
 | <a href="https://www.freecodecamp.org/learn/front-end-development-libraries/" target="_blank" rel="noopener noreferrer">Front-End Libraries Certification</a> | FreeCodeCamp |Professional|300 | 🏆|
 | <a href="https://www.lambdatest.com/certifications/selenium-101" target="_blank" rel="noopener noreferrer">Selenium 101</a> | LambdaTest | Beginner | 4 |🏆|
-| <a href="https://www.hackerrank.com/skills-verification/angular_basic" target="_blank" rel="noopener noreferrer">Angular</a> | HackerRank | Beginner | 1 |🏆|
+| <a href="https://www.hackerrank.com/skills-verification/angular_basic" target="_blank" rel="noopener noreferrer">Angular</a> | HackerRank | Beginner | 1 |����|
 | <a href="https://www.hackerrank.com/skills-verification/react_basic" target="_blank" rel="noopener noreferrer">React</a> | HackerRank | Beginner | 1.5 |🏆|
 | <a href="https://www.hackerrank.com/skills-verification/nodejs_intermediate" target="_blank" rel="noopener noreferrer">Node.js</a> | HackerRank | Intermediate | 1 |🏆|
 
@@ -472,7 +472,7 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 | Course Name | Course Provider | Level | Hour(s) | Reward |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
 | <a href="https://www.netacad.com/courses/os-it/ndg-linux-unhatched" target="_blank" rel="noopener noreferrer">NDG Linux Unhatched</a>| Cisco Networking Academy |Beginner| 8 |    🏆 |
-| <a href="https://www.netacad.com/courses/os-it/ndg-linux-essentials" target="_blank" rel="noopener noreferrer">NDG Linux Essentials</a> | Cisco Networking Academy |Intermediate| 70 |🏆|
+| <a href="https://www.netacad.com/courses/os-it/ndg-linux-essentials" target="_blank" rel="noopener noreferrer">NDG Linux Essentials</a> | Cisco Networking Academy |Intermediate| 70 |��|
 | <a href="https://learn.saylor.org/course/view.php?id=94" target="_blank" rel="noopener noreferrer">CS401: Operating Systems</a> | Saylor Academy |Professional|120 | 🏆|
 
 <a href="https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents" target="_blank" rel="noopener noreferrer">⬆️</a>

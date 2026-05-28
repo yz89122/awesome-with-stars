@@ -600,6 +600,7 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 
 ## Project
 
+- [karshPrime/switchboard.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/karshPrime/switchboard.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/karshPrime/switchboard.nvim)](https://github.com/karshPrime/switchboard.nvim) - Define "run", "build", or any custom command/bind per language or project, then use the same keybinds everywhere.
 - [Abstract-IDE/penvim ![GitHub Repo Stars](https://img.shields.io/github/stars/Abstract-IDE/penvim) ![GitHub last commit](https://img.shields.io/github/last-commit/Abstract-IDE/penvim)](https://github.com/Abstract-IDE/penvim) - Project's root directory and documents Indentation detector with project based config loader.
 - [windwp/nvim-projectconfig ![GitHub Repo Stars](https://img.shields.io/github/stars/windwp/nvim-projectconfig) ![GitHub last commit](https://img.shields.io/github/last-commit/windwp/nvim-projectconfig)](https://github.com/windwp/nvim-projectconfig) - Loads Neovim config depending on the project directory.
 - [DrKJeff16/project.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/DrKJeff16/project.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/DrKJeff16/project.nvim)](https://github.com/DrKJeff16/project.nvim) - Project manager with project root detection, documented code and lots of improvements, including `snacks.nvim`, `fzf-lua` and `picker.nvim` support.
