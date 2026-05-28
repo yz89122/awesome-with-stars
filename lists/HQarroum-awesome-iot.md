@@ -175,6 +175,7 @@ Inspired by the [awesome ![GitHub Repo Stars](https://img.shields.io/github/star
 
  - [Amazon Dash](https://fresh.amazon.com/dash/) - Amazon Dash Button is a Wi-Fi connected device that reorders your favorite item with the press of a button.
  - [BirdNET-Go ![GitHub Repo Stars](https://img.shields.io/github/stars/tphakala/birdnet-go) ![GitHub last commit](https://img.shields.io/github/last-commit/tphakala/birdnet-go)](https://github.com/tphakala/birdnet-go) - Realtime wildlife soundscape analyser with multi-model AI inference, MQTT publishing with Home Assistant discovery, and web dashboard.
+ - [Electrum ![GitHub Repo Stars](https://img.shields.io/github/stars/yoelf22/electrum) ![GitHub last commit](https://img.shields.io/github/last-commit/yoelf22/electrum)](https://github.com/yoelf22/electrum) - A structured, AI-assisted toolkit for defining hardware products that have software inside — from concept through engineering spec to presentation-ready materials in eight phases.
  - [Freeboard](http://freeboard.io/) - A real-time interactive dashboard and visualization creator implementing an intuitive drag & drop interface.
  - [Nebula](http://nebula.readthedocs.io) -  A docker orchestrator designed to manage IoT devices.
  - [Gladys](https://gladysassistant.com) - Gladys is an open-source program that runs on the Raspberry Pi and integrates into the entire home network system.
