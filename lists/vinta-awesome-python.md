@@ -435,6 +435,7 @@ _Libraries for connecting and operating databases._
 
 _Databases implemented in Python._
 
+- [chdb ![GitHub Repo Stars](https://img.shields.io/github/stars/chdb-io/chdb) ![GitHub last commit](https://img.shields.io/github/last-commit/chdb-io/chdb)](https://github.com/chdb-io/chdb) - In-process OLAP SQL engine with the full ClickHouse dialect, zero-copy pandas/Arrow interop, and federation to remote ClickHouse clusters via `remoteSecure()`.
 - [chromadb ![GitHub Repo Stars](https://img.shields.io/github/stars/chroma-core/chroma) ![GitHub last commit](https://img.shields.io/github/last-commit/chroma-core/chroma)](https://github.com/chroma-core/chroma) - An open-source embedding database for building AI applications with embeddings and semantic search.
 - [duckdb ![GitHub Repo Stars](https://img.shields.io/github/stars/duckdb/duckdb) ![GitHub last commit](https://img.shields.io/github/last-commit/duckdb/duckdb)](https://github.com/duckdb/duckdb) - An in-process SQL OLAP database management system; optimized for analytics and fast queries, similar to SQLite but for analytical workloads.
 - [pickledb ![GitHub Repo Stars](https://img.shields.io/github/stars/patx/pickledb) ![GitHub last commit](https://img.shields.io/github/last-commit/patx/pickledb)](https://github.com/patx/pickledb) - A simple and lightweight key-value store for Python.
