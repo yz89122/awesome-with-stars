@@ -294,7 +294,7 @@ Pull requests are welcome with the condition that the resource should be free! P
 * [Relevant](<https://tryhackme.com/room/relevant>) - Penetration Testing Challenge.
 
 <!--lint disable double-link-->
-[��](#contents)<!--lint enable double-link-->
+[↑](#contents)<!--lint enable double-link-->
 
 ## Extremely Hard Rooms to do
 
