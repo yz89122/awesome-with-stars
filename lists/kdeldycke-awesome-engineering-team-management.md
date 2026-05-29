@@ -434,7 +434,7 @@ Expansive lists of well-known models and concepts.
 
 - [Regression toward the mean](https://en.wikipedia.org/wiki/Regression_toward_the_mean) - Or why after a period of intense euphoria and ambition, things slowly get back to their usual mediocrity.
 
-- [Locus of control](https://en.wikipedia.org/wiki/Locus_of_control) - A framework on ��the degree to which people believe that they have control over the outcome of events in their lives, as opposed to external forces beyond their control.”
+- [Locus of control](https://en.wikipedia.org/wiki/Locus_of_control) - A framework on “the degree to which people believe that they have control over the outcome of events in their lives, as opposed to external forces beyond their control.”
 
 ### Problem Solving
 
@@ -504,7 +504,7 @@ You shouldn't spend your time coding. Leave that to the engineers: your value li
 
 - [If Your Boss Could Do Your Job, You're More Likely to Be Happy at Work](https://archive.ph/J2vlo#selection-1025.8-1025.64) - “Although we found that many factors can matter for happiness at work – type of occupation, level of education, tenure, and industry are also significant, for instance – they don't even come close to mattering as much as the boss' technical competence.”
 
-- “The best managers I met tended to be those that if the circumstance required it, could do the job of those two levels below.” ([source](https://news.ycombinator.com/item?id=23891984)) - Another way of putting it: managers needs domain knowledge and to know the work their reports do.
+- “The best managers I met tended to be those that if the circumstance required it, could do the job of those two levels below.�� ([source](https://news.ycombinator.com/item?id=23891984)) - Another way of putting it: managers needs domain knowledge and to know the work their reports do.
 
 - “Over the years we have developed the policy that it is important for the supervisor to thoroughly know and understand the work of his group.” ([source](https://news.ycombinator.com/item?id=20683609)) - This quote is [from David Packard](https://www.amazon.com/HP-Way-Hewlett-Built-Company/dp/0887307477?_encoding=UTF8&qid=1686404404&sr=1-1&linkCode=ll1&tag=kevideld-20&linkId=e6069674f9b0b4ef884b0f8f70eb8f94&language=en_US&ref_=as_li_ss_tl) (HP co-founder), decades before current [management fad](https://en.wikipedia.org/wiki/Management_fad).
 
