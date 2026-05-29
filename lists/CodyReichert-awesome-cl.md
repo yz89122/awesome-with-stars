@@ -913,10 +913,12 @@ Implementations
 * ⭐ [CCL](https://ccl.clozure.com/) - Clozure Common Lisp; compiler-only implementation, generates native code.  [LLGPL][8].
 * [ECL](https://common-lisp.net/project/ecl/) - Embeddable Common Lisp; compiles to C. [GNU LGPL2.1][11].
   * [cross compilation](https://ecl.common-lisp.dev/static/files/manual/current-manual/System-building.html#Cross-compilation)
+    * [blog report: porting Maxima to iOS](https://li-yiyang.github.io/lisp/imaxima/).
   * WASM support in development ([NLNET grant in 2025](https://nlnet.nl/project/ECL/))
   * [eclweb ![GitHub Repo Stars](https://img.shields.io/github/stars/chee/eclweb) ![GitHub last commit](https://img.shields.io/github/last-commit/chee/eclweb)](https://github.com/chee/eclweb) is [a proof-of-concept REPL inside a browser](https://repl.chee.party/) using Web Assembly (WASM).
 * [ABCL](https://common-lisp.net/project/armedbear/) - Armed Bear Common Lisp; targets the JVM, compiles to bytecode. [Standard conformance][4]. [GNU GPL3][2] with [Classpath exception][3].
   * [abcl-memory-compiler](https://gitlab.com/cl-projects/abcl-memory-compiler) - a way to compile Java source code to create Java classes at runtime with ABCL. [Apache2][89].
+  * [py4abcl](https://gitlab.com/cl-projects/py4abcl) - communicate with Python in ABCL.
 * [CLASP ![GitHub Repo Stars](https://img.shields.io/github/stars/drmeister/clasp) ![GitHub last commit](https://img.shields.io/github/last-commit/drmeister/clasp)](https://github.com/drmeister/clasp) - a new Common Lisp implementation that seamlessly interoperates with C++ libraries and programs using LLVM for compilation to native code. This allows Clasp to take advantage of a vast array of preexisting libraries and programs, such as out of the scientific computing ecosystem. [LGPL2.1][11] (and others).
 
 Proprietary:
@@ -1614,6 +1616,7 @@ Others
 * [dns-client](https://codeberg.org/Shinmera/dns-client) - DNS record client. See [documentation](https://shinmera.github.io/dns-client/). [zlib][33].
 * [mobiledetect ![GitHub Repo Stars](https://img.shields.io/github/stars/Junker/mobiledetect) ![GitHub last commit](https://img.shields.io/github/last-commit/Junker/mobiledetect)](https://github.com/Junker/mobiledetect) - System for detecting mobile devices (including tablets) in User-Agent strings. MIT.
 * [random-ua ![GitHub Repo Stars](https://img.shields.io/github/stars/Junker/random-ua) ![GitHub last commit](https://img.shields.io/github/last-commit/Junker/random-ua)](https://github.com/Junker/random-ua) - Random User-Agent generator for Common Lisp. BSD_2Clause.
+* [cl-web-push ![GitHub Repo Stars](https://img.shields.io/github/stars/ryukinix/cl-web-push) ![GitHub last commit](https://img.shields.io/github/last-commit/ryukinix/cl-web-push)](https://github.com/ryukinix/cl-web-push) - Web Push Notifications for Common Lisp applications.
 
 
 ### Email
@@ -1898,6 +1901,9 @@ Readline, ncurses and other graphical TUI helpers
   previously-entered command lines, to recall and reedit them and
   perform csh-like history expansion.  Emacs and vi editing
   modes. [GPL3][2].
+* [cl-isocline](https://codeberg.org/digikar/cl-isocline/) - an alternative to libreadline, libedit and the likes.
+  * in contrast to the contagious GPL-licensed libreadline, it is MIT licensed, pure C, portable across Unix, Windows, MacOS, supports multiline editing out of the box, and more.
+  * contains `isocline-repl`, a feature-rich Common Lisp REPL with support for: multiline editing, history, syntax highlighting, basic debugging.
 * [Linedit](https://common-lisp.net/project/linedit) - Readline-style
   library that provides customizable line-editing
   features. [MIT-style][210].
@@ -1948,6 +1954,9 @@ Configuration tools not unlike Ansible, Chef or Puppet.
   * apache, apt, cmd, container, cron, disk, file, firewalld, git, hostname, lets-encrypt, locale, lxc, mount, network, os, package, periodic, postgres, reboot, service, ssh, sshd, systemd, timezone, user…
 * [cl-unix-cybernetics ![GitHub Repo Stars](https://img.shields.io/github/stars/cl-unix-cybernetics/cl-unix-cybernetics) ![GitHub last commit](https://img.shields.io/github/last-commit/cl-unix-cybernetics/cl-unix-cybernetics)](https://github.com/cl-unix-cybernetics/cl-unix-cybernetics) (previously Adams) - UNIX system administration in Common Lisp. [ISC][22].
   - You describe your systems (hosts) using resources having properties. The properties are then probed and synchronized using only /bin/sh on the remote host, and /usr/bin/ssh on the control host.
+- [cl-ssh ![GitHub Repo Stars](https://img.shields.io/github/stars/jmeissen/cl-ssh) ![GitHub last commit](https://img.shields.io/github/last-commit/jmeissen/cl-ssh)](https://github.com/jmeissen/cl-ssh) -  SSH v2 client implementation. MIT.
+  * Core transport, authentication, and session execution work. Use at your own risk.
+  * see also: [trivial-ssh ![GitHub Repo Stars](https://img.shields.io/github/stars/eudoxia0/trivial-ssh) ![GitHub last commit](https://img.shields.io/github/last-commit/eudoxia0/trivial-ssh)](https://github.com/eudoxia0/trivial-ssh) (*bitrot as of 2026?*)
 
 Updating executables
 --------------------
@@ -2074,9 +2083,12 @@ Tools:
 
 ## VSCode ##
 
-* [commonlisp-vscode](https://marketplace.visualstudio.com/items?itemName=ailisp.commonlisp-vscode) - an extension to support syntax highlight, auto completion, documentation on hover, go to definition, compile & load file, REPL. It is [On GitHub ![GitHub Repo Stars](https://img.shields.io/github/stars/ailisp/commonlisp-vscode) ![GitHub last commit](https://img.shields.io/github/last-commit/ailisp/commonlisp-vscode)](https://github.com/ailisp/commonlisp-vscode/).
+* NEW as of May, 2026 · [OLIVE ![GitHub Repo Stars](https://img.shields.io/github/stars/kchanqvq/olive) ![GitHub last commit](https://img.shields.io/github/last-commit/kchanqvq/olive)](https://github.com/kchanqvq/olive/) - A Common Lisp extension for VSCode with REPL, debugger, go to definition, macro stepper. Based on Swank.
+  * [announce and difference from Alive](https://old.reddit.com/r/lisp/comments/1tn3zff/new_cl_vscode_extension_olive/)
 * [alive ![GitHub Repo Stars](https://img.shields.io/github/stars/nobody-famous/alive) ![GitHub last commit](https://img.shields.io/github/last-commit/nobody-famous/alive)](https://github.com/nobody-famous/alive) -  Common Lisp Extension for VSCode. Public domain.
+  * not based on Slime/Swank.
   * see the Cookbook: [using VSCode with Alive](https://lispcookbook.github.io/cl-cookbook/vscode-alive.html)
+* [commonlisp-vscode](https://marketplace.visualstudio.com/items?itemName=ailisp.commonlisp-vscode) - an extension to support syntax highlight, auto completion, documentation on hover, go to definition, compile & load file, REPL. It is [On GitHub ![GitHub Repo Stars](https://img.shields.io/github/stars/ailisp/commonlisp-vscode) ![GitHub last commit](https://img.shields.io/github/last-commit/ailisp/commonlisp-vscode)](https://github.com/ailisp/commonlisp-vscode/).
 * [strict-paredit-vscode](https://marketplace.visualstudio.com/items?itemName=ailisp.strict-paredit) - structural editing and navigation like Emacs.
 
 ## JetBrains
@@ -2108,7 +2120,7 @@ Tools:
   * binary releases: simply download a binary (Ubuntu, OSX, Windows) and run it.
   * [colorthemes ![GitHub Repo Stars](https://img.shields.io/github/stars/koji-kojiro/lem-pygments-colorthemes) ![GitHub last commit](https://img.shields.io/github/last-commit/koji-kojiro/lem-pygments-colorthemes)](https://github.com/koji-kojiro/lem-pygments-colorthemes).
   * compared to icl: has an interactive debugger, has a `!` shell shortcut, has an `%edit` command, has classic readline-based autocompletion (icl has a drop-down), not based on Slynk, can't connect to a running Lisp image.
-* [sbcli ![GitHub Repo Stars](https://img.shields.io/github/stars/hellerve/sbcli) ![GitHub last commit](https://img.shields.io/github/last-commit/hellerve/sbcli)](https://github.com/hellerve/sbcli) - a readline REPL for SBCL. With completion, quick commands, optional syntax highlighting (with pygments), and no interactive debugger. [GPL3][2].
+* [cl-isocline](https://codeberg.org/digikar/cl-isocline/) - contains `isocline-repl`, a feature-rich Common Lisp REPL with support for: multiline editing, history, syntax highlighting, basic debugging.
 * [magic-ed ![GitHub Repo Stars](https://img.shields.io/github/stars/sanel/magic-ed) ![GitHub last commit](https://img.shields.io/github/last-commit/sanel/magic-ed)](https://github.com/sanel/magic-ed) - a tiny editing facility, where you can directly load, edit, manipulate and evaluate file or file content from the REPL, when going to a full IDE is too much. [MIT][200].
 
 <!-- See also: -->
