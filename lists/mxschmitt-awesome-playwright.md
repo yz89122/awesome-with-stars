@@ -9,6 +9,8 @@
 - [Integrations](#integrations)
 - [Language Support](#language-support)
 - [Utils](#utils)
+- [Scraping & Automation](#scraping--automation)
+- [AI & Agents](#ai--agents)
 - [Reporters](#reporters)
 - [Showcases](#showcases)
 - [Guides](#guides)
@@ -71,6 +73,18 @@
 - [POMWright ![GitHub Repo Stars](https://img.shields.io/github/stars/DyHex/POMWright) ![GitHub last commit](https://img.shields.io/github/last-commit/DyHex/POMWright)](https://github.com/DyHex/POMWright) - TypeScript-based Page Object Model framework with automatic nested/chained locator generation.
 - [TestingBot](https://testingbot.com) - Connect your Playwright tests with browsers in the Cloud.
 - [Try Playwright](https://try.playwright.tech) - Interactive playground for running Playwright tests.
+
+## Scraping & Automation
+
+- [camofox-browser ![GitHub Repo Stars](https://img.shields.io/github/stars/jo-inc/camofox-browser) ![GitHub last commit](https://img.shields.io/github/last-commit/jo-inc/camofox-browser)](https://github.com/jo-inc/camofox-browser) - Stealth headless browser server usable as a Playwright-compatible automation backend, with anti-detection built in.
+- [CloakBrowser ![GitHub Repo Stars](https://img.shields.io/github/stars/CloakHQ/CloakBrowser) ![GitHub last commit](https://img.shields.io/github/last-commit/CloakHQ/CloakBrowser)](https://github.com/CloakHQ/CloakBrowser) - Stealth Chromium with source-level fingerprint patches and a Playwright-compatible wrapper for Python and JavaScript.
+- [Human Browser](https://humanbrowser.cloud) - Playwright drop-in that runs scripts on managed cloud browsers with residential IPs and device fingerprints, with an A2A + MCP endpoint.
+- [invisible_playwright ![GitHub Repo Stars](https://img.shields.io/github/stars/feder-cr/invisible_playwright) ![GitHub last commit](https://img.shields.io/github/last-commit/feder-cr/invisible_playwright)](https://github.com/feder-cr/invisible_playwright) - Drop-in Playwright replacement using a patched Firefox with source-level fingerprint and anti-detection patches.
+
+## AI & Agents
+
+- [Playwright Agent CLI](https://playwright.dev/agent-cli/introduction) - Official command-line interface for browser automation designed for coding agents, with token-efficient commands and installable skills.
+- [Playwright MCP ![GitHub Repo Stars](https://img.shields.io/github/stars/microsoft/playwright-mcp) ![GitHub last commit](https://img.shields.io/github/last-commit/microsoft/playwright-mcp)](https://github.com/microsoft/playwright-mcp) - Official Model Context Protocol server that gives LLMs browser automation via Playwright accessibility snapshots.
 
 ## Reporters
 
