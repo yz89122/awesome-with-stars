@@ -12,6 +12,7 @@ Open source games that have the source code available.
 - [Browser-Based](#browser-based)
 	- [Boardgame](#boardgame)
 	- [Arcade](#arcade)
+	- [Rhythm](#rhythm)
 	- [FPS](#fps)
 	- [RPG](#rpg)
 	- [MMORPG](#mmorpg)
@@ -25,7 +26,7 @@ Open source games that have the source code available.
 - [Native](#native)
 	- [Action](#action)
 	- [Arcade](#arcade-1)
-	- [Rhythm](#rhythm)
+	- [Rhythm](#rhythm-1)
 	- [FPS](#fps-1)
 	- [MMORPG](#mmorpg-1)
 	- [RPG](#rpg-1)
@@ -139,6 +140,10 @@ A selection of major game studios, publishers, etc. using GitHub:
 - [WPilot ![GitHub Repo Stars](https://img.shields.io/github/stars/jfd/wpilot) ![GitHub last commit](https://img.shields.io/github/last-commit/jfd/wpilot)](https://github.com/jfd/wpilot) - Browser-based remake of the famous XPilot game, built with Node.js and HTML5.
 - [Zedinvaders ![GitHub Repo Stars](https://img.shields.io/github/stars/salvatorecapolupo/zedinvaders) ![GitHub last commit](https://img.shields.io/github/last-commit/salvatorecapolupo/zedinvaders)](https://github.com/salvatorecapolupo/zedinvaders) - Game is based on our original comic ZED, seen inside "zero-episode" called "Game Over".
 - [111 one-button games ![GitHub Repo Stars](https://img.shields.io/github/stars/abagames/111-one-button-games-in-2021) ![GitHub last commit](https://img.shields.io/github/last-commit/abagames/111-one-button-games-in-2021)](https://github.com/abagames/111-one-button-games-in-2021) - One button games are famous for realizing various actions with one button.
+
+### Rhythm
+
+- [Bemuse ![GitHub Repo Stars](https://img.shields.io/github/stars/bemusic/bemuse) ![GitHub last commit](https://img.shields.io/github/last-commit/bemusic/bemuse)](https://github.com/bemusic/bemuse) - Online rhythm game playing songs in [BMS ![GitHub Repo Stars](https://img.shields.io/github/stars/wcko87/beatoraja-english-guide) ![GitHub last commit](https://img.shields.io/github/last-commit/wcko87/beatoraja-english-guide)](https://github.com/wcko87/beatoraja-english-guide/wiki/BMS-Overview) format.
 
 ### FPS
 
@@ -274,6 +279,9 @@ A selection of major game studios, publishers, etc. using GitHub:
 ### Rhythm
 
 - [osu! ![GitHub Repo Stars](https://img.shields.io/github/stars/ppy/osu) ![GitHub last commit](https://img.shields.io/github/last-commit/ppy/osu)](https://github.com/ppy/osu) - Rhythm is just a *click* away!
+- [Stepmania ![GitHub Repo Stars](https://img.shields.io/github/stars/stepmania/stepmania) ![GitHub last commit](https://img.shields.io/github/last-commit/stepmania/stepmania)](https://github.com/stepmania/stepmania) - Cross-platform dance rhythm game.
+- [lr2oraja ![GitHub Repo Stars](https://img.shields.io/github/stars/wcko87/lr2oraja) ![GitHub last commit](https://img.shields.io/github/last-commit/wcko87/lr2oraja)](https://github.com/wcko87/lr2oraja) - [BMS player ![GitHub Repo Stars](https://img.shields.io/github/stars/wcko87/beatoraja-english-guide) ![GitHub last commit](https://img.shields.io/github/last-commit/wcko87/beatoraja-english-guide)](https://github.com/wcko87/beatoraja-english-guide/wiki/BMS-Overview), fork of [beatoraja](https://mocha-repository.info/download.php) (popular BMS player) using Lunatic Rave 2 (LR2) gauges and judge (Requires a JVM. Recommended: [Liberica OpenJDK](https://bell-sw.com/pages/downloads/) Full version).
+- [lr2oraja \~Endless Dream\~ ![GitHub Repo Stars](https://img.shields.io/github/stars/seraxis/lr2oraja-endlessdream) ![GitHub last commit](https://img.shields.io/github/last-commit/seraxis/lr2oraja-endlessdream)](https://github.com/seraxis/lr2oraja-endlessdream) - BMS player, fork of lr2oraja with additional features (Requires a JVM. Recommended: [Liberica OpenJDK](https://bell-sw.com/pages/downloads/) Full version).
 
 ### FPS
 

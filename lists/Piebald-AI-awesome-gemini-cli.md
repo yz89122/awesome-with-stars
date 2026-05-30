@@ -200,6 +200,11 @@ Services that expose Gemini CLI functionality through standard API protocols.
 
 - [gemini-cli-prompt-library ![GitHub Repo Stars](https://img.shields.io/github/stars/harish-garg/gemini-cli-prompt-library) ![GitHub last commit](https://img.shields.io/github/last-commit/harish-garg/gemini-cli-prompt-library)](https://github.com/harish-garg/gemini-cli-prompt-library) - 30+ professional prompts for Gemini CLI.
 
+## Education & Study Tools
+
+- [Shiori ![GitHub Repo Stars](https://img.shields.io/github/stars/kaorii-ako/Shiori-v1) ![GitHub last commit](https://img.shields.io/github/last-commit/kaorii-ako/Shiori-v1)](https://github.com/kaorii-ako/Shiori-v1) — Open-source AI study companion powered by Gemini AI. Assignments tracker, SRS flashcards, GPA predictor, AI quiz generator, Pomodoro focus timer, and Claude Code MCP server. [Live demo](https://shiori-v1.vercel.app).
+
+
 ## MCP Servers
 
 Model Context Protocol servers that enable Gemini CLI integration with other AI tools.
