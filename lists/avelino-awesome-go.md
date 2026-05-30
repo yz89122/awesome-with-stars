@@ -2382,6 +2382,7 @@ _Libraries that are used to help make your application more secure._
 - [CertMagic ![GitHub Repo Stars](https://img.shields.io/github/stars/caddyserver/certmagic) ![GitHub last commit](https://img.shields.io/github/last-commit/caddyserver/certmagic)](https://github.com/caddyserver/certmagic) - Mature, robust, and powerful ACME client integration for fully-managed TLS certificate issuance and renewal.
 - [Coraza ![GitHub Repo Stars](https://img.shields.io/github/stars/corazawaf/coraza) ![GitHub last commit](https://img.shields.io/github/last-commit/corazawaf/coraza)](https://github.com/corazawaf/coraza) - Enterprise-ready, modsecurity and OWASP CRS compatible WAF library.
 - [dongle ![GitHub Repo Stars](https://img.shields.io/github/stars/golang-module/dongle) ![GitHub last commit](https://img.shields.io/github/last-commit/golang-module/dongle)](https://github.com/golang-module/dongle) - A simple, semantic and developer-friendly golang package for encoding&decoding and encryption&decryption.
+- [dotlock ![GitHub Repo Stars](https://img.shields.io/github/stars/ahmadraza100/dotlock) ![GitHub last commit](https://img.shields.io/github/last-commit/ahmadraza100/dotlock)](https://github.com/ahmadraza100/dotlock) - Encrypted .env vault manager with interactive TUI for managing secrets across multiple environments and profiles.
 - [encid ![GitHub Repo Stars](https://img.shields.io/github/stars/bobg/encid) ![GitHub last commit](https://img.shields.io/github/last-commit/bobg/encid)](https://github.com/bobg/encid) - Encode and decode encrypted integer IDs.
 - [entpassgen ![GitHub Repo Stars](https://img.shields.io/github/stars/andreimerlescu/entpassgen) ![GitHub last commit](https://img.shields.io/github/last-commit/andreimerlescu/entpassgen)](https://github.com/andreimerlescu/entpassgen) - Entropy Password Generator with extensive command line arguments to generate random strings securely including digits, passwords, and passwords built using obscure dictionary words mixed with symbols and digits.
 - [firewalld-rest ![GitHub Repo Stars](https://img.shields.io/github/stars/prashantgupta24/firewalld-rest) ![GitHub last commit](https://img.shields.io/github/last-commit/prashantgupta24/firewalld-rest)](https://github.com/prashantgupta24/firewalld-rest) - A rest application to dynamically update firewalld rules on a linux server.
@@ -2421,6 +2422,7 @@ _Libraries that are used to help make your application more secure._
 - [themis ![GitHub Repo Stars](https://img.shields.io/github/stars/cossacklabs/themis) ![GitHub last commit](https://img.shields.io/github/last-commit/cossacklabs/themis)](https://github.com/cossacklabs/themis) - high-level cryptographic library for solving typical data security tasks (secure data storage, secure messaging, zero-knowledge proof authentication), available for 14 languages, best fit for multi-platform apps.
 - [urusai ![GitHub Repo Stars](https://img.shields.io/github/stars/calpa/urusai) ![GitHub last commit](https://img.shields.io/github/last-commit/calpa/urusai)](https://github.com/calpa/urusai) - Urusai ("noisy" in Japanese) is a Go implementation of a random HTTP/DNS traffic noise generator that helps protect privacy by creating digital smokescreens while browsing.
 - [veil ![GitHub Repo Stars](https://img.shields.io/github/stars/getveil/veil) ![GitHub last commit](https://img.shields.io/github/last-commit/getveil/veil)](https://github.com/getveil/veil) - Local HTTPS proxy that hides API credentials from AI coding agents. OS keychain integration, format-aware placeholders, SQLite audit log.
+
 
 **[⬆ back to top](#contents)**
 
@@ -2507,7 +2509,7 @@ _Libraries and tools for stream processing and reactive programming._
 - [stream ![GitHub Repo Stars](https://img.shields.io/github/stars/youthlin/stream) ![GitHub last commit](https://img.shields.io/github/last-commit/youthlin/stream)](https://github.com/youthlin/stream) - Go Stream, like Java 8 Stream: Filter/Map/FlatMap/Peek/Sorted/ForEach/Reduce...
 - [StreamSQL ![GitHub Repo Stars](https://img.shields.io/github/stars/rulego/streamsql) ![GitHub last commit](https://img.shields.io/github/last-commit/rulego/streamsql)](https://github.com/rulego/streamsql) - A lightweight streaming SQL engine for real-time data processing.
 
-**[⬆ back to top](#contents)**
+**[��� back to top](#contents)**
 
 ## Template Engines
 
