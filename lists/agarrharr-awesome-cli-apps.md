@@ -225,6 +225,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [usql ![GitHub Repo Stars](https://img.shields.io/github/stars/xo/usql) ![GitHub last commit](https://img.shields.io/github/last-commit/xo/usql)](https://github.com/xo/usql) - Universal SQL client with autocompletion and syntax highlighting.
 - [rdsai-cli ![GitHub Repo Stars](https://img.shields.io/github/stars/aliyun/rdsai-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/aliyun/rdsai-cli)](https://github.com/aliyun/rdsai-cli) - AI-powered MySQL client.
 - [squix ![GitHub Repo Stars](https://img.shields.io/github/stars/eduardofuncao/squix) ![GitHub last commit](https://img.shields.io/github/last-commit/eduardofuncao/squix)](https://github.com/eduardofuncao/squix) - SQL client with query management and interactive results.
+- [pgxcli ![GitHub Repo Stars](https://img.shields.io/github/stars/Balaji01-4D/pgxcli) ![GitHub last commit](https://img.shields.io/github/last-commit/Balaji01-4D/pgxcli)](https://github.com/Balaji01-4D/pgxcli) - Feature-complete PostgreSQL client in Go.
 
 ### Devops
 
