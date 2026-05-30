@@ -1564,6 +1564,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-intl-phone-input ![GitHub Repo Stars](https://img.shields.io/github/stars/JoaoHenriqueAlmeida/ngx-intl-phone-input) ![GitHub last commit](https://img.shields.io/github/last-commit/JoaoHenriqueAlmeida/ngx-intl-phone-input)](https://github.com/JoaoHenriqueAlmeida/ngx-intl-phone-input) - Accessible, headless Angular international phone input with CDK-powered country selector.
 * [ngx-colors2 ![GitHub Repo Stars](https://img.shields.io/github/stars/DominicWrege/ngx-colors) ![GitHub last commit](https://img.shields.io/github/last-commit/DominicWrege/ngx-colors)](https://github.com/DominicWrege/ngx-colors) - A material‑style Angular color‑picker updated for Angular 20+, using signals and no animation dependencies.
 * [ngx-signal-datetimepicker ![GitHub Repo Stars](https://img.shields.io/github/stars/dominikmodrzejewski99/ngx-signal-datetimepicker) ![GitHub last commit](https://img.shields.io/github/last-commit/dominikmodrzejewski99/ngx-signal-datetimepicker)](https://github.com/dominikmodrzejewski99/ngx-signal-datetimepicker) - Angular datetime picker built on Signal Forms — date + time in one control, zero deps, WCAG 2.2 AAA out of the box.
+* [ngx-multi-field-dropdown ![GitHub Repo Stars](https://img.shields.io/github/stars/luismtapiab/ngx-multi-field-dropdown) ![GitHub last commit](https://img.shields.io/github/last-commit/luismtapiab/ngx-multi-field-dropdown)](https://github.com/luismtapiab/ngx-multi-field-dropdown) - A customizable Angular searchable dropdown component with multi-field search support.
 
 ### JSON Forms
 
@@ -1962,6 +1963,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-zoneless-scrollbar ![GitHub Repo Stars](https://img.shields.io/github/stars/Legalfina/ngx-zoneless-scrollbar) ![GitHub last commit](https://img.shields.io/github/last-commit/Legalfina/ngx-zoneless-scrollbar)](https://github.com/Legalfina/ngx-zoneless-scrollbar) - A lightweight Angular scrollbar built for zoneless mode, using native scrolling with CSS styling.
 * [ngx-scrollbar-ultimate ![GitHub Repo Stars](https://img.shields.io/github/stars/andrew-dev283/ngx-scrollbar-ultimate) ![GitHub last commit](https://img.shields.io/github/last-commit/andrew-dev283/ngx-scrollbar-ultimate)](https://github.com/andrew-dev283/ngx-scrollbar-ultimate) - A lightweight library for vertical scrolling.
 * [ngx-scrollspy ![GitHub Repo Stars](https://img.shields.io/github/stars/uniprank/ngx-scrollspy) ![GitHub last commit](https://img.shields.io/github/last-commit/uniprank/ngx-scrollspy)](https://github.com/uniprank/ngx-scrollspy) - Angular Scroll Spy Service with events.
+* [ngx-virtual-grid ![GitHub Repo Stars](https://img.shields.io/github/stars/theryansmee/ngx-virtual-grid) ![GitHub last commit](https://img.shields.io/github/last-commit/theryansmee/ngx-virtual-grid)](https://github.com/theryansmee/ngx-virtual-grid) - A responsive, virtual‑scrolling Angular grid that supports infinite loading, uses CSS Grid, automatically measures item sizes, and renders only the visible elements.
 
 ### Storage
 
