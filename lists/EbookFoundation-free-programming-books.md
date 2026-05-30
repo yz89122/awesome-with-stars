@@ -160,7 +160,7 @@ This project lists books and other resources grouped by genres:
 + [Punjabi / ਪੰਜਾਬੀ / پنجابی](courses/free-courses-pa.md)
 + [Romanian (Romania) / limba română / român](courses/free-courses-ro.md)
 + [Russian / Русский язык](courses/free-courses-ru.md)
-+ [Sinhala / සි��හල](courses/free-courses-si.md)
++ [Sinhala / සිංහල](courses/free-courses-si.md)
 + [Spanish / español / castellano](courses/free-courses-es.md)
 + [Swedish / svenska](courses/free-courses-sv.md)
 + [Tamil / தமிழ்](courses/free-courses-ta.md)
@@ -210,7 +210,7 @@ Free Podcasts and Screencasts:
 + [Spanish / español / castellano](casts/free-podcasts-screencasts-es.md)
 + [Swedish / Svenska](casts/free-podcasts-screencasts-sv.md)
 + [Turkish / Türkçe](casts/free-podcasts-screencasts-tr.md)
-+ [Ukrainian / Українс��ка](casts/free-podcasts-screencasts-uk.md)
++ [Ukrainian / Українська](casts/free-podcasts-screencasts-uk.md)
 
 
 ### Programming Playgrounds
