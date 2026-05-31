@@ -692,6 +692,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-dev-toolbar ![GitHub Repo Stars](https://img.shields.io/github/stars/alfredoperez/ngx-dev-toolbar) ![GitHub last commit](https://img.shields.io/github/last-commit/alfredoperez/ngx-dev-toolbar)](https://github.com/alfredoperez/ngx-dev-toolbar) - A powerful development toolbar for Angular applications to improve your developer productivity directly in the browser.
 * [omelet-angular-debug-panel ![GitHub Repo Stars](https://img.shields.io/github/stars/maycuatroi1/omelet-angular-debug-panel) ![GitHub last commit](https://img.shields.io/github/last-commit/maycuatroi1/omelet-angular-debug-panel)](https://github.com/maycuatroi1/omelet-angular-debug-panel) - Angular debug dashboard providing visibility into SQL activity, server timing, and authentication debugging.
 * [angular-scan ![GitHub Repo Stars](https://img.shields.io/github/stars/husseinAbdElaziz/angular-scan) ![GitHub last commit](https://img.shields.io/github/last-commit/husseinAbdElaziz/angular-scan)](https://github.com/husseinAbdElaziz/angular-scan) - Automatically detects and highlights Angular components that are re-rendering.
+* [angular-render-scan ![GitHub Repo Stars](https://img.shields.io/github/stars/edisonaugusthy/angular-render-scan) ![GitHub last commit](https://img.shields.io/github/last-commit/edisonaugusthy/angular-render-scan)](https://github.com/edisonaugusthy/angular-render-scan) - A visual debugging overlay for Angular change detection.
 
 ### Documentation Tools
 
@@ -1029,6 +1030,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngStato ![GitHub Repo Stars](https://img.shields.io/github/stars/becher/ngStato) ![GitHub last commit](https://img.shields.io/github/last-commit/becher/ngStato)](https://github.com/becher/ngStato) - State management for Angular that uses async/await instead of RxJS.
 * [ng-eagleeye.js ![GitHub Repo Stars](https://img.shields.io/github/stars/webKrafters/ng-eagleeye.js) ![GitHub last commit](https://img.shields.io/github/last-commit/webKrafters/ng-eagleeye.js)](https://github.com/webKrafters/ng-eagleeye.js) - A framework-agnostic, native JavaScript immutable state manager with change-streams, deployable anywhere.
 * [ngx-deep-signals ![GitHub Repo Stars](https://img.shields.io/github/stars/simplesoftsoul/ngx-deep-signals) ![GitHub last commit](https://img.shields.io/github/last-commit/simplesoftsoul/ngx-deep-signals)](https://github.com/simplesoftsoul/ngx-deep-signals) - Deeply reactive, zero‑ceremony nested state for Angular—turn any object into a signal graph without calls, setters, or boilerplate.
+* [editate ![GitHub Repo Stars](https://img.shields.io/github/stars/inokawa/editate) ![GitHub last commit](https://img.shields.io/github/last-commit/inokawa/editate)](https://github.com/inokawa/editate) - An experimental, type-safe, framework agnostic and small (5kB+) contenteditable state manager.
 
 ## Testing
 
@@ -1565,6 +1567,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-colors2 ![GitHub Repo Stars](https://img.shields.io/github/stars/DominicWrege/ngx-colors) ![GitHub last commit](https://img.shields.io/github/last-commit/DominicWrege/ngx-colors)](https://github.com/DominicWrege/ngx-colors) - A material‑style Angular color‑picker updated for Angular 20+, using signals and no animation dependencies.
 * [ngx-signal-datetimepicker ![GitHub Repo Stars](https://img.shields.io/github/stars/dominikmodrzejewski99/ngx-signal-datetimepicker) ![GitHub last commit](https://img.shields.io/github/last-commit/dominikmodrzejewski99/ngx-signal-datetimepicker)](https://github.com/dominikmodrzejewski99/ngx-signal-datetimepicker) - Angular datetime picker built on Signal Forms — date + time in one control, zero deps, WCAG 2.2 AAA out of the box.
 * [ngx-multi-field-dropdown ![GitHub Repo Stars](https://img.shields.io/github/stars/luismtapiab/ngx-multi-field-dropdown) ![GitHub last commit](https://img.shields.io/github/last-commit/luismtapiab/ngx-multi-field-dropdown)](https://github.com/luismtapiab/ngx-multi-field-dropdown) - A customizable Angular searchable dropdown component with multi-field search support.
+* [angular-multiselect-dropdown ![GitHub Repo Stars](https://img.shields.io/github/stars/alexandroit/angular-multiselect-dropdown) ![GitHub last commit](https://img.shields.io/github/last-commit/alexandroit/angular-multiselect-dropdown)](https://github.com/alexandroit/angular-multiselect-dropdown) - A maintained Angular multiselect dropdown built for template-driven and reactive forms.
 
 ### JSON Forms
 

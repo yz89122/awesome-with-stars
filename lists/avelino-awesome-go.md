@@ -2509,7 +2509,7 @@ _Libraries and tools for stream processing and reactive programming._
 - [stream ![GitHub Repo Stars](https://img.shields.io/github/stars/youthlin/stream) ![GitHub last commit](https://img.shields.io/github/last-commit/youthlin/stream)](https://github.com/youthlin/stream) - Go Stream, like Java 8 Stream: Filter/Map/FlatMap/Peek/Sorted/ForEach/Reduce...
 - [StreamSQL ![GitHub Repo Stars](https://img.shields.io/github/stars/rulego/streamsql) ![GitHub last commit](https://img.shields.io/github/last-commit/rulego/streamsql)](https://github.com/rulego/streamsql) - A lightweight streaming SQL engine for real-time data processing.
 
-**[⬆ back to top](#contents)**
+**[��� back to top](#contents)**
 
 ## Template Engines
 
