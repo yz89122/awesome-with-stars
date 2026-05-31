@@ -463,9 +463,9 @@ language.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [hungarian ![GitHub Repo Stars](https://img.shields.io/github/stars/mosteo/hungarian) ![GitHub last commit](https://img.shields.io/github/last-commit/mosteo/hungarian)](https://github.com/mosteo/hungarian) - Ada binding to the fast Stachniss' Hungarian solver.
 
 ### Science
-- [si](http://archive.adaic.com/tools/CKWG/Dimension/SI.html) - Checked and unchecked SI units.
+- [si ![GitHub Repo Stars](https://img.shields.io/github/stars/CKWG/SI_Units-Checked-and-Unchecked) ![GitHub last commit](https://img.shields.io/github/last-commit/CKWG/SI_Units-Checked-and-Unchecked)](https://github.com/CKWG/SI_Units-Checked-and-Unchecked) - Checked and unchecked SI units.
 - [units-of-measurement](http://www.dmitry-kazakov.de/ada/units.htm) - Library to manage units of measurement with dimension checking.
-- [si_units ![GitHub Repo Stars](https://img.shields.io/github/stars/HeisenbugLtd/si_units) ![GitHub last commit](https://img.shields.io/github/last-commit/HeisenbugLtd/si_units)](https://github.com/HeisenbugLtd/si_units) - Utility library to pretty print physical values in proper metric units.
+- [si-units ![GitHub Repo Stars](https://img.shields.io/github/stars/HeisenbugLtd/si_units) ![GitHub last commit](https://img.shields.io/github/last-commit/HeisenbugLtd/si_units)](https://github.com/HeisenbugLtd/si_units) - Utility library to pretty print physical values in proper metric units.
  
 ### Algorithms, Containers and Protocols
 - [ada-language-server ![GitHub Repo Stars](https://img.shields.io/github/stars/AdaCore/ada_language_server) ![GitHub last commit](https://img.shields.io/github/last-commit/AdaCore/ada_language_server)](https://github.com/AdaCore/ada_language_server) - Adacore server implemention of the the Microsoft Language Protocol for Ada and SPARK.
