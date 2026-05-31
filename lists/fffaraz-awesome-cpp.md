@@ -563,7 +563,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [utl::profiler ![GitHub Repo Stars](https://img.shields.io/github/stars/DmitriBogdanov/UTL) ![GitHub last commit](https://img.shields.io/github/last-commit/DmitriBogdanov/UTL)](https://github.com/DmitriBogdanov/UTL/blob/master/docs/module_profiler.md) - Singe-header profiler for C++17. [MIT]
 * [μt ![GitHub Repo Stars](https://img.shields.io/github/stars/boost-experimental/ut) ![GitHub last commit](https://img.shields.io/github/last-commit/boost-experimental/ut)](https://github.com/boost-experimental/ut) - C++20 single header/single module, macro-free μ(micro)/Unit Testing Framework. [Boost]
 * [VLD](https://kinddragon.github.io/vld//) - Visual Leak Detector. A free, robust, open-source memory leak detection system for Visual C++.
-* [MTuner ![GitHub Repo Stars](https://img.shields.io/github/stars/milostosic/MTuner) ![GitHub last commit](https://img.shields.io/github/last-commit/milostosic/MTuner)](https://github.com/milostosic/MTuner) - A C/C++ memory profiler and memory leak finder for Windows, PlayStation, and other platforms. [BSD-2-Clause]
+* [MTuner ![GitHub Repo Stars](https://img.shields.io/github/stars/RudjiGames/MTuner) ![GitHub last commit](https://img.shields.io/github/last-commit/RudjiGames/MTuner)](https://github.com/RudjiGames/MTuner) - A C/C++ memory profiler and memory leak finder for Windows, PlayStation, and other platforms. [BSD-2-Clause]
 * [heaptrack ![GitHub Repo Stars](https://img.shields.io/github/stars/KDE/heaptrack) ![GitHub last commit](https://img.shields.io/github/last-commit/KDE/heaptrack)](https://github.com/KDE/heaptrack) - A heap memory profiler for Linux. [LGPL-2.1]
 
 ## Documentation

@@ -553,6 +553,7 @@
 - [Hyperion ![GitHub Repo Stars](https://img.shields.io/github/stars/nullsecuritynet/tools) ![GitHub last commit](https://img.shields.io/github/last-commit/nullsecuritynet/tools)](https://github.com/nullsecuritynet/tools/tree/main/binary/hyperion)
 - [LIAPP](https://liapp.lockincomp.com) - Easiest and most powerful mobile app security solution.
 - [LM-X License Manager](https://www.x-formation.com/lm-x-license-manager) - Lets you protect your products against piracy by enforcing various levels of security, save time, and reduce business risks.
+- [LZPACK ![GitHub Repo Stars](https://img.shields.io/github/stars/johnsonjh/lzpack) ![GitHub last commit](https://img.shields.io/github/last-commit/johnsonjh/lzpack)](https://github.com/johnsonjh/lzpack) - LZPACK - PopCom!-compatible CP/M-80 executable compressor in ANSI C, runs on 48K CP/M-80, CP/M-86, MS-DOS, UNIX, and other platforms.
 - [m0dern_p4cker ![GitHub Repo Stars](https://img.shields.io/github/stars/n4sm/m0dern_p4cker) ![GitHub last commit](https://img.shields.io/github/last-commit/n4sm/m0dern_p4cker)](https://github.com/n4sm/m0dern_p4cker) - Just a modern packer for elf binaries ( works on Linux executables only ).
 - [MidgetPack ![GitHub Repo Stars](https://img.shields.io/github/stars/arisada/midgetpack) ![GitHub last commit](https://img.shields.io/github/last-commit/arisada/midgetpack)](https://github.com/arisada/midgetpack) - ELF binary packer, such as burneye, upx or other tools.
 - [MPRESS](https://www.autohotkey.com/mpress/mpress_web.htm) - Compresses (using LZMA) and protects PE, .NET or Mach-O programs against reverse engineering.
@@ -587,6 +588,7 @@
 - [Squishy](https://logicoma.io/squishy) - Modern packer developed for 64kb demoscene productions, targets 32bit and 64bit executables.
 - [theArk ![GitHub Repo Stars](https://img.shields.io/github/stars/aaaddress1/theArk) ![GitHub last commit](https://img.shields.io/github/last-commit/aaaddress1/theArk)](https://github.com/aaaddress1/theArk) - Windows x86 PE Packer In C++.
 - [Themida](https://www.oreans.com/themida.php) - From Renovo paper: Themida converts the original x86 instructions into virtual instructions in its own randomized instruction set, and then interpret these virtual instructions at run-time.
+- [TinyLoad ![GitHub Repo Stars](https://img.shields.io/github/stars/iamsopotatoe-coder/TinyLoad) ![GitHub last commit](https://img.shields.io/github/last-commit/iamsopotatoe-coder/TinyLoad)](https://github.com/iamsopotatoe-coder/TinyLoad) - Simple PE packer for Windows that compresses and encrypts executables with a custom virtual machine into a self-extracting stub.
 - [UPX](https://upx.github.io/) - Ultimate Packer for eXecutables.
 - [VirtualMachineObfuscationPoC](https://web.archive.org/web/20231226141018/https://github.com/eaglx/VirtualMachineObfuscationPoC) - Obfuscation method using virtual machine.
 - [VMProtect](https://vmpsoft.com/products/vmprotect) - Protects code by executing it on a virtual machine with non-standard architecture that makes it extremely difficult to analyze and crack the software.
