@@ -502,7 +502,7 @@ Userscripts can be used w/ the following browsers:
             <img width=511 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@5d22849/assets/images/screenshots/scripts/adguard-extra.png"></a>
     </blockquote>
     <blockquote>
-        ��� <a href="https://userscripts.adtidy.org/release/adguard-extra/1.0/adguard-extra.user.js">
+        💾 <a href="https://userscripts.adtidy.org/release/adguard-extra/1.0/adguard-extra.user.js">
             Install Stable Build</a> /
         💾 <a href="https://userscripts.adtidy.org/beta/adguard-extra/1.0/adguard-extra.user.js">
             Install Beta Build</a> /
@@ -701,7 +701,7 @@ Userscripts can be used w/ the following browsers:
             Readme</a> /
         📢 <a href="https://github.com/KudoAI/bravegpt/discussions">
             Discuss</a> /
-        ��� <a href="https://github.com/KudoAI/bravegpt/issues">
+        🐛 <a href="https://github.com/KudoAI/bravegpt/issues">
             Report bug</a>
     </blockquote>
 </details>
@@ -1040,7 +1040,7 @@ Userscripts can be used w/ the following browsers:
             Readme</a> /
         📢 <a href="https://github.com/adamlui/github-star-history/discussions">
             Discuss</a> /
-        🐛 <a href="https://github.com/adamlui/github-star-history/issues">
+        �� <a href="https://github.com/adamlui/github-star-history/issues">
             Report bug</a>
     </blockquote>
 </details>
