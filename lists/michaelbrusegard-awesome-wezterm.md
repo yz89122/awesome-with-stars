@@ -66,6 +66,7 @@ To enhance your WezTerm configuration experience:
 - [vieitesss/workspacesionizer.wezterm ![GitHub Repo Stars](https://img.shields.io/github/stars/vieitesss/workspacesionizer.wezterm) ![GitHub last commit](https://img.shields.io/github/last-commit/vieitesss/workspacesionizer.wezterm)](https://github.com/vieitesss/workspacesionizer.wezterm) - Blazingly fast workspace chooser inspired by `tmux-sessionizer`.
 - [abidibo/wezterm-sessions ![GitHub Repo Stars](https://img.shields.io/github/stars/abidibo/wezterm-sessions) ![GitHub last commit](https://img.shields.io/github/last-commit/abidibo/wezterm-sessions)](https://github.com/abidibo/wezterm-sessions) - Save and restore sessions.
 - [srackham/tabsets.wezterm ![GitHub Repo Stars](https://img.shields.io/github/stars/srackham/tabsets.wezterm) ![GitHub last commit](https://img.shields.io/github/last-commit/srackham/tabsets.wezterm)](https://github.com/srackham/tabsets.wezterm) - Load, save, rename and delete named sets of tabs.
+- [ryanmsnyder/workspace-manager.wezterm ![GitHub Repo Stars](https://img.shields.io/github/stars/ryanmsnyder/workspace-manager.wezterm) ![GitHub last commit](https://img.shields.io/github/last-commit/ryanmsnyder/workspace-manager.wezterm)](https://github.com/ryanmsnyder/workspace-manager.wezterm) - Navigate projects effortlessly with smart workspace switching and keyboard-driven navigation.
 
 ## Tab bar
 
@@ -74,6 +75,7 @@ To enhance your WezTerm configuration experience:
 - [rootiest/battery.wez ![GitHub Repo Stars](https://img.shields.io/github/stars/rootiest/battery.wez) ![GitHub last commit](https://img.shields.io/github/last-commit/rootiest/battery.wez)](https://github.com/rootiest/battery.wez) - A colorful and fancy battery component for the retro tab bar.
 - [yriveiro/wezterm-status ![GitHub Repo Stars](https://img.shields.io/github/stars/yriveiro/wezterm-status) ![GitHub last commit](https://img.shields.io/github/last-commit/yriveiro/wezterm-status)](https://github.com/yriveiro/wezterm-status) - Configurable status for the retro tab bar.
 - [yriveiro/wezterm-tabs ![GitHub Repo Stars](https://img.shields.io/github/stars/yriveiro/wezterm-tabs) ![GitHub last commit](https://img.shields.io/github/last-commit/yriveiro/wezterm-tabs)](https://github.com/yriveiro/wezterm-tabs) - Configurable tabs for the retro tab bar.
+- [pro-vi/wezterm-attention ![GitHub Repo Stars](https://img.shields.io/github/stars/pro-vi/wezterm-attention) ![GitHub last commit](https://img.shields.io/github/last-commit/pro-vi/wezterm-attention)](https://github.com/pro-vi/wezterm-attention) - Turns your tab bar into a notification system with colored tab indicators.
 
 ## Themes
 
