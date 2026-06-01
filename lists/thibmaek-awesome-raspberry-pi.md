@@ -45,6 +45,7 @@ The complete collection of (consumer) Raspberry Pi models consist of:
 ## OS Images
 
 - [Alpine Linux](https://wiki.alpinelinux.org/wiki/Raspberry_Pi) - Security-oriented, lightweight Linux distribution based on musl libc and busybox.
+- [Anthias](https://anthias.screenly.io/) - The world's most popular open source digital signage project.
 - [Arch Linux ARM](https://archlinuxarm.org/) - Lightweight and flexible Linux distribution that tries to Keep It Simple.
 - [Armbian](https://www.armbian.com/rpi4b/) - A base operating system platform for single board computers (SBCs) that other projects can trust to build upon.
 - [balenaOS](https://www.balena.io/os/) - open source OS to run Docker containers on embedded devices that's been designed for reliability and proven in production.
@@ -61,6 +62,7 @@ The complete collection of (consumer) Raspberry Pi models consist of:
 - [Gentoo](https://wiki.gentoo.org/wiki/Raspberry_Pi) - Gentoo Stage 3 tarball for Raspberry Pi.
 - [Gladys Assistant](https://gladysassistant.com) - Gladys, a privacy-first, open-source home assistant. ![Supports Raspberry Pi 3](https://github.com/thibmaek/awesome-raspberry-pi/raw/main/media/badges/rpi-3.png)
 - [GlowBarn OS ![GitHub Repo Stars](https://img.shields.io/github/stars/bad-antics/glowbarn-os) ![GitHub last commit](https://img.shields.io/github/last-commit/bad-antics/glowbarn-os)](https://github.com/bad-antics/glowbarn-os) - Buildroot-based Linux distribution for paranormal research with EMF sensors, environmental monitoring, web dashboard and automated data logging. ![Supports Raspberry Pi 4+](https://github.com/thibmaek/awesome-raspberry-pi/raw/main/media/badges/rpi-4.png)
+- [HamPi](https://sourceforge.net/projects/hampi/) - Formerly known as W3DJS Raspberry Pi for Ham Radio.
 - [Hass.io](https://home-assistant.io/hassio/installation/) - Home automation operating system/application for embedded device, also available standalone.
 - [HypriotOS](http://blog.hypriot.com/about/) - Minimal Debian-based operating system, optimized to run Docker.
 - [Kali Linux](https://www.offensive-security.com/kali-linux-arm-images/) - Penetration Testing & Ethical Hacking Linux distro for ARM devices.
@@ -122,7 +124,8 @@ The complete collection of (consumer) Raspberry Pi models consist of:
 - [OSMC Installer](https://osmc.tv/download/) - GUI based utility to download and install OSMC on to a variety of platforms.
 - [Pi Temperature Exporter ![GitHub Repo Stars](https://img.shields.io/github/stars/s-nagaev/pi-temperature-exporter) ![GitHub last commit](https://img.shields.io/github/last-commit/s-nagaev/pi-temperature-exporter)](https://github.com/s-nagaev/pi-temperature-exporter) - a CPU and GPU temperature exporter for Prometheus consumption.
 - [pi-gen ![GitHub Repo Stars](https://img.shields.io/github/stars/RPi-Distro/pi-gen) ![GitHub last commit](https://img.shields.io/github/last-commit/RPi-Distro/pi-gen)](https://github.com/RPi-Distro/pi-gen) - Tool used to create the raspberrypi.org Raspbian images. This can be used to create your own custom images with specific packages installed, etc.
-- [Raspberry Pi SD Card Lifespan Calculator](https://raspberry.tips/sd-karten-lebensdauer-rechner-wie-lange-haelt-dein-speicher) - Interactive tool to estimate when your SD card will fail based on P/E cycles and Write Amplification Factor (WAF).
+- [Raspberry Pi GPIO Pinout](https://raspberry.tips/en/raspberry-pi-gpio-pinout) - Interactive pinout reference for all 40 GPIO pins with BCM numbers, functions, voltage specs, and HAT overlays. Updated for Pi 5 (RP1 controller).
+- [Raspberry Pi SD Card Lifespan Calculator](https://raspberry.tips/en/calculate-raspberry-pi-sd-card-lifespan-test-now) - Interactive tool to estimate when your SD card will fail based on P/E cycles and Write Amplification Factor (WAF).
 - [Pieman ![GitHub Repo Stars](https://img.shields.io/github/stars/tolstoyevsky/pieman) ![GitHub last commit](https://img.shields.io/github/last-commit/tolstoyevsky/pieman)](https://github.com/tolstoyevsky/pieman) - Script for creating custom images based on Raspbian, Devuan, Ubuntu and Alpine Linux.
 - [PiKISS ![GitHub Repo Stars](https://img.shields.io/github/stars/jmcerrejon/PiKISS) ![GitHub last commit](https://img.shields.io/github/last-commit/jmcerrejon/PiKISS)](https://github.com/jmcerrejon/PiKISS) - A bunch of scripts with menu to make your life easier.
 - [Pimod ![GitHub Repo Stars](https://img.shields.io/github/stars/Nature40/pimod) ![GitHub last commit](https://img.shields.io/github/last-commit/Nature40/pimod)](https://github.com/Nature40/pimod) - Reconfigure Raspberry Pi images with an easy, Docker-like configuration file.
