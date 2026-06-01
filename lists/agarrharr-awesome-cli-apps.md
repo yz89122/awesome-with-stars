@@ -324,6 +324,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [CookCLI ![GitHub Repo Stars](https://img.shields.io/github/stars/cooklang/CookCLI) ![GitHub last commit](https://img.shields.io/github/last-commit/cooklang/CookCLI)](https://github.com/cooklang/CookCLI) - Full-featured recipe manager.
 - [hns ![GitHub Repo Stars](https://img.shields.io/github/stars/primaprashant/hns) ![GitHub last commit](https://img.shields.io/github/last-commit/primaprashant/hns)](https://github.com/primaprashant/hns) - Speech-to-text tool to transcribe voice from microphone.
 - [mynav ![GitHub Repo Stars](https://img.shields.io/github/stars/GianlucaP106/mynav) ![GitHub last commit](https://img.shields.io/github/last-commit/GianlucaP106/mynav)](https://github.com/GianlucaP106/mynav) - Workspace and session management TUI.
+- [linear-tui ![GitHub Repo Stars](https://img.shields.io/github/stars/roeyazroel/linear-tui) ![GitHub last commit](https://img.shields.io/github/last-commit/roeyazroel/linear-tui)](https://github.com/roeyazroel/linear-tui) - Linear TUI client.
 
 ### Time Tracking
 
