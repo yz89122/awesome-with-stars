@@ -85,6 +85,7 @@ For examples of such work see the MSR conference's [Hall of Fame](http://2016.ms
 - [qmcalc ![GitHub Repo Stars](https://img.shields.io/github/stars/dspinellis/cqmetrics) ![GitHub last commit](https://img.shields.io/github/last-commit/dspinellis/cqmetrics)](https://github.com/dspinellis/cqmetrics) - Calculate quality metrics from C source code.
 - [reaper ![GitHub Repo Stars](https://img.shields.io/github/stars/RepoReapers/reaper) ![GitHub last commit](https://img.shields.io/github/last-commit/RepoReapers/reaper)](https://github.com/RepoReapers/reaper) - Python tool to compute a score for a repository from GHTorrent. The score quantifies the extent to which the project contained within the repository is _engineered_.
 - [RefactoringMiner ![GitHub Repo Stars](https://img.shields.io/github/stars/tsantalis/RefactoringMiner) ![GitHub last commit](https://img.shields.io/github/last-commit/tsantalis/RefactoringMiner)](https://github.com/tsantalis/RefactoringMiner) - Library/API for detection of refactorings in changes of Java code.
+- [TestMiner](https://andrehora.github.io/testminer) - Software testing analysis for GitHub repositories.
 - [VulData7 ![GitHub Repo Stars](https://img.shields.io/github/stars/electricalwind/data7) ![GitHub last commit](https://img.shields.io/github/last-commit/electricalwind/data7)](https://github.com/electricalwind/data7) - Java framework enabling the automated collection of commits fixing vulnerabilities that are reported in NVD (links NVD with Git).
 
 ## Research Outlets
