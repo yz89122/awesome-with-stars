@@ -1723,6 +1723,7 @@ _Libraries for generating and working with log files._
 
 _Libraries for Machine Learning._
 
+- [Anneal ![GitHub Repo Stars](https://img.shields.io/github/stars/georgebuilds/anneal) ![GitHub last commit](https://img.shields.io/github/last-commit/georgebuilds/anneal)](https://github.com/georgebuilds/anneal) - Machine learning compiler in Go, a from-scratch tinygrad port with a WebGPU backend.
 - [bayesian ![GitHub Repo Stars](https://img.shields.io/github/stars/jbrukh/bayesian) ![GitHub last commit](https://img.shields.io/github/last-commit/jbrukh/bayesian)](https://github.com/jbrukh/bayesian) - Naive Bayesian Classification for Golang.
 - [born ![GitHub Repo Stars](https://img.shields.io/github/stars/born-ml/born) ![GitHub last commit](https://img.shields.io/github/last-commit/born-ml/born)](https://github.com/born-ml/born) - Deep learning framework inspired by Burn (Rust), with autograd, type-safe tensors, and zero-CGO GPU acceleration.
 - [catboost-cgo ![GitHub Repo Stars](https://img.shields.io/github/stars/mirecl/catboost-cgo) ![GitHub last commit](https://img.shields.io/github/last-commit/mirecl/catboost-cgo)](https://github.com/mirecl/catboost-cgo) - Fast, scalable, high performance Gradient Boosting on Decision Trees library. Golang using Cgo for blazing fast inference CatBoost Model.
