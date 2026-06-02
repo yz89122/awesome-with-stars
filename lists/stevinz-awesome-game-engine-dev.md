@@ -231,7 +231,7 @@ _Info on topics necessary for designing and developing game engines._
     - 📚 [Art of Game Design](https://www.amazon.com/Art-Game-Design-Book-Lenses/dp/0123694965) - Teaches game design in an accessible manner.
     - 📚 [Game Programming Patterns](https://gameprogrammingpatterns.com) - Patterns found in games that make code easier to understand.
 - Developer Portals
-    - ��� [Game Developer](https://www.gamedeveloper.com) - Industry blogs, events, jobs, updates and more. Formerly _Gamasutra_.
+    - 🌎 [Game Developer](https://www.gamedeveloper.com) - Industry blogs, events, jobs, updates and more. Formerly _Gamasutra_.
     - 🌎 [GameDev.net](https://www.gamedev.net/) - Game dev forums, tutorials, blogs, projects, portfolios, and news.
     - 🌎 [GameFromScratch.com](https://gamefromscratch.com) - Game dev news, tutorials and much more.
     - 🌎 [itch.io](https://itch.io) - Game dev resources and platform to showcase / promote / buy & sell games.
@@ -486,7 +486,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [NVRHI ![GitHub Repo Stars](https://img.shields.io/github/stars/NVIDIA-RTX/NVRHI) ![GitHub last commit](https://img.shields.io/github/last-commit/NVIDIA-RTX/NVRHI)](https://github.com/NVIDIA-RTX/NVRHI) - _NVIDIA_ abstraction layer over multiple graphics APIs.
     - 🎉 [Ogre ![GitHub Repo Stars](https://img.shields.io/github/stars/OGRECave/ogre) ![GitHub last commit](https://img.shields.io/github/last-commit/OGRECave/ogre)](https://github.com/OGRECave/ogre) - Scene-oriented, flexible 3D engine.
     - 🎉 [OSRE ![GitHub Repo Stars](https://img.shields.io/github/stars/kimkulling/osre) ![GitHub last commit](https://img.shields.io/github/last-commit/kimkulling/osre)](https://github.com/kimkulling/osre) - Just another "Open Source Render Engine".
-    - 🔒 [StratusGFX ![GitHub Repo Stars](https://img.shields.io/github/stars/KTStephano/StratusGFX) ![GitHub last commit](https://img.shields.io/github/last-commit/KTStephano/StratusGFX)](https://github.com/KTStephano/StratusGFX) - Realtime 3D rendering engine implementing modern graphics techniques.
+    - ��� [StratusGFX ![GitHub Repo Stars](https://img.shields.io/github/stars/KTStephano/StratusGFX) ![GitHub last commit](https://img.shields.io/github/last-commit/KTStephano/StratusGFX)](https://github.com/KTStephano/StratusGFX) - Realtime 3D rendering engine implementing modern graphics techniques.
     - 🎉 [Threepp ![GitHub Repo Stars](https://img.shields.io/github/stars/markaren/threepp) ![GitHub last commit](https://img.shields.io/github/last-commit/markaren/threepp)](https://github.com/markaren/threepp) - Cross-platform C++17 port of the popular 3D JavaScript library _Three.js_ (r129).
     - 🎉 [Tungsten ![GitHub Repo Stars](https://img.shields.io/github/stars/tunabrain/tungsten) ![GitHub last commit](https://img.shields.io/github/last-commit/tunabrain/tungsten)](https://github.com/tunabrain/tungsten) - High-performance physically-based renderer in C++11.
     - 🎉 [Wicked Engine ![GitHub Repo Stars](https://img.shields.io/github/stars/turanszkij/WickedEngine) ![GitHub last commit](https://img.shields.io/github/last-commit/turanszkij/WickedEngine)](https://github.com/turanszkij/WickedEngine) - Engine focusing on performance & modern rendering techniques.
@@ -646,7 +646,7 @@ _Language specific game engine development libraries / frameworks / code._
 - F#: Game Engine w/Editor
     - 🎉 [Nu Game Engine ![GitHub Repo Stars](https://img.shields.io/github/stars/bryanedds/Nu) ![GitHub last commit](https://img.shields.io/github/last-commit/bryanedds/Nu)](https://github.com/bryanedds/Nu) - Cross-platform game engine built in the functional style.
 - F#: Gui
-    - 🎉 [Fabulous ![GitHub Repo Stars](https://img.shields.io/github/stars/fabulous-dev/Fabulous) ![GitHub last commit](https://img.shields.io/github/last-commit/fabulous-dev/Fabulous)](https://github.com/fabulous-dev/Fabulous) - Declarative UI framework for cross-platform apps.
+    - �� [Fabulous ![GitHub Repo Stars](https://img.shields.io/github/stars/fabulous-dev/Fabulous) ![GitHub last commit](https://img.shields.io/github/last-commit/fabulous-dev/Fabulous)](https://github.com/fabulous-dev/Fabulous) - Declarative UI framework for cross-platform apps.
 
 ### Go
 - 📚 [Awesome Go ![GitHub Repo Stars](https://img.shields.io/github/stars/avelino/awesome-go) ![GitHub last commit](https://img.shields.io/github/last-commit/avelino/awesome-go)](https://github.com/avelino/awesome-go) - Awesome Go frameworks, libraries and software.
