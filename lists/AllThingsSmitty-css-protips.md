@@ -716,7 +716,7 @@ The same can be done for `margin-block` with defines the block start and end mar
 - [Polskie ![GitHub Repo Stars](https://img.shields.io/github/stars/AllThingsSmitty/css-protips) ![GitHub last commit](https://img.shields.io/github/last-commit/AllThingsSmitty/css-protips)](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/pl-PL)
 - [Português do Brasil ![GitHub Repo Stars](https://img.shields.io/github/stars/AllThingsSmitty/css-protips) ![GitHub last commit](https://img.shields.io/github/last-commit/AllThingsSmitty/css-protips)](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/pt-BR)
 - [Português do Europe ![GitHub Repo Stars](https://img.shields.io/github/stars/AllThingsSmitty/css-protips) ![GitHub last commit](https://img.shields.io/github/last-commit/AllThingsSmitty/css-protips)](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/pt-PT)
-- [Русски�� ![GitHub Repo Stars](https://img.shields.io/github/stars/AllThingsSmitty/css-protips) ![GitHub last commit](https://img.shields.io/github/last-commit/AllThingsSmitty/css-protips)](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/ru-RU)
+- [Русский ![GitHub Repo Stars](https://img.shields.io/github/stars/AllThingsSmitty/css-protips) ![GitHub last commit](https://img.shields.io/github/last-commit/AllThingsSmitty/css-protips)](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/ru-RU)
 - [Tiếng Việt ![GitHub Repo Stars](https://img.shields.io/github/stars/AllThingsSmitty/css-protips) ![GitHub last commit](https://img.shields.io/github/last-commit/AllThingsSmitty/css-protips)](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/vn-VN)
 
 <sup>[Back to top](#contents)</sup>
