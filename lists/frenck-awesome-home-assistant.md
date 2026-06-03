@@ -159,7 +159,7 @@ _Communities in languages other than English. Multiple groups can exist per lang
 - 🇫🇷 [HACF Forum](https://forum.hacf.fr) - Discussion forum of the French-speaking association HACF (Home Assistant Communauté Française).
 - 🇫🇷 [HACF Discord](https://discord.com/invite/PaZFEjX) - French-language Discord run by the HACF community.
 - 🇩🇪 [Home Assistant DE](https://t.me/home_assistant_de) - German-language Telegram group for discussions, tips, and help.
-- ���🇪 [simon42 Community Forum](https://community.simon42.com/) - German-language forum for smart home topics.
+- 🇩🇪 [simon42 Community Forum](https://community.simon42.com/) - German-language forum for smart home topics.
 - 🇬🇷 [Home Assistant GR](https://www.facebook.com/groups/472308593754940/) - Greek-language Facebook group.
 - 🇮🇱 [Home-Assistant.io Israel](https://www.facebook.com/groups/303751386650107/) - Hebrew-language Facebook group.
 - 🇭🇺 [Home Assistant Hungary](https://www.facebook.com/groups/HomeAssistantHU/) - Hungarian-language Facebook group.
