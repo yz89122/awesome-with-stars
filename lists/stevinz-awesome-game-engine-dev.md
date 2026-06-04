@@ -215,7 +215,7 @@ _Info on topics necessary for designing and developing game engines._
 - Books
     - 📚 [Game Engine Architecture](https://www.gameenginebook.com) - Theory and practice of game engine development.
 - Commercial Studios Research Divisions
-    - 🌎 [Activision Research](https://research.activision.com/) - Blog posts, articles and presentations from research within _Activision_.
+    - ��� [Activision Research](https://research.activision.com/) - Blog posts, articles and presentations from research within _Activision_.
     - 🌎 [EA Technology](https://www.ea.com/technology/research) - Research on game tech including info on the _Frostbite_ engine.
     - 🌎 [tri-Ace Research](https://research.tri-ace.com/) - Publications from the Research and Development Department at _tri-Ace Inc_.
     - 🌎 [Ubisoft Technology](https://www.ubisoft.com/en-us/company/how-we-make-games/technology) - Learn about in-house tech including the _Anvil_ and _Snowdrop_ engines.
@@ -246,7 +246,7 @@ _Info on topics necessary for designing and developing game engines._
 - 📚 [Big-O Cheat Sheet](https://www.bigocheatsheet.com) - Big-O complexities of algorithms used in computer science.
 - 🌎 [Deadlock Empire](https://deadlockempire.github.io/#menu) - Interactive tutorial to master threads and concurrency.
 - 📚 [Every Programmer Should Know ![GitHub Repo Stars](https://img.shields.io/github/stars/mtdvio/every-programmer-should-know) ![GitHub last commit](https://img.shields.io/github/last-commit/mtdvio/every-programmer-should-know)](https://github.com/mtdvio/every-programmer-should-know) - Technical things every developer should know.
-- 📚 [Games of Coding ![GitHub Repo Stars](https://img.shields.io/github/stars/michelpereira/awesome-games-of-coding) ![GitHub last commit](https://img.shields.io/github/last-commit/michelpereira/awesome-games-of-coding)](https://github.com/michelpereira/awesome-games-of-coding#readme) - Games that teach you a programming language.
+- ��� [Games of Coding ![GitHub Repo Stars](https://img.shields.io/github/stars/michelpereira/awesome-games-of-coding) ![GitHub last commit](https://img.shields.io/github/last-commit/michelpereira/awesome-games-of-coding)](https://github.com/michelpereira/awesome-games-of-coding#readme) - Games that teach you a programming language.
 - 🌎 [Geeks for Geeks](https://www.geeksforgeeks.org) - Tutorials, articles, courses, coding competitions, jobs and more.
 - 📚 [Learn to Program ![GitHub Repo Stars](https://img.shields.io/github/stars/karlhorky/learn-to-program) ![GitHub last commit](https://img.shields.io/github/last-commit/karlhorky/learn-to-program)](https://github.com/karlhorky/learn-to-program#readme) - Educational resources to learn to program.
 - 📚 [TIOBE Index](https://www.tiobe.com/tiobe-index/) - Popularity of programming languages, updated monthly.
@@ -684,7 +684,7 @@ _Language specific game engine development libraries / frameworks / code._
 - Haxe: Cross-Platform
     - 🎉 [HashLink ![GitHub Repo Stars](https://img.shields.io/github/stars/HaxeFoundation/hashlink) ![GitHub last commit](https://img.shields.io/github/last-commit/HaxeFoundation/hashlink)](https://github.com/HaxeFoundation/hashlink/) - Virtual machine for Haxe.
 - Haxe: Entity Component System
-    - 🎉 [Ecx ![GitHub Repo Stars](https://img.shields.io/github/stars/eliasku/ecx) ![GitHub last commit](https://img.shields.io/github/last-commit/eliasku/ecx)](https://github.com/eliasku/ecx) - Entity component system framework for Haxe.
+    - �� [Ecx ![GitHub Repo Stars](https://img.shields.io/github/stars/eliasku/ecx) ![GitHub last commit](https://img.shields.io/github/last-commit/eliasku/ecx)](https://github.com/eliasku/ecx) - Entity component system framework for Haxe.
     - 🎉 [GASM ![GitHub Repo Stars](https://img.shields.io/github/stars/HacksawStudios/GASM) ![GitHub last commit](https://img.shields.io/github/last-commit/HacksawStudios/GASM)](https://github.com/HacksawStudios/GASM) - Framework agnostic entity component system for Haxe.
 - Haxe: Game Engine w/Editor
     - 🎉 [Armory ![GitHub Repo Stars](https://img.shields.io/github/stars/armory3d/armory) ![GitHub last commit](https://img.shields.io/github/last-commit/armory3d/armory)](https://github.com/armory3d/armory) - 3D game engine with full _Blender_ integration.
@@ -1012,7 +1012,7 @@ _Language specific game engine development libraries / frameworks / code._
 
 ### Ruby
 - 📚 [Awesome Ruby ![GitHub Repo Stars](https://img.shields.io/github/stars/markets/awesome-ruby) ![GitHub last commit](https://img.shields.io/github/last-commit/markets/awesome-ruby)](https://github.com/markets/awesome-ruby) - Collection of awesome Ruby libraries, tools, frameworks and software.
-- 🌎 [Ruby](https://www.ruby-lang.org/en/) - Dynamic programming language, focused on simplicity / productivity. [[GitHub ![GitHub Repo Stars](https://img.shields.io/github/stars/ruby/ruby) ![GitHub last commit](https://img.shields.io/github/last-commit/ruby/ruby)](https://github.com/ruby/ruby)]
+- �� [Ruby](https://www.ruby-lang.org/en/) - Dynamic programming language, focused on simplicity / productivity. [[GitHub ![GitHub Repo Stars](https://img.shields.io/github/stars/ruby/ruby) ![GitHub last commit](https://img.shields.io/github/last-commit/ruby/ruby)](https://github.com/ruby/ruby)]
 - Ruby: Framework
     - 🎉 [Ruby on Rails ![GitHub Repo Stars](https://img.shields.io/github/stars/rails/rails) ![GitHub last commit](https://img.shields.io/github/last-commit/rails/rails)](https://github.com/rails/rails) - Web app framework. [[Website](https://rubyonrails.org)]
 - Ruby: Game Framework
@@ -1381,7 +1381,7 @@ _Software to help with game engine / video game development._
 - 💰 [Ken Shape](https://tools.kenney.nl/kenshape/) - Draw in 2D, set the depth for each pixel and generate 3D models!
 - 🎉 [IsoVoxel ![GitHub Repo Stars](https://img.shields.io/github/stars/tommyettinger/IsoVoxel) ![GitHub last commit](https://img.shields.io/github/last-commit/tommyettinger/IsoVoxel)](https://github.com/tommyettinger/IsoVoxel) - Generates isometric pixel art from _MagicaVoxel_ .vox files.
 - 🆓 [MagicaVoxel](https://ephtracy.github.io) - Lightweight voxel art editor.
-- �� [Qubicle](http://minddesk.com/) - Popular (Crossy Road, Pacman 256) voxel editor, easy creation of 3D models.
+- 💰 [Qubicle](http://minddesk.com/) - Popular (Crossy Road, Pacman 256) voxel editor, easy creation of 3D models.
 
 <br />
 <br />
