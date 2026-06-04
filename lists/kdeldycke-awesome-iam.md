@@ -447,7 +447,7 @@ The old *OpenID* is dead; the new *OpenID Connect* is very much not-dead.
 
 - [authentik ![GitHub Repo Stars](https://img.shields.io/github/stars/goauthentik/authentik) ![GitHub last commit](https://img.shields.io/github/last-commit/goauthentik/authentik)](https://github.com/goauthentik/authentik) - 💸 Open-source Identity Provider similar to Keycloak.
 
-- [ZITADEL ![GitHub Repo Stars](https://img.shields.io/github/stars/zitadel/zitadel) ![GitHub last commit](https://img.shields.io/github/last-commit/zitadel/zitadel)](https://github.com/zitadel/zitadel) - 💸 An Open-Source solution built with Go and Angular to manage all your systems, users and service accounts together with their roles and external identities. ZITADEL provides you with OIDC, OAuth 2.0, login & register flows, passwordless and MFA authentication. All this is built on top of eventsourcing in combination with CQRS to provide a great audit trail.
+- [ZITADEL ![GitHub Repo Stars](https://img.shields.io/github/stars/zitadel/zitadel) ![GitHub last commit](https://img.shields.io/github/last-commit/zitadel/zitadel)](https://github.com/zitadel/zitadel) - ���� An Open-Source solution built with Go and Angular to manage all your systems, users and service accounts together with their roles and external identities. ZITADEL provides you with OIDC, OAuth 2.0, login & register flows, passwordless and MFA authentication. All this is built on top of eventsourcing in combination with CQRS to provide a great audit trail.
 
 ## SAML
 
