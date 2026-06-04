@@ -188,7 +188,7 @@ _Libraries for Machine Learning. Also see [awesome-machine-learning ![GitHub Rep
 - [feature_engine ![GitHub Repo Stars](https://img.shields.io/github/stars/feature-engine/feature_engine) ![GitHub last commit](https://img.shields.io/github/last-commit/feature-engine/feature_engine)](https://github.com/feature-engine/feature_engine) - sklearn compatible API with the widest toolset for feature engineering and selection.
 - [h2o ![GitHub Repo Stars](https://img.shields.io/github/stars/h2oai/h2o-3) ![GitHub last commit](https://img.shields.io/github/last-commit/h2oai/h2o-3)](https://github.com/h2oai/h2o-3) - Open Source Fast Scalable Machine Learning Platform.
 - [lightgbm ![GitHub Repo Stars](https://img.shields.io/github/stars/lightgbm-org/LightGBM) ![GitHub last commit](https://img.shields.io/github/last-commit/lightgbm-org/LightGBM)](https://github.com/lightgbm-org/LightGBM) - A fast, distributed, high performance gradient boosting framework.
-- [mindsdb ![GitHub Repo Stars](https://img.shields.io/github/stars/mindsdb/mindsdb) ![GitHub last commit](https://img.shields.io/github/last-commit/mindsdb/mindsdb)](https://github.com/mindsdb/mindsdb) - MindsDB is an open source AI layer for existing databases that allows you to effortlessly develop, train and deploy state-of-the-art machine learning models using standard queries.
+- [mindsdb ![GitHub Repo Stars](https://img.shields.io/github/stars/mindsdb/minds-platform) ![GitHub last commit](https://img.shields.io/github/last-commit/mindsdb/minds-platform)](https://github.com/mindsdb/minds-platform) - MindsDB is an open source AI layer for existing databases that allows you to effortlessly develop, train and deploy state-of-the-art machine learning models using standard queries.
 - [pgmpy ![GitHub Repo Stars](https://img.shields.io/github/stars/pgmpy/pgmpy) ![GitHub last commit](https://img.shields.io/github/last-commit/pgmpy/pgmpy)](https://github.com/pgmpy/pgmpy) - A Python library for probabilistic graphical models and Bayesian networks.
 - [scikit-learn ![GitHub Repo Stars](https://img.shields.io/github/stars/scikit-learn/scikit-learn) ![GitHub last commit](https://img.shields.io/github/last-commit/scikit-learn/scikit-learn)](https://github.com/scikit-learn/scikit-learn) - The most popular Python library for Machine Learning with extensive documentation and community support.
 - * [scikit-lego ![GitHub Repo Stars](https://img.shields.io/github/stars/koaning/scikit-lego) ![GitHub last commit](https://img.shields.io/github/last-commit/koaning/scikit-lego)](https://github.com/koaning/scikit-lego) - A collection of lego bricks for scikit-learn pipelines.
@@ -477,7 +477,7 @@ _Libraries for data analysis._
 
 - [aws-sdk-pandas ![GitHub Repo Stars](https://img.shields.io/github/stars/aws/aws-sdk-pandas) ![GitHub last commit](https://img.shields.io/github/last-commit/aws/aws-sdk-pandas)](https://github.com/aws/aws-sdk-pandas) - Pandas on AWS.
 - [datasette ![GitHub Repo Stars](https://img.shields.io/github/stars/simonw/datasette) ![GitHub last commit](https://img.shields.io/github/last-commit/simonw/datasette)](https://github.com/simonw/datasette) - An open source multi-tool for exploring and publishing data.
-- [data-profiling ![GitHub Repo Stars](https://img.shields.io/github/stars/Data-Centric-AI-Community/data-profiling) ![GitHub last commit](https://img.shields.io/github/last-commit/Data-Centric-AI-Community/data-profiling)](https://github.com/Data-Centric-AI-Community/data-profiling) - Generate detailed data profiling reports for pandas DataFrames.
+- [data-profiling ![GitHub Repo Stars](https://img.shields.io/github/stars/Data-Centric-AI-Community/fg-data-profiling) ![GitHub last commit](https://img.shields.io/github/last-commit/Data-Centric-AI-Community/fg-data-profiling)](https://github.com/Data-Centric-AI-Community/fg-data-profiling) - Generate detailed data profiling reports for pandas DataFrames.
 - [desbordante ![GitHub Repo Stars](https://img.shields.io/github/stars/desbordante/desbordante-core) ![GitHub last commit](https://img.shields.io/github/last-commit/desbordante/desbordante-core)](https://github.com/desbordante/desbordante-core/) - An open source data profiler for complex pattern discovery.
 - [ibis ![GitHub Repo Stars](https://img.shields.io/github/stars/ibis-project/ibis) ![GitHub last commit](https://img.shields.io/github/last-commit/ibis-project/ibis)](https://github.com/ibis-project/ibis) - A portable Python dataframe library with a single API for 20+ backends.
 - [modin ![GitHub Repo Stars](https://img.shields.io/github/stars/modin-project/modin) ![GitHub last commit](https://img.shields.io/github/last-commit/modin-project/modin)](https://github.com/modin-project/modin) - A drop-in pandas replacement that scales workflows by changing a single line of code.
@@ -562,7 +562,7 @@ _Libraries for scientific computing. Also see [Python-for-Scientists ![GitHub Re
   - [pydy ![GitHub Repo Stars](https://img.shields.io/github/stars/pydy/pydy) ![GitHub last commit](https://img.shields.io/github/last-commit/pydy/pydy)](https://github.com/pydy/pydy) - Short for Python Dynamics, used to assist with workflow in the modeling of dynamic motion.
   - [PythonRobotics ![GitHub Repo Stars](https://img.shields.io/github/stars/AtsushiSakai/PythonRobotics) ![GitHub last commit](https://img.shields.io/github/last-commit/AtsushiSakai/PythonRobotics)](https://github.com/AtsushiSakai/PythonRobotics) - This is a compilation of various robotics algorithms with visualizations.
 - Simulation and Modeling
-  - [mesa ![GitHub Repo Stars](https://img.shields.io/github/stars/projectmesa/mesa) ![GitHub last commit](https://img.shields.io/github/last-commit/projectmesa/mesa)](https://github.com/projectmesa/mesa) - An agent-based modeling framework for building, analyzing, and visualizing complex system simulations.
+  - [mesa ![GitHub Repo Stars](https://img.shields.io/github/stars/mesa/mesa) ![GitHub last commit](https://img.shields.io/github/last-commit/mesa/mesa)](https://github.com/mesa/mesa) - An agent-based modeling framework for building, analyzing, and visualizing complex system simulations.
   - [pathsim ![GitHub Repo Stars](https://img.shields.io/github/stars/pathsim/pathsim) ![GitHub last commit](https://img.shields.io/github/last-commit/pathsim/pathsim)](https://github.com/pathsim/pathsim) - A block-based system modeling and simulation framework with a browser-based visual editor.
   - [pymc ![GitHub Repo Stars](https://img.shields.io/github/stars/pymc-devs/pymc) ![GitHub last commit](https://img.shields.io/github/last-commit/pymc-devs/pymc)](https://github.com/pymc-devs/pymc) - Probabilistic programming and Bayesian modeling in Python.
   - [simpy](https://gitlab.com/team-simpy/simpy) - A process-based discrete-event simulation framework.
@@ -735,6 +735,7 @@ _Software and libraries for DevOps._
 - Other
   - [borg ![GitHub Repo Stars](https://img.shields.io/github/stars/borgbackup/borg) ![GitHub last commit](https://img.shields.io/github/last-commit/borgbackup/borg)](https://github.com/borgbackup/borg) - A deduplicating archiver with compression and encryption.
   - [chaostoolkit ![GitHub Repo Stars](https://img.shields.io/github/stars/chaostoolkit/chaostoolkit) ![GitHub last commit](https://img.shields.io/github/last-commit/chaostoolkit/chaostoolkit)](https://github.com/chaostoolkit/chaostoolkit) - A Chaos Engineering toolkit & Orchestration for Developers.
+  - [kubesdk ![GitHub Repo Stars](https://img.shields.io/github/stars/puzl-cloud/kubesdk) ![GitHub last commit](https://img.shields.io/github/last-commit/puzl-cloud/kubesdk)](https://github.com/puzl-cloud/kubesdk) - A modern async-first Kubernetes client and API model generator.
   - [pre-commit ![GitHub Repo Stars](https://img.shields.io/github/stars/pre-commit/pre-commit) ![GitHub last commit](https://img.shields.io/github/last-commit/pre-commit/pre-commit)](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
 
 ### Distributed Computing
@@ -925,7 +926,7 @@ _Libraries for parsing and manipulating specific text formats._
   - [weasyprint ![GitHub Repo Stars](https://img.shields.io/github/stars/Kozea/WeasyPrint) ![GitHub last commit](https://img.shields.io/github/last-commit/Kozea/WeasyPrint)](https://github.com/Kozea/WeasyPrint) - A visual rendering engine for HTML and CSS that can export to PDF.
 - Markdown
   - [markdown-it-py ![GitHub Repo Stars](https://img.shields.io/github/stars/executablebooks/markdown-it-py) ![GitHub last commit](https://img.shields.io/github/last-commit/executablebooks/markdown-it-py)](https://github.com/executablebooks/markdown-it-py) - Markdown parser with 100% CommonMark support, extensions, and syntax plugins.
-  - [markdown ![GitHub Repo Stars](https://img.shields.io/github/stars/waylan/Python-Markdown) ![GitHub last commit](https://img.shields.io/github/last-commit/waylan/Python-Markdown)](https://github.com/waylan/Python-Markdown) - A Python implementation of John Gruber’s Markdown.
+  - [markdown ![GitHub Repo Stars](https://img.shields.io/github/stars/Python-Markdown/markdown) ![GitHub last commit](https://img.shields.io/github/last-commit/Python-Markdown/markdown)](https://github.com/Python-Markdown/markdown) - A Python implementation of John Gruber’s Markdown.
   - [markitdown ![GitHub Repo Stars](https://img.shields.io/github/stars/microsoft/markitdown) ![GitHub last commit](https://img.shields.io/github/last-commit/microsoft/markitdown)](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
   - [mistune ![GitHub Repo Stars](https://img.shields.io/github/stars/lepture/mistune) ![GitHub last commit](https://img.shields.io/github/last-commit/lepture/mistune)](https://github.com/lepture/mistune) - Fastest and full featured pure Python parsers of Markdown.
 - Data Formats
@@ -963,7 +964,7 @@ _Libraries for manipulating images._
 _Libraries for manipulating audio, video, and their metadata._
 
 - Audio
-  - [birdnet ![GitHub Repo Stars](https://img.shields.io/github/stars/kahst/BirdNET-Analyzer) ![GitHub last commit](https://img.shields.io/github/last-commit/kahst/BirdNET-Analyzer)](https://github.com/kahst/BirdNET-Analyzer) - Deep learning framework for acoustic species detection; identifies bird species from audio recordings using TensorFlow.
+  - [birdnet ![GitHub Repo Stars](https://img.shields.io/github/stars/birdnet-team/BirdNET-Analyzer) ![GitHub last commit](https://img.shields.io/github/last-commit/birdnet-team/BirdNET-Analyzer)](https://github.com/birdnet-team/BirdNET-Analyzer) - Deep learning framework for acoustic species detection; identifies bird species from audio recordings using TensorFlow.
   - [gtts ![GitHub Repo Stars](https://img.shields.io/github/stars/pndurette/gTTS) ![GitHub last commit](https://img.shields.io/github/last-commit/pndurette/gTTS)](https://github.com/pndurette/gTTS) - Python library and CLI tool for converting text to speech using Google Translate TTS.
   - [KittenTTS ![GitHub Repo Stars](https://img.shields.io/github/stars/KittenML/KittenTTS) ![GitHub last commit](https://img.shields.io/github/last-commit/KittenML/KittenTTS)](https://github.com/KittenML/KittenTTS) - Lightweight ONNX text-to-speech library with small CPU-friendly models.
   - [librosa ![GitHub Repo Stars](https://img.shields.io/github/stars/librosa/librosa) ![GitHub last commit](https://img.shields.io/github/last-commit/librosa/librosa)](https://github.com/librosa/librosa) - Python library for audio and music analysis.
@@ -975,7 +976,7 @@ _Libraries for manipulating audio, video, and their metadata._
 - Metadata
   - [beets ![GitHub Repo Stars](https://img.shields.io/github/stars/beetbox/beets) ![GitHub last commit](https://img.shields.io/github/last-commit/beetbox/beets)](https://github.com/beetbox/beets) - A music library manager and [MusicBrainz](https://musicbrainz.org/) tagger.
   - [mutagen ![GitHub Repo Stars](https://img.shields.io/github/stars/quodlibet/mutagen) ![GitHub last commit](https://img.shields.io/github/last-commit/quodlibet/mutagen)](https://github.com/quodlibet/mutagen) - A Python module to handle audio metadata.
-  - [tinytag ![GitHub Repo Stars](https://img.shields.io/github/stars/devsnd/tinytag) ![GitHub last commit](https://img.shields.io/github/last-commit/devsnd/tinytag)](https://github.com/devsnd/tinytag) - A library for reading music meta data of MP3, OGG, FLAC and Wave files.
+  - [tinytag ![GitHub Repo Stars](https://img.shields.io/github/stars/tinytag/tinytag) ![GitHub last commit](https://img.shields.io/github/last-commit/tinytag/tinytag)](https://github.com/tinytag/tinytag) - A library for reading music meta data of MP3, OGG, FLAC and Wave files.
 
 ### Game Development
 
@@ -1008,6 +1009,7 @@ _Libraries for enhancing Python built-in classes._
 - [attrs ![GitHub Repo Stars](https://img.shields.io/github/stars/python-attrs/attrs) ![GitHub last commit](https://img.shields.io/github/last-commit/python-attrs/attrs)](https://github.com/python-attrs/attrs) - Replacement for `__init__`, `__eq__`, `__repr__`, etc. boilerplate in class definitions.
 - [bidict ![GitHub Repo Stars](https://img.shields.io/github/stars/jab/bidict) ![GitHub last commit](https://img.shields.io/github/last-commit/jab/bidict)](https://github.com/jab/bidict) - Efficient, Pythonic bidirectional map data structures and related functionality.
 - [box ![GitHub Repo Stars](https://img.shields.io/github/stars/cdgriffith/Box) ![GitHub last commit](https://img.shields.io/github/last-commit/cdgriffith/Box)](https://github.com/cdgriffith/Box) - Python dictionaries with advanced dot notation access.
+- [uuid-utils ![GitHub Repo Stars](https://img.shields.io/github/stars/aminalaee/uuid-utils) ![GitHub last commit](https://img.shields.io/github/last-commit/aminalaee/uuid-utils)](https://github.com/aminalaee/uuid-utils) - A fast, Rust-backed drop-in replacement for Python's built-in `uuid` module, supporting RFC 9562 (UUIDv6, UUIDv7, and UUIDv8).
 
 ### Functional Programming
 
@@ -1016,7 +1018,7 @@ _Functional Programming with Python._
 - [coconut ![GitHub Repo Stars](https://img.shields.io/github/stars/evhub/coconut) ![GitHub last commit](https://img.shields.io/github/last-commit/evhub/coconut)](https://github.com/evhub/coconut) - A variant of Python built for simple, elegant, Pythonic functional programming.
 - [functools](https://docs.python.org/3/library/functools.html) - (Python standard library) Higher-order functions and operations on callable objects.
 - [funcy ![GitHub Repo Stars](https://img.shields.io/github/stars/Suor/funcy) ![GitHub last commit](https://img.shields.io/github/last-commit/Suor/funcy)](https://github.com/Suor/funcy) - A fancy and practical functional tools.
-- [more-itertools ![GitHub Repo Stars](https://img.shields.io/github/stars/erikrose/more-itertools) ![GitHub last commit](https://img.shields.io/github/last-commit/erikrose/more-itertools)](https://github.com/erikrose/more-itertools) - More routines for operating on iterables, beyond `itertools`.
+- [more-itertools ![GitHub Repo Stars](https://img.shields.io/github/stars/more-itertools/more-itertools) ![GitHub last commit](https://img.shields.io/github/last-commit/more-itertools/more-itertools)](https://github.com/more-itertools/more-itertools) - More routines for operating on iterables, beyond `itertools`.
 - [returns ![GitHub Repo Stars](https://img.shields.io/github/stars/dry-python/returns) ![GitHub last commit](https://img.shields.io/github/last-commit/dry-python/returns)](https://github.com/dry-python/returns) - A set of type-safe monads, transformers, and composition utilities.
 - [toolz ![GitHub Repo Stars](https://img.shields.io/github/stars/pytoolz/toolz) ![GitHub last commit](https://img.shields.io/github/last-commit/pytoolz/toolz)](https://github.com/pytoolz/toolz) - A collection of functional utilities for iterators, functions, and dictionaries. Also available as [cytoolz ![GitHub Repo Stars](https://img.shields.io/github/stars/pytoolz/cytoolz) ![GitHub last commit](https://img.shields.io/github/last-commit/pytoolz/cytoolz)](https://github.com/pytoolz/cytoolz/) for Cython-accelerated performance.
 
@@ -1071,7 +1073,7 @@ _Local PyPI repository server and proxies._
 
 - [bandersnatch ![GitHub Repo Stars](https://img.shields.io/github/stars/pypa/bandersnatch) ![GitHub last commit](https://img.shields.io/github/last-commit/pypa/bandersnatch)](https://github.com/pypa/bandersnatch/) - PyPI mirroring tool provided by Python Packaging Authority (PyPA).
 - [devpi ![GitHub Repo Stars](https://img.shields.io/github/stars/devpi/devpi) ![GitHub last commit](https://img.shields.io/github/last-commit/devpi/devpi)](https://github.com/devpi/devpi) - PyPI server and packaging/testing/release tool.
-- [warehouse ![GitHub Repo Stars](https://img.shields.io/github/stars/pypa/warehouse) ![GitHub last commit](https://img.shields.io/github/last-commit/pypa/warehouse)](https://github.com/pypa/warehouse) - Next generation Python Package Repository (PyPI).
+- [warehouse ![GitHub Repo Stars](https://img.shields.io/github/stars/pypi/warehouse) ![GitHub last commit](https://img.shields.io/github/last-commit/pypi/warehouse)](https://github.com/pypi/warehouse) - Next generation Python Package Repository (PyPI).
 
 ### Distribution
 
@@ -1138,7 +1140,7 @@ _Python programming on Microsoft Windows._
 
 _Useful libraries or tools that don't fit in the categories above._
 
-- [blinker ![GitHub Repo Stars](https://img.shields.io/github/stars/jek/blinker) ![GitHub last commit](https://img.shields.io/github/last-commit/jek/blinker)](https://github.com/jek/blinker) - A fast Python in-process signal/event dispatching system.
+- [blinker ![GitHub Repo Stars](https://img.shields.io/github/stars/pallets-eco/blinker) ![GitHub last commit](https://img.shields.io/github/last-commit/pallets-eco/blinker)](https://github.com/pallets-eco/blinker) - A fast Python in-process signal/event dispatching system.
 - [boltons ![GitHub Repo Stars](https://img.shields.io/github/stars/mahmoud/boltons) ![GitHub last commit](https://img.shields.io/github/last-commit/mahmoud/boltons)](https://github.com/mahmoud/boltons) - A set of pure-Python utilities.
 - [itsdangerous ![GitHub Repo Stars](https://img.shields.io/github/stars/pallets/itsdangerous) ![GitHub last commit](https://img.shields.io/github/last-commit/pallets/itsdangerous)](https://github.com/pallets/itsdangerous) - Various helpers to pass trusted data to untrusted environments.
 - [tryton ![GitHub Repo Stars](https://img.shields.io/github/stars/tryton/tryton) ![GitHub last commit](https://img.shields.io/github/last-commit/tryton/tryton)](https://github.com/tryton/tryton) - A general-purpose business framework.
