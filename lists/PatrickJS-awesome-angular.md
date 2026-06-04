@@ -1034,6 +1034,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ng-eagleeye.js ![GitHub Repo Stars](https://img.shields.io/github/stars/webKrafters/ng-eagleeye.js) ![GitHub last commit](https://img.shields.io/github/last-commit/webKrafters/ng-eagleeye.js)](https://github.com/webKrafters/ng-eagleeye.js) - A framework-agnostic, native JavaScript immutable state manager with change-streams, deployable anywhere.
 * [ngx-deep-signals ![GitHub Repo Stars](https://img.shields.io/github/stars/simplesoftsoul/ngx-deep-signals) ![GitHub last commit](https://img.shields.io/github/last-commit/simplesoftsoul/ngx-deep-signals)](https://github.com/simplesoftsoul/ngx-deep-signals) - Deeply reactive, zero‑ceremony nested state for Angular—turn any object into a signal graph without calls, setters, or boilerplate.
 * [editate ![GitHub Repo Stars](https://img.shields.io/github/stars/inokawa/editate) ![GitHub last commit](https://img.shields.io/github/last-commit/inokawa/editate)](https://github.com/inokawa/editate) - An experimental, type-safe, framework agnostic and small (5kB+) contenteditable state manager.
+* [sdux-vault ![GitHub Repo Stars](https://img.shields.io/github/stars/sdux-vault/vault) ![GitHub last commit](https://img.shields.io/github/last-commit/sdux-vault/vault)](https://github.com/sdux-vault/vault) - A framework-agnostic, deterministic state management system.
 
 ## Testing
 
