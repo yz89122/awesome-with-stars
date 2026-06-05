@@ -116,7 +116,7 @@ Creative technologists by definition have a breadth of skills as opposed to a sp
 | [**FIELD**](https:&#x2F;&#x2F;www.field.io&#x2F;) | [London] | future aesthetics for design, motion, experiential | 
 | [**Five Stone Studios**](https:&#x2F;&#x2F;fivestonestudios.com&#x2F;) | [Nashville] | Our creative arsenal spans design, live action, animation, &amp; experiential storytelling | 
 | [**Fjord**](https:&#x2F;&#x2F;fjordstudio.no&#x2F;) | [Oslo] | light art curation and production for festivals, installations, and stage productions | 
-| [**Float4**](https:&#x2F;&#x2F;float4.com&#x2F;en&#x2F;) | [Montreal] [NYC] | integrates digital experiences into physical spaces to amplify their identity | [🌐](https:&#x2F;&#x2F;float4.com&#x2F;en&#x2F;life-at-float4&#x2F;)
+| [**Float4**](https:&#x2F;&#x2F;float4.com&#x2F;en&#x2F;) | [Montreal] [NYC] | integrates digital experiences into physical spaces to amplify their identity | [��](https:&#x2F;&#x2F;float4.com&#x2F;en&#x2F;life-at-float4&#x2F;)
 | [**Friendly Vengeance**](https:&#x2F;&#x2F;friendlyvengeance.com&#x2F;) | [Culver City, CA] | interactive experiences and experiential design | 
 | [**fuse**](https:&#x2F;&#x2F;www.fuseworks.it&#x2F;en&#x2F;) | [Modena, Italy] | live-media performances, experimentation, electronic music, digital arts | 
 | [**Future Colossal**](https:&#x2F;&#x2F;www.futurecolossal.com&#x2F;) | [NYC] | experiential technologies in advertising and entertainment and art | [🌐](https:&#x2F;&#x2F;www.futurecolossal.com&#x2F;contact)
@@ -183,7 +183,7 @@ Creative technologists by definition have a breadth of skills as opposed to a sp
 | [**Normal**](https:&#x2F;&#x2F;normal.studio&#x2F;en&#x2F;) | [Montreal] | public installations, entertainment, performing arts, stage design | [📧](mailto:cv@normal.studio)
 | [**Nowhere**](https:&#x2F;&#x2F;studionowhere.com&#x2F;) | [Shanghai] | marketing events, interactive experiences | 
 | [**Oat Foundry**](https:&#x2F;&#x2F;www.oatfoundry.com&#x2F;) | [Philadelphia] | split-flap displays, electromechanical stuff, think tank, products, experiences | [🌐](https:&#x2F;&#x2F;www.oatfoundry.com&#x2F;careers&#x2F;)
-| [**Observatory**](https:&#x2F;&#x2F;observatory.design&#x2F;) | [London] | creative technology and content studio crafting end-to-end solutions for immersive experiences, brand spatialisation, and experiential content | [��](https:&#x2F;&#x2F;www.observatory.design&#x2F;jobs)
+| [**Observatory**](https:&#x2F;&#x2F;observatory.design&#x2F;) | [London] | creative technology and content studio crafting end-to-end solutions for immersive experiences, brand spatialisation, and experiential content | [🌐](https:&#x2F;&#x2F;www.observatory.design&#x2F;jobs)
 | [**OIO**](https:&#x2F;&#x2F;oio.studio&#x2F;) | [London] | creative company working on future products and tools for a less boring future | 
 | [**Onformative**](https:&#x2F;&#x2F;onformative.com&#x2F;) | [Berlin] | studio for digital art and design, challenge the boundaries between art and design and technology | [🌐](https:&#x2F;&#x2F;onformative.com&#x2F;jobs)
 | [**Optimist**](https:&#x2F;&#x2F;optimistinc.com&#x2F;) | [LA] [NYC] [London] [Amsterdam] [Hamburg] [Berlin] [Prague] | architects of subculture, creative, design, strategy, production, content, brand experience | [🌐](https:&#x2F;&#x2F;optimistinc.com&#x2F;job-openings.html)

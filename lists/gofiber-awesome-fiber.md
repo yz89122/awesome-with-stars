@@ -221,3 +221,9 @@ Several benchmarks to compare Fiber with other frameworks.
 ### 👍 Contributing
 
 Contribution guidelines can be found on [CONTRIBUTING.md ![GitHub Repo Stars](https://img.shields.io/github/stars/gofiber/awesome-fiber) ![GitHub last commit](https://img.shields.io/github/last-commit/gofiber/awesome-fiber)](https://github.com/gofiber/awesome-fiber/blob/master/CONTRIBUTING.md)
+
+## ☕ Supporters
+
+Fiber is an open-source project that runs on donations to pay the bills, e.g., our domain name, hosting, and serverless infrastructure. If you want to support Fiber, please become a [GitHub Sponsor ![GitHub Repo Stars](https://img.shields.io/github/stars/sponsors/gofiber) ![GitHub last commit](https://img.shields.io/github/last-commit/sponsors/gofiber)](https://github.com/sponsors/gofiber).
+
+<!-- sponsors --><!-- sponsors -->
