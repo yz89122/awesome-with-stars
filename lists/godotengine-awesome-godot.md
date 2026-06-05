@@ -90,6 +90,7 @@ See [Vivraan/godot-lang-support ![GitHub Repo Stars](https://img.shields.io/gith
 - [Super Tux Party](https://gitlab.com/SuperTuxParty/SuperTuxParty) - A free/libre and open-source party game that is meant to replicate the feel of games such as Mario Party.
 - [Tanks of Freedom II ![GitHub Repo Stars](https://img.shields.io/github/stars/P1X-in/Tanks-of-Freedom-3-D) ![GitHub last commit](https://img.shields.io/github/last-commit/P1X-in/Tanks-of-Freedom-3-D)](https://github.com/P1X-in/Tanks-of-Freedom-3-D) - Free turn-based isometric strategy game in voxel art.
 - [Thrive ![GitHub Repo Stars](https://img.shields.io/github/stars/Revolutionary-Games/Thrive) ![GitHub last commit](https://img.shields.io/github/last-commit/Revolutionary-Games/Thrive)](https://github.com/Revolutionary-Games/Thrive/) - A free, open-source game about the evolution of life (Mono).
+- [VitaVehicle](https://jreo.itch.io/rcp4) - An open-source raycast-based car simulator that simulates engine, transmission, and slip algorithm.
 
 #### Godot 3
 
@@ -479,6 +480,7 @@ See [Vivraan/godot-lang-support ![GitHub Repo Stars](https://img.shields.io/gith
 ## Websites
 
 - [Godot Asset Library](https://godotengine.org/asset-library/asset) - Official Godot Asset Library. Includes user-created games, projects, templates, demos, tutorials, plugins, and scripts.
+- [Godot Asset Store](https://store.godotengine.org/) - Official Godot Asset Store. A modern replacement for the Godot Asset Library. 
 - [Godot Shaders](https://godotshaders.com/) - A community-driven shader library for the Godot game engine.
 
 ## Other
