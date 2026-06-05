@@ -347,7 +347,7 @@ _Language specific game engine development libraries / frameworks / code._
 - C: Math
     - 🎉 [Cglm ![GitHub Repo Stars](https://img.shields.io/github/stars/recp/cglm) ![GitHub last commit](https://img.shields.io/github/last-commit/recp/cglm)](https://github.com/recp/cglm) - Highly optimized OpenGL math.
     - ⭐ [Handmade Math ![GitHub Repo Stars](https://img.shields.io/github/stars/HandmadeMath/Handmade-Math) ![GitHub last commit](https://img.shields.io/github/last-commit/HandmadeMath/Handmade-Math)](https://github.com/HandmadeMath/Handmade-Math) 🔥 - Simple, public domain math library for games and computer graphics.
-    - 🎉 [Kazmath ![GitHub Repo Stars](https://img.shields.io/github/stars/Kazade/kazmath) ![GitHub last commit](https://img.shields.io/github/last-commit/Kazade/kazmath)](https://github.com/Kazade/kazmath) - Math library targeted at games.
+    - �� [Kazmath ![GitHub Repo Stars](https://img.shields.io/github/stars/Kazade/kazmath) ![GitHub last commit](https://img.shields.io/github/last-commit/Kazade/kazmath)](https://github.com/Kazade/kazmath) - Math library targeted at games.
     - 🎉 [Raymath ![GitHub Repo Stars](https://img.shields.io/github/stars/raysan5/raylib) ![GitHub last commit](https://img.shields.io/github/last-commit/raysan5/raylib)](https://github.com/raysan5/raylib/blob/master/src/raymath.h) - Math library included in the _RayLib_ game framework.
 - C: Network
     - 🎉 [ENet ![GitHub Repo Stars](https://img.shields.io/github/stars/zpl-c/enet) ![GitHub last commit](https://img.shields.io/github/last-commit/zpl-c/enet)](https://github.com/zpl-c/enet) - Simple, lightweight and reliable UDP networking library.
