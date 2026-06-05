@@ -40,6 +40,7 @@ To enhance your WezTerm configuration experience:
 - [sei40kr/wez-tmux ![GitHub Repo Stars](https://img.shields.io/github/stars/sei40kr/wez-tmux) ![GitHub last commit](https://img.shields.io/github/last-commit/sei40kr/wez-tmux)](https://github.com/sei40kr/wez-tmux) - Ported tmux keybindings.
 - [selectnull/pinned-tabs.wezterm ![GitHub Repo Stars](https://img.shields.io/github/stars/selectnull/pinned-tabs.wezterm) ![GitHub last commit](https://img.shields.io/github/last-commit/selectnull/pinned-tabs.wezterm)](https://github.com/selectnull/pinned-tabs.wezterm) - Lets you assign a key binding to a specific tab.
 - [abidibo/wezterm-cmdpicker ![GitHub Repo Stars](https://img.shields.io/github/stars/abidibo/wezterm-cmdpicker) ![GitHub last commit](https://img.shields.io/github/last-commit/abidibo/wezterm-cmdpicker)](https://github.com/abidibo/wezterm-cmdpicker) - Add a command-palette-style fuzzy picker for keybindings. Press a trigger key to search and execute any keybinding — user-defined, config, or WezTerm defaults.
+- [annie444/sync-panes.wez ![GitHub Repo Stars](https://img.shields.io/github/stars/annie444/sync-panes.wez) ![GitHub last commit](https://img.shields.io/github/last-commit/annie444/sync-panes.wez)](https://github.com/annie444/sync-panes.wez) - Mirrors your keystrokes to every pane in the active tab — the equivalent of tmux's `synchronize-panes`.
 
 ## Media
 
