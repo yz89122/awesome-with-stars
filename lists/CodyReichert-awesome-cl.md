@@ -1897,7 +1897,7 @@ Readline, ncurses and other graphical TUI helpers
 -------------------------------------------------
 
 * 🔥 [cl-tuition ![GitHub Repo Stars](https://img.shields.io/github/stars/atgreen/cl-tuition) ![GitHub last commit](https://img.shields.io/github/last-commit/atgreen/cl-tuition)](https://github.com/atgreen/cl-tuition) -  A Common Lisp library for building rich, responsive TUIs. MIT.
-  * model-view-update Elm architecture, reusable widgets (text input, spinner, progress bar��), mouse support, layout helpers…
+  * model-view-update Elm architecture, reusable widgets (text input, spinner, progress bar…), mouse support, layout helpers…
 * [cl-readline ![GitHub Repo Stars](https://img.shields.io/github/stars/vindarel/cl-readline) ![GitHub last commit](https://img.shields.io/github/last-commit/vindarel/cl-readline)](https://github.com/vindarel/cl-readline) - a set of
   functions to edit lines as they are typed in, to maintain a list of
   previously-entered command lines, to recall and reedit them and
