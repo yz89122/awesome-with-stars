@@ -682,7 +682,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Lime ![GitHub Repo Stars](https://img.shields.io/github/stars/haxelime/lime) ![GitHub last commit](https://img.shields.io/github/last-commit/haxelime/lime)](https://github.com/haxelime/lime) - Flexible, lightweight layer for Haxe cross-platform developers.
     - 🎉 [nme ![GitHub Repo Stars](https://img.shields.io/github/stars/haxenme/nme) ![GitHub last commit](https://img.shields.io/github/last-commit/haxenme/nme)](https://github.com/haxenme/nme) - Cross-platform native backend for Haxe projects.
 - Haxe: Cross-Platform
-    - 🎉 [HashLink ![GitHub Repo Stars](https://img.shields.io/github/stars/HaxeFoundation/hashlink) ![GitHub last commit](https://img.shields.io/github/last-commit/HaxeFoundation/hashlink)](https://github.com/HaxeFoundation/hashlink/) - Virtual machine for Haxe.
+    - ��� [HashLink ![GitHub Repo Stars](https://img.shields.io/github/stars/HaxeFoundation/hashlink) ![GitHub last commit](https://img.shields.io/github/last-commit/HaxeFoundation/hashlink)](https://github.com/HaxeFoundation/hashlink/) - Virtual machine for Haxe.
 - Haxe: Entity Component System
     - 🎉 [Ecx ![GitHub Repo Stars](https://img.shields.io/github/stars/eliasku/ecx) ![GitHub last commit](https://img.shields.io/github/last-commit/eliasku/ecx)](https://github.com/eliasku/ecx) - Entity component system framework for Haxe.
     - 🎉 [GASM ![GitHub Repo Stars](https://img.shields.io/github/stars/HacksawStudios/GASM) ![GitHub last commit](https://img.shields.io/github/last-commit/HacksawStudios/GASM)](https://github.com/HacksawStudios/GASM) - Framework agnostic entity component system for Haxe.
@@ -1381,7 +1381,7 @@ _Software to help with game engine / video game development._
 - 💰 [Ken Shape](https://tools.kenney.nl/kenshape/) - Draw in 2D, set the depth for each pixel and generate 3D models!
 - 🎉 [IsoVoxel ![GitHub Repo Stars](https://img.shields.io/github/stars/tommyettinger/IsoVoxel) ![GitHub last commit](https://img.shields.io/github/last-commit/tommyettinger/IsoVoxel)](https://github.com/tommyettinger/IsoVoxel) - Generates isometric pixel art from _MagicaVoxel_ .vox files.
 - 🆓 [MagicaVoxel](https://ephtracy.github.io) - Lightweight voxel art editor.
-- �� [Qubicle](http://minddesk.com/) - Popular (Crossy Road, Pacman 256) voxel editor, easy creation of 3D models.
+- 💰 [Qubicle](http://minddesk.com/) - Popular (Crossy Road, Pacman 256) voxel editor, easy creation of 3D models.
 
 <br />
 <br />
