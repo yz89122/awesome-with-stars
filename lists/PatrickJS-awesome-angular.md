@@ -1099,6 +1099,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ArchUnitTS ![GitHub Repo Stars](https://img.shields.io/github/stars/LukasNiessen/ArchUnitTS) ![GitHub last commit](https://img.shields.io/github/last-commit/LukasNiessen/ArchUnitTS)](https://github.com/LukasNiessen/ArchUnitTS) - Enforce architecture rules, detect circular dependencies, and validate code standards in JS/TS projects with easy setup and seamless test framework integration.
 * [qc-auto-package ![GitHub Repo Stars](https://img.shields.io/github/stars/KareemMostafa77/qc-auto-package) ![GitHub last commit](https://img.shields.io/github/last-commit/KareemMostafa77/qc-auto-package)](https://github.com/KareemMostafa77/qc-auto-package) - Effortless, reliable test IDs for Angular — managed by testers, independent of code.
 * [ng-magic-test-bed ![GitHub Repo Stars](https://img.shields.io/github/stars/peejay-solutions/ng-magic-test-bed) ![GitHub last commit](https://img.shields.io/github/last-commit/peejay-solutions/ng-magic-test-bed)](https://github.com/peejay-solutions/ng-magic-test-bed) - Angular test bed wrapper that allows you to remove a lot of bloat code from your spec files.
+* [schmock ![GitHub Repo Stars](https://img.shields.io/github/stars/khalic-lab/schmock) ![GitHub last commit](https://img.shields.io/github/last-commit/khalic-lab/schmock)](https://github.com/khalic-lab/schmock) - Create callable mock APIs from OpenAPI specs or hand-crafted routes using a plugin pipeline and framework adapters.
 
 ## Site Templates
 
