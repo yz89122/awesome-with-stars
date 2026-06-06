@@ -252,7 +252,7 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 * [Bach Playground ![GitHub Repo Stars](https://img.shields.io/github/stars/dreamwieber/BachPlayground) ![GitHub last commit](https://img.shields.io/github/last-commit/dreamwieber/BachPlayground)](https://github.com/dreamwieber/BachPlayground) - A Simple Swift Playground that plays a brief piece by Bach with AVAudioEngine and AVMIDIPlayer.
 * [PlayerNode Playground ![GitHub Repo Stars](https://img.shields.io/github/stars/genedelisa/PlayerNodePlayground) ![GitHub last commit](https://img.shields.io/github/last-commit/genedelisa/PlayerNodePlayground)](https://github.com/genedelisa/PlayerNodePlayground) - Playground using AVAudioEngine with a playernode and effects to play an audio file. 🌟
 * [Miles ![GitHub Repo Stars](https://img.shields.io/github/stars/lalomts/Miles) ![GitHub last commit](https://img.shields.io/github/last-commit/lalomts/Miles)](https://github.com/lalomts/Miles) - A Swift Playground that creates jazz improvisations in any key using AudioToolbox and AVFoundation. 
-* [Rhythm Snap ![GitHub Repo Stars](https://img.shields.io/github/stars/carlosmbe/Rhythm-Snap) ![GitHub last commit](https://img.shields.io/github/last-commit/carlosmbe/Rhythm-Snap)](https://github.com/carlosmbe/Rhythm-Snap) - A Swift Playground using Vision and AVFoundation to help you practice rhythm in a fun way.���
+* [Rhythm Snap ![GitHub Repo Stars](https://img.shields.io/github/stars/carlosmbe/Rhythm-Snap) ![GitHub last commit](https://img.shields.io/github/last-commit/carlosmbe/Rhythm-Snap)](https://github.com/carlosmbe/Rhythm-Snap) - A Swift Playground using Vision and AVFoundation to help you practice rhythm in a fun way.🍁
 
 
 ## Mathematics
@@ -265,7 +265,7 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 * [Abstract Algebra ![GitHub Repo Stars](https://img.shields.io/github/stars/taketo1024/SwiftyMath) ![GitHub last commit](https://img.shields.io/github/last-commit/taketo1024/SwiftyMath)](https://github.com/taketo1024/SwiftyMath) - Abstract algebra concepts implemented in Swift.
 * [Swift Accelerate ![GitHub Repo Stars](https://img.shields.io/github/stars/haginile/SwiftAccelerate) ![GitHub last commit](https://img.shields.io/github/last-commit/haginile/SwiftAccelerate)](https://github.com/haginile/SwiftAccelerate) - Using the Accelerate framework and Swift for Linear Algebra. ⏳
 * [Swifty Mathematics ![GitHub Repo Stars](https://img.shields.io/github/stars/DylanModesitt/swiftyMathematics) ![GitHub last commit](https://img.shields.io/github/last-commit/DylanModesitt/swiftyMathematics)](https://github.com/DylanModesitt/swiftyMathematics) - A collection of swift playground about mathematics. ⏳
-* [Numerical Algorithms](https://www.raywenderlich.com/99559/numeric-algorithms-using-playgrounds) - Numerical argorithms playground from Ray Wenderlich. ⏳
+* [Numerical Algorithms](https://www.raywenderlich.com/99559/numeric-algorithms-using-playgrounds) - Numerical argorithms playground from Ray Wenderlich. ��
 
 ## Libraries and APIs
 *Library tutorials, in a playground*
