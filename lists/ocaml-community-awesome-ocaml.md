@@ -322,7 +322,7 @@ With the introduction of [Effect Handlers](https://ocaml.org/manual/effects.html
   - [Vg ![GitHub Repo Stars](https://img.shields.io/github/stars/dbuenzli/vg) ![GitHub last commit](https://img.shields.io/github/last-commit/dbuenzli/vg)](https://github.com/dbuenzli/vg) – Declarative 2D vector graphics for OCaml.
 - **3D**
   - [glMLite ![GitHub Repo Stars](https://img.shields.io/github/stars/fccm/glMLite) ![GitHub last commit](https://img.shields.io/github/last-commit/fccm/glMLite)](https://github.com/fccm/glMLite) — OpenGL bindings for OCaml. Provides an (experimental) functional API. ([homepage](http://decapode314.free.fr/ocaml/GL/))
-  - [lablgl](https://forge.ocamlcore.org/projects/lablgl/) �� Interface to OpenGL. Integrates well with lablgtk.
+  - [lablgl](https://forge.ocamlcore.org/projects/lablgl/) — Interface to OpenGL. Integrates well with lablgtk.
   - [tgls](http://erratique.ch/software/tgls) — Thin bindings OpenGL 3.{2,3},4.{0,1,2,3,4} and OpenGL ES {2,3}.
 
 
