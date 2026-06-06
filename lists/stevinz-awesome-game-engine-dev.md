@@ -347,7 +347,7 @@ _Language specific game engine development libraries / frameworks / code._
 - C: Math
     - 🎉 [Cglm ![GitHub Repo Stars](https://img.shields.io/github/stars/recp/cglm) ![GitHub last commit](https://img.shields.io/github/last-commit/recp/cglm)](https://github.com/recp/cglm) - Highly optimized OpenGL math.
     - ⭐ [Handmade Math ![GitHub Repo Stars](https://img.shields.io/github/stars/HandmadeMath/Handmade-Math) ![GitHub last commit](https://img.shields.io/github/last-commit/HandmadeMath/Handmade-Math)](https://github.com/HandmadeMath/Handmade-Math) 🔥 - Simple, public domain math library for games and computer graphics.
-    - 🎉 [Kazmath ![GitHub Repo Stars](https://img.shields.io/github/stars/Kazade/kazmath) ![GitHub last commit](https://img.shields.io/github/last-commit/Kazade/kazmath)](https://github.com/Kazade/kazmath) - Math library targeted at games.
+    - �� [Kazmath ![GitHub Repo Stars](https://img.shields.io/github/stars/Kazade/kazmath) ![GitHub last commit](https://img.shields.io/github/last-commit/Kazade/kazmath)](https://github.com/Kazade/kazmath) - Math library targeted at games.
     - 🎉 [Raymath ![GitHub Repo Stars](https://img.shields.io/github/stars/raysan5/raylib) ![GitHub last commit](https://img.shields.io/github/last-commit/raysan5/raylib)](https://github.com/raysan5/raylib/blob/master/src/raymath.h) - Math library included in the _RayLib_ game framework.
 - C: Network
     - 🎉 [ENet ![GitHub Repo Stars](https://img.shields.io/github/stars/zpl-c/enet) ![GitHub last commit](https://img.shields.io/github/last-commit/zpl-c/enet)](https://github.com/zpl-c/enet) - Simple, lightweight and reliable UDP networking library.
@@ -389,7 +389,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [EntityX ![GitHub Repo Stars](https://img.shields.io/github/stars/alecthomas/entityx) ![GitHub last commit](https://img.shields.io/github/last-commit/alecthomas/entityx)](https://github.com/alecthomas/entityx) - Fast, type-safe C++ entity component system.
     - 🎉 [Entt ![GitHub Repo Stars](https://img.shields.io/github/stars/skypjack/entt) ![GitHub last commit](https://img.shields.io/github/last-commit/skypjack/entt)](https://github.com/skypjack/entt) - Gaming meets modern C++, a fast and reliable entity component system.
 - C++: Fonts
-    - �� [HarfBuzz ![GitHub Repo Stars](https://img.shields.io/github/stars/harfbuzz/harfbuzz) ![GitHub last commit](https://img.shields.io/github/last-commit/harfbuzz/harfbuzz)](https://github.com/harfbuzz/harfbuzz) - Text shaping library. Formatted and positioned glyph output.
+    - 🎉 [HarfBuzz ![GitHub Repo Stars](https://img.shields.io/github/stars/harfbuzz/harfbuzz) ![GitHub last commit](https://img.shields.io/github/last-commit/harfbuzz/harfbuzz)](https://github.com/harfbuzz/harfbuzz) - Text shaping library. Formatted and positioned glyph output.
     - 🎉 [msdfgen ![GitHub Repo Stars](https://img.shields.io/github/stars/Chlumsky/msdfgen) ![GitHub last commit](https://img.shields.io/github/last-commit/Chlumsky/msdfgen)](https://github.com/Chlumsky/msdfgen) - Multi-channel signed distance field generator.
     - 💰 [Slug](http://sluglibrary.com) - High-quality, resolution-independent text and vector graphics for 3D apps.
     - 🎉 [slughorn ![GitHub Repo Stars](https://img.shields.io/github/stars/AlphaPixel/slughorn) ![GitHub last commit](https://img.shields.io/github/last-commit/AlphaPixel/slughorn)](https://github.com/AlphaPixel/slughorn) - Library for shoehorning the Slug text/graphics GPU rendering library into projects.
@@ -414,7 +414,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Irrlicht](https://sourceforge.net/projects/irrlicht/) - Cross-platform 3D engine worked on for nearly 2 decades. [[Website](https://irrlicht.sourceforge.io/)]
     - 🎉 [Limon Engine ![GitHub Repo Stars](https://img.shields.io/github/stars/enginmanap/limonEngine) ![GitHub last commit](https://img.shields.io/github/last-commit/enginmanap/limonEngine)](https://github.com/enginmanap/limonEngine) - 3D FPS game engine with full dynamic lighting and shadows.
     - 🎉 [Lina Engine ![GitHub Repo Stars](https://img.shields.io/github/stars/inanevin/LinaEngine) ![GitHub last commit](https://img.shields.io/github/last-commit/inanevin/LinaEngine)](https://github.com/inanevin/LinaEngine) - Modular game engine, aimed to develop 3D desktop games.
-    - 🎉 [Lumos ![GitHub Repo Stars](https://img.shields.io/github/stars/jmorton06/Lumos) ![GitHub last commit](https://img.shields.io/github/last-commit/jmorton06/Lumos)](https://github.com/jmorton06/Lumos) - Cross-platform 2D/3D game engine, supports both OpenGL and Vulkan.
+    - �� [Lumos ![GitHub Repo Stars](https://img.shields.io/github/stars/jmorton06/Lumos) ![GitHub last commit](https://img.shields.io/github/last-commit/jmorton06/Lumos)](https://github.com/jmorton06/Lumos) - Cross-platform 2D/3D game engine, supports both OpenGL and Vulkan.
     - 🎉 [Lumix Engine ![GitHub Repo Stars](https://img.shields.io/github/stars/nem0/LumixEngine) ![GitHub last commit](https://img.shields.io/github/last-commit/nem0/LumixEngine)](https://github.com/nem0/LumixEngine) - A 3D game engine with _Dear ImGui_ based editor.
     - 🎉 [MxEngine ![GitHub Repo Stars](https://img.shields.io/github/stars/asc-community/MxEngine) ![GitHub last commit](https://img.shields.io/github/last-commit/asc-community/MxEngine)](https://github.com/asc-community/MxEngine) - Modern-C++ general-purpose 3D game engine.
     - 🔒 [neoGFX ![GitHub Repo Stars](https://img.shields.io/github/stars/i42output/neogfx) ![GitHub last commit](https://img.shields.io/github/last-commit/i42output/neogfx)](https://github.com/i42output/neogfx) - Cross-platform app and game engine.
@@ -1012,7 +1012,7 @@ _Language specific game engine development libraries / frameworks / code._
 
 ### Ruby
 - 📚 [Awesome Ruby ![GitHub Repo Stars](https://img.shields.io/github/stars/markets/awesome-ruby) ![GitHub last commit](https://img.shields.io/github/last-commit/markets/awesome-ruby)](https://github.com/markets/awesome-ruby) - Collection of awesome Ruby libraries, tools, frameworks and software.
-- ���� [Ruby](https://www.ruby-lang.org/en/) - Dynamic programming language, focused on simplicity / productivity. [[GitHub ![GitHub Repo Stars](https://img.shields.io/github/stars/ruby/ruby) ![GitHub last commit](https://img.shields.io/github/last-commit/ruby/ruby)](https://github.com/ruby/ruby)]
+- 🌎 [Ruby](https://www.ruby-lang.org/en/) - Dynamic programming language, focused on simplicity / productivity. [[GitHub ![GitHub Repo Stars](https://img.shields.io/github/stars/ruby/ruby) ![GitHub last commit](https://img.shields.io/github/last-commit/ruby/ruby)](https://github.com/ruby/ruby)]
 - Ruby: Framework
     - 🎉 [Ruby on Rails ![GitHub Repo Stars](https://img.shields.io/github/stars/rails/rails) ![GitHub last commit](https://img.shields.io/github/last-commit/rails/rails)](https://github.com/rails/rails) - Web app framework. [[Website](https://rubyonrails.org)]
 - Ruby: Game Framework
@@ -1381,7 +1381,7 @@ _Software to help with game engine / video game development._
 - 💰 [Ken Shape](https://tools.kenney.nl/kenshape/) - Draw in 2D, set the depth for each pixel and generate 3D models!
 - 🎉 [IsoVoxel ![GitHub Repo Stars](https://img.shields.io/github/stars/tommyettinger/IsoVoxel) ![GitHub last commit](https://img.shields.io/github/last-commit/tommyettinger/IsoVoxel)](https://github.com/tommyettinger/IsoVoxel) - Generates isometric pixel art from _MagicaVoxel_ .vox files.
 - 🆓 [MagicaVoxel](https://ephtracy.github.io) - Lightweight voxel art editor.
-- 💰 [Qubicle](http://minddesk.com/) - Popular (Crossy Road, Pacman 256) voxel editor, easy creation of 3D models.
+- �� [Qubicle](http://minddesk.com/) - Popular (Crossy Road, Pacman 256) voxel editor, easy creation of 3D models.
 
 <br />
 <br />
