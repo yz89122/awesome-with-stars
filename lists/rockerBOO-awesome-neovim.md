@@ -1827,7 +1827,7 @@ then it is not supported:
 - [TheItcor/MoaiVim ![GitHub Repo Stars](https://img.shields.io/github/stars/TheItcor/MoaiVim) ![GitHub last commit](https://img.shields.io/github/last-commit/TheItcor/MoaiVim)](https://github.com/TheItcor/MoaiVim) - A minimalist config that emulates a lightweight IDE.
 - [plutowang/nvim.pack ![GitHub Repo Stars](https://img.shields.io/github/stars/plutowang/nvim.pack) ![GitHub last commit](https://img.shields.io/github/last-commit/plutowang/nvim.pack)](https://github.com/plutowang/nvim.pack) - Declarative, event-driven lazy-loading configuration built purely on native Vim.pack for extreme startup performance.
 <!--lint disable double-link -->
-[**⬆ back to top**](#contents)
+[**�� back to top**](#contents)
 <!--lint enable double-link -->
 
 ## External

@@ -1012,7 +1012,7 @@ _Language specific game engine development libraries / frameworks / code._
 
 ### Ruby
 - 📚 [Awesome Ruby ![GitHub Repo Stars](https://img.shields.io/github/stars/markets/awesome-ruby) ![GitHub last commit](https://img.shields.io/github/last-commit/markets/awesome-ruby)](https://github.com/markets/awesome-ruby) - Collection of awesome Ruby libraries, tools, frameworks and software.
-- ��� [Ruby](https://www.ruby-lang.org/en/) - Dynamic programming language, focused on simplicity / productivity. [[GitHub ![GitHub Repo Stars](https://img.shields.io/github/stars/ruby/ruby) ![GitHub last commit](https://img.shields.io/github/last-commit/ruby/ruby)](https://github.com/ruby/ruby)]
+- 🌎 [Ruby](https://www.ruby-lang.org/en/) - Dynamic programming language, focused on simplicity / productivity. [[GitHub ![GitHub Repo Stars](https://img.shields.io/github/stars/ruby/ruby) ![GitHub last commit](https://img.shields.io/github/last-commit/ruby/ruby)](https://github.com/ruby/ruby)]
 - Ruby: Framework
     - 🎉 [Ruby on Rails ![GitHub Repo Stars](https://img.shields.io/github/stars/rails/rails) ![GitHub last commit](https://img.shields.io/github/last-commit/rails/rails)](https://github.com/rails/rails) - Web app framework. [[Website](https://rubyonrails.org)]
 - Ruby: Game Framework
@@ -1381,7 +1381,7 @@ _Software to help with game engine / video game development._
 - 💰 [Ken Shape](https://tools.kenney.nl/kenshape/) - Draw in 2D, set the depth for each pixel and generate 3D models!
 - 🎉 [IsoVoxel ![GitHub Repo Stars](https://img.shields.io/github/stars/tommyettinger/IsoVoxel) ![GitHub last commit](https://img.shields.io/github/last-commit/tommyettinger/IsoVoxel)](https://github.com/tommyettinger/IsoVoxel) - Generates isometric pixel art from _MagicaVoxel_ .vox files.
 - 🆓 [MagicaVoxel](https://ephtracy.github.io) - Lightweight voxel art editor.
-- 💰 [Qubicle](http://minddesk.com/) - Popular (Crossy Road, Pacman 256) voxel editor, easy creation of 3D models.
+- �� [Qubicle](http://minddesk.com/) - Popular (Crossy Road, Pacman 256) voxel editor, easy creation of 3D models.
 
 <br />
 <br />
