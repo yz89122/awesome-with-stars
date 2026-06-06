@@ -269,7 +269,7 @@ _Libraries for building RESTful and GraphQL APIs._
   - [connexion ![GitHub Repo Stars](https://img.shields.io/github/stars/spec-first/connexion) ![GitHub last commit](https://img.shields.io/github/last-commit/spec-first/connexion)](https://github.com/spec-first/connexion) - A spec-first framework that automatically handles requests based on your OpenAPI specification.
   - [falcon ![GitHub Repo Stars](https://img.shields.io/github/stars/falconry/falcon) ![GitHub last commit](https://img.shields.io/github/last-commit/falconry/falcon)](https://github.com/falconry/falcon) - A high-performance framework for building cloud APIs and web app backends.
   - [fastapi ![GitHub Repo Stars](https://img.shields.io/github/stars/fastapi/fastapi) ![GitHub last commit](https://img.shields.io/github/last-commit/fastapi/fastapi)](https://github.com/fastapi/fastapi) - A modern, fast, web framework for building APIs with standard Python type hints.
-  - [sanic ![GitHub Repo Stars](https://img.shields.io/github/stars/sanic-org/sanic) ![GitHub last commit](https://img.shields.io/github/last-commit/sanic-org/sanic)](https://github.com/sanic-org/sanic) - A Python 3.6+ web server and web framework that's written to go fast.
+  - [sanic ![GitHub Repo Stars](https://img.shields.io/github/stars/sanic-org/sanic) ![GitHub last commit](https://img.shields.io/github/last-commit/sanic-org/sanic)](https://github.com/sanic-org/sanic) - A Python web server and web framework that's written to go fast.
   - [strawberry ![GitHub Repo Stars](https://img.shields.io/github/stars/strawberry-graphql/strawberry) ![GitHub last commit](https://img.shields.io/github/last-commit/strawberry-graphql/strawberry)](https://github.com/strawberry-graphql/strawberry) - A GraphQL library that leverages Python type annotations for schema definition.
   - [webargs ![GitHub Repo Stars](https://img.shields.io/github/stars/marshmallow-code/webargs) ![GitHub last commit](https://img.shields.io/github/last-commit/marshmallow-code/webargs)](https://github.com/marshmallow-code/webargs) - A friendly library for parsing HTTP request arguments with built-in support for popular web frameworks.
 
@@ -326,7 +326,7 @@ _Libraries for implementing authentication schemes._
 - JWT
   - [pyjwt ![GitHub Repo Stars](https://img.shields.io/github/stars/jpadilla/pyjwt) ![GitHub last commit](https://img.shields.io/github/last-commit/jpadilla/pyjwt)](https://github.com/jpadilla/pyjwt) - JSON Web Token implementation in Python.
 - Permissions
-  - [django-guardian ![GitHub Repo Stars](https://img.shields.io/github/stars/django-guardian/django-guardian) ![GitHub last commit](https://img.shields.io/github/last-commit/django-guardian/django-guardian)](https://github.com/django-guardian/django-guardian) - Implementation of per object permissions for Django 1.2+
+  - [django-guardian ![GitHub Repo Stars](https://img.shields.io/github/stars/django-guardian/django-guardian) ![GitHub last commit](https://img.shields.io/github/last-commit/django-guardian/django-guardian)](https://github.com/django-guardian/django-guardian) - Implementation of per-object permissions for Django.
   - [django-rules ![GitHub Repo Stars](https://img.shields.io/github/stars/dfunckt/django-rules) ![GitHub last commit](https://img.shields.io/github/last-commit/dfunckt/django-rules)](https://github.com/dfunckt/django-rules) - A tiny but powerful app providing object-level permissions to Django, without requiring a database.
 
 ### Admin Panels
@@ -869,7 +869,7 @@ _Libraries for parsing and manipulating plain texts._
 
 - General
   - [babel ![GitHub Repo Stars](https://img.shields.io/github/stars/python-babel/babel) ![GitHub last commit](https://img.shields.io/github/last-commit/python-babel/babel)](https://github.com/python-babel/babel) - An internationalization library for Python.
-  - [chardet ![GitHub Repo Stars](https://img.shields.io/github/stars/chardet/chardet) ![GitHub last commit](https://img.shields.io/github/last-commit/chardet/chardet)](https://github.com/chardet/chardet) - Python 2/3 compatible character encoding detector.
+  - [chardet ![GitHub Repo Stars](https://img.shields.io/github/stars/chardet/chardet) ![GitHub last commit](https://img.shields.io/github/last-commit/chardet/chardet)](https://github.com/chardet/chardet) - Python character encoding detector.
   - [difflib](https://docs.python.org/3/library/difflib.html) - (Python standard library) Helpers for computing deltas.
   - [ftfy ![GitHub Repo Stars](https://img.shields.io/github/stars/rspeer/python-ftfy) ![GitHub last commit](https://img.shields.io/github/last-commit/rspeer/python-ftfy)](https://github.com/rspeer/python-ftfy) - Makes Unicode text less broken and more consistent automagically.
   - [pangu.py ![GitHub Repo Stars](https://img.shields.io/github/stars/vinta/pangu.py) ![GitHub last commit](https://img.shields.io/github/last-commit/vinta/pangu.py)](https://github.com/vinta/pangu.py) - Paranoid text spacing.
