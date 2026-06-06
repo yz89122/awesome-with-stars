@@ -361,7 +361,7 @@ Thanks to all [contributors ![GitHub Repo Stars](https://img.shields.io/github/s
 
 ### PostgreSQL
 
-- [Postgres Weekly](https://postgresweekly.com/). A free, once–weekly e-mail round-up of PostgreSQL news and articles.
+- [Postgres Weekly](https://postgresweekly.com/). A free, once���weekly e-mail round-up of PostgreSQL news and articles.
 
 ### Redis
 
