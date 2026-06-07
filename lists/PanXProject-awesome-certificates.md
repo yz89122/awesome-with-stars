@@ -427,7 +427,7 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 | <a href="https://www.freecodecamp.org/learn/machine-learning-with-python/" target="_blank" rel="noopener noreferrer">Machine Learning with Python Certification</a> | FreeCodeCamp |Professional|300 | 🏆|
 | <a href="https://www.kaggle.com/learn/intro-to-machine-learning" target="_blank" rel="noopener noreferrer">Intro to Machine Learning</a> | Kaggle          | Beginner      | 3     | 🏆     |
 | <a href="https://www.kaggle.com/learn/intermediate-machine-learning" target="_blank" rel="noopener noreferrer">Intermediate Machine Learning</a> | Kaggle | Intermediate | 4     | 🏆     |
-| <a href="https://www.kaggle.com/learn/machine-learning-explainability" target="_blank" rel="noopener noreferrer">Machine Learning Explainability</a> | Kaggle | Intermediate | 4     | ���     |
+| <a href="https://www.kaggle.com/learn/machine-learning-explainability" target="_blank" rel="noopener noreferrer">Machine Learning Explainability</a> | Kaggle | Intermediate | 4     | 🏆     |
 | <a href="https://www.kaggle.com/learn/intro-to-deep-learning" target="_blank" rel="noopener noreferrer">Intro to Deep Learning</a>  | Kaggle          | Intermediate | 4     | 🏆     |
 | <a href="https://www.kaggle.com/learn/time-series" target="_blank" rel="noopener noreferrer">Time Series</a>    | Kaggle          | Intermediate | 5     | 🏆     |
 | <a href="https://www.kaggle.com/learn/feature-engineering" target="_blank" rel="noopener noreferrer">Feature Engineering</a>| Kaggle          | Intermediate | 5     | 🏆     |
@@ -441,7 +441,7 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 
 | Course Name | Course Provider | Level | Hour(s) | Reward |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
-| <a href="https://developers.google.com/learn/pathways/intro-to-flutter" target="_blank" rel="noopener noreferrer">Intro to Flutter</a> | Google | Beginner | 0.2 | 🏅 |
+| <a href="https://developers.google.com/learn/pathways/intro-to-flutter" target="_blank" rel="noopener noreferrer">Intro to Flutter</a> | Google | Beginner | 0.2 | ��� |
 | <a href="https://codehs.com/playlist/hour-of-code-3111" target="_blank" rel="noopener noreferrer">React Native</a> | CodeHS | Beginner | 1 | 🏅 |
 | <a href="https://cursa.app/en/free-online-courses/react-native" target="_blank" rel="noopener noreferrer">React Native for Beginners</a> | Cursa | Beginner | 5 | 🏆 |
 | <a href="https://tutorials.nmdprojects.net/play.html?react_native_html_to_jsx" target="_blank" rel="noopener noreferrer">React Native HTML to JSX</a> | Umaine New Media | Intermediate | 0.2 | 🏅 |
@@ -523,7 +523,7 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 | <a href="https://www.hackerrank.com/skills-verification/python_basic" target="_blank" rel="noopener noreferrer">Python</a> | HackerRank |Beginner| 1.5 | 🏆|
 | <a href="https://memgraph.com/blog/learn-graph-analytics-with-python" target="_blank" rel="noopener noreferrer">Intro to Graph Analytics in Python free course</a> | Memgraph |Intermediate| 3 | 🏅|
 | <a href="https://www.kaggle.com/learn/python" target="_blank" rel="noopener noreferrer">Python</a>                                        | Kaggle          | Beginner      | 5     | 🏆     |
-| <a href="https://www.kaggle.com/learn/pandas" target="_blank" rel="noopener noreferrer">Pandas</a>                                      | Kaggle          | Beginner      | 4     | ��     |
+| <a href="https://www.kaggle.com/learn/pandas" target="_blank" rel="noopener noreferrer">Pandas</a>                                      | Kaggle          | Beginner      | 4     | 🏆     |
 | <a href="https://www.kaggle.com/learn/intro-to-programming" target="_blank" rel="noopener noreferrer">Intro to Programming</a>           | Kaggle          | Beginner      | 5     | 🏆     |
 
 <a href="https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents" target="_blank" rel="noopener noreferrer">⬆️</a>
