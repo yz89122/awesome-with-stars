@@ -285,7 +285,7 @@ _Pair specific camera brands and video sources that Home Assistant does not supp
 
 _Turn Home Assistant into a fully-featured alarm system with arm and disarm flows, user codes, zones, and panic._
 
-- [Alarmo ![GitHub Repo Stars](https://img.shields.io/github/stars/nielsfaber/alarmo) ![GitHub last commit](https://img.shields.io/github/last-commit/nielsfaber/alarmo)](https://github.com/nielsfaber/alarmo) - Easy-to-use alarm system with arm/disarm flows, user codes, zones, and panic mode (2,130���).
+- [Alarmo ![GitHub Repo Stars](https://img.shields.io/github/stars/nielsfaber/alarmo) ![GitHub last commit](https://img.shields.io/github/last-commit/nielsfaber/alarmo)](https://github.com/nielsfaber/alarmo) - Easy-to-use alarm system with arm/disarm flows, user codes, zones, and panic mode (2,130★).
 - [Keymaster ![GitHub Repo Stars](https://img.shields.io/github/stars/FutureTense/keymaster) ![GitHub last commit](https://img.shields.io/github/last-commit/FutureTense/keymaster)](https://github.com/FutureTense/keymaster) - Manages user codes on Z-Wave smart locks, including per-user schedules, one-time codes, and notifications (330★).
 
 ### 🔊 Voice & media playback
