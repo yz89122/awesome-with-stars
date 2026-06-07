@@ -287,7 +287,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [cgltf ![GitHub Repo Stars](https://img.shields.io/github/stars/jkuhlmann/cgltf) ![GitHub last commit](https://img.shields.io/github/last-commit/jkuhlmann/cgltf)](https://github.com/jkuhlmann/cgltf) - Single-file glTF 2.0 loader and writer in C99.
     - ⭐ [dr_libs ![GitHub Repo Stars](https://img.shields.io/github/stars/mackron/dr_libs) ![GitHub last commit](https://img.shields.io/github/last-commit/mackron/dr_libs)](https://github.com/mackron/dr_libs) - Single-file audio decoding libraries.
     - 🎉 [Libspng ![GitHub Repo Stars](https://img.shields.io/github/stars/randy408/libspng) ![GitHub last commit](https://img.shields.io/github/last-commit/randy408/libspng)](https://github.com/randy408/libspng) - Simple, modern libpng alternative.
-    - �� [Miniz ![GitHub Repo Stars](https://img.shields.io/github/stars/richgel999/miniz) ![GitHub last commit](https://img.shields.io/github/last-commit/richgel999/miniz)](https://github.com/richgel999/miniz) - Single-file drop-in replacement for zlib's most used APIs (_libpng_ and _libzip_).
+    - 🎉 [Miniz ![GitHub Repo Stars](https://img.shields.io/github/stars/richgel999/miniz) ![GitHub last commit](https://img.shields.io/github/last-commit/richgel999/miniz)](https://github.com/richgel999/miniz) - Single-file drop-in replacement for zlib's most used APIs (_libpng_ and _libzip_).
     - 🎉 [OBJ GL Loader v2 ![GitHub Repo Stars](https://img.shields.io/github/stars/karolek471/objgl) ![GitHub last commit](https://img.shields.io/github/last-commit/karolek471/objgl)](https://github.com/karolek471/objgl) - Quite fast wavefront OBJ loader for OpenGL.
     - 🎉 [PL_MPEG ![GitHub Repo Stars](https://img.shields.io/github/stars/phoboslab/pl_mpeg) ![GitHub last commit](https://img.shields.io/github/last-commit/phoboslab/pl_mpeg)](https://github.com/phoboslab/pl_mpeg) - Single-file library for decoding MPEG1 Video and MP2 Audio.
     - 🎉 [QOI ![GitHub Repo Stars](https://img.shields.io/github/stars/phoboslab/qoi) ![GitHub last commit](https://img.shields.io/github/last-commit/phoboslab/qoi)](https://github.com/phoboslab/qoi) - The “Quite OK Image Format” for fast, lossless image compression.
@@ -1381,7 +1381,7 @@ _Software to help with game engine / video game development._
 - 💰 [Ken Shape](https://tools.kenney.nl/kenshape/) - Draw in 2D, set the depth for each pixel and generate 3D models!
 - 🎉 [IsoVoxel ![GitHub Repo Stars](https://img.shields.io/github/stars/tommyettinger/IsoVoxel) ![GitHub last commit](https://img.shields.io/github/last-commit/tommyettinger/IsoVoxel)](https://github.com/tommyettinger/IsoVoxel) - Generates isometric pixel art from _MagicaVoxel_ .vox files.
 - 🆓 [MagicaVoxel](https://ephtracy.github.io) - Lightweight voxel art editor.
-- �� [Qubicle](http://minddesk.com/) - Popular (Crossy Road, Pacman 256) voxel editor, easy creation of 3D models.
+- 💰 [Qubicle](http://minddesk.com/) - Popular (Crossy Road, Pacman 256) voxel editor, easy creation of 3D models.
 
 <br />
 <br />
