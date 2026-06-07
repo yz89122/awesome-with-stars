@@ -773,6 +773,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [YuleLog ![GitHub Repo Stars](https://img.shields.io/github/stars/Duroktar/YuleLog) ![GitHub last commit](https://img.shields.io/github/last-commit/Duroktar/YuleLog)](https://github.com/Duroktar/YuleLog) - Christmas Yule Log fireplace.
 - [cli-fireplace ![GitHub Repo Stars](https://img.shields.io/github/stars/dolsup/cli-fireplace) ![GitHub last commit](https://img.shields.io/github/last-commit/dolsup/cli-fireplace)](https://github.com/dolsup/cli-fireplace) - Digital fireplace.
 - [gitlogue ![GitHub Repo Stars](https://img.shields.io/github/stars/unhappychoice/gitlogue) ![GitHub last commit](https://img.shields.io/github/last-commit/unhappychoice/gitlogue)](https://github.com/unhappychoice/gitlogue) - Cinematic git commit replay.
+- [drift ![GitHub Repo Stars](https://img.shields.io/github/stars/phlx0/drift) ![GitHub last commit](https://img.shields.io/github/last-commit/phlx0/drift)](https://github.com/phlx0/drift) - Multiple animated scenes.
 
 ## Graphics
 
