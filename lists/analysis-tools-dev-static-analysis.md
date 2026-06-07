@@ -993,7 +993,7 @@ It uses the pycodestyle utility to determine what parts of the code needs to be 
 
 - [wemake-python-styleguide](https://wemake-python-styleguide.rtfd.io/) — The strictest and most opinionated python linter ever.
 
-- [wily ![GitHub Repo Stars](https://img.shields.io/github/stars/tonybaloney/wily) ![GitHub last commit](https://img.shields.io/github/last-commit/tonybaloney/wily)](https://github.com/tonybaloney/wily) �� A command-line tool for archiving, exploring and graphing the complexity of Python source code.
+- [wily ![GitHub Repo Stars](https://img.shields.io/github/stars/tonybaloney/wily) ![GitHub last commit](https://img.shields.io/github/last-commit/tonybaloney/wily)](https://github.com/tonybaloney/wily) — A command-line tool for archiving, exploring and graphing the complexity of Python source code.
 
 - **xenon** :warning: — Monitor code complexity using [`radon` ![GitHub Repo Stars](https://img.shields.io/github/stars/rubik/radon) ![GitHub last commit](https://img.shields.io/github/last-commit/rubik/radon)](https://github.com/rubik/radon).
 
