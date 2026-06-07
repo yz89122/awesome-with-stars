@@ -138,6 +138,7 @@ Inspired by the [awesome ![GitHub Repo Stars](https://img.shields.io/github/star
 - [mpv](https://mpv.io) - Superior video player.
 - [editly ![GitHub Repo Stars](https://img.shields.io/github/stars/mifi/editly) ![GitHub last commit](https://img.shields.io/github/last-commit/mifi/editly)](https://github.com/mifi/editly) - Declarative video editing.
 - [yt-dlp ![GitHub Repo Stars](https://img.shields.io/github/stars/yt-dlp/yt-dlp) ![GitHub last commit](https://img.shields.io/github/last-commit/yt-dlp/yt-dlp)](https://github.com/yt-dlp/yt-dlp) - A `youtube-dl` fork with additional features and fixes.
+- [cinema ![GitHub Repo Stars](https://img.shields.io/github/stars/marm00/cinema) ![GitHub last commit](https://img.shields.io/github/last-commit/marm00/cinema)](https://github.com/marm00/cinema) - Multiviewer for videos and streams.
 
 ### Movies
 
@@ -164,6 +165,7 @@ Inspired by the [awesome ![GitHub Repo Stars](https://img.shields.io/github/star
 - [WeeChat](https://weechat.org/) - Fast, light and extensible chat client.
 - [irssi ![GitHub Repo Stars](https://img.shields.io/github/stars/irssi/irssi) ![GitHub last commit](https://img.shields.io/github/last-commit/irssi/irssi)](https://github.com/irssi/irssi) - IRC chat client.
 - [kirc ![GitHub Repo Stars](https://img.shields.io/github/stars/mcpcpc/kirc) ![GitHub last commit](https://img.shields.io/github/last-commit/mcpcpc/kirc)](https://github.com/mcpcpc/kirc) - Tiny IRC client.
+- [concord ![GitHub Repo Stars](https://img.shields.io/github/stars/chojs23/concord) ![GitHub last commit](https://img.shields.io/github/last-commit/chojs23/concord)](https://github.com/chojs23/concord) - Discord client.
 
 ## Development
 
