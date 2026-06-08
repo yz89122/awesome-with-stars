@@ -748,6 +748,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [pageres-cli ![GitHub Repo Stars](https://img.shields.io/github/stars/sindresorhus/pageres-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/sindresorhus/pageres-cli)](https://github.com/sindresorhus/pageres-cli) - Capture website screenshots.
 - [optimizt ![GitHub Repo Stars](https://img.shields.io/github/stars/343dev/optimizt) ![GitHub last commit](https://img.shields.io/github/last-commit/343dev/optimizt)](https://github.com/343dev/optimizt) - Helps prepare images for the web.
 - [freeze ![GitHub Repo Stars](https://img.shields.io/github/stars/charmbracelet/freeze) ![GitHub last commit](https://img.shields.io/github/last-commit/charmbracelet/freeze)](https://github.com/charmbracelet/freeze) - Generate images of code and terminal output.
+- [rclip ![GitHub Repo Stars](https://img.shields.io/github/stars/yurijmikhalevich/rclip) ![GitHub last commit](https://img.shields.io/github/last-commit/yurijmikhalevich/rclip)](https://github.com/yurijmikhalevich/rclip) - Semantic photo search.
 
 ### Gif Creation
 
@@ -817,6 +818,7 @@ Inclusion criteria are less strict for this fast-moving field.
 - [actionbook ![GitHub Repo Stars](https://img.shields.io/github/stars/actionbook/actionbook) ![GitHub last commit](https://img.shields.io/github/last-commit/actionbook/actionbook)](https://github.com/actionbook/actionbook) - Parallel browser interaction for agents.
 - [lean-ctx ![GitHub Repo Stars](https://img.shields.io/github/stars/yvgude/lean-ctx) ![GitHub last commit](https://img.shields.io/github/last-commit/yvgude/lean-ctx)](https://github.com/yvgude/lean-ctx) - Token-saving context runtime for agents.
 - [hcom ![GitHub Repo Stars](https://img.shields.io/github/stars/aannoo/hcom) ![GitHub last commit](https://img.shields.io/github/last-commit/aannoo/hcom)](https://github.com/aannoo/hcom) - Orchestration and communication layer for managing multiple agents in their respective TUI apps.
+- [toktrack ![GitHub Repo Stars](https://img.shields.io/github/stars/mag123c/toktrack) ![GitHub last commit](https://img.shields.io/github/last-commit/mag123c/toktrack)](https://github.com/mag123c/toktrack) - Track token usage and cost across all agents.
 
 ### LLM Interaction
 - [aye-chat ![GitHub Repo Stars](https://img.shields.io/github/stars/acrotron/aye-chat) ![GitHub last commit](https://img.shields.io/github/last-commit/acrotron/aye-chat)](https://github.com/acrotron/aye-chat) - Workspace for editing, running commands, and chatting with your codebase.
