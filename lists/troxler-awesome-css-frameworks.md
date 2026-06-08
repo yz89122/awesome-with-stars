@@ -155,7 +155,7 @@ Frameworks that are smaller than ~10KB.
   [Demo](https://cirrus-ui.netlify.app/getting-started/examples),
   [Docs](https://cirrus-ui.netlify.app/getting-started/setup),
   [Repo ![GitHub Repo Stars](https://img.shields.io/github/stars/Spiderpig86/Cirrus) ![GitHub last commit](https://img.shields.io/github/last-commit/Spiderpig86/Cirrus)](https://github.com/Spiderpig86/Cirrus)
-  | #CSS
+  | #SCSS
 
 - [**Vanilla Framework**](https://vanillaframework.io/) - Simple, extensible CSS framework. Written by the Canonical Web Team.  
   ![](https://img.shields.io/github/stars/canonical-web-and-design/vanilla-framework.svg?style=social&label=Star)
