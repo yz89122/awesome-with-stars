@@ -360,7 +360,7 @@ The storefront of Magento 2 can be styled in numerous ways:
 - [M.academy](https://m.academy/blog/) - Blog from the M.academy team.
 
 <details>
-<summary>🪦 Graveyard — projects no longer recommended</summary>
+<summary>���� Graveyard — projects no longer recommended</summary>
 
 - [bitExpert AG](https://blog.bitexpert.de/blog/tags/magento) - bitExpert's Magento-tagged blog posts.
 - [Fooman](http://store.fooman.co.nz/blog) - Fooman's Magento extension and development blog.
@@ -483,7 +483,7 @@ Community members worth following — talks, blog posts, open-source maintenance
 - [Mageres ![GitHub Repo Stars](https://img.shields.io/github/stars/aleron75/mageres) ![GitHub last commit](https://img.shields.io/github/last-commit/aleron75/mageres)](https://github.com/aleron75/mageres) - Alessandro Ronchi's list of resources for Magento 1 and Magento 2.
 
 <details>
-<summary>🪦 Graveyard ��� projects no longer recommended</summary>
+<summary>🪦 Graveyard — projects no longer recommended</summary>
 
 - [Awesome Magento ![GitHub Repo Stars](https://img.shields.io/github/stars/sunel/awesome-magento) ![GitHub last commit](https://img.shields.io/github/last-commit/sunel/awesome-magento)](https://github.com/sunel/awesome-magento) - An awesome Magento list with mixed M1 and M2 content by sunel.
 
