@@ -1075,7 +1075,7 @@ Wifi | Power | Address | Open Hours
 
 Wifi | Power | Address | Open Hours
 ---- | ----- | -------------- | -------
-✔ | ��� | [C. de Rocafort, 35, 08015 Barcelona](https://goo.gl/maps/bUuKBrot4EWwnp1E9) | Mo-Su 06:00-22:00
+✔ | ✔ | [C. de Rocafort, 35, 08015 Barcelona](https://goo.gl/maps/bUuKBrot4EWwnp1E9) | Mo-Su 06:00-22:00
 
 ![Speedtest result](https://www.speedtest.net/result/11650923969.png)
 

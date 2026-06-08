@@ -5,11 +5,13 @@
 
 Welcome to the curated list of Web Performance Optimization resources. This repository aims to gather the best tools, articles, blogs, books, and talks related to optimizing website performance. Whether you're a developer, designer, or performance enthusiast, you'll find valuable content here to supercharge your web projects.
 
+> :globe_with_meridians: **Browse online:** This list is also available as a website at **[awesome-wpo.dev](https://awesome-wpo.dev/)**.
+
 ## Categories
 
-:memo: [Awesome WPO / Articles](#articles)
+:globe_with_meridians: [Awesome WPO / Website](https://awesome-wpo.dev/)
 
-:newspaper: [Awesome WPO / Blogs](#blogs)
+:memo: [Awesome WPO / Articles](#articles)
 
 :books: [Awesome WPO / Books](#books)
 
@@ -62,11 +64,7 @@ Here's a quick overview of the categories covered in this collection:
 
 ## Articles
 
-> Go to [ARTICLES.md](content/ARTICLES.md).
-
-## Blogs
-
-> Go to [BLOGS](content/BLOGS.md).
+> Browse on [awesome-wpo.dev](https://awesome-wpo.dev/) or see [ARTICLES.md](ARTICLES.md).
 
 ## Books
 
@@ -105,6 +103,7 @@ Here's a quick overview of the categories covered in this collection:
 - [Best Practices for Speeding Up Your site](https://developer.yahoo.com/performance/rules.html) - The list includes 35 best practices divided into 7 categories, created by Yahoo! Exceptional Performance team.
 - [Chrome Developers: Performance](https://developer.chrome.com/docs/performance/) - Deep guides on rendering, loading, and runtime performance.
 - [Lighthouse Docs](https://developer.chrome.com/docs/lighthouse/) - Audit methodology, scoring details, and usage guidance.
+- [Code Splitting (Webpack)](https://webpack.js.org/guides/code-splitting/) - Official guide to splitting JavaScript bundles for faster initial load and on-demand loading.
 - [Navigation Timing API (MDN)](https://developer.mozilla.org/en-US/docs/Web/API/Navigation_timing_API) - Page navigation and load milestone metrics.
 - [Navigation Timing Level 2 (W3C)](https://www.w3.org/TR/navigation-timing-2/) - Use `responseStart` and `requestStart` to derive Time to First Byte (TTFB).
 - [Resource Timing API (MDN)](https://developer.mozilla.org/en-US/docs/Web/API/Resource_Timing_API) - Detailed network timing for assets.
@@ -126,11 +125,11 @@ Here's a quick overview of the categories covered in this collection:
 
 ### Meetups
 
-> They are categorized into [content/MEETUPS.md](content/MEETUPS.md).
+> Browse on [awesome-wpo.dev](https://awesome-wpo.dev/) or see [MEETUPS.md](MEETUPS.md).
 
 ## Talks
 
-> They are categorized into [content/TALKS.md](content/TALKS.md).
+> Browse on [awesome-wpo.dev](https://awesome-wpo.dev/) or see [TALKS.md](TALKS.md).
 
 ## Tools
 
@@ -301,6 +300,7 @@ Here's a quick overview of the categories covered in this collection:
 - [ImageKit.io](https://imagekit.io) - Intelligent real-time image optimizations, image transformations with a global delivery network and storage.
 - [Optimizt ![GitHub Repo Stars](https://img.shields.io/github/stars/343dev/optimizt) ![GitHub last commit](https://img.shields.io/github/last-commit/343dev/optimizt)](https://github.com/343dev/optimizt) - CLI image optimization tool. It can compress PNG, JPEG, GIF and SVG lossy and lossless, and also create AVIF and WebP versions for raster images.
 - [ResponsiveImage](https://responsive-image.dev/) - Generate optimized images (WebP, AVIF) and LQIP placeholders using Vite or Webpack plugins and render responsive image markup with an image component for multiple frameworks.
+- [Adaptive Images](https://adaptive-images.com/) - Server-side PHP tool that detects screen size and automatically creates, caches, and delivers device-appropriate resized images from existing `<img>` markup.
 
 ## Lazyloaders
 
@@ -379,6 +379,7 @@ Here's a quick overview of the categories covered in this collection:
 - [Critical ![GitHub Repo Stars](https://img.shields.io/github/stars/addyosmani/critical) ![GitHub last commit](https://img.shields.io/github/last-commit/addyosmani/critical)](https://github.com/addyosmani/critical) - Extract & Inline Critical-path CSS in HTML pages (alpha).
 - [Csscolormin ![GitHub Repo Stars](https://img.shields.io/github/stars/stoyan/csscolormin) ![GitHub last commit](https://img.shields.io/github/last-commit/stoyan/csscolormin)](https://github.com/stoyan/csscolormin) - Utility that minifies CSS colors, example: min("white"); // minifies to "#fff".
 - [Lazysizes ![GitHub Repo Stars](https://img.shields.io/github/stars/aFarkas/lazysizes) ![GitHub last commit](https://img.shields.io/github/last-commit/aFarkas/lazysizes)](https://github.com/aFarkas/lazysizes) - High-performance lazy loader for images (responsive and normal), iframes, and scripts, that detects any visibility changes triggered through user interaction, CSS or JavaScript without configuration.
+- [react-virtualized ![GitHub Repo Stars](https://img.shields.io/github/stars/bvaughn/react-virtualized) ![GitHub last commit](https://img.shields.io/github/last-commit/bvaughn/react-virtualized)](https://github.com/bvaughn/react-virtualized) - React components for efficiently rendering large lists and tabular data by virtualizing visible rows.
 - [TMI ![GitHub Repo Stars](https://img.shields.io/github/stars/addyosmani/tmi) ![GitHub last commit](https://img.shields.io/github/last-commit/addyosmani/tmi)](https://github.com/addyosmani/tmi) - Too Many Images: discover your image weight on the web.
 
 ## SVG
