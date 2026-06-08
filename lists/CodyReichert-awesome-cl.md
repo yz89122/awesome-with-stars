@@ -799,7 +799,6 @@ These are libraries for working with graphics, rather than making GUIs (i.e. wid
 These are bindings:
 
 * [glfw ![GitHub Repo Stars](https://img.shields.io/github/stars/shirakumo/glfw) ![GitHub last commit](https://img.shields.io/github/last-commit/shirakumo/glfw)](https://github.com/shirakumo/glfw) - An up-to-date Common Lisp bindings library to the most recent GLFW OpenGL context management library.
-* [common-cv ![GitHub Repo Stars](https://img.shields.io/github/stars/byulparan/common-cv) ![GitHub last commit](https://img.shields.io/github/last-commit/byulparan/common-cv)](https://github.com/byulparan/common-cv) - the OpenCV (Open Source Computer Vision Library) binding library for CommonLisp. No license specified.
 * [cl-cairo2 ![GitHub Repo Stars](https://img.shields.io/github/stars/rpav/cl-cairo2) ![GitHub last commit](https://img.shields.io/github/last-commit/rpav/cl-cairo2)](https://github.com/rpav/cl-cairo2) - Cairo bindings. [Boost 1.0][54]
 * [cl-gd](http://weitz.de/cl-gd/) - A library providing an interface to the GD graphics library. [FreeBSD][39].
 * [cl-horde3d ![GitHub Repo Stars](https://img.shields.io/github/stars/anwyn/cl-horde3d) ![GitHub last commit](https://img.shields.io/github/last-commit/anwyn/cl-horde3d)](https://github.com/anwyn/cl-horde3d/) - FFI bindings to the Horde3D graphics library. Not available on Quicklisp. [EPL 1.0][59]
