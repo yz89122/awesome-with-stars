@@ -202,6 +202,7 @@ See [Vivraan/godot-lang-support ![GitHub Repo Stars](https://img.shields.io/gith
 
 #### Godot 4
 
+- [2dog](https://2dog.dev) - Run and control Godot in .NET, create unit tests, custom developer and CI workflows using your existing .NET tools and IDEs.
 - [3D Auto Collision Generator ![GitHub Repo Stars](https://img.shields.io/github/stars/ThGnommy/godot_3d_auto_collision_generator) ![GitHub last commit](https://img.shields.io/github/last-commit/ThGnommy/godot_3d_auto_collision_generator)](https://github.com/ThGnommy/godot_3d_auto_collision_generator) - Generate collision for multiple 3D objects in one click.
 - [AgonesSDK ![GitHub Repo Stars](https://img.shields.io/github/stars/AndreMicheletti/godot-agones-sdk) ![GitHub last commit](https://img.shields.io/github/last-commit/AndreMicheletti/godot-agones-sdk)](https://github.com/AndreMicheletti/godot-agones-sdk) - Plugin to add [Agones ![GitHub Repo Stars](https://img.shields.io/github/stars/googleforgames/agones) ![GitHub last commit](https://img.shields.io/github/last-commit/googleforgames/agones)](https://github.com/googleforgames/agones) SDK functionality to Godot.
 - [AnimatedShape2D ![GitHub Repo Stars](https://img.shields.io/github/stars/Goutte/godot-addon-animated-shape-2d) ![GitHub last commit](https://img.shields.io/github/last-commit/Goutte/godot-addon-animated-shape-2d)](https://github.com/Goutte/godot-addon-animated-shape-2d) - Animate a CollisionShape2D along with the frames of an AnimatedSprite2D.
