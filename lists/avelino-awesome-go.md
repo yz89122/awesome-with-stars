@@ -2395,6 +2395,7 @@ _Libraries that are used to help make your application more secure._
 - [encid ![GitHub Repo Stars](https://img.shields.io/github/stars/bobg/encid) ![GitHub last commit](https://img.shields.io/github/last-commit/bobg/encid)](https://github.com/bobg/encid) - Encode and decode encrypted integer IDs.
 - [entpassgen ![GitHub Repo Stars](https://img.shields.io/github/stars/andreimerlescu/entpassgen) ![GitHub last commit](https://img.shields.io/github/last-commit/andreimerlescu/entpassgen)](https://github.com/andreimerlescu/entpassgen) - Entropy Password Generator with extensive command line arguments to generate random strings securely including digits, passwords, and passwords built using obscure dictionary words mixed with symbols and digits.
 - [firewalld-rest ![GitHub Repo Stars](https://img.shields.io/github/stars/prashantgupta24/firewalld-rest) ![GitHub last commit](https://img.shields.io/github/last-commit/prashantgupta24/firewalld-rest)](https://github.com/prashantgupta24/firewalld-rest) - A rest application to dynamically update firewalld rules on a linux server.
+- [fort ![GitHub Repo Stars](https://img.shields.io/github/stars/djadmin/fort) ![GitHub last commit](https://img.shields.io/github/last-commit/djadmin/fort)](https://github.com/djadmin/fort) - Audits macOS security settings across 16 checks, reports a score, and fixes issues where it safely can. Single binary, installable via Homebrew.
 - [go-generate-password ![GitHub Repo Stars](https://img.shields.io/github/stars/m1/go-generate-password) ![GitHub last commit](https://img.shields.io/github/last-commit/m1/go-generate-password)](https://github.com/m1/go-generate-password) - Password generator that can be used on the cli or as a library.
 - [go-htpasswd ![GitHub Repo Stars](https://img.shields.io/github/stars/tg123/go-htpasswd) ![GitHub last commit](https://img.shields.io/github/last-commit/tg123/go-htpasswd)](https://github.com/tg123/go-htpasswd) - Apache htpasswd Parser for Go.
 - [go-password-validator ![GitHub Repo Stars](https://img.shields.io/github/stars/lane-c-wagner/go-password-validator) ![GitHub last commit](https://img.shields.io/github/last-commit/lane-c-wagner/go-password-validator)](https://github.com/lane-c-wagner/go-password-validator) - Password validator based on raw cryptographic entropy values.
@@ -2501,7 +2502,7 @@ _Libraries and tools for binary serialization._
 - [Wish ![GitHub Repo Stars](https://img.shields.io/github/stars/charmbracelet/wish) ![GitHub last commit](https://img.shields.io/github/last-commit/charmbracelet/wish)](https://github.com/charmbracelet/wish) - Make SSH apps, just like that!
 - [Kono ![GitHub Repo Stars](https://img.shields.io/github/stars/starwalkn/kono) ![GitHub last commit](https://img.shields.io/github/last-commit/starwalkn/kono)](https://github.com/starwalkn/kono) - lightweight extendable API Gateway in Go - parallel fan-out, flexible aggregation, and zero configuration magic.
 
-**[��� back to top](#contents)**
+**[⬆ back to top](#contents)**
 
 ## Stream Processing
 
