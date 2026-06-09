@@ -327,7 +327,7 @@ The storefront of Magento 2 can be styled in numerous ways:
 
 ### Progressive Web Application
 
-- [ScandiPWA Theme ![GitHub Repo Stars](https://img.shields.io/github/stars/scandipwa/base-theme) ![GitHub last commit](https://img.shields.io/github/last-commit/scandipwa/base-theme)](https://github.com/scandipwa/base-theme) 🔥 - Magento 2.3+ PWA theme based on React and Redux.
+- [ScandiPWA Theme ![GitHub Repo Stars](https://img.shields.io/github/stars/scandipwa/base-theme) ![GitHub last commit](https://img.shields.io/github/last-commit/scandipwa/base-theme)](https://github.com/scandipwa/base-theme) ���� - Magento 2.3+ PWA theme based on React and Redux.
 - [graphcommerce ![GitHub Repo Stars](https://img.shields.io/github/stars/graphcommerce-org/graphcommerce) ![GitHub last commit](https://img.shields.io/github/last-commit/graphcommerce-org/graphcommerce)](https://github.com/graphcommerce-org/graphcommerce) 🫡 - GraphCommerce® is a headless storefront replacement for Magento 2 (PWA), that delivers a faster, better user experience. Fully customizable (React, Next.js) and open-source.
 - [magento2-default-theme ![GitHub Repo Stars](https://img.shields.io/github/stars/hyva-themes/magento2-default-theme) ![GitHub last commit](https://img.shields.io/github/last-commit/hyva-themes/magento2-default-theme)](https://github.com/hyva-themes/magento2-default-theme) - A Magento theme built with Tailwind
 - [magento2-theme-module ![GitHub Repo Stars](https://img.shields.io/github/stars/hyva-themes/magento2-theme-module) ![GitHub last commit](https://img.shields.io/github/last-commit/hyva-themes/magento2-theme-module)](https://github.com/hyva-themes/magento2-theme-module) - Magento Tailwind Theme companion module
