@@ -238,6 +238,7 @@ _Libraries for building programs that leverage AI._
 - [OllamaFarm ![GitHub Repo Stars](https://img.shields.io/github/stars/presbrey/ollamafarm) ![GitHub last commit](https://img.shields.io/github/last-commit/presbrey/ollamafarm)](https://github.com/presbrey/ollamafarm) - Manage, load-balance, and failover packs of Ollamas.
 - [otellix ![GitHub Repo Stars](https://img.shields.io/github/stars/oluwajubelo1/otellix) ![GitHub last commit](https://img.shields.io/github/last-commit/oluwajubelo1/otellix)](https://github.com/oluwajubelo1/otellix) - OpenTelemetry-native LLM observability and budget guardrails for cost-constrained production environments.
 - [routex ![GitHub Repo Stars](https://img.shields.io/github/stars/Ad3bay0c/routex) ![GitHub last commit](https://img.shields.io/github/last-commit/Ad3bay0c/routex)](https://github.com/Ad3bay0c/routex) - YAML-driven multi-agent AI runtime for Go with Erlang-style supervision, MCP tool server support, and a CLI.
+- [trpc-agent-go ![GitHub Repo Stars](https://img.shields.io/github/stars/trpc-group/trpc-agent-go) ![GitHub last commit](https://img.shields.io/github/last-commit/trpc-group/trpc-agent-go)](https://github.com/trpc-group/trpc-agent-go) - Framework for building LLM-based multi-agent systems.
 - [web-researcher-mcp ![GitHub Repo Stars](https://img.shields.io/github/stars/zoharbabin/web-researcher-mcp) ![GitHub last commit](https://img.shields.io/github/last-commit/zoharbabin/web-researcher-mcp)](https://github.com/zoharbabin/web-researcher-mcp) - MCP server providing AI assistants with web search, content extraction, and multi-source research capabilities. Single binary, 5 search providers with circuit-breaker failover, 4-tier scraping pipeline.
 - [zenflow ![GitHub Repo Stars](https://img.shields.io/github/stars/zendev-sh/zenflow) ![GitHub last commit](https://img.shields.io/github/last-commit/zendev-sh/zenflow)](https://github.com/zendev-sh/zenflow) - Multi-agent orchestration & workflow engine. Declarative YAML workflows, LLM coordinator with hub-and-spoke mailboxes, race-safe delivery. One YAML file, one Go binary. Runs on any goai-supported provider.
 
@@ -2500,7 +2501,7 @@ _Libraries and tools for binary serialization._
 - [Wish ![GitHub Repo Stars](https://img.shields.io/github/stars/charmbracelet/wish) ![GitHub last commit](https://img.shields.io/github/last-commit/charmbracelet/wish)](https://github.com/charmbracelet/wish) - Make SSH apps, just like that!
 - [Kono ![GitHub Repo Stars](https://img.shields.io/github/stars/starwalkn/kono) ![GitHub last commit](https://img.shields.io/github/last-commit/starwalkn/kono)](https://github.com/starwalkn/kono) - lightweight extendable API Gateway in Go - parallel fan-out, flexible aggregation, and zero configuration magic.
 
-**[⬆ back to top](#contents)**
+**[��� back to top](#contents)**
 
 ## Stream Processing
 
