@@ -1275,6 +1275,7 @@ _Exploring specialty game engine / game development topics and features._
 _Software to help with game engine / video game development._
 
 ### 2D Game Dev
+- 🆓 [Sprite Fusion](https://www.spritefusion.com/) - Free, web-based 2D tilemap editor with export to Unity, Godot, and more.
 - 💰 [Sprite Illuminator](https://www.codeandweb.com/spriteilluminator) - Create stunning light effects with 2D sprites in your game engine.
 - 💰 [Texture Packer](https://www.codeandweb.com/texturepacker) - Create sprite sheets and optimize your game graphics.
 - 🆓 [Tiled](https://www.mapeditor.org) - General-purpose tile map editor for all tile-based games. [[Source ![GitHub Repo Stars](https://img.shields.io/github/stars/mapeditor/tiled) ![GitHub last commit](https://img.shields.io/github/last-commit/mapeditor/tiled)](https://github.com/mapeditor/tiled)]
@@ -1381,7 +1382,7 @@ _Software to help with game engine / video game development._
 - 💰 [Ken Shape](https://tools.kenney.nl/kenshape/) - Draw in 2D, set the depth for each pixel and generate 3D models!
 - 🎉 [IsoVoxel ![GitHub Repo Stars](https://img.shields.io/github/stars/tommyettinger/IsoVoxel) ![GitHub last commit](https://img.shields.io/github/last-commit/tommyettinger/IsoVoxel)](https://github.com/tommyettinger/IsoVoxel) - Generates isometric pixel art from _MagicaVoxel_ .vox files.
 - 🆓 [MagicaVoxel](https://ephtracy.github.io) - Lightweight voxel art editor.
-- �� [Qubicle](http://minddesk.com/) - Popular (Crossy Road, Pacman 256) voxel editor, easy creation of 3D models.
+- 💰 [Qubicle](http://minddesk.com/) - Popular (Crossy Road, Pacman 256) voxel editor, easy creation of 3D models.
 
 <br />
 <br />
