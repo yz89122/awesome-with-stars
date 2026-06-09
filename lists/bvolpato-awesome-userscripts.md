@@ -773,7 +773,7 @@ Userscripts can be used w/ the following browsers:
             Install</a> /
         📖 <a href="https://github.com/pionxzh/chatgpt-exporter#readme">
             Readme</a> /
-        �� <a href="https://github.com/pionxzh/chatgpt-exporter/issues">
+        🐛 <a href="https://github.com/pionxzh/chatgpt-exporter/issues">
             Report bug</a>
     </blockquote>
 </details>
