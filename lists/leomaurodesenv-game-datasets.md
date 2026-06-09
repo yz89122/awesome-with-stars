@@ -54,7 +54,6 @@ API is _"a set of functions and procedures allowing the creation of applications
 - [smm-course-viewer ![GitHub Repo Stars](https://img.shields.io/github/stars/leomaurodesenv/smm-course-viewer) ![GitHub last commit](https://img.shields.io/github/last-commit/leomaurodesenv/smm-course-viewer)](https://github.com/leomaurodesenv/smm-course-viewer) - Read courses from Super Mario Maker saves.
 - [smm-maker-profile ![GitHub Repo Stars](https://img.shields.io/github/stars/leomaurodesenv/smm-maker-profile) ![GitHub last commit](https://img.shields.io/github/last-commit/leomaurodesenv/smm-maker-profile)](https://github.com/leomaurodesenv/smm-maker-profile) - Fetch the user profile from Super Mario Maker game.
 - [Steam Database](https://github.com/SteamDatabase) - Series of tools to Steam data. [Website](https://steamdb.info/).
-- [Steambase](https://github.com/Steambase) - Steam data tools and insights. [Website](https://steambase.io/).
 - [Steam Spy ![GitHub Repo Stars](https://img.shields.io/github/stars/topics/steamspy) ![GitHub last commit](https://img.shields.io/github/last-commit/topics/steamspy)](https://github.com/topics/steamspy) - Game statistical from Steam users profiles.
 - [Steam Web API](https://developer.valvesoftware.com/wiki/Steam_Web_API) - Query tool from Steam.
 - [TGDB ![GitHub Repo Stars](https://img.shields.io/github/stars/TheGamesDB/TheGamesDB) ![GitHub last commit](https://img.shields.io/github/last-commit/TheGamesDB/TheGamesDB)](https://github.com/TheGamesDB/TheGamesDB/) - General information of games from any platform. [Website](https://thegamesdb.net/).
@@ -262,7 +261,6 @@ ______________________________________________________________________
 - [Libre Game Wiki](https://libregamewiki.org/Main_Page) - Free gaming encyclopedia.
 - [Open HTML5 Games](https://github.com/OpenHTML5Games) - JavaScript and HTML5 games.
 - [Open-source games](https://pt.wikipedia.org/wiki/Lista_de_jogos_de_c%C3%B3digo_aberto) - Open-source games (PT-BR).
-- [Reddit - Datasets](https://www.reddit.com/r/datasets) - Forum of datasets.
 - [UCI](https://archive.ics.uci.edu/) - Datasets.
 
 ______________________________________________________________________
