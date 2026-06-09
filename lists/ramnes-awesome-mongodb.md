@@ -250,6 +250,7 @@ Services:
 
 ### Desktop
  - [Compass ![GitHub Repo Stars](https://img.shields.io/github/stars/mongodb-js/compass) ![GitHub last commit](https://img.shields.io/github/last-commit/mongodb-js/compass)](https://github.com/mongodb-js/compass) - Free Cross-platform GUI from MongoDB
+ - [DocKit ![GitHub Repo Stars](https://img.shields.io/github/stars/geek-fun/dockit) ![GitHub last commit](https://img.shields.io/github/last-commit/geek-fun/dockit)](https://github.com/geek-fun/dockit) - Open-source MongoDB GUI client with built-in Data AI Agent for natural language queries, collection management, and import/export. Cross-platform (Tauri + Vue 3).
  - [MongoDB for VS Code](https://marketplace.visualstudio.com/items?itemName=mongodb.mongodb-vscode) - Connect to MongoDB and prototype queries from VS Code
  - [MongoDB MCP Server ![GitHub Repo Stars](https://img.shields.io/github/stars/mongodb-js/mongodb-mcp-server) ![GitHub last commit](https://img.shields.io/github/last-commit/mongodb-js/mongodb-mcp-server)](https://github.com/mongodb-js/mongodb-mcp-server) - Official Model Context Protocol server for interacting with MongoDB databases and MongoDB Atlas
  - [MongoHub ![GitHub Repo Stars](https://img.shields.io/github/stars/jeromelebel/MongoHub-Mac) ![GitHub last commit](https://img.shields.io/github/last-commit/jeromelebel/MongoHub-Mac)](https://github.com/jeromelebel/MongoHub-Mac) - Mac native client
