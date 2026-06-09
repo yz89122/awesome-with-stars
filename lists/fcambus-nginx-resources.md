@@ -71,7 +71,7 @@ This list is maintained by [Frederic Cambus](https://www.cambus.net). For update
 
 - [Telize - JSON IP and GeoIP REST API (IP Geolocation) built on Nginx and Lua](https://www.telize.com)
 - [GIN - JSON-API framework](https://gin.io/)
-- [Kong - Management Layer for Microservices and APIs](https://konghq.com/kong/)
+- [Kong - Management Layer for Microservices and APIs ![GitHub Repo Stars](https://img.shields.io/github/stars/kong/kong) ![GitHub last commit](https://img.shields.io/github/last-commit/kong/kong)](https://github.com/kong/kong)
 
 ## Hacks
 

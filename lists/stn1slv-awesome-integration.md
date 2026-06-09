@@ -326,7 +326,7 @@ System integration is the process of linking together different IT systems (com
 - [Yandex Managed Service for Apache Kafka](https://cloud.yandex.com/en/services/managed-kafka) - Fully managed Kafka service with automated scaling, monitoring, and maintenance for hassle-free streaming.
 
 <!--lint disable-->
-**[⬆ back to top](#contents)**
+**[�� back to top](#contents)**
 <!--lint enable-->
 ### Managed File Transfer
 *Managed File Transfer (MFT) solutions provide secure and reliable file transfer capabilities that help organizations meet regulatory compliance requirements, improve operational efficiency, and reduce the risk of data breaches. MFT software typically includes features such as encryption, digital signatures, user access controls, and detailed audit logs to ensure that data is transmitted securely and can be tracked throughout the transfer process.*
