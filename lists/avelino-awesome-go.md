@@ -2501,7 +2501,7 @@ _Libraries and tools for binary serialization._
 - [Wish ![GitHub Repo Stars](https://img.shields.io/github/stars/charmbracelet/wish) ![GitHub last commit](https://img.shields.io/github/last-commit/charmbracelet/wish)](https://github.com/charmbracelet/wish) - Make SSH apps, just like that!
 - [Kono ![GitHub Repo Stars](https://img.shields.io/github/stars/starwalkn/kono) ![GitHub last commit](https://img.shields.io/github/last-commit/starwalkn/kono)](https://github.com/starwalkn/kono) - lightweight extendable API Gateway in Go - parallel fan-out, flexible aggregation, and zero configuration magic.
 
-**[⬆ back to top](#contents)**
+**[��� back to top](#contents)**
 
 ## Stream Processing
 
