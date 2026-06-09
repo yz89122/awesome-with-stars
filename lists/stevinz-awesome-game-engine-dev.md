@@ -389,7 +389,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [EntityX ![GitHub Repo Stars](https://img.shields.io/github/stars/alecthomas/entityx) ![GitHub last commit](https://img.shields.io/github/last-commit/alecthomas/entityx)](https://github.com/alecthomas/entityx) - Fast, type-safe C++ entity component system.
     - 🎉 [Entt ![GitHub Repo Stars](https://img.shields.io/github/stars/skypjack/entt) ![GitHub last commit](https://img.shields.io/github/last-commit/skypjack/entt)](https://github.com/skypjack/entt) - Gaming meets modern C++, a fast and reliable entity component system.
 - C++: Fonts
-    - 🎉 [HarfBuzz ![GitHub Repo Stars](https://img.shields.io/github/stars/harfbuzz/harfbuzz) ![GitHub last commit](https://img.shields.io/github/last-commit/harfbuzz/harfbuzz)](https://github.com/harfbuzz/harfbuzz) - Text shaping library. Formatted and positioned glyph output.
+    - �� [HarfBuzz ![GitHub Repo Stars](https://img.shields.io/github/stars/harfbuzz/harfbuzz) ![GitHub last commit](https://img.shields.io/github/last-commit/harfbuzz/harfbuzz)](https://github.com/harfbuzz/harfbuzz) - Text shaping library. Formatted and positioned glyph output.
     - 🎉 [msdfgen ![GitHub Repo Stars](https://img.shields.io/github/stars/Chlumsky/msdfgen) ![GitHub last commit](https://img.shields.io/github/last-commit/Chlumsky/msdfgen)](https://github.com/Chlumsky/msdfgen) - Multi-channel signed distance field generator.
     - 💰 [Slug](http://sluglibrary.com) - High-quality, resolution-independent text and vector graphics for 3D apps.
     - 🎉 [slughorn ![GitHub Repo Stars](https://img.shields.io/github/stars/AlphaPixel/slughorn) ![GitHub last commit](https://img.shields.io/github/last-commit/AlphaPixel/slughorn)](https://github.com/AlphaPixel/slughorn) - Library for shoehorning the Slug text/graphics GPU rendering library into projects.
@@ -1012,7 +1012,7 @@ _Language specific game engine development libraries / frameworks / code._
 
 ### Ruby
 - 📚 [Awesome Ruby ![GitHub Repo Stars](https://img.shields.io/github/stars/markets/awesome-ruby) ![GitHub last commit](https://img.shields.io/github/last-commit/markets/awesome-ruby)](https://github.com/markets/awesome-ruby) - Collection of awesome Ruby libraries, tools, frameworks and software.
-- 🌎 [Ruby](https://www.ruby-lang.org/en/) - Dynamic programming language, focused on simplicity / productivity. [[GitHub ![GitHub Repo Stars](https://img.shields.io/github/stars/ruby/ruby) ![GitHub last commit](https://img.shields.io/github/last-commit/ruby/ruby)](https://github.com/ruby/ruby)]
+- ���� [Ruby](https://www.ruby-lang.org/en/) - Dynamic programming language, focused on simplicity / productivity. [[GitHub ![GitHub Repo Stars](https://img.shields.io/github/stars/ruby/ruby) ![GitHub last commit](https://img.shields.io/github/last-commit/ruby/ruby)](https://github.com/ruby/ruby)]
 - Ruby: Framework
     - 🎉 [Ruby on Rails ![GitHub Repo Stars](https://img.shields.io/github/stars/rails/rails) ![GitHub last commit](https://img.shields.io/github/last-commit/rails/rails)](https://github.com/rails/rails) - Web app framework. [[Website](https://rubyonrails.org)]
 - Ruby: Game Framework
