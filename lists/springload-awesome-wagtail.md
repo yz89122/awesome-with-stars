@@ -392,8 +392,7 @@ _You might also like [Awesome Django ![GitHub Repo Stars](https://img.shields.io
 
 ## Contribute
 
-Contributions are always welcome!
-Please read the [contribution guidelines](docs/CONTRIBUTING.md) first.
+Contributions are always welcome! Please read the [contribution guidelines](docs/CONTRIBUTING.md) first.
 
 ## License
 

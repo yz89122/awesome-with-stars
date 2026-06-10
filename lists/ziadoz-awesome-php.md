@@ -350,7 +350,6 @@ Please see [CONTRIBUTING ![GitHub Repo Stars](https://img.shields.io/github/star
 * [APIGen ![GitHub Repo Stars](https://img.shields.io/github/stars/apigen/apigen) ![GitHub last commit](https://img.shields.io/github/last-commit/apigen/apigen)](https://github.com/apigen/apigen) - Another API documentation generator.
 * [daux.io ![GitHub Repo Stars](https://img.shields.io/github/stars/dauxio/daux.io) ![GitHub last commit](https://img.shields.io/github/last-commit/dauxio/daux.io)](https://github.com/dauxio/daux.io) - A documentation generator that uses Markdown files.
 * [phpDocumentor](https://phpdoc.org/) - A documentation generator.
-* [phpDox](https://phpdox.net/) - A documentation generator for PHP projects (that is not limited to API documentation).
 * [Scramble ![GitHub Repo Stars](https://img.shields.io/github/stars/dedoc/scramble) ![GitHub last commit](https://img.shields.io/github/last-commit/dedoc/scramble)](https://github.com/dedoc/scramble) - Automatically generates OpenAPI documentation from your code without annotations.
 * [zircote/swagger-php ![GitHub Repo Stars](https://img.shields.io/github/stars/zircote/swagger-php) ![GitHub last commit](https://img.shields.io/github/last-commit/zircote/swagger-php)](https://github.com/zircote/swagger-php) - Generate OpenAPI documentation for your RESTful API.
 

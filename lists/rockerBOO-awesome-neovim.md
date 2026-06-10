@@ -979,6 +979,7 @@ then it is not supported:
 - [vyfor/cord.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/vyfor/cord.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/vyfor/cord.nvim)](https://github.com/vyfor/cord.nvim) - Highly extensible Rich Presence for Discord.
 - [iamt4nk/smm.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/iamt4nk/smm.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/iamt4nk/smm.nvim)](https://github.com/iamt4nk/smm.nvim) - Small TUI that allows for controlling Spotify playback.
 - [sanjay-np/nvim-yt-player ![GitHub Repo Stars](https://img.shields.io/github/stars/sanjay-np/nvim-yt-player) ![GitHub last commit](https://img.shields.io/github/last-commit/sanjay-np/nvim-yt-player)](https://github.com/sanjay-np/nvim-yt-player) - Play YouTube audio using `mpv` and `yt-dlp` via IPC socket.
+- [T-b-t-nchos/FMP7.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/T-b-t-nchos/FMP7.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/T-b-t-nchos/FMP7.nvim)](https://github.com/T-b-t-nchos/FMP7.nvim) - Control FMP7 and play FM/SSG/PCM driver music files (Only for Windows).
 <!--lint disable double-link -->
 [**⬆ back to top**](#contents)
 <!--lint enable double-link -->
