@@ -378,6 +378,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Google Flow](https://labs.google/fx/tools/flow) - An AI filmmaking tool from Google, powered by Veo.
 - [Seedance 2.0](https://seed.bytedance.com/en/seedance2_0) - An image-to-video and text-to-video model developed by Niobotics ByteDance.
 - [MaxVideoAI](https://maxvideoai.com/examples) - A workspace for generating and comparing videos across multiple AI video models.
+- [HyperFrames](https://hyperframes.heygen.com/) - A framework for AI agents to render videos by writing HTML, CSS, and JavaScript. [#opensource ![GitHub Repo Stars](https://img.shields.io/github/stars/heygen-com/hyperframes) ![GitHub last commit](https://img.shields.io/github/last-commit/heygen-com/hyperframes)](https://github.com/heygen-com/hyperframes)
 
 ### Avatars
 
