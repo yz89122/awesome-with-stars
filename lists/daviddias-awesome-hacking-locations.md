@@ -503,7 +503,7 @@ Wifi | Power | Address | Open Hours
 
 Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
-✔ | ✔ | [Krautgasse 26, 07743 Jena](https://maps.app.goo.gl/QaMgf3d5WXtuJRvPA) | Mon-Fri 07:30���19:00; Sat 10:00–17:00
+✔ | ✔ | [Krautgasse 26, 07743 Jena](https://maps.app.goo.gl/QaMgf3d5WXtuJRvPA) | Mon-Fri 07:30–19:00; Sat 10:00–17:00
 
 ## Munich
 
@@ -942,7 +942,7 @@ Webpage: embaixadaporto.com
 
 Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
-✔ | ��� | [Praça de Carlos Alberto 121, Porto, Portugal](https://goo.gl/maps/EkUoagQm5Ym) |
+✔ | ✔ | [Praça de Carlos Alberto 121, Porto, Portugal](https://goo.gl/maps/EkUoagQm5Ym) |
 
 ![](http://www.speedtest.net/result/5456704202.png)
 
