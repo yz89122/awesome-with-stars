@@ -363,7 +363,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [QuickJS ![GitHub Repo Stars](https://img.shields.io/github/stars/bellard/quickjs) ![GitHub last commit](https://img.shields.io/github/last-commit/bellard/quickjs)](https://github.com/bellard/quickjs) - Small and embeddable JavaScript engine.
 
 ### C++
-- �� [Awesome C++ ![GitHub Repo Stars](https://img.shields.io/github/stars/fffaraz/awesome-cpp) ![GitHub last commit](https://img.shields.io/github/last-commit/fffaraz/awesome-cpp)](https://github.com/fffaraz/awesome-cpp#readme) - List of awesome C++ frameworks, libraries, and resources.
+- 📚 [Awesome C++ ![GitHub Repo Stars](https://img.shields.io/github/stars/fffaraz/awesome-cpp) ![GitHub last commit](https://img.shields.io/github/last-commit/fffaraz/awesome-cpp)](https://github.com/fffaraz/awesome-cpp#readme) - List of awesome C++ frameworks, libraries, and resources.
 - 📚 [Awesome C++ Game Dev ![GitHub Repo Stars](https://img.shields.io/github/stars/Caerind/AwesomeCppGameDev) ![GitHub last commit](https://img.shields.io/github/last-commit/Caerind/AwesomeCppGameDev)](https://github.com/Caerind/AwesomeCppGameDev#readme) - List of awesome C++ things for Game Development.
 - 📚 [Awesome Hpp ![GitHub Repo Stars](https://img.shields.io/github/stars/p-ranav/awesome-hpp) ![GitHub last commit](https://img.shields.io/github/last-commit/p-ranav/awesome-hpp)](https://github.com/p-ranav/awesome-hpp) - List of awesome header-only C++ libraries.
 - 🌎 [C++ Papyrus](https://caiorss.github.io/C-Cpp-Notes/index.html) - Basic to advanced topics with modern C++ examples.
