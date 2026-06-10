@@ -695,6 +695,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [angular-scan ![GitHub Repo Stars](https://img.shields.io/github/stars/husseinAbdElaziz/angular-scan) ![GitHub last commit](https://img.shields.io/github/last-commit/husseinAbdElaziz/angular-scan)](https://github.com/husseinAbdElaziz/angular-scan) - Automatically detects and highlights Angular components that are re-rendering.
 * [angular-render-scan ![GitHub Repo Stars](https://img.shields.io/github/stars/edisonaugusthy/angular-render-scan) ![GitHub last commit](https://img.shields.io/github/last-commit/edisonaugusthy/angular-render-scan)](https://github.com/edisonaugusthy/angular-render-scan) - A visual debugging overlay for Angular change detection.
 * [rxjs-leak-finder ![GitHub Repo Stars](https://img.shields.io/github/stars/FlorinCiocirlan/rxjs-leak-finder) ![GitHub last commit](https://img.shields.io/github/last-commit/FlorinCiocirlan/rxjs-leak-finder)](https://github.com/FlorinCiocirlan/rxjs-leak-finder) - A dev-mode tool that finds leaked RxJS subscriptions in Angular apps.
+* [form-lens-angular ![GitHub Repo Stars](https://img.shields.io/github/stars/hebertdelima13/form-lens-angular) ![GitHub last commit](https://img.shields.io/github/last-commit/hebertdelima13/form-lens-angular)](https://github.com/hebertdelima13/form-lens-angular) - Inspect form structure, control state, validation errors, and nested form trees directly inside your app during development.
 
 ### Documentation Tools
 
