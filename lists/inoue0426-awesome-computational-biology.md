@@ -223,7 +223,7 @@ Browse and search the resources via the [GitHub Pages UI](https://inoue0426.gith
 - [1000 Genomes Project](https://www.internationalgenome.org/) — Reference panel of human genetic variation from 2,504 individuals across 26 populations.
 - [BACE](https://www.kaggle.com/datasets/gokturkkoch/bace) — Binary classification and regression dataset for β-secretase 1 (BACE-1) inhibitor binding affinity.
 - [BEAT AML](https://biodev.github.io/BeatAML2/) — Functional ex vivo drug sensitivity measurements paired with genomics for acute myeloid leukemia.
-- [BindingDB Curated Sets](https://www.bindingdb.org/rwd/bind/chemsearch/marvin/SDFdownload.jsp?all_download=yes) ��� Curated binding affinity datasets for protein–ligand interaction benchmarking.
+- [BindingDB Curated Sets](https://www.bindingdb.org/rwd/bind/chemsearch/marvin/SDFdownload.jsp?all_download=yes) — Curated binding affinity datasets for protein–ligand interaction benchmarking.
 - [Cancer Therapeutics Response Portal (CTRP)](https://portals.broadinstitute.org/ctrp/) — Drug sensitivity profiles across ~900 cancer cell lines for >400 compounds.
 - [ClinTox](https://tdcommons.ai/single_pred_tasks/tox/#clintox) — Clinical toxicity dataset contrasting FDA-approved drugs with those that failed clinical trials due to toxicity.
 - [CPTAC (Clinical Proteomic Tumor Analysis Consortium)](https://proteomics.cancer.gov/programs/cptac) — Multi-omic proteogenomic datasets for multiple cancer types linking proteomics with genomics.
@@ -337,7 +337,7 @@ Browse and search the resources via the [GitHub Pages UI](https://inoue0426.gith
 - [NeoDTI ![GitHub Repo Stars](https://img.shields.io/github/stars/FangpingWan/NeoDTI) ![GitHub last commit](https://img.shields.io/github/last-commit/FangpingWan/NeoDTI)](https://github.com/FangpingWan/NeoDTI) — Library for drug-target interaction prediction.
 - [DTINet ![GitHub Repo Stars](https://img.shields.io/github/stars/luoyunan/DTINet) ![GitHub last commit](https://img.shields.io/github/last-commit/luoyunan/DTINet)](https://github.com/luoyunan/DTINet) — Network-based framework integrating heterogeneous biological data for DTI prediction.
 - [DeepDTA ![GitHub Repo Stars](https://img.shields.io/github/stars/hkmztrk/DeepDTA) ![GitHub last commit](https://img.shields.io/github/last-commit/hkmztrk/DeepDTA)](https://github.com/hkmztrk/DeepDTA) — Deep learning model using CNNs on protein sequences and drug SMILES.
-- [GraphDTA ![GitHub Repo Stars](https://img.shields.io/github/stars/thinng/GraphDTA) ![GitHub last commit](https://img.shields.io/github/last-commit/thinng/GraphDTA)](https://github.com/thinng/GraphDTA) — Graph neural network–based DTI prediction using molecular graphs.
+- [GraphDTA ![GitHub Repo Stars](https://img.shields.io/github/stars/thinng/GraphDTA) ![GitHub last commit](https://img.shields.io/github/last-commit/thinng/GraphDTA)](https://github.com/thinng/GraphDTA) — Graph neural network��based DTI prediction using molecular graphs.
 - [MolTrans ![GitHub Repo Stars](https://img.shields.io/github/stars/kexinhuang12345/MolTrans) ![GitHub last commit](https://img.shields.io/github/last-commit/kexinhuang12345/MolTrans)](https://github.com/kexinhuang12345/MolTrans) — Transformer-based DTI model leveraging molecular substructures.
 - [DrugBAN ![GitHub Repo Stars](https://img.shields.io/github/stars/peizhenbai/DrugBAN) ![GitHub last commit](https://img.shields.io/github/last-commit/peizhenbai/DrugBAN)](https://github.com/peizhenbai/DrugBAN) — Bilinear attention network for interpretable DTI prediction.
 

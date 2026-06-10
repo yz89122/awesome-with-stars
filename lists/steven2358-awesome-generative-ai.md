@@ -239,6 +239,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Groq](https://groq.com/) - A cloud inference API for running open-source LLMs, powered by custom LPU hardware.
 - [Model Context Protocol](https://modelcontextprotocol.io/) - An open standard for connecting AI models to external tools and data sources. [MCP Registry](https://registry.modelcontextprotocol.io/) [#opensource ![GitHub Repo Stars](https://img.shields.io/github/stars/modelcontextprotocol/modelcontextprotocol) ![GitHub last commit](https://img.shields.io/github/last-commit/modelcontextprotocol/modelcontextprotocol)](https://github.com/modelcontextprotocol/modelcontextprotocol)
 - [Steel Browser ![GitHub Repo Stars](https://img.shields.io/github/stars/steel-dev/steel-browser) ![GitHub last commit](https://img.shields.io/github/last-commit/steel-dev/steel-browser)](https://github.com/steel-dev/steel-browser) - An open-source browser sandbox and automation infrastructure for AI agents, with session management, screenshots, PDFs, proxies, and anti-bot tooling. #opensource
+- [Bifrost ![GitHub Repo Stars](https://img.shields.io/github/stars/maximhq/bifrost) ![GitHub last commit](https://img.shields.io/github/last-commit/maximhq/bifrost)](https://github.com/maximhq/bifrost) - An open-source LLM gateway with routing, load balancing, guardrails, and observability for 1000+ models. #opensource
 
 ### Playgrounds
 
@@ -289,6 +290,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Hermes Agent](https://hermes-agent.nousresearch.com) - A self-improving personal agent with memory, messaging integrations, and sandboxed tool execution. [#opensource ![GitHub Repo Stars](https://img.shields.io/github/stars/NousResearch/hermes-agent) ![GitHub last commit](https://img.shields.io/github/last-commit/NousResearch/hermes-agent)](https://github.com/NousResearch/hermes-agent)
 - [OpenAgents ![GitHub Repo Stars](https://img.shields.io/github/stars/openagents-org/openagents) ![GitHub last commit](https://img.shields.io/github/last-commit/openagents-org/openagents)](https://github.com/openagents-org/openagents) - Open-source platform for building AI agent networks with multi-protocol support (WebSocket, gRPC, HTTP, MCP, A2A). #opensource
 - [Dorothy ![GitHub Repo Stars](https://img.shields.io/github/stars/Charlie85270/Dorothy) ![GitHub last commit](https://img.shields.io/github/last-commit/Charlie85270/Dorothy)](https://github.com/Charlie85270/Dorothy) - An open-source desktop app to orchestrate multiple AI CLI agents simultaneously with automations and Kanban management. #opensource
+- [Hive ![GitHub Repo Stars](https://img.shields.io/github/stars/aden-hive/hive) ![GitHub last commit](https://img.shields.io/github/last-commit/aden-hive/hive)](https://github.com/aden-hive/hive) - An open-source multi-agent framework with auto-generated graphs, evolution loops, and MCP integration. #opensource
 
 ### Custom assistants
 
