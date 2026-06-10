@@ -1854,8 +1854,9 @@ Job processing
 
 * [SBCL's timers](http://www.sbcl.org/manual/#Timers), system-wide event schedulers.
 * [psychiq ![GitHub Repo Stars](https://img.shields.io/github/stars/fukamachi/psychiq) ![GitHub last commit](https://img.shields.io/github/last-commit/fukamachi/psychiq)](https://github.com/fukamachi/psychiq) - redis-based background job processing for Common Lisp applications. Inspired by Ruby's Sidekiq and compatible with its web UI. [LLGPL][8].
-* [cl-cron ![GitHub Repo Stars](https://img.shields.io/github/stars/ciel-lang/cl-cron) ![GitHub last commit](https://img.shields.io/github/last-commit/ciel-lang/cl-cron)](https://github.com/ciel-lang/cl-cron) - A simple tool that provides cron like facilities. [GPL3][2].
-* [clerk ![GitHub Repo Stars](https://img.shields.io/github/stars/tsikov/clerk) ![GitHub last commit](https://img.shields.io/github/last-commit/tsikov/clerk)](https://github.com/tsikov/clerk) - a cron-like scheduler with sane DSL. [MIT][200].
+* [cl-cron ![GitHub Repo Stars](https://img.shields.io/github/stars/lisp-maintainers/cl-cron) ![GitHub last commit](https://img.shields.io/github/last-commit/lisp-maintainers/cl-cron)](https://github.com/lisp-maintainers/cl-cron) - A simple tool that provides cron like facilities. [GPL3][2].
+* [clerk ![GitHub Repo Stars](https://img.shields.io/github/stars/tsikov/clerk) ![GitHub last commit](https://img.shields.io/github/last-commit/tsikov/clerk)](https://github.com/tsikov/clerk) - run regular or one-time jobs at given intervals. [MIT][200].
+  * maintained on [lisp-maintainers/clerk ![GitHub Repo Stars](https://img.shields.io/github/stars/lisp-maintainers/clerk) ![GitHub last commit](https://img.shields.io/github/last-commit/lisp-maintainers/clerk)](https://github.com/lisp-maintainers/clerk)
 
 
 Regular expressions and string parsing
