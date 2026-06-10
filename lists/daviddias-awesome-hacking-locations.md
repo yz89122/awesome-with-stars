@@ -565,7 +565,7 @@ Webpage: http://www.trunkcoffee.com
 
 Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
-✔ | ✔ | [2 Chome-28 Izumi, Higashi Ward, Nagoya, Aichi Prefecture](https://goo.gl/maps/HbL87xYSzsA2) | ���～木／9:30-21:00　金／9:30-22:00
+✔ | ✔ | [2 Chome-28 Izumi, Higashi Ward, Nagoya, Aichi Prefecture](https://goo.gl/maps/HbL87xYSzsA2) | 月～木／9:30-21:00　金／9:30-22:00
 　土／9:00-22:00　日・祝／9:00-19:00
 
 ![](http://www.speedtest.net/result/5777729518.png)
@@ -905,7 +905,7 @@ Webpage: apadariaportuguesa.pt
 
 Wifi | Power | Climatization  | Address | Open Hours
 ---- | ----- | -------------- | ------- | ----------
-✔ | ✔ | ❄️ | [Av. 24 de Julho 1G, 1200-425 Lisboa](https://goo.gl/maps/6szBk5Tsaaq) | 7am - 10:45pm
+✔ | ✔ | ❄��� | [Av. 24 de Julho 1G, 1200-425 Lisboa](https://goo.gl/maps/6szBk5Tsaaq) | 7am - 10:45pm
 
 ![](http://beta.speedtest.net/result/6946089256.png)
 
