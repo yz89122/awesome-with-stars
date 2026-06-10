@@ -242,7 +242,7 @@
 
 
 ### WebSockets
-- [Chord ![GitHub Repo Stars](https://img.shields.io/github/stars/jarohen/chord) ![GitHub last commit](https://img.shields.io/github/last-commit/jarohen/chord)](https://github.com/jarohen/chord) – Designed to bridge the gap between the triad of CLJ/CLJS, web-sockets and core.async.
+- [Chord ![GitHub Repo Stars](https://img.shields.io/github/stars/jarohen/chord) ![GitHub last commit](https://img.shields.io/github/last-commit/jarohen/chord)](https://github.com/jarohen/chord) ��� Designed to bridge the gap between the triad of CLJ/CLJS, web-sockets and core.async.
 - [Sente ![GitHub Repo Stars](https://img.shields.io/github/stars/ptaoussanis/sente) ![GitHub last commit](https://img.shields.io/github/last-commit/ptaoussanis/sente)](https://github.com/ptaoussanis/sente) – Clojure(Script) + core.async + WebSockets/Ajax.
 
 

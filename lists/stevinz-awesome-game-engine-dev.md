@@ -96,13 +96,14 @@ This includes things typically not found in low-level game engines, app / game f
 _Production ready game engines to tinker with, explore, learn and inspire._
 
 ### Awesome Collections
+- 📚 [Awesome Game Engines ![GitHub Repo Stars](https://img.shields.io/github/stars/ChessMax/awesome-game-engines) ![GitHub last commit](https://img.shields.io/github/last-commit/ChessMax/awesome-game-engines)](https://github.com/ChessMax/awesome-game-engines) - List of game engines.
 - 📚 [CoolEngines ![GitHub Repo Stars](https://img.shields.io/github/stars/JohnClarking/CoolEngines) ![GitHub last commit](https://img.shields.io/github/last-commit/JohnClarking/CoolEngines)](https://github.com/JohnClarking/CoolEngines) - List of open source graphic & game engines.
 - 📚 [Wikipedia: List of Game Engines](https://en.wikipedia.org/wiki/List_of_game_engines) - Game engines along with their platforms and licenses.
 
 ### Popular
 - 🎉 [Godot ![GitHub Repo Stars](https://img.shields.io/github/stars/godotengine/godot) ![GitHub last commit](https://img.shields.io/github/last-commit/godotengine/godot)](https://github.com/godotengine/godot#readme) 🔥 - Feature-packed, open source engine. Excellent! [[Awesome ![GitHub Repo Stars](https://img.shields.io/github/stars/godotengine/awesome-godot) ![GitHub last commit](https://img.shields.io/github/last-commit/godotengine/awesome-godot)](https://github.com/godotengine/awesome-godot#readme) | [Website](https://godotengine.org)]
 - 💸 [Unity](https://unity.com) - Biggest name in game engines, industry standard. [[Awesome ![GitHub Repo Stars](https://img.shields.io/github/stars/RyanNielson/awesome-unity) ![GitHub last commit](https://img.shields.io/github/last-commit/RyanNielson/awesome-unity)](https://github.com/RyanNielson/awesome-unity)]
-- 💸 [Unreal Engine](https://www.unrealengine.com) - AAA quality, insane feature set, photoreal visuals. [[Awesome ![GitHub Repo Stars](https://img.shields.io/github/stars/insthync/awesome-ue4) ![GitHub last commit](https://img.shields.io/github/last-commit/insthync/awesome-ue4)](https://github.com/insthync/awesome-ue4#readme)]
+- �� [Unreal Engine](https://www.unrealengine.com) - AAA quality, insane feature set, photoreal visuals. [[Awesome ![GitHub Repo Stars](https://img.shields.io/github/stars/insthync/awesome-ue4) ![GitHub last commit](https://img.shields.io/github/last-commit/insthync/awesome-ue4)](https://github.com/insthync/awesome-ue4#readme)]
 
 ### AAA
 - 🎉 [Amazon Lumberyard ![GitHub Repo Stars](https://img.shields.io/github/stars/aws/lumberyard) ![GitHub last commit](https://img.shields.io/github/last-commit/aws/lumberyard)](https://github.com/aws/lumberyard) - AAA engine integrated with AWS and Twitch. Forked from _CRYENGINE_.
@@ -163,7 +164,7 @@ _Info on topics necessary for designing and developing game engines._
     - 📚 [GPU Gems](https://developer.nvidia.com/gpugems/gpugems/contributors) - Programming techniques, tips, and tricks for real-time graphics.
     - 📚 [GPU Gems 2](https://developer.nvidia.com/gpugems/gpugems2/copyright) - Programming techniques for high-performance graphics.
     - 📚 [GPU Gems 3](https://developer.nvidia.com/gpugems/gpugems3/contributors) - Collection of state-of-the-art GPU programming examples hosted by _NVIDIA_.
-    - 📚 [Interactive Computer Graphics](https://www.cs.unm.edu/~angel/) - Top down approach to computer graphics.
+    - 📚 [Interactive Computer Graphics](https://www.cs.unm.edu/~angel/) - Top-down approach to computer graphics.
     - 📚 [Physically-Based Rendering](https://www.pbrt.org) - From the Academy Award winning authority on PBR.
 - Education Portals
     - 📚 [Game Art Tricks](http://simonschreibt.de/game-art-tricks/) - Articles exploring different graphics techniques.
@@ -598,6 +599,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Duality ![GitHub Repo Stars](https://img.shields.io/github/stars/AdamsLair/duality) ![GitHub last commit](https://img.shields.io/github/last-commit/AdamsLair/duality)](https://github.com/AdamsLair/duality) - Modular 2D engine, editor built with _OpenTK_.
     - 🎉 [Flat Red Ball ![GitHub Repo Stars](https://img.shields.io/github/stars/vchelaru/FlatRedBall) ![GitHub last commit](https://img.shields.io/github/last-commit/vchelaru/FlatRedBall)](https://github.com/vchelaru/FlatRedBall) - 2D game engine & design tools, built with _MonoGame_. [[Website](https://flatredball.com/)]
     - 🎉 [Murder ![GitHub Repo Stars](https://img.shields.io/github/stars/isadorasophia/murder) ![GitHub last commit](https://img.shields.io/github/last-commit/isadorasophia/murder)](https://github.com/isadorasophia/murder) - Pixel-art, ECS game engine built on _MonoGame_. [[Docs](https://isadorasophia.com/murder/)]
+    - 🎉 [Prowl ![GitHub Repo Stars](https://img.shields.io/github/stars/ProwlEngine/Prowl) ![GitHub last commit](https://img.shields.io/github/last-commit/ProwlEngine/Prowl)](https://github.com/ProwlEngine/Prowl) - 3D game engine inspired by _Unity_.
     - 🎉 [Stride ![GitHub Repo Stars](https://img.shields.io/github/stars/stride3d/stride) ![GitHub last commit](https://img.shields.io/github/last-commit/stride3d/stride)](https://github.com/stride3d/stride) - Game engine for realistic rendering and VR. Formerly _Xenko_. [[Website](https://www.stride3d.net/)]
     - 💸 [Unity](https://store.unity.com/) - Biggest name in game engines, industry standard.
 - C#: Game Framework
@@ -608,6 +610,8 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Protogame ![GitHub Repo Stars](https://img.shields.io/github/stars/RedpointGames/Protogame) ![GitHub last commit](https://img.shields.io/github/last-commit/RedpointGames/Protogame)](https://github.com/RedpointGames/Protogame) - Cross-platform 2D/3D game engine built on _MonoGame_.
 - C#: Geometry
     - 🎉 [DotRecast ![GitHub Repo Stars](https://img.shields.io/github/stars/ikpil/DotRecast) ![GitHub last commit](https://img.shields.io/github/last-commit/ikpil/DotRecast)](https://github.com/ikpil/DotRecast) - A port of _Recast & Detour_, navigation mesh toolset for games, Unity3D, servers, C#.
+- C#: Graphics - 2D
+    - 🎉 [ImageSharp ![GitHub Repo Stars](https://img.shields.io/github/stars/SixLabors/ImageSharp) ![GitHub last commit](https://img.shields.io/github/last-commit/SixLabors/ImageSharp)](https://github.com/SixLabors/ImageSharp) - Modern, cross-platform, 2D graphics library for .NET.
 - C#: Graphics - 3D
     - 🎉 [OpenTK ![GitHub Repo Stars](https://img.shields.io/github/stars/opentk/opentk) ![GitHub last commit](https://img.shields.io/github/last-commit/opentk/opentk)](https://github.com/opentk/opentk) - Open Toolkit, C# bindings for OpenGL. [[LearnOpenTK ![GitHub Repo Stars](https://img.shields.io/github/stars/opentk/LearnOpenTK) ![GitHub last commit](https://img.shields.io/github/last-commit/opentk/LearnOpenTK)](https://github.com/opentk/LearnOpenTK)]
     - 🎉 [Veldrid ![GitHub Repo Stars](https://img.shields.io/github/stars/mellinoe/veldrid) ![GitHub last commit](https://img.shields.io/github/last-commit/mellinoe/veldrid)](https://github.com/mellinoe/veldrid) - Cross-platform, graphics API-agnostic rendering and compute library for .NET.
@@ -620,11 +624,13 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Myra ![GitHub Repo Stars](https://img.shields.io/github/stars/rds1983/Myra) ![GitHub last commit](https://img.shields.io/github/last-commit/rds1983/Myra)](https://github.com/rds1983/Myra) - Gui library for _MonoGame_, _FNA_, and _Stride_.
     - 🎉 [Squid ![GitHub Repo Stars](https://img.shields.io/github/stars/Roderik11/Squid) ![GitHub last commit](https://img.shields.io/github/last-commit/Roderik11/Squid)](https://github.com/Roderik11/Squid) - C# Realtime GUI System.
     - 🎉 [Uno ![GitHub Repo Stars](https://img.shields.io/github/stars/unoplatform/uno) ![GitHub last commit](https://img.shields.io/github/last-commit/unoplatform/uno)](https://github.com/unoplatform/uno) - Mobile, desktop and WebAssembly gui library. [[Website](https://platform.uno/)]
+    - 🎉 [VellumUI ![GitHub Repo Stars](https://img.shields.io/github/stars/notgiven688/vellum) ![GitHub last commit](https://img.shields.io/github/last-commit/notgiven688/vellum)](https://github.com/notgiven688/vellum) - Lightweight immediate-mode GUI library with font rendering.
 - C#: Layout
     - 🎉 [Gum ![GitHub Repo Stars](https://img.shields.io/github/stars/vchelaru/Gum) ![GitHub last commit](https://img.shields.io/github/last-commit/vchelaru/Gum)](https://github.com/vchelaru/Gum) - Flexible layout tool for creating UI on any platform.
 - C#: Physics
     - 🎉 [Aether Physics ![GitHub Repo Stars](https://img.shields.io/github/stars/tainicom/Aether.Physics2D) ![GitHub last commit](https://img.shields.io/github/last-commit/tainicom/Aether.Physics2D)](https://github.com/tainicom/Aether.Physics2D) - 2D physics library with continuous collision detection.
     - 🎉 [Box2D.NET ![GitHub Repo Stars](https://img.shields.io/github/stars/ikpil/Box2D.NET) ![GitHub last commit](https://img.shields.io/github/last-commit/ikpil/Box2D.NET)](https://github.com/ikpil/Box2D.NET) - A port of Box2D. 2D physics engine for games, .NET C#, Unity3D, servers.
+    - 🎉 [Jitter Physics 2 ![GitHub Repo Stars](https://img.shields.io/github/stars/notgiven688/jitterphysics2) ![GitHub last commit](https://img.shields.io/github/last-commit/notgiven688/jitterphysics2)](https://github.com/notgiven688/jitterphysics2) - Fast, simple, and dependency-free physics engine.
     - 🎉 [Velcro Physics ![GitHub Repo Stars](https://img.shields.io/github/stars/Genbox/VelcroPhysics) ![GitHub last commit](https://img.shields.io/github/last-commit/Genbox/VelcroPhysics)](https://github.com/Genbox/VelcroPhysics) - C# port of Box2D. Formerly _Farseer Physics_.
 - C#: Utility
     - 🎉 [Facepunch.Steamworks ![GitHub Repo Stars](https://img.shields.io/github/stars/Facepunch/Facepunch.Steamworks) ![GitHub last commit](https://img.shields.io/github/last-commit/Facepunch/Facepunch.Steamworks)](https://github.com/Facepunch/Facepunch.Steamworks) - Steamworks implementation.
