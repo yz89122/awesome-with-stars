@@ -1843,6 +1843,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-side-page ![GitHub Repo Stars](https://img.shields.io/github/stars/strikerh/ngx-side-page) ![GitHub last commit](https://img.shields.io/github/last-commit/strikerh/ngx-side-page)](https://github.com/strikerh/ngx-side-page) - Versatile Angular library for slide‑out side panels with smooth, service‑based animations, like Material dialogs for side pages.
 * [async-modal-ngx ![GitHub Repo Stars](https://img.shields.io/github/stars/antonioconselheiro/async-modal-ngx) ![GitHub last commit](https://img.shields.io/github/last-commit/antonioconselheiro/async-modal-ngx)](https://github.com/antonioconselheiro/async-modal-ngx) - This library renders Angular components with flexible data flow, while all styling and modal-host design remain your responsibility.
 * [rnd-dialog ![GitHub Repo Stars](https://img.shields.io/github/stars/acrodata/rnd-dialog) ![GitHub last commit](https://img.shields.io/github/last-commit/acrodata/rnd-dialog)](https://github.com/acrodata/rnd-dialog) - Resizable and draggable dialog based on CDK dialog.
+* [prettier-modals ![GitHub Repo Stars](https://img.shields.io/github/stars/antuuanyf/prettier-modals) ![GitHub last commit](https://img.shields.io/github/last-commit/antuuanyf/prettier-modals)](https://github.com/antuuanyf/prettier-modals) - Angular directives and an injectable service for Prettier Modals — beautiful open/close animations for native `<dialog>` elements, powered by GSAP Flip.
 
 ### Notifications
 
