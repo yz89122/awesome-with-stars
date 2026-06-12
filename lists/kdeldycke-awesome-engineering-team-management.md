@@ -858,7 +858,7 @@ Once you have the right structure and content thanks to advice above, you can no
 
 - [Please don't say just hello in chat](https://nohello.net/en/) - When properly used, interactive written medium allows for asynchronous communication.
 
-- [BLUF: The Military Standard That Can Make Your Writing More Powerful](https://www.animalz.co/blog/bottom-line-up-front/) - “BLUF is a military communications acronym—it stands for “bottom line up front”��that's designed to enforce speed and clarity in reports and emails.”
+- [BLUF: The Military Standard That Can Make Your Writing More Powerful](https://www.animalz.co/blog/bottom-line-up-front/) - “BLUF is a military communications acronym—it stands for “bottom line up front”—that's designed to enforce speed and clarity in reports and emails.”
 
 - [The Punctuation Guide](https://www.thepunctuationguide.com) - Simple reference on how (and why) to use these special characters.
 
