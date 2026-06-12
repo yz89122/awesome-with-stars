@@ -305,7 +305,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 
 ### Angular Experts on X
 
-* [@PatrickJS__](https://x.com/PatrickJS__)
+* [@PatrickJS](https://x.com/PatrickJS)
 * [@eggheadio](https://x.com/eggheadio)
 * [@hirez_io](https://x.com/hirez_io)
 * [@cedric_exbrayat](https://x.com/cedric_exbrayat)
@@ -2161,6 +2161,7 @@ for the creation of web applications developed with Angular.
 * [@luminacn/ui ![GitHub Repo Stars](https://img.shields.io/github/stars/luminacn/ui) ![GitHub last commit](https://img.shields.io/github/last-commit/luminacn/ui)](https://github.com/luminacn/ui) - Signal-first, headless UI primitives for Angular.
 * [Bloc UI ![GitHub Repo Stars](https://img.shields.io/github/stars/debasish1996/BLOC-UI) ![GitHub last commit](https://img.shields.io/github/last-commit/debasish1996/BLOC-UI)](https://github.com/debasish1996/BLOC-UI) - Lightweight, accessible Angular components with zero design opinions. Use your own styles or the optional theme package.
 * [angular-primitives ![GitHub Repo Stars](https://img.shields.io/github/stars/snatuva/angular-primitives) ![GitHub last commit](https://img.shields.io/github/last-commit/snatuva/angular-primitives)](https://github.com/snatuva/angular-primitives) - Signal-first Angular primitives for building scalable, accessible UI systems.
+* [frame-ui ![GitHub Repo Stars](https://img.shields.io/github/stars/Gamekohl/frame-ui) ![GitHub last commit](https://img.shields.io/github/last-commit/Gamekohl/frame-ui)](https://github.com/Gamekohl/frame-ui) - A customizable Angular component library built around modern primitives.
 
 ### Viewers
 
