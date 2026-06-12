@@ -1925,6 +1925,7 @@ Have a problem a plugin can solve? Add it to the [nvim-lua wishlist ![GitHub Rep
 - [NeoLand](https://neoland.dev) - A beautifully crafted website for Neovim resources.
 - [Weyaaron/nvim-training ![GitHub Repo Stars](https://img.shields.io/github/stars/Weyaaron/nvim-training) ![GitHub last commit](https://img.shields.io/github/last-commit/Weyaaron/nvim-training)](https://github.com/Weyaaron/nvim-training) - A beginner-friendly tool for training your 'muscle memory' using small, repeatable tasks.
 - [Nvim.app](https://nvim.app) - A modern search interface for Neovim plugins with fuzzy search, filtering, and self-service updates for plugin authors.
+- [ChuYanLon/chad46 ![GitHub Repo Stars](https://img.shields.io/github/stars/ChuYanLon/chad46) ![GitHub last commit](https://img.shields.io/github/last-commit/ChuYanLon/chad46)](https://github.com/ChuYanLon/chad46) - 94 themes with 44 highlight integrations, daily synced from NvChad/base46.
 <!--lint disable double-link -->
 [**⬆ back to top**](#contents)
 <!--lint enable double-link -->
