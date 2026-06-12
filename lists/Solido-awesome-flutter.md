@@ -346,7 +346,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 ### Styling
 
 - [Flutterial ![GitHub Repo Stars](https://img.shields.io/github/stars/rxlabz/flutterial) ![GitHub last commit](https://img.shields.io/github/last-commit/rxlabz/flutterial)](https://github.com/rxlabz/flutterial) [1753⭐] - Flutter Material Theme explorer by [Erick Ghaumez](https://twitter.com/rxlabz).
-- [Pigment ![GitHub Repo Stars](https://img.shields.io/github/stars/bregydoc/pigment) ![GitHub last commit](https://img.shields.io/github/last-commit/bregydoc/pigment)](https://github.com/bregydoc/pigment) [216⭐] - Simple but useful package for use colors in flutter.
+- [Pigment ![GitHub Repo Stars](https://img.shields.io/github/stars/bregydoc/pigment) ![GitHub last commit](https://img.shields.io/github/last-commit/bregydoc/pigment)](https://github.com/bregydoc/pigment) [216���] - Simple but useful package for use colors in flutter.
 
 ### Media
 
