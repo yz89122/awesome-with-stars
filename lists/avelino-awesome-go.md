@@ -3292,6 +3292,7 @@ _Full stack web frameworks._
 ## Webhooks Server
 
 - [webhook ![GitHub Repo Stars](https://img.shields.io/github/stars/adnanh/webhook) ![GitHub last commit](https://img.shields.io/github/last-commit/adnanh/webhook)](https://github.com/adnanh/webhook) - Tool which allows user to create HTTP endpoints (hooks) that execute commands on the server.
+- [HookRun ![GitHub Repo Stars](https://img.shields.io/github/stars/bluvenr/hookrun) ![GitHub last commit](https://img.shields.io/github/last-commit/bluvenr/hookrun)](https://github.com/bluvenr/hookrun) - Lightweight webhook action engine (~3MB single binary, zero deps) that executes commands and scripts from YAML rules with token/HMAC/IP auth and hot reload.
 - [webhooked ![GitHub Repo Stars](https://img.shields.io/github/stars/42Atomys/webhooked) ![GitHub last commit](https://img.shields.io/github/last-commit/42Atomys/webhooked)](https://github.com/42Atomys/webhooked) - A webhook receiver on steroids: handle, secure, format and store a Webhook payload has never been easier.
 - [WebhookX ![GitHub Repo Stars](https://img.shields.io/github/stars/webhookx-io/webhookx) ![GitHub last commit](https://img.shields.io/github/last-commit/webhookx-io/webhookx)](https://github.com/webhookx-io/webhookx) - A webhooks gateway for message receiving, processing, and reliable delivering.
 

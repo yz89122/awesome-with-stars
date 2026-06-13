@@ -10,7 +10,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 | Awesome | Linux | Projects | Updated |
 |:-------:|:-----:|:--------:|:-------:|
-| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | :penguin: | 1100 | May 05, 2026 |
+| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | :penguin: | 1101 | June 13, 2026 |
 
 In parternship with:
 
@@ -1144,6 +1144,7 @@ In parternship with:
 * [AnyLint ![GitHub Repo Stars](https://img.shields.io/github/stars/FlineDev/AnyLint) ![GitHub last commit](https://img.shields.io/github/last-commit/FlineDev/AnyLint)](https://github.com/FlineDev/AnyLint) :penguin: - Lint anything by combining the power of Swift & regular expressions.
 * [IBLinter ![GitHub Repo Stars](https://img.shields.io/github/stars/IBDecodable/IBLinter) ![GitHub last commit](https://img.shields.io/github/last-commit/IBDecodable/IBLinter)](https://github.com/IBDecodable/IBLinter) - A linter tool for Interface Builder.
 * [L10nLint ![GitHub Repo Stars](https://img.shields.io/github/stars/s2mr/L10nLint) ![GitHub last commit](https://img.shields.io/github/last-commit/s2mr/L10nLint)](https://github.com/s2mr/L10nLint) - A linter tool for Localizable.strings.
+* [solid-like-a-rock ![GitHub Repo Stars](https://img.shields.io/github/stars/nenadvulic/solid-like-a-rock) ![GitHub last commit](https://img.shields.io/github/last-commit/nenadvulic/solid-like-a-rock)](https://github.com/nenadvulic/solid-like-a-rock) :penguin: - Architecture linter that enforces Clean Architecture and TCA import rules using SwiftSyntax.
 * [swift-mod ![GitHub Repo Stars](https://img.shields.io/github/stars/ra1028/swift-mod) ![GitHub last commit](https://img.shields.io/github/last-commit/ra1028/swift-mod)](https://github.com/ra1028/swift-mod) - A tool for Swift code modification intermediating between code generation and formatting.
 * [SwiftCop ![GitHub Repo Stars](https://img.shields.io/github/stars/andresinaka/SwiftCop) ![GitHub last commit](https://img.shields.io/github/last-commit/andresinaka/SwiftCop)](https://github.com/andresinaka/SwiftCop) - A validation library which inspired by the clarity of Ruby On Rails Active Record validations.
 * [SwiftFormat ![GitHub Repo Stars](https://img.shields.io/github/stars/nicklockwood/SwiftFormat) ![GitHub last commit](https://img.shields.io/github/last-commit/nicklockwood/SwiftFormat)](https://github.com/nicklockwood/SwiftFormat) - A code library and command-line formatting tool for reformatting Swift code.

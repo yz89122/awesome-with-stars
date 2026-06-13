@@ -951,8 +951,8 @@ See also:
 
 ## Lisp parsers
 
-* [Eclector ![GitHub Repo Stars](https://img.shields.io/github/stars/fstamour/breeze) ![GitHub last commit](https://img.shields.io/github/last-commit/fstamour/breeze)](https://github.com/fstamour/breeze/) - A portable Common Lisp reader that is highly customizable, can recover from errors and can return concrete syntax trees.
-  * *under active development*
+* [Eclector ![GitHub Repo Stars](https://img.shields.io/github/stars/s-expressionists/Eclector) ![GitHub last commit](https://img.shields.io/github/last-commit/s-expressionists/Eclector)](https://github.com/s-expressionists/Eclector/) - A portable Common Lisp reader that is highly customizable, can recover from errors and can return concrete syntax trees.
+  * used in tools and libraries but still *under active development*
 * [rewrite-cl ![GitHub Repo Stars](https://img.shields.io/github/stars/atgreen/rewrite-cl) ![GitHub last commit](https://img.shields.io/github/last-commit/atgreen/rewrite-cl)](https://github.com/atgreen/rewrite-cl) - Read, modify, and write Common Lisp source code while preserving whitespace and comments. MIT. *Built with LLMs*.
 * [cl-sourcery](https://sr.ht/~hajovonta/cl-sourcery/) - Intercepts all standard CL definition forms (defun, defmacro, defclass, defstruct, etc.) to capture and store the exact source as written — including whitespace, comments, and formatting. MIT. *Built with LLMs*.
 
