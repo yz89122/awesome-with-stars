@@ -10,7 +10,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 | Awesome | Linux | Projects | Updated |
 |:-------:|:-----:|:--------:|:-------:|
-| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | :penguin: | 1101 | June 13, 2026 |
+| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | :penguin: | 1102 | June 13, 2026 |
 
 In parternship with:
 
@@ -1462,6 +1462,7 @@ In parternship with:
 * [KVKCalendar ![GitHub Repo Stars](https://img.shields.io/github/stars/kvyatkovskys/KVKCalendar) ![GitHub last commit](https://img.shields.io/github/last-commit/kvyatkovskys/KVKCalendar)](https://github.com/kvyatkovskys/KVKCalendar) - A most fully customization calendar for Apple platforms 📅
 * [OBCalendar ![GitHub Repo Stars](https://img.shields.io/github/stars/oBilet/OBCalendar) ![GitHub last commit](https://img.shields.io/github/last-commit/oBilet/OBCalendar)](https://github.com/oBilet/OBCalendar) - OBCalendar is designed for simplicity and customization, it allows you to build beautiful and functional calendar interfaces effortlessly.
 * [Workaholic ![GitHub Repo Stars](https://img.shields.io/github/stars/hemangshah/Workaholic) ![GitHub last commit](https://img.shields.io/github/last-commit/hemangshah/Workaholic)](https://github.com/hemangshah/Workaholic) - A GitHub-like work contribution timeline.
+* [Yotei ![GitHub Repo Stars](https://img.shields.io/github/stars/claustrofob/Yotei) ![GitHub last commit](https://img.shields.io/github/last-commit/claustrofob/Yotei)](https://github.com/claustrofob/Yotei) - A modular, customizable SwiftUI/UIKit calendar package for iOS.
 
 #### Cards
 [back to top](#readme) 
