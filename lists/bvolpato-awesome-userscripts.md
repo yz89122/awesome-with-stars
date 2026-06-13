@@ -1040,7 +1040,7 @@ Userscripts can be used w/ the following browsers:
             Readme</a> /
         📢 <a href="https://github.com/adamlui/github-star-history/discussions">
             Discuss</a> /
-        ��� <a href="https://github.com/adamlui/github-star-history/issues">
+        🐛 <a href="https://github.com/adamlui/github-star-history/issues">
             Report bug</a>
     </blockquote>
 </details>
