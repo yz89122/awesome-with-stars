@@ -819,6 +819,8 @@ Inclusion criteria are less strict for this fast-moving field.
 - [lean-ctx ![GitHub Repo Stars](https://img.shields.io/github/stars/yvgude/lean-ctx) ![GitHub last commit](https://img.shields.io/github/last-commit/yvgude/lean-ctx)](https://github.com/yvgude/lean-ctx) - Token-saving context runtime for agents.
 - [hcom ![GitHub Repo Stars](https://img.shields.io/github/stars/aannoo/hcom) ![GitHub last commit](https://img.shields.io/github/last-commit/aannoo/hcom)](https://github.com/aannoo/hcom) - Orchestration and communication layer for managing multiple agents in their respective TUI apps.
 - [toktrack ![GitHub Repo Stars](https://img.shields.io/github/stars/mag123c/toktrack) ![GitHub last commit](https://img.shields.io/github/last-commit/mag123c/toktrack)](https://github.com/mag123c/toktrack) - Track token usage and cost across all agents.
+- [OpenCode ![GitHub Repo Stars](https://img.shields.io/github/stars/anomalyco/opencode) ![GitHub last commit](https://img.shields.io/github/last-commit/anomalyco/opencode)](https://github.com/anomalyco/opencode) - Open-source agent TUI.
+- [Nanocoder ![GitHub Repo Stars](https://img.shields.io/github/stars/Nano-Collective/nanocoder) ![GitHub last commit](https://img.shields.io/github/last-commit/Nano-Collective/nanocoder)](https://github.com/Nano-Collective/nanocoder) - Local-first agent TUI.
 
 ### LLM Interaction
 - [aye-chat ![GitHub Repo Stars](https://img.shields.io/github/stars/acrotron/aye-chat) ![GitHub last commit](https://img.shields.io/github/last-commit/acrotron/aye-chat)](https://github.com/acrotron/aye-chat) - Workspace for editing, running commands, and chatting with your codebase.
