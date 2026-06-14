@@ -58,6 +58,10 @@
 - [Flask ![GitHub Repo Stars](https://img.shields.io/github/stars/j0ack/flask-inertia) ![GitHub last commit](https://img.shields.io/github/last-commit/j0ack/flask-inertia)](https://github.com/j0ack/flask-inertia)
 - [Symfony ![GitHub Repo Stars](https://img.shields.io/github/stars/nytodev/inertia-bundle) ![GitHub last commit](https://img.shields.io/github/last-commit/nytodev/inertia-bundle)](https://github.com/nytodev/inertia-bundle)
 
+## Hooks
+
+- [useApi ![GitHub Repo Stars](https://img.shields.io/github/stars/offload-project/inertiajs-use-api) ![GitHub last commit](https://img.shields.io/github/last-commit/offload-project/inertiajs-use-api)](https://github.com/offload-project/inertiajs-use-api) - React hook for calling JSON API endpoints from Inertia.js apps, with optional piping into page props.
+
 ## Resources
 
 - `💜` [Starter kit](https://laravel.com/docs/13.x/starter-kits#available-starter-kits) - Laravel's official starter kits for Vue, React and Svelte.
