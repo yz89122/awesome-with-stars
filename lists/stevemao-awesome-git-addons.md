@@ -1818,7 +1818,7 @@ Site:      github.com
 Repo:      zdharma/git-url
 Revision:  master
 
-gitu://ҝjȩMżEäḝЃȣϟṈӛŀї
+gitu://��jȩMżEäḝЃȣϟṈӛŀї
 
 $ git url -r v1.0
 Encoding... INPUT is next paragraph:

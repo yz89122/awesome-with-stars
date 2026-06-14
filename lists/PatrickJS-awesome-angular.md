@@ -2073,6 +2073,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-pk-ui ![GitHub Repo Stars](https://img.shields.io/github/stars/superpck/ngx-pk-ui) ![GitHub last commit](https://img.shields.io/github/last-commit/superpck/ngx-pk-ui)](https://github.com/superpck/ngx-pk-ui) - An Angular 21 component library providing UI components and CSS utilities.
 * [magary ![GitHub Repo Stars](https://img.shields.io/github/stars/JhoanGon/magary) ![GitHub last commit](https://img.shields.io/github/last-commit/JhoanGon/magary)](https://github.com/JhoanGon/magary) - A modern, standalone-first Angular UI library monorepo.
 * [ngx-core-components ![GitHub Repo Stars](https://img.shields.io/github/stars/prajaktadube/ngx-core-components) ![GitHub last commit](https://img.shields.io/github/last-commit/prajaktadube/ngx-core-components)](https://github.com/prajaktadube/ngx-core-components) - Angular 19+ component library — production-ready UI components built with signals, OnPush change detection, and zero runtime dependencies.
+* [ngx-cupertino ![GitHub Repo Stars](https://img.shields.io/github/stars/gacc94/ngx-cupertino) ![GitHub last commit](https://img.shields.io/github/last-commit/gacc94/ngx-cupertino)](https://github.com/gacc94/ngx-cupertino) - Angular components implementing Apple's iOS 26 / macOS Tahoe 26 design system.
 
 ### UI Libraries built on Bootstrap
 
