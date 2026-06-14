@@ -37,7 +37,7 @@ Terraform enables you to safely and predictably create, change, and improve prod
 - [Testing](#testing)
 - [Tools](#tools)
   - [CI](#ci)
-  - [IDE](#ide)
+  - [VS Code Extensions](#vs-code-extensions)
 - [Libraries](#libraries)
 - [Boilerplates](#boilerplates)
 - [Self-hosted Terraform Platforms](#self-hosted-terraform-platforms)
@@ -329,6 +329,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 - [terraform-provider-uname ![GitHub Repo Stars](https://img.shields.io/github/stars/julienlevasseur/terraform-provider-uname) ![GitHub last commit](https://img.shields.io/github/last-commit/julienlevasseur/terraform-provider-uname)](https://github.com/julienlevasseur/terraform-provider-uname) - Uname Provider for Terraform.
 - [terraform-provider-value ![GitHub Repo Stars](https://img.shields.io/github/stars/pseudo-dynamic/terraform-provider-value) ![GitHub last commit](https://img.shields.io/github/last-commit/pseudo-dynamic/terraform-provider-value)](https://github.com/pseudo-dynamic/terraform-provider-value) - Value Provider for Terraform.
 - [terraform-provider-multipass ![GitHub Repo Stars](https://img.shields.io/github/stars/todoroff/terraform-provider-multipass) ![GitHub last commit](https://img.shields.io/github/last-commit/todoroff/terraform-provider-multipass)](https://github.com/todoroff/terraform-provider-multipass) - Terraform provider for Multipass.
+- [terraform-provider-openrouter ![GitHub Repo Stars](https://img.shields.io/github/stars/cloudopsworks/terraform-provider-openrouter) ![GitHub last commit](https://img.shields.io/github/last-commit/cloudopsworks/terraform-provider-openrouter)](https://github.com/cloudopsworks/terraform-provider-openrouter) - Manage OpenRouter as code: workspaces, guardrails, spend-limited API keys, and org members. Terraform + OpenTofu.
 - [terraform-provider-plancost ![GitHub Repo Stars](https://img.shields.io/github/stars/plancost/terraform-provider-plancost) ![GitHub last commit](https://img.shields.io/github/last-commit/plancost/terraform-provider-plancost)](https://github.com/plancost/terraform-provider-plancost) - Terraform provider for Azure cost estimation and cost guardrails.
 
 ## Testing
@@ -386,6 +387,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 - [para ![GitHub Repo Stars](https://img.shields.io/github/stars/paraterraform/para) ![GitHub last commit](https://img.shields.io/github/last-commit/paraterraform/para)](https://github.com/paraterraform/para) - The missing 3rd-party plugin manager and a "Swiss army knife" for Terraform/Terragrunt - just 1 tool to facilitate all workflows. :skull:
 - [pike ![GitHub Repo Stars](https://img.shields.io/github/stars/jamesWoolfenden/pike) ![GitHub last commit](https://img.shields.io/github/last-commit/jamesWoolfenden/pike)](https://github.com/jamesWoolfenden/pike) - Pike calculates the permissions or IAM policy required to build your Terraform.
 - [pipeform ![GitHub Repo Stars](https://img.shields.io/github/stars/magodo/pipeform) ![GitHub last commit](https://img.shields.io/github/last-commit/magodo/pipeform)](https://github.com/magodo/pipeform) - Terraform runtime TUI
+- [platform-skills ![GitHub Repo Stars](https://img.shields.io/github/stars/nitinjain999/platform-skills) ![GitHub last commit](https://img.shields.io/github/last-commit/nitinjain999/platform-skills)](https://github.com/nitinjain999/platform-skills) - AI-assisted field handbook for Terraform: IAM least privilege review, blast radius analysis, state impact, provider constraints, and rollback planning. Works as a Claude, Codex, Cursor, and Copilot plugin.
 - [pluralith](https://www.pluralith.com/) - Terraform state visualization and automated generation of infrastructure documentation. :heavy_dollar_sign:
 - [pre-commit-terraform ![GitHub Repo Stars](https://img.shields.io/github/stars/antonbabenko/pre-commit-terraform) ![GitHub last commit](https://img.shields.io/github/last-commit/antonbabenko/pre-commit-terraform)](https://github.com/antonbabenko/pre-commit-terraform) - pre-commit git hooks for Terraform and Terragrunt: auto-format, validate, update docs, run security checks, estimate costs, and more.
 - [pretf ![GitHub Repo Stars](https://img.shields.io/github/stars/raymondbutcher/pretf) ![GitHub last commit](https://img.shields.io/github/last-commit/raymondbutcher/pretf)](https://github.com/raymondbutcher/pretf) - drop-in Terraform wrapper that generates Terraform configuration with Python. See [pretf documentation](https://pretf.readthedocs.io/en/latest/) :skull:
@@ -512,8 +514,9 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 - [terraform-plan ![GitHub Repo Stars](https://img.shields.io/github/stars/cds-snc/terraform-plan) ![GitHub last commit](https://img.shields.io/github/last-commit/cds-snc/terraform-plan)](https://github.com/cds-snc/terraform-plan) - GitHub Action to run Terraform plan and add a comment with the changes.
 - [terraform-risk-assessor ![GitHub Repo Stars](https://img.shields.io/github/stars/Liam-Johnston/terraform-risk-assessor) ![GitHub last commit](https://img.shields.io/github/last-commit/Liam-Johnston/terraform-risk-assessor)](https://github.com/Liam-Johnston/terraform-risk-assessor) - GitHub Action that analyses Terraform plan changes with AI and comments a risk assessment on pull requests.
 
-### IDE
+### VS Code Extensions
 
+- [HashiCorp Terraform](https://marketplace.visualstudio.com/items?itemName=hashicorp.terraform)
 - [vscode-terraform-live-graph ![GitHub Repo Stars](https://img.shields.io/github/stars/adamiBs/vscode-terraform-live-graph) ![GitHub last commit](https://img.shields.io/github/last-commit/adamiBs/vscode-terraform-live-graph)](https://github.com/adamiBs/vscode-terraform-live-graph) - Terraform Live Graph Extension for Visual Studio Code is a plugin that allows you to generate a live Terraform graph as you code.
 - [tf-nav](https://marketplace.visualstudio.com/items?itemName=owenrumney.tf-nav) - Terraform Navigation Extension to created an index of resources by type of file with an easy to navigate treeview.
 
@@ -596,7 +599,6 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 - [vim-hcl ![GitHub Repo Stars](https://img.shields.io/github/stars/jvirtanen/vim-hcl) ![GitHub last commit](https://img.shields.io/github/last-commit/jvirtanen/vim-hcl)](https://github.com/jvirtanen/vim-hcl) - Syntax highlighting for HCL
 - [Vim-Terraform-Completion ![GitHub Repo Stars](https://img.shields.io/github/stars/juliosueiras/vim-terraform-completion) ![GitHub last commit](https://img.shields.io/github/last-commit/juliosueiras/vim-terraform-completion)](https://github.com/juliosueiras/vim-terraform-completion)
 - [Vim-Terraform ![GitHub Repo Stars](https://img.shields.io/github/stars/hashivim/vim-terraform) ![GitHub last commit](https://img.shields.io/github/last-commit/hashivim/vim-terraform)](https://github.com/hashivim/vim-terraform)
-- [VS Code](https://marketplace.visualstudio.com/items?itemName=hashicorp.terraform)
 
 ## License
 
