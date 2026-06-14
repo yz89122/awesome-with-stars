@@ -200,7 +200,7 @@ Browse and search the resources via the [GitHub Pages UI](https://inoue0426.gith
 
 - [Drug Mechanism Database (DrugMechDB) ![GitHub Repo Stars](https://img.shields.io/github/stars/SuLab/DrugMechDB) ![GitHub last commit](https://img.shields.io/github/last-commit/SuLab/DrugMechDB)](https://github.com/SuLab/DrugMechDB/tree/2.0.1) — Mechanisms of action from drug to disease.
 - [DRKG ![GitHub Repo Stars](https://img.shields.io/github/stars/gnn4dr/DRKG) ![GitHub last commit](https://img.shields.io/github/last-commit/gnn4dr/DRKG)](https://github.com/gnn4dr/DRKG) — Large-scale biological knowledge graph for drug discovery.
-- [Hetionet ![GitHub Repo Stars](https://img.shields.io/github/stars/hetio/hetionet) ![GitHub last commit](https://img.shields.io/github/last-commit/hetio/hetionet)](https://github.com/hetio/hetionet) — Heterogeneous network integrating genes, diseases, drugs, pathways, and more.
+- [Hetionet ![GitHub Repo Stars](https://img.shields.io/github/stars/hetio/hetionet) ![GitHub last commit](https://img.shields.io/github/last-commit/hetio/hetionet)](https://github.com/hetio/hetionet) �� Heterogeneous network integrating genes, diseases, drugs, pathways, and more.
 - [PrimeKG ![GitHub Repo Stars](https://img.shields.io/github/stars/mims-harvard/PrimeKG) ![GitHub last commit](https://img.shields.io/github/last-commit/mims-harvard/PrimeKG)](https://github.com/mims-harvard/PrimeKG) — Multi-modal precision medicine knowledge graph integrating clinical, genetic, and drug data.
 
 #### Gene Regulatory Network
