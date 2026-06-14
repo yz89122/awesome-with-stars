@@ -594,6 +594,7 @@ _Frameworks for performing ELT / ETL_
 
 - [Benthos ![GitHub Repo Stars](https://img.shields.io/github/stars/benthosdev/benthos) ![GitHub last commit](https://img.shields.io/github/last-commit/benthosdev/benthos)](https://github.com/benthosdev/benthos) - A message streaming bridge between a range of protocols.
 - [CloudQuery ![GitHub Repo Stars](https://img.shields.io/github/stars/cloudquery/cloudquery) ![GitHub last commit](https://img.shields.io/github/last-commit/cloudquery/cloudquery)](http://github.com/cloudquery/cloudquery) - A high-performance ELT data integration framework with pluggable architecture.
+- [confluence2md ![GitHub Repo Stars](https://img.shields.io/github/stars/gkoos/confluence2md) ![GitHub last commit](https://img.shields.io/github/last-commit/gkoos/confluence2md)](https://github.com/gkoos/confluence2md) - Confluence to Markdown crawler and converter.
 - [omniparser ![GitHub Repo Stars](https://img.shields.io/github/stars/jf-tech/omniparser) ![GitHub last commit](https://img.shields.io/github/last-commit/jf-tech/omniparser)](https://github.com/jf-tech/omniparser) - A versatile ETL library that parses text input (CSV/txt/JSON/XML/EDI/X12/EDIFACT/etc) in streaming fashion and transforms data into JSON output using data-driven schema.
 
 **[⬆ back to top](#contents)**
