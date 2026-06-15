@@ -22,7 +22,7 @@
 
 > A curated list of awesome Magento 2 Extensions & Resources.
 
-> Tracking **225** projects · **53** actively maintained · **9** 🔥 hot · **45** 🪦 on the graveyard shelf.
+> Tracking **225** projects · **53** actively maintained · **9** 🔥 hot · **46** 🪦 on the graveyard shelf.
 
 - [What is an awesome list? ![GitHub Repo Stars](https://img.shields.io/github/stars/sindresorhus/awesome) ![GitHub last commit](https://img.shields.io/github/last-commit/sindresorhus/awesome)](https://github.com/sindresorhus/awesome/blob/master/awesome.md)
 - [Contribution guide](contributing.md) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/DavidLambauer/awesome-magento2/issues)
@@ -101,13 +101,13 @@ Also see:
 - [Meet Magento Netherlands](https://nl.meet-magento.com/) 🫡 - Meet Magento event series — Netherlands.
 - [Meet Magento New York City](https://meetmagentonyc.com/) 🫡 - Meet Magento event series — NYC.
 - [Meet Magento UK](https://meet-magento.co.uk/) 🫡 - Meet Magento event series — UK.
-- [Meet Magento Baltics](https://meetmagentobaltics.com/) - Meet Magento event series — Baltics.
 - [Meet Magento Malaysia](https://www.meetmagento.asia/) - Meet Magento event series — Malaysia.
 - [Meet Magento Romania](https://ro.meet-magento.com/) - Meet Magento event series — Romania.
 
 <details>
 <summary>🪦 Graveyard — projects no longer recommended</summary>
 
+- [Meet Magento Baltics](https://meetmagentobaltics.com/) - Meet Magento event series — Baltics.
 - [Meet Magento Poland](https://meetmagento.pl/) - Meet Magento event series — Poland.
 - [Meet Magento Singapore](https://meetmagento.sg/) - Meet Magento event series — Singapore.
 
@@ -483,7 +483,7 @@ Community members worth following — talks, blog posts, open-source maintenance
 - [Mageres ![GitHub Repo Stars](https://img.shields.io/github/stars/aleron75/mageres) ![GitHub last commit](https://img.shields.io/github/last-commit/aleron75/mageres)](https://github.com/aleron75/mageres) - Alessandro Ronchi's list of resources for Magento 1 and Magento 2.
 
 <details>
-<summary>🪦 Graveyard �� projects no longer recommended</summary>
+<summary>🪦 Graveyard — projects no longer recommended</summary>
 
 - [Awesome Magento ![GitHub Repo Stars](https://img.shields.io/github/stars/sunel/awesome-magento) ![GitHub last commit](https://img.shields.io/github/last-commit/sunel/awesome-magento)](https://github.com/sunel/awesome-magento) - An awesome Magento list with mixed M1 and M2 content by sunel.
 
