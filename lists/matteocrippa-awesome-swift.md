@@ -10,7 +10,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 | Awesome | Linux | Projects | Updated |
 |:-------:|:-----:|:--------:|:-------:|
-| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | :penguin: | 1102 | June 13, 2026 |
+| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | :penguin: | 1103 | June 15, 2026 |
 
 In parternship with:
 
@@ -314,6 +314,7 @@ In parternship with:
 * [EdgeRunner ![GitHub Repo Stars](https://img.shields.io/github/stars/christopherkarani/EdgeRunner) ![GitHub last commit](https://img.shields.io/github/last-commit/christopherkarani/EdgeRunner)](https://github.com/christopherkarani/EdgeRunner) - Fast, local LLM inference for Apple Silicon. Built in Swift and Metal from the ground up.
 * [Espresso ![GitHub Repo Stars](https://img.shields.io/github/stars/christopherkarani/Espresso) ![GitHub last commit](https://img.shields.io/github/last-commit/christopherkarani/Espresso)](https://github.com/christopherkarani/Espresso) - Compile transformers directly for Apple's Neural Engine.
 * [Fazm ![GitHub Repo Stars](https://img.shields.io/github/stars/m13v/fazm) ![GitHub last commit](https://img.shields.io/github/last-commit/m13v/fazm)](https://github.com/m13v/fazm) - A voice-controlled AI agent for macOS using accessibility APIs and ScreenCaptureKit.
+* [Open Agent SDK ![GitHub Repo Stars](https://img.shields.io/github/stars/terryso/open-agent-sdk-swift) ![GitHub last commit](https://img.shields.io/github/last-commit/terryso/open-agent-sdk-swift)](https://github.com/terryso/open-agent-sdk-swift) - Open-source Agent SDK with full agent loop, 34 built-in tools, sub-agent orchestration, MCP integration, and multi-provider LLM support.
 * [OpenAI ![GitHub Repo Stars](https://img.shields.io/github/stars/MacPaw/OpenAI) ![GitHub last commit](https://img.shields.io/github/last-commit/MacPaw/OpenAI)](https://github.com/MacPaw/OpenAI) - Swift package for OpenAI public API.
 
 ### Algorithm
