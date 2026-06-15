@@ -825,6 +825,7 @@ Inclusion criteria are less strict for this fast-moving field.
 ### LLM Interaction
 - [aye-chat ![GitHub Repo Stars](https://img.shields.io/github/stars/acrotron/aye-chat) ![GitHub last commit](https://img.shields.io/github/last-commit/acrotron/aye-chat)](https://github.com/acrotron/aye-chat) - Workspace for editing, running commands, and chatting with your codebase.
 - [cmd-ai ![GitHub Repo Stars](https://img.shields.io/github/stars/BrodaNoel/cmd-ai) ![GitHub last commit](https://img.shields.io/github/last-commit/BrodaNoel/cmd-ai)](https://github.com/BrodaNoel/cmd-ai) - Turns natural language into executable shell commands.
+- [lilbee ![GitHub Repo Stars](https://img.shields.io/github/stars/tobocop2/lilbee) ![GitHub last commit](https://img.shields.io/github/last-commit/tobocop2/lilbee)](https://github.com/tobocop2/lilbee) - Use local models to talk to your files, code, and more.
 
 ## Other Resources
 
