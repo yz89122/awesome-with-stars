@@ -219,6 +219,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [deploy-with-git ![GitHub Repo Stars](https://img.shields.io/github/stars/RunOnFlux/deploy-with-git) ![GitHub last commit](https://img.shields.io/github/last-commit/RunOnFlux/deploy-with-git)](https://github.com/RunOnFlux/deploy-with-git/tree/master/deploy-angular) - Lets you deploy an Angular app directly to the [Flux Network](https://runonflux.com/) from a Git repository.
 * [@railwayapp-templates/angular-starter ![GitHub Repo Stars](https://img.shields.io/github/stars/railwayapp-templates/angular-starter) ![GitHub last commit](https://img.shields.io/github/last-commit/railwayapp-templates/angular-starter)](https://github.com/railwayapp-templates/angular-starter) - One-click default Angular TS starter, utilizing Caddy to serve!
 * [angular-deploy-bunny ![GitHub Repo Stars](https://img.shields.io/github/stars/lostium/angular-deploy-bunny) ![GitHub last commit](https://img.shields.io/github/last-commit/lostium/angular-deploy-bunny)](https://github.com/lostium/angular-deploy-bunny) - Angular Architect builder (`ng deploy`) that syncs your build to a Bunny.net CDN Storage Zone using SHA256 incremental diffing, then purges the corresponding Pull Zone.
+* [ngx-ssh-deploy](https://bitbucket.org/dkhang97/ngx-ssh-deploy/src/master/) - Deploy Angular projects using SSH.
 
 ### Desktop Applications
 
