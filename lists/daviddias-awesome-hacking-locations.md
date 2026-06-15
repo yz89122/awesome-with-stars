@@ -672,7 +672,7 @@ Webpage: https://kokkostore.no/
 
 Wifi| Power | Address  | Open Hours
 --- | ----- | ------------------------------ | -------------------------------------------
-✔   | ��     | [Østervåg 43](https://maps.app.goo.gl/4zyiRWxnrjWX4cH3A) | Mon-Thu 10:00-19:00, Fri-Sat 10:00-01:00, Sun 11:00-18:00
+✔   | ✔     | [Østervåg 43](https://maps.app.goo.gl/4zyiRWxnrjWX4cH3A) | Mon-Thu 10:00-19:00, Fri-Sat 10:00-01:00, Sun 11:00-18:00
 
 
 ## Tromsø
