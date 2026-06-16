@@ -1114,7 +1114,7 @@ Update Time, five active automations, webhooks.
   * [Vercel](https://vercel.com/) - Build, deploy, and host web apps with free SSL, global CDN, and unique Preview URLs each time you `git push`. Perfect for Next.js and other Static Site Generators.
   * [Versoly](https://versoly.com/) - SaaS-focused website builder - unlimited websites, 70+ blocks, five templates, custom CSS, favicon, SEO and forms. No custom domain.
 
-**[⬆️ Back to Top](#table-of-contents)**
+**[���️ Back to Top](#table-of-contents)**
 
 ## DNS
 

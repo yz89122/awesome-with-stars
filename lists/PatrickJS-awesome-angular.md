@@ -1579,6 +1579,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-multi-field-dropdown ![GitHub Repo Stars](https://img.shields.io/github/stars/luismtapiab/ngx-multi-field-dropdown) ![GitHub last commit](https://img.shields.io/github/last-commit/luismtapiab/ngx-multi-field-dropdown)](https://github.com/luismtapiab/ngx-multi-field-dropdown) - A customizable Angular searchable dropdown component with multi-field search support.
 * [angular-multiselect-dropdown ![GitHub Repo Stars](https://img.shields.io/github/stars/alexandroit/angular-multiselect-dropdown) ![GitHub last commit](https://img.shields.io/github/last-commit/alexandroit/angular-multiselect-dropdown)](https://github.com/alexandroit/angular-multiselect-dropdown) - A maintained Angular multiselect dropdown built for template-driven and reactive forms.
 * [@koenz/angular-datepicker ![GitHub Repo Stars](https://img.shields.io/github/stars/koenz/angular-datepicker) ![GitHub last commit](https://img.shields.io/github/last-commit/koenz/angular-datepicker)](https://github.com/koenz/angular-datepicker) - An animating datepicker for Angular 21+.
+* [ngx-dual-rangepicker ![GitHub Repo Stars](https://img.shields.io/github/stars/olivierpetitjean/ngx-dual-rangepicker) ![GitHub last commit](https://img.shields.io/github/last-commit/olivierpetitjean/ngx-dual-rangepicker)](https://github.com/olivierpetitjean/ngx-dual-rangepicker) - Dual-calendar date range picker for Angular 20+ and Angular Material M3.
 
 ### JSON Forms
 
