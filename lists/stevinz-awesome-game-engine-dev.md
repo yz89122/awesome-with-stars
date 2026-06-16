@@ -50,8 +50,9 @@ This includes things typically not found in low-level game engines, app / game f
     - [C++](#c-4)
     - [Java](#java-1)
 - [Specialty Topics](#specialty-topics)
-    - [AI / Pathfinding](#ai--pathfinding)
+    - [Asset Pipeline / Formats](#asset-pipeline--formats)
     - [Color Manipulation](#color-manipulation)
+    - [Enemies / Pathfinding](#enemies--pathfinding)
     - [Entity Component Systems](#entity-component-systems)
     - [Fluid / Smoke](#fluid--smoke)
     - [Geometry](#geometry)
@@ -71,6 +72,7 @@ This includes things typically not found in low-level game engines, app / game f
     - [Animation Software](#animation-software)
     - [Audio Tools](#audio-tools)
     - [Color / Palettes](#color--palettes)
+    - [Debugging / Profiling](#debugging--profiling)
     - [Image Editors](#image-editors)
     - [Level Editors](#level-editors)
     - [Materials / Textures](#materials--textures)
@@ -97,6 +99,7 @@ _Production ready game engines to tinker with, explore, learn and inspire._
 ### Awesome Collections
 - 📚 [Awesome Game Engines ![GitHub Repo Stars](https://img.shields.io/github/stars/ChessMax/awesome-game-engines) ![GitHub last commit](https://img.shields.io/github/last-commit/ChessMax/awesome-game-engines)](https://github.com/ChessMax/awesome-game-engines) - List of game engines.
 - 📚 [Cool Engines ![GitHub Repo Stars](https://img.shields.io/github/stars/JohnClarking/CoolEngines) ![GitHub last commit](https://img.shields.io/github/last-commit/JohnClarking/CoolEngines)](https://github.com/JohnClarking/CoolEngines) - List of open source graphic & game engines.
+- 📚 [Fantasy Consoles ![GitHub Repo Stars](https://img.shields.io/github/stars/paladin-t/fantasy) ![GitHub last commit](https://img.shields.io/github/last-commit/paladin-t/fantasy)](https://github.com/paladin-t/fantasy) - List of available fantasy consoles/computers.
 - 📚 [Wikipedia: List of Game Engines](https://en.wikipedia.org/wiki/List_of_game_engines) - Game engines along with their platforms and licenses.
 
 ### Popular
@@ -105,7 +108,7 @@ _Production ready game engines to tinker with, explore, learn and inspire._
 - 💸 [Unreal Engine](https://www.unrealengine.com) - AAA quality, insane feature set, photoreal visuals. [[Awesome ![GitHub Repo Stars](https://img.shields.io/github/stars/insthync/awesome-ue4) ![GitHub last commit](https://img.shields.io/github/last-commit/insthync/awesome-ue4)](https://github.com/insthync/awesome-ue4)]
 
 ### AAA
-- 🎉 [Amazon Lumberyard ![GitHub Repo Stars](https://img.shields.io/github/stars/aws/lumberyard) ![GitHub last commit](https://img.shields.io/github/last-commit/aws/lumberyard)](https://github.com/aws/lumberyard) - AAA engine integrated with AWS and Twitch. Forked from _CRYENGINE_.
+- 🎉 [Amazon Lumberyard ![GitHub Repo Stars](https://img.shields.io/github/stars/aws/lumberyard) ![GitHub last commit](https://img.shields.io/github/last-commit/aws/lumberyard)](https://github.com/aws/lumberyard) - AAA engine integrated with _AWS_ and _Twitch_. Forked from _CRYENGINE_.
 - 💰 [C4 Engine](http://c4engine.com) - Modern console engine.
 - 💸 [CRYENGINE](https://www.cryengine.com) - Powerful real-time game development platform by _Crytek_.
 - 🆓 [Evergine](https://evergine.com) - High-quality 3D and 2D solutions. Formerly _Wave Engine_. [[Samples ![GitHub Repo Stars](https://img.shields.io/github/stars/EvergineTeam/Samples) ![GitHub last commit](https://img.shields.io/github/last-commit/EvergineTeam/Samples)](https://github.com/EvergineTeam/Samples)]
@@ -122,13 +125,13 @@ _Production ready game engines to tinker with, explore, learn and inspire._
 - 🎉 [Defold ![GitHub Repo Stars](https://img.shields.io/github/stars/defold/defold) ![GitHub last commit](https://img.shields.io/github/last-commit/defold/defold)](https://github.com/defold/defold) - Open sourced game engine by _King_. [[Website](https://defold.com)]
 - 💸 [Felgo](https://felgo.com/games) - Build cross-platform 2D games in days, built with _Qt_.
 - 💰 [GameGuru](https://www.game-guru.com/) - Game builder, 3D, no coding required by _TheGameCreators_.
-- 💸 [GameMaker Studio](https://www.yoyogames.com/en/gamemaker) - Popular 2D game development environment by _YoYo Games_.
+- 💸 [GameMaker](https://www.yoyogames.com/en/gamemaker) - Popular 2D game development environment by _YoYo Games_.
 - 💸 [GameSalad](https://gamesalad.com) - Sophisticated visual programming interface.
 - 💸 [Luxe](https://luxeengine.com/) - 2D first engine, with a 2D/3D renderer.
 - 💸 [MANU](https://manu-vgm.itch.io/) - Unique animation system helps you create games without coding.
 - 💸 [NeoAxis ![GitHub Repo Stars](https://img.shields.io/github/stars/NeoAxis/NeoAxisEngine) ![GitHub last commit](https://img.shields.io/github/last-commit/NeoAxis/NeoAxisEngine)](https://github.com/NeoAxis/NeoAxisEngine) - Versatile real-time platform for making games and apps.
 - 💰 [Phaser Editor 2D](https://phasereditor2d.com) - Commercial, web-based editor for _Phaser_. [[GitHub ![GitHub Repo Stars](https://img.shields.io/github/stars/PhaserEditor2D/PhaserEditor2D-v3) ![GitHub last commit](https://img.shields.io/github/last-commit/PhaserEditor2D/PhaserEditor2D-v3)](https://github.com/PhaserEditor2D/PhaserEditor2D-v3)]
-- 💸 [PlayCanvas](https://playcanvas.com) - Popular (_Flappy Bird_) WebGL game engine. [[Awesome ![GitHub Repo Stars](https://img.shields.io/github/stars/playcanvas/awesome-playcanvas) ![GitHub last commit](https://img.shields.io/github/last-commit/playcanvas/awesome-playcanvas)](https://github.com/playcanvas/awesome-playcanvas) | [GitHub ![GitHub Repo Stars](https://img.shields.io/github/stars/playcanvas/engine) ![GitHub last commit](https://img.shields.io/github/last-commit/playcanvas/engine)](https://github.com/playcanvas/engine)]
+- ���� [PlayCanvas](https://playcanvas.com) - Popular (_Flappy Bird_) WebGL game engine. [[Awesome ![GitHub Repo Stars](https://img.shields.io/github/stars/playcanvas/awesome-playcanvas) ![GitHub last commit](https://img.shields.io/github/last-commit/playcanvas/awesome-playcanvas)](https://github.com/playcanvas/awesome-playcanvas) | [GitHub ![GitHub Repo Stars](https://img.shields.io/github/stars/playcanvas/engine) ![GitHub last commit](https://img.shields.io/github/last-commit/playcanvas/engine)](https://github.com/playcanvas/engine)]
 - 💸 [Roblox](https://www.roblox.com/create) - Create immersive 3D experiences with Lua scripting.
 - 💸 [Simulation Starter Kit](https://benmorris.itch.io/plugin-based-scene-editor) - Create interactive 3D apps across a range of platforms.
 - 💸 [Stencyl ![GitHub Repo Stars](https://img.shields.io/github/stars/Stencyl/stencyl-engine) ![GitHub last commit](https://img.shields.io/github/last-commit/Stencyl/stencyl-engine)](https://github.com/Stencyl/stencyl-engine) - Quick and easy game making with visual scripting.
@@ -173,7 +176,7 @@ _Info on topics necessary for designing and developing game engines._
     - 📚 [Paper Bug](https://www.jeremyong.com/paperbug/) - Indexed compendium of graphics programming papers.
     - 📚 [Scratchapixel](https://www.scratchapixel.com) - In depth coverage of computer graphics topics.
 - Graphics API: DirectX
-    - 🌎 [DirectX](https://docs.microsoft.com/en-us/windows/win32/directx) - _Microsoft_ API used to create 2D/3D games and apps. [[Blog](https://devblogs.microsoft.com/directx/) | [Samples ![GitHub Repo Stars](https://img.shields.io/github/stars/microsoft/DirectX-Graphics-Samples) ![GitHub last commit](https://img.shields.io/github/last-commit/microsoft/DirectX-Graphics-Samples)](https://github.com/microsoft/DirectX-Graphics-Samples)]
+    - 🌎 [DirectX](https://learn.microsoft.com/en-us/windows/win32/directx) - _Microsoft_ API used to create 2D/3D games and apps. [[Blog](https://devblogs.microsoft.com/directx/) | [Samples ![GitHub Repo Stars](https://img.shields.io/github/stars/microsoft/DirectX-Graphics-Samples) ![GitHub last commit](https://img.shields.io/github/last-commit/microsoft/DirectX-Graphics-Samples)](https://github.com/microsoft/DirectX-Graphics-Samples)]
     - 📚 [DirectXTutorial.com](http://www.directxtutorial.com/default.aspx) - Older resource with lots of tutorials on DirectX versions 9 & 11.
 - Graphics API: Glide
     - 📚 [Glide](https://en.wikipedia.org/wiki/Glide_(API)) - Developed by _3dfx Interactive_ for their _Voodoo Graphics_ in the 1990's.
@@ -185,11 +188,11 @@ _Info on topics necessary for designing and developing game engines._
     - 📚 [Metal Tutorial](https://www.raywenderlich.com/7475-metal-tutorial-getting-started) - Learn how to get started with Metal at _RayWenderlich.com_.
 - Graphics API: OpenGL
     - 📚 [Learn OpenGL](https://learnopengl.com) 🔥 - Incredible! In depth tutorials for modern graphics programming.
-    - 🌎 [Mesa 3D](https://www.mesa3d.org/) - Open source implementations of OpenGL.
+    - ���� [Mesa 3D](https://www.mesa3d.org/) - Open source implementations of OpenGL.
     - 🌎 [OpenGL](https://www.opengl.org/) - The industry's foundation for high-performance graphics.
     - 📚 [OpenGL Tutorial](https://www.opengl-tutorial.org) - Collection of OpenGL tutorials with source code examples.
 - Graphics API: Vulkan
-    - 🌎 [Vulkan](https://www.vulkan.org) - Modern cross-platform graphics API. [[Samples ![GitHub Repo Stars](https://img.shields.io/github/stars/khronosGroup/Vulkan-samples) ![GitHub last commit](https://img.shields.io/github/last-commit/khronosGroup/Vulkan-samples)](https://github.com/khronosGroup/Vulkan-samples)]
+    - 🌎 [Vulkan](https://www.vulkan.org) - Modern, cross-platform graphics API. [[Samples ![GitHub Repo Stars](https://img.shields.io/github/stars/khronosGroup/Vulkan-samples) ![GitHub last commit](https://img.shields.io/github/last-commit/khronosGroup/Vulkan-samples)](https://github.com/khronosGroup/Vulkan-samples)]
     - 📚 [Vulkan Tutorial ![GitHub Repo Stars](https://img.shields.io/github/stars/Overv/VulkanTutorial) ![GitHub last commit](https://img.shields.io/github/last-commit/Overv/VulkanTutorial)](https://github.com/Overv/VulkanTutorial) - Teaches the basics of using Vulkan graphics and compute API.
 - Graphics API: WebGL
     - 🌎 [WebGL](https://www.khronos.org/webgl/) - Open web standard 3D graphics API. [[GitHub ![GitHub Repo Stars](https://img.shields.io/github/stars/KhronosGroup/WebGL) ![GitHub last commit](https://img.shields.io/github/last-commit/KhronosGroup/WebGL)](https://github.com/KhronosGroup/WebGL)]
@@ -215,7 +218,9 @@ _Info on topics necessary for designing and developing game engines._
 - Blog Articles
     - 📚 [How to Become a Game Engine Developer](https://www.haroldserrano.com/blog/how-to-become-a-game-engine-developer) - Starting point on game engine development.
 - Books
+    - 📚 [Data-Oriented Design](https://www.dataorienteddesign.com/dodbook/) - Practical methodology that reduces complexity, improves performance.
     - 📚 [Game Engine Architecture](https://www.gameenginebook.com) - Theory and practice of game engine development.
+    - 📚 [Game Engine Black Book: DOOM](https://fabiensanglard.net/gebbdoom/) - History, engineering, and development of the _Doom_ engine.
 - Commercial Studios Research Divisions
     - 🌎 [Activision Research](https://research.activision.com/) - Blog posts, articles and presentations from research within _Activision_.
     - 🌎 [EA Technology](https://www.ea.com/technology/research) - Research on game tech including info on the _Frostbite_ engine.
@@ -229,7 +234,6 @@ _Info on topics necessary for designing and developing game engines._
     - 📚 [Awesome Gamedev ![GitHub Repo Stars](https://img.shields.io/github/stars/Calinou/awesome-gamedev) ![GitHub last commit](https://img.shields.io/github/last-commit/Calinou/awesome-gamedev)](https://github.com/Calinou/awesome-gamedev) - Collection of free resources for making games.
     - 📚 [GameDev-Resources ![GitHub Repo Stars](https://img.shields.io/github/stars/Kavex/GameDev-Resources) ![GitHub last commit](https://img.shields.io/github/last-commit/Kavex/GameDev-Resources)](https://github.com/Kavex/GameDev-Resources) - Wonderful list of game development resources.
     - 📚 [Magic Tools ![GitHub Repo Stars](https://img.shields.io/github/stars/ellisonleao/magictools) ![GitHub last commit](https://img.shields.io/github/last-commit/ellisonleao/magictools)](https://github.com/ellisonleao/magictools) - List of game development resources to make magic happen.
-    - 📚 [Tiny Tools ![GitHub Repo Stars](https://img.shields.io/github/stars/everestpipkin/tools-list) ![GitHub last commit](https://img.shields.io/github/last-commit/everestpipkin/tools-list)](https://github.com/everestpipkin/tools-list) - Tools that might be useful in building your game.
     - 🌎 [Web Game Dev](https://www.webgamedev.com) - Resources on techniques and tools around JavaScript game development.
 - Books
     - 📚 [Art of Game Design](https://www.amazon.com/Art-Game-Design-Book-Lenses/dp/0123694965) - Teaches game design in an accessible manner.
@@ -265,7 +269,7 @@ _Language specific game engine development libraries / frameworks / code._
 - BASIC: App Framework
     - 💰 [Basic for Qt](https://www.q7basic.org/index.html) - BASIC language and environment built with _Qt_. Formerly _Q7Basic_.
     - 🎉 [QB64 ![GitHub Repo Stars](https://img.shields.io/github/stars/QB64Team/qb64) ![GitHub last commit](https://img.shields.io/github/last-commit/QB64Team/qb64)](https://github.com/QB64Team/qb64) - Modern BASIC+OpenGL language, retains _QBasic_ / _QB4.5_ compatibility.
-    - 📚 [Visual Basic](https://docs.microsoft.com/en-us/dotnet/visual-basic/) - Object-oriented language for Windows by _Microsoft_.
+    - 📚 [Visual Basic](https://learn.microsoft.com/en-us/dotnet/visual-basic/) - Object-oriented language for Windows by _Microsoft_.
 - BASIC: Game Framework
     - 🎉 [Dark Basic ![GitHub Repo Stars](https://img.shields.io/github/stars/TheGameCreators/Dark-Basic-Pro) ![GitHub last commit](https://img.shields.io/github/last-commit/TheGameCreators/Dark-Basic-Pro)](https://github.com/TheGameCreators/Dark-Basic-Pro) - BASIC programming language for creating apps and games. [[Website](https://www.thegamecreators.com/product/dark-basic-pro-open-source)]
 
@@ -396,7 +400,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [HarfBuzz ![GitHub Repo Stars](https://img.shields.io/github/stars/harfbuzz/harfbuzz) ![GitHub last commit](https://img.shields.io/github/last-commit/harfbuzz/harfbuzz)](https://github.com/harfbuzz/harfbuzz) - Text shaping library. Formatted and positioned glyph output.
     - 🎉 [msdfgen ![GitHub Repo Stars](https://img.shields.io/github/stars/Chlumsky/msdfgen) ![GitHub last commit](https://img.shields.io/github/last-commit/Chlumsky/msdfgen)](https://github.com/Chlumsky/msdfgen) - Multi-channel signed distance field generator.
     - 💰 [Slug](http://sluglibrary.com) - High-quality, resolution-independent text and vector graphics for 3D apps.
-    - 🎉 [slughorn ![GitHub Repo Stars](https://img.shields.io/github/stars/AlphaPixel/slughorn) ![GitHub last commit](https://img.shields.io/github/last-commit/AlphaPixel/slughorn)](https://github.com/AlphaPixel/slughorn) - Library for shoehorning the Slug text/graphics GPU rendering library into projects.
+    - 🎉 [slughorn ![GitHub Repo Stars](https://img.shields.io/github/stars/AlphaPixel/slughorn) ![GitHub last commit](https://img.shields.io/github/last-commit/AlphaPixel/slughorn)](https://github.com/AlphaPixel/slughorn) - Library for shoehorning the _Slug_ text/graphics GPU rendering library into projects.
 - C++: File Formats
     - ⭐ [Jpeg-Compressor ![GitHub Repo Stars](https://img.shields.io/github/stars/richgel999/jpeg-compressor) ![GitHub last commit](https://img.shields.io/github/last-commit/richgel999/jpeg-compressor)](https://github.com/richgel999/jpeg-compressor) - Single-file library that writes baseline JPEG compressed images.
     - 🎉 [TinyDNG ![GitHub Repo Stars](https://img.shields.io/github/stars/syoyo/tinydng) ![GitHub last commit](https://img.shields.io/github/last-commit/syoyo/tinydng)](https://github.com/syoyo/tinydng) - Header-only DNG / TIFF loader and writer.
@@ -413,15 +417,14 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Drop Creator ![GitHub Repo Stars](https://img.shields.io/github/stars/scidian/drop) ![GitHub last commit](https://img.shields.io/github/last-commit/scidian/drop)](https://github.com/scidian/drop) - No code, 2.5D game engine built with _Qt_, OpenGL and _Chipmunk Physics_.
     - 🔒 [Enigma ![GitHub Repo Stars](https://img.shields.io/github/stars/enigma-dev/enigma-dev) ![GitHub last commit](https://img.shields.io/github/last-commit/enigma-dev/enigma-dev)](https://github.com/enigma-dev/enigma-dev) - GameMaker compatible 2D engine.
     - 🎉 [Esoterica Engine ![GitHub Repo Stars](https://img.shields.io/github/stars/BobbyAnguelov/Esoterica) ![GitHub last commit](https://img.shields.io/github/last-commit/BobbyAnguelov/Esoterica)](https://github.com/BobbyAnguelov/Esoterica) - High-performance game engine with editor and AAA quality animation graph.
-    - 🎉 [Ethereal Engine ![GitHub Repo Stars](https://img.shields.io/github/stars/ir-engine/etherealengine-archive) ![GitHub last commit](https://img.shields.io/github/last-commit/ir-engine/etherealengine-archive)](https://github.com/ir-engine/etherealengine-archive) - Cross-platform game engine and editor.
     - 🎉 [ezEngine ![GitHub Repo Stars](https://img.shields.io/github/stars/ezEngine/ezEngine) ![GitHub last commit](https://img.shields.io/github/last-commit/ezEngine/ezEngine)](https://github.com/ezEngine/ezEngine) - Game engine in active development.
     - 🎉 [FIFE ![GitHub Repo Stars](https://img.shields.io/github/stars/fifengine/fifengine) ![GitHub last commit](https://img.shields.io/github/last-commit/fifengine/fifengine)](https://github.com/fifengine/fifengine) - Multi-platform isometric game engine.
     - 🎉 [G3D Innovation Engine](https://sourceforge.net/p/g3d/code/HEAD/tree/) - Used for R&D throughout academia and industry. [[Website](https://casual-effects.com/g3d/www/index.html)].
-    - 🎉 [Irrlicht](https://sourceforge.net/projects/irrlicht/) - Cross-platform 3D engine worked on for nearly 2 decades. [[Website](https://irrlicht.sourceforge.io/)]
+    - 🎉 [Irrlicht](https://sourceforge.net/projects/irrlicht/) - Cross-platform 3D engine worked on for over 2 decades. [[Website](https://irrlicht.sourceforge.io/)]
     - 🎉 [Limon Engine ![GitHub Repo Stars](https://img.shields.io/github/stars/enginmanap/limonEngine) ![GitHub last commit](https://img.shields.io/github/last-commit/enginmanap/limonEngine)](https://github.com/enginmanap/limonEngine) - 3D FPS game engine with full dynamic lighting and shadows.
     - 🎉 [Lina Engine ![GitHub Repo Stars](https://img.shields.io/github/stars/inanevin/LinaEngine) ![GitHub last commit](https://img.shields.io/github/last-commit/inanevin/LinaEngine)](https://github.com/inanevin/LinaEngine) - Modular game engine, aimed to develop 3D desktop games.
     - 🎉 [Lumos ![GitHub Repo Stars](https://img.shields.io/github/stars/jmorton06/Lumos) ![GitHub last commit](https://img.shields.io/github/last-commit/jmorton06/Lumos)](https://github.com/jmorton06/Lumos) - Cross-platform 2D/3D game engine, supports both OpenGL and Vulkan.
-    - 🎉 [Lumix Engine ![GitHub Repo Stars](https://img.shields.io/github/stars/nem0/LumixEngine) ![GitHub last commit](https://img.shields.io/github/last-commit/nem0/LumixEngine)](https://github.com/nem0/LumixEngine) - A 3D game engine with _Dear ImGui_ based editor.
+    - 🎉 [Lumix Engine ![GitHub Repo Stars](https://img.shields.io/github/stars/nem0/LumixEngine) ![GitHub last commit](https://img.shields.io/github/last-commit/nem0/LumixEngine)](https://github.com/nem0/LumixEngine) - 3D game engine with _Dear ImGui_ based editor.
     - 🎉 [MxEngine ![GitHub Repo Stars](https://img.shields.io/github/stars/asc-community/MxEngine) ![GitHub last commit](https://img.shields.io/github/last-commit/asc-community/MxEngine)](https://github.com/asc-community/MxEngine) - Modern-C++ general-purpose 3D game engine.
     - 🔒 [neoGFX ![GitHub Repo Stars](https://img.shields.io/github/stars/i42output/neogfx) ![GitHub last commit](https://img.shields.io/github/last-commit/i42output/neogfx)](https://github.com/i42output/neogfx) - Cross-platform app and game engine.
     - 🎉 [ÖbEngine ![GitHub Repo Stars](https://img.shields.io/github/stars/ObEngine/ObEngine) ![GitHub last commit](https://img.shields.io/github/last-commit/ObEngine/ObEngine)](https://github.com/ObEngine/ObEngine) - 2D engine with Lua scripting built with _SFML_.
@@ -431,7 +434,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Skylicht ![GitHub Repo Stars](https://img.shields.io/github/stars/skylicht-lab/skylicht-engine) ![GitHub last commit](https://img.shields.io/github/last-commit/skylicht-lab/skylicht-engine)](https://github.com/skylicht-lab/skylicht-engine) - Upgraded features including audio, physics and particles. Built on _Irrlicht_.
     - 🎉 [Spartan Engine ![GitHub Repo Stars](https://img.shields.io/github/stars/PanosK92/SpartanEngine) ![GitHub last commit](https://img.shields.io/github/last-commit/PanosK92/SpartanEngine)](https://github.com/PanosK92/SpartanEngine) - Emphasis on quality and performance.
     - 🎉 [Torque 3D ![GitHub Repo Stars](https://img.shields.io/github/stars/GarageGames/Torque3D) ![GitHub last commit](https://img.shields.io/github/last-commit/GarageGames/Torque3D)](https://github.com/GarageGames/Torque3D) - High-performance 3D engine built on _The Forge_.
-    - 🔒 [UPBGE ![GitHub Repo Stars](https://img.shields.io/github/stars/UPBGE/upbge) ![GitHub last commit](https://img.shields.io/github/last-commit/UPBGE/upbge)](https://github.com/UPBGE/upbge) - Blender game engine, originally forked from _Blender_.
+    - 🔒 [UPBGE ![GitHub Repo Stars](https://img.shields.io/github/stars/UPBGE/upbge) ![GitHub last commit](https://img.shields.io/github/last-commit/UPBGE/upbge)](https://github.com/UPBGE/upbge) - Blender Game Engine, originally forked from _Blender_.
 - C++: Game Framework
     - 🎉 [Acid ![GitHub Repo Stars](https://img.shields.io/github/stars/EQMG/Acid) ![GitHub last commit](https://img.shields.io/github/last-commit/EQMG/Acid)](https://github.com/EQMG/Acid) - Modern C++17 and structured to be fast, simple, and modular.
     - 🎉 [blah ![GitHub Repo Stars](https://img.shields.io/github/stars/NoelFB/blah) ![GitHub last commit](https://img.shields.io/github/last-commit/NoelFB/blah)](https://github.com/NoelFB/blah) - Small 2D game framework.
@@ -455,7 +458,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Thunder ![GitHub Repo Stars](https://img.shields.io/github/stars/thunder-engine/thunder) ![GitHub last commit](https://img.shields.io/github/last-commit/thunder-engine/thunder)](https://github.com/thunder-engine/thunder) - Cross-platform 2D/3D with module architecture.
     - 🎉 [Two ![GitHub Repo Stars](https://img.shields.io/github/stars/hugoam/two) ![GitHub last commit](https://img.shields.io/github/last-commit/hugoam/two)](https://github.com/hugoam/two) - Toolkit for rapid development of live graphical apps and games.
     - 🎉 [Urho3D ![GitHub Repo Stars](https://img.shields.io/github/stars/urho3d/Urho3D) ![GitHub last commit](https://img.shields.io/github/last-commit/urho3d/Urho3D)](https://github.com/urho3d/Urho3D) - Cross-platform 2D/3D game framework.
-    - 💸 [Valve Source SDK ![GitHub Repo Stars](https://img.shields.io/github/stars/ValveSoftware/source-sdk-2013) ![GitHub last commit](https://img.shields.io/github/last-commit/ValveSoftware/source-sdk-2013)](https://github.com/ValveSoftware/source-sdk-2013) - The 2013 edition of the Source SDK by [Valve Software](https://www.valvesoftware.com/). [[Info](https://en.wikipedia.org/wiki/Source_(game_engine)) | [Wiki](https://developer.valvesoftware.com/wiki/Source_SDK_2013)]
+    - 💸 [Valve Source SDK ![GitHub Repo Stars](https://img.shields.io/github/stars/ValveSoftware/source-sdk-2013) ![GitHub last commit](https://img.shields.io/github/last-commit/ValveSoftware/source-sdk-2013)](https://github.com/ValveSoftware/source-sdk-2013) - The 2013 edition of the Source SDK by _[Valve Software](https://www.valvesoftware.com/)_. [[Info](https://en.wikipedia.org/wiki/Source_(game_engine)) | [Wiki](https://developer.valvesoftware.com/wiki/Source_SDK_2013)]
 - C++: Geometry
     - 🎉 [CinoLib ![GitHub Repo Stars](https://img.shields.io/github/stars/mlivesu/cinolib) ![GitHub last commit](https://img.shields.io/github/last-commit/mlivesu/cinolib)](https://github.com/mlivesu/cinolib) - Header-only library for processing polygonal and polyhedral meshes.
     - 🎉 [Delabella ![GitHub Repo Stars](https://img.shields.io/github/stars/msokalski/delabella) ![GitHub last commit](https://img.shields.io/github/last-commit/msokalski/delabella)](https://github.com/msokalski/delabella) - Super stable 2D delaunay triangulation.
@@ -496,7 +499,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Ogre ![GitHub Repo Stars](https://img.shields.io/github/stars/OGRECave/ogre) ![GitHub last commit](https://img.shields.io/github/last-commit/OGRECave/ogre)](https://github.com/OGRECave/ogre) - Scene-oriented, flexible 3D engine.
     - 🎉 [OSRE ![GitHub Repo Stars](https://img.shields.io/github/stars/kimkulling/osre) ![GitHub last commit](https://img.shields.io/github/last-commit/kimkulling/osre)](https://github.com/kimkulling/osre) - Just another "Open Source Render Engine".
     - 🔒 [StratusGFX ![GitHub Repo Stars](https://img.shields.io/github/stars/KTStephano/StratusGFX) ![GitHub last commit](https://img.shields.io/github/last-commit/KTStephano/StratusGFX)](https://github.com/KTStephano/StratusGFX) - Realtime 3D rendering engine implementing modern graphics techniques.
-    - 🎉 [Threepp ![GitHub Repo Stars](https://img.shields.io/github/stars/markaren/threepp) ![GitHub last commit](https://img.shields.io/github/last-commit/markaren/threepp)](https://github.com/markaren/threepp) - Cross-platform C++17 port of the popular 3D JavaScript library _Three.js_ (r129).
+    - ��� [Threepp ![GitHub Repo Stars](https://img.shields.io/github/stars/markaren/threepp) ![GitHub last commit](https://img.shields.io/github/last-commit/markaren/threepp)](https://github.com/markaren/threepp) - Cross-platform C++17 port of the popular 3D JavaScript library _Three.js_ (r129).
     - 🎉 [Tungsten ![GitHub Repo Stars](https://img.shields.io/github/stars/tunabrain/tungsten) ![GitHub last commit](https://img.shields.io/github/last-commit/tunabrain/tungsten)](https://github.com/tunabrain/tungsten) - High-performance physically-based renderer in C++11.
     - 🎉 [Wicked Engine ![GitHub Repo Stars](https://img.shields.io/github/stars/turanszkij/WickedEngine) ![GitHub last commit](https://img.shields.io/github/last-commit/turanszkij/WickedEngine)](https://github.com/turanszkij/WickedEngine) - Engine focusing on performance & modern rendering techniques.
 - C++: Gui
@@ -799,7 +802,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [React Native ![GitHub Repo Stars](https://img.shields.io/github/stars/facebook/react-native) ![GitHub last commit](https://img.shields.io/github/last-commit/facebook/react-native)](https://github.com/facebook/react-native) - Framework for building native apps using React. [[Website](https://reactnative.dev/)]
     - 🎉 [Tauri ![GitHub Repo Stars](https://img.shields.io/github/stars/tauri-apps/tauri) ![GitHub last commit](https://img.shields.io/github/last-commit/tauri-apps/tauri)](https://github.com/tauri-apps/tauri) - Smaller, faster, and more secure desktop applications. [[Website](https://tauri.app/)]
     - 💸 [Ultralight](https://ultralig.ht/) - Supports modern HTML5, CSS, and JavaScript. Based on _WebKit_.
-    - 🎉 [WebView2](https://developer.microsoft.com/en-us/microsoft-edge/webview2/) - Microsoft Edge control allows you to embed web in native apps. [[Docs](https://docs.microsoft.com/en-us/microsoft-edge/webview2/)]
+    - 🎉 [WebView2](https://developer.microsoft.com/en-us/microsoft-edge/webview2/) - Microsoft Edge control allows you to embed web in native apps. [[Docs](https://learn.microsoft.com/en-us/microsoft-edge/webview2/)]
     - 🎉 [Window.js ![GitHub Repo Stars](https://img.shields.io/github/stars/windowjs/windowjs) ![GitHub last commit](https://img.shields.io/github/last-commit/windowjs/windowjs)](https://github.com/windowjs/windowjs) - JavaScript runtime for desktop graphics programming. [[Docs](https://windowjs.org/)]
 - JavaScript: Docking
     - 🎉 [Dock Spawn TS ![GitHub Repo Stars](https://img.shields.io/github/stars/node-projects/dock-spawn-ts) ![GitHub last commit](https://img.shields.io/github/last-commit/node-projects/dock-spawn-ts)](https://github.com/node-projects/dock-spawn-ts) - Maintained, TypeScript version of [Dock Spawn ![GitHub Repo Stars](https://img.shields.io/github/stars/coderespawn/dock-spawn) ![GitHub last commit](https://img.shields.io/github/last-commit/coderespawn/dock-spawn)](https://github.com/coderespawn/dock-spawn), a JavaScript docking framework.
@@ -835,12 +838,13 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Egret ![GitHub Repo Stars](https://img.shields.io/github/stars/egret-labs/egret-core) ![GitHub last commit](https://img.shields.io/github/last-commit/egret-labs/egret-core)](https://github.com/egret-labs/egret-core) - Mobile game engine. [[Editor ![GitHub Repo Stars](https://img.shields.io/github/stars/egret-labs/egret-ui-editor-opensource) ![GitHub last commit](https://img.shields.io/github/last-commit/egret-labs/egret-ui-editor-opensource)](https://github.com/egret-labs/egret-ui-editor-opensource)]
     - 🎉 [GDevelop ![GitHub Repo Stars](https://img.shields.io/github/stars/4ian/GDevelop) ![GitHub last commit](https://img.shields.io/github/last-commit/4ian/GDevelop)](https://github.com/4ian/GDevelop) - Full-featured 2D game development. [[Website](https://gdevelop.io/)]
     - 🎉 [Impact ![GitHub Repo Stars](https://img.shields.io/github/stars/phoboslab/impact) ![GitHub last commit](https://img.shields.io/github/last-commit/phoboslab/impact)](https://github.com/phoboslab/impact) - Game engine for desktop and mobile browsers. [[2D Level Editor](https://impactjs.com/documentation/weltmeister)]
+    - 🔒 [Infinite Reality Engine ![GitHub Repo Stars](https://img.shields.io/github/stars/ir-engine/ir-engine) ![GitHub last commit](https://img.shields.io/github/last-commit/ir-engine/ir-engine)](https://github.com/ir-engine/ir-engine) - 3D toolkit for the social spatial web. Formerly _Ethereal Engine_.
     - 🎉 [Isogenic ![GitHub Repo Stars](https://img.shields.io/github/stars/irrelon/ige) ![GitHub last commit](https://img.shields.io/github/last-commit/irrelon/ige)](https://github.com/irrelon/ige) - Engine with advanced multiplayer, based on _Valve_'s multiplayer system.
     - 🎉 [melonJS ![GitHub Repo Stars](https://img.shields.io/github/stars/melonjs/melonJS) ![GitHub last commit](https://img.shields.io/github/last-commit/melonjs/melonJS)](https://github.com/melonjs/melonJS) - Modern 2D game engine, level editing with [Tiled](https://doc.mapeditor.org/en/stable/). [[Website](https://melonjs.org)]
     - 🎉 [microStudio ![GitHub Repo Stars](https://img.shields.io/github/stars/pmgl/microstudio) ![GitHub last commit](https://img.shields.io/github/last-commit/pmgl/microstudio)](https://github.com/pmgl/microstudio/) - Online game engine. Learn and practice programming.
     - 🎉 [Pixelbox.js ![GitHub Repo Stars](https://img.shields.io/github/stars/cstoquer/pixelbox) ![GitHub last commit](https://img.shields.io/github/last-commit/cstoquer/pixelbox)](https://github.com/cstoquer/pixelbox) - Sandbox to fast-prototype 2D tile-based games. [[Download](https://pixwlk.itch.io/pixelbox)]
     - 🎉 [QICI Engine ![GitHub Repo Stars](https://img.shields.io/github/stars/qiciengine/qiciengine) ![GitHub last commit](https://img.shields.io/github/last-commit/qiciengine/qiciengine)](https://github.com/qiciengine/qiciengine) - Toolset for making games.
-    - 🎉 [Superpowers](https://github.com/superpowers) - Both 2D & 3D game making for indies. [[Website](http://superpowers-html5.com/index.en.html)]
+    - 🎉 [Superpowers](https://github.com/superpowers) - Both 2D & 3D game making for indies.
     - 🎉 [Taro ![GitHub Repo Stars](https://img.shields.io/github/stars/moddio/taro) ![GitHub last commit](https://img.shields.io/github/last-commit/moddio/taro)](https://github.com/moddio/taro) - Multiplayer engine with _Box2D_ physics, aka _Moddio_. [[Website](https://www.modd.io)]
 - JavaScript: Game Framework
     - 🎉 [Crafty ![GitHub Repo Stars](https://img.shields.io/github/stars/craftyjs/Crafty) ![GitHub last commit](https://img.shields.io/github/last-commit/craftyjs/Crafty)](https://github.com/craftyjs/Crafty) - Create 2D games in a structured way.
@@ -933,7 +937,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Inferno ![GitHub Repo Stars](https://img.shields.io/github/stars/infernojs/inferno) ![GitHub last commit](https://img.shields.io/github/last-commit/infernojs/inferno)](https://github.com/infernojs/inferno) - React-like library for building high-performance user interfaces.
     - 🎉 [jQuery UI ![GitHub Repo Stars](https://img.shields.io/github/stars/jquery/jquery-ui) ![GitHub last commit](https://img.shields.io/github/last-commit/jquery/jquery-ui)](https://github.com/jquery/jquery-ui) - The official gui library for jQuery.
     - 🎉 [Leva ![GitHub Repo Stars](https://img.shields.io/github/stars/pmndrs/leva) ![GitHub last commit](https://img.shields.io/github/last-commit/pmndrs/leva)](https://github.com/pmndrs/leva) - React-first components gui.
-    - 🎉 [Magic Circle ![GitHub Repo Stars](https://img.shields.io/github/stars/dpwoert/magic-circle) ![GitHub last commit](https://img.shields.io/github/last-commit/dpwoert/magic-circle)](https://github.com/dpwoert/magic-circle) - Multi-functional gui. Inspired by dat.GUI, Unity and Framer.
+    - 🎉 [Magic Circle ![GitHub Repo Stars](https://img.shields.io/github/stars/dpwoert/magic-circle) ![GitHub last commit](https://img.shields.io/github/last-commit/dpwoert/magic-circle)](https://github.com/dpwoert/magic-circle) - Multi-functional gui. Inspired by _dat.GUI_, _Unity_ and _Framer_.
     - 🎉 [PCUI ![GitHub Repo Stars](https://img.shields.io/github/stars/playcanvas/pcui) ![GitHub last commit](https://img.shields.io/github/last-commit/playcanvas/pcui)](https://github.com/playcanvas/pcui) - UI component library for the web by _PlayCanvas_.
     - 🎉 [Tweakpane ![GitHub Repo Stars](https://img.shields.io/github/stars/cocopon/tweakpane) ![GitHub last commit](https://img.shields.io/github/last-commit/cocopon/tweakpane)](https://github.com/cocopon/tweakpane) - Compact gui for fine-tuning values.
     - 🎉 [uil ![GitHub Repo Stars](https://img.shields.io/github/stars/lo-th/uil) ![GitHub last commit](https://img.shields.io/github/last-commit/lo-th/uil)](https://github.com/lo-th/uil) - Simple JavaScript gui.
@@ -1099,12 +1103,14 @@ _Successful open source video games to pick apart and gain knowledge._
 - 🔒 [Doom ![GitHub Repo Stars](https://img.shields.io/github/stars/id-Software/DOOM) ![GitHub last commit](https://img.shields.io/github/last-commit/id-Software/DOOM)](https://github.com/id-Software/DOOM) - The original 1993 3D masterpiece by _id Software_.
 - 🔒 [Gish ![GitHub Repo Stars](https://img.shields.io/github/stars/blinry/gish) ![GitHub last commit](https://img.shields.io/github/last-commit/blinry/gish)](https://github.com/blinry/gish) - Open Source version of the award-winning physics platformer. [[Steam](https://store.steampowered.com/app/9500/Gish/)]
 - 💸 [Handmade Hero](https://handmadehero.org/) - Videos on making a game from start to finish, source code for $15.
+- 🔒 [Wolfenstein 3D ![GitHub Repo Stars](https://img.shields.io/github/stars/id-Software/wolf3d) ![GitHub last commit](https://img.shields.io/github/last-commit/id-Software/wolf3d)](https://github.com/id-Software/wolf3d) - The original open source release of _Wolfenstein 3D_.
 
 ### C++
 - 🔒 [Doom 3 ![GitHub Repo Stars](https://img.shields.io/github/stars/id-Software/DOOM-3) ![GitHub last commit](https://img.shields.io/github/last-commit/id-Software/DOOM-3)](https://github.com/id-Software/DOOM-3) - _Doom 3_ GPL source release.
 - 🔒 [Dungeon Crawl: Stone Soup ![GitHub Repo Stars](https://img.shields.io/github/stars/crawl/crawl) ![GitHub last commit](https://img.shields.io/github/last-commit/crawl/crawl)](https://github.com/crawl/crawl) - Classic roguelike adventure. [[Play](https://crawl.develz.org/)]
 - 🎉 [Etheral Legends ![GitHub Repo Stars](https://img.shields.io/github/stars/Soverance/EtherealLegends) ![GitHub last commit](https://img.shields.io/github/last-commit/Soverance/EtherealLegends)](https://github.com/Soverance/EtherealLegends) - Indie Action RPG built with _Unreal Engine 4_. [[Steam](https://store.steampowered.com/app/428980/Ethereal_Legends/)]
 - 🔒 [GemRB ![GitHub Repo Stars](https://img.shields.io/github/stars/gemrb/gemrb) ![GitHub last commit](https://img.shields.io/github/last-commit/gemrb/gemrb)](https://github.com/gemrb/gemrb) - Open source implementation of _Bioware_'s Infinity Engine.
+- 🔒 [NetHack ![GitHub Repo Stars](https://img.shields.io/github/stars/NetHack/NetHack) ![GitHub last commit](https://img.shields.io/github/last-commit/NetHack/NetHack)](https://github.com/NetHack/NetHack) - Official _NetHack_ git repository.
 - 🎉 [OpenLara ![GitHub Repo Stars](https://img.shields.io/github/stars/XProger/OpenLara) ![GitHub last commit](https://img.shields.io/github/last-commit/XProger/OpenLara)](https://github.com/XProger/OpenLara) - Classic _Tomb Raider_ open source engine. [[Play](http://xproger.info/projects/OpenLara/)]
 - 🎉 [TeeWorlds ![GitHub Repo Stars](https://img.shields.io/github/stars/teeworlds/teeworlds) ![GitHub last commit](https://img.shields.io/github/last-commit/teeworlds/teeworlds)](https://github.com/teeworlds/teeworlds) - Retro multiplayer shooter. [[Website](https://teeworlds.com/)]
 - 🔒 [zDoom ![GitHub Repo Stars](https://img.shields.io/github/stars/ZDoom/gzdoom) ![GitHub last commit](https://img.shields.io/github/last-commit/ZDoom/gzdoom)](https://github.com/ZDoom/gzdoom) - Modern, feature centric port for all Doom engine games.
@@ -1118,13 +1124,18 @@ _Successful open source video games to pick apart and gain knowledge._
 ## Specialty Topics
 _Exploring specialty game engine / game development topics and features._
 
-### AI / Pathfinding
-- 📚 [Intro to AI](https://www.raywenderlich.com/2808-introduction-to-ai-programming-for-games) - Intro to AI Programming for Games at RayWenderlich.com.
-- 📚 [Beginner's Guide to Game AI](https://www.gamedev.net/tutorials/programming/artificial-intelligence/the-total-beginners-guide-to-game-ai-r4942/) - Intro to concepts used in AI for games.
+### Asset Pipeline / Formats
+- 📚 [glTF](https://www.khronos.org/gltf/) - Runtime 3D asset delivery format for scenes, meshes, materials, animations, data.
+- 🎉 [KTX-Software ![GitHub Repo Stars](https://img.shields.io/github/stars/KhronosGroup/KTX-Software) ![GitHub last commit](https://img.shields.io/github/last-commit/KhronosGroup/KTX-Software)](https://github.com/KhronosGroup/KTX-Software) - _Khronos_ texture container tools and library for KTX/KTX2 workflow.
+- 🎉 [MikkTSpace ![GitHub Repo Stars](https://img.shields.io/github/stars/mmikk/MikkTSpace) ![GitHub last commit](https://img.shields.io/github/last-commit/mmikk/MikkTSpace)](https://github.com/mmikk/MikkTSpace) - Standard for tangent space used in baking tools to produce normal maps.
 
 ### Color Manipulation
 - 📚 [How to Choose Colors Procedurally](http://devmag.org.za/2012/07/29/how-to-choose-colours-procedurally-algorithms/) - Procedural palettes and how to generate them.
 - 📚 [Red, Yellow, and Blue](https://daveeddy.com/2014/07/01/red-yellow-and-blue/) - Convert colors from the paint color wheel to RGB space. [[Source ![GitHub Repo Stars](https://img.shields.io/github/stars/bahamas10/ryb) ![GitHub last commit](https://img.shields.io/github/last-commit/bahamas10/ryb)](https://github.com/bahamas10/ryb)]
+
+### Enemies / Pathfinding
+- 📚 [Intro to AI](https://www.raywenderlich.com/2808-introduction-to-ai-programming-for-games) - Intro to Enemy AI Programming for Games at RayWenderlich.com.
+- 📚 [Beginner's Guide to Game AI](https://www.gamedev.net/tutorials/programming/artificial-intelligence/the-total-beginners-guide-to-game-ai-r4942/) - Intro to concepts used in Enemy AI for games.
 
 ### Entity Component Systems
 - 📚 [A Simple Entity Component System](https://austinmorlan.com/posts/entity_component_system/) - Basis for an ECS in C++.
@@ -1144,7 +1155,7 @@ _Exploring specialty game engine / game development topics and features._
     - 📚 [Constructive Solid Geometry](https://en.wikipedia.org/wiki/Constructive_solid_geometry) - Technique using boolean operations to combine primitive objects.
     - 🎉 [csg.js ![GitHub Repo Stars](https://img.shields.io/github/stars/evanw/csg.js) ![GitHub last commit](https://img.shields.io/github/last-commit/evanw/csg.js)](https://github.com/evanw/csg.js/) - JavaScript library implementing CSG. [[Examples](https://evanw.github.io/csg.js/)]
     - 🎉 [three-bvh-csg ![GitHub Repo Stars](https://img.shields.io/github/stars/gkjohnson/three-bvh-csg) ![GitHub last commit](https://img.shields.io/github/last-commit/gkjohnson/three-bvh-csg)](https://github.com/gkjohnson/three-bvh-csg) - Fast and dynamic CSG on top of three-mesh-bvh.
-    - 🎉 [three-csgmesh ![GitHub Repo Stars](https://img.shields.io/github/stars/manthrax/THREE-CSGMesh) ![GitHub last commit](https://img.shields.io/github/last-commit/manthrax/THREE-CSGMesh)](https://github.com/manthrax/THREE-CSGMesh) - Conversion of the csg.js library for use with _Three.js_.
+    - 🎉 [three-csgmesh ![GitHub Repo Stars](https://img.shields.io/github/stars/manthrax/THREE-CSGMesh) ![GitHub last commit](https://img.shields.io/github/last-commit/manthrax/THREE-CSGMesh)](https://github.com/manthrax/THREE-CSGMesh) - Conversion of the csg.js library for use with Three.js.
 - Meshes
     - 📚 [Geometry, Surfaces, Curves, Polyhedra](https://paulbourke.net/geometry/) - Geometry topics including meshes, shapes, textures.
     - 📚 [Mesh Transforms](https://ciechanow.ski/mesh-transforms/) - _Apple_'s private API for manipulation of UIView meshes. [[Source ![GitHub Repo Stars](https://img.shields.io/github/stars/olegtyshcneko/CAMeshTransform) ![GitHub last commit](https://img.shields.io/github/last-commit/olegtyshcneko/CAMeshTransform)](https://github.com/olegtyshcneko/CAMeshTransform)]
@@ -1290,6 +1301,7 @@ _Software to help with game engine / video game development._
 
 ### Awesome Collections
 - 🌎 [Itch.io Tools](https://itch.io/tools) - Huge collection of game dev tools on _Itch.io_.
+- 📚 [Tiny Tools](https://tinytools.directory/) - Tools that might be useful in building your game.
 
 ### Animation Software
 - 💸 [Cascadeur](https://cascadeur.com) - 3D animation software for physics-based character animation.
@@ -1322,6 +1334,12 @@ _Software to help with game engine / video game development._
 - 🌎 [Huemint](https://huemint.com) - Uses machine learning to generate colors for graphic design.
 - 🌎 [Lospec](https://lospec.com/palette-list) - Database of palettes for pixel art.
 - 🌎 [Paletton](https://paletton.com) - Explore complementary colors on the color wheel.
+
+### Debugging / Profiling
+- 🆓 [Nsight](https://developer.nvidia.com/nsight-graphics) - Debug, profile, and export frames built with Direct3D, Vulkan, OpenGL, OpenXR.
+- 🆓 [PIX](https://learn.microsoft.com/en-us/windows/win32/direct3dtools/pix/articles/general/pix-overview) - Debugging and profiling for game developers using Direct3D 12.
+- 🎉 [RenderDoc ![GitHub Repo Stars](https://img.shields.io/github/stars/baldurk/renderdoc) ![GitHub last commit](https://img.shields.io/github/last-commit/baldurk/renderdoc)](https://github.com/baldurk/renderdoc) - Stand-alone graphics debugging tool.
+- 🎉 [Tracy Profiler ![GitHub Repo Stars](https://img.shields.io/github/stars/wolfpld/tracy) ![GitHub last commit](https://img.shields.io/github/last-commit/wolfpld/tracy)](https://github.com/wolfpld/tracy) - Frame profiler.
 
 ### Image Editors
 - 🆓 [GIMP](https://www.gimp.org) - GNU Image Manipulation Program, open source image editor. [[Source ![GitHub Repo Stars](https://img.shields.io/github/stars/GNOME/gimp) ![GitHub last commit](https://img.shields.io/github/last-commit/GNOME/gimp)](https://github.com/GNOME/gimp)]
@@ -1381,7 +1399,7 @@ _Software to help with game engine / video game development._
 - 💰 [Ken Shape](https://tools.kenney.nl/kenshape/) - Draw in 2D, set the depth for each pixel and generate 3D models!
 - 🎉 [IsoVoxel ![GitHub Repo Stars](https://img.shields.io/github/stars/tommyettinger/IsoVoxel) ![GitHub last commit](https://img.shields.io/github/last-commit/tommyettinger/IsoVoxel)](https://github.com/tommyettinger/IsoVoxel) - Generates isometric pixel art from _MagicaVoxel_ .vox files.
 - 🆓 [MagicaVoxel](https://ephtracy.github.io) - Lightweight voxel art editor.
-- 💰 [Qubicle](http://minddesk.com/) - Popular (Crossy Road, Pacman 256) voxel editor, easy creation of 3D models.
+- 💰 [Qubicle](http://minddesk.com/) - Popular (_Crossy Road_, _Pacman 256_) voxel editor, easy creation of 3D models.
 
 <br />
 <br />
@@ -1406,7 +1424,7 @@ _Resources to help bring video games and game engines alive._
 - 💸 [Freepik](https://www.freepik.com) - Illustrations, photos, icons and presentation templates.
 - 🆓 [Kenny](https://www.kenney.nl/assets) 🔥 - 2D/3D CC0 1.0 game graphics and other assets.
 - 🆓 [Open Game Art](https://opengameart.org) - Portal for free / public domain game art online.
-- 🆓 [Top Free Game Assets](https://itch.io/game-assets/free) - Top free game assets listed on _itch.io_.
+- 🆓 [Top Free Game Assets](https://itch.io/game-assets/free) - Top free game assets listed on _Itch.io_.
 
 ### Material Assets
 - 🆓 [AmbientCG](https://ambientcg.com) - Public domain materials for physically-based rendering.
