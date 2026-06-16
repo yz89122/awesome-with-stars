@@ -103,13 +103,15 @@
   - [TimescaleDB](https://www.timescale.com/) - Built as an extension on top of PostgreSQL, TimescaleDB is a time-series SQL database providing fast analytics, scalability, with automated data management on a proven storage engine.
   - [DuckDB](https://duckdb.org/) - A fast in-process analytical database that has zero external dependencies, runs on Linux/macOS/Windows, offers a rich SQL dialect, and is free and extensible.
   - [SlothDB ![GitHub Repo Stars](https://img.shields.io/github/stars/SouravRoy-ETL/slothdb) ![GitHub last commit](https://img.shields.io/github/last-commit/SouravRoy-ETL/slothdb)](https://github.com/SouravRoy-ETL/slothdb) - In-process analytical SQL database written in C++20. Reads Parquet, CSV, JSON, Avro, Arrow, SQLite, and Excel directly. Single binary, Python package, and 1.3 MB WASM build for the browser.
+  - [chDB](https://chdb.io) - Embedded ClickHouse — full ClickHouse SQL dialect, ~80 data formats, and 12+ source connectors (S3, Postgres, MongoDB, Kafka, Iceberg) in core. Python, Go, Rust, Node, Bun, Zig, and Ruby bindings.
 
 ## Data Comparison
 
 - [datacompy ![GitHub Repo Stars](https://img.shields.io/github/stars/capitalone/datacompy) ![GitHub last commit](https://img.shields.io/github/last-commit/capitalone/datacompy)](https://github.com/capitalone/datacompy) - A Python library that facilitates the comparison of two DataFrames in Pandas, Polars, Spark and more. The library goes beyond basic equality checks by providing detailed insights into discrepancies at both row and column levels.
 - [dvt ![GitHub Repo Stars](https://img.shields.io/github/stars/GoogleCloudPlatform/professional-services-data-validator) ![GitHub last commit](https://img.shields.io/github/last-commit/GoogleCloudPlatform/professional-services-data-validator)](https://github.com/GoogleCloudPlatform/professional-services-data-validator) - Data Validation Tool compares data from source and target tables to ensure that they match. It provides column validation, row validation, schema validation, custom query validation, and ad hoc SQL exploration.
 - [koala-diff ![GitHub Repo Stars](https://img.shields.io/github/stars/godalida/koala-diff) ![GitHub last commit](https://img.shields.io/github/last-commit/godalida/koala-diff)](https://github.com/godalida/koala-diff) - A high-performance Python library for comparing large datasets (CSV, Parquet) locally using Rust and Polars. It features zero-copy streaming to prevent OOM errors and generates interactive HTML data quality reports.
-- [everyrow ![GitHub Repo Stars](https://img.shields.io/github/stars/futuresearch/everyrow-sdk) ![GitHub last commit](https://img.shields.io/github/last-commit/futuresearch/everyrow-sdk)](https://github.com/futuresearch/everyrow-sdk) - AI-powered data operations SDK for Python. Semantic deduplication, fuzzy table merging, and intelligent row ranking using LLM agents.
+- [FutureSearch SDK ![GitHub Repo Stars](https://img.shields.io/github/stars/futuresearch/futuresearch-python) ![GitHub last commit](https://img.shields.io/github/last-commit/futuresearch/futuresearch-python)](https://github.com/futuresearch/futuresearch-python) - Python SDK that dispatches parallel web-research agents across
+  table rows, synthesizing multi-agent findings into structured columns.
 
 ## Data Ingestion
 
@@ -234,6 +236,7 @@
   - [Mahout](https://mahout.apache.org/) - An environment for quickly creating scalable performant machine learning applications.
   - [Spark MLlib](https://spark.apache.org/docs/latest/ml-guide.html) - Spark's scalable machine learning library consisting of common learning algorithms and utilities, including classification, regression, clustering, collaborative filtering, dimensionality reduction, as well as underlying optimization primitives.
   - [Datatrax ![GitHub Repo Stars](https://img.shields.io/github/stars/rbmuller/datatrax) ![GitHub last commit](https://img.shields.io/github/last-commit/rbmuller/datatrax)](https://github.com/rbmuller/datatrax) - Pure-Go classic machine learning toolkit and data engineering utilities. Eight algorithms with zero external dependencies.
+  - [Zingg](https://www.zingg.ai/) - Open source Master Data Management platform using machine learning for entity resolution at scale. Native to Databricks, Microsoft Fabric, Snowflake, AWS, and GCP. Golden records are maintained through a persistent Zingg ID across all systems and sources.
 - Batch Graph
   - [GraphLab Create](https://turi.com/products/create/docs/) - A machine learning platform that enables data scientists and app developers to easily create intelligent apps at scale.
   - [Giraph](https://giraph.apache.org/) - An iterative graph processing system built for high scalability.
@@ -263,11 +266,14 @@
 - [Seaborn](https://seaborn.pydata.org) - A Python visualization library based on matplotlib. It provides a high-level interface for drawing attractive statistical graphics.
 - [QueryGPT ![GitHub Repo Stars](https://img.shields.io/github/stars/MKY508/QueryGPT) ![GitHub last commit](https://img.shields.io/github/last-commit/MKY508/QueryGPT)](https://github.com/MKY508/QueryGPT) - Natural language database query interface with automatic chart generation, supporting Chinese and English queries.
 - [AI for Database](https://aifordatabase.com/) - Agentic AI platform to connect any database (PostgreSQL, MySQL, MongoDB, etc.) and query in plain English; includes self-refreshing intelligent dashboards and action workflows triggered by data changes.
+- [Dekart ![GitHub Repo Stars](https://img.shields.io/github/stars/dekart-xyz/dekart) ![GitHub last commit](https://img.shields.io/github/last-commit/dekart-xyz/dekart)](https://github.com/dekart-xyz/dekart) - Open-source SQL to map platform for BigQuery, Snowflake, and PostGIS.
 
 ## Workflow
 
 - [Bonnard](https://bonnard.dev/) - Agent-native semantic layer with governed metrics, React SDK, and multi-warehouse support. Connects AI agents and dashboards to a single source of truth.
+- [OrionBelt Semantic Layer ![GitHub Repo Stars](https://img.shields.io/github/stars/ralfbecher/orionbelt-semantic-layer) ![GitHub last commit](https://img.shields.io/github/last-commit/ralfbecher/orionbelt-semantic-layer)](https://github.com/ralfbecher/orionbelt-semantic-layer) - Open-source semantic sidecar that compiles YAML-defined dimensions, measures, and metrics into optimized SQL across 8 engines (BigQuery, ClickHouse, Databricks, Dremio, DuckDB, MySQL, PostgreSQL, Snowflake). Unified REST, MCP, and Postgres wire protocol; one model powers AI agents, analytics, DQ rules, and KPIs.
 - [Bruin ![GitHub Repo Stars](https://img.shields.io/github/stars/bruin-data/bruin) ![GitHub last commit](https://img.shields.io/github/last-commit/bruin-data/bruin)](https://github.com/bruin-data/bruin) - End-to-end data pipeline tool that combines ingestion, transformation (SQL + Python), and data quality in a single CLI. Connects to BigQuery, Snowflake, PostgreSQL, Redshift, and more. Includes VS Code extension with live previews.
+- [DataFlow ![GitHub Repo Stars](https://img.shields.io/github/stars/OpenDCAI/DataFlow) ![GitHub last commit](https://img.shields.io/github/last-commit/OpenDCAI/DataFlow)](https://github.com/OpenDCAI/DataFlow) - Open-source platform for data preparation, synthetic data generation, and AI/data pipelines. Includes reusable skills for automating workflow steps across data and AI tasks.
 - [Luigi ![GitHub Repo Stars](https://img.shields.io/github/stars/spotify/luigi) ![GitHub last commit](https://img.shields.io/github/last-commit/spotify/luigi)](https://github.com/spotify/luigi) - A Python module that helps you build complex pipelines of batch jobs.
 - [CronQ ![GitHub Repo Stars](https://img.shields.io/github/stars/seatgeek/cronq) ![GitHub last commit](https://img.shields.io/github/last-commit/seatgeek/cronq)](https://github.com/seatgeek/cronq) - An application cron-like system. [Used](https://chairnerd.seatgeek.com/building-out-the-seatgeek-data-pipeline/) w/Luigi. Deprecated.
 - [Cascading](https://www.cascading.org/) - Java based application development platform.
@@ -329,6 +335,7 @@
 - [Twitter Realtime](https://developer.twitter.com/en/docs/tweets/filter-realtime/overview) - The Streaming APIs give developers low latency access to Twitter's global stream of Tweet data.
 - [Sorsa API](https://api.sorsa.io) - Real-time X (Twitter) data API providing tweets, profiles, search, communities and engagement metrics. Up to 50x cheaper than the official X API with 20 req/sec rate limit, JSON output.
 - [Eventsim ![GitHub Repo Stars](https://img.shields.io/github/stars/Interana/eventsim) ![GitHub last commit](https://img.shields.io/github/last-commit/Interana/eventsim)](https://github.com/Interana/eventsim) - Event data simulator. Generates a stream of pseudo-random events from a set of users, designed to simulate web traffic.
+- [Eventum](https://eventum.run) - Data generation platform for producing synthetic event streams with complex correlations.
 - [Reddit](https://www.reddit.com/r/datasets/comments/3mk1vg/realtime_data_is_available_including_comments/) - Real-time data is available including comments, submissions and links posted to reddit.
 
 ### Data Dumps
