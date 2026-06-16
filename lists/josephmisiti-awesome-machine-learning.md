@@ -1472,6 +1472,7 @@ be
 * [Jina AI](https://jina.ai/) An easier way to build neural search in the cloud. Compatible with Jupyter Notebooks.
 * [sequitur ![GitHub Repo Stars](https://img.shields.io/github/stars/shobrook/sequitur) ![GitHub last commit](https://img.shields.io/github/last-commit/shobrook/sequitur)](https://github.com/shobrook/sequitur) PyTorch library for creating and training sequence autoencoders in just two lines of code
 * [ANEE ![GitHub Repo Stars](https://img.shields.io/github/stars/abkmystery/ANEE) ![GitHub last commit](https://img.shields.io/github/last-commit/abkmystery/ANEE)](https://github.com/abkmystery/ANEE) - Adaptive Neural Execution Engine for transformers. Per-token sparse inference with dynamic layer skipping, profiler-based gating, and KV-cache-safe compute reduction.
+* [zij ![GitHub Repo Stars](https://img.shields.io/github/stars/junaidaliop/zij) ![GitHub last commit](https://img.shields.io/github/last-commit/junaidaliop/zij)](https://github.com/junaidaliop/zij) - A canon of deep learning optimization algorithms.
 
 
 
