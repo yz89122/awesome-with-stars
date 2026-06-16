@@ -121,7 +121,7 @@ Inspired by the [awesome ![GitHub Repo Stars](https://img.shields.io/github/star
  - [Mozilla WebThings](https://iot.mozilla.org/) - An open platform for monitoring and controlling devices over the web.
  - [HStreamDB ![GitHub Repo Stars](https://img.shields.io/github/stars/hstreamdb/hstream) ![GitHub last commit](https://img.shields.io/github/last-commit/hstreamdb/hstream)](https://github.com/hstreamdb/hstream) - The streaming database built for IoT data storage and real-time processing.
  - [IoTSharp.Gateways ![GitHub Repo Stars](https://img.shields.io/github/stars/IoTSharp/Gateways) ![GitHub last commit](https://img.shields.io/github/last-commit/IoTSharp/Gateways)](https://github.com/IoTSharp/Gateways) - Open-source IoT Gateway - integrates devices connected to legacy and third-party systems with IoTSharp  IoT Platform using ModBus, OPC-UA, BACNetand MQTT protocols.
- - [ForestHub.ai](https://foresthub.ai) - Platform for building, deploying and orchestrating embedded and edge AI agents on machines, controllers, sensors and industrial edge devices. Visual builder, local runtime, generated embedded code, hybrid edge-cloud orchestration.
+ - [ForestHub](https://foresthub.ai) - Edge AI agent platform. Its open-source runtime [edge-agents ![GitHub Repo Stars](https://img.shields.io/github/stars/ForestHubAI/edge-agents) ![GitHub last commit](https://img.shields.io/github/last-commit/ForestHubAI/edge-agents)](https://github.com/ForestHubAI/edge-agents) runs AI agents offline on Linux edge gateways (Raspberry Pi, Jetson), with local SLMs alongside cloud LLMs, GPIO/UART/MQTT as first-class nodes, and a visual builder.
 
 #### Middlewares
 
