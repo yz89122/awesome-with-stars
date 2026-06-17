@@ -339,6 +339,7 @@ SDL2 and SDL3 based applications importing `vlang/sdl`.
 
 ### Text processing
 
+
 - [ascii_robot ![GitHub Repo Stars](https://img.shields.io/github/stars/Delta456/ascii_robot) ![GitHub last commit](https://img.shields.io/github/last-commit/Delta456/ascii_robot)](https://github.com/Delta456/ascii_robot) - ASCII Robot generator written in V.
 - [chalk ![GitHub Repo Stars](https://img.shields.io/github/stars/etienne-napoleone/chalk) ![GitHub last commit](https://img.shields.io/github/last-commit/etienne-napoleone/chalk)](https://github.com/etienne-napoleone/chalk) - Colorize strings in the terminal.
 - [cjson ![GitHub Repo Stars](https://img.shields.io/github/stars/lydiandy/cjson) ![GitHub last commit](https://img.shields.io/github/last-commit/lydiandy/cjson)](https://github.com/lydiandy/cjson) - Wrap cJSON for vlang.
@@ -421,6 +422,8 @@ SDL2 and SDL3 based applications importing `vlang/sdl`.
 - [V Community](https://github.com/v-community)
 
 ### Editor plugins
+
+- [tree-sitter-v ![GitHub Repo Stars](https://img.shields.io/github/stars/undivisible/tree-sitter-v) ![GitHub last commit](https://img.shields.io/github/last-commit/undivisible/tree-sitter-v)](https://github.com/undivisible/tree-sitter-v) - Tree-sitter grammar for V language. Maintained fork with modern API, crates.io package, 244 node types.
 
 #### Atom
 
