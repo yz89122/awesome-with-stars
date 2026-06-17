@@ -350,7 +350,7 @@ Table of Contents
 
 * [Adafruit](https://www.adafruit.com/github-students) [FREE] - Adafruit is an open-source hardware and open-source educational electronics company based in NYC, USA.One year of Adafruit IO+ and discounts on selected hardware.
 
-* [DataCamp](https://www.datacamp.com/github-students/) [FREE] - DataCamp helps companies and individuals make better use of data. Our users build data fluency while learning from the world��s top data scientists.Free 3-month individual subscription for students.
+* [DataCamp](https://www.datacamp.com/github-students/) [FREE] - DataCamp helps companies and individuals make better use of data. Our users build data fluency while learning from the world’s top data scientists.Free 3-month individual subscription for students.
 
 * [Arduino Education](https://www.arduino.cc/education/github-students) [FREE] - Empower scientists and artists of the future with creative STEM programs.Free Arduino Create Maker plan for 6 months and discounts on selected hardware.
 

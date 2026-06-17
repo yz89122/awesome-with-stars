@@ -284,7 +284,7 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 | <a href="https://codered.eccouncil.org/course/a-practical-introduction-to-cloud-computing" target="_blank" rel="noopener noreferrer">Introduction to Cloud Computing</a> | EC-Council |Beginner|3 | 🏆|
 | <a href="https://explore.skillbuilder.aws/learn/public/learning_plan/view/82/cloud-essentials-knowledge-badge-readiness-path" target="_blank" rel="noopener noreferrer">Cloud Essentials Knowledge</a> | Amazon | Intermediate | 10 | 🏅 |
 
-<a href="https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents" target="_blank" rel="noopener noreferrer">⬆️</a>
+<a href="https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents" target="_blank" rel="noopener noreferrer">⬆���</a>
 
 ## Computer Theories and Concepts
 
@@ -536,7 +536,7 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 | <a href="https://cognitiveclass.ai/courses/using-r-with-databases/" target="_blank" rel="noopener noreferrer">Using R with Databases</a> | IBM / Cognitive Class |Beginner|3 | <a href="https://www.youracclaim.com/org/ibm/badge/using-r-with-databases" target="_blank" rel="noopener noreferrer">🏅</a>|
 | <a href="https://www.hackerrank.com/skills-verification/r_basic" target="_blank" rel="noopener noreferrer">R</a> | HackerRank |Beginner| 1.5 | 🏆|
 
-<a href="https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents" target="_blank" rel="noopener noreferrer">⬆️</a>
+<a href="https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents" target="_blank" rel="noopener noreferrer">⬆��</a>
 
 ## Robotics and IoT
 
