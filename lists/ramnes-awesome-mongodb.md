@@ -196,6 +196,7 @@ Inspired by the [awesome ![GitHub Repo Stars](https://img.shields.io/github/star
 
 ### R
  - [mongolite ![GitHub Repo Stars](https://img.shields.io/github/stars/jeroen/mongolite) ![GitHub last commit](https://img.shields.io/github/last-commit/jeroen/mongolite)](https://github.com/jeroen/mongolite) - Fast and simple client for R
+ - [mdbplyr ![GitHub Repo Stars](https://img.shields.io/github/stars/pbosetti/mdbplyr) ![GitHub last commit](https://img.shields.io/github/last-commit/pbosetti/mdbplyr)](https://github.com/pbosetti/mdbplyr) - Build MongoDB queries and aggregations as if you were using `dplyr`, no more head-crushing JSON fights!
 
 ### Ruby
  - [mongo-ruby-driver ![GitHub Repo Stars](https://img.shields.io/github/stars/mongodb/mongo-ruby-driver) ![GitHub last commit](https://img.shields.io/github/last-commit/mongodb/mongo-ruby-driver)](https://github.com/mongodb/mongo-ruby-driver) - Official Ruby driver
@@ -254,6 +255,7 @@ Services:
  - [MongoDB for VS Code](https://marketplace.visualstudio.com/items?itemName=mongodb.mongodb-vscode) - Connect to MongoDB and prototype queries from VS Code
  - [MongoDB MCP Server ![GitHub Repo Stars](https://img.shields.io/github/stars/mongodb-js/mongodb-mcp-server) ![GitHub last commit](https://img.shields.io/github/last-commit/mongodb-js/mongodb-mcp-server)](https://github.com/mongodb-js/mongodb-mcp-server) - Official Model Context Protocol server for interacting with MongoDB databases and MongoDB Atlas
  - [MongoHub ![GitHub Repo Stars](https://img.shields.io/github/stars/jeromelebel/MongoHub-Mac) ![GitHub last commit](https://img.shields.io/github/last-commit/jeromelebel/MongoHub-Mac)](https://github.com/jeromelebel/MongoHub-Mac) - Mac native client
+ - [MQLens ![GitHub Repo Stars](https://img.shields.io/github/stars/mqlens/mqlens-mongodb) ![GitHub last commit](https://img.shields.io/github/last-commit/mqlens/mqlens-mongodb)](https://github.com/mqlens/mqlens-mongodb) - Free, native, cross-platform GUI with all auth modes, TLS/SSH/SOCKS5, aggregation explain plans, schema analysis, GridFS, embedded mongosh and an optional AI query assistant; encrypted credentials, zero telemetry
  - [WebDB ![GitHub Repo Stars](https://img.shields.io/github/stars/WebDB-App/app) ![GitHub last commit](https://img.shields.io/github/last-commit/WebDB-App/app)](https://github.com/WebDB-App/app) – Web-based and open-source "efficient database IDE". Provides ERDs, data generators, an AI assistant, a NoSQL structure manager, a time machine, auto-completion and more
 
 Services:
