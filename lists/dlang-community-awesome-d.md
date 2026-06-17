@@ -265,6 +265,7 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 *Programming languages written in D.*
 
 * [higgs ![GitHub Repo Stars](https://img.shields.io/github/stars/higgsjs/Higgs) ![GitHub last commit](https://img.shields.io/github/last-commit/higgsjs/Higgs)](https://github.com/higgsjs/Higgs) - Higgs JavaScript Virtual Machine, implemented in D.
+* [brainfuck-d](https://codeberg.org/GuineaPigUuhh/brainfuck-d) - Brainfuck interpreter, compiler and REPL written in D.
 
 ## Operating Systems
 
