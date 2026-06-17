@@ -195,7 +195,7 @@ _You might also like [Awesome Django ![GitHub Repo Stars](https://img.shields.io
 - [Wagtail & Agile – Wagtail Space 2017](https://www.youtube.com/watch?t=2m21s&v=-Qii_AyQsxE) by Edd Baldry.
 - [Deploy Wagtail to the Divio Cloud – Wagtail Space 2017](https://www.youtube.com/watch?t=38m13s&v=-Qii_AyQsxE) by Daniele Procida.
 - [All about Wagtail – Wagtail Space 2017](https://www.youtube.com/watch?v=OedQi5W3Zho) by Robin van der Rijst.
-- [Presenting Wagtail Clear StreamField, a modular StreamField app �� Wagtail Space 2017](https://www.youtube.com/watch?t=19m1s&v=OedQi5W3Zho) by Edd Baldry.
+- [Presenting Wagtail Clear StreamField, a modular StreamField app ��� Wagtail Space 2017](https://www.youtube.com/watch?t=19m1s&v=OedQi5W3Zho) by Edd Baldry.
 - [Wagtail Experiments, easy A/B testing for your Wagtail sites – Wagtail Space 2017](https://www.youtube.com/watch?t=34m37s&v=OedQi5W3Zho) by Tom Dyson.
 - [Wagtail's preview, a new hope – Wagtail Space 2017](https://www.youtube.com/watch?v=ObM2pUgY-bs) by Bertrand Bordage.
 - [The Zen of Wagtail – Wagtail Space 2017](https://www.youtube.com/watch?t=16m38s&v=ObM2pUgY-bs) by Matt Westcott.
