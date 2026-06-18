@@ -283,6 +283,7 @@ Further resources:
 * [XAD ![GitHub Repo Stars](https://img.shields.io/github/stars/auto-differentiation/XAD) ![GitHub last commit](https://img.shields.io/github/last-commit/auto-differentiation/XAD)](https://github.com/auto-differentiation/XAD) - Comprehensive backpropagation tool for C++.
 * [Truss](https://truss.baseten.co) - An open source framework for packaging and serving ML models.
 * [nndeploy ![GitHub Repo Stars](https://img.shields.io/github/stars/nndeploy/nndeploy) ![GitHub last commit](https://img.shields.io/github/last-commit/nndeploy/nndeploy)](https://github.com/nndeploy/nndeploy) - An Easy-to-Use and High-Performance AI deployment framework.
+* [ols-regression-engine ![GitHub Repo Stars](https://img.shields.io/github/stars/VojtechNovakk/ols-regression-engine) ![GitHub last commit](https://img.shields.io/github/last-commit/VojtechNovakk/ols-regression-engine)](https://github.com/VojtechNovakk/ols-regression-engine) - A low-level Linear Regression Engine utilizing the Ordinary Least Squares (OLS) method and QR decomposition.
 
 <a name="cpp-natural-language-processing"></a>
 #### Natural Language Processing
