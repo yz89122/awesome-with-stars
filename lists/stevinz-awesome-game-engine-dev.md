@@ -628,7 +628,7 @@ _Language specific game engine development libraries / frameworks / code._
 - C#: Gui
     - 🎉 [Apos.Gui ![GitHub Repo Stars](https://img.shields.io/github/stars/Apostolique/Apos.Gui) ![GitHub last commit](https://img.shields.io/github/last-commit/Apostolique/Apos.Gui)](https://github.com/Apostolique/Apos.Gui) - UI library for _MonoGame_.
     - 🎉 [Avalonia ![GitHub Repo Stars](https://img.shields.io/github/stars/AvaloniaUI/Avalonia) ![GitHub last commit](https://img.shields.io/github/last-commit/AvaloniaUI/Avalonia)](https://github.com/AvaloniaUI/Avalonia) - Cross-platform gui framework for .NET. [[Website](https://avaloniaui.net/)]
-    - 🎉 [GeonBit.UI ![GitHub Repo Stars](https://img.shields.io/github/stars/RonenNess/GeonBit.UI) ![GitHub last commit](https://img.shields.io/github/last-commit/RonenNess/GeonBit.UI)](https://github.com/RonenNess/GeonBit.UI) - Gui for _MonoGame_ projects.
+    - �� [GeonBit.UI ![GitHub Repo Stars](https://img.shields.io/github/stars/RonenNess/GeonBit.UI) ![GitHub last commit](https://img.shields.io/github/last-commit/RonenNess/GeonBit.UI)](https://github.com/RonenNess/GeonBit.UI) - Gui for _MonoGame_ projects.
     - 🎉 [MGUI ![GitHub Repo Stars](https://img.shields.io/github/stars/Videogamers0/MGUI) ![GitHub last commit](https://img.shields.io/github/last-commit/Videogamers0/MGUI)](https://github.com/Videogamers0/MGUI) - UI framework for the _MonoGame_ game framework.
     - 🎉 [MonoGame.Forms ![GitHub Repo Stars](https://img.shields.io/github/stars/BlizzCrafter/MonoGame.Forms) ![GitHub last commit](https://img.shields.io/github/last-commit/BlizzCrafter/MonoGame.Forms)](https://github.com/BlizzCrafter/MonoGame.Forms) - _MonoGame_ render window for Windows Forms.
     - 🎉 [Myra ![GitHub Repo Stars](https://img.shields.io/github/stars/rds1983/Myra) ![GitHub last commit](https://img.shields.io/github/last-commit/rds1983/Myra)](https://github.com/rds1983/Myra) - Gui library for _MonoGame_, _FNA_, and _Stride_.
@@ -898,7 +898,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [TWGL ![GitHub Repo Stars](https://img.shields.io/github/stars/greggman/twgl.js) ![GitHub last commit](https://img.shields.io/github/last-commit/greggman/twgl.js)](https://github.com/greggman/twgl.js) - Tiny WebGL helper Library. [[Examples](http://twgljs.org/)]
     - 📚 [WebGL Frameworks](https://en.wikipedia.org/wiki/List_of_WebGL_frameworks) - List of WebGL frameworks on Wikipedia.
     - 📚 [WebGL / WebGPU Frameworks](https://gist.github.com/76878ba6903cf15789b712464875cfdc) -  List of WebGL and WebGPU frameworks and libraries.
-    - �� [x3dom ![GitHub Repo Stars](https://img.shields.io/github/stars/x3dom/x3dom) ![GitHub last commit](https://img.shields.io/github/last-commit/x3dom/x3dom)](https://github.com/x3dom/x3dom) - Integrate 3D content seamlessly into your webpage.
+    - 🎉 [x3dom ![GitHub Repo Stars](https://img.shields.io/github/stars/x3dom/x3dom) ![GitHub last commit](https://img.shields.io/github/last-commit/x3dom/x3dom)](https://github.com/x3dom/x3dom) - Integrate 3D content seamlessly into your webpage.
 - JavaScript: Graphics - Three.js
     - 📚 [Discover Three.js](https://discoverthreejs.com) - Create stunning 3D web apps using Three.js.
     - 🌎 [SBcode Three.js Tutorials](https://sbcode.net/threejs/) - Fantastic examples with code and explanations of topics.
