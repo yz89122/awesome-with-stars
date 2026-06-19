@@ -136,6 +136,7 @@ Inspired by the [awesome ![GitHub Repo Stars](https://img.shields.io/github/star
 
 ## Editors
 * [FrontAid CMS](https://frontaid.io/) - Content Management System that supports arbitrary data model structures.
+* [JSON table editor](https://jsontable.app/) - Display JSON array as table, provides search, filtering and edition features. It supports large files of multiple gigabytes. (Rust).
 * [JSONEdit](http://mb21.github.io/JSONedit/) - User friendly, visual editor built as an AngularJS directive.
 * [JSON Crack](https://jsoncrack.com/) - Display your JSON as a graph
 
@@ -170,6 +171,7 @@ Inspired by the [awesome ![GitHub Repo Stars](https://img.shields.io/github/star
 * [@textea/json-viewer ![GitHub Repo Stars](https://img.shields.io/github/stars/TexteaInc/json-viewer) ![GitHub last commit](https://img.shields.io/github/last-commit/TexteaInc/json-viewer)](https://github.com/TexteaInc/json-viewer) - A React component for JSON viewer. (React)
 * [ngx-formly ![GitHub Repo Stars](https://img.shields.io/github/stars/ngx-formly/ngx-formly) ![GitHub last commit](https://img.shields.io/github/last-commit/ngx-formly/ngx-formly)](https://github.com/ngx-formly/ngx-formly) - JSON powered / Dynamic forms for Angular
 
+* [SmarkForm](https://smarkform.bitifet.net) - Enhance HTML forms to import/export any possible data, including arrays and subforms to any depth.
 ## Libraries
 **C**
 * [codables](https://codableslib.com/) - Declarative, type-rich (de)serializer able to handle almost any data type.
@@ -229,6 +231,7 @@ Inspired by the [awesome ![GitHub Repo Stars](https://img.shields.io/github/star
 * [PL/JSON ![GitHub Repo Stars](https://img.shields.io/github/stars/pljson/pljson) ![GitHub last commit](https://img.shields.io/github/last-commit/pljson/pljson)](https://github.com/pljson/pljson) - A generic JSON object written in PL/SQL.
 
 **PHP**
+* [TOON PHP Lite ![GitHub Repo Stars](https://img.shields.io/github/stars/manojrammurthy/toon-php-lite) ![GitHub last commit](https://img.shields.io/github/last-commit/manojrammurthy/toon-php-lite)](https://github.com/manojrammurthy/toon-php-lite) - Lightweight TOON encoder/decoder for human-readable, LLM-friendly structured data. (PHP).
 * [Webmozart JSON ![GitHub Repo Stars](https://img.shields.io/github/stars/webmozart/json) ![GitHub last commit](https://img.shields.io/github/last-commit/webmozart/json)](https://github.com/webmozart/json) - A robust decoder/encoder with support for schema validation.
 
 **Python**
@@ -268,8 +271,10 @@ Inspired by the [awesome ![GitHub Repo Stars](https://img.shields.io/github/star
 * [Dadroit V Web](https://dadroit.com/vweb/) - In-browser viewer for large files with tree view, RegEx search, and URL loading with auth. Fully client-side.
 * [DataFormatter Pro](https://dataformatterpro.com/) - Browser-based formatter, validator, diff, and converter with a tree view.
 * [JSON Blob](https://jsonblob.com/) - An online tool to view, edit, format, and share data. Also has an API for making requests against stored blobs.
+* [JSON Viewer Tool](https://jsonviewertool.com/) - Online tool to view, format, validate, minify, and convert data in the browser.
 * [JSONLint](https://jsonlint.com/) - The JSON Validator.
 * [JSONCompare](https://jsoncompare.com/) - The Advanced Version of the JSON Linter.
+* [JSONMaster](https://jsonmaster.com/) - Free online validator, formatter, minifier and viewer.
 * [JSONMate](https://www.jsonmate.com/) - JSON editor, inspector and beautifier.
 * [JSON Editor online](https://jsoneditoronline.org/) - A web-based tool to view, edit and format.
 * [Collapsible JSON Formatter](http://www.bodurov.com/JsonFormatter/) - Formatter and Colorer of Raw Code.
