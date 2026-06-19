@@ -703,7 +703,7 @@ The same can be done for `margin-block` with defines the block start and end mar
 > [!NOTE]
 > I've had less time available to maintain the growing list of translated tips; adding a new tip requires including it with over a dozen translations. For that reason, translated README files are likely to not include all the tips listed on the main README file.
 
-- [简体中�� ![GitHub Repo Stars](https://img.shields.io/github/stars/AllThingsSmitty/css-protips) ![GitHub last commit](https://img.shields.io/github/last-commit/AllThingsSmitty/css-protips)](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/zh-CN)
+- [简体中文 ![GitHub Repo Stars](https://img.shields.io/github/stars/AllThingsSmitty/css-protips) ![GitHub last commit](https://img.shields.io/github/last-commit/AllThingsSmitty/css-protips)](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/zh-CN)
 - [正體中文 ![GitHub Repo Stars](https://img.shields.io/github/stars/AllThingsSmitty/css-protips) ![GitHub last commit](https://img.shields.io/github/last-commit/AllThingsSmitty/css-protips)](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/zh-TW)
 - [Deutsch ![GitHub Repo Stars](https://img.shields.io/github/stars/AllThingsSmitty/css-protips) ![GitHub last commit](https://img.shields.io/github/last-commit/AllThingsSmitty/css-protips)](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/de-DE)
 - [Español ![GitHub Repo Stars](https://img.shields.io/github/stars/AllThingsSmitty/css-protips) ![GitHub last commit](https://img.shields.io/github/last-commit/AllThingsSmitty/css-protips)](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/es-ES)
