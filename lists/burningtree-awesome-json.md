@@ -44,6 +44,7 @@ Inspired by the [awesome ![GitHub Repo Stars](https://img.shields.io/github/star
 * [Dadroit JSON Viewer](https://dadroit.com) - Very fast JSON Viewer, supporting huge (multi gigabytes) files, JSON log (JSON-Lines and ndjson).
 
 **OS X**
+* [JSON Design Studio](https://stevespringett.com/free-tools/json-design-studio/) - Professional schema authoring environment.
 * [Visual JSON ![GitHub Repo Stars](https://img.shields.io/github/stars/youknowone/VisualJSON) ![GitHub last commit](https://img.shields.io/github/last-commit/youknowone/VisualJSON)](https://github.com/youknowone/VisualJSON) - simple JSON pretty-viewer for Mac OS X. (inactive)
 * [JSONExport ![GitHub Repo Stars](https://img.shields.io/github/stars/Ahmed-Ali/JSONExport) ![GitHub last commit](https://img.shields.io/github/last-commit/Ahmed-Ali/JSONExport)](https://github.com/Ahmed-Ali/JSONExport) - convert a object to a class of one of the currently supported languages.
 
@@ -78,6 +79,7 @@ Inspired by the [awesome ![GitHub Repo Stars](https://img.shields.io/github/star
 * [jq ![GitHub Repo Stars](https://img.shields.io/github/stars/jqlang/jq) ![GitHub last commit](https://img.shields.io/github/last-commit/jqlang/jq)](https://github.com/jqlang/jq) - A lightweight and flexible command-line JSON processor.
   * [jaq ![GitHub Repo Stars](https://img.shields.io/github/stars/01mf02/jaq) ![GitHub last commit](https://img.shields.io/github/last-commit/01mf02/jaq)](https://github.com/01mf02/jaq) - A jq clone focussed on correctness, speed, and simplicity. Written in Rust.
   * [gojq ![GitHub Repo Stars](https://img.shields.io/github/stars/itchyny/gojq) ![GitHub last commit](https://img.shields.io/github/last-commit/itchyny/gojq)](https://github.com/itchyny/gojq) - Pure Go implementation of jq. A bit faster and more portable.
+* [JSONKit ![GitHub Repo Stars](https://img.shields.io/github/stars/vesper-astrena/jsonkit) ![GitHub last commit](https://img.shields.io/github/last-commit/vesper-astrena/jsonkit)](https://github.com/vesper-astrena/jsonkit) - Swiss Army knife: format, validate, query via dot-notation, diff, flatten, convert to CSV, and stats. Zero dependencies, Python 3.10+.
 * [livejq ![GitHub Repo Stars](https://img.shields.io/github/stars/kunalsin9h/livejq) ![GitHub last commit](https://img.shields.io/github/last-commit/kunalsin9h/livejq)](https://github.com/kunalsin9h/livejq) - An alternative `jq` implementation in rust for continuous parsing without crashing on invalid JSON
 * [json](http://trentm.com/json/) - A "json" command for massaging JSON on your Unix command line.
 * [json-search ![GitHub Repo Stars](https://img.shields.io/github/stars/cosmo-ray/json-search) ![GitHub last commit](https://img.shields.io/github/last-commit/cosmo-ray/json-search)](https://github.com/cosmo-ray/json-search) - A small tool to search for objects/values in json files.
@@ -91,9 +93,11 @@ Inspired by the [awesome ![GitHub Repo Stars](https://img.shields.io/github/star
 * [jv ![GitHub Repo Stars](https://img.shields.io/github/stars/maxzender/jv) ![GitHub last commit](https://img.shields.io/github/last-commit/maxzender/jv)](https://github.com/maxzender/jv) - jv (for jsonviewer) helps you view your JSON.
 * [jl ![GitHub Repo Stars](https://img.shields.io/github/stars/chrisdone/jl) ![GitHub last commit](https://img.shields.io/github/last-commit/chrisdone/jl)](https://github.com/chrisdone/jl) - Functional sed for JSON.
 * [oj ![GitHub Repo Stars](https://img.shields.io/github/stars/ohler55/ojg) ![GitHub last commit](https://img.shields.io/github/last-commit/ohler55/ojg)](https://github.com/ohler55/ojg) - A fast and flexible command line JSON processor.
+* [Parsrs ![GitHub Repo Stars](https://img.shields.io/github/stars/ShellShoccar-jpn/Parsrs) ![GitHub last commit](https://img.shields.io/github/last-commit/ShellShoccar-jpn/Parsrs)](https://github.com/ShellShoccar-jpn/Parsrs) - CSV, XML, and data text parsers and generators written in pure POSIX shellscript. Includes `parsrj.sh` and `makrj.sh`.
 * [visidata ![GitHub Repo Stars](https://img.shields.io/github/stars/saulpw/visidata) ![GitHub last commit](https://img.shields.io/github/last-commit/saulpw/visidata)](https://github.com/saulpw/visidata) - A terminal spreadsheet-like tool for interactively exploring data.
 * [jc ![GitHub Repo Stars](https://img.shields.io/github/stars/kellyjonbrazil/jc) ![GitHub last commit](https://img.shields.io/github/last-commit/kellyjonbrazil/jc)](https://github.com/kellyjonbrazil/jc) - Converts the output of many CLI tools, file-types, and common strings into JSON
 * [logdy ![GitHub Repo Stars](https://img.shields.io/github/stars/logdyhq/logdy-core) ![GitHub last commit](https://img.shields.io/github/last-commit/logdyhq/logdy-core)](https://github.com/logdyhq/logdy-core) - jq, tail, less, grep and awk merged together and available in a clean web UI.
+* [jsonskim ![GitHub Repo Stars](https://img.shields.io/github/stars/rxzzh/jsonskim) ![GitHub last commit](https://img.shields.io/github/last-commit/rxzzh/jsonskim)](https://github.com/rxzzh/jsonskim) - Extract structure by collapsing arrays and truncating strings. LLM-ready output.
 
 ## Databases
 * [MongoDB](https://www.mongodb.com/) - an open-source document database, and the leading NoSQL database.
@@ -147,8 +151,6 @@ Inspired by the [awesome ![GitHub Repo Stars](https://img.shields.io/github/star
 * [JSON Resume](https://jsonresume.org/) - The open source initiative to create standard for resumes.
 * [JSON Web Tokens](https://jwt.io/) - A compact URL-safe means of representing claims to be transferred between two parties.
 * [JSON API](https://jsonapi.org/) - A standard for building APIs.
-* [Collection+JSON](http://amundsen.com/media-types/collection/) - A read/write hypermedia-type designed to support management and querying of simple collections.
-* [hal-json](https://stateless.group/hal_specification.html) - A set of conventions for expressing hyperlinks in either JSON or XML.
 * [JSON Activity Streams](https://activitystrea.ms/) - A format for syndicating social activities around the web.
 * [JSON-stat ![GitHub Repo Stars](https://img.shields.io/github/stars/jsonstat/jsonstat) ![GitHub last commit](https://img.shields.io/github/last-commit/jsonstat/jsonstat)](https://github.com/jsonstat/jsonstat) - Simple lightweight format for data dissemination.
 * [/contribute.json](https://www.contributejson.org/) - Making open source contribution information easier to access, across projects.
@@ -157,7 +159,6 @@ Inspired by the [awesome ![GitHub Repo Stars](https://img.shields.io/github/star
 * [JSON Meta Application Protocol (JMAP)](https://jmap.io/) - A protocol for synchronising JSON-based data objects efficiently, with support for push and out-of-band binary data upload/download.
 * [J<sub>ack</sub>SON: JSON secret keeper ![GitHub Repo Stars](https://img.shields.io/github/stars/rosehgal/jackson) ![GitHub last commit](https://img.shields.io/github/last-commit/rosehgal/jackson)](https://github.com/rosehgal/jackson) - JSONic way of storing secrets in config file.
 * [Sequence JSON ![GitHub Repo Stars](https://img.shields.io/github/stars/soundio/music-json) ![GitHub last commit](https://img.shields.io/github/last-commit/soundio/music-json)](https://github.com/soundio/music-json/) - A proposal for a standard way of creating music sequence data in JSON.
-
 
 ## Frontend components
 * [JSON editor jQuery plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/DavidDurman/FlexiJsonEditor) ![GitHub last commit](https://img.shields.io/github/last-commit/DavidDurman/FlexiJsonEditor)](https://github.com/DavidDurman/FlexiJsonEditor) - component for you web apps/pages. (jQuery)
@@ -171,6 +172,7 @@ Inspired by the [awesome ![GitHub Repo Stars](https://img.shields.io/github/star
 
 ## Libraries
 **C**
+* [codables](https://codableslib.com/) - Declarative, type-rich (de)serializer able to handle almost any data type.
 * [Jansson ![GitHub Repo Stars](https://img.shields.io/github/stars/akheron/jansson) ![GitHub last commit](https://img.shields.io/github/last-commit/akheron/jansson)](https://github.com/akheron/jansson) - A C library for encoding, decoding and manipulating data.
 * [jsmn](https://zserge.com/jsmn.html) - A minimalistic parser in C. It can be easily integrated into the resource-limited projects or embedded systems.
 * [json-build ![GitHub Repo Stars](https://img.shields.io/github/stars/lcsmuller/json-build) ![GitHub last commit](https://img.shields.io/github/last-commit/lcsmuller/json-build)](https://github.com/lcsmuller/json-build) - A minimalistic serializer in C. It can be easily integrated into the resource-limited projects or embedded systems.
@@ -181,6 +183,7 @@ Inspired by the [awesome ![GitHub Repo Stars](https://img.shields.io/github/star
 * [JSON++ ![GitHub Repo Stars](https://img.shields.io/github/stars/tunnuz/json) ![GitHub last commit](https://img.shields.io/github/last-commit/tunnuz/json)](https://github.com/tunnuz/json) - A self contained Flex/Bison parser for C++11.
 * [json11 ![GitHub Repo Stars](https://img.shields.io/github/stars/dropbox/json11) ![GitHub last commit](https://img.shields.io/github/last-commit/dropbox/json11)](https://github.com/dropbox/json11) - A tiny library for C++11.
 * [Nlohmann JSON ![GitHub Repo Stars](https://img.shields.io/github/stars/nlohmann/json) ![GitHub last commit](https://img.shields.io/github/last-commit/nlohmann/json)](https://github.com/nlohmann/json) - A C++11 header-only class.
+* [qjson ![GitHub Repo Stars](https://img.shields.io/github/stars/qinyonghang/json) ![GitHub last commit](https://img.shields.io/github/last-commit/qinyonghang/json)](https://github.com/qinyonghang/json) - A fast library for C++17 that is header-only.
 * [RapidJSON ![GitHub Repo Stars](https://img.shields.io/github/stars/Tencent/rapidjson) ![GitHub last commit](https://img.shields.io/github/last-commit/Tencent/rapidjson)](https://github.com/Tencent/rapidjson) - A fast JSON parser/generator for C++ with both SAX/DOM style API
 * [simdjson ![GitHub Repo Stars](https://img.shields.io/github/stars/simdjson/simdjson) ![GitHub last commit](https://img.shields.io/github/last-commit/simdjson/simdjson)](https://github.com/simdjson/simdjson) - Parsing gigabytes of JSON per second.
 
@@ -243,7 +246,6 @@ Inspired by the [awesome ![GitHub Repo Stars](https://img.shields.io/github/star
 **.NET**
 * [jsonfx ![GitHub Repo Stars](https://img.shields.io/github/stars/jsonfx/jsonfx) ![GitHub last commit](https://img.shields.io/github/last-commit/jsonfx/jsonfx)](https://github.com/jsonfx/jsonfx) - serialization framework for .NET.
 * [jsonapi-consumer ![GitHub Repo Stars](https://img.shields.io/github/stars/OKTAYKIR/jsonapi-consumer) ![GitHub last commit](https://img.shields.io/github/last-commit/OKTAYKIR/jsonapi-consumer)](https://github.com/OKTAYKIR/jsonapi-consumer) - Client framework for consuming JSONAPI based APIs on the [JSON API standard](https://jsonapi.org).
-* [FracturedJson](https://www.nuget.org/packages/FracturedJson) - A formatter that produces human-readable but fairly compact output.
 
 **Scala**
 * [spray-json ![GitHub Repo Stars](https://img.shields.io/github/stars/spray/spray-json) ![GitHub last commit](https://img.shields.io/github/last-commit/spray/spray-json)](https://github.com/spray/spray-json) - A lightweight, clean and simple implementation in Scala.
@@ -257,11 +259,15 @@ Inspired by the [awesome ![GitHub Repo Stars](https://img.shields.io/github/star
 **Swift**
 * [SwiftyJSON ![GitHub Repo Stars](https://img.shields.io/github/stars/SwiftyJSON/SwiftyJSON) ![GitHub last commit](https://img.shields.io/github/last-commit/SwiftyJSON/SwiftyJSON)](https://github.com/SwiftyJSON/SwiftyJSON) - The better way to deal with data in Swift.
 
+* [yyjson ![GitHub Repo Stars](https://img.shields.io/github/stars/ibireme/yyjson) ![GitHub last commit](https://img.shields.io/github/last-commit/ibireme/yyjson)](https://github.com/ibireme/yyjson) - High performance parser and serializer in C.
 ## Linters
 * [jsonlint ![GitHub Repo Stars](https://img.shields.io/github/stars/zaach/jsonlint) ![GitHub last commit](https://img.shields.io/github/last-commit/zaach/jsonlint)](https://github.com/zaach/jsonlint) - Parser and validator with a CLI. (Javascript)
 * [JSON Lint ![GitHub Repo Stars](https://img.shields.io/github/stars/Seldaek/jsonlint) ![GitHub last commit](https://img.shields.io/github/last-commit/Seldaek/jsonlint)](https://github.com/Seldaek/jsonlint) - PHP linter. (PHP)
 
 ## Online tools
+* [Dadroit V Web](https://dadroit.com/vweb/) - In-browser viewer for large files with tree view, RegEx search, and URL loading with auth. Fully client-side.
+* [DataFormatter Pro](https://dataformatterpro.com/) - Browser-based formatter, validator, diff, and converter with a tree view.
+* [JSON Blob](https://jsonblob.com/) - An online tool to view, edit, format, and share data. Also has an API for making requests against stored blobs.
 * [JSONLint](https://jsonlint.com/) - The JSON Validator.
 * [JSONCompare](https://jsoncompare.com/) - The Advanced Version of the JSON Linter.
 * [JSONMate](https://www.jsonmate.com/) - JSON editor, inspector and beautifier.
@@ -279,14 +285,19 @@ Inspired by the [awesome ![GitHub Repo Stars](https://img.shields.io/github/star
 * [json2yaml](https://www.json2yaml.com/) - Convert JSON to YAML online.
 * [JSON Selector Generator](http://jsonselector.com/) - A simple GUI for generating the selectors to access.
 * [JSON.fr](https://www.json.fr/) - Fully client-side validator and formatter.
+* [JSONtapose](https://www.jsontapose.com/) - Intuitive, beautiful and secure client-side comparison and visualization tool.
+* [jsontosdk](https://jsontosdk.vercel.app) - Paste a data sample to get typed TypeScript interfaces and a Zod schema with LLM-named types. No signup.
 * [ObjGen](https://www.objgen.com/json) - Online live JSON generator.
 * [JSONPlaceholder](https://jsonplaceholder.typicode.com/) - Fake Online REST API for Testing and Prototyping.
 * [Extends Class](https://extendsclass.com/json-diff.html) - Diff tool to compare two files.
 * [JSON Schema Validate API](https://assertible.com/json-schema-validation) - A simple and free JSON Schema Validation API.
 * [JSONPerf](https://jsonperf.com) - A Visual, Unbiased and Up-to-Date JSON Performance Benchmark.
 * [FracturedJson](https://j-brooke.github.io/FracturedJson/) - Formatter that produces human-readable but fairly compact output.
+* [Softwium](https://softwium.com/fake-api/) - Fake and dummy REST API for testing.
+* [JSONing](https://jsoning.com/) - A toolset including a formatter, comparer, JSONPath tester, patch generator, and data generator.
 
 ## Schema Specifications
+* [JSON Model ![GitHub Repo Stars](https://img.shields.io/github/stars/clairey-zx81/json-model) ![GitHub last commit](https://img.shields.io/github/last-commit/clairey-zx81/json-model)](https://github.com/clairey-zx81/json-model) - A lightweight featureful DSL for data modeling.
 * [JSON Schema](https://json-schema.org/) - a JSON based format for defining the structure of JSON data.
 * [Itemscript](https://code.google.com/archive/p/itemscript/) - Language for validating and specifying values.
 * [Kwalify ![GitHub Repo Stars](https://img.shields.io/github/stars/kvs/kwalify) ![GitHub last commit](https://img.shields.io/github/last-commit/kvs/kwalify)](https://github.com/kvs/kwalify) - A parser, schema validator, and data binding tool
@@ -344,7 +355,6 @@ Inspired by the [awesome ![GitHub Repo Stars](https://img.shields.io/github/star
 * [vim-json ![GitHub Repo Stars](https://img.shields.io/github/stars/elzr/vim-json) ![GitHub last commit](https://img.shields.io/github/last-commit/elzr/vim-json)](https://github.com/elzr/vim-json) - A better JSON for Vim: distinct highlighting of keywords vs values, JSON-specific (non-JS) warnings, quote concealing. Pathogen-friendly.
 
 **Visual Studio Code**
-* [FracturedJsonVsc](https://marketplace.visualstudio.com/items?itemName=j-brooke.fracturedjsonvsc) - Formatter that produces human-readable but fairly compact output.
 
 **Neovim**
 * [nvim-jqx ![GitHub Repo Stars](https://img.shields.io/github/stars/gennaro-tedesco/nvim-jqx) ![GitHub last commit](https://img.shields.io/github/last-commit/gennaro-tedesco/nvim-jqx)](https://github.com/gennaro-tedesco/nvim-jqx) - Browse and query json files in neovim from the quickfix window. (Lua)
@@ -360,9 +370,7 @@ Inspired by the [awesome ![GitHub Repo Stars](https://img.shields.io/github/star
 * [JsonMapper ![GitHub Repo Stars](https://img.shields.io/github/stars/cweiske/jsonmapper) ![GitHub last commit](https://img.shields.io/github/last-commit/cweiske/jsonmapper)](https://github.com/cweiske/jsonmapper) - Map nested structures onto PHP classes (PHP)
 * [SassyJSON ![GitHub Repo Stars](https://img.shields.io/github/stars/KittyGiraudel/SassyJSON) ![GitHub last commit](https://img.shields.io/github/last-commit/KittyGiraudel/SassyJSON)](https://github.com/KittyGiraudel/SassyJSON) - Sass-powered API. (Sass)
 * [json.human.js](http://marianoguerra.github.io/json.human.js/) - A small library to convert a JSON object into a human readable HTML representation that is easy to style for different purposes.
-* [JSONtoFoundation ![GitHub Repo Stars](https://img.shields.io/github/stars/fmscode/JSONtoFoundation) ![GitHub last commit](https://img.shields.io/github/last-commit/fmscode/JSONtoFoundation)](https://github.com/fmscode/JSONtoFoundation) - OS X utility that converts a JSON object to a Foundation object that can be used in Cocoa/Cocoa Touch development. (Swift)
 * [fanci ![GitHub Repo Stars](https://img.shields.io/github/stars/liip/fanci) ![GitHub last commit](https://img.shields.io/github/last-commit/liip/fanci)](https://github.com/liip/fanci) - Extract, rename and transform JSON based on a template. (node.js)
-* [Pinch ![GitHub Repo Stars](https://img.shields.io/github/stars/Baggz/Pinch) ![GitHub last commit](https://img.shields.io/github/last-commit/Baggz/Pinch)](https://github.com/Baggz/Pinch) - String.replace for JavaScript objects. (Javascript)
 * [deepjson](https://www.npmjs.com/package/deepjson/) - A better way to load big json config files. (node.js)
 * [jsontl ![GitHub Repo Stars](https://img.shields.io/github/stars/DoublePrecisionSoftware/jsontl) ![GitHub last commit](https://img.shields.io/github/last-commit/DoublePrecisionSoftware/jsontl)](https://github.com/DoublePrecisionSoftware/jsontl) - allow transformation using a JSON-based transformation language. (node.js)
 * [json-transforms ![GitHub Repo Stars](https://img.shields.io/github/stars/ColinEberhardt/json-transforms) ![GitHub last commit](https://img.shields.io/github/last-commit/ColinEberhardt/json-transforms)](https://github.com/ColinEberhardt/json-transforms) - A recursive, pattern-matching, approach to transforming JSON structures.
@@ -393,8 +401,8 @@ Inspired by the [awesome ![GitHub Repo Stars](https://img.shields.io/github/star
 * [Angular JSON Schema Form ![GitHub Repo Stars](https://img.shields.io/github/stars/mohsen1/angular-json-schema-form) ![GitHub last commit](https://img.shields.io/github/last-commit/mohsen1/angular-json-schema-form)](https://github.com/mohsen1/angular-json-schema-form) - Angular directive for making forms out of JSON Schema. (AngularJS)
 * [AlpacaJS](http://www.alpacajs.org) - Generates JSON Schema driven forms on top of Bootstrap, jQuery Mobile, jQuery UI and HTML (jQuery)
 
-
 ## JSON Schema Tools
+* [JSON Schema CLI ![GitHub Repo Stars](https://img.shields.io/github/stars/intelligence-ai/jsonschema) ![GitHub last commit](https://img.shields.io/github/last-commit/intelligence-ai/jsonschema)](https://github.com/intelligence-ai/jsonschema) - Command-line interface for formatting, linting, testing, bundling, and validating schema files for local development and CI/CD pipelines.
 * [prmd ![GitHub Repo Stars](https://img.shields.io/github/stars/interagent/prmd) ![GitHub last commit](https://img.shields.io/github/last-commit/interagent/prmd)](https://github.com/interagent/prmd) - Tools and doc generation for HTTP APIs.
 * [generate-schema ![GitHub Repo Stars](https://img.shields.io/github/stars/Nijikokun/generate-schema) ![GitHub last commit](https://img.shields.io/github/last-commit/Nijikokun/generate-schema)](https://github.com/Nijikokun/generate-schema) - Effortlessly convert your JSON Object to JSON Schema, Mongoose Schema, or a Generic template for quick documentation / upstart.
 * [Docson ![GitHub Repo Stars](https://img.shields.io/github/stars/lbovet/docson) ![GitHub last commit](https://img.shields.io/github/last-commit/lbovet/docson)](https://github.com/lbovet/docson) - Documentation for your types.
@@ -403,14 +411,12 @@ Inspired by the [awesome ![GitHub Repo Stars](https://img.shields.io/github/star
 * [Matic ![GitHub Repo Stars](https://img.shields.io/github/stars/mattyod/matic) ![GitHub last commit](https://img.shields.io/github/last-commit/mattyod/matic)](https://github.com/mattyod/matic) - Build tool for generating HTML documentation.
 * [JSON Schema + Faker ![GitHub Repo Stars](https://img.shields.io/github/stars/json-schema-faker/json-schema-faker) ![GitHub last commit](https://img.shields.io/github/last-commit/json-schema-faker/json-schema-faker)](https://github.com/json-schema-faker/json-schema-faker) - Fake your schemas.
 * [DLL.js ![GitHub Repo Stars](https://img.shields.io/github/stars/moll/js-ddl) ![GitHub last commit](https://img.shields.io/github/last-commit/moll/js-ddl)](https://github.com/moll/js-ddl) - Gets you a JSON Schema from PostgreSQL or SQLite3.
-* [JSONSchema.net](https://jsonschema.net//) - JSON Schema generator from JSON object.
 * [js-schema ![GitHub Repo Stars](https://img.shields.io/github/stars/molnarg/js-schema) ![GitHub last commit](https://img.shields.io/github/last-commit/molnarg/js-schema)](https://github.com/molnarg/js-schema) - A new way of describing object schemas in JavaScript. It has a clean and simple syntax, and it is capable of serializing to/from the popular JSON Schema format.
-* [aptos ![GitHub Repo Stars](https://img.shields.io/github/stars/pennsignals/aptos) ![GitHub last commit](https://img.shields.io/github/last-commit/pennsignals/aptos)](https://github.com/pennsignals/aptos) - A tool for validating data using JSON Schema and converting JSON Schema documents into different data-interchange formats.
 * [JSON Schema $Ref Parser ![GitHub Repo Stars](https://img.shields.io/github/stars/APIDevTools/json-schema-ref-parser) ![GitHub last commit](https://img.shields.io/github/last-commit/APIDevTools/json-schema-ref-parser)](https://github.com/APIDevTools/json-schema-ref-parser) - Parse, resolve, and dereference JSON Schema $ref pointers
 
 ## JSON Schema Resources
+* [Learn JSON Schema](https://www.learnjsonschema.com) - Open-source reference documentation for the schema specification.
 * [Understanding JSON Schema](https://spacetelescope.github.io/understanding-json-schema/) - A website aiming to provide more accessible documentation for JSON schema.
-* [JSON Schema Store](https://www.schemastore.org/json/) - A collection of popular schemas.
 * [Using JSON Schema](http://usingjsonschema.com/) - a Book and GitHub project, showing how JSON Schema can be used for a variety of tasks and in different programming contexts.
 * [Awesome JSON Schema ![GitHub Repo Stars](https://img.shields.io/github/stars/sourcemeta/awesome-jsonschema) ![GitHub last commit](https://img.shields.io/github/last-commit/sourcemeta/awesome-jsonschema)](https://github.com/sourcemeta/awesome-jsonschema) - A curated list of awesome JSON Schema resources, tutorials, tools, and more.
 
@@ -425,7 +431,7 @@ Inspired by the [awesome ![GitHub Repo Stars](https://img.shields.io/github/star
 * [jjv ![GitHub Repo Stars](https://img.shields.io/github/stars/acornejo/jjv) ![GitHub last commit](https://img.shields.io/github/last-commit/acornejo/jjv)](https://github.com/acornejo/jjv) - Javascript Library for Schema Validation.
 * [request-validator ![GitHub Repo Stars](https://img.shields.io/github/stars/bugventure/request-validator) ![GitHub last commit](https://img.shields.io/github/last-commit/bugventure/request-validator)](https://github.com/bugventure/request-validator) - Flexible request validator middleware for express and connect.
 * [tv4 ![GitHub Repo Stars](https://img.shields.io/github/stars/geraintluff/tv4) ![GitHub last commit](https://img.shields.io/github/last-commit/geraintluff/tv4)](https://github.com/geraintluff/tv4) - Tiny Validator.
-* [ajv ![GitHub Repo Stars](https://img.shields.io/github/stars/ajv-validator/ajv) ![GitHub last commit](https://img.shields.io/github/last-commit/ajv-validator/ajv)](https://github.com/ajv-validator/ajv) - The fastest validator. Supports v5/6 proposals.
+* [ajv ![GitHub Repo Stars](https://img.shields.io/github/stars/ajv-validator/ajv) ![GitHub last commit](https://img.shields.io/github/last-commit/ajv-validator/ajv)](https://github.com/ajv-validator/ajv) - The fastest schema validator. Supports draft-04/06/07/2019-09/2020-12.
 
 **Java and Kotlin**
 * [Medeia Validator ![GitHub Repo Stars](https://img.shields.io/github/stars/worldturner/medeia-validator) ![GitHub last commit](https://img.shields.io/github/last-commit/worldturner/medeia-validator)](https://github.com/worldturner/medeia-validator) - Compliant (draft-04/06/07) and fast streaming validator written in Kotlin
