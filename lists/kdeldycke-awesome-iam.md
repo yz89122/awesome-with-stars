@@ -58,6 +58,7 @@ This curated [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/
 - [Cryptography](#cryptography)
   - [Identifiers](#identifiers)
 - [Zero-trust Network](#zero-trust-network)
+- [Machine Identity](#machine-identity)
 - [Authentication](#authentication)
 - [Password-based auth](#password-based-auth)
 - [Multi-factor auth](#multi-factor-auth)
@@ -181,6 +182,14 @@ Zero trust network security operates under the principle “never trust, always 
 
 - [heimdall ![GitHub Repo Stars](https://img.shields.io/github/stars/dadrus/heimdall) ![GitHub last commit](https://img.shields.io/github/last-commit/dadrus/heimdall)](https://github.com/dadrus/heimdall) - 🆓 A cloud-native, identity-aware proxy and policy enforcement point that orchestrates authentication and authorization systems via versatile rules, supporting protocol-agnostic identity propagation.
 
+## Machine Identity
+
+Workloads, services and devices are principals too. They need identities to authenticate to one another and be granted access: the non-human counterpart to human user accounts.
+
+- [SPIFFE/SPIRE ![GitHub Repo Stars](https://img.shields.io/github/stars/spiffe/spire) ![GitHub last commit](https://img.shields.io/github/last-commit/spiffe/spire)](https://github.com/spiffe/spire) - 🆓 A CNCF framework issuing short-lived, cryptographically-verifiable identities (SVIDs) to workloads across heterogeneous environments.
+
+- [NanoMDM ![GitHub Repo Stars](https://img.shields.io/github/stars/micromdm/nanomdm) ![GitHub last commit](https://img.shields.io/github/last-commit/micromdm/nanomdm)](https://github.com/micromdm/nanomdm) - 🆓 Minimalist Apple MDM server and library to enroll and manage the identity of Apple devices, inspired by MicroMDM.
+
 ## Authentication
 
 Protocols and technologies to verify that you are who you pretend to be.
@@ -239,7 +248,7 @@ Building upon password-only auth, users are requested in these schemes to presen
 
 - [SMS Multifactor Authentication in Antarctica](https://brr.fyi/posts/sms-mfa) - Doesn't work because there are no cellphone towers at stations in Antarctica.
 
-- [Authelia ![GitHub Repo Stars](https://img.shields.io/github/stars/authelia/authelia) ![GitHub last commit](https://img.shields.io/github/last-commit/authelia/authelia)](https://github.com/authelia/authelia) - �� Open-source authentication and authorization server providing two-factor authentication and single sign-on (SSO) for your applications via a web portal.
+- [Authelia ![GitHub Repo Stars](https://img.shields.io/github/stars/authelia/authelia) ![GitHub last commit](https://img.shields.io/github/last-commit/authelia/authelia)](https://github.com/authelia/authelia) - 🆓 Open-source authentication and authorization server providing two-factor authentication and single sign-on (SSO) for your applications via a web portal.
 
 - [Kanidm ![GitHub Repo Stars](https://img.shields.io/github/stars/kanidm/kanidm) ![GitHub last commit](https://img.shields.io/github/last-commit/kanidm/kanidm)](https://github.com/kanidm/kanidm) - 🆓 Simple, secure and fast identity management platform.
 
@@ -448,6 +457,8 @@ The old *OpenID* is dead; the new *OpenID Connect* is very much not-dead.
 - [authentik ![GitHub Repo Stars](https://img.shields.io/github/stars/goauthentik/authentik) ![GitHub last commit](https://img.shields.io/github/last-commit/goauthentik/authentik)](https://github.com/goauthentik/authentik) - 💸 Open-source Identity Provider similar to Keycloak.
 
 - [ZITADEL ![GitHub Repo Stars](https://img.shields.io/github/stars/zitadel/zitadel) ![GitHub last commit](https://img.shields.io/github/last-commit/zitadel/zitadel)](https://github.com/zitadel/zitadel) - 💸 An Open-Source solution built with Go and Angular to manage all your systems, users and service accounts together with their roles and external identities. ZITADEL provides you with OIDC, OAuth 2.0, login & register flows, passwordless and MFA authentication. All this is built on top of eventsourcing in combination with CQRS to provide a great audit trail.
+
+- [obligator ![GitHub Repo Stars](https://img.shields.io/github/stars/lastlogin-net/obligator) ![GitHub last commit](https://img.shields.io/github/last-commit/lastlogin-net/obligator)](https://github.com/lastlogin-net/obligator) - 🆓 Simple and opinionated OpenID Connect server designed for self-hosters. Single static binary with flat-file or SQLite storage.
 
 ## SAML
 
