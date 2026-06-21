@@ -165,6 +165,8 @@ The dynamic scheme for elastic resources.
 
 - [Lago ![GitHub Repo Stars](https://img.shields.io/github/stars/getlago/lago) ![GitHub last commit](https://img.shields.io/github/last-commit/getlago/lago)](https://github.com/getlago/lago) - 💸 Open-source metering & usage-based billing in Ruby. Lago SAS sells a hosted Cloud and Premium add-ons on top of the AGPL core.
 
+- [StripeMeter ![GitHub Repo Stars](https://img.shields.io/github/stars/geminimir/stripemeter) ![GitHub last commit](https://img.shields.io/github/last-commit/geminimir/stripemeter)](https://github.com/geminimir/stripemeter) - 🆓 Open-source, Stripe-native usage metering in TypeScript. Reconciles computed usage against Stripe invoices for “pre-invoice parity”, with exactly-once processing and real-time cost projections.
+
 - [CGRateS ![GitHub Repo Stars](https://img.shields.io/github/stars/cgrates/cgrates) ![GitHub last commit](https://img.shields.io/github/last-commit/cgrates/cgrates)](https://github.com/cgrates/cgrates) - 🆓 An open-source, fast (50k+ CPS) and scalable (load-balancer + replication included) real-time billing for ISPs and Telecom Operators, written in Go. Vendor-neutral, support-only commercial model.
 
 ### Subscription Plans
@@ -461,15 +463,17 @@ Once issued, an invoice must be immutable.
 
 ### Generators
 
-- [Manta ![GitHub Repo Stars](https://img.shields.io/github/stars/hql287/Manta) ![GitHub last commit](https://img.shields.io/github/last-commit/hql287/Manta)](https://github.com/hql287/Manta) - 🆓 Flexible invoicing desktop app with beautiful & customizable templates.
+- [Invoice Builder ![GitHub Repo Stars](https://img.shields.io/github/stars/piratuks/invoice-builder) ![GitHub last commit](https://img.shields.io/github/last-commit/piratuks/invoice-builder)](https://github.com/piratuks/invoice-builder) - 🆓 Offline-first desktop app to create, manage and export invoices and quotes to PDF, with all data kept in a local database you own.
 
 - [InvoicePlane ![GitHub Repo Stars](https://img.shields.io/github/stars/InvoicePlane/InvoicePlane) ![GitHub last commit](https://img.shields.io/github/last-commit/InvoicePlane/InvoicePlane)](https://github.com/InvoicePlane/InvoicePlane) - 🆓 A self-hosted open-source application for managing your invoices, clients and payments. Community project, no paid edition.
 
+- [klirr ![GitHub Repo Stars](https://img.shields.io/github/stars/sajjon/klirr) ![GitHub last commit](https://img.shields.io/github/last-commit/sajjon/klirr)](https://github.com/sajjon/klirr) - 🆓 Zero-maintenance FOSS CLI tool for generating beautiful invoices for services and expenses.
+
 - [InvoiceGenerator ![GitHub Repo Stars](https://img.shields.io/github/stars/by-cx/InvoiceGenerator) ![GitHub last commit](https://img.shields.io/github/last-commit/by-cx/InvoiceGenerator)](https://github.com/by-cx/InvoiceGenerator) - 🆓 Python library to generate simple invoices.
 
-- [Ruby Invoicing Framework ![GitHub Repo Stars](https://img.shields.io/github/stars/code-mancers/invoicing) ![GitHub last commit](https://img.shields.io/github/last-commit/code-mancers/invoicing)](https://github.com/code-mancers/invoicing) - 🆓 For generating and displaying invoices (ideal for commercial Rails apps). It allows for flexible business logic; provides tools for tax handling, commission calculation etc.
+- [microinvoice ![GitHub Repo Stars](https://img.shields.io/github/stars/baptistejamin/node-microinvoice) ![GitHub last commit](https://img.shields.io/github/last-commit/baptistejamin/node-microinvoice)](https://github.com/baptistejamin/node-microinvoice) - 🆓 Fast Node.js library to generate PDF invoices with PDFKit, no headless browser required.
 
-- [klirr ![GitHub Repo Stars](https://img.shields.io/github/stars/sajjon/klirr) ![GitHub last commit](https://img.shields.io/github/last-commit/sajjon/klirr)](https://github.com/sajjon/klirr) - 🆓 Zero-maintenance FOSS CLI tool for generating beautiful invoices for services and expenses.
+- [Ruby Invoicing Framework ![GitHub Repo Stars](https://img.shields.io/github/stars/code-mancers/invoicing) ![GitHub last commit](https://img.shields.io/github/last-commit/code-mancers/invoicing)](https://github.com/code-mancers/invoicing) - 🆓 For generating and displaying invoices (ideal for commercial Rails apps). It allows for flexible business logic; provides tools for tax handling, commission calculation etc.
 
 ### Extractors
 
