@@ -427,6 +427,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [Marmicode Cookbook](https://cookbook.marmicode.io/) - Ingredients & Recipes for Cooking Delicious Apps.
 * [angular-interview-questions ![GitHub Repo Stars](https://img.shields.io/github/stars/Devinterview-io/angular-interview-questions) ![GitHub last commit](https://img.shields.io/github/last-commit/Devinterview-io/angular-interview-questions)](https://github.com/Devinterview-io/angular-interview-questions) - Angular interview questions and answers to help you prepare for your next technical interview.
 * [dotnet_angular_cli_cheatsheet ![GitHub Repo Stars](https://img.shields.io/github/stars/shashinvision/dotnet_angular_cli_cheatsheet) ![GitHub last commit](https://img.shields.io/github/last-commit/shashinvision/dotnet_angular_cli_cheatsheet)](https://github.com/shashinvision/dotnet_angular_cli_cheatsheet) - A comprehensive guide for full-stack developers working with .NET and Angular.
+* [Signals in Angular](https://slicker.me/angular/signals.html) - From basics to advanced patterns with Signals.
 
 ### Exercises
 
@@ -671,6 +672,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [swetrix ![GitHub Repo Stars](https://img.shields.io/github/stars/Swetrix/swetrix) ![GitHub last commit](https://img.shields.io/github/last-commit/Swetrix/swetrix)](https://github.com/Swetrix/swetrix) - [Integrate Swetrix with your Angular application](https://swetrix.com/docs/angular-integration) to track page views, monitor errors, and capture custom events — all while staying privacy-friendly and GDPR-compliant.
 * [@grandgular/logrocket-angular ![GitHub Repo Stars](https://img.shields.io/github/stars/Grandgular/logrocket) ![GitHub last commit](https://img.shields.io/github/last-commit/Grandgular/logrocket)](https://github.com/Grandgular/logrocket) - Wrapper for the LogRocket Web SDK with DI‑friendly init, lazy loading, typed options, privacy helpers, and DOM directives for data‑private/data‑public.
 * [ngx-umami ![GitHub Repo Stars](https://img.shields.io/github/stars/mitsuru17/ngx-umami) ![GitHub last commit](https://img.shields.io/github/last-commit/mitsuru17/ngx-umami)](https://github.com/mitsuru17/ngx-umami) - Angular integration for [Umami Analytics](https://umami.is/) — a lightweight, privacy‑first tracking solution tailored for Angular applications.
+* [takt-angular ![GitHub Repo Stars](https://img.shields.io/github/stars/vskstudio/takt-angular) ![GitHub last commit](https://img.shields.io/github/last-commit/vskstudio/takt-angular)](https://github.com/vskstudio/takt-angular) - Idiomatic Angular wrapper for [Takt ![GitHub Repo Stars](https://img.shields.io/github/stars/vskstudio/takt-core) ![GitHub last commit](https://img.shields.io/github/last-commit/vskstudio/takt-core)](https://github.com/vskstudio/takt-core) privacy-friendly analytics.
 
 ### Code Analysis
 
@@ -2084,6 +2086,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [magary ![GitHub Repo Stars](https://img.shields.io/github/stars/JhoanGon/magary) ![GitHub last commit](https://img.shields.io/github/last-commit/JhoanGon/magary)](https://github.com/JhoanGon/magary) - A modern, standalone-first Angular UI library monorepo.
 * [ngx-core-components ![GitHub Repo Stars](https://img.shields.io/github/stars/prajaktadube/ngx-core-components) ![GitHub last commit](https://img.shields.io/github/last-commit/prajaktadube/ngx-core-components)](https://github.com/prajaktadube/ngx-core-components) - Angular 19+ component library — production-ready UI components built with signals, OnPush change detection, and zero runtime dependencies.
 * [ngx-cupertino ![GitHub Repo Stars](https://img.shields.io/github/stars/gacc94/ngx-cupertino) ![GitHub last commit](https://img.shields.io/github/last-commit/gacc94/ngx-cupertino)](https://github.com/gacc94/ngx-cupertino) - Angular components implementing Apple's iOS 26 / macOS Tahoe 26 design system.
+* [kanso-protocol ![GitHub Repo Stars](https://img.shields.io/github/stars/GregNBlack/kanso-protocol) ![GitHub last commit](https://img.shields.io/github/last-commit/GregNBlack/kanso-protocol)](https://github.com/GregNBlack/kanso-protocol) - Open‑source, cross‑framework design system with W3C DTCG tokens, Web Components, and an AI‑ready MCP server — built around kanso (簡素), the discipline of removing the unnecessary.
 
 ### UI Libraries built on Bootstrap
 
