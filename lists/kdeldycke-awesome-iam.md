@@ -239,7 +239,7 @@ Building upon password-only auth, users are requested in these schemes to presen
 
 - [SMS Multifactor Authentication in Antarctica](https://brr.fyi/posts/sms-mfa) - Doesn't work because there are no cellphone towers at stations in Antarctica.
 
-- [Authelia ![GitHub Repo Stars](https://img.shields.io/github/stars/authelia/authelia) ![GitHub last commit](https://img.shields.io/github/last-commit/authelia/authelia)](https://github.com/authelia/authelia) - 🆓 Open-source authentication and authorization server providing two-factor authentication and single sign-on (SSO) for your applications via a web portal.
+- [Authelia ![GitHub Repo Stars](https://img.shields.io/github/stars/authelia/authelia) ![GitHub last commit](https://img.shields.io/github/last-commit/authelia/authelia)](https://github.com/authelia/authelia) - �� Open-source authentication and authorization server providing two-factor authentication and single sign-on (SSO) for your applications via a web portal.
 
 - [Kanidm ![GitHub Repo Stars](https://img.shields.io/github/stars/kanidm/kanidm) ![GitHub last commit](https://img.shields.io/github/last-commit/kanidm/kanidm)](https://github.com/kanidm/kanidm) - 🆓 Simple, secure and fast identity management platform.
 
@@ -567,6 +567,8 @@ How to detect, unmask and classify offensive online activities. Most of the time
 
 - [SpiderFoot ![GitHub Repo Stars](https://img.shields.io/github/stars/poppopjmp/spiderfoot) ![GitHub last commit](https://img.shields.io/github/last-commit/poppopjmp/spiderfoot)](https://github.com/poppopjmp/spiderfoot) - 🆓 An open source intelligence (OSINT) automation tool. It integrates with just about every data source available and uses a range of methods for data analysis, making that data easy to navigate.
 
+- [OSINT Stuff Tool Collection ![GitHub Repo Stars](https://img.shields.io/github/stars/cipher387/osint_stuff_tool_collection) ![GitHub last commit](https://img.shields.io/github/last-commit/cipher387/osint_stuff_tool_collection)](https://github.com/cipher387/osint_stuff_tool_collection) - “A collection of several hundred online tools for OSINT”: domain, IP, email, username and social-network lookups useful for unmasking fraud and abuse.
+
 - [Standards related to Threat Intelligence](https://www.threat-intelligence.eu/standards/) - Open standards, tools and methodologies to support threat intelligence analysis.
 
 - [MISP taxonomies and classification](https://www.misp-project.org/taxonomies.html) - Tags to organize information on “threat intelligence including cyber security indicators, financial fraud or counter-terrorism information.”
@@ -630,6 +632,8 @@ Useful to identified clients, catch and block swarms of bots, and limit effects 
 - [Burner email providers ![GitHub Repo Stars](https://img.shields.io/github/stars/wesbos/burner-email-providers) ![GitHub last commit](https://img.shields.io/github/last-commit/wesbos/burner-email-providers)](https://github.com/wesbos/burner-email-providers) - 🆓 A list of temporary email providers. And its [derivative Python module ![GitHub Repo Stars](https://img.shields.io/github/stars/martenson/disposable-email-domains) ![GitHub last commit](https://img.shields.io/github/last-commit/martenson/disposable-email-domains)](https://github.com/martenson/disposable-email-domains).
 
 - [MailChecker ![GitHub Repo Stars](https://img.shields.io/github/stars/FGRibreau/mailchecker) ![GitHub last commit](https://img.shields.io/github/last-commit/FGRibreau/mailchecker)](https://github.com/FGRibreau/mailchecker) - 💸 Cross-language temporary (disposable/throwaway) email detection library.
+
+- [`check-if-email-exists` ![GitHub Repo Stars](https://img.shields.io/github/stars/reacherhq/check-if-email-exists) ![GitHub last commit](https://img.shields.io/github/last-commit/reacherhq/check-if-email-exists)](https://github.com/reacherhq/check-if-email-exists) - 💸 Verify an email address's reachability over SMTP without sending anything, catching typos, disposable domains and role accounts at signup.
 
 - [Temporary Email Address Domains](https://gist.github.com/adamloving/4401361) - A list of domains for disposable and temporary email addresses. Useful for filtering your email list to increase open rates (sending email to these domains likely will not be opened).
 

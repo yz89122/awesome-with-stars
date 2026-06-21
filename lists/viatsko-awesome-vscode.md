@@ -27,6 +27,7 @@ out <a href="https://github.com/sindresorhus/awesome">awesome</a>.
   - [Migrating from Sublime Text](#migrating-from-sublime-text)
   - [Migrating from Visual Studio](#migrating-from-visual-studio)
   - [Migrating from Intellij IDEA](#migrating-from-intellij-idea)
+  - [Migrating from Xcode](#migrating-from-xcode)
   - [Camel Humps](#camel-humps)
 - [Using VS Code with particular technologies](#using-vs-code-with-particular-technologies)
 - [Lint and IntelliSense](#lint-and-intellisense)
@@ -61,6 +62,7 @@ out <a href="https://github.com/sindresorhus/awesome">awesome</a>.
     - [markdownlint](#markdownlint)
     - [Markdown All in One](#markdown-all-in-one)
     - [Markdown Emoji](#markdown-emoji)
+    - [MEO](#meo)
   - [PHP](#php)
     - [PHP Tools](#php-tools)
     - [IntelliSense](#intellisense)
@@ -74,6 +76,7 @@ out <a href="https://github.com/sindresorhus/awesome">awesome</a>.
   - [Python](#python)
     - [TensorFlow](#tensorflow)
   - [ReasonML](#reasonml)
+  - [Ruby](#ruby)
   - [Rust](#rust)
   - [Terraform](#terraform)
 - [GitHub](#github)
@@ -108,7 +111,7 @@ out <a href="https://github.com/sindresorhus/awesome">awesome</a>.
   - [Find-Jump](#find-jump)
   - [Kanban](#kanban)
   - [Live Server](#live-server)
-  - [Multiple clipboards](#multiple-clipboards)
+  - [Clipboard Manager](#clipboard-manager)
   - [ngrok for VSCode](#ngrok-for-vscode)
   - [Dotnet Core Test Explorer](#dotnet-core-test-explorer)
   - [i18n Ally](#i18n-ally)
@@ -132,6 +135,13 @@ out <a href="https://github.com/sindresorhus/awesome">awesome</a>.
   - [Typescript Destructure](#typescript-destructure)
   - [WakaTime](#wakatime)
   - [Timing](#timing)
+  - [httpYac](#httpyac)
+  - [DevDb](#devdb)
+  - [Keploy](#keploy)
+  - [SemanticDiff](#semanticdiff)
+  - [Trunk](#trunk)
+  - [Peacock](#peacock)
+  - [GitHub Copilot](#github-copilot)
 - [Formatting & Beautification](#formatting--beautification)
   - [Better Align](#better-align)
   - [Auto Rename Tag](#auto-rename-tag)
@@ -162,18 +172,17 @@ out <a href="https://github.com/sindresorhus/awesome">awesome</a>.
   - [Indent Rainbow](#indent-rainbow)
   - [iTerm2 Theme Sync](#iterm2-theme-sync)
   - [Password Generator](#password-generator)
-  - [PlatformIO](#platformio)
+  - [PlatformIO IDE](#platformio-ide)
   - [Polacode](#polacode)
   - [carbon-now-sh](#carbon-now-sh)
   - [Quokka](#quokka)
   - [Runner](#runner)
-  - [Slack](#slack)
-  - [Spotify](#spotify)
   - [SVG](#svg)
   - [Text Marker (Highlighter)](#text-marker-highlighter)
-  - [ESDOC MDN](#esdoc-mdn)
   - [Interface generator](#interface-generator)
   - [JFrog](#jfrog)
+  - [SARIF Explorer](#sarif-explorer)
+  - [Document Viewer](#document-viewer)
 - [Themes](#themes)
   - [UI](#ui)
   - [Syntax](#syntax-1)
@@ -196,6 +205,7 @@ out <a href="https://github.com/sindresorhus/awesome">awesome</a>.
     - [Material Palenight Theme by whizkydee](#material-palenight-theme-by-whizkydee)
     - [Material Theme by Mattia Astorino](#material-theme-by-mattia-astorino)
     - [Mno by u29dc](#mno-by-u29dc)
+    - [Omni by Rocketseat](#omni-by-rocketseat)
     - [One Monokai by azemoh](#one-monokai-by-azemoh)
     - [Monokai Pro by monokai (commercial)](#monokai-pro-by-monokai-commercial)
     - [Night Owl by Sarah Drasner](#night-owl-by-sarah-drasner)
@@ -290,6 +300,10 @@ The VSCode team provides keymaps from popular editors, making the transition to 
 
 > Popular Intellij IDEA key bindings for VS Code.
 
+## [Migrating from Xcode](https://marketplace.visualstudio.com/items?itemName=stevemoser.xcode-keybindings)
+
+> Popular Xcode key bindings for VS Code.
+
 ## [Camel Humps](https://www.damirscorner.com/blog/posts/20190726-CamelHumpsNavigationInVsCode.html)
 
 > Like with Visual Studio and Resharper or Intellij IDEA
@@ -366,6 +380,7 @@ Unlike some other editors, VS Code supports IntelliSense, linting, outline out-o
 ![CSS Peek](https://raw.githubusercontent.com/pranaygp/vscode-css-peek/master/readme/symbolProvider.gif)
 
 - [stylelint](https://marketplace.visualstudio.com/items?itemName=stylelint.vscode-stylelint) - Lint CSS/SCSS.
+- [Tailwind CSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss) - Autocomplete, linting and hover previews for Tailwind CSS.
 - [Autoprefixer](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-autoprefixer)
   Parse CSS,SCSS, LESS and add vendor prefixes automatically.
   ![Autoprefixer](https://cloud.githubusercontent.com/assets/7034281/16823311/da82a3c6-496b-11e6-8d95-0bebbf0b9607.gif)
@@ -480,6 +495,10 @@ With MATLAB installed:
 
 ![Markdown Emoji](https://raw.githubusercontent.com/mjbvz/vscode-markdown-emoji/master/docs/example.png)
 
+### [MEO](https://marketplace.visualstudio.com/items?itemName=vadimmelnicuk.meo)
+
+> A markdown editor with a single-tab live/source toggle for distraction-free writing.
+
 ## PHP
 
 ### [PHP Tools](https://marketplace.visualstudio.com/items?itemName=DEVSENSE.phptools-vscode)
@@ -511,6 +530,8 @@ With MATLAB installed:
 
 ![Support for dotenv file syntax screenshot](https://raw.githubusercontent.com/mikestead/vscode-dotenv/master/images/screenshot.png)
 
+- [Laravel Pint](https://marketplace.visualstudio.com/items?itemName=open-southeners.laravel-pint) - Run and configure Laravel Pint, the opinionated PHP code-style fixer for Laravel.
+
 ### Twig
 
 - [Twig Language 2](https://marketplace.visualstudio.com/items?itemName=mblode.twig-language-2)
@@ -539,6 +560,7 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 ![Format HTML in PHP](https://raw.githubusercontent.com/RiFi2k/format-html-in-php/master/format-html-in-php.gif)
 
 - [Composer](https://marketplace.visualstudio.com/items?itemName=ikappas.composer)
+- [PHP Create Class](https://marketplace.visualstudio.com/items?itemName=jaguadoromero.vscode-php-create-class) - Create PHP classes, interfaces, traits and enums from the context menu.
 - [PHP Debug](https://marketplace.visualstudio.com/items?itemName=xdebug.php-debug) - XDebug extension for Visual Studio Code
 - [PHP DocBlocker](https://marketplace.visualstudio.com/items?itemName=neilbrayfield.php-docblocker)
 - [php cs fixer](https://marketplace.visualstudio.com/items?itemName=junstyle.php-cs-fixer) - PHP CS Fixer extension for VS Code, php formatter, php code beautify tool
@@ -566,6 +588,10 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 ## ReasonML
 
 - [ReasonML](https://marketplace.visualstudio.com/items?itemName=jaredly.reason-vscode) - Intellisense, code formatting, refactoring, code lens and more
+
+## Ruby
+
+- [endwise](https://marketplace.visualstudio.com/items?itemName=kaiwood.endwise) - Automatically add `end` to Ruby code blocks as you type.
 
 ## Rust
 
@@ -735,9 +761,9 @@ Example of toggling `typescript.inlayHints.functionLikeReturnTypes.enabled` by s
 
 ![live-server](https://raw.githubusercontent.com/ritwickdey/vscode-live-server/master/images/Screenshot/vscode-live-server-animated-demo.gif)
 
-## [Multiple clipboards](https://marketplace.visualstudio.com/items?itemName=slevesque.vscode-multiclip)
+## [Clipboard Manager](https://marketplace.visualstudio.com/items?itemName=EdgardMessias.clipboard-manager)
 
-> Override the regular Copy and Cut commands to keep selections in a clipboard ring
+> Keeps a history of your copies and cuts so you can pick any earlier entry to paste again.
 
 ## [ngrok for VSCode](https://marketplace.visualstudio.com/items?itemName=philnash.ngrok-for-vscode)
 
@@ -873,6 +899,34 @@ Example of toggling `typescript.inlayHints.functionLikeReturnTypes.enabled` by s
 > Time converter extension to convert timestamps from/to various formats and insert them on demand or just display them. It further provides a neat hover provider to beautify epoch timestamps instantly. All features are highly customizable.
 
 ![Timing](https://raw.githubusercontent.com/HaaLeo/vscode-timing/master/doc/Convert_Sample.gif)
+
+## [httpYac](https://marketplace.visualstudio.com/items?itemName=anweber.vscode-httpyac)
+
+> Send HTTP, REST, GraphQL, gRPC, WebSocket and MQTT requests directly from VS Code.
+
+## [DevDb](https://marketplace.visualstudio.com/items?itemName=damms005.devdb)
+
+> A zero-config database GUI that auto-loads and lets you browse your database directly inside VS Code.
+
+## [Keploy](https://marketplace.visualstudio.com/items?itemName=Keploy.keployio)
+
+> Generate unit tests and API tests with mocks from your application traffic.
+
+## [SemanticDiff](https://marketplace.visualstudio.com/items?itemName=semanticdiff.semanticdiff)
+
+> Language-aware diffs that ignore formatting-only changes and highlight the meaningful edits.
+
+## [Trunk](https://marketplace.visualstudio.com/items?itemName=Trunk.io)
+
+> Meta-linter and formatter that runs and manages many linters/formatters from one config, plus check, test and merge tooling.
+
+## [Peacock](https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock)
+
+> Subtly change the color of your VS Code workspace — ideal for telling apart identical windows or monorepo projects.
+
+## [GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot)
+
+> AI pair programmer that suggests whole lines and functions as you type, with an in-editor chat.
 
 # Formatting & Beautification
 
@@ -1027,11 +1081,9 @@ Example of toggling `typescript.inlayHints.functionLikeReturnTypes.enabled` by s
 
 ![Password Generator](https://raw.githubusercontent.com/ftonato/vscode-password-generator/master/preview.gif)
 
-## [PlatformIO](https://marketplace.visualstudio.com/items?itemName=formulahendry.platformio)
+## [PlatformIO IDE](https://marketplace.visualstudio.com/items?itemName=platformio.platformio-ide)
 
-> An open source ecosystem for IoT development: supports 350+ embedded boards, 20+ development platforms, 10+ frameworks. Arduino and ARM mbed compatible.
-
-![Build using platformio animation](https://raw.githubusercontent.com/formulahendry/vscode-platformio/master/images/build.gif)
+> The official PlatformIO IDE: a cross-platform ecosystem for embedded/IoT development supporting 1000+ boards and many platforms and frameworks, with build, debug and unit testing.
 
 ## [Polacode](https://marketplace.visualstudio.com/items?itemName=pnp.polacode)
 
@@ -1055,17 +1107,6 @@ Example of toggling `typescript.inlayHints.functionLikeReturnTypes.enabled` by s
 
 ![Run various scripts right from VS Code animation](https://raw.githubusercontent.com/mattn/vscode-runner/master/images/screenshot.gif)
 
-## [Slack](https://marketplace.visualstudio.com/items?itemName=sozercan.slack)
-
-> Send messages and code snippets, upload files to Slack
-
-![Send messages or code snippets to Slack animation](https://raw.githubusercontent.com/sozercan/vscode-slack/master/slack-upload.gif)
-
-## [Spotify](https://marketplace.visualstudio.com/items?itemName=shyykoserhiy.vscode-spotify)
-> Provides integration with Spotify Desktop client. Shows the currently playing song in status bar, search lyrics and provides commands for controlling Spotify with buttons and hotkeys.
-
-![vscode-spotify](https://media.giphy.com/media/3ohhwMgeIj1MhEdBJe/giphy.gif)
-
 ## [SVG](https://marketplace.visualstudio.com/items?itemName=jock.svg)
 
 > A Powerful SVG Language Support Extension(beta). Almost all the features you need to handle SVG.
@@ -1077,12 +1118,6 @@ Example of toggling `typescript.inlayHints.functionLikeReturnTypes.enabled` by s
 > Highlight multiple text patterns with different colors at the same time. Highlighting a single text pattern can be done with the editor's search functionality, but it cannot highlight multiple patterns at the same time, and this is where this extension comes handy.
 
 ![Text Marker (Highlighter)](https://raw.githubusercontent.com/ryu1kn/vscode-text-marker/master/images/animations/public.gif)
-
-## [ESDOC MDN](https://marketplace.visualstudio.com/items?itemName=samundrak.esdoc-mdn)
-
-> Quickly bring up helpful MDN documentation in the editor
-
-![ESDOC MDN](https://raw.githubusercontent.com/samundrak/vscode-esdoc-mdn/master/demo.gif)
 
 ## [Interface generator](https://marketplace.visualstudio.com/items?itemName=dotup.dotup-vscode-interface-generator)
 
@@ -1096,6 +1131,14 @@ Example of toggling `typescript.inlayHints.functionLikeReturnTypes.enabled` by s
 
 ![JFrog](https://raw.githubusercontent.com/jfrog/jfrog-vscode-extension/master/resources/readme/introduction.png)
 
+## [SARIF Explorer](https://marketplace.visualstudio.com/items?itemName=trailofbits.sarif-explorer)
+
+> Triage static-analysis results from SARIF files: view, group, filter and annotate findings. By Trail of Bits.
+
+## [Document Viewer](https://marketplace.visualstudio.com/items?itemName=SyncfusionInc.Document-Viewer-VSCode-Extensions)
+
+> View Word, Excel, PDF, Markdown and CSV files directly inside VS Code.
+
 # Themes
 
 ## UI
@@ -1103,7 +1146,6 @@ Example of toggling `typescript.inlayHints.functionLikeReturnTypes.enabled` by s
 If you're feeling brave, there are at least two custom UIs for VS Code:
 
 - [Essence ![GitHub Repo Stars](https://img.shields.io/github/stars/essence-language/vscode-extension) ![GitHub last commit](https://img.shields.io/github/last-commit/essence-language/vscode-extension)](https://github.com/essence-language/vscode-extension)
-- [Pragmatic Essence ![GitHub Repo Stars](https://img.shields.io/github/stars/orta/Essence) ![GitHub last commit](https://img.shields.io/github/last-commit/orta/Essence)](https://github.com/orta/Essence)
 
 ## Syntax
 
@@ -1259,6 +1301,14 @@ Minimal monochrome theme.
   <img src="https://github.com/viatsko/awesome-vscode/raw/master/themes/screenshots/u29dc.mno.png" width="600" />
 </a>
 
+### [Omni by Rocketseat](https://vscodethemes.com/e/rocketseat.theme-omni)
+
+A dark theme with vibrant colors by Rocketseat.
+
+<a href="https://marketplace.visualstudio.com/items?itemName=rocketseat.theme-omni">
+  <img src="https://storage.googleapis.com/golden-wind/github/omni/omni.png" width="600" />
+</a>
+
 ### [One Monokai by azemoh](https://vscodethemes.com/e/azemoh.one-monokai)
 
 A popular free Monokai theme for Visual Studio Code, blending Monokai with Atom's One Dark.
@@ -1368,7 +1418,6 @@ A list of Twitter accounts for various people in the VS Code Community
 
 ## Libraries
 
-- [vscode-test-content ![GitHub Repo Stars](https://img.shields.io/github/stars/mlewand-org/vscode-test-content) ![GitHub last commit](https://img.shields.io/github/last-commit/mlewand-org/vscode-test-content)](https://github.com/mlewand-org/vscode-test-content) - A method to set/get editor content, and it's selection. Especially useful for unit tests.
 - [typed-vscode](https://www.npmjs.com/package/typed-vscode) - Generates types from contribution points of your extension manifest
 
 ## Tools
@@ -1381,9 +1430,7 @@ A list of Twitter accounts for various people in the VS Code Community
 ![macOS Finder toolbar app to open current folder in Visual Studio Code animation](https://camo.githubusercontent.com/edbae5fe27d6c7af23218e60cb07e3a5061bbbab/687474703a2f2f692e696d6775722e636f6d2f4c6d56484978572e676966)
 
 - [Themer](https://themer.dev) - Easily create your own theme for VS Code (and matching ones for your other tools).
-- [Azure Tools for Visual Studio Code ![GitHub Repo Stars](https://img.shields.io/github/stars/bradygaster-zz/azure-tools-vscode) ![GitHub last commit](https://img.shields.io/github/last-commit/bradygaster-zz/azure-tools-vscode)](https://github.com/bradygaster-zz/azure-tools-vscode) - This extension for Visual Studio Code gives Azure developers some convenient commands for creating or accessing resources directly in the editor.
-
-![azure-tools-vscode](https://raw.githubusercontent.com/johnpapa/vscode-azure-functions-tools/master/images/json-schema-function.gif)
+- [Azure Tools](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-node-azure-pack) - Microsoft's official Azure extension pack, bundling the core Azure extensions for working with Azure resources directly from VS Code.
 
 - [Mark down preview](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced) - Markdown Preview Enhanced is an extension that provides you with many useful functionalities such as automatic scroll sync, math typesetting, mermaid, PlantUML, pandoc, PDF export, code chunk, presentation writer, etc. A lot of its ideas are inspired by Markdown Preview Plus and RStudio Markdown.
 
