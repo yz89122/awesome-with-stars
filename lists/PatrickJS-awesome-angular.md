@@ -1352,6 +1352,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [toolbox ![GitHub Repo Stars](https://img.shields.io/github/stars/OysteinAmundsen/toolbox) ![GitHub last commit](https://img.shields.io/github/last-commit/OysteinAmundsen/toolbox)](https://github.com/OysteinAmundsen/toolbox) - High-performance, framework-agnostic web components for data-intensive applications.
 * [gp-grid ![GitHub Repo Stars](https://img.shields.io/github/stars/GioPat/gp-grid) ![GitHub last commit](https://img.shields.io/github/last-commit/GioPat/gp-grid)](https://github.com/GioPat/gp-grid) - Data grid library built with a modular architecture that cleanly separates core logic from framework integrations to efficiently handle massive datasets with millions of rows.
 * [ngx-powerful-tree ![GitHub Repo Stars](https://img.shields.io/github/stars/raknjarasoa/ngx-powerful-tree) ![GitHub last commit](https://img.shields.io/github/last-commit/raknjarasoa/ngx-powerful-tree)](https://github.com/raknjarasoa/ngx-powerful-tree) - A virtualized tree with HTML5 drag‑and‑drop, fast search, locked subtrees, and file‑picker modes, built on `@angular/cdk/scrolling` for smooth performance at 100k+ rows.
+* [agrid ![GitHub Repo Stars](https://img.shields.io/github/stars/thkl/agrid) ![GitHub last commit](https://img.shields.io/github/last-commit/thkl/agrid)](https://github.com/thkl/agrid) - Angular data grid with spreadsheet-like editing, virtual scrolling, filtering, sorting, grouping, clipboard workflows, row operations, pagination, and custom cell renderers.
 
 ### Dates
 
@@ -1858,6 +1859,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [async-modal-ngx ![GitHub Repo Stars](https://img.shields.io/github/stars/antonioconselheiro/async-modal-ngx) ![GitHub last commit](https://img.shields.io/github/last-commit/antonioconselheiro/async-modal-ngx)](https://github.com/antonioconselheiro/async-modal-ngx) - This library renders Angular components with flexible data flow, while all styling and modal-host design remain your responsibility.
 * [rnd-dialog ![GitHub Repo Stars](https://img.shields.io/github/stars/acrodata/rnd-dialog) ![GitHub last commit](https://img.shields.io/github/last-commit/acrodata/rnd-dialog)](https://github.com/acrodata/rnd-dialog) - Resizable and draggable dialog based on CDK dialog.
 * [prettier-modals ![GitHub Repo Stars](https://img.shields.io/github/stars/antuuanyf/prettier-modals) ![GitHub last commit](https://img.shields.io/github/last-commit/antuuanyf/prettier-modals)](https://github.com/antuuanyf/prettier-modals) - Angular directives and an injectable service for Prettier Modals — beautiful open/close animations for native `<dialog>` elements, powered by GSAP Flip.
+* [ngx-call ![GitHub Repo Stars](https://img.shields.io/github/stars/hebus/ngx-call) ![GitHub last commit](https://img.shields.io/github/last-commit/hebus/ngx-call)](https://github.com/hebus/ngx-call) - Imperative, type-safe, and promise-based dialogs for Angular, inspired by [React Call ![GitHub Repo Stars](https://img.shields.io/github/stars/desko27/react-call) ![GitHub last commit](https://img.shields.io/github/last-commit/desko27/react-call)](https://github.com/desko27/react-call)'s `createCallable`.
 
 ### Notifications
 
@@ -2280,6 +2282,7 @@ for the creation of web applications developed with Angular.
 * [@retejs/angular-plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/retejs/angular-plugin) ![GitHub last commit](https://img.shields.io/github/last-commit/retejs/angular-plugin)](https://github.com/retejs/angular-plugin) - Angular plugin with a classic preset of node, connection, socket, and control components, built on [Rete.js](https://retejs.org/).
 * [Stencil](https://stenciljs.com/docs/angular) - Generate Angular component wrappers for your web components.
 * [AnQst ![GitHub Repo Stars](https://img.shields.io/github/stars/DusteDdk/AnQst) ![GitHub last commit](https://img.shields.io/github/last-commit/DusteDdk/AnQst)](https://github.com/DusteDdk/AnQst) - Generates Angular services and native Qt widgets from a shared DSL, letting Angular apps compile into QWidget‑based C++ UIs via the AnQst CLI and host libraries.
+* [rozie.js ![GitHub Repo Stars](https://img.shields.io/github/stars/One-Learning-Community/rozie.js) ![GitHub last commit](https://img.shields.io/github/last-commit/One-Learning-Community/rozie.js)](https://github.com/One-Learning-Community/rozie.js) - A cross-framework compiler that transforms single Vue/Alpine-flavored component files into native Angular code without runtime overhead or wrapper boilerplate.
 
 ### External Integration
 
