@@ -163,6 +163,8 @@
 - [crdt-merge ![GitHub Repo Stars](https://img.shields.io/github/stars/mgillr/crdt-merge) ![GitHub last commit](https://img.shields.io/github/last-commit/mgillr/crdt-merge)](https://github.com/mgillr/crdt-merge) - Conflict-free merge for DataFrames, JSON, ML models & distributed agents — powered by CRDTs.
 - [LinkedIn Jobs Scraper](https://apify.com/cryptosignals/linkedin-jobs-scraper) - Crawlee-based actor extracting structured LinkedIn job listings at scale without API keys.
 - [CARQ ![GitHub Repo Stars](https://img.shields.io/github/stars/whispering3/CARQ) ![GitHub last commit](https://img.shields.io/github/last-commit/whispering3/CARQ)](https://github.com/whispering3/CARQ) - Context-Aware RAG Processing Queue for high availability and adaptive rate-limiting.
+- [Duckle ![GitHub Repo Stars](https://img.shields.io/github/stars/SouravRoy-ETL/duckle) ![GitHub last commit](https://img.shields.io/github/last-commit/SouravRoy-ETL/duckle)](https://github.com/SouravRoy-ETL/duckle) - Local-first, open-source desktop ETL/ELT studio: drag a pipeline onto a canvas (or describe it to a built-in on-device AI assistant) and run it at native speed through DuckDB. 290+ connectors, a scheduler, and an MCP server for driving pipelines from an LLM. No cloud, no servers.
+- [Rawbbit ![GitHub Repo Stars](https://img.shields.io/github/stars/mirlan-irokez/rawbbit) ![GitHub last commit](https://img.shields.io/github/last-commit/mirlan-irokez/rawbbit)](https://github.com/mirlan-irokez/rawbbit) - Open-source self-hosted analytics pipeline that lands raw events as Parquet in your own object storage. Uses NATS JetStream for durable buffering and BigQuery external tables for querying. Designed for teams that want to own their raw event data.
 
 ## File System
 
