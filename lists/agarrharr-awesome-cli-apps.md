@@ -129,6 +129,7 @@ Inspired by the [awesome ![GitHub Repo Stars](https://img.shields.io/github/star
 - [mpvc ![GitHub Repo Stars](https://img.shields.io/github/stars/gmt4/mpvc) ![GitHub last commit](https://img.shields.io/github/last-commit/gmt4/mpvc)](https://github.com/gmt4/mpvc) - Music player interfacing mpv.
 - [TUISIC ![GitHub Repo Stars](https://img.shields.io/github/stars/Dark-Kernel/tuisic) ![GitHub last commit](https://img.shields.io/github/last-commit/Dark-Kernel/tuisic)](https://github.com/Dark-Kernel/tuisic) - Login-free music streaming.
 - [termusic ![GitHub Repo Stars](https://img.shields.io/github/stars/tramhao/termusic) ![GitHub last commit](https://img.shields.io/github/last-commit/tramhao/termusic)](https://github.com/tramhao/termusic) - Music player in rust with download capabilities.
+- [ytm-player ![GitHub Repo Stars](https://img.shields.io/github/stars/peternaame-boop/ytm-player) ![GitHub last commit](https://img.shields.io/github/last-commit/peternaame-boop/ytm-player)](https://github.com/peternaame-boop/ytm-player) - YouTube Music player.
 
 ### Video
 
