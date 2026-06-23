@@ -1868,5 +1868,5 @@ Have a problem a plugin can solve? Add it to the [nvim-lua wishlist ![GitHub Rep
 - [Nvim.app](https://nvim.app) - A modern search interface for Neovim plugins with fuzzy search, filtering, and self-service updates for plugin authors.
 - [ChuYanLon/chad46 ![GitHub Repo Stars](https://img.shields.io/github/stars/ChuYanLon/chad46) ![GitHub last commit](https://img.shields.io/github/last-commit/ChuYanLon/chad46)](https://github.com/ChuYanLon/chad46) - 94 themes with 44 highlight integrations, daily synced from NvChad/base46.
 <!--lint disable double-link -->
-[**⬆ back to top**](#contents)
+[**�� back to top**](#contents)
 <!--lint enable double-link -->
