@@ -436,6 +436,7 @@ See [Vivraan/godot-lang-support ![GitHub Repo Stars](https://img.shields.io/gith
   - [gdformat Visual Studio Code Extension](https://marketplace.visualstudio.com/items?itemName=EddieDover.gdscript-formatter-linter) - Formatter for GDScript in Visual Studio Code.
   - [godot-tools Visual Studio Code Extension](https://marketplace.visualstudio.com/items?itemName=geequlim.godot-tools) - A complete set of tools to code games with Godot Engine in Visual Studio Code. Includes a GDScript language client.
   - [GUT Visual Studio Code Extension ![GitHub Repo Stars](https://img.shields.io/github/stars/bitwes/gut-extension) ![GitHub last commit](https://img.shields.io/github/last-commit/bitwes/gut-extension)](https://github.com/bitwes/gut-extension) - Run GUT framework unit/integration tests directly from the Visual Studio Code Editors.
+- [Zed ![GitHub Repo Stars](https://img.shields.io/github/stars/GDQuest/zed-gdscript) ![GitHub last commit](https://img.shields.io/github/last-commit/GDQuest/zed-gdscript)](https://github.com/GDQuest/zed-gdscript) - Syntax highlighting, autocompletion, LSP (jump-to-definition, hover, references, linting), code formatting, and debugging. Supports 3.x and 4.x.
 
 ## Themes
 
