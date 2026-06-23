@@ -182,6 +182,7 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 - [akioweh/lsp-document-highlight.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/akioweh/lsp-document-highlight.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/akioweh/lsp-document-highlight.nvim)](https://github.com/akioweh/lsp-document-highlight.nvim) - Instantaneous LSP symbol reference highlighting under the cursor.
 - [nemanjamalesija/ts-expand-hover.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/nemanjamalesija/ts-expand-hover.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/nemanjamalesija/ts-expand-hover.nvim)](https://github.com/nemanjamalesija/ts-expand-hover.nvim) - Progressively expand and collapse TypeScript type aliases inside the hover float.
 - [mason-org/mason.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/mason-org/mason.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/mason-org/mason.nvim)](https://github.com/mason-org/mason.nvim) - Easily install and manage LSP servers, DAP servers, linters, and formatters.
+- [Crysthamus/nvim-file-operations ![GitHub Repo Stars](https://img.shields.io/github/stars/Crysthamus/nvim-file-operations) ![GitHub last commit](https://img.shields.io/github/last-commit/Crysthamus/nvim-file-operations)](https://github.com/Crysthamus/nvim-file-operations) - Add support for workspace file operations using built-in LSPs.
 
 ### Diagnostics
 
