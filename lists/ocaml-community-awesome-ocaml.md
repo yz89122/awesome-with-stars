@@ -334,7 +334,7 @@ With the introduction of [Effect Handlers](https://ocaml.org/manual/effects.html
 - [Uucp ![GitHub Repo Stars](https://img.shields.io/github/stars/dbuenzli/uucp) ![GitHub last commit](https://img.shields.io/github/last-commit/dbuenzli/uucp)](https://github.com/dbuenzli/uucp) — Unicode character properties for OCaml.
 - [Uunf ![GitHub Repo Stars](https://img.shields.io/github/stars/dbuenzli/uunf) ![GitHub last commit](https://img.shields.io/github/last-commit/dbuenzli/uunf)](https://github.com/dbuenzli/uunf) — Unicode text normalization for OCaml.
 - [Uuseg ![GitHub Repo Stars](https://img.shields.io/github/stars/dbuenzli/uuseg) ![GitHub last commit](https://img.shields.io/github/last-commit/dbuenzli/uuseg)](https://github.com/dbuenzli/uuseg) — Unicode text segmentation for OCaml.
-- [Uutf ![GitHub Repo Stars](https://img.shields.io/github/stars/dbuenzli/uutf) ![GitHub last commit](https://img.shields.io/github/last-commit/dbuenzli/uutf)](https://github.com/dbuenzli/uutf) — Non-blocking streaming Unicode codec for OCaml.
+- [Uutf ![GitHub Repo Stars](https://img.shields.io/github/stars/dbuenzli/uutf) ![GitHub last commit](https://img.shields.io/github/last-commit/dbuenzli/uutf)](https://github.com/dbuenzli/uutf) ��� Non-blocking streaming Unicode codec for OCaml.
 
 
 ## User Interface
