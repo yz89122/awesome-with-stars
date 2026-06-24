@@ -118,6 +118,7 @@ Choose what you find more suitable for you:
 - [PowerTools ![GitHub Repo Stars](https://img.shields.io/github/stars/NGnius/PowerTools) ![GitHub last commit](https://img.shields.io/github/last-commit/NGnius/PowerTools)](https://github.com/NGnius/PowerTools) - Decky plugin for advanced CPU, GPU, and power management.
 - [SimpleDeckyTDP ![GitHub Repo Stars](https://img.shields.io/github/stars/aarron-lee/SimpleDeckyTDP) ![GitHub last commit](https://img.shields.io/github/last-commit/aarron-lee/SimpleDeckyTDP)](https://github.com/aarron-lee/SimpleDeckyTDP) - Decky plugin with simplified TDP controls for Steam Deck.
 - [ShareDeck](https://sharedeck.games/) - Community database of Steam Deck performance settings for games.
+- [HandheldHQ](https://handheldhq.io/device/steam-deck-oled/) - Per-game Steam Deck settings cross-checked from multiple guides, with tested FPS and battery.
 
 ## Customization
 - [CSS Loader ![GitHub Repo Stars](https://img.shields.io/github/stars/suchmememanyskill/SDH-CssLoader) ![GitHub last commit](https://img.shields.io/github/last-commit/suchmememanyskill/SDH-CssLoader)](https://github.com/suchmememanyskill/SDH-CssLoader) - Decky plugin to apply custom themes to Steam Deck UI.
