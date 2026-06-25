@@ -358,6 +358,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [kanban.bash ![GitHub Repo Stars](https://img.shields.io/github/stars/coderofsalvation/kanban.bash) ![GitHub last commit](https://img.shields.io/github/last-commit/coderofsalvation/kanban.bash)](https://github.com/coderofsalvation/kanban.bash) - Kanban todo manager with a CSV backend.
 - [kanban ![GitHub Repo Stars](https://img.shields.io/github/stars/fulsomenko/kanban) ![GitHub last commit](https://img.shields.io/github/last-commit/fulsomenko/kanban)](https://github.com/fulsomenko/kanban) - Keyboard-driven project management tool inspired by lazygit.
 - [gtasks ![GitHub Repo Stars](https://img.shields.io/github/stars/BRO3886/gtasks) ![GitHub last commit](https://img.shields.io/github/last-commit/BRO3886/gtasks)](https://github.com/BRO3886/gtasks) - Manage Google Tasks.
+- [epiq ![GitHub Repo Stars](https://img.shields.io/github/stars/ljtn/epiq) ![GitHub last commit](https://img.shields.io/github/last-commit/ljtn/epiq)](https://github.com/ljtn/epiq) - Local-first distributed issue tracker backed by Git.
 
 ### Finance
 
@@ -824,6 +825,7 @@ Inclusion criteria are less strict for this fast-moving field.
 - [Nanocoder ![GitHub Repo Stars](https://img.shields.io/github/stars/Nano-Collective/nanocoder) ![GitHub last commit](https://img.shields.io/github/last-commit/Nano-Collective/nanocoder)](https://github.com/Nano-Collective/nanocoder) - Local-first agent TUI.
 
 ### LLM Interaction
+
 - [aye-chat ![GitHub Repo Stars](https://img.shields.io/github/stars/acrotron/aye-chat) ![GitHub last commit](https://img.shields.io/github/last-commit/acrotron/aye-chat)](https://github.com/acrotron/aye-chat) - Workspace for editing, running commands, and chatting with your codebase.
 - [cmd-ai ![GitHub Repo Stars](https://img.shields.io/github/stars/BrodaNoel/cmd-ai) ![GitHub last commit](https://img.shields.io/github/last-commit/BrodaNoel/cmd-ai)](https://github.com/BrodaNoel/cmd-ai) - Turns natural language into executable shell commands.
 - [lilbee ![GitHub Repo Stars](https://img.shields.io/github/stars/tobocop2/lilbee) ![GitHub last commit](https://img.shields.io/github/last-commit/tobocop2/lilbee)](https://github.com/tobocop2/lilbee) - Use local models to talk to your files, code, and more.
