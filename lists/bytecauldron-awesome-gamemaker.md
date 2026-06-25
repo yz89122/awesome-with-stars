@@ -166,7 +166,7 @@ Custom timers, timelines, and task scheduling.
 - [GMBenchmark ![GitHub Repo Stars](https://img.shields.io/github/stars/DragoniteSpam/GMBenchmark) ![GitHub last commit](https://img.shields.io/github/last-commit/DragoniteSpam/GMBenchmark)](https://github.com/DragoniteSpam/GMBenchmark) - A tool to benchmark GML code.
 - [Figgy ![GitHub Repo Stars](https://img.shields.io/github/stars/glebtsereteli/Figgy) ![GitHub last commit](https://img.shields.io/github/last-commit/glebtsereteli/Figgy)](https://github.com/glebtsereteli/Figgy) - Centralized and persistent live configs for seamless game tuning and balancing.
 - [RenderStack ![GitHub Repo Stars](https://img.shields.io/github/stars/FoxyOfJungle/RenderStack) ![GitHub last commit](https://img.shields.io/github/last-commit/FoxyOfJungle/RenderStack)](https://github.com/FoxyOfJungle/RenderStack) - Organize your game's rendering into a customizable order.
-- [GMLiteSearch ![GitHub Repo Stars](https://img.shields.io/github/stars/erkan612/GMLiteSearch) ![GitHub last commit](https://img.shields.io/github/last-commit/erkan612/GMLiteSearch)](https://github.com/erkan612/GMLiteSearch) - Fast, flexible full‑text search for GameMaker. Built for small to medium datasets (10k‑50k+ docs) with real‑time indexing, fuzzy search, n‑grams, BM25/TF‑IDF scoring, and persistence.
+- [GMLiteSearch ![GitHub Repo Stars](https://img.shields.io/github/stars/erkan612/GMLiteSearch) ![GitHub last commit](https://img.shields.io/github/last-commit/erkan612/GMLiteSearch)](https://github.com/erkan612/GMLiteSearch) - Fast, flexible full‑text search for GameMaker. Built for small to medium datasets (10k‑50k+ docs) with real‑time indexing, fuzzy search, n��grams, BM25/TF‑IDF scoring, and persistence.
 
 ## Tools
 
