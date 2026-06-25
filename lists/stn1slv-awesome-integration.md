@@ -835,7 +835,7 @@ System integration is the process of linking together different IT systems (com
 - [Zalando RESTful API and Event Guidelines](https://opensource.zalando.com/restful-api-guidelines/) - Comprehensive, opinionated guidelines for designing RESTful APIs and event schemas, widely reused by other organizations.
 
 <!--lint disable-->
-**[⬆ back to top](#contents)**
+**[��� back to top](#contents)**
 <!--lint enable-->
 ### Articles
 - [API-Security-Checklist (⭐23k) ![GitHub Repo Stars](https://img.shields.io/github/stars/shieldfy/API-Security-Checklist) ![GitHub last commit](https://img.shields.io/github/last-commit/shieldfy/API-Security-Checklist)](https://github.com/shieldfy/API-Security-Checklist) - Best practices about REST API security.
