@@ -273,7 +273,7 @@ The storefront of Magento 2 can be styled in numerous ways:
 - [Product Links Navigator ![GitHub Repo Stars](https://img.shields.io/github/stars/elninotech/ElNino_ProductLinksNavigator) ![GitHub last commit](https://img.shields.io/github/last-commit/elninotech/ElNino_ProductLinksNavigator)](https://github.com/elninotech/ElNino_ProductLinksNavigator) - Enhances admin product-to-product navigation. Adds direct frontend/backend links to products in grids and modals, and a "Parent Products" tab.
 
 <details>
-<summary>🪦 Graveyard — projects no longer recommended</summary>
+<summary>🪦 Graveyard �� projects no longer recommended</summary>
 
 - [shkoliar/magento-grid-colors ![GitHub Repo Stars](https://img.shields.io/github/stars/shkoliar/magento-grid-colors) ![GitHub last commit](https://img.shields.io/github/last-commit/shkoliar/magento-grid-colors)](https://github.com/shkoliar/magento-grid-colors) - Magento 2 Grid Colors module for colorizing admin grids. Supports saving of states with the help of grid bookmarks by Dmitry Shkoliar.
 - [extdn/extension-dashboard-m2 ![GitHub Repo Stars](https://img.shields.io/github/stars/extdn/extension-dashboard-m2) ![GitHub last commit](https://img.shields.io/github/last-commit/extdn/extension-dashboard-m2)](https://github.com/extdn/extension-dashboard-m2) - A Magento 2 dashboard to display installed extensions by the Magento Extension Developers Network.
