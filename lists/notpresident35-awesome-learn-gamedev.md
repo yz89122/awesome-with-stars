@@ -608,7 +608,7 @@ Royalty Free Game Art! Don't forget to check the license.
 <br />
 
 
-[The Art of Game Design](https://www.schellgames.com/art-of-game-design/) 💠���� - An essential book on game design, basically mandatory reading for designers. Has a price tag, but is well worth the money.
+[The Art of Game Design](https://www.schellgames.com/art-of-game-design/) 💠🟪 - An essential book on game design, basically mandatory reading for designers. Has a price tag, but is well worth the money.
 
 
 [The Design of Everyday Things](https://ia902800.us.archive.org/3/items/thedesignofeverydaythingsbydonnorman/The%20Design%20of%20Everyday%20Things%20by%20Don%20Norman.pdf) 💠🟪 - A book on design in everything, basically mandatory reading for designers.
@@ -626,7 +626,7 @@ Royalty Free Game Art! Don't forget to check the license.
 [Pattern Language for Game Design](https://patternlanguageforgamedesign.com/) 💠🟪 - A database of common design patterns presented as problem solutions, compiled from the book _Pattern Language for Game Design_. Also contains work from students and designers completing excercises from the book.
 
 
-[The Evolution of Trust](https://ncase.me/trust/) 💠���� - An interactive walkthrough of some game theory. Would probably be mandatory reading in a game design class.
+[The Evolution of Trust](https://ncase.me/trust/) 💠🟪 - An interactive walkthrough of some game theory. Would probably be mandatory reading in a game design class.
 
 
 [Extra Credits: So You Want To Be a Game Designer](https://www.youtube.com/watch?v=zQvWMdWhFCc) 💠🟪 - A channel on game design that was far ahead of its time. Their backlog is filled with invaluable advice, though their more recent content has a controversial reputation, and they've largely pivoted away from games into history and literature. Start with their career video(s) - dig through their game design backlog if you would like, but stick to the older stuff.
@@ -811,7 +811,7 @@ Royalty free music! Don't forget to check the license.
 <br />
 
 
-[Leveling the Playing Field](https://ltpf.ramiismail.com) 💠🟪 - A blog/newsletter by Rami Ismail with advice on business, marketing, skill development, and various topics needed to run an indie studio. Past newsletters are archived here. I personally recommend "Budget Viability" as a starting point.
+[Leveling the Playing Field](https://ltpf.ramiismail.com) 💠�� - A blog/newsletter by Rami Ismail with advice on business, marketing, skill development, and various topics needed to run an indie studio. Past newsletters are archived here. I personally recommend "Budget Viability" as a starting point.
 
 
 [How to Market a Game](https://howtomarketagame.com) 💠🟪 - A blog and a collection of resources by Chris Zukowski with advice on marketing and sales. I personally recommend his GDC talks "Empathizing with Steam: How People Shop for Your Game" and "What to Write So People Buy: Selling Your Game Without Feeling Sleazy" as starting points.
@@ -901,7 +901,7 @@ Royalty free music! Don't forget to check the license.
 [Obsidian](https://obsidian.md/) 🟪 - Important productivity fuel (and what I used to hoard this list :P)
 
 
-[A series of game jam post-mortems](https://www.youtube.com/watch?v=fW88C_w3EzE&list=PLrvwNabyAw30pIbitXIHLdSTm4t9I3iT1) 💠🟪 - These are more valuable than they let on, because they show you the whole game-making process, start to finish. Not only will this help you avoid common pitfalls, it will help you know how to follow that process for your own game. Watch a couple before entering your first jam or starting your first project!
+[A series of game jam post-mortems](https://www.youtube.com/watch?v=fW88C_w3EzE&list=PLrvwNabyAw30pIbitXIHLdSTm4t9I3iT1) 💠���� - These are more valuable than they let on, because they show you the whole game-making process, start to finish. Not only will this help you avoid common pitfalls, it will help you know how to follow that process for your own game. Watch a couple before entering your first jam or starting your first project!
 
 
 [The California Problem](https://ellaguro.blogspot.com/2023/02/the-california-problem.html) 🟪 - One of my favorite articles ever written. A philosophical analysis of the culture of games as an industry and the importance of gamedev as a hobby, not just a business. 
