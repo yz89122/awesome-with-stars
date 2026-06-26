@@ -270,6 +270,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [Angular Talents](https://www.angulartalents.com/) - Independent developers can highlight their availability for upcoming projects, eliminating the need to endlessly scroll through job boards.
 * [Map of GitHub](https://anvaka.github.io/map-of-github/#9.14/-21.9624/9.8143) - Explore the NgSphere to discover repositories with overlapping stargazers.
 * [Good First Issues](https://www.dolmen.tools/en/angular/good-first-issues/explorer) - Find beginner-friendly issues and start contributing to Angular open-source projects.
+* [Angular Popularity Analysis ![GitHub Repo Stars](https://img.shields.io/github/stars/ProjectBay/angular-popularity-analysis) ![GitHub last commit](https://img.shields.io/github/last-commit/ProjectBay/angular-popularity-analysis)](https://github.com/ProjectBay/angular-popularity-analysis) - An AI-era normalized statistical analysis of Angular’s popularity.
 
 ### Newsletters
 
@@ -635,6 +636,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [gitingest](https://gitingest.com/) - Turn any Git repository into a simple text digest of its codebase. This is useful for feeding a codebase into any LLM.
 * [glama](https://glama.ai/mcp/servers?query=angular) - Directory of MCP servers filtered for Angular-related entries.
 * [hashbrown ![GitHub Repo Stars](https://img.shields.io/github/stars/liveloveapp/hashbrown) ![GitHub last commit](https://img.shields.io/github/last-commit/liveloveapp/hashbrown)](https://github.com/liveloveapp/hashbrown) - The [Hashbrown](https://hashbrown.dev/) framework is for building joyful, AI-powered user experiences.
+* [mushi-mushi ![GitHub Repo Stars](https://img.shields.io/github/stars/kensaurus/mushi-mushi) ![GitHub last commit](https://img.shields.io/github/last-commit/kensaurus/mushi-mushi)](https://github.com/kensaurus/mushi-mushi) - Fix your AI-built app instantly with plain-English diagnoses and ready-to-use fixes directly in your editor.
 * [ngAutoPilot ![GitHub Repo Stars](https://img.shields.io/github/stars/janpereira-dev/ngAutoPilot) ![GitHub last commit](https://img.shields.io/github/last-commit/janpereira-dev/ngAutoPilot)](https://github.com/janpereira-dev/ngAutoPilot) - Agent-agnostic catalog of micro-skills for Angular, TypeScript, JavaScript, RxJS, testing, code quality, architecture, versioning, and quality governance workflows.
 * [ng-mocks-testing-skill ![GitHub Repo Stars](https://img.shields.io/github/stars/mintarasss/ng-mocks-testing-skill) ![GitHub last commit](https://img.shields.io/github/last-commit/mintarasss/ng-mocks-testing-skill)](https://github.com/mintarasss/ng-mocks-testing-skill) - A collection of Claude Code skills for writing high-quality Angular unit tests with Jest and `ng-mocks`.
 * [ngx-agents-md ![GitHub Repo Stars](https://img.shields.io/github/stars/pr4san/ngx-agents-md) ![GitHub last commit](https://img.shields.io/github/last-commit/pr4san/ngx-agents-md)](https://github.com/pr4san/ngx-agents-md) - Add Angular documentation to your project for AI coding agents (Claude Code, Cursor, etc).
@@ -1361,6 +1363,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [gp-grid ![GitHub Repo Stars](https://img.shields.io/github/stars/GioPat/gp-grid) ![GitHub last commit](https://img.shields.io/github/last-commit/GioPat/gp-grid)](https://github.com/GioPat/gp-grid) - Data grid library built with a modular architecture that cleanly separates core logic from framework integrations to efficiently handle massive datasets with millions of rows.
 * [ngx-powerful-tree ![GitHub Repo Stars](https://img.shields.io/github/stars/raknjarasoa/ngx-powerful-tree) ![GitHub last commit](https://img.shields.io/github/last-commit/raknjarasoa/ngx-powerful-tree)](https://github.com/raknjarasoa/ngx-powerful-tree) - A virtualized tree with HTML5 drag‑and‑drop, fast search, locked subtrees, and file‑picker modes, built on `@angular/cdk/scrolling` for smooth performance at 100k+ rows.
 * [agrid ![GitHub Repo Stars](https://img.shields.io/github/stars/thkl/agrid) ![GitHub last commit](https://img.shields.io/github/last-commit/thkl/agrid)](https://github.com/thkl/agrid) - Angular data grid with spreadsheet-like editing, virtual scrolling, filtering, sorting, grouping, clipboard workflows, row operations, pagination, and custom cell renderers.
+* [ngx-datatables-net ![GitHub Repo Stars](https://img.shields.io/github/stars/ascentspark/ngx-datatables-net) ![GitHub last commit](https://img.shields.io/github/last-commit/ascentspark/ngx-datatables-net)](https://github.com/ascentspark/ngx-datatables-net) - Angular wrapper for `DataTables.net` supporting Angular 20+.
 
 ### Dates
 
@@ -2103,6 +2106,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-core-components ![GitHub Repo Stars](https://img.shields.io/github/stars/prajaktadube/ngx-core-components) ![GitHub last commit](https://img.shields.io/github/last-commit/prajaktadube/ngx-core-components)](https://github.com/prajaktadube/ngx-core-components) - Angular 19+ component library — production-ready UI components built with signals, OnPush change detection, and zero runtime dependencies.
 * [ngx-cupertino ![GitHub Repo Stars](https://img.shields.io/github/stars/gacc94/ngx-cupertino) ![GitHub last commit](https://img.shields.io/github/last-commit/gacc94/ngx-cupertino)](https://github.com/gacc94/ngx-cupertino) - Angular components implementing Apple's iOS 26 / macOS Tahoe 26 design system.
 * [kanso-protocol ![GitHub Repo Stars](https://img.shields.io/github/stars/GregNBlack/kanso-protocol) ![GitHub last commit](https://img.shields.io/github/last-commit/GregNBlack/kanso-protocol)](https://github.com/GregNBlack/kanso-protocol) - Open‑source, cross‑framework design system with W3C DTCG tokens, Web Components, and an AI‑ready MCP server — built around kanso (簡素), the discipline of removing the unnecessary.
+* [frame-ui ![GitHub Repo Stars](https://img.shields.io/github/stars/Gamekohl/frame-ui) ![GitHub last commit](https://img.shields.io/github/last-commit/Gamekohl/frame-ui)](https://github.com/Gamekohl/frame-ui) - A customizable Angular component library built around modern primitives.
 
 ### UI Libraries built on Bootstrap
 
@@ -2193,7 +2197,6 @@ for the creation of web applications developed with Angular.
 * [@luminacn/ui ![GitHub Repo Stars](https://img.shields.io/github/stars/luminacn/ui) ![GitHub last commit](https://img.shields.io/github/last-commit/luminacn/ui)](https://github.com/luminacn/ui) - Signal-first, headless UI primitives for Angular.
 * [Bloc UI ![GitHub Repo Stars](https://img.shields.io/github/stars/debasish1996/BLOC-UI) ![GitHub last commit](https://img.shields.io/github/last-commit/debasish1996/BLOC-UI)](https://github.com/debasish1996/BLOC-UI) - Lightweight, accessible Angular components with zero design opinions. Use your own styles or the optional theme package.
 * [angular-primitives ![GitHub Repo Stars](https://img.shields.io/github/stars/snatuva/angular-primitives) ![GitHub last commit](https://img.shields.io/github/last-commit/snatuva/angular-primitives)](https://github.com/snatuva/angular-primitives) - Signal-first Angular primitives for building scalable, accessible UI systems.
-* [frame-ui ![GitHub Repo Stars](https://img.shields.io/github/stars/Gamekohl/frame-ui) ![GitHub last commit](https://img.shields.io/github/last-commit/Gamekohl/frame-ui)](https://github.com/Gamekohl/frame-ui) - A customizable Angular component library built around modern primitives.
 
 ### Viewers
 

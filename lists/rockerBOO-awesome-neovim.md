@@ -1077,7 +1077,7 @@ then it is not supported:
 
 ## Animation
 
-- [LuxVim/nvim-luxmotion ![GitHub Repo Stars](https://img.shields.io/github/stars/LuxVim/nvim-luxmotion) ![GitHub last commit](https://img.shields.io/github/last-commit/LuxVim/nvim-luxmotion)](https://github.com/LuxVim/nvim-luxmotion) - Smooth, high‑performance motion and scrolling animations — 60fps fluid cursor moves, word jumps, and viewport scrolling, all in one.
+- [LuxVim/nvim-luxmotion ![GitHub Repo Stars](https://img.shields.io/github/stars/LuxVim/nvim-luxmotion) ![GitHub last commit](https://img.shields.io/github/last-commit/LuxVim/nvim-luxmotion)](https://github.com/LuxVim/nvim-luxmotion) - Smooth, high‑performance motion and scrolling animations ��� 60fps fluid cursor moves, word jumps, and viewport scrolling, all in one.
 - [sphamba/smear-cursor.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/sphamba/smear-cursor.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/sphamba/smear-cursor.nvim)](https://github.com/sphamba/smear-cursor.nvim) - Animate the cursor with a smear effect in all terminals. Inspired by Neovide's animated cursor.
 - [nvim-mini/mini.nvim#mini.animate ![GitHub Repo Stars](https://img.shields.io/github/stars/nvim-mini/mini.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/nvim-mini/mini.nvim)](https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-animate.md) - Module of `mini.nvim` to add out of the box animations for common built-in actions (cursor movement, scroll, resize, window open/close).
 - [rachartier/tiny-glimmer.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/rachartier/tiny-glimmer.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/rachartier/tiny-glimmer.nvim)](https://github.com/rachartier/tiny-glimmer.nvim/) - Adds subtle animations to various operations.
@@ -1544,6 +1544,7 @@ then it is not supported:
 - [malbertzard/inline-fold.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/malbertzard/inline-fold.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/malbertzard/inline-fold.nvim)](https://github.com/malbertzard/inline-fold.nvim) - Hide certain elements inline like long CSS classes or `href` content.
 - [netmute/foldchanged.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/netmute/foldchanged.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/netmute/foldchanged.nvim)](https://github.com/netmute/foldchanged.nvim) - Adds a `FoldChanged` User event.
 - [netmute/foldsigns.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/netmute/foldsigns.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/netmute/foldsigns.nvim)](https://github.com/netmute/foldsigns.nvim) - Adds fold markers to sign column to make folds more visible while editing.
+- [fold-logging.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/markosnarinian/fold-logging.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/markosnarinian/fold-logging.nvim)](https://github.com/markosnarinian/fold-logging.nvim) - Fold logging/debug prints without changing normal folds.
 <!--lint disable double-link -->
 [**⬆ back to top**](#contents)
 <!--lint enable double-link -->

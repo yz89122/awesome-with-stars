@@ -569,8 +569,10 @@ These projects are exceptionally high quality, have a proven trackrecord, and ar
 - [MyIP ![GitHub Repo Stars](https://img.shields.io/github/stars/jason5ng32/MyIP) ![GitHub last commit](https://img.shields.io/github/last-commit/jason5ng32/MyIP)](https://github.com/jason5ng32/MyIP) - All in one IP Toolbox. Easy to check what's your IPs, IP geolocation, check for DNS leaks, examine WebRTC connections, speed test, ping test, MTR test, check website availability and more.
 - [fylepad ![GitHub Repo Stars](https://img.shields.io/github/stars/imrofayel/fylepad) ![GitHub last commit](https://img.shields.io/github/last-commit/imrofayel/fylepad)](https://github.com/imrofayel/fylepad) - a notepad with powerful rich-text editing, built with Vue.
 - [fresfolio ![GitHub Repo Stars](https://img.shields.io/github/stars/dkioroglou/fresfolio) ![GitHub last commit](https://img.shields.io/github/last-commit/dkioroglou/fresfolio)](https://github.com/dkioroglou/fresfolio) - a browser-based note-taking app for managing personal and research projects. The app uses Flask as backend and Vue.js as frontend leveraging the Quasar framework for UI components and responsive design.
+- [FavBox ![GitHub Repo Stars](https://img.shields.io/github/stars/dd3v/favbox) ![GitHub last commit](https://img.shields.io/github/last-commit/dd3v/favbox)](https://github.com/dd3v/favbox) - Local-first browser extension for smarter bookmark management with tags, search, duplicate and broken link detection. Built with Vue 3, Vite and IndexedDB.
 
 - [JARVIS ![GitHub Repo Stars](https://img.shields.io/github/stars/hyhmrright/JARVIS) ![GitHub last commit](https://img.shields.io/github/last-commit/hyhmrright/JARVIS)](https://github.com/hyhmrright/JARVIS) - Self-hosted AI assistant platform with Vue 3 frontend, Pinia state management, TypeScript, and real-time SSE streaming chat. FastAPI backend with LangGraph ReAct agents, RAG knowledge base, multi-LLM support (DeepSeek/OpenAI/Anthropic), and plugin SDK.
+- [Simple IoT ![GitHub Repo Stars](https://img.shields.io/github/stars/dingdaoyi/simple-iot) ![GitHub last commit](https://img.shields.io/github/last-commit/dingdaoyi/simple-iot)](https://github.com/dingdaoyi/simple-iot) - Single-binary self-hosted IoT platform with a Vue 3 + Element Plus admin SPA. Visual drag-and-drop rule engine, real-time device dashboard with ECharts, hot-loaded protocol scripts, MQTT broker built-in. Spring Boot 4 backend; lightweight alternative to ThingsBoard CE.
 ### Commercial Products
 
 - [Wijmo](https://wijmo.com/products/wijmo-5/) - A collection of UI controls with VueJS support.
@@ -864,7 +866,7 @@ _Set of components for mobile_
 #### Component Collections
 
 _Set of components without layout system_
-
+- [Naive UI](https://www.naiveui.com/) - A Vue 3 Component Library. Fairly Complete, Theme Customizable, Uses TypeScript, Fast.
 - [keen-ui ![GitHub Repo Stars](https://img.shields.io/github/stars/JosephusPaye/Keen-UI) ![GitHub last commit](https://img.shields.io/github/last-commit/JosephusPaye/Keen-UI)](https://github.com/JosephusPaye/Keen-UI) - A lightweight collection of essential UI components written with Vue and inspired by Material Design.
 - [uiv ![GitHub Repo Stars](https://img.shields.io/github/stars/uiv-lib/uiv) ![GitHub last commit](https://img.shields.io/github/last-commit/uiv-lib/uiv)](https://github.com/uiv-lib/uiv) - Bootstrap3 components implemented by Vue2.
 - [Essential JS 2 for Vue](https://www.syncfusion.com/products/vue) - Full-featured 45+ Vue.js components which includes Data Grid, Chart, Scheduler and Diagram components etc.
@@ -963,6 +965,7 @@ _Tables / data grids_
 - [@witqq/spreadsheet ![GitHub Repo Stars](https://img.shields.io/github/stars/witqq/spreadsheet) ![GitHub last commit](https://img.shields.io/github/last-commit/witqq/spreadsheet)](https://github.com/witqq/spreadsheet) - A canvas-based spreadsheet engine with zero dependencies, rendering 100K+ rows at 60fps with sorting, filtering, formulas, and collaboration.
 - [Jordium Gantt Vue3 ![GitHub Repo Stars](https://img.shields.io/github/stars/nelson820125/jordium-gantt-vue3) ![GitHub last commit](https://img.shields.io/github/last-commit/nelson820125/jordium-gantt-vue3)](https://github.com/nelson820125/jordium-gantt-vue3) - Vue3 Gantt chart component with Resource View, task dependencies, and project scheduling capabilities.
 - [gp-grid](https://www.gp-grid.io) - TypeScript Vue3 data grid featuring slot-based virtual scrolling, no features paywalls, and zero runtime dependencies. 
+- [TinyPivot](https://tiny-pivot.com) - Lightweight Vue 3 data grid with pivot tables, charts, CSV/Excel export, and an optional AI data analyst.
 
 #### Notification
 
@@ -981,6 +984,7 @@ _Loaders / spinners / progress bars — Let the user know that something is load
 - [vue-ellipse-progress ![GitHub Repo Stars](https://img.shields.io/github/stars/setaman/vue-ellipse-progress) ![GitHub last commit](https://img.shields.io/github/last-commit/setaman/vue-ellipse-progress)](https://github.com/setaman/vue-ellipse-progress) - A flexible Vue.js component to create beautiful animated circular progress bars and loaders
 - [vue-default-page ![GitHub Repo Stars](https://img.shields.io/github/stars/zero-one-code/vue-default-page) ![GitHub last commit](https://img.shields.io/github/last-commit/zero-one-code/vue-default-page)](https://github.com/zero-one-code/vue-default-page) - A Vue 3.0 plugin with built-in v-loading, v-skeleton, v-error and v-empty custom directives.
 - [vue-skeleton-content-loader ![GitHub Repo Stars](https://img.shields.io/github/stars/willmendesneto/vue-skeleton-content-loader) ![GitHub last commit](https://img.shields.io/github/last-commit/willmendesneto/vue-skeleton-content-loader)](https://github.com/willmendesneto/vue-skeleton-content-loader) - Lightweight and accessible library to make beautiful, animated loading skeletons that automatically adapt to your Vue app
+- [phantom-ui ![GitHub Repo Stars](https://img.shields.io/github/stars/Aejkatappaja/phantom-ui) ![GitHub last commit](https://img.shields.io/github/last-commit/Aejkatappaja/phantom-ui)](https://github.com/Aejkatappaja/phantom-ui) - Structure-aware skeleton loader web component that measures your real DOM, supports Vue, React, Svelte and plain HTML.
 
 ##### Progress Bar
 
@@ -1339,6 +1343,7 @@ _Handling of user events (scroll, click, key strike, ...)_
 - [regle ![GitHub Repo Stars](https://img.shields.io/github/stars/victorgarciaesgi/regle) ![GitHub last commit](https://img.shields.io/github/last-commit/victorgarciaesgi/regle)](https://github.com/victorgarciaesgi/regle) - ✅ Headless form validation library for Vue.js.
 - [validation-composable ![GitHub Repo Stars](https://img.shields.io/github/stars/nexxtmove/validation-composable) ![GitHub last commit](https://img.shields.io/github/last-commit/nexxtmove/validation-composable)](https://github.com/nexxtmove/validation-composable) - ✅ Lightweight validation for Vue — just 40 lines of code.
 - [vue-uform ![GitHub Repo Stars](https://img.shields.io/github/stars/tu6ge/vue-uform) ![GitHub last commit](https://img.shields.io/github/last-commit/tu6ge/vue-uform)](https://github.com/tu6ge/vue-uform) - an component-first, unstyled, flexible form validation library for Vue 3
+- [validup ![GitHub Repo Stars](https://img.shields.io/github/stars/tada5hi/validup) ![GitHub last commit](https://img.shields.io/github/last-commit/tada5hi/validup)](https://github.com/tada5hi/validup) - Composable, path-based validation with a Vue 3 composable (`@validup/vue`) for reactive forms, groups, and structured issues.
 
 #### Resize
 
@@ -1390,6 +1395,7 @@ _Detect when components enter viewport_
 - [@morev/vue-transitions ![GitHub Repo Stars](https://img.shields.io/github/stars/morevm/vue-transitions) ![GitHub last commit](https://img.shields.io/github/last-commit/morevm/vue-transitions)](https://github.com/morevm/vue-transitions) Transitions library for Vue 2 and 3 with no CSS needed
 - [@formkit/auto-animate ![GitHub Repo Stars](https://img.shields.io/github/stars/formkit/auto-animate) ![GitHub last commit](https://img.shields.io/github/last-commit/formkit/auto-animate)](https://github.com/formkit/auto-animate) Add motion to your apps with a single line of code
 - [blottie ![GitHub Repo Stars](https://img.shields.io/github/stars/Applelo/blottie) ![GitHub last commit](https://img.shields.io/github/last-commit/Applelo/blottie)](https://github.com/Applelo/blottie) Lottie component for Vue 3
+- [@lottiefiles/dotlottie-vue ![GitHub Repo Stars](https://img.shields.io/github/stars/LottieFiles/dotlottie-web) ![GitHub last commit](https://img.shields.io/github/last-commit/LottieFiles/dotlottie-web)](https://github.com/LottieFiles/dotlottie-web) Official LottieFiles Vue component supporting the .lottie format (75% smaller files); convert and preview with [IconKing](https://iconking.net)
 - [vue-countup-v3 ![GitHub Repo Stars](https://img.shields.io/github/stars/jizai1125/vue-countup-v3) ![GitHub last commit](https://img.shields.io/github/last-commit/jizai1125/vue-countup-v3)](https://github.com/jizai1125/vue-countup-v3) A Vue 3 Component for animation counting.
 - [timered-counter ![GitHub Repo Stars](https://img.shields.io/github/stars/siaikin/timered-counter) ![GitHub last commit](https://img.shields.io/github/last-commit/siaikin/timered-counter)](https://github.com/siaikin/timered-counter) A counter web component with smooth animations
 - [ssgoi ![GitHub Repo Stars](https://img.shields.io/github/stars/meursyphus/ssgoi) ![GitHub last commit](https://img.shields.io/github/last-commit/meursyphus/ssgoi)](https://github.com/meursyphus/ssgoi) - Native app-like page transitions with spring physics, 60fps on mobile, SSR-ready, and all modern browser support
@@ -1567,6 +1573,7 @@ _Integrate with services or other frameworks_
 - [vue-tweet ![GitHub Repo Stars](https://img.shields.io/github/stars/DannyFeliz/vue-tweet) ![GitHub last commit](https://img.shields.io/github/last-commit/DannyFeliz/vue-tweet)](https://github.com/DannyFeliz/vue-tweet) - Vue 3 component that let you embed tweets in your App by only giving the tweet id
 - [vue-tg ![GitHub Repo Stars](https://img.shields.io/github/stars/deptyped/vue-telegram) ![GitHub last commit](https://img.shields.io/github/last-commit/deptyped/vue-telegram)](https://github.com/deptyped/vue-telegram) - Telegram Web Apps integration for Vue 3.
 - [@rollgate/sdk-vue ![GitHub Repo Stars](https://img.shields.io/github/stars/rollgate/sdks) ![GitHub last commit](https://img.shields.io/github/last-commit/rollgate/sdks)](https://github.com/rollgate/sdks/tree/main/packages/sdk-vue) - Vue 3 feature flag SDK with composables, gradual rollouts, A/B testing and real-time updates. Backend: [Rollgate](https://rollgate.io)
+- [@agentskit/vue ![GitHub Repo Stars](https://img.shields.io/github/stars/AgentsKit-io/agentskit) ![GitHub last commit](https://img.shields.io/github/last-commit/AgentsKit-io/agentskit)](https://github.com/AgentsKit-io/agentskit) - Vue 3 composable and headless chat components for building AI agents, with streaming, tools, memory and RAG.
 
 #### Vue CLI Plugins
 
@@ -1662,6 +1669,7 @@ _Render Vue application to HTML on the server and to the DOM in the browser_
 - [Vutron ![GitHub Repo Stars](https://img.shields.io/github/stars/jooy2/vutron) ![GitHub last commit](https://img.shields.io/github/last-commit/jooy2/vutron)](https://github.com/jooy2/vutron) - Quick start templates for Vite + Electron + Vue 3 + Vuetify + TypeScript.
 - [electron-vite-vue ![GitHub Repo Stars](https://img.shields.io/github/stars/electron-vite/electron-vite-vue) ![GitHub last commit](https://img.shields.io/github/last-commit/electron-vite/electron-vite-vue)](https://github.com/electron-vite/electron-vite-vue) - Really simple Electron + Vite + Vue boilerplate.
 - [MōBrowser](https://teamdev.com/mobrowser) - A framework for building desktop apps with web technologies. Templates and plumbing for Vite + Vue + Quasar are included.
+- [sketch-to-vue ![GitHub Repo Stars](https://img.shields.io/github/stars/chenboxun87/sketch-to-vue) ![GitHub last commit](https://img.shields.io/github/last-commit/chenboxun87/sketch-to-vue)](https://github.com/chenboxun87/sketch-to-vue) - AI Skill for Claude Code & Cursor that converts Sketch MeaXure / MasterGo design exports into pixel-perfect Vue 2/3 components. Specialized for dashboard/cockpit/big-screen pages: deterministic asset resolution, ECharts auto-detection, Scene Graph analysis, and full consumption audit.
 
 ### Prerendering
 
