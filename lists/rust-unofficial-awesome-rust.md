@@ -1978,6 +1978,7 @@ See also [Are we game yet?](https://arewegameyet.rs)
 
 ### Markup language
 
+* [bruits/satteri ![GitHub Repo Stars](https://img.shields.io/github/stars/bruits/satteri) ![GitHub last commit](https://img.shields.io/github/last-commit/bruits/satteri)](https://github.com/bruits/satteri) [[satteri](https://crates.io/crates/satteri)] - High-performance Markdown and MDX processing. Parses and compiles in Rust, runs plugins in JavaScript. Includes CommonMark parser with MDX extensions, MDAST/HAST tree operations, and NAPI bindings for JavaScript interop.
 * CommonMark
   * [pulldown-cmark/pulldown-cmark ![GitHub Repo Stars](https://img.shields.io/github/stars/pulldown-cmark/pulldown-cmark) ![GitHub last commit](https://img.shields.io/github/last-commit/pulldown-cmark/pulldown-cmark)](https://github.com/pulldown-cmark/pulldown-cmark) - [CommonMark](https://commonmark.org/) parser
 * [insomnimus/tidier ![GitHub Repo Stars](https://img.shields.io/github/stars/insomnimus/tidier) ![GitHub last commit](https://img.shields.io/github/last-commit/insomnimus/tidier)](https://github.com/insomnimus/tidier) [[tidier](https://crates.io/crates/tidier)] - A library to format HTML, XHTML and XML documents. [![build badge ![GitHub Repo Stars](https://img.shields.io/github/stars/insomnimus/tidier) ![GitHub last commit](https://img.shields.io/github/last-commit/insomnimus/tidier)](https://github.com/insomnimus/tidier/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/insomnimus/tidier/actions)
