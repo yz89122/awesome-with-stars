@@ -167,6 +167,7 @@ This list is a collection of the best Deno modules and resources.
 - [colors ![GitHub Repo Stars](https://img.shields.io/github/stars/retraigo/colors) ![GitHub last commit](https://img.shields.io/github/last-commit/retraigo/colors)](https://github.com/retraigo/colors) - Color conversions and operations in TypeScript.
 - [computed_types ![GitHub Repo Stars](https://img.shields.io/github/stars/neuledge/computed-types) ![GitHub last commit](https://img.shields.io/github/last-commit/neuledge/computed-types)](https://github.com/neuledge/computed-types) - Joi like validators for Typescript and Deno.
 - [croner ![GitHub Repo Stars](https://img.shields.io/github/stars/Hexagon/croner) ![GitHub last commit](https://img.shields.io/github/last-commit/Hexagon/croner)](https://github.com/Hexagon/croner) - Cron library with advanced scheduling features, well-documented API, and zero dependencies.
+- [csv-pipe ![GitHub Repo Stars](https://img.shields.io/github/stars/martsinlabs/csv-pipe) ![GitHub last commit](https://img.shields.io/github/last-commit/martsinlabs/csv-pipe)](https://github.com/martsinlabs/csv-pipe) - Typed, zero-dependency CSV parser and encoder for every runtime.
 - [deno-config ![GitHub Repo Stars](https://img.shields.io/github/stars/yooneskh/deno-unified-config) ![GitHub last commit](https://img.shields.io/github/last-commit/yooneskh/deno-unified-config)](https://github.com/yooneskh/deno-unified-config) - Utility to streamline deno app configuration management through cli, .env and json files
 - [deno_kv_fs ![GitHub Repo Stars](https://img.shields.io/github/stars/hviana/deno_kv_fs) ![GitHub last commit](https://img.shields.io/github/last-commit/hviana/deno_kv_fs)](https://github.com/hviana/deno_kv_fs) Deno KV file system, compatible with Deno deploy. Makes use of Web Streams API.
 - [denon ![GitHub Repo Stars](https://img.shields.io/github/stars/denosaurs/denon) ![GitHub last commit](https://img.shields.io/github/last-commit/denosaurs/denon)](https://github.com/denosaurs/denon/blob/master/mod.ts) - A file watcher with a for-await generator.
@@ -243,7 +244,6 @@ This list is a collection of the best Deno modules and resources.
 - [GitHub Profile Trophy ![GitHub Repo Stars](https://img.shields.io/github/stars/ryo-ma/github-profile-trophy) ![GitHub last commit](https://img.shields.io/github/last-commit/ryo-ma/github-profile-trophy)](https://github.com/ryo-ma/github-profile-trophy) - 🏆 Add dynamically generated GitHub Trophy on your readme
 - [ShopSavvy Deno Deploy ![GitHub Repo Stars](https://img.shields.io/github/stars/shopsavvy/deno-deploy-shopsavvy) ![GitHub last commit](https://img.shields.io/github/last-commit/shopsavvy/deno-deploy-shopsavvy)](https://github.com/shopsavvy/deno-deploy-shopsavvy) - Deno Deploy router with Hono for product search, real-time pricing, and price history.
 - [The Official Showcase](https://deno.land/showcase) - The official showcase of Deno.
-- [UsingDeno](https://usingdeno.com) - Curated list of Web Applications & Projects using Deno 🦕.
 
 ## Tools
 
@@ -338,7 +338,7 @@ This list is a collection of the best Deno modules and resources.
 ### Chinese
 
 - [Deno 并不是下一代 Node.js](https://juejin.im/post/5b14a390e51d4506c1300bbc)
-- [玩 Deno 遇到问题的解决方案](https://juejin.im/post/5b1245b3f265da6e4c6cf249)
+- [玩 Deno 遇到问题的��决方案](https://juejin.im/post/5b1245b3f265da6e4c6cf249)
 - [让我们一起来学习别人学不动的 Deno](https://segmentfault.com/a/1190000015151287)
 - [Design Mistakes in Node zh-CN](https://zhuanlan.zhihu.com/p/37637923)
 - [Node之父ry：Node中的设计错误](https://mp.weixin.qq.com/s/7XAiYw18c8YZc-fXk0-wrw)
