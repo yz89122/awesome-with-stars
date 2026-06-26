@@ -1168,6 +1168,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [nx-ng-starter ![GitHub Repo Stars](https://img.shields.io/github/stars/rfprod/nx-ng-starter) ![GitHub last commit](https://img.shields.io/github/last-commit/rfprod/nx-ng-starter)](https://github.com/rfprod/nx-ng-starter) - Monorepo starter with workflow automation: Nx, Angular, Angular Elements, Electron, Node, Nest, Firebase.
 * [elements-template ![GitHub Repo Stars](https://img.shields.io/github/stars/giacomo/elements-template) ![GitHub last commit](https://img.shields.io/github/last-commit/giacomo/elements-template)](https://github.com/giacomo/elements-template) - A modern, opinionated starter kit for building custom Web Components powered by Angular 21, Tailwind CSS v4, and Vitest.
 * [realworld-angular ![GitHub Repo Stars](https://img.shields.io/github/stars/realworld-angular/realworld-angular) ![GitHub last commit](https://img.shields.io/github/last-commit/realworld-angular/realworld-angular)](https://github.com/realworld-angular/realworld-angular) - RealWorld Angular example apps showcasing Angular libraries in action.
+* [spartan-admin-dashboard ![GitHub Repo Stars](https://img.shields.io/github/stars/Oussemasahbeni/spartan-admin-dashboard) ![GitHub last commit](https://img.shields.io/github/last-commit/Oussemasahbeni/spartan-admin-dashboard)](https://github.com/Oussemasahbeni/spartan-admin-dashboard) - A production-ready, Angular admin dashboard template built with Spartan UI components and Tailwind CSS.
 
 ### Paid Templates
 
@@ -1673,6 +1674,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-image-fallback ![GitHub Repo Stars](https://img.shields.io/github/stars/joyblanks/ngx-image-fallback) ![GitHub last commit](https://img.shields.io/github/last-commit/joyblanks/ngx-image-fallback)](https://github.com/joyblanks/ngx-image-fallback) - Image Fallback Directive for Angular.
 * [ng-image-optimizer ![GitHub Repo Stars](https://img.shields.io/github/stars/Hasan-Kakeh/ng-image-optimizer) ![GitHub last commit](https://img.shields.io/github/last-commit/Hasan-Kakeh/ng-image-optimizer)](https://github.com/Hasan-Kakeh/ng-image-optimizer) - A high‑performance Angular SSR image optimizer that uses [Sharp](https://sharp.pixelplumbing.com/) to deliver a Next.js‑style experience.
 * [ngx-ratio-image ![GitHub Repo Stars](https://img.shields.io/github/stars/gerd-siebert/ngx-ratio-image) ![GitHub last commit](https://img.shields.io/github/last-commit/gerd-siebert/ngx-ratio-image)](https://github.com/gerd-siebert/ngx-ratio-image) - Angular library for displaying an image with a variable aspect ratio inside a container with a fixed aspect ratio.
+* [ngx-image-forge ![GitHub Repo Stars](https://img.shields.io/github/stars/HoplaGeiss/ngx-image-forge) ![GitHub last commit](https://img.shields.io/github/last-commit/HoplaGeiss/ngx-image-forge)](https://github.com/HoplaGeiss/ngx-image-forge) - An Angular image editing library — crop, rotate, flip, and export images with zero dependencies. Signals-native.
 
 ### Keyboard Mouse
 
