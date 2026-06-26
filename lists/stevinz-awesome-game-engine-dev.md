@@ -1003,7 +1003,7 @@ _Language specific game engine development libraries / frameworks / code._
 ### Pascal
 - 📚 [Awesome Pascal ![GitHub Repo Stars](https://img.shields.io/github/stars/Fr0sT-Brutal/awesome-pascal) ![GitHub last commit](https://img.shields.io/github/last-commit/Fr0sT-Brutal/awesome-pascal)](https://github.com/Fr0sT-Brutal/awesome-pascal) - Curated list of Delphi / Pascal resources.
 - 📚 [Delphi](https://en.wikipedia.org/wiki/Delphi_(software)) - Pascal dialect and popular IDE with cross-platform support.
-- ���� [Free Pascal](https://www.freepascal.org/) - Mature, open source Pascal compiler.
+- 🌎 [Free Pascal](https://www.freepascal.org/) - Mature, open source Pascal compiler.
 - 📚 [Pascal Tutorials](https://www.tutorialspoint.com/pascal/index.htm) - Simple and easy Pascal tutorials.
 - Pascal: Game Engine w/Editor
     - 🎉 [Castle ![GitHub Repo Stars](https://img.shields.io/github/stars/castle-engine/castle-engine) ![GitHub last commit](https://img.shields.io/github/last-commit/castle-engine/castle-engine)](https://github.com/castle-engine/castle-engine) - Cross-platform 2D/3D game engine and editor. [[Website](https://castle-engine.io/)]
@@ -1373,7 +1373,7 @@ _Software to help with game engine / video game development._
 - 💰 [3DS Max](https://www.autodesk.com/products/3ds-max/) - Classic software for 3D modeling and rendering.
 - 🆓 [ArmorPaint](https://armorpaint.org) - Physically-based texture painting, drop in your 3D models and paint. [[Source ![GitHub Repo Stars](https://img.shields.io/github/stars/armory3d/armortools) ![GitHub last commit](https://img.shields.io/github/last-commit/armory3d/armortools)](https://github.com/armory3d/armortools)]
 - 💰 [Asset Forge](https://assetforge.io) - Create 3D models and 2D sprites using building blocks.
-- 🆓 [Blender](https://www.blender.org) 🔥 - Standard for open source 3D modeling. [[Source ![GitHub Repo Stars](https://img.shields.io/github/stars/blender/blender) ![GitHub last commit](https://img.shields.io/github/last-commit/blender/blender)](https://github.com/blender/blender)]
+- 🆓 [Blender](https://www.blender.org) ���� - Standard for open source 3D modeling. [[Source ![GitHub Repo Stars](https://img.shields.io/github/stars/blender/blender) ![GitHub last commit](https://img.shields.io/github/last-commit/blender/blender)](https://github.com/blender/blender)]
 - 🆓 [Meshroom](https://alicevision.org/#meshroom) - 3D reconstruction, built with the [AliceVision ![GitHub Repo Stars](https://img.shields.io/github/stars/alicevision/AliceVision) ![GitHub last commit](https://img.shields.io/github/last-commit/alicevision/AliceVision)](https://github.com/alicevision/AliceVision) framework. [[Source ![GitHub Repo Stars](https://img.shields.io/github/stars/alicevision/meshroom) ![GitHub last commit](https://img.shields.io/github/last-commit/alicevision/meshroom)](https://github.com/alicevision/meshroom)]
 - 💸 [ZBrush](https://www.maxon.net/en/zbrush) - Simple and easy to use 3D sculpting tool.
 
