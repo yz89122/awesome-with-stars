@@ -733,7 +733,8 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 
 ### GitHub
 
-- [CLI GitHub ![GitHub Repo Stars](https://img.shields.io/github/stars/IonicaBizau/cli-github) ![GitHub last commit](https://img.shields.io/github/last-commit/IonicaBizau/cli-github)](https://github.com/IonicaBizau/cli-github) - Fancy GitHub client.
+- [gh](https://cli.github.com) - Official client (see [extensions ![GitHub Repo Stars](https://img.shields.io/github/stars/kodepandai/awesome-gh-cli-extensions) ![GitHub last commit](https://img.shields.io/github/last-commit/kodepandai/awesome-gh-cli-extensions)](https://github.com/kodepandai/awesome-gh-cli-extensions).)
+- [cli-github ![GitHub Repo Stars](https://img.shields.io/github/stars/IonicaBizau/cli-github) ![GitHub last commit](https://img.shields.io/github/last-commit/IonicaBizau/cli-github)](https://github.com/IonicaBizau/cli-github) - Fancy GitHub client.
 - [hub ![GitHub Repo Stars](https://img.shields.io/github/stars/github/hub) ![GitHub last commit](https://img.shields.io/github/last-commit/github/hub)](https://github.com/github/hub) - Make git easier to use with GitHub.
 - [git-labelmaker ![GitHub Repo Stars](https://img.shields.io/github/stars/himynameisdave/git-labelmaker) ![GitHub last commit](https://img.shields.io/github/last-commit/himynameisdave/git-labelmaker)](https://github.com/himynameisdave/git-labelmaker) - Edit GitHub labels.
 
