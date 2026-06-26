@@ -1,4 +1,4 @@
-![Awesome](https://github.com/TaptuIT/awesome-devsecops/raw/master/media/banner.png)
+![Awesome](https://github.com/TaptuIT/awesome-devsecops/raw/main/media/banner.png)
 
 <p align="center">
   <a href="https://awesome.re">

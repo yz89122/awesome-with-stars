@@ -110,6 +110,7 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 
 **(requires Neovim 0.5)**
 
+- [nvim-pio ![GitHub Repo Stars](https://img.shields.io/github/stars/batoaqaa/nvim-pio) ![GitHub last commit](https://img.shields.io/github/last-commit/batoaqaa/nvim-pio)](https://github.com/batoaqaa/nvim-pio) - Asynchronous, zero-hardcoding bridge between PlatformIO and the `clangd` LSP.
 - [romus204/referencer.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/romus204/referencer.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/romus204/referencer.nvim)](https://github.com/romus204/referencer.nvim) - Lightweight, asynchronous that uses the LSP to show references to functions, methods, types and other.
 - [Dan7h3x/signup.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/Dan7h3x/signup.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/Dan7h3x/signup.nvim)](https://github.com/Dan7h3x/signup.nvim) - a little smart `lsp_signature` helper with awesome features.
 <!--lint disable awesome-spell-check-->
@@ -545,7 +546,7 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 - [juniorsundar/refer.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/juniorsundar/refer.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/juniorsundar/refer.nvim)](https://github.com/juniorsundar/refer.nvim) - A minimalist picker that doesn't get in your way.
 - [dtormoen/neural-open.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/dtormoen/neural-open.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/dtormoen/neural-open.nvim)](https://github.com/dtormoen/neural-open.nvim) - Intelligent `snacks.nvim` picker that teaches a neural network to rank files by what you're most likely to open next.
 <!--lint disable double-link -->
-[**⬆ back to top**](#contents)
+[**�� back to top**](#contents)
 <!--lint enable double-link -->
 
 ## File Explorer
@@ -1513,6 +1514,7 @@ then it is not supported:
 - [tigion/swap.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/tigion/swap.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/tigion/swap.nvim)](https://github.com/tigion/swap.nvim) - Quickly switch a word under the cursor or a pattern in the current line.
 - [XXiaoA/atone.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/XXiaoA/atone.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/XXiaoA/atone.nvim)](https://github.com/XXiaoA/atone.nvim) - Undo tree for visualizing and managing undo history.
 - [nemanjamalesija/smart-paste.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/nemanjamalesija/smart-paste.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/nemanjamalesija/smart-paste.nvim)](https://github.com/nemanjamalesija/smart-paste.nvim) - Automatic indentation of pasted code using a three-tier indent strategy (indentexpr / Tree-sitter / heuristic).
+- [neur1n/hyphen.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/neur1n/hyphen.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/neur1n/hyphen.nvim)](https://github.com/neur1n/hyphen.nvim) - Show TeX-style hyphenation breakpoints in text.
 
 ### Comment
 
