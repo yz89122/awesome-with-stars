@@ -151,7 +151,7 @@ Creative technologists by definition have a breadth of skills as opposed to a sp
 | [**Lusion**](https:&#x2F;&#x2F;lusion.co&#x2F;) | [Bristol] | 3D visual storytelling, interactive web experiences, design, motion, animation, development | 
 | [**m ss ng p eces**](https:&#x2F;&#x2F;mssngpeces.com&#x2F;) | [NYC] [LA] | new wave production and entertainment partner for content and immersive experiences that inspire culture | 
 | [**Magnopus**](https:&#x2F;&#x2F;www.magnopus.com&#x2F;) | [LA] [London] | unite the physical and digital worlds with extraordinary experiences | [🌐](https:&#x2F;&#x2F;www.magnopus.com&#x2F;current-openings)
-| [**Manifold**](https:&#x2F;&#x2F;www.wearemanifold.com&#x2F;) | [San Francisco] [LA] [Portland] | we hire smart people and get out of their way | [🌐](https:&#x2F;&#x2F;www.wearemanifold.com&#x2F;contact&#x2F;)
+| [**Manifold**](https:&#x2F;&#x2F;www.wearemanifold.com&#x2F;) | [San Francisco] [LA] [Portland] | we hire smart people and get out of their way | [���](https:&#x2F;&#x2F;www.wearemanifold.com&#x2F;contact&#x2F;)
 | [**Map**](http:&#x2F;&#x2F;mapprojectoffice.com&#x2F;) | [London] | industrial designers who believe great design can solve problems | [🌐](https:&#x2F;&#x2F;universal.pinpointhq.com&#x2F;)
 | [**Marshmallow Laser Feast**](https:&#x2F;&#x2F;www.marshmallowlaserfeast.com&#x2F;) | [London] | leaving a slug trail of sensory nuggets as we journey through the cosmos | [📧](mailto:jobs@marshmallowlaserfeast.com)
 | [**Master of Shapes**](https:&#x2F;&#x2F;masterofshapes.com&#x2F;) | [LA] | a space surfing, geometry taming, buffalo riding, Future House | 
@@ -185,7 +185,7 @@ Creative technologists by definition have a breadth of skills as opposed to a sp
 | [**Oat Foundry**](https:&#x2F;&#x2F;www.oatfoundry.com&#x2F;) | [Philadelphia] | split-flap displays, electromechanical stuff, think tank, products, experiences | [🌐](https:&#x2F;&#x2F;www.oatfoundry.com&#x2F;careers&#x2F;)
 | [**Observatory**](https:&#x2F;&#x2F;observatory.design&#x2F;) | [London] | creative technology and content studio crafting end-to-end solutions for immersive experiences, brand spatialisation, and experiential content | [🌐](https:&#x2F;&#x2F;www.observatory.design&#x2F;jobs)
 | [**OIO**](https:&#x2F;&#x2F;oio.studio&#x2F;) | [London] | creative company working on future products and tools for a less boring future | 
-| [**Onformative**](https:&#x2F;&#x2F;onformative.com&#x2F;) | [Berlin] | studio for digital art and design, challenge the boundaries between art and design and technology | [🌐](https:&#x2F;&#x2F;onformative.com&#x2F;jobs)
+| [**Onformative**](https:&#x2F;&#x2F;onformative.com&#x2F;) | [Berlin] | studio for digital art and design, challenge the boundaries between art and design and technology | [���](https:&#x2F;&#x2F;onformative.com&#x2F;jobs)
 | [**Optimist**](https:&#x2F;&#x2F;optimistinc.com&#x2F;) | [LA] [NYC] [London] [Amsterdam] [Hamburg] [Berlin] [Prague] | architects of subculture, creative, design, strategy, production, content, brand experience | [🌐](https:&#x2F;&#x2F;optimistinc.com&#x2F;job-openings.html)
 | [**Ouchhh Studio**](https:&#x2F;&#x2F;ouchhh.tv&#x2F;) | [Istanbul] | public art, poetic public experiences, data as a paint, algorithm as a brush | 
 | [**Patten Studio**](https:&#x2F;&#x2F;www.pattenstudio.com&#x2F;) | [NYC] | informed by research at the MIT Media Lab, experiences that connect people | [🌐](https:&#x2F;&#x2F;www.pattenstudio.com&#x2F;about&#x2F;)
