@@ -413,7 +413,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 
 ### Certification Programs
 
-* [Certificates.dev](https://certificates.dev/angular) - Obtain your Certification of Competence as an Angular Developer.
+* [Certificates.dev](https://certificates.dev/angular) - Obtain your Certification of Competence as an Angular Developer. **FREE WEEKEND - July 11-12, 2026**
 * [Angular Academy CA](https://www.angularacademy.ca/angular-certification) - Hands‑on, instructor‑led Angular training in Canada.
 * [Hackerrank](https://www.hackerrank.com/skills-verification/angular_basic) - Angular (Basic) Skills Certification Test.
 * [Koenig](https://www.koenig-solutions.com/angularjs-training-certification-courses) - Various courses cover Angular separately or full-stack.
@@ -872,6 +872,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-compare-object ![GitHub Repo Stars](https://img.shields.io/github/stars/RzoDev/ngx-compare-object) ![GitHub last commit](https://img.shields.io/github/last-commit/RzoDev/ngx-compare-object)](https://github.com/RzoDev/ngx-compare-object) - Angular utility to compare an original object with its modified version.
 * [ngx-json-reader ![GitHub Repo Stars](https://img.shields.io/github/stars/Verbalman/ngx-json-reader) ![GitHub last commit](https://img.shields.io/github/last-commit/Verbalman/ngx-json-reader)](https://github.com/Verbalman/ngx-json-reader) - Angular 17+ JSON reader/editor with multi-URL comparison and diffing.
 * [runtime-config-loader ![GitHub Repo Stars](https://img.shields.io/github/stars/pjlamb12/runtime-config-loader) ![GitHub last commit](https://img.shields.io/github/last-commit/pjlamb12/runtime-config-loader)](https://github.com/pjlamb12/runtime-config-loader) - Angular library that provides an easy way to load a configuration JSON file for runtime configuration.
+* [worker-bridge ![GitHub Repo Stars](https://img.shields.io/github/stars/hardcopycortex461/worker-bridge) ![GitHub last commit](https://img.shields.io/github/last-commit/hardcopycortex461/worker-bridge)](https://github.com/hardcopycortex461/worker-bridge/tree/master) - Bridge Angular and React to web workers with simple reactive methods and no boilerplate.
 
 ### SEO
 
@@ -1621,6 +1622,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-formwork ![GitHub Repo Stars](https://img.shields.io/github/stars/TheNordicOne/ngx-formwork) ![GitHub last commit](https://img.shields.io/github/last-commit/TheNordicOne/ngx-formwork)](https://github.com/TheNordicOne/ngx-formwork) - Framework for Angular Reactive Forms built from JSON or TypeScript configuration.
 * [ngx-formbar ![GitHub Repo Stars](https://img.shields.io/github/stars/TheNordicOne/ngx-formbar) ![GitHub last commit](https://img.shields.io/github/last-commit/TheNordicOne/ngx-formbar)](https://github.com/TheNordicOne/ngx-formbar) - A highly flexible framework for generating declarative reactive forms.
 * [formitiva ![GitHub Repo Stars](https://img.shields.io/github/stars/formitiva/formitiva-monorepo) ![GitHub last commit](https://img.shields.io/github/last-commit/formitiva/formitiva-monorepo)](https://github.com/formitiva/formitiva-monorepo) - A framework-agnostic runtime form engine for building forms from JSON schemas.
+* [filter ![GitHub Repo Stars](https://img.shields.io/github/stars/some-angular-utils/filter) ![GitHub last commit](https://img.shields.io/github/last-commit/some-angular-utils/filter)](https://github.com/some-angular-utils/filter) - Define fields once to get a ready-to-use JSON object and URL query string on every search.
 
 ### Form Validation
 
@@ -1718,6 +1720,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ng-flex-layout ![GitHub Repo Stars](https://img.shields.io/github/stars/alessiobianchini/ng-flex-layout) ![GitHub last commit](https://img.shields.io/github/last-commit/alessiobianchini/ng-flex-layout)](https://github.com/alessiobianchini/ng-flex-layout) - Angular library that provides a responsive, flexible layout API built on Flexbox and mediaQuery observables.
 * [dockview-angular](https://www.npmjs.com/package/dockview-angular) - Zero dependency layout manager supporting tabs, groups, grids, and splitviews.
 * [ngx-compactable-row ![GitHub Repo Stars](https://img.shields.io/github/stars/MikeVensel/ngx-compactable-row) ![GitHub last commit](https://img.shields.io/github/last-commit/MikeVensel/ngx-compactable-row)](https://github.com/MikeVensel/ngx-compactable-row) - Provides a responsive button row that moves excess buttons into a menu when space is limited.
+* [ng-cmdk ![GitHub Repo Stars](https://img.shields.io/github/stars/wadie/ng-cmdk) ![GitHub last commit](https://img.shields.io/github/last-commit/wadie/ng-cmdk)](https://github.com/wadie/ng-cmdk) - Fast, composable, unstyled command menu for Angular — a port of [cmdk ![GitHub Repo Stars](https://img.shields.io/github/stars/pacocoursey/cmdk) ![GitHub last commit](https://img.shields.io/github/last-commit/pacocoursey/cmdk)](https://github.com/pacocoursey/cmdk).
 
 ### Loaders
 
