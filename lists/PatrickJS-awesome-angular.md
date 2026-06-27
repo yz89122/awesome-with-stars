@@ -742,6 +742,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 
 ### Generators and Scaffolding
 
+* [angular-openapi-gen ![GitHub Repo Stars](https://img.shields.io/github/stars/constantant/angular-openapi-gen) ![GitHub last commit](https://img.shields.io/github/last-commit/constantant/angular-openapi-gen)](https://github.com/constantant/angular-openapi-gen) - Tree-shakeable, signal-native API clients generator.
 * [angular-scaffold ![GitHub Repo Stars](https://img.shields.io/github/stars/EPAM-JS-Competency-center/angular-scaffold) ![GitHub last commit](https://img.shields.io/github/last-commit/EPAM-JS-Competency-center/angular-scaffold)](https://github.com/EPAM-JS-Competency-center/angular-scaffold) - Scaffold an Angular project with all tooling you need for production projects.
 * [ngx-schematics-utilities ![GitHub Repo Stars](https://img.shields.io/github/stars/DSI-HUG/ngx-schematics-utilities) ![GitHub last commit](https://img.shields.io/github/last-commit/DSI-HUG/ngx-schematics-utilities)](https://github.com/DSI-HUG/ngx-schematics-utilities) - Useful utilities for Angular Schematics.
 * [abp ![GitHub Repo Stars](https://img.shields.io/github/stars/abpframework/abp) ![GitHub last commit](https://img.shields.io/github/last-commit/abpframework/abp)](https://github.com/abpframework/abp) - Open‑source ASP.NET Core framework for enterprise apps with opinionated architecture.
@@ -1177,6 +1178,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [Admin Mart](https://adminmart.com/templates/angular-dashboard/)
 * [CozyDevKit](https://cozydevkit.com/) - Interactive tools, architecture patterns, cheat sheets, and DevOps services for Angular 21.
 * [devkitly](https://www.devkitly.io/) - Production-ready Angular 21 starter kit with auth, billing, audit logging, feature flags, and SSR.
+* [draftNG](https://www.draftng.xyz/) - Minimalist & high-performance Angular 22+ platform templates.
 * [Nzoni](https://nzoni.app/) - Launch your SAAS in days with Angular.
 * [Theme Forest](https://themeforest.net/search/angular)
 * [Vortex](https://template.giacomobellazzi.com/) - A high-performance web application template built with Angular and Java, designed to deliver seamless user experiences and powerful backend solutions.
