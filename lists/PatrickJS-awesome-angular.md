@@ -2408,7 +2408,7 @@ for the creation of web applications developed with Angular.
 
 ## External Lists
 
-* [awesome-utils-dev ![GitHub Repo Stars](https://img.shields.io/github/stars/pegaltier/awesome-utils-dev) ![GitHub last commit](https://img.shields.io/github/last-commit/pegaltier/awesome-utils-dev)](https://github.com/pegaltier/awesome-utils-dev/blob/master/utils-coding/utils-angular-list.md) - Exhaustive Angular resources—your fallback if you still need more.
+* [awesome-utils-dev ![GitHub Repo Stars](https://img.shields.io/github/stars/pegaltier/awesome-utils-dev) ![GitHub last commit](https://img.shields.io/github/last-commit/pegaltier/awesome-utils-dev)](https://github.com/pegaltier/awesome-utils-dev/blob/master/utils-coding/utils-angular-list.md) - Exhaustive Angular resources��your fallback if you still need more.
 * [awesome-angular ![GitHub Repo Stars](https://img.shields.io/github/stars/DaanDeSmedt/awesome-angular) ![GitHub last commit](https://img.shields.io/github/last-commit/DaanDeSmedt/awesome-angular)](https://github.com/DaanDeSmedt/awesome-angular)
 * [Angular Enterprise](https://angular-enterprise.com/en/ngcategory/resources/)
 * [framework.dev](https://angular.framework.dev/)
