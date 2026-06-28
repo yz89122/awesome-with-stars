@@ -186,6 +186,7 @@ Inspired by the [awesome ![GitHub Repo Stars](https://img.shields.io/github/star
 - [diff2html-cli ![GitHub Repo Stars](https://img.shields.io/github/stars/rtfpessoa/diff2html-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/rtfpessoa/diff2html-cli)](https://github.com/rtfpessoa/diff2html-cli) - Create pretty HTML from diffs.
 - [mk ![GitHub Repo Stars](https://img.shields.io/github/stars/pycontribs/mk) ![GitHub last commit](https://img.shields.io/github/last-commit/pycontribs/mk)](https://github.com/pycontribs/mk) - Exposes most common actions you can run in unfamiliar repos.
 - [dotenv-diff ![GitHub Repo Stars](https://img.shields.io/github/stars/Chrilleweb/dotenv-diff) ![GitHub last commit](https://img.shields.io/github/last-commit/Chrilleweb/dotenv-diff)](https://github.com/Chrilleweb/dotenv-diff) - Validate environment variable usage in a codebase.
+- [ota ![GitHub Repo Stars](https://img.shields.io/github/stars/ota-run/ota) ![GitHub last commit](https://img.shields.io/github/last-commit/ota-run/ota)](https://github.com/ota-run/ota) - Unified diagnosable repo setup across stacks (local, deploy, CI, agents).
 
 ### Text Editors
 
@@ -197,6 +198,7 @@ Inspired by the [awesome ![GitHub Repo Stars](https://img.shields.io/github/star
 - [o ![GitHub Repo Stars](https://img.shields.io/github/stars/xyproto/o) ![GitHub last commit](https://img.shields.io/github/last-commit/xyproto/o)](https://github.com/xyproto/o) - Configuration-free text editor and IDE.
 - [helix ![GitHub Repo Stars](https://img.shields.io/github/stars/helix-editor/helix) ![GitHub last commit](https://img.shields.io/github/last-commit/helix-editor/helix)](https://github.com/helix-editor/helix) - Modal editor inspired by kakoune.
 - [Prosaic ![GitHub Repo Stars](https://img.shields.io/github/stars/DimwitLabs/Prosaic) ![GitHub last commit](https://img.shields.io/github/last-commit/DimwitLabs/Prosaic)](https://github.com/DimwitLabs/Prosaic) - A writer-first app crafted for long-form writing.
+- [Microsoft Edit ![GitHub Repo Stars](https://img.shields.io/github/stars/microsoft/edit) ![GitHub last commit](https://img.shields.io/github/last-commit/microsoft/edit)](https://github.com/microsoft/edit) - Simple editor.
 
 ### Frontend Development
 
@@ -328,6 +330,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [hns ![GitHub Repo Stars](https://img.shields.io/github/stars/primaprashant/hns) ![GitHub last commit](https://img.shields.io/github/last-commit/primaprashant/hns)](https://github.com/primaprashant/hns) - Speech-to-text tool to transcribe voice from microphone.
 - [mynav ![GitHub Repo Stars](https://img.shields.io/github/stars/GianlucaP106/mynav) ![GitHub last commit](https://img.shields.io/github/last-commit/GianlucaP106/mynav)](https://github.com/GianlucaP106/mynav) - Workspace and session management TUI.
 - [linear-tui ![GitHub Repo Stars](https://img.shields.io/github/stars/roeyazroel/linear-tui) ![GitHub last commit](https://img.shields.io/github/last-commit/roeyazroel/linear-tui)](https://github.com/roeyazroel/linear-tui) - Linear TUI client.
+- [jiratui ![GitHub Repo Stars](https://img.shields.io/github/stars/whyisdifficult/jiratui) ![GitHub last commit](https://img.shields.io/github/last-commit/whyisdifficult/jiratui)](https://github.com/whyisdifficult/jiratui) - TUI app for Jira.
 
 ### Time Tracking
 
@@ -418,8 +421,8 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 ### Terminal Sharing Utilities
 
 - [gotty ![GitHub Repo Stars](https://img.shields.io/github/stars/yudai/gotty) ![GitHub last commit](https://img.shields.io/github/last-commit/yudai/gotty)](https://github.com/yudai/gotty) - Share your terminal as a web application.
-- [tmate](https://tmate.io/) - Instant terminal (tmux) sharing.
 - [warp ![GitHub Repo Stars](https://img.shields.io/github/stars/spolu/warp) ![GitHub last commit](https://img.shields.io/github/last-commit/spolu/warp)](https://github.com/spolu/warp) - Secure and simple terminal sharing.
+- [upterm ![GitHub Repo Stars](https://img.shields.io/github/stars/owenthereal/upterm) ![GitHub last commit](https://img.shields.io/github/last-commit/owenthereal/upterm)](https://github.com/owenthereal/upterm) - Instant terminal sharing.
 
 ### SSH
 
@@ -544,7 +547,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 ## Command Line Learning
 
 - [cmdchallenge](https://cmdchallenge.com) - Presents small shell challenge with user submitted solutions.
-- [explainshell](https://www.explainshell.com/) - Type a snippet to see the help text for each argument.
+- [explainshell](https://explainshell.com) - Type a snippet to see the help text for each argument.
 - [howdoi ![GitHub Repo Stars](https://img.shields.io/github/stars/gleitz/howdoi) ![GitHub last commit](https://img.shields.io/github/last-commit/gleitz/howdoi)](https://github.com/gleitz/howdoi) - Instant coding answers.
 - [how2 ![GitHub Repo Stars](https://img.shields.io/github/stars/santinic/how2) ![GitHub last commit](https://img.shields.io/github/last-commit/santinic/how2)](https://github.com/santinic/how2) - Node.js implementation of howdoi.
 - [The Fuck ![GitHub Repo Stars](https://img.shields.io/github/stars/nvbn/thefuck) ![GitHub last commit](https://img.shields.io/github/last-commit/nvbn/thefuck)](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
@@ -594,7 +597,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 
 ### Text
 
-- [figlet](http://www.figlet.org/) - Creates large text out of ASCII characters.
+- [figlet](https://www.figlet.org) - Creates large text out of ASCII characters.
 - [stegcloak ![GitHub Repo Stars](https://img.shields.io/github/stars/kurolabs/stegcloak) ![GitHub last commit](https://img.shields.io/github/last-commit/kurolabs/stegcloak)](https://github.com/kurolabs/stegcloak) - Hide secrets with invisible characters in plain text securely.
 
 ## Files and Directories
