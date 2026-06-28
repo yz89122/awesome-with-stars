@@ -141,6 +141,10 @@
 
 - [Darkness Dungeon ![GitHub Repo Stars](https://img.shields.io/github/stars/RafaelBarbosatec/darkness_dungeon) ![GitHub last commit](https://img.shields.io/github/last-commit/RafaelBarbosatec/darkness_dungeon)](https://github.com/RafaelBarbosatec/darkness_dungeon) - Simple RPG. By [rafaelbarbosatec](http://rafaelbarbosatec.github.io/)
 
+#### Strategy
+
+- [Age of New Worlds ![GitHub Repo Stars](https://img.shields.io/github/stars/ernestwisniewski/aonw) ![GitHub last commit](https://img.shields.io/github/last-commit/ernestwisniewski/aonw)](https://github.com/ernestwisniewski/aonw) - An open-source 4X strategy game built with Flutter and Flame, featuring hex maps, turn-based empire building, AI players, and multiplayer foundations. By [ernestwisniewski](https://github.com/ernestwisniewski).
+
 ### App Releases
 
 #### Action
