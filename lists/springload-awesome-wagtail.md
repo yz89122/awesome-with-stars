@@ -242,7 +242,7 @@ _You might also like [Awesome Django ![GitHub Repo Stars](https://img.shields.io
 - [Django 2.2 compatibility – Wagtail Space 2019](https://www.youtube.com/watch?t=3468&v=CSwpj-jyjP4) by Matt Wescott.
 - [SEO dashboard – Wagtail Space 2019](https://www.youtube.com/watch?t=3937&v=CSwpj-jyjP4) by Janneke Janssen. [Code ![GitHub Repo Stars](https://img.shields.io/github/stars/LUKKIEN/wagtail-marketing-addons) ![GitHub last commit](https://img.shields.io/github/last-commit/LUKKIEN/wagtail-marketing-addons)](https://github.com/LUKKIEN/wagtail-marketing-addons).
 - [My First Wagtail Contribution – More formats in RichText Editor – Wagtail Space 2019](https://www.youtube.com/watch?t=4126&v=CSwpj-jyjP4) by Arifin Ibne Matin.
-- [Fly, Wagtail, fly! – Wagtail Space 2019](https://www.youtube.com/watch?t=4404&v=CSwpj-jyjP4) by Daniele Procida.
+- [Fly, Wagtail, fly! ��� Wagtail Space 2019](https://www.youtube.com/watch?t=4404&v=CSwpj-jyjP4) by Daniele Procida.
 - [Wagtail & GraphQL – Wagtail Space 2019](https://www.youtube.com/watch?t=24&v=YydSbL8gMS4) by Arthur Bayr.
 - [Writing (code) for authors – Wagtail Space US 2019](https://www.youtube.com/watch?v=Ihsrki0d1G8&list=PLEyaio0l1qoEIUFM9bnRKoN6VKEUOdxAn&index=1) by Brian Smith & Eric Sherman. [Slides](https://docs.google.com/presentation/d/1z61u0uKwJxmYS4Zawbu4Zgg-kCtInd1VgsEg-rnwzBE/edit).
 - [Saving Lives With Wagtail: Recovery Meetings Across the World – Wagtail Space US 2019](https://www.youtube.com/watch?v=QlLWvNT5Wrk&list=PLEyaio0l1qoEIUFM9bnRKoN6VKEUOdxAn&index=2) by Timothy Allen.
