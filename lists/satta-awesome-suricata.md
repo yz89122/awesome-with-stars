@@ -16,7 +16,7 @@
 - [Development Tools](#development-tools)
 - [Documentation and Guides](#documentation-and-guides)
 - [Analysis Tools](#analysis-tools)
-- [Rule Sets](#rule-sets)
+- [Rule Sets and Lists](#rule-sets-and-lists)
 - [Rule/Security Content Management and Handling](#rulesecurity-content-management-and-handling)
 - [Plugins and Extensions](#plugins-and-extensions)
 - [Systems Using Suricata](#systems-using-suricata)
@@ -97,7 +97,7 @@
 - [Evebox ![GitHub Repo Stars](https://img.shields.io/github/stars/jasonish/evebox) ![GitHub last commit](https://img.shields.io/github/last-commit/jasonish/evebox)](https://github.com/jasonish/evebox) - Web Based Event Viewer (GUI) for Suricata EVE Events in Elastic Search.
 
 
-## Rule Sets
+## Rule Sets and Lists
 
 - [nids-rule-library ![GitHub Repo Stars](https://img.shields.io/github/stars/klingerko/nids-rule-library) ![GitHub last commit](https://img.shields.io/github/last-commit/klingerko/nids-rule-library)](https://github.com/klingerko/nids-rule-library#readme) - Collection of various open-source and commercial rulesets.
 - [Stamus Lateral Movement Detection Rules](https://www.stamus-networks.com/blog/new-open-ruleset-for-detecting-lateral-movement-with-suricata) - Suricata ruleset to detect lateral movement.
@@ -114,6 +114,8 @@
 - [PAW Patrules](https://pawpatrules.fr) - Another free (CC BY-NC-SA) collection of rules for the Suricata engine.
 - [opnsense-suricata-nmaps ![GitHub Repo Stars](https://img.shields.io/github/stars/aleksibovellan/opnsense-suricata-nmaps) ![GitHub last commit](https://img.shields.io/github/last-commit/aleksibovellan/opnsense-suricata-nmaps)](https://github.com/aleksibovellan/opnsense-suricata-nmaps) - OPNSense's Suricata IDS/IPS Detection Rules Against NMAP Scans.
 - [Antiphishing ![GitHub Repo Stars](https://img.shields.io/github/stars/julioliraup/Antiphishing) ![GitHub last commit](https://img.shields.io/github/last-commit/julioliraup/Antiphishing)](https://github.com/julioliraup/Antiphishing) - Suricata rules and datasets to detect phishing attacks.
+- [Suricata Ruleset Index ![GitHub Repo Stars](https://img.shields.io/github/stars/OISF/suricata-intel-index) ![GitHub last commit](https://img.shields.io/github/last-commit/OISF/suricata-intel-index)](https://github.com/OISF/suricata-intel-index) - OISF's curated, machine-readable list of sources used by Suricata-Update.
+- [EveBox Rules](https://rules.evebox.org) - Suricata Rule Browser, indexes many free rulesets, including rules from the Suricata Ruleset Index.
 
 
 ## Rule/Security Content Management and Handling

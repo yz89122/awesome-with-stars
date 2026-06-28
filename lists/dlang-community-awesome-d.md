@@ -7,7 +7,8 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 ## Contents
 
 * Basic Information
-	* [Official Website](#official-website)
+	* [Official Website](#official-websites)
+  		* [Status Page](#status-page)
 	* [Getting Help](#getting-help)
 	* [People](#people)
 	* [Events](#events)
@@ -84,6 +85,12 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 * [GitHub organization](https://github.com/dlang) - Official GitHub organization for D. Repository for all official D tools & code.
 * [Issue tracker](https://github.com/dlang) – Official issue tracker for D. Older reports can be found in the [archived tracker](https://issues.dlang.org/).
 * [Language specification](https://dlang.org/spec/spec.html) - The D programming language specification.
+
+### Status page
+
+*Unofficial, run by the community.*
+
+* [status.dlang.rocks](https://status.dlang.rocks) - Public infrastructure monitoring of services associated with or used by the D Language Foundation and its project contributors.
 
 ## Getting Help
 
@@ -266,6 +273,7 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 
 * [higgs ![GitHub Repo Stars](https://img.shields.io/github/stars/higgsjs/Higgs) ![GitHub last commit](https://img.shields.io/github/last-commit/higgsjs/Higgs)](https://github.com/higgsjs/Higgs) - Higgs JavaScript Virtual Machine, implemented in D.
 * [brainfuck-d](https://codeberg.org/GuineaPigUuhh/brainfuck-d) - Brainfuck interpreter, compiler and REPL written in D.
+* [arsd.script ![GitHub Repo Stars](https://img.shields.io/github/stars/adamdruppe/arsd) ![GitHub last commit](https://img.shields.io/github/last-commit/adamdruppe/arsd)](https://github.com/adamdruppe/arsd/blob/master/script.d) - A small script interpreter that builds on *arsd.jsvar* to be easily embedded inside and to have easy two-way interop with the host D program.
 
 ## Operating Systems
 
@@ -313,7 +321,7 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 *Full stack web frameworks.*
 
 * [vibe.d](https://vibed.org/) - Asynchronous I/O Web Framework that doesn’t get in your way, written in D.
-* [arsd ![GitHub Repo Stars](https://img.shields.io/github/stars/adamdruppe/arsd) ![GitHub last commit](https://img.shields.io/github/last-commit/adamdruppe/arsd)](https://github.com/adamdruppe/arsd) - Adam D. Ruppe's web framework.
+* [arsd ![GitHub Repo Stars](https://img.shields.io/github/stars/adamdruppe/arsd) ![GitHub last commit](https://img.shields.io/github/last-commit/adamdruppe/arsd)](https://github.com/adamdruppe/arsd) - Adam D. Ruppe's web framework. (See `arsd/cgi.d` for the CGI/FastCGI/SCGI/webserver component.)
 * [cmsed ![GitHub Repo Stars](https://img.shields.io/github/stars/rikkimax/Cmsed) ![GitHub last commit](https://img.shields.io/github/last-commit/rikkimax/Cmsed)](https://github.com/rikkimax/Cmsed) - A component library for Vibe that functions as a CMS.
 
 *RPC libraries.*
@@ -464,6 +472,7 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 * [Parin ![GitHub Repo Stars](https://img.shields.io/github/stars/Kapendev/parin) ![GitHub last commit](https://img.shields.io/github/last-commit/Kapendev/parin)](https://github.com/Kapendev/parin) - A delightfully simple 2D game engine.
 * [PixelPerfectEngine ![GitHub Repo Stars](https://img.shields.io/github/stars/ZILtoid1991/pixelperfectengine) ![GitHub last commit](https://img.shields.io/github/last-commit/ZILtoid1991/pixelperfectengine)](https://github.com/ZILtoid1991/pixelperfectengine) - 2D graphics engine written in D.
 * [HipremeEngine ![GitHub Repo Stars](https://img.shields.io/github/stars/MrcSnm/HipremeEngine) ![GitHub last commit](https://img.shields.io/github/last-commit/MrcSnm/HipremeEngine)](https://github.com/MrcSnm/HipremeEngine) - Cross Platform D-Lang Game Engine with scripting support.
+* [PixmapPresenter ![GitHub Repo Stars](https://img.shields.io/github/stars/adamdruppe/arsd) ![GitHub last commit](https://img.shields.io/github/last-commit/adamdruppe/arsd)](https://github.com/adamdruppe/arsd/blob/master/pixmappresenter.d) - High-level display library for blitting fully-rendered frames to the screen (→ software-rendering, retro graphics).
 
 *Libraries for 2D/3D-related projects.*
 
@@ -486,6 +495,7 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 * [Clean & Haunted](https://kapendev.itch.io/clean-haunted) - Clean a spooky haunted house.
 * [Runani](https://kapendev.itch.io/runani) - An endless runner game where you help cute animals.
 * [A Short Metamorphosis](https://kapendev.itch.io/a-short-metamorphosis) - A cute visual novel about looking at an egg.
+* [Would you still save the world with me if I were a worm?](https://0xeab.itch.io/would-you-still-save-the-world-with-me-if-i-were-a-worm) - Help your wormy partner find the exit of each of the 20 puzzles to eventually save the world that has fallen into a wormhole.
 
 ## Internationalization
 
@@ -497,6 +507,7 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 * [dlib.image ![GitHub Repo Stars](https://img.shields.io/github/stars/gecko0307/dlib) ![GitHub last commit](https://img.shields.io/github/last-commit/gecko0307/dlib)](https://github.com/gecko0307/dlib) - image processing (8 and 16 bits per channel, floating point operations, filtering, FFT, HDRI, graphics formats support including JPEG and PNG)
 * [color.d ![GitHub Repo Stars](https://img.shields.io/github/stars/adamdruppe/arsd) ![GitHub last commit](https://img.shields.io/github/last-commit/adamdruppe/arsd)](https://github.com/adamdruppe/arsd/blob/master/color.d) + [bmp.d ![GitHub Repo Stars](https://img.shields.io/github/stars/adamdruppe/arsd) ![GitHub last commit](https://img.shields.io/github/last-commit/adamdruppe/arsd)](https://github.com/adamdruppe/arsd/blob/master/bmp.d), [jpg.d ![GitHub Repo Stars](https://img.shields.io/github/stars/adamdruppe/arsd) ![GitHub last commit](https://img.shields.io/github/last-commit/adamdruppe/arsd)](https://github.com/adamdruppe/arsd/blob/master/jpg.d), [png.d ![GitHub Repo Stars](https://img.shields.io/github/stars/adamdruppe/arsd) ![GitHub last commit](https://img.shields.io/github/last-commit/adamdruppe/arsd)](https://github.com/adamdruppe/arsd/blob/master/png.d) - basic color struct, HSL functions and reading and writing image files
 * [opencvd ![GitHub Repo Stars](https://img.shields.io/github/stars/aferust/opencvd) ![GitHub last commit](https://img.shields.io/github/last-commit/aferust/opencvd)](https://github.com/aferust/opencvd) - Unofficial OpenCV binding for D
+* [PixmapPaint ![GitHub Repo Stars](https://img.shields.io/github/stars/adamdruppe/arsd) ![GitHub last commit](https://img.shields.io/github/last-commit/adamdruppe/arsd)](https://github.com/adamdruppe/arsd/blob/master/pixmappaint.d) - Pixmap image manipulation library for software-rendering purposes.
 
 ## Machine Learning
 
@@ -545,18 +556,21 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 * [sdlang ![GitHub Repo Stars](https://img.shields.io/github/stars/dlang-community/SDLang-D) ![GitHub last commit](https://img.shields.io/github/last-commit/dlang-community/SDLang-D)](https://github.com/dlang-community/SDLang-D) - An SDL (Simple Declarative Language) library for D.
 * [D:YAML ![GitHub Repo Stars](https://img.shields.io/github/stars/dlang-community/D-YAML) ![GitHub last commit](https://img.shields.io/github/last-commit/dlang-community/D-YAML)](https://github.com/dlang-community/D-YAML) - YAML parser and emitter for the D programming language.
 * [inifile-D ![GitHub Repo Stars](https://img.shields.io/github/stars/burner/inifiled) ![GitHub last commit](https://img.shields.io/github/last-commit/burner/inifiled)](https://github.com/burner/inifiled) - A compile time ini file parser and writer generator for D
+* [arsd.ini ![GitHub Repo Stars](https://img.shields.io/github/stars/adamdruppe/arsd) ![GitHub last commit](https://img.shields.io/github/last-commit/adamdruppe/arsd)](https://github.com/adamdruppe/arsd/blob/master/ini.d) - A configurable INI parser with support for multiple “dialects” of the format.
 
 ## Blog Engine
 
 *Hosting blogs yourself.*
 
 * [mood ![GitHub Repo Stars](https://img.shields.io/github/stars/mihails-strasuns/mood) ![GitHub last commit](https://img.shields.io/github/last-commit/mihails-strasuns/mood)](https://github.com/mihails-strasuns/mood) - simple vibe.d based blog engine
+* [adrdox ![GitHub Repo Stars](https://img.shields.io/github/stars/adamdruppe/adrdox) ![GitHub last commit](https://img.shields.io/github/last-commit/adamdruppe/adrdox)](https://github.com/adamdruppe/adrdox) - A documentation generator that can also be used for blogging. (Used by the *This Week in ARSD* blog.)
 
 ## Dependency Injection
 
 *Apply inversion of control.*
 
 * [Poodinis ![GitHub Repo Stars](https://img.shields.io/github/stars/mbierlee/poodinis) ![GitHub last commit](https://img.shields.io/github/last-commit/mbierlee/poodinis)](https://github.com/mbierlee/poodinis) - A dependency injection framework for D with support for autowiring.
+* [arsd.di ![GitHub Repo Stars](https://img.shields.io/github/stars/adamdruppe/arsd) ![GitHub last commit](https://img.shields.io/github/last-commit/adamdruppe/arsd)](https://github.com/adamdruppe/arsd/blob/master/di.d) - A single-file lightweight dependency injection framework.
 
 ## Cryptography
 
