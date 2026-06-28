@@ -103,7 +103,7 @@ Software that makes it easy to consume GTFS data in a variety of languages.
 
 ##### DuckDB
 
-- [gtfs-via-duckdb ![GitHub Repo Stars](https://img.shields.io/github/stars/public-transport/gtfs-via-duckdb) ![GitHub last commit](https://img.shields.io/github/last-commit/public-transport/gtfs-via-duckdb)](https://github.com/public-transport/gtfs-via-duckdb) �� Analyse GTFS Schedule data by importing it into a DuckDB database. 
+- [gtfs-via-duckdb ![GitHub Repo Stars](https://img.shields.io/github/stars/public-transport/gtfs-via-duckdb) ![GitHub last commit](https://img.shields.io/github/last-commit/public-transport/gtfs-via-duckdb)](https://github.com/public-transport/gtfs-via-duckdb) – Analyse GTFS Schedule data by importing it into a DuckDB database. 
 
 ##### Python
 - [gtfsdb ![GitHub Repo Stars](https://img.shields.io/github/stars/OpenTransitTools/gtfsdb) ![GitHub last commit](https://img.shields.io/github/last-commit/OpenTransitTools/gtfsdb)](https://github.com/OpenTransitTools/gtfsdb) - Python library for converting GTFS files into a relational database.
