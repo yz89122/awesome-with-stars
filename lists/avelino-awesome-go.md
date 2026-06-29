@@ -1847,7 +1847,7 @@ _Libraries that implement messaging systems._
 - [Watermill ![GitHub Repo Stars](https://img.shields.io/github/stars/ThreeDotsLabs/watermill) ![GitHub last commit](https://img.shields.io/github/last-commit/ThreeDotsLabs/watermill)](https://github.com/ThreeDotsLabs/watermill) - Working efficiently with message streams. Building event driven applications, enabling event sourcing, RPC over messages, sagas. Can use conventional pub/sub implementations like Kafka or RabbitMQ, but also HTTP or MySQL binlog.
 - [zmq4 ![GitHub Repo Stars](https://img.shields.io/github/stars/pebbe/zmq4) ![GitHub last commit](https://img.shields.io/github/last-commit/pebbe/zmq4)](https://github.com/pebbe/zmq4) - Go interface to ZeroMQ version 4. Also available for [version 3 ![GitHub Repo Stars](https://img.shields.io/github/stars/pebbe/zmq3) ![GitHub last commit](https://img.shields.io/github/last-commit/pebbe/zmq3)](https://github.com/pebbe/zmq3) and [version 2 ![GitHub Repo Stars](https://img.shields.io/github/stars/pebbe/zmq2) ![GitHub last commit](https://img.shields.io/github/last-commit/pebbe/zmq2)](https://github.com/pebbe/zmq2).
 
-**[��� back to top](#contents)**
+**[⬆ back to top](#contents)**
 
 ## Microsoft Office
 
