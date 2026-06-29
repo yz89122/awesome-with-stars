@@ -549,7 +549,7 @@ Part 1](https://0fps.net/2014/02/10/replication-in-networked-games-overview-part
 ### 3D
 
 
-[World Building in Blender by Ian Hubert](https://www.youtube.com/watch?v=whPWKecazgM) 💠���� - The best resource for thinking about 3D art, possibly ever.
+[World Building in Blender by Ian Hubert](https://www.youtube.com/watch?v=whPWKecazgM) 💠🟪 - The best resource for thinking about 3D art, possibly ever.
 
 
 [Sculpting in Blender](https://www.artstation.com/learning/courses/3Va/intro-to-sculpting-in-blender/chapters/8OjR/intro) 🟪 - A short, free course on sculpting in Blender.
