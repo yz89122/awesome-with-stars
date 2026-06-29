@@ -179,8 +179,8 @@ _Frameworks for Neural Networks and Deep Learning. Also see [awesome-deep-learni
 
 - [jax ![GitHub Repo Stars](https://img.shields.io/github/stars/jax-ml/jax) ![GitHub last commit](https://img.shields.io/github/last-commit/jax-ml/jax)](https://github.com/jax-ml/jax) - A library for high-performance numerical computing with automatic differentiation and JIT compilation.
 - [keras ![GitHub Repo Stars](https://img.shields.io/github/stars/keras-team/keras) ![GitHub last commit](https://img.shields.io/github/last-commit/keras-team/keras)](https://github.com/keras-team/keras) - A high-level deep learning library with support for JAX, TensorFlow, and PyTorch backends.
-- [pytorch-lightning ![GitHub Repo Stars](https://img.shields.io/github/stars/Lightning-AI/pytorch-lightning) ![GitHub last commit](https://img.shields.io/github/last-commit/Lightning-AI/pytorch-lightning)](https://github.com/Lightning-AI/pytorch-lightning) - Deep learning framework to train, deploy, and ship AI products Lightning fast.
 - [pytorch ![GitHub Repo Stars](https://img.shields.io/github/stars/pytorch/pytorch) ![GitHub last commit](https://img.shields.io/github/last-commit/pytorch/pytorch)](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration.
+- [pytorch-lightning ![GitHub Repo Stars](https://img.shields.io/github/stars/Lightning-AI/pytorch-lightning) ![GitHub last commit](https://img.shields.io/github/last-commit/Lightning-AI/pytorch-lightning)](https://github.com/Lightning-AI/pytorch-lightning) - Deep learning framework to train, deploy, and ship AI products Lightning fast.
 - [stable-baselines3 ![GitHub Repo Stars](https://img.shields.io/github/stars/DLR-RM/stable-baselines3) ![GitHub last commit](https://img.shields.io/github/last-commit/DLR-RM/stable-baselines3)](https://github.com/DLR-RM/stable-baselines3) - PyTorch implementations of Stable Baselines (deep) reinforcement learning algorithms.
 - [tensorflow ![GitHub Repo Stars](https://img.shields.io/github/stars/tensorflow/tensorflow) ![GitHub last commit](https://img.shields.io/github/last-commit/tensorflow/tensorflow)](https://github.com/tensorflow/tensorflow) - The most popular Deep Learning framework created by Google.
 
@@ -192,7 +192,7 @@ _Libraries for Machine Learning. Also see [awesome-machine-learning ![GitHub Rep
 - [feature_engine ![GitHub Repo Stars](https://img.shields.io/github/stars/feature-engine/feature_engine) ![GitHub last commit](https://img.shields.io/github/last-commit/feature-engine/feature_engine)](https://github.com/feature-engine/feature_engine) - sklearn compatible API with the widest toolset for feature engineering and selection.
 - [h2o ![GitHub Repo Stars](https://img.shields.io/github/stars/h2oai/h2o-3) ![GitHub last commit](https://img.shields.io/github/last-commit/h2oai/h2o-3)](https://github.com/h2oai/h2o-3) - Open Source Fast Scalable Machine Learning Platform.
 - [lightgbm ![GitHub Repo Stars](https://img.shields.io/github/stars/lightgbm-org/LightGBM) ![GitHub last commit](https://img.shields.io/github/last-commit/lightgbm-org/LightGBM)](https://github.com/lightgbm-org/LightGBM) - A fast, distributed, high performance gradient boosting framework.
-- [mindsdb ![GitHub Repo Stars](https://img.shields.io/github/stars/mindsdb/minds-platform) ![GitHub last commit](https://img.shields.io/github/last-commit/mindsdb/minds-platform)](https://github.com/mindsdb/minds-platform) - MindsDB is an open source AI layer for existing databases that allows you to effortlessly develop, train and deploy state-of-the-art machine learning models using standard queries.
+- [mindsdb ![GitHub Repo Stars](https://img.shields.io/github/stars/mindsdb/minds) ![GitHub last commit](https://img.shields.io/github/last-commit/mindsdb/minds)](https://github.com/mindsdb/minds) - MindsDB is an open source AI layer for existing databases that allows you to effortlessly develop, train and deploy state-of-the-art machine learning models using standard queries.
 - [pgmpy ![GitHub Repo Stars](https://img.shields.io/github/stars/pgmpy/pgmpy) ![GitHub last commit](https://img.shields.io/github/last-commit/pgmpy/pgmpy)](https://github.com/pgmpy/pgmpy) - A Python library for probabilistic graphical models and Bayesian networks.
 - [scikit-learn ![GitHub Repo Stars](https://img.shields.io/github/stars/scikit-learn/scikit-learn) ![GitHub last commit](https://img.shields.io/github/last-commit/scikit-learn/scikit-learn)](https://github.com/scikit-learn/scikit-learn) - The most popular Python library for Machine Learning with extensive documentation and community support.
 - - [scikit-lego ![GitHub Repo Stars](https://img.shields.io/github/stars/koaning/scikit-lego) ![GitHub last commit](https://img.shields.io/github/last-commit/koaning/scikit-lego)](https://github.com/koaning/scikit-lego) - A collection of lego bricks for scikit-learn pipelines.
@@ -322,7 +322,7 @@ _Tools for managing, compressing and minifying website assets._
 _Libraries for implementing authentication schemes._
 
 - OAuth
-  - [authlib ![GitHub Repo Stars](https://img.shields.io/github/stars/authlib/authlib) ![GitHub last commit](https://img.shields.io/github/last-commit/authlib/authlib)](https://github.com/authlib/authlib) - JavaScript Object Signing and Encryption draft implementation.
+  - [authlib ![GitHub Repo Stars](https://img.shields.io/github/stars/authlib/authlib) ![GitHub last commit](https://img.shields.io/github/last-commit/authlib/authlib)](https://github.com/authlib/authlib) - A comprehensive library for building OAuth, OpenID Connect, and JWT/JWS/JWE/JWK/JWA.
   - [django-allauth ![GitHub Repo Stars](https://img.shields.io/github/stars/pennersr/django-allauth) ![GitHub last commit](https://img.shields.io/github/last-commit/pennersr/django-allauth)](https://github.com/pennersr/django-allauth) - Authentication app for Django that "just works."
   - [django-oauth-toolkit ![GitHub Repo Stars](https://img.shields.io/github/stars/django-oauth/django-oauth-toolkit) ![GitHub last commit](https://img.shields.io/github/last-commit/django-oauth/django-oauth-toolkit)](https://github.com/django-oauth/django-oauth-toolkit) - OAuth 2 goodies for Django.
   - [oauthlib ![GitHub Repo Stars](https://img.shields.io/github/stars/oauthlib/oauthlib) ![GitHub last commit](https://img.shields.io/github/last-commit/oauthlib/oauthlib)](https://github.com/oauthlib/oauthlib) - A generic and thorough implementation of the OAuth request-signing logic.
@@ -481,8 +481,8 @@ _Libraries for serializing complex data types._
 _Libraries for data analysis._
 
 - [aws-sdk-pandas ![GitHub Repo Stars](https://img.shields.io/github/stars/aws/aws-sdk-pandas) ![GitHub last commit](https://img.shields.io/github/last-commit/aws/aws-sdk-pandas)](https://github.com/aws/aws-sdk-pandas) - Pandas on AWS.
-- [datasette ![GitHub Repo Stars](https://img.shields.io/github/stars/simonw/datasette) ![GitHub last commit](https://img.shields.io/github/last-commit/simonw/datasette)](https://github.com/simonw/datasette) - An open source multi-tool for exploring and publishing data.
 - [data-profiling ![GitHub Repo Stars](https://img.shields.io/github/stars/Data-Centric-AI-Community/fg-data-profiling) ![GitHub last commit](https://img.shields.io/github/last-commit/Data-Centric-AI-Community/fg-data-profiling)](https://github.com/Data-Centric-AI-Community/fg-data-profiling) - Generate detailed data profiling reports for pandas DataFrames.
+- [datasette ![GitHub Repo Stars](https://img.shields.io/github/stars/simonw/datasette) ![GitHub last commit](https://img.shields.io/github/last-commit/simonw/datasette)](https://github.com/simonw/datasette) - An open source multi-tool for exploring and publishing data.
 - [desbordante ![GitHub Repo Stars](https://img.shields.io/github/stars/desbordante/desbordante-core) ![GitHub last commit](https://img.shields.io/github/last-commit/desbordante/desbordante-core)](https://github.com/desbordante/desbordante-core/) - An open source data profiler for complex pattern discovery.
 - [ibis ![GitHub Repo Stars](https://img.shields.io/github/stars/ibis-project/ibis) ![GitHub last commit](https://img.shields.io/github/last-commit/ibis-project/ibis)](https://github.com/ibis-project/ibis) - A portable Python dataframe library with a single API for 20+ backends.
 - [modin ![GitHub Repo Stars](https://img.shields.io/github/stars/modin-project/modin) ![GitHub last commit](https://img.shields.io/github/last-commit/modin-project/modin)](https://github.com/modin-project/modin) - A drop-in pandas replacement that scales workflows by changing a single line of code.
@@ -697,21 +697,21 @@ _Libraries for debugging code._
 _Compile software from source code._
 
 - [bitbake ![GitHub Repo Stars](https://img.shields.io/github/stars/openembedded/bitbake) ![GitHub last commit](https://img.shields.io/github/last-commit/openembedded/bitbake)](https://github.com/openembedded/bitbake) - A make-like build tool for embedded Linux.
+- [doit ![GitHub Repo Stars](https://img.shields.io/github/stars/pydoit/doit) ![GitHub last commit](https://img.shields.io/github/last-commit/pydoit/doit)](https://github.com/pydoit/doit) - A task runner and build tool.
 - [invoke ![GitHub Repo Stars](https://img.shields.io/github/stars/pyinvoke/invoke) ![GitHub last commit](https://img.shields.io/github/last-commit/pyinvoke/invoke)](https://github.com/pyinvoke/invoke) - A tool for managing shell-oriented subprocesses and organizing executable Python code into CLI-invokable tasks.
 - [platformio ![GitHub Repo Stars](https://img.shields.io/github/stars/platformio/platformio-core) ![GitHub last commit](https://img.shields.io/github/last-commit/platformio/platformio-core)](https://github.com/platformio/platformio-core) - A console tool to build code with different development platforms.
 - [pybuilder ![GitHub Repo Stars](https://img.shields.io/github/stars/pybuilder/pybuilder) ![GitHub last commit](https://img.shields.io/github/last-commit/pybuilder/pybuilder)](https://github.com/pybuilder/pybuilder) - A continuous build tool written in pure Python.
-- [doit ![GitHub Repo Stars](https://img.shields.io/github/stars/pydoit/doit) ![GitHub last commit](https://img.shields.io/github/last-commit/pydoit/doit)](https://github.com/pydoit/doit) - A task runner and build tool.
 - [scons ![GitHub Repo Stars](https://img.shields.io/github/stars/SCons/scons) ![GitHub last commit](https://img.shields.io/github/last-commit/SCons/scons)](https://github.com/SCons/scons) - A software construction tool.
 
 ### Documentation
 
 _Libraries for generating project documentation._
 
-- [sphinx ![GitHub Repo Stars](https://img.shields.io/github/stars/sphinx-doc/sphinx) ![GitHub last commit](https://img.shields.io/github/last-commit/sphinx-doc/sphinx)](https://github.com/sphinx-doc/sphinx/) - Python Documentation generator.
-  - [awesome-sphinxdoc ![GitHub Repo Stars](https://img.shields.io/github/stars/ygzgxyz/awesome-sphinxdoc) ![GitHub last commit](https://img.shields.io/github/last-commit/ygzgxyz/awesome-sphinxdoc)](https://github.com/ygzgxyz/awesome-sphinxdoc)
 - [diagrams ![GitHub Repo Stars](https://img.shields.io/github/stars/mingrammer/diagrams) ![GitHub last commit](https://img.shields.io/github/last-commit/mingrammer/diagrams)](https://github.com/mingrammer/diagrams) - Diagram as Code.
 - [mkdocs ![GitHub Repo Stars](https://img.shields.io/github/stars/mkdocs/mkdocs) ![GitHub last commit](https://img.shields.io/github/last-commit/mkdocs/mkdocs)](https://github.com/mkdocs/mkdocs/) - Markdown friendly documentation generator.
 - [pdoc ![GitHub Repo Stars](https://img.shields.io/github/stars/mitmproxy/pdoc) ![GitHub last commit](https://img.shields.io/github/last-commit/mitmproxy/pdoc)](https://github.com/mitmproxy/pdoc) - Epydoc replacement to auto generate API documentation for Python libraries.
+- [sphinx ![GitHub Repo Stars](https://img.shields.io/github/stars/sphinx-doc/sphinx) ![GitHub last commit](https://img.shields.io/github/last-commit/sphinx-doc/sphinx)](https://github.com/sphinx-doc/sphinx/) - Python Documentation generator.
+  - [awesome-sphinxdoc ![GitHub Repo Stars](https://img.shields.io/github/stars/ygzgxyz/awesome-sphinxdoc) ![GitHub last commit](https://img.shields.io/github/last-commit/ygzgxyz/awesome-sphinxdoc)](https://github.com/ygzgxyz/awesome-sphinxdoc)
 
 **DevOps**
 
@@ -912,7 +912,7 @@ _Libraries for parsing and manipulating specific text formats._
 
 - General
   - [docling ![GitHub Repo Stars](https://img.shields.io/github/stars/docling-project/docling) ![GitHub last commit](https://img.shields.io/github/last-commit/docling-project/docling)](https://github.com/docling-project/docling) - Library for converting documents into structured data.
-  - [kreuzberg ![GitHub Repo Stars](https://img.shields.io/github/stars/kreuzberg-dev/kreuzberg) ![GitHub last commit](https://img.shields.io/github/last-commit/kreuzberg-dev/kreuzberg)](https://github.com/kreuzberg-dev/kreuzberg) - High-performance document extraction library with a Rust core, supporting 62+ formats including PDF, Office, images with OCR, HTML, email, and archives.
+  - [kreuzberg ![GitHub Repo Stars](https://img.shields.io/github/stars/xberg-io/xberg) ![GitHub last commit](https://img.shields.io/github/last-commit/xberg-io/xberg)](https://github.com/xberg-io/xberg) - High-performance document extraction library with a Rust core, supporting 62+ formats including PDF, Office, images with OCR, HTML, email, and archives.
   - [pyelftools ![GitHub Repo Stars](https://img.shields.io/github/stars/eliben/pyelftools) ![GitHub last commit](https://img.shields.io/github/last-commit/eliben/pyelftools)](https://github.com/eliben/pyelftools) - Parsing and analyzing ELF files and DWARF debugging information.
   - [tablib ![GitHub Repo Stars](https://img.shields.io/github/stars/jazzband/tablib) ![GitHub last commit](https://img.shields.io/github/last-commit/jazzband/tablib)](https://github.com/jazzband/tablib) - A module for Tabular Datasets in XLS, CSV, JSON, YAML.
 - MS Office
