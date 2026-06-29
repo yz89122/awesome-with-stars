@@ -447,6 +447,7 @@ _Databases implemented in Python._
 - [pickledb ![GitHub Repo Stars](https://img.shields.io/github/stars/patx/pickledb) ![GitHub last commit](https://img.shields.io/github/last-commit/patx/pickledb)](https://github.com/patx/pickledb) - A simple and lightweight key-value store for Python.
 - [tinydb ![GitHub Repo Stars](https://img.shields.io/github/stars/msiemens/tinydb) ![GitHub last commit](https://img.shields.io/github/last-commit/msiemens/tinydb)](https://github.com/msiemens/tinydb) - A tiny, document-oriented database.
 - [ZODB ![GitHub Repo Stars](https://img.shields.io/github/stars/zopefoundation/ZODB) ![GitHub last commit](https://img.shields.io/github/last-commit/zopefoundation/ZODB)](https://github.com/zopefoundation/ZODB) - A native object database for Python. A key-value and object graph database.
+- [zvec ![GitHub Repo Stars](https://img.shields.io/github/stars/alibaba/zvec) ![GitHub last commit](https://img.shields.io/github/last-commit/alibaba/zvec)](https://github.com/alibaba/zvec) - An embedded vector database for on-device RAG and edge AI, the SQLite of vector databases.
 
 ### Caching
 
