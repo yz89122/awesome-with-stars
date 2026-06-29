@@ -342,6 +342,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [arttime ![GitHub Repo Stars](https://img.shields.io/github/stars/reportaman/arttime) ![GitHub last commit](https://img.shields.io/github/last-commit/reportaman/arttime)](https://github.com/reportaman/arttime) - Featureful timer with native desktop notifications and curated ASCII art.
 - [Tock ![GitHub Repo Stars](https://img.shields.io/github/stars/kriuchkov/tock) ![GitHub last commit](https://img.shields.io/github/last-commit/kriuchkov/tock)](https://github.com/kriuchkov/tock) - Powerful time tracking tool.
 - [Helm ![GitHub Repo Stars](https://img.shields.io/github/stars/0xjuanma/helm) ![GitHub last commit](https://img.shields.io/github/last-commit/0xjuanma/helm)](https://github.com/0xjuanma/helm) - Minimalistic timer.
+- [Focusd ![GitHub Repo Stars](https://img.shields.io/github/stars/0xarchit/Focusd) ![GitHub last commit](https://img.shields.io/github/last-commit/0xarchit/Focusd)](https://github.com/0xarchit/Focusd) - [Windows] A local, privacy-first screen time monitor.
 
 ### Note Taking, Lists, Task Management
 
