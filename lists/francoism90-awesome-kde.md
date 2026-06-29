@@ -136,6 +136,7 @@ Note: Customizations quickly become outdated, it is recommended to look in the [
 - [Window AppMenu Applet ![GitHub Repo Stars](https://img.shields.io/github/stars/psifidotos/applet-window-appmenu) ![GitHub last commit](https://img.shields.io/github/last-commit/psifidotos/applet-window-appmenu)](https://github.com/psifidotos/applet-window-appmenu) - Plasma 5 applet in order to show the window appmenu.
 - [Window Title Applet ![GitHub Repo Stars](https://img.shields.io/github/stars/psifidotos/applet-window-title) ![GitHub last commit](https://img.shields.io/github/last-commit/psifidotos/applet-window-title)](https://github.com/psifidotos/applet-window-title/) - Plasma 5 applet that shows the current window title and icon in your panels.
 - [Karousel ![GitHub Repo Stars](https://img.shields.io/github/stars/peterfajdiga/karousel) ![GitHub last commit](https://img.shields.io/github/last-commit/peterfajdiga/karousel)](https://github.com/peterfajdiga/karousel) - KWin tiling script with scrolling. Works especially well with ultrawide screens.
+- [KDoit ![GitHub Repo Stars](https://img.shields.io/github/stars/lubdhak7414/KDoit) ![GitHub last commit](https://img.shields.io/github/last-commit/lubdhak7414/KDoit)](https://github.com/lubdhak7414/KDoit) - Lightweight to-do list plasmoid for KDE Plasma 6 with nested sublists, priorities, due dates, and UUID-based file sync.
 
 #### KCM Modules and Systems
 
