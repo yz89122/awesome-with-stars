@@ -180,6 +180,10 @@ Algorand is an open-source, proof of stake Blockchain and smart contract computi
 - [wen-tools ![GitHub Repo Stars](https://img.shields.io/github/stars/LoafPickleWW/wen-tools) ![GitHub last commit](https://img.shields.io/github/last-commit/LoafPickleWW/wen-tools)](https://github.com/LoafPickleWW/wen-tools) - Bulk operations tool for Algorand.
 - [algonoderewards ![GitHub Repo Stars](https://img.shields.io/github/stars/cryptomalgo/algonoderewards) ![GitHub last commit](https://img.shields.io/github/last-commit/cryptomalgo/algonoderewards)](https://github.com/cryptomalgo/algonoderewards) - Track and visualize Algorand node rewards using Nodely API.
 - [xGov-Guru ![GitHub Repo Stars](https://img.shields.io/github/stars/SilentRhetoric/xGov-Guru) ![GitHub last commit](https://img.shields.io/github/last-commit/SilentRhetoric/xGov-Guru)](https://github.com/SilentRhetoric/xGov-Guru) - Tool to browse xGov voting data and proposals.
+- [Algo Snow](https://dragmz.itch.io/algo-snow) - Interactive browser-based Algorand-themed game.
+- [Algorand Mempool Visualizer](https://mempool.algorand.ing/) - Real-time visualization of transactions entering the Algorand mempool.
+- [AlgoRadio](https://algocities.pages.dev/landmark/allgoradio) - Experimental Algorand-themed radio experience.
+- [Sign Zero](https://sign-zero.vercel.app/) - Lightweight demo app exploring authentication and signing flows.
 
 ### AlgoKit Community Templates
 
