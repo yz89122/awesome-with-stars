@@ -254,7 +254,7 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 | <a href="https://www.disasterready.org/free-certificate-project-management" target="_blank" rel="noopener noreferrer">Project Management Essentials</a> | Disaster Ready | Beginner | 5 | 🏅 |
 | <a href="https://www.life-global.org/course/380-agile-project-management" target="_blank" rel="noopener noreferrer">Agile Project Management</a> | HP / Life Global | Beginner | 0.5 | 🏆 |
 
-<a href="https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents" target="_blank" rel="noopener noreferrer">⬆���</a>
+<a href="https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents" target="_blank" rel="noopener noreferrer">⬆️</a>
 
 ### Support
 
