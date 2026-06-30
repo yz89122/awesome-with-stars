@@ -127,6 +127,7 @@ Custom timers, timelines, and task scheduling.
 - [Timer ![GitHub Repo Stars](https://img.shields.io/github/stars/nommiin/Timers) ![GitHub last commit](https://img.shields.io/github/last-commit/nommiin/Timers)](https://github.com/nommiin/Timers) - Timer methods based on setTimeout and setInterval from JS.
 - [GMTimeLine ![GitHub Repo Stars](https://img.shields.io/github/stars/TimVN/GMTimeLine) ![GitHub last commit](https://img.shields.io/github/last-commit/TimVN/GMTimeLine)](https://github.com/TimVN/GMTimeLine) - A pure code alternative to GameMaker timelines.
 - [Agenda ![GitHub Repo Stars](https://img.shields.io/github/stars/benal20/Agenda.gml) ![GitHub last commit](https://img.shields.io/github/last-commit/benal20/Agenda.gml)](https://github.com/benal20/Agenda.gml) - Schedule and delay the execution of callbacks.
+- [GMMT ![GitHub Repo Stars](https://img.shields.io/github/stars/erkan612/GMMT) ![GitHub last commit](https://img.shields.io/github/last-commit/erkan612/GMMT)](https://github.com/erkan612/GMMT) - Tweening framework with 30+ easing functions, keyframes, clips, motion paths, spring physics, oscillation, perlin noise, and full playback control.
 
 ## Async
 

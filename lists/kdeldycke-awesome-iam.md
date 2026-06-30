@@ -626,7 +626,7 @@ Useful to identified clients, catch and block swarms of bots, and limit effects 
 
 - [`hosts` ![GitHub Repo Stars](https://img.shields.io/github/stars/StevenBlack/hosts) ![GitHub last commit](https://img.shields.io/github/last-commit/StevenBlack/hosts)](https://github.com/StevenBlack/hosts) - 🆓 Consolidates reputable hosts files, and merges them into a unified hosts file with duplicates removed.
 
-- [`nextdns/metadata` ![GitHub Repo Stars](https://img.shields.io/github/stars/nextdns/metadata) ![GitHub last commit](https://img.shields.io/github/last-commit/nextdns/metadata)](https://github.com/nextdns/metadata) - 💸 Extensive collection of list for security, privacy and parental control.
+- [`nextdns/metadata` ![GitHub Repo Stars](https://img.shields.io/github/stars/nextdns/metadata) ![GitHub last commit](https://img.shields.io/github/last-commit/nextdns/metadata)](https://github.com/nextdns/metadata) - �� Extensive collection of list for security, privacy and parental control.
 
 - [The Public Suffix List ![GitHub Repo Stars](https://img.shields.io/github/stars/publicsuffix/list) ![GitHub last commit](https://img.shields.io/github/last-commit/publicsuffix/list)](https://github.com/publicsuffix/list) - 🆓 Mozilla's registry of public suffixes, under which Internet users can (or historically could) directly register names.
 
