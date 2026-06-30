@@ -573,6 +573,8 @@ These projects are exceptionally high quality, have a proven trackrecord, and ar
 
 - [JARVIS ![GitHub Repo Stars](https://img.shields.io/github/stars/hyhmrright/JARVIS) ![GitHub last commit](https://img.shields.io/github/last-commit/hyhmrright/JARVIS)](https://github.com/hyhmrright/JARVIS) - Self-hosted AI assistant platform with Vue 3 frontend, Pinia state management, TypeScript, and real-time SSE streaming chat. FastAPI backend with LangGraph ReAct agents, RAG knowledge base, multi-LLM support (DeepSeek/OpenAI/Anthropic), and plugin SDK.
 - [Simple IoT ![GitHub Repo Stars](https://img.shields.io/github/stars/dingdaoyi/simple-iot) ![GitHub last commit](https://img.shields.io/github/last-commit/dingdaoyi/simple-iot)](https://github.com/dingdaoyi/simple-iot) - Single-binary self-hosted IoT platform with a Vue 3 + Element Plus admin SPA. Visual drag-and-drop rule engine, real-time device dashboard with ECharts, hot-loaded protocol scripts, MQTT broker built-in. Spring Boot 4 backend; lightweight alternative to ThingsBoard CE.
+- [MarkerOn ![GitHub Repo Stars](https://img.shields.io/github/stars/ifer47/markeron) ![GitHub last commit](https://img.shields.io/github/last-commit/ifer47/markeron)](https://github.com/ifer47/markeron) - Lightweight screen annotation tool built with Tauri v2, Vue 3, and Canvas API for drawing, highlighting, and annotating anywhere on desktop.
+
 ### Commercial Products
 
 - [Wijmo](https://wijmo.com/products/wijmo-5/) - A collection of UI controls with VueJS support.
@@ -745,6 +747,7 @@ These projects are exceptionally high quality, have a proven trackrecord, and ar
 - [Chris Courses](https://chriscourses.com) - JavaScript and 2D game dev learning platform with interactive videos, quizzes, and code challenges
 - [BulkPicTools](https://bulkpictools.com) - Privacy-first bulk image processor built with Vue 3 and WebAssembly.
 - [Shiko](https://shiko.vet) - Veterinary clinic management platform with appointment scheduling, interactive clinic directory with maps, and multi-platform support.
+- [Text to Handwriting](https://www.primenotepad.com/tools/text-to-handwriting) - Convert typed text into realistic handwritten notes online.
 
 ### Interactive Experiences
 
@@ -1462,6 +1465,7 @@ _Retrieve data over HTTP_
 - [swrv ![GitHub Repo Stars](https://img.shields.io/github/stars/Kong/swrv) ![GitHub last commit](https://img.shields.io/github/last-commit/Kong/swrv)](https://github.com/Kong/swrv) - Stale-while-revalidate data fetching for Vue.
 - [vue-vroom ![GitHub Repo Stars](https://img.shields.io/github/stars/frederikbache/vue-vroom) ![GitHub last commit](https://img.shields.io/github/last-commit/frederikbache/vue-vroom)](https://github.com/frederikbache/vue-vroom) - A plugin for REST APIs, that lets you quickly generate type safe stores and a mock API with minimal config.
 - [tanstack-query ![GitHub Repo Stars](https://img.shields.io/github/stars/tanstack/query) ![GitHub last commit](https://img.shields.io/github/last-commit/tanstack/query)](https://github.com/tanstack/query) - Powerful asynchronous state management.
+- [@stitchapi/vue ![GitHub Repo Stars](https://img.shields.io/github/stars/rejifald/StitchAPI) ![GitHub last commit](https://img.shields.io/github/last-commit/rejifald/StitchAPI)](https://github.com/rejifald/StitchAPI/tree/main/packages/vue) - Streaming-first StitchAPI bindings: typed, validated `useStitch` / `useStitchStream` composables that re-render as response deltas arrive.
 
 #### i18n
 
@@ -1646,6 +1650,7 @@ _Text editor plugins_
 
 _Scaffold / boilerplate / seed / starter kits / stack ensemble / Yeoman generator_
 
+- [ILUMINATY ![GitHub Repo Stars](https://img.shields.io/github/stars/LuynoxRD/ILUMINATY) ![GitHub last commit](https://img.shields.io/github/last-commit/LuynoxRD/ILUMINATY)](https://github.com/LuynoxRD/ILUMINATY) - Vue 3 + Vite SSG template for editorial sites, directories, events and blogs with Sanity CMS integration.
 - [Vite ![GitHub Repo Stars](https://img.shields.io/github/stars/vitejs/vite) ![GitHub last commit](https://img.shields.io/github/last-commit/vitejs/vite)](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
 - [Create Vue ![GitHub Repo Stars](https://img.shields.io/github/stars/vuejs/create-vue) ![GitHub last commit](https://img.shields.io/github/last-commit/vuejs/create-vue)](https://github.com/vuejs/create-vue)
 - [vuesion ![GitHub Repo Stars](https://img.shields.io/github/stars/vuesion/vuesion) ![GitHub last commit](https://img.shields.io/github/last-commit/vuesion/vuesion)](https://github.com/vuesion/vuesion) - Vuesion is a boilerplate that helps product teams build faster than ever with fewer headaches and modern best practices across engineering & design.
