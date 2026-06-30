@@ -549,7 +549,7 @@ Part 1](https://0fps.net/2014/02/10/replication-in-networked-games-overview-part
 ### 3D
 
 
-[World Building in Blender by Ian Hubert](https://www.youtube.com/watch?v=whPWKecazgM) 💠��� - The best resource for thinking about 3D art, possibly ever.
+[World Building in Blender by Ian Hubert](https://www.youtube.com/watch?v=whPWKecazgM) 💠🟪 - The best resource for thinking about 3D art, possibly ever.
 
 
 [Sculpting in Blender](https://www.artstation.com/learning/courses/3Va/intro-to-sculpting-in-blender/chapters/8OjR/intro) 🟪 - A short, free course on sculpting in Blender.
@@ -814,7 +814,7 @@ Royalty free music! Don't forget to check the license.
 [Leveling the Playing Field](https://ltpf.ramiismail.com) 💠🟪 - A blog/newsletter by Rami Ismail with advice on business, marketing, skill development, and various topics needed to run an indie studio. Past newsletters are archived here. I personally recommend "Budget Viability" as a starting point.
 
 
-[How to Market a Game](https://howtomarketagame.com) 💠🟪 - A blog and a collection of resources by Chris Zukowski with advice on marketing and sales. I personally recommend his GDC talks "Empathizing with Steam: How People Shop for Your Game" and "What to Write So People Buy: Selling Your Game Without Feeling Sleazy" as starting points.
+[How to Market a Game](https://howtomarketagame.com) 💠��� - A blog and a collection of resources by Chris Zukowski with advice on marketing and sales. I personally recommend his GDC talks "Empathizing with Steam: How People Shop for Your Game" and "What to Write So People Buy: Selling Your Game Without Feeling Sleazy" as starting points.
 
 
 [Community Dev Newsletter and Blog](https://www.victoriatran.com) 💠🟪 - A blog and a newsletter by Victoria Tran with advice on community management, social media, and marketing. Past newsletters are archived here. I personally recommend "Failure Marketing" and "Charm your Communities" as starting points.
