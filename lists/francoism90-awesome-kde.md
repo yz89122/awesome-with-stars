@@ -12,7 +12,7 @@
 
 - [Applications](#applications)
 - [Customization](#customization)
-- [Documentation](#documentation)
+- [Documentation](#documentation-and-resources)
 - [Articles](#articles)
 - [Communities](#communities)
 
@@ -131,13 +131,14 @@ Note: Customizations quickly become outdated, it is recommended to look in the [
 - [Dynamic Wallpaper Engine ![GitHub Repo Stars](https://img.shields.io/github/stars/zzag/plasma5-wallpapers-dynamic) ![GitHub last commit](https://img.shields.io/github/last-commit/zzag/plasma5-wallpapers-dynamic)](https://github.com/zzag/plasma5-wallpapers-dynamic) - A wallpaper plugin that continuously updates the desktop background based on the current time in your location.
 - [Hoppla ![GitHub Repo Stars](https://img.shields.io/github/stars/Fuchs/hoppla-sa) ![GitHub last commit](https://img.shields.io/github/last-commit/Fuchs/hoppla-sa)](https://github.com/Fuchs/hoppla-sa) - KDE Plasma desktop widget to control Philips Hue lights.
 - [Kvantum ![GitHub Repo Stars](https://img.shields.io/github/stars/tsujan/Kvantum) ![GitHub last commit](https://img.shields.io/github/last-commit/tsujan/Kvantum)](https://github.com/tsujan/Kvantum) - An SVG-based theme engine for Qt4/Qt5, KDE and LXQt, with an emphasis on elegance, usability and practicality.
-- [Latte-Dock](https://invent.kde.org/plasma/latte-dock) - Latte is a dock based on Plasma frameworks that provides an elegant and intuitive experience for your tasks and plasmoids 📌.
-- [Places Widget ![GitHub Repo Stars](https://img.shields.io/github/stars/dfaust/plasma-applet-places-widget) ![GitHub last commit](https://img.shields.io/github/last-commit/dfaust/plasma-applet-places-widget)](https://github.com/dfaust/plasma-applet-places-widget) - Plasma 5 widget that gives access to user places.
-- [Window AppMenu Applet ![GitHub Repo Stars](https://img.shields.io/github/stars/psifidotos/applet-window-appmenu) ![GitHub last commit](https://img.shields.io/github/last-commit/psifidotos/applet-window-appmenu)](https://github.com/psifidotos/applet-window-appmenu) - Plasma 5 applet in order to show the window appmenu.
-- [Window Title Applet ![GitHub Repo Stars](https://img.shields.io/github/stars/psifidotos/applet-window-title) ![GitHub last commit](https://img.shields.io/github/last-commit/psifidotos/applet-window-title)](https://github.com/psifidotos/applet-window-title/) - Plasma 5 applet that shows the current window title and icon in your panels.
+- [Places Widget ![GitHub Repo Stars](https://img.shields.io/github/stars/dfaust/plasma-applet-places-widget) ![GitHub last commit](https://img.shields.io/github/last-commit/dfaust/plasma-applet-places-widget)](https://github.com/dfaust/plasma-applet-places-widget) - **Plasma 5** widget that gives access to user places.
+- [Window AppMenu Applet ![GitHub Repo Stars](https://img.shields.io/github/stars/psifidotos/applet-window-appmenu) ![GitHub last commit](https://img.shields.io/github/last-commit/psifidotos/applet-window-appmenu)](https://github.com/psifidotos/applet-window-appmenu) - **Plasma 5** applet in order to show the window appmenu.
+- [Window Title Applet ![GitHub Repo Stars](https://img.shields.io/github/stars/psifidotos/applet-window-title) ![GitHub last commit](https://img.shields.io/github/last-commit/psifidotos/applet-window-title)](https://github.com/psifidotos/applet-window-title/) - **Plasma 5** applet that shows the current window title and icon in your panels.
 - [Karousel ![GitHub Repo Stars](https://img.shields.io/github/stars/peterfajdiga/karousel) ![GitHub last commit](https://img.shields.io/github/last-commit/peterfajdiga/karousel)](https://github.com/peterfajdiga/karousel) - KWin tiling script with scrolling. Works especially well with ultrawide screens.
 - [KDoit ![GitHub Repo Stars](https://img.shields.io/github/stars/lubdhak7414/KDoit) ![GitHub last commit](https://img.shields.io/github/last-commit/lubdhak7414/KDoit)](https://github.com/lubdhak7414/KDoit) - Lightweight to-do list plasmoid for KDE Plasma 6 with nested sublists, priorities, due dates, and UUID-based file sync.
-
+- [Latte-Dock](https://invent.kde.org/plasma/latte-dock) - Latte is a dock based on Plasma frameworks that provides an elegant and intuitive experience for your tasks and plasmoids for **Plasma 5** 📌. ⚠️ Unmaintained.
+- [Latte Dock NG ![GitHub Repo Stars](https://img.shields.io/github/stars/ruizhi-lab/latte-dock-ng) ![GitHub last commit](https://img.shields.io/github/last-commit/ruizhi-lab/latte-dock-ng)](https://github.com/ruizhi-lab/latte-dock-ng) is a Wayland-first dock for KDE Plasma 6.5+ that provides an elegant and intuitive experience for your tasks and widgets.
+  
 #### KCM Modules and Systems
 
 - [kcm-wacomtablet](https://invent.kde.org/plasma/wacomtablet/) - KDE GUI for the Wacom Linux Drivers 📌.
@@ -146,17 +147,17 @@ Note: Customizations quickly become outdated, it is recommended to look in the [
 
 #### Themes
 
-- [Adapta KDE ![GitHub Repo Stars](https://img.shields.io/github/stars/PapirusDevelopmentTeam/adapta-kde) ![GitHub last commit](https://img.shields.io/github/last-commit/PapirusDevelopmentTeam/adapta-kde)](https://github.com/PapirusDevelopmentTeam/adapta-kde) - A port of the popular GTK theme Adapta for Plasma 5 desktop with a few additions and extras.
-- [Arc KDE ![GitHub Repo Stars](https://img.shields.io/github/stars/PapirusDevelopmentTeam/arc-kde) ![GitHub last commit](https://img.shields.io/github/last-commit/PapirusDevelopmentTeam/arc-kde)](https://github.com/PapirusDevelopmentTeam/arc-kde) - A port of the popular GTK theme Arc for Plasma 5 desktop with a few additions and extras.
-- [Breath](https://gitlab.manjaro.org/artwork/themes/breath) - Breath Theme for Manjaro Linux (Plasma 5).
+- [Adapta KDE ![GitHub Repo Stars](https://img.shields.io/github/stars/PapirusDevelopmentTeam/adapta-kde) ![GitHub last commit](https://img.shields.io/github/last-commit/PapirusDevelopmentTeam/adapta-kde)](https://github.com/PapirusDevelopmentTeam/adapta-kde) - A port of the popular GTK theme Adapta for **Plasma 5** desktop with a few additions and extras.
+- [Arc KDE ![GitHub Repo Stars](https://img.shields.io/github/stars/PapirusDevelopmentTeam/arc-kde) ![GitHub last commit](https://img.shields.io/github/last-commit/PapirusDevelopmentTeam/arc-kde)](https://github.com/PapirusDevelopmentTeam/arc-kde) - A port of the popular GTK theme Arc for **Plasma 5** desktop with a few additions and extras.
+- [Breath](https://gitlab.manjaro.org/artwork/themes/breath) - Breath Theme for Manjaro Linux (**Plasma 5**).
 - [Canta ![GitHub Repo Stars](https://img.shields.io/github/stars/vinceliuice/Canta-kde) ![GitHub last commit](https://img.shields.io/github/last-commit/vinceliuice/Canta-kde)](https://github.com/vinceliuice/Canta-kde) - A flat design theme for KDE Plasma desktop.
 - [ChromeOS ![GitHub Repo Stars](https://img.shields.io/github/stars/vinceliuice/ChromeOS-kde) ![GitHub last commit](https://img.shields.io/github/last-commit/vinceliuice/ChromeOS-kde)](https://github.com/vinceliuice/ChromeOS-kde) - A materia Design theme for KDE Plasma desktop.
-- [Darkine KDE ![GitHub Repo Stars](https://img.shields.io/github/stars/Rokin05/darkine-kde) ![GitHub last commit](https://img.shields.io/github/last-commit/Rokin05/darkine-kde)](https://github.com/Rokin05/darkine-kde) - Theme for KDE Plasma 5 desktop, SDDM and more.
+- [Darkine KDE ![GitHub Repo Stars](https://img.shields.io/github/stars/Rokin05/darkine-kde) ![GitHub last commit](https://img.shields.io/github/last-commit/Rokin05/darkine-kde)](https://github.com/Rokin05/darkine-kde) - Theme for KDE **Plasma 5** desktop, SDDM and more.
 - [Fluent ![GitHub Repo Stars](https://img.shields.io/github/stars/vinceliuice/Fluent-kde) ![GitHub last commit](https://img.shields.io/github/last-commit/vinceliuice/Fluent-kde)](https://github.com/vinceliuice/Fluent-kde) - A Microsoft inspired fluent Design theme for the KDE Plasma desktop.
-- [Helium](https://store.kde.org/p/998869/) - A translucent theme for Plasma 5.
+- [Helium](https://store.kde.org/p/998869/) - A translucent theme for **Plasma 5**.
 - [Hello ![GitHub Repo Stars](https://img.shields.io/github/stars/n4n0GH/hello) ![GitHub last commit](https://img.shields.io/github/last-commit/n4n0GH/hello)](https://github.com/n4n0GH/hello) - A compilation of various color-schemes, themes, icons and more for the KDE Plasma desktop. It is unopinionated, putting you in charge.
 - [Layan ![GitHub Repo Stars](https://img.shields.io/github/stars/vinceliuice/Layan-kde) ![GitHub last commit](https://img.shields.io/github/last-commit/vinceliuice/Layan-kde)](https://github.com/vinceliuice/Layan-kde) - A flat design theme for KDE Plasma desktop.
-- [Materia KDE ![GitHub Repo Stars](https://img.shields.io/github/stars/PapirusDevelopmentTeam/materia-kde) ![GitHub last commit](https://img.shields.io/github/last-commit/PapirusDevelopmentTeam/materia-kde)](https://github.com/PapirusDevelopmentTeam/materia-kde) - A port of the popular GTK theme Materia for Plasma 5 desktop with a few additions and extras.
+- [Materia KDE ![GitHub Repo Stars](https://img.shields.io/github/stars/PapirusDevelopmentTeam/materia-kde) ![GitHub last commit](https://img.shields.io/github/last-commit/PapirusDevelopmentTeam/materia-kde)](https://github.com/PapirusDevelopmentTeam/materia-kde) - A port of the popular GTK theme Materia for **Plasma 5** desktop with a few additions and extras.
 - [McMojave ![GitHub Repo Stars](https://img.shields.io/github/stars/vinceliuice/McMojave-kde) ![GitHub last commit](https://img.shields.io/github/last-commit/vinceliuice/McMojave-kde)](https://github.com/vinceliuice/McMojave-kde) - A MacOSX Mojave like theme for KDE Plasma desktop.
 - [Orchis ![GitHub Repo Stars](https://img.shields.io/github/stars/vinceliuice/Orchis-kde) ![GitHub last commit](https://img.shields.io/github/last-commit/vinceliuice/Orchis-kde)](https://github.com/vinceliuice/Orchis-kde) - A materia Design theme for KDE Plasma desktop.
 - [Qogir ![GitHub Repo Stars](https://img.shields.io/github/stars/vinceliuice/Qogir-kde) ![GitHub last commit](https://img.shields.io/github/last-commit/vinceliuice/Qogir-kde)](https://github.com/vinceliuice/Qogir-kde) - A flat design theme for KDE Plasma desktop.
@@ -199,7 +200,7 @@ Note: Customizations quickly become outdated, it is recommended to look in the [
 
 #### Display Manager
 
-- [Chili ![GitHub Repo Stars](https://img.shields.io/github/stars/MarianArlt/kde-plasma-chili) ![GitHub last commit](https://img.shields.io/github/last-commit/MarianArlt/kde-plasma-chili)](https://github.com/MarianArlt/kde-plasma-chili) - The hottest login theme around for KDE Plasma 5.
+- [Chili ![GitHub Repo Stars](https://img.shields.io/github/stars/MarianArlt/kde-plasma-chili) ![GitHub last commit](https://img.shields.io/github/last-commit/MarianArlt/kde-plasma-chili)](https://github.com/MarianArlt/kde-plasma-chili) - The hottest login theme around for KDE **Plasma 5**.
 - [Delicious ![GitHub Repo Stars](https://img.shields.io/github/stars/stuomas/delicious-sddm-theme) ![GitHub last commit](https://img.shields.io/github/last-commit/stuomas/delicious-sddm-theme)](https://github.com/stuomas/delicious-sddm-theme) - A delicious SDDM theme for DE collectors/addicts.
 - [Sugar Candy](https://framagit.org/MarianArlt/sddm-sugar-candy) - The sweetest login theme available for the SDDM display manager.
 
