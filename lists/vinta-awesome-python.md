@@ -912,7 +912,7 @@ _Libraries for parsing and manipulating specific text formats._
 
 - General
   - [docling ![GitHub Repo Stars](https://img.shields.io/github/stars/docling-project/docling) ![GitHub last commit](https://img.shields.io/github/last-commit/docling-project/docling)](https://github.com/docling-project/docling) - Library for converting documents into structured data.
-  - [kreuzberg ![GitHub Repo Stars](https://img.shields.io/github/stars/xberg-io/xberg) ![GitHub last commit](https://img.shields.io/github/last-commit/xberg-io/xberg)](https://github.com/xberg-io/xberg) - High-performance document extraction library with a Rust core, supporting 62+ formats including PDF, Office, images with OCR, HTML, email, and archives.
+  - [xberg ![GitHub Repo Stars](https://img.shields.io/github/stars/xberg-io/xberg) ![GitHub last commit](https://img.shields.io/github/last-commit/xberg-io/xberg)](https://github.com/xberg-io/xberg) - High-performance document intelligence library with a Rust core, extracting text, tables, and metadata from 97+ formats including PDF, Office, images (with OCR), HTML, email, and archives.
   - [pyelftools ![GitHub Repo Stars](https://img.shields.io/github/stars/eliben/pyelftools) ![GitHub last commit](https://img.shields.io/github/last-commit/eliben/pyelftools)](https://github.com/eliben/pyelftools) - Parsing and analyzing ELF files and DWARF debugging information.
   - [tablib ![GitHub Repo Stars](https://img.shields.io/github/stars/jazzband/tablib) ![GitHub last commit](https://img.shields.io/github/last-commit/jazzband/tablib)](https://github.com/jazzband/tablib) - A module for Tabular Datasets in XLS, CSV, JSON, YAML.
 - MS Office
