@@ -628,7 +628,7 @@ _Language specific game engine development libraries / frameworks / code._
 - C#: Gui
     - 🎉 [Apos.Gui ![GitHub Repo Stars](https://img.shields.io/github/stars/Apostolique/Apos.Gui) ![GitHub last commit](https://img.shields.io/github/last-commit/Apostolique/Apos.Gui)](https://github.com/Apostolique/Apos.Gui) - UI library for _MonoGame_.
     - 🎉 [Avalonia ![GitHub Repo Stars](https://img.shields.io/github/stars/AvaloniaUI/Avalonia) ![GitHub last commit](https://img.shields.io/github/last-commit/AvaloniaUI/Avalonia)](https://github.com/AvaloniaUI/Avalonia) - Cross-platform gui framework for .NET. [[Website](https://avaloniaui.net/)]
-    - �� [GeonBit.UI ![GitHub Repo Stars](https://img.shields.io/github/stars/RonenNess/GeonBit.UI) ![GitHub last commit](https://img.shields.io/github/last-commit/RonenNess/GeonBit.UI)](https://github.com/RonenNess/GeonBit.UI) - Gui for _MonoGame_ projects.
+    - 🎉 [GeonBit.UI ![GitHub Repo Stars](https://img.shields.io/github/stars/RonenNess/GeonBit.UI) ![GitHub last commit](https://img.shields.io/github/last-commit/RonenNess/GeonBit.UI)](https://github.com/RonenNess/GeonBit.UI) - Gui for _MonoGame_ projects.
     - 🎉 [MGUI ![GitHub Repo Stars](https://img.shields.io/github/stars/Videogamers0/MGUI) ![GitHub last commit](https://img.shields.io/github/last-commit/Videogamers0/MGUI)](https://github.com/Videogamers0/MGUI) - UI framework for the _MonoGame_ game framework.
     - 🎉 [MonoGame.Forms ![GitHub Repo Stars](https://img.shields.io/github/stars/BlizzCrafter/MonoGame.Forms) ![GitHub last commit](https://img.shields.io/github/last-commit/BlizzCrafter/MonoGame.Forms)](https://github.com/BlizzCrafter/MonoGame.Forms) - _MonoGame_ render window for Windows Forms.
     - 🎉 [Myra ![GitHub Repo Stars](https://img.shields.io/github/stars/rds1983/Myra) ![GitHub last commit](https://img.shields.io/github/last-commit/rds1983/Myra)](https://github.com/rds1983/Myra) - Gui library for _MonoGame_, _FNA_, and _Stride_.
@@ -689,7 +689,7 @@ _Language specific game engine development libraries / frameworks / code._
 - 📚 [Awesome Haxe Game Dev ![GitHub Repo Stars](https://img.shields.io/github/stars/Dvergar/awesome-haxe-gamedev) ![GitHub last commit](https://img.shields.io/github/last-commit/Dvergar/awesome-haxe-gamedev)](https://github.com/Dvergar/awesome-haxe-gamedev) - Awesome list of game dev resources for Haxe.
 - 🌎 [Haxe](https://haxe.org) - Produce cross-platform native code. [[GitHub ![GitHub Repo Stars](https://img.shields.io/github/stars/HaxeFoundation/haxe) ![GitHub last commit](https://img.shields.io/github/last-commit/HaxeFoundation/haxe)](https://github.com/HaxeFoundation/haxe)]
 - 📚 [Haxe Blog: Game Engine](https://kircode.com/post/how-i-wrote-my-own-3d-game-engine-and-shipped-a-game-with-it-in-20-months) - "How I wrote my own 3D game engine and shipped a game in 20 months".
-- 📚 [Haxe Blog: OpenFL](https://www.gamedeveloper.com/programming/flash-is-dead-long-live-openfl-) - "Flash is dead, long live OpenFL".
+- ���� [Haxe Blog: OpenFL](https://www.gamedeveloper.com/programming/flash-is-dead-long-live-openfl-) - "Flash is dead, long live OpenFL".
 - Haxe: Animation
     - 🎉 [Actuate ![GitHub Repo Stars](https://img.shields.io/github/stars/jgranick/actuate) ![GitHub last commit](https://img.shields.io/github/last-commit/jgranick/actuate)](https://github.com/jgranick/actuate) - Flexible, fast tween library.
     - 🎉 [DragonBones ![GitHub Repo Stars](https://img.shields.io/github/stars/openfl/dragonbones) ![GitHub last commit](https://img.shields.io/github/last-commit/openfl/dragonbones)](https://github.com/openfl/dragonbones) - Runtime support for _DragonBones_ skeletal animation.
@@ -1003,7 +1003,7 @@ _Language specific game engine development libraries / frameworks / code._
 ### Pascal
 - 📚 [Awesome Pascal ![GitHub Repo Stars](https://img.shields.io/github/stars/Fr0sT-Brutal/awesome-pascal) ![GitHub last commit](https://img.shields.io/github/last-commit/Fr0sT-Brutal/awesome-pascal)](https://github.com/Fr0sT-Brutal/awesome-pascal) - Curated list of Delphi / Pascal resources.
 - 📚 [Delphi](https://en.wikipedia.org/wiki/Delphi_(software)) - Pascal dialect and popular IDE with cross-platform support.
-- 🌎 [Free Pascal](https://www.freepascal.org/) - Mature, open source Pascal compiler.
+- ��� [Free Pascal](https://www.freepascal.org/) - Mature, open source Pascal compiler.
 - 📚 [Pascal Tutorials](https://www.tutorialspoint.com/pascal/index.htm) - Simple and easy Pascal tutorials.
 - Pascal: Game Engine w/Editor
     - 🎉 [Castle ![GitHub Repo Stars](https://img.shields.io/github/stars/castle-engine/castle-engine) ![GitHub last commit](https://img.shields.io/github/last-commit/castle-engine/castle-engine)](https://github.com/castle-engine/castle-engine) - Cross-platform 2D/3D game engine and editor. [[Website](https://castle-engine.io/)]
