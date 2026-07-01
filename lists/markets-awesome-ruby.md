@@ -50,6 +50,7 @@ Thanks to all [contributors ![GitHub Repo Stars](https://img.shields.io/github/s
 </div>
 
 * [Admin Interface](#admin-interface)
+* [AI and LLMs](#ai-and-llms)
 * [Analytics](#analytics)
 * [API Builder and Discovery](#api-builder-and-discovery)
 * [Assets](#assets)
@@ -84,6 +85,7 @@ Thanks to all [contributors ![GitHub Repo Stars](https://img.shields.io/github/s
 * [Date and Time Processing](#date-and-time-processing)
 * [Debugging Tools](#debugging-tools)
 * [Decorators](#decorators)
+* [Developer Tooling](#developer-tooling)
 * [DevOps Tools](#devops-tools)
 * [Diff](#diff)
 * [Discover](#discover)
@@ -152,6 +154,7 @@ Thanks to all [contributors ![GitHub Repo Stars](https://img.shields.io/github/s
 * [Template Engine](#template-engine)
 * [Testing](#testing)
 * [Third-party APIs](#third-party-apis)
+* [Type Signatures and Type Checking](#type-signatures-and-type-checking)
 * [Video](#video)
 * [View components](#view-components)
 * [View helpers](#view-helpers)
@@ -172,6 +175,16 @@ Thanks to all [contributors ![GitHub Repo Stars](https://img.shields.io/github/s
 * [MotorAdmin ![GitHub Repo Stars](https://img.shields.io/github/stars/motor-admin/motor-admin-rails) ![GitHub last commit](https://img.shields.io/github/last-commit/motor-admin/motor-admin-rails)](https://github.com/motor-admin/motor-admin-rails) - A low-code Admin panel and Business Intelligence Rails engine. No DSL - configurable from the UI.
 * [RailsAdmin ![GitHub Repo Stars](https://img.shields.io/github/stars/sferik/rails_admin) ![GitHub last commit](https://img.shields.io/github/last-commit/sferik/rails_admin)](https://github.com/sferik/rails_admin) - A Rails engine that provides an easy-to-use interface for managing your data.
 * [Trestle ![GitHub Repo Stars](https://img.shields.io/github/stars/TrestleAdmin/trestle) ![GitHub last commit](https://img.shields.io/github/last-commit/TrestleAdmin/trestle)](https://github.com/TrestleAdmin/trestle) - A modern, responsive admin framework for Rails. Build a back-end in minutes that will grow with the needs of your application.
+
+## AI and LLMs
+
+* [anthropic-sdk-ruby ![GitHub Repo Stars](https://img.shields.io/github/stars/anthropics/anthropic-sdk-ruby) ![GitHub last commit](https://img.shields.io/github/last-commit/anthropics/anthropic-sdk-ruby)](https://github.com/anthropics/anthropic-sdk-ruby) - The official Ruby SDK for the Anthropic API, for building applications with Claude.
+* [langchain.rb ![GitHub Repo Stars](https://img.shields.io/github/stars/patterns-ai-core/langchainrb) ![GitHub last commit](https://img.shields.io/github/last-commit/patterns-ai-core/langchainrb)](https://github.com/patterns-ai-core/langchainrb) - Library for building LLM-powered applications in Ruby.
+* [openai-ruby ![GitHub Repo Stars](https://img.shields.io/github/stars/openai/openai-ruby) ![GitHub last commit](https://img.shields.io/github/last-commit/openai/openai-ruby)](https://github.com/openai/openai-ruby) - The official Ruby SDK for the OpenAI API.
+* [RubyLLM ![GitHub Repo Stars](https://img.shields.io/github/stars/crmne/ruby_llm) ![GitHub last commit](https://img.shields.io/github/last-commit/crmne/ruby_llm)](https://github.com/crmne/ruby_llm) - A delightful Ruby way to work with AI, providing one unified interface to OpenAI, Anthropic, Gemini, and other LLM providers.
+* [ruby-openai ![GitHub Repo Stars](https://img.shields.io/github/stars/alexrudall/ruby-openai) ![GitHub last commit](https://img.shields.io/github/last-commit/alexrudall/ruby-openai)](https://github.com/alexrudall/ruby-openai) - OpenAI API + Ruby!
+* Model Context Protocol (MCP)
+  * [ruby-sdk ![GitHub Repo Stars](https://img.shields.io/github/stars/modelcontextprotocol/ruby-sdk) ![GitHub last commit](https://img.shields.io/github/last-commit/modelcontextprotocol/ruby-sdk)](https://github.com/modelcontextprotocol/ruby-sdk) - The official Ruby SDK for the Model Context Protocol (MCP), for building MCP servers and clients.
 
 ## Analytics
 
@@ -277,6 +290,7 @@ Thanks to all [contributors ![GitHub Repo Stars](https://img.shields.io/github/s
 ## Business logic
 
 * [ActiveInteraction ![GitHub Repo Stars](https://img.shields.io/github/stars/AaronLasseigne/active_interaction) ![GitHub last commit](https://img.shields.io/github/last-commit/AaronLasseigne/active_interaction)](https://github.com/AaronLasseigne/active_interaction) - Manage application specific business logic.
+* [Dentaku ![GitHub Repo Stars](https://img.shields.io/github/stars/rubysolo/dentaku) ![GitHub last commit](https://img.shields.io/github/last-commit/rubysolo/dentaku)](https://github.com/rubysolo/dentaku) - A parser and evaluator for mathematical and logical formulas, safely evaluating user-supplied expressions at runtime.
 * [Interactor ![GitHub Repo Stars](https://img.shields.io/github/stars/collectiveidea/interactor) ![GitHub last commit](https://img.shields.io/github/last-commit/collectiveidea/interactor)](https://github.com/collectiveidea/interactor) - Interactor provides a common interface for performing complex interactions in a single request.
 * [Light Service ![GitHub Repo Stars](https://img.shields.io/github/stars/adomokos/light-service) ![GitHub last commit](https://img.shields.io/github/last-commit/adomokos/light-service)](https://github.com/adomokos/light-service) - Series of Actions with an emphasis on simplicity.
 * [Mutations ![GitHub Repo Stars](https://img.shields.io/github/stars/cypriss/mutations) ![GitHub last commit](https://img.shields.io/github/last-commit/cypriss/mutations)](https://github.com/cypriss/mutations) - Compose your business logic into commands that sanitize and validate input.
@@ -375,9 +389,9 @@ Thanks to all [contributors ![GitHub Repo Stars](https://img.shields.io/github/s
 * [rails_best_practices ![GitHub Repo Stars](https://img.shields.io/github/stars/railsbp/rails_best_practices) ![GitHub last commit](https://img.shields.io/github/last-commit/railsbp/rails_best_practices)](https://github.com/railsbp/rails_best_practices) - A code metric tool for rails projects.
 * [Reek ![GitHub Repo Stars](https://img.shields.io/github/stars/troessner/reek) ![GitHub last commit](https://img.shields.io/github/last-commit/troessner/reek)](https://github.com/troessner/reek) - Code smell detector for Ruby.
 * [Rubycritic ![GitHub Repo Stars](https://img.shields.io/github/stars/whitesmith/rubycritic) ![GitHub last commit](https://img.shields.io/github/last-commit/whitesmith/rubycritic)](https://github.com/whitesmith/rubycritic) - A Ruby code quality reporter.
+* [rubydex ![GitHub Repo Stars](https://img.shields.io/github/stars/Shopify/rubydex) ![GitHub last commit](https://img.shields.io/github/last-commit/Shopify/rubydex)](https://github.com/Shopify/rubydex) - A high-performance static analysis suite for Ruby, built in Rust with Ruby APIs.
 * [Scientist ![GitHub Repo Stars](https://img.shields.io/github/stars/github/scientist) ![GitHub last commit](https://img.shields.io/github/last-commit/github/scientist)](https://github.com/github/scientist) - A Ruby library for carefully refactoring critical paths.
 * [SimpleCov ![GitHub Repo Stars](https://img.shields.io/github/stars/colszowka/simplecov) ![GitHub last commit](https://img.shields.io/github/last-commit/colszowka/simplecov)](https://github.com/colszowka/simplecov) - Code coverage for Ruby 1.9+ with a powerful configuration library and automatic merging of coverage across test suites.
-* [Sorbet ![GitHub Repo Stars](https://img.shields.io/github/stars/sorbet/sorbet) ![GitHub last commit](https://img.shields.io/github/last-commit/sorbet/sorbet)](https://github.com/sorbet/sorbet) - A static type checker for Ruby.
 * [Suture ![GitHub Repo Stars](https://img.shields.io/github/stars/testdouble/suture) ![GitHub last commit](https://img.shields.io/github/last-commit/testdouble/suture)](https://github.com/testdouble/suture) - A Ruby gem that helps you refactor your legacy code.
 * [Traceroute ![GitHub Repo Stars](https://img.shields.io/github/stars/amatsuda/traceroute) ![GitHub last commit](https://img.shields.io/github/last-commit/amatsuda/traceroute)](https://github.com/amatsuda/traceroute) - A Rake task gem that helps you find the dead routes and actions for your Rails 3+ app
 
@@ -579,6 +593,22 @@ Thanks to all [contributors ![GitHub Repo Stars](https://img.shields.io/github/s
 * [Responders ![GitHub Repo Stars](https://img.shields.io/github/stars/heartcombo/responders) ![GitHub last commit](https://img.shields.io/github/last-commit/heartcombo/responders)](https://github.com/heartcombo/responders) - A set of Rails responders to dry up your application.
 * [ShowFor ![GitHub Repo Stars](https://img.shields.io/github/stars/heartcombo/show_for) ![GitHub last commit](https://img.shields.io/github/last-commit/heartcombo/show_for)](https://github.com/heartcombo/show_for) - Quickly show a model information with I18n features. Like form_for for displaying model data.
 
+## Developer Tooling
+
+* Language Servers
+  * [Fuzzy Ruby Server ![GitHub Repo Stars](https://img.shields.io/github/stars/doompling/fuzzy_ruby_server) ![GitHub last commit](https://img.shields.io/github/last-commit/doompling/fuzzy_ruby_server)](https://github.com/doompling/fuzzy_ruby_server) - A Ruby language server offering fuzzy search-based definitions, references, and completions.
+  * [Ruby LSP ![GitHub Repo Stars](https://img.shields.io/github/stars/Shopify/ruby-lsp) ![GitHub last commit](https://img.shields.io/github/last-commit/Shopify/ruby-lsp)](https://github.com/Shopify/ruby-lsp) - An opinionated language server for Ruby with support for pull diagnostics, formatting, and more.
+  * [Solargraph ![GitHub Repo Stars](https://img.shields.io/github/stars/castwide/solargraph) ![GitHub last commit](https://img.shields.io/github/last-commit/castwide/solargraph)](https://github.com/castwide/solargraph) - A Ruby language server providing IntelliSense, code completion, and inline documentation.
+* Editor Extensions
+  * [Ruby LSP (VS Code)](https://marketplace.visualstudio.com/items?itemName=Shopify.ruby-lsp) - VS Code extension providing a rich Ruby development experience powered by Ruby LSP.
+  * [VSCode RuboCop ![GitHub Repo Stars](https://img.shields.io/github/stars/rubocop/vscode-rubocop) ![GitHub last commit](https://img.shields.io/github/last-commit/rubocop/vscode-rubocop)](https://github.com/rubocop/vscode-rubocop) - VS Code extension for RuboCop with autocorrection and lint support.
+  * [VSCode Standard ![GitHub Repo Stars](https://img.shields.io/github/stars/standard/vscode-standard) ![GitHub last commit](https://img.shields.io/github/last-commit/standard/vscode-standard)](https://github.com/standard/vscode-standard) - VS Code extension for StandardRB.
+  * [VSCode rdbg Ruby Debugger](https://marketplace.visualstudio.com/items?itemName=KoichiSasada.vscode-rdbg) - VS Code extension for the debug gem with DAP support.
+* Developer Experience
+  * [debug ![GitHub Repo Stars](https://img.shields.io/github/stars/ruby/debug) ![GitHub last commit](https://img.shields.io/github/last-commit/ruby/debug)](https://github.com/ruby/debug) - The official Ruby debugger with Debug Adapter Protocol (DAP) support.
+  * [ruby-lsp-rails ![GitHub Repo Stars](https://img.shields.io/github/stars/Shopify/ruby-lsp-rails) ![GitHub last commit](https://img.shields.io/github/last-commit/Shopify/ruby-lsp-rails)](https://github.com/Shopify/ruby-lsp-rails) - A Ruby LSP addon for Rails that provides route, model, and association support.
+  * [ruby-lsp-rspec ![GitHub Repo Stars](https://img.shields.io/github/stars/st0012/ruby-lsp-rspec) ![GitHub last commit](https://img.shields.io/github/last-commit/st0012/ruby-lsp-rspec)](https://github.com/st0012/ruby-lsp-rspec) - A Ruby LSP addon that provides enhanced RSpec support, including code lens for running and debugging tests.
+
 ## DevOps Tools
 
 * [Backup ![GitHub Repo Stars](https://img.shields.io/github/stars/backup/backup) ![GitHub last commit](https://img.shields.io/github/last-commit/backup/backup)](https://github.com/backup/backup) - Provides an elegant DSL in Ruby for performing backups on UNIX-like systems.
@@ -695,6 +725,7 @@ Where to discover new Ruby libraries, projects and trends.
 * [rbenv ![GitHub Repo Stars](https://img.shields.io/github/stars/sstephenson/rbenv) ![GitHub last commit](https://img.shields.io/github/last-commit/sstephenson/rbenv)](https://github.com/sstephenson/rbenv) - Use rbenv to pick a Ruby version for your application and guarantee that your development environment matches production.
 * [ruby-build ![GitHub Repo Stars](https://img.shields.io/github/stars/sstephenson/ruby-build) ![GitHub last commit](https://img.shields.io/github/last-commit/sstephenson/ruby-build)](https://github.com/sstephenson/ruby-build) - Compile and install Ruby.
 * [ruby-install ![GitHub Repo Stars](https://img.shields.io/github/stars/postmodern/ruby-install) ![GitHub last commit](https://img.shields.io/github/last-commit/postmodern/ruby-install)](https://github.com/postmodern/ruby-install) - Installs Ruby, JRuby, Rubinius, MagLev or MRuby.
+* [rv](https://rv.dev) - A fast Ruby version and toolchain manager written in Rust.
 * [RVM](https://rvm.io) - RVM is a command-line tool which allows you to easily install, manage, and work with multiple ruby environments from interpreters to sets of gems.
 * [Tokaido ![GitHub Repo Stars](https://img.shields.io/github/stars/tokaido/tokaidoapp) ![GitHub last commit](https://img.shields.io/github/last-commit/tokaido/tokaidoapp)](https://github.com/tokaido/tokaidoapp/releases) - Ruby, Rails, SQLite and Redis encapsulated in a single drag-and-drop OS X app, designed to make installing a working RoR environment easy for beginners.
 * [Uru](https://bitbucket.org/jonforums/uru) - Uru is a lightweight, multi-platform command line tool that helps you use the multiple rubies on your 32/64-bit Linux, OS X, or Windows systems.
@@ -898,12 +929,10 @@ Where to discover new Ruby libraries, projects and trends.
 
 * [AI4R ![GitHub Repo Stars](https://img.shields.io/github/stars/sergiofierens/ai4r) ![GitHub last commit](https://img.shields.io/github/last-commit/sergiofierens/ai4r)](https://github.com/sergiofierens/ai4r) - Algorithms covering several Artificial intelligence fields.
 * [Awesome Machine Learning with Ruby ![GitHub Repo Stars](https://img.shields.io/github/stars/arbox/machine-learning-with-ruby) ![GitHub last commit](https://img.shields.io/github/last-commit/arbox/machine-learning-with-ruby)](https://github.com/arbox/machine-learning-with-ruby) - A Curated List of Ruby Machine Learning Links and Resources.
-* [langchain.rb ![GitHub Repo Stars](https://img.shields.io/github/stars/patterns-ai-core/langchainrb) ![GitHub last commit](https://img.shields.io/github/last-commit/patterns-ai-core/langchainrb)](https://github.com/patterns-ai-core/langchainrb) - Library for building LLM-powered applications in Ruby.
 * [m2cgen ![GitHub Repo Stars](https://img.shields.io/github/stars/BayesWitnesses/m2cgen) ![GitHub last commit](https://img.shields.io/github/last-commit/BayesWitnesses/m2cgen)](https://github.com/BayesWitnesses/m2cgen) - A CLI tool to transpile trained classic ML models into a native Ruby code with zero dependencies.
 * [PredictionIO Ruby SDK ![GitHub Repo Stars](https://img.shields.io/github/stars/PredictionIO/PredictionIO-Ruby-SDK) ![GitHub last commit](https://img.shields.io/github/last-commit/PredictionIO/PredictionIO-Ruby-SDK)](https://github.com/PredictionIO/PredictionIO-Ruby-SDK) - The PredictionIO Ruby SDK provides a convenient API to quickly record your users' behavior and retrieve personalized predictions for them.
 * [rb-libsvm ![GitHub Repo Stars](https://img.shields.io/github/stars/febeling/rb-libsvm) ![GitHub last commit](https://img.shields.io/github/last-commit/febeling/rb-libsvm)](https://github.com/febeling/rb-libsvm) - Ruby language bindings for LIBSVM. SVM is a machine learning and classification algorithm.
 * [ruby-fann ![GitHub Repo Stars](https://img.shields.io/github/stars/tangledpath/ruby-fann) ![GitHub last commit](https://img.shields.io/github/last-commit/tangledpath/ruby-fann)](https://github.com/tangledpath/ruby-fann) - Ruby library for interfacing with FANN (Fast Artificial Neural Network).
-* [ruby-openai ![GitHub Repo Stars](https://img.shields.io/github/stars/alexrudall/ruby-openai) ![GitHub last commit](https://img.shields.io/github/last-commit/alexrudall/ruby-openai)](https://github.com/alexrudall/ruby-openai) - OpenAI API + Ruby!
 * [rumale ![GitHub Repo Stars](https://img.shields.io/github/stars/yoshoku/rumale) ![GitHub last commit](https://img.shields.io/github/last-commit/yoshoku/rumale)](https://github.com/yoshoku/rumale) - A machine learning library with interfaces similar to Scikit-Learn.
 * [TensorFlow ![GitHub Repo Stars](https://img.shields.io/github/stars/ankane/tensorflow) ![GitHub last commit](https://img.shields.io/github/last-commit/ankane/tensorflow)](https://github.com/ankane/tensorflow) - The end-to-end machine learning platform for Ruby.
 * [Torch.rb ![GitHub Repo Stars](https://img.shields.io/github/stars/ankane/torch.rb) ![GitHub last commit](https://img.shields.io/github/last-commit/ankane/torch.rb)](https://github.com/ankane/torch.rb) - Deep learning for Ruby, powered by LibTorch.
@@ -1418,6 +1447,20 @@ Online tools, services and APIs to simplify development.
 * [whatsapp-sdk ![GitHub Repo Stars](https://img.shields.io/github/stars/ignacio-chiazzo/ruby_whatsapp_sdk) ![GitHub last commit](https://img.shields.io/github/last-commit/ignacio-chiazzo/ruby_whatsapp_sdk)](https://github.com/ignacio-chiazzo/ruby_whatsapp_sdk) - Ruby client for the Whatsapp API.
 * [wikipedia ![GitHub Repo Stars](https://img.shields.io/github/stars/kenpratt/wikipedia-client) ![GitHub last commit](https://img.shields.io/github/last-commit/kenpratt/wikipedia-client)](https://github.com/kenpratt/wikipedia-client) - Ruby client for the Wikipedia API.
 * [Yt ![GitHub Repo Stars](https://img.shields.io/github/stars/Fullscreen/yt) ![GitHub last commit](https://img.shields.io/github/last-commit/Fullscreen/yt)](https://github.com/Fullscreen/yt) - An object-oriented Ruby client for YouTube API V3.
+
+## Type Signatures and Type Checking
+
+* [RBS ![GitHub Repo Stars](https://img.shields.io/github/stars/ruby/rbs) ![GitHub last commit](https://img.shields.io/github/last-commit/ruby/rbs)](https://github.com/ruby/rbs) - The official language for describing the structure of Ruby programs. Ships with Ruby and powers type checkers like Steep.
+* [rbs-inline ![GitHub Repo Stars](https://img.shields.io/github/stars/soutaro/rbs-inline) ![GitHub last commit](https://img.shields.io/github/last-commit/soutaro/rbs-inline)](https://github.com/soutaro/rbs-inline) - Write RBS type signatures inline in Ruby source code as comments.
+* [Sorbet ![GitHub Repo Stars](https://img.shields.io/github/stars/sorbet/sorbet) ![GitHub last commit](https://img.shields.io/github/last-commit/sorbet/sorbet)](https://github.com/sorbet/sorbet) - A static type checker for Ruby.
+* [Sord ![GitHub Repo Stars](https://img.shields.io/github/stars/AaronC81/sord) ![GitHub last commit](https://img.shields.io/github/last-commit/AaronC81/sord)](https://github.com/AaronC81/sord) - Generate RBS and RBI type signatures from YARD documentation.
+* [Spoom ![GitHub Repo Stars](https://img.shields.io/github/stars/Shopify/spoom) ![GitHub last commit](https://img.shields.io/github/last-commit/Shopify/spoom)](https://github.com/Shopify/spoom) - A toolset for using Sorbet in Ruby projects, including strictness management, dead code detection, and more.
+* [Steep ![GitHub Repo Stars](https://img.shields.io/github/stars/soutaro/steep) ![GitHub last commit](https://img.shields.io/github/last-commit/soutaro/steep)](https://github.com/soutaro/steep) - A gradual type checker for Ruby using RBS type signatures.
+* [Tapioca ![GitHub Repo Stars](https://img.shields.io/github/stars/Shopify/tapioca) ![GitHub last commit](https://img.shields.io/github/last-commit/Shopify/tapioca)](https://github.com/Shopify/tapioca) - The swiss army knife of RBI generation for Sorbet, generating type definitions for gems, DSLs, and more.
+* [Typeprof ![GitHub Repo Stars](https://img.shields.io/github/stars/ruby/typeprof) ![GitHub last commit](https://img.shields.io/github/last-commit/ruby/typeprof)](https://github.com/ruby/typeprof) - A type analysis tool for Ruby that generates RBS type signatures from code.
+* Runtime Typing
+  * [dry-types ![GitHub Repo Stars](https://img.shields.io/github/stars/dry-rb/dry-types) ![GitHub last commit](https://img.shields.io/github/last-commit/dry-rb/dry-types)](https://github.com/dry-rb/dry-types) - A simple and extendable type system for Ruby with constraints, coercion, and default values.
+  * [Literal ![GitHub Repo Stars](https://img.shields.io/github/stars/yippee-fun/literal) ![GitHub last commit](https://img.shields.io/github/last-commit/yippee-fun/literal)](https://github.com/yippee-fun/literal) - Runtime type checking for Ruby with typed properties, structs, data, and enums.
 
 ## Video
 

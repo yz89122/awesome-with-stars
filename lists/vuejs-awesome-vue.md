@@ -1169,6 +1169,7 @@ _Display non-editable events in a Calendar_
 - [vue-awesome-button ![GitHub Repo Stars](https://img.shields.io/github/stars/rcaferati/vue-awesome-button) ![GitHub last commit](https://img.shields.io/github/last-commit/rcaferati/vue-awesome-button)](https://github.com/rcaferati/vue-awesome-button) - Vue 3D button components with progress states, social sharing, themes, and animated transitions.
 - [vuehex ![GitHub Repo Stars](https://img.shields.io/github/stars/vvollers/vuehex) ![GitHub last commit](https://img.shields.io/github/last-commit/vvollers/vuehex)](https://github.com/vvollers/vuehex) - Fast, virtualized hex viewer and editor for Vue 3. View and edit binary data. [Demo](https://vvollers.github.io/vuehex/demo/)
 - [vue3-icon-picker ![GitHub Repo Stars](https://img.shields.io/github/stars/noeGnh/vue3-icon-picker) ![GitHub last commit](https://img.shields.io/github/last-commit/noeGnh/vue3-icon-picker)](https://github.com/noeGnh/vue3-icon-picker) Icon picker component for Vue 3.
+- [custom-highlight ![GitHub Repo Stars](https://img.shields.io/github/stars/roydukkey/custom-highlight) ![GitHub last commit](https://img.shields.io/github/last-commit/roydukkey/custom-highlight)](https://github.com/roydukkey/custom-highlight) - A Vue directive for styling arbitrary text within elements using the CSS Custom Highlight API. [Docs](https://custom-highlight.pages.dev/)
 
 #### Tabs
 
