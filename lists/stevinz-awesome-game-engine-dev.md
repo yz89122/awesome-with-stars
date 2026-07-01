@@ -689,7 +689,7 @@ _Language specific game engine development libraries / frameworks / code._
 - 📚 [Awesome Haxe Game Dev ![GitHub Repo Stars](https://img.shields.io/github/stars/Dvergar/awesome-haxe-gamedev) ![GitHub last commit](https://img.shields.io/github/last-commit/Dvergar/awesome-haxe-gamedev)](https://github.com/Dvergar/awesome-haxe-gamedev) - Awesome list of game dev resources for Haxe.
 - 🌎 [Haxe](https://haxe.org) - Produce cross-platform native code. [[GitHub ![GitHub Repo Stars](https://img.shields.io/github/stars/HaxeFoundation/haxe) ![GitHub last commit](https://img.shields.io/github/last-commit/HaxeFoundation/haxe)](https://github.com/HaxeFoundation/haxe)]
 - 📚 [Haxe Blog: Game Engine](https://kircode.com/post/how-i-wrote-my-own-3d-game-engine-and-shipped-a-game-with-it-in-20-months) - "How I wrote my own 3D game engine and shipped a game in 20 months".
-- ���� [Haxe Blog: OpenFL](https://www.gamedeveloper.com/programming/flash-is-dead-long-live-openfl-) - "Flash is dead, long live OpenFL".
+- 📚 [Haxe Blog: OpenFL](https://www.gamedeveloper.com/programming/flash-is-dead-long-live-openfl-) - "Flash is dead, long live OpenFL".
 - Haxe: Animation
     - 🎉 [Actuate ![GitHub Repo Stars](https://img.shields.io/github/stars/jgranick/actuate) ![GitHub last commit](https://img.shields.io/github/last-commit/jgranick/actuate)](https://github.com/jgranick/actuate) - Flexible, fast tween library.
     - 🎉 [DragonBones ![GitHub Repo Stars](https://img.shields.io/github/stars/openfl/dragonbones) ![GitHub last commit](https://img.shields.io/github/last-commit/openfl/dragonbones)](https://github.com/openfl/dragonbones) - Runtime support for _DragonBones_ skeletal animation.
@@ -1003,7 +1003,7 @@ _Language specific game engine development libraries / frameworks / code._
 ### Pascal
 - 📚 [Awesome Pascal ![GitHub Repo Stars](https://img.shields.io/github/stars/Fr0sT-Brutal/awesome-pascal) ![GitHub last commit](https://img.shields.io/github/last-commit/Fr0sT-Brutal/awesome-pascal)](https://github.com/Fr0sT-Brutal/awesome-pascal) - Curated list of Delphi / Pascal resources.
 - 📚 [Delphi](https://en.wikipedia.org/wiki/Delphi_(software)) - Pascal dialect and popular IDE with cross-platform support.
-- ��� [Free Pascal](https://www.freepascal.org/) - Mature, open source Pascal compiler.
+- 🌎 [Free Pascal](https://www.freepascal.org/) - Mature, open source Pascal compiler.
 - 📚 [Pascal Tutorials](https://www.tutorialspoint.com/pascal/index.htm) - Simple and easy Pascal tutorials.
 - Pascal: Game Engine w/Editor
     - 🎉 [Castle ![GitHub Repo Stars](https://img.shields.io/github/stars/castle-engine/castle-engine) ![GitHub last commit](https://img.shields.io/github/last-commit/castle-engine/castle-engine)](https://github.com/castle-engine/castle-engine) - Cross-platform 2D/3D game engine and editor. [[Website](https://castle-engine.io/)]
@@ -1373,7 +1373,7 @@ _Software to help with game engine / video game development._
 - 💰 [3DS Max](https://www.autodesk.com/products/3ds-max/) - Classic software for 3D modeling and rendering.
 - 🆓 [ArmorPaint](https://armorpaint.org) - Physically-based texture painting, drop in your 3D models and paint. [[Source ![GitHub Repo Stars](https://img.shields.io/github/stars/armory3d/armortools) ![GitHub last commit](https://img.shields.io/github/last-commit/armory3d/armortools)](https://github.com/armory3d/armortools)]
 - 💰 [Asset Forge](https://assetforge.io) - Create 3D models and 2D sprites using building blocks.
-- 🆓 [Blender](https://www.blender.org) 🔥 - Standard for open source 3D modeling. [[Source ![GitHub Repo Stars](https://img.shields.io/github/stars/blender/blender) ![GitHub last commit](https://img.shields.io/github/last-commit/blender/blender)](https://github.com/blender/blender)]
+- 🆓 [Blender](https://www.blender.org) ���� - Standard for open source 3D modeling. [[Source ![GitHub Repo Stars](https://img.shields.io/github/stars/blender/blender) ![GitHub last commit](https://img.shields.io/github/last-commit/blender/blender)](https://github.com/blender/blender)]
 - 🆓 [Meshroom](https://alicevision.org/#meshroom) - 3D reconstruction, built with the [AliceVision ![GitHub Repo Stars](https://img.shields.io/github/stars/alicevision/AliceVision) ![GitHub last commit](https://img.shields.io/github/last-commit/alicevision/AliceVision)](https://github.com/alicevision/AliceVision) framework. [[Source ![GitHub Repo Stars](https://img.shields.io/github/stars/alicevision/meshroom) ![GitHub last commit](https://img.shields.io/github/last-commit/alicevision/meshroom)](https://github.com/alicevision/meshroom)]
 - 💸 [ZBrush](https://www.maxon.net/en/zbrush) - Simple and easy to use 3D sculpting tool.
 
