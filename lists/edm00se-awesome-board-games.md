@@ -1638,7 +1638,7 @@
 
 ### [Coup](https://boardgamegeek.com/boardgame/131357/coup)
 
-> In the not too distant future, the government is run for profit by a new “royal class” of multi-national CEOs. ... To be successful, you must destroy the influence of your rivals and drive them into exile. In these turbulent times there is only room for one to survive.
+> In the not too distant future, the government is run for profit by a new ��royal class” of multi-national CEOs. ... To be successful, you must destroy the influence of your rivals and drive them into exile. In these turbulent times there is only room for one to survive.
 
 ![Coup game image](https://cf.geekdo-images.com/iwjc_79Aqz3lMb6orn7XhDplgKc=/fit-in/246x300/pic2016054.jpg)
 
