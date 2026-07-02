@@ -64,6 +64,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
   * [Template Engine](#template-engine)
   * [Testing](#testing)
   * [Third-party APIs](#third-party-apis)
+  * [TUI](#tui)
   * [Validation](#validation)
   * [Web Frameworks](#web-frameworks)
 * [Community](#community)
@@ -182,6 +183,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [envyable ![GitHub Repo Stars](https://img.shields.io/github/stars/philnash/envyable.cr) ![GitHub last commit](https://img.shields.io/github/last-commit/philnash/envyable.cr)](https://github.com/philnash/envyable.cr) -  A simple YAML to ENV config loader
  * [habitat ![GitHub Repo Stars](https://img.shields.io/github/stars/luckyframework/habitat) ![GitHub last commit](https://img.shields.io/github/last-commit/luckyframework/habitat)](https://github.com/luckyframework/habitat) - Type safe configuration for your classes and modules
  * [totem ![GitHub Repo Stars](https://img.shields.io/github/stars/icyleaf/totem) ![GitHub last commit](https://img.shields.io/github/last-commit/icyleaf/totem)](https://github.com/icyleaf/totem) - Load and parse a configuration in JSON, YAML, dotenv formats
+ * [ucl.cr ![GitHub Repo Stars](https://img.shields.io/github/stars/jbox-web/ucl.cr) ![GitHub last commit](https://img.shields.io/github/last-commit/jbox-web/ucl.cr)](https://github.com/jbox-web/ucl.cr) - Bindings to [libucl ![GitHub Repo Stars](https://img.shields.io/github/stars/vstakhov/libucl) ![GitHub last commit](https://img.shields.io/github/last-commit/vstakhov/libucl)](https://github.com/vstakhov/libucl), load, dump and validate UCL/JSON configuration
 
 ## Converters
  * [base62.cr ![GitHub Repo Stars](https://img.shields.io/github/stars/Sija/base62.cr) ![GitHub last commit](https://img.shields.io/github/last-commit/Sija/base62.cr)](https://github.com/Sija/base62.cr) - Base62 encoder/decoder, well suited for url-shortening
@@ -280,6 +282,7 @@ described in [RFC 8032]
  * [motion.cr ![GitHub Repo Stars](https://img.shields.io/github/stars/awcrotwell/motion.cr) ![GitHub last commit](https://img.shields.io/github/last-commit/awcrotwell/motion.cr)](https://github.com/awcrotwell/motion.cr) - Object oriented frontend library for Amber
  * [multi-auth ![GitHub Repo Stars](https://img.shields.io/github/stars/msa7/multi_auth) ![GitHub last commit](https://img.shields.io/github/last-commit/msa7/multi_auth)](https://github.com/msa7/multi_auth) - Standardized multi-provider OAuth2 authentication (inspired by omniauth)
  * [praetorian ![GitHub Repo Stars](https://img.shields.io/github/stars/ilanusse/praetorian) ![GitHub last commit](https://img.shields.io/github/last-commit/ilanusse/praetorian)](https://github.com/ilanusse/praetorian) - Minimalist authorization library inspired by Pundit
+ * [rbacr ![GitHub Repo Stars](https://img.shields.io/github/stars/systatum/rbacr) ![GitHub last commit](https://img.shields.io/github/last-commit/systatum/rbacr)](https://github.com/systatum/rbacr) - Role-Based Access Control system with a clean, type-safe DSL for roles, privileges, and authorization logic
  * [Shield ![GitHub Repo Stars](https://img.shields.io/github/stars/grottopress/shield) ![GitHub last commit](https://img.shields.io/github/last-commit/grottopress/shield)](https://github.com/grottopress/shield) - Comprehensive security for *Lucky* framework
  * [shrine.cr ![GitHub Repo Stars](https://img.shields.io/github/stars/jetrockets/shrine.cr) ![GitHub last commit](https://img.shields.io/github/last-commit/jetrockets/shrine.cr)](https://github.com/jetrockets/shrine.cr) - File Attachment toolkit for Crystal applications. Heavily inspired by Shrine for Ruby
  * [tourmaline ![GitHub Repo Stars](https://img.shields.io/github/stars/protoncr/tourmaline) ![GitHub last commit](https://img.shields.io/github/last-commit/protoncr/tourmaline)](https://github.com/protoncr/tourmaline) - Telegram bot framework with an API loosely based on [telegraf.js](https://telegraf.js.org/)
@@ -551,6 +554,9 @@ described in [RFC 8032]
  * [twitter-crystal ![GitHub Repo Stars](https://img.shields.io/github/stars/sferik/twitter-crystal) ![GitHub last commit](https://img.shields.io/github/last-commit/sferik/twitter-crystal)](https://github.com/sferik/twitter-crystal) - A library to access the Twitter API
  * [web_finger ![GitHub Repo Stars](https://img.shields.io/github/stars/toddsundsted/web_finger) ![GitHub last commit](https://img.shields.io/github/last-commit/toddsundsted/web_finger)](https://github.com/toddsundsted/web_finger) - A WebFinger (https://tools.ietf.org/html/rfc7033) client
  * [ynab.cr ![GitHub Repo Stars](https://img.shields.io/github/stars/jaredsmithse/ynab.cr) ![GitHub last commit](https://img.shields.io/github/last-commit/jaredsmithse/ynab.cr)](https://github.com/jaredsmithse/ynab.cr) - A library to interact with your YNAB data
+
+## TUI
+ * [termisu ![GitHub Repo Stars](https://img.shields.io/github/stars/omarluq/termisu) ![GitHub last commit](https://img.shields.io/github/last-commit/omarluq/termisu)](https://github.com/omarluq/termisu) - Minimalistic API for writing text-based user interfaces
 
 ## Validation
  * [accord ![GitHub Repo Stars](https://img.shields.io/github/stars/neovintage/accord) ![GitHub last commit](https://img.shields.io/github/last-commit/neovintage/accord)](https://github.com/neovintage/accord) - Shareable validation library for Crystal Objects
