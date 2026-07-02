@@ -14,6 +14,7 @@ A curated list of awesome Fortran frameworks, libraries and software. Inspired b
   - [Command-Line parsing](#command-line-parsing)
   - [Compiling and building](#compiling-and-building)
   - [Preprocessor](#preprocessor)
+  - [Formatting](#formatting)
   - [Automatic documentation](#automatic-documentation)
   - [Computational Fluid Dynamics](#computational-fluid-dynamics)
   - [Docker](#docker)
@@ -102,6 +103,11 @@ A curated list of awesome Fortran frameworks, libraries and software. Inspired b
 
 * [Blockit/PyF95++](http://blockit.sourceforge.net/) - A fairly simple Python framework used to block parse your code (or any text file) into nested blocks. The BlockIt framework has already been used to create a templating capability for the Fortran 95/2003 language along with some language extensions.
 * [PreForM ![GitHub Repo Stars](https://img.shields.io/github/stars/szaghi/PreForM) ![GitHub last commit](https://img.shields.io/github/last-commit/szaghi/PreForM)](https://github.com/szaghi/PreForM) - Preprocessor for Fortran poor Men.
+
+## Formatting
+*Tools for formatting and style-checking Fortran source code.*
+
+* [ffmt ![GitHub Repo Stars](https://img.shields.io/github/stars/sbryngelson/ffmt) ![GitHub last commit](https://img.shields.io/github/last-commit/sbryngelson/ffmt)](https://github.com/sbryngelson/ffmt) - Fast, configurable Fortran formatter with support for Fypp, Doxygen, and OpenACC/OpenMP directives. Written in Rust, installable via pip.
 
 ## Automatic documentation
 *Libraries for building documentation.*
