@@ -614,6 +614,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [far2l ![GitHub Repo Stars](https://img.shields.io/github/stars/elfmz/far2l) ![GitHub last commit](https://img.shields.io/github/last-commit/elfmz/far2l)](https://github.com/elfmz/far2l) - Orthodox file manager.
 - [yazi ![GitHub Repo Stars](https://img.shields.io/github/stars/sxyazi/yazi) ![GitHub last commit](https://img.shields.io/github/last-commit/sxyazi/yazi)](https://github.com/sxyazi/yazi) - Blazing fast file manager.
 - [xplr ![GitHub Repo Stars](https://img.shields.io/github/stars/sayanarijit/xplr) ![GitHub last commit](https://img.shields.io/github/last-commit/sayanarijit/xplr)](https://github.com/sayanarijit/xplr) - A hackable, minimal, fast TUI file explorer.
+- [elio ![GitHub Repo Stars](https://img.shields.io/github/stars/elio-fm/elio) ![GitHub last commit](https://img.shields.io/github/last-commit/elio-fm/elio)](https://github.com/elio-fm/elio) - Snappy, batteries-included file manager.
 
 ### Deleting, Copying, and Renaming
 
