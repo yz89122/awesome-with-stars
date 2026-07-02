@@ -1093,7 +1093,7 @@ Where to discover new Ruby libraries, projects and trends.
 * [Pdfkit ![GitHub Repo Stars](https://img.shields.io/github/stars/pdfkit/pdfkit) ![GitHub last commit](https://img.shields.io/github/last-commit/pdfkit/pdfkit)](https://github.com/pdfkit/pdfkit) - HTML+CSS to PDF using wkhtmltopdf.
 * [Prawn ![GitHub Repo Stars](https://img.shields.io/github/stars/prawnpdf/prawn) ![GitHub last commit](https://img.shields.io/github/last-commit/prawnpdf/prawn)](https://github.com/prawnpdf/prawn) - Fast, Nimble PDF Writer for Ruby.
 * [RGhost ![GitHub Repo Stars](https://img.shields.io/github/stars/shairontoledo/rghost) ![GitHub last commit](https://img.shields.io/github/last-commit/shairontoledo/rghost)](https://github.com/shairontoledo/rghost) - RGhost is a document creation and conversion API.
-* [Squid ![GitHub Repo Stars](https://img.shields.io/github/stars/claudiob/squid) ![GitHub last commit](https://img.shields.io/github/last-commit/claudiob/squid)](https://github.com/claudiob/squid) - Squid · A Ruby library to plot charts in PDF files
+* [Squid ![GitHub Repo Stars](https://img.shields.io/github/stars/claudiob/squid) ![GitHub last commit](https://img.shields.io/github/last-commit/claudiob/squid)](https://github.com/claudiob/squid) - Squid �� A Ruby library to plot charts in PDF files
 * [Wicked Pdf ![GitHub Repo Stars](https://img.shields.io/github/stars/mileszs/wicked_pdf) ![GitHub last commit](https://img.shields.io/github/last-commit/mileszs/wicked_pdf)](https://github.com/mileszs/wicked_pdf) - PDF generator (from HTML) plugin for Ruby on Rails.
 
 ## Performance Monitoring
