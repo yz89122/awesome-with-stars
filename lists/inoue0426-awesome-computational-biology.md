@@ -206,7 +206,7 @@ Browse and search the resources via the [GitHub Pages UI](https://inoue0426.gith
 #### Gene Regulatory Network
 
 - [TRRUST v2](https://www.grnpedia.org/trrust/) — Manually curated database of human and mouse transcriptional regulatory interactions between transcription factors and their target genes, expanded with literature-derived evidence.
-- [RegNetwork](http://www.regnetworkweb.org/) — Database of gene regulatory networks covering transcription factor–target gene and miRNA–gene interaction data across multiple species.
+- [RegNetwork](http://www.regnetworkweb.org/) �� Database of gene regulatory networks covering transcription factor–target gene and miRNA–gene interaction data across multiple species.
 - [miRBase](https://www.mirbase.org/) — Reference repository for microRNA gene annotations, sequences, and experimentally validated targets.
 
 ### Clinical Trial
