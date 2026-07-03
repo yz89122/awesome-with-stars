@@ -185,6 +185,7 @@ Thanks to all [contributors ![GitHub Repo Stars](https://img.shields.io/github/s
 * [ruby-openai ![GitHub Repo Stars](https://img.shields.io/github/stars/alexrudall/ruby-openai) ![GitHub last commit](https://img.shields.io/github/last-commit/alexrudall/ruby-openai)](https://github.com/alexrudall/ruby-openai) - OpenAI API + Ruby!
 * Model Context Protocol (MCP)
   * [ruby-sdk ![GitHub Repo Stars](https://img.shields.io/github/stars/modelcontextprotocol/ruby-sdk) ![GitHub last commit](https://img.shields.io/github/last-commit/modelcontextprotocol/ruby-sdk)](https://github.com/modelcontextprotocol/ruby-sdk) - The official Ruby SDK for the Model Context Protocol (MCP), for building MCP servers and clients.
+  * [tidewave ![GitHub Repo Stars](https://img.shields.io/github/stars/tidewave-ai/tidewave_rails) ![GitHub last commit](https://img.shields.io/github/last-commit/tidewave-ai/tidewave_rails)](https://github.com/tidewave-ai/tidewave_rails) - MCP server for better agentic Rails development, runtime-level tools for your agent to talk to your running app.
 
 ## Analytics
 
@@ -1093,7 +1094,7 @@ Where to discover new Ruby libraries, projects and trends.
 * [Pdfkit ![GitHub Repo Stars](https://img.shields.io/github/stars/pdfkit/pdfkit) ![GitHub last commit](https://img.shields.io/github/last-commit/pdfkit/pdfkit)](https://github.com/pdfkit/pdfkit) - HTML+CSS to PDF using wkhtmltopdf.
 * [Prawn ![GitHub Repo Stars](https://img.shields.io/github/stars/prawnpdf/prawn) ![GitHub last commit](https://img.shields.io/github/last-commit/prawnpdf/prawn)](https://github.com/prawnpdf/prawn) - Fast, Nimble PDF Writer for Ruby.
 * [RGhost ![GitHub Repo Stars](https://img.shields.io/github/stars/shairontoledo/rghost) ![GitHub last commit](https://img.shields.io/github/last-commit/shairontoledo/rghost)](https://github.com/shairontoledo/rghost) - RGhost is a document creation and conversion API.
-* [Squid ![GitHub Repo Stars](https://img.shields.io/github/stars/claudiob/squid) ![GitHub last commit](https://img.shields.io/github/last-commit/claudiob/squid)](https://github.com/claudiob/squid) - Squid �� A Ruby library to plot charts in PDF files
+* [Squid ![GitHub Repo Stars](https://img.shields.io/github/stars/claudiob/squid) ![GitHub last commit](https://img.shields.io/github/last-commit/claudiob/squid)](https://github.com/claudiob/squid) - Squid · A Ruby library to plot charts in PDF files
 * [Wicked Pdf ![GitHub Repo Stars](https://img.shields.io/github/stars/mileszs/wicked_pdf) ![GitHub last commit](https://img.shields.io/github/last-commit/mileszs/wicked_pdf)](https://github.com/mileszs/wicked_pdf) - PDF generator (from HTML) plugin for Ruby on Rails.
 
 ## Performance Monitoring
