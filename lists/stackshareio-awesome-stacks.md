@@ -339,7 +339,7 @@ FReMP stack is a highly scalable full stack framework, which can be used to buil
 - [Flask](https://flask.palletsprojects.com/) - [🛠️](https://stackshare.io/flask) - [🐙 ![GitHub Repo Stars](https://img.shields.io/github/stars/pallets/flask) ![GitHub last commit](https://img.shields.io/github/last-commit/pallets/flask)](https://github.com/pallets/flask) - The Python micro framework for building web applications.
 - [ReactJS](https://reactjs.org/) - [🛠️](https://stackshare.io/react) - [🐙 ![GitHub Repo Stars](https://img.shields.io/github/stars/facebook/react) ![GitHub last commit](https://img.shields.io/github/last-commit/facebook/react)](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
 - [MongoDB](https://www.mongodb.com/) - [🛠️](https://stackshare.io/mongodb) - [🐙 ![GitHub Repo Stars](https://img.shields.io/github/stars/mongodb/mongo) ![GitHub last commit](https://img.shields.io/github/last-commit/mongodb/mongo)](https://github.com/mongodb/mongo) - A document and JSON-oriented database.
-- [Python](https://www.python.org/) - [🛠️](https://stackshare.io/python) - [��� ![GitHub Repo Stars](https://img.shields.io/github/stars/python/cpython) ![GitHub last commit](https://img.shields.io/github/last-commit/python/cpython)](https://github.com/python/cpython) - A programming language that lets you work quickly.
+- [Python](https://www.python.org/) - [🛠️](https://stackshare.io/python) - [🐙 ![GitHub Repo Stars](https://img.shields.io/github/stars/python/cpython) ![GitHub last commit](https://img.shields.io/github/last-commit/python/cpython)](https://github.com/python/cpython) - A programming language that lets you work quickly.
 
 ##### Resources
 

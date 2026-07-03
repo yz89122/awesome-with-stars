@@ -315,6 +315,7 @@ A curated list of the best resources in the Nix community.
 * [NixOS hardware ![GitHub Repo Stars](https://img.shields.io/github/stars/NixOS/nixos-hardware) ![GitHub last commit](https://img.shields.io/github/last-commit/NixOS/nixos-hardware)](https://github.com/NixOS/nixos-hardware) - NixOS profiles to optimize settings for different hardware.
 * [NixOS-WSL ![GitHub Repo Stars](https://img.shields.io/github/stars/nix-community/NixOS-WSL) ![GitHub last commit](https://img.shields.io/github/last-commit/nix-community/NixOS-WSL)](https://github.com/nix-community/NixOS-WSL) - Modules for running NixOS on the Windows Subsystem for Linux.
 * [NixVim ![GitHub Repo Stars](https://img.shields.io/github/stars/nix-community/nixvim) ![GitHub last commit](https://img.shields.io/github/last-commit/nix-community/nixvim)](https://github.com/nix-community/nixvim) - A Neovim distribution built with Nix modules and Nixpkgs.
+* [nvf ![GitHub Repo Stars](https://img.shields.io/github/stars/NotAShelf/nvf) ![GitHub last commit](https://img.shields.io/github/last-commit/NotAShelf/nvf)](https://github.com/NotAShelf/nvf) - A portable, modular Neovim configuration framework for Nix.
 * [Self Host Blocks ![GitHub Repo Stars](https://img.shields.io/github/stars/ibizaman/selfhostblocks) ![GitHub last commit](https://img.shields.io/github/last-commit/ibizaman/selfhostblocks)](https://github.com/ibizaman/selfhostblocks) - Modular server management based on NixOS modules and focused on best practices.
 * [Simple Nixos Mailserver](https://gitlab.com/simple-nixos-mailserver/nixos-mailserver) - A complete mailserver, managed with NixOS modules.
 * [Stylix ![GitHub Repo Stars](https://img.shields.io/github/stars/nix-community/stylix) ![GitHub last commit](https://img.shields.io/github/last-commit/nix-community/stylix)](https://github.com/nix-community/stylix) - System-wide colorscheming and typography for NixOS.
@@ -343,7 +344,7 @@ A curated list of the best resources in the Nix community.
 ## Distributions
 
 * [nixbsd ![GitHub Repo Stars](https://img.shields.io/github/stars/nixos-bsd/nixbsd) ![GitHub last commit](https://img.shields.io/github/last-commit/nixos-bsd/nixbsd)](https://github.com/nixos-bsd/nixbsd) - A NixOS fork with a FreeBSD kernel.
-* [NixNG ![GitHub Repo Stars](https://img.shields.io/github/stars/nix-community/NixNG) ![GitHub last commit](https://img.shields.io/github/last-commit/nix-community/NixNG)](https://github.com/nix-community/NixNG) - A GNU/Linux distribution similar to NixOS, defining difference is a focus on containers and lightweightness.
+* [NixNG ![GitHub Repo Stars](https://img.shields.io/github/stars/nix-community/NixNG) ![GitHub last commit](https://img.shields.io/github/last-commit/nix-community/NixNG)](https://github.com/nix-community/NixNG) - A GNU/Linux distribution similar to NixOS. The defining difference is a focus on containers and lightweightness.
 * [SnowflakeOS](https://snowflakeos.org/) - A NixOS-based Linux distribution focused on beginner friendliness and ease of use.
 
 ## Community
