@@ -74,6 +74,7 @@ SDL2 and SDL3 based applications importing `vlang/sdl`.
 ### Command-line
 
 - [amdim ![GitHub Repo Stars](https://img.shields.io/github/stars/tailsmails/amdim) ![GitHub last commit](https://img.shields.io/github/last-commit/tailsmails/amdim)](https://github.com/tailsmails/amdim) - Make your screen dimmer than 0%.
+- [anyside ![GitHub Repo Stars](https://img.shields.io/github/stars/tailsmails/anyside) ![GitHub last commit](https://img.shields.io/github/last-commit/tailsmails/anyside)](https://github.com/tailsmails/anyside) - Transport-Agnostic Covert Tunneling Sandbox & Protocol Gateway.
 - [crepl ![GitHub Repo Stars](https://img.shields.io/github/stars/l1mey112/crepl) ![GitHub last commit](https://img.shields.io/github/last-commit/l1mey112/crepl)](https://github.com/l1mey112/crepl) - Compile and execute C code on the fly as you type it.
 - [dnshammer ![GitHub Repo Stars](https://img.shields.io/github/stars/tailsmails/dnshammer) ![GitHub last commit](https://img.shields.io/github/last-commit/tailsmails/dnshammer)](https://github.com/tailsmails/dnshammer) - A covert communication channel that encodes data into DNS cache timing differences.
 - [envelop ![GitHub Repo Stars](https://img.shields.io/github/stars/tailsmails/envelop) ![GitHub last commit](https://img.shields.io/github/last-commit/tailsmails/envelop)](https://github.com/tailsmails/envelop) - Generates background HTTP HEAD requests to obfuscate real web traffic.
@@ -321,6 +322,7 @@ SDL2 and SDL3 based applications importing `vlang/sdl`.
 
 ### Scientific computing
 
+- [vnm ![GitHub Repo Stars](https://img.shields.io/github/stars/tailsmails/vnm) ![GitHub last commit](https://img.shields.io/github/last-commit/tailsmails/vnm)](https://github.com/tailsmails/vnm) - A minimalist, compiled neural network library written in the V programming language.
 - [vplot ![GitHub Repo Stars](https://img.shields.io/github/stars/erdetn/vplot) ![GitHub last commit](https://img.shields.io/github/last-commit/erdetn/vplot)](https://github.com/erdetn/vplot) - V wrapper for GNU Plot (`gnuplot_i`).
 - [vsl ![GitHub Repo Stars](https://img.shields.io/github/stars/vlang/vsl) ![GitHub last commit](https://img.shields.io/github/last-commit/vlang/vsl)](https://github.com/vlang/vsl) - A Scientific Library with a great variety of different modules. Although most modules offer pure-V definitions, it also provides modules that wrap known C libraries among other backends that allow high performance computing as an alternative. Also provides opinionated wrappers for OpenBLAS, LAPACKE, MPI, OpenCL among other libraries.
 - [vstats ![GitHub Repo Stars](https://img.shields.io/github/stars/rodabt/vstats) ![GitHub last commit](https://img.shields.io/github/last-commit/rodabt/vstats)](https://github.com/rodabt/vstats) - A dependency-free Linear Algebra, Statistics, and Machine Learning library written from scratch in V.
