@@ -52,7 +52,7 @@ Code meant become part of the extension.
 
 Apps that help you manage your extensions.
 
-- [Chrome Webstore Upload ![GitHub Repo Stars](https://img.shields.io/github/stars/fregante/chrome-webstore-upload-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/fregante/chrome-webstore-upload-cli)](https://github.com/fregante/chrome-webstore-upload-cli) - Upload the extension to the Chrome Web Store via cli (or on Travis, automatically).
+- [Chrome Webstore Upload ![GitHub Repo Stars](https://img.shields.io/github/stars/fregante/chrome-webstore-upload-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/fregante/chrome-webstore-upload-cli)](https://github.com/fregante/chrome-webstore-upload-cli) - Upload the extension to the Chrome Web Store via cli (or on GitHub Actions, automatically).
 - [mozilla/web-ext ![GitHub Repo Stars](https://img.shields.io/github/stars/mozilla/web-ext) ![GitHub last commit](https://img.shields.io/github/last-commit/mozilla/web-ext)](https://github.com/mozilla/web-ext) - Command line tool to help build, run, and test WebExtensions.
 - [chromepet ![GitHub Repo Stars](https://img.shields.io/github/stars/ZenHubIO/chromepet) ![GitHub last commit](https://img.shields.io/github/last-commit/ZenHubIO/chromepet)](https://github.com/ZenHubIO/chromepet) - Get notified when your new version has been published.
 - [chrome-ext-downloader ![GitHub Repo Stars](https://img.shields.io/github/stars/jiripospisil/chrome-ext-downloader) ![GitHub last commit](https://img.shields.io/github/last-commit/jiripospisil/chrome-ext-downloader)](https://github.com/jiripospisil/chrome-ext-downloader) - Download any extension on Chrome Web Store to see how they do it.
@@ -83,7 +83,7 @@ Apps that help you manage your extensions.
 
 ## Sample Extensions
 
-These are simple and modern WebExtensions repositories that could help you figure out where pieces go, including automatic deployment via Travis CI.
+These are simple and modern WebExtensions repositories that could help you figure out where pieces go, including automatic deployment via GitHub Actions.
 
 - [npmhub ![GitHub Repo Stars](https://img.shields.io/github/stars/npmhub/npmhub) ![GitHub last commit](https://img.shields.io/github/last-commit/npmhub/npmhub)](https://github.com/npmhub/npmhub)
 - [Hide Files on GitHub ![GitHub Repo Stars](https://img.shields.io/github/stars/sindresorhus/hide-files-on-github) ![GitHub last commit](https://img.shields.io/github/last-commit/sindresorhus/hide-files-on-github)](https://github.com/sindresorhus/hide-files-on-github)
