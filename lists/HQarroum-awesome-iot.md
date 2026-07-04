@@ -170,7 +170,7 @@ Inspired by the [awesome ![GitHub Repo Stars](https://img.shields.io/github/star
  - [Chaos Genius ![GitHub Repo Stars](https://img.shields.io/github/stars/chaos-genius/chaos_genius) ![GitHub last commit](https://img.shields.io/github/last-commit/chaos-genius/chaos_genius)](https://github.com/chaos-genius/chaos_genius) - an open source ML powered analytics engine for outlier/anomaly detection and root cause analysis. Connect with sensor data, monitor and get alerted on abnormal behavior.  
  - [Explore IoT Libraries](https://kandi.openweaver.com/explore/internet-of-things) - Discover & find a curated list of popular & new libraries, top authors, trending project kits, discussions, tutorials & learning resources on kandi.
  - [ThingsOn MQTT Bench ![GitHub Repo Stars](https://img.shields.io/github/stars/volkanalkilic/ThingsOn.MQTT.Bench) ![GitHub last commit](https://img.shields.io/github/last-commit/volkanalkilic/ThingsOn.MQTT.Bench)](https://github.com/volkanalkilic/ThingsOn.MQTT.Bench) - ThingsOn MQTT Bench is a simple Cross-platform .NET Core benchmark tool for MQTT brokers. It measures the maximum number of messages that can be sent to the broker in a specified amount of time.
-
+ - [ReductStore ![GitHub Repo Stars](https://img.shields.io/github/stars/reductstore/reductstore) ![GitHub last commit](https://img.shields.io/github/last-commit/reductstore/reductstore)](https://github.com/reductstore/reductstore) - high-performance blob and time-series storage for industrial IoT, with edge deployment, selective replication, and efficient querying of multimodal data. 
 
 #### Miscellaneous
 
