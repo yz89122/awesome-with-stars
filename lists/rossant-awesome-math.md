@@ -436,7 +436,7 @@ All resources are freely available except those with a 💲 icon.
 * 📝 [General Topology](http://webusers.imj-prg.fr/~pierre.schapira/lectnotes/Topo.pdf) - Pierre Schapira (Paris VI University)
 * 📝 [Elementary Topology Problem Textbook](http://www.pdmi.ras.ru/~olegviro/topoman/eng-book-nopfs.pdf)
 * 📝 [General Topology](http://www.math.ku.dk/~moller/e03/3gt/notes/gtnotes.pdf) - Jesper M. Møller
-* 📝 [Topology Topics](http://mathonline.wikidot.com/topology)
+* ���� [Topology Topics](http://mathonline.wikidot.com/topology)
 
 ### Algebraic Topology
 
@@ -482,7 +482,7 @@ All resources are freely available except those with a 💲 icon.
 
 * 📝 [Harmonic Analysis Lecture Notes](http://www.math.uiuc.edu/~laugesen/545/545Lectures.pdf) - Richard S. Laugesen (University of Illinois at Urbana–Champaign)
 * 📝 [Harmonic Analysis](http://www.math.uchicago.edu/~schlag/harmonicnotes.pdf) - W. Schlag
-* ���� [Lecture Notes: Fourier Transform and its Applications](https://see.stanford.edu/materials/lsoftaee261/book-fall-07.pdf) - Brad Osgood
+* 📝 [Lecture Notes: Fourier Transform and its Applications](https://see.stanford.edu/materials/lsoftaee261/book-fall-07.pdf) - Brad Osgood
 * 📝 [Fourier Analysis](http://www.reed.edu/physics/courses/Physics331.f08/pdf/Fourier.pdf) - Lucas Illing
 * 📝 [Mathematics of the Discrete Fourier Transform (DFT) with Audio Applications](https://ccrma.stanford.edu/~jos/mdft) - Julius O. Smith III (Stanford University)
 
