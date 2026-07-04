@@ -136,7 +136,7 @@ _Production ready game engines to tinker with, explore, learn and inspire._
 - 💸 [Roblox](https://www.roblox.com/create) - Create immersive 3D experiences with Lua scripting.
 - 💸 [Simulation Starter Kit](https://benmorris.itch.io/plugin-based-scene-editor) - Create interactive 3D apps across a range of platforms.
 - 💸 [Stencyl ![GitHub Repo Stars](https://img.shields.io/github/stars/Stencyl/stencyl-engine) ![GitHub last commit](https://img.shields.io/github/last-commit/Stencyl/stencyl-engine)](https://github.com/Stencyl/stencyl-engine) - Quick and easy game making with visual scripting.
-- ���� [Titan Engine](https://esenthel.com/) - Cross-platform engine, started in 2000. Formerly _Esenthel Engine_.
+- 💸 [Titan Engine](https://esenthel.com/) - Cross-platform engine, started in 2000. Formerly _Esenthel Engine_.
 
 ### Specialty
 - 💰 [3dSen](https://geod.itch.io/3dnes) - Emulator that lets you play _NES_ games in 3D. [[Website](http://www.geodstudio.net)]
