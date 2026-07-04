@@ -58,7 +58,7 @@
 **Legend**: 🌍 Accessible online · 🌐 Browser extension · 🔼 Conversion or upgrade tool · 🔧 Generator · 🅰 Typing/enforcement · 💼 Plugins/Tools/Extensions for external services · 🎨 Color-related · 🚀 Framework
 
 - 💙💼 [Prettier plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/tailwindlabs/prettier-plugin-tailwindcss) ![GitHub last commit](https://img.shields.io/github/last-commit/tailwindlabs/prettier-plugin-tailwindcss)](https://github.com/tailwindlabs/prettier-plugin-tailwindcss) - Official Tailwind CSS plugin for Prettier.
-- 🎨��🔧 [UI colors](https://uicolors.app/create) - Color palette generator for Tailwind CSS.
+- 🎨🌍🔧 [UI colors](https://uicolors.app/create) - Color palette generator for Tailwind CSS.
 - 🎨🌍🔧 [Tailwind Color Shades](https://javisperez.github.io/tailwindcolorshades) - Color shades generator for Tailwind CSS.
 - 🎨🌍🔧 [TailwindInk](https://tailwind.ink/) - AI palette generator, trained with the Tailwind CSS palette.
 - 🎨🌍🔧 [Hypercolor](https://hypercolor.dev/) - Collection of Tailwind CSS gradients with directional options.
@@ -82,7 +82,7 @@
 
 ## UI libraries, components & templates
 
-**Legend**: 💙 Official resource · 📚 UI library · 🧩 Copy-pastable components · 📁 Full templates
+**Legend**: �� Official resource · 📚 UI library · 🧩 Copy-pastable components · 📁 Full templates
 
 - 💙🧩 [Tailwind UI](https://tailwindcss.com/plus/ui-blocks/marketing) - Component library made with Tailwind CSS.
 - 💙📚 [Headless UI](https://headlessui.com/) - Completely unstyled, fully accessible UI components.
