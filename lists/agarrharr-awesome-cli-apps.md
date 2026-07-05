@@ -665,6 +665,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [share ![GitHub Repo Stars](https://img.shields.io/github/stars/beavailable/share) ![GitHub last commit](https://img.shields.io/github/last-commit/beavailable/share)](https://github.com/beavailable/share) - Share and receive files effortlessly over HTTP.
 - [shuk](https://shuk.rs) - Quicky share files using Amazon S3 buckets.
 - [croc ![GitHub Repo Stars](https://img.shields.io/github/stars/schollz/croc) ![GitHub last commit](https://img.shields.io/github/last-commit/schollz/croc)](https://github.com/schollz/croc) - Easily send things from one computer to another.
+- [filecast ![GitHub Repo Stars](https://img.shields.io/github/stars/gistrec/filecast) ![GitHub last commit](https://img.shields.io/github/last-commit/gistrec/filecast)](https://github.com/gistrec/filecast) - Fast file transfer to multiple machines on your LAN.
 
 ### Directory Listing
 
@@ -742,6 +743,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [cli-github ![GitHub Repo Stars](https://img.shields.io/github/stars/IonicaBizau/cli-github) ![GitHub last commit](https://img.shields.io/github/last-commit/IonicaBizau/cli-github)](https://github.com/IonicaBizau/cli-github) - Fancy GitHub client.
 - [hub ![GitHub Repo Stars](https://img.shields.io/github/stars/github/hub) ![GitHub last commit](https://img.shields.io/github/last-commit/github/hub)](https://github.com/github/hub) - Make git easier to use with GitHub.
 - [git-labelmaker ![GitHub Repo Stars](https://img.shields.io/github/stars/himynameisdave/git-labelmaker) ![GitHub last commit](https://img.shields.io/github/last-commit/himynameisdave/git-labelmaker)](https://github.com/himynameisdave/git-labelmaker) - Edit GitHub labels.
+- [gitfetch ![GitHub Repo Stars](https://img.shields.io/github/stars/Matars/gitfetch) ![GitHub last commit](https://img.shields.io/github/last-commit/Matars/gitfetch)](https://github.com/Matars/gitfetch) - Neofetch-style stats of your git forge.
 
 ### Emoji
 
