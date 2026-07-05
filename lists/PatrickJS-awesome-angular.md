@@ -1873,6 +1873,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [@alvaromarinho/libs ![GitHub Repo Stars](https://img.shields.io/github/stars/alvaromarinho/libs) ![GitHub last commit](https://img.shields.io/github/last-commit/alvaromarinho/libs)](https://github.com/alvaromarinho/libs) - A collection of Angular libraries for common UI needs, compatible with Angular 14+.
 * [angular-helpers ![GitHub Repo Stars](https://img.shields.io/github/stars/Gaspar1992/angular-helpers) ![GitHub last commit](https://img.shields.io/github/last-commit/Gaspar1992/angular-helpers)](https://github.com/Gaspar1992/angular-helpers) - A suite of Angular libraries that help you build secure, browser-integrated applications with a clean developer experience.
 * [ngneat-archive](https://github.com/ngneat-archive) - A read-only preservation archive of the [ngneat](https://github.com/ngneat) repositories.
+* [Indice.Angular ![GitHub Repo Stars](https://img.shields.io/github/stars/indice-co/Indice.Angular) ![GitHub last commit](https://img.shields.io/github/last-commit/indice-co/Indice.Angular)](https://github.com/indice-co/Indice.Angular) - A collection of Angular libraries providing authentication, configuration, and reusable components for Angular v20+ applications.
 
 ### Modals
 
@@ -2120,6 +2121,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-cupertino ![GitHub Repo Stars](https://img.shields.io/github/stars/gacc94/ngx-cupertino) ![GitHub last commit](https://img.shields.io/github/last-commit/gacc94/ngx-cupertino)](https://github.com/gacc94/ngx-cupertino) - Angular components implementing Apple's iOS 26 / macOS Tahoe 26 design system.
 * [kanso-protocol ![GitHub Repo Stars](https://img.shields.io/github/stars/GregNBlack/kanso-protocol) ![GitHub last commit](https://img.shields.io/github/last-commit/GregNBlack/kanso-protocol)](https://github.com/GregNBlack/kanso-protocol) - Open‑source, cross‑framework design system with W3C DTCG tokens, Web Components, and an AI‑ready MCP server — built around kanso (簡素), the discipline of removing the unnecessary.
 * [frame-ui ![GitHub Repo Stars](https://img.shields.io/github/stars/Gamekohl/frame-ui) ![GitHub last commit](https://img.shields.io/github/last-commit/Gamekohl/frame-ui)](https://github.com/Gamekohl/frame-ui) - A customizable Angular component library built around modern primitives.
+* [coss-ui-angular ![GitHub Repo Stars](https://img.shields.io/github/stars/lordsarcastic/coss-ui-angular) ![GitHub last commit](https://img.shields.io/github/last-commit/lordsarcastic/coss-ui-angular)](https://github.com/lordsarcastic/coss-ui-angular) - Accessible Angular components inspired by the public [COSS UI catalogue](https://www.coss.com/ui/docs).
 
 ### UI Libraries built on Bootstrap
 
