@@ -807,6 +807,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Jan](https://jan.ai/) - An open-source alternative to ChatGPT that runs entirely offline on your computer. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/menloresearch/jan)
 * [Maestro](https://runmaestro.ai) - Multi-agent AI coding tool with spec-driven workflows. [![Open-Source Software][OSS Icon]](https://github.com/pedramamini/Maestro)
 * [MiniClaw](https://miniclaw.bot) - Local-first personal AI agent with memory and automation tools. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/augmentedmike/miniclaw-os)
+* [Off Grid AI Desktop](https://getoffgridai.co/desktop) - Private, local-first AI for your Mac: local LLM chat, image generation, voice dictation, and memory search, all on-device. [![Open-Source Software][OSS Icon]](https://github.com/off-grid-ai/off-grid-ai-desktop) ![Freeware][Freeware Icon]
 * [Orchard](https://orchard.5km.tech/) - MCP server that connects AI assistants to Apple apps.
 * [Witsy ![GitHub Repo Stars](https://img.shields.io/github/stars/nbonamy/witsy) ![GitHub last commit](https://img.shields.io/github/last-commit/nbonamy/witsy)](https://github.com/nbonamy/witsy) - desktop AI assistant / universal MCP client. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/nbonamy/witsy)
 * [remio](https://www.remio.ai/?utm_source=github_list) - Local-first AI chat client that answers from your knowledge base.  [![Freeware][Freeware Icon]](https://www.remio.ai/?utm_source=github_list)
@@ -1086,6 +1087,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 
 * [SubManager](https://submanager.app) - Subscription tracker with renewal reminders. [![App Store][app-store Icon]](https://apps.apple.com/app/submanager-subscription-list/id1632853914?platform=mac)
 * [SubList](https://apps.apple.com/app/sublist-subscription-list/id6757860829?platform=mac) - Track subscriptions, renewals, and spending in one place with reminders, analytics, and iCloud sync.
+* [StockDock ![GitHub Repo Stars](https://img.shields.io/github/stars/simonsruggi/StockDock) ![GitHub last commit](https://img.shields.io/github/last-commit/simonsruggi/StockDock)](https://github.com/simonsruggi/StockDock) - Menu bar app for real-time stocks, ETFs, crypto and portfolio P&L. Privacy-first, no account, multi-currency. [![Open-Source Software][OSS Icon]](https://github.com/simonsruggi/StockDock) ![Freeware][Freeware Icon]
 
 ## Encryption
 
@@ -1561,6 +1563,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 ## Remote Login Software
 
 * [AnyDesk](https://anydesk.com) - Provides remote access across multiple machines.
+* [MoonProxy ![GitHub Repo Stars](https://img.shields.io/github/stars/MoonProxyHQ/moonproxy-desktop) ![GitHub last commit](https://img.shields.io/github/last-commit/MoonProxyHQ/moonproxy-desktop)](https://github.com/MoonProxyHQ/moonproxy-desktop) - GUI desktop client for FRP that puts local services on the internet with one click. [![Open-Source Software][OSS Icon]](https://github.com/MoonProxyHQ/moonproxy-desktop) ![Freeware][Freeware Icon]
 * [Moonlight ![GitHub Repo Stars](https://img.shields.io/github/stars/moonlight-stream/moonlight-qt) ![GitHub last commit](https://img.shields.io/github/last-commit/moonlight-stream/moonlight-qt)](https://github.com/moonlight-stream/moonlight-qt) - GameStream client for PCs (Windows, Mac, Linux, and Steam Link). [![Open-Source Software][OSS Icon]](https://github.com/moonlight-stream/moonlight-qt) ![Freeware][Freeware Icon]
 * [Parsec](https://parsec.app) - Low-latency remote desktop and game streaming tool.
 * [RealVNC](https://www.realvnc.com) - The original and best software for remote access across desktop and mobile.
