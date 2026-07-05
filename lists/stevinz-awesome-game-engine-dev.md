@@ -898,7 +898,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [TWGL ![GitHub Repo Stars](https://img.shields.io/github/stars/greggman/twgl.js) ![GitHub last commit](https://img.shields.io/github/last-commit/greggman/twgl.js)](https://github.com/greggman/twgl.js) - Tiny WebGL helper Library. [[Examples](http://twgljs.org/)]
     - 📚 [WebGL Frameworks](https://en.wikipedia.org/wiki/List_of_WebGL_frameworks) - List of WebGL frameworks on Wikipedia.
     - 📚 [WebGL / WebGPU Frameworks](https://gist.github.com/76878ba6903cf15789b712464875cfdc) -  List of WebGL and WebGPU frameworks and libraries.
-    - 🎉 [x3dom ![GitHub Repo Stars](https://img.shields.io/github/stars/x3dom/x3dom) ![GitHub last commit](https://img.shields.io/github/last-commit/x3dom/x3dom)](https://github.com/x3dom/x3dom) - Integrate 3D content seamlessly into your webpage.
+    - �� [x3dom ![GitHub Repo Stars](https://img.shields.io/github/stars/x3dom/x3dom) ![GitHub last commit](https://img.shields.io/github/last-commit/x3dom/x3dom)](https://github.com/x3dom/x3dom) - Integrate 3D content seamlessly into your webpage.
 - JavaScript: Graphics - Three.js
     - 📚 [Discover Three.js](https://discoverthreejs.com) - Create stunning 3D web apps using Three.js.
     - 🌎 [SBcode Three.js Tutorials](https://sbcode.net/threejs/) - Fantastic examples with code and explanations of topics.
