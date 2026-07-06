@@ -2211,7 +2211,7 @@ but with the following improvements:
 
 - [brakeman](https://brakemanscanner.org) — A static analysis security vulnerability scanner for Ruby on Rails applications.
 
-- [Cloud (IaC) Security for JetBrains IDEs](https://plugins.jetbrains.com/plugin/25413-cloud-iac-security) ��� Cloud (IaC) Security plugin for JetBrains IDEs. Performs real-time inspections of Docker & Kubernetes IaC with 50+ rules based on Docker image/build security best practices, Kubernetes Pod Security Standards, and NSA/CISA Kubernetes Hardening Guidance.
+- [Cloud (IaC) Security for JetBrains IDEs](https://plugins.jetbrains.com/plugin/25413-cloud-iac-security) — Cloud (IaC) Security plugin for JetBrains IDEs. Performs real-time inspections of Docker & Kubernetes IaC with 50+ rules based on Docker image/build security best practices, Kubernetes Pod Security Standards, and NSA/CISA Kubernetes Hardening Guidance.
 
 - [Credential Digger ![GitHub Repo Stars](https://img.shields.io/github/stars/SAP/credential-digger) ![GitHub last commit](https://img.shields.io/github/last-commit/SAP/credential-digger)](https://github.com/SAP/credential-digger) — Credential Digger is a GitHub scanning tool that identifies hardcoded credentials (Passwords, API Keys, Secret Keys, Tokens, personal information, etc),  and filtering the false positive data through a machine learning model called [Password Model](https://huggingface.co/SAPOSS/password-model). This scanner is able to detect passwords and non structured tokens with a low false positive rate. 
 

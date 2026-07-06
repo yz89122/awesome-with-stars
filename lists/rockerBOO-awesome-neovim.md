@@ -1010,7 +1010,7 @@ then it is not supported:
 - [carloscalla/notepad.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/carloscalla/notepad.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/carloscalla/notepad.nvim)](https://github.com/carloscalla/notepad.nvim) - Quick note-taking in Markdown with both repo-specific and global notepad support.
 - [MattHandzel/taskwarrior.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/MattHandzel/taskwarrior.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/MattHandzel/taskwarrior.nvim)](https://github.com/MattHandzel/taskwarrior.nvim) - Edit Taskwarrior tasks in a buffer, render tasks as Markdown checkboxes, bulk-edit with Vim motions, diff-and-apply on save. Inspired by oil.nvim.
 <!--lint disable double-link -->
-[**�� back to top**](#contents)
+[**⬆ back to top**](#contents)
 <!--lint enable double-link -->
 
 ## Utility

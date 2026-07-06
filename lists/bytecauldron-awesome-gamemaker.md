@@ -2,9 +2,9 @@
     <a href="https://gamemaker.io/"><img src="https://github.com/bytecauldron/awesome-gamemaker/raw/main/images/banner.png" /></a>
 </p>
 
-# Awesome GameMaker [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Made with GameMaker](https://img.shields.io/badge/Made%20with-GameMaker-000000.svg?style=flat&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAAZlBMVEX%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2BrG8stAAAAIXRSTlMABg0OFBkfcn1%2Bf4CBgoOFhoeIiouWmNDa5ebp8PX2%2B%2F6o6Vq%2BAAAAY0lEQVR42k2OWQ6AIAwFn%2BIOioobrnD%2FS4o0EeanmQxNAdErRFTWtsFq6%2BiiZozz0CSnTjYBwo0RkF8DWDLf51Ni9K%2FYdq0Fy3KAfzk97M7goK1F%2F4rGH9Kk1OlboQtEDIrmC%2BU3CVxTr%2FRMAAAAAElFTkSuQmCC)](https://www.yoyogames.com/gamemaker) [![Links ![GitHub Repo Stars](https://img.shields.io/github/stars/bytecauldron/awesome-gamemaker) ![GitHub last commit](https://img.shields.io/github/last-commit/bytecauldron/awesome-gamemaker)](https://github.com/bytecauldron/awesome-gamemaker/actions/workflows/links.yml/badge.svg)](https://github.com/bytecauldron/awesome-gamemaker/actions/workflows/links.yml)
+# Awesome GameMaker [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Made with GameMaker](https://img.shields.io/badge/Made%20with-GameMaker-000000.svg?style=flat&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAAZlBMVEX%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2BrG8stAAAAIXRSTlMABg0OFBkfcn1%2Bf4CBgoOFhoeIiouWmNDa5ebp8PX2%2B%2F6o6Vq%2BAAAAY0lEQVR42k2OWQ6AIAwFn%2BIOioobrnD%2FS4o0EeanmQxNAdErRFTWtsFq6%2BiiZozz0CSnTjYBwo0RkF8DWDLf51Ni9K%2FYdq0Fy3KAfzk97M7goK1F%2F4rGH9Kk1OlboQtEDIrmC%2BU3CVxTr%2FRMAAAAAElFTkSuQmCC)](https://gamemaker.io) [![Links ![GitHub Repo Stars](https://img.shields.io/github/stars/bytecauldron/awesome-gamemaker) ![GitHub last commit](https://img.shields.io/github/last-commit/bytecauldron/awesome-gamemaker)](https://github.com/bytecauldron/awesome-gamemaker/actions/workflows/links.yml/badge.svg)](https://github.com/bytecauldron/awesome-gamemaker/actions/workflows/links.yml)
 
-> A curated list of awesome libraries, snippets, guides, and projects for GameMaker. 😎
+> A curated list of awesome libraries, snippets, guides, and projects for GameMaker. ��
 
 [GameMaker](https://gamemaker.io/) is a user-friendly, cross-platform game engine by YoYo Games that allows both beginner and advanced game developers to create 2D and 3D games for desktop, HTML5, and console platforms.
 
@@ -93,6 +93,7 @@ This includes data structures and file formats that do not fit into a more speci
 
 These work on specific platform(s) and enable the games to do something that would be impossible, impractical, or inefficient to do in GML alone. Native extensions related to a specific task (e.g. input handling) can be found in those sections.
 
+- [GM-ExtensionGenerator ![GitHub Repo Stars](https://img.shields.io/github/stars/YoYoGames/GM-ExtensionGenerator) ![GitHub last commit](https://img.shields.io/github/last-commit/YoYoGames/GM-ExtensionGenerator)](https://github.com/YoYoGames/GM-ExtensionGenerator) - Official, schema-driven code generator for native extensions.
 - [zlib functions](https://yellowafterlife.itch.io/gamemaker-zlib) - Simple compression/decompression functions.
 - [Window Taskbar](https://yellowafterlife.itch.io/gamemaker-window-taskbar) - Windows only. Flash the game window border and/or its taskbar button.
 - [GMSDLL ![GitHub Repo Stars](https://img.shields.io/github/stars/YAL-GameMaker/GMSDLL) ![GitHub last commit](https://img.shields.io/github/last-commit/YAL-GameMaker/GMSDLL)](https://github.com/YAL-GameMaker/GMSDLL) - A template project for building DLLs for GameMaker.
@@ -100,8 +101,8 @@ These work on specific platform(s) and enable the games to do something that wou
 - [gameframe ![GitHub Repo Stars](https://img.shields.io/github/stars/YAL-GameMaker/gameframe) ![GitHub last commit](https://img.shields.io/github/last-commit/YAL-GameMaker/gameframe)](https://github.com/YAL-GameMaker/gameframe) - Custom window caption and border for Windows.
 - [GMD3D11 ![GitHub Repo Stars](https://img.shields.io/github/stars/blueburncz/GMD3D11) ![GitHub last commit](https://img.shields.io/github/last-commit/blueburncz/GMD3D11)](https://github.com/blueburncz/GMD3D11) - A DLL for interfacing with Windows Direct3D.
 - [GM Sysinfo ![GitHub Repo Stars](https://img.shields.io/github/stars/SpikeHD/gm-sysinfo) ![GitHub last commit](https://img.shields.io/github/last-commit/SpikeHD/gm-sysinfo)](https://github.com/SpikeHD/gm-sysinfo) - Cross-platform extension for getting system information and resource usage.
-- [Video Player Extension](https://forum.yoyogames.com/index.php?threads/video-player-for-windows-macos-and-ubuntu.77882/) - Play videos. However, the latest version of GMS has video support.
-- [GMESCAPI](https://marketplace.yoyogames.com/assets/9529/gmescapi) - Webcam capture.
+- [Video Player Extension](https://forum.gamemaker.io/index.php?threads/video-player-for-windows-macos-and-ubuntu.77882/) - Play videos. However, the latest version of GMS has video support.
+- [GMESCAPI](https://marketplace.gamemaker.io/assets/9529/gmescapi) - Webcam capture.
 - [Rousr Release](https://gitlab.com/rousr-release/) - Unmaintained projects from the Rousr team (in case anyone asks where OutsideTheBox/Dissonance went).
 - [window_shape](https://yellowafterlife.itch.io/gamemaker-window-shape) - Custom-shaped windows on Windows. 💸
 - [Windows' windows](https://yellowafterlife.itch.io/gamemaker-winwin) - Multiple windows on Windows. 💸
@@ -119,7 +120,7 @@ These work on specific platform(s) and enable the games to do something that wou
 
 Custom timers, timelines, and task scheduling.
 
-- [Iota ![GitHub Repo Stars](https://img.shields.io/github/stars/JujuAdams/iota) ![GitHub last commit](https://img.shields.io/github/last-commit/JujuAdams/iota)](https://github.com/JujuAdams/iota) - Lightweight timestep library.
+- [DoLater ![GitHub Repo Stars](https://img.shields.io/github/stars/JujuAdams/DoLater) ![GitHub last commit](https://img.shields.io/github/last-commit/JujuAdams/DoLater)](https://github.com/JujuAdams/DoLater) - Deferred code execution improving on the native call_later() function. 
 - [Stopwatch ![GitHub Repo Stars](https://img.shields.io/github/stars/Lojemiru/Stopwatch) ![GitHub last commit](https://img.shields.io/github/last-commit/Lojemiru/Stopwatch)](https://github.com/Lojemiru/Stopwatch) - GameMaker alarm replacement.
 - [wTimer](https://mors-games.itch.io/wtimer) - Robust alternative for alarms.
 - [FrogAlarm ![GitHub Repo Stars](https://img.shields.io/github/stars/colmeye/FrogAlarms) ![GitHub last commit](https://img.shields.io/github/last-commit/colmeye/FrogAlarms)](https://github.com/colmeye/FrogAlarms) - Another easy alternative to GameMaker alarms.
@@ -168,6 +169,7 @@ Custom timers, timelines, and task scheduling.
 - [Figgy ![GitHub Repo Stars](https://img.shields.io/github/stars/glebtsereteli/Figgy) ![GitHub last commit](https://img.shields.io/github/last-commit/glebtsereteli/Figgy)](https://github.com/glebtsereteli/Figgy) - Centralized and persistent live configs for seamless game tuning and balancing.
 - [RenderStack ![GitHub Repo Stars](https://img.shields.io/github/stars/FoxyOfJungle/RenderStack) ![GitHub last commit](https://img.shields.io/github/last-commit/FoxyOfJungle/RenderStack)](https://github.com/FoxyOfJungle/RenderStack) - Organize your game's rendering into a customizable order.
 - [GMLiteSearch ![GitHub Repo Stars](https://img.shields.io/github/stars/erkan612/GMLiteSearch) ![GitHub last commit](https://img.shields.io/github/last-commit/erkan612/GMLiteSearch)](https://github.com/erkan612/GMLiteSearch) - Fast, flexible full‑text search for GameMaker. Built for small to medium datasets (10k‑50k+ docs) with real‑time indexing, fuzzy search, n‑grams, BM25/TF‑IDF scoring, and persistence.
+- [Iota ![GitHub Repo Stars](https://img.shields.io/github/stars/JujuAdams/iota) ![GitHub last commit](https://img.shields.io/github/last-commit/JujuAdams/iota)](https://github.com/JujuAdams/iota) - Lightweight timestep library.
 
 ## Tools
 
@@ -188,11 +190,8 @@ Things that work with project files or GameMaker itself rather than being someth
 ## Debugging
 
 - [rt-shell ![GitHub Repo Stars](https://img.shields.io/github/stars/daikon-games/rt-shell) ![GitHub last commit](https://img.shields.io/github/last-commit/daikon-games/rt-shell)](https://github.com/daikon-games/rt-shell) - Easy to use in-game shell. Create your own commands, command meta data, command suggestions, history, etc.
-- [Olympus ![GitHub Repo Stars](https://img.shields.io/github/stars/bscotch/olympus) ![GitHub last commit](https://img.shields.io/github/last-commit/bscotch/olympus)](https://github.com/bscotch/olympus#readme) - Testing Framework.
-- [Crispy ![GitHub Repo Stars](https://img.shields.io/github/stars/bfrymire/crispy) ![GitHub last commit](https://img.shields.io/github/last-commit/bfrymire/crispy)](https://github.com/bfrymire/crispy) - Unit testing in GameMaker.
 - [Snitch ![GitHub Repo Stars](https://img.shields.io/github/stars/JujuAdams/Snitch) ![GitHub last commit](https://img.shields.io/github/last-commit/JujuAdams/Snitch)](https://github.com/JujuAdams/Snitch) - Crash and logging system.
 - [DeerLog](https://mulfok.itch.io/gamemaker-deerlog) - Small log writer.
-- [gms2-test ![GitHub Repo Stars](https://img.shields.io/github/stars/pmarincak/gms2-test) ![GitHub last commit](https://img.shields.io/github/last-commit/pmarincak/gms2-test)](https://github.com/pmarincak/gms2-test) - Unit testing framework.
 - [Meta ![GitHub Repo Stars](https://img.shields.io/github/stars/nommiin/meta) ![GitHub last commit](https://img.shields.io/github/last-commit/nommiin/meta)](https://github.com/nommiin/meta) - Runtime asset inspector.
 - [FPS Speedometer](https://dragonite.itch.io/fps-speedometer-for-gamemaker) - Pretty framerate display.
 - [Duck ![GitHub Repo Stars](https://img.shields.io/github/stars/imlazyeye/duck) ![GitHub last commit](https://img.shields.io/github/last-commit/imlazyeye/duck)](https://github.com/imlazyeye/duck) - A fast GML analyzer to enforce code styling and detect errors.
@@ -201,6 +200,11 @@ Things that work with project files or GameMaker itself rather than being someth
 - [Inspectron ![GitHub Repo Stars](https://img.shields.io/github/stars/shdwcat/Inspectron) ![GitHub last commit](https://img.shields.io/github/last-commit/shdwcat/Inspectron)](https://github.com/shdwcat/Inspectron) - A fluent API for easily creating GameMaker debug views.
 - [GMPulse](https://topherlicious.itch.io/gmpulse) - A runtime inspector and control panel. 💸
 - [Lookout ![GitHub Repo Stars](https://img.shields.io/github/stars/glebtsereteli/Lookout) ![GitHub last commit](https://img.shields.io/github/last-commit/glebtsereteli/Lookout)](https://github.com/glebtsereteli/Lookout) - Helpful debug overlay views.
+- [Olympus ![GitHub Repo Stars](https://img.shields.io/github/stars/bscotch/olympus) ![GitHub last commit](https://img.shields.io/github/last-commit/bscotch/olympus)](https://github.com/bscotch/olympus) - Testing Framework.
+- [Ganary ![GitHub Repo Stars](https://img.shields.io/github/stars/bscotch/ganary) ![GitHub last commit](https://img.shields.io/github/last-commit/bscotch/ganary)](https://github.com/bscotch/ganary) - Uses Olympus to perform regression tests.
+- [gm-verrific ![GitHub Repo Stars](https://img.shields.io/github/stars/Alphish/gm-verrific) ![GitHub last commit](https://img.shields.io/github/last-commit/Alphish/gm-verrific)](https://github.com/Alphish/gm-verrific) - The ultimate automated testing framework.
+- [gms2-test ![GitHub Repo Stars](https://img.shields.io/github/stars/pmarincak/gms2-test) ![GitHub last commit](https://img.shields.io/github/last-commit/pmarincak/gms2-test)](https://github.com/pmarincak/gms2-test) - Unit testing framework.
+- [Crispy ![GitHub Repo Stars](https://img.shields.io/github/stars/bfrymire/crispy) ![GitHub last commit](https://img.shields.io/github/last-commit/bfrymire/crispy)](https://github.com/bfrymire/crispy) - Unit testing in GameMaker.
 
 ## Input Handling
 
@@ -258,7 +262,7 @@ Things that work with project files or GameMaker itself rather than being someth
 ## Physics
 
 - [Loj Hadron Collider ![GitHub Repo Stars](https://img.shields.io/github/stars/Lojemiru/Loj-Hadron-Collider) ![GitHub last commit](https://img.shields.io/github/last-commit/Lojemiru/Loj-Hadron-Collider)](https://github.com/Lojemiru/Loj-Hadron-Collider) - A robust, pixel-perfect collision engine.
-- [On Slopes and Grids](https://forum.yoyogames.com/index.php?threads/on-slopes-and-grids-subpixel-perfect-topdown-movement-and-collision-line-without-objects.4073/) - A tutorial to implement 45° slopes.
+- [On Slopes and Grids](https://forum.gamemaker.io/index.php?threads/on-slopes-and-grids-subpixel-perfect-topdown-movement-and-collision-line-without-objects.4073/) - A tutorial to implement 45° slopes.
 - [GMS2 Platforming System](https://benal.itch.io/basic-modern-platforming-system) - GameMaker implementation by Ben Allen and an expansion on Shaun Spalding's original 1.4 platformer tutorial.
 - [Inverse Kinematics Extension ![GitHub Repo Stars](https://img.shields.io/github/stars/tonystr/Inverse-Kinematics-Extension-for-Gamemaker) ![GitHub last commit](https://img.shields.io/github/last-commit/tonystr/Inverse-Kinematics-Extension-for-Gamemaker)](https://github.com/tonystr/Inverse-Kinematics-Extension-for-Gamemaker) - A library for working with inverse kinematics.
 - [Verlet Integration Library](https://jamjamteam.itch.io/verlet-integration-gamemake-studio-2) - Verlet integration by Sarek Lambert.
@@ -358,7 +362,7 @@ Things that work with project files or GameMaker itself rather than being someth
 
 - [3D-2D ![GitHub Repo Stars](https://img.shields.io/github/stars/YoYoGames/3D-2D) ![GitHub last commit](https://img.shields.io/github/last-commit/YoYoGames/3D-2D)](https://github.com/YoYoGames/3D-2D) - Official tool to turn 3D models into 2D sprites.
 - [BBMOD ![GitHub Repo Stars](https://img.shields.io/github/stars/blueburn-cz/BBMOD) ![GitHub last commit](https://img.shields.io/github/last-commit/blueburn-cz/BBMOD)](https://github.com/blueburn-cz/BBMOD) - 3D Rendering Solution. Comes with several modules to import obj, 3D camera setup, integration with ColMesh, and more.
-- [ColMesh](https://forum.yoyogames.com/index.php?threads/colmesh-3d-collisions-made-easy.82765/) - 3D Collision Library from TheSnidr.
+- [ColMesh](https://forum.gamemaker.io/index.php?threads/colmesh-3d-collisions-made-easy.82765/) - 3D Collision Library from TheSnidr.
 - [BSP 4 GMS](https://cdlegasse.itch.io/ozarq-bsp-4-gms) - Import BSP files into GameMaker. Currently just a demo but worth keeping an eye on.
 - [dotobj ![GitHub Repo Stars](https://img.shields.io/github/stars/JujuAdams/dotobj) ![GitHub last commit](https://img.shields.io/github/last-commit/JujuAdams/dotobj)](https://github.com/JujuAdams/dotobj) - Lightweight .obj/.mtl 3D model loader written in native GML.
 - [Bronze Box ![GitHub Repo Stars](https://img.shields.io/github/stars/cicadian/Bronze-Box) ![GitHub last commit](https://img.shields.io/github/last-commit/cicadian/Bronze-Box)](https://github.com/cicadian/Bronze-Box) - Example of how to build 3D world models from a 2D grid.
@@ -367,7 +371,7 @@ Things that work with project files or GameMaker itself rather than being someth
 - [DmrVBM ![GitHub Repo Stars](https://img.shields.io/github/stars/Dreamer13sq/DmrVBM-blender-to-gms2) ![GitHub last commit](https://img.shields.io/github/last-commit/Dreamer13sq/DmrVBM-blender-to-gms2)](https://github.com/Dreamer13sq/DmrVBM-blender-to-gms2) - Import/Export tools to load vertex buffer data out of Blender and into GMS.
 - [Penguin](https://dragonite.itch.io/penguin) - 3D model conversion tool.
 - [Three Mice In a Trench Coat ![GitHub Repo Stars](https://img.shields.io/github/stars/XorDev/ThreeMiceInaTrenchcoat) ![GitHub last commit](https://img.shields.io/github/last-commit/XorDev/ThreeMiceInaTrenchcoat)](https://github.com/XorDev/ThreeMiceInaTrenchcoat) - Source for a GameMaker 3D game.
-- [sPart](https://marketplace.yoyogames.com/assets/7299/spart-3d-particle-system) - 3D Particle System from TheSnidr.
+- [sPart](https://marketplace.gamemaker.io/assets/7299/spart-3d-particle-system) - 3D Particle System from TheSnidr.
 - [Terrain Editor](https://dragonite.itch.io/terrain) - Terrain editor. Exports to gm models, obj, or vertex buffers.
 - [Snowy Snow](https://dragonite.itch.io/snowy-snow) - 3D Snow Shader.
 - [Collisions](https://dragonite.itch.io/collisions) - 3D collision system that works with native GML.
@@ -404,7 +408,7 @@ Things that work with project files or GameMaker itself rather than being someth
 
 - [DHook ![GitHub Repo Stars](https://img.shields.io/github/stars/tabularelf/DHook) ![GitHub last commit](https://img.shields.io/github/last-commit/tabularelf/DHook)](https://github.com/tabularelf/DHook) - Discord integration.
 - [GMS2_RPC ![GitHub Repo Stars](https://img.shields.io/github/stars/Mtax-Development/GMS2_RPC) ![GitHub last commit](https://img.shields.io/github/last-commit/Mtax-Development/GMS2_RPC)](https://github.com/Mtax-Development/GMS2_RPC) - Another Discord integration.
-- [NekoPresence](https://marketplace.yoyogames.com/assets/9526/nekopresence) - Oops, all Discord integration.
+- [NekoPresence](https://marketplace.gamemaker.io/assets/9526/nekopresence) - Oops, all Discord integration.
 - [GMHook ![GitHub Repo Stars](https://img.shields.io/github/stars/Kruger0/GMHook) ![GitHub last commit](https://img.shields.io/github/last-commit/Kruger0/GMHook)](https://github.com/Kruger0/GMHook) - We really like Discord integration.
 - [Steamworks.gml ![GitHub Repo Stars](https://img.shields.io/github/stars/YAL-GameMaker/steamworks.gml) ![GitHub last commit](https://img.shields.io/github/last-commit/YAL-GameMaker/steamworks.gml)](https://github.com/YAL-GameMaker/steamworks.gml) - Various expansions to Steamworks SDK support in GameMaker: Studio.
 - [Parworks ![GitHub Repo Stars](https://img.shields.io/github/stars/nkrapivin/Parworks) ![GitHub last commit](https://img.shields.io/github/last-commit/nkrapivin/Parworks)](https://github.com/nkrapivin/Parworks) - Additional functionality for the YYG Steamworks extension.
@@ -507,7 +511,7 @@ Things that work with project files or GameMaker itself rather than being someth
 
 ## Community
 
-[![GameMaker Forums](https://img.shields.io/badge/Forums-6AA916?style=for-the-badge&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAAZlBMVEX%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2BrG8stAAAAIXRSTlMABg0OFBkfcn1%2Bf4CBgoOFhoeIiouWmNDa5ebp8PX2%2B%2F6o6Vq%2BAAAAY0lEQVR42k2OWQ6AIAwFn%2BIOioobrnD%2FS4o0EeanmQxNAdErRFTWtsFq6%2BiiZozz0CSnTjYBwo0RkF8DWDLf51Ni9K%2FYdq0Fy3KAfzk97M7goK1F%2F4rGH9Kk1OlboQtEDIrmC%2BU3CVxTr%2FRMAAAAAElFTkSuQmCC&&logoColor=white)](https://forum.yoyogames.com/index.php)
+[![GameMaker Forums](https://img.shields.io/badge/Forums-6AA916?style=for-the-badge&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAAZlBMVEX%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2BrG8stAAAAIXRSTlMABg0OFBkfcn1%2Bf4CBgoOFhoeIiouWmNDa5ebp8PX2%2B%2F6o6Vq%2BAAAAY0lEQVR42k2OWQ6AIAwFn%2BIOioobrnD%2FS4o0EeanmQxNAdErRFTWtsFq6%2BiiZozz0CSnTjYBwo0RkF8DWDLf51Ni9K%2FYdq0Fy3KAfzk97M7goK1F%2F4rGH9Kk1OlboQtEDIrmC%2BU3CVxTr%2FRMAAAAAElFTkSuQmCC&&logoColor=white)](https://forum.gamemaker.io/index.php)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/gamemaker/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/gamemaker)
 
@@ -519,7 +523,7 @@ JujuAdams, FaultyFunctions, Gleb Tsereteli, Shaun Spalding, DragoniteSpam, Nick 
 
 - This is based on a list from [GameMaker Libraries ![GitHub Repo Stars](https://img.shields.io/github/stars/FaultyFunctions/GameMakerLibraries) ![GitHub last commit](https://img.shields.io/github/last-commit/FaultyFunctions/GameMakerLibraries)](https://github.com/FaultyFunctions/GameMakerLibraries) and from Gleb Tsereteli with additional links/details.
 - A majority of linked resources will only work with `GameMaker 2.3+` due to GML syntax changes. However, if you are working in GameMaker 1.4, most library creators would appreciate it if someone makes a backport of their project. 🙂
-- If you need more general game development resources, check out [Awesome Gamedev ![GitHub Repo Stars](https://img.shields.io/github/stars/Calinou/awesome-gamedev) ![GitHub last commit](https://img.shields.io/github/last-commit/Calinou/awesome-gamedev)](https://github.com/Calinou/awesome-gamedev) or [MagicTools ![GitHub Repo Stars](https://img.shields.io/github/stars/ellisonleao/magictools) ![GitHub last commit](https://img.shields.io/github/last-commit/ellisonleao/magictools)](https://github.com/ellisonleao/magictools#readme).
+- If you need more general game development resources, check out [Awesome Gamedev ![GitHub Repo Stars](https://img.shields.io/github/stars/Calinou/awesome-gamedev) ![GitHub last commit](https://img.shields.io/github/last-commit/Calinou/awesome-gamedev)](https://github.com/Calinou/awesome-gamedev) or [MagicTools ![GitHub Repo Stars](https://img.shields.io/github/stars/ellisonleao/magictools) ![GitHub last commit](https://img.shields.io/github/last-commit/ellisonleao/magictools)](https://github.com/ellisonleao/magictools).
 
 *GameMaker® is the property of YoYo Games™. This list is not affiliated with YoYo Games.*
 
