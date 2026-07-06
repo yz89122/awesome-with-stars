@@ -194,6 +194,7 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 - [chrisgrieser/nvim-rulebook ![GitHub Repo Stars](https://img.shields.io/github/stars/chrisgrieser/nvim-rulebook) ![GitHub last commit](https://img.shields.io/github/last-commit/chrisgrieser/nvim-rulebook)](https://github.com/chrisgrieser/nvim-rulebook) - Add inline-comments to ignore rules, or lookup rule documentation online.
 - [artemave/workspace-diagnostics.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/artemave/workspace-diagnostics.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/artemave/workspace-diagnostics.nvim)](https://github.com/artemave/workspace-diagnostics.nvim) - Populate diagnostics for all projects files, not just the opened ones.
 - [Kurama622/clean-diagnostic ![GitHub Repo Stars](https://img.shields.io/github/stars/Kurama622/clean-diagnostic) ![GitHub last commit](https://img.shields.io/github/last-commit/Kurama622/clean-diagnostic)](https://github.com/Kurama622/clean-diagnostic) - Display diagnostic count using virtual text, and show diagnostic details in a floating window.
+- [tumillanino/semgrep.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/tumillanino/semgrep.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/tumillanino/semgrep.nvim)](https://github.com/tumillanino/semgrep.nvim) - Lightweight Semgrep static analysis integration to catch bugs and vulnerabilities.
 <!--lint disable double-link -->
 [**⬆ back to top**](#contents)
 <!--lint enable double-link -->
@@ -1009,7 +1010,7 @@ then it is not supported:
 - [carloscalla/notepad.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/carloscalla/notepad.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/carloscalla/notepad.nvim)](https://github.com/carloscalla/notepad.nvim) - Quick note-taking in Markdown with both repo-specific and global notepad support.
 - [MattHandzel/taskwarrior.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/MattHandzel/taskwarrior.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/MattHandzel/taskwarrior.nvim)](https://github.com/MattHandzel/taskwarrior.nvim) - Edit Taskwarrior tasks in a buffer, render tasks as Markdown checkboxes, bulk-edit with Vim motions, diff-and-apply on save. Inspired by oil.nvim.
 <!--lint disable double-link -->
-[**⬆ back to top**](#contents)
+[**�� back to top**](#contents)
 <!--lint enable double-link -->
 
 ## Utility
@@ -1213,6 +1214,7 @@ then it is not supported:
 - [wsdjeg/code-runner.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/wsdjeg/code-runner.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/wsdjeg/code-runner.nvim)](https://github.com/wsdjeg/code-runner.nvim) - Async code runner with range support.
 - [mikeboiko/nvim-flow ![GitHub Repo Stars](https://img.shields.io/github/stars/mikeboiko/nvim-flow) ![GitHub last commit](https://img.shields.io/github/last-commit/mikeboiko/nvim-flow)](https://github.com/mikeboiko/nvim-flow) - File-scoped command runner with YAML configuration, command preview, debug integration, and traceback quickfix.
 - [negativo/nx-nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/negativo/nx-nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/negativo/nx-nvim)](https://github.com/negativo/nx-nvim) - Telescope picker for NX monorepo projects and targets, running the selected one in a split terminal.
+- [lewistg/pesto.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/lewistg/pesto.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/lewistg/pesto.nvim)](https://github.com/lewistg/pesto.nvim) - - Bazel integration through its _Build Event Protocol_ to find, fetch, and parse error logs for failed build actions, including logs stored remotely.
 <!--lint disable double-link -->
 [**⬆ back to top**](#contents)
 <!--lint enable double-link -->
