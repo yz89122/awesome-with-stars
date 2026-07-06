@@ -209,6 +209,7 @@ Things that work with project files or GameMaker itself rather than being someth
 ## Input Handling
 
 - [Input](https://codeberg.org/offalynne/Input) - No nonsense gamepad/keyboard library.
+- [InputTouch ![GitHub Repo Stars](https://img.shields.io/github/stars/AlubJ/InputTouch) ![GitHub last commit](https://img.shields.io/github/last-commit/AlubJ/InputTouch)](https://github.com/AlubJ/InputTouch) - Touch controls plugin for Input.
 - [XeroInput](https://www.reddit.com/r/gamemaker/comments/icoh6m/xeroinput_gms23_input_handler/) - Another library to handle multiple inputs for a single action.
 - [InputCandy ![GitHub Repo Stars](https://img.shields.io/github/stars/LAGameStudio/InputCandy) ![GitHub last commit](https://img.shields.io/github/last-commit/LAGameStudio/InputCandy)](https://github.com/LAGameStudio/InputCandy) - Similar to Input as it acts as a wrapper for SDL, with actions and signalling, but also provides testing, on-screen diagnostics, and some other UI components related to peripherals, as well as pre-built end-user configuration menus that can be easily restyled.
 - [Good Vibes ![GitHub Repo Stars](https://img.shields.io/github/stars/mrdaneeyul/good-vibes) ![GitHub last commit](https://img.shields.io/github/last-commit/mrdaneeyul/good-vibes)](https://github.com/mrdaneeyul/good-vibes) - Device vibration.

@@ -363,6 +363,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [kanban ![GitHub Repo Stars](https://img.shields.io/github/stars/fulsomenko/kanban) ![GitHub last commit](https://img.shields.io/github/last-commit/fulsomenko/kanban)](https://github.com/fulsomenko/kanban) - Keyboard-driven project management tool inspired by lazygit.
 - [gtasks ![GitHub Repo Stars](https://img.shields.io/github/stars/BRO3886/gtasks) ![GitHub last commit](https://img.shields.io/github/last-commit/BRO3886/gtasks)](https://github.com/BRO3886/gtasks) - Manage Google Tasks.
 - [epiq ![GitHub Repo Stars](https://img.shields.io/github/stars/ljtn/epiq) ![GitHub last commit](https://img.shields.io/github/last-commit/ljtn/epiq)](https://github.com/ljtn/epiq) - Local-first distributed issue tracker backed by Git.
+- [feeling ![GitHub Repo Stars](https://img.shields.io/github/stars/qiz-li/feeling) ![GitHub last commit](https://img.shields.io/github/last-commit/qiz-li/feeling)](https://github.com/qiz-li/feeling) - Mood tracker that visualizes your emotional patterns over time.
 
 ### Finance
 
