@@ -12,12 +12,12 @@ Capacitor is an open-source native runtime for building Web Native apps. Create 
 <br/>
 </div>
 <p align='center'>
-  <img src='https://raw.githubusercontent.com/Cap-go/capgo/main/assets/capgo_banner.png' alt='Capgo - Instant updates for capacitor'/>
+  <img src='https://capgo.app/readme-banner.svg?repo=riderx/awesome-capacitor' alt='Capgo - Instant updates for capacitor'/>
 </p>
 <br/>
 <div align="center">
-  <h2><a href="https://capgo.app/?ref=plugin"> ➡️ Get Instant updates for your App with Capgo </a></h2>
-  <h2><a href="https://capgo.app/consulting/?ref=plugin"> Missing a feature? We’ll build the plugin for you 💪</a></h2>
+  <h2><a href="https://capgo.app/?ref=awesome-capacitor"> ➡️ Get Instant updates for your App with Capgo </a></h2>
+  <h2><a href="https://capgo.app/consulting/?ref=awesome-capacitor"> Missing a feature? We’ll build the plugin for you 💪</a></h2>
 </div>
 <br/>
 
@@ -26,12 +26,13 @@ Capacitor is an open-source native runtime for building Web Native apps. Create 
 - [Official plugins](#official-plugins)
 - [Community plugins](#community-plugins)
 - [Capgo plugins](#capgo-plugins)
-- [Capawesome plugins](#capawesome-plugins)
 - [Transistor Software plugins](#transistor-software-plugins)
 - [Aparajita plugins](#aparajita-plugins)
+- [Capawesome plugins](#capawesome-plugins)
 - [Other plugins](#other-plugins)
 - [Cordova plugins](#cordova-plugins) 
 - [Tools](#tools)
+- [Helpers](#helpers)
 - [Learning](#learning)
 - [Demo apps](#demo-apps)
 - [Community](#community)
@@ -121,6 +122,8 @@ Plugins owned by [Capgo organisation](https://github.com/Cap-go) and maintained 
 ### Core & Updates
 - [Updater ![GitHub Repo Stars](https://img.shields.io/github/stars/Cap-go/capacitor-updater) ![GitHub last commit](https://img.shields.io/github/last-commit/Cap-go/capacitor-updater)](https://github.com/Cap-go/capacitor-updater) - Live update for capacitor apps.
 - [Live Reload ![GitHub Repo Stars](https://img.shields.io/github/stars/Cap-go/capacitor-live-reload) ![GitHub last commit](https://img.shields.io/github/last-commit/Cap-go/capacitor-live-reload)](https://github.com/Cap-go/capacitor-live-reload) - Reload Capacitor apps from a remote Vite dev server.
+- [Capacitor Patch ![GitHub Repo Stars](https://img.shields.io/github/stars/Cap-go/capacitor-patch) ![GitHub last commit](https://img.shields.io/github/last-commit/Cap-go/capacitor-patch)](https://github.com/Cap-go/capacitor-patch) - Apply vetted Capgo patches during cap sync and cap update.
+- [Capacitor+ ![GitHub Repo Stars](https://img.shields.io/github/stars/Cap-go/capacitor-plus) ![GitHub last commit](https://img.shields.io/github/last-commit/Cap-go/capacitor-plus)](https://github.com/Cap-go/capacitor-plus) - Always-synced Capacitor fork with community fixes and faster releases.
 
 ### Device & Sensors
 - [Accelerometer ![GitHub Repo Stars](https://img.shields.io/github/stars/Cap-go/capacitor-accelerometer) ![GitHub last commit](https://img.shields.io/github/last-commit/Cap-go/capacitor-accelerometer)](https://github.com/Cap-go/capacitor-accelerometer) - Read device accelerometer measurements.
@@ -128,9 +131,12 @@ Plugins owned by [Capgo organisation](https://github.com/Cap-go) and maintained 
 - [Barometer ![GitHub Repo Stars](https://img.shields.io/github/stars/Cap-go/capacitor-barometer) ![GitHub last commit](https://img.shields.io/github/last-commit/Cap-go/capacitor-barometer)](https://github.com/Cap-go/capacitor-barometer) - Access device barometer readings.
 - [Brightness ![GitHub Repo Stars](https://img.shields.io/github/stars/Cap-go/capacitor-brightness) ![GitHub last commit](https://img.shields.io/github/last-commit/Cap-go/capacitor-brightness)](https://github.com/Cap-go/capacitor-brightness) - Control screen brightness on iOS and Android.
 - [Compass ![GitHub Repo Stars](https://img.shields.io/github/stars/Cap-go/capacitor-compass) ![GitHub last commit](https://img.shields.io/github/last-commit/Cap-go/capacitor-compass)](https://github.com/Cap-go/capacitor-compass) - Native compass heading plugin.
+- [Device Info ![GitHub Repo Stars](https://img.shields.io/github/stars/Cap-go/capacitor-device-info) ![GitHub last commit](https://img.shields.io/github/last-commit/Cap-go/capacitor-device-info)](https://github.com/Cap-go/capacitor-device-info) - Read CPU, memory, GPU, storage, and onboard sensor metrics.
 - [Light Sensor ![GitHub Repo Stars](https://img.shields.io/github/stars/Cap-go/capacitor-light-sensor) ![GitHub last commit](https://img.shields.io/github/last-commit/Cap-go/capacitor-light-sensor)](https://github.com/Cap-go/capacitor-light-sensor) - Access the device light sensor (Android only).
 - [Mute ![GitHub Repo Stars](https://img.shields.io/github/stars/Cap-go/capacitor-mute) ![GitHub last commit](https://img.shields.io/github/last-commit/Cap-go/capacitor-mute)](https://github.com/Cap-go/capacitor-mute) - Detect if the mute switch is enabled/disabled on a device.
 - [Pedometer ![GitHub Repo Stars](https://img.shields.io/github/stars/Cap-go/capacitor-pedometer) ![GitHub last commit](https://img.shields.io/github/last-commit/Cap-go/capacitor-pedometer)](https://github.com/Cap-go/capacitor-pedometer) - Access pedometer data including steps, distance, pace, cadence, and floors.
+- [Persistent UUID ![GitHub Repo Stars](https://img.shields.io/github/stars/Cap-go/capacitor-persistent-uuid) ![GitHub last commit](https://img.shields.io/github/last-commit/Cap-go/capacitor-persistent-uuid)](https://github.com/Cap-go/capacitor-persistent-uuid) - Persist an app UUID across reinstalls and updates.
+- [Proximity ![GitHub Repo Stars](https://img.shields.io/github/stars/Cap-go/capacitor-proximity) ![GitHub last commit](https://img.shields.io/github/last-commit/Cap-go/capacitor-proximity)](https://github.com/Cap-go/capacitor-proximity) - Monitor proximity sensor state in mobile apps.
 - [Shake ![GitHub Repo Stars](https://img.shields.io/github/stars/Cap-go/capacitor-shake) ![GitHub last commit](https://img.shields.io/github/last-commit/Cap-go/capacitor-shake)](https://github.com/Cap-go/capacitor-shake) - Detect shake gesture in device.
 - [Volume Buttons ![GitHub Repo Stars](https://img.shields.io/github/stars/Cap-go/capacitor-volume-buttons) ![GitHub last commit](https://img.shields.io/github/last-commit/Cap-go/capacitor-volume-buttons)](https://github.com/Cap-go/capacitor-volume-buttons) - Listen to volume button presses.
 - [SIM ![GitHub Repo Stars](https://img.shields.io/github/stars/Cap-go/capacitor-sim) ![GitHub last commit](https://img.shields.io/github/last-commit/Cap-go/capacitor-sim)](https://github.com/Cap-go/capacitor-sim) - Get information from device's sim cards.
@@ -145,6 +151,7 @@ Plugins owned by [Capgo organisation](https://github.com/Cap-go) and maintained 
 - [Video Player ![GitHub Repo Stars](https://img.shields.io/github/stars/Cap-go/capacitor-video-player) ![GitHub last commit](https://img.shields.io/github/last-commit/Cap-go/capacitor-video-player)](https://github.com/Cap-go/capacitor-video-player) - Play video in native player.
 - [Video Thumbnails ![GitHub Repo Stars](https://img.shields.io/github/stars/Cap-go/capacitor-video-thumbnails) ![GitHub last commit](https://img.shields.io/github/last-commit/Cap-go/capacitor-video-thumbnails)](https://github.com/Cap-go/capacitor-video-thumbnails) - Generate video thumbnails from local or remote video files.
 - [Photo Library ![GitHub Repo Stars](https://img.shields.io/github/stars/Cap-go/capacitor-photo-library) ![GitHub last commit](https://img.shields.io/github/last-commit/Cap-go/capacitor-photo-library)](https://github.com/Cap-go/capacitor-photo-library) - Display photo gallery as web page or native screen.
+- [Asset Cache ![GitHub Repo Stars](https://img.shields.io/github/stars/Cap-go/capacitor-asset-cache) ![GitHub last commit](https://img.shields.io/github/last-commit/Cap-go/capacitor-asset-cache)](https://github.com/Cap-go/capacitor-asset-cache) - Transparently cache large images and videos locally.
 - [FFmpeg ![GitHub Repo Stars](https://img.shields.io/github/stars/Cap-go/capacitor-ffmpeg) ![GitHub last commit](https://img.shields.io/github/last-commit/Cap-go/capacitor-ffmpeg)](https://github.com/Cap-go/capacitor-ffmpeg) - Exposes the FFmpeg API to Capacitor.
 - [IVS Player ![GitHub Repo Stars](https://img.shields.io/github/stars/Cap-go/capacitor-ivs-player) ![GitHub last commit](https://img.shields.io/github/last-commit/Cap-go/capacitor-ivs-player)](https://github.com/Cap-go/capacitor-ivs-player) - Amazon IVS player for Capacitor apps.
 - [JW Player ![GitHub Repo Stars](https://img.shields.io/github/stars/Cap-go/capacitor-jw-player) ![GitHub last commit](https://img.shields.io/github/last-commit/Cap-go/capacitor-jw-player)](https://github.com/Cap-go/capacitor-jw-player) - Play videos from jwplayer.com.
@@ -158,6 +165,7 @@ Plugins owned by [Capgo organisation](https://github.com/Cap-go) and maintained 
 - [File ![GitHub Repo Stars](https://img.shields.io/github/stars/Cap-go/capacitor-file) ![GitHub last commit](https://img.shields.io/github/last-commit/Cap-go/capacitor-file)](https://github.com/Cap-go/capacitor-file) - System operations compatible with Cordova File plugin API.
 - [File Picker ![GitHub Repo Stars](https://img.shields.io/github/stars/Cap-go/capacitor-file-picker) ![GitHub last commit](https://img.shields.io/github/last-commit/Cap-go/capacitor-file-picker)](https://github.com/Cap-go/capacitor-file-picker) - Pick files, images, videos, and directories.
 - [File Compressor ![GitHub Repo Stars](https://img.shields.io/github/stars/Cap-go/capacitor-file-compressor) ![GitHub last commit](https://img.shields.io/github/last-commit/Cap-go/capacitor-file-compressor)](https://github.com/Cap-go/capacitor-file-compressor) - Efficient image compression supporting PNG, JPEG, and WebP formats.
+- [File Sharer ![GitHub Repo Stars](https://img.shields.io/github/stars/Cap-go/capacitor-file-sharer) ![GitHub last commit](https://img.shields.io/github/last-commit/Cap-go/capacitor-file-sharer)](https://github.com/Cap-go/capacitor-file-sharer) - Share and save files on Android, iOS, and Web.
 - [Downloader ![GitHub Repo Stars](https://img.shields.io/github/stars/Cap-go/capacitor-downloader) ![GitHub last commit](https://img.shields.io/github/last-commit/Cap-go/capacitor-downloader)](https://github.com/Cap-go/capacitor-downloader) - Download file in background or foreground.
 - [Uploader ![GitHub Repo Stars](https://img.shields.io/github/stars/Cap-go/capacitor-uploader) ![GitHub last commit](https://img.shields.io/github/last-commit/Cap-go/capacitor-uploader)](https://github.com/Cap-go/capacitor-uploader) - Upload file natively.
 - [Zip ![GitHub Repo Stars](https://img.shields.io/github/stars/Cap-go/capacitor-zip) ![GitHub last commit](https://img.shields.io/github/last-commit/Cap-go/capacitor-zip)](https://github.com/Cap-go/capacitor-zip) - Zipping and unzipping files on iOS, Android, and Web.
@@ -166,13 +174,19 @@ Plugins owned by [Capgo organisation](https://github.com/Cap-go) and maintained 
 - [Background Geolocation ![GitHub Repo Stars](https://img.shields.io/github/stars/Cap-go/capacitor-background-geolocation) ![GitHub last commit](https://img.shields.io/github/last-commit/Cap-go/capacitor-background-geolocation)](https://github.com/Cap-go/capacitor-background-geolocation) - Receive accurate geolocation updates even while the app is in the background.
 - [Native Geocoder ![GitHub Repo Stars](https://img.shields.io/github/stars/Cap-go/capacitor-nativegeocoder) ![GitHub last commit](https://img.shields.io/github/last-commit/Cap-go/capacitor-nativegeocoder)](https://github.com/Cap-go/capacitor-nativegeocoder) - Native forward and reverse geocoding.
 - [Launch Navigator ![GitHub Repo Stars](https://img.shields.io/github/stars/Cap-go/capacitor-launch-navigator) ![GitHub last commit](https://img.shields.io/github/last-commit/Cap-go/capacitor-launch-navigator)](https://github.com/Cap-go/capacitor-launch-navigator) - Launch native route navigation apps for Android and iOS.
+- [Mock Location Detector ![GitHub Repo Stars](https://img.shields.io/github/stars/Cap-go/capacitor-mock-location-detector) ![GitHub last commit](https://img.shields.io/github/last-commit/Cap-go/capacitor-mock-location-detector)](https://github.com/Cap-go/capacitor-mock-location-detector) - Detect simulated GPS locations and spoofing developer tools.
 
 ### Authentication & Security
 - [App Attest ![GitHub Repo Stars](https://img.shields.io/github/stars/Cap-go/capacitor-app-attest) ![GitHub last commit](https://img.shields.io/github/last-commit/Cap-go/capacitor-app-attest)](https://github.com/Cap-go/capacitor-app-attest) - Device attestation with Apple App Attest (iOS) and Play Integrity (Android).
+- [Device Integrity ![GitHub Repo Stars](https://img.shields.io/github/stars/Cap-go/capacitor-device-integrity) ![GitHub last commit](https://img.shields.io/github/last-commit/Cap-go/capacitor-device-integrity)](https://github.com/Cap-go/capacitor-device-integrity) - Check Widevine, Play Integrity, App Attest, and DeviceCheck signals.
 - [App Tracking Transparency ![GitHub Repo Stars](https://img.shields.io/github/stars/Cap-go/capacitor-app-tracking-transparency) ![GitHub last commit](https://img.shields.io/github/last-commit/Cap-go/capacitor-app-tracking-transparency)](https://github.com/Cap-go/capacitor-app-tracking-transparency) - Request ATT authorization for tracking on iOS.
 - [Native Biometric ![GitHub Repo Stars](https://img.shields.io/github/stars/Cap-go/capacitor-native-biometric) ![GitHub last commit](https://img.shields.io/github/last-commit/Cap-go/capacitor-native-biometric)](https://github.com/Cap-go/capacitor-native-biometric) - Access native biometric APIs for Android and iOS.
 - [Persona ![GitHub Repo Stars](https://img.shields.io/github/stars/Cap-go/capacitor-persona) ![GitHub last commit](https://img.shields.io/github/last-commit/Cap-go/capacitor-persona)](https://github.com/Cap-go/capacitor-persona) - Launch Persona inquiry flows on iOS and Android.
 - [Social Login ![GitHub Repo Stars](https://img.shields.io/github/stars/Cap-go/capacitor-social-login) ![GitHub last commit](https://img.shields.io/github/last-commit/Cap-go/capacitor-social-login)](https://github.com/Cap-go/capacitor-social-login) - All social logins in one plugin.
+- [Passkey ![GitHub Repo Stars](https://img.shields.io/github/stars/Cap-go/capacitor-passkey) ![GitHub last commit](https://img.shields.io/github/last-commit/Cap-go/capacitor-passkey)](https://github.com/Cap-go/capacitor-passkey) - WebAuthn-compatible passkey shim for native apps.
+- [reCAPTCHA ![GitHub Repo Stars](https://img.shields.io/github/stars/Cap-go/capacitor-recaptcha) ![GitHub last commit](https://img.shields.io/github/last-commit/Cap-go/capacitor-recaptcha)](https://github.com/Cap-go/capacitor-recaptcha) - Generate reCAPTCHA and reCAPTCHA Enterprise tokens.
+- [SSL Pinning ![GitHub Repo Stars](https://img.shields.io/github/stars/Cap-go/capacitor-ssl-pinning) ![GitHub last commit](https://img.shields.io/github/last-commit/Cap-go/capacitor-ssl-pinning)](https://github.com/Cap-go/capacitor-ssl-pinning) - Pin HTTPS certificates through CapacitorHttp on Android and iOS.
+- [Verisoul ![GitHub Repo Stars](https://img.shields.io/github/stars/Cap-go/capacitor-verisoul) ![GitHub last commit](https://img.shields.io/github/last-commit/Cap-go/capacitor-verisoul)](https://github.com/Cap-go/capacitor-verisoul) - Fraud prevention sessions for Capacitor apps.
 - [Autofill Save Password ![GitHub Repo Stars](https://img.shields.io/github/stars/Cap-go/capacitor-autofill-save-password) ![GitHub last commit](https://img.shields.io/github/last-commit/Cap-go/capacitor-autofill-save-password)](https://github.com/Cap-go/capacitor-autofill-save-password) - Prompt to save login into device password manager.
 - [Persistent Account ![GitHub Repo Stars](https://img.shields.io/github/stars/Cap-go/capacitor-persistent-account) ![GitHub last commit](https://img.shields.io/github/last-commit/Cap-go/capacitor-persistent-account)](https://github.com/Cap-go/capacitor-persistent-account) - Securely store account information for a user.
 - [Is Root ![GitHub Repo Stars](https://img.shields.io/github/stars/Cap-go/capacitor-is-root) ![GitHub last commit](https://img.shields.io/github/last-commit/Cap-go/capacitor-is-root)](https://github.com/Cap-go/capacitor-is-root) - Jailbreak/Root Detection Plugin.
@@ -181,24 +195,35 @@ Plugins owned by [Capgo organisation](https://github.com/Cap-go) and maintained 
 - [In App Browser ![GitHub Repo Stars](https://img.shields.io/github/stars/Cap-go/capacitor-inappbrowser) ![GitHub last commit](https://img.shields.io/github/last-commit/Cap-go/capacitor-inappbrowser)](https://github.com/Cap-go/capacitor-inappbrowser) - Native in-app browser for secure web content.
 - [Live Activities ![GitHub Repo Stars](https://img.shields.io/github/stars/Cap-go/capacitor-live-activities) ![GitHub last commit](https://img.shields.io/github/last-commit/Cap-go/capacitor-live-activities)](https://github.com/Cap-go/capacitor-live-activities) - Manage iOS Live Activities from Capacitor.
 - [Navigation Bar ![GitHub Repo Stars](https://img.shields.io/github/stars/Cap-go/capacitor-navigation-bar) ![GitHub last commit](https://img.shields.io/github/last-commit/Cap-go/capacitor-navigation-bar)](https://github.com/Cap-go/capacitor-navigation-bar) - Set navigation bar color for Android Lollipop and higher.
+- [Native Navigation ![GitHub Repo Stars](https://img.shields.io/github/stars/Cap-go/capacitor-native-navigation) ![GitHub last commit](https://img.shields.io/github/last-commit/Cap-go/capacitor-native-navigation)](https://github.com/Cap-go/capacitor-native-navigation) - Native navbar, tabbar, safe-area handling, and WebView transitions.
 - [Home Indicator ![GitHub Repo Stars](https://img.shields.io/github/stars/Cap-go/capacitor-home-indicator) ![GitHub last commit](https://img.shields.io/github/last-commit/Cap-go/capacitor-home-indicator)](https://github.com/Cap-go/capacitor-home-indicator) - Hide and show home button indicator in Capacitor app.
 - [Screen Orientation ![GitHub Repo Stars](https://img.shields.io/github/stars/Cap-go/capacitor-screen-orientation) ![GitHub last commit](https://img.shields.io/github/last-commit/Cap-go/capacitor-screen-orientation)](https://github.com/Cap-go/capacitor-screen-orientation) - Control device orientation with support for bypassing orientation lock.
 - [Flash ![GitHub Repo Stars](https://img.shields.io/github/stars/Cap-go/capacitor-flash) ![GitHub last commit](https://img.shields.io/github/last-commit/Cap-go/capacitor-flash)](https://github.com/Cap-go/capacitor-flash) - Switch the Flashlight / Torch of your device.
 - [Keep Awake ![GitHub Repo Stars](https://img.shields.io/github/stars/Cap-go/capacitor-keep-awake) ![GitHub last commit](https://img.shields.io/github/last-commit/Cap-go/capacitor-keep-awake)](https://github.com/Cap-go/capacitor-keep-awake) - Prevent the device screen from dimming or sleeping.
 - [Text Interaction ![GitHub Repo Stars](https://img.shields.io/github/stars/Cap-go/capacitor-textinteraction) ![GitHub last commit](https://img.shields.io/github/last-commit/Cap-go/capacitor-textinteraction)](https://github.com/Cap-go/capacitor-textinteraction) - Toggle text interaction in Capacitor based iOS apps.
 - [Transitions ![GitHub Repo Stars](https://img.shields.io/github/stars/Cap-go/capacitor-transitions) ![GitHub last commit](https://img.shields.io/github/last-commit/Cap-go/capacitor-transitions)](https://github.com/Cap-go/capacitor-transitions) - Framework-agnostic page transitions for Capacitor apps - iOS-style navigation.
+- [Native Loader ![GitHub Repo Stars](https://img.shields.io/github/stars/Cap-go/capacitor-native-loader) ![GitHub last commit](https://img.shields.io/github/last-commit/Cap-go/capacitor-native-loader)](https://github.com/Cap-go/capacitor-native-loader) - Native animated loaders, transparent overlays, Lottie assets, and WebView resizing.
+- [Pretty Toast ![GitHub Repo Stars](https://img.shields.io/github/stars/Cap-go/capacitor-pretty-toast) ![GitHub last commit](https://img.shields.io/github/last-commit/Cap-go/capacitor-pretty-toast)](https://github.com/Cap-go/capacitor-pretty-toast) - Native-first toast notifications for Capacitor and the web.
+- [Privacy Screen ![GitHub Repo Stars](https://img.shields.io/github/stars/Cap-go/capacitor-privacy-screen) ![GitHub last commit](https://img.shields.io/github/last-commit/Cap-go/capacitor-privacy-screen)](https://github.com/Cap-go/capacitor-privacy-screen) - Hide app content in screenshots and app switcher previews.
+- [Date Picker ![GitHub Repo Stars](https://img.shields.io/github/stars/Cap-go/capacitor-date-picker) ![GitHub last commit](https://img.shields.io/github/last-commit/Cap-go/capacitor-date-picker)](https://github.com/Cap-go/capacitor-date-picker) - Native date, time, date-time, year-month, and range pickers.
 - [Printer ![GitHub Repo Stars](https://img.shields.io/github/stars/Cap-go/capacitor-printer) ![GitHub last commit](https://img.shields.io/github/last-commit/Cap-go/capacitor-printer)](https://github.com/Cap-go/capacitor-printer) - Print documents, HTML, PDFs, images and web views.
 - [PDF Generator ![GitHub Repo Stars](https://img.shields.io/github/stars/Cap-go/capacitor-pdf-generator) ![GitHub last commit](https://img.shields.io/github/last-commit/Cap-go/capacitor-pdf-generator)](https://github.com/Cap-go/capacitor-pdf-generator) - Generate PDF files from HTML strings or URLs.
+- [Sheets ![GitHub Repo Stars](https://img.shields.io/github/stars/Cap-go/capacitor-sheets) ![GitHub last commit](https://img.shields.io/github/last-commit/Cap-go/capacitor-sheets)](https://github.com/Cap-go/capacitor-sheets) - Framework-agnostic sheets, drawers, dialogs, and overlay primitives.
 
 ### Purchases & Payments
 - [Native Purchases ![GitHub Repo Stars](https://img.shields.io/github/stars/Cap-go/capacitor-native-purchases) ![GitHub last commit](https://img.shields.io/github/last-commit/Cap-go/capacitor-native-purchases)](https://github.com/Cap-go/capacitor-native-purchases) - In-app Subscriptions Made Easy.
 - [Pay ![GitHub Repo Stars](https://img.shields.io/github/stars/Cap-go/capacitor-pay) ![GitHub last commit](https://img.shields.io/github/last-commit/Cap-go/capacitor-pay)](https://github.com/Cap-go/capacitor-pay) - Trigger native payment for iOS (Apple Pay) and Android (Google Pay).
+- [Stripe Identity ![GitHub Repo Stars](https://img.shields.io/github/stars/Cap-go/capacitor-stripe-identity) ![GitHub last commit](https://img.shields.io/github/last-commit/Cap-go/capacitor-stripe-identity)](https://github.com/Cap-go/capacitor-stripe-identity) - Verify identities with Stripe Identity.
+- [Stripe Pay ![GitHub Repo Stars](https://img.shields.io/github/stars/Cap-go/capacitor-stripe-pay) ![GitHub last commit](https://img.shields.io/github/last-commit/Cap-go/capacitor-stripe-pay)](https://github.com/Cap-go/capacitor-stripe-pay) - Payment Sheet, Apple Pay, and Google Pay for Stripe.
+- [Stripe Terminal ![GitHub Repo Stars](https://img.shields.io/github/stars/Cap-go/capacitor-stripe-terminal) ![GitHub last commit](https://img.shields.io/github/last-commit/Cap-go/capacitor-stripe-terminal)](https://github.com/Cap-go/capacitor-stripe-terminal) - In-person Stripe Terminal payments.
 
 ### Communication & Messaging
 - [Crisp ![GitHub Repo Stars](https://img.shields.io/github/stars/Cap-go/capacitor-crisp) ![GitHub last commit](https://img.shields.io/github/last-commit/Cap-go/capacitor-crisp)](https://github.com/Cap-go/capacitor-crisp) - Native SDK for customer messaging and chat support.
-- [Intercom ![GitHub Repo Stars](https://img.shields.io/github/stars/Cap-go/capacitor-intercom) ![GitHub last commit](https://img.shields.io/github/last-commit/Cap-go/capacitor-intercom)](https://github.com/Cap-go/capacitor-intercom) - Intercom SDK integration for Capacitor apps.
+- [Incoming Call Kit ![GitHub Repo Stars](https://img.shields.io/github/stars/Cap-go/capacitor-incoming-call-kit) ![GitHub last commit](https://img.shields.io/github/last-commit/Cap-go/capacitor-incoming-call-kit)](https://github.com/Cap-go/capacitor-incoming-call-kit) - Native incoming call UI with Android full-screen notifications and iOS CallKit.
+- [Intercom ![GitHub Repo Stars](https://img.shields.io/github/stars/Cap-go/capacitor-intercom) ![GitHub last commit](https://img.shields.io/github/last-commit/Cap-go/capacitor-intercom)](https://github.com/Cap-go/capacitor-intercom) - Customer messaging SDK integration for Capacitor apps.
 - [NFC ![GitHub Repo Stars](https://img.shields.io/github/stars/Cap-go/capacitor-nfc) ![GitHub last commit](https://img.shields.io/github/last-commit/Cap-go/capacitor-nfc)](https://github.com/Cap-go/capacitor-nfc) - Native NFC tag discovery, reading and writing for iOS and Android.
 - [Bluetooth Low Energy ![GitHub Repo Stars](https://img.shields.io/github/stars/Cap-go/capacitor-bluetooth-low-energy) ![GitHub last commit](https://img.shields.io/github/last-commit/Cap-go/capacitor-bluetooth-low-energy)](https://github.com/Cap-go/capacitor-bluetooth-low-energy) - BLE plugin with support for scanning, connecting, reading, writing, and notifications.
+- [MQTT ![GitHub Repo Stars](https://img.shields.io/github/stars/Cap-go/capacitor-mqtt) ![GitHub last commit](https://img.shields.io/github/last-commit/Cap-go/capacitor-mqtt)](https://github.com/Cap-go/capacitor-mqtt) - Connect to MQTT brokers on Android and iOS.
 - [WiFi ![GitHub Repo Stars](https://img.shields.io/github/stars/Cap-go/capacitor-wifi) ![GitHub last commit](https://img.shields.io/github/last-commit/Cap-go/capacitor-wifi)](https://github.com/Cap-go/capacitor-wifi) - Manage WiFi connectivity for your Capacitor app.
 - [iBeacon ![GitHub Repo Stars](https://img.shields.io/github/stars/Cap-go/capacitor-ibeacon) ![GitHub last commit](https://img.shields.io/github/last-commit/Cap-go/capacitor-ibeacon)](https://github.com/Cap-go/capacitor-ibeacon) - Proximity detection and beacon region monitoring.
 - [Speech Recognition ![GitHub Repo Stars](https://img.shields.io/github/stars/Cap-go/capacitor-speech-recognition) ![GitHub last commit](https://img.shields.io/github/last-commit/Cap-go/capacitor-speech-recognition)](https://github.com/Cap-go/capacitor-speech-recognition) - Comprehensive on-device speech recognition with live partial results.
@@ -211,11 +236,17 @@ Plugins owned by [Capgo organisation](https://github.com/Cap-go) and maintained 
 
 ### Analytics & Tracking
 - [AdMob ![GitHub Repo Stars](https://img.shields.io/github/stars/Cap-go/capacitor-admob) ![GitHub last commit](https://img.shields.io/github/last-commit/Cap-go/capacitor-admob)](https://github.com/Cap-go/capacitor-admob) - Bridge AdMob SDKs for iOS and Android.
+- [AppsFlyer ![GitHub Repo Stars](https://img.shields.io/github/stars/Cap-go/capacitor-appsflyer) ![GitHub last commit](https://img.shields.io/github/last-commit/Cap-go/capacitor-appsflyer)](https://github.com/Cap-go/capacitor-appsflyer) - Attribution, analytics, and deep links for AppsFlyer.
 - [GTM ![GitHub Repo Stars](https://img.shields.io/github/stars/Cap-go/capacitor-gtm) ![GitHub last commit](https://img.shields.io/github/last-commit/Cap-go/capacitor-gtm)](https://github.com/Cap-go/capacitor-gtm) - Google Tag Manager plugin for Capacitor.
 - [App Insights ![GitHub Repo Stars](https://img.shields.io/github/stars/Cap-go/capacitor-appinsights) ![GitHub last commit](https://img.shields.io/github/last-commit/Cap-go/capacitor-appinsights)](https://github.com/Cap-go/capacitor-appinsights) - A wrapper around the Apptopia App Insights SDK.
+- [Contentsquare ![GitHub Repo Stars](https://img.shields.io/github/stars/Cap-go/capacitor-contentsquare) ![GitHub last commit](https://img.shields.io/github/last-commit/Cap-go/capacitor-contentsquare)](https://github.com/Cap-go/capacitor-contentsquare) - Mobile analytics SDK integration for Capacitor apps.
+- [Facebook Analytics ![GitHub Repo Stars](https://img.shields.io/github/stars/Cap-go/capacitor-facebook-analytics) ![GitHub last commit](https://img.shields.io/github/last-commit/Cap-go/capacitor-facebook-analytics)](https://github.com/Cap-go/capacitor-facebook-analytics) - Meta/Facebook App Events analytics for Capacitor apps.
+- [Install Referrer ![GitHub Repo Stars](https://img.shields.io/github/stars/Cap-go/capacitor-install-referrer) ![GitHub last commit](https://img.shields.io/github/last-commit/Cap-go/capacitor-install-referrer)](https://github.com/Cap-go/capacitor-install-referrer) - Attribution via Google Play Install Referrer and Apple AdServices.
+- [RudderStack ![GitHub Repo Stars](https://img.shields.io/github/stars/Cap-go/capacitor-rudderstack) ![GitHub last commit](https://img.shields.io/github/last-commit/Cap-go/capacitor-rudderstack)](https://github.com/Cap-go/capacitor-rudderstack) - Analytics, identity, and event tracking for RudderStack.
 
 ### Contacts & Health
 - [Contacts ![GitHub Repo Stars](https://img.shields.io/github/stars/Cap-go/capacitor-contacts) ![GitHub last commit](https://img.shields.io/github/last-commit/Cap-go/capacitor-contacts)](https://github.com/Cap-go/capacitor-contacts) - Work with device contacts using Capacitor APIs.
+- [Calendar ![GitHub Repo Stars](https://img.shields.io/github/stars/Cap-go/capacitor-calendar) ![GitHub last commit](https://img.shields.io/github/last-commit/Cap-go/capacitor-calendar)](https://github.com/Cap-go/capacitor-calendar) - Manage calendar events on iOS and Android.
 - [Health ![GitHub Repo Stars](https://img.shields.io/github/stars/Cap-go/capacitor-health) ![GitHub last commit](https://img.shields.io/github/last-commit/Cap-go/capacitor-health)](https://github.com/Cap-go/capacitor-health) - Interact with data from Apple HealthKit and Health Connect.
 
 ### App Store & Market
@@ -227,18 +258,22 @@ Plugins owned by [Capgo organisation](https://github.com/Cap-go) and maintained 
 - [Android Age Signals ![GitHub Repo Stars](https://img.shields.io/github/stars/Cap-go/capacitor-android-age-signals) ![GitHub last commit](https://img.shields.io/github/last-commit/Cap-go/capacitor-android-age-signals)](https://github.com/Cap-go/capacitor-android-age-signals) - Exposes Google Play Age Signals to your app.
 - [Android Inline Install ![GitHub Repo Stars](https://img.shields.io/github/stars/Cap-go/capacitor-android-inline-install) ![GitHub last commit](https://img.shields.io/github/last-commit/Cap-go/capacitor-android-inline-install)](https://github.com/Cap-go/capacitor-android-inline-install) - Trigger Android inline install feature.
 - [Android Kiosk ![GitHub Repo Stars](https://img.shields.io/github/stars/Cap-go/capacitor-android-kiosk) ![GitHub last commit](https://img.shields.io/github/last-commit/Cap-go/capacitor-android-kiosk)](https://github.com/Cap-go/capacitor-android-kiosk) - Lock device into kiosk mode with launcher functionality.
+- [Android SMS Retriever ![GitHub Repo Stars](https://img.shields.io/github/stars/Cap-go/capacitor-android-sms-retriever) ![GitHub last commit](https://img.shields.io/github/last-commit/Cap-go/capacitor-android-sms-retriever)](https://github.com/Cap-go/capacitor-android-sms-retriever) - SMS Retriever and Phone Number Hint APIs on Android.
 - [Intent Launcher ![GitHub Repo Stars](https://img.shields.io/github/stars/Cap-go/capacitor-intent-launcher) ![GitHub last commit](https://img.shields.io/github/last-commit/Cap-go/capacitor-intent-launcher)](https://github.com/Cap-go/capacitor-intent-launcher) - Launch Android intents and open system settings screens on Android and iOS.
 
 ### Platform Integrations
 - [Supabase ![GitHub Repo Stars](https://img.shields.io/github/stars/Cap-go/capacitor-supabase) ![GitHub last commit](https://img.shields.io/github/last-commit/Cap-go/capacitor-supabase)](https://github.com/Cap-go/capacitor-supabase) - Native Supabase SDK integration - Auth, Database, and JWT access.
+- [Auto ![GitHub Repo Stars](https://img.shields.io/github/stars/Cap-go/capacitor-auto) ![GitHub last commit](https://img.shields.io/github/last-commit/Cap-go/capacitor-auto)](https://github.com/Cap-go/capacitor-auto) - CarPlay and Android Auto communication.
+- [Intune ![GitHub Repo Stars](https://img.shields.io/github/stars/Cap-go/capacitor-intune) ![GitHub last commit](https://img.shields.io/github/last-commit/Cap-go/capacitor-intune)](https://github.com/Cap-go/capacitor-intune) - Microsoft Intune MAM enrollment, app protection policies, app config, and MSAL authentication.
 - [WeChat ![GitHub Repo Stars](https://img.shields.io/github/stars/Cap-go/capacitor-wechat) ![GitHub last commit](https://img.shields.io/github/last-commit/Cap-go/capacitor-wechat)](https://github.com/Cap-go/capacitor-wechat) - SDK for authentication, sharing, payments, and mini-programs.
 - [Watch ![GitHub Repo Stars](https://img.shields.io/github/stars/Cap-go/capacitor-watch) ![GitHub last commit](https://img.shields.io/github/last-commit/Cap-go/capacitor-watch)](https://github.com/Cap-go/capacitor-watch) - Apple Watch communication with bidirectional messaging support.
 - [Share Target ![GitHub Repo Stars](https://img.shields.io/github/stars/Cap-go/capacitor-share-target) ![GitHub last commit](https://img.shields.io/github/last-commit/Cap-go/capacitor-share-target)](https://github.com/Cap-go/capacitor-share-target) - Receive shared content from other apps.
+- [Widget Kit ![GitHub Repo Stars](https://img.shields.io/github/stars/Cap-go/capacitor-widget-kit) ![GitHub last commit](https://img.shields.io/github/last-commit/Cap-go/capacitor-widget-kit)](https://github.com/Cap-go/capacitor-widget-kit) - Build iOS widgets, Live Activities, and shared App Group integrations.
 
 ### Firebase
 - [Analytics ![GitHub Repo Stars](https://img.shields.io/github/stars/Cap-go/capacitor-firebase) ![GitHub last commit](https://img.shields.io/github/last-commit/Cap-go/capacitor-firebase)](https://github.com/Cap-go/capacitor-firebase/blob/main/packages/analytics/README.md) - Firebase Analytics for Capacitor.
 - [App ![GitHub Repo Stars](https://img.shields.io/github/stars/Cap-go/capacitor-firebase) ![GitHub last commit](https://img.shields.io/github/last-commit/Cap-go/capacitor-firebase)](https://github.com/Cap-go/capacitor-firebase/blob/main/packages/app/README.md) - Firebase App for Capacitor.
-- [App Check ![GitHub Repo Stars](https://img.shields.io/github/stars/Cap-go/capacitor-firebase) ![GitHub last commit](https://img.shields.io/github/last-commit/Cap-go/capacitor-firebase)](https://github.com/Cap-go/capacitor-firebase/blob/main/packages/app-check/README.md) - Firebase App Check for Capacitor.
+- [App Check ![GitHub Repo Stars](https://img.shields.io/github/stars/Cap-go/capacitor-firebase) ![GitHub last commit](https://img.shields.io/github/last-commit/Cap-go/capacitor-firebase)](https://github.com/Cap-go/capacitor-firebase/blob/main/packages/appcheck/README.md) - Firebase App Check for Capacitor.
 - [Authentication ![GitHub Repo Stars](https://img.shields.io/github/stars/Cap-go/capacitor-firebase) ![GitHub last commit](https://img.shields.io/github/last-commit/Cap-go/capacitor-firebase)](https://github.com/Cap-go/capacitor-firebase/blob/main/packages/authentication/README.md) - Firebase Authentication for Capacitor.
 - [Crashlytics ![GitHub Repo Stars](https://img.shields.io/github/stars/Cap-go/capacitor-firebase) ![GitHub last commit](https://img.shields.io/github/last-commit/Cap-go/capacitor-firebase)](https://github.com/Cap-go/capacitor-firebase/blob/main/packages/crashlytics/README.md) - Firebase Crashlytics for Capacitor.
 - [Firestore ![GitHub Repo Stars](https://img.shields.io/github/stars/Cap-go/capacitor-firebase) ![GitHub last commit](https://img.shields.io/github/last-commit/Cap-go/capacitor-firebase)](https://github.com/Cap-go/capacitor-firebase/blob/main/packages/firestore/README.md) - Firebase Cloud Firestore for Capacitor.
@@ -250,13 +285,34 @@ Plugins owned by [Capgo organisation](https://github.com/Cap-go) and maintained 
 
 ### Utilities
 - [Alarm ![GitHub Repo Stars](https://img.shields.io/github/stars/Cap-go/capacitor-alarm) ![GitHub last commit](https://img.shields.io/github/last-commit/Cap-go/capacitor-alarm)](https://github.com/Cap-go/capacitor-alarm) - Manage native alarms.
+- [Background Task ![GitHub Repo Stars](https://img.shields.io/github/stars/Cap-go/capacitor-background-task) ![GitHub last commit](https://img.shields.io/github/last-commit/Cap-go/capacitor-background-task)](https://github.com/Cap-go/capacitor-background-task) - Periodic background fetch tasks on iOS and Android.
 - [Env ![GitHub Repo Stars](https://img.shields.io/github/stars/Cap-go/capacitor-env) ![GitHub last commit](https://img.shields.io/github/last-commit/Cap-go/capacitor-env)](https://github.com/Cap-go/capacitor-env) - Set Env var in Capacitor config and read them at runtime.
+- [Network Diagnostics ![GitHub Repo Stars](https://img.shields.io/github/stars/Cap-go/capacitor-network-diagnostics) ![GitHub last commit](https://img.shields.io/github/last-commit/Cap-go/capacitor-network-diagnostics)](https://github.com/Cap-go/capacitor-network-diagnostics) - Run native network diagnostics from Capacitor.
+- [WebView Crash ![GitHub Repo Stars](https://img.shields.io/github/stars/Cap-go/capacitor-webview-crash) ![GitHub last commit](https://img.shields.io/github/last-commit/Cap-go/capacitor-webview-crash)](https://github.com/Cap-go/capacitor-webview-crash) - Detect recovered WebView crashes.
 - [WebView Guardian ![GitHub Repo Stars](https://img.shields.io/github/stars/Cap-go/capacitor-webview-guardian) ![GitHub last commit](https://img.shields.io/github/last-commit/Cap-go/capacitor-webview-guardian)](https://github.com/Cap-go/capacitor-webview-guardian) - Detect when the WebView was killed in the background and relaunch it on foreground.
 - [WebView Version Checker ![GitHub Repo Stars](https://img.shields.io/github/stars/Cap-go/capacitor-webview-version-checker) ![GitHub last commit](https://img.shields.io/github/last-commit/Cap-go/capacitor-webview-version-checker)](https://github.com/Cap-go/capacitor-webview-version-checker) - Check Android WebView version and prompt users to update when needed.
 - [LLM ![GitHub Repo Stars](https://img.shields.io/github/stars/Cap-go/capacitor-llm) ![GitHub last commit](https://img.shields.io/github/last-commit/Cap-go/capacitor-llm)](https://github.com/Cap-go/capacitor-llm) - Adds support for LLM locally run for Capacitor.
 
 ### Specialized Hardware
 - [Ricoh360 Camera ![GitHub Repo Stars](https://img.shields.io/github/stars/Cap-go/capacitor-ricoh360-camera-plugin) ![GitHub last commit](https://img.shields.io/github/last-commit/Cap-go/capacitor-ricoh360-camera-plugin)](https://github.com/Cap-go/capacitor-ricoh360-camera-plugin) - SDK for the Ricoh360 cameras.
+- [UWB ![GitHub Repo Stars](https://img.shields.io/github/stars/Cap-go/capacitor-uwb) ![GitHub last commit](https://img.shields.io/github/last-commit/Cap-go/capacitor-uwb)](https://github.com/Cap-go/capacitor-uwb) - Ultra-Wideband ranging on iOS and Android.
+- [Zebra DataWedge ![GitHub Repo Stars](https://img.shields.io/github/stars/Cap-go/capacitor-zebra-datawedge) ![GitHub last commit](https://img.shields.io/github/last-commit/Cap-go/capacitor-zebra-datawedge)](https://github.com/Cap-go/capacitor-zebra-datawedge) - Manage Zebra DataWedge profiles, notifications, queries, and soft scanning.
+
+## [Transistor Software plugins](https://www.transistorsoft.com/)
+Plugins owned by [Transistor Software plugins](https://github.com/transistorsoft) and maintained by [@christocracy](https://github.com/christocracy).
+
+- [Background Geolocation ![GitHub Repo Stars](https://img.shields.io/github/stars/transistorsoft/capacitor-background-geolocation) ![GitHub last commit](https://img.shields.io/github/last-commit/transistorsoft/capacitor-background-geolocation)](https://github.com/transistorsoft/capacitor-background-geolocation) - The most sophisticated background location-tracking & geofencing module with battery-conscious motion-detection intelligence for iOS and Android.
+- [Background Fetch ![GitHub Repo Stars](https://img.shields.io/github/stars/transistorsoft/capacitor-background-fetch) ![GitHub last commit](https://img.shields.io/github/last-commit/transistorsoft/capacitor-background-fetch)](https://github.com/transistorsoft/capacitor-background-fetch) - Periodic callbacks in the background for both iOS and Android.
+- [Background Geolocation Firebase ![GitHub Repo Stars](https://img.shields.io/github/stars/transistorsoft/capacitor-background-geolocation-firebase) ![GitHub last commit](https://img.shields.io/github/last-commit/transistorsoft/capacitor-background-geolocation-firebase)](https://github.com/transistorsoft/capacitor-background-geolocation-firebase) - Firebase adapter for Capacitor Background Geolocation.
+
+
+## Aparajita plugins
+Plugins written and maintained by [@aparajita](https://github.com/aparajita).
+
+- [Biometric Auth ![GitHub Repo Stars](https://img.shields.io/github/stars/aparajita/capacitor-biometric-auth) ![GitHub last commit](https://img.shields.io/github/last-commit/aparajita/capacitor-biometric-auth)](https://github.com/aparajita/capacitor-biometric-auth) - Easy access to native biometric auth APIs on iOS and Android.
+- [Dark Mode ![GitHub Repo Stars](https://img.shields.io/github/stars/aparajita/capacitor-dark-mode) ![GitHub last commit](https://img.shields.io/github/last-commit/aparajita/capacitor-dark-mode)](https://github.com/aparajita/capacitor-dark-mode) - Universal, reliable dark mode support on the web, iOS and Android.
+- [Logger ![GitHub Repo Stars](https://img.shields.io/github/stars/aparajita/capacitor-logger) ![GitHub last commit](https://img.shields.io/github/last-commit/aparajita/capacitor-logger)](https://github.com/aparajita/capacitor-logger) - Better logging for the web and native Ionic/Capacitor apps.
+- [Secure Storage ![GitHub Repo Stars](https://img.shields.io/github/stars/aparajita/capacitor-secure-storage) ![GitHub last commit](https://img.shields.io/github/last-commit/aparajita/capacitor-secure-storage)](https://github.com/aparajita/capacitor-secure-storage) - Secure, flexible storage for Capacitor apps using iOS Keychain and Android Keystore. Supports Keychain sync across devices on iOS.
 
 
 ## Capawesome plugins
@@ -266,22 +322,6 @@ Plugins owned by Capawesome organisation and maintained by @robingenz.
 - [Badge ![GitHub Repo Stars](https://img.shields.io/github/stars/capawesome-team/capacitor-badge) ![GitHub last commit](https://img.shields.io/github/last-commit/capawesome-team/capacitor-badge)](https://github.com/capawesome-team/capacitor-badge) - Access and update the badge number of the app icon.
 - [Managed configuration ![GitHub Repo Stars](https://img.shields.io/github/stars/capawesome-team/capacitor-managed-configurations) ![GitHub last commit](https://img.shields.io/github/last-commit/capawesome-team/capacitor-managed-configurations)](https://github.com/capawesome-team/capacitor-managed-configurations) - Capacitor plugin to access managed configuration settings.
 - [Photo editor ![GitHub Repo Stars](https://img.shields.io/github/stars/capawesome-team/capacitor-photo-editor) ![GitHub last commit](https://img.shields.io/github/last-commit/capawesome-team/capacitor-photo-editor)](https://github.com/capawesome-team/capacitor-photo-editor) - Capacitor plugin that allows the user to edit a photo.
-
-## [Transistor Software plugins](https://www.transistorsoft.com//)
-Plugins owned by [Transistor Software plugins](https://github.com/transistorsoft) and maintained by [@christocracy](https://github.com/christocracy).
-
-- [Background Geolocation ![GitHub Repo Stars](https://img.shields.io/github/stars/transistorsoft/capacitor-background-geolocation) ![GitHub last commit](https://img.shields.io/github/last-commit/transistorsoft/capacitor-background-geolocation)](https://github.com/transistorsoft/capacitor-background-geolocation) - The most sophisticated background location-tracking & geofencing module with battery-conscious motion-detection intelligence for iOS and Android.
-- [Background Fetch ![GitHub Repo Stars](https://img.shields.io/github/stars/transistorsoft/capacitor-background-fetch) ![GitHub last commit](https://img.shields.io/github/last-commit/transistorsoft/capacitor-background-fetch)](https://github.com/transistorsoft/capacitor-background-fetch) - Periodic callbacks in the background for both iOS and Android.
-- [Background Geolocation Firebase ![GitHub Repo Stars](https://img.shields.io/github/stars/transistorsoft/capacitor-background-geolocation-firebase) ![GitHub last commit](https://img.shields.io/github/last-commit/transistorsoft/capacitor-background-geolocation-firebase)](https://github.com/transistorsoft/capacitor-background-geolocation-firebase) - Firebase adapter for Capacitor Background Geolocation.
-
-
-## [Aparajita plugins](https://github.com/aparajita?tab=repositories&q=capacitor)
-Plugins written and maintained by [@aparajita](https://github.com/aparajita).
-
-- [Biometric Auth ![GitHub Repo Stars](https://img.shields.io/github/stars/aparajita/capacitor-biometric-auth) ![GitHub last commit](https://img.shields.io/github/last-commit/aparajita/capacitor-biometric-auth)](https://github.com/aparajita/capacitor-biometric-auth) - Easy access to native biometric auth APIs on iOS and Android.
-- [Dark Mode ![GitHub Repo Stars](https://img.shields.io/github/stars/aparajita/capacitor-dark-mode) ![GitHub last commit](https://img.shields.io/github/last-commit/aparajita/capacitor-dark-mode)](https://github.com/aparajita/capacitor-dark-mode) - Universal, reliable dark mode support on the web, iOS and Android.
-- [Logger ![GitHub Repo Stars](https://img.shields.io/github/stars/aparajita/capacitor-logger) ![GitHub last commit](https://img.shields.io/github/last-commit/aparajita/capacitor-logger)](https://github.com/aparajita/capacitor-logger) - Better logging for the web and native Ionic/Capacitor apps.
-- [Secure Storage ![GitHub Repo Stars](https://img.shields.io/github/stars/aparajita/capacitor-secure-storage) ![GitHub last commit](https://img.shields.io/github/last-commit/aparajita/capacitor-secure-storage)](https://github.com/aparajita/capacitor-secure-storage) - Secure, flexible storage for Capacitor apps using iOS Keychain and Android Keystore. Supports Keychain sync across devices on iOS.
 
 ## Other plugins
 
@@ -316,7 +356,6 @@ Independents plugins are listed here.
     - [MlKit Language ![GitHub Repo Stars](https://img.shields.io/github/stars/hemangsk/capacitor-mlkit-language) ![GitHub last commit](https://img.shields.io/github/last-commit/hemangsk/capacitor-mlkit-language)](https://github.com/hemangsk/capacitor-mlkit-language) - Identify the language of a string of text.
     - [MlKit Vision ![GitHub Repo Stars](https://img.shields.io/github/stars/trancee/capacitor-google-mlkit-vision) ![GitHub last commit](https://img.shields.io/github/last-commit/trancee/capacitor-google-mlkit-vision)](https://github.com/trancee/capacitor-google-mlkit-vision/) - Detect faces in an image, identify key facial features, and get the contours of detected faces.
 - [Healthkit ![GitHub Repo Stars](https://img.shields.io/github/stars/Ad-Scientiam/capacitor-healthkit) ![GitHub last commit](https://img.shields.io/github/last-commit/Ad-Scientiam/capacitor-healthkit)](https://github.com/Ad-Scientiam/capacitor-healthkit) - Retrieve data from HealthKit.
-- [Intent ![GitHub Repo Stars](https://img.shields.io/github/stars/IT-MikeS/capacitor-intents) ![GitHub last commit](https://img.shields.io/github/last-commit/IT-MikeS/capacitor-intents)](https://github.com/IT-MikeS/capacitor-intents) - Supports multiple broadcast receiving of intents, and sending out BroadcastIntents in Android.
 - [Jitsi ![GitHub Repo Stars](https://img.shields.io/github/stars/calvinckho/capacitor-jitsi-meet) ![GitHub last commit](https://img.shields.io/github/last-commit/calvinckho/capacitor-jitsi-meet)](https://github.com/calvinckho/capacitor-jitsi-meet) - Make video calls through the free, open-sourced Jitsi video platform.
 - [Lightsensor ![GitHub Repo Stars](https://img.shields.io/github/stars/Elvincth/capacitor-plugin-lightsensor) ![GitHub last commit](https://img.shields.io/github/last-commit/Elvincth/capacitor-plugin-lightsensor)](https://github.com/Elvincth/capacitor-plugin-lightsensor) - Get the illuminance level on the device.
 - [Native Audio Player ![GitHub Repo Stars](https://img.shields.io/github/stars/smartcompanion-app/native-audio-player) ![GitHub last commit](https://img.shields.io/github/last-commit/smartcompanion-app/native-audio-player)](https://github.com/smartcompanion-app/native-audio-player) - Play audio that keeps playing in the background, player is shown in system controls, audio output can be switched between speaker/earpiece.
@@ -348,6 +387,7 @@ Independents plugins are listed here.
 - [Capacitor Calendar ![GitHub Repo Stars](https://img.shields.io/github/stars/ebarooni/capacitor-calendar) ![GitHub last commit](https://img.shields.io/github/last-commit/ebarooni/capacitor-calendar)](https://github.com/ebarooni/capacitor-calendar) - A plugin for interacting with calendar and reminders.
 - [Capacitor voice recorder ![GitHub Repo Stars](https://img.shields.io/github/stars/tchvu3/capacitor-voice-recorder) ![GitHub last commit](https://img.shields.io/github/last-commit/tchvu3/capacitor-voice-recorder)](https://github.com/tchvu3/capacitor-voice-recorder) - A plugin for simple voice recording.
 - [capacitor-app-attest ![GitHub Repo Stars](https://img.shields.io/github/stars/ludufre/capacitor-app-attest) ![GitHub last commit](https://img.shields.io/github/last-commit/ludufre/capacitor-app-attest)](https://github.com/ludufre/capacitor-app-attest) - Apple Attest with Ionic Capacitor.
+- [capacitor-thermal-state ![GitHub Repo Stars](https://img.shields.io/github/stars/isaforge/capacitor-thermal-state) ![GitHub last commit](https://img.shields.io/github/last-commit/isaforge/capacitor-thermal-state)](https://github.com/isaforge/capacitor-thermal-state) - Monitor device thermal state (overheating detection) on iOS and Android.
 - [capacitor-live-activities ![GitHub Repo Stars](https://img.shields.io/github/stars/ludufre/capacitor-live-activities) ![GitHub last commit](https://img.shields.io/github/last-commit/ludufre/capacitor-live-activities)](https://github.com/ludufre/capacitor-live-activities) - Capacitor plugin to use Live Activities on iOS 16.2+.
 - [capacitor-lottie-splash-screen ![GitHub Repo Stars](https://img.shields.io/github/stars/ludufre/capacitor-lottie-splash-screen) ![GitHub last commit](https://img.shields.io/github/last-commit/ludufre/capacitor-lottie-splash-screen)](https://github.com/ludufre/capacitor-lottie-splash-screen) - Capacitor plugin to use Lottie animations as splash screen.
 
@@ -393,6 +433,10 @@ This list will be upgraded soon
 - [Capgo Semver Tester](https://capgo.app/semver_tester/) - Test semantic versioning compatibility for your app.
 - [AASA Tester](https://aasa-tester.capgo.app) - Test Apple App Site Association (AASA) configuration.
 
+## Helpers
+
+- [vue-capacitor-haptics](https://https://github.com/benoitlahoz/vue-capacitor-haptics) - A Vue 3 wrapper for the Capacitor Haptics plugin (composable + directive), providing an easy-to-use interface for adding haptic feedback to Ionic-Vue applications.
+
 ## Learning
 
 Places to learn about Capacitor
@@ -413,7 +457,7 @@ Places to learn about Capacitor
 
 ### Crash Courses
 
-- [Capacitor Crash Course](https://www.udemy.com/course/capacitor-crash-course) - Learn to use Capacitor with Ionic by Simon Grimm.
+- [Capacitor Crash Course](https://www.udemy.com/course/capacitor-crash-course/) - Learn to use Capacitor with Ionic by Simon Grimm.
 
 ### Community Tutorials
 
@@ -457,8 +501,9 @@ Places to discuss about Capacitor
 
 ## Freelancers
 
-- [Martin Donadieu](https://cal.com/martindonadieu/30min) - Creator of this list and of Capgo live update system + 10 plugins.
-
+- [Adrien](https://book.capgo.app/adrien/) - Creator of Capstart the best boilerplate for Capacitor and Capgo part-time developper.
+- [Jordan](https://book.capgo.app/jordan/) - Creator of multiple mobile app and Capgo part-time developper.
+- [Capgo consulting](https://capgo.app/consulting/) - Creator of this list and of Capgo live update system + 150 plugins.
 
 ## Contributing
 
