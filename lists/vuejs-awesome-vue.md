@@ -1111,6 +1111,7 @@ _Display non-editable events in a Calendar_
 - [@f3ve/vue-markdown-it ![GitHub Repo Stars](https://img.shields.io/github/stars/f3ve/vue-markdown-it) ![GitHub last commit](https://img.shields.io/github/last-commit/f3ve/vue-markdown-it)](https://github.com/f3ve/vue-markdown-it) - A markdown-it component for Vue3. Easy to use and fully typed.
 - [Vue Markdown ![GitHub Repo Stars](https://img.shields.io/github/stars/litingyes/vue-markdown) ![GitHub last commit](https://img.shields.io/github/last-commit/litingyes/vue-markdown)](https://github.com/litingyes/vue-markdown) - The vue component for render Markdown string, supports custom rendering of specific node types and better adapts to AI Chat Stream.
 - [markdown-design ![GitHub Repo Stars](https://img.shields.io/github/stars/ZeroOneJs/markdown-design) ![GitHub last commit](https://img.shields.io/github/last-commit/ZeroOneJs/markdown-design)](https://github.com/ZeroOneJs/markdown-design) - An out-of-the-box Vue 3 Markdown component with real-time rendering, featuring TOC generation, full-text search, and more.
+- [markstream-vue ![GitHub Repo Stars](https://img.shields.io/github/stars/Simon-He95/markstream-vue) ![GitHub last commit](https://img.shields.io/github/last-commit/Simon-He95/markstream-vue)](https://github.com/Simon-He95/markstream-vue) - Streaming Markdown renderer for Vue 3, Nuxt, and VitePress AI chat UIs, with support for incomplete Markdown, Mermaid, KaTeX, long responses, and streaming code blocks.
 
 #### PDF
 
