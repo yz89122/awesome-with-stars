@@ -1137,6 +1137,7 @@ regular expression pattern matching. [BSD] [website](https://pcre2project.github
 
 ## Robotics
 
+* [FusionCore ![GitHub Repo Stars](https://img.shields.io/github/stars/manankharwar/fusioncore) ![GitHub last commit](https://img.shields.io/github/last-commit/manankharwar/fusioncore)](https://github.com/manankharwar/fusioncore) - ROS 2 UKF sensor fusion library fusing GPS, IMU, and wheel odometry with adaptive noise and outlier rejection for robust outdoor localization. [Apache2]
 * [MOOS-IvP](http://moos-ivp.org) - A set of open source C++ modules for providing autonomy on robotic platforms, in particular autonomous marine vehicles.
 * [MRPT](http://www.mrpt.org/) - Mobile Robot Programming Toolkit. [BSD]
 * [PCL ![GitHub Repo Stars](https://img.shields.io/github/stars/PointCloudLibrary/pcl) ![GitHub last commit](https://img.shields.io/github/last-commit/PointCloudLibrary/pcl)](https://github.com/PointCloudLibrary/pcl) - Point Cloud Library is a standalone, large scale, open project for 2D/3D image and point cloud processing. [BSD] [website](http://www.pointclouds.org/)
