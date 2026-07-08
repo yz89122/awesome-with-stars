@@ -1,4 +1,4 @@
-<img src="https://github.com/joho/awesome-code-review/raw/master/Awesome%20Code%20Review.png" alt="Awesome Code Review" />
+<img src="https://github.com/joho/awesome-code-review/raw/main/Awesome%20Code%20Review.png" alt="Awesome Code Review" />
 
 # Awesome Code Review [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
