@@ -284,7 +284,7 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 | <a href="https://codered.eccouncil.org/course/a-practical-introduction-to-cloud-computing" target="_blank" rel="noopener noreferrer">Introduction to Cloud Computing</a> | EC-Council |Beginner|3 | 🏆|
 | <a href="https://explore.skillbuilder.aws/learn/public/learning_plan/view/82/cloud-essentials-knowledge-badge-readiness-path" target="_blank" rel="noopener noreferrer">Cloud Essentials Knowledge</a> | Amazon | Intermediate | 10 | 🏅 |
 
-<a href="https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents" target="_blank" rel="noopener noreferrer">⬆️</a>
+<a href="https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents" target="_blank" rel="noopener noreferrer">⬆���</a>
 
 ## Computer Theories and Concepts
 
@@ -556,7 +556,7 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 | <a href="https://www.netacad.com/courses/ethical-hacker" target="_blank" rel="noopener noreferrer">Ethical Hacker</a>| Cisco Networking Academy | Intermediate | 70 | <a href="https://www.netacad.com/courses/ethical-hacker" target="_blank" rel="noopener noreferrer">🏆</a>|
 | <a href="https://www.netacad.com/courses/packet-tracer" target="_blank" rel="noopener noreferrer">Intro to Packet Tracer</a> | Cisco Networking Academy | Beginner | 10  | <a href="https://www.youracclaim.com/org/cisco/badge/introduction-to-packet-tracer" target="_blank" rel="noopener noreferrer">🏅</a> |
 | <a href="https://skills.yourlearning.ibm.com/activity/ILB-DNRPWDGQGMMY7GGD" target="_blank" rel="noopener noreferrer">Cybersecurity Fundamentals</a> | IBM / SkillsBuild | Beginner | 10 | <a href="https://www.youracclaim.com/org/ibm/badge/cybersecurity-fundamentals" target="_blank" rel="noopener noreferrer">🏅</a> |
-| <a href="https://www.freecodecamp.org/learn/information-security/" target="_blank" rel="noopener noreferrer">Information Security Certification</a> | FreeCodeCamp |Professional|300 | 🏆|
+| <a href="https://www.freecodecamp.org/learn/information-security/" target="_blank" rel="noopener noreferrer">Information Security Certification</a> | FreeCodeCamp |Professional|300 | ��|
 | <a href="https://www.isc2.org/certifications/cc" target="_blank" rel="noopener noreferrer">Certified in Cybersecurity</a> | ISC2 | Beginner | 14 | <a href="https://www.credly.com/org/isc2/badge/certified-in-cybersecurity-cc" target="_blank" rel="noopener noreferrer">🏅</a> |
 | <a href="https://training.fortinet.com/local/staticpage/view.php?page=fcf_cybersecurity" target="_blank" rel="noopener noreferrer">Fortinet Certified Fundamentals in Cybersecurity</a> | Fortinet Training Institute | Beginner | 10 | <a href="https://www.credly.com/org/fortinet/badge/fortinet-certified-fundamentals-cybersecurity" target="_blank" rel="noopener noreferrer">🏆</a> |
 | <a href="https://training.fortinet.com/local/staticpage/view.php?page=fca_cybersecurity" target="_blank" rel="noopener noreferrer">Fortinet Certified Associate in Cybersecurity</a> | Fortinet Training Institute | Beginner | 6 | <a href="https://www.credly.com/org/fortinet/badge/fortinet-certified-associate-cybersecurity.1" target="_blank" rel="noopener noreferrer">🏆</a> |
