@@ -1,4 +1,4 @@
-![Awesome Claude Code](https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/awesome-claude-code-banner.png)
+![Awesome Claude Code](https://github.com/hesreallyhim/awesome-claude-code/raw/master/assets/awesome-claude-code-banner.png)
 
 <!-- Awesome Claude Code -->
 
@@ -18,7 +18,7 @@ The current iteration of the list, such as you see it today, was launched with t
 <div align="center">
 
 <picture>
-  <img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/repo-ticker.svg" alt="Featured Claude Code Projects" width="100%">
+  <img src="https://github.com/hesreallyhim/awesome-claude-code/raw/master/assets/repo-ticker.svg" alt="Featured Claude Code Projects" width="100%">
 </picture>
 
 </div>
@@ -30,7 +30,7 @@ The current iteration of the list, such as you see it today, was launched with t
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="assets/recently-added-light.svg">
-  <img src="https://github.com/hesreallyhim/awesome-claude-code/raw/main/assets/recently-added.svg" alt="Recently Added Resources" width="100%">
+  <img src="https://github.com/hesreallyhim/awesome-claude-code/raw/master/assets/recently-added.svg" alt="Recently Added Resources" width="100%">
 </picture>
 
 </div>
