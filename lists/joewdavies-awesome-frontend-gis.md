@@ -9,7 +9,7 @@
   
 <div>
     <a href='https://github.com/eurostat/gridviz' target='_blank'>
-        <img src='https://github.com/joewdavies/awesome-frontend-gis/raw/master/images/awesome-fronted-gis-banner.png'>
+        <img src='https://github.com/joewdavies/awesome-frontend-gis/raw/main/images/awesome-fronted-gis-banner.png'>
     </a>
 </div>
 
