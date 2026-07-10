@@ -298,7 +298,7 @@ Descriptions focus on structure, scope, and market role rather than time-depende
 * 🇮🇳 **[National Stock Exchange of India (NSE)](https://www.nseindia.com)**
   India’s largest exchange by trading volume, known for its fully electronic infrastructure.
 
-* 🇺🇸 **[New York Stock Exchange (NYSE)](https://www.nyse.com)**
+* 🇺���� **[New York Stock Exchange (NYSE)](https://www.nyse.com)**
   Central venue for large-cap and blue-chip companies, operating a hybrid trading model.
 
 * 🇨🇳 **[Shanghai Stock Exchange (SSE)](https://www.sse.com.cn)**
