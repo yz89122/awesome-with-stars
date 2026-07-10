@@ -488,7 +488,7 @@ Architectures, software and hardware allowing the storage and usage of secrets t
 
 - [High Availability in Google's Internal KMS](https://www.youtube.com/watch?v=5T_c-lqgjso) - Not GCP's KMS, but the one at the core of their infrastructure. See the [slides](https://web.archive.org/web/20251203022343/https://rwc.iacr.org/2018/Slides/Kanagala.pdf).
 
-- [HashiCorp Vault ![GitHub Repo Stars](https://img.shields.io/github/stars/hashicorp/vault) ![GitHub last commit](https://img.shields.io/github/last-commit/hashicorp/vault)](https://github.com/hashicorp/vault) - �� Secure, store and tightly control access to tokens, passwords, certificates, encryption keys.
+- [HashiCorp Vault ![GitHub Repo Stars](https://img.shields.io/github/stars/hashicorp/vault) ![GitHub last commit](https://img.shields.io/github/last-commit/hashicorp/vault)](https://github.com/hashicorp/vault) - 💸 Secure, store and tightly control access to tokens, passwords, certificates, encryption keys.
 
 - [Infisical ![GitHub Repo Stars](https://img.shields.io/github/stars/Infisical/infisical) ![GitHub last commit](https://img.shields.io/github/last-commit/Infisical/infisical)](https://github.com/Infisical/infisical) - 💸 An alternative to HashiCorp Vault.
 
