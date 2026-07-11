@@ -1338,6 +1338,7 @@ be
 * [Opik ![GitHub Repo Stars](https://img.shields.io/github/stars/comet-ml/opik) ![GitHub last commit](https://img.shields.io/github/last-commit/comet-ml/opik)](https://github.com/comet-ml/opik): Evaluate, trace, test, and ship LLM applications across your dev and production lifecycles.
 * [pyclugen ![GitHub Repo Stars](https://img.shields.io/github/stars/clugen/pyclugen) ![GitHub last commit](https://img.shields.io/github/last-commit/clugen/pyclugen)](https://github.com/clugen/pyclugen) - Multidimensional cluster generation in Python.
 * [mlforgex ![GitHub Repo Stars](https://img.shields.io/github/stars/dhgefergfefruiwefhjhcduc/ML_Forgex) ![GitHub last commit](https://img.shields.io/github/last-commit/dhgefergfefruiwefhjhcduc/ML_Forgex)](https://github.com/dhgefergfefruiwefhjhcduc/ML_Forgex) - Lightweight ML utility for automated training, evaluation, and prediction with CLI and Python API support.
+* [autobatcher ![GitHub Repo Stars](https://img.shields.io/github/stars/doublewordai/autobatcher) ![GitHub last commit](https://img.shields.io/github/last-commit/doublewordai/autobatcher)](https://github.com/doublewordai/autobatcher) - Drop-in AsyncOpenAI replacement that transparently batches requests via the Batch API for cheaper LLM inference.
 
 <a name="python-data-analysis--data-visualization"></a>
 #### Data Analysis / Data Visualization
