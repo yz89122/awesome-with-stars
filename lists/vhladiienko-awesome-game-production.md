@@ -117,7 +117,7 @@ Many post-mortems here are back from the day, and might seem outdated and not us
 ### Courses
 - [Deeply Practical Project Management](https://www.udemy.com/course/deeply-practical-project-management/) - This is what you'd call a "no BS" course on project management. Concise, to the point, and highly practical. It is not focused on game development, but I think you should still take it, because it closes many (if not all) gaps with just one course (~9 hours). Once completed, just adapt to your needs or just use some of the principles. It also includes numerous document templates and examples.
 
-## ���� Tools and templates
+## 🔧 Tools and templates
 
 As a producer, you might need a few tools to help you deliver the damn thing. Some of these may not be useful to you directly, but I might have include one if I think you should at least know such a tool exists. This is to help you gain a few credits in your team.
 

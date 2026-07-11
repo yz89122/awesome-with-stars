@@ -359,6 +359,7 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 - [cjodo/convert.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/cjodo/convert.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/cjodo/convert.nvim)](https://github.com/cjodo/convert.nvim) - Helps with CSS unit conversions.
 - [tednguyendev/recent_rails.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/tednguyendev/recent_rails.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/tednguyendev/recent_rails.nvim)](https://github.com/tednguyendev/recent_rails.nvim) - Telescope picker for recent Rails actions, views, and errors.
 - [ankushbhagats/liveserver.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/ankushbhagats/liveserver.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/ankushbhagats/liveserver.nvim)](https://github.com/ankushbhagats/liveserver.nvim) - Live-server integration with smart commands and a clickable lualine toggle.
+- [harukikuri/viteenv.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/harukikuri/viteenv.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/harukikuri/viteenv.nvim)](https://github.com/harukikuri/viteenv.nvim) - Shows the effective value of `import.meta.env` variables inline per mode, resolved by your project's own `Vite`.
 
 ### Markdown and LaTeX
 
