@@ -1,4 +1,4 @@
-# Awesome Arch [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.com/PandaFoss/Awesome-Arch.svg?branch=master)](https://travis-ci.com/PandaFoss/Awesome-Arch)
+# Awesome Arch [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome) [![Netlify Status](https://api.netlify.com/api/v1/badges/4c119a21-57f6-4391-9f3a-fe7f6b72f05c/deploy-status)](https://app.netlify.com/projects/awesome-arch/deploys)
 
 > An awesome list for an awesome project.</i></p>
 
@@ -175,6 +175,7 @@ It has everything on board to build AOSP or AOSP-based distributions like Lineag
 - [Arch Linux on EC2](https://www.uplinklabs.net/projects/arch-linux-on-ec2/) - Amazon EC2 AMIs based on Arch Linux
 - [JuNest ![GitHub Repo Stars](https://img.shields.io/github/stars/fsquillace/junest) ![GitHub last commit](https://img.shields.io/github/last-commit/fsquillace/junest)](https://github.com/fsquillace/junest) - A lightweight Arch Linux-based distro that runs, without root privileges, upon any Linux distro.
 - [makepkg-optimize ![GitHub Repo Stars](https://img.shields.io/github/stars/ptr1337/makepkg-optimize) ![GitHub last commit](https://img.shields.io/github/last-commit/ptr1337/makepkg-optimize)](https://github.com/ptr1337/makepkg-optimize) - A collection of supplemental tidy, buildenv, and executable scripts for pacman which provide macros for several kinds of optimization in the build() and package() stages.
+- [tarman ![GitHub Repo Stars](https://img.shields.io/github/stars/Alessandro-Salerno/tarman) ![GitHub last commit](https://img.shields.io/github/last-commit/Alessandro-Salerno/tarman)](https://github.com/Alessandro-Salerno/tarman) -  The portable, cross-platform, extensible, and simple package manager for tarballs (and others!) 
 
 ## Inactive projects
 
@@ -219,6 +220,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="12.5%"><a href="http://malacology.net"><img src="https://avatars.githubusercontent.com/u/37733075?v=4?s=100" width="100px;" alt="Kuoi"/><br /><sub><b>Kuoi</b></sub></a><br /><a href="#content-starsareintherose" title="Content">🖋</a></td>
       <td align="center" valign="top" width="12.5%"><a href="https://github.com/sogreatandpowerfull"><img src="https://avatars.githubusercontent.com/u/114095654?v=4?s=100" width="100px;" alt="SoGreatAndPowerful"/><br /><sub><b>SoGreatAndPowerful</b></sub></a><br /><a href="#content-sogreatandpowerfull" title="Content">🖋</a></td>
       <td align="center" valign="top" width="12.5%"><a href="https://github.com/ghost"><img src="https://avatars.githubusercontent.com/u/10137?v=4?s=100" width="100px;" alt="Deleted user"/><br /><sub><b>Deleted user</b></sub></a><br /><a href="#maintenance-ghost" title="Maintenance">🚧</a></td>
+      <td align="center" valign="top" width="12.5%"><a href="https://github.com/Alessandro-Salerno"><img src="https://avatars.githubusercontent.com/u/67583725?v=4?s=100" width="100px;" alt="Alessandro Salerno"/><br /><sub><b>Alessandro Salerno</b></sub></a><br /><a href="#content-Alessandro-Salerno" title="Content">🖋</a></td>
     </tr>
   </tbody>
 </table>

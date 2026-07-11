@@ -55,7 +55,7 @@ Gallery
 -   [LatexDiagrams ![GitHub Repo Stars](https://img.shields.io/github/stars/FriendlyUser/LatexDiagrams) ![GitHub last commit](https://img.shields.io/github/last-commit/FriendlyUser/LatexDiagrams)](https://github.com/FriendlyUser/LatexDiagrams) - This repo contains many diagrams generated for academic usage, including Algorithms-Data Structures, Artificial Intelligence, BlogDiagrams, DSP, Engineering Software Design, etc.
 -   [tikz-network ![GitHub Repo Stars](https://img.shields.io/github/stars/hackl/tikz-network) ![GitHub last commit](https://img.shields.io/github/last-commit/hackl/tikz-network)](https://github.com/hackl/tikz-network) - A tool to visualize complex networks in LaTeX.
 -   [TikZ.net](https://tikz.net/) - Graphics with TikZ in LaTeX.
-
+-   [OpenTikZ ![GitHub Repo Stars](https://img.shields.io/github/stars/opentikz/opentikz) ![GitHub last commit](https://img.shields.io/github/last-commit/opentikz/opentikz)](https://github.com/opentikz/opentikz) - An agent skill, many editable TikZ icons, and many parametric templates for academic diagrams.
 
 Tools
 -----
