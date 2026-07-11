@@ -195,7 +195,7 @@ _You might also like [Awesome Django ![GitHub Repo Stars](https://img.shields.io
 - [Wagtail & Agile – Wagtail Space 2017](https://www.youtube.com/watch?t=2m21s&v=-Qii_AyQsxE) by Edd Baldry.
 - [Deploy Wagtail to the Divio Cloud – Wagtail Space 2017](https://www.youtube.com/watch?t=38m13s&v=-Qii_AyQsxE) by Daniele Procida.
 - [All about Wagtail – Wagtail Space 2017](https://www.youtube.com/watch?v=OedQi5W3Zho) by Robin van der Rijst.
-- [Presenting Wagtail Clear StreamField, a modular StreamField app – Wagtail Space 2017](https://www.youtube.com/watch?t=19m1s&v=OedQi5W3Zho) by Edd Baldry.
+- [Presenting Wagtail Clear StreamField, a modular StreamField app ��� Wagtail Space 2017](https://www.youtube.com/watch?t=19m1s&v=OedQi5W3Zho) by Edd Baldry.
 - [Wagtail Experiments, easy A/B testing for your Wagtail sites – Wagtail Space 2017](https://www.youtube.com/watch?t=34m37s&v=OedQi5W3Zho) by Tom Dyson.
 - [Wagtail's preview, a new hope – Wagtail Space 2017](https://www.youtube.com/watch?v=ObM2pUgY-bs) by Bertrand Bordage.
 - [The Zen of Wagtail – Wagtail Space 2017](https://www.youtube.com/watch?t=16m38s&v=ObM2pUgY-bs) by Matt Westcott.
@@ -213,7 +213,7 @@ _You might also like [Awesome Django ![GitHub Repo Stars](https://img.shields.io
 - [Things i learned at Wagtail Space – Wagtail Space 2018](https://www.youtube.com/watch?v=u0CPaXRSOzI&t=719s) by Codie Roelf.
 - [Fly Wagtail to a PyCon – Wagtail Space 2018](https://www.youtube.com/watch?v=u0CPaXRSOzI&t=912s) by Daniele Procida.
 - [Wagtail Performance – Wagtail Space 2018](https://www.youtube.com/watch?v=u0CPaXRSOzI&t=1345s) by Michael van Tellingen. [Code](https://gist.github.com/mvantellingen/daebda6abbaa9a5ed0888f886a77fcf0).
-- [Mutliple images uploader �� Wagtail Space 2018](https://www.youtube.com/watch?v=u0CPaXRSOzI&t=1661s) by Rajeev J Sebastian.
+- [Mutliple images uploader – Wagtail Space 2018](https://www.youtube.com/watch?v=u0CPaXRSOzI&t=1661s) by Rajeev J Sebastian.
 - [Wagtail Space easter egg team demo – Wagtail Space 2018](https://www.youtube.com/watch?v=u0CPaXRSOzI&t=2057s) by Lars. [Code ![GitHub Repo Stars](https://img.shields.io/github/stars/specialunderwear/haunted-wagtail) ![GitHub last commit](https://img.shields.io/github/last-commit/specialunderwear/haunted-wagtail)](https://github.com/specialunderwear/haunted-wagtail).
 - [Wagtail Space 2019 – Wagtail Space 2018](https://www.youtube.com/watch?v=u0CPaXRSOzI&t=2278s) by Maarten Kling.
 - [Wagtail in 2018 – Wagtail Space US 2018](https://www.youtube.com/watch?v=ICKYMO0YoFI&index=2&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV) by Tom Dyson.

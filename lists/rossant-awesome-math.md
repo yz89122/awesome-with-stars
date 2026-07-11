@@ -244,7 +244,7 @@ All resources are freely available except those with a 💲 icon.
 * 📝 [Mathematical Logic](http://www.personal.psu.edu/t20/notes/logic.pdf) - Stephen G. Simpson (Pennsylvania State University)
 * 📝 [Formal Logic](http://maude.sip.ucm.es/~miguelpt/papers/flogic.pdf) - Miguel Palomino
 * 📝 [Predictive Arithmetic](https://web.math.princeton.edu/~nelson/books/pa.pdf) - Edward Nelson
-* ��� [Proofs and Concepts: the fundamentals of abstract mathematics](http://people.uleth.ca/~dave.morris/books/proofs+concepts.html) - Joy Morris, Dave Morris
+* 📝 [Proofs and Concepts: the fundamentals of abstract mathematics](http://people.uleth.ca/~dave.morris/books/proofs+concepts.html) - Joy Morris, Dave Morris
 * 📝 [Mathematical Reasoning: Writing and Proof](https://www.tedsundstrom.com/mathreasoning) - Ted Sundstrom
 * 📝 [Logic and Proof](http://leanprover.github.io/logic_and_proof/) -  Jeremy Avigad, Robert Y. Lewis, and Floris van Doorn
 * 📝 [QED - an interactive textbook](https://teorth.github.io/QED) - Terence Tao
@@ -290,7 +290,7 @@ All resources are freely available except those with a 💲 icon.
 * 📝 [A Computational Introduction to Number Theory and Algebra](http://shoup.net/ntb/ntb-v2.pdf) - Victor Shoup
 * 📝 [Number Theory: A Contemporary Introduction](http://alpha.math.uga.edu/~pete/4400FULL.pdf) - Pete L. Clark
 * 📝 [An Introduction to the Theory of Numbers](http://www.trillia.com/moser-number.html) - Leo Moser
-* ��� [Yet Another Introductory Number Theory Textbook](https://www.poritz.net/jonathan/share/yaintt/) - Jonathan A. Poritz
+* 📝 [Yet Another Introductory Number Theory Textbook](https://www.poritz.net/jonathan/share/yaintt/) - Jonathan A. Poritz
 
 ### Algebraic Number Theory
 
@@ -593,7 +593,7 @@ All resources are freely available except those with a 💲 icon.
 * 📝 [Lectures on Stochastic Processes](http://www.math.tifr.res.in/~publ/ln/tifr24.pdf) - K. Ito (Tata Institute of Fundamental Research, Bombay)
 * 📝 [Probability and Stochastic Processes with Applications](http://www.math.harvard.edu/~knill/teaching/math144_1994/probability.pdf) - Oliver Knill (Harvard University)
 * 📝 [Stochastic Processes](http://statweb.stanford.edu/~adembo/math-136/nnotes.pdf) - Amir Dembo (Stanford University)
-* 📝 [Lecture Notes on Stochastic Processes](http://www.mi.fu-berlin.de/wiki/pub/CompMolBio/MarkovKetten15/stochastic_processes_2011.pdf) - Frank Noé, Bettina Keller and Jan-Hendrik Prinz (Freie Universit��t Berlin)
+* 📝 [Lecture Notes on Stochastic Processes](http://www.mi.fu-berlin.de/wiki/pub/CompMolBio/MarkovKetten15/stochastic_processes_2011.pdf) - Frank Noé, Bettina Keller and Jan-Hendrik Prinz (Freie Universität Berlin)
 * 📝 [Introduction to Stochastic Processes - Lecture Notes](https://www.ma.utexas.edu/users/gordanz/notes/introduction_to_stochastic_processes.pdf) - Gordan Žitković (University of Texas)
 * 📝 [Applied Stochastic Processes in science and engineering](https://www.math.uwaterloo.ca/~mscott/Little_Notes.pdf) - Matt Scott (University of Waterloo)
 * 📝 [An Introduction to Stochastic Processes in Continuous Time](http://www.math.leidenuniv.nl/~spieksma/colleges/sp-master/sp-hvz1.pdf) - Flora Spieksma (Leiden University)
