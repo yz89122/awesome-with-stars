@@ -608,7 +608,7 @@ Royalty Free Game Art! Don't forget to check the license.
 <br />
 
 
-[The Art of Game Design](https://www.schellgames.com/art-of-game-design/) 💠�� - An essential book on game design, basically mandatory reading for designers. Has a price tag, but is well worth the money.
+[The Art of Game Design](https://www.schellgames.com/art-of-game-design/) 💠🟪 - An essential book on game design, basically mandatory reading for designers. Has a price tag, but is well worth the money.
 
 
 [The Design of Everyday Things](https://ia902800.us.archive.org/3/items/thedesignofeverydaythingsbydonnorman/The%20Design%20of%20Everyday%20Things%20by%20Don%20Norman.pdf) 💠🟪 - A book on design in everything, basically mandatory reading for designers.
