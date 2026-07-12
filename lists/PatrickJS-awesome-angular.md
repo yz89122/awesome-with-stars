@@ -1179,6 +1179,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [elements-template ![GitHub Repo Stars](https://img.shields.io/github/stars/giacomo/elements-template) ![GitHub last commit](https://img.shields.io/github/last-commit/giacomo/elements-template)](https://github.com/giacomo/elements-template) - A modern, opinionated starter kit for building custom Web Components powered by Angular 21, Tailwind CSS v4, and Vitest.
 * [realworld-angular ![GitHub Repo Stars](https://img.shields.io/github/stars/realworld-angular/realworld-angular) ![GitHub last commit](https://img.shields.io/github/last-commit/realworld-angular/realworld-angular)](https://github.com/realworld-angular/realworld-angular) - RealWorld Angular example apps showcasing Angular libraries in action.
 * [spartan-admin-dashboard ![GitHub Repo Stars](https://img.shields.io/github/stars/Oussemasahbeni/spartan-admin-dashboard) ![GitHub last commit](https://img.shields.io/github/last-commit/Oussemasahbeni/spartan-admin-dashboard)](https://github.com/Oussemasahbeni/spartan-admin-dashboard) - A production-ready, Angular admin dashboard template built with Spartan UI components and Tailwind CSS.
+* [elite-angular-zen ![GitHub Repo Stars](https://img.shields.io/github/stars/saiyan666-4Wk/elite-angular-zen) ![GitHub last commit](https://img.shields.io/github/last-commit/saiyan666-4Wk/elite-angular-zen)](https://github.com/saiyan666-4Wk/elite-angular-zen) - 2026 Angular 17 Pro Admin Template with Clean Minimal Design.
 
 ### Paid Templates
 
@@ -1955,6 +1956,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-extended-pdf-viewer ![GitHub Repo Stars](https://img.shields.io/github/stars/stephanrauh/ngx-extended-pdf-viewer) ![GitHub last commit](https://img.shields.io/github/last-commit/stephanrauh/ngx-extended-pdf-viewer)](https://github.com/stephanrauh/ngx-extended-pdf-viewer) - A full-blown PDF viewer for Angular 16+.
 * [ngx-pdf-viewer ![GitHub Repo Stars](https://img.shields.io/github/stars/subedigaurav/ngx-pdf-viewer) ![GitHub last commit](https://img.shields.io/github/last-commit/subedigaurav/ngx-pdf-viewer)](https://github.com/subedigaurav/ngx-pdf-viewer) - A lightweight PDF viewer library for Angular applications.
 * [pdf-viewer-kit ![GitHub Repo Stars](https://img.shields.io/github/stars/AmanKrr/pdf-viewer-kit) ![GitHub last commit](https://img.shields.io/github/last-commit/AmanKrr/pdf-viewer-kit)](https://github.com/AmanKrr/pdf-viewer-kit) - A modern, high-performance, framework-agnostic, lightweight PDF viewer and annotation library built on top of `pdf.js`.
+* [rm-ng-pdf-export ![GitHub Repo Stars](https://img.shields.io/github/stars/malikrajat/rm-ng-pdf-export) ![GitHub last commit](https://img.shields.io/github/last-commit/malikrajat/rm-ng-pdf-export)](https://github.com/malikrajat/rm-ng-pdf-export) - Angular library for generating and exporting ultra-high-quality PDFs from HTML content with smart page breaking and crystal-clear rendering.
 
 ### Pipes
 
@@ -2243,6 +2245,7 @@ for the creation of web applications developed with Angular.
 * [ngx-universal-viewer ![GitHub Repo Stars](https://img.shields.io/github/stars/Imishu29/ngx-universal-viewer) ![GitHub last commit](https://img.shields.io/github/last-commit/Imishu29/ngx-universal-viewer)](https://github.com/Imishu29/ngx-universal-viewer) - An Angular component for viewing PDFs, Word, Excel, and PowerPoint files in continuous scroll or page-by-page modes.
 * [ngx-voyage ![GitHub Repo Stars](https://img.shields.io/github/stars/mschn/ngx-voyage) ![GitHub last commit](https://img.shields.io/github/last-commit/mschn/ngx-voyage)](https://github.com/mschn/ngx-voyage) - File Explorer for Angular and PrimeNG.
 * [ngx-file-peek ![GitHub Repo Stars](https://img.shields.io/github/stars/valtonngara/ngx-file-peek) ![GitHub last commit](https://img.shields.io/github/last-commit/valtonngara/ngx-file-peek)](https://github.com/valtonngara/ngx-file-peek) - An Angular standalone component library that renders real file content as thumbnails from any URL or storage source.
+* [ngx-json-explorer ![GitHub Repo Stars](https://img.shields.io/github/stars/Swaraj55/ngx-json-explorer) ![GitHub last commit](https://img.shields.io/github/last-commit/Swaraj55/ngx-json-explorer)](https://github.com/Swaraj55/ngx-json-explorer) - An interactive, fully-customizable Angular JSON tree component featuring inline editing, search, and comprehensive option-based configuration.
 
 ### Visual Effects
 

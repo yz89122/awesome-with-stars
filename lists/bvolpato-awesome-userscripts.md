@@ -753,7 +753,7 @@ Userscripts can be used w/ the following browsers:
     <blockquote>
         💾 <a href="https://github.com/adamlui/ai-web-extensions/tree/main/chatgpt-auto-talk/#-installation">
             Install</a> /
-        📖 <a href="https://github.com/adamlui/chatgpt-auto-talk/#readme">
+        ��� <a href="https://github.com/adamlui/chatgpt-auto-talk/#readme">
             Readme</a> /
         📢 <a href="https://github.com/adamlui/chatgpt-auto-talk/discussions">
             Discuss</a> /
