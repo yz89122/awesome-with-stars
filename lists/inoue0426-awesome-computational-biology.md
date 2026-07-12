@@ -363,7 +363,7 @@ Browse and search the resources via the [GitHub Pages UI](https://inoue0426.gith
 
 ### LLM for Biology
 
-- [AI4Chem/ChemLLM-7B-Chat](https://huggingface.co/AI4Chem/ChemLLM-7B-Chat) �� LLM for chemical & molecular science.
+- [AI4Chem/ChemLLM-7B-Chat](https://huggingface.co/AI4Chem/ChemLLM-7B-Chat) — LLM for chemical & molecular science.
 - [BioGPT ![GitHub Repo Stars](https://img.shields.io/github/stars/microsoft/BioGPT) ![GitHub last commit](https://img.shields.io/github/last-commit/microsoft/BioGPT)](https://github.com/microsoft/BioGPT) — LLM for biomedical text generation.
 - [GeneGPT ![GitHub Repo Stars](https://img.shields.io/github/stars/ncbi/GeneGPT) ![GitHub last commit](https://img.shields.io/github/last-commit/ncbi/GeneGPT)](https://github.com/ncbi/GeneGPT) — LLM for biomedical information, integrated with various APIs.
 - [GenePT ![GitHub Repo Stars](https://img.shields.io/github/stars/yiqunchen/GenePT) ![GitHub last commit](https://img.shields.io/github/last-commit/yiqunchen/GenePT)](https://github.com/yiqunchen/GenePT) — Foundation LLM for single-cell data.
