@@ -129,6 +129,7 @@ Custom timers, timelines, and task scheduling.
 - [GMTimeLine ![GitHub Repo Stars](https://img.shields.io/github/stars/TimVN/GMTimeLine) ![GitHub last commit](https://img.shields.io/github/last-commit/TimVN/GMTimeLine)](https://github.com/TimVN/GMTimeLine) - A pure code alternative to GameMaker timelines.
 - [Agenda ![GitHub Repo Stars](https://img.shields.io/github/stars/benal20/Agenda.gml) ![GitHub last commit](https://img.shields.io/github/last-commit/benal20/Agenda.gml)](https://github.com/benal20/Agenda.gml) - Schedule and delay the execution of callbacks.
 - [GMMT ![GitHub Repo Stars](https://img.shields.io/github/stars/erkan612/GMMT) ![GitHub last commit](https://img.shields.io/github/last-commit/erkan612/GMMT)](https://github.com/erkan612/GMMT) - Tweening framework with 30+ easing functions, keyframes, clips, motion paths, spring physics, oscillation, perlin noise, and full playback control.
+- [STAGING ![GitHub Repo Stars](https://img.shields.io/github/stars/sdelaughter/STAGING) ![GitHub last commit](https://img.shields.io/github/last-commit/sdelaughter/STAGING)](https://github.com/sdelaughter/STAGING) - Split initialization tasks over multiple frames, including support for asynchronous tasks.
 
 ## Async
 
@@ -171,6 +172,7 @@ Custom timers, timelines, and task scheduling.
 - [GMLiteSearch ![GitHub Repo Stars](https://img.shields.io/github/stars/erkan612/GMLiteSearch) ![GitHub last commit](https://img.shields.io/github/last-commit/erkan612/GMLiteSearch)](https://github.com/erkan612/GMLiteSearch) - Fast, flexible full‑text search for GameMaker. Built for small to medium datasets (10k‑50k+ docs) with real‑time indexing, fuzzy search, n‑grams, BM25/TF‑IDF scoring, and persistence.
 - [Iota ![GitHub Repo Stars](https://img.shields.io/github/stars/JujuAdams/iota) ![GitHub last commit](https://img.shields.io/github/last-commit/JujuAdams/iota)](https://github.com/JujuAdams/iota) - Lightweight timestep library.
 - [GMVex ![GitHub Repo Stars](https://img.shields.io/github/stars/erkan612/GMVex) ![GitHub last commit](https://img.shields.io/github/last-commit/erkan612/GMVex)](https://github.com/erkan612/GMVex) - Vector graphics framework with SVG support, TrueType font rendering, path boolean operations and fill/stroke rendering.
+- [RunGML ![GitHub Repo Stars](https://img.shields.io/github/stars/sdelaughter/RunGML) ![GitHub last commit](https://img.shields.io/github/last-commit/sdelaughter/RunGML)](https://github.com/sdelaughter/RunGML) - A runtime scripting language with a Lisp-like syntax.  Facilitates modding support via included JSON files, and debugging/live coding via an in-game console.
 
 ## Tools
 
