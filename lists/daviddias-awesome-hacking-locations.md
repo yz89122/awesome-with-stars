@@ -1199,7 +1199,7 @@ Webpage: https://london.hackspace.org.uk/
 
 Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
-✔ | �� | [447 Hackney Road, London, E2 9DY](https://goo.gl/maps/iyzxMYzKocw) | 24/7 (Members Only)
+✔ | ✔ | [447 Hackney Road, London, E2 9DY](https://goo.gl/maps/iyzxMYzKocw) | 24/7 (Members Only)
 
 ## Scotland
 
