@@ -415,7 +415,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 
 ### Certification Programs
 
-* [Certificates.dev](https://certificates.dev/angular) - Obtain your Certification of Competence as an Angular Developer. **FREE WEEKEND - July 11-12, 2026**
+* [Certificates.dev](https://certificates.dev/angular) - Obtain your Certification of Competence as an Angular Developer.
 * [Angular Academy CA](https://www.angularacademy.ca/angular-certification) - Hands‑on, instructor‑led Angular training in Canada.
 * [Hackerrank](https://www.hackerrank.com/skills-verification/angular_basic) - Angular (Basic) Skills Certification Test.
 * [Koenig](https://www.koenig-solutions.com/angularjs-training-certification-courses) - Various courses cover Angular separately or full-stack.
@@ -492,6 +492,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [Kobi Hari](https://www.youtube.com/@kobihari)
 * [Programming Practicals](https://www.youtube.com/@programmingpracticals)
 * [Daniil Rabizo](https://www.youtube.com/@daniilrabizo)
+* [Loiane Groner](https://www.youtube.com/@loianegroner)
 * [StartupAngular](https://www.youtube.com/@StartupAngular) - In Japanese.
 * [Code with Keys](https://www.youtube.com/@codewithkeys) - In Persian.
 
@@ -653,6 +654,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [reangular ![GitHub Repo Stars](https://img.shields.io/github/stars/AleksanderBodurri/reangular) ![GitHub last commit](https://img.shields.io/github/last-commit/AleksanderBodurri/reangular)](https://github.com/AleksanderBodurri/reangular) - A coding-agent skill that converts a React library into a modern Angular library with full feature parity, automated browser validation, and a side-by-side parity review.
 * [repomix ![GitHub Repo Stars](https://img.shields.io/github/stars/yamadashy/repomix) ![GitHub last commit](https://img.shields.io/github/last-commit/yamadashy/repomix)](https://github.com/yamadashy/repomix) - A tool that packs your entire repository into a single, AI-friendly file.
 * [rxjs-mcp-server ![GitHub Repo Stars](https://img.shields.io/github/stars/shuji-bonji/rxjs-mcp-server) ![GitHub last commit](https://img.shields.io/github/last-commit/shuji-bonji/rxjs-mcp-server)](https://github.com/shuji-bonji/rxjs-mcp-server) - Execute, debug, and visualize RxJS streams directly from AI assistants like Claude.
+* [senior-angular-architect ![GitHub Repo Stars](https://img.shields.io/github/stars/itsdishant/senior-angular-architect) ![GitHub last commit](https://img.shields.io/github/last-commit/itsdishant/senior-angular-architect)](https://github.com/itsdishant/senior-angular-architect) - An expert AI skill for senior-level Angular architecture guidance.
 * [superconnect ![GitHub Repo Stars](https://img.shields.io/github/stars/bitovi/superconnect) ![GitHub last commit](https://img.shields.io/github/last-commit/bitovi/superconnect)](https://github.com/bitovi/superconnect) - An AI-powered tool that scans your Figma file, explores your React or Angular repo, generates `.figma.tsx` or `.figma.ts` mappings, and publishes them back via Figma’s CLI.
 * [Threadplane ![GitHub Repo Stars](https://img.shields.io/github/stars/cacheplane/angular-agent-framework) ![GitHub last commit](https://img.shields.io/github/last-commit/cacheplane/angular-agent-framework)](https://github.com/cacheplane/angular-agent-framework) - Angular-native agent UI framework: streaming chat, durable threads, interrupts, subagents, planning, memory, and generative UI for LangGraph and AG-UI backends.
 * [UI2CODE](https://ui2code.ai/) - UI to Code Converter in seconds with AI.
@@ -1675,6 +1677,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [animated-icons ![GitHub Repo Stars](https://img.shields.io/github/stars/ajitzero/animated-icons) ![GitHub last commit](https://img.shields.io/github/last-commit/ajitzero/animated-icons)](https://github.com/ajitzero/animated-icons) - Animated icons for Angular based on [moving icons](https://www.movingicons.dev/).
 * [hugeicons-angular ![GitHub Repo Stars](https://img.shields.io/github/stars/hugeicons/angular) ![GitHub last commit](https://img.shields.io/github/last-commit/hugeicons/angular)](https://github.com/hugeicons/angular) - 5,100+ free MIT-licensed stroke-rounded icons for Angular.
 * [@quikturn-sdk/logos-angular ![GitHub Repo Stars](https://img.shields.io/github/stars/quikturn-sdk/Company-Logos) ![GitHub last commit](https://img.shields.io/github/last-commit/quikturn-sdk/Company-Logos)](https://github.com/quikturn-sdk/Company-Logos) - TypeScript SDK for the [Quikturn Logos API](https://getquikturn.io/) - Fetch any company's logo by domain name.
+* [GeoIcons](https://geoicons.io) - Geographic map icons for every country, territory, and world region as tree-shakable Angular standalone components.
 
 ### Images
 

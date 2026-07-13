@@ -578,6 +578,7 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 - [vodchella/hodur.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/vodchella/hodur.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/vodchella/hodur.nvim)](https://github.com/vodchella/hodur.nvim) - Allows you to quickly open a file or copy URL located under cursor.
 - [A7Lavinraj/fyler.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/A7Lavinraj/fyler.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/A7Lavinraj/fyler.nvim)](https://github.com/A7Lavinraj/fyler.nvim) - File manager which can edit file system like a buffer with tree view.
 - [adriancmiranda/glimpse.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/adriancmiranda/glimpse.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/adriancmiranda/glimpse.nvim)](https://github.com/adriancmiranda/glimpse.nvim) - Fast multi-format file previewer with inline kitty graphics support, external pane previews, and integrations for file explorers and pickers.
+- [ingur/fzf-oil.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/ingur/fzf-oil.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/ingur/fzf-oil.nvim)](https://github.com/ingur/fzf-oil.nvim) - A tiny file browser with seamless toggling between fzf-lua and oil.nvim.
 <!--lint disable double-link -->
 [**⬆ back to top**](#contents)
 <!--lint enable double-link -->
@@ -1542,6 +1543,7 @@ then it is not supported:
 - [LucasTavaresA/SingleComment.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/LucasTavaresA/SingleComment.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/LucasTavaresA/SingleComment.nvim)](https://github.com/LucasTavaresA/SingleComment.nvim) - Always single line, comment sensitive, indentation preserving commenting.
 - [Zeioth/dooku.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/Zeioth/dooku.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/Zeioth/dooku.nvim)](https://github.com/Zeioth/dooku.nvim) - Generate and open your HTML code documentation.
 - [georgeharker/comment-tasks.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/georgeharker/comment-tasks.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/georgeharker/comment-tasks.nvim)](https://github.com/georgeharker/comment-tasks.nvim) - Keep your task manager up to date from TODO and FIXME comments in code.
+- [celeste3z/celeste_comment.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/celeste3z/celeste_comment.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/celeste3z/celeste_comment.nvim)](https://github.com/celeste3z/celeste_comment.nvim) - VSCode-style commenting plugin with support for line and block comments, and textobjects.
 
 ### Folding
 
