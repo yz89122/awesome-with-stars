@@ -116,12 +116,12 @@ The storefront of Magento 2 can be styled in numerous ways:
 
 - [Adobe PWA Studio](https://developer.adobe.com/commerce/pwa-studio/) - Adobe's headless React frontend. GraphQL client; offers Venia theme, Peregrine hooks, Buildpack (Webpack) and UPWARD (SSR/image middleware).
 - [Magento Luma](https://developer.adobe.com/commerce/frontend-core/guide/) - Magento 2's default demo theme (extends Magento/blank). The name also refers to the whole Luma stack: XML layout + blocks/containers + PHTML templates, enriched with LESS-compiled CSS and RequireJS/KnockoutJS/jQuery.
+- [MageObsidian ![GitHub Repo Stars](https://img.shields.io/github/stars/mage-obsidian/module-modern-frontend) ![GitHub last commit](https://img.shields.io/github/last-commit/mage-obsidian/module-modern-frontend)](https://github.com/mage-obsidian/module-modern-frontend) 🫡 - Open-source Luma replacement using Vite, Vue 3 islands and TailwindCSS 4 on top of native layouts/blocks/templates. Native ESM, HMR, optional Twig engine.
 - [Alokai ![GitHub Repo Stars](https://img.shields.io/github/stars/vuestorefront/vue-storefront) ![GitHub last commit](https://img.shields.io/github/last-commit/vuestorefront/vue-storefront)](https://github.com/vuestorefront/vue-storefront) - Formerly Vue Storefront — headless frontend framework.
 - [ScandiPWA ![GitHub Repo Stars](https://img.shields.io/github/stars/scandipwa/scandipwa) ![GitHub last commit](https://img.shields.io/github/last-commit/scandipwa/scandipwa)](https://github.com/scandipwa/scandipwa) - React/Redux PWA theme for Magento 2.3+.
 - [Breeze Evolution](https://breezefront.com/themes) - Lightweight Luma-compatible theme targeting 100 PageSpeed.
 - [Front-Commerce](https://www.front-commerce.com/) - French PWA front-end solution for Magento.
 - [Hyvä](https://hyva.io/) - Luma replacement using TailwindCSS and AlpineJS. Commercial license. Active compatibility-module ecosystem.
-- [MageObsidian ![GitHub Repo Stars](https://img.shields.io/github/stars/mage-obsidian/module-modern-frontend) ![GitHub last commit](https://img.shields.io/github/last-commit/mage-obsidian/module-modern-frontend)](https://github.com/mage-obsidian/module-modern-frontend) - Open-source Luma replacement using Vite, Vue 3 islands and TailwindCSS 4 on top of native layouts/blocks/templates. Native ESM, HMR, optional Twig engine.
 
 ## Tools
 
@@ -248,7 +248,7 @@ The storefront of Magento 2 can be styled in numerous ways:
 
 ### Marketing
 
-- [Google Tag Manager ![GitHub Repo Stars](https://img.shields.io/github/stars/magepal/magento2-google-tag-manager) ![GitHub last commit](https://img.shields.io/github/last-commit/magepal/magento2-google-tag-manager)](https://github.com/magepal/magento2-google-tag-manager) 🔥 �� - Google Tag Manager (GTM) with Data Layer for Magento 2.
+- [Google Tag Manager ![GitHub Repo Stars](https://img.shields.io/github/stars/magepal/magento2-google-tag-manager) ![GitHub last commit](https://img.shields.io/github/last-commit/magepal/magento2-google-tag-manager)](https://github.com/magepal/magento2-google-tag-manager) 🔥 🫡 - Google Tag Manager (GTM) with Data Layer for Magento 2.
 - [MagePlaza Seo ![GitHub Repo Stars](https://img.shields.io/github/stars/mageplaza/magento-2-seo-extension) ![GitHub last commit](https://img.shields.io/github/last-commit/mageplaza/magento-2-seo-extension)](https://github.com/mageplaza/magento-2-seo-extension) 🫡 - Well-documented multi-purpose SEO Extension.
 - [magento2-withdrawl ![GitHub Repo Stars](https://img.shields.io/github/stars/Zwernemann/magento2-withdrawl) ![GitHub last commit](https://img.shields.io/github/last-commit/Zwernemann/magento2-withdrawl)](https://github.com/Zwernemann/magento2-withdrawl) 🫡 - Magento 2 module providing a compliant EU withdrawal button required from June 19, 2026 (§356a BGB / Directive (EU) 2023/2673). Enables customers and guests to revoke orders via a simple form (name, order number, email), sends automatic confirmation emails, and allows admin management in the backend.
 - [module-blog ![GitHub Repo Stars](https://img.shields.io/github/stars/mage-os-lab/module-blog) ![GitHub last commit](https://img.shields.io/github/last-commit/mage-os-lab/module-blog)](https://github.com/mage-os-lab/module-blog) 🫡 - Blog module for Mage-OS / Magento 2 with posts, categories, tags, authors, scheduled publishing, SEO, RSS, sitemap, 6 widgets, and a full GraphQL API. Luma + Hyvä.
@@ -390,9 +390,9 @@ The storefront of Magento 2 can be styled in numerous ways:
 ## Newsletters
 
 - [Mage Dispatch](https://www.magedispatch.com/) 🫡 - Community-driven newsletter collecting links the Magento community should know about.
-- [The Devletter](https://www.maxpronko.com/the-devletter/) 🫡 - Free weekly email digest by Max Pronko covering Magento 2 development tips and news.
 - [M Bytes Newsletter](https://m.academy/newsletter/) - Weekly developer newsletter from M.academy delivering three free Magento video lessons every Thursday.
 - [Mageres Monthly Digest](https://mailchi.mp/6a498018d9ef/mageres) - Hand-curated monthly newsletter by Alessandro Ronchi collecting useful Magento resources.
+- [The Devletter](https://www.maxpronko.com/the-devletter/) - Free weekly email digest by Max Pronko covering Magento 2 development tips and news.
 
 ## Community
 
