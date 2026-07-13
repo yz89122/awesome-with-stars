@@ -832,6 +832,7 @@ Inclusion criteria are less strict for this fast-moving field.
 - [toktrack ![GitHub Repo Stars](https://img.shields.io/github/stars/mag123c/toktrack) ![GitHub last commit](https://img.shields.io/github/last-commit/mag123c/toktrack)](https://github.com/mag123c/toktrack) - Track token usage and cost across all agents.
 - [OpenCode ![GitHub Repo Stars](https://img.shields.io/github/stars/anomalyco/opencode) ![GitHub last commit](https://img.shields.io/github/last-commit/anomalyco/opencode)](https://github.com/anomalyco/opencode) - Open-source agent TUI.
 - [Nanocoder ![GitHub Repo Stars](https://img.shields.io/github/stars/Nano-Collective/nanocoder) ![GitHub last commit](https://img.shields.io/github/last-commit/Nano-Collective/nanocoder)](https://github.com/Nano-Collective/nanocoder) - Local-first agent TUI.
+- [faf-cli ![GitHub Repo Stars](https://img.shields.io/github/stars/Wolfe-Jam/faf-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/Wolfe-Jam/faf-cli)](https://github.com/Wolfe-Jam/faf-cli) - Authors AGENTS.md, CLAUDE.md and .cursorrules AI-Context files from your repo's real stack.
 
 ### LLM Interaction
 

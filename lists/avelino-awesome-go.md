@@ -3185,6 +3185,7 @@ _Libraries for manipulating video._
 
 _Full stack web frameworks._
 
+- [Andurel ![GitHub Repo Stars](https://img.shields.io/github/stars/mbvlabs/andurel) ![GitHub last commit](https://img.shields.io/github/last-commit/mbvlabs/andurel)](https://github.com/mbvlabs/andurel) - Rails-inspired full-stack Go web framework with scaffolding, database tooling, and server-rendered or Inertia frontends.
 - [Atreugo ![GitHub Repo Stars](https://img.shields.io/github/stars/savsgio/atreugo) ![GitHub last commit](https://img.shields.io/github/last-commit/savsgio/atreugo)](https://github.com/savsgio/atreugo) - High performance and extensible micro web framework with zero memory allocations in hot paths.
 - [Barf ![GitHub Repo Stars](https://img.shields.io/github/stars/opensaucerer/barf) ![GitHub last commit](https://img.shields.io/github/last-commit/opensaucerer/barf)](https://github.com/opensaucerer/barf) - Basically, A Remarkable Framework for building JSON-based web APIs. It is entirely unobtrusive and re-invents no wheel. It is crafted such that getting started is easy and quick while being flexible enough for more complex use cases.
 - [Beego ![GitHub Repo Stars](https://img.shields.io/github/stars/beego/beego) ![GitHub last commit](https://img.shields.io/github/last-commit/beego/beego)](https://github.com/beego/beego) - beego is an open-source, high-performance web framework for the Go programming language.
