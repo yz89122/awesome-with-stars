@@ -38,6 +38,7 @@
 - [📍 Icons](#-icons)
 - [📺 Videos](#-videos)
 - [📚 Further reading](#-further-reading)
+- [🤝 Contributing](#-contributing)
 
 ## 👨‍💻 JavaScript Libraries 
 
@@ -272,6 +273,7 @@ Plug-and-play geospatial web apps:
 - [GeoJSONLint](https://geojsonlint.com/) - Use this site to validate and view your GeoJSON.
 - [Pharos AI](https://conflicts.app) - Open-source real-time intelligence dashboard for geopolitical conflict tracking with interactive DeckGL/MapLibre geospatial visualization. ([Source Code ![GitHub Repo Stars](https://img.shields.io/github/stars/Juliusolsson05/pharos-ai) ![GitHub last commit](https://img.shields.io/github/last-commit/Juliusolsson05/pharos-ai)](https://github.com/Juliusolsson05/pharos-ai)) ![GitHub stars](https://img.shields.io/github/stars/Juliusolsson05/pharos-ai?style=social)
 - [Pumperly ![GitHub Repo Stars](https://img.shields.io/github/stars/GeiserX/pumperly) ![GitHub last commit](https://img.shields.io/github/last-commit/GeiserX/pumperly)](https://github.com/GeiserX/pumperly) - Open-source fuel price comparison and EV charging route planner using MapLibre GL JS, PostGIS, Valhalla routing, and Photon geocoding. ![GitHub stars](https://img.shields.io/github/stars/GeiserX/pumperly?style=social)
+- [gpx studio ![GitHub Repo Stars](https://img.shields.io/github/stars/gpxstudio/gpxstudio.github.io) ![GitHub last commit](https://img.shields.io/github/last-commit/gpxstudio/gpxstudio.github.io)](https://github.com/gpxstudio/gpxstudio.github.io) - Online tool for GPX editing.
 
 
 ## 🎨 Colour advice 
@@ -309,12 +311,9 @@ Videos of web mapping presentations and tutorials:
 - [Geospatial Network Visualization](https://geonetworks.github.io/) - A collection of visualization techniques for geospatial network data. 
 
 
-## Contributing
+## 🤝 Contributing
 
-Contributions of any kind are welcome, just follow the [guidelines](./CONTRIBUTING.md) by either:
-
-- Filling a [suggestion issue ![GitHub Repo Stars](https://img.shields.io/github/stars/joewdavies/awesome-frontend-gis) ![GitHub last commit](https://img.shields.io/github/last-commit/joewdavies/awesome-frontend-gis)](https://github.com/joewdavies/awesome-frontend-gis/issues/new/) (easier).
-- Opening a [pull request ![GitHub Repo Stars](https://img.shields.io/github/stars/joewdavies/awesome-frontend-gis) ![GitHub last commit](https://img.shields.io/github/last-commit/joewdavies/awesome-frontend-gis)](https://github.com/joewdavies/awesome-frontend-gis/compare).
+Contributions are welcome, just follow the [guidelines](./CONTRIBUTING.md).
 
 ---
 

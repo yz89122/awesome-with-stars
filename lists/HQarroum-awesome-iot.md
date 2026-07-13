@@ -149,6 +149,7 @@ Inspired by the [awesome ![GitHub Repo Stars](https://img.shields.io/github/star
  - [IoTSharp ![GitHub Repo Stars](https://img.shields.io/github/stars/IoTSharp/IoTSharp) ![GitHub last commit](https://img.shields.io/github/last-commit/IoTSharp/IoTSharp)](https://github.com/IoTSharp/IoTSharp) - IoTSharp is an open-source IoT platform for data collection, processing, visualization, and device management.
  - [Husarnet](https://husarnet.com/) - Husarnet is a global peer-to-peer network layer that can make the MCU-Server or MCU-MCU connection directly, without the need of a bridge, over the internet.
  - [Zilla ![GitHub Repo Stars](https://img.shields.io/github/stars/aklivity/zilla) ![GitHub last commit](https://img.shields.io/github/last-commit/aklivity/zilla)](https://github.com/aklivity/zilla) - A Multi-protocol event-native edge/service proxy that supports standard protocols such as HTTP, SSE, gRPC, MQTT and the native Kafka protocol.
+ - [IoT DC3 ![GitHub Repo Stars](https://img.shields.io/github/stars/pnoker/iot-dc3) ![GitHub last commit](https://img.shields.io/github/last-commit/pnoker/iot-dc3)](https://github.com/pnoker/iot-dc3) - Fully open-source, distributed industrial IoT platform built on Spring Cloud, with 28 built-in protocol drivers (Modbus, OPC UA, Siemens S7, BACnet, MQTT, CoAP), AI-powered operations, and microservice architecture. ([Docs](https://docs.dc3.site))
 
 #### Libraries and Tools
 
