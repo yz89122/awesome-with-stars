@@ -8,7 +8,7 @@ A curated collection of databases, software, and papers related to computational
 
 ## Overview
 
-[![Resource Landscape Overview ![GitHub Repo Stars](https://img.shields.io/github/stars/inoue0426/awesome-computational-biology) ![GitHub last commit](https://img.shields.io/github/last-commit/inoue0426/awesome-computational-biology)](https://github.com/inoue0426/awesome-computational-biology/raw/main/docs/overview.png)](https://inoue0426.github.io/awesome-computational-biology/overview.html)
+[![Resource Landscape Overview ![GitHub Repo Stars](https://img.shields.io/github/stars/inoue0426/awesome-computational-biology) ![GitHub last commit](https://img.shields.io/github/last-commit/inoue0426/awesome-computational-biology)](https://github.com/inoue0426/awesome-computational-biology/raw/master/docs/overview.png)](https://inoue0426.github.io/awesome-computational-biology/overview.html)
 
 > Interactive version: [Resource Overview page](https://inoue0426.github.io/awesome-computational-biology/overview.html)  
 > Regenerate the figure: `python scripts/generate_overview.py`
