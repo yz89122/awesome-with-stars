@@ -163,7 +163,6 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 - [Mac App Download Sites](#mac-app-download-sites)
   - [Genuine Sites](#genuine-sites)
   - [Pirated software download site blocklist](#pirated-software-download-site-blocklist)
-- [Podcasts](#podcasts)
 - [Contributors](#contributors)
 - [License](#license)
 
@@ -1222,6 +1221,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [KeyStats](https://keystats.vercel.app) - Menu bar tracker for daily keystrokes, clicks, movement, and scrolling. [![Open-Source Software][OSS Icon]](https://github.com/debugtheworldbot/keyStats) ![Freeware][Freeware Icon]
 * [Later](https://getlater.app/) - Save all your Mac apps for later with one click. [![Open-Source Software][OSS Icon]](https://github.com/alyssaxuu/later/) ![Freeware][Freeware Icon]
 * [LuxShot ![GitHub Repo Stars](https://img.shields.io/github/stars/lukebuild/LuxShot) ![GitHub last commit](https://img.shields.io/github/last-commit/lukebuild/LuxShot)](https://github.com/lukebuild/LuxShot) - Native and privacy-first menu bar OCR tool. [![Open-Source Software][OSS Icon]](https://github.com/lukebuild/LuxShot) ![Freeware][Freeware Icon]
+* [MacTools ![GitHub Repo Stars](https://img.shields.io/github/stars/ggbond268/MacTools) ![GitHub last commit](https://img.shields.io/github/last-commit/ggbond268/MacTools)](https://github.com/ggbond268/MacTools) - Open-source menu bar toolkit with plugins for display controls, system toggles, cleanup, device status, and everyday utilities. [![Open-Source Software][OSS Icon]](https://github.com/ggbond268/MacTools) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Mask This](https://apps.apple.com/us/app/mask-this/id6759096128) - Menu bar app that masks sensitive information in the clipboard. [![Open-Source Software][OSS Icon]](https://github.com/tseylerd/MaskThis) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/mask-this/id6759096128)
 * [MeetingBar](https://meetingbar.onrender.com) - Menu bar app for your calendar meetings  [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/leits/MeetingBar)
 * [Menu Bar Calendar](https://sindresorhus.com/menu-bar-calendar) - A monthly calendar right in your menu bar. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1558360383?platform=mac)
@@ -1635,10 +1635,6 @@ If you come across websites offering pirated software or cracks, please post [HE
 * AppKed：~~`http://www.macbed.com`~~
 * Softasm：~~`https://softasm.com/`~~
 * Appstorrent：~~`http://appstorrent.ru/`~~
-
-## Podcasts
-
-* [Mac Power Users](https://www.relay.fm/mpu) - Learn about getting the most from your Apple technology with focused topics and workflow guests. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/podcast/mac-power-users/id458066753?platform=mac)
 
 **[⬆ back to top](#contents)**
 
