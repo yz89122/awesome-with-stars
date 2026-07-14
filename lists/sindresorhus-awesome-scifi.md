@@ -178,7 +178,7 @@ I think what is most fascinating about Dune isn't that it is so commonly read, b
 <details>
   <summary>Description</summary>
 
-  > Set in the far future amidst a sprawling feudal interstellar empire where planetary dynasties are controlled by noble houses that owe an allegiance to the imperial House Corrino, _Dune_ tells the story of young Paul Atreides (the heir apparent to Duke Leto Atreides and heir of House Atreides) as he and his family accept control of the desert planet Arrakis, the only source of the “spice��� melange, the most important and valuable substance in the cosmos. The story explores the complex, multilayered interactions of politics, religion, ecology, technology and human emotion, as the forces of the empire confront each other for control of Arrakis.
+  > Set in the far future amidst a sprawling feudal interstellar empire where planetary dynasties are controlled by noble houses that owe an allegiance to the imperial House Corrino, _Dune_ tells the story of young Paul Atreides (the heir apparent to Duke Leto Atreides and heir of House Atreides) as he and his family accept control of the desert planet Arrakis, the only source of the “spice” melange, the most important and valuable substance in the cosmos. The story explores the complex, multilayered interactions of politics, religion, ecology, technology and human emotion, as the forces of the empire confront each other for control of Arrakis.
   >
   > Published in 1965, it won the Hugo Award in 1966 and the inaugural Nebula Award for Best Novel. _Dune_ is frequently cited as the world’s best-selling SF novel.
 </details>
