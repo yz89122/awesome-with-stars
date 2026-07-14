@@ -376,7 +376,7 @@ _Language specific game engine development libraries / frameworks / code._
 - 📚 [Awesome C++ ![GitHub Repo Stars](https://img.shields.io/github/stars/fffaraz/awesome-cpp) ![GitHub last commit](https://img.shields.io/github/last-commit/fffaraz/awesome-cpp)](https://github.com/fffaraz/awesome-cpp) - List of awesome C++ frameworks, libraries, and resources.
 - 📚 [Awesome C++ Game Dev ![GitHub Repo Stars](https://img.shields.io/github/stars/Caerind/AwesomeCppGameDev) ![GitHub last commit](https://img.shields.io/github/last-commit/Caerind/AwesomeCppGameDev)](https://github.com/Caerind/AwesomeCppGameDev) - List of awesome C++ things for Game Development.
 - 📚 [Awesome Hpp ![GitHub Repo Stars](https://img.shields.io/github/stars/p-ranav/awesome-hpp) ![GitHub last commit](https://img.shields.io/github/last-commit/p-ranav/awesome-hpp)](https://github.com/p-ranav/awesome-hpp) - List of awesome header-only C++ libraries.
-- 🌎 [C++ Papyrus](https://caiorss.github.io/C-Cpp-Notes/index.html) - Basic to advanced topics with modern C++ examples.
+- ���� [C++ Papyrus](https://caiorss.github.io/C-Cpp-Notes/index.html) - Basic to advanced topics with modern C++ examples.
 - 🌎 [cppreference.com](https://en.cppreference.com/w/cpp) - Online reference for C, C++, and the STL.
 - 📚 [Learn C++](https://www.learncpp.com) 🔥 - Walks you through all the steps to write, compile, and debug C++.
 - 📚 [Modern Cpp Features ![GitHub Repo Stars](https://img.shields.io/github/stars/AnthonyCalandra/modern-cpp-features) ![GitHub last commit](https://img.shields.io/github/last-commit/AnthonyCalandra/modern-cpp-features)](https://github.com/AnthonyCalandra/modern-cpp-features) - Cheatsheet of modern C++ language and library features.
@@ -386,7 +386,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [SFML ![GitHub Repo Stars](https://img.shields.io/github/stars/SFML/SFML) ![GitHub last commit](https://img.shields.io/github/last-commit/SFML/SFML)](https://github.com/SFML/SFML) 🔥 - Cross-platform access to windowing, graphics, audio and networking.
 - C++: Animation
     - 🎉 [Ozz-Animation ![GitHub Repo Stars](https://img.shields.io/github/stars/guillaumeblanc/ozz-animation) ![GitHub last commit](https://img.shields.io/github/last-commit/guillaumeblanc/ozz-animation)](https://github.com/guillaumeblanc/ozz-animation) - Skeletal animation library and toolset.
-    - ��� [Tweeny ![GitHub Repo Stars](https://img.shields.io/github/stars/mobius3/tweeny) ![GitHub last commit](https://img.shields.io/github/last-commit/mobius3/tweeny)](https://github.com/mobius3/tweeny) - Inbetweening library for complex animations for games / apps.
+    - 🎉 [Tweeny ![GitHub Repo Stars](https://img.shields.io/github/stars/mobius3/tweeny) ![GitHub last commit](https://img.shields.io/github/last-commit/mobius3/tweeny)](https://github.com/mobius3/tweeny) - Inbetweening library for complex animations for games / apps.
 - C++: Audio
     - 🎉 [Amplitude Audio SDK ![GitHub Repo Stars](https://img.shields.io/github/stars/SparkyStudios/AmplitudeAudioSDK) ![GitHub last commit](https://img.shields.io/github/last-commit/SparkyStudios/AmplitudeAudioSDK)](https://github.com/SparkyStudios/AmplitudeAudioSDK) - Cross-platform audio engine designed for the needs of games.
     - 💰 [irrKlang](https://www.ambiera.com/irrklang/) - High level 2D/3D sound engine and audio library.
