@@ -1,4 +1,4 @@
-<div align="center"><a href="https://haxe.org/"><img src="https://github.com/Dvergar/awesome-haxe-gamedev/raw/master/images/haxe-logo.png" width="500"></a></div>
+<div align="center"><a href="https://haxe.org/"><img src="https://github.com/Dvergar/awesome-haxe-gamedev/raw/main/images/haxe-logo.png" width="500"></a></div>
 
 # Awesome Haxe Game Development [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
