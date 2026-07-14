@@ -387,6 +387,7 @@ _Libraries to automate web scraping and extract web content._
   - [crawlberg ![GitHub Repo Stars](https://img.shields.io/github/stars/xberg-io/crawlberg) ![GitHub last commit](https://img.shields.io/github/last-commit/xberg-io/crawlberg)](https://github.com/xberg-io/crawlberg) - A high-performance web crawling engine with a Rust core, headless-browser fallback, and built-in robots.txt and sitemap parsing.
   - [mechanicalsoup ![GitHub Repo Stars](https://img.shields.io/github/stars/MechanicalSoup/MechanicalSoup) ![GitHub last commit](https://img.shields.io/github/last-commit/MechanicalSoup/MechanicalSoup)](https://github.com/MechanicalSoup/MechanicalSoup) - A Python library for automating interaction with websites.
   - [scrapy ![GitHub Repo Stars](https://img.shields.io/github/stars/scrapy/scrapy) ![GitHub last commit](https://img.shields.io/github/last-commit/scrapy/scrapy)](https://github.com/scrapy/scrapy) - A fast high-level screen scraping and web crawling framework.
+  - [website-downloader ![GitHub Repo Stars](https://img.shields.io/github/stars/PKHarsimran/website-downloader) ![GitHub last commit](https://img.shields.io/github/last-commit/PKHarsimran/website-downloader)](https://github.com/PKHarsimran/website-downloader) - A modern wget --mirror / HTTrack alternative that turns whole websites into browsable offline copies.
 - Content Extraction
   - [feedparser ![GitHub Repo Stars](https://img.shields.io/github/stars/kurtmckee/feedparser) ![GitHub last commit](https://img.shields.io/github/last-commit/kurtmckee/feedparser)](https://github.com/kurtmckee/feedparser) - Universal feed parser.
   - [html2text ![GitHub Repo Stars](https://img.shields.io/github/stars/Alir3z4/html2text) ![GitHub last commit](https://img.shields.io/github/last-commit/Alir3z4/html2text)](https://github.com/Alir3z4/html2text) - Convert HTML to Markdown-formatted text.
@@ -493,6 +494,9 @@ _Libraries for data analysis._
 - [modin ![GitHub Repo Stars](https://img.shields.io/github/stars/modin-project/modin) ![GitHub last commit](https://img.shields.io/github/last-commit/modin-project/modin)](https://github.com/modin-project/modin) - A drop-in pandas replacement that scales workflows by changing a single line of code.
 - [pandas ![GitHub Repo Stars](https://img.shields.io/github/stars/pandas-dev/pandas) ![GitHub last commit](https://img.shields.io/github/last-commit/pandas-dev/pandas)](https://github.com/pandas-dev/pandas) - A library providing high-performance, easy-to-use data structures and data analysis tools.
 - [pathway ![GitHub Repo Stars](https://img.shields.io/github/stars/pathwaycom/pathway) ![GitHub last commit](https://img.shields.io/github/last-commit/pathwaycom/pathway)](https://github.com/pathwaycom/pathway) - Real-time data processing framework for Python with reactive dataflows.
+
+- [percentify ![GitHub Repo Stars](https://img.shields.io/github/stars/data-centt/percentify) ![GitHub last commit](https://img.shields.io/github/last-commit/data-centt/percentify)](https://github.com/data-centt/percentify) - Exploratory stats and data-quality diagnostics/profiler, that supports both pandas and Polars DataFrames inputs.
+
 - [polars ![GitHub Repo Stars](https://img.shields.io/github/stars/pola-rs/polars) ![GitHub last commit](https://img.shields.io/github/last-commit/pola-rs/polars)](https://github.com/pola-rs/polars) - A fast DataFrame library implemented in Rust with a Python API.
 
 ### Data Ingestion / ETL
