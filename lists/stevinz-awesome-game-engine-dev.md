@@ -226,7 +226,7 @@ _Info on topics necessary for designing and developing game engines._
 - Commercial Studios Research Divisions
     - 🌎 [Activision Research](https://research.activision.com/) - Blog posts, articles and presentations from research within _Activision_.
     - 🌎 [EA Technology](https://www.ea.com/technology/research) - Research on game tech including info on the _Frostbite_ engine.
-    - 🌎 [tri-Ace Research](https://research.tri-ace.com/) - Publications from the Research and Development Department at _tri-Ace Inc_.
+    - �� [tri-Ace Research](https://research.tri-ace.com/) - Publications from the Research and Development Department at _tri-Ace Inc_.
     - 🌎 [Ubisoft Technology](https://www.ubisoft.com/en-us/company/how-we-make-games/technology) - Learn about in-house tech including the _Anvil_ and _Snowdrop_ engines.
 - Education Portals
     - 📚 [3D Game Engine Programming](https://www.3dgep.com) - Articles on graphics, physics, AI, I/O and more.
@@ -862,7 +862,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Galacean ![GitHub Repo Stars](https://img.shields.io/github/stars/galacean/engine) ![GitHub last commit](https://img.shields.io/github/last-commit/galacean/engine)](https://github.com/galacean/engine) - Web/Mobile-first engine built on WebGL and glTF.
     - 🎉 [Kaboom ![GitHub Repo Stars](https://img.shields.io/github/stars/replit/kaboom) ![GitHub last commit](https://img.shields.io/github/last-commit/replit/kaboom)](https://github.com/replit/kaboom) - Simple 2D framework.
     - 🎉 [LittleJS ![GitHub Repo Stars](https://img.shields.io/github/stars/KilledByAPixel/LittleJS) ![GitHub last commit](https://img.shields.io/github/last-commit/KilledByAPixel/LittleJS)](https://github.com/KilledByAPixel/LittleJS) - Lightweight 2D framework with WebGL rendering.
-    - �� [Meep ![GitHub Repo Stars](https://img.shields.io/github/stars/Usnul/meep) ![GitHub last commit](https://img.shields.io/github/last-commit/Usnul/meep)](https://github.com/Usnul/meep) - ECS game framework.
+    - 🎉 [Meep ![GitHub Repo Stars](https://img.shields.io/github/stars/Usnul/meep) ![GitHub last commit](https://img.shields.io/github/last-commit/Usnul/meep)](https://github.com/Usnul/meep) - ECS game framework.
     - 🎉 [Oasis ![GitHub Repo Stars](https://img.shields.io/github/stars/ant-galaxy/oasis-engine) ![GitHub last commit](https://img.shields.io/github/last-commit/ant-galaxy/oasis-engine)](https://github.com/ant-galaxy/oasis-engine) - WebGL framework by _AntGroup_. 2D/3D, animation, physics.
     - 🎉 [Phaser ![GitHub Repo Stars](https://img.shields.io/github/stars/photonstorm/phaser) ![GitHub last commit](https://img.shields.io/github/last-commit/photonstorm/phaser)](https://github.com/photonstorm/phaser) - Fast 2D game framework. [[Website](https://phaser.io)]
     - 🎉 [Turbulenz ![GitHub Repo Stars](https://img.shields.io/github/stars/turbulenz/turbulenz_engine) ![GitHub last commit](https://img.shields.io/github/last-commit/turbulenz/turbulenz_engine)](https://github.com/turbulenz/turbulenz_engine) - Modular 2D/3D game framework for browsers, desktops and mobile.
