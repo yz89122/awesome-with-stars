@@ -283,7 +283,7 @@ Descriptions focus on structure, scope, and market role rather than time-depende
   Germany’s principal stock exchange, operated by Deutsche Börse.
   Electronic trading is conducted via **[Xetra](https://www.xetra.com)**.
 
-* 🇭🇰 **[Hong Kong Stock Exchange (HKEX)](https://www.hkex.com.hk)**
+* ���🇰 **[Hong Kong Stock Exchange (HKEX)](https://www.hkex.com.hk)**
   Key international financial hub connecting Chinese and global capital markets.
 
 * 🇰🇷 **[Korea Exchange (KRX)](https://global.krx.co.kr)**
@@ -307,7 +307,7 @@ Descriptions focus on structure, scope, and market role rather than time-depende
 * 🇨🇳 **[Shenzhen Stock Exchange (SZSE)](https://www.szse.cn)**
   Chinese exchange with emphasis on growth, technology, and small- to mid-cap companies.
 
-* ����🇬 **[Singapore Exchange (SGX)](https://www.sgx.com)**
+* 🇸🇬 **[Singapore Exchange (SGX)](https://www.sgx.com)**
   Regional financial hub with strengths in derivatives, commodities, and international listings.
 
 * 🇨🇭 **[SIX Swiss Exchange](https://www.six-group.com)**

@@ -1520,6 +1520,7 @@ then it is not supported:
 - [XXiaoA/atone.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/XXiaoA/atone.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/XXiaoA/atone.nvim)](https://github.com/XXiaoA/atone.nvim) - Undo tree for visualizing and managing undo history.
 - [nemanjamalesija/smart-paste.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/nemanjamalesija/smart-paste.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/nemanjamalesija/smart-paste.nvim)](https://github.com/nemanjamalesija/smart-paste.nvim) - Automatic indentation of pasted code using a three-tier indent strategy (indentexpr / Tree-sitter / heuristic).
 - [neur1n/hyphen.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/neur1n/hyphen.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/neur1n/hyphen.nvim)](https://github.com/neur1n/hyphen.nvim) - Show TeX-style hyphenation breakpoints in text.
+- [ntk148v/yankdown.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/ntk148v/yankdown.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/ntk148v/yankdown.nvim)](https://github.com/ntk148v/yankdown.nvim) - Paste rich clipboard content as clean Markdown.
 
 ### Comment
 
