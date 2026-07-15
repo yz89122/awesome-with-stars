@@ -632,6 +632,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [Angular code editor rules](https://promptgenius.net/cursorrules/frameworks/frontend/angular) - Guide for effective AI interaction patterns when working with Angular code.
 * [Angularize](https://beta.angularize.dev/) - Vibe code your Angular app with a human coder in your corner.
 * [@Kobolden/angular-skills ![GitHub Repo Stars](https://img.shields.io/github/stars/Kobolden/angular-skills) ![GitHub last commit](https://img.shields.io/github/last-commit/Kobolden/angular-skills)](https://github.com/Kobolden/angular-skills) - Enhance your Angular development with skills for AI-assisted coding, featuring up-to-date patterns, best practices, and examples for version 20+.
+* [angular-vibe-kit ![GitHub Repo Stars](https://img.shields.io/github/stars/vuanhtung10/angular-vibe-kit) ![GitHub last commit](https://img.shields.io/github/last-commit/vuanhtung10/angular-vibe-kit)](https://github.com/vuanhtung10/angular-vibe-kit) - Bootstrap a vibe coding workflow into any Angular project—complete with a `CLAUDE.md`, project docs, and Claude Code slash-commands tailored to your Angular version.
 * [augment code](https://www.augmentcode.com/) - The first AI coding assistant built for professional software engineers and large codebases.
 * [CodingFleet](https://codingfleet.com/code-generator/angular/) - An innovative AI-powered tool that transforms your instructions into efficient Angular code.
 * [context7 ![GitHub Repo Stars](https://img.shields.io/github/stars/upstash/context7) ![GitHub last commit](https://img.shields.io/github/last-commit/upstash/context7)](https://github.com/upstash/context7) - MCP Server with up-to-date code documentation for LLMs and AI code editors.
@@ -1889,6 +1890,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [angular-helpers ![GitHub Repo Stars](https://img.shields.io/github/stars/Gaspar1992/angular-helpers) ![GitHub last commit](https://img.shields.io/github/last-commit/Gaspar1992/angular-helpers)](https://github.com/Gaspar1992/angular-helpers) - A suite of Angular libraries that help you build secure, browser-integrated applications with a clean developer experience.
 * [ngneat-archive](https://github.com/ngneat-archive) - A read-only preservation archive of the [ngneat](https://github.com/ngneat) repositories.
 * [Indice.Angular ![GitHub Repo Stars](https://img.shields.io/github/stars/indice-co/Indice.Angular) ![GitHub last commit](https://img.shields.io/github/last-commit/indice-co/Indice.Angular)](https://github.com/indice-co/Indice.Angular) - A collection of Angular libraries providing authentication, configuration, and reusable components for Angular v20+ applications.
+* [trt-web-utils ![GitHub Repo Stars](https://img.shields.io/github/stars/therightthings/trt-web) ![GitHub last commit](https://img.shields.io/github/last-commit/therightthings/trt-web)](https://github.com/therightthings/trt-web/tree/dev) - Monorepo for the `@trt-web` packages, which includes a Firebase admin helper library and more.
 
 ### Modals
 
@@ -1939,6 +1941,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-notitia ![GitHub Repo Stars](https://img.shields.io/github/stars/klajdm/ngx-notitia) ![GitHub last commit](https://img.shields.io/github/last-commit/klajdm/ngx-notitia)](https://github.com/klajdm/ngx-notitia) - Updated fork of `ngx-toastr` with additional features, fixes, and modernizations for Angular 21+.
 * [ngx-herald ![GitHub Repo Stars](https://img.shields.io/github/stars/HoplaGeiss/ngx-herald) ![GitHub last commit](https://img.shields.io/github/last-commit/HoplaGeiss/ngx-herald)](https://github.com/HoplaGeiss/ngx-herald) - A lightweight, modern Angular toast notification library. Signals-first, zoneless-compatible, zero runtime dependencies, and an easy-to-use alternative to ngx-toastr.
 * [ngx-gooey-toast ![GitHub Repo Stars](https://img.shields.io/github/stars/juanvieiraprado99/ngx-gooey-toast) ![GitHub last commit](https://img.shields.io/github/last-commit/juanvieiraprado99/ngx-gooey-toast)](https://github.com/juanvieiraprado99/ngx-gooey-toast) - A morphing pill‑to‑blob toast component for Angular, serving as an Angular port of the React [gooey‑toast](https://goey-toast.vercel.app/).
+* [ngx-yet-another-toast-library ![GitHub Repo Stars](https://img.shields.io/github/stars/Zeeraa/ngx-yet-another-toast-library) ![GitHub last commit](https://img.shields.io/github/last-commit/Zeeraa/ngx-yet-another-toast-library)](https://github.com/Zeeraa/ngx-yet-another-toast-library) - A lightweight, signal-based Angular toast notification library with Bootstrap 5 color palette support.
 
 ### Onboarding and Product Tours
 
