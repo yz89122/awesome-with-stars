@@ -254,7 +254,7 @@ The Unicode Consortium published a [general punctuation chart](http://www.unicod
 | `' '`    | U+1680 OGHAM SPACE MARK                  | a space that looks like a dash. Great to bring programmers close to madness: 1 +  2 === 3.                                                                                                     |
 | `';'`    | U+037E GREEK QUESTION MARK               | a look-alike to the semicolon. Also a fun way to annoy developers.                                                                                                                             |
 | `'‭'`    | U+202D                                   | change the text direction to Left-to-Right.                                                                                                                                                    |
-| `'‮'`‭ ‭ | U+202E                                   | change the text direction to Right-to-Left:                                                                                                                                     |
+| `'���'`‭ ‭ | U+202E                                   | change the text direction to Right-to-Left:                                                                                                                                     |
 | `'ꓸ'` | U+A4F8 LISU LETTER TONE MYA TI |A lookalike for the period character. |
 | `'ꓹ'` | U+A4F9 LISU LETTER TONE NA PO |A lookalike for the comma character.|
 | `'ꓼ'` | U+A4FC LISU LETTER TONE MYA NA |A lookalike for the semi-colon character.|
