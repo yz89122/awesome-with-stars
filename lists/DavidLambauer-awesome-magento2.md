@@ -149,7 +149,7 @@ The storefront of Magento 2 can be styled in numerous ways:
 - [Tablerates Generator](https://www.tableratesgenerator.com/) - Generate tablerates online.
 
 <details>
-<summary>🪦 Graveyard — projects no longer recommended</summary>
+<summary>🪦 Graveyard ��� projects no longer recommended</summary>
 
 - [Pestle ![GitHub Repo Stars](https://img.shields.io/github/stars/astorm/pestle) ![GitHub last commit](https://img.shields.io/github/last-commit/astorm/pestle)](https://github.com/astorm/pestle) - Code generation tool by Alan Storm.
 - [Masquerade ![GitHub Repo Stars](https://img.shields.io/github/stars/elgentos/masquerade) ![GitHub last commit](https://img.shields.io/github/last-commit/elgentos/masquerade)](https://github.com/elgentos/masquerade) - Faker-driven, configuration-based, platform-agnostic, locale-compatible data faker tool.
@@ -307,7 +307,7 @@ The storefront of Magento 2 can be styled in numerous ways:
 
 ### Infrastructure
 
-- [Ethan3600/magento2-CronjobManager ![GitHub Repo Stars](https://img.shields.io/github/stars/Ethan3600/magento2-CronjobManager) ![GitHub last commit](https://img.shields.io/github/last-commit/Ethan3600/magento2-CronjobManager)](https://github.com/Ethan3600/magento2-CronjobManager) 🔥 - Cron Job Manager for Magento 2.
+- [Ethan3600/magento2-CronjobManager ![GitHub Repo Stars](https://img.shields.io/github/stars/Ethan3600/magento2-CronjobManager) ![GitHub last commit](https://img.shields.io/github/last-commit/Ethan3600/magento2-CronjobManager)](https://github.com/Ethan3600/magento2-CronjobManager) �� - Cron Job Manager for Magento 2.
 - [magento-cache-clean ![GitHub Repo Stars](https://img.shields.io/github/stars/mage-os/magento-cache-clean) ![GitHub last commit](https://img.shields.io/github/last-commit/mage-os/magento-cache-clean)](https://github.com/mage-os/magento-cache-clean) 🫡 - A faster drop in replacement for bin/magento cache:clean with file watcher
 - [module-theme-optimization ![GitHub Repo Stars](https://img.shields.io/github/stars/mage-os/module-theme-optimization) ![GitHub last commit](https://img.shields.io/github/last-commit/mage-os/module-theme-optimization)](https://github.com/mage-os/module-theme-optimization) 🫡 - bfcache, speculative loading, and view transitions for Magento
 - [Fastly Extension ![GitHub Repo Stars](https://img.shields.io/github/stars/fastly/fastly-magento2) ![GitHub last commit](https://img.shields.io/github/last-commit/fastly/fastly-magento2)](https://github.com/fastly/fastly-magento2) - Magento 2 Fastly integration.
