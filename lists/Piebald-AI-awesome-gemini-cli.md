@@ -275,6 +275,7 @@ Educational materials and documentation to try out Gemini CLI if you're new.
 - [gemini-cli-media-generation ![GitHub Repo Stars](https://img.shields.io/github/stars/vladkol/gemini-cli-media-generation) ![GitHub last commit](https://img.shields.io/github/last-commit/vladkol/gemini-cli-media-generation)](https://github.com/vladkol/gemini-cli-media-generation) - An example of using Gemini CLI with MCP Servers for Genmedia and Gemini 2.5 Flash Image model (Nano-banana)
 - [gemini-cli-demos ![GitHub Repo Stars](https://img.shields.io/github/stars/palladius/gemini-cli-demos) ![GitHub last commit](https://img.shields.io/github/last-commit/palladius/gemini-cli-demos)](https://github.com/palladius/gemini-cli-demos) - Ready-to-run demonstration scenarios showcasing Gemini CLI's capabilities, perfect for learning, presenting, or evaluating the tool.
 - [cli-demo-cookbook ![GitHub Repo Stars](https://img.shields.io/github/stars/ptone/cli-demo-cookbook) ![GitHub last commit](https://img.shields.io/github/last-commit/ptone/cli-demo-cookbook)](https://github.com/ptone/cli-demo-cookbook) - Collection of demo scenario and casts for Gemini CLI.
+- [Antigravity CLI Tips ![GitHub Repo Stars](https://img.shields.io/github/stars/ykdojo/antigravity-cli-tips) ![GitHub last commit](https://img.shields.io/github/last-commit/ykdojo/antigravity-cli-tips)](https://github.com/ykdojo/antigravity-cli-tips) - Practical tips for Antigravity CLI (`agy`), the official successor to Gemini CLI.
 
 ## Non-Gemini CLI
 
