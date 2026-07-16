@@ -1413,7 +1413,7 @@ Userscripts can be used w/ the following browsers:
     <blockquote>
         💾 <a href="https://update.greasyfork.org/scripts/406540/Undiscord.user.js">
             Install</a> /
-        �� <a href="https://victornpb.github.io/undiscord/">
+        📖 <a href="https://victornpb.github.io/undiscord/">
             Readme</a> /
         📢 <a href="https://github.com/victornpb/undiscord/discussions">
             Discuss</a> /
