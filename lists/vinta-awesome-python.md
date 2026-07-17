@@ -1078,6 +1078,7 @@ _Libraries for Python version and virtual environment management._
 _Libraries for package and dependency management._
 
 - [conda ![GitHub Repo Stars](https://img.shields.io/github/stars/conda/conda) ![GitHub last commit](https://img.shields.io/github/last-commit/conda/conda)](https://github.com/conda/conda/) - Cross-platform, Python-agnostic binary package manager.
+- [hatch ![GitHub Repo Stars](https://img.shields.io/github/stars/pypa/hatch) ![GitHub last commit](https://img.shields.io/github/last-commit/pypa/hatch)](https://github.com/pypa/hatch) - Modern, extensible Python project manager for environments, builds, and publishing.
 - [pip ![GitHub Repo Stars](https://img.shields.io/github/stars/pypa/pip) ![GitHub last commit](https://img.shields.io/github/last-commit/pypa/pip)](https://github.com/pypa/pip) - The package installer for Python.
 - [pipx ![GitHub Repo Stars](https://img.shields.io/github/stars/pypa/pipx) ![GitHub last commit](https://img.shields.io/github/last-commit/pypa/pipx)](https://github.com/pypa/pipx) - Install and Run Python Applications in Isolated Environments. Like `npx` in Node.js.
 - [poetry ![GitHub Repo Stars](https://img.shields.io/github/stars/python-poetry/poetry) ![GitHub last commit](https://img.shields.io/github/last-commit/python-poetry/poetry)](https://github.com/python-poetry/poetry) - Python dependency management and packaging made easy.
