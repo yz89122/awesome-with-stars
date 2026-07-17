@@ -226,7 +226,7 @@ _Info on topics necessary for designing and developing game engines._
 - Commercial Studios Research Divisions
     - 🌎 [Activision Research](https://research.activision.com/) - Blog posts, articles and presentations from research within _Activision_.
     - 🌎 [EA Technology](https://www.ea.com/technology/research) - Research on game tech including info on the _Frostbite_ engine.
-    - �� [tri-Ace Research](https://research.tri-ace.com/) - Publications from the Research and Development Department at _tri-Ace Inc_.
+    - 🌎 [tri-Ace Research](https://research.tri-ace.com/) - Publications from the Research and Development Department at _tri-Ace Inc_.
     - 🌎 [Ubisoft Technology](https://www.ubisoft.com/en-us/company/how-we-make-games/technology) - Learn about in-house tech including the _Anvil_ and _Snowdrop_ engines.
 - Education Portals
     - 📚 [3D Game Engine Programming](https://www.3dgep.com) - Articles on graphics, physics, AI, I/O and more.
@@ -605,7 +605,7 @@ _Language specific game engine development libraries / frameworks / code._
 - C#: Cross-Platform
     - 🌎 [Blazor ![GitHub Repo Stars](https://img.shields.io/github/stars/dotnet/aspnetcore) ![GitHub last commit](https://img.shields.io/github/last-commit/dotnet/aspnetcore)](https://github.com/dotnet/aspnetcore/blob/main/src/Components/README.md) - C# to JavaScript (as WebAssembly) technology by _Microsoft_. [[Website]((https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor))]
     - 🎉 [h5 ![GitHub Repo Stars](https://img.shields.io/github/stars/curiosity-ai/h5) ![GitHub last commit](https://img.shields.io/github/last-commit/curiosity-ai/h5)](https://github.com/curiosity-ai/h5) - Next generation C# to JavaScript compiler.
-    - 🎉 [Mono ![GitHub Repo Stars](https://img.shields.io/github/stars/mono/mono) ![GitHub last commit](https://img.shields.io/github/last-commit/mono/mono)](https://github.com/mono/mono) - Open source implementation of _Microsoft_'s .NET Framework.
+    - ���� [Mono ![GitHub Repo Stars](https://img.shields.io/github/stars/mono/mono) ![GitHub last commit](https://img.shields.io/github/last-commit/mono/mono)](https://github.com/mono/mono) - Open source implementation of _Microsoft_'s .NET Framework.
 - C#: Entity Component System
     - 🎉 [Arch ![GitHub Repo Stars](https://img.shields.io/github/stars/genaray/Arch) ![GitHub last commit](https://img.shields.io/github/last-commit/genaray/Arch)](https://github.com/genaray/Arch) - High-performance ECS with optional multithreading.
     - 🎉 [DefaultEcs ![GitHub Repo Stars](https://img.shields.io/github/stars/Doraku/DefaultEcs) ![GitHub last commit](https://img.shields.io/github/last-commit/Doraku/DefaultEcs)](https://github.com/Doraku/DefaultEcs) - ECS framework designed for game development.
