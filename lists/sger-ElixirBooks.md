@@ -241,7 +241,7 @@ Elixir is a functional language that crosses many boundaries. With a syntax borr
 
 <img src="https://pragprog.com/titles/thnerves/build-a-binary-clock-with-elixir-and-nerves/thnerves-500.jpg" width="120px"/>
 
-Want to get better at coding Elixir? Write a hardware project with Nerves. As you build this binary clock, you’ll build in resiliency using OTP, the same libraries powering many commercial phone switches. You’ll attack complexity the way the experts do, using a layered approach. You’ll sharpen your debugging skills by taking small, easily verified steps toward your goal. When you’re done, you’ll have a working binary clock and a good appreciation of the work that goes into a hardware system. You’ll also be able to apply that understanding to every new line of Elixir you write.
+Want to get better at coding Elixir? Write a hardware project with Nerves. As you build this binary clock, you’ll build in resiliency using OTP, the same libraries powering many commercial phone switches. You’ll attack complexity the way the experts do, using a layered approach. You’ll sharpen your debugging skills by taking small, easily verified steps toward your goal. When you’re done, you’ll have a working binary clock and a good appreciation of the work that goes into a hardware system. You��ll also be able to apply that understanding to every new line of Elixir you write.
 
 ### [Build a Weather Station with Elixir and Nerves](https://pragprog.com/titles/passweather/build-a-weather-station-with-elixir-and-nerves/)
 
