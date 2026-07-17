@@ -178,6 +178,14 @@ Run `brew install --cask --no-quarantine syntax-highlight` or [download manually
 
 **Note:** This might overwrite some other Quick Look plugins.
 
+### [Burrete ![GitHub Repo Stars](https://img.shields.io/github/stars/SergeiNikolenko/Burrete) ![GitHub last commit](https://img.shields.io/github/last-commit/SergeiNikolenko/Burrete)](https://github.com/SergeiNikolenko/Burrete)
+
+> Preview PDB, mmCIF, SDF, XYZ, trajectories, and chemistry tables in Finder
+
+[Download manually ![GitHub Repo Stars](https://img.shields.io/github/stars/SergeiNikolenko/Burrete) ![GitHub last commit](https://img.shields.io/github/last-commit/SergeiNikolenko/Burrete)](https://github.com/SergeiNikolenko/Burrete/releases/latest)
+
+[![ ![GitHub Repo Stars](https://img.shields.io/github/stars/sindresorhus/quick-look-plugins) ![GitHub last commit](https://img.shields.io/github/last-commit/sindresorhus/quick-look-plugins)](https://github.com/sindresorhus/quick-look-plugins/raw/main/screenshots/Burrete.png)](https://github.com/SergeiNikolenko/Burrete)
+
 ## License
 
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)

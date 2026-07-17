@@ -655,6 +655,7 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 - [3ZsForInsomnia/pacer.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/3ZsForInsomnia/pacer.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/3ZsForInsomnia/pacer.nvim)](https://github.com/3ZsForInsomnia/pacer.nvim) - Creates a reading pacer by highlighting one word at a time and dimming all text outside the current paragraph-and-some to help you read faster.
 - [wsdjeg/cpicker.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/wsdjeg/cpicker.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/wsdjeg/cpicker.nvim)](https://github.com/wsdjeg/cpicker.nvim) - A lightweight color palette plugin that supports a wide range of color models.
 - [leolaurindo/tunnelvision.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/leolaurindo/tunnelvision.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/leolaurindo/tunnelvision.nvim)](https://github.com/leolaurindo/tunnelvision.nvim) - Focus on one symbol at a time by dimming unrelated lines.
+- [cxwx/shadowMyName.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/cxwx/shadowMyName.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/cxwx/shadowMyName.nvim)](https://github.com/cxwx/shadowMyName.nvim) - Redact sensitive words such as your username, tokens, phone numbers and more when recording your screen.
 <!--lint disable double-link -->
 [**⬆ back to top**](#contents)
 <!--lint enable double-link -->
