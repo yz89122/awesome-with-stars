@@ -817,6 +817,7 @@ then it is not supported:
 - [T-b-t-nchos/Aquavium.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/T-b-t-nchos/Aquavium.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/T-b-t-nchos/Aquavium.nvim)](https://github.com/T-b-t-nchos/Aquavium.nvim) - **_`[TS][Lua]`_** Aquarium-themed color scheme, designed for use with a transparent terminal background.
 - [54L1M/Oshen.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/54L1M/Oshen.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/54L1M/Oshen.nvim)](https://github.com/54L1M/Oshen.nvim) - **_`[TS][LSP][L/D][Lua]`_** Inspired by deep ocean water at night, derived entirely from five source colors.
 - [marekh19/meowsoot.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/marekh19/meowsoot.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/marekh19/meowsoot.nvim)](https://github.com/marekh19/meowsoot.nvim) - **_`[TS][LSP][L/D][Lua]`_** A dark pink–cyan–lavender colorscheme where strings are yellow and green never reaches code.
+- [ntk148v/lauds ![GitHub Repo Stars](https://img.shields.io/github/stars/ntk148v/lauds) ![GitHub last commit](https://img.shields.io/github/last-commit/ntk148v/lauds)](https://github.com/ntk148v/lauds) - **_`[TS][Lua]`_** Paper-light color theme for prose and code — warm off-white paper, terracotta orange, deep mint.
 <!--lint disable double-link -->
 [**⬆ back to top**](#contents)
 <!--lint enable double-link -->
