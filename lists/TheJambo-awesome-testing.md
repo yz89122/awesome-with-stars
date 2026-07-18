@@ -55,6 +55,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [voicetest ![GitHub Repo Stars](https://img.shields.io/github/stars/voicetestdev/voicetest) ![GitHub last commit](https://img.shields.io/github/last-commit/voicetestdev/voicetest)](https://github.com/voicetestdev/voicetest) - Open-source test harness for voice AI agents supporting Retell, VAPI, LiveKit, and Bland with autonomous simulations and LLM-based evaluation.
 - [AgentSkeptic ![GitHub Repo Stars](https://img.shields.io/github/stars/jwekavanagh/agentskeptic) ![GitHub last commit](https://img.shields.io/github/last-commit/jwekavanagh/agentskeptic)](https://github.com/jwekavanagh/agentskeptic) - Verifies AI/agent workflows by checking database state after execution, comparing expected vs observed outcomes with read-only SQL.
 - [Evaliphy ![GitHub Repo Stars](https://img.shields.io/github/stars/evaliphy/evaliphy) ![GitHub last commit](https://img.shields.io/github/last-commit/evaliphy/evaliphy)](https://github.com/evaliphy/evaliphy) - Test your AI system end-to-end with Evaliphy. It uses a Playwright-style testing approach and generates HTML reports.
+- [QASkills.sh](https://qaskills.sh) - Open registry of 400+ QA and testing skills (Playwright, API, LLM evaluation, accessibility, performance) that AI coding agents install and follow via the qaskills CLI. Works with Claude Code, Cursor, and 30+ other agents.
 - [nika ![GitHub Repo Stars](https://img.shields.io/github/stars/supernovae-st/nika) ![GitHub last commit](https://img.shields.io/github/last-commit/supernovae-st/nika)](https://github.com/supernovae-st/nika) - Workflow engine for AI with testing built in: `nika test` pins a workflow's offline behavior as a golden snapshot (deterministic mock provider, zero keys) and replays it in CI; every run also leaves a hash-chained trace for post-hoc verification.
 
 ### Service Virtualization
@@ -93,6 +94,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Mocky Balboa](https://docs.mockybalboa.com/) - Mock server side network requests in your fullstack apps declaratively at runtime
 - [Octomind](https://github.com/OctoMind-dev) - AI-powered test case discovery and maintenance.
 - [playwright-bdd ![GitHub Repo Stars](https://img.shields.io/github/stars/vitalets/playwright-bdd) ![GitHub last commit](https://img.shields.io/github/last-commit/vitalets/playwright-bdd)](https://github.com/vitalets/playwright-bdd) - BDD-style Playwright testing.
+- [Playwright Config Generator](https://draftkit.co/dev-launch-pack/playwright-config-generator.html) - Free browser-based generator that produces a ready-to-commit playwright.config.ts/.js/.mjs with browser projects (Chromium, Firefox, WebKit, mobile devices), retries, workers, trace/video/screenshots, webServer, and CI reporters. No signup.
 - [QA Wolf ![GitHub Repo Stars](https://img.shields.io/github/stars/qawolf/qawolf) ![GitHub last commit](https://img.shields.io/github/last-commit/qawolf/qawolf)](https://github.com/qawolf/qawolf) - Node.js library for creating browser tests faster.
 - [tapflow ![GitHub Repo Stars](https://img.shields.io/github/stars/jo-duchan/tapflow) ![GitHub last commit](https://img.shields.io/github/last-commit/jo-duchan/tapflow)](https://github.com/jo-duchan/tapflow) - Self-hosted mobile QA tool that streams iOS simulators and Android emulators to the browser for team-wide testing without local setup.
 - [UI Coverage Tool ![GitHub Repo Stars](https://img.shields.io/github/stars/Nikita-Filonov/ui-coverage-scenario-tool) ![GitHub last commit](https://img.shields.io/github/last-commit/Nikita-Filonov/ui-coverage-scenario-tool)](https://github.com/Nikita-Filonov/ui-coverage-scenario-tool) - UI Coverage Tool is an innovative, no-overhead solution for tracking and visualizing UI test coverage — directly on your actual application, not static snapshots.
@@ -107,6 +109,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 
 ### Test Data Management
 - [DATAMIMIC CE ![GitHub Repo Stars](https://img.shields.io/github/stars/rapiddweller/datamimic) ![GitHub last commit](https://img.shields.io/github/last-commit/rapiddweller/datamimic)](https://github.com/rapiddweller/datamimic) - Open-source, deterministic engine for model-driven synthetic test data and PII pseudonymization. Pin a seed and get byte-identical output with a provenance hash on every run. Python, MIT.
+- [JSON Validation Test Cases ![GitHub Repo Stars](https://img.shields.io/github/stars/UtilHatch/json-validation-test-cases) ![GitHub last commit](https://img.shields.io/github/last-commit/UtilHatch/json-validation-test-cases)](https://github.com/UtilHatch/json-validation-test-cases) - Reusable valid, invalid, and edge-case JSON fixtures for testing parsers, validators, APIs, editors, and error handling.
 - [MockHero](https://mockhero.dev) - REST API for generating synthetic test data. 156 field types, 22 locales, relational data, sub-50ms. Free tier available.
 - [Synth ![GitHub Repo Stars](https://img.shields.io/github/stars/getsynth/synth) ![GitHub last commit](https://img.shields.io/github/last-commit/getsynth/synth)](https://github.com/getsynth/synth) - Open-source test data generator.
 - [Touca ![GitHub Repo Stars](https://img.shields.io/github/stars/trytouca/trytouca) ![GitHub last commit](https://img.shields.io/github/last-commit/trytouca/trytouca)](https://github.com/trytouca/trytouca) - Continuous regression testing for behavioral and performance comparisons.
@@ -148,6 +151,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 
 ### Screen Recording & Session Replays
 - [Captura ![GitHub Repo Stars](https://img.shields.io/github/stars/MathewSachin/Captura) ![GitHub last commit](https://img.shields.io/github/last-commit/MathewSachin/Captura)](https://github.com/MathewSachin/Captura) - Open-source video recording tool.
+- [PR Preview](https://www.pr-preview.com/) - MCP for Claude Code that drives your web app in a headed browser and records before/after demo videos of a pull request as MP4 or GIF.
 
 ### Mind Mapping & Documentation
 - [Xmind](http://www.xmind.net/) - Mind mapping tool for documenting test cases and strategies.
