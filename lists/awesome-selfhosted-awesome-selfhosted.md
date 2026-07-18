@@ -104,6 +104,7 @@ See [Contributing](#contributing).
   - [Task Management & To-do Lists](#task-management--to-do-lists)
   - [Ticketing](#ticketing)
   - [Time Tracking](#time-tracking)
+  - [Travel Organization](#travel-organization)
   - [URL Shorteners](#url-shorteners)
   - [Video Surveillance](#video-surveillance)
   - [VPN](#vpn)
@@ -1263,6 +1264,8 @@ Software to manage [3D printers](https://en.wikipedia.org/wiki/3D_printing), [CN
 
 [Maps](https://en.wikipedia.org/wiki/Map), [cartography](https://en.wikipedia.org/wiki/Cartography), [GIS](https://en.wikipedia.org/wiki/Geographic_information_system) and [GPS](https://en.wikipedia.org/wiki/Global_Positioning_System) software.
 
+_Related: [Travel Organization](#travel-organization)_
+
 _See also: [awesome-openstreetmap ![GitHub Repo Stars](https://img.shields.io/github/stars/osmlab/awesome-openstreetmap) ![GitHub last commit](https://img.shields.io/github/last-commit/osmlab/awesome-openstreetmap)](https://github.com/osmlab/awesome-openstreetmap), [awesome-gis ![GitHub Repo Stars](https://img.shields.io/github/stars/sshuair/awesome-gis) ![GitHub last commit](https://img.shields.io/github/last-commit/sshuair/awesome-gis)](https://github.com/sshuair/awesome-gis)_
 
 - [AdventureLog](https://adventurelog.app) - Travel tracker and trip planner. ([Demo](https://demo.adventurelog.app/signup), [Source Code ![GitHub Repo Stars](https://img.shields.io/github/stars/seanmorley15/AdventureLog) ![GitHub last commit](https://img.shields.io/github/last-commit/seanmorley15/AdventureLog)](https://github.com/seanmorley15/AdventureLog)) `GPL-3.0` `Docker`
@@ -2135,6 +2138,17 @@ _Related: [Task Management & To-do Lists](#task-management--to-do-lists), [Softw
 - [Traggo](https://traggo.net/) - Traggo is a tag-based time tracking tool. In Traggo there are no tasks, only tagged time spans. ([Source Code ![GitHub Repo Stars](https://img.shields.io/github/stars/traggo/server) ![GitHub last commit](https://img.shields.io/github/last-commit/traggo/server)](https://github.com/traggo/server)) `GPL-3.0` `Docker/Go`
 - [Wakapi](https://wakapi.dev/) - Tracking tool for coding statistics, compatible with WakaTime. ([Source Code ![GitHub Repo Stars](https://img.shields.io/github/stars/muety/wakapi) ![GitHub last commit](https://img.shields.io/github/last-commit/muety/wakapi)](https://github.com/muety/wakapi)) `GPL-3.0` `Go/Docker`
 - [Ziit](https://ziit.app) - The Swiss army knife of code time tracking (alternative to WakaTime). ([Source Code ![GitHub Repo Stars](https://img.shields.io/github/stars/0pandadev/ziit) ![GitHub last commit](https://img.shields.io/github/last-commit/0pandadev/ziit)](https://github.com/0pandadev/ziit)) `AGPL-3.0` `Docker`
+
+
+### Travel Organization
+
+**[`^        back to top        ^`](#awesome-selfhosted)**
+
+Travel organization software to record bookings, view itinerary, plan activities and track expenses.
+
+_Related: [Booking and Scheduling](#booking-and-scheduling), [Maps and Global Positioning System (GPS)](#maps-and-global-positioning-system-gps)_
+
+- [Surmai](https://surmai.app/) - Collaborative personal and family travel organizer. ([Demo](https://demo.surmai.app), [Source Code ![GitHub Repo Stars](https://img.shields.io/github/stars/rohitkumbhar/surmai) ![GitHub last commit](https://img.shields.io/github/last-commit/rohitkumbhar/surmai)](https://github.com/rohitkumbhar/surmai)) `MIT` `Docker`
 
 
 ### URL Shorteners
