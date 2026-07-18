@@ -354,7 +354,7 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 | <a href="https://tutorials.nmdprojects.net/play.html?illustrator_manage_color" target="_blank" rel="noopener noreferrer">Manage color in Illustrator</a> | UMaine New Media | Beginner| 0.11 | 🏅 |
 | <a href="https://tutorials.nmdprojects.net/play.html?illustrator_apply_strokes_fills" target="_blank" rel="noopener noreferrer">Apply strokes and fills in Illustrator</a> | UMaine New Media | Beginner| 0.1 | 🏅 |
 | <a href="https://tutorials.nmdprojects.net/play.html?illustrator_apply_gradient" target="_blank" rel="noopener noreferrer">Apply gradient in Illustrator</a> | UMaine New Media | intermediate| 0.1 | 🏅 |
-| <a href="https://tutorials.nmdprojects.net/play.html?make_infographic_illustrator_1" target="_blank" rel="noopener noreferrer">How to make an Infographic in Illustrator 1</a> | UMaine New Media | Beginner| 0.22 | ��� |
+| <a href="https://tutorials.nmdprojects.net/play.html?make_infographic_illustrator_1" target="_blank" rel="noopener noreferrer">How to make an Infographic in Illustrator 1</a> | UMaine New Media | Beginner| 0.22 | 🏅 |
 | <a href="https://tutorials.nmdprojects.net/play.html?make_infographic_illustrator_2" target="_blank" rel="noopener noreferrer">How to make an Infographic in Illustrator 2</a> | UMaine New Media | Beginner| 0.2 | 🏅 |
 
 <a href="https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents" target="_blank" rel="noopener noreferrer">⬆️</a>
@@ -410,7 +410,7 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 | Course Name | Course Provider | Level | Hour(s) | Reward |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
 | <a href="https://learn.unity.com/pathway/unity-essentials" target="_blank" rel="noopener noreferrer">Unity Essentials</a> | Unity | Beginner | 336 | <a href="https://www.credly.com/org/unity/badge/unity-essentials-pathway" target="_blank" rel="noopener noreferrer">🏅</a> |
-| <a href="https://learn.unity.com/pathway/junior-programmer" target="_blank" rel="noopener noreferrer">Junior Programmer</a> | Unity | Beginner | 2000 | <a href="https://www.credly.com/org/unity/badge/unity-junior-programmer" target="_blank" rel="noopener noreferrer">🏅</a>
+| <a href="https://learn.unity.com/pathway/junior-programmer" target="_blank" rel="noopener noreferrer">Junior Programmer</a> | Unity | Beginner | 2000 | <a href="https://www.credly.com/org/unity/badge/unity-junior-programmer" target="_blank" rel="noopener noreferrer">���</a>
 | <a href="https://learn.unity.com/pathway/creative-core" target="_blank" rel="noopener noreferrer">Creative Core</a> | Unity | Beginner | 1680 | <a href="https://www.credly.com/org/unity/badge/unity-creative-core" target="_blank" rel="noopener noreferrer">🏅</a>
 | <a href="https://learn.unity.com/pathway/vr-development" target="_blank" rel="noopener noreferrer">VR Development</a> | Unity | Beginner | 1000 | <a href="https://www.credly.com/org/unity/badge/unity-vr-development" target="_blank" rel="noopener noreferrer">🏅</a>
 | <a href="https://learn.unity.com/pathway/mobile-ar-development" target="_blank" rel="noopener noreferrer">Mobile AR Development</a> | Unity | Beginner | 1344 | <a href="https://www.credly.com/org/unity/badge/unity-mobile-ar-development" target="_blank" rel="noopener noreferrer">🏅</a>
@@ -471,7 +471,7 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 
 | Course Name | Course Provider | Level | Hour(s) | Reward |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
-| <a href="https://www.netacad.com/courses/os-it/ndg-linux-unhatched" target="_blank" rel="noopener noreferrer">NDG Linux Unhatched</a>| Cisco Networking Academy |Beginner| 8 |    🏆 |
+| <a href="https://www.netacad.com/courses/os-it/ndg-linux-unhatched" target="_blank" rel="noopener noreferrer">NDG Linux Unhatched</a>| Cisco Networking Academy |Beginner| 8 |    ��� |
 | <a href="https://www.netacad.com/courses/os-it/ndg-linux-essentials" target="_blank" rel="noopener noreferrer">NDG Linux Essentials</a> | Cisco Networking Academy |Intermediate| 70 |🏆|
 | <a href="https://learn.saylor.org/course/view.php?id=94" target="_blank" rel="noopener noreferrer">CS401: Operating Systems</a> | Saylor Academy |Professional|120 | 🏆|
 
