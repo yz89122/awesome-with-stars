@@ -171,7 +171,7 @@ Actual Hosted Coin Wallets:
 - [Blockply](https://blockply.com/) — Collection of the most interesting and outstanding blockchain projects
 - [Blockchain demo ![GitHub Repo Stars](https://img.shields.io/github/stars/anders94/blockchain-demo) ![GitHub last commit](https://img.shields.io/github/last-commit/anders94/blockchain-demo)](https://github.com/anders94/blockchain-demo) — Web-based demonstration of blockchain concepts.
 
-## �� Algos supported by [NiceHash Stratum Proxy](https://www.nicehash.com/?refby=386829)
+## ☤ Algos supported by [NiceHash Stratum Proxy](https://www.nicehash.com/?refby=386829)
 
 - `Scrypt` (Litecoin / **[LTC](http://coinbin.org/ltc)**)
 - `SHA256` (Bitcoin / **[BTC](http://coinbin.org/btc)**)
