@@ -224,7 +224,7 @@ Signing, attestation, and provenance for container images.
 - [kompose ![GitHub Repo Stars](https://img.shields.io/github/stars/kubernetes/kompose) ![GitHub last commit](https://img.shields.io/github/last-commit/kubernetes/kompose)](https://github.com/kubernetes/kompose) - Go from Docker Compose to Kubernetes.
 - [plash ![GitHub Repo Stars](https://img.shields.io/github/stars/ihucos/plash) ![GitHub last commit](https://img.shields.io/github/last-commit/ihucos/plash)](https://github.com/ihucos/plash) - A container run and build engine - runs inside docker.
 - [podman-compose ![GitHub Repo Stars](https://img.shields.io/github/stars/containers/podman-compose) ![GitHub last commit](https://img.shields.io/github/last-commit/containers/podman-compose)](https://github.com/containers/podman-compose) - A script to run docker-compose.yml using podman.
-- [Smalte ![GitHub Repo Stars](https://img.shields.io/github/stars/roquie/smalte) ![GitHub last commit](https://img.shields.io/github/last-commit/roquie/smalte)](https://github.com/roquie/smalte) – Dynamically configure applications that require static configuration in docker container.
+- [Smalte ![GitHub Repo Stars](https://img.shields.io/github/stars/roquie/smalte) ![GitHub last commit](https://img.shields.io/github/last-commit/roquie/smalte)](https://github.com/roquie/smalte) ��� Dynamically configure applications that require static configuration in docker container.
 
 ### Orchestration
 
