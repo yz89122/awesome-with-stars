@@ -434,6 +434,7 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 - [MeanderingProgrammer/treesitter-modules.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/MeanderingProgrammer/treesitter-modules.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/MeanderingProgrammer/treesitter-modules.nvim)](https://github.com/MeanderingProgrammer/treesitter-modules.nvim) - Original modules from nvim-treesitter master branch.
 - [BibekBhusal0/tree-hierarchy.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/BibekBhusal0/tree-hierarchy.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/BibekBhusal0/tree-hierarchy.nvim)](https://github.com/BibekBhusal0/tree-hierarchy.nvim) - Edit text and nevigate based on Tree-sitter.
 - [Sang-it/fluoride ![GitHub Repo Stars](https://img.shields.io/github/stars/Sang-it/fluoride) ![GitHub last commit](https://img.shields.io/github/last-commit/Sang-it/fluoride)](https://github.com/Sang-it/fluoride) - A structural code editor. View, reorder, rename, and annotate code declarations from a floating window based on Tree-sitter.
+- [bird-chinese-community/BIRD.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/bird-chinese-community/BIRD.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/bird-chinese-community/BIRD.nvim)](https://github.com/bird-chinese-community/BIRD.nvim) - Syntax highlighting, automatic filetype detection, and filetype-specific editing support for BIRD 2 and BIRD 3 configuration files.
 <!--lint disable double-link -->
 [**⬆ back to top**](#contents)
 <!--lint enable double-link -->
@@ -818,6 +819,7 @@ then it is not supported:
 - [54L1M/Oshen.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/54L1M/Oshen.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/54L1M/Oshen.nvim)](https://github.com/54L1M/Oshen.nvim) - **_`[TS][LSP][L/D][Lua]`_** Inspired by deep ocean water at night, derived entirely from five source colors.
 - [marekh19/meowsoot.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/marekh19/meowsoot.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/marekh19/meowsoot.nvim)](https://github.com/marekh19/meowsoot.nvim) - **_`[TS][LSP][L/D][Lua]`_** A dark pink–cyan–lavender colorscheme where strings are yellow and green never reaches code.
 - [ntk148v/lauds ![GitHub Repo Stars](https://img.shields.io/github/stars/ntk148v/lauds) ![GitHub last commit](https://img.shields.io/github/last-commit/ntk148v/lauds)](https://github.com/ntk148v/lauds) - **_`[TS][Lua]`_** Paper-light color theme for prose and code — warm off-white paper, terracotta orange, deep mint.
+- [alsi-lawr/neotheme.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/alsi-lawr/neotheme.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/alsi-lawr/neotheme.nvim)](https://github.com/alsi-lawr/neotheme.nvim) - **_`[TS][LSP][L/D][Lua]`_** A semantic, palette-driven theme engine, with live theme switching and multiple built-in families.
 <!--lint disable double-link -->
 [**⬆ back to top**](#contents)
 <!--lint enable double-link -->

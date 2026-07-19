@@ -534,7 +534,7 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
 | <a href="https://cognitiveclass.ai/courses/r-101" target="_blank" rel="noopener noreferrer">R 101</a> | IBM / Cognitive Class |Beginner|3| <a href="https://www.youracclaim.com/org/ibm/badge/r-essentials" target="_blank" rel="noopener noreferrer">🏅</a>|
 | <a href="https://cognitiveclass.ai/courses/using-r-with-databases/" target="_blank" rel="noopener noreferrer">Using R with Databases</a> | IBM / Cognitive Class |Beginner|3 | <a href="https://www.youracclaim.com/org/ibm/badge/using-r-with-databases" target="_blank" rel="noopener noreferrer">🏅</a>|
-| <a href="https://www.hackerrank.com/skills-verification/r_basic" target="_blank" rel="noopener noreferrer">R</a> | HackerRank |Beginner| 1.5 | 🏆|
+| <a href="https://www.hackerrank.com/skills-verification/r_basic" target="_blank" rel="noopener noreferrer">R</a> | HackerRank |Beginner| 1.5 | ��|
 
 <a href="https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents" target="_blank" rel="noopener noreferrer">⬆️</a>
 
@@ -560,7 +560,7 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 | <a href="https://www.isc2.org/certifications/cc" target="_blank" rel="noopener noreferrer">Certified in Cybersecurity</a> | ISC2 | Beginner | 14 | <a href="https://www.credly.com/org/isc2/badge/certified-in-cybersecurity-cc" target="_blank" rel="noopener noreferrer">🏅</a> |
 | <a href="https://training.fortinet.com/local/staticpage/view.php?page=fcf_cybersecurity" target="_blank" rel="noopener noreferrer">Fortinet Certified Fundamentals in Cybersecurity</a> | Fortinet Training Institute | Beginner | 10 | <a href="https://www.credly.com/org/fortinet/badge/fortinet-certified-fundamentals-cybersecurity" target="_blank" rel="noopener noreferrer">🏆</a> |
 | <a href="https://training.fortinet.com/local/staticpage/view.php?page=fca_cybersecurity" target="_blank" rel="noopener noreferrer">Fortinet Certified Associate in Cybersecurity</a> | Fortinet Training Institute | Beginner | 6 | <a href="https://www.credly.com/org/fortinet/badge/fortinet-certified-associate-cybersecurity.1" target="_blank" rel="noopener noreferrer">🏆</a> |
-| <a href="https://www.life-global.org/course/346-introduction-to-cybersecurity-awareness" target="_blank" rel="noopener noreferrer">Introduction to Cybersecurity Awareness</a> | HP / Life Global | Beginner | 0.5 | 🏆 |
+| <a href="https://www.life-global.org/course/346-introduction-to-cybersecurity-awareness" target="_blank" rel="noopener noreferrer">Introduction to Cybersecurity Awareness</a> | HP / Life Global | Beginner | 0.5 | ��� |
 
 <a href="https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents" target="_blank" rel="noopener noreferrer">⬆️</a>
 
