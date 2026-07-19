@@ -140,6 +140,7 @@ Inspired by the [awesome ![GitHub Repo Stars](https://img.shields.io/github/star
 - [editly ![GitHub Repo Stars](https://img.shields.io/github/stars/mifi/editly) ![GitHub last commit](https://img.shields.io/github/last-commit/mifi/editly)](https://github.com/mifi/editly) - Declarative video editing.
 - [yt-dlp ![GitHub Repo Stars](https://img.shields.io/github/stars/yt-dlp/yt-dlp) ![GitHub last commit](https://img.shields.io/github/last-commit/yt-dlp/yt-dlp)](https://github.com/yt-dlp/yt-dlp) - A `youtube-dl` fork with additional features and fixes.
 - [cinema ![GitHub Repo Stars](https://img.shields.io/github/stars/marm00/cinema) ![GitHub last commit](https://img.shields.io/github/last-commit/marm00/cinema)](https://github.com/marm00/cinema) - Multiviewer for videos and streams.
+- [capcut-cli ![GitHub Repo Stars](https://img.shields.io/github/stars/renezander030/capcut-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/renezander030/capcut-cli)](https://github.com/renezander030/capcut-cli) - Edit CapCut/JianYing projects.
 
 ### Movies
 

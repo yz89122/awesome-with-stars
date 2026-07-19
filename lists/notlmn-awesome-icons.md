@@ -66,6 +66,7 @@ Logos of different brands or companies or technologies.
 
 Icons that are not general or logos, but something special.
 
+- [GeoIcons ![GitHub Repo Stars](https://img.shields.io/github/stars/getgeoicons/geoicons) ![GitHub last commit](https://img.shields.io/github/last-commit/getgeoicons/geoicons)](https://github.com/getgeoicons/geoicons#readme) - Geographic map icons as tree-shakable SVG components. ([Website](https://geoicons.io))
 - [Flag Kit ![GitHub Repo Stars](https://img.shields.io/github/stars/madebybowtie/FlagKit) ![GitHub last commit](https://img.shields.io/github/last-commit/madebybowtie/FlagKit)](https://github.com/madebybowtie/FlagKit#readme) - Beautiful flag icons for usage in apps and on the web.
 - [Mapsicon ![GitHub Repo Stars](https://img.shields.io/github/stars/djaiss/mapsicon) ![GitHub last commit](https://img.shields.io/github/last-commit/djaiss/mapsicon)](https://github.com/djaiss/mapsicon#readme) - A free collection of maps for every country in the world.
 - [IconicFonts ![GitHub Repo Stars](https://img.shields.io/github/stars/iconicFonts/iconic-fonts) ![GitHub last commit](https://img.shields.io/github/last-commit/iconicFonts/iconic-fonts)](https://github.com/iconicFonts/iconic-fonts#readme) - Over 50 pre-patched fonts featuring 60k icons as glyphs.
