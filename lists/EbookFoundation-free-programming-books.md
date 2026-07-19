@@ -22,7 +22,7 @@ This page is available as an easy-to-read website. Access it by clicking on [![h
 
 ## Intro
 
-This list was originally a clone of [StackOverflow - List of Freely Available Programming Books](https://web.archive.org/web/20140606191453/http://stackoverflow.com/questions/194812/list-of-freely-available-programming-books/392926) with contributions from Karan Bhangui and George Stocker.
+This list was originally a clone of [StackOverflow - List of Freely Available Programming Books](https://web.archive.org/web/20140606191453/https://stackoverflow.com/questions/194812/list-of-freely-available-programming-books/392926) with contributions from Karan Bhangui and George Stocker.
 
 The list was moved to GitHub by Victor Felder for collaborative updating and maintenance. It has grown to become one of [GitHub's most popular repositories](https://octoverse.github.com/).
 
@@ -110,7 +110,7 @@ This project lists books and other resources grouped by genres:
 + [Portuguese (Brazil)](books/free-programming-books-pt_BR.md)
 + [Portuguese (Portugal)](books/free-programming-books-pt_PT.md)
 + [Romanian (Romania) / limba română / român](books/free-programming-books-ro.md)
-+ [Russian / Русский язык](books/free-programming-books-ru.md)
++ [Russian / Рус��кий язык](books/free-programming-books-ru.md)
 + [Serbian / српски језик / srpski jezik](books/free-programming-books-sr.md)
 + [Slovak / slovenčina](books/free-programming-books-sk.md)
 + [Slovenian / Slovenščina](books/free-programming-books-sl.md)
@@ -137,7 +137,7 @@ This project lists books and other resources grouped by genres:
 + [Chinese / 中文](courses/free-courses-zh.md)
 + [English](courses/free-courses-en.md)
 + [Finnish / suomi / suomen kieli](courses/free-courses-fi.md)
-+ [French / français](courses/free-courses-fr.md)
++ [French / fran��ais](courses/free-courses-fr.md)
 + [German / Deutsch](courses/free-courses-de.md)
 + [Greek / ελληνικά](courses/free-courses-el.md)
 + [Hebrew / עברית](courses/free-courses-he.md)
@@ -160,7 +160,7 @@ This project lists books and other resources grouped by genres:
 + [Punjabi / ਪੰਜਾਬੀ / پنجابی](courses/free-courses-pa.md)
 + [Romanian (Romania) / limba română / român](courses/free-courses-ro.md)
 + [Russian / Русский язык](courses/free-courses-ru.md)
-+ [Sinhala / සි��හල](courses/free-courses-si.md)
++ [Sinhala / සි���හල](courses/free-courses-si.md)
 + [Spanish / español / castellano](courses/free-courses-es.md)
 + [Swedish / svenska](courses/free-courses-sv.md)
 + [Tamil / தமிழ்](courses/free-courses-ta.md)
