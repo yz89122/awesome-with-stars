@@ -119,7 +119,7 @@ Inspired by the [awesome ![GitHub Repo Stars](https://img.shields.io/github/star
 - [somafm-cli ![GitHub Repo Stars](https://img.shields.io/github/stars/rockymadden/somafm-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/rockymadden/somafm-cli)](https://github.com/rockymadden/somafm-cli) - Listen to SomaFM in your terminal.
 - [mpd ![GitHub Repo Stars](https://img.shields.io/github/stars/MusicPlayerDaemon/MPD) ![GitHub last commit](https://img.shields.io/github/last-commit/MusicPlayerDaemon/MPD)](https://github.com/MusicPlayerDaemon/MPD) - Music Player Daemon.
 - [ncmpcpp ![GitHub Repo Stars](https://img.shields.io/github/stars/arybczak/ncmpcpp) ![GitHub last commit](https://img.shields.io/github/last-commit/arybczak/ncmpcpp)](https://github.com/arybczak/ncmpcpp) - mpd client.
-- [moc](http://moc.daper.net/) - Console audio player for Linux/UNIX.
+- [moc](https://moc.daper.net/) - Console audio player for Linux/UNIX.
 - [musikcube ![GitHub Repo Stars](https://img.shields.io/github/stars/clangen/musikcube) ![GitHub last commit](https://img.shields.io/github/last-commit/clangen/musikcube)](https://github.com/clangen/musikcube) - Cross-platform, terminal-based music player, audio engine, metadata indexer, and server.
 - [beets ![GitHub Repo Stars](https://img.shields.io/github/stars/beetbox/beets) ![GitHub last commit](https://img.shields.io/github/last-commit/beetbox/beets)](https://github.com/beetbox/beets) - Music library manager and tagger.
 - [spotatui ![GitHub Repo Stars](https://img.shields.io/github/stars/LargeModGames/spotatui) ![GitHub last commit](https://img.shields.io/github/last-commit/LargeModGames/spotatui)](https://github.com/LargeModGames/spotatui) - Spotify client.
@@ -148,7 +148,7 @@ Inspired by the [awesome ![GitHub Repo Stars](https://img.shields.io/github/star
 
 ### Games
 
-- [Dwarf Fortress](http://www.bay12games.com/dwarves/) - Roguelike construction and management simulation.
+- [Dwarf Fortress](https://www.bay12games.com/dwarves/) - Roguelike construction and management simulation.
 - [Cataclysm-DDA](https://cataclysmdda.org) - Turn-based survival game set in a post-apocalyptic world.
 - [Pokete ![GitHub Repo Stars](https://img.shields.io/github/stars/lxgr-linux/Pokete) ![GitHub last commit](https://img.shields.io/github/last-commit/lxgr-linux/Pokete)](https://github.com/lxgr-linux/Pokete) - Pokemon-like.
 - [NetHack](https://www.nethack.org) - Roguelike dungeon crawler.
@@ -595,7 +595,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 ### Columns
 
 - [parse-columns-cli ![GitHub Repo Stars](https://img.shields.io/github/stars/sindresorhus/parse-columns-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/sindresorhus/parse-columns-cli)](https://github.com/sindresorhus/parse-columns-cli) - Parse text columns to JSON.
-- [q](http://harelba.github.io/q/) - Execution of SQL-like queries on CSV/TSV/tabular text file.
+- [q](https://harelba.github.io/q/) - Execution of SQL-like queries on CSV/TSV/tabular text file.
 
 ### Text
 
