@@ -902,6 +902,7 @@ _Libraries for parsing and manipulating plain texts._
   - [python-phonenumbers ![GitHub Repo Stars](https://img.shields.io/github/stars/daviddrysdale/python-phonenumbers) ![GitHub last commit](https://img.shields.io/github/last-commit/daviddrysdale/python-phonenumbers)](https://github.com/daviddrysdale/python-phonenumbers) - Parsing, formatting, storing and validating international phone numbers.
   - [python-user-agents ![GitHub Repo Stars](https://img.shields.io/github/stars/selwin/python-user-agents) ![GitHub last commit](https://img.shields.io/github/last-commit/selwin/python-user-agents)](https://github.com/selwin/python-user-agents) - Browser user agent parser.
   - [sqlparse ![GitHub Repo Stars](https://img.shields.io/github/stars/andialbrecht/sqlparse) ![GitHub last commit](https://img.shields.io/github/last-commit/andialbrecht/sqlparse)](https://github.com/andialbrecht/sqlparse) - A non-validating SQL parser.
+  - [tree-sitter-language-pack ![GitHub Repo Stars](https://img.shields.io/github/stars/xberg-io/tree-sitter-language-pack) ![GitHub last commit](https://img.shields.io/github/last-commit/xberg-io/tree-sitter-language-pack)](https://github.com/xberg-io/tree-sitter-language-pack) - A comprehensive collection of tree-sitter parsers for 300+ languages, distributed as prebuilt wheels.
 
 ### HTML Manipulation
 

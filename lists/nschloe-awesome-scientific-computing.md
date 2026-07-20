@@ -32,7 +32,7 @@ them.
   (C, BSD, GitHub)
 - [LAPACK](https://netlib.org/lapack/) - Routines for solving systems of linear equations, linear least-squares, eigenvalue problems, etc.
   (Fortran, BSD, [GitHub ![GitHub Repo Stars](https://img.shields.io/github/stars/Reference-LAPACK/lapack) ![GitHub last commit](https://img.shields.io/github/last-commit/Reference-LAPACK/lapack)](https://github.com/Reference-LAPACK/lapack))
-- [Eigen](https://eigen.tuxfamily.org/index.php?title=Main_Page) - C++ template library for linear algebra.
+- [Eigen](https://libeigen.gitlab.io/) - C++ template library for linear algebra.
   (C++, MPL 2, [GitLab](https://gitlab.com/libeigen/eigen))
 - [Ginkgo](https://ginkgo-project.github.io/) - High-performance manycore linear algebra library, focus on sparse systems.
   (C++, BSD, [GitHub ![GitHub Repo Stars](https://img.shields.io/github/stars/ginkgo-project/ginkgo) ![GitHub last commit](https://img.shields.io/github/last-commit/ginkgo-project/ginkgo)](https://github.com/ginkgo-project/ginkgo))
