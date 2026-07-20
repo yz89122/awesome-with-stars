@@ -145,7 +145,7 @@ $ npm install --global npm
 
 - `npm i ` → `npm install`
 - `npm i -D` → `npm install --save-dev`
-- `npm t` → `npm test`
+- `npm t` �� `npm test`
 - `npm it` → `npm install && npm test`
 - `npm r` → `npm uninstall`
 - `npm un` → `npm uninstall`
