@@ -162,10 +162,12 @@ More information in CLAUDE.md and llms.txt.
 * [gallery-dl ![GitHub Repo Stars](https://img.shields.io/github/stars/mikf/gallery-dl) ![GitHub last commit](https://img.shields.io/github/last-commit/mikf/gallery-dl)](https://github.com/mikf/gallery-dl) - Command-line program to download image galleries and collections from several image hosting sites. ![Open-Source Software](https://github.com/0pandadev/awesome-windows/raw/main/assets/opensource.svg)
 * [gitty ![GitHub Repo Stars](https://img.shields.io/github/stars/Omibranch/gitty) ![GitHub last commit](https://img.shields.io/github/last-commit/Omibranch/gitty)](https://github.com/Omibranch/gitty) - Git workflow CLI. Stage, commit, and push in one command, with interactive conflict resolution. ![Open-Source Software](https://github.com/0pandadev/awesome-windows/raw/main/assets/opensource.svg)
 * [gsudo](https://gerardog.github.io/gsudo/) - Sudo equivalent for Windows, allows you to run a command with elevated permissions. [![Open-Source Software][oss]](https://github.com/gerardog/gsudo)
+* [PowerShell 7](https://learn.microsoft.com/en-us/powershell/scripting/install/install-powershell-on-windows) - PowerShell 7 is free and opensource, cross platform (Win, Linux) shell by Microsoft. [![Open-Source Software][oss]](https://github.com/PowerShell/powershell/releases)
 * [Scoop ![GitHub Repo Stars](https://img.shields.io/github/stars/lukesampson/scoop) ![GitHub last commit](https://img.shields.io/github/last-commit/lukesampson/scoop)](https://github.com/lukesampson/scoop) - Command-line installer for Windows. ![Open-Source Software](https://github.com/0pandadev/awesome-windows/raw/main/assets/opensource.svg)
 * [winfetch ![GitHub Repo Stars](https://img.shields.io/github/stars/lptstr/winfetch) ![GitHub last commit](https://img.shields.io/github/last-commit/lptstr/winfetch)](https://github.com/lptstr/winfetch) - Command-line system information utility written in PowerShell. [![Open-Source Software][oss]](https://github.com/lptstr/winfetch)
 * [winget](https://learn.microsoft.com/en-us/windows/package-manager/winget/) - Official Windows package manager from Microsoft. [![Open-Source Software][oss]](https://github.com/microsoft/winget-cli)
 * [yt-dlp ![GitHub Repo Stars](https://img.shields.io/github/stars/yt-dlp/yt-dlp) ![GitHub last commit](https://img.shields.io/github/last-commit/yt-dlp/yt-dlp)](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader. ![Open-Source Software](https://github.com/0pandadev/awesome-windows/raw/main/assets/opensource.svg)
+
 
 ## Communication
 
@@ -299,6 +301,7 @@ More information in CLAUDE.md and llms.txt.
 ## IDEs
 
 * [Android Studio](https://developer.android.com/studio/index.html) - Develops and tests Android applications. [![Open-Source Software][oss]](https://sites.google.com/a/android.com/tools/)
+* [Arduino IDE](https://www.arduino.cc/en/software) - An IDE for developing python code for the Arduino. [![Open-Source Software][oss]](https://github.com/arduino/arduino-ide)
 * [Cursor](https://www.cursor.com/) - AI-powered code editor with codebase understanding and natural language editing. 
 * [Eclipse](https://eclipse.org/downloads/) - Supports plugin-based development workflows. [![Open-Source Software][oss]](https://git.eclipse.org/c/)
 * [JetBrains IDEs](https://www.jetbrains.com/ides/#choose-your-ide) - Professional suite of developer tools (CLion, DataGrip, DataSpell, GoLand, IntelliJ IDEA, PhpStorm, PyCharm, Rider, RubyMine, Rust Rover, WebStorm).

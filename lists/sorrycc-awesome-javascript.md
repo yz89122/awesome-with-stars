@@ -634,6 +634,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 ## Streaming
 
 * [Tailor ![GitHub Repo Stars](https://img.shields.io/github/stars/zalando/tailor) ![GitHub last commit](https://img.shields.io/github/last-commit/zalando/tailor)](https://github.com/zalando/tailor) - Streaming layout service for front-end microservices, inspired by Facebook's BigPipe.
+* [Markstream ![GitHub Repo Stars](https://img.shields.io/github/stars/Simon-He95/markstream-vue) ![GitHub last commit](https://img.shields.io/github/last-commit/Simon-He95/markstream-vue)](https://github.com/Simon-He95/markstream-vue) - Streaming Markdown renderer for AI chat interfaces across Vue, React, Svelte and Angular.
 
 ## Vision Detection
 
