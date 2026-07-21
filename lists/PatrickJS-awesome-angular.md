@@ -717,6 +717,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [angular-render-scan ![GitHub Repo Stars](https://img.shields.io/github/stars/edisonaugusthy/angular-render-scan) ![GitHub last commit](https://img.shields.io/github/last-commit/edisonaugusthy/angular-render-scan)](https://github.com/edisonaugusthy/angular-render-scan) - A visual debugging overlay for Angular change detection.
 * [rxjs-leak-finder ![GitHub Repo Stars](https://img.shields.io/github/stars/FlorinCiocirlan/rxjs-leak-finder) ![GitHub last commit](https://img.shields.io/github/last-commit/FlorinCiocirlan/rxjs-leak-finder)](https://github.com/FlorinCiocirlan/rxjs-leak-finder) - A dev-mode tool that finds leaked RxJS subscriptions in Angular apps.
 * [form-lens-angular ![GitHub Repo Stars](https://img.shields.io/github/stars/hebertdelima13/form-lens-angular) ![GitHub last commit](https://img.shields.io/github/last-commit/hebertdelima13/form-lens-angular)](https://github.com/hebertdelima13/form-lens-angular) - Inspect form structure, control state, validation errors, and nested form trees directly inside your app during development.
+* [allstak-angular ![GitHub Repo Stars](https://img.shields.io/github/stars/AllStak/allstak-angular) ![GitHub last commit](https://img.shields.io/github/last-commit/AllStak/allstak-angular)](https://github.com/AllStak/allstak-angular) - Captures uncaught exceptions, structured logs, navigation spans, outbound HTTP requests, and component render timing — with first-class support for both standalone and NgModule-based apps.
 
 ### Documentation Tools
 
@@ -2099,7 +2100,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [Wijmo 5](http://wijmo.com/products/wijmo-5/) - Set of UI components for Angular2.
 * [Taiga UI](https://taiga-ui.dev/) - Powerful set of open source components for Angular!
 * [AgnosUI](https://amadeusitgroup.github.io/AgnosUI/latest/) - Highly configurable headless framework agnostic component library.
-* [ng-aquila ![GitHub Repo Stars](https://img.shields.io/github/stars/allianz/ng-aquila) ![GitHub last commit](https://img.shields.io/github/last-commit/allianz/ng-aquila)](https://github.com/allianz/ng-aquila) - Aquila, an open‑source Allianz GDF component library, offered here as a white‑label variant.
+* [ng-aquila ![GitHub Repo Stars](https://img.shields.io/github/stars/allianz/ng-aquila) ![GitHub last commit](https://img.shields.io/github/last-commit/allianz/ng-aquila)](https://github.com/allianz/ng-aquila) - Aquila, an open��source Allianz GDF component library, offered here as a white‑label variant.
 * [oblique ![GitHub Repo Stars](https://img.shields.io/github/stars/oblique-bit/oblique) ![GitHub last commit](https://img.shields.io/github/last-commit/oblique-bit/oblique)](https://github.com/oblique-bit/oblique) - Angular framework with Swiss corporate design and ready‑to‑use components for branded business apps.
 * [fundamental-ngx ![GitHub Repo Stars](https://img.shields.io/github/stars/SAP/fundamental-ngx) ![GitHub last commit](https://img.shields.io/github/last-commit/SAP/fundamental-ngx)](https://github.com/SAP/fundamental-ngx) - Fundamental Library for Angular is SAP Design System Angular component library.
 * [designsystem ![GitHub Repo Stars](https://img.shields.io/github/stars/kirbydesign/designsystem) ![GitHub last commit](https://img.shields.io/github/last-commit/kirbydesign/designsystem)](https://github.com/kirbydesign/designsystem) - Kirby Design System is a UX Component library implementing the Kirby Design Philosophy.
@@ -2374,6 +2375,7 @@ for the creation of web applications developed with Angular.
 * [alterior ![GitHub Repo Stars](https://img.shields.io/github/stars/alterior-mvc/alterior) ![GitHub last commit](https://img.shields.io/github/last-commit/alterior-mvc/alterior)](https://github.com/alterior-mvc/alterior) - Isomorphic TypeScript framework for building modular services with seamless Angular integration.
 * [23blocks SDK ![GitHub Repo Stars](https://img.shields.io/github/stars/23blocks-OS/frontend-sdk) ![GitHub last commit](https://img.shields.io/github/last-commit/23blocks-OS/frontend-sdk)](https://github.com/23blocks-OS/frontend-sdk) - Build full-stack apps 10x faster with modular backend blocks.
 * [ngx-unity ![GitHub Repo Stars](https://img.shields.io/github/stars/jjmhalew/ngx-unity) ![GitHub last commit](https://img.shields.io/github/last-commit/jjmhalew/ngx-unity)](https://github.com/jjmhalew/ngx-unity) - A type-safe bridge for bidirectional communication between Unity WebGL/WebGPU and Angular.
+* [ngx-wp-shortcode](https://codeberg.org/tomaszatoo/ngx-wp-shortcode.git) - A library that lets Angular applications render WordPress shortcodes as native Angular components.
 
 ### Wrappers
 

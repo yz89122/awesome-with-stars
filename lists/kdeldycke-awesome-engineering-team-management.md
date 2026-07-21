@@ -1056,7 +1056,7 @@ A special case of re-org, that might take the form of inclusion, absorption or d
 
 - [How shitty job crush your soul, then lead to burnout](https://news.ycombinator.com/item?id=7789438) - “Burnout is a very serious situation. If you burn yourself out hard, it will be difficult to be effective at any future job you go to, even if it is ostensibly a wonderful job. Treat burnout like a physical injury.”
 
-- “Burnout is caused by resentment. (…) No. Burnout is caused when you repeatedly make large amounts of sacrifice and or effort into high-risk problems that fail. It's the result of a negative prediction error in the nucleus accumbens. You effectively condition your brain to associate work with failure.” ([source](https://news.ycombinator.com/item?id=5630618)).
+- “Burnout is caused by resentment. (���) No. Burnout is caused when you repeatedly make large amounts of sacrifice and or effort into high-risk problems that fail. It's the result of a negative prediction error in the nucleus accumbens. You effectively condition your brain to associate work with failure.” ([source](https://news.ycombinator.com/item?id=5630618)).
 
 - [If You're So Successful, Why Are You Still Working 70 Hours a Week?](https://archive.ph/78aEf) - “Our tendency to overwork and burn out is framed by a complex combination of factors involving our profession, our organization, and ourselves. At the heart of it is insecurity.”
 
