@@ -1624,6 +1624,7 @@ be
 * [huggingface/tokenizers ![GitHub Repo Stars](https://img.shields.io/github/stars/huggingface/tokenizers) ![GitHub last commit](https://img.shields.io/github/last-commit/huggingface/tokenizers)](https://github.com/huggingface/tokenizers) - Fast State-of-the-Art Tokenizers optimized for Research and Production
 * [rust-bert ![GitHub Repo Stars](https://img.shields.io/github/stars/guillaume-be/rust-bert) ![GitHub last commit](https://img.shields.io/github/last-commit/guillaume-be/rust-bert)](https://github.com/guillaume-be/rust-bert) - Rust native ready-to-use NLP pipelines and transformer-based models (BERT, DistilBERT, GPT2,...)
 * [shimmy ![GitHub Repo Stars](https://img.shields.io/github/stars/Michael-A-Kuykendall/shimmy) ![GitHub last commit](https://img.shields.io/github/last-commit/Michael-A-Kuykendall/shimmy)](https://github.com/Michael-A-Kuykendall/shimmy) - Python-free Rust inference server for NLP models with OpenAI API compatibility and hot model swapping.
+* [shimmytok ![GitHub Repo Stars](https://img.shields.io/github/stars/Michael-A-Kuykendall/shimmytok) ![GitHub last commit](https://img.shields.io/github/last-commit/Michael-A-Kuykendall/shimmytok)](https://github.com/Michael-A-Kuykendall/shimmytok) - Pure-Rust tokenizer for GGUF models, compatible with llama.cpp tokenization.
 
 <a name="r"></a>
 ## R

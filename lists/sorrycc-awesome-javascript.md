@@ -1093,6 +1093,7 @@ https://listjs.com
 * [Peg.js ![GitHub Repo Stars](https://img.shields.io/github/stars/pegjs/pegjs) ![GitHub last commit](https://img.shields.io/github/last-commit/pegjs/pegjs)](https://github.com/pegjs/pegjs) - A simple parser generator for JavaScript that produces fast parsers with excellent error reporting. Usable from your browser, from the command line, or via JavaScript API.
 * [lune ![GitHub Repo Stars](https://img.shields.io/github/stars/ryanseys/lune) ![GitHub last commit](https://img.shields.io/github/last-commit/ryanseys/lune)](https://github.com/ryanseys/lune) - Library to calculate the phases of the moon accurately.
 * [jsemu ![GitHub Repo Stars](https://img.shields.io/github/stars/fcambus/jsemu) ![GitHub last commit](https://img.shields.io/github/last-commit/fcambus/jsemu)](https://github.com/fcambus/jsemu) - A list of emulators written in the JavaScript programming language.
+* [rrweb ![GitHub Repo Stars](https://img.shields.io/github/stars/rrweb-io/rrweb) ![GitHub last commit](https://img.shields.io/github/last-commit/rrweb-io/rrweb)](https://github.com/rrweb-io/rrweb) - Records the DOM and user interactions as a typed JSON event stream and replays them pixel-perfect.
 
 # Worth Reading
  
