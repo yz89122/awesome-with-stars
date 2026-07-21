@@ -149,7 +149,7 @@ The storefront of Magento 2 can be styled in numerous ways:
 - [Tablerates Generator](https://www.tableratesgenerator.com/) - Generate tablerates online.
 
 <details>
-<summary>🪦 Graveyard ��� projects no longer recommended</summary>
+<summary>🪦 Graveyard — projects no longer recommended</summary>
 
 - [Pestle ![GitHub Repo Stars](https://img.shields.io/github/stars/astorm/pestle) ![GitHub last commit](https://img.shields.io/github/last-commit/astorm/pestle)](https://github.com/astorm/pestle) - Code generation tool by Alan Storm.
 - [Masquerade ![GitHub Repo Stars](https://img.shields.io/github/stars/elgentos/masquerade) ![GitHub last commit](https://img.shields.io/github/last-commit/elgentos/masquerade)](https://github.com/elgentos/masquerade) - Faker-driven, configuration-based, platform-agnostic, locale-compatible data faker tool.
