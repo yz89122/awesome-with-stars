@@ -109,8 +109,11 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Testomatio](https://testomat.io/) - Modern TCMS allowing sync of manual and automated tests.
 
 ### Test Data Management
+- [Temp Mail 24](https://temp-mail24.com/) - Browser-based receive-only temporary inbox for permitted manual signup-flow testing.
 - [DATAMIMIC CE ![GitHub Repo Stars](https://img.shields.io/github/stars/rapiddweller/datamimic) ![GitHub last commit](https://img.shields.io/github/last-commit/rapiddweller/datamimic)](https://github.com/rapiddweller/datamimic) - Open-source, deterministic engine for model-driven synthetic test data and PII pseudonymization. Pin a seed and get byte-identical output with a provenance hash on every run. Python, MIT.
 - [JSON Validation Test Cases ![GitHub Repo Stars](https://img.shields.io/github/stars/UtilHatch/json-validation-test-cases) ![GitHub last commit](https://img.shields.io/github/last-commit/UtilHatch/json-validation-test-cases)](https://github.com/UtilHatch/json-validation-test-cases) - Reusable valid, invalid, and edge-case JSON fixtures for testing parsers, validators, APIs, editors, and error handling.
+- [MockJutsu ![GitHub Repo Stars](https://img.shields.io/github/stars/altansayan/mock-jutsu-api) ![GitHub last commit](https://img.shields.io/github/last-commit/altansayan/mock-jutsu-api)](https://github.com/altansayan/mock-jutsu-api) - Algorithmic open-source mock data engine generating 390+ format-valid types (IBAN, TCKN, Luhn, VIN, NHS, SWIFT, MRZ and more). CLI + REST API + Python package + JMeter
+  plugin. 6 locales.
 - [MockHero](https://mockhero.dev) - REST API for generating synthetic test data. 156 field types, 22 locales, relational data, sub-50ms. Free tier available.
 - [Synth ![GitHub Repo Stars](https://img.shields.io/github/stars/getsynth/synth) ![GitHub last commit](https://img.shields.io/github/last-commit/getsynth/synth)](https://github.com/getsynth/synth) - Open-source test data generator.
 - [Touca ![GitHub Repo Stars](https://img.shields.io/github/stars/trytouca/trytouca) ![GitHub last commit](https://img.shields.io/github/last-commit/trytouca/trytouca)](https://github.com/trytouca/trytouca) - Continuous regression testing for behavioral and performance comparisons.
