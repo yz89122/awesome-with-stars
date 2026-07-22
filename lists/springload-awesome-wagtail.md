@@ -378,7 +378,7 @@ _You might also like [Awesome Django ![GitHub Repo Stars](https://img.shields.io
 
 ## Open-source sites
 
-- [Wagtail demo project ![GitHub Repo Stars](https://img.shields.io/github/stars/wagtail/bakerydemo) ![GitHub last commit](https://img.shields.io/github/last-commit/wagtail/bakerydemo)](https://github.com/wagtail/bakerydemo) �� Next generation Wagtail demo, born in Reykjavík.
+- [Wagtail demo project ![GitHub Repo Stars](https://img.shields.io/github/stars/wagtail/bakerydemo) ![GitHub last commit](https://img.shields.io/github/last-commit/wagtail/bakerydemo)](https://github.com/wagtail/bakerydemo) – Next generation Wagtail demo, born in Reykjavík.
 - [Torchbox.com on Wagtail ![GitHub Repo Stars](https://img.shields.io/github/stars/torchbox/torchbox.com) ![GitHub last commit](https://img.shields.io/github/last-commit/torchbox/torchbox.com)](https://github.com/torchbox/torchbox.com) – Torchbox website 2024 incarnation.
 - [Made with Wagtail ![GitHub Repo Stars](https://img.shields.io/github/stars/springload/madewithwagtail) ![GitHub last commit](https://img.shields.io/github/last-commit/springload/madewithwagtail)](https://github.com/springload/madewithwagtail) - A showcase of sites and apps made with Wagtail CMS, the easy to use, open source Django content management system.
 - [Federal Election Commission ![GitHub Repo Stars](https://img.shields.io/github/stars/fecgov/fec-cms) ![GitHub last commit](https://img.shields.io/github/last-commit/fecgov/fec-cms)](https://github.com/fecgov/fec-cms) – The content management system (CMS) for the new Federal Election Commission website.
