@@ -556,6 +556,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [PleaseJS ![GitHub Repo Stars](https://img.shields.io/github/stars/Fooidge/PleaseJS) ![GitHub last commit](https://img.shields.io/github/last-commit/Fooidge/PleaseJS)](https://github.com/Fooidge/PleaseJS) - JavaScript Library for creating random pleasing colors and color schemes.
 * [TinyColor ![GitHub Repo Stars](https://img.shields.io/github/stars/bgrins/TinyColor) ![GitHub last commit](https://img.shields.io/github/last-commit/bgrins/TinyColor)](https://github.com/bgrins/TinyColor) - Fast, small color manipulation and conversion for JavaScript.
 * [Vibrant.js ![GitHub Repo Stars](https://img.shields.io/github/stars/jariz/vibrant.js) ![GitHub last commit](https://img.shields.io/github/last-commit/jariz/vibrant.js)](https://github.com/jariz/vibrant.js/) - Extract prominent colors from an image.
+* [color-space ![GitHub Repo Stars](https://img.shields.io/github/stars/colorjs/color-space) ![GitHub last commit](https://img.shields.io/github/last-commit/colorjs/color-space)](https://github.com/colorjs/color-space) - Conversions between 162 color spaces (OKLCH, CAM16, Munsell, camera logs) with cited references.
 
 ## I18n And L10n
 *Localization (l10n) and internationalization (i18n) JavaScript libraries.*
