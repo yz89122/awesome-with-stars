@@ -46,7 +46,7 @@ You might also like [awesome-npm ![GitHub Repo Stars](https://img.shields.io/git
 Tools for running multiple commands or npm scripts in parallel or sequentially.
 
 - [script-runner ![GitHub Repo Stars](https://img.shields.io/github/stars/paulpflug/script-runner) ![GitHub last commit](https://img.shields.io/github/last-commit/paulpflug/script-runner)](https://github.com/paulpflug/script-runner) - Simple task runner with a terse syntax.
-- [npm-run-all ![GitHub Repo Stars](https://img.shields.io/github/stars/mysticatea/npm-run-all) ![GitHub last commit](https://img.shields.io/github/last-commit/mysticatea/npm-run-all)](https://github.com/mysticatea/npm-run-all) - Fully featured task runner.
+- [npm-run-all2 ![GitHub Repo Stars](https://img.shields.io/github/stars/bcomnes/npm-run-all2) ![GitHub last commit](https://img.shields.io/github/last-commit/bcomnes/npm-run-all2)](https://github.com/bcomnes/npm-run-all2) - Fully featured task runner.
 - [redrun ![GitHub Repo Stars](https://img.shields.io/github/stars/coderaiser/redrun) ![GitHub last commit](https://img.shields.io/github/last-commit/coderaiser/redrun)](https://github.com/coderaiser/redrun) - Expand scripts from package.json to improve execution speed.
 
 ## File Watchers
