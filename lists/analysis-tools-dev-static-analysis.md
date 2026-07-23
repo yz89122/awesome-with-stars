@@ -1205,7 +1205,7 @@ Kani verifies:
 
 - [SQLFluff](https://www.sqlfluff.com/) — Multiple dialect SQL linter and formatter.
 
-- [sqlint ![GitHub Repo Stars](https://img.shields.io/github/stars/purcell/sqlint) ![GitHub last commit](https://img.shields.io/github/last-commit/purcell/sqlint)](https://github.com/purcell/sqlint) ��� Simple SQL linter.
+- [sqlint ![GitHub Repo Stars](https://img.shields.io/github/stars/purcell/sqlint) ![GitHub last commit](https://img.shields.io/github/last-commit/purcell/sqlint)](https://github.com/purcell/sqlint) — Simple SQL linter.
 
 - [squawk](https://squawkhq.com) — Linter for PostgreSQL, focused on migrations. Prevents unexpected downtime caused by database migrations and encourages best practices around Postgres schemas and SQL.
 
