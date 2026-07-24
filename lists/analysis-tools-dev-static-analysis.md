@@ -1205,7 +1205,7 @@ Kani verifies:
 
 - [SQLFluff](https://www.sqlfluff.com/) — Multiple dialect SQL linter and formatter.
 
-- [sqlint ![GitHub Repo Stars](https://img.shields.io/github/stars/purcell/sqlint) ![GitHub last commit](https://img.shields.io/github/last-commit/purcell/sqlint)](https://github.com/purcell/sqlint) ��� Simple SQL linter.
+- [sqlint ![GitHub Repo Stars](https://img.shields.io/github/stars/purcell/sqlint) ![GitHub last commit](https://img.shields.io/github/last-commit/purcell/sqlint)](https://github.com/purcell/sqlint) — Simple SQL linter.
 
 - [squawk](https://squawkhq.com) — Linter for PostgreSQL, focused on migrations. Prevents unexpected downtime caused by database migrations and encourages best practices around Postgres schemas and SQL.
 
@@ -1582,7 +1582,7 @@ orchestration to ensure zero breaking changes. Specialized for React, Next.js, a
 
 - [Snyk Code](https://snyk.io) :copyright: — Snyk Code finds security vulnerabilities based on AI. Its speed of analysis allow us to analyse your code in real time and deliver results when you hit the save button in your IDE. Supported languages are Java, JavaScript, Python, PHP, C#, Go and TypeScript. Integrations with GitHub, BitBucket and Gitlab. It is free to try and part of the Snyk platform also covering SCA, containers and IaC.
 
-- [SonarQube Cloud](https://sonarcloud.io) :copyright: — SonarQube Cloud enables your team to deliver clean code consistently and efficiently with a code review  tool that easily integrates into the cloud DevOps platforms and extend your CI/CD workflow.  SonarQube Cloud provides a free plan.
+- [SonarQube Cloud](https://sonarcloud.io) :copyright: ��� SonarQube Cloud enables your team to deliver clean code consistently and efficiently with a code review  tool that easily integrates into the cloud DevOps platforms and extend your CI/CD workflow.  SonarQube Cloud provides a free plan.
 
 - [SonarQube for IDE](https://sonarlint.org) — SonarQube for IDE (formerly SonarLint) is a free IDE extension available for IntelliJ, VS Code, Visual Studio, and Eclipse,  to find and fix coding issues in real-time, flagging issues as you code, just like a spell-checker.  More than a linter, it also delivers rich contextual guidance to help developers understand  why there is an issue, assess the risk, and educate them on how to fix it.
 
