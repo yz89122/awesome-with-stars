@@ -1443,6 +1443,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [@maxime1jacquet/npm-directives ![GitHub Repo Stars](https://img.shields.io/github/stars/maxime1jacquet/npm-directives) ![GitHub last commit](https://img.shields.io/github/last-commit/maxime1jacquet/npm-directives)](https://github.com/maxime1jacquet/npm-directives) - Angular Directives including [ngx-cursor](https://www.npmjs.com/package/ngx-cursor) and [ngx-simple-countdown](https://www.npmjs.com/package/ngx-simple-countdown).
 * [ngx-mat-menu-hover ![GitHub Repo Stars](https://img.shields.io/github/stars/Gamekohl/ngx-mat-menu-hover) ![GitHub last commit](https://img.shields.io/github/last-commit/Gamekohl/ngx-mat-menu-hover)](https://github.com/Gamekohl/ngx-mat-menu-hover) - This Angular directive provides functionality to handle hover menu behavior, allowing menus to open when hovered over and close when the mouse leaves.
 * [ngx-highlight ![GitHub Repo Stars](https://img.shields.io/github/stars/SynTronic/ngx-highlight) ![GitHub last commit](https://img.shields.io/github/last-commit/SynTronic/ngx-highlight)](https://github.com/SynTronic/ngx-highlight) - Angular directives for highlighting search matches in text, built on the [CSS Custom Highlight API](https://developer.mozilla.org/en-US/docs/Web/API/CSS_Custom_Highlight_API).
+* [ngx-liquid-glass ![GitHub Repo Stars](https://img.shields.io/github/stars/anushsharma27/ngx-liquid-glass) ![GitHub last commit](https://img.shields.io/github/last-commit/anushsharma27/ngx-liquid-glass)](https://github.com/anushsharma27/ngx-liquid-glass) - Angular directive for Apple-inspired liquid glass effects with DOM-backed refraction and configurable edges.
 
 ### DOM
 
@@ -1577,6 +1578,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [forge-form ![GitHub Repo Stars](https://img.shields.io/github/stars/mspas/forge-form) ![GitHub last commit](https://img.shields.io/github/last-commit/mspas/forge-form)](https://github.com/mspas/forge-form) - Generates reactive, signal-based forms, validation, and conditional fields from a single TypeScript object.
 * [NgSimplicityForms ![GitHub Repo Stars](https://img.shields.io/github/stars/BryanGWalsh/NgSimplicityForms) ![GitHub last commit](https://img.shields.io/github/last-commit/BryanGWalsh/NgSimplicityForms)](https://github.com/BryanGWalsh/NgSimplicityForms) - Composable Angular dynamic forms framework with shared core APIs and renderer packages for Bootstrap and Angular Material.
 * [ng-modular-forms ![GitHub Repo Stars](https://img.shields.io/github/stars/ronbodnar/ng-modular-forms) ![GitHub last commit](https://img.shields.io/github/last-commit/ronbodnar/ng-modular-forms)](https://github.com/ronbodnar/ng-modular-forms) - A lightweight architectural layer with built-in components for modular Angular reactive forms.
+* [ngx-form-signals ![GitHub Repo Stars](https://img.shields.io/github/stars/xonaib/ngx-form-signals) ![GitHub last commit](https://img.shields.io/github/last-commit/xonaib/ngx-form-signals)](https://github.com/xonaib/ngx-form-signals) - A headless, signal-native form coordination library for Angular that manages field state and cross-field rules without enforcing components, CSS, layouts, or adapters.
 
 ### Form Controls
 
@@ -1904,6 +1906,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngneat-archive](https://github.com/ngneat-archive) - A read-only preservation archive of the [ngneat](https://github.com/ngneat) repositories.
 * [Indice.Angular ![GitHub Repo Stars](https://img.shields.io/github/stars/indice-co/Indice.Angular) ![GitHub last commit](https://img.shields.io/github/last-commit/indice-co/Indice.Angular)](https://github.com/indice-co/Indice.Angular) - A collection of Angular libraries providing authentication, configuration, and reusable components for Angular v20+ applications.
 * [trt-web-utils ![GitHub Repo Stars](https://img.shields.io/github/stars/therightthings/trt-web) ![GitHub last commit](https://img.shields.io/github/last-commit/therightthings/trt-web)](https://github.com/therightthings/trt-web/tree/dev) - Monorepo for the `@trt-web` packages, which includes a Firebase admin helper library and more.
+* [dgkit ![GitHub Repo Stars](https://img.shields.io/github/stars/grynyk/dgkit) ![GitHub last commit](https://img.shields.io/github/last-commit/grynyk/dgkit)](https://github.com/grynyk/dgkit) - A growing collection of open-source frontend agnostic and Angular libraries, developer tools, and frontend utilities.
 
 ### Modals
 
