@@ -637,6 +637,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [dust ![GitHub Repo Stars](https://img.shields.io/github/stars/bootandy/dust) ![GitHub last commit](https://img.shields.io/github/last-commit/bootandy/dust)](https://github.com/bootandy/dust) - A more intuitive version of `du` in Rust.
 - [dutree ![GitHub Repo Stars](https://img.shields.io/github/stars/nachoparker/dutree) ![GitHub last commit](https://img.shields.io/github/last-commit/nachoparker/dutree)](https://github.com/nachoparker/dutree) - A tool to analyze file system usage written in Rust.
 - [NCDu](https://dev.yorhel.nl/ncdu) - A disk usage analyzer with an ncurses interface.
+- [darya ![GitHub Repo Stars](https://img.shields.io/github/stars/mrkatebzadeh/darya) ![GitHub last commit](https://img.shields.io/github/last-commit/mrkatebzadeh/darya)](https://github.com/mrkatebzadeh/darya) - A disk usage explorer TUI with live treemap.
 
 ### Files
 

@@ -533,6 +533,7 @@ Experimental and production transit hardware.
 
 - [Arrivals LED ![GitHub Repo Stars](https://img.shields.io/github/stars/jdamcd/arrivals-led) ![GitHub last commit](https://img.shields.io/github/last-commit/jdamcd/arrivals-led)](https://github.com/jdamcd/arrivals-led) - Python renderer that drives a 128×32 HUB75 LED matrix on a Raspberry Pi to display live transit arrivals.
 - [Bus Tracking GPS ![GitHub Repo Stars](https://img.shields.io/github/stars/herrdragon/busTrackingGps) ![GitHub last commit](https://img.shields.io/github/last-commit/herrdragon/busTrackingGps)](https://github.com/herrdragon/busTrackingGps) - Code for Miami prototype of a cheap open-source solution to track transit buses.
+- [CharlieBoard ![GitHub Repo Stars](https://img.shields.io/github/stars/tomunderwood99/CharlieBoard) ![GitHub last commit](https://img.shields.io/github/last-commit/tomunderwood99/CharlieBoard)](https://github.com/tomunderwood99/CharlieBoard) - Open-source MBTA display using WS2812B LEDs on a Raspberry Pi Zero 2W, with real-time vehicle positions, geographically accurate PCB map, and a web control interface.
 - [Train departure Display ![GitHub Repo Stars](https://img.shields.io/github/stars/chrisys/train-departure-display) ![GitHub last commit](https://img.shields.io/github/last-commit/chrisys/train-departure-display)](https://github.com/chrisys/train-departure-display) - A replica, near real-time, miniature UK railway station train departure sign based upon a Raspberry Pi Zer0.
 
 ### SDKs
@@ -707,6 +708,9 @@ Blog posts, and reports related to open transit data.
 #### Community-maintained lists
 - [Vendors Providing GTFS Creation/Maintenance services](https://docs.google.com/spreadsheets/u/1/d/1Gc9mu4BIYC8ORpv2IbbVnT3q8VQ3xkeY7Hz068vT_GQ/pubhtml) - Add new vendors [here](http://goo.gl/forms/YDbPSPmufS).
 - [Entities Providing Transportation Software Development Consulting Services](https://docs.google.com/spreadsheets/u/1/d/1n44CNMCK1vt1nyrsdYz-KD_hYxUMNIm6Me69M6ROBIg/pubhtml) - Add new entities [here](http://goo.gl/forms/cc6kcVERuP).
+
+#### Related lists
+- [awesome-europe ![GitHub Repo Stars](https://img.shields.io/github/stars/GeiserX/awesome-europe) ![GitHub last commit](https://img.shields.io/github/last-commit/GeiserX/awesome-europe)](https://github.com/GeiserX/awesome-europe#transport-and-mobility) - Curated list of open source projects for the EU / EEA, with a transport and mobility section that overlaps this list (HAFAS, NeTEx, ETCS, SIRI, Transitous, OpenTripPlanner EU deployments).
 
 ## License
 

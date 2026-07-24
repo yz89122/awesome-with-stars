@@ -123,6 +123,7 @@ SDL2 and SDL3 based applications importing `vlang/sdl`.
 - [vsqlite ![GitHub Repo Stars](https://img.shields.io/github/stars/quaesitor-scientiam/vsqlite) ![GitHub last commit](https://img.shields.io/github/last-commit/quaesitor-scientiam/vsqlite)](https://github.com/quaesitor-scientiam/vsqlite) - SQLite CLI and module replacement written in pure V.
 - [vtrace ![GitHub Repo Stars](https://img.shields.io/github/stars/tailsmails/vtrace) ![GitHub last commit](https://img.shields.io/github/last-commit/tailsmails/vtrace)](https://github.com/tailsmails/vtrace) - An automated execution tracer and step-by-step source code instrumenter for the V programming language.
 - [vzcc ![GitHub Repo Stars](https://img.shields.io/github/stars/malisipi/vzcc) ![GitHub last commit](https://img.shields.io/github/last-commit/malisipi/vzcc)](https://github.com/malisipi/vzcc) - A CLI cross-compiling tool based on Zig CC for V.
+- [waterjail ![GitHub Repo Stars](https://img.shields.io/github/stars/tailsmails/waterjail) ![GitHub last commit](https://img.shields.io/github/last-commit/tailsmails/waterjail)](https://github.com/tailsmails/waterjail) - A lightweight, surgical Seccomp-BPF dynamic sandboxing and analysis tool written in V.
 - [zilch ![GitHub Repo Stars](https://img.shields.io/github/stars/mike-ward/zilch) ![GitHub last commit](https://img.shields.io/github/last-commit/mike-ward/zilch)](https://github.com/mike-ward/zilch) - An entertaining and amusing simulation of an installer.
 
 ### Editors
