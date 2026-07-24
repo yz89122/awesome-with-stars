@@ -1353,6 +1353,7 @@ _Handling of user events (scroll, click, key strike, ...)_
 - [validation-composable ![GitHub Repo Stars](https://img.shields.io/github/stars/nexxtmove/validation-composable) ![GitHub last commit](https://img.shields.io/github/last-commit/nexxtmove/validation-composable)](https://github.com/nexxtmove/validation-composable) - ✅ Lightweight validation for Vue — just 40 lines of code.
 - [vue-uform ![GitHub Repo Stars](https://img.shields.io/github/stars/tu6ge/vue-uform) ![GitHub last commit](https://img.shields.io/github/last-commit/tu6ge/vue-uform)](https://github.com/tu6ge/vue-uform) - an component-first, unstyled, flexible form validation library for Vue 3
 - [validup ![GitHub Repo Stars](https://img.shields.io/github/stars/tada5hi/validup) ![GitHub last commit](https://img.shields.io/github/last-commit/tada5hi/validup)](https://github.com/tada5hi/validup) - Composable, path-based validation with a Vue 3 composable (`@validup/vue`) for reactive forms, groups, and structured issues.
+- [NotForm ![GitHub Repo Stars](https://img.shields.io/github/stars/favorodera/notform) ![GitHub last commit](https://img.shields.io/github/last-commit/favorodera/notform)](https://github.com/favorodera/notform) - Headless, composable form validation for Vue.js. Bring your own UI and schema (Zod, Valibot, ArkType, or any Standard-Schema compliant validator).
 
 #### Resize
 
@@ -1427,6 +1428,7 @@ _Move a DOM node to a target DOM node_
 - [vue-svgicon ![GitHub Repo Stars](https://img.shields.io/github/stars/MMF-FE/vue-svgicon) ![GitHub last commit](https://img.shields.io/github/last-commit/MMF-FE/vue-svgicon)](https://github.com/MMF-FE/vue-svgicon) - A tool to create svg icon components. (vue 2.x).
 - [vue-inline-svg ![GitHub Repo Stars](https://img.shields.io/github/stars/shrpne/vue-inline-svg) ![GitHub last commit](https://img.shields.io/github/last-commit/shrpne/vue-inline-svg)](https://github.com/shrpne/vue-inline-svg) - Vue component loads an SVG source dynamically and inline `<svg>` so you can manipulate the style of it with CSS or JS. (vue 2.x, vue 3.x)
 - [lucide-motion-vue ![GitHub Repo Stars](https://img.shields.io/github/stars/respeak-io/lucide-motion-vue) ![GitHub last commit](https://img.shields.io/github/last-commit/respeak-io/lucide-motion-vue)](https://github.com/respeak-io/lucide-motion-vue) - 516 animated Lucide icons for Vue 3 with ergonomic hover/tap/viewport triggers and a composable `<AnimateIcon>` wrapper. Tree-shakable, one chunk per icon, TypeScript-first. (vue 3.x)
+- [GeoIcons](https://geoicons.io) - Geographic map icons for every country, territory, and world region, as tree-shakable Vue 3 components.
 
 #### Miscellaneous
 
