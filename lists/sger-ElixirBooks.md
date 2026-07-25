@@ -175,7 +175,7 @@ Want to learn Elixir & OTP by creating a real-world project? With Hands-on Elixi
 
 <img src="https://learning.oreilly.com/library/cover/9781449320621/250w/" width="120px"/>
 
-Why choose Erlang for web applications? Discover the answer hands-on by building a simple web service with this book. If you’re an experienced web developer who knows basic Erlang, you’ll learn how to work with REST, dynamic content, web sockets, and concurrency through several examples. In the process, you’ll see first-hand that Erlang is ideal for building business-critical services.
+Why choose Erlang for web applications? Discover the answer hands-on by building a simple web service with this book. If you’re an experienced web developer who knows basic Erlang, you’ll learn how to work with REST, dynamic content, web sockets, and concurrency through several examples. In the process, you���ll see first-hand that Erlang is ideal for building business-critical services.
 
 ### [Elixir and Elm Tutorial](https://leanpub.com/elixir-elm-tutorial)
 
