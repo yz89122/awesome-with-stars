@@ -186,6 +186,14 @@ Run `brew install --cask --no-quarantine syntax-highlight` or [download manually
 
 [![ ![GitHub Repo Stars](https://img.shields.io/github/stars/sindresorhus/quick-look-plugins) ![GitHub last commit](https://img.shields.io/github/last-commit/sindresorhus/quick-look-plugins)](https://github.com/sindresorhus/quick-look-plugins/raw/main/screenshots/Burrete.png)](https://github.com/SergeiNikolenko/Burrete)
 
+### [Preview3MF ![GitHub Repo Stars](https://img.shields.io/github/stars/cavoco/Preview3MF) ![GitHub last commit](https://img.shields.io/github/last-commit/cavoco/Preview3MF)](https://github.com/cavoco/Preview3MF)
+
+> Preview 3MF 3D-printing models — real 3D rendering plus Finder thumbnails
+
+Run `brew install --cask cavoco/tap/preview3mf` or [download manually ![GitHub Repo Stars](https://img.shields.io/github/stars/cavoco/Preview3MF) ![GitHub last commit](https://img.shields.io/github/last-commit/cavoco/Preview3MF)](https://github.com/cavoco/Preview3MF/releases/latest)
+
+[![ ![GitHub Repo Stars](https://img.shields.io/github/stars/sindresorhus/quick-look-plugins) ![GitHub last commit](https://img.shields.io/github/last-commit/sindresorhus/quick-look-plugins)](https://github.com/sindresorhus/quick-look-plugins/raw/main/screenshots/Preview3MF.png)](https://github.com/cavoco/Preview3MF)
+
 ## License
 
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
