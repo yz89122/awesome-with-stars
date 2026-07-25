@@ -2199,6 +2199,7 @@ for the creation of web applications developed with Angular.
 * [NgxMatFacetToolkit ![GitHub Repo Stars](https://img.shields.io/github/stars/drsutphin/NgxMatFacetToolkit) ![GitHub last commit](https://img.shields.io/github/last-commit/drsutphin/NgxMatFacetToolkit)](https://github.com/drsutphin/NgxMatFacetToolkit) - Angular standalone facet filtering toolkit with Material UI.
 * [ngx-dynamic-stepper ![GitHub Repo Stars](https://img.shields.io/github/stars/yingyu-projects/ngx-dynamic-stepper) ![GitHub last commit](https://img.shields.io/github/last-commit/yingyu-projects/ngx-dynamic-stepper)](https://github.com/yingyu-projects/ngx-dynamic-stepper) - A powerful, flexible Angular library for creating dynamic wizard-style steppers built on top of Angular Material Stepper.
 * [BuilderKit](https://builderkit.dev/) - A complete UI toolkit and modern design system built on Angular Material, with blocks, templates, and a solid foundation for building Angular applications.
+* [angular-material-extended ![GitHub Repo Stars](https://img.shields.io/github/stars/reisi007/angular-material-extended) ![GitHub last commit](https://img.shields.io/github/last-commit/reisi007/angular-material-extended)](https://github.com/reisi007/angular-material-extended) - Community extensions for Angular Material (Standalone, Signals, Zoneless, SSR, M3 Theming).
 
 ### UI Libraries built on Tailwind CSS
 
