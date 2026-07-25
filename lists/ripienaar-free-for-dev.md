@@ -1307,7 +1307,7 @@ Update Time, five active automations, webhooks.
   * [zenkit.com](https://zenkit.com) - Project management and collaboration tool. Free for up to 5 members, 5 GB attachments.
   * [Zube](https://zube.io) - Project management with free plan for 4 Projects & 4 users. GitHub integration is available.
 
-**[⬆️ Back to Top](#table-of-contents)**
+**[��️ Back to Top](#table-of-contents)**
 
 ## Storage and Media Processing
 
