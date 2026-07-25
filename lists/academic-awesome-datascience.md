@@ -126,6 +126,7 @@ This section contains agent frameworks and tools that are useful for data scienc
 
 ### Frameworks
 - [ADK-Rust ![GitHub Repo Stars](https://img.shields.io/github/stars/zavora-ai/adk-rust) ![GitHub last commit](https://img.shields.io/github/last-commit/zavora-ai/adk-rust)](https://github.com/zavora-ai/adk-rust) - Production-ready AI agent development kit for Rust with model-agnostic design (Gemini, OpenAI, Anthropic), multiple agent types (LLM, Graph, Workflow), MCP support, and built-in telemetry.
+- [Lumen ![GitHub Repo Stars](https://img.shields.io/github/stars/holoviz/lumen) ![GitHub last commit](https://img.shields.io/github/last-commit/holoviz/lumen)](https://github.com/holoviz/lumen) - Agent framework for chatting with data, turning natural language into SQL, transformation pipelines and visualizations. Outputs are declarative specs that can be inspected, edited, reopened in a notebook or composed into a dashboard.
 
 ### Tools
 - [Frostbyte MCP ![GitHub Repo Stars](https://img.shields.io/github/stars/OzorOwn/frostbyte-mcp) ![GitHub last commit](https://img.shields.io/github/last-commit/OzorOwn/frostbyte-mcp)](https://github.com/OzorOwn/frostbyte-mcp) - MCP server providing 13 data tools for AI agents: real-time crypto prices, IP geolocation, DNS lookups, web scraping to markdown, code execution, and screenshots. One API key for 40+ services.
