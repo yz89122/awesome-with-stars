@@ -1352,6 +1352,7 @@ _Awesome game development libraries._
 
 _Tools that generate Go code._
 
+- [apispec ![GitHub Repo Stars](https://img.shields.io/github/stars/ehabterra/apispec) ![GitHub last commit](https://img.shields.io/github/last-commit/ehabterra/apispec)](https://github.com/ehabterra/apispec) - Generate OpenAPI 3.1 specs from Go code without annotations, plus a browser UI to configure, preview, and explore the call graph.
 - [convergen ![GitHub Repo Stars](https://img.shields.io/github/stars/reedom/convergen) ![GitHub last commit](https://img.shields.io/github/last-commit/reedom/convergen)](https://github.com/reedom/convergen) - Feature rich type-to-type copy code generator.
 - [copygen ![GitHub Repo Stars](https://img.shields.io/github/stars/switchupcb/copygen) ![GitHub last commit](https://img.shields.io/github/last-commit/switchupcb/copygen)](https://github.com/switchupcb/copygen) - Generate any code based on Go types, including type-to-type converters (copy code) without reflection by default.
 - [generis ![GitHub Repo Stars](https://img.shields.io/github/stars/senselogic/GENERIS) ![GitHub last commit](https://img.shields.io/github/last-commit/senselogic/GENERIS)](https://github.com/senselogic/GENERIS) - Code generation tool providing generics, free-form macros, conditional compilation and HTML templating.
