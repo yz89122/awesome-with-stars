@@ -1351,6 +1351,7 @@ then it is not supported:
 - [claydugo/browsher.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/claydugo/browsher.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/claydugo/browsher.nvim)](https://github.com/claydugo/browsher.nvim) - Create commit pinned links to GitHub hosted files/lines.
 - [gh-tui-tools/gh-review.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/gh-tui-tools/gh-review.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/gh-tui-tools/gh-review.nvim)](https://github.com/gh-tui-tools/gh-review.nvim) - Review GitHub PRs.
 - [justinmk/guh.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/justinmk/guh.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/justinmk/guh.nvim)](https://github.com/justinmk/guh.nvim) - View any GitHub object, including CI logs.
+- [mesirendon/nvim-ghrelease ![GitHub Repo Stars](https://img.shields.io/github/stars/mesirendon/nvim-ghrelease) ![GitHub last commit](https://img.shields.io/github/last-commit/mesirendon/nvim-ghrelease)](https://github.com/mesirendon/nvim-ghrelease) - Create a new GitHub release based on current releases of the repo.
 <!--lint disable double-link -->
 [**⬆ back to top**](#contents)
 <!--lint enable double-link -->

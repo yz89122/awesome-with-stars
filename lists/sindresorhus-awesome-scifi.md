@@ -72,7 +72,7 @@ This intense linguistic thriller will change the way you think about language. -
   > Babel-17 is all about the power of language. Humanity, which has spread throughout the universe, is involved in a war with the Invaders, who have been covertly assassinating officials and sabotaging spaceships. The only clues humanity has to go on are strange alien messages that have been intercepted in space. Poet and linguist Rydra Wong is determined to understand the language and stop the alien threat.
 </details>
 
-#### [Barsoom series](https://www.goodreads.com/series/43942-barsoom) (1912-1927) _by [Edgar Rice Burroughs](https://en.wikipedia.org/wiki/Edgar_Rice_Burroughs)_ [3.8] 🌟
+#### [Barsoom series](https://www.goodreads.com/series/43942-barsoom) (1912-1927) _by [Edgar Rice Burroughs](https://en.wikipedia.org/wiki/Edgar_Rice_Burroughs)_ [3.8] ���
 
 Now more than a century old, has that unique writing style you can only find in adventure classics. - [@uraimo](https://github.com/uraimo)
 
@@ -1345,7 +1345,7 @@ A weird, beautiful book, reminiscent of Lovecraft, Stephen King, and Brautigan's
   > In the ruins of a nameless city of the future, ruled by a giant grizzly called Mord, a woman named Rachel lives as a scavenger, collecting genetically engineered organisms and experiments created by the biotech firm the Company. Hidden in Mord's fur, she finds a sea anemone shaped creature she calls Borne.
 </details>
 
-#### [Do Androids Dream of Electric Sheep?](https://www.goodreads.com/book/show/7083.Do_Androids_Dream_of_Electric_Sheep_) (1968) _by [Philip K. Dick](https://en.wikipedia.org/wiki/Philip_K._Dick)_ [4.1] 🌟 🔥
+#### [Do Androids Dream of Electric Sheep?](https://www.goodreads.com/book/show/7083.Do_Androids_Dream_of_Electric_Sheep_) (1968) _by [Philip K. Dick](https://en.wikipedia.org/wiki/Philip_K._Dick)_ [4.1] 🌟 ����
 
 <details>
   <summary>Description</summary>
