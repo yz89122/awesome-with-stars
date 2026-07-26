@@ -144,11 +144,11 @@ Then ask any web-security question and the skill activates on topics like XSS, S
 ## Digests
 
 - [CTF Field Guide](https://trailofbits.github.io/ctf/) - Written by [Trail of Bits](https://www.trailofbits.com/).
-- [Hacker101](https://www.hacker101.com/) - Written by [hackerone](https://www.hackerone.com/start-hacking).
+- [Hacker101](https://www.hacker101.com/) - Written by [hackerone](http://web.archive.org/web/20200630164946/https://www.hackerone.com/start-hacking).
 - [Infosec Newbie](https://www.sneakymonkey.net/2017/04/23/infosec-newbie/) - Written by [Mark Robinson](https://www.sneakymonkey.net/).
 - [PayloadsAllTheThings ![GitHub Repo Stars](https://img.shields.io/github/stars/swisskyrepo/PayloadsAllTheThings) ![GitHub last commit](https://img.shields.io/github/last-commit/swisskyrepo/PayloadsAllTheThings)](https://github.com/swisskyrepo/PayloadsAllTheThings/) - Written by [@swisskyrepo](https://github.com/swisskyrepo).
 - [The Daily Swig - Web security digest](https://portswigger.net/daily-swig) - Written by [PortSwigger](https://portswigger.net/).
-- [The Magic of Learning](https://bitvijays.github.io/) - Written by [@bitvijays](https://bitvijays.github.io/aboutme.html).
+- [The Magic of Learning](https://bitvijays.github.io/) - Written by [@bitvijays](http://web.archive.org/web/20230519134723/https://bitvijays.github.io/aboutme.html).
 - [Web Application Security Zone by Netsparker](https://www.netsparker.com/blog/web-security/) - Written by [Netsparker](https://www.netsparker.com/).
 - [tl;dr sec](https://tldrsec.com/) - Weekly summary of top security tools, blog posts, and security research.
 
@@ -305,6 +305,7 @@ Then ask any web-security question and the skill activates on topics like XSS, S
 
 - [SSL & TLS Penetration Testing](https://www.aptive.co.uk/blog/tls-ssl-security-testing/) - Written by [APTIVE](https://www.aptive.co.uk/).
 - [Practical introduction to SSL/TLS ![GitHub Repo Stars](https://img.shields.io/github/stars/Hakky54/mutual-tls-ssl) ![GitHub last commit](https://img.shields.io/github/last-commit/Hakky54/mutual-tls-ssl)](https://github.com/Hakky54/mutual-tls-ssl) - Written by [@Hakky54](https://github.com/Hakky54).
+- [State of TLS on the public web](https://securemonk.io/insights/state-of-tls) - Live-data research across thousands of scanned hosts: protocol adoption, the TLS-versus-headers maturity gap, ECDSA drawing even with RSA, certificate lifetimes against the CA/B Forum 47-day schedule, and the end of OCSP stapling. Figures recompute from the scan corpus on each load.
 
 <a name="webmail"></a>
 ### Webmail
@@ -373,6 +374,7 @@ Then ask any web-security question and the skill activates on topics like XSS, S
 - [Attacking .NET deserialization](https://www.youtube.com/watch?v=eDfGpu3iE4Q) - Written by [@pwntester](https://twitter.com/pwntester).
 - [How to exploit the DotNetNuke Cookie Deserialization](https://pentest-tools.com/blog/exploit-dotnetnuke-cookie-deserialization/) - Written by [CRISTIAN CORNEA](https://pentest-tools.com/blog/author/pentest-cristian/).
 - [HOW TO EXPLOIT LIFERAY CVE-2020-7961 : QUICK JOURNEY TO POC](https://www.synacktiv.com/en/publications/how-to-exploit-liferay-cve-2020-7961-quick-journey-to-poc.html) - Written by [@synacktiv](https://twitter.com/synacktiv).
+- [Altus iX Developer XAML Deserialization RCE](https://0day-rubbish.com/blog/altus-ix-developer-xaml-rce) - Root-cause analysis and reproducible PoC for a XAML deserialization RCE (CVSS 7.3) in a SCADA HMI engineering IDE, including affected versions and a self-contained exploit script, published by [0day Rubbish ![GitHub Repo Stars](https://img.shields.io/github/stars/Exploit-Garbage/0day-Rubbish) ![GitHub last commit](https://img.shields.io/github/last-commit/Exploit-Garbage/0day-Rubbish)](https://github.com/Exploit-Garbage/0day-Rubbish).
 
 <a name="oauth"></a>
 ### OAuth
@@ -579,7 +581,7 @@ Then ask any web-security question and the skill activates on topics like XSS, S
 
 - [Attacking JavaScript Engines - A case study of JavaScriptCore and CVE-2016-4622](https://www.phrack.org/papers/attacking_javascript_engines.html) - Written by [phrack@saelo.net](mailto:phrack@saelo.net).
 - [Exploiting a V8 OOB write.](https://halbecaf.com/2017/05/24/exploiting-a-v8-oob-write/) - Written by [@halbecaf](https://twitter.com/halbecaf).
-- [SSD Advisory ��� Chrome Turbofan Remote Code Execution](https://blogs.securiteam.com/index.php/archives/3379) - Written by [SecuriTeam Secure Disclosure (SSD)](https://blogs.securiteam.com/).
+- [SSD Advisory – Chrome Turbofan Remote Code Execution](https://blogs.securiteam.com/index.php/archives/3379) - Written by [SecuriTeam Secure Disclosure (SSD)](https://blogs.securiteam.com/).
 - [Look Mom, I don't use Shellcode - Browser Exploitation Case Study for Internet Explorer 11](https://labs.bluefrostsecurity.de/files/Look_Mom_I_Dont_Use_Shellcode-WP.pdf) - Written by [@moritzj](https://twitter.com/moritzj).
 - [PUSHING WEBKIT'S BUTTONS WITH A MOBILE PWN2OWN EXPLOIT](https://www.zerodayinitiative.com/blog/2018/2/12/pushing-webkits-buttons-with-a-mobile-pwn2own-exploit) - Written by [@wanderingglitch](https://twitter.com/wanderingglitch).
 - [A Methodical Approach to Browser Exploitation](https://blog.ret2.io/2018/06/05/pwn2own-2018-exploit-development/) - Written by [RET2 SYSTEMS, INC](https://blog.ret2.io/).
