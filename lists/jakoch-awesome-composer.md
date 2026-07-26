@@ -74,7 +74,7 @@ You might also like [awesome-php ![GitHub Repo Stars](https://img.shields.io/git
 - [Composer-Git-Hooks ![GitHub Repo Stars](https://img.shields.io/github/stars/BrainMaestro/composer-git-hooks) ![GitHub last commit](https://img.shields.io/github/last-commit/BrainMaestro/composer-git-hooks)](https://github.com/BrainMaestro/composer-git-hooks) - A library for easily managing git hooks in your composer config.
 - [Symfony-Flex ![GitHub Repo Stars](https://img.shields.io/github/stars/symfony/flex) ![GitHub last commit](https://img.shields.io/github/last-commit/symfony/flex)](https://github.com/symfony/flex) - Provides [recipe-based ![GitHub Repo Stars](https://img.shields.io/github/stars/symfony/recipes) ![GitHub last commit](https://img.shields.io/github/last-commit/symfony/recipes)](https://github.com/symfony/recipes) installation and configuration management for Symfony packages.
 - [Narrowspark-Automatic ![GitHub Repo Stars](https://img.shields.io/github/stars/narrowspark/automatic) ![GitHub last commit](https://img.shields.io/github/last-commit/narrowspark/automatic)](https://github.com/narrowspark/automatic) - Automates the most common tasks of applications, boost package downloads, adds a composer security audit and more.
-- [PHPCodeSniffer-Composer-Installer ![GitHub Repo Stars](https://img.shields.io/github/stars/PHPCSStandards/composer-installer) ![GitHub last commit](https://img.shields.io/github/last-commit/PHPCSStandards/composer-installer)](https://github.com/PHPCSStandards/composer-installer) - The plugin enables you to install [PHP_CodeSniffer ![GitHub Repo Stars](https://img.shields.io/github/stars/squizlabs/PHP_CodeSniffer) ![GitHub last commit](https://img.shields.io/github/last-commit/squizlabs/PHP_CodeSniffer)](https://github.com/squizlabs/PHP_CodeSniffer) coding standards (rulesets).
+- [PHPCodeSniffer-Composer-Installer ![GitHub Repo Stars](https://img.shields.io/github/stars/PHPCSStandards/composer-installer) ![GitHub last commit](https://img.shields.io/github/last-commit/PHPCSStandards/composer-installer)](https://github.com/PHPCSStandards/composer-installer) - The plugin enables you to install [PHP_CodeSniffer ![GitHub Repo Stars](https://img.shields.io/github/stars/PHPCSStandards/PHP_CodeSniffer) ![GitHub last commit](https://img.shields.io/github/last-commit/PHPCSStandards/PHP_CodeSniffer)](https://github.com/PHPCSStandards/PHP_CodeSniffer) coding standards (rulesets).
 - [Composer-Warmup ![GitHub Repo Stars](https://img.shields.io/github/stars/jderusse/composer-warmup) ![GitHub last commit](https://img.shields.io/github/last-commit/jderusse/composer-warmup)](https://github.com/jderusse/composer-warmup) - The plugin adds the command `warmup-opcode` to Composer, which triggers the compilation of all PHP files discovered in your project into the Opcache.
 - [Foxy ![GitHub Repo Stars](https://img.shields.io/github/stars/fxpio/foxy) ![GitHub last commit](https://img.shields.io/github/last-commit/fxpio/foxy)](https://github.com/fxpio/foxy) - Composer plugin that executes npm/yarn packages installation operations, when composer package is installed or updated.
 - [NodeJS-Installer ![GitHub Repo Stars](https://img.shields.io/github/stars/thecodingmachine/nodejs-installer) ![GitHub last commit](https://img.shields.io/github/last-commit/thecodingmachine/nodejs-installer)](https://github.com/thecodingmachine/nodejs-installer) - Installer for Node.js and npm.
@@ -94,6 +94,7 @@ You might also like [awesome-php ![GitHub Repo Stars](https://img.shields.io/git
 - [Composer-Diff ![GitHub Repo Stars](https://img.shields.io/github/stars/IonBazan/composer-diff) ![GitHub last commit](https://img.shields.io/github/last-commit/IonBazan/composer-diff)](https://github.com/IonBazan/composer-diff) - Compares `composer.lock` changes and generates a Markdown report for usage in a pull request description.
 - [Composer-Velocita ![GitHub Repo Stars](https://img.shields.io/github/stars/isaaceindhoven/composer-velocita) ![GitHub last commit](https://img.shields.io/github/last-commit/isaaceindhoven/composer-velocita)](https://github.com/isaaceindhoven/composer-velocita) - Fast and reliable Composer package downloads using [Velocita ![GitHub Repo Stars](https://img.shields.io/github/stars/isaaceindhoven/velocita-proxy) ![GitHub last commit](https://img.shields.io/github/last-commit/isaaceindhoven/velocita-proxy)](https://github.com/isaaceindhoven/velocita-proxy): a caching reverse proxy that does not require you to modify your projects.
 - [Composer Translation Validator ![GitHub Repo Stars](https://img.shields.io/github/stars/move-elevator/composer-translation-validator) ![GitHub last commit](https://img.shields.io/github/last-commit/move-elevator/composer-translation-validator)](https://github.com/move-elevator/composer-translation-validator) - Validates translation files in your project, supports several file formats (regarding different frameworks) and provides useful validators for comparison, consistency and syntax checks.
+- [Composer-Fanfare ![GitHub Repo Stars](https://img.shields.io/github/stars/wazum/composer-fanfare) ![GitHub last commit](https://img.shields.io/github/last-commit/wazum/composer-fanfare)](https://github.com/wazum/composer-fanfare) - Displays a colored ASCII art banner after install/update, with color presets, gradients and animations.
 
 ## Tools
 
@@ -130,9 +131,7 @@ You might also like [awesome-php ![GitHub Repo Stars](https://img.shields.io/git
 
 ## Tutorials
 
-- [A beginners guide to Composer](https://www.digitalocean.com/community/tutorials/a-beginners-guide-to-composer)
-- [A short & simple Composer tutorial](https://www.dev-metal.com/composer-tutorial/)
-- [Easy package management with Composer](https://code.tutsplus.com/easy-package-management-with-composer--net-25530t)
+- [A short & simple Composer tutorial](https://dev-metal.com/composer-tutorial/)
 - [PHP Dependency Management with Composer](https://www.sitepoint.com/re-introducing-composer/)
 - [Composer Primer](https://daylerees.com/composer-primer/)
 - [PHP Composer Magento Tutorial by Alan Storm](https://alanastorm.com/php_composer_magento_tutorial/)
@@ -207,11 +206,8 @@ About metadata mirrors: https://packagist.org/mirrors
 - Global, CloudFlare - [packagist.pages.dev](https://packagist.pages.dev/)
 - North America
   - Canada - [packagist.org](https://packagist.org) *Main mirror*
-- Africa
-  - South Africa - [packagist.co.za](https://packagist.co.za)
 - Asia
   - China - [https://pkg.xyz/](https://pkg.xyz/), [https://developer.aliyun.com/composer](https://developer.aliyun.com/composer)
-  - India - [https://packagist.in/](https://packagist.in/)
   - Japan - [packagist.jp](https://packagist.jp)
   - Korea - [https://packagist.kr/](https://packagist.kr/)
 
