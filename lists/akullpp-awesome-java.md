@@ -1584,7 +1584,7 @@ _Frameworks that are suites of multiple libraries encompassing several categorie
 
 > **[Exec ![GitHub Repo Stars](https://img.shields.io/github/stars/apache/commons-exec) ![GitHub last commit](https://img.shields.io/github/last-commit/apache/commons-exec)](https://github.com/apache/commons-exec)** <kbd>★ 162</kbd> <kbd>Apache-2.0</kbd> 🟢<br>API for dealing with external process execution and environment management in Java.
 
-> **[FileUpload ![GitHub Repo Stars](https://img.shields.io/github/stars/apache/commons-fileupload) ![GitHub last commit](https://img.shields.io/github/last-commit/apache/commons-fileupload)](https://github.com/apache/commons-fileupload)** <kbd>�� 260</kbd> <kbd>Apache-2.0</kbd> 🟢<br>File upload capability for your servlets and web applications.
+> **[FileUpload ![GitHub Repo Stars](https://img.shields.io/github/stars/apache/commons-fileupload) ![GitHub last commit](https://img.shields.io/github/last-commit/apache/commons-fileupload)](https://github.com/apache/commons-fileupload)** <kbd>★ 260</kbd> <kbd>Apache-2.0</kbd> 🟢<br>File upload capability for your servlets and web applications.
 
 > **[Finder](https://commons.apache.org/sandbox/commons-finder/)**<br>Java library inspired by the UNIX find command.
 
