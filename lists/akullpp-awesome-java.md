@@ -439,7 +439,7 @@ _Everything that simplifies interactions with the database._
 
 > **[H2 ![GitHub Repo Stars](https://img.shields.io/github/stars/h2database/h2database) ![GitHub last commit](https://img.shields.io/github/last-commit/h2database/h2database)](https://github.com/h2database/h2database)** <kbd>★ 4.6k</kbd> 🟢<br>Small SQL database notable for its in-memory functionality.
 
-> **[HikariCP ![GitHub Repo Stars](https://img.shields.io/github/stars/brettwooldridge/HikariCP) ![GitHub last commit](https://img.shields.io/github/last-commit/brettwooldridge/HikariCP)](https://github.com/brettwooldridge/HikariCP)** <kbd>★ 21.2k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>High-performance JDBC connection pool.
+> **[HikariCP ![GitHub Repo Stars](https://img.shields.io/github/stars/brettwooldridge/HikariCP) ![GitHub last commit](https://img.shields.io/github/last-commit/brettwooldridge/HikariCP)](https://github.com/brettwooldridge/HikariCP)** <kbd>★ 21.2k</kbd> <kbd>Apache-2.0</kbd> ���<br>High-performance JDBC connection pool.
 
 > **[HSQLDB](https://hsqldb.org/)**<br>HyperSQL 100% Java database.
 
@@ -841,7 +841,7 @@ _Libraries to create modern graphical user interfaces._
 
 > **[Sierra ![GitHub Repo Stars](https://img.shields.io/github/stars/HTTP-RPC/Sierra) ![GitHub last commit](https://img.shields.io/github/last-commit/HTTP-RPC/Sierra)](https://github.com/HTTP-RPC/Sierra)** <kbd>★ 150</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Lightwieght declarative DSL for rapid development of Swing applications.
 
-> **[SnapKit ![GitHub Repo Stars](https://img.shields.io/github/stars/reportmill/SnapKit) ![GitHub last commit](https://img.shields.io/github/last-commit/reportmill/SnapKit)](https://github.com/reportmill/SnapKit)** <kbd>★ 332</kbd> ���<br>Modern Java UI library for both desktop and web.
+> **[SnapKit ![GitHub Repo Stars](https://img.shields.io/github/stars/reportmill/SnapKit) ![GitHub last commit](https://img.shields.io/github/last-commit/reportmill/SnapKit)](https://github.com/reportmill/SnapKit)** <kbd>★ 332</kbd> 🟢<br>Modern Java UI library for both desktop and web.
 
 > **[SWT ![GitHub Repo Stars](https://img.shields.io/github/stars/eclipse-platform/eclipse.platform.swt) ![GitHub last commit](https://img.shields.io/github/last-commit/eclipse-platform/eclipse.platform.swt)](https://github.com/eclipse-platform/eclipse.platform.swt)** <kbd>★ 199</kbd> <kbd>EPL-2.0</kbd> 🟢<br>Graphical widget toolkit.
 
