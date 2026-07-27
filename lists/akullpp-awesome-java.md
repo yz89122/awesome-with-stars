@@ -78,7 +78,7 @@ _Frameworks that ease bean mapping._
 
 _Tools that handle the build cycle and dependencies of an application._
 
-> **[Apache Maven ![GitHub Repo Stars](https://img.shields.io/github/stars/apache/maven) ![GitHub last commit](https://img.shields.io/github/last-commit/apache/maven)](https://github.com/apache/maven)** <kbd>��� 5.3k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Declarative build and dependency management that favors convention over configuration. It might be preferable to Apache Ant, which uses a rather procedural approach and can be difficult to maintain.
+> **[Apache Maven ![GitHub Repo Stars](https://img.shields.io/github/stars/apache/maven) ![GitHub last commit](https://img.shields.io/github/last-commit/apache/maven)](https://github.com/apache/maven)** <kbd>★ 5.3k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Declarative build and dependency management that favors convention over configuration. It might be preferable to Apache Ant, which uses a rather procedural approach and can be difficult to maintain.
 
 > **[Bazel ![GitHub Repo Stars](https://img.shields.io/github/stars/bazelbuild/bazel) ![GitHub last commit](https://img.shields.io/github/last-commit/bazelbuild/bazel)](https://github.com/bazelbuild/bazel)** <kbd>★ 25.7k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Tool from Google that builds code quickly and reliably.
 
@@ -333,7 +333,7 @@ _Libraries that provide external configuration._
 
 > **[ini4j](https://ini4j.sourceforge.net)**<br>Provides an API for handling Windows' INI files.
 
-> **[KAConf ![GitHub Repo Stars](https://img.shields.io/github/stars/mariomac/kaconf) ![GitHub last commit](https://img.shields.io/github/last-commit/mariomac/kaconf)](https://github.com/mariomac/kaconf)** <kbd>★ 63</kbd> <kbd>Apache-2.0</kbd> ����<br>Annotation-based configuration system for Java and Kotlin.
+> **[KAConf ![GitHub Repo Stars](https://img.shields.io/github/stars/mariomac/kaconf) ![GitHub last commit](https://img.shields.io/github/last-commit/mariomac/kaconf)](https://github.com/mariomac/kaconf)** <kbd>★ 63</kbd> <kbd>Apache-2.0</kbd> 🔴<br>Annotation-based configuration system for Java and Kotlin.
 
 > **[microconfig ![GitHub Repo Stars](https://img.shields.io/github/stars/microconfig/microconfig) ![GitHub last commit](https://img.shields.io/github/last-commit/microconfig/microconfig)](https://github.com/microconfig/microconfig)** <kbd>★ 320</kbd> <kbd>Apache-2.0</kbd> 🔴<br>Configuration system designed for microservices which helps to separate configuration from code. The configuration for different services can have common and specific parts and can be dynamically distributed.
 
@@ -1584,7 +1584,7 @@ _Frameworks that are suites of multiple libraries encompassing several categorie
 
 > **[Exec ![GitHub Repo Stars](https://img.shields.io/github/stars/apache/commons-exec) ![GitHub last commit](https://img.shields.io/github/last-commit/apache/commons-exec)](https://github.com/apache/commons-exec)** <kbd>★ 162</kbd> <kbd>Apache-2.0</kbd> 🟢<br>API for dealing with external process execution and environment management in Java.
 
-> **[FileUpload ![GitHub Repo Stars](https://img.shields.io/github/stars/apache/commons-fileupload) ![GitHub last commit](https://img.shields.io/github/last-commit/apache/commons-fileupload)](https://github.com/apache/commons-fileupload)** <kbd>★ 260</kbd> <kbd>Apache-2.0</kbd> 🟢<br>File upload capability for your servlets and web applications.
+> **[FileUpload ![GitHub Repo Stars](https://img.shields.io/github/stars/apache/commons-fileupload) ![GitHub last commit](https://img.shields.io/github/last-commit/apache/commons-fileupload)](https://github.com/apache/commons-fileupload)** <kbd>�� 260</kbd> <kbd>Apache-2.0</kbd> 🟢<br>File upload capability for your servlets and web applications.
 
 > **[Finder](https://commons.apache.org/sandbox/commons-finder/)**<br>Java library inspired by the UNIX find command.
 
