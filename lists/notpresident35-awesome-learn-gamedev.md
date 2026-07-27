@@ -157,7 +157,7 @@ More huge lists of resources, with many, many more incredible things! Some of th
 [Game Programming Patterns](https://gameprogrammingpatterns.com/) 🟪 - A free book on programming patterns for games.
 
 
-[A Study Path for Game Programmers ![GitHub Repo Stars](https://img.shields.io/github/stars/miloyip/game-programmer) ![GitHub last commit](https://img.shields.io/github/last-commit/miloyip/game-programmer)](https://github.com/miloyip/game-programmer) �� - A huge collection of game programming book titles and covers organized by specialization, with fancy flow charts between each title for a recommended reading order! Note that the books are _not_ included - a quick search should help you out with that ;]
+[A Study Path for Game Programmers ![GitHub Repo Stars](https://img.shields.io/github/stars/miloyip/game-programmer) ![GitHub last commit](https://img.shields.io/github/last-commit/miloyip/game-programmer)](https://github.com/miloyip/game-programmer) 🟪 - A huge collection of game programming book titles and covers organized by specialization, with fancy flow charts between each title for a recommended reading order! Note that the books are _not_ included - a quick search should help you out with that ;]
 
 
 [How to Learn Software Design and Architecture](https://www.freecodecamp.org/news/software-design/) 🟪 - A list of resources for software architecture.
@@ -811,7 +811,7 @@ Royalty free music! Don't forget to check the license.
 <br />
 
 
-[Leveling the Playing Field](https://ltpf.ramiismail.com) 💠🟪 - A blog/newsletter by Rami Ismail with advice on business, marketing, skill development, and various topics needed to run an indie studio. Past newsletters are archived here. I personally recommend "Budget Viability" as a starting point.
+[Leveling the Playing Field](https://ltpf.ramiismail.com) 💠�� - A blog/newsletter by Rami Ismail with advice on business, marketing, skill development, and various topics needed to run an indie studio. Past newsletters are archived here. I personally recommend "Budget Viability" as a starting point.
 
 
 [How to Market a Game](https://howtomarketagame.com) 💠🟪 - A blog and a collection of resources by Chris Zukowski with advice on marketing and sales. I personally recommend his GDC talks "Empathizing with Steam: How People Shop for Your Game" and "What to Write So People Buy: Selling Your Game Without Feeling Sleazy" as starting points.
@@ -901,7 +901,7 @@ Royalty free music! Don't forget to check the license.
 [Obsidian](https://obsidian.md/) 🟪 - Important productivity fuel (and what I used to hoard this list :P)
 
 
-[A series of game jam post-mortems](https://www.youtube.com/watch?v=fW88C_w3EzE&list=PLrvwNabyAw30pIbitXIHLdSTm4t9I3iT1) 💠🟪 - These are more valuable than they let on, because they show you the whole game-making process, start to finish. Not only will this help you avoid common pitfalls, it will help you know how to follow that process for your own game. Watch a couple before entering your first jam or starting your first project!
+[A series of game jam post-mortems](https://www.youtube.com/watch?v=fW88C_w3EzE&list=PLrvwNabyAw30pIbitXIHLdSTm4t9I3iT1) 💠���� - These are more valuable than they let on, because they show you the whole game-making process, start to finish. Not only will this help you avoid common pitfalls, it will help you know how to follow that process for your own game. Watch a couple before entering your first jam or starting your first project!
 
 
 [The California Problem](https://ellaguro.blogspot.com/2023/02/the-california-problem.html) 🟪 - One of my favorite articles ever written. A philosophical analysis of the culture of games as an industry and the importance of gamedev as a hobby, not just a business. 

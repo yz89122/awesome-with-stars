@@ -468,6 +468,7 @@ every 20 minutes, look at something 20 feet (~6 meters) away for at least 20 sec
 * [IrfanView](https://www.irfanview.com/) - Fast and compact image viewer and converter.
 * [LightBulb ![GitHub Repo Stars](https://img.shields.io/github/stars/Tyrrrz/LightBulb) ![GitHub last commit](https://img.shields.io/github/last-commit/Tyrrrz/LightBulb)](https://github.com/Tyrrrz/LightBulb) - Adaptive screen brightness utility.
 * [LocalSend](https://localsend.org/) - Free, open-source and cross-platform app that allows you to securely share files and messages with nearby devices over your local network without needing an internet connection. [![Open-Source Software][oss]](https://github.com/localsend/localsend)
+* [MultiDrive](https://multidrive.io/) - Free app to clone, erase, backup drives.
 * [neohtop ![GitHub Repo Stars](https://img.shields.io/github/stars/Abdenasser/neohtop) ![GitHub last commit](https://img.shields.io/github/last-commit/Abdenasser/neohtop)](https://github.com/Abdenasser/neohtop) - Modern system monitor built with Svelte and Rust. ![Open-Source Software](https://github.com/0pandadev/awesome-windows/raw/main/assets/opensource.svg) ![star]
 * [Nirsoft](https://www.nirsoft.net/utils/index.html) - Collection of utility softwares.
 * [PowerToys](https://learn.microsoft.com/en-us/windows/powertoys/install) - Microsoft's power user toolkit. [![Open-Source Software][oss]](https://github.com/microsoft/PowerToys)
