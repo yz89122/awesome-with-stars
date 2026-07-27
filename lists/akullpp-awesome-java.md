@@ -333,7 +333,7 @@ _Libraries that provide external configuration._
 
 > **[ini4j](https://ini4j.sourceforge.net)**<br>Provides an API for handling Windows' INI files.
 
-> **[KAConf ![GitHub Repo Stars](https://img.shields.io/github/stars/mariomac/kaconf) ![GitHub last commit](https://img.shields.io/github/last-commit/mariomac/kaconf)](https://github.com/mariomac/kaconf)** <kbd>★ 63</kbd> <kbd>Apache-2.0</kbd> 🔴<br>Annotation-based configuration system for Java and Kotlin.
+> **[KAConf ![GitHub Repo Stars](https://img.shields.io/github/stars/mariomac/kaconf) ![GitHub last commit](https://img.shields.io/github/last-commit/mariomac/kaconf)](https://github.com/mariomac/kaconf)** <kbd>★ 63</kbd> <kbd>Apache-2.0</kbd> ����<br>Annotation-based configuration system for Java and Kotlin.
 
 > **[microconfig ![GitHub Repo Stars](https://img.shields.io/github/stars/microconfig/microconfig) ![GitHub last commit](https://img.shields.io/github/last-commit/microconfig/microconfig)](https://github.com/microconfig/microconfig)** <kbd>★ 320</kbd> <kbd>Apache-2.0</kbd> 🔴<br>Configuration system designed for microservices which helps to separate configuration from code. The configuration for different services can have common and specific parts and can be dynamically distributed.
 
