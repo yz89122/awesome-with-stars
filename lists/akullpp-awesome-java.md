@@ -78,7 +78,7 @@ _Frameworks that ease bean mapping._
 
 _Tools that handle the build cycle and dependencies of an application._
 
-> **[Apache Maven ![GitHub Repo Stars](https://img.shields.io/github/stars/apache/maven) ![GitHub last commit](https://img.shields.io/github/last-commit/apache/maven)](https://github.com/apache/maven)** <kbd>★ 5.3k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Declarative build and dependency management that favors convention over configuration. It might be preferable to Apache Ant, which uses a rather procedural approach and can be difficult to maintain.
+> **[Apache Maven ![GitHub Repo Stars](https://img.shields.io/github/stars/apache/maven) ![GitHub last commit](https://img.shields.io/github/last-commit/apache/maven)](https://github.com/apache/maven)** <kbd>��� 5.3k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Declarative build and dependency management that favors convention over configuration. It might be preferable to Apache Ant, which uses a rather procedural approach and can be difficult to maintain.
 
 > **[Bazel ![GitHub Repo Stars](https://img.shields.io/github/stars/bazelbuild/bazel) ![GitHub last commit](https://img.shields.io/github/last-commit/bazelbuild/bazel)](https://github.com/bazelbuild/bazel)** <kbd>★ 25.7k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Tool from Google that builds code quickly and reliably.
 
@@ -582,7 +582,7 @@ _Augmentation of the development process at a fundamental level._
 
 > **[Manifold ![GitHub Repo Stars](https://img.shields.io/github/stars/manifold-systems/manifold) ![GitHub last commit](https://img.shields.io/github/last-commit/manifold-systems/manifold)](https://github.com/manifold-systems/manifold)** <kbd>★ 2.8k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Re-energizes Java with powerful features like type-safe metaprogramming, structural typing and extension methods.
 
-> **[NoException ![GitHub Repo Stars](https://img.shields.io/github/stars/robertvazan/noexception) ![GitHub last commit](https://img.shields.io/github/last-commit/robertvazan/noexception)](https://github.com/robertvazan/noexception)** <kbd>★ 130</kbd> <kbd>Apache-2.0</kbd> 🔴<br>Allows checked exceptions in functional interfaces and converts exceptions to Optional return.
+> **[NoException ![GitHub Repo Stars](https://img.shields.io/github/stars/robertvazan/noexception) ![GitHub last commit](https://img.shields.io/github/last-commit/robertvazan/noexception)](https://github.com/robertvazan/noexception)** <kbd>��� 130</kbd> <kbd>Apache-2.0</kbd> 🔴<br>Allows checked exceptions in functional interfaces and converts exceptions to Optional return.
 
 > **[SneakyThrow ![GitHub Repo Stars](https://img.shields.io/github/stars/rainerhahnekamp/sneakythrow) ![GitHub last commit](https://img.shields.io/github/last-commit/rainerhahnekamp/sneakythrow)](https://github.com/rainerhahnekamp/sneakythrow)** <kbd>★ 81</kbd> <kbd>MIT</kbd> 🔴<br>Ignores checked exceptions without bytecode manipulation. Can also be used inside Java 8 stream operations.
 
