@@ -78,7 +78,7 @@ _Frameworks that ease bean mapping._
 
 _Tools that handle the build cycle and dependencies of an application._
 
-> **[Apache Maven ![GitHub Repo Stars](https://img.shields.io/github/stars/apache/maven) ![GitHub last commit](https://img.shields.io/github/last-commit/apache/maven)](https://github.com/apache/maven)** <kbd>★ 5.3k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Declarative build and dependency management that favors convention over configuration. It might be preferable to Apache Ant, which uses a rather procedural approach and can be difficult to maintain.
+> **[Apache Maven ![GitHub Repo Stars](https://img.shields.io/github/stars/apache/maven) ![GitHub last commit](https://img.shields.io/github/last-commit/apache/maven)](https://github.com/apache/maven)** <kbd>��� 5.3k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Declarative build and dependency management that favors convention over configuration. It might be preferable to Apache Ant, which uses a rather procedural approach and can be difficult to maintain.
 
 > **[Bazel ![GitHub Repo Stars](https://img.shields.io/github/stars/bazelbuild/bazel) ![GitHub last commit](https://img.shields.io/github/last-commit/bazelbuild/bazel)](https://github.com/bazelbuild/bazel)** <kbd>★ 25.7k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Tool from Google that builds code quickly and reliably.
 
@@ -841,7 +841,7 @@ _Libraries to create modern graphical user interfaces._
 
 > **[Sierra ![GitHub Repo Stars](https://img.shields.io/github/stars/HTTP-RPC/Sierra) ![GitHub last commit](https://img.shields.io/github/last-commit/HTTP-RPC/Sierra)](https://github.com/HTTP-RPC/Sierra)** <kbd>★ 150</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Lightwieght declarative DSL for rapid development of Swing applications.
 
-> **[SnapKit ![GitHub Repo Stars](https://img.shields.io/github/stars/reportmill/SnapKit) ![GitHub last commit](https://img.shields.io/github/last-commit/reportmill/SnapKit)](https://github.com/reportmill/SnapKit)** <kbd>★ 332</kbd> 🟢<br>Modern Java UI library for both desktop and web.
+> **[SnapKit ![GitHub Repo Stars](https://img.shields.io/github/stars/reportmill/SnapKit) ![GitHub last commit](https://img.shields.io/github/last-commit/reportmill/SnapKit)](https://github.com/reportmill/SnapKit)** <kbd>★ 332</kbd> ���<br>Modern Java UI library for both desktop and web.
 
 > **[SWT ![GitHub Repo Stars](https://img.shields.io/github/stars/eclipse-platform/eclipse.platform.swt) ![GitHub last commit](https://img.shields.io/github/last-commit/eclipse-platform/eclipse.platform.swt)](https://github.com/eclipse-platform/eclipse.platform.swt)** <kbd>★ 199</kbd> <kbd>EPL-2.0</kbd> 🟢<br>Graphical widget toolkit.
 
@@ -1584,7 +1584,7 @@ _Frameworks that are suites of multiple libraries encompassing several categorie
 
 > **[Exec ![GitHub Repo Stars](https://img.shields.io/github/stars/apache/commons-exec) ![GitHub last commit](https://img.shields.io/github/last-commit/apache/commons-exec)](https://github.com/apache/commons-exec)** <kbd>★ 162</kbd> <kbd>Apache-2.0</kbd> 🟢<br>API for dealing with external process execution and environment management in Java.
 
-> **[FileUpload ![GitHub Repo Stars](https://img.shields.io/github/stars/apache/commons-fileupload) ![GitHub last commit](https://img.shields.io/github/last-commit/apache/commons-fileupload)](https://github.com/apache/commons-fileupload)** <kbd>�� 260</kbd> <kbd>Apache-2.0</kbd> 🟢<br>File upload capability for your servlets and web applications.
+> **[FileUpload ![GitHub Repo Stars](https://img.shields.io/github/stars/apache/commons-fileupload) ![GitHub last commit](https://img.shields.io/github/last-commit/apache/commons-fileupload)](https://github.com/apache/commons-fileupload)** <kbd>★ 260</kbd> <kbd>Apache-2.0</kbd> 🟢<br>File upload capability for your servlets and web applications.
 
 > **[Finder](https://commons.apache.org/sandbox/commons-finder/)**<br>Java library inspired by the UNIX find command.
 
