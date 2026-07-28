@@ -487,7 +487,7 @@ _Everything that simplifies interactions with the database._
 
 > **[Spring Data Dynamic Query ![GitHub Repo Stars](https://img.shields.io/github/stars/tdilber/spring-data-dynamic-query) ![GitHub last commit](https://img.shields.io/github/last-commit/tdilber/spring-data-dynamic-query)](https://github.com/tdilber/spring-data-dynamic-query)** <kbd>★ 40</kbd> <kbd>Apache-2.0</kbd> 🟠<br>Unified dynamic query interface for Spring Data JPA, MongoDB, and Elasticsearch, enabling advanced JOIN(s), OR logic, scoped conditions, powerful projections and advanced features with zero boilerplate.
 
-> **[Spring Data JPA MongoDB Expressions ![GitHub Repo Stars](https://img.shields.io/github/stars/mhewedy/spring-data-jpa-mongodb-expressions) ![GitHub last commit](https://img.shields.io/github/last-commit/mhewedy/spring-data-jpa-mongodb-expressions)](https://github.com/mhewedy/spring-data-jpa-mongodb-expressions)** <kbd>★ 104</kbd> <kbd>Apache-2.0</kbd> 🟠<br>Allows you to use MongoDB query language to query your relational database.
+> **[Spring Data JPA MongoDB Expressions ![GitHub Repo Stars](https://img.shields.io/github/stars/mhewedy/spring-data-jpa-mongodb-expressions) ![GitHub last commit](https://img.shields.io/github/last-commit/mhewedy/spring-data-jpa-mongodb-expressions)](https://github.com/mhewedy/spring-data-jpa-mongodb-expressions)** <kbd>�� 104</kbd> <kbd>Apache-2.0</kbd> 🟠<br>Allows you to use MongoDB query language to query your relational database.
 
 > **[Trino ![GitHub Repo Stars](https://img.shields.io/github/stars/trinodb/trino) ![GitHub last commit](https://img.shields.io/github/last-commit/trinodb/trino)](https://github.com/trinodb/trino)** <kbd>★ 13.1k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Distributed SQL query engine for big data.
 

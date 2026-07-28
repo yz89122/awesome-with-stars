@@ -100,6 +100,7 @@ Proud to be featured in [Awesome ![GitHub Repo Stars](https://img.shields.io/git
 - [MeBoy](http://arktos.se/meboy) - Supports emulating GBC with sound, color, and save states.
 - [Telegram Micro ![GitHub Repo Stars](https://img.shields.io/github/stars/faissaloo/telegram-micro) ![GitHub last commit](https://img.shields.io/github/last-commit/faissaloo/telegram-micro)](https://github.com/faissaloo/telegram-micro) - Telegram client.
 - [VK4ME ![GitHub Repo Stars](https://img.shields.io/github/stars/VK4ME/client) ![GitHub last commit](https://img.shields.io/github/last-commit/VK4ME/client)](https://github.com/VK4ME/client)  - Unofficial client for Russian social network VK for devices supporting CLDC 1.1 and MIDP 2.0.
+- [W4ME Station ![GitHub Repo Stars](https://img.shields.io/github/stars/mulfyx/w4me-station) ![GitHub last commit](https://img.shields.io/github/last-commit/mulfyx/w4me-station)](https://github.com/mulfyx/w4me-station) - WASM-4 runtime for CLDC 1.1 / MIDP 2.0 phones, with bundled cartridges and support for loading external `.wasm` files.
 - [Opera FTP Archive](https://ftp.opera.com/pub/opera) - Official FTP archive of various versions of Opera browser for all supported platforms.
 - [Pocket Gopher ![GitHub Repo Stars](https://img.shields.io/github/stars/felixp7/pocket-gopher) ![GitHub last commit](https://img.shields.io/github/last-commit/felixp7/pocket-gopher)](https://github.com/felixp7/pocket-gopher) - Open source Gopher and Gopher+ client for J2ME.
 

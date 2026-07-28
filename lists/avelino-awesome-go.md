@@ -886,6 +886,7 @@ _Data stores with expiring records, in-memory distributed data stores, or in-mem
 - [rwdb ![GitHub Repo Stars](https://img.shields.io/github/stars/andizzle/rwdb) ![GitHub last commit](https://img.shields.io/github/last-commit/andizzle/rwdb)](https://github.com/andizzle/rwdb) - rwdb provides read replica capability for multiple database servers setup.
 - [vitess ![GitHub Repo Stars](https://img.shields.io/github/stars/youtube/vitess) ![GitHub last commit](https://img.shields.io/github/last-commit/youtube/vitess)](https://github.com/youtube/vitess) - vitess provides servers and tools which facilitate scaling of MySQL databases for large scale web services.
 - [wescale ![GitHub Repo Stars](https://img.shields.io/github/stars/wesql/wescale) ![GitHub last commit](https://img.shields.io/github/last-commit/wesql/wescale)](https://github.com/wesql/wescale) - WeScale is a database proxy designed to enhance the scalability, performance, security, and resilience of your applications.
+- [xsql ![GitHub Repo Stars](https://img.shields.io/github/stars/zx06/xsql) ![GitHub last commit](https://img.shields.io/github/last-commit/zx06/xsql)](https://github.com/zx06/xsql) - AI-first cross-database CLI tool with read-only protection and structured JSON output.
 
 ### SQL Query Builders
 
