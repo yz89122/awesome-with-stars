@@ -442,7 +442,7 @@ Expansive lists of well-known models and concepts.
 
 - “People who excel at software design become convinced that they have a unique ability to understand any kind of system at all, from first principles, without prior training, thanks to their superior powers of analysis. Success in the artificially constructed world of software design promotes a dangerous confidence.” - A reminder of the needs of humility and recognition of limits in our industry, [from a panel on the Moral Economy of Tech](https://idlewords.com/talks/sase_panel.htm).
 
-- [The Art of Powerful Questions - Catalyzing Insight, Innovation, and Action](https://www.betterevaluation.org/sites/default/files/the-art-of-powerful-questions.pdf) - “Leaders believe that they are being paid for fixing problems rather than for fostering breakthrough thinking.”
+- [The Art of Powerful Questions - Catalyzing Insight, Innovation, and Action](https://www.betterevaluation.org/sites/default/files/the-art-of-powerful-questions.pdf) - ���Leaders believe that they are being paid for fixing problems rather than for fostering breakthrough thinking.”
 
 ### Systems
 
