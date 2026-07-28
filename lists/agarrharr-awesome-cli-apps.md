@@ -130,6 +130,7 @@ Inspired by the [awesome ![GitHub Repo Stars](https://img.shields.io/github/star
 - [TUISIC ![GitHub Repo Stars](https://img.shields.io/github/stars/Dark-Kernel/tuisic) ![GitHub last commit](https://img.shields.io/github/last-commit/Dark-Kernel/tuisic)](https://github.com/Dark-Kernel/tuisic) - Login-free music streaming.
 - [termusic ![GitHub Repo Stars](https://img.shields.io/github/stars/tramhao/termusic) ![GitHub last commit](https://img.shields.io/github/last-commit/tramhao/termusic)](https://github.com/tramhao/termusic) - Music player in rust with download capabilities.
 - [ytm-player ![GitHub Repo Stars](https://img.shields.io/github/stars/peternaame-boop/ytm-player) ![GitHub last commit](https://img.shields.io/github/last-commit/peternaame-boop/ytm-player)](https://github.com/peternaame-boop/ytm-player) - YouTube Music player.
+- [tunein-cli ![GitHub Repo Stars](https://img.shields.io/github/stars/tsirysndr/tunein-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/tsirysndr/tunein-cli)](https://github.com/tsirysndr/tunein-cli) - TuneIn and Radio Browser client.
 
 ### Video
 
@@ -711,6 +712,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [rawhide ![GitHub Repo Stars](https://img.shields.io/github/stars/raforg/rawhide) ![GitHub last commit](https://img.shields.io/github/last-commit/raforg/rawhide)](https://github.com/raforg/rawhide) - Find files using pretty C expressions.
 - [semantic-grep ![GitHub Repo Stars](https://img.shields.io/github/stars/arunsupe/semantic-grep) ![GitHub last commit](https://img.shields.io/github/last-commit/arunsupe/semantic-grep)](https://github.com/arunsupe/semantic-grep) - A tool for semantic search using word embeddings (e.g. search for "death" and find "dead", "killing", "murder".)
 - [reflex ![GitHub Repo Stars](https://img.shields.io/github/stars/reflex-search/reflex) ![GitHub last commit](https://img.shields.io/github/last-commit/reflex-search/reflex)](https://github.com/reflex-search/reflex) - Instant, offline, code-aware search for text, symbols, and import graphs.
+- [Vexor ![GitHub Repo Stars](https://img.shields.io/github/stars/scarletkc/vexor) ![GitHub last commit](https://img.shields.io/github/last-commit/scarletkc/vexor)](https://github.com/scarletkc/vexor) - A semantic search engine for files and code.
 
 ## Version Control
 
