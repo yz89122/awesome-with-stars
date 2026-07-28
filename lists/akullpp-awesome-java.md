@@ -439,7 +439,7 @@ _Everything that simplifies interactions with the database._
 
 > **[H2 ![GitHub Repo Stars](https://img.shields.io/github/stars/h2database/h2database) ![GitHub last commit](https://img.shields.io/github/last-commit/h2database/h2database)](https://github.com/h2database/h2database)** <kbd>★ 4.6k</kbd> 🟢<br>Small SQL database notable for its in-memory functionality.
 
-> **[HikariCP ![GitHub Repo Stars](https://img.shields.io/github/stars/brettwooldridge/HikariCP) ![GitHub last commit](https://img.shields.io/github/last-commit/brettwooldridge/HikariCP)](https://github.com/brettwooldridge/HikariCP)** <kbd>★ 21.2k</kbd> <kbd>Apache-2.0</kbd> ���<br>High-performance JDBC connection pool.
+> **[HikariCP ![GitHub Repo Stars](https://img.shields.io/github/stars/brettwooldridge/HikariCP) ![GitHub last commit](https://img.shields.io/github/last-commit/brettwooldridge/HikariCP)](https://github.com/brettwooldridge/HikariCP)** <kbd>★ 21.2k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>High-performance JDBC connection pool.
 
 > **[HSQLDB](https://hsqldb.org/)**<br>HyperSQL 100% Java database.
 

@@ -1079,6 +1079,7 @@ then it is not supported:
 - [emrearmagan/dockyard.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/emrearmagan/dockyard.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/emrearmagan/dockyard.nvim)](https://github.com/emrearmagan/dockyard.nvim) - Docker dashboard for managing containers, images, networks, and logs.
 - [ChuYanLon/telegram.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/ChuYanLon/telegram.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/ChuYanLon/telegram.nvim)](https://github.com/ChuYanLon/telegram.nvim) - A Telegram chat client powered by TDLib supporting real-time messaging, group management, and media preview.
 - [paulburgess1357/nvim-mcp ![GitHub Repo Stars](https://img.shields.io/github/stars/paulburgess1357/nvim-mcp) ![GitHub last commit](https://img.shields.io/github/last-commit/paulburgess1357/nvim-mcp)](https://github.com/paulburgess1357/nvim-mcp) - MCP server giving AI agents access to buffers, commands, and LSP diagnostics through the built-in msgpack-RPC socket.
+- [dpezto/chezmoi-template.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/dpezto/chezmoi-template.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/dpezto/chezmoi-template.nvim)](https://github.com/dpezto/chezmoi-template.nvim) - Edit chezmoi source files natively: target-language Tree-sitter injection, template-aware formatting, live preview, diagnostics and completion.
 
 ### CSV Files
 
@@ -1105,6 +1106,7 @@ then it is not supported:
 
 ## Terminal Integration
 
+- [TheLazyCat00/termfile-nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/TheLazyCat00/termfile-nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/TheLazyCat00/termfile-nvim)](https://github.com/TheLazyCat00/termfile-nvim) - Turn files into persistent terminal sessions that flawlessly allow for background work.
 - [TheLazyCat00/runner-nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/TheLazyCat00/runner-nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/TheLazyCat00/runner-nvim)](https://github.com/TheLazyCat00/runner-nvim) - Run commands in a floating terminal and keep track of the last command executed per CWD, making it easy to repeat build or test commands.
 - [LuxVim/nvim-luxterm ![GitHub Repo Stars](https://img.shields.io/github/stars/LuxVim/nvim-luxterm) ![GitHub last commit](https://img.shields.io/github/last-commit/LuxVim/nvim-luxterm)](https://github.com/LuxVim/nvim-luxterm) - A floating-window terminal session manager, offering elegant multi-terminal organization, live previews, and intuitive navigation with modern UI design. Manage, switch, and customize multiple terminals effortlessly.
 - [waiting-for-dev/ergoterm.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/waiting-for-dev/ergoterm.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/waiting-for-dev/ergoterm.nvim)](https://github.com/waiting-for-dev/ergoterm.nvim) - Seamless terminal workflow integration with smart picker-based terminal selection, flexible text sending and persistent configuration.
