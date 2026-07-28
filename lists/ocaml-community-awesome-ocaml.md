@@ -351,7 +351,7 @@ With the introduction of [Effect Handlers](https://ocaml.org/manual/effects.html
 ## Language-related
 
 - [Higher-Rank Polymorphism in OCaml](http://devmusings.legiasoft.com/blog/2008/05/23/higher-rank_polymorphism_in_ocaml)
-- [mikmatch ![GitHub Repo Stars](https://img.shields.io/github/stars/mjambon/mikmatch) ![GitHub last commit](https://img.shields.io/github/last-commit/mjambon/mikmatch)](https://github.com/mjambon/mikmatch) – OCaml pattern-matching extended with regexps
+- [mikmatch ![GitHub Repo Stars](https://img.shields.io/github/stars/mjambon/mikmatch) ![GitHub last commit](https://img.shields.io/github/last-commit/mjambon/mikmatch)](https://github.com/mjambon/mikmatch) �� OCaml pattern-matching extended with regexps
 - [Inlined records in constructors](https://www.lexifi.com/ocaml/inlined-records-constructors/)
 - [Algebraic Data Types](https://espertech.wordpress.com/2014/07/30/algebraic-data-types/)
 - [XEN – OCaml Best Practices for Developers](http://wiki.xen.org/wiki/OCaml_Best_Practices_for_Developers)

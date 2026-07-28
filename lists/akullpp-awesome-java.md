@@ -487,7 +487,7 @@ _Everything that simplifies interactions with the database._
 
 > **[Spring Data Dynamic Query ![GitHub Repo Stars](https://img.shields.io/github/stars/tdilber/spring-data-dynamic-query) ![GitHub last commit](https://img.shields.io/github/last-commit/tdilber/spring-data-dynamic-query)](https://github.com/tdilber/spring-data-dynamic-query)** <kbd>★ 40</kbd> <kbd>Apache-2.0</kbd> 🟠<br>Unified dynamic query interface for Spring Data JPA, MongoDB, and Elasticsearch, enabling advanced JOIN(s), OR logic, scoped conditions, powerful projections and advanced features with zero boilerplate.
 
-> **[Spring Data JPA MongoDB Expressions ![GitHub Repo Stars](https://img.shields.io/github/stars/mhewedy/spring-data-jpa-mongodb-expressions) ![GitHub last commit](https://img.shields.io/github/last-commit/mhewedy/spring-data-jpa-mongodb-expressions)](https://github.com/mhewedy/spring-data-jpa-mongodb-expressions)** <kbd>�� 104</kbd> <kbd>Apache-2.0</kbd> 🟠<br>Allows you to use MongoDB query language to query your relational database.
+> **[Spring Data JPA MongoDB Expressions ![GitHub Repo Stars](https://img.shields.io/github/stars/mhewedy/spring-data-jpa-mongodb-expressions) ![GitHub last commit](https://img.shields.io/github/last-commit/mhewedy/spring-data-jpa-mongodb-expressions)](https://github.com/mhewedy/spring-data-jpa-mongodb-expressions)** <kbd>★ 104</kbd> <kbd>Apache-2.0</kbd> 🟠<br>Allows you to use MongoDB query language to query your relational database.
 
 > **[Trino ![GitHub Repo Stars](https://img.shields.io/github/stars/trinodb/trino) ![GitHub last commit](https://img.shields.io/github/last-commit/trinodb/trino)](https://github.com/trinodb/trino)** <kbd>★ 13.1k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Distributed SQL query engine for big data.
 
@@ -1584,7 +1584,7 @@ _Frameworks that are suites of multiple libraries encompassing several categorie
 
 > **[Exec ![GitHub Repo Stars](https://img.shields.io/github/stars/apache/commons-exec) ![GitHub last commit](https://img.shields.io/github/last-commit/apache/commons-exec)](https://github.com/apache/commons-exec)** <kbd>★ 162</kbd> <kbd>Apache-2.0</kbd> 🟢<br>API for dealing with external process execution and environment management in Java.
 
-> **[FileUpload ![GitHub Repo Stars](https://img.shields.io/github/stars/apache/commons-fileupload) ![GitHub last commit](https://img.shields.io/github/last-commit/apache/commons-fileupload)](https://github.com/apache/commons-fileupload)** <kbd>★ 260</kbd> <kbd>Apache-2.0</kbd> 🟢<br>File upload capability for your servlets and web applications.
+> **[FileUpload ![GitHub Repo Stars](https://img.shields.io/github/stars/apache/commons-fileupload) ![GitHub last commit](https://img.shields.io/github/last-commit/apache/commons-fileupload)](https://github.com/apache/commons-fileupload)** <kbd>�� 260</kbd> <kbd>Apache-2.0</kbd> 🟢<br>File upload capability for your servlets and web applications.
 
 > **[Finder](https://commons.apache.org/sandbox/commons-finder/)**<br>Java library inspired by the UNIX find command.
 
