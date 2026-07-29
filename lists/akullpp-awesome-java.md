@@ -219,7 +219,7 @@ _Libraries to integrate or use cloud-specific features._
 
 > **[Kubernetes Java Client ![GitHub Repo Stars](https://img.shields.io/github/stars/kubernetes-client/java) ![GitHub last commit](https://img.shields.io/github/last-commit/kubernetes-client/java)](https://github.com/kubernetes-client/java)** <kbd>★ 4.0k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Official Java client for the Kubernetes API.
 
-> **[kubernetes-client ![GitHub Repo Stars](https://img.shields.io/github/stars/fabric8io/kubernetes-client) ![GitHub last commit](https://img.shields.io/github/last-commit/fabric8io/kubernetes-client)](https://github.com/fabric8io/kubernetes-client)** <kbd>★ 3.7k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Client provides access to the full Kubernetes & OpenShift REST APIs via a fluent DSL.
+> **[kubernetes-client ![GitHub Repo Stars](https://img.shields.io/github/stars/fabric8io/kubernetes-client) ![GitHub last commit](https://img.shields.io/github/last-commit/fabric8io/kubernetes-client)](https://github.com/fabric8io/kubernetes-client)** <kbd>�� 3.7k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Client provides access to the full Kubernetes & OpenShift REST APIs via a fluent DSL.
 
 > **[minio-java ![GitHub Repo Stars](https://img.shields.io/github/stars/minio/minio-java) ![GitHub last commit](https://img.shields.io/github/last-commit/minio/minio-java)](https://github.com/minio/minio-java)** <kbd>★ 1.3k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Provides simple APIs to access any Amazon S3-compatible object storage server.
 
@@ -1797,7 +1797,7 @@ _Engines that index documents for search and analysis._
 
 > **[Apache Lucene ![GitHub Repo Stars](https://img.shields.io/github/stars/apache/lucene) ![GitHub last commit](https://img.shields.io/github/last-commit/apache/lucene)](https://github.com/apache/lucene)** <kbd>★ 3.5k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>High-performance, full-featured, cross-platform, text search engine library.
 
-> **[Apache Solr ![GitHub Repo Stars](https://img.shields.io/github/stars/apache/solr) ![GitHub last commit](https://img.shields.io/github/last-commit/apache/solr)](https://github.com/apache/solr)** <kbd>★ 1.6k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Enterprise search engine optimized for high-volume traffic.
+> **[Apache Solr ![GitHub Repo Stars](https://img.shields.io/github/stars/apache/solr) ![GitHub last commit](https://img.shields.io/github/last-commit/apache/solr)](https://github.com/apache/solr)** <kbd>★ 1.6k</kbd> <kbd>Apache-2.0</kbd> ���<br>Enterprise search engine optimized for high-volume traffic.
 
 > **[Elasticsearch ![GitHub Repo Stars](https://img.shields.io/github/stars/elastic/elasticsearch) ![GitHub last commit](https://img.shields.io/github/last-commit/elastic/elasticsearch)](https://github.com/elastic/elasticsearch)** <kbd>★ 77.6k</kbd> 🟢<br>Distributed, multitenant-capable, full-text search engine with a RESTful web interface and schema-free JSON documents.
 
