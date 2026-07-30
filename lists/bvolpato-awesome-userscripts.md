@@ -751,7 +751,7 @@ Userscripts can be used w/ the following browsers:
             <img width=300 src="https://cdn.jsdelivr.net/gh/adamlui/chatgpt-auto-talk@4ff7545/assets/images/screenshots/auto-talk-on-notif.png"></a>
     </blockquote>
     <blockquote>
-        💾 <a href="https://github.com/adamlui/ai-web-extensions/tree/main/chatgpt-auto-talk/#-installation">
+        ��� <a href="https://github.com/adamlui/ai-web-extensions/tree/main/chatgpt-auto-talk/#-installation">
             Install</a> /
         📖 <a href="https://github.com/adamlui/chatgpt-auto-talk/#readme">
             Readme</a> /
