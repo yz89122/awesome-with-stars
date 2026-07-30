@@ -376,7 +376,7 @@ _Language specific game engine development libraries / frameworks / code._
 - 📚 [Awesome C++ ![GitHub Repo Stars](https://img.shields.io/github/stars/fffaraz/awesome-cpp) ![GitHub last commit](https://img.shields.io/github/last-commit/fffaraz/awesome-cpp)](https://github.com/fffaraz/awesome-cpp) - List of awesome C++ frameworks, libraries, and resources.
 - 📚 [Awesome C++ Game Dev ![GitHub Repo Stars](https://img.shields.io/github/stars/Caerind/AwesomeCppGameDev) ![GitHub last commit](https://img.shields.io/github/last-commit/Caerind/AwesomeCppGameDev)](https://github.com/Caerind/AwesomeCppGameDev) - List of awesome C++ things for Game Development.
 - 📚 [Awesome Hpp ![GitHub Repo Stars](https://img.shields.io/github/stars/p-ranav/awesome-hpp) ![GitHub last commit](https://img.shields.io/github/last-commit/p-ranav/awesome-hpp)](https://github.com/p-ranav/awesome-hpp) - List of awesome header-only C++ libraries.
-- 🌎 [C++ Papyrus](https://caiorss.github.io/C-Cpp-Notes/index.html) - Basic to advanced topics with modern C++ examples.
+- ���� [C++ Papyrus](https://caiorss.github.io/C-Cpp-Notes/index.html) - Basic to advanced topics with modern C++ examples.
 - 🌎 [cppreference.com](https://en.cppreference.com/w/cpp) - Online reference for C, C++, and the STL.
 - 📚 [Learn C++](https://www.learncpp.com) 🔥 - Walks you through all the steps to write, compile, and debug C++.
 - 📚 [Modern Cpp Features ![GitHub Repo Stars](https://img.shields.io/github/stars/AnthonyCalandra/modern-cpp-features) ![GitHub last commit](https://img.shields.io/github/last-commit/AnthonyCalandra/modern-cpp-features)](https://github.com/AnthonyCalandra/modern-cpp-features) - Cheatsheet of modern C++ language and library features.
@@ -999,7 +999,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Litegraph.js ![GitHub Repo Stars](https://img.shields.io/github/stars/jagenjo/litegraph.js) ![GitHub last commit](https://img.shields.io/github/last-commit/jagenjo/litegraph.js)](https://github.com/jagenjo/litegraph.js) - Create graphs in the browser similar to _Unreal Blueprints_. [[Demo](https://tamats.com/projects/litegraph/editor/)]
     - 🎉 [Node-RED ![GitHub Repo Stars](https://img.shields.io/github/stars/node-red/node-red) ![GitHub last commit](https://img.shields.io/github/last-commit/node-red/node-red)](https://github.com/node-red/node-red) - Low-code programming for event-driven applications.
     - 🎉 [Nodl ![GitHub Repo Stars](https://img.shields.io/github/stars/emilwidlund/nodl) ![GitHub last commit](https://img.shields.io/github/last-commit/emilwidlund/nodl)](https://github.com/emilwidlund/nodl) - Framework for computational node graphs.
-    - 🎉 [Rete.js ![GitHub Repo Stars](https://img.shields.io/github/stars/retejs/rete) ![GitHub last commit](https://img.shields.io/github/last-commit/retejs/rete)](https://github.com/retejs/rete) - Framework for visual programming and node editors. [[Demo](https://rete.js.org/#/examples/basic)]
+    - ��� [Rete.js ![GitHub Repo Stars](https://img.shields.io/github/stars/retejs/rete) ![GitHub last commit](https://img.shields.io/github/last-commit/retejs/rete)](https://github.com/retejs/rete) - Framework for visual programming and node editors. [[Demo](https://rete.js.org/#/examples/basic)]
 
 ### Kotlin
 - 📚 [Awesome Kotlin ![GitHub Repo Stars](https://img.shields.io/github/stars/KotlinBy/awesome-kotlin) ![GitHub last commit](https://img.shields.io/github/last-commit/KotlinBy/awesome-kotlin)](https://github.com/KotlinBy/awesome-kotlin) - List of awesome Kotlin related stuff.
