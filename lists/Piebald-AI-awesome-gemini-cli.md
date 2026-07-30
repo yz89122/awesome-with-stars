@@ -225,7 +225,7 @@ Services that expose Gemini CLI functionality through standard API protocols.
 
 ## Education & Study Tools
 
-- [Shiori ![GitHub Repo Stars](https://img.shields.io/github/stars/kaorii-ako/Shiori-v1) ![GitHub last commit](https://img.shields.io/github/last-commit/kaorii-ako/Shiori-v1)](https://github.com/kaorii-ako/Shiori-v1) — Open-source AI study companion powered by Gemini AI. Assignments tracker, SRS flashcards, GPA predictor, AI quiz generator, Pomodoro focus timer, and Claude Code MCP server. [Live demo](https://shiori-v1.vercel.app).
+- [Shiori ![GitHub Repo Stars](https://img.shields.io/github/stars/kaorii-ako/Shiori-v1) ![GitHub last commit](https://img.shields.io/github/last-commit/kaorii-ako/Shiori-v1)](https://github.com/kaorii-ako/Shiori-v1) ��� Open-source AI study companion powered by Gemini AI. Assignments tracker, SRS flashcards, GPA predictor, AI quiz generator, Pomodoro focus timer, and Claude Code MCP server. [Live demo](https://shiori-v1.vercel.app).
 
 
 ## MCP Servers
