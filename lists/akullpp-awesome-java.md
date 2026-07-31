@@ -2005,7 +2005,7 @@ _Provide environments to run tests for a specific use case._
 
 > **[jqwik ![GitHub Repo Stars](https://img.shields.io/github/stars/jqwik-team/jqwik) ![GitHub last commit](https://img.shields.io/github/last-commit/jqwik-team/jqwik)](https://github.com/jqwik-team/jqwik)** <kbd>★ 837</kbd> <kbd>EPL-2.0</kbd> 🟢<br>Engine for property-based testing built on JUnit 5.
 
-> **[JUnit ![GitHub Repo Stars](https://img.shields.io/github/stars/junit-team/junit-framework) ![GitHub last commit](https://img.shields.io/github/last-commit/junit-team/junit-framework)](https://github.com/junit-team/junit-framework)** <kbd>★ 7.1k</kbd> <kbd>EPL-2.0</kbd> 🟢<br>Common testing framework.
+> **[JUnit ![GitHub Repo Stars](https://img.shields.io/github/stars/junit-team/junit-framework) ![GitHub last commit](https://img.shields.io/github/last-commit/junit-team/junit-framework)](https://github.com/junit-team/junit-framework)** <kbd>★ 7.1k</kbd> <kbd>EPL-2.0</kbd> ��<br>Common testing framework.
 
 > **[PIT ![GitHub Repo Stars](https://img.shields.io/github/stars/hcoles/pitest) ![GitHub last commit](https://img.shields.io/github/last-commit/hcoles/pitest)](https://github.com/hcoles/pitest)** <kbd>★ 1.8k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Fast mutation-testing framework for evaluating fault-detection abilities of existing JUnit or TestNG test suites.
 
