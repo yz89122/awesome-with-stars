@@ -172,7 +172,7 @@ Translations: [🇬🇧 en](readme.md) · [🇰🇷 ko](readme-ko.md) · [🇷�
 
 ## Other
 
-- ���� [FireCMS](https://firecms.co/docs/) - FireCMS is an open source headless CMS and admin panel built by developers for developers. It generates CRUD views based on your configuration.
+- 🔧 [FireCMS](https://firecms.co/docs/) - FireCMS is an open source headless CMS and admin panel built by developers for developers. It generates CRUD views based on your configuration.
 - 🔧 [Flank ![GitHub Repo Stars](https://img.shields.io/github/stars/flank/flank) ![GitHub last commit](https://img.shields.io/github/last-commit/flank/flank)](https://github.com/flank/flank/) - Massively parallel Android and iOS test runner for Firebase Test Lab.
 - 🔌 [Firestore Query Browser](https://firestore-query-browser.firebaseapp.com) - WebApp to Query, (Batch-)Edit & Export documents with app & user switching.
 - 🔌 [FireDrill ![GitHub Repo Stars](https://img.shields.io/github/stars/scottlepp/fire-drill) ![GitHub last commit](https://img.shields.io/github/last-commit/scottlepp/fire-drill)](https://github.com/scottlepp/fire-drill) - Find, Edit, Add, Remove, Import, Export, and Report on your Firebase data.
