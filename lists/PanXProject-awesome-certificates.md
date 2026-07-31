@@ -266,7 +266,7 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 | <a href="https://www.testdome.com/tests/customer-service-test/91" target="_blank" rel="noopener noreferrer">Customer Service Test</a>| Test Dome | Intermediate | 0.15 | 🏆  |
 | <a href="https://www.life-global.org/course/390-customer-experience-(cx)-for-business-success" target="_blank" rel="noopener noreferrer">Customer Experience (CX) for Business Success</a>| HP / Life Global | Beginner | 0.5 | 🏆 |
 
-<a href="https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents" target="_blank" rel="noopener noreferrer">⬆️</a>
+<a href="https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents" target="_blank" rel="noopener noreferrer">��️</a>
 
 ## Chatbots
 
@@ -363,7 +363,7 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 
 | Course Name | Course Provider | Level | Hour(s) | Reward |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
-| <a href="https://www.mindluster.com/certificate/1568/Adobe-Photoshop" target="_blank" rel="noopener noreferrer">Adobe Photoshop</a> | Mind Luster |Beginner| 1.4 | 🏆 |
+| <a href="https://www.mindluster.com/certificate/1568/Adobe-Photoshop" target="_blank" rel="noopener noreferrer">Adobe Photoshop</a> | Mind Luster |Beginner| 1.4 | ��� |
 | <a href="https://tutorials.nmdprojects.net/play.html?photoshop_erase_shape" target="_blank" rel="noopener noreferrer">How to Erase a shape in Photoshop</a> | UMaine New Media | intermediate| 0.13 | 🏅 |
 | <a href="https://tutorials.nmdprojects.net/play.html?photoshop_select_shape" target="_blank" rel="noopener noreferrer">How to Select a shape in Photoshop</a> | UMaine New Media | intermediate| 0.1 | 🏅 |
 | <a href="https://tutorials.nmdprojects.net/play.html?photoshop_insert_shape" target="_blank" rel="noopener noreferrer">How to Insert a shape in Photoshop</a> | UMaine New Media | intermediate| 0.1 | 🏅 |
@@ -555,7 +555,7 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 | <a href="https://www.netacad.com/courses/cybersecurity/cybersecurity-essentials" target="_blank" rel="noopener noreferrer">Cybersecurity Essentials</a>| Cisco Networking Academy | Intermediate | 30 | <a href="https://www.youracclaim.com/org/cisco/badge/cybersecurity-essentials" target="_blank" rel="noopener noreferrer">🏅</a>|
 | <a href="https://www.netacad.com/courses/ethical-hacker" target="_blank" rel="noopener noreferrer">Ethical Hacker</a>| Cisco Networking Academy | Intermediate | 70 | <a href="https://www.netacad.com/courses/ethical-hacker" target="_blank" rel="noopener noreferrer">🏆</a>|
 | <a href="https://www.netacad.com/courses/packet-tracer" target="_blank" rel="noopener noreferrer">Intro to Packet Tracer</a> | Cisco Networking Academy | Beginner | 10  | <a href="https://www.youracclaim.com/org/cisco/badge/introduction-to-packet-tracer" target="_blank" rel="noopener noreferrer">🏅</a> |
-| <a href="https://skills.yourlearning.ibm.com/activity/ILB-DNRPWDGQGMMY7GGD" target="_blank" rel="noopener noreferrer">Cybersecurity Fundamentals</a> | IBM / SkillsBuild | Beginner | 10 | <a href="https://www.youracclaim.com/org/ibm/badge/cybersecurity-fundamentals" target="_blank" rel="noopener noreferrer">���</a> |
+| <a href="https://skills.yourlearning.ibm.com/activity/ILB-DNRPWDGQGMMY7GGD" target="_blank" rel="noopener noreferrer">Cybersecurity Fundamentals</a> | IBM / SkillsBuild | Beginner | 10 | <a href="https://www.youracclaim.com/org/ibm/badge/cybersecurity-fundamentals" target="_blank" rel="noopener noreferrer">🏅</a> |
 | <a href="https://www.freecodecamp.org/learn/information-security/" target="_blank" rel="noopener noreferrer">Information Security Certification</a> | FreeCodeCamp |Professional|300 | 🏆|
 | <a href="https://www.isc2.org/certifications/cc" target="_blank" rel="noopener noreferrer">Certified in Cybersecurity</a> | ISC2 | Beginner | 14 | <a href="https://www.credly.com/org/isc2/badge/certified-in-cybersecurity-cc" target="_blank" rel="noopener noreferrer">🏅</a> |
 | <a href="https://training.fortinet.com/local/staticpage/view.php?page=fcf_cybersecurity" target="_blank" rel="noopener noreferrer">Fortinet Certified Fundamentals in Cybersecurity</a> | Fortinet Training Institute | Beginner | 10 | <a href="https://www.credly.com/org/fortinet/badge/fortinet-certified-fundamentals-cybersecurity" target="_blank" rel="noopener noreferrer">🏆</a> |
