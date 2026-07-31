@@ -435,6 +435,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [diff2html ![GitHub Repo Stars](https://img.shields.io/github/stars/rtfpessoa/diff2html) ![GitHub last commit](https://img.shields.io/github/last-commit/rtfpessoa/diff2html)](https://github.com/rtfpessoa/diff2html) - Git diff output parser and pretty HTML generator.
 * [jsPDF ![GitHub Repo Stars](https://img.shields.io/github/stars/MrRio/jsPDF) ![GitHub last commit](https://img.shields.io/github/last-commit/MrRio/jsPDF)](https://github.com/MrRio/jsPDF) - JavaScript PDF generation.
 * [PDF.js ![GitHub Repo Stars](https://img.shields.io/github/stars/mozilla/pdf.js) ![GitHub last commit](https://img.shields.io/github/last-commit/mozilla/pdf.js)](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript.
+* [File Viewer ![GitHub Repo Stars](https://img.shields.io/github/stars/flyfish-dev/file-viewer) ![GitHub last commit](https://img.shields.io/github/last-commit/flyfish-dev/file-viewer)](https://github.com/flyfish-dev/file-viewer) - Browser-native components for previewing files without server-side conversion.
 
 ## Functional Programming
 *Functional programming libraries to extend JavaScript’s capabilities.*
