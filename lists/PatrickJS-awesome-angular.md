@@ -1537,6 +1537,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [qalma ![GitHub Repo Stars](https://img.shields.io/github/stars/cdskill/qalma) ![GitHub last commit](https://img.shields.io/github/last-commit/cdskill/qalma)](https://github.com/cdskill/qalma) - Angular-first, headless rich text editor toolkit built on ProseMirror.
 * [ngx-mermaid-canvas ![GitHub Repo Stars](https://img.shields.io/github/stars/Nigelli/ngx-mermaid-canvas) ![GitHub last commit](https://img.shields.io/github/last-commit/Nigelli/ngx-mermaid-canvas)](https://github.com/Nigelli/ngx-mermaid-canvas) - A visual flowchart editor for Angular that outputs Mermaid syntax.
 * [@bloklabs/angular ![GitHub Repo Stars](https://img.shields.io/github/stars/JackUait/blok) ![GitHub last commit](https://img.shields.io/github/last-commit/JackUait/blok)](https://github.com/JackUait/blok) - Angular adapter for [Blok](https://blokeditor.com), a headless block-based rich text editor that outputs JSON instead of HTML.
+* [angular-tiptap-editor ![GitHub Repo Stars](https://img.shields.io/github/stars/FloGeez/angular-tiptap-editor) ![GitHub last commit](https://img.shields.io/github/last-commit/FloGeez/angular-tiptap-editor)](https://github.com/FloGeez/angular-tiptap-editor) - A modern, customizable Angular rich-text editor, built with Tiptap.
 
 ### File Upload
 
@@ -1858,6 +1859,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-streaming-player ![GitHub Repo Stars](https://img.shields.io/github/stars/jhonsferg/ngx-streaming-player) ![GitHub last commit](https://img.shields.io/github/last-commit/jhonsferg/ngx-streaming-player)](https://github.com/jhonsferg/ngx-streaming-player) - A unified, plug-and-play video player component that handles HLS, DASH, MP4, and YouTube through a single API.
 * [ngx-pro-media-player ![GitHub Repo Stars](https://img.shields.io/github/stars/kamal-dev1/ngx-pro-media-player) ![GitHub last commit](https://img.shields.io/github/last-commit/kamal-dev1/ngx-pro-media-player)](https://github.com/kamal-dev1/ngx-pro-media-player) - Angular media player with audio, video, queue, crossfade, lyrics, and RTL support.
 * [MediaSFU-Angular ![GitHub Repo Stars](https://img.shields.io/github/stars/MediaSFU/MediaSFU-Angular) ![GitHub last commit](https://img.shields.io/github/last-commit/MediaSFU/MediaSFU-Angular)](https://github.com/MediaSFU/MediaSFU-Angular) - Angular SDK for WebRTC video conferencing, webinars, livestreams, chat, screen sharing, recording, breakout rooms, whiteboards, polls, live subtitles, and translation.
+* [ngx-sync-videos ![GitHub Repo Stars](https://img.shields.io/github/stars/goodbaguette/ngx-sync-videos) ![GitHub last commit](https://img.shields.io/github/last-commit/goodbaguette/ngx-sync-videos)](https://github.com/goodbaguette/ngx-sync-videos) - An Angular directive to simultaneously play, synchronize, and offset multiple videos.
 
 ### Mixed Utilities
 
@@ -2220,6 +2222,7 @@ for the creation of web applications developed with Angular.
 * [BuilderKit](https://builderkit.dev/) - A complete UI toolkit and modern design system built on Angular Material, with blocks, templates, and a solid foundation for building Angular applications.
 * [angular-material-extended ![GitHub Repo Stars](https://img.shields.io/github/stars/reisi007/angular-material-extended) ![GitHub last commit](https://img.shields.io/github/last-commit/reisi007/angular-material-extended)](https://github.com/reisi007/angular-material-extended) - Community extensions for Angular Material (Standalone, Signals, Zoneless, SSR, M3 Theming).
 * [mat-exp ![GitHub Repo Stars](https://img.shields.io/github/stars/Angular-Material-Dev/mat-exp) ![GitHub last commit](https://img.shields.io/github/last-commit/Angular-Material-Dev/mat-exp)](https://github.com/Angular-Material-Dev/mat-exp) - A library of components and styles for Angular Material, built on the latest Material Design 3 Expressive Design System.
+* [angular-material-components ![GitHub Repo Stars](https://img.shields.io/github/stars/fbf-prog64/angular-material-components) ![GitHub last commit](https://img.shields.io/github/last-commit/fbf-prog64/angular-material-components)](https://github.com/fbf-prog64/angular-material-components) - Provides extra components for Angular Material projects: Datetime picker, Time picker, Color picker, etc.
 
 ### UI Libraries built on Tailwind CSS
 
