@@ -176,7 +176,7 @@ Inspired by the [awesome ![GitHub Repo Stars](https://img.shields.io/github/star
  - [Useful Appium Series] (http://bitbar.com/tag/appium/) - Appium Tip Series
  - [Inspect iOS app's with Appium 1.6] (https://medium.com/@chenchaoyi/the-options-of-inspecting-ios-10-app-with-appium-1-6-534ba166b958#.ezq1q0iuo) - The options of inspecting iOS 10 app with Appium 1.6
  - [GraphWalker](http://graphwalker.github.io/appium-example/) - GraphWalker is a open source Model-based testing tool for test automation. It's designed to make it easy to design your tests using graphs
- - [Appium + Mobile Game Testing](http://bitbar.com/mobile-game-testing-part-2-ui-and-functionality-image-recognition/) - MOBILE GAME TESTING �� PART #2: UI AND FUNCTIONALITY + IMAGE RECOGNITION
+ - [Appium + Mobile Game Testing](http://bitbar.com/mobile-game-testing-part-2-ui-and-functionality-image-recognition/) - MOBILE GAME TESTING – PART #2: UI AND FUNCTIONALITY + IMAGE RECOGNITION
  - [WinAppDriver](http://www.hanselman.com/blog/WinAppDriverTestAnyAppWithAppiumsSeleniumlikeTestsOnWindows.aspx) - WinAppDriver - Test any app with Appium's Selenium-like tests on Windows
  - [IMAGE RECOGNITION WITH APPIUM](http://bitbar.com/appium-tip-27-using-appium-for-mobile-game-testing/) - USING APPIUM FOR MOBILE GAME TESTING
  - [Uncover invisible changes in automated tests](https://sourcediving.com/how-to-uncover-invisible-changes-in-automated-tests-b6a5dbff564e) - By KazuCocoa
