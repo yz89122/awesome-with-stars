@@ -226,7 +226,7 @@ _Info on topics necessary for designing and developing game engines._
 - Commercial Studios Research Divisions
     - 🌎 [Activision Research](https://research.activision.com/) - Blog posts, articles and presentations from research within _Activision_.
     - 🌎 [EA Technology](https://www.ea.com/technology/research) - Research on game tech including info on the _Frostbite_ engine.
-    - 🌎 [tri-Ace Research](https://research.tri-ace.com/) - Publications from the Research and Development Department at _tri-Ace Inc_.
+    - �� [tri-Ace Research](https://research.tri-ace.com/) - Publications from the Research and Development Department at _tri-Ace Inc_.
     - 🌎 [Ubisoft Technology](https://www.ubisoft.com/en-us/company/how-we-make-games/technology) - Learn about in-house tech including the _Anvil_ and _Snowdrop_ engines.
 - Education Portals
     - 📚 [3D Game Engine Programming](https://www.3dgep.com) - Articles on graphics, physics, AI, I/O and more.
@@ -545,7 +545,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [GameNetworkingSockets ![GitHub Repo Stars](https://img.shields.io/github/stars/ValveSoftware/GameNetworkingSockets) ![GitHub last commit](https://img.shields.io/github/last-commit/ValveSoftware/GameNetworkingSockets)](https://github.com/ValveSoftware/GameNetworkingSockets) - Messages over UDP, P2P networking, encryption.
     - 🎉 [yojimbo ![GitHub Repo Stars](https://img.shields.io/github/stars/mas-bandwidth/yojimbo) ![GitHub last commit](https://img.shields.io/github/last-commit/mas-bandwidth/yojimbo)](https://github.com/mas-bandwidth/yojimbo) - Network library for client/server games.
 - C++: Physics
-    - ��� [Box2D ![GitHub Repo Stars](https://img.shields.io/github/stars/erincatto/box2d) ![GitHub last commit](https://img.shields.io/github/last-commit/erincatto/box2d)](https://github.com/erincatto/box2d) - Battle tested 2D physics for games. [[Docs](https://box2d.org/documentation/) | [Fixed Time-Step](https://www.unagames.com/blog/daniele/2010/06/fixed-time-step-implementation-box2d) | [Tutorials](http://www.iforce2d.net/b2dtut/introduction)]
+    - 🎉 [Box2D ![GitHub Repo Stars](https://img.shields.io/github/stars/erincatto/box2d) ![GitHub last commit](https://img.shields.io/github/last-commit/erincatto/box2d)](https://github.com/erincatto/box2d) - Battle tested 2D physics for games. [[Docs](https://box2d.org/documentation/) | [Fixed Time-Step](https://www.unagames.com/blog/daniele/2010/06/fixed-time-step-implementation-box2d) | [Tutorials](http://www.iforce2d.net/b2dtut/introduction)]
     - 🎉 [Box3D ![GitHub Repo Stars](https://img.shields.io/github/stars/erincatto/box3d) ![GitHub last commit](https://img.shields.io/github/last-commit/erincatto/box3d)](https://github.com/erincatto/box3d) - 3D physics engine for games by the maker of _Box2D_.
     - 🎉 [Bullet Physics ![GitHub Repo Stars](https://img.shields.io/github/stars/bulletphysics/bullet3) ![GitHub last commit](https://img.shields.io/github/last-commit/bulletphysics/bullet3)](https://github.com/bulletphysics/bullet3) - Popular 3D physics libary.
     - 🎉 [Chrono ![GitHub Repo Stars](https://img.shields.io/github/stars/projectchrono/chrono) ![GitHub last commit](https://img.shields.io/github/last-commit/projectchrono/chrono)](https://github.com/projectchrono/chrono) - High-performance multiphysics and multibody dynamics simulations. [[Gallery](https://projectchrono.org/gallery/)]
