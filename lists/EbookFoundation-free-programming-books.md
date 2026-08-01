@@ -110,7 +110,7 @@ This project lists books and other resources grouped by genres:
 + [Portuguese (Brazil)](books/free-programming-books-pt_BR.md)
 + [Portuguese (Portugal)](books/free-programming-books-pt_PT.md)
 + [Romanian (Romania) / limba română / român](books/free-programming-books-ro.md)
-+ [Russian / Русский язык](books/free-programming-books-ru.md)
++ [Russian / Рус��кий язык](books/free-programming-books-ru.md)
 + [Serbian / српски језик / srpski jezik](books/free-programming-books-sr.md)
 + [Slovak / slovenčina](books/free-programming-books-sk.md)
 + [Slovenian / Slovenščina](books/free-programming-books-sl.md)
@@ -137,7 +137,7 @@ This project lists books and other resources grouped by genres:
 + [Chinese / 中文](courses/free-courses-zh.md)
 + [English](courses/free-courses-en.md)
 + [Finnish / suomi / suomen kieli](courses/free-courses-fi.md)
-+ [French / français](courses/free-courses-fr.md)
++ [French / fran��ais](courses/free-courses-fr.md)
 + [German / Deutsch](courses/free-courses-de.md)
 + [Greek / ελληνικά](courses/free-courses-el.md)
 + [Hebrew / עברית](courses/free-courses-he.md)
@@ -160,7 +160,7 @@ This project lists books and other resources grouped by genres:
 + [Punjabi / ਪੰਜਾਬੀ / پنجابی](courses/free-courses-pa.md)
 + [Romanian (Romania) / limba română / român](courses/free-courses-ro.md)
 + [Russian / Русский язык](courses/free-courses-ru.md)
-+ [Sinhala / සිංහල](courses/free-courses-si.md)
++ [Sinhala / සි���හල](courses/free-courses-si.md)
 + [Spanish / español / castellano](courses/free-courses-es.md)
 + [Swedish / svenska](courses/free-courses-sv.md)
 + [Tamil / தமிழ்](courses/free-courses-ta.md)
@@ -217,7 +217,7 @@ Free Podcasts and Screencasts:
 
 Write, compile, and run your code within a browser. Try it out!
 
-+ [Chinese / 中��](more/free-programming-playgrounds-zh.md)
++ [Chinese / 中文](more/free-programming-playgrounds-zh.md)
 + [English](more/free-programming-playgrounds.md)
 + [German / Deutsch](more/free-programming-playgrounds-de.md)
 
