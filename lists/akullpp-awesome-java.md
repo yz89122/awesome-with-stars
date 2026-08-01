@@ -215,7 +215,7 @@ _Libraries to integrate or use cloud-specific features._
 
 > **[Google Cloud Client Libraries ![GitHub Repo Stars](https://img.shields.io/github/stars/googleapis/google-cloud-java) ![GitHub last commit](https://img.shields.io/github/last-commit/googleapis/google-cloud-java)](https://github.com/googleapis/google-cloud-java)** <kbd>★ 2.1k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Client libraries for accessing Google Cloud services from Java applications.
 
-> **[Java Operator SDK ![GitHub Repo Stars](https://img.shields.io/github/stars/operator-framework/java-operator-sdk) ![GitHub last commit](https://img.shields.io/github/last-commit/operator-framework/java-operator-sdk)](https://github.com/operator-framework/java-operator-sdk)** <kbd>★ 935</kbd> <kbd>Apache-2.0</kbd> 🟢<br>SDK for implementing Kubernetes operators in Java.
+> **[Java Operator SDK ![GitHub Repo Stars](https://img.shields.io/github/stars/operator-framework/java-operator-sdk) ![GitHub last commit](https://img.shields.io/github/last-commit/operator-framework/java-operator-sdk)](https://github.com/operator-framework/java-operator-sdk)** <kbd>★ 935</kbd> <kbd>Apache-2.0</kbd> ��<br>SDK for implementing Kubernetes operators in Java.
 
 > **[Kubernetes Java Client ![GitHub Repo Stars](https://img.shields.io/github/stars/kubernetes-client/java) ![GitHub last commit](https://img.shields.io/github/last-commit/kubernetes-client/java)](https://github.com/kubernetes-client/java)** <kbd>★ 4.0k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Official Java client for the Kubernetes API.
 
@@ -475,7 +475,7 @@ _Everything that simplifies interactions with the database._
 
 > **[Apache Doris ![GitHub Repo Stars](https://img.shields.io/github/stars/apache/doris) ![GitHub last commit](https://img.shields.io/github/last-commit/apache/doris)](https://github.com/apache/doris)** <kbd>★ 15.7k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Distributed SQL database for real-time analytics.
 
-> **[Apache Drill ![GitHub Repo Stars](https://img.shields.io/github/stars/apache/drill) ![GitHub last commit](https://img.shields.io/github/last-commit/apache/drill)](https://github.com/apache/drill)** <kbd>��� 2.0k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Distributed, schema on-the-fly, ANSI SQL query engine for Big Data exploration.
+> **[Apache Drill ![GitHub Repo Stars](https://img.shields.io/github/stars/apache/drill) ![GitHub last commit](https://img.shields.io/github/last-commit/apache/drill)](https://github.com/apache/drill)** <kbd>★ 2.0k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Distributed, schema on-the-fly, ANSI SQL query engine for Big Data exploration.
 
 > **[Apache Phoenix ![GitHub Repo Stars](https://img.shields.io/github/stars/apache/phoenix) ![GitHub last commit](https://img.shields.io/github/last-commit/apache/phoenix)](https://github.com/apache/phoenix)** <kbd>★ 1.1k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>High-performance relational database layer over HBase for low-latency applications.
 
