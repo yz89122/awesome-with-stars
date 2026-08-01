@@ -243,7 +243,7 @@ Browse and search the resources via the [GitHub Pages UI](https://inoue0426.gith
 - [PharmGKB](https://www.pharmgkb.org/) — Curated pharmacogenomics dataset linking genetic variants to drug response phenotypes across thousands of drugs.
 - [PK-DB](https://pk-db.com/) — Open database of experimental pharmacokinetics (PK) and ADME data from clinical and preclinical studies.
 - [PRISM](https://depmap.org/portal/prism/) — Cancer drug sensitivity profiling of >4,500 drugs across >900 cancer cell lines using pooled-cell-line barcoding.
-- [ProteinGym ![GitHub Repo Stars](https://img.shields.io/github/stars/OATML-Markslab/ProteinGym) ![GitHub last commit](https://img.shields.io/github/last-commit/OATML-Markslab/ProteinGym)](https://github.com/OATML-Markslab/ProteinGym) �� Large-scale benchmark of deep mutational scanning assays for evaluating protein fitness landscape models.
+- [ProteinGym ![GitHub Repo Stars](https://img.shields.io/github/stars/OATML-Markslab/ProteinGym) ![GitHub last commit](https://img.shields.io/github/last-commit/OATML-Markslab/ProteinGym)](https://github.com/OATML-Markslab/ProteinGym) — Large-scale benchmark of deep mutational scanning assays for evaluating protein fitness landscape models.
 - [QM9](https://figshare.com/collections/Quantum_chemistry_structures_and_properties_of_134_kilo_molecules/978904) — Quantum chemistry properties for 134K stable small organic molecules computed at DFT level.
 - [scIB (Single-cell Integration Benchmarks) ![GitHub Repo Stars](https://img.shields.io/github/stars/theislab/scib) ![GitHub last commit](https://img.shields.io/github/last-commit/theislab/scib)](https://github.com/theislab/scib) — Comprehensive benchmarking framework for single-cell data integration methods.
 - [scPerturb ![GitHub Repo Stars](https://img.shields.io/github/stars/sanderlab/scPerturb) ![GitHub last commit](https://img.shields.io/github/last-commit/sanderlab/scPerturb)](https://github.com/sanderlab/scPerturb) — Curated and continuously updated single-cell perturbation data resource spanning CRISPR and drug perturbation studies.
@@ -288,7 +288,7 @@ Browse and search the resources via the [GitHub Pages UI](https://inoue0426.gith
 - [Squidpy](https://squidpy.readthedocs.io/) — Python library for spatial single-cell analysis.
 - [GROMACS](https://www.gromacs.org/) — Molecular dynamics simulation package for biochemical molecules.
 - [MDAnalysis](https://www.mdanalysis.org/) — Python library for analyzing and altering molecular dynamics simulation trajectories.
-- [OpenMM](https://openmm.org/) ��� High-performance toolkit for molecular simulation and GPU-accelerated MD.
+- [OpenMM](https://openmm.org/) — High-performance toolkit for molecular simulation and GPU-accelerated MD.
 - [scVelo ![GitHub Repo Stars](https://img.shields.io/github/stars/theislab/scvelo) ![GitHub last commit](https://img.shields.io/github/last-commit/theislab/scvelo)](https://github.com/theislab/scvelo) — RNA velocity estimation for single-cell transcriptomics, inferring the direction and speed of cell differentiation.
 - [STAR ![GitHub Repo Stars](https://img.shields.io/github/stars/alexdobin/STAR) ![GitHub last commit](https://img.shields.io/github/last-commit/alexdobin/STAR)](https://github.com/alexdobin/STAR) — Ultrafast universal RNA-seq aligner with support for spliced alignment and single-cell quantification via STARsolo.
 - [kallisto](https://pachterlab.github.io/kallisto/) — Near-optimal RNA-seq quantification using pseudoalignment for fast transcript abundance estimation.
