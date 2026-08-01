@@ -490,7 +490,7 @@ Userscripts can be used w/ the following browsers:
 
 ## Scripts
 
-> [!TIP]  
+> [!TIP]
 > To show screenshots/links, click the ▸ or userscript descriptions.
 
 ### <picture><source type="image/png" media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@f11c95f/assets/images/icons/symbols/cancel/white/icon32.png"><img height=14 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@f11c95f/assets/images/icons/symbols/cancel/black/icon32.png"></picture> Ad blocking
@@ -542,7 +542,7 @@ Userscripts can be used w/ the following browsers:
             <img width=511 src="https://cdn.jsdelivr.net/gh/adamlui/userscripts@a1eefef/block-quora-poe/assets/images/screenshots/demo.png"></a>
     </blockquote>
     <blockquote>
-        💾 <a href="https://raw.githubusercontent.com/adamlui/userscripts/master/block-quora-poe/block-quora-poe.user.js">
+        💾 <a href="https://scriptcat.org/scripts/code/6906/block-quora-poe.user.js">
             Install</a> /
         📖 <a href="https://github.com/adamlui/userscripts/blob/master/block-quora-poe/#readme">
             Readme</a> /
@@ -590,15 +590,15 @@ Userscripts can be used w/ the following browsers:
 </details>
 
 <details> <!-- YouTube Classic -->
-    <summary><a href="https://www.ytclassic.com">YouTube Classic</a> - Reverts YouTube to its classic design (unround corners, restore dislikes + remove/redirect Shorts) + block thumbnail/masthead ads.</summary><br>
+    <summary><a href="https://github.com/adamlui/youtube-classic/#readme">YouTube Classic</a> - Reverts YouTube to its classic design (unround corners, restore dislikes + remove/redirect Shorts) + block thumbnail/masthead ads.</summary><br>
     <blockquote>
-        <a href="https://www.ytclassic.com">
-            <img width=511 src="https://assets.ytclassic.com/images/screenshots/youtube-classic-ui.png?v=6de3a93"></a>
+        <a href="https://github.com/adamlui/youtube-classic/#readme">
+            <img width=511 src="https://cdn.jsdelivr.net/gh/adamlui/youtube-classic@6de3a93/assets/images/screenshots/youtube-classic-ui.png"></a>
     </blockquote>
     <blockquote>
         💾 <a href="https://scriptcat.org/scripts/code/6345/youtube-classic.user.js">
             Install</a> /
-        📖 <a href="https://docs.ytclassic.com/#readme">
+        📖 <a href="https://github.com/adamlui/youtube-classic/#readme">
             Readme</a> /
         📢 <a href="https://github.com/adamlui/youtube-classic/discussions">
             Discuss</a> /
@@ -609,6 +609,22 @@ Userscripts can be used w/ the following browsers:
 
 
 ### <picture><source type="image/png" media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@f11c95f/assets/images/icons/sites/amazon/white/icon32.png"><img height=17 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@f11c95f/assets/images/icons/sites/amazon/icon32.png"></picture> Amazon
+
+<details> <!-- Amazon Wishlist Search -->
+    <summary><a href="https://github.com/jhyland87/userscript-amazon-wishlist-search/#readme">Amazon Wishlist Search</a> - Adds a search input field to the wishlist dropdown (supports regex search).</summary><br>
+    <blockquote>
+        <a href="https://github.com/jhyland87/userscript-amazon-wishlist-search/#readme">
+            <img width=511 src="https://raw.githubusercontent.com/jhyland87/userscript-amazon-wishlist-search/refs/heads/main/assets/amazon-wishlist-search-demo-480.gif"></a>
+    </blockquote>
+    <blockquote>
+        💾 <a href="https://github.com/jhyland87/userscript-amazon-wishlist-search/releases/latest/download/amazon-wishlist-search.user.js">
+            Install</a> /
+        📖 <a href="https://github.com/jhyland87/userscript-amazon-wishlist-search/#readme">
+            Readme</a> /
+        🐛 <a href="https://github.com/jhyland87/userscript-amazon-wishlist-search/issues">
+            Report bug</a>
+    </blockquote>
+</details>
 
 <details> <!-- AmazonGPT -->
     <summary><a href="https://amazongpt.kudoai.com">AmazonGPT</a> - Adds AI chat & product/category summaries to Amazon shopping, powered by the latest LLMs.</summary><br>
@@ -632,15 +648,15 @@ Userscripts can be used w/ the following browsers:
 ### <picture><source type="image/png" media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@f11c95f/assets/images/icons/sites/brave/white/icon32.png"><img height=16 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@f11c95f/assets/images/icons/sites/brave/icon32.png"></picture> Brave
 
 <details> <!-- BraveGPT -->
-    <summary><a href="https://www.bravegpt.com">BraveGPT</a> - Adds AI chat & search summaries to Brave Search, powered by the latest LLMs.</summary><br>
+    <summary><a href="https://github.com/KudoAI/bravegpt/#readme">BraveGPT</a> - Adds AI chat & search summaries to Brave Search, powered by the latest LLMs.</summary><br>
     <blockquote>
-        <a href="https://www.bravegpt.com">
-            <img width=511 src="https://assets.bravegpt.com/images/screenshots/desktop/bitcoin-query/darkmode.png?v=a0dd1de"></a>
+        <a href="https://github.com/KudoAI/bravegpt/#readme">
+            <img width=511 src="https://cdn.jsdelivr.net/gh/KudoAI/bravegpt@a0dd1de/assets/images/screenshots/desktop/bitcoin-query/darkmode.png"></a>
     </blockquote>
     <blockquote>
         💾 <a href="https://scriptcat.org/scripts/code/7229/bravegpt.user.js">
             Install</a> /
-        📖 <a href="https://docs.bravegpt.com/#readme">
+        📖 <a href="https://github.com/KudoAI/bravegpt/#readme">
             Readme</a> /
         📢 <a href="https://github.com/KudoAI/bravegpt/discussions">
             Discuss</a> /
@@ -689,15 +705,15 @@ Userscripts can be used w/ the following browsers:
 </details>
 
 <details> <!-- BraveGPT -->
-    <summary><a href="https://www.bravegpt.com">BraveGPT</a> - Adds AI chat & search summaries to Brave Search, powered by the latest LLMs.</summary><br>
+    <summary><a href="https://github.com/KudoAI/bravegpt/#readme">BraveGPT</a> - Adds AI chat & search summaries to Brave Search, powered by the latest LLMs.</summary><br>
     <blockquote>
-        <a href="https://www.bravegpt.com">
-            <img width=511 src="https://assets.bravegpt.com/images/screenshots/desktop/bitcoin-query/darkmode.png?v=a0dd1de"></a>
+        <a href="https://github.com/KudoAI/bravegpt/#readme">
+            <img width=511 src="https://cdn.jsdelivr.net/gh/KudoAI/bravegpt@a0dd1de/assets/images/screenshots/desktop/bitcoin-query/darkmode.png"></a>
     </blockquote>
     <blockquote>
         💾 <a href="https://scriptcat.org/scripts/code/7229/bravegpt.user.js">
             Install</a> /
-        📖 <a href="https://docs.bravegpt.com/#readme">
+        📖 <a href="https://github.com/KudoAI/bravegpt/#readme">
             Readme</a> /
         📢 <a href="https://github.com/KudoAI/bravegpt/discussions">
             Discuss</a> /
@@ -823,15 +839,15 @@ Userscripts can be used w/ the following browsers:
 </details>
 
 <details> <!-- DuckDuckGPT -->
-    <summary><a href="https://www.duckduckgpt.com">DuckDuckGPT</a> - Adds AI chat & search summaries to DuckDuckGo, powered by the latest LLMs.</summary><br>
+    <summary><a href="https://github.com/KudoAI/duckduckgpt/#readme">DuckDuckGPT</a> - Adds AI chat & search summaries to DuckDuckGo, powered by the latest LLMs.</summary><br>
     <blockquote>
-        <a href="https://www.duckduckgpt.com">
-            <img width=511 src="https://assets.ddgpt.com/images/screenshots/desktop/how-to-becum-rich-query/lightmode.png"></a>
+        <a href="https://github.com/KudoAI/duckduckgpt/#readme">
+            <img width=511 src="https://cdn.jsdelivr.net/gh/KudoAI/duckduckgpt@702c716/assets/images/screenshots/desktop/how-to-becum-rich-query/lightmode.png"></a>
     </blockquote>
     <blockquote>
         💾 <a href="https://scriptcat.org/scripts/code/7197/duckduckgpt.user.js">
             Install</a> /
-        📖 <a href="https://docs.ddgpt.com/#readme">
+        📖 <a href="https://github.com/KudoAI/duckduckgpt/#readme">
             Readme</a> /
         📢 <a href="https://github.com/KudoAI/duckduckgpt/discussions">
             Discuss</a> /
@@ -953,15 +969,15 @@ Userscripts can be used w/ the following browsers:
 ### <picture><source type="image/png" media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@f11c95f/assets/images/icons/sites/duckduckgo/white/icon32.png"><img height=18 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@f11c95f/assets/images/icons/sites/duckduckgo/icon32.png"></picture> DuckDuckGo
 
 <details> <!-- DuckDuckGPT -->
-    <summary><a href="https://www.duckduckgpt.com">DuckDuckGPT</a> - Adds AI chat & search summaries to DuckDuckGo, powered by the latest LLMs.</summary><br>
+    <summary><a href="https://github.com/KudoAI/duckduckgpt/#readme">DuckDuckGPT</a> - Adds AI chat & search summaries to DuckDuckGo, powered by the latest LLMs.</summary><br>
     <blockquote>
-        <a href="https://www.duckduckgpt.com">
-            <img width=511 src="https://assets.ddgpt.com/images/screenshots/desktop/how-to-becum-rich-query/lightmode.png"></a>
+        <a href="https://github.com/KudoAI/duckduckgpt/#readme">
+            <img width=511 src="https://cdn.jsdelivr.net/gh/KudoAI/duckduckgpt@702c716/assets/images/screenshots/desktop/how-to-becum-rich-query/lightmode.png"></a>
     </blockquote>
     <blockquote>
         💾 <a href="https://scriptcat.org/scripts/code/7197/duckduckgpt.user.js">
             Install</a> /
-        📖 <a href="https://docs.ddgpt.com/#readme">
+        📖 <a href="https://github.com/KudoAI/duckduckgpt/#readme">
             Readme</a> /
         📢 <a href="https://github.com/KudoAI/duckduckgpt/discussions">
             Discuss</a> /
@@ -1601,16 +1617,32 @@ Userscripts can be used w/ the following browsers:
     </blockquote>
 </details>
 
-<details> <!-- YouTube Classic -->
-    <summary><a href="https://www.ytclassic.com">YouTube Classic</a> - Reverts YouTube to its classic design (unround corners, restore dislikes + remove/redirect Shorts) + block thumbnail/masthead ads.</summary><br>
+<details> <!-- YouTube A/B Loop -->
+    <summary><a href="https://github.com/Black0S/Youtube-Loop-UserScript/#readme">YouTube A/B Loop</a> - A lightweight userscript that adds a native A/B loop panel directly into the YouTube player.</summary><br>
     <blockquote>
-        <a href="https://www.ytclassic.com">
-            <img width=511 src="https://assets.ytclassic.com/images/screenshots/youtube-classic-ui.png?v=6de3a93"></a>
+        <a href="https://github.com/Black0S/Youtube-Loop-UserScript/#readme">
+            <img width=588 src="https://cdn.jsdelivr.net/gh/Black0S/Youtube-Loop-UserScript@66f435b8e98f404291fc0cb57f0fe78e7045aa92/Images/CleanShot 2026-03-10 at 21.39.37%402x.png"></a>
+    </blockquote>
+    <blockquote>
+        💾 <a href="https://scriptcat.org/scripts/code/5570/youtube-ab-loop.user.js">
+            Install</a> /
+        📖 <a href="https://github.com/Black0S/Youtube-Loop-UserScript/#readme">
+            Readme</a> /
+        🐛 <a href="https://github.com/Black0S/Youtube-Loop-UserScript/issues">
+            Report bug</a>
+    </blockquote>
+</details>
+
+<details> <!-- YouTube Classic -->
+    <summary><a href="https://github.com/adamlui/youtube-classic/#readme">YouTube Classic</a> - Reverts YouTube to its classic design (unround corners, restore dislikes + remove/redirect Shorts) + block thumbnail/masthead ads.</summary><br>
+    <blockquote>
+        <a href="https://github.com/adamlui/youtube-classic/#readme">
+            <img width=511 src="https://cdn.jsdelivr.net/gh/adamlui/youtube-classic@6de3a93/assets/images/screenshots/youtube-classic-ui.png"></a>
     </blockquote>
     <blockquote>
         💾 <a href="https://scriptcat.org/scripts/code/6345/youtube-classic.user.js">
             Install</a> /
-        📖 <a href="https://docs.ytclassic.com/#readme">
+        📖 <a href="https://github.com/adamlui/youtube-classic/#readme">
             Readme</a> /
         📢 <a href="https://github.com/adamlui/youtube-classic/discussions">
             Discuss</a> /
