@@ -223,6 +223,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [angular-deploy-bunny ![GitHub Repo Stars](https://img.shields.io/github/stars/lostium/angular-deploy-bunny) ![GitHub last commit](https://img.shields.io/github/last-commit/lostium/angular-deploy-bunny)](https://github.com/lostium/angular-deploy-bunny) - Angular Architect builder (`ng deploy`) that syncs your build to a Bunny.net CDN Storage Zone using SHA256 incremental diffing, then purges the corresponding Pull Zone.
 * [ngx-ssh-deploy](https://bitbucket.org/dkhang97/ngx-ssh-deploy/src/master/) - Deploy Angular projects using SSH.
 * [front-ready ![GitHub Repo Stars](https://img.shields.io/github/stars/czfabrics/front-ready) ![GitHub last commit](https://img.shields.io/github/last-commit/czfabrics/front-ready)](https://github.com/czfabrics/front-ready) - Detects your Angular build settings, compiles the project, and uploads it to AWS S3 with optimized cache headers using a single command.
+* [oSStack Deploy ![GitHub Repo Stars](https://img.shields.io/github/stars/sanketpadhyal/oSStack-Deploy) ![GitHub last commit](https://img.shields.io/github/last-commit/sanketpadhyal/oSStack-Deploy)](https://github.com/sanketpadhyal/oSStack-Deploy) - A high-performance deployment platform inspired by Vercel; features zero-config deployments, automated framework detection, and real-time build streaming.
 
 ### Desktop Applications
 
@@ -1078,6 +1079,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [editate ![GitHub Repo Stars](https://img.shields.io/github/stars/inokawa/editate) ![GitHub last commit](https://img.shields.io/github/last-commit/inokawa/editate)](https://github.com/inokawa/editate) - An experimental, type-safe, framework agnostic and small (5kB+) contenteditable state manager.
 * [sdux-vault ![GitHub Repo Stars](https://img.shields.io/github/stars/sdux-vault/vault) ![GitHub last commit](https://img.shields.io/github/last-commit/sdux-vault/vault)](https://github.com/sdux-vault/vault) - A framework-agnostic, deterministic state management system.
 * [ngx-tosijs ![GitHub Repo Stars](https://img.shields.io/github/stars/tonioloewald/ngx-tosijs) ![GitHub last commit](https://img.shields.io/github/last-commit/tonioloewald/ngx-tosijs)](https://github.com/tonioloewald/ngx-tosijs) - Insanely simple state management for Angular — and an off-ramp from Angular. Take your pick.
+* [ngx-zero ![GitHub Repo Stars](https://img.shields.io/github/stars/ivan-anchev/ngx-zero) ![GitHub last commit](https://img.shields.io/github/last-commit/ivan-anchev/ngx-zero)](https://github.com/ivan-anchev/ngx-zero) - Signals-first, zoneless-ready Angular bindings for [Rocicorp Zero](https://zero.rocicorp.dev/), a general-purpose sync solution.
 
 ## Testing
 
@@ -2410,6 +2412,7 @@ for the creation of web applications developed with Angular.
 * [23blocks SDK ![GitHub Repo Stars](https://img.shields.io/github/stars/23blocks-OS/frontend-sdk) ![GitHub last commit](https://img.shields.io/github/last-commit/23blocks-OS/frontend-sdk)](https://github.com/23blocks-OS/frontend-sdk) - Build full-stack apps 10x faster with modular backend blocks.
 * [ngx-unity ![GitHub Repo Stars](https://img.shields.io/github/stars/jjmhalew/ngx-unity) ![GitHub last commit](https://img.shields.io/github/last-commit/jjmhalew/ngx-unity)](https://github.com/jjmhalew/ngx-unity) - A type-safe bridge for bidirectional communication between Unity WebGL/WebGPU and Angular.
 * [ngx-wp-shortcode](https://codeberg.org/tomaszatoo/ngx-wp-shortcode.git) - A library that lets Angular applications render WordPress shortcodes as native Angular components.
+* [ngx-iobroker ![GitHub Repo Stars](https://img.shields.io/github/stars/pottio/ngx-iobroker) ![GitHub last commit](https://img.shields.io/github/last-commit/pottio/ngx-iobroker)](https://github.com/pottio/ngx-iobroker) - This library offers the possibility to integrate a [ioBroker](https://www.iobroker.net/) server quickly and easily into an Angular application.
 
 ### Wrappers
 
