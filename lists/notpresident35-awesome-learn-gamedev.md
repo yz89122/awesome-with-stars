@@ -898,7 +898,7 @@ Royalty free music! Don't forget to check the license.
 <br />
 
 
-[Obsidian](https://obsidian.md/) 🟪 - Important productivity fuel (and what I used to hoard this list :P)
+[Obsidian](https://obsidian.md/) ��� - Important productivity fuel (and what I used to hoard this list :P)
 
 
 [A series of game jam post-mortems](https://www.youtube.com/watch?v=fW88C_w3EzE&list=PLrvwNabyAw30pIbitXIHLdSTm4t9I3iT1) 💠🟪 - These are more valuable than they let on, because they show you the whole game-making process, start to finish. Not only will this help you avoid common pitfalls, it will help you know how to follow that process for your own game. Watch a couple before entering your first jam or starting your first project!
