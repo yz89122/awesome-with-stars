@@ -266,7 +266,7 @@ This repo is now **ARCHIVED**, please refer to [awesome-dotnet-maui ![GitHub Rep
 
 ## Wearable
 
-- [WormHoleSharp ★25 ![GitHub Repo Stars](https://img.shields.io/github/stars/Clancey/WormHoleSharp) ![GitHub last commit](https://img.shields.io/github/last-commit/Clancey/WormHoleSharp)](https://github.com/Clancey/WormHoleSharp) - Communication between Watch and iDevice.
+- [WormHoleSharp ���25 ![GitHub Repo Stars](https://img.shields.io/github/stars/Clancey/WormHoleSharp) ![GitHub last commit](https://img.shields.io/github/last-commit/Clancey/WormHoleSharp)](https://github.com/Clancey/WormHoleSharp) - Communication between Watch and iDevice.
 
 
 ## Xamarin.Forms
