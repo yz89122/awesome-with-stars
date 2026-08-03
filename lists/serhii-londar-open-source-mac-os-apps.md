@@ -8962,7 +8962,7 @@ You can see in which language an app is written. Currently there are following l
 
   **Website:** [https://www.wireguard.com/](https://www.wireguard.com/)
 
-### 🎬 Video (20)
+### ���� Video (20)
 - [Acid.Cam.v2.OSX ![GitHub Repo Stars](https://img.shields.io/github/stars/lostjared/Acid.Cam.v2.OSX) ![GitHub last commit](https://img.shields.io/github/last-commit/lostjared/Acid.Cam.v2.OSX)](https://github.com/lostjared/Acid.Cam.v2.OSX) - Acid Cam v2 for macOS distorts video to create art. 
 
   **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++ 
