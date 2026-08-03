@@ -226,7 +226,7 @@ _Info on topics necessary for designing and developing game engines._
 - Commercial Studios Research Divisions
     - 🌎 [Activision Research](https://research.activision.com/) - Blog posts, articles and presentations from research within _Activision_.
     - 🌎 [EA Technology](https://www.ea.com/technology/research) - Research on game tech including info on the _Frostbite_ engine.
-    - 🌎 [tri-Ace Research](https://research.tri-ace.com/) - Publications from the Research and Development Department at _tri-Ace Inc_.
+    - �� [tri-Ace Research](https://research.tri-ace.com/) - Publications from the Research and Development Department at _tri-Ace Inc_.
     - 🌎 [Ubisoft Technology](https://www.ubisoft.com/en-us/company/how-we-make-games/technology) - Learn about in-house tech including the _Anvil_ and _Snowdrop_ engines.
 - Education Portals
     - 📚 [3D Game Engine Programming](https://www.3dgep.com) - Articles on graphics, physics, AI, I/O and more.
@@ -1361,7 +1361,7 @@ _Software to help with game engine / video game development._
 - 🆓 [Nsight](https://developer.nvidia.com/nsight-graphics) - Debug, profile, and export frames built with Direct3D, Vulkan, OpenGL, OpenXR.
 - 🆓 [PIX](https://learn.microsoft.com/en-us/windows/win32/direct3dtools/pix/articles/general/pix-overview) - Debugging and profiling for game developers using Direct3D 12.
 - 🎉 [RenderDoc ![GitHub Repo Stars](https://img.shields.io/github/stars/baldurk/renderdoc) ![GitHub last commit](https://img.shields.io/github/last-commit/baldurk/renderdoc)](https://github.com/baldurk/renderdoc) - Stand-alone graphics debugging tool.
-- �� [Tracy Profiler ![GitHub Repo Stars](https://img.shields.io/github/stars/wolfpld/tracy) ![GitHub last commit](https://img.shields.io/github/last-commit/wolfpld/tracy)](https://github.com/wolfpld/tracy) - Frame profiler.
+- 🎉 [Tracy Profiler ![GitHub Repo Stars](https://img.shields.io/github/stars/wolfpld/tracy) ![GitHub last commit](https://img.shields.io/github/last-commit/wolfpld/tracy)](https://github.com/wolfpld/tracy) - Frame profiler.
 
 ### Image Editors
 - 🆓 [GIMP](https://www.gimp.org) - GNU Image Manipulation Program, open source image editor. [[Source ![GitHub Repo Stars](https://img.shields.io/github/stars/GNOME/gimp) ![GitHub last commit](https://img.shields.io/github/last-commit/GNOME/gimp)](https://github.com/GNOME/gimp)]
