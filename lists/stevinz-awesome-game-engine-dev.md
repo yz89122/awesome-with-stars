@@ -376,7 +376,7 @@ _Language specific game engine development libraries / frameworks / code._
 - 📚 [Awesome C++ ![GitHub Repo Stars](https://img.shields.io/github/stars/fffaraz/awesome-cpp) ![GitHub last commit](https://img.shields.io/github/last-commit/fffaraz/awesome-cpp)](https://github.com/fffaraz/awesome-cpp) - List of awesome C++ frameworks, libraries, and resources.
 - 📚 [Awesome C++ Game Dev ![GitHub Repo Stars](https://img.shields.io/github/stars/Caerind/AwesomeCppGameDev) ![GitHub last commit](https://img.shields.io/github/last-commit/Caerind/AwesomeCppGameDev)](https://github.com/Caerind/AwesomeCppGameDev) - List of awesome C++ things for Game Development.
 - 📚 [Awesome Hpp ![GitHub Repo Stars](https://img.shields.io/github/stars/p-ranav/awesome-hpp) ![GitHub last commit](https://img.shields.io/github/last-commit/p-ranav/awesome-hpp)](https://github.com/p-ranav/awesome-hpp) - List of awesome header-only C++ libraries.
-- ���� [C++ Papyrus](https://caiorss.github.io/C-Cpp-Notes/index.html) - Basic to advanced topics with modern C++ examples.
+- 🌎 [C++ Papyrus](https://caiorss.github.io/C-Cpp-Notes/index.html) - Basic to advanced topics with modern C++ examples.
 - 🌎 [cppreference.com](https://en.cppreference.com/w/cpp) - Online reference for C, C++, and the STL.
 - 📚 [Learn C++](https://www.learncpp.com) 🔥 - Walks you through all the steps to write, compile, and debug C++.
 - 📚 [Modern Cpp Features ![GitHub Repo Stars](https://img.shields.io/github/stars/AnthonyCalandra/modern-cpp-features) ![GitHub last commit](https://img.shields.io/github/last-commit/AnthonyCalandra/modern-cpp-features)](https://github.com/AnthonyCalandra/modern-cpp-features) - Cheatsheet of modern C++ language and library features.
@@ -1361,7 +1361,7 @@ _Software to help with game engine / video game development._
 - 🆓 [Nsight](https://developer.nvidia.com/nsight-graphics) - Debug, profile, and export frames built with Direct3D, Vulkan, OpenGL, OpenXR.
 - 🆓 [PIX](https://learn.microsoft.com/en-us/windows/win32/direct3dtools/pix/articles/general/pix-overview) - Debugging and profiling for game developers using Direct3D 12.
 - 🎉 [RenderDoc ![GitHub Repo Stars](https://img.shields.io/github/stars/baldurk/renderdoc) ![GitHub last commit](https://img.shields.io/github/last-commit/baldurk/renderdoc)](https://github.com/baldurk/renderdoc) - Stand-alone graphics debugging tool.
-- 🎉 [Tracy Profiler ![GitHub Repo Stars](https://img.shields.io/github/stars/wolfpld/tracy) ![GitHub last commit](https://img.shields.io/github/last-commit/wolfpld/tracy)](https://github.com/wolfpld/tracy) - Frame profiler.
+- �� [Tracy Profiler ![GitHub Repo Stars](https://img.shields.io/github/stars/wolfpld/tracy) ![GitHub last commit](https://img.shields.io/github/last-commit/wolfpld/tracy)](https://github.com/wolfpld/tracy) - Frame profiler.
 
 ### Image Editors
 - 🆓 [GIMP](https://www.gimp.org) - GNU Image Manipulation Program, open source image editor. [[Source ![GitHub Repo Stars](https://img.shields.io/github/stars/GNOME/gimp) ![GitHub last commit](https://img.shields.io/github/last-commit/GNOME/gimp)](https://github.com/GNOME/gimp)]

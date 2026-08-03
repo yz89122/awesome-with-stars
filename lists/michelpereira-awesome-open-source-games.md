@@ -387,6 +387,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 - [Starbound ![GitHub Repo Stars](https://img.shields.io/github/stars/rwf93/Starbound) ![GitHub last commit](https://img.shields.io/github/last-commit/rwf93/Starbound)](https://github.com/rwf93/Starbound) - A 2D sandbox adventure game where players explore a vast procedurally generated universe.
 - [Terasology ![GitHub Repo Stars](https://img.shields.io/github/stars/MovingBlocks/Terasology) ![GitHub last commit](https://img.shields.io/github/last-commit/MovingBlocks/Terasology)](https://github.com/MovingBlocks/Terasology) - Voxel world game engine inspired by Minecraft and others with fancy graphic effects and a heavy focus on extensibility.
 - [The Powder Toy ![GitHub Repo Stars](https://img.shields.io/github/stars/simtr/The-Powder-Toy) ![GitHub last commit](https://img.shields.io/github/last-commit/simtr/The-Powder-Toy)](https://github.com/simtr/The-Powder-Toy) - Falling-sand physics sandbox game.
+- [Unturned ![GitHub Repo Stars](https://img.shields.io/github/stars/SmartlyDressedGames/U3-SDK) ![GitHub last commit](https://img.shields.io/github/last-commit/SmartlyDressedGames/U3-SDK)](https://github.com/SmartlyDressedGames/U3-SDK) - Free open-world zombie survival sandbox game.
 
 ### Simulation
 
@@ -443,6 +444,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 
 ### Android
 
+- [Braincup ![GitHub Repo Stars](https://img.shields.io/github/stars/SimonSchubert/Braincup) ![GitHub last commit](https://img.shields.io/github/last-commit/SimonSchubert/Braincup)](https://github.com/SimonSchubert/Braincup) - Memory, focus & math trainer.
 - [ChaseWhisplyProject ![GitHub Repo Stars](https://img.shields.io/github/stars/tvbarthel/ChaseWhisplyProject) ![GitHub last commit](https://img.shields.io/github/last-commit/tvbarthel/ChaseWhisplyProject)](https://github.com/tvbarthel/ChaseWhisplyProject) - Chase Whisply is a FPS. You have to seek, find and kill the ghosts living around you.
 - [Colorphun ![GitHub Repo Stars](https://img.shields.io/github/stars/prakhar1989/colorphun) ![GitHub last commit](https://img.shields.io/github/last-commit/prakhar1989/colorphun)](https://github.com/prakhar1989/colorphun) - Simple color based Android Game.
 - [Game of Life ![GitHub Repo Stars](https://img.shields.io/github/stars/zsoltk/GameOfLife) ![GitHub last commit](https://img.shields.io/github/last-commit/zsoltk/GameOfLife)](https://github.com/zsoltk/GameOfLife) - Conway's Game of Life with editable rules.

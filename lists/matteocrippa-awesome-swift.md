@@ -10,7 +10,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 | Awesome | Linux | Projects | Updated |
 |:-------:|:-----:|:--------:|:-------:|
-| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | :penguin: | 1103 | June 15, 2026 |
+| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | :penguin: | 1107 | August 03, 2026 |
 
 In parternship with:
 
@@ -316,6 +316,7 @@ In parternship with:
 * [Fazm ![GitHub Repo Stars](https://img.shields.io/github/stars/m13v/fazm) ![GitHub last commit](https://img.shields.io/github/last-commit/m13v/fazm)](https://github.com/m13v/fazm) - A voice-controlled AI agent for macOS using accessibility APIs and ScreenCaptureKit.
 * [Open Agent SDK ![GitHub Repo Stars](https://img.shields.io/github/stars/terryso/open-agent-sdk-swift) ![GitHub last commit](https://img.shields.io/github/last-commit/terryso/open-agent-sdk-swift)](https://github.com/terryso/open-agent-sdk-swift) - Open-source Agent SDK with full agent loop, 34 built-in tools, sub-agent orchestration, MCP integration, and multi-provider LLM support.
 * [OpenAI ![GitHub Repo Stars](https://img.shields.io/github/stars/MacPaw/OpenAI) ![GitHub last commit](https://img.shields.io/github/last-commit/MacPaw/OpenAI)](https://github.com/MacPaw/OpenAI) - Swift package for OpenAI public API.
+* [swift-coding-agent ![GitHub Repo Stars](https://img.shields.io/github/stars/ivan-magda/swift-coding-agent) ![GitHub last commit](https://img.shields.io/github/last-commit/ivan-magda/swift-coding-agent)](https://github.com/ivan-magda/swift-coding-agent) - A terminal coding agent with subagents and context compaction.
 
 ### Algorithm
 [back to top](#readme) 
@@ -1024,6 +1025,7 @@ In parternship with:
 * [Cluster ![GitHub Repo Stars](https://img.shields.io/github/stars/efremidze/Cluster) ![GitHub last commit](https://img.shields.io/github/last-commit/efremidze/Cluster)](https://github.com/efremidze/Cluster) - Easy Map Annotation Clustering.
 * [FlyoverKit ![GitHub Repo Stars](https://img.shields.io/github/stars/SvenTiigi/FlyoverKit) ![GitHub last commit](https://img.shields.io/github/last-commit/SvenTiigi/FlyoverKit)](https://github.com/SvenTiigi/FlyoverKit) - FlyoverKit enables you to present stunning 360° flyover views on your MKMapView with zero effort while maintaining full configuration possibilities.
 * [GEOSwift ![GitHub Repo Stars](https://img.shields.io/github/stars/GEOSwift/GEOSwift) ![GitHub last commit](https://img.shields.io/github/last-commit/GEOSwift/GEOSwift)](https://github.com/GEOSwift/GEOSwift) - Make it easier to work with geographic models and calculate intersections, overlapping, projections etc.
+* [ImmersiveMap ![GitHub Repo Stars](https://img.shields.io/github/stars/artembobkin/ImmersiveMap) ![GitHub last commit](https://img.shields.io/github/last-commit/artembobkin/ImmersiveMap)](https://github.com/artembobkin/ImmersiveMap) - A Metal-rendered vector-tile map engine for SwiftUI with a 3D globe, flat map and live avatar markers.
 * [LocoKit ![GitHub Repo Stars](https://img.shields.io/github/stars/sobri909/LocoKit) ![GitHub last commit](https://img.shields.io/github/last-commit/sobri909/LocoKit)](https://github.com/sobri909/LocoKit) - A location and activity recording framework for iOS.
 
 ### Math
@@ -1033,6 +1035,7 @@ In parternship with:
 * [BigInt ![GitHub Repo Stars](https://img.shields.io/github/stars/attaswift/BigInt) ![GitHub last commit](https://img.shields.io/github/last-commit/attaswift/BigInt)](https://github.com/attaswift/BigInt) - Arbitrary-precision arithmetic.
 * [DDMathParser ![GitHub Repo Stars](https://img.shields.io/github/stars/davedelong/DDMathParser) ![GitHub last commit](https://img.shields.io/github/last-commit/davedelong/DDMathParser)](https://github.com/davedelong/DDMathParser) - DDMathParser makes it easy to parse a String and evaluate it as a mathematical expression.
 * [SigmaSwiftStatistics ![GitHub Repo Stars](https://img.shields.io/github/stars/evgenyneu/SigmaSwiftStatistics) ![GitHub last commit](https://img.shields.io/github/last-commit/evgenyneu/SigmaSwiftStatistics)](https://github.com/evgenyneu/SigmaSwiftStatistics) - A collection of functions for statistical calculation.
+* [SwaTex ![GitHub Repo Stars](https://img.shields.io/github/stars/PhraseHQ/SwaTex) ![GitHub last commit](https://img.shields.io/github/last-commit/PhraseHQ/SwaTex)](https://github.com/PhraseHQ/SwaTex) - KaTeX-compatible LaTeX math rendering engine with no JavaScript, WebView, or DOM.
 * [Upsurge ![GitHub Repo Stars](https://img.shields.io/github/stars/alejandro-isaza/Upsurge) ![GitHub last commit](https://img.shields.io/github/last-commit/alejandro-isaza/Upsurge)](https://github.com/alejandro-isaza/Upsurge) - Simple and fast matrix and vector math.
 
 ### Natural Language Processing
@@ -1708,6 +1711,7 @@ In parternship with:
 *Some interesting utilities to help you in your projects* [back to top](#readme) 
 
 * [AlexaSkillsKit ![GitHub Repo Stars](https://img.shields.io/github/stars/choefele/AlexaSkillsKit) ![GitHub last commit](https://img.shields.io/github/last-commit/choefele/AlexaSkillsKit)](https://github.com/choefele/AlexaSkillsKit) - Develop custom Alexa Skills.
+* [AmoreKit ![GitHub Repo Stars](https://img.shields.io/github/stars/AmoreComputer/AmoreKit) ![GitHub last commit](https://img.shields.io/github/last-commit/AmoreComputer/AmoreKit)](https://github.com/AmoreComputer/AmoreKit) - Sell and validate license keys in macOS apps distributed outside the App Store.
 * [ApplyStyleKit ![GitHub Repo Stars](https://img.shields.io/github/stars/shindyu/ApplyStyleKit) ![GitHub last commit](https://img.shields.io/github/last-commit/shindyu/ApplyStyleKit)](https://github.com/shindyu/ApplyStyleKit) - Elegantly, Apply style to UIKit using Method Chain.
 * [Basis ![GitHub Repo Stars](https://img.shields.io/github/stars/typelift/Basis) ![GitHub last commit](https://img.shields.io/github/last-commit/typelift/Basis)](https://github.com/typelift/Basis) - Pure Declarative Programming.
 * [Bow ![GitHub Repo Stars](https://img.shields.io/github/stars/bow-swift/bow) ![GitHub last commit](https://img.shields.io/github/last-commit/bow-swift/bow)](https://github.com/bow-swift/bow) - Companion library for Typed Functional Programming.
