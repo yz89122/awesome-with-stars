@@ -1118,7 +1118,7 @@ _Current implementations of the JVM/JDK._
 
 > **[Liberica JDK](https://bell-sw.com)**<br>Built from OpenJDK, thoroughly tested and passed the JCK. (GPL-2.0-only WITH Classpath-exception-2.0)
 
-> **[Microsoft JDK ![GitHub Repo Stars](https://img.shields.io/github/stars/microsoft/openjdk) ![GitHub last commit](https://img.shields.io/github/last-commit/microsoft/openjdk)](https://github.com/microsoft/openjdk)** <kbd>★ 342</kbd> <kbd>MIT</kbd> 🟠<br>Microsoft Build of OpenJDK, Free, Open Source, Freshly Brewed!
+> **[Microsoft JDK ![GitHub Repo Stars](https://img.shields.io/github/stars/microsoft/openjdk) ![GitHub last commit](https://img.shields.io/github/last-commit/microsoft/openjdk)](https://github.com/microsoft/openjdk)** <kbd>★ 342</kbd> <kbd>MIT</kbd> ����<br>Microsoft Build of OpenJDK, Free, Open Source, Freshly Brewed!
 
 > **[Open JDK ![GitHub Repo Stars](https://img.shields.io/github/stars/openjdk/jdk) ![GitHub last commit](https://img.shields.io/github/last-commit/openjdk/jdk)](https://github.com/openjdk/jdk)** <kbd>★ 23.2k</kbd> <kbd>GPL-2.0</kbd> 🟢<br>Open JDK community home.
 

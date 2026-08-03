@@ -1087,7 +1087,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-### 🗄��� Database (18)
+### 🗄️ Database (18)
 - [Bdash ![GitHub Repo Stars](https://img.shields.io/github/stars/bdash-app/bdash) ![GitHub last commit](https://img.shields.io/github/last-commit/bdash-app/bdash)](https://github.com/bdash-app/bdash) - Simple SQL Client for lightweight data analysis.
 
   **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript 
