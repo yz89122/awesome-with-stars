@@ -23,7 +23,7 @@ _Frameworks and libraries that help implementing and verifying design and archit
 
 > **[jMolecules ![GitHub Repo Stars](https://img.shields.io/github/stars/xmolecules/jmolecules) ![GitHub last commit](https://img.shields.io/github/last-commit/xmolecules/jmolecules)](https://github.com/xmolecules/jmolecules)** <kbd>★ 1.5k</kbd> <kbd>Apache-2.0</kbd> 🟠<br>Annotations and interfaces to express design and architecture concepts in code.
 
-> **[jQAssistant ![GitHub Repo Stars](https://img.shields.io/github/stars/jQAssistant/jqassistant) ![GitHub last commit](https://img.shields.io/github/last-commit/jQAssistant/jqassistant)](https://github.com/jQAssistant/jqassistant)** <kbd>★ 284</kbd> <kbd>GPL-3.0</kbd> 🟢<br>Static code analysis with Neo4J-based query language.
+> **[jQAssistant ![GitHub Repo Stars](https://img.shields.io/github/stars/jQAssistant/jqassistant) ![GitHub last commit](https://img.shields.io/github/last-commit/jQAssistant/jqassistant)](https://github.com/jQAssistant/jqassistant)** <kbd>★ 285</kbd> <kbd>GPL-3.0</kbd> 🟢<br>Static code analysis with Neo4J-based query language.
 
 > **[Taikai ![GitHub Repo Stars](https://img.shields.io/github/stars/enofex/taikai) ![GitHub last commit](https://img.shields.io/github/last-commit/enofex/taikai)](https://github.com/enofex/taikai)** <kbd>★ 244</kbd> <kbd>MIT</kbd> 🟢<br>ArchUnit extension with predefined architecture rules for common Java technologies.
 
@@ -34,29 +34,29 @@ _Frameworks and libraries that help implementing and verifying design and archit
 
 _Frameworks for building applications with AI, agents and knowledge-based systems._
 
-> **[A2A Java SDK ![GitHub Repo Stars](https://img.shields.io/github/stars/a2aproject/a2a-java) ![GitHub last commit](https://img.shields.io/github/last-commit/a2aproject/a2a-java)](https://github.com/a2aproject/a2a-java)** <kbd>★ 466</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Official Java SDK for the Agent2Agent protocol.
+> **[A2A Java SDK ![GitHub Repo Stars](https://img.shields.io/github/stars/a2aproject/a2a-java) ![GitHub last commit](https://img.shields.io/github/last-commit/a2aproject/a2a-java)](https://github.com/a2aproject/a2a-java)** <kbd>★ 467</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Official Java SDK for the Agent2Agent protocol.
 
-> **[AgentScope Java ![GitHub Repo Stars](https://img.shields.io/github/stars/agentscope-ai/agentscope-java) ![GitHub last commit](https://img.shields.io/github/last-commit/agentscope-ai/agentscope-java)](https://github.com/agentscope-ai/agentscope-java)** <kbd>★ 4.7k</kbd> 🟢<br>Framework for building distributed, long-running AI agents with tool execution, persistence and multi-agent orchestration.
+> **[AgentScope Java ![GitHub Repo Stars](https://img.shields.io/github/stars/agentscope-ai/agentscope-java) ![GitHub last commit](https://img.shields.io/github/last-commit/agentscope-ai/agentscope-java)](https://github.com/agentscope-ai/agentscope-java)** <kbd>★ 4.8k</kbd> 🟢<br>Framework for building distributed, long-running AI agents with tool execution, persistence and multi-agent orchestration.
 
-> **[Anahata ASI ![GitHub Repo Stars](https://img.shields.io/github/stars/anahata-os/anahata-asi) ![GitHub last commit](https://img.shields.io/github/last-commit/anahata-os/anahata-asi)](https://github.com/anahata-os/anahata-asi)** <kbd>★ 21</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Java agent container with local LLM adapters, stateful tool execution, context management and IDE integration.
+> **[Anahata ASI ![GitHub Repo Stars](https://img.shields.io/github/stars/anahata-os/anahata-asi) ![GitHub last commit](https://img.shields.io/github/last-commit/anahata-os/anahata-asi)](https://github.com/anahata-os/anahata-asi)** <kbd>★ 23</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Java agent container with local LLM adapters, stateful tool execution, context management and IDE integration.
 
-> **[Dokimos ![GitHub Repo Stars](https://img.shields.io/github/stars/dokimos-dev/dokimos) ![GitHub last commit](https://img.shields.io/github/last-commit/dokimos-dev/dokimos)](https://github.com/dokimos-dev/dokimos)** <kbd>★ 47</kbd> <kbd>MIT</kbd> 🟢<br>Evaluation framework for LLM and AI-agent applications that scores responses, validates tool calls and execution traces, and catches quality regressions in CI.
+> **[Dokimos ![GitHub Repo Stars](https://img.shields.io/github/stars/dokimos-dev/dokimos) ![GitHub last commit](https://img.shields.io/github/last-commit/dokimos-dev/dokimos)](https://github.com/dokimos-dev/dokimos)** <kbd>★ 48</kbd> <kbd>MIT</kbd> 🟢<br>Evaluation framework for LLM and AI-agent applications that scores responses, validates tool calls and execution traces, and catches quality regressions in CI.
 
 > **[Google Gen AI Java SDK ![GitHub Repo Stars](https://img.shields.io/github/stars/googleapis/java-genai) ![GitHub last commit](https://img.shields.io/github/last-commit/googleapis/java-genai)](https://github.com/googleapis/java-genai)** <kbd>★ 385</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Official Java SDK for integrating Google generative AI models.
 
 > **[JADE](https://jade.tilab.com)**<br>Framework and environment for building and debugging multi-agent systems. (LGPL-2.0-only)
 
-> **[JamJet ![GitHub Repo Stars](https://img.shields.io/github/stars/jamjet-labs/jamjet) ![GitHub last commit](https://img.shields.io/github/last-commit/jamjet-labs/jamjet)](https://github.com/jamjet-labs/jamjet)** <kbd>★ 20</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Agent runtime with a Java SDK for building AI agents, supporting graph-based workflow orchestration, multi-agent coordination, and MCP/A2A protocols.
+> **[JamJet ![GitHub Repo Stars](https://img.shields.io/github/stars/jamjet-labs/jamjet) ![GitHub last commit](https://img.shields.io/github/last-commit/jamjet-labs/jamjet)](https://github.com/jamjet-labs/jamjet)** <kbd>★ 19</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Agent runtime with a Java SDK for building AI agents, supporting graph-based workflow orchestration, multi-agent coordination, and MCP/A2A protocols.
 
-> **[LangChain4j ![GitHub Repo Stars](https://img.shields.io/github/stars/langchain4j/langchain4j) ![GitHub last commit](https://img.shields.io/github/last-commit/langchain4j/langchain4j)](https://github.com/langchain4j/langchain4j)** <kbd>★ 12.7k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Simplifies integration of LLMs with unified APIs and a comprehensive toolbox.
+> **[LangChain4j ![GitHub Repo Stars](https://img.shields.io/github/stars/langchain4j/langchain4j) ![GitHub last commit](https://img.shields.io/github/last-commit/langchain4j/langchain4j)](https://github.com/langchain4j/langchain4j)** <kbd>★ 12.8k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Simplifies integration of LLMs with unified APIs and a comprehensive toolbox.
 
-> **[liter-llm ![GitHub Repo Stars](https://img.shields.io/github/stars/xberg-io/liter-llm) ![GitHub last commit](https://img.shields.io/github/last-commit/xberg-io/liter-llm)](https://github.com/xberg-io/liter-llm)** <kbd>★ 238</kbd> <kbd>MIT</kbd> 🟢<br>Provides a Java binding for a unified LLM API client across multiple providers.
+> **[liter-llm ![GitHub Repo Stars](https://img.shields.io/github/stars/xberg-io/liter-llm) ![GitHub last commit](https://img.shields.io/github/last-commit/xberg-io/liter-llm)](https://github.com/xberg-io/liter-llm)** <kbd>★ 240</kbd> <kbd>MIT</kbd> 🟢<br>Provides a Java binding for a unified LLM API client across multiple providers.
 
 > **[MCP Java SDK ![GitHub Repo Stars](https://img.shields.io/github/stars/modelcontextprotocol/java-sdk) ![GitHub last commit](https://img.shields.io/github/last-commit/modelcontextprotocol/java-sdk)](https://github.com/modelcontextprotocol/java-sdk)** <kbd>★ 3.6k</kbd> <kbd>MIT</kbd> 🟢<br>Enables applications to interact with AI models and tools through a standardized interface (i.e. Model Context Protocol), supporting both synchronous and asynchronous communication patterns.
 
 > **[Protégé ![GitHub Repo Stars](https://img.shields.io/github/stars/protegeproject/protege) ![GitHub last commit](https://img.shields.io/github/last-commit/protegeproject/protege)](https://github.com/protegeproject/protege)** <kbd>★ 1.4k</kbd> 🟠<br>Provides an ontology editor and a framework to build knowledge-based systems.
 
-> **[Regulus ![GitHub Repo Stars](https://img.shields.io/github/stars/neul-labs/regulus) ![GitHub last commit](https://img.shields.io/github/last-commit/neul-labs/regulus)](https://github.com/neul-labs/regulus)** <kbd>★ 7</kbd> <kbd>MIT</kbd> 🟢<br>Google ADK plugin suite that adds runtime compliance profiles, audit envelopes and GRC adapters for regulated Java AI agents.
+> **[Regulus ![GitHub Repo Stars](https://img.shields.io/github/stars/neul-labs/regulus) ![GitHub last commit](https://img.shields.io/github/last-commit/neul-labs/regulus)](https://github.com/neul-labs/regulus)** <kbd>★ 6</kbd> <kbd>MIT</kbd> 🟢<br>Google ADK plugin suite that adds runtime compliance profiles, audit envelopes and GRC adapters for regulated Java AI agents.
 
 > **[simple-openai ![GitHub Repo Stars](https://img.shields.io/github/stars/sashirestela/simple-openai) ![GitHub last commit](https://img.shields.io/github/last-commit/sashirestela/simple-openai)](https://github.com/sashirestela/simple-openai)** <kbd>★ 380</kbd> <kbd>MIT</kbd> 🟠<br>Library to use the OpenAI API (and compatible ones) in the simplest possible way.
 
@@ -111,7 +111,7 @@ _Tools that handle the build cycle and dependencies of an application._
 
 > **[Docker Maven Plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/fabric8io/docker-maven-plugin) ![GitHub last commit](https://img.shields.io/github/last-commit/fabric8io/docker-maven-plugin)](https://github.com/fabric8io/docker-maven-plugin)** <kbd>★ 1.9k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Builds and runs Docker images from Maven.
 
-> **[Eclipse JKube ![GitHub Repo Stars](https://img.shields.io/github/stars/eclipse-jkube/jkube) ![GitHub last commit](https://img.shields.io/github/last-commit/eclipse-jkube/jkube)](https://github.com/eclipse-jkube/jkube)** <kbd>★ 851</kbd> <kbd>EPL-2.0</kbd> 🟢<br>Maven and Gradle plugins for building and deploying Java applications on Kubernetes.
+> **[Eclipse JKube ![GitHub Repo Stars](https://img.shields.io/github/stars/eclipse-jkube/jkube) ![GitHub last commit](https://img.shields.io/github/last-commit/eclipse-jkube/jkube)](https://github.com/eclipse-jkube/jkube)** <kbd>★ 850</kbd> <kbd>EPL-2.0</kbd> 🟢<br>Maven and Gradle plugins for building and deploying Java applications on Kubernetes.
 
 > **[Frontend Maven Plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/eirslett/frontend-maven-plugin) ![GitHub last commit](https://img.shields.io/github/last-commit/eirslett/frontend-maven-plugin)](https://github.com/eirslett/frontend-maven-plugin)** <kbd>★ 4.4k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Installs and runs Node.js frontend tooling from Maven builds.
 
@@ -146,11 +146,11 @@ _Libraries to manipulate bytecode programmatically._
 
 > **[bytecode-viewer ![GitHub Repo Stars](https://img.shields.io/github/stars/Konloch/bytecode-viewer) ![GitHub last commit](https://img.shields.io/github/last-commit/Konloch/bytecode-viewer)](https://github.com/Konloch/bytecode-viewer)** <kbd>★ 15.6k</kbd> <kbd>GPL-3.0</kbd> 🟢<br>Java 8 Jar & Android APK reverse engineering suite.
 
-> **[Byteman ![GitHub Repo Stars](https://img.shields.io/github/stars/bytemanproject/byteman) ![GitHub last commit](https://img.shields.io/github/last-commit/bytemanproject/byteman)](https://github.com/bytemanproject/byteman)** <kbd>★ 513</kbd> 🟢<br>Manipulate bytecode at runtime via DSL (rules); mainly for testing/troubleshooting. (LGPL-2.1-or-later)
+> **[Byteman ![GitHub Repo Stars](https://img.shields.io/github/stars/bytemanproject/byteman) ![GitHub last commit](https://img.shields.io/github/last-commit/bytemanproject/byteman)](https://github.com/bytemanproject/byteman)** <kbd>★ 514</kbd> 🟢<br>Manipulate bytecode at runtime via DSL (rules); mainly for testing/troubleshooting. (LGPL-2.1-or-later)
 
 > **[Javassist ![GitHub Repo Stars](https://img.shields.io/github/stars/jboss-javassist/javassist) ![GitHub last commit](https://img.shields.io/github/last-commit/jboss-javassist/javassist)](https://github.com/jboss-javassist/javassist)** <kbd>★ 4.2k</kbd> 🟢<br>Tries to simplify bytecode editing.
 
-> **[Maker ![GitHub Repo Stars](https://img.shields.io/github/stars/cojen/maker) ![GitHub last commit](https://img.shields.io/github/last-commit/cojen/maker)](https://github.com/cojen/maker)** <kbd>★ 70</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Provides low level bytecode generation.
+> **[Maker ![GitHub Repo Stars](https://img.shields.io/github/stars/cojen/maker) ![GitHub last commit](https://img.shields.io/github/last-commit/cojen/maker)](https://github.com/cojen/maker)** <kbd>★ 72</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Provides low level bytecode generation.
 
 > **[Recaf ![GitHub Repo Stars](https://img.shields.io/github/stars/Col-E/Recaf) ![GitHub last commit](https://img.shields.io/github/last-commit/Col-E/Recaf)](https://github.com/Col-E/Recaf)** <kbd>★ 7.3k</kbd> <kbd>MIT</kbd> 🟢<br>JVM reverse engineering toolkit, essentially an IDE for Java bytecode.
 
@@ -161,7 +161,7 @@ _Libraries to manipulate bytecode programmatically._
 
 _Libraries that provide caching facilities._
 
-> **[cache2k ![GitHub Repo Stars](https://img.shields.io/github/stars/cache2k/cache2k) ![GitHub last commit](https://img.shields.io/github/last-commit/cache2k/cache2k)](https://github.com/cache2k/cache2k)** <kbd>★ 743</kbd> <kbd>Apache-2.0</kbd> 🔴<br>In-memory high performance caching library.
+> **[cache2k ![GitHub Repo Stars](https://img.shields.io/github/stars/cache2k/cache2k) ![GitHub last commit](https://img.shields.io/github/last-commit/cache2k/cache2k)](https://github.com/cache2k/cache2k)** <kbd>★ 742</kbd> <kbd>Apache-2.0</kbd> 🔴<br>In-memory high performance caching library.
 
 > **[Caffeine ![GitHub Repo Stars](https://img.shields.io/github/stars/ben-manes/caffeine) ![GitHub last commit](https://img.shields.io/github/last-commit/ben-manes/caffeine)](https://github.com/ben-manes/caffeine)** <kbd>★ 17.8k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>High-performance, near-optimal caching library.
 
@@ -184,7 +184,7 @@ _Libraries to assist with parsing command line arguments._
 
 > **[Airline ![GitHub Repo Stars](https://img.shields.io/github/stars/rvesse/airline) ![GitHub last commit](https://img.shields.io/github/last-commit/rvesse/airline)](https://github.com/rvesse/airline)** <kbd>★ 145</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Annotation-based framework for parsing Git-like command-line arguments.
 
-> **[jbock ![GitHub Repo Stars](https://img.shields.io/github/stars/jbock-java/jbock) ![GitHub last commit](https://img.shields.io/github/last-commit/jbock-java/jbock)](https://github.com/jbock-java/jbock)** <kbd>★ 92</kbd> <kbd>MIT</kbd> 🟠<br>Reflectionless command line parser.
+> **[jbock ![GitHub Repo Stars](https://img.shields.io/github/stars/jbock-java/jbock) ![GitHub last commit](https://img.shields.io/github/last-commit/jbock-java/jbock)](https://github.com/jbock-java/jbock)** <kbd>★ 94</kbd> <kbd>MIT</kbd> 🟢<br>Reflectionless command line parser.
 
 > **[JCommander ![GitHub Repo Stars](https://img.shields.io/github/stars/cbeust/jcommander) ![GitHub last commit](https://img.shields.io/github/last-commit/cbeust/jcommander)](https://github.com/cbeust/jcommander)** <kbd>★ 2.0k</kbd> <kbd>Apache-2.0</kbd> 🟠<br>Command-line argument-parsing framework with custom types and validation via implementing interfaces.
 
@@ -215,7 +215,7 @@ _Libraries to integrate or use cloud-specific features._
 
 > **[Google Cloud Client Libraries ![GitHub Repo Stars](https://img.shields.io/github/stars/googleapis/google-cloud-java) ![GitHub last commit](https://img.shields.io/github/last-commit/googleapis/google-cloud-java)](https://github.com/googleapis/google-cloud-java)** <kbd>★ 2.1k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Client libraries for accessing Google Cloud services from Java applications.
 
-> **[Java Operator SDK ![GitHub Repo Stars](https://img.shields.io/github/stars/operator-framework/java-operator-sdk) ![GitHub last commit](https://img.shields.io/github/last-commit/operator-framework/java-operator-sdk)](https://github.com/operator-framework/java-operator-sdk)** <kbd>★ 935</kbd> <kbd>Apache-2.0</kbd> ��<br>SDK for implementing Kubernetes operators in Java.
+> **[Java Operator SDK ![GitHub Repo Stars](https://img.shields.io/github/stars/operator-framework/java-operator-sdk) ![GitHub last commit](https://img.shields.io/github/last-commit/operator-framework/java-operator-sdk)](https://github.com/operator-framework/java-operator-sdk)** <kbd>★ 936</kbd> <kbd>Apache-2.0</kbd> ��<br>SDK for implementing Kubernetes operators in Java.
 
 > **[Kubernetes Java Client ![GitHub Repo Stars](https://img.shields.io/github/stars/kubernetes-client/java) ![GitHub last commit](https://img.shields.io/github/last-commit/kubernetes-client/java)](https://github.com/kubernetes-client/java)** <kbd>★ 4.0k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Official Java client for the Kubernetes API.
 
@@ -240,7 +240,7 @@ _Tools that provide metrics and quality measurements._
 
 > **[JSpecify ![GitHub Repo Stars](https://img.shields.io/github/stars/jspecify/jspecify) ![GitHub last commit](https://img.shields.io/github/last-commit/jspecify/jspecify)](https://github.com/jspecify/jspecify)** <kbd>★ 1.1k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Standardized nullness annotations designed to work uniformly across various Java IDEs, compilers, and static analysis tools.
 
-> **[Modernizer ![GitHub Repo Stars](https://img.shields.io/github/stars/gaul/modernizer-maven-plugin) ![GitHub last commit](https://img.shields.io/github/last-commit/gaul/modernizer-maven-plugin)](https://github.com/gaul/modernizer-maven-plugin)** <kbd>★ 390</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Detect uses of legacy Java APIs.
+> **[Modernizer ![GitHub Repo Stars](https://img.shields.io/github/stars/gaul/modernizer-maven-plugin) ![GitHub last commit](https://img.shields.io/github/last-commit/gaul/modernizer-maven-plugin)](https://github.com/gaul/modernizer-maven-plugin)** <kbd>★ 391</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Detect uses of legacy Java APIs.
 
 > **[Mutability Detector ![GitHub Repo Stars](https://img.shields.io/github/stars/MutabilityDetector/MutabilityDetector) ![GitHub last commit](https://img.shields.io/github/last-commit/MutabilityDetector/MutabilityDetector)](https://github.com/MutabilityDetector/MutabilityDetector)** <kbd>★ 246</kbd> <kbd>Apache-2.0</kbd> 🟠<br>Reports whether instances of a given class are immutable.
 
@@ -248,11 +248,11 @@ _Tools that provide metrics and quality measurements._
 
 > **[OpenRewrite ![GitHub Repo Stars](https://img.shields.io/github/stars/openrewrite/rewrite) ![GitHub last commit](https://img.shields.io/github/last-commit/openrewrite/rewrite)](https://github.com/openrewrite/rewrite)** <kbd>★ 3.6k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Automates large-scale source-code refactoring through reusable recipes.
 
-> **[OpenTaint ![GitHub Repo Stars](https://img.shields.io/github/stars/seqra/opentaint) ![GitHub last commit](https://img.shields.io/github/last-commit/seqra/opentaint)](https://github.com/seqra/opentaint)** <kbd>★ 121</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Interprocedural taint analyzer for Java and Spring applications with reusable security rules and dependency models.
+> **[OpenTaint ![GitHub Repo Stars](https://img.shields.io/github/stars/seqra/opentaint) ![GitHub last commit](https://img.shields.io/github/last-commit/seqra/opentaint)](https://github.com/seqra/opentaint)** <kbd>★ 126</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Interprocedural taint analyzer for Java and Spring applications with reusable security rules and dependency models.
 
 > **[PMD ![GitHub Repo Stars](https://img.shields.io/github/stars/pmd/pmd) ![GitHub last commit](https://img.shields.io/github/last-commit/pmd/pmd)](https://github.com/pmd/pmd)** <kbd>★ 5.5k</kbd> 🟢<br>Source code analysis for finding bad coding practices.
 
-> **[RefactorFirst ![GitHub Repo Stars](https://img.shields.io/github/stars/jimbethancourt/RefactorFirst) ![GitHub last commit](https://img.shields.io/github/last-commit/jimbethancourt/RefactorFirst)](https://github.com/jimbethancourt/RefactorFirst)** <kbd>★ 538</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Identifies and prioritizes God Classes and Highly Coupled classes.
+> **[RefactorFirst ![GitHub Repo Stars](https://img.shields.io/github/stars/jimbethancourt/RefactorFirst) ![GitHub last commit](https://img.shields.io/github/last-commit/jimbethancourt/RefactorFirst)](https://github.com/jimbethancourt/RefactorFirst)** <kbd>★ 542</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Identifies and prioritizes God Classes and Highly Coupled classes.
 
 > **[SonarJava ![GitHub Repo Stars](https://img.shields.io/github/stars/SonarSource/sonar-java) ![GitHub last commit](https://img.shields.io/github/last-commit/SonarSource/sonar-java)](https://github.com/SonarSource/sonar-java)** <kbd>★ 1.2k</kbd> 🟢<br>Static analyzer for SonarQube & SonarLint. (LGPL-3.0-only)
 
@@ -286,7 +286,7 @@ _Tools that format or restructure Java source code._
 
 > **[JHarmonizer ![GitHub Repo Stars](https://img.shields.io/github/stars/lemon-ant/JHarmonizer) ![GitHub last commit](https://img.shields.io/github/last-commit/lemon-ant/JHarmonizer)](https://github.com/lemon-ant/JHarmonizer)** <kbd>★ 26</kbd> 🟢<br>Safely reorders Java source code with configurable rules and Palantir Java Format.
 
-> **[Palantir Java Format ![GitHub Repo Stars](https://img.shields.io/github/stars/palantir/palantir-java-format) ![GitHub last commit](https://img.shields.io/github/last-commit/palantir/palantir-java-format)](https://github.com/palantir/palantir-java-format)** <kbd>★ 847</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Formatter based on google-java-format with wider lines and lambda-friendly output.
+> **[Palantir Java Format ![GitHub Repo Stars](https://img.shields.io/github/stars/palantir/palantir-java-format) ![GitHub last commit](https://img.shields.io/github/last-commit/palantir/palantir-java-format)](https://github.com/palantir/palantir-java-format)** <kbd>★ 856</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Formatter based on google-java-format with wider lines and lambda-friendly output.
 
 > **[Spotless ![GitHub Repo Stars](https://img.shields.io/github/stars/diffplug/spotless) ![GitHub last commit](https://img.shields.io/github/last-commit/diffplug/spotless)](https://github.com/diffplug/spotless)** <kbd>★ 5.6k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>A versatile code formatter for Gradle and Maven that enforces multiple styles (including Google and Palantir) across Java and other languages.
 
@@ -305,9 +305,9 @@ _Tools that generate patterns for repetitive code in order to reduce verbosity a
 
 > **[Chocotea ![GitHub Repo Stars](https://img.shields.io/github/stars/cleopatra27/chocotea) ![GitHub last commit](https://img.shields.io/github/last-commit/cleopatra27/chocotea)](https://github.com/cleopatra27/chocotea)** <kbd>★ 48</kbd> <kbd>Apache-2.0</kbd> 🔴<br>Generates postman collection, environment and integration tests from java code.
 
-> **[CRUDGen ![GitHub Repo Stars](https://img.shields.io/github/stars/bariskokulu/CRUDGen) ![GitHub last commit](https://img.shields.io/github/last-commit/bariskokulu/CRUDGen)](https://github.com/bariskokulu/CRUDGen)** <kbd>★ 10</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Compile-time annotation processor generating CRUD layers, DTOs, JSON Patch, and custom HTTP endpoints for Spring Boot.
+> **[CRUDGen ![GitHub Repo Stars](https://img.shields.io/github/stars/bariskokulu/CRUDGen) ![GitHub last commit](https://img.shields.io/github/last-commit/bariskokulu/CRUDGen)](https://github.com/bariskokulu/CRUDGen)** <kbd>★ 11</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Compile-time annotation processor generating CRUD layers, DTOs, JSON Patch, and custom HTTP endpoints for Spring Boot.
 
-> **[EasyEntityToDTO ![GitHub Repo Stars](https://img.shields.io/github/stars/Marcel091004/EasyEntityToDTO) ![GitHub last commit](https://img.shields.io/github/last-commit/Marcel091004/EasyEntityToDTO)](https://github.com/Marcel091004/EasyEntityToDTO)** <kbd>★ 10</kbd> <kbd>MIT</kbd> 🟠<br>Annotation processor for automatic DTO and Mapper generation with zero boilerplate.
+> **[EasyEntityToDTO ![GitHub Repo Stars](https://img.shields.io/github/stars/Marcel091004/EasyEntityToDTO) ![GitHub last commit](https://img.shields.io/github/last-commit/Marcel091004/EasyEntityToDTO)](https://github.com/Marcel091004/EasyEntityToDTO)** <kbd>★ 11</kbd> <kbd>MIT</kbd> 🟠<br>Annotation processor for automatic DTO and Mapper generation with zero boilerplate.
 
 > **[Geci ![GitHub Repo Stars](https://img.shields.io/github/stars/verhas/javageci) ![GitHub last commit](https://img.shields.io/github/last-commit/verhas/javageci)](https://github.com/verhas/javageci)** <kbd>★ 138</kbd> <kbd>Apache-2.0</kbd> 🟠<br>Discovers files that need generated code, updates automatically and writes to the source with a convenient API.
 
@@ -321,15 +321,15 @@ _Tools that generate patterns for repetitive code in order to reduce verbosity a
 
 > **[JPA Buddy](https://www.jpa-buddy.com)**<br>Plugin for IntelliJ IDEA. Provides visual tools for generating JPA entities, Spring Data JPA repositories, Liquibase changelogs and SQL scripts. Offers automatic Liquibase/Flyway script generation by comparing model to DB, and reverse engineering JPA entities from DB tables.
 
-> **[jsonschema2pojo ![GitHub Repo Stars](https://img.shields.io/github/stars/joelittlejohn/jsonschema2pojo) ![GitHub last commit](https://img.shields.io/github/last-commit/joelittlejohn/jsonschema2pojo)](https://github.com/joelittlejohn/jsonschema2pojo)** <kbd>★ 6.4k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Generates Java types from JSON Schema or example JSON.
+> **[jsonschema2pojo ![GitHub Repo Stars](https://img.shields.io/github/stars/joelittlejohn/jsonschema2pojo) ![GitHub last commit](https://img.shields.io/github/last-commit/joelittlejohn/jsonschema2pojo)](https://github.com/joelittlejohn/jsonschema2pojo)** <kbd>★ 6.4k</kbd> <kbd>Apache-2.0</kbd> 🟠<br>Generates Java types from JSON Schema or example JSON.
 
 > **[JSpecify Package-Info Generator ![GitHub Repo Stars](https://img.shields.io/github/stars/bcaillard/jspecify-packageinfo-generator) ![GitHub last commit](https://img.shields.io/github/last-commit/bcaillard/jspecify-packageinfo-generator)](https://github.com/bcaillard/jspecify-packageinfo-generator)** <kbd>★ 4</kbd> <kbd>Apache-2.0</kbd> 🟠<br>Maven plugin that automatically generates package-info.java files with JSpecify annotations (@NullMarked and @NullUnmarked), helping you manage nullness boundaries in your Java projects without manual boilerplate.
 
 > **[Lombok ![GitHub Repo Stars](https://img.shields.io/github/stars/projectlombok/lombok) ![GitHub last commit](https://img.shields.io/github/last-commit/projectlombok/lombok)](https://github.com/projectlombok/lombok)** <kbd>★ 13.5k</kbd> 🟢<br>Code generator that aims to reduce verbosity.
 
-> **[Record-Builder ![GitHub Repo Stars](https://img.shields.io/github/stars/Randgalt/record-builder) ![GitHub last commit](https://img.shields.io/github/last-commit/Randgalt/record-builder)](https://github.com/Randgalt/record-builder)** <kbd>★ 924</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Companion builder class, withers and templates for Java records.
+> **[Record-Builder ![GitHub Repo Stars](https://img.shields.io/github/stars/Randgalt/record-builder) ![GitHub last commit](https://img.shields.io/github/last-commit/Randgalt/record-builder)](https://github.com/Randgalt/record-builder)** <kbd>★ 925</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Companion builder class, withers and templates for Java records.
 
-> **[Spring CRUD Generator ![GitHub Repo Stars](https://img.shields.io/github/stars/mzivkovicdev/spring-crud-generator) ![GitHub last commit](https://img.shields.io/github/last-commit/mzivkovicdev/spring-crud-generator)](https://github.com/mzivkovicdev/spring-crud-generator)** <kbd>★ 37</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Maven plugin for generating Spring Boot CRUD applications from YAML/JSON specifications.
+> **[Spring CRUD Generator ![GitHub Repo Stars](https://img.shields.io/github/stars/mzivkovicdev/spring-crud-generator) ![GitHub last commit](https://img.shields.io/github/last-commit/mzivkovicdev/spring-crud-generator)](https://github.com/mzivkovicdev/spring-crud-generator)** <kbd>★ 38</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Maven plugin for generating Spring Boot CRUD applications from YAML/JSON specifications.
 
 > **[Telosys](https://www.telosys.org/)** <kbd>★ 212</kbd> <kbd>LGPL-3.0</kbd> 🟠<br>Java code-generation toolkit with a CLI and model-driven template engine.
 
@@ -366,9 +366,9 @@ _Libraries which seek to gain high level information from images and videos._
 
 _Libraries that provide external configuration._
 
-> **[avaje config ![GitHub Repo Stars](https://img.shields.io/github/stars/avaje/avaje-config) ![GitHub last commit](https://img.shields.io/github/last-commit/avaje/avaje-config)](https://github.com/avaje/avaje-config)** <kbd>★ 107</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Loads yaml and properties files, supports dynamic configuration, plugins, file-watching and config event listeners.
+> **[avaje config ![GitHub Repo Stars](https://img.shields.io/github/stars/avaje/avaje-config) ![GitHub last commit](https://img.shields.io/github/last-commit/avaje/avaje-config)](https://github.com/avaje/avaje-config)** <kbd>★ 108</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Loads yaml and properties files, supports dynamic configuration, plugins, file-watching and config event listeners.
 
-> **[centraldogma ![GitHub Repo Stars](https://img.shields.io/github/stars/line/centraldogma) ![GitHub last commit](https://img.shields.io/github/last-commit/line/centraldogma)](https://github.com/line/centraldogma)** <kbd>★ 663</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Highly-available version-controlled service configuration repository based on Git, ZooKeeper and HTTP/2.
+> **[centraldogma ![GitHub Repo Stars](https://img.shields.io/github/stars/line/centraldogma) ![GitHub last commit](https://img.shields.io/github/last-commit/line/centraldogma)](https://github.com/line/centraldogma)** <kbd>★ 665</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Highly-available version-controlled service configuration repository based on Git, ZooKeeper and HTTP/2.
 
 > **[ClearConfig ![GitHub Repo Stars](https://img.shields.io/github/stars/japgolly/clear-config-java) ![GitHub last commit](https://img.shields.io/github/last-commit/japgolly/clear-config-java)](https://github.com/japgolly/clear-config-java)** <kbd>★ 9</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Type-safe, composable configuration library with a focus on runtime clarity.
 
@@ -414,9 +414,9 @@ _Libraries that help with implementing optimization and satisfiability problems.
 
 _Frameworks and libraries that simplify reading/writing CSV data._
 
-> **[FastCSV ![GitHub Repo Stars](https://img.shields.io/github/stars/osiegmar/FastCSV) ![GitHub last commit](https://img.shields.io/github/last-commit/osiegmar/FastCSV)](https://github.com/osiegmar/FastCSV)** <kbd>★ 689</kbd> <kbd>MIT</kbd> 🟢<br>Performance-optimized, dependency-free and RFC 4180 compliant.
+> **[FastCSV ![GitHub Repo Stars](https://img.shields.io/github/stars/osiegmar/FastCSV) ![GitHub last commit](https://img.shields.io/github/last-commit/osiegmar/FastCSV)](https://github.com/osiegmar/FastCSV)** <kbd>★ 690</kbd> <kbd>MIT</kbd> 🟢<br>Performance-optimized, dependency-free and RFC 4180 compliant.
 
-> **[jackson-dataformat-csv ![GitHub Repo Stars](https://img.shields.io/github/stars/FasterXML/jackson-dataformats-text) ![GitHub last commit](https://img.shields.io/github/last-commit/FasterXML/jackson-dataformats-text)](https://github.com/FasterXML/jackson-dataformats-text)** <kbd>★ 453</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Jackson extension for reading and writing CSV.
+> **[jackson-dataformat-csv ![GitHub Repo Stars](https://img.shields.io/github/stars/FasterXML/jackson-dataformats-text) ![GitHub last commit](https://img.shields.io/github/last-commit/FasterXML/jackson-dataformats-text)](https://github.com/FasterXML/jackson-dataformats-text)** <kbd>★ 454</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Jackson extension for reading and writing CSV.
 
 > **[opencsv](https://opencsv.sourceforge.net)**<br>Simple CSV parser.
 
@@ -454,7 +454,7 @@ _Efficient and specific data structures._
 
 > **[HashSmith ![GitHub Repo Stars](https://img.shields.io/github/stars/bluuewhale/hash-smith) ![GitHub last commit](https://img.shields.io/github/last-commit/bluuewhale/hash-smith)](https://github.com/bluuewhale/hash-smith)** <kbd>★ 106</kbd> <kbd>MIT</kbd> 🟠<br>Hash map and set implementations using SwissTable-style SWAR/SIMD control-byte probing, optimized for memory efficiency.
 
-> **[Persistent Collection ![GitHub Repo Stars](https://img.shields.io/github/stars/hrldcpr/pcollections) ![GitHub last commit](https://img.shields.io/github/last-commit/hrldcpr/pcollections)](https://github.com/hrldcpr/pcollections)** <kbd>★ 785</kbd> 🔴<br>Persistent and immutable analogue of the Java Collections Framework.
+> **[Persistent Collection ![GitHub Repo Stars](https://img.shields.io/github/stars/hrldcpr/pcollections) ![GitHub last commit](https://img.shields.io/github/last-commit/hrldcpr/pcollections)](https://github.com/hrldcpr/pcollections)** <kbd>★ 787</kbd> 🔴<br>Persistent and immutable analogue of the Java Collections Framework.
 
 > **[RoaringBitmap ![GitHub Repo Stars](https://img.shields.io/github/stars/RoaringBitmap/RoaringBitmap) ![GitHub last commit](https://img.shields.io/github/last-commit/RoaringBitmap/RoaringBitmap)](https://github.com/RoaringBitmap/RoaringBitmap)** <kbd>★ 3.9k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Fast and efficient compressed bitmap.
 
@@ -483,7 +483,7 @@ _Everything that simplifies interactions with the database._
 
 > **[ArangoDB ![GitHub Repo Stars](https://img.shields.io/github/stars/arangodb/arangodb-java-driver) ![GitHub last commit](https://img.shields.io/github/last-commit/arangodb/arangodb-java-driver)](https://github.com/arangodb/arangodb-java-driver)** <kbd>★ 209</kbd> <kbd>Apache-2.0</kbd> 🟢<br>ArangoDB Java driver.
 
-> **[ArcadeDB ![GitHub Repo Stars](https://img.shields.io/github/stars/ArcadeData/arcadedb) ![GitHub last commit](https://img.shields.io/github/last-commit/ArcadeData/arcadedb)](https://github.com/ArcadeData/arcadedb)** <kbd>★ 1.0k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Multi-model database supporting graphs, documents, key-value, time series, and vector embeddings with SQL, Cypher, Gremlin, MongoDB, and Redis API compatibility.
+> **[ArcadeDB ![GitHub Repo Stars](https://img.shields.io/github/stars/ArcadeData/arcadedb) ![GitHub last commit](https://img.shields.io/github/last-commit/ArcadeData/arcadedb)](https://github.com/ArcadeData/arcadedb)** <kbd>★ 1.1k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Multi-model database supporting graphs, documents, key-value, time series, and vector embeddings with SQL, Cypher, Gremlin, MongoDB, and Redis API compatibility.
 
 > **[Chronicle Map ![GitHub Repo Stars](https://img.shields.io/github/stars/OpenHFT/Chronicle-Map) ![GitHub last commit](https://img.shields.io/github/last-commit/OpenHFT/Chronicle-Map)](https://github.com/OpenHFT/Chronicle-Map)** <kbd>★ 3.0k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Efficient, in-memory (opt. persisted to disk), off-heap key-value store.
 
@@ -515,7 +515,7 @@ _Everything that simplifies interactions with the database._
 
 > **[jetcd ![GitHub Repo Stars](https://img.shields.io/github/stars/etcd-io/jetcd) ![GitHub last commit](https://img.shields.io/github/last-commit/etcd-io/jetcd)](https://github.com/etcd-io/jetcd)** <kbd>★ 1.2k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Java client for etcd v3.
 
-> **[Jinq ![GitHub Repo Stars](https://img.shields.io/github/stars/my2iu/Jinq) ![GitHub last commit](https://img.shields.io/github/last-commit/my2iu/Jinq)](https://github.com/my2iu/Jinq)** <kbd>★ 662</kbd> 🔴<br>Typesafe database queries via symbolic execution of Java 8 Lambdas (on top of JPA or jOOQ).
+> **[Jinq ![GitHub Repo Stars](https://img.shields.io/github/stars/my2iu/Jinq) ![GitHub last commit](https://img.shields.io/github/last-commit/my2iu/Jinq)](https://github.com/my2iu/Jinq)** <kbd>★ 661</kbd> 🔴<br>Typesafe database queries via symbolic execution of Java 8 Lambdas (on top of JPA or jOOQ).
 
 > **[jOOQ ![GitHub Repo Stars](https://img.shields.io/github/stars/jOOQ/jOOQ) ![GitHub last commit](https://img.shields.io/github/last-commit/jOOQ/jOOQ)](https://github.com/jOOQ/jOOQ)** <kbd>★ 6.8k</kbd> 🟢<br>Generates typesafe code based on SQL schema.
 
@@ -533,7 +533,7 @@ _Everything that simplifies interactions with the database._
 
 > **[ObjectBox ![GitHub Repo Stars](https://img.shields.io/github/stars/objectbox/objectbox-java) ![GitHub last commit](https://img.shields.io/github/last-commit/objectbox/objectbox-java)](https://github.com/objectbox/objectbox-java)** <kbd>★ 4.6k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Embedded object and vector database for Java and Android.
 
-> **[Open J Proxy ![GitHub Repo Stars](https://img.shields.io/github/stars/Open-J-Proxy/ojp) ![GitHub last commit](https://img.shields.io/github/last-commit/Open-J-Proxy/ojp)](https://github.com/Open-J-Proxy/ojp)** <kbd>★ 218</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Type 3 JDBC driver and Layer 7 proxy server for decoupling applications from relational database connection management.
+> **[Open J Proxy ![GitHub Repo Stars](https://img.shields.io/github/stars/Open-J-Proxy/ojp) ![GitHub last commit](https://img.shields.io/github/last-commit/Open-J-Proxy/ojp)](https://github.com/Open-J-Proxy/ojp)** <kbd>★ 219</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Type 3 JDBC driver and Layer 7 proxy server for decoupling applications from relational database connection management.
 
 > **[OpenDJ ![GitHub Repo Stars](https://img.shields.io/github/stars/OpenIdentityPlatform/OpenDJ) ![GitHub last commit](https://img.shields.io/github/last-commit/OpenIdentityPlatform/OpenDJ)](https://github.com/OpenIdentityPlatform/OpenDJ)** <kbd>★ 435</kbd> 🟢<br>LDAPv3 compliant directory service, developed for the Java platform, providing a high performance, highly available, and secure store for the identities.
 
@@ -557,7 +557,7 @@ _Everything that simplifies interactions with the database._
 
 > **[Spring Data JPA MongoDB Expressions ![GitHub Repo Stars](https://img.shields.io/github/stars/mhewedy/spring-data-jpa-mongodb-expressions) ![GitHub last commit](https://img.shields.io/github/last-commit/mhewedy/spring-data-jpa-mongodb-expressions)](https://github.com/mhewedy/spring-data-jpa-mongodb-expressions)** <kbd>★ 104</kbd> <kbd>Apache-2.0</kbd> 🟠<br>Allows you to use MongoDB query language to query your relational database.
 
-> **[StarRocks ![GitHub Repo Stars](https://img.shields.io/github/stars/StarRocks/starrocks) ![GitHub last commit](https://img.shields.io/github/last-commit/StarRocks/starrocks)](https://github.com/StarRocks/starrocks)** <kbd>★ 11.9k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Distributed SQL query engine for real-time analytics and data lakehouses.
+> **[StarRocks ![GitHub Repo Stars](https://img.shields.io/github/stars/StarRocks/starrocks) ![GitHub last commit](https://img.shields.io/github/last-commit/StarRocks/starrocks)](https://github.com/StarRocks/starrocks)** <kbd>★ 12.0k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Distributed SQL query engine for real-time analytics and data lakehouses.
 
 > **[Trino ![GitHub Repo Stars](https://img.shields.io/github/stars/trinodb/trino) ![GitHub last commit](https://img.shields.io/github/last-commit/trinodb/trino)](https://github.com/trinodb/trino)** <kbd>★ 13.1k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Distributed SQL query engine for big data.
 
@@ -578,7 +578,7 @@ _Libraries related to handling date and time._
 
 > **[ThreeTen-Extra ![GitHub Repo Stars](https://img.shields.io/github/stars/ThreeTen/threeten-extra) ![GitHub last commit](https://img.shields.io/github/last-commit/ThreeTen/threeten-extra)](https://github.com/ThreeTen/threeten-extra)** <kbd>★ 423</kbd> <kbd>BSD-3-Clause</kbd> 🟢<br>Additional date-time classes that complement those in JDK 8.
 
-> **[Time4J ![GitHub Repo Stars](https://img.shields.io/github/stars/MenoData/Time4J) ![GitHub last commit](https://img.shields.io/github/last-commit/MenoData/Time4J)](https://github.com/MenoData/Time4J)** <kbd>★ 470</kbd> <kbd>LGPL-2.1</kbd> 🔴<br>Advanced date and time library.
+> **[Time4J ![GitHub Repo Stars](https://img.shields.io/github/stars/MenoData/Time4J) ![GitHub last commit](https://img.shields.io/github/last-commit/MenoData/Time4J)](https://github.com/MenoData/Time4J)** <kbd>★ 471</kbd> <kbd>LGPL-2.1</kbd> 🔴<br>Advanced date and time library.
 
 </details>
 
@@ -602,9 +602,9 @@ _Libraries for decompiling JVM bytecode._
 
 > **[CFR ![GitHub Repo Stars](https://img.shields.io/github/stars/leibnitz27/cfr) ![GitHub last commit](https://img.shields.io/github/last-commit/leibnitz27/cfr)](https://github.com/leibnitz27/cfr)** <kbd>★ 2.6k</kbd> <kbd>MIT</kbd> 🟢<br>Java decompiler focused on modern language features.
 
-> **[Fernflower ![GitHub Repo Stars](https://img.shields.io/github/stars/JetBrains/fernflower) ![GitHub last commit](https://img.shields.io/github/last-commit/JetBrains/fernflower)](https://github.com/JetBrains/fernflower)** <kbd>★ 4.3k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Java decompiler with broad JVM bytecode support.
+> **[Fernflower ![GitHub Repo Stars](https://img.shields.io/github/stars/JetBrains/fernflower) ![GitHub last commit](https://img.shields.io/github/last-commit/JetBrains/fernflower)](https://github.com/JetBrains/fernflower)** <kbd>★ 4.4k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Java decompiler with broad JVM bytecode support.
 
-> **[jadx ![GitHub Repo Stars](https://img.shields.io/github/stars/skylot/jadx) ![GitHub last commit](https://img.shields.io/github/last-commit/skylot/jadx)](https://github.com/skylot/jadx)** <kbd>★ 49.8k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Dex-to-Java decompiler with command-line and graphical interfaces.
+> **[jadx ![GitHub Repo Stars](https://img.shields.io/github/stars/skylot/jadx) ![GitHub last commit](https://img.shields.io/github/last-commit/skylot/jadx)](https://github.com/skylot/jadx)** <kbd>★ 49.9k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Dex-to-Java decompiler with command-line and graphical interfaces.
 
 > **[transformer-api ![GitHub Repo Stars](https://img.shields.io/github/stars/nbauma109/transformer-api) ![GitHub last commit](https://img.shields.io/github/last-commit/nbauma109/transformer-api)](https://github.com/nbauma109/transformer-api)** <kbd>★ 3</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Unified API that exposes multiple decompilers through one in-memory transformation interface.
 
@@ -629,7 +629,7 @@ _Libraries that help to realize the [Inversion of Control](https://en.wikipedia.
 
 > **[Guice ![GitHub Repo Stars](https://img.shields.io/github/stars/google/guice) ![GitHub last commit](https://img.shields.io/github/last-commit/google/guice)](https://github.com/google/guice)** <kbd>★ 12.7k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Lightweight and opinionated framework that completes Dagger.
 
-> **[HK2 ![GitHub Repo Stars](https://img.shields.io/github/stars/eclipse-ee4j/glassfish-hk2) ![GitHub last commit](https://img.shields.io/github/last-commit/eclipse-ee4j/glassfish-hk2)](https://github.com/eclipse-ee4j/glassfish-hk2)** <kbd>★ 95</kbd> 🟢<br>Lightweight and dynamic dependency injection framework.
+> **[HK2 ![GitHub Repo Stars](https://img.shields.io/github/stars/eclipse-ee4j/glassfish-hk2) ![GitHub last commit](https://img.shields.io/github/last-commit/eclipse-ee4j/glassfish-hk2)](https://github.com/eclipse-ee4j/glassfish-hk2)** <kbd>★ 95</kbd> 🟠<br>Lightweight and dynamic dependency injection framework.
 
 </details>
 
@@ -642,15 +642,15 @@ _Augmentation of the development process at a fundamental level._
 
 > **[Faux Pas ![GitHub Repo Stars](https://img.shields.io/github/stars/zalando/faux-pas) ![GitHub last commit](https://img.shields.io/github/last-commit/zalando/faux-pas)](https://github.com/zalando/faux-pas)** <kbd>★ 143</kbd> <kbd>MIT</kbd> 🔴<br>Library that simplifies error handling by circumventing the issue that none of the functional interfaces in the Java Runtime is allowed by default to throw checked exceptions.
 
-> **[Ghidra ![GitHub Repo Stars](https://img.shields.io/github/stars/NationalSecurityAgency/ghidra) ![GitHub last commit](https://img.shields.io/github/last-commit/NationalSecurityAgency/ghidra)](https://github.com/NationalSecurityAgency/ghidra)** <kbd>★ 71.5k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Extensible software reverse-engineering framework with Java APIs and scripting.
+> **[Ghidra ![GitHub Repo Stars](https://img.shields.io/github/stars/NationalSecurityAgency/ghidra) ![GitHub last commit](https://img.shields.io/github/last-commit/NationalSecurityAgency/ghidra)](https://github.com/NationalSecurityAgency/ghidra)** <kbd>★ 71.8k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Extensible software reverse-engineering framework with Java APIs and scripting.
 
-> **[HotswapAgent ![GitHub Repo Stars](https://img.shields.io/github/stars/HotswapProjects/HotswapAgent) ![GitHub last commit](https://img.shields.io/github/last-commit/HotswapProjects/HotswapAgent)](https://github.com/HotswapProjects/HotswapAgent)** <kbd>★ 2.6k</kbd> <kbd>GPL-2.0</kbd> 🟠<br>Unlimited runtime class and resource redefinition.
+> **[HotswapAgent ![GitHub Repo Stars](https://img.shields.io/github/stars/HotswapProjects/HotswapAgent) ![GitHub last commit](https://img.shields.io/github/last-commit/HotswapProjects/HotswapAgent)](https://github.com/HotswapProjects/HotswapAgent)** <kbd>★ 2.6k</kbd> <kbd>GPL-2.0</kbd> 🟢<br>Unlimited runtime class and resource redefinition.
 
 > **[JavaParser ![GitHub Repo Stars](https://img.shields.io/github/stars/javaparser/javaparser) ![GitHub last commit](https://img.shields.io/github/last-commit/javaparser/javaparser)](https://github.com/javaparser/javaparser)** <kbd>★ 6.1k</kbd> 🟢<br>Parse, modify and generate Java code.
 
 > **[Jctx ![GitHub Repo Stars](https://img.shields.io/github/stars/Shashwat-Gupta57/jctx) ![GitHub last commit](https://img.shields.io/github/last-commit/Shashwat-Gupta57/jctx)](https://github.com/Shashwat-Gupta57/jctx)** <kbd>★ 6</kbd> <kbd>MIT</kbd> 🟠<br>Reads a Java project and generates a structured context file so AI tools can understand and help plan the codebase.
 
-> **[JGit ![GitHub Repo Stars](https://img.shields.io/github/stars/eclipse-jgit/jgit) ![GitHub last commit](https://img.shields.io/github/last-commit/eclipse-jgit/jgit)](https://github.com/eclipse-jgit/jgit)** <kbd>★ 413</kbd> 🟢<br>Lightweight, pure Java library implementing the Git version control system.
+> **[JGit ![GitHub Repo Stars](https://img.shields.io/github/stars/eclipse-jgit/jgit) ![GitHub last commit](https://img.shields.io/github/last-commit/eclipse-jgit/jgit)](https://github.com/eclipse-jgit/jgit)** <kbd>★ 414</kbd> 🟢<br>Lightweight, pure Java library implementing the Git version control system.
 
 > **[Manifold ![GitHub Repo Stars](https://img.shields.io/github/stars/manifold-systems/manifold) ![GitHub last commit](https://img.shields.io/github/last-commit/manifold-systems/manifold)](https://github.com/manifold-systems/manifold)** <kbd>★ 2.8k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Re-energizes Java with powerful features like type-safe metaprogramming, structural typing and extension methods.
 
@@ -687,7 +687,7 @@ _Libraries and frameworks for writing distributed and fault-tolerant application
 
 > **[resilience4j ![GitHub Repo Stars](https://img.shields.io/github/stars/resilience4j/resilience4j) ![GitHub last commit](https://img.shields.io/github/last-commit/resilience4j/resilience4j)](https://github.com/resilience4j/resilience4j)** <kbd>★ 10.7k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Functional fault tolerance library.
 
-> **[ScaleCube Services ![GitHub Repo Stars](https://img.shields.io/github/stars/scalecube/scalecube-services) ![GitHub last commit](https://img.shields.io/github/last-commit/scalecube/scalecube-services)](https://github.com/scalecube/scalecube-services)** <kbd>★ 638</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Embeddable Cluster-Membership library based on SWIM and gossip protocol.
+> **[ScaleCube Services ![GitHub Repo Stars](https://img.shields.io/github/stars/scalecube/scalecube-services) ![GitHub last commit](https://img.shields.io/github/last-commit/scalecube/scalecube-services)](https://github.com/scalecube/scalecube-services)** <kbd>★ 639</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Embeddable Cluster-Membership library based on SWIM and gossip protocol.
 
 </details>
 
@@ -711,7 +711,7 @@ _Distributed transactions provide a mechanism for ensuring consistency of data u
 
 _Tools that handle the distribution of applications in native formats._
 
-> **[Artipie ![GitHub Repo Stars](https://img.shields.io/github/stars/artipie/artipie) ![GitHub last commit](https://img.shields.io/github/last-commit/artipie/artipie)](https://github.com/artipie/artipie)** <kbd>★ 689</kbd> <kbd>MIT</kbd> 🟢<br>Binary artifact management toolkit which hosts them on the file system or S3.
+> **[Artipie ![GitHub Repo Stars](https://img.shields.io/github/stars/artipie/artipie) ![GitHub last commit](https://img.shields.io/github/last-commit/artipie/artipie)](https://github.com/artipie/artipie)** <kbd>★ 688</kbd> <kbd>MIT</kbd> 🟢<br>Binary artifact management toolkit which hosts them on the file system or S3.
 
 > **[Boxfuse](https://boxfuse.com)**<br>Deployment of JVM applications to AWS using the principles of immutable infrastructure.
 
@@ -719,13 +719,13 @@ _Tools that handle the distribution of applications in native formats._
 
 > **[Cloudsmith](https://cloudsmith.io)**<br>Fully managed package management SaaS with support for Maven/Gradle/SBT with a free tier.
 
-> **[Getdown ![GitHub Repo Stars](https://img.shields.io/github/stars/threerings/getdown) ![GitHub last commit](https://img.shields.io/github/last-commit/threerings/getdown)](https://github.com/threerings/getdown)** <kbd>★ 530</kbd> 🟢<br>System for deploying Java applications to end-user computers and keeping them up to date. Developed as an alternative to Java Web Start.
+> **[Getdown ![GitHub Repo Stars](https://img.shields.io/github/stars/threerings/getdown) ![GitHub last commit](https://img.shields.io/github/last-commit/threerings/getdown)](https://github.com/threerings/getdown)** <kbd>★ 529</kbd> 🟢<br>System for deploying Java applications to end-user computers and keeping them up to date. Developed as an alternative to Java Web Start.
 
-> **[IzPack ![GitHub Repo Stars](https://img.shields.io/github/stars/izpack/izpack) ![GitHub last commit](https://img.shields.io/github/last-commit/izpack/izpack)](https://github.com/izpack/izpack)** <kbd>★ 352</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Setup authoring tool for cross-platform deployments.
+> **[IzPack ![GitHub Repo Stars](https://img.shields.io/github/stars/izpack/izpack) ![GitHub last commit](https://img.shields.io/github/last-commit/izpack/izpack)](https://github.com/izpack/izpack)** <kbd>★ 353</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Setup authoring tool for cross-platform deployments.
 
 > **[JavaPackager ![GitHub Repo Stars](https://img.shields.io/github/stars/javapackager/JavaPackager) ![GitHub last commit](https://img.shields.io/github/last-commit/javapackager/JavaPackager)](https://github.com/javapackager/JavaPackager)** <kbd>★ 1.2k</kbd> <kbd>GPL-3.0</kbd> 🟠<br>Maven and Gradle plugin which provides an easy way to package Java applications in native Windows, macOS or GNU/Linux executables, and generate installers for them.
 
-> **[jDeploy ![GitHub Repo Stars](https://img.shields.io/github/stars/shannah/jdeploy) ![GitHub last commit](https://img.shields.io/github/last-commit/shannah/jdeploy)](https://github.com/shannah/jdeploy)** <kbd>★ 414</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Deploy desktop apps as native Mac, Windows or Linux bundles.
+> **[jDeploy ![GitHub Repo Stars](https://img.shields.io/github/stars/shannah/jdeploy) ![GitHub last commit](https://img.shields.io/github/last-commit/shannah/jdeploy)](https://github.com/shannah/jdeploy)** <kbd>★ 415</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Deploy desktop apps as native Mac, Windows or Linux bundles.
 
 > **[jlink.online ![GitHub Repo Stars](https://img.shields.io/github/stars/AdoptOpenJDK/jlink.online) ![GitHub last commit](https://img.shields.io/github/last-commit/AdoptOpenJDK/jlink.online)](https://github.com/AdoptOpenJDK/jlink.online)** <kbd>★ 51</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Builds optimized runtimes over HTTP.
 
@@ -752,11 +752,11 @@ _Libraries that assist with processing office document formats._
 
 > **[docx4j ![GitHub Repo Stars](https://img.shields.io/github/stars/plutext/docx4j) ![GitHub last commit](https://img.shields.io/github/last-commit/plutext/docx4j)](https://github.com/plutext/docx4j)** <kbd>★ 2.4k</kbd> 🟢<br>Create and manipulate Microsoft Open XML files.
 
-> **[html-to-markdown ![GitHub Repo Stars](https://img.shields.io/github/stars/xberg-io/html-to-markdown) ![GitHub last commit](https://img.shields.io/github/last-commit/xberg-io/html-to-markdown)](https://github.com/xberg-io/html-to-markdown)** <kbd>★ 814</kbd> <kbd>MIT</kbd> 🟢<br>Converts HTML to CommonMark-compatible Markdown through a Java binding.
+> **[html-to-markdown ![GitHub Repo Stars](https://img.shields.io/github/stars/xberg-io/html-to-markdown) ![GitHub last commit](https://img.shields.io/github/last-commit/xberg-io/html-to-markdown)](https://github.com/xberg-io/html-to-markdown)** <kbd>★ 822</kbd> <kbd>MIT</kbd> 🟢<br>Converts HTML to CommonMark-compatible Markdown through a Java binding.
 
 > **[JQuick Excel ![GitHub Repo Stars](https://img.shields.io/github/stars/paohaijiao/jquick-excel) ![GitHub last commit](https://img.shields.io/github/last-commit/paohaijiao/jquick-excel)](https://github.com/paohaijiao/jquick-excel)** <kbd>★ 130</kbd> 🟢<br>Configures Excel import, export, validation, formulas and charts through a declarative XML DSL.
 
-> **[xberg ![GitHub Repo Stars](https://img.shields.io/github/stars/xberg-io/xberg) ![GitHub last commit](https://img.shields.io/github/last-commit/xberg-io/xberg)](https://github.com/xberg-io/xberg)** <kbd>★ 8.7k</kbd> <kbd>MIT</kbd> 🟢<br>Extracts text, tables and metadata from PDFs, Office documents, images and other formats through a Java binding.
+> **[xberg ![GitHub Repo Stars](https://img.shields.io/github/stars/xberg-io/xberg) ![GitHub last commit](https://img.shields.io/github/last-commit/xberg-io/xberg)](https://github.com/xberg-io/xberg)** <kbd>★ 8.8k</kbd> <kbd>MIT</kbd> 🟢<br>Extracts text, tables and metadata from PDFs, Office documents, images and other formats through a Java binding.
 
 </details>
 
@@ -767,7 +767,7 @@ _Libraries and SDKs for evaluating and managing feature flags._
 
 > **[FF4J ![GitHub Repo Stars](https://img.shields.io/github/stars/ff4j/ff4j) ![GitHub last commit](https://img.shields.io/github/last-commit/ff4j/ff4j)](https://github.com/ff4j/ff4j)** <kbd>★ 1.4k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Feature Flags for Java.
 
-> **[OpenFeature Java SDK ![GitHub Repo Stars](https://img.shields.io/github/stars/open-feature/java-sdk) ![GitHub last commit](https://img.shields.io/github/last-commit/open-feature/java-sdk)](https://github.com/open-feature/java-sdk)** <kbd>★ 126</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Vendor-neutral API for evaluating feature flags in Java applications.
+> **[OpenFeature Java SDK ![GitHub Repo Stars](https://img.shields.io/github/stars/open-feature/java-sdk) ![GitHub last commit](https://img.shields.io/github/last-commit/open-feature/java-sdk)](https://github.com/open-feature/java-sdk)** <kbd>★ 127</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Vendor-neutral API for evaluating feature flags in Java applications.
 
 > **[Rollgate Java SDK ![GitHub Repo Stars](https://img.shields.io/github/stars/rollgate/sdks) ![GitHub last commit](https://img.shields.io/github/last-commit/rollgate/sdks)](https://github.com/rollgate/sdks/tree/main/packages/sdk-java)** <kbd>★ 3</kbd> <kbd>MIT</kbd> 🟢<br>Java SDK for evaluating Rollgate feature flags with real-time configuration updates.
 
@@ -782,7 +782,7 @@ _Libraries and SDKs for evaluating and managing feature flags._
 
 _Libraries related to the financial domain._
 
-> **[Cassandre ![GitHub Repo Stars](https://img.shields.io/github/stars/cassandre-tech/cassandre-trading-bot) ![GitHub last commit](https://img.shields.io/github/last-commit/cassandre-tech/cassandre-trading-bot)](https://github.com/cassandre-tech/cassandre-trading-bot)** <kbd>★ 659</kbd> <kbd>GPL-3.0</kbd> 🔴<br>Trading bot framework.
+> **[Cassandre ![GitHub Repo Stars](https://img.shields.io/github/stars/cassandre-tech/cassandre-trading-bot) ![GitHub last commit](https://img.shields.io/github/last-commit/cassandre-tech/cassandre-trading-bot)](https://github.com/cassandre-tech/cassandre-trading-bot)** <kbd>★ 660</kbd> <kbd>GPL-3.0</kbd> 🔴<br>Trading bot framework.
 
 > **[Joda-Money ![GitHub Repo Stars](https://img.shields.io/github/stars/JodaOrg/joda-money) ![GitHub last commit](https://img.shields.io/github/last-commit/JodaOrg/joda-money)](https://github.com/JodaOrg/joda-money)** <kbd>★ 679</kbd> <kbd>Apache-2.0</kbd> 🟠<br>Basic currency and money classes and algorithms not provided by the JDK.
 
@@ -790,11 +790,11 @@ _Libraries related to the financial domain._
 
 > **[Philadelphia ![GitHub Repo Stars](https://img.shields.io/github/stars/paritytrading/philadelphia) ![GitHub last commit](https://img.shields.io/github/last-commit/paritytrading/philadelphia)](https://github.com/paritytrading/philadelphia)** <kbd>★ 344</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Low-latency financial information exchange.
 
-> **[Stripe ![GitHub Repo Stars](https://img.shields.io/github/stars/stripe/stripe-java) ![GitHub last commit](https://img.shields.io/github/last-commit/stripe/stripe-java)](https://github.com/stripe/stripe-java)** <kbd>★ 993</kbd> <kbd>MIT</kbd> 🟢<br>Integration with the Stripe API.
+> **[Stripe ![GitHub Repo Stars](https://img.shields.io/github/stars/stripe/stripe-java) ![GitHub last commit](https://img.shields.io/github/last-commit/stripe/stripe-java)](https://github.com/stripe/stripe-java)** <kbd>★ 995</kbd> <kbd>MIT</kbd> 🟢<br>Integration with the Stripe API.
 
 > **[ta4j ![GitHub Repo Stars](https://img.shields.io/github/stars/ta4j/ta4j) ![GitHub last commit](https://img.shields.io/github/last-commit/ta4j/ta4j)](https://github.com/ta4j/ta4j)** <kbd>★ 2.5k</kbd> 🟢<br>Library for technical analysis.
 
-> **[Wickra ![GitHub Repo Stars](https://img.shields.io/github/stars/wickra-lib/wickra) ![GitHub last commit](https://img.shields.io/github/last-commit/wickra-lib/wickra)](https://github.com/wickra-lib/wickra)** <kbd>★ 38</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Technical-analysis library with 514 streaming O(1)-per-tick indicators on a native Rust core, on Maven Central as org.wickra:wickra; more indicators and incremental updates than the pure-Java ta4j.
+> **[Wickra ![GitHub Repo Stars](https://img.shields.io/github/stars/wickra-lib/wickra) ![GitHub last commit](https://img.shields.io/github/last-commit/wickra-lib/wickra)](https://github.com/wickra-lib/wickra)** <kbd>★ 36</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Technical-analysis library with 514 streaming O(1)-per-tick indicators on a native Rust core, on Maven Central as org.wickra:wickra; more indicators and incremental updates than the pure-Java ta4j.
 
 > **[XChange ![GitHub Repo Stars](https://img.shields.io/github/stars/knowm/XChange) ![GitHub last commit](https://img.shields.io/github/last-commit/knowm/XChange)](https://github.com/knowm/XChange)** <kbd>★ 4.1k</kbd> <kbd>MIT</kbd> 🟢<br>Consistent Java API for market data and trading across cryptocurrency exchanges.
 
@@ -822,11 +822,11 @@ _Formal-methods tools: proof assistants, model checking, symbolic execution, etc
 
 > **[Daikon ![GitHub Repo Stars](https://img.shields.io/github/stars/codespecs/daikon) ![GitHub last commit](https://img.shields.io/github/last-commit/codespecs/daikon)](https://github.com/codespecs/daikon)** <kbd>★ 255</kbd> 🟢<br>Detects likely program invariants and generates JML specs based on those invariants.
 
-> **[Java Path Finder (JPF) ![GitHub Repo Stars](https://img.shields.io/github/stars/javapathfinder/jpf-core) ![GitHub last commit](https://img.shields.io/github/last-commit/javapathfinder/jpf-core)](https://github.com/javapathfinder/jpf-core)** <kbd>★ 614</kbd> 🟢<br>JVM formal verification tool containing a model checker and more. Created by NASA.
+> **[Java Path Finder (JPF) ![GitHub Repo Stars](https://img.shields.io/github/stars/javapathfinder/jpf-core) ![GitHub last commit](https://img.shields.io/github/last-commit/javapathfinder/jpf-core)](https://github.com/javapathfinder/jpf-core)** <kbd>★ 615</kbd> 🟢<br>JVM formal verification tool containing a model checker and more. Created by NASA.
 
 > **[JMLOK 2.0](https://massoni.computacao.ufcg.edu.br/home/jmlok)**<br>Detects inconsistencies between code and JML specification through feedback-directed random tests generation, and suggests a likely cause for each nonconformance detected. (GPL-3.0-only)
 
-> **[KeY ![GitHub Repo Stars](https://img.shields.io/github/stars/KeYProject/key) ![GitHub last commit](https://img.shields.io/github/last-commit/KeYProject/key)](https://github.com/KeYProject/key)** <kbd>★ 87</kbd> 🟢<br>Formal software development tool that aims to integrate design, implementation, formal specification, and formal verification of object-oriented software as seamlessly as possible. Uses JML for specification and symbolic execution for verification. (GPL-2.0-or-later)
+> **[KeY ![GitHub Repo Stars](https://img.shields.io/github/stars/KeYProject/key) ![GitHub last commit](https://img.shields.io/github/last-commit/KeYProject/key)](https://github.com/KeYProject/key)** <kbd>★ 88</kbd> 🟢<br>Formal software development tool that aims to integrate design, implementation, formal specification, and formal verification of object-oriented software as seamlessly as possible. Uses JML for specification and symbolic execution for verification. (GPL-2.0-or-later)
 
 > **[OpenJML ![GitHub Repo Stars](https://img.shields.io/github/stars/OpenJML/OpenJML) ![GitHub last commit](https://img.shields.io/github/last-commit/OpenJML/OpenJML)](https://github.com/OpenJML/OpenJML)** <kbd>★ 182</kbd> 🟢<br>Translates JML specifications into SMT-LIB format and passes the proof problems implied by the program to backend solvers. (GPL-2.0-only)
 
@@ -845,7 +845,7 @@ _Libraries that facilitate functional programming._
 
 > **[Packrat ![GitHub Repo Stars](https://img.shields.io/github/stars/jhspetersson/packrat) ![GitHub last commit](https://img.shields.io/github/last-commit/jhspetersson/packrat)](https://github.com/jhspetersson/packrat)** <kbd>★ 29</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Gatherers library for Java Stream API. Gatherers can enhance streams with custom intermediate operations.
 
-> **[Parallel Collectors ![GitHub Repo Stars](https://img.shields.io/github/stars/pivovarit/parallel-collectors) ![GitHub last commit](https://img.shields.io/github/last-commit/pivovarit/parallel-collectors)](https://github.com/pivovarit/parallel-collectors)** <kbd>★ 679</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Stream API Collectors for parallel processing with custom thread pools, designed for I/O-heavy workloads.
+> **[Parallel Collectors ![GitHub Repo Stars](https://img.shields.io/github/stars/pivovarit/parallel-collectors) ![GitHub last commit](https://img.shields.io/github/last-commit/pivovarit/parallel-collectors)](https://github.com/pivovarit/parallel-collectors)** <kbd>★ 680</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Stream API Collectors for parallel processing with custom thread pools, designed for I/O-heavy workloads.
 
 > **[protonpack ![GitHub Repo Stars](https://img.shields.io/github/stars/poetix/protonpack) ![GitHub last commit](https://img.shields.io/github/last-commit/poetix/protonpack)](https://github.com/poetix/protonpack)** <kbd>★ 487</kbd> <kbd>MIT</kbd> 🟢<br>Collection of stream utilities.
 
@@ -870,13 +870,13 @@ _Frameworks that support the development of games._
 
 > **[libGDX ![GitHub Repo Stars](https://img.shields.io/github/stars/libgdx/libgdx) ![GitHub last commit](https://img.shields.io/github/last-commit/libgdx/libgdx)](https://github.com/libgdx/libgdx)** <kbd>★ 25.3k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>All-round cross-platform, high-level framework.
 
-> **[Litiengine ![GitHub Repo Stars](https://img.shields.io/github/stars/gurkenlabs/litiengine) ![GitHub last commit](https://img.shields.io/github/last-commit/gurkenlabs/litiengine)](https://github.com/gurkenlabs/litiengine)** <kbd>★ 833</kbd> <kbd>MIT</kbd> 🟢<br>AWT-based, lightweight 2D game engine.
+> **[Litiengine ![GitHub Repo Stars](https://img.shields.io/github/stars/gurkenlabs/litiengine) ![GitHub last commit](https://img.shields.io/github/last-commit/gurkenlabs/litiengine)](https://github.com/gurkenlabs/litiengine)** <kbd>★ 834</kbd> <kbd>MIT</kbd> 🟢<br>AWT-based, lightweight 2D game engine.
 
 > **[LWJGL ![GitHub Repo Stars](https://img.shields.io/github/stars/LWJGL/lwjgl3) ![GitHub last commit](https://img.shields.io/github/last-commit/LWJGL/lwjgl3)](https://github.com/LWJGL/lwjgl3)** <kbd>★ 5.4k</kbd> <kbd>BSD-3-Clause</kbd> 🟢<br>Robust framework that abstracts libraries like OpenGL/CL/AL.
 
-> **[Pathetic ![GitHub Repo Stars](https://img.shields.io/github/stars/bsommerfeld/pathetic) ![GitHub last commit](https://img.shields.io/github/last-commit/bsommerfeld/pathetic)](https://github.com/bsommerfeld/pathetic)** <kbd>★ 377</kbd> <kbd>MIT</kbd> 🟢<br>A highly configurable 3D A\* pathfinding library that uses specific optimizations for high performance.
+> **[Pathetic ![GitHub Repo Stars](https://img.shields.io/github/stars/bsommerfeld/pathetic) ![GitHub last commit](https://img.shields.io/github/last-commit/bsommerfeld/pathetic)](https://github.com/bsommerfeld/pathetic)** <kbd>★ 382</kbd> <kbd>MIT</kbd> 🟢<br>A highly configurable 3D A\* pathfinding library that uses specific optimizations for high performance.
 
-> **[vulkan4j ![GitHub Repo Stars](https://img.shields.io/github/stars/chuigda/vulkan4j) ![GitHub last commit](https://img.shields.io/github/last-commit/chuigda/vulkan4j)](https://github.com/chuigda/vulkan4j)** <kbd>★ 95</kbd> <kbd>BSD-3-Clause</kbd> 🟠<br>Vulkan, OpenGL ES2 and GLFW Memory Allocator bindings.
+> **[vulkan4j ![GitHub Repo Stars](https://img.shields.io/github/stars/chuigda/vulkan4j) ![GitHub last commit](https://img.shields.io/github/last-commit/chuigda/vulkan4j)](https://github.com/chuigda/vulkan4j)** <kbd>★ 96</kbd> <kbd>BSD-3-Clause</kbd> 🔴<br>Vulkan, OpenGL ES2 and GLFW Memory Allocator bindings.
 
 </details>
 
@@ -922,13 +922,13 @@ _Libraries to create modern graphical user interfaces._
 
 > **[JavaFX ![GitHub Repo Stars](https://img.shields.io/github/stars/openjdk/jfx) ![GitHub last commit](https://img.shields.io/github/last-commit/openjdk/jfx)](https://github.com/openjdk/jfx)** <kbd>★ 3.3k</kbd> <kbd>GPL-2.0</kbd> 🟢<br>Successor of Swing.
 
-> **[Scene Builder ![GitHub Repo Stars](https://img.shields.io/github/stars/gluonhq/scenebuilder) ![GitHub last commit](https://img.shields.io/github/last-commit/gluonhq/scenebuilder)](https://github.com/gluonhq/scenebuilder)** <kbd>★ 818</kbd> 🟠<br>Visual layout tool for JavaFX applications.
+> **[Scene Builder ![GitHub Repo Stars](https://img.shields.io/github/stars/gluonhq/scenebuilder) ![GitHub last commit](https://img.shields.io/github/last-commit/gluonhq/scenebuilder)](https://github.com/gluonhq/scenebuilder)** <kbd>★ 819</kbd> 🟠<br>Visual layout tool for JavaFX applications.
 
 > **[Sierra ![GitHub Repo Stars](https://img.shields.io/github/stars/HTTP-RPC/Sierra) ![GitHub last commit](https://img.shields.io/github/last-commit/HTTP-RPC/Sierra)](https://github.com/HTTP-RPC/Sierra)** <kbd>★ 150</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Lightwieght declarative DSL for rapid development of Swing applications.
 
-> **[SnapKit ![GitHub Repo Stars](https://img.shields.io/github/stars/reportmill/SnapKit) ![GitHub last commit](https://img.shields.io/github/last-commit/reportmill/SnapKit)](https://github.com/reportmill/SnapKit)** <kbd>★ 332</kbd> 🟢<br>Modern Java UI library for both desktop and web.
+> **[SnapKit ![GitHub Repo Stars](https://img.shields.io/github/stars/reportmill/SnapKit) ![GitHub last commit](https://img.shields.io/github/last-commit/reportmill/SnapKit)](https://github.com/reportmill/SnapKit)** <kbd>★ 331</kbd> 🟢<br>Modern Java UI library for both desktop and web.
 
-> **[SWT ![GitHub Repo Stars](https://img.shields.io/github/stars/eclipse-platform/eclipse.platform.swt) ![GitHub last commit](https://img.shields.io/github/last-commit/eclipse-platform/eclipse.platform.swt)](https://github.com/eclipse-platform/eclipse.platform.swt)** <kbd>★ 199</kbd> <kbd>EPL-2.0</kbd> 🟢<br>Graphical widget toolkit.
+> **[SWT ![GitHub Repo Stars](https://img.shields.io/github/stars/eclipse-platform/eclipse.platform.swt) ![GitHub last commit](https://img.shields.io/github/last-commit/eclipse-platform/eclipse.platform.swt)](https://github.com/eclipse-platform/eclipse.platform.swt)** <kbd>★ 200</kbd> <kbd>EPL-2.0</kbd> 🟢<br>Graphical widget toolkit.
 
 </details>
 
@@ -970,7 +970,7 @@ _Libraries that assist with creating HTTP requests and/or binding responses._
 
 > **[JQuickCurl ![GitHub Repo Stars](https://img.shields.io/github/stars/paohaijiao-jquick/jquick-curl) ![GitHub last commit](https://img.shields.io/github/last-commit/paohaijiao-jquick/jquick-curl)](https://github.com/paohaijiao-jquick/jquick-curl)** <kbd>★ 1.1k</kbd> 🟢<br>Executes HTTP requests from cURL syntax through annotations, XML configuration and dynamic proxy clients.
 
-> **[methanol ![GitHub Repo Stars](https://img.shields.io/github/stars/mizosoft/methanol) ![GitHub last commit](https://img.shields.io/github/last-commit/mizosoft/methanol)](https://github.com/mizosoft/methanol)** <kbd>★ 298</kbd> <kbd>MIT</kbd> 🟠<br>HTTP client extensions library.
+> **[methanol ![GitHub Repo Stars](https://img.shields.io/github/stars/mizosoft/methanol) ![GitHub last commit](https://img.shields.io/github/last-commit/mizosoft/methanol)](https://github.com/mizosoft/methanol)** <kbd>★ 297</kbd> <kbd>MIT</kbd> 🟠<br>HTTP client extensions library.
 
 > **[OkHttp ![GitHub Repo Stars](https://img.shields.io/github/stars/lysine-dev/okhttp) ![GitHub last commit](https://img.shields.io/github/last-commit/lysine-dev/okhttp)](https://github.com/lysine-dev/okhttp)** <kbd>★ 47.0k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>HTTP client for the JVM, Android and GraalVM.
 
@@ -989,7 +989,7 @@ _Libraries that assist with creating HTTP requests and/or binding responses._
 
 _Integrated development environments that try to simplify several aspects of development._
 
-> **[Eclipse Java IDE](https://www.eclipse.org)** <kbd>★ 643</kbd> <kbd>EPL-2.0</kbd> 🟢<br>Extensible Java IDE assembled from the Eclipse Platform, JDT and PDE.
+> **[Eclipse Java IDE](https://www.eclipse.org)** <kbd>★ 644</kbd> <kbd>EPL-2.0</kbd> 🟢<br>Extensible Java IDE assembled from the Eclipse Platform, JDT and PDE.
 
 > **[Explyt ![GitHub Repo Stars](https://img.shields.io/github/stars/explyt/explyt) ![GitHub last commit](https://img.shields.io/github/last-commit/explyt/explyt)](https://github.com/explyt/explyt)** <kbd>★ 22</kbd> 🟢<br>AI coding agent for JetBrains IDEs that uses IDE indexes, refactorings, test runners, static analysis and debugging for Java and Kotlin projects.
 
@@ -1010,11 +1010,11 @@ _Integrated development environments that try to simplify several aspects of dev
 
 _Libraries that assist with the creation, evaluation or manipulation of graphical images._
 
-> **[Barcode-Lib4J ![GitHub Repo Stars](https://img.shields.io/github/stars/vws-java/Barcode-Lib4J) ![GitHub last commit](https://img.shields.io/github/last-commit/vws-java/Barcode-Lib4J)](https://github.com/vws-java/Barcode-Lib4J)** <kbd>★ 17</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Generates QR Code, DataMatrix, and other 1D/2D barcodes as vector (PDF, EPS, SVG) and raster (PNG, BMP, JPG) images with DPI awareness, high precision, and CMYK color model support.
+> **[Barcode-Lib4J ![GitHub Repo Stars](https://img.shields.io/github/stars/vws-java/Barcode-Lib4J) ![GitHub last commit](https://img.shields.io/github/last-commit/vws-java/Barcode-Lib4J)](https://github.com/vws-java/Barcode-Lib4J)** <kbd>★ 18</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Generates QR Code, DataMatrix, and other 1D/2D barcodes as vector (PDF, EPS, SVG) and raster (PNG, BMP, JPG) images with DPI awareness, high precision, and CMYK color model support.
 
 > **[Glide ![GitHub Repo Stars](https://img.shields.io/github/stars/bumptech/glide) ![GitHub last commit](https://img.shields.io/github/last-commit/bumptech/glide)](https://github.com/bumptech/glide)** <kbd>★ 35.0k</kbd> 🟢<br>Image loading and caching library for Android focused on smooth scrolling.
 
-> **[image-comparison ![GitHub Repo Stars](https://img.shields.io/github/stars/romankh3/image-comparison) ![GitHub last commit](https://img.shields.io/github/last-commit/romankh3/image-comparison)](https://github.com/romankh3/image-comparison)** <kbd>★ 396</kbd> <kbd>Apache-2.0</kbd> 🔴<br>Library that compares 2 images with the same sizes and shows the differences visually by drawing rectangles. Some parts of the image can be excluded from the comparison.
+> **[image-comparison ![GitHub Repo Stars](https://img.shields.io/github/stars/romankh3/image-comparison) ![GitHub last commit](https://img.shields.io/github/last-commit/romankh3/image-comparison)](https://github.com/romankh3/image-comparison)** <kbd>★ 396</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Library that compares 2 images with the same sizes and shows the differences visually by drawing rectangles. Some parts of the image can be excluded from the comparison.
 
 > **[Imgscalr ![GitHub Repo Stars](https://img.shields.io/github/stars/rkalla/imgscalr) ![GitHub last commit](https://img.shields.io/github/last-commit/rkalla/imgscalr)](https://github.com/rkalla/imgscalr)** <kbd>★ 1.2k</kbd> <kbd>Apache-2.0</kbd> 🔴<br>Simple, efficient and hardware-accelerated image-scaling library implemented in pure Java 2D.
 
@@ -1026,11 +1026,11 @@ _Libraries that assist with the creation, evaluation or manipulation of graphica
 
 > **[TwelveMonkeys ![GitHub Repo Stars](https://img.shields.io/github/stars/haraldk/TwelveMonkeys) ![GitHub last commit](https://img.shields.io/github/last-commit/haraldk/TwelveMonkeys)](https://github.com/haraldk/TwelveMonkeys)** <kbd>★ 2.1k</kbd> <kbd>BSD-3-Clause</kbd> 🟢<br>Collection of plugins that extend the number of supported image file formats.
 
-> **[vips-ffm ![GitHub Repo Stars](https://img.shields.io/github/stars/lopcode/vips-ffm) ![GitHub last commit](https://img.shields.io/github/last-commit/lopcode/vips-ffm)](https://github.com/lopcode/vips-ffm)** <kbd>★ 130</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Comprehensive bindings for libvips, using Java's "Foreign Function & Memory" API.
+> **[vips-ffm ![GitHub Repo Stars](https://img.shields.io/github/stars/lopcode/vips-ffm) ![GitHub last commit](https://img.shields.io/github/last-commit/lopcode/vips-ffm)](https://github.com/lopcode/vips-ffm)** <kbd>★ 131</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Comprehensive bindings for libvips, using Java's "Foreign Function & Memory" API.
 
 > **[webcam-capture ![GitHub Repo Stars](https://img.shields.io/github/stars/sarxos/webcam-capture) ![GitHub last commit](https://img.shields.io/github/last-commit/sarxos/webcam-capture)](https://github.com/sarxos/webcam-capture)** <kbd>★ 2.4k</kbd> <kbd>MIT</kbd> 🟠<br>Library for using built-in and external webcams directly in Java.
 
-> **[ZXing ![GitHub Repo Stars](https://img.shields.io/github/stars/zxing/zxing) ![GitHub last commit](https://img.shields.io/github/last-commit/zxing/zxing)](https://github.com/zxing/zxing)** <kbd>★ 34.0k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Multi-format 1D/2D barcode image processing library.
+> **[ZXing ![GitHub Repo Stars](https://img.shields.io/github/stars/zxing/zxing) ![GitHub last commit](https://img.shields.io/github/last-commit/zxing/zxing)](https://github.com/zxing/zxing)** <kbd>★ 34.1k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Multi-format 1D/2D barcode image processing library.
 
 </details>
 
@@ -1047,7 +1047,7 @@ _Libraries that help make the Java introspection and reflection API easier and f
 
 > **[ReflectASM ![GitHub Repo Stars](https://img.shields.io/github/stars/EsotericSoftware/reflectasm) ![GitHub last commit](https://img.shields.io/github/last-commit/EsotericSoftware/reflectasm)](https://github.com/EsotericSoftware/reflectasm)** <kbd>★ 1.5k</kbd> <kbd>BSD-3-Clause</kbd> 🔴<br>ReflectASM is a very small Java library that provides high performance reflection by using code generation.
 
-> **[TypeTools ![GitHub Repo Stars](https://img.shields.io/github/stars/jhalterman/typetools) ![GitHub last commit](https://img.shields.io/github/last-commit/jhalterman/typetools)](https://github.com/jhalterman/typetools)** <kbd>★ 629</kbd> <kbd>Apache-2.0</kbd> 🔴<br>Tools for resolving generic types.
+> **[TypeTools ![GitHub Repo Stars](https://img.shields.io/github/stars/jhalterman/typetools) ![GitHub last commit](https://img.shields.io/github/last-commit/jhalterman/typetools)](https://github.com/jhalterman/typetools)** <kbd>★ 628</kbd> <kbd>Apache-2.0</kbd> 🔴<br>Tools for resolving generic types.
 
 </details>
 
@@ -1091,11 +1091,11 @@ _Libraries for serializing and deserializing JSON to and from Java objects._
 
 > **[Jolt ![GitHub Repo Stars](https://img.shields.io/github/stars/bazaarvoice/jolt) ![GitHub last commit](https://img.shields.io/github/last-commit/bazaarvoice/jolt)](https://github.com/bazaarvoice/jolt)** <kbd>★ 1.7k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>JSON to JSON transformation tool.
 
-> **[JSON-io ![GitHub Repo Stars](https://img.shields.io/github/stars/jdereg/json-io) ![GitHub last commit](https://img.shields.io/github/last-commit/jdereg/json-io)](https://github.com/jdereg/json-io)** <kbd>★ 390</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Convert Java to JSON/TOON and back. Supports complex object graphs, cyclic references, and TOON format for 40-50% LLM token savings.
+> **[JSON-io ![GitHub Repo Stars](https://img.shields.io/github/stars/jdereg/json-io) ![GitHub last commit](https://img.shields.io/github/last-commit/jdereg/json-io)](https://github.com/jdereg/json-io)** <kbd>★ 389</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Convert Java to JSON/TOON and back. Supports complex object graphs, cyclic references, and TOON format for 40-50% LLM token savings.
 
 > **[JsonPath ![GitHub Repo Stars](https://img.shields.io/github/stars/json-path/JsonPath) ![GitHub last commit](https://img.shields.io/github/last-commit/json-path/JsonPath)](https://github.com/json-path/JsonPath)** <kbd>★ 9.4k</kbd> <kbd>Apache-2.0</kbd> 🟠<br>Extract data from JSON using XPATH-like syntax.
 
-> **[JsonSurfer ![GitHub Repo Stars](https://img.shields.io/github/stars/jsurfer/JsonSurfer) ![GitHub last commit](https://img.shields.io/github/last-commit/jsurfer/JsonSurfer)](https://github.com/jsurfer/JsonSurfer)** <kbd>★ 317</kbd> <kbd>MIT</kbd> 🔴<br>Streaming JsonPath processor dedicated to processing big and complicated JSON data.
+> **[JsonSurfer ![GitHub Repo Stars](https://img.shields.io/github/stars/jsurfer/JsonSurfer) ![GitHub last commit](https://img.shields.io/github/last-commit/jsurfer/JsonSurfer)](https://github.com/jsurfer/JsonSurfer)** <kbd>★ 316</kbd> <kbd>MIT</kbd> 🔴<br>Streaming JsonPath processor dedicated to processing big and complicated JSON data.
 
 > **[Moshi ![GitHub Repo Stars](https://img.shields.io/github/stars/square/moshi) ![GitHub last commit](https://img.shields.io/github/last-commit/square/moshi)](https://github.com/square/moshi)** <kbd>★ 10.1k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Modern JSON library, less opinionated and uses built-in types like List and Map.
 
@@ -1118,7 +1118,7 @@ _Current implementations of the JVM/JDK._
 
 > **[Liberica JDK](https://bell-sw.com)**<br>Built from OpenJDK, thoroughly tested and passed the JCK. (GPL-2.0-only WITH Classpath-exception-2.0)
 
-> **[Microsoft JDK ![GitHub Repo Stars](https://img.shields.io/github/stars/microsoft/openjdk) ![GitHub last commit](https://img.shields.io/github/last-commit/microsoft/openjdk)](https://github.com/microsoft/openjdk)** <kbd>★ 342</kbd> <kbd>MIT</kbd> 🟢<br>Microsoft Build of OpenJDK, Free, Open Source, Freshly Brewed!
+> **[Microsoft JDK ![GitHub Repo Stars](https://img.shields.io/github/stars/microsoft/openjdk) ![GitHub last commit](https://img.shields.io/github/last-commit/microsoft/openjdk)](https://github.com/microsoft/openjdk)** <kbd>★ 342</kbd> <kbd>MIT</kbd> 🟠<br>Microsoft Build of OpenJDK, Free, Open Source, Freshly Brewed!
 
 > **[Open JDK ![GitHub Repo Stars](https://img.shields.io/github/stars/openjdk/jdk) ![GitHub last commit](https://img.shields.io/github/last-commit/openjdk/jdk)](https://github.com/openjdk/jdk)** <kbd>★ 23.2k</kbd> <kbd>GPL-2.0</kbd> 🟢<br>Open JDK community home.
 
@@ -1126,7 +1126,7 @@ _Current implementations of the JVM/JDK._
 
 > **[RedHat Open JDK](https://developers.redhat.com/products/openjdk/overview)**<br>RedHat's OpenJDK distribution. (GPL-2.0-only WITH Classpath-exception-2.0)
 
-> **[SAP Machine ![GitHub Repo Stars](https://img.shields.io/github/stars/SAP/SapMachine) ![GitHub last commit](https://img.shields.io/github/last-commit/SAP/SapMachine)](https://github.com/SAP/SapMachine)** <kbd>★ 617</kbd> <kbd>GPL-2.0</kbd> 🟢<br>SAP's no-cost, rigorously tested and JCK-verified OpenJDK friendly fork.
+> **[SAP Machine ![GitHub Repo Stars](https://img.shields.io/github/stars/SAP/SapMachine) ![GitHub last commit](https://img.shields.io/github/last-commit/SAP/SapMachine)](https://github.com/SAP/SapMachine)** <kbd>★ 616</kbd> <kbd>GPL-2.0</kbd> 🟢<br>SAP's no-cost, rigorously tested and JCK-verified OpenJDK friendly fork.
 
 > **[Zulu](https://www.azul.com/products/zulu-community/)**<br>OpenJDK builds for Windows, Linux, and macOS. (GPL-2.0-only WITH Classpath-exception-2.0)
 
@@ -1155,7 +1155,7 @@ _Libraries that log the behavior of an application._
 
 > **[SLF4J ![GitHub Repo Stars](https://img.shields.io/github/stars/qos-ch/slf4j) ![GitHub last commit](https://img.shields.io/github/last-commit/qos-ch/slf4j)](https://github.com/qos-ch/slf4j)** <kbd>★ 2.5k</kbd> <kbd>MIT</kbd> 🟢<br>Abstraction layer/simple logging facade.
 
-> **[tinylog ![GitHub Repo Stars](https://img.shields.io/github/stars/tinylog-org/tinylog) ![GitHub last commit](https://img.shields.io/github/last-commit/tinylog-org/tinylog)](https://github.com/tinylog-org/tinylog)** <kbd>★ 770</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Lightweight logging framework with static logger class.
+> **[tinylog ![GitHub Repo Stars](https://img.shields.io/github/stars/tinylog-org/tinylog) ![GitHub last commit](https://img.shields.io/github/last-commit/tinylog-org/tinylog)](https://github.com/tinylog-org/tinylog)** <kbd>★ 771</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Lightweight logging framework with static logger class.
 
 </details>
 
@@ -1182,7 +1182,7 @@ _Tools that provide specific statistical algorithms for learning from data._
 
 > **[Neureka ![GitHub Repo Stars](https://img.shields.io/github/stars/Gleethos/neureka) ![GitHub last commit](https://img.shields.io/github/last-commit/Gleethos/neureka)](https://github.com/Gleethos/neureka)** <kbd>★ 91</kbd> <kbd>MIT</kbd> 🟠<br>A lightweight, platform independent, OpenCL accelerated nd-array/tensor library.
 
-> **[oj! Algorithms ![GitHub Repo Stars](https://img.shields.io/github/stars/optimatika/ojAlgo) ![GitHub last commit](https://img.shields.io/github/last-commit/optimatika/ojAlgo)](https://github.com/optimatika/ojAlgo)** <kbd>★ 502</kbd> <kbd>MIT</kbd> 🟢<br>High-performance mathematics, linear algebra and optimisation needed for data science, machine learning and scientific computing.
+> **[oj! Algorithms ![GitHub Repo Stars](https://img.shields.io/github/stars/optimatika/ojAlgo) ![GitHub last commit](https://img.shields.io/github/last-commit/optimatika/ojAlgo)](https://github.com/optimatika/ojAlgo)** <kbd>★ 501</kbd> <kbd>MIT</kbd> 🟢<br>High-performance mathematics, linear algebra and optimisation needed for data science, machine learning and scientific computing.
 
 > **[sklearn-java ![GitHub Repo Stars](https://img.shields.io/github/stars/kVeyra/sklearn-java) ![GitHub last commit](https://img.shields.io/github/last-commit/kVeyra/sklearn-java)](https://github.com/kVeyra/sklearn-java)** <kbd>★ 3</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Implements scikit-learn-style machine learning algorithms in pure Java.
 
@@ -1205,7 +1205,7 @@ _Tools that help send messages between clients to ensure protocol independency._
 
 > **[Apache Camel ![GitHub Repo Stars](https://img.shields.io/github/stars/apache/camel) ![GitHub last commit](https://img.shields.io/github/last-commit/apache/camel)](https://github.com/apache/camel)** <kbd>★ 6.3k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Glues together different transport APIs via Enterprise Integration Patterns.
 
-> **[Apache Kafka ![GitHub Repo Stars](https://img.shields.io/github/stars/apache/kafka) ![GitHub last commit](https://img.shields.io/github/last-commit/apache/kafka)](https://github.com/apache/kafka)** <kbd>★ 33.3k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>High-throughput distributed messaging system.
+> **[Apache Kafka ![GitHub Repo Stars](https://img.shields.io/github/stars/apache/kafka) ![GitHub last commit](https://img.shields.io/github/last-commit/apache/kafka)](https://github.com/apache/kafka)** <kbd>★ 33.4k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>High-throughput distributed messaging system.
 
 > **[Apache Pulsar ![GitHub Repo Stars](https://img.shields.io/github/stars/apache/pulsar) ![GitHub last commit](https://img.shields.io/github/last-commit/apache/pulsar)](https://github.com/apache/pulsar)** <kbd>★ 15.3k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Distributed pub/sub-messaging system.
 
@@ -1213,19 +1213,19 @@ _Tools that help send messages between clients to ensure protocol independency._
 
 > **[Apache RocketMQ ![GitHub Repo Stars](https://img.shields.io/github/stars/apache/rocketmq) ![GitHub last commit](https://img.shields.io/github/last-commit/apache/rocketmq)](https://github.com/apache/rocketmq)** <kbd>★ 22.5k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Fast, reliable, and scalable distributed messaging platform.
 
-> **[AutoMQ ![GitHub Repo Stars](https://img.shields.io/github/stars/AutoMQ/automq) ![GitHub last commit](https://img.shields.io/github/last-commit/AutoMQ/automq)](https://github.com/AutoMQ/automq)** <kbd>★ 10.3k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>AutoMQ is a cloud-native, serverless reinvented Kafka that is easily scalable, manage-less and cost-effective.
+> **[AutoMQ ![GitHub Repo Stars](https://img.shields.io/github/stars/AutoMQ/automq) ![GitHub last commit](https://img.shields.io/github/last-commit/AutoMQ/automq)](https://github.com/AutoMQ/automq)** <kbd>★ 10.4k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>AutoMQ is a cloud-native, serverless reinvented Kafka that is easily scalable, manage-less and cost-effective.
 
 > **[CloudEvents Java SDK ![GitHub Repo Stars](https://img.shields.io/github/stars/cloudevents/sdk-java) ![GitHub last commit](https://img.shields.io/github/last-commit/cloudevents/sdk-java)](https://github.com/cloudevents/sdk-java)** <kbd>★ 442</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Java SDK for creating, serializing and transporting CloudEvents.
 
 > **[Emissary ![GitHub Repo Stars](https://img.shields.io/github/stars/joel-jeremy/emissary) ![GitHub last commit](https://img.shields.io/github/last-commit/joel-jeremy/emissary)](https://github.com/joel-jeremy/emissary)** <kbd>★ 109</kbd> <kbd>Apache-2.0</kbd> 🟠<br>Simple, lightweight, yet FAST messaging library for decoupling messages (requests and events) and message handlers.
 
-> **[Hermes ![GitHub Repo Stars](https://img.shields.io/github/stars/allegro/hermes) ![GitHub last commit](https://img.shields.io/github/last-commit/allegro/hermes)](https://github.com/allegro/hermes)** <kbd>★ 863</kbd> 🟢<br>Fast and reliable message broker built on top of Kafka.
+> **[Hermes ![GitHub Repo Stars](https://img.shields.io/github/stars/allegro/hermes) ![GitHub last commit](https://img.shields.io/github/last-commit/allegro/hermes)](https://github.com/allegro/hermes)** <kbd>★ 862</kbd> 🟢<br>Fast and reliable message broker built on top of Kafka.
 
 > **[HiveMQ MQTT Client ![GitHub Repo Stars](https://img.shields.io/github/stars/hivemq/hivemq-mqtt-client) ![GitHub last commit](https://img.shields.io/github/last-commit/hivemq/hivemq-mqtt-client)](https://github.com/hivemq/hivemq-mqtt-client)** <kbd>★ 1.1k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Reactive and blocking Java client for MQTT 3.1.1 and MQTT 5.
 
 > **[JeroMQ ![GitHub Repo Stars](https://img.shields.io/github/stars/zeromq/jeromq) ![GitHub last commit](https://img.shields.io/github/last-commit/zeromq/jeromq)](https://github.com/zeromq/jeromq)** <kbd>★ 2.4k</kbd> <kbd>MPL-2.0</kbd> 🟠<br>Implementation of ZeroMQ.
 
-> **[NATS client ![GitHub Repo Stars](https://img.shields.io/github/stars/nats-io/nats.java) ![GitHub last commit](https://img.shields.io/github/last-commit/nats-io/nats.java)](https://github.com/nats-io/nats.java)** <kbd>★ 670</kbd> <kbd>Apache-2.0</kbd> 🟢<br>NATS client.
+> **[NATS client ![GitHub Repo Stars](https://img.shields.io/github/stars/nats-io/nats.java) ![GitHub last commit](https://img.shields.io/github/last-commit/nats-io/nats.java)](https://github.com/nats-io/nats.java)** <kbd>★ 671</kbd> <kbd>Apache-2.0</kbd> 🟢<br>NATS client.
 
 > **[Pushy ![GitHub Repo Stars](https://img.shields.io/github/stars/jchambers/pushy) ![GitHub last commit](https://img.shields.io/github/last-commit/jchambers/pushy)](https://github.com/jchambers/pushy)** <kbd>★ 1.9k</kbd> <kbd>MIT</kbd> 🟢<br>Java library for sending Apple Push Notification service messages.
 
@@ -1271,7 +1271,7 @@ _Everything else._
 
 > **[JObfuscator](https://www.pelock.com/products/jobfuscator)**<br>Source code obfuscator.
 
-> **[yGuard ![GitHub Repo Stars](https://img.shields.io/github/stars/yWorks/yGuard) ![GitHub last commit](https://img.shields.io/github/last-commit/yWorks/yGuard)](https://github.com/yWorks/yGuard)** <kbd>★ 478</kbd> <kbd>MIT</kbd> 🟠<br>Obfuscation via renaming and shrinking.
+> **[yGuard ![GitHub Repo Stars](https://img.shields.io/github/stars/yWorks/yGuard) ![GitHub last commit](https://img.shields.io/github/last-commit/yWorks/yGuard)](https://github.com/yWorks/yGuard)** <kbd>★ 479</kbd> <kbd>MIT</kbd> 🟠<br>Obfuscation via renaming and shrinking.
 
 </details>
 
@@ -1282,7 +1282,7 @@ _Tools for creating or managing mobile applications._
 
 > **[Codename One ![GitHub Repo Stars](https://img.shields.io/github/stars/codenameone/CodenameOne) ![GitHub last commit](https://img.shields.io/github/last-commit/codenameone/CodenameOne)](https://github.com/codenameone/CodenameOne)** <kbd>★ 1.9k</kbd> 🟢<br>Cross-platform solution for writing native mobile apps. (GPL-2.0-only WITH Classpath-exception-2.0)
 
-> **[Gluon Substrate ![GitHub Repo Stars](https://img.shields.io/github/stars/gluonhq/substrate) ![GitHub last commit](https://img.shields.io/github/last-commit/gluonhq/substrate)](https://github.com/gluonhq/substrate)** <kbd>★ 444</kbd> <kbd>GPL-2.0</kbd> 🟢<br>Builds native JavaFX applications for desktop, mobile and embedded targets.
+> **[Gluon Substrate ![GitHub Repo Stars](https://img.shields.io/github/stars/gluonhq/substrate) ![GitHub last commit](https://img.shields.io/github/last-commit/gluonhq/substrate)](https://github.com/gluonhq/substrate)** <kbd>★ 443</kbd> <kbd>GPL-2.0</kbd> 🟢<br>Builds native JavaFX applications for desktop, mobile and embedded targets.
 
 > **[MobileUI ![GitHub Repo Stars](https://img.shields.io/github/stars/MobileUI/mobileui) ![GitHub last commit](https://img.shields.io/github/last-commit/MobileUI/mobileui)](https://github.com/MobileUI/mobileui)** <kbd>★ 13</kbd> <kbd>MIT</kbd> 🔴<br>Cross-platform framework for developing mobile apps with native UI in Java and Kotlin.
 
@@ -1319,7 +1319,7 @@ _Tools that observe/monitor applications in production by providing telemetry._
 
 > **[JavaMelody ![GitHub Repo Stars](https://img.shields.io/github/stars/javamelody/javamelody) ![GitHub last commit](https://img.shields.io/github/last-commit/javamelody/javamelody)](https://github.com/javamelody/javamelody)** <kbd>★ 3.0k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Performance monitoring and profiling.
 
-> **[Jolokia ![GitHub Repo Stars](https://img.shields.io/github/stars/jolokia/jolokia) ![GitHub last commit](https://img.shields.io/github/last-commit/jolokia/jolokia)](https://github.com/jolokia/jolokia)** <kbd>★ 848</kbd> <kbd>Apache-2.0</kbd> 🟢<br>JMX over REST.
+> **[Jolokia ![GitHub Repo Stars](https://img.shields.io/github/stars/jolokia/jolokia) ![GitHub last commit](https://img.shields.io/github/last-commit/jolokia/jolokia)](https://github.com/jolokia/jolokia)** <kbd>★ 849</kbd> <kbd>Apache-2.0</kbd> 🟢<br>JMX over REST.
 
 > **[Micrometer ![GitHub Repo Stars](https://img.shields.io/github/stars/micrometer-metrics/micrometer) ![GitHub last commit](https://img.shields.io/github/last-commit/micrometer-metrics/micrometer)](https://github.com/micrometer-metrics/micrometer)** <kbd>★ 4.9k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Vendor-neutral metrics/observability facade for the most popular metrics/observability libraries.
 
@@ -1335,7 +1335,7 @@ _Tools that observe/monitor applications in production by providing telemetry._
 
 > **[SPM ![GitHub Repo Stars](https://img.shields.io/github/stars/sematext/sematext-agent-java) ![GitHub last commit](https://img.shields.io/github/last-commit/sematext/sematext-agent-java)](https://github.com/sematext/sematext-agent-java)** <kbd>★ 25</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Performance monitor with distributing transaction tracing for JVM apps.
 
-> **[zipkin ![GitHub Repo Stars](https://img.shields.io/github/stars/openzipkin/zipkin) ![GitHub last commit](https://img.shields.io/github/last-commit/openzipkin/zipkin)](https://github.com/openzipkin/zipkin)** <kbd>★ 17.4k</kbd> <kbd>Apache-2.0</kbd> 🟠<br>Distributed tracing system which gathers timing data needed to troubleshoot latency problems in microservice architectures.
+> **[zipkin ![GitHub Repo Stars](https://img.shields.io/github/stars/openzipkin/zipkin) ![GitHub last commit](https://img.shields.io/github/last-commit/openzipkin/zipkin)](https://github.com/openzipkin/zipkin)** <kbd>★ 17.5k</kbd> <kbd>Apache-2.0</kbd> 🟠<br>Distributed tracing system which gathers timing data needed to troubleshoot latency problems in microservice architectures.
 
 </details>
 
@@ -1406,7 +1406,7 @@ _Libraries for building network clients and servers._
 
 > **[MINA ![GitHub Repo Stars](https://img.shields.io/github/stars/apache/mina) ![GitHub last commit](https://img.shields.io/github/last-commit/apache/mina)](https://github.com/apache/mina)** <kbd>★ 925</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Abstract, event-driven async I/O API for network operations over TCP/IP and UDP/IP via Java NIO.
 
-> **[MinimalFTP ![GitHub Repo Stars](https://img.shields.io/github/stars/Guichaguri/MinimalFTP) ![GitHub last commit](https://img.shields.io/github/last-commit/Guichaguri/MinimalFTP)](https://github.com/Guichaguri/MinimalFTP)** <kbd>★ 192</kbd> <kbd>Apache-2.0</kbd> 🔴<br>Lightweight, small and customizable FTP server.
+> **[MinimalFTP ![GitHub Repo Stars](https://img.shields.io/github/stars/Guichaguri/MinimalFTP) ![GitHub last commit](https://img.shields.io/github/last-commit/Guichaguri/MinimalFTP)](https://github.com/Guichaguri/MinimalFTP)** <kbd>★ 191</kbd> <kbd>Apache-2.0</kbd> 🔴<br>Lightweight, small and customizable FTP server.
 
 > **[Netty ![GitHub Repo Stars](https://img.shields.io/github/stars/netty/netty) ![GitHub last commit](https://img.shields.io/github/last-commit/netty/netty)](https://github.com/netty/netty)** <kbd>★ 35.0k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Framework for building high-performance network applications.
 
@@ -1429,7 +1429,7 @@ _Libraries for building network clients and servers._
 
 _APIs that handle the persistence of objects._
 
-> **[Apache Cayenne ![GitHub Repo Stars](https://img.shields.io/github/stars/apache/cayenne) ![GitHub last commit](https://img.shields.io/github/last-commit/apache/cayenne)](https://github.com/apache/cayenne)** <kbd>★ 345</kbd> 🟢<br>Provides a clean, static API for data access. Also includes a GUI Modeler for working with database mappings, and DB reverse engineering and generation.
+> **[Apache Cayenne ![GitHub Repo Stars](https://img.shields.io/github/stars/apache/cayenne) ![GitHub last commit](https://img.shields.io/github/last-commit/apache/cayenne)](https://github.com/apache/cayenne)** <kbd>★ 344</kbd> 🟢<br>Provides a clean, static API for data access. Also includes a GUI Modeler for working with database mappings, and DB reverse engineering and generation.
 
 > **[Doma ![GitHub Repo Stars](https://img.shields.io/github/stars/domaframework/doma) ![GitHub last commit](https://img.shields.io/github/last-commit/domaframework/doma)](https://github.com/domaframework/doma)** <kbd>★ 504</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Database access framework that verifies and generates source code at compile time using annotation processing as well as native SQL templates called two-way SQL.
 
@@ -1447,9 +1447,9 @@ _APIs that handle the persistence of objects._
 
 > **[ObjectiveSql ![GitHub Repo Stars](https://img.shields.io/github/stars/braisdom/ObjectiveSql) ![GitHub last commit](https://img.shields.io/github/last-commit/braisdom/ObjectiveSql)](https://github.com/braisdom/ObjectiveSql)** <kbd>★ 1.3k</kbd> <kbd>Apache-2.0</kbd> 🔴<br>ActiveRecord ORM for rapid development and convention over configuration.
 
-> **[Permazen ![GitHub Repo Stars](https://img.shields.io/github/stars/permazen/permazen) ![GitHub last commit](https://img.shields.io/github/last-commit/permazen/permazen)](https://github.com/permazen/permazen)** <kbd>★ 424</kbd> <kbd>Apache-2.0</kbd> 🟠<br>Language-natural persistence layer.
+> **[Permazen ![GitHub Repo Stars](https://img.shields.io/github/stars/permazen/permazen) ![GitHub last commit](https://img.shields.io/github/last-commit/permazen/permazen)](https://github.com/permazen/permazen)** <kbd>★ 423</kbd> <kbd>Apache-2.0</kbd> 🟠<br>Language-natural persistence layer.
 
-> **[SimpleFlatMapper ![GitHub Repo Stars](https://img.shields.io/github/stars/arnaudroger/SimpleFlatMapper) ![GitHub last commit](https://img.shields.io/github/last-commit/arnaudroger/SimpleFlatMapper)](https://github.com/arnaudroger/SimpleFlatMapper)** <kbd>★ 458</kbd> <kbd>MIT</kbd> 🟠<br>Simple database and CSV mapper.
+> **[SimpleFlatMapper ![GitHub Repo Stars](https://img.shields.io/github/stars/arnaudroger/SimpleFlatMapper) ![GitHub last commit](https://img.shields.io/github/last-commit/arnaudroger/SimpleFlatMapper)](https://github.com/arnaudroger/SimpleFlatMapper)** <kbd>★ 459</kbd> <kbd>MIT</kbd> 🟠<br>Simple database and CSV mapper.
 
 </details>
 
@@ -1483,7 +1483,7 @@ _Tools to help with PDF files._
 
 > **[DynamicReports ![GitHub Repo Stars](https://img.shields.io/github/stars/dynamicreports/dynamicreports) ![GitHub last commit](https://img.shields.io/github/last-commit/dynamicreports/dynamicreports)](https://github.com/dynamicreports/dynamicreports)** <kbd>★ 244</kbd> <kbd>LGPL-3.0</kbd> 🟢<br>Simplifies JasperReports.
 
-> **[Eclipse BIRT ![GitHub Repo Stars](https://img.shields.io/github/stars/eclipse-birt/birt) ![GitHub last commit](https://img.shields.io/github/last-commit/eclipse-birt/birt)](https://github.com/eclipse-birt/birt)** <kbd>★ 539</kbd> <kbd>EPL-2.0</kbd> 🟢<br>Report engine for creating PDF and other formats (DOCX, XLSX, HTML, etc) using Eclipse-based visual editor.
+> **[Eclipse BIRT ![GitHub Repo Stars](https://img.shields.io/github/stars/eclipse-birt/birt) ![GitHub last commit](https://img.shields.io/github/last-commit/eclipse-birt/birt)](https://github.com/eclipse-birt/birt)** <kbd>★ 540</kbd> <kbd>EPL-2.0</kbd> 🟢<br>Report engine for creating PDF and other formats (DOCX, XLSX, HTML, etc) using Eclipse-based visual editor.
 
 > **[flyingsaucer ![GitHub Repo Stars](https://img.shields.io/github/stars/flyingsaucerproject/flyingsaucer) ![GitHub last commit](https://img.shields.io/github/last-commit/flyingsaucerproject/flyingsaucer)](https://github.com/flyingsaucerproject/flyingsaucer)** <kbd>★ 2.2k</kbd> 🟢<br>XML/XHTML and CSS 2.1 renderer. (LGPL-2.1-or-later)
 
@@ -1497,9 +1497,9 @@ _Tools to help with PDF files._
 
 > **[Nostrum Dynamic Jasper ![GitHub Repo Stars](https://img.shields.io/github/stars/nostrum-tech/NostrumDynamicJasper) ![GitHub last commit](https://img.shields.io/github/last-commit/nostrum-tech/NostrumDynamicJasper)](https://github.com/nostrum-tech/NostrumDynamicJasper)** <kbd>★ 1</kbd> <kbd>LGPL-3.0</kbd> 🟢<br>Provides dynamic report layouts on top of JasperReports.
 
-> **[Open HTML to PDF ![GitHub Repo Stars](https://img.shields.io/github/stars/openhtmltopdf/openhtmltopdf) ![GitHub last commit](https://img.shields.io/github/last-commit/openhtmltopdf/openhtmltopdf)](https://github.com/openhtmltopdf/openhtmltopdf)** <kbd>★ 266</kbd> 🟢<br>Properly supports modern PDF standards based on flyingsaucer and Apache PDFBox.
+> **[Open HTML to PDF ![GitHub Repo Stars](https://img.shields.io/github/stars/openhtmltopdf/openhtmltopdf) ![GitHub last commit](https://img.shields.io/github/last-commit/openhtmltopdf/openhtmltopdf)](https://github.com/openhtmltopdf/openhtmltopdf)** <kbd>★ 267</kbd> 🟢<br>Properly supports modern PDF standards based on flyingsaucer and Apache PDFBox.
 
-> **[OpenDataLoader PDF ![GitHub Repo Stars](https://img.shields.io/github/stars/opendataloader-project/opendataloader-pdf) ![GitHub last commit](https://img.shields.io/github/last-commit/opendataloader-project/opendataloader-pdf)](https://github.com/opendataloader-project/opendataloader-pdf)** <kbd>★ 27.9k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Parses PDFs into structured Markdown, JSON and HTML through a Java API and command line.
+> **[OpenDataLoader PDF ![GitHub Repo Stars](https://img.shields.io/github/stars/opendataloader-project/opendataloader-pdf) ![GitHub last commit](https://img.shields.io/github/last-commit/opendataloader-project/opendataloader-pdf)](https://github.com/opendataloader-project/opendataloader-pdf)** <kbd>★ 28.1k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Parses PDFs into structured Markdown, JSON and HTML through a Java API and command line.
 
 > **[OpenPDF ![GitHub Repo Stars](https://img.shields.io/github/stars/LibrePDF/OpenPDF) ![GitHub last commit](https://img.shields.io/github/last-commit/LibrePDF/OpenPDF)](https://github.com/LibrePDF/OpenPDF)** <kbd>★ 4.3k</kbd> 🟢<br>Open-source iText fork. (LGPL-3.0-only & MPL-2.0)
 
@@ -1520,7 +1520,7 @@ _Tools for performance analysis, profiling and benchmarking._
 
 > **[Heap Seance ![GitHub Repo Stars](https://img.shields.io/github/stars/SegfaultSorcerer/heap-seance) ![GitHub last commit](https://img.shields.io/github/last-commit/SegfaultSorcerer/heap-seance)](https://github.com/SegfaultSorcerer/heap-seance)** <kbd>★ 4</kbd> <kbd>Apache-2.0</kbd> 🟠<br>Memory leak diagnostics that orchestrates jcmd, jmap, jstat, JFR, Eclipse MAT, and async-profiler into a structured investigation workflow with confidence-based verdicts.
 
-> **[JDK Mission Control ![GitHub Repo Stars](https://img.shields.io/github/stars/openjdk/jmc) ![GitHub last commit](https://img.shields.io/github/last-commit/openjdk/jmc)](https://github.com/openjdk/jmc)** <kbd>★ 985</kbd> 🟢<br>Profiling and diagnostics suite for JVM applications using Java Flight Recorder.
+> **[JDK Mission Control ![GitHub Repo Stars](https://img.shields.io/github/stars/openjdk/jmc) ![GitHub last commit](https://img.shields.io/github/last-commit/openjdk/jmc)](https://github.com/openjdk/jmc)** <kbd>★ 983</kbd> 🟢<br>Profiling and diagnostics suite for JVM applications using Java Flight Recorder.
 
 > **[jHiccup ![GitHub Repo Stars](https://img.shields.io/github/stars/giltene/jHiccup) ![GitHub last commit](https://img.shields.io/github/last-commit/giltene/jHiccup)](https://github.com/giltene/jHiccup)** <kbd>★ 704</kbd> 🟠<br>Logs and records platform JVM stalls.
 
@@ -1543,7 +1543,7 @@ _Frameworks that are suites of multiple libraries encompassing several categorie
 
 > **[BCEL ![GitHub Repo Stars](https://img.shields.io/github/stars/apache/commons-bcel) ![GitHub last commit](https://img.shields.io/github/last-commit/apache/commons-bcel)](https://github.com/apache/commons-bcel)** <kbd>★ 273</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Byte Code Engineering Library - analyze, create, and manipulate Java class files.
 
-> **[BeanUtils ![GitHub Repo Stars](https://img.shields.io/github/stars/apache/commons-beanutils) ![GitHub last commit](https://img.shields.io/github/last-commit/apache/commons-beanutils)](https://github.com/apache/commons-beanutils)** <kbd>★ 321</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Easy-to-use wrappers around the Java reflection and introspection APIs.
+> **[BeanUtils ![GitHub Repo Stars](https://img.shields.io/github/stars/apache/commons-beanutils) ![GitHub last commit](https://img.shields.io/github/last-commit/apache/commons-beanutils)](https://github.com/apache/commons-beanutils)** <kbd>★ 322</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Easy-to-use wrappers around the Java reflection and introspection APIs.
 
 > **[BSF ![GitHub Repo Stars](https://img.shields.io/github/stars/apache/commons-bsf) ![GitHub last commit](https://img.shields.io/github/last-commit/apache/commons-bsf)](https://github.com/apache/commons-bsf)** <kbd>★ 32</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Bean Scripting Framework - interface to scripting languages, including JSR-223.
 
@@ -1555,29 +1555,29 @@ _Frameworks that are suites of multiple libraries encompassing several categorie
 
 > **[Codec ![GitHub Repo Stars](https://img.shields.io/github/stars/apache/commons-codec) ![GitHub last commit](https://img.shields.io/github/last-commit/apache/commons-codec)](https://github.com/apache/commons-codec)** <kbd>★ 490</kbd> <kbd>Apache-2.0</kbd> 🟢<br>General encoding/decoding algorithms, e.g. phonetic, base64 or URL.
 
-> **[Collections ![GitHub Repo Stars](https://img.shields.io/github/stars/apache/commons-collections) ![GitHub last commit](https://img.shields.io/github/last-commit/apache/commons-collections)](https://github.com/apache/commons-collections)** <kbd>★ 724</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Extends or augments the Java Collections Framework.
+> **[Collections ![GitHub Repo Stars](https://img.shields.io/github/stars/apache/commons-collections) ![GitHub last commit](https://img.shields.io/github/last-commit/apache/commons-collections)](https://github.com/apache/commons-collections)** <kbd>★ 726</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Extends or augments the Java Collections Framework.
 
 > **[Compress ![GitHub Repo Stars](https://img.shields.io/github/stars/apache/commons-compress) ![GitHub last commit](https://img.shields.io/github/last-commit/apache/commons-compress)](https://github.com/apache/commons-compress)** <kbd>★ 402</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Defines an API for working with tar, zip and bzip2 files.
 
-> **[Configuration ![GitHub Repo Stars](https://img.shields.io/github/stars/apache/commons-configuration) ![GitHub last commit](https://img.shields.io/github/last-commit/apache/commons-configuration)](https://github.com/apache/commons-configuration)** <kbd>★ 214</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Reading of configuration/preferences files in various formats.
+> **[Configuration ![GitHub Repo Stars](https://img.shields.io/github/stars/apache/commons-configuration) ![GitHub last commit](https://img.shields.io/github/last-commit/apache/commons-configuration)](https://github.com/apache/commons-configuration)** <kbd>★ 215</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Reading of configuration/preferences files in various formats.
 
 > **[Convert](https://commons.apache.org/sandbox/commons-convert/)**<br>Commons-Convert aims to provide a single library dedicated to the task of converting an object of one type to another.
 
-> **[CSV ![GitHub Repo Stars](https://img.shields.io/github/stars/apache/commons-csv) ![GitHub last commit](https://img.shields.io/github/last-commit/apache/commons-csv)](https://github.com/apache/commons-csv)** <kbd>★ 413</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Component for reading and writing comma separated value files.
+> **[CSV ![GitHub Repo Stars](https://img.shields.io/github/stars/apache/commons-csv) ![GitHub last commit](https://img.shields.io/github/last-commit/apache/commons-csv)](https://github.com/apache/commons-csv)** <kbd>★ 414</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Component for reading and writing comma separated value files.
 
 > **[Daemon ![GitHub Repo Stars](https://img.shields.io/github/stars/apache/commons-daemon) ![GitHub last commit](https://img.shields.io/github/last-commit/apache/commons-daemon)](https://github.com/apache/commons-daemon)** <kbd>★ 107</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Alternative invocation mechanism for unix-daemon-like java code.
 
-> **[DBCP ![GitHub Repo Stars](https://img.shields.io/github/stars/apache/commons-dbcp) ![GitHub last commit](https://img.shields.io/github/last-commit/apache/commons-dbcp)](https://github.com/apache/commons-dbcp)** <kbd>★ 369</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Database connection pooling services.
+> **[DBCP ![GitHub Repo Stars](https://img.shields.io/github/stars/apache/commons-dbcp) ![GitHub last commit](https://img.shields.io/github/last-commit/apache/commons-dbcp)](https://github.com/apache/commons-dbcp)** <kbd>★ 368</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Database connection pooling services.
 
 > **[DbUtils ![GitHub Repo Stars](https://img.shields.io/github/stars/apache/commons-dbutils) ![GitHub last commit](https://img.shields.io/github/last-commit/apache/commons-dbutils)](https://github.com/apache/commons-dbutils)** <kbd>★ 392</kbd> <kbd>Apache-2.0</kbd> 🟢<br>JDBC helper library.
 
 > **[Digester ![GitHub Repo Stars](https://img.shields.io/github/stars/apache/commons-digester) ![GitHub last commit](https://img.shields.io/github/last-commit/apache/commons-digester)](https://github.com/apache/commons-digester)** <kbd>★ 62</kbd> <kbd>Apache-2.0</kbd> 🟢<br>XML-to-Java-object mapping utility.
 
-> **[Email ![GitHub Repo Stars](https://img.shields.io/github/stars/apache/commons-email) ![GitHub last commit](https://img.shields.io/github/last-commit/apache/commons-email)](https://github.com/apache/commons-email)** <kbd>★ 176</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Library for sending e-mail from Java.
+> **[Email ![GitHub Repo Stars](https://img.shields.io/github/stars/apache/commons-email) ![GitHub last commit](https://img.shields.io/github/last-commit/apache/commons-email)](https://github.com/apache/commons-email)** <kbd>★ 177</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Library for sending e-mail from Java.
 
 > **[Exec ![GitHub Repo Stars](https://img.shields.io/github/stars/apache/commons-exec) ![GitHub last commit](https://img.shields.io/github/last-commit/apache/commons-exec)](https://github.com/apache/commons-exec)** <kbd>★ 162</kbd> <kbd>Apache-2.0</kbd> 🟢<br>API for dealing with external process execution and environment management in Java.
 
-> **[FileUpload ![GitHub Repo Stars](https://img.shields.io/github/stars/apache/commons-fileupload) ![GitHub last commit](https://img.shields.io/github/last-commit/apache/commons-fileupload)](https://github.com/apache/commons-fileupload)** <kbd>★ 260</kbd> <kbd>Apache-2.0</kbd> 🟢<br>File upload capability for your servlets and web applications.
+> **[FileUpload ![GitHub Repo Stars](https://img.shields.io/github/stars/apache/commons-fileupload) ![GitHub last commit](https://img.shields.io/github/last-commit/apache/commons-fileupload)](https://github.com/apache/commons-fileupload)** <kbd>★ 261</kbd> <kbd>Apache-2.0</kbd> 🟢<br>File upload capability for your servlets and web applications.
 
 > **[Finder](https://commons.apache.org/sandbox/commons-finder/)**<br>Java library inspired by the UNIX find command.
 
@@ -1609,7 +1609,7 @@ _Frameworks that are suites of multiple libraries encompassing several categorie
 
 > **[Lang ![GitHub Repo Stars](https://img.shields.io/github/stars/apache/commons-lang) ![GitHub last commit](https://img.shields.io/github/last-commit/apache/commons-lang)](https://github.com/apache/commons-lang)** <kbd>★ 3.0k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Provides extra functionality for classes in java.lang.
 
-> **[Logging ![GitHub Repo Stars](https://img.shields.io/github/stars/apache/commons-logging) ![GitHub last commit](https://img.shields.io/github/last-commit/apache/commons-logging)](https://github.com/apache/commons-logging)** <kbd>★ 167</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Wrapper around a variety of logging API implementations.
+> **[Logging ![GitHub Repo Stars](https://img.shields.io/github/stars/apache/commons-logging) ![GitHub last commit](https://img.shields.io/github/last-commit/apache/commons-logging)](https://github.com/apache/commons-logging)** <kbd>★ 168</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Wrapper around a variety of logging API implementations.
 
 > **[Math ![GitHub Repo Stars](https://img.shields.io/github/stars/apache/commons-math) ![GitHub last commit](https://img.shields.io/github/last-commit/apache/commons-math)](https://github.com/apache/commons-math)** <kbd>★ 651</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Lightweight, self-contained mathematics and statistics components.
 
@@ -1617,7 +1617,7 @@ _Frameworks that are suites of multiple libraries encompassing several categorie
 
 > **[Nabla](https://commons.apache.org/sandbox/commons-nabla/)**<br>Nabla provides automatic differentiation classes that can generate derivative of any function implemented in the Java language.
 
-> **[Net ![GitHub Repo Stars](https://img.shields.io/github/stars/apache/commons-net) ![GitHub last commit](https://img.shields.io/github/last-commit/apache/commons-net)](https://github.com/apache/commons-net)** <kbd>★ 295</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Collection of network utilities and protocol implementations.
+> **[Net ![GitHub Repo Stars](https://img.shields.io/github/stars/apache/commons-net) ![GitHub last commit](https://img.shields.io/github/last-commit/apache/commons-net)](https://github.com/apache/commons-net)** <kbd>★ 296</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Collection of network utilities and protocol implementations.
 
 > **[OpenPGP](https://commons.apache.org/sandbox/commons-openpgp/)**<br>Interface to signing and verifying data using OpenPGP.
 
@@ -1625,7 +1625,7 @@ _Frameworks that are suites of multiple libraries encompassing several categorie
 
 > **[Pipeline](https://commons.apache.org/sandbox/commons-pipeline/)**<br>Provides a set of pipeline utilities designed around work queues that run in parallel to sequentially process data objects.
 
-> **[Pool ![GitHub Repo Stars](https://img.shields.io/github/stars/apache/commons-pool) ![GitHub last commit](https://img.shields.io/github/last-commit/apache/commons-pool)](https://github.com/apache/commons-pool)** <kbd>★ 552</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Generic object pooling component.
+> **[Pool ![GitHub Repo Stars](https://img.shields.io/github/stars/apache/commons-pool) ![GitHub last commit](https://img.shields.io/github/last-commit/apache/commons-pool)](https://github.com/apache/commons-pool)** <kbd>★ 553</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Generic object pooling component.
 
 > **[RDF ![GitHub Repo Stars](https://img.shields.io/github/stars/apache/commons-rdf) ![GitHub last commit](https://img.shields.io/github/last-commit/apache/commons-rdf)](https://github.com/apache/commons-rdf)** <kbd>★ 58</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Common implementation of RDF 1.1 that could be implemented by systems on the JVM.
 
@@ -1641,7 +1641,7 @@ _Frameworks that are suites of multiple libraries encompassing several categorie
 
 #### Other <kbd>3 projects</kbd>
 
-> **[CUBA Platform ![GitHub Repo Stars](https://img.shields.io/github/stars/jmix-framework/jmix) ![GitHub last commit](https://img.shields.io/github/last-commit/jmix-framework/jmix)](https://github.com/jmix-framework/jmix)** <kbd>★ 693</kbd> <kbd>Apache-2.0</kbd> 🟢<br>High-level framework for developing enterprise applications with a rich web interface, based on Spring, EclipseLink and Vaadin.
+> **[CUBA Platform ![GitHub Repo Stars](https://img.shields.io/github/stars/jmix-framework/jmix) ![GitHub last commit](https://img.shields.io/github/last-commit/jmix-framework/jmix)](https://github.com/jmix-framework/jmix)** <kbd>★ 695</kbd> <kbd>Apache-2.0</kbd> 🟢<br>High-level framework for developing enterprise applications with a rich web interface, based on Spring, EclipseLink and Vaadin.
 
 > **[Light-4J ![GitHub Repo Stars](https://img.shields.io/github/stars/networknt/light-4j) ![GitHub last commit](https://img.shields.io/github/last-commit/networknt/light-4j)](https://github.com/networknt/light-4j/)** <kbd>★ 3.7k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Fast, lightweight and productive microservices framework with built-in security.
 
@@ -1667,9 +1667,9 @@ _Libraries that help the management of operating system processes._
 
 _Java proxy and gateway servers for routing and mediating traffic._
 
-> **[LittleProxy ![GitHub Repo Stars](https://img.shields.io/github/stars/LittleProxy/LittleProxy) ![GitHub last commit](https://img.shields.io/github/last-commit/LittleProxy/LittleProxy)](https://github.com/LittleProxy/LittleProxy)** <kbd>★ 149</kbd> <kbd>Apache-2.0</kbd> 🟢<br>High performance HTTP proxy atop Netty's event-based networking library.
+> **[LittleProxy ![GitHub Repo Stars](https://img.shields.io/github/stars/LittleProxy/LittleProxy) ![GitHub last commit](https://img.shields.io/github/last-commit/LittleProxy/LittleProxy)](https://github.com/LittleProxy/LittleProxy)** <kbd>★ 150</kbd> <kbd>Apache-2.0</kbd> 🟢<br>High performance HTTP proxy atop Netty's event-based networking library.
 
-> **[Membrane Service Proxy ![GitHub Repo Stars](https://img.shields.io/github/stars/membrane/api-gateway) ![GitHub last commit](https://img.shields.io/github/last-commit/membrane/api-gateway)](https://github.com/membrane/api-gateway)** <kbd>★ 626</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Open-source, reverse-proxy framework.
+> **[Membrane Service Proxy ![GitHub Repo Stars](https://img.shields.io/github/stars/membrane/api-gateway) ![GitHub last commit](https://img.shields.io/github/last-commit/membrane/api-gateway)](https://github.com/membrane/api-gateway)** <kbd>★ 628</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Open-source, reverse-proxy framework.
 
 > **[OpenIG ![GitHub Repo Stars](https://img.shields.io/github/stars/OpenIdentityPlatform/OpenIG) ![GitHub last commit](https://img.shields.io/github/last-commit/OpenIdentityPlatform/OpenIG)](https://github.com/OpenIdentityPlatform/OpenIG)** <kbd>★ 90</kbd> 🟢<br>High-performance reverse proxy server with specialized session management and credential replay functionality.
 
@@ -1749,9 +1749,9 @@ _Frameworks specifically for creating RESTful services._
 
 _Libraries for scientific computing, analysis and visualization._
 
-> **[BioJava ![GitHub Repo Stars](https://img.shields.io/github/stars/biojava/biojava) ![GitHub last commit](https://img.shields.io/github/last-commit/biojava/biojava)](https://github.com/biojava/biojava)** <kbd>★ 627</kbd> <kbd>LGPL-2.1</kbd> 🟢<br>Facilitates processing biological data by providing algorithms, file format parsers, sequencing and 3D visualization commonly used in bioinformatics.
+> **[BioJava ![GitHub Repo Stars](https://img.shields.io/github/stars/biojava/biojava) ![GitHub last commit](https://img.shields.io/github/last-commit/biojava/biojava)](https://github.com/biojava/biojava)** <kbd>★ 628</kbd> <kbd>LGPL-2.1</kbd> 🟢<br>Facilitates processing biological data by providing algorithms, file format parsers, sequencing and 3D visualization commonly used in bioinformatics.
 
-> **[Chart-FX ![GitHub Repo Stars](https://img.shields.io/github/stars/fair-acc/chart-fx) ![GitHub last commit](https://img.shields.io/github/last-commit/fair-acc/chart-fx)](https://github.com/fair-acc/chart-fx)** <kbd>★ 611</kbd> <kbd>LGPL-3.0</kbd> 🟠<br>Scientific charting library with focus on performance optimised real-time data visualisation at 25 Hz update rates for large data sets.
+> **[Chart-FX ![GitHub Repo Stars](https://img.shields.io/github/stars/fair-acc/chart-fx) ![GitHub last commit](https://img.shields.io/github/last-commit/fair-acc/chart-fx)](https://github.com/fair-acc/chart-fx)** <kbd>★ 612</kbd> <kbd>LGPL-3.0</kbd> 🟠<br>Scientific charting library with focus on performance optimised real-time data visualisation at 25 Hz update rates for large data sets.
 
 > **[DataMelt](https://datamelt.org/)**<br>Environment for scientific computation, data analysis and data visualization. (GPL-3.0-or-later)
 
@@ -1763,15 +1763,15 @@ _Libraries for scientific computing, analysis and visualization._
 
 > **[JGraphT ![GitHub Repo Stars](https://img.shields.io/github/stars/jgrapht/jgrapht) ![GitHub last commit](https://img.shields.io/github/last-commit/jgrapht/jgrapht)](https://github.com/jgrapht/jgrapht)** <kbd>★ 2.8k</kbd> <kbd>EPL-2.0</kbd> 🟢<br>Graph library that provides mathematical graph-theory objects and algorithms.
 
-> **[jSciPy ![GitHub Repo Stars](https://img.shields.io/github/stars/hissain/jscipy) ![GitHub last commit](https://img.shields.io/github/last-commit/hissain/jscipy)](https://github.com/hissain/jscipy)** <kbd>★ 24</kbd> <kbd>MIT</kbd> 🟢<br>jSciPy is a Java library designed for scientific computing, offering functionalities inspired by popular scientific computing libraries. It currently provides modules for signal processing, including Butterworth filters, peak finding algorithms, and an RK4 solver for ordinary differential equations.
+> **[jSciPy ![GitHub Repo Stars](https://img.shields.io/github/stars/hissain/jscipy) ![GitHub last commit](https://img.shields.io/github/last-commit/hissain/jscipy)](https://github.com/hissain/jscipy)** <kbd>★ 23</kbd> <kbd>MIT</kbd> 🟢<br>jSciPy is a Java library designed for scientific computing, offering functionalities inspired by popular scientific computing libraries. It currently provides modules for signal processing, including Butterworth filters, peak finding algorithms, and an RK4 solver for ordinary differential equations.
 
 > **[LogicNG ![GitHub Repo Stars](https://img.shields.io/github/stars/logic-ng/LogicNG) ![GitHub last commit](https://img.shields.io/github/last-commit/logic-ng/LogicNG)](https://github.com/logic-ng/LogicNG)** <kbd>★ 155</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Library for creating, manipulating and solving Boolean and Pseudo-Boolean formulas.
 
 > **[Mines Java Toolkit ![GitHub Repo Stars](https://img.shields.io/github/stars/MinesJTK/jtk) ![GitHub last commit](https://img.shields.io/github/last-commit/MinesJTK/jtk)](https://github.com/MinesJTK/jtk)** <kbd>★ 87</kbd> <kbd>Apache-2.0</kbd> 🔴<br>Library for geophysical scientific computation, visualization and digital signal analysis.
 
-> **[Orekit ![GitHub Repo Stars](https://img.shields.io/github/stars/CS-SI/Orekit) ![GitHub last commit](https://img.shields.io/github/last-commit/CS-SI/Orekit)](https://github.com/CS-SI/Orekit)** <kbd>★ 285</kbd> <kbd>Apache-2.0</kbd> 🟢<br>A low level space flight dynamics library providing basic elements (orbits, dates, attitude, frames...) and various algorithms (conversions, propagations, pointing...) to handle them.
+> **[Orekit ![GitHub Repo Stars](https://img.shields.io/github/stars/CS-SI/Orekit) ![GitHub last commit](https://img.shields.io/github/last-commit/CS-SI/Orekit)](https://github.com/CS-SI/Orekit)** <kbd>★ 286</kbd> <kbd>Apache-2.0</kbd> 🟢<br>A low level space flight dynamics library providing basic elements (orbits, dates, attitude, frames...) and various algorithms (conversions, propagations, pointing...) to handle them.
 
-> **[Orson-Charts ![GitHub Repo Stars](https://img.shields.io/github/stars/jfree/orson-charts) ![GitHub last commit](https://img.shields.io/github/last-commit/jfree/orson-charts)](https://github.com/jfree/orson-charts)** <kbd>★ 121</kbd> <kbd>GPL-3.0</kbd> 🔴<br>Generates a wide variety of 3D charts that can be displayed with Swing and JavaFX or exported to PDF, SVG, PNG and JPEG.
+> **[Orson-Charts ![GitHub Repo Stars](https://img.shields.io/github/stars/jfree/orson-charts) ![GitHub last commit](https://img.shields.io/github/last-commit/jfree/orson-charts)](https://github.com/jfree/orson-charts)** <kbd>★ 122</kbd> <kbd>GPL-3.0</kbd> 🔴<br>Generates a wide variety of 3D charts that can be displayed with Swing and JavaFX or exported to PDF, SVG, PNG and JPEG.
 
 > **[XChart ![GitHub Repo Stars](https://img.shields.io/github/stars/knowm/XChart) ![GitHub last commit](https://img.shields.io/github/last-commit/knowm/XChart)](https://github.com/knowm/XChart)** <kbd>★ 1.6k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Light-weight library for plotting data. Many customizable chart types are available.
 
@@ -1786,7 +1786,7 @@ _Tools and runtimes for using Java or Java-like languages as scripts._
 
 > **[JPad](https://jpad.io)**<br>Snippet runner.
 
-> **[JQuick Java ![GitHub Repo Stars](https://img.shields.io/github/stars/paohaijiao/jquick-java) ![GitHub last commit](https://img.shields.io/github/last-commit/paohaijiao/jquick-java)](https://github.com/paohaijiao/jquick-java)** <kbd>★ 449</kbd> 🟢<br>Java-like scripting language for dynamic rule engines with XML orchestration and Java interoperability.
+> **[JQuick Java ![GitHub Repo Stars](https://img.shields.io/github/stars/paohaijiao/jquick-java) ![GitHub last commit](https://img.shields.io/github/last-commit/paohaijiao/jquick-java)](https://github.com/paohaijiao/jquick-java)** <kbd>★ 447</kbd> 🟢<br>Java-like scripting language for dynamic rule engines with XML orchestration and Java interoperability.
 
 </details>
 
@@ -1801,11 +1801,11 @@ _Engines that index documents for search and analysis._
 
 > **[Elasticsearch ![GitHub Repo Stars](https://img.shields.io/github/stars/elastic/elasticsearch) ![GitHub last commit](https://img.shields.io/github/last-commit/elastic/elasticsearch)](https://github.com/elastic/elasticsearch)** <kbd>★ 77.6k</kbd> 🟢<br>Distributed, multitenant-capable, full-text search engine with a RESTful web interface and schema-free JSON documents.
 
-> **[Elasticsearch Java Client ![GitHub Repo Stars](https://img.shields.io/github/stars/elastic/elasticsearch-java) ![GitHub last commit](https://img.shields.io/github/last-commit/elastic/elasticsearch-java)](https://github.com/elastic/elasticsearch-java)** <kbd>★ 522</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Official typed Java client for Elasticsearch.
+> **[Elasticsearch Java Client ![GitHub Repo Stars](https://img.shields.io/github/stars/elastic/elasticsearch-java) ![GitHub last commit](https://img.shields.io/github/last-commit/elastic/elasticsearch-java)](https://github.com/elastic/elasticsearch-java)** <kbd>★ 524</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Official typed Java client for Elasticsearch.
 
 > **[OpenSearch ![GitHub Repo Stars](https://img.shields.io/github/stars/opensearch-project/OpenSearch) ![GitHub last commit](https://img.shields.io/github/last-commit/opensearch-project/OpenSearch)](https://github.com/opensearch-project/OpenSearch)** <kbd>★ 13.4k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Distributed search and analytics engine derived from Elasticsearch.
 
-> **[Viglet Turing ES ![GitHub Repo Stars](https://img.shields.io/github/stars/openviglet/turing-ce) ![GitHub last commit](https://img.shields.io/github/last-commit/openviglet/turing-ce)](https://github.com/openviglet/turing-ce)** <kbd>★ 0</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Self-hosted enterprise search platform with faceted, semantic and hybrid search, RAG, AI agents and pluggable Solr, Elasticsearch or Lucene backends.
+> **[Viglet Turing ES ![GitHub Repo Stars](https://img.shields.io/github/stars/openviglet/turing-ce) ![GitHub last commit](https://img.shields.io/github/last-commit/openviglet/turing-ce)](https://github.com/openviglet/turing-ce)** <kbd>★ 14</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Self-hosted enterprise search platform with faceted, semantic and hybrid search, RAG, AI agents and pluggable Solr, Elasticsearch or Lucene backends.
 
 </details>
 
@@ -1816,15 +1816,15 @@ _Libraries that handle security, authentication, authorization or session manage
 
 > **[Apache Shiro ![GitHub Repo Stars](https://img.shields.io/github/stars/apache/shiro) ![GitHub last commit](https://img.shields.io/github/last-commit/apache/shiro)](https://github.com/apache/shiro)** <kbd>★ 4.4k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Performs authentication, authorization, cryptography and session management.
 
-> **[Ayza ![GitHub Repo Stars](https://img.shields.io/github/stars/Hakky54/ayza) ![GitHub last commit](https://img.shields.io/github/last-commit/Hakky54/ayza)](https://github.com/Hakky54/ayza)** <kbd>★ 579</kbd> <kbd>Apache-2.0</kbd> 🟢<br>High-level SSL configuration builder for configuring HTTP clients and servers with SSL/TLS.
+> **[Ayza ![GitHub Repo Stars](https://img.shields.io/github/stars/Hakky54/ayza) ![GitHub last commit](https://img.shields.io/github/last-commit/Hakky54/ayza)](https://github.com/Hakky54/ayza)** <kbd>★ 578</kbd> <kbd>Apache-2.0</kbd> 🟢<br>High-level SSL configuration builder for configuring HTTP clients and servers with SSL/TLS.
 
 > **[Bouncy Castle ![GitHub Repo Stars](https://img.shields.io/github/stars/bcgit/bc-java) ![GitHub last commit](https://img.shields.io/github/last-commit/bcgit/bc-java)](https://github.com/bcgit/bc-java)** <kbd>★ 2.7k</kbd> <kbd>MIT</kbd> 🟢<br>All-purpose cryptographic library and JCA provider offering a wide range of functions, from basic helpers to PGP/SMIME operations.
 
-> **[Certificate Ripper ![GitHub Repo Stars](https://img.shields.io/github/stars/Hakky54/certificate-ripper) ![GitHub last commit](https://img.shields.io/github/last-commit/Hakky54/certificate-ripper)](https://github.com/Hakky54/certificate-ripper)** <kbd>★ 920</kbd> <kbd>Apache-2.0</kbd> 🟢<br>CLI tool and library for extracting and exporting server certificates from HTTPS endpoints.
+> **[Certificate Ripper ![GitHub Repo Stars](https://img.shields.io/github/stars/Hakky54/certificate-ripper) ![GitHub last commit](https://img.shields.io/github/last-commit/Hakky54/certificate-ripper)](https://github.com/Hakky54/certificate-ripper)** <kbd>★ 919</kbd> <kbd>Apache-2.0</kbd> 🟢<br>CLI tool and library for extracting and exporting server certificates from HTTPS endpoints.
 
 > **[Cryptomator ![GitHub Repo Stars](https://img.shields.io/github/stars/cryptomator/cryptomator) ![GitHub last commit](https://img.shields.io/github/last-commit/cryptomator/cryptomator)](https://github.com/cryptomator/cryptomator)** <kbd>★ 15.8k</kbd> <kbd>GPL-3.0</kbd> 🟢<br>Multiplatform, transparent, client-side encryption of files in the cloud.
 
-> **[Dependency-Track ![GitHub Repo Stars](https://img.shields.io/github/stars/DependencyTrack/dependency-track) ![GitHub last commit](https://img.shields.io/github/last-commit/DependencyTrack/dependency-track)](https://github.com/DependencyTrack/dependency-track)** <kbd>★ 4.0k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Software composition analysis platform for identifying supply-chain risk.
+> **[Dependency-Track ![GitHub Repo Stars](https://img.shields.io/github/stars/DependencyTrack/dependency-track) ![GitHub last commit](https://img.shields.io/github/last-commit/DependencyTrack/dependency-track)](https://github.com/DependencyTrack/dependency-track)** <kbd>★ 4.1k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Software composition analysis platform for identifying supply-chain risk.
 
 > **[Jasypt Spring Boot ![GitHub Repo Stars](https://img.shields.io/github/stars/ulisesbocchio/jasypt-spring-boot) ![GitHub last commit](https://img.shields.io/github/last-commit/ulisesbocchio/jasypt-spring-boot)](https://github.com/ulisesbocchio/jasypt-spring-boot)** <kbd>★ 3.1k</kbd> <kbd>MIT</kbd> 🟠<br>Integrates encrypted properties with Spring Boot applications.
 
@@ -1834,15 +1834,15 @@ _Libraries that handle security, authentication, authorization or session manage
 
 > **[jwt-java ![GitHub Repo Stars](https://img.shields.io/github/stars/BastiaanJansen/jwt-java) ![GitHub last commit](https://img.shields.io/github/last-commit/BastiaanJansen/jwt-java)](https://github.com/BastiaanJansen/jwt-java)** <kbd>★ 14</kbd> <kbd>MIT</kbd> 🔴<br>Easily create and parse JSON Web Tokens and create customized JWT validators using a fluent API.
 
-> **[Keycloak ![GitHub Repo Stars](https://img.shields.io/github/stars/keycloak/keycloak) ![GitHub last commit](https://img.shields.io/github/last-commit/keycloak/keycloak)](https://github.com/keycloak/keycloak)** <kbd>★ 35.8k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Integrated SSO and IDM for browser apps and RESTful web services.
+> **[Keycloak ![GitHub Repo Stars](https://img.shields.io/github/stars/keycloak/keycloak) ![GitHub last commit](https://img.shields.io/github/last-commit/keycloak/keycloak)](https://github.com/keycloak/keycloak)** <kbd>★ 36.0k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Integrated SSO and IDM for browser apps and RESTful web services.
 
 > **[MOSS ![GitHub Repo Stars](https://img.shields.io/github/stars/mosscomputing/moss-java) ![GitHub last commit](https://img.shields.io/github/last-commit/mosscomputing/moss-java)](https://github.com/mosscomputing/moss-java)** <kbd>★ 0</kbd> 🟢<br>Cryptographic signing for AI agents using ML-DSA-44 post-quantum signatures, creating audit trails for attribution and compliance.
 
 > **[Nbvcxz ![GitHub Repo Stars](https://img.shields.io/github/stars/GoSimpleLLC/nbvcxz) ![GitHub last commit](https://img.shields.io/github/last-commit/GoSimpleLLC/nbvcxz)](https://github.com/GoSimpleLLC/nbvcxz)** <kbd>★ 309</kbd> <kbd>MIT</kbd> 🟠<br>Advanced password strength estimation.
 
-> **[OpenAM ![GitHub Repo Stars](https://img.shields.io/github/stars/OpenIdentityPlatform/OpenAM) ![GitHub last commit](https://img.shields.io/github/last-commit/OpenIdentityPlatform/OpenAM)](https://github.com/OpenIdentityPlatform/OpenAM)** <kbd>★ 879</kbd> 🟢<br>Access management solution that includes authentication, SSO, authorization, federation, entitlements and web services security.
+> **[OpenAM ![GitHub Repo Stars](https://img.shields.io/github/stars/OpenIdentityPlatform/OpenAM) ![GitHub last commit](https://img.shields.io/github/last-commit/OpenIdentityPlatform/OpenAM)](https://github.com/OpenIdentityPlatform/OpenAM)** <kbd>★ 880</kbd> 🟢<br>Access management solution that includes authentication, SSO, authorization, federation, entitlements and web services security.
 
-> **[OTP-Java ![GitHub Repo Stars](https://img.shields.io/github/stars/BastiaanJansen/OTP-Java) ![GitHub last commit](https://img.shields.io/github/last-commit/BastiaanJansen/OTP-Java)](https://github.com/BastiaanJansen/OTP-Java)** <kbd>★ 238</kbd> <kbd>MIT</kbd> 🟢<br>One-time password generator library according to RFC 4226 (HOTP) and RFC 6238 (TOTP).
+> **[OTP-Java ![GitHub Repo Stars](https://img.shields.io/github/stars/BastiaanJansen/OTP-Java) ![GitHub last commit](https://img.shields.io/github/last-commit/BastiaanJansen/OTP-Java)](https://github.com/BastiaanJansen/OTP-Java)** <kbd>★ 241</kbd> <kbd>MIT</kbd> 🟢<br>One-time password generator library according to RFC 4226 (HOTP) and RFC 6238 (TOTP).
 
 > **[OWASP Dependency-Check ![GitHub Repo Stars](https://img.shields.io/github/stars/dependency-check/DependencyCheck) ![GitHub last commit](https://img.shields.io/github/last-commit/dependency-check/DependencyCheck)](https://github.com/dependency-check/DependencyCheck)** <kbd>★ 7.6k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Detects publicly disclosed vulnerabilities contained within a project's dependencies.
 
@@ -1850,7 +1850,7 @@ _Libraries that handle security, authentication, authorization or session manage
 
 > **[Passay ![GitHub Repo Stars](https://img.shields.io/github/stars/vt-middleware/passay) ![GitHub last commit](https://img.shields.io/github/last-commit/vt-middleware/passay)](https://github.com/vt-middleware/passay)** <kbd>★ 313</kbd> 🟠<br>Enforce password policy by validating candidate passwords against a configurable rule set.
 
-> **[Password4j ![GitHub Repo Stars](https://img.shields.io/github/stars/Password4j/password4j) ![GitHub last commit](https://img.shields.io/github/last-commit/Password4j/password4j)](https://github.com/Password4j/password4j)** <kbd>★ 428</kbd> <kbd>Apache-2.0</kbd> 🟠<br>User-friendly cryptographic library that supports Argon2, Bcrypt, Scrypt, PBKDF2 and various other cryptographic hash functions.
+> **[Password4j ![GitHub Repo Stars](https://img.shields.io/github/stars/Password4j/password4j) ![GitHub last commit](https://img.shields.io/github/last-commit/Password4j/password4j)](https://github.com/Password4j/password4j)** <kbd>★ 430</kbd> <kbd>Apache-2.0</kbd> 🟠<br>User-friendly cryptographic library that supports Argon2, Bcrypt, Scrypt, PBKDF2 and various other cryptographic hash functions.
 
 > **[ScribeJava ![GitHub Repo Stars](https://img.shields.io/github/stars/scribejava/scribejava) ![GitHub last commit](https://img.shields.io/github/last-commit/scribejava/scribejava)](https://github.com/scribejava/scribejava)** <kbd>★ 5.5k</kbd> <kbd>MIT</kbd> 🟢<br>OAuth client library supporting OAuth 1.0a, OAuth 2.0 and numerous providers.
 
@@ -1860,11 +1860,11 @@ _Libraries that handle security, authentication, authorization or session manage
 
 > **[Themis ![GitHub Repo Stars](https://img.shields.io/github/stars/cossacklabs/themis) ![GitHub last commit](https://img.shields.io/github/last-commit/cossacklabs/themis)](https://github.com/cossacklabs/themis)** <kbd>★ 2.0k</kbd> <kbd>Apache-2.0</kbd> 🟠<br>Multi-platform high-level cryptographic library provides easy-to-use encryption for protecting sensitive data: secure messaging with forward secrecy, secure data storage (AES256GCM); suits for building end-to-end encrypted applications.
 
-> **[Tink ![GitHub Repo Stars](https://img.shields.io/github/stars/tink-crypto/tink-java) ![GitHub last commit](https://img.shields.io/github/last-commit/tink-crypto/tink-java)](https://github.com/tink-crypto/tink-java)** <kbd>★ 295</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Provides a simple and misuse-proof API for common cryptographic tasks.
+> **[Tink ![GitHub Repo Stars](https://img.shields.io/github/stars/tink-crypto/tink-java) ![GitHub last commit](https://img.shields.io/github/last-commit/tink-crypto/tink-java)](https://github.com/tink-crypto/tink-java)** <kbd>★ 297</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Provides a simple and misuse-proof API for common cryptographic tasks.
 
 > **[Topaz ![GitHub Repo Stars](https://img.shields.io/github/stars/aserto-dev/topaz) ![GitHub last commit](https://img.shields.io/github/last-commit/aserto-dev/topaz)](https://github.com/aserto-dev/topaz)** <kbd>★ 1.4k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Fine-grained authorization for applications with support for RBAC, ABAC, and ReBAC.
 
-> **[WebAuthn4J ![GitHub Repo Stars](https://img.shields.io/github/stars/webauthn4j/webauthn4j) ![GitHub last commit](https://img.shields.io/github/last-commit/webauthn4j/webauthn4j)](https://github.com/webauthn4j/webauthn4j)** <kbd>★ 580</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Server-side WebAuthn and passkey verification library.
+> **[WebAuthn4J ![GitHub Repo Stars](https://img.shields.io/github/stars/webauthn4j/webauthn4j) ![GitHub last commit](https://img.shields.io/github/last-commit/webauthn4j/webauthn4j)](https://github.com/webauthn4j/webauthn4j)** <kbd>★ 582</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Server-side WebAuthn and passkey verification library.
 
 </details>
 
@@ -1889,7 +1889,7 @@ _Libraries that handle serialization with high efficiency._
 
 > **[MessagePack ![GitHub Repo Stars](https://img.shields.io/github/stars/msgpack/msgpack-java) ![GitHub last commit](https://img.shields.io/github/last-commit/msgpack/msgpack-java)](https://github.com/msgpack/msgpack-java)** <kbd>★ 1.5k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Efficient binary serialization format.
 
-> **[Protobuf ![GitHub Repo Stars](https://img.shields.io/github/stars/protocolbuffers/protobuf) ![GitHub last commit](https://img.shields.io/github/last-commit/protocolbuffers/protobuf)](https://github.com/protocolbuffers/protobuf)** <kbd>★ 71.6k</kbd> 🟢<br>Google's data interchange format.
+> **[Protobuf ![GitHub Repo Stars](https://img.shields.io/github/stars/protocolbuffers/protobuf) ![GitHub last commit](https://img.shields.io/github/last-commit/protocolbuffers/protobuf)](https://github.com/protocolbuffers/protobuf)** <kbd>★ 71.7k</kbd> 🟢<br>Google's data interchange format.
 
 > **[SBE ![GitHub Repo Stars](https://img.shields.io/github/stars/aeron-io/simple-binary-encoding) ![GitHub last commit](https://img.shields.io/github/last-commit/aeron-io/simple-binary-encoding)](https://github.com/aeron-io/simple-binary-encoding)** <kbd>★ 3.5k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Simple Binary Encoding, one of the fastest message formats around.
 
@@ -1927,9 +1927,9 @@ _Libraries for reading, writing and generating spreadsheet files._
 
 > **[jackson-dataformat-spreadsheet ![GitHub Repo Stars](https://img.shields.io/github/stars/scndry/jackson-dataformat-spreadsheet) ![GitHub last commit](https://img.shields.io/github/last-commit/scndry/jackson-dataformat-spreadsheet)](https://github.com/scndry/jackson-dataformat-spreadsheet)** <kbd>★ 23</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Jackson dataformat module for reading and writing Excel (XLSX/XLS) as POJOs via `ObjectMapper`.
 
-> **[Jxls ![GitHub Repo Stars](https://img.shields.io/github/stars/jxlsteam/jxls) ![GitHub last commit](https://img.shields.io/github/last-commit/jxlsteam/jxls)](https://github.com/jxlsteam/jxls)** <kbd>★ 523</kbd> <kbd>Apache-2.0</kbd> 🟠<br>Generates Excel reports from spreadsheet templates.
+> **[Jxls ![GitHub Repo Stars](https://img.shields.io/github/stars/jxlsteam/jxls) ![GitHub last commit](https://img.shields.io/github/last-commit/jxlsteam/jxls)](https://github.com/jxlsteam/jxls)** <kbd>★ 524</kbd> <kbd>Apache-2.0</kbd> 🟠<br>Generates Excel reports from spreadsheet templates.
 
-> **[Sheetz ![GitHub Repo Stars](https://img.shields.io/github/stars/chitralabs/sheetz) ![GitHub last commit](https://img.shields.io/github/last-commit/chitralabs/sheetz)](https://github.com/chitralabs/sheetz)** <kbd>★ 62</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Reads and writes Excel, CSV and ODS files with annotation mapping, streaming, styling and validation.
+> **[Sheetz ![GitHub Repo Stars](https://img.shields.io/github/stars/chitralabs/sheetz) ![GitHub last commit](https://img.shields.io/github/last-commit/chitralabs/sheetz)](https://github.com/chitralabs/sheetz)** <kbd>★ 60</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Reads and writes Excel, CSV and ODS files with annotation mapping, streaming, styling and validation.
 
 > **[zerocell ![GitHub Repo Stars](https://img.shields.io/github/stars/creditdatamw/zerocell) ![GitHub last commit](https://img.shields.io/github/last-commit/creditdatamw/zerocell)](https://github.com/creditdatamw/zerocell)** <kbd>★ 82</kbd> <kbd>Apache-2.0</kbd> 🔴<br>Annotation-based API for reading data from Excel sheets into POJOs with focus on reduced overhead.
 
@@ -1952,7 +1952,7 @@ _Tools that substitute expressions in a template._
 
 > **[Pebble ![GitHub Repo Stars](https://img.shields.io/github/stars/PebbleTemplates/pebble) ![GitHub last commit](https://img.shields.io/github/last-commit/PebbleTemplates/pebble)](https://github.com/PebbleTemplates/pebble)** <kbd>★ 1.2k</kbd> <kbd>BSD-3-Clause</kbd> 🟢<br>Inspired by Twig and separates itself with its inheritance feature and its easy-to-read syntax. It ships with built-in autoescaping for security and it includes integrated support for internationalization.
 
-> **[Rocker ![GitHub Repo Stars](https://img.shields.io/github/stars/fizzed/rocker) ![GitHub last commit](https://img.shields.io/github/last-commit/fizzed/rocker)](https://github.com/fizzed/rocker)** <kbd>★ 781</kbd> 🟠<br>Optimized, memory efficient and speedy template engine producing statically typed, plain objects.
+> **[Rocker ![GitHub Repo Stars](https://img.shields.io/github/stars/fizzed/rocker) ![GitHub last commit](https://img.shields.io/github/last-commit/fizzed/rocker)](https://github.com/fizzed/rocker)** <kbd>★ 780</kbd> 🟠<br>Optimized, memory efficient and speedy template engine producing statically typed, plain objects.
 
 > **[StringTemplate ![GitHub Repo Stars](https://img.shields.io/github/stars/antlr/stringtemplate4) ![GitHub last commit](https://img.shields.io/github/last-commit/antlr/stringtemplate4)](https://github.com/antlr/stringtemplate4)** <kbd>★ 1.0k</kbd> 🔴<br>Template engine for generating source code, web pages, emails, or any other formatted text output.
 
@@ -1979,7 +1979,7 @@ _Testing for the software development process that emerged from TDD and was heav
 
 > **[Kensa ![GitHub Repo Stars](https://img.shields.io/github/stars/kensa-dev/kensa) ![GitHub last commit](https://img.shields.io/github/last-commit/kensa-dev/kensa)](https://github.com/kensa-dev/kensa)** <kbd>★ 22</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Code-first BDD framework for Java and Kotlin that generates interactive HTML reports and sequence diagrams from test code.
 
-> **[Serenity BDD ![GitHub Repo Stars](https://img.shields.io/github/stars/serenity-bdd/serenity-core) ![GitHub last commit](https://img.shields.io/github/last-commit/serenity-bdd/serenity-core)](https://github.com/serenity-bdd/serenity-core)** <kbd>★ 755</kbd> 🟢<br>Automated Acceptance testing and reporting library that works with Cucumber, JBehave and JUnit to make it easier to write high quality executable specifications.
+> **[Serenity BDD ![GitHub Repo Stars](https://img.shields.io/github/stars/serenity-bdd/serenity-core) ![GitHub last commit](https://img.shields.io/github/last-commit/serenity-bdd/serenity-core)](https://github.com/serenity-bdd/serenity-core)** <kbd>★ 754</kbd> 🟢<br>Automated Acceptance testing and reporting library that works with Cucumber, JBehave and JUnit to make it easier to write high quality executable specifications.
 
 #### Fixtures <kbd>6 projects</kbd>
 
@@ -1993,7 +1993,7 @@ _Everything related to the creation and handling of random data._
 
 > **[jFairy ![GitHub Repo Stars](https://img.shields.io/github/stars/SkillPanel/jfairy) ![GitHub last commit](https://img.shields.io/github/last-commit/SkillPanel/jfairy)](https://github.com/SkillPanel/jfairy)** <kbd>★ 742</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Fake data generator.
 
-> **[JMock ![GitHub Repo Stars](https://img.shields.io/github/stars/xcancloud/JMock) ![GitHub last commit](https://img.shields.io/github/last-commit/xcancloud/JMock)](https://github.com/xcancloud/JMock)** <kbd>★ 212</kbd> <kbd>Apache-2.0</kbd> 🟢<br>JMock is a high-performance data generation and simulation component library implemented in Java.
+> **[JMock ![GitHub Repo Stars](https://img.shields.io/github/stars/xcancloud/JMock) ![GitHub last commit](https://img.shields.io/github/last-commit/xcancloud/JMock)](https://github.com/xcancloud/JMock)** <kbd>★ 213</kbd> <kbd>Apache-2.0</kbd> 🟢<br>JMock is a high-performance data generation and simulation component library implemented in Java.
 
 > **[Randomized Testing ![GitHub Repo Stars](https://img.shields.io/github/stars/randomizedtesting/randomizedtesting) ![GitHub last commit](https://img.shields.io/github/last-commit/randomizedtesting/randomizedtesting)](https://github.com/randomizedtesting/randomizedtesting)** <kbd>★ 184</kbd> <kbd>Apache-2.0</kbd> 🟢<br>JUnit test runner and plugins for running JUnit tests with pseudo-randomness.
 
@@ -2001,11 +2001,11 @@ _Everything related to the creation and handling of random data._
 
 _Provide environments to run tests for a specific use case._
 
-> **[BitDive Java Agent ![GitHub Repo Stars](https://img.shields.io/github/stars/bitDive/java-producer) ![GitHub last commit](https://img.shields.io/github/last-commit/bitDive/java-producer)](https://github.com/bitDive/java-producer)** <kbd>★ 87</kbd> 🟢<br>Java agent that captures runtime traces, SQL queries and HTTP payloads for BitDive testing.
+> **[BitDive Java Agent ![GitHub Repo Stars](https://img.shields.io/github/stars/bitDive/java-producer) ![GitHub last commit](https://img.shields.io/github/last-commit/bitDive/java-producer)](https://github.com/bitDive/java-producer)** <kbd>★ 86</kbd> 🟠<br>Java agent that captures runtime traces, SQL queries and HTTP payloads for BitDive testing.
 
 > **[jqwik ![GitHub Repo Stars](https://img.shields.io/github/stars/jqwik-team/jqwik) ![GitHub last commit](https://img.shields.io/github/last-commit/jqwik-team/jqwik)](https://github.com/jqwik-team/jqwik)** <kbd>★ 837</kbd> <kbd>EPL-2.0</kbd> 🟢<br>Engine for property-based testing built on JUnit 5.
 
-> **[JUnit ![GitHub Repo Stars](https://img.shields.io/github/stars/junit-team/junit-framework) ![GitHub last commit](https://img.shields.io/github/last-commit/junit-team/junit-framework)](https://github.com/junit-team/junit-framework)** <kbd>★ 7.1k</kbd> <kbd>EPL-2.0</kbd> 🟢<br>Common testing framework.
+> **[JUnit ![GitHub Repo Stars](https://img.shields.io/github/stars/junit-team/junit-framework) ![GitHub last commit](https://img.shields.io/github/last-commit/junit-team/junit-framework)](https://github.com/junit-team/junit-framework)** <kbd>★ 7.0k</kbd> <kbd>EPL-2.0</kbd> 🟢<br>Common testing framework.
 
 > **[PIT ![GitHub Repo Stars](https://img.shields.io/github/stars/hcoles/pitest) ![GitHub last commit](https://img.shields.io/github/last-commit/hcoles/pitest)](https://github.com/hcoles/pitest)** <kbd>★ 1.8k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Fast mutation-testing framework for evaluating fault-detection abilities of existing JUnit or TestNG test suites.
 
@@ -2071,7 +2071,7 @@ _Other stuff related to testing._
 
 > **[LogCaptor ![GitHub Repo Stars](https://img.shields.io/github/stars/Hakky54/log-captor) ![GitHub last commit](https://img.shields.io/github/last-commit/Hakky54/log-captor)](https://github.com/Hakky54/log-captor)** <kbd>★ 432</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Captures log entries for unit testing purposes.
 
-> **[Selfie ![GitHub Repo Stars](https://img.shields.io/github/stars/diffplug/selfie) ![GitHub last commit](https://img.shields.io/github/last-commit/diffplug/selfie)](https://github.com/diffplug/selfie)** <kbd>★ 100</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Snapshot testing (inline and on disk).
+> **[Selfie ![GitHub Repo Stars](https://img.shields.io/github/stars/diffplug/selfie) ![GitHub last commit](https://img.shields.io/github/last-commit/diffplug/selfie)](https://github.com/diffplug/selfie)** <kbd>★ 101</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Snapshot testing (inline and on disk).
 
 > **[skipper-java ![GitHub Repo Stars](https://img.shields.io/github/stars/get-skipper/skipper-java) ![GitHub last commit](https://img.shields.io/github/last-commit/get-skipper/skipper-java)](https://github.com/get-skipper/skipper-java)** <kbd>★ 4</kbd> <kbd>MIT</kbd> 🟠<br>Real-time test execution control via Google Spreadsheet, enabling instant toggle without code changes.
 
@@ -2085,7 +2085,7 @@ _Tools which mock collaborators to help testing single, isolated units._
 
 > **[EasyMock ![GitHub Repo Stars](https://img.shields.io/github/stars/easymock/easymock) ![GitHub last commit](https://img.shields.io/github/last-commit/easymock/easymock)](https://github.com/easymock/easymock)** <kbd>★ 832</kbd> 🟢<br>EasyMock is a Java library that provides an easy way to use Mock Objects in unit testing.
 
-> **[JMockit ![GitHub Repo Stars](https://img.shields.io/github/stars/jmockit/jmockit1) ![GitHub last commit](https://img.shields.io/github/last-commit/jmockit/jmockit1)](https://github.com/jmockit/jmockit1)** <kbd>★ 472</kbd> 🔴<br>Integration testing, API mocking and faking, and code coverage.
+> **[JMockit ![GitHub Repo Stars](https://img.shields.io/github/stars/jmockit/jmockit1) ![GitHub last commit](https://img.shields.io/github/last-commit/jmockit/jmockit1)](https://github.com/jmockit/jmockit1)** <kbd>★ 473</kbd> 🔴<br>Integration testing, API mocking and faking, and code coverage.
 
 > **[Mockito ![GitHub Repo Stars](https://img.shields.io/github/stars/mockito/mockito) ![GitHub last commit](https://img.shields.io/github/last-commit/mockito/mockito)](https://github.com/mockito/mockito)** <kbd>★ 15.4k</kbd> <kbd>MIT</kbd> 🟢<br>Mocking framework that lets you write tests with a clean and simple API.
 
@@ -2114,7 +2114,7 @@ _Libraries which provide general utility functions._
 
 > **[bucket4j ![GitHub Repo Stars](https://img.shields.io/github/stars/bucket4j/bucket4j) ![GitHub last commit](https://img.shields.io/github/last-commit/bucket4j/bucket4j)](https://github.com/bucket4j/bucket4j)** <kbd>★ 2.8k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Rate limiting library based on token-bucket algorithm.
 
-> **[cactoos ![GitHub Repo Stars](https://img.shields.io/github/stars/yegor256/cactoos) ![GitHub last commit](https://img.shields.io/github/last-commit/yegor256/cactoos)](https://github.com/yegor256/cactoos)** <kbd>★ 777</kbd> <kbd>MIT</kbd> 🟢<br>Collection of object-oriented primitives.
+> **[cactoos ![GitHub Repo Stars](https://img.shields.io/github/stars/yegor256/cactoos) ![GitHub last commit](https://img.shields.io/github/last-commit/yegor256/cactoos)](https://github.com/yegor256/cactoos)** <kbd>★ 778</kbd> <kbd>MIT</kbd> 🟢<br>Collection of object-oriented primitives.
 
 > **[fswatch ![GitHub Repo Stars](https://img.shields.io/github/stars/vorburger/ch.vorburger.fswatch) ![GitHub last commit](https://img.shields.io/github/last-commit/vorburger/ch.vorburger.fswatch)](https://github.com/vorburger/ch.vorburger.fswatch)** <kbd>★ 33</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Micro library to watch for directory file system changes, simplifying java.nio.file.WatchService.
 
@@ -2124,13 +2124,13 @@ _Libraries which provide general utility functions._
 
 > **[Java Diff Utils ![GitHub Repo Stars](https://img.shields.io/github/stars/java-diff-utils/java-diff-utils) ![GitHub last commit](https://img.shields.io/github/last-commit/java-diff-utils/java-diff-utils)](https://github.com/java-diff-utils/java-diff-utils)** <kbd>★ 1.5k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Utilities for text or data comparison and patching.
 
-> **[Java UUID Generator ![GitHub Repo Stars](https://img.shields.io/github/stars/cowtowncoder/java-uuid-generator) ![GitHub last commit](https://img.shields.io/github/last-commit/cowtowncoder/java-uuid-generator)](https://github.com/cowtowncoder/java-uuid-generator)** <kbd>★ 933</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Generates standard UUID versions including time-ordered UUIDv6 and UUIDv7.
+> **[Java UUID Generator ![GitHub Repo Stars](https://img.shields.io/github/stars/cowtowncoder/java-uuid-generator) ![GitHub last commit](https://img.shields.io/github/last-commit/cowtowncoder/java-uuid-generator)](https://github.com/cowtowncoder/java-uuid-generator)** <kbd>★ 934</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Generates standard UUID versions including time-ordered UUIDv6 and UUIDv7.
 
 > **[java-refined ![GitHub Repo Stars](https://img.shields.io/github/stars/JunggiKim/java-refined) ![GitHub last commit](https://img.shields.io/github/last-commit/JunggiKim/java-refined)](https://github.com/JunggiKim/java-refined)** <kbd>★ 4</kbd> <kbd>MIT</kbd> 🟠<br>Zero-dependency refinement types for Java 8+ with type-safe wrappers covering numerics, strings, and collections.
 
 > **[java-util ![GitHub Repo Stars](https://img.shields.io/github/stars/jdereg/java-util) ![GitHub last commit](https://img.shields.io/github/last-commit/jdereg/java-util)](https://github.com/jdereg/java-util)** <kbd>★ 440</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Zero-dependency, high-performance utilities featuring Converter (universal type conversion), DeepEquals, CaseInsensitiveMap, TTLCache, CompactMap, MultiKeyMap, and object graph traversal.
 
-> **[JEmoji ![GitHub Repo Stars](https://img.shields.io/github/stars/felldo/JEmoji) ![GitHub last commit](https://img.shields.io/github/last-commit/felldo/JEmoji)](https://github.com/felldo/JEmoji)** <kbd>★ 114</kbd> <kbd>Apache-2.0</kbd> 🟢<br>An auto-generated emoji library that provides type-safe direct access to emojis and alias support for Discord, Slack, GitHub and many more features.
+> **[JEmoji ![GitHub Repo Stars](https://img.shields.io/github/stars/felldo/JEmoji) ![GitHub last commit](https://img.shields.io/github/last-commit/felldo/JEmoji)](https://github.com/felldo/JEmoji)** <kbd>★ 115</kbd> <kbd>Apache-2.0</kbd> 🟢<br>An auto-generated emoji library that provides type-safe direct access to emojis and alias support for Discord, Slack, GitHub and many more features.
 
 > **[Jimfs ![GitHub Repo Stars](https://img.shields.io/github/stars/google/jimfs) ![GitHub last commit](https://img.shields.io/github/last-commit/google/jimfs)](https://github.com/google/jimfs)** <kbd>★ 2.6k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>In-memory file system.
 
@@ -2138,9 +2138,9 @@ _Libraries which provide general utility functions._
 
 > **[PipelinR ![GitHub Repo Stars](https://img.shields.io/github/stars/sizovs/pipelinr) ![GitHub last commit](https://img.shields.io/github/last-commit/sizovs/pipelinr)](https://github.com/sizovs/pipelinr)** <kbd>★ 493</kbd> <kbd>MIT</kbd> 🟠<br>Small utility library for using handlers and commands with pipelines.
 
-> **[Semver4j ![GitHub Repo Stars](https://img.shields.io/github/stars/semver4j/semver4j) ![GitHub last commit](https://img.shields.io/github/last-commit/semver4j/semver4j)](https://github.com/semver4j/semver4j)** <kbd>★ 115</kbd> <kbd>MIT</kbd> 🟢<br>Lightweight library that helps you handling semantic versioning with different modes.
+> **[Semver4j ![GitHub Repo Stars](https://img.shields.io/github/stars/semver4j/semver4j) ![GitHub last commit](https://img.shields.io/github/last-commit/semver4j/semver4j)](https://github.com/semver4j/semver4j)** <kbd>★ 116</kbd> <kbd>MIT</kbd> 🟢<br>Lightweight library that helps you handling semantic versioning with different modes.
 
-> **[Underscore-java ![GitHub Repo Stars](https://img.shields.io/github/stars/javadev/underscore-java) ![GitHub last commit](https://img.shields.io/github/last-commit/javadev/underscore-java)](https://github.com/javadev/underscore-java)** <kbd>★ 551</kbd> <kbd>MIT</kbd> 🟢<br>Port of Underscore.js functions.
+> **[Underscore-java ![GitHub Repo Stars](https://img.shields.io/github/stars/javadev/underscore-java) ![GitHub last commit](https://img.shields.io/github/last-commit/javadev/underscore-java)](https://github.com/javadev/underscore-java)** <kbd>★ 550</kbd> <kbd>MIT</kbd> 🟢<br>Port of Underscore.js functions.
 
 > **[Zip4j ![GitHub Repo Stars](https://img.shields.io/github/stars/srikanth-lingala/zip4j) ![GitHub last commit](https://img.shields.io/github/last-commit/srikanth-lingala/zip4j)](https://github.com/srikanth-lingala/zip4j)** <kbd>★ 2.2k</kbd> <kbd>Apache-2.0</kbd> 🟠<br>Reads, writes, encrypts and streams ZIP files.
 
@@ -2151,7 +2151,7 @@ _Libraries which provide general utility functions._
 
 _Utilities that help create the development shell environment and switch between different Java versions._
 
-> **[jabba ![GitHub Repo Stars](https://img.shields.io/github/stars/Jabba-Team/jabba) ![GitHub last commit](https://img.shields.io/github/last-commit/Jabba-Team/jabba)](https://github.com/Jabba-Team/jabba)** <kbd>★ 306</kbd> <kbd>Apache-2.0</kbd> 🟠<br>Java Version Manager inspired by nvm. Supports macOS, Linux and Windows.
+> **[jabba ![GitHub Repo Stars](https://img.shields.io/github/stars/Jabba-Team/jabba) ![GitHub last commit](https://img.shields.io/github/last-commit/Jabba-Team/jabba)](https://github.com/Jabba-Team/jabba)** <kbd>★ 310</kbd> <kbd>Apache-2.0</kbd> 🟠<br>Java Version Manager inspired by nvm. Supports macOS, Linux and Windows.
 
 > **[jenv ![GitHub Repo Stars](https://img.shields.io/github/stars/jenv/jenv) ![GitHub last commit](https://img.shields.io/github/last-commit/jenv/jenv)](https://github.com/jenv/jenv)** <kbd>★ 6.6k</kbd> <kbd>MIT</kbd> 🟠<br>Java Version Manager inspired by rbenv. Can configure globally or per project. Tested on Debian and macOS.
 
@@ -2166,11 +2166,11 @@ _Libraries that analyze the content of websites._
 
 > **[Apache Nutch ![GitHub Repo Stars](https://img.shields.io/github/stars/apache/nutch) ![GitHub last commit](https://img.shields.io/github/last-commit/apache/nutch)](https://github.com/apache/nutch)** <kbd>★ 3.3k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Highly extensible, highly scalable web crawler for production environments.
 
-> **[crawlberg ![GitHub Repo Stars](https://img.shields.io/github/stars/xberg-io/crawlberg) ![GitHub last commit](https://img.shields.io/github/last-commit/xberg-io/crawlberg)](https://github.com/xberg-io/crawlberg)** <kbd>★ 145</kbd> <kbd>MIT</kbd> 🟢<br>Crawls and scrapes websites through a Java binding with Markdown conversion and optional browser rendering.
+> **[crawlberg ![GitHub Repo Stars](https://img.shields.io/github/stars/xberg-io/crawlberg) ![GitHub last commit](https://img.shields.io/github/last-commit/xberg-io/crawlberg)](https://github.com/xberg-io/crawlberg)** <kbd>★ 150</kbd> <kbd>MIT</kbd> 🟢<br>Crawls and scrapes websites through a Java binding with Markdown conversion and optional browser rendering.
 
 > **[jsoup ![GitHub Repo Stars](https://img.shields.io/github/stars/jhy/jsoup) ![GitHub last commit](https://img.shields.io/github/last-commit/jhy/jsoup)](https://github.com/jhy/jsoup)** <kbd>★ 11.4k</kbd> <kbd>MIT</kbd> 🟢<br>Scrapes, parses, manipulates and cleans HTML.
 
-> **[StormCrawler ![GitHub Repo Stars](https://img.shields.io/github/stars/apache/stormcrawler) ![GitHub last commit](https://img.shields.io/github/last-commit/apache/stormcrawler)](https://github.com/apache/stormcrawler)** <kbd>★ 987</kbd> <kbd>Apache-2.0</kbd> 🟢<br>SDK for building low-latency and scalable web crawlers.
+> **[StormCrawler ![GitHub Repo Stars](https://img.shields.io/github/stars/apache/stormcrawler) ![GitHub last commit](https://img.shields.io/github/last-commit/apache/stormcrawler)](https://github.com/apache/stormcrawler)** <kbd>★ 991</kbd> <kbd>Apache-2.0</kbd> 🟢<br>SDK for building low-latency and scalable web crawlers.
 
 > **[webmagic ![GitHub Repo Stars](https://img.shields.io/github/stars/code4craft/webmagic) ![GitHub last commit](https://img.shields.io/github/last-commit/code4craft/webmagic)](https://github.com/code4craft/webmagic)** <kbd>★ 11.7k</kbd> <kbd>Apache-2.0</kbd> 🟠<br>Scalable crawler with downloading, url management, content extraction and persistent.
 
@@ -2181,7 +2181,7 @@ _Libraries that analyze the content of websites._
 
 _Frameworks that handle the communication between the layers of a web application._
 
-> **[ActiveJ ![GitHub Repo Stars](https://img.shields.io/github/stars/activej/activej) ![GitHub last commit](https://img.shields.io/github/last-commit/activej/activej)](https://github.com/activej/activej)** <kbd>★ 995</kbd> <kbd>Apache-2.0</kbd> 🟠<br>Lightweight asynchronous framework built from the ground up for developing high-performance web applications.
+> **[ActiveJ ![GitHub Repo Stars](https://img.shields.io/github/stars/activej/activej) ![GitHub last commit](https://img.shields.io/github/last-commit/activej/activej)](https://github.com/activej/activej)** <kbd>★ 996</kbd> <kbd>Apache-2.0</kbd> 🟠<br>Lightweight asynchronous framework built from the ground up for developing high-performance web applications.
 
 > **[Apache Tapestry ![GitHub Repo Stars](https://img.shields.io/github/stars/apache/tapestry-5) ![GitHub last commit](https://img.shields.io/github/last-commit/apache/tapestry-5)](https://github.com/apache/tapestry-5)** <kbd>★ 136</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Component-oriented framework for creating dynamic, robust, highly scalable web applications.
 
@@ -2209,9 +2209,9 @@ _Frameworks that handle the communication between the layers of a web applicatio
 
 > **[Spring Boot ![GitHub Repo Stars](https://img.shields.io/github/stars/spring-projects/spring-boot) ![GitHub last commit](https://img.shields.io/github/last-commit/spring-projects/spring-boot)](https://github.com/spring-projects/spring-boot)** <kbd>★ 81.2k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Framework for creating stand-alone, production-grade Spring applications.
 
-> **[Takes ![GitHub Repo Stars](https://img.shields.io/github/stars/yegor256/takes) ![GitHub last commit](https://img.shields.io/github/last-commit/yegor256/takes)](https://github.com/yegor256/takes)** <kbd>★ 877</kbd> <kbd>MIT</kbd> 🟢<br>Opinionated web framework which is built around the concepts of True Object-Oriented Programming and immutability.
+> **[Takes ![GitHub Repo Stars](https://img.shields.io/github/stars/yegor256/takes) ![GitHub last commit](https://img.shields.io/github/last-commit/yegor256/takes)](https://github.com/yegor256/takes)** <kbd>★ 876</kbd> <kbd>MIT</kbd> 🟢<br>Opinionated web framework which is built around the concepts of True Object-Oriented Programming and immutability.
 
-> **[tinystruct ![GitHub Repo Stars](https://img.shields.io/github/stars/tinystruct/tinystruct) ![GitHub last commit](https://img.shields.io/github/last-commit/tinystruct/tinystruct)](https://github.com/tinystruct/tinystruct)** <kbd>★ 351</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Lightweight, pluggable framework for building Java applications with CLI, HTTP, and modular extension support.
+> **[tinystruct ![GitHub Repo Stars](https://img.shields.io/github/stars/tinystruct/tinystruct) ![GitHub last commit](https://img.shields.io/github/last-commit/tinystruct/tinystruct)](https://github.com/tinystruct/tinystruct)** <kbd>★ 352</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Lightweight, pluggable framework for building Java applications with CLI, HTTP, and modular extension support.
 
 > **[Vaadin](https://vaadin.com)** <kbd>★ 1.7k</kbd> 🟢<br>Full-stack Java platform for building browser applications with server-side components.
 
@@ -2228,7 +2228,7 @@ _Engines for orchestrating long-running workflows and business processes._
 
 > **[Apache DolphinScheduler ![GitHub Repo Stars](https://img.shields.io/github/stars/apache/dolphinscheduler) ![GitHub last commit](https://img.shields.io/github/last-commit/apache/dolphinscheduler)](https://github.com/apache/dolphinscheduler)** <kbd>★ 14.4k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Distributed workflow orchestration platform with visual and API-driven scheduling.
 
-> **[Cadence Java Client ![GitHub Repo Stars](https://img.shields.io/github/stars/cadence-workflow/cadence-java-client) ![GitHub last commit](https://img.shields.io/github/last-commit/cadence-workflow/cadence-java-client)](https://github.com/cadence-workflow/cadence-java-client)** <kbd>★ 150</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Java client and workflow framework for the Cadence orchestration service.
+> **[Cadence Java Client ![GitHub Repo Stars](https://img.shields.io/github/stars/cadence-workflow/cadence-java-client) ![GitHub last commit](https://img.shields.io/github/last-commit/cadence-workflow/cadence-java-client)](https://github.com/cadence-workflow/cadence-java-client)** <kbd>★ 152</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Java client and workflow framework for the Cadence orchestration service.
 
 > **[Conductor ![GitHub Repo Stars](https://img.shields.io/github/stars/conductor-oss/conductor) ![GitHub last commit](https://img.shields.io/github/last-commit/conductor-oss/conductor)](https://github.com/conductor-oss/conductor)** <kbd>★ 32.0k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Event-driven workflow engine for distributed applications and AI agents.
 
@@ -2236,7 +2236,7 @@ _Engines for orchestrating long-running workflows and business processes._
 
 > **[Maestro ![GitHub Repo Stars](https://img.shields.io/github/stars/Netflix/maestro) ![GitHub last commit](https://img.shields.io/github/last-commit/Netflix/maestro)](https://github.com/Netflix/maestro)** <kbd>★ 3.8k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Workflow orchestration engine developed by Netflix.
 
-> **[Temporal Java SDK ![GitHub Repo Stars](https://img.shields.io/github/stars/temporalio/sdk-java) ![GitHub last commit](https://img.shields.io/github/last-commit/temporalio/sdk-java)](https://github.com/temporalio/sdk-java)** <kbd>★ 421</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Java SDK for writing durable workflows and activities on Temporal.
+> **[Temporal Java SDK ![GitHub Repo Stars](https://img.shields.io/github/stars/temporalio/sdk-java) ![GitHub last commit](https://img.shields.io/github/last-commit/temporalio/sdk-java)](https://github.com/temporalio/sdk-java)** <kbd>★ 424</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Java SDK for writing durable workflows and activities on Temporal.
 
 </details>
 
