@@ -22,7 +22,7 @@
 
 > A curated list of awesome Magento 2 Extensions & Resources.
 
-> Tracking **233** projects · **63** actively maintained · **11** 🔥 hot · **49** 🪦 on the graveyard shelf.
+> Tracking **233** projects · **63** actively maintained · **11** 🔥 hot · **50** 🪦 on the graveyard shelf.
 
 - [What is an awesome list? ![GitHub Repo Stars](https://img.shields.io/github/stars/sindresorhus/awesome) ![GitHub last commit](https://img.shields.io/github/last-commit/sindresorhus/awesome)](https://github.com/sindresorhus/awesome/blob/master/awesome.md)
 - [Contribution guide](contributing.md) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/DavidLambauer/awesome-magento2/issues)
@@ -92,7 +92,6 @@ Also see:
 
 [Meet Magento events](https://www.meet-magento.com/) bring together everyone from merchants through developers, solution and technology providers, and marketers—and we continue to expand.
 
-- [Meet Magento Brazil](https://meetmagentobrasil.org/) 🫡 - Meet Magento event series — Brazil.
 - [Meet Magento Florida](https://meetmagentofl.com/) 🫡 - Meet Magento event series — Florida.
 - [Meet Magento India](https://www.meetmagento.in/) 🫡 - Meet Magento event series — India.
 - [Meet Magento Netherlands](https://nl.meet-magento.com/) 🫡 - Meet Magento event series — Netherlands.
@@ -106,6 +105,7 @@ Also see:
 <summary>🪦 Graveyard — projects no longer recommended</summary>
 
 - [Meet Magento Baltics](https://meetmagentobaltics.com/) - Meet Magento event series — Baltics.
+- [Meet Magento Brazil](https://meetmagentobrasil.org/) - Meet Magento event series — Brazil.
 - [Meet Magento Singapore](https://meetmagento.sg/) - Meet Magento event series — Singapore.
 
 </details>
@@ -137,6 +137,7 @@ The storefront of Magento 2 can be styled in numerous ways:
 - [n98-magerun2 ![GitHub Repo Stars](https://img.shields.io/github/stars/netz98/n98-magerun2) ![GitHub last commit](https://img.shields.io/github/last-commit/netz98/n98-magerun2)](https://github.com/netz98/n98-magerun2) 🫡 - The CLI Swiss Army Knife for Magento 2.
 - [Warden ![GitHub Repo Stars](https://img.shields.io/github/stars/wardenenv/warden) ![GitHub last commit](https://img.shields.io/github/last-commit/wardenenv/warden)](https://github.com/wardenenv/warden) 🫡 - CLI utility for working with docker-compose environments by David Alger.
 - [PhpStorm Magento2 Extension ![GitHub Repo Stars](https://img.shields.io/github/stars/magento/magento2-phpstorm-plugin) ![GitHub last commit](https://img.shields.io/github/last-commit/magento/magento2-phpstorm-plugin)](https://github.com/magento/magento2-phpstorm-plugin) 🫡 - Official PhpStorm Magento 2 extension.
+- [Magento 2 Database Synchronizer ![GitHub Repo Stars](https://img.shields.io/github/stars/jellesiderius/mage-db-sync) ![GitHub last commit](https://img.shields.io/github/last-commit/jellesiderius/mage-db-sync)](https://github.com/jellesiderius/mage-db-sync) 🫡 - Database synchronizer for Magento 2 (and WordPress), based on Magerun2. Keeps development, staging and production in sync.
 - [Mage ![GitHub Repo Stars](https://img.shields.io/github/stars/GrimLink/mage) ![GitHub last commit](https://img.shields.io/github/last-commit/GrimLink/mage)](https://github.com/GrimLink/mage) 🫡 - Simplifies bin/magento commands with shortcuts and productivity helpers.
 - [MageForge ![GitHub Repo Stars](https://img.shields.io/github/stars/OpenForgeProject/mageforge) ![GitHub last commit](https://img.shields.io/github/last-commit/OpenForgeProject/mageforge)](https://github.com/OpenForgeProject/mageforge) 🫡 - Magento 2 CLI automatic theme builder (Hyvä ready).
 - [Mage Chrome Toolbar ![GitHub Repo Stars](https://img.shields.io/github/stars/magespecialist/mage-chrome-toolbar) ![GitHub last commit](https://img.shields.io/github/last-commit/magespecialist/mage-chrome-toolbar)](https://github.com/magespecialist/mage-chrome-toolbar) - Chrome extension for Magento 2 development by MageSpecialist.
@@ -145,7 +146,6 @@ The storefront of Magento 2 can be styled in numerous ways:
 - [MageSpecialist DevTools for Magento 2 ![GitHub Repo Stars](https://img.shields.io/github/stars/magespecialist/m2-MSP_DevTools) ![GitHub last commit](https://img.shields.io/github/last-commit/magespecialist/m2-MSP_DevTools)](https://github.com/magespecialist/m2-MSP_DevTools) - Developer toolbar for Magento 2.
 - [Tango ![GitHub Repo Stars](https://img.shields.io/github/stars/roma-glushko/tango) ![GitHub last commit](https://img.shields.io/github/last-commit/roma-glushko/tango)](https://github.com/roma-glushko/tango) - CLI for analyzing access logs.
 - [Migrate DB Magento 2 Commerce to Magento 2 Open-Source ![GitHub Repo Stars](https://img.shields.io/github/stars/opengento/magento2-downgrade-ee-ce) ![GitHub last commit](https://img.shields.io/github/last-commit/opengento/magento2-downgrade-ee-ce)](https://github.com/opengento/magento2-downgrade-ee-ce) - Migrate a Magento 2 Commerce database to Magento 2 Open Source.
-- [Magento 2 Database Synchronizer ![GitHub Repo Stars](https://img.shields.io/github/stars/jellesiderius/mage-db-sync) ![GitHub last commit](https://img.shields.io/github/last-commit/jellesiderius/mage-db-sync)](https://github.com/jellesiderius/mage-db-sync) - Database synchronizer for Magento 2 (and WordPress), based on Magerun2. Keeps development, staging and production in sync.
 - [RabbitMQ Retry Mechanism ![GitHub Repo Stars](https://img.shields.io/github/stars/run-as-root/magento2-message-queue-retry) ![GitHub last commit](https://img.shields.io/github/last-commit/run-as-root/magento2-message-queue-retry)](https://github.com/run-as-root/magento2-message-queue-retry) - Magento 2 extension that brings possibility to retry RabbitMQ failed messages.
 - [Mage Wizard ![GitHub Repo Stars](https://img.shields.io/github/stars/clickAndMortar/mage-wizard) ![GitHub last commit](https://img.shields.io/github/last-commit/clickAndMortar/mage-wizard)](https://github.com/clickAndMortar/mage-wizard) - Local web UI to view and create modules, plugins, configs, observers, commands, crontabs directly in a Magento 2 codebase.
 - [magento2docker ![GitHub Repo Stars](https://img.shields.io/github/stars/aliuosio/magento2docker) ![GitHub last commit](https://img.shields.io/github/last-commit/aliuosio/magento2docker)](https://github.com/aliuosio/magento2docker) - MariaDB, PHP, Redis, ElasticSearch in one Dockerfile for fast demo/development environments.
@@ -240,9 +240,9 @@ The storefront of Magento 2 can be styled in numerous ways:
 - [Elastic Suite Integration ![GitHub Repo Stars](https://img.shields.io/github/stars/Smile-SA/elasticsuite) ![GitHub last commit](https://img.shields.io/github/last-commit/Smile-SA/elasticsuite)](https://github.com/Smile-SA/elasticsuite/) 🔥 🫡 - Elastic Suite Integration.
 - [Algolia Search Integration ![GitHub Repo Stars](https://img.shields.io/github/stars/algolia/algoliasearch-magento-2) ![GitHub last commit](https://img.shields.io/github/last-commit/algolia/algoliasearch-magento-2)](https://github.com/algolia/algoliasearch-magento-2) 🫡 - Algolia Search (SaaS) Integration.
 - [FastSimpleImport2 ![GitHub Repo Stars](https://img.shields.io/github/stars/firegento/FireGento_FastSimpleImport2) ![GitHub last commit](https://img.shields.io/github/last-commit/firegento/FireGento_FastSimpleImport2)](https://github.com/firegento/FireGento_FastSimpleImport2) 🫡 - Wrapper for Magento 2 ImportExport functionality, which imports products and customers from arrays.
+- [Typesense-Magento-2 ![GitHub Repo Stars](https://img.shields.io/github/stars/run-as-root/Typesense-Magento-2) ![GitHub last commit](https://img.shields.io/github/last-commit/run-as-root/Typesense-Magento-2)](https://github.com/run-as-root/Typesense-Magento-2) 🫡 - Open-source Typesense search integration for Magento 2 and Mage-OS. Instant search, autocomplete, faceted filtering, visual category merchandising, query merchandising, and zero-downtime reindexing — all Hyva-native and CSP-compatible.
 - [Disable Search Engine ![GitHub Repo Stars](https://img.shields.io/github/stars/zepgram/module-disable-search-engine) ![GitHub last commit](https://img.shields.io/github/last-commit/zepgram/module-disable-search-engine)](https://github.com/zepgram/module-disable-search-engine) - Disable Elasticsearch and fulltext indexing for category search.
 - [magento2-module-meilisearch ![GitHub Repo Stars](https://img.shields.io/github/stars/walkwizus/magento2-module-meilisearch) ![GitHub last commit](https://img.shields.io/github/last-commit/walkwizus/magento2-module-meilisearch)](https://github.com/walkwizus/magento2-module-meilisearch) - The Meilisearch extension for Magento 2 enables replacing Magento's default search engine (OpenSearch) with Meilisearch.
-- [Typesense-Magento-2 ![GitHub Repo Stars](https://img.shields.io/github/stars/run-as-root/Typesense-Magento-2) ![GitHub last commit](https://img.shields.io/github/last-commit/run-as-root/Typesense-Magento-2)](https://github.com/run-as-root/Typesense-Magento-2) - Open-source Typesense search integration for Magento 2 and Mage-OS. Instant search, autocomplete, faceted filtering, visual category merchandising, query merchandising, and zero-downtime reindexing — all Hyva-native and CSP-compatible.
 
 ### CMS
 
@@ -259,7 +259,6 @@ The storefront of Magento 2 can be styled in numerous ways:
 - [MagePlaza Seo ![GitHub Repo Stars](https://img.shields.io/github/stars/mageplaza/magento-2-seo-extension) ![GitHub last commit](https://img.shields.io/github/last-commit/mageplaza/magento-2-seo-extension)](https://github.com/mageplaza/magento-2-seo-extension) 🫡 - Well-documented multi-purpose SEO Extension.
 - [magento2-withdrawl ![GitHub Repo Stars](https://img.shields.io/github/stars/Zwernemann/magento2-withdrawl) ![GitHub last commit](https://img.shields.io/github/last-commit/Zwernemann/magento2-withdrawl)](https://github.com/Zwernemann/magento2-withdrawl) 🫡 - Magento 2 module providing a compliant EU withdrawal button required from June 19, 2026 (§356a BGB / Directive (EU) 2023/2673). Enables customers and guests to revoke orders via a simple form (name, order number, email), sends automatic confirmation emails, and allows admin management in the backend.
 - [module-blog ![GitHub Repo Stars](https://img.shields.io/github/stars/mage-os-lab/module-blog) ![GitHub last commit](https://img.shields.io/github/last-commit/mage-os-lab/module-blog)](https://github.com/mage-os-lab/module-blog) 🫡 - Blog module for Mage-OS / Magento 2 with posts, categories, tags, authors, scheduled publishing, SEO, RSS, sitemap, 6 widgets, and a full GraphQL API. Luma + Hyvä.
-- [BerryPath Guided Selling ![GitHub Repo Stars](https://img.shields.io/github/stars/BerryPath/magento2-berrypath-flow) ![GitHub last commit](https://img.shields.io/github/last-commit/BerryPath/magento2-berrypath-flow)](https://github.com/BerryPath/magento2-berrypath-flow) - Open source integration for BerryPath. Add interactive product finders and buying guides to Magento 2 storefronts with product synchronization, assisted conversion tracking + Hyvä compatibility.
 
 <details>
 <summary>🪦 Graveyard — projects no longer recommended</summary>
@@ -421,9 +420,9 @@ The storefront of Magento 2 can be styled in numerous ways:
 
 ## Learning
 
-- [Max Pronko DevChannel](https://www.youtube.com/channel/UCxbWGz6h6KNQsi2ughRUV2Q) 🫡 - Max Pronko's YouTube channel for Magento 2 development.
 - [M.academy](https://m.academy/) - Video lessons and courses for Magento 2 and Adobe Commerce.
 - [Max Bucknell — Magento 2 JavaScript](https://www.youtube.com/watch?v=tHxebA-jOSo) - Max Bucknell's talk on Magento 2's JavaScript stack.
+- [Max Pronko DevChannel](https://www.youtube.com/channel/UCxbWGz6h6KNQsi2ughRUV2Q) - Max Pronko's YouTube channel for Magento 2 development.
 - [Yireo Training](https://www.yireo.com/training) - Magento 2 backend and frontend development courses.
 
 <details>
@@ -466,7 +465,6 @@ The storefront of Magento 2 can be styled in numerous ways:
 ## List of trustworthy Extension Developers
 
 - [CustomGento](https://www.customgento.com/extensions/) - Quality-focused Magento 2 extension vendor; member of ExtDN.
-- [GEISSWEB](https://geissweb.com/) - Extension vendor since 2011 (Magento 1 and 2) from Germany.
 - [Hyva Themes](https://www.hyva.io/) - Creators of the Hyva frontend framework for Magento 2; open-sourced in November 2025.
 - [integer_net](https://www.integer-net.com/) - German Magento agency and extension vendor; ExtDN member; known for Solr search and code quality tooling.
 - [Modulwerft](https://www.modulwerft.com/) - German Magento 2 extension vendor.
