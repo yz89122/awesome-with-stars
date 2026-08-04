@@ -1718,6 +1718,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [@hugeicons/angular ![GitHub Repo Stars](https://img.shields.io/github/stars/hugeicons/hugeicons) ![GitHub last commit](https://img.shields.io/github/last-commit/hugeicons/hugeicons)](https://github.com/hugeicons/hugeicons/tree/main/packages/angular) - 5,400+ free MIT-licensed stroke-rounded icons for Angular.
 * [@quikturn-sdk/logos-angular ![GitHub Repo Stars](https://img.shields.io/github/stars/quikturn-sdk/Company-Logos) ![GitHub last commit](https://img.shields.io/github/last-commit/quikturn-sdk/Company-Logos)](https://github.com/quikturn-sdk/Company-Logos) - TypeScript SDK for the [Quikturn Logos API](https://getquikturn.io/) - Fetch any company's logo by domain name.
 * [GeoIcons](https://geoicons.io) - Geographic map icons for every country, territory, and world region as tree-shakable Angular standalone components.
+* [ngx-iconify-stack ![GitHub Repo Stars](https://img.shields.io/github/stars/WanderleeDev/ngx-iconify-stack) ![GitHub last commit](https://img.shields.io/github/last-commit/WanderleeDev/ngx-iconify-stack)](https://github.com/WanderleeDev/ngx-iconify-stack) - A lightweight, SSR-safe Angular wrapper for [Iconify](https://iconify.design/).
 
 ### Images
 
@@ -1739,6 +1740,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ng-image-optimizer ![GitHub Repo Stars](https://img.shields.io/github/stars/Hasan-Kakeh/ng-image-optimizer) ![GitHub last commit](https://img.shields.io/github/last-commit/Hasan-Kakeh/ng-image-optimizer)](https://github.com/Hasan-Kakeh/ng-image-optimizer) - A high‑performance Angular SSR image optimizer that uses [Sharp](https://sharp.pixelplumbing.com/) to deliver a Next.js‑style experience.
 * [ngx-ratio-image ![GitHub Repo Stars](https://img.shields.io/github/stars/gerd-siebert/ngx-ratio-image) ![GitHub last commit](https://img.shields.io/github/last-commit/gerd-siebert/ngx-ratio-image)](https://github.com/gerd-siebert/ngx-ratio-image) - Angular library for displaying an image with a variable aspect ratio inside a container with a fixed aspect ratio.
 * [ngx-image-forge ![GitHub Repo Stars](https://img.shields.io/github/stars/HoplaGeiss/ngx-image-forge) ![GitHub last commit](https://img.shields.io/github/last-commit/HoplaGeiss/ngx-image-forge)](https://github.com/HoplaGeiss/ngx-image-forge) - An Angular image editing library — crop, rotate, flip, and export images with zero dependencies. Signals-native.
+* [ng-smart-images ![GitHub Repo Stars](https://img.shields.io/github/stars/yadimon/ng-smart-images) ![GitHub last commit](https://img.shields.io/github/last-commit/yadimon/ng-smart-images)](https://github.com/yadimon/ng-smart-images) - CLI-first image optimization with hashed assets, runtime manifests, and optional Angular helpers.
 
 ### Keyboard Mouse
 
@@ -2253,6 +2255,7 @@ for the creation of web applications developed with Angular.
 * [synerity-ui ![GitHub Repo Stars](https://img.shields.io/github/stars/synerity-ai/synerity-ui) ![GitHub last commit](https://img.shields.io/github/last-commit/synerity-ai/synerity-ui)](https://github.com/synerity-ai/synerity-ui) - Enterprise‑grade Angular 20+ library with 90+ accessible, performant Tailwind‑styled components for modern apps.
 * [Tailkit UI](https://tailkit.com/) - Carefully crafted, customizable, fully responsive Tailwind CSS components, templates, and tools for your projects.
 * [tailng ![GitHub Repo Stars](https://img.shields.io/github/stars/tociva/tailng) ![GitHub last commit](https://img.shields.io/github/last-commit/tociva/tailng)](https://github.com/tociva/tailng) - Angular components styled with Tailwind to achieve a Material‑like look.
+* [volt-ui ![GitHub Repo Stars](https://img.shields.io/github/stars/Andersseen/volt-ui) ![GitHub last commit](https://img.shields.io/github/last-commit/Andersseen/volt-ui)](https://github.com/Andersseen/volt-ui) - Fully accessible, themeable Angular components built with signals, Tailwind CSS v4, CVA, and `ng-primitives`.
 * [zapui ![GitHub Repo Stars](https://img.shields.io/github/stars/zapuilib/zapui) ![GitHub last commit](https://img.shields.io/github/last-commit/zapuilib/zapui)](https://github.com/zapuilib/zapui) - Build scalable Angular apps with a Tailwind-powered design system from [zap:ui](https://zapui.togethercreative.co.uk/).
 
 ### UI Library and Framework Ionic
