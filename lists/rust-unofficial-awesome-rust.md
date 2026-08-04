@@ -483,6 +483,7 @@ See also [Games Made With Piston ![GitHub Repo Stars](https://img.shields.io/git
 
 * [cocoindex ![GitHub Repo Stars](https://img.shields.io/github/stars/cocoindex-io/cocoindex) ![GitHub last commit](https://img.shields.io/github/last-commit/cocoindex-io/cocoindex)](https://github.com/cocoindex-io/cocoindex) - ETL framework to build fresh context for AI agents, with incremental processing
 * [TensorZero ![GitHub Repo Stars](https://img.shields.io/github/stars/tensorzero/tensorzero) ![GitHub last commit](https://img.shields.io/github/last-commit/tensorzero/tensorzero)](https://github.com/tensorzero/tensorzero) - data & learning flywheel for LLMs that unifies inference, observability, optimization, and experimentation ![TensorZero Build Status](https://img.shields.io/github/check-runs/tensorzero/tensorzero/main)
+* [Uteke ![GitHub Repo Stars](https://img.shields.io/github/stars/codecoradev/uteke) ![GitHub last commit](https://img.shields.io/github/last-commit/codecoradev/uteke)](https://github.com/codecoradev/uteke) - Offline-first semantic memory engine for AI agents. Single binary, zero dependencies, MCP-native. [![CI](https://img.shields.io/github/actions/workflow/status/codecoradev/uteke/ci.yml?branch=develop)](https://github.com/codecoradev/uteke/actions/workflows/ci.yml)
 
 ### Observability
 
