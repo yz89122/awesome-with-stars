@@ -266,7 +266,7 @@ Paste your codes at [ideone](https://ideone.com/), [pastebin](https://pastebin.c
 | --- | --- | --- |
 | ★★★ | [Bit Twiddling Hacks](https://graphics.stanford.edu/~seander/bithacks.html) | A huge compiled list of bit manipulation tricks. |
 | ★★★ | [Comparing Floating Point Numbers, 2012 Edition - Random ASCII](https://randomascii.wordpress.com/2012/02/25/comparing-floating-point-numbers-2012-edition/) | Everything you need to know about floating point numbers. A must read especially for geometry topics. |
-| ★★�� | [Object-Oriented C Style Languages: C++, Objective-C, Java, C# - a side-by-side reference sheet](http://hyperpolyglot.org/cpp) | A detailed side-by-side reference sheet for common syntaxes. |
+| ★★☆ | [Object-Oriented C Style Languages: C++, Objective-C, Java, C# - a side-by-side reference sheet](http://hyperpolyglot.org/cpp) | A detailed side-by-side reference sheet for common syntaxes. |
 
 
 ## Tools
@@ -305,7 +305,7 @@ Paste your codes at [ideone](https://ideone.com/), [pastebin](https://pastebin.c
 | --- | --- | --- |
 | ★★★ | [polygon](https://polygon.codeforces.com/) | polygon provides a platform and a rich set of tools for professional contest preparation. ... An example: [Validators with testlib.h - Codeforces](http://codeforces.com/blog/entry/18426) |
 | ★★☆ | [Graph Editor](https://csacademy.com/app/graph_editor/) | A fantastic tool to create and visualize graphs. |
-| ★★☆ | [tcframe ![GitHub Repo Stars](https://img.shields.io/github/stars/ia-toki/tcframe) ![GitHub last commit](https://img.shields.io/github/last-commit/ia-toki/tcframe)](https://github.com/ia-toki/tcframe) | A C++ framework for generating test cases of competitive programming problems. |
+| ★★�� | [tcframe ![GitHub Repo Stars](https://img.shields.io/github/stars/ia-toki/tcframe) ![GitHub last commit](https://img.shields.io/github/last-commit/ia-toki/tcframe)](https://github.com/ia-toki/tcframe) | A C++ framework for generating test cases of competitive programming problems. |
 | ★★★ | [Virtual Judge (vjudge)](http://vjudge.net) | Virtual Judge (vjudge) allows users to create virtual contests with problems from notable problem archives. |
 | ★★☆ | [BNU Online Judge](https://www.bnuoj.com/v3/) | BNU Online Judge also allows users to create virtual contests. |
 | ★★☆ | [Kattis](https://open.kattis.com/) | Kattis assists in contest preparation (E-mail them for assistance). |
