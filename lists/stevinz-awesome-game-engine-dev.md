@@ -226,7 +226,7 @@ _Info on topics necessary for designing and developing game engines._
 - Commercial Studios Research Divisions
     - 🌎 [Activision Research](https://research.activision.com/) - Blog posts, articles and presentations from research within _Activision_.
     - 🌎 [EA Technology](https://www.ea.com/technology/research) - Research on game tech including info on the _Frostbite_ engine.
-    - �� [tri-Ace Research](https://research.tri-ace.com/) - Publications from the Research and Development Department at _tri-Ace Inc_.
+    - 🌎 [tri-Ace Research](https://research.tri-ace.com/) - Publications from the Research and Development Department at _tri-Ace Inc_.
     - 🌎 [Ubisoft Technology](https://www.ubisoft.com/en-us/company/how-we-make-games/technology) - Learn about in-house tech including the _Anvil_ and _Snowdrop_ engines.
 - Education Portals
     - 📚 [3D Game Engine Programming](https://www.3dgep.com) - Articles on graphics, physics, AI, I/O and more.
@@ -709,7 +709,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Ecx ![GitHub Repo Stars](https://img.shields.io/github/stars/eliasku/ecx) ![GitHub last commit](https://img.shields.io/github/last-commit/eliasku/ecx)](https://github.com/eliasku/ecx) - Entity component system framework for Haxe.
     - 🎉 [GASM ![GitHub Repo Stars](https://img.shields.io/github/stars/HacksawStudios/GASM) ![GitHub last commit](https://img.shields.io/github/last-commit/HacksawStudios/GASM)](https://github.com/HacksawStudios/GASM) - Framework agnostic entity component system for Haxe.
 - Haxe: Game Engine w/Editor
-    - 🎉 [Armory ![GitHub Repo Stars](https://img.shields.io/github/stars/armory3d/armory) ![GitHub last commit](https://img.shields.io/github/last-commit/armory3d/armory)](https://github.com/armory3d/armory) - 3D game engine with full _Blender_ integration.
+    - ���� [Armory ![GitHub Repo Stars](https://img.shields.io/github/stars/armory3d/armory) ![GitHub last commit](https://img.shields.io/github/last-commit/armory3d/armory)](https://github.com/armory3d/armory) - 3D game engine with full _Blender_ integration.
     - 🎉 [Away3D ![GitHub Repo Stars](https://img.shields.io/github/stars/openfl/away3d) ![GitHub last commit](https://img.shields.io/github/last-commit/openfl/away3d)](https://github.com/openfl/away3d) - Real-time 3D engine for OpenFL. [[Website](http://away3d.com)]
     - 🎉 [Flixel-Studio ![GitHub Repo Stars](https://img.shields.io/github/stars/Dovyski/flixel-studio) ![GitHub last commit](https://img.shields.io/github/last-commit/Dovyski/flixel-studio)](https://github.com/Dovyski/flixel-studio) - Embeddable, in-game editor for _HaxeFlixel_.
     - 🎉 [Hide ![GitHub Repo Stars](https://img.shields.io/github/stars/heapsio/hide) ![GitHub last commit](https://img.shields.io/github/last-commit/heapsio/hide)](https://github.com/heapsio/hide) - Extensible IDE for the _Heaps_ 3D graphic engine.

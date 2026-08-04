@@ -139,6 +139,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [WUI ![GitHub Repo Stars](https://img.shields.io/github/stars/intent-garden/wui) ![GitHub last commit](https://img.shields.io/github/last-commit/intent-garden/wui)](https://github.com/intent-garden/wui) - WUI (Window User Interface Library) is a cross-platform library for creating graphical user interfaces in C++17+ [Boost][website](https://libwui.org)
 * [xtd ![GitHub Repo Stars](https://img.shields.io/github/stars/gammasoft71/xtd) ![GitHub last commit](https://img.shields.io/github/last-commit/gammasoft71/xtd)](https://github.com/gammasoft71/xtd) - Modern C++20 framework to create console (CLI), forms (GUI) and unit tests (xUnit) applications on Windows, macOS, Linux, iOS, Android, FreeBSD and Haiku. [MIT]
 * [Yomm2 ![GitHub Repo Stars](https://img.shields.io/github/stars/jll63/yomm2) ![GitHub last commit](https://img.shields.io/github/last-commit/jll63/yomm2)](https://github.com/jll63/yomm2) - Fast, Orthogonal, Open multi-methods. Supersedes [Yomm11 ![GitHub Repo Stars](https://img.shields.io/github/stars/jll63/yomm11) ![GitHub last commit](https://img.shields.io/github/last-commit/jll63/yomm11)](https://github.com/jll63/yomm11) [Boost]
+* [YUP! ![GitHub Repo Stars](https://img.shields.io/github/stars/kunitoki/yup) ![GitHub last commit](https://img.shields.io/github/last-commit/kunitoki/yup)](https://github.com/kunitoki/yup) - The modern framework optimized for realtime audio and GPU-native creative software [ISC]
 
 ## Artificial Intelligence
 
