@@ -47,6 +47,7 @@ Inspired by the [awesome ![GitHub Repo Stars](https://img.shields.io/github/star
 - [Productivity](#productivity)
   - [Time Tracking](#time-tracking)
   - [Note Taking, Lists, Task Management](#note-taking-lists-task-management)
+  - [Email](#email)
   - [Finance](#finance)
   - [Presentations](#presentations)
   - [Calendars](#calendars)
@@ -216,6 +217,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [localtunnel ![GitHub Repo Stars](https://img.shields.io/github/stars/localtunnel/localtunnel) ![GitHub last commit](https://img.shields.io/github/last-commit/localtunnel/localtunnel)](https://github.com/localtunnel/localtunnel)
 - [tunnelmole ![GitHub Repo Stars](https://img.shields.io/github/stars/robbie-cahill/tunnelmole-client) ![GitHub last commit](https://img.shields.io/github/last-commit/robbie-cahill/tunnelmole-client)](https://github.com/robbie-cahill/tunnelmole-client)
 - [ngrok](https://ngrok.com/)
+- [ytunnel ![GitHub Repo Stars](https://img.shields.io/github/stars/yetidevworks/ytunnel) ![GitHub last commit](https://img.shields.io/github/last-commit/yetidevworks/ytunnel)](https://github.com/yetidevworks/ytunnel) - Create and manage Cloudflare Tunnels with custom domains.
 
 ### Mobile Development
 
@@ -321,7 +323,6 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [doing ![GitHub Repo Stars](https://img.shields.io/github/stars/ttscoff/doing) ![GitHub last commit](https://img.shields.io/github/last-commit/ttscoff/doing)](https://github.com/ttscoff/doing/) - Keep track of what you’re doing and track what you’ve done.
 - [ffscreencast ![GitHub Repo Stars](https://img.shields.io/github/stars/cytopia/ffscreencast) ![GitHub last commit](https://img.shields.io/github/last-commit/cytopia/ffscreencast)](https://github.com/cytopia/ffscreencast) - A ffmpeg screencast with video overlay and multi monitor support.
 - [meetup-cli ![GitHub Repo Stars](https://img.shields.io/github/stars/specious/meetup-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/specious/meetup-cli)](https://github.com/specious/meetup-cli) - Meetup.com client.
-- [NeoMutt](https://neomutt.org) - Email client.
 - [terjira ![GitHub Repo Stars](https://img.shields.io/github/stars/keepcosmos/terjira) ![GitHub last commit](https://img.shields.io/github/last-commit/keepcosmos/terjira)](https://github.com/keepcosmos/terjira) - Jira client.
 - [ipt ![GitHub Repo Stars](https://img.shields.io/github/stars/drselump14/ipt) ![GitHub last commit](https://img.shields.io/github/last-commit/drselump14/ipt)](https://github.com/drselump14/ipt) - Pivotal Tracker client.
 - [uber-cli ![GitHub Repo Stars](https://img.shields.io/github/stars/jaebradley/uber-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/jaebradley/uber-cli)](https://github.com/jaebradley/uber-cli) - Uber client.
@@ -367,6 +368,11 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [epiq ![GitHub Repo Stars](https://img.shields.io/github/stars/ljtn/epiq) ![GitHub last commit](https://img.shields.io/github/last-commit/ljtn/epiq)](https://github.com/ljtn/epiq) - Local-first distributed issue tracker backed by Git.
 - [feeling ![GitHub Repo Stars](https://img.shields.io/github/stars/qiz-li/feeling) ![GitHub last commit](https://img.shields.io/github/last-commit/qiz-li/feeling)](https://github.com/qiz-li/feeling) - Mood tracker that visualizes your emotional patterns over time.
 - [confluence-cli ![GitHub Repo Stars](https://img.shields.io/github/stars/pchuri/confluence-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/pchuri/confluence-cli)](https://github.com/pchuri/confluence-cli) - Confluence client.
+
+### Email
+
+- [NeoMutt](https://neomutt.org) - Email client.
+- [mail-duplicate ![GitHub Repo Stars](https://img.shields.io/github/stars/kdeldycke/mail-deduplicate) ![GitHub last commit](https://img.shields.io/github/last-commit/kdeldycke/mail-deduplicate)](https://github.com/kdeldycke/mail-deduplicate) - Deduplicate mail boxes.
 
 ### Finance
 
@@ -507,6 +513,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 
 - [mdlt ![GitHub Repo Stars](https://img.shields.io/github/stars/metadelta/mdlt) ![GitHub last commit](https://img.shields.io/github/last-commit/metadelta/mdlt)](https://github.com/metadelta/mdlt) - Do quick math right from the command line.
 - [Qalculate ![GitHub Repo Stars](https://img.shields.io/github/stars/Qalculate/libqalculate) ![GitHub last commit](https://img.shields.io/github/last-commit/Qalculate/libqalculate)](https://github.com/Qalculate/libqalculate) - Calculate non-trivial math expressions. Unit conversions, symbolic calculations and more.
+- [numr ![GitHub Repo Stars](https://img.shields.io/github/stars/nasedkinpv/numr) ![GitHub last commit](https://img.shields.io/github/last-commit/nasedkinpv/numr)](https://github.com/nasedkinpv/numr) - Natural-language calculator with variables, units, currencies, and live exchange rates.
 
 ### Academia
 
@@ -713,6 +720,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [semantic-grep ![GitHub Repo Stars](https://img.shields.io/github/stars/arunsupe/semantic-grep) ![GitHub last commit](https://img.shields.io/github/last-commit/arunsupe/semantic-grep)](https://github.com/arunsupe/semantic-grep) - A tool for semantic search using word embeddings (e.g. search for "death" and find "dead", "killing", "murder".)
 - [reflex ![GitHub Repo Stars](https://img.shields.io/github/stars/reflex-search/reflex) ![GitHub last commit](https://img.shields.io/github/last-commit/reflex-search/reflex)](https://github.com/reflex-search/reflex) - Instant, offline, code-aware search for text, symbols, and import graphs.
 - [Vexor ![GitHub Repo Stars](https://img.shields.io/github/stars/scarletkc/vexor) ![GitHub last commit](https://img.shields.io/github/last-commit/scarletkc/vexor)](https://github.com/scarletkc/vexor) - A semantic search engine for files and code.
+- [ygrep ![GitHub Repo Stars](https://img.shields.io/github/stars/yetidevworks/ygrep) ![GitHub last commit](https://img.shields.io/github/last-commit/yetidevworks/ygrep)](https://github.com/yetidevworks/ygrep) - Indexed code search backed by a local Tantivy full-text index.
 
 ## Version Control
 
