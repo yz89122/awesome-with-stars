@@ -481,6 +481,7 @@ _Libraries for serializing complex data types._
 
 - [marshmallow ![GitHub Repo Stars](https://img.shields.io/github/stars/marshmallow-code/marshmallow) ![GitHub last commit](https://img.shields.io/github/last-commit/marshmallow-code/marshmallow)](https://github.com/marshmallow-code/marshmallow) - A lightweight library for converting complex objects to and from simple Python datatypes.
 - [msgpack ![GitHub Repo Stars](https://img.shields.io/github/stars/msgpack/msgpack-python) ![GitHub last commit](https://img.shields.io/github/last-commit/msgpack/msgpack-python)](https://github.com/msgpack/msgpack-python) - MessagePack serializer implementation for Python.
+- [msgspec ![GitHub Repo Stars](https://img.shields.io/github/stars/msgspec/msgspec) ![GitHub last commit](https://img.shields.io/github/last-commit/msgspec/msgspec)](https://github.com/msgspec/msgspec) - A fast serialization and validation library with built-in support for JSON, MessagePack, YAML, and TOML.
 - [orjson ![GitHub Repo Stars](https://img.shields.io/github/stars/ijl/orjson) ![GitHub last commit](https://img.shields.io/github/last-commit/ijl/orjson)](https://github.com/ijl/orjson) - Fast, correct JSON library.
 
 **Data & Science**
