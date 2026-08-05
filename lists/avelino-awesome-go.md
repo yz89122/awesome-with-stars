@@ -2502,8 +2502,6 @@ _Libraries and tools for binary serialization._
 
 **[⬆ back to top](#contents)**
 
-* [relay ![GitHub Repo Stars](https://img.shields.io/github/stars/valtors/relay) ![GitHub last commit](https://img.shields.io/github/last-commit/valtors/relay)](https://github.com/valtors/relay) - MCP server with 40 tools for AI agents. Memory, web fetch, search, file ops, screenshots, and multi-agent coordination in one Go binary.
-
 ## Server Applications
 
 - [algernon ![GitHub Repo Stars](https://img.shields.io/github/stars/xyproto/algernon) ![GitHub last commit](https://img.shields.io/github/last-commit/xyproto/algernon)](https://github.com/xyproto/algernon) - HTTP/2 web server with built-in support for Lua, Markdown, GCSS and Amber.
@@ -3042,8 +3040,8 @@ _General utilities and tools to make your life easier._
 - [jump ![GitHub Repo Stars](https://img.shields.io/github/stars/gsamokovarov/jump) ![GitHub last commit](https://img.shields.io/github/last-commit/gsamokovarov/jump)](https://github.com/gsamokovarov/jump) - Jump helps you navigate faster by learning your habits.
 - [just ![GitHub Repo Stars](https://img.shields.io/github/stars/kazhuravlev/just) ![GitHub last commit](https://img.shields.io/github/last-commit/kazhuravlev/just)](https://github.com/kazhuravlev/just) - Just a collection of useful functions for working with generic data structures.
 - [koazee ![GitHub Repo Stars](https://img.shields.io/github/stars/wesovilabs/koazee) ![GitHub last commit](https://img.shields.io/github/last-commit/wesovilabs/koazee)](https://github.com/wesovilabs/koazee) - Library inspired in Lazy evaluation and functional programming that takes the hassle out of working with arrays.
-- [lang ![GitHub Repo Stars](https://img.shields.io/github/stars/maxbolgarin/lang) ![GitHub last commit](https://img.shields.io/github/last-commit/maxbolgarin/lang)](https://github.com/maxbolgarin/lang) - Generic one-liners to work with variables, slices and maps without boilerplate code.
 - [LAN Orangutan ![GitHub Repo Stars](https://img.shields.io/github/stars/291-Group/LAN-Orangutan) ![GitHub last commit](https://img.shields.io/github/last-commit/291-Group/LAN-Orangutan)](https://github.com/291-Group/LAN-Orangutan) - Network device discovery and inventory with persistent labeling, multi-network scanning, and Tailscale integration.
+- [lang ![GitHub Repo Stars](https://img.shields.io/github/stars/maxbolgarin/lang) ![GitHub last commit](https://img.shields.io/github/last-commit/maxbolgarin/lang)](https://github.com/maxbolgarin/lang) - Generic one-liners to work with variables, slices and maps without boilerplate code.
 - [lets-go ![GitHub Repo Stars](https://img.shields.io/github/stars/aplescia-chwy/lets-go) ![GitHub last commit](https://img.shields.io/github/last-commit/aplescia-chwy/lets-go)](https://github.com/aplescia-chwy/lets-go) - Go module that provides common utilities for Cloud Native REST API development. Also contains AWS Specific utilities.
 - [limiters ![GitHub Repo Stars](https://img.shields.io/github/stars/mennanov/limiters) ![GitHub last commit](https://img.shields.io/github/last-commit/mennanov/limiters)](https://github.com/mennanov/limiters) - Rate limiters for distributed applications in Golang with configurable back-ends and distributed locks.
 - [lo ![GitHub Repo Stars](https://img.shields.io/github/stars/samber/lo) ![GitHub last commit](https://img.shields.io/github/last-commit/samber/lo)](https://github.com/samber/lo) - A Lodash like Go library based on Go 1.18+ Generics (map, filter, contains, find...)
