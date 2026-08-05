@@ -583,7 +583,7 @@ By default, govulncheck makes requests to the Go vulnerability database at https
 - [Diffblue](https://www.diffblue.com/) :copyright: — Diffblue is a software company that provides AI-powered code analysis and testing solutions for software development teams.
 Its technology helps developers automate testing, find bugs, and reduce manual labor in their software development processes. The company's main product, Diffblue Cover, uses AI to generate and run unit tests for Java code, helping to catch errors and improve code quality.
 
-- [Doop](https://plast-lab.github.io/doop-pldi15-tutorial/) — Doop is a declarative framework for static analysis of Java/Android programs, centered on pointer analysis algorithms. Doop provides a large variety of analyses and also the surrounding scaffolding to run an analysis end-to-end (fact generation, processing, statistics, etc.).
+- [Doop](https://plast-lab.github.io/doop-pldi15-tutorial/) ��� Doop is a declarative framework for static analysis of Java/Android programs, centered on pointer analysis algorithms. Doop provides a large variety of analyses and also the surrounding scaffolding to run an analysis end-to-end (fact generation, processing, statistics, etc.).
 
 - **ENRE-java** :warning: — ENRE (ENtity Relationship Extractor) is a tool for extraction of code entity dependencies or relationships from source code. ENRE-java is a ENtity Relationship Extractor for Java projects based on @Eclipse JDT/parser.
 
@@ -1582,7 +1582,7 @@ orchestration to ensure zero breaking changes. Specialized for React, Next.js, a
 
 - [Snyk Code](https://snyk.io) :copyright: — Snyk Code finds security vulnerabilities based on AI. Its speed of analysis allow us to analyse your code in real time and deliver results when you hit the save button in your IDE. Supported languages are Java, JavaScript, Python, PHP, C#, Go and TypeScript. Integrations with GitHub, BitBucket and Gitlab. It is free to try and part of the Snyk platform also covering SCA, containers and IaC.
 
-- [SonarQube Cloud](https://sonarcloud.io) :copyright: ��� SonarQube Cloud enables your team to deliver clean code consistently and efficiently with a code review  tool that easily integrates into the cloud DevOps platforms and extend your CI/CD workflow.  SonarQube Cloud provides a free plan.
+- [SonarQube Cloud](https://sonarcloud.io) :copyright: — SonarQube Cloud enables your team to deliver clean code consistently and efficiently with a code review  tool that easily integrates into the cloud DevOps platforms and extend your CI/CD workflow.  SonarQube Cloud provides a free plan.
 
 - [SonarQube for IDE](https://sonarlint.org) — SonarQube for IDE (formerly SonarLint) is a free IDE extension available for IntelliJ, VS Code, Visual Studio, and Eclipse,  to find and fix coding issues in real-time, flagging issues as you code, just like a spell-checker.  More than a linter, it also delivers rich contextual guidance to help developers understand  why there is an issue, assess the risk, and educate them on how to fix it.
 

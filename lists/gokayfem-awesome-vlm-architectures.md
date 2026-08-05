@@ -602,7 +602,7 @@ Technology Innovation Institute<br>
 <!-- /architecture-figure:15 -->
 
 <details>
-<summary>ℹ️ <i>More Information</i></summary>
+<summary>ℹ�� <i>More Information</i></summary>
 
 **Falcon Perception** is a dense early-fusion Transformer in which image patches and text interact from the first layer. Its attention mask is bidirectional over image tokens and causal over prediction tokens. Variable-length instance tokens identify multiple objects, while lightweight continuous heads produce masks without turning segmentation into an unwieldy text sequence.
 

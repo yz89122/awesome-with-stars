@@ -109,6 +109,7 @@
 - [Vski Table](https://table.vski.ai) - Datagrid component built with Preact.
 - [Kamod UI ![GitHub Repo Stars](https://img.shields.io/github/stars/kamod-ch/kamod-ui) ![GitHub last commit](https://img.shields.io/github/last-commit/kamod-ch/kamod-ui)](https://github.com/kamod-ch/kamod-ui) - Lightweight Preact and Tailwind UI components (shadcn-style approach) *([demo](https://kamod-ch.github.io/kamod-ui/))*.
 - [Preact Filter Builder ![GitHub Repo Stars](https://img.shields.io/github/stars/dimidd/preact-filter-builder) ![GitHub last commit](https://img.shields.io/github/last-commit/dimidd/preact-filter-builder)](https://github.com/dimidd/preact-filter-builder) - A reusable Preact-based filter builder UI component with AND/OR boolean connectors *([demo](https://cute-empanada-425012.netlify.app/))*.
+- [I18n Micro ![GitHub Repo Stars](https://img.shields.io/github/stars/s00d/nuxt-i18n-micro) ![GitHub last commit](https://img.shields.io/github/last-commit/s00d/nuxt-i18n-micro)](https://github.com/s00d/nuxt-i18n-micro/tree/main/packages/preact) - Lightweight Preact bindings for i18n-micro (hooks, context, and UI components).
 
 ### Libraries
 - [Redux Zero ![GitHub Repo Stars](https://img.shields.io/github/stars/concretesolutions/redux-zero) ![GitHub last commit](https://img.shields.io/github/last-commit/concretesolutions/redux-zero)](https://github.com/concretesolutions/redux-zero) - A lightweight state container based on Redux with a single store and no reducers.
