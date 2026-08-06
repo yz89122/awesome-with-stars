@@ -1465,6 +1465,7 @@ be
 <a name="python-neural-networks"></a>
 #### Neural Networks
 
+* [fenn ![GitHub Repo Stars](https://img.shields.io/github/stars/pyfenn/fenn) ![GitHub last commit](https://img.shields.io/github/last-commit/pyfenn/fenn)](https://github.com/pyfenn/fenn) - A simple Python framework for building ML/DL workflows and LLM agents faster, with prebuilt trainers, agent templates, logging, configuration management, and much more.
 * [Kinho ![GitHub Repo Stars](https://img.shields.io/github/stars/kinhosz/Neural) ![GitHub last commit](https://img.shields.io/github/last-commit/kinhosz/Neural)](https://github.com/kinhosz/Neural) - Simple API for Neural Network. Better for image processing with CPU/GPU + Transfer Learning.
 * [nn_builder ![GitHub Repo Stars](https://img.shields.io/github/stars/p-christ/nn_builder) ![GitHub last commit](https://img.shields.io/github/last-commit/p-christ/nn_builder)](https://github.com/p-christ/nn_builder) - nn_builder is a python package that lets you build neural networks in 1 line
 * [NeuralTalk ![GitHub Repo Stars](https://img.shields.io/github/stars/karpathy/neuraltalk) ![GitHub last commit](https://img.shields.io/github/last-commit/karpathy/neuraltalk)](https://github.com/karpathy/neuraltalk) - NeuralTalk is a Python+numpy project for learning Multimodal Recurrent Neural Networks that describe images with sentences.

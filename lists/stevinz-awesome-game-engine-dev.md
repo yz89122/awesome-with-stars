@@ -1355,6 +1355,7 @@ _Software to help with game engine / video game development._
 - 🌎 [Coolors](https://coolors.co) - Fast color palette generator.
 - 🌎 [Huemint](https://huemint.com) - Uses machine learning to generate colors for graphic design.
 - 🌎 [Lospec](https://lospec.com/palette-list) - Database of palettes for pixel art.
+- 🎉 [Palette Extractor](https://pixelpixi.github.io/spritewright/palette-extractor/) - Extract the exact palette from any sprite or image, export to GPL, ASE or hex. [[Source ![GitHub Repo Stars](https://img.shields.io/github/stars/pixelpixi/spritewright) ![GitHub last commit](https://img.shields.io/github/last-commit/pixelpixi/spritewright)](https://github.com/pixelpixi/spritewright)]
 - 🌎 [Paletton](https://paletton.com) - Explore complementary colors on the color wheel.
 
 ### Debugging / Profiling

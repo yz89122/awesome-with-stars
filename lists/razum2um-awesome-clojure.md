@@ -273,7 +273,7 @@
   * [Friend ![GitHub Repo Stars](https://img.shields.io/github/stars/cemerick/friend) ![GitHub last commit](https://img.shields.io/github/last-commit/cemerick/friend)](https://github.com/cemerick/friend)
   * [secrets.clj ![GitHub Repo Stars](https://img.shields.io/github/stars/lk-geimfari/secrets.clj) ![GitHub last commit](https://img.shields.io/github/last-commit/lk-geimfari/secrets.clj)](https://github.com/lk-geimfari/secrets.clj)
   * [bolt ![GitHub Repo Stars](https://img.shields.io/github/stars/juxt/bolt) ![GitHub last commit](https://img.shields.io/github/last-commit/juxt/bolt)](https://github.com/juxt/bolt)
-  * [EACL ![GitHub Repo Stars](https://img.shields.io/github/stars/theronic/eacl) ![GitHub last commit](https://img.shields.io/github/last-commit/theronic/eacl)](https://github.com/theronic/eacl): ReBAC authorization library based on SpiceDB, backed by Datomic
+  * [EACL ![GitHub Repo Stars](https://img.shields.io/github/stars/theronic/eacl) ![GitHub last commit](https://img.shields.io/github/last-commit/theronic/eacl)](https://github.com/theronic/eacl): Situated ReBAC authorization library inspired by SpiceDB and backed by Datomic Pro, Datahike or DataScript.
 
 ## RESTful API
 

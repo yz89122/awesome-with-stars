@@ -571,6 +571,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-request-lock ![GitHub Repo Stars](https://img.shields.io/github/stars/SalvatoreDiGenua/ngx-request-lock-docs) ![GitHub last commit](https://img.shields.io/github/last-commit/SalvatoreDiGenua/ngx-request-lock-docs)](https://github.com/SalvatoreDiGenua/ngx-request-lock-docs) - An Angular library that binds a UI flow to the lifecycle of its HTTP requests.
 * [ngx-api-client ![GitHub Repo Stars](https://img.shields.io/github/stars/ismailza/ngx-api-client) ![GitHub last commit](https://img.shields.io/github/last-commit/ismailza/ngx-api-client)](https://github.com/ismailza/ngx-api-client) - This configurable `ApiService` extracts and standardizes ad-hoc `HttpClient` logic for handling base URLs, errors, retries, and loading states.
 * [ngx-task ![GitHub Repo Stars](https://img.shields.io/github/stars/MahmoudAdelJR/ngx-task-suite) ![GitHub last commit](https://img.shields.io/github/last-commit/MahmoudAdelJR/ngx-task-suite)](https://github.com/MahmoudAdelJR/ngx-task-suite) - Signal-first controlled asynchronous actions for Angular with cancellation, lifecycle cleanup, and explicit concurrency policies.
+* [ngx-smart-interceptor ![GitHub Repo Stars](https://img.shields.io/github/stars/ErickG123/ngx-smart-interceptor) ![GitHub last commit](https://img.shields.io/github/last-commit/ErickG123/ngx-smart-interceptor)](https://github.com/ErickG123/ngx-smart-interceptor) - Enterprise-grade, resilient, and intelligent HTTP Interceptor for modern Angular applications.
 
 ### Micro-Frontends
 
@@ -1278,6 +1279,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [CalendarJS ![GitHub Repo Stars](https://img.shields.io/github/stars/componade/calendarjs) ![GitHub last commit](https://img.shields.io/github/last-commit/componade/calendarjs)](https://github.com/componade/calendarjs) - Open source JavaScript calendar and scheduling component that can be integrated into Angular projects.
 * [hss-calendar ![GitHub Repo Stars](https://img.shields.io/github/stars/HawkerSoftwares/hss-calendar) ![GitHub last commit](https://img.shields.io/github/last-commit/HawkerSoftwares/hss-calendar)](https://github.com/HawkerSoftwares/hss-calendar) - A premium, lightweight, and fully customizable calendar library for Angular 19+.
 * [datelane ![GitHub Repo Stars](https://img.shields.io/github/stars/devendramilmile121/datelane) ![GitHub last commit](https://img.shields.io/github/last-commit/devendramilmile121/datelane)](https://github.com/devendramilmile121/datelane) - A customizable, zero-dependency Angular calendar featuring 12 views and multiple date layers.
+* [ngx-modern-calendar ![GitHub Repo Stars](https://img.shields.io/github/stars/angx-libs/ngx-modern-calendar) ![GitHub last commit](https://img.shields.io/github/last-commit/angx-libs/ngx-modern-calendar)](https://github.com/angx-libs/ngx-modern-calendar) - A small, themeable, multi-language calendar component for Angular.
 
 ### Captcha
 
