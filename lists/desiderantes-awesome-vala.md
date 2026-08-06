@@ -117,6 +117,7 @@ A curated list of resources for [Vala](https://vala.dev/) - A programming langua
 - [EasyDocs ![GitHub Repo Stars](https://img.shields.io/github/stars/watsonprojects/EasyDocs) ![GitHub last commit](https://img.shields.io/github/last-commit/watsonprojects/EasyDocs)](https://github.com/watsonprojects/EasyDocs) -  Quickly read developer documentation.
 - [Spider ![GitHub Repo Stars](https://img.shields.io/github/stars/colinkiama/spider) ![GitHub last commit](https://img.shields.io/github/last-commit/colinkiama/spider)](https://github.com/colinkiama/spider) - Quickly generate a HTML5 site structure.
 - [Valdo ![GitHub Repo Stars](https://img.shields.io/github/stars/vala-lang/valdo) ![GitHub last commit](https://img.shields.io/github/last-commit/vala-lang/valdo)](https://github.com/vala-lang/valdo) - Create new Vala projects from templates.
+- [Vamposer ![GitHub Repo Stars](https://img.shields.io/github/stars/ValaTux/vamposer) ![GitHub last commit](https://img.shields.io/github/last-commit/ValaTux/vamposer)](https://github.com/ValaTux/vamposer) - Dependency manager for Vala projects inspired by Composer/Go modules and integrated with Meson subprojects.
 
 ## Editor Plugins
 
