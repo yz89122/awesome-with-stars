@@ -758,4 +758,4 @@ The [header image ![GitHub Repo Stars](https://img.shields.io/github/stars/kdeld
 
 <!--lint disable no-undefined-references-->
 
-<a name="intro-quote-def">[1]</a>: [*Poison Study*](https://www.amazon.com/dp/0778324338?&linkCode=ll1&tag=kevideld-20&linkId=0b92c3d92371bd53daca5457bdad327e&language=en_US&ref_=as_li_ss_tl) (Mira, 2007). [[↑]](#intro-quote-ref)
+<a name="intro-quote-def">[1]</a>: [*Poison Study*](https://openlibrary.org/isbn/0778324338) (Mira, 2007). [[↑]](#intro-quote-ref)
