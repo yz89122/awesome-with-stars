@@ -215,7 +215,7 @@ _Libraries to integrate or use cloud-specific features._
 
 > **[Google Cloud Client Libraries ![GitHub Repo Stars](https://img.shields.io/github/stars/googleapis/google-cloud-java) ![GitHub last commit](https://img.shields.io/github/last-commit/googleapis/google-cloud-java)](https://github.com/googleapis/google-cloud-java)** <kbd>★ 2.1k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Client libraries for accessing Google Cloud services from Java applications.
 
-> **[Java Operator SDK ![GitHub Repo Stars](https://img.shields.io/github/stars/operator-framework/java-operator-sdk) ![GitHub last commit](https://img.shields.io/github/last-commit/operator-framework/java-operator-sdk)](https://github.com/operator-framework/java-operator-sdk)** <kbd>★ 936</kbd> <kbd>Apache-2.0</kbd> 🟢<br>SDK for implementing Kubernetes operators in Java.
+> **[Java Operator SDK ![GitHub Repo Stars](https://img.shields.io/github/stars/operator-framework/java-operator-sdk) ![GitHub last commit](https://img.shields.io/github/last-commit/operator-framework/java-operator-sdk)](https://github.com/operator-framework/java-operator-sdk)** <kbd>★ 936</kbd> <kbd>Apache-2.0</kbd> ��<br>SDK for implementing Kubernetes operators in Java.
 
 > **[Kubernetes Java Client ![GitHub Repo Stars](https://img.shields.io/github/stars/kubernetes-client/java) ![GitHub last commit](https://img.shields.io/github/last-commit/kubernetes-client/java)](https://github.com/kubernetes-client/java)** <kbd>★ 4.0k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Official Java client for the Kubernetes API.
 
@@ -380,7 +380,7 @@ _Libraries that provide external configuration._
 
 > **[Externalized Properties ![GitHub Repo Stars](https://img.shields.io/github/stars/joel-jeremy/externalized-properties) ![GitHub last commit](https://img.shields.io/github/last-commit/joel-jeremy/externalized-properties)](https://github.com/joel-jeremy/externalized-properties)** <kbd>★ 47</kbd> <kbd>Apache-2.0</kbd> 🟠<br>Simple, lightweight, yet powerful configuration library which supports resolution of properties from external sources such as files, databases, git repositories, and any custom sources, plus an extensible post-processing/conversion mechanism.
 
-> **[Gestalt ![GitHub Repo Stars](https://img.shields.io/github/stars/gestalt-config/gestalt) ![GitHub last commit](https://img.shields.io/github/last-commit/gestalt-config/gestalt)](https://github.com/gestalt-config/gestalt)** <kbd>★ 102</kbd> <kbd>Apache-2.0</kbd> ��<br>Gestalt offers a comprehensive solution to the challenges of configuration management. It allows you to source configuration data from multiple inputs, merge them intelligently, and present them in a structured, type-safe manner.
+> **[Gestalt ![GitHub Repo Stars](https://img.shields.io/github/stars/gestalt-config/gestalt) ![GitHub last commit](https://img.shields.io/github/last-commit/gestalt-config/gestalt)](https://github.com/gestalt-config/gestalt)** <kbd>★ 102</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Gestalt offers a comprehensive solution to the challenges of configuration management. It allows you to source configuration data from multiple inputs, merge them intelligently, and present them in a structured, type-safe manner.
 
 > **[ini4j](https://ini4j.sourceforge.net)**<br>Provides an API for handling Windows' INI files.
 
