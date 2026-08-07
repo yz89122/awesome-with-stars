@@ -380,7 +380,7 @@ _Libraries that provide external configuration._
 
 > **[Externalized Properties ![GitHub Repo Stars](https://img.shields.io/github/stars/joel-jeremy/externalized-properties) ![GitHub last commit](https://img.shields.io/github/last-commit/joel-jeremy/externalized-properties)](https://github.com/joel-jeremy/externalized-properties)** <kbd>★ 47</kbd> <kbd>Apache-2.0</kbd> 🟠<br>Simple, lightweight, yet powerful configuration library which supports resolution of properties from external sources such as files, databases, git repositories, and any custom sources, plus an extensible post-processing/conversion mechanism.
 
-> **[Gestalt ![GitHub Repo Stars](https://img.shields.io/github/stars/gestalt-config/gestalt) ![GitHub last commit](https://img.shields.io/github/last-commit/gestalt-config/gestalt)](https://github.com/gestalt-config/gestalt)** <kbd>★ 102</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Gestalt offers a comprehensive solution to the challenges of configuration management. It allows you to source configuration data from multiple inputs, merge them intelligently, and present them in a structured, type-safe manner.
+> **[Gestalt ![GitHub Repo Stars](https://img.shields.io/github/stars/gestalt-config/gestalt) ![GitHub last commit](https://img.shields.io/github/last-commit/gestalt-config/gestalt)](https://github.com/gestalt-config/gestalt)** <kbd>★ 102</kbd> <kbd>Apache-2.0</kbd> ��<br>Gestalt offers a comprehensive solution to the challenges of configuration management. It allows you to source configuration data from multiple inputs, merge them intelligently, and present them in a structured, type-safe manner.
 
 > **[ini4j](https://ini4j.sourceforge.net)**<br>Provides an API for handling Windows' INI files.
 
