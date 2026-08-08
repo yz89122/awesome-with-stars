@@ -57,6 +57,7 @@ Browse and search the resources via the [GitHub Pages UI](https://inoue0426.gith
   - [Machine Learning Tasks and Models](#machine-learning-tasks-and-models)
     - [Drug Discovery](#drug-discovery)
       - [Drug Response Prediction](#drug-response-prediction)
+      - [Drug Perturbation](#drug-perturbation)
       - [Drug Repurposing](#drug-repurposing)
       - [Drug Target Interaction](#drug-target-interaction)
       - [Compound-Protein Interaction](#compound-protein-interaction)
@@ -327,10 +328,15 @@ Browse and search the resources via the [GitHub Pages UI](https://inoue0426.gith
 - [RECOVER ![GitHub Repo Stars](https://img.shields.io/github/stars/RECOVERcoalition/Recover) ![GitHub last commit](https://img.shields.io/github/last-commit/RECOVERcoalition/Recover)](https://github.com/RECOVERcoalition/Recover) — Machine learning framework for predicting synergistic drug combination responses across cell lines.
 - [TGSA ![GitHub Repo Stars](https://img.shields.io/github/stars/violet-sto/TGSA) ![GitHub last commit](https://img.shields.io/github/last-commit/violet-sto/TGSA)](https://github.com/violet-sto/TGSA) — Tumor gene set and attention-based model leveraging biological pathway knowledge for drug response prediction.
 - [HiDRA ![GitHub Repo Stars](https://img.shields.io/github/stars/bsml320/HiDRA) ![GitHub last commit](https://img.shields.io/github/last-commit/bsml320/HiDRA)](https://github.com/bsml320/HiDRA) — Hierarchical network model incorporating gene and pathway-level information for cancer drug response prediction.
-- [PRNet ![GitHub Repo Stars](https://img.shields.io/github/stars/Perturbation-Response-Prediction/PRnet) ![GitHub last commit](https://img.shields.io/github/last-commit/Perturbation-Response-Prediction/PRnet)](https://github.com/Perturbation-Response-Prediction/PRnet) — Deep generative model for predicting transcriptional responses to novel chemical perturbations for drug discovery.
+- [DRUML ![GitHub Repo Stars](https://img.shields.io/github/stars/CutillasLab/DRUMLR) ![GitHub last commit](https://img.shields.io/github/last-commit/CutillasLab/DRUMLR)](https://github.com/CutillasLab/DRUMLR) — Ensemble machine learning framework combining standard ML with deep learning to systematically rank anti-cancer drugs from proteomics and RNA-seq data.
+
+#### Drug Perturbation
+
+- [CellOT ![GitHub Repo Stars](https://img.shields.io/github/stars/bunnech/cellot) ![GitHub last commit](https://img.shields.io/github/last-commit/bunnech/cellot)](https://github.com/bunnech/cellot) — Neural optimal transport framework for predicting single-cell responses to drug and genetic perturbations.
+- [CMonge ![GitHub Repo Stars](https://img.shields.io/github/stars/AI4SCR/conditional-monge-gap) ![GitHub last commit](https://img.shields.io/github/last-commit/AI4SCR/conditional-monge-gap)](https://github.com/AI4SCR/conditional-monge-gap) — Conditional optimal transport model for generalizable single-cell perturbation response prediction across drugs and doses.
 - [chemCPA ![GitHub Repo Stars](https://img.shields.io/github/stars/theislab/chemCPA) ![GitHub last commit](https://img.shields.io/github/last-commit/theislab/chemCPA)](https://github.com/theislab/chemCPA) — Compositional perturbation autoencoder for predicting single-cell transcriptional responses to unseen drug perturbations and dose combinations.
 - [cycleCDR ![GitHub Repo Stars](https://img.shields.io/github/stars/hliulab/cycleCDR) ![GitHub last commit](https://img.shields.io/github/last-commit/hliulab/cycleCDR)](https://github.com/hliulab/cycleCDR) — Interpretable cycle-consistency framework for modeling cellular responses to drug perturbations.
-- [DRUML ![GitHub Repo Stars](https://img.shields.io/github/stars/CutillasLab/DRUMLR) ![GitHub last commit](https://img.shields.io/github/last-commit/CutillasLab/DRUMLR)](https://github.com/CutillasLab/DRUMLR) — Ensemble machine learning framework combining standard ML with deep learning to systematically rank anti-cancer drugs from proteomics and RNA-seq data.
+- [PRNet ![GitHub Repo Stars](https://img.shields.io/github/stars/Perturbation-Response-Prediction/PRnet) ![GitHub last commit](https://img.shields.io/github/last-commit/Perturbation-Response-Prediction/PRnet)](https://github.com/Perturbation-Response-Prediction/PRnet) — Deep generative model for predicting transcriptional responses to novel chemical perturbations for drug discovery.
 
 #### Drug Repurposing
 
