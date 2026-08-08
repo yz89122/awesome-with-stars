@@ -286,7 +286,7 @@ Descriptions focus on structure, scope, and market role rather than time-depende
 * 🇭🇰 **[Hong Kong Stock Exchange (HKEX)](https://www.hkex.com.hk)**
   Key international financial hub connecting Chinese and global capital markets.
 
-* ����🇷 **[Korea Exchange (KRX)](https://global.krx.co.kr)**
+* 🇰🇷 **[Korea Exchange (KRX)](https://global.krx.co.kr)**
   South Korea’s sole securities exchange operator, covering equities, derivatives, and bonds.
 
 * 🇬🇧 **[London Stock Exchange (LSE)](https://www.londonstockexchange.com)**
