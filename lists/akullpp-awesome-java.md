@@ -215,7 +215,7 @@ _Libraries to integrate or use cloud-specific features._
 
 > **[Google Cloud Client Libraries ![GitHub Repo Stars](https://img.shields.io/github/stars/googleapis/google-cloud-java) ![GitHub last commit](https://img.shields.io/github/last-commit/googleapis/google-cloud-java)](https://github.com/googleapis/google-cloud-java)** <kbd>★ 2.1k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Client libraries for accessing Google Cloud services from Java applications.
 
-> **[Java Operator SDK ![GitHub Repo Stars](https://img.shields.io/github/stars/operator-framework/java-operator-sdk) ![GitHub last commit](https://img.shields.io/github/last-commit/operator-framework/java-operator-sdk)](https://github.com/operator-framework/java-operator-sdk)** <kbd>★ 936</kbd> <kbd>Apache-2.0</kbd> 🟢<br>SDK for implementing Kubernetes operators in Java.
+> **[Java Operator SDK ![GitHub Repo Stars](https://img.shields.io/github/stars/operator-framework/java-operator-sdk) ![GitHub last commit](https://img.shields.io/github/last-commit/operator-framework/java-operator-sdk)](https://github.com/operator-framework/java-operator-sdk)** <kbd>★ 936</kbd> <kbd>Apache-2.0</kbd> ��<br>SDK for implementing Kubernetes operators in Java.
 
 > **[Kubernetes Java Client ![GitHub Repo Stars](https://img.shields.io/github/stars/kubernetes-client/java) ![GitHub last commit](https://img.shields.io/github/last-commit/kubernetes-client/java)](https://github.com/kubernetes-client/java)** <kbd>★ 4.0k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Official Java client for the Kubernetes API.
 
@@ -675,7 +675,7 @@ _Libraries and frameworks for writing distributed and fault-tolerant application
 
 > **[Axon ![GitHub Repo Stars](https://img.shields.io/github/stars/AxonIQ/AxonFramework) ![GitHub last commit](https://img.shields.io/github/last-commit/AxonIQ/AxonFramework)](https://github.com/AxonIQ/AxonFramework)** <kbd>★ 3.6k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Framework for creating CQRS applications.
 
-> **[Curator Framework ![GitHub Repo Stars](https://img.shields.io/github/stars/apache/curator) ![GitHub last commit](https://img.shields.io/github/last-commit/apache/curator)](https://github.com/apache/curator)** <kbd>�� 3.2k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>High-level API for Apache ZooKeeper.
+> **[Curator Framework ![GitHub Repo Stars](https://img.shields.io/github/stars/apache/curator) ![GitHub last commit](https://img.shields.io/github/last-commit/apache/curator)](https://github.com/apache/curator)** <kbd>★ 3.2k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>High-level API for Apache ZooKeeper.
 
 > **[Dropwizard Circuit Breaker ![GitHub Repo Stars](https://img.shields.io/github/stars/mtakaki/dropwizard-circuitbreaker) ![GitHub last commit](https://img.shields.io/github/last-commit/mtakaki/dropwizard-circuitbreaker)](https://github.com/mtakaki/dropwizard-circuitbreaker)** <kbd>★ 46</kbd> <kbd>GPL-2.0</kbd> 🟠<br>Circuit breaker design pattern for Dropwizard.
 
