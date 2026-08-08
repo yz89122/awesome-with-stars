@@ -215,7 +215,7 @@ _Libraries to integrate or use cloud-specific features._
 
 > **[Google Cloud Client Libraries ![GitHub Repo Stars](https://img.shields.io/github/stars/googleapis/google-cloud-java) ![GitHub last commit](https://img.shields.io/github/last-commit/googleapis/google-cloud-java)](https://github.com/googleapis/google-cloud-java)** <kbd>★ 2.1k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Client libraries for accessing Google Cloud services from Java applications.
 
-> **[Java Operator SDK ![GitHub Repo Stars](https://img.shields.io/github/stars/operator-framework/java-operator-sdk) ![GitHub last commit](https://img.shields.io/github/last-commit/operator-framework/java-operator-sdk)](https://github.com/operator-framework/java-operator-sdk)** <kbd>★ 936</kbd> <kbd>Apache-2.0</kbd> ��<br>SDK for implementing Kubernetes operators in Java.
+> **[Java Operator SDK ![GitHub Repo Stars](https://img.shields.io/github/stars/operator-framework/java-operator-sdk) ![GitHub last commit](https://img.shields.io/github/last-commit/operator-framework/java-operator-sdk)](https://github.com/operator-framework/java-operator-sdk)** <kbd>★ 936</kbd> <kbd>Apache-2.0</kbd> 🟢<br>SDK for implementing Kubernetes operators in Java.
 
 > **[Kubernetes Java Client ![GitHub Repo Stars](https://img.shields.io/github/stars/kubernetes-client/java) ![GitHub last commit](https://img.shields.io/github/last-commit/kubernetes-client/java)](https://github.com/kubernetes-client/java)** <kbd>★ 4.0k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Official Java client for the Kubernetes API.
 
@@ -2232,7 +2232,7 @@ _Engines for orchestrating long-running workflows and business processes._
 
 > **[Conductor ![GitHub Repo Stars](https://img.shields.io/github/stars/conductor-oss/conductor) ![GitHub last commit](https://img.shields.io/github/last-commit/conductor-oss/conductor)](https://github.com/conductor-oss/conductor)** <kbd>★ 32.0k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Event-driven workflow engine for distributed applications and AI agents.
 
-> **[flowable ![GitHub Repo Stars](https://img.shields.io/github/stars/flowable/flowable-engine) ![GitHub last commit](https://img.shields.io/github/last-commit/flowable/flowable-engine)](https://github.com/flowable/flowable-engine)** <kbd>★ 9.4k</kbd> <kbd>Apache-2.0</kbd> ���<br>Compact and efficient workflow and business process management platform.
+> **[flowable ![GitHub Repo Stars](https://img.shields.io/github/stars/flowable/flowable-engine) ![GitHub last commit](https://img.shields.io/github/last-commit/flowable/flowable-engine)](https://github.com/flowable/flowable-engine)** <kbd>★ 9.4k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Compact and efficient workflow and business process management platform.
 
 > **[Maestro ![GitHub Repo Stars](https://img.shields.io/github/stars/Netflix/maestro) ![GitHub last commit](https://img.shields.io/github/last-commit/Netflix/maestro)](https://github.com/Netflix/maestro)** <kbd>★ 3.8k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Workflow orchestration engine developed by Netflix.
 
