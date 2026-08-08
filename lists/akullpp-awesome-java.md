@@ -368,7 +368,7 @@ _Libraries that provide external configuration._
 
 > **[avaje config ![GitHub Repo Stars](https://img.shields.io/github/stars/avaje/avaje-config) ![GitHub last commit](https://img.shields.io/github/last-commit/avaje/avaje-config)](https://github.com/avaje/avaje-config)** <kbd>★ 108</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Loads yaml and properties files, supports dynamic configuration, plugins, file-watching and config event listeners.
 
-> **[centraldogma ![GitHub Repo Stars](https://img.shields.io/github/stars/line/centraldogma) ![GitHub last commit](https://img.shields.io/github/last-commit/line/centraldogma)](https://github.com/line/centraldogma)** <kbd>★ 665</kbd> <kbd>Apache-2.0</kbd> ����<br>Highly-available version-controlled service configuration repository based on Git, ZooKeeper and HTTP/2.
+> **[centraldogma ![GitHub Repo Stars](https://img.shields.io/github/stars/line/centraldogma) ![GitHub last commit](https://img.shields.io/github/last-commit/line/centraldogma)](https://github.com/line/centraldogma)** <kbd>★ 665</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Highly-available version-controlled service configuration repository based on Git, ZooKeeper and HTTP/2.
 
 > **[ClearConfig ![GitHub Repo Stars](https://img.shields.io/github/stars/japgolly/clear-config-java) ![GitHub last commit](https://img.shields.io/github/last-commit/japgolly/clear-config-java)](https://github.com/japgolly/clear-config-java)** <kbd>★ 9</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Type-safe, composable configuration library with a focus on runtime clarity.
 
