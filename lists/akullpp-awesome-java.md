@@ -1567,7 +1567,7 @@ _Frameworks that are suites of multiple libraries encompassing several categorie
 
 > **[Daemon ![GitHub Repo Stars](https://img.shields.io/github/stars/apache/commons-daemon) ![GitHub last commit](https://img.shields.io/github/last-commit/apache/commons-daemon)](https://github.com/apache/commons-daemon)** <kbd>★ 107</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Alternative invocation mechanism for unix-daemon-like java code.
 
-> **[DBCP ![GitHub Repo Stars](https://img.shields.io/github/stars/apache/commons-dbcp) ![GitHub last commit](https://img.shields.io/github/last-commit/apache/commons-dbcp)](https://github.com/apache/commons-dbcp)** <kbd>★ 368</kbd> <kbd>Apache-2.0</kbd> ��<br>Database connection pooling services.
+> **[DBCP ![GitHub Repo Stars](https://img.shields.io/github/stars/apache/commons-dbcp) ![GitHub last commit](https://img.shields.io/github/last-commit/apache/commons-dbcp)](https://github.com/apache/commons-dbcp)** <kbd>★ 368</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Database connection pooling services.
 
 > **[DbUtils ![GitHub Repo Stars](https://img.shields.io/github/stars/apache/commons-dbutils) ![GitHub last commit](https://img.shields.io/github/last-commit/apache/commons-dbutils)](https://github.com/apache/commons-dbutils)** <kbd>★ 392</kbd> <kbd>Apache-2.0</kbd> 🟢<br>JDBC helper library.
 
@@ -1786,7 +1786,7 @@ _Tools and runtimes for using Java or Java-like languages as scripts._
 
 > **[JPad](https://jpad.io)**<br>Snippet runner.
 
-> **[JQuick Java ![GitHub Repo Stars](https://img.shields.io/github/stars/paohaijiao/jquick-java) ![GitHub last commit](https://img.shields.io/github/last-commit/paohaijiao/jquick-java)](https://github.com/paohaijiao/jquick-java)** <kbd>★ 447</kbd> ��<br>Java-like scripting language for dynamic rule engines with XML orchestration and Java interoperability.
+> **[JQuick Java ![GitHub Repo Stars](https://img.shields.io/github/stars/paohaijiao/jquick-java) ![GitHub last commit](https://img.shields.io/github/last-commit/paohaijiao/jquick-java)](https://github.com/paohaijiao/jquick-java)** <kbd>★ 447</kbd> 🟢<br>Java-like scripting language for dynamic rule engines with XML orchestration and Java interoperability.
 
 </details>
 
