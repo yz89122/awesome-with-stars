@@ -54,7 +54,6 @@ A collection of ZSH frameworks, plugins, tutorials & themes inspired by the vari
   - [zap](#zap)
   - [zapack](#zapack)
   - [zcomet](#zcomet)
-  - [zdx](#zdx)
   - [zeesh](#zeesh)
   - [zef](#zef)
   - [zert](#zert)
@@ -84,6 +83,7 @@ A collection of ZSH frameworks, plugins, tutorials & themes inspired by the vari
   - [ztupide](#ztupide)
   - [zulu](#zulu)
   - [zush 🦥 - Mid-Performance ZSH Configuration](#zush----mid-performance-zsh-configuration)
+  - [Performance](#performance)
 - [Setups](#setups)
   - [oh-my-zsh](#oh-my-zsh-1)
   - [Raw ZSH](#raw-zsh)
@@ -141,11 +141,6 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 ## Frameworks
 
 These frameworks make customizing your ZSH setup easier.
-
-You can find performance timing comparisons of various frameworks in the following locations.
-
-- [rossmacarthur/zsh-plugin-manager-benchmark ![GitHub Repo Stars](https://img.shields.io/github/stars/rossmacarthur/zsh-plugin-manager-benchmark) ![GitHub last commit](https://img.shields.io/github/last-commit/rossmacarthur/zsh-plugin-manager-benchmark)](https://github.com/rossmacarthur/zsh-plugin-manager-benchmark) - Contains performance benchmarks for the most popular ZSH frameworks, including both install time and load time.
-- [pm-perf-test ![GitHub Repo Stars](https://img.shields.io/github/stars/z-shell/pm-perf-test) ![GitHub last commit](https://img.shields.io/github/last-commit/z-shell/pm-perf-test)](https://github.com/z-shell/pm-perf-test) - Tooling for running performance tests on multiple ZSH frameworks.
 
 ### [alf ![GitHub Repo Stars](https://img.shields.io/github/stars/psyrendust/alf) ![GitHub last commit](https://img.shields.io/github/last-commit/psyrendust/alf)](https://github.com/psyrendust/alf)
 ![GitHub last commit](https://img.shields.io/github/last-commit/psyrendust/alf) ![GitHub Repo stars](https://img.shields.io/github/stars/psyrendust/alf)
@@ -440,12 +435,6 @@ Features Provided by XC-Manager:
 
 **zcomet** is a minimalistic ZSH plugin manager that gets you to the prompt surprisingly quickly without caching (see the benchmarks). In addition to loading and updating plugins stored in `git` repositories, it supports lazy-loading plugins (further reducing startup time) as well as downloading and sourcing code snippets.
 
-### [zdx ![GitHub Repo Stars](https://img.shields.io/github/stars/landerox/zdx-suite) ![GitHub last commit](https://img.shields.io/github/last-commit/landerox/zdx-suite)](https://github.com/landerox/zdx-suite)
-![GitHub last commit](https://img.shields.io/github/last-commit/landerox/zdx-suite)
- ![GitHub Repo stars](https://img.shields.io/github/stars/landerox/zdx-suite)
-
-ZDX (ZSH Developer Experience Suite) is a streamlined, terminal-first productivity suite and custom plugin loader for ZSH. Stop memorizing complex flags and arguments. ZDX provides lightning-fast, fuzzy-search-driven access to your daily shell workflows. Powered by [fzf ![GitHub Repo Stars](https://img.shields.io/github/stars/junegunn/fzf) ![GitHub last commit](https://img.shields.io/github/last-commit/junegunn/fzf)](https://github.com/junegunn/fzf), these modular, interactive suites and custom plugins transform your terminal into a high-performance developer dashboard.
-
 ### [zeesh ![GitHub Repo Stars](https://img.shields.io/github/stars/zeekay/zeesh) ![GitHub last commit](https://img.shields.io/github/last-commit/zeekay/zeesh)](https://github.com/zeekay/zeesh)
 ![GitHub last commit](https://img.shields.io/github/last-commit/zeekay/zeesh)
  ![GitHub Repo stars](https://img.shields.io/github/stars/zeekay/zeesh)
@@ -717,6 +706,13 @@ Features:
 - Auto-compilation - All ZSH files compiled with `zcompile` for faster loading
 - Smart Caching - Environment changes cached for instant startup
 
+### Performance
+
+You can find performance timing comparisons for various frameworks in the following locations.
+
+- [rossmacarthur/zsh-plugin-manager-benchmark ![GitHub Repo Stars](https://img.shields.io/github/stars/rossmacarthur/zsh-plugin-manager-benchmark) ![GitHub last commit](https://img.shields.io/github/last-commit/rossmacarthur/zsh-plugin-manager-benchmark)](https://github.com/rossmacarthur/zsh-plugin-manager-benchmark) - Contains performance benchmarks for the most popular ZSH frameworks, including both install time and load time.
+- [pm-perf-test ![GitHub Repo Stars](https://img.shields.io/github/stars/z-shell/pm-perf-test) ![GitHub last commit](https://img.shields.io/github/last-commit/z-shell/pm-perf-test)](https://github.com/z-shell/pm-perf-test) - Tooling for running performance tests on multiple ZSH frameworks.
+
 ## Setups
 
 This section is for full setup dropins - they aren't frameworks, but they're not simple plugins/themes either.
@@ -857,6 +853,7 @@ If you're looking for a new font to use, check out [www.codingfont.com](https://
 - [activate-py-environment ![GitHub Repo Stars](https://img.shields.io/github/stars/se-jaeger/zsh-activate-py-environment) ![GitHub last commit](https://img.shields.io/github/last-commit/se-jaeger/zsh-activate-py-environment)](https://github.com/se-jaeger/zsh-activate-py-environment) - Automagically detects and activates your python environments (`poetry`, `virtualenv` and `conda`) while traversing directories.
 - [adguard-helper ![GitHub Repo Stars](https://img.shields.io/github/stars/MohamedElashri/adguard-helper) ![GitHub last commit](https://img.shields.io/github/last-commit/MohamedElashri/adguard-helper)](https://github.com/MohamedElashri/adguard-helper) - Simplies interaction with the [AdGuard VPN CLI ![GitHub Repo Stars](https://img.shields.io/github/stars/AdguardTeam/AdGuardVPNCLI) ![GitHub last commit](https://img.shields.io/github/last-commit/AdguardTeam/AdGuardVPNCLI)](https://github.com/AdguardTeam/AdGuardVPNCLI). It provides user-friendly commands that reduce the need to remember complex flags and commands by offering a more intuitive interface.
 - [adonisjs ![GitHub Repo Stars](https://img.shields.io/github/stars/baliestri/adonisjs.plugin.zsh) ![GitHub last commit](https://img.shields.io/github/last-commit/baliestri/adonisjs.plugin.zsh)](https://github.com/baliestri/adonisjs.plugin.zsh) - Plugin for skipping the `node` part of the `ace` command.
+- [agent-history ![GitHub Repo Stars](https://img.shields.io/github/stars/aaronbronow/agent-history) ![GitHub last commit](https://img.shields.io/github/last-commit/aaronbronow/agent-history)](https://github.com/aaronbronow/agent-history) - ZSH shortcut to resume recent AI coding sessions in the terminal.
 - [ai-cmd ![GitHub Repo Stars](https://img.shields.io/github/stars/kylesnowschwartz/zsh-ai-cmd) ![GitHub last commit](https://img.shields.io/github/last-commit/kylesnowschwartz/zsh-ai-cmd)](https://github.com/kylesnowschwartz/zsh-ai-cmd) - Natural language to shell commands with ghost text preview. Requires `curl`, [`jq`](https://stedolan.github.io/jq/) and an Anthropic API key.
 - [ai-cmd ![GitHub Repo Stars](https://img.shields.io/github/stars/shanemcd/ai-cmd) ![GitHub last commit](https://img.shields.io/github/last-commit/shanemcd/ai-cmd)](https://github.com/shanemcd/ai-cmd) - Generate shell commands from natural language using LLMs via [Claude Code](https://docs.anthropic.com/en/docs/claude-code) or [Ollama](https://ollama.ai/).
 - [ai-commands ![GitHub Repo Stars](https://img.shields.io/github/stars/muePatrick/zsh-ai-commands) ![GitHub last commit](https://img.shields.io/github/last-commit/muePatrick/zsh-ai-commands)](https://github.com/muePatrick/zsh-ai-commands) - Asks GPT (gpt-4-turbo-preview) for CLI commands that achieve the described target action.
@@ -2225,6 +2222,7 @@ These plugins add tab completions without adding extra functions or aliases.
 - [acenoster ![GitHub Repo Stars](https://img.shields.io/github/stars/himdek/Acenoster-ZSH-Theme) ![GitHub last commit](https://img.shields.io/github/last-commit/himdek/Acenoster-ZSH-Theme)](https://github.com/himdek/Acenoster-ZSH-Theme) - A multi-purpose theme with very detailed `git` and `mercurial` support. Also includes decorators for AWS profile name, virtual environment name if any, number of background tasks, current directory and previous command's exit code if non-zero.
 - [achab ![GitHub Repo Stars](https://img.shields.io/github/stars/niotna/antoinechab-theme) ![GitHub last commit](https://img.shields.io/github/last-commit/niotna/antoinechab-theme)](https://github.com/niotna/antoinechab-theme) - Includes decorators for the current folder path, the current user and the current `git` branch. Decorator colors are easily customizable.
 - [adamdodev ![GitHub Repo Stars](https://img.shields.io/github/stars/adamdodev/adamdodev-zsh-theme) ![GitHub last commit](https://img.shields.io/github/last-commit/adamdodev/adamdodev-zsh-theme)](https://github.com/adamdodev/adamdodev-zsh-theme) - Includes decorators for `git` status, the name of your AWS profile, the name of your Azure Service Principal, kubernetes context, terraform workspace, last command exit status and current working directory.
+- [adhde ![GitHub Repo Stars](https://img.shields.io/github/stars/Senderman/adhde-zsh-theme) ![GitHub last commit](https://img.shields.io/github/last-commit/Senderman/adhde-zsh-theme)](https://github.com/Senderman/adhde-zsh-theme) - Includes decorators for user@host, current directory, `git` status, last command status and datetime.
 - [adlee ![GitHub Repo Stars](https://img.shields.io/github/stars/adlee-was-taken/oh-my-zsh-osx) ![GitHub last commit](https://img.shields.io/github/last-commit/adlee-was-taken/oh-my-zsh-osx)](https://github.com/adlee-was-taken/oh-my-zsh-osx/blob/master/adlee.zsh-theme) - macOS theme, requires a Powerline-compatible font.
 - [adoz](daviosoo/adoz-zsh-theme) - A minimalistic theme with a focus on purple and blue color tones. Adoz provides a clean, modern prompt that displays essential information while maintaining a sleek aesthetic. Highly customizable by setting environment variables. Includes decorators for user@hostname, current directory, timestamp and `git` status.
 - [af-magic-dynamic ![GitHub Repo Stars](https://img.shields.io/github/stars/rslavin/af-magic-dynamic) ![GitHub last commit](https://img.shields.io/github/last-commit/rslavin/af-magic-dynamic)](https://github.com/rslavin/af-magic-dynamic) - Modified version of [af-magic ![GitHub Repo Stars](https://img.shields.io/github/stars/andyfleming/oh-my-zsh) ![GitHub last commit](https://img.shields.io/github/last-commit/andyfleming/oh-my-zsh)](https://github.com/andyfleming/oh-my-zsh/blob/master/themes/af-magic.zsh-theme) with dynamic path shortening.
@@ -2739,6 +2737,7 @@ These plugins add tab completions without adding extra functions or aliases.
 - [linuxero ![GitHub Repo Stars](https://img.shields.io/github/stars/andreshincapier/linuxero) ![GitHub last commit](https://img.shields.io/github/last-commit/andreshincapier/linuxero)](https://github.com/andreshincapier/linuxero) - Minimalist. Includes decorations for root status, current directory, `git` status, current ruby rvm environment and current python virtualenv.
 - [liquidprompt ![GitHub Repo Stars](https://img.shields.io/github/stars/nojhan/liquidprompt) ![GitHub last commit](https://img.shields.io/github/last-commit/nojhan/liquidprompt)](https://github.com/nojhan/liquidprompt) - A full-featured & carefully designed adaptive prompt with useful information when you need it. It shows you what you need when you need it. You will notice what changes when it changes, saving time and frustration.
 - [lish ![GitHub Repo Stars](https://img.shields.io/github/stars/bashelled/lish) ![GitHub last commit](https://img.shields.io/github/last-commit/bashelled/lish)](https://github.com/bashelled/lish) - A casual theme. No roughness, just smooth. Includes `git`, user@host, last command exit status, current directory, current time and root status decorators.
+- [litmus ![GitHub Repo Stars](https://img.shields.io/github/stars/dceoy/litmus-zsh-theme) ![GitHub last commit](https://img.shields.io/github/last-commit/dceoy/litmus-zsh-theme)](https://github.com/dceoy/litmus-zsh-theme) - Connection-aware colors: prompt turns cyan on local sessions and magenta over SSH, so you always know where you are, includes decorators for datetime, `git` status, root status indicator, exit status of last command and user@host.
 - [liver ![GitHub Repo Stars](https://img.shields.io/github/stars/RenoirTan/liver.zsh-theme) ![GitHub last commit](https://img.shields.io/github/last-commit/RenoirTan/liver.zsh-theme)](https://github.com/RenoirTan/liver.zsh-theme) - Colorful, includes `git` status, user, host, current and relative path to the current repository root decorations.
 - [llama ![GitHub Repo Stars](https://img.shields.io/github/stars/PsychoLlama/llama.zsh-theme) ![GitHub last commit](https://img.shields.io/github/last-commit/PsychoLlama/llama.zsh-theme)](https://github.com/PsychoLlama/llama.zsh-theme) - Minimalist theme used by discerning llamas.
 - [logico ![GitHub Repo Stars](https://img.shields.io/github/stars/logico/logico-zsh-theme) ![GitHub last commit](https://img.shields.io/github/last-commit/logico/logico-zsh-theme)](https://github.com/logico/logico-zsh-theme) - Has `git` decorations. Shows remote status and indicator for vi-mode.
@@ -3352,7 +3351,7 @@ Most of these plugins can be installed by adding `zpm load "githubuser/reponame"
 
 ## Writing New Plugins and Themes
 
-I've documented some recommendations for writing new plugin and themes [here ![GitHub Repo Stars](https://img.shields.io/github/stars/unixorn/awesome-zsh-plugins) ![GitHub last commit](https://img.shields.io/github/last-commit/unixorn/awesome-zsh-plugins)](https://github.com/unixorn/awesome-zsh-plugins/blob/master/Writing_Plugins_and_Themes.md).
+I've documented some recommendations for writing new plugin and themes [here ![GitHub Repo Stars](https://img.shields.io/github/stars/unixorn/awesome-zsh-plugins) ![GitHub last commit](https://img.shields.io/github/last-commit/unixorn/awesome-zsh-plugins)](https://github.com/unixorn/awesome-zsh-plugins/blob/main/Writing_Plugins_and_Themes.md).
 
 There is also a more detailed [Zsh Plugin Standard](https://zdharma-continuum.github.io/Zsh-100-Commits-Club/Zsh-Plugin-Standard.html).
 
