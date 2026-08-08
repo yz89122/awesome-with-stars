@@ -266,7 +266,7 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 | <a href="https://www.testdome.com/tests/customer-service-test/91" target="_blank" rel="noopener noreferrer">Customer Service Test</a>| Test Dome | Intermediate | 0.15 | 🏆  |
 | <a href="https://www.life-global.org/course/390-customer-experience-(cx)-for-business-success" target="_blank" rel="noopener noreferrer">Customer Experience (CX) for Business Success</a>| HP / Life Global | Beginner | 0.5 | 🏆 |
 
-<a href="https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents" target="_blank" rel="noopener noreferrer">⬆️</a>
+<a href="https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents" target="_blank" rel="noopener noreferrer">���️</a>
 
 ## Chatbots
 
