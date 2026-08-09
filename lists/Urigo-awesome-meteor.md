@@ -131,7 +131,7 @@ _Tools for speeding up your Meteor apps_
 
 _Tools for deploying and maintaining Meteor apps_
 
-- [meteor-up ![GitHub Repo Stars](https://img.shields.io/github/stars/zodern/meteor-up) ![GitHub last commit](https://img.shields.io/github/last-commit/zodern/meteor-up)](https://github.com/zodern/meteor-up) �� Meteor Deployments.
+- [meteor-up ![GitHub Repo Stars](https://img.shields.io/github/stars/zodern/meteor-up) ![GitHub last commit](https://img.shields.io/github/last-commit/zodern/meteor-up)](https://github.com/zodern/meteor-up) – Meteor Deployments.
 - [meteor-google-cloud ![GitHub Repo Stars](https://img.shields.io/github/stars/EducationLink/meteor-google-cloud) ![GitHub last commit](https://img.shields.io/github/last-commit/EducationLink/meteor-google-cloud)](https://github.com/EducationLink/meteor-google-cloud) - Automate Meteor deployments on Google Cloud App Engine Flexible
 - [mup-aws-beanstalk ![GitHub Repo Stars](https://img.shields.io/github/stars/zodern/mup-aws-beanstalk) ![GitHub last commit](https://img.shields.io/github/last-commit/zodern/mup-aws-beanstalk)](https://github.com/zodern/mup-aws-beanstalk) - Deploy Meteor apps to AWS Elastic Beanstalk using Meteor Up
 - [meteor-azure ![GitHub Repo Stars](https://img.shields.io/github/stars/fractal-code/meteor-azure) ![GitHub last commit](https://img.shields.io/github/last-commit/fractal-code/meteor-azure)](https://github.com/fractal-code/meteor-azure) - Automate Meteor deployments on Azure App Service
