@@ -157,7 +157,7 @@ More huge lists of resources, with many, many more incredible things! Some of th
 [Game Programming Patterns](https://gameprogrammingpatterns.com/) 🟪 - A free book on programming patterns for games.
 
 
-[A Study Path for Game Programmers ![GitHub Repo Stars](https://img.shields.io/github/stars/miloyip/game-programmer) ![GitHub last commit](https://img.shields.io/github/last-commit/miloyip/game-programmer)](https://github.com/miloyip/game-programmer) �� - A huge collection of game programming book titles and covers organized by specialization, with fancy flow charts between each title for a recommended reading order! Note that the books are _not_ included - a quick search should help you out with that ;]
+[A Study Path for Game Programmers ![GitHub Repo Stars](https://img.shields.io/github/stars/miloyip/game-programmer) ![GitHub last commit](https://img.shields.io/github/last-commit/miloyip/game-programmer)](https://github.com/miloyip/game-programmer) 🟪 - A huge collection of game programming book titles and covers organized by specialization, with fancy flow charts between each title for a recommended reading order! Note that the books are _not_ included - a quick search should help you out with that ;]
 
 
 [How to Learn Software Design and Architecture](https://www.freecodecamp.org/news/software-design/) 🟪 - A list of resources for software architecture.
@@ -472,7 +472,7 @@ Part 1](https://0fps.net/2014/02/10/replication-in-networked-games-overview-part
 [Art Industry Resources](https://www.notion.so/Art-Industry-Resources-86e6733162f24c26829aa65961f461e3) 💠🟪 - A Megalist of Art Resources!
 
 
-[Saint11: Tutorials](https://saint11.art/blog/pixel-art-tutorials/) 💠🟪 | [Articles](https://saint11.art/pixel_articles/) | [Patreon](https://www.patreon.com/saint11) - Fantastic pixel art animation tutorials and articles on pixel art. Note that most patreon posts are free.
+[Saint11: Tutorials](https://saint11.art/blog/pixel-art-tutorials/) ����🟪 | [Articles](https://saint11.art/pixel_articles/) | [Patreon](https://www.patreon.com/saint11) - Fantastic pixel art animation tutorials and articles on pixel art. Note that most patreon posts are free.
 
 
 [Pixel Art Class](https://www.youtube.com/watch?v=7BWr2tlK-4c&list=PLLdxW--S_0h4dlWUpl-TzBp-ulqK3NiM_) - A tutorial series covering the basics of art aimed at pixel artists.
