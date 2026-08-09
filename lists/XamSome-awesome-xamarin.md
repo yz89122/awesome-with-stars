@@ -266,7 +266,7 @@ This repo is now **ARCHIVED**, please refer to [awesome-dotnet-maui ![GitHub Rep
 
 ## Wearable
 
-- [WormHoleSharp ��25 ![GitHub Repo Stars](https://img.shields.io/github/stars/Clancey/WormHoleSharp) ![GitHub last commit](https://img.shields.io/github/last-commit/Clancey/WormHoleSharp)](https://github.com/Clancey/WormHoleSharp) - Communication between Watch and iDevice.
+- [WormHoleSharp ★25 ![GitHub Repo Stars](https://img.shields.io/github/stars/Clancey/WormHoleSharp) ![GitHub last commit](https://img.shields.io/github/last-commit/Clancey/WormHoleSharp)](https://github.com/Clancey/WormHoleSharp) - Communication between Watch and iDevice.
 
 
 ## Xamarin.Forms
@@ -289,7 +289,7 @@ This repo is now **ARCHIVED**, please refer to [awesome-dotnet-maui ![GitHub Rep
 - [SharedTransitions ★223 ![GitHub Repo Stars](https://img.shields.io/github/stars/GiampaoloGabba/Xamarin.Plugin.SharedTransitions) ![GitHub last commit](https://img.shields.io/github/last-commit/GiampaoloGabba/Xamarin.Plugin.SharedTransitions)](https://github.com/GiampaoloGabba/Xamarin.Plugin.SharedTransitions) - Shared element transitions between pages in Xamarin.Forms (IOS/Android).
 - [Sharpnado.Presentation.Forms ★28 ![GitHub Repo Stars](https://img.shields.io/github/stars/roubachof/Sharpnado.Presentation.Forms) ![GitHub last commit](https://img.shields.io/github/last-commit/roubachof/Sharpnado.Presentation.Forms)](https://github.com/roubachof/Sharpnado.Presentation.Forms) - HorizontalListView, TaskViewLoader, and Paginator.
 - [SolTech Xamarin Forms Toolkit ★31 ![GitHub Repo Stars](https://img.shields.io/github/stars/soltechinc/soltechxf) ![GitHub last commit](https://img.shields.io/github/last-commit/soltechinc/soltechxf)](https://github.com/soltechinc/soltechxf) - Set of helpful extensions to the Xamarin Forms framework.
-- [Store Rating Plugin ★7 ![GitHub Repo Stars](https://img.shields.io/github/stars/voxdev/Xamarin.Plugins) ![GitHub last commit](https://img.shields.io/github/last-commit/voxdev/Xamarin.Plugins)](https://github.com/voxdev/Xamarin.Plugins) - Rate app popup.
+- [Store Rating Plugin ���7 ![GitHub Repo Stars](https://img.shields.io/github/stars/voxdev/Xamarin.Plugins) ![GitHub last commit](https://img.shields.io/github/last-commit/voxdev/Xamarin.Plugins)](https://github.com/voxdev/Xamarin.Plugins) - Rate app popup.
 - [SVG ★1 ![GitHub Repo Stars](https://img.shields.io/github/stars/paulpatarinski/Xamarin.Forms.Plugins) ![GitHub last commit](https://img.shields.io/github/last-commit/paulpatarinski/Xamarin.Forms.Plugins)](https://github.com/paulpatarinski/Xamarin.Forms.Plugins/tree/master/SVG) - SVG file format support.
 - [Swipecards ★80 ![GitHub Repo Stars](https://img.shields.io/github/stars/robinmanuelthiel/swipecards) ![GitHub last commit](https://img.shields.io/github/last-commit/robinmanuelthiel/swipecards)](https://github.com/robinmanuelthiel/swipecards) - A Tinder-like swipe control for Xamarin.Forms.
 - [Toasts Plugin ★208 ![GitHub Repo Stars](https://img.shields.io/github/stars/EgorBo/Toasts.Forms.Plugin) ![GitHub last commit](https://img.shields.io/github/last-commit/EgorBo/Toasts.Forms.Plugin)](https://github.com/EgorBo/Toasts.Forms.Plugin) - A simple way of showing some notifications inside your Xamarin.Forms application.
