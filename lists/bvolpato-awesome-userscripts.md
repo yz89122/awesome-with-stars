@@ -578,7 +578,7 @@ Userscripts can be used w/ the following browsers:
             <img width=511 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts/assets/images/screenshots/scripts/simple-sponsor-skipper.png?v=96092ef"></a>
     </blockquote>
     <blockquote>
-        ��� <a href="https://codeberg.org/mthsk/userscripts/raw/branch/master/simple-sponsor-skipper/simple-sponsor-skipper.user.js">
+        💾 <a href="https://codeberg.org/mthsk/userscripts/raw/branch/master/simple-sponsor-skipper/simple-sponsor-skipper.user.js">
             Install</a> /
         📖 <a href="https://greasyfork.org/scripts/453320-simple-sponsor-skipper">
             Readme</a> /
