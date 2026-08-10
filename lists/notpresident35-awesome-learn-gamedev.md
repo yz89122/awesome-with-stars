@@ -801,7 +801,7 @@ Royalty free music! Don't forget to check the license.
 [How to Become a Video Game Producer](https://www.gameindustrycareerguide.com/how-to-become-a-video-game-associate-producer/) - An interview with Merric Shank, a senior producer, on the role, with  hiring advice for entry-level producers.
 
 
-[Awesome Game Production ![GitHub Repo Stars](https://img.shields.io/github/stars/vhladiienko/awesome-game-production) ![GitHub last commit](https://img.shields.io/github/last-commit/vhladiienko/awesome-game-production)](https://github.com/vhladiienko/awesome-game-production) ��� - An Awesome list, focused on project and product management in game development.
+[Awesome Game Production ![GitHub Repo Stars](https://img.shields.io/github/stars/vhladiienko/awesome-game-production) ![GitHub last commit](https://img.shields.io/github/last-commit/vhladiienko/awesome-game-production)](https://github.com/vhladiienko/awesome-game-production) 🟪 - An Awesome list, focused on project and product management in game development.
 
 
 <br />
