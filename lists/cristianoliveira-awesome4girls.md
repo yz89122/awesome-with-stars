@@ -292,7 +292,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
   - [Minas Program](http://minasprogramam.com/) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="Brazil" width="30">
 
-    The Minas Program offers a two-week introductory programming course in Avenida Paulista, S��o Paulo each summer. It includes 51 hours of training in 13 days, and is free. This course is open to all but specifically geared toward women who with less access to technical training.
+    The Minas Program offers a two-week introductory programming course in Avenida Paulista, São Paulo each summer. It includes 51 hours of training in 13 days, and is free. This course is open to all but specifically geared toward women who with less access to technical training.
 
   - [Tech Girlz](http://www.techgirlz.org/)
 
