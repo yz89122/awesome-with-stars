@@ -241,7 +241,7 @@ Browse and search the resources via the [GitHub Pages UI](https://inoue0426.gith
 - [NCI60](https://dtp.cancer.gov/discovery_development/nci-60/) — Drug sensitivity benchmark across 60 diverse human cancer cell lines.
 - [OGB (Open Graph Benchmark)](https://ogb.stanford.edu/) — Large-scale graph ML benchmark suite including biological datasets such as ogbl-ppa (protein-protein associations) and ogbg-molhiv.
 - [OpenBioLink ![GitHub Repo Stars](https://img.shields.io/github/stars/OpenBioLink/OpenBioLink) ![GitHub last commit](https://img.shields.io/github/last-commit/OpenBioLink/OpenBioLink)](https://github.com/OpenBioLink/OpenBioLink) — Benchmark datasets for biological knowledge graph completion.
-- [PharmGKB](https://www.pharmgkb.org/) — Curated pharmacogenomics dataset linking genetic variants to drug response phenotypes across thousands of drugs.
+- [PharmGKB](https://www.pharmgkb.org/) ��� Curated pharmacogenomics dataset linking genetic variants to drug response phenotypes across thousands of drugs.
 - [PK-DB](https://pk-db.com/) — Open database of experimental pharmacokinetics (PK) and ADME data from clinical and preclinical studies.
 - [PRISM](https://depmap.org/portal/prism/) — Cancer drug sensitivity profiling of >4,500 drugs across >900 cancer cell lines using pooled-cell-line barcoding.
 - [ProteinGym ![GitHub Repo Stars](https://img.shields.io/github/stars/OATML-Markslab/ProteinGym) ![GitHub last commit](https://img.shields.io/github/last-commit/OATML-Markslab/ProteinGym)](https://github.com/OATML-Markslab/ProteinGym) — Large-scale benchmark of deep mutational scanning assays for evaluating protein fitness landscape models.
