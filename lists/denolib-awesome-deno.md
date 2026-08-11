@@ -342,7 +342,7 @@ This list is a collection of the best Deno modules and resources.
 - [让我们一起来学习别人学不动的 Deno](https://segmentfault.com/a/1190000015151287)
 - [Design Mistakes in Node zh-CN](https://zhuanlan.zhihu.com/p/37637923)
 - [Node之父ry：Node中的设计错误](https://mp.weixin.qq.com/s/7XAiYw18c8YZc-fXk0-wrw)
-- [Node之父 - Deno，一个新的JS��行时](https://www.bilibili.com/video/av52038617)
+- [Node之父 - Deno，一个新的JS运行时](https://www.bilibili.com/video/av52038617)
 
 ### Hebrew
 
