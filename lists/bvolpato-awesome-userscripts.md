@@ -566,7 +566,7 @@ Userscripts can be used w/ the following browsers:
             Readme</a> /
         📢 <a href="https://github.com/adamlui/chatgpt-widescreen/discussions">
             Discuss</a> /
-        �� <a href="https://github.com/adamlui/chatgpt-widescreen/issues">
+        🐛 <a href="https://github.com/adamlui/chatgpt-widescreen/issues">
             Report bug</a>
     </blockquote>
 </details>
