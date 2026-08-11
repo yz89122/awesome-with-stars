@@ -627,7 +627,7 @@ Best tools to automate fraud detection.
 
 - [Integer percentages as electoral falsification fingerprints](https://arxiv.org/pdf/1410.6059.pdf) - In the same spirit as above, this paper show that frequency of reported round numbers in election is a signal of man-made anomalies. Might be applicable in some fraud-fighting area.
 
-- [Huber loss](https://en.wikipedia.org/wiki/Huber_loss) - “A loss function used in robust regression, that is less sensitive to outliers in data than the squared error loss.”
+- [Huber loss](https://en.wikipedia.org/wiki/Huber_loss) - “A loss function used in robust regression, that is less sensitive to outliers in data than the squared error loss.��
 
 - [Peak Detection in the Python World](https://blog.ytotech.com/2015/11/01/findpeaks-in-python/) - Simple way to detect outliers.
 
