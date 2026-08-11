@@ -472,7 +472,7 @@ Part 1](https://0fps.net/2014/02/10/replication-in-networked-games-overview-part
 [Art Industry Resources](https://www.notion.so/Art-Industry-Resources-86e6733162f24c26829aa65961f461e3) 💠🟪 - A Megalist of Art Resources!
 
 
-[Saint11: Tutorials](https://saint11.art/blog/pixel-art-tutorials/) ���🟪 | [Articles](https://saint11.art/pixel_articles/) | [Patreon](https://www.patreon.com/saint11) - Fantastic pixel art animation tutorials and articles on pixel art. Note that most patreon posts are free.
+[Saint11: Tutorials](https://saint11.art/blog/pixel-art-tutorials/) 💠🟪 | [Articles](https://saint11.art/pixel_articles/) | [Patreon](https://www.patreon.com/saint11) - Fantastic pixel art animation tutorials and articles on pixel art. Note that most patreon posts are free.
 
 
 [Pixel Art Class](https://www.youtube.com/watch?v=7BWr2tlK-4c&list=PLLdxW--S_0h4dlWUpl-TzBp-ulqK3NiM_) - A tutorial series covering the basics of art aimed at pixel artists.
@@ -811,7 +811,7 @@ Royalty free music! Don't forget to check the license.
 <br />
 
 
-[Leveling the Playing Field](https://ltpf.ramiismail.com) 💠🟪 - A blog/newsletter by Rami Ismail with advice on business, marketing, skill development, and various topics needed to run an indie studio. Past newsletters are archived here. I personally recommend "Budget Viability" as a starting point.
+[Leveling the Playing Field](https://ltpf.ramiismail.com) 💠�� - A blog/newsletter by Rami Ismail with advice on business, marketing, skill development, and various topics needed to run an indie studio. Past newsletters are archived here. I personally recommend "Budget Viability" as a starting point.
 
 
 [How to Market a Game](https://howtomarketagame.com) 💠🟪 - A blog and a collection of resources by Chris Zukowski with advice on marketing and sales. I personally recommend his GDC talks "Empathizing with Steam: How People Shop for Your Game" and "What to Write So People Buy: Selling Your Game Without Feeling Sleazy" as starting points.
