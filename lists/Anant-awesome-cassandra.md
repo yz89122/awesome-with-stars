@@ -359,7 +359,7 @@ This is a curated list of awesome [Cassandra ![GitHub Repo Stars](https://img.sh
 - [JanusGraph/janusgraph ![GitHub Repo Stars](https://img.shields.io/github/stars/JanusGraph/janusgraph) ![GitHub last commit](https://img.shields.io/github/last-commit/JanusGraph/janusgraph)](https://github.com/JanusGraph/janusgraph) - JanusGraph: an open-source, distributed graph database, successor to TitanDB.
 - [Large Scale Graph Analytics with JanusGraph](https://www.slideshare.net/Hadoop_Summit/large-scale-graph-analytics-with-janusgraph-77153443) - Slides detailing deployment options and technical aspects of JanusGraph.
 - [Hugegraph/Hugegraph ![GitHub Repo Stars](https://img.shields.io/github/stars/hugegraph/hugegraph) ![GitHub last commit](https://img.shields.io/github/last-commit/hugegraph/hugegraph)](https://github.com/hugegraph/hugegraph) - HugeGraph Database core component, including graph engine, API, and built-in backends.
-- [Architecture Overview · GitBook](https://hugegraph.github.io/hugegraph-doc/guides/architectural.html) - Documentation for HugeGraph.
+- [Architecture Overview �� GitBook](https://hugegraph.github.io/hugegraph-doc/guides/architectural.html) - Documentation for HugeGraph.
 
 ### Miscellaneous
 
