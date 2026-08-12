@@ -50,7 +50,6 @@ This list is a collection of the best Deno modules and resources.
   - [Indonesian](#indonesian)
   - [Italian](#italian)
   - [Japanese](#japanese)
-  - [Korean](#korean)
   - [Russian](#russian)
   - [Spanish](#spanish)
   - [Darija (Arabe marocain)](#darija)
@@ -86,7 +85,6 @@ This list is a collection of the best Deno modules and resources.
 
 ### Cloud APIs
 - [aws-api](https://aws-api.deno.dev/) - From-scratch Typescript AWS API client built for Deno.
-- [googleapis](https://googleapis.deno.dev/) - Auto-generated Google API clients for Deno.
 
 ### Database
 - [@iuioiua/redis](https://jsr.io/@iuioiua/redis) - Fast, lightweight Redis client built upon the Web Streams API.
@@ -219,7 +217,6 @@ This list is a collection of the best Deno modules and resources.
 - [graphql-tag ![GitHub Repo Stars](https://img.shields.io/github/stars/deno-libs/graphql_tag) ![GitHub last commit](https://img.shields.io/github/last-commit/deno-libs/graphql_tag)](https://github.com/deno-libs/graphql_tag) - GraphQL schema AST from template literal.
 - [nats ![GitHub Repo Stars](https://img.shields.io/github/stars/nats-io/nats.deno) ![GitHub last commit](https://img.shields.io/github/last-commit/nats-io/nats.deno)](https://github.com/nats-io/nats.deno) - A Deno client for the [NATS messaging system](https://nats.io/).
 - [obsidian ![GitHub Repo Stars](https://img.shields.io/github/stars/open-source-labs/obsidian) ![GitHub last commit](https://img.shields.io/github/last-commit/open-source-labs/obsidian)](https://github.com/open-source-labs/obsidian) - A native GraphQL caching client and server module.
-- [react-icons](https://react-icons.deno.dev/) - React Icons converted to preact for deno fresh.
 - [router ![GitHub Repo Stars](https://img.shields.io/github/stars/zhmushan/router) ![GitHub last commit](https://img.shields.io/github/last-commit/zhmushan/router)](https://github.com/zhmushan/router) - A high-performance basic router works anywhere.
 - [rpc ![GitHub Repo Stars](https://img.shields.io/github/stars/deno-libs/rpc) ![GitHub last commit](https://img.shields.io/github/last-commit/deno-libs/rpc)](https://github.com/deno-libs/rpc) - JSONRPC server implementation for Deno.
 - [ts-prometheus ![GitHub Repo Stars](https://img.shields.io/github/stars/marcopacini/ts_prometheus) ![GitHub last commit](https://img.shields.io/github/last-commit/marcopacini/ts_prometheus)](https://github.com/marcopacini/ts_prometheus) - A prometheus client.
@@ -232,13 +229,12 @@ This list is a collection of the best Deno modules and resources.
 
 ## Registries
 
-- [crux.land](https://crux.land/) - A free registry service meant for hosting small ( < 10kB) single deno scripts.
-- [Deno PKG](https://denopkg.com/) - An easier way to use code from GitHub in your Deno project.
 - [deno.land/x/](https://deno.land/x/) - The official 3rd party module registry.
 - [nest.land](https://nest.land) - An immutable, blockchain powered Deno package registry. 🥚
 
 ## Showcases
 
+- [Chobble Tickets ![GitHub Repo Stars](https://img.shields.io/github/stars/chobbledotcom/tickets) ![GitHub last commit](https://img.shields.io/github/last-commit/chobbledotcom/tickets)](https://github.com/chobbledotcom/tickets) - Open source ticket sales system with encrypted attendee data and Stripe, Square, or SumUp payments.
 - [Deno Rest ![GitHub Repo Stars](https://img.shields.io/github/stars/Prolifode/deno_rest) ![GitHub last commit](https://img.shields.io/github/last-commit/Prolifode/deno_rest)](https://github.com/Prolifode/deno_rest) - A Boilerplate for deno RESTful apis.
 - [Edrys ![GitHub Repo Stars](https://img.shields.io/github/stars/edrys-org/edrys) ![GitHub last commit](https://img.shields.io/github/last-commit/edrys-org/edrys)](https://github.com/edrys-org/edrys) - Remote Teaching Software
 - [GitHub Profile Trophy ![GitHub Repo Stars](https://img.shields.io/github/stars/ryo-ma/github-profile-trophy) ![GitHub last commit](https://img.shields.io/github/last-commit/ryo-ma/github-profile-trophy)](https://github.com/ryo-ma/github-profile-trophy) - 🏆 Add dynamically generated GitHub Trophy on your readme
@@ -283,7 +279,6 @@ This list is a collection of the best Deno modules and resources.
 - [Astro](https://docs.astro.build/en/guides/deploy/deno/) - Deploy a server-side rendered Astro site to Deno Deploy.
 
 ## Blogs/Newsletters
-- [Craig's Deno Diary](https://deno-blog.com) - A blog focussing on Deno tech & lib howtos.
 - [Deno Blog](https://deno.com/blog) - The official blog of the Deno Company.
 - [Deno News](https://deno.news) - A newsletter of Deno articles, news and cool projects.
 
@@ -360,15 +355,10 @@ This list is a collection of the best Deno modules and resources.
 
 ### Japanese
 
-- [deno-ja](https://deno-ja.deno.dev/) - Deno Japanese User Group.
 - [Node.js における設計ミス By Ryan Dahl](https://yosuke-furukawa.hatenablog.com/entry/2018/06/07/080335)
 - [mizchi/deno_code_reading.md](https://gist.github.com/mizchi/31e5628751330b624a0e8ada9e739b1e)
 - [Design Mistakes in Node & Deno #kng5 / deno](https://speakerdeck.com/masashi/deno)
 - [Dive into Deno：プロセス起動からTypeScriptが実行されるまで](https://blog.leko.jp/post/code-reading-of-deno-boot-process/)
-
-### Korean
-
-- [Deno Korea](https://deno.kr/) - Deno Korean User Group.
 
 ### Russian
 
