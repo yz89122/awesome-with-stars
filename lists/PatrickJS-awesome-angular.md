@@ -1793,6 +1793,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-compactable-row ![GitHub Repo Stars](https://img.shields.io/github/stars/MikeVensel/ngx-compactable-row) ![GitHub last commit](https://img.shields.io/github/last-commit/MikeVensel/ngx-compactable-row)](https://github.com/MikeVensel/ngx-compactable-row) - Provides a responsive button row that moves excess buttons into a menu when space is limited.
 * [ng-cmdk ![GitHub Repo Stars](https://img.shields.io/github/stars/wadie/ng-cmdk) ![GitHub last commit](https://img.shields.io/github/last-commit/wadie/ng-cmdk)](https://github.com/wadie/ng-cmdk) - Fast, composable, unstyled command menu for Angular — a port of [cmdk ![GitHub Repo Stars](https://img.shields.io/github/stars/pacocoursey/cmdk) ![GitHub last commit](https://img.shields.io/github/last-commit/pacocoursey/cmdk)](https://github.com/pacocoursey/cmdk).
 * [ngx-dock-layout ![GitHub Repo Stars](https://img.shields.io/github/stars/mickael-pezzoni/ngx-dock-layout) ![GitHub last commit](https://img.shields.io/github/last-commit/mickael-pezzoni/ngx-dock-layout)](https://github.com/mickael-pezzoni/ngx-dock-layout) - An Angular library for creating IDE-style, resizable panel layouts.
+* [layn ![GitHub Repo Stars](https://img.shields.io/github/stars/laynjs/layn) ![GitHub last commit](https://img.shields.io/github/last-commit/laynjs/layn)](https://github.com/laynjs/layn) - A framework-agnostic layout engine featuring virtualized, SSR-deterministic masonry and justified packing layouts.
 
 ### Loaders
 
@@ -2433,6 +2434,7 @@ for the creation of web applications developed with Angular.
 * [ngx-unity ![GitHub Repo Stars](https://img.shields.io/github/stars/jjmhalew/ngx-unity) ![GitHub last commit](https://img.shields.io/github/last-commit/jjmhalew/ngx-unity)](https://github.com/jjmhalew/ngx-unity) - A type-safe bridge for bidirectional communication between Unity WebGL/WebGPU and Angular.
 * [ngx-wp-shortcode](https://codeberg.org/tomaszatoo/ngx-wp-shortcode.git) - A library that lets Angular applications render WordPress shortcodes as native Angular components.
 * [ngx-iobroker ![GitHub Repo Stars](https://img.shields.io/github/stars/pottio/ngx-iobroker) ![GitHub last commit](https://img.shields.io/github/last-commit/pottio/ngx-iobroker)](https://github.com/pottio/ngx-iobroker) - This library offers the possibility to integrate a [ioBroker](https://www.iobroker.net/) server quickly and easily into an Angular application.
+* [AngularDart ![GitHub Repo Stars](https://img.shields.io/github/stars/flutterdocteur/angulardart) ![GitHub last commit](https://img.shields.io/github/last-commit/flutterdocteur/angulardart)](https://github.com/flutterdocteur/angulardart) - A web framework that separates cleanly into a template language and a component model, making it easy to build complex, maintainable web applications.
 
 ### Wrappers
 
