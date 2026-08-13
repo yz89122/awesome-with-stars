@@ -236,6 +236,7 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 
 ## AI
 
+- [nwiizo/signalbox.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/nwiizo/signalbox.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/nwiizo/signalbox.nvim)](https://github.com/nwiizo/signalbox.nvim) - Attention-first control surface for monitoring and routing persistent Herdr coding agents.
 - [cursortab/cursortab.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/cursortab/cursortab.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/cursortab/cursortab.nvim)](https://github.com/cursortab/cursortab.nvim) - Edit completions and cursor predictions with multiple AI providers.
 - [teocns/neocursor.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/teocns/neocursor.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/teocns/neocursor.nvim)](https://github.com/teocns/neocursor.nvim) - Next-edit predictions, cursor jumps, and ghost text, all driven by an existing Cursor session instead of an API key.
 - [ctchen222/openspec.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/ctchen222/openspec.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/ctchen222/openspec.nvim)](https://github.com/ctchen222/openspec.nvim) - OpenSpec workflow context, model/provider selection, and coding-agent implementation handoffs.
