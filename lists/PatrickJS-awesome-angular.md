@@ -1038,6 +1038,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [easy-ngrx-distinct-selector ![GitHub Repo Stars](https://img.shields.io/github/stars/NGneers/easy-ngrx-distinct-selector) ![GitHub last commit](https://img.shields.io/github/last-commit/NGneers/easy-ngrx-distinct-selector)](https://github.com/NGneers/easy-ngrx-distinct-selector) - Provides functions to easily create `@ngrx/store` selectors with equal functions for arguments and result values.
 * [ngrx-store-wrapper ![GitHub Repo Stars](https://img.shields.io/github/stars/himanshuarora111/ngrx-store-wrapper) ![GitHub last commit](https://img.shields.io/github/last-commit/himanshuarora111/ngrx-store-wrapper)](https://github.com/himanshuarora111/ngrx-store-wrapper) - Angular library for NgRx state management with built-in session and local storage, no manual actions or reducers needed.
 * [ngx-rehydrate ![GitHub Repo Stars](https://img.shields.io/github/stars/solidexpert-ltd/ngx-rehydrate) ![GitHub last commit](https://img.shields.io/github/last-commit/solidexpert-ltd/ngx-rehydrate)](https://github.com/solidexpert-ltd/ngx-rehydrate) - NgRx state rehydration library for Angular SSR applications.
+* [ngrx-offline ![GitHub Repo Stars](https://img.shields.io/github/stars/poodlelab/ngrx-offline) ![GitHub last commit](https://img.shields.io/github/last-commit/poodlelab/ngrx-offline)](https://github.com/poodlelab/ngrx-offline) - Durable, optimistic, offline mutation handling for Angular applications that use NgRx.
 
 ### NGXS
 
@@ -1420,6 +1421,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [angular-advanced-table ![GitHub Repo Stars](https://img.shields.io/github/stars/VaggelisKa/angular-advanced-table) ![GitHub last commit](https://img.shields.io/github/last-commit/VaggelisKa/angular-advanced-table)](https://github.com/VaggelisKa/angular-advanced-table) -  Angular monorepo featuring `ng-advanced-table`—a signals-first, accessible data table library—and its documentation site.
 * [angular-tree ![GitHub Repo Stars](https://img.shields.io/github/stars/h-k-dev/angular-tree) ![GitHub last commit](https://img.shields.io/github/last-commit/h-k-dev/angular-tree)](https://github.com/h-k-dev/angular-tree) - A high-performance, headless tree component that is zoneless, signal-powered, and fully virtualized, with `@angular/cdk` as its sole runtime dependency.
 * [@some-angular-utils/table ![GitHub Repo Stars](https://img.shields.io/github/stars/some-angular-utils/table) ![GitHub last commit](https://img.shields.io/github/last-commit/some-angular-utils/table)](https://github.com/some-angular-utils/table) - Remote or local data, pagination, filters, responsive layouts and full template control — wired into one declarative `<sau-table>` element.
+* [DataGrid ![GitHub Repo Stars](https://img.shields.io/github/stars/Laczynski/DataGrid) ![GitHub last commit](https://img.shields.io/github/last-commit/Laczynski/DataGrid)](https://github.com/Laczynski/DataGrid) - Server-driven pagination, filtering, and sorting for .NET and Angular — as a standalone, reusable library.
 
 ### Dates
 
@@ -1708,6 +1710,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [validauth ![GitHub Repo Stars](https://img.shields.io/github/stars/adiksuu/validauth) ![GitHub last commit](https://img.shields.io/github/last-commit/adiksuu/validauth)](https://github.com/adiksuu/validauth) - Lightweight, powerful authentication validators for JavaScript applications.
 * [ngx-validation-messages ![GitHub Repo Stars](https://img.shields.io/github/stars/lagoshny/ngx-validation-messages) ![GitHub last commit](https://img.shields.io/github/last-commit/lagoshny/ngx-validation-messages)](https://github.com/lagoshny/ngx-validation-messages) - This module simplifies the display of form validator messages by using a single component.
 * [ngx-validx ![GitHub Repo Stars](https://img.shields.io/github/stars/EngYouniss/ngx-validx-package) ![GitHub last commit](https://img.shields.io/github/last-commit/EngYouniss/ngx-validx-package)](https://github.com/EngYouniss/ngx-validx-package) - A lightweight, high-performance, and automatic Angular form validation error handling library.
+* [kits-ngx-validation-package ![GitHub Repo Stars](https://img.shields.io/github/stars/EngYouniss/kits-ngx-validation-package) ![GitHub last commit](https://img.shields.io/github/last-commit/EngYouniss/kits-ngx-validation-package)](https://github.com/EngYouniss/kits-ngx-validation-package/tree/main/projects/kits-ngx-validation) - Provides a centralized validation system, including state management, messages, visibility strategies, localization, and reusable form-fields.
 
 ### Icons
 
