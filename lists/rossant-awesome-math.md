@@ -214,12 +214,15 @@ Read the [contribution guidelines](CONTRIBUTING.md) before suggesting a resource
 * [Lean](https://lean-lang.org/) - Open-source interactive theorem prover and programming language based on dependent type theory, used for formal mathematics and software verification.
 * [mathlib ![GitHub Repo Stars](https://img.shields.io/github/stars/leanprover-community/Mathlib4) ![GitHub last commit](https://img.shields.io/github/last-commit/leanprover-community/Mathlib4)](https://github.com/leanprover-community/Mathlib4) - Community-maintained mathematical library for Lean 4, with formalized theories, proof tactics, programming infrastructure, and generated documentation.
 * [Mathematics in Lean](https://leanprover-community.github.io/mathematics_in_lean/) - Free textbook with examples and exercises for mathematicians learning Lean 4 and mathlib.
+* [Theorem Proving in Lean 4](https://lean-lang.org/theorem_proving_in_lean4/) - Free official textbook on dependent type theory, propositions, tactics, inductive types, type classes, and constructing verified proofs in Lean 4.
 * [Natural Number Game](https://adam.math.hhu.de/#/g/leanprover-community/nng4) - Interactive Lean 4 game that introduces theorem proving through guided exercises about natural numbers.
 * [Isabelle](https://isabelle.in.tum.de/) - General-purpose interactive theorem prover with higher-order logic and set-theory environments for formalizing mathematics and computer science.
 * [Archive of Formal Proofs](https://www.isa-afp.org/) - Refereed collection of Isabelle proof libraries, examples, and scientific developments maintained against current Isabelle releases.
 * [Rocq Prover](https://rocq-prover.org/) - Open-source interactive theorem prover and dependently typed programming language for mechanized mathematics and verified software.
 * [Mathematical Components](https://math-comp.github.io/) - Rocq libraries and tools for large-scale formalized mathematics, including substantial developments in algebra and analysis.
 * [Metamath](https://us.metamath.org/) - Minimal formal language and proof verifier with explicit, inspectable proofs built from simple foundations.
+* [Courses Using Lean](https://leanprover-community.github.io/courses.html) - Maintained, filterable index of university courses that teach Lean or use it for mathematics, logic, programming, and formal verification.
+* [Lean-related Conferences and Events](https://leanprover-community.github.io/events.html) - Maintained calendar and archive of conferences, workshops, and tutorials about Lean, mathlib, and formalized mathematics.
 
 ## Algebra
 
@@ -304,9 +307,11 @@ Read the [contribution guidelines](CONTRIBUTING.md) before suggesting a resource
 
 * [Basic Combinatorics](https://web.math.utk.edu/~cwagner/papers/comb.pdf) - Carl G. Wagner (University of Tennessee).
 * [Applied Combinatorics](https://appliedcombinatorics.org/appcomb/) - Mitchel T. Keller, William T. Trotter.
+* [Discrete Mathematics: An Open Introduction](https://open.umn.edu/opentextbooks/textbooks/394) - Free fourth-edition undergraduate textbook by Oscar Levin, with inquiry activities, more than 750 exercises, solutions and hints, and coverage of proofs, graph theory, counting, sequences, and discrete structures.
 * [Notes on Combinatorics](https://webspace.maths.qmul.ac.uk/p.j.cameron/notes/comb.pdf) - Peter J. Cameron.
 * [Analytic Combinatorics](https://algo.inria.fr/flajolet/Publications/book.pdf) - Philippe Flajolet, Robert Sedgewick.
 * [generatingfunctionology](https://www2.math.upenn.edu/~wilf/DownldGF.html) - Herbert Wilf.
+* [A=B](https://www.math.upenn.edu/~wilf/AeqB.html) - Marko Petkovšek, Herbert Wilf, and Doron Zeilberger on algorithms for proving hypergeometric identities.
 
 ### Graph Theory
 
@@ -317,7 +322,6 @@ Read the [contribution guidelines](CONTRIBUTING.md) before suggesting a resource
 ## Geometry and Topology
 
 * [Fundamentals of Geometry](https://polly.phys.msu.ru/~belyaev/geometry.pdf) - Oleg A. Belyaev.
-* [A=B](https://www.math.upenn.edu/~wilf/AeqB.html) - M. Petkovsek, H. Wilf, D. Zeilberger.
 * [Euclid's Elements (David Joyce edition)](https://mathcs.clarku.edu/~djoyce/elements/elements.html) - Euclid.
 * [Euclid's Elements Redux](https://open.umn.edu/opentextbooks/textbooks/euclid-s-elements-redux) - Daniel Callahan.
 * [Mathematical Illustrations](https://personal.math.ubc.ca/~cass/graphics/manual/) - Bill Casselman.
@@ -337,6 +341,7 @@ Read the [contribution guidelines](CONTRIBUTING.md) before suggesting a resource
 * [The Geometry and Topology of Three-Manifolds](https://www.slmath.org/publications/books/gt3m/) - W. Thurston.
 * [Semi-Riemann Geometry and General Relativity](https://people.math.harvard.edu/~shlomo/docs/semi_riemannian_geometry.pdf) - Shlomo Sternberg.
 * [Discrete Differential Geometry](https://www.cs.cmu.edu/~kmcrane/Projects/DDG/paper.pdf) - Keenan Crane.
+* [Differential Geometry](https://ocw.mit.edu/courses/18-950-differential-geometry-fall-2008/) - Rigorous undergraduate MIT OpenCourseWare course with lecture notes and problem sets centered on curves, surfaces, and curvature.
 
 ### Algebraic Geometry
 
@@ -455,10 +460,11 @@ Read the [contribution guidelines](CONTRIBUTING.md) before suggesting a resource
 
 * [Notes on Partial Differential Equations](https://www.math.ucdavis.edu/~hunter/pdes/pde_notes.pdf) - John K. Hunter (University of California at Davis).
 * [Linear Methods of Applied Mathematics](https://harrell.math.gatech.edu/pde/ch1wr.html) - Evans M. Harrell II, James V. Herod (Georgia Tech).
+* [Partial Differential Equations](https://math.berkeley.edu/~evans/evans_pcam.pdf) - Lawrence C. Evans's concise survey of modern PDE theory from analytical, qualitative, and computational viewpoints.
 
 ### Ergodic Theory and Chaos
 
-* [Complexity: A Guided Tour](https://academic.oup.com/book/51004) - Paid textbook by Melanie Mitchell.
+* [Chaos: Classical and Quantum](https://chaosbook.org/) - Maintained technical webbook on dynamical systems, periodic orbits, deterministic chaos, statistical mechanics, and quantum chaos.
 
 ## Probability and Statistics
 
@@ -503,6 +509,7 @@ Read the [contribution guidelines](CONTRIBUTING.md) before suggesting a resource
 * [Seeing Theory](https://seeing-theory.brown.edu/) - Daniel Kunin, Jingru Guo, Tyler Dae Devlin, and Daniel Xiang.
 * [Statistics Done Wrong](https://www.statisticsdonewrong.com/) - Alex Reinhart.
 * [All of Statistics: A Concise Course in Statistical Inference](https://link.springer.com/book/10.1007/978-0-387-21736-9) - Larry Wasserman.
+* [OpenIntro Statistics](https://www.openintro.org/book/os/) - Free introductory textbook for college courses and self-study, with datasets, labs, slides, videos, exercises, and accessible PDFs.
 
 ### Statistical Learning
 
@@ -529,6 +536,7 @@ Read the [contribution guidelines](CONTRIBUTING.md) before suggesting a resource
 * [Advanced Numerical Methods and Their Applications to Industrial Problems: Adaptive Finite Element Methods](https://user.math.uni-bremen.de/schmi/SS04/YSU_Notes.pdf) - Alfred Schmidt, Arsen Narimanyan.
 * [Numerical Analysis for Engineers](https://ece.uwaterloo.ca/~dwharder/nm/) - Douglas Wilhelm Harder.
 * [Advanced Linear Algebra: Foundations to Frontiers](https://www.cs.utexas.edu/users/flame/laff/alaff/frontmatter.html) - Robert van de Geijn, Margaret Myers (University of Texas at Austin).
+* [Fundamentals of Numerical Computation](https://fncbook.com/) - Online textbook by Tobin Driscoll and Richard Braun with Julia, MATLAB, and Python editions covering core numerical methods for linear systems, approximation, root finding, ODEs, and PDEs.
 
 ## Optimization, Operations Research, and Control
 
@@ -544,12 +552,13 @@ Read the [contribution guidelines](CONTRIBUTING.md) before suggesting a resource
 
 * [Introduction to Continuum Mechanics](https://rbowen.engr.tamu.edu/) - Ray M. Bowen.
 * [Mechanism of the Heavens (1831)](https://openlibrary.org/books/OL6970552M/Mechanism_of_the_heavens) - Mary Somerville.
+* [Quantum Field Theory](https://davidtong.org/teaching/quantum-field-theory/) - David Tong's Cambridge master's-level lecture notes, problem sheets, HTML text, and recorded lectures on classical fields, quantization, Dirac fields, and quantum electrodynamics.
 
 ## Interdisciplinary Mathematics
 
 ### Mathematics for Computer Science
 
-* [Mathematics for Computer Science](https://people.csail.mit.edu/meyer/mcs.pdf) - Eric Lehman, F. Thomson Leighton, Albert R. Meyer.
+* [Mathematics for Computer Science](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-spring-2015/) - Free MIT OpenCourseWare course with an open textbook, videos, notes, problem sets, and exams on proofs, discrete structures, counting, graphs, modular arithmetic, and discrete probability.
 * [Algorithms and Complexity](https://www2.math.upenn.edu/~wilf/AlgComp3.html) - H. Wilf.
 * [Lecture Notes on Optimization](https://people.eecs.berkeley.edu/~varaiya/papers_ps.dir/NOO.pdf) - Pravin Varaiya.
 * [Information Theory, Inference, and Learning Algorithms](https://www.inference.org.uk/mackay/itila/book.html) - David J. C. MacKay.
@@ -559,6 +568,8 @@ Read the [contribution guidelines](CONTRIBUTING.md) before suggesting a resource
 
 * [Mathematics for Machine Learning](https://mml-book.github.io/) - Free textbook on the linear algebra, geometry, calculus, probability, and optimization needed to study machine learning.
 * [Deep Learning: Foundations and Concepts](https://www.bishopbook.com/) - Free-to-read online textbook by Christopher M. Bishop and Hugh Bishop, with a probability-based treatment of modern deep-learning models and methods.
+* [Mathematics of Machine Learning](https://ocw.mit.edu/courses/18-657-mathematics-of-machine-learning-fall-2015/) - Free graduate MIT course on the mathematical and statistical foundations of machine learning, with lecture notes, assignments, and problem-set solutions.
+* [Probabilistic Machine Learning](https://probml.github.io/pml-book/) - Introductory and advanced books by Kevin Murphy, with free draft PDFs, code, figures, exercises, and teaching resources.
 
 ### Information and Coding Theory
 
@@ -587,9 +598,15 @@ Read the [contribution guidelines](CONTRIBUTING.md) before suggesting a resource
 
 This section covers AI-assisted theorem proving, formalization, and mathematical discovery. Resources that teach the mathematics used in machine learning appear under Mathematics for Machine Learning.
 
-* [LeanDojo v2 ![GitHub Repo Stars](https://img.shields.io/github/stars/lean-dojo/LeanDojo-v2) ![GitHub last commit](https://img.shields.io/github/last-commit/lean-dojo/LeanDojo-v2)](https://github.com/lean-dojo/LeanDojo-v2) - Open-source framework for training, evaluating, and deploying AI-assisted theorem provers for Lean 4.
+* [LeanDojo v2](https://leandojo.org/leandojo.html) - Open-source framework and benchmark data for training, evaluating, and deploying AI-assisted theorem provers for Lean 4.
 * [miniF2F ![GitHub Repo Stars](https://img.shields.io/github/stars/facebookresearch/miniF2F) ![GitHub last commit](https://img.shields.io/github/last-commit/facebookresearch/miniF2F)](https://github.com/facebookresearch/miniF2F) - Cross-system benchmark of formalized olympiad, high-school, and undergraduate problems for evaluating automated theorem provers.
 * [AlphaGeometry ![GitHub Repo Stars](https://img.shields.io/github/stars/google-deepmind/alphageometry) ![GitHub last commit](https://img.shields.io/github/last-commit/google-deepmind/alphageometry)](https://github.com/google-deepmind/alphageometry) - Open research implementation combining learned guidance with symbolic deduction for olympiad geometry problems.
+* [First Proof Project](https://1stproof.org/) - Independent project that publishes research-level problems, evaluation methods, solutions, and expert commentary for assessing AI systems in mathematics.
+* [Math AI Seminar](https://math.washington.edu/events/series/math-ai-seminar) - University of Washington research seminar on formalization, theorem proving, mathematical AI, and machine-learning applications in mathematics, with a multi-year event archive.
+* [b=M²L](https://bm2l.github.io/) - Barcelona Mathematics and Machine Learning colloquia on the interaction between mathematics and machine learning, with multi-year editions and recorded talks.
+* [AI for Mathematics and Theoretical Computer Science](https://simons.berkeley.edu/workshops/simons-institute-theory-computing-slmath-joint-workshop-ai-mathematics-theoretical) - Simons Institute and SLMath workshop archive with recorded talks on proof assistants, automated reasoning, machine learning, and mathematical discovery.
+* [Mathematics and AI](https://sites.math.washington.edu/~jarod/math583E-fall25.html) - University of Washington Fall 2025 graduate course with public slides, Lean examples, projects, and readings on machine learning, formalization, autoformalization, mathematical discovery, and ethics.
+* [AI-Assisted Mathematical Discovery ![GitHub Repo Stars](https://img.shields.io/github/stars/Nebius-Academy/ai-in-math-course) ![GitHub last commit](https://img.shields.io/github/last-commit/Nebius-Academy/ai-in-math-course)](https://github.com/Nebius-Academy/ai-in-math-course) - Open thirteen-week course with notes, notebooks, exercises, and case studies on coding agents, machine learning, language models, reinforcement learning, and experimental mathematical research.
 
 ### Mathematical Software and Tools
 
