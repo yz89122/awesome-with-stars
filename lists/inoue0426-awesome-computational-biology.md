@@ -144,7 +144,7 @@ Browse and search the resources via the [GitHub Pages UI](https://inoue0426.gith
 - [Ensembl](https://www.ensembl.org/) — Genome browser and annotation database for vertebrate and other eukaryotic genomes.
 - [Human Genome Resources at NCBI](https://www.ncbi.nlm.nih.gov/projects/genome/guide/human/index.shtml) — Database for genomics, proteomics, transcriptomics, and systems biology.
 - [GenBank](https://www.ncbi.nlm.nih.gov/genbank/) — NCBI's database of genetic sequences.
-- [UCSC Genome Browser](https://genome.ucsc.edu/) ��� UCSC's genome browser.
+- [UCSC Genome Browser](https://genome.ucsc.edu/) — UCSC's genome browser.
 - [cBioPortal](https://www.cbioportal.org/) — Cancer genomics database; aggregating many patient datasets.
 - [10x Genomics Dataset](https://www.10xgenomics.com/resources/datasets) — Collection of single-cell datasets.
 - [The Genotype-Tissue Expression (GTEx)](https://gtexportal.org/home/) — Human gene expression and regulation resource.
@@ -207,7 +207,7 @@ Browse and search the resources via the [GitHub Pages UI](https://inoue0426.gith
 #### Gene Regulatory Network
 
 - [TRRUST v2](https://www.grnpedia.org/trrust/) — Manually curated database of human and mouse transcriptional regulatory interactions between transcription factors and their target genes, expanded with literature-derived evidence.
-- [RegNetwork](http://www.regnetworkweb.org/) — Database of gene regulatory networks covering transcription factor–target gene and miRNA��gene interaction data across multiple species.
+- [RegNetwork](http://www.regnetworkweb.org/) — Database of gene regulatory networks covering transcription factor–target gene and miRNA–gene interaction data across multiple species.
 - [miRBase](https://www.mirbase.org/) — Reference repository for microRNA gene annotations, sequences, and experimentally validated targets.
 
 ### Clinical Trial

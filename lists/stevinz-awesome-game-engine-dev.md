@@ -226,7 +226,7 @@ _Info on topics necessary for designing and developing game engines._
 - Commercial Studios Research Divisions
     - 🌎 [Activision Research](https://research.activision.com/) - Blog posts, articles and presentations from research within _Activision_.
     - 🌎 [EA Technology](https://www.ea.com/technology/research) - Research on game tech including info on the _Frostbite_ engine.
-    - �� [tri-Ace Research](https://research.tri-ace.com/) - Publications from the Research and Development Department at _tri-Ace Inc_.
+    - 🌎 [tri-Ace Research](https://research.tri-ace.com/) - Publications from the Research and Development Department at _tri-Ace Inc_.
     - 🌎 [Ubisoft Technology](https://www.ubisoft.com/en-us/company/how-we-make-games/technology) - Learn about in-house tech including the _Anvil_ and _Snowdrop_ engines.
 - Education Portals
     - 📚 [3D Game Engine Programming](https://www.3dgep.com) - Articles on graphics, physics, AI, I/O and more.
@@ -668,7 +668,7 @@ _Language specific game engine development libraries / frameworks / code._
 - F#: Audio
     - 🔒 [FSound ![GitHub Repo Stars](https://img.shields.io/github/stars/albertp007/FSound) ![GitHub last commit](https://img.shields.io/github/last-commit/albertp007/FSound)](https://github.com/albertp007/FSound) - Sound processing library.
 - F#: Entity Component System
-    - 🎉 [Garnet ![GitHub Repo Stars](https://img.shields.io/github/stars/bcarruthers/garnet) ![GitHub last commit](https://img.shields.io/github/last-commit/bcarruthers/garnet)](https://github.com/bcarruthers/garnet) - Game composition library with ECS and actor-like messaging features.
+    - �� [Garnet ![GitHub Repo Stars](https://img.shields.io/github/stars/bcarruthers/garnet) ![GitHub last commit](https://img.shields.io/github/last-commit/bcarruthers/garnet)](https://github.com/bcarruthers/garnet) - Game composition library with ECS and actor-like messaging features.
 - F#: Game Engine w/Editor
     - 🎉 [Nu Game Engine ![GitHub Repo Stars](https://img.shields.io/github/stars/bryanedds/Nu) ![GitHub last commit](https://img.shields.io/github/last-commit/bryanedds/Nu)](https://github.com/bryanedds/Nu) - Cross-platform game engine built in the functional style.
 - F#: Gui
