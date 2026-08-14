@@ -72,6 +72,7 @@ This list is a collection of the best Deno modules and resources.
 
 ### Automation
 - [swissknife ![GitHub Repo Stars](https://img.shields.io/github/stars/fakoua/SwissKnife) ![GitHub last commit](https://img.shields.io/github/last-commit/fakoua/SwissKnife)](https://github.com/fakoua/SwissKnife) - SwissKnife - Deno Swiss Knife tools for Windows.
+- [zuke ![GitHub Repo Stars](https://img.shields.io/github/stars/zuke-build/zuke) ![GitHub last commit](https://img.shields.io/github/last-commit/zuke-build/zuke)](https://github.com/zuke-build/zuke) - Code-first, strongly-typed build automation system where builds are defined as TypeScript classes.
 
 ### CLI utils
 - [cac ![GitHub Repo Stars](https://img.shields.io/github/stars/cacjs/cac) ![GitHub last commit](https://img.shields.io/github/last-commit/cacjs/cac)](https://github.com/cacjs/cac) - Simple yet powerful framework for building command-line apps.
@@ -332,7 +333,7 @@ This list is a collection of the best Deno modules and resources.
 
 ### Chinese
 
-- [Deno 并不是下一代 Node.js](https://juejin.im/post/5b14a390e51d4506c1300bbc)
+- [Deno 并不���下一代 Node.js](https://juejin.im/post/5b14a390e51d4506c1300bbc)
 - [玩 Deno 遇到问题的解决方案](https://juejin.im/post/5b1245b3f265da6e4c6cf249)
 - [让我们一起来学习别人学不动的 Deno](https://segmentfault.com/a/1190000015151287)
 - [Design Mistakes in Node zh-CN](https://zhuanlan.zhihu.com/p/37637923)

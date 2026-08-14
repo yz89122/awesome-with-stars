@@ -157,7 +157,7 @@ More huge lists of resources, with many, many more incredible things! Some of th
 [Game Programming Patterns](https://gameprogrammingpatterns.com/) 🟪 - A free book on programming patterns for games.
 
 
-[A Study Path for Game Programmers ![GitHub Repo Stars](https://img.shields.io/github/stars/miloyip/game-programmer) ![GitHub last commit](https://img.shields.io/github/last-commit/miloyip/game-programmer)](https://github.com/miloyip/game-programmer) 🟪 - A huge collection of game programming book titles and covers organized by specialization, with fancy flow charts between each title for a recommended reading order! Note that the books are _not_ included - a quick search should help you out with that ;]
+[A Study Path for Game Programmers ![GitHub Repo Stars](https://img.shields.io/github/stars/miloyip/game-programmer) ![GitHub last commit](https://img.shields.io/github/last-commit/miloyip/game-programmer)](https://github.com/miloyip/game-programmer) �� - A huge collection of game programming book titles and covers organized by specialization, with fancy flow charts between each title for a recommended reading order! Note that the books are _not_ included - a quick search should help you out with that ;]
 
 
 [How to Learn Software Design and Architecture](https://www.freecodecamp.org/news/software-design/) 🟪 - A list of resources for software architecture.
@@ -801,7 +801,7 @@ Royalty free music! Don't forget to check the license.
 [How to Become a Video Game Producer](https://www.gameindustrycareerguide.com/how-to-become-a-video-game-associate-producer/) - An interview with Merric Shank, a senior producer, on the role, with  hiring advice for entry-level producers.
 
 
-[Awesome Game Production ![GitHub Repo Stars](https://img.shields.io/github/stars/vhladiienko/awesome-game-production) ![GitHub last commit](https://img.shields.io/github/last-commit/vhladiienko/awesome-game-production)](https://github.com/vhladiienko/awesome-game-production) �� - An Awesome list, focused on project and product management in game development.
+[Awesome Game Production ![GitHub Repo Stars](https://img.shields.io/github/stars/vhladiienko/awesome-game-production) ![GitHub last commit](https://img.shields.io/github/last-commit/vhladiienko/awesome-game-production)](https://github.com/vhladiienko/awesome-game-production) 🟪 - An Awesome list, focused on project and product management in game development.
 
 
 <br />
