@@ -1145,7 +1145,7 @@ Webpage: https://www.facebook.com/cafelinne/
 
 Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
-✔    | Some  | Svartbäcksgatan 22, 75 332 Uppsala, Sweden  | 8–22
+���    | Some  | Svartbäcksgatan 22, 75 332 Uppsala, Sweden  | 8–22
 
 ---------------------------------------------------------------
 ---------------------------------------------------------------
@@ -1199,7 +1199,7 @@ Webpage: https://london.hackspace.org.uk/
 
 Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
-✔ | ✔ | [447 Hackney Road, London, E2 9DY](https://goo.gl/maps/iyzxMYzKocw) | 24/7 (Members Only)
+��� | ✔ | [447 Hackney Road, London, E2 9DY](https://goo.gl/maps/iyzxMYzKocw) | 24/7 (Members Only)
 
 ## Scotland
 
