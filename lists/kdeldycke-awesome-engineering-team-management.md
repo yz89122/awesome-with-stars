@@ -390,7 +390,7 @@ How to get newcomers up to speed with the rest of the team you manage. And how t
 
 - [Meaningful differences that makes Google offices more productive](https://news.ycombinator.com/item?id=20443133) - “The people are smarter, your manager (and their manager) cares a lot about you and it's easy to move.”
 
-- [It's Not Enough to Be Right—You Also Have to Be Kind](https://archive.ph/RoW6v) - “It's harder to be kind than clever”, or put another way by Abraham Joshua Heschel: ��When I was young, I used to admire intelligent people; as I grow older, I admire kind people.”
+- [It's Not Enough to Be Right—You Also Have to Be Kind](https://archive.ph/RoW6v) - “It's harder to be kind than clever”, or put another way by Abraham Joshua Heschel: “When I was young, I used to admire intelligent people; as I grow older, I admire kind people.”
 
 - “It is not your job to protect people (particularly senior management) from the consequences of their decisions. Make your decisions in your own best interest; it is up to the organization to make sure that your interest aligns with theirs.” ([source](https://news.ycombinator.com/item?id=7179946)).
 

@@ -1797,7 +1797,7 @@ _Engines that index documents for search and analysis._
 
 > **[Apache Lucene ![GitHub Repo Stars](https://img.shields.io/github/stars/apache/lucene) ![GitHub last commit](https://img.shields.io/github/last-commit/apache/lucene)](https://github.com/apache/lucene)** <kbd>★ 3.5k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>High-performance, full-featured, cross-platform, text search engine library.
 
-> **[Apache Solr ![GitHub Repo Stars](https://img.shields.io/github/stars/apache/solr) ![GitHub last commit](https://img.shields.io/github/last-commit/apache/solr)](https://github.com/apache/solr)** <kbd>★ 1.7k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Enterprise search engine optimized for high-volume traffic.
+> **[Apache Solr ![GitHub Repo Stars](https://img.shields.io/github/stars/apache/solr) ![GitHub last commit](https://img.shields.io/github/last-commit/apache/solr)](https://github.com/apache/solr)** <kbd>�� 1.7k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Enterprise search engine optimized for high-volume traffic.
 
 > **[Elasticsearch ![GitHub Repo Stars](https://img.shields.io/github/stars/elastic/elasticsearch) ![GitHub last commit](https://img.shields.io/github/last-commit/elastic/elasticsearch)](https://github.com/elastic/elasticsearch)** <kbd>★ 77.8k</kbd> 🟢<br>Distributed, multitenant-capable, full-text search engine with a RESTful web interface and schema-free JSON documents.
 
