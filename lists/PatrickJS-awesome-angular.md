@@ -1091,6 +1091,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [sdux-vault ![GitHub Repo Stars](https://img.shields.io/github/stars/sdux-vault/vault) ![GitHub last commit](https://img.shields.io/github/last-commit/sdux-vault/vault)](https://github.com/sdux-vault/vault) - A framework-agnostic, deterministic state management system.
 * [ngx-tosijs ![GitHub Repo Stars](https://img.shields.io/github/stars/tonioloewald/ngx-tosijs) ![GitHub last commit](https://img.shields.io/github/last-commit/tonioloewald/ngx-tosijs)](https://github.com/tonioloewald/ngx-tosijs) - Insanely simple state management for Angular — and an off-ramp from Angular. Take your pick.
 * [ngx-zero ![GitHub Repo Stars](https://img.shields.io/github/stars/ivan-anchev/ngx-zero) ![GitHub last commit](https://img.shields.io/github/last-commit/ivan-anchev/ngx-zero)](https://github.com/ivan-anchev/ngx-zero) - Signals-first, zoneless-ready Angular bindings for [Rocicorp Zero](https://zero.rocicorp.dev/), a general-purpose sync solution.
+* [ng-craft ![GitHub Repo Stars](https://img.shields.io/github/stars/ng-angular-stack/ng-craft) ![GitHub last commit](https://img.shields.io/github/last-commit/ng-angular-stack/ng-craft)](https://github.com/ng-angular-stack/ng-craft) - A Signal-based Angular toolkit for modeling state, asynchronous work, services, forms, dependency injection, and routes with explicit dependencies and strong TypeScript inference.
 
 ## Testing
 
@@ -1424,6 +1425,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [angular-tree ![GitHub Repo Stars](https://img.shields.io/github/stars/h-k-dev/angular-tree) ![GitHub last commit](https://img.shields.io/github/last-commit/h-k-dev/angular-tree)](https://github.com/h-k-dev/angular-tree) - A high-performance, headless tree component that is zoneless, signal-powered, and fully virtualized, with `@angular/cdk` as its sole runtime dependency.
 * [@some-angular-utils/table ![GitHub Repo Stars](https://img.shields.io/github/stars/some-angular-utils/table) ![GitHub last commit](https://img.shields.io/github/last-commit/some-angular-utils/table)](https://github.com/some-angular-utils/table) - Remote or local data, pagination, filters, responsive layouts and full template control — wired into one declarative `<sau-table>` element.
 * [DataGrid ![GitHub Repo Stars](https://img.shields.io/github/stars/Laczynski/DataGrid) ![GitHub last commit](https://img.shields.io/github/last-commit/Laczynski/DataGrid)](https://github.com/Laczynski/DataGrid) - Server-driven pagination, filtering, and sorting for .NET and Angular — as a standalone, reusable library.
+* [fastgrid-angular ![GitHub Repo Stars](https://img.shields.io/github/stars/coqsoft/fastgrid-frameworks) ![GitHub last commit](https://img.shields.io/github/last-commit/coqsoft/fastgrid-frameworks)](https://github.com/coqsoft/fastgrid-frameworks/tree/main/fastgrid-angular) - The official Angular wrapper for [FastGrid](https://www.treegrid.com/FDoc/FastGridAngular.html) and FastSheet by COQsoft.
 
 ### Dates
 
@@ -1557,6 +1559,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [angular-tiptap-editor ![GitHub Repo Stars](https://img.shields.io/github/stars/FloGeez/angular-tiptap-editor) ![GitHub last commit](https://img.shields.io/github/last-commit/FloGeez/angular-tiptap-editor)](https://github.com/FloGeez/angular-tiptap-editor) - A modern, customizable Angular rich-text editor, built with Tiptap.
 * [ngx-richtext ![GitHub Repo Stars](https://img.shields.io/github/stars/eliranbar/ng-rich-text-editor) ![GitHub last commit](https://img.shields.io/github/last-commit/eliranbar/ng-rich-text-editor)](https://github.com/eliranbar/ng-rich-text-editor) - A professional rich text editor with free and premium feature tiers.
 * [ngx-image-editor ![GitHub Repo Stars](https://img.shields.io/github/stars/eliranbar/ngx-edit-images) ![GitHub last commit](https://img.shields.io/github/last-commit/eliranbar/ngx-edit-images)](https://github.com/eliranbar/ngx-edit-images) - A professional image editor with a free forever tier and offline Ed25519-licensed premium tools.
+* [Scryb](https://scryb.dev/) - A $39/month flat-rate TypeScript WYSIWYG editor built on Tiptap that offers unlimited loads, end users, and documents.
 
 ### File Upload
 
