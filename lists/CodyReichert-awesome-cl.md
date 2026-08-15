@@ -1735,6 +1735,13 @@ Planning solvers:
 * [linear-programming](https://neil-lindquist.github.io/linear-programming/) – a library for solving linear programming problems. [MIT][200].
 * [shop3 ![GitHub Repo Stars](https://img.shields.io/github/stars/shop-planner/shop3) ![GitHub last commit](https://img.shields.io/github/last-commit/shop-planner/shop3)](https://github.com/shop-planner/shop3) - a Hierarchical Task Network (HTN) AI planner. Mozilla Public License.
 
+See also:
+
+* [cl-torch](https://gitlab.common-lisp.net/sburson/cl-torch) - "Like
+PyTorch, CL-Torch is mostly an FFI wrapper around C++ LibTorch, which
+handles all the numerics." MIT.
+    * [introductory blog post](https://scottlburson2.blogspot.com/2026/08/teaser-cl-torch.html) "It's nowhere near done" as of August, 2026.
+
 
 NEW! If you have precise needs, blurry needs or simply questions, the repository [Common Lisp numsci call for needs ![GitHub Repo Stars](https://img.shields.io/github/stars/digikar99/common-lisp-numsci-call-for-needs) ![GitHub last commit](https://img.shields.io/github/last-commit/digikar99/common-lisp-numsci-call-for-needs)](https://github.com/digikar99/common-lisp-numsci-call-for-needs) is a new place to discuss them.
 
