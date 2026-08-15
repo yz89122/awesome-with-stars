@@ -375,7 +375,7 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 | Course Name | Course Provider | Level | Hour(s) | Reward |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
 | <a href="https://cognitiveclass.ai/learn/containers-k8s-and-istio-on-ibm-cloud" target="_blank" rel="noopener noreferrer">Containers, K8s and Istio on IBM cloud</a> | IBM / Cognitive Class |Beginner|9 | <a href="https://www.youracclaim.com/org/ibm/badge/containers-k8s-and-istio-on-ibm-cloud" target="_blank" rel="noopener noreferrer">🏅</a>|
-| <a href="https://cognitiveclass.ai/courses/docker-essentials" target="_blank" rel="noopener noreferrer">Docker Essentials</a> | IBM / Cognitive Class |Beginner|4 | <a href="https://www.youracclaim.com/org/ibm/badge/docker-essentials-a-developer-introduction" target="_blank" rel="noopener noreferrer">🏅</a>|
+| <a href="https://cognitiveclass.ai/courses/docker-essentials" target="_blank" rel="noopener noreferrer">Docker Essentials</a> | IBM / Cognitive Class |Beginner|4 | <a href="https://www.youracclaim.com/org/ibm/badge/docker-essentials-a-developer-introduction" target="_blank" rel="noopener noreferrer">����</a>|
 | <a href="https://cognitiveclass.ai/courses/kubernetes-course" target="_blank" rel="noopener noreferrer">Introduction to Containers, Kubernetes, and OpenShift</a> | IBM / Cognitive Class |Beginner|3 | <a href="https://www.youracclaim.com/org/ibm/badge/containers-kubernetes-essentials" target="_blank" rel="noopener noreferrer">🏅</a>|
 | <a href="https://cloud.layer5.io/academy/certifications/c5ada327-8a58-4c8a-b9fa-51b95696488c/certified-meshery-contributor" target="_blank" rel="noopener noreferrer">Certified Meshery Contributor</a> | Meshery |Beginner|2.5 | <a href="https://www.cncf.io/blog/2025/10/27/announcing-the-certified-meshery-contributor-cmc/" target="_blank" rel="noopener noreferrer">🏅</a>|
 
@@ -426,7 +426,7 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 | <a href="https://cognitiveclass.ai/courses/machine-learning-with-python/" target="_blank" rel="noopener noreferrer">Machine Learning with Python</a> | IBM / Cognitive Class |Beginner|20 | <a href="https://www.youracclaim.com/org/ibm/badge/machine-learning-with-python-level-1" target="_blank" rel="noopener noreferrer">🏅</a>|
 | <a href="https://www.freecodecamp.org/learn/machine-learning-with-python/" target="_blank" rel="noopener noreferrer">Machine Learning with Python Certification</a> | FreeCodeCamp |Professional|300 | 🏆|
 | <a href="https://www.kaggle.com/learn/intro-to-machine-learning" target="_blank" rel="noopener noreferrer">Intro to Machine Learning</a> | Kaggle          | Beginner      | 3     | 🏆     |
-| <a href="https://www.kaggle.com/learn/intermediate-machine-learning" target="_blank" rel="noopener noreferrer">Intermediate Machine Learning</a> | Kaggle | Intermediate | 4     | ��     |
+| <a href="https://www.kaggle.com/learn/intermediate-machine-learning" target="_blank" rel="noopener noreferrer">Intermediate Machine Learning</a> | Kaggle | Intermediate | 4     | 🏆     |
 | <a href="https://www.kaggle.com/learn/machine-learning-explainability" target="_blank" rel="noopener noreferrer">Machine Learning Explainability</a> | Kaggle | Intermediate | 4     | 🏆     |
 | <a href="https://www.kaggle.com/learn/intro-to-deep-learning" target="_blank" rel="noopener noreferrer">Intro to Deep Learning</a>  | Kaggle          | Intermediate | 4     | 🏆     |
 | <a href="https://www.kaggle.com/learn/time-series" target="_blank" rel="noopener noreferrer">Time Series</a>    | Kaggle          | Intermediate | 5     | 🏆     |
@@ -522,7 +522,7 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 | <a href="https://www.freecodecamp.org/learn/scientific-computing-with-python/" target="_blank" rel="noopener noreferrer">Scientific Computing with Python Certification</a> | FreeCodeCamp |Professional|300 | 🏆|
 | <a href="https://www.hackerrank.com/skills-verification/python_basic" target="_blank" rel="noopener noreferrer">Python</a> | HackerRank |Beginner| 1.5 | 🏆|
 | <a href="https://memgraph.com/blog/learn-graph-analytics-with-python" target="_blank" rel="noopener noreferrer">Intro to Graph Analytics in Python free course</a> | Memgraph |Intermediate| 3 | 🏅|
-| <a href="https://www.kaggle.com/learn/python" target="_blank" rel="noopener noreferrer">Python</a>                                        | Kaggle          | Beginner      | 5     | ����     |
+| <a href="https://www.kaggle.com/learn/python" target="_blank" rel="noopener noreferrer">Python</a>                                        | Kaggle          | Beginner      | 5     | 🏆     |
 | <a href="https://www.kaggle.com/learn/pandas" target="_blank" rel="noopener noreferrer">Pandas</a>                                      | Kaggle          | Beginner      | 4     | 🏆     |
 | <a href="https://www.kaggle.com/learn/intro-to-programming" target="_blank" rel="noopener noreferrer">Intro to Programming</a>           | Kaggle          | Beginner      | 5     | 🏆     |
 
