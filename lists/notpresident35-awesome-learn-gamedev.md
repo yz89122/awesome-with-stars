@@ -472,7 +472,7 @@ Part 1](https://0fps.net/2014/02/10/replication-in-networked-games-overview-part
 [Art Industry Resources](https://www.notion.so/Art-Industry-Resources-86e6733162f24c26829aa65961f461e3) 💠🟪 - A Megalist of Art Resources!
 
 
-[Saint11: Tutorials](https://saint11.art/blog/pixel-art-tutorials/) ����🟪 | [Articles](https://saint11.art/pixel_articles/) | [Patreon](https://www.patreon.com/saint11) - Fantastic pixel art animation tutorials and articles on pixel art. Note that most patreon posts are free.
+[Saint11: Tutorials](https://saint11.art/blog/pixel-art-tutorials/) 💠🟪 | [Articles](https://saint11.art/pixel_articles/) | [Patreon](https://www.patreon.com/saint11) - Fantastic pixel art animation tutorials and articles on pixel art. Note that most patreon posts are free.
 
 
 [Pixel Art Class](https://www.youtube.com/watch?v=7BWr2tlK-4c&list=PLLdxW--S_0h4dlWUpl-TzBp-ulqK3NiM_) - A tutorial series covering the basics of art aimed at pixel artists.
@@ -608,7 +608,7 @@ Royalty Free Game Art! Don't forget to check the license.
 <br />
 
 
-[The Art of Game Design](https://www.schellgames.com/art-of-game-design/) 💠🟪 - An essential book on game design, basically mandatory reading for designers. Has a price tag, but is well worth the money.
+[The Art of Game Design](https://www.schellgames.com/art-of-game-design/) 💠�� - An essential book on game design, basically mandatory reading for designers. Has a price tag, but is well worth the money.
 
 
 [The Design of Everyday Things](https://ia902800.us.archive.org/3/items/thedesignofeverydaythingsbydonnorman/The%20Design%20of%20Everyday%20Things%20by%20Don%20Norman.pdf) 💠🟪 - A book on design in everything, basically mandatory reading for designers.
@@ -626,7 +626,7 @@ Royalty Free Game Art! Don't forget to check the license.
 [Pattern Language for Game Design](https://patternlanguageforgamedesign.com/) 💠🟪 - A database of common design patterns presented as problem solutions, compiled from the book _Pattern Language for Game Design_. Also contains work from students and designers completing excercises from the book.
 
 
-[The Evolution of Trust](https://ncase.me/trust/) 💠🟪 - An interactive walkthrough of some game theory. Would probably be mandatory reading in a game design class.
+[The Evolution of Trust](https://ncase.me/trust/) 💠�� - An interactive walkthrough of some game theory. Would probably be mandatory reading in a game design class.
 
 
 [Extra Credits: So You Want To Be a Game Designer](https://www.youtube.com/watch?v=zQvWMdWhFCc) 💠🟪 - A channel on game design that was far ahead of its time. Their backlog is filled with invaluable advice, though their more recent content has a controversial reputation, and they've largely pivoted away from games into history and literature. Start with their career video(s) - dig through their game design backlog if you would like, but stick to the older stuff.
@@ -801,7 +801,7 @@ Royalty free music! Don't forget to check the license.
 [How to Become a Video Game Producer](https://www.gameindustrycareerguide.com/how-to-become-a-video-game-associate-producer/) - An interview with Merric Shank, a senior producer, on the role, with  hiring advice for entry-level producers.
 
 
-[Awesome Game Production ![GitHub Repo Stars](https://img.shields.io/github/stars/vhladiienko/awesome-game-production) ![GitHub last commit](https://img.shields.io/github/last-commit/vhladiienko/awesome-game-production)](https://github.com/vhladiienko/awesome-game-production) 🟪 - An Awesome list, focused on project and product management in game development.
+[Awesome Game Production ![GitHub Repo Stars](https://img.shields.io/github/stars/vhladiienko/awesome-game-production) ![GitHub last commit](https://img.shields.io/github/last-commit/vhladiienko/awesome-game-production)](https://github.com/vhladiienko/awesome-game-production) ��� - An Awesome list, focused on project and product management in game development.
 
 
 <br />
