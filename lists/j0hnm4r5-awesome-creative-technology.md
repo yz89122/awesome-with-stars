@@ -116,7 +116,7 @@ Creative technologists by definition have a breadth of skills as opposed to a sp
 | [**FIELD**](https:&#x2F;&#x2F;www.field.io&#x2F;) | [London] | future aesthetics for design, motion, experiential | 
 | [**Five Stone Studios**](https:&#x2F;&#x2F;fivestonestudios.com&#x2F;) | [Nashville] | Our creative arsenal spans design, live action, animation, &amp; experiential storytelling | 
 | [**Fjord**](https:&#x2F;&#x2F;fjordstudio.no&#x2F;) | [Oslo] | light art curation and production for festivals, installations, and stage productions | 
-| [**Float4**](https:&#x2F;&#x2F;float4.com&#x2F;en&#x2F;) | [Montreal] [NYC] | integrates digital experiences into physical spaces to amplify their identity | [🌐](https:&#x2F;&#x2F;float4.com&#x2F;en&#x2F;life-at-float4&#x2F;)
+| [**Float4**](https:&#x2F;&#x2F;float4.com&#x2F;en&#x2F;) | [Montreal] [NYC] | integrates digital experiences into physical spaces to amplify their identity | [��](https:&#x2F;&#x2F;float4.com&#x2F;en&#x2F;life-at-float4&#x2F;)
 | [**Friendly Vengeance**](https:&#x2F;&#x2F;friendlyvengeance.com&#x2F;) | [Culver City, CA] | interactive experiences and experiential design | 
 | [**fuse**](https:&#x2F;&#x2F;www.fuseworks.it&#x2F;en&#x2F;) | [Modena, Italy] | live-media performances, experimentation, electronic music, digital arts | 
 | [**Future Colossal**](https:&#x2F;&#x2F;www.futurecolossal.com&#x2F;) | [NYC] | experiential technologies in advertising and entertainment and art | [🌐](https:&#x2F;&#x2F;www.futurecolossal.com&#x2F;contact)
