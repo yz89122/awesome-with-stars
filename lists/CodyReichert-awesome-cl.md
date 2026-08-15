@@ -58,6 +58,7 @@ sellers who aren't evil for physical resources.
   - [ORMs](#orms)
   - [Persistent object databases](#persistent-object-databases)
   - [Graph databases](#graph-databases)
+  - [Key-value databases](#key-value-databases)
   - [Other DB wrappers](#other-db-wrappers)
   - [Migration tools](#migration-tools)
   - [To third parties](#to-third-parties)
@@ -451,17 +452,27 @@ and also:
 <!-- * [facts ![GitHub Repo Stars](https://img.shields.io/github/stars/cl-facts/facts) ![GitHub last commit](https://img.shields.io/github/last-commit/cl-facts/facts)](https://github.com/cl-facts/facts) - an in-memory graph database with transactions and rollbacks, logging/replay and dumping/loading to/from disk. BSD-style license (ISC). -->
 
 
+Key-value databases
+------------------------
+
+* [scalaxy ![GitHub Repo Stars](https://img.shields.io/github/stars/scalaxy/scalaxy) ![GitHub last commit](https://img.shields.io/github/last-commit/scalaxy/scalaxy)](https://github.com/scalaxy/scalaxy) - Multi-purpose cloud ready distributed database. MIT.
+  * https://scalaxy.org/
+
+Wrappers:
+
+* [lmdb ![GitHub Repo Stars](https://img.shields.io/github/stars/melisgl/lmdb) ![GitHub last commit](https://img.shields.io/github/last-commit/melisgl/lmdb)](https://github.com/melisgl/lmdb) - Bindings to [LMDB](http://www.lmdb.tech/doc/), the Lightning Memory-mapped Database, an ACID key-value database with MultiVersion Concurrency Control.
+* [cl-redis ![GitHub Repo Stars](https://img.shields.io/github/stars/vseloved/cl-redis) ![GitHub last commit](https://img.shields.io/github/last-commit/vseloved/cl-redis)](https://github.com/vseloved/cl-redis) - Redis client. [Expat][14].
+* [cl-ndbapi ![GitHub Repo Stars](https://img.shields.io/github/stars/datagraph/cl-ndbapi) ![GitHub last commit](https://img.shields.io/github/last-commit/datagraph/cl-ndbapi)](https://github.com/datagraph/cl-ndbapi) - bindings to the C++ NDB API of [RonDB](https://www.rondb.com/), "the world's fastest key value store", by [Dydra](https://dydra.com/home). GPLv2.
+
+
 Other DB wrappers
 -----------------
 
 * [cl-memcached ![GitHub Repo Stars](https://img.shields.io/github/stars/quasi/cl-memcached) ![GitHub last commit](https://img.shields.io/github/last-commit/quasi/cl-memcached)](https://github.com/quasi/cl-memcached) - Fast, thread-safe interface to the Memcached object caching system. [Expat][14].
-* [cl-redis ![GitHub Repo Stars](https://img.shields.io/github/stars/vseloved/cl-redis) ![GitHub last commit](https://img.shields.io/github/last-commit/vseloved/cl-redis)](https://github.com/vseloved/cl-redis) - Redis client. [Expat][14].
 * [cl-disque ![GitHub Repo Stars](https://img.shields.io/github/stars/CodyReichert/cl-disque) ![GitHub last commit](https://img.shields.io/github/last-commit/CodyReichert/cl-disque)](https://github.com/CodyReichert/cl-disque) - Disque client. [3-clause BSD][15].
 * [cl-rethinkdb ![GitHub Repo Stars](https://img.shields.io/github/stars/orthecreedence/cl-rethinkdb) ![GitHub last commit](https://img.shields.io/github/last-commit/orthecreedence/cl-rethinkdb)](https://github.com/orthecreedence/cl-rethinkdb) - RethinkDB client. [Expat][14].
 * [cl-mango ![GitHub Repo Stars](https://img.shields.io/github/stars/cmoore/cl-mango) ![GitHub last commit](https://img.shields.io/github/last-commit/cmoore/cl-mango)](https://github.com/cmoore/cl-mango/) -  A minimalist CouchDB 2.x database client. BSD_3Clause.
   * See also [clouchdb](https://common-lisp.net/project/clouchdb/) - Library for interacting with CouchDB. [FreeBSD][39].
-* [lmdb ![GitHub Repo Stars](https://img.shields.io/github/stars/melisgl/lmdb) ![GitHub last commit](https://img.shields.io/github/last-commit/melisgl/lmdb)](https://github.com/melisgl/lmdb) - Bindings to [LMDB](http://www.lmdb.tech/doc/), the Lightning Memory-mapped Database, an ACID key-value database with MultiVersion Concurrency Control.
-* [cl-ndbapi ![GitHub Repo Stars](https://img.shields.io/github/stars/datagraph/cl-ndbapi) ![GitHub last commit](https://img.shields.io/github/last-commit/datagraph/cl-ndbapi)](https://github.com/datagraph/cl-ndbapi) - bindings to the C++ NDB API of [RonDB](https://www.rondb.com/), "the world's fastest key value store", by [Dydra](https://dydra.com/home). GPLv2.
 * [cl-duckdb ![GitHub Repo Stars](https://img.shields.io/github/stars/ak-coram/cl-duckdb) ![GitHub last commit](https://img.shields.io/github/last-commit/ak-coram/cl-duckdb)](https://github.com/ak-coram/cl-duckdb) -  Common Lisp CFFI wrapper around the DuckDB C API. [MIT][200].
 * [cl-bunny ![GitHub Repo Stars](https://img.shields.io/github/stars/cl-rabbit/cl-bunny) ![GitHub last commit](https://img.shields.io/github/last-commit/cl-rabbit/cl-bunny)](https://github.com/cl-rabbit/cl-bunny) -  Common Lisp RabbitMQ client based on IOLib. MIT.
 
