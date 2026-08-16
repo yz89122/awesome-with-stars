@@ -1,6 +1,6 @@
 # [Awesome Python](https://awesome-python.com/)
 
-The definitive list that answers "I want to do X in Python, which tool should I use?" - An opinionated guide to the best Python frameworks, libraries, tools, and projects.
+An opinionated guide to the best Python frameworks, libraries, and tools.
 
 **Visit the [website](https://awesome-python.com/) to search and filter projects more easily.**
 
@@ -638,6 +638,7 @@ _Libraries for testing codebases and generating test data. Also see [awesome-pyt
 - Browser Automation
   - [playwright-python ![GitHub Repo Stars](https://img.shields.io/github/stars/microsoft/playwright-python) ![GitHub last commit](https://img.shields.io/github/last-commit/microsoft/playwright-python)](https://github.com/microsoft/playwright-python) - Python version of the Playwright testing and automation library.
   - [selenium ![GitHub Repo Stars](https://img.shields.io/github/stars/SeleniumHQ/selenium) ![GitHub last commit](https://img.shields.io/github/last-commit/SeleniumHQ/selenium)](https://github.com/SeleniumHQ/selenium) - Python bindings for [Selenium](https://selenium.dev/) [WebDriver](https://selenium.dev/documentation/webdriver/).
+  - [seleniumbase ![GitHub Repo Stars](https://img.shields.io/github/stars/seleniumbase/SeleniumBase) ![GitHub last commit](https://img.shields.io/github/last-commit/seleniumbase/SeleniumBase)](https://github.com/seleniumbase/SeleniumBase) - Python framework for web automation & testing, with stealth options.
 - Load Testing
   - [locust ![GitHub Repo Stars](https://img.shields.io/github/stars/locustio/locust) ![GitHub last commit](https://img.shields.io/github/last-commit/locustio/locust)](https://github.com/locustio/locust) - Scalable user load testing tool written in Python.
 - API Testing
