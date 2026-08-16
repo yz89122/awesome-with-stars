@@ -1408,6 +1408,7 @@ then it is not supported:
 - [atusy/treemonkey.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/atusy/treemonkey.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/atusy/treemonkey.nvim)](https://github.com/atusy/treemonkey.nvim) - Region selection with Tree-sitter nodes.
 - [kiyoon/treesitter-indent-object.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/kiyoon/treesitter-indent-object.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/kiyoon/treesitter-indent-object.nvim)](https://github.com/kiyoon/treesitter-indent-object.nvim) - Context-aware indent textobject powered by Tree-sitter.
 - [subev/sibling-jump.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/subev/sibling-jump.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/subev/sibling-jump.nvim)](https://github.com/subev/sibling-jump.nvim) - Context-aware navigation between sibling Tree-sitter nodes.
+- [iago-lito/tree-spider.nvim](https://codeberg.org/iago-lito/tree-spider.nvim) - Tree-sitter aware local motions and distant node selection.
 <!--lint disable double-link -->
 [**⬆ back to top**](#contents)
 <!--lint enable double-link -->
