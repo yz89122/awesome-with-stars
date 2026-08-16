@@ -161,7 +161,7 @@ Open source projects which support underrepresented groups and where you can par
 - [SignDict](https://signdict.org/) - An open dictionary for sign language.
 - [The Supernova Project](http://supernovaproject.org/) - A global effort that aims to contribute to addressing abuse within the LGBTQIA+ communities.
 - [Wheelmap](https://wheelmap.org/) - The world's biggest crowdsourced and open database for wheelchair-accessible places.
-- [WikiProject Women in Red](https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Women_in_Red) - Increasing the representation of women on Wikipedia through biographies and articles of women’s achievements.
+- [WikiProject Women in Red](https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Women_in_Red) - Increasing the representation of women on Wikipedia through biographies and articles of women���s achievements.
 
 ## Posts
 
