@@ -3644,6 +3644,7 @@ _Software written in Go._
 - [boxed ![GitHub Repo Stars](https://img.shields.io/github/stars/tejo/boxed) ![GitHub last commit](https://img.shields.io/github/last-commit/tejo/boxed)](https://github.com/tejo/boxed) - Dropbox based blog engine.
 - [Chapar ![GitHub Repo Stars](https://img.shields.io/github/stars/chapar-rest/chapar) ![GitHub last commit](https://img.shields.io/github/last-commit/chapar-rest/chapar)](https://github.com/chapar-rest/chapar) - Chapar is a cross-platform Postman alternative built with go, aims to help developers to test their api endpoints. it support http and grpc protocols.
 - [Cherry ![GitHub Repo Stars](https://img.shields.io/github/stars/rafael-santiago/cherry) ![GitHub last commit](https://img.shields.io/github/last-commit/rafael-santiago/cherry)](https://github.com/rafael-santiago/cherry) - Tiny webchat server in Go.
+- [chicha-isotope-map ![GitHub Repo Stars](https://img.shields.io/github/stars/matveynator/chicha-isotope-map) ![GitHub last commit](https://img.shields.io/github/last-commit/matveynator/chicha-isotope-map)](https://github.com/matveynator/chicha-isotope-map) - Self-hosted public radiation map for importing, analyzing, and visualizing measurement tracks.
 - [Circuit ![GitHub Repo Stars](https://img.shields.io/github/stars/gocircuit/circuit) ![GitHub last commit](https://img.shields.io/github/last-commit/gocircuit/circuit)](https://github.com/gocircuit/circuit) - Circuit is a programmable platform-as-a-service (PaaS) and/or Infrastructure-as-a-Service (IaaS), for management, discovery, synchronization and orchestration of services and hosts comprising cloud applications.
 - [Comcast ![GitHub Repo Stars](https://img.shields.io/github/stars/tylertreat/Comcast) ![GitHub last commit](https://img.shields.io/github/last-commit/tylertreat/Comcast)](https://github.com/tylertreat/Comcast) - Simulate bad network connections.
 - [confd ![GitHub Repo Stars](https://img.shields.io/github/stars/kelseyhightower/confd) ![GitHub last commit](https://img.shields.io/github/last-commit/kelseyhightower/confd)](https://github.com/kelseyhightower/confd) - Manage local application configuration files using templates and data from etcd or consul.
@@ -3893,7 +3894,7 @@ _Where to discover new Go libraries._
 - [Ukrainian Golang User Groups](https://www.meetup.com/uagolang/)
 - [Utah Go User Group](https://www.meetup.com/utahgophers/)
 - [Women Who Go - San Francisco, CA](https://www.meetup.com/Women-Who-Go/)
-- [Zürich Gophers - Zurich, Switzerland](https://www.meetup.com/zurich-gophers/)
+- [Z��rich Gophers - Zurich, Switzerland](https://www.meetup.com/zurich-gophers/)
 
 _Add the group of your city/country here (send **PR**)_
 
