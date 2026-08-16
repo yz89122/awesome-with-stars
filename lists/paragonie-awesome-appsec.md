@@ -675,7 +675,7 @@ A blog about PHP, Security, Performance and general web application development.
 
 #### [Pádraic Brady's Blog](http://blog.astrumfutura.com)
 
-P��draic Brady is a Zend Framework security expert
+Pádraic Brady is a Zend Framework security expert
 
 ### Mailing lists
 
