@@ -3894,7 +3894,7 @@ _Where to discover new Go libraries._
 - [Ukrainian Golang User Groups](https://www.meetup.com/uagolang/)
 - [Utah Go User Group](https://www.meetup.com/utahgophers/)
 - [Women Who Go - San Francisco, CA](https://www.meetup.com/Women-Who-Go/)
-- [Z��rich Gophers - Zurich, Switzerland](https://www.meetup.com/zurich-gophers/)
+- [Zürich Gophers - Zurich, Switzerland](https://www.meetup.com/zurich-gophers/)
 
 _Add the group of your city/country here (send **PR**)_
 
