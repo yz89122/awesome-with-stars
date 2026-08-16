@@ -91,6 +91,7 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 - [RobustMQ](http://robustmq.com) - Multi-protocol brokers written in Rust.
 - [SurgeMQ](https://zhen.org/categories/surgemq/) - High Performance MQTT Server and Client Libraries in Go.
 - [tbmq ![GitHub Repo Stars](https://img.shields.io/github/stars/thingsboard/tbmq) ![GitHub last commit](https://img.shields.io/github/last-commit/thingsboard/tbmq)](https://github.com/thingsboard/tbmq) - Open-source, scalable, fault-tolerant and durable messaging broker for millions of IoT devices.
+- [TrailMQ ![GitHub Repo Stars](https://img.shields.io/github/stars/RainerGewalt/TrailMQ) ![GitHub last commit](https://img.shields.io/github/last-commit/RainerGewalt/TrailMQ)](https://github.com/RainerGewalt/TrailMQ) - Self-hosted MQTT broker with policy enforcement and a reviewable record of broker decisions, for regulated and industrial systems.
 - [VerneMQ](https://vernemq.com/) - Apache2 licensed distributed MQTT broker, developed in Erlang.
 <!--lint disable double-link-->
 - [Vert.x MQTT Server ![GitHub Repo Stars](https://img.shields.io/github/stars/vert-x3/vertx-mqtt) ![GitHub last commit](https://img.shields.io/github/last-commit/vert-x3/vertx-mqtt)](https://github.com/vert-x3/vertx-mqtt) - Vert.x component to handle connections, communication and messages exchange with remote MQTT clients.

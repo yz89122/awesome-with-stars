@@ -310,7 +310,7 @@ Ground Control Stations (GCS) on laptops / tablets allow better overview of flig
 * [BulletGCSS ![GitHub Repo Stars](https://img.shields.io/github/stars/danarrib/BulletGCSS) ![GitHub last commit](https://img.shields.io/github/last-commit/danarrib/BulletGCSS)](https://github.com/danarrib/BulletGCSS) - Uses GSM and MQTT for extra long range links.
 * [Dreka GCS ![GitHub Repo Stars](https://img.shields.io/github/stars/Midgrad/Dreka) ![GitHub last commit](https://img.shields.io/github/last-commit/Midgrad/Dreka)](https://github.com/Midgrad/Dreka) - A new GCS (currently limited but more modern look & feel).
 
-## Companion Computers & Integration ����
+## Companion Computers & Integration 💻
 
 Your FC is focused on realtime control for maneuvers, while additional computers add ressources for more complex data processing, see also [Arudpilot.org - Companion Computers](https://ardupilot.org/dev/docs/companion-computers.html) and digital VTX systems above.
 
