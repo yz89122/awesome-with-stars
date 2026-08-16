@@ -72,7 +72,7 @@ This intense linguistic thriller will change the way you think about language. -
   > Babel-17 is all about the power of language. Humanity, which has spread throughout the universe, is involved in a war with the Invaders, who have been covertly assassinating officials and sabotaging spaceships. The only clues humanity has to go on are strange alien messages that have been intercepted in space. Poet and linguist Rydra Wong is determined to understand the language and stop the alien threat.
 </details>
 
-#### [Barsoom series](https://www.goodreads.com/series/43942-barsoom) (1912-1927) _by [Edgar Rice Burroughs](https://en.wikipedia.org/wiki/Edgar_Rice_Burroughs)_ [3.8] ���
+#### [Barsoom series](https://www.goodreads.com/series/43942-barsoom) (1912-1927) _by [Edgar Rice Burroughs](https://en.wikipedia.org/wiki/Edgar_Rice_Burroughs)_ [3.8] 🌟
 
 Now more than a century old, has that unique writing style you can only find in adventure classics. - [@uraimo](https://github.com/uraimo)
 
@@ -645,7 +645,7 @@ Very interesting exploration of what happens when aliens arrive on earth, after 
 
   > Lilith Iyapo has just lost her husband and son when atomic fire consumes Earth—the last stage of the planet’s final war. Hundreds of years later Lilith awakes, deep in the hold of a massive alien spacecraft piloted by the Oankali—who arrived just in time to save humanity from extinction. They have kept Lilith and other survivors asleep for centuries, as they learned whatever they could about Earth. Now it is time for Lilith to lead them back to her home world, but life among the Oankali on the newly resettled planet will be nothing like it was before.
   >
-  > The Oankali survive by genetically merging with primitive civilizations—whether their new hosts like it or not. For the first time since the nuclear holocaust, Earth will be inhabited. Grass will grow, animals will run, and people will learn to survive the planet��s untamed wilderness. But their children will not be human. Not exactly.
+  > The Oankali survive by genetically merging with primitive civilizations—whether their new hosts like it or not. For the first time since the nuclear holocaust, Earth will be inhabited. Grass will grow, animals will run, and people will learn to survive the planet’s untamed wilderness. But their children will not be human. Not exactly.
 </details>
 
 ##### [Adulthood Rites](https://www.goodreads.com/book/show/19105727-adulthood-rites) (1988) [4.2]
