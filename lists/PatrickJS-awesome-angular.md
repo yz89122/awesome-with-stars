@@ -643,6 +643,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [aitools.fyi](https://aitools.fyi/technology/angular) - AI Tools Built With Angular.
 * [Angular code editor rules](https://promptgenius.net/cursorrules/frameworks/frontend/angular) - Guide for effective AI interaction patterns when working with Angular code.
 * [Angularize](https://beta.angularize.dev/) - Vibe code your Angular app with a human coder in your corner.
+* [angular-nest-ai-kit ![GitHub Repo Stars](https://img.shields.io/github/stars/eusouwilson/angular-nest-ai-kit) ![GitHub last commit](https://img.shields.io/github/last-commit/eusouwilson/angular-nest-ai-kit)](https://github.com/eusouwilson/angular-nest-ai-kit) - Skills and AI agents for standalone Angular + PrimeNG (frontend) and NestJS + Prisma (backend) monorepos, organized in Nx.
 * [@full-stack-skills/angular-skills ![GitHub Repo Stars](https://img.shields.io/github/stars/full-stack-skills/angular-skills) ![GitHub last commit](https://img.shields.io/github/last-commit/full-stack-skills/angular-skills)](https://github.com/full-stack-skills/angular-skills) - Angular framework development skills for AI coding agents.
 * [@Kobolden/angular-skills ![GitHub Repo Stars](https://img.shields.io/github/stars/Kobolden/angular-skills) ![GitHub last commit](https://img.shields.io/github/last-commit/Kobolden/angular-skills)](https://github.com/Kobolden/angular-skills) - Enhance your Angular development with skills for AI-assisted coding, featuring up-to-date patterns, best practices, and examples for version 20+.
 * [angular-vibe-kit ![GitHub Repo Stars](https://img.shields.io/github/stars/vuanhtung10/angular-vibe-kit) ![GitHub last commit](https://img.shields.io/github/last-commit/vuanhtung10/angular-vibe-kit)](https://github.com/vuanhtung10/angular-vibe-kit) - Bootstrap a vibe coding workflow into any Angular project—complete with a `CLAUDE.md`, project docs, and Claude Code slash-commands tailored to your Angular version.
@@ -1000,6 +1001,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [permit](https://www.permit.io/) - An authorization-as-a-service solution that can be used with [Angular](https://www.permit.io/blog/how-to-implement-role-based-access-control-rbac-in-angular).
 * [ng-ability ![GitHub Repo Stars](https://img.shields.io/github/stars/topaxi/ng-ability) ![GitHub last commit](https://img.shields.io/github/last-commit/topaxi/ng-ability)](https://github.com/topaxi/ng-ability) - Define access control lists in Angular.
 * [urbac ![GitHub Repo Stars](https://img.shields.io/github/stars/kasoir/urbac) ![GitHub last commit](https://img.shields.io/github/last-commit/kasoir/urbac)](https://github.com/kasoir/urbac) - A complete, production-ready boilerplate designed to help you scaffold secure, multi-level access control systems in minutes.
+* [rulegate ![GitHub Repo Stars](https://img.shields.io/github/stars/fotbiler-lab/rulegate) ![GitHub last commit](https://img.shields.io/github/last-commit/fotbiler-lab/rulegate)](https://github.com/fotbiler-lab/rulegate) - Local-first, provider-independent authorization for `.NET` and Angular.
 
 ### Security Best Practices
 
@@ -1217,6 +1219,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [spartan-admin-dashboard ![GitHub Repo Stars](https://img.shields.io/github/stars/Oussemasahbeni/spartan-admin-dashboard) ![GitHub last commit](https://img.shields.io/github/last-commit/Oussemasahbeni/spartan-admin-dashboard)](https://github.com/Oussemasahbeni/spartan-admin-dashboard) - A production-ready, Angular admin dashboard template built with Spartan UI components and Tailwind CSS.
 * [elite-angular-zen ![GitHub Repo Stars](https://img.shields.io/github/stars/saiyan666-4Wk/elite-angular-zen) ![GitHub last commit](https://img.shields.io/github/last-commit/saiyan666-4Wk/elite-angular-zen)](https://github.com/saiyan666-4Wk/elite-angular-zen) - 2026 Angular 17 Pro Admin Template with Clean Minimal Design.
 * [spike-angular-pro-starter ![GitHub Repo Stars](https://img.shields.io/github/stars/juwairiyah09/spike-angular-pro-starter) ![GitHub last commit](https://img.shields.io/github/last-commit/juwairiyah09/spike-angular-pro-starter)](https://github.com/juwairiyah09/spike-angular-pro-starter) - Spike Angular 2026: Ultimate Free Material Admin Template for Modern Dashboards.
+* [appblink ![GitHub Repo Stars](https://img.shields.io/github/stars/workern/appblink-workspace) ![GitHub last commit](https://img.shields.io/github/last-commit/workern/appblink-workspace)](https://github.com/workern/appblink-workspace) - Production-ready Angular + Flutter + Firebase monorepo starter. Web, mobile & backend in one repo.
 
 ### Paid Templates
 

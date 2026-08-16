@@ -169,10 +169,11 @@ Custom timers, timelines, and task scheduling.
 - [GMBenchmark ![GitHub Repo Stars](https://img.shields.io/github/stars/DragoniteSpam/GMBenchmark) ![GitHub last commit](https://img.shields.io/github/last-commit/DragoniteSpam/GMBenchmark)](https://github.com/DragoniteSpam/GMBenchmark) - A tool to benchmark GML code.
 - [Figgy ![GitHub Repo Stars](https://img.shields.io/github/stars/glebtsereteli/Figgy) ![GitHub last commit](https://img.shields.io/github/last-commit/glebtsereteli/Figgy)](https://github.com/glebtsereteli/Figgy) - Centralized and persistent live configs for seamless game tuning and balancing.
 - [RenderStack ![GitHub Repo Stars](https://img.shields.io/github/stars/FoxyOfJungle/RenderStack) ![GitHub last commit](https://img.shields.io/github/last-commit/FoxyOfJungle/RenderStack)](https://github.com/FoxyOfJungle/RenderStack) - Organize your game's rendering into a customizable order.
-- [GMLiteSearch ![GitHub Repo Stars](https://img.shields.io/github/stars/erkan612/GMLiteSearch) ![GitHub last commit](https://img.shields.io/github/last-commit/erkan612/GMLiteSearch)](https://github.com/erkan612/GMLiteSearch) - Fast, flexible full‑text search for GameMaker. Built for small to medium datasets (10k‑50k+ docs) with real‑time indexing, fuzzy search, n‑grams, BM25/TF‑IDF scoring, and persistence.
+- [GMLiteSearch ![GitHub Repo Stars](https://img.shields.io/github/stars/erkan612/GMLiteSearch) ![GitHub last commit](https://img.shields.io/github/last-commit/erkan612/GMLiteSearch)](https://github.com/erkan612/GMLiteSearch) - Fast, flexible full‑text search for GameMaker. Built for small to medium datasets (10k��50k+ docs) with real‑time indexing, fuzzy search, n‑grams, BM25/TF‑IDF scoring, and persistence.
 - [Iota ![GitHub Repo Stars](https://img.shields.io/github/stars/JujuAdams/iota) ![GitHub last commit](https://img.shields.io/github/last-commit/JujuAdams/iota)](https://github.com/JujuAdams/iota) - Lightweight timestep library.
 - [GMVex ![GitHub Repo Stars](https://img.shields.io/github/stars/erkan612/GMVex) ![GitHub last commit](https://img.shields.io/github/last-commit/erkan612/GMVex)](https://github.com/erkan612/GMVex) - Vector graphics framework with SVG support, TrueType font rendering, path boolean operations and fill/stroke rendering.
 - [RunGML ![GitHub Repo Stars](https://img.shields.io/github/stars/sdelaughter/RunGML) ![GitHub last commit](https://img.shields.io/github/last-commit/sdelaughter/RunGML)](https://github.com/sdelaughter/RunGML) - A runtime scripting language with a Lisp-like syntax.  Facilitates modding support via included JSON files, and debugging/live coding via an in-game console.
+- [Tweeny ![GitHub Repo Stars](https://img.shields.io/github/stars/Kruger0/Tweeny) ![GitHub last commit](https://img.shields.io/github/last-commit/Kruger0/Tweeny)](https://github.com/Kruger0/Tweeny) - A fire-and-forget tweening library with support for animation curves and ease functions
 
 ## Tools
 
@@ -261,7 +262,7 @@ Things that work with project files or GameMaker itself rather than being someth
 - [gms2-mofile ![GitHub Repo Stars](https://img.shields.io/github/stars/pmarincak/gms2-mofile) ![GitHub last commit](https://img.shields.io/github/last-commit/pmarincak/gms2-mofile)](https://github.com/pmarincak/gms2-mofile) - Mofile reader used for localization.
 - [cmnLoc](https://yellowafterlife.itch.io/gamemaker-cmn-loc) - Localization library with a text extractor, short syntax, and ICU/pluralization support. 💸
 - [MythLoco](https://mythloco.co.uk) - A localization system with a web-based strings editor.
-- [Krug's Localize System](https://krug-dev.itch.io/localize-system-for-gamemaker) - A localization system with real-time Google Sheets API synchronization.
+- [Krug's Localize System ![GitHub Repo Stars](https://img.shields.io/github/stars/Kruger0/Localize) ![GitHub last commit](https://img.shields.io/github/last-commit/Kruger0/Localize)](https://github.com/Kruger0/Localize) - A localization system with real-time Google Sheets API synchronization.
 
 ## Physics
 
