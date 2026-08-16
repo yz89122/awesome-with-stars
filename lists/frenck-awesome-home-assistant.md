@@ -270,7 +270,7 @@ _Pull your solar inverter, smart meter, home battery, or utility tariff into Hom
 - [Dynamic Energy Cost ![GitHub Repo Stars](https://img.shields.io/github/stars/martinarva/dynamic_energy_cost) ![GitHub last commit](https://img.shields.io/github/last-commit/martinarva/dynamic_energy_cost)](https://github.com/martinarva/dynamic_energy_cost) - Tracks real-time and cumulative energy cost against a dynamic price feed like Nord Pool or EPEX (189★).
 - [Energi Data Service ![GitHub Repo Stars](https://img.shields.io/github/stars/MTrab/energidataservice) ![GitHub last commit](https://img.shields.io/github/last-commit/MTrab/energidataservice)](https://github.com/MTrab/energidataservice) - Fetches Danish electricity spot prices from the Energi Data Service API for use in price-aware automations (275★).
 
-### �� Cameras & video
+### 📹 Cameras & video
 
 _Pair specific camera brands and video sources that Home Assistant does not support out of the box._
 
@@ -448,7 +448,7 @@ _Cards that change where and how other cards appear: stack, fold, show condition
 - [Custom Card Features ![GitHub Repo Stars](https://img.shields.io/github/stars/Nerwyn/custom-card-features) ![GitHub last commit](https://img.shields.io/github/last-commit/Nerwyn/custom-card-features)](https://github.com/Nerwyn/custom-card-features) - Adds buttons, dropdowns, sliders, spinboxes, selectors, and toggles you can attach to tile cards to call any service (426★).
 - [Custom Sidebar ![GitHub Repo Stars](https://img.shields.io/github/stars/elchininet/custom-sidebar) ![GitHub last commit](https://img.shields.io/github/last-commit/elchininet/custom-sidebar)](https://github.com/elchininet/custom-sidebar) - Personalise the sidebar per user or device, hide pages, reorder them, or restyle the look (278★).
 - [Paper Buttons Row ![GitHub Repo Stars](https://img.shields.io/github/stars/jcwillox/lovelace-paper-buttons-row) ![GitHub last commit](https://img.shields.io/github/last-commit/jcwillox/lovelace-paper-buttons-row)](https://github.com/jcwillox/lovelace-paper-buttons-row) - Highly configurable button rows that can call actions, fire haptics, and restyle per state (359★).
-- [Streamline Card ![GitHub Repo Stars](https://img.shields.io/github/stars/brunosabot/streamline-card) ![GitHub last commit](https://img.shields.io/github/last-commit/brunosabot/streamline-card)](https://github.com/brunosabot/streamline-card) - Define a card template once and reuse it across the dashboard with different entities, no copy-paste YAML (258��).
+- [Streamline Card ![GitHub Repo Stars](https://img.shields.io/github/stars/brunosabot/streamline-card) ![GitHub last commit](https://img.shields.io/github/last-commit/brunosabot/streamline-card)](https://github.com/brunosabot/streamline-card) - Define a card template once and reuse it across the dashboard with different entities, no copy-paste YAML (258★).
 
 ### 📈 Charts & graphs
 
