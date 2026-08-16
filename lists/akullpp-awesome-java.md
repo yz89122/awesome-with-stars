@@ -215,7 +215,7 @@ _Libraries to integrate or use cloud-specific features._
 
 > **[Google Cloud Client Libraries ![GitHub Repo Stars](https://img.shields.io/github/stars/googleapis/google-cloud-java) ![GitHub last commit](https://img.shields.io/github/last-commit/googleapis/google-cloud-java)](https://github.com/googleapis/google-cloud-java)** <kbd>★ 2.1k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Client libraries for accessing Google Cloud services from Java applications.
 
-> **[Java Operator SDK ![GitHub Repo Stars](https://img.shields.io/github/stars/operator-framework/java-operator-sdk) ![GitHub last commit](https://img.shields.io/github/last-commit/operator-framework/java-operator-sdk)](https://github.com/operator-framework/java-operator-sdk)** <kbd>★ 937</kbd> <kbd>Apache-2.0</kbd> ��<br>SDK for implementing Kubernetes operators in Java.
+> **[Java Operator SDK ![GitHub Repo Stars](https://img.shields.io/github/stars/operator-framework/java-operator-sdk) ![GitHub last commit](https://img.shields.io/github/last-commit/operator-framework/java-operator-sdk)](https://github.com/operator-framework/java-operator-sdk)** <kbd>★ 937</kbd> <kbd>Apache-2.0</kbd> 🟢<br>SDK for implementing Kubernetes operators in Java.
 
 > **[Kubernetes Java Client ![GitHub Repo Stars](https://img.shields.io/github/stars/kubernetes-client/java) ![GitHub last commit](https://img.shields.io/github/last-commit/kubernetes-client/java)](https://github.com/kubernetes-client/java)** <kbd>★ 4.0k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Official Java client for the Kubernetes API.
 
@@ -619,7 +619,7 @@ _Libraries that help to realize the [Inversion of Control](https://en.wikipedia.
 
 > **[Apache DeltaSpike ![GitHub Repo Stars](https://img.shields.io/github/stars/apache/deltaspike) ![GitHub last commit](https://img.shields.io/github/last-commit/apache/deltaspike)](https://github.com/apache/deltaspike)** <kbd>★ 154</kbd> <kbd>Apache-2.0</kbd> 🟢<br>CDI extension framework.
 
-> **[Avaje Inject ![GitHub Repo Stars](https://img.shields.io/github/stars/avaje/avaje-inject) ![GitHub last commit](https://img.shields.io/github/last-commit/avaje/avaje-inject)](https://github.com/avaje/avaje-inject)** <kbd>��� 314</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Microservice-focused compile-time injection framework without reflection.
+> **[Avaje Inject ![GitHub Repo Stars](https://img.shields.io/github/stars/avaje/avaje-inject) ![GitHub last commit](https://img.shields.io/github/last-commit/avaje/avaje-inject)](https://github.com/avaje/avaje-inject)** <kbd>★ 314</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Microservice-focused compile-time injection framework without reflection.
 
 > **[Dagger ![GitHub Repo Stars](https://img.shields.io/github/stars/google/dagger) ![GitHub last commit](https://img.shields.io/github/last-commit/google/dagger)](https://github.com/google/dagger)** <kbd>★ 17.7k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Compile-time injection framework without reflection.
 
@@ -769,7 +769,7 @@ _Libraries and SDKs for evaluating and managing feature flags._
 
 > **[OpenFeature Java SDK ![GitHub Repo Stars](https://img.shields.io/github/stars/open-feature/java-sdk) ![GitHub last commit](https://img.shields.io/github/last-commit/open-feature/java-sdk)](https://github.com/open-feature/java-sdk)** <kbd>★ 127</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Vendor-neutral API for evaluating feature flags in Java applications.
 
-> **[Rollgate Java SDK ![GitHub Repo Stars](https://img.shields.io/github/stars/rollgate/sdks) ![GitHub last commit](https://img.shields.io/github/last-commit/rollgate/sdks)](https://github.com/rollgate/sdks/tree/main/packages/sdk-java)** <kbd>★ 3</kbd> <kbd>MIT</kbd> ����<br>Java SDK for evaluating Rollgate feature flags with real-time configuration updates.
+> **[Rollgate Java SDK ![GitHub Repo Stars](https://img.shields.io/github/stars/rollgate/sdks) ![GitHub last commit](https://img.shields.io/github/last-commit/rollgate/sdks)](https://github.com/rollgate/sdks/tree/main/packages/sdk-java)** <kbd>★ 3</kbd> <kbd>MIT</kbd> 🟢<br>Java SDK for evaluating Rollgate feature flags with real-time configuration updates.
 
 > **[Togglz ![GitHub Repo Stars](https://img.shields.io/github/stars/togglz/togglz) ![GitHub last commit](https://img.shields.io/github/last-commit/togglz/togglz)](https://github.com/togglz/togglz)** <kbd>★ 1.0k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Implementation of the Feature Toggles pattern.
 
