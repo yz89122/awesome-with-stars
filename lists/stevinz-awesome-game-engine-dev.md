@@ -254,7 +254,7 @@ _Info on topics necessary for designing and developing game engines._
 - Developer Portals
     - 🌎 [Game Developer](https://www.gamedeveloper.com) - Industry blogs, events, jobs, updates and more. Formerly _Gamasutra_.
     - 🌎 [GameDev.net](https://www.gamedev.net/) - Game dev forums, tutorials, blogs, projects, portfolios, and news.
-    - 🌎 [GameFromScratch.com](https://gamefromscratch.com) - Game dev news, tutorials and much more.
+    - ��� [GameFromScratch.com](https://gamefromscratch.com) - Game dev news, tutorials and much more.
     - 🌎 [itch.io](https://itch.io) - Game dev resources and platform to showcase / promote / buy & sell games.
 - Education Portals
     - 🌎 [Lazy Foo' Tutorials](https://lazyfoo.net/tutorials/SDL/) - Beginning game programming with SDL.
@@ -372,7 +372,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Kazmath ![GitHub Repo Stars](https://img.shields.io/github/stars/Kazade/kazmath) ![GitHub last commit](https://img.shields.io/github/last-commit/Kazade/kazmath)](https://github.com/Kazade/kazmath) - Math library targeted at games.
     - 🎉 [Raymath ![GitHub Repo Stars](https://img.shields.io/github/stars/raysan5/raylib) ![GitHub last commit](https://img.shields.io/github/last-commit/raysan5/raylib)](https://github.com/raysan5/raylib/blob/master/src/raymath.h) - Math library included in the _RayLib_ game framework.
 - C: Network
-    - 🎉 [ENet ![GitHub Repo Stars](https://img.shields.io/github/stars/zpl-c/enet) ![GitHub last commit](https://img.shields.io/github/last-commit/zpl-c/enet)](https://github.com/zpl-c/enet) - Simple, lightweight and reliable UDP networking library.
+    - �� [ENet ![GitHub Repo Stars](https://img.shields.io/github/stars/zpl-c/enet) ![GitHub last commit](https://img.shields.io/github/last-commit/zpl-c/enet)](https://github.com/zpl-c/enet) - Simple, lightweight and reliable UDP networking library.
     - 🎉 [librg ![GitHub Repo Stars](https://img.shields.io/github/stars/zpl-c/librg) ![GitHub last commit](https://img.shields.io/github/last-commit/zpl-c/librg)](https://github.com/zpl-c/librg) - Middleware between networking / file-streaming libraries and app logic.
     - 🎉 [netcode ![GitHub Repo Stars](https://img.shields.io/github/stars/mas-bandwidth/netcode) ![GitHub last commit](https://img.shields.io/github/last-commit/mas-bandwidth/netcode)](https://github.com/mas-bandwidth/netcode) - Secure client/server protocol for multiplayer games built on top of UDP.
 - C: Physics

@@ -110,6 +110,7 @@ More information in CLAUDE.md and llms.txt.
 * [AudioNodes](https://audionodes.com/) - Produces music with mixing, effects, MIDI and synthesis.
 * [Cider](https://cider.sh/) - Streams Apple Music. ![paid](https://github.com/0pandadev/awesome-windows/raw/main/assets/paid.svg)
 * [Dopamine](https://digimezzo.github.io/site/) - Plays and organizes music. [![Open-Source Software][oss]](https://github.com/digimezzo/dopamine)
+* [DuckDeck](https://duckdeck.app/) - Global hotkeys for your music volume that work inside fullscreen games, with automatic ducking when someone talks in Discord. ![paid]
 * [FL Studio](https://www.image-line.com/) - Complete digital audio workstation (DAW) for composing, arranging, recording, and mastering. ![paid]
 * [FlexASIO](https://flexasio.com/) - A universal ASIO driver that delivers low-latency, high-quality sound. [![Open-Source Software][oss]](https://github.com/dechamps/FlexASIO)
 * [Foobar2000](https://www.foobar2000.org/) - Plays audio with customization options.
@@ -253,7 +254,8 @@ More information in CLAUDE.md and llms.txt.
 
 * [Everything](https://www.voidtools.com/) - Instant file search utility.
 * [File Converter](https://file-converter.io/) - A simple tool to convert and compress files using the context menu in windows explorer. [![Open-Source Software][oss]](https://github.com/Tichau/FileConverter) 
-* [File pilot](https://filepilot.tech/) - Next-gen file explorer. Engineered entirely from scratch for light-speed performance, featuring a modern and robust interface.  
+* [File pilot](https://filepilot.tech/) - Next-gen file explorer. Engineered entirely from scratch for light-speed performance, featuring a modern and robust interface.
+* [File Renamer X](https://filerenamerx.com/) - Fast batch file renamer supporting stackable actions, metadata, Exif data, regex, sequential numbering, and more. ![paid]
 * [FileOptimizer](https://nikkhokkho.sourceforge.io/static.php?page=FileOptimizer) - Lossless file size optimizer for multiple formats.
 * [FileZilla](https://filezilla-project.org/) - FTP, FTPS and SFTP client. [![Open-Source Software][oss]](https://download.filezilla-project.org/client/)
 * [FreeFileSync](https://www.freefilesync.org/) - File and folder backup with multiple sync modes.
