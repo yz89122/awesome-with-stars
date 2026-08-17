@@ -1200,7 +1200,7 @@ _Exploring specialty game engine / game development topics and features._
     - 🎉 [three-bvh-csg ![GitHub Repo Stars](https://img.shields.io/github/stars/gkjohnson/three-bvh-csg) ![GitHub last commit](https://img.shields.io/github/last-commit/gkjohnson/three-bvh-csg)](https://github.com/gkjohnson/three-bvh-csg) - Fast and dynamic CSG on top of three-mesh-bvh.
     - 🎉 [three-csgmesh ![GitHub Repo Stars](https://img.shields.io/github/stars/manthrax/THREE-CSGMesh) ![GitHub last commit](https://img.shields.io/github/last-commit/manthrax/THREE-CSGMesh)](https://github.com/manthrax/THREE-CSGMesh) - Conversion of the csg.js library for use with Three.js.
 - Meshes
-    - ���� [Geometry, Surfaces, Curves, Polyhedra](https://paulbourke.net/geometry/) - Geometry topics including meshes, shapes, textures.
+    - 📚 [Geometry, Surfaces, Curves, Polyhedra](https://paulbourke.net/geometry/) - Geometry topics including meshes, shapes, textures.
     - 📚 [Mesh Transforms](https://ciechanow.ski/mesh-transforms/) - _Apple_'s private API for manipulation of UIView meshes. [[Source ![GitHub Repo Stars](https://img.shields.io/github/stars/olegtyshcneko/CAMeshTransform) ![GitHub last commit](https://img.shields.io/github/last-commit/olegtyshcneko/CAMeshTransform)](https://github.com/olegtyshcneko/CAMeshTransform)]
 - Smoothing
     - 📚 [Laplacian Smoothing](http://rodolphe-vaillant.fr/entry/70/laplacian-smoothing-c-code-to-smooth-a-mesh) - Draft notes with C++ code for laplacian smoothing of meshes.
