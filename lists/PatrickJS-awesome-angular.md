@@ -705,6 +705,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-umami ![GitHub Repo Stars](https://img.shields.io/github/stars/mitsuru17/ngx-umami) ![GitHub last commit](https://img.shields.io/github/last-commit/mitsuru17/ngx-umami)](https://github.com/mitsuru17/ngx-umami) - Angular integration for [Umami Analytics](https://umami.is/) — a lightweight, privacy‑first tracking solution tailored for Angular applications.
 * [takt-angular ![GitHub Repo Stars](https://img.shields.io/github/stars/vskstudio/takt-angular) ![GitHub last commit](https://img.shields.io/github/last-commit/vskstudio/takt-angular)](https://github.com/vskstudio/takt-angular) - Idiomatic Angular wrapper for [Takt ![GitHub Repo Stars](https://img.shields.io/github/stars/vskstudio/takt-core) ![GitHub last commit](https://img.shields.io/github/last-commit/vskstudio/takt-core)](https://github.com/vskstudio/takt-core) privacy-friendly analytics.
 * [inspect-ng-collector ![GitHub Repo Stars](https://img.shields.io/github/stars/oneteme/inspect-ng-collector) ![GitHub last commit](https://img.shields.io/github/last-commit/oneteme/inspect-ng-collector)](https://github.com/oneteme/inspect-ng-collector) - A comprehensive front-end telemetry and monitoring library for Angular applications.
+* [ngx-piano](https://gitlab.com/SNCF/ngx-piano) - This library integrates [Piano Analytics](https://www.piano.io/) into Angular applications.
 
 ### Code Analysis
 
