@@ -637,6 +637,7 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 - [famiu/bufdelete.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/famiu/bufdelete.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/famiu/bufdelete.nvim)](https://github.com/famiu/bufdelete.nvim) - Delete buffers without losing your window layout.
 - [wsdjeg/bufdel.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/wsdjeg/bufdel.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/wsdjeg/bufdel.nvim)](https://github.com/wsdjeg/bufdel.nvim) - Delete buffers without changing windows layout.
 - [m-demare/attempt.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/m-demare/attempt.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/m-demare/attempt.nvim)](https://github.com/m-demare/attempt.nvim) - Manage and run temporary buffers.
+- [iago-lito/bufmarks.nvim](https://codeberg.org/iago-lito/bufmarks.nvim) - Navigation method inspired from Harpoon, but indexing buffers with "mark"-like keys instead of an ordered list.
 <!--lint disable double-link -->
 [**⬆ back to top**](#contents)
 <!--lint enable double-link -->
@@ -1552,6 +1553,7 @@ then it is not supported:
 - [ntk148v/yankdown.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/ntk148v/yankdown.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/ntk148v/yankdown.nvim)](https://github.com/ntk148v/yankdown.nvim) - Paste rich clipboard content as clean Markdown.
 - [Chiarandini/smart-enter.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/Chiarandini/smart-enter.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/Chiarandini/smart-enter.nvim)](https://github.com/Chiarandini/smart-enter.nvim) - Context-aware newline that continues LaTeX environments, Markdown lists, and more.
 - [yaocccc/visual-multi.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/yaocccc/visual-multi.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/yaocccc/visual-multi.nvim)](https://github.com/yaocccc/visual-multi.nvim) - A fast, core-focused multi-cursor plugin written in Lua with Normal, Insert, and Extend modes.
+- [iago-lito/lastput.nvim](https://codeberg.org/iago-lito/lastput.nvim) - One mapping to (re)select the last piece of text you've pasted.
 
 ### Comment
 

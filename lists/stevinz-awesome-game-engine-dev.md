@@ -229,6 +229,16 @@ _Info on topics necessary for designing and developing game engines._
     - 🌎 [EA Technology](https://www.ea.com/technology/research) - Research on game tech including info on the _Frostbite_ engine.
     - 🌎 [tri-Ace Research](https://research.tri-ace.com/) - Publications from the Research and Development Department at _tri-Ace Inc_.
     - 🌎 [Ubisoft Technology](https://www.ubisoft.com/en-us/company/how-we-make-games/technology) - Learn about in-house tech including the _Anvil_ and _Snowdrop_ engines.
+- Developer Blogs
+    - 📚 [Bits, Pixels, Cycles and More](https://zeux.io/) - Graphics, optimization and low-level engine programming.
+    - 📚 [Bitsquid Development Blog](https://bitsquid.blogspot.com/) - Archived engine architecture, rendering and tools articles.
+    - 📚 [cybereality](https://cybereality.com/) - Custom 3D engine development, graphics and game technology.
+    - 📚 [Digital Grove](https://www.dgtlgrove.com/) - Low-level programming, tools, UI, debugging and game engines.
+    - 📚 [Harold Serrano](https://www.haroldserrano.com/blog) - Engine architecture, graphics and building the _Untold Engine_.
+    - 📚 [Our Machinery Blog Archive](https://ruby0x1.github.io/machinery_blog_archive/) - Engine architecture, rendering, ECS and tooling.
+    - 📚 [The Danger Zone](https://therealmjp.github.io/posts/) - Real-time rendering, GPU programming and graphics APIs.
+    - 📚 [The ryg blog](https://fgiesen.wordpress.com/) - Low-level programming, graphics, compression and computer architecture.
+    - 📚 [Wicked Engine Devblog](https://turanszkij.wordpress.com/category/devblog/) - Rendering, graphics and engine development in _Wicked Engine_.
 - Education Portals
     - 📚 [3D Game Engine Programming](https://www.3dgep.com) - Articles on graphics, physics, AI, I/O and more.
 
@@ -323,7 +333,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Entrypoint ![GitHub Repo Stars](https://img.shields.io/github/stars/jimon/entrypoint) ![GitHub last commit](https://img.shields.io/github/last-commit/jimon/entrypoint)](https://github.com/jimon/entrypoint) - Lightweight entry point for games.
     - ⭐ [FWK ![GitHub Repo Stars](https://img.shields.io/github/stars/r-lyeh/FWK) ![GitHub last commit](https://img.shields.io/github/last-commit/r-lyeh/FWK)](https://github.com/r-lyeh/FWK) - 3D game framework.
     - 🎉 [Gunslinger ![GitHub Repo Stars](https://img.shields.io/github/stars/MrFrenik/gunslinger) ![GitHub last commit](https://img.shields.io/github/last-commit/MrFrenik/gunslinger)](https://github.com/MrFrenik/gunslinger) - Header-only C99 framework for multimedia apps.
-    - �� [RayLib ![GitHub Repo Stars](https://img.shields.io/github/stars/raysan5/raylib) ![GitHub last commit](https://img.shields.io/github/last-commit/raysan5/raylib)](https://github.com/raysan5/raylib) 🔥 - Simple and easy-to-use library to enjoy 2D/3D videogame programming.
+    - 🎉 [RayLib ![GitHub Repo Stars](https://img.shields.io/github/stars/raysan5/raylib) ![GitHub last commit](https://img.shields.io/github/last-commit/raysan5/raylib)](https://github.com/raysan5/raylib) 🔥 - Simple and easy-to-use library to enjoy 2D/3D videogame programming.
 - C: Geometry
     - 🎉 [Blob ![GitHub Repo Stars](https://img.shields.io/github/stars/BlockoS/blob) ![GitHub last commit](https://img.shields.io/github/last-commit/BlockoS/blob)](https://github.com/BlockoS/blob) - Single-header implementation of a contour tracing algorithm.
     - 🎉 [Marching Squares ![GitHub Repo Stars](https://img.shields.io/github/stars/prideout/par) ![GitHub last commit](https://img.shields.io/github/last-commit/prideout/par)](https://github.com/prideout/par/blob/master/par_msquares.h) - Convert images into triangles. [[Info](https://prideout.net/marching-squares)]
@@ -1037,7 +1047,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [ursina ![GitHub Repo Stars](https://img.shields.io/github/stars/pokepetter/ursina) ![GitHub last commit](https://img.shields.io/github/last-commit/pokepetter/ursina)](https://github.com/pokepetter/ursina) - Game engine powered by Python and _Panda3D_.
 - Python: Game Framework
     - 🎉 [Arcade ![GitHub Repo Stars](https://img.shields.io/github/stars/pythonarcade/arcade) ![GitHub last commit](https://img.shields.io/github/last-commit/pythonarcade/arcade)](https://github.com/pythonarcade/arcade) - Easy to use library for creating 2D arcade games.
-    - 🎉 [Panda3D ![GitHub Repo Stars](https://img.shields.io/github/stars/panda3d/panda3d) ![GitHub last commit](https://img.shields.io/github/last-commit/panda3d/panda3d)](https://github.com/panda3d/panda3d) - Powerful, mature game engine developed by _Disney_ and _Carnegie Mellon_. [[Website](https://www.panda3d.org)]
+    - 🎉 [Panda3D ![GitHub Repo Stars](https://img.shields.io/github/stars/panda3d/panda3d) ![GitHub last commit](https://img.shields.io/github/last-commit/panda3d/panda3d)](https://github.com/panda3d/panda3d) - Powerful, mature game engine developed by _Disney_ and _Carnegie Mellon_.
     - 🔒 [Pygame ![GitHub Repo Stars](https://img.shields.io/github/stars/pygame/pygame) ![GitHub last commit](https://img.shields.io/github/last-commit/pygame/pygame)](https://github.com/pygame/pygame) - Game & multimedia app framework, built on _SDL_.
     - 🎉 [Pygcurse ![GitHub Repo Stars](https://img.shields.io/github/stars/asweigart/pygcurse) ![GitHub last commit](https://img.shields.io/github/last-commit/asweigart/pygcurse)](https://github.com/asweigart/pygcurse) - [Curses-like](https://en.wikipedia.org/wiki/Curses_%28programming_library%29) library for text adventures / roguelikes. [[Website](http://inventwithpython.com/pygcurse/)]
 - Python: Gui
@@ -1105,7 +1115,7 @@ _Language specific game engine development libraries / frameworks / code._
 - Swift: Game Framework
     - 🎉 [GateEngine ![GitHub Repo Stars](https://img.shields.io/github/stars/STREGAsGate/GateEngine) ![GitHub last commit](https://img.shields.io/github/last-commit/STREGAsGate/GateEngine)](https://github.com/STREGAsGate/GateEngine) - Cross-platform game engine that allows you to build 2D and 3D games.
     - 🎉 [Glide ![GitHub Repo Stars](https://img.shields.io/github/stars/cocoatoucher/Glide) ![GitHub last commit](https://img.shields.io/github/last-commit/cocoatoucher/Glide)](https://github.com/cocoatoucher/Glide) - Engine for making 2D games with practical examples and tutorials.
-    - 🎉 [Imagine Engine ![GitHub Repo Stars](https://img.shields.io/github/stars/JohnSundell/ImagineEngine) ![GitHub last commit](https://img.shields.io/github/last-commit/JohnSundell/ImagineEngine)](https://github.com/JohnSundell/ImagineEngine) - Fast 2D game engine for _Apple_'s platforms.
+    - 🎉 [Imagine Engine ![GitHub Repo Stars](https://img.shields.io/github/stars/JohnSundell/ImagineEngine) ![GitHub last commit](https://img.shields.io/github/last-commit/JohnSundell/ImagineEngine)](https://github.com/JohnSundell/ImagineEngine) - Fast 2D game engine for Apple's platforms.
     - 🎉 [Iris ![GitHub Repo Stars](https://img.shields.io/github/stars/Chandram-Dutta/Iris) ![GitHub last commit](https://img.shields.io/github/last-commit/Chandram-Dutta/Iris)](https://github.com/Chandram-Dutta/Iris) - Minimal 2D game engine in Swift.
     - 🎉 [OctopusKit ![GitHub Repo Stars](https://img.shields.io/github/stars/invadingoctopus/octopuskit) ![GitHub last commit](https://img.shields.io/github/last-commit/invadingoctopus/octopuskit)](https://github.com/invadingoctopus/octopuskit) - 2D ECS game engine for iOS, macOS, tvOS.
 - Swift: Gui
@@ -1200,7 +1210,7 @@ _Exploring specialty game engine / game development topics and features._
     - 🎉 [three-bvh-csg ![GitHub Repo Stars](https://img.shields.io/github/stars/gkjohnson/three-bvh-csg) ![GitHub last commit](https://img.shields.io/github/last-commit/gkjohnson/three-bvh-csg)](https://github.com/gkjohnson/three-bvh-csg) - Fast and dynamic CSG on top of three-mesh-bvh.
     - 🎉 [three-csgmesh ![GitHub Repo Stars](https://img.shields.io/github/stars/manthrax/THREE-CSGMesh) ![GitHub last commit](https://img.shields.io/github/last-commit/manthrax/THREE-CSGMesh)](https://github.com/manthrax/THREE-CSGMesh) - Conversion of the csg.js library for use with Three.js.
 - Meshes
-    - ���� [Geometry, Surfaces, Curves, Polyhedra](https://paulbourke.net/geometry/) - Geometry topics including meshes, shapes, textures.
+    - 📚 [Geometry, Surfaces, Curves, Polyhedra](https://paulbourke.net/geometry/) - Geometry topics including meshes, shapes, textures.
     - 📚 [Mesh Transforms](https://ciechanow.ski/mesh-transforms/) - _Apple_'s private API for manipulation of UIView meshes. [[Source ![GitHub Repo Stars](https://img.shields.io/github/stars/olegtyshcneko/CAMeshTransform) ![GitHub last commit](https://img.shields.io/github/last-commit/olegtyshcneko/CAMeshTransform)](https://github.com/olegtyshcneko/CAMeshTransform)]
 - Smoothing
     - 📚 [Laplacian Smoothing](http://rodolphe-vaillant.fr/entry/70/laplacian-smoothing-c-code-to-smooth-a-mesh) - Draft notes with C++ code for laplacian smoothing of meshes.
