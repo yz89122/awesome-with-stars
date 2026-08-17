@@ -294,7 +294,7 @@ _Language specific game engine development libraries / frameworks / code._
 - C: Entity Component System
     - 🎉 [Flecs ![GitHub Repo Stars](https://img.shields.io/github/stars/SanderMertens/flecs) ![GitHub last commit](https://img.shields.io/github/last-commit/SanderMertens/flecs)](https://github.com/SanderMertens/flecs) - Fast and lightweight entity component system in C99.
 - C: File Formats
-    - ��� [Assimp ![GitHub Repo Stars](https://img.shields.io/github/stars/assimp/assimp) ![GitHub last commit](https://img.shields.io/github/last-commit/assimp/assimp)](https://github.com/assimp/assimp) - Open Asset Importer Library. Loads 40+ 3D file formats.
+    - 🎉 [Assimp ![GitHub Repo Stars](https://img.shields.io/github/stars/assimp/assimp) ![GitHub last commit](https://img.shields.io/github/last-commit/assimp/assimp)](https://github.com/assimp/assimp) - Open Asset Importer Library. Loads 40+ 3D file formats.
     - 🎉 [cgltf ![GitHub Repo Stars](https://img.shields.io/github/stars/jkuhlmann/cgltf) ![GitHub last commit](https://img.shields.io/github/last-commit/jkuhlmann/cgltf)](https://github.com/jkuhlmann/cgltf) - Single-file glTF 2.0 loader and writer in C99.
     - ⭐ [dr_libs ![GitHub Repo Stars](https://img.shields.io/github/stars/mackron/dr_libs) ![GitHub last commit](https://img.shields.io/github/last-commit/mackron/dr_libs)](https://github.com/mackron/dr_libs) - Single-file audio decoding libraries.
     - 🎉 [Libspng ![GitHub Repo Stars](https://img.shields.io/github/stars/randy408/libspng) ![GitHub last commit](https://img.shields.io/github/last-commit/randy408/libspng)](https://github.com/randy408/libspng) - Simple, modern libpng alternative.
