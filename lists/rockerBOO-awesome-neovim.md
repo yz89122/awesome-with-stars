@@ -1751,7 +1751,7 @@ then it is not supported:
 - [jerrywang1981/keystroke.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/jerrywang1981/keystroke.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/jerrywang1981/keystroke.nvim)](https://github.com/jerrywang1981/keystroke.nvim) - Play sounds and do other things as you type.
 - [cxwx/keywound.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/cxwx/keysound.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/cxwx/keysound.nvim)](https://github.com/cxwx/keysound.nvim) - Play a sound on each keystroke, supports customizable sounds.
 <!--lint disable double-link -->
-[**⬆ back to top**](#contents)
+[**��� back to top**](#contents)
 <!--lint enable double-link -->
 
 ## Workflow

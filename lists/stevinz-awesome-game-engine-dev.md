@@ -323,7 +323,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Entrypoint ![GitHub Repo Stars](https://img.shields.io/github/stars/jimon/entrypoint) ![GitHub last commit](https://img.shields.io/github/last-commit/jimon/entrypoint)](https://github.com/jimon/entrypoint) - Lightweight entry point for games.
     - ⭐ [FWK ![GitHub Repo Stars](https://img.shields.io/github/stars/r-lyeh/FWK) ![GitHub last commit](https://img.shields.io/github/last-commit/r-lyeh/FWK)](https://github.com/r-lyeh/FWK) - 3D game framework.
     - 🎉 [Gunslinger ![GitHub Repo Stars](https://img.shields.io/github/stars/MrFrenik/gunslinger) ![GitHub last commit](https://img.shields.io/github/last-commit/MrFrenik/gunslinger)](https://github.com/MrFrenik/gunslinger) - Header-only C99 framework for multimedia apps.
-    - �� [RayLib ![GitHub Repo Stars](https://img.shields.io/github/stars/raysan5/raylib) ![GitHub last commit](https://img.shields.io/github/last-commit/raysan5/raylib)](https://github.com/raysan5/raylib) 🔥 - Simple and easy-to-use library to enjoy 2D/3D videogame programming.
+    - 🎉 [RayLib ![GitHub Repo Stars](https://img.shields.io/github/stars/raysan5/raylib) ![GitHub last commit](https://img.shields.io/github/last-commit/raysan5/raylib)](https://github.com/raysan5/raylib) 🔥 - Simple and easy-to-use library to enjoy 2D/3D videogame programming.
 - C: Geometry
     - 🎉 [Blob ![GitHub Repo Stars](https://img.shields.io/github/stars/BlockoS/blob) ![GitHub last commit](https://img.shields.io/github/last-commit/BlockoS/blob)](https://github.com/BlockoS/blob) - Single-header implementation of a contour tracing algorithm.
     - 🎉 [Marching Squares ![GitHub Repo Stars](https://img.shields.io/github/stars/prideout/par) ![GitHub last commit](https://img.shields.io/github/last-commit/prideout/par)](https://github.com/prideout/par/blob/master/par_msquares.h) - Convert images into triangles. [[Info](https://prideout.net/marching-squares)]
@@ -1200,7 +1200,7 @@ _Exploring specialty game engine / game development topics and features._
     - 🎉 [three-bvh-csg ![GitHub Repo Stars](https://img.shields.io/github/stars/gkjohnson/three-bvh-csg) ![GitHub last commit](https://img.shields.io/github/last-commit/gkjohnson/three-bvh-csg)](https://github.com/gkjohnson/three-bvh-csg) - Fast and dynamic CSG on top of three-mesh-bvh.
     - 🎉 [three-csgmesh ![GitHub Repo Stars](https://img.shields.io/github/stars/manthrax/THREE-CSGMesh) ![GitHub last commit](https://img.shields.io/github/last-commit/manthrax/THREE-CSGMesh)](https://github.com/manthrax/THREE-CSGMesh) - Conversion of the csg.js library for use with Three.js.
 - Meshes
-    - ���� [Geometry, Surfaces, Curves, Polyhedra](https://paulbourke.net/geometry/) - Geometry topics including meshes, shapes, textures.
+    - 📚 [Geometry, Surfaces, Curves, Polyhedra](https://paulbourke.net/geometry/) - Geometry topics including meshes, shapes, textures.
     - 📚 [Mesh Transforms](https://ciechanow.ski/mesh-transforms/) - _Apple_'s private API for manipulation of UIView meshes. [[Source ![GitHub Repo Stars](https://img.shields.io/github/stars/olegtyshcneko/CAMeshTransform) ![GitHub last commit](https://img.shields.io/github/last-commit/olegtyshcneko/CAMeshTransform)](https://github.com/olegtyshcneko/CAMeshTransform)]
 - Smoothing
     - 📚 [Laplacian Smoothing](http://rodolphe-vaillant.fr/entry/70/laplacian-smoothing-c-code-to-smooth-a-mesh) - Draft notes with C++ code for laplacian smoothing of meshes.
