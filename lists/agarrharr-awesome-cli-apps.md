@@ -334,6 +334,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [mynav ![GitHub Repo Stars](https://img.shields.io/github/stars/GianlucaP106/mynav) ![GitHub last commit](https://img.shields.io/github/last-commit/GianlucaP106/mynav)](https://github.com/GianlucaP106/mynav) - Workspace and session management TUI.
 - [linear-tui ![GitHub Repo Stars](https://img.shields.io/github/stars/roeyazroel/linear-tui) ![GitHub last commit](https://img.shields.io/github/last-commit/roeyazroel/linear-tui)](https://github.com/roeyazroel/linear-tui) - Linear TUI client.
 - [jiratui ![GitHub Repo Stars](https://img.shields.io/github/stars/whyisdifficult/jiratui) ![GitHub last commit](https://img.shields.io/github/last-commit/whyisdifficult/jiratui)](https://github.com/whyisdifficult/jiratui) - TUI app for Jira.
+- [tiki ![GitHub Repo Stars](https://img.shields.io/github/stars/boolean-maybe/tiki) ![GitHub last commit](https://img.shields.io/github/last-commit/boolean-maybe/tiki)](https://github.com/boolean-maybe/tiki) - Markdown-based workflow builder.
 
 ### Time Tracking
 
