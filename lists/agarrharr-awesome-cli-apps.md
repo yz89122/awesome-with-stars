@@ -849,6 +849,7 @@ Inclusion criteria are less strict for this fast-moving field.
 - [faf-cli ![GitHub Repo Stars](https://img.shields.io/github/stars/Wolfe-Jam/faf-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/Wolfe-Jam/faf-cli)](https://github.com/Wolfe-Jam/faf-cli) - Authors AGENTS.md, CLAUDE.md and .cursorrules AI-Context files from your repo's real stack.
 - [agentty ![GitHub Repo Stars](https://img.shields.io/github/stars/1ay1/agentty) ![GitHub last commit](https://img.shields.io/github/last-commit/1ay1/agentty)](https://github.com/1ay1/agentty) - C++ agent TUI.
 - [bosun ![GitHub Repo Stars](https://img.shields.io/github/stars/yetidevworks/bosun) ![GitHub last commit](https://img.shields.io/github/last-commit/yetidevworks/bosun)](https://github.com/yetidevworks/bosun) - Agent session manager built on tmux.
+- [Keen Code ![GitHub Repo Stars](https://img.shields.io/github/stars/mochow13/keen-code) ![GitHub last commit](https://img.shields.io/github/last-commit/mochow13/keen-code)](https://github.com/mochow13/keen-code) - Context-aware coding agent written in Go.
 
 ### LLM Interaction
 
