@@ -621,7 +621,7 @@ Userscripts can be used w/ the following browsers:
             Install</a> /
         📖 <a href="https://github.com/jhyland87/userscript-amazon-wishlist-search/#readme">
             Readme</a> /
-        ���� <a href="https://github.com/jhyland87/userscript-amazon-wishlist-search/issues">
+        🐛 <a href="https://github.com/jhyland87/userscript-amazon-wishlist-search/issues">
             Report bug</a>
     </blockquote>
 </details>
