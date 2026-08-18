@@ -212,7 +212,7 @@ Inspired by [Awesome Deep Learning ![GitHub Repo Stars](https://img.shields.io/g
 -   [Political Networks: Methods and Applications](http://vanity.dss.ucdavis.edu/~maoz/networks/Spring%202011/pol279-11.htm), by Zeev Maoz (University of California in Davis, 2012).
 -   [Social and Economic Networks: Models and Analysis](https://www.coursera.org/course/networksonline), by Matthew O. Jackson (Stanford University via Coursera, 2015).
 -   [Social Network Analysis](https://www.coursera.org/course/sna), by Lada Adamic (University of Michigan via Coursera, not yet run).
--   [Social Network Analysis](http://www.mjdenny.com/workshops/SN_Theory_I.pdf) and [Intermediate Social Network Theory](http://www.mjdenny.com/workshops/Relational_Theory_Workshop.pdf), by Matthew J. Denny - Workshop notes and slides (2014–5).
+-   [Social Network Analysis](http://www.mjdenny.com/workshops/SN_Theory_I.pdf) and [Intermediate Social Network Theory](http://www.mjdenny.com/workshops/Relational_Theory_Workshop.pdf), by Matthew J. Denny - Workshop notes and slides (2014���5).
 -   [Social Network Analysis with Pajek](http://mrvar.fdv.uni-lj.si/sola/info4/), by Andrej Mrvar (University of Ljubljana, 2016).
 -   [Social Networks](http://dennisfeehan.org/teaching/201701_demog260.html), by Dennis M. Feehan (University of Berkeley, 2017).
 -   [The Structure of Information Networks](https://www.cs.cornell.edu/Courses/cs6850/2008fa/), by Jon Kleinberg - Links to many diverse readings (Cornell University, 2008).
@@ -325,7 +325,7 @@ Inspired by [Awesome Deep Learning ![GitHub Repo Stars](https://img.shields.io/g
 -   [Cx-Nets](http://www.cxnets.org/) - Virtual collaboration between four complex networks research groups.
 -   [Data Science Group](http://datasciencegroup.pl/) -  Wroclaw-based research group that studies, among many things, complex networks and other network-related topics.
 -   [Digital Humanities](http://cmb.huma-num.fr/) - Interdisciplinary group of researchers at the Marc Bloch Centre in Berlin, with many network science projects.
--   [Forschungscluster der Universitäten Trier und Mainz “Gesellschaftliche Abhängigkeiten und soziale Netzwerke”](http://www.netzwerk-exzellenz.uni-trier.de/), in German.
+-   [Forschungscluster der Universitäten Trier und Mainz “Gesellschaftliche Abh��ngigkeiten und soziale Netzwerke”](http://www.netzwerk-exzellenz.uni-trier.de/), in German.
 -   [GDR Analyse de réseaux en sciences humaines et sociales](https://arshs.hypotheses.org/) – French research group with funds to support training and workshops on network analysis for social scientists.
 -   [Historical Network Research (HNR)](http://historicalnetworkresearch.org/) - Platform for scholars interested in network analysis for historical research.
     -   [HNR Conferences, Workshops and Other Events](http://historicalnetworkresearch.org/hnr-events/).

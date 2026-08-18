@@ -207,7 +207,7 @@ The shape of an electric guitar can historically be divided into the following c
  - Flat Mount Hardtail (Strat/Tele/Schaller)
  - Tremolo (Strat)
  - Tune-O-Matic (Gison)
- - Other (Jazzmaster®, Jaguar��, Bigsby®, Kahler®, Line 6, etc)
+ - Other (Jazzmaster®, Jaguar®, Bigsby®, Kahler®, Line 6, etc)
 
 ![Bridge Routing](https://github.com/gitfrage/guitarspecs/raw/master/images/egitarrenbau-body-standardstrat_vintagetele_tunomatic.jpg)
 
