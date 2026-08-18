@@ -215,7 +215,7 @@ _Libraries to integrate or use cloud-specific features._
 
 > **[Google Cloud Client Libraries ![GitHub Repo Stars](https://img.shields.io/github/stars/googleapis/google-cloud-java) ![GitHub last commit](https://img.shields.io/github/last-commit/googleapis/google-cloud-java)](https://github.com/googleapis/google-cloud-java)** <kbd>★ 2.1k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Client libraries for accessing Google Cloud services from Java applications.
 
-> **[Java Operator SDK ![GitHub Repo Stars](https://img.shields.io/github/stars/operator-framework/java-operator-sdk) ![GitHub last commit](https://img.shields.io/github/last-commit/operator-framework/java-operator-sdk)](https://github.com/operator-framework/java-operator-sdk)** <kbd>★ 938</kbd> <kbd>Apache-2.0</kbd> 🟢<br>SDK for implementing Kubernetes operators in Java.
+> **[Java Operator SDK ![GitHub Repo Stars](https://img.shields.io/github/stars/operator-framework/java-operator-sdk) ![GitHub last commit](https://img.shields.io/github/last-commit/operator-framework/java-operator-sdk)](https://github.com/operator-framework/java-operator-sdk)** <kbd>★ 938</kbd> <kbd>Apache-2.0</kbd> ��<br>SDK for implementing Kubernetes operators in Java.
 
 > **[Kubernetes Java Client ![GitHub Repo Stars](https://img.shields.io/github/stars/kubernetes-client/java) ![GitHub last commit](https://img.shields.io/github/last-commit/kubernetes-client/java)](https://github.com/kubernetes-client/java)** <kbd>★ 4.0k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Official Java client for the Kubernetes API.
 
@@ -572,7 +572,7 @@ _Everything that simplifies interactions with the database._
 
 _Libraries related to handling date and time._
 
-> **[iCal4j ![GitHub Repo Stars](https://img.shields.io/github/stars/ical4j/ical4j) ![GitHub last commit](https://img.shields.io/github/last-commit/ical4j/ical4j)](https://github.com/ical4j/ical4j)** <kbd>★ 837</kbd> <kbd>BSD-3-Clause</kbd> 🟢<br>Parse and build iCalendar [RFC 5545](https://tools.ietf.org/html/rfc5545) data models.
+> **[iCal4j ![GitHub Repo Stars](https://img.shields.io/github/stars/ical4j/ical4j) ![GitHub last commit](https://img.shields.io/github/last-commit/ical4j/ical4j)](https://github.com/ical4j/ical4j)** <kbd>�� 837</kbd> <kbd>BSD-3-Clause</kbd> 🟢<br>Parse and build iCalendar [RFC 5545](https://tools.ietf.org/html/rfc5545) data models.
 
 > **[Jollyday ![GitHub Repo Stars](https://img.shields.io/github/stars/focus-shift/jollyday) ![GitHub last commit](https://img.shields.io/github/last-commit/focus-shift/jollyday)](https://github.com/focus-shift/jollyday)** <kbd>★ 135</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Determines the holidays for a given year, country/name and eventually state/region.
 
@@ -748,7 +748,7 @@ _Libraries that assist with processing office document formats._
 
 > **[commonmark-java ![GitHub Repo Stars](https://img.shields.io/github/stars/commonmark/commonmark-java) ![GitHub last commit](https://img.shields.io/github/last-commit/commonmark/commonmark-java)](https://github.com/commonmark/commonmark-java)** <kbd>★ 2.7k</kbd> <kbd>BSD-2-Clause</kbd> 🟢<br>Parses and renders CommonMark-compatible Markdown.
 
-> **[documents4j ![GitHub Repo Stars](https://img.shields.io/github/stars/documents4j/documents4j) ![GitHub last commit](https://img.shields.io/github/last-commit/documents4j/documents4j)](https://github.com/documents4j/documents4j)** <kbd>★ 585</kbd> <kbd>Apache-2.0</kbd> 🟠<br>API for document format conversion using third-party converters such as MS Word.
+> **[documents4j ![GitHub Repo Stars](https://img.shields.io/github/stars/documents4j/documents4j) ![GitHub last commit](https://img.shields.io/github/last-commit/documents4j/documents4j)](https://github.com/documents4j/documents4j)** <kbd>★ 585</kbd> <kbd>Apache-2.0</kbd> ���<br>API for document format conversion using third-party converters such as MS Word.
 
 > **[docx4j ![GitHub Repo Stars](https://img.shields.io/github/stars/plutext/docx4j) ![GitHub last commit](https://img.shields.io/github/last-commit/plutext/docx4j)](https://github.com/plutext/docx4j)** <kbd>★ 2.4k</kbd> 🟢<br>Create and manipulate Microsoft Open XML files.
 
@@ -769,7 +769,7 @@ _Libraries and SDKs for evaluating and managing feature flags._
 
 > **[OpenFeature Java SDK ![GitHub Repo Stars](https://img.shields.io/github/stars/open-feature/java-sdk) ![GitHub last commit](https://img.shields.io/github/last-commit/open-feature/java-sdk)](https://github.com/open-feature/java-sdk)** <kbd>★ 127</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Vendor-neutral API for evaluating feature flags in Java applications.
 
-> **[Rollgate Java SDK ![GitHub Repo Stars](https://img.shields.io/github/stars/rollgate/sdks) ![GitHub last commit](https://img.shields.io/github/last-commit/rollgate/sdks)](https://github.com/rollgate/sdks/tree/main/packages/sdk-java)** <kbd>★ 3</kbd> <kbd>MIT</kbd> 🟢<br>Java SDK for evaluating Rollgate feature flags with real-time configuration updates.
+> **[Rollgate Java SDK ![GitHub Repo Stars](https://img.shields.io/github/stars/rollgate/sdks) ![GitHub last commit](https://img.shields.io/github/last-commit/rollgate/sdks)](https://github.com/rollgate/sdks/tree/main/packages/sdk-java)** <kbd>��� 3</kbd> <kbd>MIT</kbd> 🟢<br>Java SDK for evaluating Rollgate feature flags with real-time configuration updates.
 
 > **[Togglz ![GitHub Repo Stars](https://img.shields.io/github/stars/togglz/togglz) ![GitHub last commit](https://img.shields.io/github/last-commit/togglz/togglz)](https://github.com/togglz/togglz)** <kbd>★ 1.0k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Implementation of the Feature Toggles pattern.
 
