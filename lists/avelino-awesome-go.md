@@ -225,6 +225,7 @@ _Libraries for building programs that leverage AI._
 - [agent-sdk-go ![GitHub Repo Stars](https://img.shields.io/github/stars/agenticenv/agent-sdk-go) ![GitHub last commit](https://img.shields.io/github/last-commit/agenticenv/agent-sdk-go)](https://github.com/agenticenv/agent-sdk-go) - Go SDK for building durable AI agents on Temporal with support for tools, MCP, human approvals, and sub-agent delegation.
 - [ai ![GitHub Repo Stars](https://img.shields.io/github/stars/joakimcarlsson/ai) ![GitHub last commit](https://img.shields.io/github/last-commit/joakimcarlsson/ai)](https://github.com/joakimcarlsson/ai) - A Go toolkit for building AI agents and applications across multiple providers with unified LLM, embeddings, tool calling, and MCP integration.
 - [chromem-go ![GitHub Repo Stars](https://img.shields.io/github/stars/philippgille/chromem-go) ![GitHub last commit](https://img.shields.io/github/last-commit/philippgille/chromem-go)](https://github.com/philippgille/chromem-go) - Embeddable vector database for Go with Chroma-like interface and zero third-party dependencies. In-memory with optional persistence.
+- [crewai-go ![GitHub Repo Stars](https://img.shields.io/github/stars/rhgs/crewai-go) ![GitHub last commit](https://img.shields.io/github/last-commit/rhgs/crewai-go)](https://github.com/rhgs/crewai-go) - Idiomatic Go port of CrewAI (multi-agent orchestration). Zero dependencies, stdlib only.
 - [dakera-go ![GitHub Repo Stars](https://img.shields.io/github/stars/dakera-ai/dakera-go) ![GitHub last commit](https://img.shields.io/github/last-commit/dakera-ai/dakera-go)](https://github.com/dakera-ai/dakera-go) - Official Go client SDK for the Dakera self-hosted agent memory server, providing typed interfaces for memory store/recall, session management, namespace operations, and decay configuration.
 - [fun](https://gitlab.com/tozd/go/fun) - The simplest but powerful way to use large language models (LLMs) in Go.
 - [goai ![GitHub Repo Stars](https://img.shields.io/github/stars/zendev-sh/goai) ![GitHub last commit](https://img.shields.io/github/last-commit/zendev-sh/goai)](https://github.com/zendev-sh/goai) - Go SDK for building AI applications. One SDK, 20+ providers. Inspired by Vercel AI SDK.
@@ -3894,7 +3895,7 @@ _Where to discover new Go libraries._
 - [Ukrainian Golang User Groups](https://www.meetup.com/uagolang/)
 - [Utah Go User Group](https://www.meetup.com/utahgophers/)
 - [Women Who Go - San Francisco, CA](https://www.meetup.com/Women-Who-Go/)
-- [Z��rich Gophers - Zurich, Switzerland](https://www.meetup.com/zurich-gophers/)
+- [Zürich Gophers - Zurich, Switzerland](https://www.meetup.com/zurich-gophers/)
 
 _Add the group of your city/country here (send **PR**)_
 
