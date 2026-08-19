@@ -269,7 +269,7 @@ _Info on topics necessary for designing and developing game engines._
 - 📚 [Games of Coding ![GitHub Repo Stars](https://img.shields.io/github/stars/michelpereira/awesome-games-of-coding) ![GitHub last commit](https://img.shields.io/github/last-commit/michelpereira/awesome-games-of-coding)](https://github.com/michelpereira/awesome-games-of-coding) - Games that teach you a programming language.
 - 🌎 [Geeks for Geeks](https://www.geeksforgeeks.org) - Tutorials, articles, courses, coding competitions, jobs and more.
 - 📚 [Learn to Program ![GitHub Repo Stars](https://img.shields.io/github/stars/karlhorky/learn-to-program) ![GitHub last commit](https://img.shields.io/github/last-commit/karlhorky/learn-to-program)](https://github.com/karlhorky/learn-to-program) - Educational resources to learn to program.
-- 📚 [TIOBE Index](https://www.tiobe.com/tiobe-index/) - Popularity of programming languages, updated monthly.
+- ���� [TIOBE Index](https://www.tiobe.com/tiobe-index/) - Popularity of programming languages, updated monthly.
 
 <br />
 <br />
@@ -319,7 +319,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [PhysicsFS ![GitHub Repo Stars](https://img.shields.io/github/stars/icculus/physfs) ![GitHub last commit](https://img.shields.io/github/last-commit/icculus/physfs)](https://github.com/icculus/physfs) - Portable, flexible file I/O abstraction. Provides access to various archives.
     - ⭐ [Where Am I ![GitHub Repo Stars](https://img.shields.io/github/stars/gpakosz/whereami) ![GitHub last commit](https://img.shields.io/github/last-commit/gpakosz/whereami)](https://github.com/gpakosz/whereami) - Locates the current path on the local file system.
 - C: Fonts
-    - 🎉 [Font Stash ![GitHub Repo Stars](https://img.shields.io/github/stars/memononen/fontstash) ![GitHub last commit](https://img.shields.io/github/last-commit/memononen/fontstash)](https://github.com/memononen/fontstash) - Lightweight library that uses stb_truetype to render fonts to a texture atlas.
+    - �� [Font Stash ![GitHub Repo Stars](https://img.shields.io/github/stars/memononen/fontstash) ![GitHub last commit](https://img.shields.io/github/last-commit/memononen/fontstash)](https://github.com/memononen/fontstash) - Lightweight library that uses stb_truetype to render fonts to a texture atlas.
     - 🎉 [IconFontCppHeaders ![GitHub Repo Stars](https://img.shields.io/github/stars/juliettef/IconFontCppHeaders) ![GitHub last commit](https://img.shields.io/github/last-commit/juliettef/IconFontCppHeaders)](https://github.com/juliettef/IconFontCppHeaders) - C/C++ headers and C# classes for icon fonts.
     - ⭐ [stb_truetype ![GitHub Repo Stars](https://img.shields.io/github/stars/nothings/stb) ![GitHub last commit](https://img.shields.io/github/last-commit/nothings/stb)](https://github.com/nothings/stb/blob/master/stb_truetype.h) - Single-header file library that processes TrueType font files.
     - 🎉 [Vertext ![GitHub Repo Stars](https://img.shields.io/github/stars/kevinmkchin/vertext) ![GitHub last commit](https://img.shields.io/github/last-commit/kevinmkchin/vertext)](https://github.com/kevinmkchin/vertext) - Generates vertices for rendering text, requires stb_truetype.
@@ -413,7 +413,7 @@ _Language specific game engine development libraries / frameworks / code._
 - C++: Fonts
     - 🎉 [HarfBuzz ![GitHub Repo Stars](https://img.shields.io/github/stars/harfbuzz/harfbuzz) ![GitHub last commit](https://img.shields.io/github/last-commit/harfbuzz/harfbuzz)](https://github.com/harfbuzz/harfbuzz) - Text shaping library. Formatted and positioned glyph output.
     - 🎉 [msdfgen ![GitHub Repo Stars](https://img.shields.io/github/stars/Chlumsky/msdfgen) ![GitHub last commit](https://img.shields.io/github/last-commit/Chlumsky/msdfgen)](https://github.com/Chlumsky/msdfgen) - Multi-channel signed distance field generator.
-    - ���� [Slug](http://sluglibrary.com) - High-quality, resolution-independent text and vector graphics for 3D apps.
+    - 💰 [Slug](http://sluglibrary.com) - High-quality, resolution-independent text and vector graphics for 3D apps.
     - 🎉 [slughorn ![GitHub Repo Stars](https://img.shields.io/github/stars/AlphaPixel/slughorn) ![GitHub last commit](https://img.shields.io/github/last-commit/AlphaPixel/slughorn)](https://github.com/AlphaPixel/slughorn) - Library for shoehorning the _Slug_ text/graphics GPU rendering library into projects.
 - C++: File Formats
     - ⭐ [Jpeg-Compressor ![GitHub Repo Stars](https://img.shields.io/github/stars/richgel999/jpeg-compressor) ![GitHub last commit](https://img.shields.io/github/last-commit/richgel999/jpeg-compressor)](https://github.com/richgel999/jpeg-compressor) - Single-file library that writes baseline JPEG compressed images.
@@ -999,7 +999,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [PreloadJS ![GitHub Repo Stars](https://img.shields.io/github/stars/CreateJS/PreloadJS) ![GitHub last commit](https://img.shields.io/github/last-commit/CreateJS/PreloadJS)](https://github.com/CreateJS/PreloadJS) - Preloading assets w/progress events.
     - 🎉 [Struct Vec ![GitHub Repo Stars](https://img.shields.io/github/stars/moomoolive/struct-vec) ![GitHub last commit](https://img.shields.io/github/last-commit/moomoolive/struct-vec)](https://github.com/moomoolive/struct-vec) - JavaScript array-like containers for multithreading.
 - JavaScript: Timeline
-    - 🎉 [Frame.js ![GitHub Repo Stars](https://img.shields.io/github/stars/mrdoob/frame.js) ![GitHub last commit](https://img.shields.io/github/last-commit/mrdoob/frame.js)](https://github.com/mrdoob/frame.js/) - JavaScript sequence editor.
+    - �� [Frame.js ![GitHub Repo Stars](https://img.shields.io/github/stars/mrdoob/frame.js) ![GitHub last commit](https://img.shields.io/github/last-commit/mrdoob/frame.js)](https://github.com/mrdoob/frame.js/) - JavaScript sequence editor.
     - 🎉 [Neo ![GitHub Repo Stars](https://img.shields.io/github/stars/lo-th/neo) ![GitHub last commit](https://img.shields.io/github/last-commit/lo-th/neo)](https://github.com/lo-th/neo) - Timeline for JavaScript. [[Demo](http://lo-th.github.io/neo/)]
 - JavaScript: Video
     - 💸 [Remotion ![GitHub Repo Stars](https://img.shields.io/github/stars/remotion-dev/remotion) ![GitHub last commit](https://img.shields.io/github/last-commit/remotion-dev/remotion)](https://github.com/remotion-dev/remotion) - Create videos programmatically in React. [[Website](https://www.remotion.dev/)]
@@ -1199,7 +1199,7 @@ _Exploring specialty game engine / game development topics and features._
 
 ### Fluid / Smoke
 - 📚 [Fluid Simulation on the GPU](https://developer.nvidia.com/gpugems/gpugems/part-vi-beyond-triangles/chapter-38-fast-fluid-dynamics-simulation-gpu) - GPU Gems Chapter 38 - Fast, stable fluid simulation on the GPU.
-- ��� [Fluids-2D ![GitHub Repo Stars](https://img.shields.io/github/stars/mharrys/fluids-2d) ![GitHub last commit](https://img.shields.io/github/last-commit/mharrys/fluids-2d)](https://github.com/mharrys/fluids-2d) - Real-time fluid dynamics on the GPU with the help of WebGL and Three.js.
+- 🔒 [Fluids-2D ![GitHub Repo Stars](https://img.shields.io/github/stars/mharrys/fluids-2d) ![GitHub last commit](https://img.shields.io/github/last-commit/mharrys/fluids-2d)](https://github.com/mharrys/fluids-2d) - Real-time fluid dynamics on the GPU with the help of WebGL and Three.js.
 - 🔒 [GPU Fluid Experiments](http://haxiomic.github.io/GPU-Fluid-Experiments/html5/) - Cross-platform GPU fluid simulation. [[Source ![GitHub Repo Stars](https://img.shields.io/github/stars/haxiomic/GPU-Fluid-Experiments) ![GitHub last commit](https://img.shields.io/github/last-commit/haxiomic/GPU-Fluid-Experiments)](https://github.com/haxiomic/GPU-Fluid-Experiments)]
 - 🎉 [WebGL Fluid Simulation](https://paveldogreat.github.io/WebGL-Fluid-Simulation/) - Play with fluids in your browser (even on mobile). [[Source ![GitHub Repo Stars](https://img.shields.io/github/stars/PavelDoGreat/WebGL-Fluid-Simulation) ![GitHub last commit](https://img.shields.io/github/last-commit/PavelDoGreat/WebGL-Fluid-Simulation)](https://github.com/PavelDoGreat/WebGL-Fluid-Simulation)]
 
@@ -1357,7 +1357,7 @@ _Software to help with game engine / video game development._
 
 ### Animation Software
 - 💸 [Cascadeur](https://cascadeur.com) - 3D animation software for physics-based character animation.
-- ���� [DragonBones](https://dragonbones.github.io/en/index.html) - Open source 2D game skeletal animation solution. [[Source](https://github.com/DragonBones/)]
+- 🆓 [DragonBones](https://dragonbones.github.io/en/index.html) - Open source 2D game skeletal animation solution. [[Source](https://github.com/DragonBones/)]
 - 💰 [FaceFX](https://facefx.com/) - Leading provider of audio-based facial animation.
 - 💸 [Mixamo](https://www.mixamo.com/#/) - Animate 3D characters for games, films and more. By _Adobe_.
 - 💸 [Spine](http://esotericsoftware.com/) - 2D animation for games.
