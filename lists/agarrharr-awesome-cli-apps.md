@@ -429,6 +429,8 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [dark-mode ![GitHub Repo Stars](https://img.shields.io/github/stars/sindresorhus/dark-mode) ![GitHub last commit](https://img.shields.io/github/last-commit/sindresorhus/dark-mode)](https://github.com/sindresorhus/dark-mode) - Toggle dark mode.
 - [clippy ![GitHub Repo Stars](https://img.shields.io/github/stars/neilberkman/clippy) ![GitHub last commit](https://img.shields.io/github/last-commit/neilberkman/clippy)](https://github.com/neilberkman/clippy) - Clipboard tool for interacting with GUI applications.
 - [anvil ![GitHub Repo Stars](https://img.shields.io/github/stars/0xjuanma/anvil) ![GitHub last commit](https://img.shields.io/github/last-commit/0xjuanma/anvil)](https://github.com/0xjuanma/anvil) - Config management and app installations.
+- [Mole ![GitHub Repo Stars](https://img.shields.io/github/stars/tw93/Mole) ![GitHub last commit](https://img.shields.io/github/last-commit/tw93/Mole)](https://github.com/tw93/Mole) - Clean your Mac and more.
+- [Raccoon ![GitHub Repo Stars](https://img.shields.io/github/stars/thousandflowers/Raccoon) ![GitHub last commit](https://img.shields.io/github/last-commit/thousandflowers/Raccoon)](https://github.com/thousandflowers/Raccoon) - Security audits, system reports and SSH fleet management.
 
 ### Terminal Sharing Utilities
 
