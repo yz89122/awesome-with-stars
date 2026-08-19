@@ -390,7 +390,7 @@ The storefront of Magento 2 can be styled in numerous ways:
 
 ## Podcasts
 
-- [Talk Commerce](https://talk-commerce.com/podcasts/) 🫡 - Brent Peterson's interviews with digital commerce practitioners, merchants, and platform experts.
+- [Talk Commerce](https://talk-commerce.com/podcasts/) ��� - Brent Peterson's interviews with digital commerce practitioners, merchants, and platform experts.
 - [The JetRails Podcast](https://jetrails.com/podcast/) 🫡 - Ecommerce-focused podcast from JetRails covering hosting, performance, and platform strategy.
 
 <details>
