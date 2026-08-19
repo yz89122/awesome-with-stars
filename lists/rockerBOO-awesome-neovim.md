@@ -236,6 +236,7 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 
 ## AI
 
+- [saya-ashen/agent-workbench.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/saya-ashen/agent-workbench.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/saya-ashen/agent-workbench.nvim)](https://github.com/saya-ashen/agent-workbench.nvim) - Workspace frontend for pi.dev with sessions, diff review, and persistent shell worksheets.
 - [nwiizo/signalbox.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/nwiizo/signalbox.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/nwiizo/signalbox.nvim)](https://github.com/nwiizo/signalbox.nvim) - Attention-first control surface for monitoring and routing persistent Herdr coding agents.
 - [cursortab/cursortab.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/cursortab/cursortab.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/cursortab/cursortab.nvim)](https://github.com/cursortab/cursortab.nvim) - Edit completions and cursor predictions with multiple AI providers.
 - [teocns/neocursor.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/teocns/neocursor.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/teocns/neocursor.nvim)](https://github.com/teocns/neocursor.nvim) - Next-edit predictions, cursor jumps, and ghost text, all driven by an existing Cursor session instead of an API key.
@@ -583,6 +584,7 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 - [A7Lavinraj/fyler.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/A7Lavinraj/fyler.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/A7Lavinraj/fyler.nvim)](https://github.com/A7Lavinraj/fyler.nvim) - File manager which can edit file system like a buffer with tree view.
 - [adriancmiranda/glimpse.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/adriancmiranda/glimpse.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/adriancmiranda/glimpse.nvim)](https://github.com/adriancmiranda/glimpse.nvim) - Fast multi-format file previewer with inline kitty graphics support, external pane previews, and integrations for file explorers and pickers.
 - [ingur/fzf-oil.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/ingur/fzf-oil.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/ingur/fzf-oil.nvim)](https://github.com/ingur/fzf-oil.nvim) - A tiny file browser with seamless toggling between fzf-lua and oil.nvim.
+- [Dev-Addict/FloatingFile.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/Dev-Addict/FloatingFile.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/Dev-Addict/FloatingFile.nvim)](https://github.com/Dev-Addict/FloatingFile.nvim) - Quickly preview any readable file in a centered floating window without replacing the current buffer.
 <!--lint disable double-link -->
 [**⬆ back to top**](#contents)
 <!--lint enable double-link -->
