@@ -454,7 +454,7 @@ _Tools for batch, stream, table and data-transformation workloads._
 
 _Efficient and specific data structures._
 
-> **[CQEngine Next ![GitHub Repo Stars](https://img.shields.io/github/stars/MSaifAsif/cqengine-next) ![GitHub last commit](https://img.shields.io/github/last-commit/MSaifAsif/cqengine-next)](https://github.com/MSaifAsif/cqengine-next)** <kbd>★ 18</kbd> <kbd>Apache-2.0</kbd> ��<br>Provides indexed, SQL-like queries over Java collections.
+> **[CQEngine Next ![GitHub Repo Stars](https://img.shields.io/github/stars/MSaifAsif/cqengine-next) ![GitHub last commit](https://img.shields.io/github/last-commit/MSaifAsif/cqengine-next)](https://github.com/MSaifAsif/cqengine-next)** <kbd>★ 18</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Provides indexed, SQL-like queries over Java collections.
 
 > **[HashSmith ![GitHub Repo Stars](https://img.shields.io/github/stars/bluuewhale/hash-smith) ![GitHub last commit](https://img.shields.io/github/last-commit/bluuewhale/hash-smith)](https://github.com/bluuewhale/hash-smith)** <kbd>★ 108</kbd> <kbd>MIT</kbd> 🟠<br>Hash map and set implementations using SwissTable-style SWAR/SIMD control-byte probing, optimized for memory efficiency.
 
