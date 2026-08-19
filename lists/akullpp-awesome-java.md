@@ -2232,7 +2232,7 @@ _Engines for orchestrating long-running workflows and business processes._
 
 > **[Conductor ![GitHub Repo Stars](https://img.shields.io/github/stars/conductor-oss/conductor) ![GitHub last commit](https://img.shields.io/github/last-commit/conductor-oss/conductor)](https://github.com/conductor-oss/conductor)** <kbd>★ 32.1k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Event-driven workflow engine for distributed applications and AI agents.
 
-> **[flowable ![GitHub Repo Stars](https://img.shields.io/github/stars/flowable/flowable-engine) ![GitHub last commit](https://img.shields.io/github/last-commit/flowable/flowable-engine)](https://github.com/flowable/flowable-engine)** <kbd>★ 9.5k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Compact and efficient workflow and business process management platform.
+> **[flowable ![GitHub Repo Stars](https://img.shields.io/github/stars/flowable/flowable-engine) ![GitHub last commit](https://img.shields.io/github/last-commit/flowable/flowable-engine)](https://github.com/flowable/flowable-engine)** <kbd>★ 9.5k</kbd> <kbd>Apache-2.0</kbd> ����<br>Compact and efficient workflow and business process management platform.
 
 > **[Maestro ![GitHub Repo Stars](https://img.shields.io/github/stars/Netflix/maestro) ![GitHub last commit](https://img.shields.io/github/last-commit/Netflix/maestro)](https://github.com/Netflix/maestro)** <kbd>★ 3.8k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Workflow orchestration engine developed by Netflix.
 

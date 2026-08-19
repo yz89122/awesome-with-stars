@@ -587,6 +587,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [crossroads ![GitHub Repo Stars](https://img.shields.io/github/stars/millermedeiros/crossroads.js) ![GitHub last commit](https://img.shields.io/github/last-commit/millermedeiros/crossroads.js)](https://github.com/millermedeiros/crossroads.js) - JavaScript Routes.
 * [davis.js ![GitHub Repo Stars](https://img.shields.io/github/stars/olivernn/davis.js) ![GitHub last commit](https://img.shields.io/github/last-commit/olivernn/davis.js)](https://github.com/olivernn/davis.js) - RESTful degradable JavaScript routing using pushState.
 * [navaid ![GitHub Repo Stars](https://img.shields.io/github/stars/lukeed/navaid) ![GitHub last commit](https://img.shields.io/github/last-commit/lukeed/navaid)](https://github.com/lukeed/navaid) - A navigation aid (aka, router) for the browser in 850 bytes~!
+* [speedy-router ![GitHub Repo Stars](https://img.shields.io/github/stars/anonrig/router) ![GitHub last commit](https://img.shields.io/github/last-commit/anonrig/router)](https://github.com/anonrig/router) - The TanStack Router API rebuilt for faster navigations and SSR.
 
 ## Security
 
