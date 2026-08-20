@@ -520,7 +520,7 @@ Part 1](https://0fps.net/2014/02/10/replication-in-networked-games-overview-part
 [Proko Figure Drawing Fundamentals](https://www.youtube.com/playlist?list=PLR2KBLDDnZz3Ec8LZ66IDS--P9g3TdwOM) 🟪 - An exhaustive series on drawing people from a reputable channel.
 
 
-[How to Learn Digital Painting (Beginners)](https://www.youtube.com/watch?v=iwRa5qTnr8o) 💠🟪 - A guide to digital painting for beginners and intermediate painters. See other tutorials by Sinix for guides aimed at more advanced artists.
+[How to Learn Digital Painting (Beginners)](https://www.youtube.com/watch?v=iwRa5qTnr8o) 💠�� - A guide to digital painting for beginners and intermediate painters. See other tutorials by Sinix for guides aimed at more advanced artists.
 
 
 [Cut-Out People](https://www.vishopper.com/cut-out-people) - A searchable repository of extremely diverse reference images for humans, with filters for easy search (IE "1 woman age 20-40 with dog from the front" or "3 people sitting in a home")
@@ -614,7 +614,7 @@ Royalty Free Game Art! Don't forget to check the license.
 [The Design of Everyday Things](https://ia902800.us.archive.org/3/items/thedesignofeverydaythingsbydonnorman/The%20Design%20of%20Everyday%20Things%20by%20Don%20Norman.pdf) 💠🟪 - A book on design in everything, basically mandatory reading for designers.
 
 
-[Game Accessibility Guidelines](https://gameaccessibilityguidelines.com/) 🟪 - A list of accessibility features, organized by implementation difficulty. Also includes testimonials for each feature and the impact it makes on people, as well as best practice examples and implementation resources (tools, guides, etc) where available.
+[Game Accessibility Guidelines](https://gameaccessibilityguidelines.com/) ��� - A list of accessibility features, organized by implementation difficulty. Also includes testimonials for each feature and the impact it makes on people, as well as best practice examples and implementation resources (tools, guides, etc) where available.
 
 
 [Game Design](https://ocw.mit.edu/courses/cms-608-game-design-fall-2010/) 💠🟪 - A Game Design class taught at MIT (free to access!) 
@@ -686,7 +686,7 @@ Royalty Free Game Art! Don't forget to check the license.
 [WE CAN FIX IT IN UI](https://www.notion.so/onewithmachines/WE-CAN-FIX-IT-IN-UI-9f588869324a45e2b2d0595546ce77d1) 💠🟪 - A huge list of UI/UX resources!
 
 
-[Game UI Database](https://www.gameuidatabase.com/index.php) 💠🟪 - A searchable repository of UI designs from many different games to use as reference.
+[Game UI Database](https://www.gameuidatabase.com/index.php) 💠���� - A searchable repository of UI designs from many different games to use as reference.
 
 
 [Laws of UX](https://lawsofux.com/en/) - Best practices of UX design.
@@ -814,7 +814,7 @@ Royalty free music! Don't forget to check the license.
 [Leveling the Playing Field](https://ltpf.ramiismail.com) 💠🟪 - A blog/newsletter by Rami Ismail with advice on business, marketing, skill development, and various topics needed to run an indie studio. Past newsletters are archived here. I personally recommend "Budget Viability" as a starting point.
 
 
-[How to Market a Game](https://howtomarketagame.com) 💠🟪 - A blog and a collection of resources by Chris Zukowski with advice on marketing and sales. I personally recommend his GDC talks "Empathizing with Steam: How People Shop for Your Game" and "What to Write So People Buy: Selling Your Game Without Feeling Sleazy" as starting points.
+[How to Market a Game](https://howtomarketagame.com) ����🟪 - A blog and a collection of resources by Chris Zukowski with advice on marketing and sales. I personally recommend his GDC talks "Empathizing with Steam: How People Shop for Your Game" and "What to Write So People Buy: Selling Your Game Without Feeling Sleazy" as starting points.
 
 
 [Community Dev Newsletter and Blog](https://www.victoriatran.com) 💠🟪 - A blog and a newsletter by Victoria Tran with advice on community management, social media, and marketing. Past newsletters are archived here. I personally recommend "Failure Marketing" and "Charm your Communities" as starting points.
