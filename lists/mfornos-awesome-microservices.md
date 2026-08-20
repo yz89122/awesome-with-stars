@@ -29,6 +29,7 @@ A curated list of Microservice Architecture related principles and technologies.
   - [Workflow Orchestration](#workflow-orchestration)
   - [Elasticity](#elasticity)
   - [Job Schedulers / Workload Automation](#job-schedulers--workload-automation)
+  - [Local Development](#local-development)
   - [Logging](#logging)
   - [Messaging](#messaging)
   - [Monitoring & Debugging](#monitoring--debugging)
@@ -273,6 +274,7 @@ A curated list of Microservice Architecture related principles and technologies.
 > Note that [data and control plane](https://blog.envoyproxy.io/service-mesh-data-plane-vs-control-plane-2774e720f7fc) components are not categorized at this moment.
 
 - [Ambassador (c)](https://www.getambassador.io) - Kubernetes-native API gateway for microservices built on Envoy.
+- [Apache APISIX](https://apisix.apache.org/) - High-performance, real-time API gateway and AI gateway built on NGINX and etcd, with hot-reloaded routing and 100+ plugins.
 - [APIcast ![GitHub Repo Stars](https://img.shields.io/github/stars/3scale/APIcast) ![GitHub last commit](https://img.shields.io/github/last-commit/3scale/APIcast)](https://github.com/3scale/APIcast) - APIcast is an API gateway built on top of NGINX. It is part of the Red Hat 3scale API Management Platform.
 - [Bunker Web ![GitHub Repo Stars](https://img.shields.io/github/stars/bunkerity/bunkerweb) ![GitHub last commit](https://img.shields.io/github/last-commit/bunkerity/bunkerweb)](https://github.com/bunkerity/bunkerweb) - Web app hosting and reverse proxy secure by default.
 - [Caddy](https://caddyserver.com/) - Extensible HTTP/2 web server with automatic HTTPS.
@@ -341,6 +343,10 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Faktory ![GitHub Repo Stars](https://img.shields.io/github/stars/contribsys/faktory) ![GitHub last commit](https://img.shields.io/github/last-commit/contribsys/faktory)](https://github.com/contribsys/faktory) - Language-agnostic persistent background job server.
 - [Rundeck (c)](http://rundeck.org/) - Job scheduler and runbook automation. Enable self-service access to existing scripts and tools.
 - [Schedulix ![GitHub Repo Stars](https://img.shields.io/github/stars/schedulix/schedulix) ![GitHub last commit](https://img.shields.io/github/last-commit/schedulix/schedulix)](https://github.com/schedulix/schedulix) - Open source enterprise job scheduling system lays down ground-breaking standards for the professional automation of IT processes in advanced system environments.
+
+### Local Development
+
+- [mirrord](https://metalbear.com/mirrord/) - Run local code as if it were a pod in a remote Kubernetes cluster.
 
 ### Logging
 
@@ -466,6 +472,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Goreplay ![GitHub Repo Stars](https://img.shields.io/github/stars/buger/goreplay) ![GitHub last commit](https://img.shields.io/github/last-commit/buger/goreplay)](https://github.com/buger/goreplay) - A tool for capturing and replaying live HTTP traffic into a test environment.
 - [Keploy](https://keploy.io) - Open-source tool for API testing and mocking by capturing real traffic and converting it into test cases and stubs, enabling reliable microservice testing.
 - [Mitmproxy](https://mitmproxy.org/) - An interactive console program that allows traffic flows to be intercepted, inspected, modified and replayed.
+- [MockServer](https://www.mock-server.com) - Mocking, debugging proxy and chaos engineering for multiple protocols (HTTP, gRPC, GraphQL, LLM, MCP, Kafka, TCP and more); mock dependencies, record/replay traffic, verify requests, and inject faults for integration and resilience testing.
 - [Mountebank](http://www.mbtest.org/) - Cross-platform, multi-protocol test doubles over the wire.
 - [Pact](https://docs.pact.io) - Contract testing framework for HTTP APIs and non-HTTP asynchronous messaging systems.
 - [RestQA ![GitHub Repo Stars](https://img.shields.io/github/stars/restqa/restqa) ![GitHub last commit](https://img.shields.io/github/last-commit/restqa/restqa)](https://github.com/restqa/restqa) - A tool to manage microservices mocking, unit and performance testing locally with best in class developer experience.

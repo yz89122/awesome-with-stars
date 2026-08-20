@@ -186,7 +186,7 @@ platform.
 
 - [Allegro 4.2 ![GitHub Repo Stars](https://img.shields.io/github/stars/liballeg/allegro5) ![GitHub last commit](https://img.shields.io/github/last-commit/liballeg/allegro5)](https://github.com/liballeg/allegro5/tree/v4-2-3-1) - Game development library for DOS, Windows and Linux. 4.2 version supports DOS platform.
   - [Allegro 4.2.1 PDF documentation.](https://download.tuxfamily.org/allegro/allegro-manual/4.2.1/allegro-manual-4.2.1.en.pdf)
-- [LoveDOS ![GitHub Repo Stars](https://img.shields.io/github/stars/rxi/lovedos) ![GitHub last commit](https://img.shields.io/github/last-commit/rxi/lovedos)](https://github.com/rxi/lovedos) - A framework for making 2D DOS games in Lua. API based on a subset of the LÖVE API.
+- [LoveDOS ![GitHub Repo Stars](https://img.shields.io/github/stars/rxi/lovedos) ![GitHub last commit](https://img.shields.io/github/last-commit/rxi/lovedos)](https://github.com/rxi/lovedos) - A framework for making 2D DOS games in Lua. API based on a subset of the L��VE API.
 - [DOS-VGA-Game ![GitHub Repo Stars](https://img.shields.io/github/stars/marcomarrero/DOS-VGA-Game) ![GitHub last commit](https://img.shields.io/github/last-commit/marcomarrero/DOS-VGA-Game)](https://github.com/marcomarrero/DOS-VGA-Game) - Marco A. Marrero's DOS VGA/hardware library implemented in assembly and Turbo Pascal.
 - [DIGPAK sound drivers source code ![GitHub Repo Stars](https://img.shields.io/github/stars/jratcliff63367/digpak) ![GitHub last commit](https://img.shields.io/github/last-commit/jratcliff63367/digpak)](https://github.com/jratcliff63367/digpak) - Original source code for the DIGPAK sound drivers uploaded to GitHub by John W. Ratcliff.
 
