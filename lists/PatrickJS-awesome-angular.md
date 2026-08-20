@@ -1507,6 +1507,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-signal-combinators ![GitHub Repo Stars](https://img.shields.io/github/stars/alessiopelliccione/ngx-signal-combinators) ![GitHub last commit](https://img.shields.io/github/last-commit/alessiopelliccione/ngx-signal-combinators)](https://github.com/alessiopelliccione/ngx-signal-combinators) - Composable boolean helpers for Angular signals, enabling cleaner reactive template logic.
 * [viewport-truth ![GitHub Repo Stars](https://img.shields.io/github/stars/AntonVoronezh/viewport-truth) ![GitHub last commit](https://img.shields.io/github/last-commit/AntonVoronezh/viewport-truth)](https://github.com/AntonVoronezh/viewport-truth) - A tiny VisualViewport‑first store for accurate CSS‑pixel viewport size that detects virtual keyboards, reduces resize/scroll jitter, and works with SSR across frameworks.
 * [angular-inport ![GitHub Repo Stars](https://img.shields.io/github/stars/ajaysinghj8/angular-inport) ![GitHub last commit](https://img.shields.io/github/last-commit/ajaysinghj8/angular-inport)](https://github.com/ajaysinghj8/angular-inport) - Angular In-Viewport Detector.
+* [ngx-mentions ![GitHub Repo Stars](https://img.shields.io/github/stars/m1z23r/ngx-mentions) ![GitHub last commit](https://img.shields.io/github/last-commit/m1z23r/ngx-mentions)](https://github.com/m1z23r/ngx-mentions) - Signals-first mentions wrapper using non-editable atomic DOM pills inside contenteditable elements.
 
 ### Drag and Drop
 
@@ -2229,6 +2230,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [OpenMFP Web Components Library ![GitHub Repo Stars](https://img.shields.io/github/stars/openmfp/webcomponents) ![GitHub last commit](https://img.shields.io/github/last-commit/openmfp/webcomponents)](https://github.com/openmfp/webcomponents) - A modern Angular 21 web components library featuring declarative UI components built with the latest signal-based APIs.
 * [ngxsmk-ui-kit ![GitHub Repo Stars](https://img.shields.io/github/stars/NGXSMK/ngxsmk-ui-kit) ![GitHub last commit](https://img.shields.io/github/last-commit/NGXSMK/ngxsmk-ui-kit)](https://github.com/NGXSMK/ngxsmk-ui-kit) - 200+ free Angular components. Signals-native. Zoneless. Token-themed. Dark mode built in.
 * [NgBracket](https://ngbracket.com) - Accessibility-first Angular component packs (forms, data table, scheduler, charts, and more), signals-native on v22+ with Signal Forms; WCAG AA, keyboard + screen-reader tested by hand.
+* [Gleks Web UI ![GitHub Repo Stars](https://img.shields.io/github/stars/GuildOfGleks/gleks_web_ui) ![GitHub last commit](https://img.shields.io/github/last-commit/GuildOfGleks/gleks_web_ui)](https://github.com/GuildOfGleks/gleks_web_ui) - Accessible, standalone Angular components using Signals, OnPush, and CSS variables, with zero Material or CDK dependencies.
 
 ### UI Libraries built on Bootstrap
 
