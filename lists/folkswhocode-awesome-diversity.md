@@ -213,7 +213,7 @@ Will Evans and Sinduja Rangarajan.
 - [The Other Diversity Dividend](https://hbr.org/2018/07/the-other-diversity-dividend) - By Paul Gompers and Silpa Kovvali.
 - [The Perverse Incentives That Help Incels Thrive In Tech](https://www.wired.com/story/ellen-pao-the-perverse-incentives-that-help-incels-thrive-in-tech/) - By Ellen Pao.
 - [The Tech Industry's Gender-Discrimination Problem](https://www.newyorker.com/magazine/2017/11/20/the-tech-industrys-gender-discrimination-problem) - By Sheelah Kolhatkar.
-- [There���s A Big Difference Between An Intention To Be Inclusive And A Strategy](https://qz.com/work/1308410/theres-a-big-difference-between-an-intention-to-be-inclusive-and-a-strategy/) - By Kim Crayton.
+- [There’s A Big Difference Between An Intention To Be Inclusive And A Strategy](https://qz.com/work/1308410/theres-a-big-difference-between-an-intention-to-be-inclusive-and-a-strategy/) - By Kim Crayton.
 - [This Is How Sexism Works In Silicon Valley My Lawsuit Failed. Others won't.](https://www.thecut.com/2017/08/ellen-pao-silicon-valley-sexism-reset-excerpt.html) - By Ellen Pao.
 - [ThoughtWorks' Insights On Inclusivity](https://www.thoughtworks.com/insights/inclusivity):
   - [Inclusion Is Everyone's Business: Q&A For Individuals](https://www.thoughtworks.com/insights/blog/inclusion-everyone-s-business-qa-part-1).
