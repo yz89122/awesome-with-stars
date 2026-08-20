@@ -1310,6 +1310,7 @@ then it is not supported:
 
 ## Git
 
+- [Darkskittlz/GitCompanion ![GitHub Repo Stars](https://img.shields.io/github/stars/Darkskittlz/GitCompanion) ![GitHub last commit](https://img.shields.io/github/last-commit/Darkskittlz/GitCompanion)](https://github.com/Darkskittlz/GitCompanion) - A lightweight, terminal-native Git interface. Inspect diffs, manage branches, stage modified files, manage stashes, and handle merges or commits.
 - [YouSame2/inlinediff-nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/YouSame2/inlinediff-nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/YouSame2/inlinediff-nvim)](https://github.com/YouSame2/inlinediff-nvim) - Provides a better inline Git diff view, meant to be used alongside your favorite Git plugin (e.g. `gitsigns`).
 - [mrloop/telescope-git-branch.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/mrloop/telescope-git-branch.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/mrloop/telescope-git-branch.nvim)](https://github.com/mrloop/telescope-git-branch.nvim) - A telescope picker to find which files and preview what changes have been made to your Git branch across multiple commits.
 - [f-person/git-blame.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/f-person/git-blame.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/f-person/git-blame.nvim)](https://github.com/f-person/git-blame.nvim) - Show Git blame info.
