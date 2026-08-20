@@ -1357,7 +1357,7 @@ _Software to help with game engine / video game development._
 
 ### Animation Software
 - 💸 [Cascadeur](https://cascadeur.com) - 3D animation software for physics-based character animation.
-- 🆓 [DragonBones](https://dragonbones.github.io/en/index.html) - Open source 2D game skeletal animation solution. [[Source](https://github.com/DragonBones/)]
+- �� [DragonBones](https://dragonbones.github.io/en/index.html) - Open source 2D game skeletal animation solution. [[Source](https://github.com/DragonBones/)]
 - 💰 [FaceFX](https://facefx.com/) - Leading provider of audio-based facial animation.
 - 💸 [Mixamo](https://www.mixamo.com/#/) - Animate 3D characters for games, films and more. By _Adobe_.
 - 💸 [Spine](http://esotericsoftware.com/) - 2D animation for games.
