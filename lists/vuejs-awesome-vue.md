@@ -293,7 +293,7 @@ These projects are exceptionally high quality, have a proven trackrecord, and ar
 - [Develop Web Apps with Vue.js](https://egghead.io/courses/develop-web-apps-with-vue-js) on [egghead.io](https://egghead.io/)
 - [Vue.js 2 - Getting Started](https://www.youtube.com/playlist?list=PL55RiY5tL51p-YU-Uw90qQH419BM4Iz07)
 - [Vue.js 2 & Vuex (Basics)](https://www.youtube.com/playlist?list=PL55RiY5tL51pT0DNJraU93FhMzhXxtDAo)
-- [Türkçe VueJS E��itim Videoları](https://www.youtube.com/playlist?list=PLa3NvhdFWNipwk1KXeUpVQnAiAfuBw4El) on YouTube by [Fatih Acet](https://fatihacet.com)
+- [Türkçe VueJS Eğitim Videoları](https://www.youtube.com/playlist?list=PLa3NvhdFWNipwk1KXeUpVQnAiAfuBw4El) on YouTube by [Fatih Acet](https://fatihacet.com)
 - [Let's Vue! - OpenLecture 2017.01 in Russian](https://youtu.be/7pmw5gvWAf8) on YouTube by Illya Klymov ([@xanf](https://github.com/xanf/))
 - [Build vue-hackernews-2.0 from Scratch ![GitHub Repo Stars](https://img.shields.io/github/stars/Detachment/Build-vue-hackernews-2.0-from-scratch) ![GitHub last commit](https://img.shields.io/github/last-commit/Detachment/Build-vue-hackernews-2.0-from-scratch)](https://github.com/Detachment/Build-vue-hackernews-2.0-from-scratch) by [@ Detachment](https://github.com/Detachment)
 - [Complete Vue.js Application Tutorial - Creating a Simple Budgeting App with Vue](https://matthiashager.com/complete-vuejs-application-tutorial) by [@matthiaswh](https://github.com/matthiaswh)

@@ -592,7 +592,7 @@ Webpage: http://www.osscafe.net/ja/
 
 Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
-✔ | ✔ | [〒155-0033 Tokyo, Setagaya, Daita, 6 Chome−11−14, G1](https://goo.gl/maps/ek2VPvXcVjA2) | Daily: 10:00-20:00. Closed Fridays.
+✔ | ✔ | [〒155-0033 Tokyo, Setagaya, Daita, 6 Chome���11−14, G1](https://goo.gl/maps/ek2VPvXcVjA2) | Daily: 10:00-20:00. Closed Fridays.
 
 ## Kyoto
 
