@@ -254,7 +254,7 @@ _Info on topics necessary for designing and developing game engines._
 - Developer Portals
     - 🌎 [Game Developer](https://www.gamedeveloper.com) - Industry blogs, events, jobs, updates and more. Formerly _Gamasutra_.
     - 🌎 [GameDev.net](https://www.gamedev.net/) - Game dev forums, tutorials, blogs, projects, portfolios, and news.
-    - ��� [GameFromScratch.com](https://gamefromscratch.com) - Game dev news, tutorials and much more.
+    - 🌎 [GameFromScratch.com](https://gamefromscratch.com) - Game dev news, tutorials and much more.
     - 🌎 [itch.io](https://itch.io) - Game dev resources and platform to showcase / promote / buy & sell games.
 - Education Portals
     - 🌎 [Lazy Foo' Tutorials](https://lazyfoo.net/tutorials/SDL/) - Beginning game programming with SDL.
@@ -372,7 +372,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Kazmath ![GitHub Repo Stars](https://img.shields.io/github/stars/Kazade/kazmath) ![GitHub last commit](https://img.shields.io/github/last-commit/Kazade/kazmath)](https://github.com/Kazade/kazmath) - Math library targeted at games.
     - 🎉 [Raymath ![GitHub Repo Stars](https://img.shields.io/github/stars/raysan5/raylib) ![GitHub last commit](https://img.shields.io/github/last-commit/raysan5/raylib)](https://github.com/raysan5/raylib/blob/master/src/raymath.h) - Math library included in the _RayLib_ game framework.
 - C: Network
-    - �� [ENet ![GitHub Repo Stars](https://img.shields.io/github/stars/zpl-c/enet) ![GitHub last commit](https://img.shields.io/github/last-commit/zpl-c/enet)](https://github.com/zpl-c/enet) - Simple, lightweight and reliable UDP networking library.
+    - 🎉 [ENet ![GitHub Repo Stars](https://img.shields.io/github/stars/zpl-c/enet) ![GitHub last commit](https://img.shields.io/github/last-commit/zpl-c/enet)](https://github.com/zpl-c/enet) - Simple, lightweight and reliable UDP networking library.
     - 🎉 [librg ![GitHub Repo Stars](https://img.shields.io/github/stars/zpl-c/librg) ![GitHub last commit](https://img.shields.io/github/last-commit/zpl-c/librg)](https://github.com/zpl-c/librg) - Middleware between networking / file-streaming libraries and app logic.
     - 🎉 [netcode ![GitHub Repo Stars](https://img.shields.io/github/stars/mas-bandwidth/netcode) ![GitHub last commit](https://img.shields.io/github/last-commit/mas-bandwidth/netcode)](https://github.com/mas-bandwidth/netcode) - Secure client/server protocol for multiplayer games built on top of UDP.
 - C: Physics
@@ -427,7 +427,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [AnKi 3D Engine ![GitHub Repo Stars](https://img.shields.io/github/stars/godlikepanos/anki-3d-engine) ![GitHub last commit](https://img.shields.io/github/last-commit/godlikepanos/anki-3d-engine)](https://github.com/godlikepanos/anki-3d-engine) - Vulkan backend, modern renderer, scripting, physics and more.
     - 🔒 [Crown Engine ![GitHub Repo Stars](https://img.shields.io/github/stars/crownengine/crown) ![GitHub last commit](https://img.shields.io/github/last-commit/crownengine/crown)](https://github.com/crownengine/crown) - Data-driven 3D and 2D game engine.
     - 🎉 [Crystal Engine ![GitHub Repo Stars](https://img.shields.io/github/stars/neelmewada/CrystalEngine) ![GitHub last commit](https://img.shields.io/github/last-commit/neelmewada/CrystalEngine)](https://github.com/neelmewada/CrystalEngine) - Vulkan backend with PBR and styled GUI (_CrystalWidgets_).
-    - ���� [Doriax ![GitHub Repo Stars](https://img.shields.io/github/stars/doriaxengine/doriax) ![GitHub last commit](https://img.shields.io/github/last-commit/doriaxengine/doriax)](https://github.com/doriaxengine/doriax) - Cross-platform for 2D/3D projects. Formerly _Supernova_.
+    - 🎉 [Doriax ![GitHub Repo Stars](https://img.shields.io/github/stars/doriaxengine/doriax) ![GitHub last commit](https://img.shields.io/github/last-commit/doriaxengine/doriax)](https://github.com/doriaxengine/doriax) - Cross-platform for 2D/3D projects. Formerly _Supernova_.
     - 🎉 [Drop Creator ![GitHub Repo Stars](https://img.shields.io/github/stars/scidian/drop) ![GitHub last commit](https://img.shields.io/github/last-commit/scidian/drop)](https://github.com/scidian/drop) - No code, 2.5D game engine built with _Qt_, OpenGL and _Chipmunk Physics_.
     - 🎉 [Echo ![GitHub Repo Stars](https://img.shields.io/github/stars/timi-liuliang/echo) ![GitHub last commit](https://img.shields.io/github/last-commit/timi-liuliang/echo)](https://github.com/timi-liuliang/echo) - Cross-platform 2D/3D game engine.
     - 🔒 [Enigma ![GitHub Repo Stars](https://img.shields.io/github/stars/enigma-dev/enigma-dev) ![GitHub last commit](https://img.shields.io/github/last-commit/enigma-dev/enigma-dev)](https://github.com/enigma-dev/enigma-dev) - GameMaker compatible 2D engine.
@@ -665,7 +665,7 @@ _Language specific game engine development libraries / frameworks / code._
 
 ### Dart
 - 📚 [Awesome Dart ![GitHub Repo Stars](https://img.shields.io/github/stars/yissachar/awesome-dart) ![GitHub last commit](https://img.shields.io/github/last-commit/yissachar/awesome-dart)](https://github.com/yissachar/awesome-dart) - Curated list of awesome Dart frameworks, libraries, and software.
-- 🌎 [Dart](https://dart.dev) - Client-optimized language for fast apps on any platform. [[GitHub](https://github.com/dart-lang/)]
+- ���� [Dart](https://dart.dev) - Client-optimized language for fast apps on any platform. [[GitHub](https://github.com/dart-lang/)]
 - Dart: App Framework
     - 🎉 [Flutter](https://flutter.dev) - Open source app framework by _Google_. [[Awesome ![GitHub Repo Stars](https://img.shields.io/github/stars/Solido/awesome-flutter) ![GitHub last commit](https://img.shields.io/github/last-commit/Solido/awesome-flutter)](https://github.com/Solido/awesome-flutter) | [GitHub](https://github.com/flutter)]
 - Dart: File Formats
