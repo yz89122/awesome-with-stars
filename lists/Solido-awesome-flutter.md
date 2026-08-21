@@ -465,7 +465,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 #### Scanner
 
 - [QR Code Reader ![GitHub Repo Stars](https://img.shields.io/github/stars/villela/flutter_qrcode_reader) ![GitHub last commit](https://img.shields.io/github/last-commit/villela/flutter_qrcode_reader)](https://github.com/villela/flutter_qrcode_reader) [232⭐] - QR Code reader plugin by [Matheus Villela](https://github.com/villela).
-- [Fast QR Reader View ![GitHub Repo Stars](https://img.shields.io/github/stars/facundomedica/fast_qr_reader_view) ![GitHub last commit](https://img.shields.io/github/last-commit/facundomedica/fast_qr_reader_view)](https://github.com/facundomedica/fast_qr_reader_view) [292⭐] - Live multicode reader by [Facundo Medica](https://github.com/facundomedica).
+- [Fast QR Reader View ![GitHub Repo Stars](https://img.shields.io/github/stars/facundomedica/fast_qr_reader_view) ![GitHub last commit](https://img.shields.io/github/last-commit/facundomedica/fast_qr_reader_view)](https://github.com/facundomedica/fast_qr_reader_view) [292���] - Live multicode reader by [Facundo Medica](https://github.com/facundomedica).
 
 #### Bluetooth / NFC / Beacon
 

@@ -328,7 +328,7 @@ Table of Contents
 
 * [Intel Tools for Students](https://software.intel.com/en-us/qualify-for-free-software/student) [FREE] - Free access to the select Intel® Software Development Products, including: Intel® XDK, Intel® Video Pro Analyzer, Intel® System Studio, Intel® Parallel Studio XE Composer Edition and Intel® Parallel Studio XE Cluster Edition (includes Fortran and C/C++).
 
-* [Exploratory](https://exploratory.io/) [FREE] - Exploratory’s Simple UI experience makes it possible for Anyone to use the latest and the most advanced innovation in Data Science to discover deep insights.Student Registration Available for pricing.
+* [Exploratory](https://exploratory.io/) [FREE] - Exploratory���s Simple UI experience makes it possible for Anyone to use the latest and the most advanced innovation in Data Science to discover deep insights.Student Registration Available for pricing.
 
 * [Github Student Developer Pack](https://education.github.com/pack/) [FREE] - The GitHub Student Developer Pack is a collection of tools and resources that are available to students for free. It includes access to various developer tools, cloud services, and learning resources.
 
