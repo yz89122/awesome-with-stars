@@ -402,7 +402,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Amplitude Audio SDK ![GitHub Repo Stars](https://img.shields.io/github/stars/SparkyStudios/AmplitudeAudioSDK) ![GitHub last commit](https://img.shields.io/github/last-commit/SparkyStudios/AmplitudeAudioSDK)](https://github.com/SparkyStudios/AmplitudeAudioSDK) - Cross-platform audio engine designed for the needs of games.
     - 💰 [irrKlang](https://www.ambiera.com/irrklang/) - High level 2D/3D sound engine and audio library.
     - 💰 [Juce ![GitHub Repo Stars](https://img.shields.io/github/stars/juce-framework/JUCE) ![GitHub last commit](https://img.shields.io/github/last-commit/juce-framework/JUCE)](https://github.com/juce-framework/JUCE) - The leading framework for multi-platform audio apps.
-    - ��� [OpenAL Soft ![GitHub Repo Stars](https://img.shields.io/github/stars/kcat/openal-soft) ![GitHub last commit](https://img.shields.io/github/last-commit/kcat/openal-soft)](https://github.com/kcat/openal-soft) - Software implementation of the _OpenAL_ 3D audio API.
+    - 🔒 [OpenAL Soft ![GitHub Repo Stars](https://img.shields.io/github/stars/kcat/openal-soft) ![GitHub last commit](https://img.shields.io/github/last-commit/kcat/openal-soft)](https://github.com/kcat/openal-soft) - Software implementation of the _OpenAL_ 3D audio API.
     - 🎉 [PortAudio ![GitHub Repo Stars](https://img.shields.io/github/stars/PortAudio/portaudio) ![GitHub last commit](https://img.shields.io/github/last-commit/PortAudio/portaudio)](https://github.com/PortAudio/portaudio) - Cross-platform audio library.
     - 🎉 [Steam Audio ![GitHub Repo Stars](https://img.shields.io/github/stars/ValveSoftware/steam-audio) ![GitHub last commit](https://img.shields.io/github/last-commit/ValveSoftware/steam-audio)](https://github.com/ValveSoftware/steam-audio) - Cross-platform spatial audio SDK for games and VR.
 - C++: Cross-Platform
@@ -413,7 +413,7 @@ _Language specific game engine development libraries / frameworks / code._
 - C++: Fonts
     - 🎉 [HarfBuzz ![GitHub Repo Stars](https://img.shields.io/github/stars/harfbuzz/harfbuzz) ![GitHub last commit](https://img.shields.io/github/last-commit/harfbuzz/harfbuzz)](https://github.com/harfbuzz/harfbuzz) - Text shaping library. Formatted and positioned glyph output.
     - 🎉 [msdfgen ![GitHub Repo Stars](https://img.shields.io/github/stars/Chlumsky/msdfgen) ![GitHub last commit](https://img.shields.io/github/last-commit/Chlumsky/msdfgen)](https://github.com/Chlumsky/msdfgen) - Multi-channel signed distance field generator.
-    - 💰 [Slug](http://sluglibrary.com) - High-quality, resolution-independent text and vector graphics for 3D apps.
+    - ���� [Slug](http://sluglibrary.com) - High-quality, resolution-independent text and vector graphics for 3D apps.
     - 🎉 [slughorn ![GitHub Repo Stars](https://img.shields.io/github/stars/AlphaPixel/slughorn) ![GitHub last commit](https://img.shields.io/github/last-commit/AlphaPixel/slughorn)](https://github.com/AlphaPixel/slughorn) - Library for shoehorning the _Slug_ text/graphics GPU rendering library into projects.
 - C++: File Formats
     - ⭐ [Jpeg-Compressor ![GitHub Repo Stars](https://img.shields.io/github/stars/richgel999/jpeg-compressor) ![GitHub last commit](https://img.shields.io/github/last-commit/richgel999/jpeg-compressor)](https://github.com/richgel999/jpeg-compressor) - Single-file library that writes baseline JPEG compressed images.
@@ -1199,7 +1199,7 @@ _Exploring specialty game engine / game development topics and features._
 
 ### Fluid / Smoke
 - 📚 [Fluid Simulation on the GPU](https://developer.nvidia.com/gpugems/gpugems/part-vi-beyond-triangles/chapter-38-fast-fluid-dynamics-simulation-gpu) - GPU Gems Chapter 38 - Fast, stable fluid simulation on the GPU.
-- 🔒 [Fluids-2D ![GitHub Repo Stars](https://img.shields.io/github/stars/mharrys/fluids-2d) ![GitHub last commit](https://img.shields.io/github/last-commit/mharrys/fluids-2d)](https://github.com/mharrys/fluids-2d) - Real-time fluid dynamics on the GPU with the help of WebGL and Three.js.
+- ��� [Fluids-2D ![GitHub Repo Stars](https://img.shields.io/github/stars/mharrys/fluids-2d) ![GitHub last commit](https://img.shields.io/github/last-commit/mharrys/fluids-2d)](https://github.com/mharrys/fluids-2d) - Real-time fluid dynamics on the GPU with the help of WebGL and Three.js.
 - 🔒 [GPU Fluid Experiments](http://haxiomic.github.io/GPU-Fluid-Experiments/html5/) - Cross-platform GPU fluid simulation. [[Source ![GitHub Repo Stars](https://img.shields.io/github/stars/haxiomic/GPU-Fluid-Experiments) ![GitHub last commit](https://img.shields.io/github/last-commit/haxiomic/GPU-Fluid-Experiments)](https://github.com/haxiomic/GPU-Fluid-Experiments)]
 - 🎉 [WebGL Fluid Simulation](https://paveldogreat.github.io/WebGL-Fluid-Simulation/) - Play with fluids in your browser (even on mobile). [[Source ![GitHub Repo Stars](https://img.shields.io/github/stars/PavelDoGreat/WebGL-Fluid-Simulation) ![GitHub last commit](https://img.shields.io/github/last-commit/PavelDoGreat/WebGL-Fluid-Simulation)](https://github.com/PavelDoGreat/WebGL-Fluid-Simulation)]
 
@@ -1357,7 +1357,7 @@ _Software to help with game engine / video game development._
 
 ### Animation Software
 - 💸 [Cascadeur](https://cascadeur.com) - 3D animation software for physics-based character animation.
-- 🆓 [DragonBones](https://dragonbones.github.io/en/index.html) - Open source 2D game skeletal animation solution. [[Source](https://github.com/DragonBones/)]
+- ���� [DragonBones](https://dragonbones.github.io/en/index.html) - Open source 2D game skeletal animation solution. [[Source](https://github.com/DragonBones/)]
 - 💰 [FaceFX](https://facefx.com/) - Leading provider of audio-based facial animation.
 - 💸 [Mixamo](https://www.mixamo.com/#/) - Animate 3D characters for games, films and more. By _Adobe_.
 - 💸 [Spine](http://esotericsoftware.com/) - 2D animation for games.
