@@ -489,7 +489,7 @@ _Everything that simplifies interactions with the database._
 
 > **[ArcadeDB ![GitHub Repo Stars](https://img.shields.io/github/stars/ArcadeData/arcadedb) ![GitHub last commit](https://img.shields.io/github/last-commit/ArcadeData/arcadedb)](https://github.com/ArcadeData/arcadedb)** <kbd>★ 1.1k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Multi-model database supporting graphs, documents, key-value, time series, and vector embeddings with SQL, Cypher, Gremlin, MongoDB, and Redis API compatibility.
 
-> **[Chronicle Map ![GitHub Repo Stars](https://img.shields.io/github/stars/OpenHFT/Chronicle-Map) ![GitHub last commit](https://img.shields.io/github/last-commit/OpenHFT/Chronicle-Map)](https://github.com/OpenHFT/Chronicle-Map)** <kbd>★ 3.0k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Efficient, in-memory (opt. persisted to disk), off-heap key-value store.
+> **[Chronicle Map ![GitHub Repo Stars](https://img.shields.io/github/stars/OpenHFT/Chronicle-Map) ![GitHub last commit](https://img.shields.io/github/last-commit/OpenHFT/Chronicle-Map)](https://github.com/OpenHFT/Chronicle-Map)** <kbd>�� 3.0k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Efficient, in-memory (opt. persisted to disk), off-heap key-value store.
 
 > **[ClickHouse Java ![GitHub Repo Stars](https://img.shields.io/github/stars/ClickHouse/clickhouse-java) ![GitHub last commit](https://img.shields.io/github/last-commit/ClickHouse/clickhouse-java)](https://github.com/ClickHouse/clickhouse-java)** <kbd>★ 1.6k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Java clients and JDBC driver for ClickHouse.
 
