@@ -472,7 +472,7 @@ Part 1](https://0fps.net/2014/02/10/replication-in-networked-games-overview-part
 [Art Industry Resources](https://www.notion.so/Art-Industry-Resources-86e6733162f24c26829aa65961f461e3) 💠🟪 - A Megalist of Art Resources!
 
 
-[Saint11: Tutorials](https://saint11.art/blog/pixel-art-tutorials/) 💠🟪 | [Articles](https://saint11.art/pixel_articles/) | [Patreon](https://www.patreon.com/saint11) - Fantastic pixel art animation tutorials and articles on pixel art. Note that most patreon posts are free.
+[Saint11: Tutorials](https://saint11.art/blog/pixel-art-tutorials/) ����🟪 | [Articles](https://saint11.art/pixel_articles/) | [Patreon](https://www.patreon.com/saint11) - Fantastic pixel art animation tutorials and articles on pixel art. Note that most patreon posts are free.
 
 
 [Pixel Art Class](https://www.youtube.com/watch?v=7BWr2tlK-4c&list=PLLdxW--S_0h4dlWUpl-TzBp-ulqK3NiM_) - A tutorial series covering the basics of art aimed at pixel artists.
@@ -801,7 +801,7 @@ Royalty free music! Don't forget to check the license.
 [How to Become a Video Game Producer](https://www.gameindustrycareerguide.com/how-to-become-a-video-game-associate-producer/) - An interview with Merric Shank, a senior producer, on the role, with  hiring advice for entry-level producers.
 
 
-[Awesome Game Production ![GitHub Repo Stars](https://img.shields.io/github/stars/vhladiienko/awesome-game-production) ![GitHub last commit](https://img.shields.io/github/last-commit/vhladiienko/awesome-game-production)](https://github.com/vhladiienko/awesome-game-production) ���� - An Awesome list, focused on project and product management in game development.
+[Awesome Game Production ![GitHub Repo Stars](https://img.shields.io/github/stars/vhladiienko/awesome-game-production) ![GitHub last commit](https://img.shields.io/github/last-commit/vhladiienko/awesome-game-production)](https://github.com/vhladiienko/awesome-game-production) 🟪 - An Awesome list, focused on project and product management in game development.
 
 
 <br />
@@ -848,7 +848,7 @@ Royalty free music! Don't forget to check the license.
 [Game Dev LFW Resources](https://javieracordero.notion.site/cce9a8faef6e4f31bb43b7630521a4d2?v=efdf687094be499bb2d9a33f55b906bc) 🟪 - Yet another list of resources and communities!
 
 
-[Interview Placemat](https://www.linkedin.com/posts/victoriaearle_jobhunt-jobsearch-interviewing-activity-7052059362810335232-UhrI/) �� - A template useful for interview prep. [Archived Image](archives/InterviewPlacemat.jpg).
+[Interview Placemat](https://www.linkedin.com/posts/victoriaearle_jobhunt-jobsearch-interviewing-activity-7052059362810335232-UhrI/) 🟪 - A template useful for interview prep. [Archived Image](archives/InterviewPlacemat.jpg).
 
 
 [The Complete List of Gaming Jobs](https://hitmarker.net/career-advice/the-complete-list-of-gaming-jobs)  🟪 - A comprehensive list of gaming jobs and specialties (includes both game development and esports).
