@@ -527,7 +527,7 @@ _Everything that simplifies interactions with the database._
 
 > **[Lettuce ![GitHub Repo Stars](https://img.shields.io/github/stars/redis/lettuce) ![GitHub last commit](https://img.shields.io/github/last-commit/redis/lettuce)](https://github.com/redis/lettuce)** <kbd>★ 5.8k</kbd> <kbd>MIT</kbd> 🟢<br>Lettuce is a scalable Redis client for building non-blocking Reactive applications.
 
-> **[Liquibase ![GitHub Repo Stars](https://img.shields.io/github/stars/liquibase/liquibase) ![GitHub last commit](https://img.shields.io/github/last-commit/liquibase/liquibase)](https://github.com/liquibase/liquibase)** <kbd>�� 5.6k</kbd> 🟢<br>Database-independent library for tracking, managing and applying database schema changes.
+> **[Liquibase ![GitHub Repo Stars](https://img.shields.io/github/stars/liquibase/liquibase) ![GitHub last commit](https://img.shields.io/github/last-commit/liquibase/liquibase)](https://github.com/liquibase/liquibase)** <kbd>★ 5.6k</kbd> 🟢<br>Database-independent library for tracking, managing and applying database schema changes.
 
 > **[MapDB ![GitHub Repo Stars](https://img.shields.io/github/stars/jankotek/mapdb) ![GitHub last commit](https://img.shields.io/github/last-commit/jankotek/mapdb)](https://github.com/jankotek/mapdb)** <kbd>★ 5.0k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Embedded database engine that provides concurrent collections backed on disk or in off-heap memory.
 
@@ -1335,7 +1335,7 @@ _Tools that observe/monitor applications in production by providing telemetry._
 
 > **[Pinpoint ![GitHub Repo Stars](https://img.shields.io/github/stars/naver/pinpoint) ![GitHub last commit](https://img.shields.io/github/last-commit/naver/pinpoint)](https://github.com/naver/pinpoint)** <kbd>★ 13.9k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Open-source APM tool.
 
-> **[Prometheus ![GitHub Repo Stars](https://img.shields.io/github/stars/prometheus/client_java) ![GitHub last commit](https://img.shields.io/github/last-commit/prometheus/client_java)](https://github.com/prometheus/client_java)** <kbd>★ 2.3k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Provides a multi-dimensional data model, DSL, autonomous server nodes and much more.
+> **[Prometheus ![GitHub Repo Stars](https://img.shields.io/github/stars/prometheus/client_java) ![GitHub last commit](https://img.shields.io/github/last-commit/prometheus/client_java)](https://github.com/prometheus/client_java)** <kbd>★ 2.3k</kbd> <kbd>Apache-2.0</kbd> ��<br>Provides a multi-dimensional data model, DSL, autonomous server nodes and much more.
 
 > **[Sentry ![GitHub Repo Stars](https://img.shields.io/github/stars/getsentry/sentry-java) ![GitHub last commit](https://img.shields.io/github/last-commit/getsentry/sentry-java)](https://github.com/getsentry/sentry-java)** <kbd>★ 1.3k</kbd> <kbd>MIT</kbd> 🟢<br>Integration with [Sentry ![GitHub Repo Stars](https://img.shields.io/github/stars/getsentry/sentry) ![GitHub last commit](https://img.shields.io/github/last-commit/getsentry/sentry)](https://github.com/getsentry/sentry), an application error tracking and performance analysis platform.
 

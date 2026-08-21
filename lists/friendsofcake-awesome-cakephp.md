@@ -146,6 +146,7 @@ Additional lists you might find useful:
 ### Email
 *Transports and tools for email handling.*
 
+- [CakeSymfonyMailer plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/josbeir/cakephp-symfony-mailer) ![GitHub last commit](https://img.shields.io/github/last-commit/josbeir/cakephp-symfony-mailer)](https://github.com/josbeir/cakephp-symfony-mailer) - Use Symfony Mailer as a CakePHP mail transport.
 - [Queue plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/dereuromark/cakephp-queue) ![GitHub last commit](https://img.shields.io/github/last-commit/dereuromark/cakephp-queue)](https://github.com/dereuromark/cakephp-queue) - A dependency-free queue-based mail solution using Mailer/Email class, allowing re-queue on (network) failure.
 - [SendGrid plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/sprintcube/cakephp-sendgrid) ![GitHub last commit](https://img.shields.io/github/last-commit/sprintcube/cakephp-sendgrid)](https://github.com/sprintcube/cakephp-sendgrid) - Email transport plugin for sending email via SendGrid API.
 
