@@ -90,7 +90,7 @@ Core tools and resources maintained by the Gemini CLI team.
 Alternative user interfaces and frontends for interacting with Gemini CLI beyond the terminal.
 
 - [Gemini CLI Desktop ![GitHub Repo Stars](https://img.shields.io/github/stars/Piebald-AI/gemini-CLI-desktop) ![GitHub last commit](https://img.shields.io/github/last-commit/Piebald-AI/gemini-CLI-desktop)](https://github.com/Piebald-AI/gemini-CLI-desktop) - Beautiful desktop and web UI that makes Gemini CLI accessible to non-terminal/mobile users while preserving all its powerful features.
-- [AionUi ![GitHub Repo Stars](https://img.shields.io/github/stars/iOfficeAI/AionUi) ![GitHub last commit](https://img.shields.io/github/last-commit/iOfficeAI/AionUi)](https://github.com/iOfficeAI/AionUi) - Free, local, open-source GUI app for Gemini CLI — Better Chat UI, File Management, AI image editing, multi-agent support, multi-LLMs & apikey polling, code diff view & more.
+- [AionUi ![GitHub Repo Stars](https://img.shields.io/github/stars/iOfficeAI/AionUi) ![GitHub last commit](https://img.shields.io/github/last-commit/iOfficeAI/AionUi)](https://github.com/iOfficeAI/AionUi) - Free, local, open-source GUI app for Gemini CLI �� Better Chat UI, File Management, AI image editing, multi-agent support, multi-LLMs & apikey polling, code diff view & more.
 - [Yaw](https://yaw.sh) - Cross-platform terminal that auto-detects Gemini CLI and opens a split-pane workflow with a companion terminal.
 - [Termly](https://termly.dev/) - Free native iOS and Android app to monitor and control Gemini CLI (and other CLI AI assistants) remotely. Zero-knowledge E2E encryption, pairs in under 60 seconds via QR code. No subscriptions, no usage limits.
 
