@@ -1335,7 +1335,7 @@ _Tools that observe/monitor applications in production by providing telemetry._
 
 > **[Pinpoint ![GitHub Repo Stars](https://img.shields.io/github/stars/naver/pinpoint) ![GitHub last commit](https://img.shields.io/github/last-commit/naver/pinpoint)](https://github.com/naver/pinpoint)** <kbd>★ 13.9k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Open-source APM tool.
 
-> **[Prometheus ![GitHub Repo Stars](https://img.shields.io/github/stars/prometheus/client_java) ![GitHub last commit](https://img.shields.io/github/last-commit/prometheus/client_java)](https://github.com/prometheus/client_java)** <kbd>★ 2.3k</kbd> <kbd>Apache-2.0</kbd> ��<br>Provides a multi-dimensional data model, DSL, autonomous server nodes and much more.
+> **[Prometheus ![GitHub Repo Stars](https://img.shields.io/github/stars/prometheus/client_java) ![GitHub last commit](https://img.shields.io/github/last-commit/prometheus/client_java)](https://github.com/prometheus/client_java)** <kbd>★ 2.3k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Provides a multi-dimensional data model, DSL, autonomous server nodes and much more.
 
 > **[Sentry ![GitHub Repo Stars](https://img.shields.io/github/stars/getsentry/sentry-java) ![GitHub last commit](https://img.shields.io/github/last-commit/getsentry/sentry-java)](https://github.com/getsentry/sentry-java)** <kbd>★ 1.3k</kbd> <kbd>MIT</kbd> 🟢<br>Integration with [Sentry ![GitHub Repo Stars](https://img.shields.io/github/stars/getsentry/sentry) ![GitHub last commit](https://img.shields.io/github/last-commit/getsentry/sentry)](https://github.com/getsentry/sentry), an application error tracking and performance analysis platform.
 
