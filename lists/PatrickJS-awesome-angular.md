@@ -1628,6 +1628,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [NgSimplicityForms ![GitHub Repo Stars](https://img.shields.io/github/stars/BryanGWalsh/NgSimplicityForms) ![GitHub last commit](https://img.shields.io/github/last-commit/BryanGWalsh/NgSimplicityForms)](https://github.com/BryanGWalsh/NgSimplicityForms) - Composable Angular dynamic forms framework with shared core APIs and renderer packages for Bootstrap and Angular Material.
 * [ng-modular-forms ![GitHub Repo Stars](https://img.shields.io/github/stars/ronbodnar/ng-modular-forms) ![GitHub last commit](https://img.shields.io/github/last-commit/ronbodnar/ng-modular-forms)](https://github.com/ronbodnar/ng-modular-forms) - A lightweight architectural layer with built-in components for modular Angular reactive forms.
 * [ngx-form-signals ![GitHub Repo Stars](https://img.shields.io/github/stars/xonaib/ngx-form-signals) ![GitHub last commit](https://img.shields.io/github/last-commit/xonaib/ngx-form-signals)](https://github.com/xonaib/ngx-form-signals) - A headless, signal-native form coordination library for Angular that manages field state and cross-field rules without enforcing components, CSS, layouts, or adapters.
+* [GolemUI ![GitHub Repo Stars](https://img.shields.io/github/stars/golemui/golemui) ![GitHub last commit](https://img.shields.io/github/last-commit/golemui/golemui)](https://github.com/golemui/golemui) - Declarative Form Engine.
 
 ### Form Controls
 
