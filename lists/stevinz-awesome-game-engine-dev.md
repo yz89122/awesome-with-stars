@@ -1188,7 +1188,7 @@ _Exploring specialty game engine / game development topics and features._
 
 ### Enemies / Pathfinding
 - 📚 [Intro to AI](https://www.raywenderlich.com/2808-introduction-to-ai-programming-for-games) - Intro to Enemy AI Programming for Games at RayWenderlich.com.
-- ���� [Beginner's Guide to Game AI](https://www.gamedev.net/tutorials/programming/artificial-intelligence/the-total-beginners-guide-to-game-ai-r4942/) - Intro to concepts used in Enemy AI for games.
+- 📚 [Beginner's Guide to Game AI](https://www.gamedev.net/tutorials/programming/artificial-intelligence/the-total-beginners-guide-to-game-ai-r4942/) - Intro to concepts used in Enemy AI for games.
 
 ### Entity Component Systems
 - 📚 [A Simple Entity Component System](https://austinmorlan.com/posts/entity_component_system/) - Basis for an ECS in C++.
