@@ -510,7 +510,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Intermediate Graphics Library (IGL) ![GitHub Repo Stars](https://img.shields.io/github/stars/facebook/igl) ![GitHub last commit](https://img.shields.io/github/last-commit/facebook/igl)](https://github.com/facebook/igl) - Cross-platform abstraction layer by _Facebook_.
     - 🎉 [LLGL ![GitHub Repo Stars](https://img.shields.io/github/stars/LukasBanana/LLGL) ![GitHub last commit](https://img.shields.io/github/last-commit/LukasBanana/LLGL)](https://github.com/LukasBanana/LLGL) - Thin abstraction layer for OpenGL, Direct3D, Vulkan, and Metal.
     - 🎉 [Magnum Engine ![GitHub Repo Stars](https://img.shields.io/github/stars/mosra/magnum) ![GitHub last commit](https://img.shields.io/github/last-commit/mosra/magnum)](https://github.com/mosra/magnum) - Modular C++11 graphics middleware for games and apps.
-    - 🎉 [NVRHI ![GitHub Repo Stars](https://img.shields.io/github/stars/NVIDIA-RTX/NVRHI) ![GitHub last commit](https://img.shields.io/github/last-commit/NVIDIA-RTX/NVRHI)](https://github.com/NVIDIA-RTX/NVRHI) - _NVIDIA_ abstraction layer over multiple graphics APIs.
+    - ���� [NVRHI ![GitHub Repo Stars](https://img.shields.io/github/stars/NVIDIA-RTX/NVRHI) ![GitHub last commit](https://img.shields.io/github/last-commit/NVIDIA-RTX/NVRHI)](https://github.com/NVIDIA-RTX/NVRHI) - _NVIDIA_ abstraction layer over multiple graphics APIs.
     - 🎉 [Ogre ![GitHub Repo Stars](https://img.shields.io/github/stars/OGRECave/ogre) ![GitHub last commit](https://img.shields.io/github/last-commit/OGRECave/ogre)](https://github.com/OGRECave/ogre) - Scene-oriented, flexible 3D engine.
     - 🎉 [OSRE ![GitHub Repo Stars](https://img.shields.io/github/stars/kimkulling/osre) ![GitHub last commit](https://img.shields.io/github/last-commit/kimkulling/osre)](https://github.com/kimkulling/osre) - Just another "Open Source Render Engine".
     - 🔒 [StratusGFX ![GitHub Repo Stars](https://img.shields.io/github/stars/KTStephano/StratusGFX) ![GitHub last commit](https://img.shields.io/github/last-commit/KTStephano/StratusGFX)](https://github.com/KTStephano/StratusGFX) - Realtime 3D rendering engine implementing modern graphics techniques.
@@ -687,7 +687,7 @@ _Language specific game engine development libraries / frameworks / code._
 
 ### Go
 - 📚 [Awesome Go ![GitHub Repo Stars](https://img.shields.io/github/stars/avelino/awesome-go) ![GitHub last commit](https://img.shields.io/github/last-commit/avelino/awesome-go)](https://github.com/avelino/awesome-go) - Awesome Go frameworks, libraries and software.
-- 🌎 [Go](https://go.dev/) - Statically typed, compiled programming language designed at _Google_. [[GitHub](https://github.com/golang)]
+- ��� [Go](https://go.dev/) - Statically typed, compiled programming language designed at _Google_. [[GitHub](https://github.com/golang)]
 - Go: Audio
     - 🎉 [Beep ![GitHub Repo Stars](https://img.shields.io/github/stars/faiface/beep) ![GitHub last commit](https://img.shields.io/github/last-commit/faiface/beep)](https://github.com/faiface/beep) - Playback and audio-processing.
 - Go: Game Engine w/Editor
@@ -1199,7 +1199,7 @@ _Exploring specialty game engine / game development topics and features._
 
 ### Fluid / Smoke
 - 📚 [Fluid Simulation on the GPU](https://developer.nvidia.com/gpugems/gpugems/part-vi-beyond-triangles/chapter-38-fast-fluid-dynamics-simulation-gpu) - GPU Gems Chapter 38 - Fast, stable fluid simulation on the GPU.
-- 🔒 [Fluids-2D ![GitHub Repo Stars](https://img.shields.io/github/stars/mharrys/fluids-2d) ![GitHub last commit](https://img.shields.io/github/last-commit/mharrys/fluids-2d)](https://github.com/mharrys/fluids-2d) - Real-time fluid dynamics on the GPU with the help of WebGL and Three.js.
+- ���� [Fluids-2D ![GitHub Repo Stars](https://img.shields.io/github/stars/mharrys/fluids-2d) ![GitHub last commit](https://img.shields.io/github/last-commit/mharrys/fluids-2d)](https://github.com/mharrys/fluids-2d) - Real-time fluid dynamics on the GPU with the help of WebGL and Three.js.
 - 🔒 [GPU Fluid Experiments](http://haxiomic.github.io/GPU-Fluid-Experiments/html5/) - Cross-platform GPU fluid simulation. [[Source ![GitHub Repo Stars](https://img.shields.io/github/stars/haxiomic/GPU-Fluid-Experiments) ![GitHub last commit](https://img.shields.io/github/last-commit/haxiomic/GPU-Fluid-Experiments)](https://github.com/haxiomic/GPU-Fluid-Experiments)]
 - 🎉 [WebGL Fluid Simulation](https://paveldogreat.github.io/WebGL-Fluid-Simulation/) - Play with fluids in your browser (even on mobile). [[Source ![GitHub Repo Stars](https://img.shields.io/github/stars/PavelDoGreat/WebGL-Fluid-Simulation) ![GitHub last commit](https://img.shields.io/github/last-commit/PavelDoGreat/WebGL-Fluid-Simulation)](https://github.com/PavelDoGreat/WebGL-Fluid-Simulation)]
 
