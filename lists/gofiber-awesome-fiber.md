@@ -270,7 +270,7 @@ Fiber is an open-source project that runs on donations to pay the bills, e.g., o
 <tr><td valign="top"><strong>🪴 Fiber Friend</strong></td><td><a href="https://github.com/simonheisstpeter" title="@simonheisstpeter"><img src="https://github.com/simonheisstpeter.png" width="32" alt="@simonheisstpeter" /></a></td></tr>
 </table>
 
-### 🎁 One-time Sponsors
+### ���� One-time Sponsors
 
 <table>
 <tr><td valign="top"><strong>🚀 Fiber Hero</strong></td><td><a href="https://www.thanks.dev" title="@thnxdev"><img src="https://github.com/thnxdev.png" width="40" alt="@thnxdev" /></a></td></tr>
