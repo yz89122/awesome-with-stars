@@ -369,7 +369,6 @@ _Libraries for working with HTTP._
   - [httpx2 ![GitHub Repo Stars](https://img.shields.io/github/stars/pydantic/httpx2) ![GitHub last commit](https://img.shields.io/github/last-commit/pydantic/httpx2)](https://github.com/pydantic/httpx2) - HTTP/1.1 and HTTP/2 client with sync and async APIs, maintained by Pydantic ([httpx ![GitHub Repo Stars](https://img.shields.io/github/stars/encode/httpx) ![GitHub last commit](https://img.shields.io/github/last-commit/encode/httpx)](https://github.com/encode/httpx) fork).
 - URL Manipulation
   - [yarl ![GitHub Repo Stars](https://img.shields.io/github/stars/aio-libs/yarl) ![GitHub last commit](https://img.shields.io/github/last-commit/aio-libs/yarl)](https://github.com/aio-libs/yarl) - Yet another URL library.
-  - [httpx.URL](https://www.python-httpx.org/api/) - The immutable URL class bundled with HTTPX.
 
 ### Web Scraping
 
@@ -399,7 +398,7 @@ _Libraries that implement Object-Relational Mapping or data mapping techniques._
 - Relational Databases
   - [sqlalchemy ![GitHub Repo Stars](https://img.shields.io/github/stars/sqlalchemy/sqlalchemy) ![GitHub last commit](https://img.shields.io/github/last-commit/sqlalchemy/sqlalchemy)](https://github.com/sqlalchemy/sqlalchemy) - The Python SQL Toolkit and Object Relational Mapper.
     - [awesome-sqlalchemy ![GitHub Repo Stars](https://img.shields.io/github/stars/dahlia/awesome-sqlalchemy) ![GitHub last commit](https://img.shields.io/github/last-commit/dahlia/awesome-sqlalchemy)](https://github.com/dahlia/awesome-sqlalchemy)
-  - [django.db.models ![GitHub Repo Stars](https://img.shields.io/github/stars/django/django) ![GitHub last commit](https://img.shields.io/github/last-commit/django/django)](https://github.com/django/django) - The Django [ORM](https://docs.djangoproject.com/en/dev/topics/db/models/).
+  - [django.db.models ![GitHub Repo Stars](https://img.shields.io/github/stars/django/django) ![GitHub last commit](https://img.shields.io/github/last-commit/django/django)](https://github.com/django/django) - (part of Django) The Django [ORM](https://docs.djangoproject.com/en/dev/topics/db/models/).
   - [peewee ![GitHub Repo Stars](https://img.shields.io/github/stars/coleifer/peewee) ![GitHub last commit](https://img.shields.io/github/last-commit/coleifer/peewee)](https://github.com/coleifer/peewee) - A small, expressive ORM.
   - [sqlmodel ![GitHub Repo Stars](https://img.shields.io/github/stars/fastapi/sqlmodel) ![GitHub last commit](https://img.shields.io/github/last-commit/fastapi/sqlmodel)](https://github.com/fastapi/sqlmodel) - SQLModel is based on Python type annotations, and powered by Pydantic and SQLAlchemy.
 - NoSQL Databases
@@ -531,7 +530,7 @@ _Libraries for geocoding addresses and working with latitudes and longitudes._
 - [geopandas ![GitHub Repo Stars](https://img.shields.io/github/stars/geopandas/geopandas) ![GitHub last commit](https://img.shields.io/github/last-commit/geopandas/geopandas)](https://github.com/geopandas/geopandas) - Python tools for geographic data (GeoSeries/GeoDataFrame) built on pandas.
 - [geopy ![GitHub Repo Stars](https://img.shields.io/github/stars/geopy/geopy) ![GitHub last commit](https://img.shields.io/github/last-commit/geopy/geopy)](https://github.com/geopy/geopy) - Python Geocoding Toolbox.
 - [geojson ![GitHub Repo Stars](https://img.shields.io/github/stars/jazzband/geojson) ![GitHub last commit](https://img.shields.io/github/last-commit/jazzband/geojson)](https://github.com/jazzband/geojson) - Python bindings and utilities for GeoJSON.
-- [geodjango ![GitHub Repo Stars](https://img.shields.io/github/stars/django/django) ![GitHub last commit](https://img.shields.io/github/last-commit/django/django)](https://github.com/django/django) - A world-class geographic web framework that is part of [Django](https://docs.djangoproject.com/en/dev/ref/contrib/gis/).
+- [geodjango ![GitHub Repo Stars](https://img.shields.io/github/stars/django/django) ![GitHub last commit](https://img.shields.io/github/last-commit/django/django)](https://github.com/django/django) - (part of Django) A world-class [geographic web framework](https://docs.djangoproject.com/en/dev/ref/contrib/gis/).
 
 ### Science
 
@@ -1118,7 +1117,7 @@ _Frameworks and tools for penetration testing._
 _Tools for auditing dependencies against known vulnerabilities._
 
 - [pip-audit ![GitHub Repo Stars](https://img.shields.io/github/stars/pypa/pip-audit) ![GitHub last commit](https://img.shields.io/github/last-commit/pypa/pip-audit)](https://github.com/pypa/pip-audit) - Audits Python environments and dependency trees for known vulnerabilities, using the PyPI Advisory Database and OSV.
-- [uv audit](https://docs.astral.sh/uv/reference/cli/#uv-audit) - uv's built-in dependency vulnerability and malware scanning backed by OSV.
+- [uv-audit ![GitHub Repo Stars](https://img.shields.io/github/stars/astral-sh/uv) ![GitHub last commit](https://img.shields.io/github/last-commit/astral-sh/uv)](https://github.com/astral-sh/uv) - (part of uv) uv's [dependency vulnerability and malware scanning](https://docs.astral.sh/uv/reference/cli/#uv-audit) backed by OSV.
 
 ### Web Security
 
