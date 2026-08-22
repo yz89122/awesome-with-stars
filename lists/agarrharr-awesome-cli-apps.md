@@ -132,6 +132,7 @@ Inspired by the [awesome ![GitHub Repo Stars](https://img.shields.io/github/star
 - [termusic ![GitHub Repo Stars](https://img.shields.io/github/stars/tramhao/termusic) ![GitHub last commit](https://img.shields.io/github/last-commit/tramhao/termusic)](https://github.com/tramhao/termusic) - Music player in rust with download capabilities.
 - [ytm-player ![GitHub Repo Stars](https://img.shields.io/github/stars/peternaame-boop/ytm-player) ![GitHub last commit](https://img.shields.io/github/last-commit/peternaame-boop/ytm-player)](https://github.com/peternaame-boop/ytm-player) - YouTube Music player.
 - [tunein-cli ![GitHub Repo Stars](https://img.shields.io/github/stars/tsirysndr/tunein-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/tsirysndr/tunein-cli)](https://github.com/tsirysndr/tunein-cli) - TuneIn and Radio Browser client.
+- [cliamp ![GitHub Repo Stars](https://img.shields.io/github/stars/bjarneo/cliamp) ![GitHub last commit](https://img.shields.io/github/last-commit/bjarneo/cliamp)](https://github.com/bjarneo/cliamp) - Winamp-inspired local, streaming and radio player.
 
 ### Video
 

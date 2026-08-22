@@ -77,6 +77,7 @@ A curation of WebAssembly resources, projects, and communities.
 - [wasm-pack ![GitHub Repo Stars](https://img.shields.io/github/stars/rustwasm/wasm-pack) ![GitHub last commit](https://img.shields.io/github/last-commit/rustwasm/wasm-pack)](https://github.com/rustwasm/wasm-pack) - Build, test, and publish Rust-generated Wasm.
 - [Wabt ![GitHub Repo Stars](https://img.shields.io/github/stars/WebAssembly/wabt) ![GitHub last commit](https://img.shields.io/github/last-commit/WebAssembly/wabt)](https://github.com/WebAssembly/wabt) - WebAssembly binary tolkit.
 - [WASI ![GitHub Repo Stars](https://img.shields.io/github/stars/WebAssembly/WASI) ![GitHub last commit](https://img.shields.io/github/last-commit/WebAssembly/WASI)](https://github.com/WebAssembly/WASI) - WebAssembly system interface.
+- [Vedaksha ![GitHub Repo Stars](https://img.shields.io/github/stars/arthiqlabs/vedaksha) ![GitHub last commit](https://img.shields.io/github/last-commit/arthiqlabs/vedaksha)](https://github.com/arthiqlabs/vedaksha) - Rust astronomical ephemeris and Vedic computation library shipping a zero-data WebAssembly package for browsers and edge runtimes.
 
 ### Tools
 

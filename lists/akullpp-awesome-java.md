@@ -553,7 +553,7 @@ _Everything that simplifies interactions with the database._
 
 > **[Realm ![GitHub Repo Stars](https://img.shields.io/github/stars/realm/realm-java) ![GitHub last commit](https://img.shields.io/github/last-commit/realm/realm-java)](https://github.com/realm/realm-java)** <kbd>★ 11.5k</kbd> <kbd>Apache-2.0</kbd> 🟠<br>Mobile database to run directly inside phones, tablets or wearables.
 
-> **[Redisson ![GitHub Repo Stars](https://img.shields.io/github/stars/redisson/redisson) ![GitHub last commit](https://img.shields.io/github/last-commit/redisson/redisson)](https://github.com/redisson/redisson)** <kbd>★ 24.4k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Allows for distributed and scalable data structures on top of a Redis server.
+> **[Redisson ![GitHub Repo Stars](https://img.shields.io/github/stars/redisson/redisson) ![GitHub last commit](https://img.shields.io/github/last-commit/redisson/redisson)](https://github.com/redisson/redisson)** <kbd>★ 24.4k</kbd> <kbd>Apache-2.0</kbd> ��<br>Allows for distributed and scalable data structures on top of a Redis server.
 
 > **[requery ![GitHub Repo Stars](https://img.shields.io/github/stars/requery/requery) ![GitHub last commit](https://img.shields.io/github/last-commit/requery/requery)](https://github.com/requery/requery)** <kbd>★ 3.1k</kbd> <kbd>Apache-2.0</kbd> 🟠<br>Modern, lightweight but powerful object mapping and SQL generator. Easily map to or create databases, or perform queries and updates from any Java-using platform.
 
@@ -1999,7 +1999,7 @@ _Everything related to the creation and handling of random data._
 
 > **[Instancio ![GitHub Repo Stars](https://img.shields.io/github/stars/instancio/instancio) ![GitHub last commit](https://img.shields.io/github/last-commit/instancio/instancio)](https://github.com/instancio/instancio)** <kbd>★ 1.2k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Automates data setup in unit tests by generating fully-populated, reproducible objects. Includes JUnit 5 extension.
 
-> **[jFairy ![GitHub Repo Stars](https://img.shields.io/github/stars/SkillPanel/jfairy) ![GitHub last commit](https://img.shields.io/github/last-commit/SkillPanel/jfairy)](https://github.com/SkillPanel/jfairy)** <kbd>★ 742</kbd> <kbd>Apache-2.0</kbd> ���<br>Fake data generator.
+> **[jFairy ![GitHub Repo Stars](https://img.shields.io/github/stars/SkillPanel/jfairy) ![GitHub last commit](https://img.shields.io/github/last-commit/SkillPanel/jfairy)](https://github.com/SkillPanel/jfairy)** <kbd>★ 742</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Fake data generator.
 
 > **[JMock ![GitHub Repo Stars](https://img.shields.io/github/stars/xcancloud/JMock) ![GitHub last commit](https://img.shields.io/github/last-commit/xcancloud/JMock)](https://github.com/xcancloud/JMock)** <kbd>★ 206</kbd> <kbd>Apache-2.0</kbd> 🟢<br>JMock is a high-performance data generation and simulation component library implemented in Java.
 
