@@ -213,7 +213,7 @@ _Libraries that provide TUI frameworks, or building blocks related functions._
 
 _Libraries to integrate or use cloud-specific features._
 
-> **[AWS SDK for Java 2.x ![GitHub Repo Stars](https://img.shields.io/github/stars/aws/aws-sdk-java-v2) ![GitHub last commit](https://img.shields.io/github/last-commit/aws/aws-sdk-java-v2)](https://github.com/aws/aws-sdk-java-v2)** <kbd>★ 2.6k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Official Java APIs for interacting with Amazon Web Services.
+> **[AWS SDK for Java 2.x ![GitHub Repo Stars](https://img.shields.io/github/stars/aws/aws-sdk-java-v2) ![GitHub last commit](https://img.shields.io/github/last-commit/aws/aws-sdk-java-v2)](https://github.com/aws/aws-sdk-java-v2)** <kbd>★ 2.6k</kbd> <kbd>Apache-2.0</kbd> ����<br>Official Java APIs for interacting with Amazon Web Services.
 
 > **[Google Cloud Client Libraries ![GitHub Repo Stars](https://img.shields.io/github/stars/googleapis/google-cloud-java) ![GitHub last commit](https://img.shields.io/github/last-commit/googleapis/google-cloud-java)](https://github.com/googleapis/google-cloud-java)** <kbd>★ 2.1k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Client libraries for accessing Google Cloud services from Java applications.
 

@@ -549,6 +549,7 @@ _Libraries for scientific computing. Also see [Python-for-Scientists ![GitHub Re
   - [biopython ![GitHub Repo Stars](https://img.shields.io/github/stars/biopython/biopython) ![GitHub last commit](https://img.shields.io/github/last-commit/biopython/biopython)](https://github.com/biopython/biopython) - Biopython is a set of freely available tools for biological computation.
   - [rdkit ![GitHub Repo Stars](https://img.shields.io/github/stars/rdkit/rdkit) ![GitHub last commit](https://img.shields.io/github/last-commit/rdkit/rdkit)](https://github.com/rdkit/rdkit) - Cheminformatics and Machine Learning Software.
 - Physics and Engineering
+  - [pint ![GitHub Repo Stars](https://img.shields.io/github/stars/hgrecco/pint) ![GitHub last commit](https://img.shields.io/github/last-commit/hgrecco/pint)](https://github.com/hgrecco/pint) - Operate and manipulate physical quantities with units and dimensional analysis.
   - [astropy ![GitHub Repo Stars](https://img.shields.io/github/stars/astropy/astropy) ![GitHub last commit](https://img.shields.io/github/last-commit/astropy/astropy)](https://github.com/astropy/astropy) - A community Python library for Astronomy.
   - [obspy ![GitHub Repo Stars](https://img.shields.io/github/stars/obspy/obspy) ![GitHub last commit](https://img.shields.io/github/last-commit/obspy/obspy)](https://github.com/obspy/obspy) - A Python toolbox for seismology.
 - Simulation and Modeling
@@ -585,6 +586,7 @@ _Python implementation of data structures, algorithms and design patterns. Also 
 - Design Patterns
   - [transitions ![GitHub Repo Stars](https://img.shields.io/github/stars/pytransitions/transitions) ![GitHub last commit](https://img.shields.io/github/last-commit/pytransitions/transitions)](https://github.com/pytransitions/transitions) - A lightweight, object-oriented finite state machine implementation.
   - [python-patterns ![GitHub Repo Stars](https://img.shields.io/github/stars/faif/python-patterns) ![GitHub last commit](https://img.shields.io/github/last-commit/faif/python-patterns)](https://github.com/faif/python-patterns) - A collection of design patterns in Python.
+  - [python-statemachine ![GitHub Repo Stars](https://img.shields.io/github/stars/fgmacedo/python-statemachine) ![GitHub last commit](https://img.shields.io/github/last-commit/fgmacedo/python-statemachine)](https://github.com/fgmacedo/python-statemachine) - Expressive statecharts and finite state machines with a declarative API, in sync and async codebases.
 
 ### Interactive Interpreter
 
@@ -604,6 +606,7 @@ _Tools of static analysis, linters and code quality checkers. Also see [awesome-
   - [vulture ![GitHub Repo Stars](https://img.shields.io/github/stars/jendrikseipp/vulture) ![GitHub last commit](https://img.shields.io/github/last-commit/jendrikseipp/vulture)](https://github.com/jendrikseipp/vulture) - A tool for finding and analyzing dead Python code.
   - [prospector ![GitHub Repo Stars](https://img.shields.io/github/stars/prospector-dev/prospector) ![GitHub last commit](https://img.shields.io/github/last-commit/prospector-dev/prospector)](https://github.com/prospector-dev/prospector) - A tool to analyze Python code.
   - [repowise ![GitHub Repo Stars](https://img.shields.io/github/stars/repowise-dev/repowise) ![GitHub last commit](https://img.shields.io/github/last-commit/repowise-dev/repowise)](https://github.com/repowise-dev/repowise) - Codebase intelligence that indexes repos into dependency graphs, git history, and auto-generated docs with dead code detection.
+  - [complexipy ![GitHub Repo Stars](https://img.shields.io/github/stars/rohaquinlop/complexipy) ![GitHub last commit](https://img.shields.io/github/last-commit/rohaquinlop/complexipy)](https://github.com/rohaquinlop/complexipy) - Cognitive complexity analysis for Python code, written in Rust.
 - Git Hooks
   - [pre-commit ![GitHub Repo Stars](https://img.shields.io/github/stars/pre-commit/pre-commit) ![GitHub last commit](https://img.shields.io/github/last-commit/pre-commit/pre-commit)](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
 - Linters and Formatters
@@ -693,9 +696,9 @@ _Libraries for generating project documentation._
 - [sphinx ![GitHub Repo Stars](https://img.shields.io/github/stars/sphinx-doc/sphinx) ![GitHub last commit](https://img.shields.io/github/last-commit/sphinx-doc/sphinx)](https://github.com/sphinx-doc/sphinx/) - Python Documentation generator.
   - [awesome-sphinxdoc ![GitHub Repo Stars](https://img.shields.io/github/stars/ygzgxyz/awesome-sphinxdoc) ![GitHub last commit](https://img.shields.io/github/last-commit/ygzgxyz/awesome-sphinxdoc)](https://github.com/ygzgxyz/awesome-sphinxdoc)
 - [mkdocs-material ![GitHub Repo Stars](https://img.shields.io/github/stars/squidfunk/mkdocs-material) ![GitHub last commit](https://img.shields.io/github/last-commit/squidfunk/mkdocs-material)](https://github.com/squidfunk/mkdocs-material) - A documentation framework and Material Design theme built on MkDocs.
-- [mkdocs ![GitHub Repo Stars](https://img.shields.io/github/stars/mkdocs/mkdocs) ![GitHub last commit](https://img.shields.io/github/last-commit/mkdocs/mkdocs)](https://github.com/mkdocs/mkdocs/) - Markdown friendly documentation generator.
 - [diagrams ![GitHub Repo Stars](https://img.shields.io/github/stars/mingrammer/diagrams) ![GitHub last commit](https://img.shields.io/github/last-commit/mingrammer/diagrams)](https://github.com/mingrammer/diagrams) - Diagram as Code.
 - [pdoc ![GitHub Repo Stars](https://img.shields.io/github/stars/mitmproxy/pdoc) ![GitHub last commit](https://img.shields.io/github/last-commit/mitmproxy/pdoc)](https://github.com/mitmproxy/pdoc) - Epydoc replacement to auto generate API documentation for Python libraries.
+- [zensical ![GitHub Repo Stars](https://img.shields.io/github/stars/zensical/zensical) ![GitHub last commit](https://img.shields.io/github/last-commit/zensical/zensical)](https://github.com/zensical/zensical) - A modern static site generator for technical documentation.
 
 **DevOps**
 
