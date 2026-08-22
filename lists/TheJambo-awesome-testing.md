@@ -120,6 +120,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Synth ![GitHub Repo Stars](https://img.shields.io/github/stars/getsynth/synth) ![GitHub last commit](https://img.shields.io/github/last-commit/getsynth/synth)](https://github.com/getsynth/synth) - Open-source test data generator.
 - [Touca ![GitHub Repo Stars](https://img.shields.io/github/stars/trytouca/trytouca) ![GitHub last commit](https://img.shields.io/github/last-commit/trytouca/trytouca)](https://github.com/trytouca/trytouca) - Continuous regression testing for behavioral and performance comparisons.
 - [test-each ![GitHub Repo Stars](https://img.shields.io/github/stars/ehmicky/test-each) ![GitHub last commit](https://img.shields.io/github/last-commit/ehmicky/test-each)](https://github.com/ehmicky/test-each) - Data-driven testing framework.
+- [Fake Data Generator](https://singhajit.com/tools/fake-data-generator/) - Browser-based generator for realistic mock/test data. Custom schema or presets, export as JSON, CSV, or SQL INSERT.
 - [Sample Files](https://mzeeshan.me/tools/sample-files) - Free downloadable test file variants across video, audio, document, and archive formats (MP4, MOV, RTF, ZIP, PPTX, etc.), covering codecs, encodings, and edge cases for parser and import testing.
 
 ### Browser Extensions & Utilities
