@@ -254,7 +254,7 @@ _Info on topics necessary for designing and developing game engines._
 - Developer Portals
     - 🌎 [Game Developer](https://www.gamedeveloper.com) - Industry blogs, events, jobs, updates and more. Formerly _Gamasutra_.
     - 🌎 [GameDev.net](https://www.gamedev.net/) - Game dev forums, tutorials, blogs, projects, portfolios, and news.
-    - 🌎 [GameFromScratch.com](https://gamefromscratch.com) - Game dev news, tutorials and much more.
+    - ��� [GameFromScratch.com](https://gamefromscratch.com) - Game dev news, tutorials and much more.
     - 🌎 [itch.io](https://itch.io) - Game dev resources and platform to showcase / promote / buy & sell games.
 - Education Portals
     - 🌎 [Lazy Foo' Tutorials](https://lazyfoo.net/tutorials/SDL/) - Beginning game programming with SDL.
@@ -372,7 +372,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Kazmath ![GitHub Repo Stars](https://img.shields.io/github/stars/Kazade/kazmath) ![GitHub last commit](https://img.shields.io/github/last-commit/Kazade/kazmath)](https://github.com/Kazade/kazmath) - Math library targeted at games.
     - 🎉 [Raymath ![GitHub Repo Stars](https://img.shields.io/github/stars/raysan5/raylib) ![GitHub last commit](https://img.shields.io/github/last-commit/raysan5/raylib)](https://github.com/raysan5/raylib/blob/master/src/raymath.h) - Math library included in the _RayLib_ game framework.
 - C: Network
-    - 🎉 [ENet ![GitHub Repo Stars](https://img.shields.io/github/stars/zpl-c/enet) ![GitHub last commit](https://img.shields.io/github/last-commit/zpl-c/enet)](https://github.com/zpl-c/enet) - Simple, lightweight and reliable UDP networking library.
+    - �� [ENet ![GitHub Repo Stars](https://img.shields.io/github/stars/zpl-c/enet) ![GitHub last commit](https://img.shields.io/github/last-commit/zpl-c/enet)](https://github.com/zpl-c/enet) - Simple, lightweight and reliable UDP networking library.
     - 🎉 [librg ![GitHub Repo Stars](https://img.shields.io/github/stars/zpl-c/librg) ![GitHub last commit](https://img.shields.io/github/last-commit/zpl-c/librg)](https://github.com/zpl-c/librg) - Middleware between networking / file-streaming libraries and app logic.
     - 🎉 [netcode ![GitHub Repo Stars](https://img.shields.io/github/stars/mas-bandwidth/netcode) ![GitHub last commit](https://img.shields.io/github/last-commit/mas-bandwidth/netcode)](https://github.com/mas-bandwidth/netcode) - Secure client/server protocol for multiplayer games built on top of UDP.
 - C: Physics
@@ -523,7 +523,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Dear ImGui ![GitHub Repo Stars](https://img.shields.io/github/stars/ocornut/imgui) ![GitHub last commit](https://img.shields.io/github/last-commit/ocornut/imgui)](https://github.com/ocornut/imgui) 🔥 - Bloat-free immediate mode gui library. Ported to many other languages.
     - 🔒 [FLTK ![GitHub Repo Stars](https://img.shields.io/github/stars/fltk/fltk) ![GitHub last commit](https://img.shields.io/github/last-commit/fltk/fltk)](https://github.com/fltk/fltk) - Fast Light Toolkit, cross-platform gui. [[Website](https://www.fltk.org/)]
     - 🔒 [GTK ![GitHub Repo Stars](https://img.shields.io/github/stars/gnome/gtk) ![GitHub last commit](https://img.shields.io/github/last-commit/gnome/gtk)](https://github.com/gnome/gtk) - GIMP Toolkit, a multi-platform toolkit for creating guis.
-    - 🎉 [GuiLite ![GitHub Repo Stars](https://img.shields.io/github/stars/idea4good/GuiLite) ![GitHub last commit](https://img.shields.io/github/last-commit/idea4good/GuiLite)](https://github.com/idea4good/GuiLite) - Header-only, cross-platform gui library.
+    - �� [GuiLite ![GitHub Repo Stars](https://img.shields.io/github/stars/idea4good/GuiLite) ![GitHub last commit](https://img.shields.io/github/last-commit/idea4good/GuiLite)](https://github.com/idea4good/GuiLite) - Header-only, cross-platform gui library.
     - 📚 [List of C++ UI Libraries](https://philippegroarke.com/posts/2018/c++_ui_solutions/) - List of C++ gui libraries, with pictures and descriptions.
     - 🎉 [Litehtml ![GitHub Repo Stars](https://img.shields.io/github/stars/litehtml/litehtml) ![GitHub last commit](https://img.shields.io/github/last-commit/litehtml/litehtml)](https://github.com/litehtml/litehtml) - Lightweight HTML / CSS rendering engine.
     - 🎉 [Nana ![GitHub Repo Stars](https://img.shields.io/github/stars/cnjinhao/nana) ![GitHub last commit](https://img.shields.io/github/last-commit/cnjinhao/nana)](https://github.com/cnjinhao/nana) - Cross-platform gui library in modern C++.
@@ -1005,7 +1005,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 💸 [Remotion ![GitHub Repo Stars](https://img.shields.io/github/stars/remotion-dev/remotion) ![GitHub last commit](https://img.shields.io/github/last-commit/remotion-dev/remotion)](https://github.com/remotion-dev/remotion) - Create videos programmatically in React. [[Website](https://www.remotion.dev/)]
 - JavaScript: Visual Programming / Nodes
     - 🎉 [Butterfly ![GitHub Repo Stars](https://img.shields.io/github/stars/alibaba/butterfly) ![GitHub last commit](https://img.shields.io/github/last-commit/alibaba/butterfly)](https://github.com/alibaba/butterfly) - Diagramming library concentrated on flow and field layout by _Alibaba_.
-    - ��� [Drawflow ![GitHub Repo Stars](https://img.shields.io/github/stars/jerosoler/Drawflow) ![GitHub last commit](https://img.shields.io/github/last-commit/jerosoler/Drawflow)](https://github.com/jerosoler/Drawflow) - Simple JavaScript flow library. [[Demo](https://jerosoler.github.io/Drawflow/)]
+    - 🎉 [Drawflow ![GitHub Repo Stars](https://img.shields.io/github/stars/jerosoler/Drawflow) ![GitHub last commit](https://img.shields.io/github/last-commit/jerosoler/Drawflow)](https://github.com/jerosoler/Drawflow) - Simple JavaScript flow library. [[Demo](https://jerosoler.github.io/Drawflow/)]
     - 🎉 [Flow ![GitHub Repo Stars](https://img.shields.io/github/stars/sunag/flow) ![GitHub last commit](https://img.shields.io/github/last-commit/sunag/flow)](https://github.com/sunag/flow) - Node-graph library.
     - 🎉 [Litegraph.js ![GitHub Repo Stars](https://img.shields.io/github/stars/jagenjo/litegraph.js) ![GitHub last commit](https://img.shields.io/github/last-commit/jagenjo/litegraph.js)](https://github.com/jagenjo/litegraph.js) - Create graphs in the browser similar to _Unreal Blueprints_. [[Demo](https://tamats.com/projects/litegraph/editor/)]
     - 🎉 [Node-RED ![GitHub Repo Stars](https://img.shields.io/github/stars/node-red/node-red) ![GitHub last commit](https://img.shields.io/github/last-commit/node-red/node-red)](https://github.com/node-red/node-red) - Low-code programming for event-driven applications.
