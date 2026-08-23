@@ -61,6 +61,7 @@ A curation of WebAssembly resources, projects, and communities.
 - [AssemblyScript](https://www.assemblyscript.org/) - TypeScript-like language compiled to WebAssembly.
 - [Binaryen ![GitHub Repo Stars](https://img.shields.io/github/stars/WebAssembly/binaryen) ![GitHub last commit](https://img.shields.io/github/last-commit/WebAssembly/binaryen)](https://github.com/WebAssembly/binaryen) - Compiler infrastructure for WebAssembly.
 - [TinyGo](https://tinygo.org/) - Go compiler for WebAssembly.
+- [SEMAPRAX](https://wavect.io/semaprax/) - Experimental agent-native systems programming language with stable semantic identity and a bounded WebAssembly Core output lane.
 
 ### Runtimes
 
