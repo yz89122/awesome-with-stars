@@ -527,7 +527,7 @@ _Everything that simplifies interactions with the database._
 
 > **[Lettuce ![GitHub Repo Stars](https://img.shields.io/github/stars/redis/lettuce) ![GitHub last commit](https://img.shields.io/github/last-commit/redis/lettuce)](https://github.com/redis/lettuce)** <kbd>★ 5.8k</kbd> <kbd>MIT</kbd> 🟢<br>Lettuce is a scalable Redis client for building non-blocking Reactive applications.
 
-> **[Liquibase ![GitHub Repo Stars](https://img.shields.io/github/stars/liquibase/liquibase) ![GitHub last commit](https://img.shields.io/github/last-commit/liquibase/liquibase)](https://github.com/liquibase/liquibase)** <kbd>★ 5.6k</kbd> 🟢<br>Database-independent library for tracking, managing and applying database schema changes.
+> **[Liquibase ![GitHub Repo Stars](https://img.shields.io/github/stars/liquibase/liquibase) ![GitHub last commit](https://img.shields.io/github/last-commit/liquibase/liquibase)](https://github.com/liquibase/liquibase)** <kbd>�� 5.6k</kbd> 🟢<br>Database-independent library for tracking, managing and applying database schema changes.
 
 > **[MapDB ![GitHub Repo Stars](https://img.shields.io/github/stars/jankotek/mapdb) ![GitHub last commit](https://img.shields.io/github/last-commit/jankotek/mapdb)](https://github.com/jankotek/mapdb)** <kbd>★ 5.0k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Embedded database engine that provides concurrent collections backed on disk or in off-heap memory.
 
@@ -733,7 +733,7 @@ _Tools that handle the distribution of applications in native formats._
 
 > **[jDeploy ![GitHub Repo Stars](https://img.shields.io/github/stars/shannah/jdeploy) ![GitHub last commit](https://img.shields.io/github/last-commit/shannah/jdeploy)](https://github.com/shannah/jdeploy)** <kbd>★ 415</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Deploy desktop apps as native Mac, Windows or Linux bundles.
 
-> **[jlink.online ![GitHub Repo Stars](https://img.shields.io/github/stars/AdoptOpenJDK/jlink.online) ![GitHub last commit](https://img.shields.io/github/last-commit/AdoptOpenJDK/jlink.online)](https://github.com/AdoptOpenJDK/jlink.online)** <kbd>�� 51</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Builds optimized runtimes over HTTP.
+> **[jlink.online ![GitHub Repo Stars](https://img.shields.io/github/stars/AdoptOpenJDK/jlink.online) ![GitHub last commit](https://img.shields.io/github/last-commit/AdoptOpenJDK/jlink.online)](https://github.com/AdoptOpenJDK/jlink.online)** <kbd>★ 51</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Builds optimized runtimes over HTTP.
 
 > **[Nexus ![GitHub Repo Stars](https://img.shields.io/github/stars/sonatype/nexus-public) ![GitHub last commit](https://img.shields.io/github/last-commit/sonatype/nexus-public)](https://github.com/sonatype/nexus-public)** <kbd>★ 2.6k</kbd> <kbd>EPL-1.0</kbd> 🟢<br>Binary management with proxy and caching capabilities.
 
