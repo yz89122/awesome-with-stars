@@ -609,7 +609,7 @@ _Libraries for preprocessing CSS files._
 - [go-css ![GitHub Repo Stars](https://img.shields.io/github/stars/napsy/go-css) ![GitHub last commit](https://img.shields.io/github/last-commit/napsy/go-css)](https://github.com/napsy/go-css) - A very simple CSS parser, written in Go.
 - [go-libsass ![GitHub Repo Stars](https://img.shields.io/github/stars/wellington/go-libsass) ![GitHub last commit](https://img.shields.io/github/last-commit/wellington/go-libsass)](https://github.com/wellington/go-libsass) - Go wrapper to the 100% Sass compatible libsass project.
 
-**[�� back to top](#contents)**
+**[⬆ back to top](#contents)**
 
 ## Data Integration Frameworks
 
