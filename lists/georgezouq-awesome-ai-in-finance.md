@@ -185,7 +185,7 @@ Price and Volume process with Technology Analysis Indices
 
 ### Event Drive
 
-- 🌟�� [stockpredictionai ![GitHub Repo Stars](https://img.shields.io/github/stars/borisbanushev/stockpredictionai) ![GitHub last commit](https://img.shields.io/github/last-commit/borisbanushev/stockpredictionai)](https://github.com/borisbanushev/stockpredictionai) - Complete process for predicting stock price movements.
+- 🌟🌟 [stockpredictionai ![GitHub Repo Stars](https://img.shields.io/github/stars/borisbanushev/stockpredictionai) ![GitHub last commit](https://img.shields.io/github/last-commit/borisbanushev/stockpredictionai)](https://github.com/borisbanushev/stockpredictionai) - Complete process for predicting stock price movements.
 - 🌟 [trump2cash ![GitHub Repo Stars](https://img.shields.io/github/stars/maxbbraun/trump2cash) ![GitHub last commit](https://img.shields.io/github/last-commit/maxbbraun/trump2cash)](https://github.com/maxbbraun/trump2cash) - A stock trading bot powered by Trump tweets.
 
 ### Crypto Currencies Strategies
@@ -281,7 +281,7 @@ Price and Volume process with Technology Analysis Indices
 
 - [DDScore](https://www.ddscore.ai/for-investor/) - AI-assisted first-pass due diligence for private-company materials, producing a structured 0–100 score and written report across 12 dimensions while checking relevant claims against current public sources. Supports analyst judgement; not investment advice or a replacement for full due diligence.
 - [Synthical](https://synthical.com) - AI-powered collaborative environment for Research.
-- 🌟���� [TensorTrade ![GitHub Repo Stars](https://img.shields.io/github/stars/tensortrade-org/tensortrade) ![GitHub last commit](https://img.shields.io/github/last-commit/tensortrade-org/tensortrade)](https://github.com/tensortrade-org/tensortrade) - Trade efficiently with reinforcement learning.
+- 🌟🌟 [TensorTrade ![GitHub Repo Stars](https://img.shields.io/github/stars/tensortrade-org/tensortrade) ![GitHub last commit](https://img.shields.io/github/last-commit/tensortrade-org/tensortrade)](https://github.com/tensortrade-org/tensortrade) - Trade efficiently with reinforcement learning.
 - [ML-Quant](https://www.ml-quant.com/) - Quant resources from ArXiv (sanity), SSRN, RePec, Journals, Podcasts, Videos, and Blogs.
 - [JAQS ![GitHub Repo Stars](https://img.shields.io/github/stars/quantOS-org/JAQS) ![GitHub last commit](https://img.shields.io/github/last-commit/quantOS-org/JAQS)](https://github.com/quantOS-org/JAQS) - An open source quant strategies research platform.
 - [pyfolio ![GitHub Repo Stars](https://img.shields.io/github/stars/quantopian/pyfolio) ![GitHub last commit](https://img.shields.io/github/last-commit/quantopian/pyfolio)](https://github.com/quantopian/pyfolio) - Portfolio and risk analytics in Python.
