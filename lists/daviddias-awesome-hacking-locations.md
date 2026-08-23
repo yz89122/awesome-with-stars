@@ -434,7 +434,7 @@ Wifi | Power | Address | Open Hours
 ---------------------------------------------------------------
 ---------------------------------------------------------------
 
-# Germany 🇩🇪
+# Germany ��🇪
 
 ## Berlin
 
@@ -1044,7 +1044,7 @@ Webpage: https://morrowcoffee.com/
 
 Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
-✔ | ✔ | [Av. Gran Vía de les Corts Catalanes 403 Barcelona, Spain, 08015 Barcelona](https://goo.gl/maps/qymLhQmKQrRC9MDFA) |
+✔ | ��� | [Av. Gran Vía de les Corts Catalanes 403 Barcelona, Spain, 08015 Barcelona](https://goo.gl/maps/qymLhQmKQrRC9MDFA) |
 
 #### Origin. Speciality Coffee
 

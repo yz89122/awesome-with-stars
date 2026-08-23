@@ -98,7 +98,7 @@ _Helpful to write SNMP applications._
 - [davedufresne/modern_snmp ![GitHub Repo Stars](https://img.shields.io/github/stars/davedufresne/modern_snmp) ![GitHub last commit](https://img.shields.io/github/last-commit/davedufresne/modern_snmp)](https://github.com/davedufresne/modern_snmp) - Modern SNMP is a pure-Rust library for SNMPv3. This repository includes snmp_mp (SNMPv3 Message Processing) and snmp_usm (Implementation of the User-based Security Model (USM) for SNMPv3) crates.
 - [Svedrin/sunt ![GitHub Repo Stars](https://img.shields.io/github/stars/Svedrin/sunt) ![GitHub last commit](https://img.shields.io/github/last-commit/Svedrin/sunt)](https://github.com/Svedrin/sunt) - This repository implements an SNMP Agent written in Rust.
 
-__[⬆ back to top](#contents)__
+__[�� back to top](#contents)__
 
 
 ## Tools
