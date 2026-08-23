@@ -231,3 +231,5 @@ Tools for doing math on matrix values
 ## Contributing
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+
+2026-08 update: [`pull_request_template.md`](pull_request_template.md) now provides a criteria checklist (also linked in [`contributing.md`](contributing.md)).
