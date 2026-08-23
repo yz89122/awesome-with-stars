@@ -455,6 +455,7 @@ Things that work with project files or GameMaker itself rather than being someth
 - [Grid-based Pathfinding Scripts](https://proton-squid.itch.io/pathfinding) - Flexible pathfinding system with 3 different algorithms.
 - [Pathfinding in graph ![GitHub Repo Stars](https://img.shields.io/github/stars/gmclan-org/dijkstra-graph) ![GitHub last commit](https://img.shields.io/github/last-commit/gmclan-org/dijkstra-graph)](https://github.com/gmclan-org/dijkstra-graph) - Shortest pathfinding system in (weighted) graph, using Dijkstra algorithm.
 - [PathPlus](https://delfos1.itch.io/pathplus-for-gamemaker/devlog/1115089/pathplus-220-follower-and-spriter) - Enhance GameMaker Paths with CatmullRom and Bezier Interpolations.
+- [GMNav ![GitHub Repo Stars](https://img.shields.io/github/stars/erkan612/GMNav) ![GitHub last commit](https://img.shields.io/github/last-commit/erkan612/GMNav)](https://github.com/erkan612/GMNav) - High-performance, resumable navigation engine for GameMaker that handles grid, isometric, hex, and platformer maps with flow fields, dynamic costs, and multi-agent pathfinding.
 
 ## Useful Extras
 
