@@ -406,7 +406,7 @@ _Sign in to Home Assistant with single sign-on, route through a tunnel, or pull 
 
 _Link multiple Home Assistant instances together, share entities across homes, or relay between them._
 
-- [Remote Home Assistant ![GitHub Repo Stars](https://img.shields.io/github/stars/custom-components/remote_homeassistant) ![GitHub last commit](https://img.shields.io/github/last-commit/custom-components/remote_homeassistant)](https://github.com/custom-components/remote_homeassistant) - Link multiple instances together so entities, services, and events flow between them (1,232★).
+- [Remote Home Assistant ![GitHub Repo Stars](https://img.shields.io/github/stars/custom-components/remote_homeassistant) ![GitHub last commit](https://img.shields.io/github/last-commit/custom-components/remote_homeassistant)](https://github.com/custom-components/remote_homeassistant) - Link multiple instances together so entities, services, and events flow between them (1,232��).
 
 ### 📊 Logging & analytics
 
