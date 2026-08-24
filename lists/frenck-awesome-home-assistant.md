@@ -495,7 +495,7 @@ _Replacement thermostat cards with a different look or feel._
 
 - [Thermostat Card ![GitHub Repo Stars](https://img.shields.io/github/stars/ciotlosm/lovelace-thermostat-dark-card) ![GitHub last commit](https://img.shields.io/github/last-commit/ciotlosm/lovelace-thermostat-dark-card)](https://github.com/ciotlosm/lovelace-thermostat-dark-card) - Thermostat control card that looks like a Nest Thermostat (745★).
 - [Simple Thermostat ![GitHub Repo Stars](https://img.shields.io/github/stars/nervetattoo/simple-thermostat) ![GitHub last commit](https://img.shields.io/github/last-commit/nervetattoo/simple-thermostat)](https://github.com/nervetattoo/simple-thermostat) - A simpler and more flexible thermostat card (806★).
-- [Mini Climate ![GitHub Repo Stars](https://img.shields.io/github/stars/artem-sedykh/mini-climate-card) ![GitHub last commit](https://img.shields.io/github/last-commit/artem-sedykh/mini-climate-card)](https://github.com/artem-sedykh/mini-climate-card) - Compact climate card with current temperature, target, and per-mode controls, sized for small dashboards and mobile (322★).
+- [Mini Climate ![GitHub Repo Stars](https://img.shields.io/github/stars/artem-sedykh/mini-climate-card) ![GitHub last commit](https://img.shields.io/github/last-commit/artem-sedykh/mini-climate-card)](https://github.com/artem-sedykh/mini-climate-card) - Compact climate card with current temperature, target, and per-mode controls, sized for small dashboards and mobile (322���).
 
 ### ⚡ Energy cards
 
