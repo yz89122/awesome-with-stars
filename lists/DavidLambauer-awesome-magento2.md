@@ -22,7 +22,7 @@
 
 > A curated list of awesome Magento 2 Extensions & Resources.
 
-> Tracking **233** projects · **62** actively maintained · **11** 🔥 hot · **50** 🪦 on the graveyard shelf.
+> Tracking **233** projects · **64** actively maintained · **11** 🔥 hot · **50** 🪦 on the graveyard shelf.
 
 - [What is an awesome list? ![GitHub Repo Stars](https://img.shields.io/github/stars/sindresorhus/awesome) ![GitHub last commit](https://img.shields.io/github/last-commit/sindresorhus/awesome)](https://github.com/sindresorhus/awesome/blob/master/awesome.md)
 - [Contribution guide](contributing.md) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/DavidLambauer/awesome-magento2/issues)
@@ -96,9 +96,9 @@ Also see:
 - [Meet Magento India](https://www.meetmagento.in/) 🫡 - Meet Magento event series — India.
 - [Meet Magento Netherlands](https://nl.meet-magento.com/) 🫡 - Meet Magento event series — Netherlands.
 - [Meet Magento New York City](https://meetmagentonyc.com/) 🫡 - Meet Magento event series — NYC.
-- [Meet Magento Poland](https://meetmagento.pl/) 🫡 - Meet Magento event series — Poland.
 - [Meet Magento UK](https://meet-magento.co.uk/) 🫡 - Meet Magento event series — UK.
 - [Meet Magento Malaysia](https://www.meetmagento.asia/) - Meet Magento event series — Malaysia.
+- [Meet Magento Poland](https://meetmagento.pl/) - Meet Magento event series — Poland.
 - [Meet Magento Romania](https://ro.meet-magento.com/) - Meet Magento event series — Romania.
 
 <details>
@@ -272,18 +272,18 @@ The storefront of Magento 2 can be styled in numerous ways:
 - [Menu Editor ![GitHub Repo Stars](https://img.shields.io/github/stars/SnowdogApps/magento2-menu) ![GitHub last commit](https://img.shields.io/github/last-commit/SnowdogApps/magento2-menu)](https://github.com/SnowdogApps/magento2-menu) 🔥 🫡 - Provides a powerful menu editor to replace category-based menus in Magento 2.
 - [Sentry.io ![GitHub Repo Stars](https://img.shields.io/github/stars/justbetter/magento2-sentry) ![GitHub last commit](https://img.shields.io/github/last-commit/justbetter/magento2-sentry)](https://github.com/justbetter/magento2-sentry) 🫡 - Application monitoring and error tracking software for Magento 2.
 - [magento2-hyva-admin ![GitHub Repo Stars](https://img.shields.io/github/stars/hyva-themes/magento2-hyva-admin) ![GitHub last commit](https://img.shields.io/github/last-commit/hyva-themes/magento2-hyva-admin)](https://github.com/hyva-themes/magento2-hyva-admin) 🫡 - This module aims to make creating grids and forms in the Magento 2 adminhtml area joyful and fast.
+- [Customer Force Login ![GitHub Repo Stars](https://img.shields.io/github/stars/bitExpert/magento2-force-login) ![GitHub last commit](https://img.shields.io/github/last-commit/bitExpert/magento2-force-login)](https://github.com/bitExpert/magento2-force-login) 🫡 - Forces customers to log in before accessing certain pages.
 - [FireGento Fast Simple Import ![GitHub Repo Stars](https://img.shields.io/github/stars/firegento/FireGento_FastSimpleImport2) ![GitHub last commit](https://img.shields.io/github/last-commit/firegento/FireGento_FastSimpleImport2)](https://github.com/firegento/FireGento_FastSimpleImport2) 🫡 - Wrapper for Magento 2 ImportExport functionality, which imports products and customers from arrays.
+- [PageNotFound ![GitHub Repo Stars](https://img.shields.io/github/stars/experius/Magento-2-Module-PageNotFound) ![GitHub last commit](https://img.shields.io/github/last-commit/experius/Magento-2-Module-PageNotFound)](https://github.com/experius/Magento-2-Module-PageNotFound) 🫡 - Saves upcoming 404s in your database with the possibility to create a redirect.
 - [Reset UI Bookmarks ![GitHub Repo Stars](https://img.shields.io/github/stars/magenizr/Magenizr_ResetUiBookmarks) ![GitHub last commit](https://img.shields.io/github/last-commit/magenizr/Magenizr_ResetUiBookmarks)](https://github.com/magenizr/Magenizr_ResetUiBookmarks) 🫡 - Allows admin users to reset their own UI bookmarks such as filter state, column positions and applied sorting (e.g. Sales > Orders).
 - [theme-adminhtml-m137 ![GitHub Repo Stars](https://img.shields.io/github/stars/mage-os/theme-adminhtml-m137) ![GitHub last commit](https://img.shields.io/github/last-commit/mage-os/theme-adminhtml-m137)](https://github.com/mage-os/theme-adminhtml-m137) 🫡 - M137 Admin Theme for Magento/Mage-OS
 - [Custom SMTP ![GitHub Repo Stars](https://img.shields.io/github/stars/magepal/magento2-gmail-smtp-app) ![GitHub last commit](https://img.shields.io/github/last-commit/magepal/magento2-gmail-smtp-app)](https://github.com/magepal/magento2-gmail-smtp-app) - Configure Magento 2 to send all transactional email using Google App, Gmail, Amazon SES, Microsoft Office 365 and other SMTP servers.
 - [Disable Stock Reservation ![GitHub Repo Stars](https://img.shields.io/github/stars/AmpersandHQ/magento2-disable-stock-reservation) ![GitHub last commit](https://img.shields.io/github/last-commit/AmpersandHQ/magento2-disable-stock-reservation)](https://github.com/AmpersandHQ/magento2-disable-stock-reservation) - Disables the inventory reservation logic introduced as part of MSI in Magento 2.3.3.
-- [Customer Force Login ![GitHub Repo Stars](https://img.shields.io/github/stars/bitExpert/magento2-force-login) ![GitHub last commit](https://img.shields.io/github/last-commit/bitExpert/magento2-force-login)](https://github.com/bitExpert/magento2-force-login) - Forces customers to log in before accessing certain pages.
 - [Clean Admin Menu ![GitHub Repo Stars](https://img.shields.io/github/stars/redchamps/clean-admin-menu) ![GitHub last commit](https://img.shields.io/github/last-commit/redchamps/clean-admin-menu)](https://github.com/redchamps/clean-admin-menu) - Merges 3rd-party extensions into a single menu.
 - [Magento 2 Import Framework ![GitHub Repo Stars](https://img.shields.io/github/stars/techdivision/import) ![GitHub last commit](https://img.shields.io/github/last-commit/techdivision/import)](https://github.com/techdivision/import) - A library supporting generic Magento 2 import functionality.
 - [Checkout Tester ![GitHub Repo Stars](https://img.shields.io/github/stars/yireo/Yireo_CheckoutTester2) ![GitHub last commit](https://img.shields.io/github/last-commit/yireo/Yireo_CheckoutTester2)](https://github.com/yireo/Yireo_CheckoutTester2) - Extension to quickly test Checkout changes.
 - [Preview Checkout Success Page ![GitHub Repo Stars](https://img.shields.io/github/stars/magepal/magento2-preview-checkout-success-page) ![GitHub last commit](https://img.shields.io/github/last-commit/magepal/magento2-preview-checkout-success-page)](https://github.com/magepal/magento2-preview-checkout-success-page) - Quickly and easily preview and test your order confirmation page, without the need to place a new order each time.
 - [Guest to Customer ![GitHub Repo Stars](https://img.shields.io/github/stars/magepal/magento2-guest-to-customer) ![GitHub last commit](https://img.shields.io/github/last-commit/magepal/magento2-guest-to-customer)](https://github.com/magepal/magento2-guest-to-customer) - Quickly and easily convert existing guest checkout customers to registered customers.
-- [PageNotFound ![GitHub Repo Stars](https://img.shields.io/github/stars/experius/Magento-2-Module-PageNotFound) ![GitHub last commit](https://img.shields.io/github/last-commit/experius/Magento-2-Module-PageNotFound)](https://github.com/experius/Magento-2-Module-PageNotFound) - Saves upcoming 404s in your database with the possibility to create a redirect.
 - [Product Links Navigator ![GitHub Repo Stars](https://img.shields.io/github/stars/elninotech/ElNino_ProductLinksNavigator) ![GitHub last commit](https://img.shields.io/github/last-commit/elninotech/ElNino_ProductLinksNavigator)](https://github.com/elninotech/ElNino_ProductLinksNavigator) - Enhances admin product-to-product navigation. Adds direct frontend/backend links to products in grids and modals, and a "Parent Products" tab.
 
 <details>
@@ -314,7 +314,7 @@ The storefront of Magento 2 can be styled in numerous ways:
 
 ### Infrastructure
 
-- [Ethan3600/magento2-CronjobManager ![GitHub Repo Stars](https://img.shields.io/github/stars/Ethan3600/magento2-CronjobManager) ![GitHub last commit](https://img.shields.io/github/last-commit/Ethan3600/magento2-CronjobManager)](https://github.com/Ethan3600/magento2-CronjobManager) 🔥 - Cron Job Manager for Magento 2.
+- [Ethan3600/magento2-CronjobManager ![GitHub Repo Stars](https://img.shields.io/github/stars/Ethan3600/magento2-CronjobManager) ![GitHub last commit](https://img.shields.io/github/last-commit/Ethan3600/magento2-CronjobManager)](https://github.com/Ethan3600/magento2-CronjobManager) 🔥 🫡 - Cron Job Manager for Magento 2.
 - [magento-cache-clean ![GitHub Repo Stars](https://img.shields.io/github/stars/mage-os/magento-cache-clean) ![GitHub last commit](https://img.shields.io/github/last-commit/mage-os/magento-cache-clean)](https://github.com/mage-os/magento-cache-clean) 🫡 - A faster drop in replacement for bin/magento cache:clean with file watcher
 - [module-theme-optimization ![GitHub Repo Stars](https://img.shields.io/github/stars/mage-os/module-theme-optimization) ![GitHub last commit](https://img.shields.io/github/last-commit/mage-os/module-theme-optimization)](https://github.com/mage-os/module-theme-optimization) 🫡 - bfcache, speculative loading, and view transitions for Magento
 - [Fastly Extension ![GitHub Repo Stars](https://img.shields.io/github/stars/fastly/fastly-magento2) ![GitHub last commit](https://img.shields.io/github/last-commit/fastly/fastly-magento2)](https://github.com/fastly/fastly-magento2) - Magento 2 Fastly integration.
@@ -452,7 +452,7 @@ The storefront of Magento 2 can be styled in numerous ways:
 ## Official Resources
 
 - [Magento GitHub Repository ![GitHub Repo Stars](https://img.shields.io/github/stars/magento/magento2) ![GitHub last commit](https://img.shields.io/github/last-commit/magento/magento2)](https://github.com/magento/magento2) 🫡 - Magento 2 GitHub repository.
-- [Magento Coding Standards ![GitHub Repo Stars](https://img.shields.io/github/stars/magento/magento-coding-standard) ![GitHub last commit](https://img.shields.io/github/last-commit/magento/magento-coding-standard)](https://github.com/magento/magento-coding-standard) - Official Magento 2 advanced ruleset for PHP_CodeSniffer.
+- [Magento Coding Standards ![GitHub Repo Stars](https://img.shields.io/github/stars/magento/magento-coding-standard) ![GitHub last commit](https://img.shields.io/github/last-commit/magento/magento-coding-standard)](https://github.com/magento/magento-coding-standard) 🫡 - Official Magento 2 advanced ruleset for PHP_CodeSniffer.
 - [Magento 2 data migration tool ![GitHub Repo Stars](https://img.shields.io/github/stars/magento/data-migration-tool) ![GitHub last commit](https://img.shields.io/github/last-commit/magento/data-migration-tool)](https://github.com/magento/data-migration-tool) - Official Magento 1 → Magento 2 migration tool.
 - [Magento 2 Architecture ![GitHub Repo Stars](https://img.shields.io/github/stars/magento/architecture) ![GitHub last commit](https://img.shields.io/github/last-commit/magento/architecture)](https://github.com/magento/architecture) - Architectural discussions about Magento 2.
 - [Magento Developer Blog](https://community.magento.com/t5/Magento-DevBlog/bg-p/devblog) - Developer blog run by Magento.
