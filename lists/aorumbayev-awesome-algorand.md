@@ -404,7 +404,7 @@ Algorand is an open-source, proof of stake Blockchain and smart contract computi
 > This provides a list of bridges that allow for cross-chain transfers of assets between Algorand and other Blockchains.
 
 - [Algomint](https://algomint.io/) - Centralized BTC and ETH bridge to Algorand.
-- [Messina](https://messina.one/) - The ALGO �� ETH two-way Messina.one's Bridge will open the doors for interoperability between Ethereum and ERC-20 tokens with Algorand.
+- [Messina](https://messina.one/) - The ALGO — ETH two-way Messina.one's Bridge will open the doors for interoperability between Ethereum and ERC-20 tokens with Algorand.
 
 
 ### Oracles

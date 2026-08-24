@@ -917,7 +917,7 @@ Webpage: http://tartine.pt/
 
 Wifi | Power | Climatization | Address | Open Hours
 ---- | ----- | ------------- | ------- | ----------
-✔ | ✔ | ❄️/♨️ | [R. Serpa Pinto 15A, 1200-026 Lisboa](https://goo.gl/maps/NNnXK6LkzFJ2) |
+✔ | ✔ | ❄️/♨�� | [R. Serpa Pinto 15A, 1200-026 Lisboa](https://goo.gl/maps/NNnXK6LkzFJ2) |
 
 ![](http://beta.speedtest.net/result/6628785269.png)
 

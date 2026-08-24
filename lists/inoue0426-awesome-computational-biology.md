@@ -180,7 +180,7 @@ Browse and search the resources via the [GitHub Pages UI](https://inoue0426.gith
 
 - [NCI60](https://dtp.cancer.gov/discovery_development/nci-60/) — Focuses on 60 cancer cell lines and many drugs.
 - [Genomics of Drug Sensitivity in Cancer (GDSC)](https://www.cancerrxgene.org/) — Drug sensitivity for ~1000 human cancer cell lines and hundreds of compounds.
-- [Cancer Cell Line Encyclopedia](https://sites.broadinstitute.org/ccle/) ��� Database of ~1000 cancer cell lines.
+- [Cancer Cell Line Encyclopedia](https://sites.broadinstitute.org/ccle/) — Database of ~1000 cancer cell lines.
 - [CellMiner Cross Database (CellMinerCDB)](https://discover.nci.nih.gov/cellminercdb/) — Integrates multiple cancer cell line databases.
 
 #### Chemical-Protein Interaction
