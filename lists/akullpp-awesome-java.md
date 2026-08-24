@@ -527,7 +527,7 @@ _Everything that simplifies interactions with the database._
 
 > **[Lettuce ![GitHub Repo Stars](https://img.shields.io/github/stars/redis/lettuce) ![GitHub last commit](https://img.shields.io/github/last-commit/redis/lettuce)](https://github.com/redis/lettuce)** <kbd>★ 5.8k</kbd> <kbd>MIT</kbd> 🟢<br>Lettuce is a scalable Redis client for building non-blocking Reactive applications.
 
-> **[Liquibase ![GitHub Repo Stars](https://img.shields.io/github/stars/liquibase/liquibase) ![GitHub last commit](https://img.shields.io/github/last-commit/liquibase/liquibase)](https://github.com/liquibase/liquibase)** <kbd>★ 5.6k</kbd> 🟢<br>Database-independent library for tracking, managing and applying database schema changes.
+> **[Liquibase ![GitHub Repo Stars](https://img.shields.io/github/stars/liquibase/liquibase) ![GitHub last commit](https://img.shields.io/github/last-commit/liquibase/liquibase)](https://github.com/liquibase/liquibase)** <kbd>�� 5.6k</kbd> 🟢<br>Database-independent library for tracking, managing and applying database schema changes.
 
 > **[MapDB ![GitHub Repo Stars](https://img.shields.io/github/stars/jankotek/mapdb) ![GitHub last commit](https://img.shields.io/github/last-commit/jankotek/mapdb)](https://github.com/jankotek/mapdb)** <kbd>★ 5.1k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Embedded database engine that provides concurrent collections backed on disk or in off-heap memory.
 
@@ -612,7 +612,7 @@ _Libraries for decompiling JVM bytecode._
 
 > **[jadx ![GitHub Repo Stars](https://img.shields.io/github/stars/skylot/jadx) ![GitHub last commit](https://img.shields.io/github/last-commit/skylot/jadx)](https://github.com/skylot/jadx)** <kbd>★ 50.2k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Dex-to-Java decompiler with command-line and graphical interfaces.
 
-> **[transformer-api ![GitHub Repo Stars](https://img.shields.io/github/stars/nbauma109/transformer-api) ![GitHub last commit](https://img.shields.io/github/last-commit/nbauma109/transformer-api)](https://github.com/nbauma109/transformer-api)** <kbd>��� 3</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Unified API that exposes multiple decompilers through one in-memory transformation interface.
+> **[transformer-api ![GitHub Repo Stars](https://img.shields.io/github/stars/nbauma109/transformer-api) ![GitHub last commit](https://img.shields.io/github/last-commit/nbauma109/transformer-api)](https://github.com/nbauma109/transformer-api)** <kbd>★ 3</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Unified API that exposes multiple decompilers through one in-memory transformation interface.
 
 > **[Vineflower ![GitHub Repo Stars](https://img.shields.io/github/stars/Vineflower/vineflower) ![GitHub last commit](https://img.shields.io/github/last-commit/Vineflower/vineflower)](https://github.com/Vineflower/vineflower)** <kbd>★ 2.3k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Modern maintained fork of Fernflower.
 
