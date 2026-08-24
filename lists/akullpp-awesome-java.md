@@ -612,7 +612,7 @@ _Libraries for decompiling JVM bytecode._
 
 > **[jadx ![GitHub Repo Stars](https://img.shields.io/github/stars/skylot/jadx) ![GitHub last commit](https://img.shields.io/github/last-commit/skylot/jadx)](https://github.com/skylot/jadx)** <kbd>★ 50.2k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Dex-to-Java decompiler with command-line and graphical interfaces.
 
-> **[transformer-api ![GitHub Repo Stars](https://img.shields.io/github/stars/nbauma109/transformer-api) ![GitHub last commit](https://img.shields.io/github/last-commit/nbauma109/transformer-api)](https://github.com/nbauma109/transformer-api)** <kbd>★ 3</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Unified API that exposes multiple decompilers through one in-memory transformation interface.
+> **[transformer-api ![GitHub Repo Stars](https://img.shields.io/github/stars/nbauma109/transformer-api) ![GitHub last commit](https://img.shields.io/github/last-commit/nbauma109/transformer-api)](https://github.com/nbauma109/transformer-api)** <kbd>��� 3</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Unified API that exposes multiple decompilers through one in-memory transformation interface.
 
 > **[Vineflower ![GitHub Repo Stars](https://img.shields.io/github/stars/Vineflower/vineflower) ![GitHub last commit](https://img.shields.io/github/last-commit/Vineflower/vineflower)](https://github.com/Vineflower/vineflower)** <kbd>★ 2.3k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Modern maintained fork of Fernflower.
 
