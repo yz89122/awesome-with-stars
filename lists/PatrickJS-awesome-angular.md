@@ -1817,6 +1817,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ng-cmdk ![GitHub Repo Stars](https://img.shields.io/github/stars/wadie/ng-cmdk) ![GitHub last commit](https://img.shields.io/github/last-commit/wadie/ng-cmdk)](https://github.com/wadie/ng-cmdk) - Fast, composable, unstyled command menu for Angular — a port of [cmdk ![GitHub Repo Stars](https://img.shields.io/github/stars/pacocoursey/cmdk) ![GitHub last commit](https://img.shields.io/github/last-commit/pacocoursey/cmdk)](https://github.com/pacocoursey/cmdk).
 * [ngx-dock-layout ![GitHub Repo Stars](https://img.shields.io/github/stars/mickael-pezzoni/ngx-dock-layout) ![GitHub last commit](https://img.shields.io/github/last-commit/mickael-pezzoni/ngx-dock-layout)](https://github.com/mickael-pezzoni/ngx-dock-layout) - An Angular library for creating IDE-style, resizable panel layouts.
 * [layn ![GitHub Repo Stars](https://img.shields.io/github/stars/laynjs/layn) ![GitHub last commit](https://img.shields.io/github/last-commit/laynjs/layn)](https://github.com/laynjs/layn) - A framework-agnostic layout engine featuring virtualized, SSR-deterministic masonry and justified packing layouts.
+* [layout-virtual ![GitHub Repo Stars](https://img.shields.io/github/stars/itihon/layout-virtual) ![GitHub last commit](https://img.shields.io/github/last-commit/itihon/layout-virtual)](https://github.com/itihon/layout-virtual) - Framework agnostic virtualization engine for responsive list and grid layout.
 
 ### Loaders
 
@@ -2302,6 +2303,7 @@ for the creation of web applications developed with Angular.
 * [tailng ![GitHub Repo Stars](https://img.shields.io/github/stars/tociva/tailng) ![GitHub last commit](https://img.shields.io/github/last-commit/tociva/tailng)](https://github.com/tociva/tailng) - Angular components styled with Tailwind to achieve a Material‑like look.
 * [volt-ui ![GitHub Repo Stars](https://img.shields.io/github/stars/Andersseen/volt-ui) ![GitHub last commit](https://img.shields.io/github/last-commit/Andersseen/volt-ui)](https://github.com/Andersseen/volt-ui) - Fully accessible, themeable Angular components built with signals, Tailwind CSS v4, CVA, and `ng-primitives`.
 * [zapui ![GitHub Repo Stars](https://img.shields.io/github/stars/zapuilib/zapui) ![GitHub last commit](https://img.shields.io/github/last-commit/zapuilib/zapui)](https://github.com/zapuilib/zapui) - Build scalable Angular apps with a Tailwind-powered design system from [zap:ui](https://zapui.togethercreative.co.uk/).
+* [Base UI (Angular) ![GitHub Repo Stars](https://img.shields.io/github/stars/Base-ui-ng/base-ui) ![GitHub last commit](https://img.shields.io/github/last-commit/Base-ui-ng/base-ui)](https://github.com/Base-ui-ng/base-ui) - CLI-first Angular + Tailwind copy-in component library (shadcn-style): `npx base-ui-cli add` copies source into your repo. Docs at [base-ui.net](https://base-ui.net). Not MUI Base UI (React).
 
 ### UI Library and Framework Ionic
 
