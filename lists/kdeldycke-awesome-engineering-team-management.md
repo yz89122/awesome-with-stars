@@ -446,7 +446,7 @@ Expansive lists of well-known models and concepts.
 
 ### Systems
 
-- [To Get Good, Go After The Metagame](https://commoncog.com/blog/to-get-good-go-after-the-metagame/) - “Every sufficiently interesting game has a metagame above it. This is the game about the game. It is often called 'the meta'. (…) The meta is what you get after you master boring fundamentals. But observing the state of the current meta often reveals what boring fundamentals you need to learn.”
+- [To Get Good, Go After The Metagame](https://commoncog.com/blog/to-get-good-go-after-the-metagame/) - “Every sufficiently interesting game has a metagame above it. This is the game about the game. It is often called 'the meta'. (��) The meta is what you get after you master boring fundamentals. But observing the state of the current meta often reveals what boring fundamentals you need to learn.”
 
 ### Brainstorming
 
