@@ -467,7 +467,7 @@ Once issued, an invoice must be immutable.
 
 - [Invoice Builder ![GitHub Repo Stars](https://img.shields.io/github/stars/piratuks/invoice-builder) ![GitHub last commit](https://img.shields.io/github/last-commit/piratuks/invoice-builder)](https://github.com/piratuks/invoice-builder) - 🆓 Offline-first desktop app to create, manage and export invoices and quotes to PDF, with all data kept in a local database you own.
 
-- [InvoicePlane ![GitHub Repo Stars](https://img.shields.io/github/stars/InvoicePlane/InvoicePlane) ![GitHub last commit](https://img.shields.io/github/last-commit/InvoicePlane/InvoicePlane)](https://github.com/InvoicePlane/InvoicePlane) - ��� A self-hosted open-source application for managing your invoices, clients and payments. Community project, no paid edition.
+- [InvoicePlane ![GitHub Repo Stars](https://img.shields.io/github/stars/InvoicePlane/InvoicePlane) ![GitHub last commit](https://img.shields.io/github/last-commit/InvoicePlane/InvoicePlane)](https://github.com/InvoicePlane/InvoicePlane) - 🆓 A self-hosted open-source application for managing your invoices, clients and payments. Community project, no paid edition.
 
 - [klirr ![GitHub Repo Stars](https://img.shields.io/github/stars/sajjon/klirr) ![GitHub last commit](https://img.shields.io/github/last-commit/sajjon/klirr)](https://github.com/sajjon/klirr) - 🆓 Zero-maintenance FOSS CLI tool for generating beautiful invoices for services and expenses.
 
