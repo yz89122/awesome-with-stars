@@ -264,7 +264,7 @@ Managers came in all form and shape, and the title and daily activities varies a
 
 - “A consultant is someone 4 pages ahead in the manual” ([source](https://news.ycombinator.com/item?id=20786286)).
 
-- “The value that most orgs get from a consultant (…) is the political cover to make changes they knew they should make all along, but didn't have the social capital or the focus to make those changes” ([source](https://news.ycombinator.com/item?id=21714791)). And that's the reason bureaucracies and highly political organizations are fertile grounds for consultants.
+- ���The value that most orgs get from a consultant (…) is the political cover to make changes they knew they should make all along, but didn't have the social capital or the focus to make those changes” ([source](https://news.ycombinator.com/item?id=21714791)). And that's the reason bureaucracies and highly political organizations are fertile grounds for consultants.
 
 - [The Prosperous Software Consultant](https://dabit3.medium.com/the-prosperous-software-consultant-5dc8d705c5dd) - This article let you understand how an independent consultant operates.
 
@@ -446,7 +446,7 @@ Expansive lists of well-known models and concepts.
 
 ### Systems
 
-- [To Get Good, Go After The Metagame](https://commoncog.com/blog/to-get-good-go-after-the-metagame/) - “Every sufficiently interesting game has a metagame above it. This is the game about the game. It is often called 'the meta'. (��) The meta is what you get after you master boring fundamentals. But observing the state of the current meta often reveals what boring fundamentals you need to learn.”
+- [To Get Good, Go After The Metagame](https://commoncog.com/blog/to-get-good-go-after-the-metagame/) - “Every sufficiently interesting game has a metagame above it. This is the game about the game. It is often called 'the meta'. (…) The meta is what you get after you master boring fundamentals. But observing the state of the current meta often reveals what boring fundamentals you need to learn.”
 
 ### Brainstorming
 
