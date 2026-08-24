@@ -180,7 +180,7 @@ Browse and search the resources via the [GitHub Pages UI](https://inoue0426.gith
 
 - [NCI60](https://dtp.cancer.gov/discovery_development/nci-60/) — Focuses on 60 cancer cell lines and many drugs.
 - [Genomics of Drug Sensitivity in Cancer (GDSC)](https://www.cancerrxgene.org/) — Drug sensitivity for ~1000 human cancer cell lines and hundreds of compounds.
-- [Cancer Cell Line Encyclopedia](https://sites.broadinstitute.org/ccle/) — Database of ~1000 cancer cell lines.
+- [Cancer Cell Line Encyclopedia](https://sites.broadinstitute.org/ccle/) ��� Database of ~1000 cancer cell lines.
 - [CellMiner Cross Database (CellMinerCDB)](https://discover.nci.nih.gov/cellminercdb/) — Integrates multiple cancer cell line databases.
 
 #### Chemical-Protein Interaction
@@ -347,7 +347,7 @@ Browse and search the resources via the [GitHub Pages UI](https://inoue0426.gith
 #### Drug Target Interaction
 
 - [NeoDTI ![GitHub Repo Stars](https://img.shields.io/github/stars/FangpingWan/NeoDTI) ![GitHub last commit](https://img.shields.io/github/last-commit/FangpingWan/NeoDTI)](https://github.com/FangpingWan/NeoDTI) — Library for drug-target interaction prediction.
-- [DTINet ![GitHub Repo Stars](https://img.shields.io/github/stars/luoyunan/DTINet) ![GitHub last commit](https://img.shields.io/github/last-commit/luoyunan/DTINet)](https://github.com/luoyunan/DTINet) �� Network-based framework integrating heterogeneous biological data for DTI prediction.
+- [DTINet ![GitHub Repo Stars](https://img.shields.io/github/stars/luoyunan/DTINet) ![GitHub last commit](https://img.shields.io/github/last-commit/luoyunan/DTINet)](https://github.com/luoyunan/DTINet) — Network-based framework integrating heterogeneous biological data for DTI prediction.
 - [DeepDTA ![GitHub Repo Stars](https://img.shields.io/github/stars/hkmztrk/DeepDTA) ![GitHub last commit](https://img.shields.io/github/last-commit/hkmztrk/DeepDTA)](https://github.com/hkmztrk/DeepDTA) — Deep learning model using CNNs on protein sequences and drug SMILES.
 - [GraphDTA ![GitHub Repo Stars](https://img.shields.io/github/stars/thinng/GraphDTA) ![GitHub last commit](https://img.shields.io/github/last-commit/thinng/GraphDTA)](https://github.com/thinng/GraphDTA) — Graph neural network–based DTI prediction using molecular graphs.
 - [MolTrans ![GitHub Repo Stars](https://img.shields.io/github/stars/kexinhuang12345/MolTrans) ![GitHub last commit](https://img.shields.io/github/last-commit/kexinhuang12345/MolTrans)](https://github.com/kexinhuang12345/MolTrans) — Transformer-based DTI model leveraging molecular substructures.

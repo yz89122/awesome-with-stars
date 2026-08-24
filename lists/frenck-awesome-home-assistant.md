@@ -715,7 +715,7 @@ _Sorted alphabetically by language._
 
 - 🇩🇪 [simon42](https://www.simon42.com/) - Beginner-friendly guides on installation, integrations, and automations by Simon Müller.
 - 🇩🇪 [smarterkram](https://smarterkram.de/) - Detailed tutorials on Zigbee, Matter, ESPHome, and hardware by Oliver Kluth.
-- 🇩🇪 [SmartHome yourself](https://smarthomeyourself.de/) - Release coverage, device reviews, and integration guides by Daniel Scheidler.
+- ��🇪 [SmartHome yourself](https://smarthomeyourself.de/) - Release coverage, device reviews, and integration guides by Daniel Scheidler.
 
 ### 📺 YouTube Channels
 
