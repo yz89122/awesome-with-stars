@@ -1572,7 +1572,7 @@ orchestration to ensure zero breaking changes. Specialized for React, Next.js, a
 
 - **ShiftLeft Scan** :warning: — Scan is a free open-source DevSecOps platform for detecting security issues in source code and dependencies. It supports a broad range of languages and CI/CD pipelines. Note: ShiftLeft rebranded to Qwiet AI in 2023, which was subsequently acquired by Harness in September 2025. This open-source project is no longer maintained.
 
-- **shipshape** :warning: �� Static program analysis platform that allows custom analyzers to plug in through a common interface.
+- **shipshape** :warning: — Static program analysis platform that allows custom analyzers to plug in through a common interface.
 
 - [Sigrid](https://www.softwareimprovementgroup.com/solutions/sigrid-software-assurance-platform/) :copyright: — Sigrid helps you to improve your software by measuring your system's code quality,  and then compares the results against a benchmark of thousands of industry systems to give you concrete advice on areas where you can improve.
 
