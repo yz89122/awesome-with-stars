@@ -1743,7 +1743,7 @@ then it is not supported:
 - [kawre/leetcode.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/kawre/leetcode.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/kawre/leetcode.nvim)](https://github.com/kawre/leetcode.nvim) - Solve Leetcode problems.
 - [2KAbhishek/exercism.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/2KAbhishek/exercism.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/2KAbhishek/exercism.nvim)](https://github.com/2KAbhishek/exercism.nvim) - Browse and solve Exercism problems.
 <!--lint disable double-link -->
-[**⬆ back to top**](#contents)
+[**�� back to top**](#contents)
 <!--lint enable double-link -->
 
 ## Toys
@@ -1817,7 +1817,6 @@ then it is not supported:
 - [hackorum/VapourNvim ![GitHub Repo Stars](https://img.shields.io/github/stars/hackorum/VapourNvim) ![GitHub last commit](https://img.shields.io/github/last-commit/hackorum/VapourNvim)](https://github.com/hackorum/VapourNvim) - Configuration for the ultimate Vim IDE-like experience.
 - [siduck76/NvChad ![GitHub Repo Stars](https://img.shields.io/github/stars/siduck76/NvChad) ![GitHub last commit](https://img.shields.io/github/last-commit/siduck76/NvChad)](https://github.com/siduck76/NvChad) - An attempt to make the built-in CLI as functional as an IDE while retaining beauty with less bloat.
 - [cstsunfu/.sea.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/cstsunfu/.sea.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/cstsunfu/.sea.nvim)](https://github.com/cstsunfu/.sea.nvim) - A modular configuration with a beautiful UI and some useful features such as a pomodoro clock and window numbers.
-- [shaeinst/roshnivim ![GitHub Repo Stars](https://img.shields.io/github/stars/shaeinst/roshnivim) ![GitHub last commit](https://img.shields.io/github/last-commit/shaeinst/roshnivim)](https://github.com/shaeinst/roshnivim) - A predefined config to save you thousands of hours to setup your editor as an IDE.
 - [AstroNvim/AstroNvim ![GitHub Repo Stars](https://img.shields.io/github/stars/AstroNvim/AstroNvim) ![GitHub last commit](https://img.shields.io/github/last-commit/AstroNvim/AstroNvim)](https://github.com/AstroNvim/AstroNvim) - An aesthetic and feature-rich config that is extensible and easy to use with a great set of plugins.
 - [shaunsingh/nyoom.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/shaunsingh/nyoom.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/shaunsingh/nyoom.nvim)](https://github.com/shaunsingh/nyoom.nvim) - Blazing fast, configurable, minimal and "lispy" config written in Fennel.
 - [jrychn/moduleVim ![GitHub Repo Stars](https://img.shields.io/github/stars/jrychn/ModuleVim) ![GitHub last commit](https://img.shields.io/github/last-commit/jrychn/ModuleVim)](https://github.com/jrychn/ModuleVim) - A very easy to use for backend and frontend, install LSP automatically.
