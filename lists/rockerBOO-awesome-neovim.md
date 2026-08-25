@@ -1743,7 +1743,7 @@ then it is not supported:
 - [kawre/leetcode.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/kawre/leetcode.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/kawre/leetcode.nvim)](https://github.com/kawre/leetcode.nvim) - Solve Leetcode problems.
 - [2KAbhishek/exercism.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/2KAbhishek/exercism.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/2KAbhishek/exercism.nvim)](https://github.com/2KAbhishek/exercism.nvim) - Browse and solve Exercism problems.
 <!--lint disable double-link -->
-[**�� back to top**](#contents)
+[**⬆ back to top**](#contents)
 <!--lint enable double-link -->
 
 ## Toys
