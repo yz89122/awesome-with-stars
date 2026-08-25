@@ -359,7 +359,7 @@ The storefront of Magento 2 can be styled in numerous ways:
 
 ### Company Blogs
 
-- [Atwix](https://www.atwix.com/blog/) 🫡 - Magento development agency blog.
+- [Atwix](https://www.atwix.com/blog/) ��� - Magento development agency blog.
 - [FireBear Studio](https://firebearstudio.com/blog) 🫡 - FireBear Studio's Magento development blog.
 - [inchoo](http://inchoo.net/category/magento-2/) 🫡 - Inchoo's Magento development blog.
 - [Classy Llama](https://www.classyllama.com/blog) - Magento agency blog.
