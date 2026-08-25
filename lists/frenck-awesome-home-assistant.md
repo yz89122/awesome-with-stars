@@ -270,7 +270,7 @@ _Pull your solar inverter, smart meter, home battery, or utility tariff into Hom
 - [Dynamic Energy Cost ![GitHub Repo Stars](https://img.shields.io/github/stars/martinarva/dynamic_energy_cost) ![GitHub last commit](https://img.shields.io/github/last-commit/martinarva/dynamic_energy_cost)](https://github.com/martinarva/dynamic_energy_cost) - Tracks real-time and cumulative energy cost against a dynamic price feed like Nord Pool or EPEX (189★).
 - [Energi Data Service ![GitHub Repo Stars](https://img.shields.io/github/stars/MTrab/energidataservice) ![GitHub last commit](https://img.shields.io/github/last-commit/MTrab/energidataservice)](https://github.com/MTrab/energidataservice) - Fetches Danish electricity spot prices from the Energi Data Service API for use in price-aware automations (275★).
 
-### �� Cameras & video
+### 📹 Cameras & video
 
 _Pair specific camera brands and video sources that Home Assistant does not support out of the box._
 
