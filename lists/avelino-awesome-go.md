@@ -609,7 +609,7 @@ _Libraries for preprocessing CSS files._
 - [go-css ![GitHub Repo Stars](https://img.shields.io/github/stars/napsy/go-css) ![GitHub last commit](https://img.shields.io/github/last-commit/napsy/go-css)](https://github.com/napsy/go-css) - A very simple CSS parser, written in Go.
 - [go-libsass ![GitHub Repo Stars](https://img.shields.io/github/stars/wellington/go-libsass) ![GitHub last commit](https://img.shields.io/github/last-commit/wellington/go-libsass)](https://github.com/wellington/go-libsass) - Go wrapper to the 100% Sass compatible libsass project.
 
-**[��� back to top](#contents)**
+**[⬆ back to top](#contents)**
 
 ## Data Integration Frameworks
 
@@ -2971,7 +2971,7 @@ _General utilities and tools to make your life easier._
 - [chyle ![GitHub Repo Stars](https://img.shields.io/github/stars/antham/chyle) ![GitHub last commit](https://img.shields.io/github/last-commit/antham/chyle)](https://github.com/antham/chyle) - Changelog generator using a git repository with multiple configuration possibilities.
 - [circuit ![GitHub Repo Stars](https://img.shields.io/github/stars/cep21/circuit) ![GitHub last commit](https://img.shields.io/github/last-commit/cep21/circuit)](https://github.com/cep21/circuit) - An efficient and feature complete Hystrix like Go implementation of the circuit breaker pattern.
 - [circuitbreaker ![GitHub Repo Stars](https://img.shields.io/github/stars/rubyist/circuitbreaker) ![GitHub last commit](https://img.shields.io/github/last-commit/rubyist/circuitbreaker)](https://github.com/rubyist/circuitbreaker) - Circuit Breakers in Go.
-- [clipboard ![GitHub Repo Stars](https://img.shields.io/github/stars/golang-design/clipboard) ![GitHub last commit](https://img.shields.io/github/last-commit/golang-design/clipboard)](https://github.com/golang-design/clipboard) - 📋 cross-platform clipboard package in Go.
+- [clipboard ![GitHub Repo Stars](https://img.shields.io/github/stars/golang-design/clipboard) ![GitHub last commit](https://img.shields.io/github/last-commit/golang-design/clipboard)](https://github.com/golang-design/clipboard) - ���� cross-platform clipboard package in Go.
 - [clockwork ![GitHub Repo Stars](https://img.shields.io/github/stars/jonboulle/clockwork) ![GitHub last commit](https://img.shields.io/github/last-commit/jonboulle/clockwork)](https://github.com/jonboulle/clockwork) - A simple fake clock for golang.
 - [cmd ![GitHub Repo Stars](https://img.shields.io/github/stars/SimonBaeumer/cmd) ![GitHub last commit](https://img.shields.io/github/last-commit/SimonBaeumer/cmd)](https://github.com/SimonBaeumer/cmd) - Library for executing shell commands on osx, windows and linux.
 - [config-file-validator ![GitHub Repo Stars](https://img.shields.io/github/stars/Boeing/config-file-validator) ![GitHub last commit](https://img.shields.io/github/last-commit/Boeing/config-file-validator)](https://github.com/Boeing/config-file-validator) - Cross Platform tool to validate configuration files.
