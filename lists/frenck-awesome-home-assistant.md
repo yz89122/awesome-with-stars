@@ -408,7 +408,7 @@ _Link multiple Home Assistant instances together, share entities across homes, o
 
 - [Remote Home Assistant ![GitHub Repo Stars](https://img.shields.io/github/stars/custom-components/remote_homeassistant) ![GitHub last commit](https://img.shields.io/github/last-commit/custom-components/remote_homeassistant)](https://github.com/custom-components/remote_homeassistant) - Link multiple instances together so entities, services, and events flow between them (1,232★).
 
-### �� Logging & analytics
+### 📊 Logging & analytics
 
 _Send Home Assistant data to external systems for long-term storage, richer dashboards, or analysis._
 
@@ -658,7 +658,7 @@ _Some of the best smart-home gadgets do not exist as products you can buy, but o
 - [Sonoff NSPanel ![GitHub Repo Stars](https://img.shields.io/github/stars/joBr99/nspanel-lovelace-ui) ![GitHub last commit](https://img.shields.io/github/last-commit/joBr99/nspanel-lovelace-ui)](https://github.com/joBr99/nspanel-lovelace-ui) - Custom firmware for Sonoff NSPanel touchscreens with a Lovelace-style UI (988★).
 - [CODESYS V3 Home Automation ![GitHub Repo Stars](https://img.shields.io/github/stars/MichielVanwelsenaere/HomeAutomation.CoDeSys3) ![GitHub last commit](https://img.shields.io/github/last-commit/MichielVanwelsenaere/HomeAutomation.CoDeSys3)](https://github.com/MichielVanwelsenaere/HomeAutomation.CoDeSys3) - PLC home-automation software that communicates over MQTT for wired automation setups (144★).
 
-### ��� DIY Gateways
+### 🌉 DIY Gateways
 
 - [OpenMQTTGateway ![GitHub Repo Stars](https://img.shields.io/github/stars/1technophile/OpenMQTTGateway) ![GitHub last commit](https://img.shields.io/github/last-commit/1technophile/OpenMQTTGateway)](https://github.com/1technophile/OpenMQTTGateway) - A flexible MQTT gateway for IR, RF, BLE, MiFlora, SMS, and many sensors (4,023★).
 - [esp8266 Milight Hub ![GitHub Repo Stars](https://img.shields.io/github/stars/sidoh/esp8266_milight_hub) ![GitHub last commit](https://img.shields.io/github/last-commit/sidoh/esp8266_milight_hub)](https://github.com/sidoh/esp8266_milight_hub) - Alternative hub for Milight/LimitlessLED devices that uses MQTT (1,040★).
