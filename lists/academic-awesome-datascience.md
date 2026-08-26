@@ -411,6 +411,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 * [scikit-opt ![GitHub Repo Stars](https://img.shields.io/github/stars/guofei9987/scikit-opt) ![GitHub last commit](https://img.shields.io/github/last-commit/guofei9987/scikit-opt)](https://github.com/guofei9987/scikit-opt)
 * [scikit-posthocs ![GitHub Repo Stars](https://img.shields.io/github/stars/maximtrp/scikit-posthocs) ![GitHub last commit](https://img.shields.io/github/last-commit/maximtrp/scikit-posthocs)](https://github.com/maximtrp/scikit-posthocs)
 * [feature-engine](https://feature-engine.trainindata.com/)
+* [me_fasttext ![GitHub Repo Stars](https://img.shields.io/github/stars/initial-d/me_fasttext) ![GitHub last commit](https://img.shields.io/github/last-commit/initial-d/me_fasttext)](https://github.com/initial-d/me_fasttext) - Memory-efficient FastText variant with exact trie n-gram IDs, structure-aware row sharing, and mmap serving for large-vocabulary NLP.
 * [pystruct ![GitHub Repo Stars](https://img.shields.io/github/stars/pystruct/pystruct) ![GitHub last commit](https://img.shields.io/github/last-commit/pystruct/pystruct)](https://github.com/pystruct/pystruct)
 * [Shogun](https://www.shogun-toolbox.org/)
 * [xLearn ![GitHub Repo Stars](https://img.shields.io/github/stars/aksnzhy/xlearn) ![GitHub last commit](https://img.shields.io/github/last-commit/aksnzhy/xlearn)](https://github.com/aksnzhy/xlearn)
