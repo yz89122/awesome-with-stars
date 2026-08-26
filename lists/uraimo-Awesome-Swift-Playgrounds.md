@@ -157,7 +157,7 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 
 ## Theoretical Computer Science
 
-* [Functional Debug View ![GitHub Repo Stars](https://img.shields.io/github/stars/tomquist/DebugView) ![GitHub last commit](https://img.shields.io/github/last-commit/tomquist/DebugView)](https://github.com/tomquist/DebugView) - Playground to visualize functional programming with graphical sequences. 🍁 ����
+* [Functional Debug View ![GitHub Repo Stars](https://img.shields.io/github/stars/tomquist/DebugView) ![GitHub last commit](https://img.shields.io/github/last-commit/tomquist/DebugView)](https://github.com/tomquist/DebugView) - Playground to visualize functional programming with graphical sequences. 🍁 🌟
 * [OOP with Functions in Swift ![GitHub Repo Stars](https://img.shields.io/github/stars/iamleeg/OOPInFPInSwift) ![GitHub last commit](https://img.shields.io/github/last-commit/iamleeg/OOPInFPInSwift)](https://github.com/iamleeg/OOPInFPInSwift) - Object-Oriented Programming in Functional Programming in Swift. 🍁
 * [Logician ![GitHub Repo Stars](https://img.shields.io/github/stars/mdiep/Logician) ![GitHub last commit](https://img.shields.io/github/last-commit/mdiep/Logician)](https://github.com/mdiep/Logician) - Logic programming in Swift. 🌟
 * [Function Composition in Swift ![GitHub Repo Stars](https://img.shields.io/github/stars/ijoshsmith/function-composition-in-swift) ![GitHub last commit](https://img.shields.io/github/last-commit/ijoshsmith/function-composition-in-swift)](https://github.com/ijoshsmith/function-composition-in-swift) - Exploration of function composition in Swift. 🌟
