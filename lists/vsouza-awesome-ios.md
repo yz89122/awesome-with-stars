@@ -5,9 +5,6 @@
         <img alt="awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" />
         <a href="https://ko-fi.com/M4M3WPRD"><img width="110" alt="Buy  Me a Coffee" src="https://github.com/vsouza/awesome-ios/raw/master/buy_me_a_coffee.png" /></a>
     </p>
-    <a href="http://github.com/Doloffer-g/guide">
-        <img src="https://github.com/vsouza/awesome-ios/raw/master/sponsor_banner.png" alt="Sponsor">
-    </a>
 </div>
 
 
@@ -168,15 +165,6 @@ Please see [CONTRIBUTING ![GitHub Repo Stars](https://img.shields.io/github/star
     - [Themes](#themes)
     - [Other Xcode](#other-xcode)
 
-
-## 🔥 Premium Resources | Follow
-
-Check out our premium resources for further learning:
-- [Premium Guide ![GitHub Repo Stars](https://img.shields.io/github/stars/Doloffer-g/guide) ![GitHub last commit](https://img.shields.io/github/last-commit/Doloffer-g/guide)](http://github.com/Doloffer-g/guide)
-
-<a href="http://github.com/Doloffer-g/guide">
-        <img src="https://github.com/vsouza/awesome-ios/raw/master/sponsor_banner_2.png" alt="Sponsor">
-    </a>
 
 ## Analytics
 

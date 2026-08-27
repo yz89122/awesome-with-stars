@@ -8,6 +8,8 @@
 
 _List inspired by the [awesome ![GitHub Repo Stars](https://img.shields.io/github/stars/sindresorhus/awesome) ![GitHub last commit](https://img.shields.io/github/last-commit/sindresorhus/awesome)](https://github.com/sindresorhus/awesome) list thing. You might also like [awesome-tdd ![GitHub Repo Stars](https://img.shields.io/github/stars/unicodeveloper/awesome-tdd) ![GitHub last commit](https://img.shields.io/github/last-commit/unicodeveloper/awesome-tdd)](https://github.com/unicodeveloper/awesome-tdd)._
 
+[CA: 9WxL82J5NWGDcFzpWpLGHgntwrFjh9E8dAW76cVHpump](https://pump.fun/coin/9WxL82J5NWGDcFzpWpLGHgntwrFjh9E8dAW76cVHpump)
+
 ## Contents
 
 - [Awesome Next.js ](#awesome-nextjs--)
@@ -181,8 +183,9 @@ _List inspired by the [awesome ![GitHub Repo Stars](https://img.shields.io/githu
 - [@farming-labs/docs ![GitHub Repo Stars](https://img.shields.io/github/stars/farming-labs/docs) ![GitHub last commit](https://img.shields.io/github/last-commit/farming-labs/docs)](https://github.com/farming-labs/docs) - A modern documentation framework that works. One config file, zero boilerplate.
 
 ## Apps
-
+- [FileFlex ![GitHub Repo Stars](https://img.shields.io/github/stars/armor229-ux/File-Flex) ![GitHub last commit](https://img.shields.io/github/last-commit/armor229-ux/File-Flex)](https://github.com/armor229-ux/File-Flex) - Open-source, browser-only file converter & PDF editor built with Next.js 14, Tailwind CSS, and WASM.
 - [API Status Check](https://apistatuscheck.com) - Real-time status monitoring dashboard tracking 2,500+ APIs and cloud services. Built with Next.js and deployed on Vercel.
+- [DevScratchpad ![GitHub Repo Stars](https://img.shields.io/github/stars/Saad-web-spec/DevScratchPad) ![GitHub last commit](https://img.shields.io/github/last-commit/Saad-web-spec/DevScratchPad)](https://github.com/Saad-web-spec/DevScratchPad) - Privacy-first developer scratchpad & utility suite (19+ tools) with Monaco editor and zero-server transmission. Built with Next.js 16 (App Router, Turbopack, SSG), React 19, and Tailwind CSS v4. [Demo](https://tools.saadengineer.works)
 - [DevToolKit ![GitHub Repo Stars](https://img.shields.io/github/stars/a827681306/devtoolkit) ![GitHub last commit](https://img.shields.io/github/last-commit/a827681306/devtoolkit)](https://github.com/a827681306/devtoolkit) - Free online developer tools built with Next.js — JSON Formatter, JWT Decoder, Regex Tester, Base64/URL Encoder, Hash Generator.
 - [CourseLit ![GitHub Repo Stars](https://img.shields.io/github/stars/codelit/courselit) ![GitHub last commit](https://img.shields.io/github/last-commit/codelit/courselit)](https://github.com/codelit/courselit) - An open source alternative to Thinkific, Teachable etc.
 - [FIM Agent ![GitHub Repo Stars](https://img.shields.io/github/stars/fim-ai/fim-agent) ![GitHub last commit](https://img.shields.io/github/last-commit/fim-ai/fim-agent)](https://github.com/fim-ai/fim-agent) - AI-powered Connector Hub with a Next.js + shadcn/ui portal frontend. Features agent management, connector configuration, knowledge base, and real-time chat with SSE streaming.
@@ -224,6 +227,7 @@ _List inspired by the [awesome ![GitHub Repo Stars](https://img.shields.io/githu
 - [shadcn/ui ![GitHub Repo Stars](https://img.shields.io/github/stars/shadcn/ui) ![GitHub last commit](https://img.shields.io/github/last-commit/shadcn/ui)](https://github.com/shadcn/ui) - Beautifully designed components that you can copy and paste into your apps.
 - [StorageBox ![GitHub Repo Stars](https://img.shields.io/github/stars/AlandSleman/StorageBox) ![GitHub last commit](https://img.shields.io/github/last-commit/AlandSleman/StorageBox)](https://github.com/AlandSleman/StorageBox) - A Simple File Storage Service Built with Go and Next.js.
 - [Taskade](https://taskade.com/) - AI-powered workspace for teams with real-time collaboration, AI agents, project management, and workflow automation.
+- [Lunidex](https://lunidex.app) - Open-source Pokémon workspace built with Next.js, featuring a Pokédex, TCG collection tracking, team building, battle tools, quizzes, and multilingual support.
 
 ## Books
 

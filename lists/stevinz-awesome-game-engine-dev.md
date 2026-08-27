@@ -665,7 +665,7 @@ _Language specific game engine development libraries / frameworks / code._
 
 ### Dart
 - 📚 [Awesome Dart ![GitHub Repo Stars](https://img.shields.io/github/stars/yissachar/awesome-dart) ![GitHub last commit](https://img.shields.io/github/last-commit/yissachar/awesome-dart)](https://github.com/yissachar/awesome-dart) - Curated list of awesome Dart frameworks, libraries, and software.
-- 🌎 [Dart](https://dart.dev) - Client-optimized language for fast apps on any platform. [[GitHub](https://github.com/dart-lang/)]
+- ��� [Dart](https://dart.dev) - Client-optimized language for fast apps on any platform. [[GitHub](https://github.com/dart-lang/)]
 - Dart: App Framework
     - 🎉 [Flutter](https://flutter.dev) - Open source app framework by _Google_. [[Awesome ![GitHub Repo Stars](https://img.shields.io/github/stars/Solido/awesome-flutter) ![GitHub last commit](https://img.shields.io/github/last-commit/Solido/awesome-flutter)](https://github.com/Solido/awesome-flutter) | [GitHub](https://github.com/flutter)]
 - Dart: File Formats

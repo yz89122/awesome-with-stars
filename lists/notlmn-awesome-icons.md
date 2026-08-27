@@ -80,12 +80,6 @@ Icons made out of CSS only (that are not downloadable).
 - [cssicon ![GitHub Repo Stars](https://img.shields.io/github/stars/wentin/cssicon) ![GitHub last commit](https://img.shields.io/github/last-commit/wentin/cssicon)](https://github.com/wentin/cssicon#readme) - Icon set made with pure css code, no dependencies, "grab and go" icons. ([Website](https://cssicon.space))
 - [icono ![GitHub Repo Stars](https://img.shields.io/github/stars/saeedalipoor/icono) ![GitHub last commit](https://img.shields.io/github/last-commit/saeedalipoor/icono)](https://github.com/saeedalipoor/icono#readme) - Pure CSS, class based icon pack. ([Website](https://saeedalipoor.github.io/icono))
 
-### Paid
-
-Not open-source/free, but still awesome enough.
-
-- [Nucelo Icons](https://nucleoapp.com/premium-icons) - A premium library of SVG icons for iOS, Android & web projects.
-
 ### Frameworks
 
 Usually a library or framework that lets you import other icon sets.
