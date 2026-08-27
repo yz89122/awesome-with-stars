@@ -42,6 +42,7 @@ See more design systems [here ![GitHub Repo Stars](https://img.shields.io/github
 - [Building your design system](https://www.designbetter.co/design-systems-handbook/building-design-system)
 - [Design Systems are for People](https://publication.design.systems/design-systems-are-for-people-a484620b6988)
 - [Design Systems vs. Pattern Libraries vs. Style Guides – What's the Difference?](https://www.uxpin.com/studio/blog/design-systems-vs-pattern-libraries-vs-style-guides-whats-difference/)
+- [From Figma to Production: The Modern Design-to-Code Pipeline in 2026](https://horizonx.so/blog/figma-to-production-design-to-code-2026)
 - [How Spotify organises work in Figma to improve collaboration](https://spotify.design/articles/2020-04-20/how-spotify-works-in-figma/)
 - [How to Build Design Systems](https://medium.muz.li/how-to-build-design-systems-3431560f51fb)
 - [What is a Design System – Everything You Need to Know](https://uxmisfit.com/2019/03/26/what-is-a-design-system-everything-you-need-to-know/)
@@ -84,6 +85,7 @@ See design tools plugins [here ![GitHub Repo Stars](https://img.shields.io/githu
 - [The A11Y Project](https://a11yproject.com/) - A community-driven effort to make web accessibility easier. See [resources](https://a11yproject.com/resources/) section.
 - [InclusiveColors palette creator](https://www.inclusivecolors.com/) - Creates accessible custom Tailwind-style color palettes that pass WCAG contrast checks and can be exported to CSS/Figma/Adobe.
 - [Nutilz Color Shades Generator](https://nutilz.com/color-shades-generator) - Generates a 50-950 tint/shade scale from any hex color and exports it as CSS variables, SCSS, or a Tailwind config.
+- [Color Blindness Simulator](https://colorvisionlabs.com/color-blindness-simulator) - Shows how any image or built-in test scene looks with protan, deutan, or tritan vision at adjustable severity, side by side with the original. Uses the Machado (2009) model, so partial deficiencies can be simulated rather than only the complete forms.
 
 ### Design tools articles
 
@@ -108,6 +110,7 @@ See design tools plugins [here ![GitHub Repo Stars](https://img.shields.io/githu
 - [Style Dictionary ![GitHub Repo Stars](https://img.shields.io/github/stars/amzn/style-dictionary) ![GitHub last commit](https://img.shields.io/github/last-commit/amzn/style-dictionary)](https://github.com/amzn/style-dictionary) - A Style Dictionary uses design tokens to define styles once and use those styles on any platform or language.
 - [Superposition](https://superposition.design/) - Extract design tokens from websites and use them in code and in your design tool. Use the design system you already have.
 - [Theo ![GitHub Repo Stars](https://img.shields.io/github/stars/salesforce-ux/theo) ![GitHub last commit](https://img.shields.io/github/last-commit/salesforce-ux/theo)](https://github.com/salesforce-ux/theo) - Theo is an abstraction for transforming and formatting Design Tokens.
+- [Designesy](https://www.designesy.org/) - 40-check design-system contract verification engine. Scores any URL against DTCG 2025.10 token conformance, WCAG 2.2 AA, motion, and typography. Includes DTCG token validator, stylelint plugin, and MCP server.
 
 ### Articles
 
@@ -173,6 +176,7 @@ More info to Storybook [here ![GitHub Repo Stars](https://img.shields.io/github/
 - [Chromatic](https://www.chromaticqa.com/) - Visual testing for React, Angular and Vue. Chromatic ensures consistency in UI components, down to the pixel. Every commit is automatically tested for visual changes in the cloud.
 - [Sherlo](https://sherlo.io/) - Visual testing platform for React Native Storybook. Captures screenshots on iOS and Android simulators in the cloud and detects visual changes automatically.
 - [Testing library](https://testing-library.com/) - Simple and complete testing utilities that encourage good testing practices.
+- [Designesy](https://www.designesy.org/) - 40-check design-contract verification engine with live URL scoring. Deterministic checks across tokens, motion, accessibility, typography, and copywriting. GitHub Action for CI gating, MCP server for AI agents.
 
 ## Books
 
