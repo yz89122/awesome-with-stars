@@ -316,7 +316,7 @@ Videos of web mapping presentations and tutorials:
 - [Geospatial Network Visualization](https://geonetworks.github.io/) - A collection of visualization techniques for geospatial network data. 
 
 
-## ���� Contributing
+## 🤝 Contributing
 
 Contributions are welcome, just follow the [guidelines](./CONTRIBUTING.md).
 

@@ -402,7 +402,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Amplitude Audio SDK ![GitHub Repo Stars](https://img.shields.io/github/stars/SparkyStudios/AmplitudeAudioSDK) ![GitHub last commit](https://img.shields.io/github/last-commit/SparkyStudios/AmplitudeAudioSDK)](https://github.com/SparkyStudios/AmplitudeAudioSDK) - Cross-platform audio engine designed for the needs of games.
     - 💰 [irrKlang](https://www.ambiera.com/irrklang/) - High level 2D/3D sound engine and audio library.
     - 💰 [Juce ![GitHub Repo Stars](https://img.shields.io/github/stars/juce-framework/JUCE) ![GitHub last commit](https://img.shields.io/github/last-commit/juce-framework/JUCE)](https://github.com/juce-framework/JUCE) - The leading framework for multi-platform audio apps.
-    - 🔒 [OpenAL Soft ![GitHub Repo Stars](https://img.shields.io/github/stars/kcat/openal-soft) ![GitHub last commit](https://img.shields.io/github/last-commit/kcat/openal-soft)](https://github.com/kcat/openal-soft) - Software implementation of the _OpenAL_ 3D audio API.
+    - ��� [OpenAL Soft ![GitHub Repo Stars](https://img.shields.io/github/stars/kcat/openal-soft) ![GitHub last commit](https://img.shields.io/github/last-commit/kcat/openal-soft)](https://github.com/kcat/openal-soft) - Software implementation of the _OpenAL_ 3D audio API.
     - 🎉 [PortAudio ![GitHub Repo Stars](https://img.shields.io/github/stars/PortAudio/portaudio) ![GitHub last commit](https://img.shields.io/github/last-commit/PortAudio/portaudio)](https://github.com/PortAudio/portaudio) - Cross-platform audio library.
     - 🎉 [Steam Audio ![GitHub Repo Stars](https://img.shields.io/github/stars/ValveSoftware/steam-audio) ![GitHub last commit](https://img.shields.io/github/last-commit/ValveSoftware/steam-audio)](https://github.com/ValveSoftware/steam-audio) - Cross-platform spatial audio SDK for games and VR.
 - C++: Cross-Platform
@@ -665,7 +665,7 @@ _Language specific game engine development libraries / frameworks / code._
 
 ### Dart
 - 📚 [Awesome Dart ![GitHub Repo Stars](https://img.shields.io/github/stars/yissachar/awesome-dart) ![GitHub last commit](https://img.shields.io/github/last-commit/yissachar/awesome-dart)](https://github.com/yissachar/awesome-dart) - Curated list of awesome Dart frameworks, libraries, and software.
-- ��� [Dart](https://dart.dev) - Client-optimized language for fast apps on any platform. [[GitHub](https://github.com/dart-lang/)]
+- 🌎 [Dart](https://dart.dev) - Client-optimized language for fast apps on any platform. [[GitHub](https://github.com/dart-lang/)]
 - Dart: App Framework
     - 🎉 [Flutter](https://flutter.dev) - Open source app framework by _Google_. [[Awesome ![GitHub Repo Stars](https://img.shields.io/github/stars/Solido/awesome-flutter) ![GitHub last commit](https://img.shields.io/github/last-commit/Solido/awesome-flutter)](https://github.com/Solido/awesome-flutter) | [GitHub](https://github.com/flutter)]
 - Dart: File Formats
