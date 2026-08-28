@@ -8,8 +8,6 @@
 
 _List inspired by the [awesome ![GitHub Repo Stars](https://img.shields.io/github/stars/sindresorhus/awesome) ![GitHub last commit](https://img.shields.io/github/last-commit/sindresorhus/awesome)](https://github.com/sindresorhus/awesome) list thing. You might also like [awesome-tdd ![GitHub Repo Stars](https://img.shields.io/github/stars/unicodeveloper/awesome-tdd) ![GitHub last commit](https://img.shields.io/github/last-commit/unicodeveloper/awesome-tdd)](https://github.com/unicodeveloper/awesome-tdd)._
 
-[CA: 9WxL82J5NWGDcFzpWpLGHgntwrFjh9E8dAW76cVHpump](https://pump.fun/coin/9WxL82J5NWGDcFzpWpLGHgntwrFjh9E8dAW76cVHpump)
-
 ## Contents
 
 - [Awesome Next.js ](#awesome-nextjs--)

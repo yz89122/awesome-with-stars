@@ -196,6 +196,7 @@ A curated list of bitcoin services and tools for software developers
 * [Blockparser+SQL ![GitHub Repo Stars](https://img.shields.io/github/stars/mcdee/blockparser) ![GitHub last commit](https://img.shields.io/github/last-commit/mcdee/blockparser)](https://github.com/mcdee/blockparser) - Fast, quick and dirty bitcoin blockchain parser.
 * [BitcoinABE ![GitHub Repo Stars](https://img.shields.io/github/stars/bitcoin-abe/bitcoin-abe) ![GitHub last commit](https://img.shields.io/github/last-commit/bitcoin-abe/bitcoin-abe)](https://github.com/bitcoin-abe/bitcoin-abe) - Abe: block browser for Bitcoin and similar currencies.
 * [Chaingraph ![GitHub Repo Stars](https://img.shields.io/github/stars/bitauth/chaingraph) ![GitHub last commit](https://img.shields.io/github/last-commit/bitauth/chaingraph)](https://github.com/bitauth/chaingraph/) – A multi-node blockchain indexer and GraphQL API.
+* [nodsig ![GitHub Repo Stars](https://img.shields.io/github/stars/amenano/nodsig) ![GitHub last commit](https://img.shields.io/github/last-commit/amenano/nodsig)](https://github.com/amenano/nodsig) - Turns your node's blocks into sealed local artifacts: chain questions become offline lookups, and every answer carries a fingerprint anyone can recompute. Python stdlib only.
 
 ## Full nodes
 * [btcd ![GitHub Repo Stars](https://img.shields.io/github/stars/btcsuite/btcd) ![GitHub last commit](https://img.shields.io/github/last-commit/btcsuite/btcd)](https://github.com/btcsuite/btcd/) - Go-based full node since 2013.

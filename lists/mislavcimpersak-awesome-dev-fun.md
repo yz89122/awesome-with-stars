@@ -46,6 +46,7 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 ## Golang
 - [gomatrix ![GitHub Repo Stars](https://img.shields.io/github/stars/GeertJohan/gomatrix) ![GitHub last commit](https://img.shields.io/github/last-commit/GeertJohan/gomatrix)](https://github.com/GeertJohan/gomatrix) - Connect to The Matrix and display it's data streams in your terminal.
 - [codeometer ![GitHub Repo Stars](https://img.shields.io/github/stars/rafael-santiago/codeometer) ![GitHub last commit](https://img.shields.io/github/last-commit/rafael-santiago/codeometer)](https://github.com/rafael-santiago/codeometer) - It measures your code in real world units of measurement also comparing the evaluated distance to famous places and monuments. Codeometer supports plain code files, zipped files and remote git repos. Doing all stuff as a straightforward command line tool or as a web tool through its embedded httpd (tls supported).
+- [termagitchi ![GitHub Repo Stars](https://img.shields.io/github/stars/TevvvB/termagitchi) ![GitHub last commit](https://img.shields.io/github/last-commit/TevvvB/termagitchi)](https://github.com/TevvvB/termagitchi) - A gacha machine bolted to `git status`: every coding-agent session hatches its own ASCII creature, and the creature gets visibly sadder the longer you leave things uncommitted.
 
 
 ## Haskell
