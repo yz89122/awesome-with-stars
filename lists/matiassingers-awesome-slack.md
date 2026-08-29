@@ -31,8 +31,13 @@ An avid Slack user? A developer looking for awesome tools to build out an integr
 ## :art: &nbsp; Themes
 
 - [Slack Themes](http://slackthemes.net/) - A Slack sidebar theme browser
+- [More Slack Themes](https://slack.michaeldemar.co) - Browse, create, and share Slack themes.
 
 ## :hammer_and_wrench: &nbsp; Libraries and SDKs
+
+### Ballerina
+
+- [ballerina-slack-library ![GitHub Repo Stars](https://img.shields.io/github/stars/ballerina-platform/module-ballerinax-slack) ![GitHub last commit](https://img.shields.io/github/last-commit/ballerina-platform/module-ballerinax-slack)](https://github.com/ballerina-platform/module-ballerinax-slack) - Ballerina library for Slack.
 
 ### C&#35;
 
@@ -55,6 +60,7 @@ An avid Slack user? A developer looking for awesome tools to build out an integr
 
 ### JavaScript/TypeScript
 
+- [appstore-webhook-proxy ![GitHub Repo Stars](https://img.shields.io/github/stars/yannisalexiou/appstore-webhook-proxy) ![GitHub last commit](https://img.shields.io/github/last-commit/yannisalexiou/appstore-webhook-proxy)](https://github.com/yannisalexiou/appstore-webhook-proxy) - App Store Webhook Proxy for Microsoft Teams & Slack.
 - [bolt-js ![GitHub Repo Stars](https://img.shields.io/github/stars/slackapi/bolt-js) ![GitHub last commit](https://img.shields.io/github/last-commit/slackapi/bolt-js)](https://github.com/slackapi/bolt-js) - Slack's official JavaScript framework for building Slack apps
 - [jsx-slack ![GitHub Repo Stars](https://img.shields.io/github/stars/yhatt/jsx-slack) ![GitHub last commit](https://img.shields.io/github/last-commit/yhatt/jsx-slack)](https://github.com/yhatt/jsx-slack) - Build JSON object for Slack Block Kit surfaces from JSX
 - [node-slack-sdk ![GitHub Repo Stars](https://img.shields.io/github/stars/slackapi/node-slack-sdk) ![GitHub last commit](https://img.shields.io/github/last-commit/slackapi/node-slack-sdk)](https://github.com/slackapi/node-slack-sdk) - Slack's official SDK for Node.js 
@@ -128,6 +134,7 @@ An avid Slack user? A developer looking for awesome tools to build out an integr
 - [definition-app ![GitHub Repo Stars](https://img.shields.io/github/stars/slackapi/definition-app) ![GitHub last commit](https://img.shields.io/github/last-commit/slackapi/definition-app)](https://github.com/slackapi/definition-app) - App for storing and accessing company-specific phrases
 - [slack-github-action ![GitHub Repo Stars](https://img.shields.io/github/stars/slackapi/slack-github-action) ![GitHub last commit](https://img.shields.io/github/last-commit/slackapi/slack-github-action)](https://github.com/slackapi/slack-github-action) - Send data into Slack using this GitHub Action
 - [slack-reporting-tool ![GitHub Repo Stars](https://img.shields.io/github/stars/slackapi/slack-reporting-tool) ![GitHub last commit](https://img.shields.io/github/last-commit/slackapi/slack-reporting-tool)](https://github.com/slackapi/slack-reporting-tool) - App that allows team members to report offensive messages
+- [SlackONOS ![GitHub Repo Stars](https://img.shields.io/github/stars/htilly/SlackONOS) ![GitHub last commit](https://img.shields.io/github/last-commit/htilly/SlackONOS)](https://github.com/htilly/SlackONOS) - Democratic Slack and Discord bot for Sonos speaker control with Spotify integration.
 - [tesla-slack ![GitHub Repo Stars](https://img.shields.io/github/stars/heikkipora/tesla-slack) ![GitHub last commit](https://img.shields.io/github/last-commit/heikkipora/tesla-slack)](https://github.com/heikkipora/tesla-slack) - Track your Tesla from Slack
 - [tasks-app ![GitHub Repo Stars](https://img.shields.io/github/stars/slackapi/tasks-app) ![GitHub last commit](https://img.shields.io/github/last-commit/slackapi/tasks-app)](https://github.com/slackapi/tasks-app) - Simple task management app produced by Slack
 
@@ -149,6 +156,7 @@ An avid Slack user? A developer looking for awesome tools to build out an integr
 - [snarkov ![GitHub Repo Stars](https://img.shields.io/github/stars/gesteves/snarkov) ![GitHub last commit](https://img.shields.io/github/last-commit/gesteves/snarkov)](https://github.com/gesteves/snarkov) - Sinatra-based Markov bot for Slack
 - [tickbot ![GitHub Repo Stars](https://img.shields.io/github/stars/barryf/tickbot) ![GitHub last commit](https://img.shields.io/github/last-commit/barryf/tickbot)](https://github.com/barryf/tickbot) - Simple team time tracking reminder
 - [trebekbot ![GitHub Repo Stars](https://img.shields.io/github/stars/gesteves/trebekbot) ![GitHub last commit](https://img.shields.io/github/last-commit/gesteves/trebekbot)](https://github.com/gesteves/trebekbot) - A Jeopardy! bot for Slack
+- [ZReviewTender ![GitHub Repo Stars](https://img.shields.io/github/stars/ZhgChgLi/ZReviewTender) ![GitHub last commit](https://img.shields.io/github/last-commit/ZhgChgLi/ZReviewTender)](https://github.com/ZhgChgLi/ZReviewTender) - A tool for fetching app reviews from the App Store and Google Play Console and sending them to Slack.
 
 ## :busts_in_silhouette: &nbsp; Contributions
 
