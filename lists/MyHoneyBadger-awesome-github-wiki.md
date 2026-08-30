@@ -71,6 +71,7 @@ Wiki should be detail, up to date and well structured. It should be easy to find
 - [LLM Wiki](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f)
 - [Github Wiki Generator ![GitHub Repo Stars](https://img.shields.io/github/stars/Satttoshi/github-wiki-generator) ![GitHub last commit](https://img.shields.io/github/last-commit/Satttoshi/github-wiki-generator)](https://github.com/Satttoshi/github-wiki-generator)
 - [OpenDeepWiki ![GitHub Repo Stars](https://img.shields.io/github/stars/AIDotNet/OpenDeepWiki) ![GitHub last commit](https://img.shields.io/github/last-commit/AIDotNet/OpenDeepWiki)](https://github.com/AIDotNet/OpenDeepWiki)
+- [Github Wiki Generator ![GitHub Repo Stars](https://img.shields.io/github/stars/Samyc2002/GithubWikiGenerator) ![GitHub last commit](https://img.shields.io/github/last-commit/Samyc2002/GithubWikiGenerator)](https://github.com/Samyc2002/GithubWikiGenerator)
 
 ## Contributing
 Contributions are very welcome! Please read the [contribution guideline](contributing.md) first.
