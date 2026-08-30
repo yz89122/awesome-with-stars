@@ -76,14 +76,14 @@ This list is a collection of the best Mastodon resources.
 - [Brutaldon](https://gitlab.com/brutaldon/brutaldon/) - A brutalist web interface for Mastodon.
 - [phanpy ![GitHub Repo Stars](https://img.shields.io/github/stars/cheeaun/phanpy) ![GitHub last commit](https://img.shields.io/github/last-commit/cheeaun/phanpy)](https://github.com/cheeaun/phanpy) - A minimalistic and opinionated Mastodon web client.
 - [Planiverse](https://git.mulligrubs.me/planiverse/) - Minimalist, no-JS Web client for Mastodon.
-- [Official Client ![GitHub Repo Stars](https://img.shields.io/github/stars/mastodon/mastodon-android) ![GitHub last commit](https://img.shields.io/github/last-commit/mastodon/mastodon-android)](https://github.com/mastodon/mastodon-android/) - Official Android client.
-- [Whalebird](https://whalebird.social/en/desktop/contents/) - Electron-based Mastodon client.
+- [Whalebird](https://whalebird.social/) - Electron-based Mastodon client.
 - [toot ![GitHub Repo Stars](https://img.shields.io/github/stars/ihabunek/toot) ![GitHub last commit](https://img.shields.io/github/last-commit/ihabunek/toot)](https://github.com/ihabunek/toot/) - Mastodon CLI & TUI in Python.
 - [Tokodon](https://apps.kde.org/tokodon/) - Mastodon client made by KDE.
 - [hellclient](https://hell.limitedideas.org) - Mastodon CLI readline client written in Go.
 
 ## Mobile Clients
 
+- [Official Client ![GitHub Repo Stars](https://img.shields.io/github/stars/mastodon/mastodon-android) ![GitHub last commit](https://img.shields.io/github/last-commit/mastodon/mastodon-android)](https://github.com/mastodon/mastodon-android/) - Official Android client.
 - [Megalodon](https://sk22.github.io/megalodon/) - Fork of the official Android client.
 - [Fedilab](https://codeberg.org/tom79/Fedilab/) - Fully-featured Android client.
 - [Tusky](https://codeberg.org/tusky/Tusky) - Intuitive Android client.
