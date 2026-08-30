@@ -322,7 +322,7 @@ Browse and search the resources via the [GitHub Pages UI](https://inoue0426.gith
 #### Drug Response Prediction
 
 - [drGAT ![GitHub Repo Stars](https://img.shields.io/github/stars/inoue0426/drGAT) ![GitHub last commit](https://img.shields.io/github/last-commit/inoue0426/drGAT)](https://github.com/inoue0426/drGAT) — Attention-based model for drug response prediction with gene explainability.
-- [MOFGCN ![GitHub Repo Stars](https://img.shields.io/github/stars/weiba/MOFGCN) ![GitHub last commit](https://img.shields.io/github/last-commit/weiba/MOFGCN)](https://github.com/weiba/MOFGCN/tree/main) �� GCN + heterogeneous network.
+- [MOFGCN ![GitHub Repo Stars](https://img.shields.io/github/stars/weiba/MOFGCN) ![GitHub last commit](https://img.shields.io/github/last-commit/weiba/MOFGCN)](https://github.com/weiba/MOFGCN/tree/main) — GCN + heterogeneous network.
 - [DeepDSC](https://ieeexplore-ieee-org.ezp2.lib.umn.edu/stamp/stamp.jsp?tp=&arnumber=8723620&tag=1) — Autoencoder + fully connected NN.
 - [DGDRP ![GitHub Repo Stars](https://img.shields.io/github/stars/minwoopak/heteronet) ![GitHub last commit](https://img.shields.io/github/last-commit/minwoopak/heteronet)](https://github.com/minwoopak/heteronet) — Multi-view embedding neural network.
 - [DeepAEG ![GitHub Repo Stars](https://img.shields.io/github/stars/zhejiangzhuque/DeepAEG) ![GitHub last commit](https://img.shields.io/github/last-commit/zhejiangzhuque/DeepAEG)](https://github.com/zhejiangzhuque/DeepAEG) — GNN embedding + attention mechanism.
@@ -347,7 +347,7 @@ Browse and search the resources via the [GitHub Pages UI](https://inoue0426.gith
 #### Drug Target Interaction
 
 - [NeoDTI ![GitHub Repo Stars](https://img.shields.io/github/stars/FangpingWan/NeoDTI) ![GitHub last commit](https://img.shields.io/github/last-commit/FangpingWan/NeoDTI)](https://github.com/FangpingWan/NeoDTI) — Library for drug-target interaction prediction.
-- [DTINet ![GitHub Repo Stars](https://img.shields.io/github/stars/luoyunan/DTINet) ![GitHub last commit](https://img.shields.io/github/last-commit/luoyunan/DTINet)](https://github.com/luoyunan/DTINet) — Network-based framework integrating heterogeneous biological data for DTI prediction.
+- [DTINet ![GitHub Repo Stars](https://img.shields.io/github/stars/luoyunan/DTINet) ![GitHub last commit](https://img.shields.io/github/last-commit/luoyunan/DTINet)](https://github.com/luoyunan/DTINet) �� Network-based framework integrating heterogeneous biological data for DTI prediction.
 - [DeepDTA ![GitHub Repo Stars](https://img.shields.io/github/stars/hkmztrk/DeepDTA) ![GitHub last commit](https://img.shields.io/github/last-commit/hkmztrk/DeepDTA)](https://github.com/hkmztrk/DeepDTA) — Deep learning model using CNNs on protein sequences and drug SMILES.
 - [GraphDTA ![GitHub Repo Stars](https://img.shields.io/github/stars/thinng/GraphDTA) ![GitHub last commit](https://img.shields.io/github/last-commit/thinng/GraphDTA)](https://github.com/thinng/GraphDTA) — Graph neural network–based DTI prediction using molecular graphs.
 - [MolTrans ![GitHub Repo Stars](https://img.shields.io/github/stars/kexinhuang12345/MolTrans) ![GitHub last commit](https://img.shields.io/github/last-commit/kexinhuang12345/MolTrans)](https://github.com/kexinhuang12345/MolTrans) — Transformer-based DTI model leveraging molecular substructures.
