@@ -691,7 +691,7 @@ How much value do you produce per customer? The Customer Lifetime Value (CLV, or
 
 <!--lint ignore balanced-punctuation-->
 
-- [Churn Prediction](https://towardsdatascience.com/customer-churn-prediction-with-text-and-interpretability-bd3d57af34b1/) - “How to use Python in a simplistic way to fuel your company's growth by applying the predictive approach to all your actions.��� Relies on XGBoost binary classification.
+- [Churn Prediction](https://towardsdatascience.com/customer-churn-prediction-with-text-and-interpretability-bd3d57af34b1/) - “How to use Python in a simplistic way to fuel your company's growth by applying the predictive approach to all your actions.” Relies on XGBoost binary classification.
 
 - [PyMC-Marketing ![GitHub Repo Stars](https://img.shields.io/github/stars/pymc-labs/pymc-marketing) ![GitHub last commit](https://img.shields.io/github/last-commit/pymc-labs/pymc-marketing)](https://github.com/pymc-labs/pymc-marketing) - 🆓 A full-featured Python package to analyze your users based on their "alive" and "dead" states. Apache-2.0 library stewarded by PyMC Labs, which only sells consulting services around it (no paid library tier).
 
