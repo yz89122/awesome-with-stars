@@ -419,7 +419,6 @@ every 20 minutes, look at something 20 feet (~6 meters) away for at least 20 sec
 ## Screen Capture
 
 * [Fraps](https://www.fraps.com/) - DirectX/OpenGL game recording utility.
-* [Greenshot ![GitHub Repo Stars](https://img.shields.io/github/stars/greenshot/greenshot) ![GitHub last commit](https://img.shields.io/github/last-commit/greenshot/greenshot)](https://github.com/greenshot/greenshot) - Screenshot capture and editing tool. ![Open-Source Software](https://github.com/0pandadev/awesome-windows/raw/main/assets/opensource.svg)
 * [LICEcap](https://www.cockos.com/licecap/) - Animated GIF screen capture tool.
 * [OBS Studio](https://obsproject.com/) - Free and open source software for video recording and live streaming. [![Open-Source Software][oss]](https://github.com/obsproject/obs-studio) ![star]
 * [Snipping Tool](https://support.microsoft.com/en-in/help/13776/windows-use-snipping-tool-to-capture-screenshots) - Built-in Windows screenshot utility.
@@ -430,6 +429,7 @@ every 20 minutes, look at something 20 feet (~6 meters) away for at least 20 sec
 * [Capter ![GitHub Repo Stars](https://img.shields.io/github/stars/decipher3114/Capter) ![GitHub last commit](https://img.shields.io/github/last-commit/decipher3114/Capter)](https://github.com/decipher3114/Capter) - A simple screenshot tool made in rust. ![oss]
 * [Flameshot](https://flameshot.org/) - Customizable screenshot tool with an easy-to-use interface and built-in editor. [![Open-Source Software][oss]](https://github.com/flameshot-org/flameshot)
 * [Greenshot](https://getgreenshot.org/) - Greenshot is a light-weight screenshot software tool for Windows. [![Open-Source Software][oss]](https://github.com/greenshot/greenshot)
+* [iScribby](https://iscribby.com/) - A neat little tool that allows you to draw and copy things directly on your screen from anywhere, without interrupting your workflow.
 * [Lightshot](https://app.prntscr.com/en/index.html) - A fast and intuitive screenshot tool that allows capturing and editing images instantly.
 * [ShareX](https://getsharex.com/) - Powerful, open-source screenshot and screen recording tool with advanced editing options. [![Open-Source Software][oss]](https://github.com/ShareX/ShareX) ![star]
 

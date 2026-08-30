@@ -221,7 +221,7 @@ A curated list of awesome iBeacon and Eddystone Bluetooth beacon resources, open
 ## Proximity Trends & Outlook
 
 * [Wired](http://www.wired.com/2013/12/4-use-cases-for-ibeacon-the-most-exciting-tech-you-havent-heard-of/) 4 Reasons Why Apple’s iBeacon Is About to Disrupt Interaction Design
-* [Wi-Fi Aware™](http://www.wi-fi.org/discover-wi-fi/wi-fi-aware) - Wi-Fi Aware™ is a new Wi-Fi Alliance certification program that extends Wi-Fi’s capabilities with a real-time and energy-efficient discovery mechanism that provides an immediate on-ramp to rich here-and-now experiences.
+* [Wi-Fi Aware���](http://www.wi-fi.org/discover-wi-fi/wi-fi-aware) - Wi-Fi Aware™ is a new Wi-Fi Alliance certification program that extends Wi-Fi’s capabilities with a real-time and energy-efficient discovery mechanism that provides an immediate on-ramp to rich here-and-now experiences.
 
 
 ## Vendor-driven Beacon Standardization
