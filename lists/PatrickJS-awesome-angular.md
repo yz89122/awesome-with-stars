@@ -44,8 +44,9 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
   * [Feature Flags](#feature-flags)
   * [GraphQL](#graphql)
   * [HTTP](#http)
-  * [Micro-Frontends](#micro-frontends)
-  * [Module Federation](#module-federation)
+  * [Micro Frontends](#micro-frontends)
+  * [Module Federation Vite](#module-federation-vite)
+  * [Module Federation Webpack](#module-federation-webpack)
   * [Monorepos](#monorepos)
   * [Server-Side Rendering](#server-side-rendering)
 * [Development Utilities](#development-utilities)
@@ -575,22 +576,27 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-smart-interceptor ![GitHub Repo Stars](https://img.shields.io/github/stars/ErickG123/ngx-smart-interceptor) ![GitHub last commit](https://img.shields.io/github/last-commit/ErickG123/ngx-smart-interceptor)](https://github.com/ErickG123/ngx-smart-interceptor) - Enterprise-grade, resilient, and intelligent HTTP Interceptor for modern Angular applications.
 * [angular-query ![GitHub Repo Stars](https://img.shields.io/github/stars/klheb/angular-query) ![GitHub last commit](https://img.shields.io/github/last-commit/klheb/angular-query)](https://github.com/klheb/angular-query) - An Angular-first data fetching library inspired by TanStack Query that uses Angular Signals for reactive queries, caching, and state management.
 
-### Micro-Frontends
+### Micro Frontends
 
-* [angular-microfrontend-demo ![GitHub Repo Stars](https://img.shields.io/github/stars/gioboa/angular-microfrontend-demo) ![GitHub last commit](https://img.shields.io/github/last-commit/gioboa/angular-microfrontend-demo)](https://github.com/gioboa/angular-microfrontend-demo) - Module Federation Vite + Angular is now possible.
-* [backbase-micro-frontends ![GitHub Repo Stars](https://img.shields.io/github/stars/Backbase/backbase-micro-frontends) ![GitHub last commit](https://img.shields.io/github/last-commit/Backbase/backbase-micro-frontends)](https://github.com/Backbase/backbase-micro-frontends) - Proof of concept showcasing how legacy apps (widgets) can work together with newer apps (journeys) via Module Federation.
-* [micro-frontends-mindmaps ![GitHub Repo Stars](https://img.shields.io/github/stars/santoshshinde2012/micro-frontends-mindmaps) ![GitHub last commit](https://img.shields.io/github/last-commit/santoshshinde2012/micro-frontends-mindmaps)](https://github.com/santoshshinde2012/micro-frontends-mindmaps) - A mindmap summarizing micro-frontends concepts.
-* [ngx-mfe ![GitHub Repo Stars](https://img.shields.io/github/stars/dkhrunov/ngx-mfe) ![GitHub last commit](https://img.shields.io/github/last-commit/dkhrunov/ngx-mfe)](https://github.com/dkhrunov/ngx-mfe) - Angular library for working with micro-frontends in Webpack 5 and plugin ModuleFederation.
+* [angular-micro-frontends](https://nx.dev/docs/kb/angular-micro-frontends) - Micro-frontends with Angular and Nx.
+* [luigi ![GitHub Repo Stars](https://img.shields.io/github/stars/luigi-project/luigi) ![GitHub last commit](https://img.shields.io/github/last-commit/luigi-project/luigi)](https://github.com/luigi-project/luigi) - Enterprise-ready, technology-agnostic micro-frontend orchestration framework with out-of-the-box navigation and authorization features.
+* [micro-frontends-mindmaps ![GitHub Repo Stars](https://img.shields.io/github/stars/santoshshinde2012/micro-frontends-mindmaps) ![GitHub last commit](https://img.shields.io/github/last-commit/santoshshinde2012/micro-frontends-mindmaps)](https://github.com/santoshshinde2012/micro-frontends-mindmaps) - A mindmap summarizing micro-frontend concepts.
 
-### Module Federation
+### Module Federation Vite
 
-* [@module-federation/core ![GitHub Repo Stars](https://img.shields.io/github/stars/module-federation/core) ![GitHub last commit](https://img.shields.io/github/last-commit/module-federation/core)](https://github.com/module-federation/core) - Module Federation is a concept that allows developers to share code and resources across multiple JavaScript applications.
+* [@native-federation/angular-adapter ![GitHub Repo Stars](https://img.shields.io/github/stars/native-federation/angular-adapter) ![GitHub last commit](https://img.shields.io/github/last-commit/native-federation/angular-adapter)](https://github.com/native-federation/angular-adapter) - The official reference implementation and starter template for using Native Federation with Angular.
+* [@angulardevelopment/micro-frontend-monorepo ![GitHub Repo Stars](https://img.shields.io/github/stars/angulardevelopment/micro-frontend-monorepo) ![GitHub last commit](https://img.shields.io/github/last-commit/angulardevelopment/micro-frontend-monorepo)](https://github.com/angulardevelopment/micro-frontend-monorepo) - A scalable micro-frontend monorepo architecture using modern tooling (e.g., Nx / Turborepo / Webpack Module Federation / Vite).
+* [micro-frontend-vite-vue-react-angular-ts ![GitHub Repo Stars](https://img.shields.io/github/stars/Eraybulut34/micro-frontend-vite-vue-react-angular-ts) ![GitHub last commit](https://img.shields.io/github/last-commit/Eraybulut34/micro-frontend-vite-vue-react-angular-ts)](https://github.com/Eraybulut34/micro-frontend-vite-vue-react-angular-ts) - Multi-framework micro-frontends (Vue, React, Angular) integrated into a Vue.js shell using Module Federation.
+
+### Module Federation Webpack
+
+* [@module-federation/core ![GitHub Repo Stars](https://img.shields.io/github/stars/module-federation/core) ![GitHub last commit](https://img.shields.io/github/last-commit/module-federation/core)](https://github.com/module-federation/core) - Core library allowing developers to share code and resources dynamically across multiple JavaScript applications.
+* [angular-mfe-poc ![GitHub Repo Stars](https://img.shields.io/github/stars/araujomartin/angular-mfe-poc) ![GitHub last commit](https://img.shields.io/github/last-commit/araujomartin/angular-mfe-poc)](https://github.com/araujomartin/angular-mfe-poc) - POC demonstrating micro-frontend architecture with Angular acting as the host.
+* [mfe-crossframework ![GitHub Repo Stars](https://img.shields.io/github/stars/igorhms/mfe-crossframework) ![GitHub last commit](https://img.shields.io/github/last-commit/igorhms/mfe-crossframework)](https://github.com/igorhms/mfe-crossframework) - Module Federation project with Angular host and cross-framework remotes built without Nx.
+* [module-federation-plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/angular-architects/module-federation-plugin) ![GitHub last commit](https://img.shields.io/github/last-commit/angular-architects/module-federation-plugin)](https://github.com/angular-architects/module-federation-plugin) - Plugin integrating Module Federation with Angular CLI for loading micro-frontends or plugins.
 * [ng-dynamic-mf ![GitHub Repo Stars](https://img.shields.io/github/stars/LoaderB0T/ng-dynamic-mf) ![GitHub last commit](https://img.shields.io/github/last-commit/LoaderB0T/ng-dynamic-mf)](https://github.com/LoaderB0T/ng-dynamic-mf) - Truly dynamic modules at runtime with Module Federation.
-* [module-federation-plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/angular-architects/module-federation-plugin) ![GitHub last commit](https://img.shields.io/github/last-commit/angular-architects/module-federation-plugin)](https://github.com/angular-architects/module-federation-plugin) - Plugin integrating Module Federation with Angular CLI for loading micro frontends or plugins.
+* [ngx-mfe ![GitHub Repo Stars](https://img.shields.io/github/stars/dkhrunov/ngx-mfe) ![GitHub last commit](https://img.shields.io/github/last-commit/dkhrunov/ngx-mfe)](https://github.com/dkhrunov/ngx-mfe) - Angular library for working with micro-frontends in Webpack 5 and the Module Federation plugin.
 * [webpack-module-federation-with-angular ![GitHub Repo Stars](https://img.shields.io/github/stars/edumserrano/webpack-module-federation-with-angular) ![GitHub last commit](https://img.shields.io/github/last-commit/edumserrano/webpack-module-federation-with-angular)](https://github.com/edumserrano/webpack-module-federation-with-angular) - Guide to learn about Webpack Module Federation with several Angular code demos.
-* [Vite-module-federation-angular-test ![GitHub Repo Stars](https://img.shields.io/github/stars/Seifenn/vite-module-federation-angular-test) ![GitHub last commit](https://img.shields.io/github/last-commit/Seifenn/vite-module-federation-angular-test)](https://github.com/Seifenn/vite-module-federation-angular-test) - Tests [Module Federation Vite ![GitHub Repo Stars](https://img.shields.io/github/stars/module-federation/vite) ![GitHub last commit](https://img.shields.io/github/last-commit/module-federation/vite)](https://github.com/module-federation/vite) with Angular and AnalogJS (via [@brandonroberts/angular-vite ![GitHub Repo Stars](https://img.shields.io/github/stars/brandonroberts/angular-vite) ![GitHub last commit](https://img.shields.io/github/last-commit/brandonroberts/angular-vite)](https://github.com/brandonroberts/angular-vite)); explores SSR with an AnalogJS host (plugin SSR support may vary).
-* [mfe-crossframework ![GitHub Repo Stars](https://img.shields.io/github/stars/igorhms/mfe-crossframework) ![GitHub last commit](https://img.shields.io/github/last-commit/igorhms/mfe-crossframework)](https://github.com/igorhms/mfe-crossframework) - Module Federation project with Angular Host, Cross-framework remotes and without Nx.
-* [npm-mfe-live-reload](https://www.npmjs.com/package/npm-mfe-live-reload) - This tool auto-reloads the shell in development mode when remote microfrontends change.
 
 ### Monorepos
 
@@ -1102,6 +1108,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-tosijs ![GitHub Repo Stars](https://img.shields.io/github/stars/tonioloewald/ngx-tosijs) ![GitHub last commit](https://img.shields.io/github/last-commit/tonioloewald/ngx-tosijs)](https://github.com/tonioloewald/ngx-tosijs) - Insanely simple state management for Angular — and an off-ramp from Angular. Take your pick.
 * [ngx-zero ![GitHub Repo Stars](https://img.shields.io/github/stars/ivan-anchev/ngx-zero) ![GitHub last commit](https://img.shields.io/github/last-commit/ivan-anchev/ngx-zero)](https://github.com/ivan-anchev/ngx-zero) - Signals-first, zoneless-ready Angular bindings for [Rocicorp Zero](https://zero.rocicorp.dev/), a general-purpose sync solution.
 * [ng-craft ![GitHub Repo Stars](https://img.shields.io/github/stars/ng-angular-stack/ng-craft) ![GitHub last commit](https://img.shields.io/github/last-commit/ng-angular-stack/ng-craft)](https://github.com/ng-angular-stack/ng-craft) - A Signal-based Angular toolkit for modeling state, asynchronous work, services, forms, dependency injection, and routes with explicit dependencies and strong TypeScript inference.
+* [object-recipes ![GitHub Repo Stars](https://img.shields.io/github/stars/royhansen99/object-recipes) ![GitHub last commit](https://img.shields.io/github/last-commit/royhansen99/object-recipes)](https://github.com/royhansen99/object-recipes) - Lightweight, type-safe Immer alternative using string paths for immutable nested updates, featuring deep-equal optimization and universal state management integration.
 
 ## Testing
 

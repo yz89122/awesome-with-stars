@@ -41,6 +41,7 @@ sellers who aren't evil for physical resources.
 **Table of Contents**
 
 - [Artificial Intelligence (AI, LLMs)](#artificial-intelligence-ai-llms)
+  - [Agents](#agents)
   - [Around the OpenAI API](#around-the-openai-api)
   - [MCP servers](#mcp-servers)
   - [Machine Learning](#machine-learning)
@@ -215,6 +216,10 @@ sellers who aren't evil for physical resources.
 
 Artificial Intelligence (AI, LLMs)
 ==================================
+
+## Agents
+
+* [Autolith ![GitHub Repo Stars](https://img.shields.io/github/stars/lambda-symbolics/autolith) ![GitHub last commit](https://img.shields.io/github/last-commit/lambda-symbolics/autolith)](https://github.com/lambda-symbolics/autolith) - a live, self-modifying Common Lisp agent.
 
 ## Around the OpenAI API
 
@@ -1210,6 +1215,7 @@ Web Development
 Reference
 ---------
 
+* NEW! [Metaspec](https://metaspec.dev/) - another rendition of the dpANS3R CL specification, but to an s-expression based document format, and then to HTML.  All divergences from the specification are documented, all revisions are versioned and dated.  Math is rendered via MathML.  Also includes an info render and an emacs integration package.  Free to copy, modify, and distribute.
 * NEW! [CL CommunitySpec](https://cl-community-spec.github.io/pages/index.html) - a rendition of the Common Lisp ANSI Specification draft.
   * with an interactive search, syntax highlighting! And open-source.
 * NEW! [novaspec](https://novaspec.org/) - a modern rendition of the CL ANSI draft.
@@ -2144,6 +2150,7 @@ Tools:
   * [ngl widget ![GitHub Repo Stars](https://img.shields.io/github/stars/yitzchak/ngl-clj) ![GitHub last commit](https://img.shields.io/github/last-commit/yitzchak/ngl-clj)](https://github.com/yitzchak/ngl-clj) -  A ngl widget (protein viewer) for common-lisp-jupyter.
   * [sheet widget ![GitHub Repo Stars](https://img.shields.io/github/stars/yitzchak/sheet-clj) ![GitHub last commit](https://img.shields.io/github/last-commit/yitzchak/sheet-clj)](https://github.com/yitzchak/sheet-clj) -  Data grid widget for common-lisp-jupyter.
 * [cl-jupyter ![GitHub Repo Stars](https://img.shields.io/github/stars/fredokun/cl-jupyter) ![GitHub last commit](https://img.shields.io/github/last-commit/fredokun/cl-jupyter)](https://github.com/fredokun/cl-jupyter) - A Common Lisp kernel for Jupyter notebooks [custom licence ![GitHub Repo Stars](https://img.shields.io/github/stars/fredokun/cl-jupyter) ![GitHub last commit](https://img.shields.io/github/last-commit/fredokun/cl-jupyter)](https://github.com/fredokun/cl-jupyter/blob/master/LICENSE).
+* [icl ![GitHub Repo Stars](https://img.shields.io/github/stars/atgreeen/icl) ![GitHub last commit](https://img.shields.io/github/last-commit/atgreeen/icl)](https://github.com/atgreeen/icl) - the enhanced REPL (see below) includes a very capable notebook feature with advanced charting capabilities.
 
 ## REPLs ##
 
