@@ -62,6 +62,7 @@ Browse and search the resources via the [GitHub Pages UI](https://inoue0426.gith
       - [Drug Target Interaction](#drug-target-interaction)
       - [Compound-Protein Interaction](#compound-protein-interaction)
       - [Molecular Generation](#molecular-generation)
+    - [Protein Property Prediction](#protein-property-prediction)
     - [LLM for Biology](#llm-for-biology)
     - [Foundation Models](#foundation-models)
       - [Single-cell Foundation Models](#single-cell-foundation-models)
@@ -304,7 +305,7 @@ Browse and search the resources via the [GitHub Pages UI](https://inoue0426.gith
 - [CellCharter ![GitHub Repo Stars](https://img.shields.io/github/stars/CSOgroup/cellcharter) ![GitHub last commit](https://img.shields.io/github/last-commit/CSOgroup/cellcharter)](https://github.com/CSOgroup/cellcharter) — Identification and characterization of spatial cell niches from spatial transcriptomics using VAEs and Gaussian mixture models.
 - [STAGATE ![GitHub Repo Stars](https://img.shields.io/github/stars/RucDongLab/STAGATE) ![GitHub last commit](https://img.shields.io/github/last-commit/RucDongLab/STAGATE)](https://github.com/RucDongLab/STAGATE) — Adaptive graph attention auto-encoder for spatial domain identification in spatial transcriptomics.
 - [NCEM ![GitHub Repo Stars](https://img.shields.io/github/stars/theislab/ncem) ![GitHub last commit](https://img.shields.io/github/last-commit/theislab/ncem)](https://github.com/theislab/ncem) — GNN-based model for learning intercellular communication from spatial graphs of cells.
-- [DeepTalk ![GitHub Repo Stars](https://img.shields.io/github/stars/JiangBioLab/DeepTalk) ![GitHub last commit](https://img.shields.io/github/last-commit/JiangBioLab/DeepTalk)](https://github.com/JiangBioLab/DeepTalk) — Graph attention network for deciphering cell-cell communication from spatial transcriptomics data.
+- [DeepTalk ![GitHub Repo Stars](https://img.shields.io/github/stars/JiangBioLab/DeepTalk) ![GitHub last commit](https://img.shields.io/github/last-commit/JiangBioLab/DeepTalk)](https://github.com/JiangBioLab/DeepTalk) — Graph attention network for deciphering cell-cell communication from spatial transcriptomics.
 - [COMMOT ![GitHub Repo Stars](https://img.shields.io/github/stars/zcang/COMMOT) ![GitHub last commit](https://img.shields.io/github/last-commit/zcang/COMMOT)](https://github.com/zcang/COMMOT) — Optimal transport-based framework for screening cell-cell communication in spatial transcriptomics.
 - [TIGON ![GitHub Repo Stars](https://img.shields.io/github/stars/yutongo/TIGON) ![GitHub last commit](https://img.shields.io/github/last-commit/yutongo/TIGON)](https://github.com/yutongo/TIGON) — Neural optimal transport method for reconstructing growth and dynamic trajectories from single-cell transcriptomics.
 - [LINGER ![GitHub Repo Stars](https://img.shields.io/github/stars/Durenlab/LINGER) ![GitHub last commit](https://img.shields.io/github/last-commit/Durenlab/LINGER)](https://github.com/Durenlab/LINGER) — Neural network for gene regulatory network inference from single-cell multiome (RNA+ATAC-seq) data with bulk data pretraining.
@@ -329,7 +330,7 @@ Browse and search the resources via the [GitHub Pages UI](https://inoue0426.gith
 - [RECOVER ![GitHub Repo Stars](https://img.shields.io/github/stars/RECOVERcoalition/Recover) ![GitHub last commit](https://img.shields.io/github/last-commit/RECOVERcoalition/Recover)](https://github.com/RECOVERcoalition/Recover) — Machine learning framework for predicting synergistic drug combination responses across cell lines.
 - [TGSA ![GitHub Repo Stars](https://img.shields.io/github/stars/violet-sto/TGSA) ![GitHub last commit](https://img.shields.io/github/last-commit/violet-sto/TGSA)](https://github.com/violet-sto/TGSA) — Tumor gene set and attention-based model leveraging biological pathway knowledge for drug response prediction.
 - [HiDRA ![GitHub Repo Stars](https://img.shields.io/github/stars/bsml320/HiDRA) ![GitHub last commit](https://img.shields.io/github/last-commit/bsml320/HiDRA)](https://github.com/bsml320/HiDRA) — Hierarchical network model incorporating gene and pathway-level information for cancer drug response prediction.
-- [DRUML ![GitHub Repo Stars](https://img.shields.io/github/stars/CutillasLab/DRUMLR) ![GitHub last commit](https://img.shields.io/github/last-commit/CutillasLab/DRUMLR)](https://github.com/CutillasLab/DRUMLR) — Ensemble machine learning framework combining standard ML with deep learning to systematically rank anti-cancer drugs from proteomics and RNA-seq data.
+- [DRUML ![GitHub Repo Stars](https://img.shields.io/github/stars/CutillasLab/DRUMLR) ![GitHub last commit](https://img.shields.io/github/last-commit/CutillasLab/DRUMLR)](https://github.com/CutillasLab/DRUMLR) �� Ensemble machine learning framework combining standard ML with deep learning to systematically rank anti-cancer drugs from proteomics and RNA-seq data.
 
 #### Drug Perturbation
 
@@ -347,7 +348,7 @@ Browse and search the resources via the [GitHub Pages UI](https://inoue0426.gith
 #### Drug Target Interaction
 
 - [NeoDTI ![GitHub Repo Stars](https://img.shields.io/github/stars/FangpingWan/NeoDTI) ![GitHub last commit](https://img.shields.io/github/last-commit/FangpingWan/NeoDTI)](https://github.com/FangpingWan/NeoDTI) — Library for drug-target interaction prediction.
-- [DTINet ![GitHub Repo Stars](https://img.shields.io/github/stars/luoyunan/DTINet) ![GitHub last commit](https://img.shields.io/github/last-commit/luoyunan/DTINet)](https://github.com/luoyunan/DTINet) �� Network-based framework integrating heterogeneous biological data for DTI prediction.
+- [DTINet ![GitHub Repo Stars](https://img.shields.io/github/stars/luoyunan/DTINet) ![GitHub last commit](https://img.shields.io/github/last-commit/luoyunan/DTINet)](https://github.com/luoyunan/DTINet) — Network-based framework integrating heterogeneous biological data for DTI prediction.
 - [DeepDTA ![GitHub Repo Stars](https://img.shields.io/github/stars/hkmztrk/DeepDTA) ![GitHub last commit](https://img.shields.io/github/last-commit/hkmztrk/DeepDTA)](https://github.com/hkmztrk/DeepDTA) — Deep learning model using CNNs on protein sequences and drug SMILES.
 - [GraphDTA ![GitHub Repo Stars](https://img.shields.io/github/stars/thinng/GraphDTA) ![GitHub last commit](https://img.shields.io/github/last-commit/thinng/GraphDTA)](https://github.com/thinng/GraphDTA) — Graph neural network–based DTI prediction using molecular graphs.
 - [MolTrans ![GitHub Repo Stars](https://img.shields.io/github/stars/kexinhuang12345/MolTrans) ![GitHub last commit](https://img.shields.io/github/last-commit/kexinhuang12345/MolTrans)](https://github.com/kexinhuang12345/MolTrans) — Transformer-based DTI model leveraging molecular substructures.
@@ -370,6 +371,10 @@ Browse and search the resources via the [GitHub Pages UI](https://inoue0426.gith
 - [DiffSBDD ![GitHub Repo Stars](https://img.shields.io/github/stars/arneschneuing/DiffSBDD) ![GitHub last commit](https://img.shields.io/github/last-commit/arneschneuing/DiffSBDD)](https://github.com/arneschneuing/DiffSBDD) — Equivariant diffusion model for structure-based drug design that generates molecules and binding conformations for protein targets.
 - [ReLeaSE ![GitHub Repo Stars](https://img.shields.io/github/stars/isayev/ReLeaSE) ![GitHub last commit](https://img.shields.io/github/last-commit/isayev/ReLeaSE)](https://github.com/isayev/ReLeaSE) — Deep reinforcement learning framework for de novo drug design combining a generative and predictive model.
 - [PaccMannRL ![GitHub Repo Stars](https://img.shields.io/github/stars/PaccMann/paccmann_generator) ![GitHub last commit](https://img.shields.io/github/last-commit/PaccMann/paccmann_generator)](https://github.com/PaccMann/paccmann_generator) — Reinforcement learning-based generative model for de novo hit-like anticancer molecule design from transcriptomic data.
+
+### Protein Property Prediction
+
+- [NbBayesLM ![GitHub Repo Stars](https://img.shields.io/github/stars/FairuzShadmaniShishir/NbBayesLM) ![GitHub last commit](https://img.shields.io/github/last-commit/FairuzShadmaniShishir/NbBayesLM)](https://github.com/FairuzShadmaniShishir/NbBayesLM) — Bayesian neural network integrating protein language model embeddings and physicochemical features to predict nanobody thermostability with uncertainty estimates. [Paper](https://www.frontiersin.org/journals/bioinformatics/articles/10.3389/fbinf.2026.1832968/full)
 
 ### LLM for Biology
 
@@ -427,7 +432,7 @@ Browse and search the resources via the [GitHub Pages UI](https://inoue0426.gith
 - [GeneCompass ![GitHub Repo Stars](https://img.shields.io/github/stars/xCompass-AI/GeneCompass) ![GitHub last commit](https://img.shields.io/github/last-commit/xCompass-AI/GeneCompass)](https://github.com/xCompass-AI/GeneCompass) — Large-scale foundation model integrating DNA regulatory sequences and single-cell transcriptomics from 120M+ cells across multiple species for gene regulation prediction.
 - [UnitedNet ![GitHub Repo Stars](https://img.shields.io/github/stars/LiuLab-Bioelectronics-Harvard/UnitedNet) ![GitHub last commit](https://img.shields.io/github/last-commit/LiuLab-Bioelectronics-Harvard/UnitedNet)](https://github.com/LiuLab-Bioelectronics-Harvard/UnitedNet) — Interpretable multi-task deep neural network for single-cell multi-omics integration spanning transcriptomics, chromatin accessibility, and proteomics.
 - [SpatialGlue ![GitHub Repo Stars](https://img.shields.io/github/stars/zhanglabtools/SpatialGlue) ![GitHub last commit](https://img.shields.io/github/last-commit/zhanglabtools/SpatialGlue)](https://github.com/zhanglabtools/SpatialGlue) — Graph attention network for spatial multi-omics integration jointly embedding spatial transcriptomics with chromatin accessibility or proteomics.
-- [MIDAS ![GitHub Repo Stars](https://img.shields.io/github/stars/labomics/midas) ![GitHub last commit](https://img.shields.io/github/last-commit/labomics/midas)](https://github.com/labomics/midas) — Mosaic integration and differential accessibility model for single-cell multi-omics data that handles arbitrary missing-modality combinations across transcriptomics, chromatin accessibility, and proteomics.
+- [MIDAS ![GitHub Repo Stars](https://img.shields.io/github/stars/labomics/midas) ![GitHub last commit](https://img.shields.io/github/last-commit/labomics/midas)](https://github.com/labomics/midas) — Mosaic integration and differential accessibility model for single-cell multi-omics that handles arbitrary missing-modality combinations across transcriptomics, chromatin accessibility, and proteomics.
 - [Concerto ![GitHub Repo Stars](https://img.shields.io/github/stars/melobio/Concerto-reproducibility) ![GitHub last commit](https://img.shields.io/github/last-commit/melobio/Concerto-reproducibility)](https://github.com/melobio/Concerto-reproducibility) — Contrastive self-supervised learning framework for single-cell multimodal data integration, batch correction, and reference-query mapping.
 - [scButterfly ![GitHub Repo Stars](https://img.shields.io/github/stars/BioX-NKU/scButterfly) ![GitHub last commit](https://img.shields.io/github/last-commit/BioX-NKU/scButterfly)](https://github.com/BioX-NKU/scButterfly) — Dual-aligned variational autoencoder for single-cell cross-modality translation between paired and unpaired multiomics data.
 - [JAMIE ![GitHub Repo Stars](https://img.shields.io/github/stars/Oafish1/JAMIE) ![GitHub last commit](https://img.shields.io/github/last-commit/Oafish1/JAMIE)](https://github.com/Oafish1/JAMIE) — Joint variational autoencoder for multimodal single-cell data imputation and embedding.
@@ -509,6 +514,7 @@ If you use this list in papers, slides, or documentation, please cite this repos
 To keep quality high, additions should meet all of the following:
 
 - The resource is trustworthy and relevant to computational biology.
+- The resource has clear value to the scope and audience of this collection; highly specialized resources with limited relevance beyond a narrow application context may be declined even when technically sound.
 - The primary link points to an official source (official docs, organization site, maintained repository, or official dataset page).
 - The resource has evidence of technical substance: ideally a peer-reviewed paper; at minimum a preprint or official technical documentation.
 - The description is factual and concise (no marketing copy).
