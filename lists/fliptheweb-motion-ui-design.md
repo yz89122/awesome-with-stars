@@ -147,7 +147,7 @@ And, of course, your secret weapon — pen and paper!
 	* [How to Manipulate and Animate SVG With Snap.svg](http://webdesign.tutsplus.com/articles/how-to-manipulate-and-animate-svg-with-snapsvg--cms-21323)
 * [BonsaiJS](https://bonsaijs.org/) – Lightweight graphics library with intuitive graphics API and SVG renderer.
 * [Vivus.js](http://maxwellito.github.io/vivus/) – Allows you to animate SVGs, giving them the appearance of being drawn.
-* [Walkway.js](http://connoratherton.com/walkway) – Easy way to animate SVG images consisting of line, path, and polyline elements.
+* [Walkway.js](http://connoratherton.com/walkway) ��� Easy way to animate SVG images consisting of line, path, and polyline elements.
 * [Transformicons](http://www.transformicons.com/) – Animated icons, symbols and buttons using SVG and CSS.
 
 ## Web animation performance
