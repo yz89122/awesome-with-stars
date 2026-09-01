@@ -696,7 +696,7 @@ Userscripts can be used w/ the following browsers:
     <blockquote>
         💾 <a href="https://codeberg.org/adamlui/autoclear-chatgpt-history/raw/branch/main/greasemonkey/autoclear-chatgpt-history.user.js">
             Install</a> /
-        📖 <a href="https://codeberg.org/adamlui/autoclear-chatgpt-history/#readme">
+        �� <a href="https://codeberg.org/adamlui/autoclear-chatgpt-history/#readme">
             Readme</a> /
         🐛 <a href="https://codeberg.org/adamlui/autoclear-chatgpt-history/issues">
             Report bug</a>

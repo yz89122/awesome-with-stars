@@ -503,6 +503,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [gtree ![GitHub Repo Stars](https://img.shields.io/github/stars/ddddddO/gtree) ![GitHub last commit](https://img.shields.io/github/last-commit/ddddddO/gtree)](https://github.com/ddddddO/gtree) - Use markdown to generate directory trees and the directories itself.
 - [Jimmy ![GitHub Repo Stars](https://img.shields.io/github/stars/marph91/jimmy) ![GitHub last commit](https://img.shields.io/github/last-commit/marph91/jimmy)](https://github.com/marph91/jimmy) - Convert various note formats to markdown.
 - [mq ![GitHub Repo Stars](https://img.shields.io/github/stars/harehare/mq) ![GitHub last commit](https://img.shields.io/github/last-commit/harehare/mq)](https://github.com/harehare/mq) - Jq-like markdown processor.
+- [mcat ![GitHub Repo Stars](https://img.shields.io/github/stars/Skardyy/mcat) ![GitHub last commit](https://img.shields.io/github/last-commit/Skardyy/mcat)](https://github.com/Skardyy/mcat) - Markdown, images, video, and document viewer.
 
 ### Security
 

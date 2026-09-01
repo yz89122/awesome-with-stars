@@ -89,6 +89,10 @@ Tip: An overview of the most used KDE community apps are listed on the [official
 - [Sweeper](https://apps.kde.org/sweeper/) - Sweeper helps to clean unwanted traces the user leaves on the system and to regain disk space removing unused temporary files 📌.
 - [Yakuake](https://apps.kde.org/yakuake/) - A drop-down terminal emulator based on KDE's Konsole technology 📌.
 
+### Accessibility
+
+- [Blitztext Linux ![GitHub Repo Stars](https://img.shields.io/github/stars/TimInTech/blitztext-linux) ![GitHub last commit](https://img.shields.io/github/last-commit/TimInTech/blitztext-linux)](https://github.com/TimInTech/blitztext-linux) - Hotkey-driven voice dictation tray app for KDE Plasma/Wayland: hold a key, speak, and the local Whisper transcript is pasted into the active app. Optional LLM text workflows.
+
 ### Utilities & Tools
 
 - [Android File Transfer](https://whoozle.github.io/android-file-transfer-linux/) - Reliable MTP client with minimalistic UI.
@@ -114,7 +118,7 @@ Tip: An overview of the most used KDE community apps are listed on the [official
 - [Kompare](https://apps.kde.org/kompare/) - A diff/patch frontend 📌.
 - [Okteta](https://apps.kde.org/okteta/) - Hex Editor 📌.
 - [Qt Designer](http://doc.qt.io/qt-5/qtdesigner-manual.html) - Qt tool for designing and building graphical user interfaces (GUIs) with Qt Widgets.
-- [Umbrello](https://apps.kde.org/umbrello/) - UML Modeller is a Unified Modelling Language (UML) diagram program based on KDE Technology 📌.
+- [Umbrello](https://apps.kde.org/umbrello/) - UML Modeller is a Unified Modelling Language (UML) diagram program based on KDE Technology ���.
 
 ### Education
 
@@ -139,6 +143,11 @@ Note: Customizations quickly become outdated, it is recommended to look in the [
 - [KDoit ![GitHub Repo Stars](https://img.shields.io/github/stars/lubdhak7414/KDoit) ![GitHub last commit](https://img.shields.io/github/last-commit/lubdhak7414/KDoit)](https://github.com/lubdhak7414/KDoit) - Lightweight to-do list plasmoid for KDE Plasma 6 with nested sublists, priorities, due dates, and UUID-based file sync.
 - [Latte-Dock](https://invent.kde.org/plasma/latte-dock) - Latte is a dock based on Plasma frameworks that provides an elegant and intuitive experience for your tasks and plasmoids for **Plasma 5** 📌. ⚠️ Unmaintained.
 - [Latte Dock NG ![GitHub Repo Stars](https://img.shields.io/github/stars/ruizhi-lab/latte-dock-ng) ![GitHub last commit](https://img.shields.io/github/last-commit/ruizhi-lab/latte-dock-ng)](https://github.com/ruizhi-lab/latte-dock-ng) is a Wayland-first dock for KDE Plasma 6.5+ that provides an elegant and intuitive experience for your tasks and widgets.
+- [EZMonitor ![GitHub Repo Stars](https://img.shields.io/github/stars/Agundur-KDE/EZMonitor) ![GitHub last commit](https://img.shields.io/github/last-commit/Agundur-KDE/EZMonitor)](https://github.com/Agundur-KDE/EZMonitor) - A Plasma 6 widget that shows the live power output of an APsystems EZ1 microinverter.
+- [KClaude ![GitHub Repo Stars](https://img.shields.io/github/stars/Agundur-KDE/KClaude) ![GitHub last commit](https://img.shields.io/github/last-commit/Agundur-KDE/KClaude)](https://github.com/Agundur-KDE/KClaude) - A Plasma 6 widget to remember Claude Code sessions and resume them in the right directory with one click.
+- [kfritz ![GitHub Repo Stars](https://img.shields.io/github/stars/Agundur-KDE/kfritz) ![GitHub last commit](https://img.shields.io/github/last-commit/Agundur-KDE/kfritz)](https://github.com/Agundur-KDE/kfritz) - A Plasma 6 callmonitor widget for the AVM FRITZ!Box.
+- [KPictureFrame ![GitHub Repo Stars](https://img.shields.io/github/stars/Agundur-KDE/KPictureFrame) ![GitHub last commit](https://img.shields.io/github/last-commit/Agundur-KDE/KPictureFrame)](https://github.com/Agundur-KDE/KPictureFrame) - A Plasma 6 widget that turns your desktop into a picture frame.
+- [OSBMonitor ![GitHub Repo Stars](https://img.shields.io/github/stars/Agundur-KDE/OSBMonitor) ![GitHub last commit](https://img.shields.io/github/last-commit/Agundur-KDE/OSBMonitor)](https://github.com/Agundur-KDE/OSBMonitor) - A Plasma 6 widget that monitors the build status of your Open Build Service projects and packages.
   
 #### KCM Modules and Systems
 
