@@ -51,6 +51,7 @@ GeoJSON utilities that will make your life easier.
 * [point_ed](https://zverik.github.io/point_ed/): click on map to add points, download those as GeoJSON file
 * [geojson.io-for-vscode](https://marketplace.visualstudio.com/items?itemName=swallow.geojson-io-for-vscode): create, edit, and preview GeoJSON data in VSCode, just like [geojson.io](http://geojson.io/)
 * [Vector Tile Lab ![GitHub Repo Stars](https://img.shields.io/github/stars/spider-hand/vector-tile-lab) ![GitHub last commit](https://img.shields.io/github/last-commit/spider-hand/vector-tile-lab)](https://github.com/spider-hand/vector-tile-lab): An interactive sandbox to tune vector tiles
+* [MapDraw](https://www.mapdraw.net/): web-based editor, imports & exports GeoJSON, GPX & KML, routing & elevation profiles, sharing via URL
 
 ### validation
 
@@ -61,6 +62,7 @@ GeoJSON utilities that will make your life easier.
 * [Jest-GeoJSON ![GitHub Repo Stars](https://img.shields.io/github/stars/M-Scott-Lassiter/jest-geojson) ![GitHub last commit](https://img.shields.io/github/last-commit/M-Scott-Lassiter/jest-geojson)](https://github.com/M-Scott-Lassiter/jest-geojson): an extended set of matcher functions for the Jest Javascript unit testing framework tailored to evaluating GeoJSON data
 * [antimeridian ![GitHub Repo Stars](https://img.shields.io/github/stars/gadomski/antimeridian) ![GitHub last commit](https://img.shields.io/github/last-commit/gadomski/antimeridian)](https://github.com/gadomski/antimeridian): Fix GeoJSON polygons that cross the antimeridian (Python package)
 * [geojson-pydantic ![GitHub Repo Stars](https://img.shields.io/github/stars/developmentseed/geojson-pydantic) ![GitHub last commit](https://img.shields.io/github/last-commit/developmentseed/geojson-pydantic)](https://github.com/developmentseed/geojson-pydantic): [Pydantic](https://docs.pydantic.dev/latest/) models for GeoJSON
+* [eudr-geojson-fixtures ![GitHub Repo Stars](https://img.shields.io/github/stars/vancebw/eudr-geojson-fixtures) ![GitHub last commit](https://img.shields.io/github/last-commit/vancebw/eudr-geojson-fixtures)](https://github.com/vancebw/eudr-geojson-fixtures): test fixtures for EUDR geolocation data: valid plot examples plus common failure modes like axis swaps and self-intersecting rings
 
 ### services
 
