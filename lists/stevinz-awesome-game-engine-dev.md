@@ -999,7 +999,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [PreloadJS ![GitHub Repo Stars](https://img.shields.io/github/stars/CreateJS/PreloadJS) ![GitHub last commit](https://img.shields.io/github/last-commit/CreateJS/PreloadJS)](https://github.com/CreateJS/PreloadJS) - Preloading assets w/progress events.
     - 🎉 [Struct Vec ![GitHub Repo Stars](https://img.shields.io/github/stars/moomoolive/struct-vec) ![GitHub last commit](https://img.shields.io/github/last-commit/moomoolive/struct-vec)](https://github.com/moomoolive/struct-vec) - JavaScript array-like containers for multithreading.
 - JavaScript: Timeline
-    - 🎉 [Frame.js ![GitHub Repo Stars](https://img.shields.io/github/stars/mrdoob/frame.js) ![GitHub last commit](https://img.shields.io/github/last-commit/mrdoob/frame.js)](https://github.com/mrdoob/frame.js/) - JavaScript sequence editor.
+    - ��� [Frame.js ![GitHub Repo Stars](https://img.shields.io/github/stars/mrdoob/frame.js) ![GitHub last commit](https://img.shields.io/github/last-commit/mrdoob/frame.js)](https://github.com/mrdoob/frame.js/) - JavaScript sequence editor.
     - 🎉 [Neo ![GitHub Repo Stars](https://img.shields.io/github/stars/lo-th/neo) ![GitHub last commit](https://img.shields.io/github/last-commit/lo-th/neo)](https://github.com/lo-th/neo) - Timeline for JavaScript. [[Demo](http://lo-th.github.io/neo/)]
 - JavaScript: Video
     - 💸 [Remotion ![GitHub Repo Stars](https://img.shields.io/github/stars/remotion-dev/remotion) ![GitHub last commit](https://img.shields.io/github/last-commit/remotion-dev/remotion)](https://github.com/remotion-dev/remotion) - Create videos programmatically in React. [[Website](https://www.remotion.dev/)]
