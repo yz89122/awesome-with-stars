@@ -66,6 +66,7 @@
 - [Playwright-performance](https://www.npmjs.com/package/playwright-performance) - Plugin for measuring and analyzing performance of tested flows using Playwright.
 - [playwright-python-language-injection ![GitHub Repo Stars](https://img.shields.io/github/stars/Mattwmaster58/playwright-python-language-injection) ![GitHub last commit](https://img.shields.io/github/last-commit/Mattwmaster58/playwright-python-language-injection)](https://github.com/Mattwmaster58/playwright-python-language-injection) - Language injection definitions for CSS/JS syntax highlighting when using `python-playwright` in PyCharm.
 - [playwright-skill ![GitHub Repo Stars](https://img.shields.io/github/stars/testdino-hq/playwright-skill) ![GitHub last commit](https://img.shields.io/github/last-commit/testdino-hq/playwright-skill)](https://github.com/testdino-hq/playwright-skill) - 70+ production-tested Playwright skills for coding agents covering best practices, POM patterns, CI/CD, and migration paths.
+- [playwright-soak-test ![GitHub Repo Stars](https://img.shields.io/github/stars/denodell/playwright-soak-test) ![GitHub last commit](https://img.shields.io/github/last-commit/denodell/playwright-soak-test)](https://github.com/denodell/playwright-soak-test) - Catches memory leaks by repeating a user flow in one browser session and tracking DOM node and listener counts.
 - [playwright-test-coverage ![GitHub Repo Stars](https://img.shields.io/github/stars/anishkny/playwright-test-coverage) ![GitHub last commit](https://img.shields.io/github/last-commit/anishkny/playwright-test-coverage)](https://github.com/anishkny/playwright-test-coverage) - Plugin to collect code coverage from running Playwright tests.
 - [Playwright Test for VSCode](https://marketplace.visualstudio.com/items?itemName=ms-playwright.playwright) - Official Playwright test extension for VS Code.
 - [playwright-ui5 ![GitHub Repo Stars](https://img.shields.io/github/stars/detachhead/playwright-ui5) ![GitHub last commit](https://img.shields.io/github/last-commit/detachhead/playwright-ui5)](https://github.com/detachhead/playwright-ui5) - Custom selector engine for sapui5.
@@ -77,6 +78,7 @@
 
 ## Scraping & Automation
 
+- [AntiBrow ![GitHub Repo Stars](https://img.shields.io/github/stars/antibrow/antibrow) ![GitHub last commit](https://img.shields.io/github/last-commit/antibrow/antibrow)](https://github.com/antibrow/antibrow) - Patched Chromium that returns a standard Playwright BrowserContext over CDP, with fingerprints applied in the C++ layer instead of injected scripts. MIT SDKs for Python and JavaScript, plus an MCP server mode.
 - [Browserless ![GitHub Repo Stars](https://img.shields.io/github/stars/browserless/browserless) ![GitHub last commit](https://img.shields.io/github/last-commit/browserless/browserless)](https://github.com/browserless/browserless) - Connects Playwright to remote managed browsers over WebSocket, with stealth and CAPTCHA handling.
 - [browsers-benchmark ![GitHub Repo Stars](https://img.shields.io/github/stars/techinz/browsers-benchmark) ![GitHub last commit](https://img.shields.io/github/last-commit/techinz/browsers-benchmark)](https://github.com/techinz/browsers-benchmark) - Benchmark tool for testing browser automation engines against bot detection systems (Cloudflare, DataDome, reCAPTCHA, Akamai, PerimeterX, Kasada, ...).
 - [camofox-browser ![GitHub Repo Stars](https://img.shields.io/github/stars/jo-inc/camofox-browser) ![GitHub last commit](https://img.shields.io/github/last-commit/jo-inc/camofox-browser)](https://github.com/jo-inc/camofox-browser) - Stealth headless browser server usable as a Playwright-compatible automation backend, with anti-detection built in.
@@ -90,6 +92,7 @@
 
 - [Playwright Agent CLI](https://playwright.dev/agent-cli/introduction) - Official command-line interface for browser automation designed for coding agents, with token-efficient commands and installable skills.
 - [Playwright MCP ![GitHub Repo Stars](https://img.shields.io/github/stars/microsoft/playwright-mcp) ![GitHub last commit](https://img.shields.io/github/last-commit/microsoft/playwright-mcp)](https://github.com/microsoft/playwright-mcp) - Official Model Context Protocol server that gives LLMs browser automation via Playwright accessibility snapshots.
+- [Webcmd ![GitHub Repo Stars](https://img.shields.io/github/stars/agentrhq/webcmd) ![GitHub last commit](https://img.shields.io/github/last-commit/agentrhq/webcmd)](https://github.com/agentrhq/webcmd) - CLI built on Playwright that learns a site's navigation once and compiles it into deterministic per-site commands for coding agents.
 
 ## Reporters
 
