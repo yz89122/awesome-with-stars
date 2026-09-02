@@ -1999,7 +1999,7 @@ _Everything related to the creation and handling of random data._
 
 > **[Instancio ![GitHub Repo Stars](https://img.shields.io/github/stars/instancio/instancio) ![GitHub last commit](https://img.shields.io/github/last-commit/instancio/instancio)](https://github.com/instancio/instancio)** <kbd>★ 1.2k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Automates data setup in unit tests by generating fully-populated, reproducible objects. Includes JUnit 5 extension.
 
-> **[jFairy ![GitHub Repo Stars](https://img.shields.io/github/stars/SkillPanel/jfairy) ![GitHub last commit](https://img.shields.io/github/last-commit/SkillPanel/jfairy)](https://github.com/SkillPanel/jfairy)** <kbd>★ 742</kbd> <kbd>Apache-2.0</kbd> ��<br>Fake data generator.
+> **[jFairy ![GitHub Repo Stars](https://img.shields.io/github/stars/SkillPanel/jfairy) ![GitHub last commit](https://img.shields.io/github/last-commit/SkillPanel/jfairy)](https://github.com/SkillPanel/jfairy)** <kbd>★ 742</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Fake data generator.
 
 > **[JMock ![GitHub Repo Stars](https://img.shields.io/github/stars/xcancloud/JMock) ![GitHub last commit](https://img.shields.io/github/last-commit/xcancloud/JMock)](https://github.com/xcancloud/JMock)** <kbd>★ 206</kbd> <kbd>Apache-2.0</kbd> 🟢<br>JMock is a high-performance data generation and simulation component library implemented in Java.
 
