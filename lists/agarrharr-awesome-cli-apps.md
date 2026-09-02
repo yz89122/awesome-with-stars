@@ -532,6 +532,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [wego ![GitHub Repo Stars](https://img.shields.io/github/stars/schachmat/wego) ![GitHub last commit](https://img.shields.io/github/last-commit/schachmat/wego)](https://github.com/schachmat/wego)
 - [weather-cli ![GitHub Repo Stars](https://img.shields.io/github/stars/riyadhalnur/weather-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/riyadhalnur/weather-cli)](https://github.com/riyadhalnur/weather-cli)
 - [weathr ![GitHub Repo Stars](https://img.shields.io/github/stars/veirt/weathr) ![GitHub last commit](https://img.shields.io/github/last-commit/veirt/weathr)](https://github.com/veirt/weathr) - ASCII animations.
+- [linecast ![GitHub Repo Stars](https://img.shields.io/github/stars/ashuttl/linecast) ![GitHub last commit](https://img.shields.io/github/last-commit/ashuttl/linecast)](https://github.com/ashuttl/linecast) - Weather, tides, sun, moon, and maps.
 
 ### Browser Replacement
 
@@ -854,6 +855,7 @@ Inclusion criteria are less strict for this fast-moving field.
 - [agentty ![GitHub Repo Stars](https://img.shields.io/github/stars/1ay1/agentty) ![GitHub last commit](https://img.shields.io/github/last-commit/1ay1/agentty)](https://github.com/1ay1/agentty) - C++ agent TUI.
 - [bosun ![GitHub Repo Stars](https://img.shields.io/github/stars/yetidevworks/bosun) ![GitHub last commit](https://img.shields.io/github/last-commit/yetidevworks/bosun)](https://github.com/yetidevworks/bosun) - Agent session manager built on tmux.
 - [Keen Code ![GitHub Repo Stars](https://img.shields.io/github/stars/mochow13/keen-code) ![GitHub last commit](https://img.shields.io/github/last-commit/mochow13/keen-code)](https://github.com/mochow13/keen-code) - Context-aware coding agent written in Go.
+- [AgentBridge ![GitHub Repo Stars](https://img.shields.io/github/stars/raysonmeng/agent-bridge) ![GitHub last commit](https://img.shields.io/github/last-commit/raysonmeng/agent-bridge)](https://github.com/raysonmeng/agent-bridge) - Local bridge for bidirectional communication between Claude Code and Codex.
 
 ### LLM Interaction
 
