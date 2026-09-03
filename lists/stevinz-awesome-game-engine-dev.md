@@ -402,7 +402,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Amplitude Audio SDK ![GitHub Repo Stars](https://img.shields.io/github/stars/SparkyStudios/AmplitudeAudioSDK) ![GitHub last commit](https://img.shields.io/github/last-commit/SparkyStudios/AmplitudeAudioSDK)](https://github.com/SparkyStudios/AmplitudeAudioSDK) - Cross-platform audio engine designed for the needs of games.
     - 💰 [irrKlang](https://www.ambiera.com/irrklang/) - High level 2D/3D sound engine and audio library.
     - 💰 [Juce ![GitHub Repo Stars](https://img.shields.io/github/stars/juce-framework/JUCE) ![GitHub last commit](https://img.shields.io/github/last-commit/juce-framework/JUCE)](https://github.com/juce-framework/JUCE) - The leading framework for multi-platform audio apps.
-    - ��� [OpenAL Soft ![GitHub Repo Stars](https://img.shields.io/github/stars/kcat/openal-soft) ![GitHub last commit](https://img.shields.io/github/last-commit/kcat/openal-soft)](https://github.com/kcat/openal-soft) - Software implementation of the _OpenAL_ 3D audio API.
+    - 🔒 [OpenAL Soft ![GitHub Repo Stars](https://img.shields.io/github/stars/kcat/openal-soft) ![GitHub last commit](https://img.shields.io/github/last-commit/kcat/openal-soft)](https://github.com/kcat/openal-soft) - Software implementation of the _OpenAL_ 3D audio API.
     - 🎉 [PortAudio ![GitHub Repo Stars](https://img.shields.io/github/stars/PortAudio/portaudio) ![GitHub last commit](https://img.shields.io/github/last-commit/PortAudio/portaudio)](https://github.com/PortAudio/portaudio) - Cross-platform audio library.
     - 🎉 [Steam Audio ![GitHub Repo Stars](https://img.shields.io/github/stars/ValveSoftware/steam-audio) ![GitHub last commit](https://img.shields.io/github/last-commit/ValveSoftware/steam-audio)](https://github.com/ValveSoftware/steam-audio) - Cross-platform spatial audio SDK for games and VR.
 - C++: Cross-Platform
@@ -542,7 +542,7 @@ _Language specific game engine development libraries / frameworks / code._
 - C++: Libraries
     - 🎉 [Boost Libraries](https://github.com/boostorg) - Wide range of C++ libraries, many end up as part of the STL. [[Website](https://www.boost.org)]
     - 🎉 [cyCodeBase ![GitHub Repo Stars](https://img.shields.io/github/stars/cemyuksel/cyCodeBase) ![GitHub last commit](https://img.shields.io/github/last-commit/cemyuksel/cyCodeBase)](https://github.com/cemyuksel/cyCodeBase) - Compact foundation library with math, geometry, image & graphics utilities.
-    - 📚 [Gamedev Libraries ![GitHub Repo Stars](https://img.shields.io/github/stars/raizam/gamedev_libraries) ![GitHub last commit](https://img.shields.io/github/last-commit/raizam/gamedev_libraries)](https://github.com/raizam/gamedev_libraries) - Collection of open source C/C++ libraries for game development.
+    - �� [Gamedev Libraries ![GitHub Repo Stars](https://img.shields.io/github/stars/raizam/gamedev_libraries) ![GitHub last commit](https://img.shields.io/github/last-commit/raizam/gamedev_libraries)](https://github.com/raizam/gamedev_libraries) - Collection of open source C/C++ libraries for game development.
     - 📚 [Inqlude](https://inqlude.org) - List of libraries for developers of _Qt_-based apps.
     - 📚 [List of Open Source C++ Libraries](https://en.cppreference.com/w/cpp/links/libs) - Comprehensive list of open source C++ libraries.
     - 📚 [NVIDIA GameWorks](https://github.com/NVIDIAGameWorks) - _NVIDIA_ technologies for game & app developers.
@@ -999,7 +999,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [PreloadJS ![GitHub Repo Stars](https://img.shields.io/github/stars/CreateJS/PreloadJS) ![GitHub last commit](https://img.shields.io/github/last-commit/CreateJS/PreloadJS)](https://github.com/CreateJS/PreloadJS) - Preloading assets w/progress events.
     - 🎉 [Struct Vec ![GitHub Repo Stars](https://img.shields.io/github/stars/moomoolive/struct-vec) ![GitHub last commit](https://img.shields.io/github/last-commit/moomoolive/struct-vec)](https://github.com/moomoolive/struct-vec) - JavaScript array-like containers for multithreading.
 - JavaScript: Timeline
-    - 🎉 [Frame.js ![GitHub Repo Stars](https://img.shields.io/github/stars/mrdoob/frame.js) ![GitHub last commit](https://img.shields.io/github/last-commit/mrdoob/frame.js)](https://github.com/mrdoob/frame.js/) - JavaScript sequence editor.
+    - ���� [Frame.js ![GitHub Repo Stars](https://img.shields.io/github/stars/mrdoob/frame.js) ![GitHub last commit](https://img.shields.io/github/last-commit/mrdoob/frame.js)](https://github.com/mrdoob/frame.js/) - JavaScript sequence editor.
     - 🎉 [Neo ![GitHub Repo Stars](https://img.shields.io/github/stars/lo-th/neo) ![GitHub last commit](https://img.shields.io/github/last-commit/lo-th/neo)](https://github.com/lo-th/neo) - Timeline for JavaScript. [[Demo](http://lo-th.github.io/neo/)]
 - JavaScript: Video
     - 💸 [Remotion ![GitHub Repo Stars](https://img.shields.io/github/stars/remotion-dev/remotion) ![GitHub last commit](https://img.shields.io/github/last-commit/remotion-dev/remotion)](https://github.com/remotion-dev/remotion) - Create videos programmatically in React. [[Website](https://www.remotion.dev/)]
