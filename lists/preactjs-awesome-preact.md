@@ -158,7 +158,7 @@
 - [Code and Comment ![GitHub Repo Stars](https://img.shields.io/github/stars/code-and-comment/code-and-comment) ![GitHub last commit](https://img.shields.io/github/last-commit/code-and-comment/code-and-comment)](https://github.com/code-and-comment/code-and-comment) - The application to add the comments to a file in Github ([demo](https://code-and-comment.github.io/code-and-comment/)).
 - [Play.cash](https://play.cash) :notes: _([GitHub Project ![GitHub Repo Stars](https://img.shields.io/github/stars/feross/play.cash) ![GitHub last commit](https://img.shields.io/github/last-commit/feross/play.cash)](https://github.com/feross/play.cash))_
 - [Songsterr](https://www.songsterr.com) 🎼 Using Preact X in production since 10.0 alpha
-- [BitMidi](https://bitmidi.com/) ��� Wayback machine for free MIDI files _([GitHub Project ![GitHub Repo Stars](https://img.shields.io/github/stars/feross/bitmidi.com) ![GitHub last commit](https://img.shields.io/github/last-commit/feross/bitmidi.com)](https://github.com/feross/bitmidi.com))_
+- [BitMidi](https://bitmidi.com/) 🎹 Wayback machine for free MIDI files _([GitHub Project ![GitHub Repo Stars](https://img.shields.io/github/stars/feross/bitmidi.com) ![GitHub last commit](https://img.shields.io/github/last-commit/feross/bitmidi.com)](https://github.com/feross/bitmidi.com))_
 - [Ultimate Guitar](https://www.ultimate-guitar.com) 🎸speed boosted by Preact.
 - [ESBench](http://esbench.com) is built using Preact.
 - [BigWebQuiz](https://bigwebquiz.com) _([GitHub Project ![GitHub Repo Stars](https://img.shields.io/github/stars/jakearchibald/big-web-quiz) ![GitHub last commit](https://img.shields.io/github/last-commit/jakearchibald/big-web-quiz)](https://github.com/jakearchibald/big-web-quiz))_

@@ -78,6 +78,7 @@ A collection of awesome things regarding the React ecosystem.
 - [8bitcn-ui ![GitHub Repo Stars](https://img.shields.io/github/stars/TheOrcDev/8bitcn-ui) ![GitHub last commit](https://img.shields.io/github/last-commit/TheOrcDev/8bitcn-ui)](https://github.com/TheOrcDev/8bitcn-ui) - A retro 8-bit themed React component library built on top of shadcn
 - [headlessui ![GitHub Repo Stars](https://img.shields.io/github/stars/tailwindlabs/headlessui) ![GitHub last commit](https://img.shields.io/github/last-commit/tailwindlabs/headlessui)](https://github.com/tailwindlabs/headlessui) - Completely unstyled, accessible UI components for React
 - [ruixen-ui ![GitHub Repo Stars](https://img.shields.io/github/stars/ruixenui/ruixen.com) ![GitHub last commit](https://img.shields.io/github/last-commit/ruixenui/ruixen.com)](https://github.com/ruixenui/ruixen.com) - Modern, lightweight React component library with elegant design
+- [billingsdk ![GitHub Repo Stars](https://img.shields.io/github/stars/dodopayments/billingsdk) ![GitHub last commit](https://img.shields.io/github/last-commit/dodopayments/billingsdk)](https://github.com/dodopayments/billingsdk) - Type-safe billing and subscription components built with TypeScript, Tailwind CSS and shadcn/ui
 
 #### React State Management and Data Fetching
 
@@ -201,6 +202,7 @@ A collection of awesome things regarding the React ecosystem.
 - [react-pdf ![GitHub Repo Stars](https://img.shields.io/github/stars/diegomura/react-pdf) ![GitHub last commit](https://img.shields.io/github/last-commit/diegomura/react-pdf)](https://github.com/diegomura/react-pdf) - Create PDF files using React
 - [react-figma ![GitHub Repo Stars](https://img.shields.io/github/stars/react-figma/react-figma) ![GitHub last commit](https://img.shields.io/github/last-commit/react-figma/react-figma)](https://github.com/react-figma/react-figma) - A React renderer for Figma
 - [markdown-to-jsx ![GitHub Repo Stars](https://img.shields.io/github/stars/quantizor/markdown-to-jsx) ![GitHub last commit](https://img.shields.io/github/last-commit/quantizor/markdown-to-jsx)](https://github.com/quantizor/markdown-to-jsx) - A very fast and versatile markdown toolchain
+- [markstream ![GitHub Repo Stars](https://img.shields.io/github/stars/Simon-He95/markstream-vue) ![GitHub last commit](https://img.shields.io/github/last-commit/Simon-He95/markstream-vue)](https://github.com/Simon-He95/markstream-vue) - Streaming Markdown renderer for React and AI chat interfaces
 
 #### React Internationalization
 
@@ -232,6 +234,7 @@ A collection of awesome things regarding the React ecosystem.
 - [readest ![GitHub Repo Stars](https://img.shields.io/github/stars/readest/readest) ![GitHub last commit](https://img.shields.io/github/last-commit/readest/readest)](https://github.com/readest/readest) - A minimalistic, feature-rich and cross-platform eBook reader
 - [bookcars ![GitHub Repo Stars](https://img.shields.io/github/stars/aelassas/bookcars) ![GitHub last commit](https://img.shields.io/github/last-commit/aelassas/bookcars)](https://github.com/aelassas/bookcars) - Car rental platform
 - [notifuse ![GitHub Repo Stars](https://img.shields.io/github/stars/Notifuse/notifuse) ![GitHub last commit](https://img.shields.io/github/last-commit/Notifuse/notifuse)](https://github.com/Notifuse/notifuse) - Modern self-hosted emailing platform to send newsletters & transactional emails
+- [cate ![GitHub Repo Stars](https://img.shields.io/github/stars/0-AI-UG/cate) ![GitHub last commit](https://img.shields.io/github/last-commit/0-AI-UG/cate)](https://github.com/0-AI-UG/cate) - An open source IDE on an infinite zoomable canvas, with editor, terminal, and browser panels
 
 ### React Native
 
