@@ -28,7 +28,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 ### API Testing
 - [Bruno ![GitHub Repo Stars](https://img.shields.io/github/stars/usebruno/bruno) ![GitHub last commit](https://img.shields.io/github/last-commit/usebruno/bruno)](https://github.com/usebruno/bruno) - Open-source API client for exploring and testing APIs.
 - [API Status Check](https://apistatuscheck.com) - Real-time status monitoring dashboard for 188+ third-party APIs (OpenAI, Stripe, AWS, GitHub, etc.) with response time tracking and free alert tiers.
-- [Polarity](https://www.polarity.so) - The First AI QA Engineer that does full E2E, API, UI testing. Understands your entire codebase and ensures all relavent tests are conducted with our long running agent setup.
+- [Polarity](https://www.polarity.so) - The First AI QA Engineer that does full E2E, API, UI testing. Understands your entire codebase and ensures all relevant tests are conducted with our long running agent setup.
 - [BitDive](https://bitdive.io/) - Zero-code API testing platform for Java/Kotlin. Captures deep runtime context (HTTP, SQL, methods), auto-generates mocks from real traffic, and enables Live Context Replay for E2E testing and debugging.
 - [CORS Tester](https://cors-error.dev/cors-tester/) - A tool for developers and API testers to check if an API is CORS-enabled for a given domain and identify gaps.
 - [HttpMaster](https://www.httpmaster.net) - Professional software tool for HTTP testing and debugging.
@@ -42,13 +42,13 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Spiderhash](https://spiderhash.io/) - Webhook debugging and request inspection tool for testing callback payloads, headers, and delivery behavior.
 - [KushoAI](https://kusho.ai/) - AI-native platform for API contract testing, end-to-end testing, UI testing, and continuous security scanning, with self-healing tests that automatically adapt to code changes in CI/CD.
 - [postman2pytest ![GitHub Repo Stars](https://img.shields.io/github/stars/golikovichev/postman2pytest) ![GitHub last commit](https://img.shields.io/github/last-commit/golikovichev/postman2pytest)](https://github.com/golikovichev/postman2pytest) - Convert a Postman Collection v2.1 JSON file into a ready-to-run pytest test suite.
-- [funapi] (https://funapi.dev) - A free mock REST API service designed for practicing API testing, automation, and integration with realistic scenarios and endpoints.
+- [funapi](https://funapi.dev) - A free mock REST API service designed for practicing API testing, automation, and integration with realistic scenarios and endpoints.
 
 ### Security Testing
 - [BeEF](http://beefproject.com/) - Manipulate the browser by exploiting any XSS vulnerabilities you find.
 - [OWASP ZAP ![GitHub Repo Stars](https://img.shields.io/github/stars/zaproxy/zaproxy) ![GitHub last commit](https://img.shields.io/github/last-commit/zaproxy/zaproxy)](https://github.com/zaproxy/zaproxy) - Intercepting proxy for HTTP traffic manipulation, security scanning, and exploitation.
 - [BurpSuite](https://portswigger.net/burp/communitydownload) - Intercept API and Reply with changes in realtime with according api manipulations.
-- [Nuclei Scanner ![GitHub Repo Stars](https://img.shields.io/github/stars/projectdiscovery/nuclei) ![GitHub last commit](https://img.shields.io/github/last-commit/projectdiscovery/nuclei)](https://github.com/projectdiscovery/nuclei) - nuclie is automated scanner for common vulnerbilty finding on site.
+- [Nuclei Scanner ![GitHub Repo Stars](https://img.shields.io/github/stars/projectdiscovery/nuclei) ![GitHub last commit](https://img.shields.io/github/last-commit/projectdiscovery/nuclei)](https://github.com/projectdiscovery/nuclei) - nuclei is automated scanner for common vulnerability finding on site.
 
 ### AI & LLM Testing
 - [promptfoo ![GitHub Repo Stars](https://img.shields.io/github/stars/promptfoo/promptfoo) ![GitHub last commit](https://img.shields.io/github/last-commit/promptfoo/promptfoo)](https://github.com/promptfoo/promptfoo) - Open-source framework for testing and red teaming LLM applications. Compare prompts, test RAG architectures, run multi-turn adversarial attacks, and catch security vulnerabilities with CI/CD integration.
@@ -83,10 +83,10 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [SmartUI by TestMu AI (formerly LambdaTest)](https://www.testmuai.com/visual-testing-tool/)- AI-Native Visual Testing Tool for Flawless UIs across browsers, apps, websites, and PDFs.
 
 ### UI & End-to-End Testing
-- [Polarity](https://www.polarity.so) - Full visual and desktop environments showcasing complete E2E testsing for all UI/UX features. Generated you Playwrite, Cypress, and other code for you as the test runs.
+- [Polarity](https://www.polarity.so) - Full visual and desktop environments showcasing complete E2E testing for all UI/UX features. Generated you Playwright, Cypress, and other code for you as the test runs.
 - [BugBug](https://bugbug.io) - No-code test automation tool for web applications.
 - [Courgette](https://courgette-testing.com) - Declarative BDD UI testing with Gherkin.
-- [DevAssure](https://app.devassure.io) - Agentic testing for E2E web UI on real browsers. Agent can be added to Github Actions to test only the flows that have changed in a PR.
+- [DevAssure](https://app.devassure.io) - Agentic testing for E2E web UI on real browsers. Agent can be added to GitHub Actions to test only the flows that have changed in a PR.
 - [DeviceLab](https://devicelab.dev) - Private device lab infrastructure for mobile testing. Connect your own iOS/Android devices and run Appium, Maestro, or XCUITest remotely via WebRTC. Zero-trust architecture keeps test data on your network.
 - [Ferrum ![GitHub Repo Stars](https://img.shields.io/github/stars/rubycdp/ferrum) ![GitHub last commit](https://img.shields.io/github/last-commit/rubycdp/ferrum)](https://github.com/rubycdp/ferrum) - Chrome automation via CDP with a high-level Ruby API.
 - [flutter-skill ![GitHub Repo Stars](https://img.shields.io/github/stars/ai-dashboad/flutter-skill) ![GitHub last commit](https://img.shields.io/github/last-commit/ai-dashboad/flutter-skill)](https://github.com/ai-dashboad/flutter-skill) - AI-powered E2E testing via MCP for Flutter, React Native, iOS, Android, Electron, Tauri, KMP, and .NET MAUI. Zero test code.
@@ -166,7 +166,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Jumpstarter ![GitHub Repo Stars](https://img.shields.io/github/stars/jumpstarter-dev/jumpstarter) ![GitHub last commit](https://img.shields.io/github/last-commit/jumpstarter-dev/jumpstarter)](https://github.com/jumpstarter-dev/jumpstarter) - Open source hardware-in-the-loop testing framework for automated testing on real and virtual hardware with CI/CD integration.
 - [Robot Framework](https://robotframework.org/) - Generic open-source automation framework for testing and RPA.
 - [ai-natural-language-tests ![GitHub Repo Stars](https://img.shields.io/github/stars/aiqualitylab/ai-natural-language-tests) ![GitHub last commit](https://img.shields.io/github/last-commit/aiqualitylab/ai-natural-language-tests)](https://github.com/aiqualitylab/ai-natural-language-tests) - Generates Cypress and Playwright E2E tests from natural language requirements using LangGraph, ChromaDB, and multi-provider LLM support.
-- [OpenTester ![GitHub Repo Stars](https://img.shields.io/github/stars/kznr02/OpenTester) ![GitHub last commit](https://img.shields.io/github/last-commit/kznr02/OpenTester)](https://github.com/kznr02/OpenTester) - MCP-First Testing Framwork: AI Agents Can Now Test Like Humans
+- [OpenTester ![GitHub Repo Stars](https://img.shields.io/github/stars/kznr02/OpenTester) ![GitHub last commit](https://img.shields.io/github/last-commit/kznr02/OpenTester)](https://github.com/kznr02/OpenTester) - MCP-First Testing Framework: AI Agents Can Now Test Like Humans
 - [Selenium Boot](https://seleniumboot.com) - Java framework layered on Selenium WebDriver and TestNG. One Maven dependency and one YAML file replace the usual driver-lifecycle, wait, retry and reporting boilerplate, and the raw WebDriver stays accessible.
 - [optics-framework ![GitHub Repo Stars](https://img.shields.io/github/stars/mozarkai/optics-framework) ![GitHub last commit](https://img.shields.io/github/last-commit/mozarkai/optics-framework)](https://github.com/mozarkai/optics-framework) - Self-healing test automation for mobile, web and Smart TV. Keyword-driven CSV/YAML tests run on Appium, Selenium and Playwright; when a locator breaks it falls back across XPath, text, OCR and image strategies, with optional AI-powered self-healing.
 
