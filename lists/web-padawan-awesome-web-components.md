@@ -321,13 +321,11 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 - [Curvenote ![GitHub Repo Stars](https://img.shields.io/github/stars/curvenote/article) ![GitHub last commit](https://img.shields.io/github/last-commit/curvenote/article)](https://github.com/curvenote/article) - Web components for creating interactive scientific articles.
 - [DataFormsJS ![GitHub Repo Stars](https://img.shields.io/github/stars/dataformsjs/dataformsjs) ![GitHub last commit](https://img.shields.io/github/last-commit/dataformsjs/dataformsjs)](https://github.com/dataformsjs/dataformsjs) - Standalone Components for SPA routing, displaying data from web services, and more.
 - [Dile Components ![GitHub Repo Stars](https://img.shields.io/github/stars/Polydile/dile-components) ![GitHub last commit](https://img.shields.io/github/last-commit/Polydile/dile-components)](https://github.com/Polydile/dile-components) - General use Web Components for websites and applications.
-- [elements-sk ![GitHub Repo Stars](https://img.shields.io/github/stars/google/elements-sk) ![GitHub last commit](https://img.shields.io/github/last-commit/google/elements-sk)](https://github.com/google/elements-sk) - Collection of custom elements for "a la carte" web development.
 - [github-elements ![GitHub Repo Stars](https://img.shields.io/github/stars/github/github-elements) ![GitHub last commit](https://img.shields.io/github/last-commit/github/github-elements)](https://github.com/github/github-elements) - GitHub's Web Component collection.
 - [Elix ![GitHub Repo Stars](https://img.shields.io/github/stars/elix/elix) ![GitHub last commit](https://img.shields.io/github/last-commit/elix/elix)](https://github.com/elix/elix) - High-quality, customizable web components for common user interface patterns.
 - [Furo Webcomponents ![GitHub Repo Stars](https://img.shields.io/github/stars/eclipse/eclipsefuro-web) ![GitHub last commit](https://img.shields.io/github/last-commit/eclipse/eclipsefuro-web)](https://github.com/eclipse/eclipsefuro-web) - Enterprise ready set of web components which work best with Eclipse Furo.
 - [Fusion Web Components ![GitHub Repo Stars](https://img.shields.io/github/stars/equinor/fusion-web-components) ![GitHub last commit](https://img.shields.io/github/last-commit/equinor/fusion-web-components)](https://github.com/equinor/fusion-web-components) - Ser of web components used by Equinor Fusion.
 - [Ignite UI Web Components ![GitHub Repo Stars](https://img.shields.io/github/stars/IgniteUI/igniteui-webcomponents) ![GitHub last commit](https://img.shields.io/github/last-commit/IgniteUI/igniteui-webcomponents)](https://github.com/IgniteUI/igniteui-webcomponents) - Complete library of UI components from Infragistics.
-- [Immersive Custom Elements ![GitHub Repo Stars](https://img.shields.io/github/stars/MozillaReality/immersive-custom-elements) ![GitHub last commit](https://img.shields.io/github/last-commit/MozillaReality/immersive-custom-elements)](https://github.com/MozillaReality/immersive-custom-elements) - Set of web components for embedding immersive (VR & AR) content.
 - [Joomla UI custom elements ![GitHub Repo Stars](https://img.shields.io/github/stars/joomla-projects/custom-elements) ![GitHub last commit](https://img.shields.io/github/last-commit/joomla-projects/custom-elements)](https://github.com/joomla-projects/custom-elements) - Compilation of Joomla 4 Custom Elements.
 - [Ketch.UP ![GitHub Repo Stars](https://img.shields.io/github/stars/smeup/ketchup) ![GitHub last commit](https://img.shields.io/github/last-commit/smeup/ketchup)](https://github.com/smeup/ketchup) - Web components library for Sme.UP.
 - [LDRS ![GitHub Repo Stars](https://img.shields.io/github/stars/GriffinJohnston/ldrs) ![GitHub last commit](https://img.shields.io/github/last-commit/GriffinJohnston/ldrs)](https://github.com/GriffinJohnston/ldrs) - Lightweight, customizable loading animations/spinners.
@@ -335,7 +333,6 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 - [LRNWebComponents ![GitHub Repo Stars](https://img.shields.io/github/stars/elmsln/lrnwebcomponents) ![GitHub last commit](https://img.shields.io/github/last-commit/elmsln/lrnwebcomponents)](https://github.com/elmsln/lrnwebcomponents/) - ELMS:LN produced web components for any project.
 - [Lume ![GitHub Repo Stars](https://img.shields.io/github/stars/lume/lume) ![GitHub last commit](https://img.shields.io/github/last-commit/lume/lume)](https://github.com/lume/lume) - Custom elements for 3D graphics. Built with Three.js for WebGL/WebGPU rendering, and Solid.js for reactivity and templating.
 - [Medblocks UI ![GitHub Repo Stars](https://img.shields.io/github/stars/medblocks/medblocks-ui) ![GitHub last commit](https://img.shields.io/github/last-commit/medblocks/medblocks-ui)](https://github.com/medblocks/medblocks-ui) - Web Components for rapid development of openEHR and FHIR systems.
-- [Microsoft Graph Toolkit ![GitHub Repo Stars](https://img.shields.io/github/stars/microsoftgraph/microsoft-graph-toolkit) ![GitHub last commit](https://img.shields.io/github/last-commit/microsoftgraph/microsoft-graph-toolkit)](https://github.com/microsoftgraph/microsoft-graph-toolkit) - Collection of web components for the Microsoft Graph.
 - [Mutation testing elements ![GitHub Repo Stars](https://img.shields.io/github/stars/stryker-mutator/mutation-testing-elements) ![GitHub last commit](https://img.shields.io/github/last-commit/stryker-mutator/mutation-testing-elements)](https://github.com/stryker-mutator/mutation-testing-elements) - A schema for mutation testing results with the web components to visualize it.
 - [Nightingale ![GitHub Repo Stars](https://img.shields.io/github/stars/ebi-webcomponents/nightingale) ![GitHub last commit](https://img.shields.io/github/last-commit/ebi-webcomponents/nightingale)](https://github.com/ebi-webcomponents/nightingale) - Data visualisation web components for the life sciences.
 - [Nuxeo Elements ![GitHub Repo Stars](https://img.shields.io/github/stars/nuxeo/nuxeo-elements) ![GitHub last commit](https://img.shields.io/github/last-commit/nuxeo/nuxeo-elements)](https://github.com/nuxeo/nuxeo-elements) - Components for building web applications with Nuxeo using Web Components.
@@ -344,7 +341,6 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 - [Pixano Elements ![GitHub Repo Stars](https://img.shields.io/github/stars/pixano/pixano-elements) ![GitHub last commit](https://img.shields.io/github/last-commit/pixano/pixano-elements)](https://github.com/pixano/pixano-elements) - Re-usable web components dedicated to data annotation tasks.
 - [PlayCanvas Web Components ![GitHub Repo Stars](https://img.shields.io/github/stars/playcanvas/web-components) ![GitHub last commit](https://img.shields.io/github/last-commit/playcanvas/web-components)](https://github.com/playcanvas/web-components) - Custom elements for building 3D interactive web apps with the PlayCanvas Engine.
 - [Playground Elements ![GitHub Repo Stars](https://img.shields.io/github/stars/PolymerLabs/playground-elements) ![GitHub last commit](https://img.shields.io/github/last-commit/PolymerLabs/playground-elements)](https://github.com/PolymerLabs/playground-elements) - Serverless code experiences with web components.
-- [Shoelace ![GitHub Repo Stars](https://img.shields.io/github/stars/shoelace-style/shoelace) ![GitHub last commit](https://img.shields.io/github/last-commit/shoelace-style/shoelace)](https://github.com/shoelace-style/shoelace) - A forward-thinking library of web components.
 - [Smart Web Components ![GitHub Repo Stars](https://img.shields.io/github/stars/HTMLElements/smart-webcomponents) ![GitHub last commit](https://img.shields.io/github/last-commit/HTMLElements/smart-webcomponents)](https://github.com/HTMLElements/smart-webcomponents) - Web components for business applications.
 - [Stripe Elements ![GitHub Repo Stars](https://img.shields.io/github/stars/bennypowers/stripe-elements) ![GitHub last commit](https://img.shields.io/github/last-commit/bennypowers/stripe-elements)](https://github.com/bennypowers/stripe-elements) - Custom Element Wrapper for Stripe.js v3 Elements.
 - [TEI Publisher Components ![GitHub Repo Stars](https://img.shields.io/github/stars/eeditiones/tei-publisher-components) ![GitHub last commit](https://img.shields.io/github/last-commit/eeditiones/tei-publisher-components)](https://github.com/eeditiones/tei-publisher-components) - Collection of web components used by TEI Publisher and apps generated by it.
@@ -353,8 +349,8 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 - [TrendChart Elements ![GitHub Repo Stars](https://img.shields.io/github/stars/WebLogin/trendchart-elements) ![GitHub last commit](https://img.shields.io/github/last-commit/WebLogin/trendchart-elements)](https://github.com/WebLogin/trendchart-elements) - Components to generate simple, light and responsive charts.
 - [Umbraco UI Components ![GitHub Repo Stars](https://img.shields.io/github/stars/umbraco/Umbraco.UI) ![GitHub last commit](https://img.shields.io/github/last-commit/umbraco/Umbraco.UI)](https://github.com/umbraco/Umbraco.UI) - Collection of user interface web components for Umbraco CMS.
 - [Vaadin components ![GitHub Repo Stars](https://img.shields.io/github/stars/vaadin/web-components) ![GitHub last commit](https://img.shields.io/github/last-commit/vaadin/web-components)](https://github.com/vaadin/web-components) - Evolving set of high-quality web components for building business web applications.
-- [VSCode Webview Elements ![GitHub Repo Stars](https://img.shields.io/github/stars/bendera/vscode-webview-elements) ![GitHub last commit](https://img.shields.io/github/last-commit/bendera/vscode-webview-elements)](https://github.com/bendera/vscode-webview-elements) - Components for creating VSCode extensions which use the Webview API.
-- [Warp View ![GitHub Repo Stars](https://img.shields.io/github/stars/senx/warpview) ![GitHub last commit](https://img.shields.io/github/last-commit/senx/warpview)](https://github.com/senx/warpview) - Collection of charting web components for Warp 10.
+- [VSCode Elements ![GitHub Repo Stars](https://img.shields.io/github/stars/vscode-elements/elements) ![GitHub last commit](https://img.shields.io/github/last-commit/vscode-elements/elements)](https://github.com/vscode-elements/elements) - Web component library for developing Visual Studio Code extensions.
+- [Web Awesome ![GitHub Repo Stars](https://img.shields.io/github/stars/shoelace-style/webawesome) ![GitHub last commit](https://img.shields.io/github/last-commit/shoelace-style/webawesome)](https://github.com/shoelace-style/webawesome) - Open source library of web components from Font Awesome.
 - [Webmarkets web components ![GitHub Repo Stars](https://img.shields.io/github/stars/Webmarkets/wm-web-components) ![GitHub last commit](https://img.shields.io/github/last-commit/Webmarkets/wm-web-components)](https://github.com/Webmarkets/wm-web-components) - Set of Webmarkets' public web components.
 - [Wired Elements ![GitHub Repo Stars](https://img.shields.io/github/stars/wiredjs/wired-elements) ![GitHub last commit](https://img.shields.io/github/last-commit/wiredjs/wired-elements)](https://github.com/wiredjs/wired-elements) - Set of common UI elements with a hand-drawn, sketchy look.
 - [Wokwi Elements ![GitHub Repo Stars](https://img.shields.io/github/stars/wokwi/wokwi-elements) ![GitHub last commit](https://img.shields.io/github/last-commit/wokwi/wokwi-elements)](https://github.com/wokwi/wokwi-elements) - Web Components for Arduino and various electronic parts.
@@ -365,32 +361,28 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 - [Astro Space UX Design System ![GitHub Repo Stars](https://img.shields.io/github/stars/RocketCommunicationsInc/astro) ![GitHub last commit](https://img.shields.io/github/last-commit/RocketCommunicationsInc/astro)](https://github.com/RocketCommunicationsInc/astro) - Set of components to build rich space app experiences with established interaction patterns.
 - [Auro Design System](https://auro.alaskaair.com) - Alaska Airlines design system to innovate on ideas and collaborate on the future.
 - [Blueprint UI](https://blueprintui.dev) - Web Component based design system with flexible and lightweight components.
-- [Bolt Design System ![GitHub Repo Stars](https://img.shields.io/github/stars/boltdesignsystem/bolt) ![GitHub last commit](https://img.shields.io/github/last-commit/boltdesignsystem/bolt)](https://github.com/boltdesignsystem/bolt) - Twig and Web Component-powered UI components, reusable visual styles and tooling.
-- [Calcite Components ![GitHub Repo Stars](https://img.shields.io/github/stars/Esri/calcite-components) ![GitHub last commit](https://img.shields.io/github/last-commit/Esri/calcite-components)](https://github.com/Esri/calcite-components) - Shared Web Components for Esri's Calcite design framework.
+- [Calcite Design System ![GitHub Repo Stars](https://img.shields.io/github/stars/Esri/calcite-design-system) ![GitHub last commit](https://img.shields.io/github/last-commit/Esri/calcite-design-system)](https://github.com/Esri/calcite-design-system) - Web Components for Esri's Calcite design framework.
 - [Carbon Web Components ![GitHub Repo Stars](https://img.shields.io/github/stars/carbon-design-system/carbon-web-components) ![GitHub last commit](https://img.shields.io/github/last-commit/carbon-design-system/carbon-web-components)](https://github.com/carbon-design-system/carbon-web-components) - Carbon Design System variant on top of Web Components.
-- [Clarity Core Web Components ![GitHub Repo Stars](https://img.shields.io/github/stars/vmware-clarity/core) ![GitHub last commit](https://img.shields.io/github/last-commit/vmware-clarity/core)](https://github.com/vmware-clarity/core/tree/main/projects/core) - Suite of web components from the Clarity Design System.
 - [Crayons ![GitHub Repo Stars](https://img.shields.io/github/stars/freshdesk/crayons) ![GitHub last commit](https://img.shields.io/github/last-commit/freshdesk/crayons)](https://github.com/freshdesk/crayons) - Collection of web components that adheres to the Freshworks Design System.
-- [FAST Components ![GitHub Repo Stars](https://img.shields.io/github/stars/microsoft/fast) ![GitHub last commit](https://img.shields.io/github/last-commit/microsoft/fast)](https://github.com/microsoft/fast/tree/master/packages/web-components) - Library of Web Components based on the FAST design language.
 - [Fluent UI Web Components ![GitHub Repo Stars](https://img.shields.io/github/stars/microsoft/fluentui) ![GitHub last commit](https://img.shields.io/github/last-commit/microsoft/fluentui)](https://github.com/microsoft/fluentui/tree/master/packages/web-components) - Library of Web Components that supports Microsoft's Fluent design language.
 - [Forge Components ![GitHub Repo Stars](https://img.shields.io/github/stars/tyler-technologies-oss/forge) ![GitHub last commit](https://img.shields.io/github/last-commit/tyler-technologies-oss/forge)](https://github.com/tyler-technologies-oss/forge) - Library of Web Components adhering to the Forge Design System.
-- [GOV.UK Web Components ![GitHub Repo Stars](https://img.shields.io/github/stars/tgreyuk/govuk-webcomponents) ![GitHub last commit](https://img.shields.io/github/last-commit/tgreyuk/govuk-webcomponents)](https://github.com/tgreyuk/govuk-webcomponents) - Set of encapsulated web components consuming the GOV.UK Design System.
-- [Helix UI ![GitHub Repo Stars](https://img.shields.io/github/stars/HelixDesignSystem/helix-ui) ![GitHub last commit](https://img.shields.io/github/last-commit/HelixDesignSystem/helix-ui)](https://github.com/HelixDesignSystem/helix-ui) - Web Component library for the Helix Design System.
 - [Liquid ![GitHub Repo Stars](https://img.shields.io/github/stars/emdgroup-liquid/liquid) ![GitHub last commit](https://img.shields.io/github/last-commit/emdgroup-liquid/liquid)](https://github.com/emdgroup-liquid/liquid) - UI component library based on the Liquid Design System.
-- [Lyne Components ![GitHub Repo Stars](https://img.shields.io/github/stars/lyne-design-system/lyne-components) ![GitHub last commit](https://img.shields.io/github/last-commit/lyne-design-system/lyne-components)](https://github.com/lyne-design-system/lyne-components) - Building blocks of the Lyne Design System are based on Web Components.
+- [Lyne Components ![GitHub Repo Stars](https://img.shields.io/github/stars/sbb-design-systems/lyne-components) ![GitHub last commit](https://img.shields.io/github/last-commit/sbb-design-systems/lyne-components)](https://github.com/sbb-design-systems/lyne-components) - Building blocks of the Lyne Design System are based on Web Components.
 - [Material Web Components ![GitHub Repo Stars](https://img.shields.io/github/stars/material-components/material-web) ![GitHub last commit](https://img.shields.io/github/last-commit/material-components/material-web)](https://github.com/material-components/material-web) - Material Design implemented as Web Components.
-- [Momentum UI Web Components ![GitHub Repo Stars](https://img.shields.io/github/stars/momentum-design/momentum-ui) ![GitHub last commit](https://img.shields.io/github/last-commit/momentum-design/momentum-ui)](https://github.com/momentum-design/momentum-ui/tree/master/web-components) - Set of UI components based on Momentum Design.
+- [Momentum UI Web Components ![GitHub Repo Stars](https://img.shields.io/github/stars/momentum-design/momentum-ui) ![GitHub last commit](https://img.shields.io/github/last-commit/momentum-design/momentum-ui)](https://github.com/momentum-design/momentum-ui/tree/main/web-components) - Set of UI components based on Momentum Design.
+- [Nessie Design System](https://design.ns.nl) - Web components  by NS Dutch Railways for consumer (external) applications.
 - [Nord](https://nordhealth.design) - Nordhealth’s design system for products, digital experiences and brand.
-- [NuML | NUDE Elements ![GitHub Repo Stars](https://img.shields.io/github/stars/tenphi/numl) ![GitHub last commit](https://img.shields.io/github/last-commit/tenphi/numl)](https://github.com/tenphi/numl) - HTML Framework and Design System based on Web Components and runtime CSS generation.
+- [Nucleus design system](https://britishgas.design/introduction/) - Standardised set of reusable components for British Gas.
 - [NVIDIA Elements ![GitHub Repo Stars](https://img.shields.io/github/stars/nvidia/elements) ![GitHub last commit](https://img.shields.io/github/last-commit/nvidia/elements)](https://github.com/nvidia/elements) - The Design Language and UI Agent Harness for AI/ML Factories, Robotics, and Autonomous Vehicles.
 - [OutlineJS ![GitHub Repo Stars](https://img.shields.io/github/stars/phase2/outline) ![GitHub last commit](https://img.shields.io/github/last-commit/phase2/outline)](https://github.com/phase2/outline) - Web component based design system starter kit.
 - [PatternFly Elements ![GitHub Repo Stars](https://img.shields.io/github/stars/patternfly/patternfly-elements) ![GitHub last commit](https://img.shields.io/github/last-commit/patternfly/patternfly-elements)](https://github.com/patternfly/patternfly-elements) - Collection of flexible and lightweight Web Components based on the Unified Design Kit.
 - [Pharos Design System ![GitHub Repo Stars](https://img.shields.io/github/stars/ithaka/pharos) ![GitHub last commit](https://img.shields.io/github/last-commit/ithaka/pharos)](https://github.com/ithaka/pharos) - JSTOR's design system to create cohesive, supportive, and beautiful experiences.
+- [Polaris web components](https://shopify.dev/docs/api/app-home/latest/web-components) - Native UI elements that follow Shopify's design system.
 - [Red Hat Design System ![GitHub Repo Stars](https://img.shields.io/github/stars/RedHat-UX/red-hat-design-system) ![GitHub last commit](https://img.shields.io/github/last-commit/RedHat-UX/red-hat-design-system)](https://github.com/RedHat-UX/red-hat-design-system) - Web components for building uniform experiences with the Red Hat brand.
 - [Siemens iX Web Components ![GitHub Repo Stars](https://img.shields.io/github/stars/siemens/ix) ![GitHub last commit](https://img.shields.io/github/last-commit/siemens/ix)](https://github.com/siemens/ix/tree/main/packages/core) - Web Components implementing Siemens iX design system.
 - [Spectrum Web Components ![GitHub Repo Stars](https://img.shields.io/github/stars/adobe/spectrum-web-components) ![GitHub last commit](https://img.shields.io/github/last-commit/adobe/spectrum-web-components)](https://github.com/adobe/spectrum-web-components) - Adobe Spectrum design language implementation built with Web Components.
-- [UI5 Web Components ![GitHub Repo Stars](https://img.shields.io/github/stars/SAP/ui5-webcomponents) ![GitHub last commit](https://img.shields.io/github/last-commit/SAP/ui5-webcomponents)](https://github.com/SAP/ui5-webcomponents) - Set of reusable UI elements implementing SAP Fiori Design Guidelines.
-- [U-M Library Design System](https://design-system.lib.umich.edu) - University of Michigan Library Design System.
-- [Zooplus web components ![GitHub Repo Stars](https://img.shields.io/github/stars/zooplus/zoo-web-components) ![GitHub last commit](https://img.shields.io/github/last-commit/zooplus/zoo-web-components)](https://github.com/zooplus/zoo-web-components) - Set of web components that implement Z+ shop style guide.
+- [Tractie — NS Design System](https://tractie.ns.nl) -  Web components by NS Dutch Railways for employee internal applications.
+- [UI5 Web Components ![GitHub Repo Stars](https://img.shields.io/github/stars/UI5/webcomponents) ![GitHub last commit](https://img.shields.io/github/last-commit/UI5/webcomponents)](https://github.com/UI5/webcomponents) - Set of reusable UI elements implementing SAP Fiori Design Guidelines.
 
 ### Use Cases
 
@@ -402,8 +394,8 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 - [Web Components for Enterprise. Part 1: Salesforce, Oracle, SAP](https://dev.to/webpadawan/web-components-for-enterprise-part-1-salesforce-oracle-sap-e70)
 - [Web Components for Enterprise. Part 2: Nuxeo, Ionic, Vaadin](https://dev.to/webpadawan/web-components-for-enterprise-part-2-nuxeo-ionic-vaadin-22l7)
 - [Why I use Web Components - My use cases](https://dev.to/shihn/why-i-use-web-components-my-use-cases-1nip)
-- [Why we use Web Components](https://viljamis.com/2019/why-we-use-web-components/) by [@viljamis](https://twitter.com/viljamis)
-- [Why we use Web Components](https://dev.to/ionic/why-we-use-web-components-2c1i) by [@maxlynch](https://twitter.com/maxlynch)
+- [Why we use Web Components](https://arielsalminen.com/2019/why-we-use-web-components/)
+- [Why we use Web Components](https://dev.to/ionic/why-we-use-web-components-2c1i)
 
 ## Libraries
 
@@ -446,7 +438,7 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 
 - [All the Ways to Make a Web Component](https://webcomponents.dev/blog/all-the-ways-to-make-a-web-component/)
 - [web-components-benchmark](https://vogloblinsky.github.io/web-components-benchmark/) - Benchmark Web Components technologies with various examples.
-- [web-components-todo](https://wc-todo.firebaseapp.com/) - The same todo application built in different Web Components libraries for benchmark purpose.
+- [web-components-todo ![GitHub Repo Stars](https://img.shields.io/github/stars/shprink/web-components-todo) ![GitHub last commit](https://img.shields.io/github/last-commit/shprink/web-components-todo)](https://github.com/shprink/web-components-todo) - The same todo application built in different Web Components libraries for benchmark purpose.
 
 ## Frameworks
 
@@ -506,7 +498,6 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 - [Open Web Components: Testing](https://open-wc.org/docs/testing/testing-package/) - Opinionated package that combines and configures testing libraries.
 - [query-selector-shadow-dom ![GitHub Repo Stars](https://img.shields.io/github/stars/webdriverio/query-selector-shadow-dom) ![GitHub last commit](https://img.shields.io/github/last-commit/webdriverio/query-selector-shadow-dom)](https://github.com/webdriverio/query-selector-shadow-dom) - querySelector that can pierce Shadow DOM roots, useful for automated testing.
 - [shadow-automation-selenium ![GitHub Repo Stars](https://img.shields.io/github/stars/sukgu/shadow-automation-selenium) ![GitHub last commit](https://img.shields.io/github/last-commit/sukgu/shadow-automation-selenium)](https://github.com/sukgu/shadow-automation-selenium) - Shadow DOM automation using Selenium.
-- [Testing Shadow DOM elements in Selenium](https://reflect.run/articles/testing-shadow-dom-elements-in-selenium/) - In Selenium 4, there is now a way to access Shadow DOM nodes.
 - [Test web components with Playwright](https://alexbilson.dev/plants/technology/test-web-components-with-playwright/) - So you’ve created a native web component or two. How do you test them in popular browsers?
 - [W3C Webdriver conquering automation of Shadow DOM](https://staleelement.medium.com/w3c-webdriver-conquering-automation-of-shadow-dom-chapter-2-d92c7fe9e74c) - Shadow DOM tree and its interaction with the W3C Webdriver.
 
@@ -532,21 +523,19 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 - [Creating a Reusable Avatar Web Component](https://marcoslooten.com/blog/creating-a-reusable-avatar-web-component/)
 - [Creating Web Components with Stencil](https://auth0.com/blog/creating-web-components-with-stencil/)
 - [Encapsulating Style and Structure with Shadow DOM](https://css-tricks.com/encapsulating-style-and-structure-with-shadow-dom/)
-- [Getting started with LitElement and TypeScript](https://labs.thisdot.co/blog/getting-started-with-litelement-and-typescript)
+- [Getting started with LitElement and TypeScript](https://www.thisdot.co/blog/getting-started-with-litelement-and-typescript)
 - [Web Components: from zero to hero](https://dev.to/thepassle/web-components-from-zero-to-hero-4n4m)
 - [Deep Dive: Web Components & Dependency Injection – The Experiment](https://www.thinktecture.com/web-components/dependency-injection/)
-- [Handling data with Web Components](https://itnext.io/handling-data-with-web-components-9e7e4a452e6e)
-- [How to use D3js with WebComponents](https://towardsdatascience.com/how-to-use-d3js-with-webcomponents-a75ae4f980de)
-- [Navigation Lifecycle using Vaadin Router, LitElement and TypeScript](https://labs.thisdot.co/blog/navigation-lifecycle-using-vaadin-router-litelement-and-typescript)
+- [Navigation Lifecycle using Vaadin Router, LitElement and TypeScript](https://www.thisdot.co/blog/navigation-lifecycle-using-vaadin-router-litelement-and-typescript)
 - [Recreating The Arduino Pushbutton Using SVG And `<lit-element>`](https://www.smashingmagazine.com/2020/01/recreating-arduino-pushbutton-svg/)
-- [Routing Management with LitElement and TypeScript](https://labs.thisdot.co/blog/routing-management-with-litelement)
+- [Routing Management with LitElement and TypeScript](https://www.thisdot.co/blog/routing-management-with-litelement)
 - [Snake-Eating Game Making with Web Components of Omi and MVP Architecture](https://dev.to/dntzhang/snake-eating-game-making-with-web-components-of-omi-and-mvp-architecture-206)
 - [Stencil – Web Components On Steroids](https://www.thinktecture.com/web-components/stenciljs-web-components-on-steroids/)
 - [Using Modern Web Components](https://coryrylan.com/blog/using-modern-web-components)
 - [Using Web Components in WordPress is Easier Than You Think](https://css-tricks.com/using-web-components-in-wordpress-is-easier-than-you-think/)
 - [Web Components 101: Framework Comparison](https://coderpad.io/blog/development/web-components-101-framework-comparison/)
 - [Web Components 101: Lit Framework](https://coderpad.io/blog/development/web-components-101-lit-framework/)
-- [Web Components Tools: A Comparison](https://www.nexmo.com/blog/2020/05/20/web-components-tools-a-comparison)
+- [Web Components Tools: A Comparison](https://developer.vonage.com/en/blog/web-components-tools-a-comparison)
 - [Where to begin building Web Components? - The Basics](https://dev.to/alangdm/where-to-begin-building-web-components-the-basics-3b78)
 - [Where to begin building Web Components? - Class-based Libraries](https://dev.to/alangdm/where-to-begin-building-web-components-class-based-libraries-18m6)
 
@@ -554,26 +543,22 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 
 ### Podcasts
 
-- [Code[ish], episode 38: Building with Web Components](https://www.heroku.com/podcasts/codeish/38-building-with-web-components)
+- [Code[ish], episode 38: Building with Web Components](https://www.heroku.com/codeish-podcasts/38-building-with-web-components/)
 - [Frontend Happy Hour, episode 62: Web Components - shots of shadow DOM](https://frontendhappyhour.com/episodes/web-components-shots-of-shadow-dom/)
-- [Labs Talk - Web Components with Peter Muessig](https://labstalk.buzzsprout.com/993481/3932975-web-components-with-peter-muessig)
-- [Real Talk JavaScript, episode 7: Custom Web Components with Rob Wormald](https://realtalkjavascript.simplecast.fm/eaf3db9e)
-- [Real Talk JavaScript, episode 101: Back to Basics with Native HTML and LitElement](https://realtalkjavascript.simplecast.com/episodes/episode-101-back-to-basics-with-native-html-and-litelement)
+- [JSJ 424: UI5 and web components with Peter Muessig](https://www.youtube.com/watch?v=LPzYKrBzUoY)
+- [Real Talk JavaScript, episode 7: Custom Web Components with Rob Wormald](https://www.devshows.dev/podcasts/web-rush/episode-7-custom-web-components-with-rob-wormald)
+- [Real Talk JavaScript, episode 101: Back to Basics with Native HTML and LitElement](https://www.devshows.dev/podcasts/web-rush/episode-101-back-to-basics-with-native-html-and-litelement)
 
 ### Presentations
 
 - [Are Web Components the Betamax of web development?](https://noti.st/lostinbrittany/EjUZyd/are-web-components-the-betamax-of-web-development) by [@lostinbrittany](https://twitter.com/lostinbrittany)
-- [Designing Standard Systems](https://drive.google.com/file/d/1ALFiWOFU0UAGUpaZPMIVnoADs9_REtL5/view) by [@stefsull](https://twitter.com/stefsull) and [@bferrua](https://twitter.com/bferrua)
-- [Frontend Architecture for Scalable Design Systems](https://events.drupal.org/seattle2019/sessions/design-system-architecture-pattern-lab-twig-and-web-components) by [@salem_cobalt](https://twitter.com/salem_cobalt)
+- [Frontend Architecture for Scalable Design Systems](https://speakerdeck.com/sghoweri/frontend-architecture-for-scalable-design-systems) by [@salem_cobalt](https://twitter.com/salem_cobalt)
 - [lit-apollo: Data-Driven Components that Use the Platform](https://apolloelements.dev/using-lit-apollo/) by [@PowersBenny](https://twitter.com/PowersBenny)
-- [Mastering Shadow DOM](https://martine-dowden.github.io/portfolio/presentation/mastering-shadow-dom) by [@Martine_Dowden](https://twitter.com/Martine_Dowden)
+- [Mastering Shadow DOM](https://martine.dev/publications/mastering-shadow-dom) by [@Martine_Dowden](https://twitter.com/Martine_Dowden)
 - [Modernizing Large Frontends with Web Components](https://speakerdeck.com/samjulien/modernizing-large-frontends-with-web-components) by [@samjulien](https://twitter.com/samjulien)
 - [Shadow DOM: off the beaten track](https://docs.google.com/presentation/d/1wi74YiTLtLSfgjyccKm5LxYp9k8aeJda0AekWV5mqJI/edit?usp=sharing) by [@serhiikulykov](https://twitter.com/serhiikulykov)
 - [Using Web Components to Build a Framework-agnostic UI Library](https://gotochgo.com/2019/sessions/866/using-web-components-to-build-a-framework-agnostic-ui-library) by [@brianbouril](https://twitter.com/brianbouril) and [@danciupuliga](https://twitter.com/danciupuliga)
-- [Web Components and the AOM](https://decks.tink.uk/2019/jsconf/index.html) by [@LeonieWatson](https://twitter.com/LeonieWatson)
-- [Web Components and Styles Scoping](https://www.dropbox.com/s/wdh9uufjui5htll/Web-Components-and-Styles-Scoping-by-bashmish-FrontMania-2018.pdf) by [@bashmish](https://twitter.com/bashmish)
 - [Web Components can do that?!](https://slides.com/vogloblinsky/web-components-can-do-that) by [@vogloblinsky](https://twitter.com/vogloblinsky)
-- [Web Components: Introduction and State of the Art](https://webcomponents.dev/blog/web-components-slides/) by [@webcomp_dev](https://twitter.com/webcomp_dev)
 
 ### Talks
 
