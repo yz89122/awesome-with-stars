@@ -343,6 +343,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 - [terraform-provider-coolify ![GitHub Repo Stars](https://img.shields.io/github/stars/coolify-terraform/terraform-provider-coolify) ![GitHub last commit](https://img.shields.io/github/last-commit/coolify-terraform/terraform-provider-coolify)](https://github.com/coolify-terraform/terraform-provider-coolify) - Terraform provider for Coolify.
 - [terraform-provider-appstore ![GitHub Repo Stars](https://img.shields.io/github/stars/elevenode/terraform-provider-appstore) ![GitHub last commit](https://img.shields.io/github/last-commit/elevenode/terraform-provider-appstore)](https://github.com/elevenode/terraform-provider-appstore) - Terraform provider for Apple App Store Connect.
 - [terraform-provider-expo ![GitHub Repo Stars](https://img.shields.io/github/stars/elevenode/terraform-provider-expo) ![GitHub last commit](https://img.shields.io/github/last-commit/elevenode/terraform-provider-expo)](https://github.com/elevenode/terraform-provider-expo) - Terraform provider for Expo Application Services (EAS).
+- [terraform-provider-paddle ![GitHub Repo Stars](https://img.shields.io/github/stars/vivantel/terraform-provider-paddle) ![GitHub last commit](https://img.shields.io/github/last-commit/vivantel/terraform-provider-paddle)](https://github.com/vivantel/terraform-provider-paddle) - Terraform provider for Paddle Billing catalog resources, lifecycle actions, and lookup data sources.
 
 ## Testing
 
@@ -528,6 +529,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 
 ### CI
 
+- [opentofu-updater-action ![GitHub Repo Stars](https://img.shields.io/github/stars/drumandbytes/opentofu-updater-action) ![GitHub last commit](https://img.shields.io/github/last-commit/drumandbytes/opentofu-updater-action)](https://github.com/drumandbytes/opentofu-updater-action) - GitHub Action that keeps OpenTofu/Terraform providers, modules, Helm charts and container images up to date by opening pull requests.
 - [setup-terraform ![GitHub Repo Stars](https://img.shields.io/github/stars/hashicorp/setup-terraform) ![GitHub last commit](https://img.shields.io/github/last-commit/hashicorp/setup-terraform)](https://github.com/hashicorp/setup-terraform) - Sets up Terraform CLI in your GitHub Actions workflow.
 - [terraform-plan ![GitHub Repo Stars](https://img.shields.io/github/stars/cds-snc/terraform-plan) ![GitHub last commit](https://img.shields.io/github/last-commit/cds-snc/terraform-plan)](https://github.com/cds-snc/terraform-plan) - GitHub Action to run Terraform plan and add a comment with the changes.
 - [terraform-risk-assessor ![GitHub Repo Stars](https://img.shields.io/github/stars/Liam-Johnston/terraform-risk-assessor) ![GitHub last commit](https://img.shields.io/github/last-commit/Liam-Johnston/terraform-risk-assessor)](https://github.com/Liam-Johnston/terraform-risk-assessor) - GitHub Action that analyses Terraform plan changes with AI and comments a risk assessment on pull requests.
