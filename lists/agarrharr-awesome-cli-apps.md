@@ -68,6 +68,7 @@ Inspired by the [awesome ![GitHub Repo Stars](https://img.shields.io/github/star
   - [Internet Speedtest](#internet-speedtest)
   - [Science](#science)
   - [Professional: Resume](#professional-resume)
+  - [Backup](#backup)
 - [Command Line Learning](#command-line-learning)
 - [Data Manipulation](#data-manipulation)
   - [Processors](#processors)
@@ -266,7 +267,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [docker-pushrm ![GitHub Repo Stars](https://img.shields.io/github/stars/christian-korneck/docker-pushrm) ![GitHub last commit](https://img.shields.io/github/last-commit/christian-korneck/docker-pushrm)](https://github.com/christian-korneck/docker-pushrm) - Push a readme to container registries.
 - [ctop ![GitHub Repo Stars](https://img.shields.io/github/stars/bcicen/ctop) ![GitHub last commit](https://img.shields.io/github/last-commit/bcicen/ctop)](https://github.com/bcicen/ctop) - Top like interface for container metrics.
 - [decompose ![GitHub Repo Stars](https://img.shields.io/github/stars/s0rg/decompose) ![GitHub last commit](https://img.shields.io/github/last-commit/s0rg/decompose)](https://github.com/s0rg/decompose) - Create connections graph for running docker containers.
-- [kool ![GitHub Repo Stars](https://img.shields.io/github/stars/kool-dev/kool) ![GitHub last commit](https://img.shields.io/github/last-commit/kool-dev/kool)](https://github.com/kool-dev/kool) - Web development with containers made easy. 
+- [kool ![GitHub Repo Stars](https://img.shields.io/github/stars/kool-dev/kool) ![GitHub last commit](https://img.shields.io/github/last-commit/kool-dev/kool)](https://github.com/kool-dev/kool) - Web development with containers made easy.
 
 ### Release
 
@@ -308,7 +309,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [ain ![GitHub Repo Stars](https://img.shields.io/github/stars/jonaslu/ain) ![GitHub last commit](https://img.shields.io/github/last-commit/jonaslu/ain)](https://github.com/jonaslu/ain) - HTTP client with a simple format to organize API endpoints.
 - [curlie ![GitHub Repo Stars](https://img.shields.io/github/stars/rs/curlie) ![GitHub last commit](https://img.shields.io/github/last-commit/rs/curlie)](https://github.com/rs/curlie) - A curl frontend with the ease of use of HTTPie.
 - [ATAC ![GitHub Repo Stars](https://img.shields.io/github/stars/Julien-cpsn/ATAC) ![GitHub last commit](https://img.shields.io/github/last-commit/Julien-cpsn/ATAC)](https://github.com/Julien-cpsn/ATAC) - A feature-full TUI API client made in Rust.
-- [httptap ![GitHub Repo Stars](https://img.shields.io/github/stars/ozeranskii/httptap) ![GitHub last commit](https://img.shields.io/github/last-commit/ozeranskii/httptap)](https://github.com/ozeranskii/httptap) - Breakdown and visualize HTTP requests. 
+- [httptap ![GitHub Repo Stars](https://img.shields.io/github/stars/ozeranskii/httptap) ![GitHub last commit](https://img.shields.io/github/last-commit/ozeranskii/httptap)](https://github.com/ozeranskii/httptap) - Breakdown and visualize HTTP requests.
 
 ### Testing
 
@@ -562,6 +563,11 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [resumx ![GitHub Repo Stars](https://img.shields.io/github/stars/resumx/resumx) ![GitHub last commit](https://img.shields.io/github/last-commit/resumx/resumx)](https://github.com/resumx/resumx) - Markdown resume renderer with auto page-fitting.
 - [YAMLResume ![GitHub Repo Stars](https://img.shields.io/github/stars/yamlresume/yamlresume) ![GitHub last commit](https://img.shields.io/github/last-commit/yamlresume/yamlresume)](https://github.com/yamlresume/yamlresume) - Resumes as code.
 
+### Backup
+
+- [shallow-backup ![GitHub Repo Stars](https://img.shields.io/github/stars/alichtman/shallow-backup) ![GitHub last commit](https://img.shields.io/github/last-commit/alichtman/shallow-backup)](https://github.com/alichtman/shallow-backup) - Git integrated backup tool.
+- [Plakar ![GitHub Repo Stars](https://img.shields.io/github/stars/PlakarKorp/plakar) ![GitHub last commit](https://img.shields.io/github/last-commit/PlakarKorp/plakar)](https://github.com/PlakarKorp/plakar) - An encrypted, deduplicated, verifiable, and scalable backup engine with no vendor lock-in.
+
 ## Command Line Learning
 
 - [cmdchallenge](https://cmdchallenge.com) - Presents small shell challenge with user submitted solutions.
@@ -749,7 +755,6 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [import-github-labels-cli ![GitHub Repo Stars](https://img.shields.io/github/stars/abhijithvijayan/import-github-labels-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/abhijithvijayan/import-github-labels-cli)](https://github.com/abhijithvijayan/import-github-labels-cli) - Sync labels between Github repos.
 - [git-all-branches ![GitHub Repo Stars](https://img.shields.io/github/stars/zacanger/git-all-branches) ![GitHub last commit](https://img.shields.io/github/last-commit/zacanger/git-all-branches)](https://github.com/zacanger/git-all-branches) - Improved `git branch -a`.
 - [czg ![GitHub Repo Stars](https://img.shields.io/github/stars/Zhengqbbb/cz-git) ![GitHub last commit](https://img.shields.io/github/last-commit/Zhengqbbb/cz-git)](https://github.com/Zhengqbbb/cz-git/tree/main/packages/cli) - Interactively generate standardized commit messages.
-- [shallow-backup ![GitHub Repo Stars](https://img.shields.io/github/stars/alichtman/shallow-backup) ![GitHub last commit](https://img.shields.io/github/last-commit/alichtman/shallow-backup)](https://github.com/alichtman/shallow-backup) - Git integrated backup tool.
 - [lazygit ![GitHub Repo Stars](https://img.shields.io/github/stars/jesseduffield/lazygit) ![GitHub last commit](https://img.shields.io/github/last-commit/jesseduffield/lazygit)](https://github.com/jesseduffield/lazygit) - Simple TUI for git commands.
 - [bash-git-prompt ![GitHub Repo Stars](https://img.shields.io/github/stars/magicmonty/bash-git-prompt) ![GitHub last commit](https://img.shields.io/github/last-commit/magicmonty/bash-git-prompt)](https://github.com/magicmonty/bash-git-prompt) - Informative and fancy bash prompt for Git users.
 - [gitui ![GitHub Repo Stars](https://img.shields.io/github/stars/extrawurst/gitui) ![GitHub last commit](https://img.shields.io/github/last-commit/extrawurst/gitui)](https://github.com/extrawurst/gitui) - Blazing fast terminal-ui for git written in Rust.
