@@ -174,7 +174,6 @@ Then ask any web-security question and the skill activates on topics like XSS, S
 - [AwesomeXSS ![GitHub Repo Stars](https://img.shields.io/github/stars/s0md3v/AwesomeXSS) ![GitHub last commit](https://img.shields.io/github/last-commit/s0md3v/AwesomeXSS)](https://github.com/s0md3v/AwesomeXSS) - Written by [@s0md3v](https://github.com/s0md3v).
 - [XSS.png ![GitHub Repo Stars](https://img.shields.io/github/stars/LucaBongiorni/XSS.png) ![GitHub last commit](https://img.shields.io/github/last-commit/LucaBongiorni/XSS.png)](https://github.com/LucaBongiorni/XSS.png) - Written by @jackmasa.
 - [PayloadsAllTheThings - XSS Injection ![GitHub Repo Stars](https://img.shields.io/github/stars/swisskyrepo/PayloadsAllTheThings) ![GitHub last commit](https://img.shields.io/github/last-commit/swisskyrepo/PayloadsAllTheThings)](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/XSS%20Injection) - Written by [@swisskyrepo](https://github.com/swisskyrepo).
-- [payloadbox/xss-payload-list ![GitHub Repo Stars](https://img.shields.io/github/stars/payloadbox/xss-payload-list) ![GitHub last commit](https://img.shields.io/github/last-commit/payloadbox/xss-payload-list)](https://github.com/payloadbox/xss-payload-list) - Written by [@payloadbox](https://github.com/payloadbox).
 - [Laravel Content Security Policy: Complete Implementation Guide](https://blog.shakiltech.com/laravel-content-security-policy-guide/) - Hands-on guide to implementing Content Security Policy in Laravel — nonce lifecycle, Vite and Livewire integration, violation reporting, and a pre-enforcement checklist, by [@itxshakil](https://github.com/itxshakil).
 
 <a name="prototype-pollution"></a>
@@ -198,14 +197,12 @@ Then ask any web-security question and the skill activates on topics like XSS, S
 - [SQL Injection Pocket Reference](https://websec.ca/kb/sql_injection) - Written by [@LightOS](https://twitter.com/LightOS).
 - [SQL Injection Wiki](https://sqlwiki.netspi.com/) - Written by [NETSPI](https://www.netspi.com/).
 - [PayloadsAllTheThings - SQL Injection ![GitHub Repo Stars](https://img.shields.io/github/stars/swisskyrepo/PayloadsAllTheThings) ![GitHub last commit](https://img.shields.io/github/last-commit/swisskyrepo/PayloadsAllTheThings)](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/SQL%20Injection) - Written by [@swisskyrepo](https://github.com/swisskyrepo).
-- [payloadbox/sql-injection-payload-list ![GitHub Repo Stars](https://img.shields.io/github/stars/payloadbox/sql-injection-payload-list) ![GitHub last commit](https://img.shields.io/github/last-commit/payloadbox/sql-injection-payload-list)](https://github.com/payloadbox/sql-injection-payload-list) - Written by [@payloadbox](https://github.com/payloadbox).
 
 <a name="command-injection"></a>
 ### Command Injection
 
 - [Potential command injection in resolv.rb ![GitHub Repo Stars](https://img.shields.io/github/stars/ruby/ruby) ![GitHub last commit](https://img.shields.io/github/last-commit/ruby/ruby)](https://github.com/ruby/ruby/pull/1777) - Written by [@drigg3r](https://github.com/drigg3r).
 - [PayloadsAllTheThings - Command Injection ![GitHub Repo Stars](https://img.shields.io/github/stars/swisskyrepo/PayloadsAllTheThings) ![GitHub last commit](https://img.shields.io/github/last-commit/swisskyrepo/PayloadsAllTheThings)](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Command%20Injection) - Written by [@swisskyrepo](https://github.com/swisskyrepo).
-- [payloadbox/command-injection-payload-list ![GitHub Repo Stars](https://img.shields.io/github/stars/payloadbox/command-injection-payload-list) ![GitHub last commit](https://img.shields.io/github/last-commit/payloadbox/command-injection-payload-list)](https://github.com/payloadbox/command-injection-payload-list) - Written by [@payloadbox](https://github.com/payloadbox).
 
 <a name="orm-injection"></a>
 ### ORM Injection
@@ -227,14 +224,12 @@ Then ask any web-security question and the skill activates on topics like XSS, S
 - [XXE](https://phonexicum.github.io/infosec/xxe.html) - Written by [@phonexicum](https://twitter.com/phonexicum).
 - [PayloadsAllTheThings - XXE Injection ![GitHub Repo Stars](https://img.shields.io/github/stars/swisskyrepo/PayloadsAllTheThings) ![GitHub last commit](https://img.shields.io/github/last-commit/swisskyrepo/PayloadsAllTheThings)](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/XXE%20Injection) - Written by various contributors.
 - [XML external entity (XXE) injection](https://portswigger.net/web-security/xxe) - Written by [portswigger](https://portswigger.net/).
-- [XML Schema, DTD, and Entity Attacks](https://www.vsecurity.com/download/publications/XMLDTDEntityAttacks.pdf) - Written by [Timothy D. Morgan](https://twitter.com/ecbftw) and Omar Al Ibrahim.
-- [payloadbox/xxe-injection-payload-list ![GitHub Repo Stars](https://img.shields.io/github/stars/payloadbox/xxe-injection-payload-list) ![GitHub last commit](https://img.shields.io/github/last-commit/payloadbox/xxe-injection-payload-list)](https://github.com/payloadbox/xxe-injection-payload-list) - Written by [@payloadbox](https://github.com/payloadbox).
 
 <a name="csrf"></a>
 ### CSRF - Cross-Site Request Forgery
 
 - [Wiping Out CSRF](https://medium.com/@jrozner/wiping-out-csrf-ded97ae7e83f) - Written by [@jrozner](https://medium.com/@jrozner).
-- [PayloadsAllTheThings - CSRF Injection ![GitHub Repo Stars](https://img.shields.io/github/stars/swisskyrepo/PayloadsAllTheThings) ![GitHub last commit](https://img.shields.io/github/last-commit/swisskyrepo/PayloadsAllTheThings)](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/CSRF%20Injection) - Written by [@swisskyrepo](https://github.com/swisskyrepo).
+- [PayloadsAllTheThings - CSRF Injection ![GitHub Repo Stars](https://img.shields.io/github/stars/swisskyrepo/PayloadsAllTheThings) ![GitHub last commit](https://img.shields.io/github/last-commit/swisskyrepo/PayloadsAllTheThings)](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Cross-Site%20Request%20Forgery) - Written by [@swisskyrepo](https://github.com/swisskyrepo).
 
 <a name="clickjacking"></a>
 ### Clickjacking
@@ -265,7 +260,6 @@ Then ask any web-security question and the skill activates on topics like XSS, S
 
 - [Open Redirect Vulnerability](https://s0cket7.com/open-redirect-vulnerability/) - Written by [s0cket7](https://s0cket7.com/).
 - [PayloadsAllTheThings - Open Redirect ![GitHub Repo Stars](https://img.shields.io/github/stars/swisskyrepo/PayloadsAllTheThings) ![GitHub last commit](https://img.shields.io/github/last-commit/swisskyrepo/PayloadsAllTheThings)](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Open%20Redirect) - Written by [@swisskyrepo](https://github.com/swisskyrepo).
-- [payloadbox/open-redirect-payload-list ![GitHub Repo Stars](https://img.shields.io/github/stars/payloadbox/open-redirect-payload-list) ![GitHub last commit](https://img.shields.io/github/last-commit/payloadbox/open-redirect-payload-list)](https://github.com/payloadbox/open-redirect-payload-list) - Written by [@payloadbox](https://github.com/payloadbox).
 
 <a name="saml"></a>
 ### Security Assertion Markup Language (SAML)
@@ -338,7 +332,6 @@ Then ask any web-security question and the skill activates on topics like XSS, S
 ### Sub Domain Enumeration
 
 - [A penetration tester’s guide to sub-domain enumeration](https://blog.appsecco.com/a-penetration-testers-guide-to-sub-domain-enumeration-7d842d5570f6) - Written by [Bharath](https://blog.appsecco.com/@yamakira_).
-- [The Art of Subdomain Enumeration](https://blog.sweepatic.com/art-of-subdomain-enumeration/) - Written by [Patrik Hudak](https://blog.sweepatic.com/author/patrik/).
 
 <a name="crypto"></a>
 ### Crypto
@@ -401,8 +394,8 @@ Then ask any web-security question and the skill activates on topics like XSS, S
 - [TWITTER XSS + CSP BYPASS](https://www.paulosyibelo.com/2017/05/twitter-xss-csp-bypass.html) - Written by [Paulos Yibelo](https://www.paulosyibelo.com/).
 - [Neatly bypassing CSP](https://lab.wallarm.com/how-to-trick-csp-in-letting-you-run-whatever-you-want-73cb5ff428aa) - Written by [Wallarm](https://wallarm.com/).
 - [Evading CSP with DOM-based dangling markup](https://portswigger.net/blog/evading-csp-with-dom-based-dangling-markup) - Written by [portswigger](https://portswigger.net/).
-- [GitHub's CSP journey](https://githubengineering.com/githubs-csp-journey/) - Written by [@ptoomey3](https://github.com/ptoomey3).
-- [GitHub's post-CSP journey](https://githubengineering.com/githubs-post-csp-journey/) - Written by [@ptoomey3](https://github.com/ptoomey3).
+- [GitHub's CSP journey](https://github.blog/2016-04-12-githubs-csp-journey/) - Written by [@ptoomey3](https://github.com/ptoomey3).
+- [GitHub's post-CSP journey](https://github.blog/2017-01-19-githubs-post-csp-journey/) - Written by [@ptoomey3](https://github.com/ptoomey3).
 - [Any protection against dynamic module import? ![GitHub Repo Stars](https://img.shields.io/github/stars/w3c/webappsec-csp) ![GitHub last commit](https://img.shields.io/github/last-commit/w3c/webappsec-csp)](https://github.com/w3c/webappsec-csp/issues/243) - Written by [@shhnjk](https://twitter.com/@shhnjk).
 
 <a name="evasions-waf"></a>
@@ -445,7 +438,7 @@ Then ask any web-security question and the skill activates on topics like XSS, S
 - [DRUPAL 7.X SERVICES MODULE UNSERIALIZE() TO RCE](https://www.ambionics.io/blog/drupal-services-module-rce) - Written by [Ambionics Security](https://www.ambionics.io/).
 - [Exploiting Node.js deserialization bug for Remote Code Execution](https://opsecx.com/index.php/2017/02/08/exploiting-node-js-deserialization-bug-for-remote-code-execution/) - Written by [OpSecX](https://opsecx.com/index.php/author/ajinabraham/).
 - [GitHub Enterprise Remote Code Execution](https://bounty.github.com/researchers/iblue.html) - Written by [@iblue](https://github.com/iblue).
-- [How I Chained 4 vulnerabilities on GitHub Enterprise, From SSRF Execution Chain to RCE!](https://blog.orange.tw/2017/07/how-i-chained-4-vulnerabilities-on.html) - Written by [Orange](https://blog.orange.tw/).
+- [How I Chained 4 vulnerabilities on GitHub Enterprise, From SSRF Execution Chain to RCE!](https://blog.orange.tw/posts/2017-07-how-i-chained-4-vulnerabilities-on/) - Written by [Orange](https://blog.orange.tw/).
 - [How we exploited a remote code execution vulnerability in math.js](https://capacitorset.github.io/mathjs/) - Written by [@capacitorset](https://github.com/capacitorset).
 - [$36k Google App Engine RCE](https://sites.google.com/site/testsitehacking/-36k-google-app-engine-rce) - Written by [Ezequiel Pereira](https://sites.google.com/site/testsitehacking/).
 - [Poor RichFaces](https://codewhitesec.blogspot.com/2018/05/poor-richfaces.html) - Written by [CODE WHITE](https://www.code-white.com/).
@@ -464,21 +457,15 @@ Then ask any web-security question and the skill activates on topics like XSS, S
 - [Query parameter reordering causes redirect page to render unsafe URL](https://hackerone.com/reports/293689) - Written by [kenziy](https://hackerone.com/kenziy).
 - [Uber XSS via Cookie](https://zhchbin.github.io/2017/08/30/Uber-XSS-via-Cookie/) - Written by [zhchbin](https://zhchbin.github.io/).
 - [Stored XSS on Facebook](https://opnsec.com/2018/03/stored-xss-on-facebook/) - Written by [Enguerran Gillier](https://opnsec.com/).
-- [DOM XSS – auth.uber.com](http://stamone-bug-bounty.blogspot.tw/2017/10/dom-xss-auth14.html) - Written by [StamOne_](https://stamone-bug-bounty.blogspot.tw/).
 - [Another XSS in Google Colaboratory](https://blog.bentkowski.info/2018/09/another-xss-in-google-colaboratory.html) - Written by [Michał Bentkowski](https://blog.bentkowski.info/).
 - [XSS in Google Colaboratory + CSP bypass](https://blog.bentkowski.info/2018/06/xss-in-google-colaboratory-csp-bypass.html) - Written by [Michał Bentkowski](https://blog.bentkowski.info/).
-- [</script> is filtered ?](https://twitter.com/strukt93/status/931586377665331200) - Written by [@strukt93](https://twitter.com/strukt93).
 - [XSS-Auditor — the protector of unprotected and the deceiver of protected.](https://medium.com/bugbountywriteup/xss-auditor-the-protector-of-unprotected-f900a5e15b7b) - Written by [@terjanq](https://medium.com/@terjanq).
 - [XSS without parentheses and semi-colons](https://portswigger.net/blog/xss-without-parentheses-and-semi-colons) - Written by [@garethheyes](https://twitter.com/garethheyes).
-- [Upgrade self XSS to Exploitable XSS an 3 Ways Technic](https://www.hahwul.com/2019/11/upgrade-self-xss-to-exploitable-xss.html) - Written by [HAHWUL](https://www.hahwul.com/).
-- [Exploiting XSS with 20 characters limitation](https://jlajara.gitlab.io/posts/2019/11/30/XSS_20_characters.html) - Written by [Jorge Lajara](https://jlajara.gitlab.io/).
-- [$20000 Facebook DOM XSS](https://vinothkumar.me/20000-facebook-dom-xss/) - Written by [@vinodsparrow](https://twitter.com/vinodsparrow).
 
 <a name="tricks-sql-injection"></a>
 ### SQL Injection
 
-- [GitHub Enterprise SQL Injection](https://blog.orange.tw/2017/01/bug-bounty-github-enterprise-sql-injection.html) - Written by [Orange](https://blog.orange.tw/).
-- [SQL injection in an UPDATE query - a bug bounty story!](http://zombiehelp54.blogspot.jp/2017/02/sql-injection-in-update-query-bug.html) - Written by [Zombiehelp54](https://zombiehelp54.blogspot.jp/).
+- [GitHub Enterprise SQL Injection](https://blog.orange.tw/posts/2017-01-bug-bounty-github-enterprise-sql-injection/) - Written by [Orange](https://blog.orange.tw/).
 - [Making a Blind SQL Injection a little less blind](https://medium.com/@tomnomnom/making-a-blind-sql-injection-a-little-less-blind-428dcb614ba8) - Written by [TomNomNom](https://twitter.com/TomNomNom).
 - [Red Team Tales 0x01: From MSSQL to RCE](https://www.tarlogic.com/en/blog/red-team-tales-0x01/) - Written by [Tarlogic](https://www.tarlogic.com/en/cybersecurity-blog/).
 - [MySQL Error Based SQL Injection Using EXP](https://www.exploit-db.com/docs/english/37953-mysql-error-based-sql-injection-using-exp.pdf) - Written by [@osandamalith](https://twitter.com/osandamalith).
@@ -493,20 +480,17 @@ Then ask any web-security question and the skill activates on topics like XSS, S
 ### FTP Injection
 
 - [XML Out-Of-Band Data Retrieval](https://media.blackhat.com/eu-13/briefings/Osipov/bh-eu-13-XML-data-osipov-slides.pdf) - Written by [@a66at](https://twitter.com/a66at) and Alexey Osipov.
-- [XXE OOB exploitation at Java 1.7+](http://lab.onsec.ru/2014/06/xxe-oob-exploitation-at-java-17.html) - Written by [Ivan Novikov](http://lab.onsec.ru/).
 
 <a name="tricks-xxe"></a>
 ### XXE
 
 - [Evil XML with two encodings](https://mohemiv.com/all/evil-xml/) - Written by [Arseniy Sharoglazov](https://mohemiv.com/).
-- [Automating local DTD discovery for XXE exploitation](https://www.gosecure.net/blog/2019/07/16/automating-local-dtd-discovery-for-xxe-exploitation) - Written by [Philippe Arteau](https://twitter.com/h3xstream).
+- [Automating local DTD discovery for XXE exploitation](https://gosecure.ai/blog/2019/07/16/automating-local-dtd-discovery-for-xxe-exploitation) - Written by [Philippe Arteau](https://twitter.com/h3xstream).
 - [Exploiting XXE with local DTD files](https://mohemiv.com/all/exploiting-xxe-with-local-dtd-files/) - Written by [Arseniy Sharoglazov](https://twitter.com/_mohemiv).
 - [Forcing XXE Reflection through Server Error Messages](https://blog.netspi.com/forcing-xxe-reflection-server-error-messages/) - Written by [Antti Rantasaari](https://blog.netspi.com/author/antti-rantasaari/).
 - [Pre-authentication XXE vulnerability in the Services Drupal module](https://www.synacktiv.com/ressources/synacktiv_drupal_xxe_services.pdf) - Written by [Renaud Dubourguais](https://twitter.com/_m0bius).
-- [What You Didn't Know About XML External Entities Attacks](https://2013.appsecusa.org/2013/wp-content/uploads/2013/12/WhatYouDidntKnowAboutXXEAttacks.pdf) - Written by [Timothy D. Morgan](https://twitter.com/ecbftw).
 - [XML Out-Of-Band Data Retrieval](https://media.blackhat.com/eu-13/briefings/Osipov/bh-eu-13-XML-data-osipov-slides.pdf) - Written by Timur Yunusov and Alexey Osipov.
 - [XXE in WeChat Pay Sdk ( WeChat leave a backdoor on merchant websites)](https://seclists.org/fulldisclosure/2018/Jul/3) - Written by [Rose Jackcode](https://twitter.com/codeshtool).
-- [XXE OOB exploitation at Java 1.7+ (2014)](http://lab.onsec.ru/2014/06/xxe-oob-exploitation-at-java-17.html) - Exfiltration using FTP protocol - Written by [Ivan Novikov](https://twitter.com/d0znpp/).
 - [XXE OOB extracting via HTTP+FTP using single opened port](https://skavans.ru/en/2017/12/02/xxe-oob-extracting-via-httpftp-using-single-opened-port/) - Written by [skavans](https://skavans.ru/).
 
 <a name="tricks-ssrf"></a>
@@ -514,7 +498,6 @@ Then ask any web-security question and the skill activates on topics like XSS, S
 
 - [A New Era of SSRF - Exploiting URL Parser in Trending Programming Languages!](https://www.blackhat.com/docs/us-17/thursday/us-17-Tsai-A-New-Era-Of-SSRF-Exploiting-URL-Parser-In-Trending-Programming-Languages.pdf) - Written by [Orange](https://blog.orange.tw/).
 - [SSRF in https://imgur.com/vidgif/url](https://hackerone.com/reports/115748) - Written by [aesteral](https://hackerone.com/aesteral).
-- [SSRF Tips](http://blog.safebuff.com/2016/07/03/SSRF-Tips/) - Written by [xl7dev](http://blog.safebuff.com/).
 - [PHP SSRF Techniques](https://medium.com/secjuice/php-ssrf-techniques-9d422cb28d51) - Written by [@themiddleblue](https://medium.com/@themiddleblue).
 - [SSRF in Exchange leads to ROOT access in all instances](https://hackerone.com/reports/341876) - Written by [@0xacb](https://twitter.com/0xacb).
 - [Into the Borg – SSRF inside Google production network](https://opnsec.com/2018/07/into-the-borg-ssrf-inside-google-production-network/) - Written by [opnsec](https://opnsec.com/).
@@ -544,12 +527,8 @@ Then ask any web-security question and the skill activates on topics like XSS, S
 <a name="tricks-deserialization"></a>
 ### Deserialization
 
-- [ASP.NET resource files (.RESX) and deserialisation issues](https://www.nccgroup.trust/uk/about-us/newsroom-and-events/blogs/2018/august/aspnet-resource-files-resx-and-deserialisation-issues/) - Written by [@irsdl](https://twitter.com/irsdl).
-
 <a name="tricks-oauth"></a>
 ### OAuth
-
-- [Facebook OAuth Framework Vulnerability](https://www.amolbaikar.com/facebook-oauth-framework-vulnerability/) - Written by [@AmolBaikar](https://twitter.com/AmolBaikar).
 
 <a name="tricks-others"></a>
 ### Others
@@ -565,7 +544,6 @@ Then ask any web-security question and the skill activates on topics like XSS, S
 
 - [IE11 Information disclosure - local file detection](https://www.facebook.com/ExploitWareLabs/photos/a.361854183878462.84544.338832389513975/1378579648872572/?type=3&theater) - Written by James Lee.
 - [JSON hijacking for the modern web](https://blog.portswigger.net/2016/11/json-hijacking-for-modern-web.html) - Written by [portswigger](https://portswigger.net/).
-- [SOP bypass / UXSS – Stealing Credentials Pretty Fast (Edge)](https://www.brokenbrowser.com/sop-bypass-uxss-stealing-credentials-pretty-fast/) - Written by [Manuel](https://twitter.com/magicmac2000).
 - [Особенности Safari в client-side атаках](https://bo0om.ru/safari-client-side) - Written by [Bo0oM](https://bo0om.ru/author/admin).
 - [How do we Stop Spilling the Beans Across Origins?](https://docs.google.com/document/d/1cbL-X0kV_tQ5rL8XJ3lXkV-j0pt_CfTu5ZSzYrncPDc/) - Written by [aaj at google.com](mailto:aaj@google.com) and [mkwst at google.com](mailto:mkwst@google.com).
 - [Setting arbitrary request headers in Chromium via CRLF injection](https://blog.bentkowski.info/2018/06/setting-arbitrary-request-headers-in.html) - Written by [Michał Bentkowski](https://blog.bentkowski.info/).
@@ -575,20 +553,14 @@ Then ask any web-security question and the skill activates on topics like XSS, S
 - [The Cookie Monster in Your Browsers](https://speakerdeck.com/filedescriptor/the-cookie-monster-in-your-browsers) - Written by [@filedescriptor](https://twitter.com/filedescriptor).
 - [The world of Site Isolation and compromised renderer](https://speakerdeck.com/shhnjk/the-world-of-site-isolation-and-compromised-renderer) - Written by [@shhnjk](https://twitter.com/shhnjk).
 - [Sending arbitrary IPC messages via overriding Function.prototype.apply](https://hackerone.com/reports/188086) - Written by [@kinugawamasato](https://twitter.com/kinugawamasato).
-- [Take Advantage of Out-of-Scope Domains in Bug Bounty Programs](https://ahussam.me/Take-Advantage-of-Out-of-Scope-Domains-in-Bug-Bounty/) - Written by [@Abdulahhusam](https://twitter.com/Abdulahhusam).
 
 ### Backend (core of Browser implementation, and often refers to C or C++ part)
 
-- [Attacking JavaScript Engines - A case study of JavaScriptCore and CVE-2016-4622](https://www.phrack.org/papers/attacking_javascript_engines.html) - Written by [phrack@saelo.net](mailto:phrack@saelo.net).
-- [Exploiting a V8 OOB write.](https://halbecaf.com/2017/05/24/exploiting-a-v8-oob-write/) - Written by [@halbecaf](https://twitter.com/halbecaf).
 - [SSD Advisory – Chrome Turbofan Remote Code Execution](https://blogs.securiteam.com/index.php/archives/3379) - Written by [SecuriTeam Secure Disclosure (SSD)](https://blogs.securiteam.com/).
-- [Look Mom, I don't use Shellcode - Browser Exploitation Case Study for Internet Explorer 11](https://labs.bluefrostsecurity.de/files/Look_Mom_I_Dont_Use_Shellcode-WP.pdf) - Written by [@moritzj](https://twitter.com/moritzj).
 - [PUSHING WEBKIT'S BUTTONS WITH A MOBILE PWN2OWN EXPLOIT](https://www.zerodayinitiative.com/blog/2018/2/12/pushing-webkits-buttons-with-a-mobile-pwn2own-exploit) - Written by [@wanderingglitch](https://twitter.com/wanderingglitch).
 - [A Methodical Approach to Browser Exploitation](https://blog.ret2.io/2018/06/05/pwn2own-2018-exploit-development/) - Written by [RET2 SYSTEMS, INC](https://blog.ret2.io/).
 - [CVE-2017-2446 or JSC::JSGlobalObject::isHavingABadTime.](https://doar-e.github.io/blog/2018/07/14/cve-2017-2446-or-jscjsglobalobjectishavingabadtime/) - Written by [Diary of a reverse-engineer](https://doar-e.github.io/).
 - [Breaking UC Browser](https://habr.com/en/company/drweb/blog/452076/) - Written by [Доктор Веб](https://www.drweb.ru/).
-- [Three roads lead to Rome](http://blogs.360.cn/360safe/2016/11/29/three-roads-lead-to-rome-2/) - Written by [@holynop](https://twitter.com/holynop).
-- [CLEANLY ESCAPING THE CHROME SANDBOX](https://theori.io/research/escaping-chrome-sandbox) - Written by [@tjbecker_](https://twitter.com/tjbecker_).
 
 ## PoCs
 
@@ -649,7 +621,6 @@ Then ask any web-security question and the skill activates on topics like XSS, S
 - [Social Mapper ![GitHub Repo Stars](https://img.shields.io/github/stars/Greenwolf/social_mapper) ![GitHub last commit](https://img.shields.io/github/last-commit/Greenwolf/social_mapper)](https://github.com/Greenwolf/social_mapper) - Social Media Enumeration & Correlation Tool by [Jacob Wilkin (Greenwolf)](https://github.com/Greenwolf).
 - [Marshall Extensions ![GitHub Repo Stars](https://img.shields.io/github/stars/bad-antics/marshall-extensions) ![GitHub last commit](https://img.shields.io/github/last-commit/bad-antics/marshall-extensions)](https://github.com/bad-antics/marshall-extensions) - OSINT and security extensions for the Marshall privacy browser, providing reconnaissance and security-testing plugins by [@bad-antics](https://github.com/bad-antics).
 - [OpenBuckets](https://openbuckets.io/) - Search engine for misconfigured public cloud storage buckets across any provider.
-- [OSINT Projects](https://osintprojects.com) - Free web toolkit for WHOIS/RDAP, DNS, IP geolocation, SSL certificate inspection and Certificate Transparency subdomain discovery.
 
 <a name="tools-sub-domain-enumeration"></a>
 #### Sub Domain Enumeration
@@ -688,11 +659,9 @@ Then ask any web-security question and the skill activates on topics like XSS, S
 
 - [JoomlaScan ![GitHub Repo Stars](https://img.shields.io/github/stars/drego85/JoomlaScan) ![GitHub last commit](https://img.shields.io/github/last-commit/drego85/JoomlaScan)](https://github.com/drego85/JoomlaScan) - Free software to find the components installed in Joomla CMS, built out of the ashes of Joomscan by [@drego85](https://github.com/drego85).
 - [wpscan ![GitHub Repo Stars](https://img.shields.io/github/stars/wpscanteam/wpscan) ![GitHub last commit](https://img.shields.io/github/last-commit/wpscanteam/wpscan)](https://github.com/wpscanteam/wpscan) - WPScan is a black box WordPress vulnerability scanner by [@wpscanteam](https://github.com/wpscanteam).
-- [WAScan ![GitHub Repo Stars](https://img.shields.io/github/stars/m4ll0k/WAScan) ![GitHub last commit](https://img.shields.io/github/last-commit/m4ll0k/WAScan)](https://github.com/m4ll0k/WAScan) - Is an open source web application security scanner that uses "black-box" method, created by [@m4ll0k](https://github.com/m4ll0k).
 - [Nuclei ![GitHub Repo Stars](https://img.shields.io/github/stars/projectdiscovery/nuclei) ![GitHub last commit](https://img.shields.io/github/last-commit/projectdiscovery/nuclei)](https://github.com/projectdiscovery/nuclei) - Nuclei is a fast tool for configurable targeted scanning based on templates offering massive extensibility and ease of use by [@projectdiscovery](https://github.com/projectdiscovery).
 - [Vigolium ![GitHub Repo Stars](https://img.shields.io/github/stars/vigolium/vigolium) ![GitHub last commit](https://img.shields.io/github/last-commit/vigolium/vigolium)](https://github.com/vigolium/vigolium) - High-fidelity vulnerability scanner fusing agentic AI with native speed, modularity, and precision, maintained by [@j3ssie](https://github.com/j3ssie).
 - [ZAP by Checkmarx](https://zaproxy.org) - Open-source web application security scanner maintained by the ZAP Core Team.
-- [Fray ![GitHub Repo Stars](https://img.shields.io/github/stars/dalisecurity/fray) ![GitHub last commit](https://img.shields.io/github/last-commit/dalisecurity/fray)](https://github.com/dalisecurity/fray) - Open-source WAF bypass and security-testing toolkit with 6,300+ payloads across OWASP categories, AI-assisted evasion engine, 27-check reconnaissance pipeline, and OWASP hardening audit, by [@dalisecurity](https://github.com/dalisecurity).
 - [Trust Scan ![GitHub Repo Stars](https://img.shields.io/github/stars/undeadlist/trust-scan) ![GitHub last commit](https://img.shields.io/github/last-commit/undeadlist/trust-scan)](https://github.com/undeadlist/trust-scan) - URL security scanner combining threat intelligence (URLhaus, PhishTank, Spamhaus) with 40+ scam and phishing pattern detection by [@undeadlist](https://github.com/undeadlist).
 - [ZeroTrust ![GitHub Repo Stars](https://img.shields.io/github/stars/sattyamjjain/zerotrust) ![GitHub last commit](https://img.shields.io/github/last-commit/sattyamjjain/zerotrust)](https://github.com/sattyamjjain/zerotrust) - Privacy-first Chrome extension that analyzes website security locally with on-device AI (WebGPU), producing trust scores from HTTPS, phishing, malicious-script, and cookie-compliance signals, by [@sattyamjjain](https://github.com/sattyamjjain).
 - [SecuriTool](https://securitool.js.org/) - Free online collection of 29 client-side web security tools: web auditor, JWT attacker/decoder, CVE search, CSP evaluator, email security checker (SPF/DKIM/DMARC), subdomain scanner, and more. 100% client-side, privacy-first, open source by [@ReplikanteK](https://github.com/ReplikanteK).
@@ -743,8 +712,6 @@ Then ask any web-security question and the skill activates on topics like XSS, S
 
 <a name="tools-ssrf"></a>
 #### Server-Side Request Forgery
-
-- [Open redirect/SSRF payload generator](https://tools.intigriti.io/redirector/) - Open redirect/SSRF payload generator by [intigriti](https://www.intigriti.com/).
 
 <a name="tools-leaking"></a>
 ### Leaking
@@ -830,7 +797,6 @@ Then ask any web-security question and the skill activates on topics like XSS, S
 ### Others
 
 - [CyberChef ![GitHub Repo Stars](https://img.shields.io/github/stars/gchq/CyberChef) ![GitHub last commit](https://img.shields.io/github/last-commit/gchq/CyberChef)](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis - by [@GCHQ](https://github.com/gchq).
-- [Dnslogger](https://wiki.skullsecurity.org/index.php?title=Dnslogger) - DNS Logger by [@iagox86](https://github.com/iagox86).
 - [cefdebug ![GitHub Repo Stars](https://img.shields.io/github/stars/taviso/cefdebug) ![GitHub last commit](https://img.shields.io/github/last-commit/taviso/cefdebug)](https://github.com/taviso/cefdebug) - Minimal code to connect to a CEF debugger by [@taviso](https://github.com/taviso).
 - [ctftool ![GitHub Repo Stars](https://img.shields.io/github/stars/taviso/ctftool) ![GitHub last commit](https://img.shields.io/github/last-commit/taviso/ctftool)](https://github.com/taviso/ctftool) - Interactive CTF Exploration Tool by [@taviso](https://github.com/taviso).
 - [ntlm_challenger ![GitHub Repo Stars](https://img.shields.io/github/stars/b17zr/ntlm_challenger) ![GitHub last commit](https://img.shields.io/github/last-commit/b17zr/ntlm_challenger)](https://github.com/b17zr/ntlm_challenger) - Parse NTLM over HTTP challenge messages by [@b17zr](https://github.com/b17zr).
@@ -878,6 +844,8 @@ Then ask any web-security question and the skill activates on topics like XSS, S
 - [Portswigger Web Security Academy](https://portswigger.net/web-security) - Free trainings and labs - Written by [PortSwigger](https://portswigger.net/).
 - [OopsSec Store ![GitHub Repo Stars](https://img.shields.io/github/stars/kOaDT/oss-oopssec-store) ![GitHub last commit](https://img.shields.io/github/last-commit/kOaDT/oss-oopssec-store)](https://github.com/kOaDT/oss-oopssec-store) - Intentionally vulnerable e-commerce application built with Next.js - Written by [@kOaDT](https://github.com/kOaDT).
 - [The Next.js security-headers pitfall](https://poszo.com/security/nextjs-headers-pitfall) - Shows how a correct-looking Next.js headers() block can overwrite route-specific rules or differ from final CDN responses, with an inventory, merge, preview, deployed-route verification, and rollback workflow.
+- [Where the LLM Stops: Deterministic Scoring in an AI-Assisted VAPT Pipeline](https://aayushyadav.hashnode.dev/where-the-llm-stops-deterministic-scoring-in-an-ai-assisted-vapt-pipeline) - Technical write-up on designing an AI-assisted VAPT pipeline with deterministic CVSS scoring, passive confidence verification, and LLM-generated vulnerability explanations and remediation.
+- [The 200 That Proved Nothing](https://aivist.dev/the-200-that-proved-nothing) - Why a 200 OK is not proof of an access-control bug: a seeded BOLA benchmark where a model asked to confirm a secure endpoint 79 times and a downgrade-only code gate refused every one, plus the similarity thresholds, a deterministic check that failed the same way, and a plausible fix measured and rejected for making results worse.
 
 <a name="practices-aws"></a>
 ### AWS
@@ -905,7 +873,7 @@ Then ask any web-security question and the skill activates on topics like XSS, S
 
 ## Miscellaneous
 
-- [A glimpse into GitHub's Bug Bounty workflow](https://githubengineering.com/githubs-bug-bounty-workflow/) - Written by [@gregose](https://github.com/gregose).
+- [A glimpse into GitHub's Bug Bounty workflow](https://github.blog/2017-02-22-githubs-bug-bounty-workflow/) - Written by [@gregose](https://github.com/gregose).
 - [awesome-bug-bounty ![GitHub Repo Stars](https://img.shields.io/github/stars/djadmin/awesome-bug-bounty) ![GitHub last commit](https://img.shields.io/github/last-commit/djadmin/awesome-bug-bounty)](https://github.com/djadmin/awesome-bug-bounty) - Comprehensive curated list of available Bug Bounty & Disclosure Programs and write-ups by [@djadmin](https://github.com/djadmin).
 - [Brute Forcing Your Facebook Email and Phone Number](https://pwndizzle.blogspot.jp/2014/02/brute-forcing-your-facebook-email-and.html) - Written by [PwnDizzle](https://pwndizzle.blogspot.jp/).
 - [bug-bounty-reference ![GitHub Repo Stars](https://img.shields.io/github/stars/ngalongc/bug-bounty-reference) ![GitHub last commit](https://img.shields.io/github/last-commit/ngalongc/bug-bounty-reference)](https://github.com/ngalongc/bug-bounty-reference) - List of bug bounty write-up that is categorized by the bug nature by [@ngalongc](https://github.com/ngalongc).
@@ -923,7 +891,6 @@ Then ask any web-security question and the skill activates on topics like XSS, S
 - [TL:DR: VPN leaks users’ IPs via WebRTC. I’ve tested seventy VPN providers and 16 of them leaks users’ IPs via WebRTC (23%)](https://voidsec.com/vpn-leak/) - Written by [voidsec](https://voidsec.com/).
 - [Be careful what you copy: Invisibly inserting usernames into text with Zero-Width Characters](https://medium.com/@umpox/be-careful-what-you-copy-invisibly-inserting-usernames-into-text-with-zero-width-characters-18b4e6f17b66) - Written by [@umpox](https://medium.com/@umpox).
 - [Escape and Evasion Egressing Restricted Networks](https://www.optiv.com/blog/escape-and-evasion-egressing-restricted-networks) - Written by [Chris Patten, Tom Steele](mailto:info@optiv.com).
-- [Domato Fuzzer's Generation Engine Internals](https://www.sigpwn.io/blog/2018/4/14/domato-fuzzers-generation-engine-internals) - Written by [sigpwn](https://www.sigpwn.io/).
 - [CSS Is So Overpowered It Can Deanonymize Facebook Users](https://www.evonide.com/side-channel-attacking-browsers-through-css3-features/) - Written by [Ruslan Habalov](https://www.evonide.com/).
 - [Introduction to Web Application Security](https://www.slideshare.net/nragupathy/introduction-to-web-application-security-blackhoodie-us-2018) - Written by [@itsC0rg1](https://twitter.com/itsC0rg1), [@jmkeads](https://twitter.com/jmkeads) and [@matir](https://twitter.com/matir).
 - [Finding The Real Origin IPs Hiding Behind CloudFlare or TOR](https://www.secjuice.com/finding-real-ips-of-origin-servers-behind-cloudflare-or-tor/) - Written by [Paul Dannewitz](https://www.secjuice.com/author/paul-dannewitz/).
