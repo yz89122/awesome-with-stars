@@ -1319,7 +1319,6 @@ _Packages for accounting and finance._
 _Libraries for working with forms._
 
 - [bind ![GitHub Repo Stars](https://img.shields.io/github/stars/robfig/bind) ![GitHub last commit](https://img.shields.io/github/last-commit/robfig/bind)](https://github.com/robfig/bind) - Bind form data to any Go values.
-- [checker ![GitHub Repo Stars](https://img.shields.io/github/stars/cinar/checker) ![GitHub last commit](https://img.shields.io/github/last-commit/cinar/checker)](https://github.com/cinar/checker) - Checker helps validating user input through rules defined in struct tags or directly through functions.
 - [conform ![GitHub Repo Stars](https://img.shields.io/github/stars/leebenson/conform) ![GitHub last commit](https://img.shields.io/github/last-commit/leebenson/conform)](https://github.com/leebenson/conform) - Keeps user input in check. Trims, sanitizes & scrubs data based on struct tags.
 - [form ![GitHub Repo Stars](https://img.shields.io/github/stars/go-playground/form) ![GitHub last commit](https://img.shields.io/github/last-commit/go-playground/form)](https://github.com/go-playground/form) - Decodes url.Values into Go value(s) and Encodes Go value(s) into url.Values. Dual Array and Full map support.
 - [formam ![GitHub Repo Stars](https://img.shields.io/github/stars/monoculum/formam) ![GitHub last commit](https://img.shields.io/github/last-commit/monoculum/formam)](https://github.com/monoculum/formam) - decode form's values into a struct.
@@ -2552,6 +2551,7 @@ _Libraries and tools for binary serialization._
 
 - [algernon ![GitHub Repo Stars](https://img.shields.io/github/stars/xyproto/algernon) ![GitHub last commit](https://img.shields.io/github/last-commit/xyproto/algernon)](https://github.com/xyproto/algernon) - HTTP/2 web server with built-in support for Lua, Markdown, GCSS and Amber.
 - [Caddy ![GitHub Repo Stars](https://img.shields.io/github/stars/caddyserver/caddy) ![GitHub last commit](https://img.shields.io/github/last-commit/caddyserver/caddy)](https://github.com/caddyserver/caddy) - Caddy is an alternative, HTTP/2 web server that's easy to configure and use.
+- [Casdoor ![GitHub Repo Stars](https://img.shields.io/github/stars/casdoor/casdoor) ![GitHub last commit](https://img.shields.io/github/last-commit/casdoor/casdoor)](https://github.com/casdoor/casdoor) - Identity and access management (IAM) and single sign-on (SSO) server with a web UI, supporting OAuth 2.0, OIDC, SAML, CAS and LDAP.
 - [consul](https://www.consul.io/) - Consul is a tool for service discovery, monitoring and configuration.
 - [cortex-tenant ![GitHub Repo Stars](https://img.shields.io/github/stars/blind-oracle/cortex-tenant) ![GitHub last commit](https://img.shields.io/github/last-commit/blind-oracle/cortex-tenant)](https://github.com/blind-oracle/cortex-tenant) - Prometheus remote write proxy that adds add Cortex tenant ID header based on metric labels.
 - [devd ![GitHub Repo Stars](https://img.shields.io/github/stars/cortesi/devd) ![GitHub last commit](https://img.shields.io/github/last-commit/cortesi/devd)](https://github.com/cortesi/devd) - Local webserver for developers.
@@ -3208,6 +3208,7 @@ _Libraries for working with UUIDs._
 _Libraries for validation._
 
 - [checkdigit ![GitHub Repo Stars](https://img.shields.io/github/stars/osamingo/checkdigit) ![GitHub last commit](https://img.shields.io/github/last-commit/osamingo/checkdigit)](https://github.com/osamingo/checkdigit) - Provide check digit algorithms (Luhn, Verhoeff, Damm) and calculators (ISBN, EAN, JAN, UPC, etc.).
+- [checker ![GitHub Repo Stars](https://img.shields.io/github/stars/cinar/checker) ![GitHub last commit](https://img.shields.io/github/last-commit/cinar/checker)](https://github.com/cinar/checker) - Zero-dependency input validation and in-place normalization with struct tags, 23 locales, and JSON Schema generation.
 - [go-validator ![GitHub Repo Stars](https://img.shields.io/github/stars/tiendc/go-validator) ![GitHub last commit](https://img.shields.io/github/last-commit/tiendc/go-validator)](https://github.com/tiendc/go-validator) - Validation library using Generics.
 - [gody ![GitHub Repo Stars](https://img.shields.io/github/stars/guiferpa/gody) ![GitHub last commit](https://img.shields.io/github/last-commit/guiferpa/gody)](https://github.com/guiferpa/gody) - :balloon: A lightweight struct validator for Go.
 - [govalid ![GitHub Repo Stars](https://img.shields.io/github/stars/twharmon/govalid) ![GitHub last commit](https://img.shields.io/github/last-commit/twharmon/govalid)](https://github.com/twharmon/govalid) - Fast, tag-based validation for structs.
