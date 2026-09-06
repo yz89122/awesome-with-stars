@@ -129,6 +129,7 @@ _UI frameworks for mobile._
 - [Svelte Native](https://svelte-native.technology/) - Svelte controlling native components via Nativescript.
 - [Framework7](https://framework7.io/svelte/) - Full featured HTML framework for building iOS & Android apps.
 - [Capacitor](https://capacitorjs.com/solution/svelte) - Build native mobile apps with web technology and Svelte.
+- [Capgo](https://capgo.app) - Live updates / OTA for Capacitor apps.
 
 ## State Libraries
 
@@ -165,6 +166,7 @@ _UI frameworks for mobile._
 - [retroui-svelte](https://retroui-svelte.netlify.app) - A retro-styled component library for Svelte built on top of shadcn-svelte, offering 40+ customizable UI components for funky and playful interfaces.
 - [svelte-audio-ui](https://svelte-audio-ui.vercel.app) - A set of accessible and composable Audio UI components. Built on top of shadcn-svelte, inspired by audio-ui, it's designed for you to copy, paste, and own.
 - [AgentsKit ![GitHub Repo Stars](https://img.shields.io/github/stars/AgentsKit-io/agentskit) ![GitHub last commit](https://img.shields.io/github/last-commit/AgentsKit-io/agentskit)](https://github.com/AgentsKit-io/agentskit) - Headless chat and agent components plus a store for building AI apps in Svelte, with a framework-agnostic core supporting streaming, tools, memory and RAG.
+- [human-kit](https://ui.human-kit.com) - Headless, accessible UI primitives for Svelte 5 - ARIA semantics, keyboard interaction and focus management included, styling left entirely to you.
 
 ## UI Components
 
@@ -255,9 +257,11 @@ _Display non-editable events in a calendar._
 - [svelte-speedometer ![GitHub Repo Stars](https://img.shields.io/github/stars/palerdot/svelte-speedometer) ![GitHub last commit](https://img.shields.io/github/last-commit/palerdot/svelte-speedometer)](https://github.com/palerdot/svelte-speedometer) - Svelte component for showing speedometer like gauge using d3.
 - [embedz ![GitHub Repo Stars](https://img.shields.io/github/stars/embedz/embedz) ![GitHub last commit](https://img.shields.io/github/last-commit/embedz/embedz)](https://github.com/embedz/embedz) - Easy, dependency free embeds for Svelte and Vue.
 - [EmbedPDF](https://www.embedpdf.com/docs/svelte/introduction) - A modular, high-performance PDF viewer and editor built for Svelte, powered by PDFium. Fully extensible with plugins for annotations, redaction, thumbnails, and more.
+- [File Viewer ![GitHub Repo Stars](https://img.shields.io/github/stars/flyfish-dev/file-viewer) ![GitHub last commit](https://img.shields.io/github/last-commit/flyfish-dev/file-viewer)](https://github.com/flyfish-dev/file-viewer/tree/main/packages/components/svelte) - An offline-first Svelte component that previews 206 file extensions with lazy renderer presets and no server-side conversion.
 - [Edra](https://edra.tsuzat.com) - Best Rich Text Editor, made for Svelte Developers with Tiptap.
 - [svelte-streamdown ![GitHub Repo Stars](https://img.shields.io/github/stars/beynar/svelte-streamdown) ![GitHub last commit](https://img.shields.io/github/last-commit/beynar/svelte-streamdown)](https://github.com/beynar/svelte-streamdown) - Port of [streamdown](https://streamdown.ai/). An all in one markdown renderer optimized for streaming with built in styles, math, mermaid, code highlighting support and more.
 - [svelte-bash ![GitHub Repo Stars](https://img.shields.io/github/stars/YusufCeng1z/svelte-bash) ![GitHub last commit](https://img.shields.io/github/last-commit/YusufCeng1z/svelte-bash)](https://github.com/YusufCeng1z/svelte-bash) - A customizable terminal-style component for Svelte 5.
+- [crd-ui ![GitHub Repo Stars](https://img.shields.io/github/stars/JuandaGarcia/crd-ui) ![GitHub last commit](https://img.shields.io/github/last-commit/JuandaGarcia/crd-ui)](https://github.com/JuandaGarcia/crd-ui) - Credit and debit card visualization for payment forms and saved-card views, with live brand detection and a 3D flip.
 
 ## Scaffold
 
@@ -266,11 +270,13 @@ _Templates / boilerplate / starter kits / stack ensemble / Yeoman generator._
 - [create-vite ![GitHub Repo Stars](https://img.shields.io/github/stars/vitejs/vite) ![GitHub last commit](https://img.shields.io/github/last-commit/vitejs/vite)](https://github.com/vitejs/vite/tree/main/packages/create-vite#readme) - Generates scaffold for a vite + svelte app.
 - [create-svelte ![GitHub Repo Stars](https://img.shields.io/github/stars/sveltejs/kit) ![GitHub last commit](https://img.shields.io/github/last-commit/sveltejs/kit)](https://github.com/sveltejs/kit/tree/master/packages/create-svelte#readme) - A CLI for creating a new SvelteKit project.
 - [saasstarter ![GitHub Repo Stars](https://img.shields.io/github/stars/CriticalMoments/CMSaasStarter) ![GitHub last commit](https://img.shields.io/github/last-commit/CriticalMoments/CMSaasStarter)](https://github.com/CriticalMoments/CMSaasStarter) - A open source, fast, and free to host Svelte SaaS template.
+- [Product Plate ![GitHub Repo Stars](https://img.shields.io/github/stars/rodrgds/productplate) ![GitHub last commit](https://img.shields.io/github/last-commit/rodrgds/productplate)](https://github.com/rodrgds/productplate) - An open-source SvelteKit + Convex starter for building SaaS products.
 - [svelte-pwa-template ![GitHub Repo Stars](https://img.shields.io/github/stars/tretapey/svelte-pwa) ![GitHub last commit](https://img.shields.io/github/last-commit/tretapey/svelte-pwa)](https://github.com/tretapey/svelte-pwa) - A starter template for PWAs based in the official Template. _(pre-v5)_
 - [vite-svelte-docker-template ![GitHub Repo Stars](https://img.shields.io/github/stars/bavragor/vite-svelte-docker-template) ![GitHub last commit](https://img.shields.io/github/last-commit/bavragor/vite-svelte-docker-template)](https://github.com/bavragor/vite-svelte-docker-template) - Template for Svelte + Docker + Vite + Vitest.
 - [svelte-docs-starter ![GitHub Repo Stars](https://img.shields.io/github/stars/code-gio/svelte-docs-starter) ![GitHub last commit](https://img.shields.io/github/last-commit/code-gio/svelte-docs-starter)](https://github.com/code-gio/svelte-docs-starter) - A modern documentation template built with Svelte 5, MDSvex, and Tailwind CSS.
 - [template-svelte ![GitHub Repo Stars](https://img.shields.io/github/stars/phaserjs/template-svelte) ![GitHub last commit](https://img.shields.io/github/last-commit/phaserjs/template-svelte)](https://github.com/phaserjs/template-svelte) - An official quickstart template with Phaser.
 - [generic-app-template ![GitHub Repo Stars](https://img.shields.io/github/stars/GantonL/templates) ![GitHub last commit](https://img.shields.io/github/last-commit/GantonL/templates)](https://github.com/GantonL/templates/tree/main/sveltekit-shadcn-v5) - A open-source modern full-stack web application template built with SvelteKit + shadcn-svelte. Supports i18n, theming, cookie managment, SEO management, static content with mdsvex, a shell component and more.
+- [microfolio ![GitHub Repo Stars](https://img.shields.io/github/stars/aker-dev/microfolio) ![GitHub last commit](https://img.shields.io/github/last-commit/aker-dev/microfolio)](https://github.com/aker-dev/microfolio) - A static portfolio generator for creatives built with SvelteKit and Tailwind CSS 4, where content is just folders and Markdown files instead of a database, with interactive maps, EXIF metadata extraction and no tracking.
 
 ## Utilities
 
@@ -309,6 +315,7 @@ _Individual form components._
 - [sswr ![GitHub Repo Stars](https://img.shields.io/github/stars/ConsoleTVs/sswr) ![GitHub last commit](https://img.shields.io/github/last-commit/ConsoleTVs/sswr)](https://github.com/ConsoleTVs/sswr) - Svelte stale while revalidate (SWR) data fetching strategy.
 - [svelte-query](https://sveltequery.vercel.app/) - Fetch, cache and update data in your Svelte applications all without touching any "global state".
 - [tanstack-svelte-query](https://tanstack.com/query/latest/docs/svelte/overview) - Framework agnostic type-safe query and mutation library for Svelte.
+- [@stitchapi/svelte ![GitHub Repo Stars](https://img.shields.io/github/stars/rejifald/StitchAPI) ![GitHub last commit](https://img.shields.io/github/last-commit/rejifald/StitchAPI)](https://github.com/rejifald/StitchAPI/tree/main/packages/svelte) - Streaming-first StitchAPI bindings: typed, validated `stitchStore` / `stitchStreamStore` Svelte stores that re-render as response deltas arrive.
 
 ### Sound & Video
 
@@ -358,6 +365,7 @@ _For Single Page Applications (SPAs) and more._
 - [svelte5-router ![GitHub Repo Stars](https://img.shields.io/github/stars/mateothegreat/svelte5-router) ![GitHub last commit](https://img.shields.io/github/last-commit/mateothegreat/svelte5-router)](https://github.com/mateothegreat/svelte5-router) - First Svelte 5 SPA router with nesting, hooks, and more.. Use components, snippets, or both!
 - [@wjfe/n-savant ![GitHub Repo Stars](https://img.shields.io/github/stars/WJSoftware/wjfe-n-savant) ![GitHub last commit](https://img.shields.io/github/last-commit/WJSoftware/wjfe-n-savant)](https://github.com/WJSoftware/wjfe-n-savant) - Fast, reactive router with always-on path and hash routing, and the router that invented multi-hash routing.
 - [sv-router ![GitHub Repo Stars](https://img.shields.io/github/stars/colinlienard/sv-router) ![GitHub last commit](https://img.shields.io/github/last-commit/colinlienard/sv-router)](https://github.com/colinlienard/sv-router) - Type-safe SPA router with file-based or code-based routing.
+- [ufbr ![GitHub Repo Stars](https://img.shields.io/github/stars/zakarialaoui10/ufbr) ![GitHub last commit](https://img.shields.io/github/last-commit/zakarialaoui10/ufbr)](https://github.com/zakarialaoui10/ufbr) - An Universal File Based Router with Svelte support.
 
 ## Frameworks
 
@@ -417,3 +425,4 @@ _Text editor plugins._
 
 - [Oxide-Lab ![GitHub Repo Stars](https://img.shields.io/github/stars/FerrisMind/oxide-lab) ![GitHub last commit](https://img.shields.io/github/last-commit/FerrisMind/oxide-lab)](https://github.com/FerrisMind/oxide-lab) - Privacy-focused local LLM chat application built with Svelte 5 frontend and Rust backend using the `candle` ML framework.
 - [Zephyr ![GitHub Repo Stars](https://img.shields.io/github/stars/Prismo-Studio/Zephyr) ![GitHub last commit](https://img.shields.io/github/last-commit/Prismo-Studio/Zephyr)](https://github.com/Prismo-Studio/Zephyr) - Open-source mod manager for PC games with built-in Archipelago multiworld randomizer support, built with Svelte 5 and Tauri 2.
+- [PR Cockpit ![GitHub Repo Stars](https://img.shields.io/github/stars/theolundqvist/pr-cockpit) ![GitHub last commit](https://img.shields.io/github/last-commit/theolundqvist/pr-cockpit)](https://github.com/theolundqvist/pr-cockpit) - An extremely fast GitHub for reviewing pull requests: PRs open in about 20 ms. Keyboard-first, with a CLI for coding agents. Svelte 5 runes UI over a Bun server.
