@@ -436,6 +436,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 * [CatBoost ![GitHub Repo Stars](https://img.shields.io/github/stars/catboost/catboost) ![GitHub last commit](https://img.shields.io/github/last-commit/catboost/catboost)](https://github.com/catboost/catboost)
 * [PerpetualBooster ![GitHub Repo Stars](https://img.shields.io/github/stars/perpetual-ml/perpetual) ![GitHub last commit](https://img.shields.io/github/last-commit/perpetual-ml/perpetual)](https://github.com/perpetual-ml/perpetual)
 * [JAX ![GitHub Repo Stars](https://img.shields.io/github/stars/google/jax) ![GitHub last commit](https://img.shields.io/github/last-commit/google/jax)](https://github.com/google/jax)
+* [PhilanthroPy ![GitHub Repo Stars](https://img.shields.io/github/stars/PhilanthroPy-Project/PhilanthroPy) ![GitHub last commit](https://img.shields.io/github/last-commit/PhilanthroPy-Project/PhilanthroPy)](https://github.com/PhilanthroPy-Project/PhilanthroPy) - Scikit-learn native toolkit for nonprofit fundraising analytics: leakage-safe donor propensity, lapse, planned-giving, wealth-screening and revenue-forecasting estimators.
 
 
 
