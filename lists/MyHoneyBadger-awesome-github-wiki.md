@@ -24,6 +24,7 @@ Wiki should be detail, up to date and well structured. It should be easy to find
 - [internetarchive/openlibrary ![GitHub Repo Stars](https://img.shields.io/github/stars/internetarchive/openlibrary) ![GitHub last commit](https://img.shields.io/github/last-commit/internetarchive/openlibrary)](https://github.com/internetarchive/openlibrary/wiki)
 - [JustArchiNET/ArchiSteamFarm ![GitHub Repo Stars](https://img.shields.io/github/stars/JustArchiNET/ArchiSteamFarm) ![GitHub last commit](https://img.shields.io/github/last-commit/JustArchiNET/ArchiSteamFarm)](https://github.com/JustArchiNET/ArchiSteamFarm/wiki)
 - [GyulyVGC/sniffnet ![GitHub Repo Stars](https://img.shields.io/github/stars/GyulyVGC/sniffnet) ![GitHub last commit](https://img.shields.io/github/last-commit/GyulyVGC/sniffnet)](https://github.com/GyulyVGC/sniffnet/wiki)
+- [Isthimius/Gondwana ![GitHub Repo Stars](https://img.shields.io/github/stars/Isthimius/Gondwana) ![GitHub last commit](https://img.shields.io/github/last-commit/Isthimius/Gondwana)](https://github.com/Isthimius/Gondwana/wiki)
 
 ## Useful links with tips & tricks
 - [What is a GitHub Wiki and How Do You Use it?](https://www.freecodecamp.org/news/what-is-github-wiki-and-how-do-you-use-it/)
