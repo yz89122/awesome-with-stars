@@ -556,7 +556,7 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 - [juniorsundar/refer.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/juniorsundar/refer.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/juniorsundar/refer.nvim)](https://github.com/juniorsundar/refer.nvim) - A minimalist picker that doesn't get in your way.
 - [dtormoen/neural-open.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/dtormoen/neural-open.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/dtormoen/neural-open.nvim)](https://github.com/dtormoen/neural-open.nvim) - Intelligent `snacks.nvim` picker that teaches a neural network to rank files by what you're most likely to open next.
 <!--lint disable double-link -->
-[**�� back to top**](#contents)
+[**⬆ back to top**](#contents)
 <!--lint enable double-link -->
 
 ## File Explorer
@@ -1303,6 +1303,7 @@ then it is not supported:
 - [cosmicbuffalo/gem_install.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/cosmicbuffalo/gem_install.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/cosmicbuffalo/gem_install.nvim)](https://github.com/cosmicbuffalo/gem_install.nvim) - Install Ruby gems, trigger `bundle install` and `gem install` with progress and caching to prevent retries when installs fail.
 - [taigrr/glaze.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/taigrr/glaze.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/taigrr/glaze.nvim)](https://github.com/taigrr/glaze.nvim) - Centralized manager for Go binaries, with parallel installs, auto-update checking, and a Mason-style UI.
 - [jpease/hex-outdated.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/jpease/hex-outdated.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/jpease/hex-outdated.nvim)](https://github.com/jpease/hex-outdated.nvim) - Display latest Hex package version and status as virtual text in `mix.exs`.
+- [mm4cN/nvim-conan ![GitHub Repo Stars](https://img.shields.io/github/stars/mm4cN/nvim-conan) ![GitHub last commit](https://img.shields.io/github/last-commit/mm4cN/nvim-conan)](https://github.com/mm4cN/nvim-conan) - Conan 2 integration for managing profiles, packages, remotes, dependencies, and common C/C++ package workflows.
 <!--lint disable double-link -->
 [**⬆ back to top**](#contents)
 <!--lint enable double-link -->
