@@ -122,7 +122,7 @@ Security is one of the most central pillar of IAM foundations. Here are some bro
 
 - [Mitigating Cloud Vulnerabilities](https://web.archive.org/web/20250529050934/https://media.defense.gov/2020/Jan/22/2002237484/-1/-1/0/CSI-MITIGATING-CLOUD-VULNERABILITIES_20200121.PDF) - “This document divides cloud vulnerabilities into four classes (misconfiguration, poor access control, shared tenancy vulnerabilities, and supply chain vulnerabilities)”.
 
-- [Cartography ![GitHub Repo Stars](https://img.shields.io/github/stars/lyft/cartography) ![GitHub last commit](https://img.shields.io/github/last-commit/lyft/cartography)](https://github.com/lyft/cartography) - 🆓 A Neo4J-based tool to map out dependencies and relationships between services and resources. Supports AWS, GCP, GSuite, Okta and GitHub.
+- [Cartography ![GitHub Repo Stars](https://img.shields.io/github/stars/cartography-cncf/cartography) ![GitHub last commit](https://img.shields.io/github/last-commit/cartography-cncf/cartography)](https://github.com/cartography-cncf/cartography) - 🆓 A Neo4J-based tool to map out dependencies and relationships between services and resources. Supports AWS, GCP, GSuite, Okta and GitHub.
 
 - [Open guide to AWS Security and IAM ![GitHub Repo Stars](https://img.shields.io/github/stars/open-guides/og-aws) ![GitHub last commit](https://img.shields.io/github/last-commit/open-guides/og-aws)](https://github.com/open-guides/og-aws#security-and-iam)
 
@@ -214,11 +214,11 @@ The oldest scheme for auth.
 
 - [Banks, Arbitrary Password Restrictions and Why They Don't Matter](https://www.troyhunt.com/banks-arbitrary-password-restrictions-and-why-they-dont-matter/) - “Arbitrary low limits on length and character composition are bad. They look bad, they lead to negative speculation about security posture and they break tools like password managers.”
 
-- [Dumb Password Rules ![GitHub Repo Stars](https://img.shields.io/github/stars/dumb-password-rules/dumb-password-rules) ![GitHub last commit](https://img.shields.io/github/last-commit/dumb-password-rules/dumb-password-rules)](https://github.com/dumb-password-rules/dumb-password-rules) - 🆓 Shaming sites with dumb password rules.
+- [Dumb Password Rules ![GitHub Repo Stars](https://img.shields.io/github/stars/duffn/dumb-password-rules) ![GitHub last commit](https://img.shields.io/github/last-commit/duffn/dumb-password-rules)](https://github.com/duffn/dumb-password-rules) - 🆓 Shaming sites with dumb password rules.
 
 - [Password Manager Resources ![GitHub Repo Stars](https://img.shields.io/github/stars/apple/password-manager-resources) ![GitHub last commit](https://img.shields.io/github/last-commit/apple/password-manager-resources)](https://github.com/apple/password-manager-resources) - 🆓 A collection of password rules, change URLs and quirks by sites.
 
-- [A Well-Known URL for Changing Passwords ![GitHub Repo Stars](https://img.shields.io/github/stars/WICG/change-password-url) ![GitHub last commit](https://img.shields.io/github/last-commit/WICG/change-password-url)](https://github.com/WICG/change-password-url) - 🆓 Specification defining site resource for password updates.
+- [A Well-Known URL for Changing Passwords ![GitHub Repo Stars](https://img.shields.io/github/stars/w3c/webappsec-change-password-url) ![GitHub last commit](https://img.shields.io/github/last-commit/w3c/webappsec-change-password-url)](https://github.com/w3c/webappsec-change-password-url) - 🆓 Specification defining site resource for password updates.
 
 - [How to change the hashing scheme of already hashed user's passwords](https://news.ycombinator.com/item?id=20109360) - Good news: you're not stuck with a legacy password saving scheme. Here is a trick to transparently upgrade to stronger hashing algorithm.
 
@@ -356,7 +356,7 @@ As a concept, access control policies can be designed to follow very different a
 
 [Role-Based Access Control](https://en.wikipedia.org/wiki/Role-based_access_control) is the classical model to map users to permissions by the way of roles.
 
-- [Athenz ![GitHub Repo Stars](https://img.shields.io/github/stars/yahoo/athenz) ![GitHub last commit](https://img.shields.io/github/last-commit/yahoo/athenz)](https://github.com/yahoo/athenz) - 🆓 Set of services and libraries supporting service authentication and role-based authorization for provisioning and configuration.
+- [Athenz ![GitHub Repo Stars](https://img.shields.io/github/stars/AthenZ/athenz) ![GitHub last commit](https://img.shields.io/github/last-commit/AthenZ/athenz)](https://github.com/AthenZ/athenz) - 🆓 Set of services and libraries supporting service authentication and role-based authorization for provisioning and configuration.
 
 - [Biscuit](https://www.clever-cloud.com/blog/engineering/2021/04/12/introduction-to-biscuit/) - Merges concepts from cookies, JWTs, macaroons and Open Policy Agent. “It provide a logic language based on Datalog to write authorization policies. It can store data, like JWT, or small conditions like Macaroons, but it is also able to represent more complex rules like role-based access control, delegation, hierarchies.”
 
@@ -372,7 +372,7 @@ As a concept, access control policies can be designed to follow very different a
 
 - [Ladon ![GitHub Repo Stars](https://img.shields.io/github/stars/ory/ladon) ![GitHub last commit](https://img.shields.io/github/last-commit/ory/ladon)](https://github.com/ory/ladon) - 💸 Access control library, inspired by AWS.
 
-- [Casbin ![GitHub Repo Stars](https://img.shields.io/github/stars/casbin/casbin) ![GitHub last commit](https://img.shields.io/github/last-commit/casbin/casbin)](https://github.com/casbin/casbin) - 🆓 Open-source access control library for Golang projects.
+- [Casbin ![GitHub Repo Stars](https://img.shields.io/github/stars/apache/casbin) ![GitHub last commit](https://img.shields.io/github/last-commit/apache/casbin)](https://github.com/apache/casbin) - 🆓 Open-source access control library for Golang projects.
 
 - [Open Policy Agent ![GitHub Repo Stars](https://img.shields.io/github/stars/open-policy-agent/opa) ![GitHub last commit](https://img.shields.io/github/last-commit/open-policy-agent/opa)](https://github.com/open-policy-agent/opa) - 🆓 An open-source general-purpose decision engine to create and enforce ABAC policies.
 
@@ -492,9 +492,9 @@ Architectures, software and hardware allowing the storage and usage of secrets t
 
 - [Infisical ![GitHub Repo Stars](https://img.shields.io/github/stars/Infisical/infisical) ![GitHub last commit](https://img.shields.io/github/last-commit/Infisical/infisical)](https://github.com/Infisical/infisical) - 💸 An alternative to HashiCorp Vault.
 
-- [`sops` ![GitHub Repo Stars](https://img.shields.io/github/stars/mozilla/sops) ![GitHub last commit](https://img.shields.io/github/last-commit/mozilla/sops)](https://github.com/mozilla/sops) - 🆓 Editor of encrypted files that supports YAML, JSON, ENV, INI and BINARY formats and encrypts with AWS KMS, GCP KMS, Azure Key Vault, age, and PGP.
+- [`sops` ![GitHub Repo Stars](https://img.shields.io/github/stars/getsops/sops) ![GitHub last commit](https://img.shields.io/github/last-commit/getsops/sops)](https://github.com/getsops/sops) - 🆓 Editor of encrypted files that supports YAML, JSON, ENV, INI and BINARY formats and encrypts with AWS KMS, GCP KMS, Azure Key Vault, age, and PGP.
 
-- [`gitleaks` ![GitHub Repo Stars](https://img.shields.io/github/stars/zricethezav/gitleaks) ![GitHub last commit](https://img.shields.io/github/last-commit/zricethezav/gitleaks)](https://github.com/zricethezav/gitleaks) - 🆓 Audit Git repos for secrets.
+- [`gitleaks` ![GitHub Repo Stars](https://img.shields.io/github/stars/gitleaks/gitleaks) ![GitHub last commit](https://img.shields.io/github/last-commit/gitleaks/gitleaks)](https://github.com/gitleaks/gitleaks) - 🆓 Audit Git repos for secrets.
 
 - [`trufflehog` ![GitHub Repo Stars](https://img.shields.io/github/stars/trufflesecurity/trufflehog) ![GitHub last commit](https://img.shields.io/github/last-commit/trufflesecurity/trufflehog)](https://github.com/trufflesecurity/trufflehog) - 💸 Searches through Git repositories for high entropy strings and secrets, digging deep into commit history.
 
@@ -554,7 +554,7 @@ As an online service provider, you're exposed to fraud, crime and abuses. You'll
 
 - [Investigation into the Unusual Signups](https://openstreetmap.lu/MWGGlobalLogicReport20181226.pdf) - A really detailed analysis of suspicious contributor signups on OpenStreetMap. This beautiful and high-level report demonstrating an orchestrated and directed campaign might serve as a template for fraud reports.
 
-- [MIDAS: Detecting Microcluster Anomalies in Edge Streams ![GitHub Repo Stars](https://img.shields.io/github/stars/bhatiasiddharth/MIDAS) ![GitHub last commit](https://img.shields.io/github/last-commit/bhatiasiddharth/MIDAS)](https://github.com/bhatiasiddharth/MIDAS) - 🆓 A proposed method to “detects microcluster anomalies, or suddenly arriving groups of suspiciously similar edges, in edge streams, using constant time and memory.”
+- [MIDAS: Detecting Microcluster Anomalies in Edge Streams ![GitHub Repo Stars](https://img.shields.io/github/stars/Stream-AD/MIDAS) ![GitHub last commit](https://img.shields.io/github/last-commit/Stream-AD/MIDAS)](https://github.com/Stream-AD/MIDAS) - 🆓 A proposed method to “detects microcluster anomalies, or suddenly arriving groups of suspiciously similar edges, in edge streams, using constant time and memory.”
 
 - [Gephi ![GitHub Repo Stars](https://img.shields.io/github/stars/gephi/gephi) ![GitHub last commit](https://img.shields.io/github/last-commit/gephi/gephi)](https://github.com/gephi/gephi) - 🆓 Open-source platform for visualizing and manipulating large graphs.
 
@@ -642,7 +642,7 @@ Useful to identified clients, catch and block swarms of bots, and limit effects 
 
 ### Emails
 
-- [Burner email providers ![GitHub Repo Stars](https://img.shields.io/github/stars/wesbos/burner-email-providers) ![GitHub last commit](https://img.shields.io/github/last-commit/wesbos/burner-email-providers)](https://github.com/wesbos/burner-email-providers) - 🆓 A list of temporary email providers. And its [derivative Python module ![GitHub Repo Stars](https://img.shields.io/github/stars/martenson/disposable-email-domains) ![GitHub last commit](https://img.shields.io/github/last-commit/martenson/disposable-email-domains)](https://github.com/martenson/disposable-email-domains).
+- [Burner email providers ![GitHub Repo Stars](https://img.shields.io/github/stars/wesbos/burner-email-providers) ![GitHub last commit](https://img.shields.io/github/last-commit/wesbos/burner-email-providers)](https://github.com/wesbos/burner-email-providers) - 🆓 A list of temporary email providers. And its [derivative Python module ![GitHub Repo Stars](https://img.shields.io/github/stars/disposable-email-domains/disposable-email-domains) ![GitHub last commit](https://img.shields.io/github/last-commit/disposable-email-domains/disposable-email-domains)](https://github.com/disposable-email-domains/disposable-email-domains).
 
 - [MailChecker ![GitHub Repo Stars](https://img.shields.io/github/stars/FGRibreau/mailchecker) ![GitHub last commit](https://img.shields.io/github/last-commit/FGRibreau/mailchecker)](https://github.com/FGRibreau/mailchecker) - 💸 Cross-language temporary (disposable/throwaway) email detection library.
 
@@ -686,7 +686,7 @@ As a central repository of user data, the IAM stack stakeholders have to prevent
 
 - [Why differential privacy is awesome](https://desfontain.es/privacy/differential-privacy-awesomeness.html) - Explain the intuition behind [differential privacy](https://en.wikipedia.org/wiki/Differential_privacy), a theoretical framework which allow sharing of aggregated data without compromising confidentiality. See follow-up articles with [more details](https://desfontain.es/privacy/differential-privacy-in-more-detail.html) and [practical aspects](https://desfontain.es/privacy/differential-privacy-in-practice.html).
 
-- [Presidio ![GitHub Repo Stars](https://img.shields.io/github/stars/microsoft/presidio) ![GitHub last commit](https://img.shields.io/github/last-commit/microsoft/presidio)](https://github.com/microsoft/presidio) - 🆓 Context aware, pluggable and customizable data protection and PII data anonymization service for text and images.
+- [Presidio ![GitHub Repo Stars](https://img.shields.io/github/stars/data-privacy-stack/presidio) ![GitHub last commit](https://img.shields.io/github/last-commit/data-privacy-stack/presidio)](https://github.com/data-privacy-stack/presidio) - 🆓 Context aware, pluggable and customizable data protection and PII data anonymization service for text and images.
 
 ### GDPR
 
@@ -742,7 +742,7 @@ Keep track on the activity of open-source projects and companies operating in th
 
 - [163 AWS services explained in one line each](https://web.archive.org/web/20260301070017/https://adayinthelifeof.nl/2020/05/20/aws.html#discovering-aws) - Help makes sense of their huge service catalog. In the same spirit: [AWS In Plain English](https://expeditedsecurity.com/aws-in-plain-english/).
 
-- [Google Cloud Developer's Cheat Sheet ![GitHub Repo Stars](https://img.shields.io/github/stars/gregsramblings/google-cloud-4-words) ![GitHub last commit](https://img.shields.io/github/last-commit/gregsramblings/google-cloud-4-words)](https://github.com/gregsramblings/google-cloud-4-words#the-google-cloud-developers-cheat-sheet) - Describe all GCP products in 4 words or less.
+- [Google Cloud Developer's Cheat Sheet ![GitHub Repo Stars](https://img.shields.io/github/stars/priyankavergadia/google-cloud-4-words) ![GitHub last commit](https://img.shields.io/github/last-commit/priyankavergadia/google-cloud-4-words)](https://github.com/priyankavergadia/google-cloud-4-words#the-google-cloud-developers-cheat-sheet) - Describe all GCP products in 4 words or less.
 
 ## History
 
