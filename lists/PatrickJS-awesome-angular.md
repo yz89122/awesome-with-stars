@@ -1959,6 +1959,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-yet-another-toast-library ![GitHub Repo Stars](https://img.shields.io/github/stars/Zeeraa/ngx-yet-another-toast-library) ![GitHub last commit](https://img.shields.io/github/last-commit/Zeeraa/ngx-yet-another-toast-library)](https://github.com/Zeeraa/ngx-yet-another-toast-library) - A lightweight, signal-based Angular toast notification library with Bootstrap 5 color palette support.
 * [ngx-mat-toast ![GitHub Repo Stars](https://img.shields.io/github/stars/Robin-Bley/ngx-mat-toast) ![GitHub last commit](https://img.shields.io/github/last-commit/Robin-Bley/ngx-mat-toast)](https://github.com/Robin-Bley/ngx-mat-toast) - Angular toast notification library built on top of Angular Material `MatSnackBar`.
 * [ngx-retoast ![GitHub Repo Stars](https://img.shields.io/github/stars/EliasVal/ngx-retoast) ![GitHub last commit](https://img.shields.io/github/last-commit/EliasVal/ngx-retoast)](https://github.com/EliasVal/ngx-retoast) - A rewrite of the archived `ngx-toastr` library, designed for modern Angular applications.
+* [snackng ![GitHub Repo Stars](https://img.shields.io/github/stars/xgreymx/snackng) ![GitHub last commit](https://img.shields.io/github/last-commit/xgreymx/snackng)](https://github.com/xgreymx/snackng) - Toasts for Angular with a glass design, zero UI dependencies and CSS-variable theming.
 
 ### Onboarding and Product Tours
 
