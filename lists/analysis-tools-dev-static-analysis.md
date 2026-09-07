@@ -1580,7 +1580,7 @@ orchestration to ensure zero breaking changes. Specialized for React, Next.js, a
 
 - [Rev-dep ![GitHub Repo Stars](https://img.shields.io/github/stars/jayu/rev-dep) ![GitHub last commit](https://img.shields.io/github/last-commit/jayu/rev-dep)](https://github.com/jayu/rev-dep) — Dependency analysis and optimization toolkit for modern JavaScript and TypeScript projects. Trace imports, identify circular dependencies, find unused code, clean node modules.
 
-- [RIPS](https://www.ripstech.com) :copyright: ��� A static source code analyser for vulnerabilities in PHP scripts.
+- [RIPS](https://www.ripstech.com) :copyright: — A static source code analyser for vulnerabilities in PHP scripts.
 
 - [Roslyn Analyzers ![GitHub Repo Stars](https://img.shields.io/github/stars/dotnet/roslyn-analyzers) ![GitHub last commit](https://img.shields.io/github/last-commit/dotnet/roslyn-analyzers)](https://github.com/dotnet/roslyn-analyzers) — Roslyn-based implementation of FxCop analyzers.
 

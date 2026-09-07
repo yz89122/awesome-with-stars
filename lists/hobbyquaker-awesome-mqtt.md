@@ -317,7 +317,7 @@ Here are complete firmwares to turn them into MQTT-controlled smart home nodes:
 - [HomeGenie Mini](https://homegenie.it/) - Smart device firmware for ESP8266/ESP32 supporting remote monitoring and controlling via MQTT with end-to-end encryption. The firmware is open source and it can be uploaded to the ESP device directly from the website.
 <!--lint enable double-link-->
 - [OpenMQTTGateway ![GitHub Repo Stars](https://img.shields.io/github/stars/1technophile/OpenMQTTGateway) ![GitHub last commit](https://img.shields.io/github/last-commit/1technophile/OpenMQTTGateway)](https://github.com/1technophile/OpenMQTTGateway) - MQTT gateway for ESP8266, ESP32, Sonoff RF Bridge or Arduino with bidirectional 433mhz/315mhz/868mhz, Infrared communications, BLE, beacons detection, mi flora, mi jia, LYWSD02, LYWSD03MMC, Mi Scale compatibility, SMS & LORA.
-- [Sonoff-Tasmota ![GitHub Repo Stars](https://img.shields.io/github/stars/arendst/Tasmota) ![GitHub last commit](https://img.shields.io/github/last-commit/arendst/Tasmota)](https://github.com/arendst/Tasmota) - Firmware for ESP8266 devices with web-based configuration. ���500 devices supported (not only Sonoffs).
+- [Sonoff-Tasmota ![GitHub Repo Stars](https://img.shields.io/github/stars/arendst/Tasmota) ![GitHub last commit](https://img.shields.io/github/last-commit/arendst/Tasmota)](https://github.com/arendst/Tasmota) - Firmware for ESP8266 devices with web-based configuration. ≈500 devices supported (not only Sonoffs).
 - [WiFi-IoT](https://wifi-iot.com/p/wiki/) - ESP8266/ESP32 firmware builder. Partly in Russian. Free features are limited.
 
 
