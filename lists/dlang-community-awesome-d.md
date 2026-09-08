@@ -412,6 +412,7 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 * [tilix ![GitHub Repo Stars](https://img.shields.io/github/stars/gnunn1/tilix) ![GitHub last commit](https://img.shields.io/github/last-commit/gnunn1/tilix)](https://github.com/gnunn1/tilix) - A tiling terminal emulator for Linux using GTK+ 3.
 * [Inochi Creator ![GitHub Repo Stars](https://img.shields.io/github/stars/Inochi2D/inochi-creator) ![GitHub last commit](https://img.shields.io/github/last-commit/Inochi2D/inochi-creator)](https://github.com/Inochi2D/inochi-creator) - Inochi2D Rigging Application.
 * [Inochi Session ![GitHub Repo Stars](https://img.shields.io/github/stars/Inochi2D/inochi-session) ![GitHub last commit](https://img.shields.io/github/last-commit/Inochi2D/inochi-session)](https://github.com/Inochi2D/inochi-session) - Application that allows streaming with Inochi2D puppets.
+* [Sorting Algoritms](https://codeberg.org/GuineaPigUuhh/sorting-algorithms) - sorting algorithms visualizer.
 
 ## Game Bindings
 

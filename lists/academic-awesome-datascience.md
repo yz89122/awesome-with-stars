@@ -444,6 +444,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 
 #### PyTorch Ecosystem
 * [PyTorch ![GitHub Repo Stars](https://img.shields.io/github/stars/pytorch/pytorch) ![GitHub last commit](https://img.shields.io/github/last-commit/pytorch/pytorch)](https://github.com/pytorch/pytorch)
+* [TorchDR ![GitHub Repo Stars](https://img.shields.io/github/stars/TorchDR/TorchDR) ![GitHub last commit](https://img.shields.io/github/last-commit/TorchDR/TorchDR)](https://github.com/TorchDR/TorchDR) - GPU and multi-GPU dimensionality reduction with a scikit-learn-compatible API.
 * [torchvision ![GitHub Repo Stars](https://img.shields.io/github/stars/pytorch/vision) ![GitHub last commit](https://img.shields.io/github/last-commit/pytorch/vision)](https://github.com/pytorch/vision)
 * [torchtext ![GitHub Repo Stars](https://img.shields.io/github/stars/pytorch/text) ![GitHub last commit](https://img.shields.io/github/last-commit/pytorch/text)](https://github.com/pytorch/text)
 * [torchaudio ![GitHub Repo Stars](https://img.shields.io/github/stars/pytorch/audio) ![GitHub last commit](https://img.shields.io/github/last-commit/pytorch/audio)](https://github.com/pytorch/audio)

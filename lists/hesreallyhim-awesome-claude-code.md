@@ -44,6 +44,7 @@ The current iteration of the list, such as you see it today, was launched with t
 - [From Anthropic](#from-anthropic)
 - [Documentation, Knowledge & Learning](#documentation-knowledge--learning)
   - [Obsidian](#obsidian)
+- [Open Source Software](#open-source-software)
 - [Research & Scientific Inquiry](#research--scientific-inquiry)
 - [Providers, Runtime & Integration Infrastructure](#providers-runtime--integration-infrastructure)
 - [Remote Control, Notifications & Voice I/O](#remote-control-notifications--voice-io)
@@ -182,6 +183,11 @@ The current iteration of the list, such as you see it today, was launched with t
 
 - [Librarian ![GitHub Repo Stars](https://img.shields.io/github/stars/ngmeyer/librarian-mcp) ![GitHub last commit](https://img.shields.io/github/last-commit/ngmeyer/librarian-mcp)](https://github.com/ngmeyer/librarian-mcp) by [ngmeyer](https://github.com/ngmeyer) - A standalone MCP server that gives Claude a markdown second-brain over any Obsidian vault or folder of `.md` files, with trigram search, auto-wikilinks on write, and real graph analytics (Louvain communities, PageRank, shortest-path, D3 visualization). Runs entirely locally with no network calls or telemetry, productionizing the "LLM wiki" pattern.  
 <img src="https://img.shields.io/github/created-at/ngmeyer/librarian-mcp?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="created">&nbsp;&nbsp;<img src="https://img.shields.io/github/last-commit/ngmeyer/librarian-mcp?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="last-commit">&nbsp;&nbsp;<img src="https://img.shields.io/github/license/ngmeyer/librarian-mcp?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="license">&nbsp;&nbsp;<img src="https://img.shields.io/github/stars/ngmeyer/librarian-mcp?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="stars">
+
+## Open Source Software
+
+- [OSS Autopilot ![GitHub Repo Stars](https://img.shields.io/github/stars/costajohnt/oss-autopilot) ![GitHub last commit](https://img.shields.io/github/last-commit/costajohnt/oss-autopilot)](https://github.com/costajohnt/oss-autopilot) by [John Costa](https://github.com/costajohnt) - End-to-end open source contribution manager. Discovers contributable issues across GitHub, tracks PRs across multiple repos, diagnoses CI failures, and drafts maintainer responses. Great collection of skills and agents for GitHub contributors, plus a sleek dashboard, standalone CLI and MCP server.  
+<img src="https://img.shields.io/github/created-at/costajohnt/oss-autopilot?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="created">&nbsp;&nbsp;<img src="https://img.shields.io/github/last-commit/costajohnt/oss-autopilot?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="last-commit">&nbsp;&nbsp;<img src="https://img.shields.io/github/license/costajohnt/oss-autopilot?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="license">&nbsp;&nbsp;<img src="https://img.shields.io/github/stars/costajohnt/oss-autopilot?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="stars">
 
 ## Research & Scientific Inquiry
 

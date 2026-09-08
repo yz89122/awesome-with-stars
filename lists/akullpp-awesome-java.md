@@ -553,7 +553,7 @@ _Everything that simplifies interactions with the database._
 
 > **[Realm ![GitHub Repo Stars](https://img.shields.io/github/stars/realm/realm-java) ![GitHub last commit](https://img.shields.io/github/last-commit/realm/realm-java)](https://github.com/realm/realm-java)** <kbd>★ 11.5k</kbd> <kbd>Apache-2.0</kbd> 🟠<br>Mobile database to run directly inside phones, tablets or wearables.
 
-> **[Redisson ![GitHub Repo Stars](https://img.shields.io/github/stars/redisson/redisson) ![GitHub last commit](https://img.shields.io/github/last-commit/redisson/redisson)](https://github.com/redisson/redisson)** <kbd>★ 24.4k</kbd> <kbd>Apache-2.0</kbd> ��<br>Allows for distributed and scalable data structures on top of a Redis server.
+> **[Redisson ![GitHub Repo Stars](https://img.shields.io/github/stars/redisson/redisson) ![GitHub last commit](https://img.shields.io/github/last-commit/redisson/redisson)](https://github.com/redisson/redisson)** <kbd>★ 24.4k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Allows for distributed and scalable data structures on top of a Redis server.
 
 > **[requery ![GitHub Repo Stars](https://img.shields.io/github/stars/requery/requery) ![GitHub last commit](https://img.shields.io/github/last-commit/requery/requery)](https://github.com/requery/requery)** <kbd>★ 3.1k</kbd> <kbd>Apache-2.0</kbd> 🟠<br>Modern, lightweight but powerful object mapping and SQL generator. Easily map to or create databases, or perform queries and updates from any Java-using platform.
 
