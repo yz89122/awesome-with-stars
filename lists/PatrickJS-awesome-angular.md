@@ -537,6 +537,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-task ![GitHub Repo Stars](https://img.shields.io/github/stars/MahmoudAdelJR/ngx-task-suite) ![GitHub last commit](https://img.shields.io/github/last-commit/MahmoudAdelJR/ngx-task-suite)](https://github.com/MahmoudAdelJR/ngx-task-suite) - Signal-first controlled asynchronous actions for Angular with cancellation, lifecycle cleanup, and explicit concurrency policies.
 * [ngx-smart-interceptor ![GitHub Repo Stars](https://img.shields.io/github/stars/ErickG123/ngx-smart-interceptor) ![GitHub last commit](https://img.shields.io/github/last-commit/ErickG123/ngx-smart-interceptor)](https://github.com/ErickG123/ngx-smart-interceptor) - Enterprise-grade, resilient, and intelligent HTTP Interceptor for modern Angular applications.
 * [angular-query ![GitHub Repo Stars](https://img.shields.io/github/stars/klheb/angular-query) ![GitHub last commit](https://img.shields.io/github/last-commit/klheb/angular-query)](https://github.com/klheb/angular-query) - An Angular-first data fetching library inspired by TanStack Query that uses Angular Signals for reactive queries, caching, and state management.
+* [fetchwise ![GitHub Repo Stars](https://img.shields.io/github/stars/poluru-labs/fetchwise) ![GitHub last commit](https://img.shields.io/github/last-commit/poluru-labs/fetchwise)](https://github.com/poluru-labs/fetchwise) - Simplify API integration with automatic retries, response validation, request and response interceptors, and generated API types.
 
 ### Micro Frontends
 
@@ -724,6 +725,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [envguards ![GitHub Repo Stars](https://img.shields.io/github/stars/princeofv/envguards) ![GitHub last commit](https://img.shields.io/github/last-commit/princeofv/envguards)](https://github.com/princeofv/envguards) - Framework-agnostic environment variable validation, documentation generator, and `.env.example` creator.
 * [ngmd ![GitHub Repo Stars](https://img.shields.io/github/stars/erkamyaman/ngmd) ![GitHub last commit](https://img.shields.io/github/last-commit/erkamyaman/ngmd)](https://github.com/erkamyaman/ngmd) - Angular docs starter. Drop a markdown file, get a route.
 * [storybook-addon-angular-manifest ![GitHub Repo Stars](https://img.shields.io/github/stars/anrouxel/storybook-addon-angular-manifest) ![GitHub last commit](https://img.shields.io/github/last-commit/anrouxel/storybook-addon-angular-manifest)](https://github.com/anrouxel/storybook-addon-angular-manifest) - A Storybook addon that builds an Angular component manifest from your stories and Compodoc documentation.
+* [FeastDocs ![GitHub Repo Stars](https://img.shields.io/github/stars/Mindfeast/feastdocs) ![GitHub last commit](https://img.shields.io/github/last-commit/Mindfeast/feastdocs)](https://github.com/Mindfeast/feastdocs) - Docusaurus-style documentation framework built on Angular, with live Angular components inside Markdown. [FeastDocsDemo](https://feastdocs.feast-labs.com/)
 
 ### IDE Extensions
 
