@@ -2518,6 +2518,7 @@ _Libraries that are used to help make your application more secure._
 - [themis ![GitHub Repo Stars](https://img.shields.io/github/stars/cossacklabs/themis) ![GitHub last commit](https://img.shields.io/github/last-commit/cossacklabs/themis)](https://github.com/cossacklabs/themis) - high-level cryptographic library for solving typical data security tasks (secure data storage, secure messaging, zero-knowledge proof authentication), available for 14 languages, best fit for multi-platform apps.
 - [urusai ![GitHub Repo Stars](https://img.shields.io/github/stars/calpa/urusai) ![GitHub last commit](https://img.shields.io/github/last-commit/calpa/urusai)](https://github.com/calpa/urusai) - Urusai ("noisy" in Japanese) is a Go implementation of a random HTTP/DNS traffic noise generator that helps protect privacy by creating digital smokescreens while browsing.
 - [veil ![GitHub Repo Stars](https://img.shields.io/github/stars/getveil/veil) ![GitHub last commit](https://img.shields.io/github/last-commit/getveil/veil)](https://github.com/getveil/veil) - Local HTTPS proxy that hides API credentials from AI coding agents. OS keychain integration, format-aware placeholders, SQLite audit log.
+- [y509 ![GitHub Repo Stars](https://img.shields.io/github/stars/kanywst/y509) ![GitHub last commit](https://img.shields.io/github/last-commit/kanywst/y509)](https://github.com/kanywst/y509) - TUI for X.509 certificate chains that reports whether a chain verifies and, separately, whether a server served it correctly.
 
 
 **[⬆ back to top](#contents)**
