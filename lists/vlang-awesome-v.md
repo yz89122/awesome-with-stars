@@ -248,6 +248,7 @@ SDL2 and SDL3 based applications importing `vlang/sdl`.
 ### Database clients
 <!-- lint disable awesome-spell-check -->
 - [firebird ![GitHub Repo Stars](https://img.shields.io/github/stars/einar-hjortdal/firebird) ![GitHub last commit](https://img.shields.io/github/last-commit/einar-hjortdal/firebird)](https://github.com/einar-hjortdal/firebird) - Client for Firebird SQL.
+- [leveldb ![GitHub Repo Stars](https://img.shields.io/github/stars/vlang/leveldb) ![GitHub last commit](https://img.shields.io/github/last-commit/vlang/leveldb)](https://github.com/vlang/leveldb) - LevelDB implementation in pure V.
 - [mongodb ![GitHub Repo Stars](https://img.shields.io/github/stars/vlang/mongo) ![GitHub last commit](https://img.shields.io/github/last-commit/vlang/mongo)](https://github.com/vlang/mongo) - A MongoDB driver for V.
 - [redict ![GitHub Repo Stars](https://img.shields.io/github/stars/einar-hjortdal/redict) ![GitHub last commit](https://img.shields.io/github/last-commit/einar-hjortdal/redict)](https://github.com/einar-hjortdal/redict) - Client for Redict, a LGPL-3.0-only fork of Redis (compatible with Redis <=7.2.4).
 - [redis ![GitHub Repo Stars](https://img.shields.io/github/stars/patrickpissurno/vredis) ![GitHub last commit](https://img.shields.io/github/last-commit/patrickpissurno/vredis)](https://github.com/patrickpissurno/vredis) - A Redis client for V, written in V.
