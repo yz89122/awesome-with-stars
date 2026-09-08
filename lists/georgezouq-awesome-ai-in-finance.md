@@ -15,7 +15,7 @@ With the power of the latest artificial intelligence research, people analyze & 
   - [Trading Execution](#trading-execution)
   - [Research & Analysis](#research--analysis)
 - [Papers](#papers)
-- [Courses & Books](#courses--books)
+- [Courses & Books & Blogs](#courses--books--blogs)
 - [Strategies & Research](#strategies--research)
   - [Time Series Data](#time-series-data)
   - [Portfolio Management](#portfolio-management)
@@ -50,6 +50,8 @@ With the power of the latest artificial intelligence research, people analyze & 
 - [Cod3x](https://www.cod3x.org/) - No-code platform for building multi-agent trading strategies, with chart-drawing agents, event-driven automations, and full execution transparency.
 
 - [Pineify](https://pineify.app/) - AI-assisted trading toolkit with coding agents for Pine Script, MQL5, and cTrader, plus financial research, strategy optimization, and backtest analysis.
+- [Nova-TradingAgent ![GitHub Repo Stars](https://img.shields.io/github/stars/rufeng0411/Nova-TradingAgent) ![GitHub last commit](https://img.shields.io/github/last-commit/rufeng0411/Nova-TradingAgent)](https://github.com/rufeng0411/Nova-TradingAgent) - Self-hosted A-share research workbench built on TradingAgents, with a web interface and no brokerage connection by default.
+- [OpenCandle ![GitHub Repo Stars](https://img.shields.io/github/stars/Kahtaf/opencandle) ![GitHub last commit](https://img.shields.io/github/last-commit/Kahtaf/opencandle)](https://github.com/Kahtaf/opencandle) - Open-source financial research agent with real-time market data, local portfolios and watchlists, and no trade execution.
 
 ## LLMs
 
@@ -75,6 +77,11 @@ With the power of the latest artificial intelligence research, people analyze & 
 - [CFA Institute Bias Detection ![GitHub Repo Stars](https://img.shields.io/github/stars/CFA-Institute-RPC/skills) ![GitHub last commit](https://img.shields.io/github/last-commit/CFA-Institute-RPC/skills)](https://github.com/CFA-Institute-RPC/skills/tree/main/skills/bias-detection) - Claude skill for bias detection in investment analysis. Apache 2.0.
 - [Ethical Capital Skills ![GitHub Repo Stars](https://img.shields.io/github/stars/ethicalcapital/skills) ![GitHub last commit](https://img.shields.io/github/last-commit/ethicalcapital/skills)](https://github.com/ethicalcapital/skills) - Claude skills for investment research, screening, compliance, and marketing workflows.
 - [Trading Ledger ![GitHub Repo Stars](https://img.shields.io/github/stars/cruisekkk/trading-ledger) ![GitHub last commit](https://img.shields.io/github/last-commit/cruisekkk/trading-ledger)](https://github.com/cruisekkk/trading-ledger) - Claude skill for trading journaling: captures thesis, plan, and emotion at entry into the user's own Notion database, with weekly reviews that grade decisions rather than P&L. MIT.
+- [Quant Research ![GitHub Repo Stars](https://img.shields.io/github/stars/Jimmy7892/quant-research-skill) ![GitHub last commit](https://img.shields.io/github/last-commit/Jimmy7892/quant-research-skill)](https://github.com/Jimmy7892/quant-research-skill) - Agent skill for backtest validation using parameter stability, selection-bias checks, and walk-forward evaluation.
+- [Market Brief ![GitHub Repo Stars](https://img.shields.io/github/stars/beepboop2025/market-brief) ![GitHub last commit](https://img.shields.io/github/last-commit/beepboop2025/market-brief)](https://github.com/beepboop2025/market-brief) - Agent skill for source-linked funding and liquidity briefs, preserving observation dates and missing-data states.
+- [AI Trader Team ![GitHub Repo Stars](https://img.shields.io/github/stars/TLSRUF/ai-trader-team) ![GitHub last commit](https://img.shields.io/github/last-commit/TLSRUF/ai-trader-team)](https://github.com/TLSRUF/ai-trader-team) - Claude Code skills and agents for investment research, with deterministic position-sizing, portfolio-risk, and walk-forward backtesting tools.
+- [Bargo Congress API ![GitHub Repo Stars](https://img.shields.io/github/stars/bargo-ai/bargo-free-api-packages) ![GitHub last commit](https://img.shields.io/github/last-commit/bargo-ai/bargo-free-api-packages)](https://github.com/bargo-ai/bargo-free-api-packages/tree/main/skills/bargo-congress-api) - Agent skill for querying U.S. congressional trade disclosures by ticker, member, chamber, transaction type, and date.
+- [financeskills ![GitHub Repo Stars](https://img.shields.io/github/stars/GAJETOso/financeskills) ![GitHub last commit](https://img.shields.io/github/last-commit/GAJETOso/financeskills)](https://github.com/GAJETOso/financeskills) - Agent skills for financial reporting, audit, reconciliation, journal entries, and accounting workflows referencing IFRS and GAAP.
 
 ## MCP Servers
 
@@ -94,6 +101,7 @@ Open-source [Model Context Protocol](https://modelcontextprotocol.io/) servers t
 - [imbenrabi/Financial-Modeling-Prep-MCP-Server ![GitHub Repo Stars](https://img.shields.io/github/stars/imbenrabi/Financial-Modeling-Prep-MCP-Server) ![GitHub last commit](https://img.shields.io/github/last-commit/imbenrabi/Financial-Modeling-Prep-MCP-Server)](https://github.com/imbenrabi/Financial-Modeling-Prep-MCP-Server) - 250+ Financial Modeling Prep API tools: financials, technical indicators, insider trading, SEC filings, earnings, and crypto.
 - [kukapay/crypto-indicators-mcp ![GitHub Repo Stars](https://img.shields.io/github/stars/kukapay/crypto-indicators-mcp) ![GitHub last commit](https://img.shields.io/github/last-commit/kukapay/crypto-indicators-mcp)](https://github.com/kukapay/crypto-indicators-mcp) - Cryptocurrency technical analysis indicators (MACD, RSI, Bollinger Bands) via CCXT for AI trading agents.
 - [stefanoamorelli/fred-mcp-server ![GitHub Repo Stars](https://img.shields.io/github/stars/stefanoamorelli/fred-mcp-server) ![GitHub last commit](https://img.shields.io/github/last-commit/stefanoamorelli/fred-mcp-server)](https://github.com/stefanoamorelli/fred-mcp-server) - Federal Reserve Economic Data (FRED) MCP server: access 800,000+ macroeconomic time series.
+- [livetennisapi/livetennisapi-mcp ![GitHub Repo Stars](https://img.shields.io/github/stars/livetennisapi/livetennisapi-mcp) ![GitHub last commit](https://img.shields.io/github/last-commit/livetennisapi/livetennisapi-mcp)](https://github.com/livetennisapi/livetennisapi-mcp) - Open-source MCP server for tennis scores, fixtures, rankings, and win probabilities for prediction-market research. API plan limits apply.
 
 ### Trading Execution
 
@@ -111,6 +119,7 @@ Open-source [Model Context Protocol](https://modelcontextprotocol.io/) servers t
 - [mnemox-ai/tradememory-protocol ![GitHub Repo Stars](https://img.shields.io/github/stars/mnemox-ai/tradememory-protocol) ![GitHub last commit](https://img.shields.io/github/last-commit/mnemox-ai/tradememory-protocol)](https://github.com/mnemox-ai/tradememory-protocol) - Open-source memory MCP for AI trading agents: three-layer architecture (raw memory → pattern reflection → strategy evolution).
 - [wshobson/maverick-mcp ![GitHub Repo Stars](https://img.shields.io/github/stars/wshobson/maverick-mcp) ![GitHub last commit](https://img.shields.io/github/last-commit/wshobson/maverick-mcp)](https://github.com/wshobson/maverick-mcp) - Personal stock analysis MCP server: technical indicators, earnings calendars, options flow, and insider trades.
 - [stefanoamorelli/sec-edgar-mcp ![GitHub Repo Stars](https://img.shields.io/github/stars/stefanoamorelli/sec-edgar-mcp) ![GitHub last commit](https://img.shields.io/github/last-commit/stefanoamorelli/sec-edgar-mcp)](https://github.com/stefanoamorelli/sec-edgar-mcp) - Direct SEC EDGAR access for AI assistants: 10-K, 10-Q, 8-K filings, and insider trading data.
+- [heubme2020/datasinking ![GitHub Repo Stars](https://img.shields.io/github/stars/heubme2020/datasinking) ![GitHub last commit](https://img.shields.io/github/last-commit/heubme2020/datasinking)](https://github.com/heubme2020/datasinking) - Open-source MCP server for Asian financial reports as Markdown, with chapter-level access. Requires a DataSinking API key; usage limits apply.
 
 ## Papers
 
@@ -142,6 +151,7 @@ Open-source [Model Context Protocol](https://modelcontextprotocol.io/) servers t
 - [MLSys-NYU-2022 ![GitHub Repo Stars](https://img.shields.io/github/stars/jacopotagliabue/MLSys-NYU-2022) ![GitHub last commit](https://img.shields.io/github/last-commit/jacopotagliabue/MLSys-NYU-2022)](https://github.com/jacopotagliabue/MLSys-NYU-2022/tree/main) - Slides, scripts and materials for the Machine Learning in Finance course at NYU Tandon, 2022.
 - [Train and Deploy a Serverless API to predict crypto prices ![GitHub Repo Stars](https://img.shields.io/github/stars/Paulescu/hands-on-train-and-deploy-ml) ![GitHub last commit](https://img.shields.io/github/last-commit/Paulescu/hands-on-train-and-deploy-ml)](https://github.com/Paulescu/hands-on-train-and-deploy-ml) - In this tutorial you won't build an ML system that will make you rich. But you will master the MLOps frameworks and tools you need to build ML systems that, together with tons of experimentation, can take you there.
 - [KeepRule](https://keeprule.com) - AI-powered investment discipline platform with principles from 26 legendary investors including Buffett, Munger, and Dalio.
+- [ai-agent-playbook ![GitHub Repo Stars](https://img.shields.io/github/stars/Electricitysheep/ai-agent-playbook) ![GitHub last commit](https://img.shields.io/github/last-commit/Electricitysheep/ai-agent-playbook)](https://github.com/Electricitysheep/ai-agent-playbook) - Knowledge base and runnable experiments on AI agent engineering, quantitative finance, and LLM-based factor research.
 
 ## Strategies & Research
 
@@ -217,6 +227,7 @@ Price and Volume process with Technology Analysis Indices
 - [Chartscout](https://chartscout.io) - Real-time cryptocurrency chart pattern detection with automated alerts using pattern recognition algorithms
 * [MarginSafe.ai](https://marginsafe.ai) - AI stock analysis platform specialized in intrinsic value and Wyckoff timing.
 - [Wickra ![GitHub Repo Stars](https://img.shields.io/github/stars/wickra-lib/wickra) ![GitHub last commit](https://img.shields.io/github/last-commit/wickra-lib/wickra)](https://github.com/wickra-lib/wickra) - Native library computing 500+ technical-analysis indicators over OHLC data, streaming-first; Rust core with Python, Node.js, WASM and a C ABI (C/C++/C#/Go/Java/R) bindings.
+- [PineTS ![GitHub Repo Stars](https://img.shields.io/github/stars/LuxAlgo/PineTS) ![GitHub last commit](https://img.shields.io/github/last-commit/LuxAlgo/PineTS)](https://github.com/LuxAlgo/PineTS) - Open-source Pine Script transpiler and runtime for indicators and strategies in Node.js and browsers, using live or custom market data.
 
 ### Lottery & Gamble
 
@@ -247,6 +258,10 @@ Price and Volume process with Technology Analysis Indices
 - [ValueRay](https://www.valueray.com/api) - Technical, quantitative and sentiment data for stocks and ETFs with risk metrics, peer percentiles and market regime signals. Optimized for AI/LLM agents.
 - [BenchGecko](https://benchgecko.ai) - AI economy tracking platform. Market cap, funding rounds, AI Bubble Index, company valuations, and compute supply chain data.
 - [FilingFirehose](https://filingfirehose.com) - SEC EDGAR JSON API with classified 8-Ks, activist 13D/G tagging, ATM offering detection, and hosted MCP access.
+- [SPZCO](https://spzco.com) - Research terminal for U.S. congressional trades, executive disclosures, institutional holdings, and insider filings, with links to source documents.
+- [Edgrapi](https://edgrapi.com) - Metered REST API and hosted MCP service for SEC filings, insider trades, institutional holdings, and company fundamentals. API key required.
+- [EarningsCall](https://earningscall.biz) - API and SDKs for earnings call transcripts, audio, and presentation slides, with speaker identification and Q&A segmentation.
+- [The Stall ![GitHub Repo Stars](https://img.shields.io/github/stars/thebrierfox/the-stall) ![GitHub last commit](https://img.shields.io/github/last-commit/thebrierfox/the-stall)](https://github.com/thebrierfox/the-stall) - Pay-per-call API and MCP service aggregating stock, macroeconomic, crypto, and prediction-market data from third-party sources.
 
 #### Crypto Currencies
 
@@ -255,13 +270,15 @@ Price and Volume process with Technology Analysis Indices
 - [CoinPulse ![GitHub Repo Stars](https://img.shields.io/github/stars/soutone/coinpulse-python) ![GitHub last commit](https://img.shields.io/github/last-commit/soutone/coinpulse-python)](https://github.com/soutone/coinpulse-python) - Python SDK for cryptocurrency portfolio tracking with real-time prices, P/L calculations, backtesting, and price alerts. Free tier: 25 req/hr.
 - [Gekko-Datasets ![GitHub Repo Stars](https://img.shields.io/github/stars/xFFFFF/Gekko-Datasets) ![GitHub last commit](https://img.shields.io/github/last-commit/xFFFFF/Gekko-Datasets)](https://github.com/xFFFFF/Gekko-Datasets) - Gekko trading bot dataset dumps. Download and use history files in SQLite format.
 - [Frostbyte Crypto API](https://agent-gateway-kappa.vercel.app) - Free real-time cryptocurrency price data API. Supports BTC, ETH, SOL, and 20+ tokens. No signup or API key required for basic endpoints. JSON responses with price, 24h change, market cap, and volume.
-- [CoinPaprika API](https://api.coinpaprika.com) - Free cryptocurrency market data API with prices, volume, market cap, and OHLCV for 7,000+ coins. No API key required. Includes MCP server for AI agent integration.
-- [DexPaprika API](https://api.dexpaprika.com) - Free DEX and DeFi data API — real-time pool data, token prices, OHLCV, and trade history across all chains. No API key, no rate limits. Includes MCP server for AI agents.
+- [CoinPaprika API](https://api.coinpaprika.com) - Cryptocurrency prices, volume, market cap, and historical data via API. Keyless access is available with limits; see [plans](https://coinpaprika.com/api/).
+- [DexPaprika API](https://api.dexpaprika.com) - DEX pool, token, OHLCV, and trade data via API and MCP. Keyless access has rate and usage limits; see [plans](https://dexpaprika.com/api/pricing).
 - [Philidor](https://docs.philidor.io/docs) - Institutional-grade DeFi risk scoring for 700+ vaults across 9 protocols and 6 chains. REST API and MCP server (Claude, Cursor, Windsurf). Deterministic 0–10 risk scores, tiers (Prime/Core/Edge), portfolio analysis, oracle monitoring. No API key required.
 - [PreReason](https://www.prereason.com) - Pre-analyzed financial market briefings optimized for AI agent consumption. 17 briefings covering BTC on-chain, macro (Fed balance sheet, M2, Treasury yields), and cross-asset correlations. Returns regime classification, trend signals, and confidence scores in markdown.
 - [Satoshi API ![GitHub Repo Stars](https://img.shields.io/github/stars/Bortlesboat/bitcoin-api) ![GitHub last commit](https://img.shields.io/github/last-commit/Bortlesboat/bitcoin-api)](https://github.com/Bortlesboat/bitcoin-api) - Bitcoin fee intelligence API with 108 endpoints for fee estimates, mempool analysis, block data, and mining stats. Self-hostable, Apache 2.0.
 - [Sharpe](https://www.sharpe.ai/docs/free-api) - Agent-ready crypto market intelligence API and MCP server for funding, derivatives, arbitrage, narratives, listings, and news.
 - [TBD Predict ![GitHub Repo Stars](https://img.shields.io/github/stars/ego-protocol/tbd-vote-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/ego-protocol/tbd-vote-cli)](https://github.com/ego-protocol/tbd-vote-cli) - Solana-based prediction market for human opinions with an agent CLI and AGENTS.md spec for AI agents to authenticate, list opinion campaigns, and place bets via JSON-friendly commands.
+- [0xArchive](https://0xarchive.io/) - Real-time and historical Hyperliquid and Lighter market data via REST and WebSocket APIs.
+- [AgentServices](https://agentservices.to) - Crypto market data, on-chain analytics, and FX data via REST and MCP, with free endpoints and metered paid access.
 
 #### News Data
 
@@ -276,6 +293,7 @@ Price and Volume process with Technology Analysis Indices
 
 - [Parsec API](https://docs.parsecapi.com) - Unified prediction market infrastructure for normalized data, execution, and live streams across Polymarket, Kalshi, Opinion, Limitless, and PredictFun. MCP server for AI agent trading. Generous free tier.
 - [PolyMind](https://polyminds.netlify.app/) - Real-time Polymarket trading alerts with multi-AI analysis (Groq, Claude, Gemini). Track whale bets, volume spikes, coordinated wallets, and 12 signal types. Free tier available.
+- [Live Tennis API](https://docs.livetennisapi.com) - Tennis scores, win probabilities, and historical match results for prediction-market research via REST and WebSocket. History and advanced features require paid plans.
 
 ## Research Tools
 

@@ -84,7 +84,6 @@ The second, older syntax is known as the indented syntax (or just "Sass"). Inspi
 - [Sass MQ ![GitHub Repo Stars](https://img.shields.io/github/stars/sass-mq/sass-mq) ![GitHub last commit](https://img.shields.io/github/last-commit/sass-mq/sass-mq)](https://github.com/sass-mq/sass-mq) - Sass mixin that helps you compose media queries in an elegant way.
 
 ### Color
-- [brand-colors](http://brand-colors.com/) - 1100+ collection of popular brand colors available in Sass, Less, Stylus and CSS.
 - [Open color ![GitHub Repo Stars](https://img.shields.io/github/stars/yeun/open-color) ![GitHub last commit](https://img.shields.io/github/last-commit/yeun/open-color)](https://github.com/yeun/open-color) - Open color is a color scheme for UI design. Available in CSS, SCSS, LESS, Stylus, Adobe library, Photoshop/Illustrator swatches and Sketch palette.
 - [sass-planifolia ![GitHub Repo Stars](https://img.shields.io/github/stars/xi/sass-planifolia) ![GitHub last commit](https://img.shields.io/github/last-commit/xi/sass-planifolia)](https://github.com/xi/sass-planifolia) - Advanced color manipulation and contrast calculation in vanilla Sass.
 - [scss-blend-modes ![GitHub Repo Stars](https://img.shields.io/github/stars/heygrady/scss-blend-modes) ![GitHub last commit](https://img.shields.io/github/last-commit/heygrady/scss-blend-modes)](https://github.com/heygrady/scss-blend-modes) - Using standard color blending functions in Sass.
