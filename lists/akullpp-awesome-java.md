@@ -792,7 +792,7 @@ _Libraries related to the financial domain._
 
 > **[Joda-Money ![GitHub Repo Stars](https://img.shields.io/github/stars/JodaOrg/joda-money) ![GitHub last commit](https://img.shields.io/github/last-commit/JodaOrg/joda-money)](https://github.com/JodaOrg/joda-money)** <kbd>★ 679</kbd> <kbd>Apache-2.0</kbd> 🟠<br>Basic currency and money classes and algorithms not provided by the JDK.
 
-> **[OpenGamma Strata ![GitHub Repo Stars](https://img.shields.io/github/stars/OpenGamma/Strata) ![GitHub last commit](https://img.shields.io/github/last-commit/OpenGamma/Strata)](https://github.com/OpenGamma/Strata)** <kbd>★ 956</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Analytics and market risk library for financial products.
+> **[OpenGamma Strata ![GitHub Repo Stars](https://img.shields.io/github/stars/OpenGamma/Strata) ![GitHub last commit](https://img.shields.io/github/last-commit/OpenGamma/Strata)](https://github.com/OpenGamma/Strata)** <kbd>�� 956</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Analytics and market risk library for financial products.
 
 > **[Philadelphia ![GitHub Repo Stars](https://img.shields.io/github/stars/paritytrading/philadelphia) ![GitHub last commit](https://img.shields.io/github/last-commit/paritytrading/philadelphia)](https://github.com/paritytrading/philadelphia)** <kbd>★ 345</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Low-latency financial information exchange.
 

@@ -235,6 +235,7 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 
 ## AI
 
+- [coder/claudecode.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/coder/claudecode.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/coder/claudecode.nvim)](https://github.com/coder/claudecode.nvim) - Claude Code integration using the WebSocket-based MCP protocol, with selection and diagnostics context sharing plus inline diffs.
 - [raymondware/herdr.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/raymondware/herdr.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/raymondware/herdr.nvim)](https://github.com/raymondware/herdr.nvim) - Floating terminal and agent-state visibility for the herdr agent multiplexer: status float, statusline counts, and background polling.
 - [saya-ashen/agent-workbench.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/saya-ashen/agent-workbench.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/saya-ashen/agent-workbench.nvim)](https://github.com/saya-ashen/agent-workbench.nvim) - Workspace frontend for pi.dev with sessions, diff review, and persistent shell worksheets.
 - [nwiizo/signalbox.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/nwiizo/signalbox.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/nwiizo/signalbox.nvim)](https://github.com/nwiizo/signalbox.nvim) - Attention-first control surface for monitoring and routing persistent Herdr coding agents.
@@ -888,6 +889,7 @@ then it is not supported:
 - [OXY2DEV/bars.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/OXY2DEV/bars.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/OXY2DEV/bars.nvim)](https://github.com/OXY2DEV/bars.nvim) - A starting point/guide for creating custom statusline, statuscolumn, tabline and winbar.
 - [zaakiy/line-justice.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/zaakiy/line-justice.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/zaakiy/line-justice.nvim)](https://github.com/zaakiy/line-justice.nvim) - Shows both absolute and relative line numbers simultaneously.
 - [nvim-mini/mini.nvim#mini.statuscolumn ![GitHub Repo Stars](https://img.shields.io/github/stars/nvim-mini/mini.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/nvim-mini/mini.nvim)](https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-statuscolumn.md) - Module of `mini.nvim` for statuscolumn. Fast and improved defaults, fully customizable content, automatic dimming inside inactive windows.
+- [olivgr/winbarbuf.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/olivgr/winbarbuf.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/olivgr/winbarbuf.nvim)](https://github.com/olivgr/winbarbuf.nvim) - Clickable buffer list in the winbar.
 
 ### Statusline
 
