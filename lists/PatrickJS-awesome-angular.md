@@ -845,6 +845,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [eslint-plugin-angular-class-ordering ![GitHub Repo Stars](https://img.shields.io/github/stars/Leritas/eslint-plugin-angular-class-ordering) ![GitHub last commit](https://img.shields.io/github/last-commit/Leritas/eslint-plugin-angular-class-ordering)](https://github.com/Leritas/eslint-plugin-angular-class-ordering) - ESLint plugin that keeps Angular class members (fields and methods) in a consistent order with auto-fix functionality.
 * [lint-a-lot ![GitHub Repo Stars](https://img.shields.io/github/stars/JanKru/lint-a-lot) ![GitHub last commit](https://img.shields.io/github/last-commit/JanKru/lint-a-lot)](https://github.com/JanKru/lint-a-lot) - An opinionated ESLint and Stylelint configuration for Angular projects using modern Flat Config.
 * [neighbor ![GitHub Repo Stars](https://img.shields.io/github/stars/a11yfred/neighbor) ![GitHub last commit](https://img.shields.io/github/last-commit/a11yfred/neighbor)](https://github.com/a11yfred/neighbor) - Catch accessibility issues in your markup, CSS, and copy before they ship.
+* [JunoLint ![GitHub Repo Stars](https://img.shields.io/github/stars/Myxelium/JunoLint) ![GitHub last commit](https://img.shields.io/github/last-commit/Myxelium/JunoLint)](https://github.com/Myxelium/JunoLint) - This Angular ESLint 9 configuration lints TypeScript and HTML layout, ordering, and style rules, most of which auto-fix using `eslint --fix`.
 
 ### Networking
 
@@ -967,6 +968,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ng-ability ![GitHub Repo Stars](https://img.shields.io/github/stars/topaxi/ng-ability) ![GitHub last commit](https://img.shields.io/github/last-commit/topaxi/ng-ability)](https://github.com/topaxi/ng-ability) - Define access control lists in Angular.
 * [urbac ![GitHub Repo Stars](https://img.shields.io/github/stars/kasoir/urbac) ![GitHub last commit](https://img.shields.io/github/last-commit/kasoir/urbac)](https://github.com/kasoir/urbac) - A complete, production-ready boilerplate designed to help you scaffold secure, multi-level access control systems in minutes.
 * [rulegate ![GitHub Repo Stars](https://img.shields.io/github/stars/fotbiler-lab/rulegate) ![GitHub last commit](https://img.shields.io/github/last-commit/fotbiler-lab/rulegate)](https://github.com/fotbiler-lab/rulegate) - Local-first, provider-independent authorization for `.NET` and Angular.
+* [SailPoint Angular SDK ![GitHub Repo Stars](https://img.shields.io/github/stars/sailpoint-oss/angular-sdk) ![GitHub last commit](https://img.shields.io/github/last-commit/sailpoint-oss/angular-sdk)](https://github.com/sailpoint-oss/angular-sdk) - Use this SDK to interface between [SailPoint](https://developer.sailpoint.com/) APIs and your Angular applications.
 
 ### Security Best Practices
 
@@ -1510,6 +1512,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [Scryb](https://scryb.dev/) - A $39/month flat-rate TypeScript WYSIWYG editor built on Tiptap that offers unlimited loads, end users, and documents.
 * [nge-ide ![GitHub Repo Stars](https://img.shields.io/github/stars/cisstech/nge-ide) ![GitHub last commit](https://img.shields.io/github/last-commit/cisstech/nge-ide)](https://github.com/cisstech/nge-ide) - Via a single `<ide-root />` component, NGE IDE embeds a full desktop editor shell into Angular apps.
 * [ngx-exitus-tiptap-editor ![GitHub Repo Stars](https://img.shields.io/github/stars/marcelinombb/ngx-exitus-tiptap-editor) ![GitHub last commit](https://img.shields.io/github/last-commit/marcelinombb/ngx-exitus-tiptap-editor)](https://github.com/marcelinombb/ngx-exitus-tiptap-editor) - A powerful, feature-rich Tiptap-based Rich Text Editor for Angular 18+, specifically designed for educational and technical content.
+* [notectl ![GitHub Repo Stars](https://img.shields.io/github/stars/Samyssmile/notectl) ![GitHub last commit](https://img.shields.io/github/last-commit/Samyssmile/notectl)](https://github.com/Samyssmile/notectl) - Modern accessible WYSIWYG rich text editor built as a framework-agnostic web component that works everywhere.
 
 ### File Upload
 
@@ -1567,6 +1570,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [GolemUI ![GitHub Repo Stars](https://img.shields.io/github/stars/golemui/golemui) ![GitHub last commit](https://img.shields.io/github/last-commit/golemui/golemui)](https://github.com/golemui/golemui) - Declarative Form Engine.
 * [formular.dev ![GitHub Repo Stars](https://img.shields.io/github/stars/binaryjack/formular.dev) ![GitHub last commit](https://img.shields.io/github/last-commit/binaryjack/formular.dev)](https://github.com/binaryjack/formular.dev) - An advanced, high-performance, schema-first form management and validation engine for modern TypeScript and JavaScript applications.
 * [formisch ![GitHub Repo Stars](https://img.shields.io/github/stars/open-circle/formisch) ![GitHub last commit](https://img.shields.io/github/last-commit/open-circle/formisch)](https://github.com/open-circle/formisch) - A schema-based, headless JS form library that delivers fast, type-safe state management and validation within a lightweight, modular bundle.
+* [form-nodes ![GitHub Repo Stars](https://img.shields.io/github/stars/gastonmesseri/form-nodes) ![GitHub last commit](https://img.shields.io/github/last-commit/gastonmesseri/form-nodes)](https://github.com/gastonmesseri/form-nodes) - Typed Signal-based forms for Angular.
 
 ### Form Controls
 
@@ -2142,6 +2146,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [fold-ng ![GitHub Repo Stars](https://img.shields.io/github/stars/hugoheynard/fold-ng) ![GitHub last commit](https://img.shields.io/github/last-commit/hugoheynard/fold-ng)](https://github.com/hugoheynard/fold-ng) - A dark-first, accessible Angular UI library and design system. Built with modern standards: signals-first, standalone, zoneless, and SSR-ready.
 * [mk-kit ![GitHub Repo Stars](https://img.shields.io/github/stars/mk-kit/mk-kit) ![GitHub last commit](https://img.shields.io/github/last-commit/mk-kit/mk-kit)](https://github.com/mk-kit/mk-kit) - MIT component library for admin panels: 180 signals-based, zoneless-ready components themed with CSS variables, WCAG 2.1 AA, with a PrimeNG migration schematic. [Documentation](https://mk-kit.dev), [npm](https://www.npmjs.com/package/@mk-kit/ui).
 * [Hub UI](https://hubui.dev/) - Reusable Angular UI components for standalone apps, Angular Signals workflows, accessibility, CSS variables and production-ready documentation.
+* [atomic-angular ![GitHub Repo Stars](https://img.shields.io/github/stars/coveo/ui-kit) ![GitHub last commit](https://img.shields.io/github/last-commit/coveo/ui-kit)](https://github.com/coveo/ui-kit/tree/main/packages/atomic-angular) - A component library that wraps core [Atomic](https://docs.coveo.com/en/atomic/latest/) web components to build modern Angular UIs interfacing with the Coveo platform.
 
 ### UI Libraries built on Bootstrap
 
@@ -2179,6 +2184,7 @@ for the creation of web applications developed with Angular.
 * [angular-material-extended ![GitHub Repo Stars](https://img.shields.io/github/stars/reisi007/angular-material-extended) ![GitHub last commit](https://img.shields.io/github/last-commit/reisi007/angular-material-extended)](https://github.com/reisi007/angular-material-extended) - Community extensions for Angular Material (Standalone, Signals, Zoneless, SSR, M3 Theming).
 * [mat-exp ![GitHub Repo Stars](https://img.shields.io/github/stars/Angular-Material-Dev/mat-exp) ![GitHub last commit](https://img.shields.io/github/last-commit/Angular-Material-Dev/mat-exp)](https://github.com/Angular-Material-Dev/mat-exp) - A library of components and styles for Angular Material, built on the latest Material Design 3 Expressive Design System.
 * [angular-material-components ![GitHub Repo Stars](https://img.shields.io/github/stars/fbf-prog64/angular-material-components) ![GitHub last commit](https://img.shields.io/github/last-commit/fbf-prog64/angular-material-components)](https://github.com/fbf-prog64/angular-material-components) - Provides extra components for Angular Material projects: Datetime picker, Time picker, Color picker, etc.
+* [sdcorejs-angular ![GitHub Repo Stars](https://img.shields.io/github/stars/sdcorejs/sdcorejs-angular) ![GitHub last commit](https://img.shields.io/github/last-commit/sdcorejs/sdcorejs-angular)](https://github.com/sdcorejs/sdcorejs-angular) - Reusable Angular UI for data-heavy business applications.
 
 ### UI Libraries built on Tailwind CSS
 
