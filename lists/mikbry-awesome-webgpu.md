@@ -39,7 +39,7 @@ WebGPU is a work in progress Web standard from [W3C](https://www.w3.org/) for mo
 
 ### API documentations
 - [API quick reference and documentation](https://webgpu.rocks/) - WebGPU.rocks.
-- [MDN](https://developer.mozilla.org/en-US/docs/Web/API/WebGPU_API) - MDN WebGPU API references.
+- [MDN](https://developer.mozilla.org/en-US/docs/Web/API/WebGPU_API) - WebGPU API reference.
 
 ### Misc
 - [Google Developers Site](https://developer.chrome.com/docs/web-platform/webgpu)
@@ -83,7 +83,7 @@ WebGPU is a work in progress Web standard from [W3C](https://www.w3.org/) for mo
 - [WebGPU texture best practices](https://toji.github.io/webgpu-best-practices/img-textures.html) - By Brandon Jones.
 - [WebGPU Buffer upload best practices](https://toji.github.io/webgpu-best-practices/buffer-uploads.html) - By Brandon Jones.
 - [wgpu-rs on the web](https://gfx-rs.github.io/2020/04/21/wgpu-web) - Rust Graphics Mages.
-- [Compiling Machine Learning to WASM and WebGPU with Apache TVM](https://tvm.apache.org/2020/05/14/compiling-machine-learning-to-webassembly-and-webgpu) - By [Tianqi Chen](https://github.com/tqchen) & [Jared Roesch](https://github.com/jroesch).
+- [Compiling Machine Learning to WebAssembly and WebGPU with Apache TVM](https://tvm.apache.org/2020/05/14/compiling-machine-learning-to-webassembly-and-webgpu) - By [Tianqi Chen](https://github.com/tqchen) & [Jared Roesch](https://github.com/jroesch).
 - [The WebAssembly App Gap](https://paulbutler.org/2020/the-webassembly-app-gap/) - By [Paul Butler](https://github.com/paulgb).
 - [Next-generation 3D Graphics on the web](https://webkit.org/blog/7380/next-generation-3d-graphics-on-the-web/) - Webkit.org article by [Dean Jackson](https://twitter.com/grorgwork).
 - [Efficently rendering glTF models - A WebGPU Case Study](https://toji.github.io/webgpu-gltf-case-study/) - By [Brandon Jones](https://github.com/toji).
@@ -144,6 +144,7 @@ WebGPU is a work in progress Web standard from [W3C](https://www.w3.org/) for mo
 - [spark.js](https://ludicon.com/sparkjs/) - A real-time GPU texture compression library for WebGPU.
 - [zephyr3d](https://zephyr3d.org/) - A TypeScript-based 3D rendering engine with WebGPU/WebGL support.
 - [ChartGPU ![GitHub Repo Stars](https://img.shields.io/github/stars/chartgpu/chartgpu) ![GitHub last commit](https://img.shields.io/github/last-commit/chartgpu/chartgpu)](https://github.com/chartgpu/chartgpu) - High-performance charting library built on WebGPU, handles 1M+ data points at 60fps.
+- [vgpu](https://vgpu.sh/) - TypeScript WebGPU library with typed WGSL imports and a shared API for browsers, Node.js, and tests.
 
 ## Debuggers and Profilers
 - [webgpu-inspector ![GitHub Repo Stars](https://img.shields.io/github/stars/brendan-duncan/webgpu_inspector) ![GitHub last commit](https://img.shields.io/github/last-commit/brendan-duncan/webgpu_inspector)](https://github.com/brendan-duncan/webgpu_inspector) - Inspection debugger for WebGpu.
