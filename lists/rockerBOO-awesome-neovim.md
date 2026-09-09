@@ -87,7 +87,7 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 
 ## Plugin Manager
 
-- [alyxshang/nuwa.nvim](https://source.alyxshang.boo/alyxshang/nuwa.nvim) - A light package manager.
+- [alyxshang/nuwa.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/alyxshang/nuwa.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/alyxshang/nuwa.nvim)](https://github.com/alyxshang/nuwa.nvim) - A light package manager.
 - [lewis6991/pckr.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/lewis6991/pckr.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/lewis6991/pckr.nvim)](https://github.com/lewis6991/pckr.nvim) - Spiritual successor of `wbthomason/packer.nvim`.
 - [savq/paq-nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/savq/paq-nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/savq/paq-nvim)](https://github.com/savq/paq-nvim) - Package manager written in Lua.
 - [folke/lazy.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/folke/lazy.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/folke/lazy.nvim)](https://github.com/folke/lazy.nvim) - A modern plugin manager, featuring a graphical interface, async execution, a lockfile and more.
@@ -1355,6 +1355,7 @@ then it is not supported:
 - [jceb/jiejie.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/jceb/jiejie.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/jceb/jiejie.nvim)](https://github.com/jceb/jiejie.nvim) - Frontend for Jujutsu in the style of `fugitive`.
 - [chojs23/ec ![GitHub Repo Stars](https://img.shields.io/github/stars/chojs23/ec) ![GitHub last commit](https://img.shields.io/github/last-commit/chojs23/ec)](https://github.com/chojs23/ec) - A TUI native Git mergetool with 3 panes.
 - [harrisoncramer/GitLab.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/harrisoncramer/GitLab.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/harrisoncramer/GitLab.nvim)](https://github.com/harrisoncramer/GitLab.nvim) - Review pull requests and manage other GitLab resources.
+- [mm4cN/nvim-gitlab ![GitHub Repo Stars](https://img.shields.io/github/stars/mm4cN/nvim-gitlab) ![GitHub last commit](https://img.shields.io/github/last-commit/mm4cN/nvim-gitlab)](https://github.com/mm4cN/nvim-gitlab) - GitLab CI/CD integration for browsing and running pipelines, inspecting jobs and logs, retrying jobs, and downloading artifacts.
 
 ### GitHub
 
