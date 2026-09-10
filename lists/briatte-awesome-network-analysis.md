@@ -724,7 +724,7 @@ Inspired by [Awesome Deep Learning ![GitHub Repo Stars](https://img.shields.io/g
     -   [Introducing graphlayouts with Game of Thrones](http://blog.schochastics.net/post/introducing-graphlayouts-with-got/).
     -   [Network Visualizations in R using ggraph and graphlayouts](https://mr.schochastics.net/material/netVizR/).
 -   [hergm](https://CRAN.R-project.org/package=hergm) - Estimate and simulate hierarchical exponential-family random graph models (HERGM) with local dependence.
--   [hierformR](https://CRAN.R-project.org/package=hierformR) – Determine paths and states that social networks develop over time to form social hierarchies.
+-   [hierformR](https://CRAN.R-project.org/package=hierformR) ��� Determine paths and states that social networks develop over time to form social hierarchies.
 -   [igraph](http://igraph.org/r/) - A collection of network analysis tools.
     -   [Network Analysis and Visualization with R and igraph](http://kateto.net/networks-r-igraph) (2016).
 -   [ig.degree.betweenness ![GitHub Repo Stars](https://img.shields.io/github/stars/benyamindsmith/ig.degree.betweenness) ![GitHub last commit](https://img.shields.io/github/last-commit/benyamindsmith/ig.degree.betweenness)](https://github.com/benyamindsmith/ig.degree.betweenness/) - an igraph implementation of the [Smith-Pittman](https://arxiv.org/abs/2411.01394) community detection algorithm (2024).
