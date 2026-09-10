@@ -128,7 +128,6 @@ This can also be a dedicated section of your README.md files.
 
 ## Articles
 
-- ["Art of Readme - Learn the art of writing quality READMEs." ![GitHub Repo Stars](https://img.shields.io/github/stars/hackergrrl/art-of-readme) ![GitHub last commit](https://img.shields.io/github/last-commit/hackergrrl/art-of-readme)](https://github.com/hackergrrl/art-of-readme#readme) - *Stephen Whitmore*
 - ["Elegant READMEs"](https://www.yegor256.com/2019/04/23/elegant-readme.html) - *Yegor Bugayenko*
 - ["How To Write A Great README"](https://thoughtbot.com/blog/how-to-write-a-great-readme) - *Caleb Thompson (thoughtbot)*
 - ["Readme Driven Development"](https://tom.preston-werner.com/2010/08/23/readme-driven-development.html) - *Tom Preston-Werner*
@@ -145,7 +144,6 @@ This can also be a dedicated section of your README.md files.
 ## Tools
 
 - [Amazing GitHub Template ![GitHub Repo Stars](https://img.shields.io/github/stars/dec0dOS/amazing-github-template) ![GitHub last commit](https://img.shields.io/github/last-commit/dec0dOS/amazing-github-template)](https://github.com/dec0dOS/amazing-github-template#readme) - Useful README.md, LICENSE, CONTRIBUTING.md, CODE_OF_CONDUCT.md, SECURITY.md, GitHub Issues, Pull Requests and Actions templates to jumpstart your projects.
-- [Common Readme ![GitHub Repo Stars](https://img.shields.io/github/stars/hackergrrl/common-readme) ![GitHub last commit](https://img.shields.io/github/last-commit/hackergrrl/common-readme)](https://github.com/hackergrrl/common-readme#readme) - A common readme style for Node. Includes a guide and a readme generator.
 - [Github Licenses Stats ![GitHub Repo Stars](https://img.shields.io/github/stars/lheintzmann1/github-licenses-stats) ![GitHub last commit](https://img.shields.io/github/last-commit/lheintzmann1/github-licenses-stats)](https://github.com/lheintzmann1/github-licenses-stats#readme) - This tool generates a dynamic SVG that shows the top licenses used across your GitHub repositories.
 - [GitHub PR Stats ![GitHub Repo Stars](https://img.shields.io/github/stars/f14XuanLv/github-pr-stats) ![GitHub last commit](https://img.shields.io/github/last-commit/f14XuanLv/github-pr-stats)](https://github.com/f14XuanLv/github-pr-stats#readme) - Dynamic SVG tables displaying your GitHub pull requests with dual modes: detailed PR list and repository aggregate statistics. Features status filtering, star-based sorting, and customizable fields.
 - [GitHub Readme Stats ![GitHub Repo Stars](https://img.shields.io/github/stars/anuraghazra/github-readme-stats) ![GitHub last commit](https://img.shields.io/github/last-commit/anuraghazra/github-readme-stats)](https://github.com/anuraghazra/github-readme-stats#readme) - Dynamically generated customizable GitHub cards for README. Stats, extra pins, top languages and WakaTime.

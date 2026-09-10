@@ -143,6 +143,8 @@ Availability depends on the browser version, operating system, GPU, and driver.
 - [vgpu](https://vgpu.sh/) - TypeScript WebGPU library with typed WGSL imports and a shared API for browsers, Node.js, and tests.
 - [RunMat ![GitHub Repo Stars](https://img.shields.io/github/stars/runmat-org/runmat) ![GitHub last commit](https://img.shields.io/github/last-commit/runmat-org/runmat)](https://github.com/runmat-org/runmat) - GPU-accelerated numerical computing runtime for MATLAB-syntax programs, with browser execution through WebAssembly and WebGPU.
 - [Vienna WebGPU Engine ![GitHub Repo Stars](https://img.shields.io/github/stars/hlavacs/Vienna-WebGPU-Engine) ![GitHub last commit](https://img.shields.io/github/last-commit/hlavacs/Vienna-WebGPU-Engine)](https://github.com/hlavacs/Vienna-WebGPU-Engine) - Educational C++ game engine built on WebGPU, with rendering tutorials and native and browser backends.
+- [Points ![GitHub Repo Stars](https://img.shields.io/github/stars/Absulit/points) ![GitHub last commit](https://img.shields.io/github/last-commit/Absulit/points)](https://github.com/Absulit/points) - Generative art library built with WebGPU.
+- [fisheye.js ![GitHub Repo Stars](https://img.shields.io/github/stars/GyeongHoKim/fisheye.js) ![GitHub last commit](https://img.shields.io/github/last-commit/GyeongHoKim/fisheye.js)](https://github.com/GyeongHoKim/fisheye.js) - WebGPU compute library for fisheye image and video correction using WebCodecs.
 
 ## AI libraries
 
@@ -166,6 +168,7 @@ Availability depends on the browser version, operating system, GPU, and driver.
 Demo compatibility depends on browser support and the features required by each application.
 
 - [WebGPU Samples](https://webgpu.github.io/webgpu-samples/) - A set of samples and demos demonstrating the use of the WebGPU API - [Repository ![GitHub Repo Stars](https://img.shields.io/github/stars/webgpu/webgpu-samples) ![GitHub last commit](https://img.shields.io/github/last-commit/webgpu/webgpu-samples)](https://github.com/webgpu/webgpu-samples)
+- [Darkly.art](https://demo.darkly.art) - Open-source photo editor with an advanced WebGPU compositor written in Rust + WebAssembly - [Repository ![GitHub Repo Stars](https://img.shields.io/github/stars/darkly-art/darkly) ![GitHub last commit](https://img.shields.io/github/last-commit/darkly-art/darkly)](https://github.com/darkly-art/darkly)
 - [WebGPU first-person exploration of the Sponza Palace](https://toji.github.io/webgpu-test/) - Scene render comparison between WebGL, WebGL 2.0 and WebGPU, by Brandon Jones - [Repository ![GitHub Repo Stars](https://img.shields.io/github/stars/toji/webgpu-test) ![GitHub last commit](https://img.shields.io/github/last-commit/toji/webgpu-test)](https://github.com/toji/webgpu-test)
 - [WebGPU Clustered Shading](https://toji.github.io/webgpu-clustered-shading/) - By Brandon Jones - [Repository ![GitHub Repo Stars](https://img.shields.io/github/stars/toji/webgpu-clustered-shading) ![GitHub last commit](https://img.shields.io/github/last-commit/toji/webgpu-clustered-shading)](https://github.com/toji/webgpu-clustered-shading)
 - [WebGPU Metaballs](https://toji.github.io/webgpu-metaballs/) - By Brandon Jones - [Repository ![GitHub Repo Stars](https://img.shields.io/github/stars/toji/webgpu-metaballs) ![GitHub last commit](https://img.shields.io/github/last-commit/toji/webgpu-metaballs)](https://github.com/toji/webgpu-metaballs)
@@ -193,6 +196,8 @@ Demo compatibility depends on browser support and the features required by each 
 - [Real-Time GPU Texture Compression Demo](https://ludicon.com/sparkjs/gltf-demo/) - Showcases the advantages of real-time texture compression. Compares models using KTX2 textures against AVIF + Spark.
 - [vgpu Shader on Live HTML](https://html-in-canvas.dev/demos/vgpu-shader/) - Shader demo applying WebGPU effects to HTML content; requires the experimental canvas-draw-element browser flag.
 - [RunMat Browser Sandbox](https://runmat.com/sandbox) - Browser playground for MATLAB-syntax numerical programs accelerated with WebGPU.
+- [DoG Studio](https://dougfenstermacher.com/dogpack/) - WebGPU image and video processing demo for configurable Difference-of-Gaussians line art and screentone effects, with [source code ![GitHub Repo Stars](https://img.shields.io/github/stars/dpfens/dogpack) ![GitHub last commit](https://img.shields.io/github/last-commit/dpfens/dogpack)](https://github.com/dpfens/dogpack).
+- [Points examples](https://absulit.github.io/points/examples/index.html) - Generative art demos covering particles, render passes, and other WebGPU techniques.
 
 ## Videos
 

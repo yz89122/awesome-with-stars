@@ -254,7 +254,7 @@ _Info on topics necessary for designing and developing game engines._
 - Developer Portals
     - 🌎 [Game Developer](https://www.gamedeveloper.com) - Industry blogs, events, jobs, updates and more. Formerly _Gamasutra_.
     - 🌎 [GameDev.net](https://www.gamedev.net/) - Game dev forums, tutorials, blogs, projects, portfolios, and news.
-    - ��� [GameFromScratch.com](https://gamefromscratch.com) - Game dev news, tutorials and much more.
+    - 🌎 [GameFromScratch.com](https://gamefromscratch.com) - Game dev news, tutorials and much more.
     - 🌎 [itch.io](https://itch.io) - Game dev resources and platform to showcase / promote / buy & sell games.
 - Education Portals
     - 🌎 [Lazy Foo' Tutorials](https://lazyfoo.net/tutorials/SDL/) - Beginning game programming with SDL.
@@ -372,7 +372,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Kazmath ![GitHub Repo Stars](https://img.shields.io/github/stars/Kazade/kazmath) ![GitHub last commit](https://img.shields.io/github/last-commit/Kazade/kazmath)](https://github.com/Kazade/kazmath) - Math library targeted at games.
     - 🎉 [Raymath ![GitHub Repo Stars](https://img.shields.io/github/stars/raysan5/raylib) ![GitHub last commit](https://img.shields.io/github/last-commit/raysan5/raylib)](https://github.com/raysan5/raylib/blob/master/src/raymath.h) - Math library included in the _RayLib_ game framework.
 - C: Network
-    - �� [ENet ![GitHub Repo Stars](https://img.shields.io/github/stars/zpl-c/enet) ![GitHub last commit](https://img.shields.io/github/last-commit/zpl-c/enet)](https://github.com/zpl-c/enet) - Simple, lightweight and reliable UDP networking library.
+    - 🎉 [ENet ![GitHub Repo Stars](https://img.shields.io/github/stars/zpl-c/enet) ![GitHub last commit](https://img.shields.io/github/last-commit/zpl-c/enet)](https://github.com/zpl-c/enet) - Simple, lightweight and reliable UDP networking library.
     - 🎉 [librg ![GitHub Repo Stars](https://img.shields.io/github/stars/zpl-c/librg) ![GitHub last commit](https://img.shields.io/github/last-commit/zpl-c/librg)](https://github.com/zpl-c/librg) - Middleware between networking / file-streaming libraries and app logic.
     - 🎉 [netcode ![GitHub Repo Stars](https://img.shields.io/github/stars/mas-bandwidth/netcode) ![GitHub last commit](https://img.shields.io/github/last-commit/mas-bandwidth/netcode)](https://github.com/mas-bandwidth/netcode) - Secure client/server protocol for multiplayer games built on top of UDP.
 - C: Physics
@@ -402,7 +402,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Amplitude Audio SDK ![GitHub Repo Stars](https://img.shields.io/github/stars/SparkyStudios/AmplitudeAudioSDK) ![GitHub last commit](https://img.shields.io/github/last-commit/SparkyStudios/AmplitudeAudioSDK)](https://github.com/SparkyStudios/AmplitudeAudioSDK) - Cross-platform audio engine designed for the needs of games.
     - 💰 [irrKlang](https://www.ambiera.com/irrklang/) - High level 2D/3D sound engine and audio library.
     - 💰 [Juce ![GitHub Repo Stars](https://img.shields.io/github/stars/juce-framework/JUCE) ![GitHub last commit](https://img.shields.io/github/last-commit/juce-framework/JUCE)](https://github.com/juce-framework/JUCE) - The leading framework for multi-platform audio apps.
-    - 🔒 [OpenAL Soft ![GitHub Repo Stars](https://img.shields.io/github/stars/kcat/openal-soft) ![GitHub last commit](https://img.shields.io/github/last-commit/kcat/openal-soft)](https://github.com/kcat/openal-soft) - Software implementation of the _OpenAL_ 3D audio API.
+    - ��� [OpenAL Soft ![GitHub Repo Stars](https://img.shields.io/github/stars/kcat/openal-soft) ![GitHub last commit](https://img.shields.io/github/last-commit/kcat/openal-soft)](https://github.com/kcat/openal-soft) - Software implementation of the _OpenAL_ 3D audio API.
     - 🎉 [PortAudio ![GitHub Repo Stars](https://img.shields.io/github/stars/PortAudio/portaudio) ![GitHub last commit](https://img.shields.io/github/last-commit/PortAudio/portaudio)](https://github.com/PortAudio/portaudio) - Cross-platform audio library.
     - 🎉 [Steam Audio ![GitHub Repo Stars](https://img.shields.io/github/stars/ValveSoftware/steam-audio) ![GitHub last commit](https://img.shields.io/github/last-commit/ValveSoftware/steam-audio)](https://github.com/ValveSoftware/steam-audio) - Cross-platform spatial audio SDK for games and VR.
 - C++: Cross-Platform
@@ -427,7 +427,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [AnKi 3D Engine ![GitHub Repo Stars](https://img.shields.io/github/stars/godlikepanos/anki-3d-engine) ![GitHub last commit](https://img.shields.io/github/last-commit/godlikepanos/anki-3d-engine)](https://github.com/godlikepanos/anki-3d-engine) - Vulkan backend, modern renderer, scripting, physics and more.
     - 🔒 [Crown Engine ![GitHub Repo Stars](https://img.shields.io/github/stars/crownengine/crown) ![GitHub last commit](https://img.shields.io/github/last-commit/crownengine/crown)](https://github.com/crownengine/crown) - Data-driven 3D and 2D game engine.
     - 🎉 [Crystal Engine ![GitHub Repo Stars](https://img.shields.io/github/stars/neelmewada/CrystalEngine) ![GitHub last commit](https://img.shields.io/github/last-commit/neelmewada/CrystalEngine)](https://github.com/neelmewada/CrystalEngine) - Vulkan backend with PBR and styled GUI (_CrystalWidgets_).
-    - ���� [Doriax ![GitHub Repo Stars](https://img.shields.io/github/stars/doriaxengine/doriax) ![GitHub last commit](https://img.shields.io/github/last-commit/doriaxengine/doriax)](https://github.com/doriaxengine/doriax) - Cross-platform for 2D/3D projects. Formerly _Supernova_.
+    - 🎉 [Doriax ![GitHub Repo Stars](https://img.shields.io/github/stars/doriaxengine/doriax) ![GitHub last commit](https://img.shields.io/github/last-commit/doriaxengine/doriax)](https://github.com/doriaxengine/doriax) - Cross-platform for 2D/3D projects. Formerly _Supernova_.
     - 🎉 [Drop Creator ![GitHub Repo Stars](https://img.shields.io/github/stars/scidian/drop) ![GitHub last commit](https://img.shields.io/github/last-commit/scidian/drop)](https://github.com/scidian/drop) - No code, 2.5D game engine built with _Qt_, OpenGL and _Chipmunk Physics_.
     - 🎉 [Echo ![GitHub Repo Stars](https://img.shields.io/github/stars/timi-liuliang/echo) ![GitHub last commit](https://img.shields.io/github/last-commit/timi-liuliang/echo)](https://github.com/timi-liuliang/echo) - Cross-platform 2D/3D game engine.
     - 🔒 [Enigma ![GitHub Repo Stars](https://img.shields.io/github/stars/enigma-dev/enigma-dev) ![GitHub last commit](https://img.shields.io/github/last-commit/enigma-dev/enigma-dev)](https://github.com/enigma-dev/enigma-dev) - GameMaker compatible 2D engine.
@@ -846,7 +846,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Ember ![GitHub Repo Stars](https://img.shields.io/github/stars/emberjs/ember.js) ![GitHub last commit](https://img.shields.io/github/last-commit/emberjs/ember.js)](https://github.com/emberjs/ember.js) - Framework for ambitious web developers.
     - 🎉 [Preact ![GitHub Repo Stars](https://img.shields.io/github/stars/preactjs/preact) ![GitHub last commit](https://img.shields.io/github/last-commit/preactjs/preact)](https://github.com/preactjs/preact) - Fast 3kB React alternative with the same modern API.
     - 🎉 [React ![GitHub Repo Stars](https://img.shields.io/github/stars/facebook/react) ![GitHub last commit](https://img.shields.io/github/last-commit/facebook/react)](https://github.com/facebook/react/) - Declarative, efficient, and flexible JavaScript library for building user interfaces.
-    - 🎉 [Svelte ![GitHub Repo Stars](https://img.shields.io/github/stars/sveltejs/svelte) ![GitHub last commit](https://img.shields.io/github/last-commit/sveltejs/svelte)](https://github.com/sveltejs/svelte) - Takes your declarative components and converts them into efficient JavaScript.
+    - �� [Svelte ![GitHub Repo Stars](https://img.shields.io/github/stars/sveltejs/svelte) ![GitHub last commit](https://img.shields.io/github/last-commit/sveltejs/svelte)](https://github.com/sveltejs/svelte) - Takes your declarative components and converts them into efficient JavaScript.
     - 🎉 [Vue ![GitHub Repo Stars](https://img.shields.io/github/stars/vuejs/vue) ![GitHub last commit](https://img.shields.io/github/last-commit/vuejs/vue)](https://github.com/vuejs/vue) - Progressive JavaScript framework for building UI on the web.
 - JavaScript: Game Engines
     - 📚 [JavaScript Game Engines ![GitHub Repo Stars](https://img.shields.io/github/stars/collections/javascript-game-engines) ![GitHub last commit](https://img.shields.io/github/last-commit/collections/javascript-game-engines)](https://github.com/collections/javascript-game-engines) - GitHub Collection of JavaScript / HTML5 game engines.
