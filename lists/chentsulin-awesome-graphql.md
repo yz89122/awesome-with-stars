@@ -715,6 +715,7 @@ If you want to contribute to this list (please do), send me a pull request.
 - [mockd ![GitHub Repo Stars](https://img.shields.io/github/stars/getmockd/mockd) ![GitHub last commit](https://img.shields.io/github/last-commit/getmockd/mockd)](https://github.com/getmockd/mockd) - Multi-protocol mock server with GraphQL schema mocking, resolver configuration, and query validation. Also supports HTTP, gRPC, WebSocket, MQTT, and SOAP.
 - [Keploy](https://keploy.io/) - Open-source AI Powered API testing tool that generates test cases and **data mocks automatically by recording real API traffic**. Supports GraphQL, REST, and gRPC.
 - [Step CI](https://stepci.com) - Open-Source API **Testing and Monitoring** with GraphQL support
+- [MockBase](https://mockbase.org) - Hosted mock server for REST, GraphQL, and SOAP with fault injection, stateful mocks, and OpenAPI import.
 
 <a name="tool-security" />
 
@@ -731,6 +732,7 @@ If you want to contribute to this list (please do), send me a pull request.
 - [GraphQL Cop ![GitHub Repo Stars](https://img.shields.io/github/stars/dolevf/graphql-cop) ![GitHub last commit](https://img.shields.io/github/last-commit/dolevf/graphql-cop)](https://github.com/dolevf/graphql-cop) - Security Audit Utility for GraphQL
 - [GraphQLer ![GitHub Repo Stars](https://img.shields.io/github/stars/omar2535/GraphQLer) ![GitHub last commit](https://img.shields.io/github/last-commit/omar2535/GraphQLer)](https://github.com/omar2535/GraphQLer) - Dependency-aware dynamic GraphQL testing tool
 - [Vulert](https://vulert.com) - Vulert secures software by detecting vulnerabilities in open-source dependencies—without accessing your code. It supports Js, PHP, Java, Python, and more
+- [hasura-security ![GitHub Repo Stars](https://img.shields.io/github/stars/Perufitlife/hasura-security) ![GitHub last commit](https://img.shields.io/github/last-commit/Perufitlife/hasura-security)](https://github.com/Perufitlife/hasura-security) - Active-probe security auditor for self-hosted Hasura GraphQL Engine: detects open introspection, public-role data leaks and unauthenticated endpoints
 
 ### Tools - Browser Extensions
 
