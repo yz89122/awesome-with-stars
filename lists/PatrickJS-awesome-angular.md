@@ -237,6 +237,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [Depfixer](https://depfixer.com/sample-report/angular) - Smart dependency analysis for JS/TS projects; detects compatibility conflicts and provides step‑by‑step fixes.
 * [migration-planificator ![GitHub Repo Stars](https://img.shields.io/github/stars/silvestv/migration-planificator-documentation) ![GitHub last commit](https://img.shields.io/github/last-commit/silvestv/migration-planificator-documentation)](https://github.com/silvestv/migration-planificator-documentation) - Plan Angular migrations with precision AST analysis, calculate workload estimates, and generate interactive HTML dashboards.
 * [NgReady](https://www.ngready.dev/) - Stop Wasting Days on Angular Upgrades.
+* [ng-ceiling ![GitHub Repo Stars](https://img.shields.io/github/stars/korolvitalii/ng-ceiling) ![GitHub last commit](https://img.shields.io/github/last-commit/korolvitalii/ng-ceiling)](https://github.com/korolvitalii/ng-ceiling) - Estimates the highest Angular version allowed by declared package compatibility and lists upgrade blockers.
 
 ## Angular Pulse
 
@@ -1383,6 +1384,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [@some-angular-utils/table ![GitHub Repo Stars](https://img.shields.io/github/stars/some-angular-utils/table) ![GitHub last commit](https://img.shields.io/github/last-commit/some-angular-utils/table)](https://github.com/some-angular-utils/table) - Remote or local data, pagination, filters, responsive layouts and full template control — wired into one declarative `<sau-table>` element.
 * [DataGrid ![GitHub Repo Stars](https://img.shields.io/github/stars/Laczynski/DataGrid) ![GitHub last commit](https://img.shields.io/github/last-commit/Laczynski/DataGrid)](https://github.com/Laczynski/DataGrid) - Server-driven pagination, filtering, and sorting for .NET and Angular — as a standalone, reusable library.
 * [fastgrid-angular ![GitHub Repo Stars](https://img.shields.io/github/stars/coqsoft/fastgrid-frameworks) ![GitHub last commit](https://img.shields.io/github/last-commit/coqsoft/fastgrid-frameworks)](https://github.com/coqsoft/fastgrid-frameworks/tree/main/fastgrid-angular) - The official Angular wrapper for [FastGrid](https://www.treegrid.com/FDoc/FastGridAngular.html) and FastSheet by COQsoft.
+* [angular-generic-table ![GitHub Repo Stars](https://img.shields.io/github/stars/hjalmers/angular-generic-table) ![GitHub last commit](https://img.shields.io/github/last-commit/hjalmers/angular-generic-table)](https://github.com/hjalmers/angular-generic-table) - Angular table component supporting sorting, pagination, search highlighting, keyboard navigation, custom templates, and footer calculations.
 
 ### Dates
 
@@ -2147,6 +2149,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [mk-kit ![GitHub Repo Stars](https://img.shields.io/github/stars/mk-kit/mk-kit) ![GitHub last commit](https://img.shields.io/github/last-commit/mk-kit/mk-kit)](https://github.com/mk-kit/mk-kit) - MIT component library for admin panels: 180 signals-based, zoneless-ready components themed with CSS variables, WCAG 2.1 AA, with a PrimeNG migration schematic. [Documentation](https://mk-kit.dev), [npm](https://www.npmjs.com/package/@mk-kit/ui).
 * [Hub UI](https://hubui.dev/) - Reusable Angular UI components for standalone apps, Angular Signals workflows, accessibility, CSS variables and production-ready documentation.
 * [atomic-angular ![GitHub Repo Stars](https://img.shields.io/github/stars/coveo/ui-kit) ![GitHub last commit](https://img.shields.io/github/last-commit/coveo/ui-kit)](https://github.com/coveo/ui-kit/tree/main/packages/atomic-angular) - A component library that wraps core [Atomic](https://docs.coveo.com/en/atomic/latest/) web components to build modern Angular UIs interfacing with the Coveo platform.
+* [solanda-ui](https://gitlab.com/federa-social/libraries/solanda-ui) - Minimalist Web Components UI library for Vue, Nuxt, React, Angular, Svelte, and vanilla JavaScript.
 
 ### UI Libraries built on Bootstrap
 

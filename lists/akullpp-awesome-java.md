@@ -612,7 +612,7 @@ _Libraries for decompiling JVM bytecode._
 
 > **[jadx ![GitHub Repo Stars](https://img.shields.io/github/stars/skylot/jadx) ![GitHub last commit](https://img.shields.io/github/last-commit/skylot/jadx)](https://github.com/skylot/jadx)** <kbd>★ 50.2k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Dex-to-Java decompiler with command-line and graphical interfaces.
 
-> **[transformer-api ![GitHub Repo Stars](https://img.shields.io/github/stars/nbauma109/transformer-api) ![GitHub last commit](https://img.shields.io/github/last-commit/nbauma109/transformer-api)](https://github.com/nbauma109/transformer-api)** <kbd>★ 3</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Unified API that exposes multiple decompilers through one in-memory transformation interface.
+> **[transformer-api ![GitHub Repo Stars](https://img.shields.io/github/stars/nbauma109/transformer-api) ![GitHub last commit](https://img.shields.io/github/last-commit/nbauma109/transformer-api)](https://github.com/nbauma109/transformer-api)** <kbd>�� 3</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Unified API that exposes multiple decompilers through one in-memory transformation interface.
 
 > **[Vineflower ![GitHub Repo Stars](https://img.shields.io/github/stars/Vineflower/vineflower) ![GitHub last commit](https://img.shields.io/github/last-commit/Vineflower/vineflower)](https://github.com/Vineflower/vineflower)** <kbd>★ 2.3k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Modern maintained fork of Fernflower.
 
@@ -1999,7 +1999,7 @@ _Everything related to the creation and handling of random data._
 
 > **[Instancio ![GitHub Repo Stars](https://img.shields.io/github/stars/instancio/instancio) ![GitHub last commit](https://img.shields.io/github/last-commit/instancio/instancio)](https://github.com/instancio/instancio)** <kbd>★ 1.2k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Automates data setup in unit tests by generating fully-populated, reproducible objects. Includes JUnit 5 extension.
 
-> **[jFairy ![GitHub Repo Stars](https://img.shields.io/github/stars/SkillPanel/jfairy) ![GitHub last commit](https://img.shields.io/github/last-commit/SkillPanel/jfairy)](https://github.com/SkillPanel/jfairy)** <kbd>★ 742</kbd> <kbd>Apache-2.0</kbd> ��<br>Fake data generator.
+> **[jFairy ![GitHub Repo Stars](https://img.shields.io/github/stars/SkillPanel/jfairy) ![GitHub last commit](https://img.shields.io/github/last-commit/SkillPanel/jfairy)](https://github.com/SkillPanel/jfairy)** <kbd>★ 742</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Fake data generator.
 
 > **[JMock ![GitHub Repo Stars](https://img.shields.io/github/stars/xcancloud/JMock) ![GitHub last commit](https://img.shields.io/github/last-commit/xcancloud/JMock)](https://github.com/xcancloud/JMock)** <kbd>★ 206</kbd> <kbd>Apache-2.0</kbd> 🟢<br>JMock is a high-performance data generation and simulation component library implemented in Java.
 

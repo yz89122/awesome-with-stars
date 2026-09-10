@@ -29,6 +29,7 @@
 - [ambethia/recaptcha ![GitHub Repo Stars](https://img.shields.io/github/stars/ambethia/recaptcha) ![GitHub last commit](https://img.shields.io/github/last-commit/ambethia/recaptcha)](https://github.com/ambethia/recaptcha) - ReCaptcha helpers for ruby apps.
 - [anhskohbo/no-captcha ![GitHub Repo Stars](https://img.shields.io/github/stars/anhskohbo/no-captcha) ![GitHub last commit](https://img.shields.io/github/last-commit/anhskohbo/no-captcha)](https://github.com/anhskohbo/no-captcha) - No CAPTCHA reCAPTCHA For Laravel.
 - [lorien/captcha_solver ![GitHub Repo Stars](https://img.shields.io/github/stars/lorien/captcha_solver) ![GitHub last commit](https://img.shields.io/github/last-commit/lorien/captcha_solver)](https://github.com/lorien/captcha_solver) - Universal python API to different captcha solving services.
+- [WebDecoy/FCaptcha ![GitHub Repo Stars](https://img.shields.io/github/stars/WebDecoy/FCaptcha) ![GitHub last commit](https://img.shields.io/github/last-commit/WebDecoy/FCaptcha)](https://github.com/WebDecoy/FCaptcha) - Self-hosted, invisible CAPTCHA that detects bots and AI agents via behavioral analysis, TLS fingerprinting, and SHA-256 proof of work. Checkbox or invisible mode; Go, Python, and Node.js servers.
 
 
 ## Generation
@@ -46,6 +47,7 @@
 - [Securimage](https://www.phpcaptcha.org) - Open-source free PHP Captcha script.
 - [Lokno/click-captcha ![GitHub Repo Stars](https://img.shields.io/github/stars/Lokno/click-captcha) ![GitHub last commit](https://img.shields.io/github/last-commit/Lokno/click-captcha)](https://github.com/Lokno/click-captcha) - A visual, click-based CAPTCHA for human authentication.
 - [ArgoZhang/SliderCaptcha ![GitHub Repo Stars](https://img.shields.io/github/stars/ArgoZhang/SliderCaptcha) ![GitHub last commit](https://img.shields.io/github/last-commit/ArgoZhang/SliderCaptcha)](https://github.com/ArgoZhang/SliderCaptcha) - Slider captcha supporting mobile.
+- [PrivateCaptcha ![GitHub Repo Stars](https://img.shields.io/github/stars/PrivateCaptcha/PrivateCaptcha) ![GitHub last commit](https://img.shields.io/github/last-commit/PrivateCaptcha/PrivateCaptcha)](https://github.com/PrivateCaptcha/PrivateCaptcha) - Proof-of-Work captcha, written in Go.
 
 
 ## Crack
