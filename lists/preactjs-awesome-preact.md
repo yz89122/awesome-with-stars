@@ -185,6 +185,7 @@
 - [Trellith](https://trellith.sakih.net/) - Tiny Trello Clone PWA ([GitHub Project ![GitHub Repo Stars](https://img.shields.io/github/stars/sakihet/trellith) ![GitHub last commit](https://img.shields.io/github/last-commit/sakihet/trellith)](https://github.com/sakihet/trellith)).
 - [Gladys Assistant](https://gladysassistant.com/) - A privacy-first, open-source home assistant _([GitHub Project ![GitHub Repo Stars](https://img.shields.io/github/stars/GladysAssistant/Gladys) ![GitHub last commit](https://img.shields.io/github/last-commit/GladysAssistant/Gladys)](https://github.com/GladysAssistant/Gladys))_.
 - [Lanquiz](https://codeberg.org/nykula/lanquiz) - Host quizzes in LAN from a laptop (Import from Kahoot. Self-host during blackouts).
+- [Authier](https://www.authier.pm/) - Open-source password manager with Preact-powered autofill and password-generation interfaces in its browser extension *([GitHub Project ![GitHub Repo Stars](https://img.shields.io/github/stars/authier-pm/authier) ![GitHub last commit](https://img.shields.io/github/last-commit/authier-pm/authier)](https://github.com/authier-pm/authier))*.
 
 ### Related Libraries
 - [React ![GitHub Repo Stars](https://img.shields.io/github/stars/facebook/react) ![GitHub last commit](https://img.shields.io/github/last-commit/facebook/react)](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
