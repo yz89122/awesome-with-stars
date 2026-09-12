@@ -245,19 +245,16 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 ### Community
 
 * [Angular Discord Channel](https://discord.com/invite/angular)
-* [Angular Hashtag](https://x.com/hashtag/angular) - Use `#angular` hashtag on X.
-* [Gitter Channel](https://gitter.im/angular/angular)
 * [Angular Stack Overflow](https://stackoverflow.com/questions/tagged/angular)
 * [@Angular on X](https://x.com/angular)
 * [/r/Angular Subreddit](https://www.reddit.com/r/Angular/)
-* [Angular Buddies Slack Channel](https://angularbuddies.slack.com/)
-* [angular-logos ![GitHub Repo Stars](https://img.shields.io/github/stars/maartentibau/angular-logos) ![GitHub last commit](https://img.shields.io/github/last-commit/maartentibau/angular-logos)](https://github.com/maartentibau/angular-logos) - Repo is dedicated to collecting all the different kinds of Angular badges and logos.
+* [angular-logos ![GitHub Repo Stars](https://img.shields.io/github/stars/maartentibau/angular-logos) ![GitHub last commit](https://img.shields.io/github/last-commit/maartentibau/angular-logos)](https://github.com/maartentibau/angular-logos) - This repository collects all Angular badges and logos.
 * [Made with Angular ![GitHub Repo Stars](https://img.shields.io/github/stars/madewithangular/madewithangular.github.io) ![GitHub last commit](https://img.shields.io/github/last-commit/madewithangular/madewithangular.github.io)](https://github.com/madewithangular/madewithangular.github.io) - A showcase of web apps built with Angular.
-* [Angular Hub ![GitHub Repo Stars](https://img.shields.io/github/stars/angular-sanctuary/angular-hub) ![GitHub last commit](https://img.shields.io/github/last-commit/angular-sanctuary/angular-hub)](https://github.com/angular-sanctuary/angular-hub) - Curated list of Angular events and communities.
+* [Angular Hub ![GitHub Repo Stars](https://img.shields.io/github/stars/geromegrignon/angular-hub) ![GitHub last commit](https://img.shields.io/github/last-commit/geromegrignon/angular-hub)](https://github.com/geromegrignon/angular-hub) - Curated list of Angular events and communities.
 * [Angular Space](https://www.angularspace.com/) - Your Hub for Learning and Growing as an Angular Developer.
 * [builtwith trends](https://trends.builtwith.com/framework/Angular) - Angular Usage Statistics.
 * [Angular: The Documentary | An origin story](https://www.youtube.com/watch?v=cRC9DlH45lA)
-* [Map of GitHub](https://anvaka.github.io/map-of-github/#9.14/-21.9624/9.8143) - Explore the NgSphere to discover repositories with overlapping stargazers.
+* [Map of GitHub](https://anvaka.github.io/map-of-github/#9.14/-21.9624/9.8143) - Discover repositories with overlapping stargazers across the NgSphere.
 * [Angular Popularity Analysis ![GitHub Repo Stars](https://img.shields.io/github/stars/ProjectBay/angular-popularity-analysis) ![GitHub last commit](https://img.shields.io/github/last-commit/ProjectBay/angular-popularity-analysis)](https://github.com/ProjectBay/angular-popularity-analysis) - An AI-era normalized statistical analysis of Angular’s popularity.
 * [Jobs in JS](https://jobsinjs.com/angular-developer-jobs/) - Angular developer jobs in the US, Canada and UK. Updated daily.
 
@@ -265,7 +262,6 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 
 * [Angular Addicts](https://www.angularaddicts.com/)
 * [Angular Digest](https://geromegrignon.substack.com/)
-* [ultimate courses](https://ultimatecourses.com/newsletter)
 * [Weekly Angular](https://prodigious-knitter-4508.kit.com/subscribe)
 
 ### Podcasts
@@ -353,11 +349,11 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 
 ### Blogs
 
-* [Angular Experts](https://angularexperts.io/blog) - Learn all about Angular, NgRx, RxJS & NX and advance your skills with guides, in-depth content and actionable tips and tricks!
-* [angular-university](https://blog.angular-university.io/) - Learn and Keep Up with the Angular Ecosystem.
-* [simplified courses](https://blog.simplified.courses/) - Blog articles written with love, just for you!
-* [Just Angular](https://justangular.com/) - Shares the newest and most important updates about Angular, along with useful tips and tricks.
-* [Angular Love](https://angular.love/) - (Polish) Excellent up-to-date resource for Angular.
+* [Angular Experts](https://angularexperts.io/blog)
+* [angular-university](https://blog.angular-university.io/)
+* [simplified courses](https://blog.simplified.courses/)
+* [Just Angular](https://justangular.com/)
+* [Angular Love](https://angular.love/)
 * [Angular Architects](https://www.angulararchitects.io/en/blog/)
 * [House of Angular](https://houseofangular.io/blog/)
 * [halodoc](https://blogs.halodoc.io/tag/angular-2-2/)
@@ -375,24 +371,22 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [This is Angular](https://dev.to/this-is-angular)
 * [daily.dev](https://app.daily.dev/tags/angular)
 * [Angular Philosophies ![GitHub Repo Stars](https://img.shields.io/github/stars/tomavic/angular-philosophies) ![GitHub last commit](https://img.shields.io/github/last-commit/tomavic/angular-philosophies)](https://github.com/tomavic/angular-philosophies)
-* [Angular Material Dev](https://angular-material.dev/home) - One place for everything related to Material Design in Angular.
-* [Angular Tips](https://ngtips.com/) - Best practices and recommendations for building complex, large and maintainable applications with Angular.
-* [Modern Angular Insights](https://medium.com/modern-angular-insights) - Advanced strategies for modern Angular development.
+* [Angular Material Dev](https://angular-material.dev/home)
+* [Angular Tips](https://ngtips.com/)
+* [Modern Angular Insights](https://medium.com/modern-angular-insights)
 
 ### Books
 
-* [Packt Publishing](https://www.packtpub.com/en-us/search?query=angular&sort=best-selling) - Your best option to find the largest variety of up-to-date programming books.
-* [GumRoad](https://gumroad.com/software-development/web-development/javascript?tags=angular) - Various Free and Paid Angular ebooks.
-* [LeanPub](https://leanpub.com/bookstore?type=all&search=angular) - Support authors on your own terms with LeanPub’s flexible pricing model, giving you the freedom to choose what you pay.
-* [Manning](https://www.manning.com/) - Buy a Manning pBook anywhere, get the eBook free.
-* [Become a ninja with Angular](https://books.ninja-squad.com/angular) - `Ninja Squad`.
-* [Angular-Buch (German)](https://angular-buch.com/) - `dpunkt.verlag`.
+* [Packt Publishing](https://www.packtpub.com/en-us/search?query=angular&sort=best-selling)
+* [GumRoad](https://gumroad.com/software-development/web-development/javascript?tags=angular)
+* [LeanPub](https://leanpub.com/bookstore?type=all&search=angular)
+* [Manning](https://www.manning.com/)
 * [Code with Ahsan](https://www.codewithahsan.dev/books)
 * [Angular University Ebooks](https://angular-university.io/my-ebooks) - Available separately or included with a subscription.
+* [Become a ninja with Angular](https://books.ninja-squad.com/angular) - `Ninja Squad`.
+* [Angular-Buch (German)](https://angular-buch.com/) - `dpunkt.verlag`.
 * [Angular Enterprise Architecture](https://angularexperts.io/products/ebook-angular-enterprise-architecture) - `Tomas Trajan`.
-* [Testing Angular](https://testing-angular.com) - A Guide to Robust Angular Applications **FREE**.
 * [Modern Angular](https://www.angulararchitects.io/en/ebooks/modern-angular/?book) - `Manfred Steyer` **FREE**.
-* [TutorialSearch](https://tutorialsearch.io/browse/programming-languages/angular-interview) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
 * [Ultimate Guide to Angular Evolution](https://houseofangular.io/the-ultimate-guide-to-angular-evolution/) - `House of Angular` **FREE**.
 * [Micro Frontends and Moduliths with Angular](https://www.angulararchitects.io/en/ebooks/micro-frontends-and-moduliths-with-angular/) - `Manfred Steyer` **FREE**.
 * [Angular Mastery](https://christianlydemann.com/angular-mastery-book/) - `CHRISTIAN LÜDEMANN` **FREE**.
@@ -400,11 +394,11 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 
 ### Certification Programs
 
-* [Certificates.dev](https://certificates.dev/angular) - Obtain your Certification of Competence as an Angular Developer.
+* [Certificates.dev](https://certificates.dev/angular) - Official Certification of Competence for Angular developers.
 * [Angular Academy CA](https://www.angularacademy.ca/angular-certification) - Hands‑on, instructor‑led Angular training in Canada.
-* [Hackerrank](https://www.hackerrank.com/skills-verification/angular_basic) - Angular (Basic) Skills Certification Test.
-* [Koenig](https://www.koenig-solutions.com/angularjs-training-certification-courses) - Various courses cover Angular separately or full-stack.
-* [Simplilearn](https://www.simplilearn.com/angular-certification-training-course) - Angular Certification Training Course.
+* [Hackerrank](https://www.hackerrank.com/skills-verification/angular_basic) - Automated foundational skills verification test.
+* [Koenig](https://www.koenig-solutions.com/angularjs-training-certification-courses) - Multi-level corporate and full-stack certification courses.
+* [Simplilearn](https://www.simplilearn.com/angular-certification-training-course) - Structured online training and certification program.
 
 ### Cheat Sheets
 
@@ -423,6 +417,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [Codelabs](https://codelabs.developers.google.com/?text=angular) - Google Developers Codelabs offer guided, hands-on tutorials to build apps or add new features.
 * [rxjs-fruits](https://www.rxjs-fruits.com/subscribe) - Interactive lessons covering a range of operators in RxJS.
 * [modern-angular-exercises ![GitHub Repo Stars](https://img.shields.io/github/stars/kobi-hari-courses/modern-angular-exercises) ![GitHub last commit](https://img.shields.io/github/last-commit/kobi-hari-courses/modern-angular-exercises)](https://github.com/kobi-hari-courses/modern-angular-exercises) - Exercises on various Angular topics, including solutions and solution videos.
+* [TutorialSearch](https://tutorialsearch.io/browse/programming-languages/angular-interview) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
 
 ### Training
 
@@ -532,7 +527,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ng-qubee ![GitHub Repo Stars](https://img.shields.io/github/stars/AndreaAlhena/ng-qubee) ![GitHub last commit](https://img.shields.io/github/last-commit/AndreaAlhena/ng-qubee)](https://github.com/AndreaAlhena/ng-qubee) - Angular query builder with reactive URIs (RxJS + Signals), typed pagination, 495+ tests, and multi‑driver support.
 * [ngx-trpc-client ![GitHub Repo Stars](https://img.shields.io/github/stars/BeGj/ngx-trpc-client) ![GitHub last commit](https://img.shields.io/github/last-commit/BeGj/ngx-trpc-client)](https://github.com/BeGj/ngx-trpc-client) - Reworked fork of Analog's [TRPC package ![GitHub Repo Stars](https://img.shields.io/github/stars/analogjs/analog) ![GitHub last commit](https://img.shields.io/github/last-commit/analogjs/analog)](https://github.com/analogjs/analog/tree/beta/packages/trpc).
 * [zx-angular-lazy-resource ![GitHub Repo Stars](https://img.shields.io/github/stars/zxnc/zx-angular-lazy-resource) ![GitHub last commit](https://img.shields.io/github/last-commit/zxnc/zx-angular-lazy-resource)](https://github.com/zxnc/zx-angular-lazy-resource) - Lazy helpers for Angular's signal-based `resource()` — defer loading until first access, and await the first settled value as a promise.
-* [@stitchapi/angular ![GitHub Repo Stars](https://img.shields.io/github/stars/rejifald/StitchAPI) ![GitHub last commit](https://img.shields.io/github/last-commit/rejifald/StitchAPI)](https://github.com/rejifald/StitchAPI/tree/main/packages/angular) - Streaming-first StitchAPI bindings: `injectStitch` / `injectStitchStream` expose a typed, validated call as both Angular signals and an RxJS observable, re-rendering as response deltas arrive.
+* [@stitchapi/angular ![GitHub Repo Stars](https://img.shields.io/github/stars/rejifald/StitchAPI) ![GitHub last commit](https://img.shields.io/github/last-commit/rejifald/StitchAPI)](https://github.com/rejifald/StitchAPI/tree/main/packages/angular) - Streaming-first StitchAPI bindings that expose typed, validated calls as signals or observables with dynamic delta updates.
 * [angular-fetcher ![GitHub Repo Stars](https://img.shields.io/github/stars/aliomnt/angular-fetcher) ![GitHub last commit](https://img.shields.io/github/last-commit/aliomnt/angular-fetcher)](https://github.com/aliomnt/angular-fetcher) - A modern, signal-based Angular library for seamless, type-safe remote API data management, handling fetching, mutations, and error tracking reactively.
 * [@some-angular-utils/paginator ![GitHub Repo Stars](https://img.shields.io/github/stars/some-angular-utils/paginator) ![GitHub last commit](https://img.shields.io/github/last-commit/some-angular-utils/paginator)](https://github.com/some-angular-utils/paginator) - Simple, reliable pagination with two inputs: sliding window, jump buttons, disabled edges, and CSS-variable theming.
 * [ngx-request-lock ![GitHub Repo Stars](https://img.shields.io/github/stars/SalvatoreDiGenua/ngx-request-lock-docs) ![GitHub last commit](https://img.shields.io/github/last-commit/SalvatoreDiGenua/ngx-request-lock-docs)](https://github.com/SalvatoreDiGenua/ngx-request-lock-docs) - An Angular library that binds a UI flow to the lifecycle of its HTTP requests.
@@ -602,7 +597,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [a11yguard ![GitHub Repo Stars](https://img.shields.io/github/stars/shamaz332/a11yguard) ![GitHub last commit](https://img.shields.io/github/last-commit/shamaz332/a11yguard)](https://github.com/shamaz332/a11yguard) - Delivers a zero‑dependency accessibility toolkit with cross‑framework primitives, idiomatic adapters, and a runtime audit mapped to EAA / EN 301 549.
 * [ulam ![GitHub Repo Stars](https://img.shields.io/github/stars/mikeyil/ulam) ![GitHub last commit](https://img.shields.io/github/last-commit/mikeyil/ulam)](https://github.com/mikeyil/ulam) - Accessibility utilities for the modern web. Vanilla-first, with optional React, Remix, Vue, and Angular adapters.
 * [aria-reach ![GitHub Repo Stars](https://img.shields.io/github/stars/manichandra/aria-reach) ![GitHub last commit](https://img.shields.io/github/last-commit/manichandra/aria-reach)](https://github.com/manichandra/aria-reach) - ARIA accessibility anti-pattern analyzer for shared component libraries.
-* [rgaa-source ![GitHub Repo Stars](https://img.shields.io/github/stars/oussamaLaribi/RGAA) ![GitHub last commit](https://img.shields.io/github/last-commit/oussamaLaribi/RGAA)](https://github.com/oussamaLaribi/RGAA) - Scans a built Angular app with axe-core and reports each violation with its originating template file and line when available, rather than only a CSS selector, plus safe automatic fixes and the French RGAA 4.1.2 audit grid.
+* [rgaa-source ![GitHub Repo Stars](https://img.shields.io/github/stars/oussamaLaribi/RGAA) ![GitHub last commit](https://img.shields.io/github/last-commit/oussamaLaribi/RGAA)](https://github.com/oussamaLaribi/RGAA) - Axe-core accessibility scanner mapping violations directly to source template lines. Features safe auto-fixes and French RGAA 4.1.2 audit grids.
 
 ### AI
 
@@ -635,7 +630,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [gitingest](https://gitingest.com/) - Turn any Git repository into a simple text digest of its codebase. This is useful for feeding a codebase into any LLM.
 * [glama](https://glama.ai/mcp/servers?query=angular) - Directory of MCP servers filtered for Angular-related entries.
 * [hashbrown ![GitHub Repo Stars](https://img.shields.io/github/stars/liveloveapp/hashbrown) ![GitHub last commit](https://img.shields.io/github/last-commit/liveloveapp/hashbrown)](https://github.com/liveloveapp/hashbrown) - The [Hashbrown](https://hashbrown.dev/) framework is for building joyful, AI-powered user experiences.
-* [mushi-mushi ![GitHub Repo Stars](https://img.shields.io/github/stars/kensaurus/mushi-mushi) ![GitHub last commit](https://img.shields.io/github/last-commit/kensaurus/mushi-mushi)](https://github.com/kensaurus/mushi-mushi) - Fix your AI-built app instantly with plain-English diagnoses and ready-to-use fixes directly in your editor.
+* [mushi-mushi ![GitHub Repo Stars](https://img.shields.io/github/stars/kensaurus/mushi-mushi) ![GitHub last commit](https://img.shields.io/github/last-commit/kensaurus/mushi-mushi)](https://github.com/kensaurus/mushi-mushi) - Plain-English AI app debugger delivering in-editor diagnoses and fixes.
 * [ngAutoPilot ![GitHub Repo Stars](https://img.shields.io/github/stars/janpereira-dev/ngAutoPilot) ![GitHub last commit](https://img.shields.io/github/last-commit/janpereira-dev/ngAutoPilot)](https://github.com/janpereira-dev/ngAutoPilot) - Agent-agnostic catalog of micro-skills for Angular, TypeScript, JavaScript, RxJS, testing, code quality, architecture, versioning, and quality governance workflows.
 * [ng-agentic-skills ![GitHub Repo Stars](https://img.shields.io/github/stars/L-X-T/ng-agentic-skills) ![GitHub last commit](https://img.shields.io/github/last-commit/L-X-T/ng-agentic-skills)](https://github.com/L-X-T/ng-agentic-skills) - Agent skills for Angular development. The official companion repo for the [Agentic Engineering series](https://www.angulararchitects.io/blog/best-llms-for-angular/).
 * [ng-mocks-testing-skill ![GitHub Repo Stars](https://img.shields.io/github/stars/mintarasss/ng-mocks-testing-skill) ![GitHub last commit](https://img.shields.io/github/last-commit/mintarasss/ng-mocks-testing-skill)](https://github.com/mintarasss/ng-mocks-testing-skill) - A collection of Claude Code skills for writing high-quality Angular unit tests with Jest and `ng-mocks`.
@@ -720,7 +715,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [angular-render-scan ![GitHub Repo Stars](https://img.shields.io/github/stars/edisonaugusthy/angular-render-scan) ![GitHub last commit](https://img.shields.io/github/last-commit/edisonaugusthy/angular-render-scan)](https://github.com/edisonaugusthy/angular-render-scan) - A visual debugging overlay for Angular change detection.
 * [rxjs-leak-finder ![GitHub Repo Stars](https://img.shields.io/github/stars/FlorinCiocirlan/rxjs-leak-finder) ![GitHub last commit](https://img.shields.io/github/last-commit/FlorinCiocirlan/rxjs-leak-finder)](https://github.com/FlorinCiocirlan/rxjs-leak-finder) - A dev-mode tool that finds leaked RxJS subscriptions in Angular apps.
 * [form-lens-angular ![GitHub Repo Stars](https://img.shields.io/github/stars/hebertdelima13/form-lens-angular) ![GitHub last commit](https://img.shields.io/github/last-commit/hebertdelima13/form-lens-angular)](https://github.com/hebertdelima13/form-lens-angular) - Inspect form structure, control state, validation errors, and nested form trees directly inside your app during development.
-* [allstak-angular ![GitHub Repo Stars](https://img.shields.io/github/stars/AllStak/allstak-angular) ![GitHub last commit](https://img.shields.io/github/last-commit/AllStak/allstak-angular)](https://github.com/AllStak/allstak-angular) - Captures uncaught exceptions, structured logs, navigation spans, outbound HTTP requests, and component render timing — with first-class support for both standalone and NgModule-based apps.
+* [allstak-angular ![GitHub Repo Stars](https://img.shields.io/github/stars/AllStak/allstak-angular) ![GitHub last commit](https://img.shields.io/github/last-commit/AllStak/allstak-angular)](https://github.com/AllStak/allstak-angular) - Captures exceptions, logs, navigation, HTTP requests, and render timings with standalone and NgModule support.
 * [inspect-value ![GitHub Repo Stars](https://img.shields.io/github/stars/HuakunShen/inspect-value) ![GitHub last commit](https://img.shields.io/github/last-commit/HuakunShen/inspect-value)](https://github.com/HuakunShen/inspect-value) - Web Component value inspector — works in React, Vue, Angular, Svelte, or vanilla JavaScript.
 
 ### Documentation Tools
@@ -1911,6 +1906,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [Indice.Angular ![GitHub Repo Stars](https://img.shields.io/github/stars/indice-co/Indice.Angular) ![GitHub last commit](https://img.shields.io/github/last-commit/indice-co/Indice.Angular)](https://github.com/indice-co/Indice.Angular) - A collection of Angular libraries providing authentication, configuration, and reusable components for Angular v20+ applications.
 * [trt-web-utils ![GitHub Repo Stars](https://img.shields.io/github/stars/therightthings/trt-web) ![GitHub last commit](https://img.shields.io/github/last-commit/therightthings/trt-web)](https://github.com/therightthings/trt-web/tree/dev) - Monorepo for the `@trt-web` packages, which includes a Firebase admin helper library and more.
 * [dgkit ![GitHub Repo Stars](https://img.shields.io/github/stars/grynyk/dgkit) ![GitHub last commit](https://img.shields.io/github/last-commit/grynyk/dgkit)](https://github.com/grynyk/dgkit) - A growing collection of open-source frontend agnostic and Angular libraries, developer tools, and frontend utilities.
+* [grafloria ![GitHub Repo Stars](https://img.shields.io/github/stars/grafloria/grafloria) ![GitHub last commit](https://img.shields.io/github/last-commit/grafloria/grafloria)](https://github.com/grafloria/grafloria) - An MIT diagram and dashboard engine for JavaScript: one headless core, native Angular, React and Vue bindings, one document format and one undo stack.
 
 ### Modals
 
@@ -1994,12 +1990,12 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-dynamic-search ![GitHub Repo Stars](https://img.shields.io/github/stars/mustafaer/ngx-dynamic-search) ![GitHub last commit](https://img.shields.io/github/last-commit/mustafaer/ngx-dynamic-search)](https://github.com/mustafaer/ngx-dynamic-search) - Angular pipe designed for dynamic, deep search filtering across complex nested objects and arrays.
 * [ngx-name-capitalize ![GitHub Repo Stars](https://img.shields.io/github/stars/gabo2151/ngx-name-capitalize) ![GitHub last commit](https://img.shields.io/github/last-commit/gabo2151/ngx-name-capitalize)](https://github.com/gabo2151/ngx-name-capitalize) - Angular pipe for name capitalization that formats compound surnames, linguistic particles, hyphenated names, apostrophes, and Unicode characters.
 * [ngx-transforms ![GitHub Repo Stars](https://img.shields.io/github/stars/mofirojean/ngx-transforms) ![GitHub last commit](https://img.shields.io/github/last-commit/mofirojean/ngx-transforms)](https://github.com/mofirojean/ngx-transforms) - 90+ standalone, tree-shakable pipes for strings, numbers, dates, arrays, objects, and more.
-* [@unirate/angular ![GitHub Repo Stars](https://img.shields.io/github/stars/UniRate-API/angular-unirate) ![GitHub last commit](https://img.shields.io/github/last-commit/UniRate-API/angular-unirate)](https://github.com/UniRate-API/angular-unirate) - Angular pipes (`currencyRate`, `currencyConvert`) and `UniRateService` (Observable-based) for live currency exchange rates from the [UniRate](https://unirateapi.com) API. Supports Angular 16–22 with `UniRateModule.forRoot()` or `provideUniRate()`.
+* [@unirate/angular ![GitHub Repo Stars](https://img.shields.io/github/stars/UniRate-API/angular-unirate) ![GitHub last commit](https://img.shields.io/github/last-commit/UniRate-API/angular-unirate)](https://github.com/UniRate-API/angular-unirate) - Exchange rate pipes and services for Angular 16+ using the UniRate API.
 
 ### Printing
 
 * [ngx-pos-print ![GitHub Repo Stars](https://img.shields.io/github/stars/gmetenou7/NGX-POS-PRINT) ![GitHub last commit](https://img.shields.io/github/last-commit/gmetenou7/NGX-POS-PRINT)](https://github.com/gmetenou7/NGX-POS-PRINT) - Print receipts on POS thermal printers from your Angular app.
-* [ngx-print ![GitHub Repo Stars](https://img.shields.io/github/stars/selemxmn/ngx-print) ![GitHub last commit](https://img.shields.io/github/last-commit/selemxmn/ngx-print)](https://github.com/selemxmn/ngx-print) - A plug n' play Angulae library to print your stuff.
+* [ngx-print ![GitHub Repo Stars](https://img.shields.io/github/stars/ngx-print/ngx-print) ![GitHub last commit](https://img.shields.io/github/last-commit/ngx-print/ngx-print)](https://github.com/ngx-print/ngx-print) - A plug n' play Angular library to print your stuff.
 * [ngx-printer-demo ![GitHub Repo Stars](https://img.shields.io/github/stars/plaetzchen79/ngx-printer-demo) ![GitHub last commit](https://img.shields.io/github/last-commit/plaetzchen79/ngx-printer-demo)](https://github.com/plaetzchen79/ngx-printer-demo) - A simple Angular service to print a window, parts of a window (div), images, HTMLElements or Angular Objects.
 
 ### QR Codes
