@@ -1638,7 +1638,7 @@ Others
 * [css-lite ![GitHub Repo Stars](https://img.shields.io/github/stars/paddymul/css-lite) ![GitHub last commit](https://img.shields.io/github/last-commit/paddymul/css-lite)](https://github.com/paddymul/css-lite) - A CSS grammar. [Expat][14].
 * [find-port ![GitHub Repo Stars](https://img.shields.io/github/stars/lisp-maintainers/find-port) ![GitHub last commit](https://img.shields.io/github/last-commit/lisp-maintainers/find-port)](https://github.com/lisp-maintainers/find-port) -  Programmatically find open ports. [MIT][200].
 * [cl-wget ![GitHub Repo Stars](https://img.shields.io/github/stars/cl-wget/cl-wget) ![GitHub last commit](https://img.shields.io/github/last-commit/cl-wget/cl-wget)](https://github.com/cl-wget/cl-wget) - Makes retrieving large files or mirroring entire websites easy. [AGPL-3.0][51].
-* [trivial-download ![GitHub Repo Stars](https://img.shields.io/github/stars/eudoxia0/trivial-download) ![GitHub last commit](https://img.shields.io/github/last-commit/eudoxia0/trivial-download)](https://github.com/eudoxia0/trivial-download) - Download files.
+* [trivial-download ![GitHub Repo Stars](https://img.shields.io/github/stars/sharplispers/trivial-download) ![GitHub last commit](https://img.shields.io/github/last-commit/sharplispers/trivial-download)](https://github.com/sharplispers/trivial-download) - Download files.
   * currently archived and unmaintained. [MIT][200].
 * [cl-cookie ![GitHub Repo Stars](https://img.shields.io/github/stars/fukamachi/cl-cookie) ![GitHub last commit](https://img.shields.io/github/last-commit/fukamachi/cl-cookie)](https://github.com/fukamachi/cl-cookie) HTTP Cookie (jar) manager: parse and write (set-)cookie headers, compare cookies, optional cookie attribute sanity check. [MIT][200]
 * [dns-client](https://codeberg.org/Shinmera/dns-client) - DNS record client. See [documentation](https://shinmera.github.io/dns-client/). [zlib][33].
@@ -2297,7 +2297,7 @@ Caching (memoization)
 Compression / decompression
 ---------------------------
 
-* [chipz ![GitHub Repo Stars](https://img.shields.io/github/stars/froydnj/chipz) ![GitHub last commit](https://img.shields.io/github/last-commit/froydnj/chipz)](https://github.com/froydnj/chipz) - A decompression library. [3-clause BSD][15].
+* [chipz ![GitHub Repo Stars](https://img.shields.io/github/stars/sharplispers/chipz) ![GitHub last commit](https://img.shields.io/github/last-commit/sharplispers/chipz)](https://github.com/sharplispers/chipz) - A decompression library. [3-clause BSD][15].
 * [Salza2](http://www.xach.com/lisp/salza2/) - A library for creating compressed data. [FreeBSD][39].
 * [zippy](https://codeberg.org/shinmera/zippy) -  A ZIP archive format library based on 3bz. [zlib][33].
 * [archive ![GitHub Repo Stars](https://img.shields.io/github/stars/froydnj/archive) ![GitHub last commit](https://img.shields.io/github/last-commit/froydnj/archive)](https://github.com/froydnj/archive) - a library for reading and creating archive (tar, cpio) files. [BSD_3Clause][15]. A pure Common Lisp replacement for the `tar` program.
@@ -2316,7 +2316,7 @@ Configuration
 Date and time
 -------------
 
-* ⭐ [local-time](https://codeberg.org/dlowe/local-time) - A development library for manipulating date and time information in a semi-standard manner. [3-clause BSD][15].
+* ⭐ [local-time ![GitHub Repo Stars](https://img.shields.io/github/stars/sharplispers/local-time) ![GitHub last commit](https://img.shields.io/github/last-commit/sharplispers/local-time)](https://github.com/sharplispers/local-time) - A development library for manipulating date and time information in a semi-standard manner. [3-clause BSD][15].
   * [local-time documentation](https://local-time.common-lisp.dev/), [github mirror ![GitHub Repo Stars](https://img.shields.io/github/stars/dlowe-net/local-time) ![GitHub last commit](https://img.shields.io/github/last-commit/dlowe-net/local-time)](https://github.com/dlowe-net/local-time).
 * [fuzzy-dates](https://codeberg.org/shinmera/fuzzy-dates) -  A library to fuzzily parse date and time strings. Zlib.
 * [cl-date-time-parser ![GitHub Repo Stars](https://img.shields.io/github/stars/tkych/cl-date-time-parser) ![GitHub last commit](https://img.shields.io/github/last-commit/tkych/cl-date-time-parser)](https://github.com/tkych/cl-date-time-parser) - Parse date-time-string, liberally. Hides the difference between date-time formats, and enables to manage date and time as the one date-time format. [MIT][200].
