@@ -276,6 +276,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [np ![GitHub Repo Stars](https://img.shields.io/github/stars/sindresorhus/np) ![GitHub last commit](https://img.shields.io/github/last-commit/sindresorhus/np)](https://github.com/sindresorhus/np) - A better `npm publish`.
 - [release ![GitHub Repo Stars](https://img.shields.io/github/stars/vercel/release) ![GitHub last commit](https://img.shields.io/github/last-commit/vercel/release)](https://github.com/vercel/release) - Generate changelogs with a single command.
 - [semantic-release ![GitHub Repo Stars](https://img.shields.io/github/stars/semantic-release/semantic-release) ![GitHub last commit](https://img.shields.io/github/last-commit/semantic-release/semantic-release)](https://github.com/semantic-release/semantic-release) - Fully automated version management and package publishing.
+- [vmn ![GitHub Repo Stars](https://img.shields.io/github/stars/progovoy/vmn) ![GitHub last commit](https://img.shields.io/github/last-commit/progovoy/vmn)](https://github.com/progovoy/vmn) - Stamp semantic versions into git tags and restore any release across repos.
 
 ### Npm
 
