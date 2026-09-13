@@ -768,7 +768,7 @@ Time management and planning starts with estimates, but often degenerates into d
 
 KPIs are a set of quantitative measurements at the team or organizational level, to measure the success of the business.
 
-- “Numerical goals set for other people, without a road map to reach the goal, have effects opposite to the effects sought.” - [W. Edwards Deming](https://openlibrary.org/isbn/0911379010)
+- “Numerical goals set for other people, without a road map to reach the goal, have effects opposite to the effects sought.�� - [W. Edwards Deming](https://openlibrary.org/isbn/0911379010)
 
 - [SRE fundamentals: SLIs, SLAs and SLOs](https://cloudplatform.googleblog.com/2018/07/sre-fundamentals-slis-slas-and-slos.html) - If you are in the business of cloud services, these metrics are certainly great KPIs.
 
