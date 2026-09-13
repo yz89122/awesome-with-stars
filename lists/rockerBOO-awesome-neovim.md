@@ -1098,6 +1098,7 @@ then it is not supported:
 - [ChuYanLon/telegram.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/ChuYanLon/telegram.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/ChuYanLon/telegram.nvim)](https://github.com/ChuYanLon/telegram.nvim) - A Telegram chat client powered by TDLib supporting real-time messaging, group management, and media preview.
 - [paulburgess1357/nvim-mcp ![GitHub Repo Stars](https://img.shields.io/github/stars/paulburgess1357/nvim-mcp) ![GitHub last commit](https://img.shields.io/github/last-commit/paulburgess1357/nvim-mcp)](https://github.com/paulburgess1357/nvim-mcp) - MCP server giving AI agents access to buffers, commands, and LSP diagnostics through the built-in msgpack-RPC socket.
 - [dpezto/chezmoi-template.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/dpezto/chezmoi-template.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/dpezto/chezmoi-template.nvim)](https://github.com/dpezto/chezmoi-template.nvim) - Edit chezmoi source files natively: target-language Tree-sitter injection, template-aware formatting, live preview, diagnostics and completion.
+- [7KiLL/copybara.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/7KiLL/copybara.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/7KiLL/copybara.nvim)](https://github.com/7KiLL/copybara.nvim) - Copy absolute or relative file paths, line and column references, or an LLM-friendly path and selection snippet to your clipboard.
 
 ### CSV Files
 
