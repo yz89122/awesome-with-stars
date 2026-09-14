@@ -51,6 +51,7 @@ Reference managers to generate citations, BibTeX, and BibLaTeX files.
 - [Citation Style Language (CSL) styles](https://editor.citationstyles.org/) - Crowdsourced
   repository with over 9000 free CSL citation styles and an online
   editor to create new ones.
+- [citecheck ![GitHub Repo Stars](https://img.shields.io/github/stars/tobiasosDev/citecheck) ![GitHub last commit](https://img.shields.io/github/last-commit/tobiasosDev/citecheck)](https://github.com/tobiasosDev/citecheck) - Command-line tool that matches BibTeX, RIS, and CSL-JSON references against Crossref and OpenAlex and flags retractions reported by Crossref.
 - [JabRef](https://www.jabref.org/) - Open source bibliography reference manager.
 - [ScholarRef ![GitHub Repo Stars](https://img.shields.io/github/stars/brodie-neuro/ScholarRef) ![GitHub last commit](https://img.shields.io/github/last-commit/brodie-neuro/ScholarRef)](https://github.com/brodie-neuro/ScholarRef) - Convert citation styles
   (APA 7, Harvard, Vancouver) directly inside Word `.docx` files.
