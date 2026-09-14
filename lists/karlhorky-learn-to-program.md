@@ -118,6 +118,10 @@ This list aims to be a curated set of high quality educational resources. The av
 **Free** online book covering all stages of creating a Ruby on Rails application\
 *(HTML, CSS, JavaScript, Ruby, Rails)*
 
+#### [The Concise TypeScript Book ![GitHub Repo Stars](https://img.shields.io/github/stars/gibbok/typescript-book) ![GitHub last commit](https://img.shields.io/github/last-commit/gibbok/typescript-book)](https://github.com/gibbok/typescript-book)
+**Free** open-source book covering TypeScript fundamentals through advanced concepts\
+*(TypeScript, JavaScript)*
+
 #### LinkedIn Learning: [Web Development](https://www.linkedin.com/learning/topics/web-development), [Web Design](https://www.linkedin.com/learning/topics/web-design)
 **Paid** platform for video courses on web development and design\
 *(HTML, CSS, JavaScript, web development, web design)*
