@@ -13,7 +13,6 @@ Your favorite tool or your own paper is not listed? Fork and create a Pull Reque
 - [Talks](#talks)
 - [Papers](#papers)
 - [Tools](#tools)
-- [Contribute](#contribute)
 
 
 ## Books
@@ -599,7 +598,6 @@ A curated collection of open-source fuzzing tools, organized by target category 
 - [kAFL ![GitHub Repo Stars](https://img.shields.io/github/stars/rub-syssec/kafl) ![GitHub last commit](https://img.shields.io/github/last-commit/rub-syssec/kafl)](https://github.com/rub-syssec/kafl) (2017) - A hardware-assisted x86-64 VM kernel fuzzing framework with performant VM reloads for finding OS kernel vulnerabilities.
 - [syzkaller ![GitHub Repo Stars](https://img.shields.io/github/stars/google/syzkaller) ![GitHub last commit](https://img.shields.io/github/last-commit/google/syzkaller)](https://github.com/google/syzkaller) (2015) - An unsupervised coverage-guided kernel fuzzer supporting FreeBSD, Fuchsia, gVisor, Linux, NetBSD, OpenBSD, and Windows. 
 - [Trinity ![GitHub Repo Stars](https://img.shields.io/github/stars/kernelslacker/trinity) ![GitHub last commit](https://img.shields.io/github/last-commit/kernelslacker/trinity)](https://github.com/kernelslacker/trinity) (2012) - A Linux system call fuzzer that generates semi-intelligent random arguments to syscalls, including valid file descriptors, flags, and range-biased values.
-### Network
 ### API
 - [WuppieFuzz ![GitHub Repo Stars](https://img.shields.io/github/stars/TNO-S3/WuppieFuzz) ![GitHub last commit](https://img.shields.io/github/last-commit/TNO-S3/WuppieFuzz)](https://github.com/TNO-S3/WuppieFuzz) - A coverage-guided REST API fuzzer developed on top of LibAFL.
 - [IvySyn](https://gitlab.com/brown-ssl/ivysyn) - A fully-automated framework for discovering memory error vulnerabilities in Deep Learning (DL) frameworks.
@@ -608,21 +606,15 @@ A curated collection of open-source fuzzing tools, organized by target category 
 - [GraphFuzz ![GitHub Repo Stars](https://img.shields.io/github/stars/ForAllSecure/GraphFuzz) ![GitHub last commit](https://img.shields.io/github/last-commit/ForAllSecure/GraphFuzz)](https://github.com/ForAllSecure/GraphFuzz) - An experimental framework for building structure-aware, library API fuzzers.
 - [Minerva ![GitHub Repo Stars](https://img.shields.io/github/stars/ChijinZ/Minerva) ![GitHub last commit](https://img.shields.io/github/last-commit/ChijinZ/Minerva)](https://github.com/ChijinZ/Minerva) - A browser fuzzer augmented by API mod-ref relations, aiming to synthesize highly-relevant browser API invocations in each test case.
 - [FANS ![GitHub Repo Stars](https://img.shields.io/github/stars/iromise/fans) ![GitHub last commit](https://img.shields.io/github/last-commit/iromise/fans)](https://github.com/iromise/fans) - A fuzzing tool for Android native system services with four components: interface collector, interface model extractor, dependency inferer, and fuzzer engine.
-### JavaScript
-### Firmware
-### Hypervisor
 ### CPU
 - [DifuzzRTL ![GitHub Repo Stars](https://img.shields.io/github/stars/compsec-snu/difuzz-rtl) ![GitHub last commit](https://img.shields.io/github/last-commit/compsec-snu/difuzz-rtl)](https://github.com/compsec-snu/difuzz-rtl) - A differential fuzz testing approach for CPU verification.
 - [MorFuzz ![GitHub Repo Stars](https://img.shields.io/github/stars/sycuricon/MorFuzz) ![GitHub last commit](https://img.shields.io/github/last-commit/sycuricon/MorFuzz)](https://github.com/sycuricon/MorFuzz) - A generic RISC-V processor fuzzing framework that can efficiently detect software triggerable functional bugs.
 - [SpecFuzz ![GitHub Repo Stars](https://img.shields.io/github/stars/tudinfse/SpecFuzz) ![GitHub last commit](https://img.shields.io/github/last-commit/tudinfse/SpecFuzz)](https://github.com/tudinfse/SpecFuzz) - A tool to enable fuzzing for Spectre vulnerabilities.
 - [Transynther ![GitHub Repo Stars](https://img.shields.io/github/stars/vernamlab/Medusa) ![GitHub last commit](https://img.shields.io/github/last-commit/vernamlab/Medusa)](https://github.com/vernamlab/Medusa) - Automatically generates and tests building blocks for Meltdown attacks with various faults and microcode assists.
-### Lib
 ### Web
 - [TEFuzz ![GitHub Repo Stars](https://img.shields.io/github/stars/seclab-fudan/TEFuzz) ![GitHub last commit](https://img.shields.io/github/last-commit/seclab-fudan/TEFuzz)](https://github.com/seclab-fudan/TEFuzz/) - A tailored fuzzing-based framework to facilitate the detection and exploitation of template escape bugs.
 - [Witcher ![GitHub Repo Stars](https://img.shields.io/github/stars/sefcom/Witcher) ![GitHub last commit](https://img.shields.io/github/last-commit/sefcom/Witcher)](https://github.com/sefcom/Witcher) - A web application fuzzer that utilizes mutational fuzzing to explore web applications and fault escalation to detect command and SQL injection vulnerabilities.
 - [CorbFuzz ![GitHub Repo Stars](https://img.shields.io/github/stars/shouc/corbfuzz) ![GitHub last commit](https://img.shields.io/github/last-commit/shouc/corbfuzz)](https://github.com/shouc/corbfuzz) - A state-aware fuzzer for generating as many responses from a web application as possible without need of setting up a database.
-### DOM
-### Argument
 ### Blockchain
 - [Fluffy ![GitHub Repo Stars](https://img.shields.io/github/stars/snuspl/fluffy) ![GitHub last commit](https://img.shields.io/github/last-commit/snuspl/fluffy)](https://github.com/snuspl/fluffy) - A multi-transaction differential fuzzer for finding consensus bugs in Ethereum.
 - [LOKI ![GitHub Repo Stars](https://img.shields.io/github/stars/ConsensusFuzz/LOKI) ![GitHub last commit](https://img.shields.io/github/last-commit/ConsensusFuzz/LOKI)](https://github.com/ConsensusFuzz/LOKI) - A Blockchain consensus protocol fuzzing framework that detects consensus memory related and logic bugs.
@@ -630,8 +622,7 @@ A curated collection of open-source fuzzing tools, organized by target category 
 - [Squirrel ![GitHub Repo Stars](https://img.shields.io/github/stars/s3team/Squirrel) ![GitHub last commit](https://img.shields.io/github/last-commit/s3team/Squirrel)](https://github.com/s3team/Squirrel) - A fuzzer for database management systems (DBMSs).
 
 
-## Contribute
+## Contributing
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
-
 

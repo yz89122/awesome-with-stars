@@ -115,6 +115,7 @@ This list is a collection of the best Deno modules and resources.
 
 ### Image
 - [ImageScript ![GitHub Repo Stars](https://img.shields.io/github/stars/matmen/ImageScript) ![GitHub last commit](https://img.shields.io/github/last-commit/matmen/ImageScript)](https://github.com/matmen/ImageScript) - Image processing in JavaScript, utilizing WebAssembly for performance.
+- [kavel ![GitHub Repo Stars](https://img.shields.io/github/stars/hanshs474/kavel-ts) ![GitHub last commit](https://img.shields.io/github/last-commit/hanshs474/kavel-ts)](https://github.com/hanshs474/kavel-ts) - Generate and edit images with AI without an API key or account.
 - [monke ![GitHub Repo Stars](https://img.shields.io/github/stars/retraigo/monke) ![GitHub last commit](https://img.shields.io/github/last-commit/retraigo/monke)](https://github.com/retraigo/monke) - Color quantization and dithering library with extra image filters (blur, invert, etc).
 
 ### Logging
