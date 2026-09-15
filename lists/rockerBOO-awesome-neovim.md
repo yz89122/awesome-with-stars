@@ -1251,6 +1251,7 @@ then it is not supported:
 - [lewistg/pesto.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/lewistg/pesto.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/lewistg/pesto.nvim)](https://github.com/lewistg/pesto.nvim) - - Bazel integration through its _Build Event Protocol_ to find, fetch, and parse error logs for failed build actions, including logs stored remotely.
 - [wsdjeg/tasks.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/wsdjeg/tasks.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/wsdjeg/tasks.nvim)](https://github.com/wsdjeg/tasks.nvim) - A tasks manager that integrates with external tools, inspired by VSCode's tasks-manager.
 - [JulOuellet/bzl.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/JulOuellet/bzl.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/JulOuellet/bzl.nvim)](https://github.com/JulOuellet/bzl.nvim) - Bazel integration: target picker and tree, run/test/build with streaming output, and LSP support for Bazel-managed dependencies.
+- [caskstrength/nvim-soil](https://codeberg.org/caskstrength/nvim-soil) - Run PlantUML script and generate UML design.
 <!--lint disable double-link -->
 [**⬆ back to top**](#contents)
 <!--lint enable double-link -->

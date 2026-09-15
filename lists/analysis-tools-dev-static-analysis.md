@@ -2220,7 +2220,7 @@ but with the following improvements:
 
 - [promformat ![GitHub Repo Stars](https://img.shields.io/github/stars/facetoe/promformat) ![GitHub last commit](https://img.shields.io/github/last-commit/facetoe/promformat)](https://github.com/facetoe/promformat) — Promformat is a PromQL formatter written in Python.
 
-- **promval** :warning: ��� PromQL validator written in Python. It can be used to validate that PromQL expressions are written as expected.
+- **promval** :warning: — PromQL validator written in Python. It can be used to validate that PromQL expressions are written as expected.
 
 
 <a id="protobuf"></a>
