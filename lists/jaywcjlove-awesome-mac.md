@@ -1710,7 +1710,7 @@ If you come across websites offering pirated software or cracks, please post [HE
 * Softasm：~~`https://softasm.com/`~~
 * Appstorrent：~~`https://appstorrent.ru/`~~
 
-**[�� back to top](#contents)**
+**[⬆ back to top](#contents)**
 
 <!--end-->
 
