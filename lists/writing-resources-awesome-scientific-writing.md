@@ -115,9 +115,11 @@ Supplementary files and tools.
  spell Checker.
 - [LanguageCheck ![GitHub Repo Stars](https://img.shields.io/github/stars/JohannesBuchner/languagecheck) ![GitHub last commit](https://img.shields.io/github/last-commit/JohannesBuchner/languagecheck)](https://github.com/JohannesBuchner/languagecheck) - Analyses scientific LaTeX papers, suggesting improvements from a list of common mistakes/ambiguities, tense consistency, a vs. an, spell check, and paragraph topic sentences.
 - [Markdown lint tool ![GitHub Repo Stars](https://img.shields.io/github/stars/markdownlint/markdownlint) ![GitHub last commit](https://img.shields.io/github/last-commit/markdownlint/markdownlint)](https://github.com/markdownlint/markdownlint) - Markdown linter.
+- [mdformat](https://mdformat.readthedocs.io/en/stable/) - Opinionated CommonMark-compliant Markdown formatter. Enforces consistent style (indentation, ATX headings, link references at bottom). Supports CommonMark by default, with plugins for GFM, tables, footnotes, admonitions, MyST, MkDocs, and more.
 - [proselint ![GitHub Repo Stars](https://img.shields.io/github/stars/amperser/proselint) ![GitHub last commit](https://img.shields.io/github/last-commit/amperser/proselint)](https://github.com/amperser/proselint) - Linter for prose.
 - [remarklint ![GitHub Repo Stars](https://img.shields.io/github/stars/remarkjs/remark-lint) ![GitHub last commit](https://img.shields.io/github/last-commit/remarkjs/remark-lint)](https://github.com/remarkjs/remark-lint) - Markdown linter.
 - [restructuredtext-lint ![GitHub Repo Stars](https://img.shields.io/github/stars/twolfson/restructuredtext-lint) ![GitHub last commit](https://img.shields.io/github/last-commit/twolfson/restructuredtext-lint)](https://github.com/twolfson/restructuredtext-lint) - reStructuredText linter.
+- [rumdl ![GitHub Repo Stars](https://img.shields.io/github/stars/rvben/rumdl) ![GitHub last commit](https://img.shields.io/github/last-commit/rvben/rumdl)](https://github.com/rvben/rumdl) - Fast Markdown linter and formatter written in Rust, with built-in support for several "flavors" such as GFM, MkDocs, MyST, Quarto etc.
 - [textlint](https://textlint.github.io/) - Pluggable linting tool for text
  and Markdown.
 - [textidote](https://sylvainhalle.github.io/textidote/) - Spelling, grammar and
