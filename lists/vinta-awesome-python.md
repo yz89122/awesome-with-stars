@@ -607,10 +607,11 @@ _Interactive Python interpreters (REPL)._
 _Tools of static analysis, linters and code quality checkers. Also see [awesome-static-analysis ![GitHub Repo Stars](https://img.shields.io/github/stars/analysis-tools-dev/static-analysis) ![GitHub last commit](https://img.shields.io/github/last-commit/analysis-tools-dev/static-analysis)](https://github.com/analysis-tools-dev/static-analysis)._
 
 - Code Analysis
+  - [import-linter ![GitHub Repo Stars](https://img.shields.io/github/stars/seddonym/import-linter) ![GitHub last commit](https://img.shields.io/github/last-commit/seddonym/import-linter)](https://github.com/seddonym/import-linter) - A linter that enforces architectural constraints on imports between Python modules.
   - [vulture ![GitHub Repo Stars](https://img.shields.io/github/stars/jendrikseipp/vulture) ![GitHub last commit](https://img.shields.io/github/last-commit/jendrikseipp/vulture)](https://github.com/jendrikseipp/vulture) - A tool for finding and analyzing dead Python code.
+  - [complexipy ![GitHub Repo Stars](https://img.shields.io/github/stars/rohaquinlop/complexipy) ![GitHub last commit](https://img.shields.io/github/last-commit/rohaquinlop/complexipy)](https://github.com/rohaquinlop/complexipy) - Cognitive complexity analysis for Python code, written in Rust.
   - [prospector ![GitHub Repo Stars](https://img.shields.io/github/stars/prospector-dev/prospector) ![GitHub last commit](https://img.shields.io/github/last-commit/prospector-dev/prospector)](https://github.com/prospector-dev/prospector) - A tool to analyze Python code.
   - [repowise ![GitHub Repo Stars](https://img.shields.io/github/stars/repowise-dev/repowise) ![GitHub last commit](https://img.shields.io/github/last-commit/repowise-dev/repowise)](https://github.com/repowise-dev/repowise) - Codebase intelligence that indexes repos into dependency graphs, git history, and auto-generated docs with dead code detection.
-  - [complexipy ![GitHub Repo Stars](https://img.shields.io/github/stars/rohaquinlop/complexipy) ![GitHub last commit](https://img.shields.io/github/last-commit/rohaquinlop/complexipy)](https://github.com/rohaquinlop/complexipy) - Cognitive complexity analysis for Python code, written in Rust.
 - Git Hooks
   - [pre-commit ![GitHub Repo Stars](https://img.shields.io/github/stars/pre-commit/pre-commit) ![GitHub last commit](https://img.shields.io/github/last-commit/pre-commit/pre-commit)](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
 - Linters and Formatters

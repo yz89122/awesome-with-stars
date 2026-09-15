@@ -1971,6 +1971,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-history ![GitHub Repo Stars](https://img.shields.io/github/stars/lumentut/ngx-history) ![GitHub last commit](https://img.shields.io/github/last-commit/lumentut/ngx-history)](https://github.com/lumentut/ngx-history) - Modern Angular navigation history service with reactive programming support.
 * [angular-typed-router ![GitHub Repo Stars](https://img.shields.io/github/stars/dominicbachmann/angular-typed-router) ![GitHub last commit](https://img.shields.io/github/last-commit/dominicbachmann/angular-typed-router)](https://github.com/dominicbachmann/angular-typed-router) - Type‑safe Angular navigation from a single Routes array, yielding inferred path unions and typed navigate tuples with zero codegen or runtime cost.
 * [real-router ![GitHub Repo Stars](https://img.shields.io/github/stars/greydragon888/real-router) ![GitHub last commit](https://img.shields.io/github/last-commit/greydragon888/real-router)](https://github.com/greydragon888/real-router) - Data-first router for JavaScript — the most declarative router for client applications.
+* [ssgoi ![GitHub Repo Stars](https://img.shields.io/github/stars/meursyphus/ssgoi) ![GitHub last commit](https://img.shields.io/github/last-commit/meursyphus/ssgoi)](https://github.com/meursyphus/ssgoi) - Animates the change between routes without taking over navigation.
 
 ### Scroll
 
