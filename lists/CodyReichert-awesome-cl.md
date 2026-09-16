@@ -1072,7 +1072,7 @@ Iteration
 * [trivial-do ![GitHub Repo Stars](https://img.shields.io/github/stars/yitzchak/trivial-do) ![GitHub last commit](https://img.shields.io/github/last-commit/yitzchak/trivial-do)](https://github.com/yitzchak/trivial-do/) -  Additional dolist style macros for Common Lisp. [MIT][200].
 * [doplus ![GitHub Repo Stars](https://img.shields.io/github/stars/alessiostalla/doplus) ![GitHub last commit](https://img.shields.io/github/last-commit/alessiostalla/doplus)](https://github.com/alessiostalla/doplus) – another extensible iteration library, similar to :for.
 * [transducers ![GitHub Repo Stars](https://img.shields.io/github/stars/fosskers/transducers) ![GitHub last commit](https://img.shields.io/github/last-commit/fosskers/transducers)](https://github.com/fosskers/transducers/) - Ergonomic, efficient data processing. [MPL-2.0][211].
-  * "Transducers are an ergonomic and extremely memory-efficient way to process a data source. Here “data source” means simple collections like Lists or Vectors, but also potentially large files or generators of infinite data."
+  * "Transducers are an ergonomic and extremely memory-efficient way to process a data source. Here “data source�� means simple collections like Lists or Vectors, but also potentially large files or generators of infinite data."
   * "It is, in general, the most complete implementation of the Transducer pattern."
   * a "modern" API with `map`, `filter`, `take`, `repeat`, `cycle`, `fold`…
 * [snakes ![GitHub Repo Stars](https://img.shields.io/github/stars/BnMcGn/snakes) ![GitHub last commit](https://img.shields.io/github/last-commit/BnMcGn/snakes)](https://github.com/BnMcGn/snakes) - Python style generators for Common Lisp. Includes a port of itertools. [Apache2][89].
