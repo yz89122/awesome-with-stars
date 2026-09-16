@@ -197,6 +197,7 @@ These projects are exceptionally high quality, have a proven trackrecord, and ar
 
 - [Vue.js Jobs - VueJobs](https://vuejobs.com/) - A Vue.js job portal to hire or get hired for all your Vue.js jobs.
 - [Vue.js Interview Questions ![GitHub Repo Stars](https://img.shields.io/github/stars/sudheerj/vuejs-interview-questions) ![GitHub last commit](https://img.shields.io/github/last-commit/sudheerj/vuejs-interview-questions)](https://github.com/sudheerj/vuejs-interview-questions) - A List of 300 VueJS Interview Questions and Answers
+- [Jobs in JS](https://jobsinjs.com/vue-developer-jobs/) - Vue.js developer jobs in the US, Canada and UK. Updated daily.
 
 ### Community
 
@@ -574,6 +575,7 @@ These projects are exceptionally high quality, have a proven trackrecord, and ar
 - [JARVIS ![GitHub Repo Stars](https://img.shields.io/github/stars/hyhmrright/JARVIS) ![GitHub last commit](https://img.shields.io/github/last-commit/hyhmrright/JARVIS)](https://github.com/hyhmrright/JARVIS) - Self-hosted AI assistant platform with Vue 3 frontend, Pinia state management, TypeScript, and real-time SSE streaming chat. FastAPI backend with LangGraph ReAct agents, RAG knowledge base, multi-LLM support (DeepSeek/OpenAI/Anthropic), and plugin SDK.
 - [Simple IoT ![GitHub Repo Stars](https://img.shields.io/github/stars/dingdaoyi/simple-iot) ![GitHub last commit](https://img.shields.io/github/last-commit/dingdaoyi/simple-iot)](https://github.com/dingdaoyi/simple-iot) - Single-binary self-hosted IoT platform with a Vue 3 + Element Plus admin SPA. Visual drag-and-drop rule engine, real-time device dashboard with ECharts, hot-loaded protocol scripts, MQTT broker built-in. Spring Boot 4 backend; lightweight alternative to ThingsBoard CE.
 - [MarkerOn ![GitHub Repo Stars](https://img.shields.io/github/stars/ifer47/markeron) ![GitHub last commit](https://img.shields.io/github/last-commit/ifer47/markeron)](https://github.com/ifer47/markeron) - Lightweight screen annotation tool built with Tauri v2, Vue 3, and Canvas API for drawing, highlighting, and annotating anywhere on desktop.
+- [DentalPin ![GitHub Repo Stars](https://img.shields.io/github/stars/martinezsalmeron/dentalpin) ![GitHub last commit](https://img.shields.io/github/last-commit/martinezsalmeron/dentalpin)](https://github.com/martinezsalmeron/dentalpin) - Dental clinic management platform with appointment scheduling and a modular plugin architecture, built with Nuxt 3 and FastAPI.
 
 ### Commercial Products
 
@@ -860,6 +862,7 @@ _UI frameworks for mobile_
 - [Ionic ![GitHub Repo Stars](https://img.shields.io/github/stars/ionic-team/ionic-framework) ![GitHub last commit](https://img.shields.io/github/last-commit/ionic-team/ionic-framework)](https://github.com/ionic-team/ionic-framework) - Mobile app development framework
 - [Native script ![GitHub Repo Stars](https://img.shields.io/github/stars/nativescript-vue/nativescript-vue) ![GitHub last commit](https://img.shields.io/github/last-commit/nativescript-vue/nativescript-vue)](https://github.com/nativescript-vue/nativescript-vue) - Native mobile applications using NativeScript
 - [uni-app ![GitHub Repo Stars](https://img.shields.io/github/stars/dcloudio/uni-app) ![GitHub last commit](https://img.shields.io/github/last-commit/dcloudio/uni-app)](https://github.com/dcloudio/uni-app) - A cross-platform framework using Vue.js
+- [Vue Lynx](https://vue.lynxjs.org) - A Vue 3 custom renderer for [Lynx](https://lynxjs.org), rendering to native iOS and Android views and compiling to web from one codebase.
 
 _Set of components for mobile_
 
@@ -867,6 +870,7 @@ _Set of components for mobile_
 - [cube-ui](https://didi.github.io/cube-ui) - A fantastic mobile ui lib implement by Vue.js 2.
 - [mand-mobile](https://didi.github.io/mand-mobile) - A mobile UI toolkit, based on Vue.js 2, designed for financial scenes.
 - [NutUI ![GitHub Repo Stars](https://img.shields.io/github/stars/jdf2e/nutui) ![GitHub last commit](https://img.shields.io/github/last-commit/jdf2e/nutui)](https://github.com/jdf2e/nutui/) - A Vue.js 2.0 UI Toolkit for Mobile Web
+- [Vy UI](https://vyui.dev) - Headless primitives and styled components for Vue Lynx, with a shadcn-style CLI for copying component source into your project.
 
 #### Component Collections
 
@@ -914,6 +918,7 @@ _Set of admin template_
 - [VuePress ![GitHub Repo Stars](https://img.shields.io/github/stars/vuejs/vuepress) ![GitHub last commit](https://img.shields.io/github/last-commit/vuejs/vuepress)](https://github.com/vuejs/vuepress) - Minimalistic Vue-powered static site generator.
 - [îles ![GitHub Repo Stars](https://img.shields.io/github/stars/ElMassimo/iles) ![GitHub last commit](https://img.shields.io/github/last-commit/ElMassimo/iles)](https://github.com/ElMassimo/iles) - Islands of interactivity, the joyful site generator
 - [VitePress ![GitHub Repo Stars](https://img.shields.io/github/stars/vuejs/vitepress) ![GitHub last commit](https://img.shields.io/github/last-commit/vuejs/vitepress)](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator.
+- [Bloggrify ![GitHub Repo Stars](https://img.shields.io/github/stars/bloggrify/bloggrify) ![GitHub last commit](https://img.shields.io/github/last-commit/bloggrify/bloggrify)](https://github.com/bloggrify/bloggrify) - Nuxt Content layer for blogging, with themes, SEO, RSS and analytics preconfigured.
 
 #### Other
 
@@ -1091,7 +1096,7 @@ _Display non-editable events in a Calendar_
 - [@vue-leaflet/vue-leaflet ![GitHub Repo Stars](https://img.shields.io/github/stars/vue-leaflet/vue-leaflet) ![GitHub last commit](https://img.shields.io/github/last-commit/vue-leaflet/vue-leaflet)](https://github.com/vue-leaflet/vue-leaflet) - Vue 3 components for Leaflet (1.x) maps.
 - [@maxel01/vue-leaflet ![GitHub Repo Stars](https://img.shields.io/github/stars/maxel01/vue-leaflet) ![GitHub last commit](https://img.shields.io/github/last-commit/maxel01/vue-leaflet)](https://github.com/maxel01/vue-leaflet) - Vue 3 components for Leaflet (2.x) maps.
 - [mapmetrics-gl ![GitHub Repo Stars](https://img.shields.io/github/stars/MapMetrics/mapmetrics-gl) ![GitHub last commit](https://img.shields.io/github/last-commit/MapMetrics/mapmetrics-gl)](https://github.com/MapMetrics/mapmetrics-gl) - Mapbox GL JS-compatible mapping library with built-in tiles, geocoding, routing, and search.
-- [vue3-map-chart ![GitHub Repo Stars](https://img.shields.io/github/stars/noeGnh/vue3-map-chart) ![GitHub last commit](https://img.shields.io/github/last-commit/noeGnh/vue3-map-chart)](https://github.com/noeGnh/vue3-map-chart) - Vue 3 components for displaying dynamic data on a world, continents, countries and custom maps.
+- [map-chart ![GitHub Repo Stars](https://img.shields.io/github/stars/noeGnh/map-chart) ![GitHub last commit](https://img.shields.io/github/last-commit/noeGnh/map-chart)](https://github.com/noeGnh/map-chart) - Vue 3 and React components for displaying dynamic data on a world, continents, countries and custom maps.
 
 #### Audio / Video
 
@@ -1170,7 +1175,7 @@ _Display non-editable events in a Calendar_
 - [vue-progress-circle ![GitHub Repo Stars](https://img.shields.io/github/stars/keiwen/vue-progress-circle) ![GitHub last commit](https://img.shields.io/github/last-commit/keiwen/vue-progress-circle)](https://github.com/keiwen/vue-progress-circle) - Circle progress bar component for vue3
 - [vue-awesome-button ![GitHub Repo Stars](https://img.shields.io/github/stars/rcaferati/vue-awesome-button) ![GitHub last commit](https://img.shields.io/github/last-commit/rcaferati/vue-awesome-button)](https://github.com/rcaferati/vue-awesome-button) - Vue 3D button components with progress states, social sharing, themes, and animated transitions.
 - [vuehex ![GitHub Repo Stars](https://img.shields.io/github/stars/vvollers/vuehex) ![GitHub last commit](https://img.shields.io/github/last-commit/vvollers/vuehex)](https://github.com/vvollers/vuehex) - Fast, virtualized hex viewer and editor for Vue 3. View and edit binary data. [Demo](https://vvollers.github.io/vuehex/demo/)
-- [vue3-icon-picker ![GitHub Repo Stars](https://img.shields.io/github/stars/noeGnh/vue3-icon-picker) ![GitHub last commit](https://img.shields.io/github/last-commit/noeGnh/vue3-icon-picker)](https://github.com/noeGnh/vue3-icon-picker) Icon picker component for Vue 3.
+- [icon-picker ![GitHub Repo Stars](https://img.shields.io/github/stars/noeGnh/icon-picker) ![GitHub last commit](https://img.shields.io/github/last-commit/noeGnh/icon-picker)](https://github.com/noeGnh/icon-picker) component libraries for Vue 3 and React, both searching icons live from Iconify (150+ icon sets, 200,000+ icons).
 - [custom-highlight ![GitHub Repo Stars](https://img.shields.io/github/stars/roydukkey/custom-highlight) ![GitHub last commit](https://img.shields.io/github/last-commit/roydukkey/custom-highlight)](https://github.com/roydukkey/custom-highlight) - A Vue directive for styling arbitrary text within elements using the CSS Custom Highlight API. [Docs](https://custom-highlight.pages.dev/)
 
 #### Tabs
@@ -1207,6 +1212,7 @@ _Date / datetime / time Picker_
 - [vue-datepicker ![GitHub Repo Stars](https://img.shields.io/github/stars/mathieustan/vue-datepicker) ![GitHub last commit](https://img.shields.io/github/last-commit/mathieustan/vue-datepicker)](https://github.com/mathieustan/vue-datepicker) - A clean & responsive datepicker with Material Design style for Vuejs 2.x. (date/month/quarter && date range picker) :new:
 - [vue-timepicker ![GitHub Repo Stars](https://img.shields.io/github/stars/manos02/vue3-time-picker) ![GitHub last commit](https://img.shields.io/github/last-commit/manos02/vue3-time-picker)](https://github.com/manos02/vue3-time-picker) - A lightweight, customizable timepicker component for Vue 3 with TypeScript support. Supports single/range selection, multiple formats, easy styling, validation and more.
 - [vue-month-spinner-picker ![GitHub Repo Stars](https://img.shields.io/github/stars/jlc488/vue-month-spinner-picker) ![GitHub last commit](https://img.shields.io/github/last-commit/jlc488/vue-month-spinner-picker)](https://github.com/jlc488/vue-month-spinner-picker) - iOS-style drum-roll month picker for Vue 3. Inertia scrolling, bottom sheet modal, min/max constraints, i18n and theming via CSS variables. Zero dependencies.
+- [vue-date-rail ![GitHub Repo Stars](https://img.shields.io/github/stars/devslab-kr/vue-date-rail) ![GitHub last commit](https://img.shields.io/github/last-commit/devslab-kr/vue-date-rail)](https://github.com/devslab-kr/vue-date-rail) - Horizontal infinite-scroll date rail (day/month strip) picker for Vue 3. Headless composable core, Intl-based i18n, min/max & disabled dates, event marker slot, desktop wheel/drag scrolling, Tailwind-ready unstyled mode. Zero dependencies.
 
 ##### Select
 
@@ -1254,6 +1260,7 @@ _Switch / on/off toggle / checkbox_
 - [vue-r-mask ![GitHub Repo Stars](https://img.shields.io/github/stars/raidan00/vue-r-mask) ![GitHub last commit](https://img.shields.io/github/last-commit/raidan00/vue-r-mask)](https://github.com/raidan00/vue-r-mask) - Directive with template similar to javascript regular expression.
 - [vue-currency-input ![GitHub Repo Stars](https://img.shields.io/github/stars/dm4t2/vue-currency-input) ![GitHub last commit](https://img.shields.io/github/last-commit/dm4t2/vue-currency-input)](https://github.com/dm4t2/vue-currency-input) - Easy input of currency formatted numbers for Vue.js.
 - [vue-input-facade ![GitHub Repo Stars](https://img.shields.io/github/stars/RonaldJerez/vue-input-facade) ![GitHub last commit](https://img.shields.io/github/last-commit/RonaldJerez/vue-input-facade)](https://github.com/RonaldJerez/vue-input-facade) - A lightweight and dependency free input masking library created specific for Vue, originally a fork of the famous _vue-text-mask_ but actively maintained and with lots of improvements after there.
+- [numkey ![GitHub Repo Stars](https://img.shields.io/github/stars/devslab-kr/numkey) ![GitHub last commit](https://img.shields.io/github/last-commit/devslab-kr/numkey)](https://github.com/devslab-kr/numkey) - Numeric input formatting for Vue 3 — live thousands grouping with a stable caret, string-first canonical v-model (money-safe), leading-zero cleanup, opt-in locale separators and Korean amount reading. [Demo](https://devslab-kr.github.io/numkey/)
 
 ##### Rich Text Editing
 
@@ -1262,6 +1269,7 @@ _Switch / on/off toggle / checkbox_
 - [tiptap ![GitHub Repo Stars](https://img.shields.io/github/stars/heyscrumpy/tiptap) ![GitHub last commit](https://img.shields.io/github/last-commit/heyscrumpy/tiptap)](https://github.com/heyscrumpy/tiptap) - A renderless and extendable rich-text editor for Vue.js
 - [ckeditor5-vue ![GitHub Repo Stars](https://img.shields.io/github/stars/ckeditor/ckeditor5-vue) ![GitHub last commit](https://img.shields.io/github/last-commit/ckeditor/ckeditor5-vue)](https://github.com/ckeditor/ckeditor5-vue) - An official CKEditor 5 rich text editor component for Vue.js.
 - [vue-quilly ![GitHub Repo Stars](https://img.shields.io/github/stars/alekswebnet/vue-quilly) ![GitHub last commit](https://img.shields.io/github/last-commit/alekswebnet/vue-quilly)](https://github.com/alekswebnet/vue-quilly) - 🪶 Tiny Vue 3 component, that helps to create Quill v2 based WYSIWYG editors.
+- [blok ![GitHub Repo Stars](https://img.shields.io/github/stars/JackUait/blok) ![GitHub last commit](https://img.shields.io/github/last-commit/JackUait/blok)](https://github.com/JackUait/blok) - Headless block-based rich text editor with a Vue 3 adapter, outputs JSON instead of HTML.
 
 ##### Image Manipulation
 
@@ -1294,6 +1302,7 @@ _Display images_
 - [v-use-places-autocomplete ![GitHub Repo Stars](https://img.shields.io/github/stars/wobsoriano/v-use-places-autocomplete) ![GitHub last commit](https://img.shields.io/github/last-commit/wobsoriano/v-use-places-autocomplete)](https://github.com/wobsoriano/v-use-places-autocomplete) - 📍 Vue composable for Google Maps Places Autocomplete.
 - [vuetify-inline-fields ![GitHub Repo Stars](https://img.shields.io/github/stars/webdevnerdstuff/vuetify-inline-fields) ![GitHub last commit](https://img.shields.io/github/last-commit/webdevnerdstuff/vuetify-inline-fields)](https://github.com/webdevnerdstuff/vuetify-inline-fields) - Vuetify Inline Fields Component Library offers a comprehensive collection of reusable UI components to create elegant and efficient inline form fields within your applications.
 - [vue-integer-plusminus ![GitHub Repo Stars](https://img.shields.io/github/stars/keiwen/vue-integer-plusminus) ![GitHub last commit](https://img.shields.io/github/last-commit/keiwen/vue-integer-plusminus)](https://github.com/keiwen/vue-integer-plusminus) - Integer input component for vue3 with increment and decrement buttons, fitting as spinbutton, allowing keyboard functionalities
+- [kokey ![GitHub Repo Stars](https://img.shields.io/github/stars/devslab-kr/kokey) ![GitHub last commit](https://img.shields.io/github/last-commit/devslab-kr/kokey)](https://github.com/devslab-kr/kokey) - Wrong-keyboard-layout input fixer — v-kokey directive and KokeyInput component restore text typed with the wrong layout (Korean Dubeolsik IME built in; Russian, Hebrew, Thai and more as subpath imports), composition-safe with caret preserved. [Demo](https://devslab-kr.github.io/kokey/)
 
 ##### Wizard
 
@@ -1332,6 +1341,7 @@ _Handling of user events (scroll, click, key strike, ...)_
 - [Form Builder ![GitHub Repo Stars](https://img.shields.io/github/stars/laravel-enso/formbuilder) ![GitHub last commit](https://img.shields.io/github/last-commit/laravel-enso/formbuilder)](https://github.com/laravel-enso/formbuilder) - Json template based form builder, based on Vue and Laravel.
 - [vue-autofocus-directive ![GitHub Repo Stars](https://img.shields.io/github/stars/Botre/vue-autofocus-directive) ![GitHub last commit](https://img.shields.io/github/last-commit/Botre/vue-autofocus-directive)](https://github.com/Botre/vue-autofocus-directive) - Vue autofocus directive.
 - [FormKit ![GitHub Repo Stars](https://img.shields.io/github/stars/formkit/formkit) ![GitHub last commit](https://img.shields.io/github/last-commit/formkit/formkit)](https://github.com/formkit/formkit) - Vue 3 form development. 10x faster. Form inputs, validation, submission, error handling, generation, accessibility, theming, and more.
+- [jsonschema-editor ![GitHub Repo Stars](https://img.shields.io/github/stars/eumicro/jsonschema-editor) ![GitHub last commit](https://img.shields.io/github/last-commit/eumicro/jsonschema-editor)](https://github.com/eumicro/jsonschema-editor) - JSON Schema and UI Schema form editor for Vue 3, with fillable forms, nested structures, and oneOf type selection.
 - [vrf ![GitHub Repo Stars](https://img.shields.io/github/stars/dimailn/vrf) ![GitHub last commit](https://img.shields.io/github/last-commit/dimailn/vrf)](https://github.com/dimailn/vrf) - Declarative scalable ui-agnostic markup-based Vue forms.
 - [tracked-instance ![GitHub Repo Stars](https://img.shields.io/github/stars/rudnik275/tracked-instance) ![GitHub last commit](https://img.shields.io/github/last-commit/rudnik275/tracked-instance)](https://github.com/rudnik275/tracked-instance) - Build large forms and track all changes.
 - [Vorm ![GitHub Repo Stars](https://img.shields.io/github/stars/Flo0806/vorm) ![GitHub last commit](https://img.shields.io/github/last-commit/Flo0806/vorm)](https://github.com/Flo0806/vorm) - A dynamic, schema-driven and fully validated form engine for Vue 3 with zero dependencies and full slot control.
@@ -1487,6 +1497,7 @@ _Internationalization / L10n / localization / translation_
 - [vue-intlayer ![GitHub Repo Stars](https://img.shields.io/github/stars/aymericzip/intlayer) ![GitHub last commit](https://img.shields.io/github/last-commit/aymericzip/intlayer)](https://github.com/aymericzip/intlayer) - Intlayer i18n solution for vue 3.
 - [vue-tiny-translation ![GitHub Repo Stars](https://img.shields.io/github/stars/makio64/vue-tiny-translation) ![GitHub last commit](https://img.shields.io/github/last-commit/makio64/vue-tiny-translation)](https://github.com/makio64/vue-tiny-translation) - Super lightweight (0.32KB) reactive translation plugin for Vue 3. [Demo](https://vue-tiny-translation.netlify.app/)
 - [Loccy](https://loccy.dev) - Effortless Vue-i18n management in VS Code-based editors, featuring smart AI translations and key suggestions.
+- [@i18n-micro/vue ![GitHub Repo Stars](https://img.shields.io/github/stars/s00d/nuxt-i18n-micro) ![GitHub last commit](https://img.shields.io/github/last-commit/s00d/nuxt-i18n-micro)](https://github.com/s00d/nuxt-i18n-micro/tree/main/packages/vue) - Lightweight Vue 3 i18n bindings with strategy-based routing; part of the i18n-micro ecosystem.
 
 #### Custom Events
 
@@ -1569,6 +1580,8 @@ _Utilities for building / compiling / bundling / loading assets_
 #### Payment
 
 Payment utilities.
+
+- [crd-ui ![GitHub Repo Stars](https://img.shields.io/github/stars/JuandaGarcia/crd-ui) ![GitHub last commit](https://img.shields.io/github/last-commit/JuandaGarcia/crd-ui)](https://github.com/JuandaGarcia/crd-ui) - Credit and debit card visualization for payment forms and saved-card views, with live brand detection and a 3D flip. Zero dependencies.
 
 ##### Stripe
 
@@ -1683,6 +1696,7 @@ _Render Vue application to HTML on the server and to the DOM in the browser_
 - [electron-vite-vue ![GitHub Repo Stars](https://img.shields.io/github/stars/electron-vite/electron-vite-vue) ![GitHub last commit](https://img.shields.io/github/last-commit/electron-vite/electron-vite-vue)](https://github.com/electron-vite/electron-vite-vue) - Really simple Electron + Vite + Vue boilerplate.
 - [MōBrowser](https://teamdev.com/mobrowser) - A framework for building desktop apps with web technologies. Templates and plumbing for Vite + Vue + Quasar are included.
 - [sketch-to-vue ![GitHub Repo Stars](https://img.shields.io/github/stars/chenboxun87/sketch-to-vue) ![GitHub last commit](https://img.shields.io/github/last-commit/chenboxun87/sketch-to-vue)](https://github.com/chenboxun87/sketch-to-vue) - AI Skill for Claude Code & Cursor that converts Sketch MeaXure / MasterGo design exports into pixel-perfect Vue 2/3 components. Specialized for dashboard/cockpit/big-screen pages: deterministic asset resolution, ECharts auto-detection, Scene Graph analysis, and full consumption audit.
+- [OxideDock ![GitHub Repo Stars](https://img.shields.io/github/stars/fridzema/oxide-dock) ![GitHub last commit](https://img.shields.io/github/last-commit/fridzema/oxide-dock)](https://github.com/fridzema/oxide-dock) - Vue 3 desktop app starter built on Tauri v2, with Tailwind CSS, Pinia, Vitest, Playwright, and automated cross-platform releases.
 
 ### Prerendering
 
