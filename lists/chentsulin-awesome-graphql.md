@@ -139,6 +139,7 @@
 - [graphql-sequelize ![GitHub Repo Stars](https://img.shields.io/github/stars/mickhansen/graphql-sequelize) ![GitHub last commit](https://img.shields.io/github/last-commit/mickhansen/graphql-sequelize)](https://github.com/mickhansen/graphql-sequelize) - Sequelize helpers for GraphQL.
 - [graphql-bookshelf ![GitHub Repo Stars](https://img.shields.io/github/stars/brysgo/graphql-bookshelf) ![GitHub last commit](https://img.shields.io/github/last-commit/brysgo/graphql-bookshelf)](https://github.com/brysgo/graphql-bookshelf) - Some help defining GraphQL schema around BookshelfJS models.
 - [join-monster ![GitHub Repo Stars](https://img.shields.io/github/stars/acarl005/join-monster) ![GitHub last commit](https://img.shields.io/github/last-commit/acarl005/join-monster)](https://github.com/acarl005/join-monster) - A GraphQL-to-SQL query execution layer for batch data fetching.
+- [Simfinity.js ![GitHub Repo Stars](https://img.shields.io/github/stars/simtlix/simfinity.js) ![GitHub last commit](https://img.shields.io/github/last-commit/simtlix/simfinity.js)](https://github.com/simtlix/simfinity.js) - Generates GraphQL queries, mutations, relationships, and MongoDB or PostgreSQL storage from GraphQL object types.
 
 ##### PubSub
 

@@ -326,7 +326,7 @@ These projects are exceptionally high quality, have a proven trackrecord, and ar
 - [Testing Vue Components](https://testingvue.com) on [laracast](https://laracasts.com/series/testing-vue)
 - [Building a Full Stack Web App with Vue.js and Express.js](https://www.youtube.com/watch?v=Fa4cRMaTDUI&t=) by [@CodyLSeibert](https://twitter.com/CodyLSeibert)
 - [Getting Started with Vue.js](https://sabe.io/tutorials/getting-started-with-vue-js)
-- [프론트엔드 개발자를 위한 Vue.js 입문서](https://joshua1988.github.io/web-development/vuejs/vuejs-tutorial-for-beginner/)
+- [프론트엔��� 개발자를 위한 Vue.js 입문서](https://joshua1988.github.io/web-development/vuejs/vuejs-tutorial-for-beginner/)
 - [누구나 다루기 쉬운 Vue.js (Video)](https://www.inflearn.com/course/vue-pwa-vue-js-%EA%B8%B0%EB%B3%B8/) on [Inflearn](https://www.inflearn.com/) by [Captain Pangyo](https://joshua1988.github.io/)
 - [Build a Vue.js Blog in 2 hours tops](https://snipcart.com/blog/vuejs-blog-demo#tutorial) on [Snipcart](https://snipcart.com/)
 - [Getting Started with Vuex: Managing State in Vue.js](https://sabe.io/tutorials/getting-started-with-vuex)
@@ -1599,6 +1599,7 @@ _Integrate with services or other frameworks_
 - [vue-tg ![GitHub Repo Stars](https://img.shields.io/github/stars/deptyped/vue-telegram) ![GitHub last commit](https://img.shields.io/github/last-commit/deptyped/vue-telegram)](https://github.com/deptyped/vue-telegram) - Telegram Web Apps integration for Vue 3.
 - [@rollgate/sdk-vue ![GitHub Repo Stars](https://img.shields.io/github/stars/rollgate/sdks) ![GitHub last commit](https://img.shields.io/github/last-commit/rollgate/sdks)](https://github.com/rollgate/sdks/tree/main/packages/sdk-vue) - Vue 3 feature flag SDK with composables, gradual rollouts, A/B testing and real-time updates. Backend: [Rollgate](https://rollgate.io)
 - [@agentskit/vue ![GitHub Repo Stars](https://img.shields.io/github/stars/AgentsKit-io/agentskit) ![GitHub last commit](https://img.shields.io/github/last-commit/AgentsKit-io/agentskit)](https://github.com/AgentsKit-io/agentskit) - Vue 3 composable and headless chat components for building AI agents, with streaming, tools, memory and RAG.
+- [recaptcha-vue ![GitHub Repo Stars](https://img.shields.io/github/stars/Souhailmakni/recaptcha-vue) ![GitHub last commit](https://img.shields.io/github/last-commit/Souhailmakni/recaptcha-vue)](https://github.com/Souhailmakni/recaptcha-vue) - Google reCAPTCHA v2 and v3 (score-based) via a single version prop, with v-model support, TypeScript and zero dependencies.
 
 #### Vue CLI Plugins
 
