@@ -575,6 +575,7 @@ These projects are exceptionally high quality, have a proven trackrecord, and ar
 - [JARVIS ![GitHub Repo Stars](https://img.shields.io/github/stars/hyhmrright/JARVIS) ![GitHub last commit](https://img.shields.io/github/last-commit/hyhmrright/JARVIS)](https://github.com/hyhmrright/JARVIS) - Self-hosted AI assistant platform with Vue 3 frontend, Pinia state management, TypeScript, and real-time SSE streaming chat. FastAPI backend with LangGraph ReAct agents, RAG knowledge base, multi-LLM support (DeepSeek/OpenAI/Anthropic), and plugin SDK.
 - [Simple IoT ![GitHub Repo Stars](https://img.shields.io/github/stars/dingdaoyi/simple-iot) ![GitHub last commit](https://img.shields.io/github/last-commit/dingdaoyi/simple-iot)](https://github.com/dingdaoyi/simple-iot) - Single-binary self-hosted IoT platform with a Vue 3 + Element Plus admin SPA. Visual drag-and-drop rule engine, real-time device dashboard with ECharts, hot-loaded protocol scripts, MQTT broker built-in. Spring Boot 4 backend; lightweight alternative to ThingsBoard CE.
 - [MarkerOn ![GitHub Repo Stars](https://img.shields.io/github/stars/ifer47/markeron) ![GitHub last commit](https://img.shields.io/github/last-commit/ifer47/markeron)](https://github.com/ifer47/markeron) - Lightweight screen annotation tool built with Tauri v2, Vue 3, and Canvas API for drawing, highlighting, and annotating anywhere on desktop.
+- [AI Gist ![GitHub Repo Stars](https://img.shields.io/github/stars/yarin-zhang/AI-Gist) ![GitHub last commit](https://img.shields.io/github/last-commit/yarin-zhang/AI-Gist)](https://github.com/yarin-zhang/AI-Gist) - Local-first AI prompt manager built with Vue 3, Naive UI, Electron (desktop) and Capacitor (iOS/Android). Variable filling, Jinja templates, AI-assisted prompt generation, version history, and WebDAV/iCloud backup.
 - [DentalPin ![GitHub Repo Stars](https://img.shields.io/github/stars/martinezsalmeron/dentalpin) ![GitHub last commit](https://img.shields.io/github/last-commit/martinezsalmeron/dentalpin)](https://github.com/martinezsalmeron/dentalpin) - Dental clinic management platform with appointment scheduling and a modular plugin architecture, built with Nuxt 3 and FastAPI.
 
 ### Commercial Products
@@ -750,6 +751,7 @@ These projects are exceptionally high quality, have a proven trackrecord, and ar
 - [BulkPicTools](https://bulkpictools.com) - Privacy-first bulk image processor built with Vue 3 and WebAssembly.
 - [Shiko](https://shiko.vet) - Veterinary clinic management platform with appointment scheduling, interactive clinic directory with maps, and multi-platform support.
 - [Text to Handwriting](https://www.primenotepad.com/tools/text-to-handwriting) - Convert typed text into realistic handwritten notes online.
+- [JsonToolBox](https://jsontoolbox.cc) - Open-source, browser-based JSON toolkit for formatting, validating, minifying, viewing, comparing, and converting JSON. Built with Nuxt and Vue.
 
 ### Interactive Experiences
 
@@ -1387,6 +1389,7 @@ _Detect when components enter viewport_
 - [unplugin-vue-router ![GitHub Repo Stars](https://img.shields.io/github/stars/posva/unplugin-vue-router) ![GitHub last commit](https://img.shields.io/github/last-commit/posva/unplugin-vue-router)](https://github.com/posva/unplugin-vue-router) - Next Generation file based typed routing for Vue Router.
 - [vite-plugin-vue-middleware ![GitHub Repo Stars](https://img.shields.io/github/stars/awdr74100/vite-plugin-vue-middleware) ![GitHub last commit](https://img.shields.io/github/last-commit/awdr74100/vite-plugin-vue-middleware)](https://github.com/awdr74100/vite-plugin-vue-middleware) - File-based navigation guards for Vue Router
 - [vue-router-citadel ![GitHub Repo Stars](https://img.shields.io/github/stars/Kassaila/vue-router-citadel) ![GitHub last commit](https://img.shields.io/github/last-commit/Kassaila/vue-router-citadel)](https://github.com/Kassaila/vue-router-citadel) - A middleware-driven navigation control system for Vue Router.
+- [ufbr] - An Universal File Based Router with Vuejs support.
 
 #### Lazy Load
 
