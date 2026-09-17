@@ -1621,6 +1621,7 @@ _Integrate with services or other frameworks_
 - [Vue Mess Detector ![GitHub Repo Stars](https://img.shields.io/github/stars/rrd108/vue-mess-detector) ![GitHub last commit](https://img.shields.io/github/last-commit/rrd108/vue-mess-detector)](https://github.com/rrd108/vue-mess-detector) - A static code analysis tool for 👉 detecting code smells and best practice violations in Vue.js and Nuxt.js projects
 - [Vue Log Arsenal ![GitHub Repo Stars](https://img.shields.io/github/stars/MvdZon/Vue3-log-arsenal) ![GitHub last commit](https://img.shields.io/github/last-commit/MvdZon/Vue3-log-arsenal)](https://github.com/MvdZon/Vue3-log-arsenal) - Lightweight Vue 3 plugin providing logging directives for easier debugging
 - [PocketMocker ![GitHub Repo Stars](https://img.shields.io/github/stars/tianchangNorth/pocket-mocker) ![GitHub last commit](https://img.shields.io/github/last-commit/tianchangNorth/pocket-mocker)](https://github.com/tianchangNorth/pocket-mocker) - Visual, browser-based HTTP mocking tool for front-end apps. Intercepts fetch/XHR, supports SmartMock rules, delay/error simulation and works great when developing Vue apps.
+- [Poveste ![GitHub Repo Stars](https://img.shields.io/github/stars/poveste-dev/poveste) ![GitHub last commit](https://img.shields.io/github/last-commit/poveste-dev/poveste)](https://github.com/poveste-dev/poveste) - Interactive component playgrounds powered by Vite. A drop-in fork of histoire, with Vue 3 and Nuxt support.
 
 #### Inspect
 
