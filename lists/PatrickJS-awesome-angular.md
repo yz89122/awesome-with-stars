@@ -1362,6 +1362,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [weekly-availability-picker ![GitHub Repo Stars](https://img.shields.io/github/stars/squareetlabs/weekly-availability-picker) ![GitHub last commit](https://img.shields.io/github/last-commit/squareetlabs/weekly-availability-picker)](https://github.com/squareetlabs/weekly-availability-picker) - A standalone Angular weekly availability picker with drag & resize support.
 * [ng-date-hour-range-selector ![GitHub Repo Stars](https://img.shields.io/github/stars/deciosfernandes/ng-date-hour-range-selector) ![GitHub last commit](https://img.shields.io/github/last-commit/deciosfernandes/ng-date-hour-range-selector)](https://github.com/deciosfernandes/ng-date-hour-range-selector) - A flexible Angular date / date-time range selector built on Angular CDK Overlay.
 * [ngx-pm-wheel-date-picker ![GitHub Repo Stars](https://img.shields.io/github/stars/PeymanMH/ngx-pm-wheel-date-picker) ![GitHub last commit](https://img.shields.io/github/last-commit/PeymanMH/ngx-pm-wheel-date-picker)](https://github.com/PeymanMH/ngx-pm-wheel-date-picker) - Angular wheel-style date and time picker for the Jalali (Persian) calendar.
+* [ngx-mat-datetime-panel ![GitHub Repo Stars](https://img.shields.io/github/stars/VlV-515/ngx-mat-datetime-panel) ![GitHub last commit](https://img.shields.io/github/last-commit/VlV-515/ngx-mat-datetime-panel)](https://github.com/VlV-515/ngx-mat-datetime-panel) - A compact, single-view date and time picker for Angular Material 21+.
 
 ### Directives
 
@@ -2302,6 +2303,7 @@ for the creation of web applications developed with Angular.
 * [AnQst ![GitHub Repo Stars](https://img.shields.io/github/stars/DusteDdk/AnQst) ![GitHub last commit](https://img.shields.io/github/last-commit/DusteDdk/AnQst)](https://github.com/DusteDdk/AnQst) - Generates Angular services and native Qt widgets from a shared DSL, letting Angular apps compile into QWidget‑based C++ UIs via the AnQst CLI and host libraries.
 * [rozie.js ![GitHub Repo Stars](https://img.shields.io/github/stars/One-Learning-Community/rozie.js) ![GitHub last commit](https://img.shields.io/github/last-commit/One-Learning-Community/rozie.js)](https://github.com/One-Learning-Community/rozie.js) - A cross-framework compiler that transforms single Vue/Alpine-flavored component files into native Angular code without runtime overhead or wrapper boilerplate.
 * [aktion ![GitHub Repo Stars](https://img.shields.io/github/stars/asfand-dev/aktion) ![GitHub last commit](https://img.shields.io/github/last-commit/asfand-dev/aktion)](https://github.com/asfand-dev/aktion) - A single web component that turns a compact, streaming-first DSL into a rich, interactive UI inside its shadow DOM.
+* [wolf-tui ![GitHub Repo Stars](https://img.shields.io/github/stars/OneEyed1366/wolf-tui) ![GitHub last commit](https://img.shields.io/github/last-commit/OneEyed1366/wolf-tui)](https://github.com/OneEyed1366/wolf-tui) - Write CLI apps with your web framework — React, Vue, Angular, Solid, or Svelte.
 
 ### External Integration
 

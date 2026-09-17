@@ -149,7 +149,7 @@ GeoJSON utilities that will make your life easier.
 
 ### resources
 
-* [RFC 7946 �� The GeoJSON Format](https://tools.ietf.org/html/rfc7946): the current GeoJSON standard by IETF
+* [RFC 7946 – The GeoJSON Format](https://tools.ietf.org/html/rfc7946): the current GeoJSON standard by IETF
 * [GeoJSON.org](http://geojson.org/): the first specification, defining all the rules for GeoJSON structures
 * [More than you ever wanted to know about GeoJSON](http://www.macwright.org/2015/03/23/geojson-second-bite.html): a review of the concepts behind the specification in a more narrative format.
 * [geojson-invalid-geometry ![GitHub Repo Stars](https://img.shields.io/github/stars/chrieke/geojson-invalid-geometry) ![GitHub last commit](https://img.shields.io/github/last-commit/chrieke/geojson-invalid-geometry)](https://github.com/chrieke/geojson-invalid-geometry): List of GeoJSON invalid geometry issues with example files.

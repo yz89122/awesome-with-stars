@@ -90,7 +90,7 @@ Short description.
 
 - [Too Good To Go](https://toogoodtogo.com/en) | France | 2016
 
-  Gives the possibility for restaurants, stores, bakeries and cafés to sell unsold food at the end of the day. Since it is impossible to know in advance what will be the unsolds of the day, the users get a "surprise basket" of about 500g of food. Pretty much like Karma, but more present in France.
+  Gives the possibility for restaurants, stores, bakeries and caf��s to sell unsold food at the end of the day. Since it is impossible to know in advance what will be the unsolds of the day, the users get a "surprise basket" of about 500g of food. Pretty much like Karma, but more present in France.
 
 ### Materials
 
