@@ -74,7 +74,7 @@
 - [VoiceInk ![GitHub Repo Stars](https://img.shields.io/github/stars/Beingpax/VoiceInk) ![GitHub last commit](https://img.shields.io/github/last-commit/Beingpax/VoiceInk)](https://github.com/Beingpax/VoiceInk) - Dictation and transcription macOS app. (FOSS)
 - [Ito AI ![GitHub Repo Stars](https://img.shields.io/github/stars/heyito/ito) ![GitHub last commit](https://img.shields.io/github/last-commit/heyito/ito)](https://github.com/heyito/ito) - AI voice dictation for Mac. (FOSS)
 - [OpenSuperWhisper ![GitHub Repo Stars](https://img.shields.io/github/stars/Starmel/OpenSuperWhisper) ![GitHub last commit](https://img.shields.io/github/last-commit/Starmel/OpenSuperWhisper)](https://github.com/Starmel/OpenSuperWhisper) - Dictation app for macOS. (FOSS)
-- [Screenpipe](https://screenpi.pe) - 24/7 local screen and audio recording with AI search. (FOSS)
+- [Screenpipe](https://screenpipe.com) - Local screen and audio recording with Whisper transcription. (Source-available)
 
 ## Web apps
 

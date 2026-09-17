@@ -1244,6 +1244,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 ### Menu Bar Tools
 
 * [Agent Island ![GitHub Repo Stars](https://img.shields.io/github/stars/tristan666666/agent-island) ![GitHub last commit](https://img.shields.io/github/last-commit/tristan666666/agent-island)](https://github.com/tristan666666/agent-island) - MacBook notch companion for Claude Code and Codex sessions, showing live status and auto-resuming selected long-running tasks. [![Open-Source Software][OSS Icon]](https://github.com/tristan666666/agent-island) ![Freeware][Freeware Icon]
+* [AirPoise](https://airpoise.vercel.app/) - Menu bar app that uses AirPods motion sensors for head-posture reminders and configurable head-gesture shortcuts. [![Open-Source Software][OSS Icon]](https://github.com/jaskirat1616/AirPoise) ![Freeware][Freeware Icon]
 * [Anvil](https://anvilformac.com/) - Tool for serving local static sites and Rack apps with simple URLs. ![Freeware][Freeware Icon]
 * [Atoll ![GitHub Repo Stars](https://img.shields.io/github/stars/Ebullioscopic/Atoll) ![GitHub last commit](https://img.shields.io/github/last-commit/Ebullioscopic/Atoll)](https://github.com/Ebullioscopic/Atoll) - Turns the notch into a Dynamic Island-style hub for media controls, live activities, and quick utilities. [![Open-Source Software][OSS Icon]](https://github.com/Ebullioscopic/Atoll)
 * [Bartender](https://www.macbartender.com) - Organize or hide menu bar icons on your Mac.
@@ -1651,6 +1652,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 ## Remote Login Software
 
 * [AnyDesk](https://anydesk.com) - Provides remote access across multiple machines.
+* [HopToDesk](https://www.hoptodesk.com/) - Open-source remote desktop and remote support tool with end-to-end encrypted sessions. [![Open-Source Software][OSS Icon]](https://gitlab.com/hoptodesk/hoptodesk) ![Freeware][Freeware Icon]
 * [MoonProxy ![GitHub Repo Stars](https://img.shields.io/github/stars/MoonProxyHQ/moonproxy-desktop) ![GitHub last commit](https://img.shields.io/github/last-commit/MoonProxyHQ/moonproxy-desktop)](https://github.com/MoonProxyHQ/moonproxy-desktop) - GUI desktop client for FRP that puts local services on the internet with one click. [![Open-Source Software][OSS Icon]](https://github.com/MoonProxyHQ/moonproxy-desktop) ![Freeware][Freeware Icon]
 * [Moonlight ![GitHub Repo Stars](https://img.shields.io/github/stars/moonlight-stream/moonlight-qt) ![GitHub last commit](https://img.shields.io/github/last-commit/moonlight-stream/moonlight-qt)](https://github.com/moonlight-stream/moonlight-qt) - GameStream client for PCs (Windows, Mac, Linux, and Steam Link). [![Open-Source Software][OSS Icon]](https://github.com/moonlight-stream/moonlight-qt) ![Freeware][Freeware Icon]
 * [Parsec](https://parsec.app) - Low-latency remote desktop and game streaming tool.
