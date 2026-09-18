@@ -1134,6 +1134,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [appblink ![GitHub Repo Stars](https://img.shields.io/github/stars/workern/appblink-workspace) ![GitHub last commit](https://img.shields.io/github/last-commit/workern/appblink-workspace)](https://github.com/workern/appblink-workspace) - Production-ready Angular + Flutter + Firebase monorepo starter. Web, mobile & backend in one repo.
 * [exo-dash-angular ![GitHub Repo Stars](https://img.shields.io/github/stars/exouidev/exo-dash-angular) ![GitHub last commit](https://img.shields.io/github/last-commit/exouidev/exo-dash-angular)](https://github.com/exouidev/exo-dash-angular) - A modern Angular and Tailwind CSS admin dashboard template.
 * [electron-angular-boilerplate ![GitHub Repo Stars](https://img.shields.io/github/stars/skelesp/electron-angular-boilerplate) ![GitHub last commit](https://img.shields.io/github/last-commit/skelesp/electron-angular-boilerplate)](https://github.com/skelesp/electron-angular-boilerplate) - An Angular and Electron desktop app utilizing a SQLite database via TypeORM, connected by a shared, runtime-validated API.
+* [angular-starter-ui ![GitHub Repo Stars](https://img.shields.io/github/stars/JoanRoucoux/angular-starter-ui) ![GitHub last commit](https://img.shields.io/github/last-commit/JoanRoucoux/angular-starter-ui)](https://github.com/JoanRoucoux/angular-starter-ui) - Angular starter for building a design system: a publishable component library (standalone, zoneless, signals) and a Storybook workshop.
 
 ### Paid Templates
 
@@ -1336,6 +1337,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [fastgrid-angular ![GitHub Repo Stars](https://img.shields.io/github/stars/coqsoft/fastgrid-frameworks) ![GitHub last commit](https://img.shields.io/github/last-commit/coqsoft/fastgrid-frameworks)](https://github.com/coqsoft/fastgrid-frameworks/tree/main/fastgrid-angular) - The official Angular wrapper for [FastGrid](https://www.treegrid.com/FDoc/FastGridAngular.html) and FastSheet by COQsoft.
 * [angular-generic-table ![GitHub Repo Stars](https://img.shields.io/github/stars/hjalmers/angular-generic-table) ![GitHub last commit](https://img.shields.io/github/last-commit/hjalmers/angular-generic-table)](https://github.com/hjalmers/angular-generic-table) - Angular table component supporting sorting, pagination, search highlighting, keyboard navigation, custom templates, and footer calculations.
 * [ngx-mat-simple-table ![GitHub Repo Stars](https://img.shields.io/github/stars/xonaib/ng-simple-table) ![GitHub last commit](https://img.shields.io/github/last-commit/xonaib/ng-simple-table)](https://github.com/xonaib/ng-simple-table) - A declarative Angular Material table — JSON columns, sorting, filters, pagination, and custom cell templates out of the box.
+* [PivotHead ![GitHub Repo Stars](https://img.shields.io/github/stars/mindfiredigital/PivotHead) ![GitHub last commit](https://img.shields.io/github/last-commit/mindfiredigital/PivotHead)](https://github.com/mindfiredigital/PivotHead) - A powerful and flexible library for creating interactive pivot tables in JavaScript/TypeScript applications.
 
 ### Dates
 
@@ -1678,6 +1680,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [@TanStack/hotkeys ![GitHub Repo Stars](https://img.shields.io/github/stars/TanStack/hotkeys) ![GitHub last commit](https://img.shields.io/github/last-commit/TanStack/hotkeys)](https://github.com/TanStack/hotkeys) - Type-Safe keyboard shortcuts library with awesome devtools.
 * [ngx-keyboard-shortcuts ![GitHub Repo Stars](https://img.shields.io/github/stars/phalgunv/ngx-keyboard-shortcuts) ![GitHub last commit](https://img.shields.io/github/last-commit/phalgunv/ngx-keyboard-shortcuts)](https://github.com/phalgunv/ngx-keyboard-shortcuts) - An actively maintained fork of the archived [ngx-keyboard-shortcuts ![GitHub Repo Stars](https://img.shields.io/github/stars/milestechnologies/ngx-keyboard-shortcuts) ![GitHub last commit](https://img.shields.io/github/last-commit/milestechnologies/ngx-keyboard-shortcuts)](https://github.com/milestechnologies/ngx-keyboard-shortcuts) package, adding Angular 16+ support and modern tooling.
 * [ngx-command-palette ![GitHub Repo Stars](https://img.shields.io/github/stars/theryansmee/ngx-command-palette) ![GitHub last commit](https://img.shields.io/github/last-commit/theryansmee/ngx-command-palette)](https://github.com/theryansmee/ngx-command-palette) - Zero-setup, keyboard-driven Angular command palette with auto-registered routes, custom commands, async search, and contextual visibility.
+* [gigamenu ![GitHub Repo Stars](https://img.shields.io/github/stars/flxg-de/gigamenu) ![GitHub last commit](https://img.shields.io/github/last-commit/flxg-de/gigamenu)](https://github.com/flxg-de/gigamenu) - A keyboard-driven command palette menu for Angular applications.
 
 ### Layout
 
@@ -2206,6 +2209,7 @@ for the creation of web applications developed with Angular.
 * [@luminacn/ui ![GitHub Repo Stars](https://img.shields.io/github/stars/luminacn/ui) ![GitHub last commit](https://img.shields.io/github/last-commit/luminacn/ui)](https://github.com/luminacn/ui) - Signal-first, headless UI primitives for Angular.
 * [Bloc UI ![GitHub Repo Stars](https://img.shields.io/github/stars/debasish1996/BLOC-UI) ![GitHub last commit](https://img.shields.io/github/last-commit/debasish1996/BLOC-UI)](https://github.com/debasish1996/BLOC-UI) - Lightweight, accessible Angular components with zero design opinions. Use your own styles or the optional theme package.
 * [angular-primitives ![GitHub Repo Stars](https://img.shields.io/github/stars/snatuva/angular-primitives) ![GitHub last commit](https://img.shields.io/github/last-commit/snatuva/angular-primitives)](https://github.com/snatuva/angular-primitives) - Signal-first Angular primitives for building scalable, accessible UI systems.
+* [NeuralTech ![GitHub Repo Stars](https://img.shields.io/github/stars/hasanaydin7/NeuralTech) ![GitHub last commit](https://img.shields.io/github/last-commit/hasanaydin7/NeuralTech)](https://github.com/hasanaydin7/NeuralTech) - AI-first, headless and Signal-native Angular UI components with machine-readable contracts.
 
 ### Viewers
 
