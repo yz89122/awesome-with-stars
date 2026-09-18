@@ -22,7 +22,7 @@
 
 > A curated list of awesome Magento 2 Extensions & Resources.
 
-> Tracking **233** projects · **66** actively maintained · **11** 🔥 hot · **51** 🪦 on the graveyard shelf.
+> Tracking **228** projects · **66** actively maintained · **11** 🔥 hot · **48** 🪦 on the graveyard shelf.
 
 - [What is an awesome list? ![GitHub Repo Stars](https://img.shields.io/github/stars/sindresorhus/awesome) ![GitHub last commit](https://img.shields.io/github/last-commit/sindresorhus/awesome)](https://github.com/sindresorhus/awesome/blob/master/awesome.md)
 - [Contribution guide](contributing.md) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/DavidLambauer/awesome-magento2/issues)
@@ -122,13 +122,6 @@ The storefront of Magento 2 can be styled in numerous ways:
 - [Breeze Evolution](https://breezefront.com/themes) - Lightweight Luma-compatible theme targeting 100 PageSpeed.
 - [Hyvä](https://hyva.io/) - Luma replacement using TailwindCSS and AlpineJS. Commercial license. Active compatibility-module ecosystem.
 
-<details>
-<summary>🪦 Graveyard — projects no longer recommended</summary>
-
-- [Front-Commerce](https://www.front-commerce.com/) - French PWA front-end solution for Magento.
-
-</details>
-
 ## Tools
 
 - [PhpInsights ![GitHub Repo Stars](https://img.shields.io/github/stars/nunomaduro/phpinsights) ![GitHub last commit](https://img.shields.io/github/last-commit/nunomaduro/phpinsights)](https://github.com/nunomaduro/phpinsights) 🔥 🫡 - PHP quality checks with Magento 2 presets.
@@ -152,6 +145,7 @@ The storefront of Magento 2 can be styled in numerous ways:
 - [Mage2Gen](https://mage2gen.com/) - Online module creator.
 - [Magento 2 Composer patches helper](https://chrome.google.com/webstore/detail/magento-2-composer-patche/gfndadbceejgfjahpfaijcacnmdloiad) - Chrome extension to create copy-pastable composer patch definitions for vaimo/composer-patches.
 - [Magento Log Viewer (VS Code extension)](https://marketplace.visualstudio.com/items?itemName=MathiasElle.magento-log-viewer) - VS Code extension to view, watch and manage Magento log files and reports directly in your workspace.
+- [magento.watch](https://magento.watch) - Release dates, end-of-life dates and system requirements for every Magento, Adobe Commerce and Mage-OS version, with a free JSON API.
 - [Tablerates Generator](https://www.tableratesgenerator.com/) - Generate tablerates online.
 
 <details>
@@ -259,6 +253,8 @@ The storefront of Magento 2 can be styled in numerous ways:
 - [MagePlaza Seo ![GitHub Repo Stars](https://img.shields.io/github/stars/mageplaza/magento-2-seo-extension) ![GitHub last commit](https://img.shields.io/github/last-commit/mageplaza/magento-2-seo-extension)](https://github.com/mageplaza/magento-2-seo-extension) 🫡 - Well-documented multi-purpose SEO Extension.
 - [magento2-withdrawl ![GitHub Repo Stars](https://img.shields.io/github/stars/Zwernemann/magento2-withdrawl) ![GitHub last commit](https://img.shields.io/github/last-commit/Zwernemann/magento2-withdrawl)](https://github.com/Zwernemann/magento2-withdrawl) 🫡 - Magento 2 module providing a compliant EU withdrawal button required from June 19, 2026 (§356a BGB / Directive (EU) 2023/2673). Enables customers and guests to revoke orders via a simple form (name, order number, email), sends automatic confirmation emails, and allows admin management in the backend.
 - [module-blog ![GitHub Repo Stars](https://img.shields.io/github/stars/mage-os-lab/module-blog) ![GitHub last commit](https://img.shields.io/github/last-commit/mage-os-lab/module-blog)](https://github.com/mage-os-lab/module-blog) 🫡 - Blog module for Mage-OS / Magento 2 with posts, categories, tags, authors, scheduled publishing, SEO, RSS, sitemap, 6 widgets, and a full GraphQL API. Luma + Hyvä.
+- [BerryPath Guided Selling ![GitHub Repo Stars](https://img.shields.io/github/stars/BerryPath/magento2-berrypath-flow) ![GitHub last commit](https://img.shields.io/github/last-commit/BerryPath/magento2-berrypath-flow)](https://github.com/BerryPath/magento2-berrypath-flow) - Open source integration for BerryPath. Add interactive product finders and buying guides to Magento 2 storefronts with product synchronization, assisted conversion tracking + Hyvä compatibility.
+- [BerryPath Product Feed ![GitHub Repo Stars](https://img.shields.io/github/stars/BerryPath/magento2-berrypath-product-feed) ![GitHub last commit](https://img.shields.io/github/last-commit/BerryPath/magento2-berrypath-product-feed)](https://github.com/BerryPath/magento2-berrypath-product-feed) - Open source Magento 2 product feed generator. Create XML product feeds with configurable attributes and multi store support for Google Shopping, Meta, Pinterest, TikTok, Microsoft Shopping, AI search engines and custom integrations.
 
 <details>
 <summary>🪦 Graveyard — projects no longer recommended</summary>
@@ -325,13 +321,6 @@ The storefront of Magento 2 can be styled in numerous ways:
 ### Proprietary Extensions
 
 - [Magicento](http://magicento.com/) - PHPStorm plugin to add Magento 2 related functionality.
-
-<details>
-<summary>🪦 Graveyard — projects no longer recommended</summary>
-
-- [Commercebug Debugging Extension](http://store.pulsestorm.net/products/commerce-bug-3) - A Magento 2 Debug Extension.
-
-</details>
 
 ### Progressive Web Application
 
@@ -432,7 +421,6 @@ The storefront of Magento 2 can be styled in numerous ways:
 - [fisheye-academy/m2cpfed-training ![GitHub Repo Stars](https://img.shields.io/github/stars/fisheye-academy/m2cpfed-training) ![GitHub last commit](https://img.shields.io/github/last-commit/fisheye-academy/m2cpfed-training)](https://github.com/fisheye-academy/m2cpfed-training) - Resources for the Magento 2 Certified Professional Front End Developer exam.
 - [magento-notes/magento2-cloud-developer-notes ![GitHub Repo Stars](https://img.shields.io/github/stars/magento-notes/magento2-cloud-developer-notes) ![GitHub last commit](https://img.shields.io/github/last-commit/magento-notes/magento2-cloud-developer-notes)](https://github.com/magento-notes/magento2-cloud-developer-notes) - Preparation notes for the Magento 2 Certified Professional Cloud Developer exam.
 - [roma-glushko/magento2-dev-plus-exam ![GitHub Repo Stars](https://img.shields.io/github/stars/roma-glushko/magento2-dev-plus-exam) ![GitHub last commit](https://img.shields.io/github/last-commit/roma-glushko/magento2-dev-plus-exam)](https://github.com/roma-glushko/magento2-dev-plus-exam) - Preparation notes for the Magento 2 Certified Professional Developer Plus exam.
-- [Mage2.tv](https://www.mage2.tv) - Magento 2 developer screencasts by Vinai Kopp.
 - [MageTitans Italia 2016](https://www.youtube.com/playlist?list=PLwB4Uz_0hoVP3Fm_c4HfNPK5JdRD6DIDl) - MageTitans Italia 2016 conference recordings.
 - [MageTitans MCR 2016](https://www.youtube.com/playlist?list=PLwB4Uz_0hoVMOnBRS49ICbNWOU5jhNNWC) - MageTitans Manchester 2016 conference recordings.
 - [MageTitans USA/Texas 2016](https://www.youtube.com/playlist?list=PLwB4Uz_0hoVOLU7LPRNL4lAmJeAv7HQ-b) - MageTitans USA/Texas 2016 conference recordings.
@@ -455,10 +443,7 @@ The storefront of Magento 2 can be styled in numerous ways:
 - [Magento Coding Standards ![GitHub Repo Stars](https://img.shields.io/github/stars/magento/magento-coding-standard) ![GitHub last commit](https://img.shields.io/github/last-commit/magento/magento-coding-standard)](https://github.com/magento/magento-coding-standard) 🫡 - Official Magento 2 advanced ruleset for PHP_CodeSniffer.
 - [Magento 2 data migration tool ![GitHub Repo Stars](https://img.shields.io/github/stars/magento/data-migration-tool) ![GitHub last commit](https://img.shields.io/github/last-commit/magento/data-migration-tool)](https://github.com/magento/data-migration-tool) - Official Magento 1 → Magento 2 migration tool.
 - [Magento 2 Architecture ![GitHub Repo Stars](https://img.shields.io/github/stars/magento/architecture) ![GitHub last commit](https://img.shields.io/github/last-commit/magento/architecture)](https://github.com/magento/architecture) - Architectural discussions about Magento 2.
-- [Magento Developer Blog](https://community.magento.com/t5/Magento-DevBlog/bg-p/devblog) - Developer blog run by Magento.
 - [Magento Developer Documentation](http://devdocs.magento.com/) - Official developer documentation.
-- [Magento Forum](https://community.magento.com/) - Community forum run by Magento.
-- [Magento Official Website](https://www.magento.com) - Magento's official website.
 
 ---
 

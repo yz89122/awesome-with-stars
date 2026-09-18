@@ -263,7 +263,7 @@ Also check out the sister project, [awesome-dynamic-analysis ![GitHub Repo Stars
 
 - [Puma Scan](https://pumasecurity.io) — Puma Scan provides real time secure code analysis for common vulnerabilities (XSS, SQLi, CSRF, LDAPi, crypto, deserialization, etc.) as development teams write code in Visual Studio.
 
-- [Roslynator ![GitHub Repo Stars](https://img.shields.io/github/stars/JosefPihrt/Roslynator) ![GitHub last commit](https://img.shields.io/github/last-commit/JosefPihrt/Roslynator)](https://github.com/JosefPihrt/Roslynator) �� A collection of 190+ analyzers and 190+ refactorings for C#, powered by Roslyn.
+- [Roslynator ![GitHub Repo Stars](https://img.shields.io/github/stars/JosefPihrt/Roslynator) ![GitHub last commit](https://img.shields.io/github/last-commit/JosefPihrt/Roslynator)](https://github.com/JosefPihrt/Roslynator) — A collection of 190+ analyzers and 190+ refactorings for C#, powered by Roslyn.
 
 - [SonarAnalyzer.CSharp ![GitHub Repo Stars](https://img.shields.io/github/stars/SonarSource/sonar-dotnet) ![GitHub last commit](https://img.shields.io/github/last-commit/SonarSource/sonar-dotnet)](https://github.com/SonarSource/sonar-dotnet) — These Roslyn analyzers allow you to produce Clean Code that is safe, reliable, and maintainable by helping you find and correct bugs, vulnerabilities, and code smells in your codebase.
 
@@ -302,7 +302,7 @@ Also check out the sister project, [awesome-dynamic-analysis ![GitHub Repo Stars
 <h2>C++</h2>
 
 
-- [Astrée](https://www.absint.com/astree/index.htm) :copyright: — Astrée automatically proves the absence of runtime errors and invalid con­current behavior in C/C++ applications. It is sound for floating-point computations, very fast, and exceptionally precise. The analyzer also checks for MISRA/CERT/CWE/Adaptive Autosar coding rules and supports qualification for ISO 26262, DO-178C level A, and other safety standards. Jenkins and Eclipse plugins are available.
+- [Astrée](https://www.absint.com/astree/index.htm) :copyright: �� Astrée automatically proves the absence of runtime errors and invalid con­current behavior in C/C++ applications. It is sound for floating-point computations, very fast, and exceptionally precise. The analyzer also checks for MISRA/CERT/CWE/Adaptive Autosar coding rules and supports qualification for ISO 26262, DO-178C level A, and other safety standards. Jenkins and Eclipse plugins are available.
 
 - [CBMC](http://www.cprover.org/cbmc) — Bounded model-checker for C programs, user-defined assertions, standard assertions, several coverage metric analyses.
 
@@ -770,7 +770,7 @@ By default, govulncheck makes requests to the Go vulnerability database at https
 
 - [checkstyle](https://checkstyle.org) — Checking Java source code for adherence to a Code Standard or set of validation rules (best practices).
 
-- [ck ![GitHub Repo Stars](https://img.shields.io/github/stars/mauricioaniche/ck) ![GitHub last commit](https://img.shields.io/github/last-commit/mauricioaniche/ck)](https://github.com/mauricioaniche/ck) — Calculates Chidamber and Kemerer object-oriented metrics by processing the source Java files.
+- [ck ![GitHub Repo Stars](https://img.shields.io/github/stars/mauricioaniche/ck) ![GitHub last commit](https://img.shields.io/github/last-commit/mauricioaniche/ck)](https://github.com/mauricioaniche/ck) �� Calculates Chidamber and Kemerer object-oriented metrics by processing the source Java files.
 
 - [Dataflow Framework ![GitHub Repo Stars](https://img.shields.io/github/stars/typetools/checker-framework) ![GitHub last commit](https://img.shields.io/github/last-commit/typetools/checker-framework)](https://github.com/typetools/checker-framework) — An industrial-strength dataflow framework for Java. The Dataflow Framework is used in the Checker Framework, Google’s Error Prone, Uber’s NullAway, Meta’s Nullsafe, and in other contexts. It is distributed with the Checker Framework.
 
@@ -2333,6 +2333,8 @@ orchestration to ensure zero breaking changes. Specialized for React, Next.js, a
 <h2>Agent Skills</h2>
 
 
+- [LintLang](https://lintlang.ai/) — Static linter for natural-language instructions that control AI agents. Detects ambiguous tool descriptions, missing limits, conflicting directives, and schema gaps in local files and CI without model or network calls.
+
 - [skillsaw](https://skillsaw.org/) — Configurable linter for the files that steer AI coding agents, including skills, plugins, instruction files, hooks, and related configuration. Detects structural, content-quality, and security issues and provides deterministic autofixes, baselines, and CI-ready output.
 
 - [trentclaw](https://trent.ai/) — Security assessment for your OpenClaw agent environment. Flags misconfigurations and risky skills — prompt injection, permission escalation, data exfiltration — and the chained attack paths between them, across gateway config, tool permissions, MCP servers, and plugins.
@@ -2522,6 +2524,8 @@ Loading address: binbloom can parse a raw binary firmware and determine its load
 - [dotenv-linter](https://dotenv-linter.readthedocs.io/en/latest) — Linting dotenv files like a charm.
 
 - [dotenv-linter (Rust)](https://dotenv-linter.github.io/#/) — Lightning-fast linter for .env files. Written in Rust
+
+- [LintLang](https://lintlang.ai/) — Static linter for natural-language instructions that control AI agents. Detects ambiguous tool descriptions, missing limits, conflicting directives, and schema gaps in local files and CI without model or network calls.
 
 - [skillsaw](https://skillsaw.org/) — Configurable linter for the files that steer AI coding agents, including skills, plugins, instruction files, hooks, and related configuration. Detects structural, content-quality, and security issues and provides deterministic autofixes, baselines, and CI-ready output.
 
@@ -2952,6 +2956,8 @@ but with the following improvements:
 <a id="markdown"></a>
 <h2>Markdown</h2>
 
+
+- [LintLang](https://lintlang.ai/) — Static linter for natural-language instructions that control AI agents. Detects ambiguous tool descriptions, missing limits, conflicting directives, and schema gaps in local files and CI without model or network calls.
 
 - [markdownlint ![GitHub Repo Stars](https://img.shields.io/github/stars/DavidAnson/markdownlint) ![GitHub last commit](https://img.shields.io/github/last-commit/DavidAnson/markdownlint)](https://github.com/DavidAnson/markdownlint) — Node.js -based style checker and lint tool for Markdown/CommonMark files.
 
@@ -3447,6 +3453,8 @@ TruffleHog is an open source secret-scanning engine that resolves exposed secret
 <a id="yaml"></a>
 <h2>YAML</h2>
 
+
+- [LintLang](https://lintlang.ai/) — Static linter for natural-language instructions that control AI agents. Detects ambiguous tool descriptions, missing limits, conflicting directives, and schema gaps in local files and CI without model or network calls.
 
 - [skillsaw](https://skillsaw.org/) — Configurable linter for the files that steer AI coding agents, including skills, plugins, instruction files, hooks, and related configuration. Detects structural, content-quality, and security issues and provides deterministic autofixes, baselines, and CI-ready output.
 

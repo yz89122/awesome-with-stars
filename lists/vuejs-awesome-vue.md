@@ -1075,6 +1075,7 @@ _Display time / date / age_
 
 - [v-idle ![GitHub Repo Stars](https://img.shields.io/github/stars/malekim/v-idle) ![GitHub last commit](https://img.shields.io/github/last-commit/malekim/v-idle)](https://github.com/malekim/v-idle) - A Vue.js plugin to detect idle/non-active users.
 - [vue-timer-hook ![GitHub Repo Stars](https://img.shields.io/github/stars/riderx/vue-timer-hook) ![GitHub last commit](https://img.shields.io/github/last-commit/riderx/vue-timer-hook)](https://github.com/riderx/vue-timer-hook) - Vue 3 Timer module inspired by react-timer-hook
+- [Clock UI ![GitHub Repo Stars](https://img.shields.io/github/stars/clock-ui/clock-ui) ![GitHub last commit](https://img.shields.io/github/last-commit/clock-ui/clock-ui)](https://github.com/clock-ui/clock-ui) - Accurate analog clock components with timezone support, theming through CSS custom properties, and no dependencies.
 
 #### Calendar
 
@@ -1102,8 +1103,10 @@ _Display non-editable events in a Calendar_
 
 #### Audio / Video
 
+- [vue-aliplay-player ![GitHub Repo Stars](https://img.shields.io/github/stars/Jabo2017/vue-aliplay-player) ![GitHub last commit](https://img.shields.io/github/last-commit/Jabo2017/vue-aliplay-player)](https://github.com/Jabo2017/vue-aliplay-player) - Vue 3 wrapper for Aliplayer (Alibaba Cloud video player) with TypeScript support.
 - [vue-audio-visual ![GitHub Repo Stars](https://img.shields.io/github/stars/staskobzar/vue-audio-visual) ![GitHub last commit](https://img.shields.io/github/last-commit/staskobzar/vue-audio-visual)](https://github.com/staskobzar/vue-audio-visual) - Vue HTML5 audio visualization components.
 - [vue-h5-audio-controls ![GitHub Repo Stars](https://img.shields.io/github/stars/cycjimmy/vue-h5-audio-controls) ![GitHub last commit](https://img.shields.io/github/last-commit/cycjimmy/vue-h5-audio-controls)](https://github.com/cycjimmy/vue-h5-audio-controls) - A simple h5 music controller for Vue.
+- [vue-super-player ![GitHub Repo Stars](https://img.shields.io/github/stars/Jabo2017/vue-super-player) ![GitHub last commit](https://img.shields.io/github/last-commit/Jabo2017/vue-super-player)](https://github.com/Jabo2017/vue-super-player) - Multi-kernel video player component for Vue 3 (native / HLS / FLV / Aliplayer).
 - [vue-use-sound ![GitHub Repo Stars](https://img.shields.io/github/stars/vueuse/sound) ![GitHub last commit](https://img.shields.io/github/last-commit/vueuse/sound)](https://github.com/vueuse/sound) - A Vue Hook for playing sound effects.
 - [Vue-Player ![GitHub Repo Stars](https://img.shields.io/github/stars/display-design-studio/vue-player) ![GitHub last commit](https://img.shields.io/github/last-commit/display-design-studio/vue-player)](https://github.com/display-design-studio/vue-player) - Lightweight, customizable, and easy-to-implement vue video player.
 
@@ -1687,6 +1690,7 @@ _Scaffold / boilerplate / seed / starter kits / stack ensemble / Yeoman generato
 - [vue-x-platforms ![GitHub Repo Stars](https://img.shields.io/github/stars/NativeScript/vue-x-platforms) ![GitHub last commit](https://img.shields.io/github/last-commit/NativeScript/vue-x-platforms)](https://github.com/NativeScript/vue-x-platforms) - Vue running on Web, iOS, Android and Vision Pro.
 - [mevn-boilerplate ![GitHub Repo Stars](https://img.shields.io/github/stars/mustafacagri/mevn-boilerplate) ![GitHub last commit](https://img.shields.io/github/last-commit/mustafacagri/mevn-boilerplate)](https://github.com/mustafacagri/mevn-boilerplate) - ⭐️ the most comprehensive mevn stack boilerplate. ⭐️ mongodb - express - vue 3 (admin dashboard) - nodejs - nuxt 3 (client) boilerplate (pinia, tiptap, slug, vuetify and vuexy and more...) 🎉
 - [monorepo-template ![GitHub Repo Stars](https://img.shields.io/github/stars/Nagell/monorepo_template) ![GitHub last commit](https://img.shields.io/github/last-commit/Nagell/monorepo_template)](https://github.com/Nagell/monorepo_template) - 🗂️ Vue 3 monorepo template with pnpm, Nx, Vite, Tailwind CSS, Storybook, TypeScript, and ready-to-use shared libraries.
+- [Extension.js ![GitHub Repo Stars](https://img.shields.io/github/stars/extension-js/extension.js) ![GitHub last commit](https://img.shields.io/github/last-commit/extension-js/extension.js)](https://github.com/extension-js/extension.js) - Build cross-browser extensions with Vue, no config, one manifest for Chrome, Edge, Firefox and Safari.
 
 #### Universal
 
