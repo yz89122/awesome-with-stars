@@ -302,7 +302,7 @@ Also check out the sister project, [awesome-dynamic-analysis ![GitHub Repo Stars
 <h2>C++</h2>
 
 
-- [Astrée](https://www.absint.com/astree/index.htm) :copyright: �� Astrée automatically proves the absence of runtime errors and invalid con­current behavior in C/C++ applications. It is sound for floating-point computations, very fast, and exceptionally precise. The analyzer also checks for MISRA/CERT/CWE/Adaptive Autosar coding rules and supports qualification for ISO 26262, DO-178C level A, and other safety standards. Jenkins and Eclipse plugins are available.
+- [Astrée](https://www.absint.com/astree/index.htm) :copyright: — Astrée automatically proves the absence of runtime errors and invalid con­current behavior in C/C++ applications. It is sound for floating-point computations, very fast, and exceptionally precise. The analyzer also checks for MISRA/CERT/CWE/Adaptive Autosar coding rules and supports qualification for ISO 26262, DO-178C level A, and other safety standards. Jenkins and Eclipse plugins are available.
 
 - [CBMC](http://www.cprover.org/cbmc) — Bounded model-checker for C programs, user-defined assertions, standard assertions, several coverage metric analyses.
 
@@ -770,7 +770,7 @@ By default, govulncheck makes requests to the Go vulnerability database at https
 
 - [checkstyle](https://checkstyle.org) — Checking Java source code for adherence to a Code Standard or set of validation rules (best practices).
 
-- [ck ![GitHub Repo Stars](https://img.shields.io/github/stars/mauricioaniche/ck) ![GitHub last commit](https://img.shields.io/github/last-commit/mauricioaniche/ck)](https://github.com/mauricioaniche/ck) �� Calculates Chidamber and Kemerer object-oriented metrics by processing the source Java files.
+- [ck ![GitHub Repo Stars](https://img.shields.io/github/stars/mauricioaniche/ck) ![GitHub last commit](https://img.shields.io/github/last-commit/mauricioaniche/ck)](https://github.com/mauricioaniche/ck) — Calculates Chidamber and Kemerer object-oriented metrics by processing the source Java files.
 
 - [Dataflow Framework ![GitHub Repo Stars](https://img.shields.io/github/stars/typetools/checker-framework) ![GitHub last commit](https://img.shields.io/github/last-commit/typetools/checker-framework)](https://github.com/typetools/checker-framework) — An industrial-strength dataflow framework for Java. The Dataflow Framework is used in the Checker Framework, Google’s Error Prone, Uber’s NullAway, Meta’s Nullsafe, and in other contexts. It is distributed with the Checker Framework.
 
