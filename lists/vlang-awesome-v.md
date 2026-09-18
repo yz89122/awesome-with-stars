@@ -178,6 +178,7 @@ SDL2 and SDL3 based applications importing `vlang/sdl`.
 
 ### Project management
 
+- [create-vlang-app ![GitHub Repo Stars](https://img.shields.io/github/stars/Create-Vlang-App/create-vlang-app) ![GitHub last commit](https://img.shields.io/github/last-commit/Create-Vlang-App/create-vlang-app)](https://github.com/Create-Vlang-App/create-vlang-app) - A V-native scaffolding CLI to generate production-ready V projects from composable templates and extensions.
 - [Lenra template ![GitHub Repo Stars](https://img.shields.io/github/stars/lenra-io/template-v) ![GitHub last commit](https://img.shields.io/github/last-commit/lenra-io/template-v)](https://github.com/lenra-io/template-v) - The Lenra template to write V app for Lenra platform.
 - [vset ![GitHub Repo Stars](https://img.shields.io/github/stars/mulh8377/vset) ![GitHub last commit](https://img.shields.io/github/last-commit/mulh8377/vset)](https://github.com/mulh8377/vset) - A project setup and configuration tool for V projects.
 
@@ -248,7 +249,7 @@ SDL2 and SDL3 based applications importing `vlang/sdl`.
 ### Database clients
 <!-- lint disable awesome-spell-check -->
 - [firebird ![GitHub Repo Stars](https://img.shields.io/github/stars/einar-hjortdal/firebird) ![GitHub last commit](https://img.shields.io/github/last-commit/einar-hjortdal/firebird)](https://github.com/einar-hjortdal/firebird) - Client for Firebird SQL.
-- [leveldb ![GitHub Repo Stars](https://img.shields.io/github/stars/vlang/leveldb) ![GitHub last commit](https://img.shields.io/github/last-commit/vlang/leveldb)](https://github.com/vlang/leveldb) - LevelDB implementation in pure V.
+- [leveldb ![GitHub Repo Stars](https://img.shields.io/github/stars/vlang/leveldb) ![GitHub last commit](https://img.shields.io/github/last-commit/vlang/leveldb)](https://github.com/vlang/leveldb) - Pure V implementation of LevelDB.
 - [mongodb ![GitHub Repo Stars](https://img.shields.io/github/stars/vlang/mongo) ![GitHub last commit](https://img.shields.io/github/last-commit/vlang/mongo)](https://github.com/vlang/mongo) - A MongoDB driver for V.
 - [redict ![GitHub Repo Stars](https://img.shields.io/github/stars/einar-hjortdal/redict) ![GitHub last commit](https://img.shields.io/github/last-commit/einar-hjortdal/redict)](https://github.com/einar-hjortdal/redict) - Client for Redict, a LGPL-3.0-only fork of Redis (compatible with Redis <=7.2.4).
 - [redis ![GitHub Repo Stars](https://img.shields.io/github/stars/patrickpissurno/vredis) ![GitHub last commit](https://img.shields.io/github/last-commit/patrickpissurno/vredis)](https://github.com/patrickpissurno/vredis) - A Redis client for V, written in V.
@@ -321,6 +322,8 @@ SDL2 and SDL3 based applications importing `vlang/sdl`.
 - [netr ![GitHub Repo Stars](https://img.shields.io/github/stars/tailsmails/netr) ![GitHub last commit](https://img.shields.io/github/last-commit/tailsmails/netr)](https://github.com/tailsmails/netr) - A modular, zero-dependency raw socket and network packet crafting library written in V.
 - [vibe ![GitHub Repo Stars](https://img.shields.io/github/stars/tobealive/vibe) ![GitHub last commit](https://img.shields.io/github/last-commit/tobealive/vibe)](https://github.com/tobealive/vibe) - Request library that wraps libcurl to enable fast and reliable requests while providing a higher-level API.
 - [vmq ![GitHub Repo Stars](https://img.shields.io/github/stars/jordan-bonecutter/vmq) ![GitHub last commit](https://img.shields.io/github/last-commit/jordan-bonecutter/vmq)](https://github.com/jordan-bonecutter/vmq) -  V wrapper For [ZMQ](https://zeromq.org/) (aka ZeroMQ, ØMQ, 0MQ: a high-performance asynchronous messaging library).
+- [webrtc-v ![GitHub Repo Stars](https://img.shields.io/github/stars/bedrock-v/webrtc-v) ![GitHub last commit](https://img.shields.io/github/last-commit/bedrock-v/webrtc-v)](https://github.com/bedrock-v/webrtc-v) - A pure V implementation of the WebRTC protocol stack.
+- [raknet ![GitHub Repo Stars](https://img.shields.io/github/stars/bedrock-v/raknet) ![GitHub last commit](https://img.shields.io/github/last-commit/bedrock-v/raknet)](https://github.com/bedrock-v/raknet) - A V implementation of the classic RakNet protocol used by Minecraft: Bedrock Edition.
 
 ### Operating system
 

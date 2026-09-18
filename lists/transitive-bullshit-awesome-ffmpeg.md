@@ -44,6 +44,7 @@ FFmpeg's official docs are notoriously difficult for beginners to understand due
 - [ffmpeg-static ![GitHub Repo Stars](https://img.shields.io/github/stars/eugeneware/ffmpeg-static) ![GitHub last commit](https://img.shields.io/github/last-commit/eugeneware/ffmpeg-static)](https://github.com/eugeneware/ffmpeg-static) - Provides static FFmpeg binaries for macOS, Linux, and Windows. Very useful for CI testing.
 - [tangerine ![GitHub Repo Stars](https://img.shields.io/github/stars/niftylettuce/tangerine) ![GitHub last commit](https://img.shields.io/github/last-commit/niftylettuce/tangerine)](https://github.com/niftylettuce/tangerine) - Webcam streaming service using Node.js, FFmpeg, WebSockets, and Lad.
 - [ffparser ![GitHub Repo Stars](https://img.shields.io/github/stars/NiKlimenko/FFParser) ![GitHub last commit](https://img.shields.io/github/last-commit/NiKlimenko/FFParser)](https://github.com/NiKlimenko/FFParser) - Parse input stream by frames directly into your code as a buffer.
+- [lottie-render ![GitHub Repo Stars](https://img.shields.io/github/stars/steven-panxd/lottie-render) ![GitHub last commit](https://img.shields.io/github/last-commit/steven-panxd/lottie-render)](https://github.com/steven-panxd/lottie-render) - Converts Lottie animations to MP4 using Playwright and FFmpeg, as a library or self-hosted HTTP service.
 
 
 ## Native
