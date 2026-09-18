@@ -1971,6 +1971,7 @@ _Libraries for working with dependency injection._
 - [ore ![GitHub Repo Stars](https://img.shields.io/github/stars/firasdarwish/ore) ![GitHub last commit](https://img.shields.io/github/last-commit/firasdarwish/ore)](https://github.com/firasdarwish/ore) - Lightweight, generic & simple dependency injection (DI) container.
 - [parsley ![GitHub Repo Stars](https://img.shields.io/github/stars/matzefriedrich/parsley) ![GitHub last commit](https://img.shields.io/github/last-commit/matzefriedrich/parsley)](https://github.com/matzefriedrich/parsley) - A flexible and modular reflection-based DI library with advanced features like scoped contexts and proxy generation, designed for large-scale Go applications.
 - [wire ![GitHub Repo Stars](https://img.shields.io/github/stars/Fs02/wire) ![GitHub last commit](https://img.shields.io/github/last-commit/Fs02/wire)](https://github.com/Fs02/wire) - Strict Runtime Dependency Injection for Golang.
+- [yama ![GitHub Repo Stars](https://img.shields.io/github/stars/livetribe/yama) ![GitHub last commit](https://img.shields.io/github/last-commit/livetribe/yama)](https://github.com/livetribe/yama) - Compile-time dependency injection and lifecycle framework that generates start, quiesce, and stop code for Google Wire graphs.
 
 **[⬆ back to top](#contents)**
 
