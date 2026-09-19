@@ -294,4 +294,4 @@ Where to discover learning resources about OpenID Connect.
 
 ## Contributing
 
-Your contributions are always welcome! Please take a look at the [contribution guidelines ![GitHub Repo Stars](https://img.shields.io/github/stars/cerberauth/awesome-openidconnect) ![GitHub last commit](https://img.shields.io/github/last-commit/cerberauth/awesome-openidconnect)](https://github.com/cerberauth/awesome-openidconnect/blob/master/CONTRIBUTING.md) first.
+Your contributions are always welcome! Please take a look at the [contribution guidelines ![GitHub Repo Stars](https://img.shields.io/github/stars/cerberauth/awesome-openid-connect) ![GitHub last commit](https://img.shields.io/github/last-commit/cerberauth/awesome-openid-connect)](https://github.com/cerberauth/awesome-openid-connect/blob/main/CONTRIBUTING.md) first.

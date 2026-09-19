@@ -815,7 +815,7 @@ _Libraries and frameworks for writing distributed and fault-tolerant application
 
 > **[resilience4j ![GitHub Repo Stars](https://img.shields.io/github/stars/resilience4j/resilience4j) ![GitHub last commit](https://img.shields.io/github/last-commit/resilience4j/resilience4j)](https://github.com/resilience4j/resilience4j)** <kbd>★ 10.8k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Functional fault tolerance library.
 
-> **[ScaleCube Services ![GitHub Repo Stars](https://img.shields.io/github/stars/scalecube/scalecube-services) ![GitHub last commit](https://img.shields.io/github/last-commit/scalecube/scalecube-services)](https://github.com/scalecube/scalecube-services)** <kbd>★ 638</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Embeddable Cluster-Membership library based on SWIM and gossip protocol.
+> **[ScaleCube Services ![GitHub Repo Stars](https://img.shields.io/github/stars/scalecube/scalecube-services) ![GitHub last commit](https://img.shields.io/github/last-commit/scalecube/scalecube-services)](https://github.com/scalecube/scalecube-services)** <kbd>�� 638</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Embeddable Cluster-Membership library based on SWIM and gossip protocol.
 
 </details>
 
