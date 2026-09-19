@@ -795,6 +795,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [lint-a-lot ![GitHub Repo Stars](https://img.shields.io/github/stars/JanKru/lint-a-lot) ![GitHub last commit](https://img.shields.io/github/last-commit/JanKru/lint-a-lot)](https://github.com/JanKru/lint-a-lot) - An opinionated ESLint and Stylelint configuration for Angular projects using modern Flat Config.
 * [neighbor ![GitHub Repo Stars](https://img.shields.io/github/stars/a11yfred/neighbor) ![GitHub last commit](https://img.shields.io/github/last-commit/a11yfred/neighbor)](https://github.com/a11yfred/neighbor) - Catch accessibility issues in your markup, CSS, and copy before they ship.
 * [JunoLint ![GitHub Repo Stars](https://img.shields.io/github/stars/Myxelium/JunoLint) ![GitHub last commit](https://img.shields.io/github/last-commit/Myxelium/JunoLint)](https://github.com/Myxelium/JunoLint) - This Angular ESLint 9 configuration lints TypeScript and HTML layout, ordering, and style rules, most of which auto-fix using `eslint --fix`.
+* [angular-estree-parser ![GitHub Repo Stars](https://img.shields.io/github/stars/prettier/angular-estree-parser) ![GitHub last commit](https://img.shields.io/github/last-commit/prettier/angular-estree-parser)](https://github.com/prettier/angular-estree-parser) - A parser that converts Angular template expressions and bindings into an ESTree-compatible AST."
 
 ### Networking
 
@@ -1028,6 +1029,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [Playwright Chrome Recorder](https://chromewebstore.google.com/detail/playwright-chrome-recorde/bfnbgoehgplaehdceponclakmhlgjlpd) - Export Chromium recorder tab data to Playwright tests. This gives you a nice starting point that you can refine to modern Playwright.
 * [playwright-mcp ![GitHub Repo Stars](https://img.shields.io/github/stars/microsoft/playwright-mcp) ![GitHub last commit](https://img.shields.io/github/last-commit/microsoft/playwright-mcp)](https://github.com/microsoft/playwright-mcp) - A Model Context Protocol (MCP) server that provides browser automation capabilities using Playwright.
 * [twd ![GitHub Repo Stars](https://img.shields.io/github/stars/BRIKEV/twd) ![GitHub last commit](https://img.shields.io/github/last-commit/BRIKEV/twd)](https://github.com/BRIKEV/twd) - In‑browser test runner with instant feedback, Testing Library support, Vite discovery, and built‑in API mocking—framework‑agnostic and easy to use in Angular.
+* [serenity-js ![GitHub Repo Stars](https://img.shields.io/github/stars/serenity-js/serenity-js) ![GitHub last commit](https://img.shields.io/github/last-commit/serenity-js/serenity-js)](https://github.com/serenity-js/serenity-js) - A TypeScript-native acceptance testing framework that gives your Playwright Test, WebdriverIO, or Cucumber test suite the architecture it needs to scale.
 
 ### Component
 
@@ -1648,6 +1650,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-iconify-stack ![GitHub Repo Stars](https://img.shields.io/github/stars/WanderleeDev/ngx-iconify-stack) ![GitHub last commit](https://img.shields.io/github/last-commit/WanderleeDev/ngx-iconify-stack)](https://github.com/WanderleeDev/ngx-iconify-stack) - A lightweight, SSR-safe Angular wrapper for [Iconify](https://iconify.design/).
 * [vadivam ![GitHub Repo Stars](https://img.shields.io/github/stars/praveenjuge/vadivam) ![GitHub last commit](https://img.shields.io/github/last-commit/praveenjuge/vadivam)](https://github.com/praveenjuge/vadivam) - Pixel-perfect 24px outline icons for SVG, React, React Native, Vue, Svelte, Solid, Angular, Astro, and Preact.
 * [ycon.cc](https://ycon.cc) - Search 300,000+ Iconify icons and copy ready-to-use code for React, Vue, Symfony, Next.js, Astro, Svelte, Angular, Laravel and more.
+* [glyphflow](https://glyph-flow-zeta.vercel.app/) - Lucide icons hand-choreographed per icon and animated on the native Web Animations API — zero animation dependencies, real tree-shaking.
 
 ### Images
 
@@ -2151,6 +2154,7 @@ for the creation of web applications developed with Angular.
 * [mat-exp ![GitHub Repo Stars](https://img.shields.io/github/stars/Angular-Material-Dev/mat-exp) ![GitHub last commit](https://img.shields.io/github/last-commit/Angular-Material-Dev/mat-exp)](https://github.com/Angular-Material-Dev/mat-exp) - A library of components and styles for Angular Material, built on the latest Material Design 3 Expressive Design System.
 * [angular-material-components ![GitHub Repo Stars](https://img.shields.io/github/stars/fbf-prog64/angular-material-components) ![GitHub last commit](https://img.shields.io/github/last-commit/fbf-prog64/angular-material-components)](https://github.com/fbf-prog64/angular-material-components) - Provides extra components for Angular Material projects: Datetime picker, Time picker, Color picker, etc.
 * [sdcorejs-angular ![GitHub Repo Stars](https://img.shields.io/github/stars/sdcorejs/sdcorejs-angular) ![GitHub last commit](https://img.shields.io/github/last-commit/sdcorejs/sdcorejs-angular)](https://github.com/sdcorejs/sdcorejs-angular) - Reusable Angular UI for data-heavy business applications.
+* [parl ![GitHub Repo Stars](https://img.shields.io/github/stars/Trixwell/parl) ![GitHub last commit](https://img.shields.io/github/last-commit/Trixwell/parl)](https://github.com/Trixwell/parl) - A backend-agnostic chat UI library for Angular 21+, featuring media previews, message reactions, pinned items, and swipe-to-reply.
 
 ### UI Libraries built on Tailwind CSS
 
