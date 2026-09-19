@@ -13,37 +13,13 @@ The official website, [analysis-tools.dev](https://analysis-tools.dev/) is based
 
 ## Sponsors
 
-This project would not be possible without the generous support of our sponsors.
+Thank you to CodeRabbit for sponsoring this project, and to everyone who has supported it over the years.
 
-<table>
-   <tr>
-      <td>
-         <a href="https://www.pixee.ai/">
-            <picture>
-               <source width="200px" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/analysis-tools-dev/assets/master/static/sponsors/pixee-light.png">
-               <img width="200px" alt="Pixee" src="https://raw.githubusercontent.com/analysis-tools-dev/assets/master/static/sponsors/pixee-dark.png">
-            </picture>
-         </a>
-      </td>
-      <td>
-         <a href="https://coderabbit.ai">
-            <img width="200px" alt="CodeRabbit" src="https://raw.githubusercontent.com/analysis-tools-dev/assets/master/static/sponsors/code-rabbit.svg" />
-         </a>
-      </td>
-      <td>
-         <a href="https://semgrep.dev/">
-            <img width="200px" alt="Semgrep" src="https://raw.githubusercontent.com/analysis-tools-dev/assets/master/static/sponsors/semgrep.svg" />
-         </a>
-      </td>
-      <td>
-         <a href="https://offensive360.com/">
-            <img width="200px" alt="Offensive360" src="https://raw.githubusercontent.com/analysis-tools-dev/assets/master/static/sponsors/offensive360.png" />
-         </a>
-      </td>
-   </tr>
-</table>
+<a href="https://coderabbit.ai">
+  <img width="200px" alt="CodeRabbit" src="https://raw.githubusercontent.com/analysis-tools-dev/assets/master/static/sponsors/code-rabbit.svg" />
+</a>
 
-If you also want to support this project, head over to our [GitHub Sponsors page ![GitHub Repo Stars](https://img.shields.io/github/stars/sponsors/analysis-tools-dev) ![GitHub last commit](https://img.shields.io/github/last-commit/sponsors/analysis-tools-dev)](https://github.com/sponsors/analysis-tools-dev).
+Support this project through [GitHub Sponsors ![GitHub Repo Stars](https://img.shields.io/github/stars/sponsors/analysis-tools-dev) ![GitHub last commit](https://img.shields.io/github/last-commit/sponsors/analysis-tools-dev)](https://github.com/sponsors/analysis-tools-dev) or [Open Collective](https://opencollective.com/analysis-tools).
 
 ## Meaning of symbols
 
@@ -302,7 +278,7 @@ Also check out the sister project, [awesome-dynamic-analysis ![GitHub Repo Stars
 <h2>C++</h2>
 
 
-- [Astrée](https://www.absint.com/astree/index.htm) :copyright: �� Astrée automatically proves the absence of runtime errors and invalid con­current behavior in C/C++ applications. It is sound for floating-point computations, very fast, and exceptionally precise. The analyzer also checks for MISRA/CERT/CWE/Adaptive Autosar coding rules and supports qualification for ISO 26262, DO-178C level A, and other safety standards. Jenkins and Eclipse plugins are available.
+- [Astrée](https://www.absint.com/astree/index.htm) :copyright: — Astrée automatically proves the absence of runtime errors and invalid con­current behavior in C/C++ applications. It is sound for floating-point computations, very fast, and exceptionally precise. The analyzer also checks for MISRA/CERT/CWE/Adaptive Autosar coding rules and supports qualification for ISO 26262, DO-178C level A, and other safety standards. Jenkins and Eclipse plugins are available.
 
 - [CBMC](http://www.cprover.org/cbmc) — Bounded model-checker for C programs, user-defined assertions, standard assertions, several coverage metric analyses.
 
