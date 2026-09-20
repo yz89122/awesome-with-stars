@@ -402,7 +402,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Amplitude Audio SDK ![GitHub Repo Stars](https://img.shields.io/github/stars/SparkyStudios/AmplitudeAudioSDK) ![GitHub last commit](https://img.shields.io/github/last-commit/SparkyStudios/AmplitudeAudioSDK)](https://github.com/SparkyStudios/AmplitudeAudioSDK) - Cross-platform audio engine designed for the needs of games.
     - 💰 [irrKlang](https://www.ambiera.com/irrklang/) - High level 2D/3D sound engine and audio library.
     - 💰 [Juce ![GitHub Repo Stars](https://img.shields.io/github/stars/juce-framework/JUCE) ![GitHub last commit](https://img.shields.io/github/last-commit/juce-framework/JUCE)](https://github.com/juce-framework/JUCE) - The leading framework for multi-platform audio apps.
-    - 🔒 [OpenAL Soft ![GitHub Repo Stars](https://img.shields.io/github/stars/kcat/openal-soft) ![GitHub last commit](https://img.shields.io/github/last-commit/kcat/openal-soft)](https://github.com/kcat/openal-soft) - Software implementation of the _OpenAL_ 3D audio API.
+    - ��� [OpenAL Soft ![GitHub Repo Stars](https://img.shields.io/github/stars/kcat/openal-soft) ![GitHub last commit](https://img.shields.io/github/last-commit/kcat/openal-soft)](https://github.com/kcat/openal-soft) - Software implementation of the _OpenAL_ 3D audio API.
     - 🎉 [PortAudio ![GitHub Repo Stars](https://img.shields.io/github/stars/PortAudio/portaudio) ![GitHub last commit](https://img.shields.io/github/last-commit/PortAudio/portaudio)](https://github.com/PortAudio/portaudio) - Cross-platform audio library.
     - 🎉 [Steam Audio ![GitHub Repo Stars](https://img.shields.io/github/stars/ValveSoftware/steam-audio) ![GitHub last commit](https://img.shields.io/github/last-commit/ValveSoftware/steam-audio)](https://github.com/ValveSoftware/steam-audio) - Cross-platform spatial audio SDK for games and VR.
 - C++: Cross-Platform
@@ -1188,7 +1188,7 @@ _Exploring specialty game engine / game development topics and features._
 
 ### Enemies / Pathfinding
 - 📚 [Intro to AI](https://www.raywenderlich.com/2808-introduction-to-ai-programming-for-games) - Intro to Enemy AI Programming for Games at RayWenderlich.com.
-- ���� [Beginner's Guide to Game AI](https://www.gamedev.net/tutorials/programming/artificial-intelligence/the-total-beginners-guide-to-game-ai-r4942/) - Intro to concepts used in Enemy AI for games.
+- 📚 [Beginner's Guide to Game AI](https://www.gamedev.net/tutorials/programming/artificial-intelligence/the-total-beginners-guide-to-game-ai-r4942/) - Intro to concepts used in Enemy AI for games.
 
 ### Entity Component Systems
 - 📚 [A Simple Entity Component System](https://austinmorlan.com/posts/entity_component_system/) - Basis for an ECS in C++.

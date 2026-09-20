@@ -500,6 +500,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [gtmetrix.com](https://gtmetrix.com/) - Reports and thorough recommendations to optimize websites
   * [holistic.dev](https://holistic.dev/) - The #1 static code analyzer for Postgresql optimization. Performance, security, and architect database issues automatic detection service
   * [houndci.com](https://houndci.com/) - Comments on GitHub commits about code quality, free for Open Source
+  * [prquorum.com](https://prquorum.com) - ai code review github app, free 50 reviews/month on 2 repos
   * [reviewable.io](https://reviewable.io/) - Code review for GitHub repositories, free for public or personal repos.
   * [scan.coverity.com](https://scan.coverity.com/) - Static code analysis for Java, C/C++, C# and JavaScript, free for Open Source
   * [scrutinizer-ci.com](https://scrutinizer-ci.com/) - Continuous inspection platform, free for Open Source
@@ -1514,6 +1515,7 @@ Update Time, five active automations, webhooks.
   * [Census](https://www.getcensus.com/) - Reverse ETL & Operational Analytics Platform. Sync 10 fields from your data warehouse to 60+ SaaS like Salesforce, Zendesk, or Amplitude.
   * [Clicky](https://clicky.com) - Website Analytics Platform. Free Plan for one website with 3000 views analytics.
   * [counter.dev](https://counter.dev) - Web analytics made simple and therefore privacy friendly. Free or pay what you want by donation.
+  * [DevDome](https://devdome.com) - Cookieless web analytics for WordPress that counts human visitors separately from bots and AI crawlers. Free plan: unlimited sites, 50,000 human pageviews per month, 90 days of data retention.
   * [DocBeacon](https://docbeacon.io) - Secure document sharing with document tracking and engagement Analytics. Free plan supports up to 20 PDF documents (10 MB max), 10 contacts, and 2 shares per document with basic analytics for views downloads, time and engagement.
   * [Dwh.dev](https://dwh.dev) - Data Cloud Observability Solution (Snowflake). Free for personal use.
   * [Expensify](https://www.expensify.com/) - Expense reporting, free personal reporting approval workflow
