@@ -1416,6 +1416,7 @@ _Tools that generate Go code._
 _Geographic tools and servers_
 
 - [borders ![GitHub Repo Stars](https://img.shields.io/github/stars/kpfaulkner/borders) ![GitHub last commit](https://img.shields.io/github/last-commit/kpfaulkner/borders)](https://github.com/kpfaulkner/borders) - Detects image borders and converts to GeoJSON for GIS operations.
+* [geo-engine-go ![GitHub Repo Stars](https://img.shields.io/github/stars/AlexG695/geo-engine-go) ![GitHub last commit](https://img.shields.io/github/last-commit/AlexG695/geo-engine-go)](https://github.com/AlexG695/geo-engine-go) - Official Go SDK for GeoEngine, offering high-performance geospatial data ingestion with single-digit millisecond latency.
 - [geoos ![GitHub Repo Stars](https://img.shields.io/github/stars/spatial-go/geoos) ![GitHub last commit](https://img.shields.io/github/last-commit/spatial-go/geoos)](https://github.com/spatial-go/geoos) - A library provides spatial data and geometric algorithms.
 - [geoserver ![GitHub Repo Stars](https://img.shields.io/github/stars/hishamkaram/geoserver) ![GitHub last commit](https://img.shields.io/github/last-commit/hishamkaram/geoserver)](https://github.com/hishamkaram/geoserver) - geoserver Is a Go Package For Manipulating a GeoServer Instance via the GeoServer REST API.
 - [gismanager ![GitHub Repo Stars](https://img.shields.io/github/stars/hishamkaram/gismanager) ![GitHub last commit](https://img.shields.io/github/last-commit/hishamkaram/gismanager)](https://github.com/hishamkaram/gismanager) - Publish Your GIS Data(Vector Data) to PostGIS and Geoserver.

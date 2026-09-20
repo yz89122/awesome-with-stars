@@ -254,7 +254,7 @@ _Info on topics necessary for designing and developing game engines._
 - Developer Portals
     - 🌎 [Game Developer](https://www.gamedeveloper.com) - Industry blogs, events, jobs, updates and more. Formerly _Gamasutra_.
     - 🌎 [GameDev.net](https://www.gamedev.net/) - Game dev forums, tutorials, blogs, projects, portfolios, and news.
-    - 🌎 [GameFromScratch.com](https://gamefromscratch.com) - Game dev news, tutorials and much more.
+    - ��� [GameFromScratch.com](https://gamefromscratch.com) - Game dev news, tutorials and much more.
     - 🌎 [itch.io](https://itch.io) - Game dev resources and platform to showcase / promote / buy & sell games.
 - Education Portals
     - 🌎 [Lazy Foo' Tutorials](https://lazyfoo.net/tutorials/SDL/) - Beginning game programming with SDL.
@@ -372,7 +372,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Kazmath ![GitHub Repo Stars](https://img.shields.io/github/stars/Kazade/kazmath) ![GitHub last commit](https://img.shields.io/github/last-commit/Kazade/kazmath)](https://github.com/Kazade/kazmath) - Math library targeted at games.
     - 🎉 [Raymath ![GitHub Repo Stars](https://img.shields.io/github/stars/raysan5/raylib) ![GitHub last commit](https://img.shields.io/github/last-commit/raysan5/raylib)](https://github.com/raysan5/raylib/blob/master/src/raymath.h) - Math library included in the _RayLib_ game framework.
 - C: Network
-    - 🎉 [ENet ![GitHub Repo Stars](https://img.shields.io/github/stars/zpl-c/enet) ![GitHub last commit](https://img.shields.io/github/last-commit/zpl-c/enet)](https://github.com/zpl-c/enet) - Simple, lightweight and reliable UDP networking library.
+    - �� [ENet ![GitHub Repo Stars](https://img.shields.io/github/stars/zpl-c/enet) ![GitHub last commit](https://img.shields.io/github/last-commit/zpl-c/enet)](https://github.com/zpl-c/enet) - Simple, lightweight and reliable UDP networking library.
     - 🎉 [librg ![GitHub Repo Stars](https://img.shields.io/github/stars/zpl-c/librg) ![GitHub last commit](https://img.shields.io/github/last-commit/zpl-c/librg)](https://github.com/zpl-c/librg) - Middleware between networking / file-streaming libraries and app logic.
     - 🎉 [netcode ![GitHub Repo Stars](https://img.shields.io/github/stars/mas-bandwidth/netcode) ![GitHub last commit](https://img.shields.io/github/last-commit/mas-bandwidth/netcode)](https://github.com/mas-bandwidth/netcode) - Secure client/server protocol for multiplayer games built on top of UDP.
 - C: Physics
@@ -449,7 +449,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Skylicht ![GitHub Repo Stars](https://img.shields.io/github/stars/skylicht-lab/skylicht-engine) ![GitHub last commit](https://img.shields.io/github/last-commit/skylicht-lab/skylicht-engine)](https://github.com/skylicht-lab/skylicht-engine) - Upgraded features including audio, physics and particles. Built on _Irrlicht_.
     - 🎉 [Spartan Engine ![GitHub Repo Stars](https://img.shields.io/github/stars/PanosK92/SpartanEngine) ![GitHub last commit](https://img.shields.io/github/last-commit/PanosK92/SpartanEngine)](https://github.com/PanosK92/SpartanEngine) - Emphasis on quality and performance.
     - 🎉 [Torque 3D ![GitHub Repo Stars](https://img.shields.io/github/stars/GarageGames/Torque3D) ![GitHub last commit](https://img.shields.io/github/last-commit/GarageGames/Torque3D)](https://github.com/GarageGames/Torque3D) - High-performance 3D engine built on _The Forge_.
-    - ���� [UPBGE ![GitHub Repo Stars](https://img.shields.io/github/stars/UPBGE/upbge) ![GitHub last commit](https://img.shields.io/github/last-commit/UPBGE/upbge)](https://github.com/UPBGE/upbge) - Blender Game Engine, originally forked from _Blender_.
+    - 🔒 [UPBGE ![GitHub Repo Stars](https://img.shields.io/github/stars/UPBGE/upbge) ![GitHub last commit](https://img.shields.io/github/last-commit/UPBGE/upbge)](https://github.com/UPBGE/upbge) - Blender Game Engine, originally forked from _Blender_.
 - C++: Game Framework
     - 🎉 [Acid ![GitHub Repo Stars](https://img.shields.io/github/stars/EQMG/Acid) ![GitHub last commit](https://img.shields.io/github/last-commit/EQMG/Acid)](https://github.com/EQMG/Acid) - Modern C++17 and structured to be fast, simple, and modular.
     - 🎉 [blah ![GitHub Repo Stars](https://img.shields.io/github/stars/NoelFB/blah) ![GitHub last commit](https://img.shields.io/github/last-commit/NoelFB/blah)](https://github.com/NoelFB/blah) - Small 2D game framework.
@@ -523,7 +523,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Dear ImGui ![GitHub Repo Stars](https://img.shields.io/github/stars/ocornut/imgui) ![GitHub last commit](https://img.shields.io/github/last-commit/ocornut/imgui)](https://github.com/ocornut/imgui) 🔥 - Bloat-free immediate mode gui library. Ported to many other languages.
     - 🔒 [FLTK ![GitHub Repo Stars](https://img.shields.io/github/stars/fltk/fltk) ![GitHub last commit](https://img.shields.io/github/last-commit/fltk/fltk)](https://github.com/fltk/fltk) - Fast Light Toolkit, cross-platform gui. [[Website](https://www.fltk.org/)]
     - 🔒 [GTK ![GitHub Repo Stars](https://img.shields.io/github/stars/gnome/gtk) ![GitHub last commit](https://img.shields.io/github/last-commit/gnome/gtk)](https://github.com/gnome/gtk) - GIMP Toolkit, a multi-platform toolkit for creating guis.
-    - 🎉 [GuiLite ![GitHub Repo Stars](https://img.shields.io/github/stars/idea4good/GuiLite) ![GitHub last commit](https://img.shields.io/github/last-commit/idea4good/GuiLite)](https://github.com/idea4good/GuiLite) - Header-only, cross-platform gui library.
+    - �� [GuiLite ![GitHub Repo Stars](https://img.shields.io/github/stars/idea4good/GuiLite) ![GitHub last commit](https://img.shields.io/github/last-commit/idea4good/GuiLite)](https://github.com/idea4good/GuiLite) - Header-only, cross-platform gui library.
     - 📚 [List of C++ UI Libraries](https://philippegroarke.com/posts/2018/c++_ui_solutions/) - List of C++ gui libraries, with pictures and descriptions.
     - 🎉 [Litehtml ![GitHub Repo Stars](https://img.shields.io/github/stars/litehtml/litehtml) ![GitHub last commit](https://img.shields.io/github/last-commit/litehtml/litehtml)](https://github.com/litehtml/litehtml) - Lightweight HTML / CSS rendering engine.
     - 🎉 [Nana ![GitHub Repo Stars](https://img.shields.io/github/stars/cnjinhao/nana) ![GitHub last commit](https://img.shields.io/github/last-commit/cnjinhao/nana)](https://github.com/cnjinhao/nana) - Cross-platform gui library in modern C++.
@@ -634,7 +634,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Monofoxe ![GitHub Repo Stars](https://img.shields.io/github/stars/Martenfur/Monofoxe) ![GitHub last commit](https://img.shields.io/github/last-commit/Martenfur/Monofoxe)](https://github.com/Martenfur/Monofoxe) - Game engine designed to simplify working with _MonoGame_.
     - 🎉 [MonoGame ![GitHub Repo Stars](https://img.shields.io/github/stars/MonoGame/MonoGame) ![GitHub last commit](https://img.shields.io/github/last-commit/MonoGame/MonoGame)](https://github.com/MonoGame/MonoGame) 🔥 - Framework for creating cross-platform games. [[Website](https://www.monogame.net/)]
     - 🎉 [Nez ![GitHub Repo Stars](https://img.shields.io/github/stars/prime31/Nez) ![GitHub last commit](https://img.shields.io/github/last-commit/prime31/Nez)](https://github.com/prime31/Nez) - Feature-rich 2D framework built on _MonoGame_.
-    - ��� [Protogame ![GitHub Repo Stars](https://img.shields.io/github/stars/RedpointGames/Protogame) ![GitHub last commit](https://img.shields.io/github/last-commit/RedpointGames/Protogame)](https://github.com/RedpointGames/Protogame) - Cross-platform 2D/3D game engine built on _MonoGame_.
+    - 🎉 [Protogame ![GitHub Repo Stars](https://img.shields.io/github/stars/RedpointGames/Protogame) ![GitHub last commit](https://img.shields.io/github/last-commit/RedpointGames/Protogame)](https://github.com/RedpointGames/Protogame) - Cross-platform 2D/3D game engine built on _MonoGame_.
 - C#: Geometry
     - 🎉 [DotRecast ![GitHub Repo Stars](https://img.shields.io/github/stars/ikpil/DotRecast) ![GitHub last commit](https://img.shields.io/github/last-commit/ikpil/DotRecast)](https://github.com/ikpil/DotRecast) - A port of _Recast & Detour_, navigation mesh toolset for games, Unity3D, servers, C#.
 - C#: Graphics - 2D
