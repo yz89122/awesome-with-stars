@@ -447,6 +447,7 @@ _In-process databases usable directly from Python._
   - [chromadb ![GitHub Repo Stars](https://img.shields.io/github/stars/chroma-core/chroma) ![GitHub last commit](https://img.shields.io/github/last-commit/chroma-core/chroma)](https://github.com/chroma-core/chroma) - An open-source embedding database for building AI applications with embeddings and semantic search.
   - [lancedb ![GitHub Repo Stars](https://img.shields.io/github/stars/lancedb/lancedb) ![GitHub last commit](https://img.shields.io/github/last-commit/lancedb/lancedb)](https://github.com/lancedb/lancedb) - A developer-friendly embedded retrieval database for multimodal AI.
   - [zvec ![GitHub Repo Stars](https://img.shields.io/github/stars/alibaba/zvec) ![GitHub last commit](https://img.shields.io/github/last-commit/alibaba/zvec)](https://github.com/alibaba/zvec) - An embedded vector database for on-device RAG and edge AI, the SQLite of vector databases.
+  - [pixeltable ![GitHub Repo Stars](https://img.shields.io/github/stars/pixeltable/pixeltable) ![GitHub last commit](https://img.shields.io/github/last-commit/pixeltable/pixeltable)](https://github.com/pixeltable/pixeltable) - Declarative multimodal AI data engine for tables, computed columns, and embedding search.
 - Key-Value & Document
   - [tinydb ![GitHub Repo Stars](https://img.shields.io/github/stars/msiemens/tinydb) ![GitHub last commit](https://img.shields.io/github/last-commit/msiemens/tinydb)](https://github.com/msiemens/tinydb) - A tiny, document-oriented database.
 
