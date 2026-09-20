@@ -169,7 +169,7 @@ Custom timers, timelines, and task scheduling.
 - [GMBenchmark ![GitHub Repo Stars](https://img.shields.io/github/stars/DragoniteSpam/GMBenchmark) ![GitHub last commit](https://img.shields.io/github/last-commit/DragoniteSpam/GMBenchmark)](https://github.com/DragoniteSpam/GMBenchmark) - A tool to benchmark GML code.
 - [Figgy ![GitHub Repo Stars](https://img.shields.io/github/stars/glebtsereteli/Figgy) ![GitHub last commit](https://img.shields.io/github/last-commit/glebtsereteli/Figgy)](https://github.com/glebtsereteli/Figgy) - Centralized and persistent live configs for seamless game tuning and balancing.
 - [RenderStack ![GitHub Repo Stars](https://img.shields.io/github/stars/FoxyOfJungle/RenderStack) ![GitHub last commit](https://img.shields.io/github/last-commit/FoxyOfJungle/RenderStack)](https://github.com/FoxyOfJungle/RenderStack) - Organize your game's rendering into a customizable order.
-- [GMLiteSearch ![GitHub Repo Stars](https://img.shields.io/github/stars/erkan612/GMLiteSearch) ![GitHub last commit](https://img.shields.io/github/last-commit/erkan612/GMLiteSearch)](https://github.com/erkan612/GMLiteSearch) - Fast, flexible full‑text search for GameMaker. Built for small to medium datasets (10k‑50k+ docs) with real‑time indexing, fuzzy search, n‑grams, BM25/TF‑IDF scoring, and persistence.
+- [GMLiteSearch ![GitHub Repo Stars](https://img.shields.io/github/stars/erkan612/GMLiteSearch) ![GitHub last commit](https://img.shields.io/github/last-commit/erkan612/GMLiteSearch)](https://github.com/erkan612/GMLiteSearch) - Fast, flexible full‑text search for GameMaker. Built for small to medium datasets (10k‑50k+ docs) with real��time indexing, fuzzy search, n‑grams, BM25/TF‑IDF scoring, and persistence.
 - [Iota ![GitHub Repo Stars](https://img.shields.io/github/stars/JujuAdams/iota) ![GitHub last commit](https://img.shields.io/github/last-commit/JujuAdams/iota)](https://github.com/JujuAdams/iota) - Lightweight timestep library.
 - [GMVex ![GitHub Repo Stars](https://img.shields.io/github/stars/erkan612/GMVex) ![GitHub last commit](https://img.shields.io/github/last-commit/erkan612/GMVex)](https://github.com/erkan612/GMVex) - Vector graphics framework with SVG support, TrueType font rendering, path boolean operations and fill/stroke rendering.
 - [RunGML ![GitHub Repo Stars](https://img.shields.io/github/stars/sdelaughter/RunGML) ![GitHub last commit](https://img.shields.io/github/last-commit/sdelaughter/RunGML)](https://github.com/sdelaughter/RunGML) - A runtime scripting language with a Lisp-like syntax.  Facilitates modding support via included JSON files, and debugging/live coding via an in-game console.
@@ -184,7 +184,6 @@ Things that work with project files or GameMaker itself rather than being someth
 - [YYP Maker](https://sahaun.itch.io/yyp-maker) - Makes `.yyp` files for you.
 - [Rubber ![GitHub Repo Stars](https://img.shields.io/github/stars/GameMakerDiscord/Rubber) ![GitHub last commit](https://img.shields.io/github/last-commit/GameMakerDiscord/Rubber)](https://github.com/GameMakerDiscord/Rubber) - Compile GameMaker projects via the command line. Here's a [great guide](https://www.patreon.com/posts/how-to-build-36556955) on how to use it.
 - [GMSnip](https://manta-ray.itch.io/gmsnip) - Experimental tool to define unlimited code snippets in the IDE.
-- [vim-GML ![GitHub Repo Stars](https://img.shields.io/github/stars/JafarDakhan/vim-gml) ![GitHub last commit](https://img.shields.io/github/last-commit/JafarDakhan/vim-gml)](https://github.com/JafarDakhan/vim-gml) - High quality Vim syntax highlighting for GameMaker.
 - [sfGML](https://yellowafterlife.itch.io/gamemaker-haxe) - Generate GML code from strongly-typed Haxe.
 - [Win7 patcher for GM2024.11+](https://yellowafterlife.itch.io/gm2024-win7-patcher) - Makes games made in new GM versions run on Windows 7.
 - [RerouteAudio](https://yellowafterlife.itch.io/gamemaker-reroute-audio) - Organizes audio files compiled games into subdirectories. 💸
@@ -280,7 +279,6 @@ Things that work with project files or GameMaker itself rather than being someth
 
 - [AESnips ![GitHub Repo Stars](https://img.shields.io/github/stars/angelwire/AESnips) ![GitHub last commit](https://img.shields.io/github/last-commit/angelwire/AESnips)](https://github.com/angelwire/AESnips) - A sprite playback system.
 - [phgen ![GitHub Repo Stars](https://img.shields.io/github/stars/squircledev/phgen) ![GitHub last commit](https://img.shields.io/github/last-commit/squircledev/phgen)](https://github.com/squircledev/phgen) - Placeholder asset generation.
-- [Disarm ![GitHub Repo Stars](https://img.shields.io/github/stars/NuxiiGit/disarm) ![GitHub last commit](https://img.shields.io/github/last-commit/NuxiiGit/disarm)](https://github.com/NuxiiGit/disarm) - A spriter skeletal animation at runtime.
 - [SpriteSource ![GitHub Repo Stars](https://img.shields.io/github/stars/bscotch/stitch) ![GitHub last commit](https://img.shields.io/github/last-commit/bscotch/stitch)](https://github.com/bscotch/stitch/tree/develop/packages/sprite-source) - Utilities for creating art asset pipelines.
 - [PixelUpscaler ![GitHub Repo Stars](https://img.shields.io/github/stars/JujuAdams/Pixel-Art-Upscaling) ![GitHub last commit](https://img.shields.io/github/last-commit/JujuAdams/Pixel-Art-Upscaling)](https://github.com/JujuAdams/Pixel-Art-Upscaling) - Pixel art upscaling shader for awkward resolutions for GameMaker.
 - [ASESync](https://sahaun.itch.io/asesync) - Automatically syncs aseprite files in GameMaker.
@@ -492,7 +490,6 @@ Things that work with project files or GameMaker itself rather than being someth
 
 - [RefresherTowel](https://refreshertowelgames.wordpress.com/category/tutorial/) - Contains several posts on level generation.
 - [Tony Str](https://tonystr.net/) - Some great articles on working with JSON, regular expressions *(regex)*, and drawing circles in GML.
-- [Katsaii](https://www.katsaii.com/content/blog/posts.html) - Some articles on more advanced GML topics.
 - [Meseta on Game Dev](https://meseta.dev/) - Seasoned GameMaker dev's thoughts on GameMaker concepts and libraries.
 - [Thoughts On GameMaker ![GitHub Repo Stars](https://img.shields.io/github/stars/JujuAdams/ThoughtsOnGameMaker) ![GitHub last commit](https://img.shields.io/github/last-commit/JujuAdams/ThoughtsOnGameMaker)](https://github.com/JujuAdams/ThoughtsOnGameMaker) - Not a traditional blog but has great info on different GML techniques.
 - [YellowAfterlife](https://yal.cc/category/gm/) - Tutorials on intermediate/advanced topics.

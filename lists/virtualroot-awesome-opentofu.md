@@ -151,6 +151,7 @@
 - [zed Extension ![GitHub Repo Stars](https://img.shields.io/github/stars/ashpool37/zed-extension-opentofu) ![GitHub last commit](https://img.shields.io/github/last-commit/ashpool37/zed-extension-opentofu)](https://github.com/ashpool37/zed-extension-opentofu) - Extension for the Zed Editor.
 - [terratag ![GitHub Repo Stars](https://img.shields.io/github/stars/env0/terratag) ![GitHub last commit](https://img.shields.io/github/last-commit/env0/terratag)](https://github.com/env0/terratag) - CLI tool allowing for tags or labels to be applied across an entire set of OpenTofu/Terraform files.
 - [tfupdate ![GitHub Repo Stars](https://img.shields.io/github/stars/minamijoyo/tfupdate) ![GitHub last commit](https://img.shields.io/github/last-commit/minamijoyo/tfupdate)](https://github.com/minamijoyo/tfupdate) - Update version constraints in your Terraform / OpenTofu configurations.
+- [bare-devcontainer/templates ![GitHub Repo Stars](https://img.shields.io/github/stars/bare-devcontainer/templates) ![GitHub last commit](https://img.shields.io/github/last-commit/bare-devcontainer/templates)](https://github.com/bare-devcontainer/templates/tree/main/src/opentofu) - Security-focused Terraform dev container with terraform-ls and rebuild-friendly caching. The base image is available at [bare-devcontainer/images ![GitHub Repo Stars](https://img.shields.io/github/stars/bare-devcontainer/images) ![GitHub last commit](https://img.shields.io/github/last-commit/bare-devcontainer/images)](https://github.com/bare-devcontainer/images/tree/main/opentofu).
 
 ## Learning
 
