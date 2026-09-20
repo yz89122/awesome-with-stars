@@ -417,7 +417,7 @@ Browse and search the resources via the [GitHub Pages UI](https://inoue0426.gith
 - [DeepSpot ![GitHub Repo Stars](https://img.shields.io/github/stars/ratschlab/DeepSpot) ![GitHub last commit](https://img.shields.io/github/last-commit/ratschlab/DeepSpot)](https://github.com/ratschlab/DeepSpot) — Deep learning model predicting spatial transcriptomics from H&E images at spot and single-cell resolution.
 - [DeepSpot2Cell ![GitHub Repo Stars](https://img.shields.io/github/stars/ratschlab/DeepSpot2Cell) ![GitHub last commit](https://img.shields.io/github/last-commit/ratschlab/DeepSpot2Cell)](https://github.com/ratschlab/DeepSpot2Cell) — Predicts virtual single-cell spatial transcriptomics from H&E using spot-level supervision (NeurIPS 2025 Imageomics).
 - [DeepSpot-M ![GitHub Repo Stars](https://img.shields.io/github/stars/ratschlab/DeepSpotM) ![GitHub last commit](https://img.shields.io/github/last-commit/ratschlab/DeepSpotM)](https://github.com/ratschlab/DeepSpotM) — Multimodal foundation model for transcriptome-wide virtual spatial transcriptomics from histology.
-- [AESTETIK ![GitHub Repo Stars](https://img.shields.io/github/stars/ratschlab/aestetik) ![GitHub last commit](https://img.shields.io/github/last-commit/ratschlab/aestetik)](https://github.com/ratschlab/aestetik) ��� Autoencoder for spatial transcriptomics representation learning using topology and histology image knowledge.
+- [AESTETIK ![GitHub Repo Stars](https://img.shields.io/github/stars/ratschlab/aestetik) ![GitHub last commit](https://img.shields.io/github/last-commit/ratschlab/aestetik)](https://github.com/ratschlab/aestetik) — Autoencoder for spatial transcriptomics representation learning using topology and histology image knowledge.
 
 ##### Multi-Omics Foundation Models
 

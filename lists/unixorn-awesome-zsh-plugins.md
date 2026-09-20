@@ -291,7 +291,7 @@ Features 🐭✨
 - 🚀 Simple setup
   - Install with a single curl line
   - Just add one eval line in .zshrc to start using it
-- ⚙️ Configurable and reproducible
+- ��️ Configurable and reproducible
   - Simple TOML-based configuration
   - Automatic plugin load order control
 - 🐙 GitHub integration
