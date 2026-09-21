@@ -282,7 +282,7 @@ These projects are exceptionally high quality, have a proven trackrecord, and ar
 - [Exploring Real Time Apps with VueJS, ES2015 and Webpack](https://blog.pusher.com/exploring-real-time-apps-with-vuejs-es2016-and-webpack/) on Pusher
 - [Vue.js in Bahasa Indonesia](https://www.sekolahkoding.com/track/belajar-vue-js) on sekolahkoding.com
 - [Vue.js from Scratch Series in Russian](https://www.youtube.com/playlist?list=PL5r0NkdgM0UOxb4Hl81FV5UIgexwTf8h7) on YouTube by .dev
-- [Створення сервісу для зберігання файлів з Flask, RethinkDB ��а Vue.js, ч. 1](https://codeguida.com/post/526/) Ukraine
+- [Створення сервісу для зберігання файлів з Flask, RethinkDB та Vue.js, ч. 1](https://codeguida.com/post/526/) Ukraine
 - [VueJS 2 French tutorial](https://www.youtube.com/playlist?list=PLjwdMgw5TTLW-mAtlR46VajrKs4dep3y0) Français par Grafikart
 - [How to Create Great VueJS Applications Using Wijmo Controls](https://wijmo.com/blog/how-to-create-great-vuejs-applications-using-wijmo-controls/)
 - [**讲解 Vue.js 2 官网 中文-含代码、百度云、youtube** ![GitHub Repo Stars](https://img.shields.io/github/stars/bhnddowinf/vuejs2-learn) ![GitHub last commit](https://img.shields.io/github/last-commit/bhnddowinf/vuejs2-learn)](https://github.com/bhnddowinf/vuejs2-learn) on bhnddowinf
