@@ -81,6 +81,7 @@ _List inspired by the [awesome ![GitHub Repo Stars](https://img.shields.io/githu
 - [Top Next.js Admin & Dashboard Templates](https://blog.codedthemes.com/nextjs-admin-dashboard-templates/)
 - [Next.js Cheatsheet](https://blog.codedthemes.com/nextjs-cheatsheet/)
 - [A Guide to Performance Optimization with Next.js](https://www.debugbear.com/blog/nextjs-performance)
+- [The Complete Guide to Higher-Order Components in Next.js With TypeScript](https://burakdev.com/blogs/the-complete-guide-to-higher-order-components-in-next-js-react-with-typescript)
 
 ## Boilerplates
 
@@ -138,6 +139,7 @@ _List inspired by the [awesome ![GitHub Repo Stars](https://img.shields.io/githu
 - [Start UI [web]](https://github.com/BearStudio/start-ui-web) - 🚀 opinionated UI starter with TypeScript, React, NextJS, Chakra UI, tRPC, Prisma, TanStack Query, Storybook, Playwright, Formiz
 - [Kaiforge Lite ![GitHub Repo Stars](https://img.shields.io/github/stars/DevxiaLabs/kaiforge-lite) ![GitHub last commit](https://img.shields.io/github/last-commit/DevxiaLabs/kaiforge-lite)](https://github.com/DevxiaLabs/kaiforge-lite) - Free and open-source Next.js admin dashboard template with Tailwind CSS, dark mode, and multiple color themes.
 - [A11y Starter Kit ![GitHub Repo Stars](https://img.shields.io/github/stars/thefrontkit/a11y-starter-kit-code) ![GitHub last commit](https://img.shields.io/github/last-commit/thefrontkit/a11y-starter-kit-code)](https://github.com/thefrontkit/a11y-starter-kit-code) - Accessibility-first Next.js starter kit with best practices for building inclusive web apps. Demo: https://a11y-starter-kit.vercel.app/
+- [Ultimate Blog Editor ![GitHub Repo Stars](https://img.shields.io/github/stars/Masculinn/blog-editor) ![GitHub last commit](https://img.shields.io/github/last-commit/Masculinn/blog-editor)](https://github.com/Masculinn/blog-editor) - An open-source Markdown and Lexical-based blog editor with Supabase sync, MDX rendering, draft/post and media management.
 
 ## Extensions
 
@@ -181,6 +183,7 @@ _List inspired by the [awesome ![GitHub Repo Stars](https://img.shields.io/githu
 - [@farming-labs/docs ![GitHub Repo Stars](https://img.shields.io/github/stars/farming-labs/docs) ![GitHub last commit](https://img.shields.io/github/last-commit/farming-labs/docs)](https://github.com/farming-labs/docs) - A modern documentation framework that works. One config file, zero boilerplate.
 
 ## Apps
+
 - [AI Video Prompt Cheatsheet ![GitHub Repo Stars](https://img.shields.io/github/stars/the-beating-light-of-the-nail/ai-video-prompt-cheatsheet) ![GitHub last commit](https://img.shields.io/github/last-commit/the-beating-light-of-the-nail/ai-video-prompt-cheatsheet)](https://github.com/the-beating-light-of-the-nail/ai-video-prompt-cheatsheet) - Camera-movement prompt reference for AI video generation: shot types and motions with copy-ready prompts, one-page zh/en. Static export on Cloudflare Workers, no server. [Demo](https://videoprompts.cdqyfdbymn.me)
 - [Reely ![GitHub Repo Stars](https://img.shields.io/github/stars/Vette1123/movies-streaming-platform) ![GitHub last commit](https://img.shields.io/github/last-commit/Vette1123/movies-streaming-platform)](https://github.com/Vette1123/movies-streaming-platform) - Movie & TV discovery and tracker on the TMDB API — live-applying filters, ⌘K command palette, watchlist and history, installable PWA. Next.js 16 static export on Cloudflare Workers Static Assets, so Next.js never runs in production. [Demo](https://www.reely.space)
 - [FileFlex ![GitHub Repo Stars](https://img.shields.io/github/stars/armor229-ux/File-Flex) ![GitHub last commit](https://img.shields.io/github/last-commit/armor229-ux/File-Flex)](https://github.com/armor229-ux/File-Flex) - Open-source, browser-only file converter & PDF editor built with Next.js 14, Tailwind CSS, and WASM.

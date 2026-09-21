@@ -727,6 +727,7 @@ Read the paper [here](https://arxiv.org/abs/1902.06714).
 * [WebDNN ![GitHub Repo Stars](https://img.shields.io/github/stars/mil-tokyo/webdnn) ![GitHub last commit](https://img.shields.io/github/last-commit/mil-tokyo/webdnn)](https://github.com/mil-tokyo/webdnn) - Fast Deep Neural Network JavaScript Framework. WebDNN uses next generation JavaScript API, WebGPU for GPU execution, and WebAssembly for CPU execution.
 * [WebNN](https://webnn.dev) - A new web standard that allows web apps and frameworks to accelerate deep neural networks with on-device hardware such as GPUs, CPUs, or purpose-built AI accelerators.
 * [Kandle ![GitHub Repo Stars](https://img.shields.io/github/stars/final-kk/kandle) ![GitHub last commit](https://img.shields.io/github/last-commit/final-kk/kandle)](https://github.com/final-kk/kandle) - A JavaScript Native PyTorch-aligned Machine Learning Framework, built from scratch on WebGPU.
+* [AI on Browser ![GitHub Repo Stars](https://img.shields.io/github/stars/ai-on-browser/ai-on-browser.github.io) ![GitHub last commit](https://img.shields.io/github/last-commit/ai-on-browser/ai-on-browser.github.io)](https://github.com/ai-on-browser/ai-on-browser.github.io) - An educational, pure JavaScript library designed to help developers and students understand the inner workings of ML algorithms without the magic of external libraries.
 
 <a name="javascript-speech-recognition"></a>
 #### Speech Recognition
