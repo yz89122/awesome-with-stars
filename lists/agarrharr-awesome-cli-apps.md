@@ -258,6 +258,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [cronboard ![GitHub Repo Stars](https://img.shields.io/github/stars/antoniorodr/Cronboard) ![GitHub last commit](https://img.shields.io/github/last-commit/antoniorodr/Cronboard)](https://github.com/antoniorodr/Cronboard) - Dashboard for managing cron jobs.
 - [s3m ![GitHub Repo Stars](https://img.shields.io/github/stars/s3m/s3m) ![GitHub last commit](https://img.shields.io/github/last-commit/s3m/s3m)](https://github.com/s3m/s3m) - Stream of data into S3 buckets.
 - [bencher ![GitHub Repo Stars](https://img.shields.io/github/stars/bencherdev/bencher) ![GitHub last commit](https://img.shields.io/github/last-commit/bencherdev/bencher)](https://github.com/bencherdev/bencher) - A continuous benchmarking tool.
+- [RunWisp ![GitHub Repo Stars](https://img.shields.io/github/stars/runwisp/runwisp) ![GitHub last commit](https://img.shields.io/github/last-commit/runwisp/runwisp)](https://github.com/runwisp/runwisp) - Featureful cron and supervisord replacement.
 
 ### Docker
 

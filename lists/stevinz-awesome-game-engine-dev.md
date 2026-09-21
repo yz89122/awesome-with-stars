@@ -402,7 +402,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Amplitude Audio SDK ![GitHub Repo Stars](https://img.shields.io/github/stars/SparkyStudios/AmplitudeAudioSDK) ![GitHub last commit](https://img.shields.io/github/last-commit/SparkyStudios/AmplitudeAudioSDK)](https://github.com/SparkyStudios/AmplitudeAudioSDK) - Cross-platform audio engine designed for the needs of games.
     - 💰 [irrKlang](https://www.ambiera.com/irrklang/) - High level 2D/3D sound engine and audio library.
     - 💰 [Juce ![GitHub Repo Stars](https://img.shields.io/github/stars/juce-framework/JUCE) ![GitHub last commit](https://img.shields.io/github/last-commit/juce-framework/JUCE)](https://github.com/juce-framework/JUCE) - The leading framework for multi-platform audio apps.
-    - 🔒 [OpenAL Soft ![GitHub Repo Stars](https://img.shields.io/github/stars/kcat/openal-soft) ![GitHub last commit](https://img.shields.io/github/last-commit/kcat/openal-soft)](https://github.com/kcat/openal-soft) - Software implementation of the _OpenAL_ 3D audio API.
+    - ��� [OpenAL Soft ![GitHub Repo Stars](https://img.shields.io/github/stars/kcat/openal-soft) ![GitHub last commit](https://img.shields.io/github/last-commit/kcat/openal-soft)](https://github.com/kcat/openal-soft) - Software implementation of the _OpenAL_ 3D audio API.
     - 🎉 [PortAudio ![GitHub Repo Stars](https://img.shields.io/github/stars/PortAudio/portaudio) ![GitHub last commit](https://img.shields.io/github/last-commit/PortAudio/portaudio)](https://github.com/PortAudio/portaudio) - Cross-platform audio library.
     - 🎉 [Steam Audio ![GitHub Repo Stars](https://img.shields.io/github/stars/ValveSoftware/steam-audio) ![GitHub last commit](https://img.shields.io/github/last-commit/ValveSoftware/steam-audio)](https://github.com/ValveSoftware/steam-audio) - Cross-platform spatial audio SDK for games and VR.
 - C++: Cross-Platform
@@ -1357,7 +1357,7 @@ _Software to help with game engine / video game development._
 
 ### Animation Software
 - 💸 [Cascadeur](https://cascadeur.com) - 3D animation software for physics-based character animation.
-- 🆓 [DragonBones](https://dragonbones.github.io/en/index.html) - Open source 2D game skeletal animation solution. [[Source](https://github.com/DragonBones/)]
+- �� [DragonBones](https://dragonbones.github.io/en/index.html) - Open source 2D game skeletal animation solution. [[Source](https://github.com/DragonBones/)]
 - 💰 [FaceFX](https://facefx.com/) - Leading provider of audio-based facial animation.
 - 💸 [Mixamo](https://www.mixamo.com/#/) - Animate 3D characters for games, films and more. By _Adobe_.
 - 💸 [Spine](http://esotericsoftware.com/) - 2D animation for games.
