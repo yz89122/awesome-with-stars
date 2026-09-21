@@ -22,7 +22,7 @@
 
 > A curated list of awesome Magento 2 Extensions & Resources.
 
-> Tracking **228** projects · **66** actively maintained · **11** 🔥 hot · **48** 🪦 on the graveyard shelf.
+> Tracking **228** projects · **61** actively maintained · **11** 🔥 hot · **51** 🪦 on the graveyard shelf.
 
 - [What is an awesome list? ![GitHub Repo Stars](https://img.shields.io/github/stars/sindresorhus/awesome) ![GitHub last commit](https://img.shields.io/github/last-commit/sindresorhus/awesome)](https://github.com/sindresorhus/awesome/blob/master/awesome.md)
 - [Contribution guide](contributing.md) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/DavidLambauer/awesome-magento2/issues)
@@ -233,8 +233,8 @@ The storefront of Magento 2 can be styled in numerous ways:
 
 - [Elastic Suite Integration ![GitHub Repo Stars](https://img.shields.io/github/stars/Smile-SA/elasticsuite) ![GitHub last commit](https://img.shields.io/github/last-commit/Smile-SA/elasticsuite)](https://github.com/Smile-SA/elasticsuite/) 🔥 🫡 - Elastic Suite Integration.
 - [Algolia Search Integration ![GitHub Repo Stars](https://img.shields.io/github/stars/algolia/algoliasearch-magento-2) ![GitHub last commit](https://img.shields.io/github/last-commit/algolia/algoliasearch-magento-2)](https://github.com/algolia/algoliasearch-magento-2) 🫡 - Algolia Search (SaaS) Integration.
-- [FastSimpleImport2 ![GitHub Repo Stars](https://img.shields.io/github/stars/firegento/FireGento_FastSimpleImport2) ![GitHub last commit](https://img.shields.io/github/last-commit/firegento/FireGento_FastSimpleImport2)](https://github.com/firegento/FireGento_FastSimpleImport2) 🫡 - Wrapper for Magento 2 ImportExport functionality, which imports products and customers from arrays.
 - [Typesense-Magento-2 ![GitHub Repo Stars](https://img.shields.io/github/stars/run-as-root/Typesense-Magento-2) ![GitHub last commit](https://img.shields.io/github/last-commit/run-as-root/Typesense-Magento-2)](https://github.com/run-as-root/Typesense-Magento-2) 🫡 - Open-source Typesense search integration for Magento 2 and Mage-OS. Instant search, autocomplete, faceted filtering, visual category merchandising, query merchandising, and zero-downtime reindexing — all Hyva-native and CSP-compatible.
+- [FastSimpleImport2 ![GitHub Repo Stars](https://img.shields.io/github/stars/firegento/FireGento_FastSimpleImport2) ![GitHub last commit](https://img.shields.io/github/last-commit/firegento/FireGento_FastSimpleImport2)](https://github.com/firegento/FireGento_FastSimpleImport2) - Wrapper for Magento 2 ImportExport functionality, which imports products and customers from arrays.
 - [Disable Search Engine ![GitHub Repo Stars](https://img.shields.io/github/stars/zepgram/module-disable-search-engine) ![GitHub last commit](https://img.shields.io/github/last-commit/zepgram/module-disable-search-engine)](https://github.com/zepgram/module-disable-search-engine) - Disable Elasticsearch and fulltext indexing for category search.
 - [magento2-module-meilisearch ![GitHub Repo Stars](https://img.shields.io/github/stars/walkwizus/magento2-module-meilisearch) ![GitHub last commit](https://img.shields.io/github/last-commit/walkwizus/magento2-module-meilisearch)](https://github.com/walkwizus/magento2-module-meilisearch) - The Meilisearch extension for Magento 2 enables replacing Magento's default search engine (OpenSearch) with Meilisearch.
 
@@ -253,8 +253,6 @@ The storefront of Magento 2 can be styled in numerous ways:
 - [MagePlaza Seo ![GitHub Repo Stars](https://img.shields.io/github/stars/mageplaza/magento-2-seo-extension) ![GitHub last commit](https://img.shields.io/github/last-commit/mageplaza/magento-2-seo-extension)](https://github.com/mageplaza/magento-2-seo-extension) 🫡 - Well-documented multi-purpose SEO Extension.
 - [magento2-withdrawl ![GitHub Repo Stars](https://img.shields.io/github/stars/Zwernemann/magento2-withdrawl) ![GitHub last commit](https://img.shields.io/github/last-commit/Zwernemann/magento2-withdrawl)](https://github.com/Zwernemann/magento2-withdrawl) 🫡 - Magento 2 module providing a compliant EU withdrawal button required from June 19, 2026 (§356a BGB / Directive (EU) 2023/2673). Enables customers and guests to revoke orders via a simple form (name, order number, email), sends automatic confirmation emails, and allows admin management in the backend.
 - [module-blog ![GitHub Repo Stars](https://img.shields.io/github/stars/mage-os-lab/module-blog) ![GitHub last commit](https://img.shields.io/github/last-commit/mage-os-lab/module-blog)](https://github.com/mage-os-lab/module-blog) 🫡 - Blog module for Mage-OS / Magento 2 with posts, categories, tags, authors, scheduled publishing, SEO, RSS, sitemap, 6 widgets, and a full GraphQL API. Luma + Hyvä.
-- [BerryPath Guided Selling ![GitHub Repo Stars](https://img.shields.io/github/stars/BerryPath/magento2-berrypath-flow) ![GitHub last commit](https://img.shields.io/github/last-commit/BerryPath/magento2-berrypath-flow)](https://github.com/BerryPath/magento2-berrypath-flow) - Open source integration for BerryPath. Add interactive product finders and buying guides to Magento 2 storefronts with product synchronization, assisted conversion tracking + Hyvä compatibility.
-- [BerryPath Product Feed ![GitHub Repo Stars](https://img.shields.io/github/stars/BerryPath/magento2-berrypath-product-feed) ![GitHub last commit](https://img.shields.io/github/last-commit/BerryPath/magento2-berrypath-product-feed)](https://github.com/BerryPath/magento2-berrypath-product-feed) - Open source Magento 2 product feed generator. Create XML product feeds with configurable attributes and multi store support for Google Shopping, Meta, Pinterest, TikTok, Microsoft Shopping, AI search engines and custom integrations.
 
 <details>
 <summary>🪦 Graveyard — projects no longer recommended</summary>
@@ -269,13 +267,13 @@ The storefront of Magento 2 can be styled in numerous ways:
 - [Sentry.io ![GitHub Repo Stars](https://img.shields.io/github/stars/justbetter/magento2-sentry) ![GitHub last commit](https://img.shields.io/github/last-commit/justbetter/magento2-sentry)](https://github.com/justbetter/magento2-sentry) 🫡 - Application monitoring and error tracking software for Magento 2.
 - [magento2-hyva-admin ![GitHub Repo Stars](https://img.shields.io/github/stars/hyva-themes/magento2-hyva-admin) ![GitHub last commit](https://img.shields.io/github/last-commit/hyva-themes/magento2-hyva-admin)](https://github.com/hyva-themes/magento2-hyva-admin) 🫡 - This module aims to make creating grids and forms in the Magento 2 adminhtml area joyful and fast.
 - [Customer Force Login ![GitHub Repo Stars](https://img.shields.io/github/stars/bitExpert/magento2-force-login) ![GitHub last commit](https://img.shields.io/github/last-commit/bitExpert/magento2-force-login)](https://github.com/bitExpert/magento2-force-login) 🫡 - Forces customers to log in before accessing certain pages.
-- [FireGento Fast Simple Import ![GitHub Repo Stars](https://img.shields.io/github/stars/firegento/FireGento_FastSimpleImport2) ![GitHub last commit](https://img.shields.io/github/last-commit/firegento/FireGento_FastSimpleImport2)](https://github.com/firegento/FireGento_FastSimpleImport2) 🫡 - Wrapper for Magento 2 ImportExport functionality, which imports products and customers from arrays.
 - [PageNotFound ![GitHub Repo Stars](https://img.shields.io/github/stars/experius/Magento-2-Module-PageNotFound) ![GitHub last commit](https://img.shields.io/github/last-commit/experius/Magento-2-Module-PageNotFound)](https://github.com/experius/Magento-2-Module-PageNotFound) 🫡 - Saves upcoming 404s in your database with the possibility to create a redirect.
-- [Reset UI Bookmarks ![GitHub Repo Stars](https://img.shields.io/github/stars/magenizr/Magenizr_ResetUiBookmarks) ![GitHub last commit](https://img.shields.io/github/last-commit/magenizr/Magenizr_ResetUiBookmarks)](https://github.com/magenizr/Magenizr_ResetUiBookmarks) 🫡 - Allows admin users to reset their own UI bookmarks such as filter state, column positions and applied sorting (e.g. Sales > Orders).
 - [theme-adminhtml-m137 ![GitHub Repo Stars](https://img.shields.io/github/stars/mage-os/theme-adminhtml-m137) ![GitHub last commit](https://img.shields.io/github/last-commit/mage-os/theme-adminhtml-m137)](https://github.com/mage-os/theme-adminhtml-m137) 🫡 - M137 Admin Theme for Magento/Mage-OS
+- [Reset UI Bookmarks ![GitHub Repo Stars](https://img.shields.io/github/stars/magenizr/Magenizr_ResetUiBookmarks) ![GitHub last commit](https://img.shields.io/github/last-commit/magenizr/Magenizr_ResetUiBookmarks)](https://github.com/magenizr/Magenizr_ResetUiBookmarks) 🫡 - Allows admin users to reset their own UI bookmarks such as filter state, column positions and applied sorting (e.g. Sales > Orders).
 - [Custom SMTP ![GitHub Repo Stars](https://img.shields.io/github/stars/magepal/magento2-gmail-smtp-app) ![GitHub last commit](https://img.shields.io/github/last-commit/magepal/magento2-gmail-smtp-app)](https://github.com/magepal/magento2-gmail-smtp-app) - Configure Magento 2 to send all transactional email using Google App, Gmail, Amazon SES, Microsoft Office 365 and other SMTP servers.
 - [Disable Stock Reservation ![GitHub Repo Stars](https://img.shields.io/github/stars/AmpersandHQ/magento2-disable-stock-reservation) ![GitHub last commit](https://img.shields.io/github/last-commit/AmpersandHQ/magento2-disable-stock-reservation)](https://github.com/AmpersandHQ/magento2-disable-stock-reservation) - Disables the inventory reservation logic introduced as part of MSI in Magento 2.3.3.
 - [Clean Admin Menu ![GitHub Repo Stars](https://img.shields.io/github/stars/redchamps/clean-admin-menu) ![GitHub last commit](https://img.shields.io/github/last-commit/redchamps/clean-admin-menu)](https://github.com/redchamps/clean-admin-menu) - Merges 3rd-party extensions into a single menu.
+- [FireGento Fast Simple Import ![GitHub Repo Stars](https://img.shields.io/github/stars/firegento/FireGento_FastSimpleImport2) ![GitHub last commit](https://img.shields.io/github/last-commit/firegento/FireGento_FastSimpleImport2)](https://github.com/firegento/FireGento_FastSimpleImport2) - Wrapper for Magento 2 ImportExport functionality, which imports products and customers from arrays.
 - [Magento 2 Import Framework ![GitHub Repo Stars](https://img.shields.io/github/stars/techdivision/import) ![GitHub last commit](https://img.shields.io/github/last-commit/techdivision/import)](https://github.com/techdivision/import) - A library supporting generic Magento 2 import functionality.
 - [Checkout Tester ![GitHub Repo Stars](https://img.shields.io/github/stars/yireo/Yireo_CheckoutTester2) ![GitHub last commit](https://img.shields.io/github/last-commit/yireo/Yireo_CheckoutTester2)](https://github.com/yireo/Yireo_CheckoutTester2) - Extension to quickly test Checkout changes.
 - [Preview Checkout Success Page ![GitHub Repo Stars](https://img.shields.io/github/stars/magepal/magento2-preview-checkout-success-page) ![GitHub last commit](https://img.shields.io/github/last-commit/magepal/magento2-preview-checkout-success-page)](https://github.com/magepal/magento2-preview-checkout-success-page) - Quickly and easily preview and test your order confirmation page, without the need to place a new order each time.
@@ -352,7 +350,6 @@ The storefront of Magento 2 can be styled in numerous ways:
 - [Classy Llama](https://www.classyllama.com/blog) 🫡 - Magento agency blog.
 - [FireBear Studio](https://firebearstudio.com/blog) 🫡 - FireBear Studio's Magento development blog.
 - [inchoo](http://inchoo.net/category/magento-2/) 🫡 - Inchoo's Magento development blog.
-- [M.academy](https://m.academy/blog/) 🫡 - Blog from the M.academy team.
 
 <details>
 <summary>🪦 Graveyard — projects no longer recommended</summary>
@@ -361,6 +358,7 @@ The storefront of Magento 2 can be styled in numerous ways:
 - [dev98](https://dev98.de/) - German Magento agency blog.
 - [Fooman](http://store.fooman.co.nz/blog) - Fooman's Magento extension and development blog.
 - [integer_net blog](https://www.integer-net.com/blog/) - integer_net's technical Magento blog.
+- [M.academy](https://m.academy/blog/) - Blog from the M.academy team.
 - [MageComp](https://magecomp.com/blog/category/magento-2/) - MageComp's Magento 2 tutorials and tips.
 - [OneStepCheckout](https://blog.onestepcheckout.com/) - OneStepCheckout's Magento blog.
 
@@ -380,21 +378,27 @@ The storefront of Magento 2 can be styled in numerous ways:
 ## Podcasts
 
 - [Talk Commerce](https://talk-commerce.com/podcasts/) 🫡 - Brent Peterson's interviews with digital commerce practitioners, merchants, and platform experts.
-- [The JetRails Podcast](https://jetrails.com/podcast/) 🫡 - Ecommerce-focused podcast from JetRails covering hosting, performance, and platform strategy.
 
 <details>
 <summary>🪦 Graveyard — projects no longer recommended</summary>
 
 - [MageTalk](https://magetalk.com/) - Weekly Magento podcast hosted by Phillip Jackson and Kalen Jordan covering Magento news, interviews, and community topics.
+- [The JetRails Podcast](https://jetrails.com/podcast/) - Ecommerce-focused podcast from JetRails covering hosting, performance, and platform strategy.
 
 </details>
 
 ## Newsletters
 
-- [M Bytes Newsletter](https://m.academy/newsletter/) 🫡 - Weekly developer newsletter from M.academy delivering three free Magento video lessons every Thursday.
 - [Mage Dispatch](https://www.magedispatch.com/) 🫡 - Community-driven newsletter collecting links the Magento community should know about.
 - [Mageres Monthly Digest](https://mailchi.mp/6a498018d9ef/mageres) - Hand-curated monthly newsletter by Alessandro Ronchi collecting useful Magento resources.
 - [The Devletter](https://www.maxpronko.com/the-devletter/) - Free weekly email digest by Max Pronko covering Magento 2 development tips and news.
+
+<details>
+<summary>🪦 Graveyard — projects no longer recommended</summary>
+
+- [M Bytes Newsletter](https://m.academy/newsletter/) - Weekly developer newsletter from M.academy delivering three free Magento video lessons every Thursday.
+
+</details>
 
 ## Community
 
