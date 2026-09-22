@@ -320,7 +320,7 @@ Pull requests are welcome with the condition that the resource should be free! P
 [![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-Special thanks to everyone who forked or starred the repository ❤️!
+Special thanks to everyone who forked or starred the repository ❤���!
 
 Thanks goes to these wonderful people:
 
