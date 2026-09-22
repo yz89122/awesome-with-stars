@@ -29,6 +29,7 @@ If you want to contribute, please read the [contribution guidelines ![GitHub Rep
 * [VisuAlgo](http://visualgo.net) - Visualising data structures and algorithms through animation.
 * [See Algorithms](https://see-algorithms.com/) – Visualizes algorithms and lets users create and share custom graphs and binary trees.
 * [Recursive](https://recursive.oilater.com/en) - Visualizes code execution step-by-step with a call tree, variable tracking, and line highlighting. Supports Python and JavaScript/TypeScript.
+* [leetcode-py ![GitHub Repo Stars](https://img.shields.io/github/stars/wislertt/leetcode-py) ![GitHub last commit](https://img.shields.io/github/last-commit/wislertt/leetcode-py)](https://github.com/wislertt/leetcode-py) - Generates local LeetCode practice environments in Python, with Graphviz diagrams of trees, linked lists, and graphs in Jupyter and a parametrized pytest suite per problem.
 
 ## Programming Contest
 
