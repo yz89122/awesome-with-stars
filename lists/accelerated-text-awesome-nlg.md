@@ -23,7 +23,7 @@ Natural Language Generation is a broad domain with applications in chat-bots, st
 
 - [Alex Context NLG Dataset ![GitHub Repo Stars](https://img.shields.io/github/stars/UFAL-DSG/alex_context_nlg_dataset) ![GitHub last commit](https://img.shields.io/github/last-commit/UFAL-DSG/alex_context_nlg_dataset)](https://github.com/UFAL-DSG/alex_context_nlg_dataset) - A dataset for NLG in dialogue systems in the public transport information domain.
 - [Box-score data ![GitHub Repo Stars](https://img.shields.io/github/stars/harvardnlp/boxscore-data) ![GitHub last commit](https://img.shields.io/github/last-commit/harvardnlp/boxscore-data)](https://github.com/harvardnlp/boxscore-data/) - This dataset consists of (human-written) NBA basketball game summaries aligned with their corresponding box- and line-scores.
-- [E2E](http://www.macs.hw.ac.uk/InteractionLab/E2E) - This shared task focuses on recent end-to-end (E2E), data-driven NLG methods, which jointly learn sentence planning and surface realisation from non-aligned data.
+- [E2E ![GitHub Repo Stars](https://img.shields.io/github/stars/tuetschek/e2e-dataset) ![GitHub last commit](https://img.shields.io/github/last-commit/tuetschek/e2e-dataset)](https://github.com/tuetschek/e2e-dataset) - This shared task focuses on recent end-to-end (E2E), data-driven NLG methods, which jointly learn sentence planning and surface realisation from non-aligned data.
 - [Neural-Wikipedian ![GitHub Repo Stars](https://img.shields.io/github/stars/pvougiou/Neural-Wikipedian) ![GitHub last commit](https://img.shields.io/github/last-commit/pvougiou/Neural-Wikipedian)](https://github.com/pvougiou/Neural-Wikipedian) - The repository contains the code along with the required corpora that were used in order to build a system that "learns" how to generate English biographies for Semantic Web triples.
 - [WeatherGov](https://cs.stanford.edu/~pliang/data/weather-data.zip) - Computer-generated weather forecasts from weather.gov (US public forecast), along with corresponding weather data.
 - [WebNLG ![GitHub Repo Stars](https://img.shields.io/github/stars/ThiagoCF05/webnlg) ![GitHub last commit](https://img.shields.io/github/last-commit/ThiagoCF05/webnlg)](https://github.com/ThiagoCF05/webnlg) - The enriched version of the WebNLG - a resource for evaluating common NLG tasks, including Discourse Ordering, Lexicalization and Referring Expression Generation.
@@ -104,7 +104,7 @@ Natural Language Generation is a broad domain with applications in chat-bots, st
 ## Products 
 
 - [Accelerated Text ![GitHub Repo Stars](https://img.shields.io/github/stars/tokenmill/accelerated-text) ![GitHub last commit](https://img.shields.io/github/last-commit/tokenmill/accelerated-text)](https://github.com/tokenmill/accelerated-text) - Automatically generate multiple natural language descriptions of your data varying in wording and structure.
-- [RosaeNLG](https://rosaenlg.org) - An open-source library for node.js or client side (browser) execution, based on the Pug template engine, to generate texts in English, French, German and Italian.
+- [RosaeNLG ![GitHub Repo Stars](https://img.shields.io/github/stars/RosaeNLG/rosaenlg) ![GitHub last commit](https://img.shields.io/github/last-commit/RosaeNLG/rosaenlg)](https://github.com/RosaeNLG/rosaenlg) - An open-source library for node.js or client side (browser) execution, based on the Pug template engine, to generate texts in English, French, German and Italian.
 - [Twine](http://twinery.org/) - An open-source tool for telling interactive, nonlinear stories.
 
 ## Realizers
