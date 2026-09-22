@@ -1186,6 +1186,7 @@ be
 * [Transformers ![GitHub Repo Stars](https://img.shields.io/github/stars/huggingface/transformers) ![GitHub last commit](https://img.shields.io/github/last-commit/huggingface/transformers)](https://github.com/huggingface/transformers) - A deep learning library containing thousands of pre-trained models on different tasks. The goto place for anything related to Large Language Models.
 * [TextCL ![GitHub Repo Stars](https://img.shields.io/github/stars/alinapetukhova/textcl) ![GitHub last commit](https://img.shields.io/github/last-commit/alinapetukhova/textcl)](https://github.com/alinapetukhova/textcl) - Text preprocessing package for use in NLP tasks.
 * [VeritasGraph ![GitHub Repo Stars](https://img.shields.io/github/stars/bibinprathap/VeritasGraph) ![GitHub last commit](https://img.shields.io/github/last-commit/bibinprathap/VeritasGraph)](https://github.com/bibinprathap/VeritasGraph) - Enterprise-Grade Graph RAG for Secure, On-Premise AI with Verifiable Attribution.
+* [yasbd-lib ![GitHub Repo Stars](https://img.shields.io/github/stars/speedyk-005/yasbd-lib) ![GitHub last commit](https://img.shields.io/github/last-commit/speedyk-005/yasbd-lib)](https://github.com/speedyk-005/yasbd-lib) - High-accuracy, rule-based sentence boundary detector (SBD) with drop-in pysbd adapter, streaming APIs, CLI, and a spaCy component across 39+ languages.
 
 <a name="python-general-purpose-machine-learning"></a>
 #### General-Purpose Machine Learning

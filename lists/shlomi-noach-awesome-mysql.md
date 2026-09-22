@@ -30,6 +30,7 @@ This list accepts and encourages pull requests. See [CONTRIBUTING ![GitHub Repo 
 - [Resources](#resources)
     - [E-Books](#e-books)
 
+- [Incubating](#incubating)
 
 ## Analysis
 
