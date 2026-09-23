@@ -1477,6 +1477,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [notectl ![GitHub Repo Stars](https://img.shields.io/github/stars/Samyssmile/notectl) ![GitHub last commit](https://img.shields.io/github/last-commit/Samyssmile/notectl)](https://github.com/Samyssmile/notectl) - Modern accessible WYSIWYG rich text editor built as a framework-agnostic web component that works everywhere.
 * [svg-engine ![GitHub Repo Stars](https://img.shields.io/github/stars/mosaicoo/svg-engine) ![GitHub last commit](https://img.shields.io/github/last-commit/mosaicoo/svg-engine)](https://github.com/mosaicoo/svg-engine) - An embeddable, headless-first SVG editor built on Angular signals.
 * [Updog](https://docs.updog.tech/getting-started/other-frameworks/) - A client-side data importer and spreadsheet editor.
+* [trevixal-editor ![GitHub Repo Stars](https://img.shields.io/github/stars/adityabhalsod/trevixal-editor) ![GitHub last commit](https://img.shields.io/github/last-commit/adityabhalsod/trevixal-editor)](https://github.com/adityabhalsod/trevixal-editor) - An independent, custom-engineered WYSIWYG rich-text engine with an Angular integration.
 
 ### File Upload
 

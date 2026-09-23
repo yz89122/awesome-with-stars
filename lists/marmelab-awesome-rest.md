@@ -274,6 +274,7 @@ A collaborative list of great resources about RESTful API architecture, developm
 * [Zudoku](https://zudoku.dev/) - Create clean, consistent API docs with Zudoku — open source, extensible, and developer-first
 * [Sourcey](https://sourcey.com) - Open source documentation platform for OpenAPI specs and markdown. Static HTML output.
 * [Stoplight](https://stoplight.io/) - Design-first API platform with visual OpenAPI editor, documentation, and mocking.
+* [Cortex ![GitHub Repo Stars](https://img.shields.io/github/stars/cortex-docs/cortex) ![GitHub last commit](https://img.shields.io/github/last-commit/cortex-docs/cortex)](https://github.com/cortex-docs/cortex) - Generate interactive API documentation, typed SDKs, and MCP servers from OpenAPI and other API specification formats.
 
 ## API Gateway
 
@@ -291,7 +292,6 @@ A collaborative list of great resources about RESTful API architecture, developm
 * [Nango ![GitHub Repo Stars](https://img.shields.io/github/stars/NangoHQ/nango) ![GitHub last commit](https://img.shields.io/github/last-commit/NangoHQ/nango)](https://github.com/NangoHQ/nango) - Native integrations framework to consume REST APIs (open-source).
 * [Runscope](https://www.runscope.com/) - Automated API Monitoring & Testing.
 * [Keploy](https://keploy.io) - Open-source API testing and data mocking tool that generates test cases and stubs automatically from real traffic, enabling end-to-end API testing and monitoring.
-* [Ping-API](https://ping-api.com/) - Automated API Monitoring & Testing.
 * [Apiary](https://apiary.io/) - Collaborative design, instant API mock, generated documentation, integrated code samples, debugging and automated testing.
 * [Amazon API Gateway](https://aws.amazon.com/api-gateway/) - Amazon API Gateway is a fully managed service that makes it easy for developers to create, publish, maintain, monitor, and secure APIs at any scale.
 * [Apigee](https://apigee.com) - Apigee is the leading provider of API technology and services for enterprises and developers.

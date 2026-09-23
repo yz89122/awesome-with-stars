@@ -41,6 +41,7 @@ Collection of awesome Python types, stubs, plugins, and tools to work with them.
 - [typeguard ![GitHub Repo Stars](https://img.shields.io/github/stars/agronholm/typeguard) ![GitHub last commit](https://img.shields.io/github/last-commit/agronholm/typeguard)](https://github.com/agronholm/typeguard) - Another one runtime type checker.
 - [typical ![GitHub Repo Stars](https://img.shields.io/github/stars/seandstewart/typical) ![GitHub last commit](https://img.shields.io/github/last-commit/seandstewart/typical)](https://github.com/seandstewart/typical/) - Data parsing and automatic type-coercion using type hinting. Supports dataclasses, standard classes, function signatures, and more.
 - [trycast ![GitHub Repo Stars](https://img.shields.io/github/stars/davidfstr/trycast) ![GitHub last commit](https://img.shields.io/github/last-commit/davidfstr/trycast)](https://github.com/davidfstr/trycast) - Parse JSON-like values whose shape is defined by typed dictionaries (TypedDicts) and other standard Python type hints.
+- [type_enforced ![GitHub Repo Stars](https://img.shields.io/github/stars/connor-makowski/type_enforced) ![GitHub last commit](https://img.shields.io/github/last-commit/connor-makowski/type_enforced)](https://github.com/connor-makowski/type_enforced) - Fast runtime type enforcement for annotations with no dependencies. Includes fast O(1) and full O(n) operations.
 
 ## Stub packages
 
