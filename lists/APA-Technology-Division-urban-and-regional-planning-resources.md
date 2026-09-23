@@ -1,5 +1,3 @@
----
----
 # Urban & Regional Planning Resources [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome) <!-- omit in toc -->
 
 [![GitHub stars](https://img.shields.io/github/stars/APA-Technology-Division/planning-technology-resources)](https://github.com/APA-Technology-Division/planning-technology-resources/stargazers)
@@ -532,7 +530,7 @@ Software, tools, and platforms intended to assist general urban planning tasks a
 
 - [ArcGIS Urban](https://www.esri.com/en-us/arcgis/products/arcgis-urban/overview) - Enables planners and design professionals to publish living plans and collaborate across teams with a web-based 3D application that supports scenario planning and impact assessment.
 - [UrbanFootPrint](https://urbanfootprint.com/) - Web-based planning tool serving curated urban, environmental, and economic data to urban practitioners and equipping them with the analytic capabilities to plan and improve communities faster, better, and at lower cost.
-- [UrbanCanvas](https://urbansim.com/urbancanvas) - Modeler is a web-based platform designed for planners and modelers to generate long-range, small area socioeconomic forecasts using [UrbanSim ![GitHub Repo Stars](https://img.shields.io/github/stars/UDST/urbansim) ![GitHub last commit](https://img.shields.io/github/last-commit/UDST/urbansim)](https://github.com/UDST/urbansim) to inform Regional Transportation Plans.
+- [UrbanCanvas](https://cloud.urbansim.com/docs/general/documentation/introduction-modeler.html) - Modeler is a web-based platform designed for planners and modelers to generate long-range, small area socioeconomic forecasts using [UrbanSim ![GitHub Repo Stars](https://img.shields.io/github/stars/UDST/urbansim) ![GitHub last commit](https://img.shields.io/github/last-commit/UDST/urbansim)](https://github.com/UDST/urbansim) to inform Regional Transportation Plans.
 
 ### Transportation Planning Tools and Platforms
 Software, tools, and platforms intended to assist with transportation planning tasks and processes.
