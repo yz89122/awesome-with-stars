@@ -667,6 +667,7 @@
 - [spectaql ![GitHub Repo Stars](https://img.shields.io/github/stars/anvilco/spectaql) ![GitHub last commit](https://img.shields.io/github/last-commit/anvilco/spectaql)](https://github.com/anvilco/spectaql) - Autogenerate static GraphQL API documentation.
 - [graphql-markdown](https://graphql-markdown.github.io/) - Flexible documentation for GraphQL powered with Docusaurus.
 - [xyd](https://xyd.dev) - Generate GraphQL API docs.
+- [Cortex ![GitHub Repo Stars](https://img.shields.io/github/stars/cortex-docs/cortex) ![GitHub last commit](https://img.shields.io/github/last-commit/cortex-docs/cortex)](https://github.com/cortex-docs/cortex) - Generates interactive API documentation and typed SDKs from GraphQL schemas.
 
 ### Tools - Editor Plugins
 

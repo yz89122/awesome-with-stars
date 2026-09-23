@@ -148,6 +148,7 @@ _Libraries for building AI applications, LLM integrations, and autonomous agents
   - [claude-agent-sdk ![GitHub Repo Stars](https://img.shields.io/github/stars/anthropics/claude-agent-sdk-python) ![GitHub last commit](https://img.shields.io/github/last-commit/anthropics/claude-agent-sdk-python)](https://github.com/anthropics/claude-agent-sdk-python) - Anthropic's Python SDK for building AI agents on Claude Code's harness — custom tools, in-process MCP servers, hooks.
 - Personal Assistants
   - [hermes-agent ![GitHub Repo Stars](https://img.shields.io/github/stars/nousresearch/hermes-agent) ![GitHub last commit](https://img.shields.io/github/last-commit/nousresearch/hermes-agent)](https://github.com/nousresearch/hermes-agent) - An adaptive personal AI assistant that grows with you.
+  - [AstrBot ![GitHub Repo Stars](https://img.shields.io/github/stars/AstrBotDevs/AstrBot) ![GitHub last commit](https://img.shields.io/github/last-commit/AstrBotDevs/AstrBot)](https://github.com/AstrBotDevs/AstrBot) - A multi-platform AI assistant that connects LLMs to chat apps like Telegram, Slack, and QQ, extensible with Python plugins.
 - Prompt Optimization
   - [dspy ![GitHub Repo Stars](https://img.shields.io/github/stars/stanfordnlp/dspy) ![GitHub last commit](https://img.shields.io/github/last-commit/stanfordnlp/dspy)](https://github.com/stanfordnlp/dspy) - A framework for programming, not prompting, language models.
 - Data Layer

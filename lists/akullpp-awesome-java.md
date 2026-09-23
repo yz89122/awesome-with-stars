@@ -4,7 +4,7 @@
 
 A curated list of noteworthy Java frameworks, libraries, tools and resources.
 
-<sub>838 projects · 81 categories · 85 resources</sub>
+<sub>839 projects · 81 categories · 85 resources</sub>
 
 <sub>Activity: 🟢 pushed within 3 months · 🟠 pushed 3–12 months ago · 🔴 no push for over 12 months</sub>
 
@@ -383,7 +383,7 @@ _Tools that provide metrics and quality measurements._
 </details>
 
 <details id="code-coverage">
-<summary><strong>Code Coverage</strong> <kbd>3 projects</kbd></summary>
+<summary><strong>Code Coverage</strong> <kbd>4 projects</kbd></summary>
 
 _Frameworks and tools that enable code coverage metrics collection for test suites._
 
@@ -392,6 +392,8 @@ _Frameworks and tools that enable code coverage metrics collection for test suit
 > **[JaCoCo ![GitHub Repo Stars](https://img.shields.io/github/stars/jacoco/jacoco) ![GitHub last commit](https://img.shields.io/github/last-commit/jacoco/jacoco)](https://github.com/jacoco/jacoco)** <kbd>★ 4.6k</kbd> 🟢<br>Framework that enables collection of code coverage metrics, using both offline and runtime bytecode instrumentation.
 
 > **[OpenClover ![GitHub Repo Stars](https://img.shields.io/github/stars/openclover/clover) ![GitHub last commit](https://img.shields.io/github/last-commit/openclover/clover)](https://github.com/openclover/clover)** <kbd>★ 70</kbd> 🟢<br>Measures Java code coverage through source-code instrumentation, with build-tool and IDE integrations.
+
+> **[Supercov ![GitHub Repo Stars](https://img.shields.io/github/stars/supercorp-ai/supercov) ![GitHub last commit](https://img.shields.io/github/last-commit/supercorp-ai/supercov)](https://github.com/supercorp-ai/supercov)** <kbd>★ 107</kbd> <kbd>MIT</kbd> 🟢<br>Measures line, branch, and MC/DC coverage of Java and Kotlin test runs and scores source files for code quality.
 
 </details>
 
@@ -1390,7 +1392,7 @@ _Tools for creating and managing microservices._
 
 > **[Micronaut ![GitHub Repo Stars](https://img.shields.io/github/stars/micronaut-projects/micronaut-core) ![GitHub last commit](https://img.shields.io/github/last-commit/micronaut-projects/micronaut-core)](https://github.com/micronaut-projects/micronaut-core)** <kbd>★ 6.4k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Modern full-stack framework with focus on modularity, minimal memory footprint and startup time.
 
-> **[Nacos ![GitHub Repo Stars](https://img.shields.io/github/stars/alibaba/nacos) ![GitHub last commit](https://img.shields.io/github/last-commit/alibaba/nacos)](https://github.com/alibaba/nacos)** <kbd>★ 33.4k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Dynamic service discovery, configuration and service management platform for building cloud native applications.
+> **[Nacos ![GitHub Repo Stars](https://img.shields.io/github/stars/alibaba/nacos) ![GitHub last commit](https://img.shields.io/github/last-commit/alibaba/nacos)](https://github.com/alibaba/nacos)** <kbd>��� 33.4k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Dynamic service discovery, configuration and service management platform for building cloud native applications.
 
 > **[Quarkus ![GitHub Repo Stars](https://img.shields.io/github/stars/quarkusio/quarkus) ![GitHub last commit](https://img.shields.io/github/last-commit/quarkusio/quarkus)](https://github.com/quarkusio/quarkus)** <kbd>★ 15.9k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Kubernetes stack tailored for the HotSpot and Graal VM.
 
@@ -1591,7 +1593,7 @@ _APIs that handle the persistence of objects._
 
 > **[Permazen ![GitHub Repo Stars](https://img.shields.io/github/stars/permazen/permazen) ![GitHub last commit](https://img.shields.io/github/last-commit/permazen/permazen)](https://github.com/permazen/permazen)** <kbd>★ 425</kbd> <kbd>Apache-2.0</kbd> 🟠<br>Language-natural persistence layer.
 
-> **[SimpleFlatMapper ![GitHub Repo Stars](https://img.shields.io/github/stars/arnaudroger/SimpleFlatMapper) ![GitHub last commit](https://img.shields.io/github/last-commit/arnaudroger/SimpleFlatMapper)](https://github.com/arnaudroger/SimpleFlatMapper)** <kbd>★ 460</kbd> <kbd>MIT</kbd> 🟠<br>Simple database and CSV mapper.
+> **[SimpleFlatMapper ![GitHub Repo Stars](https://img.shields.io/github/stars/arnaudroger/SimpleFlatMapper) ![GitHub last commit](https://img.shields.io/github/last-commit/arnaudroger/SimpleFlatMapper)](https://github.com/arnaudroger/SimpleFlatMapper)** <kbd>★ 460</kbd> <kbd>MIT</kbd> 🔴<br>Simple database and CSV mapper.
 
 > **[Ujorm ![GitHub Repo Stars](https://img.shields.io/github/stars/pponec/ujorm) ![GitHub last commit](https://img.shields.io/github/last-commit/pponec/ujorm)](https://github.com/pponec/ujorm)** <kbd>★ 12</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Maps rows to JavaBeans or Java records with no third-party runtime dependencies, deliberately omitting lazy loading, 1:M collections and transaction management.
 
@@ -1911,7 +1913,7 @@ _Libraries for scientific computing, analysis and visualization._
 
 > **[JGraphT ![GitHub Repo Stars](https://img.shields.io/github/stars/jgrapht/jgrapht) ![GitHub last commit](https://img.shields.io/github/last-commit/jgrapht/jgrapht)](https://github.com/jgrapht/jgrapht)** <kbd>★ 2.8k</kbd> <kbd>EPL-2.0</kbd> 🟢<br>Graph library that provides mathematical graph-theory objects and algorithms.
 
-> **[jSciPy ![GitHub Repo Stars](https://img.shields.io/github/stars/hissain/jscipy) ![GitHub last commit](https://img.shields.io/github/last-commit/hissain/jscipy)](https://github.com/hissain/jscipy)** <kbd>★ 23</kbd> <kbd>MIT</kbd> 🟢<br>jSciPy is a Java library designed for scientific computing, offering functionalities inspired by popular scientific computing libraries. It currently provides modules for signal processing, including Butterworth filters, peak finding algorithms, and an RK4 solver for ordinary differential equations.
+> **[jSciPy ![GitHub Repo Stars](https://img.shields.io/github/stars/hissain/jscipy) ![GitHub last commit](https://img.shields.io/github/last-commit/hissain/jscipy)](https://github.com/hissain/jscipy)** <kbd>★ 23</kbd> <kbd>MIT</kbd> 🟠<br>jSciPy is a Java library designed for scientific computing, offering functionalities inspired by popular scientific computing libraries. It currently provides modules for signal processing, including Butterworth filters, peak finding algorithms, and an RK4 solver for ordinary differential equations.
 
 > **[LogicNG ![GitHub Repo Stars](https://img.shields.io/github/stars/logic-ng/LogicNG) ![GitHub last commit](https://img.shields.io/github/last-commit/logic-ng/LogicNG)](https://github.com/logic-ng/LogicNG)** <kbd>★ 157</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Library for creating, manipulating and solving Boolean and Pseudo-Boolean formulas.
 
@@ -2106,7 +2108,7 @@ _Tools that substitute expressions in a template._
 
 > **[StringTemplate ![GitHub Repo Stars](https://img.shields.io/github/stars/antlr/stringtemplate4) ![GitHub last commit](https://img.shields.io/github/last-commit/antlr/stringtemplate4)](https://github.com/antlr/stringtemplate4)** <kbd>★ 1.0k</kbd> 🔴<br>Template engine for generating source code, web pages, emails, or any other formatted text output.
 
-> **[Thymeleaf ![GitHub Repo Stars](https://img.shields.io/github/stars/thymeleaf/thymeleaf) ![GitHub last commit](https://img.shields.io/github/last-commit/thymeleaf/thymeleaf)](https://github.com/thymeleaf/thymeleaf)** <kbd>★ 3.0k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Aims to be a substitute for JSP and works for XML files.
+> **[Thymeleaf ![GitHub Repo Stars](https://img.shields.io/github/stars/thymeleaf/thymeleaf) ![GitHub last commit](https://img.shields.io/github/last-commit/thymeleaf/thymeleaf)](https://github.com/thymeleaf/thymeleaf)** <kbd>★ 3.0k</kbd> <kbd>Apache-2.0</kbd> 🟠<br>Aims to be a substitute for JSP and works for XML files.
 
 </details>
 
