@@ -63,6 +63,7 @@ To save the world from creating user accounts and installing software applicatio
 * [audiotest.io](https://audiotest.io) - Free in-browser audio test toolkit with stereo left/right channel test, frequency sweep, tone generator, bass response test, headphone test and tinnitus frequency test. All tests run client-side, bilingual EN/ZH.
 * [Whisper Web](https://whisperweb.dev/) - Transcribe audio and video to text in the browser with OpenAI's Whisper. Runs on-device, no login, 100+ languages.
 * [Vizz.fm](https://vizz.fm) - Browser-based music visualizer with customizable scenes and presets.
+* [Slant it](https://slantit.app) - Create catchy 3D product videos from screen recordings in few minutes.
 
 
 ### Business and Finance
@@ -141,6 +142,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Internet Archive](https://archive.org/) - Browse a free library of books, films, music, software, and other saved documents, including the Wayback Machine’s copies of old web pages. No account needed to search or read.
 * [MultCloud](https://www.multcloud.com/home) - Cloud service to manage, move, copy and migrate data between multiple cloud services. Supports all major cloud services. No sign-up required, 2TB cloud storage, download large files directly to the cloud, no size restrictions.
 * [harvis.dev](https://harvis.dev/) - Static website hosting without an account. Drag in a folder (or run `npx harvis`) and get a live site in seconds, with a private claim link to take ownership later. Free for small sites only.
+* [Blaze](https://blaze.now.sh) - Open source peer-to-peer file sharing app that works across any device and network.
 
 
 <a name="games"></a>
@@ -249,6 +251,8 @@ To save the world from creating user accounts and installing software applicatio
 * [DebugBear Speed Test](https://www.debugbear.com/test/website-speed) - Test site speed and Core Web Vitals.
 * [Mydentify AI Crawler Access Checker](https://mydentify.com/tools/ai-crawler-access-checker) - Checks robots.txt, page-level crawler directives, and responses to documented ChatGPT and Claude crawler user-agent names without login; it cannot verify official provider IPs.
 * [Acento JWT Decoder](https://www.acento.io/en/jwt-decoder/) - Decode and inspect JWT tokens (header, payload, signature) entirely in the browser; tokens are never sent to a server.
+* [Azimutt](https://azimutt.app) - Dynamic, interactive ER-style exploration for large and complex databases: search, follow relations, find paths, and build focused layouts incrementally; the explorer works with no account, though saving layouts and documentation may require one.
+* [Dadroit V Web](https://dadroit.com/vweb/) - Fast viewer for large JSON files (up to 50 MB in the browser) with a collapsible tree view, text/RegEx search, copy-path, and export of the whole file or a selected branch to JSON (formatted or minified) or CSV. Opens local files, pasted data, or URLs, including Basic/Bearer-authenticated API endpoints. Runs client-side, so no data leaves your machine.
 
 
 ### Search Engines
