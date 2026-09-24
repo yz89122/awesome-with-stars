@@ -255,7 +255,7 @@ The storefront of Magento 2 can be styled in numerous ways:
 - [module-blog ![GitHub Repo Stars](https://img.shields.io/github/stars/mage-os-lab/module-blog) ![GitHub last commit](https://img.shields.io/github/last-commit/mage-os-lab/module-blog)](https://github.com/mage-os-lab/module-blog) 🫡 - Blog module for Mage-OS / Magento 2 with posts, categories, tags, authors, scheduled publishing, SEO, RSS, sitemap, 6 widgets, and a full GraphQL API. Luma + Hyvä.
 
 <details>
-<summary>🪦 Graveyard ��� projects no longer recommended</summary>
+<summary>🪦 Graveyard — projects no longer recommended</summary>
 
 - [Magento 2 PDF ![GitHub Repo Stars](https://img.shields.io/github/stars/staempfli/magento2-module-pdf) ![GitHub last commit](https://img.shields.io/github/last-commit/staempfli/magento2-module-pdf)](https://github.com/staempfli/magento2-module-pdf) - PDF Generator based on wkhtmltopdf.
 
