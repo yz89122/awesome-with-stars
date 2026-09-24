@@ -3063,7 +3063,7 @@ but with the following improvements:
 * ⚙️ Configurable: Fine-grained ignores via PHP config
 * 🕸️ Lightweight: No composer dependencies
 * 🍰 Easy-to-use: No config needed for first try
-* ✨ Compatible: PHP >= 7.2
+* ��� Compatible: PHP >= 7.2
 
 
 - [lintian](https://wiki.debian.org/Lintian) — Static analysis tool for Debian packages.
