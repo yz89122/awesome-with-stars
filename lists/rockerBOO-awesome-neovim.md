@@ -1259,6 +1259,7 @@ then it is not supported:
 - [wsdjeg/tasks.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/wsdjeg/tasks.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/wsdjeg/tasks.nvim)](https://github.com/wsdjeg/tasks.nvim) - A tasks manager that integrates with external tools, inspired by VSCode's tasks-manager.
 - [JulOuellet/bzl.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/JulOuellet/bzl.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/JulOuellet/bzl.nvim)](https://github.com/JulOuellet/bzl.nvim) - Bazel integration: target picker and tree, run/test/build with streaming output, and LSP support for Bazel-managed dependencies.
 - [caskstrength/nvim-soil](https://codeberg.org/caskstrength/nvim-soil) - Run PlantUML script and generate UML design.
+- [pewpewnor/dove.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/pewpewnor/dove.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/pewpewnor/dove.nvim)](https://github.com/pewpewnor/dove.nvim) - Define and execute arbitrary shell commands or Lua code on the fly for file, project, or global contexts.
 <!--lint disable double-link -->
 [**⬆ back to top**](#contents)
 <!--lint enable double-link -->
