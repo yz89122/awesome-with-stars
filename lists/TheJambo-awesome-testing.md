@@ -87,6 +87,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 
 ### UI & End-to-End Testing
 - [Polarity](https://www.polarity.so) - Full visual and desktop environments showcasing complete E2E testing for all UI/UX features. Generated you Playwright, Cypress, and other code for you as the test runs.
+- [blastproof](https://blastproof.dev) - Open-source AI agent that runs plain-English e2e tests in a real browser. It reads the pull request diff, runs only the tests for the pages that changed and can block the merge on a score. Runs locally or in CI with your own LLM key.
 - [BugBug](https://bugbug.io) - No-code test automation tool for web applications.
 - [Courgette](https://courgette-testing.com) - Declarative BDD UI testing with Gherkin.
 - [DevAssure](https://app.devassure.io) - Agentic testing for E2E web UI on real browsers. Agent can be added to GitHub Actions to test only the flows that have changed in a PR.
@@ -132,6 +133,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [ARADURU File Format Test Corpus](https://teamaraduru-hub.github.io/araduru-file-format-test-corpus/) - Open CC0 corpus of deterministic healthy and intentionally broken XLSX, DOCX, PPTX, ZIP, and PDF fixtures with SHA-256 manifests for file validation, parser, upload, and QA testing.
 - [FakeNamely](https://fakenamely.com) - Free web generator and keyless JSON API for fictional identities, addresses and names across 38 countries. Seeded requests return byte-identical records, so a fixture can be committed; addresses pair a real city and a genuinely valid postal code with an invented street.
 - [JsonFabrica](https://jsonfabrica.com) - API-first service for realistic synthetic JSON test data from reusable templates: relational batches with referential integrity, seed-reproducible output, and an MCP server for AI agents.
+- [postal-code-formats ![GitHub Repo Stars](https://img.shields.io/github/stars/vinceblock99/postal-code-formats) ![GitHub last commit](https://img.shields.io/github/last-commit/vinceblock99/postal-code-formats)](https://github.com/vinceblock99/postal-code-formats) - Postal code formats, validation regexes and 9,000 real sample codes for 31 countries, with every regex tested against the samples in CI.
 
 ### Browser Extensions & Utilities
 - [Anchor Browser](https://anchorbrowser.io) - Cloud browser infrastructure with built-in stealth and proxy rotation for automated testing at scale
@@ -142,6 +144,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Form Filler](https://chrome.google.com/webstore/detail/form-filler/bnjjngeaknajbdcgpfkgnonkmififhfo) - Auto-fill large forms with dummy data.
 - [ProxySwitcher](https://chrome.google.com/webstore/detail/proxy-switcher-manager/onnfghpihccifgojkpnnncpagjcdbjod) - Easy proxy switching for test/prod environments.
 - [Requestly](https://requestly.io/) - A lightweight proxy to intercept and modify network requests.
+- [TabQA](https://chromewebstore.google.com/detail/tabqa/ddbodfcbakkoakaonpodnpgbkmmgpedp) - Connect, mirror, and control Android devices directly in Chrome via WebUSB without ADB; capture logs, inspect network requests, and record bug reproduction video buffers.
 
 ### Accessibility & Usability Testing
 - [Colour Blindness Simulator](https://altreus.github.io/colourblind/) - Simulate different types of color blindness.
@@ -154,6 +157,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 ### Performance & Load Testing
 - [Yslow](http://yslow.org/) - Analyze web page performance based on Yahoo!'s rules.
 - [Load Testing Hub Panel ![GitHub Repo Stars](https://img.shields.io/github/stars/Nikita-Filonov/load-testing-hub-panel) ![GitHub last commit](https://img.shields.io/github/last-commit/Nikita-Filonov/load-testing-hub-panel)](https://github.com/Nikita-Filonov/load-testing-hub-panel) - Ultimate web UI for visualizing load test results
+- [k6 ![GitHub Repo Stars](https://img.shields.io/github/stars/grafana/k6) ![GitHub last commit](https://img.shields.io/github/last-commit/grafana/k6)](https://github.com/grafana/k6) - Modern load testing tool, scriptable in JavaScript, with cloud and open-source options.
 
 ### Web3 & Blockchain Testing
 - [Cannon](https://usecannon.com/) - Continuous configuration automation for Ethereum.
