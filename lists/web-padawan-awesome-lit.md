@@ -127,6 +127,7 @@ At Lit's core is a boilerplate-killing component base class that provides reacti
 
 - [`@adobe/lit-mobx`](https://www.npmjs.com/package/@adobe/lit-mobx) - Mixin and base class for using mobx with Lit.
 - [`@apollo-elements/lit-apollo`](https://www.npmjs.com/package/@apollo-elements/lit-apollo) - LitElement integrations with Apollo GraphQL.
+- [`@gyeonghokim/lucide-lit` ![GitHub Repo Stars](https://img.shields.io/github/stars/GyeongHoKim/lucide-lit) ![GitHub last commit](https://img.shields.io/github/last-commit/GyeongHoKim/lucide-lit)](https://github.com/GyeongHoKim/lucide-lit) - Lucide icons as tree-shakeable Lit custom elements.
 - [`@lit-app/state`](https://www.npmjs.com/package/@lit-app/state) - Lean and simple global State management for Lit 2.
 - [`@shoelace-style/localize` ![GitHub Repo Stars](https://img.shields.io/github/stars/shoelace-style/localize) ![GitHub last commit](https://img.shields.io/github/last-commit/shoelace-style/localize)](https://github.com/shoelace-style/localize) - A micro library for localizing custom elements, providing directives for Lit.
 - [`@stefanholzapfel/lit-state`](https://www.npmjs.com/package/@stefanholzapfel/lit-state) - Lightweight reactive state management for Lit 2.
