@@ -110,6 +110,7 @@
 ## Concurrency
 * [scala-native-loop ![GitHub Repo Stars](https://img.shields.io/github/stars/scala-native/scala-native-loop) ![GitHub last commit](https://img.shields.io/github/last-commit/scala-native/scala-native-loop)](https://github.com/scala-native/scala-native-loop) - Event loop and async-oriented IO for Scala Native
 * [castor ![GitHub Repo Stars](https://img.shields.io/github/stars/com-lihaoyi/castor) ![GitHub last commit](https://img.shields.io/github/last-commit/com-lihaoyi/castor)](https://github.com/com-lihaoyi/castor) - Lightweight, typed Actor library for Scala.
+* [Leucine ![GitHub Repo Stars](https://img.shields.io/github/stars/devlaam/Leucine) ![GitHub last commit](https://img.shields.io/github/last-commit/devlaam/Leucine)](https://github.com/devlaam/Leucine) - Small cross-platform actor framework
 
 ## Logging
 * [scribe ![GitHub Repo Stars](https://img.shields.io/github/stars/outr/scribe) ![GitHub last commit](https://img.shields.io/github/last-commit/outr/scribe)](https://github.com/outr/scribe) - Fast and simple logging library.
