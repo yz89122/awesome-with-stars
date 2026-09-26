@@ -651,7 +651,7 @@ _Everything that simplifies interactions with the database._
 
 > **[Liquibase ![GitHub Repo Stars](https://img.shields.io/github/stars/liquibase/liquibase) ![GitHub last commit](https://img.shields.io/github/last-commit/liquibase/liquibase)](https://github.com/liquibase/liquibase)** <kbd>★ 5.6k</kbd> 🟢<br>Database-independent library for tracking, managing and applying database schema changes.
 
-> **[MapDB ![GitHub Repo Stars](https://img.shields.io/github/stars/jankotek/mapdb) ![GitHub last commit](https://img.shields.io/github/last-commit/jankotek/mapdb)](https://github.com/jankotek/mapdb)** <kbd>★ 5.1k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Embedded database engine that provides concurrent collections backed on disk or in off-heap memory.
+> **[MapDB ![GitHub Repo Stars](https://img.shields.io/github/stars/jankotek/mapdb) ![GitHub last commit](https://img.shields.io/github/last-commit/jankotek/mapdb)](https://github.com/jankotek/mapdb)** <kbd>★ 5.1k</kbd> <kbd>Apache-2.0</kbd> ���<br>Embedded database engine that provides concurrent collections backed on disk or in off-heap memory.
 
 > **[MariaDB4j ![GitHub Repo Stars](https://img.shields.io/github/stars/vorburger/MariaDB4j) ![GitHub last commit](https://img.shields.io/github/last-commit/vorburger/MariaDB4j)](https://github.com/vorburger/MariaDB4j)** <kbd>★ 17</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Launcher for MariaDB that requires no installation or external dependencies.
 
@@ -1392,7 +1392,7 @@ _Tools for creating and managing microservices._
 
 > **[Micronaut ![GitHub Repo Stars](https://img.shields.io/github/stars/micronaut-projects/micronaut-core) ![GitHub last commit](https://img.shields.io/github/last-commit/micronaut-projects/micronaut-core)](https://github.com/micronaut-projects/micronaut-core)** <kbd>★ 6.4k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Modern full-stack framework with focus on modularity, minimal memory footprint and startup time.
 
-> **[Nacos ![GitHub Repo Stars](https://img.shields.io/github/stars/alibaba/nacos) ![GitHub last commit](https://img.shields.io/github/last-commit/alibaba/nacos)](https://github.com/alibaba/nacos)** <kbd>��� 33.4k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Dynamic service discovery, configuration and service management platform for building cloud native applications.
+> **[Nacos ![GitHub Repo Stars](https://img.shields.io/github/stars/alibaba/nacos) ![GitHub last commit](https://img.shields.io/github/last-commit/alibaba/nacos)](https://github.com/alibaba/nacos)** <kbd>★ 33.4k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Dynamic service discovery, configuration and service management platform for building cloud native applications.
 
 > **[Quarkus ![GitHub Repo Stars](https://img.shields.io/github/stars/quarkusio/quarkus) ![GitHub last commit](https://img.shields.io/github/last-commit/quarkusio/quarkus)](https://github.com/quarkusio/quarkus)** <kbd>★ 15.9k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Kubernetes stack tailored for the HotSpot and Graal VM.
 
