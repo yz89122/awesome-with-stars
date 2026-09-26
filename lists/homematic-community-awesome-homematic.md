@@ -7,11 +7,11 @@
 
 ## Contents
 
-- [Community](#community)
+- [Community](#community-ressources)
 - [Documentation](#documentation)
 - [Mobile Apps](#mobile-apps)
 - [CCU Alternatives](#ccu-alternatives)
-- [Alternative Sensors and Actuators](#alternative-sensors-and-actuators)
+- [Alternative Sensors, Actuators and Hardware Modifications](#alternative-sensors-actuators-and-hardware-modifications)
 - [CCU Addons](#ccu-addons)
 - [Interfacing Software](#interfacing-software)
 - [Misc Software](#misc-software)
@@ -21,7 +21,9 @@
 - [License](License)
 
 
-## Community Ressources (mostly german language)
+## Community Ressources 
+
+(mostly german language)
 
 * [Haus Automatisierung](https://haus-automatisierung.com/) - News, Blog, Youtube, Tutorials, ...
 * [Homematic Forum](https://homematic-forum.de/forum/) - Diskussions-Foren
@@ -60,11 +62,10 @@
 ## CCU Alternatives
 
 * [debmatic ![GitHub Repo Stars](https://img.shields.io/github/stars/alexreinert/debmatic) ![GitHub last commit](https://img.shields.io/github/last-commit/alexreinert/debmatic)](https://github.com/alexreinert/debmatic) - Install the Homematic OCCU on Debian based amd64, armhf and arm64 systems (Debian, Ubuntu, Raspbian, Armbian)
-* [Homegear](https://homegear.eu/index.php/Main_Page) - Free and open source program to interface your smart home devices with your home automation software or your own scripts.
-* [OCCU ![GitHub Repo Stars](https://img.shields.io/github/stars/eq-3/occu) ![GitHub last commit](https://img.shields.io/github/last-commit/eq-3/occu)](https://github.com/eq-3/occu) - The HM-OCCU-SDK published by eQ-3, the base of debmatic, piVCCU and OpenCCU.
+software or your own scripts.
 * [OpenCCU ![GitHub Repo Stars](https://img.shields.io/github/stars/OpenCCU/OpenCCU) ![GitHub last commit](https://img.shields.io/github/last-commit/OpenCCU/OpenCCU)](https://github.com/OpenCCU/OpenCCU) - Lightweight, OCCU and Linux/buildroot-based distribution for running a HomeMatic CCU on embedded devices like the RaspberryPi, x86/ARM or as virtual appliance (formerly known as RaspberryMatic).
+* [openccu-lite ![GitHub Repo Stars](https://img.shields.io/github/stars/hobbyquaker/openccu-lite) ![GitHub last commit](https://img.shields.io/github/last-commit/hobbyquaker/openccu-lite)](https://github.com/hobbyquaker/openccu-lite) - Fork of OpenCCU: Homematic CCU firmware without ReGaHSS and with new web interface.
 * [piVCCU ![GitHub Repo Stars](https://img.shields.io/github/stars/alexreinert/piVCCU) ![GitHub last commit](https://img.shields.io/github/last-commit/alexreinert/piVCCU)](https://github.com/alexreinert/piVCCU) - Install the original Homematic CCU firmware inside a virtualized container (lxc) on Raspbian or Armbian.
-
 
 ## Alternative Sensors, Actuators and Hardware Modifications
 
@@ -83,10 +84,10 @@
 
 * [CCU Historian](https://ccu-historian.de/) - Langzeit Archiv und Graphen.
 * [ccu-addon-mui ![GitHub Repo Stars](https://img.shields.io/github/stars/firsttris/ccu-addon-mui) ![GitHub last commit](https://img.shields.io/github/last-commit/firsttris/ccu-addon-mui)](https://github.com/firsttris/ccu-addon-mui) - Moderne, responsive Progressive Web App (PWA) für die CCU3 mit integriertem WebSocket-Server.
-* [CUxD ![GitHub Repo Stars](https://img.shields.io/github/stars/jens-maus/cuxd) ![GitHub last commit](https://img.shields.io/github/last-commit/jens-maus/cuxd)](https://github.com/jens-maus/cuxd) - Der "Leatherman" f��r die CCU. Verbindet FS20, ... (💵 EnOcean, ...), stellt virtuelle Geräte und hilfreiche Tools zur Verfügung.
+* [CUxD ![GitHub Repo Stars](https://img.shields.io/github/stars/jens-maus/cuxd) ![GitHub last commit](https://img.shields.io/github/last-commit/jens-maus/cuxd)](https://github.com/jens-maus/cuxd) - Der "Leatherman" für die CCU. Verbindet FS20, ... (💵 EnOcean, ...), stellt virtuelle Geräte und hilfreiche Tools zur Verfügung.
 * [CUxD-Highcharts ![GitHub Repo Stars](https://img.shields.io/github/stars/homematic-community/CUxD-Highcharts) ![GitHub last commit](https://img.shields.io/github/last-commit/homematic-community/CUxD-Highcharts)](https://github.com/homematic-community/CUxD-Highcharts) - Visualisiert CUxD DEVLOGS mit Highcharts/Highstock (verwaist, Maintainer gesucht).
 * [Email ![GitHub Repo Stars](https://img.shields.io/github/stars/homematic-community/hm_email) ![GitHub last commit](https://img.shields.io/github/last-commit/homematic-community/hm_email)](https://github.com/homematic-community/hm_email) - HomeMatic CCU Addon für den Email Versand.
-* [HAP-HomeMatic ![GitHub Repo Stars](https://img.shields.io/github/stars/thkl/hap-homematic) ![GitHub last commit](https://img.shields.io/github/last-commit/thkl/hap-homematic)](https://github.com/thkl/hap-homematic) - OpenCCU / CCU3 addon to access your HomeMatic devices from HomeKit. Its much like https://github.com/thkl/homebridge-homematic but without homebridge (archived).
+* [hm2mqtt.js ![GitHub Repo Stars](https://img.shields.io/github/stars/hobbyquaker/hm2mqtt.js) ![GitHub last commit](https://img.shields.io/github/last-commit/hobbyquaker/hm2mqtt.js)](https://github.com/hobbyquaker/hm2mqtt.js) - Connect CCU to MQTT, Home Assistant auto discovery, follows [mqtt-smarthome convention ![GitHub Repo Stars](https://img.shields.io/github/stars/mqtt-smarthome/mqtt-smarthome) ![GitHub last commit](https://img.shields.io/github/last-commit/mqtt-smarthome/mqtt-smarthome)](https://github.com/mqtt-smarthome/mqtt-smarthome)
 * [hm-influxdb2 ![GitHub Repo Stars](https://img.shields.io/github/stars/cthil/hm-influxdb2) ![GitHub last commit](https://img.shields.io/github/last-commit/cthil/hm-influxdb2)](https://github.com/cthil/hm-influxdb2) - Addon for the CCU3/OpenCCU to log data from devices into an InfluxDB2.
 * [hm-print ![GitHub Repo Stars](https://img.shields.io/github/stars/homematic-community/hm-print) ![GitHub last commit](https://img.shields.io/github/last-commit/homematic-community/hm-print)](https://github.com/homematic-community/hm-print) - CCU Programme drucken.
 * [hm-sonos ![GitHub Repo Stars](https://img.shields.io/github/stars/homematic-community/hm-sonos) ![GitHub last commit](https://img.shields.io/github/last-commit/homematic-community/hm-sonos)](https://github.com/homematic-community/hm-sonos) - HomeMatic CCU Addon zur Steuerung von Sonos Playern.
@@ -112,7 +113,6 @@
 * [CCU-AI-MCP ![GitHub Repo Stars](https://img.shields.io/github/stars/mdzio/ccu-ai-mcp) ![GitHub last commit](https://img.shields.io/github/last-commit/mdzio/ccu-ai-mcp)](https://github.com/mdzio/ccu-ai-mcp) - MCP-Server für OpenCCU/CCU, gibt KI-Assistenten (LLMs) über konfigurierbare HM-Skripte Zugriff auf das Smart Home.
 * [CCU-Jack ![GitHub Repo Stars](https://img.shields.io/github/stars/mdzio/ccu-jack) ![GitHub last commit](https://img.shields.io/github/last-commit/mdzio/ccu-jack)](https://github.com/mdzio/ccu-jack) - CCU-Jack bietet einen einfachen und sicheren REST-basierten Zugriff auf die CCU, auch als Addon verfügbar.
 * [ccu-mcp ![GitHub Repo Stars](https://img.shields.io/github/stars/claymore666/ccu-mcp) ![GitHub last commit](https://img.shields.io/github/last-commit/claymore666/ccu-mcp)](https://github.com/claymore666/ccu-mcp) - MCP server enabling AI assistants to control Homematic devices via the CCU's JSON-RPC API, no addon required.
-* [hm2mqtt.js ![GitHub Repo Stars](https://img.shields.io/github/stars/hobbyquaker/hm2mqtt.js) ![GitHub last commit](https://img.shields.io/github/last-commit/hobbyquaker/hm2mqtt.js)](https://github.com/hobbyquaker/hm2mqtt.js) - Node.js based interface between Homematic and MQTT.
 * [homebridge-homematic ![GitHub Repo Stars](https://img.shields.io/github/stars/thkl/homebridge-homematic) ![GitHub last commit](https://img.shields.io/github/last-commit/thkl/homebridge-homematic)](https://github.com/thkl/homebridge-homematic) - [Homebridge ![GitHub Repo Stars](https://img.shields.io/github/stars/nfarina/homebridge) ![GitHub last commit](https://img.shields.io/github/last-commit/nfarina/homebridge)](https://github.com/nfarina/homebridge) Plugin zur Einbindung von Homematic Geräten in HomeKit.
 * [homebridge-homematicip ![GitHub Repo Stars](https://img.shields.io/github/stars/marcsowen/homebridge-homematicip) ![GitHub last commit](https://img.shields.io/github/last-commit/marcsowen/homebridge-homematicip)](https://github.com/marcsowen/homebridge-homematicip) - [Homebridge ![GitHub Repo Stars](https://img.shields.io/github/stars/nfarina/homebridge) ![GitHub last commit](https://img.shields.io/github/last-commit/nfarina/homebridge)](https://github.com/nfarina/homebridge) Plugin zur Einbindung von Homematic IP mit HmIP-HAP via Cloud.
 * [homematicip-hcu ![GitHub Repo Stars](https://img.shields.io/github/stars/Ediminator/homematicip-hcu) ![GitHub last commit](https://img.shields.io/github/last-commit/Ediminator/homematicip-hcu)](https://github.com/Ediminator/homematicip-hcu) - [Home Assistant](https://www.home-assistant.io/) Integration zur lokalen Anbindung der Homematic IP Home Control Unit (HCU) ohne Cloud.
@@ -154,6 +154,7 @@
 * [homematic-rega ![GitHub Repo Stars](https://img.shields.io/github/stars/hobbyquaker/homematic-rega) ![GitHub last commit](https://img.shields.io/github/last-commit/hobbyquaker/homematic-rega)](https://github.com/hobbyquaker/homematic-rega) - Node.js Homematic CCU ReGaHSS Remote Script Interface.
 * [homematic-xmlrpc ![GitHub Repo Stars](https://img.shields.io/github/stars/hobbyquaker/homematic-xmlrpc) ![GitHub last commit](https://img.shields.io/github/last-commit/hobbyquaker/homematic-xmlrpc)](https://github.com/hobbyquaker/homematic-xmlrpc) - Xmlrpc client and server Node.js module.
 * [homematicip-rest-api ![GitHub Repo Stars](https://img.shields.io/github/stars/hahn-th/homematicip-rest-api) ![GitHub last commit](https://img.shields.io/github/last-commit/hahn-th/homematicip-rest-api)](https://github.com/hahn-th/homematicip-rest-api) - Python wrapper for the homematicIP REST API (Cloud / Access Point Based).
+* [occulite-client ![GitHub Repo Stars](https://img.shields.io/github/stars/hobbyquaker/occulite-client) ![GitHub last commit](https://img.shields.io/github/last-commit/hobbyquaker/occulite-client)](https://github.com/hobbyquaker/occulite-client) - Typescript client for openccu-lite.
 * [openccu-loom-client ![GitHub Repo Stars](https://img.shields.io/github/stars/SukramJ/openccu-loom-client) ![GitHub last commit](https://img.shields.io/github/last-commit/SukramJ/openccu-loom-client)](https://github.com/SukramJ/openccu-loom-client) - Async Python REST + WebSocket client for the OpenCCU-Loom daemon.
 * [pmatic ![GitHub Repo Stars](https://img.shields.io/github/stars/LarsMichelsen/pmatic) ![GitHub last commit](https://img.shields.io/github/last-commit/LarsMichelsen/pmatic)](https://github.com/LarsMichelsen/pmatic) - Python API for Homematic. Easy to use.
 
@@ -166,6 +167,7 @@
 * [Mediola](https://www.mediola.com/) - 💵
 * [OpenHAB](https://www.openhab.org/) - via [Homematic Binding](https://www.openhab.org/addons/bindings/homematic/).
 * [Pimatic](https://pimatic.org/)
+* [Smart Home Engine ("she") ![GitHub Repo Stars](https://img.shields.io/github/stars/hobbyquaker/she) ![GitHub last commit](https://img.shields.io/github/last-commit/hobbyquaker/she)](https://github.com/hobbyquaker/she)
 * [SmartHomeNG](https://www.smarthomeng.de/) - via [Plugins ![GitHub Repo Stars](https://img.shields.io/github/stars/smarthomeNG/plugins) ![GitHub last commit](https://img.shields.io/github/last-commit/smarthomeNG/plugins)](https://github.com/smarthomeNG/plugins).
 
 ## Misc
