@@ -930,7 +930,7 @@ _Libraries related to the financial domain._
 
 > **[Stripe ![GitHub Repo Stars](https://img.shields.io/github/stars/stripe/stripe-java) ![GitHub last commit](https://img.shields.io/github/last-commit/stripe/stripe-java)](https://github.com/stripe/stripe-java)** <kbd>★ 1.0k</kbd> <kbd>MIT</kbd> 🟢<br>Integration with the Stripe API.
 
-> **[ta4j ![GitHub Repo Stars](https://img.shields.io/github/stars/ta4j/ta4j) ![GitHub last commit](https://img.shields.io/github/last-commit/ta4j/ta4j)](https://github.com/ta4j/ta4j)** <kbd>★ 2.5k</kbd> ���<br>Library for technical analysis.
+> **[ta4j ![GitHub Repo Stars](https://img.shields.io/github/stars/ta4j/ta4j) ![GitHub last commit](https://img.shields.io/github/last-commit/ta4j/ta4j)](https://github.com/ta4j/ta4j)** <kbd>★ 2.5k</kbd> 🟢<br>Library for technical analysis.
 
 > **[Wickra ![GitHub Repo Stars](https://img.shields.io/github/stars/wickra-lib/wickra) ![GitHub last commit](https://img.shields.io/github/last-commit/wickra-lib/wickra)](https://github.com/wickra-lib/wickra)** <kbd>★ 56</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Technical-analysis library with 514 streaming O(1)-per-tick indicators on a native Rust core, on Maven Central as org.wickra:wickra; more indicators and incremental updates than the pure-Java ta4j.
 
@@ -1392,7 +1392,7 @@ _Tools for creating and managing microservices._
 
 > **[Micronaut ![GitHub Repo Stars](https://img.shields.io/github/stars/micronaut-projects/micronaut-core) ![GitHub last commit](https://img.shields.io/github/last-commit/micronaut-projects/micronaut-core)](https://github.com/micronaut-projects/micronaut-core)** <kbd>★ 6.4k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Modern full-stack framework with focus on modularity, minimal memory footprint and startup time.
 
-> **[Nacos ![GitHub Repo Stars](https://img.shields.io/github/stars/alibaba/nacos) ![GitHub last commit](https://img.shields.io/github/last-commit/alibaba/nacos)](https://github.com/alibaba/nacos)** <kbd>★ 33.4k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Dynamic service discovery, configuration and service management platform for building cloud native applications.
+> **[Nacos ![GitHub Repo Stars](https://img.shields.io/github/stars/alibaba/nacos) ![GitHub last commit](https://img.shields.io/github/last-commit/alibaba/nacos)](https://github.com/alibaba/nacos)** <kbd>��� 33.4k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Dynamic service discovery, configuration and service management platform for building cloud native applications.
 
 > **[Quarkus ![GitHub Repo Stars](https://img.shields.io/github/stars/quarkusio/quarkus) ![GitHub last commit](https://img.shields.io/github/last-commit/quarkusio/quarkus)](https://github.com/quarkusio/quarkus)** <kbd>★ 15.9k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Kubernetes stack tailored for the HotSpot and Graal VM.
 
