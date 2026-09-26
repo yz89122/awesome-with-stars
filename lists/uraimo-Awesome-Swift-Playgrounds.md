@@ -224,7 +224,7 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 
 ### Metal
 
-* [Metalbrot ![GitHub Repo Stars](https://img.shields.io/github/stars/jtbandes/metalbrot-playground) ![GitHub last commit](https://img.shields.io/github/last-commit/jtbandes/metalbrot-playground)](https://github.com/jtbandes/metalbrot-playground) - Interactive playground that draws the Mandelbrot fractal with Metal. 🌟
+* [Metalbrot ![GitHub Repo Stars](https://img.shields.io/github/stars/jtbandes/metalbrot-playground) ![GitHub last commit](https://img.shields.io/github/last-commit/jtbandes/metalbrot-playground)](https://github.com/jtbandes/metalbrot-playground) - Interactive playground that draws the Mandelbrot fractal with Metal. ����
 * [METAL Playground ![GitHub Repo Stars](https://img.shields.io/github/stars/haawa799/METAL_Playground) ![GitHub last commit](https://img.shields.io/github/last-commit/haawa799/METAL_Playground)](https://github.com/haawa799/METAL_Playground) - Apple Metal framework playground. 🌟 ⏳
 
 ### Animations
@@ -252,7 +252,7 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 * [Bach Playground ![GitHub Repo Stars](https://img.shields.io/github/stars/dreamwieber/BachPlayground) ![GitHub last commit](https://img.shields.io/github/last-commit/dreamwieber/BachPlayground)](https://github.com/dreamwieber/BachPlayground) - A Simple Swift Playground that plays a brief piece by Bach with AVAudioEngine and AVMIDIPlayer.
 * [PlayerNode Playground ![GitHub Repo Stars](https://img.shields.io/github/stars/genedelisa/PlayerNodePlayground) ![GitHub last commit](https://img.shields.io/github/last-commit/genedelisa/PlayerNodePlayground)](https://github.com/genedelisa/PlayerNodePlayground) - Playground using AVAudioEngine with a playernode and effects to play an audio file. 🌟
 * [Miles ![GitHub Repo Stars](https://img.shields.io/github/stars/lalomts/Miles) ![GitHub last commit](https://img.shields.io/github/last-commit/lalomts/Miles)](https://github.com/lalomts/Miles) - A Swift Playground that creates jazz improvisations in any key using AudioToolbox and AVFoundation. 
-* [Rhythm Snap ![GitHub Repo Stars](https://img.shields.io/github/stars/carlosmbe/Rhythm-Snap) ![GitHub last commit](https://img.shields.io/github/last-commit/carlosmbe/Rhythm-Snap)](https://github.com/carlosmbe/Rhythm-Snap) - A Swift Playground using Vision and AVFoundation to help you practice rhythm in a fun way.���
+* [Rhythm Snap ![GitHub Repo Stars](https://img.shields.io/github/stars/carlosmbe/Rhythm-Snap) ![GitHub last commit](https://img.shields.io/github/last-commit/carlosmbe/Rhythm-Snap)](https://github.com/carlosmbe/Rhythm-Snap) - A Swift Playground using Vision and AVFoundation to help you practice rhythm in a fun way.🍁
 
 
 ## Mathematics
