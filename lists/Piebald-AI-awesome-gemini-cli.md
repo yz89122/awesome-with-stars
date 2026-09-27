@@ -254,6 +254,7 @@ Services that expose Gemini CLI functionality through standard API protocols.
 ## Prompts
 
 - [gemini-cli-prompt-library ![GitHub Repo Stars](https://img.shields.io/github/stars/harish-garg/gemini-cli-prompt-library) ![GitHub last commit](https://img.shields.io/github/last-commit/harish-garg/gemini-cli-prompt-library)](https://github.com/harish-garg/gemini-cli-prompt-library) - 30+ professional prompts for Gemini CLI.
+- [OrcaPromptVault ![GitHub Repo Stars](https://img.shields.io/github/stars/Continuum-AI-Corp/OrcaPromptVault) ![GitHub last commit](https://img.shields.io/github/last-commit/Continuum-AI-Corp/OrcaPromptVault)](https://github.com/Continuum-AI-Corp/OrcaPromptVault) - Dated archive of the system prompts and tool schemas shipped AI agents send, including the one Gemini CLI itself puts on the wire.
 
 ## Education & Study Tools
 
