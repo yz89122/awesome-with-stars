@@ -1412,6 +1412,7 @@ _Tools that generate Go code._
 - [jennifer ![GitHub Repo Stars](https://img.shields.io/github/stars/dave/jennifer) ![GitHub last commit](https://img.shields.io/github/last-commit/dave/jennifer)](https://github.com/dave/jennifer) - Generate arbitrary Go code without templates.
 - [oapi-codegen ![GitHub Repo Stars](https://img.shields.io/github/stars/deepmap/oapi-codegen) ![GitHub last commit](https://img.shields.io/github/last-commit/deepmap/oapi-codegen)](https://github.com/deepmap/oapi-codegen) - This package contains a set of utilities for generating Go boilerplate code for services based on OpenAPI 3.0 API definitions.
 - [protoc-gen-httpgo ![GitHub Repo Stars](https://img.shields.io/github/stars/MUlt1mate/protoc-gen-httpgo) ![GitHub last commit](https://img.shields.io/github/last-commit/MUlt1mate/protoc-gen-httpgo)](https://github.com/MUlt1mate/protoc-gen-httpgo) - Generate HTTP server and client from protobuf.
+- [protoc-gen-mcp ![GitHub Repo Stars](https://img.shields.io/github/stars/easyp-tech/protoc-gen-mcp) ![GitHub last commit](https://img.shields.io/github/last-commit/easyp-tech/protoc-gen-mcp)](https://github.com/easyp-tech/protoc-gen-mcp) - Generate typed MCP tools, prompts, and resources from Protocol Buffers.
 - [typeregistry ![GitHub Repo Stars](https://img.shields.io/github/stars/xiaoxin01/typeregistry) ![GitHub last commit](https://img.shields.io/github/last-commit/xiaoxin01/typeregistry)](https://github.com/xiaoxin01/typeregistry) - A library to create type dynamically.
 
 **[⬆ back to top](#contents)**
