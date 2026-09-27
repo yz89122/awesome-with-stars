@@ -649,6 +649,7 @@ Please see [CONTRIBUTING ![GitHub Repo Stars](https://img.shields.io/github/star
 ### Markup and CSS
 *Libraries for working with markup and CSS formats.*
 
+* [Carve ![GitHub Repo Stars](https://img.shields.io/github/stars/markup-carve/carve-php) ![GitHub last commit](https://img.shields.io/github/last-commit/markup-carve/carve-php)](https://github.com/markup-carve/carve-php) - A PHP parser for [Carve](https://markup-carve.github.io/carve/), a lightweight markup language derived from Markdown and Djot.
 * [Cebe Markdown ![GitHub Repo Stars](https://img.shields.io/github/stars/cebe/markdown) ![GitHub last commit](https://img.shields.io/github/last-commit/cebe/markdown)](https://github.com/cebe/markdown) - A fast and extensible Markdown parser.
 * [CommonMark PHP ![GitHub Repo Stars](https://img.shields.io/github/stars/thephpleague/commonmark) ![GitHub last commit](https://img.shields.io/github/last-commit/thephpleague/commonmark)](https://github.com/thephpleague/commonmark) - Highly-extensible Markdown parser which fully supports the [CommonMark spec](https://spec.commonmark.org/).
 * [Decoda ![GitHub Repo Stars](https://img.shields.io/github/stars/milesj/decoda) ![GitHub last commit](https://img.shields.io/github/last-commit/milesj/decoda)](https://github.com/milesj/decoda) - A lightweight markup parser library.
