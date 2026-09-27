@@ -2128,6 +2128,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [solanda-ui](https://gitlab.com/federa-social/libraries/solanda-ui) - Minimalist Web Components UI library for Vue, Nuxt, React, Angular, Svelte, and vanilla JavaScript.
 * [xiri-ng ![GitHub Repo Stars](https://img.shields.io/github/stars/xiriframework/xiri-ng) ![GitHub last commit](https://img.shields.io/github/last-commit/xiriframework/xiri-ng)](https://github.com/xiriframework/xiri-ng) - A configuration-driven Angular component library where a [Go backend ![GitHub Repo Stars](https://img.shields.io/github/stars/xiriframework/xiri-go) ![GitHub last commit](https://img.shields.io/github/last-commit/xiriframework/xiri-go)](https://github.com/xiriframework/xiri-go) controls the UI via JSON structures.
 * [crosskit ![GitHub Repo Stars](https://img.shields.io/github/stars/saeedkolivand/crosskit) ![GitHub last commit](https://img.shields.io/github/last-commit/saeedkolivand/crosskit)](https://github.com/saeedkolivand/crosskit) - Framework-agnostic UI components that use a single behavior core and stylesheet with adapters for React, Vue, Svelte, and Angular.
+* [ngx-semantic ![GitHub Repo Stars](https://img.shields.io/github/stars/ngx-semantic/ngx-semantic) ![GitHub last commit](https://img.shields.io/github/last-commit/ngx-semantic/ngx-semantic)](https://github.com/ngx-semantic/ngx-semantic) - A modern Angular-native idiomatic port of Semantic UI for the Angular ecosystem.
 
 ### UI Libraries built on Bootstrap
 
