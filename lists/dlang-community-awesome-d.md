@@ -320,7 +320,7 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 
 *Full stack web frameworks.*
 
-* [vibe.d](https://vibed.org/) - Asynchronous I/O Web Framework that doesn’t get in your way, written in D.
+* [vibe.d](https://vibed.org/) - Asynchronous I/O Web Framework that doesn���t get in your way, written in D.
 * [arsd ![GitHub Repo Stars](https://img.shields.io/github/stars/adamdruppe/arsd) ![GitHub last commit](https://img.shields.io/github/last-commit/adamdruppe/arsd)](https://github.com/adamdruppe/arsd) - Adam D. Ruppe's web framework. (See `arsd/cgi.d` for the CGI/FastCGI/SCGI/webserver component.)
 * [cmsed ![GitHub Repo Stars](https://img.shields.io/github/stars/rikkimax/Cmsed) ![GitHub last commit](https://img.shields.io/github/last-commit/rikkimax/Cmsed)](https://github.com/rikkimax/Cmsed) - A component library for Vibe that functions as a CMS.
 
