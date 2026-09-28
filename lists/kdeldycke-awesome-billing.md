@@ -377,7 +377,7 @@ All the invoicing terms & conditions are materialzed by the contract signed betw
 
 - [Is this what Enterprise mean?](https://threadreaderapp.com/thread/1389946268764475394.html) - When contracts, invoicing and payments are not working together, you end up alienating your big enterprise customers. See the associated HN comments [on bulk license purchase](https://news.ycombinator.com/item?id=27053246).
 
-- [Entitlements untangled: The modern way to software monetization](https://www.stigg.io/blog-posts/entitlements-untangled-the-modern-way-to-software-monetization) - “The concept of Entitlements encapsulates the feature access settings under various product variants (aka Pricing Plans or Packages), bridging the gap between how a product is sold and how it behaves for a variant. In essence, entitlements are a set of permissions defining what a customer (paying or non-paying) can do with your software application.��
+- [Entitlements untangled: The modern way to software monetization](https://www.stigg.io/blog-posts/entitlements-untangled-the-modern-way-to-software-monetization) - “The concept of Entitlements encapsulates the feature access settings under various product variants (aka Pricing Plans or Packages), bridging the gap between how a product is sold and how it behaves for a variant. In essence, entitlements are a set of permissions defining what a customer (paying or non-paying) can do with your software application.”
 
 - [CUDs vs. Commit Contracts vs. SUDs in Google Cloud](https://66degrees.com/insights/comparing-cuds-suds-and-commits-in-google-cloud) - Explains the differences between various types of discounts and usage commitments in GCP.
 

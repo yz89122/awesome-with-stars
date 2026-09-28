@@ -172,6 +172,8 @@ Inspired by the [awesome ![GitHub Repo Stars](https://img.shields.io/github/star
 - [irssi ![GitHub Repo Stars](https://img.shields.io/github/stars/irssi/irssi) ![GitHub last commit](https://img.shields.io/github/last-commit/irssi/irssi)](https://github.com/irssi/irssi) - IRC chat client.
 - [kirc ![GitHub Repo Stars](https://img.shields.io/github/stars/mcpcpc/kirc) ![GitHub last commit](https://img.shields.io/github/last-commit/mcpcpc/kirc)](https://github.com/mcpcpc/kirc) - Tiny IRC client.
 - [concord ![GitHub Repo Stars](https://img.shields.io/github/stars/chojs23/concord) ![GitHub last commit](https://img.shields.io/github/last-commit/chojs23/concord)](https://github.com/chojs23/concord) - Discord client.
+- [signal-cli ![GitHub Repo Stars](https://img.shields.io/github/stars/AsamK/signal-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/AsamK/signal-cli)](https://github.com/AsamK/signal-cli) - Signal client.
+- [tlgr ![GitHub Repo Stars](https://img.shields.io/github/stars/tlgrcli/tlgr) ![GitHub last commit](https://img.shields.io/github/last-commit/tlgrcli/tlgr)](https://github.com/tlgrcli/tlgr) - Telegram client.
 
 ## Development
 
@@ -339,6 +341,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [linear-tui ![GitHub Repo Stars](https://img.shields.io/github/stars/roeyazroel/linear-tui) ![GitHub last commit](https://img.shields.io/github/last-commit/roeyazroel/linear-tui)](https://github.com/roeyazroel/linear-tui) - Linear TUI client.
 - [jiratui ![GitHub Repo Stars](https://img.shields.io/github/stars/whyisdifficult/jiratui) ![GitHub last commit](https://img.shields.io/github/last-commit/whyisdifficult/jiratui)](https://github.com/whyisdifficult/jiratui) - TUI app for Jira.
 - [tiki ![GitHub Repo Stars](https://img.shields.io/github/stars/boolean-maybe/tiki) ![GitHub last commit](https://img.shields.io/github/last-commit/boolean-maybe/tiki)](https://github.com/boolean-maybe/tiki) - Markdown-based workflow builder.
+- [yapsnap ![GitHub Repo Stars](https://img.shields.io/github/stars/kouhxp/yapsnap) ![GitHub last commit](https://img.shields.io/github/last-commit/kouhxp/yapsnap)](https://github.com/kouhxp/yapsnap) - Transcribe video URLs, audio files or meetings on your machine.
 
 ### Time Tracking
 
@@ -422,6 +425,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [clevercli ![GitHub Repo Stars](https://img.shields.io/github/stars/clevercli/clevercli) ![GitHub last commit](https://img.shields.io/github/last-commit/clevercli/clevercli)](https://github.com/clevercli/clevercli) - Collection of ChatGPT powered utilities.
 - [OctoType ![GitHub Repo Stars](https://img.shields.io/github/stars/mahlquistj/octotype) ![GitHub last commit](https://img.shields.io/github/last-commit/mahlquistj/octotype)](https://github.com/mahlquistj/octotype) - A customizable typing trainer.
 - [gittype ![GitHub Repo Stars](https://img.shields.io/github/stars/unhappychoice/gittype) ![GitHub last commit](https://img.shields.io/github/last-commit/unhappychoice/gittype)](https://github.com/unhappychoice/gittype) - Turn your source code into typing challenges.
+- [gravitype ![GitHub Repo Stars](https://img.shields.io/github/stars/kanakOS01/gravitype) ![GitHub last commit](https://img.shields.io/github/last-commit/kanakOS01/gravitype)](https://github.com/kanakOS01/gravitype) - Typing game where words fall from the sky.
 - [amazon-orders ![GitHub Repo Stars](https://img.shields.io/github/stars/alexdlaird/amazon-orders) ![GitHub last commit](https://img.shields.io/github/last-commit/alexdlaird/amazon-orders)](https://github.com/alexdlaird/amazon-orders) - Retrieve Amazon order history.
 
 ### macOS
@@ -458,6 +462,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [rustnet ![GitHub Repo Stars](https://img.shields.io/github/stars/domcyrus/rustnet) ![GitHub last commit](https://img.shields.io/github/last-commit/domcyrus/rustnet)](https://github.com/domcyrus/rustnet) - Network monitoring with process identification and deep packet inspection.
 - [sshuttle ![GitHub Repo Stars](https://img.shields.io/github/stars/sshuttle/sshuttle) ![GitHub last commit](https://img.shields.io/github/last-commit/sshuttle/sshuttle)](https://github.com/sshuttle/sshuttle) - Transparent proxy server that works as a poor man's VPN.
 - [tldx ![GitHub Repo Stars](https://img.shields.io/github/stars/brandonyoungdev/tldx) ![GitHub last commit](https://img.shields.io/github/last-commit/brandonyoungdev/tldx)](https://github.com/brandonyoungdev/tldx) - Bulk domain availability checker.
+- [vortix ![GitHub Repo Stars](https://img.shields.io/github/stars/Harry-kp/vortix) ![GitHub last commit](https://img.shields.io/github/last-commit/Harry-kp/vortix)](https://github.com/Harry-kp/vortix) - Featureful VPN UI (WireGuard and OpenVPN.)
 
 ### Theming and Customization
 
@@ -814,6 +819,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [cli-fireplace ![GitHub Repo Stars](https://img.shields.io/github/stars/dolsup/cli-fireplace) ![GitHub last commit](https://img.shields.io/github/last-commit/dolsup/cli-fireplace)](https://github.com/dolsup/cli-fireplace) - Digital fireplace.
 - [gitlogue ![GitHub Repo Stars](https://img.shields.io/github/stars/unhappychoice/gitlogue) ![GitHub last commit](https://img.shields.io/github/last-commit/unhappychoice/gitlogue)](https://github.com/unhappychoice/gitlogue) - Cinematic git commit replay.
 - [drift ![GitHub Repo Stars](https://img.shields.io/github/stars/phlx0/drift) ![GitHub last commit](https://img.shields.io/github/last-commit/phlx0/drift)](https://github.com/phlx0/drift) - Multiple animated scenes.
+- [cbirds ![GitHub Repo Stars](https://img.shields.io/github/stars/clainstone/cbirds) ![GitHub last commit](https://img.shields.io/github/last-commit/clainstone/cbirds)](https://github.com/clainstone/cbirds) - A flock of birds simulation.
 
 ## Graphics
 
