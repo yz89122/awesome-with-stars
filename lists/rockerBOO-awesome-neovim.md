@@ -106,7 +106,7 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 
 **(requires Neovim 0.5)**
 
-- [nvim-pio ![GitHub Repo Stars](https://img.shields.io/github/stars/batoaqaa/nvim-pio) ![GitHub last commit](https://img.shields.io/github/last-commit/batoaqaa/nvim-pio)](https://github.com/batoaqaa/nvim-pio) - Asynchronous, zero-hardcoding bridge between PlatformIO and the `clangd` LSP.
+- [batoaqaa/nvim-pio ![GitHub Repo Stars](https://img.shields.io/github/stars/batoaqaa/nvim-pio) ![GitHub last commit](https://img.shields.io/github/last-commit/batoaqaa/nvim-pio)](https://github.com/batoaqaa/nvim-pio) - Asynchronous, zero-hardcoding bridge between PlatformIO and the `clangd` LSP.
 - [romus204/referencer.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/romus204/referencer.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/romus204/referencer.nvim)](https://github.com/romus204/referencer.nvim) - Lightweight, asynchronous that uses the LSP to show references to functions, methods, types and other.
 - [Dan7h3x/signup.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/Dan7h3x/signup.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/Dan7h3x/signup.nvim)](https://github.com/Dan7h3x/signup.nvim) - a little smart `lsp_signature` helper with awesome features.
 <!--lint disable awesome-spell-check-->
@@ -1108,6 +1108,7 @@ then it is not supported:
 - [7KiLL/copybara.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/7KiLL/copybara.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/7KiLL/copybara.nvim)](https://github.com/7KiLL/copybara.nvim) - Copy absolute or relative file paths, line and column references, or an LLM-friendly path and selection snippet to your clipboard.
 - [justinhj/battery.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/justinhj/battery.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/justinhj/battery.nvim)](https://github.com/justinhj/battery.nvim) - Cross-platform battery status detection with a Lua API for statusline integration.
 - [rifen/timescope ![GitHub Repo Stars](https://img.shields.io/github/stars/rifen/timescope) ![GitHub last commit](https://img.shields.io/github/last-commit/rifen/timescope)](https://github.com/rifen/timescope) - Inspect numeric durations in code and view human-readable equivalents as inline virtual text.
+- [ChrisGVE/docshelf.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/ChrisGVE/docshelf.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/ChrisGVE/docshelf.nvim)](https://github.com/ChrisGVE/docshelf.nvim) - Offline API documentation from `devdocs.io`, `Hackage`, `docs.rs`, `pkg.go.dev`, `Sphinx` / `DocC` sites and `Dash` docsets, converted to text for reading and grepping in a buffer, with per-language filtering and automatic updates.
 
 ### CSV Files
 
