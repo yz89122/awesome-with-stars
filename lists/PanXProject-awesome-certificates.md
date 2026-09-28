@@ -165,7 +165,7 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 | <a href="https://www.kaggle.com/learn/intro-to-sql" target="_blank" rel="noopener noreferrer">Intro to SQL</a>                            | Kaggle          | Beginner      | 3     | 🏆     |
 | <a href="https://www.kaggle.com/learn/advanced-sql" target="_blank" rel="noopener noreferrer">Advanced SQL</a>                            | Kaggle          | Intermediate | 4     | 🏆     |
 
-<a href="https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents" target="_blank" rel="noopener noreferrer">⬆️</a>
+<a href="https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents" target="_blank" rel="noopener noreferrer">⬆��</a>
 
 ## Big Data
 
