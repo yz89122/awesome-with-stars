@@ -154,13 +154,13 @@
 - [hapi-graphql ![GitHub Repo Stars](https://img.shields.io/github/stars/SimonDegraeve/hapi-graphql) ![GitHub last commit](https://img.shields.io/github/last-commit/SimonDegraeve/hapi-graphql)](https://github.com/SimonDegraeve/hapi-graphql) - Create a GraphQL HTTP server with Hapi.
 - [hapi-plugin-graphiql ![GitHub Repo Stars](https://img.shields.io/github/stars/rse/hapi-plugin-graphiql) ![GitHub last commit](https://img.shields.io/github/last-commit/rse/hapi-plugin-graphiql)](https://github.com/rse/hapi-plugin-graphiql) - HAPI plugin for GraphiQL integration.
 - [graphql-api-koa ![GitHub Repo Stars](https://img.shields.io/github/stars/jaydenseric/graphql-api-koa) ![GitHub last commit](https://img.shields.io/github/last-commit/jaydenseric/graphql-api-koa)](https://github.com/jaydenseric/graphql-api-koa) - GraphQL Koa middleware that implements GraphQL.js from scratch and supports native ESM.
-- [koa-graphql ![GitHub Repo Stars](https://img.shields.io/github/stars/chentsulin/koa-graphql) ![GitHub last commit](https://img.shields.io/github/last-commit/chentsulin/koa-graphql)](https://github.com/chentsulin/koa-graphql) - GraphQL Koa Middleware.
+- [koa-graphql ![GitHub Repo Stars](https://img.shields.io/github/stars/graphql-community/koa-graphql) ![GitHub last commit](https://img.shields.io/github/last-commit/graphql-community/koa-graphql)](https://github.com/graphql-community/koa-graphql) - GraphQL Koa Middleware.
 - [graphql-koa-scripts ![GitHub Repo Stars](https://img.shields.io/github/stars/ryanhs/graphql-koa-scripts) ![GitHub last commit](https://img.shields.io/github/last-commit/ryanhs/graphql-koa-scripts)](https://github.com/ryanhs/graphql-koa-scripts) - GraphQL Koa 1 file simplified. Useful for quick test.
 - [gql ![GitHub Repo Stars](https://img.shields.io/github/stars/deno-libs/gql) ![GitHub last commit](https://img.shields.io/github/last-commit/deno-libs/gql)](https://github.com/deno-libs/gql) - Universal GraphQL HTTP middleware for Deno.
 - [mercurius ![GitHub Repo Stars](https://img.shields.io/github/stars/mercurius-js/mercurius) ![GitHub last commit](https://img.shields.io/github/last-commit/mercurius-js/mercurius)](https://github.com/mercurius-js/mercurius) - GraphQL plugin for Fastify.
 - [graphql-yoga ![GitHub Repo Stars](https://img.shields.io/github/stars/graphql-hive/graphql-yoga) ![GitHub last commit](https://img.shields.io/github/last-commit/graphql-hive/graphql-yoga)](https://github.com/graphql-hive/graphql-yoga) - A fully featured GraphQL server built on the WHATWG Fetch API for deployment in any JavaScript environment.
 - [graphitejs ![GitHub Repo Stars](https://img.shields.io/github/stars/graphitejs/server) ![GitHub last commit](https://img.shields.io/github/last-commit/graphitejs/server)](https://github.com/graphitejs/server) - Node.js framework for GraphQL.
-- [graphql-helix ![GitHub Repo Stars](https://img.shields.io/github/stars/contrawork/graphql-helix) ![GitHub last commit](https://img.shields.io/github/last-commit/contrawork/graphql-helix)](https://github.com/contrawork/graphql-helix) - A highly evolved GraphQL HTTP Server.
+- [graphql-helix ![GitHub Repo Stars](https://img.shields.io/github/stars/contra/graphql-helix) ![GitHub last commit](https://img.shields.io/github/last-commit/contra/graphql-helix)](https://github.com/contra/graphql-helix) - A highly evolved GraphQL HTTP Server.
 - [pylon ![GitHub Repo Stars](https://img.shields.io/github/stars/getcronit/pylon) ![GitHub last commit](https://img.shields.io/github/last-commit/getcronit/pylon)](https://github.com/getcronit/pylon) - Write full-feature APIs with just functions. No more boilerplate code, no more setup. Just write functions and deploy.
 - [Booster framework](https://booster.cloud/) - Open-source serverless framework that generates GraphQL queries, mutations, and subscriptions from application models.
 
@@ -168,7 +168,7 @@
 
 - [graphql-sequelize ![GitHub Repo Stars](https://img.shields.io/github/stars/mickhansen/graphql-sequelize) ![GitHub last commit](https://img.shields.io/github/last-commit/mickhansen/graphql-sequelize)](https://github.com/mickhansen/graphql-sequelize) - Sequelize helpers for GraphQL.
 - [graphql-bookshelf ![GitHub Repo Stars](https://img.shields.io/github/stars/brysgo/graphql-bookshelf) ![GitHub last commit](https://img.shields.io/github/last-commit/brysgo/graphql-bookshelf)](https://github.com/brysgo/graphql-bookshelf) - Some help defining GraphQL schema around BookshelfJS models.
-- [join-monster ![GitHub Repo Stars](https://img.shields.io/github/stars/acarl005/join-monster) ![GitHub last commit](https://img.shields.io/github/last-commit/acarl005/join-monster)](https://github.com/acarl005/join-monster) - A GraphQL-to-SQL query execution layer for batch data fetching.
+- [join-monster ![GitHub Repo Stars](https://img.shields.io/github/stars/join-monster/join-monster) ![GitHub last commit](https://img.shields.io/github/last-commit/join-monster/join-monster)](https://github.com/join-monster/join-monster) - A GraphQL-to-SQL query execution layer for batch data fetching.
 - [Simfinity.js ![GitHub Repo Stars](https://img.shields.io/github/stars/simtlix/simfinity.js) ![GitHub last commit](https://img.shields.io/github/last-commit/simtlix/simfinity.js)](https://github.com/simtlix/simfinity.js) - Generates GraphQL queries, mutations, relationships, and MongoDB or PostgreSQL storage from GraphQL object types.
 
 ##### PubSub
@@ -177,7 +177,7 @@
 
 #### Custom Scalars
 
-- [graphql-scalars ![GitHub Repo Stars](https://img.shields.io/github/stars/Urigo/graphql-scalars) ![GitHub last commit](https://img.shields.io/github/last-commit/Urigo/graphql-scalars)](https://github.com/Urigo/graphql-scalars) - A library of custom GraphQL Scalars for creating precise type-safe GraphQL schemas.
+- [graphql-scalars ![GitHub Repo Stars](https://img.shields.io/github/stars/graphql-hive/graphql-scalars) ![GitHub last commit](https://img.shields.io/github/last-commit/graphql-hive/graphql-scalars)](https://github.com/graphql-hive/graphql-scalars) - A library of custom GraphQL Scalars for creating precise type-safe GraphQL schemas.
 
 #### Schema Builders
 
@@ -186,7 +186,7 @@
 - [pothos ![GitHub Repo Stars](https://img.shields.io/github/stars/hayes/pothos) ![GitHub last commit](https://img.shields.io/github/last-commit/hayes/pothos)](https://github.com/hayes/pothos) - Plugin-based GraphQL schema builder for TypeScript.
 - [garph ![GitHub Repo Stars](https://img.shields.io/github/stars/stepci/garph) ![GitHub last commit](https://img.shields.io/github/last-commit/stepci/garph)](https://github.com/stepci/garph) - Full-stack framework for building type-safe GraphQL APIs in TypeScript.
 - [gqloom ![GitHub Repo Stars](https://img.shields.io/github/stars/modevol-com/gqloom) ![GitHub last commit](https://img.shields.io/github/last-commit/modevol-com/gqloom)](https://github.com/modevol-com/gqloom) - GraphQL weaver for TypeScript/JavaScript that weaves GraphQL schema and resolvers using Valibot, Zod, or Yup.
-- [fast-graphql ![GitHub Repo Stars](https://img.shields.io/github/stars/idurar/fast-graphql) ![GitHub last commit](https://img.shields.io/github/last-commit/idurar/fast-graphql)](https://github.com/idurar/fast-graphql) - GraphQL tools to structure and combine resolvers and merge schema definitions for Node.js, Next.js, and Apollo Server.
+- [fast-graphql ![GitHub Repo Stars](https://img.shields.io/github/stars/salahlalami/fast-graphql) ![GitHub last commit](https://img.shields.io/github/last-commit/salahlalami/fast-graphql)](https://github.com/salahlalami/fast-graphql) - GraphQL tools to structure and combine resolvers and merge schema definitions for Node.js, Next.js, and Apollo Server.
 
 #### Code Generation & Typed Documents
 
@@ -232,7 +232,7 @@
 - [Apollo Server tools documentation](https://www.apollographql.com/docs/apollo-server/) - Documentation, tutorial and examples for building GraphQL server and connecting to SQL, MongoDB and REST endpoints.
 - [F8 App 2017 ![GitHub Repo Stars](https://img.shields.io/github/stars/fbsamples/f8app) ![GitHub last commit](https://img.shields.io/github/last-commit/fbsamples/f8app)](https://github.com/fbsamples/f8app) - Source code for the official 2017 F8 app, built with React Native, Relay, and GraphQL.
 - [Apollo React example for GitHub GraphQL API ![GitHub Repo Stars](https://img.shields.io/github/stars/katopz/react-apollo-graphql-github-example) ![GitHub last commit](https://img.shields.io/github/last-commit/katopz/react-apollo-graphql-github-example)](https://github.com/katopz/react-apollo-graphql-github-example) - Example using Apollo React with the GitHub GraphQL API and Create React App.
-- [Next.js TypeScript and GraphQL Example ![GitHub Repo Stars](https://img.shields.io/github/stars/zeit/next.js) ![GitHub last commit](https://img.shields.io/github/last-commit/zeit/next.js)](https://github.com/zeit/next.js/tree/canary/examples/with-typescript-graphql) - Type-protected GraphQL example on Next.js running graphql-codegen under the hood.
+- [Next.js TypeScript and GraphQL Example ![GitHub Repo Stars](https://img.shields.io/github/stars/vercel/next.js) ![GitHub last commit](https://img.shields.io/github/last-commit/vercel/next.js)](https://github.com/vercel/next.js/tree/canary/examples/with-typescript-graphql) - Type-protected GraphQL example on Next.js running graphql-codegen under the hood.
 - [GraphQL StackBlitz Starter](https://stackblitz.com/fork/graphql) - Live, editable demo that starts in a browser in about two seconds.
 - [VulcanJS](http://vulcanjs.org) - Full-stack React and GraphQL framework.
 - [RAN Toolkit ![GitHub Repo Stars](https://img.shields.io/github/stars/sly777/ran) ![GitHub last commit](https://img.shields.io/github/last-commit/sly777/ran)](https://github.com/sly777/ran) - Production-ready toolkit/boilerplate with support for GraphQL, SSR, Hot-reload, CSS-in-JS, caching, and more.
@@ -242,9 +242,9 @@
 #### TypeScript Examples
 
 - [Node.js API Starter ![GitHub Repo Stars](https://img.shields.io/github/stars/kriasoft/graphql-starter-kit) ![GitHub last commit](https://img.shields.io/github/last-commit/kriasoft/graphql-starter-kit)](https://github.com/kriasoft/graphql-starter-kit) - Monorepo starter with a code-first GraphQL API, PostgreSQL, React, and Joy UI.
-- [Next.js Apollo TypeScript Starter ![GitHub Repo Stars](https://img.shields.io/github/stars/borisowsky/nextjs-apollo-ts-starter) ![GitHub last commit](https://img.shields.io/github/last-commit/borisowsky/nextjs-apollo-ts-starter)](https://github.com/borisowsky/nextjs-apollo-ts-starter) - Next.js starter project focused on developer experience.
-- [GraphQL Starter ![GitHub Repo Stars](https://img.shields.io/github/stars/cerino-ligutom/GraphQL-Starter) ![GitHub last commit](https://img.shields.io/github/last-commit/cerino-ligutom/GraphQL-Starter)](https://github.com/cerino-ligutom/GraphQL-Starter) - A boilerplate for TypeScript + Node Express + Apollo GraphQL APIs.
-- [Next.js Advanced GraphQL CRUD MongoDB Starter ![GitHub Repo Stars](https://img.shields.io/github/stars/idurar/starter-advanced-graphql-crud-next-js-mongodb) ![GitHub last commit](https://img.shields.io/github/last-commit/idurar/starter-advanced-graphql-crud-next-js-mongodb)](https://github.com/idurar/starter-advanced-graphql-crud-next-js-mongodb) - Generic CRUD starter with an advanced Apollo GraphQL server, Next.js, MongoDB, and TypeScript.
+- [Next.js Apollo TypeScript Starter ![GitHub Repo Stars](https://img.shields.io/github/stars/nikitowsky/next-advanced-apollo-starter) ![GitHub last commit](https://img.shields.io/github/last-commit/nikitowsky/next-advanced-apollo-starter)](https://github.com/nikitowsky/next-advanced-apollo-starter) - Next.js starter project focused on developer experience.
+- [GraphQL Starter ![GitHub Repo Stars](https://img.shields.io/github/stars/cerinoligutom/GraphQL-Starter) ![GitHub last commit](https://img.shields.io/github/last-commit/cerinoligutom/GraphQL-Starter)](https://github.com/cerinoligutom/GraphQL-Starter) - A boilerplate for TypeScript + Node Express + Apollo GraphQL APIs.
+- [Next.js Advanced GraphQL CRUD MongoDB Starter ![GitHub Repo Stars](https://img.shields.io/github/stars/salahlalami/starter-graphql-next-js) ![GitHub last commit](https://img.shields.io/github/last-commit/salahlalami/starter-graphql-next-js)](https://github.com/salahlalami/starter-graphql-next-js) - Generic CRUD starter with an advanced Apollo GraphQL server, Next.js, MongoDB, and TypeScript.
 
 <a name="rb" />
 
@@ -280,7 +280,7 @@
 - [wp-graphql ![GitHub Repo Stars](https://img.shields.io/github/stars/wp-graphql/wp-graphql) ![GitHub last commit](https://img.shields.io/github/last-commit/wp-graphql/wp-graphql)](https://github.com/wp-graphql/wp-graphql) - GraphQL API for WordPress.
 - [graphqlite ![GitHub Repo Stars](https://img.shields.io/github/stars/thecodingmachine/graphqlite) ![GitHub last commit](https://img.shields.io/github/last-commit/thecodingmachine/graphqlite)](https://github.com/thecodingmachine/graphqlite) - Framework agnostic library that allows you to write GraphQL server by annotating your PHP classes.
 - [siler ![GitHub Repo Stars](https://img.shields.io/github/stars/leocavalcante/siler) ![GitHub last commit](https://img.shields.io/github/last-commit/leocavalcante/siler)](https://github.com/leocavalcante/siler) - Plain-old functions providing a declarative API for GraphQL servers with Subscriptions support.
-- [graphql-request-builder ![GitHub Repo Stars](https://img.shields.io/github/stars/dpauli/php-graphql-request-builder) ![GitHub last commit](https://img.shields.io/github/last-commit/dpauli/php-graphql-request-builder)](https://github.com/dpauli/php-graphql-request-builder) - Builds request payload in GraphQL structure.
+- [graphql-request-builder ![GitHub Repo Stars](https://img.shields.io/github/stars/panvid/php-graphql-request-builder) ![GitHub last commit](https://img.shields.io/github/last-commit/panvid/php-graphql-request-builder)](https://github.com/panvid/php-graphql-request-builder) - Builds request payload in GraphQL structure.
 - [Drupal GraphQL](https://www.drupal.org/project/graphql) - Drupal module for crafting and exposing GraphQL schemas.
 - [jerowork/graphql-schema-builder ![GitHub Repo Stars](https://img.shields.io/github/stars/jerowork/graphql-attribute-schema) ![GitHub last commit](https://img.shields.io/github/last-commit/jerowork/graphql-attribute-schema)](https://github.com/jerowork/graphql-attribute-schema) - Easily build your GraphQL schema for webonyx/graphql-php using PHP attributes instead of large configuration arrays.
 
@@ -302,10 +302,10 @@
 - [graphene-gae ![GitHub Repo Stars](https://img.shields.io/github/stars/graphql-python/graphene-gae) ![GitHub last commit](https://img.shields.io/github/last-commit/graphql-python/graphene-gae)](https://github.com/graphql-python/graphene-gae) - Adds GraphQL support to Google AppEngine (GAE).
 - [django-graphiql ![GitHub Repo Stars](https://img.shields.io/github/stars/GraphQL-python-archive/django-graphiql) ![GitHub last commit](https://img.shields.io/github/last-commit/GraphQL-python-archive/django-graphiql)](https://github.com/GraphQL-python-archive/django-graphiql) - Integrate GraphiQL easily into your Django project.
 - [flask-graphql ![GitHub Repo Stars](https://img.shields.io/github/stars/graphql-python/flask-graphql) ![GitHub last commit](https://img.shields.io/github/last-commit/graphql-python/flask-graphql)](https://github.com/graphql-python/flask-graphql) - Adds GraphQL support to your Flask application.
-- [python-graphql-client ![GitHub Repo Stars](https://img.shields.io/github/stars/prisma/python-graphql-client) ![GitHub last commit](https://img.shields.io/github/last-commit/prisma/python-graphql-client)](https://github.com/prisma/python-graphql-client) - Simple GraphQL client for Python 2.7+.
+- [python-graphql-client ![GitHub Repo Stars](https://img.shields.io/github/stars/prisma-labs/python-graphql-client) ![GitHub last commit](https://img.shields.io/github/last-commit/prisma-labs/python-graphql-client)](https://github.com/prisma-labs/python-graphql-client) - Simple GraphQL client for Python 2.7+.
 - [python-graphjoiner ![GitHub Repo Stars](https://img.shields.io/github/stars/healx/python-graphjoiner) ![GitHub last commit](https://img.shields.io/github/last-commit/healx/python-graphjoiner)](https://github.com/healx/python-graphjoiner) - Create GraphQL APIs using joins, SQL or otherwise.
 - [graphene-django ![GitHub Repo Stars](https://img.shields.io/github/stars/graphql-python/graphene-django) ![GitHub last commit](https://img.shields.io/github/last-commit/graphql-python/graphene-django)](https://github.com/graphql-python/graphene-django) - A Django integration for Graphene.
-- [Flask-GraphQL-Auth ![GitHub Repo Stars](https://img.shields.io/github/stars/callsign-viper/Flask-GraphQL-Auth) ![GitHub last commit](https://img.shields.io/github/last-commit/callsign-viper/Flask-GraphQL-Auth)](https://github.com/callsign-viper/Flask-GraphQL-Auth) - An authentication library for Flask inspired from flask-jwt-extended.
+- [Flask-GraphQL-Auth ![GitHub Repo Stars](https://img.shields.io/github/stars/rscarrera27/Flask-GraphQL-Auth) ![GitHub last commit](https://img.shields.io/github/last-commit/rscarrera27/Flask-GraphQL-Auth)](https://github.com/rscarrera27/Flask-GraphQL-Auth) - An authentication library for Flask inspired from flask-jwt-extended.
 - [tartiflette ![GitHub Repo Stars](https://img.shields.io/github/stars/dailymotion/tartiflette) ![GitHub last commit](https://img.shields.io/github/last-commit/dailymotion/tartiflette)](https://github.com/dailymotion/tartiflette) - Schema-first asynchronous GraphQL engine for Python.
 - [tartiflette-aiohttp ![GitHub Repo Stars](https://img.shields.io/github/stars/tartiflette/tartiflette-aiohttp) ![GitHub last commit](https://img.shields.io/github/last-commit/tartiflette/tartiflette-aiohttp)](https://github.com/tartiflette/tartiflette-aiohttp) - Wrapper for exposing Tartiflette GraphQL APIs over HTTP with aiohttp.
 - [Ariadne ![GitHub Repo Stars](https://img.shields.io/github/stars/mirumee/ariadne) ![GitHub last commit](https://img.shields.io/github/last-commit/mirumee/ariadne)](https://github.com/mirumee/ariadne) - Library for implementing GraphQL servers using a schema-first approach. Asynchronous query execution, batteries included for ASGI, WSGI and popular web frameworks with comprehensive documentation.
@@ -343,7 +343,7 @@
 - [graphql-java-codegen-gradle-plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/kobylynskyi/graphql-java-codegen-gradle-plugin) ![GitHub last commit](https://img.shields.io/github/last-commit/kobylynskyi/graphql-java-codegen-gradle-plugin)](https://github.com/kobylynskyi/graphql-java-codegen-gradle-plugin) - Schema-first Gradle plugin for generating Java types and resolver interfaces. Works with graphql-java-tools and was inspired by gradle-swagger-generator-plugin.
 - [graphql-java-servlet ![GitHub Repo Stars](https://img.shields.io/github/stars/graphql-java-kickstart/graphql-java-servlet) ![GitHub last commit](https://img.shields.io/github/last-commit/graphql-java-kickstart/graphql-java-servlet)](https://github.com/graphql-java-kickstart/graphql-java-servlet) - A framework-agnostic java servlet for exposing graphql-java query endpoints with GET, POST, and multipart uploads.
 - [manifold-graphql ![GitHub Repo Stars](https://img.shields.io/github/stars/manifold-systems/manifold) ![GitHub last commit](https://img.shields.io/github/last-commit/manifold-systems/manifold)](https://github.com/manifold-systems/manifold/tree/master/manifold-deps-parent/manifold-graphql) - Comprehensive schema-first GraphQL client with type-safe types, queries, and results, no code generators, no POJOs, and no annotations. Includes IDE support for IntelliJ IDEA and Android Studio. See the [Java example](#java-examples) below.
-- [spring-graphql-common ![GitHub Repo Stars](https://img.shields.io/github/stars/oembedler/spring-graphql-common) ![GitHub last commit](https://img.shields.io/github/last-commit/oembedler/spring-graphql-common)](https://github.com/oembedler/spring-graphql-common) - Spring Framework GraphQL Library.
+- [spring-graphql-common ![GitHub Repo Stars](https://img.shields.io/github/stars/yandooo/spring-graphql-common) ![GitHub last commit](https://img.shields.io/github/last-commit/yandooo/spring-graphql-common)](https://github.com/yandooo/spring-graphql-common) - Spring Framework GraphQL Library.
 - [graphql-spring-boot ![GitHub Repo Stars](https://img.shields.io/github/stars/graphql-java-kickstart/graphql-spring-boot) ![GitHub last commit](https://img.shields.io/github/last-commit/graphql-java-kickstart/graphql-spring-boot)](https://github.com/graphql-java-kickstart/graphql-spring-boot) - GraphQL and GraphiQL Spring Framework Boot Starters.
 - [vertx-graphql-service-discovery ![GitHub Repo Stars](https://img.shields.io/github/stars/engagingspaces/vertx-graphql-service-discovery) ![GitHub last commit](https://img.shields.io/github/last-commit/engagingspaces/vertx-graphql-service-discovery)](https://github.com/engagingspaces/vertx-graphql-service-discovery) - Asynchronous GraphQL service discovery and querying for your microservices.
 - [vertx-dataloader ![GitHub Repo Stars](https://img.shields.io/github/stars/engagingspaces/vertx-dataloader) ![GitHub last commit](https://img.shields.io/github/last-commit/engagingspaces/vertx-dataloader)](https://github.com/engagingspaces/vertx-dataloader) - Port of Facebook DataLoader for efficient, asynchronous batching and caching in clustered GraphQL environments.
@@ -356,7 +356,7 @@
 
 #### Custom Scalars
 
-- [graphql-java-datetime ![GitHub Repo Stars](https://img.shields.io/github/stars/donbeave/graphql-java-datetime) ![GitHub last commit](https://img.shields.io/github/last-commit/donbeave/graphql-java-datetime)](https://github.com/donbeave/graphql-java-datetime) - GraphQL ISO Date is a set of RFC 3339 compliant date/time scalar types to be used with graphql-java.
+- [graphql-java-datetime ![GitHub Repo Stars](https://img.shields.io/github/stars/tailrocks/graphql-java-datetime) ![GitHub last commit](https://img.shields.io/github/last-commit/tailrocks/graphql-java-datetime)](https://github.com/tailrocks/graphql-java-datetime) - GraphQL ISO Date is a set of RFC 3339 compliant date/time scalar types to be used with graphql-java.
 - [graphql-java-extended-scalars ![GitHub Repo Stars](https://img.shields.io/github/stars/graphql-java/graphql-java-extended-scalars) ![GitHub last commit](https://img.shields.io/github/last-commit/graphql-java/graphql-java-extended-scalars)](https://github.com/graphql-java/graphql-java-extended-scalars) - Extended scalars for graphql-java.
 
 <a name="java-example" />
@@ -405,7 +405,7 @@
 - [graphql-relay-go ![GitHub Repo Stars](https://img.shields.io/github/stars/graphql-go/relay) ![GitHub last commit](https://img.shields.io/github/last-commit/graphql-go/relay)](https://github.com/graphql-go/relay) - A Go/Golang library to help construct a server supporting react-relay.
 - [graphjin ![GitHub Repo Stars](https://img.shields.io/github/stars/dosco/graphjin) ![GitHub last commit](https://img.shields.io/github/last-commit/dosco/graphjin)](https://github.com/dosco/graphjin) - Instant GraphQL-to-SQL compiler for building APIs quickly.
 - [graphql-go-tools ![GitHub Repo Stars](https://img.shields.io/github/stars/wundergraph/graphql-go-tools) ![GitHub last commit](https://img.shields.io/github/last-commit/wundergraph/graphql-go-tools)](https://github.com/wundergraph/graphql-go-tools) - GraphQL router and API gateway framework written in Go, focused on correctness, extensibility, and performance.
-- [Thunder ![GitHub Repo Stars](https://img.shields.io/github/stars/Raezil/Thunder) ![GitHub last commit](https://img.shields.io/github/last-commit/Raezil/Thunder)](https://github.com/Raezil/Thunder) - Scalable microservices framework powered by Go, gRPC-Gateway, Prisma, and Kubernetes that exposes REST, gRPC, and GraphQL.
+- [Thunder ![GitHub Repo Stars](https://img.shields.io/github/stars/Protocol-Lattice/thunder) ![GitHub last commit](https://img.shields.io/github/last-commit/Protocol-Lattice/thunder)](https://github.com/Protocol-Lattice/thunder) - Scalable microservices framework powered by Go, gRPC-Gateway, Prisma, and Kubernetes that exposes REST, gRPC, and GraphQL.
 - [grpc-graphql-gateway ![GitHub Repo Stars](https://img.shields.io/github/stars/ysugimoto/grpc-graphql-gateway) ![GitHub last commit](https://img.shields.io/github/last-commit/ysugimoto/grpc-graphql-gateway)](https://github.com/ysugimoto/grpc-graphql-gateway) - Protoc plugin that generates GraphQL execution code from Protocol Buffers.
 <a name="go-example" />
 
@@ -436,7 +436,7 @@
 ### .NET
 
 - [graphql-dotnet ![GitHub Repo Stars](https://img.shields.io/github/stars/graphql-dotnet/graphql-dotnet) ![GitHub last commit](https://img.shields.io/github/last-commit/graphql-dotnet/graphql-dotnet)](https://github.com/graphql-dotnet/graphql-dotnet) - GraphQL for .NET.
-- [graphql-net ![GitHub Repo Stars](https://img.shields.io/github/stars/ckimes89/graphql-net) ![GitHub last commit](https://img.shields.io/github/last-commit/ckimes89/graphql-net)](https://github.com/ckimes89/graphql-net) - GraphQL to IQueryable for .NET.
+- [graphql-net ![GitHub Repo Stars](https://img.shields.io/github/stars/chkimes/graphql-net) ![GitHub last commit](https://img.shields.io/github/last-commit/chkimes/graphql-net)](https://github.com/chkimes/graphql-net) - GraphQL to IQueryable for .NET.
 - [Hot Chocolate ![GitHub Repo Stars](https://img.shields.io/github/stars/ChilliCream/graphql-platform) ![GitHub last commit](https://img.shields.io/github/last-commit/ChilliCream/graphql-platform)](https://github.com/ChilliCream/graphql-platform) - .NET GraphQL platform containing the Hot Chocolate server, Strawberry Shake client, and Nitro IDE.
 - [Snowflaqe ![GitHub Repo Stars](https://img.shields.io/github/stars/Zaid-Ajaj/Snowflaqe) ![GitHub last commit](https://img.shields.io/github/last-commit/Zaid-Ajaj/Snowflaqe)](https://github.com/Zaid-Ajaj/Snowflaqe) - Type-safe GraphQL code generator for F# and Fable.
 - [EntityGraphQL ![GitHub Repo Stars](https://img.shields.io/github/stars/EntityGraphQL/EntityGraphQL) ![GitHub last commit](https://img.shields.io/github/last-commit/EntityGraphQL/EntityGraphQL)](https://github.com/EntityGraphQL/EntityGraphQL) - Library for building a GraphQL API on top of a data model with support for multiple data sources.
@@ -558,13 +558,13 @@
 
 - [reason-apollo ![GitHub Repo Stars](https://img.shields.io/github/stars/apollographql/reason-apollo) ![GitHub last commit](https://img.shields.io/github/last-commit/apollographql/reason-apollo)](https://github.com/apollographql/reason-apollo) - ReasonML binding for Apollo Client.
 - [ReasonQL ![GitHub Repo Stars](https://img.shields.io/github/stars/sainthkh/reasonql) ![GitHub last commit](https://img.shields.io/github/last-commit/sainthkh/reasonql)](https://github.com/sainthkh/reasonql) - Type-safe and simple GraphQL Client for ReasonML developers.
-- [reason-urql ![GitHub Repo Stars](https://img.shields.io/github/stars/FormidableLabs/reason-urql) ![GitHub last commit](https://img.shields.io/github/last-commit/FormidableLabs/reason-urql)](https://github.com/FormidableLabs/reason-urql) - ReasonML binding for urql Client.
+- [reason-urql ![GitHub Repo Stars](https://img.shields.io/github/stars/teamwalnut/rescript-urql) ![GitHub last commit](https://img.shields.io/github/last-commit/teamwalnut/rescript-urql)](https://github.com/teamwalnut/rescript-urql) - ReasonML binding for urql Client.
 
 <a name="dart" />
 
 ### Dart
 
-- [graphql-flutter ![GitHub Repo Stars](https://img.shields.io/github/stars/zino-app/graphql-flutter) ![GitHub last commit](https://img.shields.io/github/last-commit/zino-app/graphql-flutter)](https://github.com/zino-app/graphql-flutter) - A GraphQL client for Flutter.
+- [graphql-flutter ![GitHub Repo Stars](https://img.shields.io/github/stars/zino-hofmann/graphql-flutter) ![GitHub last commit](https://img.shields.io/github/last-commit/zino-hofmann/graphql-flutter)](https://github.com/zino-hofmann/graphql-flutter) - A GraphQL client for Flutter.
 - [Artemis ![GitHub Repo Stars](https://img.shields.io/github/stars/comigor/artemis) ![GitHub last commit](https://img.shields.io/github/last-commit/comigor/artemis)](https://github.com/comigor/artemis) - A GraphQL type and query generator for Dart/Flutter.
 
 <a name="rust" />
@@ -573,7 +573,7 @@
 
 - [async-graphql ![GitHub Repo Stars](https://img.shields.io/github/stars/async-graphql/async-graphql) ![GitHub last commit](https://img.shields.io/github/last-commit/async-graphql/async-graphql)](https://github.com/async-graphql/async-graphql) - High-performance server-side library that supports all GraphQL specifications.
 - [juniper ![GitHub Repo Stars](https://img.shields.io/github/stars/graphql-rust/juniper) ![GitHub last commit](https://img.shields.io/github/last-commit/graphql-rust/juniper)](https://github.com/graphql-rust/juniper) - GraphQL server library for Rust.
-- [graphql-client ![GitHub Repo Stars](https://img.shields.io/github/stars/tomhoule/graphql-client) ![GitHub last commit](https://img.shields.io/github/last-commit/tomhoule/graphql-client)](https://github.com/tomhoule/graphql-client) - GraphQL client library for Rust with WebAssembly support.
+- [graphql-client ![GitHub Repo Stars](https://img.shields.io/github/stars/graphql-rust/graphql-client) ![GitHub last commit](https://img.shields.io/github/last-commit/graphql-rust/graphql-client)](https://github.com/graphql-rust/graphql-client) - GraphQL client library for Rust with WebAssembly support.
 - [graphql-parser ![GitHub Repo Stars](https://img.shields.io/github/stars/graphql-rust/graphql-parser) ![GitHub last commit](https://img.shields.io/github/last-commit/graphql-rust/graphql-parser)](https://github.com/graphql-rust/graphql-parser) - A parser, formatter and AST for the GraphQL query and schema definition language for Rust.
 
 <a name="rust-example" />
@@ -600,8 +600,8 @@
 
 ### Julia
 
-- [Diana.jl ![GitHub Repo Stars](https://img.shields.io/github/stars/codeneomatrix/Diana.jl) ![GitHub last commit](https://img.shields.io/github/last-commit/codeneomatrix/Diana.jl)](https://github.com/codeneomatrix/Diana.jl) - A Julia GraphQL client/server implementation.
-- [GraphQLClient.jl ![GitHub Repo Stars](https://img.shields.io/github/stars/DeloitteDigitalAPAC/GraphQLClient.jl) ![GitHub last commit](https://img.shields.io/github/last-commit/DeloitteDigitalAPAC/GraphQLClient.jl)](https://github.com/DeloitteDigitalAPAC/GraphQLClient.jl) - A Julia GraphQL client for seamless integration with a server.
+- [Diana.jl ![GitHub Repo Stars](https://img.shields.io/github/stars/neomatrixcode/Diana.jl) ![GitHub last commit](https://img.shields.io/github/last-commit/neomatrixcode/Diana.jl)](https://github.com/neomatrixcode/Diana.jl) - A Julia GraphQL client/server implementation.
+- [GraphQLClient.jl ![GitHub Repo Stars](https://img.shields.io/github/stars/DeloitteOptimalReality/GraphQLClient.jl) ![GitHub last commit](https://img.shields.io/github/last-commit/DeloitteOptimalReality/GraphQLClient.jl)](https://github.com/DeloitteOptimalReality/GraphQLClient.jl) - A Julia GraphQL client for seamless integration with a server.
 
 <a name="crystal" />
 
@@ -610,7 +610,7 @@
 - [GraphQL ![GitHub Repo Stars](https://img.shields.io/github/stars/graphql-crystal/graphql) ![GitHub last commit](https://img.shields.io/github/last-commit/graphql-crystal/graphql)](https://github.com/graphql-crystal/graphql) - Server library for Crystal.
 - [graphql-crystal ![GitHub Repo Stars](https://img.shields.io/github/stars/ziprandom/graphql-crystal) ![GitHub last commit](https://img.shields.io/github/last-commit/ziprandom/graphql-crystal)](https://github.com/ziprandom/graphql-crystal) - Library inspired by graphql-ruby, go-graphql, and graphql-parser.
 - [crystal-gql ![GitHub Repo Stars](https://img.shields.io/github/stars/itsezc/crystal-gql) ![GitHub last commit](https://img.shields.io/github/last-commit/itsezc/crystal-gql)](https://github.com/itsezc/crystal-gql) - GraphQL client shard inspired by Apollo client.
-- [graphql.cr ![GitHub Repo Stars](https://img.shields.io/github/stars/garymardell/graphql.cr) ![GitHub last commit](https://img.shields.io/github/last-commit/garymardell/graphql.cr)](https://github.com/garymardell/graphql.cr) - GraphQL shard.
+- [graphql.cr ![GitHub Repo Stars](https://img.shields.io/github/stars/garymardell/oxide) ![GitHub last commit](https://img.shields.io/github/last-commit/garymardell/oxide)](https://github.com/garymardell/oxide) - GraphQL shard.
 
 ### Ballerina
 
@@ -692,11 +692,11 @@
 ### Tools - Developer Extensions
 
 - [Apollo Client Developer Tools ![GitHub Repo Stars](https://img.shields.io/github/stars/apollographql/apollo-client-devtools) ![GitHub last commit](https://img.shields.io/github/last-commit/apollographql/apollo-client-devtools)](https://github.com/apollographql/apollo-client-devtools) - GraphQL debugging tools for Apollo Client in the Chrome developer console.
-- [GraphQL Network Inspector](https://chrome.google.com/webstore/detail/graphql-network-inspector/ndlbedplllcgconngcnfmkadhokfaaln) - A simple and clean chrome dev-tools extension for GraphQL network inspection.
+- [GraphQL Network Inspector](https://chromewebstore.google.com/detail/graphql-network-inspector/ndlbedplllcgconngcnfmkadhokfaaln) - A simple and clean chrome dev-tools extension for GraphQL network inspection.
 - [Apollo GraphQL VSCode Extension](https://marketplace.visualstudio.com/items?itemName=apollographql.vscode-apollo) - Rich editor support for GraphQL client and server development that integrates with the Apollo platform.
-- [js-graphql-intellij-plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/jimkyndemeyer/js-graphql-intellij-plugin) ![GitHub last commit](https://img.shields.io/github/last-commit/jimkyndemeyer/js-graphql-intellij-plugin)](https://github.com/jimkyndemeyer/js-graphql-intellij-plugin/) - GraphQL language support for IntelliJ IDEA and WebStorm, including Relay.QL tagged templates in JavaScript and TypeScript.
+- [js-graphql-intellij-plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/JetBrains/js-graphql-intellij-plugin) ![GitHub last commit](https://img.shields.io/github/last-commit/JetBrains/js-graphql-intellij-plugin)](https://github.com/JetBrains/js-graphql-intellij-plugin) - GraphQL language support for IntelliJ IDEA and WebStorm, including Relay.QL tagged templates in JavaScript and TypeScript.
 - [vim-graphql ![GitHub Repo Stars](https://img.shields.io/github/stars/jparise/vim-graphql) ![GitHub last commit](https://img.shields.io/github/last-commit/jparise/vim-graphql)](https://github.com/jparise/vim-graphql) - A Vim plugin that provides GraphQL file detection and syntax highlighting.
-- [graphql-autocomplete ![GitHub Repo Stars](https://img.shields.io/github/stars/orionsoft/atom-graphql-autocomplete) ![GitHub last commit](https://img.shields.io/github/last-commit/orionsoft/atom-graphql-autocomplete)](https://github.com/orionsoft/atom-graphql-autocomplete) - Autocomplete and lint from a GraphQL endpoint in Atom.
+- [graphql-autocomplete ![GitHub Repo Stars](https://img.shields.io/github/stars/nicolaslopezj/atom-graphql-autocomplete) ![GitHub last commit](https://img.shields.io/github/last-commit/nicolaslopezj/atom-graphql-autocomplete)](https://github.com/nicolaslopezj/atom-graphql-autocomplete) - Autocomplete and lint from a GraphQL endpoint in Atom.
 - [ts-graphql-plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/Quramy/ts-graphql-plugin) ![GitHub last commit](https://img.shields.io/github/last-commit/Quramy/ts-graphql-plugin)](https://github.com/Quramy/ts-graphql-plugin) - A language service plugin complete and validate GraphQL query in TypeScript template strings.
 - [Apollo APQ Debugger ![GitHub Repo Stars](https://img.shields.io/github/stars/rookieInTraining/apq-debugger) ![GitHub last commit](https://img.shields.io/github/last-commit/rookieInTraining/apq-debugger)](https://github.com/rookieInTraining/apq-debugger) - Reveal full GraphQL queries behind Apollo APQ hashes. Inspect fallback flow and debug Automatic Persisted Queries in DevTools.
 
@@ -705,7 +705,7 @@
 - [graphdoc ![GitHub Repo Stars](https://img.shields.io/github/stars/2fd/graphdoc) ![GitHub last commit](https://img.shields.io/github/last-commit/2fd/graphdoc)](https://github.com/2fd/graphdoc) - Static page generator for documenting GraphQL Schema.
 - [gqldoc ![GitHub Repo Stars](https://img.shields.io/github/stars/Code-Hex/gqldoc) ![GitHub last commit](https://img.shields.io/github/last-commit/Code-Hex/gqldoc)](https://github.com/Code-Hex/gqldoc) - The easiest way to make API documents for GraphQL.
 - [spectaql ![GitHub Repo Stars](https://img.shields.io/github/stars/anvilco/spectaql) ![GitHub last commit](https://img.shields.io/github/last-commit/anvilco/spectaql)](https://github.com/anvilco/spectaql) - Autogenerate static GraphQL API documentation.
-- [graphql-markdown](https://graphql-markdown.github.io/) - Flexible documentation for GraphQL powered with Docusaurus.
+- [graphql-markdown](https://graphql-markdown.dev/) - Flexible documentation for GraphQL powered with Docusaurus.
 - [xyd](https://xyd.dev) - Generate GraphQL API docs.
 - [Cortex ![GitHub Repo Stars](https://img.shields.io/github/stars/cortex-docs/cortex) ![GitHub last commit](https://img.shields.io/github/last-commit/cortex-docs/cortex)](https://github.com/cortex-docs/cortex) - Generates interactive API documentation and typed SDKs from GraphQL schemas.
 
@@ -783,7 +783,7 @@
 ## Tutorials
 
 - [How to GraphQL](https://www.howtographql.com) - Fullstack Tutorial Website with Tracks for all Major Frameworks & Languages including React, Apollo, Relay, JavaScript, Ruby, Java, Elixir and many more.
-- [Apollo Odyssey](https://odyssey.apollographql.com/) - Apollo's free interactive learning platform.
+- [Apollo Tutorials](https://www.apollographql.com/tutorials/) - Apollo's free interactive learning platform.
 - [learning-graphql ![GitHub Repo Stars](https://img.shields.io/github/stars/mugli/learning-graphql) ![GitHub last commit](https://img.shields.io/github/last-commit/mugli/learning-graphql)](https://github.com/mugli/learning-graphql) - An attempt to learn GraphQL.
 - [GraphQL Roadmap](https://roadmap.sh/graphql) - Step by step guide to learn GraphQL.
 - [OWASP GraphQL Security Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/GraphQL_Cheat_Sheet.html) - Comprehensive guide for securing GraphQL endpoints and preventing vulnerabilities.
@@ -831,7 +831,7 @@
 
 ## Podcasts
 
-- [GraphQL.FM](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8zNjE5NmViMC9wb2RjYXN0L3Jzcw==) - Podcast series on GraphQL development and best practices.
+- [GraphQL.FM](https://podcasters.spotify.com/pod/show/graphqlfm) - Podcast series on GraphQL development and best practices.
 
 <a name="style-guide" />
 
@@ -847,7 +847,7 @@
 ## Blogs
 
 - [Official GraphQL blog](https://graphql.org/blog/) - News and technical articles from the GraphQL project.
-- [Building Apollo](https://blog.apollographql.com/) - Product updates and engineering articles from Apollo GraphQL.
+- [Building Apollo](https://www.apollographql.com/blog/) - Product updates and engineering articles from Apollo GraphQL.
 - [The Guild blog](https://medium.com/the-guild) - Articles from The Guild about GraphQL tools and practices.
 - [Production Ready GraphQL blog](https://productionreadygraphql.com) - Guidance for designing and operating production GraphQL systems.
 
@@ -855,7 +855,7 @@
 
 ### Blogs - Security
 
-- [Escape - The GraphQL Security Blog](https://escape.tech/blog) - Learn about GraphQL security, performance, testing and building production-ready APIs with the latest tools and best practices of the GraphQL ecosystem.
+- [Escape - The GraphQL Security Blog](https://escape.tech/blog/) - Learn about GraphQL security, performance, testing and building production-ready APIs with the latest tools and best practices of the GraphQL ecosystem.
 
 <a name="post" />
 
@@ -864,12 +864,12 @@
 ### Posts - General
 
 - [Using DataLoader to batch GraphQL requests](https://medium.com/@gajus/using-dataloader-to-batch-requests-c345f4b23433) - Guide to batching and caching data access with DataLoader.
-- [Introducing Relay and GraphQL](https://reactjs.org/blog/2015/02/20/introducing-relay-and-graphql.html) - Original announcement introducing Relay and GraphQL.
-- [GraphQL Introduction](https://reactjs.org/blog/2015/05/01/graphql-introduction.html) - Early overview of GraphQL's design and query model.
+- [Introducing Relay and GraphQL](https://legacy.reactjs.org/blog/2015/02/20/introducing-relay-and-graphql.html) - Original announcement introducing Relay and GraphQL.
+- [GraphQL Introduction](https://legacy.reactjs.org/blog/2015/05/01/graphql-introduction.html) - Early overview of GraphQL's design and query model.
 - [Unofficial Relay FAQ](https://gist.github.com/wincent/598fa75e22bdfa44cf47) - Community answers to common questions about Relay.
 - [Your First GraphQL Server](https://medium.com/the-graphqlhub/your-first-graphql-server-3c766ab4f0a2) - Tutorial for creating a basic GraphQL server.
 - [GraphQL Overview - Getting Started with GraphQL and Node.js](https://blog.risingstack.com/graphql-overview-getting-started-with-graphql-and-nodejs/) - Introduction to building GraphQL APIs with Node.js.
-- [4 Reasons you should try out GraphQL](https://medium.freecodecamp.org/introduction-to-graphql-1d8011b80159) - Introduction to GraphQL and its benefits over REST APIs.
+- [4 Reasons you should try out GraphQL](https://www.freecodecamp.org/news/introduction-to-graphql-1d8011b80159) - Introduction to GraphQL and its benefits over REST APIs.
 - [Moving from REST to GraphQL](https://medium.com/@frikille/moving-from-rest-to-graphql-e3650b6f5247) - Account of migrating an API from REST to GraphQL.
 - [Writing a Basic API with GraphQL](http://davidandsuzi.com/writing-a-basic-api-with-graphql/) - Tutorial for implementing a basic GraphQL API.
 - [Building a GraphQL Server with Node.js and SQL](https://www.reindex.io/blog/building-a-graphql-server-with-node-js-and-sql/) - Tutorial for connecting a Node.js GraphQL server to SQL.
@@ -885,7 +885,7 @@
 - [Mock your GraphQL server realistically with faker.js](https://dev.to/yvonnickfrin/mock-your-graphql-server-realistically-with-faker-js-25oo) - Tutorial for generating realistic mock GraphQL data with Faker.
 - [Create an infinite loading list with React and GraphQL](https://dev.to/yvonnickfrin/create-an-infinite-loading-list-with-react-and-graphql-19hh) - Tutorial for cursor-based pagination with React and GraphQL.
 - [REST vs GraphQL](https://www.moesif.com/blog/technical/graphql/REST-vs-GraphQL-APIs-the-good-the-bad-the-ugly/) - Comparison of REST and GraphQL API tradeoffs.
-- [Build a GraphQL API with Siler on top of Swoole](https://www.swoole.co.uk/article/Build-a-GraphQL-API-on-top-of-Swoole) - Tutorial for building a PHP GraphQL API with Siler and Swoole.
+- [Build a GraphQL API with Siler on top of Swoole](https://openswoole.com/article/Build-a-GraphQL-API-on-top-of-Swoole) - Tutorial for building a PHP GraphQL API with Siler and Swoole.
 - [Fluent GraphQL clients: how to write queries like a boss](https://hasura.io/blog/fluent-graphql-clients-how-to-write-queries-like-a-boss/) - Survey of fluent GraphQL client libraries across several languages.
 - [Level up your serverless game with a GraphQL data-as-a-service layer](https://hasura.io/blog/level-up-your-serverless-game-with-a-graphql-data-as-a-service-layer/) - Guide to using GraphQL as a data layer for serverless applications.
 - [A deep-dive into Relay, the friendly & opinionated GraphQL client](https://hasura.io/blog/deep-dive-into-relay-graphql-client/) - Detailed introduction to Relay's architecture and data-fetching model.

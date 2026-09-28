@@ -98,6 +98,7 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 - [wsdjeg/nvim-plug ![GitHub Repo Stars](https://img.shields.io/github/stars/wsdjeg/nvim-plug) ![GitHub last commit](https://img.shields.io/github/last-commit/wsdjeg/nvim-plug)](https://github.com/wsdjeg/nvim-plug) - Asynchronous plugin manager written in Lua.
 - [piersolenski/plugin-addict.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/piersolenski/plugin-addict.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/piersolenski/plugin-addict.nvim)](https://github.com/piersolenski/plugin-addict.nvim) - A stupidly simple way to quickly install plugins.
 - [zuqini/zpack.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/zuqini/zpack.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/zuqini/zpack.nvim)](https://github.com/zuqini/zpack.nvim) - A thin layer on top of `vim.pack` to support lazy-loading and `lazy.nvim`'s declarative spec.
+- [okram78/vahti.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/okram78/vahti.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/okram78/vahti.nvim)](https://github.com/okram78/vahti.nvim) - Checks remote Git revisions for `vim.pack`-managed packages and reports available updates without installing them.
 <!--lint disable double-link -->
 [**⬆ back to top**](#contents)
 <!--lint enable double-link -->
