@@ -1196,6 +1196,7 @@ then it is not supported:
 - [fschaal/azfunc.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/fschaal/azfunc.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/fschaal/azfunc.nvim)](https://github.com/fschaal/azfunc.nvim) - Seamlessly debug Azure Functions with automatic DAP integration.
 - [evanmcpheron/rocketlog.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/evanmcpheron/rocketlog.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/evanmcpheron/rocketlog.nvim)](https://github.com/evanmcpheron/rocketlog.nvim) - Seamlessly add logging for JavaScript and TypeScript files, with log and metadata searching.
 - [NickTsaizer/splitasm.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/NickTsaizer/splitasm.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/NickTsaizer/splitasm.nvim)](https://github.com/NickTsaizer/splitasm.nvim) - View compiled assembly output side by side with source code, with synchronized cursor movement.
+- [JarnDev/autodap.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/JarnDev/autodap.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/JarnDev/autodap.nvim)](https://github.com/JarnDev/autodap.nvim) - Thin layer over `nvim-dap` that reads the current project and wires up the debugger for you; no `launch.json`, no per-language boilerplate.
 
 ### Quickfix
 
