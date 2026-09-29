@@ -141,6 +141,7 @@ sellers who aren't evil for physical resources.
     - [Browser tests](#browser-tests)
     - [Form handling](#form-handling)
     - [User login and password management](#user-login-and-password-management)
+    - [Testing HTTP requests](#testing-http-requests)
     - [Web project skeletons and generators](#web-project-skeletons-and-generators)
   - [Others](#others)
     - [Email](#email)
@@ -1529,6 +1530,7 @@ SDK for **[Datastar](https://data-star.dev/)**:
 
 - [datastar-cl ![GitHub Repo Stars](https://img.shields.io/github/stars/fsmunoz/datastar-cl) ![GitHub last commit](https://img.shields.io/github/last-commit/fsmunoz/datastar-cl)](https://github.com/fsmunoz/datastar-cl) - Datastar Common Lisp SDK.
   - online demo: https://dataspice.interlaye.red/
+  - current dependency (not in Quicklisp, as of Sept. 2026): [lc-sse](https://codeberg.org/fsm/lc-sse)
 
 
 See also:
@@ -1622,6 +1624,12 @@ Web development utilities
   * [cas-demo ![GitHub Repo Stars](https://img.shields.io/github/stars/fferrere/cas-demo) ![GitHub last commit](https://img.shields.io/github/last-commit/fferrere/cas-demo)](https://github.com/fferrere/cas-demo) - a demo project.
 
 See also mito-auth and the Hunchentoot and Clack plugins above.
+
+### Testing HTTP requests
+
+* [the-great-rouclere ![GitHub Repo Stars](https://img.shields.io/github/stars/phoe/the-great-rouclere) ![GitHub last commit](https://img.shields.io/github/last-commit/phoe/the-great-rouclere)](https://github.com/phoe/the-great-rouclere) - Programmable HTTP mocking library in Common Lisp. MIT.
+  * "allows the programmer to set "if-then" expectations for incoming HTTP requests, letting the programmer specify responses in a declarative way".
+
 
 ### Web project skeletons and generators
 
@@ -1819,7 +1827,10 @@ See also the chart facilities of IUP and ltk-plotchart (GUI section).
 Utils
 -----
 
-* [cmu-infix ![GitHub Repo Stars](https://img.shields.io/github/stars/rigetti/cmu-infix) ![GitHub last commit](https://img.shields.io/github/last-commit/rigetti/cmu-infix)](https://github.com/rigetti/cmu-infix) - A library for writing infix mathematical notation in Common Lisp. See also [polisher ![GitHub Repo Stars](https://img.shields.io/github/stars/mrcdr/polisher) ![GitHub last commit](https://img.shields.io/github/last-commit/mrcdr/polisher)](https://github.com/mrcdr/polisher).
+* [infix-math ![GitHub Repo Stars](https://img.shields.io/github/stars/ruricolist/infix-math) ![GitHub last commit](https://img.shields.io/github/last-commit/ruricolist/infix-math)](https://github.com/ruricolist/infix-math) - An extensible infix syntax for math. MIT.
+  - can also turn the REPL into a calculator.
+* [cmu-infix ![GitHub Repo Stars](https://img.shields.io/github/stars/rigetti/cmu-infix) ![GitHub last commit](https://img.shields.io/github/last-commit/rigetti/cmu-infix)](https://github.com/rigetti/cmu-infix) - A library for writing infix mathematical notation in Common Lisp.
+  - see also [polisher ![GitHub Repo Stars](https://img.shields.io/github/stars/mrcdr/polisher) ![GitHub last commit](https://img.shields.io/github/last-commit/mrcdr/polisher)](https://github.com/mrcdr/polisher).
 
 
 Parallelism and Concurrency
@@ -2228,6 +2239,8 @@ These are applications or bits of code that make development in Common Lisp easi
 
 Unit Testing
 ============
+
+See also the "testing HTTP requests" subsection.
 
 * ⭐ [FiveAM ![GitHub Repo Stars](https://img.shields.io/github/stars/sionescu/fiveam) ![GitHub last commit](https://img.shields.io/github/last-commit/sionescu/fiveam)](https://github.com/sionescu/fiveam) - Simple regression testing framework. [FreeBSD][39].
   * [FiveAM documentation](https://fiveam.common-lisp.dev/docs/index.html)
