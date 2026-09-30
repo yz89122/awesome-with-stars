@@ -22,6 +22,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
   * [CLI Tools](#cli-tools)
   * [Deployment](#deployment)
   * [Desktop Applications](#desktop-applications)
+  * [Mobile Applications](#mobile-applications)
   * [Updating Angular](#updating-angular)
 * [Angular Pulse](#angular-pulse)
   * [Community](#community)
@@ -122,7 +123,6 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
   * [UI Libraries built on Bootstrap](#ui-libraries-built-on-bootstrap)
   * [UI Libraries built on Material](#ui-libraries-built-on-material)
   * [UI Libraries built on Tailwind CSS](#ui-libraries-built-on-tailwind-css)
-  * [UI Library and Framework Ionic](#ui-library-and-framework-ionic)
   * [UI Primitives](#ui-primitives)
   * [Viewers](#viewers)
   * [Visual Effects](#visual-effects)
@@ -223,6 +223,27 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [create-tauri-app ![GitHub Repo Stars](https://img.shields.io/github/stars/tauri-apps/create-tauri-app) ![GitHub last commit](https://img.shields.io/github/last-commit/tauri-apps/create-tauri-app)](https://github.com/tauri-apps/create-tauri-app) - Rapidly scaffold out a new Tauri app project.
 * [wails ![GitHub Repo Stars](https://img.shields.io/github/stars/wailsapp/wails) ![GitHub last commit](https://img.shields.io/github/last-commit/wailsapp/wails)](https://github.com/wailsapp/wails) - Build desktop applications using Go & web technologies, including [Angular](https://wails.io/docs/guides/angular/).
 * [MōBrowser](https://teamdev.com/mobrowser) - A framework for building desktop apps using TypeScript, HTML, and CSS, with source code protection built in.
+
+### Mobile Applications
+
+* [ng-native ![GitHub Repo Stars](https://img.shields.io/github/stars/ng-native/ng-native) ![GitHub last commit](https://img.shields.io/github/last-commit/ng-native/ng-native)](https://github.com/ng-native/ng-native) - Angular apps rendered as real native iOS and Android views.
+* [symbiote-native ![GitHub Repo Stars](https://img.shields.io/github/stars/OneEyed1366/symbiote-native) ![GitHub last commit](https://img.shields.io/github/last-commit/OneEyed1366/symbiote-native)](https://github.com/OneEyed1366/symbiote-native) - A stable native runtime utilizing React Native's core engine to drive real iOS/Android stacks directly from Angular.
+* [Official Ionic website](https://ionicframework.com)
+* [Official Ionic GitHub repository ![GitHub Repo Stars](https://img.shields.io/github/stars/ionic-team/ionic-framework) ![GitHub last commit](https://img.shields.io/github/last-commit/ionic-team/ionic-framework)](https://github.com/ionic-team/ionic-framework)
+* [Capacitor ![GitHub Repo Stars](https://img.shields.io/github/stars/ionic-team/capacitor) ![GitHub last commit](https://img.shields.io/github/last-commit/ionic-team/capacitor)](https://github.com/ionic-team/capacitor) - The official cross-platform native runtime that powers modern Ionic applications.
+* [Ionic Academy](https://ionicacademy.com/) - The fastest way to learn Ionic.
+* [Elite Ionic](https://eliteionic.com/) - Advanced training for Angular developers who want to create next-level native web applications.
+* [Ionic Start](https://ionicstart.com/) - Build web and native mobile applications with Ionic whilst learning modern reactive development with Angular.
+* [awesome-cordova-plugins ![GitHub Repo Stars](https://img.shields.io/github/stars/danielsogl/awesome-cordova-plugins) ![GitHub last commit](https://img.shields.io/github/last-commit/danielsogl/awesome-cordova-plugins)](https://github.com/danielsogl/awesome-cordova-plugins) - Native features for mobile apps built with Cordova/PhoneGap and open web technologies. Complete with TypeScript support.
+* [ionic-angular-library ![GitHub Repo Stars](https://img.shields.io/github/stars/rdlabo-team/ionic-angular-library) ![GitHub last commit](https://img.shields.io/github/last-commit/rdlabo-team/ionic-angular-library)](https://github.com/rdlabo-team/ionic-angular-library) - A collection of components and services that are useful for developing Ionic Angular applications.
+* [ionic-angular-collect-icons ![GitHub Repo Stars](https://img.shields.io/github/stars/rdlabo-team/ionic-angular-collect-icons) ![GitHub last commit](https://img.shields.io/github/last-commit/rdlabo-team/ionic-angular-collect-icons)](https://github.com/rdlabo-team/ionic-angular-collect-icons) - Library to group ionIcons and auto‑generate export files, simplifying addIcons() management in small projects.
+* [IDEA-Ionic8-extra ![GitHub Repo Stars](https://img.shields.io/github/stars/iter-idea/IDEA-Ionic8-extra) ![GitHub last commit](https://img.shields.io/github/last-commit/iter-idea/IDEA-Ionic8-extra)](https://github.com/iter-idea/IDEA-Ionic8-extra) - [IDEA's](https://www.iter-idea.com/) extra components and services built on Ionic 8, and distributed with different NPM packages.
+* [ionic-header-parallax ![GitHub Repo Stars](https://img.shields.io/github/stars/RaschidJFR/ionic-header-parallax) ![GitHub last commit](https://img.shields.io/github/last-commit/RaschidJFR/ionic-header-parallax)](https://github.com/RaschidJFR/ionic-header-parallax) - This directive enables a parallax effect on `ion-header` elements to display a cover photo while on top of the page and transition to the normal toolbar when scrolling down.
+* [ionx-search-select ![GitHub Repo Stars](https://img.shields.io/github/stars/kisimediaDE/ionx-search-select) ![GitHub last commit](https://img.shields.io/github/last-commit/kisimediaDE/ionx-search-select)](https://github.com/kisimediaDE/ionx-search-select) - Modern Angular/Ionic search & select with standalone components, signals, and full `ControlValueAccessor` support.
+* [ionic-insta-api-wrapper ![GitHub Repo Stars](https://img.shields.io/github/stars/appit-online/ionic-insta-api-wrapper) ![GitHub last commit](https://img.shields.io/github/last-commit/appit-online/ionic-insta-api-wrapper)](https://github.com/appit-online/ionic-insta-api-wrapper) - Lightweight Ionic/Cordova library for fetching Instagram content (Stories, Reels, posts, profiles) with login and cookie support.
+* [ionic-adv-tooltip ![GitHub Repo Stars](https://img.shields.io/github/stars/PhaZRic/ionic-adv-tooltip) ![GitHub last commit](https://img.shields.io/github/last-commit/PhaZRic/ionic-adv-tooltip)](https://github.com/PhaZRic/ionic-adv-tooltip) - Media-rich tooltips and popovers for Ionic Angular that render templates, images, videos, or live previews on any host.
+* [PushApp-Capacitor ![GitHub Repo Stars](https://img.shields.io/github/stars/mehery-soccom/PushApp-Capacitor) ![GitHub last commit](https://img.shields.io/github/last-commit/mehery-soccom/PushApp-Capacitor)](https://github.com/mehery-soccom/PushApp-Capacitor) - A Capacitor plugin for push notifications, in-app messaging, event tracking, and session handling in Ionic/Angular/Capacitor apps.
+* [Capgo](https://capgo.app) - Live updates / OTA for Capacitor apps.
 
 ### Updating Angular
 
@@ -485,6 +506,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [fetchwise ![GitHub Repo Stars](https://img.shields.io/github/stars/poluru-labs/fetchwise) ![GitHub last commit](https://img.shields.io/github/last-commit/poluru-labs/fetchwise)](https://github.com/poluru-labs/fetchwise) - Simplify API integration with automatic retries, response validation, request and response interceptors, and generated API types.
 * [ngx-nest-http ![GitHub Repo Stars](https://img.shields.io/github/stars/SyntaxHertz/ngx-nest-http) ![GitHub last commit](https://img.shields.io/github/last-commit/SyntaxHertz/ngx-nest-http)](https://github.com/SyntaxHertz/ngx-nest-http) - Angular HTTP client with Nest-style controllers, DTO validation, and declarative routing.
 * [ngx-signal-query ![GitHub Repo Stars](https://img.shields.io/github/stars/dhutaryan/ngx-signal-query) ![GitHub last commit](https://img.shields.io/github/last-commit/dhutaryan/ngx-signal-query)](https://github.com/dhutaryan/ngx-signal-query) - Signal-first data fetching, caching, and mutations for Angular — inspired by TanStack Query.
+* [signal-http-cache ![GitHub Repo Stars](https://img.shields.io/github/stars/frontkit-ng/signal-http-cache) ![GitHub last commit](https://img.shields.io/github/last-commit/frontkit-ng/signal-http-cache)](https://github.com/frontkit-ng/signal-http-cache) - Angular Signal-based HTTP caching library (queries, mutations, TTL, SWR).
 
 ### Micro Frontends
 
@@ -547,6 +569,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ulam ![GitHub Repo Stars](https://img.shields.io/github/stars/mikeyil/ulam) ![GitHub last commit](https://img.shields.io/github/last-commit/mikeyil/ulam)](https://github.com/mikeyil/ulam) - Accessibility utilities for the modern web. Vanilla-first, with optional React, Remix, Vue, and Angular adapters.
 * [aria-reach ![GitHub Repo Stars](https://img.shields.io/github/stars/manichandra/aria-reach) ![GitHub last commit](https://img.shields.io/github/last-commit/manichandra/aria-reach)](https://github.com/manichandra/aria-reach) - ARIA accessibility anti-pattern analyzer for shared component libraries.
 * [rgaa-source ![GitHub Repo Stars](https://img.shields.io/github/stars/oussamaLaribi/RGAA) ![GitHub last commit](https://img.shields.io/github/last-commit/oussamaLaribi/RGAA)](https://github.com/oussamaLaribi/RGAA) - Axe-core accessibility scanner mapping violations directly to source template lines. Features safe auto-fixes and French RGAA 4.1.2 audit grids.
+* [a11y-devtools ![GitHub Repo Stars](https://img.shields.io/github/stars/ngbracket/a11y-devtools) ![GitHub last commit](https://img.shields.io/github/last-commit/ngbracket/a11y-devtools)](https://github.com/ngbracket/a11y-devtools) - Dev-only accessibility devtools overlay/scanner for Angular.
 
 ### AI
 
@@ -1282,6 +1305,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [pioneer-charts ![GitHub Repo Stars](https://img.shields.io/github/stars/PioneerCode/pioneer-charts) ![GitHub last commit](https://img.shields.io/github/last-commit/PioneerCode/pioneer-charts)](https://github.com/PioneerCode/pioneer-charts) - An Angular library for creating responsive, customizable charts using D3.js—supports bar, line, pie, and more.
 * [sequential-workflow-designer ![GitHub Repo Stars](https://img.shields.io/github/stars/nocode-js/sequential-workflow-designer) ![GitHub last commit](https://img.shields.io/github/last-commit/nocode-js/sequential-workflow-designer)](https://github.com/nocode-js/sequential-workflow-designer) - Customizable no-code component for building flow-based programming applications or workflow automation. Zero external dependencies.
 * [schedula-core-angular ![GitHub Repo Stars](https://img.shields.io/github/stars/RGabGH/schedula-core) ![GitHub last commit](https://img.shields.io/github/last-commit/RGabGH/schedula-core)](https://github.com/RGabGH/schedula-core/tree/main/integrations/packages/angular) - Official Angular wrapper for [SchedulaCore](https://www.npmjs.com/package/schedula-core) — a fast, lightweight Gantt chart & resource scheduler component.
+* [silverpoint ![GitHub Repo Stars](https://img.shields.io/github/stars/ecrespo/silverpoint) ![GitHub last commit](https://img.shields.io/github/last-commit/ecrespo/silverpoint)](https://github.com/ecrespo/silverpoint) - React and Angular charting components featuring a historical drafting aesthetic.
 * [systelab-charts ![GitHub Repo Stars](https://img.shields.io/github/stars/systelab/systelab-charts) ![GitHub last commit](https://img.shields.io/github/last-commit/systelab/systelab-charts)](https://github.com/systelab/systelab-charts) - Systelab Angular Chart services.
 * [unovis ![GitHub Repo Stars](https://img.shields.io/github/stars/f5/unovis) ![GitHub last commit](https://img.shields.io/github/last-commit/f5/unovis)](https://github.com/f5/unovis) - Modular data visualization framework for React, Angular, Svelte, Vue, and vanilla TypeScript or JavaScript.
 
@@ -2190,24 +2214,6 @@ for the creation of web applications developed with Angular.
 * [zapui ![GitHub Repo Stars](https://img.shields.io/github/stars/zapuilib/zapui) ![GitHub last commit](https://img.shields.io/github/last-commit/zapuilib/zapui)](https://github.com/zapuilib/zapui) - Build scalable Angular apps with a Tailwind-powered design system from [zap:ui](https://zapui.togethercreative.co.uk/).
 * [Ply ![GitHub Repo Stars](https://img.shields.io/github/stars/ply-ui-ng/ply) ![GitHub last commit](https://img.shields.io/github/last-commit/ply-ui-ng/ply)](https://github.com/ply-ui-ng/ply) - CLI-first Angular + Tailwind copy-in component library (formerly Base UI (Angular)): `npx ply-ui-cli add` copies source into your repo. 127 free MIT components; Pro stays paid. Docs at [ply-ui.com](https://ply-ui.com). Not MUI Base UI (React).
 * [ngnova-ui ![GitHub Repo Stars](https://img.shields.io/github/stars/chiragpatel273/ngnova-ui) ![GitHub last commit](https://img.shields.io/github/last-commit/chiragpatel273/ngnova-ui)](https://github.com/chiragpatel273/ngnova-ui) - Angular 22 component library built with standalone components, focused package entry points, accessible interaction contracts, and Tailwind CSS theming.
-
-### UI Library and Framework Ionic
-
-* [Official website](https://ionicframework.com)
-* [Official GitHub repository ![GitHub Repo Stars](https://img.shields.io/github/stars/ionic-team/ionic-framework) ![GitHub last commit](https://img.shields.io/github/last-commit/ionic-team/ionic-framework)](https://github.com/ionic-team/ionic-framework)
-* [Ionic Academy](https://ionicacademy.com/) - The fastest way to learn Ionic.
-* [Elite Ionic](https://eliteionic.com/) - Advanced training for Angular developers who want to create NEXT LEVEL native web applications.
-* [Ionic Start](https://ionicstart.com/) - Build web and native mobile applications with Ionic whilst learning modern reactive development with Angular.
-* [awesome-cordova-plugins ![GitHub Repo Stars](https://img.shields.io/github/stars/danielsogl/awesome-cordova-plugins) ![GitHub last commit](https://img.shields.io/github/last-commit/danielsogl/awesome-cordova-plugins)](https://github.com/danielsogl/awesome-cordova-plugins) - Native features for mobile apps built with Cordova/PhoneGap and open web technologies. Complete with TypeScript support.
-* [ionic-angular-library ![GitHub Repo Stars](https://img.shields.io/github/stars/rdlabo-team/ionic-angular-library) ![GitHub last commit](https://img.shields.io/github/last-commit/rdlabo-team/ionic-angular-library)](https://github.com/rdlabo-team/ionic-angular-library) - A collection of components and services that are useful for developing Ionic Angular applications.
-* [ionic-angular-collect-icons ![GitHub Repo Stars](https://img.shields.io/github/stars/rdlabo-team/ionic-angular-collect-icons) ![GitHub last commit](https://img.shields.io/github/last-commit/rdlabo-team/ionic-angular-collect-icons)](https://github.com/rdlabo-team/ionic-angular-collect-icons) - Library to group ionIcons and auto‑generate export files, simplifying addIcons() management in small projects.
-* [IDEA-Ionic8-extra ![GitHub Repo Stars](https://img.shields.io/github/stars/iter-idea/IDEA-Ionic8-extra) ![GitHub last commit](https://img.shields.io/github/last-commit/iter-idea/IDEA-Ionic8-extra)](https://github.com/iter-idea/IDEA-Ionic8-extra) - [IDEA's](https://www.iter-idea.com/) extra components and services built on Ionic 8, and distributed with different NPM packages.
-* [ionic-header-parallax ![GitHub Repo Stars](https://img.shields.io/github/stars/RaschidJFR/ionic-header-parallax) ![GitHub last commit](https://img.shields.io/github/last-commit/RaschidJFR/ionic-header-parallax)](https://github.com/RaschidJFR/ionic-header-parallax) - This directive enables a parallax effect on `ion-header` elements to display a cover photo while on top of the page and transition to the normal toolbar when scrolling down.
-* [ionx-search-select ![GitHub Repo Stars](https://img.shields.io/github/stars/kisimediaDE/ionx-search-select) ![GitHub last commit](https://img.shields.io/github/last-commit/kisimediaDE/ionx-search-select)](https://github.com/kisimediaDE/ionx-search-select) - Modern Angular/Ionic search & select with standalone components, signals, and full `ControlValueAccessor` support.
-* [ionic-insta-api-wrapper ![GitHub Repo Stars](https://img.shields.io/github/stars/appit-online/ionic-insta-api-wrapper) ![GitHub last commit](https://img.shields.io/github/last-commit/appit-online/ionic-insta-api-wrapper)](https://github.com/appit-online/ionic-insta-api-wrapper) - Lightweight Ionic/Cordova library for fetching Instagram content (Stories, Reels, posts, profiles) with login and cookie support.
-* [ionic-adv-tooltip ![GitHub Repo Stars](https://img.shields.io/github/stars/PhaZRic/ionic-adv-tooltip) ![GitHub last commit](https://img.shields.io/github/last-commit/PhaZRic/ionic-adv-tooltip)](https://github.com/PhaZRic/ionic-adv-tooltip) - Media rich tooltips and popovers for Ionic Angular that render templates, images, videos, or live previews on any host.
-* [PushApp-Capacitor ![GitHub Repo Stars](https://img.shields.io/github/stars/mehery-soccom/PushApp-Capacitor) ![GitHub last commit](https://img.shields.io/github/last-commit/mehery-soccom/PushApp-Capacitor)](https://github.com/mehery-soccom/PushApp-Capacitor) - A Capacitor plugin for push notifications, in-app messaging, event tracking, and session handling in Ionic/Angular/Capacitor apps.
-* [Capgo](https://capgo.app) - Live updates / OTA for Capacitor apps.
 
 ### UI Primitives
 
