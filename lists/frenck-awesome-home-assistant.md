@@ -558,7 +558,7 @@ _Display readings from purifiers and air-quality sensors._
 
 _Hide the chrome, run full-screen, or turn an old tablet on the wall into a dedicated touch panel._
 
-- [Wall Panel ![GitHub Repo Stars](https://img.shields.io/github/stars/j-a-n/lovelace-wallpanel) ![GitHub last commit](https://img.shields.io/github/last-commit/j-a-n/lovelace-wallpanel)](https://github.com/j-a-n/lovelace-wallpanel) - Wall-panel mode and photo-screensaver for tablets mounted on the wall (842��).
+- [Wall Panel ![GitHub Repo Stars](https://img.shields.io/github/stars/j-a-n/lovelace-wallpanel) ![GitHub last commit](https://img.shields.io/github/last-commit/j-a-n/lovelace-wallpanel)](https://github.com/j-a-n/lovelace-wallpanel) - Wall-panel mode and photo-screensaver for tablets mounted on the wall (842★).
 - [Kiosk Mode ![GitHub Repo Stars](https://img.shields.io/github/stars/NemesisRE/kiosk-mode) ![GitHub last commit](https://img.shields.io/github/last-commit/NemesisRE/kiosk-mode)](https://github.com/NemesisRE/kiosk-mode) - Hide the header, sidebar, and overflow menu for a clean kiosk-style view (738★).
 
 ## Dashboards
