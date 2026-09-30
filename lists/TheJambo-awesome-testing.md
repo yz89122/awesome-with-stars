@@ -49,6 +49,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [OWASP ZAP ![GitHub Repo Stars](https://img.shields.io/github/stars/zaproxy/zaproxy) ![GitHub last commit](https://img.shields.io/github/last-commit/zaproxy/zaproxy)](https://github.com/zaproxy/zaproxy) - Intercepting proxy for HTTP traffic manipulation, security scanning, and exploitation.
 - [BurpSuite](https://portswigger.net/burp/communitydownload) - Intercept API and Reply with changes in realtime with according api manipulations.
 - [Nuclei Scanner ![GitHub Repo Stars](https://img.shields.io/github/stars/projectdiscovery/nuclei) ![GitHub last commit](https://img.shields.io/github/last-commit/projectdiscovery/nuclei)](https://github.com/projectdiscovery/nuclei) - nuclei is automated scanner for common vulnerability finding on site.
+ - [Darkmoon ![GitHub Repo Stars](https://img.shields.io/github/stars/ASCIT31/Dark-Moon) ![GitHub last commit](https://img.shields.io/github/last-commit/ASCIT31/Dark-Moon)](https://github.com/ASCIT31/Dark-Moon) - Open-source (GPLv3) autonomous AI penetration-testing CLI with 50 specialist agents and 140+ offensive tools over MCP for DAST-style web and API security assessment.
 
 ### AI & LLM Testing
 - [promptfoo ![GitHub Repo Stars](https://img.shields.io/github/stars/promptfoo/promptfoo) ![GitHub last commit](https://img.shields.io/github/last-commit/promptfoo/promptfoo)](https://github.com/promptfoo/promptfoo) - Open-source framework for testing and red teaming LLM applications. Compare prompts, test RAG architectures, run multi-turn adversarial attacks, and catch security vulnerabilities with CI/CD integration.
@@ -133,6 +134,9 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Sample Files](https://mzeeshan.me/tools/sample-files) - Free downloadable test file variants across video, audio, document, and archive formats (MP4, MOV, RTF, ZIP, PPTX, etc.), covering codecs, encodings, and edge cases for parser and import testing.
 - [ARADURU File Format Test Corpus](https://teamaraduru-hub.github.io/araduru-file-format-test-corpus/) - Open CC0 corpus of deterministic healthy and intentionally broken XLSX, DOCX, PPTX, ZIP, and PDF fixtures with SHA-256 manifests for file validation, parser, upload, and QA testing.
 - [FakeNamely](https://fakenamely.com) - Free web generator and keyless JSON API for fictional identities, addresses and names across 38 countries. Seeded requests return byte-identical records, so a fixture can be committed; addresses pair a real city and a genuinely valid postal code with an invented street.
+- [JsonFabrica](https://jsonfabrica.com) - API-first service for realistic synthetic JSON test data from reusable templates: relational batches with referential integrity, seed-reproducible output, and an MCP server for AI agents.
+- [Código ao Ponto](https://codigoaoponto.com/en/tools) - Free browser-based test data generators and validators for Brazilian documents (CPF, CNPJ, RG, CNH) with valid check digits, plus test credit cards. No signup.
+- [LaunchStock Test Data Generator](https://launchstock.app/tools/test-data-generator) - Browser generator for six modelled businesses: retail, SaaS, healthcare, banking, logistics and HR. Values agree across tables, not just across keys. Order totals reconcile against their lines, a bank ledger balances forward, and a discharge never precedes its admission. Exports CSV, JSON or a PostgreSQL dump, no account. A paid pack adds your own schema and unlimited rows.
 - [postal-code-formats ![GitHub Repo Stars](https://img.shields.io/github/stars/vinceblock99/postal-code-formats) ![GitHub last commit](https://img.shields.io/github/last-commit/vinceblock99/postal-code-formats)](https://github.com/vinceblock99/postal-code-formats) - Postal code formats, validation regexes and 9,000 real sample codes for 31 countries, with every regex tested against the samples in CI.
 
 ### Browser Extensions & Utilities
@@ -158,6 +162,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Yslow](http://yslow.org/) - Analyze web page performance based on Yahoo!'s rules.
 - [Load Testing Hub Panel ![GitHub Repo Stars](https://img.shields.io/github/stars/Nikita-Filonov/load-testing-hub-panel) ![GitHub last commit](https://img.shields.io/github/last-commit/Nikita-Filonov/load-testing-hub-panel)](https://github.com/Nikita-Filonov/load-testing-hub-panel) - Ultimate web UI for visualizing load test results
 - [k6 ![GitHub Repo Stars](https://img.shields.io/github/stars/grafana/k6) ![GitHub last commit](https://img.shields.io/github/last-commit/grafana/k6)](https://github.com/grafana/k6) - Modern load testing tool, scriptable in JavaScript, with cloud and open-source options.
+- [JMeterHub](https://www.jmeterhub.com) - Interactive performance report visualizer for Apache JMeter logs with zero setup, AI conclusions, and shareable reports.
 
 ### Web3 & Blockchain Testing
 - [Cannon](https://usecannon.com/) - Continuous configuration automation for Ethereum.
