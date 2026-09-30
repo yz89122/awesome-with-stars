@@ -28,7 +28,7 @@ If you would like to be guided through how to contribute to a repository on GitH
 |H|[Haskell](#haskell)|
 |J|[Java](#java), [JavaScript](#javascript), [Javascript](#javascript), [JSON](#json), [Julia](#julia)|
 |K|[Kotlin](#kotlin)|
-|M|[Markdown](#markdown), [MLOps](#mlops)|
+|M|[Markdown](#markdown)|
 |P|[Perl](#perl), [PHP](#php), [Pug](#pug), [Python](#python)|
 |R|[Ruby](#ruby), [Rust](#rust)|
 |S|[Scala](#scala), [Smalltalk](#smalltalk), [Swift](#swift)|
@@ -55,6 +55,7 @@ If you would like to be guided through how to contribute to a repository on GitH
 ## C#
 
 - [Cake ![GitHub Repo Stars](https://img.shields.io/github/stars/cake-build/cake) ![GitHub last commit](https://img.shields.io/github/last-commit/cake-build/cake)](https://github.com/cake-build/cake) _(label: Good-first-issue)_ <br> Cake (C# Make) is a free and open source cross-platform build automation system with a C# DSL for tasks such as compiling code, copying files and folders, running unit tests, compressing files and building NuGet packages.
+- [MvvmCross ![GitHub Repo Stars](https://img.shields.io/github/stars/MvvmCross/MvvmCross) ![GitHub last commit](https://img.shields.io/github/last-commit/MvvmCross/MvvmCross)](https://github.com/MvvmCross/MvvmCross) _(label: first-timers-only)_ <br> The .NET MVVM framework for cross-platform solutions, including Xamarin.iOS, Xamarin.Android, Windows and Mac.
 - [osu! ![GitHub Repo Stars](https://img.shields.io/github/stars/ppy/osu) ![GitHub last commit](https://img.shields.io/github/last-commit/ppy/osu)](https://github.com/ppy/osu) _(label: good first issue)_ <br> Music game. Rhythm is just a click away!
 - [Spectre.Console ![GitHub Repo Stars](https://img.shields.io/github/stars/spectreconsole/spectre.console) ![GitHub last commit](https://img.shields.io/github/last-commit/spectreconsole/spectre.console)](https://github.com/spectreconsole/spectre.console) _(label: good first issue)_ <br> A .NET library that makes it easier to create beautiful console applications.
 - [Uno Platform ![GitHub Repo Stars](https://img.shields.io/github/stars/unoplatform/uno) ![GitHub last commit](https://img.shields.io/github/last-commit/unoplatform/uno)](https://github.com/unoplatform/uno) _(label: good first issue)_ <br> OSS project for creating pixel-perfect, single-source C# and XAML apps which run natively on iOS, Android, macOS, Linux and Web via WebAssembly.
@@ -139,7 +140,6 @@ If you would like to be guided through how to contribute to a repository on GitH
 
 - [altair ![GitHub Repo Stars](https://img.shields.io/github/stars/altair-graphql/altair) ![GitHub last commit](https://img.shields.io/github/last-commit/altair-graphql/altair)](https://github.com/altair-graphql/altair) _(label: good first issue)_ <br> A beautiful feature-rich GraphQL Client for all platforms.
 - [Ancient Beast ![GitHub Repo Stars](https://img.shields.io/github/stars/FreezingMoon/AncientBeast) ![GitHub last commit](https://img.shields.io/github/last-commit/FreezingMoon/AncientBeast)](https://github.com/FreezingMoon/AncientBeast) _(label: easy)_ <br> Turn based strategy game where you 3d print a squad of creatures with unique abilities in order to defeat your enemies.
-- [AVA ![GitHub Repo Stars](https://img.shields.io/github/stars/avajs/ava) ![GitHub last commit](https://img.shields.io/github/last-commit/avajs/ava)](https://github.com/avajs/ava) _(label: good-for-beginner)_ <br> Futuristic test runner.
 - [Babel ![GitHub Repo Stars](https://img.shields.io/github/stars/babel/babel) ![GitHub last commit](https://img.shields.io/github/last-commit/babel/babel)](https://github.com/babel/babel) _(label: good first issue)_ <br> A compiler for writing next generation JavaScript.
 - [Berry - Active development trunk for Yarn ![GitHub Repo Stars](https://img.shields.io/github/stars/yarnpkg/berry) ![GitHub last commit](https://img.shields.io/github/last-commit/yarnpkg/berry)](https://github.com/yarnpkg/berry) _(label: good first issue)_ <br> Fast, reliable, and secure dependency management.
 - [Botpress ![GitHub Repo Stars](https://img.shields.io/github/stars/botpress/botpress) ![GitHub last commit](https://img.shields.io/github/last-commit/botpress/botpress)](https://github.com/botpress/botpress) _(label: contributor-friendly)_ <br> The only sane way to build great bots.
@@ -218,7 +218,6 @@ If you would like to be guided through how to contribute to a repository on GitH
 ## Kotlin
 
 - [Atrium ![GitHub Repo Stars](https://img.shields.io/github/stars/robstoll/atrium) ![GitHub last commit](https://img.shields.io/github/last-commit/robstoll/atrium)](https://github.com/robstoll/atrium) _(label: good first issue)_ <br> Multiplatform assertion library for Kotlin
-- [Hexagon ![GitHub Repo Stars](https://img.shields.io/github/stars/hexagontk/hexagon) ![GitHub last commit](https://img.shields.io/github/last-commit/hexagontk/hexagon)](https://github.com/hexagontk/hexagon) _(label: help-wanted)_ <br> A microservices toolkit written in Kotlin
 - [Non-Blocking SirixDB HTTP(S)-Server ![GitHub Repo Stars](https://img.shields.io/github/stars/sirixdb/sirix) ![GitHub last commit](https://img.shields.io/github/last-commit/sirixdb/sirix)](https://github.com/sirixdb/sirix) _(label: good first issue)_ <br> A non-blocking HTTP(S)-Server for SirixDB, a temporal, evolutionary NoSQL document store for XML and JSON.
 - [Scribe-Android ![GitHub Repo Stars](https://img.shields.io/github/stars/scribe-org/Scribe-Android) ![GitHub last commit](https://img.shields.io/github/last-commit/scribe-org/Scribe-Android)](https://github.com/scribe-org/Scribe-Android) _(label: good first issue)_ <br> Android keyboards for language learners with translation, verb conjugation and more!
 
@@ -226,10 +225,6 @@ If you would like to be guided through how to contribute to a repository on GitH
 
 - [The Odin Project Curriculum ![GitHub Repo Stars](https://img.shields.io/github/stars/TheOdinProject/curriculum) ![GitHub last commit](https://img.shields.io/github/last-commit/TheOdinProject/curriculum)](https://github.com/TheOdinProject/curriculum) _(label: See Description)_ <br> An open-source curriculum for learning full-stack web development. There are a few "Type: Good First Issue" labelled issues, but any content addition/deletion issues seem reasonably beginner friendly.
 - [tldr-pages ![GitHub Repo Stars](https://img.shields.io/github/stars/tldr-pages/tldr) ![GitHub last commit](https://img.shields.io/github/last-commit/tldr-pages/tldr)](https://github.com/tldr-pages/tldr) _(label: help-wanted)_ <br> Collaborative cheatsheets for console commands.
-
-## MLOps
-
-- [Superduper ![GitHub Repo Stars](https://img.shields.io/github/stars/superduper-io/superduper) ![GitHub last commit](https://img.shields.io/github/last-commit/superduper-io/superduper)](https://github.com/superduper-io/superduper) _(label: good first issue)_ <br> 🔮SuperDuperDB: Bring AI to your favourite database! Integrate, train and manage any AI models and APIs directly with your database and your data
 
 ## Perl
 
@@ -297,7 +292,6 @@ If you would like to be guided through how to contribute to a repository on GitH
 - [SaltStack ![GitHub Repo Stars](https://img.shields.io/github/stars/saltstack/salt) ![GitHub last commit](https://img.shields.io/github/last-commit/saltstack/salt)](https://github.com/saltstack/salt) _(label: good first issue)_ <br> Software to automate the management and configuration of any infrastructure or application at scale.
 - [scikit-learn ![GitHub Repo Stars](https://img.shields.io/github/stars/scikit-learn/scikit-learn) ![GitHub last commit](https://img.shields.io/github/last-commit/scikit-learn/scikit-learn)](https://github.com/scikit-learn/scikit-learn) _(label: good first issue)_ <br> Scikit-learn is a machine learning library for Python.
 - [scrapy ![GitHub Repo Stars](https://img.shields.io/github/stars/scrapy/scrapy) ![GitHub last commit](https://img.shields.io/github/last-commit/scrapy/scrapy)](https://github.com/scrapy/scrapy) _(label: good first issue)_ <br> A fast high-level web crawling & scraping framework for Python.
-- [Superduper ![GitHub Repo Stars](https://img.shields.io/github/stars/superduper-io/superduper) ![GitHub last commit](https://img.shields.io/github/last-commit/superduper-io/superduper)](https://github.com/superduper-io/superduper) _(label: good first issue)_ <br> 🔮SuperDuperDB: Bring AI to your favourite database! Integrate, train and manage any AI models and APIs directly with your database and your data
 - [SymPy ![GitHub Repo Stars](https://img.shields.io/github/stars/sympy/sympy) ![GitHub last commit](https://img.shields.io/github/last-commit/sympy/sympy)](https://github.com/sympy/sympy) _(label: Easy-to-Fix)_ <br> A Python library for symbolic mathematics.
 - [wemake-python-styleguide ![GitHub Repo Stars](https://img.shields.io/github/stars/wemake-services/wemake-python-styleguide) ![GitHub last commit](https://img.shields.io/github/last-commit/wemake-services/wemake-python-styleguide)](https://github.com/wemake-services/wemake-python-styleguide) _(label: level:starter)_ <br> The strictest and most opinionated python linter ever!
 - [Zulip ![GitHub Repo Stars](https://img.shields.io/github/stars/zulip/zulip) ![GitHub last commit](https://img.shields.io/github/last-commit/zulip/zulip)](https://github.com/zulip/zulip) _(label: good first issue)_ <br> Powerful open source group chat.
@@ -319,7 +313,6 @@ If you would like to be guided through how to contribute to a repository on GitH
 
 ## Rust
 
-- [dotenv-linter ![GitHub Repo Stars](https://img.shields.io/github/stars/dotenv-linter/dotenv-linter) ![GitHub last commit](https://img.shields.io/github/last-commit/dotenv-linter/dotenv-linter)](https://github.com/dotenv-linter/dotenv-linter) _(label: good first issue)_ <br> Lightning-fast linter for .env files. Written in Rust
 - [Hyper ![GitHub Repo Stars](https://img.shields.io/github/stars/hyperium/hyper) ![GitHub last commit](https://img.shields.io/github/last-commit/hyperium/hyper)](https://github.com/hyperium/hyper) _(label: E-easy)_ <br> A fast, safe and correct low-level HTTP library for Rust.
 - [nushell ![GitHub Repo Stars](https://img.shields.io/github/stars/nushell/nushell) ![GitHub last commit](https://img.shields.io/github/last-commit/nushell/nushell)](https://github.com/nushell/nushell) _(label: good first issue)_ <br> A modern shell for the GitHub era written in Rust.
 - [Ockam ![GitHub Repo Stars](https://img.shields.io/github/stars/build-trust/ockam) ![GitHub last commit](https://img.shields.io/github/last-commit/build-trust/ockam)](https://github.com/build-trust/ockam) _(label: good first issue)_ <br> End-to-end encryption and mutual authentication for distributed applications.
