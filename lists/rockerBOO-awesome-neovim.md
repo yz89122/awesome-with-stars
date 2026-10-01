@@ -1672,6 +1672,7 @@ then it is not supported:
 
 ## Session
 
+- [wurli/servery.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/wurli/servery.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/wurli/servery.nvim)](https://github.com/wurli/servery.nvim) - Jump between sessions using your favourite fuzzy finder.
 - [rmagatti/auto-session ![GitHub Repo Stars](https://img.shields.io/github/stars/rmagatti/auto-session) ![GitHub last commit](https://img.shields.io/github/last-commit/rmagatti/auto-session)](https://github.com/rmagatti/auto-session) - A small automated session manager.
 - [nvim-mini/mini.nvim#mini.sessions ![GitHub Repo Stars](https://img.shields.io/github/stars/nvim-mini/mini.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/nvim-mini/mini.nvim)](https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-sessions.md) - Module of `mini.nvim` for session management (read, write, delete).
 - [gennaro-tedesco/nvim-possession ![GitHub Repo Stars](https://img.shields.io/github/stars/gennaro-tedesco/nvim-possession) ![GitHub last commit](https://img.shields.io/github/last-commit/gennaro-tedesco/nvim-possession)](https://github.com/gennaro-tedesco/nvim-possession) - The no-nonsense session manager.

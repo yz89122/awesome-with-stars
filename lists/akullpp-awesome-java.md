@@ -1112,7 +1112,7 @@ _Libraries that assist with creating HTTP requests and/or binding responses._
 
 > **[OkHttp ![GitHub Repo Stars](https://img.shields.io/github/stars/lysine-dev/okhttp) ![GitHub last commit](https://img.shields.io/github/last-commit/lysine-dev/okhttp)](https://github.com/lysine-dev/okhttp)** <kbd>★ 47.1k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>HTTP client for the JVM, Android and GraalVM.
 
-> **[Retrofit ![GitHub Repo Stars](https://img.shields.io/github/stars/lysine-dev/retrofit) ![GitHub last commit](https://img.shields.io/github/last-commit/lysine-dev/retrofit)](https://github.com/lysine-dev/retrofit)** <kbd>★ 43.9k</kbd> <kbd>Apache-2.0</kbd> ��<br>Typesafe REST client.
+> **[Retrofit ![GitHub Repo Stars](https://img.shields.io/github/stars/lysine-dev/retrofit) ![GitHub last commit](https://img.shields.io/github/last-commit/lysine-dev/retrofit)](https://github.com/lysine-dev/retrofit)** <kbd>★ 43.9k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Typesafe REST client.
 
 > **[Ribbon ![GitHub Repo Stars](https://img.shields.io/github/stars/Netflix/ribbon) ![GitHub last commit](https://img.shields.io/github/last-commit/Netflix/ribbon)](https://github.com/Netflix/ribbon)** <kbd>★ 4.6k</kbd> <kbd>Apache-2.0</kbd> 🟠<br>Client-side IPC library that is battle-tested in the cloud.
 
@@ -1392,7 +1392,7 @@ _Tools for creating and managing microservices._
 
 > **[Micronaut ![GitHub Repo Stars](https://img.shields.io/github/stars/micronaut-projects/micronaut-core) ![GitHub last commit](https://img.shields.io/github/last-commit/micronaut-projects/micronaut-core)](https://github.com/micronaut-projects/micronaut-core)** <kbd>★ 6.4k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Modern full-stack framework with focus on modularity, minimal memory footprint and startup time.
 
-> **[Nacos ![GitHub Repo Stars](https://img.shields.io/github/stars/alibaba/nacos) ![GitHub last commit](https://img.shields.io/github/last-commit/alibaba/nacos)](https://github.com/alibaba/nacos)** <kbd>★ 33.4k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Dynamic service discovery, configuration and service management platform for building cloud native applications.
+> **[Nacos ![GitHub Repo Stars](https://img.shields.io/github/stars/alibaba/nacos) ![GitHub last commit](https://img.shields.io/github/last-commit/alibaba/nacos)](https://github.com/alibaba/nacos)** <kbd>��� 33.4k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Dynamic service discovery, configuration and service management platform for building cloud native applications.
 
 > **[Quarkus ![GitHub Repo Stars](https://img.shields.io/github/stars/quarkusio/quarkus) ![GitHub last commit](https://img.shields.io/github/last-commit/quarkusio/quarkus)](https://github.com/quarkusio/quarkus)** <kbd>★ 15.9k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Kubernetes stack tailored for the HotSpot and Graal VM.
 

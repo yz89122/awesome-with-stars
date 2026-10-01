@@ -91,6 +91,7 @@
 
 ## AI & Agents
 
+- [Cutaway ![GitHub Repo Stars](https://img.shields.io/github/stars/half144/cutaway) ![GitHub last commit](https://img.shields.io/github/last-commit/half144/cutaway)](https://github.com/half144/cutaway) - Coding agents record polished demo videos of web flows from a JSON script, with a zooming camera, a human-paced cursor and motion blur.
 - [Playwright Agent CLI](https://playwright.dev/agent-cli/introduction) - Official command-line interface for browser automation designed for coding agents, with token-efficient commands and installable skills.
 - [Playwright MCP ![GitHub Repo Stars](https://img.shields.io/github/stars/microsoft/playwright-mcp) ![GitHub last commit](https://img.shields.io/github/last-commit/microsoft/playwright-mcp)](https://github.com/microsoft/playwright-mcp) - Official Model Context Protocol server that gives LLMs browser automation via Playwright accessibility snapshots.
 - [Webcmd ![GitHub Repo Stars](https://img.shields.io/github/stars/agentrhq/webcmd) ![GitHub last commit](https://img.shields.io/github/last-commit/agentrhq/webcmd)](https://github.com/agentrhq/webcmd) - CLI built on Playwright that learns a site's navigation once and compiles it into deterministic per-site commands for coding agents.

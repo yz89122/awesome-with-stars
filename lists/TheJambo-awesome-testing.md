@@ -63,6 +63,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [aiexpect ![GitHub Repo Stars](https://img.shields.io/github/stars/dmsehgal/aiexpect) ![GitHub last commit](https://img.shields.io/github/last-commit/dmsehgal/aiexpect)](https://github.com/dmsehgal/aiexpect) - Python assertions for non-deterministic AI text that drop into pytest. Semantic and rule checks work offline; optional LLM judge with your own model; produces a Trust Score and a single-file HTML report.
 - [OrcaReplay ![GitHub Repo Stars](https://img.shields.io/github/stars/Continuum-AI-Corp/OrcaReplay) ![GitHub last commit](https://img.shields.io/github/last-commit/Continuum-AI-Corp/OrcaReplay)](https://github.com/Continuum-AI-Corp/OrcaReplay) - Records a coding-agent session below the harness, keeping the verbatim request and response bytes, then replays the same run offline with the network off or forks it from a checkpoint onto other models with a verify command deciding the verdict.
 - [flight-recorder ![GitHub Repo Stars](https://img.shields.io/github/stars/xag/flight-recorder) ![GitHub last commit](https://img.shields.io/github/last-commit/xag/flight-recorder)](https://github.com/xag/flight-recorder) - Record every nondeterministic input your code reads (LLM answers, HTTP, database, clock, randomness) as one JSONL tape per request, then replay the tape against the real code offline, bit for bit, with the first divergence named. Open format with Python, Node, .NET, Go, Java and PHP implementations.
+- [OrcaPromptVault ![GitHub Repo Stars](https://img.shields.io/github/stars/Continuum-AI-Corp/OrcaPromptVault) ![GitHub last commit](https://img.shields.io/github/last-commit/Continuum-AI-Corp/OrcaPromptVault)](https://github.com/Continuum-AI-Corp/OrcaPromptVault) - Dated archive of the system prompts and tool-call schemas shipped AI agents send, so tests can be written against a product's real declared tool surface rather than a guess at it.
 
 ### Service Virtualization
 - [Beeceptor](https://beeceptor.com/) - Easy to use no-code mock servers for service virtualization. Rest, SOAP, GraphQL supported. Create an API mock server from OpenAPI Specification or Postman collection.
@@ -72,6 +73,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [MockServer ![GitHub Repo Stars](https://img.shields.io/github/stars/mock-server/mockserver-monorepo) ![GitHub last commit](https://img.shields.io/github/last-commit/mock-server/mockserver-monorepo)](https://github.com/mock-server/mockserver-monorepo) - Mocking, debugging proxy and chaos engineering tool for multiple protocols (HTTP, gRPC, GraphQL, LLM, MCP, Kafka, TCP and more); mock any dependency, record/replay and inspect traffic, verify requests, and inject faults. Docker, JAR, Helm, multi-language clients.
 - [WireMock ![GitHub Repo Stars](https://img.shields.io/github/stars/wiremock/wiremock) ![GitHub last commit](https://img.shields.io/github/last-commit/wiremock/wiremock)](https://github.com/wiremock/wiremock) - Open source HTTP mock engine written in Java. Embed in your test code, run as a standalone process, or deploy via Docker.
 - [ApiNotes](https://apinotes.io/mock-server) - Drop your OpenAPI spec and get a fully functional mock API server instantly. Export to Bruno API client or test directly.
+- [Twinbay](https://twinbay.ai) - Hosted, stateful twins of third-party APIs such as Shopify, Slack, Zendesk and QuickBooks for integration and AI agent tests. Each test run gets a private URL, and directives force states like rate limits or failed payments.
 
 ### Visual Testing
 - [Fluxguard](https://fluxguard.com) - Screenshot pixel and DOM change comparisons.
@@ -124,6 +126,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 ### Test Data Management
 - [TempMailGrab](https://tempmailgrab.com/api-docs) - Disposable email API for temporary inboxes, OTP extraction, verification links, and webhooks in Playwright, Cypress, and CI tests.
 - [Temp Mail 24](https://temp-mail24.com/) - Browser-based receive-only temporary inbox for permitted manual signup-flow testing.
+- [8½ Minute Mail](https://8m30mail.com/) - Receive-only temporary inbox for manual email verification testing, with an 8-minute-30-second default lifetime and no account required.
 - [DATAMIMIC CE ![GitHub Repo Stars](https://img.shields.io/github/stars/rapiddweller/datamimic) ![GitHub last commit](https://img.shields.io/github/last-commit/rapiddweller/datamimic)](https://github.com/rapiddweller/datamimic) - Open-source, deterministic engine for model-driven synthetic test data and PII pseudonymization. Pin a seed and get byte-identical output with a provenance hash on every run. Python, MIT.
 - [dbmask ![GitHub Repo Stars](https://img.shields.io/github/stars/sealandseacat/dbmask) ![GitHub last commit](https://img.shields.io/github/last-commit/sealandseacat/dbmask)](https://github.com/sealandseacat/dbmask) - Masks sensitive data in SQL test databases with deterministic fakes and verifies the masking row by row.
 - [Dummy Data Lab](https://timliu724.github.io/dummy-data-lab/) - Offline, open-source browser tool for transforming CSV or TXT into controlled dummy data and generating linked test datasets without uploading source files.
@@ -138,6 +141,8 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Código ao Ponto](https://codigoaoponto.com/en/tools) - Free browser-based test data generators and validators for Brazilian documents (CPF, CNPJ, RG, CNH) with valid check digits, plus test credit cards. No signup.
 - [LaunchStock Test Data Generator](https://launchstock.app/tools/test-data-generator) - Browser generator for six modelled businesses: retail, SaaS, healthcare, banking, logistics and HR. Values agree across tables, not just across keys. Order totals reconcile against their lines, a bank ledger balances forward, and a discharge never precedes its admission. Exports CSV, JSON or a PostgreSQL dump, no account. A paid pack adds your own schema and unlimited rows.
 - [postal-code-formats ![GitHub Repo Stars](https://img.shields.io/github/stars/vinceblock99/postal-code-formats) ![GitHub last commit](https://img.shields.io/github/last-commit/vinceblock99/postal-code-formats)](https://github.com/vinceblock99/postal-code-formats) - Postal code formats, validation regexes and 9,000 real sample codes for 31 countries, with every regex tested against the samples in CI.
+
+- [StanzaAPI Test Data](https://stanzaapi.com/datasets) - Free CC0 synthetic test data for regulated B2B formats (IBAN, X12, ISO 20022, GS1, VAT, LEI, UDI, Peppol, Factur-X, CBAM, EPCIS), deterministic and check-digit-valid, as JSON and CSV.
 
 ### Browser Extensions & Utilities
 - [Anchor Browser](https://anchorbrowser.io) - Cloud browser infrastructure with built-in stealth and proxy rotation for automated testing at scale
@@ -212,14 +217,12 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 
 ## Training (Includes developer training for automation testers)
 - [Learn to Code ![GitHub Repo Stars](https://img.shields.io/github/stars/karlhorky/learn-to-program) ![GitHub last commit](https://img.shields.io/github/last-commit/karlhorky/learn-to-program)](https://github.com/karlhorky/learn-to-program) - Another awesome list for developer training
-- [The Dojo](https://dojo.ministryoftesting.com/) - Courses and talks directly from the testing community.
 - [Coursera](https://www.coursera.org/) - Online courses from top universities.
 - [Cybrary](https://www.cybrary.it/) - Online free security training.
 - [BBST Testing Courses](https://bbst.courses/bbst-testingeducation-materials/) - The famous Black Box Software Testing (BBST) courses are university level courses on Software Test Foundations, Bug Reporting and Test Design. These materials have been creative commons licensed for use by anyone. Includes articles, slides and video lectures.
 - [FrontRow ![GitHub Repo Stars](https://img.shields.io/github/stars/majdukovic/frontrow) ![GitHub last commit](https://img.shields.io/github/last-commit/majdukovic/frontrow)](https://github.com/majdukovic/frontrow) - Open source React Native mobile app built as a hands on training surface for QA automation. Cross platform testIDs work across Maestro, Appium, Espresso and XCUITest, and a deep QA Debug Menu lets trainees force the failure modes that actually bite in production (4xx, 5xx, timeouts, offline, denied permissions, declined IAP, expired tokens) without flaky backends.
 
 ## Blogs
-- [Michael Bolton](http://www.developsense.com/blog/)
 - [Janet Gregory](http://janetgregory.ca/blog/)
 - [Nikita Sobolev](https://sobolevn.me/)
 - [Softwaretester Blog](https://www.softwaretester.blog/)
