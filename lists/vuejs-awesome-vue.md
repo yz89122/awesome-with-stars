@@ -577,6 +577,7 @@ These projects are exceptionally high quality, have a proven trackrecord, and ar
 - [MarkerOn ![GitHub Repo Stars](https://img.shields.io/github/stars/ifer47/markeron) ![GitHub last commit](https://img.shields.io/github/last-commit/ifer47/markeron)](https://github.com/ifer47/markeron) - Lightweight screen annotation tool built with Tauri v2, Vue 3, and Canvas API for drawing, highlighting, and annotating anywhere on desktop.
 - [AI Gist ![GitHub Repo Stars](https://img.shields.io/github/stars/yarin-zhang/AI-Gist) ![GitHub last commit](https://img.shields.io/github/last-commit/yarin-zhang/AI-Gist)](https://github.com/yarin-zhang/AI-Gist) - Local-first AI prompt manager built with Vue 3, Naive UI, Electron (desktop) and Capacitor (iOS/Android). Variable filling, Jinja templates, AI-assisted prompt generation, version history, and WebDAV/iCloud backup.
 - [DentalPin ![GitHub Repo Stars](https://img.shields.io/github/stars/martinezsalmeron/dentalpin) ![GitHub last commit](https://img.shields.io/github/last-commit/martinezsalmeron/dentalpin)](https://github.com/martinezsalmeron/dentalpin) - Dental clinic management platform with appointment scheduling and a modular plugin architecture, built with Nuxt 3 and FastAPI.
+- [vixl ![GitHub Repo Stars](https://img.shields.io/github/stars/vixl-ai/vixl) ![GitHub last commit](https://img.shields.io/github/last-commit/vixl-ai/vixl)](https://github.com/vixl-ai/vixl) - Local-first desktop coding agent, an alternative to Cursor, Antigravity, and VS Code agents. Built with Vue, TypeScript, and Tauri. Progressive tool discovery keeps local model prefills smaller.
 
 ### Commercial Products
 
@@ -752,6 +753,7 @@ These projects are exceptionally high quality, have a proven trackrecord, and ar
 - [Shiko](https://shiko.vet) - Veterinary clinic management platform with appointment scheduling, interactive clinic directory with maps, and multi-platform support.
 - [Text to Handwriting](https://www.primenotepad.com/tools/text-to-handwriting) - Convert typed text into realistic handwritten notes online.
 - [JsonToolBox](https://jsontoolbox.cc) - Open-source, browser-based JSON toolkit for formatting, validating, minifying, viewing, comparing, and converting JSON. Built with Nuxt and Vue.
+- [Obolus](https://obolus.at) - Austrian salary and payroll calculators with a sourced tax glossary. Built with Nuxt and Vue 3.
 
 ### Interactive Experiences
 
@@ -1057,6 +1059,7 @@ _Overlay / modal / alert / dialog / lightbox / popup_
 - [vue-concise-carousel ![GitHub Repo Stars](https://img.shields.io/github/stars/jambonn/vue-concise-carousel) ![GitHub last commit](https://img.shields.io/github/last-commit/jambonn/vue-concise-carousel)](https://github.com/jambonn/vue-concise-carousel) - Vue Concise Carousel with True SSR. Works for Vue 2 & 3.
 - [vue3-carousel ![GitHub Repo Stars](https://img.shields.io/github/stars/ismail9k/vue3-carousel) ![GitHub last commit](https://img.shields.io/github/last-commit/ismail9k/vue3-carousel)](https://github.com/ismail9k/vue3-carousel) - A highly customizable, lightweight Vue 3 carousel component for your next awesome project.
 - [vue-snap ![GitHub Repo Stars](https://img.shields.io/github/stars/bartdominiak/vue-snap) ![GitHub last commit](https://img.shields.io/github/last-commit/bartdominiak/vue-snap)](https://github.com/bartdominiak/vue-snap) - 🌿 Modern and lightweight Vue 3 Carousel powered by CSS Scroll Snap.
+- [@reelkit/vue ![GitHub Repo Stars](https://img.shields.io/github/stars/KonstantinKai/reelkit) ![GitHub last commit](https://img.shields.io/github/last-commit/KonstantinKai/reelkit)](https://github.com/KonstantinKai/reelkit/tree/main/packages/reelkit-vue) - Virtualized full-screen Vue 3 slider: 3 slides in the DOM for 10,000+ items, with ready-made reel, stories and lightbox players.
 
 #### Charts
 
@@ -1446,6 +1449,7 @@ _Move a DOM node to a target DOM node_
 - [vue-inline-svg ![GitHub Repo Stars](https://img.shields.io/github/stars/shrpne/vue-inline-svg) ![GitHub last commit](https://img.shields.io/github/last-commit/shrpne/vue-inline-svg)](https://github.com/shrpne/vue-inline-svg) - Vue component loads an SVG source dynamically and inline `<svg>` so you can manipulate the style of it with CSS or JS. (vue 2.x, vue 3.x)
 - [lucide-motion-vue ![GitHub Repo Stars](https://img.shields.io/github/stars/respeak-io/lucide-motion-vue) ![GitHub last commit](https://img.shields.io/github/last-commit/respeak-io/lucide-motion-vue)](https://github.com/respeak-io/lucide-motion-vue) - 516 animated Lucide icons for Vue 3 with ergonomic hover/tap/viewport triggers and a composable `<AnimateIcon>` wrapper. Tree-shakable, one chunk per icon, TypeScript-first. (vue 3.x)
 - [GeoIcons](https://geoicons.io) - Geographic map icons for every country, territory, and world region, as tree-shakable Vue 3 components.
+- [tronche ![GitHub Repo Stars](https://img.shields.io/github/stars/rootasjey/tronche) ![GitHub last commit](https://img.shields.io/github/last-commit/rootasjey/tronche)](https://github.com/rootasjey/tronche) - Generate unique SVG avatars from any username and color palette. 6 visual styles, Vue/Nuxt/React components and REST API.
 
 #### Miscellaneous
 

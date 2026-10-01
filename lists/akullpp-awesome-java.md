@@ -1112,7 +1112,7 @@ _Libraries that assist with creating HTTP requests and/or binding responses._
 
 > **[OkHttp ![GitHub Repo Stars](https://img.shields.io/github/stars/lysine-dev/okhttp) ![GitHub last commit](https://img.shields.io/github/last-commit/lysine-dev/okhttp)](https://github.com/lysine-dev/okhttp)** <kbd>★ 47.1k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>HTTP client for the JVM, Android and GraalVM.
 
-> **[Retrofit ![GitHub Repo Stars](https://img.shields.io/github/stars/lysine-dev/retrofit) ![GitHub last commit](https://img.shields.io/github/last-commit/lysine-dev/retrofit)](https://github.com/lysine-dev/retrofit)** <kbd>★ 43.9k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Typesafe REST client.
+> **[Retrofit ![GitHub Repo Stars](https://img.shields.io/github/stars/lysine-dev/retrofit) ![GitHub last commit](https://img.shields.io/github/last-commit/lysine-dev/retrofit)](https://github.com/lysine-dev/retrofit)** <kbd>★ 43.9k</kbd> <kbd>Apache-2.0</kbd> ��<br>Typesafe REST client.
 
 > **[Ribbon ![GitHub Repo Stars](https://img.shields.io/github/stars/Netflix/ribbon) ![GitHub last commit](https://img.shields.io/github/last-commit/Netflix/ribbon)](https://github.com/Netflix/ribbon)** <kbd>★ 4.6k</kbd> <kbd>Apache-2.0</kbd> 🟠<br>Client-side IPC library that is battle-tested in the cloud.
 

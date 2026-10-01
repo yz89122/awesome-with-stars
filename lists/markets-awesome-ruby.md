@@ -53,6 +53,7 @@ Thanks to all [contributors ![GitHub Repo Stars](https://img.shields.io/github/s
 * [Code Highlighting](#code-highlighting)
 * [Code Loaders](#code-loaders)
 * [Coding Style Guides](#coding-style-guides)
+* [Compression](#compression)
 * [Concurrency and Parallelism](#concurrency-and-parallelism)
 * [Configuration](#configuration)
 * [Core Extensions](#core-extensions)
@@ -400,6 +401,10 @@ Thanks to all [contributors ![GitHub Repo Stars](https://img.shields.io/github/s
 * [Rails style guide ![GitHub Repo Stars](https://img.shields.io/github/stars/rubocop/rails-style-guide) ![GitHub last commit](https://img.shields.io/github/last-commit/rubocop/rails-style-guide)](https://github.com/rubocop/rails-style-guide) - Community-driven Rails best practices and style for Rails 3 and 4.
 * [RSpec style guide ![GitHub Repo Stars](https://img.shields.io/github/stars/betterspecs/betterspecs) ![GitHub last commit](https://img.shields.io/github/last-commit/betterspecs/betterspecs)](https://github.com/betterspecs/betterspecs) - Better Specs { rspec guidelines with ruby }.
 * [Ruby style guide ![GitHub Repo Stars](https://img.shields.io/github/stars/rubocop/ruby-style-guide) ![GitHub last commit](https://img.shields.io/github/last-commit/rubocop/ruby-style-guide)](https://github.com/rubocop/ruby-style-guide) - Community-driven Ruby coding style.
+
+## Compression
+
+* [rubyzip ![GitHub Repo Stars](https://img.shields.io/github/stars/rubyzip/rubyzip) ![GitHub last commit](https://img.shields.io/github/last-commit/rubyzip/rubyzip)](https://github.com/rubyzip/rubyzip) - A Ruby library for reading and writing zip files.
 
 ## Concurrency and Parallelism
 
@@ -815,6 +820,7 @@ Where to discover new Ruby libraries, projects and trends.
 
 * [HappyMapper ![GitHub Repo Stars](https://img.shields.io/github/stars/mvz/happymapper) ![GitHub last commit](https://img.shields.io/github/last-commit/mvz/happymapper)](https://github.com/mvz/happymapper) - Object to XML mapping library, using Nokogiri.
 * [HTML::Pipeline ![GitHub Repo Stars](https://img.shields.io/github/stars/gjtorikian/html-pipeline) ![GitHub last commit](https://img.shields.io/github/last-commit/gjtorikian/html-pipeline)](https://github.com/gjtorikian/html-pipeline) - HTML processing filters and utilities.
+* [Loofah ![GitHub Repo Stars](https://img.shields.io/github/stars/flavorjones/loofah) ![GitHub last commit](https://img.shields.io/github/last-commit/flavorjones/loofah)](https://github.com/flavorjones/loofah) - A general library for manipulating and transforming HTML/XML documents and fragments, built on top of Nokogiri, with built-in HTML sanitizers.
 * [Nokogiri](https://nokogiri.org) - An HTML, XML, SAX, and Reader parser with XPath and CSS selector support.
 * [Nokolexbor ![GitHub Repo Stars](https://img.shields.io/github/stars/serpapi/nokolexbor) ![GitHub last commit](https://img.shields.io/github/last-commit/serpapi/nokolexbor)](https://github.com/serpapi/nokolexbor) - High-performance HTML5 parser based on Lexbor, with support for both CSS selectors and XPath.
 * [Oga](https://gitlab.com/yorickpeterse/oga) - An XML/HTML parser written in Ruby. Oga does not require system libraries such as libxml, making it easier and faster to install on various platforms.
