@@ -23,16 +23,16 @@ If you would like to be guided through how to contribute to a repository on GitH
 |A|[Angular](#angular), [Ansible](#ansible)|
 |C|[C](#c), [C#](#c-1), [C++](#c-2), [Clojure](#clojure), [CSS](#css)|
 |D|[Dart](#dart)|
-|E|[Elixir](#elixir), [Elm](#elm)|
+|E|[Electron](#electron), [Elixir](#elixir), [Elm](#elm)|
 |G|[Go](#go)|
 |H|[Haskell](#haskell)|
-|J|[Java](#java), [JavaScript](#javascript), [Javascript](#javascript), [JSON](#json), [Julia](#julia)|
+|J|[Java](#java), [JavaScript](#javascript), [JSON](#json), [Julia](#julia)|
 |K|[Kotlin](#kotlin)|
 |M|[Markdown](#markdown)|
 |P|[Perl](#perl), [PHP](#php), [Pug](#pug), [Python](#python)|
 |R|[Ruby](#ruby), [Rust](#rust)|
 |S|[Scala](#scala), [Smalltalk](#smalltalk), [Swift](#swift)|
-|T|[TypeScript](#typescript), [Typescript](#typescript)|
+|T|[TypeScript](#typescript)|
 
 ## .NET
 
@@ -87,6 +87,10 @@ If you would like to be guided through how to contribute to a repository on GitH
 - [flutter ![GitHub Repo Stars](https://img.shields.io/github/stars/flutter/flutter) ![GitHub last commit](https://img.shields.io/github/last-commit/flutter/flutter)](https://github.com/flutter/flutter) _(label: good first issue)_ <br> Flutter is Google's UI toolkit for building beautiful, natively compiled applications for mobile, web, desktop, and embedded devices from a single codebase.
 - [OpenFoodFacts ![GitHub Repo Stars](https://img.shields.io/github/stars/openfoodfacts/smooth-app) ![GitHub last commit](https://img.shields.io/github/last-commit/openfoodfacts/smooth-app)](https://github.com/openfoodfacts/smooth-app) _(label: good first issue)_ <br> Collaborative, free and open database of food products from around the world. Scan barcode to get info or add a product
 
+## Electron
+
+- [Posnic ![GitHub Repo Stars](https://img.shields.io/github/stars/Posnic/POS) ![GitHub last commit](https://img.shields.io/github/last-commit/Posnic/POS)](https://github.com/Posnic/POS) _(label: good first issue)_ <br> Offline-first open source POS and billing software for retail shops and restaurants, with online/offline workflows.
+
 ## Elixir
 
 - [Ecto ![GitHub Repo Stars](https://img.shields.io/github/stars/elixir-ecto/ecto) ![GitHub last commit](https://img.shields.io/github/last-commit/elixir-ecto/ecto)](https://github.com/elixir-ecto/ecto) _(label: Level:Starter)_ <br> Ecto is a database wrapper and language integrated query for Elixir
@@ -124,6 +128,7 @@ If you would like to be guided through how to contribute to a repository on GitH
 ## Java
 
 - [Catima - Android App ![GitHub Repo Stars](https://img.shields.io/github/stars/CatimaLoyalty/Android) ![GitHub last commit](https://img.shields.io/github/last-commit/CatimaLoyalty/Android)](https://github.com/CatimaLoyalty/Android) _(label: good first issue)_ <br> Catima, a Loyalty Card & Ticket Manager for Android
+- [Checkstyle ![GitHub Repo Stars](https://img.shields.io/github/stars/checkstyle/checkstyle) ![GitHub last commit](https://img.shields.io/github/last-commit/checkstyle/checkstyle)](https://github.com/checkstyle/checkstyle) _(label: good first issue)_ <br> A development tool to help programmers write Java code that adheres to a coding standard.
 - [Codename One ![GitHub Repo Stars](https://img.shields.io/github/stars/codenameone/CodenameOne) ![GitHub last commit](https://img.shields.io/github/last-commit/codenameone/CodenameOne)](https://github.com/codenameone/CodenameOne) _(label: good first issue)_ <br> Cross-platform mobile app development framework for Java developers
 - [DSA ![GitHub Repo Stars](https://img.shields.io/github/stars/abhishektripathi66/DSA) ![GitHub last commit](https://img.shields.io/github/last-commit/abhishektripathi66/DSA)](https://github.com/abhishektripathi66/DSA) _(label: good first issue)_ <br> DSA questions practising repo for Java developers
 - [elasticsearch ![GitHub Repo Stars](https://img.shields.io/github/stars/elastic/elasticsearch) ![GitHub last commit](https://img.shields.io/github/last-commit/elastic/elasticsearch)](https://github.com/elastic/elasticsearch) _(label: good first issue)_ <br> Open Source, Distributed, RESTful Search Engine.
@@ -140,6 +145,7 @@ If you would like to be guided through how to contribute to a repository on GitH
 
 - [altair ![GitHub Repo Stars](https://img.shields.io/github/stars/altair-graphql/altair) ![GitHub last commit](https://img.shields.io/github/last-commit/altair-graphql/altair)](https://github.com/altair-graphql/altair) _(label: good first issue)_ <br> A beautiful feature-rich GraphQL Client for all platforms.
 - [Ancient Beast ![GitHub Repo Stars](https://img.shields.io/github/stars/FreezingMoon/AncientBeast) ![GitHub last commit](https://img.shields.io/github/last-commit/FreezingMoon/AncientBeast)](https://github.com/FreezingMoon/AncientBeast) _(label: easy)_ <br> Turn based strategy game where you 3d print a squad of creatures with unique abilities in order to defeat your enemies.
+- [appsmith ![GitHub Repo Stars](https://img.shields.io/github/stars/appsmithorg/appsmith) ![GitHub last commit](https://img.shields.io/github/last-commit/appsmithorg/appsmith)](https://github.com/appsmithorg/appsmith) _(label: good first issue)_ <br> Drag & Drop internal tool builder
 - [Babel ![GitHub Repo Stars](https://img.shields.io/github/stars/babel/babel) ![GitHub last commit](https://img.shields.io/github/last-commit/babel/babel)](https://github.com/babel/babel) _(label: good first issue)_ <br> A compiler for writing next generation JavaScript.
 - [Berry - Active development trunk for Yarn ![GitHub Repo Stars](https://img.shields.io/github/stars/yarnpkg/berry) ![GitHub last commit](https://img.shields.io/github/last-commit/yarnpkg/berry)](https://github.com/yarnpkg/berry) _(label: good first issue)_ <br> Fast, reliable, and secure dependency management.
 - [Botpress ![GitHub Repo Stars](https://img.shields.io/github/stars/botpress/botpress) ![GitHub last commit](https://img.shields.io/github/last-commit/botpress/botpress)](https://github.com/botpress/botpress) _(label: contributor-friendly)_ <br> The only sane way to build great bots.
@@ -148,6 +154,7 @@ If you would like to be guided through how to contribute to a repository on GitH
 - [Create React App ![GitHub Repo Stars](https://img.shields.io/github/stars/react/create-react-app) ![GitHub last commit](https://img.shields.io/github/last-commit/react/create-react-app)](https://github.com/react/create-react-app) _(label: good first issue)_ <br> Create React apps with no build configuration.
 - [cypress ![GitHub Repo Stars](https://img.shields.io/github/stars/cypress-io/cypress) ![GitHub last commit](https://img.shields.io/github/last-commit/cypress-io/cypress)](https://github.com/cypress-io/cypress) _(label: good first issue)_ <br> Fast, easy and reliable testing for anything that runs in a browser.
 - [Decap CMS ![GitHub Repo Stars](https://img.shields.io/github/stars/decaporg/decap-cms) ![GitHub last commit](https://img.shields.io/github/last-commit/decaporg/decap-cms)](https://github.com/decaporg/decap-cms) _(label: good first issue)_ <br> Open source content management for your git workflow.
+- [DevShelf ![GitHub Repo Stars](https://img.shields.io/github/stars/RitualDev-Lab/DevShelf) ![GitHub last commit](https://img.shields.io/github/last-commit/RitualDev-Lab/DevShelf)](https://github.com/RitualDev-Lab/DevShelf) _(label: good first issue)_ <br> A crowdsourced, zero-paywall directory of developer tools, free APIs, and 1-click boilerplates with continuous uptime monitoring.
 - [electron ![GitHub Repo Stars](https://img.shields.io/github/stars/electron/electron) ![GitHub last commit](https://img.shields.io/github/last-commit/electron/electron)](https://github.com/electron/electron) _(label: good first issue)_ <br> Build cross platform desktop apps with JavaScript, HTML, and CSS
 - [Ember.js ![GitHub Repo Stars](https://img.shields.io/github/stars/emberjs/ember.js) ![GitHub last commit](https://img.shields.io/github/last-commit/emberjs/ember.js)](https://github.com/emberjs/ember.js) _(label: Good-for-New-Contributors)_ <br> A JavaScript framework for creating ambitious web applications.
 - [ESLint ![GitHub Repo Stars](https://img.shields.io/github/stars/eslint/eslint) ![GitHub last commit](https://img.shields.io/github/last-commit/eslint/eslint)](https://github.com/eslint/eslint) _(label: good first issue)_ <br> A fully pluggable tool for identifying and reporting on patterns in JavaScript.
@@ -179,6 +186,7 @@ If you would like to be guided through how to contribute to a repository on GitH
 - [nuclear ![GitHub Repo Stars](https://img.shields.io/github/stars/nukeop/nuclear) ![GitHub last commit](https://img.shields.io/github/last-commit/nukeop/nuclear)](https://github.com/nukeop/nuclear) _(label: good first issue)_ <br> Multiplatform music player that streams from free sources.
 - [p5.js ![GitHub Repo Stars](https://img.shields.io/github/stars/processing/p5.js) ![GitHub last commit](https://img.shields.io/github/last-commit/processing/p5.js)](https://github.com/processing/p5.js) _(label: good first issue)_ <br> p5.js is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web.
 - [pixi.js ![GitHub Repo Stars](https://img.shields.io/github/stars/pixijs/pixijs) ![GitHub last commit](https://img.shields.io/github/last-commit/pixijs/pixijs)](https://github.com/pixijs/pixijs) _(label: 🤩 Good First PR)_ <br> A 2D JavaScript Renderer
+- [Posnic ![GitHub Repo Stars](https://img.shields.io/github/stars/Posnic/POS) ![GitHub last commit](https://img.shields.io/github/last-commit/Posnic/POS)](https://github.com/Posnic/POS) _(label: good first issue)_ <br> Offline-first open source POS and billing software for retail shops and restaurants, with online/offline workflows.
 - [PouchDB ![GitHub Repo Stars](https://img.shields.io/github/stars/apache/pouchdb) ![GitHub last commit](https://img.shields.io/github/last-commit/apache/pouchdb)](https://github.com/apache/pouchdb) _(label: help-wanted)_ <br> PouchDB is a pocket-sized database.
 - [ramda-adjunct ![GitHub Repo Stars](https://img.shields.io/github/stars/char0n/ramda-adjunct) ![GitHub last commit](https://img.shields.io/github/last-commit/char0n/ramda-adjunct)](https://github.com/char0n/ramda-adjunct) _(label: help-wanted)_ <br> Ramda Adjunct is the most popular and most comprehensive set of functional utilities for use with Ramda, providing a variety of useful, well tested functions with excellent documentation.
 - [Rawsec Cybersecurity Inventory](https://gitlab.com/rawsec/rawsec-cybersecurity-list) _(label: difficulty::easy)_ <br> An inventory of tools and resources that aims to help people to find everything related to CyberSecurity.
@@ -202,10 +210,6 @@ If you would like to be guided through how to contribute to a repository on GitH
 - [VuePress ![GitHub Repo Stars](https://img.shields.io/github/stars/vuejs/vuepress) ![GitHub last commit](https://img.shields.io/github/last-commit/vuejs/vuepress)](https://github.com/vuejs/vuepress) _(label: good first issue)_ <br> Minimalistic Vue-powered static site generator
 - [WarpDrive ![GitHub Repo Stars](https://img.shields.io/github/stars/warp-drive-data/warp-drive) ![GitHub last commit](https://img.shields.io/github/last-commit/warp-drive-data/warp-drive)](https://github.com/warp-drive-data/warp-drive) _(label: Good-for-New-Contributors)_ <br> A data persistence library for Ember.js.
 - [webdriver.io ![GitHub Repo Stars](https://img.shields.io/github/stars/webdriverio/webdriverio) ![GitHub last commit](https://img.shields.io/github/last-commit/webdriverio/webdriverio)](https://github.com/webdriverio/webdriverio) _(label: first-timers-only)_ <br> Next-gen browser and mobile automation test framework for Node.js
-
-## Javascript
-
-- [appsmith ![GitHub Repo Stars](https://img.shields.io/github/stars/appsmithorg/appsmith) ![GitHub last commit](https://img.shields.io/github/last-commit/appsmithorg/appsmith)](https://github.com/appsmithorg/appsmith) _(label: good first issue)_ <br> Drag & Drop internal tool builder
 
 ## JSON
 
@@ -303,7 +307,6 @@ If you would like to be guided through how to contribute to a repository on GitH
 - [chef ![GitHub Repo Stars](https://img.shields.io/github/stars/chef/chef) ![GitHub last commit](https://img.shields.io/github/last-commit/chef/chef)](https://github.com/chef/chef) _(label: Type:-Jump-In)_ <br> A systems integration framework, built to bring the benefits of configuration management to your entire infrastructure
 - [Hanami ![GitHub Repo Stars](https://img.shields.io/github/stars/hanami/hanami) ![GitHub last commit](https://img.shields.io/github/last-commit/hanami/hanami)](https://github.com/hanami/hanami) _(label: easy)_ <br> A modern framework for Ruby.
 - [JRuby ![GitHub Repo Stars](https://img.shields.io/github/stars/jruby/jruby) ![GitHub last commit](https://img.shields.io/github/last-commit/jruby/jruby)](https://github.com/jruby/jruby) _(label: beginner)_ <br> An implementation of Ruby on the Java Virtual Machine.
-- [mapknitter ![GitHub Repo Stars](https://img.shields.io/github/stars/publiclab/mapknitter) ![GitHub last commit](https://img.shields.io/github/last-commit/publiclab/mapknitter)](https://github.com/publiclab/mapknitter) _(label: first-timers-only)_ <br> Upload your own aerial images, position (rubbersheet) them in a web interface over existing map data, and share via web or composite and export for print.
 - [multiwoven ![GitHub Repo Stars](https://img.shields.io/github/stars/Multiwoven/multiwoven) ![GitHub last commit](https://img.shields.io/github/last-commit/Multiwoven/multiwoven)](https://github.com/Multiwoven/multiwoven) _(label: good first issue)_ <br> The open-source reverse ETL, data activation platform for modern data teams.
 - [ohai ![GitHub Repo Stars](https://img.shields.io/github/stars/chef/ohai) ![GitHub last commit](https://img.shields.io/github/last-commit/chef/ohai)](https://github.com/chef/ohai) _(label: Type:-Jump-In)_ <br> Ohai profiles your system and emits JSON
 - [open-build-service ![GitHub Repo Stars](https://img.shields.io/github/stars/openSUSE/open-build-service) ![GitHub last commit](https://img.shields.io/github/last-commit/openSUSE/open-build-service)](https://github.com/openSUSE/open-build-service) _(label: good first issue-:1st_place_medal:)_ <br> A generic system to build and distribute packages from sources in an automatic, consistent and reproducible way.
@@ -316,6 +319,7 @@ If you would like to be guided through how to contribute to a repository on GitH
 - [Hyper ![GitHub Repo Stars](https://img.shields.io/github/stars/hyperium/hyper) ![GitHub last commit](https://img.shields.io/github/last-commit/hyperium/hyper)](https://github.com/hyperium/hyper) _(label: E-easy)_ <br> A fast, safe and correct low-level HTTP library for Rust.
 - [nushell ![GitHub Repo Stars](https://img.shields.io/github/stars/nushell/nushell) ![GitHub last commit](https://img.shields.io/github/last-commit/nushell/nushell)](https://github.com/nushell/nushell) _(label: good first issue)_ <br> A modern shell for the GitHub era written in Rust.
 - [Ockam ![GitHub Repo Stars](https://img.shields.io/github/stars/build-trust/ockam) ![GitHub last commit](https://img.shields.io/github/last-commit/build-trust/ockam)](https://github.com/build-trust/ockam) _(label: good first issue)_ <br> End-to-end encryption and mutual authentication for distributed applications.
+- [OffPDF ![GitHub Repo Stars](https://img.shields.io/github/stars/McanKul/offpdf) ![GitHub last commit](https://img.shields.io/github/last-commit/McanKul/offpdf)](https://github.com/McanKul/offpdf) _(label: good first issue)_ <br> An open-source, offline-first desktop toolkit for editing, organizing, converting, compressing, securing, and OCRing PDF files locally.
 - [Pyrefly ![GitHub Repo Stars](https://img.shields.io/github/stars/facebook/pyrefly) ![GitHub last commit](https://img.shields.io/github/last-commit/facebook/pyrefly)](https://github.com/facebook/pyrefly) _(label: good first issue)_ <br> A fast Python typechecker and IDE written in Rust.
 - [Readest ![GitHub Repo Stars](https://img.shields.io/github/stars/readest/readest) ![GitHub last commit](https://img.shields.io/github/last-commit/readest/readest)](https://github.com/readest/readest) _(label: good first issue)_ <br> A modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform access, powerful tools, and an intuitive interface.
 - [Rust-Clippy ![GitHub Repo Stars](https://img.shields.io/github/stars/rust-lang/rust-clippy) ![GitHub last commit](https://img.shields.io/github/last-commit/rust-lang/rust-clippy)](https://github.com/rust-lang/rust-clippy) _(label: good first issue)_ <br> A bunch of lints to catch common mistakes and improve Rust code
@@ -329,7 +333,6 @@ If you would like to be guided through how to contribute to a repository on GitH
 ## Scala
 
 - [playframework ![GitHub Repo Stars](https://img.shields.io/github/stars/playframework/playframework) ![GitHub last commit](https://img.shields.io/github/last-commit/playframework/playframework)](https://github.com/playframework/playframework) _(label: good first issue)_ <br> The High Velocity Web Framework
-- [Twitter Util ![GitHub Repo Stars](https://img.shields.io/github/stars/twitter/util) ![GitHub last commit](https://img.shields.io/github/last-commit/twitter/util)](https://github.com/twitter/util) _(label: good first issue)_ <br> Wonderful reusable code from Twitter
 
 ## Smalltalk
 
@@ -343,9 +346,11 @@ If you would like to be guided through how to contribute to a repository on GitH
 
 - [activist ![GitHub Repo Stars](https://img.shields.io/github/stars/activist-org/activist) ![GitHub last commit](https://img.shields.io/github/last-commit/activist-org/activist)](https://github.com/activist-org/activist) _(label: good first issue)_ <br> activist.org is a network for political action that allows people to coordinate and collaborate on the issues that matter most to them.
 - [Amplication ![GitHub Repo Stars](https://img.shields.io/github/stars/amplication/amplication) ![GitHub last commit](https://img.shields.io/github/last-commit/amplication/amplication)](https://github.com/amplication/amplication) _(label: good first issue)_ <br> Amplication is an open-source development tool. It helps you develop quality Node.js applications without spending time on repetitive coding tasks.
+- [appsmith ![GitHub Repo Stars](https://img.shields.io/github/stars/appsmithorg/appsmith) ![GitHub last commit](https://img.shields.io/github/last-commit/appsmithorg/appsmith)](https://github.com/appsmithorg/appsmith) _(label: good first issue)_ <br> Drag & Drop internal tool builder
 - [Berry - Active development trunk for Yarn ![GitHub Repo Stars](https://img.shields.io/github/stars/yarnpkg/berry) ![GitHub last commit](https://img.shields.io/github/last-commit/yarnpkg/berry)](https://github.com/yarnpkg/berry) _(label: good first issue)_ <br> Fast, reliable, and secure dependency management.
 - [Booster ![GitHub Repo Stars](https://img.shields.io/github/stars/boostercloud/booster) ![GitHub last commit](https://img.shields.io/github/last-commit/boostercloud/booster)](https://github.com/boostercloud/booster) _(label: good first issue)_ <br> A truly serverless framework, write your code and deploy it in seconds without any server configuration files.
 - [Devopness ![GitHub Repo Stars](https://img.shields.io/github/stars/devopness/devopness) ![GitHub last commit](https://img.shields.io/github/last-commit/devopness/devopness)](https://github.com/devopness/devopness) _(label: good first issue)_ <br> Deploy any software to any cloud: automated DevOps workflows to save software teams time and money.
+- [DevShelf ![GitHub Repo Stars](https://img.shields.io/github/stars/RitualDev-Lab/DevShelf) ![GitHub last commit](https://img.shields.io/github/last-commit/RitualDev-Lab/DevShelf)](https://github.com/RitualDev-Lab/DevShelf) _(label: good first issue)_ <br> A crowdsourced, zero-paywall directory of developer tools, free APIs, and 1-click boilerplates with continuous uptime monitoring.
 - [DocsGPT ![GitHub Repo Stars](https://img.shields.io/github/stars/arc53/DocsGPT) ![GitHub last commit](https://img.shields.io/github/last-commit/arc53/DocsGPT)](https://github.com/arc53/DocsGPT) _(label: good first issue)_ <br> Open-source RAG assistant that helps users get reliable answers from knowledge sources while avoiding hallucinations.
 - [H2O Wave ![GitHub Repo Stars](https://img.shields.io/github/stars/h2oai/wave) ![GitHub last commit](https://img.shields.io/github/last-commit/h2oai/wave)](https://github.com/h2oai/wave) _(label: good first issue)_ <br> Realtime Web Apps and Dashboards framework for Python and R. Suited (not only) for AI audience.
 - [Hasura GraphQL Engine ![GitHub Repo Stars](https://img.shields.io/github/stars/hasura/graphql-engine) ![GitHub last commit](https://img.shields.io/github/last-commit/hasura/graphql-engine)](https://github.com/hasura/graphql-engine) _(label: good first issue)_ <br> Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events.
@@ -355,6 +360,7 @@ If you would like to be guided through how to contribute to a repository on GitH
 - [LitmusChaos ![GitHub Repo Stars](https://img.shields.io/github/stars/litmuschaos/litmus) ![GitHub last commit](https://img.shields.io/github/last-commit/litmuschaos/litmus)](https://github.com/litmuschaos/litmus) _(label: good first issue)_ <br> Litmus is a toolset to do cloud-native chaos engineering.
 - [Manifest ![GitHub Repo Stars](https://img.shields.io/github/stars/mnfst/manifest) ![GitHub last commit](https://img.shields.io/github/last-commit/mnfst/manifest)](https://github.com/mnfst/manifest) _(label: good first issue)_ <br> Manifest is an open-source Backend-as-a-Service allowing developers to create a backend easily and quickly.
 - [Metabase ![GitHub Repo Stars](https://img.shields.io/github/stars/metabase/metabase) ![GitHub last commit](https://img.shields.io/github/last-commit/metabase/metabase)](https://github.com/metabase/metabase) _(label: good first issue)_ <br> Open source business intelligence and analytics platform
+- [OffPDF ![GitHub Repo Stars](https://img.shields.io/github/stars/McanKul/offpdf) ![GitHub last commit](https://img.shields.io/github/last-commit/McanKul/offpdf)](https://github.com/McanKul/offpdf) _(label: good first issue)_ <br> An open-source, offline-first desktop toolkit for editing, organizing, converting, compressing, securing, and OCRing PDF files locally.
 - [OpenMetadata ![GitHub Repo Stars](https://img.shields.io/github/stars/open-metadata/OpenMetadata) ![GitHub last commit](https://img.shields.io/github/last-commit/open-metadata/OpenMetadata)](https://github.com/open-metadata/OpenMetadata) _(label: good first issue)_ <br> OpenMetadata is an all-in-one platform for data discovery, data quality, observability, governance, data lineage, and team collaboration.
 - [Oppia ![GitHub Repo Stars](https://img.shields.io/github/stars/oppia/oppia) ![GitHub last commit](https://img.shields.io/github/last-commit/oppia/oppia)](https://github.com/oppia/oppia) _(label: good first issue)_ <br> Oppia is an open-source project whose aim is to empower learners across the globe by providing access to high-quality, engaging education. We envision a society in which access to high-quality education is a human right rather than a privilege.
 - [Readest ![GitHub Repo Stars](https://img.shields.io/github/stars/readest/readest) ![GitHub last commit](https://img.shields.io/github/last-commit/readest/readest)](https://github.com/readest/readest) _(label: good first issue)_ <br> A modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform access, powerful tools, and an intuitive interface.
@@ -368,10 +374,6 @@ If you would like to be guided through how to contribute to a repository on GitH
 - [Visual Studio Code ![GitHub Repo Stars](https://img.shields.io/github/stars/Microsoft/vscode) ![GitHub last commit](https://img.shields.io/github/last-commit/Microsoft/vscode)](https://github.com/Microsoft/vscode) _(label: good first issue)_ <br> A code editor redefined and optimized for building and debugging modern web and cloud applications.
 - [Vite ![GitHub Repo Stars](https://img.shields.io/github/stars/vitejs/vite) ![GitHub last commit](https://img.shields.io/github/last-commit/vitejs/vite)](https://github.com/vitejs/vite) _(label: good first issue)_ <br> Next generation frontend tooling. It's fast! Alternative to Create React App
 - [Vitest ![GitHub Repo Stars](https://img.shields.io/github/stars/vitest-dev/vitest) ![GitHub last commit](https://img.shields.io/github/last-commit/vitest-dev/vitest)](https://github.com/vitest-dev/vitest) _(label: good first issue)_ <br> A blazing fast unit test framework powered by Vite.
-
-## Typescript
-
-- [appsmith ![GitHub Repo Stars](https://img.shields.io/github/stars/appsmithorg/appsmith) ![GitHub last commit](https://img.shields.io/github/last-commit/appsmithorg/appsmith)](https://github.com/appsmithorg/appsmith) _(label: good first issue)_ <br> Drag & Drop internal tool builder
 
 
 ## Contribute
