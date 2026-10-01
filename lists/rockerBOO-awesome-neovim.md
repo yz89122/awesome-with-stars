@@ -1487,6 +1487,7 @@ then it is not supported:
 - [gorbit99/codewindow.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/gorbit99/codewindow.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/gorbit99/codewindow.nvim)](https://github.com/gorbit99/codewindow.nvim) - Minimap plugin, that is closely integrated with Tree-sitter and the built-in LSP to display more information to the user.
 - [lewis6991/satellite.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/lewis6991/satellite.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/lewis6991/satellite.nvim)](https://github.com/lewis6991/satellite.nvim) - Decorate scrollbar.
 - [wsdjeg/scrollbar.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/wsdjeg/scrollbar.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/wsdjeg/scrollbar.nvim)](https://github.com/wsdjeg/scrollbar.nvim) - Floating scrollbar.
+- [mihovilrak/scroll.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/mihovilrak/scroll.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/mihovilrak/scroll.nvim)](https://github.com/mihovilrak/scroll.nvim) - Draggable scrollbars with support for diagnostics, Git changes and search matches and minimap.
 <!--lint disable double-link -->
 [**⬆ back to top**](#contents)
 <!--lint enable double-link -->
@@ -1867,6 +1868,7 @@ then it is not supported:
 - [nvim-mini/MiniMax ![GitHub Repo Stars](https://img.shields.io/github/stars/nvim-mini/MiniMax) ![GitHub last commit](https://img.shields.io/github/last-commit/nvim-mini/MiniMax)](https://github.com/nvim-mini/MiniMax) - A collection of self-contained and extensively commented configurations which mostly use MINI tools.
 - [TheItcor/MoaiVim ![GitHub Repo Stars](https://img.shields.io/github/stars/TheItcor/MoaiVim) ![GitHub last commit](https://img.shields.io/github/last-commit/TheItcor/MoaiVim)](https://github.com/TheItcor/MoaiVim) - A minimalist config that emulates a lightweight IDE.
 - [plutowang/nvim.pack ![GitHub Repo Stars](https://img.shields.io/github/stars/plutowang/nvim.pack) ![GitHub last commit](https://img.shields.io/github/last-commit/plutowang/nvim.pack)](https://github.com/plutowang/nvim.pack) - Declarative, event-driven lazy-loading configuration built purely on native Vim.pack for extreme startup performance.
+- [JimmyPla6z/FireVim](https://gitlab.com/JimmyPla6z/Firevim) - A lightweight, opinionated Neovim distribution with a single `init.lua`, built on Neovim 0.12+.
 <!--lint disable double-link -->
 [**⬆ back to top**](#contents)
 <!--lint enable double-link -->
