@@ -103,6 +103,7 @@
 - [flame_texturepacker ![GitHub Repo Stars](https://img.shields.io/github/stars/Brixto/flame_texturepacker) ![GitHub last commit](https://img.shields.io/github/last-commit/Brixto/flame_texturepacker)](https://github.com/Brixto/flame_texturepacker) - Import spritesheets from TexturePacker. By [Brixto](https://github.com/Brixto)
 - [leap ![GitHub Repo Stars](https://img.shields.io/github/stars/kurtome/leap) ![GitHub last commit](https://img.shields.io/github/last-commit/kurtome/leap)](https://github.com/kurtome/leap) - An opinionated toolkit for creating 2D platformers. By [kurtome](https://github.com/kurtome)
 - [fuse ![GitHub Repo Stars](https://img.shields.io/github/stars/misha/flame_fuse) ![GitHub last commit](https://img.shields.io/github/last-commit/misha/flame_fuse)](https://github.com/misha/flame_fuse) - Behavior composition with hooks for Flame components. By [Misha](https://github.com/misha)
+- [flame_flutter3d ![GitHub Repo Stars](https://img.shields.io/github/stars/pleiondev/flutter3d) ![GitHub last commit](https://img.shields.io/github/last-commit/pleiondev/flutter3d)](https://github.com/pleiondev/flutter3d/tree/main/packages/flame_flutter3d) - Draws a flutter3d 3D scene under a Flame game and keeps the two in sync: transforms, physics contacts, input and the camera. By [dzolotov](https://github.com/dzolotov)
 
 ## Projects
 
