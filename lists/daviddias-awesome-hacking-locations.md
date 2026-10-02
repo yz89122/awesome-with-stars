@@ -434,7 +434,7 @@ Wifi | Power | Address | Open Hours
 ---------------------------------------------------------------
 ---------------------------------------------------------------
 
-# Germany 🇩🇪
+# Germany 🇩���
 
 ## Berlin
 
@@ -687,7 +687,7 @@ Webpage: https://www.facebook.com/Racoon-Coffee-More-as-303455009847582/
 
 Wifi| Power | Address  | Open Hours
 --- | ----- | ------------------------------ | -------------------------------------------
-✔   | ✔     | [Kongens gate 6](https://her.is/2qR96l4) | Mon-Thu 7:30-17:00, Fri 7:30-23:00, Sat 10:00-17:00, Sun 12:00-17:00
+✔   | ���     | [Kongens gate 6](https://her.is/2qR96l4) | Mon-Thu 7:30-17:00, Fri 7:30-23:00, Sat 10:00-17:00, Sun 12:00-17:00
 
 
 ---------------------------------------------------------------
@@ -958,7 +958,7 @@ Wifi | Power | Address | Open Hours
 
 ![](http://www.speedtest.net/result/5425343488.png)
 
-#### Café Candelabro
+#### Caf�� Candelabro
 
 > Coffee shop, library and bookshop right in the center of Porto.
 
