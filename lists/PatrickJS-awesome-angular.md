@@ -376,6 +376,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [angular-interview-questions ![GitHub Repo Stars](https://img.shields.io/github/stars/Devinterview-io/angular-interview-questions) ![GitHub last commit](https://img.shields.io/github/last-commit/Devinterview-io/angular-interview-questions)](https://github.com/Devinterview-io/angular-interview-questions) - Angular interview questions and answers to help you prepare for your next technical interview.
 * [dotnet_angular_cli_cheatsheet ![GitHub Repo Stars](https://img.shields.io/github/stars/shashinvision/dotnet_angular_cli_cheatsheet) ![GitHub last commit](https://img.shields.io/github/last-commit/shashinvision/dotnet_angular_cli_cheatsheet)](https://github.com/shashinvision/dotnet_angular_cli_cheatsheet) - A comprehensive guide for full-stack developers working with .NET and Angular.
 * [TMS Outsource Angular Cheat Sheet](https://tms-outsource.com/cs/angular-cheat-sheet/) - You'll find every decorator, block, operator and CLI flag worth remembering. Searchable, filterable, copy-ready.
+* [angular-interview-flashcards-free ![GitHub Repo Stars](https://img.shields.io/github/stars/tomaszs/angular-interview-flashcards-free) ![GitHub last commit](https://img.shields.io/github/last-commit/tomaszs/angular-interview-flashcards-free)](https://github.com/tomaszs/angular-interview-flashcards-free) - Walk into your Angular interview prepared with 100 curated questions and clear, structured answers accessible across all your devices.
 
 ### Exercises
 
@@ -1504,6 +1505,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [svg-engine ![GitHub Repo Stars](https://img.shields.io/github/stars/mosaicoo/svg-engine) ![GitHub last commit](https://img.shields.io/github/last-commit/mosaicoo/svg-engine)](https://github.com/mosaicoo/svg-engine) - An embeddable, headless-first SVG editor built on Angular signals.
 * [Updog](https://docs.updog.tech/getting-started/other-frameworks/) - A client-side data importer and spreadsheet editor.
 * [trevixal-editor ![GitHub Repo Stars](https://img.shields.io/github/stars/adityabhalsod/trevixal-editor) ![GitHub last commit](https://img.shields.io/github/last-commit/adityabhalsod/trevixal-editor)](https://github.com/adityabhalsod/trevixal-editor) - An independent, custom-engineered WYSIWYG rich-text engine with an Angular integration.
+* [kritzel ![GitHub Repo Stars](https://img.shields.io/github/stars/kasual1/kritzel) ![GitHub last commit](https://img.shields.io/github/last-commit/kasual1/kritzel)](https://github.com/kasual1/kritzel) - Infinite canvas editor with first-class support for Angular.
 
 ### File Upload
 

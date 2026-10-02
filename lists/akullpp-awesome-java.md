@@ -2037,7 +2037,7 @@ _Libraries that handle serialization with high efficiency._
 
 > **[FlatBuffers ![GitHub Repo Stars](https://img.shields.io/github/stars/google/flatbuffers) ![GitHub last commit](https://img.shields.io/github/last-commit/google/flatbuffers)](https://github.com/google/flatbuffers)** <kbd>★ 26.5k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Memory-efficient serialization library that can access serialized data without unpacking and parsing it.
 
-> **[Kryo ![GitHub Repo Stars](https://img.shields.io/github/stars/EsotericSoftware/kryo) ![GitHub last commit](https://img.shields.io/github/last-commit/EsotericSoftware/kryo)](https://github.com/EsotericSoftware/kryo)** <kbd>★ 6.5k</kbd> <kbd>BSD-3-Clause</kbd> ���<br>Fast and efficient object graph serialization framework.
+> **[Kryo ![GitHub Repo Stars](https://img.shields.io/github/stars/EsotericSoftware/kryo) ![GitHub last commit](https://img.shields.io/github/last-commit/EsotericSoftware/kryo)](https://github.com/EsotericSoftware/kryo)** <kbd>★ 6.5k</kbd> <kbd>BSD-3-Clause</kbd> 🟢<br>Fast and efficient object graph serialization framework.
 
 > **[MessagePack ![GitHub Repo Stars](https://img.shields.io/github/stars/msgpack/msgpack-java) ![GitHub last commit](https://img.shields.io/github/last-commit/msgpack/msgpack-java)](https://github.com/msgpack/msgpack-java)** <kbd>★ 1.5k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Efficient binary serialization format.
 
