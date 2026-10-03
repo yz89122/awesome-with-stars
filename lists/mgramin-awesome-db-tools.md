@@ -23,7 +23,7 @@ For updates on `awesome-db-tools` and thoughts/news about databases/tools/SQL fo
 - [Application platforms](#application-platforms)
 - [Backup](#backup)
 - [Cloning](#cloning)
-- [Monitoring/Statistics/Perfomance](#monitoringstatisticsperfomance)
+- [Monitoring/Statistics/Performance](#monitoringstatisticsperformance)
   - [Prometheus](#prometheus)
   - [Zabbix](#zabbix)
 - [Testing](#testing)
@@ -60,7 +60,7 @@ For updates on `awesome-db-tools` and thoughts/news about databases/tools/SQL fo
 ## IDE
 - [AnySQL Maestro](https://www.sqlmaestro.com/products/anysql/maestro) - Premier multi-purpose admin tool for database management, control and development.
 - [Aqua Data Studio](https://www.aquafold.com/aquadatastudio) - Productivity software for Database Developers, DBAs, and Analysts.
-- [Coginiti Pro](https://www.coginiti.co/products/coginiti-pro/) - Modern IDE for analyst and analytics engineers with proweful script and grid functionality.
+- [Coginiti Pro](https://www.coginiti.co/products/coginiti-pro/) - Modern IDE for analyst and analytics engineers with powerful script and grid functionality.
 - [Database .net](http://fishcodelib.com/Database.htm) - Multiple database management tool with support for 20+ databases.
 - [Database Workbench](https://www.upscene.com/database_workbench/) - Complete IDE for database design, development and testing for Oracle, SQL Server, PostgreSQL, MySQL, MariaDB, Firebird, InterBase, SQLite and NexusDB.
 - [DataGrip](https://www.jetbrains.com/datagrip) - Cross-Platform IDE for Databases & SQL by JetBrains.
@@ -236,7 +236,7 @@ Low-code and no-code platforms for application building
 - [Budibase ![GitHub Repo Stars](https://img.shields.io/github/stars/Budibase/budibase) ![GitHub last commit](https://img.shields.io/github/last-commit/Budibase/budibase)](https://github.com/Budibase/budibase) - Low-code platform for creating internal apps in minutes.
 - [ILLA Cloud ![GitHub Repo Stars](https://img.shields.io/github/stars/illacloud/illa-builder) ![GitHub last commit](https://img.shields.io/github/last-commit/illacloud/illa-builder)](https://github.com/illacloud/illa-builder) - Low-code internal tool building platform.
 - [Nhost ![GitHub Repo Stars](https://img.shields.io/github/stars/nhost/nhost) ![GitHub last commit](https://img.shields.io/github/last-commit/nhost/nhost)](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL.
-- [Saltcorn ![GitHub Repo Stars](https://img.shields.io/github/stars/saltcorn/saltcorn) ![GitHub last commit](https://img.shields.io/github/last-commit/saltcorn/saltcorn)](https://github.com/saltcorn/saltcorn) - Open source no-code builder for web datatabase applications. Server and drag-and-drop UI builder, data stored in PostgreSQL or SQLite.
+- [Saltcorn ![GitHub Repo Stars](https://img.shields.io/github/stars/saltcorn/saltcorn) ![GitHub last commit](https://img.shields.io/github/last-commit/saltcorn/saltcorn)](https://github.com/saltcorn/saltcorn) - Open source no-code builder for web database applications. Server and drag-and-drop UI builder, data stored in PostgreSQL or SQLite.
 - [SQLPage ![GitHub Repo Stars](https://img.shields.io/github/stars/sqlpage/SQLPage) ![GitHub last commit](https://img.shields.io/github/last-commit/sqlpage/SQLPage)](https://github.com/sqlpage/SQLPage) - Fast SQL-only data application builder. Automatically build a UI on top of SQL queries.
 - [Tooljet ![GitHub Repo Stars](https://img.shields.io/github/stars/ToolJet/ToolJet) ![GitHub last commit](https://img.shields.io/github/last-commit/ToolJet/ToolJet)](https://github.com/ToolJet/ToolJet) - Open-source low-code platform to build internal tools.
 
@@ -255,7 +255,7 @@ Low-code and no-code platforms for application building
 - [Spawn](https://spawn.cc/) - Cloud service for creating instant database copies for development and CI. No more local db installs, instant recovery to arbitrary save points, isolated copies for each feature branch or test. Instant provisioning regardless of database size.
 
 
-## Monitoring/Statistics/Perfomance
+## Monitoring/Statistics/Performance
 - [ASH Viewer ![GitHub Repo Stars](https://img.shields.io/github/stars/akardapolov/ASH-Viewer) ![GitHub last commit](https://img.shields.io/github/last-commit/akardapolov/ASH-Viewer)](https://github.com/akardapolov/ASH-Viewer) - Provides a graphical view of active session history data within the Oracle and PostgreSQL DB.
 - [Metis](https://www.metisdata.io/product/troubleshooting) - Provides observability and performance tuning for SQL databases.
 - [Monyog](https://www.webyog.com/product/monyog) - Agentless & Cost-effective MySQL Monitoring Tool.
@@ -307,7 +307,7 @@ Low-code and no-code platforms for application building
 - [pg_auto_failover ![GitHub Repo Stars](https://img.shields.io/github/stars/citusdata/pg_auto_failover) ![GitHub last commit](https://img.shields.io/github/last-commit/citusdata/pg_auto_failover)](https://github.com/citusdata/pg_auto_failover) - PostgreSQL extension and service for automated failover and high-availability.
 - [pglookout ![GitHub Repo Stars](https://img.shields.io/github/stars/aiven/pglookout) ![GitHub last commit](https://img.shields.io/github/last-commit/aiven/pglookout)](https://github.com/aiven/pglookout) - PostgreSQL replication monitoring and failover daemon.
 - [pgslice ![GitHub Repo Stars](https://img.shields.io/github/stars/ankane/pgslice) ![GitHub last commit](https://img.shields.io/github/last-commit/ankane/pgslice)](https://github.com/ankane/pgslice) - PostgreSQL partitioning as easy as pie.
-- [PostgreSQL Automatic Failover ![GitHub Repo Stars](https://img.shields.io/github/stars/ClusterLabs/PAF) ![GitHub last commit](https://img.shields.io/github/last-commit/ClusterLabs/PAF)](https://github.com/ClusterLabs/PAF) - High-Availibility for PostgreSQL, based on industry references Pacemaker and Corosync.
+- [PostgreSQL Automatic Failover ![GitHub Repo Stars](https://img.shields.io/github/stars/ClusterLabs/PAF) ![GitHub last commit](https://img.shields.io/github/last-commit/ClusterLabs/PAF)](https://github.com/ClusterLabs/PAF) - High-Availability for PostgreSQL, based on industry references Pacemaker and Corosync.
 - [autobase ![GitHub Repo Stars](https://img.shields.io/github/stars/vitabaks/autobase) ![GitHub last commit](https://img.shields.io/github/last-commit/vitabaks/autobase)](https://github.com/vitabaks/autobase) - Open-source DBaaS that automates the deployment and management of highly available PostgreSQL clusters.
 - [Vitess ![GitHub Repo Stars](https://img.shields.io/github/stars/vitessio/vitess) ![GitHub last commit](https://img.shields.io/github/last-commit/vitessio/vitess)](https://github.com/vitessio/vitess) - Database clustering system for horizontal scaling of MySQL through generalized sharding.
 
@@ -427,14 +427,14 @@ Learning and puzzles for SQL
 - [SQL Murder Mystery ![GitHub Repo Stars](https://img.shields.io/github/stars/NUKnightLab/sql-mysteries) ![GitHub last commit](https://img.shields.io/github/last-commit/NUKnightLab/sql-mysteries)](https://github.com/NUKnightLab/sql-mysteries) - Self-directed lesson to learn SQL concepts and commands and a fun game for experienced SQL users to solve an intriguing crime.
 
 ### Plan
-- [pev2 ![GitHub Repo Stars](https://img.shields.io/github/stars/dalibo/pev2) ![GitHub last commit](https://img.shields.io/github/last-commit/dalibo/pev2)](https://github.com/dalibo/pev2) - A Vue.js component to show a graphical vizualization of a PostgreSQL execution plan.
+- [pev2 ![GitHub Repo Stars](https://img.shields.io/github/stars/dalibo/pev2) ![GitHub last commit](https://img.shields.io/github/last-commit/dalibo/pev2)](https://github.com/dalibo/pev2) - A Vue.js component to show a graphical visualization of a PostgreSQL execution plan.
 - [pg_flame ![GitHub Repo Stars](https://img.shields.io/github/stars/mgartner/pg_flame) ![GitHub last commit](https://img.shields.io/github/last-commit/mgartner/pg_flame)](https://github.com/mgartner/pg_flame) - A flamegraph generator for PostgreSQL `EXPLAIN ANALYZE` output.
 
 ### Scripts
 Useful SQL-scripts for various purposes
 - [DBA MultiTool ![GitHub Repo Stars](https://img.shields.io/github/stars/LowlyDBA/dba-multitool) ![GitHub last commit](https://img.shields.io/github/last-commit/LowlyDBA/dba-multitool)](https://github.com/LowlyDBA/dba-multitool) - T-SQL scripts for the long haul: optimizing storage, on-the-fly documentation, and general administrative needs for SQL Server.
 - [pgx_scripts ![GitHub Repo Stars](https://img.shields.io/github/stars/pgexperts/pgx_scripts) ![GitHub last commit](https://img.shields.io/github/last-commit/pgexperts/pgx_scripts)](https://github.com/pgexperts/pgx_scripts) - A collection of useful little scripts for database analysis and administration, created by our team at PostgreSQL Experts.
-- [pgsql-bloat-estimation ![GitHub Repo Stars](https://img.shields.io/github/stars/ioguix/pgsql-bloat-estimation) ![GitHub last commit](https://img.shields.io/github/last-commit/ioguix/pgsql-bloat-estimation)](https://github.com/ioguix/pgsql-bloat-estimation) - Queries to mesure statistical bloat in indexes and tables for PostgreSQL.
+- [pgsql-bloat-estimation ![GitHub Repo Stars](https://img.shields.io/github/stars/ioguix/pgsql-bloat-estimation) ![GitHub last commit](https://img.shields.io/github/last-commit/ioguix/pgsql-bloat-estimation)](https://github.com/ioguix/pgsql-bloat-estimation) - Queries to measure statistical bloat in indexes and tables for PostgreSQL.
 - [pgWikiDont](https://gitlab.com/depesz/pgWikiDont) - SQL test that checks if your database follows rules from <https://wiki.postgresql.org/wiki/Don't_Do_This>.
 - [pg-utils ![GitHub Repo Stars](https://img.shields.io/github/stars/dataegret/pg-utils) ![GitHub last commit](https://img.shields.io/github/last-commit/dataegret/pg-utils)](https://github.com/dataegret/pg-utils) - Useful PostgreSQL utilities.
 - [PostgreSQL cheat sheet](https://postgrescheatsheet.com) - Useful SQL-scripts and commands by <timescale.com>.
@@ -479,7 +479,7 @@ Useful SQL-scripts for various purposes
 - [Litestream ![GitHub Repo Stars](https://img.shields.io/github/stars/benbjohnson/litestream) ![GitHub last commit](https://img.shields.io/github/last-commit/benbjohnson/litestream)](https://github.com/benbjohnson/litestream) - Streaming replication for SQLite.
 - [pgsync ![GitHub Repo Stars](https://img.shields.io/github/stars/ankane/pgsync) ![GitHub last commit](https://img.shields.io/github/last-commit/ankane/pgsync)](https://github.com/ankane/pgsync) - Sync PostgreSQL data between databases.
 - [pg_chameleon ![GitHub Repo Stars](https://img.shields.io/github/stars/the4thdoctor/pg_chameleon) ![GitHub last commit](https://img.shields.io/github/last-commit/the4thdoctor/pg_chameleon)](https://github.com/the4thdoctor/pg_chameleon) - MySQL to PostgreSQL replica system written in Python 3. The system use the library mysql-replication to pull the row images from MySQL which are stored into PostgreSQL as JSONB.
-- [PGDeltaStream ![GitHub Repo Stars](https://img.shields.io/github/stars/hasura/pgdeltastream) ![GitHub last commit](https://img.shields.io/github/last-commit/hasura/pgdeltastream)](https://github.com/hasura/pgdeltastream) - A Golang webserver to stream PostgreSQL changes atleast-once over websockets, using PostgreSQL logical decoding feature.
+- [PGDeltaStream ![GitHub Repo Stars](https://img.shields.io/github/stars/hasura/pgdeltastream) ![GitHub last commit](https://img.shields.io/github/last-commit/hasura/pgdeltastream)](https://github.com/hasura/pgdeltastream) - A Golang webserver to stream PostgreSQL changes at-least-once over websockets, using PostgreSQL logical decoding feature.
 - [repmgr ![GitHub Repo Stars](https://img.shields.io/github/stars/2ndQuadrant/repmgr) ![GitHub last commit](https://img.shields.io/github/last-commit/2ndQuadrant/repmgr)](https://github.com/2ndQuadrant/repmgr) - The Most Popular Replication Manager for PostgreSQL.
 
 ### Compare

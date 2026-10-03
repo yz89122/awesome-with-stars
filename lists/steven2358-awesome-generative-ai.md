@@ -161,6 +161,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Local Deep Research ![GitHub Repo Stars](https://img.shields.io/github/stars/LearningCircuit/local-deep-research) ![GitHub last commit](https://img.shields.io/github/last-commit/LearningCircuit/local-deep-research)](https://github.com/LearningCircuit/local-deep-research) - A deep research tool for searching academic sources, the web, and private documents with local or cloud LLMs. [#opensource ![GitHub Repo Stars](https://img.shields.io/github/stars/LearningCircuit/local-deep-research) ![GitHub last commit](https://img.shields.io/github/last-commit/LearningCircuit/local-deep-research)](https://github.com/LearningCircuit/local-deep-research)
 - [Rayyan](https://www.rayyan.ai/) - An AI-powered platform for managing systematic literature reviews with collaborative screening and data management tools.
 - [Paper2Agent](https://paper2agent.ai/) - Converts research papers and associated codebases into tested MCP servers and interactive AI agents. [#opensource ![GitHub Repo Stars](https://img.shields.io/github/stars/jmiao24/Paper2Agent) ![GitHub last commit](https://img.shields.io/github/last-commit/jmiao24/Paper2Agent)](https://github.com/jmiao24/Paper2Agent)
+- [Ai2 ASTA](https://asta.allen.ai/) - A scholarly research assistant for finding papers, generating cited literature reports, and analyzing research data.
 
 ### Leaderboards
 
