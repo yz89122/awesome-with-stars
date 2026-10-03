@@ -563,7 +563,7 @@ _Tools for batch, stream, table and data-transformation workloads._
 
 > **[Scriptella ETL ![GitHub Repo Stars](https://img.shields.io/github/stars/scriptella/scriptella-etl) ![GitHub last commit](https://img.shields.io/github/last-commit/scriptella/scriptella-etl)](https://github.com/scriptella/scriptella-etl)** <kbd>★ 125</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Open-source Java-based ETL and script execution tool for transferring and transforming data between databases, files, and other sources.
 
-> **[Siddhi ![GitHub Repo Stars](https://img.shields.io/github/stars/siddhi-io/siddhi) ![GitHub last commit](https://img.shields.io/github/last-commit/siddhi-io/siddhi)](https://github.com/siddhi-io/siddhi)** <kbd>★ 1.6k</kbd> <kbd>Apache-2.0</kbd> 🟠<br>Cloud native streaming and complex event processing engine.
+> **[Siddhi ![GitHub Repo Stars](https://img.shields.io/github/stars/siddhi-io/siddhi) ![GitHub last commit](https://img.shields.io/github/last-commit/siddhi-io/siddhi)](https://github.com/siddhi-io/siddhi)** <kbd>★ 1.6k</kbd> <kbd>Apache-2.0</kbd> ����<br>Cloud native streaming and complex event processing engine.
 
 > **[Smooks ![GitHub Repo Stars](https://img.shields.io/github/stars/smooks/smooks) ![GitHub last commit](https://img.shields.io/github/last-commit/smooks/smooks)](https://github.com/smooks/smooks)** <kbd>★ 420</kbd> 🟠<br>Framework for fragment-based message processing. (Apache-2.0 OR LGPL-3.0-or-later)
 
