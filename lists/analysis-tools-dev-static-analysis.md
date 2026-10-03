@@ -1022,7 +1022,7 @@ A ktfmt IntelliJ plugin is available from the plugin repository. To install it, 
 * 💪 Powerful: Detects unused, shadow and misplaced composer dependencies
 * ⚡ Performant: Scans 15 000 files in 2s!
 * ⚙️ Configurable: Fine-grained ignores via PHP config
-* ��️ Lightweight: No composer dependencies
+* 🕸️ Lightweight: No composer dependencies
 * 🍰 Easy-to-use: No config needed for first try
 * ✨ Compatible: PHP >= 7.2
 
@@ -2933,7 +2933,7 @@ but with the following improvements:
 
 - [LintLang](https://lintlang.ai/) — Static linter for natural-language instructions that control AI agents. Detects ambiguous tool descriptions, missing limits, conflicting directives, and schema gaps in local files and CI without model or network calls.
 
-- [markdownlint ![GitHub Repo Stars](https://img.shields.io/github/stars/DavidAnson/markdownlint) ![GitHub last commit](https://img.shields.io/github/last-commit/DavidAnson/markdownlint)](https://github.com/DavidAnson/markdownlint) — Node.js -based style checker and lint tool for Markdown/CommonMark files.
+- [markdownlint ![GitHub Repo Stars](https://img.shields.io/github/stars/DavidAnson/markdownlint) ![GitHub last commit](https://img.shields.io/github/last-commit/DavidAnson/markdownlint)](https://github.com/DavidAnson/markdownlint) �� Node.js -based style checker and lint tool for Markdown/CommonMark files.
 
 - [mdformat](https://mdformat.rtfd.io) — CommonMark compliant Markdown formatter
 

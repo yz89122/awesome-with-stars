@@ -235,6 +235,7 @@ Tools that enhance your development workflow when using Gemini CLI.
 - [Agent Cat](https://agentcat.app) - Free macOS/Windows menu-bar app that shows Gemini CLI and Antigravity usage and limits next to Claude Code and Codex, read from local files.
 - [Tokenmeter ![GitHub Repo Stars](https://img.shields.io/github/stars/mugeshk97/tokenmeter) ![GitHub last commit](https://img.shields.io/github/last-commit/mugeshk97/tokenmeter)](https://github.com/mugeshk97/tokenmeter) - Desktop widget that shows Gemini CLI tokens today and over the last 7 days, alongside Claude Code, Codex and Copilot limits. Linux, Windows and macOS.
 - [Dazzler ![GitHub Repo Stars](https://img.shields.io/github/stars/jongos/Dazzler) ![GitHub last commit](https://img.shields.io/github/last-commit/jongos/Dazzler)](https://github.com/jongos/Dazzler) - Agent Skill for frontend and document design (typography, palettes, 30 templates, offline design checks) with setup instructions for Gemini CLI.
+- [Caprock ![GitHub Repo Stars](https://img.shields.io/github/stars/dspv/caprock) ![GitHub last commit](https://img.shields.io/github/last-commit/dspv/caprock)](https://github.com/dspv/caprock) - Local dashboard that starts Gemini CLI sessions and follows them through the telemetry file Gemini writes, on the same screens as Claude Code, Codex and OpenCode: live activity, token cost per repository, searchable history.
 
 ## Browser Extensions
 
