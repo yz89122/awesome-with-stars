@@ -433,7 +433,7 @@ With the introduction of [Effect Handlers](https://ocaml.org/manual/effects.html
   - [OCaml on iOS 7 Released](http://psellos.com/2014/08/2014.08.ocamlxarm-402.html)
   - [OCaml + Cordova = more secured, typed and hybrid mobile applications](https://dannywillems.github.io/2016/07/14/ocaml-cordova-secured-typed-hybrid-mobile-applications.html)
 - **Bindings**:
-  - [Cordova plugins ![GitHub Repo Stars](https://img.shields.io/github/stars/dannywillems/ocaml-cordova-plugin-list) ![GitHub last commit](https://img.shields.io/github/last-commit/dannywillems/ocaml-cordova-plugin-list)](https://github.com/dannywillems/ocaml-cordova-plugin-list) �� List of bindings to Cordova plugins. Get access to native device components like accelerometer, SMS, geolocation, etc in OCaml.
+  - [Cordova plugins ![GitHub Repo Stars](https://img.shields.io/github/stars/dannywillems/ocaml-cordova-plugin-list) ![GitHub last commit](https://img.shields.io/github/last-commit/dannywillems/ocaml-cordova-plugin-list)](https://github.com/dannywillems/ocaml-cordova-plugin-list) – List of bindings to Cordova plugins. Get access to native device components like accelerometer, SMS, geolocation, etc in OCaml.
 
 
 ## Networking
