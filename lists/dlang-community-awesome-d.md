@@ -83,7 +83,7 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 * [forum.dlang.org](https://forum.dlang.org/) - Official forum for D. Many interesting discussions occurring on a daily basis.
 * [code.dlang.org](https://code.dlang.org) - Official library registry for D.
 * [GitHub organization](https://github.com/dlang) - Official GitHub organization for D. Repository for all official D tools & code.
-* [Issue tracker](https://github.com/dlang) – Official issue tracker for D.
+* [Issue tracker](https://github.com/dlang) – Official issue tracker for D. Older reports can be found in the [archived tracker](https://issues.dlang.org/).
 * [Language specification](https://dlang.org/spec/spec.html) - The D programming language specification.
 
 ### Status page
@@ -113,6 +113,7 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 ## Events
 
 * [DConf](https://dconf.org/) - The premier event where D luminaries exchange knowledge, insight, and inspiration on everything related to the D language and its ecosystem.
+* [D Programming Language Symposium](https://dlangsymposium.com/) - A two-day symposium on the D language featuring a colloquium and talks.
 * [Beerconf](https://wiki.dlang.org/Beerconf) - A casual, monthly virtual meetup for D community members.
 
 ## Organizations
@@ -206,6 +207,7 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 
 * [D-Scanner ![GitHub Repo Stars](https://img.shields.io/github/stars/dlang-community/D-Scanner) ![GitHub last commit](https://img.shields.io/github/last-commit/dlang-community/D-Scanner)](https://github.com/dlang-community/D-Scanner) - Swiss-army knife for D source code (linting, static analysis, D code parsing, etc.)
 * [dfmt ![GitHub Repo Stars](https://img.shields.io/github/stars/dlang-community/dfmt) ![GitHub last commit](https://img.shields.io/github/last-commit/dlang-community/dfmt)](https://github.com/dlang-community/dfmt) - formatter for D source code
+* [dejadoc](https://codeberg.org/ddn/dejadoc) - Static documentation generator for D packages, generating searchable HTML documentation from DUB registry packages. See it in action at [dlang.uk](https://dlang.uk).
 
 ## Build Tools
 
@@ -415,6 +417,9 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 * [Inochi Session ![GitHub Repo Stars](https://img.shields.io/github/stars/Inochi2D/inochi-session) ![GitHub last commit](https://img.shields.io/github/last-commit/Inochi2D/inochi-session)](https://github.com/Inochi2D/inochi-session) - Application that allows streaming with Inochi2D puppets.
 * [Sorting Algorithms](https://codeberg.org/GuineaPigUuhh/sorting-algorithms) - sorting algorithms visualizer.
 * [Crimson](https://codeberg.org/GuineaPigUuhh/crimson/) - Simple text editor.
+* [dterm](https://codeberg.org/dejan/dterm) - A minimalistic terminal emulator written in D using GTK4 and VTE.
+* [Daphne](https://codeberg.org/Kymorphia/daphne-music) - Advanced audio player and music library manager written in D using [giD ![GitHub Repo Stars](https://img.shields.io/github/stars/Kymorphia/gid) ![GitHub last commit](https://img.shields.io/github/last-commit/Kymorphia/gid)](https://github.com/Kymorphia/gid) (GTK 4 and GStreamer).
+* [Veb](https://codeberg.org/ddn/veb) - Minimal, tabbed web browser written in D using [giD ![GitHub Repo Stars](https://img.shields.io/github/stars/Kymorphia/gid) ![GitHub last commit](https://img.shields.io/github/last-commit/Kymorphia/gid)](https://github.com/Kymorphia/gid) (GTK4, libadwaita, WebKitGTK 6).
 
 ## Game Bindings
 
@@ -470,6 +475,7 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 * [text-mode ![GitHub Repo Stars](https://img.shields.io/github/stars/AuburnSounds/text-mode) ![GitHub last commit](https://img.shields.io/github/last-commit/AuburnSounds/text-mode)](https://github.com/AuburnSounds/text-mode) - Virtual text mode with 8x8 Unicode font and markup language.
 * [gfm ![GitHub Repo Stars](https://img.shields.io/github/stars/drug007/gfm7) ![GitHub last commit](https://img.shields.io/github/last-commit/drug007/gfm7)](https://github.com/drug007/gfm7) - D gamedev toolkit.
 * [wasip1libc-d ![GitHub Repo Stars](https://img.shields.io/github/stars/Kapendev/wasip1libc-d) ![GitHub last commit](https://img.shields.io/github/last-commit/Kapendev/wasip1libc-d)](https://github.com/Kapendev/wasip1libc-d) - A minimal WASI Preview 1 libc + browser host.
+* [raylib-d-template ![GitHub Repo Stars](https://img.shields.io/github/stars/Kapendev/raylib-d-template) ![GitHub last commit](https://img.shields.io/github/last-commit/Kapendev/raylib-d-template)](https://github.com/Kapendev/raylib-d-template) - A simple template for raylib-d projects.
 
 *Libraries for 2D-related projects.*
 

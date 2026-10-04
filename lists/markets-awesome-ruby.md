@@ -1199,6 +1199,7 @@ Where to discover new Ruby libraries, projects and trends.
 * Data analysis/structures
   * [daru ![GitHub Repo Stars](https://img.shields.io/github/stars/SciRuby/daru) ![GitHub last commit](https://img.shields.io/github/last-commit/SciRuby/daru)](https://github.com/SciRuby/daru) - A library for storage, analysis, manipulation and visualization of data in pure Ruby.
   * [Daru::View ![GitHub Repo Stars](https://img.shields.io/github/stars/SciRuby/daru-view) ![GitHub last commit](https://img.shields.io/github/last-commit/SciRuby/daru-view)](https://github.com/SciRuby/daru-view) - A library for easy and interactive plotting on Jupyter Notebooks and web applications.
+  * [Polars ![GitHub Repo Stars](https://img.shields.io/github/stars/ankane/ruby-polars) ![GitHub last commit](https://img.shields.io/github/last-commit/ankane/ruby-polars)](https://github.com/ankane/ruby-polars) - Blazingly fast DataFrames for Ruby, powered by Polars.
   * [Rgl ![GitHub Repo Stars](https://img.shields.io/github/stars/monora/rgl) ![GitHub last commit](https://img.shields.io/github/last-commit/monora/rgl)](https://github.com/monora/rgl) - A framework for graph data structures and algorithms.
 * Numerical arrays
   * [NMatrix ![GitHub Repo Stars](https://img.shields.io/github/stars/sciruby/nmatrix) ![GitHub last commit](https://img.shields.io/github/last-commit/sciruby/nmatrix)](https://github.com/sciruby/nmatrix) - Fast numerical linear algebra library for Ruby.

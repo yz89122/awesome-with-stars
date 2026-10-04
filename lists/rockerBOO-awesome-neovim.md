@@ -295,7 +295,7 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 - [zgs225/pi2.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/zgs225/pi2.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/zgs225/pi2.nvim)](https://github.com/zgs225/pi2.nvim) - Frontend for the [pi](https://pi.dev) coding agent with in-editor chat, reviewed diffs, session-tree navigation, and extension prompts.
 - [jaitd/fieldguide.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/jaitd/fieldguide.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/jaitd/fieldguide.nvim)](https://github.com/jaitd/fieldguide.nvim) - Sidebar agent for your own config; will inform you if config still boots when changing it and provides answers from your installed plugins' docs, the versions on disk, and the live session.
 <!--lint disable double-link -->
-[**��� back to top**](#contents)
+[**⬆ back to top**](#contents)
 <!--lint enable double-link -->
 
 ## Programming Languages Support
