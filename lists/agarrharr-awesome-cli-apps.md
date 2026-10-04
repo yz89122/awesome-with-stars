@@ -195,6 +195,7 @@ Inspired by the [awesome ![GitHub Repo Stars](https://img.shields.io/github/star
 - [mk ![GitHub Repo Stars](https://img.shields.io/github/stars/pycontribs/mk) ![GitHub last commit](https://img.shields.io/github/last-commit/pycontribs/mk)](https://github.com/pycontribs/mk) - Exposes most common actions you can run in unfamiliar repos.
 - [dotenv-diff ![GitHub Repo Stars](https://img.shields.io/github/stars/Chrilleweb/dotenv-diff) ![GitHub last commit](https://img.shields.io/github/last-commit/Chrilleweb/dotenv-diff)](https://github.com/Chrilleweb/dotenv-diff) - Validate environment variable usage in a codebase.
 - [ota ![GitHub Repo Stars](https://img.shields.io/github/stars/ota-run/ota) ![GitHub last commit](https://img.shields.io/github/last-commit/ota-run/ota)](https://github.com/ota-run/ota) - Unified diagnosable repo setup across stacks (local, deploy, CI, agents).
+- [herdr-reviewr ![GitHub Repo Stars](https://img.shields.io/github/stars/persiyanov/herdr-reviewr) ![GitHub last commit](https://img.shields.io/github/last-commit/persiyanov/herdr-reviewr)](https://github.com/persiyanov/herdr-reviewr) - Review a coding agent's diff and send line comments back to it.
 
 ### Text Editors
 

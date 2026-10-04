@@ -1227,6 +1227,7 @@ then it is not supported:
 
 ## Code Runner
 
+- [nghiant03/jove.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/nghiant03/jove.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/nghiant03/jove.nvim)](https://github.com/nghiant03/jove.nvim) - Edit Jupyter notebooks as native buffers with LSP integration, rich inline outputs and interactive component rendering.
 - [wurli/jet.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/wurli/jet.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/wurli/jet.nvim)](https://github.com/wurli/jet.nvim) - A LSP-enabled, extensible Jupyter client that just works.
 - [rafcamlet/nvim-luapad ![GitHub Repo Stars](https://img.shields.io/github/stars/rafcamlet/nvim-luapad) ![GitHub last commit](https://img.shields.io/github/last-commit/rafcamlet/nvim-luapad)](https://github.com/rafcamlet/nvim-luapad) - Interactive scratchpad for running Lua code.
 - [michaelb/sniprun ![GitHub Repo Stars](https://img.shields.io/github/stars/michaelb/sniprun) ![GitHub last commit](https://img.shields.io/github/last-commit/michaelb/sniprun)](https://github.com/michaelb/sniprun) - Run parts of code of any language directly from your editor.

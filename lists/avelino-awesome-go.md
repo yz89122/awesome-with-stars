@@ -2506,6 +2506,7 @@ _Libraries that are used to help make your application more secure._
 - [dotlock ![GitHub Repo Stars](https://img.shields.io/github/stars/ahmadraza100/dotlock) ![GitHub last commit](https://img.shields.io/github/last-commit/ahmadraza100/dotlock)](https://github.com/ahmadraza100/dotlock) - Encrypted .env vault manager with interactive TUI for managing secrets across multiple environments and profiles.
 - [encid ![GitHub Repo Stars](https://img.shields.io/github/stars/bobg/encid) ![GitHub last commit](https://img.shields.io/github/last-commit/bobg/encid)](https://github.com/bobg/encid) - Encode and decode encrypted integer IDs.
 - [entpassgen ![GitHub Repo Stars](https://img.shields.io/github/stars/andreimerlescu/entpassgen) ![GitHub last commit](https://img.shields.io/github/last-commit/andreimerlescu/entpassgen)](https://github.com/andreimerlescu/entpassgen) - Entropy Password Generator with extensive command line arguments to generate random strings securely including digits, passwords, and passwords built using obscure dictionary words mixed with symbols and digits.
+- [FCaptcha ![GitHub Repo Stars](https://img.shields.io/github/stars/WebDecoy/FCaptcha) ![GitHub last commit](https://img.shields.io/github/last-commit/WebDecoy/FCaptcha)](https://github.com/WebDecoy/FCaptcha) - Self-hosted CAPTCHA server and Go client that detects bots, AI agents, and headless browsers through behavioral analysis and proof of work.
 - [firewalld-rest ![GitHub Repo Stars](https://img.shields.io/github/stars/prashantgupta24/firewalld-rest) ![GitHub last commit](https://img.shields.io/github/last-commit/prashantgupta24/firewalld-rest)](https://github.com/prashantgupta24/firewalld-rest) - A rest application to dynamically update firewalld rules on a linux server.
 - [fort ![GitHub Repo Stars](https://img.shields.io/github/stars/djadmin/fort) ![GitHub last commit](https://img.shields.io/github/last-commit/djadmin/fort)](https://github.com/djadmin/fort) - Audits macOS security settings across 16 checks, reports a score, and fixes issues where it safely can. Single binary, installable via Homebrew.
 - [go-generate-password ![GitHub Repo Stars](https://img.shields.io/github/stars/m1/go-generate-password) ![GitHub last commit](https://img.shields.io/github/last-commit/m1/go-generate-password)](https://github.com/m1/go-generate-password) - Password generator that can be used on the cli or as a library.
@@ -4000,7 +4001,7 @@ _Where to discover new Go libraries._
 
 _Add the group of your city/country here (send **PR**)_
 
-**[��� back to top](#contents)**
+**[⬆ back to top](#contents)**
 
 ## Style Guides
 
