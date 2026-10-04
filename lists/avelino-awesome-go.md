@@ -232,6 +232,7 @@ _Libraries for building programs that leverage AI._
 - [Cynative ![GitHub Repo Stars](https://img.shields.io/github/stars/cynative/cynative) ![GitHub last commit](https://img.shields.io/github/last-commit/cynative/cynative)](https://github.com/cynative/cynative) - Framework for building security engineering AI agents in Go. Read-only by construction, built-in sandbox, 45 agent blueprints for AWS, GCP, Azure, K8s, GitHub & GitLab deep research.
 - [dakera-go ![GitHub Repo Stars](https://img.shields.io/github/stars/dakera-ai/dakera-go) ![GitHub last commit](https://img.shields.io/github/last-commit/dakera-ai/dakera-go)](https://github.com/dakera-ai/dakera-go) - Official Go client SDK for the Dakera self-hosted agent memory server, providing typed interfaces for memory store/recall, session management, namespace operations, and decay configuration.
 - [fun](https://gitlab.com/tozd/go/fun) - The simplest but powerful way to use large language models (LLMs) in Go.
+- [Genkit ![GitHub Repo Stars](https://img.shields.io/github/stars/firebase/genkit) ![GitHub last commit](https://img.shields.io/github/last-commit/firebase/genkit)](https://github.com/firebase/genkit) - Framework created by Google for building AI-powered and agentic applications in idiomatic Go.
 - [goai ![GitHub Repo Stars](https://img.shields.io/github/stars/zendev-sh/goai) ![GitHub last commit](https://img.shields.io/github/last-commit/zendev-sh/goai)](https://github.com/zendev-sh/goai) - Go SDK for building AI applications. One SDK, 20+ providers. Inspired by Vercel AI SDK.
 - [GoModel ![GitHub Repo Stars](https://img.shields.io/github/stars/ENTERPILOT/GoModel) ![GitHub last commit](https://img.shields.io/github/last-commit/ENTERPILOT/GoModel)](https://github.com/ENTERPILOT/GoModel) - AI gateway exposing a unified OpenAI-compatible API across OpenAI, Anthropic, Gemini, Groq, xAI, Ollama and other providers, with routing, usage tracking, rate limits, and guardrails.
 - [hotplex ![GitHub Repo Stars](https://img.shields.io/github/stars/hrygo/hotplex) ![GitHub last commit](https://img.shields.io/github/last-commit/hrygo/hotplex)](https://github.com/hrygo/hotplex) - AI Agent runtime engine with long-lived sessions for Claude Code, OpenCode, pi-mono and other CLI AI tools. Provides full-duplex streaming, multi-platform integrations, and secure sandbox.
@@ -1065,6 +1066,7 @@ _Libraries for working with dates and times._
 - [strftime ![GitHub Repo Stars](https://img.shields.io/github/stars/awoodbeck/strftime) ![GitHub last commit](https://img.shields.io/github/last-commit/awoodbeck/strftime)](https://github.com/awoodbeck/strftime) - C99-compatible strftime formatter.
 - [timespan ![GitHub Repo Stars](https://img.shields.io/github/stars/SaidinWoT/timespan) ![GitHub last commit](https://img.shields.io/github/last-commit/SaidinWoT/timespan)](https://github.com/SaidinWoT/timespan) - For interacting with intervals of time, defined as a start time and a duration.
 - [timeutil ![GitHub Repo Stars](https://img.shields.io/github/stars/leekchan/timeutil) ![GitHub last commit](https://img.shields.io/github/last-commit/leekchan/timeutil)](https://github.com/leekchan/timeutil) - Useful extensions (Timedelta, Strftime, ...) to the golang's time package.
+- [timex ![GitHub Repo Stars](https://img.shields.io/github/stars/invzhi/timex) ![GitHub last commit](https://img.shields.io/github/last-commit/invzhi/timex)](https://github.com/invzhi/timex) - A Go package that extends the standard library time with dedicated date and time-of-day types. 
 - [tuesday ![GitHub Repo Stars](https://img.shields.io/github/stars/osteele/tuesday) ![GitHub last commit](https://img.shields.io/github/last-commit/osteele/tuesday)](https://github.com/osteele/tuesday) - Ruby-compatible Strftime function.
 
 **[⬆ back to top](#contents)**
@@ -1237,6 +1239,7 @@ _Libraries for handling errors._
 - [exception ![GitHub Repo Stars](https://img.shields.io/github/stars/rbrahul/exception) ![GitHub last commit](https://img.shields.io/github/last-commit/rbrahul/exception)](https://github.com/rbrahul/exception) - A simple utility package for exception handling with try-catch in Golang.
 - [Falcon ![GitHub Repo Stars](https://img.shields.io/github/stars/SonicRoshan/falcon) ![GitHub last commit](https://img.shields.io/github/last-commit/SonicRoshan/falcon)](https://github.com/SonicRoshan/falcon) - A Simple Yet Highly Powerful Package For Error Handling.
 - [Fault ![GitHub Repo Stars](https://img.shields.io/github/stars/Southclaws/fault) ![GitHub last commit](https://img.shields.io/github/last-commit/Southclaws/fault)](https://github.com/Southclaws/fault) - An ergonomic mechanism for wrapping errors in order to facilitate structured metadata and context for error values.
+- [go-bruh ![GitHub Repo Stars](https://img.shields.io/github/stars/aisbergg/go-bruh) ![GitHub last commit](https://img.shields.io/github/last-commit/aisbergg/go-bruh)](https://github.com/aisbergg/go-bruh) - Error handling with stack traces, custom formatting, and observability integration.
 - [go-errr ![GitHub Repo Stars](https://img.shields.io/github/stars/go-errr/go) ![GitHub last commit](https://img.shields.io/github/last-commit/go-errr/go)](https://github.com/go-errr/go) - Error handling library with Catch/Recover semantics, wrapped error chains, and stack traces for Go.
 - [go-multierror ![GitHub Repo Stars](https://img.shields.io/github/stars/hashicorp/go-multierror) ![GitHub last commit](https://img.shields.io/github/last-commit/hashicorp/go-multierror)](https://github.com/hashicorp/go-multierror) - Go (golang) package for representing a list of errors as a single error.
 - [metaerr ![GitHub Repo Stars](https://img.shields.io/github/stars/quantumcycle/metaerr) ![GitHub last commit](https://img.shields.io/github/last-commit/quantumcycle/metaerr)](https://github.com/quantumcycle/metaerr) - A library to create your custom error builders producing structured errors with metadata from different sources and optional stacktraces.
@@ -2947,7 +2950,7 @@ _Libraries for accessing third party APIs._
 - [go-marathon ![GitHub Repo Stars](https://img.shields.io/github/stars/gambol99/go-marathon) ![GitHub last commit](https://img.shields.io/github/last-commit/gambol99/go-marathon)](https://github.com/gambol99/go-marathon) - Go library for interacting with Mesosphere's Marathon PAAS.
 - [go-myanimelist ![GitHub Repo Stars](https://img.shields.io/github/stars/nstratos/go-myanimelist) ![GitHub last commit](https://img.shields.io/github/last-commit/nstratos/go-myanimelist)](https://github.com/nstratos/go-myanimelist) - Go client library for accessing the [MyAnimeList API](https://myanimelist.net/apiconfig/references/api/v2).
 - [go-openai ![GitHub Repo Stars](https://img.shields.io/github/stars/sashabaranov/go-openai) ![GitHub last commit](https://img.shields.io/github/last-commit/sashabaranov/go-openai)](https://github.com/sashabaranov/go-openai) - OpenAI ChatGPT, DALL·E, Whisper API library for Go.
-- [go-openproject ![GitHub Repo Stars](https://img.shields.io/github/stars/manuelbcd/go-openproject) ![GitHub last commit](https://img.shields.io/github/last-commit/manuelbcd/go-openproject)](https://github.com/manuelbcd/go-openproject) - Go client library for interacting with [OpenProject](https://docs.openproject.org/api/) API.
+- [go-openproject ![GitHub Repo Stars](https://img.shields.io/github/stars/manuelbcd/go-openproject) ![GitHub last commit](https://img.shields.io/github/last-commit/manuelbcd/go-openproject)](https://github.com/manuelbcd/go-openproject) - Go client library for interacting with [OpenProject](https://www.openproject.org/docs/api/) API.
 - [go-postman-collection ![GitHub Repo Stars](https://img.shields.io/github/stars/rbretecher/go-postman-collection) ![GitHub last commit](https://img.shields.io/github/last-commit/rbretecher/go-postman-collection)](https://github.com/rbretecher/go-postman-collection) - Go module to work with [Postman Collections](https://learning.getpostman.com/docs/postman/collections/creating-collections/) (compatible with Insomnia).
 - [go-redoc ![GitHub Repo Stars](https://img.shields.io/github/stars/mvrilo/go-redoc) ![GitHub last commit](https://img.shields.io/github/last-commit/mvrilo/go-redoc)](https://github.com/mvrilo/go-redoc) - Embedded OpenAPI/Swagger documentation ui for Go using [ReDoc](https://redocly.com/).
 - [go-restcountries ![GitHub Repo Stars](https://img.shields.io/github/stars/chriscross0/go-restcountries) ![GitHub last commit](https://img.shields.io/github/last-commit/chriscross0/go-restcountries)](https://github.com/chriscross0/go-restcountries) - Go library for the [REST Countries API](https://countrylayer.com/).
@@ -3361,6 +3364,7 @@ _Full stack web frameworks._
 
 #### Actual middlewares
 
+- [apitally ![GitHub Repo Stars](https://img.shields.io/github/stars/apitally/apitally-go) ![GitHub last commit](https://img.shields.io/github/last-commit/apitally/apitally-go)](https://github.com/apitally/apitally-go) - API monitoring and analytics middleware with metrics, logging, and alerts. Works with Chi, Echo, Fiber, and Gin.
 - [client-timing ![GitHub Repo Stars](https://img.shields.io/github/stars/posener/client-timing) ![GitHub last commit](https://img.shields.io/github/last-commit/posener/client-timing)](https://github.com/posener/client-timing) - An HTTP client for Server-Timing header.
 - [CORS ![GitHub Repo Stars](https://img.shields.io/github/stars/rs/cors) ![GitHub last commit](https://img.shields.io/github/last-commit/rs/cors)](https://github.com/rs/cors) - Easily add CORS capabilities to your API.
 - [echo-middleware ![GitHub Repo Stars](https://img.shields.io/github/stars/faabiosr/echo-middleware) ![GitHub last commit](https://img.shields.io/github/last-commit/faabiosr/echo-middleware)](https://github.com/faabiosr/echo-middleware) - Middleware for Echo framework with logging and metrics.
@@ -3796,6 +3800,7 @@ _Software written in Go._
 - [ScheduleGate ![GitHub Repo Stars](https://img.shields.io/github/stars/gjunqueira-sys/ScheduleGate) ![GitHub last commit](https://img.shields.io/github/last-commit/gjunqueira-sys/ScheduleGate)](https://github.com/gjunqueira-sys/ScheduleGate) - DCMA 14-point schedule assessment CLI for MS Project Excel/CSV exports.
 - [Seaweed File System ![GitHub Repo Stars](https://img.shields.io/github/stars/chrislusf/seaweedfs) ![GitHub last commit](https://img.shields.io/github/last-commit/chrislusf/seaweedfs)](https://github.com/chrislusf/seaweedfs) - Fast, Simple and Scalable Distributed File System with O(1) disk seek.
 - [shell2http ![GitHub Repo Stars](https://img.shields.io/github/stars/msoap/shell2http) ![GitHub last commit](https://img.shields.io/github/last-commit/msoap/shell2http)](https://github.com/msoap/shell2http) - Executing shell commands via http server (for prototyping or remote control).
+- [SiteBrush ![GitHub Repo Stars](https://img.shields.io/github/stars/matveynator/sitebrush) ![GitHub last commit](https://img.shields.io/github/last-commit/matveynator/sitebrush)](https://github.com/matveynator/sitebrush) - Keep the website. Retire WordPress. Turn an existing website into editable static HTML without rebuilding its design.
 - [Snitch ![GitHub Repo Stars](https://img.shields.io/github/stars/lucasgomide/snitch) ![GitHub last commit](https://img.shields.io/github/last-commit/lucasgomide/snitch)](https://github.com/lucasgomide/snitch) - Simple way to notify your team and many tools when someone has deployed any application via Tsuru.
 - [sonic ![GitHub Repo Stars](https://img.shields.io/github/stars/go-sonic/sonic) ![GitHub last commit](https://img.shields.io/github/last-commit/go-sonic/sonic)](https://github.com/go-sonic/sonic) - Sonic is a Go Blogging Platform. Simple and Powerful.
 - [spotify-screensaver ![GitHub Repo Stars](https://img.shields.io/github/stars/benzjeremy/spotify-screensaver) ![GitHub last commit](https://img.shields.io/github/last-commit/benzjeremy/spotify-screensaver)](https://github.com/benzjeremy/spotify-screensaver) - Desktop screensaver for Spotify with digital OLED clock, canvas audio visualizer, and MPRIS controls.
@@ -3860,8 +3865,7 @@ _Where to discover new Go libraries._
 - [GopherCon Russia](https://www.gophercon-russia.ru) - Moscow, Russia.
 - [GopherCon Singapore](https://gophercon.sg) - Mapletree Business City, Singapore.
 - [GopherCon UK](https://www.gophercon.co.uk/) - London, UK.
-- [GopherCon Vietnam](https://gophercon.vn/) - Ho Chi Minh City, Vietnam.
-- [GoWest Conference](https://www.gowestconf.com/) - Lehi, USA.
+- [GoWest Conference](https://gowestconf.com/) - Lehi, USA.
 
 **[⬆ back to top](#contents)**
 
@@ -3888,7 +3892,7 @@ _Where to discover new Go libraries._
 ### Free e-books
 
 - [A Go Developer's Notebook](https://leanpub.com/GoNotebook/read)
-- [An Introduction to Programming in Go](http://www.golang-book.com/)
+- [An Introduction to Programming in Go](https://web.archive.org/web/20231228173204/https://www.golang-book.com/books/intro)
 - [Build a blockchain from scratch in Go with gRPC ![GitHub Repo Stars](https://img.shields.io/github/stars/volodymyrprokopyuk/go-blockchain) ![GitHub last commit](https://img.shields.io/github/last-commit/volodymyrprokopyuk/go-blockchain)](https://github.com/volodymyrprokopyuk/go-blockchain) - The foundational and practical guide for effectively learning and progressively building a blockchain from scratch in Go with gRPC.
 - [Build Web Application with Golang](https://astaxie.gitbooks.io/build-web-application-with-golang/content/en/)
 - [Building Web Apps With Go](https://codegangsta.gitbooks.io/building-web-apps-with-go/content/)
@@ -3996,7 +4000,7 @@ _Where to discover new Go libraries._
 
 _Add the group of your city/country here (send **PR**)_
 
-**[⬆ back to top](#contents)**
+**[��� back to top](#contents)**
 
 ## Style Guides
 
@@ -4061,6 +4065,7 @@ _Add the group of your city/country here (send **PR**)_
 - [Libs.tech](https://libs.tech/go) – Awesome Go libraries and hidden gems
 - [Made with Golang](https://madewithgolang.com/?ref=awesome-go)
 - [pkg.go.dev](https://pkg.go.dev/) - Documentation for open source Go packages.
+- [ReadyToTouch ![GitHub Repo Stars](https://img.shields.io/github/stars/readytotouch/readytotouch) ![GitHub last commit](https://img.shields.io/github/last-commit/readytotouch/readytotouch)](https://github.com/readytotouch/readytotouch) - Open-source list of [companies](https://readytotouch.com/golang/companies) and [jobs](https://readytotouch.com/golang/jobs) using Go in production.
 - [studygolang](https://studygolang.com) - The community of studygolang in China.
 - [Trending Go repositories on GitHub today](https://github.com/trending?l=go) - Good place to find new Go libraries.
 - [TutorialEdge - Golang](https://tutorialedge.net/course/golang/)
@@ -4086,7 +4091,7 @@ _Add the group of your city/country here (send **PR**)_
 - [Go Cheat Sheet ![GitHub Repo Stars](https://img.shields.io/github/stars/a8m/go-lang-cheat-sheet) ![GitHub last commit](https://img.shields.io/github/last-commit/a8m/go-lang-cheat-sheet)](https://github.com/a8m/go-lang-cheat-sheet) - Go's reference card.
 - [Go database/sql tutorial](http://go-database-sql.org/) - Introduction to database/sql.
 - [Go in 7 days ![GitHub Repo Stars](https://img.shields.io/github/stars/harrytran103/7_days_of_go) ![GitHub last commit](https://img.shields.io/github/last-commit/harrytran103/7_days_of_go)](https://github.com/harrytran103/7_days_of_go) - Learn everything about Go in 7 days (from a Nodejs developer).
-- [Go Language Tutorial](https://www.javatpoint.com/go-tutorial) - Learn Go language Tutorial.
+- [Go Language Tutorial](https://www.tpointtech.com/go-tutorial) - Learn Go language Tutorial.
 - [Go Tutorial](https://www.tutorialspoint.com/go/index.htm) - Learn Go programming.
 - [Go WebAssembly Tutorial - Building a Simple Calculator](https://tutorialedge.net/golang/go-webassembly-tutorial/)
 - [go-clean-template ![GitHub Repo Stars](https://img.shields.io/github/stars/evrone/go-clean-template) ![GitHub last commit](https://img.shields.io/github/last-commit/evrone/go-clean-template)](https://github.com/evrone/go-clean-template) - Clean Architecture template for Golang services.
@@ -4110,6 +4115,7 @@ _Add the group of your city/country here (send **PR**)_
 - [Learning Go by examples](https://dev.to/aurelievache/learning-go-by-examples-introduction-448n) - Series of articles in order to learn Golang language by concrete applications as example.
 - [Microservices with Go](https://www.youtube.com/playlist?list=PLmD8u-IFdreyh6EUfevBcbiuCKzFk0EW_) - Dive deep into building microservices using Go, including gRPC.
 - [package main](https://www.youtube.com/packagemain) - YouTube channel about Programming in Go.
+- [Programming for Lovers](https://programmingforlovers.com) - Free introductory programming course with Go code-alongs built around scientific applications.
 - [Programming with Google Go](https://www.coursera.org/specializations/google-golang) - Coursera Specialization to learn about Go from scratch.
 - [Scaling Go Applications](https://betterstack.com/community/guides/scaling-go/) - Everything about building, deploying and scaling Go applications in production.
 - [The world’s easiest introduction to WebAssembly with Golang](https://medium.com/@martinolsansky/webassembly-with-golang-is-fun-b243c0e34f02)
