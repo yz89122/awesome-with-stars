@@ -214,6 +214,8 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 *Manage projects and compile software from source code.*
 
 * [dub ![GitHub Repo Stars](https://img.shields.io/github/stars/dlang/dub) ![GitHub last commit](https://img.shields.io/github/last-commit/dlang/dub)](https://github.com/dlang/dub) - De facto official package and build management system for D. Will be included officially soon.
+* [rules_d ![GitHub Repo Stars](https://img.shields.io/github/stars/bazel-contrib/rules_d) ![GitHub last commit](https://img.shields.io/github/last-commit/bazel-contrib/rules_d)](https://github.com/bazel-contrib/rules_d) - Bazel rules and toolchains for building D libraries, binaries, tests, protocol buffers, and projects that depend on DUB packages.
+* [gazelle_d ![GitHub Repo Stars](https://img.shields.io/github/stars/dcarp/gazelle_d) ![GitHub last commit](https://img.shields.io/github/last-commit/dcarp/gazelle_d)](https://github.com/dcarp/gazelle_d) - Gazelle extension for generating Bazel build files from D sources and DUB manifests.
 * [scons-d](https://scons.org/) - Scons has built-in support for building D projects, thanks to Russel Winder.
 * [premake ![GitHub Repo Stars](https://img.shields.io/github/stars/premake/premake-dlang) ![GitHub last commit](https://img.shields.io/github/last-commit/premake/premake-dlang)](https://github.com/premake/premake-dlang) - Premake has built-in support for D projects
 * [reggae ![GitHub Repo Stars](https://img.shields.io/github/stars/atilaneves/reggae) ![GitHub last commit](https://img.shields.io/github/last-commit/atilaneves/reggae)](https://github.com/atilaneves/reggae) - meta build system in D
