@@ -13,14 +13,17 @@ A curated list of awesome **open-source** data visualizations frameworks, librar
 		- [Maps](#maps)
 		- [d3](#d3)
 		- [React](#react)
+		- [React Native](#react-native)
 		- [Misc](#misc)
 	- [Android tools](#android-tools)
 	- [C++ tools](#c-tools)
 	- [Golang tools](#golang-tools)
 	- [iOS tools](#ios-tools)
+	- [Machine Learning tools](#machine-learning-tools)
 	- [Python tools](#python-tools)
 	- [R tools](#r-tools)
 	- [Ruby tools](#ruby-tools)
+	- [Rust tools](#rust-tools)
 	- [Markup-based tools](#markup-based-tools)
 	- [Other tools](#other-tools)
 - [Resources](#resources)
@@ -28,8 +31,9 @@ A curated list of awesome **open-source** data visualizations frameworks, librar
 	- [Catalogs](#catalogs)
 	- [Podcasts](#podcasts)
 	- [Twitter accounts](#twitter-accounts)
- 	- [Websites](#websites)
+	- [Websites](#websites)
 - [Contributing](#contributing)
+- [Contributors](#contributors)
 - [License](#license)
 
 ## JavaScript tools
@@ -40,14 +44,17 @@ A curated list of awesome **open-source** data visualizations frameworks, librar
 - [Chartist.js](https://gionkunz.github.io/chartist-js/) - Responsive charts with great browser compatibility.
 - [dc.js ![GitHub Repo Stars](https://img.shields.io/github/stars/dc-js/dc.js) ![GitHub last commit](https://img.shields.io/github/last-commit/dc-js/dc.js)](https://github.com/dc-js/dc.js) is an multi-Dimensional charting built to work natively with crossfilter.
 - [Dygraphs](https://dygraphs.com/) - Interactive line charts library that works with huge datasets.
+- [dxcharts-lite ![GitHub Repo Stars](https://img.shields.io/github/stars/devexperts/dxcharts-lite) ![GitHub last commit](https://img.shields.io/github/last-commit/devexperts/dxcharts-lite)](https://github.com/devexperts/dxcharts-lite) - Flexible financial charting library based on HTML5 canvas.
 - [Echarts ![GitHub Repo Stars](https://img.shields.io/github/stars/ecomfe/echarts) ![GitHub last commit](https://img.shields.io/github/last-commit/ecomfe/echarts)](https://github.com/ecomfe/echarts) - Highly customizable and interactive charts ready for big datasets.
 - [Epoch ![GitHub Repo Stars](https://img.shields.io/github/stars/epochjs/epoch) ![GitHub last commit](https://img.shields.io/github/last-commit/epochjs/epoch)](https://github.com/epochjs/epoch) - Perfect to create real-time charts.
 - [Google Charts](https://developers.google.com/chart) - Interactive charts for browsers and mobile devices.
 - [G2](https://g2plot.antv.vision/en) - an interactive and responsive charting library based on the grammar of graphics, maintained by Alibaba
+- [Glyph ![GitHub Repo Stars](https://img.shields.io/github/stars/seanhanca/glyph) ![GitHub last commit](https://img.shields.io/github/last-commit/seanhanca/glyph)](https://github.com/seanhanca/glyph) - Deterministic chart library — same JSON spec → same SVG bytes, every platform. Grammar of graphics with DuckDB inside, MCP-native for AI agents, byte-identical visual regression, SHA-256 provenance seal. Apache 2.0.
 - [GraphicsJS](http://www.graphicsjs.org) - Lightweight JS graphics library with intuitive API, based on SVG/VML.
 - [lit-line ![GitHub Repo Stars](https://img.shields.io/github/stars/apinet/lit-line) ![GitHub last commit](https://img.shields.io/github/last-commit/apinet/lit-line)](https://github.com/apinet/lit-line) - SVG Line Chart Web Component - light, fast, interactive & fully responsive.
 - [MetricsGraphics.js](https://metricsgraphicsjs.org/) - Optimized for time-series data.
 - [NVD3 ![GitHub Repo Stars](https://img.shields.io/github/stars/novus/nvd3) ![GitHub last commit](https://img.shields.io/github/last-commit/novus/nvd3)](https://github.com/novus/nvd3) - A reusable charting library written in d3.js.
+- [Observable Plot ![GitHub Repo Stars](https://img.shields.io/github/stars/observablehq/plot) ![GitHub last commit](https://img.shields.io/github/last-commit/observablehq/plot)](https://github.com/observablehq/plot) - A JavaScript library for exploratory data visualization.
 - [Plotly.js ![GitHub Repo Stars](https://img.shields.io/github/stars/plotly/plotly.js) ![GitHub last commit](https://img.shields.io/github/last-commit/plotly/plotly.js)](https://github.com/plotly/plotly.js/) - Powerful declarative library with support for 20 chart types.
 - [React wrapper ![GitHub Repo Stars](https://img.shields.io/github/stars/hustcc/echarts-for-react) ![GitHub last commit](https://img.shields.io/github/last-commit/hustcc/echarts-for-react)](https://github.com/hustcc/echarts-for-react)
 - [TechanJS](https://techanjs.org/) - Stock and financial charts.
@@ -62,17 +69,22 @@ A curated list of awesome **open-source** data visualizations frameworks, librar
 - [G6 ![GitHub Repo Stars](https://img.shields.io/github/stars/antvis/g6) ![GitHub last commit](https://img.shields.io/github/last-commit/antvis/g6)](https://github.com/antvis/g6) - Graph visualization library powered by Javascript & Typescript, maintained by Alibaba
 - [diagram.js ![GitHub Repo Stars](https://img.shields.io/github/stars/bpmn-io/diagram-js) ![GitHub last commit](https://img.shields.io/github/last-commit/bpmn-io/diagram-js)](https://github.com/bpmn-io/diagram-js) - Javascript diagram library serving as the basis for camunda's online BPMN modeler.
 - [Uber React Digraph ![GitHub Repo Stars](https://img.shields.io/github/stars/uber/react-digraph) ![GitHub last commit](https://img.shields.io/github/last-commit/uber/react-digraph)](https://github.com/uber/react-digraph) - React.js based directed graph library maintained by UBER.
+- [Vizdom ![GitHub Repo Stars](https://img.shields.io/github/stars/vizdom-dev/vizdom) ![GitHub last commit](https://img.shields.io/github/last-commit/vizdom-dev/vizdom)](https://github.com/vizdom-dev/vizdom) - A declarative graph layout and rendering engine for Javascript/Typescript powered by Rust/WebAssembly.
 
 ### Maps
 - [CARTO ![GitHub Repo Stars](https://img.shields.io/github/stars/CartoDB/cartodb) ![GitHub last commit](https://img.shields.io/github/last-commit/CartoDB/cartodb)](https://github.com/CartoDB/cartodb) - CARTO is an open source tool that allows for the storage and visualization of geospatial data on the web.
 - [Cesium ![GitHub Repo Stars](https://img.shields.io/github/stars/AnalyticalGraphicsInc/cesium) ![GitHub last commit](https://img.shields.io/github/last-commit/AnalyticalGraphicsInc/cesium)](https://github.com/AnalyticalGraphicsInc/cesium) - WebGL 3D globes and maps.
+- [CanvasGlobe ![GitHub Repo Stars](https://img.shields.io/github/stars/Shree-hari/canvas-globe) ![GitHub last commit](https://img.shields.io/github/last-commit/Shree-hari/canvas-globe)](https://github.com/Shree-hari/canvas-globe) - Interactive Canvas 2D globes and flat world maps for JavaScript and React.
 - [Deck.gl](https://deck.gl/) - WebGL framework for visual exploratory data analysis of large datasets.
+- [Globedots ![GitHub Repo Stars](https://img.shields.io/github/stars/swamoth/globedots) ![GitHub last commit](https://img.shields.io/github/last-commit/swamoth/globedots)](https://github.com/swamoth/globedots) - Dot-matrix WebGL2 globe in 17 kB with markers, arcs, labels, heat maps, and a day-night line.
 - [L7 ![GitHub Repo Stars](https://img.shields.io/github/stars/antvis/L7) ![GitHub last commit](https://img.shields.io/github/last-commit/antvis/L7)](https://github.com/antvis/L7) - Large-scale WebGL-powered Geospatial Data Visualization analysis framework, maintained by Alibaba
 - [L7 Plot ![GitHub Repo Stars](https://img.shields.io/github/stars/antvis/L7Plot) ![GitHub last commit](https://img.shields.io/github/last-commit/antvis/L7Plot)](https://github.com/antvis/L7Plot) - Geospatial Visualization Chart Library, maintained by Alibaba
 - [DataMaps ![GitHub Repo Stars](https://img.shields.io/github/stars/markmarkoh/datamaps) ![GitHub last commit](https://img.shields.io/github/last-commit/markmarkoh/datamaps)](https://github.com/markmarkoh/datamaps) - Interactive SVG maps using D3.js.
 - [Dipper ![GitHub Repo Stars](https://img.shields.io/github/stars/antvis/dipper) ![GitHub last commit](https://img.shields.io/github/last-commit/antvis/dipper)](https://github.com/antvis/dipper) - Map application development framework powered by L7, maintained by Alibaba.
 - [Leaflet](https://leafletjs.com) - JavaScript library for mobile-friendly interactive maps.
 - [Mapael ![GitHub Repo Stars](https://img.shields.io/github/stars/neveldo/jQuery-Mapael) ![GitHub last commit](https://img.shields.io/github/last-commit/neveldo/jQuery-Mapael)](https://github.com/neveldo/jQuery-Mapael) - jQuery plugin based on raphael.js to display vector maps.
+- [Pharos AI](https://conflicts.app) - Open-source OSINT conflict-tracking dashboard with geospatial visualization using Deck.gl, MapLibre, and React. ([Source Code ![GitHub Repo Stars](https://img.shields.io/github/stars/Juliusolsson05/pharos-ai) ![GitHub last commit](https://img.shields.io/github/last-commit/Juliusolsson05/pharos-ai)](https://github.com/Juliusolsson05/pharos-ai))
+- [VectorAtlas](https://vectoratlas.menelabs.com/) - Free, 80KB SVG world map with one path per country, id-keyed by ISO 3166-1 alpha-2 code, ready for choropleths.
 
 ### d3
 - See [Awesome D3 ![GitHub Repo Stars](https://img.shields.io/github/stars/wbkd/awesome-d3) ![GitHub last commit](https://img.shields.io/github/last-commit/wbkd/awesome-d3)](https://github.com/wbkd/awesome-d3)
@@ -86,18 +98,21 @@ A curated list of awesome **open-source** data visualizations frameworks, librar
 - [nivo ![GitHub Repo Stars](https://img.shields.io/github/stars/plouc/nivo) ![GitHub last commit](https://img.shields.io/github/last-commit/plouc/nivo)](https://github.com/plouc/nivo) - Supercharged dataviz components for React with isomorphic ability, [demo](https://nivo.rocks).
 - [React Svg Textures ![GitHub Repo Stars](https://img.shields.io/github/stars/finnfiddle/react-svg-textures) ![GitHub last commit](https://img.shields.io/github/last-commit/finnfiddle/react-svg-textures)](https://github.com/finnfiddle/react-svg-textures) - Textures.js ported to React. Fully isomorphic.
 - [DevExtreme React Chart](https://devexpress.github.io/devextreme-reactive/react/chart/) - High-performance plugin-based React chart for Bootstrap and Material Design.
+- [Graphic Walker ![GitHub Repo Stars](https://img.shields.io/github/stars/Kanaries/graphic-walker) ![GitHub last commit](https://img.shields.io/github/last-commit/Kanaries/graphic-walker)](https://github.com/Kanaries/graphic-walker) - An embeddable React component that functions as an open source alternative to Tableau, which allows data scientists to analyze data and visualize patterns with simple drag-and-drop operations.
 
-## React Native
+### React Native
 - [F2 ![GitHub Repo Stars](https://img.shields.io/github/stars/antvis/F2) ![GitHub last commit](https://img.shields.io/github/last-commit/antvis/F2)](https://github.com/antvis/F2) - An elegant, interactive and flexible charting library for mobile, maintained by Alibaba
 
 ### Misc
 - [Graphology ![GitHub Repo Stars](https://img.shields.io/github/stars/graphology/graphology) ![GitHub last commit](https://img.shields.io/github/last-commit/graphology/graphology)](https://github.com/graphology/graphology) - A robust & multipurpose Graph object for javascript & TypeScript; Serves as a base library to power other graph visualization libraries.
+- [ODataMap ![GitHub Repo Stars](https://img.shields.io/github/stars/CherishChenCherish/odatamap) ![GitHub last commit](https://img.shields.io/github/last-commit/CherishChenCherish/odatamap)](https://github.com/CherishChenCherish/odatamap) - Interactive scientific research data map. Visualizes 250M+ papers across 7 knowledge continents using D3.js. [Demo](https://odatamap.cherishchen2510.workers.dev)
 - [Piecon ![GitHub Repo Stars](https://img.shields.io/github/stars/lipka/piecon) ![GitHub last commit](https://img.shields.io/github/last-commit/lipka/piecon)](https://github.com/lipka/piecon) - Pie charts in your favicon.
 - [Textures.js](https://riccardoscalco.github.io/textures/) - A library to create SVG patterns.
 - [Timeline.js](https://timeline.knightlab.com/) -  Create interactive timelines.
 - [Vega](https://vega.github.io/vega/) - Vega is a visualization grammar, a declarative format for creating, saving, and sharing interactive visualization designs.
 - [Vega-Lite](https://vega.github.io/vega-lite/) - is a high-level grammar of interactive graphics. It provides a concise JSON syntax for rapidly generating visualizations to support analysis.
 - [Vis.js](https://visjs.org/) - A dynamic visualization library including timeline, networks and graphs (2D and 3D).
+- [gp-treemap ![GitHub Repo Stars](https://img.shields.io/github/stars/imbue-ai/gp-treemap) ![GitHub last commit](https://img.shields.io/github/last-commit/imbue-ai/gp-treemap)](https://github.com/imbue-ai/gp-treemap) - Open source HTML canvas treemap component supporting millions of nodes, and some functional resource usage tools, like disk and S3 usage visualization ([GrandPerspective](https://grandperspectiv.sourceforge.net/)-style)
 
 ## Android tools
 - [DecoView ![GitHub Repo Stars](https://img.shields.io/github/stars/bmarrdev/android-DecoView-charting) ![GitHub last commit](https://img.shields.io/github/last-commit/bmarrdev/android-DecoView-charting)](https://github.com/bmarrdev/android-DecoView-charting) - Animated circular wheel chart library.
@@ -108,11 +123,15 @@ A curated list of awesome **open-source** data visualizations frameworks, librar
 - [LargeVis ![GitHub Repo Stars](https://img.shields.io/github/stars/lferry007/LargeVis) ![GitHub last commit](https://img.shields.io/github/last-commit/lferry007/LargeVis)](https://github.com/lferry007/LargeVis) - implementation of the [LargeVis paper](https://arxiv.org/abs/1602.00370), used to visualize large-scale and high-dimensional data.
 - [PlotJuggler ![GitHub Repo Stars](https://img.shields.io/github/stars/facontidavide/PlotJuggler) ![GitHub last commit](https://img.shields.io/github/last-commit/facontidavide/PlotJuggler)](https://github.com/facontidavide/PlotJuggler) - open-source Qt5 application to plot charts (based on Qwt).
 - [Visualization Toolkit (VTK)](https://gitlab.kitware.com/vtk/vtk/blob/master/README.md) - open-source library for 3d Graphics, image processing and visualization.
+- [ParaView](https://www.paraview.org) - Multi-platform data analysis and visualization application based on VTK. (C++, BSD, [GitLab](https://gitlab.kitware.com/paraview/paraview))
+- [Polyscope](https://polyscope.run/) - Viewer and user interface for 3D geometry processing. (C++, MIT, [GitHub ![GitHub Repo Stars](https://img.shields.io/github/stars/nmwsharp/polyscope) ![GitHub last commit](https://img.shields.io/github/last-commit/nmwsharp/polyscope)](https://github.com/nmwsharp/polyscope))
+- [F3D](https://f3d-app.github.io/f3d/) - Cross-platform, fast, and minimalist 3D viewer with scientific visualization tools. (C++, BSD, [GitHub ![GitHub Repo Stars](https://img.shields.io/github/stars/f3d-app/f3d) ![GitHub last commit](https://img.shields.io/github/last-commit/f3d-app/f3d)](https://github.com/f3d-app/f3d))
+- [TTK](https://topology-tool-kit.github.io/) - Topological data analysis and visualization. (C++/Python, BSD, [GitHub ![GitHub Repo Stars](https://img.shields.io/github/stars/topology-tool-kit/ttk) ![GitHub last commit](https://img.shields.io/github/last-commit/topology-tool-kit/ttk)](https://github.com/topology-tool-kit/ttk))
 
 ## Golang tools
 - [svgo ![GitHub Repo Stars](https://img.shields.io/github/stars/ajstarks/svgo) ![GitHub last commit](https://img.shields.io/github/last-commit/ajstarks/svgo)](https://github.com/ajstarks/svgo) - Go Language Library for SVG generation.
 - [plot ![GitHub Repo Stars](https://img.shields.io/github/stars/gonum/plot) ![GitHub last commit](https://img.shields.io/github/last-commit/gonum/plot)](https://github.com/gonum/plot) - API for building and drawing plots in Go.
-- [go-echars ![GitHub Repo Stars](https://img.shields.io/github/stars/chenjiandongx/go-echarts) ![GitHub last commit](https://img.shields.io/github/last-commit/chenjiandongx/go-echarts)](https://github.com/chenjiandongx/go-echarts) - Simple yet powerful data visualizing library for Go.
+- [go-echarts ![GitHub Repo Stars](https://img.shields.io/github/stars/chenjiandongx/go-echarts) ![GitHub last commit](https://img.shields.io/github/last-commit/chenjiandongx/go-echarts)](https://github.com/chenjiandongx/go-echarts) - Simple yet powerful data visualizing library for Go.
 
 ## iOS tools
 - [BEMSimpleLineGraph ![GitHub Repo Stars](https://img.shields.io/github/stars/Boris-Em/BEMSimpleLineGraph) ![GitHub last commit](https://img.shields.io/github/last-commit/Boris-Em/BEMSimpleLineGraph)](https://github.com/Boris-Em/BEMSimpleLineGraph) - Highly customizable and interactive line graphs.
@@ -122,31 +141,41 @@ A curated list of awesome **open-source** data visualizations frameworks, librar
 
 ## Machine Learning tools
 - [TensorWatch ![GitHub Repo Stars](https://img.shields.io/github/stars/microsoft/tensorwatch) ![GitHub last commit](https://img.shields.io/github/last-commit/microsoft/tensorwatch)](https://github.com/microsoft/tensorwatch) - Debugging and visualization tool for data science and machine learning
+- [Phoenix ![GitHub Repo Stars](https://img.shields.io/github/stars/Arize-ai/phoenix) ![GitHub last commit](https://img.shields.io/github/last-commit/Arize-ai/phoenix)](https://github.com/Arize-ai/phoenix) - ML observability in a notebook with UMAP visualizations
+- [Comet ![GitHub Repo Stars](https://img.shields.io/github/stars/comet-ml/comet-examples) ![GitHub last commit](https://img.shields.io/github/last-commit/comet-ml/comet-examples)](https://github.com/comet-ml/comet-examples) - An MLOps platform for tracking, visualizing, and debugging your machine learning workflows from training straight through to production.
+- [Opik ![GitHub Repo Stars](https://img.shields.io/github/stars/comet-ml/opik) ![GitHub last commit](https://img.shields.io/github/last-commit/comet-ml/opik)](https://github.com/comet-ml/opik) - Formerly CometLLM. Debug, evaluate, and monitor LLM applications with tracing and dashboards.
 
 ## Python tools
 - [altair](https://altair-viz.github.io/) - Declarative statistical visualizations, based on Vega-Lite.
 - [bokeh](https://bokeh.pydata.org/en/latest/) - Interactive Web Plotting for Python.
+- [bqplot ![GitHub Repo Stars](https://img.shields.io/github/stars/bqplot/bqplot) ![GitHub last commit](https://img.shields.io/github/last-commit/bqplot/bqplot)](https://github.com/bqplot/bqplot) - Plotting library for IPython/Jupyter notebooks.
 - [Chartify ![GitHub Repo Stars](https://img.shields.io/github/stars/spotify/chartify) ![GitHub last commit](https://img.shields.io/github/last-commit/spotify/chartify)](https://github.com/spotify/chartify) - Bokeh wrapper that makes it easy for data scientists to create charts.
 - [diagram ![GitHub Repo Stars](https://img.shields.io/github/stars/tehmaze/diagram) ![GitHub last commit](https://img.shields.io/github/last-commit/tehmaze/diagram)](https://github.com/tehmaze/diagram) - Text mode diagrams using UTF-8 characters
 - [ggplot ![GitHub Repo Stars](https://img.shields.io/github/stars/yhat/ggpy) ![GitHub last commit](https://img.shields.io/github/last-commit/yhat/ggpy)](https://github.com/yhat/ggpy) - plotting system based on [R's](#r-tools) ggplot2.
 - [glumpy ![GitHub Repo Stars](https://img.shields.io/github/stars/glumpy/glumpy) ![GitHub last commit](https://img.shields.io/github/last-commit/glumpy/glumpy)](https://github.com/glumpy/glumpy) - OpenGL scientific visualizations library.
 - [holoviews](https://holoviews.org/) - Complex and declarative visualizations from annotated data.
 - [ipychart ![GitHub Repo Stars](https://img.shields.io/github/stars/nicohlr/ipychart) ![GitHub last commit](https://img.shields.io/github/last-commit/nicohlr/ipychart)](https://github.com/nicohlr/ipychart) - The power of Chart.js in Jupyter Notebook.
-- [mayai](https://docs.enthought.com/mayavi/mayavi/) - interactive scientific data visualization and 3D plotting in Python.
+- [mayavi](https://docs.enthought.com/mayavi/mayavi/) - interactive scientific data visualization and 3D plotting in Python.
 - [matplotlib](https://matplotlib.org/) - 2D plotting library.
 - [missingno ![GitHub Repo Stars](https://img.shields.io/github/stars/ResidentMario/missingno) ![GitHub last commit](https://img.shields.io/github/last-commit/ResidentMario/missingno)](https://github.com/ResidentMario/missingno) - provides flexible toolset of data-visualization utilities that allows quick visual summary of the completeness of your dataset, based on matplotlib.
 - [plotly](https://plot.ly/python/) - Interactive web based visualization built on top of [plotly.js ![GitHub Repo Stars](https://img.shields.io/github/stars/plotly/plotly.js) ![GitHub last commit](https://img.shields.io/github/last-commit/plotly/plotly.js)](https://github.com/plotly/plotly.js)
 - [pptk ![GitHub Repo Stars](https://img.shields.io/github/stars/heremaps/pptk) ![GitHub last commit](https://img.shields.io/github/last-commit/heremaps/pptk)](https://github.com/heremaps/pptk) - Visualize and work with 2D/3D pointclouds
 - [PyQtGraph](https://www.pyqtgraph.org/) - Interactive and realtime 2D/3D/Image plotting and science/engineering widgets.
 - [PyVista ![GitHub Repo Stars](https://img.shields.io/github/stars/pyvista/pyvista) ![GitHub last commit](https://img.shields.io/github/last-commit/pyvista/pyvista)](https://github.com/pyvista/pyvista) – 3D plotting and mesh analysis through a streamlined interface for the Visualization Toolkit (VTK)
+- [Quibbler ![GitHub Repo Stars](https://img.shields.io/github/stars/Technion-Kishony-lab/quibbler) ![GitHub last commit](https://img.shields.io/github/last-commit/Technion-Kishony-lab/quibbler)](https://github.com/Technion-Kishony-lab/quibbler) - Your data and anything you plot is effortlessly live and interactive.
+- [Rerun ![GitHub Repo Stars](https://img.shields.io/github/stars/rerun-io/rerun) ![GitHub last commit](https://img.shields.io/github/last-commit/rerun-io/rerun)](https://github.com/rerun-io/rerun) - An SDK for logging computer vision and robotics data paired with a visualizer for exploring that data over time.
 - [seaborn](https://seaborn.pydata.org/) - A library for making attractive and informative statistical graphics.
+- [syd ![GitHub Repo Stars](https://img.shields.io/github/stars/landoskape/syd) ![GitHub last commit](https://img.shields.io/github/last-commit/landoskape/syd)](https://github.com/landoskape/syd) - A package for making GUIs around matplotlib figures easy, fast, and streamlined.
 - [toyplot](https://toyplot.readthedocs.io/en/stable/) - The kid-sized plotting toolkit for Python with grownup-sized goals.
 - [three.py ![GitHub Repo Stars](https://img.shields.io/github/stars/stemkoski/three.py) ![GitHub last commit](https://img.shields.io/github/last-commit/stemkoski/three.py)](https://github.com/stemkoski/three.py/) - Easy to use 3D library based on PyOpenGL. Inspired by Three.js.
+- [uniplot ![GitHub Repo Stars](https://img.shields.io/github/stars/olavolav/uniplot) ![GitHub last commit](https://img.shields.io/github/last-commit/olavolav/uniplot)](https://github.com/olavolav/uniplot) - Lightweight plotting to the terminal. 4x resolution via Unicode.
 - [veusz](https://veusz.github.io/) - Python multiplatform GUI plotting tool and graphing library
 - [VisPy](https://vispy.org/) - High-performance scientific visualization based on OpenGL.
 - [vtk](https://www.vtk.org/) - 3D computer graphics, image processing, and visualization that includes a Python interface.
 - [pandas-profiling ![GitHub Repo Stars](https://img.shields.io/github/stars/pandas-profiling/pandas-profiling) ![GitHub last commit](https://img.shields.io/github/last-commit/pandas-profiling/pandas-profiling)](https://github.com/pandas-profiling/pandas-profiling) - generates statistical analytic reports with visualization for quick data analysis.
-- [pyechars ![GitHub Repo Stars](https://img.shields.io/github/stars/pyecharts/pyecharts) ![GitHub last commit](https://img.shields.io/github/last-commit/pyecharts/pyecharts)](https://github.com/pyecharts/pyecharts) - Python binding for Echarts library.
+- [pyecharts ![GitHub Repo Stars](https://img.shields.io/github/stars/pyecharts/pyecharts) ![GitHub last commit](https://img.shields.io/github/last-commit/pyecharts/pyecharts)](https://github.com/pyecharts/pyecharts) - Python binding for Echarts library.
+- [vedo](https://vedo.embl.es) - Library for scientific analysis and visualization of 3D objects based on VTK. (Python, MIT, [GitHub ![GitHub Repo Stars](https://img.shields.io/github/stars/marcomusy/vedo) ![GitHub last commit](https://img.shields.io/github/last-commit/marcomusy/vedo)](https://github.com/marcomusy/vedo))
+- [yt](https://yt-project.org/) - Toolkit for analysis and visualization of volumetric data. (Python, BSD, [GitHub ![GitHub Repo Stars](https://img.shields.io/github/stars/yt-project/yt) ![GitHub last commit](https://img.shields.io/github/last-commit/yt-project/yt)](https://github.com/yt-project/yt))
 
 ## R tools
 - [ggplot2](https://ggplot2.tidyverse.org/) - A plotting system based on the grammar of graphics.
@@ -161,21 +190,34 @@ A curated list of awesome **open-source** data visualizations frameworks, librar
 ## Ruby tools
 - [Chartkick ![GitHub Repo Stars](https://img.shields.io/github/stars/ankane/chartkick) ![GitHub last commit](https://img.shields.io/github/last-commit/ankane/chartkick)](https://github.com/ankane/chartkick) - Create charts with one line of Ruby.
 
+## Rust tools
+- [malevich ![GitHub Repo Stars](https://img.shields.io/github/stars/shergin/malevich) ![GitHub last commit](https://img.shields.io/github/last-commit/shergin/malevich)](https://github.com/shergin/malevich) - Terminal plotting: line, scatter, bar, histogram, heatmap, box plot, violin and more, with automatic axes.
+- [Rerun ![GitHub Repo Stars](https://img.shields.io/github/stars/rerun-io/rerun) ![GitHub last commit](https://img.shields.io/github/last-commit/rerun-io/rerun)](https://github.com/rerun-io/rerun) - An SDK for logging computer vision and robotics data paired with a visualizer for exploring that data over time.
+
 ## Markup-based tools
 - [mermaidjs](https://mermaidjs.github.io/mermaid-live-editor) - A simple markdown-like script language for generating charts from text via javascript
 - [wavedrom.com](https://wavedrom.com/) - Draws your Timing Diagram or Waveform from simple textual description
 
 ## Other tools
 Tools that are not tied to a particular platform or language.
+- [Resseract Lite ![GitHub Repo Stars](https://img.shields.io/github/stars/abistarun/resseract-lite) ![GitHub last commit](https://img.shields.io/github/last-commit/abistarun/resseract-lite)](https://github.com/abistarun/resseract-lite) - A Data Analytics and Visualization Tool with flexible architecture to visualize and analyse data
 - [Charted ![GitHub Repo Stars](https://img.shields.io/github/stars/mikesall/charted) ![GitHub last commit](https://img.shields.io/github/last-commit/mikesall/charted)](https://github.com/mikesall/charted) - A charting tool that produces automatic, shareable charts from any data file.
+- [ChartDB ![GitHub Repo Stars](https://img.shields.io/github/stars/chartdb/chartdb) ![GitHub last commit](https://img.shields.io/github/last-commit/chartdb/chartdb)](https://github.com/chartdb/chartdb) - An Open-source tool to visualize database schemas and generate ER diagrams from a single query.
+- [csvtodashboard](https://csvtodashboard.com) - Turn a CSV or Excel file into an auto-built dashboard in the browser - client-side, no upload.
+- [DAC ![GitHub Repo Stars](https://img.shields.io/github/stars/bruin-data/dac) ![GitHub last commit](https://img.shields.io/github/last-commit/bruin-data/dac)](https://github.com/bruin-data/dac) - Dashboard-as-code tool that builds interactive dashboards from YAML and TSX definitions
 - [Gephi ![GitHub Repo Stars](https://img.shields.io/github/stars/gephi/gephi) ![GitHub last commit](https://img.shields.io/github/last-commit/gephi/gephi)](https://github.com/gephi/gephi) - An open-source platform for visualizing and manipulating large graphs
+- [ink-uplot ![GitHub Repo Stars](https://img.shields.io/github/stars/planadecu/ink-uplot) ![GitHub last commit](https://img.shields.io/github/last-commit/planadecu/ink-uplot)](https://github.com/planadecu/ink-uplot) - Render uPlot charts in the terminal (React Ink) with truecolor Unicode and kitty/sixel/iTerm2 graphics.
 - [Kepler.gl](https://kepler.gl/) - Geospatial analysis tool for large-scale data sets.
 - [Mermaid ![GitHub Repo Stars](https://img.shields.io/github/stars/knsv/mermaid) ![GitHub last commit](https://img.shields.io/github/last-commit/knsv/mermaid)](https://github.com/knsv/mermaid) - A tool used to generate diagrams and flowcharts from text in a similar manner as markdown.
 - [RAW](https://rawgraphs.io) - Create web visualizations from CSV or Excel files.
 - [Spark ![GitHub Repo Stars](https://img.shields.io/github/stars/holman/spark) ![GitHub last commit](https://img.shields.io/github/last-commit/holman/spark)](https://github.com/holman/spark) - Sparklines for the shell. It have several [implementations in different languages ![GitHub Repo Stars](https://img.shields.io/github/stars/holman/spark) ![GitHub last commit](https://img.shields.io/github/last-commit/holman/spark)](https://github.com/holman/spark/wiki/Alternative-Implementations).
+- [Squey](https://squey.org) - Visualization software for exploring and understanding large amounts of tabular data (using parallel coordinates, timeseries and scatter plots).
 - [Visual-Insights ![GitHub Repo Stars](https://img.shields.io/github/stars/ObservedObserver/visual-insights) ![GitHub last commit](https://img.shields.io/github/last-commit/ObservedObserver/visual-insights)](https://github.com/ObservedObserver/visual-insights) - Automatic insights extraction and visualization specification in data analysis.
+- [RATH ![GitHub Repo Stars](https://img.shields.io/github/stars/Kanaries/Rath) ![GitHub last commit](https://img.shields.io/github/last-commit/Kanaries/Rath)](https://github.com/Kanaries/Rath) - Automatic Exploratory Data Analysis & Data Visualization tool which is powered by an AI-assisted Augmented Analytics engine.
 - [X6](https://x6.antv.vision/en) - diagram creation library for rapid construction of DAG diagrams, ER diagrams, flowcharts and other applications, maintained by Alibaba
-- [Graphviz](https://graphviz.org/) - Open source graph visualization command line tool and library. From input text to SVG,PDF,interactive web graph browser. 
+- [Graphviz](https://graphviz.org/) - Open source graph visualization command line tool and library. From input text to SVG,PDF,interactive web graph browser.
+- [ERD Lab](https://www.erdlab.io/) - Free cloud based entity relationship diagram (ERD) tool made for developers.
+- [Plotivy](https://plotivy.app/) - Scientific data visualization tool, with AI-generated reproducible Python code, and research-oriented design best practices built in.
 
 # Resources
 
@@ -186,6 +228,8 @@ Tools that are not tied to a particular platform or language.
 - [The Visual Display of Quantitative Information](https://www.amazon.com/Visual-Display-Quantitative-Information/dp/0961392142) by Edward Tufte.
 - [The Wall Street Journal Guide to Information Graphics](https://www.amazon.com/Street-Journal-Guide-Information-Graphics/dp/0393347281) by Dona M. Wong
 - [Visualization Analysis and Design](https://www.amazon.com/Visualization-Analysis-Design-AK-Peters/dp/1466508914) by Tamara Munzner.
+- [R in Action, Third Edition](https://www.manning.com/books/r-in-action-third-edition) by Robert I. Kabacoff. A complete learning resource for R and tidyverse.
+- [Everyday Data Visualization](https://www.manning.com/books/everyday-data-visualization) by Desireé Abbott. A field guide for design techniques that will improve the charts, reports, and data dashboards you build every day.
 - [Interactive Data Visualization for the Web](https://chimera.labs.oreilly.com/books/1230000000345) by Scott Murray. Available to read online. Focused on D3.
 - [Data Visualization Toolkit](https://datavisualizationtoolkit.com) by Barrett Austin Clark. Uses D3, Ruby on Rails, Postgres, PostGIS, & Leaflet.
 - [Data Visualisation: A Handbook for Data Driven Design](https://www.amazon.com/Data-Visualisation-Handbook-Driven-Design/dp/1526468921/) by Andy Kirk
@@ -227,16 +271,20 @@ Tools that are not tied to a particular platform or language.
 - [Data Visualization Society](https://www.datavisualizationsociety.com/) - The Data Visualization Society is an organization dedicated to fostering community for data visualization professionals.
 - [eagereyes](https://eagereyes.org/)
 - [EvergreenData](https://stephanieevergreen.com/)
+- [Global Data Tracker](https://globaldatatracker.com/) - Interactive country-statistics explorer with historical charts and globe views.
 - [FlowingData](https://flowingdata.com/)
 - [Information is Beautiful](https://www.informationisbeautiful.net/)
 - [Junk Charts](https://junkcharts.typepad.com/) - Kaiser Fung takes apart why certain datavizes work/don't work
 - [Lisa Rost thinks and discusses about why we dataviz](https://lisacharlotterost.github.io/)
 - [Makeover Monday](https://www.makeovermonday.co.uk/) blog - [#MakeoverMonday](https://twitter.com/search?q=%23makeovermonday) on twitter
+- [Plottie](https://plottie.art) - Open-access library of scientific plots for inspiration and AI visualization tool.
 - [The Open News](https://source.opennews.org/articles/) blog -  Open news has some good dataviz related articles from time to time
+- [The Planet Thinks](https://theplanetthinks.com/) - Real-time visualization of Wikipedia edits on a 3D globe
 - [The Pudding](https://pudding.cool/)
 - [Truth & Beauty Operations](https://truth-and-beauty.net/)
 - [University of Washington Interactive Data Lab Papers](https://idl.cs.washington.edu/papers)
 - [vis4.net](https://www.vis4.net/blog/) - Random thoughts on visualization and data journalism by Gregor Aisch
+- [Marble Taxonomy Explorer](https://ashutoshsinghpr7.github.io/marble-taxonomy-explorer/) - Interactive knowledge graph visualization of 1,590 learning topics using Cytoscape.js with force-directed, concentric, and BFS layouts. [Source ![GitHub Repo Stars](https://img.shields.io/github/stars/ashutoshsinghpr7/marble-taxonomy-explorer) ![GitHub last commit](https://img.shields.io/github/last-commit/ashutoshsinghpr7/marble-taxonomy-explorer)](https://github.com/ashutoshsinghpr7/marble-taxonomy-explorer)
 
 
 # Contributing
@@ -253,6 +301,11 @@ Thanks for your suggestions!
 
 - Fabio Souto originally createad this repo, connect with Fabio at [fabiosouto.me](https://fabiosouto.me/).
 - [Javier Luraschi](https://github.com/javierluraschi) is the current maintainer, he builds predictive visualizations at [Hal9](https://hal9.com).
+
+
+# License
+
+Released under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](LICENSE).
 
 
 - - -

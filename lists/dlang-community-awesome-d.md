@@ -79,18 +79,18 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 
 * [dlang.org](https://dlang.org) - Official website for D.
 * [wiki.dlang.org](https://wiki.dlang.org) - Official wiki for D.
-* [blog.dlang.org](https://dlang.org/blog/) - Official blog for D.
+* [blog.dlang.org](https://blog.dlang.org/) - Official blog for D.
 * [forum.dlang.org](https://forum.dlang.org/) - Official forum for D. Many interesting discussions occurring on a daily basis.
 * [code.dlang.org](https://code.dlang.org) - Official library registry for D.
 * [GitHub organization](https://github.com/dlang) - Official GitHub organization for D. Repository for all official D tools & code.
-* [Issue tracker](https://github.com/dlang) – Official issue tracker for D. Older reports can be found in the [archived tracker](https://issues.dlang.org/).
+* [Issue tracker](https://github.com/dlang) – Official issue tracker for D.
 * [Language specification](https://dlang.org/spec/spec.html) - The D programming language specification.
 
 ### Status page
 
 *Unofficial, run by the community.*
 
-* [status.dlang.rocks](https://status.dlang.rocks) - Public infrastructure monitoring of services associated with or used by the D Language Foundation and its project contributors.
+* [status.dlang.rocks](https://status.dlang.rocks/dashboards/dlang.org) - Public infrastructure monitoring of services associated with or used by the D Language Foundation and its project contributors.
 
 ## Getting Help
 
@@ -106,8 +106,8 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 *The people that made D the language it is.*
 
 * [Walter Bright](https://www.walterbright.com/) - Father of D. Walter Bright is the creator and first implementer of the D programming language and has implemented compilers for several other languages.
-* [Andrei Alexandrescu, PhD](http://erdani.org/) - C++ guru. Author of *The D Programming Language* and *Modern C++ Design*. With Walter Bright, Andrei co-designed many important features of D and authored a large part of D's standard library. Andrei works as a trainer in advanced C++ programming and algorithms and is now actively evangelizing D in the organization.
-* [Átila Neves](https://atilaoncode.blog/) - [Deputy Leader of D](https://dlang.org/blog/2019/10/15/my-vision-of-ds-future/).
+* [Andrei Alexandrescu, PhD](https://erdani.org/) - C++ guru. Author of *The D Programming Language* and *Modern C++ Design*. With Walter Bright, Andrei co-designed many important features of D and authored a large part of D's standard library. Andrei works as a trainer in advanced C++ programming and algorithms and is now actively evangelizing D in the organization.
+* [Átila Neves](https://atilaoncode.blog/) - [Deputy Leader of D](https://blog.dlang.org/2019/10/15/my-vision-of-ds-future/).
 * **YOU** - Please add your information if you've done something interesting in D. It is you, the awesome people that make D awesome.
 
 ## Events
@@ -128,7 +128,7 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 * [infognition](http://www.infognition.com/company.html) - Infognition is a self-funded and self-sustained company specializing in video processing and compression technologies for end-users and developers. They provide several opensource video related applications & tools written in D, hosted on [bitbucket](https://bitbucket.org/infognition/workspace/repositories/). They are also porting their main product--[Video Enchanser](http://www.infognition.com/VideoEnhancer/) from C/C++ to D.
 * [libmir](https://github.com/libmir) - D's numeric library development team
 * [sociomantic labs](https://github.com/sociomantic-tsunami) - Berlin based company specializing in real-time bidding for online advertising. Main sponsor of the [annual D language conference](https://dconf.org/). Has open-sourced large parts of their codebase as part of the [tsunami](https://github.com/sociomantic-tsunami) organization.
-* [Symmetry Investments](https://symmetryinvestments.com/) - Symmetry Investments LP is an investment management company with approximately US$4.7 billion in assets under management as of 31 December 2018. Main sponsor of the [Symmetry Autumn of Code](https://dlang.org/blog/symmetry-autumn-of-code/). Have sponsored the development of [excel-d](https://dlang.org/blog/2017/05/31/project-highlight-excel-d/), [dpp ![GitHub Repo Stars](https://img.shields.io/github/stars/atilaneves/dpp) ![GitHub last commit](https://img.shields.io/github/last-commit/atilaneves/dpp)](https://github.com/atilaneves/dpp), [autowrap ![GitHub Repo Stars](https://img.shields.io/github/stars/symmetryinvestments/autowrap) ![GitHub last commit](https://img.shields.io/github/last-commit/symmetryinvestments/autowrap)](https://github.com/symmetryinvestments/autowrap), [mir-algorithm ![GitHub Repo Stars](https://img.shields.io/github/stars/libmir/mir-algorithm) ![GitHub last commit](https://img.shields.io/github/last-commit/libmir/mir-algorithm)](https://github.com/libmir/mir-algorithm), and various other projects.
+* [Symmetry Investments](https://symmetryinvestments.com/) - Symmetry Investments LP is an investment management company with approximately US$4.7 billion in assets under management as of 31 December 2018. Main sponsor of the [Symmetry Autumn of Code](https://saoc.io/). Have sponsored the development of [excel-d](https://blog.dlang.org/2017/05/31/project-highlight-excel-d/), [dpp ![GitHub Repo Stars](https://img.shields.io/github/stars/atilaneves/dpp) ![GitHub last commit](https://img.shields.io/github/last-commit/atilaneves/dpp)](https://github.com/atilaneves/dpp), [autowrap ![GitHub Repo Stars](https://img.shields.io/github/stars/symmetryinvestments/autowrap) ![GitHub last commit](https://img.shields.io/github/last-commit/symmetryinvestments/autowrap)](https://github.com/symmetryinvestments/autowrap), [mir-algorithm ![GitHub Repo Stars](https://img.shields.io/github/stars/libmir/mir-algorithm) ![GitHub last commit](https://img.shields.io/github/last-commit/libmir/mir-algorithm)](https://github.com/libmir/mir-algorithm), and various other projects.
 * [HuntLabs](https://github.com/huntlabs) - A technology group using DLang. Have pure D language implementation of quickly develop server-side applications and build distributed system services.
 
 ## Books
@@ -160,7 +160,7 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 
 *D related blogs.*
 
-* [blog.dlang.org](https://dlang.org/blog/) - Official blog.
+* [blog.dlang.org](https://blog.dlang.org/) - Official blog.
 * [/r/d_language on Reddit](https://www.reddit.com/r/d_language/) - A feed of news and blog posts about D.
 * [This week in D](https://dpldocs.info/this-week-in-d/Blog.html) - A weekly overview of activity in the D community and brief advice columns to help you get the most out of the D Programming Language.
 * [Planet D](http://planet.dsource.org) - A repository of co-authored D-specific blogs maintained by Vladimir Panteleev.
@@ -288,7 +288,7 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 
 * [D Bare bones](https://wiki.osdev.org/D_Bare_Bones) - kernel hello world in D (using GDC compiler)
 * [D barebone with ldc2](https://wiki.osdev.org/D_barebone_with_ldc2) - another kernel hello world in D (using LDC compiler)
-* [XOmB bare bones](https://web.archive.org/web/20161214232759/http://wiki.xomb.org/index.php?title=XOmB_Bare_Bones) - an exokernel operating system written in D. [Main page](https://web.archive.org/web/20161201061242/http://wiki.xomb.org/index.php?title=Main_Page), [github ![GitHub Repo Stars](https://img.shields.io/github/stars/xomboverlord/xomb) ![GitHub last commit](https://img.shields.io/github/last-commit/xomboverlord/xomb)](https://github.com/xomboverlord/xomb/tree/unborn).
+* [XOmB bare bones](https://web.archive.org/web/20161214232759/http://wiki.xomb.org/index.php?title=XOmB_Bare_Bones) - an exokernel operating system written in D. [Main page](https://web.archive.org/web/20161201061242/http://wiki.xomb.org/index.php?title=Main_Page), [github ![GitHub Repo Stars](https://img.shields.io/github/stars/xomboverlord/xomb-legacy) ![GitHub last commit](https://img.shields.io/github/last-commit/xomboverlord/xomb-legacy)](https://github.com/xomboverlord/xomb-legacy).
 * [Bare Metal ARM Cortex-M GDC Cross Compiler](https://wiki.dlang.org/Bare_Metal_ARM_Cortex-M_GDC_Cross_Compiler) - building a bare metal ARM Cortex-M (arm-none-eabi) GDC cross compiler for a Linux host.
 
 ## General Containers
@@ -390,6 +390,7 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 * [tshare ![GitHub Repo Stars](https://img.shields.io/github/stars/trikko/tshare) ![GitHub last commit](https://img.shields.io/github/last-commit/trikko/tshare)](https://github.com/trikko/tshare) - Fast file sharing from cli, using transfer.sh.
 * [todod ![GitHub Repo Stars](https://img.shields.io/github/stars/BlackEdder/todod) ![GitHub last commit](https://img.shields.io/github/last-commit/BlackEdder/todod)](https://github.com/BlackEdder/todod) - Todod is a command line based todo list manager. It also has support for shell interaction based on [linenoise ![GitHub Repo Stars](https://img.shields.io/github/stars/antirez/linenoise) ![GitHub last commit](https://img.shields.io/github/last-commit/antirez/linenoise)](https://github.com/antirez/linenoise).
 * [Soulfind ![GitHub Repo Stars](https://img.shields.io/github/stars/soulfind-dev/soulfind) ![GitHub last commit](https://img.shields.io/github/last-commit/soulfind-dev/soulfind)](https://github.com/soulfind-dev/soulfind) - Soulseek server implementation in D.
+* [websitino ![GitHub Repo Stars](https://img.shields.io/github/stars/trikko/websitino) ![GitHub last commit](https://img.shields.io/github/last-commit/trikko/websitino)](https://github.com/trikko/websitino) - Single-binary static file server for local development, with directory listing, Markdown rendering and https.
 
 ## GUI Libraries
 
@@ -462,23 +463,20 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 
 ## Game Libraries
 
-*D libraries for game development.*
+*General utilities.*
 
 * [InMath ![GitHub Repo Stars](https://img.shields.io/github/stars/Inochi2D/inmath) ![GitHub last commit](https://img.shields.io/github/last-commit/Inochi2D/inmath)](https://github.com/Inochi2D/inmath) - Games math library for D.
 * [godot-math ![GitHub Repo Stars](https://img.shields.io/github/stars/AuburnSounds/godot-math) ![GitHub last commit](https://img.shields.io/github/last-commit/AuburnSounds/godot-math)](https://github.com/AuburnSounds/godot-math) - A D port of Godot's linear algebra with unchanged semantics.
 * [text-mode ![GitHub Repo Stars](https://img.shields.io/github/stars/AuburnSounds/text-mode) ![GitHub last commit](https://img.shields.io/github/last-commit/AuburnSounds/text-mode)](https://github.com/AuburnSounds/text-mode) - Virtual text mode with 8x8 Unicode font and markup language.
+* [gfm ![GitHub Repo Stars](https://img.shields.io/github/stars/drug007/gfm7) ![GitHub last commit](https://img.shields.io/github/last-commit/drug007/gfm7)](https://github.com/drug007/gfm7) - D gamedev toolkit.
+* [wasip1libc-d ![GitHub Repo Stars](https://img.shields.io/github/stars/Kapendev/wasip1libc-d) ![GitHub last commit](https://img.shields.io/github/last-commit/Kapendev/wasip1libc-d)](https://github.com/Kapendev/wasip1libc-d) - A minimal WASI Preview 1 libc + browser host.
 
 *Libraries for 2D-related projects.*
 
-* [gfm ![GitHub Repo Stars](https://img.shields.io/github/stars/drug007/gfm7) ![GitHub last commit](https://img.shields.io/github/last-commit/drug007/gfm7)](https://github.com/drug007/gfm7) - D gamedev toolkit.
 * [Parin ![GitHub Repo Stars](https://img.shields.io/github/stars/Kapendev/parin) ![GitHub last commit](https://img.shields.io/github/last-commit/Kapendev/parin)](https://github.com/Kapendev/parin) - A delightfully simple 2D game engine.
 * [PixelPerfectEngine ![GitHub Repo Stars](https://img.shields.io/github/stars/ZILtoid1991/pixelperfectengine) ![GitHub last commit](https://img.shields.io/github/last-commit/ZILtoid1991/pixelperfectengine)](https://github.com/ZILtoid1991/pixelperfectengine) - 2D graphics engine written in D.
 * [HipremeEngine ![GitHub Repo Stars](https://img.shields.io/github/stars/MrcSnm/HipremeEngine) ![GitHub last commit](https://img.shields.io/github/last-commit/MrcSnm/HipremeEngine)](https://github.com/MrcSnm/HipremeEngine) - Cross Platform D-Lang Game Engine with scripting support.
 * [PixmapPresenter ![GitHub Repo Stars](https://img.shields.io/github/stars/adamdruppe/arsd) ![GitHub last commit](https://img.shields.io/github/last-commit/adamdruppe/arsd)](https://github.com/adamdruppe/arsd/blob/master/pixmappresenter.d) - High-level display library for blitting fully-rendered frames to the screen (→ software-rendering, retro graphics).
-
-*Libraries for 2D/3D-related projects.*
-
-* [rengfx ![GitHub Repo Stars](https://img.shields.io/github/stars/bmchtech/rengfx) ![GitHub last commit](https://img.shields.io/github/last-commit/bmchtech/rengfx)](https://github.com/bmchtech/rengfx) - lightweight, expressive, extensible 2D/3D game engine.
 
 *Libraries for 3D-related projects.*
 
@@ -522,7 +520,7 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 
 ## Parallel Computing
 
-* [DCompute ![GitHub Repo Stars](https://img.shields.io/github/stars/libmir/dcompute) ![GitHub last commit](https://img.shields.io/github/last-commit/libmir/dcompute)](https://github.com/libmir/dcompute) - [GPGPU with Native D for OpenCL and CUDA](https://dlang.org/blog/2017/07/17/dcompute-gpgpu-with-native-d-for-opencl-and-cuda/)
+* [DCompute ![GitHub Repo Stars](https://img.shields.io/github/stars/libmir/dcompute) ![GitHub last commit](https://img.shields.io/github/last-commit/libmir/dcompute)](https://github.com/libmir/dcompute) - [GPGPU with Native D for OpenCL and CUDA](https://blog.dlang.org/2017/07/17/dcompute-gpgpu-with-native-d-for-opencl-and-cuda/)
 * [DerelictCUDA ![GitHub Repo Stars](https://img.shields.io/github/stars/DerelictOrg/DerelictCUDA) ![GitHub last commit](https://img.shields.io/github/last-commit/DerelictOrg/DerelictCUDA)](https://github.com/DerelictOrg/DerelictCUDA) - Dynamic bindings to the CUDA library for the D Programming Language.
 * [DerelictCL ![GitHub Repo Stars](https://img.shields.io/github/stars/DerelictOrg/DerelictCL) ![GitHub last commit](https://img.shields.io/github/last-commit/DerelictOrg/DerelictCL)](https://github.com/DerelictOrg/DerelictCL) - Dynamic bindings to the OpenCL library for the D Programming Language.
 
@@ -581,6 +579,7 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 * [Botan ![GitHub Repo Stars](https://img.shields.io/github/stars/etcimon/botan) ![GitHub last commit](https://img.shields.io/github/last-commit/etcimon/botan)](https://github.com/etcimon/botan) - Block & stream ciphers, public key crypto, hashing, KDF, MAC, PKCS, TLS, ASN.1, BER/DER, etc.
 * [OpenSSL ![GitHub Repo Stars](https://img.shields.io/github/stars/D-Programming-Deimos/openssl) ![GitHub last commit](https://img.shields.io/github/last-commit/D-Programming-Deimos/openssl)](https://github.com/D-Programming-Deimos/openssl) - D version of the C headers for OpenSSL.
 * [Crypto ![GitHub Repo Stars](https://img.shields.io/github/stars/shove70/crypto) ![GitHub last commit](https://img.shields.io/github/last-commit/shove70/crypto)](https://github.com/shove70/crypto) - A D Library of encryption, decryption, encode, hash, and message digital signatures.
+* [neverstored ![GitHub Repo Stars](https://img.shields.io/github/stars/trikko/neverstored) ![GitHub last commit](https://img.shields.io/github/last-commit/trikko/neverstored)](https://github.com/trikko/neverstored) - Hand a secret to someone without ever storing it, end-to-end encrypted between two browsers.
 
 ## Unmaintained
 
