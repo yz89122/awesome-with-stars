@@ -924,7 +924,7 @@ _Libraries related to the financial domain._
 
 > **[OpenGamma Strata ![GitHub Repo Stars](https://img.shields.io/github/stars/OpenGamma/Strata) ![GitHub last commit](https://img.shields.io/github/last-commit/OpenGamma/Strata)](https://github.com/OpenGamma/Strata)** <kbd>★ 963</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Analytics and market risk library for financial products.
 
-> **[PesaFlow4J ![GitHub Repo Stars](https://img.shields.io/github/stars/JoseModi97/pesaflow4j) ![GitHub last commit](https://img.shields.io/github/last-commit/JoseModi97/pesaflow4j)](https://github.com/JoseModi97/pesaflow4j)** <kbd>��� 1</kbd> <kbd>MIT</kbd> 🟢<br>Dependency-free SDK for the Kenya PesaFlow/eCitizen PaymentAPI, including M-Pesa STK push and webhook signature verification.
+> **[PesaFlow4J ![GitHub Repo Stars](https://img.shields.io/github/stars/JoseModi97/pesaflow4j) ![GitHub last commit](https://img.shields.io/github/last-commit/JoseModi97/pesaflow4j)](https://github.com/JoseModi97/pesaflow4j)** <kbd>★ 1</kbd> <kbd>MIT</kbd> 🟢<br>Dependency-free SDK for the Kenya PesaFlow/eCitizen PaymentAPI, including M-Pesa STK push and webhook signature verification.
 
 > **[Philadelphia ![GitHub Repo Stars](https://img.shields.io/github/stars/paritytrading/philadelphia) ![GitHub last commit](https://img.shields.io/github/last-commit/paritytrading/philadelphia)](https://github.com/paritytrading/philadelphia)** <kbd>★ 346</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Low-latency financial information exchange.
 
@@ -1392,7 +1392,7 @@ _Tools for creating and managing microservices._
 
 > **[Micronaut ![GitHub Repo Stars](https://img.shields.io/github/stars/micronaut-projects/micronaut-core) ![GitHub last commit](https://img.shields.io/github/last-commit/micronaut-projects/micronaut-core)](https://github.com/micronaut-projects/micronaut-core)** <kbd>★ 6.4k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Modern full-stack framework with focus on modularity, minimal memory footprint and startup time.
 
-> **[Nacos ![GitHub Repo Stars](https://img.shields.io/github/stars/alibaba/nacos) ![GitHub last commit](https://img.shields.io/github/last-commit/alibaba/nacos)](https://github.com/alibaba/nacos)** <kbd>★ 33.4k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Dynamic service discovery, configuration and service management platform for building cloud native applications.
+> **[Nacos ![GitHub Repo Stars](https://img.shields.io/github/stars/alibaba/nacos) ![GitHub last commit](https://img.shields.io/github/last-commit/alibaba/nacos)](https://github.com/alibaba/nacos)** <kbd>��� 33.4k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Dynamic service discovery, configuration and service management platform for building cloud native applications.
 
 > **[Quarkus ![GitHub Repo Stars](https://img.shields.io/github/stars/quarkusio/quarkus) ![GitHub last commit](https://img.shields.io/github/last-commit/quarkusio/quarkus)](https://github.com/quarkusio/quarkus)** <kbd>★ 15.9k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Kubernetes stack tailored for the HotSpot and Graal VM.
 

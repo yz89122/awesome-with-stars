@@ -155,7 +155,7 @@ Creative technologists by definition have a breadth of skills as opposed to a sp
 | [**Map**](http:&#x2F;&#x2F;mapprojectoffice.com&#x2F;) | [London] | industrial designers who believe great design can solve problems | [🌐](https:&#x2F;&#x2F;universal.pinpointhq.com&#x2F;)
 | [**Marshmallow Laser Feast**](https:&#x2F;&#x2F;www.marshmallowlaserfeast.com&#x2F;) | [London] | leaving a slug trail of sensory nuggets as we journey through the cosmos | [📧](mailto:jobs@marshmallowlaserfeast.com)
 | [**Master of Shapes**](https:&#x2F;&#x2F;masterofshapes.com&#x2F;) | [LA] | a space surfing, geometry taming, buffalo riding, Future House | 
-| [**MESO Digital Interiors**](https:&#x2F;&#x2F;meso.design) | [Frankfurt] | digital design and technology for physical spaces, blending interactive installations, showrooms, and experiential environments | [����](https:&#x2F;&#x2F;meso.design&#x2F;en&#x2F;pages&#x2F;join-us)
+| [**MESO Digital Interiors**](https:&#x2F;&#x2F;meso.design) | [Frankfurt] | digital design and technology for physical spaces, blending interactive installations, showrooms, and experiential environments | [🌐](https:&#x2F;&#x2F;meso.design&#x2F;en&#x2F;pages&#x2F;join-us)
 | [**Midnight Commercial**](http:&#x2F;&#x2F;midnightcommercial.com&#x2F;) | [NYC] | unite the disparate digital and physical worlds | 
 | [**Midwest Immersive**](https:&#x2F;&#x2F;www.mwimmersive.com&#x2F;) | [Chicago] | immersive experiences for brands and agencies, projection mapping, LED lighting, games and app development | 
 | [**MindBuffer**](https:&#x2F;&#x2F;mindbuffer.net&#x2F;) | [Berlin] | audiovisual research and digital design studio | 

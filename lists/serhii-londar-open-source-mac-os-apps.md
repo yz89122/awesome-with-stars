@@ -2579,7 +2579,7 @@ You can see in which language an app is written. Currently there are following l
 
   **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
 
-### ��️ Downloader (10)
+### ⬇️ Downloader (10)
 - [App Downloader ![GitHub Repo Stars](https://img.shields.io/github/stars/yep/app-downloader) ![GitHub last commit](https://img.shields.io/github/last-commit/yep/app-downloader)](https://github.com/yep/app-downloader) - Easily search and download macOS apps from the huge `homebrew cask` app catalog. 
 
   **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 

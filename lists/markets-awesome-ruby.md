@@ -1296,6 +1296,7 @@ Online tools, services and APIs to simplify development.
 * [Docsplit](http://documentcloud.github.io/docsplit) - Gem to convert Microsoft Word (and other) documents into images, pdf, pages or text.
 * [fast_excel ![GitHub Repo Stars](https://img.shields.io/github/stars/Paxa/fast_excel) ![GitHub last commit](https://img.shields.io/github/last-commit/Paxa/fast_excel)](https://github.com/Paxa/fast_excel) - Ultra fast Excel (xlsx) writer for Ruby, a wrapper for libxlsxwriter using FFI.
 * [Roo ![GitHub Repo Stars](https://img.shields.io/github/stars/roo-rb/roo) ![GitHub last commit](https://img.shields.io/github/last-commit/roo-rb/roo)](https://github.com/roo-rb/roo) - Implements read access for all spreadsheet types and read/write access for Google spreadsheets.
+* [SimpleXlsxReader ![GitHub Repo Stars](https://img.shields.io/github/stars/woahdae/simple_xlsx_reader) ![GitHub last commit](https://img.shields.io/github/last-commit/woahdae/simple_xlsx_reader)](https://github.com/woahdae/simple_xlsx_reader) - A fast xlsx reader that parses cell values into plain Ruby primitives and dates/times.
 * [spreadsheet_architect ![GitHub Repo Stars](https://img.shields.io/github/stars/westonganger/spreadsheet_architect) ![GitHub last commit](https://img.shields.io/github/last-commit/westonganger/spreadsheet_architect)](https://github.com/westonganger/spreadsheet_architect) - Spreadsheet Architect is a library that allows you to create XLSX, ODS, or CSV spreadsheets super easily from ActiveRecord relations, plain Ruby objects, or tabular data.
 
 ## State Machines
