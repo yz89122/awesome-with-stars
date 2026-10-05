@@ -272,7 +272,7 @@ A collaborative list of great resources about RESTful API architecture, developm
 * [Slate ![GitHub Repo Stars](https://img.shields.io/github/stars/lord/slate) ![GitHub last commit](https://img.shields.io/github/last-commit/lord/slate)](https://github.com/lord/slate) - Beautiful and responsive three-panel API documentation using Middleman.
 * [Optic ![GitHub Repo Stars](https://img.shields.io/github/stars/opticdev/optic) ![GitHub last commit](https://img.shields.io/github/last-commit/opticdev/optic)](https://github.com/opticdev/optic) - Maintain an accurate API specification without writing OpenAPI/Swagger. Works with any Stack
 * [Zudoku](https://zudoku.dev/) - Create clean, consistent API docs with Zudoku — open source, extensible, and developer-first
-* [Sourcey](https://sourcey.com) - Open source documentation platform for OpenAPI specs and markdown. Static HTML output.
+* [Sourcey](https://sourcey.com/docs) - Static documentation generator from OpenAPI, MCP, Doxygen, godoc, rustdoc, and Markdown sources.
 * [Stoplight](https://stoplight.io/) - Design-first API platform with visual OpenAPI editor, documentation, and mocking.
 * [Cortex ![GitHub Repo Stars](https://img.shields.io/github/stars/cortex-docs/cortex) ![GitHub last commit](https://img.shields.io/github/last-commit/cortex-docs/cortex)](https://github.com/cortex-docs/cortex) - Generate interactive API documentation, typed SDKs, and MCP servers from OpenAPI and other API specification formats.
 

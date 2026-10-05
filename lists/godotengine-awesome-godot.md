@@ -40,6 +40,7 @@ See [Vivraan/godot-lang-support ![GitHub Repo Stars](https://img.shields.io/gith
 - [A Dark Forest ![GitHub Repo Stars](https://img.shields.io/github/stars/TinyTakinTeller/GodotProjectZero) ![GitHub last commit](https://img.shields.io/github/last-commit/TinyTakinTeller/GodotProjectZero)](https://github.com/TinyTakinTeller/GodotProjectZero) - Minimalistic incremental game inspired by "A Dark Room".
 - [Librerama](https://codeberg.org/Yeldham/librerama) - A free/libre fast-paced arcade collection of mini-games.
 - [Poder Solar](https://codeberg.org/antimundo/poder-solar) - Simple resource management game.
+- [Source of Mana ![GitHub Repo Stars](https://img.shields.io/github/stars/sourceofmana/sourceofmana) ![GitHub last commit](https://img.shields.io/github/last-commit/sourceofmana/sourceofmana)](https://github.com/sourceofmana/sourceofmana) - 2D MMORPG inspired by SNES-era RPG aesthetics and mechanics.
 - [Unknown Horizons ![GitHub Repo Stars](https://img.shields.io/github/stars/unknown-horizons/godot-port) ![GitHub last commit](https://img.shields.io/github/last-commit/unknown-horizons/godot-port)](https://github.com/unknown-horizons/godot-port) - Official work-in-progress reimplementation of Unknown Horizons.
 - [Worlds Upon The Wind ![GitHub Repo Stars](https://img.shields.io/github/stars/max99x/wutw-public) ![GitHub last commit](https://img.shields.io/github/last-commit/max99x/wutw-public)](https://github.com/max99x/wutw-public) - A commercial roguelite deckbuilder released as public domain.
 
