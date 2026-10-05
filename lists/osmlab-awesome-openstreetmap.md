@@ -176,6 +176,7 @@ This section is a great place to start if you want to get into improving OpenStr
 * [Defikarte.ch](https://www.defikarte.ch) - A Map that shows all available defibrillators in Switzerland and Liechtenstein, also used by emergency dispatch centers and rescue services. (ℹ️ German only)
 * [Streets GL ![GitHub Repo Stars](https://img.shields.io/github/stars/StrandedKitty/streets-gl) ![GitHub last commit](https://img.shields.io/github/last-commit/StrandedKitty/streets-gl)](https://github.com/StrandedKitty/streets-gl) - OpenStreetMap 3D renderer powered by WebGL2. ([Wiki](https://wiki.openstreetmap.org/wiki/Streets_GL))
 * [openclimbing.org](https://openclimbing.org) - A map for rock climbers with editor for creating interactive climbing guides based on OpenStreetMap.
+* [SafeStreets](https://safestreets.streetsandcommons.com) - Free address-level walkability and pedestrian-safety analysis, scoring any neighborhood on a 15-minute-city framework using OpenStreetMap data.
 
 ### Mobile Maps
 
@@ -189,6 +190,7 @@ This section is a great place to start if you want to get into improving OpenStr
 
 * [MyOSMatic](https://print.get-map.org/new/) - Website for generating printable street maps from OSM data. ([Source Code ![GitHub Repo Stars](https://img.shields.io/github/stars/hholzgra/maposmatic) ![GitHub last commit](https://img.shields.io/github/last-commit/hholzgra/maposmatic)](https://github.com/hholzgra/maposmatic/))
 * [Field Papers](http://fieldpapers.org/) - Generate maps for printing, annotate them, and manage your notes after. ([Source Code ![GitHub Repo Stars](https://img.shields.io/github/stars/fieldpapers/fieldpapers) ![GitHub last commit](https://img.shields.io/github/last-commit/fieldpapers/fieldpapers)](https://github.com/fieldpapers/fieldpapers) / [Wiki](https://wiki.openstreetmap.org/wiki/Field_Papers))
+* [MapPoster Online](https://maptoposter.0v0.one/) - Web-based map poster generator with customizable styles. ([Source Code ![GitHub Repo Stars](https://img.shields.io/github/stars/ianho7/maptoposter-online) ![GitHub last commit](https://img.shields.io/github/last-commit/ianho7/maptoposter-online)](https://github.com/ianho7/maptoposter-online))
 
 ### Map Styles
 
@@ -215,6 +217,7 @@ The services in this category allow you to track personal and fitness goals util
 * [libosmium ![GitHub Repo Stars](https://img.shields.io/github/stars/osmcode/libosmium) ![GitHub last commit](https://img.shields.io/github/last-commit/osmcode/libosmium)](https://github.com/osmcode/libosmium) - Fast and flexible C++ library for working with OpenStreetMap data. ([Wiki](https://wiki.openstreetmap.org/wiki/Osmium))
 * [OSRM ![GitHub Repo Stars](https://img.shields.io/github/stars/Project-OSRM/osrm-backend) ![GitHub last commit](https://img.shields.io/github/last-commit/Project-OSRM/osrm-backend)](https://github.com/Project-OSRM/osrm-backend) -  Routing engine for use in C++ applications. ([Wiki](https://wiki.openstreetmap.org/wiki/Open_Source_Routing_Machine))
 * [mapnik ![GitHub Repo Stars](https://img.shields.io/github/stars/mapnik/mapnik) ![GitHub last commit](https://img.shields.io/github/last-commit/mapnik/mapnik)](https://github.com/mapnik/mapnik) - Combines pixel-perfect image output with lightning-fast cartographic algorithms, and exposes interfaces in C++, Python, and Node. ([Wiki](https://wiki.openstreetmap.org/wiki/Mapnik))
+* [Valhalla ![GitHub Repo Stars](https://img.shields.io/github/stars/valhalla/valhalla) ![GitHub last commit](https://img.shields.io/github/last-commit/valhalla/valhalla)](https://github.com/valhalla/valhalla) - Routing engine written in C++. ([Wiki](https://wiki.openstreetmap.org/wiki/Valhalla))
 
 ### JavaScript
 
@@ -258,6 +261,7 @@ The services in this category allow you to track personal and fitness goals util
 * [Postpass ![GitHub Repo Stars](https://img.shields.io/github/stars/woodpeck/postpass-ops) ![GitHub last commit](https://img.shields.io/github/last-commit/woodpeck/postpass-ops)](https://github.com/woodpeck/postpass-ops) - PostGIS-powered SQL API for OSM data. ([Wiki](https://wiki.openstreetmap.org/wiki/Postpass))
 * [QLever](https://qlever.dev/osm-planet/) - SPARQL API for OSM data. ([Wiki](https://wiki.openstreetmap.org/wiki/QLever))
 * [Sophox](https://sophox.org/) - SPARQL API for OSM data. ([Wiki](https://wiki.openstreetmap.org/wiki/Sophox))
+* [MapAtlas](https://mapatlas.eu) - REST API for geocoding, routing, isochrone, matrix, map matching, and MVT vector tiles built on OpenStreetMap data. ([Docs](https://docs.mapatlas.xyz/))
 
 ## Miscellaneous
 
