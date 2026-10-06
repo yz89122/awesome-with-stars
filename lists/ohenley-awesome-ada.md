@@ -217,6 +217,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 #### GPL (with linking exception)
 
 - [fsf-gnat ![GitHub Repo Stars](https://img.shields.io/github/stars/alire-project/GNAT-FSF-builds) ![GitHub last commit](https://img.shields.io/github/last-commit/alire-project/GNAT-FSF-builds)](https://github.com/alire-project/GNAT-FSF-builds/releases) - Free Software Foundation compiler for the Ada programming language which forms part of the GNU Compiler Collection. It supports all versions of the language, i.e. Ada 2022, Ada 2012, Ada 2005, Ada 95 and Ada 83.
+- [gnat-patches ![GitHub Repo Stars](https://img.shields.io/github/stars/flyology-ada/gnat-patches) ![GitHub last commit](https://img.shields.io/github/last-commit/flyology-ada/gnat-patches)](https://github.com/flyology-ada/gnat-patches) - Curated GCC/GNAT patchsets against checksum-pinned upstream sources, each backed by an executable regression, published as patched native toolchain builds for GCC 13 through 16.
 
 #### MIT
 
@@ -294,9 +295,11 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 - [ada-runtime ![GitHub Repo Stars](https://img.shields.io/github/stars/Componolit/ada-runtime) ![GitHub last commit](https://img.shields.io/github/last-commit/Componolit/ada-runtime)](https://github.com/Componolit/ada-runtime) - A downsized Ada runtime which can be adapted to different platforms.
 - [cortex-gnat-rts ![GitHub Repo Stars](https://img.shields.io/github/stars/simonjwright/cortex-gnat-rts) ![GitHub last commit](https://img.shields.io/github/last-commit/simonjwright/cortex-gnat-rts)](https://github.com/simonjwright/cortex-gnat-rts) - This package includes GNAT Ada Run Time Systems (RTSs) based on FreeRTOS and targeted at boards with Cortex-M0, M3, -M4, -M4F MCUs.
 - [adawebpack ![GitHub Repo Stars](https://img.shields.io/github/stars/godunko/adawebpack) ![GitHub last commit](https://img.shields.io/github/last-commit/godunko/adawebpack)](https://github.com/godunko/adawebpack) - GNAT RTL for WebAssembly and bindings for Web API.
+- [flyology ![GitHub Repo Stars](https://img.shields.io/github/stars/flyology-ada/flyology) ![GitHub last commit](https://img.shields.io/github/last-commit/flyology-ada/flyology)](https://github.com/flyology-ada/flyology) - Experimental GNAT runtime extension for ordinary Ada tasking, adding task-aware I/O and an opt-in lightweight lane that runs designated tasks as fibers on shared event loops.
 
 [ada-runtime]: https://github.com/Componolit/ada-runtime
 [adawebpack]: https://github.com/godunko/adawebpack
+[flyology]: https://github.com/flyology-ada/flyology
 
 ## OS and Kernels
 - [m2os](https://m2os.unican.es/) - RTOS with simple tasking support for small microcontrollers.
@@ -346,6 +349,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 
 ### Distributed
 - [poly-orb ![GitHub Repo Stars](https://img.shields.io/github/stars/AdaCore/PolyORB) ![GitHub last commit](https://img.shields.io/github/last-commit/AdaCore/PolyORB)](https://github.com/AdaCore/PolyORB) - PolyORB provides a uniform solution to build distributed applications relying either on middleware standards.
+- [ipfs ![GitHub Repo Stars](https://img.shields.io/github/stars/kokhlo/ipfs) ![GitHub last commit](https://img.shields.io/github/last-commit/kokhlo/ipfs)](https://github.com/kokhlo/ipfs) - InterPlanetary File System client library: CID/multihash/multibase, CAR archives with block verification, trustless HTTP gateway client.
 
 ### Graphical User Interface
 - [gnoga](https://sourceforge.net/projects/gnoga/) - The GNU Omnificent GUI for Ada.
@@ -369,6 +373,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 - [ncurses-ada95](https://invisible-island.net/ncurses/ncurses-Ada95.html) - Ada95 bindings for ncurses.
 - [linenoise-ada](https://git.sr.ht/~nytpu/linenoise-ada) - Bindings to the Linenoise line-editing library (patched to support UTF-8).
 - [areadline ![GitHub Repo Stars](https://img.shields.io/github/stars/samueltardieu/areadline) ![GitHub last commit](https://img.shields.io/github/last-commit/samueltardieu/areadline)](https://github.com/samueltardieu/areadline) - Ada binding to the readline library.
+- [flyology-tui ![GitHub Repo Stars](https://img.shields.io/github/stars/flyology-ada/flyology-tui) ![GitHub last commit](https://img.shields.io/github/last-commit/flyology-ada/flyology-tui)](https://github.com/flyology-ada/flyology-tui) - Typed, declarative terminal user-interface toolkit for Ada.
 
 ### 3D
 - [globe-3d ![GitHub Repo Stars](https://img.shields.io/github/stars/zertovitch/globe-3d) ![GitHub last commit](https://img.shields.io/github/last-commit/zertovitch/globe-3d)](https://github.com/zertovitch/globe-3d) - GL Object Based Engine for 3D.
@@ -380,6 +385,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 - [ada-ado ![GitHub Repo Stars](https://img.shields.io/github/stars/stcarrez/ada-ado) ![GitHub last commit](https://img.shields.io/github/last-commit/stcarrez/ada-ado)](https://github.com/stcarrez/ada-ado) - Ada Database Objects is an Ada05 library that provides object relational mapping to access a database in Ada05. The library supports PostgreSQL, MySQL, SQLite as databases. Most of the concepts developped for ADO come from the Java Hibernate ORM.
 - [ada-base ![GitHub Repo Stars](https://img.shields.io/github/stars/jrmarino/AdaBase) ![GitHub last commit](https://img.shields.io/github/last-commit/jrmarino/AdaBase)](https://github.com/jrmarino/AdaBase) - Thick database bindings to MySQL, PostgreSQL and SQLite for Ada.
 - [apq-base ![GitHub Repo Stars](https://img.shields.io/github/stars/ada-apq/apq) ![GitHub last commit](https://img.shields.io/github/last-commit/ada-apq/apq)](https://github.com/ada-apq/apq/) - APQ is a database interface library written in Ada95.
+- [flyology-postgres ![GitHub Repo Stars](https://img.shields.io/github/stars/flyology-ada/flyology-postgres) ![GitHub last commit](https://img.shields.io/github/last-commit/flyology-ada/flyology-postgres)](https://github.com/flyology-ada/flyology-postgres) - Client and server primitives for the PostgreSQL frontend/backend protocol, built on [flyology] task-aware I/O.
 
 ### Web
 <!--lint disable awesome-spell-check-->
@@ -395,6 +401,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 - [swagger-ada ![GitHub Repo Stars](https://img.shields.io/github/stars/stcarrez/swagger-ada) ![GitHub last commit](https://img.shields.io/github/last-commit/stcarrez/swagger-ada)](https://github.com/stcarrez/swagger-ada) - Ada support for Swagger codegen: OpenAPI Generator is a code generator that supports generation of API client libraries, server stubs and documentation automatically given an OpenAPI Spec.
 - [ews ![GitHub Repo Stars](https://img.shields.io/github/stars/simonjwright/ews) ![GitHub last commit](https://img.shields.io/github/last-commit/simonjwright/ews)](https://github.com/simonjwright/ews) - Embedded Web Server is a web server construction kit, designed for embedded applications using the GNAT Ada compiler.
 - [matreshka ![GitHub Repo Stars](https://img.shields.io/github/stars/godunko/matreshka) ![GitHub last commit](https://img.shields.io/github/last-commit/godunko/matreshka)](https://github.com/godunko/matreshka) - Framework to develop information systems consisting of five major components: League, XML processor, Web framework, SQL access, and the Modeling framework.
+- [flyology-http ![GitHub Repo Stars](https://img.shields.io/github/stars/flyology-ada/flyology-http) ![GitHub last commit](https://img.shields.io/github/last-commit/flyology-ada/flyology-http)](https://github.com/flyology-ada/flyology-http) - HTTP/1.1 clients and servers with opt-in HTTP/2 and HTTP/3 engines and WebSocket support, built on [flyology] task-aware I/O.
 
 [matreshka]: https://github.com/godunko/matreshka
 
@@ -492,6 +499,8 @@ language.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [agpl ![GitHub Repo Stars](https://img.shields.io/github/stars/mosteo/agpl) ![GitHub last commit](https://img.shields.io/github/last-commit/mosteo/agpl)](https://github.com/mosteo/agpl) - Ada General Purpose Library (Miscellaneous utilities, with a robotic flavor).
 - [az3 ![GitHub Repo Stars](https://img.shields.io/github/stars/Componolit/AZ3) ![GitHub last commit](https://img.shields.io/github/last-commit/Componolit/AZ3)](https://github.com/Componolit/AZ3) - Ada binding for Z3.
 - [chests ![GitHub Repo Stars](https://img.shields.io/github/stars/JeremyGrosser/chests) ![GitHub last commit](https://img.shields.io/github/last-commit/JeremyGrosser/chests)](https://github.com/JeremyGrosser/chests) - Bounded containers for embedded systems.
+- [flyology-allocators ![GitHub Repo Stars](https://img.shields.io/github/stars/flyology-ada/flyology) ![GitHub last commit](https://img.shields.io/github/last-commit/flyology-ada/flyology)](https://github.com/flyology-ada/flyology/tree/main/flyology_allocators) - Caller-owned buddy, best-fit, TLSF, and slab/span allocation algorithms with no hosted operating system dependency.
+- [flyology-cachelines ![GitHub Repo Stars](https://img.shields.io/github/stars/flyology-ada/flyology) ![GitHub last commit](https://img.shields.io/github/last-commit/flyology-ada/flyology)](https://github.com/flyology-ada/flyology/tree/main/flyology_cachelines) - Cache-line-aware storage, ownership-aware groups, grouped arrays, and host cache queries.
 
 [ada-language-server]: https://github.com/AdaCore/ada_language_server
 
@@ -563,6 +572,8 @@ language.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [ada-toml ![GitHub Repo Stars](https://img.shields.io/github/stars/pmderodat/ada-toml) ![GitHub last commit](https://img.shields.io/github/last-commit/pmderodat/ada-toml)](https://github.com/pmderodat/ada-toml) - TOML parser for Ada.
 - [uri-ada](https://git.sr.ht/~nytpu/uri-ada) - URI and MIME parser & manipulation library.
 - [ada-libmagic](https://gitlab.com/stcarrez/ada-libmagic) - Magic Number Recognition Library Ada binding (libmagic (3)).
+- [flyology-iri ![GitHub Repo Stars](https://img.shields.io/github/stars/flyology-ada/flyology-http) ![GitHub last commit](https://img.shields.io/github/last-commit/flyology-ada/flyology-http)](https://github.com/flyology-ada/flyology-http/tree/main/flyology_iri) - Allocation-conscious URI, IRI, and WHATWG URL parsing.
+- [flyology-rdf ![GitHub Repo Stars](https://img.shields.io/github/stars/flyology-ada/flyology-rdf) ![GitHub last commit](https://img.shields.io/github/last-commit/flyology-ada/flyology-rdf)](https://github.com/flyology-ada/flyology-rdf) - RDF 1.2 terms, streaming Turtle, TriG, N-Triples and N-Quads parsing, RDFC-1.0 dataset canonicalization, Notation3, and SPARQL 1.1 query syntax.
 
 [ada-toml]: https://github.com/pmderodat/ada-toml
 
@@ -579,6 +590,7 @@ language.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [adare-net](https://gitlab.com/daresoft/network/adare_net) - This is a small, portable and easy to use Ada network lib. It supports ipv4 ipv6 udp and tcp, and can 'listen' with ipv6, too.
 - [pcsc-ada](https://www.codelabs.ch/pcscada) - PCSC/Ada provides a thick Ada binding to PC/SC-middleware. The library allows programs written in Ada to communicate with smart cards using the SCard API.
 - [coap-spark ![GitHub Repo Stars](https://img.shields.io/github/stars/mgrojo/coap_spark) ![GitHub last commit](https://img.shields.io/github/last-commit/mgrojo/coap_spark)](https://github.com/mgrojo/coap_spark) - A formally verified implementation of CoAP, the Constrained Application Protocol.
+- [flyology-quic ![GitHub Repo Stars](https://img.shields.io/github/stars/flyology-ada/flyology-http) ![GitHub last commit](https://img.shields.io/github/last-commit/flyology-ada/flyology-http)](https://github.com/flyology-ada/flyology-http/tree/main/flyology_quic) - Experimental bounded QUIC transport with protocol state, streams, loss recovery, and congestion control.
 
 ### Chatting and Communication
 - [axmpp ![GitHub Repo Stars](https://img.shields.io/github/stars/coopht/axmpp) ![GitHub last commit](https://img.shields.io/github/last-commit/coopht/axmpp)](https://github.com/coopht/axmpp) - With the AXMPP library you can connect to a Jabber server to send and receive messages.
@@ -611,6 +623,7 @@ language.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [opencl-ada ![GitHub Repo Stars](https://img.shields.io/github/stars/flyx/OpenCLAda) ![GitHub last commit](https://img.shields.io/github/last-commit/flyx/OpenCLAda)](https://github.com/flyx/OpenCLAda) - An Ada binding for the OpenCL host API.
 - [boehmgc-ada ![GitHub Repo Stars](https://img.shields.io/github/stars/ytomino/boehmgc-ada) ![GitHub last commit](https://img.shields.io/github/last-commit/ytomino/boehmgc-ada)](https://github.com/ytomino/boehmgc-ada) - Ada binding to the Boehm-Demers-Weiser conservative garbage collector.
 - [ada-bfd ![GitHub Repo Stars](https://img.shields.io/github/stars/stcarrez/ada-bfd) ![GitHub last commit](https://img.shields.io/github/last-commit/stcarrez/ada-bfd)](https://github.com/stcarrez/ada-bfd) - An Ada binding for the GNU Binutils BFD library. It allows to read binary ELF, COFF files by using the GNU BFD.
+- [flyology-simd ![GitHub Repo Stars](https://img.shields.io/github/stars/flyology-ada/flyology-simd) ![GitHub last commit](https://img.shields.io/github/last-commit/flyology-ada/flyology-simd)](https://github.com/flyology-ada/flyology-simd) - Portable, strongly typed SIMD foundations for Ada.
 
 ### Sound
 - [opus-ada ![GitHub Repo Stars](https://img.shields.io/github/stars/onox/opus-ada) ![GitHub last commit](https://img.shields.io/github/last-commit/onox/opus-ada)](https://github.com/onox/opus-ada) - Ada 2012 bindings for the Opus audio codec.
@@ -643,6 +656,8 @@ language.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [macos-sdks-vs-gcc ![GitHub Repo Stars](https://img.shields.io/github/stars/simonjwright/macos-sdks-vs-gcc) ![GitHub last commit](https://img.shields.io/github/last-commit/simonjwright/macos-sdks-vs-gcc)](https://github.com/simonjwright/macos-sdks-vs-gcc) - Provides GCC 'specs' files to cope with SDK policy changes.
 - [ux-strings ![GitHub Repo Stars](https://img.shields.io/github/stars/Blady-Com/UXStrings) ![GitHub last commit](https://img.shields.io/github/last-commit/Blady-Com/UXStrings)](https://github.com/Blady-Com/UXStrings) - Unicode extended strings.
 - [getopt-ada](https://git.sr.ht/~nytpu/getopt-ada) - Portable implementation of getopt(3) in Ada.
+- [flyology-bench ![GitHub Repo Stars](https://img.shields.io/github/stars/flyology-ada/flyology) ![GitHub last commit](https://img.shields.io/github/last-commit/flyology-ada/flyology)](https://github.com/flyology-ada/flyology/tree/main/flyology_bench) - Adaptive microbenchmarking with balanced comparisons, diagnostics, baselines, and machine-readable reports.
+- [flyology-debug ![GitHub Repo Stars](https://img.shields.io/github/stars/flyology-ada/flyology) ![GitHub last commit](https://img.shields.io/github/last-commit/flyology-ada/flyology)](https://github.com/flyology-ada/flyology/tree/main/flyology_debug) - Bounded in-memory tracing, producer shards, retained batches, and persistent gauges.
 
 ### Robotics
 - [rclada ![GitHub Repo Stars](https://img.shields.io/github/stars/ada-ros/rclada) ![GitHub last commit](https://img.shields.io/github/last-commit/ada-ros/rclada)](https://github.com/ada-ros/rclada) - Ada client library for ROS2/RCL.
@@ -656,6 +671,7 @@ language.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [inotify-ada ![GitHub Repo Stars](https://img.shields.io/github/stars/onox/inotify-ada) ![GitHub last commit](https://img.shields.io/github/last-commit/onox/inotify-ada)](https://github.com/onox/inotify-ada) - An Ada 2012 library for monitoring filesystem events using Linux' inotify API.
 - [dl-ada ![GitHub Repo Stars](https://img.shields.io/github/stars/mosteo/dl-ada) ![GitHub last commit](https://img.shields.io/github/last-commit/mosteo/dl-ada)](https://github.com/mosteo/dl-ada) - Minimal binding to libdl.
 - [suid-helper](https://gitlab.com/mockturtle/suid-helper) - Small Ada library that helps in writing safer suid programs.
+- [flyology-numa ![GitHub Repo Stars](https://img.shields.io/github/stars/flyology-ada/flyology) ![GitHub last commit](https://img.shields.io/github/last-commit/flyology-ada/flyology)](https://github.com/flyology-ada/flyology/tree/main/flyology_numa) - Memory-node topology reporting, memory placement on a chosen node, and node-bound storage pools.
 
 ### Windows and .NET
 - [win32ada ![GitHub Repo Stars](https://img.shields.io/github/stars/AdaCore/win32ada) ![GitHub last commit](https://img.shields.io/github/last-commit/AdaCore/win32ada)](https://github.com/AdaCore/win32ada) - Ada API to the Windows library.

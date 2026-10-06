@@ -143,7 +143,7 @@ The explorer also includes the eight perturbation datasets used in the Bison uns
 - [THE HUMAN PROTEIN ATLAS](https://www.proteinatlas.org/) — Comprehensive human protein database (cells, tissues, organs).
 - [PROTEIN DATA BANK (PDB)](https://www.rcsb.org/) — 3D structures of proteins, nucleic acids, complexes.
 - [UniProt](https://www.uniprot.org/) — Functional information on proteins.
-- [AlphaFold Protein Structure Database](https://alphafold.ebi.ac.uk/api-docs) — 3D protein structure predictions.
+- [AlphaFold Protein Structure Database](https://alphafold.ebi.ac.uk/api-docs) �� 3D protein structure predictions.
 - [RCSB Protein Data Bank](https://www.rcsb.org/) — Repository for structural data of biological molecules.
 - [Critical Assessment of Structure Prediction (CASP)](https://predictioncenter.org/) — Assessing methods for protein structure prediction.
 - [Uniclust](https://uniclust.mmseqs.com/) — Clustered protein sequence databases.
@@ -338,7 +338,7 @@ The explorer also includes the eight perturbation datasets used in the Bison uns
 - [RDKit ![GitHub Repo Stars](https://img.shields.io/github/stars/rdkit/rdkit) ![GitHub last commit](https://img.shields.io/github/last-commit/rdkit/rdkit)](https://github.com/rdkit/rdkit) — Cheminformatics software & machine learning toolkit.
 - [DeepChem ![GitHub Repo Stars](https://img.shields.io/github/stars/deepchem/deepchem) ![GitHub last commit](https://img.shields.io/github/last-commit/deepchem/deepchem)](https://github.com/deepchem/deepchem) — Deep learning library for drug discovery, quantum chemistry, and materials science.
 - [ChatSpatial ![GitHub Repo Stars](https://img.shields.io/github/stars/cafferychen777/ChatSpatial) ![GitHub last commit](https://img.shields.io/github/last-commit/cafferychen777/ChatSpatial)](https://github.com/cafferychen777/ChatSpatial) — MCP server for spatial transcriptomics analysis via natural language.
-- [Scanpy](https://scanpy.readthedocs.io/en/stable/) — Python library for scRNA-seq analysis.
+- [Scanpy](https://scanpy.readthedocs.io/en/stable/) �� Python library for scRNA-seq analysis.
 - [Seurat](https://satijalab.org/seurat/) — R library for scRNA-seq analysis.
 - [scvi-tools](https://scvi-tools.org/) — Probabilistic models for single-cell omics data analysis.
 - [CellTypist ![GitHub Repo Stars](https://img.shields.io/github/stars/Teichlab/celltypist) ![GitHub last commit](https://img.shields.io/github/last-commit/Teichlab/celltypist)](https://github.com/Teichlab/celltypist) — Automated cell type annotation for scRNA-seq.

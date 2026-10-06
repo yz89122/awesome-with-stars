@@ -1714,6 +1714,7 @@ _Libraries for working with JSON._
 - [JayDiff ![GitHub Repo Stars](https://img.shields.io/github/stars/yazgazan/jaydiff) ![GitHub last commit](https://img.shields.io/github/last-commit/yazgazan/jaydiff)](https://github.com/yazgazan/jaydiff) - JSON diff utility written in Go.
 - [jettison ![GitHub Repo Stars](https://img.shields.io/github/stars/wI2L/jettison) ![GitHub last commit](https://img.shields.io/github/last-commit/wI2L/jettison)](https://github.com/wI2L/jettison) - Fast and flexible JSON encoder for Go.
 - [jscan ![GitHub Repo Stars](https://img.shields.io/github/stars/romshark/jscan) ![GitHub last commit](https://img.shields.io/github/last-commit/romshark/jscan)](https://github.com/romshark/jscan) - High performance zero-allocation JSON iterator.
+- [jseq ![GitHub Repo Stars](https://img.shields.io/github/stars/bobg/jseq) ![GitHub last commit](https://img.shields.io/github/last-commit/bobg/jseq)](https://github.com/bobg/jseq) - Streaming JSON parser.
 - [JSON-to-Go](https://mholt.github.io/json-to-go/) - Convert JSON to Go struct.
 - [JSON-to-Proto](https://json-to-proto.github.io/) - Convert JSON to Protobuf online.
 - [json2go ![GitHub Repo Stars](https://img.shields.io/github/stars/m-zajac/json2go) ![GitHub last commit](https://img.shields.io/github/last-commit/m-zajac/json2go)](https://github.com/m-zajac/json2go) - Advanced JSON to Go struct conversion. Provides package that can parse multiple JSON documents and create struct to fit them all.
