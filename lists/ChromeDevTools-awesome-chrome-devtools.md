@@ -5,10 +5,9 @@
 ## Contents
 
 - [Learning](#learning)
-- [DevTools tooling and ecosystem](#devtools-tooling-and-ecosystem)
+- [Tracing & Profiling](#tracing--profiling)
 - [Chrome DevTools Protocol](#chrome-devtools-protocol)
 - [Using DevTools frontend with other platforms](#using-devtools-frontend-with-other-platforms)
-- [Applications](#applications)
 - [DevTools Extensions](#devtools-extensions)
 - [Alumni](#alumni)
 
@@ -17,7 +16,6 @@
 ## Learning
 - [Dev Tips](https://umaar.com/dev-tips/) - Large collection of tips as animated gifs.
 - [DevTools Tips](https://devtoolstips.org/) - Collection of illustrated tips as mini tutorials.
-- [Can I DevTools?](https://www.canidev.tools/) - Various workflows, documented. Also a weekly tips & tricks [newsletter](https://canidevtools.substack.com/).
 - [Web cheatcodes](https://codepo8.github.io/web-cheatcodes/) - Browser developer tools for non-developers.
 - [Dear Console](https://codepo8.github.io/dearconsole) - A collection of snippets to use in the browser console.
 - [Chrome Secret Menus ![GitHub Repo Stars](https://img.shields.io/github/stars/sparkyrider/chrome-secret-menus) ![GitHub last commit](https://img.shields.io/github/last-commit/sparkyrider/chrome-secret-menus)](https://github.com/sparkyrider/chrome-secret-menus) - Comprehensive guide to internal pages and diagnostic tools in Chrome.
@@ -25,35 +23,18 @@
 
 ---
 
-## DevTools tooling and ecosystem
-
-### Object formatting
-- [immutable-devtools ![GitHub Repo Stars](https://img.shields.io/github/stars/andrewdavey/immutable-devtools) ![GitHub last commit](https://img.shields.io/github/last-commit/andrewdavey/immutable-devtools)](https://github.com/andrewdavey/immutable-devtools) - Custom formatter for Immutable-js values.
-
-### Network Inspection
-- [betwixt ![GitHub Repo Stars](https://img.shields.io/github/stars/kdzwinel/betwixt) ![GitHub last commit](https://img.shields.io/github/last-commit/kdzwinel/betwixt)](https://github.com/kdzwinel/betwixt) - System level network proxy, providing inspection via Network panel.
-
-### CPU profile
-- [call-trace ![GitHub Repo Stars](https://img.shields.io/github/stars/brendankenny/call-trace) ![GitHub last commit](https://img.shields.io/github/last-commit/brendankenny/call-trace)](https://github.com/brendankenny/call-trace) - Can instrument your JS with hooks, and then generate a `.cpuprofile`  of the of the complete (non-sampled) execution. View either time or call counts.
-- [cpuprofilify ![GitHub Repo Stars](https://img.shields.io/github/stars/thlorenz/cpuprofilify) ![GitHub last commit](https://img.shields.io/github/last-commit/thlorenz/cpuprofilify)](https://github.com/thlorenz/cpuprofilify) - Converts output of various profiling/sampling tools to the `.cpuprofile` format.
-- [Wishbone Python framework](https://wishbone.readthedocs.io/en/latest/misc/profiling.html) - Profiling data can export as `.cpuprofile`.
-
-### Multimedia
-- [snapline ![GitHub Repo Stars](https://img.shields.io/github/stars/pmdartus/snapline) ![GitHub last commit](https://img.shields.io/github/last-commit/pmdartus/snapline)](https://github.com/pmdartus/snapline) - Converts timeline screenshots to gif.
-
-### Timeline, Tracing & Profiling
-- [DevTools Timeline Viewer](https://chromedevtools.github.io/timeline-viewer/) - Share URLs of your timeline recordings.
-
-### Chrome Debugger integration with Editors
-- [VS Code - Debugger for Chrome ![GitHub Repo Stars](https://img.shields.io/github/stars/Microsoft/vscode-chrome-debug) ![GitHub last commit](https://img.shields.io/github/last-commit/Microsoft/vscode-chrome-debug)](https://github.com/Microsoft/vscode-chrome-debug/) - Breakpoint debugging in VS Code.
-- [VS Code - Elements for Microsoft Edge ![GitHub Repo Stars](https://img.shields.io/github/stars/microsoft/vscode-edge-devtools) ![GitHub last commit](https://img.shields.io/github/last-commit/microsoft/vscode-edge-devtools)](https://github.com/microsoft/vscode-edge-devtools) - Elements panel inside VS Code.
-- [ChromeREPL ![GitHub Repo Stars](https://img.shields.io/github/stars/acarabott/ChromeREPL) ![GitHub last commit](https://img.shields.io/github/last-commit/acarabott/ChromeREPL)](https://github.com/acarabott/ChromeREPL) - Within Sublime Text, use the Chrome console.
-- [Sublime Web Inspector](http://sokolovstas.github.io/SublimeWebInspector/) - JavaScript Breakpoint debugging right in Sublime Text.
-- [WebStorm/JetBrains Chrome Extension](https://www.jetbrains.com/help/webstorm/2017.1/configuring-javascript-debugger-and-jetbrains-chrome-extension.html) - The WebStorm IDE can debug JavaScript, view the DOM tree, and edit HTML, CSS and JS live.
+## Tracing & Profiling
+- [trace.cafe](https://trace.cafe/) - Share and view web performance traces directly in the DevTools Performance panel ([source ![GitHub Repo Stars](https://img.shields.io/github/stars/paulirish/trace.cafe) ![GitHub last commit](https://img.shields.io/github/last-commit/paulirish/trace.cafe)](https://github.com/paulirish/trace.cafe)).
+- [speedscope ![GitHub Repo Stars](https://img.shields.io/github/stars/jlfwong/speedscope) ![GitHub last commit](https://img.shields.io/github/last-commit/jlfwong/speedscope)](https://github.com/jlfwong/speedscope) - Fast, interactive web-based flamegraph viewer that natively imports Chrome `.cpuprofile` and timeline trace files.
+- [cpupro ![GitHub Repo Stars](https://img.shields.io/github/stars/discoveryjs/cpupro) ![GitHub last commit](https://img.shields.io/github/last-commit/discoveryjs/cpupro)](https://github.com/discoveryjs/cpupro) - Interactive viewer and deep analyzer for V8/Chrome `.cpuprofile` logs with flamegraphs, call trees, and hot-spot diagnostics.
+- [Perfetto ![GitHub Repo Stars](https://img.shields.io/github/stars/google/perfetto) ![GitHub last commit](https://img.shields.io/github/last-commit/google/perfetto)](https://github.com/google/perfetto) - System profiling, app tracing, and trace analysis suite ([ui.perfetto.dev](https://ui.perfetto.dev/)) with native support for Chromium traces and SQL-based trace querying.
 
 ---
 
 ## Chrome DevTools Protocol
+
+> Tip: Chrome DevTools has a built-in **[Protocol Monitor](https://developer.chrome.com/docs/devtools/protocol-monitor)** panel (`More tools > Protocol monitor`) for inspecting live CDP traffic and sending raw commands right inside the browser.
+
 - [ChromeDevTools/devtools-protocol ![GitHub Repo Stars](https://img.shields.io/github/stars/chromedevtools/devtools-protocol) ![GitHub last commit](https://img.shields.io/github/last-commit/chromedevtools/devtools-protocol)](https://github.com/chromedevtools/devtools-protocol) - **Canonical location of the protocol JSON**. Issue tracker for protocol bugs. TypeScript types.
 - [DevTools Protocol API Docs](https://chromedevtools.github.io/devtools-protocol/) - Easy browsable UI for exploring the protocol's domains, methods and events.
 
@@ -62,39 +43,40 @@
 - [Chrome Protocol Proxy ![GitHub Repo Stars](https://img.shields.io/github/stars/wendigo/chrome-protocol-proxy) ![GitHub last commit](https://img.shields.io/github/last-commit/wendigo/chrome-protocol-proxy)](https://github.com/wendigo/chrome-protocol-proxy) - Tool for debugging clients using devtools protocol.
 
 ### The big two automation libraries
-- [Puppeteer ![GitHub Repo Stars](https://img.shields.io/github/stars/GoogleChrome/puppeteer) ![GitHub last commit](https://img.shields.io/github/last-commit/GoogleChrome/puppeteer)](https://github.com/GoogleChrome/puppeteer/) - Node.js offering a high-level API to control headless Chrome over the DevTools Protocol. See also [awesome-puppeteer ![GitHub Repo Stars](https://img.shields.io/github/stars/transitive-bullshit/awesome-puppeteer) ![GitHub last commit](https://img.shields.io/github/last-commit/transitive-bullshit/awesome-puppeteer)](https://github.com/transitive-bullshit/awesome-puppeteer).
+- [Puppeteer ![GitHub Repo Stars](https://img.shields.io/github/stars/puppeteer/puppeteer) ![GitHub last commit](https://img.shields.io/github/last-commit/puppeteer/puppeteer)](https://github.com/puppeteer/puppeteer) - Node.js offering a high-level API to control headless Chrome over the DevTools Protocol. See also [awesome-puppeteer ![GitHub Repo Stars](https://img.shields.io/github/stars/transitive-bullshit/awesome-puppeteer) ![GitHub last commit](https://img.shields.io/github/last-commit/transitive-bullshit/awesome-puppeteer)](https://github.com/transitive-bullshit/awesome-puppeteer).
 - [Playwright ![GitHub Repo Stars](https://img.shields.io/github/stars/microsoft/playwright) ![GitHub last commit](https://img.shields.io/github/last-commit/microsoft/playwright)](https://github.com/microsoft/playwright) - Library to automate Chromium, Firefox and WebKit with a single API. Available for Node.js, Python, .Net, Java. See also [awesome-playwright ![GitHub Repo Stars](https://img.shields.io/github/stars/mxschmitt/awesome-playwright) ![GitHub last commit](https://img.shields.io/github/last-commit/mxschmitt/awesome-playwright)](https://github.com/mxschmitt/awesome-playwright).
 
 ### Libraries for driving the protocol (or a layer above)
 
-- JavaScript/Node.js: [chrome-remote-interface ![GitHub Repo Stars](https://img.shields.io/github/stars/cyrus-and/chrome-remote-interface) ![GitHub last commit](https://img.shields.io/github/last-commit/cyrus-and/chrome-remote-interface)](https://github.com/cyrus-and/chrome-remote-interface)
-- TypeScript/Node.js: [chrome-debugging-client ![GitHub Repo Stars](https://img.shields.io/github/stars/TracerBench/chrome-debugging-client) ![GitHub last commit](https://img.shields.io/github/last-commit/TracerBench/chrome-debugging-client)](https://github.com/TracerBench/chrome-debugging-client)
-- TypeScript/Node.js: [noice-json-rpc](https://www.npmjs.com/package/noice-json-rpc) - A proxy-based implementation to expose the CDP as its API.
-- TypeScript/Node.js: [Taiko ![GitHub Repo Stars](https://img.shields.io/github/stars/getgauge/taiko) ![GitHub last commit](https://img.shields.io/github/last-commit/getgauge/taiko)](https://github.com/getgauge/taiko/)
-- TypeScript/Node.js: [Lumen ![GitHub Repo Stars](https://img.shields.io/github/stars/omxyz/lumen) ![GitHub last commit](https://img.shields.io/github/last-commit/omxyz/lumen)](https://github.com/omxyz/lumen) - Vision-first browser agent with self-healing deterministic replay over CDP.
-- Rust: [Rust Headless Chrome ![GitHub Repo Stars](https://img.shields.io/github/stars/atroche/rust-headless-chrome) ![GitHub last commit](https://img.shields.io/github/last-commit/atroche/rust-headless-chrome)](https://github.com/atroche/rust-headless-chrome/)
-- Java: [chrome-devtools-java-client ![GitHub Repo Stars](https://img.shields.io/github/stars/kklisura/chrome-devtools-java-client) ![GitHub last commit](https://img.shields.io/github/last-commit/kklisura/chrome-devtools-java-client)](https://github.com/kklisura/chrome-devtools-java-client)
-- Java: [jvppeteer ![GitHub Repo Stars](https://img.shields.io/github/stars/fanyong920/jvppeteer) ![GitHub last commit](https://img.shields.io/github/last-commit/fanyong920/jvppeteer)](https://github.com/fanyong920/jvppeteer)  - Headless Chrome For Java 
-- Python: [PyCDP ![GitHub Repo Stars](https://img.shields.io/github/stars/hyperiongray/python-chrome-devtools-protocol) ![GitHub last commit](https://img.shields.io/github/last-commit/hyperiongray/python-chrome-devtools-protocol)](https://github.com/hyperiongray/python-chrome-devtools-protocol) - Pure-Python, sans-IO wrappers. See also the [Trio CDP driver ![GitHub Repo Stars](https://img.shields.io/github/stars/hyperiongray/trio-chrome-devtools-protocol) ![GitHub last commit](https://img.shields.io/github/last-commit/hyperiongray/trio-chrome-devtools-protocol)](https://github.com/hyperiongray/trio-chrome-devtools-protocol)
-- Python: [chromewhip ![GitHub Repo Stars](https://img.shields.io/github/stars/chuckus/chromewhip) ![GitHub last commit](https://img.shields.io/github/last-commit/chuckus/chromewhip)](https://github.com/chuckus/chromewhip) - drop-in replacement for the `splash` service
-- Python: [pyppeteer ![GitHub Repo Stars](https://img.shields.io/github/stars/pyppeteer/pyppeteer) ![GitHub last commit](https://img.shields.io/github/last-commit/pyppeteer/pyppeteer)](https://github.com/pyppeteer/pyppeteer) - Puppeteer port
-- Python: [ChromeController ![GitHub Repo Stars](https://img.shields.io/github/stars/fake-name/ChromeController) ![GitHub last commit](https://img.shields.io/github/last-commit/fake-name/ChromeController)](https://github.com/fake-name/ChromeController) - high-level browser mgmt
-- Go: [chromedp ![GitHub Repo Stars](https://img.shields.io/github/stars/chromedp/chromedp) ![GitHub last commit](https://img.shields.io/github/last-commit/chromedp/chromedp)](https://github.com/chromedp/chromedp) - High-level actions and tasks for driving browsers
-- Go: [cdp ![GitHub Repo Stars](https://img.shields.io/github/stars/mafredri/cdp) ![GitHub last commit](https://img.shields.io/github/last-commit/mafredri/cdp)](https://github.com/mafredri/cdp)
-- Go: [gcd ![GitHub Repo Stars](https://img.shields.io/github/stars/wirepair/gcd) ![GitHub last commit](https://img.shields.io/github/last-commit/wirepair/gcd)](https://github.com/wirepair/gcd)
-- Go: [godet ![GitHub Repo Stars](https://img.shields.io/github/stars/raff/godet) ![GitHub last commit](https://img.shields.io/github/last-commit/raff/godet)](https://github.com/raff/godet)
-- Go: [Rod ![GitHub Repo Stars](https://img.shields.io/github/stars/go-rod/rod) ![GitHub last commit](https://img.shields.io/github/last-commit/go-rod/rod)](https://github.com/go-rod/rod)
+- JavaScript/Node.js: [chrome-remote-interface ![GitHub Repo Stars](https://img.shields.io/github/stars/cyrus-and/chrome-remote-interface) ![GitHub last commit](https://img.shields.io/github/last-commit/cyrus-and/chrome-remote-interface)](https://github.com/cyrus-and/chrome-remote-interface) - Low-level CDP client
+- Rust: [chromiumoxide ![GitHub Repo Stars](https://img.shields.io/github/stars/mattsse/chromiumoxide) ![GitHub last commit](https://img.shields.io/github/last-commit/mattsse/chromiumoxide)](https://github.com/mattsse/chromiumoxide) - Async/tokio library with generated types
+- Rust: [Rust Headless Chrome ![GitHub Repo Stars](https://img.shields.io/github/stars/rust-headless-chrome/rust-headless-chrome) ![GitHub last commit](https://img.shields.io/github/last-commit/rust-headless-chrome/rust-headless-chrome)](https://github.com/rust-headless-chrome/rust-headless-chrome) - High-level headless Chrome client
+- Java: [chrome-devtools-java-client ![GitHub Repo Stars](https://img.shields.io/github/stars/kklisura/chrome-devtools-java-client) ![GitHub last commit](https://img.shields.io/github/last-commit/kklisura/chrome-devtools-java-client)](https://github.com/kklisura/chrome-devtools-java-client) - Low-level protocol client
+- Java: [jvppeteer ![GitHub Repo Stars](https://img.shields.io/github/stars/fanyong920/jvppeteer) ![GitHub last commit](https://img.shields.io/github/last-commit/fanyong920/jvppeteer)](https://github.com/fanyong920/jvppeteer) - Headless Chrome for Java
+- Python: [Zendriver ![GitHub Repo Stars](https://img.shields.io/github/stars/cdpdriver/zendriver) ![GitHub last commit](https://img.shields.io/github/last-commit/cdpdriver/zendriver)](https://github.com/cdpdriver/zendriver) - Async CDP browser automation
+- Python: [PyCDP ![GitHub Repo Stars](https://img.shields.io/github/stars/hyperiongray/python-chrome-devtools-protocol) ![GitHub last commit](https://img.shields.io/github/last-commit/hyperiongray/python-chrome-devtools-protocol)](https://github.com/hyperiongray/python-chrome-devtools-protocol) - Sans-IO wrappers (see also [Trio driver ![GitHub Repo Stars](https://img.shields.io/github/stars/hyperiongray/trio-chrome-devtools-protocol) ![GitHub last commit](https://img.shields.io/github/last-commit/hyperiongray/trio-chrome-devtools-protocol)](https://github.com/hyperiongray/trio-chrome-devtools-protocol))
+- Python: [ChromeController ![GitHub Repo Stars](https://img.shields.io/github/stars/fake-name/ChromeController) ![GitHub last commit](https://img.shields.io/github/last-commit/fake-name/ChromeController)](https://github.com/fake-name/ChromeController) - High-level browser mgmt
+- Go: [chromedp ![GitHub Repo Stars](https://img.shields.io/github/stars/chromedp/chromedp) ![GitHub last commit](https://img.shields.io/github/last-commit/chromedp/chromedp)](https://github.com/chromedp/chromedp) - High-level actions and tasks
+- Go: [Rod ![GitHub Repo Stars](https://img.shields.io/github/stars/go-rod/rod) ![GitHub last commit](https://img.shields.io/github/last-commit/go-rod/rod)](https://github.com/go-rod/rod) - High-level automation and scraping
+- Go: [cdp ![GitHub Repo Stars](https://img.shields.io/github/stars/mafredri/cdp) ![GitHub last commit](https://img.shields.io/github/last-commit/mafredri/cdp)](https://github.com/mafredri/cdp) - Type-safe bindings for CDP
 - C#/.NET: [Puppeteer Sharp ![GitHub Repo Stars](https://img.shields.io/github/stars/hardkoded/puppeteer-sharp) ![GitHub last commit](https://img.shields.io/github/last-commit/hardkoded/puppeteer-sharp)](https://github.com/hardkoded/puppeteer-sharp) - Puppeteer port
-- C#/dotnet: [chrome-dev-tools ![GitHub Repo Stars](https://img.shields.io/github/stars/BaristaLabs/chrome-dev-tools) ![GitHub last commit](https://img.shields.io/github/last-commit/BaristaLabs/chrome-dev-tools)](https://github.com/BaristaLabs/chrome-dev-tools) - Protocol wrapper generator that can be customized by editing handlebars templates. Includes .Net Core template.
-- C#/.NET: [dotnet-chrome-protocol ![GitHub Repo Stars](https://img.shields.io/github/stars/seclerp/dotnet-chrome-protocol) ![GitHub last commit](https://img.shields.io/github/last-commit/seclerp/dotnet-chrome-protocol)](https://github.com/seclerp/dotnet-chrome-protocol) - A runtime library and schema code generation tools for Chrome DevTools Protocol support in C#/.NET.
-- Ruby: [Ferrum ![GitHub Repo Stars](https://img.shields.io/github/stars/route/ferrum) ![GitHub last commit](https://img.shields.io/github/last-commit/route/ferrum)](https://github.com/route/ferrum) - high-level API to control Chrome in Ruby
-- Ruby: [Cuprite ![GitHub Repo Stars](https://img.shields.io/github/stars/machinio/cuprite) ![GitHub last commit](https://img.shields.io/github/last-commit/machinio/cuprite)](https://github.com/machinio/cuprite) - Capybara driver
-- Kotlin: [chrome-reactive-kotlin ![GitHub Repo Stars](https://img.shields.io/github/stars/wendigo/chrome-reactive-kotlin) ![GitHub last commit](https://img.shields.io/github/last-commit/wendigo/chrome-reactive-kotlin)](https://github.com/wendigo/chrome-reactive-kotlin) - reactive (rxjava 2.x), low-level client library in Kotlin
-- Kotlin: [chrome-devtools-kotlin ![GitHub Repo Stars](https://img.shields.io/github/stars/joffrey-bion/chrome-devtools-kotlin) ![GitHub last commit](https://img.shields.io/github/last-commit/joffrey-bion/chrome-devtools-kotlin)](https://github.com/joffrey-bion/chrome-devtools-kotlin) - A coroutine-based client library, providing low-level CDP primitives and high-level extensions.
-- Clojure: [clj-chrome-devtools ![GitHub Repo Stars](https://img.shields.io/github/stars/tatut/clj-chrome-devtools) ![GitHub last commit](https://img.shields.io/github/last-commit/tatut/clj-chrome-devtools)](https://github.com/tatut/clj-chrome-devtools) - The CDP wrapper API is autogenerated and will be updated when CDP protocol changes.
-- Clojure: [cuic ![GitHub Repo Stars](https://img.shields.io/github/stars/milankinen/cuic) ![GitHub last commit](https://img.shields.io/github/last-commit/milankinen/cuic)](https://github.com/milankinen/cuic) - Providing a high-level API for UI test automation over the DevTools Protocol.
-- PHP: [chrome-devtools-protocol ![GitHub Repo Stars](https://img.shields.io/github/stars/jakubkulhan/chrome-devtools-protocol) ![GitHub last commit](https://img.shields.io/github/last-commit/jakubkulhan/chrome-devtools-protocol)](https://github.com/jakubkulhan/chrome-devtools-protocol) - A PHP client library for the protocol.
-- PHP: [PuPHPeteer ![GitHub Repo Stars](https://img.shields.io/github/stars/rialto-php/puphpeteer) ![GitHub last commit](https://img.shields.io/github/last-commit/rialto-php/puphpeteer)](https://github.com/rialto-php/puphpeteer) - PHP bridge to node Puppeteer
+- C#/.NET: [dotnet-chrome-protocol ![GitHub Repo Stars](https://img.shields.io/github/stars/seclerp/dotnet-chrome-protocol) ![GitHub last commit](https://img.shields.io/github/last-commit/seclerp/dotnet-chrome-protocol)](https://github.com/seclerp/dotnet-chrome-protocol) - Runtime library and schema codegen
+- Ruby: [Ferrum ![GitHub Repo Stars](https://img.shields.io/github/stars/rubycdp/ferrum) ![GitHub last commit](https://img.shields.io/github/last-commit/rubycdp/ferrum)](https://github.com/rubycdp/ferrum) - High-level API to control Chrome
+- Ruby: [Cuprite ![GitHub Repo Stars](https://img.shields.io/github/stars/rubycdp/cuprite) ![GitHub last commit](https://img.shields.io/github/last-commit/rubycdp/cuprite)](https://github.com/rubycdp/cuprite) - Capybara driver
+- Kotlin: [chrome-devtools-kotlin ![GitHub Repo Stars](https://img.shields.io/github/stars/joffrey-bion/chrome-devtools-kotlin) ![GitHub last commit](https://img.shields.io/github/last-commit/joffrey-bion/chrome-devtools-kotlin)](https://github.com/joffrey-bion/chrome-devtools-kotlin) - Coroutine-based client library
+- Kotlin: [kdriver ![GitHub Repo Stars](https://img.shields.io/github/stars/cdpdriver/kdriver) ![GitHub last commit](https://img.shields.io/github/last-commit/cdpdriver/kdriver)](https://github.com/cdpdriver/kdriver) - High-level coroutine-based automation
+- Clojure: [clj-chrome-devtools ![GitHub Repo Stars](https://img.shields.io/github/stars/tatut/clj-chrome-devtools) ![GitHub last commit](https://img.shields.io/github/last-commit/tatut/clj-chrome-devtools)](https://github.com/tatut/clj-chrome-devtools) - Autogenerated CDP wrapper
+- Clojure: [cuic ![GitHub Repo Stars](https://img.shields.io/github/stars/milankinen/cuic) ![GitHub last commit](https://img.shields.io/github/last-commit/milankinen/cuic)](https://github.com/milankinen/cuic) - High-level UI test automation
+- PHP: [chrome-devtools-protocol ![GitHub Repo Stars](https://img.shields.io/github/stars/jakubkulhan/chrome-devtools-protocol) ![GitHub last commit](https://img.shields.io/github/last-commit/jakubkulhan/chrome-devtools-protocol)](https://github.com/jakubkulhan/chrome-devtools-protocol) - Client library
+
+### Agentic Browser Automation
+
+> **Note to contributors:** We are *extremely* picky about this section. Expect that almost any pull request adding another AI browser wrapper, MCP server, or agent CLI will be rejected unless it has standout community adoption and novel CDP integration.
+
+- [chrome-devtools-mcp ![GitHub Repo Stars](https://img.shields.io/github/stars/ChromeDevTools/chrome-devtools-mcp) ![GitHub last commit](https://img.shields.io/github/last-commit/ChromeDevTools/chrome-devtools-mcp)](https://github.com/ChromeDevTools/chrome-devtools-mcp) - Official MCP server for Chrome DevTools, which also includes a [CLI ![GitHub Repo Stars](https://img.shields.io/github/stars/ChromeDevTools/chrome-devtools-mcp) ![GitHub last commit](https://img.shields.io/github/last-commit/ChromeDevTools/chrome-devtools-mcp)](https://github.com/ChromeDevTools/chrome-devtools-mcp/blob/main/skills/chrome-devtools-cli/SKILL.md).
+- [Webcmd ![GitHub Repo Stars](https://img.shields.io/github/stars/agentrhq/webcmd) ![GitHub last commit](https://img.shields.io/github/last-commit/agentrhq/webcmd)](https://github.com/agentrhq/webcmd) - Compiles site navigation into deterministic per-site CLI commands for AI agents.
+- [Lumen ![GitHub Repo Stars](https://img.shields.io/github/stars/omxyz/lumen) ![GitHub last commit](https://img.shields.io/github/last-commit/omxyz/lumen)](https://github.com/omxyz/lumen) - Vision-first browser agent with self-healing deterministic replay over CDP.
+- [bdg ![GitHub Repo Stars](https://img.shields.io/github/stars/szymdzum/browser-debugger-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/szymdzum/browser-debugger-cli)](https://github.com/szymdzum/browser-debugger-cli) - Persistent background CDP session exposing DOM, network, console, and raw protocol methods as shell commands.
 
 
 ### Browser Adapters
@@ -104,67 +86,39 @@
 
 ## Using DevTools frontend with other platforms
 
-#### Android
-- [Facebook Stetho ![GitHub Repo Stars](https://img.shields.io/github/stars/facebook/stetho) ![GitHub last commit](https://img.shields.io/github/last-commit/facebook/stetho)](https://github.com/facebook/stetho) - Native Android debugging with Chrome DevTools.
-- [j2v8-debugger ![GitHub Repo Stars](https://img.shields.io/github/stars/AlexTrotsenko/j2v8-debugger) ![GitHub last commit](https://img.shields.io/github/last-commit/AlexTrotsenko/j2v8-debugger)](https://github.com/AlexTrotsenko/j2v8-debugger) - Debugging JavaScript running in [J2V8 ![GitHub Repo Stars](https://img.shields.io/github/stars/eclipsesource/J2V8) ![GitHub last commit](https://img.shields.io/github/last-commit/eclipsesource/J2V8)](https://github.com/eclipsesource/J2V8) with Chrome DevTools.
-
-#### ClojureScript
-- [Dirac ![GitHub Repo Stars](https://img.shields.io/github/stars/binaryage/dirac) ![GitHub last commit](https://img.shields.io/github/last-commit/binaryage/dirac)](https://github.com/binaryage/dirac) - Debugging of ClojsureScript.
-
-#### iOS
-- [PonyDebugger ![GitHub Repo Stars](https://img.shields.io/github/stars/square/PonyDebugger) ![GitHub last commit](https://img.shields.io/github/last-commit/square/PonyDebugger)](https://github.com/square/PonyDebugger) - Remote network and data debugging iOS apps with Chrome DevTools.
-
-#### Node.js
-- [ndb ![GitHub Repo Stars](https://img.shields.io/github/stars/GoogleChromeLabs/ndb) ![GitHub last commit](https://img.shields.io/github/last-commit/GoogleChromeLabs/ndb)](https://github.com/GoogleChromeLabs/ndb) - An improved Node.js debugging experience with the DevTools Frontend.
-- [Debugging Node.js with Chrome DevTools](https://medium.com/@paul_irish/debugging-node-js-nightlies-with-chrome-devtools-7c4a1b95ae27) - Guide on using the full debugging and profiling support in Node v6.3+.
-- [thetool ![GitHub Repo Stars](https://img.shields.io/github/stars/sfninja/thetool) ![GitHub last commit](https://img.shields.io/github/last-commit/sfninja/thetool)](https://github.com/sfninja/thetool) - CPU, memory, coverage, type profiling with Node.
-- [chrome-devtools-frontend](https://www.npmjs.com/package/chrome-devtools-frontend) - Mirror of the frontend that ships in Chrome.
-
-#### Ruby
+- [ChromeDevTools/devtools-frontend ![GitHub Repo Stars](https://img.shields.io/github/stars/ChromeDevTools/devtools-frontend) ![GitHub last commit](https://img.shields.io/github/last-commit/ChromeDevTools/devtools-frontend)](https://github.com/ChromeDevTools/devtools-frontend) - Canonical standalone source repository for the Chrome DevTools UI (published to npm as [chrome-devtools-frontend](https://www.npmjs.com/package/chrome-devtools-frontend)).
+- [Chii ![GitHub Repo Stars](https://img.shields.io/github/stars/liriliri/chii) ![GitHub last commit](https://img.shields.io/github/last-commit/liriliri/chii)](https://github.com/liriliri/chii) & [Eruda ![GitHub Repo Stars](https://img.shields.io/github/stars/liriliri/eruda) ![GitHub last commit](https://img.shields.io/github/last-commit/liriliri/eruda)](https://github.com/liriliri/eruda) - Remote debugging server using the real `devtools-frontend` UI (`Chii`, a modern Weinre replacement) and in-page mobile DevTools console (`Eruda`).
+- [vscode-js-debug ![GitHub Repo Stars](https://img.shields.io/github/stars/microsoft/vscode-js-debug) ![GitHub last commit](https://img.shields.io/github/last-commit/microsoft/vscode-js-debug)](https://github.com/microsoft/vscode-js-debug) - Official DAP-compliant JavaScript and Chrome CDP debugger powering VS Code.
+- [VS Code - Elements for Microsoft Edge ![GitHub Repo Stars](https://img.shields.io/github/stars/microsoft/vscode-edge-devtools) ![GitHub last commit](https://img.shields.io/github/last-commit/microsoft/vscode-edge-devtools)](https://github.com/microsoft/vscode-edge-devtools) - Elements panel inside VS Code.
+- [Debugging Node.js with Chrome DevTools](https://medium.com/@paul_irish/debugging-node-js-nightlies-with-chrome-devtools-7c4a1b95ae27) - Guide on using the full debugging and profiling support in Node.js.
 - [ruby/debug ![GitHub Repo Stars](https://img.shields.io/github/stars/ruby/debug) ![GitHub last commit](https://img.shields.io/github/last-commit/ruby/debug)](https://github.com/ruby/debug) - Debugging functionality for Ruby.
 
 ---
 
-## Applications
-
-### Browsers
-- [BrowserBox ![GitHub Repo Stars](https://img.shields.io/github/stars/BrowserBox/BrowserBox) ![GitHub last commit](https://img.shields.io/github/last-commit/BrowserBox/BrowserBox)](https://github.com/BrowserBox/BrowserBox) - Embed Chrome in a web page, largely powered by DevTools and supporting multiuser browsing, remote DevTools, audio, and documents like `.docx`, `.pdf`, and more.
-- [Puppetromium ![GitHub Repo Stars](https://img.shields.io/github/stars/dosyago/puppetromium) ![GitHub last commit](https://img.shields.io/github/last-commit/dosyago/puppetromium)](https://github.com/dosyago/puppetromium) - A proof-of-concept web browser built with Puppeteer, written in Node.js, HTML and CSS, with 0% client-side JavaScript.
-
-### Web Archivers and Indexers
-- [dn ![GitHub Repo Stars](https://img.shields.io/github/stars/dosyago/dn) ![GitHub last commit](https://img.shields.io/github/last-commit/dosyago/dn)](https://github.com/dosyago/dn) - Archive and index pages you browse for offline viewing and search, implemented using the `Fetch` domain's interceptions, and works with any Chromium-based browser.
-  
----
-
 ## DevTools Extensions
 
-### Workflow
+- [React Developer Tools](https://chromewebstore.google.com/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi) - Inspect the React component hierarchies.
+- [Vue.js Developer Tools ![GitHub Repo Stars](https://img.shields.io/github/stars/vuejs/devtools) ![GitHub last commit](https://img.shields.io/github/last-commit/vuejs/devtools)](https://github.com/vuejs/devtools) - Inspect Vue.js components and manipulate their data.
+- [Angular DevTools](https://chromewebstore.google.com/detail/angular-devtools/ienfalfjdbdpebioblfackkekamfmbnh) - Debugging and Profiling for Angular applications.
+- [Redux Devtools](https://chromewebstore.google.com/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd) - Inspect Redux with actions history, undo and replay.
+- [Ember.js Inspector](https://chromewebstore.google.com/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi) - Allows you to inspect Ember.js objects in your application.
+- [Web Component DevTools](https://chromewebstore.google.com/detail/web-component-devtools/gdniinfdlmmmjpnhgnkmfpffipenjljo) - Inspect, modify and observe Web Components on page.
 - [Clockwork](https://chromewebstore.google.com/detail/clockwork/dmggabnehkmmfmdffgajcflpdjlnoemp?hl=en) - View PHP application profiling data.
 - [RailsPanel](https://chromewebstore.google.com/detail/railspanel/gjpfobpafnhjhbajcjgccbbdofdckggg?hl=en-US) - View Ruby on Rails application profiling data.
-- [React Developer Tools](https://chromewebstore.google.com/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi) - Inspect the React component hierarchies.
-- [Ember.js Inspector](https://chromewebstore.google.com/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi) - Allows you to inspect Ember.js objects in your application.
-- [Vue.js Developer Tools ![GitHub Repo Stars](https://img.shields.io/github/stars/vuejs/vue-devtools) ![GitHub last commit](https://img.shields.io/github/last-commit/vuejs/vue-devtools)](https://github.com/vuejs/vue-devtools) - Inspect Vue.js components and manipulate their data.
-- [Angular DevTools](https://chromewebstore.google.com/detail/angular-devtools/ienfalfjdbdpebioblfackkekamfmbnh) - Debugging and Profiling for Angular applications.
-- [Backbone Debugger](https://chromewebstore.google.com/detail/backbone-debugger/bhljhndlimiafopmmhjlgfpnnchjjbhd) - Inspect a Backbone application's views, models, events, and routes.
-- [Redux Devtools](https://chromewebstore.google.com/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd) - Inspect Redux with actions history, undo and replay.
-- [Insight ![GitHub Repo Stars](https://img.shields.io/github/stars/3Dparallax/insight) ![GitHub last commit](https://img.shields.io/github/last-commit/3Dparallax/insight)](https://github.com/3Dparallax/insight/) - A WebGL debugging toolkit which enables more productive WebGL development and more efficient WebGL applications.
-- [BEM devtools ![GitHub Repo Stars](https://img.shields.io/github/stars/escaton/bem-chrome-devtools) ![GitHub last commit](https://img.shields.io/github/last-commit/escaton/bem-chrome-devtools)](https://github.com/escaton/bem-chrome-devtools) - Inspect BEM entities expressed in `i-bem` framework.
-- [Web Component DevTools](https://chromewebstore.google.com/detail/web-component-devtools/gdniinfdlmmmjpnhgnkmfpffipenjljo) - Inspect, modify and observe Web Components on page.
-
-### Themes
-- [Material UI Theme](https://chromewebstore.google.com/detail/material-devtools-theme-c/jmefikbdhgocdjeejjnnepgnfkkbpgjo) - Provides various Material Design inspired themes.
-
-### Performance
-- [sloth ![GitHub Repo Stars](https://img.shields.io/github/stars/denar90/sloth) ![GitHub last commit](https://img.shields.io/github/last-commit/denar90/sloth)](https://github.com/denar90/sloth) - Chrome extension allows to enable and save CPU and network throttling for selected tabs.
-- [TracerBench ![GitHub Repo Stars](https://img.shields.io/github/stars/TracerBench/tracerbench) ![GitHub last commit](https://img.shields.io/github/last-commit/TracerBench/tracerbench)](https://github.com/TracerBench/tracerbench) - A controlled performance benchmarking tool for web applications, providing clear, actionable and usable insights into performance deltas.
-
-### Automation
-- [Puppeteer IDE ![GitHub Repo Stars](https://img.shields.io/github/stars/gajananpp/puppeteer-ide-extension) ![GitHub last commit](https://img.shields.io/github/last-commit/gajananpp/puppeteer-ide-extension)](https://github.com/gajananpp/puppeteer-ide-extension) - Standalone Puppeteer playground in browser's developer tools.
-- [k6 browser ![GitHub Repo Stars](https://img.shields.io/github/stars/grafana/xk6-browser) ![GitHub last commit](https://img.shields.io/github/last-commit/grafana/xk6-browser)](https://github.com/grafana/xk6-browser) - Browser automation and end-to-end web testing tool that interacts with browsers and collects frontend performance metrics.
 
 ## Alumni
 Old projects, likely not maintained any longer… But still cool.
 
+- [ndb ![GitHub Repo Stars](https://img.shields.io/github/stars/GoogleChromeLabs/ndb) ![GitHub last commit](https://img.shields.io/github/last-commit/GoogleChromeLabs/ndb)](https://github.com/GoogleChromeLabs/ndb) - An improved Node.js debugging experience with the DevTools Frontend.
+- [thetool ![GitHub Repo Stars](https://img.shields.io/github/stars/sfninja/thetool) ![GitHub last commit](https://img.shields.io/github/last-commit/sfninja/thetool)](https://github.com/sfninja/thetool) - CPU, memory, coverage, type profiling with Node.
+- [Facebook Stetho ![GitHub Repo Stars](https://img.shields.io/github/stars/facebook/stetho) ![GitHub last commit](https://img.shields.io/github/last-commit/facebook/stetho)](https://github.com/facebook/stetho) - Native Android debugging with Chrome DevTools.
+- [PonyDebugger ![GitHub Repo Stars](https://img.shields.io/github/stars/square/PonyDebugger) ![GitHub last commit](https://img.shields.io/github/last-commit/square/PonyDebugger)](https://github.com/square/PonyDebugger) - Remote network and data debugging iOS apps with Chrome DevTools.
+- [betwixt ![GitHub Repo Stars](https://img.shields.io/github/stars/kdzwinel/betwixt) ![GitHub last commit](https://img.shields.io/github/last-commit/kdzwinel/betwixt)](https://github.com/kdzwinel/betwixt) - System level network proxy, providing inspection via Network panel.
+- [Dirac ![GitHub Repo Stars](https://img.shields.io/github/stars/binaryage/dirac) ![GitHub last commit](https://img.shields.io/github/last-commit/binaryage/dirac)](https://github.com/binaryage/dirac) - Debugging of ClojureScript with a custom DevTools fork.
+- [VS Code - Debugger for Chrome ![GitHub Repo Stars](https://img.shields.io/github/stars/Microsoft/vscode-chrome-debug) ![GitHub last commit](https://img.shields.io/github/last-commit/Microsoft/vscode-chrome-debug)](https://github.com/Microsoft/vscode-chrome-debug/) - Breakpoint debugging in VS Code (superseded by built-in [vscode-js-debug ![GitHub Repo Stars](https://img.shields.io/github/stars/microsoft/vscode-js-debug) ![GitHub last commit](https://img.shields.io/github/last-commit/microsoft/vscode-js-debug)](https://github.com/microsoft/vscode-js-debug), which has a rich CDP/DAP implementation).
+- [noice-json-rpc ![GitHub Repo Stars](https://img.shields.io/github/stars/nojvek/noice-json-rpc) ![GitHub last commit](https://img.shields.io/github/last-commit/nojvek/noice-json-rpc)](https://github.com/nojvek/noice-json-rpc) - A proxy-based TypeScript/JS implementation exposing the CDP as its API.
+- [PuPHPeteer ![GitHub Repo Stars](https://img.shields.io/github/stars/rialto-php/puphpeteer) ![GitHub last commit](https://img.shields.io/github/last-commit/rialto-php/puphpeteer)](https://github.com/rialto-php/puphpeteer) - PHP bridge to Node Puppeteer.
+- [Insight ![GitHub Repo Stars](https://img.shields.io/github/stars/3Dparallax/insight) ![GitHub last commit](https://img.shields.io/github/last-commit/3Dparallax/insight)](https://github.com/3Dparallax/insight/) - A WebGL debugging toolkit for Chrome DevTools.
 - [Remote Debug Gateway ![GitHub Repo Stars](https://img.shields.io/github/stars/RemoteDebug/remotedebug-gateway) ![GitHub last commit](https://img.shields.io/github/last-commit/RemoteDebug/remotedebug-gateway)](https://github.com/RemoteDebug/remotedebug-gateway) - Allows you to connect a client to multiple browsers at once.  
    - Multiuser DevTools: [DevTools Remote ![GitHub Repo Stars](https://img.shields.io/github/stars/auchenberg/devtools-remote) ![GitHub last commit](https://img.shields.io/github/last-commit/auchenberg/devtools-remote)](https://github.com/auchenberg/devtools-remote) - Remotely debug someone else's browser.
 - [DevTools Backend ![GitHub Repo Stars](https://img.shields.io/github/stars/christian-bromann/devtools-backend) ![GitHub last commit](https://img.shields.io/github/last-commit/christian-bromann/devtools-backend)](https://github.com/christian-bromann/devtools-backend) - Standalone implementation of the Chrome DevTools backend to debug arbitrary web environments.
@@ -172,4 +126,4 @@ Old projects, likely not maintained any longer… But still cool.
 - [ios-webkit-debug-proxy ![GitHub Repo Stars](https://img.shields.io/github/stars/google/ios-webkit-debug-proxy) ![GitHub last commit](https://img.shields.io/github/last-commit/google/ios-webkit-debug-proxy)](https://github.com/google/ios-webkit-debug-proxy) - Exposes Mobile Safari & UIWebView instances via the CDP.
   - [Remote Debug iOS WebKit adapter ![GitHub Repo Stars](https://img.shields.io/github/stars/RemoteDebug/remotedebug-ios-webkit-adapter) ![GitHub last commit](https://img.shields.io/github/last-commit/RemoteDebug/remotedebug-ios-webkit-adapter)](https://github.com/RemoteDebug/remotedebug-ios-webkit-adapter) - Builts upon ios-webkit-debug-proxy and translates WebKit's Remote Debugging Protocol API to the CDP.
 - [IE Diagnostics Adapter ![GitHub Repo Stars](https://img.shields.io/github/stars/Microsoft/IEDiagnosticsAdapter) ![GitHub last commit](https://img.shields.io/github/last-commit/Microsoft/IEDiagnosticsAdapter)](https://github.com/Microsoft/IEDiagnosticsAdapter) - Protocol adaptor for Microsoft IE 11 to CDP.
-- [go-debugger-devtools ![GitHub Repo Stars](https://img.shields.io/github/stars/allada/go-debugger-devtools) ![GitHub last commit](https://img.shields.io/github/last-commit/allada/go-debugger-devtools)](https://github.com/allada/go-debugger-devtools)
+

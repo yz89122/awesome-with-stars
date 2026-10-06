@@ -184,7 +184,7 @@ ______________________________________________________________________
 - [Pokémon Card Centering Measurements](https://zenodo.org/records/21788534) - Measured centering percentages (L/R and T/B) on 302 real Pokémon TCG eBay listings, with PSA 10 pass/fail windows.
 - [Pokémon Card Sold-Price Reference by Grade](https://zenodo.org/records/22124729) - Median sold prices by grade (raw, PSA 9, PSA 10) and sample counts for 486 Pokémon TCG cards.
 - [Pokémon for Data Mining and Machine Learning](https://www.kaggle.com/datasets/alopez247/pokemon) - Stats of 721 Pokémon of the first six generations.
-- [Pokémon GO Pokédex ![GitHub Repo Stars](https://img.shields.io/github/stars/Biuni/PokemonGO-Pokedex) ![GitHub last commit](https://img.shields.io/github/last-commit/Biuni/PokemonGO-Pokedex)](https://github.com/Biuni/PokemonGO-Pokedex) - Encyclopedia Pokemon.
+- [Pok��mon GO Pokédex ![GitHub Repo Stars](https://img.shields.io/github/stars/Biuni/PokemonGO-Pokedex) ![GitHub last commit](https://img.shields.io/github/last-commit/Biuni/PokemonGO-Pokedex)](https://github.com/Biuni/PokemonGO-Pokedex) - Encyclopedia Pokemon.
 - [Pokemon with stats](https://www.kaggle.com/abcsds/pokemon) - Pokemon data with stats and types.
 - [Pokemon Wonder Trade Results](https://data.world/notgibs/pokemon-wonder-trade-results) - Results of wonder trades in Pokemon Moon version.
 - [Pokemon- Weedle's Cave](https://www.kaggle.com/terminus7/pokemon-challenge) - Battle data of Pokemon.
