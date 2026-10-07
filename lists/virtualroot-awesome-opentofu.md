@@ -91,10 +91,12 @@
 
 - [Atlantis](https://www.runatlantis.io/) - Automating workflows via pull requests.
 - [Burrito](https://docs.burrito.tf/latest/overview/) - A TACoS (Terraform Automation and Collaboration Software) that works inside Kubernetes.
+- [c3x ![GitHub Repo Stars](https://img.shields.io/github/stars/c3xdev/c3x) ![GitHub last commit](https://img.shields.io/github/last-commit/c3xdev/c3x)](https://github.com/c3xdev/c3x) - Cost estimates for OpenTofu code, including `.tofu` files and provider `for_each`, posted as a pull request comment.
 - [drifthound ![GitHub Repo Stars](https://img.shields.io/github/stars/treezio/drifthound) ![GitHub last commit](https://img.shields.io/github/last-commit/treezio/drifthound)](https://github.com/treezio/drifthound) - Continuous infrastructure drift detection with historical tracking and notifications.
 - [opentofu-updater-action ![GitHub Repo Stars](https://img.shields.io/github/stars/drumandbytes/opentofu-updater-action) ![GitHub last commit](https://img.shields.io/github/last-commit/drumandbytes/opentofu-updater-action)](https://github.com/drumandbytes/opentofu-updater-action) - Keeps OpenTofu and Terraform providers, modules, Helm charts and container images up to date by opening pull requests.
 - [TF-via-PR ![GitHub Repo Stars](https://img.shields.io/github/stars/OP5dev/TF-via-PR) ![GitHub last commit](https://img.shields.io/github/last-commit/OP5dev/TF-via-PR)](https://github.com/OP5dev/TF-via-PR) - GitHub Action to init, plan and apply Terraform/OpenTofu via PR automation.
 - [pre-commit-opentofu ![GitHub Repo Stars](https://img.shields.io/github/stars/tofuutils/pre-commit-opentofu) ![GitHub last commit](https://img.shields.io/github/last-commit/tofuutils/pre-commit-opentofu)](https://github.com/tofuutils/pre-commit-opentofu) - Git pre-commit hooks plugin.
+- [pre-commit-terraform ![GitHub Repo Stars](https://img.shields.io/github/stars/antonbabenko/pre-commit-terraform) ![GitHub last commit](https://img.shields.io/github/last-commit/antonbabenko/pre-commit-terraform)](https://github.com/antonbabenko/pre-commit-terraform) - Collection of pre-commit git hooks for validating, formatting, and documenting Terraform and OpenTofu code.
 - [setup-opentofu ![GitHub Repo Stars](https://img.shields.io/github/stars/opentofu/setup-opentofu) ![GitHub last commit](https://img.shields.io/github/last-commit/opentofu/setup-opentofu)](https://github.com/opentofu/setup-opentofu) - Set up OpenTofu CLI in your GitHub Actions workflow.
 - [terraform-github-actions ![GitHub Repo Stars](https://img.shields.io/github/stars/dflook/terraform-github-actions) ![GitHub last commit](https://img.shields.io/github/last-commit/dflook/terraform-github-actions)](https://github.com/dflook/terraform-github-actions) - GitHub Actions for OpenTofu.
 - [tofu-controller ![GitHub Repo Stars](https://img.shields.io/github/stars/flux-iac/tofu-controller) ![GitHub last commit](https://img.shields.io/github/last-commit/flux-iac/tofu-controller)](https://github.com/flux-iac/tofu-controller) - GitOps OpenTofu and Terraform controller for Flux.
@@ -102,6 +104,8 @@
 
 ### Tests
 
+- [Checkov ![GitHub Repo Stars](https://img.shields.io/github/stars/bridgecrewio/checkov) ![GitHub last commit](https://img.shields.io/github/last-commit/bridgecrewio/checkov)](https://github.com/bridgecrewio/checkov) - Static analysis tool that scans Terraform and OpenTofu templates for security and compliance misconfigurations.
+- [KICS ![GitHub Repo Stars](https://img.shields.io/github/stars/Checkmarx/kics) ![GitHub last commit](https://img.shields.io/github/last-commit/Checkmarx/kics)](https://github.com/Checkmarx/kics) - Open-source static analysis tool that finds security vulnerabilities and misconfigurations in IaC, including OpenTofu.
 - [Terratest ![GitHub Repo Stars](https://img.shields.io/github/stars/gruntwork-io/terratest) ![GitHub last commit](https://img.shields.io/github/last-commit/gruntwork-io/terratest)](https://github.com/gruntwork-io/terratest) - Go library that makes writing automated tests for your infrastructure code easier.
 
 ### State
@@ -110,6 +114,8 @@
 
 - [tfmigrate ![GitHub Repo Stars](https://img.shields.io/github/stars/minamijoyo/tfmigrate) ![GitHub last commit](https://img.shields.io/github/last-commit/minamijoyo/tfmigrate)](https://github.com/minamijoyo/tfmigrate) - State migration tool.
 - [tfimport ![GitHub Repo Stars](https://img.shields.io/github/stars/coolapso/tfimport) ![GitHub last commit](https://img.shields.io/github/last-commit/coolapso/tfimport)](https://github.com/coolapso/tfimport) - Tool to automate state imports.
+- [tfautomv ![GitHub Repo Stars](https://img.shields.io/github/stars/busser/tfautomv) ![GitHub last commit](https://img.shields.io/github/last-commit/busser/tfautomv)](https://github.com/busser/tfautomv) - CLI that automatically generates `moved` blocks and state-move commands for refactoring Terraform/OpenTofu configurations.
+- [terraform-tui ![GitHub Repo Stars](https://img.shields.io/github/stars/idoavrah/terraform-tui) ![GitHub last commit](https://img.shields.io/github/last-commit/idoavrah/terraform-tui)](https://github.com/idoavrah/terraform-tui) - Terminal UI for browsing, applying, and managing Terraform/OpenTofu state and plans interactively.
 
 ### Providers
 
@@ -152,6 +158,7 @@
 - [terratag ![GitHub Repo Stars](https://img.shields.io/github/stars/env0/terratag) ![GitHub last commit](https://img.shields.io/github/last-commit/env0/terratag)](https://github.com/env0/terratag) - CLI tool allowing for tags or labels to be applied across an entire set of OpenTofu/Terraform files.
 - [tfupdate ![GitHub Repo Stars](https://img.shields.io/github/stars/minamijoyo/tfupdate) ![GitHub last commit](https://img.shields.io/github/last-commit/minamijoyo/tfupdate)](https://github.com/minamijoyo/tfupdate) - Update version constraints in your Terraform / OpenTofu configurations.
 - [bare-devcontainer/templates ![GitHub Repo Stars](https://img.shields.io/github/stars/bare-devcontainer/templates) ![GitHub last commit](https://img.shields.io/github/last-commit/bare-devcontainer/templates)](https://github.com/bare-devcontainer/templates/tree/main/src/opentofu) - Security-focused Terraform dev container with terraform-ls and rebuild-friendly caching. The base image is available at [bare-devcontainer/images ![GitHub Repo Stars](https://img.shields.io/github/stars/bare-devcontainer/images) ![GitHub last commit](https://img.shields.io/github/last-commit/bare-devcontainer/images)](https://github.com/bare-devcontainer/images/tree/main/opentofu).
+- [TerraVision ![GitHub Repo Stars](https://img.shields.io/github/stars/patrickchugh/terravision) ![GitHub last commit](https://img.shields.io/github/last-commit/patrickchugh/terravision)](https://github.com/patrickchugh/terravision) - Generate cloud architecture diagrams with official AWS, Azure and GCP icons from OpenTofu or Terraform code.
 
 ## Learning
 
