@@ -682,6 +682,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-locator ![GitHub Repo Stars](https://img.shields.io/github/stars/Ea-st-ring/ngx-locator) ![GitHub last commit](https://img.shields.io/github/last-commit/Ea-st-ring/ngx-locator)](https://github.com/Ea-st-ring/ngx-locator) - Angular development utility to open components and templates from the browser like [LocatorJS](https://www.locatorjs.com/).
 * [oxc-angular-compiler ![GitHub Repo Stars](https://img.shields.io/github/stars/voidzero-dev/oxc-angular-compiler) ![GitHub last commit](https://img.shields.io/github/last-commit/voidzero-dev/oxc-angular-compiler)](https://github.com/voidzero-dev/oxc-angular-compiler) - A high-performance Angular template compiler written in Rust, leveraging the [Oxc ![GitHub Repo Stars](https://img.shields.io/github/stars/oxc-project/oxc) ![GitHub last commit](https://img.shields.io/github/last-commit/oxc-project/oxc)](https://github.com/oxc-project/oxc) infrastructure for blazing-fast compilation.
 * [ts-analyzer ![GitHub Repo Stars](https://img.shields.io/github/stars/amir-valizadeh/ts-analyzer) ![GitHub last commit](https://img.shields.io/github/last-commit/amir-valizadeh/ts-analyzer)](https://github.com/amir-valizadeh/ts-analyzer) - A comprehensive TypeScript codebase analyzer that provides detailed metrics on type safety, code complexity, and quality.
+* [ui-manifest ![GitHub Repo Stars](https://img.shields.io/github/stars/BrainRidge/ui-manifest) ![GitHub last commit](https://img.shields.io/github/last-commit/BrainRidge/ui-manifest)](https://github.com/BrainRidge/ui-manifest) - Generate a single, unified JSON schema that maps out routes, components, and UI element trees (including conditional logic) from both Angular and React source code.
 
 ### Debugging
 
@@ -708,7 +709,8 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [envguards ![GitHub Repo Stars](https://img.shields.io/github/stars/princeofv/envguards) ![GitHub last commit](https://img.shields.io/github/last-commit/princeofv/envguards)](https://github.com/princeofv/envguards) - Framework-agnostic environment variable validation, documentation generator, and `.env.example` creator.
 * [ngmd ![GitHub Repo Stars](https://img.shields.io/github/stars/erkamyaman/ngmd) ![GitHub last commit](https://img.shields.io/github/last-commit/erkamyaman/ngmd)](https://github.com/erkamyaman/ngmd) - Angular docs starter. Drop a markdown file, get a route.
 * [storybook-addon-angular-manifest ![GitHub Repo Stars](https://img.shields.io/github/stars/anrouxel/storybook-addon-angular-manifest) ![GitHub last commit](https://img.shields.io/github/last-commit/anrouxel/storybook-addon-angular-manifest)](https://github.com/anrouxel/storybook-addon-angular-manifest) - A Storybook addon that builds an Angular component manifest from your stories and Compodoc documentation.
-* [FeastDocs ![GitHub Repo Stars](https://img.shields.io/github/stars/Mindfeast/feastdocs) ![GitHub last commit](https://img.shields.io/github/last-commit/Mindfeast/feastdocs)](https://github.com/Mindfeast/feastdocs) - Docusaurus-style documentation framework built on Angular, with live Angular components inside Markdown. [FeastDocsDemo](https://feastdocs.feast-labs.com/)
+* [FeastDocs ![GitHub Repo Stars](https://img.shields.io/github/stars/Mindfeast/feastdocs) ![GitHub last commit](https://img.shields.io/github/last-commit/Mindfeast/feastdocs)](https://github.com/Mindfeast/feastdocs) - Docusaurus-style documentation framework built on Angular, with live Angular components inside Markdown. [FeastDocsDemo](https://feastdocs.feast-labs.com/).
+* [ng-prism ![GitHub Repo Stars](https://img.shields.io/github/stars/dyingangel666/ng-prism) ![GitHub last commit](https://img.shields.io/github/last-commit/dyingangel666/ng-prism)](https://github.com/dyingangel666/ng-prism) - A component showcase for modern Angular, without story files.
 
 ### IDE Extensions
 
@@ -1950,6 +1952,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-retoast ![GitHub Repo Stars](https://img.shields.io/github/stars/EliasVal/ngx-retoast) ![GitHub last commit](https://img.shields.io/github/last-commit/EliasVal/ngx-retoast)](https://github.com/EliasVal/ngx-retoast) - A rewrite of the archived `ngx-toastr` library, designed for modern Angular applications.
 * [snackng ![GitHub Repo Stars](https://img.shields.io/github/stars/xgreymx/snackng) ![GitHub last commit](https://img.shields.io/github/last-commit/xgreymx/snackng)](https://github.com/xgreymx/snackng) - Toasts for Angular with a glass design, zero UI dependencies and CSS-variable theming.
 * [toastify-all ![GitHub Repo Stars](https://img.shields.io/github/stars/VeereshPoojari/toastify-all) ![GitHub last commit](https://img.shields.io/github/last-commit/VeereshPoojari/toastify-all)](https://github.com/VeereshPoojari/toastify-all) - Universal, modern toast notification engine for all JavaScript frameworks and platforms.
+* [ngx-toastf ![GitHub Repo Stars](https://img.shields.io/github/stars/darioegb/ngx-toast) ![GitHub last commit](https://img.shields.io/github/last-commit/darioegb/ngx-toast)](https://github.com/darioegb/ngx-toast) - A lightweight, standalone-first toast notification service for Angular that requires zero template markup or `ViewContainerRef`.
 
 ### Onboarding and Product Tours
 
@@ -1962,6 +1965,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-custom-tour ![GitHub Repo Stars](https://img.shields.io/github/stars/miraxes/ngx-custom-tour) ![GitHub last commit](https://img.shields.io/github/last-commit/miraxes/ngx-custom-tour)](https://github.com/miraxes/ngx-custom-tour) - Easy to customize step-by-step tour / onboarding for Angular 15+.
 * [ng-beacon ![GitHub Repo Stars](https://img.shields.io/github/stars/HomelessCoder/ng-beacon) ![GitHub last commit](https://img.shields.io/github/last-commit/HomelessCoder/ng-beacon)](https://github.com/HomelessCoder/ng-beacon) - Lightweight guided-tour library for Angular 19+ with signals and zoneless-compatible rendering.
 * [ngx-guided-tour-lite ![GitHub Repo Stars](https://img.shields.io/github/stars/pantarey-io/ngx-guided-tour-lite) ![GitHub last commit](https://img.shields.io/github/last-commit/pantarey-io/ngx-guided-tour-lite)](https://github.com/pantarey-io/ngx-guided-tour-lite) - A lightweight, dependency-free guided tour library for Angular.
+* [JustOneCX](https://docs.justonecx.qd.je/) - Product tours, announcements, surveys and live chat for any web app.
 
 ### PDF
 
@@ -2253,6 +2257,7 @@ for the creation of web applications developed with Angular.
 * [ngx-file-peek ![GitHub Repo Stars](https://img.shields.io/github/stars/valtonngara/ngx-file-peek) ![GitHub last commit](https://img.shields.io/github/last-commit/valtonngara/ngx-file-peek)](https://github.com/valtonngara/ngx-file-peek) - An Angular standalone component library that renders real file content as thumbnails from any URL or storage source.
 * [ngx-json-explorer ![GitHub Repo Stars](https://img.shields.io/github/stars/Swaraj55/ngx-json-explorer) ![GitHub last commit](https://img.shields.io/github/last-commit/Swaraj55/ngx-json-explorer)](https://github.com/Swaraj55/ngx-json-explorer) - An interactive, fully-customizable Angular JSON tree component featuring inline editing, search, and comprehensive option-based configuration.
 * [ngx-superlite-img-viewer ![GitHub Repo Stars](https://img.shields.io/github/stars/david-marquez-44/ngx-superlite-img-viewer) ![GitHub last commit](https://img.shields.io/github/last-commit/david-marquez-44/ngx-superlite-img-viewer)](https://github.com/david-marquez-44/ngx-superlite-img-viewer) - An ultra-lightweight Angular library designed to display image galleries in a fast and intuitive viewer.
+* [file-preview-viewer ![GitHub Repo Stars](https://img.shields.io/github/stars/patelsumit5192/file-preview-viewer) ![GitHub last commit](https://img.shields.io/github/last-commit/patelsumit5192/file-preview-viewer)](https://github.com/patelsumit5192/file-preview-viewer) - Universal client-side file preview library for web, React, Angular, and Vue.
 
 ### Visual Effects
 
