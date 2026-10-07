@@ -278,7 +278,7 @@ Also check out the sister project, [awesome-dynamic-analysis ![GitHub Repo Stars
 <h2>C++</h2>
 
 
-- [Astrée](https://www.absint.com/astree/index.htm) :copyright: — Astrée automatically proves the absence of runtime errors and invalid con­current behavior in C/C++ applications. It is sound for floating-point computations, very fast, and exceptionally precise. The analyzer also checks for MISRA/CERT/CWE/Adaptive Autosar coding rules and supports qualification for ISO 26262, DO-178C level A, and other safety standards. Jenkins and Eclipse plugins are available.
+- [Astrée](https://www.absint.com/astree/index.htm) :copyright: — Astr��e automatically proves the absence of runtime errors and invalid con­current behavior in C/C++ applications. It is sound for floating-point computations, very fast, and exceptionally precise. The analyzer also checks for MISRA/CERT/CWE/Adaptive Autosar coding rules and supports qualification for ISO 26262, DO-178C level A, and other safety standards. Jenkins and Eclipse plugins are available.
 
 - [CBMC](http://www.cprover.org/cbmc) — Bounded model-checker for C programs, user-defined assertions, standard assertions, several coverage metric analyses.
 
@@ -602,7 +602,7 @@ By default, govulncheck makes requests to the Go vulnerability database at https
 
 - [unconvert ![GitHub Repo Stars](https://img.shields.io/github/stars/mdempsky/unconvert) ![GitHub last commit](https://img.shields.io/github/last-commit/mdempsky/unconvert)](https://github.com/mdempsky/unconvert) — Detect redundant type conversions.
 
-- [unparam ![GitHub Repo Stars](https://img.shields.io/github/stars/mvdan/unparam) ![GitHub last commit](https://img.shields.io/github/last-commit/mvdan/unparam)](https://github.com/mvdan/unparam) �� Find unused function parameters.
+- [unparam ![GitHub Repo Stars](https://img.shields.io/github/stars/mvdan/unparam) ![GitHub last commit](https://img.shields.io/github/last-commit/mvdan/unparam)](https://github.com/mvdan/unparam) — Find unused function parameters.
 
 - [varcheck](https://gitlab.com/opennota/check) — Find unused global variables and constants.
 
