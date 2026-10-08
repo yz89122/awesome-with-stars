@@ -95,6 +95,7 @@ You might also like [awesome-php ![GitHub Repo Stars](https://img.shields.io/git
 - [Composer-Velocita ![GitHub Repo Stars](https://img.shields.io/github/stars/isaaceindhoven/composer-velocita) ![GitHub last commit](https://img.shields.io/github/last-commit/isaaceindhoven/composer-velocita)](https://github.com/isaaceindhoven/composer-velocita) - Fast and reliable Composer package downloads using [Velocita ![GitHub Repo Stars](https://img.shields.io/github/stars/isaaceindhoven/velocita-proxy) ![GitHub last commit](https://img.shields.io/github/last-commit/isaaceindhoven/velocita-proxy)](https://github.com/isaaceindhoven/velocita-proxy): a caching reverse proxy that does not require you to modify your projects.
 - [Composer Translation Validator ![GitHub Repo Stars](https://img.shields.io/github/stars/move-elevator/composer-translation-validator) ![GitHub last commit](https://img.shields.io/github/last-commit/move-elevator/composer-translation-validator)](https://github.com/move-elevator/composer-translation-validator) - Validates translation files in your project, supports several file formats (regarding different frameworks) and provides useful validators for comparison, consistency and syntax checks.
 - [Composer-Fanfare ![GitHub Repo Stars](https://img.shields.io/github/stars/wazum/composer-fanfare) ![GitHub last commit](https://img.shields.io/github/last-commit/wazum/composer-fanfare)](https://github.com/wazum/composer-fanfare) - Displays a colored ASCII art banner after install/update, with color presets, gradients and animations.
+- [WP Org Closed Plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/typisttech/wp-org-closed-plugin) ![GitHub last commit](https://img.shields.io/github/last-commit/typisttech/wp-org-closed-plugin)](https://github.com/typisttech/wp-org-closed-plugin) - Marks packages as abandoned if closed on WordPress.org.
 
 ## Tools
 
@@ -234,6 +235,7 @@ About metadata mirrors: https://packagist.org/mirrors
 
 - [WordPress Packagist](https://wpackagist.org/) - Mirrors the WordPress plugin and theme directories as a Composer repository.
 - [WordPress Packages](https://wp-packages.org/) - Composer repository for WordPress.org plugins and themes.
+- [WP Sec Adv ![GitHub Repo Stars](https://img.shields.io/github/stars/typisttech/wpsecadv) ![GitHub last commit](https://img.shields.io/github/last-commit/typisttech/wpsecadv)](https://github.com/typisttech/wpsecadv) - Composer repository for WordPress security advisories.
 - [Asset Packagist](https://asset-packagist.org/) - Enables installation of Bower and NPM packages as native Composer packages.
 - [Firegento](https://packages.firegento.com/) - A Composer Repository providing Magento Modules.
 - [Drupal Packagist](https://www.drupal.org/node/2822344) - Composer repositories for Drupal 7 and 8 core, modules, and themes.

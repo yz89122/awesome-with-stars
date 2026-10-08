@@ -41,6 +41,7 @@ Additional lists you might find useful:
 	- [Markup](#markup)
 	- [Migration](#migration)
 	- [Miscellaneous](#miscellaneous)
+	- [Monitoring](#monitoring)
 	- [Navigation](#navigation)
 	- [Notifications and Real-time Communication](#notifications-and-real-time-communication)
 	- [ORM / Database / Datamapping](#orm--database--datamapping)
@@ -106,6 +107,7 @@ Additional lists you might find useful:
 - [Authentication plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/cakephp/authentication) ![GitHub last commit](https://img.shields.io/github/last-commit/cakephp/authentication)](https://github.com/cakephp/authentication) - Official CakePHP authentication middleware plugin.
 - [Authorization plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/cakephp/authorization) ![GitHub last commit](https://img.shields.io/github/last-commit/cakephp/authorization)](https://github.com/cakephp/authorization) - Official CakePHP authorization stack.
 - [CakeDC/Users plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/CakeDC/users) ![GitHub last commit](https://img.shields.io/github/last-commit/CakeDC/users)](https://github.com/CakeDC/users) - Complete user management (admin panel, remember me, etc), Social login (FB, Twitter, LinkedIn, Google, Instagram), RBAC, API and more.
+- [CakePasskeys plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/dereuromark/cakephp-passkeys) ![GitHub last commit](https://img.shields.io/github/last-commit/dereuromark/cakephp-passkeys)](https://github.com/dereuromark/cakephp-passkeys) - Passkey (WebAuthn) registration and sign-in, with a JavaScript client and cells for managing passkeys.
 - [CakeVerification plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/salines/cakephp-verification) ![GitHub last commit](https://img.shields.io/github/last-commit/salines/cakephp-verification)](https://github.com/salines/cakephp-verification) - Two-factor verification supporting email OTP, email magic link, SMS OTP, and TOTP (Google Authenticator).
 
 - [TinyAuth plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/dereuromark/cakephp-tinyauth) ![GitHub last commit](https://img.shields.io/github/last-commit/dereuromark/cakephp-tinyauth)](https://github.com/dereuromark/cakephp-tinyauth) - Authentication and role-based (single/multi) authorization as very light-weight approach.
@@ -141,6 +143,7 @@ Additional lists you might find useful:
 - [CakephpWhoops plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/dereuromark/cakephp-whoops) ![GitHub last commit](https://img.shields.io/github/last-commit/dereuromark/cakephp-whoops)](https://github.com/dereuromark/cakephp-whoops) - PHP errors and exceptions for cool kids with [filp/whoops ![GitHub Repo Stars](https://img.shields.io/github/stars/filp/whoops) ![GitHub last commit](https://img.shields.io/github/last-commit/filp/whoops)](https://github.com/filp/whoops).
 - [DebugKit plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/cakephp/debug_kit) ![GitHub last commit](https://img.shields.io/github/last-commit/cakephp/debug_kit)](https://github.com/cakephp/debug_kit) - The de-facto standard for debugging.
 - [Execution order ![GitHub Repo Stars](https://img.shields.io/github/stars/dereuromark/executionorder) ![GitHub last commit](https://img.shields.io/github/last-commit/dereuromark/executionorder)](https://github.com/dereuromark/executionorder) - A demo app to display the execution order of files, methods and callbacks.
+- [OrcaServices/Heartbeat plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/orca-services/cakephp-heartbeat) ![GitHub last commit](https://img.shields.io/github/last-commit/orca-services/cakephp-heartbeat)](https://github.com/orca-services/cakephp-heartbeat) - A plugin providing an application heartbeat status page with configurable sensors.
 - [Sentry plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/lordsimal/cakephp-sentry) ![GitHub last commit](https://img.shields.io/github/last-commit/lordsimal/cakephp-sentry)](https://github.com/lordsimal/cakephp-sentry) - A plugin to seamlessly integrate Sentry for errors and exceptions.
 - [Setup plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/dereuromark/cakephp-setup) ![GitHub last commit](https://img.shields.io/github/last-commit/dereuromark/cakephp-setup)](https://github.com/dereuromark/cakephp-setup) - A lightweight setup plugin containing healthcheck(s), debugging and maintenance tools.
 
@@ -227,6 +230,11 @@ Additional lists you might find useful:
 - [Tools plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/dereuromark/cakephp-tools) ![GitHub last commit](https://img.shields.io/github/last-commit/dereuromark/cakephp-tools)](https://github.com/dereuromark/cakephp-tools) - Containing lots of useful helpers, behaviors, components, commands, helpers, libs and more.
 - [Workflow plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/dereuromark/cakephp-workflow) ![GitHub last commit](https://img.shields.io/github/last-commit/dereuromark/cakephp-workflow)](https://github.com/dereuromark/cakephp-workflow) - Batteries-included state machine plugin with PHP 8 attributes, YAML config, audit trails, and visual admin dashboard.
 
+### Monitoring
+*Application monitoring and observability.*
+
+- [Crustum/Rhythm plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/Crustum/rhythm) ![GitHub last commit](https://img.shields.io/github/last-commit/Crustum/rhythm)](https://github.com/Crustum/rhythm) - Real-time application performance monitoring for CakePHP 5.x with metrics for HTTP requests, DB queries, queue, exceptions, and cache plus a live dashboard.
+
 ### Navigation
 *Building navigation structures.*
 
@@ -283,6 +291,7 @@ Additional lists you might find useful:
 
 - [Cake/Elasticsearch plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/cakephp/elastic-search) ![GitHub last commit](https://img.shields.io/github/last-commit/cakephp/elastic-search)](https://github.com/cakephp/elastic-search) - Alternative ORM using [Elasticsearch](https://www.elastic.co/) as its backend.
 - [CakeDC/SearchFilter plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/CakeDC/search-filter) ![GitHub last commit](https://img.shields.io/github/last-commit/CakeDC/search-filter)](https://github.com/CakeDC/search-filter) - Powerful and flexible solution for implementing advanced search functionality. Provides a robust set of tools for creating dynamic, user-friendly search interfaces with minimal effort.
+- [Crustum/Explorator plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/Crustum/explorator) ![GitHub last commit](https://img.shields.io/github/last-commit/Crustum/explorator)](https://github.com/Crustum/explorator) - Driver-based full-text search for CakePHP Tables and Entities (collection, database, Algolia, Meilisearch, Typesense).
 - [PlumSearch plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/skie/plum_search) ![GitHub last commit](https://img.shields.io/github/last-commit/skie/plum_search)](https://github.com/skie/plum_search) - Implements custom, flexible and extendable search strategies. Implements PRG pattern.
 - [Search plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/FriendsOfCake/search) ![GitHub last commit](https://img.shields.io/github/last-commit/FriendsOfCake/search)](https://github.com/FriendsOfCake/search) - Provides easy searching/filtering for paginated views using PRG pattern.
 - [Tags plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/dereuromark/cakephp-tags) ![GitHub last commit](https://img.shields.io/github/last-commit/dereuromark/cakephp-tags)](https://github.com/dereuromark/cakephp-tags) - For tagging and finding tagged records.
@@ -342,6 +351,7 @@ Additional lists you might find useful:
 ### Third Party APIs
 *Accessing third party APIs.*
 
+- [Crustum/Saloon plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/Crustum/saloon) ![GitHub last commit](https://img.shields.io/github/last-commit/Crustum/saloon)](https://github.com/Crustum/saloon) - Integrates Saloon for building elegant HTTP API clients and SDKs, with CakePHP events, Bake generators, testing helpers, and cache/rate-limit bridges.
 
 ## Software
 
