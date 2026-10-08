@@ -110,6 +110,7 @@ You might also like [awesome-php ![GitHub Repo Stars](https://img.shields.io/git
 - [Bramus/Composer-Autocomplete ![GitHub Repo Stars](https://img.shields.io/github/stars/bramus/composer-autocomplete) ![GitHub last commit](https://img.shields.io/github/last-commit/bramus/composer-autocomplete)](https://github.com/bramus/composer-autocomplete) - A Bash/Shell autocompletion script for Composer.
 - [Composer/Xdebug-Handler ![GitHub Repo Stars](https://img.shields.io/github/stars/composer/xdebug-handler) ![GitHub last commit](https://img.shields.io/github/last-commit/composer/xdebug-handler)](https://github.com/composer/xdebug-handler) - Helps you to restart a CLI process without loading the xdebug extension.
 - [Composer Semver Range Checker](https://gitlab.com/MattyRad/composer.guru) - A tool to help check the satisfiable ranges of a composer constraint.
+- [Composer Audit to SARIF Action ![GitHub Repo Stars](https://img.shields.io/github/stars/typisttech/composer-audit-to-sarif-action) ![GitHub last commit](https://img.shields.io/github/last-commit/typisttech/composer-audit-to-sarif-action)](https://github.com/typisttech/composer-audit-to-sarif-action) - Convert Composer audit reports to SARIF files on GitHub Actions.
 
 ## Scripts
 
@@ -232,6 +233,7 @@ About metadata mirrors: https://packagist.org/mirrors
 ## Packagist-compatible repositories
 
 - [WordPress Packagist](https://wpackagist.org/) - Mirrors the WordPress plugin and theme directories as a Composer repository.
+- [WordPress Packages](https://wp-packages.org/) - Composer repository for WordPress.org plugins and themes.
 - [Asset Packagist](https://asset-packagist.org/) - Enables installation of Bower and NPM packages as native Composer packages.
 - [Firegento](https://packages.firegento.com/) - A Composer Repository providing Magento Modules.
 - [Drupal Packagist](https://www.drupal.org/node/2822344) - Composer repositories for Drupal 7 and 8 core, modules, and themes.

@@ -276,6 +276,7 @@ Additional lists you might find useful:
 - [FractalTransformerView plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/andrej-griniuk/cakephp-fractal-transformer-view) ![GitHub last commit](https://img.shields.io/github/last-commit/andrej-griniuk/cakephp-fractal-transformer-view)](https://github.com/andrej-griniuk/cakephp-fractal-transformer-view) - A plugin which allows using [Fractal transformers](https://fractal.thephpleague.com/transformers/) for your API output.
 - [MixerApi](https://mixerapi.com) - Streamline development of modern RESTful APIs for your team's CakePHP project.
 - [SwaggerBake plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/cnizzardini/cakephp-swagger-bake) ![GitHub last commit](https://img.shields.io/github/last-commit/cnizzardini/cakephp-swagger-bake)](https://github.com/cnizzardini/cakephp-swagger-bake) - This plugin automatically builds OpenAPI from your existing models and routes for display in Swagger and Redoc.
+- [SwaggerUi plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/orca-services/cakephp-swagger-ui) ![GitHub last commit](https://img.shields.io/github/last-commit/orca-services/cakephp-swagger-ui)](https://github.com/orca-services/cakephp-swagger-ui) - A plugin for publishing Swagger UIs based on OpenAPI specification files.
 
 ### Search
 *Plugins and software for indexing and performing search queries on data.*
@@ -335,6 +336,7 @@ Additional lists you might find useful:
 
 - [CakePHP CodeSniffer rules ![GitHub Repo Stars](https://img.shields.io/github/stars/cakephp/cakephp-codesniffer) ![GitHub last commit](https://img.shields.io/github/last-commit/cakephp/cakephp-codesniffer)](https://github.com/cakephp/cakephp-codesniffer) - The official CakePHP CS rules.
 - [CakephpFixtureFactories plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/dereuromark/cakephp-fixture-factories) ![GitHub last commit](https://img.shields.io/github/last-commit/dereuromark/cakephp-fixture-factories)](https://github.com/dereuromark/cakephp-fixture-factories) - Create your fixtures dynamically on a test basis, accelerate the writing and maintenance of your tests.
+- [DataValidationTesting plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/orca-services/cakephp-data-validation-testing) ![GitHub last commit](https://img.shields.io/github/last-commit/orca-services/cakephp-data-validation-testing)](https://github.com/orca-services/cakephp-data-validation-testing) - A plugin to help testing data validation.
 - [FriendsOfCake/Fixturize plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/FriendsOfCake/fixturize) ![GitHub last commit](https://img.shields.io/github/last-commit/FriendsOfCake/fixturize)](https://github.com/FriendsOfCake/fixturize) - More efficient inserting fixtures when running test suites by decreasing amount of inserts (MySQL only).
 
 ### Third Party APIs

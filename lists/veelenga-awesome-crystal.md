@@ -475,6 +475,7 @@ described in [RFC 8032]
  * [router.cr ![GitHub Repo Stars](https://img.shields.io/github/stars/tbrand/router.cr) ![GitHub last commit](https://img.shields.io/github/last-commit/tbrand/router.cr)](https://github.com/tbrand/router.cr) - Minimum but powerful http router for HTTP::Server
 
 ## Scheduling
+ * [cronaute ![GitHub Repo Stars](https://img.shields.io/github/stars/jbox-web/cronaute) ![GitHub last commit](https://img.shields.io/github/last-commit/jbox-web/cronaute)](https://github.com/jbox-web/cronaute) - Cron daemon for containers, shipped as a single static binary with a read-only dashboard
  * [crystime](https://gitlab.com/crystallabs/crystime) - Advanced time, calendar, schedule, and remind library
  * [schedule.cr ![GitHub Repo Stars](https://img.shields.io/github/stars/hugoabonizio/schedule.cr) ![GitHub last commit](https://img.shields.io/github/last-commit/hugoabonizio/schedule.cr)](https://github.com/hugoabonizio/schedule.cr) - Run periodic tasks
  * [tasker ![GitHub Repo Stars](https://img.shields.io/github/stars/spider-gazelle/tasker) ![GitHub last commit](https://img.shields.io/github/last-commit/spider-gazelle/tasker)](https://github.com/spider-gazelle/tasker) - A high precision scheduler including timezone aware cron jobs

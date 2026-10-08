@@ -249,4 +249,5 @@ This list accepts and encourages pull requests. See [CONTRIBUTING ![GitHub Repo 
 
 Projects that are known to be non-production and yet have either traction or substance that warrants exposure.
 
+- [masume ![GitHub Repo Stars](https://img.shields.io/github/stars/masumedb/masume) ![GitHub last commit](https://img.shields.io/github/last-commit/masumedb/masume)](https://github.com/masumedb/masume) - Keyboard-first terminal database client with AI chat and an MCP server.
 - [VillageSQL ![GitHub Repo Stars](https://img.shields.io/github/stars/villagesql/villagesql-server) ![GitHub last commit](https://img.shields.io/github/last-commit/villagesql/villagesql-server)](https://github.com/villagesql/villagesql-server) - A drop-in replacement for MySQL with extensions for the agentic AI era.

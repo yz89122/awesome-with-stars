@@ -210,7 +210,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Google Nav Bar ![GitHub Repo Stars](https://img.shields.io/github/stars/sooxt98/google_nav_bar) ![GitHub last commit](https://img.shields.io/github/last-commit/sooxt98/google_nav_bar)](https://github.com/sooxt98/google_nav_bar) [772⭐] - A modern google style nav bar for flutter by [Sooxt98](http://github.com/sooxt98).
 
 #### Bottom Sheets
-- [Rubber Bottom Sheet ![GitHub Repo Stars](https://img.shields.io/github/stars/mcrovero/rubber) ![GitHub last commit](https://img.shields.io/github/last-commit/mcrovero/rubber)](https://github.com/mcrovero/rubber) [566���] - Elastic material bottom sheet by [Mattia Crovero](https://github.com/mcrovero).
+- [Rubber Bottom Sheet ![GitHub Repo Stars](https://img.shields.io/github/stars/mcrovero/rubber) ![GitHub last commit](https://img.shields.io/github/last-commit/mcrovero/rubber)](https://github.com/mcrovero/rubber) [566⭐] - Elastic material bottom sheet by [Mattia Crovero](https://github.com/mcrovero).
 - [Modal Bottom Sheet ![GitHub Repo Stars](https://img.shields.io/github/stars/jamesblasco/modal_bottom_sheet) ![GitHub last commit](https://img.shields.io/github/last-commit/jamesblasco/modal_bottom_sheet)](https://github.com/jamesblasco/modal_bottom_sheet) [1959⭐] - Modal bottom sheet with Material, Cupertino iOS13 or custom appareance by [Jaime Blasco](https://github.com/jamesblasco).
 
 #### Sliders
