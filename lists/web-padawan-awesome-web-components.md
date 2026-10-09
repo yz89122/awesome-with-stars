@@ -311,6 +311,7 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 
 ### Component Libraries
 
+- [Accesserty UI Kit ![GitHub Repo Stars](https://img.shields.io/github/stars/Accesserty/UI-Kit) ![GitHub last commit](https://img.shields.io/github/last-commit/Accesserty/UI-Kit)](https://github.com/Accesserty/UI-Kit) - HTML-first accessible web components with built-in keyboard behavior, state handling, and i18n. No runtime dependencies.
 - [AgnosticUI ![GitHub Repo Stars](https://img.shields.io/github/stars/AgnosticUI/agnosticui) ![GitHub last commit](https://img.shields.io/github/last-commit/AgnosticUI/agnosticui)](https://github.com/AgnosticUI/agnosticui) - A CLI-based UI component library that copies Lit web components directly into your project. Full React and Vue wrappers for native framework experience.
 - [AMP ![GitHub Repo Stars](https://img.shields.io/github/stars/ampproject/amphtml) ![GitHub last commit](https://img.shields.io/github/last-commit/ampproject/amphtml)](https://github.com/ampproject/amphtml) - Web component framework for easily creating user-first websites, stories, ads, emails and more.
 - [AnywhereUI ![GitHub Repo Stars](https://img.shields.io/github/stars/adaleks/anywhere-ui) ![GitHub last commit](https://img.shields.io/github/last-commit/adaleks/anywhere-ui)](https://github.com/adaleks/anywhere-ui) - Collection of rich web components that includes framework bindings. Created with StencilJS.
