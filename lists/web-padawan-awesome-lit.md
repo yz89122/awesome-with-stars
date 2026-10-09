@@ -325,6 +325,7 @@ These libraries are not related to Lit, but are built using similar concepts. Th
 template literal, and leverage the benefits of the same [IDE Plugins](#ide-plugins) for syntax highlighting.
 
 - [haunted](https://www.npmjs.com/package/haunted) - React's Hooks API but for standard web components and hyperHTML or lit-html.
+- [pion ![GitHub Repo Stars](https://img.shields.io/github/stars/pionjs/pion) ![GitHub last commit](https://img.shields.io/github/last-commit/pionjs/pion)](https://github.com/pionjs/pion) - React Hooks API for web components using lit-html.
 - [htm ![GitHub Repo Stars](https://img.shields.io/github/stars/developit/htm) ![GitHub last commit](https://img.shields.io/github/last-commit/developit/htm)](https://github.com/developit/htm) - Hyperscript Tagged Markup: JSX alternative using standard tagged templates, with compiler support.
 - [hybrids ![GitHub Repo Stars](https://img.shields.io/github/stars/hybridsjs/hybrids) ![GitHub last commit](https://img.shields.io/github/last-commit/hybridsjs/hybrids)](https://github.com/hybridsjs/hybrids) - UI library for creating Web Components with simple and functional API.
 - [lit-ntml ![GitHub Repo Stars](https://img.shields.io/github/stars/motss/lit-ntml) ![GitHub last commit](https://img.shields.io/github/last-commit/motss/lit-ntml)](https://github.com/motss/lit-ntml) - Lightweight and modern templating for SSR in Node.js, inspired by lit-html.

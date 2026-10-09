@@ -85,6 +85,7 @@ _Great graphics placeholders and tools to turn that squared game into a picasso 
 
 #### Spritesheet Tools
 
+- :free: [AnimGen Free Sprite Sheet Tools](https://animgen.com/tools) - Browser tools that convert GIFs to sprite sheets and back, slice grid sheets or auto-extract sprites from sheets with no grid, export PNG sequences, and remove solid or green-screen GIF backgrounds. Files stay on your device; sheets come with Aseprite-format JSON.
 - :tada: [Cheetah-Texture-Packer ![GitHub Repo Stars](https://img.shields.io/github/stars/scriptum/Cheetah-Texture-Packer) ![GitHub last commit](https://img.shields.io/github/last-commit/scriptum/Cheetah-Texture-Packer)](https://github.com/scriptum/Cheetah-Texture-Packer) - High efficient and fast 2D bin packing tool
 - :tada: [EzSpriteSheet ![GitHub Repo Stars](https://img.shields.io/github/stars/z64me/EzSpriteSheet) ![GitHub last commit](https://img.shields.io/github/last-commit/z64me/EzSpriteSheet)](https://github.com/z64me/EzSpriteSheet) - Creates sprite sheets from animated GIFs and more
 - :tada: [Libgdx Texture Packer ![GitHub Repo Stars](https://img.shields.io/github/stars/libgdx/libgdx) ![GitHub last commit](https://img.shields.io/github/last-commit/libgdx/libgdx)](https://github.com/libgdx/libgdx/wiki/Texture-packer) - Texture Packer built into Libgdx
