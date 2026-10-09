@@ -539,6 +539,7 @@
 - [apollo-ios ![GitHub Repo Stars](https://img.shields.io/github/stars/apollographql/apollo-ios) ![GitHub last commit](https://img.shields.io/github/last-commit/apollographql/apollo-ios)](https://github.com/apollographql/apollo-ios) - 📱 A strongly-typed, caching GraphQL client for iOS, written in Swift.
 - [ApolloDeveloperKit ![GitHub Repo Stars](https://img.shields.io/github/stars/manicmaniac/ApolloDeveloperKit) ![GitHub last commit](https://img.shields.io/github/last-commit/manicmaniac/ApolloDeveloperKit)](https://github.com/manicmaniac/ApolloDeveloperKit) - Apollo Client developer tools bridge for Apollo iOS.
 - [Graphaello ![GitHub Repo Stars](https://img.shields.io/github/stars/nerdsupremacist/Graphaello) ![GitHub last commit](https://img.shields.io/github/last-commit/nerdsupremacist/Graphaello)](https://github.com/nerdsupremacist/Graphaello) - Type Safe GraphQL directly from SwiftUI.
+- [Baton ![GitHub Repo Stars](https://img.shields.io/github/stars/shergin/baton) ![GitHub last commit](https://img.shields.io/github/last-commit/shergin/baton)](https://github.com/shergin/baton) - Relay-style GraphQL client for SwiftUI and Jetpack Compose, with a fragment beside each view and a normalized store the UI observes.
 
 <a name="ios-example" />
 
