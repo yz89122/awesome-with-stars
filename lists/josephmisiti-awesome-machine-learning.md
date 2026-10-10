@@ -1585,6 +1585,7 @@ be
 #### Speech Recognition
 * [EspNet ![GitHub Repo Stars](https://img.shields.io/github/stars/espnet/espnet) ![GitHub last commit](https://img.shields.io/github/last-commit/espnet/espnet)](https://github.com/espnet/espnet) - ESPnet is an end-to-end speech processing toolkit for tasks like speech recognition, translation, and enhancement, using PyTorch and Kaldi-style data processing.
 * [VoxRT ![GitHub Repo Stars](https://img.shields.io/github/stars/VoxRT/voxrt-asr-linux) ![GitHub last commit](https://img.shields.io/github/last-commit/VoxRT/voxrt-asr-linux)](https://github.com/VoxRT/voxrt-asr-linux) - On-device streaming speech recognition toolkit with Python bindings. Based on NVIDIA NeMo FastConformer (80 ms cache-aware lookahead). Ships companion VAD (Silero), wake-word, and 14-command keyword spotting via same runtime.
+* [tiny-audio ![GitHub Repo Stars](https://img.shields.io/github/stars/alexkroman/tiny-audio) ![GitHub last commit](https://img.shields.io/github/last-commit/alexkroman/tiny-audio)](https://github.com/alexkroman/tiny-audio) - Minimal, hackable PyTorch/Hugging Face codebase for training LLM-based speech recognition by connecting a frozen pretrained speech encoder to a pretrained LLM through a small trained projector, with word timestamps, speaker diarization and a free course.
 
 <a name="python-development tools"></a>
 #### Development Tools 

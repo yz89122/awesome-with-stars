@@ -532,7 +532,7 @@ Userscripts can be used w/ the following browsers:
             Install Full Edition</a> /
         💾 <a href="https://github.com/adsbypasser/adsbypasser/releases/latest/download/adsbypasser.lite.user.js">
             Install Lite Edition</a> /
-        📖 <a href="https://github.com/adsbypasser/adsbypasser/#readme">
+        ���� <a href="https://github.com/adsbypasser/adsbypasser/#readme">
             Readme</a> /
         📢 <a href="https://github.com/adsbypasser/adsbypasser/discussions">
             Discuss</a> /
