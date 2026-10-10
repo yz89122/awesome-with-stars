@@ -622,7 +622,7 @@ The environment we work in shapes us. Perks too.
 
 The Product Manager is supposed to be the *voice of the market*. Here are more links on the role and its reach.
 
-- “You're the broker for a lot of unstructured information and have to fend off all kinds of disruptive influences to land even close to where you're trying to go.�� ([source](https://news.ycombinator.com/item?id=19050555))
+- “You're the broker for a lot of unstructured information and have to fend off all kinds of disruptive influences to land even close to where you're trying to go.” ([source](https://news.ycombinator.com/item?id=19050555))
 
 - [Awesome Product Management ![GitHub Repo Stars](https://img.shields.io/github/stars/dend/awesome-product-management) ![GitHub last commit](https://img.shields.io/github/last-commit/dend/awesome-product-management)](https://github.com/dend/awesome-product-management) - A reference. All the missing pieces are found below.
 

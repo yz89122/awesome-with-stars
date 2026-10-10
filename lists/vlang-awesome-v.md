@@ -228,7 +228,7 @@ SDL2 and SDL3 based applications importing `vlang/sdl`.
 ### Audio
 
 - [miniaudio ![GitHub Repo Stars](https://img.shields.io/github/stars/larpon/miniaudio) ![GitHub last commit](https://img.shields.io/github/last-commit/larpon/miniaudio)](https://github.com/larpon/miniaudio) - Bindings for the excellent miniaudio C audio library.
-- [vave ![GitHub Repo Stars](https://img.shields.io/github/stars/thecodrr/vave) ![GitHub last commit](https://img.shields.io/github/last-commit/thecodrr/vave)](https://github.com/thecodrr/vave) - A crazy simple library for reading/writing WAV files in V. ���
+- [vave ![GitHub Repo Stars](https://img.shields.io/github/stars/thecodrr/vave) ![GitHub last commit](https://img.shields.io/github/last-commit/thecodrr/vave)](https://github.com/thecodrr/vave) - A crazy simple library for reading/writing WAV files in V. 🌊
 - [vspeech ![GitHub Repo Stars](https://img.shields.io/github/stars/thecodrr/vspeech) ![GitHub last commit](https://img.shields.io/github/last-commit/thecodrr/vspeech)](https://github.com/thecodrr/vspeech) - Complete V bindings for Mozilla's DeepSpeech TensorFlow based Speech-to-Text library. 📢📜
 
 ### Automation

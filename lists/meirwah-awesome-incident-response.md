@@ -194,7 +194,7 @@ Digital Forensics and Incident Response (DFIR) teams are groups of people in an 
 
 ### Memory Imaging Tools
 
-* [Belkasoft Live RAM Capturer](http://belkasoft.com/ram-capturer) - Tiny free forensic tool to reliably extract the entire content of the computer���s volatile memory – even if protected by an active anti-debugging or anti-dumping system.
+* [Belkasoft Live RAM Capturer](http://belkasoft.com/ram-capturer) - Tiny free forensic tool to reliably extract the entire content of the computer’s volatile memory – even if protected by an active anti-debugging or anti-dumping system.
 * [Linux Memory Grabber ![GitHub Repo Stars](https://img.shields.io/github/stars/halpomeranz/lmg) ![GitHub last commit](https://img.shields.io/github/last-commit/halpomeranz/lmg)](https://github.com/halpomeranz/lmg/) - Script for dumping Linux memory and creating Volatility profiles.
 * [MAGNET DumpIt](https://www.magnetforensics.com/resources/magnet-dumpit-for-windows) - Fast memory acquisition tool for Windows (x86, x64, ARM64). Generate full memory crash dumps of Windows machines.
 * [Magnet RAM Capture](https://www.magnetforensics.com/free-tool-magnet-ram-capture/) - Free imaging tool designed to capture the physical memory of a suspect’s computer. Supports recent versions of Windows.
