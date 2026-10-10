@@ -267,6 +267,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [Whatsup ![GitHub Repo Stars](https://img.shields.io/github/stars/whatsup/whatsup) ![GitHub last commit](https://img.shields.io/github/last-commit/whatsup/whatsup)](https://github.com/whatsup/whatsup) - A frontend framework for chillout-mode development 🥤. JSX components on generators, fast mobx-like state management and exclusive cssx style system.
 * [Remult ![GitHub Repo Stars](https://img.shields.io/github/stars/remult/remult) ![GitHub last commit](https://img.shields.io/github/last-commit/remult/remult)](https://github.com/remult/remult) - A CRUD framework for full-stack TypeScript.
 * [sprae ![GitHub Repo Stars](https://img.shields.io/github/stars/dy/sprae) ![GitHub last commit](https://img.shields.io/github/last-commit/dy/sprae)](https://github.com/dy/sprae) - Reactive HTML attributes with no build step, signals-based, with a CSP-safe build.
+* [pion ![GitHub Repo Stars](https://img.shields.io/github/stars/pionjs/pion) ![GitHub last commit](https://img.shields.io/github/last-commit/pionjs/pion)](https://github.com/pionjs/pion) - React Hooks API for standard web components with lit-html.
 
 ## Node-Powered CMS Frameworks
 
