@@ -563,7 +563,7 @@ _Tools for batch, stream, table and data-transformation workloads._
 
 > **[Scriptella ETL ![GitHub Repo Stars](https://img.shields.io/github/stars/scriptella/scriptella-etl) ![GitHub last commit](https://img.shields.io/github/last-commit/scriptella/scriptella-etl)](https://github.com/scriptella/scriptella-etl)** <kbd>★ 125</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Open-source Java-based ETL and script execution tool for transferring and transforming data between databases, files, and other sources.
 
-> **[Siddhi ![GitHub Repo Stars](https://img.shields.io/github/stars/siddhi-io/siddhi) ![GitHub last commit](https://img.shields.io/github/last-commit/siddhi-io/siddhi)](https://github.com/siddhi-io/siddhi)** <kbd>★ 1.6k</kbd> <kbd>Apache-2.0</kbd> ����<br>Cloud native streaming and complex event processing engine.
+> **[Siddhi ![GitHub Repo Stars](https://img.shields.io/github/stars/siddhi-io/siddhi) ![GitHub last commit](https://img.shields.io/github/last-commit/siddhi-io/siddhi)](https://github.com/siddhi-io/siddhi)** <kbd>★ 1.6k</kbd> <kbd>Apache-2.0</kbd> 🟠<br>Cloud native streaming and complex event processing engine.
 
 > **[Smooks ![GitHub Repo Stars](https://img.shields.io/github/stars/smooks/smooks) ![GitHub last commit](https://img.shields.io/github/last-commit/smooks/smooks)](https://github.com/smooks/smooks)** <kbd>★ 420</kbd> 🟠<br>Framework for fragment-based message processing. (Apache-2.0 OR LGPL-3.0-or-later)
 
@@ -1392,7 +1392,7 @@ _Tools for creating and managing microservices._
 
 > **[Micronaut ![GitHub Repo Stars](https://img.shields.io/github/stars/micronaut-projects/micronaut-core) ![GitHub last commit](https://img.shields.io/github/last-commit/micronaut-projects/micronaut-core)](https://github.com/micronaut-projects/micronaut-core)** <kbd>★ 6.4k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Modern full-stack framework with focus on modularity, minimal memory footprint and startup time.
 
-> **[Nacos ![GitHub Repo Stars](https://img.shields.io/github/stars/alibaba/nacos) ![GitHub last commit](https://img.shields.io/github/last-commit/alibaba/nacos)](https://github.com/alibaba/nacos)** <kbd>��� 33.4k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Dynamic service discovery, configuration and service management platform for building cloud native applications.
+> **[Nacos ![GitHub Repo Stars](https://img.shields.io/github/stars/alibaba/nacos) ![GitHub last commit](https://img.shields.io/github/last-commit/alibaba/nacos)](https://github.com/alibaba/nacos)** <kbd>★ 33.4k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Dynamic service discovery, configuration and service management platform for building cloud native applications.
 
 > **[Quarkus ![GitHub Repo Stars](https://img.shields.io/github/stars/quarkusio/quarkus) ![GitHub last commit](https://img.shields.io/github/last-commit/quarkusio/quarkus)](https://github.com/quarkusio/quarkus)** <kbd>★ 15.9k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Kubernetes stack tailored for the HotSpot and Graal VM.
 
