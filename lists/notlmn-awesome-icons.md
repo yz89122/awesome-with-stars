@@ -11,7 +11,6 @@
 - [Special](#special)
 - [Other](#other)
   - [CSS only](#css-only)
-  - [Paid](#paid)
   - [Frameworks](#frameworks)
 
 ## General
@@ -22,6 +21,7 @@ General purpose icons used everywhere.
 - [Boxicons ![GitHub Repo Stars](https://img.shields.io/github/stars/atisawd/boxicons) ![GitHub last commit](https://img.shields.io/github/last-commit/atisawd/boxicons)](https://github.com/atisawd/boxicons#readme) - Simple vector iconset with 1000+ icons and 100+ logos. ([Website](https://boxicons.com/))
 - [Byte Size Icons ![GitHub Repo Stars](https://img.shields.io/github/stars/danklammer/bytesize-icons) ![GitHub last commit](https://img.shields.io/github/last-commit/danklammer/bytesize-icons)](https://github.com/danklammer/bytesize-icons#readme) - Tiny style-controlled SVG iconset. ([Website](https://danklammer.com/bytesize-icons))
 - [css.gg ![GitHub Repo Stars](https://img.shields.io/github/stars/astrit/css.gg) ![GitHub last commit](https://img.shields.io/github/last-commit/astrit/css.gg)](https://github.com/astrit/css.gg#readme) - Pure CSS, SVG & Figma UI Icons Available in SVG Sprite, styled-components, NPM & API. ([Website](https://css.gg))
+- [Energy Icons ![GitHub Repo Stars](https://img.shields.io/github/stars/Sam-r-passmore/energy-icons) ![GitHub last commit](https://img.shields.io/github/last-commit/Sam-r-passmore/energy-icons)](https://github.com/Sam-r-passmore/energy-icons#readme) - Open source icons for the energy transition and everyday UI, with 1,279 icons in two optical sizes and two weights. ([Website](https://energyicons.com))
 - [Eva icons ![GitHub Repo Stars](https://img.shields.io/github/stars/akveo/eva-icons) ![GitHub last commit](https://img.shields.io/github/last-commit/akveo/eva-icons)](https://github.com/akveo/eva-icons#readme) - A pack of more than 480 beautifully crafted Open Source icons. ([Website](https://akveo.github.io/eva-icons))
 - [Evil icons ![GitHub Repo Stars](https://img.shields.io/github/stars/evil-icons/evil-icons) ![GitHub last commit](https://img.shields.io/github/last-commit/evil-icons/evil-icons)](https://github.com/evil-icons/evil-icons#readme) - Simple and clean SVG icon pack with the code to support Rails, Sprockets, Node.js, Gulp, Grunt and CDN. ([Website](http://evil-icons.io))
 - [Feather ![GitHub Repo Stars](https://img.shields.io/github/stars/feathericons/feather) ![GitHub last commit](https://img.shields.io/github/last-commit/feathericons/feather)](https://github.com/feathericons/feather#readme) - Simply beautiful open source icons. ([Website](https://feathericons.com))
