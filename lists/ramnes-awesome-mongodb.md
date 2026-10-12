@@ -262,6 +262,7 @@ Services:
 
 Services:
  - [Beekeeper Studio](https://www.beekeeperstudio.io/db/mongodb-client/) - Cross-platform SQL editor and database manager with native MongoDB support (part of the paid Ultimate tier), plus MySQL, Postgres, SQLite, and more.
+ - [BsonJet](https://bsonjet.com) - Native cross-platform GUI (no Electron, no Java), free for personal use; copy databases between servers, encrypted backups, replica set health
  - [DataGrip](https://www.jetbrains.com/datagrip/) - Cross-platform JetBrains' IDE
  - [Mingo](https://mingo.io/) - MongoDB Admin. Intuitive UI. Fast. Reliable
  - [Monghoul](https://www.monghoul.com/) - MongoDB GUI with smart autocomplete, visual aggregation builder, and built-in MCP server
@@ -274,6 +275,7 @@ Services:
 ### Development
  - [Argon ![GitHub Repo Stars](https://img.shields.io/github/stars/argon-lab/argon) ![GitHub last commit](https://img.shields.io/github/last-commit/argon-lab/argon)](https://github.com/argon-lab/argon) - Git-style branching, time travel, and merge; create disposable database sandboxes for tests and AI agents
  - [C# Analyzer ![GitHub Repo Stars](https://img.shields.io/github/stars/mongodb/mongo-csharp-analyzer) ![GitHub last commit](https://img.shields.io/github/last-commit/mongodb/mongo-csharp-analyzer)](https://github.com/mongodb/mongo-csharp-analyzer) - View the MongoDB Query API equivalents of your builder expressions in Visual Studio
+ - [Keploy ![GitHub Repo Stars](https://img.shields.io/github/stars/keploy/keploy) ![GitHub last commit](https://img.shields.io/github/last-commit/keploy/keploy)](https://github.com/keploy/keploy) - Records real MongoDB query results and replays them as mocks in tests, without a running database
  - [mgodatagen ![GitHub Repo Stars](https://img.shields.io/github/stars/feliixx/mgodatagen) ![GitHub last commit](https://img.shields.io/github/last-commit/feliixx/mgodatagen)](https://github.com/feliixx/mgodatagen) - Random data generator
  - [migrate-mongo ![GitHub Repo Stars](https://img.shields.io/github/stars/seppevs/migrate-mongo) ![GitHub last commit](https://img.shields.io/github/last-commit/seppevs/migrate-mongo)](https://github.com/seppevs/migrate-mongo) - Database migration tool
  - [Mongo Playground ![GitHub Repo Stars](https://img.shields.io/github/stars/feliixx/mongoplayground) ![GitHub last commit](https://img.shields.io/github/last-commit/feliixx/mongoplayground)](https://github.com/feliixx/mongoplayground) - Online query playground
@@ -313,6 +315,7 @@ Services:
 - [Retool](https://retool.com/) - Drag-and-drop editor with pre-built components to build internal tools
 
 ### Shell
+ - [masume ![GitHub Repo Stars](https://img.shields.io/github/stars/masumedb/masume) ![GitHub last commit](https://img.shields.io/github/last-commit/masumedb/masume)](https://github.com/masumedb/masume) - Keyboard-first terminal database client with AI chat and an MCP server
  - [MongoDB Atlas CLI ![GitHub Repo Stars](https://img.shields.io/github/stars/mongodb/mongodb-atlas-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/mongodb/mongodb-atlas-cli)](https://github.com/mongodb/mongodb-atlas-cli) - Official Atlas API command-line client
  - [mongosh ![GitHub Repo Stars](https://img.shields.io/github/stars/mongodb-js/mongosh) ![GitHub last commit](https://img.shields.io/github/last-commit/mongodb-js/mongosh)](https://github.com/mongodb-js/mongosh) - Official command-line client
 
