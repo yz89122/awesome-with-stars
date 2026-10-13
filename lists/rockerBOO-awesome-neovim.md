@@ -338,6 +338,7 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 - [simonwinther/cppman.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/simonwinther/cppman.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/simonwinther/cppman.nvim)](https://github.com/simonwinther/cppman.nvim) - Search C++ docs from cppman and view results in a floating window, backed by a local SQLite index for fast lookups.
 - [redpierrot/ballerina.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/redpierrot/ballerina.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/redpierrot/ballerina.nvim)](https://github.com/redpierrot/ballerina.nvim) - Syntax highlighting, LSP, debugging, package-aware format-on-save, auto-indent, and `bal` run/test/build commands for the Ballerina language.
 - [jgonmor16/hdlsnip.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/jgonmor16/hdlsnip.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/jgonmor16/hdlsnip.nvim)](https://github.com/jgonmor16/hdlsnip.nvim) - Parameterised VHDL templates covering entities, FSMs, CDC, AXI4-Lite and testbenches, following the project's reset style and target vendor.
+- [upyesp/epher.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/upyesp/epher.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/upyesp/epher.nvim)](https://github.com/upyesp/epher.nvim) - Calculator language with answers inline, LSP server glue, and syntax for `.epher` scripts.
 
 ### Golang
 
@@ -693,6 +694,7 @@ then it is not supported:
 - **_`[Fnl]`_** - Is written in Fennel.
 <!--lint enable awesome-list-item-->
 
+- [daaanny90/interlinked.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/daaanny90/interlinked.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/daaanny90/interlinked.nvim)](https://github.com/daaanny90/interlinked.nvim) - **_`[TS][LSP][Lua]`_** Melancholic Blade Runner 2049 colorscheme with ambient neon-flicker effects and a baseline-test session report.
 - [rezniqov/soviet.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/rezniqov/soviet.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/rezniqov/soviet.nvim)](https://github.com/rezniqov/soviet.nvim) - **_`[TS][LSP][L/D][Lua]`_** Warm colorschemes inspired by soviet visual culture.
 - [ThorstenRhau/token ![GitHub Repo Stars](https://img.shields.io/github/stars/ThorstenRhau/token) ![GitHub last commit](https://img.shields.io/github/last-commit/ThorstenRhau/token)](https://github.com/ThorstenRhau/token) - **_`[TS][LSP][L/D][Lua]`_** Token has warm tones and careful contrast, with full Tree-sitter and LSP integration.
 - [oskarnurm/koda.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/oskarnurm/koda.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/oskarnurm/koda.nvim)](https://github.com/oskarnurm/koda.nvim) - **_`[TS][LSP][L/D][Lua]`_** Code's quiet companion. A minimalist colorscheme, written in Lua.
@@ -1778,6 +1780,7 @@ then it is not supported:
 
 - [~chinmay/cphelper.nvim](https://git.sr.ht/~chinmay/cphelper.nvim) - Helper for competitive programming written in Lua.
 - [xeluxee/competitest.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/xeluxee/competitest.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/xeluxee/competitest.nvim)](https://github.com/xeluxee/competitest.nvim) - A plugin to automate testcases management and checking for Competitive Programming contests.
+- [FrancescoDerme/tuna.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/FrancescoDerme/tuna.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/FrancescoDerme/tuna.nvim)](https://github.com/FrancescoDerme/tuna.nvim) - Download problems with Competitive Companion, run testcases in parallel, stress-test against a brute-force reference solution, and submit to online judges.
 - [kawre/leetcode.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/kawre/leetcode.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/kawre/leetcode.nvim)](https://github.com/kawre/leetcode.nvim) - Solve Leetcode problems.
 - [2KAbhishek/exercism.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/2KAbhishek/exercism.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/2KAbhishek/exercism.nvim)](https://github.com/2KAbhishek/exercism.nvim) - Browse and solve Exercism problems.
 <!--lint disable double-link -->
