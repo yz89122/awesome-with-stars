@@ -240,6 +240,7 @@ Services:
  - [mongo_fdw ![GitHub Repo Stars](https://img.shields.io/github/stars/EnterpriseDB/mongo_fdw) ![GitHub last commit](https://img.shields.io/github/last-commit/EnterpriseDB/mongo_fdw)](https://github.com/EnterpriseDB/mongo_fdw) - PostgreSQL foreign data wrapper
  - [mongo-hadoop ![GitHub Repo Stars](https://img.shields.io/github/stars/mongodb/mongo-hadoop) ![GitHub last commit](https://img.shields.io/github/last-commit/mongodb/mongo-hadoop)](https://github.com/mongodb/mongo-hadoop) - Hadoop connector
  - [Mongolastic ![GitHub Repo Stars](https://img.shields.io/github/stars/ozlerhakan/mongolastic) ![GitHub last commit](https://img.shields.io/github/last-commit/ozlerhakan/mongolastic)](https://github.com/ozlerhakan/mongolastic) - MongoDB to Elasticsearch (and vice-versa) migration tool
+ - [OLake ![GitHub Repo Stars](https://img.shields.io/github/stars/datazip-inc/olake) ![GitHub last commit](https://img.shields.io/github/last-commit/datazip-inc/olake)](https://github.com/datazip-inc/olake) - Open-source MongoDB to Apache Iceberg replication using change streams or oplog CDC, with parallel full loads. Written in Go
 
 Services:
  - [Cluster to cluster sync](https://www.mongodb.com/products/cluster-to-cluster-sync) - MongoDB Inc. solution for continuous data sync between separate clusters
