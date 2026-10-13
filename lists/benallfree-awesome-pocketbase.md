@@ -122,6 +122,7 @@ PocketBase is an open source backend consisting of embedded database (SQLite) wi
 - [C# ![GitHub Repo Stars](https://img.shields.io/github/stars/PRCV1/pocketbase-csharp-sdk) ![GitHub last commit](https://img.shields.io/github/last-commit/PRCV1/pocketbase-csharp-sdk)](https://github.com/PRCV1/pocketbase-csharp-sdk) - PocketBase Client in C#. ![GitHub Repo stars](https://img.shields.io/github/stars/PRCV1/pocketbase-csharp-sdk)
 - [Rust ![GitHub Repo Stars](https://img.shields.io/github/stars/sreedevk/pocketbase-sdk-rust) ![GitHub last commit](https://img.shields.io/github/last-commit/sreedevk/pocketbase-sdk-rust)](https://github.com/sreedevk/pocketbase-sdk-rust) - PocketBase Client in Rust. ![GitHub Repo stars](https://img.shields.io/github/stars/sreedevk/pocketbase-sdk-rust)
 - [Unity (Multiplatform) ![GitHub Repo Stars](https://img.shields.io/github/stars/Sov3rain/pocketbase-unity) ![GitHub last commit](https://img.shields.io/github/last-commit/Sov3rain/pocketbase-unity)](https://github.com/Sov3rain/pocketbase-unity) - PocketBase client for Unity 3D game engine. ![GitHub Repo stars](https://img.shields.io/github/stars/Sov3rain/pocketbase-unity)
+- [Ruby ![GitHub Repo Stars](https://img.shields.io/github/stars/azmi2409/pocketbase-ruby) ![GitHub last commit](https://img.shields.io/github/last-commit/azmi2409/pocketbase-ruby)](https://github.com/azmi2409/pocketbase-ruby) - PocketBase Client in Ruby. ![GitHub Repo stars](https://img.shields.io/github/stars/azmi2409/pocketbase-ruby)
 
 ## Self Hosting
 
