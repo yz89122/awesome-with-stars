@@ -1156,7 +1156,7 @@ _Libraries that assist with the creation, evaluation or manipulation of graphica
 
 > **[Imgscalr ![GitHub Repo Stars](https://img.shields.io/github/stars/rkalla/imgscalr) ![GitHub last commit](https://img.shields.io/github/last-commit/rkalla/imgscalr)](https://github.com/rkalla/imgscalr)** <kbd>★ 1.2k</kbd> <kbd>Apache-2.0</kbd> 🔴<br>Simple, efficient and hardware-accelerated image-scaling library implemented in pure Java 2D.
 
-> **[scrimage ![GitHub Repo Stars](https://img.shields.io/github/stars/sksamuel/scrimage) ![GitHub last commit](https://img.shields.io/github/last-commit/sksamuel/scrimage)](https://github.com/sksamuel/scrimage)** <kbd>�� 1.2k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Immutable, functional, and performant JVM library for manipulation of images.
+> **[scrimage ![GitHub Repo Stars](https://img.shields.io/github/stars/sksamuel/scrimage) ![GitHub last commit](https://img.shields.io/github/last-commit/sksamuel/scrimage)](https://github.com/sksamuel/scrimage)** <kbd>★ 1.2k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Immutable, functional, and performant JVM library for manipulation of images.
 
 > **[Tess4J ![GitHub Repo Stars](https://img.shields.io/github/stars/nguyenq/tess4j) ![GitHub last commit](https://img.shields.io/github/last-commit/nguyenq/tess4j)](https://github.com/nguyenq/tess4j)** <kbd>★ 1.8k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>JNA wrapper for Tesseract OCR API.
 
@@ -1392,7 +1392,7 @@ _Tools for creating and managing microservices._
 
 > **[Micronaut ![GitHub Repo Stars](https://img.shields.io/github/stars/micronaut-projects/micronaut-core) ![GitHub last commit](https://img.shields.io/github/last-commit/micronaut-projects/micronaut-core)](https://github.com/micronaut-projects/micronaut-core)** <kbd>★ 6.4k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Modern full-stack framework with focus on modularity, minimal memory footprint and startup time.
 
-> **[Nacos ![GitHub Repo Stars](https://img.shields.io/github/stars/alibaba/nacos) ![GitHub last commit](https://img.shields.io/github/last-commit/alibaba/nacos)](https://github.com/alibaba/nacos)** <kbd>★ 33.4k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Dynamic service discovery, configuration and service management platform for building cloud native applications.
+> **[Nacos ![GitHub Repo Stars](https://img.shields.io/github/stars/alibaba/nacos) ![GitHub last commit](https://img.shields.io/github/last-commit/alibaba/nacos)](https://github.com/alibaba/nacos)** <kbd>��� 33.4k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Dynamic service discovery, configuration and service management platform for building cloud native applications.
 
 > **[Quarkus ![GitHub Repo Stars](https://img.shields.io/github/stars/quarkusio/quarkus) ![GitHub last commit](https://img.shields.io/github/last-commit/quarkusio/quarkus)](https://github.com/quarkusio/quarkus)** <kbd>★ 15.9k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Kubernetes stack tailored for the HotSpot and Graal VM.
 

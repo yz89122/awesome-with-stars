@@ -21,6 +21,7 @@
 ### Automation, Manufacturing, and Robotics
 
 * [FarmBot](https://farm.bot/pages/open-source) - Automated gardening machine to grow vegetables.
+* [Gearotons M17 ![GitHub Repo Stars](https://img.shields.io/github/stars/tomrodinger/servomotor) ![GitHub last commit](https://img.shields.io/github/last-commit/tomrodinger/servomotor)](https://github.com/tomrodinger/servomotor) - Integrated servomotor with the motor, driver, motion controller and encoder in one NEMA 17 body.
 * [Hacker Fab](https://docs.hackerfab.org/home) - Nanofabrication tools for making integrated circuits.
 * [JPL Open Source Rover ![GitHub Repo Stars](https://img.shields.io/github/stars/nasa-jpl/open-source-rover) ![GitHub last commit](https://img.shields.io/github/last-commit/nasa-jpl/open-source-rover)](https://github.com/nasa-jpl/open-source-rover) - A six wheeled, build-it-yourself, open-source rover.
 * [Mekanika](https://www.mekanika.io/) - Tools and machines for makers.
@@ -30,6 +31,7 @@
 * [Precious Plastic](https://www.preciousplastic.com/) - Tools to make plastic recycling as simple as possible.
 * [Prusa3D](https://www.prusa3d.com/) - 3D printer manufacturer who shares their work open online.
 * [RepRap](https://reprap.org/wiki/RepRap) - Humanity's first general-purpose, self-replicating manufacturing machine.
+* [SO-ARM 102 ![GitHub Repo Stars](https://img.shields.io/github/stars/roboninecom/SO-ARM-102) ![GitHub last commit](https://img.shields.io/github/last-commit/roboninecom/SO-ARM-102)](https://github.com/roboninecom/SO-ARM-102) - 3D-printable leader-follower robotic arm with a parallel gripper, open CAD files, a bill of materials, and assembly instructions.
 * [VORON Design](https://www.vorondesign.com/) - No-compromise 3D printer designs.
 * [WikiHouse](https://www.wikihouse.cc/) - Digital designed open housing.
 
@@ -43,6 +45,7 @@
 * [PiSpot Watch ![GitHub Repo Stars](https://img.shields.io/github/stars/GeiserX/PiSpot-Watch) ![GitHub last commit](https://img.shields.io/github/last-commit/GeiserX/PiSpot-Watch)](https://github.com/GeiserX/PiSpot-Watch) - Wrist-wearable Raspberry Pi Zero smartwatch with e-ink display that generates Wi-Fi voucher codes on demand.
 * [Ploopy](https://ploopy.co/) - 3D-printable peripherals running the QMK firmware.
 * [SlimeVR](https://slimevr.dev) - Full-body tracking sensors for virtual reality and motion capture.
+* [Tiny Film Camera ![GitHub Repo Stars](https://img.shields.io/github/stars/SuveenE/tiny-film-camera) ![GitHub last commit](https://img.shields.io/github/last-commit/SuveenE/tiny-film-camera)](https://github.com/SuveenE/tiny-film-camera) - Raspberry Pi Zero 2 W digital camera with physical controls, three selectable image filters, and a 3D-printable enclosure.
 * [Winterbloom](https://winterbloom.com) - Eurorack modules; Thea has some stellar design write-ups on her blog.
 
 ### Development Boards
@@ -138,6 +141,8 @@
 * [Thingiverse](https://www.thingiverse.com/) - A platform for sharing and contributing to design hardware for 3D printing, laser cutting and CNC milling.
 * [Kitspace.org](https://kitspace.org) - A place to build and share electronics projects. 
 * [BoardRepo](https://boardrepo.com) - Share KiCad and Altium projects as a link, with schematics, PCB views, BOM, and gerbers rendered in the browser.
+* [ICBOMS](https://icboms.com) - Open electronic component search engine, BOM management platform, and semiconductor distribution database.
+* [RoboPartPicker](https://robopartpicker.com) - Compiles bills of materials from open robotics projects and tracks parts sourcing, keeping unresolved and unpriced lines visible instead of dropping them.
 
 ## Podcasts
 
@@ -176,6 +181,7 @@
 * [Awesome Open Electronics ![GitHub Repo Stars](https://img.shields.io/github/stars/ajaymnk/open-electronics) ![GitHub last commit](https://img.shields.io/github/last-commit/ajaymnk/open-electronics)](https://github.com/ajaymnk/open-electronics) - List with resources for Electronics Enthusiasts.
 * [Awesome Open ![GitHub Repo Stars](https://img.shields.io/github/stars/paulhendricks/awesome-open) ![GitHub last commit](https://img.shields.io/github/last-commit/paulhendricks/awesome-open)](https://github.com/paulhendricks/awesome-open) - A list of open companies and communities.
 * [Awesome Electronics ![GitHub Repo Stars](https://img.shields.io/github/stars/kitspace/awesome-electronics) ![GitHub last commit](https://img.shields.io/github/last-commit/kitspace/awesome-electronics)](https://github.com/kitspace/awesome-electronics) - A curated list of awesome resources for electronic engineers and hobbyists.
+* [Awesome KiCad Projects ![GitHub Repo Stars](https://img.shields.io/github/stars/way2pramil/awesome-kicad-projects) ![GitHub last commit](https://img.shields.io/github/last-commit/way2pramil/awesome-kicad-projects)](https://github.com/way2pramil/awesome-kicad-projects) - Curated list of open source hardware projects whose PCBs are designed in KiCad.
 
 ## Contributing
 

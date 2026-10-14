@@ -933,6 +933,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
  * [Drift ![GitHub Repo Stars](https://img.shields.io/github/stars/imgix/drift) ![GitHub last commit](https://img.shields.io/github/last-commit/imgix/drift)](https://github.com/imgix/drift) - Easily add "zoom on hover" functionality to your site's images. Lightweight, no-dependency JavaScript.
  * [Magnificent.js ![GitHub Repo Stars](https://img.shields.io/github/stars/AndersDJohnson/magnificent.js) ![GitHub last commit](https://img.shields.io/github/last-commit/AndersDJohnson/magnificent.js)](https://github.com/AndersDJohnson/magnificent.js) - Zoom responsively, images & more, w/ jQuery.
  * [Panolens.js ![GitHub Repo Stars](https://img.shields.io/github/stars/pchen66/panolens.js) ![GitHub last commit](https://img.shields.io/github/last-commit/pchen66/panolens.js)](https://github.com/pchen66/panolens.js) - Panolens.js is an event-driven and WebGL based panorama viewer. Lightweight and flexible
+ * [SnapDOM ![GitHub Repo Stars](https://img.shields.io/github/stars/zumerlab/snapdom) ![GitHub last commit](https://img.shields.io/github/last-commit/zumerlab/snapdom)](https://github.com/zumerlab/snapdom) - Fast, dependency-free DOM to image capture (PNG, JPG, WebP, SVG) with PDF and vector SVG plugins.
 ## Gesture
 
 * [hammer.js ![GitHub Repo Stars](https://img.shields.io/github/stars/hammerjs/hammer.js) ![GitHub last commit](https://img.shields.io/github/last-commit/hammerjs/hammer.js)](https://github.com/hammerjs/hammer.js) - A JavaScript library for multi-touch gestures.
