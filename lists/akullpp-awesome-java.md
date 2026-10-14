@@ -1156,7 +1156,7 @@ _Libraries that assist with the creation, evaluation or manipulation of graphica
 
 > **[Imgscalr ![GitHub Repo Stars](https://img.shields.io/github/stars/rkalla/imgscalr) ![GitHub last commit](https://img.shields.io/github/last-commit/rkalla/imgscalr)](https://github.com/rkalla/imgscalr)** <kbd>★ 1.2k</kbd> <kbd>Apache-2.0</kbd> 🔴<br>Simple, efficient and hardware-accelerated image-scaling library implemented in pure Java 2D.
 
-> **[scrimage ![GitHub Repo Stars](https://img.shields.io/github/stars/sksamuel/scrimage) ![GitHub last commit](https://img.shields.io/github/last-commit/sksamuel/scrimage)](https://github.com/sksamuel/scrimage)** <kbd>★ 1.2k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Immutable, functional, and performant JVM library for manipulation of images.
+> **[scrimage ![GitHub Repo Stars](https://img.shields.io/github/stars/sksamuel/scrimage) ![GitHub last commit](https://img.shields.io/github/last-commit/sksamuel/scrimage)](https://github.com/sksamuel/scrimage)** <kbd>�� 1.2k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Immutable, functional, and performant JVM library for manipulation of images.
 
 > **[Tess4J ![GitHub Repo Stars](https://img.shields.io/github/stars/nguyenq/tess4j) ![GitHub last commit](https://img.shields.io/github/last-commit/nguyenq/tess4j)](https://github.com/nguyenq/tess4j)** <kbd>★ 1.8k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>JNA wrapper for Tesseract OCR API.
 
