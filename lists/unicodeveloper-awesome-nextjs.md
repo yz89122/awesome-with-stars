@@ -228,6 +228,7 @@ _List inspired by the [awesome ![GitHub Repo Stars](https://img.shields.io/githu
 - [shadcn/ui ![GitHub Repo Stars](https://img.shields.io/github/stars/shadcn/ui) ![GitHub last commit](https://img.shields.io/github/last-commit/shadcn/ui)](https://github.com/shadcn/ui) - Beautifully designed components that you can copy and paste into your apps.
 - [StorageBox ![GitHub Repo Stars](https://img.shields.io/github/stars/AlandSleman/StorageBox) ![GitHub last commit](https://img.shields.io/github/last-commit/AlandSleman/StorageBox)](https://github.com/AlandSleman/StorageBox) - A Simple File Storage Service Built with Go and Next.js.
 - [Taskade](https://taskade.com/) - AI-powered workspace for teams with real-time collaboration, AI agents, project management, and workflow automation.
+- [Vizz.fm](https://vizz.fm) - Browser-based music visualizer built with Next.js, Three.js, and the Web Audio API.
 
 ## Books
 
