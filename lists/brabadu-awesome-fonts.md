@@ -15,14 +15,12 @@ A curated list of fonts and typography resources.
 
 ## General
 * [27 fonts (give or take) that explain your world](https://www.vox.com/2015/2/8/7475667/27-fonts-give-or-take-that-explain-your-world)
-* [FontAlternatives](https://fontalternatives.com/) - Free alternatives to premium fonts with visual comparisons
 * [Fontjoy](http://fontjoy.com/) - Generate font combinations with deep learning
-* [Gulim](https://gulim.andrew-ai.app/) - AI-powered font recommendation engine with mood-based search for Korean and global fonts, cross-script pairing, and CSS code generation
-* [FontVibe](https://fontvibe.ai) - AI text effect generator with 100+ styles (neon, glitch, 3D, bubble, cyberpunk). Create visual typography effects and download as transparent PNG.
 * [Font Of Web](https://fontofweb.com) - Fonts from the most inspiring websites on the web
 * [Fonts In Use](https://fontsinuse.com/) - A public archive of typography
-* [FontsWiki](https://fontswiki.com/) - Free font downloads, pairing guides, and font-in-use references for logos, movies, games, and design projects
+* [font-contrast ![GitHub Repo Stars](https://img.shields.io/github/stars/ayaanahad/font-contrast) ![GitHub last commit](https://img.shields.io/github/last-commit/ayaanahad/font-contrast)](https://github.com/ayaanahad/font-contrast) - Measured x-height, cap height and real advance width for 54 open-source families, read from the font binaries. CC0 dataset.
 * [Typewolf](https://www.typewolf.com/)
+* [WhatFontIs-Bench ![GitHub Repo Stars](https://img.shields.io/github/stars/whatfontis/WhatFontIs-Bench) ![GitHub last commit](https://img.shields.io/github/last-commit/whatfontis/WhatFontIs-Bench)](https://github.com/whatfontis/WhatFontIs-Bench) - Open benchmark dataset for font identification: 11,995 images of words set in 600 known fonts on real surfaces and scenes
 
 ## Free fonts
 
@@ -60,10 +58,10 @@ A curated list of fonts and typography resources.
 * [Martian Mono ![GitHub Repo Stars](https://img.shields.io/github/stars/evilmartians/mono) ![GitHub last commit](https://img.shields.io/github/last-commit/evilmartians/mono)](https://github.com/evilmartians/mono) - Free and open-source monospaced font from Evil Martians
 * [Monaspace ![GitHub Repo Stars](https://img.shields.io/github/stars/githubnext/monaspace) ![GitHub last commit](https://img.shields.io/github/last-commit/githubnext/monaspace)](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code
 * [Open Baskerville](http://klepas.org/openbaskerville/)
-* [Optician Sans](https://optician-sans.com) - A free font based on the historical eye charts and optotypes used by opticians world wide
 * [Redacted ![GitHub Repo Stars](https://img.shields.io/github/stars/christiannaths/Redacted-Font) ![GitHub last commit](https://img.shields.io/github/last-commit/christiannaths/Redacted-Font)](https://github.com/christiannaths/Redacted-Font) - Keep your wireframes free of distracting Lorem Ipsum
 * [SansBullshitSans ![GitHub Repo Stars](https://img.shields.io/github/stars/RoelN/SansBullshitSans) ![GitHub last commit](https://img.shields.io/github/last-commit/RoelN/SansBullshitSans)](https://github.com/RoelN/SansBullshitSans)
 * [Urbanist ![GitHub Repo Stars](https://img.shields.io/github/stars/coreyhu/Urbanist) ![GitHub last commit](https://img.shields.io/github/last-commit/coreyhu/Urbanist)](https://github.com/coreyhu/Urbanist) - Geometric sans-serif variable font
+* [Vigil ![GitHub Repo Stars](https://img.shields.io/github/stars/vigilantkeno/vigilfont) ![GitHub last commit](https://img.shields.io/github/last-commit/vigilantkeno/vigilfont)](https://github.com/vigilantkeno/vigilfont) - A softened geometric grotesk for body copy, rounded by hierarchy rather than uniformly
 * [WorkSans ![GitHub Repo Stars](https://img.shields.io/github/stars/weiweihuanghuang/Work-Sans) ![GitHub last commit](https://img.shields.io/github/last-commit/weiweihuanghuang/Work-Sans)](https://github.com/weiweihuanghuang/Work-Sans)
 
 
@@ -213,4 +211,4 @@ A curated list of fonts and typography resources.
 
 ## Contribution
 
-Feel free to make a pull request. [Click here to read the guidelines ![GitHub Repo Stars](https://img.shields.io/github/stars/willianjusten/awesome-svg) ![GitHub last commit](https://img.shields.io/github/last-commit/willianjusten/awesome-svg)](https://github.com/willianjusten/awesome-svg/blob/master/contributing.md).
+Feel free to make a pull request. Please read the [contribution guidelines](CONTRIBUTING.md) first.

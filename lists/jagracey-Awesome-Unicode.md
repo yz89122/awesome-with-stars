@@ -476,7 +476,7 @@ The zero-width non-joiner (ZWNJ) is a non-printing character used in the compute
 | [U+FB04](https://codepoints.net/U+FB04?lang=en) | `ﬄ`       | LATIN SMALL LIGATURE FFL                                                 | `f`, `f`, `l`    | U+0066, U+0066, U+006C |
 | [U+FB05](https://codepoints.net/U+FB05?lang=en) | `ﬅ`       | LATIN SMALL LIGATURE LONG S T                                            | `s`, `t`         | U+0073, U+0074         |
 | [U+FB06](https://codepoints.net/U+FB06?lang=en) | `ﬆ`       | LATIN SMALL LIGATURE ST                                                  | `s`, `t`         | U+0073, U+0074         |
-| [U+FB13](https://codepoints.net/U+FB13?lang=en) | `ﬓ`       | ARMENIAN SMALL LIGATURE MEN NOW                                          | `��`, `ն`         | U+0574, U+0576         |
+| [U+FB13](https://codepoints.net/U+FB13?lang=en) | `ﬓ`       | ARMENIAN SMALL LIGATURE MEN NOW                                          | `մ`, `ն`         | U+0574, U+0576         |
 | [U+FB14](https://codepoints.net/U+FB14?lang=en) | `ﬔ`       | ARMENIAN SMALL LIGATURE MEN ECH                                          | `մ`, `ե`         | U+0574, U+0565         |
 | [U+FB15](https://codepoints.net/U+FB15?lang=en) | `ﬕ`       | ARMENIAN SMALL LIGATURE MEN INI                                          | `մ`, `ի`         | U+0574, U+056B         |
 | [U+FB16](https://codepoints.net/U+FB16?lang=en) | `ﬖ`       | ARMENIAN SMALL LIGATURE VEW NOW                                          | `վ`, `ն`         | U+057E, U+0576         |

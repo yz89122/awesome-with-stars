@@ -669,6 +669,7 @@
 - [json-graphql-server ![GitHub Repo Stars](https://img.shields.io/github/stars/marmelab/json-graphql-server) ![GitHub last commit](https://img.shields.io/github/last-commit/marmelab/json-graphql-server)](https://github.com/marmelab/json-graphql-server) - Get a full fake GraphQL API with zero coding in less than 30 seconds, based on a JSON data file.
 - [supertest-graphql ![GitHub Repo Stars](https://img.shields.io/github/stars/alexstrat/supertest-graphql) ![GitHub last commit](https://img.shields.io/github/last-commit/alexstrat/supertest-graphql)](https://github.com/alexstrat/supertest-graphql) - Extends supertest to easily test a GraphQL endpoint.
 - [schemathesis ![GitHub Repo Stars](https://img.shields.io/github/stars/schemathesis/schemathesis) ![GitHub last commit](https://img.shields.io/github/last-commit/schemathesis/schemathesis)](https://github.com/schemathesis/schemathesis) - Runs arbitrary queries matching a GraphQL schema to find server errors.
+- [fieldtwin](https://nickgeorgeai.com/fieldtwin) - Local, stateful twin of the Jobber GraphQL API, with its documented query costs, throttling, and webhooks, for testing integrations and AI agents.
 
 <a name="tool-security" />
 
