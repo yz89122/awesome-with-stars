@@ -79,6 +79,7 @@ Unmaintained projects, now only relevant for educational purposes, are in the [A
 > Applications and general-purpose tooling.
 
 - [Esport Team Logos ![GitHub Repo Stars](https://img.shields.io/github/stars/lootmarket/esport-team-logos) ![GitHub last commit](https://img.shields.io/github/last-commit/lootmarket/esport-team-logos)](https://github.com/lootmarket/esport-team-logos) - A database of Esports teams logos.
+- [TeamTavern ![GitHub Repo Stars](https://img.shields.io/github/stars/bklaric/team-tavern) ![GitHub last commit](https://img.shields.io/github/last-commit/bklaric/team-tavern)](https://github.com/bklaric/team-tavern) - A website for finding players, groups and communities to play with.
 
 **Counter-Strike: Global Offensive**
 
