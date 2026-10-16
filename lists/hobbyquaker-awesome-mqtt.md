@@ -243,6 +243,7 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 - [go-mqtt ![GitHub Repo Stars](https://img.shields.io/github/stars/go-mqtt/mqtt) ![GitHub last commit](https://img.shields.io/github/last-commit/go-mqtt/mqtt)](https://github.com/go-mqtt/mqtt) - MQTT client.
 - [MQTT for Go ![GitHub Repo Stars](https://img.shields.io/github/stars/jeffallen/mqtt) ![GitHub last commit](https://img.shields.io/github/last-commit/jeffallen/mqtt)](https://github.com/jeffallen/mqtt) - MQTT Clients, Servers and Load Testers in Go.
+- [mqttv5 ![GitHub Repo Stars](https://img.shields.io/github/stars/ashtonian/mqttv5) ![GitHub last commit](https://img.shields.io/github/last-commit/ashtonian/mqttv5)](https://github.com/ashtonian/mqttv5) - MQTT v5 client with allocation-free PUBLISH decoding, session resume, file-backed QoS 1/2 persistence and multi-broker failover.
 
 ### Lua
 
@@ -356,6 +357,7 @@ Here are complete firmwares to turn them into MQTT-controlled smart home nodes:
 
 - [mqttwarn](https://mqttwarn.readthedocs.io/) - Route and transform MQTT notifications, with 70+ built-in adapters for databases, messaging and other notification sinks.
 - [snmp2mqtt](https://c0d3.sh/andre/snmp2mqtt) - Python based SNMP v2 and v3 bridge to MQTT, active project in late 2025.
+- [SolidPing ![GitHub Repo Stars](https://img.shields.io/github/stars/fclairamb/solidping) ![GitHub last commit](https://img.shields.io/github/last-commit/fclairamb/solidping)](https://github.com/fclairamb/solidping) - Uptime monitoring with an MQTT broker check that connects (optional TLS and auth), publishes a message on a topic and waits for it to come back, recording connect and round-trip times. Also HTTP, TCP, DNS and many other check types, self-hosted or hosted.
 - [ccusage-mqtt ![GitHub Repo Stars](https://img.shields.io/github/stars/george-vice/ccusage-mqtt) ![GitHub last commit](https://img.shields.io/github/last-commit/george-vice/ccusage-mqtt)](https://github.com/george-vice/ccusage-mqtt) - Publishes Claude Code (Anthropic's AI coding agent) usage telemetry to MQTT with Home Assistant auto-discovery. 15 sensors, mood classifier.
 - [check-mqtt ![GitHub Repo Stars](https://img.shields.io/github/stars/jpmens/check-mqtt) ![GitHub last commit](https://img.shields.io/github/last-commit/jpmens/check-mqtt)](https://github.com/jpmens/check-mqtt) - A Nagios/Icinga plugin for checking connectivity to an MQTT broker.
 - [nag2mqtt ![GitHub Repo Stars](https://img.shields.io/github/stars/DE-IBH/nag2mqtt) ![GitHub last commit](https://img.shields.io/github/last-commit/DE-IBH/nag2mqtt)](https://github.com/DE-IBH/nag2mqtt) - Nagios event broker to MQTT gateway.

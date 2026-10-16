@@ -298,6 +298,7 @@ The [Choosing tools for Game Boy development](https://gbdev.io/guides/tools.html
 - [Tilemap Helper ![GitHub Repo Stars](https://img.shields.io/github/stars/bbbbbr/gimp-tilemap-helper) ![GitHub last commit](https://img.shields.io/github/last-commit/bbbbbr/gimp-tilemap-helper)](https://github.com/bbbbbr/gimp-tilemap-helper) - GIMP image editor plug-in for optimizing tile maps and tile sets.
 - [Tilemap Studio ![GitHub Repo Stars](https://img.shields.io/github/stars/Rangi42/tilemap-studio) ![GitHub last commit](https://img.shields.io/github/last-commit/Rangi42/tilemap-studio)](https://github.com/Rangi42/tilemap-studio) - A tilemap editor for Game Boy, Color, Advance, and SNES projects. Written in C++ with FLTK. 
 - [Superfamiconv ![GitHub Repo Stars](https://img.shields.io/github/stars/Optiroc/SuperFamiconv) ![GitHub last commit](https://img.shields.io/github/last-commit/Optiroc/SuperFamiconv)](https://github.com/Optiroc/SuperFamiconv) - Flexible and composable tile graphics converter supporting Super Nintendo, Game Boy, Game Boy Color, Game Boy Advance, Mega Drive and PC Engine formats.
+- [Tessarium](https://joelj.itch.io/tessarium) ‡ - Tile-first pixel art level editor with linked tile editing, shared tilesets, and live unique tile and colours-per-tile budget checks for Game Boy and Game Boy Color backgrounds.
 
 #### Hardware and ROM utilities
 
