@@ -12,7 +12,7 @@
     <a href="https://t.me/opensourcemacosapps"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-Channel-blue.svg" /></a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Total%20Apps-788-blue" alt="Total Apps"/>
+    <img src="https://img.shields.io/badge/Total%20Apps-795-blue" alt="Total Apps"/>
     <img src="https://img.shields.io/badge/Categories-49-green" alt="Categories"/>
     <img src="https://img.shields.io/badge/Last%20Updated-October%2016,%202026-orange" alt="Last Updated"/>
   </p>
@@ -44,9 +44,9 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 
 | Metric | Count |
 |--------|-------|
-| 📱 Total Applications | 788 |
+| 📱 Total Applications | 795 |
 | 📂 Categories | 49 |
-| 🔝 Top Languages | Swift: 372 • Objective-C: 140 • Javascript: 117 • C++: 60 • Typescript: 57 |
+| 🔝 Top Languages | Swift: 375 • Objective-C: 141 • Javascript: 118 • C++: 60 • Typescript: 59 |
 
 ## Languages
 
@@ -125,7 +125,7 @@ You can see in which language an app is written. Currently there are following l
 - [Window Management](#window-management)
 
 ## Applications
-### 🎵 Audio (45)
+### 🎵 Audio (46)
 - [[Un]MuteMic](https://github.com/CocoaHeadsBrasil/MuteUnmuteMic) - macOS app to mute & unmute the input volume of your microphone. Perfect for podcasters.
 
   **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/c-64.png' alt='C icon' title='C' height='16'/> C 
@@ -567,6 +567,23 @@ You can see in which language an app is written. Currently there are following l
   <p>
 
   <img src='https://raw.githubusercontent.com/bazalp/pulp/main/assets/img/app-pulp.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  </p>
+  </details>
+
+- [Qwen Scribe ![GitHub Repo Stars](https://img.shields.io/github/stars/VladUZH/qwen-scribe) ![GitHub last commit](https://img.shields.io/github/last-commit/VladUZH/qwen-scribe)](https://github.com/VladUZH/qwen-scribe) - Private, local transcription and system-wide dictation for Apple Silicon, powered by Qwen3-ASR on MLX.
+
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
+
+  **Website:** [https://github.com/VladUZH/qwen-scribe ![GitHub Repo Stars](https://img.shields.io/github/stars/VladUZH/qwen-scribe) ![GitHub last commit](https://img.shields.io/github/last-commit/VladUZH/qwen-scribe)](https://github.com/VladUZH/qwen-scribe)
+
+  <details>
+  <summary>Screenshots</summary>
+  <p>
+
+  <img src='https://raw.githubusercontent.com/VladUZH/qwen-scribe/main/docs/assets/hero.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  <img src='https://raw.githubusercontent.com/VladUZH/qwen-scribe/main/docs/assets/dictation-states.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
   </p>
   </details>
@@ -1445,7 +1462,7 @@ You can see in which language an app is written. Currently there are following l
 
   **Website:** [https://tablepro.app](https://tablepro.app)
 
-### 👨‍💻 Development (29)
+### 👨‍💻 Development (30)
 - [Agent Teams AI ![GitHub Repo Stars](https://img.shields.io/github/stars/777genius/agent-teams-ai) ![GitHub last commit](https://img.shields.io/github/last-commit/777genius/agent-teams-ai)](https://github.com/777genius/agent-teams-ai) - Desktop control center for coordinating autonomous AI coding agent teams across multiple providers.
 
   **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript 
@@ -1557,6 +1574,12 @@ You can see in which language an app is written. Currently there are following l
 
   </p>
   </details>
+
+- [DevProjex ![GitHub Repo Stars](https://img.shields.io/github/stars/Avazbek22/DevProjex) ![GitHub last commit](https://img.shields.io/github/last-commit/Avazbek22/DevProjex)](https://github.com/Avazbek22/DevProjex) - Cross-platform macOS codebase-context app for Intel and Apple Silicon, with GUI, TUI, CLI, live preview, redaction, and a built-in read-only MCP server.
+
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/csharp-64.png' alt='C# icon' title='C#' height='16'/> C# 
+
+  **Website:** [https://github.com/Avazbek22/DevProjex ![GitHub Repo Stars](https://img.shields.io/github/stars/Avazbek22/DevProjex) ![GitHub last commit](https://img.shields.io/github/last-commit/Avazbek22/DevProjex)](https://github.com/Avazbek22/DevProjex)
 
 - [Dorothy ![GitHub Repo Stars](https://img.shields.io/github/stars/Charlie85270/Dorothy) ![GitHub last commit](https://img.shields.io/github/last-commit/Charlie85270/Dorothy)](https://github.com/Charlie85270/Dorothy) - Desktop app to orchestrate multiple AI CLI agents simultaneously with automations, Kanban management, and remote control via Telegram.
 
@@ -3113,7 +3136,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-#### 📝 Markdown (16)
+#### 📝 Markdown (17)
 - [Edmund ![GitHub Repo Stars](https://img.shields.io/github/stars/I7T5/Edmund) ![GitHub last commit](https://img.shields.io/github/last-commit/I7T5/Edmund)](https://github.com/I7T5/Edmund) - Minimal, native macOS Markdown editor with live preview that works with your existing files, no vault.
 
   **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
@@ -3228,6 +3251,12 @@ You can see in which language an app is written. Currently there are following l
 
   </p>
   </details>
+
+- [NoteGen ![GitHub Repo Stars](https://img.shields.io/github/stars/codexu/note-gen) ![GitHub last commit](https://img.shields.io/github/last-commit/codexu/note-gen)](https://github.com/codexu/note-gen) - Local-first Markdown note-taking app that captures scattered information and organizes it into structured notes with AI.
+
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust 
+
+  **Website:** [https://notegen.top/](https://notegen.top/)
 
 - [Notenik ![GitHub Repo Stars](https://img.shields.io/github/stars/hbowie/notenik-swift) ![GitHub last commit](https://img.shields.io/github/last-commit/hbowie/notenik-swift)](https://github.com/hbowie/notenik-swift) - Note-taking app with many organizational options.
 
@@ -4061,7 +4090,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-### 🎨 Graphics (17)
+### 🎨 Graphics (19)
 - [Aseprite ![GitHub Repo Stars](https://img.shields.io/github/stars/aseprite/aseprite) ![GitHub last commit](https://img.shields.io/github/last-commit/aseprite/aseprite)](https://github.com/aseprite/aseprite) - Animated sprite editor & pixel art tool (Windows, macOS, Linux).
 
   **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++ <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/c-64.png' alt='C icon' title='C' height='16'/> C 
@@ -4111,6 +4140,23 @@ You can see in which language an app is written. Currently there are following l
   <p>
 
   <img src='https://raw.githubusercontent.com/DigiDNA/ColorSet/master/Assets/ColorSet.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  </p>
+  </details>
+
+- [CrossGen ![GitHub Repo Stars](https://img.shields.io/github/stars/Bliveren/CrossGen) ![GitHub last commit](https://img.shields.io/github/last-commit/Bliveren/CrossGen)](https://github.com/Bliveren/CrossGen) - Local-first AI image workspace for generating, editing, organizing, and reusing images through a desktop app, JSON CLI, and MCP-compatible agents.
+
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript 
+
+  **Website:** [https://www.corgnitor.com/products/crossgen](https://www.corgnitor.com/products/crossgen)
+
+  <details>
+  <summary>Screenshots</summary>
+  <p>
+
+  <img src='https://raw.githubusercontent.com/Bliveren/CrossGen/main/docs/assets/screenshot-workspace.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  <img src='https://raw.githubusercontent.com/Bliveren/CrossGen/main/docs/assets/screenshot-edit.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
   </p>
   </details>
@@ -4198,6 +4244,21 @@ You can see in which language an app is written. Currently there are following l
   <p>
 
   <img src='https://raw.githubusercontent.com/CleanCocoa/InfiniteCanvas/master/assets/title-sketch.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  </p>
+  </details>
+
+- [ItsPaint ![GitHub Repo Stars](https://img.shields.io/github/stars/joshlin2201/itspaint) ![GitHub last commit](https://img.shields.io/github/last-commit/joshlin2201/itspaint)](https://github.com/joshlin2201/itspaint) - Focused paint and screenshot markup app. Step badges, pixelate redaction, Instant Alpha. No account, no telemetry.
+
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
+  **Website:** [https://itspaintmac.com/](https://itspaintmac.com/)
+
+  <details>
+  <summary>Screenshots</summary>
+  <p>
+
+  <img src='https://raw.githubusercontent.com/joshlin2201/itspaint/main/docs/images/editor-window.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
   </p>
   </details>
@@ -4456,10 +4517,27 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-### 🖼️ Images (17)
+### 🖼️ Images (18)
 - [APNGb ![GitHub Repo Stars](https://img.shields.io/github/stars/shgodoroja/APNGb) ![GitHub last commit](https://img.shields.io/github/last-commit/shgodoroja/APNGb)](https://github.com/shgodoroja/APNGb) - macOS app which assembles and disassembles animated png files. 
 
   **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
+- [CrossGen ![GitHub Repo Stars](https://img.shields.io/github/stars/Bliveren/CrossGen) ![GitHub last commit](https://img.shields.io/github/last-commit/Bliveren/CrossGen)](https://github.com/Bliveren/CrossGen) - Local-first AI image workspace for generating, editing, organizing, and reusing images through a desktop app, JSON CLI, and MCP-compatible agents.
+
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript 
+
+  **Website:** [https://www.corgnitor.com/products/crossgen](https://www.corgnitor.com/products/crossgen)
+
+  <details>
+  <summary>Screenshots</summary>
+  <p>
+
+  <img src='https://raw.githubusercontent.com/Bliveren/CrossGen/main/docs/assets/screenshot-workspace.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  <img src='https://raw.githubusercontent.com/Bliveren/CrossGen/main/docs/assets/screenshot-edit.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  </p>
+  </details>
 
 - [Crunch ![GitHub Repo Stars](https://img.shields.io/github/stars/chrissimpkins/Crunch) ![GitHub last commit](https://img.shields.io/github/last-commit/chrissimpkins/Crunch)](https://github.com/chrissimpkins/Crunch) - Insane(ly slow but wicked good) PNG image optimization. 
 
@@ -4870,7 +4948,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-### 📊 Menubar (94)
+### 📊 Menubar (96)
 - [AIQuotaBar ![GitHub Repo Stars](https://img.shields.io/github/stars/yagcioglutoprak/AIQuotaBar) ![GitHub last commit](https://img.shields.io/github/last-commit/yagcioglutoprak/AIQuotaBar)](https://github.com/yagcioglutoprak/AIQuotaBar) - See your Claude.ai and ChatGPT usage limits live in your macOS menu bar.
 
   **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python 
@@ -5838,6 +5916,23 @@ You can see in which language an app is written. Currently there are following l
 
   **Website:** [https://swiftbar.app](https://swiftbar.app)
 
+- [Thaw ![GitHub Repo Stars](https://img.shields.io/github/stars/thaw-app/Thaw) ![GitHub last commit](https://img.shields.io/github/last-commit/thaw-app/Thaw)](https://github.com/thaw-app/Thaw) - Actively maintained menu bar manager for macOS 26+: hide and show items, search, hotkeys, profiles, and appearance controls.
+
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
+  **Website:** [https://www.getthaw.app](https://www.getthaw.app)
+
+  <details>
+  <summary>Screenshots</summary>
+  <p>
+
+  <img src='https://github.com/user-attachments/assets/9584065d-f840-4545-9a42-cfc5534b5ac3' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  <img src='https://github.com/user-attachments/assets/f2f6b9a6-55c5-40b3-910f-b27b114577dd' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  </p>
+  </details>
+
 - [TimeScribe ![GitHub Repo Stars](https://img.shields.io/github/stars/WINBIGFOX/timescribe) ![GitHub last commit](https://img.shields.io/github/last-commit/WINBIGFOX/timescribe)](https://github.com/WINBIGFOX/timescribe) - Simple and free working time recording.
 
   **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/css-64.png' alt='CSS icon' title='CSS' height='16'/> CSS <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript 
@@ -6000,6 +6095,12 @@ You can see in which language an app is written. Currently there are following l
 - [xbar ![GitHub Repo Stars](https://img.shields.io/github/stars/matryer/xbar) ![GitHub last commit](https://img.shields.io/github/last-commit/matryer/xbar)](https://github.com/matryer/xbar) - Put the output from any script or program into your macOS Menu Bar. 
 
   **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
+
+- [Yap ![GitHub Repo Stars](https://img.shields.io/github/stars/FrigadeHQ/yap) ![GitHub last commit](https://img.shields.io/github/last-commit/FrigadeHQ/yap)](https://github.com/FrigadeHQ/yap) - On-device voice dictation from the menu bar. Set a hotkey, talk, and the text is pasted into whatever field you were typing in. It runs offline in native Swift with no model to download.
+
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
+  **Website:** [https://frigade.com/yap](https://frigade.com/yap)
 
 ### 🎧 Music (17)
 - [Carol ![GitHub Repo Stars](https://img.shields.io/github/stars/AnaghSharma/Carol) ![GitHub last commit](https://img.shields.io/github/last-commit/AnaghSharma/Carol)](https://github.com/AnaghSharma/Carol) - A minimal and beautiful lyrics app that stays in the menu bar of macOS. 
@@ -6286,7 +6387,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-### 📔 Notes (23)
+### 📔 Notes (24)
 - [AutoDoc ![GitHub Repo Stars](https://img.shields.io/github/stars/DuetDisplay/AutoDoc) ![GitHub last commit](https://img.shields.io/github/last-commit/DuetDisplay/AutoDoc)](https://github.com/DuetDisplay/AutoDoc) - Private, local-first meeting notes with on-device transcription and AI summaries.
 
   **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
@@ -6430,6 +6531,12 @@ You can see in which language an app is written. Currently there are following l
 
   </p>
   </details>
+
+- [NoteGen ![GitHub Repo Stars](https://img.shields.io/github/stars/codexu/note-gen) ![GitHub last commit](https://img.shields.io/github/last-commit/codexu/note-gen)](https://github.com/codexu/note-gen) - Local-first Markdown note-taking app that captures scattered information and organizes it into structured notes with AI.
+
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust 
+
+  **Website:** [https://notegen.top/](https://notegen.top/)
 
 - [Notenik ![GitHub Repo Stars](https://img.shields.io/github/stars/hbowie/notenik-swift) ![GitHub last commit](https://img.shields.io/github/last-commit/hbowie/notenik-swift)](https://github.com/hbowie/notenik-swift) - Note-taking app with many organizational options.
 
@@ -6941,7 +7048,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-### ⏱️ Productivity (100)
+### ⏱️ Productivity (104)
 - [ActivityWatch ![GitHub Repo Stars](https://img.shields.io/github/stars/ActivityWatch/activitywatch) ![GitHub last commit](https://img.shields.io/github/last-commit/ActivityWatch/activitywatch)](https://github.com/ActivityWatch/activitywatch) - Open-source automated time tracker that tracks how you spend time on your devices.
 
   **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript 
@@ -7163,6 +7270,23 @@ You can see in which language an app is written. Currently there are following l
 - [ControlPlane ![GitHub Repo Stars](https://img.shields.io/github/stars/dustinrue/ControlPlane) ![GitHub last commit](https://img.shields.io/github/last-commit/dustinrue/ControlPlane)](https://github.com/dustinrue/ControlPlane) - Automate running tasks based on where you are or what you do. 
 
   **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
+
+- [CrossGen ![GitHub Repo Stars](https://img.shields.io/github/stars/Bliveren/CrossGen) ![GitHub last commit](https://img.shields.io/github/last-commit/Bliveren/CrossGen)](https://github.com/Bliveren/CrossGen) - Local-first AI image workspace for generating, editing, organizing, and reusing images through a desktop app, JSON CLI, and MCP-compatible agents.
+
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript 
+
+  **Website:** [https://www.corgnitor.com/products/crossgen](https://www.corgnitor.com/products/crossgen)
+
+  <details>
+  <summary>Screenshots</summary>
+  <p>
+
+  <img src='https://raw.githubusercontent.com/Bliveren/CrossGen/main/docs/assets/screenshot-workspace.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  <img src='https://raw.githubusercontent.com/Bliveren/CrossGen/main/docs/assets/screenshot-edit.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  </p>
+  </details>
 
 - [CrossMacro ![GitHub Repo Stars](https://img.shields.io/github/stars/alper-han/CrossMacro) ![GitHub last commit](https://img.shields.io/github/last-commit/alper-han/CrossMacro)](https://github.com/alper-han/CrossMacro) - A cross-platform macro recorder, player, editor, and text expansion tool.
 
@@ -7517,6 +7641,12 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
+- [NoteGen ![GitHub Repo Stars](https://img.shields.io/github/stars/codexu/note-gen) ![GitHub last commit](https://img.shields.io/github/last-commit/codexu/note-gen)](https://github.com/codexu/note-gen) - Local-first Markdown note-taking app that captures scattered information and organizes it into structured notes with AI.
+
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust 
+
+  **Website:** [https://notegen.top/](https://notegen.top/)
+
 - [Numi ![GitHub Repo Stars](https://img.shields.io/github/stars/nikolaeu/numi) ![GitHub last commit](https://img.shields.io/github/last-commit/nikolaeu/numi)](https://github.com/nikolaeu/numi) - Beautiful calculator app for macOS
 
   **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript 
@@ -7698,6 +7828,23 @@ You can see in which language an app is written. Currently there are following l
   <p>
 
   <img src='https://i.imgur.com/asCk1Ds.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  </p>
+  </details>
+
+- [Qwen Scribe ![GitHub Repo Stars](https://img.shields.io/github/stars/VladUZH/qwen-scribe) ![GitHub last commit](https://img.shields.io/github/last-commit/VladUZH/qwen-scribe)](https://github.com/VladUZH/qwen-scribe) - Private, local transcription and system-wide dictation for Apple Silicon, powered by Qwen3-ASR on MLX.
+
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
+
+  **Website:** [https://github.com/VladUZH/qwen-scribe ![GitHub Repo Stars](https://img.shields.io/github/stars/VladUZH/qwen-scribe) ![GitHub last commit](https://img.shields.io/github/last-commit/VladUZH/qwen-scribe)](https://github.com/VladUZH/qwen-scribe)
+
+  <details>
+  <summary>Screenshots</summary>
+  <p>
+
+  <img src='https://raw.githubusercontent.com/VladUZH/qwen-scribe/main/docs/assets/hero.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  <img src='https://raw.githubusercontent.com/VladUZH/qwen-scribe/main/docs/assets/dictation-states.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
   </p>
   </details>
@@ -8180,6 +8327,12 @@ You can see in which language an app is written. Currently there are following l
 - [Xournal++ ![GitHub Repo Stars](https://img.shields.io/github/stars/xournalpp/xournalpp) ![GitHub last commit](https://img.shields.io/github/last-commit/xournalpp/xournalpp)](https://github.com/xournalpp/xournalpp/) - Take handwritten notes with ease
 
   **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++ <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/Lua-64.png' alt='Lua icon' title='Lua' height='16'/> Lua <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/c-64.png' alt='C icon' title='C' height='16'/> C <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python 
+
+- [Yap ![GitHub Repo Stars](https://img.shields.io/github/stars/FrigadeHQ/yap) ![GitHub last commit](https://img.shields.io/github/last-commit/FrigadeHQ/yap)](https://github.com/FrigadeHQ/yap) - On-device voice dictation from the menu bar. Set a hotkey, talk, and the text is pasted into whatever field you were typing in. It runs offline in native Swift with no model to download.
+
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
+  **Website:** [https://frigade.com/yap](https://frigade.com/yap)
 
 - [Yippy ![GitHub Repo Stars](https://img.shields.io/github/stars/mattDavo/Yippy) ![GitHub last commit](https://img.shields.io/github/last-commit/mattDavo/Yippy)](https://github.com/mattDavo/Yippy) - macOS open source clipboard manager
 
@@ -9370,7 +9523,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-### 🛠️ Utilities (164)
+### 🛠️ Utilities (166)
 - [ActivityWatch ![GitHub Repo Stars](https://img.shields.io/github/stars/ActivityWatch/activitywatch) ![GitHub last commit](https://img.shields.io/github/last-commit/ActivityWatch/activitywatch)](https://github.com/ActivityWatch/activitywatch) - Open-source automated time tracker that tracks how you spend time on your devices.
 
   **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript 
@@ -10686,6 +10839,23 @@ You can see in which language an app is written. Currently there are following l
 
   **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust 
 
+- [Qwen Scribe ![GitHub Repo Stars](https://img.shields.io/github/stars/VladUZH/qwen-scribe) ![GitHub last commit](https://img.shields.io/github/last-commit/VladUZH/qwen-scribe)](https://github.com/VladUZH/qwen-scribe) - Private, local transcription and system-wide dictation for Apple Silicon, powered by Qwen3-ASR on MLX.
+
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
+
+  **Website:** [https://github.com/VladUZH/qwen-scribe ![GitHub Repo Stars](https://img.shields.io/github/stars/VladUZH/qwen-scribe) ![GitHub last commit](https://img.shields.io/github/last-commit/VladUZH/qwen-scribe)](https://github.com/VladUZH/qwen-scribe)
+
+  <details>
+  <summary>Screenshots</summary>
+  <p>
+
+  <img src='https://raw.githubusercontent.com/VladUZH/qwen-scribe/main/docs/assets/hero.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  <img src='https://raw.githubusercontent.com/VladUZH/qwen-scribe/main/docs/assets/dictation-states.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  </p>
+  </details>
+
 - [R2Drop ![GitHub Repo Stars](https://img.shields.io/github/stars/superhumancorp/r2drop) ![GitHub last commit](https://img.shields.io/github/last-commit/superhumancorp/r2drop)](https://github.com/superhumancorp/r2drop) - Native macOS menu bar application for uploading files to Cloudflare R2 storage.
 
   **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust 
@@ -11008,6 +11178,23 @@ You can see in which language an app is written. Currently there are following l
   **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python 
 
   **Website:** [https://gnome-terminator.org](https://gnome-terminator.org)
+
+- [Thaw ![GitHub Repo Stars](https://img.shields.io/github/stars/thaw-app/Thaw) ![GitHub last commit](https://img.shields.io/github/last-commit/thaw-app/Thaw)](https://github.com/thaw-app/Thaw) - Actively maintained menu bar manager for macOS 26+: hide and show items, search, hotkeys, profiles, and appearance controls.
+
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
+  **Website:** [https://www.getthaw.app](https://www.getthaw.app)
+
+  <details>
+  <summary>Screenshots</summary>
+  <p>
+
+  <img src='https://github.com/user-attachments/assets/9584065d-f840-4545-9a42-cfc5534b5ac3' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  <img src='https://github.com/user-attachments/assets/f2f6b9a6-55c5-40b3-910f-b27b114577dd' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  </p>
+  </details>
 
 - [The Blockstack Browser ![GitHub Repo Stars](https://img.shields.io/github/stars/stacks-network/blockstack-browser) ![GitHub last commit](https://img.shields.io/github/last-commit/stacks-network/blockstack-browser)](https://github.com/stacks-network/blockstack-browser) - Blockstack is an internet for decentralized apps where users own their data. The Blockstack Browser allows you to explore the Blockstack internet. 
 

@@ -331,7 +331,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [Lovely Toasts](https://codeberg.org/togfox/Lovely-Toasts) - Floating speech bubbles with text of your choice.
 * [lovepatch ![GitHub Repo Stars](https://img.shields.io/github/stars/notcl4y14/lovepatch) ![GitHub last commit](https://img.shields.io/github/last-commit/notcl4y14/lovepatch)](https://github.com/notcl4y14/lovepatch) - A simple 9-patch library for LÖVE.
 * [lovr-ui2d ![GitHub Repo Stars](https://img.shields.io/github/stars/immortalx74/lovr-ui2d) ![GitHub last commit](https://img.shields.io/github/last-commit/immortalx74/lovr-ui2d)](https://github.com/immortalx74/lovr-ui2d) - An immediate mode GUI library for LÖVR and LÖVE.
-* [LuaJIT-ImGui ![GitHub Repo Stars](https://img.shields.io/github/stars/sonoro1234/LuaJIT-ImGui) ![GitHub last commit](https://img.shields.io/github/last-commit/sonoro1234/LuaJIT-ImGui)](https://github.com/sonoro1234/LuaJIT-ImGui) - LuaJIT bindings for Dear ImGui with a LÖVE module; supports all cimgui widgets using cpp names for easy example copying.
+* [LuaJIT-ImGui ![GitHub Repo Stars](https://img.shields.io/github/stars/sonoro1234/LuaJIT-ImGui) ![GitHub last commit](https://img.shields.io/github/last-commit/sonoro1234/LuaJIT-ImGui)](https://github.com/sonoro1234/LuaJIT-ImGui) - LuaJIT bindings for Dear ImGui with a L��VE module; supports all cimgui widgets using cpp names for easy example copying.
 * [Luis ![GitHub Repo Stars](https://img.shields.io/github/stars/SiENcE/luis) ![GitHub last commit](https://img.shields.io/github/last-commit/SiENcE/luis)](https://github.com/SiENcE/luis) - Love UI System - A retained mode UI framework for LÖVE with input processing (mouse, keyboard, touch, gamepad), layer-, grid-, state-, theming-system, UI editor, 16+ widgets (for desktop & mobile).
 * [Lynx](https://gitlab.com/TSnake41/lynx) - Very-lightweight list-based UI library.
 * [MeowUI ![GitHub Repo Stars](https://img.shields.io/github/stars/MoonGameLab/MeowUI) ![GitHub last commit](https://img.shields.io/github/last-commit/MoonGameLab/MeowUI)](https://github.com/MoonGameLab/MeowUI) - Extensible library written in MoonScript that enables you to create your own GUI controls based on provided core modules for Löve2D.
@@ -393,7 +393,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [CS50 Introduction to Game Development](https://cs50.harvard.edu/games/) - Harvard Colleges CS50 OpenCourseWare.
 * [How to LÖVE](https://sheepolution.com/learn/book/contents) - A book by Sheepolution teaching LÖVE from the ground up.
 * [learn2love](https://rvagamejams.com/learn2love/) - Book for learning programming with Lua and LÖVE (Version 11.0+).
-* [Simple Game Tutorials](https://simplegametutorials.github.io/) - Tutorials for making simple games with L��VE (Snake, Sokoban, Tetris, etc.).
+* [Simple Game Tutorials](https://simplegametutorials.github.io/) - Tutorials for making simple games with LÖVE (Snake, Sokoban, Tetris, etc.).
 * [Tutorial on making an Arkanoid-type game ![GitHub Repo Stars](https://img.shields.io/github/stars/noooway/love2d_arkanoid_tutorial) ![GitHub last commit](https://img.shields.io/github/last-commit/noooway/love2d_arkanoid_tutorial)](https://github.com/noooway/love2d_arkanoid_tutorial/wiki) - A complete tutorial on how to make a breakout clone by nooowaay.
 * [Using Tiled Maps in LÖVE (archived)](https://web.archive.org/web/20230314215611/http://lua.space/gamedev/using-tiled-maps-in-love) - An article about using maps created with Tiled in your LÖVE game.
 
