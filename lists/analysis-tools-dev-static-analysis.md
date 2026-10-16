@@ -1022,7 +1022,7 @@ A ktfmt IntelliJ plugin is available from the plugin repository. To install it, 
 * 💪 Powerful: Detects unused, shadow and misplaced composer dependencies
 * ⚡ Performant: Scans 15 000 files in 2s!
 * ⚙️ Configurable: Fine-grained ignores via PHP config
-* 🕸️ Lightweight: No composer dependencies
+* ��️ Lightweight: No composer dependencies
 * 🍰 Easy-to-use: No config needed for first try
 * ✨ Compatible: PHP >= 7.2
 
@@ -1061,8 +1061,6 @@ A ktfmt IntelliJ plugin is available from the plugin repository. To install it, 
 - [PHPArkitect ![GitHub Repo Stars](https://img.shields.io/github/stars/phparkitect/arkitect) ![GitHub last commit](https://img.shields.io/github/last-commit/phparkitect/arkitect)](https://github.com/phparkitect/arkitect) — PHPArkitect helps you to keep your PHP codebase coherent and solid, by permitting to add some architectural constraint check to your workflow. You can express the constraint that you want to enforce, in simple and readable PHP code.
 
 - [phpDocumentor](https://www.phpdoc.org) — Analyzes PHP source code to generate documentation.
-
-- [phploc ![GitHub Repo Stars](https://img.shields.io/github/stars/sebastianbergmann/phploc) ![GitHub last commit](https://img.shields.io/github/last-commit/sebastianbergmann/phploc)](https://github.com/sebastianbergmann/phploc) — A tool for quickly measuring the size and analyzing the structure of a PHP project.
 
 - [PHPMD](https://phpmd.org) — Finds possible bugs in your code.
 
@@ -1168,6 +1166,10 @@ A ktfmt IntelliJ plugin is available from the plugin repository. To install it, 
 
 
 - **phpdoc-to-typehint** :warning: — Add scalar type hints and return types to existing PHP projects using PHPDoc annotations.
+
+
+
+- **phploc** :warning: — A tool for quickly measuring the size and analyzing the structure of a PHP project.
 
 
 
@@ -3444,6 +3446,8 @@ TruffleHog is an open source secret-scanning engine that resolves exposed secret
 - [commitlint](https://commitlint.js.org) — checks if your commit messages meet the conventional commit format
 
 - [GitGuardian ggshield](https://www.gitguardian.com/ggshield) — ggshield is a CLI application that runs in your local environment  or in a CI environment to help you detect more than 350+ types of secrets,  as well as other potential security vulnerabilities or policy breaks affecting your codebase.
+
+- [GitStats ![GitHub Repo Stars](https://img.shields.io/github/stars/shenxianpeng/gitstats) ![GitHub last commit](https://img.shields.io/github/last-commit/shenxianpeng/gitstats)](https://github.com/shenxianpeng/gitstats) — Generates a static HTML report from a Git repository's history: activity, authors, code ownership, hotspots and bus factor, file churn, tags and lines of code over time. It also counts the commits that name an AI coding assistant (agent accounts, Co-authored-by and Assisted-by lines). Works on any Git repository with only git and Python, writes JSON, compares several repositories, and runs as a GitHub Action.
 
 - [HasMySecretLeaked](https://gitguardian.com/hasmysecretleaked) :copyright: — HasMySecretLeaked is a project from GitGuardian that aims to help individual users and organizations search across 20 million exposed secrets to verify if their  developer secrets have leaked on public repositories, gists, and issues on GitHub projects.
 

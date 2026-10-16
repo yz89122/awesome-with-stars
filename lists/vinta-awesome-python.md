@@ -1085,6 +1085,7 @@ _Libraries for package and dependency management._
   - [setuptools ![GitHub Repo Stars](https://img.shields.io/github/stars/pypa/setuptools) ![GitHub last commit](https://img.shields.io/github/last-commit/pypa/setuptools)](https://github.com/pypa/setuptools) - The historical and still most widely used pyproject build backend.
   - [hatchling ![GitHub Repo Stars](https://img.shields.io/github/stars/pypa/hatch) ![GitHub last commit](https://img.shields.io/github/last-commit/pypa/hatch)](https://github.com/pypa/hatch) - Modern, extensible build backend from the hatch project.
   - [poetry-core ![GitHub Repo Stars](https://img.shields.io/github/stars/python-poetry/poetry-core) ![GitHub last commit](https://img.shields.io/github/last-commit/python-poetry/poetry-core)](https://github.com/python-poetry/poetry-core) - Poetry's PEP 517 build backend, usable without Poetry itself.
+  - [flit-core ![GitHub Repo Stars](https://img.shields.io/github/stars/pypa/flit) ![GitHub last commit](https://img.shields.io/github/last-commit/pypa/flit)](https://github.com/pypa/flit) - Minimal, dependency-free build backend for pure-Python packages.
   - [uv-build ![GitHub Repo Stars](https://img.shields.io/github/stars/astral-sh/uv) ![GitHub last commit](https://img.shields.io/github/last-commit/astral-sh/uv)](https://github.com/astral-sh/uv) - uv's fast, minimal build backend for pure-Python projects.
 
 ### Package Repositories
