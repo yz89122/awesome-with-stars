@@ -233,6 +233,7 @@ The [Choosing tools for Game Boy development](https://gbdev.io/guides/tools.html
   - [Examples ![GitHub Repo Stars](https://img.shields.io/github/stars/mrombout/gbdk_playground) ![GitHub last commit](https://img.shields.io/github/last-commit/mrombout/gbdk_playground)](https://github.com/mrombout/gbdk_playground)
   - [Documentation, links and tools](https://gbdk-2020.github.io/gbdk-2020/docs/api/docs_links_and_tools.html)
 - [Turbo Rascal Syntax Error](https://lemonspawn.com/turbo-rascal-syntax-error-expected-but-begin/) - Complete suite (IDE, compiler, programming language, resource editor) intended for developing games/demos for 8 / 16-bit line of computers, including the Game Boy and Game Boy Color.
+- [LLVM-Z80 ![GitHub Repo Stars](https://img.shields.io/github/stars/llvm-z80/llvm-z80) ![GitHub last commit](https://img.shields.io/github/last-commit/llvm-z80/llvm-z80)](https://github.com/llvm-z80/llvm-z80) † - A fork of LLVM with a backend for the Game Boy CPU (SM83), supporting the latest C standards and LLVM’s excellent optimizations.
 
 #### Experimental/Proof of Concepts
 
@@ -243,7 +244,6 @@ The [Choosing tools for Game Boy development](https://gbdev.io/guides/tools.html
 - [gbasm ![GitHub Repo Stars](https://img.shields.io/github/stars/BonsaiDen/gbasm) ![GitHub last commit](https://img.shields.io/github/last-commit/BonsaiDen/gbasm)](https://github.com/BonsaiDen/gbasm) - A JavaScript based compiler for Game Boy z80 assembly code.
 - [tniASM](http://www.tni.nl/products/tniasm.html) - Macro Assembler.
 - [Assembler ![GitHub Repo Stars](https://img.shields.io/github/stars/ulrikdamm/Assembler) ![GitHub last commit](https://img.shields.io/github/last-commit/ulrikdamm/Assembler)](https://github.com/ulrikdamm/Assembler) - written in Swift.
-- [llvm-gbz80 ![GitHub Repo Stars](https://img.shields.io/github/stars/Bevinsky/llvm-gbz80) ![GitHub last commit](https://img.shields.io/github/last-commit/Bevinsky/llvm-gbz80)](https://github.com/Bevinsky/llvm-gbz80) / [clang-gbz80 ![GitHub Repo Stars](https://img.shields.io/github/stars/Bevinsky/clang-gbz80) ![GitHub last commit](https://img.shields.io/github/last-commit/Bevinsky/clang-gbz80)](https://github.com/Bevinsky/clang-gbz80) - Clang/LLVM port to the GBZ80 CPU (similar to the deprecated [euclio/llvm-gbz80 ![GitHub Repo Stars](https://img.shields.io/github/stars/euclio/llvm-gbz80) ![GitHub last commit](https://img.shields.io/github/last-commit/euclio/llvm-gbz80)](https://github.com/euclio/llvm-gbz80)).
 - [gbdk-go ![GitHub Repo Stars](https://img.shields.io/github/stars/pokemium/gbdk-go) ![GitHub last commit](https://img.shields.io/github/last-commit/pokemium/gbdk-go)](https://github.com/pokemium/gbdk-go) - A compiler translates Go programs to C code. The output C code is built into GB ROM by GBDK.
 - [Rust-GB ![GitHub Repo Stars](https://img.shields.io/github/stars/zlfn/rust-gb) ![GitHub last commit](https://img.shields.io/github/last-commit/zlfn/rust-gb)](https://github.com/zlfn/rust-gb) - A toolchain and SDK that enable the development of GB ROMs using Rust.
 
