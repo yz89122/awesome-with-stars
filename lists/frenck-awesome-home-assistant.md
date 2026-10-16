@@ -56,7 +56,7 @@ to suggest additions, updates or removals.
   - [🚨 Security & alarm](#-security--alarm)
   - [🔊 Voice & media playback](#-voice--media-playback)
   - [🚗 Cars & EV charging](#-cars--ev-charging)
-  - [�� Presence & location](#-presence--location)
+  - [📍 Presence & location](#-presence--location)
   - [🧹 Vacuums](#-vacuums)
   - [🔵 Bluetooth & BLE](#-bluetooth--ble)
   - [🔋 Battery monitoring](#-battery-monitoring)
