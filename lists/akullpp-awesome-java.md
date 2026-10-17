@@ -1382,7 +1382,7 @@ _Tools that help send messages between clients to ensure protocol independency._
 
 _Tools for creating and managing microservices._
 
-> **[Armeria ![GitHub Repo Stars](https://img.shields.io/github/stars/line/armeria) ![GitHub last commit](https://img.shields.io/github/last-commit/line/armeria)](https://github.com/line/armeria)** <kbd>★ 5.1k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Asynchronous RPC/REST client/server library built on top of Java 8, Netty, HTTP/2, Thrift and gRPC.
+> **[Armeria ![GitHub Repo Stars](https://img.shields.io/github/stars/line/armeria) ![GitHub last commit](https://img.shields.io/github/last-commit/line/armeria)](https://github.com/line/armeria)** <kbd>★ 5.1k</kbd> <kbd>Apache-2.0</kbd> ���<br>Asynchronous RPC/REST client/server library built on top of Java 8, Netty, HTTP/2, Thrift and gRPC.
 
 > **[Eureka ![GitHub Repo Stars](https://img.shields.io/github/stars/Netflix/eureka) ![GitHub last commit](https://img.shields.io/github/last-commit/Netflix/eureka)](https://github.com/Netflix/eureka)** <kbd>★ 12.7k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>REST-based service registry for resilient load balancing and failover.
 
@@ -1834,7 +1834,7 @@ _Java proxy and gateway servers for routing and mediating traffic._
 
 _Libraries for developing reactive applications._
 
-> **[Akka ![GitHub Repo Stars](https://img.shields.io/github/stars/akka/akka) ![GitHub last commit](https://img.shields.io/github/last-commit/akka/akka)](https://github.com/akka/akka)** <kbd>★ 13.3k</kbd> ��<br>Toolkit and runtime for building concurrent, distributed, fault-tolerant and event-driven applications.
+> **[Akka ![GitHub Repo Stars](https://img.shields.io/github/stars/akka/akka) ![GitHub last commit](https://img.shields.io/github/last-commit/akka/akka)](https://github.com/akka/akka)** <kbd>★ 13.3k</kbd> 🟢<br>Toolkit and runtime for building concurrent, distributed, fault-tolerant and event-driven applications.
 
 > **[Reactive Streams ![GitHub Repo Stars](https://img.shields.io/github/stars/reactive-streams/reactive-streams-jvm) ![GitHub last commit](https://img.shields.io/github/last-commit/reactive-streams/reactive-streams-jvm)](https://github.com/reactive-streams/reactive-streams-jvm)** <kbd>★ 4.9k</kbd> <kbd>MIT-0</kbd> 🔴<br>Provides a standard for asynchronous stream processing with non-blocking backpressure.
 

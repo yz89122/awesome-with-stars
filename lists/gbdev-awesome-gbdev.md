@@ -361,14 +361,17 @@ Fragments of code, effects, proof of concepts and generally non complete games.
 - [bootstrap.gb ![GitHub Repo Stars](https://img.shields.io/github/stars/yenatch/bootstrap.gb) ![GitHub last commit](https://img.shields.io/github/last-commit/yenatch/bootstrap.gb)](https://github.com/yenatch/bootstrap.gb) - An example Game Boy project.
 - [Gameboy Boilerplate ![GitHub Repo Stars](https://img.shields.io/github/stars/junebug12851/GameboyBoilerplateProj) ![GitHub last commit](https://img.shields.io/github/last-commit/junebug12851/GameboyBoilerplateProj)](https://github.com/junebug12851/GameboyBoilerplateProj) - Boilerplate project to move quicker into the actual assembly code for your game.
 - [GingerBread ![GitHub Repo Stars](https://img.shields.io/github/stars/ahrnbom/gingerbread) ![GitHub last commit](https://img.shields.io/github/last-commit/ahrnbom/gingerbread)](https://github.com/ahrnbom/gingerbread) - A software library for making your own Game Boy games. It is made to be used alongside the book [Game Boy Assembly Programming for the Modern Game Developer ![GitHub Repo Stars](https://img.shields.io/github/stars/ahrnbom/gbapfomgd) ![GitHub last commit](https://img.shields.io/github/last-commit/ahrnbom/gbapfomgd)](https://github.com/ahrnbom/gbapfomgd) which also doubles as documentation.
-- [gb-vwf ![GitHub Repo Stars](https://img.shields.io/github/stars/ISSOtm/gb-vwf) ![GitHub last commit](https://img.shields.io/github/last-commit/ISSOtm/gb-vwf)](https://github.com/ISSOtm/gb-vwf) - Library to print variable-width text, comes with a demo.
-- [gb-boilerplate ![GitHub Repo Stars](https://img.shields.io/github/stars/ISSOtm/gb-boilerplate) ![GitHub last commit](https://img.shields.io/github/last-commit/ISSOtm/gb-boilerplate)](https://github.com/ISSOtm/gb-boilerplate) - A template for starting Game Boy projects, providing a Makefile for infrastructure.
-- [gb-starter-kit ![GitHub Repo Stars](https://img.shields.io/github/stars/ISSOtm/gb-starter-kit) ![GitHub last commit](https://img.shields.io/github/last-commit/ISSOtm/gb-starter-kit)](https://github.com/ISSOtm/gb-starter-kit) - An expansion on the above, including base library code as well to get started faster.
+- [gb-vwf](https://codeberg.org/ISSOtm/gb-vwf) - Library to print variable-width text, comes with a demo.
+- [gb-boilerplate](https://codeberg.org/ISSOtm/gb-boilerplate) - A template for starting Game Boy projects, providing a Makefile for infrastructure.
+- [gb-starter-kit](https://codeberg.org/ISSOtm/gb-starter-kit) - An expansion on the above, including base library code as well to get started faster.
 - [gb-template ![GitHub Repo Stars](https://img.shields.io/github/stars/gb-archive/gb-template) ![GitHub last commit](https://img.shields.io/github/last-commit/gb-archive/gb-template)](https://github.com/gb-archive/gb-template) - A template with basic functions such as joypad input, DMA transfers, and map/tile data loading.
+- [rgbds-structs](https://codeberg.org/ISSOtm/rgbds-structs) - A macro pack that provides struct-like functionality.
+- [rgbds-arrays ![GitHub Repo Stars](https://img.shields.io/github/stars/Rangi42/rgbds-arrays) ![GitHub last commit](https://img.shields.io/github/last-commit/Rangi42/rgbds-arrays)](https://github.com/Rangi42/rgbds-arrays) - A macro pack that provides array-like functionality.
+- [regex.inc ![GitHub Repo Stars](https://img.shields.io/github/stars/evie-calico/regex.inc) ![GitHub last commit](https://img.shields.io/github/last-commit/evie-calico/regex.inc)](https://github.com/evie-calico/regex.inc) - A regular expression parser in assembly macros.
 
 #### Syntax highlighting packages
 
-- [gbz80-highlight ![GitHub Repo Stars](https://img.shields.io/github/stars/ISSOtm/gbz80-highlight) ![GitHub last commit](https://img.shields.io/github/last-commit/ISSOtm/gbz80-highlight)](https://github.com/ISSOtm/gbz80-highlight) - Notepad+- and gedit syntax highlighting files for RGBDS assembly.
+- [gbz80-highlight](https://codeberg.org/ISSOtm/gbz80-highlight) - Notepad+- and gedit syntax highlighting files for RGBDS assembly.
 - [Vim syntax file for the Game Boy assembler RGBASM](http://www.vim.org/scripts/script.php?script_id=819) - Vim syntax highlighting for RGBDS assembly.
 - [Vim syntax file for RGBDS ![GitHub Repo Stars](https://img.shields.io/github/stars/Leandros/dotfiles) ![GitHub last commit](https://img.shields.io/github/last-commit/Leandros/dotfiles)](https://github.com/Leandros/dotfiles/blob/master/.vim/syntax/rgbds.vim) - Another Vim syntax highlighting file for RGBDS assembly.
 - [sublime-rgbds](https://packagecontrol.io/packages/RGBDS) - A Sublime Text 3 package for RGBDS, including syntax highlighting and some completion snippets.
@@ -419,7 +422,7 @@ Complete and open source games.
 - [kupman ![GitHub Repo Stars](https://img.shields.io/github/stars/dubvulture/gbdev) ![GitHub last commit](https://img.shields.io/github/last-commit/dubvulture/gbdev)](https://github.com/dubvulture/gbdev) and some other projects.
 - [Adjustris ![GitHub Repo Stars](https://img.shields.io/github/stars/tbsp/Adjustris) ![GitHub last commit](https://img.shields.io/github/last-commit/tbsp/Adjustris)](https://github.com/tbsp/Adjustris)
 - [exeman ![GitHub Repo Stars](https://img.shields.io/github/stars/gb-archive/exeman) ![GitHub last commit](https://img.shields.io/github/last-commit/gb-archive/exeman)](https://github.com/gb-archive/exeman)
-- [Aevilia ![GitHub Repo Stars](https://img.shields.io/github/stars/ISSOtm/Aevilia-GB) ![GitHub last commit](https://img.shields.io/github/last-commit/ISSOtm/Aevilia-GB)](https://github.com/ISSOtm/Aevilia-GB)
+- [Aevilia](https://codeberg.org/ISSOtm/Aevilia-GB)
 - [GBSlides ![GitHub Repo Stars](https://img.shields.io/github/stars/Kartones/gameboy) ![GitHub last commit](https://img.shields.io/github/last-commit/Kartones/gameboy)](https://github.com/Kartones/gameboy) - A simple Game Boy Powerpoint-like slides viewer.
 - [Pokered-gbc ![GitHub Repo Stars](https://img.shields.io/github/stars/dannye/pokered-gbc) ![GitHub last commit](https://img.shields.io/github/last-commit/dannye/pokered-gbc)](https://github.com/dannye/pokered-gbc) - Pokémon Red remade with full GBC support.
 - [ToyToy ![GitHub Repo Stars](https://img.shields.io/github/stars/tslanina/Retro-GameBoyColor-ToyToy) ![GitHub last commit](https://img.shields.io/github/last-commit/tslanina/Retro-GameBoyColor-ToyToy)](https://github.com/tslanina/Retro-GameBoyColor-ToyToy)
@@ -491,6 +494,7 @@ Complete and open source games.
 - [matrix-rain-gb ![GitHub Repo Stars](https://img.shields.io/github/stars/wtjones/matrix-rain-gb) ![GitHub last commit](https://img.shields.io/github/last-commit/wtjones/matrix-rain-gb)](https://github.com/wtjones/matrix-rain-gb) - A Matrix digital rain effect in assembler.
 - [GBVideoPlayer ![GitHub Repo Stars](https://img.shields.io/github/stars/LIJI32/GBVideoPlayer) ![GitHub last commit](https://img.shields.io/github/last-commit/LIJI32/GBVideoPlayer)](https://github.com/LIJI32/GBVideoPlayer) - A technical demo demonstrating how the Game Boy LCD controller can be hacked to make a Game Boy Color play a full motion video in color, together with music.
 - [GBVideoPlayer2 ![GitHub Repo Stars](https://img.shields.io/github/stars/LIJI32/GBVideoPlayer2) ![GitHub last commit](https://img.shields.io/github/last-commit/LIJI32/GBVideoPlayer2)](https://github.com/LIJI32/GBVideoPlayer2) - The second iteration of the above demo, which increases the resolution, adds *stereo* PCM audio, and introduces *video compression*.
+- [Game Boy Demospotting](https://privat.bahnhof.se/wb800787/gb/) - An archive of Game Boy software demos made from 1996 to 2020.
 
 ## Reverse Engineering
 
