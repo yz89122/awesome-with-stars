@@ -670,6 +670,7 @@
 - [supertest-graphql ![GitHub Repo Stars](https://img.shields.io/github/stars/alexstrat/supertest-graphql) ![GitHub last commit](https://img.shields.io/github/last-commit/alexstrat/supertest-graphql)](https://github.com/alexstrat/supertest-graphql) - Extends supertest to easily test a GraphQL endpoint.
 - [schemathesis ![GitHub Repo Stars](https://img.shields.io/github/stars/schemathesis/schemathesis) ![GitHub last commit](https://img.shields.io/github/last-commit/schemathesis/schemathesis)](https://github.com/schemathesis/schemathesis) - Runs arbitrary queries matching a GraphQL schema to find server errors.
 - [fieldtwin](https://nickgeorgeai.com/fieldtwin) - Local, stateful twin of the Jobber GraphQL API, with its documented query costs, throttling, and webhooks, for testing integrations and AI agents.
+- [MockForge ![GitHub Repo Stars](https://img.shields.io/github/stars/SaaSy-Solutions/mockforge) ![GitHub last commit](https://img.shields.io/github/last-commit/SaaSy-Solutions/mockforge)](https://github.com/SaaSy-Solutions/mockforge) - Open-source mock server that serves a GraphQL API from an SDL schema with generated data, alongside REST, gRPC, WebSocket, and Kafka mocks.
 
 <a name="tool-security" />
 
