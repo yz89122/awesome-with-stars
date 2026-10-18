@@ -16,7 +16,6 @@ A curated list of fonts and typography resources.
 ## General
 * [27 fonts (give or take) that explain your world](https://www.vox.com/2015/2/8/7475667/27-fonts-give-or-take-that-explain-your-world)
 * [Fontjoy](http://fontjoy.com/) - Generate font combinations with deep learning
-* [Font Of Web](https://fontofweb.com) - Fonts from the most inspiring websites on the web
 * [Fonts In Use](https://fontsinuse.com/) - A public archive of typography
 * [font-contrast ![GitHub Repo Stars](https://img.shields.io/github/stars/ayaanahad/font-contrast) ![GitHub last commit](https://img.shields.io/github/last-commit/ayaanahad/font-contrast)](https://github.com/ayaanahad/font-contrast) - Measured x-height, cap height and real advance width for 54 open-source families, read from the font binaries. CC0 dataset.
 * [Typewolf](https://www.typewolf.com/)
@@ -100,7 +99,6 @@ A curated list of fonts and typography resources.
 * [Appa Sariicon ![GitHub Repo Stars](https://img.shields.io/github/stars/sariina/appa-sariicon) ![GitHub last commit](https://img.shields.io/github/last-commit/sariina/appa-sariicon)](https://github.com/sariina/appa-sariicon) - 147 8-bit retro style webfont icons form web and mobile
 * [Country Icons ![GitHub Repo Stars](https://img.shields.io/github/stars/lipis/flag-icon-css) ![GitHub last commit](https://img.shields.io/github/last-commit/lipis/flag-icon-css)](https://github.com/lipis/flag-icon-css) - A collection of all country flags in SVG and CSS
 * [Crypto animal font ![GitHub Repo Stars](https://img.shields.io/github/stars/ariassd/crypto-animal-font) ![GitHub last commit](https://img.shields.io/github/last-commit/ariassd/crypto-animal-font)](https://github.com/ariassd/crypto-animal-font) - This font translates alphabet characters into symbols. The english ordered version uses animals matching the first letter of their name.
-* [Evil Icons](http://evil-icons.io/) Simple and clean SVG icon pack with the code to support Rails, Sprockets, Node.js, Gulp, Grunt and CDN
 * [Font Custom ![GitHub Repo Stars](https://img.shields.io/github/stars/FontCustom/fontcustom) ![GitHub last commit](https://img.shields.io/github/last-commit/FontCustom/fontcustom)](https://github.com/FontCustom/fontcustom) - Icon font generator
 * [Font-Awesome](https://fontawesome.com) - The iconic font and CSS toolkit
 * [font-mfizz ![GitHub Repo Stars](https://img.shields.io/github/stars/fizzed/font-mfizz) ![GitHub last commit](https://img.shields.io/github/last-commit/fizzed/font-mfizz)](https://github.com/fizzed/font-mfizz) - Vector Icons for Technology and Software Geeks
