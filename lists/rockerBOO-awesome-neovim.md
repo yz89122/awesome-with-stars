@@ -693,6 +693,7 @@ then it is not supported:
 - **_`[Fnl]`_** - Is written in Fennel.
 <!--lint enable awesome-list-item-->
 
+- [zacesshq/zacess.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/zacesshq/zacess.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/zacesshq/zacess.nvim)](https://github.com/zacesshq/zacess.nvim) - **_`[TS][LSP][L/D][Lua]`_** High contrast, yellow on black and cream color schemes with every text and syntax colour at 7:1 contrast or more.
 - [daaanny90/interlinked.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/daaanny90/interlinked.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/daaanny90/interlinked.nvim)](https://github.com/daaanny90/interlinked.nvim) - **_`[TS][LSP][Lua]`_** Melancholic Blade Runner 2049 colorscheme with ambient neon-flicker effects and a baseline-test session report.
 - [rezniqov/soviet.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/rezniqov/soviet.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/rezniqov/soviet.nvim)](https://github.com/rezniqov/soviet.nvim) - **_`[TS][LSP][L/D][Lua]`_** Warm colorschemes inspired by soviet visual culture.
 - [ThorstenRhau/token ![GitHub Repo Stars](https://img.shields.io/github/stars/ThorstenRhau/token) ![GitHub last commit](https://img.shields.io/github/last-commit/ThorstenRhau/token)](https://github.com/ThorstenRhau/token) - **_`[TS][LSP][L/D][Lua]`_** Token has warm tones and careful contrast, with full Tree-sitter and LSP integration.

@@ -347,7 +347,7 @@ Now that you're somewhat familiar with the concepts and practice of accounting, 
 
 - [Managed accounts for Django ![GitHub Repo Stars](https://img.shields.io/github/stars/django-oscar/django-oscar-accounts) ![GitHub last commit](https://img.shields.io/github/last-commit/django-oscar/django-oscar-accounts)](https://github.com/django-oscar/django-oscar-accounts) - 🆓 A 'managed account' is an allocation of money that can be debited and credited. Community-maintained django-oscar extension.
 
-- [Triple‐entry accounting with Blockchain: How far have we come?](https://sci-hub.st/10.1111/acfi.12556) - “Triple‐entry accounting is a new and a more efficient way to address fundamental trust and transparency issues that plague current accounting systems. Triple‐entry accounting with Blockchain, when properly implemented, can fundamentally improve accounting.��
+- [Triple‐entry accounting with Blockchain: How far have we come?](https://sci-hub.st/10.1111/acfi.12556) - “Triple‐entry accounting is a new and a more efficient way to address fundamental trust and transparency issues that plague current accounting systems. Triple‐entry accounting with Blockchain, when properly implemented, can fundamentally improve accounting.”
 
 ### Currencies
 
@@ -671,7 +671,7 @@ How much value do you produce per customer? The Customer Lifetime Value (CLV, or
 
 - [How to project customer retention](https://faculty.wharton.upenn.edu/wp-content/uploads/2012/04/Fader_hardie_jim_07.pdf) - A seminal paper, with a stronger approach compared to the one above: [the exponential distributions is replaced by a geometric model](https://news.ycombinator.com/item?id=24833319), which is better suited to discrete time intervals like monthly contracts, the former being more appropriate to continuous time process.
 
-- [Survival Analysis For Customer Retention](https://two-wrongs.com/survival-analysis-for-customer-retention.html) - Illustrates how retention can be better modelled using a survival function like [Kaplan–Meier survival curves](https://two-wrongs.com/bootstrapping-kaplan-meier-confidence-intervals.html).
+- [Survival Analysis For Customer Retention](https://two-wrongs.com/survival-analysis-for-customer-retention.html) - Illustrates how retention can be better modelled using a survival function like [Kaplan��Meier survival curves](https://two-wrongs.com/bootstrapping-kaplan-meier-confidence-intervals.html).
 
 - [RFM (customer value)](https://en.wikipedia.org/wiki/RFM_%28customer_value%29) - A refined model of CLV, used to segment users based on Recency, Frequency and Monetary value.
 
