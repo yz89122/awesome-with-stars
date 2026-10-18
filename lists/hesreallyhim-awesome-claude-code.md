@@ -45,12 +45,13 @@ The current iteration of the list, such as you see it today, was launched with t
 - [Documentation, Knowledge & Learning](#documentation-knowledge--learning)
   - [Obsidian](#obsidian)
   - [Data Visualization](#data-visualization)
-- [Open Source Software](#open-source-software)
+- [Open Source Contribution & Maintenance](#open-source-contribution--maintenance)
 - [Research & Scientific Inquiry](#research--scientific-inquiry)
 - [Providers, Runtime & Integration Infrastructure](#providers-runtime--integration-infrastructure)
 - [Remote Control, Notifications & Voice I/O](#remote-control-notifications--voice-io)
 - [Alternative Clients](#alternative-clients)
 - [Status Lines](#status-lines)
+- [Mods](#mods)
 - [Design & UI/UX](#design--uiux)
 - [Writing & Prose Quality](#writing--prose-quality)
 - [Creative Media](#creative-media)
@@ -207,7 +208,7 @@ The current iteration of the list, such as you see it today, was launched with t
 - [Archify ![GitHub Repo Stars](https://img.shields.io/github/stars/tt-a1i/archify) ![GitHub last commit](https://img.shields.io/github/last-commit/tt-a1i/archify)](https://github.com/tt-a1i/archify) by [tt-a1i](https://github.com/tt-a1i) - An Agent Skill for Claude Code that generates interactive architecture, workflow, sequence, data-flow, and lifecycle diagrams as standalone HTML. Typed JSON, local renderers, and delivery checks support source-linked node details, path tracing, themes, and export.  
 <img src="https://img.shields.io/github/created-at/tt-a1i/archify?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="created">&nbsp;&nbsp;<img src="https://img.shields.io/github/last-commit/tt-a1i/archify?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="last-commit">&nbsp;&nbsp;<img src="https://img.shields.io/github/license/tt-a1i/archify?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="license">&nbsp;&nbsp;<img src="https://img.shields.io/github/stars/tt-a1i/archify?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="stars">
 
-## Open Source Software
+## Open Source Contribution & Maintenance
 
 - [Netresearch Agentic Skills ![GitHub Repo Stars](https://img.shields.io/github/stars/netresearch/claude-code-marketplace) ![GitHub last commit](https://img.shields.io/github/last-commit/netresearch/claude-code-marketplace)](https://github.com/netresearch/claude-code-marketplace) by [Netresearch](https://github.com/netresearch) - Skills for assessing and enhancing software projects to meet enterprise-grade standards for security, quality, and automation. Strong collection covering a range of development frameworks, enterprise-readiness, security, GitHub release management, branding, code review - really useful and well curated.  
 <img src="https://img.shields.io/github/created-at/netresearch/claude-code-marketplace?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="created">&nbsp;&nbsp;<img src="https://img.shields.io/github/last-commit/netresearch/claude-code-marketplace?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="last-commit">&nbsp;&nbsp;<img src="https://img.shields.io/github/license/netresearch/claude-code-marketplace?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="license">&nbsp;&nbsp;<img src="https://img.shields.io/github/stars/netresearch/claude-code-marketplace?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="stars">
@@ -350,6 +351,11 @@ The current iteration of the list, such as you see it today, was launched with t
 
 - [tmux-claude-status-tabs ![GitHub Repo Stars](https://img.shields.io/github/stars/LiveNL/tmux-claude-status-tabs) ![GitHub last commit](https://img.shields.io/github/last-commit/LiveNL/tmux-claude-status-tabs)](https://github.com/LiveNL/tmux-claude-status-tabs) by [LiveNL](https://github.com/LiveNL) - Shows each Claude Code session's state in the tmux tab bar, per window: an animated spinner while it works, amber when it waits on input, red on a permission request, green when done. Event-driven via hooks with no polling; catches unreported transitions (Esc, permission grants, stop-hook continuations) with transcript watchers. 260+ test assertions run in CI.  
 <img src="https://img.shields.io/github/created-at/LiveNL/tmux-claude-status-tabs?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="created">&nbsp;&nbsp;<img src="https://img.shields.io/github/last-commit/LiveNL/tmux-claude-status-tabs?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="last-commit">&nbsp;&nbsp;<img src="https://img.shields.io/github/license/LiveNL/tmux-claude-status-tabs?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="license">&nbsp;&nbsp;<img src="https://img.shields.io/github/stars/LiveNL/tmux-claude-status-tabs?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="stars">
+
+## Mods
+
+- [prismantis ![GitHub Repo Stars](https://img.shields.io/github/stars/NahumLitvin/prismantis) ![GitHub last commit](https://img.shields.io/github/last-commit/NahumLitvin/prismantis)](https://github.com/NahumLitvin/prismantis) by [Nahum Litvin](https://github.com/NahumLitvin) - Colorful, themeable Claude Code replies: tables, code, diagrams, charts and tool rows in over a dozen themes. Enhances mod development experience.  
+<img src="https://img.shields.io/github/created-at/NahumLitvin/prismantis?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="created">&nbsp;&nbsp;<img src="https://img.shields.io/github/last-commit/NahumLitvin/prismantis?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="last-commit">&nbsp;&nbsp;<img src="https://img.shields.io/github/license/NahumLitvin/prismantis?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="license">&nbsp;&nbsp;<img src="https://img.shields.io/github/stars/NahumLitvin/prismantis?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="stars">
 
 ## Design & UI/UX
 
