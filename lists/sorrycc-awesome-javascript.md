@@ -1043,6 +1043,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [Square Node.js SDK ![GitHub Repo Stars](https://img.shields.io/github/stars/square/connect-nodejs-sdk) ![GitHub last commit](https://img.shields.io/github/last-commit/square/connect-nodejs-sdk)](https://github.com/square/connect-nodejs-sdk/) - JavaScript client library for payments and other Square APIs.
 * [OpenAI SDK ![GitHub Repo Stars](https://img.shields.io/github/stars/openai/openai-node) ![GitHub last commit](https://img.shields.io/github/last-commit/openai/openai-node)](https://github.com/openai/openai-node) - Official JavaScript / TypeScript library for the OpenAI API.
 * [Stripe Node.js SDK ![GitHub Repo Stars](https://img.shields.io/github/stars/stripe/stripe-node) ![GitHub last commit](https://img.shields.io/github/last-commit/stripe/stripe-node)](https://github.com/stripe/stripe-node) - Stripe Node.js SDK lets you integrate payments, subscriptions, and billing into your JavaScript/TypeScript apps.
+* [Social SDK ![GitHub Repo Stars](https://img.shields.io/github/stars/opencoredev/social-sdk) ![GitHub last commit](https://img.shields.io/github/last-commit/opencoredev/social-sdk)](https://github.com/opencoredev/social-sdk) - Typed JavaScript and TypeScript client for posting and reading across social platforms on Node.js and Bun.
 
 ## Full Text Search
 

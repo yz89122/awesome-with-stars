@@ -99,6 +99,7 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 - [piersolenski/plugin-addict.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/piersolenski/plugin-addict.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/piersolenski/plugin-addict.nvim)](https://github.com/piersolenski/plugin-addict.nvim) - A stupidly simple way to quickly install plugins.
 - [zuqini/zpack.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/zuqini/zpack.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/zuqini/zpack.nvim)](https://github.com/zuqini/zpack.nvim) - A thin layer on top of `vim.pack` to support lazy-loading and `lazy.nvim`'s declarative spec.
 - [okram78/vahti.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/okram78/vahti.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/okram78/vahti.nvim)](https://github.com/okram78/vahti.nvim) - Checks remote Git revisions for `vim.pack`-managed packages and reports available updates without installing them.
+- [Imngzx/resonance.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/Imngzx/resonance.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/Imngzx/resonance.nvim)](https://github.com/Imngzx/resonance.nvim) - An optimized `vim.pack` wrapper with lazy-loading, automatic build hooks, and an elegant UI.
 <!--lint disable double-link -->
 [**⬆ back to top**](#contents)
 <!--lint enable double-link -->
@@ -1273,6 +1274,7 @@ then it is not supported:
 - [JulOuellet/bzl.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/JulOuellet/bzl.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/JulOuellet/bzl.nvim)](https://github.com/JulOuellet/bzl.nvim) - Bazel integration: target picker and tree, run/test/build with streaming output, and LSP support for Bazel-managed dependencies.
 - [caskstrength/nvim-soil](https://codeberg.org/caskstrength/nvim-soil) - Run PlantUML script and generate UML design.
 - [pewpewnor/dove.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/pewpewnor/dove.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/pewpewnor/dove.nvim)](https://github.com/pewpewnor/dove.nvim) - Define and execute arbitrary shell commands or Lua code on the fly for file, project, or global contexts.
+- [trimclain/builder.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/trimclain/builder.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/trimclain/builder.nvim)](https://github.com/trimclain/builder.nvim) - Build and run files with configurable commands and output in split or floating windows, inspired by Sublime Text's build system.
 <!--lint disable double-link -->
 [**⬆ back to top**](#contents)
 <!--lint enable double-link -->
