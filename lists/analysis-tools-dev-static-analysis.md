@@ -602,7 +602,7 @@ By default, govulncheck makes requests to the Go vulnerability database at https
 
 - [unconvert ![GitHub Repo Stars](https://img.shields.io/github/stars/mdempsky/unconvert) ![GitHub last commit](https://img.shields.io/github/last-commit/mdempsky/unconvert)](https://github.com/mdempsky/unconvert) — Detect redundant type conversions.
 
-- [unparam ![GitHub Repo Stars](https://img.shields.io/github/stars/mvdan/unparam) ![GitHub last commit](https://img.shields.io/github/last-commit/mvdan/unparam)](https://github.com/mvdan/unparam) �� Find unused function parameters.
+- [unparam ![GitHub Repo Stars](https://img.shields.io/github/stars/mvdan/unparam) ![GitHub last commit](https://img.shields.io/github/last-commit/mvdan/unparam)](https://github.com/mvdan/unparam) — Find unused function parameters.
 
 - [varcheck](https://gitlab.com/opennota/check) — Find unused global variables and constants.
 
@@ -3210,7 +3210,7 @@ Kani verifies:
 
 - [Steampunk Spotter](https://steampunk.si/spotter/) :copyright: — Ansible Playbook Scanning Tool that analyzes and offers recommendations for your playbooks.
 
-- [Symfony Insight](https://insight.symfony.com/) :copyright: — Detect security risks, find bugs and provide actionable metrics for PHP projects.
+- [Symfony Insight](https://insight.symfony.com/) :copyright: ��� Detect security risks, find bugs and provide actionable metrics for PHP projects.
 
 - [tfsec ![GitHub Repo Stars](https://img.shields.io/github/stars/tfsec/tfsec) ![GitHub last commit](https://img.shields.io/github/last-commit/tfsec/tfsec)](https://github.com/tfsec/tfsec) — Terraform static analysis tool that prevents potential security issues by checking cloud misconfigurations at build time and directly integrates with the HCL parser for better results. Checks for violations of AWS, Azure and GCP security best practice recommendations.
 

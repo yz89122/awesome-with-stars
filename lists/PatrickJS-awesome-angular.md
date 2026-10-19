@@ -508,6 +508,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-signal-query ![GitHub Repo Stars](https://img.shields.io/github/stars/dhutaryan/ngx-signal-query) ![GitHub last commit](https://img.shields.io/github/last-commit/dhutaryan/ngx-signal-query)](https://github.com/dhutaryan/ngx-signal-query) - Signal-first data fetching, caching, and mutations for Angular — inspired by TanStack Query.
 * [signal-http-cache ![GitHub Repo Stars](https://img.shields.io/github/stars/frontkit-ng/signal-http-cache) ![GitHub last commit](https://img.shields.io/github/last-commit/frontkit-ng/signal-http-cache)](https://github.com/frontkit-ng/signal-http-cache) - Angular Signal-based HTTP caching library (queries, mutations, TTL, SWR).
 * [ngx-esy-jsonapi ![GitHub Repo Stars](https://img.shields.io/github/stars/zFl4wless/ngx-esy-jsonapi) ![GitHub last commit](https://img.shields.io/github/last-commit/zFl4wless/ngx-esy-jsonapi)](https://github.com/zFl4wless/ngx-esy-jsonapi) - A lightweight Angular v20+ adapter for JSON API.
+* [ngx-native-middlewares ![GitHub Repo Stars](https://img.shields.io/github/stars/dkhrunov/ngx-native-middlewares) ![GitHub last commit](https://img.shields.io/github/last-commit/dkhrunov/ngx-native-middlewares)](https://github.com/dkhrunov/ngx-native-middlewares/tree/development/projects/ngx-native-middlewares) - Write your HTTP middleware once to cover all underlying web transports and their wrapper libraries.
 
 ### Micro Frontends
 
@@ -1530,6 +1531,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [upup ![GitHub Repo Stars](https://img.shields.io/github/stars/DevinoSolutions/upup) ![GitHub last commit](https://img.shields.io/github/last-commit/DevinoSolutions/upup)](https://github.com/DevinoSolutions/upup) - A headless upload engine featuring byte-identical UI packages for six major frontend frameworks, supporting server-mode, cloud drives, and multi-source media imports.
 * [filestack](https://www.filestack.com/sdks/angular/) - Integrate powerful file uploads into Angular with a single command using the Filestack SDK to seamlessly ingest, process, and deliver files behind a unified provider call.
 * [ngx-bulk-uploader ![GitHub Repo Stars](https://img.shields.io/github/stars/suraj-26/ngx-bulk-uploader) ![GitHub last commit](https://img.shields.io/github/last-commit/suraj-26/ngx-bulk-uploader)](https://github.com/suraj-26/ngx-bulk-uploader) - A schema-driven bulk Excel upload grid for Angular, built on `Handsontable`.
+* [ngx-photo-uploader ![GitHub Repo Stars](https://img.shields.io/github/stars/pablomillaquen/ngx-photo-uploader) ![GitHub last commit](https://img.shields.io/github/last-commit/pablomillaquen/ngx-photo-uploader)](https://github.com/pablomillaquen/ngx-photo-uploader) - Standalone Angular component for uploading images via click, drag-and-drop, or camera, with built-in preview and full Reactive Forms support.
 
 ### Forms
 
