@@ -326,7 +326,7 @@ These projects are exceptionally high quality, have a proven trackrecord, and ar
 - [Testing Vue Components](https://testingvue.com) on [laracast](https://laracasts.com/series/testing-vue)
 - [Building a Full Stack Web App with Vue.js and Express.js](https://www.youtube.com/watch?v=Fa4cRMaTDUI&t=) by [@CodyLSeibert](https://twitter.com/CodyLSeibert)
 - [Getting Started with Vue.js](https://sabe.io/tutorials/getting-started-with-vue-js)
-- [프론트엔��� 개발자를 위한 Vue.js 입문서](https://joshua1988.github.io/web-development/vuejs/vuejs-tutorial-for-beginner/)
+- [프론트엔드 개발자를 위한 Vue.js 입문서](https://joshua1988.github.io/web-development/vuejs/vuejs-tutorial-for-beginner/)
 - [누구나 다루기 쉬운 Vue.js (Video)](https://www.inflearn.com/course/vue-pwa-vue-js-%EA%B8%B0%EB%B3%B8/) on [Inflearn](https://www.inflearn.com/) by [Captain Pangyo](https://joshua1988.github.io/)
 - [Build a Vue.js Blog in 2 hours tops](https://snipcart.com/blog/vuejs-blog-demo#tutorial) on [Snipcart](https://snipcart.com/)
 - [Getting Started with Vuex: Managing State in Vue.js](https://sabe.io/tutorials/getting-started-with-vuex)
@@ -1279,6 +1279,7 @@ _Switch / on/off toggle / checkbox_
 - [ckeditor5-vue ![GitHub Repo Stars](https://img.shields.io/github/stars/ckeditor/ckeditor5-vue) ![GitHub last commit](https://img.shields.io/github/last-commit/ckeditor/ckeditor5-vue)](https://github.com/ckeditor/ckeditor5-vue) - An official CKEditor 5 rich text editor component for Vue.js.
 - [vue-quilly ![GitHub Repo Stars](https://img.shields.io/github/stars/alekswebnet/vue-quilly) ![GitHub last commit](https://img.shields.io/github/last-commit/alekswebnet/vue-quilly)](https://github.com/alekswebnet/vue-quilly) - 🪶 Tiny Vue 3 component, that helps to create Quill v2 based WYSIWYG editors.
 - [blok ![GitHub Repo Stars](https://img.shields.io/github/stars/JackUait/blok) ![GitHub last commit](https://img.shields.io/github/last-commit/JackUait/blok)](https://github.com/JackUait/blok) - Headless block-based rich text editor with a Vue 3 adapter, outputs JSON instead of HTML.
+- [CyteEditor ![GitHub Repo Stars](https://img.shields.io/github/stars/cyte-editor/cyteeditor-examples) ![GitHub last commit](https://img.shields.io/github/last-commit/cyte-editor/cyteeditor-examples)](https://github.com/cyte-editor/cyteeditor-examples) - Rich text editor SDK with Word/Excel paste fidelity, built-in snapshot & version comparison, and official adapters for Vue 3, Vue 2, React, Svelte, Angular, and Vanilla JS.
 
 ##### Image Manipulation
 

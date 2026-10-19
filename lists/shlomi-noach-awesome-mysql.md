@@ -71,6 +71,7 @@ This list accepts and encourages pull requests. See [CONTRIBUTING ![GitHub Repo 
 
 ## Binlog-Replication
 
+- [dbtrail ![GitHub Repo Stars](https://img.shields.io/github/stars/dbtrail/dbtrail) ![GitHub last commit](https://img.shields.io/github/last-commit/dbtrail/dbtrail)](https://github.com/dbtrail/dbtrail) - Analytical replica of MySQL: keeps tables as Parquet files fed from the binlog, queried with DuckDB
 - [DM ![GitHub Repo Stars](https://img.shields.io/github/stars/pingcap/tiflow) ![GitHub last commit](https://img.shields.io/github/last-commit/pingcap/tiflow)](https://github.com/pingcap/tiflow) - A High-Availability data migration platform which supports migrating data from MySQL/MariaDB to TiDB and merging shard tables
 - [Kingbus ![GitHub Repo Stars](https://img.shields.io/github/stars/flike/kingbus) ![GitHub last commit](https://img.shields.io/github/last-commit/flike/kingbus)](https://github.com/flike/kingbus) - A distributed MySQL binlog storage system built on Raft
 - [mysql-ripple ![GitHub Repo Stars](https://img.shields.io/github/stars/google/mysql-ripple) ![GitHub last commit](https://img.shields.io/github/last-commit/google/mysql-ripple)](https://github.com/google/mysql-ripple) (archived) - Ripple, a server that can serve as a middleman in MySQL replication
