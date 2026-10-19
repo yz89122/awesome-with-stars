@@ -26,6 +26,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 ## Software
 
 ### API Testing
+- [API Spector](https://api-spector.dev) - Open-source API clien, mock server and contract testing tool. Zero telemetry.
 - [Bruno ![GitHub Repo Stars](https://img.shields.io/github/stars/usebruno/bruno) ![GitHub last commit](https://img.shields.io/github/last-commit/usebruno/bruno)](https://github.com/usebruno/bruno) - Open-source API client for exploring and testing APIs.
 - [API Status Check](https://apistatuscheck.com) - Real-time status monitoring dashboard for 188+ third-party APIs (OpenAI, Stripe, AWS, GitHub, etc.) with response time tracking and free alert tiers.
 - [Polarity](https://www.polarity.so) - The First AI QA Engineer that does full E2E, API, UI testing. Understands your entire codebase and ensures all relevant tests are conducted with our long running agent setup.
@@ -39,10 +40,12 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Swagger Coverage Tool ![GitHub Repo Stars](https://img.shields.io/github/stars/Nikita-Filonov/swagger-coverage-tool) ![GitHub last commit](https://img.shields.io/github/last-commit/Nikita-Filonov/swagger-coverage-tool)](https://github.com/Nikita-Filonov/swagger-coverage-tool) - The Swagger Coverage Tool is designed to measure API test coverage based on Swagger documentation. It provides automated tracking and reporting of test coverage for APIs, helping ensure that your endpoints and services are well-tested.
 - [Webhook Debugger & Logger](https://apify.com/ar27111994/webhook-debugger-logger) - Enterprise-grade tool for testing, debugging, and logging incoming webhooks in real-time.
 - [Webhook Debugger ![GitHub Repo Stars](https://img.shields.io/github/stars/brancogao/webhook-debugger) ![GitHub last commit](https://img.shields.io/github/last-commit/brancogao/webhook-debugger)](https://github.com/brancogao/webhook-debugger) - Open-source, self-hosted webhook inspector with signature verification support.
+- [Openhook ![GitHub Repo Stars](https://img.shields.io/github/stars/openhook-dev/openhook-inbox) ![GitHub last commit](https://img.shields.io/github/last-commit/openhook-dev/openhook-inbox)](https://github.com/openhook-dev/openhook-inbox) - Open-source webhook inbox for capturing callbacks and inspecting request headers and bodies through a browser, REST API, or MCP.
 - [Spiderhash](https://spiderhash.io/) - Webhook debugging and request inspection tool for testing callback payloads, headers, and delivery behavior.
 - [KushoAI](https://kusho.ai/) - AI-native platform for API contract testing, end-to-end testing, UI testing, and continuous security scanning, with self-healing tests that automatically adapt to code changes in CI/CD.
 - [postman2pytest ![GitHub Repo Stars](https://img.shields.io/github/stars/golikovichev/postman2pytest) ![GitHub last commit](https://img.shields.io/github/last-commit/golikovichev/postman2pytest)](https://github.com/golikovichev/postman2pytest) - Convert a Postman Collection v2.1 JSON file into a ready-to-run pytest test suite.
 - [funapi](https://funapi.dev) - A free mock REST API service designed for practicing API testing, automation, and integration with realistic scenarios and endpoints.
+- [SolidPing ![GitHub Repo Stars](https://img.shields.io/github/stars/fclairamb/solidping) ![GitHub last commit](https://img.shields.io/github/last-commit/fclairamb/solidping)](https://github.com/fclairamb/solidping) - Open-source (AGPL-3.0) uptime and API monitoring with a free hosted tier. Runs HTTP, gRPC, WebSocket and custom JS checks on a schedule and alerts when an endpoint fails.
 
 ### Security Testing
 - [BeEF](http://beefproject.com/) - Manipulate the browser by exploiting any XSS vulnerabilities you find.
@@ -71,10 +74,12 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [DeepfakeHTTP ![GitHub Repo Stars](https://img.shields.io/github/stars/xnbox/DeepfakeHTTP) ![GitHub last commit](https://img.shields.io/github/last-commit/xnbox/DeepfakeHTTP)](https://github.com/xnbox/DeepfakeHTTP) - Web server using HTTP dumps as a response source for API simulation.
 - [fakecloud ![GitHub Repo Stars](https://img.shields.io/github/stars/faiscadev/fakecloud) ![GitHub last commit](https://img.shields.io/github/last-commit/faiscadev/fakecloud)](https://github.com/faiscadev/fakecloud) - Free, open-source local AWS cloud emulator for integration tests, with 23 services at 100% conformance and first-party test-assertion SDKs in 6 languages.
 - [mockd ![GitHub Repo Stars](https://img.shields.io/github/stars/getmockd/mockd) ![GitHub last commit](https://img.shields.io/github/last-commit/getmockd/mockd)](https://github.com/getmockd/mockd) - Open-source multi-protocol mock server supporting HTTP, gRPC, GraphQL, WebSocket, MQTT, and SOAP with chaos engineering and proxy recording.
+- [MockForge ![GitHub Repo Stars](https://img.shields.io/github/stars/SaaSy-Solutions/mockforge) ![GitHub last commit](https://img.shields.io/github/last-commit/SaaSy-Solutions/mockforge)](https://github.com/SaaSy-Solutions/mockforge) - Open-source API mock server written in Rust for HTTP/OpenAPI, gRPC, GraphQL, WebSocket, Kafka, MQTT and AMQP, with data generation and latency/fault injection.
 - [MockServer ![GitHub Repo Stars](https://img.shields.io/github/stars/mock-server/mockserver-monorepo) ![GitHub last commit](https://img.shields.io/github/last-commit/mock-server/mockserver-monorepo)](https://github.com/mock-server/mockserver-monorepo) - Mocking, debugging proxy and chaos engineering tool for multiple protocols (HTTP, gRPC, GraphQL, LLM, MCP, Kafka, TCP and more); mock any dependency, record/replay and inspect traffic, verify requests, and inject faults. Docker, JAR, Helm, multi-language clients.
 - [WireMock ![GitHub Repo Stars](https://img.shields.io/github/stars/wiremock/wiremock) ![GitHub last commit](https://img.shields.io/github/last-commit/wiremock/wiremock)](https://github.com/wiremock/wiremock) - Open source HTTP mock engine written in Java. Embed in your test code, run as a standalone process, or deploy via Docker.
 - [ApiNotes](https://apinotes.io/mock-server) - Drop your OpenAPI spec and get a fully functional mock API server instantly. Export to Bruno API client or test directly.
 - [Twinbay](https://twinbay.ai) - Hosted, stateful twins of third-party APIs such as Shopify, Slack, Zendesk and QuickBooks for integration and AI agent tests. Each test run gets a private URL, and directives force states like rate limits or failed payments.
+- [fieldtwin](https://nickgeorgeai.com/fieldtwin) - Open-source, local, stateful twins of the Jobber and QuickBooks Online APIs for integration and AI agent tests, with checkpoints, rewind, and faults on demand.
 
 ### Visual Testing
 - [Fluxguard](https://fluxguard.com) - Screenshot pixel and DOM change comparisons.
@@ -87,15 +92,18 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Sherlo ![GitHub Repo Stars](https://img.shields.io/github/stars/sherlo-io/sherlo) ![GitHub last commit](https://img.shields.io/github/last-commit/sherlo-io/sherlo)](https://github.com/sherlo-io/sherlo) - Visual testing platform for React Native Storybook. Captures screenshots on iOS and Android simulators in the cloud and detects visual changes automatically.
 - [wopee.io](https://wopee.io/) - Autonomous visual regression testing platform.
 - [SmartUI by TestMu AI (formerly LambdaTest)](https://www.testmuai.com/visual-testing-tool/)- AI-Native Visual Testing Tool for Flawless UIs across browsers, apps, websites, and PDFs.
+- [CurlShot](https://curlshot.com) - Screenshot API for capturing baseline and comparison images of web pages in CI as PNG, JPEG, WebP or PDF, with full-page and CSS-selector element capture, device presets and ad/cookie-banner blocking. Free plan available.
 
 ### UI & End-to-End Testing
 - [Polarity](https://www.polarity.so) - Full visual and desktop environments showcasing complete E2E testing for all UI/UX features. Generated you Playwright, Cypress, and other code for you as the test runs.
 - [ai-wright ![GitHub Repo Stars](https://img.shields.io/github/stars/TestChimp/ai-wright) ![GitHub last commit](https://img.shields.io/github/last-commit/TestChimp/ai-wright)](https://github.com/TestChimp/ai-wright) - Open-source library that adds AI action, assertion, and data extraction steps to Playwright tests, using annotated screenshots and your own OpenAI, Gemini, or Claude API key.
+- [App Crash Lab ![GitHub Repo Stars](https://img.shields.io/github/stars/aichance/business-ai-recipes) ![GitHub last commit](https://img.shields.io/github/last-commit/aichance/business-ai-recipes)](https://github.com/aichance/business-ai-recipes/tree/main/tools/app-crash-lab) - MIT-licensed Node 22+/Playwright CLI that checks saved web-app values after reload and rejected updates, exporting state diffs and standalone Playwright tests.
 - [blastproof](https://blastproof.dev) - Open-source AI agent that runs plain-English e2e tests in a real browser. It reads the pull request diff, runs only the tests for the pages that changed and can block the merge on a score. Runs locally or in CI with your own LLM key.
 - [BugBug](https://bugbug.io) - No-code test automation tool for web applications.
 - [cloudf.one](https://www.cloudf.one) - Rent a real Samsung Android phone in Singapore on a Singtel or M1 SIM and use it from a browser tab, to check how an app behaves for Singapore users. Manual use only, no Appium or scripts.
 - [Courgette](https://courgette-testing.com) - Declarative BDD UI testing with Gherkin.
 - [DevAssure](https://app.devassure.io) - Agentic testing for E2E web UI on real browsers. Agent can be added to GitHub Actions to test only the flows that have changed in a PR.
+- [Device Hub Pro ![GitHub Repo Stars](https://img.shields.io/github/stars/gitemre/device-hub-pro) ![GitHub last commit](https://img.shields.io/github/last-commit/gitemre/device-hub-pro)](https://github.com/gitemre/device-hub-pro) - Free, open-source macOS app for manual testing on Android emulators, Android phones and iOS simulators side by side, with live mirroring, device controls (network, location, permissions, deep links, push), logs, screenshots and screen recordings.
 - [DeviceLab](https://devicelab.dev) - Private device lab infrastructure for mobile testing. Connect your own iOS/Android devices and run Appium, Maestro, or XCUITest remotely via WebRTC. Zero-trust architecture keeps test data on your network.
 - [Drengr](https://drengr.dev) - Mobile tests written as plain-English tasks instead of selectors, driven by an agent on real Android devices and iOS simulators. Works where there is no accessibility tree — canvas, games, Flutter without semantics labels — by falling back to vision and coordinates. Runs locally or in CI; bring your own model key.
 - [Drengr Runner ![GitHub Repo Stars](https://img.shields.io/github/stars/SharminSirajudeen/drengr-runner) ![GitHub last commit](https://img.shields.io/github/last-commit/SharminSirajudeen/drengr-runner)](https://github.com/SharminSirajudeen/drengr-runner) - Drive an iOS simulator over HTTP from any language. A 479-line Swift XCTest target replacing WebDriverAgent on simulators. Apache-2.0.
@@ -114,10 +122,12 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [qmax-mcp ![GitHub Repo Stars](https://img.shields.io/github/stars/Quality-Max/qmax-mcp) ![GitHub last commit](https://img.shields.io/github/last-commit/Quality-Max/qmax-mcp)](https://github.com/Quality-Max/qmax-mcp) - MCP server and CLI that gives coding agents independent QA evidence before they declare a web change done: scans a URL for console errors, broken links, accessibility issues, Core Web Vitals, SEO, security headers, and cookies/trackers, then generates and runs a deterministic Playwright repro behind a human-approval gate.
 - [tapflow ![GitHub Repo Stars](https://img.shields.io/github/stars/jo-duchan/tapflow) ![GitHub last commit](https://img.shields.io/github/last-commit/jo-duchan/tapflow)](https://github.com/jo-duchan/tapflow) - Self-hosted mobile QA tool that streams iOS simulators and Android emulators to the browser for team-wide testing without local setup.
 - [UI Coverage Tool ![GitHub Repo Stars](https://img.shields.io/github/stars/Nikita-Filonov/ui-coverage-scenario-tool) ![GitHub last commit](https://img.shields.io/github/last-commit/Nikita-Filonov/ui-coverage-scenario-tool)](https://github.com/Nikita-Filonov/ui-coverage-scenario-tool) - UI Coverage Tool is an innovative, no-overhead solution for tracking and visualizing UI test coverage — directly on your actual application, not static snapshots.
+- [vibe-testing ![GitHub Repo Stars](https://img.shields.io/github/stars/AishwaryShrivastav/vibe-testing) ![GitHub last commit](https://img.shields.io/github/last-commit/AishwaryShrivastav/vibe-testing)](https://github.com/AishwaryShrivastav/vibe-testing) - Open-source MCP server and CLI that scans web app routes and forms, runs browser checks with Playwright, and produces HTML QA reports.
 - [VibeView](https://vibeview.io/) - Run & test iOS, Android, Apple TV and Android TV apps right in your browser, with Roku in beta. Build tests by recording a flow or write steps in plain English, flows can be ran cross-platform, and wired into pull requests. When a step fails - AI agent takes over so the rest of the run still completes, and the report tells you what changed based on failed steps and visual diff.
 - [Waterfall AI Test ![GitHub Repo Stars](https://img.shields.io/github/stars/jiongfeng/waterfall-ai-test-platform) ![GitHub last commit](https://img.shields.io/github/last-commit/jiongfeng/waterfall-ai-test-platform)](https://github.com/jiongfeng/waterfall-ai-test-platform) - Open-source visual workbench for Playwright Test Agents that turns requirements into editable plans and verified Playwright tests with human review, repair workflows, version history, and execution evidence.
 - [agent-qa ![GitHub Repo Stars](https://img.shields.io/github/stars/vostride/agent-qa) ![GitHub last commit](https://img.shields.io/github/last-commit/vostride/agent-qa)](https://github.com/vostride/agent-qa) - Self-improving QA agent for natural-language web and mobile tests, with execution memory and regression detection.
 - [assay ![GitHub Repo Stars](https://img.shields.io/github/stars/awss1i/assay) ![GitHub last commit](https://img.shields.io/github/last-commit/awss1i/assay)](https://github.com/awss1i/assay) - Deterministic command-line QA tool that serves a local web page, drives every control it finds in Chromium through Playwright. No tests to write and no LLM, with a Python API, an HTML report, and a plugin for AI coding agent. MIT, Python.
+- [Device Changer](https://deviceschanger.org) - Applies device models, build fingerprints and identifiers to rooted Android test devices to reproduce device-specific bugs.
   
   
 ### Test Management
@@ -131,6 +141,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [TempMailGrab](https://tempmailgrab.com/api-docs) - Disposable email API for temporary inboxes, OTP extraction, verification links, and webhooks in Playwright, Cypress, and CI tests.
 - [Temp Mail 24](https://temp-mail24.com/) - Browser-based receive-only temporary inbox for permitted manual signup-flow testing.
 - [8½ Minute Mail](https://8m30mail.com/) - Receive-only temporary inbox for manual email verification testing, with an 8-minute-30-second default lifetime and no account required.
+- [TempMail Hub](https://tempmailhub.net/) - Free disposable inbox for manual or scripted signup and email-verification testing, with a selectable lifetime from 10 minutes to 7 days and no account required.
 - [DATAMIMIC CE ![GitHub Repo Stars](https://img.shields.io/github/stars/rapiddweller/datamimic) ![GitHub last commit](https://img.shields.io/github/last-commit/rapiddweller/datamimic)](https://github.com/rapiddweller/datamimic) - Open-source, deterministic engine for model-driven synthetic test data and PII pseudonymization. Pin a seed and get byte-identical output with a provenance hash on every run. Python, MIT.
 - [dbmask ![GitHub Repo Stars](https://img.shields.io/github/stars/sealandseacat/dbmask) ![GitHub last commit](https://img.shields.io/github/last-commit/sealandseacat/dbmask)](https://github.com/sealandseacat/dbmask) - Masks sensitive data in SQL test databases with deterministic fakes and verifies the masking row by row.
 - [Dummy Data Lab](https://timliu724.github.io/dummy-data-lab/) - Offline, open-source browser tool for transforming CSV or TXT into controlled dummy data and generating linked test datasets without uploading source files.
@@ -144,7 +155,10 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [FakeNamely](https://fakenamely.com) - Free web generator and keyless JSON API for fictional identities, addresses and names across 38 countries. Seeded requests return byte-identical records, so a fixture can be committed; addresses pair a real city and a genuinely valid postal code with an invented street.
 - [Código ao Ponto](https://codigoaoponto.com/en/tools) - Free browser-based test data generators and validators for Brazilian documents (CPF, CNPJ, RG, CNH) with valid check digits, plus test credit cards. No signup.
 - [postal-code-formats ![GitHub Repo Stars](https://img.shields.io/github/stars/vinceblock99/postal-code-formats) ![GitHub last commit](https://img.shields.io/github/last-commit/vinceblock99/postal-code-formats)](https://github.com/vinceblock99/postal-code-formats) - Postal code formats, validation regexes and 9,000 real sample codes for 31 countries, with every regex tested against the samples in CI.
+- [ByteRivet Sample Files](https://byterivet.com/test-files/) - Free browser-based generator for exact-size dummy files from 1 KB to 2 GB in 22 formats (PDF, PNG, JPG, DOCX, XLSX, CSV, JSON, ZIP, MP4, WAV and more) for upload-limit and file-handling tests. Files are built locally, no upload or signup.
 - [StanzaAPI Test Data](https://stanzaapi.com/datasets) - Free CC0 synthetic test data for regulated B2B formats (IBAN, X12, ISO 20022, GS1, VAT, LEI, UDI, Peppol, Factur-X, CBAM, EPCIS), deterministic and check-digit-valid, as JSON and CSV.
+- [FormFiller test data tools](https://formfillerapp.com/tools/) - Free browser-based generators for fake addresses, identities, IBANs, test card numbers and bulk CSV/JSON/SQL data in 22
+  locales.
 
 ### Browser Extensions & Utilities
 - [Anchor Browser](https://anchorbrowser.io) - Cloud browser infrastructure with built-in stealth and proxy rotation for automated testing at scale
@@ -153,6 +167,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Check All](https://chrispederick.com/work/web-developer/) - Provides a "Select All" function where missing.
 - [Full Page Screenshot](https://chrome.google.com/webstore/detail/full-page-screen-capture/fdpohaocaechififmbbbbbknoalclacl) - Capture full-page screenshots.
 - [Form Filler](https://chrome.google.com/webstore/detail/form-filler/bnjjngeaknajbdcgpfkgnonkmififhfo) - Auto-fill large forms with dummy data.
+- [Keploy API Test Recorder](https://chromewebstore.google.com/detail/keploy-api-test-recorder/ohcclfkaidblnjnggclkiecgkpgldihe) - Chrome extension that records API calls from your browser session and turns them into API tests.
 - [ProxySwitcher](https://chrome.google.com/webstore/detail/proxy-switcher-manager/onnfghpihccifgojkpnnncpagjcdbjod) - Easy proxy switching for test/prod environments.
 - [Requestly](https://requestly.io/) - A lightweight proxy to intercept and modify network requests.
 - [Spoof Me](https://chromewebstore.google.com/detail/spoof-me/onbjkmhileedchimkcmieeiomipdljki) - Test how a site behaves for users in other browsers, OSes, languages, timezones and screen sizes by switching the whole browser identity. Also available for Firefox.
@@ -175,6 +190,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [k6 ![GitHub Repo Stars](https://img.shields.io/github/stars/grafana/k6) ![GitHub last commit](https://img.shields.io/github/last-commit/grafana/k6)](https://github.com/grafana/k6) - Modern load testing tool, scriptable in JavaScript, with cloud and open-source options.
 - [JMeterHub](https://www.jmeterhub.com) - Interactive performance report visualizer for Apache JMeter logs with zero setup, AI conclusions, and shareable reports.
 - [Locust Kubernetes Operator ![GitHub Repo Stars](https://img.shields.io/github/stars/AbdelrhmanHamouda/locust-k8s-operator) ![GitHub last commit](https://img.shields.io/github/last-commit/AbdelrhmanHamouda/locust-k8s-operator)](https://github.com/AbdelrhmanHamouda/locust-k8s-operator) - Run distributed Locust load tests on Kubernetes with a LocustTest CRD.
+- [vhr-bench ![GitHub Repo Stars](https://img.shields.io/github/stars/vpshostreview/vhr-vps-benchmark) ![GitHub last commit](https://img.shields.io/github/last-commit/vpshostreview/vhr-vps-benchmark)](https://github.com/vpshostreview/vhr-vps-benchmark) - One-minute Linux server benchmark of CPU, memory and 4k random disk IOPS using sysbench and fio.
 
 ### Web3 & Blockchain Testing
 - [Cannon](https://usecannon.com/) - Continuous configuration automation for Ethereum.
@@ -193,6 +209,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [OpenTester ![GitHub Repo Stars](https://img.shields.io/github/stars/kznr02/OpenTester) ![GitHub last commit](https://img.shields.io/github/last-commit/kznr02/OpenTester)](https://github.com/kznr02/OpenTester) - MCP-First Testing Framework: AI Agents Can Now Test Like Humans
 - [Selenium Boot](https://seleniumboot.com) - Java framework layered on Selenium WebDriver and TestNG. One Maven dependency and one YAML file replace the usual driver-lifecycle, wait, retry and reporting boilerplate, and the raw WebDriver stays accessible.
 - [optics-framework ![GitHub Repo Stars](https://img.shields.io/github/stars/mozarkai/optics-framework) ![GitHub last commit](https://img.shields.io/github/last-commit/mozarkai/optics-framework)](https://github.com/mozarkai/optics-framework) - Self-healing test automation for mobile, web and Smart TV. Keyword-driven CSV/YAML tests run on Appium, Selenium and Playwright; when a locator breaks it falls back across XPath, text, OCR and image strategies, with optional AI-powered self-healing.
+- [behave ![GitHub Repo Stars](https://img.shields.io/github/stars/emirmrkaljevic/behave) ![GitHub last commit](https://img.shields.io/github/last-commit/emirmrkaljevic/behave)](https://github.com/emirmrkaljevic/behave) - Records how a command-line tool behaves (flags, stdin, exit codes, edge cases) as golden tests and replays them against another implementation, e.g. a Rust or Go rewrite.
 
 ### Screen Recording & Session Replays
 - [Captura ![GitHub Repo Stars](https://img.shields.io/github/stars/MathewSachin/Captura) ![GitHub last commit](https://img.shields.io/github/last-commit/MathewSachin/Captura)](https://github.com/MathewSachin/Captura) - Open-source video recording tool.
@@ -205,6 +222,9 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 
 ### A/B Testing
 - [Kirro](https://kirro.io) - A/B testing tool with visual editor, Bayesian statistics, and GA4 conversion tracking.
+
+### Static Analysis
+- [SmartBench ![GitHub Repo Stars](https://img.shields.io/github/stars/xianyu-sheng/SmartBench) ![GitHub last commit](https://img.shields.io/github/last-commit/xianyu-sheng/SmartBench)](https://github.com/xianyu-sheng/SmartBench) - Open-source CLI for evidence-constrained code audits: deterministic static analysis owns the facts and LLM hypotheses must be validated against the code before they become findings.
 
 
 ## Books
@@ -240,6 +260,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 ## Newsletters
 - [Coding Jag](https://www.testmuai.com/newsletter) - Your weekly dose of the latest in AI, Testing, Development, CI/CD, and Automation—keeping you ahead of the curve.
 - [Software Testing Weekly](https://softwaretestingweekly.com/) - A curated round-up of the best software testing news and tools published every Friday.
+- [RoleGig QA & Testing](https://rolegig.com/qa-testing/) - Weekly list of QA, test automation and SDET jobs in India, the US, Canada, Europe, Australia and the Gulf.
 
 ## Suggested Awesome Lists
 
