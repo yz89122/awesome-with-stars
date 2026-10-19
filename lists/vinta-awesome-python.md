@@ -178,7 +178,7 @@ _Libraries for building AI applications, LLM integrations, and autonomous agents
 - LLM Gateways
   - [litellm ![GitHub Repo Stars](https://img.shields.io/github/stars/BerriAI/litellm) ![GitHub last commit](https://img.shields.io/github/last-commit/BerriAI/litellm)](https://github.com/BerriAI/litellm) - Call 100+ LLMs using OpenAI format.
 - Image and Video Generation
-  - [diffusers ![GitHub Repo Stars](https://img.shields.io/github/stars/huggingface/diffusers) ![GitHub last commit](https://img.shields.io/github/last-commit/huggingface/diffusers)](https://github.com/huggingface/diffusers) - A library that provides pre-trained diffusion models for generating and editing images, audio, and video.
+  - [diffusers ![GitHub Repo Stars](https://img.shields.io/github/stars/huggingface/diffusers) ![GitHub last commit](https://img.shields.io/github/last-commit/huggingface/diffusers)](https://github.com/huggingface/diffusers) - Pre-trained diffusion models for generating and editing images, audio, and video.
 - Fine-tuning
   - [peft ![GitHub Repo Stars](https://img.shields.io/github/stars/huggingface/peft) ![GitHub last commit](https://img.shields.io/github/last-commit/huggingface/peft)](https://github.com/huggingface/peft) - A library for parameter-efficient fine-tuning of large pretrained models.
   - [trl ![GitHub Repo Stars](https://img.shields.io/github/stars/huggingface/trl) ![GitHub last commit](https://img.shields.io/github/last-commit/huggingface/trl)](https://github.com/huggingface/trl) - A library for post-training transformer language models with SFT, DPO, GRPO, and other trainers.
@@ -197,7 +197,7 @@ _Frameworks for Neural Networks and Deep Learning. Also see [awesome-deep-learni
 - Frameworks
   - [pytorch ![GitHub Repo Stars](https://img.shields.io/github/stars/pytorch/pytorch) ![GitHub last commit](https://img.shields.io/github/last-commit/pytorch/pytorch)](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration.
   - [pytorch-lightning ![GitHub Repo Stars](https://img.shields.io/github/stars/Lightning-AI/pytorch-lightning) ![GitHub last commit](https://img.shields.io/github/last-commit/Lightning-AI/pytorch-lightning)](https://github.com/Lightning-AI/pytorch-lightning) - Deep learning framework to train, deploy, and ship AI products Lightning fast.
-  - [jax ![GitHub Repo Stars](https://img.shields.io/github/stars/jax-ml/jax) ![GitHub last commit](https://img.shields.io/github/last-commit/jax-ml/jax)](https://github.com/jax-ml/jax) - A library for high-performance numerical computing with automatic differentiation and JIT compilation.
+  - [jax ![GitHub Repo Stars](https://img.shields.io/github/stars/jax-ml/jax) ![GitHub last commit](https://img.shields.io/github/last-commit/jax-ml/jax)](https://github.com/jax-ml/jax) - A library for high-performance numerical computing with autodiff and JIT compilation.
   - [keras ![GitHub Repo Stars](https://img.shields.io/github/stars/keras-team/keras) ![GitHub last commit](https://img.shields.io/github/last-commit/keras-team/keras)](https://github.com/keras-team/keras) - A high-level deep learning library with support for JAX, TensorFlow, and PyTorch backends.
   - [tensorflow ![GitHub Repo Stars](https://img.shields.io/github/stars/tensorflow/tensorflow) ![GitHub last commit](https://img.shields.io/github/last-commit/tensorflow/tensorflow)](https://github.com/tensorflow/tensorflow) - An end-to-end machine learning platform from Google.
 - Reinforcement Learning
@@ -210,7 +210,7 @@ _Libraries for Machine Learning. Also see [awesome-machine-learning ![GitHub Rep
 
 - General
   - [scikit-learn ![GitHub Repo Stars](https://img.shields.io/github/stars/scikit-learn/scikit-learn) ![GitHub last commit](https://img.shields.io/github/last-commit/scikit-learn/scikit-learn)](https://github.com/scikit-learn/scikit-learn) - The most popular Python library for Machine Learning with extensive documentation and community support.
-  - [imbalanced-learn ![GitHub Repo Stars](https://img.shields.io/github/stars/scikit-learn-contrib/imbalanced-learn) ![GitHub last commit](https://img.shields.io/github/last-commit/scikit-learn-contrib/imbalanced-learn)](https://github.com/scikit-learn-contrib/imbalanced-learn) - Resampling techniques for datasets with imbalanced classes, compatible with scikit-learn.
+  - [imbalanced-learn ![GitHub Repo Stars](https://img.shields.io/github/stars/scikit-learn-contrib/imbalanced-learn) ![GitHub last commit](https://img.shields.io/github/last-commit/scikit-learn-contrib/imbalanced-learn)](https://github.com/scikit-learn-contrib/imbalanced-learn) - Resampling techniques for imbalanced datasets, compatible with scikit-learn.
   - [pgmpy ![GitHub Repo Stars](https://img.shields.io/github/stars/pgmpy/pgmpy) ![GitHub last commit](https://img.shields.io/github/last-commit/pgmpy/pgmpy)](https://github.com/pgmpy/pgmpy) - A Python library for causal and probabilistic reasoning with graphical models.
   - [feature-engine ![GitHub Repo Stars](https://img.shields.io/github/stars/feature-engine/feature_engine) ![GitHub last commit](https://img.shields.io/github/last-commit/feature-engine/feature_engine)](https://github.com/feature-engine/feature_engine) - sklearn compatible API with the widest toolset for feature engineering and selection.
 - Gradient Boosting
@@ -238,7 +238,7 @@ _Libraries for working with human languages._
 - Chinese
   - [jieba ![GitHub Repo Stars](https://img.shields.io/github/stars/fxsjy/jieba) ![GitHub last commit](https://img.shields.io/github/last-commit/fxsjy/jieba)](https://github.com/fxsjy/jieba) - The most popular Chinese text segmentation library.
   - [pypinyin ![GitHub Repo Stars](https://img.shields.io/github/stars/mozillazg/python-pinyin) ![GitHub last commit](https://img.shields.io/github/last-commit/mozillazg/python-pinyin)](https://github.com/mozillazg/python-pinyin) - Convert Chinese hanzi (漢字) to pinyin (拼音).
-  - [OpenCC ![GitHub Repo Stars](https://img.shields.io/github/stars/BYVoid/OpenCC) ![GitHub last commit](https://img.shields.io/github/last-commit/BYVoid/OpenCC)](https://github.com/BYVoid/OpenCC) - Conversion between Traditional and Simplified Chinese, with regional variants and phrase-level rules.
+  - [OpenCC ![GitHub Repo Stars](https://img.shields.io/github/stars/BYVoid/OpenCC) ![GitHub last commit](https://img.shields.io/github/last-commit/BYVoid/OpenCC)](https://github.com/BYVoid/OpenCC) - Traditional/Simplified Chinese conversion with regional variants and phrase-level rules.
   - [pangu.py ![GitHub Repo Stars](https://img.shields.io/github/stars/vinta/pangu.py) ![GitHub last commit](https://img.shields.io/github/last-commit/vinta/pangu.py)](https://github.com/vinta/pangu.py) - Paranoid text spacing.
 
 ### Computer Vision
@@ -299,7 +299,7 @@ _Libraries for building RESTful, GraphQL, and RPC APIs._
 - Framework Agnostic
   - [fastapi ![GitHub Repo Stars](https://img.shields.io/github/stars/fastapi/fastapi) ![GitHub last commit](https://img.shields.io/github/last-commit/fastapi/fastapi)](https://github.com/fastapi/fastapi) - A modern, fast, web framework for building APIs with standard Python type hints.
   - [strawberry ![GitHub Repo Stars](https://img.shields.io/github/stars/strawberry-graphql/strawberry) ![GitHub last commit](https://img.shields.io/github/last-commit/strawberry-graphql/strawberry)](https://github.com/strawberry-graphql/strawberry) - A GraphQL library that leverages Python type annotations for schema definition.
-  - [connexion ![GitHub Repo Stars](https://img.shields.io/github/stars/spec-first/connexion) ![GitHub last commit](https://img.shields.io/github/last-commit/spec-first/connexion)](https://github.com/spec-first/connexion) - A spec-first framework that automatically handles requests based on your OpenAPI specification.
+  - [connexion ![GitHub Repo Stars](https://img.shields.io/github/stars/spec-first/connexion) ![GitHub last commit](https://img.shields.io/github/last-commit/spec-first/connexion)](https://github.com/spec-first/connexion) - A spec-first framework that handles requests based on your OpenAPI specification.
 - RPC
   - [grpcio ![GitHub Repo Stars](https://img.shields.io/github/stars/grpc/grpc) ![GitHub last commit](https://img.shields.io/github/last-commit/grpc/grpc)](https://github.com/grpc/grpc) - HTTP/2-based RPC framework with Python bindings, built by Google.
 
@@ -309,7 +309,7 @@ _ASGI and WSGI compatible web servers._
 
 - ASGI
   - [uvicorn ![GitHub Repo Stars](https://img.shields.io/github/stars/Kludex/uvicorn) ![GitHub last commit](https://img.shields.io/github/last-commit/Kludex/uvicorn)](https://github.com/Kludex/uvicorn) - A lightning-fast ASGI server implementation.
-  - [granian ![GitHub Repo Stars](https://img.shields.io/github/stars/emmett-framework/granian) ![GitHub last commit](https://img.shields.io/github/last-commit/emmett-framework/granian)](https://github.com/emmett-framework/granian) - A Rust HTTP server for Python applications built on top of Hyper and Tokio, supporting WSGI/ASGI/RSGI.
+  - [granian ![GitHub Repo Stars](https://img.shields.io/github/stars/emmett-framework/granian) ![GitHub last commit](https://img.shields.io/github/last-commit/emmett-framework/granian)](https://github.com/emmett-framework/granian) - A Rust HTTP server for Python apps built on Hyper and Tokio, supporting WSGI/ASGI/RSGI.
   - [hypercorn ![GitHub Repo Stars](https://img.shields.io/github/stars/pgjones/hypercorn) ![GitHub last commit](https://img.shields.io/github/last-commit/pgjones/hypercorn)](https://github.com/pgjones/hypercorn) - An ASGI and WSGI Server based on Hyper libraries and inspired by Gunicorn.
 - WSGI
   - [gunicorn ![GitHub Repo Stars](https://img.shields.io/github/stars/benoitc/gunicorn) ![GitHub last commit](https://img.shields.io/github/last-commit/benoitc/gunicorn)](https://github.com/benoitc/gunicorn) - A pre-fork WSGI server with a native ASGI worker, ported from Ruby's Unicorn project.
@@ -335,7 +335,7 @@ _Libraries for rendering text and HTML from templates._
 
 _Tools for managing, storing, compressing and minifying website assets._
 
-- [whitenoise ![GitHub Repo Stars](https://img.shields.io/github/stars/evansd/whitenoise) ![GitHub last commit](https://img.shields.io/github/last-commit/evansd/whitenoise)](https://github.com/evansd/whitenoise) - Radically simplified static file serving for WSGI applications, with compression and caching headers.
+- [whitenoise ![GitHub Repo Stars](https://img.shields.io/github/stars/evansd/whitenoise) ![GitHub last commit](https://img.shields.io/github/last-commit/evansd/whitenoise)](https://github.com/evansd/whitenoise) - Simplified static file serving for WSGI apps, with compression and caching headers.
 - [django-storages ![GitHub Repo Stars](https://img.shields.io/github/stars/jschneier/django-storages) ![GitHub last commit](https://img.shields.io/github/last-commit/jschneier/django-storages)](https://github.com/jschneier/django-storages) - A collection of custom storage back ends for Django.
 - [django-compressor ![GitHub Repo Stars](https://img.shields.io/github/stars/django-compressor/django-compressor) ![GitHub last commit](https://img.shields.io/github/last-commit/django-compressor/django-compressor)](https://github.com/django-compressor/django-compressor) - Compresses linked and inline JavaScript or CSS into a single cached file.
 
@@ -352,7 +352,7 @@ _Libraries for implementing authentication schemes._
   - [pyjwt ![GitHub Repo Stars](https://img.shields.io/github/stars/jpadilla/pyjwt) ![GitHub last commit](https://img.shields.io/github/last-commit/jpadilla/pyjwt)](https://github.com/jpadilla/pyjwt) - JSON Web Token implementation in Python.
 - Permissions
   - [django-guardian ![GitHub Repo Stars](https://img.shields.io/github/stars/django-guardian/django-guardian) ![GitHub last commit](https://img.shields.io/github/last-commit/django-guardian/django-guardian)](https://github.com/django-guardian/django-guardian) - Implementation of per-object permissions for Django.
-  - [django-rules ![GitHub Repo Stars](https://img.shields.io/github/stars/dfunckt/django-rules) ![GitHub last commit](https://img.shields.io/github/last-commit/dfunckt/django-rules)](https://github.com/dfunckt/django-rules) - A tiny but powerful app providing object-level permissions to Django, without requiring a database.
+  - [django-rules ![GitHub Repo Stars](https://img.shields.io/github/stars/dfunckt/django-rules) ![GitHub last commit](https://img.shields.io/github/last-commit/dfunckt/django-rules)](https://github.com/dfunckt/django-rules) - A tiny but powerful app for object-level permissions in Django, without a database.
 
 ### Admin Panels
 
@@ -475,7 +475,7 @@ _In-process databases usable directly from Python._
   - [chdb ![GitHub Repo Stars](https://img.shields.io/github/stars/chdb-io/chdb) ![GitHub last commit](https://img.shields.io/github/last-commit/chdb-io/chdb)](https://github.com/chdb-io/chdb) - In-process OLAP SQL engine with the full ClickHouse dialect, zero-copy pandas/Arrow interop, and federation to remote ClickHouse clusters via `remoteSecure()`.
 - Vector
   - [lancedb ![GitHub Repo Stars](https://img.shields.io/github/stars/lancedb/lancedb) ![GitHub last commit](https://img.shields.io/github/last-commit/lancedb/lancedb)](https://github.com/lancedb/lancedb) - A developer-friendly embedded retrieval database for multimodal AI.
-  - [chromadb ![GitHub Repo Stars](https://img.shields.io/github/stars/chroma-core/chroma) ![GitHub last commit](https://img.shields.io/github/last-commit/chroma-core/chroma)](https://github.com/chroma-core/chroma) - An open-source embedding database for building AI applications with embeddings and semantic search.
+  - [chromadb ![GitHub Repo Stars](https://img.shields.io/github/stars/chroma-core/chroma) ![GitHub last commit](https://img.shields.io/github/last-commit/chroma-core/chroma)](https://github.com/chroma-core/chroma) - An open-source embedding database for building AI applications with semantic search.
   - [zvec ![GitHub Repo Stars](https://img.shields.io/github/stars/alibaba/zvec) ![GitHub last commit](https://img.shields.io/github/last-commit/alibaba/zvec)](https://github.com/alibaba/zvec) - A lightweight, in-process vector database that embeds directly into applications.
 - Key-Value & Document
   - [tinydb ![GitHub Repo Stars](https://img.shields.io/github/stars/msiemens/tinydb) ![GitHub last commit](https://img.shields.io/github/last-commit/msiemens/tinydb)](https://github.com/msiemens/tinydb) - A tiny, document-oriented database.
@@ -487,7 +487,7 @@ _Libraries for caching data._
 - General
   - [cachetools ![GitHub Repo Stars](https://img.shields.io/github/stars/tkem/cachetools) ![GitHub last commit](https://img.shields.io/github/last-commit/tkem/cachetools)](https://github.com/tkem/cachetools) - Extensible memoizing collections and decorators.
   - [diskcache ![GitHub Repo Stars](https://img.shields.io/github/stars/grantjenks/python-diskcache) ![GitHub last commit](https://img.shields.io/github/last-commit/grantjenks/python-diskcache)](https://github.com/grantjenks/python-diskcache) - SQLite and file backed cache backend, compatible with Django.
-  - [dogpile.cache ![GitHub Repo Stars](https://img.shields.io/github/stars/sqlalchemy/dogpile.cache) ![GitHub last commit](https://img.shields.io/github/last-commit/sqlalchemy/dogpile.cache)](https://github.com/sqlalchemy/dogpile.cache) - A caching API for Redis, Memcached, and other backends, with coordinated value regeneration.
+  - [dogpile.cache ![GitHub Repo Stars](https://img.shields.io/github/stars/sqlalchemy/dogpile.cache) ![GitHub last commit](https://img.shields.io/github/last-commit/sqlalchemy/dogpile.cache)](https://github.com/sqlalchemy/dogpile.cache) - A caching API for Redis, Memcached, and others, with coordinated value regeneration.
 - HTTP Responses
   - [hishel ![GitHub Repo Stars](https://img.shields.io/github/stars/karpetrosyan/hishel) ![GitHub last commit](https://img.shields.io/github/last-commit/karpetrosyan/hishel)](https://github.com/karpetrosyan/hishel) - RFC 9111 compliant HTTP caching for clients like httpx and requests and servers like FastAPI, with sync and async support.
 - Django
@@ -514,10 +514,10 @@ _Libraries for serializing complex data types._
   - [msgpack ![GitHub Repo Stars](https://img.shields.io/github/stars/msgpack/msgpack-python) ![GitHub last commit](https://img.shields.io/github/last-commit/msgpack/msgpack-python)](https://github.com/msgpack/msgpack-python) - MessagePack serializer implementation for Python.
   - [orjson ![GitHub Repo Stars](https://img.shields.io/github/stars/ijl/orjson) ![GitHub last commit](https://img.shields.io/github/last-commit/ijl/orjson)](https://github.com/ijl/orjson) - Fast, correct JSON library.
   - [marshmallow ![GitHub Repo Stars](https://img.shields.io/github/stars/marshmallow-code/marshmallow) ![GitHub last commit](https://img.shields.io/github/last-commit/marshmallow-code/marshmallow)](https://github.com/marshmallow-code/marshmallow) - A lightweight library for converting complex objects to and from simple Python datatypes.
-  - [msgspec ![GitHub Repo Stars](https://img.shields.io/github/stars/msgspec/msgspec) ![GitHub last commit](https://img.shields.io/github/last-commit/msgspec/msgspec)](https://github.com/msgspec/msgspec) - A fast serialization and validation library with built-in support for JSON, MessagePack, YAML, and TOML.
+  - [msgspec ![GitHub Repo Stars](https://img.shields.io/github/stars/msgspec/msgspec) ![GitHub last commit](https://img.shields.io/github/last-commit/msgspec/msgspec)](https://github.com/msgspec/msgspec) - A fast serialization and validation library supporting JSON, MessagePack, YAML, and TOML.
 - Object Pickling
   - [cloudpickle ![GitHub Repo Stars](https://img.shields.io/github/stars/cloudpipe/cloudpickle) ![GitHub last commit](https://img.shields.io/github/last-commit/cloudpipe/cloudpickle)](https://github.com/cloudpipe/cloudpickle) - Extends pickle to functions, lambdas, and interactively defined classes, for shipping code to remote workers.
-  - [dill ![GitHub Repo Stars](https://img.shields.io/github/stars/uqfoundation/dill) ![GitHub last commit](https://img.shields.io/github/last-commit/uqfoundation/dill)](https://github.com/uqfoundation/dill) - Extends pickle to serialize almost any Python object, including closures and whole interpreter sessions.
+  - [dill ![GitHub Repo Stars](https://img.shields.io/github/stars/uqfoundation/dill) ![GitHub last commit](https://img.shields.io/github/last-commit/uqfoundation/dill)](https://github.com/uqfoundation/dill) - Extends pickle to serialize almost any object, including closures and interpreter sessions.
 
 **Data & Science**
 
@@ -539,7 +539,7 @@ _Libraries for data extraction, transformation, and loading pipelines across mul
 - Financial Data
   - [yfinance ![GitHub Repo Stars](https://img.shields.io/github/stars/ranaroussi/yfinance) ![GitHub last commit](https://img.shields.io/github/last-commit/ranaroussi/yfinance)](https://github.com/ranaroussi/yfinance) - Easy Pythonic way to download market and financial data from Yahoo Finance.
   - [akshare ![GitHub Repo Stars](https://img.shields.io/github/stars/akfamily/akshare) ![GitHub last commit](https://img.shields.io/github/last-commit/akfamily/akshare)](https://github.com/akfamily/akshare) - A financial data interface library, with data provided for academic research only.
-  - [edgartools ![GitHub Repo Stars](https://img.shields.io/github/stars/dgunning/edgartools) ![GitHub last commit](https://img.shields.io/github/last-commit/dgunning/edgartools)](https://github.com/dgunning/edgartools) - Library for downloading structured data from SEC EDGAR filings and XBRL financial statements.
+  - [edgartools ![GitHub Repo Stars](https://img.shields.io/github/stars/dgunning/edgartools) ![GitHub last commit](https://img.shields.io/github/last-commit/dgunning/edgartools)](https://github.com/dgunning/edgartools) - Downloads SEC EDGAR filings and XBRL financial statements as structured data.
   - [openbb ![GitHub Repo Stars](https://img.shields.io/github/stars/openbq-org/OpenBB) ![GitHub last commit](https://img.shields.io/github/last-commit/openbq-org/OpenBB)](https://github.com/openbq-org/OpenBB) - A financial data platform for analysts, quants and AI agents.
 
 ### Data Validation
@@ -564,7 +564,7 @@ _Libraries for visualizing data. Also see [awesome-javascript ![GitHub Repo Star
 - Specialized
   - [graphviz ![GitHub Repo Stars](https://img.shields.io/github/stars/xflr6/graphviz) ![GitHub last commit](https://img.shields.io/github/last-commit/xflr6/graphviz)](https://github.com/xflr6/graphviz) - Simple Python interface for creating and rendering Graphviz graphs.
   - [cartopy ![GitHub Repo Stars](https://img.shields.io/github/stars/SciTools/cartopy) ![GitHub last commit](https://img.shields.io/github/last-commit/SciTools/cartopy)](https://github.com/SciTools/cartopy) - A cartographic Python library with matplotlib support.
-  - [graphify ![GitHub Repo Stars](https://img.shields.io/github/stars/Graphify-Labs/graphify) ![GitHub last commit](https://img.shields.io/github/last-commit/Graphify-Labs/graphify)](https://github.com/Graphify-Labs/graphify) - Turn any folder of code, SQL schemas, docs, papers, images, or videos into a queryable knowledge graph.
+  - [graphify ![GitHub Repo Stars](https://img.shields.io/github/stars/Graphify-Labs/graphify) ![GitHub last commit](https://img.shields.io/github/last-commit/Graphify-Labs/graphify)](https://github.com/Graphify-Labs/graphify) - Turns code, SQL schemas, docs, papers, images, or videos into a queryable knowledge graph.
 - Dashboards and Apps
   - [streamlit ![GitHub Repo Stars](https://img.shields.io/github/stars/streamlit/streamlit) ![GitHub last commit](https://img.shields.io/github/last-commit/streamlit/streamlit)](https://github.com/streamlit/streamlit) - A framework which lets you build dashboards, generate reports, or create chat apps in minutes.
   - [dash ![GitHub Repo Stars](https://img.shields.io/github/stars/plotly/dash) ![GitHub last commit](https://img.shields.io/github/last-commit/plotly/dash)](https://github.com/plotly/dash) - A framework for building data apps and dashboards in pure Python, built on Plotly.
@@ -616,7 +616,7 @@ _Libraries for quantum computing._
 
 - [qiskit ![GitHub Repo Stars](https://img.shields.io/github/stars/Qiskit/qiskit) ![GitHub last commit](https://img.shields.io/github/last-commit/Qiskit/qiskit)](https://github.com/Qiskit/qiskit) - An IBM-backed quantum SDK for building, simulating, and running circuits on real quantum hardware.
 - [qutip ![GitHub Repo Stars](https://img.shields.io/github/stars/qutip/qutip) ![GitHub last commit](https://img.shields.io/github/last-commit/qutip/qutip)](https://github.com/qutip/qutip) - Quantum Toolbox in Python.
-- [pennylane ![GitHub Repo Stars](https://img.shields.io/github/stars/PennyLaneAI/pennylane) ![GitHub last commit](https://img.shields.io/github/last-commit/PennyLaneAI/pennylane)](https://github.com/PennyLaneAI/pennylane) - A cross-platform library for quantum computing, quantum machine learning, and quantum chemistry.
+- [pennylane ![GitHub Repo Stars](https://img.shields.io/github/stars/PennyLaneAI/pennylane) ![GitHub last commit](https://img.shields.io/github/last-commit/PennyLaneAI/pennylane)](https://github.com/PennyLaneAI/pennylane) - A cross-platform library for quantum computing, quantum ML, and quantum chemistry.
 - [cirq ![GitHub Repo Stars](https://img.shields.io/github/stars/quantumlib/Cirq) ![GitHub last commit](https://img.shields.io/github/last-commit/quantumlib/Cirq)](https://github.com/quantumlib/Cirq) - A Google-developed framework focused on hardware-aware quantum circuit design for NISQ devices.
 
 **Developer Tools**
@@ -690,7 +690,7 @@ _Libraries for testing codebases and generating test data. Also see [awesome-pyt
 - Load Testing
   - [locust ![GitHub Repo Stars](https://img.shields.io/github/stars/locustio/locust) ![GitHub last commit](https://img.shields.io/github/last-commit/locustio/locust)](https://github.com/locustio/locust) - Scalable user load testing tool written in Python.
 - API Testing
-  - [schemathesis ![GitHub Repo Stars](https://img.shields.io/github/stars/schemathesis/schemathesis) ![GitHub last commit](https://img.shields.io/github/last-commit/schemathesis/schemathesis)](https://github.com/schemathesis/schemathesis) - A tool for automatic property-based testing of web APIs from OpenAPI or GraphQL schemas.
+  - [schemathesis ![GitHub Repo Stars](https://img.shields.io/github/stars/schemathesis/schemathesis) ![GitHub last commit](https://img.shields.io/github/last-commit/schemathesis/schemathesis)](https://github.com/schemathesis/schemathesis) - Automatic property-based testing of web APIs from OpenAPI or GraphQL schemas.
 - Mock
   - [unittest.mock](https://docs.python.org/3/library/unittest.mock.html) - (Python standard library) A mocking and patching library.
   - [responses ![GitHub Repo Stars](https://img.shields.io/github/stars/getsentry/responses) ![GitHub last commit](https://img.shields.io/github/last-commit/getsentry/responses)](https://github.com/getsentry/responses) - A utility library for mocking out the requests Python library.
@@ -717,7 +717,7 @@ _Libraries for debugging code._
   - [viztracer ![GitHub Repo Stars](https://img.shields.io/github/stars/gaogaotiantian/viztracer) ![GitHub last commit](https://img.shields.io/github/last-commit/gaogaotiantian/viztracer)](https://github.com/gaogaotiantian/viztracer) - A low-overhead tool that traces and visualizes Python code execution.
 - Profiler
   - [py-spy ![GitHub Repo Stars](https://img.shields.io/github/stars/benfred/py-spy) ![GitHub last commit](https://img.shields.io/github/last-commit/benfred/py-spy)](https://github.com/benfred/py-spy) - A sampling profiler for Python programs. Written in Rust.
-  - [memray ![GitHub Repo Stars](https://img.shields.io/github/stars/bloomberg/memray) ![GitHub last commit](https://img.shields.io/github/last-commit/bloomberg/memray)](https://github.com/bloomberg/memray) - A memory profiler that tracks allocations in Python code, native extensions, and the interpreter itself.
+  - [memray ![GitHub Repo Stars](https://img.shields.io/github/stars/bloomberg/memray) ![GitHub last commit](https://img.shields.io/github/last-commit/bloomberg/memray)](https://github.com/bloomberg/memray) - Tracks memory allocations in Python code, native extensions, and the interpreter itself.
   - [pyinstrument ![GitHub Repo Stars](https://img.shields.io/github/stars/joerick/pyinstrument) ![GitHub last commit](https://img.shields.io/github/last-commit/joerick/pyinstrument)](https://github.com/joerick/pyinstrument) - A statistical wall-clock profiler with low overhead and readable call-tree output.
   - [scalene ![GitHub Repo Stars](https://img.shields.io/github/stars/plasma-umass/scalene) ![GitHub last commit](https://img.shields.io/github/last-commit/plasma-umass/scalene)](https://github.com/plasma-umass/scalene) - A high-performance, high-precision CPU, GPU, and memory profiler for Python.
 - Others
@@ -801,7 +801,7 @@ _Libraries for working with message brokers and event streaming._
 - [confluent-kafka ![GitHub Repo Stars](https://img.shields.io/github/stars/confluentinc/confluent-kafka-python) ![GitHub last commit](https://img.shields.io/github/last-commit/confluentinc/confluent-kafka-python)](https://github.com/confluentinc/confluent-kafka-python) - Confluent's Python client for Apache Kafka, built on librdkafka.
 - [pika ![GitHub Repo Stars](https://img.shields.io/github/stars/pika/pika) ![GitHub last commit](https://img.shields.io/github/last-commit/pika/pika)](https://github.com/pika/pika) - Pure-Python RabbitMQ/AMQP 0-9-1 client library.
 - [paho-mqtt ![GitHub Repo Stars](https://img.shields.io/github/stars/eclipse-paho/paho.mqtt.python) ![GitHub last commit](https://img.shields.io/github/last-commit/eclipse-paho/paho.mqtt.python)](https://github.com/eclipse-paho/paho.mqtt.python) - The Eclipse Paho MQTT client for Python.
-- [faststream ![GitHub Repo Stars](https://img.shields.io/github/stars/ag2ai/faststream) ![GitHub last commit](https://img.shields.io/github/last-commit/ag2ai/faststream)](https://github.com/ag2ai/faststream) - A framework for building asynchronous services over Apache Kafka, RabbitMQ, NATS, MQTT and Redis.
+- [faststream ![GitHub Repo Stars](https://img.shields.io/github/stars/ag2ai/faststream) ![GitHub last commit](https://img.shields.io/github/last-commit/ag2ai/faststream)](https://github.com/ag2ai/faststream) - A framework for building async services over Kafka, RabbitMQ, NATS, MQTT, and Redis.
 
 ### Job Schedulers
 
@@ -865,7 +865,7 @@ _Useful CLI-based tools._
   - [litecli ![GitHub Repo Stars](https://img.shields.io/github/stars/dbcli/litecli) ![GitHub last commit](https://img.shields.io/github/last-commit/dbcli/litecli)](https://github.com/dbcli/litecli) - SQLite CLI with autocompletion and syntax highlighting.
   - [iredis ![GitHub Repo Stars](https://img.shields.io/github/stars/laixintao/iredis) ![GitHub last commit](https://img.shields.io/github/last-commit/laixintao/iredis)](https://github.com/laixintao/iredis) - Redis CLI with autocompletion and syntax highlighting.
 - Downloaders
-  - [yt-dlp ![GitHub Repo Stars](https://img.shields.io/github/stars/yt-dlp/yt-dlp) ![GitHub last commit](https://img.shields.io/github/last-commit/yt-dlp/yt-dlp)](https://github.com/yt-dlp/yt-dlp) - A command-line program to download videos from YouTube and other video sites, a fork of youtube-dl.
+  - [yt-dlp ![GitHub Repo Stars](https://img.shields.io/github/stars/yt-dlp/yt-dlp) ![GitHub last commit](https://img.shields.io/github/last-commit/yt-dlp/yt-dlp)](https://github.com/yt-dlp/yt-dlp) - A command-line video downloader for YouTube and other sites, a fork of youtube-dl.
 - HTTP Clients
   - [httpie ![GitHub Repo Stars](https://img.shields.io/github/stars/httpie/cli) ![GitHub last commit](https://img.shields.io/github/last-commit/httpie/cli)](https://github.com/httpie/cli) - A command line HTTP client, a user-friendly cURL replacement.
 - Project Scaffolding
@@ -883,7 +883,7 @@ _Libraries for working with graphical user interface applications._
 - Desktop
   - [PyGObject ![GitHub Repo Stars](https://img.shields.io/github/stars/GNOME/pygobject) ![GitHub last commit](https://img.shields.io/github/last-commit/GNOME/pygobject)](https://github.com/GNOME/pygobject) - Python Bindings for GLib/GObject/GIO/GTK.
   - [dearpygui ![GitHub Repo Stars](https://img.shields.io/github/stars/hoffstadt/DearPyGui) ![GitHub last commit](https://img.shields.io/github/last-commit/hoffstadt/DearPyGui)](https://github.com/hoffstadt/DearPyGui) - A simple GPU-accelerated Python GUI framework.
-  - [Kivy ![GitHub Repo Stars](https://img.shields.io/github/stars/kivy/kivy) ![GitHub last commit](https://img.shields.io/github/last-commit/kivy/kivy)](https://github.com/kivy/kivy) - An open-source framework for cross-platform GUI apps on desktop, mobile, and embedded platforms.
+  - [Kivy ![GitHub Repo Stars](https://img.shields.io/github/stars/kivy/kivy) ![GitHub last commit](https://img.shields.io/github/last-commit/kivy/kivy)](https://github.com/kivy/kivy) - An open-source cross-platform GUI framework for desktop, mobile, and embedded devices.
   - [wxPython ![GitHub Repo Stars](https://img.shields.io/github/stars/wxWidgets/Phoenix) ![GitHub last commit](https://img.shields.io/github/last-commit/wxWidgets/Phoenix)](https://github.com/wxWidgets/Phoenix) - A cross-platform GUI toolkit that wraps the wxWidgets C++ library.
   - [toga ![GitHub Repo Stars](https://img.shields.io/github/stars/beeware/toga) ![GitHub last commit](https://img.shields.io/github/last-commit/beeware/toga)](https://github.com/beeware/toga) - A Python native, OS native GUI toolkit.
 - Qt
@@ -956,7 +956,7 @@ _Libraries for parsing and manipulating specific file formats._
   - [python-pptx ![GitHub Repo Stars](https://img.shields.io/github/stars/scanny/python-pptx) ![GitHub last commit](https://img.shields.io/github/last-commit/scanny/python-pptx)](https://github.com/scanny/python-pptx) - Python library for creating and updating PowerPoint (.pptx) files.
 - PDF
   - [pypdf ![GitHub Repo Stars](https://img.shields.io/github/stars/py-pdf/pypdf) ![GitHub last commit](https://img.shields.io/github/last-commit/py-pdf/pypdf)](https://github.com/py-pdf/pypdf) - A library capable of splitting, merging, cropping, and transforming PDF pages.
-  - [pymupdf ![GitHub Repo Stars](https://img.shields.io/github/stars/pymupdf/PyMuPDF) ![GitHub last commit](https://img.shields.io/github/last-commit/pymupdf/PyMuPDF)](https://github.com/pymupdf/PyMuPDF) - A fast library for extracting, rendering, and editing PDF and other document formats, built on MuPDF.
+  - [pymupdf ![GitHub Repo Stars](https://img.shields.io/github/stars/pymupdf/PyMuPDF) ![GitHub last commit](https://img.shields.io/github/last-commit/pymupdf/PyMuPDF)](https://github.com/pymupdf/PyMuPDF) - A fast MuPDF-based library for extracting, rendering, and editing PDFs and other documents.
   - [reportlab](https://docs.reportlab.com/) - An open-source library for generating PDFs and graphics.
   - [pdfminer.six ![GitHub Repo Stars](https://img.shields.io/github/stars/pdfminer/pdfminer.six) ![GitHub last commit](https://img.shields.io/github/last-commit/pdfminer/pdfminer.six)](https://github.com/pdfminer/pdfminer.six) - A community-maintained fork of PDFMiner for extracting information from PDF documents.
 - HTML-to-PDF
@@ -1074,7 +1074,7 @@ _Libraries for asynchronous, concurrent and parallel execution. Also see [awesom
   - [gevent ![GitHub Repo Stars](https://img.shields.io/github/stars/gevent/gevent) ![GitHub last commit](https://img.shields.io/github/last-commit/gevent/gevent)](https://github.com/gevent/gevent) - A coroutine-based Python networking library that uses [greenlet ![GitHub Repo Stars](https://img.shields.io/github/stars/python-greenlet/greenlet) ![GitHub last commit](https://img.shields.io/github/last-commit/python-greenlet/greenlet)](https://github.com/python-greenlet/greenlet).
   - [Twisted ![GitHub Repo Stars](https://img.shields.io/github/stars/twisted/twisted) ![GitHub last commit](https://img.shields.io/github/last-commit/twisted/twisted)](https://github.com/twisted/twisted) - An event-driven networking engine.
 - Parallelism
-  - [concurrent.futures](https://docs.python.org/3/library/concurrent.futures.html) - (Python standard library) A high-level interface for asynchronously executing callables.
+  - [concurrent.futures](https://docs.python.org/3/library/concurrent.futures.html) - (Python standard library) High-level asynchronous execution of callables.
   - [multiprocessing](https://docs.python.org/3/library/multiprocessing.html) - (Python standard library) Process-based parallelism.
 
 ### Date and Time
