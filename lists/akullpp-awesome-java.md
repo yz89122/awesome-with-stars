@@ -582,7 +582,7 @@ _Efficient and specific data structures._
 
 > **[Persistent Collection ![GitHub Repo Stars](https://img.shields.io/github/stars/hrldcpr/pcollections) ![GitHub last commit](https://img.shields.io/github/last-commit/hrldcpr/pcollections)](https://github.com/hrldcpr/pcollections)** <kbd>★ 791</kbd> 🔴<br>Persistent and immutable analogue of the Java Collections Framework.
 
-> **[RoaringBitmap ![GitHub Repo Stars](https://img.shields.io/github/stars/RoaringBitmap/RoaringBitmap) ![GitHub last commit](https://img.shields.io/github/last-commit/RoaringBitmap/RoaringBitmap)](https://github.com/RoaringBitmap/RoaringBitmap)** <kbd>★ 3.9k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Fast and efficient compressed bitmap.
+> **[RoaringBitmap ![GitHub Repo Stars](https://img.shields.io/github/stars/RoaringBitmap/RoaringBitmap) ![GitHub last commit](https://img.shields.io/github/last-commit/RoaringBitmap/RoaringBitmap)](https://github.com/RoaringBitmap/RoaringBitmap)** <kbd>★ 3.9k</kbd> <kbd>Apache-2.0</kbd> ����<br>Fast and efficient compressed bitmap.
 
 > **[Wormhole4j ![GitHub Repo Stars](https://img.shields.io/github/stars/komamitsu/wormhole4j) ![GitHub last commit](https://img.shields.io/github/last-commit/komamitsu/wormhole4j)](https://github.com/komamitsu/wormhole4j)** <kbd>★ 10</kbd> <kbd>Apache-2.0</kbd> 🟠<br>High-performance sorted map with fast range scans and thread-safe concurrent access, based on the Wormhole index structure.
 
@@ -1392,7 +1392,7 @@ _Tools for creating and managing microservices._
 
 > **[Micronaut ![GitHub Repo Stars](https://img.shields.io/github/stars/micronaut-projects/micronaut-core) ![GitHub last commit](https://img.shields.io/github/last-commit/micronaut-projects/micronaut-core)](https://github.com/micronaut-projects/micronaut-core)** <kbd>★ 6.4k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Modern full-stack framework with focus on modularity, minimal memory footprint and startup time.
 
-> **[Nacos ![GitHub Repo Stars](https://img.shields.io/github/stars/alibaba/nacos) ![GitHub last commit](https://img.shields.io/github/last-commit/alibaba/nacos)](https://github.com/alibaba/nacos)** <kbd>��� 33.4k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Dynamic service discovery, configuration and service management platform for building cloud native applications.
+> **[Nacos ![GitHub Repo Stars](https://img.shields.io/github/stars/alibaba/nacos) ![GitHub last commit](https://img.shields.io/github/last-commit/alibaba/nacos)](https://github.com/alibaba/nacos)** <kbd>★ 33.4k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Dynamic service discovery, configuration and service management platform for building cloud native applications.
 
 > **[Quarkus ![GitHub Repo Stars](https://img.shields.io/github/stars/quarkusio/quarkus) ![GitHub last commit](https://img.shields.io/github/last-commit/quarkusio/quarkus)](https://github.com/quarkusio/quarkus)** <kbd>★ 15.9k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Kubernetes stack tailored for the HotSpot and Graal VM.
 
