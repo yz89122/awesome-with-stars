@@ -602,7 +602,7 @@ By default, govulncheck makes requests to the Go vulnerability database at https
 
 - [unconvert ![GitHub Repo Stars](https://img.shields.io/github/stars/mdempsky/unconvert) ![GitHub last commit](https://img.shields.io/github/last-commit/mdempsky/unconvert)](https://github.com/mdempsky/unconvert) — Detect redundant type conversions.
 
-- [unparam ![GitHub Repo Stars](https://img.shields.io/github/stars/mvdan/unparam) ![GitHub last commit](https://img.shields.io/github/last-commit/mvdan/unparam)](https://github.com/mvdan/unparam) — Find unused function parameters.
+- [unparam ![GitHub Repo Stars](https://img.shields.io/github/stars/mvdan/unparam) ![GitHub last commit](https://img.shields.io/github/last-commit/mvdan/unparam)](https://github.com/mvdan/unparam) �� Find unused function parameters.
 
 - [varcheck](https://gitlab.com/opennota/check) — Find unused global variables and constants.
 
@@ -1446,6 +1446,8 @@ YAPF follows a distinctive methodology, originating from the 'clang-format' tool
 
 - [flog](https://ruby.sadi.st/Flog.html) — Flog reports the most tortured code in an easy to read pain report. The higher the score, the more pain the code is in.
 
+- [htmlbeautifier ![GitHub Repo Stars](https://img.shields.io/github/stars/threedaymonk/htmlbeautifier) ![GitHub last commit](https://img.shields.io/github/last-commit/threedaymonk/htmlbeautifier)](https://github.com/threedaymonk/htmlbeautifier) — A normaliser/beautifier for HTML that also understands embedded Ruby. Ideal for tidying up Rails templates.
+
 - [rails_best_practices](https://rails-bestpractices.com) — A code metric tool for Rails projects
 
 - [reek ![GitHub Repo Stars](https://img.shields.io/github/stars/troessner/reek) ![GitHub last commit](https://img.shields.io/github/last-commit/troessner/reek)](https://github.com/troessner/reek) — Code smell detector for Ruby.
@@ -1490,10 +1492,6 @@ YAPF follows a distinctive methodology, originating from the 'clang-format' tool
 
 
 - **Fukuzatsu** :warning: — A tool for measuring code complexity in Ruby class files. Its analysis generates scores based on cyclomatic complexity algorithms with no added "opinions".
-
-
-
-- **htmlbeautifier** :warning: — A normaliser/beautifier for HTML that also understands embedded Ruby. Ideal for tidying up Rails templates.
 
 
 
@@ -1588,6 +1586,8 @@ Kani verifies:
 
 - [lockbud ![GitHub Repo Stars](https://img.shields.io/github/stars/BurtonQin/lockbud) ![GitHub last commit](https://img.shields.io/github/last-commit/BurtonQin/lockbud)](https://github.com/BurtonQin/lockbud) — Statically detects Rust deadlocks bugs. It currently detects two common kinds of deadlock bugs: doublelock and locks in conflicting order. It will print bugs in JSON format together with the source code location and an explanation of each bug.
 
+- [Prusti](https://www.pm.inf.ethz.ch/research/prusti.html) — A static verifier for Rust, based on the Viper verification infrastructure. By default Prusti verifies absence of panics by proving that statements such as unreachable!() and panic!() are unreachable.
+
 - [Rudra ![GitHub Repo Stars](https://img.shields.io/github/stars/sslab-gatech/Rudra) ![GitHub last commit](https://img.shields.io/github/last-commit/sslab-gatech/Rudra)](https://github.com/sslab-gatech/Rudra) — Rust Memory Safety & Undefined Behavior Detection. It is capable of analyzing single Rust packages as well as all the packages on crates.io.
 
 - [rust-analyzer](https://rust-analyzer.github.io) — Supports functionality such as 'goto definition', type inference, symbol search, reformatting, and code completion, and enables renaming and refactorings.
@@ -1643,10 +1643,6 @@ It removes a feature of a dependency and then compiles the project to see if it 
 
 
 - **prae** :warning: — Provides a convenient macro that allows you to generate type wrappers  that promise to always uphold arbitrary invariants that you specified. 
-
-
-
-- **Prusti** :warning: — A static verifier for Rust, based on the Viper verification infrastructure. By default Prusti verifies absence of panics by proving that statements such as unreachable!() and panic!() are unreachable.
 
 
 
@@ -2722,16 +2718,14 @@ Its technology helps developers automate testing, find bugs, and reduce manual l
 
 - [ERB Lint ![GitHub Repo Stars](https://img.shields.io/github/stars/Shopify/erb-lint) ![GitHub last commit](https://img.shields.io/github/last-commit/Shopify/erb-lint)](https://github.com/Shopify/erb-lint) — Lint your ERB or HTML files
 
+- [htmlbeautifier ![GitHub Repo Stars](https://img.shields.io/github/stars/threedaymonk/htmlbeautifier) ![GitHub last commit](https://img.shields.io/github/last-commit/threedaymonk/htmlbeautifier)](https://github.com/threedaymonk/htmlbeautifier) — A normaliser/beautifier for HTML that also understands embedded Ruby. Ideal for tidying up Rails templates.
+
 
 
 <details>
 <summary>Show Deprecated</summary>
 
 - **ERB::Formatter** :warning: — Format ERB files with speed and precision.
-
-
-
-- **htmlbeautifier** :warning: — A normaliser/beautifier for HTML that also understands embedded Ruby. Ideal for tidying up Rails templates.
 
 </details>
 
@@ -2763,6 +2757,8 @@ Its technology helps developers automate testing, find bugs, and reduce manual l
 - [ERB Lint ![GitHub Repo Stars](https://img.shields.io/github/stars/Shopify/erb-lint) ![GitHub last commit](https://img.shields.io/github/last-commit/Shopify/erb-lint)](https://github.com/Shopify/erb-lint) — Lint your ERB or HTML files
 
 - [HTML-Validate](https://html-validate.org/) — Offline HTML5 validator.
+
+- [htmlbeautifier ![GitHub Repo Stars](https://img.shields.io/github/stars/threedaymonk/htmlbeautifier) ![GitHub last commit](https://img.shields.io/github/last-commit/threedaymonk/htmlbeautifier)](https://github.com/threedaymonk/htmlbeautifier) — A normaliser/beautifier for HTML that also understands embedded Ruby. Ideal for tidying up Rails templates.
 
 - [HTMLHint](https://htmlhint.com) — A Static Code Analysis Tool for HTML.
 
@@ -2800,10 +2796,6 @@ Its technology helps developers automate testing, find bugs, and reduce manual l
 
 
 - **HTML Tidy** :warning: — Corrects and cleans up HTML and XML documents by fixing markup errors and upgrading legacy code to modern standards.
-
-
-
-- **htmlbeautifier** :warning: — A normaliser/beautifier for HTML that also understands embedded Ruby. Ideal for tidying up Rails templates.
 
 </details>
 
@@ -2939,8 +2931,6 @@ but with the following improvements:
 
 - [markdownlint ![GitHub Repo Stars](https://img.shields.io/github/stars/DavidAnson/markdownlint) ![GitHub last commit](https://img.shields.io/github/last-commit/DavidAnson/markdownlint)](https://github.com/DavidAnson/markdownlint) — Node.js -based style checker and lint tool for Markdown/CommonMark files.
 
-- [mdformat](https://mdformat.rtfd.io) — CommonMark compliant Markdown formatter
-
 - [mdl ![GitHub Repo Stars](https://img.shields.io/github/stars/mivok/markdownlint) ![GitHub last commit](https://img.shields.io/github/last-commit/mivok/markdownlint)](https://github.com/mivok/markdownlint) — A tool to check Markdown files and flag style issues.
 
 - [mdsf ![GitHub Repo Stars](https://img.shields.io/github/stars/hougesen/mdsf) ![GitHub last commit](https://img.shields.io/github/last-commit/hougesen/mdsf)](https://github.com/hougesen/mdsf) — Format markdown code blocks using your favorite code formatters.
@@ -2950,6 +2940,15 @@ but with the following improvements:
 - [skillsaw](https://skillsaw.org/) — Configurable linter for the files that steer AI coding agents, including skills, plugins, instruction files, hooks, and related configuration. Detects structural, content-quality, and security issues and provides deterministic autofixes, baselines, and CI-ready output.
 
 - [textlint](https://textlint.github.io/) — textlint is an open source text linting utility written in JavaScript.
+
+
+
+<details>
+<summary>Show Deprecated</summary>
+
+- **mdformat** :warning: — CommonMark compliant Markdown formatter
+
+</details>
 
 
 
