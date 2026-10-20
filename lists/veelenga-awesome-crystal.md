@@ -632,6 +632,7 @@ described in [RFC 8032]
 ## DevOps
  * [ansible-crystal ![GitHub Repo Stars](https://img.shields.io/github/stars/CorbanR/ansible-crystal) ![GitHub last commit](https://img.shields.io/github/last-commit/CorbanR/ansible-crystal)](https://github.com/CorbanR/ansible-crystal) - Ansible playbook for installing crystal
  * [DPPM ![GitHub Repo Stars](https://img.shields.io/github/stars/DFabric/dppm) ![GitHub last commit](https://img.shields.io/github/last-commit/DFabric/dppm)](https://github.com/DFabric/dppm) - An easy, universal way to install and manage applications as packages (mostly Linux)
+ * [krikri ![GitHub Repo Stars](https://img.shields.io/github/stars/weirdbricks/krikri) ![GitHub last commit](https://img.shields.io/github/last-commit/weirdbricks/krikri)](https://github.com/weirdbricks/krikri) - Fast Ansible-compatible automation engine
 
 ## Editor Plugins
  * Acme:

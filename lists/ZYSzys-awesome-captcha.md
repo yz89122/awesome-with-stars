@@ -71,6 +71,7 @@
 - [ecthros/uncaptcha ![GitHub Repo Stars](https://img.shields.io/github/stars/ecthros/uncaptcha) ![GitHub last commit](https://img.shields.io/github/last-commit/ecthros/uncaptcha)](https://github.com/ecthros/uncaptcha) - Defeating Google's audio reCaptcha with 85% accuracy.
 - [dessant/buster ![GitHub Repo Stars](https://img.shields.io/github/stars/dessant/buster) ![GitHub last commit](https://img.shields.io/github/last-commit/dessant/buster)](https://github.com/dessant/buster) - Captcha solver extension for humans and monsters.
 - [kerlomz/captcha_trainer ![GitHub Repo Stars](https://img.shields.io/github/stars/kerlomz/captcha_trainer) ![GitHub last commit](https://img.shields.io/github/last-commit/kerlomz/captcha_trainer)](https://github.com/kerlomz/captcha_trainer) - Based on CNN5/DenseNet+BLSTM/LSTM+CTC to realize verification code identification. Only for training the model.
+- [NoneCap](https://nonecap.com/) - Hosted hCaptcha solver API (regular, invisible and enterprise sitekeys) with Node.js and Python SDKs.
 
 ### Chinese
 - [burness/chinese_hand_write_rec ![GitHub Repo Stars](https://img.shields.io/github/stars/burness/tensorflow-101) ![GitHub last commit](https://img.shields.io/github/last-commit/burness/tensorflow-101)](https://github.com/burness/tensorflow-101/tree/master/chinese_hand_write_rec/src) - Handwritten chinese recognition.
