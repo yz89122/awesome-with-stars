@@ -12,9 +12,9 @@
     <a href="https://t.me/opensourcemacosapps"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-Channel-blue.svg" /></a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Total%20Apps-894-blue" alt="Total Apps"/>
+    <img src="https://img.shields.io/badge/Total%20Apps-909-blue" alt="Total Apps"/>
     <img src="https://img.shields.io/badge/Categories-49-green" alt="Categories"/>
-    <img src="https://img.shields.io/badge/Last%20Updated-October%2019,%202026-orange" alt="Last Updated"/>
+    <img src="https://img.shields.io/badge/Last%20Updated-October%2020,%202026-orange" alt="Last Updated"/>
   </p>
 </div>
 
@@ -44,9 +44,9 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 
 | Metric | Count |
 |--------|-------|
-| 📱 Total Applications | 894 |
+| 📱 Total Applications | 909 |
 | 📂 Categories | 49 |
-| 🔝 Top Languages | Swift: 446 • Objective-C: 142 • Javascript: 124 • Typescript: 77 • C++: 63 |
+| 🔝 Top Languages | Swift: 457 • Objective-C: 142 • Javascript: 125 • Typescript: 80 • C++: 64 |
 
 ## Languages
 
@@ -125,7 +125,7 @@ You can see in which language an app is written. Currently there are following l
 - [Window Management](#window-management)
 
 ## Applications
-### 🎵 Audio (58)
+### 🎵 Audio (59)
 - [[Un]MuteMic](https://github.com/CocoaHeadsBrasil/MuteUnmuteMic) - macOS app to mute & unmute the input volume of your microphone. Perfect for podcasters.
 
   **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/c-64.png' alt='C icon' title='C' height='16'/> C 
@@ -743,6 +743,23 @@ You can see in which language an app is written. Currently there are following l
   <p>
 
   <img src='https://raw.githubusercontent.com/rekody/rekody/main/docs/assets/cli-streaming.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  </p>
+  </details>
+
+- [sbtfix ![GitHub Repo Stars](https://img.shields.io/github/stars/htsecurity/sbtfix) ![GitHub last commit](https://img.shields.io/github/last-commit/htsecurity/sbtfix)](https://github.com/htsecurity/sbtfix) - Menu bar app to control Sony headphones: noise cancelling, ambient sound, Speak-to-Chat and battery.
+
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
+  **Website:** [https://github.com/htsecurity/sbtfix ![GitHub Repo Stars](https://img.shields.io/github/stars/htsecurity/sbtfix) ![GitHub last commit](https://img.shields.io/github/last-commit/htsecurity/sbtfix)](https://github.com/htsecurity/sbtfix)
+
+  <details>
+  <summary>Screenshots</summary>
+  <p>
+
+  <img src='https://raw.githubusercontent.com/htsecurity/sbtfix/main/docs/screenshots/ambient-dark.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  <img src='https://raw.githubusercontent.com/htsecurity/sbtfix/main/docs/screenshots/earbuds-light.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
   </p>
   </details>
@@ -1378,7 +1395,7 @@ You can see in which language an app is written. Currently there are following l
 
   **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript 
 
-### 💰 Cryptocurrency (5)
+### 💰 Cryptocurrency (6)
 - [Bitcoin Core ![GitHub Repo Stars](https://img.shields.io/github/stars/bitcoin/bitcoin) ![GitHub last commit](https://img.shields.io/github/last-commit/bitcoin/bitcoin)](https://github.com/bitcoin/bitcoin) - Official Bitcoin Core software for running a full Bitcoin node.
 
   **Languages:** <code>C++</code> <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/shell-64.png' alt='Shell icon' title='Shell' height='16'/> Shell 
@@ -1390,6 +1407,21 @@ You can see in which language an app is written. Currently there are following l
   <p>
 
   <img src='https://github.com/bitcoin-core/bitcoincore.org/blob/master/assets/images/releases/fee-bump-menu.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  </p>
+  </details>
+
+- [Blave Agent ![GitHub Repo Stars](https://img.shields.io/github/stars/Blave-TW/blave-agent) ![GitHub last commit](https://img.shields.io/github/last-commit/Blave-TW/blave-agent)](https://github.com/Blave-TW/blave-agent) - Desktop workspace where your own Claude Code or Codex writes trading strategies, backtests them and runs them live on crypto exchanges.
+
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript 
+
+  **Website:** [https://blave.org](https://blave.org)
+
+  <details>
+  <summary>Screenshots</summary>
+  <p>
+
+  <img src='https://raw.githubusercontent.com/Blave-TW/blave-agent/main/docs/screenshot-backtest.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
   </p>
   </details>
@@ -1695,7 +1727,7 @@ You can see in which language an app is written. Currently there are following l
 
   **Website:** [https://tablepro.app](https://tablepro.app)
 
-### 👨‍💻 Development (49)
+### 👨‍💻 Development (53)
 - [Agent Teams AI ![GitHub Repo Stars](https://img.shields.io/github/stars/777genius/agent-teams-ai) ![GitHub last commit](https://img.shields.io/github/last-commit/777genius/agent-teams-ai)](https://github.com/777genius/agent-teams-ai) - Desktop control center for coordinating autonomous AI coding agent teams across multiple providers.
 
   **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript 
@@ -1730,6 +1762,21 @@ You can see in which language an app is written. Currently there are following l
   <img src='https://www.dropbox.com/s/r9ewe87xer4nypj/netbeans_dark.png?dl=0' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
   <img src='https://www.dropbox.com/s/qs2gh43lrsbdkid/netbeans_light.png?dl=0' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  </p>
+  </details>
+
+- [Blave Agent ![GitHub Repo Stars](https://img.shields.io/github/stars/Blave-TW/blave-agent) ![GitHub last commit](https://img.shields.io/github/last-commit/Blave-TW/blave-agent)](https://github.com/Blave-TW/blave-agent) - Desktop workspace where your own Claude Code or Codex writes trading strategies, backtests them and runs them live on crypto exchanges.
+
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript 
+
+  **Website:** [https://blave.org](https://blave.org)
+
+  <details>
+  <summary>Screenshots</summary>
+  <p>
+
+  <img src='https://raw.githubusercontent.com/Blave-TW/blave-agent/main/docs/screenshot-backtest.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
   </p>
   </details>
@@ -1774,6 +1821,21 @@ You can see in which language an app is written. Currently there are following l
   <img src='https://raw.githubusercontent.com/Slackadays/Clipboard/main/documentation/website/static/demo.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
   <img src='https://raw.githubusercontent.com/Slackadays/Clipboard/main/documentation/readme-assets/ClipboardDemo.gif' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  </p>
+  </details>
+
+- [CodeBurn ![GitHub Repo Stars](https://img.shields.io/github/stars/getagentseal/codeburn) ![GitHub last commit](https://img.shields.io/github/last-commit/getagentseal/codeburn)](https://github.com/getagentseal/codeburn) - Menu bar app that shows what your AI coding tools cost, by project, model and task, across Claude Code, Codex, Cursor and 38 more.
+
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript 
+
+  **Website:** [https://codeburn.app](https://codeburn.app)
+
+  <details>
+  <summary>Screenshots</summary>
+  <p>
+
+  <img src='https://raw.githubusercontent.com/getagentseal/codeburn/main/assets/readme/all-surfaces.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
   </p>
   </details>
@@ -1976,6 +2038,21 @@ You can see in which language an app is written. Currently there are following l
 
   **Website:** [https://phinn.github.io/KinetAios/](https://phinn.github.io/KinetAios/)
 
+- [KyttoMCP ![GitHub Repo Stars](https://img.shields.io/github/stars/heyitsjakub/KyttoMCP) ![GitHub last commit](https://img.shields.io/github/last-commit/heyitsjakub/KyttoMCP)](https://github.com/heyitsjakub/KyttoMCP) - Manage MCP servers across Claude Desktop, Claude Code, Cursor, VS Code and Codex in one matrix, with health checks, a tool safety scan and local config backups.
+
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
+  **Website:** [https://kytto.jakubhecht.sk/](https://kytto.jakubhecht.sk/)
+
+  <details>
+  <summary>Screenshots</summary>
+  <p>
+
+  <img src='https://raw.githubusercontent.com/heyitsjakub/KyttoMCP/main/docs/screenshot.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  </p>
+  </details>
+
 - [Layout Designer for UICollectionView ![GitHub Repo Stars](https://img.shields.io/github/stars/amirdew/CollectionViewPagingLayout) ![GitHub last commit](https://img.shields.io/github/last-commit/amirdew/CollectionViewPagingLayout)](https://github.com/amirdew/CollectionViewPagingLayout) - A simple but powerful tool that helps you make complex layouts for UICollectionView.
 
   **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
@@ -2112,6 +2189,25 @@ You can see in which language an app is written. Currently there are following l
   <p>
 
   <img src='https://raw.githubusercontent.com/off-grid-ai/OGAD/main/docs/screenshots/02-chat.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  </p>
+  </details>
+
+- [Oh My Android ![GitHub Repo Stars](https://img.shields.io/github/stars/ateymoori/oh-my-android) ![GitHub last commit](https://img.shields.io/github/last-commit/ateymoori/oh-my-android)](https://github.com/ateymoori/oh-my-android) - Native control panel for the Android Emulator on macOS with ~48 one-click actions, Layout Inspector in dp, and TalkBack audit.
+
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
+  **Website:** [https://github.com/ateymoori/oh-my-android ![GitHub Repo Stars](https://img.shields.io/github/stars/ateymoori/oh-my-android) ![GitHub last commit](https://img.shields.io/github/last-commit/ateymoori/oh-my-android)](https://github.com/ateymoori/oh-my-android)
+
+  <details>
+  <summary>Screenshots</summary>
+  <p>
+
+  <img src='https://raw.githubusercontent.com/ateymoori/oh-my-android/main/docs/panel.jpg' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  <img src='https://raw.githubusercontent.com/ateymoori/oh-my-android/main/docs/layout-inspector-talkback.jpg' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  <img src='https://raw.githubusercontent.com/ateymoori/oh-my-android/main/docs/ai-agents.jpg' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
   </p>
   </details>
@@ -5251,7 +5347,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-### 🖼️ Images (20)
+### 🖼️ Images (21)
 - [APNGb ![GitHub Repo Stars](https://img.shields.io/github/stars/shgodoroja/APNGb) ![GitHub last commit](https://img.shields.io/github/last-commit/shgodoroja/APNGb)](https://github.com/shgodoroja/APNGb) - macOS app which assembles and disassembles animated png files. 
 
   **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
@@ -5467,6 +5563,23 @@ You can see in which language an app is written. Currently there are following l
   <p>
 
   <img src='https://raw.githubusercontent.com/robaho/seashore/master/doc/ss1.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  </p>
+  </details>
+
+- [Shotnix ![GitHub Repo Stars](https://img.shields.io/github/stars/OMARVII/Shotnix) ![GitHub last commit](https://img.shields.io/github/last-commit/OMARVII/Shotnix)](https://github.com/OMARVII/Shotnix) - Screenshot and screen recording app for the menu bar with annotation, pinned screenshots, scrolling capture, OCR, and a video editor.
+
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
+  **Website:** [https://shotnix.com/](https://shotnix.com/)
+
+  <details>
+  <summary>Screenshots</summary>
+  <p>
+
+  <img src='https://shotnix.com/screenshots/shotnix-annotation-editor-demo.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  <img src='https://shotnix.com/screenshots/shotnix-video-editor.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
   </p>
   </details>
@@ -5735,7 +5848,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-### 📊 Menubar (138)
+### 📊 Menubar (144)
 - [Abendrot ![GitHub Repo Stars](https://img.shields.io/github/stars/matthewrball/abendrot) ![GitHub last commit](https://img.shields.io/github/last-commit/matthewrball/abendrot)](https://github.com/matthewrball/abendrot) - Free open-source Mac screen warmer that cuts nighttime blue light and warms every display around local sunset.
 
   **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
@@ -5808,6 +5921,25 @@ You can see in which language an app is written. Currently there are following l
   <p>
 
   <img src='https://camo.githubusercontent.com/0f9f9231ff083edead13ad239d7a73566e7b1933c3f176e11ce04e7e624bb24a/68747470733a2f2f6a6172692e6c6f6c2f384f516d4c6e794b72752e706e67' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  </p>
+  </details>
+
+- [Aman Disk ![GitHub Repo Stars](https://img.shields.io/github/stars/MidZai/aman_disk) ![GitHub last commit](https://img.shields.io/github/last-commit/MidZai/aman_disk)](https://github.com/MidZai/aman_disk) - S.M.A.R.T. health, temperature history and performance test for your Mac's internal drives.
+
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
+  **Website:** [https://github.com/MidZai/aman_disk ![GitHub Repo Stars](https://img.shields.io/github/stars/MidZai/aman_disk) ![GitHub last commit](https://img.shields.io/github/last-commit/MidZai/aman_disk)](https://github.com/MidZai/aman_disk)
+
+  <details>
+  <summary>Screenshots</summary>
+  <p>
+
+  <img src='https://raw.githubusercontent.com/MidZai/aman_disk/main/docs/screenshots/health.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  <img src='https://raw.githubusercontent.com/MidZai/aman_disk/main/docs/screenshots/performance.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  <img src='https://raw.githubusercontent.com/MidZai/aman_disk/main/docs/screenshots/menu-bar.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
   </p>
   </details>
@@ -6144,6 +6276,21 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
+- [CodeBurn ![GitHub Repo Stars](https://img.shields.io/github/stars/getagentseal/codeburn) ![GitHub last commit](https://img.shields.io/github/last-commit/getagentseal/codeburn)](https://github.com/getagentseal/codeburn) - Menu bar app that shows what your AI coding tools cost, by project, model and task, across Claude Code, Codex, Cursor and 38 more.
+
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript 
+
+  **Website:** [https://codeburn.app](https://codeburn.app)
+
+  <details>
+  <summary>Screenshots</summary>
+  <p>
+
+  <img src='https://raw.githubusercontent.com/getagentseal/codeburn/main/assets/readme/all-surfaces.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  </p>
+  </details>
+
 - [Codex Account Switcher ![GitHub Repo Stars](https://img.shields.io/github/stars/liuzhao1225/codex-account-switcher) ![GitHub last commit](https://img.shields.io/github/last-commit/liuzhao1225/codex-account-switcher)](https://github.com/liuzhao1225/codex-account-switcher) - Native macOS menu bar app for switching multiple Codex Desktop and CLI accounts and monitoring weekly usage.
 
   **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
@@ -6462,6 +6609,23 @@ You can see in which language an app is written. Currently there are following l
 
   **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
+- [ILoveNotch ![GitHub Repo Stars](https://img.shields.io/github/stars/niyamvora/ILoveNotch) ![GitHub last commit](https://img.shields.io/github/last-commit/niyamvora/ILoveNotch)](https://github.com/niyamvora/ILoveNotch) - Turns the MacBook notch into a tray for media, files, calendar, reminders, notes, and timers.
+
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
+  **Website:** [https://github.com/niyamvora/ILoveNotch ![GitHub Repo Stars](https://img.shields.io/github/stars/niyamvora/ILoveNotch) ![GitHub last commit](https://img.shields.io/github/last-commit/niyamvora/ILoveNotch)](https://github.com/niyamvora/ILoveNotch)
+
+  <details>
+  <summary>Screenshots</summary>
+  <p>
+
+  <img src='https://raw.githubusercontent.com/niyamvora/ILoveNotch/main/docs/media/screenshots/shelf.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  <img src='https://raw.githubusercontent.com/niyamvora/ILoveNotch/main/docs/media/screenshots/calendar.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  </p>
+  </details>
+
 - [Itsycal ![GitHub Repo Stars](https://img.shields.io/github/stars/sfsam/Itsycal) ![GitHub last commit](https://img.shields.io/github/last-commit/sfsam/Itsycal)](https://github.com/sfsam/Itsycal) - A tiny calendar for that lives in the Mac menu bar.
 
   **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
@@ -6699,6 +6863,25 @@ You can see in which language an app is written. Currently there are following l
   <p>
 
   <img src='https://raw.githubusercontent.com/isaiasmatewos/night-shift-control/master/screenshot.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  </p>
+  </details>
+
+- [Nightwatch ![GitHub Repo Stars](https://img.shields.io/github/stars/rsutcliffe/nightwatch) ![GitHub last commit](https://img.shields.io/github/last-commit/rsutcliffe/nightwatch)](https://github.com/rsutcliffe/nightwatch) - Menu-bar app for amateur astronomers that says when tonight will be clear enough for a long imaging session, and what to point at.
+
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/c-64.png' alt='C icon' title='C' height='16'/> C 
+
+  **Website:** [https://delphi-dolphin.com/nightwatch](https://delphi-dolphin.com/nightwatch)
+
+  <details>
+  <summary>Screenshots</summary>
+  <p>
+
+  <img src='https://raw.githubusercontent.com/rsutcliffe/nightwatch/main/docs/images/screenshot-popover-clear-night.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  <img src='https://raw.githubusercontent.com/rsutcliffe/nightwatch/main/docs/images/screenshot-target.jpg' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  <img src='https://raw.githubusercontent.com/rsutcliffe/nightwatch/main/docs/images/screenshot-dark-sites.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
   </p>
   </details>
@@ -7119,6 +7302,23 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
+- [sbtfix ![GitHub Repo Stars](https://img.shields.io/github/stars/htsecurity/sbtfix) ![GitHub last commit](https://img.shields.io/github/last-commit/htsecurity/sbtfix)](https://github.com/htsecurity/sbtfix) - Menu bar app to control Sony headphones: noise cancelling, ambient sound, Speak-to-Chat and battery.
+
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
+  **Website:** [https://github.com/htsecurity/sbtfix ![GitHub Repo Stars](https://img.shields.io/github/stars/htsecurity/sbtfix) ![GitHub last commit](https://img.shields.io/github/last-commit/htsecurity/sbtfix)](https://github.com/htsecurity/sbtfix)
+
+  <details>
+  <summary>Screenshots</summary>
+  <p>
+
+  <img src='https://raw.githubusercontent.com/htsecurity/sbtfix/main/docs/screenshots/ambient-dark.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  <img src='https://raw.githubusercontent.com/htsecurity/sbtfix/main/docs/screenshots/earbuds-light.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  </p>
+  </details>
+
 - [ScreenHint ![GitHub Repo Stars](https://img.shields.io/github/stars/salemhilal/ScreenHint) ![GitHub last commit](https://img.shields.io/github/last-commit/salemhilal/ScreenHint)](https://github.com/salemhilal/ScreenHint) - A simple screenshotting utility for thinking clearly.
 
   **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
@@ -7329,6 +7529,23 @@ You can see in which language an app is written. Currently there are following l
   <img src='https://ph-files.imgix.net/4638fc18-c830-41f3-867e-aba4a5f09c29.jpeg' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
   <img src='https://ph-files.imgix.net/72abf6d8-50c7-466e-9770-3b961592cc4b.jpeg' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  </p>
+  </details>
+
+- [Translate Like Me ![GitHub Repo Stars](https://img.shields.io/github/stars/wiltodelta/translate-like-me) ![GitHub last commit](https://img.shields.io/github/last-commit/wiltodelta/translate-like-me)](https://github.com/wiltodelta/translate-like-me) - Menu bar translator that replaces the selected text in any app, in your own writing style, via Claude, ChatGPT or Grok.
+
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
+  **Website:** [https://github.com/wiltodelta/translate-like-me ![GitHub Repo Stars](https://img.shields.io/github/stars/wiltodelta/translate-like-me) ![GitHub last commit](https://img.shields.io/github/last-commit/wiltodelta/translate-like-me)](https://github.com/wiltodelta/translate-like-me)
+
+  <details>
+  <summary>Screenshots</summary>
+  <p>
+
+  <img src='https://raw.githubusercontent.com/wiltodelta/translate-like-me/main/screenshots/menu.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  <img src='https://raw.githubusercontent.com/wiltodelta/translate-like-me/main/screenshots/general.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
   </p>
   </details>
@@ -8153,7 +8370,7 @@ You can see in which language an app is written. Currently there are following l
 
   **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/css-64.png' alt='CSS icon' title='CSS' height='16'/> CSS 
 
-### 📦 Other (26)
+### 📦 Other (27)
 - [Betaflight Configurator ![GitHub Repo Stars](https://img.shields.io/github/stars/betaflight/betaflight-configurator) ![GitHub last commit](https://img.shields.io/github/last-commit/betaflight/betaflight-configurator)](https://github.com/betaflight/betaflight-configurator) - Cross platform configuration tool for the Betaflight firmware.
 
   **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript 
@@ -8208,6 +8425,25 @@ You can see in which language an app is written. Currently there are following l
   **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python 
 
   **Website:** [https://gramps-project.org](https://gramps-project.org)
+
+- [Helix ![GitHub Repo Stars](https://img.shields.io/github/stars/mickaphd/Helix) ![GitHub last commit](https://img.shields.io/github/last-commit/mickaphd/Helix)](https://github.com/mickaphd/Helix) - Free, open-source and private alternative to GraphPad Prism for scientific statistics and publication-ready graphs, powered by R.
+
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust 
+
+  **Website:** [https://www.helix-desktop.com](https://www.helix-desktop.com)
+
+  <details>
+  <summary>Screenshots</summary>
+  <p>
+
+  <img src='https://raw.githubusercontent.com/mickaphd/Helix/main/docs/screenshot.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  <img src='https://www.helix-desktop.com/resources/screenshots/05-box-violin.webp' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  <img src='https://www.helix-desktop.com/resources/screenshots/07-volcano.webp' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  </p>
+  </details>
 
 - [Hosts ![GitHub Repo Stars](https://img.shields.io/github/stars/specialunderwear/Hosts.prefpane) ![GitHub last commit](https://img.shields.io/github/last-commit/specialunderwear/Hosts.prefpane)](https://github.com/specialunderwear/Hosts.prefpane) - Cocoa GUI for /etc/hosts. 
 
@@ -8391,7 +8627,13 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-### ▶️ Player (7)
+### ▶️ Player (8)
+- [Frame Player ![GitHub Repo Stars](https://img.shields.io/github/stars/risenxxx/frame-player) ![GitHub last commit](https://img.shields.io/github/last-commit/risenxxx/frame-player)](https://github.com/risenxxx/frame-player) - Video player built on libmpv with seekbar previews, subtitle search matched to the release, torrent streaming, casting to Chromecast and DLNA televisions, and watching together in sync.
+
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript 
+
+  **Website:** [https://frameplayer.app](https://frameplayer.app)
+
 - [IINA ![GitHub Repo Stars](https://img.shields.io/github/stars/iina/iina) ![GitHub last commit](https://img.shields.io/github/last-commit/iina/iina)](https://github.com/iina/iina) - The modern video player for macOS. 
 
   **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
@@ -8561,7 +8803,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-### ⏱️ Productivity (140)
+### ⏱️ Productivity (141)
 - [ActivityWatch ![GitHub Repo Stars](https://img.shields.io/github/stars/ActivityWatch/activitywatch) ![GitHub last commit](https://img.shields.io/github/last-commit/ActivityWatch/activitywatch)](https://github.com/ActivityWatch/activitywatch) - Open-source automated time tracker that tracks how you spend time on your devices.
 
   **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript 
@@ -8620,6 +8862,25 @@ You can see in which language an app is written. Currently there are following l
   **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Website:** [https://airpoise.vercel.app/](https://airpoise.vercel.app/)
+
+- [Aman Disk ![GitHub Repo Stars](https://img.shields.io/github/stars/MidZai/aman_disk) ![GitHub last commit](https://img.shields.io/github/last-commit/MidZai/aman_disk)](https://github.com/MidZai/aman_disk) - S.M.A.R.T. health, temperature history and performance test for your Mac's internal drives.
+
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
+  **Website:** [https://github.com/MidZai/aman_disk ![GitHub Repo Stars](https://img.shields.io/github/stars/MidZai/aman_disk) ![GitHub last commit](https://img.shields.io/github/last-commit/MidZai/aman_disk)](https://github.com/MidZai/aman_disk)
+
+  <details>
+  <summary>Screenshots</summary>
+  <p>
+
+  <img src='https://raw.githubusercontent.com/MidZai/aman_disk/main/docs/screenshots/health.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  <img src='https://raw.githubusercontent.com/MidZai/aman_disk/main/docs/screenshots/performance.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  <img src='https://raw.githubusercontent.com/MidZai/aman_disk/main/docs/screenshots/menu-bar.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  </p>
+  </details>
 
 - [Ao ![GitHub Repo Stars](https://img.shields.io/github/stars/klaudiosinani/ao) ![GitHub last commit](https://img.shields.io/github/last-commit/klaudiosinani/ao)](https://github.com/klaudiosinani/ao) - Elegant Microsoft To-Do desktop app.
 
@@ -10991,7 +11252,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-### ⚙️ System (43)
+### ⚙️ System (44)
 - [Abendrot ![GitHub Repo Stars](https://img.shields.io/github/stars/matthewrball/abendrot) ![GitHub last commit](https://img.shields.io/github/last-commit/matthewrball/abendrot)](https://github.com/matthewrball/abendrot) - Free open-source Mac screen warmer that cuts nighttime blue light and warms every display around local sunset.
 
   **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
@@ -11118,6 +11379,25 @@ You can see in which language an app is written. Currently there are following l
   **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Website:** [https://github.com/offyotto/Core-Monitor ![GitHub Repo Stars](https://img.shields.io/github/stars/offyotto/Core-Monitor) ![GitHub last commit](https://img.shields.io/github/last-commit/offyotto/Core-Monitor)](https://github.com/offyotto/Core-Monitor)
+
+- [Depflush ![GitHub Repo Stars](https://img.shields.io/github/stars/cypriennkeneng/depflush) ![GitHub last commit](https://img.shields.io/github/last-commit/cypriennkeneng/depflush)](https://github.com/cypriennkeneng/depflush) - Finds what Docker, node_modules, old IDEs and duplicate files leave behind, with a preview and the Trash by default.
+
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
+  **Website:** [https://depflush.com](https://depflush.com)
+
+  <details>
+  <summary>Screenshots</summary>
+  <p>
+
+  <img src='https://raw.githubusercontent.com/cypriennkeneng/depflush/main/docs/screenshots/overview.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  <img src='https://raw.githubusercontent.com/cypriennkeneng/depflush/main/docs/screenshots/docker.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  <img src='https://raw.githubusercontent.com/cypriennkeneng/depflush/main/docs/screenshots/duplicates.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  </p>
+  </details>
 
 - [Diagnostics ![GitHub Repo Stars](https://img.shields.io/github/stars/macmade/Diagnostics) ![GitHub last commit](https://img.shields.io/github/last-commit/macmade/Diagnostics)](https://github.com/macmade/Diagnostics) - Diagnostics is an application displaying the diagnostic reports from applications on macOS. 
 
@@ -11833,7 +12113,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-### 🛠️ Utilities (212)
+### 🛠️ Utilities (218)
 - [Abendrot ![GitHub Repo Stars](https://img.shields.io/github/stars/matthewrball/abendrot) ![GitHub last commit](https://img.shields.io/github/last-commit/matthewrball/abendrot)](https://github.com/matthewrball/abendrot) - Free open-source Mac screen warmer that cuts nighttime blue light and warms every display around local sunset.
 
   **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
@@ -11906,6 +12186,25 @@ You can see in which language an app is written. Currently there are following l
   <p>
 
   <img src='https://raw.githubusercontent.com/byrencheema/airstats/main/docs/panel-light.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  </p>
+  </details>
+
+- [Aman Disk ![GitHub Repo Stars](https://img.shields.io/github/stars/MidZai/aman_disk) ![GitHub last commit](https://img.shields.io/github/last-commit/MidZai/aman_disk)](https://github.com/MidZai/aman_disk) - S.M.A.R.T. health, temperature history and performance test for your Mac's internal drives.
+
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
+  **Website:** [https://github.com/MidZai/aman_disk ![GitHub Repo Stars](https://img.shields.io/github/stars/MidZai/aman_disk) ![GitHub last commit](https://img.shields.io/github/last-commit/MidZai/aman_disk)](https://github.com/MidZai/aman_disk)
+
+  <details>
+  <summary>Screenshots</summary>
+  <p>
+
+  <img src='https://raw.githubusercontent.com/MidZai/aman_disk/main/docs/screenshots/health.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  <img src='https://raw.githubusercontent.com/MidZai/aman_disk/main/docs/screenshots/performance.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  <img src='https://raw.githubusercontent.com/MidZai/aman_disk/main/docs/screenshots/menu-bar.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
   </p>
   </details>
@@ -12512,6 +12811,25 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
+- [Depflush ![GitHub Repo Stars](https://img.shields.io/github/stars/cypriennkeneng/depflush) ![GitHub last commit](https://img.shields.io/github/last-commit/cypriennkeneng/depflush)](https://github.com/cypriennkeneng/depflush) - Finds what Docker, node_modules, old IDEs and duplicate files leave behind, with a preview and the Trash by default.
+
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
+  **Website:** [https://depflush.com](https://depflush.com)
+
+  <details>
+  <summary>Screenshots</summary>
+  <p>
+
+  <img src='https://raw.githubusercontent.com/cypriennkeneng/depflush/main/docs/screenshots/overview.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  <img src='https://raw.githubusercontent.com/cypriennkeneng/depflush/main/docs/screenshots/docker.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  <img src='https://raw.githubusercontent.com/cypriennkeneng/depflush/main/docs/screenshots/duplicates.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  </p>
+  </details>
+
 - [Devie AI Quota Tracker ![GitHub Repo Stars](https://img.shields.io/github/stars/mathdevie/devie-ai-quota-tracker) ![GitHub last commit](https://img.shields.io/github/last-commit/mathdevie/devie-ai-quota-tracker)](https://github.com/mathdevie/devie-ai-quota-tracker) - Dashboard and macOS menu bar for tracking AI subscription quotas in one place (Claude Code, Codex, Gemini CLI, GitHub Copilot, and Cursor). Supports multi-accounts, notifications, and session-timer start optimization.
 
   **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript 
@@ -12906,6 +13224,23 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
+- [ILoveNotch ![GitHub Repo Stars](https://img.shields.io/github/stars/niyamvora/ILoveNotch) ![GitHub last commit](https://img.shields.io/github/last-commit/niyamvora/ILoveNotch)](https://github.com/niyamvora/ILoveNotch) - Turns the MacBook notch into a tray for media, files, calendar, reminders, notes, and timers.
+
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
+  **Website:** [https://github.com/niyamvora/ILoveNotch ![GitHub Repo Stars](https://img.shields.io/github/stars/niyamvora/ILoveNotch) ![GitHub last commit](https://img.shields.io/github/last-commit/niyamvora/ILoveNotch)](https://github.com/niyamvora/ILoveNotch)
+
+  <details>
+  <summary>Screenshots</summary>
+  <p>
+
+  <img src='https://raw.githubusercontent.com/niyamvora/ILoveNotch/main/docs/media/screenshots/shelf.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  <img src='https://raw.githubusercontent.com/niyamvora/ILoveNotch/main/docs/media/screenshots/calendar.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  </p>
+  </details>
+
 - [Input Source Pro ![GitHub Repo Stars](https://img.shields.io/github/stars/runjuu/InputSourcePro) ![GitHub last commit](https://img.shields.io/github/last-commit/runjuu/InputSourcePro)](https://github.com/runjuu/InputSourcePro/) - Input Source Pro is macOS utility designed for multilingual users who frequently switch input sources.
 
   **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
@@ -12978,6 +13313,21 @@ You can see in which language an app is written. Currently there are following l
 - [Kyapchar ![GitHub Repo Stars](https://img.shields.io/github/stars/vishaltelangre/Kyapchar) ![GitHub last commit](https://img.shields.io/github/last-commit/vishaltelangre/Kyapchar)](https://github.com/vishaltelangre/Kyapchar) - Simple screen and microphone audio recorder for macOS. 
 
   **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
+- [KyttoMCP ![GitHub Repo Stars](https://img.shields.io/github/stars/heyitsjakub/KyttoMCP) ![GitHub last commit](https://img.shields.io/github/last-commit/heyitsjakub/KyttoMCP)](https://github.com/heyitsjakub/KyttoMCP) - Manage MCP servers across Claude Desktop, Claude Code, Cursor, VS Code and Codex in one matrix, with health checks, a tool safety scan and local config backups.
+
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
+  **Website:** [https://kytto.jakubhecht.sk/](https://kytto.jakubhecht.sk/)
+
+  <details>
+  <summary>Screenshots</summary>
+  <p>
+
+  <img src='https://raw.githubusercontent.com/heyitsjakub/KyttoMCP/main/docs/screenshot.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  </p>
+  </details>
 
 - [LanGuard ![GitHub Repo Stars](https://img.shields.io/github/stars/roypadina/LanGuard) ![GitHub last commit](https://img.shields.io/github/last-commit/roypadina/LanGuard)](https://github.com/roypadina/LanGuard) - Wi-Fi off when wired LAN active, back on when unplugged. Edge-based, wake-aware, no admin required.
 
@@ -13291,6 +13641,25 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
+- [Nightwatch ![GitHub Repo Stars](https://img.shields.io/github/stars/rsutcliffe/nightwatch) ![GitHub last commit](https://img.shields.io/github/last-commit/rsutcliffe/nightwatch)](https://github.com/rsutcliffe/nightwatch) - Menu-bar app for amateur astronomers that says when tonight will be clear enough for a long imaging session, and what to point at.
+
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/c-64.png' alt='C icon' title='C' height='16'/> C 
+
+  **Website:** [https://delphi-dolphin.com/nightwatch](https://delphi-dolphin.com/nightwatch)
+
+  <details>
+  <summary>Screenshots</summary>
+  <p>
+
+  <img src='https://raw.githubusercontent.com/rsutcliffe/nightwatch/main/docs/images/screenshot-popover-clear-night.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  <img src='https://raw.githubusercontent.com/rsutcliffe/nightwatch/main/docs/images/screenshot-target.jpg' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  <img src='https://raw.githubusercontent.com/rsutcliffe/nightwatch/main/docs/images/screenshot-dark-sites.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  </p>
+  </details>
+
 - [Nimclip ![GitHub Repo Stars](https://img.shields.io/github/stars/hukdoesn/Nimclip) ![GitHub last commit](https://img.shields.io/github/last-commit/hukdoesn/Nimclip)](https://github.com/hukdoesn/Nimclip) ![macOS 15.0++](https://img.shields.io/badge/macOS-15.0+%2B-blue) - Native, local-first clipboard history manager with search, tags, image support, and quick paste.
 
   **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
@@ -13456,6 +13825,25 @@ You can see in which language an app is written. Currently there are following l
   <img src='https://raw.githubusercontent.com/Offsend/Offsend/main/apps/macos/assets/docs.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
   <img src='https://raw.githubusercontent.com/Offsend/Offsend/main/apps/macos/assets/projects.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  </p>
+  </details>
+
+- [Oh My Android ![GitHub Repo Stars](https://img.shields.io/github/stars/ateymoori/oh-my-android) ![GitHub last commit](https://img.shields.io/github/last-commit/ateymoori/oh-my-android)](https://github.com/ateymoori/oh-my-android) - Native control panel for the Android Emulator on macOS with ~48 one-click actions, Layout Inspector in dp, and TalkBack audit.
+
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
+  **Website:** [https://github.com/ateymoori/oh-my-android ![GitHub Repo Stars](https://img.shields.io/github/stars/ateymoori/oh-my-android) ![GitHub last commit](https://img.shields.io/github/last-commit/ateymoori/oh-my-android)](https://github.com/ateymoori/oh-my-android)
+
+  <details>
+  <summary>Screenshots</summary>
+  <p>
+
+  <img src='https://raw.githubusercontent.com/ateymoori/oh-my-android/main/docs/panel.jpg' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  <img src='https://raw.githubusercontent.com/ateymoori/oh-my-android/main/docs/layout-inspector-talkback.jpg' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  <img src='https://raw.githubusercontent.com/ateymoori/oh-my-android/main/docs/ai-agents.jpg' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
   </p>
   </details>
@@ -14496,7 +14884,7 @@ You can see in which language an app is written. Currently there are following l
 
   **Website:** [https://www.wireguard.com/](https://www.wireguard.com/)
 
-### 🎬 Video (23)
+### 🎬 Video (25)
 - [Acid.Cam.v2.OSX ![GitHub Repo Stars](https://img.shields.io/github/stars/lostjared/Acid.Cam.v2.OSX) ![GitHub last commit](https://img.shields.io/github/last-commit/lostjared/Acid.Cam.v2.OSX)](https://github.com/lostjared/Acid.Cam.v2.OSX) - Acid Cam v2 for macOS distorts video to create art. 
 
   **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++ 
@@ -14545,6 +14933,12 @@ You can see in which language an app is written. Currently there are following l
 
   </p>
   </details>
+
+- [Frame Player ![GitHub Repo Stars](https://img.shields.io/github/stars/risenxxx/frame-player) ![GitHub last commit](https://img.shields.io/github/last-commit/risenxxx/frame-player)](https://github.com/risenxxx/frame-player) - Video player built on libmpv with seekbar previews, subtitle search matched to the release, torrent streaming, casting to Chromecast and DLNA televisions, and watching together in sync.
+
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript 
+
+  **Website:** [https://frameplayer.app](https://frameplayer.app)
 
 - [Gifted ![GitHub Repo Stars](https://img.shields.io/github/stars/vdel26/gifted) ![GitHub last commit](https://img.shields.io/github/last-commit/vdel26/gifted)](https://github.com/vdel26/gifted) - Turn any short video into an animated GIF quickly and easily. 
 
@@ -14651,6 +15045,23 @@ You can see in which language an app is written. Currently there are following l
 
   **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
 
+- [Shotnix ![GitHub Repo Stars](https://img.shields.io/github/stars/OMARVII/Shotnix) ![GitHub last commit](https://img.shields.io/github/last-commit/OMARVII/Shotnix)](https://github.com/OMARVII/Shotnix) - Screenshot and screen recording app for the menu bar with annotation, pinned screenshots, scrolling capture, OCR, and a video editor.
+
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
+  **Website:** [https://shotnix.com/](https://shotnix.com/)
+
+  <details>
+  <summary>Screenshots</summary>
+  <p>
+
+  <img src='https://shotnix.com/screenshots/shotnix-annotation-editor-demo.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  <img src='https://shotnix.com/screenshots/shotnix-video-editor.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  </p>
+  </details>
+
 - [Subler](https://bitbucket.org/galad87/subler/src) - Subler is an macOS app created to mux and tag mp4 files. 
 
   **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
@@ -14722,7 +15133,7 @@ You can see in which language an app is written. Currently there are following l
 
   **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript 
 
-### 🖥️ Wallpaper (13)
+### 🖥️ Wallpaper (14)
 - [500-mac-wallpaper ![GitHub Repo Stars](https://img.shields.io/github/stars/markcheeky/500-mac-wallpaper) ![GitHub last commit](https://img.shields.io/github/last-commit/markcheeky/500-mac-wallpaper)](https://github.com/markcheeky/500-mac-wallpaper) - Simple macOS app for the status bar to automatically download photos from 500px.com to a local folder that can be set as a source of wallpapers. 
 
   **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
@@ -14854,11 +15265,17 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
+- [WallpaperMachine ![GitHub Repo Stars](https://img.shields.io/github/stars/WallpaperMachine/WallpaperMachine) ![GitHub last commit](https://img.shields.io/github/last-commit/WallpaperMachine/WallpaperMachine)](https://github.com/WallpaperMachine/WallpaperMachine) - Native live wallpaper app that plays Wallpaper Engine scene, video and web wallpapers, with Steam Workshop browsing built in.
+
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++ 
+
+  **Website:** [https://www.wallpapermachine.app](https://www.wallpapermachine.app)
+
 - [WallpaperMenu ![GitHub Repo Stars](https://img.shields.io/github/stars/diogosantos/WallpaperMenu) ![GitHub last commit](https://img.shields.io/github/last-commit/diogosantos/WallpaperMenu)](https://github.com/diogosantos/WallpaperMenu) - macOS menubar application for navigation through beautiful pictures on the web and set them up as your desktop image. 
 
   **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/ruby-64.png' alt='Ruby icon' title='Ruby' height='16'/> Ruby 
 
-### 🪟 Window Management (23)
+### 🪟 Window Management (24)
 - [AltTab ![GitHub Repo Stars](https://img.shields.io/github/stars/lwouis/alt-tab-macos) ![GitHub last commit](https://img.shields.io/github/last-commit/lwouis/alt-tab-macos)](https://github.com/lwouis/alt-tab-macos) - AltTab brings the power of Windows alt-tab to macOS.
 
   **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/shell-64.png' alt='Shell icon' title='Shell' height='16'/> Shell 
@@ -14951,6 +15368,23 @@ You can see in which language an app is written. Currently there are following l
   <p>
 
   <img src='https://github.com/XiCheng148/Dockit/blob/main/Resources/preview.gif?raw=true' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  </p>
+  </details>
+
+- [Hammerdeck ![GitHub Repo Stars](https://img.shields.io/github/stars/kouxing2000/hammerdeck) ![GitHub last commit](https://img.shields.io/github/last-commit/kouxing2000/hammerdeck)](https://github.com/kouxing2000/hammerdeck) - Keyboard window manager for large and multiple displays, with grid placement, moves and swaps between displays, one-key undo, and rules that rearrange windows when a display connects.
+
+  **Languages:** <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift <img src='https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/icons/Lua-64.png' alt='Lua icon' title='Lua' height='16'/> Lua 
+
+  **Website:** [https://hammerdeck.peach-studio.com](https://hammerdeck.peach-studio.com)
+
+  <details>
+  <summary>Screenshots</summary>
+  <p>
+
+  <img src='https://raw.githubusercontent.com/kouxing2000/hammerdeck/master/site/assets/demo-hero.gif' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  <img src='https://raw.githubusercontent.com/kouxing2000/hammerdeck/master/site/assets/settings.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
   </p>
   </details>
