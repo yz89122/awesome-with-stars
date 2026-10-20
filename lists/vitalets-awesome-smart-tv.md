@@ -126,6 +126,7 @@ Below are the most popular platforms for Smart TV. The full list is [here](https
 ## Testing
 * [Suitest](https://suite.st) - Test automation solution for Smart TVs, gaming consoles, streaming sticks etc.
 * [stb-tester ![GitHub Repo Stars](https://img.shields.io/github/stars/stb-tester/stb-tester) ![GitHub last commit](https://img.shields.io/github/last-commit/stb-tester/stb-tester)](https://github.com/stb-tester/stb-tester) - Automated User Interface Testing for Set-Top Boxes & Smart TVs (python).
+* [Optics ![GitHub Repo Stars](https://img.shields.io/github/stars/mozarkai/optics-framework) ![GitHub last commit](https://img.shields.io/github/last-commit/mozarkai/optics-framework)](https://github.com/mozarkai/optics-framework) - Test automation for Android TV, Samsung Tizen and LG webOS apps through Appium, with tests written as CSV or YAML steps that press remote-control keys and check the screen by text, OCR or image. Also runs on Android, iOS and web (python).
 
 ## Misc
 * [LIRC](http://lirc.org) - A package that allows you to decode and send infra-red signals of many (but not all) commonly used remote controls.

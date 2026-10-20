@@ -263,7 +263,7 @@ Googles have modul bays to support different radio protocols or HDMI input. See 
   * [rx5808 pro divesity ![GitHub Repo Stars](https://img.shields.io/github/stars/sheaivey/rx5808-pro-diversity) ![GitHub last commit](https://img.shields.io/github/last-commit/sheaivey/rx5808-pro-diversity)](https://github.com/sheaivey/rx5808-pro-diversity)
 * [rpi-rx5808-stream ![GitHub Repo Stars](https://img.shields.io/github/stars/xythobuz/rpi-rx5808-stream) ![GitHub last commit](https://img.shields.io/github/last-commit/xythobuz/rpi-rx5808-stream)](https://github.com/xythobuz/rpi-rx5808-stream) - RPI based 5,8GHz analog with diversity streaming server.
 
-## Antennas and Trackers 📡
+## Antennas and Trackers ��
 
 Transceiver as well as receivers can be tweaked with custom antenna configurations and tracker can support directional antennas. They use multiple receivers and diversity, or telemetry to point to your drone.
 This is more professional equipment to do beyond VLOS flights and not needed for novice pilots. There are also approaches to use 4G for video and control link for extra extend.
