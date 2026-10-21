@@ -55,9 +55,11 @@ A collection of ZSH frameworks, plugins, tutorials & themes inspired by the vari
   - [zap](#zap)
   - [zapack](#zapack)
   - [zcomet](#zcomet)
+  - [zdx-suite](#zdx-suite)
   - [zeesh](#zeesh)
   - [zef](#zef)
   - [zert](#zert)
+  - [zflash](#zflash)
   - [zgem](#zgem)
   - [zgen](#zgen)
   - [zgenom](#zgenom)
@@ -392,7 +394,7 @@ Pros:
 ![GitHub last commit](https://img.shields.io/github/last-commit/x-cmd/x-cmd)
  ![GitHub Repo stars](https://img.shields.io/github/stars/x-cmd/x-cmd)
 
-**x-cmd** is a toolset implemented using posix shell and awk.It is very small in size and offers many interesting features. Here is a milestone demo: https://x-cmd.com/
+**x-cmd** is a toolset implemented using posix shell and `awk`. It is very small in size and offers many interesting features. Here is a milestone demo: [x-cmd.com](https://x-cmd.com/)
 
 Tools Provided by x-cmd:
   - [Wrappers for Common Commands (e.g., cd, ip, ps, tar, apt, brew)](https://x-cmd.com/mod/zuz): These wrapped commands are more intelligent and easier to use compared to the native commands.
@@ -442,6 +444,14 @@ Features Provided by XC-Manager:
 
 **zcomet** is a minimalistic ZSH plugin manager that gets you to the prompt surprisingly quickly without caching (see the benchmarks). In addition to loading and updating plugins stored in `git` repositories, it supports lazy-loading plugins (further reducing startup time) as well as downloading and sourcing code snippets.
 
+### [zdx-suite ![GitHub Repo Stars](https://img.shields.io/github/stars/landerox/zdx-suite) ![GitHub last commit](https://img.shields.io/github/last-commit/landerox/zdx-suite)](https://github.com/landerox/zdx-suite)
+![GitHub last commit](https://img.shields.io/github/last-commit/landerox/zdx-suite)
+ ![GitHub Repo stars](https://img.shields.io/github/stars/landerox/zdx-suite)
+
+ Interactive, fzf-powered developer workflows and a custom plugin loader for Zsh, built for Oh My Zsh.
+
+Open zdx when you want to explore, or route directly to a suite when you already know the workflow. Eight suites, a dependency doctor, and a plugin manager share one terminal-first interface.
+
 ### [zeesh ![GitHub Repo Stars](https://img.shields.io/github/stars/zeekay/zeesh) ![GitHub last commit](https://img.shields.io/github/last-commit/zeekay/zeesh)](https://github.com/zeekay/zeesh)
 ![GitHub last commit](https://img.shields.io/github/last-commit/zeekay/zeesh)
  ![GitHub Repo stars](https://img.shields.io/github/stars/zeekay/zeesh)
@@ -471,6 +481,12 @@ Features
 * **Zero external UI dependencies** — real-time progress bars and spinners built entirely from ANSI escape codes.
 * **Self-managing** — Zert updates itself with `zert update zert`, managed as a first-class plugin.
 * **Oh-My-Zsh / Prezto compatibility** — load OMZ libs and Prezto modules without installing either framework.*
+
+### [zflash ![GitHub Repo Stars](https://img.shields.io/github/stars/arastu/zflash) ![GitHub last commit](https://img.shields.io/github/last-commit/arastu/zflash)](https://github.com/arastu/zflash)
+![GitHub last commit](https://img.shields.io/github/last-commit/arastu/zflash)
+ ![GitHub Repo stars](https://img.shields.io/github/stars/arastu/zflash)
+
+`zflash` compiles a short declarative spec into one static, byte-compiled init file. At shell start nothing is resolved, searched, forked or parsed by the manager: your `.zshrc` sources a tiny bootstrap and that one file. Everything in the spec, plugins, tool init zsh output and your own rc files, is split into two stages, before and after the first prompt, so the prompt appears as early as possible. `compinit` itself runs after the prompt.
 
 ### [zgem ![GitHub Repo Stars](https://img.shields.io/github/stars/qoomon/zgem) ![GitHub last commit](https://img.shields.io/github/last-commit/qoomon/zgem)](https://github.com/qoomon/zgem)
 ![GitHub last commit](https://img.shields.io/github/last-commit/qoomon/zgem)
@@ -1753,6 +1769,7 @@ If you're looking for a new font to use, check out [www.codingfont.com](https://
 - [sops-crypt ![GitHub Repo Stars](https://img.shields.io/github/stars/chaosimpact/sops-crypt) ![GitHub last commit](https://img.shields.io/github/last-commit/chaosimpact/sops-crypt)](https://github.com/chaosimpact/sops-crypt) - Plugin for Mozilla SOPS that provides one-click encryption and decryption of files in the current directory and subdirectories.
 - [spaceship-ocm ![GitHub Repo Stars](https://img.shields.io/github/stars/iamkirkbater/spaceship-ocm-plugin) ![GitHub last commit](https://img.shields.io/github/last-commit/iamkirkbater/spaceship-ocm-plugin)](https://github.com/iamkirkbater/spaceship-ocm-plugin) - Queries your OpenShift Cluster Manager (ocm) configuration to show which environment you're connected to. Requires [NerdFont](https://www.nerdfonts.com/font-downloads) in your terminal.
 - [spack ![GitHub Repo Stars](https://img.shields.io/github/stars/Game4Move78/zsh-spack) ![GitHub last commit](https://img.shields.io/github/last-commit/Game4Move78/zsh-spack)](https://github.com/Game4Move78/zsh-spack) - Includes some useful aliases and functions for loading/unloading [Spack ![GitHub Repo Stars](https://img.shields.io/github/stars/spack/spack) ![GitHub last commit](https://img.shields.io/github/last-commit/spack/spack)](https://github.com/spack/spack)-generated modules. As it makes use of the `module` command it is much more efficient than `spack load`.
+- [spotify-now ![GitHub Repo Stars](https://img.shields.io/github/stars/ericlikedis/spotify-now) ![GitHub last commit](https://img.shields.io/github/last-commit/ericlikedis/spotify-now)](https://github.com/ericlikedis/spotify-now) - Shows the track Spotify is playing in your prompt, in a green box with animated equalizer bars. Works on macOS and Linux.
 - [ssh-agent ![GitHub Repo Stars](https://img.shields.io/github/stars/sdiebolt/zsh-ssh-agent) ![GitHub last commit](https://img.shields.io/github/last-commit/sdiebolt/zsh-ssh-agent)](https://github.com/sdiebolt/zsh-ssh-agent) - Automatically launches `ssh-agent` if it isn't already running.
 - [ssh-connect ![GitHub Repo Stars](https://img.shields.io/github/stars/gko/ssh-connect) ![GitHub last commit](https://img.shields.io/github/last-commit/gko/ssh-connect)](https://github.com/gko/ssh-connect) - A simple `ssh` manager.
 - [ssh-git-operations ![GitHub Repo Stars](https://img.shields.io/github/stars/phongphuhanam/ssh-git-operations) ![GitHub last commit](https://img.shields.io/github/last-commit/phongphuhanam/ssh-git-operations)](https://github.com/phongphuhanam/ssh-git-operations) - Provides secure, authenticated `git` `push`/`pull`/`fetch` operations over SSH to remote machines using GitHub token authentication. **Tokens are never persisted on remote machines**.
@@ -3425,6 +3442,7 @@ There is also a more detailed [Zsh Plugin Standard](https://zdharma-continuum.gi
 - [shellSpec ![GitHub Repo Stars](https://img.shields.io/github/stars/shellspec/shellspec) ![GitHub last commit](https://img.shields.io/github/last-commit/shellspec/shellspec)](https://github.com/shellspec/shellspec) - A full-featured BDD unit testing framework for dash, bash, ksh, ZSH and all POSIX shells.
 - [shtab ![GitHub Repo Stars](https://img.shields.io/github/stars/iterative/shtab) ![GitHub last commit](https://img.shields.io/github/last-commit/iterative/shtab)](https://github.com/iterative/shtab) - Automatically generate shell tab completion scripts for Python CLI apps, supports `zsh`, `bash` and `tcsh`.
 - [smucd ![GitHub Repo Stars](https://img.shields.io/github/stars/pro555161rblxs/smucd) ![GitHub last commit](https://img.shields.io/github/last-commit/pro555161rblxs/smucd)](https://github.com/pro555161rblxs/smucd) - Fuzzy typo-tolerant `cd` replacement with interactive selection UI.
+- [suvadu ![GitHub Repo Stars](https://img.shields.io/github/stars/AppachiTech/suvadu) ![GitHub last commit](https://img.shields.io/github/last-commit/AppachiTech/suvadu)](https://github.com/AppachiTech/suvadu) - Shell history in local SQLite with directory, exit code and AI agent commands, with a ZSH widget for Ctrl+R and Up-arrow recall.
 - [zargparse ![GitHub Repo Stars](https://img.shields.io/github/stars/ctil/zargparse) ![GitHub last commit](https://img.shields.io/github/last-commit/ctil/zargparse)](https://github.com/ctil/zargparse) - Pass it a script that uses Python's `argparse` and it will write a ZSH completion to your current directory.
 - [zcolors ![GitHub Repo Stars](https://img.shields.io/github/stars/marlonrichert/zcolors) ![GitHub last commit](https://img.shields.io/github/last-commit/marlonrichert/zcolors)](https://github.com/marlonrichert/zcolors) - Uses your `$LS_COLORS` to generate a coherent theme for `git` and your ZSH prompt, completions and [ZSH syntax highlighting ![GitHub Repo Stars](https://img.shields.io/github/stars/zsh-users/zsh-syntax-highlighting) ![GitHub last commit](https://img.shields.io/github/last-commit/zsh-users/zsh-syntax-highlighting)](https://github.com/zsh-users/zsh-syntax-highlighting).
 - [zsh-ai-completions ![GitHub Repo Stars](https://img.shields.io/github/stars/iloveitaly/zsh-ai-completions) ![GitHub last commit](https://img.shields.io/github/last-commit/iloveitaly/zsh-ai-completions)](https://github.com/iloveitaly/zsh-ai-completions) - AI-generated ZSH completions
