@@ -3,12 +3,12 @@
   <br>
   <br>
 
-  <a href="https://enconvo.com" target="_blank">
+  <a href="https://enconvo.com/?via=kennyiseeyou" target="_blank">
     <img alt="getapps.cafe" width="400" src="https://jaywcjlove.github.io/sponsor/enconvo.com.png">
   </a>
   <br>
-  <a href="https://enconvo.com/" target="_blank"><b>Enconvo</b> - An AI agent that works across your Mac</a><br/>
-  <a href="https://enconvo.com/" target="_blank">It sees your screen, works in your apps, and gets things done.</a>
+  <a href="https://enconvo.com/?via=kennyiseeyou" target="_blank"><b>Enconvo</b> - An AI agent that works across your Mac</a><br/>
+  <a href="https://enconvo.com/?via=kennyiseeyou" target="_blank">It sees your screen, works in your apps, and gets things done.</a>
   <br><br>
 
   <a href="https://getapps.cafe/">
@@ -521,6 +521,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Katalon Studio](https://www.katalon.com) - Simplify API, Web, and Mobile Automation Tests. ![Freeware][Freeware Icon]
 * [Maestro](https://maestro.dev/) - End-to-end testing framework for mobile and web apps. [![Open-Source Software][OSS Icon]](https://github.com/mobile-dev-inc/maestro) ![Freeware][Freeware Icon]
 * [Mockoon](https://mockoon.com/) - Create mock APIs in seconds. [![Open-Source Software][OSS Icon]](https://github.com/mockoon/mockoon)
+* [Optics Framework](https://optics-framework.org/) - Open-source UI test automation for Android, iOS, web and smart TV apps, with tests written as CSV or YAML steps. [![Open-Source Software][OSS Icon]](https://github.com/mozarkai/optics-framework) ![Freeware][Freeware Icon]
 * [Paw](https://paw.cloud/) - Advanced HTTP client.
 * [Postman](https://www.getpostman.com) - GUI platform for API development. ![Freeware][Freeware Icon]
 * [Reqable](https://reqable.com) - Next-Gen API Development Tool, Advanced API Debugging Proxy and REST Client. ![Freeware][Freeware Icon]
@@ -872,6 +873,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Fazm](https://fazm.ai) - Open-source voice-controlled AI agent for apps, files, and workflows. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/m13v/fazm)
 * [Flock ![GitHub Repo Stars](https://img.shields.io/github/stars/Divagation/flock) ![GitHub last commit](https://img.shields.io/github/last-commit/Divagation/flock)](https://github.com/Divagation/flock) - Terminal multiplexer for running multiple Claude Code and shell sessions in one workspace. [![Open-Source Software][OSS Icon]](https://github.com/Divagation/flock) ![Freeware][Freeware Icon]
 * [Fluent](https://fluentmac.app) - AI assistant that works across apps with model and context integration.
+* [Frink](https://frink.dev) - Desktop-first, open-source (MIT) application for running parallel agents, and multi-step custom workflows triggered by schedules, webhooks or events from tools like Linear and Sentry, across your already-used providers. [![Open-Source Software][OSS Icon]](https://github.com/benord-labs/frink) ![Freeware][Freeware Icon]
 * [Gemini Collector ![GitHub Repo Stars](https://img.shields.io/github/stars/FirenzeLor/gemini-collector) ![GitHub last commit](https://img.shields.io/github/last-commit/FirenzeLor/gemini-collector)](https://github.com/FirenzeLor/gemini-collector) - Back up Google Gemini conversations, attachments, and AI-generated media locally as JSON. [![Open-Source Software][OSS Icon]](https://github.com/FirenzeLor/gemini-collector) ![Freeware][Freeware Icon]
 * [GroAsk](https://groask.com) - Menu bar launcher that sends selected text to AI assistants and CLI agents.
 * [Grux](https://gruxai.com) - Menu bar assistant that reads your active window and reaches local mail, calendar, notes, and files, using your own API key or a local model. [![Open-Source Software][OSS Icon]](https://github.com/dotcomjack/grux) ![Freeware][Freeware Icon] ![Native App][Native Icon]
@@ -1270,6 +1272,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 
 ## Utilities
 
+* [Convertino ![GitHub Repo Stars](https://img.shields.io/github/stars/hasanzadee/convertino) ![GitHub last commit](https://img.shields.io/github/last-commit/hasanzadee/convertino)](https://github.com/hasanzadee/convertino) - Drag a file, tap Shift and drop it on a radial menu to convert or edit it. [![Open-Source Software][OSS Icon]](https://github.com/hasanzadee/convertino) ![Freeware][Freeware Icon]
 * [DNS Easy Switcher ![GitHub Repo Stars](https://img.shields.io/github/stars/glinford/dns-easy-switcher) ![GitHub last commit](https://img.shields.io/github/last-commit/glinford/dns-easy-switcher)](https://github.com/glinford/dns-easy-switcher) - Menu bar tool for switching DNS providers or custom resolvers. [![Open-Source Software][OSS Icon]](https://github.com/glinford/dns-easy-switcher) ![Freeware][Freeware Icon]
 * [Dropshelf](https://pilotmoon.com/dropshelf/) - A drag and drop helper app for macOS. ![Freeware][Freeware Icon]
 * [Dropover](https://dropoverapp.com/) - Temporary shelf for collecting and moving dragged files, text, and links. [![App Store][app-store Icon]](https://apps.apple.com/us/app/dropover-easier-drag-drop/id1355679052?platform=mac)
@@ -1318,6 +1321,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [cctop](https://cctop.app) - Open-source menu bar monitor that shows live status for AI coding sessions (Claude Code, Codex, opencode, pi) and jumps to the right terminal pane or editor window. [![Open-Source Software][OSS Icon]](https://github.com/st0012/cctop) ![Freeware][Freeware Icon]
 * [ChargeMonitor ![GitHub Repo Stars](https://img.shields.io/github/stars/CrashSystemZ/ChargeMonitor) ![GitHub last commit](https://img.shields.io/github/last-commit/CrashSystemZ/ChargeMonitor)](https://github.com/CrashSystemZ/ChargeMonitor) - Menu bar battery monitor with real-time charging stats and energy impact insights. ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/CrashSystemZ/ChargeMonitor)
 * [CodexIsland ![GitHub Repo Stars](https://img.shields.io/github/stars/ericjypark/codex-island) ![GitHub last commit](https://img.shields.io/github/last-commit/ericjypark/codex-island)](https://github.com/ericjypark/codex-island) - Turns the MacBook notch into a Dynamic Island-style live activity for Claude Code and Codex CLI rate limits and spend, computed locally with no telemetry. [![Open-Source Software][OSS Icon]](https://github.com/ericjypark/codex-island) ![Freeware][Freeware Icon]
+* [Perch](https://perchapp.dev) - Keyboard-first MacBook notch app for Claude Code, Codex, OpenCode and pi sessions: see what each did, answer from the notch, and jump back to the exact window or terminal pane. [![Open-Source Software][OSS Icon]](https://github.com/asafofer/perch) ![Freeware][Freeware Icon]
 * [SaneBar](https://sanebar.com) - Privacy-first menu bar manager with hidden zones and automation rules. [![Open-Source Software][OSS Icon]](https://github.com/sane-apps/SaneBar) ![Freeware][Freeware Icon]
 * [Sharptooth](https://apps.apple.com/app/sharptooth-bluetooth-hotkeys/id6748440814?platform=mac) - Menu bar tool for managing Bluetooth devices with hotkeys and automation. [![Freeware][Freeware Icon]](https://apps.apple.com/app/sharptooth-bluetooth-hotkeys/id6748440814?platform=mac)
 * [BeardedSpice ![GitHub Repo Stars](https://img.shields.io/github/stars/beardedspice/beardedspice) ![GitHub last commit](https://img.shields.io/github/last-commit/beardedspice/beardedspice)](https://github.com/beardedspice/beardedspice) - Control web players and supported apps with your keyboard media keys. [![Open-Source Software][OSS Icon]](https://github.com/beardedspice/beardedspice) ![Freeware][Freeware Icon]
@@ -1735,6 +1739,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 
 ## Gaming Software
 
+* [Borne](https://borne.pasahome.org) - Native front end for MAME and classic PC games (Doom, Quake, Duke Nukem 3D), in the spirit of MAMEUI, with the emulator and engines included. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/gpasa/borne)
 * [ChessCafe](https://getapps.cafe/app/chesscafe) - Animated 3D chess with three AI levels, multiple armies, and hot-seat multiplayer. ![Freeware][Freeware Icon]
 * [Classic Game Box ![GitHub Repo Stars](https://img.shields.io/github/stars/lazyfury/classic-game-box) ![GitHub last commit](https://img.shields.io/github/last-commit/lazyfury/classic-game-box)](https://github.com/lazyfury/classic-game-box) - Open-source retro-console emulator frontend built on libretro cores. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/lazyfury/classic-game-box)
 * [Highball](https://gethighball.com) - Run Windows games on Apple Silicon through Wine, with the graphics layer (DXMT, DXVK or D3DMetal) chosen per game from an open compatibility database. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/gauthierpiarrette/highball)
