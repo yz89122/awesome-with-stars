@@ -186,6 +186,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 - [Blk Game ![GitHub Repo Stars](https://img.shields.io/github/stars/morozd/blk-game) ![GitHub last commit](https://img.shields.io/github/last-commit/morozd/blk-game)](https://github.com/morozd/blk-game) - Fully modifiable multiplayer voxel world in JS that can run efficiently in the browser.
 - [Cube Engine ![GitHub Repo Stars](https://img.shields.io/github/stars/Nurgak/Cube-engine) ![GitHub last commit](https://img.shields.io/github/last-commit/Nurgak/Cube-engine)](https://github.com/Nurgak/Cube-engine) - Resembles that of Minecraft, a popular voxel-type 3D game based on boxes.
 - [Sandboxels ![GitHub Repo Stars](https://img.shields.io/github/stars/R74nCom/sandboxels) ![GitHub last commit](https://img.shields.io/github/last-commit/R74nCom/sandboxels)](https://github.com/R74nCom/sandboxels) - Falling-sand experimentation game with over 500 materials to play with.
+- [The Human Box ![GitHub Repo Stars](https://img.shields.io/github/stars/1homsi/thehumanbox) ![GitHub last commit](https://img.shields.io/github/last-commit/1homsi/thehumanbox)](https://github.com/1homsi/thehumanbox) - Browser civilization sandbox where tribes invent their own languages, cultures and beliefs.
 
 ### Puzzle
 
