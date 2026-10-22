@@ -503,7 +503,7 @@ Dialyzer starts its analysis from either debug-compiled BEAM bytecode  or from E
 <details>
 <summary>Show Deprecated</summary>
 
-- **Primitive Erlang Security Tool (PEST)** :warning: ��� A tool to do a basic scan of Erlang source code and report any function calls that may cause Erlang source code to be insecure.
+- **Primitive Erlang Security Tool (PEST)** :warning: — A tool to do a basic scan of Erlang source code and report any function calls that may cause Erlang source code to be insecure.
 
 </details>
 
@@ -598,7 +598,7 @@ By default, govulncheck makes requests to the Go vulnerability database at https
 
 - [structcheck](https://gitlab.com/opennota/check) — Find unused struct fields.
 
-- [test](https://pkg.go.dev/testing) ��� Show location of test failures from the stdlib testing module.
+- [test](https://pkg.go.dev/testing) — Show location of test failures from the stdlib testing module.
 
 - [unconvert ![GitHub Repo Stars](https://img.shields.io/github/stars/mdempsky/unconvert) ![GitHub last commit](https://img.shields.io/github/last-commit/mdempsky/unconvert)](https://github.com/mdempsky/unconvert) — Detect redundant type conversions.
 
@@ -1036,7 +1036,7 @@ A ktfmt IntelliJ plugin is available from the plugin repository. To install it, 
 - [larastan ![GitHub Repo Stars](https://img.shields.io/github/stars/larastan/larastan) ![GitHub last commit](https://img.shields.io/github/last-commit/larastan/larastan)](https://github.com/larastan/larastan) — Adds static analysis to Laravel improving developer productivity and code quality. It is a wrapper around PHPStan.
 
 - [mago](https://mago.carthage.software) — Mago is a complete toolchain for PHP, written in Rust, designed from the ground up for maximum performance.
-- ✨ A blazing-fast formatter that automatically formats your code according to PER-CS, ending style debates forever. - 🔎 An intelligent linter that catches stylistic issues, inconsistencies, and code smells before they become problems. - 🔬 A powerful static analyzer that finds type errors and logical bugs in your code without you ever having to run it. - 🛡️ A robust architectural guard that enforces dependency rules and structural conventions.
+- �� A blazing-fast formatter that automatically formats your code according to PER-CS, ending style debates forever. - 🔎 An intelligent linter that catches stylistic issues, inconsistencies, and code smells before they become problems. - 🔬 A powerful static analyzer that finds type errors and logical bugs in your code without you ever having to run it. - 🛡️ A robust architectural guard that enforces dependency rules and structural conventions.
 
 - [parallel-lint ![GitHub Repo Stars](https://img.shields.io/github/stars/php-parallel-lint/PHP-Parallel-Lint) ![GitHub last commit](https://img.shields.io/github/last-commit/php-parallel-lint/PHP-Parallel-Lint)](https://github.com/php-parallel-lint/PHP-Parallel-Lint) — This tool checks syntax of PHP files faster than serial check with a fancier output.
 

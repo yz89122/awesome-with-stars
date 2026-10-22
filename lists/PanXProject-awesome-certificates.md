@@ -230,7 +230,7 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 | <a href="https://www.life-global.org/course/27-your-target-audience" target="_blank" rel="noopener noreferrer">Your Target Audience</a> | HP / Life Global | Beginner | 0.5 | 🏆 |
 | <a href="https://www.life-global.org/course/30-effective-business-websites" target="_blank" rel="noopener noreferrer">Effective Business Websites</a> | HP / Life Global | Beginner | 0.5 | 🏆 |
 
-<a href="https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents" target="_blank" rel="noopener noreferrer">⬆️</a>
+<a href="https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents" target="_blank" rel="noopener noreferrer">���️</a>
 
 ### Professional Development / Communication
 

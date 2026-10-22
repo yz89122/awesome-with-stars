@@ -394,6 +394,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [Dubble](https://dubble.so/) - Free Step-by-Step Guide creator. Take screenshots, document processes and collaborate with your team. Also supports async screen recording.
   * [Duckly](https://duckly.com/) - Talk and collaborate in real time with your team. Pair programming with IDE, terminal sharing, voice, video, and screen sharing. Free for small teams.
   * [element.io](https://element.io/) - A decentralized and open-source communication tool built on Matrix. Group chats, direct messaging, encrypted file transfers, voice and video chats, and easy integration with other services.
+  * [Enchant](https://www.enchant.com) - Omnichannel customer communication platform. Free tier includes chat widgets, email newsletters, link-in-bio hub & more.
   * [evernote.com](https://evernote.com/) - Tool for organizing information. Share your notes and work together with others
   * [Fibery](https://fibery.io/) - Connected workspace platform. Free for single users, up to 2 GB disk space.
   * [Fibo](https://fibo.dev) - A free online realtime scrum poker tool for agile teams that lets unlimited members estimate story points for faster planning.
@@ -869,6 +870,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
 
 ## Education and Career Development
 
+  * [BylineCV](https://bylinecv.com/) - Form-based CV and cover letter builder to pass ATS filters and organize all your versions in one place. Free forever for core CV building, exports, and storage, with daily AI limits.
   * [Cisco Networking Academy, Skills for All](https://skillsforall.com/) - Offers free certification-aligned courses in topics like cybersecurity, networking, and Python.
   * [CloudCertPrep](https://cloudcertprep.io) - Free, open-source AWS certification practice exams with 1,050+ questions for CLF-C02. Features timed mock exams, domain practice, spaced repetition, and progress tracking.
   * [CodeTrain](https://codetrain.ai) - AI coding tutor that teaches you on your own codebase and never writes the code for you. Free tier: 10 in-browser lessons/month, Python/JS run client-side, no card required.
@@ -959,6 +961,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [Sendpulse](https://sendpulse.com) - 500 subscribers/month, 15,000 emails/month free
   * [SendRaven](https://sendraven.ai) - SendRaven provides an email API for transactional email and agent-driven conversations, including inbound replies and threads. The free tier includes 3,000 outbound emails per month, unlimited contacts and inbound replies, card is required.
   * [SendStreak](https://www.sendstreak.com/) - Email framework as a service, that adds templates, automations, history, etc to your own SMTP server (E.g. AWS, Maileroo, Gmail). Free up to 100 emails/day, no time limit.
+  * [SignupVet](https://www.signupvet.com) - An API that checks email, phone and IP of new signups. 250 free checks per month, no credit card.
   * [SimpleLogin](https://simplelogin.io/) - Open source, self-hostable email alias/forwarding solution. Free 10 Aliases, unlimited bandwidth, unlimited reply/send. Free for educational staff (student, researcher, etc.).
   * [SMTPfast](https://smtpfa.st/) - SMTPfast is a simple email API for developers with a free tier that includes 3,000 emails/month, 1 domain, and 1,000 contacts, with no credit card required.
   * [Substack](https://substack.com) - Unlimited free newsletter service. Start paying when you charge for it.
@@ -1491,6 +1494,7 @@ Update Time, five active automations, webhooks.
   * [positionstack](https://positionstack.com/) - Free geocoding for global places and coordinates. 25,000 Requests per month for personal use.
   * [stadiamaps.com](https://stadiamaps.com/) - Map tiles, routing, navigation, and other geospatial APIs. Two thousand five hundred free map views and API requests/day for non-commercial usage and testing.
   * [SqlInt](https://sqlint.com) — In-browser SQL workspace with free tools including a JOIN visualizer, SQL formatter, CSV/JSON to SQL converters, and practice questions with no account or credit card required.
+  * [waymorphic.com](https://waymorphic.com/) - Vector map tiles (OpenMapTiles schema), MapLibre styles, geocoding and reverse geocoding APIs. No API key, no request limit, fair use policy.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
