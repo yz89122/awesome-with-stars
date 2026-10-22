@@ -971,6 +971,7 @@ then it is not supported:
 - [Kurama622/profile.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/Kurama622/profile.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/Kurama622/profile.nvim)](https://github.com/Kurama622/profile.nvim) - A dashboard, similar to GitHub homepage.
 - [leo-alvarenga/homecoming.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/leo-alvarenga/homecoming.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/leo-alvarenga/homecoming.nvim)](https://github.com/leo-alvarenga/homecoming.nvim) - A dead-simple, customizable and cozy dashboard with sane defaults and zero config required.
 - [Amansingh-afk/milli.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/Amansingh-afk/milli.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/Amansingh-afk/milli.nvim)](https://github.com/Amansingh-afk/milli.nvim) - Animated ASCII splash screens with bundled animations and custom image or GIF support.
+- [zdcthomas/sprout.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/zdcthomas/sprout.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/zdcthomas/sprout.nvim)](https://github.com/zdcthomas/sprout.nvim) - An ASCII art bonsai for your start screen that grows as the day goes forward.
 <!--lint disable double-link -->
 [**⬆ back to top**](#contents)
 <!--lint enable double-link -->
