@@ -201,6 +201,7 @@ Additional lists you might find useful:
 *Syntax highlighting and markup processing.*
 
 - [Markup plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/dereuromark/cakephp-markup) ![GitHub last commit](https://img.shields.io/github/last-commit/dereuromark/cakephp-markup)](https://github.com/dereuromark/cakephp-markup) - Allows to use PHP or JS based syntax highlighting.
+- [MarkupCarve/CakeCarve plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/markup-carve/cakephp-carve) ![GitHub last commit](https://img.shields.io/github/last-commit/markup-carve/cakephp-carve)](https://github.com/markup-carve/cakephp-carve) - Renders and validates Carve markup, with a helper, `.crv` views, an ORM behavior and console commands.
 
 ### Migration
 *Plugins and resources around migration and upgrading.*
@@ -369,7 +370,6 @@ Additional lists you might find useful:
 - [Docker ![GitHub Repo Stars](https://img.shields.io/github/stars/stefanvangastel/docker-cakephp) ![GitHub last commit](https://img.shields.io/github/last-commit/stefanvangastel/docker-cakephp)](https://github.com/stefanvangastel/docker-cakephp) - CakePHP in a Docker container environment.
 - [Galley](https://gitlab.com/amayer5125/galley) - A small Docker dev environment for CakePHP development which includes a simple command line utility.
 - [NetBeans ![GitHub Repo Stars](https://img.shields.io/github/stars/junichi11/cakephp3-netbeans) ![GitHub last commit](https://img.shields.io/github/last-commit/junichi11/cakephp3-netbeans)](https://github.com/junichi11/cakephp3-netbeans) - This package provides support for CakePHP in NetBeans 8.1+.
-- [Puppet](https://puppetlabs.com/) - A server automation framework and application.
 - [Vagrant](https://developer.hashicorp.com/vagrant) - A portable development environment utility.
 
 IDE specific compatibility information and tips can be found [here ![GitHub Repo Stars](https://img.shields.io/github/stars/dereuromark/cakephp-ide-helper) ![GitHub last commit](https://img.shields.io/github/last-commit/dereuromark/cakephp-ide-helper)](https://github.com/dereuromark/cakephp-ide-helper/wiki#ide-support-and-tips).

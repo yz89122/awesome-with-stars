@@ -390,6 +390,7 @@ With the introduction of [Effect Handlers](https://ocaml.org/manual/effects.html
 	- [Object detection convolutional neural network with OCaml (based on Owl) ![GitHub Repo Stars](https://img.shields.io/github/stars/owlbarn/owl_mask_rcnn) ![GitHub last commit](https://img.shields.io/github/last-commit/owlbarn/owl_mask_rcnn)](https://github.com/owlbarn/owl_mask_rcnn).
 	- [PyTorch bindings ![GitHub Repo Stars](https://img.shields.io/github/stars/LaurentMazare/ocaml-torch) ![GitHub last commit](https://img.shields.io/github/last-commit/LaurentMazare/ocaml-torch)](https://github.com/LaurentMazare/ocaml-torch) - OCaml bindings for PyTorch.
   	- [Ocaml-NN ![GitHub Repo Stars](https://img.shields.io/github/stars/ck090/ocaml-nn) ![GitHub last commit](https://img.shields.io/github/last-commit/ck090/ocaml-nn)](https://github.com/ck090/ocaml-nn/tree/main) - Fully functional monadic implementation of a Neural Network (FCNNs) in OCaml
+	- [Chatoyant ![GitHub Repo Stars](https://img.shields.io/github/stars/Anonyfox/chatoyant) ![GitHub last commit](https://img.shields.io/github/last-commit/Anonyfox/chatoyant)](https://github.com/Anonyfox/chatoyant) - SDK for LLM providers (OpenAI, Anthropic, xAI, OpenRouter and local servers) built on Eio, with typed tool calling, structured outputs and streaming.
 - **Articles**
 	- [Deep Learning with OCaml (PyTorch bindings)](https://blog.janestreet.com/deep-learning-experiments-in-ocaml/).
 	- [Transfer Learning with OCaml (PyTorch bindings)](https://blog.janestreet.com/of-pythons-and-camels/).

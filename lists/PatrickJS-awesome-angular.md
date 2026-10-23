@@ -258,6 +258,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [migration-planificator ![GitHub Repo Stars](https://img.shields.io/github/stars/silvestv/migration-planificator-documentation) ![GitHub last commit](https://img.shields.io/github/last-commit/silvestv/migration-planificator-documentation)](https://github.com/silvestv/migration-planificator-documentation) - Plan Angular migrations with precision AST analysis, calculate workload estimates, and generate interactive HTML dashboards.
 * [NgReady](https://www.ngready.dev/) - Stop Wasting Days on Angular Upgrades.
 * [ng-ceiling ![GitHub Repo Stars](https://img.shields.io/github/stars/korolvitalii/ng-ceiling) ![GitHub last commit](https://img.shields.io/github/last-commit/korolvitalii/ng-ceiling)](https://github.com/korolvitalii/ng-ceiling) - Estimates the highest Angular version allowed by declared package compatibility and lists upgrade blockers.
+* [ng-checkup ![GitHub Repo Stars](https://img.shields.io/github/stars/stefankuburovic/ng-checkup) ![GitHub last commit](https://img.shields.io/github/last-commit/stefankuburovic/ng-checkup)](https://github.com/stefankuburovic/ng-checkup) - A one-minute modernization report for any Angular codebase.
 
 ## Angular Pulse
 
@@ -999,6 +1000,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-rehydrate ![GitHub Repo Stars](https://img.shields.io/github/stars/solidexpert-ltd/ngx-rehydrate) ![GitHub last commit](https://img.shields.io/github/last-commit/solidexpert-ltd/ngx-rehydrate)](https://github.com/solidexpert-ltd/ngx-rehydrate) - NgRx state rehydration library for Angular SSR applications.
 * [ngrx-offline ![GitHub Repo Stars](https://img.shields.io/github/stars/poodlelab/ngrx-offline) ![GitHub last commit](https://img.shields.io/github/last-commit/poodlelab/ngrx-offline)](https://github.com/poodlelab/ngrx-offline) - Durable, optimistic, offline mutation handling for Angular applications that use NgRx.
 * [ngrx-graph ![GitHub Repo Stars](https://img.shields.io/github/stars/ammarnajjar/ngrx-graph) ![GitHub last commit](https://img.shields.io/github/last-commit/ammarnajjar/ngrx-graph)](https://github.com/ammarnajjar/ngrx-graph) - A CLI scanner to generate JSON and DOT/SVG dependency graphs.
+* [evst ![GitHub Repo Stars](https://img.shields.io/github/stars/fredyang/evst) ![GitHub last commit](https://img.shields.io/github/last-commit/fredyang/evst)](https://github.com/fredyang/evst) - A minimalist, event-driven programming model for applications using the Redux pattern, with implementations for Angular/NgRx and React/Redux Toolkit.
 
 ### NGXS
 
