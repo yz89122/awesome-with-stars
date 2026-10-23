@@ -136,6 +136,7 @@ Join us on [Discord](https://discord.com/invite/kRc2N2M) to chat with other awes
 
 *Integration with third party services*
 
+* [phalcon-inertia ![GitHub Repo Stars](https://img.shields.io/github/stars/wielorzeczownik/phalcon-inertia) ![GitHub last commit](https://img.shields.io/github/last-commit/wielorzeczownik/phalcon-inertia)](https://github.com/wielorzeczownik/phalcon-inertia) - Server-side adapter for [Inertia.js](https://inertiajs.com/), with Ziggy style named routes for JavaScript
 * [phalcon-logentries ![GitHub Repo Stars](https://img.shields.io/github/stars/phalcon-orphanage/phalcon-logentries) ![GitHub last commit](https://img.shields.io/github/last-commit/phalcon-orphanage/phalcon-logentries)](https://github.com/phalcon-orphanage/phalcon-logentries) - Sends log messages to the [Logentries](https://logentries.com/) log management service
 
  ## IDE
