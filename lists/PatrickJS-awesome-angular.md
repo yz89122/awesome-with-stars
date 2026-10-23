@@ -1516,6 +1516,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [Updog](https://docs.updog.tech/getting-started/other-frameworks/) - A client-side data importer and spreadsheet editor.
 * [trevixal-editor ![GitHub Repo Stars](https://img.shields.io/github/stars/adityabhalsod/trevixal-editor) ![GitHub last commit](https://img.shields.io/github/last-commit/adityabhalsod/trevixal-editor)](https://github.com/adityabhalsod/trevixal-editor) - An independent, custom-engineered WYSIWYG rich-text engine with an Angular integration.
 * [kritzel ![GitHub Repo Stars](https://img.shields.io/github/stars/kasual1/kritzel) ![GitHub last commit](https://img.shields.io/github/last-commit/kasual1/kritzel)](https://github.com/kasual1/kritzel) - Infinite canvas editor with first-class support for Angular.
+* [ngx-editor-rtl-ltr-edition ![GitHub Repo Stars](https://img.shields.io/github/stars/ahpcoir-lgtm/ngx-editor-rtl-ltr-edition) ![GitHub last commit](https://img.shields.io/github/last-commit/ahpcoir-lgtm/ngx-editor-rtl-ltr-edition)](https://github.com/ahpcoir-lgtm/ngx-editor-rtl-ltr-edition) - A text editor built on ProseMirror featuring native RTL/LTR support, Persian/Arabic fonts and locales, advanced tables, and media embeds.
 
 ### File Upload
 
@@ -2176,6 +2177,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [sushi-angular ![GitHub Repo Stars](https://img.shields.io/github/stars/RAMEN-Suite/sushi-angular) ![GitHub last commit](https://img.shields.io/github/last-commit/RAMEN-Suite/sushi-angular)](https://github.com/RAMEN-Suite/sushi-angular) - An open-source, accessible, and themeable Angular component library built on the CDK and native HTML semantics with typed signal APIs.
 * [helix ![GitHub Repo Stars](https://img.shields.io/github/stars/GravionLabs/helix) ![GitHub last commit](https://img.shields.io/github/last-commit/GravionLabs/helix)](https://github.com/GravionLabs/helix) - A signal-based, token-driven Angular UI ecosystem featuring plain CSS components, an application shell, Zod-powered dynamic forms, and AG Grid helpers.
 * [ndop-ui ![GitHub Repo Stars](https://img.shields.io/github/stars/ndop-ui/ui) ![GitHub last commit](https://img.shields.io/github/last-commit/ndop-ui/ui)](https://github.com/ndop-ui/ui) - An agent-native, signals-first Angular component ecosystem.
+* [jig ![GitHub Repo Stars](https://img.shields.io/github/stars/awdlab/jig) ![GitHub last commit](https://img.shields.io/github/last-commit/awdlab/jig)](https://github.com/awdlab/jig) - A signal-based component library for Angular 22+.
 
 ### UI Libraries built on Bootstrap
 

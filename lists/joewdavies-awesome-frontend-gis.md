@@ -284,7 +284,7 @@ Plug-and-play geospatial web apps:
 - [gpx studio ![GitHub Repo Stars](https://img.shields.io/github/stars/gpxstudio/gpxstudio.github.io) ![GitHub last commit](https://img.shields.io/github/last-commit/gpxstudio/gpxstudio.github.io)](https://github.com/gpxstudio/gpxstudio.github.io) - Online tool for GPX editing.
 
 
-## 🎨 Colour advice 
+## ���� Colour advice 
 Colour usage is very important in data visualisation and cartography. Here are some tools to help you choose the best colours for your maps:
 
 - [CartoColor ![GitHub Repo Stars](https://img.shields.io/github/stars/CartoDB/CartoColor) ![GitHub last commit](https://img.shields.io/github/last-commit/CartoDB/CartoColor)](https://github.com/CartoDB/CartoColor) - A set of custom color palettes built on top of standards for color use on maps. ![GitHub stars](https://img.shields.io/github/stars/CartoDB/CartoColor?style=social)
