@@ -184,6 +184,7 @@ How do you learn data science? By doing data science, of course! Okay, okay - th
 - [Realtime deployment](https://www.microprediction.com/python-1) Tutorial on Python time-series model deployment.
 - [Python for Data Science: A Beginner’s Guide](https://learntocodewith.me/posts/python-for-data-science/)
 - [Minimum Viable Study Plan for Machine Learning Interviews ![GitHub Repo Stars](https://img.shields.io/github/stars/khangich/machine-learning-interview) ![GitHub last commit](https://img.shields.io/github/last-commit/khangich/machine-learning-interview)](https://github.com/khangich/machine-learning-interview)
+- [AI Engineer Interview Prep ![GitHub Repo Stars](https://img.shields.io/github/stars/landedjobs/awesome-ai-engineer-interview) ![GitHub last commit](https://img.shields.io/github/last-commit/landedjobs/awesome-ai-engineer-interview)](https://github.com/landedjobs/awesome-ai-engineer-interview) - 267 AI engineer interview questions with answers, 10 worked system designs, and 12 company loop guides.
 - [Understand and Know Machine Learning Engineering by Building Solid Projects](https://mlzoomcamp.com/)
 - [12 free Data Science projects to practice Python and Pandas](https://www.datawars.io/articles/12-free-data-science-projects-to-practice-python-and-pandas)
 - [Best CV/Resume for Data Science Freshers](https://enhancv.com/resume-examples/data-scientist/)
