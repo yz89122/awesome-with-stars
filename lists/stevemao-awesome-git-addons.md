@@ -1828,7 +1828,7 @@ Site:      github.com
 Repo:      zdharma/git-url
 Revision:  v1.0
 
-gitu://ŪĪАϔEäḝЃȣϟṈӛŀї
+gitu://ŪĪА��EäḝЃȣϟṈӛŀї
 
 $ git url -q -p lib/common.sh	# -q - quiet, -p - path
 gitu://eḶȸṋ0oǗȟЗÛjȩMżEäḝЃȣϟṈӛŀї
