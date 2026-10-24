@@ -125,6 +125,7 @@ Processing Unit (GPU).
 
 > Tools for development and debugging WebGL
 
+- [Fast3D](https://www.fast3d.org/en) - Browser-based 3D toolbox: convert between GLB, GLTF, OBJ, STL, FBX and PLY, compress models and preview them in a full-featured viewer. Everything runs client-side.
 * [Khronos Dev Tools ![GitHub Repo Stars](https://img.shields.io/github/stars/KhronosGroup/WebGLDeveloperTools) ![GitHub last commit](https://img.shields.io/github/last-commit/KhronosGroup/WebGLDeveloperTools)](https://github.com/KhronosGroup/WebGLDeveloperTools) - Useful WebGL developer tools, intended to be used as an ES6 module.
 * [Spector.js](https://spector.babylonjs.com/) - Agnostic JavaScript framework for exploring and troubleshooting your WebGL scenes.
 * [WebGL Inspector](http://benvanik.github.io/WebGL-Inspector/) - Tool inspired by gDEBugger and PIX with the goal of making the development of advanced WebGL applications easier.
@@ -159,9 +160,11 @@ Processing Unit (GPU).
 * [Multitexturing using a Blendmap](http://chinedufn.com/webgl-multitexture-blend-map-tutorial/) - How to use a blendmap to multitexture a terrain.
 * [Particle Effects via Billboards](http://chinedufn.com/webgl-particle-effect-billboard-tutorial/) - Create particle effects by applying a technique called billboarding.
 * [The Book of Shaders](https://thebookofshaders.com/) - Gentle step-by-step guide through the abstract and complex universe of Fragment Shaders.
+* [TutorialSearch](https://tutorialsearch.io/browse/web-development/webgl-graphics) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
 * [WebGL Academy](http://www.webglacademy.com/) - Simplified online IDE with automatic indentation, syntax highlighting for HTML, Javascript, GLSL and Python. You can run your code and download your projects.
 * [WebGL Fundamentals](https://webglfundamentals.org/) - Series of online tutorials with code samples and live demonstrations.
 * [WebGL Workshop](http://webgl-workshop.com/) - Interactive workshop to get you up and running with WebGL.
+* [A tutorial on infinite canvas with WebGL](https://infinitecanvas.cc) - A hands-on tutorial for building a GPU-accelerated infinite canvas in the browser, with first-class WebGL support (and WebGPU) via a unified graphics API—covering ECS, SDF-based 2D primitives, GPU text, and tile-based rendering, by [@xiaoiver](https://github.com/xiaoiver).
 
 ### Videos
 
@@ -192,6 +195,7 @@ Processing Unit (GPU).
 * [WebGL 2 Lands in Firefox](https://hacks.mozilla.org/2017/01/webgl-2-lands-in-firefox/) - Information the support for WebGL 2 starting with Firefox 51.
 * [WebGL 2 Basics](http://www.realtimerendering.com/blog/webgl-2-basics/) - Blog post about getting started with WebGL 2.
 * [WebGL 2 New Features](http://www.realtimerendering.com/blog/webgl-2-new-features/) - Blog post about whats new and cool in WebGl 2.
+* [Zero Bytes of Geometry: A Metal Lattice Sphere-Traced in a 14.9 KB Page](https://dev.to/smirnovartur/zero-bytes-of-geometry-a-metal-lattice-sphere-traced-in-a-149-kb-page-kib) - Ray marching a signed distance field in raw WebGL 2, with an analytic environment in place of an HDR file and resolution adapted against the display refresh period.
 
 ### References
 
@@ -270,17 +274,22 @@ Processing Unit (GPU).
 
 #### Computer Vision
 * [GammaCV](https://gammacv.com) - WebGL accelerated Computer Vision library for browser.
+* [Speedy Vision ![GitHub Repo Stars](https://img.shields.io/github/stars/alemart/speedy-vision) ![GitHub last commit](https://img.shields.io/github/last-commit/alemart/speedy-vision)](https://github.com/alemart/speedy-vision) - GPU-accelerated Computer Vision library for JavaScript.
 
 #### Particles
+* [NixieFX ![GitHub Repo Stars](https://img.shields.io/github/stars/azakhary/nixie-fx) ![GitHub last commit](https://img.shields.io/github/last-commit/azakhary/nixie-fx)](https://github.com/azakhary/nixie-fx) - Particle and VFX runtime for PixiJS and Three.js, authored in a browser-based editor.
 * [Phenomenon ![GitHub Repo Stars](https://img.shields.io/github/stars/vaneenige/phenomenon) ![GitHub last commit](https://img.shields.io/github/last-commit/vaneenige/phenomenon)](https://github.com/vaneenige/phenomenon) - Very small, low-level WebGL library that provides the essentials to deliver a high performance experience.
 
 ### Maps and Visualizations
 * [Cesium](https://cesiumjs.org/) - Open-source library for world-class 3D globes and maps.
 * [Deck.gl](http://deck.gl/) - WebGL overlay suite for React providing a set of highly performant data visualization overlays.
+* [Globedots ![GitHub Repo Stars](https://img.shields.io/github/stars/swamoth/globedots) ![GitHub last commit](https://img.shields.io/github/last-commit/swamoth/globedots)](https://github.com/swamoth/globedots) - Dot-matrix globe on WebGL2 in 17 kB, with markers, arcs, labels, heat maps, and a day-night line.
 * [Luma.gl](https://luma.gl/) - WebGL2 powered framework for GPU-powered data visualization and computation.
+* [leaflet-webgl-markers ![GitHub Repo Stars](https://img.shields.io/github/stars/tang-tc/leaflet-webgl-markers) ![GitHub last commit](https://img.shields.io/github/last-commit/tang-tc/leaflet-webgl-markers)](https://github.com/tang-tc/leaflet-webgl-markers) - Leaflet plugin for rendering millions of point markers on a single WebGL canvas, with FBO picking and zero redraw while dragging.
 * [MapMetrics GL ![GitHub Repo Stars](https://img.shields.io/github/stars/MapMetrics/mapmetrics-gl) ![GitHub last commit](https://img.shields.io/github/last-commit/MapMetrics/mapmetrics-gl)](https://github.com/MapMetrics/mapmetrics-gl) - Mapbox GL JS-compatible mapping library with built-in vector tiles, geocoding, routing, and search.
 * [TradeCanvas ![GitHub Repo Stars](https://img.shields.io/github/stars/bonguynvan/tradecanvas) ![GitHub last commit](https://img.shields.io/github/last-commit/bonguynvan/tradecanvas)](https://github.com/bonguynvan/tradecanvas) - Financial charting library that draws candles, indicators and depth heatmaps with WebGL 2, falling back to Canvas 2D.
 * [xeokit](https://xeokit.io/) - Web Graphics SDK for AEC/BIM applications with 3D-tiles, real-world coordinates and double precision.
+* [WorldSeed ![GitHub Repo Stars](https://img.shields.io/github/stars/yz4git/next-gen) ![GitHub last commit](https://img.shields.io/github/last-commit/yz4git/next-gen)](https://github.com/yz4git/next-gen) - Turns open geospatial data into playable, exportable Three.js worlds with terrain-aware roads, GLB, road graphs, spawn points, and versioned JSON Schema.
 
 ### Math
 * [glMatrix](http://glmatrix.net/) - Javascript matrix and vector library for high performance WebGL apps.
@@ -296,8 +305,14 @@ Processing Unit (GPU).
 * [Ammo.js ![GitHub Repo Stars](https://img.shields.io/github/stars/kripken/ammo.js) ![GitHub last commit](https://img.shields.io/github/last-commit/kripken/ammo.js)](https://github.com/kripken/ammo.js/) - Direct port of the Bullet physics engine to JavaScript using Emscripten.
 * [Cannon.js](http://schteppe.github.io/cannon.js/) - Lightweight and simple 3D physics engine for the web.
 
+### WebAR
+* [encantar.js ![GitHub Repo Stars](https://img.shields.io/github/stars/alemart/encantar-js) ![GitHub last commit](https://img.shields.io/github/last-commit/alemart/encantar-js)](https://github.com/alemart/encantar-js) - GPU-accelerated Augmented Reality library that works on any device (iOS, Android, desktops). Easy to use and requires no WebXR support.
+
 ### WebGL 2
+* [dither-flow ![GitHub Repo Stars](https://img.shields.io/github/stars/caleblemos/dither-flow) ![GitHub last commit](https://img.shields.io/github/last-commit/caleblemos/dither-flow)](https://github.com/caleblemos/dither-flow) - Cursor-stirred 1-bit dithered flow field, WebGL 2 only, zero dependencies.
 * [PicoGL.js](https://tsherif.github.io/picogl.js/) - Minimal WebGL 2-only rendering library.
+* [textmode.js ![GitHub Repo Stars](https://img.shields.io/github/stars/humanbydefinition/textmode.js) ![GitHub last commit](https://img.shields.io/github/last-commit/humanbydefinition/textmode.js)](https://github.com/humanbydefinition/textmode.js) - Lightweight, framework-agnostic creative coding library for real-time ASCII and textmode graphics using WebGL2.
+* [Vysmo Transitions ![GitHub Repo Stars](https://img.shields.io/github/stars/vysmodev/vysmo) ![GitHub last commit](https://img.shields.io/github/last-commit/vysmodev/vysmo)](https://github.com/vysmodev/vysmo) - Tree-shakable WebGL 2 library of 60 endpoint-correct transitions with mesh and multi-pass support, ~5 KB gzipped.
 
 ### WebVR
 * [A-Frame](https://aframe.io/) - Web framework for building virtual reality experiences.
@@ -313,6 +328,7 @@ Processing Unit (GPU).
 * [ClayGL](http://claygl.xyz/) - WebGL graphic Library for building scalable Web3D applications.
 * [CopperLicht](https://www.ambiera.com/copperlicht/index.html) - JavaScript library and WebGL 3D engine for creating games and 3D applications.
 * [GLGE](http://www.glge.org/) - Javascript library intended to ease the use of WebGL.
+* [img2threejs ![GitHub Repo Stars](https://img.shields.io/github/stars/hoainho/img2threejs) ![GitHub last commit](https://img.shields.io/github/last-commit/hoainho/img2threejs)](https://github.com/hoainho/img2threejs) - Toolkit that rebuilds the object in a reference image as a code-only, procedural Three.js model - primitives, procedural shaders, generated geometry, no downloaded meshes.
 * [Lightgl.js ![GitHub Repo Stars](https://img.shields.io/github/stars/evanw/lightgl.js) ![GitHub last commit](https://img.shields.io/github/last-commit/evanw/lightgl.js)](https://github.com/evanw/lightgl.js) - Lightweight and explict library to help prototype.
 * [OSG.js](https://cedricpinson.github.io/osgjs-website/) - WebGL framework based on OpenSceneGraph concepts to interact with WebGL.
 * [Pex-gl](http://vorg.github.io/pex/) - JavaScript libraries for computational thinking in Plask/Node.js and WebGL.
@@ -324,6 +340,7 @@ Processing Unit (GPU).
 * [Turbulenz ![GitHub Repo Stars](https://img.shields.io/github/stars/turbulenz/turbulenz_engine) ![GitHub last commit](https://img.shields.io/github/last-commit/turbulenz/turbulenz_engine)](https://github.com/turbulenz/turbulenz_engine) - Modular 3D and 2D game framework for making HTML5 powered games for browsers, desktops and mobile devices.
 * [Verge3D](https://www.soft8soft.com/verge3d/) - an artist-friendly toolkit for creating 3D web experiences.
 * [Whitestorm.js](https://whs.io/) - Framework for developing 3D web apps with physics.
+* [zephyr3d](https://zephyr3d.org/) - A TypeScript-based 3D rendering engine with WebGPU/WebGL support.
 
 ## Community
 * [Stack Overflow](https://stackoverflow.com/questions/tagged/webgl)
