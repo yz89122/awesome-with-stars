@@ -47,6 +47,7 @@ Processing Unit (GPU).
 * [WebGL Off the Main Thread](https://hacks.mozilla.org/2016/01/webgl-off-the-main-thread/) - How to use Web Workers in WebGL.
 * [Optimizing Scenes for Better WebGL Performance](https://www.soft8soft.com/docs/manual/en/introduction/Optimizing-WebGL-performance.html) - optimization techniques that proved to work well for creating WebGL-based interactives.
 * [First steps in WebGL](https://dev.to/aralroca/first-steps-in-webgl-385c) - Learn what WebGL is and how it works by drawing a triangle. 
+* [Houdini to Three.js: Testing glTF Compression and Instancing](https://digitalgarden.si/blog/houdini-gltf-threejs-optimization/) - Case study of geometry, texture compression and instancing with WebGPU and WebGL2 checks.
 
 ### Blog Series
 
@@ -132,6 +133,7 @@ Processing Unit (GPU).
 * [WebGL Support Stats](http://webglstats.com/) - Interactive dashboard showing the support for WebGL features in different browsers and devices.
 * [WebGL Texture Tester](http://toji.github.io/texture-tester/) - Attempts to load one of every texture format supported by WebGL, intended to quickly show which formats your browser/device supports.
 * [Web Tracing Framework](http://google.github.io/tracing-framework/index.html) - Set of libraries, tools, and visualizers for the tracing and investigation of complex web applications.
+* [Web3D Viewer ![GitHub Repo Stars](https://img.shields.io/github/stars/userzz1145141919810-rgb/web-3d-viewer) ![GitHub last commit](https://img.shields.io/github/last-commit/userzz1145141919810-rgb/web-3d-viewer)](https://github.com/userzz1145141919810-rgb/web-3d-viewer) - Single-file OBJ viewer that logs how every MTL texture reference was resolved (exact path, extension-stripped, fuzzy) and which ones failed, so missing materials are traceable instead of silently rendering black.
 
 #### Chrome Specific Tools/Debugger
 
@@ -277,6 +279,7 @@ Processing Unit (GPU).
 * [Deck.gl](http://deck.gl/) - WebGL overlay suite for React providing a set of highly performant data visualization overlays.
 * [Luma.gl](https://luma.gl/) - WebGL2 powered framework for GPU-powered data visualization and computation.
 * [MapMetrics GL ![GitHub Repo Stars](https://img.shields.io/github/stars/MapMetrics/mapmetrics-gl) ![GitHub last commit](https://img.shields.io/github/last-commit/MapMetrics/mapmetrics-gl)](https://github.com/MapMetrics/mapmetrics-gl) - Mapbox GL JS-compatible mapping library with built-in vector tiles, geocoding, routing, and search.
+* [TradeCanvas ![GitHub Repo Stars](https://img.shields.io/github/stars/bonguynvan/tradecanvas) ![GitHub last commit](https://img.shields.io/github/last-commit/bonguynvan/tradecanvas)](https://github.com/bonguynvan/tradecanvas) - Financial charting library that draws candles, indicators and depth heatmaps with WebGL 2, falling back to Canvas 2D.
 * [xeokit](https://xeokit.io/) - Web Graphics SDK for AEC/BIM applications with 3D-tiles, real-world coordinates and double precision.
 
 ### Math

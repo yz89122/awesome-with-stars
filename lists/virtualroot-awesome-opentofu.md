@@ -4,6 +4,14 @@
 
 [OpenTofu](https://opentofu.org/) allows you to declaratively manage your infrastructure. It's an open-source, community-driven alternative to Terraform.
 
+> 💡 Maintain a tool or provider that supports OpenTofu? Add this badge to your README to raise its visibility:
+>
+> ![OpenTofu compatibility](https://img.shields.io/badge/OpenTofu-Compatible-FFDA18?logo=opentofu&logoColor=white)
+>
+> ```md
+> ![OpenTofu compatibility](https://img.shields.io/badge/OpenTofu-Compatible-FFDA18?logo=opentofu&logoColor=white)
+> ```
+
 ## Contents <!-- omit in toc -->
 
 - [Official](#official)
@@ -86,6 +94,7 @@
 - [tfam ![GitHub Repo Stars](https://img.shields.io/github/stars/Ant0wan/tfam) ![GitHub last commit](https://img.shields.io/github/last-commit/Ant0wan/tfam)](https://github.com/Ant0wan/tfam) - Rust-powered wrapper for concurrent Terraform/OpenTofu apply, enabling multi-deployment support.
 - [tfexe ![GitHub Repo Stars](https://img.shields.io/github/stars/Ant0wan/tfexe) ![GitHub last commit](https://img.shields.io/github/last-commit/Ant0wan/tfexe)](https://github.com/Ant0wan/tfexe) - Rust-powered wrapper for seamless execution of tfswitch and Terraform/OpenTofu with version control.
 - [tfwrapper ![GitHub Repo Stars](https://img.shields.io/github/stars/claranet/tfwrapper) ![GitHub last commit](https://img.shields.io/github/last-commit/claranet/tfwrapper)](https://github.com/claranet/tfwrapper) - Python wrapper that simplifies OpenTofu usage and enforces best practices.
+- [tofunix](https://gitlab.com/TECHNOFAB/tofunix) - Nix flake library and CLI for defining and applying OpenTofu infrastructure as type-safe Nix expressions.
 
 ### CI
 
@@ -128,6 +137,8 @@
 *Alternatives to Terraform Cloud.*
 
 - [digger ![GitHub Repo Stars](https://img.shields.io/github/stars/diggerhq/digger) ![GitHub last commit](https://img.shields.io/github/last-commit/diggerhq/digger)](https://github.com/diggerhq/digger) - Open-source IaC orchestration tool. Digger allows you to run IaC in your existing CI pipeline.
+- [Semaphore UI](https://semaphoreui.com/) - Self-hosted web UI and API for scheduling and running Ansible, Terraform/OpenTofu and other DevOps automation tasks.
+- [Stackorder ![GitHub Repo Stars](https://img.shields.io/github/stars/stackorder/stackorder) ![GitHub last commit](https://img.shields.io/github/last-commit/stackorder/stackorder)](https://github.com/stackorder/stackorder) - Open-source OpenTofu and Terraform orchestrator on GitHub Actions that resolves cross-stack dependencies and applies changes in waves.
 - [Stategraph](https://stategraph.com) - State backend that eliminates the state file bottleneck. Teams plan in parallel with resource-level locking, and state is queryable via SQL.
 - [terrakube ![GitHub Repo Stars](https://img.shields.io/github/stars/AzBuilder/terrakube) ![GitHub last commit](https://img.shields.io/github/last-commit/AzBuilder/terrakube)](https://github.com/AzBuilder/terrakube) - Open-source platform with a private registry, remote state, custom flows, scheduled workspaces, and visual states.
 - [Terramantle](https://terramantle.dev) - Free hosted module, state backend and private registry that maps module and provider dependencies and surfaces security, drift, and usage insights across your workspaces.
@@ -157,7 +168,7 @@
 - [zed Extension ![GitHub Repo Stars](https://img.shields.io/github/stars/ashpool37/zed-extension-opentofu) ![GitHub last commit](https://img.shields.io/github/last-commit/ashpool37/zed-extension-opentofu)](https://github.com/ashpool37/zed-extension-opentofu) - Extension for the Zed Editor.
 - [terratag ![GitHub Repo Stars](https://img.shields.io/github/stars/env0/terratag) ![GitHub last commit](https://img.shields.io/github/last-commit/env0/terratag)](https://github.com/env0/terratag) - CLI tool allowing for tags or labels to be applied across an entire set of OpenTofu/Terraform files.
 - [tfupdate ![GitHub Repo Stars](https://img.shields.io/github/stars/minamijoyo/tfupdate) ![GitHub last commit](https://img.shields.io/github/last-commit/minamijoyo/tfupdate)](https://github.com/minamijoyo/tfupdate) - Update version constraints in your Terraform / OpenTofu configurations.
-- [bare-devcontainer/templates ![GitHub Repo Stars](https://img.shields.io/github/stars/bare-devcontainer/templates) ![GitHub last commit](https://img.shields.io/github/last-commit/bare-devcontainer/templates)](https://github.com/bare-devcontainer/templates/tree/main/src/opentofu) - Security-focused Terraform dev container with terraform-ls and rebuild-friendly caching. The base image is available at [bare-devcontainer/images ![GitHub Repo Stars](https://img.shields.io/github/stars/bare-devcontainer/images) ![GitHub last commit](https://img.shields.io/github/last-commit/bare-devcontainer/images)](https://github.com/bare-devcontainer/images/tree/main/opentofu).
+- [bare-devcontainer/templates ![GitHub Repo Stars](https://img.shields.io/github/stars/bare-devcontainer/templates) ![GitHub last commit](https://img.shields.io/github/last-commit/bare-devcontainer/templates)](https://github.com/bare-devcontainer/templates/tree/main/src/opentofu) - Security-focused Terraform dev container with terraform-ls and rebuild-friendly caching. The base image is available at [bare-devcontainer/images ![GitHub Repo Stars](https://img.shields.io/github/stars/bare-devcontainer/images) ![GitHub last commit](https://img.shields.io/github/last-commit/bare-devcontainer/images)](https://github.com/bare-devcontainer/images/tree/main/src/opentofu).
 - [TerraVision ![GitHub Repo Stars](https://img.shields.io/github/stars/patrickchugh/terravision) ![GitHub last commit](https://img.shields.io/github/last-commit/patrickchugh/terravision)](https://github.com/patrickchugh/terravision) - Generate cloud architecture diagrams with official AWS, Azure and GCP icons from OpenTofu or Terraform code.
 
 ## Learning
