@@ -20,6 +20,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
   - [Deprecation](#deprecation)
   - [Embedded](#embedded)
   - [Frameworks](#frameworks)
+  - [Internationalization](#internationalization)
   - [Languages and Environments](#languages-and-environments)
   - [Libraries](#libraries)
   - [Misc](#misc)
@@ -82,6 +83,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 
 ### Code Quality
 
+- [@a11yfred/eslint-plugin-neighbor ![GitHub Repo Stars](https://img.shields.io/github/stars/a11yfred/neighbor) ![GitHub last commit](https://img.shields.io/github/last-commit/a11yfred/neighbor)](https://github.com/a11yfred/neighbor) - Enforces accessibility, inclusive language, and markup best practices.
 - [depend ![GitHub Repo Stars](https://img.shields.io/github/stars/es-tooling/eslint-plugin-depend) ![GitHub last commit](https://img.shields.io/github/last-commit/es-tooling/eslint-plugin-depend)](https://github.com/es-tooling/eslint-plugin-depend) - Helps detect dependency tree bloat and redundant polyfills.
 - [GitHub ![GitHub Repo Stars](https://img.shields.io/github/stars/github/eslint-plugin-github) ![GitHub last commit](https://img.shields.io/github/last-commit/github/eslint-plugin-github)](https://github.com/github/eslint-plugin-github) - Misc. rules from GitHub.
 - [SonarJS ![GitHub Repo Stars](https://img.shields.io/github/stars/SonarSource/SonarJS) ![GitHub last commit](https://img.shields.io/github/last-commit/SonarSource/SonarJS)](https://github.com/SonarSource/SonarJS/blob/master/packages/jsts/src/rules/README.md) - Rules detecting bugs and suspicious patterns.
@@ -141,6 +143,11 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - Vue
   - [VueJS ![GitHub Repo Stars](https://img.shields.io/github/stars/vuejs/eslint-plugin-vue) ![GitHub last commit](https://img.shields.io/github/last-commit/vuejs/eslint-plugin-vue)](https://github.com/vuejs/eslint-plugin-vue) - Plugin for VueJS.
   - [VueJS Scoped CSS ![GitHub Repo Stars](https://img.shields.io/github/stars/future-architect/eslint-plugin-vue-scoped-css) ![GitHub last commit](https://img.shields.io/github/last-commit/future-architect/eslint-plugin-vue-scoped-css)](https://github.com/future-architect/eslint-plugin-vue-scoped-css) - Plugin for Scoped CSS in VueJS.
+
+### Internationalization
+
+- [I18n Leak ![GitHub Repo Stars](https://img.shields.io/github/stars/Sloppy0726/eslint-plugin-i18n-leak) ![GitHub last commit](https://img.shields.io/github/last-commit/Sloppy0726/eslint-plugin-i18n-leak)](https://github.com/Sloppy0726/eslint-plugin-i18n-leak) - Finds i18n bugs with no string literal to scan: form constraints whose validation message the browser renders in its own locale, and raw `error.message` text reaching the user.
+- [i18next ![GitHub Repo Stars](https://img.shields.io/github/stars/edvardchen/eslint-plugin-i18next) ![GitHub last commit](https://img.shields.io/github/last-commit/edvardchen/eslint-plugin-i18next)](https://github.com/edvardchen/eslint-plugin-i18next) - Finds untranslated string literals in source, with `markupOnly` and `jsx-only` modes to narrow the scan.
 
 ### Languages and Environments
 
@@ -213,7 +220,9 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [ime-safe-form ![GitHub Repo Stars](https://img.shields.io/github/stars/hiroya-uga/eslint-plugin-ime-safe-form) ![GitHub last commit](https://img.shields.io/github/last-commit/hiroya-uga/eslint-plugin-ime-safe-form)](https://github.com/hiroya-uga/eslint-plugin-ime-safe-form) - Prevents accidental form submission during IME composition by requiring `e.isComposing` guard or form `submit` event.
 - [Immutable ![GitHub Repo Stars](https://img.shields.io/github/stars/jhusain/eslint-plugin-immutable) ![GitHub last commit](https://img.shields.io/github/last-commit/jhusain/eslint-plugin-immutable)](https://github.com/jhusain/eslint-plugin-immutable) - Disable all mutation in JavaScript.
 - [import ![GitHub Repo Stars](https://img.shields.io/github/stars/benmosher/eslint-plugin-import) ![GitHub last commit](https://img.shields.io/github/last-commit/benmosher/eslint-plugin-import)](https://github.com/benmosher/eslint-plugin-import) - Linting of ES2015+ import/export syntax, and prevent issues with misspelling of file paths and import names.
+- [import-next ![GitHub Repo Stars](https://img.shields.io/github/stars/ofri-peretz/eslint) ![GitHub last commit](https://img.shields.io/github/last-commit/ofri-peretz/eslint)](https://github.com/ofri-peretz/eslint/tree/main/packages/eslint-plugin-import-next) - Drop-in replacement for `eslint-plugin-import` with a rewritten cycle detector and no config changes required.
 - [import-x ![GitHub Repo Stars](https://img.shields.io/github/stars/un-ts/eslint-plugin-import-x) ![GitHub last commit](https://img.shields.io/github/last-commit/un-ts/eslint-plugin-import-x)](https://github.com/un-ts/eslint-plugin-import-x) - Linting of ES2015+ import/export syntax, and prevent issues with misspelling of file paths and import names. Lightweight fork of `eslint-plugin-import`, but which breaks backwards compatibility.
+- [import-boundary ![GitHub Repo Stars](https://img.shields.io/github/stars/nayounsang/eslint-plugin-import-boundary) ![GitHub last commit](https://img.shields.io/github/last-commit/nayounsang/eslint-plugin-import-boundary)](https://github.com/nayounsang/eslint-plugin-import-boundary) - Enforces import boundaries from directory nesting: only a parent may import a direct child's public entry (`index`), with `rootFiles` / `sharedFiles` escapes.
 - [logical-imports](https://gitlab.com/philbooth/eslint-plugin-logical-imports) - Sort imports logically by local name.
 - [Math ![GitHub Repo Stars](https://img.shields.io/github/stars/ota-meshi/eslint-plugin-math) ![GitHub last commit](https://img.shields.io/github/last-commit/ota-meshi/eslint-plugin-math)](https://github.com/ota-meshi/eslint-plugin-math) - ESLint plugin related to Math object and Number.
 - [new-with-error ![GitHub Repo Stars](https://img.shields.io/github/stars/Trott/eslint-plugin-new-with-error) ![GitHub last commit](https://img.shields.io/github/last-commit/Trott/eslint-plugin-new-with-error)](https://github.com/Trott/eslint-plugin-new-with-error) - Require errors to be thrown using `new`.
@@ -233,6 +242,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [sort-keys-fix ![GitHub Repo Stars](https://img.shields.io/github/stars/leo-buneev/eslint-plugin-sort-keys-fix) ![GitHub last commit](https://img.shields.io/github/last-commit/leo-buneev/eslint-plugin-sort-keys-fix)](https://github.com/leo-buneev/eslint-plugin-sort-keys-fix) - Adds fixer for ESLint `sort-keys` rule.
 - [this ![GitHub Repo Stars](https://img.shields.io/github/stars/matijs/eslint-plugin-this) ![GitHub last commit](https://img.shields.io/github/last-commit/matijs/eslint-plugin-this)](https://github.com/matijs/eslint-plugin-this) - Write pure functions, don't allow `this`.
 - [toplevel ![GitHub Repo Stars](https://img.shields.io/github/stars/HKalbasi/eslint-plugin-toplevel) ![GitHub last commit](https://img.shields.io/github/last-commit/HKalbasi/eslint-plugin-toplevel)](https://github.com/HKalbasi/eslint-plugin-toplevel) - An eslint plugin for disallow side effect at module toplevel.
+- [eslint-plugin-intlayer ![GitHub Repo Stars](https://img.shields.io/github/stars/aymericzip/intlayer) ![GitHub last commit](https://img.shields.io/github/last-commit/aymericzip/intlayer)](https://github.com/aymericzip/intlayer/tree/main/packages/eslint-plugin-intlayer) - ESLint plugin for i18n purpose
 
 ### Performance
 
@@ -246,7 +256,9 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [no-unsanitized ![GitHub Repo Stars](https://img.shields.io/github/stars/mozilla/eslint-plugin-no-unsanitized) ![GitHub last commit](https://img.shields.io/github/last-commit/mozilla/eslint-plugin-no-unsanitized)](https://github.com/mozilla/eslint-plugin-no-unsanitized) - Checks for `innerHTML`, `outerHTML`, etc.
 - [pii ![GitHub Repo Stars](https://img.shields.io/github/stars/shiva-hack/eslint-plugin-pii) ![GitHub last commit](https://img.shields.io/github/last-commit/shiva-hack/eslint-plugin-pii)](https://github.com/shiva-hack/eslint-plugin-pii) - Checks and enforces PII Compliance of the code. i.e. no email address, birth date, IP address or phone number in comments or string literals.
 - [pg ![GitHub Repo Stars](https://img.shields.io/github/stars/interlace-collie/eslint) ![GitHub last commit](https://img.shields.io/github/last-commit/interlace-collie/eslint)](https://github.com/interlace-collie/eslint/tree/main/packages/eslint-plugin-pg) - PostgreSQL/node-postgres security: SQL injection prevention (CWE-89), connection pool leak detection (CWE-772), transaction safety. 13 rules with CWE mapping.
+- [secure-coding ![GitHub Repo Stars](https://img.shields.io/github/stars/ofri-peretz/eslint) ![GitHub last commit](https://img.shields.io/github/last-commit/ofri-peretz/eslint)](https://github.com/ofri-peretz/eslint/tree/main/packages/eslint-plugin-secure-coding) - Security rules with CWE and OWASP Top 10 metadata, and machine-readable fix guidance in each message.
 - [Security ![GitHub Repo Stars](https://img.shields.io/github/stars/nodesecurity/eslint-plugin-security) ![GitHub last commit](https://img.shields.io/github/last-commit/nodesecurity/eslint-plugin-security)](https://github.com/nodesecurity/eslint-plugin-security) - ESLint rules for Node Security.
+- [typeorm-enterprise ![GitHub Repo Stars](https://img.shields.io/github/stars/alokraj68/eslint-plugin-typeorm-enterprise) ![GitHub last commit](https://img.shields.io/github/last-commit/alokraj68/eslint-plugin-typeorm-enterprise)](https://github.com/alokraj68/eslint-plugin-typeorm-enterprise) - TypeORM security and governance: SQL injection prevention, transaction safety, and multi-tenant query guards.
 - [xss ![GitHub Repo Stars](https://img.shields.io/github/stars/Rantanen/eslint-plugin-xss) ![GitHub last commit](https://img.shields.io/github/last-commit/Rantanen/eslint-plugin-xss)](https://github.com/Rantanen/eslint-plugin-xss) - Tries to detect XSS issues in codebase before they end up in production.
 
 ### Style
@@ -339,6 +351,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [eslint-dashboard ![GitHub Repo Stars](https://img.shields.io/github/stars/fengzilong/eslint-dashboard) ![GitHub last commit](https://img.shields.io/github/last-commit/fengzilong/eslint-dashboard)](https://github.com/fengzilong/eslint-dashboard) - Interactive ESLint workflow that lives in your terminal.
 - [eslint-remote-tester ![GitHub Repo Stars](https://img.shields.io/github/stars/AriPerkkio/eslint-remote-tester) ![GitHub last commit](https://img.shields.io/github/last-commit/AriPerkkio/eslint-remote-tester)](https://github.com/AriPerkkio/eslint-remote-tester) - CLI tool for testing given ESlint rules against multiple repositories at once.
 - [eslint-disable-autofix ![GitHub Repo Stars](https://img.shields.io/github/stars/MorevM/eslint-disable-autofix) ![GitHub last commit](https://img.shields.io/github/last-commit/MorevM/eslint-disable-autofix)](https://github.com/MorevM/eslint-disable-autofix/) - Utility to disable autofix for specific ESLint rules.
+- [quick-gate-js ![GitHub Repo Stars](https://img.shields.io/github/stars/hermes-labs-ai/quick-gate-js) ![GitHub last commit](https://img.shields.io/github/last-commit/hermes-labs-ai/quick-gate-js)](https://github.com/hermes-labs-ai/quick-gate-js) - Deterministic CI quality gate that unifies ESLint, TypeScript, build, and Lighthouse checks into one fail-fast result, with bounded auto-repair and structured escalation evidence. npm: `quick-gate`.
 
 ## Developing for ESLint
 
