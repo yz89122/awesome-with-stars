@@ -242,7 +242,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [sort-keys-fix ![GitHub Repo Stars](https://img.shields.io/github/stars/leo-buneev/eslint-plugin-sort-keys-fix) ![GitHub last commit](https://img.shields.io/github/last-commit/leo-buneev/eslint-plugin-sort-keys-fix)](https://github.com/leo-buneev/eslint-plugin-sort-keys-fix) - Adds fixer for ESLint `sort-keys` rule.
 - [this ![GitHub Repo Stars](https://img.shields.io/github/stars/matijs/eslint-plugin-this) ![GitHub last commit](https://img.shields.io/github/last-commit/matijs/eslint-plugin-this)](https://github.com/matijs/eslint-plugin-this) - Write pure functions, don't allow `this`.
 - [toplevel ![GitHub Repo Stars](https://img.shields.io/github/stars/HKalbasi/eslint-plugin-toplevel) ![GitHub last commit](https://img.shields.io/github/last-commit/HKalbasi/eslint-plugin-toplevel)](https://github.com/HKalbasi/eslint-plugin-toplevel) - An eslint plugin for disallow side effect at module toplevel.
-- [eslint-plugin-intlayer ![GitHub Repo Stars](https://img.shields.io/github/stars/aymericzip/intlayer) ![GitHub last commit](https://img.shields.io/github/last-commit/aymericzip/intlayer)](https://github.com/aymericzip/intlayer/tree/main/packages/eslint-plugin-intlayer) - ESLint plugin for i18n purpose
+- [eslint-plugin-intlayer ![GitHub Repo Stars](https://img.shields.io/github/stars/aymericzip/intlayer) ![GitHub last commit](https://img.shields.io/github/last-commit/aymericzip/intlayer)](https://github.com/aymericzip/intlayer/tree/main/packages/eslint-plugin-intlayer) - ESLint plugin for i18n purpose.
 
 ### Performance
 

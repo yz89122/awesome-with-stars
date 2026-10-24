@@ -11,6 +11,7 @@ If you are looking for game archive file formats see: [Awesome Game File Format 
 If you are looking for not only remakes have a look at:
 - [Awesome Open Source Games ![GitHub Repo Stars](https://img.shields.io/github/stars/michelpereira/awesome-open-source-games) ![GitHub last commit](https://img.shields.io/github/last-commit/michelpereira/awesome-open-source-games)](https://github.com/michelpereira/awesome-open-source-games)
 - [OSGL - Open Source Games List ![GitHub Repo Stars](https://img.shields.io/github/stars/Trilarion/opensourcegames) ![GitHub last commit](https://img.shields.io/github/last-commit/Trilarion/opensourcegames)](https://github.com/Trilarion/opensourcegames)
+- [Awesome Reverse-Engineered: Game Decompilations & Reimplementations ![GitHub Repo Stars](https://img.shields.io/github/stars/alexgaoth/awesome-reverse-engineered) ![GitHub last commit](https://img.shields.io/github/last-commit/alexgaoth/awesome-reverse-engineered)](https://github.com/alexgaoth/awesome-reverse-engineered/blob/main/categories/game-decompilations-reimplementations.md)
 
 ---
 
