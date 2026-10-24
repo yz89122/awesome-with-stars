@@ -552,6 +552,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-sitemaps ![GitHub Repo Stars](https://img.shields.io/github/stars/json-derulo/ngx-sitemaps) ![GitHub last commit](https://img.shields.io/github/last-commit/json-derulo/ngx-sitemaps)](https://github.com/json-derulo/ngx-sitemaps) - Generate sitemaps from Angular prerendered routes.
 * [ngx-bun ![GitHub Repo Stars](https://img.shields.io/github/stars/quinnjr/ngx-bun) ![GitHub last commit](https://img.shields.io/github/last-commit/quinnjr/ngx-bun)](https://github.com/quinnjr/ngx-bun) - High-performance SSR/SSG adapter for Angular 19+ using Bun's built-in server.
 * [ng-ssr-caching ![GitHub Repo Stars](https://img.shields.io/github/stars/nigrosimone/ng-ssr-caching) ![GitHub last commit](https://img.shields.io/github/last-commit/nigrosimone/ng-ssr-caching)](https://github.com/nigrosimone/ng-ssr-caching) - Cache for server-side rendered pages in Angular SSR.
+* [fastang ![GitHub Repo Stars](https://img.shields.io/github/stars/daclab-dev/fastang) ![GitHub last commit](https://img.shields.io/github/last-commit/daclab-dev/fastang)](https://github.com/daclab-dev/fastang) - An experimental, all-in-one web framework that unifies Angular on the frontend, Fastify on the backend, and integrated SSR.
 
 ## Development Utilities
 
@@ -1990,6 +1991,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-pdf-viewer ![GitHub Repo Stars](https://img.shields.io/github/stars/subedigaurav/ngx-pdf-viewer) ![GitHub last commit](https://img.shields.io/github/last-commit/subedigaurav/ngx-pdf-viewer)](https://github.com/subedigaurav/ngx-pdf-viewer) - A lightweight PDF viewer library for Angular applications.
 * [pdf-viewer-kit ![GitHub Repo Stars](https://img.shields.io/github/stars/AmanKrr/pdf-viewer-kit) ![GitHub last commit](https://img.shields.io/github/last-commit/AmanKrr/pdf-viewer-kit)](https://github.com/AmanKrr/pdf-viewer-kit) - A modern, high-performance, framework-agnostic, lightweight PDF viewer and annotation library built on top of `pdf.js`.
 * [rm-ng-pdf-export ![GitHub Repo Stars](https://img.shields.io/github/stars/malikrajat/rm-ng-pdf-export) ![GitHub last commit](https://img.shields.io/github/last-commit/malikrajat/rm-ng-pdf-export)](https://github.com/malikrajat/rm-ng-pdf-export) - Angular library for generating and exporting ultra-high-quality PDFs from HTML content with smart page breaking and crystal-clear rendering.
+* [ngpdf ![GitHub Repo Stars](https://img.shields.io/github/stars/ngpdf/ngpdf) ![GitHub last commit](https://img.shields.io/github/last-commit/ngpdf/ngpdf)](https://github.com/ngpdf/ngpdf) - Write PDFs as Angular components: pdf-* elements laid out with flexbox, paginated tables with repeating headers, page numbers and selectable text, rendered in the browser.
 
 ### Pipes
 
