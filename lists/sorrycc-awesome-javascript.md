@@ -707,6 +707,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [SpinKit ![GitHub Repo Stars](https://img.shields.io/github/stars/tobiasahlin/SpinKit) ![GitHub last commit](https://img.shields.io/github/last-commit/tobiasahlin/SpinKit)](https://github.com/tobiasahlin/SpinKit) - A collection of loading indicators animated with CSS.
 * [Ladda ![GitHub Repo Stars](https://img.shields.io/github/stars/hakimel/Ladda) ![GitHub last commit](https://img.shields.io/github/last-commit/hakimel/Ladda)](https://github.com/hakimel/Ladda) - Buttons with built-in loading indicators.
 * [css-loaders ![GitHub Repo Stars](https://img.shields.io/github/stars/lukehaas/css-loaders) ![GitHub last commit](https://img.shields.io/github/last-commit/lukehaas/css-loaders)](https://github.com/lukehaas/css-loaders) - A collection of loading spinners animated with CSS
+* [svg-loaders-react ![GitHub Repo Stars](https://img.shields.io/github/stars/ajwann/svg-loaders-react) ![GitHub last commit](https://img.shields.io/github/last-commit/ajwann/svg-loaders-react)](https://github.com/ajwann/svg-loaders-react) - Zero-dependency React components for Sam Herbert's SVG Loaders (12 animated SVG spinners).
 
 ## Validation
 

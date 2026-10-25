@@ -962,7 +962,7 @@ _Libraries for parsing and manipulating specific file formats._
   - [weasyprint ![GitHub Repo Stars](https://img.shields.io/github/stars/Kozea/WeasyPrint) ![GitHub last commit](https://img.shields.io/github/last-commit/Kozea/WeasyPrint)](https://github.com/Kozea/WeasyPrint) - A visual rendering engine for HTML and CSS that can export to PDF.
 - Markdown
   - [markdown-it-py ![GitHub Repo Stars](https://img.shields.io/github/stars/executablebooks/markdown-it-py) ![GitHub last commit](https://img.shields.io/github/last-commit/executablebooks/markdown-it-py)](https://github.com/executablebooks/markdown-it-py) - Markdown parser with 100% CommonMark support, extensions, and syntax plugins.
-  - [markdown ![GitHub Repo Stars](https://img.shields.io/github/stars/Python-Markdown/markdown) ![GitHub last commit](https://img.shields.io/github/last-commit/Python-Markdown/markdown)](https://github.com/Python-Markdown/markdown) - A Python implementation of John Gruber’s Markdown.
+  - [markdown ![GitHub Repo Stars](https://img.shields.io/github/stars/Python-Markdown/markdown) ![GitHub last commit](https://img.shields.io/github/last-commit/Python-Markdown/markdown)](https://github.com/Python-Markdown/markdown) - A Python implementation of John Gruber's Markdown.
   - [mistune ![GitHub Repo Stars](https://img.shields.io/github/stars/lepture/mistune) ![GitHub last commit](https://img.shields.io/github/last-commit/lepture/mistune)](https://github.com/lepture/mistune) - A fast yet powerful Python Markdown parser with renderers and plugins.
 - Data Formats
   - [tomllib](https://docs.python.org/3/library/tomllib.html) - (Python standard library) Parse TOML files.
