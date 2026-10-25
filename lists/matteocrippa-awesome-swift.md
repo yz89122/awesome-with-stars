@@ -10,7 +10,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 | Awesome | Linux | Projects | Updated |
 |:-------:|:-----:|:--------:|:-------:|
-| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | :penguin: | 1116 | October 23, 2026 |
+| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | :penguin: | 1117 | October 25, 2026 |
 
 In parternship with:
 
@@ -250,6 +250,7 @@ In parternship with:
 * [Awesome iOS Interview ![GitHub Repo Stars](https://img.shields.io/github/stars/dashvlas/awesome-ios-interview) ![GitHub last commit](https://img.shields.io/github/last-commit/dashvlas/awesome-ios-interview)](https://github.com/dashvlas/awesome-ios-interview) - List of the questions that helps you to prepare for the interview.
 * [awesome-macOS ![GitHub Repo Stars](https://img.shields.io/github/stars/iCHAIT/awesome-macOS) ![GitHub last commit](https://img.shields.io/github/last-commit/iCHAIT/awesome-macOS)](https://github.com/iCHAIT/awesome-macOS) - A curated list of awesome applications, softwares, tools and shiny things for macOS.
 * [example-ios-apps ![GitHub Repo Stars](https://img.shields.io/github/stars/jogendra/example-ios-apps) ![GitHub last commit](https://img.shields.io/github/last-commit/jogendra/example-ios-apps)](https://github.com/jogendra/example-ios-apps) - An amazing list for people who are beginners and learning ios development and for ios developers who need any example app or feature.
+* [MotionBook ![GitHub Repo Stars](https://img.shields.io/github/stars/younatics/MotionBook) ![GitHub last commit](https://img.shields.io/github/last-commit/younatics/MotionBook)](https://github.com/younatics/MotionBook) - Catalog of open-source iOS motion, transition and UI libraries with live demos in a free App Store app, a machine-readable catalog.json and llms.txt, refreshed weekly.
 * [open-source-ios-apps ![GitHub Repo Stars](https://img.shields.io/github/stars/dkhamsing/open-source-ios-apps) ![GitHub last commit](https://img.shields.io/github/last-commit/dkhamsing/open-source-ios-apps)](https://github.com/dkhamsing/open-source-ios-apps) - A collaborative list of open-source iOS Apps.
 * [open-source-mac-os-apps ![GitHub Repo Stars](https://img.shields.io/github/stars/serhii-londar/open-source-mac-os-apps) ![GitHub last commit](https://img.shields.io/github/last-commit/serhii-londar/open-source-mac-os-apps)](https://github.com/serhii-londar/open-source-mac-os-apps) - Awesome list of open source applications for macOS.
 
