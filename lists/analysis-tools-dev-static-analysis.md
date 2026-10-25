@@ -2291,7 +2291,7 @@ orchestration to ensure zero breaking changes. Specialized for React, Next.js, a
 <h2>.env</h2>
 
 
-- [GitGuardian ggshield](https://www.gitguardian.com/ggshield) �� ggshield is a CLI application that runs in your local environment  or in a CI environment to help you detect more than 350+ types of secrets,  as well as other potential security vulnerabilities or policy breaks affecting your codebase.
+- [GitGuardian ggshield](https://www.gitguardian.com/ggshield) — ggshield is a CLI application that runs in your local environment  or in a CI environment to help you detect more than 350+ types of secrets,  as well as other potential security vulnerabilities or policy breaks affecting your codebase.
 
 
 
