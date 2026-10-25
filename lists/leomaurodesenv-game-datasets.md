@@ -57,6 +57,7 @@ API is _"a set of functions and procedures allowing the creation of applications
 - [Steam Spy ![GitHub Repo Stars](https://img.shields.io/github/stars/topics/steamspy) ![GitHub last commit](https://img.shields.io/github/last-commit/topics/steamspy)](https://github.com/topics/steamspy) - Game statistical from Steam users profiles.
 - [Steam Web API](https://developer.valvesoftware.com/wiki/Steam_Web_API) - Query tool from Steam.
 - [TGDB ![GitHub Repo Stars](https://img.shields.io/github/stars/TheGamesDB/TheGamesDB) ![GitHub last commit](https://img.shields.io/github/last-commit/TheGamesDB/TheGamesDB)](https://github.com/TheGamesDB/TheGamesDB/) - General information of games from any platform. [Website](https://thegamesdb.net/).
+- [unicum.gg](https://unicum.gg/docs) - World of Tanks player, clan, tank and map statistics across EU, NA and Asia, free and with no key. [Website](https://unicum.gg).
 - [vgchartzScrape ![GitHub Repo Stars](https://img.shields.io/github/stars/GregorUT/vgchartzScrape) ![GitHub last commit](https://img.shields.io/github/last-commit/GregorUT/vgchartzScrape)](https://github.com/GregorUT/vgchartzScrape) - Crawler from [VGChartz](http://www.vgchartz.com).
 - [WhatoPlay](https://whatoplay.com) - Game reviews and ratings aggregator, and a recommender for discovering games.
 - [Xbox LIVE API](https://github.com/xboxapi) - Games, apps, users stats and messages. [paper](https://doi.org/10.1145/1943552.1943569).
@@ -70,7 +71,6 @@ ______________________________________________________________________
 - [Deliantra](http://www.deliantra.net/) - Adventure game in a medieval environment.
 - [Dungeon and Cave Generation ![GitHub Repo Stars](https://img.shields.io/github/stars/sentientdesigns/constructive) ![GitHub last commit](https://img.shields.io/github/last-commit/sentientdesigns/constructive)](https://github.com/sentientdesigns/constructive) - Constructive generation methods for dungeons and levels.
 - [Dungeon Crawl: Stone Soup ![GitHub Repo Stars](https://img.shields.io/github/stars/crawl/crawl) ![GitHub last commit](https://img.shields.io/github/last-commit/crawl/crawl)](https://github.com/crawl/crawl) - Roguelike adventure.
-- [Fighting Game AI Competition](http://www.ice.ci.ritsumei.ac.jp/~ftgaic/) - Controller for a fighting game.
 - [FlightGear Flight Simulator](https://www.flightgear.org/) - Flight simulator.
 - [Halite by Two Sigma](https://www.kaggle.com/c/halite/) - Collect the halite during a match in space.
 - [Infinite Mario Bros](http://www.marioai.org/) - Super Mario competition. Platformer AI antecedent. [Website](http://julian.togelius.com/mariocompetition2009/).
@@ -80,7 +80,7 @@ ______________________________________________________________________
 - [Morai-Maker-Engine ![GitHub Repo Stars](https://img.shields.io/github/stars/mguzdial3/Morai-Maker-Engine) ![GitHub last commit](https://img.shields.io/github/last-commit/mguzdial3/Morai-Maker-Engine)](https://github.com/mguzdial3/Morai-Maker-Engine) - Cooperative game level editor. [Paper](http://dx.doi.org/10.1145/3290605.3300854).
 - [Ms. Pac-Man](http://gameaibook.org/wp-content/uploads/2016/10/mspacman-master.zip) - Pac-Man game competition.
 - [OpenLieroX](http://www.openlierox.net/) - Liero (similar to Worms) game.
-- [openmw](https://gitlab.com/OpenMW/openmw) - Open-world RPG game. [Website](https://openmw.org/en/).
+- [openmw](https://gitlab.com/OpenMW/openmw) - Open-world RPG game.
 - [Platformer AI](https://sites.google.com/site/platformersai/) - Super Mario competition.
 - [polyworld ![GitHub Repo Stars](https://img.shields.io/github/stars/polyworld/polyworld) ![GitHub last commit](https://img.shields.io/github/last-commit/polyworld/polyworld)](https://github.com/polyworld/polyworld) - Artificial life system.
 - [qengine ![GitHub Repo Stars](https://img.shields.io/github/stars/klaussilveira/qengine) ![GitHub last commit](https://img.shields.io/github/last-commit/klaussilveira/qengine)](https://github.com/klaussilveira/qengine) - Retro game engine.
@@ -178,6 +178,7 @@ ______________________________________________________________________
 - [NBA Players](https://www.kaggle.com/datasets/justinas/nba-players-data) - Biometric, biographic and basic box score features from 1996 to 2019 season.
 - [Oldschool Runescape Polling Data](https://www.kaggle.com/nikkynak/oldschool-runescape-polling-data) - Historical polling data.
 - [OpenDota](https://blog.opendota.com/2017/03/24/datadump2/) - Continuous database of Dota 2 matches.
+- [OSTDB ![GitHub Repo Stars](https://img.shields.io/github/stars/OSTDB/soundtracks) ![GitHub last commit](https://img.shields.io/github/last-commit/OSTDB/soundtracks)](https://github.com/OSTDB/soundtracks) - Official video game soundtracks (2,300+ albums for 1,800+ games) with Spotify, Apple Music and album.link URLs, as CSV, JSON and SQLite. [Website](https://ostdb.net), [API](https://ostdb.net/api).
 - [Overwatch Game Records](https://www.kaggle.com/mylesoneill/overwatch-game-records) - Stats of one player from thousands of matches.
 - [Overwatch Ranked Data](https://www.kaggle.com/simonho87/overwatch-ranked-data) - Player and match data.
 - [Overwatch](https://www.kaggle.com/edopic/overwatch) - Heros characteristics.
@@ -203,7 +204,7 @@ ______________________________________________________________________
 - [StarCraft II matches history](https://www.kaggle.com/alimbekovkz/starcraft-ii-matches-history) - Results of matches.
 - [StarCraft II Replay Analysis](https://www.kaggle.com/sfu-summit/starcraft-ii-replay-analysis) - Aggregation of the replays.
 - [Starcraft: Scouting The Enemy](https://www.kaggle.com/kinguistics/starcraft-scouting-the-enemy) - Player reconnaissance in professional-level.
-- [StarData ![GitHub Repo Stars](https://img.shields.io/github/stars/TorchCraft/StarData) ![GitHub last commit](https://img.shields.io/github/last-commit/TorchCraft/StarData)](https://github.com/TorchCraft/StarData) - Matches, videos, etc. [Website](http://nova.wolfwork.com/dataMining.html), [paper](https://arxiv.org/abs/1708.02139).
+- [StarData ![GitHub Repo Stars](https://img.shields.io/github/stars/TorchCraft/StarData) ![GitHub last commit](https://img.shields.io/github/last-commit/TorchCraft/StarData)](https://github.com/TorchCraft/StarData) - Matches, videos, etc. [paper](https://arxiv.org/abs/1708.02139).
 - [Super Trunfo - Dinossaurs 2](https://www.kaggle.com/kandebonfim/super-trunfo-dinossaurs-2) - Cards of this game.
 - [Terra Mystica Snellman Statistics](https://www.kaggle.com/lemonkoala/terra-mystica) - Game logs and statistics.
 - [The Complete Pokemon Dataset](https://www.kaggle.com/datasets/rounakbanik/pokemon) - Pokemon data from all generations.

@@ -1834,7 +1834,7 @@ _Java proxy and gateway servers for routing and mediating traffic._
 
 _Libraries for developing reactive applications._
 
-> **[Akka ![GitHub Repo Stars](https://img.shields.io/github/stars/akka/akka) ![GitHub last commit](https://img.shields.io/github/last-commit/akka/akka)](https://github.com/akka/akka)** <kbd>★ 13.3k</kbd> ���<br>Toolkit and runtime for building concurrent, distributed, fault-tolerant and event-driven applications.
+> **[Akka ![GitHub Repo Stars](https://img.shields.io/github/stars/akka/akka) ![GitHub last commit](https://img.shields.io/github/last-commit/akka/akka)](https://github.com/akka/akka)** <kbd>★ 13.3k</kbd> 🟢<br>Toolkit and runtime for building concurrent, distributed, fault-tolerant and event-driven applications.
 
 > **[Reactive Streams ![GitHub Repo Stars](https://img.shields.io/github/stars/reactive-streams/reactive-streams-jvm) ![GitHub last commit](https://img.shields.io/github/last-commit/reactive-streams/reactive-streams-jvm)](https://github.com/reactive-streams/reactive-streams-jvm)** <kbd>★ 4.9k</kbd> <kbd>MIT-0</kbd> 🔴<br>Provides a standard for asynchronous stream processing with non-blocking backpressure.
 
