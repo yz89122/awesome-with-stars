@@ -930,7 +930,7 @@ _Libraries related to the financial domain._
 
 > **[Stripe ![GitHub Repo Stars](https://img.shields.io/github/stars/stripe/stripe-java) ![GitHub last commit](https://img.shields.io/github/last-commit/stripe/stripe-java)](https://github.com/stripe/stripe-java)** <kbd>★ 1.0k</kbd> <kbd>MIT</kbd> 🟢<br>Integration with the Stripe API.
 
-> **[ta4j ![GitHub Repo Stars](https://img.shields.io/github/stars/ta4j/ta4j) ![GitHub last commit](https://img.shields.io/github/last-commit/ta4j/ta4j)](https://github.com/ta4j/ta4j)** <kbd>★ 2.5k</kbd> ��<br>Library for technical analysis.
+> **[ta4j ![GitHub Repo Stars](https://img.shields.io/github/stars/ta4j/ta4j) ![GitHub last commit](https://img.shields.io/github/last-commit/ta4j/ta4j)](https://github.com/ta4j/ta4j)** <kbd>★ 2.5k</kbd> 🟢<br>Library for technical analysis.
 
 > **[Wickra ![GitHub Repo Stars](https://img.shields.io/github/stars/wickra-lib/wickra) ![GitHub last commit](https://img.shields.io/github/last-commit/wickra-lib/wickra)](https://github.com/wickra-lib/wickra)** <kbd>★ 56</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Technical-analysis library with 514 streaming O(1)-per-tick indicators on a native Rust core, on Maven Central as org.wickra:wickra; more indicators and incremental updates than the pure-Java ta4j.
 
@@ -1834,7 +1834,7 @@ _Java proxy and gateway servers for routing and mediating traffic._
 
 _Libraries for developing reactive applications._
 
-> **[Akka ![GitHub Repo Stars](https://img.shields.io/github/stars/akka/akka) ![GitHub last commit](https://img.shields.io/github/last-commit/akka/akka)](https://github.com/akka/akka)** <kbd>★ 13.3k</kbd> ����<br>Toolkit and runtime for building concurrent, distributed, fault-tolerant and event-driven applications.
+> **[Akka ![GitHub Repo Stars](https://img.shields.io/github/stars/akka/akka) ![GitHub last commit](https://img.shields.io/github/last-commit/akka/akka)](https://github.com/akka/akka)** <kbd>★ 13.3k</kbd> 🟢<br>Toolkit and runtime for building concurrent, distributed, fault-tolerant and event-driven applications.
 
 > **[Reactive Streams ![GitHub Repo Stars](https://img.shields.io/github/stars/reactive-streams/reactive-streams-jvm) ![GitHub last commit](https://img.shields.io/github/last-commit/reactive-streams/reactive-streams-jvm)](https://github.com/reactive-streams/reactive-streams-jvm)** <kbd>★ 4.9k</kbd> <kbd>MIT-0</kbd> 🔴<br>Provides a standard for asynchronous stream processing with non-blocking backpressure.
 
