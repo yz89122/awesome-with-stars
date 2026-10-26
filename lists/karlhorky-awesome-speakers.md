@@ -495,7 +495,7 @@ https://twitter.com/varya_en
 Topics: 3D Graphics, Business, JavaScript, React, webpack, Writing\
 https://twitter.com/bebraw
 
-## France ����🇷
+## France 🇫🇷
 
 ### Lille
 
