@@ -1584,6 +1584,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [@ngx-signal-forms/toolkit ![GitHub Repo Stars](https://img.shields.io/github/stars/ngx-signal-forms/ngx-signal-forms) ![GitHub last commit](https://img.shields.io/github/last-commit/ngx-signal-forms/ngx-signal-forms)](https://github.com/ngx-signal-forms/ngx-signal-forms) - An Angular signal form wrapper that manages error timing, automatic ARIA accessibility wiring, warnings, focus management, hints, and custom CSS theming.
 * [fieldia ![GitHub Repo Stars](https://img.shields.io/github/stars/fieldia-dev/fieldia) ![GitHub last commit](https://img.shields.io/github/last-commit/fieldia-dev/fieldia)](https://github.com/fieldia-dev/fieldia) - A form engine and form builder for JavaScript: one JSON page format, rendered in Angular, React, Vue or plain JavaScript, from a simple survey to a full ERP screen.
 * [formancy.ai ![GitHub Repo Stars](https://img.shields.io/github/stars/sharkysan/formancy.ai) ![GitHub last commit](https://img.shields.io/github/last-commit/sharkysan/formancy.ai)](https://github.com/sharkysan/formancy.ai) - An open-source visual form builder for Angular and React.
+* [ngx-signal-schema ![GitHub Repo Stars](https://img.shields.io/github/stars/devZWO/ngx-signal-schema) ![GitHub last commit](https://img.shields.io/github/last-commit/devZWO/ngx-signal-schema)](https://github.com/devZWO/ngx-signal-schema) - Composable schema validation operators for Angular Signal Forms.
 
 ### Form Controls
 
@@ -2392,6 +2393,7 @@ for the creation of web applications developed with Angular.
 * [AngularDart ![GitHub Repo Stars](https://img.shields.io/github/stars/flutterdocteur/angulardart) ![GitHub last commit](https://img.shields.io/github/last-commit/flutterdocteur/angulardart)](https://github.com/flutterdocteur/angulardart) - A web framework that separates cleanly into a template language and a component model, making it easy to build complex, maintainable web applications.
 * [ng-xtend ![GitHub Repo Stars](https://img.shields.io/github/stars/dont-code/ng-xtend) ![GitHub last commit](https://img.shields.io/github/last-commit/dont-code/ng-xtend)](https://github.com/dont-code/ng-xtend) - Empower your Angular applications with a flexible, scalable plugin ecosystem.
 * [ngx-opentui ![GitHub Repo Stars](https://img.shields.io/github/stars/quinnjr/ngx-opentui) ![GitHub last commit](https://img.shields.io/github/last-commit/quinnjr/ngx-opentui)](https://github.com/quinnjr/ngx-opentui) - Experimental Angular renderer for OpenTUI that uses templates and signals to drive native terminal UIs.
+* [LogBrew ![GitHub Repo Stars](https://img.shields.io/github/stars/LogBrewCo/sdk) ![GitHub last commit](https://img.shields.io/github/last-commit/LogBrewCo/sdk)](https://github.com/LogBrewCo/sdk/tree/main/js/logbrew-angular) - Angular providers and optional ErrorHandler capture that send errors, logs, and traces to LogBrew, which has a free plan.
 
 ### Wrappers
 
