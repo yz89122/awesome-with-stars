@@ -295,6 +295,7 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 - [taigrr/neocrush.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/taigrr/neocrush.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/taigrr/neocrush.nvim)](https://github.com/taigrr/neocrush.nvim) - Integration with Crush AI coding assistant, with edit highlighting, auto-focus, Telescope support, terminal and version management.
 - [zgs225/pi2.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/zgs225/pi2.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/zgs225/pi2.nvim)](https://github.com/zgs225/pi2.nvim) - Frontend for the [pi](https://pi.dev) coding agent with in-editor chat, reviewed diffs, session-tree navigation, and extension prompts.
 - [jaitd/fieldguide.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/jaitd/fieldguide.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/jaitd/fieldguide.nvim)](https://github.com/jaitd/fieldguide.nvim) - Sidebar agent for your own config; will inform you if config still boots when changing it and provides answers from your installed plugins' docs, the versions on disk, and the live session.
+- [mrwatts88/ghost.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/mrwatts88/ghost.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/mrwatts88/ghost.nvim)](https://github.com/mrwatts88/ghost.nvim) - Write a question using a comment starting with `?` to get a response from your favourite LLM via virtual text.
 <!--lint disable double-link -->
 [**⬆ back to top**](#contents)
 <!--lint enable double-link -->
@@ -856,6 +857,7 @@ then it is not supported:
 - [jonestristand/dune.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/jonestristand/dune.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/jonestristand/dune.nvim)](https://github.com/jonestristand/dune.nvim) - **_`[TS][LSP][Lua]`_** Four (plus one) variants inspired by Frank Herbert's Dune.
 - [2giosangmitom/nightfall.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/2giosangmitom/nightfall.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/2giosangmitom/nightfall.nvim)](https://github.com/2giosangmitom/nightfall.nvim) - **_`[TS][LSP][L/D][Lua]`_** Dracula-inspired colorscheme with four flavors including a light variant.
 - [oxidescheme/nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/oxidescheme/nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/oxidescheme/nvim)](https://github.com/oxidescheme/nvim) - **_`[TS][LSP][Lua]`_** Minimalist dark colorscheme built on an OKLCH palette with a monochrome-first UI.
+- [RazikSF/lumina-themes ![GitHub Repo Stars](https://img.shields.io/github/stars/RazikSF/lumina-themes) ![GitHub last commit](https://img.shields.io/github/last-commit/RazikSF/lumina-themes)](https://github.com/RazikSF/lumina-themes) - **_`[TS][LSP][L/D][Lua]`_** Fourteen colorschemes drawn from scenes, each in light and dark, plus a high-contrast pair.
 <!--lint disable double-link -->
 [**⬆ back to top**](#contents)
 <!--lint enable double-link -->
@@ -973,6 +975,7 @@ then it is not supported:
 - [leo-alvarenga/homecoming.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/leo-alvarenga/homecoming.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/leo-alvarenga/homecoming.nvim)](https://github.com/leo-alvarenga/homecoming.nvim) - A dead-simple, customizable and cozy dashboard with sane defaults and zero config required.
 - [Amansingh-afk/milli.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/Amansingh-afk/milli.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/Amansingh-afk/milli.nvim)](https://github.com/Amansingh-afk/milli.nvim) - Animated ASCII splash screens with bundled animations and custom image or GIF support.
 - [zdcthomas/sprout.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/zdcthomas/sprout.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/zdcthomas/sprout.nvim)](https://github.com/zdcthomas/sprout.nvim) - An ASCII art bonsai for your start screen that grows as the day goes forward.
+- [hawknewton/matrix-splash.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/hawknewton/matrix-splash.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/hawknewton/matrix-splash.nvim)](https://github.com/hawknewton/matrix-splash.nvim) - Customizable Matrix-inspired splash screen.
 <!--lint disable double-link -->
 [**⬆ back to top**](#contents)
 <!--lint enable double-link -->
