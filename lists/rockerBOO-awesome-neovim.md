@@ -474,7 +474,7 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 - [chrisgrieser/nvim-scissors ![GitHub Repo Stars](https://img.shields.io/github/stars/chrisgrieser/nvim-scissors) ![GitHub last commit](https://img.shields.io/github/last-commit/chrisgrieser/nvim-scissors)](https://github.com/chrisgrieser/nvim-scissors) - Automagical editing and creation of snippets.
 - [guilherme-puida/tesoura.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/guilherme-puida/tesoura.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/guilherme-puida/tesoura.nvim)](https://github.com/guilherme-puida/tesoura.nvim) - A flexible snippet system using the native snippet API.
 <!--lint disable double-link -->
-[**�� back to top**](#contents)
+[**⬆ back to top**](#contents)
 <!--lint enable double-link -->
 
 ## Register

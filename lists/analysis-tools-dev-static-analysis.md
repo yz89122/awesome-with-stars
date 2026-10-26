@@ -598,7 +598,7 @@ By default, govulncheck makes requests to the Go vulnerability database at https
 
 - [structcheck](https://gitlab.com/opennota/check) — Find unused struct fields.
 
-- [test](https://pkg.go.dev/testing) �� Show location of test failures from the stdlib testing module.
+- [test](https://pkg.go.dev/testing) — Show location of test failures from the stdlib testing module.
 
 - [unconvert ![GitHub Repo Stars](https://img.shields.io/github/stars/mdempsky/unconvert) ![GitHub last commit](https://img.shields.io/github/last-commit/mdempsky/unconvert)](https://github.com/mdempsky/unconvert) — Detect redundant type conversions.
 
@@ -2291,7 +2291,7 @@ orchestration to ensure zero breaking changes. Specialized for React, Next.js, a
 <h2>.env</h2>
 
 
-- [GitGuardian ggshield](https://www.gitguardian.com/ggshield) — ggshield is a CLI application that runs in your local environment  or in a CI environment to help you detect more than 350+ types of secrets,  as well as other potential security vulnerabilities or policy breaks affecting your codebase.
+- [GitGuardian ggshield](https://www.gitguardian.com/ggshield) �� ggshield is a CLI application that runs in your local environment  or in a CI environment to help you detect more than 350+ types of secrets,  as well as other potential security vulnerabilities or policy breaks affecting your codebase.
 
 
 
