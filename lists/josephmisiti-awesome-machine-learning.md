@@ -844,6 +844,7 @@ Read the paper [here](https://arxiv.org/abs/1902.06714).
 <a name="kotlin-speech-recognition"></a>
 #### Speech Recognition
 * [VoxRT ![GitHub Repo Stars](https://img.shields.io/github/stars/VoxRT/voxrt-asr-android) ![GitHub last commit](https://img.shields.io/github/last-commit/VoxRT/voxrt-asr-android)](https://github.com/VoxRT/voxrt-asr-android) - On-device streaming speech recognition SDK for Android with Kotlin bindings (JitPack). Based on NVIDIA NeMo FastConformer (80 ms cache-aware lookahead). Companion Silero VAD, wake-word, and 14-command KWS via same runtime.
+* [Voz](https://desertant.com/models/voz/) - On-device speech recognition SDK for Android in Kotlin with word timestamps. Source-available.
 
 <a name="lua"></a>
 ## Lua
@@ -1886,6 +1887,7 @@ be
 <a name="swift-speech-recognition"></a>
 #### Speech Recognition
 * [VoxRT ![GitHub Repo Stars](https://img.shields.io/github/stars/VoxRT/voxrt-asr-ios) ![GitHub last commit](https://img.shields.io/github/last-commit/VoxRT/voxrt-asr-ios)](https://github.com/VoxRT/voxrt-asr-ios) - On-device streaming speech recognition SDK for iOS with Swift bindings (SPM). Based on NVIDIA NeMo FastConformer (80 ms cache-aware lookahead). Companion Silero VAD, wake-word, and 14-command KWS via same runtime.
+* [Voz](https://desertant.com/models/voz/) - On-device speech recognition for iOS and macOS (SPM) with word timestamps, running on the Neural Engine. Source-available.
 
 <a name="tensorflow"></a>
 ## TensorFlow
@@ -1968,6 +1970,7 @@ be
 * [Bread Dataset Viewer ![GitHub Repo Stars](https://img.shields.io/github/stars/Bread-Technologies/mle_vscode_extension) ![GitHub last commit](https://img.shields.io/github/last-commit/Bread-Technologies/mle_vscode_extension)](https://github.com/Bread-Technologies/mle_vscode_extension) - A VS Code extension for viewing and exploring large machine learning datasets (CSV, JSON, Parquet, etc.) directly within the editor without VS Code crashing in a clean UI.
 * [Bread WandB Viewer ![GitHub Repo Stars](https://img.shields.io/github/stars/Bread-Technologies/bread_wandb_viewer_extension) ![GitHub last commit](https://img.shields.io/github/last-commit/Bread-Technologies/bread_wandb_viewer_extension)](https://github.com/Bread-Technologies/bread_wandb_viewer_extension) - A VS Code extension to view Weights & Biases experiments, logs, and artifacts within the IDE, eliminating the need to switch to the web UI and keeping data private.
 * [Cortexa](https://automata-index.vercel.app) - Free, open-access search engine for robotics, ML, and AI research papers (arXiv, MDPI, IEEE OA).
+* [LightlyStudio ![GitHub Repo Stars](https://img.shields.io/github/stars/lightly-ai/lightly-studio) ![GitHub last commit](https://img.shields.io/github/last-commit/lightly-ai/lightly-studio)](https://github.com/lightly-ai/lightly-studio) - Open-source tool to curate and label computer vision datasets.
 <a name="books"></a>
 ## Books
 

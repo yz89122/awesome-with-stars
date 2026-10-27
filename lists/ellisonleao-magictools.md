@@ -462,6 +462,7 @@ _Blogs, portals, magazines and more_
 - [Amit's Game Programming](http://www-cs-students.stanford.edu/~amitp/gameprog.html)
 - [Designer Notes](http://www.designer-notes.com/)
 - [Emanuele Feronato's Blog](http://www.emanueleferonato.com/)
+- :free: [Foundplay](https://foundplay.io/) - Free browser games, with new ones out twice a day. Makers list their games free, and Play opens each game on the site where it is published.
 - [GameIdea](https://gameidea.org)
 - [Gamasutra](http://www.gamasutra.com/)
 - [Game Development on StackExchange](http://gamedev.stackexchange.com/)
@@ -579,6 +580,7 @@ _Where to find other game developers_
 - [Brackeys Discord](https://discord.gg/brackeys)
 - [Brackeys Forum](https://forum.brackeys.com/)
 - [GameDev.tv](https://community.gamedev.tv/)
+- [IndieGuild](https://indieguild.dev) - Free hub where indie devs post roles and find composers, artists, programmers and other creators.
 
 ## Ads
 
