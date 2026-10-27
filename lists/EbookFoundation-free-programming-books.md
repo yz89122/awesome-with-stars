@@ -121,6 +121,7 @@ This project lists books and other resources grouped by genres:
 + [Turkish / Türkçe](books/free-programming-books-tr.md)
 + [Ukrainian / Українська](books/free-programming-books-uk.md)
 + [Urdu / اردو](books/free-programming-books-ur.md)
++ [Uzbek / Oʻzbekcha / Ўзбекча](books/free-programming-books-uz.md)
 + [Vietnamese / Tiếng Việt](books/free-programming-books-vi.md)
 
 ### Cheat Sheets
@@ -209,7 +210,7 @@ Free Podcasts and Screencasts:
 + [Spanish / español / castellano](casts/free-podcasts-screencasts-es.md)
 + [Swedish / Svenska](casts/free-podcasts-screencasts-sv.md)
 + [Turkish / Türkçe](casts/free-podcasts-screencasts-tr.md)
-+ [Ukrainian / Українська](casts/free-podcasts-screencasts-uk.md)
++ [Ukrainian / Українс��ка](casts/free-podcasts-screencasts-uk.md)
 
 
 ### Programming Playgrounds
