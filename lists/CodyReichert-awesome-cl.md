@@ -2010,6 +2010,8 @@ Shells, shells interfaces
 * [shcl ![GitHub Repo Stars](https://img.shields.io/github/stars/bradleyjensen/shcl) ![GitHub last commit](https://img.shields.io/github/last-commit/bradleyjensen/shcl)](https://github.com/bradleyjensen/shcl) - a POSIX-like shell in Common Lisp. [Apache2.0][89].
 * [unix-in-lisp ![GitHub Repo Stars](https://img.shields.io/github/stars/PuellaeMagicae/unix-in-lisp) ![GitHub last commit](https://img.shields.io/github/last-commit/PuellaeMagicae/unix-in-lisp)](https://github.com/PuellaeMagicae/unix-in-lisp) -  Mount Unix system into Common Lisp image.
   * Unix concepts are directly/shallowly embedded into Lisp (Unix commands become Lisp macros, Unix file become Lisp variables, Unix streams become lazy Lisp sequences, etc).
+* [cclsh ![GitHub Repo Stars](https://img.shields.io/github/stars/lambda-symbolics/cclsh) ![GitHub last commit](https://img.shields.io/github/last-commit/lambda-symbolics/cclsh)](https://github.com/lambda-symbolics/cclsh) - A system shell running inside Common Lisp. Ordinary Unix commands and Common Lisp forms share one live image, so the boundary between shell use and Lisp is small and explicit. ISC license.
+  - for CCL on Linux x86-64, also SBCL on macOS and Linux.
 
 Lisp utilities:
 

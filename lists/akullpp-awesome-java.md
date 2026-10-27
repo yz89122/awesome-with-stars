@@ -633,7 +633,7 @@ _Everything that simplifies interactions with the database._
 
 > **[HSQLDB](https://hsqldb.org/)**<br>HyperSQL 100% Java database.
 
-> **[JanusGraph ![GitHub Repo Stars](https://img.shields.io/github/stars/JanusGraph/janusgraph) ![GitHub last commit](https://img.shields.io/github/last-commit/JanusGraph/janusgraph)](https://github.com/JanusGraph/janusgraph)** <kbd>★ 5.8k</kbd> ���<br>Distributed graph database supporting pluggable storage and indexing backends.
+> **[JanusGraph ![GitHub Repo Stars](https://img.shields.io/github/stars/JanusGraph/janusgraph) ![GitHub last commit](https://img.shields.io/github/last-commit/JanusGraph/janusgraph)](https://github.com/JanusGraph/janusgraph)** <kbd>★ 5.8k</kbd> 🟢<br>Distributed graph database supporting pluggable storage and indexing backends.
 
 > **[JDBI ![GitHub Repo Stars](https://img.shields.io/github/stars/jdbi/jdbi) ![GitHub last commit](https://img.shields.io/github/last-commit/jdbi/jdbi)](https://github.com/jdbi/jdbi)** <kbd>★ 2.1k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Convenient abstraction of JDBC.
 
@@ -679,7 +679,7 @@ _Everything that simplifies interactions with the database._
 
 > **[requery ![GitHub Repo Stars](https://img.shields.io/github/stars/requery/requery) ![GitHub last commit](https://img.shields.io/github/last-commit/requery/requery)](https://github.com/requery/requery)** <kbd>★ 3.1k</kbd> <kbd>Apache-2.0</kbd> 🟠<br>Modern, lightweight but powerful object mapping and SQL generator. Easily map to or create databases, or perform queries and updates from any Java-using platform.
 
-> **[SchemaCrawler ![GitHub Repo Stars](https://img.shields.io/github/stars/schemacrawler/SchemaCrawler) ![GitHub last commit](https://img.shields.io/github/last-commit/schemacrawler/SchemaCrawler)](https://github.com/schemacrawler/SchemaCrawler)** <kbd>��� 1.8k</kbd> 🟢<br>Discovers, documents and diagrams relational database schemas from Java, build tools and the command line.
+> **[SchemaCrawler ![GitHub Repo Stars](https://img.shields.io/github/stars/schemacrawler/SchemaCrawler) ![GitHub last commit](https://img.shields.io/github/last-commit/schemacrawler/SchemaCrawler)](https://github.com/schemacrawler/SchemaCrawler)** <kbd>★ 1.8k</kbd> 🟢<br>Discovers, documents and diagrams relational database schemas from Java, build tools and the command line.
 
 > **[Spring Data Dynamic Query ![GitHub Repo Stars](https://img.shields.io/github/stars/tdilber/spring-data-dynamic-query) ![GitHub last commit](https://img.shields.io/github/last-commit/tdilber/spring-data-dynamic-query)](https://github.com/tdilber/spring-data-dynamic-query)** <kbd>★ 39</kbd> <kbd>Apache-2.0</kbd> 🟠<br>Unified dynamic query interface for Spring Data JPA, MongoDB, and Elasticsearch, enabling advanced JOIN(s), OR logic, scoped conditions, powerful projections and advanced features with zero boilerplate.
 
@@ -1392,7 +1392,7 @@ _Tools for creating and managing microservices._
 
 > **[Micronaut ![GitHub Repo Stars](https://img.shields.io/github/stars/micronaut-projects/micronaut-core) ![GitHub last commit](https://img.shields.io/github/last-commit/micronaut-projects/micronaut-core)](https://github.com/micronaut-projects/micronaut-core)** <kbd>★ 6.4k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Modern full-stack framework with focus on modularity, minimal memory footprint and startup time.
 
-> **[Nacos ![GitHub Repo Stars](https://img.shields.io/github/stars/alibaba/nacos) ![GitHub last commit](https://img.shields.io/github/last-commit/alibaba/nacos)](https://github.com/alibaba/nacos)** <kbd>★ 33.4k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Dynamic service discovery, configuration and service management platform for building cloud native applications.
+> **[Nacos ![GitHub Repo Stars](https://img.shields.io/github/stars/alibaba/nacos) ![GitHub last commit](https://img.shields.io/github/last-commit/alibaba/nacos)](https://github.com/alibaba/nacos)** <kbd>��� 33.4k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Dynamic service discovery, configuration and service management platform for building cloud native applications.
 
 > **[Quarkus ![GitHub Repo Stars](https://img.shields.io/github/stars/quarkusio/quarkus) ![GitHub last commit](https://img.shields.io/github/last-commit/quarkusio/quarkus)](https://github.com/quarkusio/quarkus)** <kbd>★ 15.9k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Kubernetes stack tailored for the HotSpot and Graal VM.
 
@@ -1593,7 +1593,7 @@ _APIs that handle the persistence of objects._
 
 > **[Permazen ![GitHub Repo Stars](https://img.shields.io/github/stars/permazen/permazen) ![GitHub last commit](https://img.shields.io/github/last-commit/permazen/permazen)](https://github.com/permazen/permazen)** <kbd>★ 425</kbd> <kbd>Apache-2.0</kbd> 🟠<br>Language-natural persistence layer.
 
-> **[SimpleFlatMapper ![GitHub Repo Stars](https://img.shields.io/github/stars/arnaudroger/SimpleFlatMapper) ![GitHub last commit](https://img.shields.io/github/last-commit/arnaudroger/SimpleFlatMapper)](https://github.com/arnaudroger/SimpleFlatMapper)** <kbd>★ 460</kbd> <kbd>MIT</kbd> ���<br>Simple database and CSV mapper.
+> **[SimpleFlatMapper ![GitHub Repo Stars](https://img.shields.io/github/stars/arnaudroger/SimpleFlatMapper) ![GitHub last commit](https://img.shields.io/github/last-commit/arnaudroger/SimpleFlatMapper)](https://github.com/arnaudroger/SimpleFlatMapper)** <kbd>★ 460</kbd> <kbd>MIT</kbd> 🔴<br>Simple database and CSV mapper.
 
 > **[Ujorm ![GitHub Repo Stars](https://img.shields.io/github/stars/pponec/ujorm) ![GitHub last commit](https://img.shields.io/github/last-commit/pponec/ujorm)](https://github.com/pponec/ujorm)** <kbd>★ 12</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Maps rows to JavaBeans or Java records with no third-party runtime dependencies, deliberately omitting lazy loading, 1:M collections and transaction management.
 

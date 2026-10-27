@@ -58,7 +58,7 @@
 **Legend**: 🌍 Accessible online · 🌐 Browser extension · 🔼 Conversion or upgrade tool · 🔧 Generator · 🅰 Typing/enforcement · 💼 Plugins/Tools/Extensions for external services · 🎨 Color-related · 🚀 Framework
 
 - 💙💼 [Prettier plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/tailwindlabs/prettier-plugin-tailwindcss) ![GitHub last commit](https://img.shields.io/github/last-commit/tailwindlabs/prettier-plugin-tailwindcss)](https://github.com/tailwindlabs/prettier-plugin-tailwindcss) - Official Tailwind CSS plugin for Prettier.
-- 🎨��🔧 [UI colors](https://uicolors.app/create) - Color palette generator for Tailwind CSS.
+- 🎨🌍🔧 [UI colors](https://uicolors.app/create) - Color palette generator for Tailwind CSS.
 - 🎨🌍🔧 [Tailwind Color Shades](https://javisperez.github.io/tailwindcolorshades) - Color shades generator for Tailwind CSS.
 - 🎨🌍🔧 [TailwindInk](https://tailwind.ink/) - AI palette generator, trained with the Tailwind CSS palette.
 - 🎨🌍🔧 [Hypercolor](https://hypercolor.dev/) - Collection of Tailwind CSS gradients with directional options.
@@ -68,6 +68,7 @@
 - 🎨🌍🔧 [FreeColorPalettes.co](https://freecolorpalettes.co/tints-shades) - Generates a 50–950 Tailwind CSS color scale from any hex color.
 - 🎨🌍🔧 [GradientDeck](https://gradientdeck.com) - Generators for Tailwind CSS gradients, palettes, shadows, glass effects, patterns & more.
 - 🌍🔧 [Base-2 Rounding](https://objectivelyround.dev) - Spacing and sizing value picker for Tailwind CSS v4's bracketless arbitrary values.
+- 🌍🔧 [tailwind-dictionary ![GitHub Repo Stars](https://img.shields.io/github/stars/prosazhin/tailwind-dictionary) ![GitHub last commit](https://img.shields.io/github/last-commit/prosazhin/tailwind-dictionary)](https://github.com/prosazhin/tailwind-dictionary) - Tailwind CSS theme generator from design tokens.
 - 🔼🌍 [Prefixer](https://github.vue.tailwind-prefix.cbass.dev) - Tailwind classes' prefixer tool.
 - 🔼 [RustyWind ![GitHub Repo Stars](https://img.shields.io/github/stars/avencera/rustywind) ![GitHub last commit](https://img.shields.io/github/last-commit/avencera/rustywind)](https://github.com/avencera/rustywind) - CLI tool for sorting Tailwind CSS classes.
 - 🔼 [Tailwind to Inline styles converter ![GitHub Repo Stars](https://img.shields.io/github/stars/vardan-arm/tailwind-to-inline) ![GitHub last commit](https://img.shields.io/github/last-commit/vardan-arm/tailwind-to-inline)](https://github.com/vardan-arm/tailwind-to-inline) - Converts Tailwind CSS classes to inline styles in email templates.
