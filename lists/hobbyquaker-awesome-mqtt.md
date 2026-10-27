@@ -89,6 +89,7 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 - [Mystique ![GitHub Repo Stars](https://img.shields.io/github/stars/TheThingsIndustries/mystique) ![GitHub last commit](https://img.shields.io/github/last-commit/TheThingsIndustries/mystique)](https://github.com/TheThingsIndustries/mystique) - An extendable MQTT broker written in Go, with HTTP capabilities for observability. Implements MQTT v3.1.1.
 - [RabbitMQ](https://www.rabbitmq.com/mqtt.html) - High performance messaging broker with MQTT Adapter.
 - [RobustMQ](http://robustmq.com) - Multi-protocol brokers written in Rust.
+- [Straum ![GitHub Repo Stars](https://img.shields.io/github/stars/straum-io/straum) ![GitHub last commit](https://img.shields.io/github/last-commit/straum-io/straum)](https://github.com/straum-io/straum) - Experimental clustered MQTT 3.1.1 and 5 broker that acknowledges a publish only after a majority of its nodes has committed it.
 - [SurgeMQ](https://zhen.org/categories/surgemq/) - High Performance MQTT Server and Client Libraries in Go.
 - [tbmq ![GitHub Repo Stars](https://img.shields.io/github/stars/thingsboard/tbmq) ![GitHub last commit](https://img.shields.io/github/last-commit/thingsboard/tbmq)](https://github.com/thingsboard/tbmq) - Open-source, scalable, fault-tolerant and durable messaging broker for millions of IoT devices.
 - [TrailMQ ![GitHub Repo Stars](https://img.shields.io/github/stars/RainerGewalt/TrailMQ) ![GitHub last commit](https://img.shields.io/github/last-commit/RainerGewalt/TrailMQ)](https://github.com/RainerGewalt/TrailMQ) - Self-hosted MQTT broker with policy enforcement and a reviewable record of broker decisions, for regulated and industrial systems.
@@ -109,6 +110,7 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 - [Azure IoT Hub](https://azure.microsoft.com/en-us/services/iot-hub/) - Enable highly secure and reliable communication between your IoT application and the devices it manages. Azure IoT Hub provides a cloud-hosted solution backend to connect virtually any device. Extend your solution from the cloud to the edge with per-device authentication, built-in device management, and scaled provisioning.
 - [CloudMQTT](https://www.cloudmqtt.com/) - Hosted message broker for the Internet of Things. Perfectly configured and optimized message queues for IoT, ready in seconds.
 - [CloudAMQP](https://www.cloudamqp.com/docs/mqtt.html) - Hosted AMQP brokers with MQTT support.
+- [ConnectMQ](https://connectmq.com/) - Managed MQTT broker with MQTT 3.1.1 and 5.0, TLS, WebSockets and per-topic access control, no servers to run.
 - [CrystalMQ](https://www.bevywise.com/hosted-mqtt-server/) - Fully Managed Cloud MQTT Broker for large scale deployments.
 - [flespi](https://flespi.com/mqtt-broker) - Free and secure cloud MQTT broker with private namespaces, MQTT 3.1.1 and MQTT 5.0 support and gorgeous limits.
 - [Google Cloud IoT](https://cloud.google.com/solutions/iot/) - Cloud managed MQTT service.
@@ -168,6 +170,7 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 - [RunMQTT MQTT Topic ACL Linter](https://runmqtt.com/mqtt-acl-linter) - Browser-based, local-only validator for MQTT topic-filter ACLs that checks wildcard breadth, tenant boundaries, publish/subscribe direction, placeholders, and overlapping rules. [Source and method ![GitHub Repo Stars](https://img.shields.io/github/stars/visoar/mqtt-acl-linter) ![GitHub last commit](https://img.shields.io/github/last-commit/visoar/mqtt-acl-linter)](https://github.com/visoar/mqtt-acl-linter).
 - [SimpleMQTT](https://simplemqtt.theoi.de/) - A Slack app to send messages from Slack to MQTT brokers with slash commands.
 - [Spitfire](https://usespitfire.com/guides/mqtt-load-testing) - Self-hosted distributed load testing platform with a web UI; simulates thousands of MQTT devices (QoS 0/1/2 publish, subscribe, request-reply) alongside HTTP, Kafka and other protocols. Commercial, with a free edition.
+- [TopicBench ![GitHub Repo Stars](https://img.shields.io/github/stars/unipsycho/topicbench) ![GitHub last commit](https://img.shields.io/github/last-commit/unipsycho/topicbench)](https://github.com/unipsycho/topicbench) - Free open-source multi-broker MQTT explorer and monitor desktop client, written in Rust.
 - [Wireshark-MQTT ![GitHub Repo Stars](https://img.shields.io/github/stars/menudoproblema/Wireshark-MQTT) ![GitHub last commit](https://img.shields.io/github/last-commit/menudoproblema/Wireshark-MQTT)](https://github.com/menudoproblema/Wireshark-MQTT) - MQTT dissector for Wireshark.
 - [VSMQTT ![GitHub Repo Stars](https://img.shields.io/github/stars/rpdswtk/vsmqtt) ![GitHub last commit](https://img.shields.io/github/last-commit/rpdswtk/vsmqtt)](https://github.com/rpdswtk/vsmqtt) - Simple MQTT client integrated in Visual Studio Code.
 - [MQTTX ![GitHub Repo Stars](https://img.shields.io/github/stars/emqx/MQTTX) ![GitHub last commit](https://img.shields.io/github/last-commit/emqx/MQTTX)](https://github.com/emqx/MQTTX) - Cross-platform MQTT desktop client open sourced by EMQ, which supports macOS, Linux, and Windows.
@@ -186,6 +189,7 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 - [Paho](https://www.eclipse.org/paho/) - Open source client implementations for C,C++, Java, Python, JavaScript, GoLang, C#, Rust, Android and Embedded (Arduino/mbed).
 - [mosquitto-clients](https://mosquitto.org/download/) - [mosquitto_pub](https://mosquitto.org/man/mosquitto_pub-1.html) and [mosquitto_sub](https://mosquitto.org/man/mosquitto_sub-1.html) CLI clients for most operating systems and [libmosquitto](https://mosquitto.org/man/libmosquitto-3.html) for integration.
+- [TestMQTT](https://testmqtt.com/) - Free browser-based MQTT client for testing any broker over WebSockets: connect, subscribe, publish and debug topics with no install or sign-up.
 
 ### Python
 

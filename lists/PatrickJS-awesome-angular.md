@@ -2183,6 +2183,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [helix ![GitHub Repo Stars](https://img.shields.io/github/stars/GravionLabs/helix) ![GitHub last commit](https://img.shields.io/github/last-commit/GravionLabs/helix)](https://github.com/GravionLabs/helix) - A signal-based, token-driven Angular UI ecosystem featuring plain CSS components, an application shell, Zod-powered dynamic forms, and AG Grid helpers.
 * [ndop-ui ![GitHub Repo Stars](https://img.shields.io/github/stars/ndop-ui/ui) ![GitHub last commit](https://img.shields.io/github/last-commit/ndop-ui/ui)](https://github.com/ndop-ui/ui) - An agent-native, signals-first Angular component ecosystem.
 * [jig ![GitHub Repo Stars](https://img.shields.io/github/stars/awdlab/jig) ![GitHub last commit](https://img.shields.io/github/last-commit/awdlab/jig)](https://github.com/awdlab/jig) - A signal-based component library for Angular 22+.
+* [lyra-ui ![GitHub Repo Stars](https://img.shields.io/github/stars/aceshooting/lyra-ui) ![GitHub last commit](https://img.shields.io/github/last-commit/aceshooting/lyra-ui)](https://github.com/aceshooting/lyra-ui) - A free, MIT-licensed, framework-agnostic web component library for building accessible production interfaces and chat UIs.
 
 ### UI Libraries built on Bootstrap
 
