@@ -1036,7 +1036,7 @@ A ktfmt IntelliJ plugin is available from the plugin repository. To install it, 
 - [larastan ![GitHub Repo Stars](https://img.shields.io/github/stars/larastan/larastan) ![GitHub last commit](https://img.shields.io/github/last-commit/larastan/larastan)](https://github.com/larastan/larastan) — Adds static analysis to Laravel improving developer productivity and code quality. It is a wrapper around PHPStan.
 
 - [mago](https://mago.carthage.software) — Mago is a complete toolchain for PHP, written in Rust, designed from the ground up for maximum performance.
-- �� A blazing-fast formatter that automatically formats your code according to PER-CS, ending style debates forever. - 🔎 An intelligent linter that catches stylistic issues, inconsistencies, and code smells before they become problems. - 🔬 A powerful static analyzer that finds type errors and logical bugs in your code without you ever having to run it. - 🛡️ A robust architectural guard that enforces dependency rules and structural conventions.
+- ✨ A blazing-fast formatter that automatically formats your code according to PER-CS, ending style debates forever. - 🔎 An intelligent linter that catches stylistic issues, inconsistencies, and code smells before they become problems. - 🔬 A powerful static analyzer that finds type errors and logical bugs in your code without you ever having to run it. - 🛡️ A robust architectural guard that enforces dependency rules and structural conventions.
 
 - [parallel-lint ![GitHub Repo Stars](https://img.shields.io/github/stars/php-parallel-lint/PHP-Parallel-Lint) ![GitHub last commit](https://img.shields.io/github/last-commit/php-parallel-lint/PHP-Parallel-Lint)](https://github.com/php-parallel-lint/PHP-Parallel-Lint) — This tool checks syntax of PHP files faster than serial check with a fancier output.
 
@@ -1794,8 +1794,6 @@ It removes a feature of a dependency and then compiles the project to see if it 
 
 - [fta](https://ftaproject.dev/) — Rust-based static analysis for TypeScript projects
 
-- [TypeScript Call Graph ![GitHub Repo Stars](https://img.shields.io/github/stars/whyboris/TypeScript-Call-Graph) ![GitHub last commit](https://img.shields.io/github/last-commit/whyboris/TypeScript-Call-Graph)](https://github.com/whyboris/TypeScript-Call-Graph) — CLI to generate an interactive graph of functions and calls from your TypeScript files
-
 - [TypeScript ESLint ![GitHub Repo Stars](https://img.shields.io/github/stars/typescript-eslint/typescript-eslint) ![GitHub last commit](https://img.shields.io/github/last-commit/typescript-eslint/typescript-eslint)](https://github.com/typescript-eslint/typescript-eslint) — TypeScript language extension for eslint.
 
 - [zod](https://zod.dev) — TypeScript-first schema validation with static type inference. The goal is to eliminate duplicative type declarations. With Zod, you declare a validator once and Zod will automatically infer the static TypeScript type. It is easy to compose simpler types into complex data structures.
@@ -1827,6 +1825,10 @@ TSLint is an extensible static analysis tool that checks TypeScript code for rea
 
 
 - **tslint-microsoft-contrib** :warning: — A set of tslint rules for static code analysis of TypeScript projects maintained by Microsoft.
+
+
+
+- **TypeScript Call Graph** :warning: — CLI to generate an interactive graph of functions and calls from your TypeScript files
 
 </details>
 
@@ -1982,13 +1984,13 @@ It supports multiple languages and is designed to be extensible, allowing you to
 
 - [ESLint ![GitHub Repo Stars](https://img.shields.io/github/stars/eslint/eslint) ![GitHub last commit](https://img.shields.io/github/last-commit/eslint/eslint)](https://github.com/eslint/eslint) — An extensible linter for JS, following the ECMAScript standard.
 
-- [ezno](https://kaleidawave.github.io/posts/introducing-ezno/) — A JavaScript compiler and TypeScript checker written in Rust with a focus on static analysis and runtime performance. Ezno's type checker is built from scratch.  The checker is fully compatible with TypeScript type annotations and can work without any type annotations at all.
-
 - [Fallow](https://fallow.tools) — Rust-native static analysis for JavaScript and TypeScript. Maps a repository as one dependency graph to find unused code and structural problems across file boundaries. Runs from the CLI or GitHub Actions, with VS Code, LSP, MCP, and Node API integrations.
 
 - [Find Security Bugs](https://find-sec-bugs.github.io) — The SpotBugs plugin for security audits of Java web applications and Android applications. (Also work with Kotlin, Groovy and Scala projects)
 
 - [Fortify](https://www.opentext.com/products/static-application-security-testing) :copyright: — A commercial static analysis platform that supports the scanning of C/C++, C#, VB.NET, VB6, ABAP/BSP, ActionScript, Apex, ASP.NET, Classic ASP, VB Script, Cobol, ColdFusion, HTML, Java, JS, JSP, MXML/Flex, Objective-C, PHP, PL/SQL, T-SQL, Python (2.6, 2.7), Ruby (1.9.3), Swift, Scala, VB, and XML.
+
+- [Frame ![GitHub Repo Stars](https://img.shields.io/github/stars/lambdasec/frame) ![GitHub last commit](https://img.shields.io/github/last-commit/lambdasec/frame)](https://github.com/lambdasec/frame) — Security scanner that pairs taint analysis with separation-logic checks in Z3, plus an optional LLM layer. Symbolic frontends cover Python, Java, JavaScript/TypeScript, C/C++ and C#. LLM findings are reported in a separate tier from symbolic ones, and the LLM layer runs on any OpenAI-compatible endpoint, including a local one.
 
 - [Freeplane Code Explorer](https://docs.freeplane.org/user-documentation/Code_Explorer.html) — The Code Explorer mode in Freeplane is designed for analyzing the structure and dependencies  of code compiled to JVM class files.  It also allows displaying ArchUnit test results directly in Freeplane,  if Freeplane is running and ArchUnit detects rule violations during the tests.
 
@@ -2214,6 +2216,10 @@ orchestration to ensure zero breaking changes. Specialized for React, Next.js, a
 
 
 - **DeepCode** :warning: :copyright: — DeepCode was acquired by Snyk is now Snyk Code.
+
+
+
+- **ezno** :warning: — A JavaScript compiler and TypeScript checker written in Rust with a focus on static analysis and runtime performance. Ezno's type checker is built from scratch.  The checker is fully compatible with TypeScript type annotations and can work without any type annotations at all.
 
 
 
@@ -3359,6 +3365,8 @@ TruffleHog is an open source secret-scanning engine that resolves exposed secret
 <a id="uses-llm"></a>
 <h2>Uses LLM/model</h2>
 
+
+- [Frame ![GitHub Repo Stars](https://img.shields.io/github/stars/lambdasec/frame) ![GitHub last commit](https://img.shields.io/github/last-commit/lambdasec/frame)](https://github.com/lambdasec/frame) — Security scanner that pairs taint analysis with separation-logic checks in Z3, plus an optional LLM layer. Symbolic frontends cover Python, Java, JavaScript/TypeScript, C/C++ and C#. LLM findings are reported in a separate tier from symbolic ones, and the LLM layer runs on any OpenAI-compatible endpoint, including a local one.
 
 - [squirrelscan](https://squirrelscan.com) — squirrelscan is a website QA tool built for coding agents such as Claude Code and Cursor. Its squirrel CLI crawls a live site and runs 260+ audit rules across SEO, performance, security, accessibility, structured data and agent experience, then returns exact source-mapped fixes. Runs from the terminal, CI, the cloud, or over MCP.
 

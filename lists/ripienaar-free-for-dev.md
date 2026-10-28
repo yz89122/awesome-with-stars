@@ -455,6 +455,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [Tugboat](https://tugboat.qa) - Preview every pull request, automated and on-demand. Free for all, complimentary Nano tier for non-profits.
   * [twist.com](https://twist.com) - An asynchronous-friendly team communication app where conversations stay organized and on-topic. Free and Unlimited plans are available. Discounts are provided for eligible teams.
   * [userforge.com](https://userforge.com/) - Interconnected online personas, user stories and context mapping.  Helps keep design and dev in sync free for up to 3 personas and two collaborators.
+  * [UserNote](https://getusernote.com/) - A user feedback tool to capture most wanted features, free supports up to 50 feature ideas and unlimited votes.
   * [Visual Debug](https://visualdebug.com) - A Visual feedback tool for better client-dev communication
   * [Webex](https://www.webex.com/) - Video meetings with a free plan offering 40 minutes per meeting with 100 attendees.
   * [Webvizio](https://webvizio.com) - Website feedback tool, website review software, and bug reporting tool for streamlining web development collaboration on tasks directly on live websites and web apps, images, PDFs, and design files.
@@ -1740,6 +1741,7 @@ Update Time, five active automations, webhooks.
   * [SYNCDATE](https://syncdate.app) - Two-way Google Calendar sync. Free tier: 2 accounts, unlimited events.
   * [UUID Generator](https://newuuid.com/) - Generate UUID v1, UUID v4, UUID v7, GUID, Nil UUIDs, CUID v1/v2, NanoID, and ULID instantly with enterprise-grade
   * [Versionfeeds](https://versionfeeds.com) - Custom RSS feeds for releases of your favorite software. Have the latest versions of your programming languages, libraries, or loved tools in one feed. (The first 3 feeds are free)
+  * [Keeper.sh](https://www.keeper.sh) - A calendar syncing tool that keeps your work, personal, business or student calendars in sync. Free for up to 2 calendars, 3 connections, and give your agent or scripts access to read and modify your calendars with up to 25 calls per day.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
