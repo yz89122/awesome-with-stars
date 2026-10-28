@@ -71,7 +71,6 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [ApiNotes](https://apinotes.io/mock-server) - Drop your OpenAPI spec and get a fully functional mock API server instantly. Export to Bruno API client or test directly.
 
 ### Visual Testing
-- [Frostbyte Screenshot Action ![GitHub Repo Stars](https://img.shields.io/github/stars/OzorOwn/frostbyte-screenshot-action) ![GitHub last commit](https://img.shields.io/github/last-commit/OzorOwn/frostbyte-screenshot-action)](https://github.com/OzorOwn/frostbyte-screenshot-action) - GitHub Action for automated website screenshots in CI/CD pipelines. Supports multiple viewports, full-page capture, and dark mode emulation.
 - [Fluxguard](https://fluxguard.com) - Screenshot pixel and DOM change comparisons.
 - [GoodLooks ![GitHub Repo Stars](https://img.shields.io/github/stars/dashcamio/goodlooks) ![GitHub last commit](https://img.shields.io/github/last-commit/dashcamio/goodlooks)](https://github.com/dashcamio/goodlooks) - AI-powered visual validation for Playwright tests.
 - [Happo](https://happo.io) - Cross-browser screenshot and visual regression testing service, integrates with tools like Storybook, Playwright, and Cypress.
@@ -120,9 +119,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [dbmask ![GitHub Repo Stars](https://img.shields.io/github/stars/sealandseacat/dbmask) ![GitHub last commit](https://img.shields.io/github/last-commit/sealandseacat/dbmask)](https://github.com/sealandseacat/dbmask) - Masks sensitive data in SQL test databases with deterministic fakes and verifies the masking row by row.
 - [Dummy Data Lab](https://timliu724.github.io/dummy-data-lab/) - Offline, open-source browser tool for transforming CSV or TXT into controlled dummy data and generating linked test datasets without uploading source files.
 - [JSON Validation Test Cases ![GitHub Repo Stars](https://img.shields.io/github/stars/UtilHatch/json-validation-test-cases) ![GitHub last commit](https://img.shields.io/github/last-commit/UtilHatch/json-validation-test-cases)](https://github.com/UtilHatch/json-validation-test-cases) - Reusable valid, invalid, and edge-case JSON fixtures for testing parsers, validators, APIs, editors, and error handling.
-- [MockJutsu ![GitHub Repo Stars](https://img.shields.io/github/stars/altansayan/mock-jutsu-api) ![GitHub last commit](https://img.shields.io/github/last-commit/altansayan/mock-jutsu-api)](https://github.com/altansayan/mock-jutsu-api) - Algorithmic open-source mock data engine generating 390+ format-valid types (IBAN, TCKN, Luhn, VIN, NHS, SWIFT, MRZ and more). CLI + REST API + Python package + JMeter
-  plugin. 6 locales.
-- [MockHero](https://mockhero.dev) - REST API for generating synthetic test data. 156 field types, 22 locales, relational data, sub-50ms. Free tier available.
+
 - [Synth ![GitHub Repo Stars](https://img.shields.io/github/stars/getsynth/synth) ![GitHub last commit](https://img.shields.io/github/last-commit/getsynth/synth)](https://github.com/getsynth/synth) - Open-source test data generator.
 - [Touca ![GitHub Repo Stars](https://img.shields.io/github/stars/trytouca/trytouca) ![GitHub last commit](https://img.shields.io/github/last-commit/trytouca/trytouca)](https://github.com/trytouca/trytouca) - Continuous regression testing for behavioral and performance comparisons.
 - [test-each ![GitHub Repo Stars](https://img.shields.io/github/stars/ehmicky/test-each) ![GitHub last commit](https://img.shields.io/github/last-commit/ehmicky/test-each)](https://github.com/ehmicky/test-each) - Data-driven testing framework.
@@ -142,6 +139,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Requestly](https://requestly.io/) - A lightweight proxy to intercept and modify network requests.
 
 ### Accessibility & Usability Testing
+- [A11yKit](https://a11ykit.site) - 15 free client-side web accessibility and WCAG 2.2 color contrast testing tools with zero code uploads.
 - [Colour Blindness Simulator](https://altreus.github.io/colourblind/) - Simulate different types of color blindness.
 - [RatedWithAI](https://ratedwithai.com) - AI-powered website accessibility scanner that checks for ADA and WCAG 2.2 compliance with instant actionable audits.
 - [Site Punchlist](https://sitepunchlist.com) - Crawls a whole site with axe-core and groups repeated findings by the shared component causing them, so one fix covers every page it appears on. Publishes which WCAG 2.2 criteria automation can and cannot reach. Free five-page scan, no account.
