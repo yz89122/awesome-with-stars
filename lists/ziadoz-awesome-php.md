@@ -748,6 +748,7 @@ Please see [CONTRIBUTING ![GitHub Repo Stars](https://img.shields.io/github/star
 *Libraries that implement data structure or storage techniques.*
 
 * [CakePHP Collection ![GitHub Repo Stars](https://img.shields.io/github/stars/cakephp/collection) ![GitHub last commit](https://img.shields.io/github/last-commit/cakephp/collection)](https://github.com/cakephp/collection) - A simple collections library.
+* [DeepClone ![GitHub Repo Stars](https://img.shields.io/github/stars/symfony/php-ext-deepclone) ![GitHub last commit](https://img.shields.io/github/last-commit/symfony/php-ext-deepclone)](https://github.com/symfony/php-ext-deepclone) - A PHP extension to export serializable values as plain arrays and reconstruct them.
 * [Fractal ![GitHub Repo Stars](https://img.shields.io/github/stars/thephpleague/fractal) ![GitHub last commit](https://img.shields.io/github/last-commit/thephpleague/fractal)](https://github.com/thephpleague/fractal) - A library for converting complex data structures to JSON output.
 * [JsonMapper ![GitHub Repo Stars](https://img.shields.io/github/stars/cweiske/jsonmapper) ![GitHub last commit](https://img.shields.io/github/last-commit/cweiske/jsonmapper)](https://github.com/cweiske/jsonmapper) - A library that maps nested JSON structures onto PHP classes.
 * [JSON Machine ![GitHub Repo Stars](https://img.shields.io/github/stars/halaxa/json-machine) ![GitHub last commit](https://img.shields.io/github/last-commit/halaxa/json-machine)](https://github.com/halaxa/json-machine) - Provides iteration over huge JSONs using simple `foreach`.
