@@ -341,6 +341,7 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 - [redpierrot/ballerina.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/redpierrot/ballerina.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/redpierrot/ballerina.nvim)](https://github.com/redpierrot/ballerina.nvim) - Syntax highlighting, LSP, debugging, package-aware format-on-save, auto-indent, and `bal` run/test/build commands for the Ballerina language.
 - [jgonmor16/hdlsnip.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/jgonmor16/hdlsnip.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/jgonmor16/hdlsnip.nvim)](https://github.com/jgonmor16/hdlsnip.nvim) - Parameterised VHDL templates covering entities, FSMs, CDC, AXI4-Lite and testbenches, following the project's reset style and target vendor.
 - [upyesp/epher.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/upyesp/epher.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/upyesp/epher.nvim)](https://github.com/upyesp/epher.nvim) - Calculator language with answers inline, LSP server glue, and syntax for `.epher` scripts.
+- [dobsontom/dbt-ft.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/dobsontom/dbt-ft.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/dobsontom/dbt-ft.nvim)](https://github.com/dobsontom/dbt-ft.nvim) - Jinja-aware filetype for `dbt` models, with Tree-sitter support for highlighting, folding, and indentation.
 
 ### Golang
 
