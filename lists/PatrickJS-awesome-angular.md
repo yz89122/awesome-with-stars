@@ -555,6 +555,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-bun ![GitHub Repo Stars](https://img.shields.io/github/stars/quinnjr/ngx-bun) ![GitHub last commit](https://img.shields.io/github/last-commit/quinnjr/ngx-bun)](https://github.com/quinnjr/ngx-bun) - High-performance SSR/SSG adapter for Angular 19+ using Bun's built-in server.
 * [ng-ssr-caching ![GitHub Repo Stars](https://img.shields.io/github/stars/nigrosimone/ng-ssr-caching) ![GitHub last commit](https://img.shields.io/github/last-commit/nigrosimone/ng-ssr-caching)](https://github.com/nigrosimone/ng-ssr-caching) - Cache for server-side rendered pages in Angular SSR.
 * [fastang ![GitHub Repo Stars](https://img.shields.io/github/stars/daclab-dev/fastang) ![GitHub last commit](https://img.shields.io/github/last-commit/daclab-dev/fastang)](https://github.com/daclab-dev/fastang) - An experimental, all-in-one web framework that unifies Angular on the frontend, Fastify on the backend, and integrated SSR.
+* [strata ![GitHub Repo Stars](https://img.shields.io/github/stars/Andersseen/strata) ![GitHub last commit](https://img.shields.io/github/last-commit/Andersseen/strata)](https://github.com/Andersseen/strata) - Server Components and structured server APIs for Angular and Analog.
 
 ## Development Utilities
 

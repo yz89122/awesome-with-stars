@@ -244,7 +244,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Steel Browser ![GitHub Repo Stars](https://img.shields.io/github/stars/steel-dev/steel-browser) ![GitHub last commit](https://img.shields.io/github/last-commit/steel-dev/steel-browser)](https://github.com/steel-dev/steel-browser) - An open-source browser sandbox and automation infrastructure for AI agents, with session management, screenshots, PDFs, proxies, and anti-bot tooling. #opensource
 - [Bifrost ![GitHub Repo Stars](https://img.shields.io/github/stars/maximhq/bifrost) ![GitHub last commit](https://img.shields.io/github/last-commit/maximhq/bifrost)](https://github.com/maximhq/bifrost) - An open-source LLM gateway with routing, load balancing, guardrails, and observability for 1000+ models. #opensource
 - [fal](https://fal.ai/) - A developer platform for accessing and deploying image, video, audio, and 3D generation models.
-- [REA ![GitHub Repo Stars](https://img.shields.io/github/stars/morluto/rea) ![GitHub last commit](https://img.shields.io/github/last-commit/morluto/rea)](https://github.com/morluto/rea) - Reverse Engineer Anything connects coding agents to reverse-engineering tools through MCP to analyze binaries, applications, and runtime behavior. #opensource
+- [REA (Reverse Engineer Anything)](https://rea.tools/) - Connects coding agents to reverse-engineering tools through MCP to analyze binaries, applications, and runtime behavior. [#opensource ![GitHub Repo Stars](https://img.shields.io/github/stars/morluto/rea) ![GitHub last commit](https://img.shields.io/github/last-commit/morluto/rea)](https://github.com/morluto/rea)
 
 ### Playgrounds
 
