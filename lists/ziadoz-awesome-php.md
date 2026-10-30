@@ -155,7 +155,7 @@ Please see [CONTRIBUTING ![GitHub Repo Stars](https://img.shields.io/github/star
 * [Joomla](https://www.joomla.org/) - Another leading CMS.
 * [Kirby](https://getkirby.com/) - A flat-file CMS that adapts to any project.
 * [Magento ![GitHub Repo Stars](https://img.shields.io/github/stars/magento/magento2) ![GitHub last commit](https://img.shields.io/github/last-commit/magento/magento2)](https://github.com/magento/magento2) - A widely used open-source e-commerce platform.
-* [Moodle](https://moodle.org/) - An open-source learning platform.
+* [Moodle ![GitHub Repo Stars](https://img.shields.io/github/stars/moodle/moodle) ![GitHub last commit](https://img.shields.io/github/last-commit/moodle/moodle)](https://github.com/moodle/moodle) - An open-source learning platform.
 * [OctoberCMS](https://octobercms.com/) - A CMS built on Laravel.
 * [OpenMage ![GitHub Repo Stars](https://img.shields.io/github/stars/OpenMage/magento-lts) ![GitHub last commit](https://img.shields.io/github/last-commit/OpenMage/magento-lts)](https://github.com/OpenMage/magento-lts) - Fork of EoL Magento 1 e-commerce platform.
 * [Pico CMS](https://picocms.org/) - A lightweight flat-file CMS.
