@@ -296,6 +296,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [OpenAgents ![GitHub Repo Stars](https://img.shields.io/github/stars/openagents-org/openagents) ![GitHub last commit](https://img.shields.io/github/last-commit/openagents-org/openagents)](https://github.com/openagents-org/openagents) - Open-source platform for building AI agent networks with multi-protocol support (WebSocket, gRPC, HTTP, MCP, A2A). #opensource
 - [Dorothy ![GitHub Repo Stars](https://img.shields.io/github/stars/Charlie85270/Dorothy) ![GitHub last commit](https://img.shields.io/github/last-commit/Charlie85270/Dorothy)](https://github.com/Charlie85270/Dorothy) - An open-source desktop app to orchestrate multiple AI CLI agents simultaneously with automations and Kanban management. #opensource
 - [Hive ![GitHub Repo Stars](https://img.shields.io/github/stars/aden-hive/hive) ![GitHub last commit](https://img.shields.io/github/last-commit/aden-hive/hive)](https://github.com/aden-hive/hive) - An open-source multi-agent framework with auto-generated graphs, evolution loops, and MCP integration. #opensource
+- [Multica](https://multica.ai/) - A self-hostable workspace for assigning tasks to AI coding agents and tracking their progress alongside human teammates.
 
 ### Custom assistants
 
