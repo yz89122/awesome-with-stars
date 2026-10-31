@@ -1971,6 +1971,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [snackng ![GitHub Repo Stars](https://img.shields.io/github/stars/xgreymx/snackng) ![GitHub last commit](https://img.shields.io/github/last-commit/xgreymx/snackng)](https://github.com/xgreymx/snackng) - Toasts for Angular with a glass design, zero UI dependencies and CSS-variable theming.
 * [toastify-all ![GitHub Repo Stars](https://img.shields.io/github/stars/VeereshPoojari/toastify-all) ![GitHub last commit](https://img.shields.io/github/last-commit/VeereshPoojari/toastify-all)](https://github.com/VeereshPoojari/toastify-all) - Universal, modern toast notification engine for all JavaScript frameworks and platforms.
 * [ngx-toastf ![GitHub Repo Stars](https://img.shields.io/github/stars/darioegb/ngx-toast) ![GitHub last commit](https://img.shields.io/github/last-commit/darioegb/ngx-toast)](https://github.com/darioegb/ngx-toast) - A lightweight, standalone-first toast notification service for Angular that requires zero template markup or `ViewContainerRef`.
+* [rivium-push-web-sdk ![GitHub Repo Stars](https://img.shields.io/github/stars/Rivium-co/rivium-push-web-sdk) ![GitHub last commit](https://img.shields.io/github/last-commit/Rivium-co/rivium-push-web-sdk)](https://github.com/Rivium-co/rivium-push-web-sdk) - A framework-agnostic web SDK with TypeScript support for real-time and background push notifications, persistent message inboxes, and event-triggered in-app messaging.
 
 ### Onboarding and Product Tours
 
@@ -2187,6 +2188,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ndop-ui ![GitHub Repo Stars](https://img.shields.io/github/stars/ndop-ui/ui) ![GitHub last commit](https://img.shields.io/github/last-commit/ndop-ui/ui)](https://github.com/ndop-ui/ui) - An agent-native, signals-first Angular component ecosystem.
 * [jig ![GitHub Repo Stars](https://img.shields.io/github/stars/awdlab/jig) ![GitHub last commit](https://img.shields.io/github/last-commit/awdlab/jig)](https://github.com/awdlab/jig) - A signal-based component library for Angular 22+.
 * [lyra-ui ![GitHub Repo Stars](https://img.shields.io/github/stars/aceshooting/lyra-ui) ![GitHub last commit](https://img.shields.io/github/last-commit/aceshooting/lyra-ui)](https://github.com/aceshooting/lyra-ui) - A free, MIT-licensed, framework-agnostic web component library for building accessible production interfaces and chat UIs.
+* [slotted ![GitHub Repo Stars](https://img.shields.io/github/stars/andrelopes-code/slotted) ![GitHub last commit](https://img.shields.io/github/last-commit/andrelopes-code/slotted)](https://github.com/andrelopes-code/slotted) - A UI kit engineered for information-dense, product-focused web applications, offering native React and Angular integrations.
 
 ### UI Libraries built on Bootstrap
 

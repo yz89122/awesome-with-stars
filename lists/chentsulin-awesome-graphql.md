@@ -233,7 +233,6 @@
 - [F8 App 2017 ![GitHub Repo Stars](https://img.shields.io/github/stars/fbsamples/f8app) ![GitHub last commit](https://img.shields.io/github/last-commit/fbsamples/f8app)](https://github.com/fbsamples/f8app) - Source code for the official 2017 F8 app, built with React Native, Relay, and GraphQL.
 - [Apollo React example for GitHub GraphQL API ![GitHub Repo Stars](https://img.shields.io/github/stars/katopz/react-apollo-graphql-github-example) ![GitHub last commit](https://img.shields.io/github/last-commit/katopz/react-apollo-graphql-github-example)](https://github.com/katopz/react-apollo-graphql-github-example) - Example using Apollo React with the GitHub GraphQL API and Create React App.
 - [Next.js TypeScript and GraphQL Example ![GitHub Repo Stars](https://img.shields.io/github/stars/vercel/next.js) ![GitHub last commit](https://img.shields.io/github/last-commit/vercel/next.js)](https://github.com/vercel/next.js/tree/canary/examples/with-typescript-graphql) - Type-protected GraphQL example on Next.js running graphql-codegen under the hood.
-- [GraphQL StackBlitz Starter](https://stackblitz.com/fork/graphql) - Live, editable demo that starts in a browser in about two seconds.
 - [VulcanJS](http://vulcanjs.org) - Full-stack React and GraphQL framework.
 - [RAN Toolkit ![GitHub Repo Stars](https://img.shields.io/github/stars/sly777/ran) ![GitHub last commit](https://img.shields.io/github/last-commit/sly777/ran)](https://github.com/sly777/ran) - Production-ready toolkit/boilerplate with support for GraphQL, SSR, Hot-reload, CSS-in-JS, caching, and more.
 
@@ -745,6 +744,7 @@
 - [Dgraph](https://dgraph.io/) - Scalable, distributed, low-latency, high-throughput graph database with GraphQL as the query language.
 - [ArangoDB](https://arangodb.com/) - Native multi-model database with GraphQL support through Foxx microservices.
 - [Weaviate ![GitHub Repo Stars](https://img.shields.io/github/stars/weaviate/weaviate) ![GitHub last commit](https://img.shields.io/github/last-commit/weaviate/weaviate)](https://github.com/weaviate/weaviate) - Open-source vector database combining vector search, structured filtering, and a GraphQL interface.
+- [TerminusDB ![GitHub Repo Stars](https://img.shields.io/github/stars/terminusdb/terminusdb) ![GitHub last commit](https://img.shields.io/github/last-commit/terminusdb/terminusdb)](https://github.com/terminusdb/terminusdb) - Open-source knowledge graph database with git-like version control and a built-in GraphQL API.
 
 <a name="services" />
 
