@@ -544,7 +544,7 @@ git mergetool
 
 ### Rebase Operations
 
-> ⚠️ **Warning:** Don't rebase published commits!
+> ⚠��� **Warning:** Don't rebase published commits!
 
 **Rebase current HEAD onto branch:**
 ```bash
