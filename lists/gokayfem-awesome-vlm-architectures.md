@@ -2076,7 +2076,7 @@ PaddleOCR Team, Baidu<br>
 <!-- /architecture-figure:30 -->
 
 <details>
-<summary>ℹ��� <i>More Information</i></summary>
+<summary>ℹ️ <i>More Information</i></summary>
 
 **PaddleOCR-VL-0.9B** connects a NaViT-style dynamic-resolution visual encoder to the compact ERNIE-4.5-0.3B language model. Variable-resolution packing preserves page detail and aspect ratio without forcing every document through a fixed square canvas. The decoder emits text and structured representations for paragraphs, tables, formulas, charts, and other document elements across 109 languages.
 

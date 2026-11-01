@@ -564,7 +564,7 @@ _Hide the chrome, run full-screen, or turn an old tablet on the wall into a dedi
 _Frameworks that replace or extend the default Home Assistant dashboard with a different look and feel._
 
 - [Dwains Dashboard ![GitHub Repo Stars](https://img.shields.io/github/stars/dwainscheeren/dwains-lovelace-dashboard) ![GitHub last commit](https://img.shields.io/github/last-commit/dwainscheeren/dwains-lovelace-dashboard)](https://github.com/dwainscheeren/dwains-lovelace-dashboard) - A fully auto-generating dashboard for desktop, tablet and mobile (2,077★).
-- [Mushroom Strategy ![GitHub Repo Stars](https://img.shields.io/github/stars/DigiLive/mushroom-strategy) ![GitHub last commit](https://img.shields.io/github/last-commit/DigiLive/mushroom-strategy)](https://github.com/DigiLive/mushroom-strategy) - A strategy that automatically generates a dashboard using Mushroom cards (673★).
+- [Mushroom Strategy ![GitHub Repo Stars](https://img.shields.io/github/stars/DigiLive/mushroom-strategy) ![GitHub last commit](https://img.shields.io/github/last-commit/DigiLive/mushroom-strategy)](https://github.com/DigiLive/mushroom-strategy) - A strategy that automatically generates a dashboard using Mushroom cards (673���).
 
 ## Themes
 
