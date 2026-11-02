@@ -2869,7 +2869,7 @@ but with the following improvements:
 <details>
 <summary>Show Deprecated</summary>
 
-- **Datree** :warning: — A CLI tool to prevent Kubernetes misconfigurations by ensuring that manifests and Helm charts follow best practices as well as your organization���s policies
+- **Datree** :warning: — A CLI tool to prevent Kubernetes misconfigurations by ensuring that manifests and Helm charts follow best practices as well as your organization’s policies
 
 
 

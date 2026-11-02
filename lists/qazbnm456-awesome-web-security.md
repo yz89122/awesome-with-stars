@@ -323,6 +323,8 @@ Then ask any web-security question and the skill activates on topics like XSS, S
 <a name="fingerprint"></a>
 ### Fingerprint
 
+- [Passive OS Fingerprinting: TCP Fingerprint, p0f and JA4T](https://packet.guru/blog/passive-os-fingerprinting) - How the first TCP SYN gives away the operating system family, why a proxy shows up as a mismatch with the OS the browser reports, and how p0f and JA4T record the same packet. Written by [packet.guru](https://packet.guru/).
+
 <a name="sub-domain-enumeration"></a>
 ### Sub Domain Enumeration
 
@@ -372,6 +374,7 @@ Then ask any web-security question and the skill activates on topics like XSS, S
 ### JWT
 
 - [Hardcoded secrets, unverified tokens, and other common JWT mistakes](https://semgrep.dev/blog/2020/hardcoded-secrets-unverified-tokens-and-other-common-jwt-mistakes/) - Written by [@ermil0v](https://twitter.com/ermil0v).
+- [How to revoke a JWT, from a system that does it](https://easinvy.com/notes/revoke-a-jwt) - A per-user revocation cut-off from a production multi-tenant app: why it compares against `auth_time` rather than `iat`, the whole-seconds rounding bug it shipped with, and the routes that trusted the token. Written by [Ridam Agrawal](https://ridamagrawal.com).
 
 ## Evasions
 
@@ -494,6 +497,7 @@ Then ask any web-security question and the skill activates on topics like XSS, S
 - [Piercing the Veil: Server Side Request Forgery to NIPRNet access](https://medium.com/bugbountywriteup/piercing-the-veil-server-side-request-forgery-to-niprnet-access-c358fd5e249a) - Written by [Alyssa Herrera](https://medium.com/@alyssa.o.herrera).
 - [All you need to know about SSRF and how may we write tools to do auto-detect](https://www.auxy.xyz/web%20security/2017/07/06/all-ssrf-knowledge.html) - Written by [@Auxy233](https://twitter.com/Auxy233).
 - [AWS takeover through SSRF in JavaScript](https://10degres.net/aws-takeover-through-ssrf-in-javascript/) - Written by [Gwen](https://10degres.net/).
+- [Instance Metadata Abuse](https://ransomleak.com/exercises/instance-metadata-abuse/) - Shows how a server-side request forgery bug becomes cloud credential theft through the instance metadata service, and why requiring IMDSv2 session tokens with a response hop limit in the instance configuration closes the whole class of forging bugs rather than one code path, by [RansomLeak](https://ransomleak.com/).
 
 <a name="tricks-web-cache-poisoning"></a>
 ### Web Cache Poisoning
@@ -654,6 +658,8 @@ Then ask any web-security question and the skill activates on topics like XSS, S
 - [Trust Scan ![GitHub Repo Stars](https://img.shields.io/github/stars/undeadlist/trust-scan) ![GitHub last commit](https://img.shields.io/github/last-commit/undeadlist/trust-scan)](https://github.com/undeadlist/trust-scan) - URL security scanner combining threat intelligence (URLhaus, PhishTank, Spamhaus) with 40+ scam and phishing pattern detection by [@undeadlist](https://github.com/undeadlist).
 - [ZeroTrust ![GitHub Repo Stars](https://img.shields.io/github/stars/sattyamjjain/zerotrust) ![GitHub last commit](https://img.shields.io/github/last-commit/sattyamjjain/zerotrust)](https://github.com/sattyamjjain/zerotrust) - Privacy-first Chrome extension that analyzes website security locally with on-device AI (WebGPU), producing trust scores from HTTPS, phishing, malicious-script, and cookie-compliance signals, by [@sattyamjjain](https://github.com/sattyamjjain).
 - [SecuriTool](https://securitool.js.org/) - Free online collection of 29 client-side web security tools: web auditor, JWT attacker/decoder, CVE search, CSP evaluator, email security checker (SPF/DKIM/DMARC), subdomain scanner, and more. 100% client-side, privacy-first, open source by [@ReplikanteK](https://github.com/ReplikanteK).
+- [ONUS ![GitHub Repo Stars](https://img.shields.io/github/stars/maverickaayush/ONUS) ![GitHub last commit](https://img.shields.io/github/last-commit/maverickaayush/ONUS)](https://github.com/maverickaayush/ONUS) - Web vulnerability assessment platform that orchestrates multiple scanners, applies deterministic CVSS v3.1 scoring, and provides AI-assisted vulnerability analysis and remediation guidance.
+- [Crossfyre Toolchain ![GitHub Repo Stars](https://img.shields.io/github/stars/clickswave/crossfyre-toolchain) ![GitHub last commit](https://img.shields.io/github/last-commit/clickswave/crossfyre-toolchain)](https://github.com/clickswave/crossfyre-toolchain) - Recon and vulnerability scanning engines in Rust for subdomains, ports, content discovery, fingerprinting, injection testing and nuclei-style templates, with one CLI and newline-delimited JSON output by [@clickswave](https://github.com/clickswave).
 
 <a name="tools-penetration-testing"></a>
 ### Penetration Testing
@@ -773,6 +779,7 @@ Then ask any web-security question and the skill activates on topics like XSS, S
 ### Decompiler
 
 - [CFR](https://www.benf.org/other/cfr/) - Another java decompiler by [@LeeAtBenf](https://twitter.com/LeeAtBenf).
+- [Wakaru ![GitHub Repo Stars](https://img.shields.io/github/stars/pionxzh/wakaru) ![GitHub last commit](https://img.shields.io/github/last-commit/pionxzh/wakaru)](https://github.com/pionxzh/wakaru) - JavaScript decompiler that splits production bundles from webpack, esbuild, Browserify, and Metro into modules and turns minified and transpiled code back into readable JavaScript, without executing it, by [@pionxzh](https://github.com/pionxzh).
 
 <a name="tools-dns-rebinding"></a>
 ### DNS Rebinding
