@@ -1788,6 +1788,7 @@ then it is not supported:
 - [seandewar/actually-doom.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/seandewar/actually-doom.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/seandewar/actually-doom.nvim)](https://github.com/seandewar/actually-doom.nvim) - Editing text is boring; play DOOM instead!.
 - [piersolenski/skifree.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/piersolenski/skifree.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/piersolenski/skifree.nvim)](https://github.com/piersolenski/skifree.nvim) - Play the Windows 3.1 SkiFree game.
 - [xiangnongWu2233/rubiks-cube.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/xiangnongWu2233/rubiks-cube.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/xiangnongWu2233/rubiks-cube.nvim)](https://github.com/xiangnongWu2233/rubiks-cube.nvim) - A playable Rubik's cube with auto-solver.
+- [navasvarela/vimdojo ![GitHub Repo Stars](https://img.shields.io/github/stars/navasvarela/vimdojo) ![GitHub last commit](https://img.shields.io/github/last-commit/navasvarela/vimdojo)](https://github.com/navasvarela/vimdojo) - Puzzle game for learning Vim motions and workflows, scored on keystrokes against par.
 
 ### Competitive Programming
 
