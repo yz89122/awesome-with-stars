@@ -89,6 +89,7 @@ Community plugins for [Omarchy Quattro ![GitHub Repo Stars](https://img.shields.
 - [Shikigon ![GitHub Repo Stars](https://img.shields.io/github/stars/rkocosmergon/shikigon) ![GitHub last commit](https://img.shields.io/github/last-commit/rkocosmergon/shikigon)](https://github.com/rkocosmergon/shikigon) - Bar creature that plays Cosmergon, a Game-of-Life economy, against other AI agents, by itself or with a model you pick choosing its moves.
 - [Todoist ![GitHub Repo Stars](https://img.shields.io/github/stars/Aryan-Techie/omarchy-todoist) ![GitHub last commit](https://img.shields.io/github/last-commit/Aryan-Techie/omarchy-todoist)](https://github.com/Aryan-Techie/omarchy-todoist) - Due counts and quick-add from the Omarchy bar.
 - [Voxtype Enhance ![GitHub Repo Stars](https://img.shields.io/github/stars/iamcheyan/omarchy-voxtype-enhance) ![GitHub last commit](https://img.shields.io/github/last-commit/iamcheyan/omarchy-voxtype-enhance)](https://github.com/iamcheyan/omarchy-voxtype-enhance) - Voxtype dictation control center with model downloads and paste controls.
+- [X Mode ![GitHub Repo Stars](https://img.shields.io/github/stars/timurguseynov/omarchy-x-mode) ![GitHub last commit](https://img.shields.io/github/last-commit/timurguseynov/omarchy-x-mode)](https://github.com/timurguseynov/omarchy-x-mode) - MacOS-like floating window mode with tabs, snapping, a dock, app switching, and macOS keyboard shortcuts.
 
 ## Development Tools
 
