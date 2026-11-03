@@ -1363,6 +1363,7 @@ _Handling of user events (scroll, click, key strike, ...)_
 - [Enforma](https://encolajs.com/enforma/) - UI agnostic, schema-ready form library for Vue 3. 30+ built-in validation rules. UI presets for Vuetify, PrimeVue and Quasar
 - [piying-view ![GitHub Repo Stars](https://img.shields.io/github/stars/piying-org/piying-view) ![GitHub last commit](https://img.shields.io/github/last-commit/piying-org/piying-view)](https://github.com/piying-org/piying-view) - Frontend Form Solution; strongly typed; Vue 3
 - [Formisch](https://formisch.dev/vue/guides/introduction/) - A form library with focus on performance, type safety and bundle size
+- [Formhaus ![GitHub Repo Stars](https://img.shields.io/github/stars/formhaus-dev/formhaus) ![GitHub last commit](https://img.shields.io/github/last-commit/formhaus-dev/formhaus)](https://github.com/formhaus-dev/formhaus) - Forms from one JSON definition for Vue and React.
 
 ##### Validation
 

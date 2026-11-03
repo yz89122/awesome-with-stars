@@ -80,6 +80,7 @@ _Great graphics placeholders and tools to turn that squared game into a picasso 
 - :money_with_wings: [Kenney Assets](https://kenney.nl/assets) - Royalty free assets
 - :free: [Liberated Pixel Cup assets](https://lpc.opengameart.org) - Free graphic assets of the Liberated Pixel Cup (LPC) held by the OpenGameArt forums
 - :free: [Matcaps ![GitHub Repo Stars](https://img.shields.io/github/stars/nidorx/matcaps) ![GitHub last commit](https://img.shields.io/github/last-commit/nidorx/matcaps)](https://github.com/nidorx/matcaps#matcaps) - A Huge library of matcap textures in PNG and ZMT, organized by color.
+- :free: [Minecraft Pixel Art](https://minecraft-pixel-art.com/editor/blueprint) - Browser image-to-Minecraft block blueprints with material lists, PNG plans and Java structure NBT export; no account required.
 - :free: [OpenGameArt](https://opengameart.org/) - a media repository intended for use with free software game projects.
 - :moneybag: [Oryx Design Lab](https://oryxdesignlab.com/) - Cheap high quality royalty free sprites
 - :free: [Pixelicious](https://www.pixelicious.xyz/) - Image-to-Pixel Art converter.
@@ -145,7 +146,6 @@ _Great graphics placeholders and tools to turn that squared game into a picasso 
 #### Animation
 
 - :moneybag: [AnimKit](https://www.nasrtech.dev/animkit) - Maya animation toolkit with live tweening, smart keys, motion trails, a pose library and Mixamo retargeting. An affordable animBot alternative.
-- :tada: [Ayatsuri2D](https://ayatsuri-2d.org/) - free, open-source 2D mesh rigging editor for Live2D-style puppets: deformers, parameters and physics, exports moc3, with a C ABI (Apache-2.0) to embed models in games. [Source ![GitHub Repo Stars](https://img.shields.io/github/stars/Yoru-KenomoVT/ayatsuri_2d) ![GitHub last commit](https://img.shields.io/github/last-commit/Yoru-KenomoVT/ayatsuri_2d)](https://github.com/Yoru-KenomoVT/ayatsuri_2d)
 - :money_with_wings: [Cascadeur](https://cascadeur.com/) - Powerful physics-based 3D character animation
 - :moneybag: [Fusion Character Animator](http://loopengo.free.fr/) - small tool for Clickteam Fusion 2.5 to facilitate the animation of 2D character sprites for developers.
 - :free: [GameAsset.net](https://gameasset.net/) - 10,000+ free CC0 character animations, previewable in 3D with GLB download.
