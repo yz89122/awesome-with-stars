@@ -49,6 +49,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [BestJSON JSON Diff](https://bestjson.com/json-diff) - Free browser tool for comparing saved JSON API responses by structure, with explicit array-order and record-ID matching rules.
 - [Kerno](https://kerno.io) - The AI Backend Runtime QA Engineer. Runs locally inside your coding agent's loop through MCP and tests each change against your running app and its real databases, queues and services.
 - [OpenAPI Breaking Change Checker](https://martingruner.com/tools/openapi-breaking-change-checker) - Free browser tool that compares two Swagger 2.0 or OpenAPI 3.0/3.1 descriptions (JSON or YAML) and sorts each change into likely breaking, review-needed or compatible; the files stay in the browser.
+- [Bifurc ![GitHub Repo Stars](https://img.shields.io/github/stars/HarshalKudale/bifurc) ![GitHub last commit](https://img.shields.io/github/last-commit/HarshalKudale/bifurc)](https://github.com/HarshalKudale/bifurc) - Local-first API client, mock server and traffic proxy for macOS, Windows and Linux, with a CLI for CI.
 
 ### Security Testing
 - [BeEF](http://beefproject.com/) - Manipulate the browser by exploiting any XSS vulnerabilities you find.
@@ -227,6 +228,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Robot Framework Solidity Testing Toolkit ![GitHub Repo Stars](https://img.shields.io/github/stars/jg8481/Robot-Framework-Solidity-Testing-Toolkit) ![GitHub last commit](https://img.shields.io/github/last-commit/jg8481/Robot-Framework-Solidity-Testing-Toolkit)](https://github.com/jg8481/Robot-Framework-Solidity-Testing-Toolkit) - Robot Framework integration for Solidity testing.
 
 ### Test Automation Frameworks
+- [bareenv ![GitHub Repo Stars](https://img.shields.io/github/stars/Blasword/bareenv) ![GitHub last commit](https://img.shields.io/github/last-commit/Blasword/bareenv)](https://github.com/Blasword/bareenv) - Runs a command once per environment combination (unset, empty, invalid) and reports the ones that break.
 - [Bats ![GitHub Repo Stars](https://img.shields.io/github/stars/bats-core/bats-core) ![GitHub last commit](https://img.shields.io/github/last-commit/bats-core/bats-core)](https://github.com/bats-core/bats-core) - Bash Automated Testing System.
 - [Jumpstarter ![GitHub Repo Stars](https://img.shields.io/github/stars/jumpstarter-dev/jumpstarter) ![GitHub last commit](https://img.shields.io/github/last-commit/jumpstarter-dev/jumpstarter)](https://github.com/jumpstarter-dev/jumpstarter) - Open source hardware-in-the-loop testing framework for automated testing on real and virtual hardware with CI/CD integration.
 - [Robot Framework](https://robotframework.org/) - Generic open-source automation framework for testing and RPA.

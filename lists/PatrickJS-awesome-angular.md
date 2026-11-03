@@ -1079,6 +1079,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [playwright-mcp ![GitHub Repo Stars](https://img.shields.io/github/stars/microsoft/playwright-mcp) ![GitHub last commit](https://img.shields.io/github/last-commit/microsoft/playwright-mcp)](https://github.com/microsoft/playwright-mcp) - A Model Context Protocol (MCP) server that provides browser automation capabilities using Playwright.
 * [twd ![GitHub Repo Stars](https://img.shields.io/github/stars/BRIKEV/twd) ![GitHub last commit](https://img.shields.io/github/last-commit/BRIKEV/twd)](https://github.com/BRIKEV/twd) - In‑browser test runner with instant feedback, Testing Library support, Vite discovery, and built‑in API mocking—framework‑agnostic and easy to use in Angular.
 * [serenity-js ![GitHub Repo Stars](https://img.shields.io/github/stars/serenity-js/serenity-js) ![GitHub last commit](https://img.shields.io/github/last-commit/serenity-js/serenity-js)](https://github.com/serenity-js/serenity-js) - A TypeScript-native acceptance testing framework that gives your Playwright Test, WebdriverIO, or Cucumber test suite the architecture it needs to scale.
+* [TestMu AI SmartUI](https://www.testmuai.com/angulario-visual-testing/) - Visual regression testing for Angular apps that captures and compares screenshots across builds.
 
 ### Component
 
@@ -1525,6 +1526,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [kritzel ![GitHub Repo Stars](https://img.shields.io/github/stars/kasual1/kritzel) ![GitHub last commit](https://img.shields.io/github/last-commit/kasual1/kritzel)](https://github.com/kasual1/kritzel) - Infinite canvas editor with first-class support for Angular.
 * [ngx-editor-rtl-ltr-edition ![GitHub Repo Stars](https://img.shields.io/github/stars/ahpcoir-lgtm/ngx-editor-rtl-ltr-edition) ![GitHub last commit](https://img.shields.io/github/last-commit/ahpcoir-lgtm/ngx-editor-rtl-ltr-edition)](https://github.com/ahpcoir-lgtm/ngx-editor-rtl-ltr-edition) - A text editor built on ProseMirror featuring native RTL/LTR support, Persian/Arabic fonts and locales, advanced tables, and media embeds.
 * [ngx-editra ![GitHub Repo Stars](https://img.shields.io/github/stars/Khatri-Sanjay/ngx-editra) ![GitHub last commit](https://img.shields.io/github/last-commit/Khatri-Sanjay/ngx-editra)](https://github.com/Khatri-Sanjay/ngx-editra) - A CKEditor-inspired rich text editor for Angular, featuring a customizable toolbar, tables, images, formatting, and extensible plugins.
+* [Sqwig](https://sqwig.com/) - Rich text editor with spellcheck built in.
 
 ### File Upload
 
@@ -1732,6 +1734,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-ratio-image ![GitHub Repo Stars](https://img.shields.io/github/stars/gerd-siebert/ngx-ratio-image) ![GitHub last commit](https://img.shields.io/github/last-commit/gerd-siebert/ngx-ratio-image)](https://github.com/gerd-siebert/ngx-ratio-image) - Angular library for displaying an image with a variable aspect ratio inside a container with a fixed aspect ratio.
 * [ngx-image-forge ![GitHub Repo Stars](https://img.shields.io/github/stars/HoplaGeiss/ngx-image-forge) ![GitHub last commit](https://img.shields.io/github/last-commit/HoplaGeiss/ngx-image-forge)](https://github.com/HoplaGeiss/ngx-image-forge) - An Angular image editing library — crop, rotate, flip, and export images with zero dependencies. Signals-native.
 * [ng-smart-images ![GitHub Repo Stars](https://img.shields.io/github/stars/yadimon/ng-smart-images) ![GitHub last commit](https://img.shields.io/github/last-commit/yadimon/ng-smart-images)](https://github.com/yadimon/ng-smart-images) - CLI-first image optimization with hashed assets, runtime manifests, and optional Angular helpers.
+* [DeSource Image ![GitHub Repo Stars](https://img.shields.io/github/stars/DeSource-Labs/image) ![GitHub last commit](https://img.shields.io/github/last-commit/DeSource-Labs/image)](https://github.com/DeSource-Labs/image) - High-quality image optimization with responsive, provider-first and SSR-friendly workflow for React/Next.js, Angular, and Svelte/SvelteKit.
 
 ### Keyboard Mouse
 
@@ -1975,6 +1978,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [toastify-all ![GitHub Repo Stars](https://img.shields.io/github/stars/VeereshPoojari/toastify-all) ![GitHub last commit](https://img.shields.io/github/last-commit/VeereshPoojari/toastify-all)](https://github.com/VeereshPoojari/toastify-all) - Universal, modern toast notification engine for all JavaScript frameworks and platforms.
 * [ngx-toastf ![GitHub Repo Stars](https://img.shields.io/github/stars/darioegb/ngx-toast) ![GitHub last commit](https://img.shields.io/github/last-commit/darioegb/ngx-toast)](https://github.com/darioegb/ngx-toast) - A lightweight, standalone-first toast notification service for Angular that requires zero template markup or `ViewContainerRef`.
 * [rivium-push-web-sdk ![GitHub Repo Stars](https://img.shields.io/github/stars/Rivium-co/rivium-push-web-sdk) ![GitHub last commit](https://img.shields.io/github/last-commit/Rivium-co/rivium-push-web-sdk)](https://github.com/Rivium-co/rivium-push-web-sdk) - A framework-agnostic web SDK with TypeScript support for real-time and background push notifications, persistent message inboxes, and event-triggered in-app messaging.
+* [ng-toast ![GitHub Repo Stars](https://img.shields.io/github/stars/stefankuburovic/ng-toast) ![GitHub last commit](https://img.shields.io/github/last-commit/stefankuburovic/ng-toast)](https://github.com/stefankuburovic/ng-toast) - A lightweight, zoneless Angular toast notification utility powered strictly by Signals and RxJS, with zero external dependencies.
 
 ### Onboarding and Product Tours
 
