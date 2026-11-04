@@ -512,6 +512,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [signal-http-cache ![GitHub Repo Stars](https://img.shields.io/github/stars/frontkit-ng/signal-http-cache) ![GitHub last commit](https://img.shields.io/github/last-commit/frontkit-ng/signal-http-cache)](https://github.com/frontkit-ng/signal-http-cache) - Angular Signal-based HTTP caching library (queries, mutations, TTL, SWR).
 * [ngx-esy-jsonapi ![GitHub Repo Stars](https://img.shields.io/github/stars/zFl4wless/ngx-esy-jsonapi) ![GitHub last commit](https://img.shields.io/github/last-commit/zFl4wless/ngx-esy-jsonapi)](https://github.com/zFl4wless/ngx-esy-jsonapi) - A lightweight Angular v20+ adapter for JSON API.
 * [ngx-native-middlewares ![GitHub Repo Stars](https://img.shields.io/github/stars/dkhrunov/ngx-native-middlewares) ![GitHub last commit](https://img.shields.io/github/last-commit/dkhrunov/ngx-native-middlewares)](https://github.com/dkhrunov/ngx-native-middlewares/tree/development/projects/ngx-native-middlewares) - Write your HTTP middleware once to cover all underlying web transports and their wrapper libraries.
+* [ng-signal-request ![GitHub Repo Stars](https://img.shields.io/github/stars/theunal/ng-signal-request) ![GitHub last commit](https://img.shields.io/github/last-commit/theunal/ng-signal-request)](https://github.com/theunal/ng-signal-request) - A signal-based HTTP layer for Angular (v22+).
 
 ### Micro Frontends
 
@@ -2184,6 +2185,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [lyra-ui ![GitHub Repo Stars](https://img.shields.io/github/stars/aceshooting/lyra-ui) ![GitHub last commit](https://img.shields.io/github/last-commit/aceshooting/lyra-ui)](https://github.com/aceshooting/lyra-ui) - A free, MIT-licensed, framework-agnostic web component library for building accessible production interfaces and chat UIs.
 * [slotted ![GitHub Repo Stars](https://img.shields.io/github/stars/andrelopes-code/slotted) ![GitHub last commit](https://img.shields.io/github/last-commit/andrelopes-code/slotted)](https://github.com/andrelopes-code/slotted) - A UI kit engineered for information-dense, product-focused web applications, offering native React and Angular integrations.
 * [tableau-ui-angular ![GitHub Repo Stars](https://img.shields.io/github/stars/serionist/tableau-ui-angular) ![GitHub last commit](https://img.shields.io/github/last-commit/serionist/tableau-ui-angular)](https://github.com/serionist/tableau-ui-angular) - Tableau-style components for Angular 22: form controls, selects, a virtual table with sorting and selection, dialogs and menus, signal-based and SSR-safe.
+* [LiberaUI ![GitHub Repo Stars](https://img.shields.io/github/stars/gioelevalori/liberaui) ![GitHub last commit](https://img.shields.io/github/last-commit/gioelevalori/liberaui)](https://github.com/gioelevalori/liberaui) - Accessible, zoneless-ready Angular components with a live Theme Studio that exports theme CSS and Angular code. [Documentation](https://liberaui.js.org).
 
 ### UI Libraries built on Bootstrap
 
