@@ -1609,6 +1609,7 @@ then it is not supported:
 - [Chiarandini/smart-enter.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/Chiarandini/smart-enter.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/Chiarandini/smart-enter.nvim)](https://github.com/Chiarandini/smart-enter.nvim) - Context-aware newline that continues LaTeX environments, Markdown lists, and more.
 - [yaocccc/visual-multi.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/yaocccc/visual-multi.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/yaocccc/visual-multi.nvim)](https://github.com/yaocccc/visual-multi.nvim) - A fast, core-focused multi-cursor plugin written in Lua with Normal, Insert, and Extend modes.
 - [iago-lito/lastput.nvim](https://codeberg.org/iago-lito/lastput.nvim) - One mapping to (re)select the last piece of text you've pasted.
+- [LongYinStudio/suda.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/LongYinStudio/suda.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/LongYinStudio/suda.nvim)](https://github.com/LongYinStudio/suda.nvim) - Transparent, "sudo-like" privilege elevation without virtual URI hacks.
 
 ### Comment
 
