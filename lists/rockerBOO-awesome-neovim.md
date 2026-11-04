@@ -342,6 +342,8 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 - [jgonmor16/hdlsnip.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/jgonmor16/hdlsnip.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/jgonmor16/hdlsnip.nvim)](https://github.com/jgonmor16/hdlsnip.nvim) - Parameterised VHDL templates covering entities, FSMs, CDC, AXI4-Lite and testbenches, following the project's reset style and target vendor.
 - [upyesp/epher.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/upyesp/epher.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/upyesp/epher.nvim)](https://github.com/upyesp/epher.nvim) - Calculator language with answers inline, LSP server glue, and syntax for `.epher` scripts.
 - [dobsontom/dbt-ft.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/dobsontom/dbt-ft.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/dobsontom/dbt-ft.nvim)](https://github.com/dobsontom/dbt-ft.nvim) - Jinja-aware filetype for `dbt` models, with Tree-sitter support for highlighting, folding, and indentation.
+- [alessandropietrobelli/dotnet-tree.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/alessandropietrobelli/dotnet-tree.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/alessandropietrobelli/dotnet-tree.nvim)](https://github.com/alessandropietrobelli/dotnet-tree.nvim) - A `.NET` solution explorer as a neo-tree source, showing solution folders, projects, project references and package versions, with support for many `dotnet` actions.
+
 
 ### Golang
 

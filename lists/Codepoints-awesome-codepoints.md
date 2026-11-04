@@ -173,7 +173,7 @@ different types of whitespace.
     [椦](https://codepoints.net/U+6926),
     [槞](https://codepoints.net/U+69DE),
     [蟐](https://codepoints.net/U+87D0),
-    [袮](https://codepoints.net/U+88AE),
+    [��](https://codepoints.net/U+88AE),
     [閠](https://codepoints.net/U+95A0),
     [駲](https://codepoints.net/U+99F2),
     [墸](https://codepoints.net/U+58B8),

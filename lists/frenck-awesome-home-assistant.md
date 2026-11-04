@@ -336,6 +336,7 @@ _Pull data from sensors that broadcast over Bluetooth, or use Bluetooth itself f
 - [Bermuda ![GitHub Repo Stars](https://img.shields.io/github/stars/agittins/bermuda) ![GitHub last commit](https://img.shields.io/github/last-commit/agittins/bermuda)](https://github.com/agittins/bermuda) - Room-level presence detection by triangulating BLE signals across multiple ESPHome receivers (2,094★).
 - [BLE Battery Management Systems ![GitHub Repo Stars](https://img.shields.io/github/stars/patman15/BMS_BLE-HA) ![GitHub last commit](https://img.shields.io/github/last-commit/patman15/BMS_BLE-HA)](https://github.com/patman15/BMS_BLE-HA) - Reads Bluetooth Low Energy battery management systems (BMS) from many vendors, exposing per-cell voltages, balancing, and SOC (372★).
 - [EcoFlow BLE ![GitHub Repo Stars](https://img.shields.io/github/stars/rabits/ha-ef-ble) ![GitHub last commit](https://img.shields.io/github/last-commit/rabits/ha-ef-ble)](https://github.com/rabits/ha-ef-ble) - Pulls EcoFlow power stations and accessories over Bluetooth Low Energy, no cloud account required (415★).
+- [PadSpan HA ![GitHub Repo Stars](https://img.shields.io/github/stars/gbroeckling/padspanHA) ![GitHub last commit](https://img.shields.io/github/last-commit/gbroeckling/padspanHA)](https://github.com/gbroeckling/padspanHA) - Shows which room every phone, watch and tag is in, live, on a 3D floor plan, using the ESPHome Bluetooth proxies you already have (289★).
 
 ### 🔋 Battery monitoring
 
@@ -682,6 +683,7 @@ _Helpers, daemons, and developer tools that sit alongside Home Assistant rather 
 - [ADB Intents](https://gist.github.com/mcfrojd/9e6875e1db5c089b1e3ddeb7dba0f304) - List of ADB intents to control Android Devices.
 - [Home Assistant Config Helper for VSCode](https://marketplace.visualstudio.com/items?itemName=keesschollaart.vscode-home-assistant) - Visual Studio Code Extension that provides auto-completion, config validation and snippets when editing your configuration.
 - [Home Assistant Taskbar Menu ![GitHub Repo Stars](https://img.shields.io/github/stars/PiotrMachowski/Home-Assistant-Taskbar-Menu) ![GitHub last commit](https://img.shields.io/github/last-commit/PiotrMachowski/Home-Assistant-Taskbar-Menu)](https://github.com/PiotrMachowski/Home-Assistant-Taskbar-Menu) - A client for Windows that can display Lovelace views, control entities and show persistent notifications (345★).
+- [HA Desktop Widget ![GitHub Repo Stars](https://img.shields.io/github/stars/Robertg761/HA-Desktop-Widget) ![GitHub last commit](https://img.shields.io/github/last-commit/Robertg761/HA-Desktop-Widget)](https://github.com/Robertg761/HA-Desktop-Widget) - Desktop app and widget for Windows, macOS and Linux to control entities, watch cameras, view sensors and pin tiles to the desktop.
 
 ## Online Resources
 

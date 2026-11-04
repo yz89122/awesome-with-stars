@@ -402,7 +402,7 @@ _Frameworks and tools that enable code coverage metrics collection for test suit
 
 _Tools that format or restructure Java source code._
 
-> **[google-java-format ![GitHub Repo Stars](https://img.shields.io/github/stars/google/google-java-format) ![GitHub last commit](https://img.shields.io/github/last-commit/google/google-java-format)](https://github.com/google/google-java-format)** <kbd>★ 6.2k</kbd> 🟢<br>Reformats Java source code to follow Google Java Style.
+> **[google-java-format ![GitHub Repo Stars](https://img.shields.io/github/stars/google/google-java-format) ![GitHub last commit](https://img.shields.io/github/last-commit/google/google-java-format)](https://github.com/google/google-java-format)** <kbd>�� 6.2k</kbd> 🟢<br>Reformats Java source code to follow Google Java Style.
 
 > **[JHarmonizer ![GitHub Repo Stars](https://img.shields.io/github/stars/lemon-ant/JHarmonizer) ![GitHub last commit](https://img.shields.io/github/last-commit/lemon-ant/JHarmonizer)](https://github.com/lemon-ant/JHarmonizer)** <kbd>★ 30</kbd> 🟢<br>Safely reorders Java source code with configurable rules and Palantir Java Format.
 
