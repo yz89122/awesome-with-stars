@@ -1712,7 +1712,7 @@ then it is not supported:
 - [njayman/season.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/njayman/season.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/njayman/season.nvim)](https://github.com/njayman/season.nvim) - A lightweight plugin to manage session based on current working directory.
 - [Akmadan23/local-session.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/Akmadan23/local-session.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/Akmadan23/local-session.nvim)](https://github.com/Akmadan23/local-session.nvim) - A fast, minimal and implicit current-working-directory-based session manager with easy to configure session files in Lua.
 <!--lint disable double-link -->
-[**��� back to top**](#contents)
+[**⬆ back to top**](#contents)
 <!--lint enable double-link -->
 
 ## Remote Development
