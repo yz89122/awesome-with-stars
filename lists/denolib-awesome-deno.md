@@ -86,6 +86,7 @@ This list is a collection of the best Deno modules and resources.
 
 ### Cloud APIs
 - [aws-api](https://aws-api.deno.dev/) - From-scratch Typescript AWS API client built for Deno.
+- [sigflint ![GitHub Repo Stars](https://img.shields.io/github/stars/bompus/sigflint) ![GitHub last commit](https://img.shields.io/github/last-commit/bompus/sigflint)](https://github.com/bompus/sigflint) - AWS Signature Version 4 and SigV4a request signing with no dependencies, for use with `fetch`.
 
 ### Database
 - [@iuioiua/redis](https://jsr.io/@iuioiua/redis) - Fast, lightweight Redis client built upon the Web Streams API.
@@ -243,6 +244,7 @@ This list is a collection of the best Deno modules and resources.
 - [Deno Rest ![GitHub Repo Stars](https://img.shields.io/github/stars/Prolifode/deno_rest) ![GitHub last commit](https://img.shields.io/github/last-commit/Prolifode/deno_rest)](https://github.com/Prolifode/deno_rest) - A Boilerplate for deno RESTful apis.
 - [Edrys ![GitHub Repo Stars](https://img.shields.io/github/stars/edrys-org/edrys) ![GitHub last commit](https://img.shields.io/github/last-commit/edrys-org/edrys)](https://github.com/edrys-org/edrys) - Remote Teaching Software
 - [GitHub Profile Trophy ![GitHub Repo Stars](https://img.shields.io/github/stars/ryo-ma/github-profile-trophy) ![GitHub last commit](https://img.shields.io/github/last-commit/ryo-ma/github-profile-trophy)](https://github.com/ryo-ma/github-profile-trophy) - 🏆 Add dynamically generated GitHub Trophy on your readme
+- [globnotes ![GitHub Repo Stars](https://img.shields.io/github/stars/alexindigo/globnotes) ![GitHub last commit](https://img.shields.io/github/last-commit/alexindigo/globnotes)](https://github.com/alexindigo/globnotes) - Self-hosted Markdown note-taking app for Obsidian vaults and nested folders, with full-text search and sandboxed plugins.
 - [ShopSavvy Deno Deploy ![GitHub Repo Stars](https://img.shields.io/github/stars/shopsavvy/deno-deploy-shopsavvy) ![GitHub last commit](https://img.shields.io/github/last-commit/shopsavvy/deno-deploy-shopsavvy)](https://github.com/shopsavvy/deno-deploy-shopsavvy) - Deno Deploy router with Hono for product search, real-time pricing, and price history.
 - [The Official Showcase](https://deno.land/showcase) - The official showcase of Deno.
 

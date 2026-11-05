@@ -319,6 +319,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 ### Writing
 
 * [AI Novel Writer ![GitHub Repo Stars](https://img.shields.io/github/stars/EthanYoQ/AI-Novel-Writer) ![GitHub last commit](https://img.shields.io/github/last-commit/EthanYoQ/AI-Novel-Writer)](https://github.com/EthanYoQ/AI-Novel-Writer) - Open-source AI writing workspace for organizing characters, worldbuilding, outlines, chapters, review, and revision in one novel project. [![Open-Source Software][OSS Icon]](https://github.com/EthanYoQ/AI-Novel-Writer) ![Freeware][Freeware Icon]
+* [Drifting](https://drifting.cc/) - Open-source, local-first novel writing app with chapters, outline, characters and storylines, and an AI agent that can read and edit the whole project. [![Open-Source Software][OSS Icon]](https://github.com/chihumyum/Drifting) ![Freeware][Freeware Icon]
 * [Retrotype](https://retrotype.ink/) - A fun and minimalist writing app that feels like a real typewriter. ![Freeware][Freeware Icon]
 * [novelWriter ![GitHub Repo Stars](https://img.shields.io/github/stars/vkbo/novelWriter) ![GitHub last commit](https://img.shields.io/github/last-commit/vkbo/novelWriter)](https://github.com/vkbo/novelWriter) - Open-source plain text editor for writing novels with minimal markdown-like syntax. [![OSS][OSS Icon]](https://github.com/vkbo/novelWriter) ![Freeware][Freeware Icon]
 * [Scrivener](https://www.literatureandlatte.com/scrivener/overview/) - The quintessential word processor for writers.
@@ -371,6 +372,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [PDF Pals](https://pdfpals.com) - Chat with PDF app for Mac. No file size limits!
 * [PDFgear](https://www.pdfgear.com/) - AI-integrated PDF editor. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/pdfgear-pdf-editor-for-adobe/id1615523079?platform=mac)
 * [PDF Reader Pro](https://www.pdfreaderpro.com) - You Can view, create, sign, convert and compress any PDF documents. [![App Store][app-store Icon]](https://apps.apple.com/us/app/pdf-reader-pro-your-pdf-office/id825459243?platform=mac)
+* [Saywing](https://www.christopherboebel.com/en/saywing) - Open-source tool that reads selected screen regions aloud using local OCR and neural speech, with offline English and German dictation. [![Open-Source Software][OSS Icon]](https://github.com/ChrBoebel/saywing) ![Freeware][Freeware Icon]
 * [Skim](https://skim-app.sourceforge.net) - PDF reader and note-taker for OS X. [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/skim-app/) ![Freeware][Freeware Icon]
 * [SkyFonts](https://skyfonts.com/) - The simplest way to try, install, and manage fonts.
 * [SmoothCSV](https://smoothcsv.com/) - Fast, full-featured CSV editor with SQL queries. ![Freeware][Freeware Icon]
@@ -840,6 +842,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [ExifCleaner](https://exifcleaner.com) - Remove exif metadata from images and videos with drag and drop. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/szTheory/exifcleaner)
 * [Featherview](https://featherview.mynetx.net) - Open-source, keyboard-driven image viewer for flipping through folders, with batch conversion. [![Open-Source Software][OSS Icon]](https://github.com/featherview/featherview) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Fotohaus ![GitHub Repo Stars](https://img.shields.io/github/stars/aelnagish/Fotohaus) ![GitHub last commit](https://img.shields.io/github/last-commit/aelnagish/Fotohaus)](https://github.com/aelnagish/Fotohaus) - Open-source photo organizer that works on your existing folders, with on-device face recognition, search and non-destructive editing. [![Open-Source Software][OSS Icon]](https://github.com/aelnagish/Fotohaus) ![Freeware][Freeware Icon]
+* [Flipic ![GitHub Repo Stars](https://img.shields.io/github/stars/xmasdong/flipic) ![GitHub last commit](https://img.shields.io/github/last-commit/xmasdong/flipic)](https://github.com/xmasdong/flipic) - Photo culling viewer: arrow-key paging through a folder, 100% focus check, XMP ratings that Lightroom and Capture One read, on-device cleanup mode. [![Open-Source Software][OSS Icon]](https://github.com/xmasdong/flipic) ![Freeware][Freeware Icon]
 * [HEIC Converter](https://sindresorhus.com/heic-converter) - Convert HEIC images to JPEG or PNG. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/heic-converter-to-jpeg-or-png/id1294126402?platform=mac)
 * [Iconset](https://iconset.io) - Free, cross-platform and fast SVG icon organizer and manager for Mac and Windows.
 * [Iconjar](https://geticonjar.com/) - Icon management tool to organize or search your icons.
@@ -1081,6 +1084,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Popcorn Time](https://popcorn-time.site/) - Streaming app for browsing and watching torrent-based movies.[![Open-Source Software][OSS Icon]](https://github.com/popcorn-official/popcorn-desktop) ![Freeware][Freeware Icon]
 * [Potplayer X](https://okaapps.com/product/1612400976)- a Video Audio Player. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/cn/app/potplayer-x-%E9%9F%B3%E8%A7%86%E9%A2%91%E6%92%AD%E6%94%BE%E5%99%A8/id1612400976?platform=mac)
 * [Pulp ![GitHub Repo Stars](https://img.shields.io/github/stars/bazalp/pulp) ![GitHub last commit](https://img.shields.io/github/last-commit/bazalp/pulp)](https://github.com/bazalp/pulp/releases) - Audio sample manager. ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/bazalp/pulp)
+* [Radif](https://www.yuvrajangadsingh.com/radif) - Unofficial open-source YouTube Music client built with Tauri, with synced lyrics and a video mode, that needs YouTube Music Premium. [![Open-Source Software][OSS Icon]](https://github.com/yuvrajangadsingh/radif) ![Freeware][Freeware Icon]
 * [RAVE LIVE ![GitHub Repo Stars](https://img.shields.io/github/stars/jedbrnth-eng/rave-live) ![GitHub last commit](https://img.shields.io/github/last-commit/jedbrnth-eng/rave-live)](https://github.com/jedbrnth-eng/rave-live) - Festival light show that locks to the beat of whatever your Mac is playing, with stage lights, lasers and MilkDrop presets. [![Open-Source Software][OSS Icon]](https://github.com/jedbrnth-eng/rave-live) ![Freeware][Freeware Icon]
 * [Sangeet ![GitHub Repo Stars](https://img.shields.io/github/stars/YashvardhanATRgithub/Sangeet) ![GitHub last commit](https://img.shields.io/github/last-commit/YashvardhanATRgithub/Sangeet)](https://github.com/YashvardhanATRgithub/Sangeet) - A beautiful audiophile music player with 10-band EQ, karaoke mode, and time-synced lyrics. ![Open-Source Software][oss icon] ![Freeware][freeware icon]
 * [ScreenFlow](https://www.telestream.net/screenflow/) - Screencasting and video editing software.
@@ -1259,7 +1263,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 
 ## Education
 
-* [Leafy](https://leafyapp.uk/) - Look up any word on screen with ⌥A, including in PDFs and images, and save it to a searchable local library. ![Freeware][Freeware Icon]
+* [Leafy](https://getleafyapp.com/) - Look up any word on screen with ⌥A, including in PDFs and images, and save it to a searchable local library. ![Freeware][Freeware Icon]
 * [Wokabulary](https://wokabulary.com/) - Collect, practice, and organize your individual foreign language vocabulary. [![App Store][app-store Icon]](https://apps.apple.com/app/apple-store/id1667619825?platform=mac)
 
 ## Finance

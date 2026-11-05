@@ -463,7 +463,7 @@ Wifi | Power | Address | Open Hours
 
 #### ascii
 
-> Caf�� inside the faculty of Computer Science of the Dresden University of Technology;
+> Café inside the faculty of Computer Science of the Dresden University of Technology;
 > always filled with friendly and helpful people, no matter the topic
 
 Webpage: [ascii-dresden.de](http://ascii-dresden.de)
