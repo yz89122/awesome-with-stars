@@ -215,7 +215,7 @@ _You might also like [Awesome Django ![GitHub Repo Stars](https://img.shields.io
 - [Wagtail Performance – Wagtail Space 2018](https://www.youtube.com/watch?v=u0CPaXRSOzI&t=1345s) by Michael van Tellingen. [Code](https://gist.github.com/mvantellingen/daebda6abbaa9a5ed0888f886a77fcf0).
 - [Mutliple images uploader – Wagtail Space 2018](https://www.youtube.com/watch?v=u0CPaXRSOzI&t=1661s) by Rajeev J Sebastian.
 - [Wagtail Space easter egg team demo – Wagtail Space 2018](https://www.youtube.com/watch?v=u0CPaXRSOzI&t=2057s) by Lars. [Code ![GitHub Repo Stars](https://img.shields.io/github/stars/specialunderwear/haunted-wagtail) ![GitHub last commit](https://img.shields.io/github/last-commit/specialunderwear/haunted-wagtail)](https://github.com/specialunderwear/haunted-wagtail).
-- [Wagtail Space 2019 – Wagtail Space 2018](https://www.youtube.com/watch?v=u0CPaXRSOzI&t=2278s) by Maarten Kling.
+- [Wagtail Space 2019 ��� Wagtail Space 2018](https://www.youtube.com/watch?v=u0CPaXRSOzI&t=2278s) by Maarten Kling.
 - [Wagtail in 2018 – Wagtail Space US 2018](https://www.youtube.com/watch?v=ICKYMO0YoFI&index=2&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV) by Tom Dyson.
 - [What the Wagtail Docs Don't Tell You – Wagtail Space US 2018](https://www.youtube.com/watch?v=PCkxBNXWM64&index=3&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV) by Lacey Williams Henschel.
 - [Django Logging for Wagtail – Wagtail Space US 2018](https://www.youtube.com/watch?v=kkztl9ORUKQ&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV&index=4) by Ryan Sullivan.
@@ -232,7 +232,7 @@ _You might also like [Awesome Django ![GitHub Repo Stars](https://img.shields.io
 - [The State of Wagtail – Wagtail Space 2019](https://www.youtube.com/watch?t=592&v=MAzZ2lhMhzM) by Tom Dyson.
 - [Image rotation feature – Wagtail Space 2019](https://www.youtube.com/watch?t=2057&v=MAzZ2lhMhzM) by Chris Adams. Code.
 - [Debug templates – Wagtail Space 2019](https://www.youtube.com/watch?t=2264&v=MAzZ2lhMhzM) by Coen van der Kamp.
-- [Wagtail Headless with HATEOAS – Wagtail Space 2019](https://www.youtube.com/watch?t=2567&v=MAzZ2lhMhzM) by Duco Dokter.
+- [Wagtail Headless with HATEOAS �� Wagtail Space 2019](https://www.youtube.com/watch?t=2567&v=MAzZ2lhMhzM) by Duco Dokter.
 - [Building a Planet Friendly Web (with Wagtail) – Wagtail Space 2019](https://www.youtube.com/watch?t=2926&v=MAzZ2lhMhzM) by Chris Adams.
 - [\[WIP\] The future of (rich text) authoring experiences in Wagtail – Wagtail Space 2019](https://www.youtube.com/watch?t=4067&v=MAzZ2lhMhzM) by Thibaud Colas.
 - [Wagtail & Whatsapp – Wagtail Space 2019](https://www.youtube.com/watch?t=47&v=CSwpj-jyjP4) by Lisa Adams & Codie Roelf.

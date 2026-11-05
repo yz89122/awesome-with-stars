@@ -243,6 +243,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ionic-adv-tooltip ![GitHub Repo Stars](https://img.shields.io/github/stars/PhaZRic/ionic-adv-tooltip) ![GitHub last commit](https://img.shields.io/github/last-commit/PhaZRic/ionic-adv-tooltip)](https://github.com/PhaZRic/ionic-adv-tooltip) - Media-rich tooltips and popovers for Ionic Angular that render templates, images, videos, or live previews on any host.
 * [PushApp-Capacitor ![GitHub Repo Stars](https://img.shields.io/github/stars/mehery-soccom/PushApp-Capacitor) ![GitHub last commit](https://img.shields.io/github/last-commit/mehery-soccom/PushApp-Capacitor)](https://github.com/mehery-soccom/PushApp-Capacitor) - A Capacitor plugin for push notifications, in-app messaging, event tracking, and session handling in Ionic/Angular/Capacitor apps.
 * [Capgo](https://capgo.app) - Live updates / OTA for Capacitor apps.
+* [OtaKit](https://otakit.app) - Open-source live updates / OTA for Capacitor apps, hosted or self-hosted.
 * [AngularLynx ![GitHub Repo Stars](https://img.shields.io/github/stars/Blotch-Smart-Frames/AngularLynx) ![GitHub last commit](https://img.shields.io/github/last-commit/Blotch-Smart-Frames/AngularLynx)](https://github.com/Blotch-Smart-Frames/AngularLynx) - Renders Angular components to native iOS, Android, and Web UI via the [Lynx](https://lynxjs.org/) runtime by ByteDance.
 
 ### Updating Angular
@@ -704,6 +705,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [allstak-angular ![GitHub Repo Stars](https://img.shields.io/github/stars/AllStak/allstak-angular) ![GitHub last commit](https://img.shields.io/github/last-commit/AllStak/allstak-angular)](https://github.com/AllStak/allstak-angular) - Captures exceptions, logs, navigation, HTTP requests, and render timings with standalone and NgModule support.
 * [inspect-value ![GitHub Repo Stars](https://img.shields.io/github/stars/HuakunShen/inspect-value) ![GitHub last commit](https://img.shields.io/github/last-commit/HuakunShen/inspect-value)](https://github.com/HuakunShen/inspect-value) - Web Component value inspector — works in React, Vue, Angular, Svelte, or vanilla JavaScript.
 * [ng-perf-inspector ![GitHub Repo Stars](https://img.shields.io/github/stars/VitalieCondorache/ng-perf-inspector) ![GitHub last commit](https://img.shields.io/github/last-commit/VitalieCondorache/ng-perf-inspector)](https://github.com/VitalieCondorache/ng-perf-inspector) - A lightweight debugging and performance monitoring toolkit for modern Angular applications.
+* [GenClass ![GitHub Repo Stars](https://img.shields.io/github/stars/genclass-dev/GenClass) ![GitHub last commit](https://img.shields.io/github/last-commit/genclass-dev/GenClass)](https://github.com/genclass-dev/GenClass) - Reports race conditions in the browser while they happen (duplicate submits, failure storms and, once signal state is registered by hand, stale responses); one import in `main.ts`, a small on-device model, report-only by default.
 
 ### Documentation Tools
 
@@ -1233,6 +1235,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-transition-content ![GitHub Repo Stars](https://img.shields.io/github/stars/ciriousjoker/ngx-transition-content) ![GitHub last commit](https://img.shields.io/github/last-commit/ciriousjoker/ngx-transition-content)](https://github.com/ciriousjoker/ngx-transition-content) - An Angular library to seamlessly transition dialog content by fading out old content, animating to new dimensions, and fading in new content.
 * [web-scrolling-text ![GitHub Repo Stars](https://img.shields.io/github/stars/mehardiknaik/web-scrolling-text) ![GitHub last commit](https://img.shields.io/github/last-commit/mehardiknaik/web-scrolling-text)](https://github.com/mehardiknaik/web-scrolling-text) - A lightweight, customizable text animation library for creating smooth scrolling text effects with support for React, Next.js, Angular, and Vanilla JavaScript.
 * [Motionary ![GitHub Repo Stars](https://img.shields.io/github/stars/HarrisonCN/Motionary) ![GitHub last commit](https://img.shields.io/github/last-commit/HarrisonCN/Motionary)](https://github.com/HarrisonCN/Motionary) - Scroll animations, animated Web Components and a zero-dependency motion runtime for the web.
+* [exodeui-angular ![GitHub Repo Stars](https://img.shields.io/github/stars/exodeUI/exodeui-angular) ![GitHub last commit](https://img.shields.io/github/last-commit/exodeUI/exodeui-angular)](https://github.com/exodeUI/exodeui-angular) - Angular runtime for the ExodeUI animation engine to render interactive vector animations, physics, and state machines inside standalone components.
 
 ### Calendars
 
@@ -1766,6 +1769,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [layout-virtual ![GitHub Repo Stars](https://img.shields.io/github/stars/itihon/layout-virtual) ![GitHub last commit](https://img.shields.io/github/last-commit/itihon/layout-virtual)](https://github.com/itihon/layout-virtual) - Framework agnostic virtualization engine for responsive list and grid layout.
 * [masonry-angular ![GitHub Repo Stars](https://img.shields.io/github/stars/MeAkib/masonry-angular) ![GitHub last commit](https://img.shields.io/github/last-commit/MeAkib/masonry-angular)](https://github.com/MeAkib/masonry-angular) - Zero-dependency masonry for Angular — signal-based, zoneless and SSR-safe.
 * [ngx-magazine ![GitHub Repo Stars](https://img.shields.io/github/stars/JoseM97/ngx-magazine) ![GitHub last commit](https://img.shields.io/github/last-commit/JoseM97/ngx-magazine)](https://github.com/JoseM97/ngx-magazine) - Angular components for a 3D magazine collection gallery with a modal-based, 3D page-flipping HTML reader.
+* [fold.js ![GitHub Repo Stars](https://img.shields.io/github/stars/christophe77/fold.js) ![GitHub last commit](https://img.shields.io/github/last-commit/christophe77/fold.js)](https://github.com/christophe77/fold.js) - An open-source JavaScript library that makes web apps work properly on foldable phones.
 
 ### Loaders
 
@@ -2024,6 +2028,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-qrcode ![GitHub Repo Stars](https://img.shields.io/github/stars/GNURub/ngx-qrcode) ![GitHub last commit](https://img.shields.io/github/last-commit/GNURub/ngx-qrcode)](https://github.com/GNURub/ngx-qrcode) - A simple Angular 18+ component to generate QR codes. Based on [react-native-qrcode-skia ![GitHub Repo Stars](https://img.shields.io/github/stars/enzomanuelmangano/react-native-qrcode-skia) ![GitHub last commit](https://img.shields.io/github/last-commit/enzomanuelmangano/react-native-qrcode-skia)](https://github.com/enzomanuelmangano/react-native-qrcode-skia) library.
 * [qrcode-angular ![GitHub Repo Stars](https://img.shields.io/github/stars/selfxyz/self) ![GitHub last commit](https://img.shields.io/github/last-commit/selfxyz/self)](https://github.com/selfxyz/self/tree/main/sdk/qrcode-angular) - A streamlined Angular library that creates verification QR codes for [Self.xyz](https://self.xyz/).
 * [qr-code-label-designer ![GitHub Repo Stars](https://img.shields.io/github/stars/shashi089/qr-code-label-designer) ![GitHub last commit](https://img.shields.io/github/last-commit/shashi089/qr-code-label-designer)](https://github.com/shashi089/qr-code-label-designer) - Framework-agnostic QR code label & badge designer for React, Angular, Vue, Svelte, & Node.js.
+* [angular-qr-code-scanner ![GitHub Repo Stars](https://img.shields.io/github/stars/Thai-Informatics-System/angular-qr-code-scanner) ![GitHub last commit](https://img.shields.io/github/last-commit/Thai-Informatics-System/angular-qr-code-scanner)](https://github.com/Thai-Informatics-System/angular-qr-code-scanner) - A lightweight Angular camera QR scanner featuring continuous scanning, touch control, and iOS recovery.
 
 ### Router
 
