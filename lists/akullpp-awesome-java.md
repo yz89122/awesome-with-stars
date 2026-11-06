@@ -540,7 +540,7 @@ _Frameworks and libraries that simplify reading/writing CSV data._
 
 > **[FastCSV ![GitHub Repo Stars](https://img.shields.io/github/stars/osiegmar/FastCSV) ![GitHub last commit](https://img.shields.io/github/last-commit/osiegmar/FastCSV)](https://github.com/osiegmar/FastCSV)** <kbd>★ 692</kbd> <kbd>MIT</kbd> 🟢<br>Performance-optimized, dependency-free and RFC 4180 compliant.
 
-> **[jackson-dataformat-csv ![GitHub Repo Stars](https://img.shields.io/github/stars/FasterXML/jackson-dataformats-text) ![GitHub last commit](https://img.shields.io/github/last-commit/FasterXML/jackson-dataformats-text)](https://github.com/FasterXML/jackson-dataformats-text)** <kbd>★ 455</kbd> <kbd>Apache-2.0</kbd> ����<br>Jackson extension for reading and writing CSV.
+> **[jackson-dataformat-csv ![GitHub Repo Stars](https://img.shields.io/github/stars/FasterXML/jackson-dataformats-text) ![GitHub last commit](https://img.shields.io/github/last-commit/FasterXML/jackson-dataformats-text)](https://github.com/FasterXML/jackson-dataformats-text)** <kbd>★ 455</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Jackson extension for reading and writing CSV.
 
 > **[opencsv](https://opencsv.sourceforge.net)**<br>Simple CSV parser.
 
@@ -1382,7 +1382,7 @@ _Tools that help send messages between clients to ensure protocol independency._
 
 _Tools for creating and managing microservices._
 
-> **[Armeria ![GitHub Repo Stars](https://img.shields.io/github/stars/line/armeria) ![GitHub last commit](https://img.shields.io/github/last-commit/line/armeria)](https://github.com/line/armeria)** <kbd>★ 5.1k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Asynchronous RPC/REST client/server library built on top of Java 8, Netty, HTTP/2, Thrift and gRPC.
+> **[Armeria ![GitHub Repo Stars](https://img.shields.io/github/stars/line/armeria) ![GitHub last commit](https://img.shields.io/github/last-commit/line/armeria)](https://github.com/line/armeria)** <kbd>★ 5.1k</kbd> <kbd>Apache-2.0</kbd> ���<br>Asynchronous RPC/REST client/server library built on top of Java 8, Netty, HTTP/2, Thrift and gRPC.
 
 > **[Eureka ![GitHub Repo Stars](https://img.shields.io/github/stars/Netflix/eureka) ![GitHub last commit](https://img.shields.io/github/last-commit/Netflix/eureka)](https://github.com/Netflix/eureka)** <kbd>★ 12.7k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>REST-based service registry for resilient load balancing and failover.
 

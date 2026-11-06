@@ -184,6 +184,7 @@ This list of tools and software is intended to briefly describe some of the most
 * [warcrefs ![GitHub Repo Stars](https://img.shields.io/github/stars/arcalex/warcrefs) ![GitHub last commit](https://img.shields.io/github/last-commit/arcalex/warcrefs)](https://github.com/arcalex/warcrefs) - Web archive deduplication tools. *(Stable)*
 * [webarchive-indexing ![GitHub Repo Stars](https://img.shields.io/github/stars/ikreymer/webarchive-indexing) ![GitHub last commit](https://img.shields.io/github/last-commit/ikreymer/webarchive-indexing)](https://github.com/ikreymer/webarchive-indexing) - Tools for bulk indexing of WARC/ARC files on Hadoop, EMR or local file system.
 * [wikiteam ![GitHub Repo Stars](https://img.shields.io/github/stars/WikiTeam/wikiteam) ![GitHub last commit](https://img.shields.io/github/last-commit/WikiTeam/wikiteam)](https://github.com/WikiTeam/wikiteam) - Tools for downloading and preserving wikis. *(Stable)*
+* [warc2zip ![GitHub Repo Stars](https://img.shields.io/github/stars/commoncrawl/warc2zip) ![GitHub last commit](https://img.shields.io/github/last-commit/commoncrawl/warc2zip)](http://github.com/commoncrawl/warc2zip) - Tool for converting WARCs to zip files of captures, preserving metadata. *(Stable)*
 
 ### WARC I/O Libraries
 
