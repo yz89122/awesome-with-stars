@@ -1857,6 +1857,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-pro-media-player ![GitHub Repo Stars](https://img.shields.io/github/stars/kamal-dev1/ngx-pro-media-player) ![GitHub last commit](https://img.shields.io/github/last-commit/kamal-dev1/ngx-pro-media-player)](https://github.com/kamal-dev1/ngx-pro-media-player) - Angular media player with audio, video, queue, crossfade, lyrics, and RTL support.
 * [MediaSFU-Angular ![GitHub Repo Stars](https://img.shields.io/github/stars/MediaSFU/MediaSFU-Angular) ![GitHub last commit](https://img.shields.io/github/last-commit/MediaSFU/MediaSFU-Angular)](https://github.com/MediaSFU/MediaSFU-Angular) - Angular SDK for WebRTC video conferencing, webinars, livestreams, chat, screen sharing, recording, breakout rooms, whiteboards, polls, live subtitles, and translation.
 * [ngx-sync-videos ![GitHub Repo Stars](https://img.shields.io/github/stars/goodbaguette/ngx-sync-videos) ![GitHub last commit](https://img.shields.io/github/last-commit/goodbaguette/ngx-sync-videos)](https://github.com/goodbaguette/ngx-sync-videos) - An Angular directive to simultaneously play, synchronize, and offset multiple videos.
+* [PanelWave Player ![GitHub Repo Stars](https://img.shields.io/github/stars/panelwave/player) ![GitHub last commit](https://img.shields.io/github/last-commit/panelwave/player)](https://github.com/panelwave/player) - Open-source Angular library for rendering interactive graphic novels in the PanelWave JSON format.
 
 ### Mixed Utilities
 
