@@ -343,6 +343,7 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 - [upyesp/epher.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/upyesp/epher.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/upyesp/epher.nvim)](https://github.com/upyesp/epher.nvim) - Calculator language with answers inline, LSP server glue, and syntax for `.epher` scripts.
 - [dobsontom/dbt-ft.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/dobsontom/dbt-ft.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/dobsontom/dbt-ft.nvim)](https://github.com/dobsontom/dbt-ft.nvim) - Jinja-aware filetype for `dbt` models, with Tree-sitter support for highlighting, folding, and indentation.
 - [alessandropietrobelli/dotnet-tree.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/alessandropietrobelli/dotnet-tree.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/alessandropietrobelli/dotnet-tree.nvim)](https://github.com/alessandropietrobelli/dotnet-tree.nvim) - A `.NET` solution explorer as a neo-tree source, showing solution folders, projects, project references and package versions, with support for many `dotnet` actions.
+- [alessandropietrobelli/dotnet-counters.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/alessandropietrobelli/dotnet-counters.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/alessandropietrobelli/dotnet-counters.nvim)](https://github.com/alessandropietrobelli/dotnet-counters.nvim) - Live .NET runtime metrics (CPU, memory, GC, exceptions, HTTP latency) drawn as graphs in a side panel that opens with `nvim-dap` debug sessions.
 
 
 ### Golang
@@ -1897,6 +1898,7 @@ then it is not supported:
 - [plutowang/nvim.pack ![GitHub Repo Stars](https://img.shields.io/github/stars/plutowang/nvim.pack) ![GitHub last commit](https://img.shields.io/github/last-commit/plutowang/nvim.pack)](https://github.com/plutowang/nvim.pack) - Declarative, event-driven lazy-loading configuration built purely on native Vim.pack for extreme startup performance.
 - [JimmyPla6z/FireVim](https://gitlab.com/JimmyPla6z/Firevim) - A lightweight, opinionated Neovim distribution with a single `init.lua`, built on Neovim 0.12+.
 - [gamjagoon/earlgrey.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/gamjagoon/earlgrey.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/gamjagoon/earlgrey.nvim)](https://github.com/gamjagoon/earlgrey.nvim) - A focused configuration with terminal agent notifications, per-language LSP controls, and cross-platform installers.
+- [LFSCamargo/nvim.setup ![GitHub Repo Stars](https://img.shields.io/github/stars/LFSCamargo/nvim.setup) ![GitHub last commit](https://img.shields.io/github/last-commit/LFSCamargo/nvim.setup)](https://github.com/LFSCamargo/nvim.setup) - Portable config with a file tree, editor tabs, and independent AI CLI chats in one window.
 <!--lint disable double-link -->
 [**⬆ back to top**](#contents)
 <!--lint enable double-link -->
