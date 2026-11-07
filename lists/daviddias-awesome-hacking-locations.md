@@ -1281,7 +1281,7 @@ Webpage: https://aoccoffee.com/
 
 Wifi | Power | Coffee | Address | Open Hours
 ---- | ----- | ------ | ------- | ----------
-  ✔ | ✔ | great | [444 California Ave, Palo Alto, CA 94301](https://goo.gl/maps/8hugtvc2vUM2) | Mon-Sat 8:00-17:00, Sun 8:00-15:00
+  ��� | ✔ | great | [444 California Ave, Palo Alto, CA 94301](https://goo.gl/maps/8hugtvc2vUM2) | Mon-Sat 8:00-17:00, Sun 8:00-15:00
 
 ![](https://www.speedtest.net/result/7995445392.png)
 
