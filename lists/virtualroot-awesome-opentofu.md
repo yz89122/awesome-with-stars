@@ -109,6 +109,7 @@
 - [setup-opentofu ![GitHub Repo Stars](https://img.shields.io/github/stars/opentofu/setup-opentofu) ![GitHub last commit](https://img.shields.io/github/last-commit/opentofu/setup-opentofu)](https://github.com/opentofu/setup-opentofu) - Set up OpenTofu CLI in your GitHub Actions workflow.
 - [terraform-github-actions ![GitHub Repo Stars](https://img.shields.io/github/stars/dflook/terraform-github-actions) ![GitHub last commit](https://img.shields.io/github/last-commit/dflook/terraform-github-actions)](https://github.com/dflook/terraform-github-actions) - GitHub Actions for OpenTofu.
 - [tofu-controller ![GitHub Repo Stars](https://img.shields.io/github/stars/flux-iac/tofu-controller) ![GitHub last commit](https://img.shields.io/github/last-commit/flux-iac/tofu-controller)](https://github.com/flux-iac/tofu-controller) - GitOps OpenTofu and Terraform controller for Flux.
+- [tofu-garnish ![GitHub Repo Stars](https://img.shields.io/github/stars/lowlydba/tofu-garnish) ![GitHub last commit](https://img.shields.io/github/last-commit/lowlydba/tofu-garnish)](https://github.com/lowlydba/tofu-garnish) - GitHub Action to publish OpenTofu outputs as a static GitHub Pages site.
 - [tofUI ![GitHub Repo Stars](https://img.shields.io/github/stars/65156/tofUI) ![GitHub last commit](https://img.shields.io/github/last-commit/65156/tofUI)](https://github.com/65156/tofUI) - Easily export OpenTofu and Terraform plans in HTML for better readability.
 
 ### Tests
@@ -138,6 +139,7 @@
 
 - [Buddy](https://buddy.works) - Hosted CI/CD platform with native OpenTofu and Terraform plan, apply, and drift-detection actions, approval gates, and locked state storage.
 - [digger ![GitHub Repo Stars](https://img.shields.io/github/stars/diggerhq/digger) ![GitHub last commit](https://img.shields.io/github/last-commit/diggerhq/digger)](https://github.com/diggerhq/digger) - Open-source IaC orchestration tool. Digger allows you to run IaC in your existing CI pipeline.
+- [Kumoss ![GitHub Repo Stars](https://img.shields.io/github/stars/InditexTech/kumoss) ![GitHub last commit](https://img.shields.io/github/last-commit/InditexTech/kumoss)](https://github.com/InditexTech/kumoss) - Open-source, self-hosted AI assistant that plugs into your existing Git, LLM and identity stack, turning plain-language day-2 requests into plan-validated OpenTofu pull requests with drift reconciled.
 - [Semaphore UI](https://semaphoreui.com/) - Self-hosted web UI and API for scheduling and running Ansible, Terraform/OpenTofu and other DevOps automation tasks.
 - [Stackorder ![GitHub Repo Stars](https://img.shields.io/github/stars/stackorder/stackorder) ![GitHub last commit](https://img.shields.io/github/last-commit/stackorder/stackorder)](https://github.com/stackorder/stackorder) - Open-source OpenTofu and Terraform orchestrator on GitHub Actions that resolves cross-stack dependencies and applies changes in waves.
 - [Stategraph](https://stategraph.com) - State backend that eliminates the state file bottleneck. Teams plan in parallel with resource-level locking, and state is queryable via SQL.

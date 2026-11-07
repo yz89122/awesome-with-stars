@@ -38,13 +38,6 @@ Feel free to [contribute ![GitHub Repo Stars](https://img.shields.io/github/star
 
 Frameworks that use semantic HTML and do not rely on classes.
 
-- [**Pico.css**](https://picocss.com/) - Elegant styles for all native HTML elements, dark mode automatically enabled.  
-  ![](https://img.shields.io/github/stars/picocss/pico.svg?style=social&label=Star)
-  [Demo](https://picocss.com/#examples),
-  [Docs](https://picocss.com/docs/),
-  [Repo ![GitHub Repo Stars](https://img.shields.io/github/stars/picocss/pico) ![GitHub last commit](https://img.shields.io/github/last-commit/picocss/pico)](https://github.com/picocss/pico)
-  | #SCSS
-
 - [**MVP.css**](https://andybrewer.github.io/mvp/) - Minimalist stylesheet for HTML elements.  
   ![](https://img.shields.io/github/stars/andybrewer/mvp.svg?style=social&label=Star)
   [Docs](https://andybrewer.github.io/mvp/#docs),
@@ -87,13 +80,6 @@ Frameworks that are smaller than ~10KB.
   [Docs](https://picnicss.com/documentation),
   [Repo ![GitHub Repo Stars](https://img.shields.io/github/stars/franciscop/picnic) ![GitHub last commit](https://img.shields.io/github/last-commit/franciscop/picnic)](https://github.com/franciscop/picnic)
   | #SCSS
-
-- [**Chota**](https://jenil.github.io/chota/) - Really small CSS framework.  
-  ![](https://img.shields.io/github/stars/jenil/chota.svg?style=social&label=Star)
-  [Demo](https://raw.githack.com/jenil/chota/master/test/index.html),
-  [Docs](https://jenil.github.io/chota/#docs),
-  [Repo ![GitHub Repo Stars](https://img.shields.io/github/stars/jenil/chota) ![GitHub last commit](https://img.shields.io/github/last-commit/jenil/chota)](https://github.com/jenil/chota)
-  | #CSS
 
 
 ## General Purpose
@@ -294,6 +280,13 @@ We are keeping them here for reference/inspiration and hope for a revival.
   [Repo ![GitHub Repo Stars](https://img.shields.io/github/stars/material-components/material-components-web) ![GitHub last commit](https://img.shields.io/github/last-commit/material-components/material-components-web)](https://github.com/material-components/material-components-web)
   | #SCSS
 
+- [**Pico.css**](https://picocss.com/) - Elegant styles for all native HTML elements, dark mode automatically enabled.  
+  ![](https://img.shields.io/github/stars/picocss/pico.svg?style=social&label=Star)
+  [Demo](https://picocss.com/#examples),
+  [Docs](https://picocss.com/docs/),
+  [Repo ![GitHub Repo Stars](https://img.shields.io/github/stars/picocss/pico) ![GitHub last commit](https://img.shields.io/github/last-commit/picocss/pico)](https://github.com/picocss/pico)
+  | #SCSS
+
 - [**Tachyons**](https://tachyons.io) - Quickly build and design new UI without writing CSS.  
   ![](https://img.shields.io/github/stars/tachyons-css/tachyons.svg?style=social&label=Star)
   [Demo](https://tachyons.io/gallery/),
@@ -306,11 +299,6 @@ We are keeping them here for reference/inspiration and hope for a revival.
   [Docs](https://www.bourbon.io/docs/latest/),
   [Repo ![GitHub Repo Stars](https://img.shields.io/github/stars/thoughtbot/bourbon) ![GitHub last commit](https://img.shields.io/github/last-commit/thoughtbot/bourbon)](https://github.com/thoughtbot/bourbon/)
   | #SCSS
-
-- [**Water.css**](https://watercss.kognise.dev/) - Just-add-CSS collection of styles to make simple websites just a little nicer.  
-  ![](https://img.shields.io/github/stars/kognise/water.css.svg?style=social&label=Star)
-  [Repo ![GitHub Repo Stars](https://img.shields.io/github/stars/kognise/water.css) ![GitHub last commit](https://img.shields.io/github/last-commit/kognise/water.css)](https://github.com/kognise/water.css)
-  | #CSS
 
 - [**sanitize.css**](https://csstools.github.io/sanitize.css/) - The best-practices CSS foundation.  
   ![](https://img.shields.io/github/stars/csstools/sanitize.css.svg?style=social&label=Star)
@@ -329,6 +317,13 @@ We are keeping them here for reference/inspiration and hope for a revival.
 
 - [**CSS Remedy** ![GitHub Repo Stars](https://img.shields.io/github/stars/jensimmons/cssremedy) ![GitHub last commit](https://img.shields.io/github/last-commit/jensimmons/cssremedy)](https://github.com/jensimmons/cssremedy) - Start your project with a remedy for the technical debt of CSS.  
   ![](https://img.shields.io/github/stars/jensimmons/cssremedy.svg?style=social&label=Star)
+  | #CSS
+
+- [**Chota**](https://jenil.github.io/chota/) - Really small CSS framework.  
+  ![](https://img.shields.io/github/stars/jenil/chota.svg?style=social&label=Star)
+  [Demo](https://raw.githack.com/jenil/chota/master/test/index.html),
+  [Docs](https://jenil.github.io/chota/#docs),
+  [Repo ![GitHub Repo Stars](https://img.shields.io/github/stars/jenil/chota) ![GitHub last commit](https://img.shields.io/github/last-commit/jenil/chota)](https://github.com/jenil/chota)
   | #CSS
 
 - [**Blaze UI**](https://www.blazeui.com) - Open source modular toolkit providing great structure for building websites quickly with a scalable and maintainable foundation.  
