@@ -3,24 +3,16 @@
 
 <p align="center">
   <a href="https://github.com/sindresorhus/awesome"><img alt="awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" /></a>
-  <a href="https://travis-ci.org/JStumpp/awesome-android"><img alt="Build Status" src="https://api.travis-ci.org/JStumpp/awesome-android.svg?branch=master" /></a>
+  <a href="https://github.com/JStumpp/awesome-android/actions/workflows/awesome-lint.yml"><img alt="Awesome Lint" src="https://github.com/JStumpp/awesome-android/actions/workflows/awesome-lint.yml/badge.svg" /></a>
   <img alt="PRs Welcome" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" />
 </p>
 
 # About
 A curated list of awesome Android [libraries](#libraries) and [resources](#resources). For general Java libraries have a look at [awesome-java ![GitHub Repo Stars](https://img.shields.io/github/stars/akullpp/awesome-java) ![GitHub last commit](https://img.shields.io/github/last-commit/akullpp/awesome-java)](https://github.com/akullpp/awesome-java).
 
-## Supported with ❤️ by [Instabug](https://instabug.com/android/sdk?utm_source=toolsofthetrade&utm_medium=spon&utm_content=header)
-### Understand How Your Android App is Doing with Real-Time Contextual Insights From Your Users
-[![instabug-github](https://user-images.githubusercontent.com/10850625/65512691-fd45f280-ded9-11e9-8921-3528b98c30a7.png)](https://instabug.com/android/sdk?utm_source=awesomeandroid&utm_medium=spon&utm_content=banner)
->Instabug helps Android developers and product teams easily collect bugs and feedback from beta testers and users to iterate faster and ship quality apps. Instabug automatically attaches screenshots, device details, network logs, repro steps, and tons of other critical insights needed to resolve issues and prioritize product backlogs. 
-> Mobile teams accelerate their workflows by seamlessly integrating with third-party tools like Github, Jira, Slack, Zendesk and much more. [Instabug is offering Awesome Android community an exclusive 15% discount on all paid plans. Get Started!](https://instabug.com/android/sdk/?utm_source=awesomeandroid&utm_medium=spon&utm_content=get-started)
-[![](https://instabug-ga.appspot.com/UA-41982088-6/github/awesomeandroid?pixel)](https://instabug.com)
-
-
 # How to Use
 Awesome-Android is an amazing list for people who need a certain feature on their app, so the best ways to use are:
- - Simply press command + F to search for a keyword
+ - Simply press <kbd>Ctrl</kbd> + <kbd>F</kbd> (or <kbd>⌘</kbd> + <kbd>F</kbd> on macOS) to search for a keyword
  - Go through our Content Menu
 
 # Content
@@ -71,16 +63,17 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
     - [C#](#c)
     - [HTML, CSS and Javascript](#html-css-and-javascript)
     - [Lua](#lua)
+    - [Python](#python)
     - [Scala](#scala)
     - [Groovy](#groovy)
     - [Kotlin](#kotlin)
     - [Flutter](#flutter)
 - [Performance](#performance)
+- [Shrinking](#shrinking)
 - [Other Awesome Lists](#other-awesome-lists)
 - [Contributing](#contributing)
 
 ## Emulators
-- [AndY](https://andyroid.net)
 - [ARChon](https://archon-runtime.github.io)
 - [BlueStacks](https://www.bluestacks.com)
 - [Genymotion](https://www.genymotion.com)
@@ -124,9 +117,10 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 - [Libgdx](https://libgdx.badlogicgames.com/) - Cross-platform game engine and SDK. [Open Source ![GitHub Repo Stars](https://img.shields.io/github/stars/libGDX/libGDX) ![GitHub last commit](https://img.shields.io/github/last-commit/libGDX/libGDX)](https://github.com/libGDX/libGDX)
 - [Vuforia](https://www.vuforia.com/) - Augmented Reality library.
 - [Unity](https://unity3d.com/unity/features/multiplatform) - Cross-platform game creation system.
-- [Rajawali ![GitHub Repo Stars](https://img.shields.io/github/stars/Rajawali/Rajawali) ![GitHub last commit](https://img.shields.io/github/last-commit/Rajawali/Rajawali)](https://github.com/Rajawali/Rajawali) - Android OpenGL ES 2.0/3.0 Engine
+- [Rajawali ![GitHub Repo Stars](https://img.shields.io/github/stars/Rajawali/Rajawali) ![GitHub last commit](https://img.shields.io/github/last-commit/Rajawali/Rajawali)](https://github.com/Rajawali/Rajawali) - Android OpenGL ES 2.0/3.0 Engine.
 - [Cocos2d-x](https://cocos2d-x.org/) - Cross-platform 2d game framework.
 - [JustWeEngine ![GitHub Repo Stars](https://img.shields.io/github/stars/lfkdsk/JustWeEngine) ![GitHub last commit](https://img.shields.io/github/last-commit/lfkdsk/JustWeEngine)](https://github.com/lfkdsk/JustWeEngine) - An easy open source Android Native Game FrameWork.
+- [Godot ![GitHub Repo Stars](https://img.shields.io/github/stars/godotengine/godot) ![GitHub last commit](https://img.shields.io/github/last-commit/godotengine/godot)](https://github.com/godotengine/godot) - Cross-platform 2/3D game engine with an IDE and under MIT license.
 
 ### Security
 
@@ -148,7 +142,6 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 - [SwipeableCard ![GitHub Repo Stars](https://img.shields.io/github/stars/michelelacorte/SwipeableCard) ![GitHub last commit](https://img.shields.io/github/last-commit/michelelacorte/SwipeableCard)](https://github.com/michelelacorte/SwipeableCard) - Implementation of swipe card like StreetView!!
 - [ElasticProgressBar ![GitHub Repo Stars](https://img.shields.io/github/stars/michelelacorte/ElasticProgressBar) ![GitHub last commit](https://img.shields.io/github/last-commit/michelelacorte/ElasticProgressBar)](https://github.com/michelelacorte/ElasticProgressBar) - Beautiful loading bar.
 - [EntryScreenManager ![GitHub Repo Stars](https://img.shields.io/github/stars/kunall17/EntryScreenManager) ![GitHub last commit](https://img.shields.io/github/last-commit/kunall17/EntryScreenManager)](https://github.com/kunall17/EntryScreenManager) - Intro/Entry/Walkthrough/Starting Screens.
-- [EasyIntro ![GitHub Repo Stars](https://img.shields.io/github/stars/meNESS/EasyIntro) ![GitHub last commit](https://img.shields.io/github/last-commit/meNESS/EasyIntro)](https://github.com/meNESS/EasyIntro) - The flexible, easy to use, all in one app intro library for your Android project.
 - [Material-Calendar-View ![GitHub Repo Stars](https://img.shields.io/github/stars/BlackBoxVision/material-calendar-view) ![GitHub last commit](https://img.shields.io/github/last-commit/BlackBoxVision/material-calendar-view)](https://github.com/BlackBoxVision/material-calendar-view) - Material Design Calendar compatible with API 8+
 - [CrunchyCalendar ![GitHub Repo Stars](https://img.shields.io/github/stars/CleverPumpkin/CrunchyCalendar) ![GitHub last commit](https://img.shields.io/github/last-commit/CleverPumpkin/CrunchyCalendar)](https://github.com/CleverPumpkin/CrunchyCalendar) - A material calendar widget with infinite scrolling, date range selection and color customization.
 - [SmoothOverscrollableScrollView ![GitHub Repo Stars](https://img.shields.io/github/stars/vovaksenov99/OverscrollableScrollView) ![GitHub last commit](https://img.shields.io/github/last-commit/vovaksenov99/OverscrollableScrollView)](https://github.com/vovaksenov99/OverscrollableScrollView) - Small custom view with smooth overscroll. You can add header with scale background
@@ -174,6 +167,7 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 - [Flashbar ![GitHub Repo Stars](https://img.shields.io/github/stars/aritraroy/Flashbar) ![GitHub last commit](https://img.shields.io/github/last-commit/aritraroy/Flashbar)](https://github.com/aritraroy/Flashbar) - A highly customizable, powerful and easy-to-use alerting library for Android.
 - [YuanaItemSettingView ![GitHub Repo Stars](https://img.shields.io/github/stars/andhikayuana/YuanaItemSettingView) ![GitHub last commit](https://img.shields.io/github/last-commit/andhikayuana/YuanaItemSettingView)](https://github.com/andhikayuana/YuanaItemSettingView) - Customizable Item Setting View for Android.
 - [Gradients ![GitHub Repo Stars](https://img.shields.io/github/stars/bakhtiyork/gradients) ![GitHub last commit](https://img.shields.io/github/last-commit/bakhtiyork/gradients)](https://github.com/bakhtiyork/gradients) - A curated collection of splendid gradients.
+- [Liquid-Glass-Android ![GitHub Repo Stars](https://img.shields.io/github/stars/QWEA0/Liquid-Glass-Android) ![GitHub last commit](https://img.shields.io/github/last-commit/QWEA0/Liquid-Glass-Android)](https://github.com/QWEA0/Liquid-Glass-Android) - Liquid glass effect for the Android View system.
 - [OneAdapter ![GitHub Repo Stars](https://img.shields.io/github/stars/ironSource/OneAdapter) ![GitHub last commit](https://img.shields.io/github/last-commit/ironSource/OneAdapter)](https://github.com/ironSource/OneAdapter) - RecyclerView Adapter with multiple modules and hooks to simplify and enhance the use while preventing common mistakes.
 
 #### Paginate
@@ -267,6 +261,7 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 - [Catcho ![GitHub Repo Stars](https://img.shields.io/github/stars/alhazmy13/Catcho) ![GitHub last commit](https://img.shields.io/github/last-commit/alhazmy13/Catcho)](https://github.com/alhazmy13/Catcho) - No Force Close any more.
 - [Apteligent](https://www.apteligent.com/) - Cross platform crash reporting/analytics solution. Supports NDK log.
 - [Instabug](https://instabug.com/) - Bug reporting, Crash Reporting, In-app Feedback.
+- [Measure ![GitHub Repo Stars](https://img.shields.io/github/stars/measure-sh/measure) ![GitHub last commit](https://img.shields.io/github/last-commit/measure-sh/measure)](https://github.com/measure-sh/measure/) - Open source tool to monitor crashes, ANRs, and performance of mobile apps. Can be self-hosted.
 
 ### Networking
 
@@ -295,7 +290,6 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 - [Android HeartBeat Fixer ![GitHub Repo Stars](https://img.shields.io/github/stars/joaopedronardari/AndroidHeartBeatFixer) ![GitHub last commit](https://img.shields.io/github/last-commit/joaopedronardari/AndroidHeartBeatFixer)](https://github.com/joaopedronardari/AndroidHeartBeatFixer) - Way to set heartbeat interval and users receive PushNotifications from GCM.
 
 ### Database
-- [Cupboard](https://bitbucket.org/littlerobots/cupboard) - Access the sqlite easily via direct database access or through the ContentProvider framework.
 - [DbInspector ![GitHub Repo Stars](https://img.shields.io/github/stars/infinum/android_dbinspector) ![GitHub last commit](https://img.shields.io/github/last-commit/infinum/android_dbinspector)](https://github.com/infinum/android_dbinspector) - Provides a simple way to view the contents of the in-app database for debugging purposes.
 - [SQLite Asset Helper ![GitHub Repo Stars](https://img.shields.io/github/stars/jgilfelt/android-sqlite-asset-helper) ![GitHub last commit](https://img.shields.io/github/last-commit/jgilfelt/android-sqlite-asset-helper)](https://github.com/jgilfelt/android-sqlite-asset-helper) - manage database creation and version management using an application's raw asset files.
 - [Realm ![GitHub Repo Stars](https://img.shields.io/github/stars/realm/realm-java) ![GitHub last commit](https://img.shields.io/github/last-commit/realm/realm-java)](https://github.com/realm/realm-java) - The alternative to SQLite and ORMs: Simple, modern and fast! Object oriented API and multi platform support.
@@ -309,7 +303,6 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 - [GreenDAO](http://greenrobot.org/greendao/) - Light & fast ORM solution.
 - [ORMLite](http://ormlite.com/sqlite_java_android_orm.shtml) - Lightweight ORM Java package for JDBC and Android.
 - [ActiveAndroid](http://www.activeandroid.com) - Active record style ORM.
-- [Sugar ORM](http://satyan.github.io/sugar/) - Insanely easy way to work with Android Databases.
 - [DBFlow ![GitHub Repo Stars](https://img.shields.io/github/stars/agrosner/DBFlow) ![GitHub last commit](https://img.shields.io/github/last-commit/agrosner/DBFlow)](https://github.com/agrosner/DBFlow) - Fast and powerful ORM with compile-time annotation processing.
 - [NexusData ![GitHub Repo Stars](https://img.shields.io/github/stars/dkharrat/NexusData) ![GitHub last commit](https://img.shields.io/github/last-commit/dkharrat/NexusData)](https://github.com/dkharrat/NexusData) - Object graph and persistence framework for Android.
 - [SimpleNoSQL ![GitHub Repo Stars](https://img.shields.io/github/stars/Jearil/SimpleNoSQL) ![GitHub last commit](https://img.shields.io/github/last-commit/Jearil/SimpleNoSQL)](https://github.com/Jearil/SimpleNoSQL) - A simple NoSQL client for Android. Meant as a document store using key/value pairs and some rudimentary querying. Useful for avoiding the hassle of SQL code.
@@ -325,7 +318,9 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 - [Robotium ![GitHub Repo Stars](https://img.shields.io/github/stars/robotiumtech/robotium) ![GitHub last commit](https://img.shields.io/github/last-commit/robotiumtech/robotium)](https://github.com/robotiumtech/robotium) - Test automation framework for black-box UI tests.
 - [Roboletric](http://robolectric.org/) - Unit test framework to run tests inside the JVM on your workstation, not in the emulator.
 - [AssertJ Android ![GitHub Repo Stars](https://img.shields.io/github/stars/square/assertj-android) ![GitHub last commit](https://img.shields.io/github/last-commit/square/assertj-android)](https://github.com/square/assertj-android) - AssertJ assertions geared towards Android.
+- [Ghost in the Droid ![GitHub Repo Stars](https://img.shields.io/github/stars/ghost-in-the-droid/android-agent) ![GitHub last commit](https://img.shields.io/github/last-commit/ghost-in-the-droid/android-agent)](https://github.com/ghost-in-the-droid/android-agent) - Python MCP server for AI agent control of Android and iOS devices via ADB and WebDriverAgent.
 - [Green Coffee ![GitHub Repo Stars](https://img.shields.io/github/stars/mauriciotogneri/green-coffee) ![GitHub last commit](https://img.shields.io/github/last-commit/mauriciotogneri/green-coffee)](https://github.com/mauriciotogneri/green-coffee) - Run your Cucumber tests in your Android instrumentation tests.
+- [Droidline ![GitHub Repo Stars](https://img.shields.io/github/stars/KnifeLemon/Droidline) ![GitHub last commit](https://img.shields.io/github/last-commit/KnifeLemon/Droidline)](https://github.com/KnifeLemon/Droidline) - Automate real Android phones from Python, Node.js, C# or a CLI over Wi-Fi, without ADB or root.
 
 ### Tracking
 
@@ -367,6 +362,7 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 - [Android Debug Database ![GitHub Repo Stars](https://img.shields.io/github/stars/amitshekhariitbhu/Android-Debug-Database) ![GitHub last commit](https://img.shields.io/github/last-commit/amitshekhariitbhu/Android-Debug-Database)](https://github.com/amitshekhariitbhu/Android-Debug-Database) - Android Debug Database is a powerful library for debugging databases and shared preferences in Android applications.
 - [Android Debug Bridge - ADB ![GitHub Repo Stars](https://img.shields.io/github/stars/mzlogin/awesome-adb) ![GitHub last commit](https://img.shields.io/github/last-commit/mzlogin/awesome-adb)](https://github.com/mzlogin/awesome-adb/blob/master/README.en.md) - a command-line tool to assist in debugging Android-powered devices
 - [ADB Enhanced ![GitHub Repo Stars](https://img.shields.io/github/stars/ashishb/adb-enhanced) ![GitHub last commit](https://img.shields.io/github/last-commit/ashishb/adb-enhanced)](https://github.com/ashishb/adb-enhanced) - a command-line wrapper around ADB for developers, so that, developers don't have to remember esoteric version-dependent commands
+- [handsets ![GitHub Repo Stars](https://img.shields.io/github/stars/elliotgao2/handsets) ![GitHub last commit](https://img.shields.io/github/last-commit/elliotgao2/handsets)](https://github.com/elliotgao2/handsets) - Android control CLI that drives devices over ADB with no APK required.
 - [Pidcat ![GitHub Repo Stars](https://img.shields.io/github/stars/JakeWharton/pidcat) ![GitHub last commit](https://img.shields.io/github/last-commit/JakeWharton/pidcat)](https://github.com/JakeWharton/pidcat) - a colored command-line ADB wrapper that only shows log entries for a specific application package
 - [AppSpector](https://appspector.com) - Remote Android and iOS debugging and data collection service. You can debug networking, logs, SQLite and mock device's geo location.
 
@@ -377,7 +373,6 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 
 ### Chat & Messaging
 
-- [Applozic Android Chat SDK ![GitHub Repo Stars](https://img.shields.io/github/stars/AppLozic/Applozic-Android-SDK) ![GitHub last commit](https://img.shields.io/github/last-commit/AppLozic/Applozic-Android-SDK)](https://github.com/AppLozic/Applozic-Android-SDK) - Android Chat and Messaging SDK for adding real time chat and in-app messaging into your android application.
 - [Qiscus SDK ![GitHub Repo Stars](https://img.shields.io/github/stars/qiscus/qiscus-sdk-android) ![GitHub last commit](https://img.shields.io/github/last-commit/qiscus/qiscus-sdk-android)](https://github.com/qiscus/qiscus-sdk-android) - Qiscus SDK is a lightweight and powerful android chat library. Qiscus SDK will allow you to easily integrating Qiscus engine with your apps to make cool chatting application.
 - [Kommunicate Live Chat SDK ![GitHub Repo Stars](https://img.shields.io/github/stars/Kommunicate-io/Kommunicate-Android-Chat-SDK) ![GitHub last commit](https://img.shields.io/github/last-commit/Kommunicate-io/Kommunicate-Android-Chat-SDK)](https://github.com/Kommunicate-io/Kommunicate-Android-Chat-SDK) - Kommunicate provides open source live chat sdk in android. Kommunicate lets you add real time live chat and in-app messaging in your mobile (android, iOS) applications and website for customer support.
 - [CometChat Voice, Video and Text Chat SDK with UI ![GitHub Repo Stars](https://img.shields.io/github/stars/cometchat-go/android-chat-sdk-demo) ![GitHub last commit](https://img.shields.io/github/last-commit/cometchat-go/android-chat-sdk-demo)](https://github.com/cometchat-go/android-chat-sdk-demo) - Add voice, video and text chat to your app (and website) in minutes using CometChat. CometChat's SDK includes a complete ready UI so that you don't have to spend any time building one! That's not all, CometChat has out-of-the-box support for real-time translation, whiteboards, screen sharing, friends sync, role based access control, credits deduction and more.
@@ -430,7 +425,7 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 - [Easy Rating Dialog ![GitHub Repo Stars](https://img.shields.io/github/stars/fernandodev/easy-rating-dialog) ![GitHub last commit](https://img.shields.io/github/last-commit/fernandodev/easy-rating-dialog)](https://github.com/fernandodev/easy-rating-dialog) - Lib provides a simple way to display an alert dialog for rating app.
 - [ZXing Android-Integration ![GitHub Repo Stars](https://img.shields.io/github/stars/zxing/zxing) ![GitHub last commit](https://img.shields.io/github/last-commit/zxing/zxing)](https://github.com/zxing/zxing) - Integration with Barcode Scanner via Intent.
 - [Gradle Retrolambda Plugin ![GitHub Repo Stars](https://img.shields.io/github/stars/evant/gradle-retrolambda) ![GitHub last commit](https://img.shields.io/github/last-commit/evant/gradle-retrolambda)](https://github.com/evant/gradle-retrolambda) - Java 8 Lambdas on Android!
-- [RxJava ![GitHub Repo Stars](https://img.shields.io/github/stars/ReactiveX/RxJava) ![GitHub last commit](https://img.shields.io/github/last-commit/ReactiveX/RxJava)](https://github.com/ReactiveX/RxJava)- RxJava – Reactive Extensions for the JVM ��� a library for composing asynchronous and event-based programs using observable sequences for the Java VM.
+- [RxJava ![GitHub Repo Stars](https://img.shields.io/github/stars/ReactiveX/RxJava) ![GitHub last commit](https://img.shields.io/github/last-commit/ReactiveX/RxJava)](https://github.com/ReactiveX/RxJava)- RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.
 - [RxAndroid ![GitHub Repo Stars](https://img.shields.io/github/stars/ReactiveX/RxAndroid) ![GitHub last commit](https://img.shields.io/github/last-commit/ReactiveX/RxAndroid)](https://github.com/ReactiveX/RxAndroid) - Adds minimum RxJava bindings for easy writing of reactive Android java code.
 - [RxBinding ![GitHub Repo Stars](https://img.shields.io/github/stars/JakeWharton/RxBinding) ![GitHub last commit](https://img.shields.io/github/last-commit/JakeWharton/RxBinding)](https://github.com/JakeWharton/RxBinding)- RxBinding – RxJava binding APIs for Android UI widgets from the platform and support libraries.
 - [Caffeine ![GitHub Repo Stars](https://img.shields.io/github/stars/percolate/caffeine) ![GitHub last commit](https://img.shields.io/github/last-commit/percolate/caffeine)](https://github.com/percolate/caffeine) - A collection of utility classes that help make Android development faster.
@@ -452,6 +447,7 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 
 - [Programming Community Curated Resources for Learning Android Development](https://hackr.io/tutorials/learn-android-development) - Android Tutorials & Courses submitted and voted by the programming community.
 - [Vogella Tutorials](https://www.vogella.com/tutorials/android.html) - Very good tutorials by Lars Vogel.
+- [Android API Levels](https://apilevels.com/) - A quick reference table of Android versions with SDK & API levels, version codes, codenames, cumulative usage, and more.
 - [Android Design in Action Video series](https://www.youtube.com/playlist?list=PLWz5rJ2EKKc8j2B95zGMb8muZvrIy-wcF) The video series by Android Design Team of Google.
 - [Android DevBytes Video Series](https://www.youtube.com/playlist?list=PLWz5rJ2EKKc_XOgcRukSoKKjewFJZrKV0) - It is the technical counterpart of Android Design in Action series.
 - [Developing for Android](https://medium.com/google-developers/developing-for-android-introduction-5345b451567c) - A series of articles from Googler Chet Hasae and others, answering most commonly asked question: "What are some of the important rules to keep in mind when developing Android applications?".
@@ -471,6 +467,7 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 - [Mindorks](https://mindorks.com/) - Become a complete and happy Android developer.
 - [AndroidVille](https://ayusch.com/) - Become a better Android Engineer. A website dedicated to Android Development covering advanced topics such as RxJava, Android Zygote and much more.
 - [Android Stack Weekly](https://blog.canopas.com/tagged/canopas-android-weekly) - A weekly newsletter on new development and updates of Android universe.
+- [Roadmap.sh Android Roadmap](https://roadmap.sh/android) - Community-created Android developer roadmap.
 
 ### Code examples
 - [Android Architecture Blueprints ![GitHub Repo Stars](https://img.shields.io/github/stars/android/architecture-samples) ![GitHub last commit](https://img.shields.io/github/last-commit/android/architecture-samples)](https://github.com/android/architecture-samples) - The Android Architecture Blueprints project demonstrates strategies to help solve or avoid common android problems.
@@ -496,7 +493,7 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 
 ## Development Alternatives
 
-My personal recommendation is (for now) to use the android api to build a native app. Scala can help to build this native apps with cleaner code but it adds to many methods (Multidex required). Kotlin is a modern language with 100% interoperatibility with java projects **without multidex**. But there are also use cases where alternatives like cross-platform development can be useful.
+My personal recommendation is (for now) to use the Android SDK to build a native app. Scala and Kotlin are both options; multidex requirements depend on an app's method-reference count and minimum SDK level, not its language. Cross-platform alternatives can also be useful when they fit a project's requirements.
 
 ### C&#35;
 
@@ -515,6 +512,11 @@ My personal recommendation is (for now) to use the android api to build a native
 ### Lua
 - [Corona SDK](https://coronalabs.com/product/) - Framework to create native iOS and Android Apps (especially Games).
 
+### Python
+- [BeeWare ![GitHub Repo Stars](https://img.shields.io/github/stars/beeware/toga) ![GitHub last commit](https://img.shields.io/github/last-commit/beeware/toga)](https://github.com/beeware/toga) - Write native Android apps in Python using Toga and Briefcase.
+- [Flet ![GitHub Repo Stars](https://img.shields.io/github/stars/flet-dev/flet) ![GitHub last commit](https://img.shields.io/github/last-commit/flet-dev/flet)](https://github.com/flet-dev/flet) - Build Flutter apps using Python.
+- [Kivy ![GitHub Repo Stars](https://img.shields.io/github/stars/kivy/kivy) ![GitHub last commit](https://img.shields.io/github/last-commit/kivy/kivy)](https://github.com/kivy/kivy) - Open source Python framework for Android apps, packaged with Buildozer.
+
 ### Scala
 - [Scaloid ![GitHub Repo Stars](https://img.shields.io/github/stars/pocorall/scaloid) ![GitHub last commit](https://img.shields.io/github/last-commit/pocorall/scaloid)](https://github.com/pocorall/scaloid) - Library for less painful Android development with Scala.
 - [Macroid ![GitHub Repo Stars](https://img.shields.io/github/stars/47deg/macroid) ![GitHub last commit](https://img.shields.io/github/last-commit/47deg/macroid)](https://github.com/47deg/macroid) - A modular functional UI language for Android.
@@ -530,6 +532,7 @@ My personal recommendation is (for now) to use the android api to build a native
 - [Android Kotlin Samples ![GitHub Repo Stars](https://img.shields.io/github/stars/irontec/android-kotlin-samples) ![GitHub last commit](https://img.shields.io/github/last-commit/irontec/android-kotlin-samples)](https://github.com/irontec/android-kotlin-samples) - Some basic Android code samples written in Kotlin.
 - [Kotlin coding puzzles ![GitHub Repo Stars](https://img.shields.io/github/stars/igorwojda/kotlin-coding-puzzle) ![GitHub last commit](https://img.shields.io/github/last-commit/igorwojda/kotlin-coding-puzzle)](https://github.com/igorwojda/kotlin-coding-puzzle) - Set of programming challenges thats helps to improve whiteboard coding and problem-solving skills.
 - [KAndroid ![GitHub Repo Stars](https://img.shields.io/github/stars/pawegio/KAndroid) ![GitHub last commit](https://img.shields.io/github/last-commit/pawegio/KAndroid)](https://github.com/pawegio/KAndroid) - Lightweight library providing useful extensions to eliminate boilerplate code in Android SDK.
+- [KuiklyUI ![GitHub Repo Stars](https://img.shields.io/github/stars/Tencent-TDS/KuiklyUI) ![GitHub last commit](https://img.shields.io/github/last-commit/Tencent-TDS/KuiklyUI)](https://github.com/Tencent-TDS/KuiklyUI) - Kotlin Multiplatform UI framework supporting Android, iOS, and other platforms.
 - [RxKotlin/Pocket ![GitHub Repo Stars](https://img.shields.io/github/stars/RxKotlin/Pocket) ![GitHub last commit](https://img.shields.io/github/last-commit/RxKotlin/Pocket)](https://github.com/RxKotlin/Pocket) - This app help user to save links easily, and can export to Evernote as weekly.
 - [Android Clean Architecture - Kotlin ![GitHub Repo Stars](https://img.shields.io/github/stars/patrickyin/clean-architecture-android-kotlin) ![GitHub last commit](https://img.shields.io/github/last-commit/patrickyin/clean-architecture-android-kotlin)](https://github.com/patrickyin/clean-architecture-android-kotlin) - A base project using the Uncle Bob's clean architecture with Kotlin language and the latest Android technologies.
 - [Koin](https://insert-koin.io/) - Lightweight dependency injection framework for Kotlin
@@ -541,6 +544,12 @@ My personal recommendation is (for now) to use the android api to build a native
 # Performance
 - [awesome-android-performance ![GitHub Repo Stars](https://img.shields.io/github/stars/Juude/awesome-android-performance) ![GitHub last commit](https://img.shields.io/github/last-commit/Juude/awesome-android-performance)](https://github.com/Juude/awesome-android-performance) - A list of awesome Android tutorials, videos and tools for performance optimization.
 - [Booster ![GitHub Repo Stars](https://img.shields.io/github/stars/didi/booster) ![GitHub last commit](https://img.shields.io/github/last-commit/didi/booster)](https://github.com/didi/booster) - Booster is an optimization toolkit for Android applications.
+
+# Shrinking
+
+- [ProGuard](https://www.guardsquare.com/proguard) - Open-source Java bytecode optimizer and shrinker for Android apps.
+- [R8](https://developer.android.com/studio/build/shrink-code) - Default code shrinker and optimizer for Android apps.
+- [ProGuard Playground](https://playground.proguard.com/) - Interactive online tool for visualizing and testing ProGuard and R8 keep rules.
 
 # Other Awesome Lists
 Other amazingly awesome lists can be found in the [awesome-awesomeness ![GitHub Repo Stars](https://img.shields.io/github/stars/bayandin/awesome-awesomeness) ![GitHub last commit](https://img.shields.io/github/last-commit/bayandin/awesome-awesomeness)](https://github.com/bayandin/awesome-awesomeness) list.

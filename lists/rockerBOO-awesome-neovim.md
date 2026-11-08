@@ -1353,6 +1353,7 @@ then it is not supported:
 - [taigrr/glaze.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/taigrr/glaze.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/taigrr/glaze.nvim)](https://github.com/taigrr/glaze.nvim) - Centralized manager for Go binaries, with parallel installs, auto-update checking, and a Mason-style UI.
 - [jpease/hex-outdated.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/jpease/hex-outdated.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/jpease/hex-outdated.nvim)](https://github.com/jpease/hex-outdated.nvim) - Display latest Hex package version and status as virtual text in `mix.exs`.
 - [mm4cN/nvim-conan ![GitHub Repo Stars](https://img.shields.io/github/stars/mm4cN/nvim-conan) ![GitHub last commit](https://img.shields.io/github/last-commit/mm4cN/nvim-conan)](https://github.com/mm4cN/nvim-conan) - Conan 2 integration for managing profiles, packages, remotes, dependencies, and common C/C++ package workflows.
+- [alessandropietrobelli/nuget.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/alessandropietrobelli/nuget.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/alessandropietrobelli/nuget.nvim)](https://github.com/alessandropietrobelli/nuget.nvim) - NuGet package manager for .NET solutions.
 <!--lint disable double-link -->
 [**⬆ back to top**](#contents)
 <!--lint enable double-link -->
