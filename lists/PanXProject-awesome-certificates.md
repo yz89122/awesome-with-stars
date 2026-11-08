@@ -215,7 +215,7 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
 | <a href="https://www.life-global.org/course/333-circular-economy" target="_blank" rel="noopener noreferrer"> Circular Economy </a> | HP / Life Global | Beginner | 0.5 | 🏆 |
 | <a href="https://www.life-global.org/course/24-cash-flow" target="_blank" rel="noopener noreferrer"> Cash Flow </a> | HP / Life Global | Beginner | 0.5 | 🏆 |
-| <a href="https://www.life-global.org/course/21-basics-of-finance" target="_blank" rel="noopener noreferrer"> Basics of Finance </a> | HP / Life Global | Beginner | 0.5 | 🏆 |
+| <a href="https://www.life-global.org/course/21-basics-of-finance" target="_blank" rel="noopener noreferrer"> Basics of Finance </a> | HP / Life Global | Beginner | 0.5 | �� |
 | <a href="https://www.life-global.org/course/20-profit-and-loss" target="_blank" rel="noopener noreferrer"> Profit and Loss </a> | HP / Life Global | Beginner | 0.5 | 🏆 |
 
 <a href="https://github.com/PanXProject/awesome-certificates?tab=readme-ov-file#contents" target="_blank" rel="noopener noreferrer">⬆️</a>
