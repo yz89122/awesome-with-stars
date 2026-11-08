@@ -315,7 +315,7 @@ Pull requests are welcome with the condition that the resource should be free! P
 
 **Inspired by** <https://skerritt.blog/free-rooms/>
 
-### Contributors & stargazers ���
+### Contributors & stargazers ✨
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
