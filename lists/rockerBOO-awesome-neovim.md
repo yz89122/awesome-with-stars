@@ -635,6 +635,7 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 - [OscarCreator/rsync.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/OscarCreator/rsync.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/OscarCreator/rsync.nvim)](https://github.com/OscarCreator/rsync.nvim) - Automatically sync up/down project to a remote with rsync.
 - [zachyarbrough/anchor.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/zachyarbrough/anchor.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/zachyarbrough/anchor.nvim)](https://github.com/zachyarbrough/anchor.nvim) - Pin project-specific directories for instant fuzzy searching. Inspired by Harpoon.
 - [Rimkomatic/vimtagger.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/Rimkomatic/vimtagger.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/Rimkomatic/vimtagger.nvim)](https://github.com/Rimkomatic/vimtagger.nvim) - Semantic file tagging for projects with Telescope integration. Organize files using custom tags, search them quickly, and manage tags through an interactive UI.
+- [tiagovla/projet.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/tiagovla/projet.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/tiagovla/projet.nvim)](https://github.com/tiagovla/projet.nvim) - A minimalist tool for managing your projects, with just enough French to feel fancy.
 <!--lint disable double-link -->
 [**⬆ back to top**](#contents)
 <!--lint enable double-link -->
@@ -660,6 +661,7 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 - [wsdjeg/bufdel.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/wsdjeg/bufdel.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/wsdjeg/bufdel.nvim)](https://github.com/wsdjeg/bufdel.nvim) - Delete buffers without changing windows layout.
 - [m-demare/attempt.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/m-demare/attempt.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/m-demare/attempt.nvim)](https://github.com/m-demare/attempt.nvim) - Manage and run temporary buffers.
 - [iago-lito/bufmarks.nvim](https://codeberg.org/iago-lito/bufmarks.nvim) - Navigation method inspired from Harpoon, but indexing buffers with "mark"-like keys instead of an ordered list.
+- [tiagovla/scope.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/tiagovla/scope.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/tiagovla/scope.nvim)](https://github.com/tiagovla/scope.nvim) - Scope buffers to individual tabs while keeping native buffer navigation commands.
 <!--lint disable double-link -->
 [**⬆ back to top**](#contents)
 <!--lint enable double-link -->
@@ -865,6 +867,7 @@ then it is not supported:
 - [oxidescheme/nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/oxidescheme/nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/oxidescheme/nvim)](https://github.com/oxidescheme/nvim) - **_`[TS][LSP][Lua]`_** Minimalist dark colorscheme built on an OKLCH palette with a monochrome-first UI.
 - [RazikSF/lumina-themes ![GitHub Repo Stars](https://img.shields.io/github/stars/RazikSF/lumina-themes) ![GitHub last commit](https://img.shields.io/github/last-commit/RazikSF/lumina-themes)](https://github.com/RazikSF/lumina-themes) - **_`[TS][LSP][L/D][Lua]`_** Fourteen colorschemes drawn from scenes, each in light and dark, plus a high-contrast pair.
 - [kryptamine/gruber-darker-renaissance ![GitHub Repo Stars](https://img.shields.io/github/stars/kryptamine/gruber-darker-renaissance) ![GitHub last commit](https://img.shields.io/github/last-commit/kryptamine/gruber-darker-renaissance)](https://github.com/kryptamine/gruber-darker-renaissance) - **_`[TS][LSP][Lua]`_** A dark, minimal colorscheme based on Gruber Darker.
+- [tiagovla/tokyodark.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/tiagovla/tokyodark.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/tiagovla/tokyodark.nvim)](https://github.com/tiagovla/tokyodark.nvim) - **_`[TS][LSP][Lua]`_** A clean and customizable dark colorscheme.
 <!--lint disable double-link -->
 [**⬆ back to top**](#contents)
 <!--lint enable double-link -->

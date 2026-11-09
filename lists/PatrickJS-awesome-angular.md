@@ -1328,6 +1328,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [silverpoint ![GitHub Repo Stars](https://img.shields.io/github/stars/ecrespo/silverpoint) ![GitHub last commit](https://img.shields.io/github/last-commit/ecrespo/silverpoint)](https://github.com/ecrespo/silverpoint) - React and Angular charting components featuring a historical drafting aesthetic.
 * [systelab-charts ![GitHub Repo Stars](https://img.shields.io/github/stars/systelab/systelab-charts) ![GitHub last commit](https://img.shields.io/github/last-commit/systelab/systelab-charts)](https://github.com/systelab/systelab-charts) - Systelab Angular Chart services.
 * [unovis ![GitHub Repo Stars](https://img.shields.io/github/stars/f5/unovis) ![GitHub last commit](https://img.shields.io/github/last-commit/f5/unovis)](https://github.com/f5/unovis) - Modular data visualization framework for React, Angular, Svelte, Vue, and vanilla TypeScript or JavaScript.
+* [RevoGrid Charts ![GitHub Repo Stars](https://img.shields.io/github/stars/revolist/charts) ![GitHub last commit](https://img.shields.io/github/last-commit/revolist/charts)](https://github.com/revolist/charts) - Interactive charts with zoom, annotations, and export. Commercial, with a [30-day trial](https://rv-grid.com/trial). [Docs](https://pro.rv-grid.com/guides/charts/).
 
 ### Cookies
 
@@ -1389,6 +1390,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [PivotHead ![GitHub Repo Stars](https://img.shields.io/github/stars/mindfiredigital/PivotHead) ![GitHub last commit](https://img.shields.io/github/last-commit/mindfiredigital/PivotHead)](https://github.com/mindfiredigital/PivotHead) - A powerful and flexible library for creating interactive pivot tables in JavaScript/TypeScript applications.
 * [ngx-deebodata-community ![GitHub Repo Stars](https://img.shields.io/github/stars/deebodata/ngx-deebodata-community) ![GitHub last commit](https://img.shields.io/github/last-commit/deebodata/ngx-deebodata-community)](https://github.com/deebodata/ngx-deebodata-community) - Open-source data grid with virtual scroll, column resizing, cell editing, tab accessibility, row selection, sorting, and filtering.
 * [Lattice Grid ![GitHub Repo Stars](https://img.shields.io/github/stars/toclocoinc/latticegrid) ![GitHub last commit](https://img.shields.io/github/last-commit/toclocoinc/latticegrid)](https://github.com/toclocoinc/latticegrid) - A high-performance JavaScript data grid with a data router that keeps grids, charts, boards, Gantts, and KPI tiles instantly synchronized.
+* [RevoGrid Pivot ![GitHub Repo Stars](https://img.shields.io/github/stars/revolist/pivot) ![GitHub last commit](https://img.shields.io/github/last-commit/revolist/pivot)](https://github.com/revolist/pivot) - Pivot tables with grouping, aggregation, subtotals, and grand totals. Commercial, with a [30-day trial](https://rv-grid.com/trial). [Docs](https://pro.rv-grid.com/guides/pivot/).
 
 ### Dates
 
