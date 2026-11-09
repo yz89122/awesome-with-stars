@@ -969,6 +969,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 ### Security Best Practices
 
 * [Official Angular Security](https://angular.dev/best-practices/security) - Best Practices.
+* [AfterPack](https://www.afterpack.dev/) - Free JavaScript obfuscator for Angular production builds: it encodes the strings and property names that minification leaves readable, and each build produces a different program. [Angular docs](https://www.afterpack.dev/docs/frameworks/angular).
 * [Aikido](https://www.aikido.dev/) - Secure your code, cloud, and runtime in one central system. Find and fix vulnerabilities automatically.
 * [GitHub Code Scanning](https://docs.github.com/en/code-security/concepts/code-scanning) - Learn core concepts for GitHub's code scanning features.
 * [GitHub Skills](https://skills.github.com/) - Guided interactive tutorials for Code Security and analysis are available.
@@ -1252,6 +1253,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [hss-calendar ![GitHub Repo Stars](https://img.shields.io/github/stars/HawkerSoftwares/hss-calendar) ![GitHub last commit](https://img.shields.io/github/last-commit/HawkerSoftwares/hss-calendar)](https://github.com/HawkerSoftwares/hss-calendar) - A premium, lightweight, and fully customizable calendar library for Angular 19+.
 * [datelane ![GitHub Repo Stars](https://img.shields.io/github/stars/devendramilmile121/datelane) ![GitHub last commit](https://img.shields.io/github/last-commit/devendramilmile121/datelane)](https://github.com/devendramilmile121/datelane) - A customizable, zero-dependency Angular calendar featuring 12 views and multiple date layers.
 * [ngx-modern-calendar ![GitHub Repo Stars](https://img.shields.io/github/stars/angx-libs/ngx-modern-calendar) ![GitHub last commit](https://img.shields.io/github/last-commit/angx-libs/ngx-modern-calendar)](https://github.com/angx-libs/ngx-modern-calendar) - A small, themeable, multi-language calendar component for Angular.
+* [RevoGrid Scheduler ![GitHub Repo Stars](https://img.shields.io/github/stars/revolist/scheduler) ![GitHub last commit](https://img.shields.io/github/last-commit/revolist/scheduler)](https://github.com/revolist/scheduler) - Event and resource scheduling with calendar and timeline views. Commercial, with a [30-day trial](https://rv-grid.com/trial). [Docs](https://pro.rv-grid.com/guides/event-scheduler/introduction/).
 
 ### Captcha
 
@@ -2262,6 +2264,7 @@ for the creation of web applications developed with Angular.
 * [zapui ![GitHub Repo Stars](https://img.shields.io/github/stars/zapuilib/zapui) ![GitHub last commit](https://img.shields.io/github/last-commit/zapuilib/zapui)](https://github.com/zapuilib/zapui) - Build scalable Angular apps with a Tailwind-powered design system from [zap:ui](https://zapui.togethercreative.co.uk/).
 * [Ply ![GitHub Repo Stars](https://img.shields.io/github/stars/ply-ui-ng/ply) ![GitHub last commit](https://img.shields.io/github/last-commit/ply-ui-ng/ply)](https://github.com/ply-ui-ng/ply) - CLI-first Angular + Tailwind copy-in component library (formerly Base UI (Angular)): `npx ply-ui-cli add` copies source into your repo. 127 free MIT components; Pro stays paid. Docs at [ply-ui.com](https://ply-ui.com). Not MUI Base UI (React).
 * [ngnova-ui ![GitHub Repo Stars](https://img.shields.io/github/stars/chiragpatel273/ngnova-ui) ![GitHub last commit](https://img.shields.io/github/last-commit/chiragpatel273/ngnova-ui)](https://github.com/chiragpatel273/ngnova-ui) - Angular 22 component library built with standalone components, focused package entry points, accessible interaction contracts, and Tailwind CSS theming.
+* [ivorie ![GitHub Repo Stars](https://img.shields.io/github/stars/Inlaylab/ivorie) ![GitHub last commit](https://img.shields.io/github/last-commit/Inlaylab/ivorie)](https://github.com/Inlaylab/ivorie) - Angular UI components with the `shadcn/ui` look and behavior.
 
 ### UI Primitives
 
