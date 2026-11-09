@@ -56,6 +56,7 @@ See more design systems [here ![GitHub Repo Stars](https://img.shields.io/github
 - [Super friendly](https://superfriendlydesign.systems/) - We help in-house teams make better digital products with design systems.
 - [AI Web Design Codex ![GitHub Repo Stars](https://img.shields.io/github/stars/Eneryleen/ai-web-design-codex) ![GitHub last commit](https://img.shields.io/github/last-commit/Eneryleen/ai-web-design-codex)](https://github.com/Eneryleen/ai-web-design-codex) - Knowledge base of 60 cross-linked guides on web design, UX, accessibility, and conversion, for humans and AI agents.
 - [Button Hover Specimens](https://jsabutis.github.io/button-interaction-specs/) - Catalogue of 131 button hover mechanisms and 117 press states on one identical button, each with its own markup and code to copy. Same label, same box, same rule, so the interaction is the only variable. No dependencies.
+- [House standard](https://design.inadram.studio/house-standard/) - Catalogue of 103 frontend interaction practices, each with a demo running live in the page that switches between the practice held and the practice broken, and an implementation brief written to be handed to a coding agent. Seventeen of them also ship as a read-only audit plugin.
 
 ## UI Design tools
 
@@ -76,6 +77,7 @@ See design tools plugins [here ![GitHub Repo Stars](https://img.shields.io/githu
 
 - [Abstract](https://www.abstract.com/) - Design collaboration without the chaos (for Sketch and XD on macOS).
 - [Avocode](https://avocode.com/) - Helps you share design files, discuss changes, and code websites, mobile apps, & newsletters faster.
+- [figma-maxxing ![GitHub Repo Stars](https://img.shields.io/github/stars/thiagoxikota/figma-maxxing) ![GitHub last commit](https://img.shields.io/github/last-commit/thiagoxikota/figma-maxxing)](https://github.com/thiagoxikota/figma-maxxing) - Agent skills for real Figma files: Plugin API gotchas, checks before and after every write, comments to verified fixes, handoff gate.
 - [InVision Design System Manager](https://www.invisionapp.com/design-system-manager) - Powers creative and consistent design at scale with a central place to manage design and coded components.
 - [Zeplin](https://zeplin.io/) - The better way to share, organize and collaborate on designs—built with developers in mind.
 
@@ -178,6 +180,7 @@ More info to Storybook [here ![GitHub Repo Stars](https://img.shields.io/github/
 - [Sherlo](https://sherlo.io/) - Visual testing platform for React Native Storybook. Captures screenshots on iOS and Android simulators in the cloud and detects visual changes automatically.
 - [Testing library](https://testing-library.com/) - Simple and complete testing utilities that encourage good testing practices.
 - [Designesy](https://www.designesy.org/) - 40-check design-contract verification engine with live URL scoring. Deterministic checks across tokens, motion, accessibility, typography, and copywriting. GitHub Action for CI gating, MCP server for AI agents.
+- [pixelpact ![GitHub Repo Stars](https://img.shields.io/github/stars/jamalkamaladdin/pixelpact) ![GitHub last commit](https://img.shields.io/github/last-commit/jamalkamaladdin/pixelpact)](https://github.com/jamalkamaladdin/pixelpact) - CLI and MCP server that extracts a visual contract (sizes, spacing, typography, states, animation, design tokens) from a live page or Figma frame, then checks an implementation against it and reports every value that drifted.
 
 ## Books
 
