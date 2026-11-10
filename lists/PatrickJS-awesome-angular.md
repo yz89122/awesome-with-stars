@@ -279,6 +279,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [Map of GitHub](https://anvaka.github.io/map-of-github/#9.14/-21.9624/9.8143) - Discover repositories with overlapping stargazers across the NgSphere.
 * [Angular Popularity Analysis ![GitHub Repo Stars](https://img.shields.io/github/stars/ProjectBay/angular-popularity-analysis) ![GitHub last commit](https://img.shields.io/github/last-commit/ProjectBay/angular-popularity-analysis)](https://github.com/ProjectBay/angular-popularity-analysis) - An AI-era normalized statistical analysis of Angular’s popularity.
 * [Jobs in JS](https://jobsinjs.com/angular-developer-jobs/) - Angular developer jobs in the US, Canada and UK. Updated daily.
+* [Angularians ![GitHub Repo Stars](https://img.shields.io/github/stars/erkamyaman/angularians) ![GitHub last commit](https://img.shields.io/github/last-commit/erkamyaman/angularians)](https://github.com/erkamyaman/angularians) - The ultimate leaderboard for everyone who has contributed to Angular.
 
 ### Newsletters
 
@@ -1254,6 +1255,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [datelane ![GitHub Repo Stars](https://img.shields.io/github/stars/devendramilmile121/datelane) ![GitHub last commit](https://img.shields.io/github/last-commit/devendramilmile121/datelane)](https://github.com/devendramilmile121/datelane) - A customizable, zero-dependency Angular calendar featuring 12 views and multiple date layers.
 * [ngx-modern-calendar ![GitHub Repo Stars](https://img.shields.io/github/stars/angx-libs/ngx-modern-calendar) ![GitHub last commit](https://img.shields.io/github/last-commit/angx-libs/ngx-modern-calendar)](https://github.com/angx-libs/ngx-modern-calendar) - A small, themeable, multi-language calendar component for Angular.
 * [RevoGrid Scheduler ![GitHub Repo Stars](https://img.shields.io/github/stars/revolist/scheduler) ![GitHub last commit](https://img.shields.io/github/last-commit/revolist/scheduler)](https://github.com/revolist/scheduler) - Event and resource scheduling with calendar and timeline views. Commercial, with a [30-day trial](https://rv-grid.com/trial). [Docs](https://pro.rv-grid.com/guides/event-scheduler/introduction/).
+* [ngx-lanes ![GitHub Repo Stars](https://img.shields.io/github/stars/dmartinezzm/ngx-lanes) ![GitHub last commit](https://img.shields.io/github/last-commit/dmartinezzm/ngx-lanes)](https://github.com/dmartinezzm/ngx-lanes) - Virtualized resource timeline for Angular 19+ that keeps 1,000 rows and 10,000 bars smooth, built with signals and zoneless-ready.
 
 ### Captcha
 

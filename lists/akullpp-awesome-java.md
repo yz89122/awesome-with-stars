@@ -1392,7 +1392,7 @@ _Tools for creating and managing microservices._
 
 > **[Micronaut ![GitHub Repo Stars](https://img.shields.io/github/stars/micronaut-projects/micronaut-core) ![GitHub last commit](https://img.shields.io/github/last-commit/micronaut-projects/micronaut-core)](https://github.com/micronaut-projects/micronaut-core)** <kbd>★ 6.4k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Modern full-stack framework with focus on modularity, minimal memory footprint and startup time.
 
-> **[Nacos ![GitHub Repo Stars](https://img.shields.io/github/stars/alibaba/nacos) ![GitHub last commit](https://img.shields.io/github/last-commit/alibaba/nacos)](https://github.com/alibaba/nacos)** <kbd>★ 33.4k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Dynamic service discovery, configuration and service management platform for building cloud native applications.
+> **[Nacos ![GitHub Repo Stars](https://img.shields.io/github/stars/alibaba/nacos) ![GitHub last commit](https://img.shields.io/github/last-commit/alibaba/nacos)](https://github.com/alibaba/nacos)** <kbd>��� 33.4k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Dynamic service discovery, configuration and service management platform for building cloud native applications.
 
 > **[Quarkus ![GitHub Repo Stars](https://img.shields.io/github/stars/quarkusio/quarkus) ![GitHub last commit](https://img.shields.io/github/last-commit/quarkusio/quarkus)](https://github.com/quarkusio/quarkus)** <kbd>★ 15.9k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Kubernetes stack tailored for the HotSpot and Graal VM.
 
@@ -1591,7 +1591,7 @@ _APIs that handle the persistence of objects._
 
 > **[ObjectiveSql ![GitHub Repo Stars](https://img.shields.io/github/stars/braisdom/ObjectiveSql) ![GitHub last commit](https://img.shields.io/github/last-commit/braisdom/ObjectiveSql)](https://github.com/braisdom/ObjectiveSql)** <kbd>★ 1.3k</kbd> <kbd>Apache-2.0</kbd> 🔴<br>ActiveRecord ORM for rapid development and convention over configuration.
 
-> **[Permazen ![GitHub Repo Stars](https://img.shields.io/github/stars/permazen/permazen) ![GitHub last commit](https://img.shields.io/github/last-commit/permazen/permazen)](https://github.com/permazen/permazen)** <kbd>★ 425</kbd> <kbd>Apache-2.0</kbd> ���<br>Language-natural persistence layer.
+> **[Permazen ![GitHub Repo Stars](https://img.shields.io/github/stars/permazen/permazen) ![GitHub last commit](https://img.shields.io/github/last-commit/permazen/permazen)](https://github.com/permazen/permazen)** <kbd>★ 425</kbd> <kbd>Apache-2.0</kbd> 🟠<br>Language-natural persistence layer.
 
 > **[SimpleFlatMapper ![GitHub Repo Stars](https://img.shields.io/github/stars/arnaudroger/SimpleFlatMapper) ![GitHub last commit](https://img.shields.io/github/last-commit/arnaudroger/SimpleFlatMapper)](https://github.com/arnaudroger/SimpleFlatMapper)** <kbd>★ 460</kbd> <kbd>MIT</kbd> 🔴<br>Simple database and CSV mapper.
 
