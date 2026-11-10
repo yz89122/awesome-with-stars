@@ -134,6 +134,8 @@ Processing Unit (GPU).
 * [WebGL Support Stats](http://webglstats.com/) - Interactive dashboard showing the support for WebGL features in different browsers and devices.
 * [WebGL Texture Tester](http://toji.github.io/texture-tester/) - Attempts to load one of every texture format supported by WebGL, intended to quickly show which formats your browser/device supports.
 * [Web Tracing Framework](http://google.github.io/tracing-framework/index.html) - Set of libraries, tools, and visualizers for the tracing and investigation of complex web applications.
+* [WebGL GLSL Editor](https://marketplace.visualstudio.com/items?itemName=raczzalan.webgl-glsl-editor) - GLSL language support extension for Visual Studio Code.
+* [KTX2 Texture Compressor](https://app.cinevva.com/tools/ktx2-compressor) - Browser tool to convert PNG, JPG, and WebP textures to KTX2 (Basis Universal, UASTC or ETC1S) to cut VRAM and load time. Runs locally, no upload.
 * [Web3D Viewer ![GitHub Repo Stars](https://img.shields.io/github/stars/userzz1145141919810-rgb/web-3d-viewer) ![GitHub last commit](https://img.shields.io/github/last-commit/userzz1145141919810-rgb/web-3d-viewer)](https://github.com/userzz1145141919810-rgb/web-3d-viewer) - Single-file OBJ viewer that logs how every MTL texture reference was resolved (exact path, extension-stripped, fuzzy) and which ones failed, so missing materials are traceable instead of silently rendering black.
 
 #### Chrome Specific Tools/Debugger
@@ -331,6 +333,7 @@ Processing Unit (GPU).
 * [GLGE](http://www.glge.org/) - Javascript library intended to ease the use of WebGL.
 * [img2threejs ![GitHub Repo Stars](https://img.shields.io/github/stars/hoainho/img2threejs) ![GitHub last commit](https://img.shields.io/github/last-commit/hoainho/img2threejs)](https://github.com/hoainho/img2threejs) - Toolkit that rebuilds the object in a reference image as a code-only, procedural Three.js model - primitives, procedural shaders, generated geometry, no downloaded meshes.
 * [Lightgl.js ![GitHub Repo Stars](https://img.shields.io/github/stars/evanw/lightgl.js) ![GitHub last commit](https://img.shields.io/github/last-commit/evanw/lightgl.js)](https://github.com/evanw/lightgl.js) - Lightweight and explict library to help prototype.
+* [Novaframe Engine ![GitHub Repo Stars](https://img.shields.io/github/stars/novaframe-hq/novaframe-engine) ![GitHub last commit](https://img.shields.io/github/last-commit/novaframe-hq/novaframe-engine)](https://github.com/novaframe-hq/novaframe-engine) - Open-source desktop live wallpaper runtime for interactive WebGL and Three.js shaders.
 * [OSG.js](https://cedricpinson.github.io/osgjs-website/) - WebGL framework based on OpenSceneGraph concepts to interact with WebGL.
 * [Pex-gl](http://vorg.github.io/pex/) - JavaScript libraries for computational thinking in Plask/Node.js and WebGL.
 * [PlayCanvas](https://playcanvas.com/) - Game engine platform to build interactive experiences.

@@ -708,6 +708,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [inspect-value ![GitHub Repo Stars](https://img.shields.io/github/stars/HuakunShen/inspect-value) ![GitHub last commit](https://img.shields.io/github/last-commit/HuakunShen/inspect-value)](https://github.com/HuakunShen/inspect-value) - Web Component value inspector — works in React, Vue, Angular, Svelte, or vanilla JavaScript.
 * [ng-perf-inspector ![GitHub Repo Stars](https://img.shields.io/github/stars/VitalieCondorache/ng-perf-inspector) ![GitHub last commit](https://img.shields.io/github/last-commit/VitalieCondorache/ng-perf-inspector)](https://github.com/VitalieCondorache/ng-perf-inspector) - A lightweight debugging and performance monitoring toolkit for modern Angular applications.
 * [GenClass ![GitHub Repo Stars](https://img.shields.io/github/stars/genclass-dev/GenClass) ![GitHub last commit](https://img.shields.io/github/last-commit/genclass-dev/GenClass)](https://github.com/genclass-dev/GenClass) - Reports race conditions in the browser while they happen (duplicate submits, failure storms and, once signal state is registered by hand, stale responses); one import in `main.ts`, a small on-device model, report-only by default.
+* [Pangular Inspector ![GitHub Repo Stars](https://img.shields.io/github/stars/pangular-inspector/devtools) ![GitHub last commit](https://img.shields.io/github/last-commit/pangular-inspector/devtools)](https://github.com/pangular-inspector/devtools) - Inspects a running Angular app (components, signals, DI, router, forms, HTTP, SSR and NgRx) in a browser panel, and serves the same data to AI agents over MCP.
 
 ### Documentation Tools
 
@@ -1082,6 +1083,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [twd ![GitHub Repo Stars](https://img.shields.io/github/stars/BRIKEV/twd) ![GitHub last commit](https://img.shields.io/github/last-commit/BRIKEV/twd)](https://github.com/BRIKEV/twd) - In‑browser test runner with instant feedback, Testing Library support, Vite discovery, and built‑in API mocking—framework‑agnostic and easy to use in Angular.
 * [serenity-js ![GitHub Repo Stars](https://img.shields.io/github/stars/serenity-js/serenity-js) ![GitHub last commit](https://img.shields.io/github/last-commit/serenity-js/serenity-js)](https://github.com/serenity-js/serenity-js) - A TypeScript-native acceptance testing framework that gives your Playwright Test, WebdriverIO, or Cucumber test suite the architecture it needs to scale.
 * [TestMu AI SmartUI](https://www.testmuai.com/visual-testing-tool/) - Visual regression testing for Angular apps that captures and compares screenshots across builds.
+* [e2e ![GitHub Repo Stars](https://img.shields.io/github/stars/tester-army/e2e) ![GitHub last commit](https://img.shields.io/github/last-commit/tester-army/e2e)](https://github.com/tester-army/e2e) - End-to-end testing with natural-language agent steps and locator assertions, with an Angular example.
 
 ### Component
 
@@ -1981,6 +1983,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-toastf ![GitHub Repo Stars](https://img.shields.io/github/stars/darioegb/ngx-toast) ![GitHub last commit](https://img.shields.io/github/last-commit/darioegb/ngx-toast)](https://github.com/darioegb/ngx-toast) - A lightweight, standalone-first toast notification service for Angular that requires zero template markup or `ViewContainerRef`.
 * [rivium-push-web-sdk ![GitHub Repo Stars](https://img.shields.io/github/stars/Rivium-co/rivium-push-web-sdk) ![GitHub last commit](https://img.shields.io/github/last-commit/Rivium-co/rivium-push-web-sdk)](https://github.com/Rivium-co/rivium-push-web-sdk) - A framework-agnostic web SDK with TypeScript support for real-time and background push notifications, persistent message inboxes, and event-triggered in-app messaging.
 * [ng-toast ![GitHub Repo Stars](https://img.shields.io/github/stars/stefankuburovic/ng-toast) ![GitHub last commit](https://img.shields.io/github/last-commit/stefankuburovic/ng-toast)](https://github.com/stefankuburovic/ng-toast) - A lightweight, zoneless Angular toast notification utility powered strictly by Signals and RxJS, with zero external dependencies.
+* [Kodon ![GitHub Repo Stars](https://img.shields.io/github/stars/Kokkinis99/Kodon) ![GitHub last commit](https://img.shields.io/github/last-commit/Kokkinis99/Kodon)](https://github.com/Kokkinis99/Kodon) - Sonner-style toast notifications built on Angular Primitives.
 
 ### Onboarding and Product Tours
 
