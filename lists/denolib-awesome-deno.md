@@ -209,6 +209,7 @@ This list is a collection of the best Deno modules and resources.
   - [oak-routing-ctrl ![GitHub Repo Stars](https://img.shields.io/github/stars/Thesephi/oak-routing-ctrl) ![GitHub last commit](https://img.shields.io/github/last-commit/Thesephi/oak-routing-ctrl)](https://github.com/Thesephi/oak-routing-ctrl) - TypeScript Decorators for easy scaffolding API services with the oak framework.
 - [opine ![GitHub Repo Stars](https://img.shields.io/github/stars/cmorten/opine) ![GitHub last commit](https://img.shields.io/github/last-commit/cmorten/opine)](https://github.com/cmorten/opine) - Fast, minimalist web framework ported from ExpressJS.
   - [opine-http-proxy ![GitHub Repo Stars](https://img.shields.io/github/stars/cmorten/opine-http-proxy) ![GitHub last commit](https://img.shields.io/github/last-commit/cmorten/opine-http-proxy)](https://github.com/cmorten/opine-http-proxy) - Proxy middleware for Deno Opine HTTP servers.
+- [orpc ![GitHub Repo Stars](https://img.shields.io/github/stars/middleapi/orpc) ![GitHub last commit](https://img.shields.io/github/last-commit/middleapi/orpc)](https://github.com/middleapi/orpc) - End-to-end typesafe APIs with RPC and OpenAPI support, without code generation.
 
 ### WebSocket
 - [dropper ![GitHub Repo Stars](https://img.shields.io/github/stars/denyncrawford/dropper-deno) ![GitHub last commit](https://img.shields.io/github/last-commit/denyncrawford/dropper-deno)](https://github.com/denyncrawford/dropper-deno) - Custom event-based WebSockets framework for building real-time apps on Deno 🦕
