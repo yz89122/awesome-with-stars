@@ -338,7 +338,7 @@ Things that work with project files or GameMaker itself rather than being someth
 ## Shaders
 
 - [TransFX](https://short-bread.itch.io/transfx) - Transition Library.
-- [Post-Processing FX](https://foxyofjungle.itch.io/post-processing-fx) - 50+ high-quality, customizable effects. 💸
+- [Post-Processing FX](https://foxyofjungle.itch.io/post-processing-fx) - 50+ high-quality, customizable effects. ���
 - [Lens Distortion FOV](https://foxyofjungle.itch.io/lens-distortion-fov-shader) - Useful FOV depth effect. 💸
 - [Fast Blur Area](https://foxyofjungle.itch.io/foxey-blur-area) - Fast alpha blur shader effect in two lines of code. 💸
 - [Transitions Pro](https://foxyofjungle.itch.io/foxey-transitions-pro) - 42 customizable transitions. 💸
