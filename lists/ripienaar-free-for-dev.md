@@ -722,6 +722,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [courier.com](https://www.courier.com/) - Single API for push, in-app, email, chat, SMS, and other messaging channels with template management and other features. The free plan includes 10,000 messages/mo.
   * [EMQX Serverless](https://www.emqx.com/en/cloud/serverless-mqtt) - Scalable and secure serverless MQTT broker you can get in seconds. 1M session minutes/month free forever (no credit card required).
   * [Engage](https://engage.so/) - All-in-one Customer Engagement and Automation Tool (email, push, SMS, product tours, banners and more) for SaaS. Free for up to 1,000 active users per month.
+  * [GravEx Chat](https://chat.gravex.app/en/) - Free chat sdk that works for any client, like web, Android, iOS or whatever. Create API key and hand it over to your own Agent(Claude, Codex...) with [llms.txt](https://chat.gravex.app/en/llms.txt), then you get your messenger to your service. It's that simple.
   * [HiveMQ](https://www.hivemq.com/mqtt-cloud-broker/) - Connect your MQTT devices to the Cloud Native IoT Messaging Broker.  Free to connect up to 100 devices (no credit card required) forever.
   * [httpSMS](https://httpsms.com) - Send and receive text messages using your Android phone as an SMS Gateway. Free to send and receive up to 200 messages per month.
   * [knock.app](https://knock.app) - Notifications infrastructure for developers. Send to multiple channels like in-app, email, SMS, Slack, and push with a single API call. The free plan includes 10,000 messages/mo.
@@ -1607,6 +1608,7 @@ Update Time, five active automations, webhooks.
   * [Pug](https://pug.sh) - Open-source product analytics with autocapture, trends, funnels, retention, user flows and unified user profiles. Free plan includes 100,000 events per month and 1 year of data retention.
   * [Repohistory](https://repohistory.com) - Beautiful dashboard for tracking GitHub repo traffic history longer than 14 days. Free Plan allows users to monitor traffic for a single repository.
   * [Row Zero](https://rowzero.io) - Blazingly fast, connected spreadsheet. Connect directly to data databases, S3, and APIs. Import, analyze, graph, and share millions of rows instantly. Three free (forever) workbooks.
+  * [RudderStack](https://rudderstack.com/) - Event streaming to 200+ destinations and data warehouse, plus reverse ETL. Comes with MCP server and CLI for AI agents. Free forever for 250k events/month.
   * [Rybbit](https://rybbit.io) - Open-source and cookieless alternative to Google Analytics that is 10x more intuitive. Free plans has 3,000 monthly events.
   * [Seline](https://seline.so) - Seline is a simple & private website and product analytics. Cookieless, lightweight, independent. Free plan includes 3,000 events per month and provides access to all our features, such as the dashboard, user journeys, funnels, and more.
   * [StatCounter](https://statcounter.com/) - Website Viewer Analytics. Free plan for analytics of 500 most recent visitors.
