@@ -259,6 +259,7 @@ SDL2 and SDL3 based applications importing `vlang/sdl`.
 - [vmemcached ![GitHub Repo Stars](https://img.shields.io/github/stars/blacktrub/vmemcached) ![GitHub last commit](https://img.shields.io/github/last-commit/blacktrub/vmemcached)](https://github.com/blacktrub/vmemcached) - Memcached client for V, written in V.
 - [vredis ![GitHub Repo Stars](https://img.shields.io/github/stars/xiusin/vredis) ![GitHub last commit](https://img.shields.io/github/last-commit/xiusin/vredis)](https://github.com/xiusin/vredis) - A simple, user-friendly, and comprehensive Redis client.
 - [vsql ![GitHub Repo Stars](https://img.shields.io/github/stars/lydiandy/vsql) ![GitHub last commit](https://img.shields.io/github/last-commit/lydiandy/vsql)](https://github.com/lydiandy/vsql) - A sql query builder for V.
+- [vsql ![GitHub Repo Stars](https://img.shields.io/github/stars/elliotchance/vsql) ![GitHub last commit](https://img.shields.io/github/last-commit/elliotchance/vsql)](https://github.com/elliotchance/vsql) - Single-file SQL database written in pure V, following the SQL standard, with a CLI, a PostgreSQL-compatible server and an ORM.
 
 ### Discord
 

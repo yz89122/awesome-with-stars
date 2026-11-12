@@ -100,6 +100,7 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 - [zuqini/zpack.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/zuqini/zpack.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/zuqini/zpack.nvim)](https://github.com/zuqini/zpack.nvim) - A thin layer on top of `vim.pack` to support lazy-loading and `lazy.nvim`'s declarative spec.
 - [okram78/vahti.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/okram78/vahti.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/okram78/vahti.nvim)](https://github.com/okram78/vahti.nvim) - Checks remote Git revisions for `vim.pack`-managed packages and reports available updates without installing them.
 - [Imngzx/resonance.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/Imngzx/resonance.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/Imngzx/resonance.nvim)](https://github.com/Imngzx/resonance.nvim) - An optimized `vim.pack` wrapper with lazy-loading, automatic build hooks, and an elegant UI.
+- [jtprogru/pack-ui.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/jtprogru/pack-ui.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/jtprogru/pack-ui.nvim)](https://github.com/jtprogru/pack-ui.nvim) - A simple UI on top of `vim.pack` for managing plugins.
 <!--lint disable double-link -->
 [**⬆ back to top**](#contents)
 <!--lint enable double-link -->
@@ -296,6 +297,7 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 - [zgs225/pi2.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/zgs225/pi2.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/zgs225/pi2.nvim)](https://github.com/zgs225/pi2.nvim) - Frontend for the [pi](https://pi.dev) coding agent with in-editor chat, reviewed diffs, session-tree navigation, and extension prompts.
 - [jaitd/fieldguide.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/jaitd/fieldguide.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/jaitd/fieldguide.nvim)](https://github.com/jaitd/fieldguide.nvim) - Sidebar agent for your own config; will inform you if config still boots when changing it and provides answers from your installed plugins' docs, the versions on disk, and the live session.
 - [mrwatts88/ghost.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/mrwatts88/ghost.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/mrwatts88/ghost.nvim)](https://github.com/mrwatts88/ghost.nvim) - Write a question using a comment starting with `?` to get a response from your favourite LLM via virtual text.
+- [kova1max/float-claude.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/kova1max/float-claude.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/kova1max/float-claude.nvim)](https://github.com/kova1max/float-claude.nvim) - Ask Claude Code about the current file or selection from a popup, using the `claude` CLI subscription instead of an API key.
 <!--lint disable double-link -->
 [**⬆ back to top**](#contents)
 <!--lint enable double-link -->
