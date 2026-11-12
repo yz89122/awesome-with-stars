@@ -141,6 +141,7 @@ If your project is rejected, treat it as a learning opportunity
 
 - [Hashes ![GitHub Repo Stars](https://img.shields.io/github/stars/zefr0x/hashes) ![GitHub last commit](https://img.shields.io/github/last-commit/zefr0x/hashes)](https://github.com/zefr0x/hashes) - Identify hashing algorithms (GUI frontend for Name That Hash).
 - [hashgen ![GitHub Repo Stars](https://img.shields.io/github/stars/cyclone-github/hashgen) ![GitHub last commit](https://img.shields.io/github/last-commit/cyclone-github/hashgen)](https://github.com/cyclone-github/hashgen) - Hashgen is a simple yet very fast CLI hash generator written in Go and cross compiled for Linux, Windows & Mac.
+- [hx ![GitHub Repo Stars](https://img.shields.io/github/stars/Cynosureprime/hx) ![GitHub last commit](https://img.shields.io/github/last-commit/Cynosureprime/hx)](https://github.com/Cynosureprime/hx) - A domain-specific language for describing, computing and verifying cryptographic hash compositions.
 - [Name That Hash ![GitHub Repo Stars](https://img.shields.io/github/stars/HashPals/Name-That-Hash) ![GitHub last commit](https://img.shields.io/github/last-commit/HashPals/Name-That-Hash)](https://github.com/HashPals/Name-That-Hash) - Don't know what type of hash it is? Name That Hash will name that hash type! Identify MD5, SHA256 and 300+ other hashes. Comes with a neat web app.
 
 ### Notable People

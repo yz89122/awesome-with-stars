@@ -237,7 +237,7 @@ Help your customers predict their upcoming and future consumption based on their
 
 - [GCP Cost Forecast](https://cloud.google.com//billing/docs/how-to/reports#cost-forecast) - An example of consumption trend line for resource consumption.
 
-- [How to save money on your AWS bill](https://threadreaderapp.com/thread/1091041507342086144.html) - “The biggest cost savings there are: 1. Turning things off that you're not using; 2. Then spot instances; 3. Then reserved instances.”
+- [How to save money on your AWS bill](https://threadreaderapp.com/thread/1091041507342086144.html) - “The biggest cost savings there are: 1. Turning things off that you're not using; 2. Then spot instances; 3. Then reserved instances.��
 
 ## Marketplace
 
