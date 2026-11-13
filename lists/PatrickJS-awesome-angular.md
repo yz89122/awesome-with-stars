@@ -58,7 +58,6 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
   * [Generators and Scaffolding](#generators-and-scaffolding)
   * [Internationalization](#internationalization)
   * [Linting](#linting)
-  * [Networking](#networking)
   * [Performance](#performance)
   * [Runtime](#runtime)
   * [SEO](#seo)
@@ -667,6 +666,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-piano](https://gitlab.com/SNCF/ngx-piano) - This library integrates [Piano Analytics](https://www.piano.io/) into Angular applications.
 * [fingerprint](https://dev.fingerprint.com/docs/angular) - An easy way to integrate Fingerprint into your Angular application.
 * [ngx-google-tag-manager ![GitHub Repo Stars](https://img.shields.io/github/stars/bloomscorp/ngx-google-tag-manager) ![GitHub last commit](https://img.shields.io/github/last-commit/bloomscorp/ngx-google-tag-manager)](https://github.com/bloomscorp/ngx-google-tag-manager) - SSR-safe Google Tag Manager integration for Angular 18+.
+* [consent-analytics ![GitHub Repo Stars](https://img.shields.io/github/stars/clearideas/consent-analytics) ![GitHub last commit](https://img.shields.io/github/last-commit/clearideas/consent-analytics)](https://github.com/clearideas/consent-analytics) - An MIT-licensed, privacy-focused browser analytics client with a built-in consent banner.
 
 ### Code Analysis
 
@@ -840,12 +840,6 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [JunoLint ![GitHub Repo Stars](https://img.shields.io/github/stars/Myxelium/JunoLint) ![GitHub last commit](https://img.shields.io/github/last-commit/Myxelium/JunoLint)](https://github.com/Myxelium/JunoLint) - This Angular ESLint 9 configuration lints TypeScript and HTML layout, ordering, and style rules, most of which auto-fix using `eslint --fix`.
 * [angular-estree-parser ![GitHub Repo Stars](https://img.shields.io/github/stars/prettier/angular-estree-parser) ![GitHub last commit](https://img.shields.io/github/last-commit/prettier/angular-estree-parser)](https://github.com/prettier/angular-estree-parser) - A parser that converts Angular template expressions and bindings into an ESTree-compatible AST.
 * [eslint-plugin-ng-perfectionist ![GitHub Repo Stars](https://img.shields.io/github/stars/ChrisAraneo/eslint-plugin-ng-perfectionist) ![GitHub last commit](https://img.shields.io/github/last-commit/ChrisAraneo/eslint-plugin-ng-perfectionist)](https://github.com/ChrisAraneo/eslint-plugin-ng-perfectionist) - An ESLint plugin that enforces alphabetical sorting for Angular objects.
-
-### Networking
-
-* [angular-http-server ![GitHub Repo Stars](https://img.shields.io/github/stars/simonh1000/angular-http-server) ![GitHub last commit](https://img.shields.io/github/last-commit/simonh1000/angular-http-server)](https://github.com/simonh1000/angular-http-server) - Simple http-server for Single Page Apps (SPAs).
-* [ngx-device-detector ![GitHub Repo Stars](https://img.shields.io/github/stars/AhsanAyaz/ngx-device-detector) ![GitHub last commit](https://img.shields.io/github/last-commit/AhsanAyaz/ngx-device-detector)](https://github.com/AhsanAyaz/ngx-device-detector) - An Angular v7+ library to detect the device, OS, and browser details.
-* [ngx-offline-indicator ![GitHub Repo Stars](https://img.shields.io/github/stars/thdang1009/ngx-offline-indicator) ![GitHub last commit](https://img.shields.io/github/last-commit/thdang1009/ngx-offline-indicator)](https://github.com/thdang1009/ngx-offline-indicator) - A simple and customizable way to inform users about their internet connection status within their Angular applications.
 
 ### Performance
 
@@ -1936,6 +1930,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [dgkit ![GitHub Repo Stars](https://img.shields.io/github/stars/grynyk/dgkit) ![GitHub last commit](https://img.shields.io/github/last-commit/grynyk/dgkit)](https://github.com/grynyk/dgkit) - A growing collection of open-source frontend agnostic and Angular libraries, developer tools, and frontend utilities.
 * [grafloria ![GitHub Repo Stars](https://img.shields.io/github/stars/grafloria/grafloria) ![GitHub last commit](https://img.shields.io/github/last-commit/grafloria/grafloria)](https://github.com/grafloria/grafloria) - An MIT diagram and dashboard engine for JavaScript: one headless core, native Angular, React and Vue bindings, one document format and one undo stack.
 * [ngx-signal-operators ![GitHub Repo Stars](https://img.shields.io/github/stars/wassim-k/ngx-signal-operators) ![GitHub last commit](https://img.shields.io/github/last-commit/wassim-k/ngx-signal-operators)](https://github.com/wassim-k/ngx-signal-operators) - Transform Angular signals with functional operators.
+* [ngx-device-detector ![GitHub Repo Stars](https://img.shields.io/github/stars/AhsanAyaz/ngx-device-detector) ![GitHub last commit](https://img.shields.io/github/last-commit/AhsanAyaz/ngx-device-detector)](https://github.com/AhsanAyaz/ngx-device-detector) - An Angular library to detect the device, OS, and browser details.
 
 ### Modals
 
@@ -2257,7 +2252,7 @@ for the creation of web applications developed with Angular.
 * [elbe-ui ![GitHub Repo Stars](https://img.shields.io/github/stars/marcjulian/elbe-ui) ![GitHub last commit](https://img.shields.io/github/last-commit/marcjulian/elbe-ui)](https://github.com/marcjulian/elbe-ui) - Angular UI components built with Tailwind CSS and Spartan UI.
 * [Flowbite](https://flowbite.com/docs/getting-started/angular/) - Open-source UI components built with Tailwind CSS with support for Angular.
 * [FlyonUI ![GitHub Repo Stars](https://img.shields.io/github/stars/themeselection/flyonui) ![GitHub last commit](https://img.shields.io/github/last-commit/themeselection/flyonui)](https://github.com/themeselection/flyonui) - [Integrate](https://flyonui.com/framework-integrations/angular/) FlyonUI with Angular and Tailwind CSS to create a modern, responsive UI, streamlining your development process efficiently.
-* [Galaxy UI ![GitHub Repo Stars](https://img.shields.io/github/stars/galaxy-nebula/galaxy-design) ![GitHub last commit](https://img.shields.io/github/last-commit/galaxy-nebula/galaxy-design)](https://github.com/galaxy-nebula/galaxy-design) - Beautiful, accessible components for Vue 3, React 18, Angular 20+, React Native, and Flutter — built on Radix primitives with Tailwind CSS v3/v4 support, from web to mobile.
+* [Galaxy UI ![GitHub Repo Stars](https://img.shields.io/github/stars/galaxy-nebula/galaxy-design) ![GitHub last commit](https://img.shields.io/github/last-commit/galaxy-nebula/galaxy-design)](https://github.com/galaxy-nebula/galaxy-design) - Beautiful, accessible components for Vue 3, React 18, Angular 20+, React Native, and Flutter �� built on Radix primitives with Tailwind CSS v3/v4 support, from web to mobile.
 * [koala-ui ![GitHub Repo Stars](https://img.shields.io/github/stars/igordrangel/koala-ui) ![GitHub last commit](https://img.shields.io/github/last-commit/igordrangel/koala-ui)](https://github.com/igordrangel/koala-ui) - A modern and accessible component library designed to speed up interface development.
 * [ng-brutalism ![GitHub Repo Stars](https://img.shields.io/github/stars/khangtrannn/ng-brutalism) ![GitHub last commit](https://img.shields.io/github/last-commit/khangtrannn/ng-brutalism)](https://github.com/khangtrannn/ng-brutalism) - Neo-brutalist Angular UI library with signals, zoneless, and Tailwind CSS v4. Bold borders, offset shadows, opinionated aesthetic end-to-end.
 * [Metronic](https://keenthemes.com/metronic/tailwind/docs/getting-started/integration/angular) - Comprehensive Tailwind CSS UI toolkit for building modern, scalable web applications efficiently.
