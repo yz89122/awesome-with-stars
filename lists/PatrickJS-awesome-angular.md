@@ -867,6 +867,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 
 * [angular-compile ![GitHub Repo Stars](https://img.shields.io/github/stars/patrikx3/angular-compile) ![GitHub last commit](https://img.shields.io/github/last-commit/patrikx3/angular-compile)](https://github.com/patrikx3/angular-compile) - Angular Dynamic Compile. Convert strings to Angular components.
 * [deepequalspure ![GitHub Repo Stars](https://img.shields.io/github/stars/puckowski/deepequalspure) ![GitHub last commit](https://img.shields.io/github/last-commit/puckowski/deepequalspure)](https://github.com/puckowski/deepequalspure) - JavaScript object deep equals service for Angular projects.
+* [dx-bind-js ![GitHub Repo Stars](https://img.shields.io/github/stars/okzgn/dx-bind-js) ![GitHub last commit](https://img.shields.io/github/last-commit/okzgn/dx-bind-js)](https://github.com/okzgn/dx-bind-js) - A lightweight, framework-agnostic, zero-dependency utility designed to simplify dynamic dependency injection and property binding.
 * [ng-eval ![GitHub Repo Stars](https://img.shields.io/github/stars/zvenigora/ng-eval) ![GitHub last commit](https://img.shields.io/github/last-commit/zvenigora/ng-eval)](https://github.com/zvenigora/ng-eval) - Expression parsing and evaluation for Angular applications.
 * [ng-noop ![GitHub Repo Stars](https://img.shields.io/github/stars/joeskeen/ng-noop) ![GitHub last commit](https://img.shields.io/github/last-commit/joeskeen/ng-noop)](https://github.com/joeskeen/ng-noop) - A minimal, DOM‑less Angular platform for custom runtimes, CLIs, servers, and experimental renderers.
 * [ngx-api-mimic ![GitHub Repo Stars](https://img.shields.io/github/stars/mateuszbilicz/ngx-api-mimic) ![GitHub last commit](https://img.shields.io/github/last-commit/mateuszbilicz/ngx-api-mimic)](https://github.com/mateuszbilicz/ngx-api-mimic) - This library allows you to mock data and simulate a fake API using Angular’s HTTP Interceptor.
@@ -1394,6 +1395,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [Lattice Grid ![GitHub Repo Stars](https://img.shields.io/github/stars/toclocoinc/latticegrid) ![GitHub last commit](https://img.shields.io/github/last-commit/toclocoinc/latticegrid)](https://github.com/toclocoinc/latticegrid) - A high-performance JavaScript data grid with a data router that keeps grids, charts, boards, Gantts, and KPI tiles instantly synchronized.
 * [RevoGrid Pivot ![GitHub Repo Stars](https://img.shields.io/github/stars/revolist/pivot) ![GitHub last commit](https://img.shields.io/github/last-commit/revolist/pivot)](https://github.com/revolist/pivot) - Pivot tables with grouping, aggregation, subtotals, and grand totals. Commercial, with a [30-day trial](https://rv-grid.com/trial). [Docs](https://pro.rv-grid.com/guides/pivot/).
 * [virtua ![GitHub Repo Stars](https://img.shields.io/github/stars/inokawa/virtua) ![GitHub last commit](https://img.shields.io/github/last-commit/inokawa/virtua)](https://github.com/inokawa/virtua) - A zero-config, fast and small virtual list, grid and masonry component for React, Vue, Solid, Svelte and Angular.
+* [ngx-bs-grid ![GitHub Repo Stars](https://img.shields.io/github/stars/BlockSurvey/bs-grid) ![GitHub last commit](https://img.shields.io/github/last-commit/BlockSurvey/bs-grid)](https://github.com/BlockSurvey/bs-grid) - A zero-dependency MIT-licensed Angular data grid.
 
 ### Dates
 
@@ -1532,6 +1534,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-editor-rtl-ltr-edition ![GitHub Repo Stars](https://img.shields.io/github/stars/ahpcoir-lgtm/ngx-editor-rtl-ltr-edition) ![GitHub last commit](https://img.shields.io/github/last-commit/ahpcoir-lgtm/ngx-editor-rtl-ltr-edition)](https://github.com/ahpcoir-lgtm/ngx-editor-rtl-ltr-edition) - A text editor built on ProseMirror featuring native RTL/LTR support, Persian/Arabic fonts and locales, advanced tables, and media embeds.
 * [ngx-editra ![GitHub Repo Stars](https://img.shields.io/github/stars/Khatri-Sanjay/ngx-editra) ![GitHub last commit](https://img.shields.io/github/last-commit/Khatri-Sanjay/ngx-editra)](https://github.com/Khatri-Sanjay/ngx-editra) - A CKEditor-inspired rich text editor for Angular, featuring a customizable toolbar, tables, images, formatting, and extensible plugins.
 * [Sqwig](https://sqwig.com/) - Rich text editor with spellcheck built in.
+* [angular-mrydex-editor ![GitHub Repo Stars](https://img.shields.io/github/stars/MRydex/angular-mrydex-editor) ![GitHub last commit](https://img.shields.io/github/last-commit/MRydex/angular-mrydex-editor)](https://github.com/MRydex/angular-mrydex-editor) - Generic, plugin-driven rich text editor built on Tiptap for Angular 21.2+.
 
 ### File Upload
 
