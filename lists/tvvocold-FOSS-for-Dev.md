@@ -47,6 +47,7 @@ Feel free to send a PR :)
  * [Clifm ![GitHub Repo Stars](https://img.shields.io/github/stars/leo-arch/clifm) ![GitHub last commit](https://img.shields.io/github/last-commit/leo-arch/clifm)](https://github.com/leo-arch/clifm) - The terminal is always in your reach when managing your files.
  * [Clipboard ![GitHub Repo Stars](https://img.shields.io/github/stars/Slackadays/Clipboard) ![GitHub last commit](https://img.shields.io/github/last-commit/Slackadays/Clipboard)](https://github.com/Slackadays/Clipboard) - Cut, copy, and paste anything, anywhere, anytime, all from the terminal.
  * [fzf ![GitHub Repo Stars](https://img.shields.io/github/stars/junegunn/fzf) ![GitHub last commit](https://img.shields.io/github/last-commit/junegunn/fzf)](https://github.com/junegunn/fzf) - Fuzzy find anything in your directories.
+ * [Glim ![GitHub Repo Stars](https://img.shields.io/github/stars/NeoPanic/Glim) ![GitHub last commit](https://img.shields.io/github/last-commit/NeoPanic/Glim)](https://github.com/NeoPanic/Glim) - MIT-licensed macOS file viewer for Markdown, source code, JSON and CSV, with read-only PDF/Office previews and basic UTF-8 text editing.
 
 ## Collaboration Tools
 

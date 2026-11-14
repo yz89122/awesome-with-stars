@@ -999,6 +999,18 @@ _Libraries for file manipulation._
 - Remote Files
   - [fsspec ![GitHub Repo Stars](https://img.shields.io/github/stars/fsspec/filesystem_spec) ![GitHub last commit](https://img.shields.io/github/last-commit/fsspec/filesystem_spec)](https://github.com/fsspec/filesystem_spec) - A unified filesystem interface for local, cloud, and remote storage.
   - [smart-open ![GitHub Repo Stars](https://img.shields.io/github/stars/piskvorky/smart_open) ![GitHub last commit](https://img.shields.io/github/last-commit/piskvorky/smart_open)](https://github.com/piskvorky/smart_open) - Stream files from S3, GCS, Azure, HDFS, and HTTP as a drop-in replacement for open().
+- Compression
+  - [compression.zstd](https://docs.python.org/3/library/compression.zstd.html) - (Python standard library) Compress and decompress data in the Zstandard format.
+  - [gzip](https://docs.python.org/3/library/gzip.html) - (Python standard library) Read and write gzip-compressed files and data.
+  - [zstandard ![GitHub Repo Stars](https://img.shields.io/github/stars/indygreg/python-zstandard) ![GitHub last commit](https://img.shields.io/github/last-commit/indygreg/python-zstandard)](https://github.com/indygreg/python-zstandard) - Python bindings to the Zstandard (zstd) compression library.
+  - [brotli ![GitHub Repo Stars](https://img.shields.io/github/stars/google/brotli) ![GitHub last commit](https://img.shields.io/github/last-commit/google/brotli)](https://github.com/google/brotli) - Python bindings for Google's Brotli compression library.
+  - [lz4 ![GitHub Repo Stars](https://img.shields.io/github/stars/python-lz4/python-lz4) ![GitHub last commit](https://img.shields.io/github/last-commit/python-lz4/python-lz4)](https://github.com/python-lz4/python-lz4) - Python bindings for the LZ4 fast compression library.
+- Archives
+  - [tarfile](https://docs.python.org/3/library/tarfile.html) - (Python standard library) Read and write tar archives, including gzip, bz2, lzma, and zstd compressed ones.
+  - [zipfile](https://docs.python.org/3/library/zipfile.html) - (Python standard library) Read and write ZIP archives.
+  - [py7zr ![GitHub Repo Stars](https://img.shields.io/github/stars/miurahr/py7zr) ![GitHub last commit](https://img.shields.io/github/last-commit/miurahr/py7zr)](https://github.com/miurahr/py7zr) - A pure-Python library for reading and writing 7-Zip archives.
+  - [pyzipper ![GitHub Repo Stars](https://img.shields.io/github/stars/danifus/pyzipper) ![GitHub last commit](https://img.shields.io/github/last-commit/danifus/pyzipper)](https://github.com/danifus/pyzipper) - Read and write AES-encrypted ZIP files ([zipfile](https://docs.python.org/3/library/zipfile.html) fork).
+  - [rarfile ![GitHub Repo Stars](https://img.shields.io/github/stars/markokr/rarfile) ![GitHub last commit](https://img.shields.io/github/last-commit/markokr/rarfile)](https://github.com/markokr/rarfile) - A RAR archive reader with a zipfile-like API.
 
 **Media**
 

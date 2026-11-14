@@ -38,6 +38,7 @@ Contributions welcome! Please follow the [contributing guidelines ![GitHub Repo 
 ## Calculators
 
 - [farm-calculators ![GitHub Repo Stars](https://img.shields.io/github/stars/brycejohnston/farm-calculators) ![GitHub last commit](https://img.shields.io/github/last-commit/brycejohnston/farm-calculators)](https://github.com/brycejohnston/farm-calculators) - WordPress plugin for calculating various farming and crop related information.
+- [flower-farm-math ![GitHub Repo Stars](https://img.shields.io/github/stars/SaschaHeyer/flower-farm-math) ![GitHub last commit](https://img.shields.io/github/last-commit/SaschaHeyer/flower-farm-math)](https://github.com/SaschaHeyer/flower-farm-math) - Zero-dependency JavaScript library for flower farm and farmer-florist math: wedding stem counts, costs-up CSA bouquet pricing, and a bloom-to-sales weekly reconciliation of stems cut vs. promised by variety.
 
 ## Climate, Environment and Weather
 
