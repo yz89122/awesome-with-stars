@@ -179,7 +179,7 @@ Your favorite package is not listed? Fork and [create a Pull Request ![GitHub Re
   - [Menhir](http://gallium.inria.fr/~fpottier/menhir/) – Menhir is a LR(1) parser generator for OCaml.
     - See [ocaml-parsing ![GitHub Repo Stars](https://img.shields.io/github/stars/smolkaj/ocaml-parsing) ![GitHub last commit](https://img.shields.io/github/last-commit/smolkaj/ocaml-parsing)](https://github.com/smolkaj/ocaml-parsing) for a clearer example of using Menhir and Sedlex to produce a useful parser,
     - ... and [Obelisk ![GitHub Repo Stars](https://img.shields.io/github/stars/Lelio-Brun/Obelisk) ![GitHub last commit](https://img.shields.io/github/last-commit/Lelio-Brun/Obelisk)](https://github.com/Lelio-Brun/Obelisk), a neat project to produce readable LaTeX, HTML, or plain-text EBNF-style documentation for your grammar.
-  - [ocamllex/ocamlyacc](http://caml.inria.fr/pub/docs/manual-ocaml-4.01/lexyacc.html) – lex and yacc implementation for OCaml.
+  - [ocamllex/ocamlyacc](http://caml.inria.fr/pub/docs/manual-ocaml-4.01/lexyacc.html) ��� lex and yacc implementation for OCaml.
   - [Angstrom ![GitHub Repo Stars](https://img.shields.io/github/stars/inhabitedtype/angstrom) ![GitHub last commit](https://img.shields.io/github/last-commit/inhabitedtype/angstrom)](https://github.com/inhabitedtype/angstrom) - Parser combinators built for speed and memory efficiency
 - **Articles**:
   - [Kaleidoscope: Implementing a Language with LLVM in Objective Caml¶](http://llvm.org/docs/tutorial/OCamlLangImpl1.html)

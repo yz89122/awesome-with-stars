@@ -1138,6 +1138,7 @@ then it is not supported:
 - [rifen/timescope ![GitHub Repo Stars](https://img.shields.io/github/stars/rifen/timescope) ![GitHub last commit](https://img.shields.io/github/last-commit/rifen/timescope)](https://github.com/rifen/timescope) - Inspect numeric durations in code and view human-readable equivalents as inline virtual text.
 - [ChrisGVE/docshelf.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/ChrisGVE/docshelf.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/ChrisGVE/docshelf.nvim)](https://github.com/ChrisGVE/docshelf.nvim) - Offline API documentation from `devdocs.io`, `Hackage`, `docs.rs`, `pkg.go.dev`, `Sphinx` / `DocC` sites and `Dash` docsets, converted to text for reading and grepping in a buffer, with per-language filtering and automatic updates.
 - [alexcloudstar/cheatsheet.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/alexcloudstar/cheatsheet.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/alexcloudstar/cheatsheet.nvim)](https://github.com/alexcloudstar/cheatsheet.nvim) - Telescope cheatsheet for your keybindings; look up a key by task or keyword and add your own keys.
+- [leblocks/treetags.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/leblocks/treetags.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/leblocks/treetags.nvim)](https://github.com/leblocks/treetags.nvim) - Fast, Tree-sitter-based code tags and symbol navigation.
 
 ### CSV Files
 

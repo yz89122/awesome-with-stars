@@ -1329,6 +1329,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [RevoGrid Charts ![GitHub Repo Stars](https://img.shields.io/github/stars/revolist/charts) ![GitHub last commit](https://img.shields.io/github/last-commit/revolist/charts)](https://github.com/revolist/charts) - Interactive charts with zoom, annotations, and export. Commercial, with a [30-day trial](https://rv-grid.com/trial). [Docs](https://pro.rv-grid.com/guides/charts/).
 * [RevoGrid Gantt ![GitHub Repo Stars](https://img.shields.io/github/stars/revolist/gantt) ![GitHub last commit](https://img.shields.io/github/last-commit/revolist/gantt)](https://github.com/revolist/gantt) - Gantt charts for project tasks, dependencies, and timelines. Commercial, with a [30-day trial](https://rv-grid.com/trial). [Docs](https://pro.rv-grid.com/guides/gantt/).
 * [moguchart-core ![GitHub Repo Stars](https://img.shields.io/github/stars/hiro-murakami/moguchart-core) ![GitHub last commit](https://img.shields.io/github/last-commit/hiro-murakami/moguchart-core)](https://github.com/hiro-murakami/moguchart-core) - A lightweight yet feature-rich Gantt chart Web Component built with Lit.
+* [ngx-linear-pie ![GitHub Repo Stars](https://img.shields.io/github/stars/feature23/ngx-linear-pie) ![GitHub last commit](https://img.shields.io/github/last-commit/feature23/ngx-linear-pie)](https://github.com/feature23/ngx-linear-pie) - A linear "pie" chart component for Angular Material.
 
 ### Cookies
 
@@ -2207,6 +2208,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [Kometa UI ![GitHub Repo Stars](https://img.shields.io/github/stars/InomjonIsmaylov/kometa-ui-kit) ![GitHub last commit](https://img.shields.io/github/last-commit/InomjonIsmaylov/kometa-ui-kit)](https://github.com/InomjonIsmaylov/kometa-ui-kit) - Angular 22 UI kit of standalone, OnPush, signal-input components themed by CSS custom properties, light and dark, with no third-party UI dependency.
 * [Revo UI ![GitHub Repo Stars](https://img.shields.io/github/stars/revolist/revo-ui) ![GitHub last commit](https://img.shields.io/github/last-commit/revolist/revo-ui)](https://github.com/revolist/revo-ui) - MIT-licensed UI components for building reports and dashboards in Angular, including form controls, pickers, and dialogs. [Docs](https://ui.rv-grid.com/frameworks/angular/).
 * [tectra-ng ![GitHub Repo Stars](https://img.shields.io/github/stars/kulakovskyi/tectra-ng) ![GitHub last commit](https://img.shields.io/github/last-commit/kulakovskyi/tectra-ng)](https://github.com/kulakovskyi/tectra-ng) - Open-source Angular UI kit for consoles and admin apps.
+* [Blocks ![GitHub Repo Stars](https://img.shields.io/github/stars/filipmazev/Blocks) ![GitHub last commit](https://img.shields.io/github/last-commit/filipmazev/Blocks)](https://github.com/filipmazev/Blocks) - A modular Angular UI library for responsive, accessible applications.
 
 ### UI Libraries built on Bootstrap
 
