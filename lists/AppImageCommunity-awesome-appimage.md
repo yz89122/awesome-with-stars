@@ -60,29 +60,26 @@
 	- [Miscellaneous](#miscellaneous)
 	- [Related](#related)
 	- [Other awesome lists](#other-awesome-lists)
-	- [Expired links](#expired-links)
 
 ## AppImage discovery
 
 ### App catalogs
 
 - [AppImage.GitHub.io](https://appimage.github.io/) - Catalog of AppImages that passed an automated test, links to upstream download pages.
+- [Get AppImage](https://srevinsaju.github.io/get-appimage/) - Collection of all AppImages in one website. Great search functionality.
 
 ### App stores
 
 - [AppImageHub.com](https://www.appimagehub.com/) - Downloadable AppImages, powered by [Opendesktop.org](https://www.opendesktop.org/).
 - [pling.com](https://www.pling.com/) - Open store where creators can publish their libre products and creative content including AppImages.
-- [Manjaro Software Discover](https://software.manjaro.org/appimages) - Web-based app store that contains applications in multiple formats, including AppImage.
 
 ### App centers
 
-- [NX Software Center ![GitHub Repo Stars](https://img.shields.io/github/stars/Nitrux/nx-software-center) ![GitHub last commit](https://img.shields.io/github/last-commit/Nitrux/nx-software-center)](https://github.com/Nitrux/nx-software-center) - Portable Software Center for portable AppImage applications.
 - [AppImagePool ![GitHub Repo Stars](https://img.shields.io/github/stars/prateekmedia/appimagepool) ![GitHub last commit](https://img.shields.io/github/last-commit/prateekmedia/appimagepool)](https://github.com/prateekmedia/appimagepool) - Simple, modern AppImageHub Client, powered by flutter.
 
 ### App scrapers
 
 - [appimages.scraper ![GitHub Repo Stars](https://img.shields.io/github/stars/azubieta/appimages.scraper) ![GitHub last commit](https://img.shields.io/github/last-commit/azubieta/appimages.scraper)](https://github.com/azubieta/appimages.scraper) - Search for AppImage releases over the web.
-- [AppImageRadar ![GitHub Repo Stars](https://img.shields.io/github/stars/AppImage/AppImageRadar) ![GitHub last commit](https://img.shields.io/github/last-commit/AppImage/AppImageRadar)](https://github.com/AppImage/AppImageRadar) - Search for AppImage-related activity on GitHub using Travis CI.
 
 ## AppImage consumption tools
 
@@ -90,7 +87,6 @@
 
 - [Getting Started Managing Software with AppImage on Ubuntu](https://adamtheautomator.com/appimage-ubuntu/) - Verbosely explains how to manage AppImages without the need for further software.
 - [go-appimaged ![GitHub Repo Stars](https://img.shields.io/github/stars/probonopd/go-appimage) ![GitHub last commit](https://img.shields.io/github/last-commit/probonopd/go-appimage)](https://github.com/probonopd/go-appimage/tree/master/src/appimaged) - Optional daemon that integrates AppImages into the system (experimental).
-- [appimaged ![GitHub Repo Stars](https://img.shields.io/github/stars/AppImage/appimaged) ![GitHub last commit](https://img.shields.io/github/last-commit/AppImage/appimaged)](https://github.com/AppImage/appimaged) - Optional daemon that integrates AppImages into the system (deprecated).
 - [AppImageLauncher ![GitHub Repo Stars](https://img.shields.io/github/stars/TheAssassin/AppImageLauncher) ![GitHub last commit](https://img.shields.io/github/last-commit/TheAssassin/AppImageLauncher)](https://github.com/TheAssassin/AppImageLauncher) - Integrates into users' systems and establishes a single `~/Applications` directory, assisting the user to move AppImages into there, with support for updating and removing AppImages through apps launcher.
 - [appimagehelper](https://gitlab.com/posktomten/appimagehelper) - Program for creating, deleting, controlling and organizing shortcuts to AppImage.
 - [LinuxPA ![GitHub Repo Stars](https://img.shields.io/github/stars/CalebQ42/LinuxPA) ![GitHub last commit](https://img.shields.io/github/last-commit/CalebQ42/LinuxPA)](https://github.com/CalebQ42/LinuxPA) - PortableApps.com type launcher for Linux with AppImage support.
@@ -98,6 +94,7 @@
 - [Thumbnailer for AppImages ![GitHub Repo Stars](https://img.shields.io/github/stars/mttbernardini/appimage-thumbnailer) ![GitHub last commit](https://img.shields.io/github/last-commit/mttbernardini/appimage-thumbnailer)](https://github.com/mttbernardini/appimage-thumbnailer) - Generates icons for AppImages that are shown in file managers of GNOME and KDE compatible desktop environments.
 - [XApp Thumbnailers ![GitHub Repo Stars](https://img.shields.io/github/stars/linuxmint/xapp-thumbnailers) ![GitHub last commit](https://img.shields.io/github/last-commit/linuxmint/xapp-thumbnailers)](https://github.com/linuxmint/xapp-thumbnailers) - Thumbnailers for GTK Desktop Environments, including one for the AppImage file format. Makes Gtk based file managers like Caja (MATE), Nautilus (GNOME), Nemo (Cinnamon), PCManFM (LXDE), and Thunar (Xfce) show application icons on AppImages.
 - [AppImage To Gnome ![GitHub Repo Stars](https://img.shields.io/github/stars/DejfCold/ATG) ![GitHub last commit](https://img.shields.io/github/last-commit/DejfCold/ATG)](https://github.com/DejfCold/ATG) - Monitors and (de)installs AppImages from the Gnome desktop.
+- [AppImage-Integrator ![GitHub Repo Stars](https://img.shields.io/github/stars/w-j-r/AppImage-Integrator) ![GitHub last commit](https://img.shields.io/github/last-commit/w-j-r/AppImage-Integrator)](https://github.com/w-j-r/AppImage-Integrator) - A simple program to integrate AppImages into the Linux desktop written in Qt6.
 - [gnome_appimage_installer ![GitHub Repo Stars](https://img.shields.io/github/stars/knork-fork/gnome_appimage_installer) ![GitHub last commit](https://img.shields.io/github/last-commit/knork-fork/gnome_appimage_installer)](https://github.com/knork-fork/gnome_appimage_installer) - Somewhat a misnomer (AppImages don't need to be "installed"), creates a desktop file that follows the freedesktop.org spec for your AppImage files; written in bash.
 - [Gear lever ![GitHub Repo Stars](https://img.shields.io/github/stars/mijorus/gearlever) ![GitHub last commit](https://img.shields.io/github/last-commit/mijorus/gearlever)](https://github.com/mijorus/gearlever/) - Integrates AppImages into the Gnome desktop by drag-and-drop onto the Gear lever application.
 
@@ -120,13 +117,11 @@ __Note:__ The AppImage format is explicitly designed _not to need any package ma
 - [appimage-manager ![GitHub Repo Stars](https://img.shields.io/github/stars/AppImageCrafters/appimage-manager) ![GitHub last commit](https://img.shields.io/github/last-commit/AppImageCrafters/appimage-manager)](https://github.com/AppImageCrafters/appimage-manager) - Command-line tool for managing AppImages allowing to search, install, remove and update applications.
 - [bauh ![GitHub Repo Stars](https://img.shields.io/github/stars/vinifmor/bauh) ![GitHub last commit](https://img.shields.io/github/last-commit/vinifmor/bauh)](https://github.com/vinifmor/bauh) - Graphical user interface for managing Linux applications supporting AppImage, Arch (repositories/AUR), Flatpak, Snap and native Web applications.
 - [homebrew-appimage ![GitHub Repo Stars](https://img.shields.io/github/stars/athrunsun/homebrew-appimage) ![GitHub last commit](https://img.shields.io/github/last-commit/athrunsun/homebrew-appimage)](https://github.com/athrunsun/homebrew-appimage) - Linuxbrew AppImage Formulae.
-- [AIPM ![GitHub Repo Stars](https://img.shields.io/github/stars/michaeldelago/aipm) ![GitHub last commit](https://img.shields.io/github/last-commit/michaeldelago/aipm)](https://github.com/michaeldelago/aipm) - A Package Manager for AppImages.
 - [Zap ![GitHub Repo Stars](https://img.shields.io/github/stars/srevinsaju/zap) ![GitHub last commit](https://img.shields.io/github/last-commit/srevinsaju/zap)](https://github.com/srevinsaju/zap) - AppImage package manager. Downloads the AppImage if it does not exist. If it already exists, updates it with AppImageUpdate. Integrates AppImage into the system.
 - [RookiePM ![GitHub Repo Stars](https://img.shields.io/github/stars/18fadly-anthony/rookie) ![GitHub last commit](https://img.shields.io/github/last-commit/18fadly-anthony/rookie)](https://github.com/18fadly-anthony/rookie) - Package manager for AppImages and Shell Scripts.
 - [AppMan ![GitHub Repo Stars](https://img.shields.io/github/stars/ivan-hc/AppMan) ![GitHub last commit](https://img.shields.io/github/last-commit/ivan-hc/AppMan)](https://github.com/ivan-hc/AppMan) - AppImage Manager that works like APT or Pacman.
 - [jewelrystore](https://rubygems.org/gems/jewelrystore) - Command line AppImage store made in ruby.
 - [ayy ![GitHub Repo Stars](https://img.shields.io/github/stars/lawl/ayy) ![GitHub last commit](https://img.shields.io/github/last-commit/lawl/ayy)](https://github.com/lawl/ayy) - Package manager for AppImage. Single, static, dependency free binary. Written in Go.
-- [leap ![GitHub Repo Stars](https://img.shields.io/github/stars/lnxcz/leap) ![GitHub last commit](https://img.shields.io/github/last-commit/lnxcz/leap)](https://github.com/lnxcz/leap) - Fast and simple AppImage manager. Written in Rust.
 - [Bread ![GitHub Repo Stars](https://img.shields.io/github/stars/pegvin/bread) ![GitHub last commit](https://img.shields.io/github/last-commit/pegvin/bread)](https://github.com/pegvin/bread) - Download, update, remove, and run AppImages from GitHub on the command line, and integrate apps into the desktop.
 
 ### Linux distributions
@@ -139,6 +134,8 @@ Although the AppImage format was carefully designed not to need any special supp
 - [Zenwalk GNU Linux](http://www.zenwalk.org/) - Is "AppImage ready" and distributes some applications in AppImage format.
 
 ## AppImage developer tools
+
+New to making AppImages? Start with the [packaging guide](https://docs.appimage.org/packaging-guide/index.html), which explains how an AppImage is structured and walks through creating one. The tools below automate parts of that process.
 
 ### Low-level tools
 
@@ -173,15 +170,13 @@ Although the AppImage format was carefully designed not to need any special supp
 ### Deployment tools for Electron applications
 
 - [electron-builder ![GitHub Repo Stars](https://img.shields.io/github/stars/electron-userland/electron-builder) ![GitHub last commit](https://img.shields.io/github/last-commit/electron-userland/electron-builder)](https://github.com/electron-userland/electron-builder) - Supports AppImage as an output format.
-- [electron-forge-maker-appimage ![GitHub Repo Stars](https://img.shields.io/github/stars/saleae/electron-forge-maker-appimage) ![GitHub last commit](https://img.shields.io/github/last-commit/saleae/electron-forge-maker-appimage)](https://github.com/saleae/electron-forge-maker-appimage) - Electron Forge builder for AppImage.
 - [Appnativefy ![GitHub Repo Stars](https://img.shields.io/github/stars/sarweshparajuli/appnativefy) ![GitHub last commit](https://img.shields.io/github/last-commit/sarweshparajuli/appnativefy)](https://github.com/sarweshparajuli/appnativefy) - Create AppImage with embedded Electron browser from any website.
 
 ### Deployment tools for Windows applications
 
 - [wine32-deploy ![GitHub Repo Stars](https://img.shields.io/github/stars/sudo-give-me-coffee/wine32-deploy) ![GitHub last commit](https://img.shields.io/github/last-commit/sudo-give-me-coffee/wine32-deploy)](https://github.com/sudo-give-me-coffee/wine32-deploy) - Creates AppImages for 32-bit Windows applications that can run on 64-bit Linux systems without multilib installed.
 - [AppImage For WINE ![GitHub Repo Stars](https://img.shields.io/github/stars/Hackerl/Wine_Appimage) ![GitHub last commit](https://img.shields.io/github/last-commit/Hackerl/Wine_Appimage)](https://github.com/Hackerl/Wine_Appimage) - WINE-based AppImages and LD_PRELOAD based patches to launch WINE from AppImages.
-- [ferion11/Wine_Appimage ![GitHub Repo Stars](https://img.shields.io/github/stars/ferion11/Wine_Appimage) ![GitHub last commit](https://img.shields.io/github/last-commit/ferion11/Wine_Appimage)](https://github.com/ferion11/Wine_Appimage) - AppImage for WINE 32bits from PlayOnLinux, an run on no-multilib systems.
-- [GameImage](https://gitlab.com/formigoni/gameimage) - Is a way to package up games with either Wine or an Emulator into a portable AppImage that could be useful for the Steam Deck.
+- [GameImage ![GitHub Repo Stars](https://img.shields.io/github/stars/gameimage/gameimage) ![GitHub last commit](https://img.shields.io/github/last-commit/gameimage/gameimage)](https://github.com/gameimage/gameimage) - Is a way to package up games with either Wine or an Emulator into a portable AppImage that could be useful for the Steam Deck.
 
 ### Deployment tools for Java applications
 
@@ -208,9 +203,7 @@ Although the AppImage format was carefully designed not to need any special supp
 - [appimage2pkg](https://gitlab.com/nixtux-packaging/appimage2pkg) - Repack AppImage and make rpm/deb which does not require FUSE.
 - [flatpak2appdir ![GitHub Repo Stars](https://img.shields.io/github/stars/sudo-give-me-coffee/flatpak2appdir) ![GitHub last commit](https://img.shields.io/github/last-commit/sudo-give-me-coffee/flatpak2appdir)](https://github.com/sudo-give-me-coffee/flatpak2appdir) - Turn Flatpak into AppDir which in turn can be turned into AppImage.
 - [make-portable ![GitHub Repo Stars](https://img.shields.io/github/stars/sudo-give-me-coffee/make-portable) ![GitHub last commit](https://img.shields.io/github/last-commit/sudo-give-me-coffee/make-portable)](https://github.com/sudo-give-me-coffee/make-portable) - Deploys installed application to AppDir, uses strace to fetch all file system calls and copies all accessed files in to AppDir including glibc.
-- [AppImage cobbler](https://gitlab.com/brinkervii/appimage-cobbler) - Python application that takes strace.log and turns it into a directory suited for an AppImage.
 - [Elements ![GitHub Repo Stars](https://img.shields.io/github/stars/s-zeid/elements) ![GitHub last commit](https://img.shields.io/github/last-commit/s-zeid/elements)](https://github.com/s-zeid/elements) - Tool to generate single-file, runc-based AppImages using a minimal (~3 MB compressed) Alpine Linux rootfs.
-- [arch2appimage ![GitHub Repo Stars](https://img.shields.io/github/stars/hanzala123/arch2appimage) ![GitHub last commit](https://img.shields.io/github/last-commit/hanzala123/arch2appimage)](https://github.com/hanzala123/arch2appimage) - Python script to convert any Arch Linux package (official/AUR) to an AppImage.
 - [appimage-bash ![GitHub Repo Stars](https://img.shields.io/github/stars/valicm/appimage-bash) ![GitHub last commit](https://img.shields.io/github/last-commit/valicm/appimage-bash)](https://github.com/valicm/appimage-bash) - GitHub Action for creating AppImage releases from binaries inside `.tar.gz` archives.
 - [Package-to-appimage ![GitHub Repo Stars](https://img.shields.io/github/stars/CausaPrincipalis71/package-to-appimage) ![GitHub last commit](https://img.shields.io/github/last-commit/CausaPrincipalis71/package-to-appimage)](https://github.com/CausaPrincipalis71/package-to-appimage) - Tool for converting `.deb` and `.rpm` packages into AppImage format by using Docker.
 - [GMAppImager ![GitHub Repo Stars](https://img.shields.io/github/stars/samuelvenable/GMAppImager) ![GitHub last commit](https://img.shields.io/github/last-commit/samuelvenable/GMAppImager)](https://github.com/samuelvenable/GMAppImager) - Graphically Converts GameMaker Studio 2 games to AppImage bundles.
@@ -227,8 +220,6 @@ Although the AppImage format was carefully designed not to need any special supp
 
 ### Continuous integration
 
-- [GitHub Actions example ![GitHub Repo Stars](https://img.shields.io/github/stars/probonopd/Zoom.AppImage) ![GitHub last commit](https://img.shields.io/github/last-commit/probonopd/Zoom.AppImage)](https://github.com/probonopd/Zoom.AppImage/blob/master/.github/workflows/main.yml) - Example of how to upload AppImages built using GitHub Actions to GitHub Releases.
-- [appimage.yml ![GitHub Repo Stars](https://img.shields.io/github/stars/iotang/Project_LemonLime) ![GitHub last commit](https://img.shields.io/github/last-commit/iotang/Project_LemonLime)](https://github.com/iotang/Project_LemonLime/blob/master/.github/workflows/appimage.yml) - Bigger, more complex example of how to build and upload AppImages using GitHub Actions.
 - [build-appimage-action ![GitHub Repo Stars](https://img.shields.io/github/stars/AppImageCrafters/build-appimage-action) ![GitHub last commit](https://img.shields.io/github/last-commit/AppImageCrafters/build-appimage-action)](https://github.com/AppImageCrafters/build-appimage-action) - GitHub Action for producing AppImages using appimage-builder.
 - [jniltinho/packages ![GitHub Repo Stars](https://img.shields.io/github/stars/jniltinho/packages) ![GitHub last commit](https://img.shields.io/github/last-commit/jniltinho/packages)](https://github.com/jniltinho/packages) - Drone.io example for producing AppImages using go-appimagetool.
 - [Link to the latest build artifact on GitLab CI](https://gitlab.com/linuxappimage/element-desktop/-/jobs/artifacts/master/raw/Element.AppImage?job=run-build) - Example of how to directly link to the latest build artifact on GitLab CI (can be tricky).
@@ -302,7 +293,6 @@ Although the AppImage format was carefully designed not to need any special supp
 ### Miscellaneous
 
 - [AppImage wiki ![GitHub Repo Stars](https://img.shields.io/github/stars/AppImage/AppImageKit) ![GitHub last commit](https://img.shields.io/github/last-commit/AppImage/AppImageKit)](https://github.com/AppImage/AppImageKit/wiki) - Official AppImage wiki.
-- [AppImageZip ![GitHub Repo Stars](https://img.shields.io/github/stars/sagebind/appimagezip) ![GitHub last commit](https://img.shields.io/github/last-commit/sagebind/appimagezip)](https://github.com/sagebind/appimagezip) - Experimental pure Rust implementation of the AppImage runtime that uses Zip as the backing file system image.
 - [help-wanted](https://github.com/search?q=user%3Aappimage+label%3Ahelp-wanted+state%3Aopen&type=Issues) - AppImage issues that the AppImage team would like your help with. A great way to get started contributing to the project.
 - [appdwarf ![GitHub Repo Stars](https://img.shields.io/github/stars/Phantop/appdwarf) ![GitHub last commit](https://img.shields.io/github/last-commit/Phantop/appdwarf)](https://github.com/Phantop/appdwarf) - A tool to convert an AppDir or an existing AppImage file, either as a local file or from a URL, into a highly compressed portable image using dwarfs.
 
@@ -315,10 +305,3 @@ Although the AppImage format was carefully designed not to need any special supp
 - [awesome-linuxdeploy ![GitHub Repo Stars](https://img.shields.io/github/stars/linuxdeploy/awesome-linuxdeploy) ![GitHub last commit](https://img.shields.io/github/last-commit/linuxdeploy/awesome-linuxdeploy)](https://github.com/linuxdeploy/awesome-linuxdeploy) - Awesome list on linuxdeploy.
 - [All Awesome Lists ![GitHub Repo Stars](https://img.shields.io/github/stars/topics/awesome) ![GitHub last commit](https://img.shields.io/github/last-commit/topics/awesome)](https://github.com/topics/awesome) - All the Awesome lists on GitHub.
 
-### Expired links
-
-- [App Outlet](https://app-outlet.github.io/) - Universal app store that works with AppImages, Flatpaks and Snaps.
-- [appimage2desktop ![GitHub Repo Stars](https://img.shields.io/github/stars/me1ting/appimage2desktop) ![GitHub last commit](https://img.shields.io/github/last-commit/me1ting/appimage2desktop)](https://github.com/me1ting/appimage2desktop) - Creates a desktop file and an icon in the system for an AppImage, nothing else.
-- [AppImage-Integrator ![GitHub Repo Stars](https://img.shields.io/github/stars/w-j-r/AppImage-Integrator) ![GitHub last commit](https://img.shields.io/github/last-commit/w-j-r/AppImage-Integrator)](https://github.com/w-j-r/AppImage-Integrator) - A simple program to integrate AppImages into the Linux desktop written in Qt6.
-- [Get AppImage](https://g.sreve/get-appimage/) - Collection of all AppImages in one website. Great search functionality.
-- [AppStream Generator](https://output.jsbin.com/qoqukof) - Very simple generator for AppStream MetaInfo files which application authors can use to add metadata (like descriptions, screenshots, links) to their AppImage.
