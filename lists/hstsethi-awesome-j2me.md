@@ -93,7 +93,8 @@ Proud to be featured in [Awesome ![GitHub Repo Stars](https://img.shields.io/git
 
 ### Apps
 
-- [Discord J2ME ![GitHub Repo Stars](https://img.shields.io/github/stars/gtrxAC/discord-j2me) ![GitHub last commit](https://img.shields.io/github/last-commit/gtrxAC/discord-j2me)](https://github.com/gtrxAC/discord-j2me) - Unofficial Discord client for J2ME. Utilizes a proxy server for HTTP and gateway connections.
+- [Discofi ![GitHub Repo Stars](https://img.shields.io/github/stars/gtrxAC/Discofi) ![GitHub last commit](https://img.shields.io/github/last-commit/gtrxAC/Discofi)](https://github.com/gtrxAC/Discofi) - Unofficial Discord client for J2ME, designed to connect directly to Discord without a proxy. Supports select devices (Nokia and Sony Ericsson).
+- [Discord J2ME ![GitHub Repo Stars](https://img.shields.io/github/stars/gtrxAC/discord-j2me) ![GitHub last commit](https://img.shields.io/github/last-commit/gtrxAC/discord-j2me)](https://github.com/gtrxAC/discord-j2me) - (Discontinued) Unofficial Discord client for J2ME. Utilizes a proxy server for HTTP and gateway connections.
 - [Hotpants ![GitHub Repo Stars](https://img.shields.io/github/stars/baumschubser/hotpants) ![GitHub last commit](https://img.shields.io/github/last-commit/baumschubser/hotpants)](https://github.com/baumschubser/hotpants/) - HOTP/TOTP client.
 - [J2ME Emu Software](https://archive.org/details/j2me-emuSoftware) - Executables, source code of various emulators that run on J2ME.
 - [Jtube ![GitHub Repo Stars](https://img.shields.io/github/stars/shinovon/JTube) ![GitHub last commit](https://img.shields.io/github/last-commit/shinovon/JTube)](https://github.com/shinovon/JTube) - YouTube client based on Invidious API.

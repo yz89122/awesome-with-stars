@@ -387,7 +387,7 @@ The complete collection of (consumer) Raspberry Pi models consist of:
 - [Novaspirittech on YouTube](https://www.youtube.com/channel/UCrjKdwxaQMSV_NDywgKXVmw)
 - [Official Blog](https://www.raspberrypi.org/blog/)
 - [Official Forum](https://www.raspberrypi.org/forums/)
-- [Raspberry Pi Jam — Official conferences](https://www.raspberrypi.org/jam/)
+- [Raspberry Pi Jam �� Official conferences](https://www.raspberrypi.org/jam/)
 - [Reddit Projects](https://www.reddit.com/r/RASPBERRY_PI_PROJECTS)
 - [Reddit](https://www.reddit.com/r/raspberry_pi)
 - [StackExchange](https://raspberrypi.stackexchange.com/)
