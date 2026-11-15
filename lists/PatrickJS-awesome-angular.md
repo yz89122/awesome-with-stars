@@ -1394,6 +1394,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [RevoGrid Pivot ![GitHub Repo Stars](https://img.shields.io/github/stars/revolist/pivot) ![GitHub last commit](https://img.shields.io/github/last-commit/revolist/pivot)](https://github.com/revolist/pivot) - Pivot tables with grouping, aggregation, subtotals, and grand totals. Commercial, with a [30-day trial](https://rv-grid.com/trial). [Docs](https://pro.rv-grid.com/guides/pivot/).
 * [virtua ![GitHub Repo Stars](https://img.shields.io/github/stars/inokawa/virtua) ![GitHub last commit](https://img.shields.io/github/last-commit/inokawa/virtua)](https://github.com/inokawa/virtua) - A zero-config, fast and small virtual list, grid and masonry component for React, Vue, Solid, Svelte and Angular.
 * [ngx-bs-grid ![GitHub Repo Stars](https://img.shields.io/github/stars/BlockSurvey/bs-grid) ![GitHub last commit](https://img.shields.io/github/last-commit/BlockSurvey/bs-grid)](https://github.com/BlockSurvey/bs-grid) - A zero-dependency MIT-licensed Angular data grid.
+* [argus-table ![GitHub Repo Stars](https://img.shields.io/github/stars/Joessst-Dev/argus-table) ![GitHub last commit](https://img.shields.io/github/last-commit/Joessst-Dev/argus-table)](https://github.com/Joessst-Dev/argus-table) - A framework-agnostic, virtualized data table web component built with Lit and TanStack.
 
 ### Dates
 

@@ -168,7 +168,7 @@ quantum cryptography protocols against entanglement attacks (2011)](https://doi.
 ### Security under parallel repetition
 
 - M. Tomamichel, S. Fehr, J. Kaniewski and S. Wehner: [A monogamy-of-entanglement game with applications to device-independent quantum cryptography (2013)](https://doi.org/10.1088/1367-2630/15/10/103002) - Shows a tight upper bound for unentangled attacks, parallel repetition and a linear lower bound for the repeated protocol.
-- L. Escolà-Farràs and F. Speelman: [Quantum position verification in one shot: parallel repetition of the $f$-BB84 and $f$-routing protocols (2025)](https://doi.org/10.48550/arXiv.2503.09544)- Proves security of $f$-route and $f$-measure under parallel repetition for random functions $f$.
+- L. Escolà-Farr��s and F. Speelman: [Quantum position verification in one shot: parallel repetition of the $f$-BB84 and $f$-routing protocols (2025)](https://doi.org/10.48550/arXiv.2503.09544)- Proves security of $f$-route and $f$-measure under parallel repetition for random functions $f$.
 - L. Escolà-Farràs, B. Škorić, and F. Speelman: [Arbitrarily Loss-Tolerant Quantum Position Verification in a Single Execution (2026)](https://doi.org/10.48550/arXiv.2606.25037) - Proves security of the $f$-measure protocol with commitment step (which is the version of the protocol that is fully loss tolerant) under parallel repetition.
 
 ### QPV beyond one dimension
