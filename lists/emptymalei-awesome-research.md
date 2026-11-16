@@ -114,6 +114,7 @@ Want to add a tool? See [CONTRIBUTING.md](CONTRIBUTING.md), or use the [submissi
 * [Pomotodo](https://pomotodo.com/) (`Cloud`,`Mac`,`Win`,`Android`,`iOS`,`Chrome`): A mix of todo list and pomodoro timer, with sync across devices and weekly report [Free].
 * [Tadam](https://tadamapp.com/) (`Mac`): Simple and elegant pomodoro timer [USD$ 4.99].
 * [Productivity Challenge Timer](https://play.google.com/store/apps/details?id=com.wlxd.pomochallenge&hl=en) (`Android`): Pomodoro timer with great gamification features [Free].
+* [Yellow Tomato](https://yellowtomato.app/) (`Chrome`,`iOS`): Pomodoro timer that blocks distracting sites and apps only during focus sessions, with a task list and focus stats [Free].
 
 
 ### GTD-Task Manager
@@ -265,6 +266,7 @@ Want to add a tool? See [CONTRIBUTING.md](CONTRIBUTING.md), or use the [submissi
 * [textlint-rule-rousseau ![GitHub Repo Stars](https://img.shields.io/github/stars/azu/textlint-rule-rousseau) ![GitHub last commit](https://img.shields.io/github/last-commit/azu/textlint-rule-rousseau)](https://github.com/azu/textlint-rule-rousseau): A textlint rule to check English sentences using Rousseau.
 * [De-Jargonizer](http://scienceandpublic.com/): Paste your article or upload file to analyze the amount of jargon in your writing.
 * [Articlo](https://getarticlo.com/): Prepares existing Word manuscripts for a target journal with an editable document, change summary, and author checklist. Free readiness check; paid manuscript preparation.
+* [research-kit ![GitHub Repo Stars](https://img.shields.io/github/stars/zch6a/research-kit) ![GitHub last commit](https://img.shields.io/github/last-commit/zch6a/research-kit)](https://github.com/zch6a/research-kit): Open command-line tools that check a paper before submission (references, numbers, anonymity, page limits), with a map of the best open projects for each stage of research.
 
 
 ### Hosting
@@ -600,6 +602,7 @@ For experimental research, eLabFTW made a online labnote system: [eLabFTW](https
 * [citracer ![GitHub Repo Stars](https://img.shields.io/github/stars/marcpinet/citracer) ![GitHub last commit](https://img.shields.io/github/last-commit/marcpinet/citracer)](https://github.com/marcpinet/citracer): Trace citation chains for any concept across research papers. Given a source PDF (or arXiv/DOI), recursively walks the citation graph and produces an interactive HTML visualization. Supports forward and reverse tracing.
 * [BGPT MCP API](https://bgpt.pro/mcp/): Search scientific papers with structured full-text experimental data (methods, results, conclusions, sample sizes, limitations, quality scores — 25+ fields per paper). Works via the Model Context Protocol with Claude, Cursor, and other AI tools. Free tier: 50 searches without authentication. [Repository ![GitHub Repo Stars](https://img.shields.io/github/stars/connerlambden/bgpt-mcp) ![GitHub last commit](https://img.shields.io/github/last-commit/connerlambden/bgpt-mcp)](https://github.com/connerlambden/bgpt-mcp). MCP registry: `io.github.connerlambden/bgpt-mcp`.
 * [JournalCompass](https://journalcompass.com): Free bilingual journal finder: CAS zones, impact factors, review times, APC/OA status and an AI journal matcher.
+* [Lacuna](https://lacuna.tiptreesystems.com): Search 2.3 million ML and AI papers, the researchers behind them, and the research directions they form; free, no account, with a read-only [MCP server ![GitHub Repo Stars](https://img.shields.io/github/stars/tiptreesystems/lacuna-research-mcp) ![GitHub last commit](https://img.shields.io/github/last-commit/tiptreesystems/lacuna-research-mcp)](https://github.com/tiptreesystems/lacuna-research-mcp) for AI assistants.
 
 ### Get Yourself A Citable Code for Anything
 
@@ -617,6 +620,7 @@ For experimental research, eLabFTW made a online labnote system: [eLabFTW](https
 ### Open Science
 
 * [Open Science Framework](https://osf.io/): A open science tool with a lot of integrations.
+* [AutoResearch](https://autoresearch.me/en/): Browser-based AI research system that connects literature exploration, research ideas, model implementation, GPU experiments and manuscript drafting. Private beta: apply on the site, wait for administrator approval, then set a password from the follow-up email and sign in; approved members receive 5,000 starter credits. Official pages say access is free during the beta, but this is a limited allowance, not unlimited use and not access without an account. Prices for future plans are not yet announced.
 
 ### Bibliography
 

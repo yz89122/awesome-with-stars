@@ -87,6 +87,8 @@ A curation of WebAssembly resources, projects, and communities.
 - [Cross-Origin Isolation Checker](https://app.cinevva.com/tools/cross-origin-isolation-checker) - Check whether a page is cross-origin isolated (COOP/COEP), the requirement for SharedArrayBuffer and multithreaded WebAssembly.
 - [SQLiteLens Studio ![GitHub Repo Stars](https://img.shields.io/github/stars/aaronaltherr1-png/sqlite-lens) ![GitHub last commit](https://img.shields.io/github/last-commit/aaronaltherr1-png/sqlite-lens)](https://github.com/aaronaltherr1-png/sqlite-lens) - Desktop-grade in-browser SQLite workbench & ERD studio running 100% locally via WebAssembly.
 - [Nyxiontech PDF Tools ![GitHub Repo Stars](https://img.shields.io/github/stars/jurecki007/nyxiontech-tools) ![GitHub last commit](https://img.shields.io/github/last-commit/jurecki007/nyxiontech-tools)](https://github.com/jurecki007/nyxiontech-tools) - In-browser toolkit of 25 PDF and image tools, including OCR and background removal, running fully client-side on WebAssembly with no backend.
+- [ConvertX](https://convertx.site) - Free in-browser video-to-audio converter that extracts high-quality 320kbps MP3 or lossless 16-bit WAV entirely client-side with WebAssembly; no upload, no sign-up.
+
 
 ### Frameworks
 
