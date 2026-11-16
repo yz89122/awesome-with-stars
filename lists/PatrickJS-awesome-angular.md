@@ -364,7 +364,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 
 ### Certification Programs
 
-* [Certificates.dev](https://certificates.dev) - Proctored Angular certification exams developed with Google Developer Experts. *(Free Mid-Level prep weekend: Nov 14–15, 2026)*
+* [Certificates.dev](https://certificates.dev) - Proctored Angular certification exams developed with Google Developer Experts.
 * [Angular Academy CA](https://www.angularacademy.ca/angular-certification) - Hands‑on, instructor‑led Angular training in Canada.
 * [Hackerrank](https://www.hackerrank.com/skills-verification/angular_basic) - Automated foundational skills verification test.
 * [Koenig](https://www.koenig-solutions.com/angularjs-training-certification-courses) - Multi-level corporate and full-stack certification courses.
@@ -1718,6 +1718,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ycon.cc](https://ycon.cc) - Search 300,000+ Iconify icons and copy ready-to-use code for React, Vue, Symfony, Next.js, Astro, Svelte, Angular, Laravel and more.
 * [glyphflow](https://glyph-flow-zeta.vercel.app/) - Lucide icons hand-choreographed per icon and animated on the native Web Animations API — zero animation dependencies, real tree-shaking.
 * [Neural Icons](https://icons.neuralui.org/) - Compare outline and filled styles across 250 icon families to inspect details and copy code directly into your project.
+* [TanDD Icons](https://icons.tandd.dev/) - 1,440 stroke icons that turn into each other with spring physics.
 
 ### Images
 
