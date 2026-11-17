@@ -1055,6 +1055,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-signal-flow ![GitHub Repo Stars](https://img.shields.io/github/stars/danseid/ngx-signal-flow) ![GitHub last commit](https://img.shields.io/github/last-commit/danseid/ngx-signal-flow)](https://github.com/danseid/ngx-signal-flow) - Manages state with Angular Signals, updates via Immer, and handles async side effects using RxJS.
 * [homeostate ![GitHub Repo Stars](https://img.shields.io/github/stars/mixedrays/homeostate) ![GitHub last commit](https://img.shields.io/github/last-commit/mixedrays/homeostate)](https://github.com/mixedrays/homeostate) - Keep the store you already use in sync with any CRDT.
 * [soucouyant ![GitHub Repo Stars](https://img.shields.io/github/stars/julienetie/soucouyant) ![GitHub last commit](https://img.shields.io/github/last-commit/julienetie/soucouyant)](https://github.com/julienetie/soucouyant) - A simple, framework-agnostic JavaScript state management library with optional time travel and animation support.
+* [sp00ky ![GitHub Repo Stars](https://img.shields.io/github/stars/mono424/sp00ky) ![GitHub last commit](https://img.shields.io/github/last-commit/mono424/sp00ky)](https://github.com/mono424/sp00ky) - Local-first sync engine and reactive data layer for SurrealDB with optimistic updates, live queries, and offline support.
 
 ## Testing
 
@@ -1534,6 +1535,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-editra ![GitHub Repo Stars](https://img.shields.io/github/stars/Khatri-Sanjay/ngx-editra) ![GitHub last commit](https://img.shields.io/github/last-commit/Khatri-Sanjay/ngx-editra)](https://github.com/Khatri-Sanjay/ngx-editra) - A CKEditor-inspired rich text editor for Angular, featuring a customizable toolbar, tables, images, formatting, and extensible plugins.
 * [Sqwig](https://sqwig.com/) - Rich text editor with spellcheck built in.
 * [angular-mrydex-editor ![GitHub Repo Stars](https://img.shields.io/github/stars/MRydex/angular-mrydex-editor) ![GitHub last commit](https://img.shields.io/github/last-commit/MRydex/angular-mrydex-editor)](https://github.com/MRydex/angular-mrydex-editor) - Generic, plugin-driven rich text editor built on Tiptap for Angular 21.2+.
+* [viveEditor ![GitHub Repo Stars](https://img.shields.io/github/stars/mtvrkan/viveeditor) ![GitHub last commit](https://img.shields.io/github/last-commit/mtvrkan/viveeditor)](https://github.com/mtvrkan/viveeditor) - A free, open-source rich text editor that drops into any website.
 
 ### File Upload
 

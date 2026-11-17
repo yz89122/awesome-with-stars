@@ -81,6 +81,7 @@
 ### Monitoring
 
 - [sngrep ![GitHub Repo Stars](https://img.shields.io/github/stars/irontec/sngrep) ![GitHub last commit](https://img.shields.io/github/last-commit/irontec/sngrep)](https://github.com/irontec/sngrep) - Terminal based SIP flow viewer.
+- [sip-exporter ![GitHub Repo Stars](https://img.shields.io/github/stars/aibudaevv/sip-exporter) ![GitHub last commit](https://img.shields.io/github/last-commit/aibudaevv/sip-exporter)](https://github.com/aibudaevv/sip-exporter) - Open-source eBPF sensor exporting Prometheus metrics and Grafana dashboards for host-observed IPv4/UDP SIP and correlated RTP/RTCP.
 - [sipgrep ![GitHub Repo Stars](https://img.shields.io/github/stars/sipcapture/sipgrep) ![GitHub last commit](https://img.shields.io/github/last-commit/sipcapture/sipgrep)](https://github.com/sipcapture/sipgrep) - Console tool for sniffing, capturing and exploring SIP traffic.
 - [HOMER ![GitHub Repo Stars](https://img.shields.io/github/stars/sipcapture/homer) ![GitHub last commit](https://img.shields.io/github/last-commit/sipcapture/homer)](https://github.com/sipcapture/homer) - Multi-protocol capturing and monitoring framework for RTC.
 - [Trickle ICE](https://webrtc.github.io/samples/src/content/peerconnection/trickle-ice) - Exposes client-side NAT traversal debug data.

@@ -1392,7 +1392,7 @@ _Tools for creating and managing microservices._
 
 > **[Micronaut ![GitHub Repo Stars](https://img.shields.io/github/stars/micronaut-projects/micronaut-core) ![GitHub last commit](https://img.shields.io/github/last-commit/micronaut-projects/micronaut-core)](https://github.com/micronaut-projects/micronaut-core)** <kbd>★ 6.4k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Modern full-stack framework with focus on modularity, minimal memory footprint and startup time.
 
-> **[Nacos ![GitHub Repo Stars](https://img.shields.io/github/stars/alibaba/nacos) ![GitHub last commit](https://img.shields.io/github/last-commit/alibaba/nacos)](https://github.com/alibaba/nacos)** <kbd>��� 33.4k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Dynamic service discovery, configuration and service management platform for building cloud native applications.
+> **[Nacos ![GitHub Repo Stars](https://img.shields.io/github/stars/alibaba/nacos) ![GitHub last commit](https://img.shields.io/github/last-commit/alibaba/nacos)](https://github.com/alibaba/nacos)** <kbd>★ 33.4k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Dynamic service discovery, configuration and service management platform for building cloud native applications.
 
 > **[Quarkus ![GitHub Repo Stars](https://img.shields.io/github/stars/quarkusio/quarkus) ![GitHub last commit](https://img.shields.io/github/last-commit/quarkusio/quarkus)](https://github.com/quarkusio/quarkus)** <kbd>★ 15.9k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Kubernetes stack tailored for the HotSpot and Graal VM.
 
@@ -2255,7 +2255,7 @@ _Tools which mock collaborators to help testing single, isolated units._
 
 _Tools for load and performance testing._
 
-> **[Apache JMeter ![GitHub Repo Stars](https://img.shields.io/github/stars/apache/jmeter) ![GitHub last commit](https://img.shields.io/github/last-commit/apache/jmeter)](https://github.com/apache/jmeter)** <kbd>★ 9.5k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Functional testing and performance measurements.
+> **[Apache JMeter ![GitHub Repo Stars](https://img.shields.io/github/stars/apache/jmeter) ![GitHub last commit](https://img.shields.io/github/last-commit/apache/jmeter)](https://github.com/apache/jmeter)** <kbd>★ 9.5k</kbd> <kbd>Apache-2.0</kbd> ��<br>Functional testing and performance measurements.
 
 > **[Gatling ![GitHub Repo Stars](https://img.shields.io/github/stars/gatling/gatling) ![GitHub last commit](https://img.shields.io/github/last-commit/gatling/gatling)](https://github.com/gatling/gatling)** <kbd>★ 7.0k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Load testing tool designed for ease of use, maintainability and high performance.
 
