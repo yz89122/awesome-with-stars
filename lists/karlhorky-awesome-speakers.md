@@ -447,7 +447,7 @@ https://twitter.com/enthusiasto
 Topics: Elm, Visualizations\
 https://twitter.com/tereza_sokol
 
-## Finland ��🇮
+## Finland 🇫🇮
 
 ### Helsinki
 

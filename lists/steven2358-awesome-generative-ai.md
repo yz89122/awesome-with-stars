@@ -407,6 +407,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [TorToiSe ![GitHub Repo Stars](https://img.shields.io/github/stars/neonbjb/tortoise-tts) ![GitHub last commit](https://img.shields.io/github/last-commit/neonbjb/tortoise-tts)](https://github.com/neonbjb/tortoise-tts) - A multi-voice text-to-speech system trained with an emphasis on quality. #opensource
 - [Bark ![GitHub Repo Stars](https://img.shields.io/github/stars/suno-ai/bark) ![GitHub last commit](https://img.shields.io/github/last-commit/suno-ai/bark)](https://github.com/suno-ai/bark) - A transformer-based text-to-audio model. #opensource
 - [TTS WebUI ![GitHub Repo Stars](https://img.shields.io/github/stars/rsxdalv/TTS-WebUI) ![GitHub last commit](https://img.shields.io/github/last-commit/rsxdalv/TTS-WebUI)](https://github.com/rsxdalv/TTS-WebUI) - Web UI for running multiple text-to-speech, music generation, and audio tools. #opensource
+- [VoiceStudio](https://voicestudio.sh/) - A local AI voice studio for speech generation, voice cloning, voice design, dubbing, and transcription. [#opensource ![GitHub Repo Stars](https://img.shields.io/github/stars/debpalash/VoiceStudio) ![GitHub last commit](https://img.shields.io/github/last-commit/debpalash/VoiceStudio)](https://github.com/debpalash/VoiceStudio)
 
 ### Speech-to-text
 

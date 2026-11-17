@@ -195,6 +195,7 @@ _Great graphics placeholders and tools to turn that squared game into a picasso 
 - :free: [PixelArtHive Sprite Upscaler](https://pixelarthive.com/pixel-art-upscaler) - Resize sprites for 2D games at whole-number scales without blur. Runs in the browser without uploading the sprite.
 - :moneybag: [Pixelator](http://pixelatorapp.com) - Turn any image into fancy pixel-art
 - :moneybag: [Pixelmator](https://www.pixelmator.com) - Full-featured image editing app for the Mac
+- :tada: [Pixelorama](https://orama-interactive.itch.io/pixelorama) - Free & open source pixel art editor with animation support, made with Godot.
 - :moneybag: [Pixen ![GitHub Repo Stars](https://img.shields.io/github/stars/Pixen/Pixen) ![GitHub last commit](https://img.shields.io/github/last-commit/Pixen/Pixen)](https://github.com/Pixen/Pixen) - Pixel Art Editor for OSX
 - :moneybag: [PyxelEdit](https://pyxeledit.com/) - Pixel art editor designed to make it fun and easy to make tilesets, levels and animations.
 - :free: [REXPaint](https://www.gridsagegames.com/rexpaint/) - a powerful and user-friendly ASCII art editor.
@@ -400,6 +401,7 @@ _Set of game frameworks, engines and platforms_
 
 ### AI
 - :moneybag: [3D-Agent](https://3d-agent.com/blender-ai) - AI agent for game-ready 3D assets in Blender: models with clean quad topology and UVs, materials, rigs and animation from plain-language prompts, exported as FBX or GLB for Unity, Unreal and Godot. Also connects to Roblox Studio for scripts, assets and playtests, and builds FiveM / GTA V scenes.
+- :money_with_wings: [3DLoom](https://3dloom.com) - Image or text to textured 3D game assets, exported as GLB, FBX, OBJ or USDZ, with a low-poly mode for props. 20 free credits on sign-up and no subscription; the GLB, OBJ and FBX converters are free and need no account.
 - :tada: [AI Art Engine ![GitHub Repo Stars](https://img.shields.io/github/stars/Justin-sky/ai-art-engine) ![GitHub last commit](https://img.shields.io/github/last-commit/Justin-sky/ai-art-engine)](https://github.com/Justin-sky/ai-art-engine) - Node-based AI game asset studio for generating and refining sprites, Spine 2D/DragonBones/Live2D rigs, 3D models, PBR materials, shaders and SFX, with MCP agent control and Unity/Godot/Cocos export.
 - :tada: [AI Game Developer ![GitHub Repo Stars](https://img.shields.io/github/stars/IvanMurzak/Unity-MCP) ![GitHub last commit](https://img.shields.io/github/last-commit/IvanMurzak/Unity-MCP)](https://github.com/IvanMurzak/Unity-MCP) - `Unity Editor` and `Unity Runtime` AI integration. Unit Test, Coding, C# Roslyn, Reflection, Assets. Helps to create games with AI. And helps to run AI logic during gameplay.
 - :moneybag: [Buildaloo](https://buildaloo.com/?utm_source=magictools&utm_medium=directory) - AI game maker for kids 5–12: a kid says a game idea out loud and plays the game in the browser. Parent account, no ads, no stranger chat.
