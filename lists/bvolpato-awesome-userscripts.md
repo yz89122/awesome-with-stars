@@ -1510,7 +1510,7 @@ Userscripts can be used w/ the following browsers:
             Readme</a> /
         📢 <a href="https://greasyfork.org/scripts/536284-ultimate-text-selection-translator-instantly-translate-any-selected-text/feedback">
             Discuss</a> /
-        ��� <a href="https://github.com/DREwX-code/Ultimate-Text-Selection-Translator/issues">
+        🐛 <a href="https://github.com/DREwX-code/Ultimate-Text-Selection-Translator/issues">
             Report bug</a>
     </blockquote>
 </details>
