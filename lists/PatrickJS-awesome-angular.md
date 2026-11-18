@@ -2017,6 +2017,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [pdf-viewer-kit ![GitHub Repo Stars](https://img.shields.io/github/stars/AmanKrr/pdf-viewer-kit) ![GitHub last commit](https://img.shields.io/github/last-commit/AmanKrr/pdf-viewer-kit)](https://github.com/AmanKrr/pdf-viewer-kit) - A modern, high-performance, framework-agnostic, lightweight PDF viewer and annotation library built on top of `pdf.js`.
 * [rm-ng-pdf-export ![GitHub Repo Stars](https://img.shields.io/github/stars/malikrajat/rm-ng-pdf-export) ![GitHub last commit](https://img.shields.io/github/last-commit/malikrajat/rm-ng-pdf-export)](https://github.com/malikrajat/rm-ng-pdf-export) - Angular library for generating and exporting ultra-high-quality PDFs from HTML content with smart page breaking and crystal-clear rendering.
 * [ngpdf ![GitHub Repo Stars](https://img.shields.io/github/stars/ngpdf/ngpdf) ![GitHub last commit](https://img.shields.io/github/last-commit/ngpdf/ngpdf)](https://github.com/ngpdf/ngpdf) - Write PDFs as Angular components: pdf-* elements laid out with flexbox, paginated tables with repeating headers, page numbers and selectable text, rendered in the browser.
+* [embed-pdf-viewer ![GitHub Repo Stars](https://img.shields.io/github/stars/embedpdf/embed-pdf-viewer) ![GitHub last commit](https://img.shields.io/github/last-commit/embedpdf/embed-pdf-viewer)](https://github.com/embedpdf/embed-pdf-viewer) - Embeddable PDF viewer for plain HTML, React, Vue, Svelte, and Angular.
 
 ### Pipes
 
@@ -2066,6 +2067,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [angular-typed-router ![GitHub Repo Stars](https://img.shields.io/github/stars/dominicbachmann/angular-typed-router) ![GitHub last commit](https://img.shields.io/github/last-commit/dominicbachmann/angular-typed-router)](https://github.com/dominicbachmann/angular-typed-router) - Type‑safe Angular navigation from a single Routes array, yielding inferred path unions and typed navigate tuples with zero codegen or runtime cost.
 * [real-router ![GitHub Repo Stars](https://img.shields.io/github/stars/greydragon888/real-router) ![GitHub last commit](https://img.shields.io/github/last-commit/greydragon888/real-router)](https://github.com/greydragon888/real-router) - Data-first router for JavaScript — the most declarative router for client applications.
 * [ssgoi ![GitHub Repo Stars](https://img.shields.io/github/stars/meursyphus/ssgoi) ![GitHub last commit](https://img.shields.io/github/last-commit/meursyphus/ssgoi)](https://github.com/meursyphus/ssgoi) - Animates the change between routes without taking over navigation.
+* [ngx-urlik ![GitHub Repo Stars](https://img.shields.io/github/stars/tsopeh/ngx-urlik) ![GitHub last commit](https://img.shields.io/github/last-commit/tsopeh/ngx-urlik)](https://github.com/tsopeh/ngx-urlik) - Type-safe URL parameters and navigation for Angular.
 
 ### Scroll
 
