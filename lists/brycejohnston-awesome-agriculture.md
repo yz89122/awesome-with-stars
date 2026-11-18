@@ -23,6 +23,7 @@ Contributions welcome! Please follow the [contributing guidelines ![GitHub Repo 
 - [IoT, Hardware](#iot-hardware)
 - [Knowledgebases and Learning Resources](#knowledgebases-and-learning-resources)
 - [Machine Learning and AI](#machine-learning-and-ai)
+- [Markets and Food Systems](#markets-and-food-systems)
 - [Remote Sensing and Imagery](#remote-sensing-and-imagery)
 
 ## Automation and Robotics
@@ -37,6 +38,7 @@ Contributions welcome! Please follow the [contributing guidelines ![GitHub Repo 
 - [Fields2Cover ![GitHub Repo Stars](https://img.shields.io/github/stars/Fields2Cover/Fields2Cover) ![GitHub last commit](https://img.shields.io/github/last-commit/Fields2Cover/Fields2Cover)](https://github.com/Fields2Cover/Fields2Cover) - Robust and efficient coverage paths for autonomous agricultural vehicles.
 - [Romi project](https://media.romi-project.eu/documents/index.html) - Europe-funded research project
 - [ROS Agriculture](https://rosagriculture.org/) - Open Source community focusing on using Robot Operating System to empower farmers with robotics tools.
+- [Sowbot ![GitHub Repo Stars](https://img.shields.io/github/stars/Agroecology-Lab/Sowbot) ![GitHub last commit](https://img.shields.io/github/last-commit/Agroecology-Lab/Sowbot)](https://github.com/Agroecology-Lab/Sowbot) - Open-hardware seeding and weeding robot for smallholder agroecological farms, with a ROS 2 stack.
 - [Weedinator](https://hackaday.io/project/53896-weedinator-2019) - Line following weeding robot
 
 ## Calculators
@@ -55,13 +57,22 @@ Contributions welcome! Please follow the [contributing guidelines ![GitHub Repo 
 - [frostline ![GitHub Repo Stars](https://img.shields.io/github/stars/waldoj/frostline) ![GitHub last commit](https://img.shields.io/github/last-commit/waldoj/frostline)](https://github.com/waldoj/frostline) - A dataset, API, and python parser for USDA plant hardiness zones.
 - [GSODR ![GitHub Repo Stars](https://img.shields.io/github/stars/ropensci/GSODR) ![GitHub last commit](https://img.shields.io/github/last-commit/ropensci/GSODR)](https://github.com/ropensci/GSODR) - Global summary daily weather data in R.
 - [iem ![GitHub Repo Stars](https://img.shields.io/github/stars/akrherz/iem) ![GitHub last commit](https://img.shields.io/github/last-commit/akrherz/iem)](https://github.com/akrherz/iem) - Code that makes the Iowa Environmental Mesonet run.
+- [MAgPIE ![GitHub Repo Stars](https://img.shields.io/github/stars/magpiemodel/magpie) ![GitHub last commit](https://img.shields.io/github/last-commit/magpiemodel/magpie)](https://github.com/magpiemodel/magpie) - Global land-use allocation model linking agricultural production, land use and environmental impacts.
 - [PyETo ![GitHub Repo Stars](https://img.shields.io/github/stars/woodcrafty/PyETo) ![GitHub last commit](https://img.shields.io/github/last-commit/woodcrafty/PyETo)](https://github.com/woodcrafty/PyETo) - Python package for calculating reference/potential evapotranspiration (ETo).
 - [pyTSEB ![GitHub Repo Stars](https://img.shields.io/github/stars/hectornieto/pyTSEB) ![GitHub last commit](https://img.shields.io/github/last-commit/hectornieto/pyTSEB)](https://github.com/hectornieto/pyTSEB) - A python two source energy balance model for estimation of evapotranspiration with remote sensing data.
 - [soilDB ![GitHub Repo Stars](https://img.shields.io/github/stars/ncss-tech/soilDB) ![GitHub last commit](https://img.shields.io/github/last-commit/ncss-tech/soilDB)](https://github.com/ncss-tech/soilDB) - R library for simplified access to NCSS soil databases.
+- [SoilHive Core ![GitHub Repo Stars](https://img.shields.io/github/stars/varda-ag/soilhive-core) ![GitHub last commit](https://img.shields.io/github/last-commit/varda-ag/soilhive-core)](https://github.com/varda-ag/soilhive-core) - Federated platform for discovering, harmonising and sharing soil datasets across institutions.
 
 ## Crop Modeling, Phenotyping, and Pathology
 
+- [apsimNGpy ![GitHub Repo Stars](https://img.shields.io/github/stars/MAGALA-RICHARD/apsimNGpy) ![GitHub last commit](https://img.shields.io/github/last-commit/MAGALA-RICHARD/apsimNGpy)](https://github.com/MAGALA-RICHARD/apsimNGpy) - Python interface for running and analysing APSIM Next Generation simulations.
+- [CroptimizR ![GitHub Repo Stars](https://img.shields.io/github/stars/SticsRPacks/CroptimizR) ![GitHub last commit](https://img.shields.io/github/last-commit/SticsRPacks/CroptimizR)](https://github.com/SticsRPacks/CroptimizR) - R package for parameter estimation and uncertainty analysis of crop models.
+- [DSSAT ![GitHub Repo Stars](https://img.shields.io/github/stars/DSSAT/dssat-csm-os) ![GitHub last commit](https://img.shields.io/github/last-commit/DSSAT/dssat-csm-os)](https://github.com/DSSAT/dssat-csm-os) - Decision Support System for Agrotechnology Transfer cropping system model.
+- [Epicrop.jl](https://codeberg.org/adamhsparks/Epicrop.jl) - Crop disease epidemic simulation using a compartmental (HLIP) model, in Julia.
+- [FielDHub ![GitHub Repo Stars](https://img.shields.io/github/stars/DidierMurilloF/FielDHub) ![GitHub last commit](https://img.shields.io/github/last-commit/DidierMurilloF/FielDHub)](https://github.com/DidierMurilloF/FielDHub) - R/Shiny app for designing agricultural field experiments.
 - [Open Plant Pathology](https://openplantpathology.netlify.app/) - A community that values open data and computational tools for advancing epidemiology and pathogen population biology and ecology.
+- [Phenomenal ![GitHub Repo Stars](https://img.shields.io/github/stars/openalea/phenomenal) ![GitHub last commit](https://img.shields.io/github/last-commit/openalea/phenomenal)](https://github.com/openalea/phenomenal) - 3D plant phenotyping and organ segmentation from multi-view images.
+- [PlantGL ![GitHub Repo Stars](https://img.shields.io/github/stars/openalea/plantgl) ![GitHub last commit](https://img.shields.io/github/last-commit/openalea/plantgl)](https://github.com/openalea/plantgl) - Geometric library for modelling and visualising plant architecture.
 
 ## Datasets
 
@@ -106,6 +117,7 @@ Country and location-specific reference data for markets, land records, and grow
 - [Botanica ![GitHub Repo Stars](https://img.shields.io/github/stars/Michael-A-Kuykendall/botanica) ![GitHub last commit](https://img.shields.io/github/last-commit/Michael-A-Kuykendall/botanica)](https://github.com/Michael-A-Kuykendall/botanica) - Production-ready Rust crate for professional botanical data management with taxonomic hierarchy, cultivation tracking, and Darwin Core compliance.
 - [ClearAg API Examples ![GitHub Repo Stars](https://img.shields.io/github/stars/DTNClearAg/clearag_api_examples) ![GitHub last commit](https://img.shields.io/github/last-commit/DTNClearAg/clearag_api_examples)](https://github.com/DTNClearAg/clearag_api_examples) - A collection of code examples using the ClearAg APIs.
 - [Fiware AgriFood](https://www.fiware.org/community/smart-agrifood/) - Open Source data standards and IoT framework that help connect farm systems and enable practical smart farming and agrifood solutions—part of the larger Fiware.org project.
+- [FoodOn ![GitHub Repo Stars](https://img.shields.io/github/stars/FoodOntology/foodon) ![GitHub last commit](https://img.shields.io/github/last-commit/FoodOntology/foodon)](https://github.com/FoodOntology/foodon) - Open ontology for food, food sources and food processing.
 - [ISO-15143-3-API-OAuth2-CSharp-Example ![GitHub Repo Stars](https://img.shields.io/github/stars/JohnDeere/ISO-15143-3-API-OAuth2-CSharp-Example) ![GitHub last commit](https://img.shields.io/github/last-commit/JohnDeere/ISO-15143-3-API-OAuth2-CSharp-Example)](https://github.com/JohnDeere/ISO-15143-3-API-OAuth2-CSharp-Example) - C# example for the John Deere ISO 15143-3 machine data API.
 - [Open Ag Data Alliance](https://github.com/oada) - OADA is an open project designed to bring interoperability, security, and privacy to agricultural data.
 - [Open Agri Common Semantic Model (OCSM) ![GitHub Repo Stars](https://img.shields.io/github/stars/agstack/OpenAgri-OCSM) ![GitHub last commit](https://img.shields.io/github/last-commit/agstack/OpenAgri-OCSM)](https://github.com/agstack/OpenAgri-OCSM) - Ontology reusing existing standards to support semantic interoperability across smart farming solutions.
@@ -121,6 +133,8 @@ Country and location-specific reference data for markets, land records, and grow
 
 ## Farm Management Systems and Record Keeping
 
+- [AnimalTrakker](https://gitlab.com/animaltrakker_system/animaltrakker_farm_mobile) - Mobile record keeping for sheep and goat flocks.
+- [DigiAgriApp](https://gitlab.com/digiagriapp/digiagriapp-server) - Field and orchard data management server with sensor and remote-sensing integration.
 - [Ekylibre ![GitHub Repo Stars](https://img.shields.io/github/stars/ekylibre/ekylibre) ![GitHub last commit](https://img.shields.io/github/last-commit/ekylibre/ekylibre)](https://github.com/ekylibre/ekylibre) - Farm management information system for farmers and small enterprises built with Ruby on Rails and PostgreSQL/PostGIS.
 - [farmOS ![GitHub Repo Stars](https://img.shields.io/github/stars/farmOS/farmOS) ![GitHub last commit](https://img.shields.io/github/last-commit/farmOS/farmOS)](https://github.com/farmOS/farmOS) - Web-based farm record keeping application built with Drupal and PHP.
 - [GrowerHub ![GitHub Repo Stars](https://img.shields.io/github/stars/aspinozaxxx-lab/growerhub) ![GitHub last commit](https://img.shields.io/github/last-commit/aspinozaxxx-lab/growerhub)](https://github.com/aspinozaxxx-lab/growerhub) - Greenhouse and small-farm management with Zigbee2MQTT monitoring, plant and watering journals, and lighting and irrigation automation.
@@ -152,12 +166,15 @@ Country and location-specific reference data for markets, land records, and grow
 - [AgOpenGPS ![GitHub Repo Stars](https://img.shields.io/github/stars/AgOpenGPS-Official/AgOpenGPS) ![GitHub last commit](https://img.shields.io/github/last-commit/AgOpenGPS-Official/AgOpenGPS)](https://github.com/AgOpenGPS-Official/AgOpenGPS) - Ag precision mapping and section control software.
 - [Farm Hack](https://farmhack.org/tools) - Worldwide community of farmers that build and modify our own tools.
 - [Farm-Data-Relay-System ![GitHub Repo Stars](https://img.shields.io/github/stars/timmbogner/Farm-Data-Relay-System) ![GitHub last commit](https://img.shields.io/github/last-commit/timmbogner/Farm-Data-Relay-System)](https://github.com/timmbogner/Farm-Data-Relay-System) - System using ESP-NOW, LoRa, and other protocols to transport sensor data in remote areas without relying on WiFi.
+- [Mycodo ![GitHub Repo Stars](https://img.shields.io/github/stars/kizniche/Mycodo) ![GitHub last commit](https://img.shields.io/github/last-commit/kizniche/Mycodo)](https://github.com/kizniche/Mycodo) - Environmental monitoring and regulation for mushrooms, hydroponics and greenhouses.
 - [Open Agriculture Foundation](https://github.com/OpenAgricultureFoundation) -  Open Source ecosystem of technologies that enable and promote transparency, networked experimentation, education, and hyper-local production.
 - [Open hydroponics](https://openhydroponics.com/) - Fully Automated Hydroponic OS
 - [OpenMinder ![GitHub Repo Stars](https://img.shields.io/github/stars/autogrow/openminder) ![GitHub last commit](https://img.shields.io/github/last-commit/autogrow/openminder)](https://github.com/autogrow/openminder) - Open Source Rootzone Monitoring, API and open source hat for the RaspberryPi.
+- [OpenSprinkler ![GitHub Repo Stars](https://img.shields.io/github/stars/OpenSprinkler/OpenSprinkler-Firmware) ![GitHub last commit](https://img.shields.io/github/last-commit/OpenSprinkler/OpenSprinkler-Firmware)](https://github.com/OpenSprinkler/OpenSprinkler-Firmware) - Firmware for the open irrigation controller.
 - [OpenWeedLocator ![GitHub Repo Stars](https://img.shields.io/github/stars/geezacoleman/OpenWeedLocator) ![GitHub last commit](https://img.shields.io/github/last-commit/geezacoleman/OpenWeedLocator)](https://github.com/geezacoleman/OpenWeedLocator) - Open Source, low-cost, image-based weed detection device for in-crop and fallow scenarios.
 - [Simplesteer ![GitHub Repo Stars](https://img.shields.io/github/stars/matmis/simplesteer) ![GitHub last commit](https://img.shields.io/github/last-commit/matmis/simplesteer)](https://github.com/matmis/simplesteer) - RTK GPS tractor autosteer system with a web interface that you can control with a smartphone and can run on a Raspberry Pi.
 - [Smart Farming Thingsboard ![GitHub Repo Stars](https://img.shields.io/github/stars/arifulmrislam/Smart-farming-dashboard-with-ThingsBoard) ![GitHub last commit](https://img.shields.io/github/last-commit/arifulmrislam/Smart-farming-dashboard-with-ThingsBoard)](https://github.com/arifulmrislam/Smart-farming-dashboard-with-ThingsBoard) - a demo smart farming project using ThingsBoard to collect sensor data and display it on real-time agricultural dashboards.
+- [Smart Irrigation ![GitHub Repo Stars](https://img.shields.io/github/stars/altmenorg/HAsmartirrigation) ![GitHub last commit](https://img.shields.io/github/last-commit/altmenorg/HAsmartirrigation)](https://github.com/altmenorg/HAsmartirrigation) - Home Assistant integration that schedules irrigation from evapotranspiration.
 
 ## Knowledgebases and Learning Resources
 
@@ -173,12 +190,27 @@ Country and location-specific reference data for markets, land records, and grow
 - [HealthyCropping ![GitHub Repo Stars](https://img.shields.io/github/stars/keylorpineda/healthycropping) ![GitHub last commit](https://img.shields.io/github/last-commit/keylorpineda/healthycropping)](https://github.com/keylorpineda/healthycropping) - Android crop disease diagnosis application in development, using on-device computer vision for offline use.
 - [PlantCV ![GitHub Repo Stars](https://img.shields.io/github/stars/danforthcenter/plantcv) ![GitHub last commit](https://img.shields.io/github/last-commit/danforthcenter/plantcv)](https://github.com/danforthcenter/plantcv) - Plant phenotyping software using computer vision.
 
+## Markets and Food Systems
+
+Software for moving food beyond the farm gate: farmer marketplaces, food co-ops, community-supported agriculture (CSA) administration and food rescue.
+
+- [FoodCoopShop ![GitHub Repo Stars](https://img.shields.io/github/stars/foodcoopshop/foodcoopshop) ![GitHub last commit](https://img.shields.io/github/last-commit/foodcoopshop/foodcoopshop)](https://github.com/foodcoopshop/foodcoopshop) - Ordering and stock software for food co-ops and local farm shops.
+- [foodsharing](https://gitlab.com/foodsharing-dev/foodsharing) - Platform behind foodsharing.de, coordinating volunteers who rescue surplus food.
+- [Foodsoft ![GitHub Repo Stars](https://img.shields.io/github/stars/foodcoops/foodsoft) ![GitHub last commit](https://img.shields.io/github/last-commit/foodcoops/foodsoft)](https://github.com/foodcoops/foodsoft) - Ordering, accounting and member management for non-profit food co-ops.
+- [Juntagrico ![GitHub Repo Stars](https://img.shields.io/github/stars/juntagrico/juntagrico) ![GitHub last commit](https://img.shields.io/github/last-commit/juntagrico/juntagrico)](https://github.com/juntagrico/juntagrico) - Management platform for community-supported agriculture: memberships, shares, deliveries and work shifts.
+- [Karrot](https://codeberg.org/karrot/karrot-frontend) - Organising tool for grassroots groups that save and share food.
+- [Open Food Network ![GitHub Repo Stars](https://img.shields.io/github/stars/openfoodfoundation/openfoodnetwork) ![GitHub last commit](https://img.shields.io/github/last-commit/openfoodfoundation/openfoodnetwork)](https://github.com/openfoodfoundation/openfoodnetwork) - Online marketplace for farmers and food hubs to sell directly to eaters.
+- [OpenOlitor ![GitHub Repo Stars](https://img.shields.io/github/stars/OpenOlitor/openolitor-server) ![GitHub last commit](https://img.shields.io/github/last-commit/OpenOlitor/openolitor-server)](https://github.com/OpenOlitor/openolitor-server) - Administration software for community-supported agriculture initiatives.
+- [Teikei ![GitHub Repo Stars](https://img.shields.io/github/stars/teikei/teikei) ![GitHub last commit](https://img.shields.io/github/last-commit/teikei/teikei)](https://github.com/teikei/teikei) - Map platform connecting consumers with community-supported agriculture (CSA) farms.
+
 ## Remote Sensing and Imagery
 
 - [Awesome Sentinel ![GitHub Repo Stars](https://img.shields.io/github/stars/kr-stn/awesome-sentinel) ![GitHub last commit](https://img.shields.io/github/last-commit/kr-stn/awesome-sentinel)](https://github.com/kr-stn/awesome-sentinel) - A curated list of awesome tools, tutorials and APIs related to data from the Copernicus Sentinel Satellites.
 - [Awesome Vegetation Index ![GitHub Repo Stars](https://img.shields.io/github/stars/px39n/Awesome-Vegetation-Index) ![GitHub last commit](https://img.shields.io/github/last-commit/px39n/Awesome-Vegetation-Index)](https://github.com/px39n/Awesome-Vegetation-Index) - List of reference, applications of common Vegetation Indices for Multi-spectral, hyper-spectral and UAV images.
+- [OpenDroneMap ![GitHub Repo Stars](https://img.shields.io/github/stars/OpenDroneMap/ODM) ![GitHub last commit](https://img.shields.io/github/last-commit/OpenDroneMap/ODM)](https://github.com/OpenDroneMap/ODM) - Drone image processing into orthomosaics, elevation models and plant health maps.
 - [Raster Vision ![GitHub Repo Stars](https://img.shields.io/github/stars/azavea/raster-vision) ![GitHub last commit](https://img.shields.io/github/last-commit/azavea/raster-vision)](https://github.com/azavea/raster-vision) - Deep learning for aerial/satellite imagery.
 - [Sen2Agri ![GitHub Repo Stars](https://img.shields.io/github/stars/Sen2Agri/Sen2Agri-System) ![GitHub last commit](https://img.shields.io/github/last-commit/Sen2Agri/Sen2Agri-System)](https://github.com/Sen2Agri/Sen2Agri-System) - Software system processing high resolution satellite images for agricultural purposes.
+- [WebODM ![GitHub Repo Stars](https://img.shields.io/github/stars/WebODM/WebODM) ![GitHub last commit](https://img.shields.io/github/last-commit/WebODM/WebODM)](https://github.com/WebODM/WebODM) - Web interface for processing and sharing OpenDroneMap drone surveys.
 
 ## License
 
