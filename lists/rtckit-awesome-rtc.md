@@ -132,6 +132,7 @@
 - [Peerix ![GitHub Repo Stars](https://img.shields.io/github/stars/meefik/peerix) ![GitHub last commit](https://img.shields.io/github/last-commit/meefik/peerix)](https://github.com/meefik/peerix) - TypeScript WebRTC library for peer-to-peer media and data with pluggable signalling drivers.
 - [PeerJS](https://peerjs.com) - Data and media peer-to-peer connection API implemented over WebRTC.
 - [werift ![GitHub Repo Stars](https://img.shields.io/github/stars/shinyoshiaki/werift-webrtc) ![GitHub last commit](https://img.shields.io/github/last-commit/shinyoshiaki/werift-webrtc)](https://github.com/shinyoshiaki/werift-webrtc) - TypeScript WebRTC implementation for Node.js with media, data channels and RTP/RTCP APIs.
+- [Longpipe](https://longpipe.dev) - Real-time video effects for WebRTC streams in the browser: virtual background, background blur, face touch-up and auto-reframe.
 
 ### C/C++ Libraries
 
