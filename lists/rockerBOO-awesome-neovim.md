@@ -1739,6 +1739,7 @@ then it is not supported:
 - [uhs-robert/sshfs.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/uhs-robert/sshfs.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/uhs-robert/sshfs.nvim)](https://github.com/uhs-robert/sshfs.nvim) - Mount remote systems via SSHFS with smart picker auto-detect (Telescope/Oil/Snacks/Neo-tree/fzf-lua/Yazi/Ranger etc.).
 - [nosduco/remote-sshfs.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/nosduco/remote-sshfs.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/nosduco/remote-sshfs.nvim)](https://github.com/nosduco/remote-sshfs.nvim) - Explore, edit, and develop on a remote machine via SSHFS.
 - [azratul/live-share.nvim ![GitHub Repo Stars](https://img.shields.io/github/stars/azratul/live-share.nvim) ![GitHub last commit](https://img.shields.io/github/last-commit/azratul/live-share.nvim)](https://github.com/azratul/live-share.nvim) - Provides remote collaboration capabilities from anywhere, making it ideal for pair-programming scenarios.
+- [bradley101/nvim-remote-ssh ![GitHub Repo Stars](https://img.shields.io/github/stars/bradley101/nvim-remote-ssh) ![GitHub last commit](https://img.shields.io/github/last-commit/bradley101/nvim-remote-ssh)](https://github.com/bradley101/nvim-remote-ssh) - Work on a remote machine, similar to VSCode's "Remote-SSH" plugin.
 <!--lint disable double-link -->
 [**⬆ back to top**](#contents)
 <!--lint enable double-link -->
@@ -1993,6 +1994,7 @@ Have a problem a plugin can solve? Add it to the [nvim-lua wishlist ![GitHub Rep
 - [ChuYanLon/chad46 ![GitHub Repo Stars](https://img.shields.io/github/stars/ChuYanLon/chad46) ![GitHub last commit](https://img.shields.io/github/last-commit/ChuYanLon/chad46)](https://github.com/ChuYanLon/chad46) - 94 themes with 44 highlight integrations, daily synced from NvChad/base46.
 - [Neovim Cheatsheet](https://neovimcheatsheet.com) - Searchable, interactive cheatsheet with per-keypress search, remappable keybindings, and JSON import/export.
 - [nvim-edu](https://s3onghyun.github.io/nvim-edu/) - Interactive browser trainer for Vim motions and tmux keys with goal-state levels, drills and a daily challenge, verified against headless Neovim.
+- [editortheme/editorthemes.com](https://editorthemes.com/editors/neovim) - Directory for various colorschemes, with live previews and install snippets.
 <!--lint disable double-link -->
 [**⬆ back to top**](#contents)
 <!--lint enable double-link -->
