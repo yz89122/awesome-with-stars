@@ -156,6 +156,7 @@
 
 ### Syncing Tools
 
+- [Azul ![GitHub Repo Stars](https://img.shields.io/github/stars/Ransomwave/azul) ![GitHub last commit](https://img.shields.io/github/last-commit/Ransomwave/azul)](https://github.com/Ransomwave/azul) - Finally, an easy to use two-way sync tool where Roblox Studio is the source of truth.
 - [Argon ![GitHub Repo Stars](https://img.shields.io/github/stars/argon-rbx/argon) ![GitHub last commit](https://img.shields.io/github/last-commit/argon-rbx/argon)](https://github.com/argon-rbx/argon) - Full featured tool for Roblox development.
 - [Lync ![GitHub Repo Stars](https://img.shields.io/github/stars/Iron-Stag-Games/Lync) ![GitHub last commit](https://img.shields.io/github/last-commit/Iron-Stag-Games/Lync)](https://github.com/Iron-Stag-Games/Lync) - File sync tool.
 - [Rojo ![GitHub Repo Stars](https://img.shields.io/github/stars/rojo-rbx/rojo) ![GitHub last commit](https://img.shields.io/github/last-commit/rojo-rbx/rojo)](https://github.com/rojo-rbx/rojo) - Enables Roblox developers to use professional-grade software engineering tools.

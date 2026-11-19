@@ -600,6 +600,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [Angularize](https://beta.angularize.dev/) - Vibe code your Angular app with a human coder in your corner.
 * [angular-nest-ai-kit ![GitHub Repo Stars](https://img.shields.io/github/stars/eusouwilson/angular-nest-ai-kit) ![GitHub last commit](https://img.shields.io/github/last-commit/eusouwilson/angular-nest-ai-kit)](https://github.com/eusouwilson/angular-nest-ai-kit) - Skills and AI agents for standalone Angular + PrimeNG (frontend) and NestJS + Prisma (backend) monorepos, organized in Nx.
 * [@full-stack-skills/angular-skills ![GitHub Repo Stars](https://img.shields.io/github/stars/full-stack-skills/angular-skills) ![GitHub last commit](https://img.shields.io/github/last-commit/full-stack-skills/angular-skills)](https://github.com/full-stack-skills/angular-skills) - Angular framework development skills for AI coding agents.
+* [Angular TypeScript Developer ![GitHub Repo Stars](https://img.shields.io/github/stars/dimitriskl/angular-typescript-developer) ![GitHub last commit](https://img.shields.io/github/last-commit/dimitriskl/angular-typescript-developer)](https://github.com/dimitriskl/angular-typescript-developer) - Claude Code and Codex agent for typed Angular components, signals, accessibility, and frontend tests.
 * [angular-vibe-kit ![GitHub Repo Stars](https://img.shields.io/github/stars/vuanhtung10/angular-vibe-kit) ![GitHub last commit](https://img.shields.io/github/last-commit/vuanhtung10/angular-vibe-kit)](https://github.com/vuanhtung10/angular-vibe-kit) - Bootstrap a vibe coding workflow into any Angular project—complete with a `CLAUDE.md`, project docs, and Claude Code slash-commands tailored to your Angular version.
 * [aparté ![GitHub Repo Stars](https://img.shields.io/github/stars/apartejs/aparte) ![GitHub last commit](https://img.shields.io/github/last-commit/apartejs/aparte)](https://github.com/apartejs/aparte) - AI chat UI as Web Components with an Angular wrapper: streaming Markdown, tool calls a user approves, AG-UI agents and any LLM backend.
 * [augment code](https://www.augmentcode.com/) - The first AI coding assistant built for professional software engineers and large codebases.
@@ -1722,6 +1723,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [glyphflow](https://glyph-flow-zeta.vercel.app/) - Lucide icons hand-choreographed per icon and animated on the native Web Animations API — zero animation dependencies, real tree-shaking.
 * [Neural Icons](https://icons.neuralui.org/) - Compare outline and filled styles across 250 icon families to inspect details and copy code directly into your project.
 * [TanDD Icons](https://icons.tandd.dev/) - 1,440 stroke icons that turn into each other with spring physics.
+* [HubToolify](https://hubtoolify.com/docs/angular) - A standalone `<hti-icon>` component for Angular 17+, with server rendering and TypeScript types.
 
 ### Images
 

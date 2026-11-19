@@ -20,21 +20,16 @@ This list is a collection of the best Deno modules and resources.
   - [Frontend framework](#frontend-framework)
   - [Game engine](#game-engine)
   - [Logging](#logging)
-  - [Machine Learning](#machine-learning)
   - [Mail](#mail)
   - [Markdown](#markdown)
-  - [Math](#math)
   - [Static site generator](#static-site-generator)
-  - [String utils](#string-utils)
   - [Social Platform APIs](#social-platform-apis)
   - [Template engine](#template-engine)
   - [Testing](#testing)
   - [Utils](#utils)
   - [Web framework](#web-framework)
-  - [WebSocket](#websocket)
   - [Web utils](#web-utils)
   - [Webview](#webview)
-  - [XML](#xml)
 - [Registries](#registries)
 - [Showcases](#showcases)
 - [Tools](#tools)
@@ -71,36 +66,28 @@ This list is a collection of the best Deno modules and resources.
 ## Modules
 
 ### Automation
-- [swissknife ![GitHub Repo Stars](https://img.shields.io/github/stars/fakoua/SwissKnife) ![GitHub last commit](https://img.shields.io/github/last-commit/fakoua/SwissKnife)](https://github.com/fakoua/SwissKnife) - SwissKnife - Deno Swiss Knife tools for Windows.
 - [zuke ![GitHub Repo Stars](https://img.shields.io/github/stars/zuke-build/zuke) ![GitHub last commit](https://img.shields.io/github/last-commit/zuke-build/zuke)](https://github.com/zuke-build/zuke) - Code-first, strongly-typed build automation system where builds are defined as TypeScript classes.
 
 ### CLI utils
 - [cac ![GitHub Repo Stars](https://img.shields.io/github/stars/cacjs/cac) ![GitHub last commit](https://img.shields.io/github/last-commit/cacjs/cac)](https://github.com/cacjs/cac) - Simple yet powerful framework for building command-line apps.
-- [charmd ![GitHub Repo Stars](https://img.shields.io/github/stars/littletof/charmd) ![GitHub last commit](https://img.shields.io/github/last-commit/littletof/charmd)](https://github.com/littletof/charmd) - A simple, extendable markdown renderer for your terminal.
 - [cli-spinner ![GitHub Repo Stars](https://img.shields.io/github/stars/ameerthehacker/deno-cli-spinners) ![GitHub last commit](https://img.shields.io/github/last-commit/ameerthehacker/deno-cli-spinners)](https://github.com/ameerthehacker/deno-cli-spinners) - Show spinners in the terminal while running long tasks.
 - [cliffy ![GitHub Repo Stars](https://img.shields.io/github/stars/c4spar/cliffy) ![GitHub last commit](https://img.shields.io/github/last-commit/c4spar/cliffy)](https://github.com/c4spar/cliffy) - The complete solution for building interactive command-line tools.
 - [clinfer ![GitHub Repo Stars](https://img.shields.io/github/stars/jersou/clinfer) ![GitHub last commit](https://img.shields.io/github/last-commit/jersou/clinfer)](https://github.com/jersou/clinfer) - Automatically generate CLIs from JS objects, classes or ES modules.
 - [commit-sage-cli ![GitHub Repo Stars](https://img.shields.io/github/stars/AhmedOsman101/commit-sage-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/AhmedOsman101/commit-sage-cli)](https://github.com/AhmedOsman101/commit-sage-cli) - Generates Conventional Commit messages with AI based on Git repository changes.
-- [tui ![GitHub Repo Stars](https://img.shields.io/github/stars/Im-Beast/deno_tui) ![GitHub last commit](https://img.shields.io/github/last-commit/Im-Beast/deno_tui)](https://github.com/Im-Beast/deno_tui) - Module which allows easy creation of Terminal User Interfaces.
 - [yargs ![GitHub Repo Stars](https://img.shields.io/github/stars/yargs/yargs) ![GitHub last commit](https://img.shields.io/github/last-commit/yargs/yargs)](https://github.com/yargs/yargs) - The modern, pirate-themed successor to optimist.
 
 ### Cloud APIs
-- [aws-api](https://aws-api.deno.dev/) - From-scratch Typescript AWS API client built for Deno.
+- [aws-api](https://aws-api.danopia.deno.net/) - From-scratch Typescript AWS API client built for Deno.
 - [sigflint ![GitHub Repo Stars](https://img.shields.io/github/stars/bompus/sigflint) ![GitHub last commit](https://img.shields.io/github/last-commit/bompus/sigflint)](https://github.com/bompus/sigflint) - AWS Signature Version 4 and SigV4a request signing with no dependencies, for use with `fetch`.
 
 ### Database
 - [@iuioiua/redis](https://jsr.io/@iuioiua/redis) - Fast, lightweight Redis client built upon the Web Streams API.
-- [aloedb ![GitHub Repo Stars](https://img.shields.io/github/stars/Kirlovon/aloedb) ![GitHub last commit](https://img.shields.io/github/last-commit/Kirlovon/aloedb)](https://github.com/Kirlovon/aloedb) - Light, Embeddable, NoSQL database for Deno without dependencies.
 - [deno_mongo ![GitHub Repo Stars](https://img.shields.io/github/stars/denodrivers/mongo) ![GitHub last commit](https://img.shields.io/github/last-commit/denodrivers/mongo)](https://github.com/denodrivers/mongo) - MongoDB database driver.
-- [deno_mysql ![GitHub Repo Stars](https://img.shields.io/github/stars/denodrivers/mysql) ![GitHub last commit](https://img.shields.io/github/last-commit/denodrivers/mysql)](https://github.com/denodrivers/mysql) - MySQL database driver.
-- [denodb ![GitHub Repo Stars](https://img.shields.io/github/stars/eveningkid/denodb) ![GitHub last commit](https://img.shields.io/github/last-commit/eveningkid/denodb)](https://github.com/eveningkid/denodb) - MySQL, SQLite, MariaDB, PostgreSQL and MongoDB ORM for Deno.
-- [dongoose ![GitHub Repo Stars](https://img.shields.io/github/stars/roonie007/dongoose) ![GitHub last commit](https://img.shields.io/github/last-commit/roonie007/dongoose)](https://github.com/roonie007/dongoose) - A simple and easy to use ORM for Deno KV.
 - [kvdock ![GitHub Repo Stars](https://img.shields.io/github/stars/zisam-glitch/kvdock) ![GitHub last commit](https://img.shields.io/github/last-commit/zisam-glitch/kvdock)](https://github.com/zisam-glitch/kvdock) - Zero-dependency key-value and multi-tier caching engine with native Deno KV support and single-flight stampede protection.
 - [maxminddb ![GitHub Repo Stars](https://img.shields.io/github/stars/josh-hemphill/maxminddb-wasm) ![GitHub last commit](https://img.shields.io/github/last-commit/josh-hemphill/maxminddb-wasm)](https://github.com/josh-hemphill/maxminddb-wasm) - A library that enables the usage of MaxmindDB geoIP database files
 - [nessie ![GitHub Repo Stars](https://img.shields.io/github/stars/lmxrd/deno-nessie) ![GitHub last commit](https://img.shields.io/github/last-commit/lmxrd/deno-nessie)](https://github.com/lmxrd/deno-nessie) - Create, migrate and rollback migrations for PostgreSQL, MySQL and SQLite.
 - [postgres ![GitHub Repo Stars](https://img.shields.io/github/stars/denodrivers/postgres) ![GitHub last commit](https://img.shields.io/github/last-commit/denodrivers/postgres)](https://github.com/denodrivers/postgres) - Driver for PostgreSQL database.
 - [redis ![GitHub Repo Stars](https://img.shields.io/github/stars/denodrivers/redis) ![GitHub last commit](https://img.shields.io/github/last-commit/denodrivers/redis)](https://github.com/denodrivers/redis) - An experimental implementation of redis client for deno.
-- [yongo ![GitHub Repo Stars](https://img.shields.io/github/stars/yooneskh/yongo) ![GitHub last commit](https://img.shields.io/github/last-commit/yooneskh/yongo)](https://github.com/yooneskh/yongo) - Subset of Mongoose api in deno (like populate) but will not fully copy mongoose
 
 ### Editor framework
 
@@ -108,8 +95,6 @@ This list is a collection of the best Deno modules and resources.
 
 ### Frontend framework
 - [fresh ![GitHub Repo Stars](https://img.shields.io/github/stars/freshframework/fresh) ![GitHub last commit](https://img.shields.io/github/last-commit/freshframework/fresh)](https://github.com/freshframework/fresh) - The next-gen web framework.
-- [packup ![GitHub Repo Stars](https://img.shields.io/github/stars/kt3k/packup) ![GitHub last commit](https://img.shields.io/github/last-commit/kt3k/packup)](https://github.com/kt3k/packup) - Zero-config web application packager for Deno.
-- [ultra ![GitHub Repo Stars](https://img.shields.io/github/stars/exhibitionist-digital/ultra) ![GitHub last commit](https://img.shields.io/github/last-commit/exhibitionist-digital/ultra)](https://github.com/exhibitionist-digital/ultra) - 💎 Modern Streaming React Framework in Deno.
 
 ### Game engine
 - [caviar ![GitHub Repo Stars](https://img.shields.io/github/stars/load1n9/caviar) ![GitHub last commit](https://img.shields.io/github/last-commit/load1n9/caviar)](https://github.com/load1n9/caviar) - ⚡ Blazing fast, modern, Game Engine powered by WebGPU for Deno and the browser
@@ -119,33 +104,19 @@ This list is a collection of the best Deno modules and resources.
 - [aigifmaker ![GitHub Repo Stars](https://img.shields.io/github/stars/hanshs474/aigifmaker-ts) ![GitHub last commit](https://img.shields.io/github/last-commit/hanshs474/aigifmaker-ts)](https://github.com/hanshs474/aigifmaker-ts) - Turn text prompts into animated GIFs with the AI GIF Maker API.
 - [ImageScript ![GitHub Repo Stars](https://img.shields.io/github/stars/imagescript/ImageScript) ![GitHub last commit](https://img.shields.io/github/last-commit/imagescript/ImageScript)](https://github.com/imagescript/ImageScript) - Image processing in JavaScript, utilizing WebAssembly for performance.
 - [kavel ![GitHub Repo Stars](https://img.shields.io/github/stars/hanshs474/kavel-ts) ![GitHub last commit](https://img.shields.io/github/last-commit/hanshs474/kavel-ts)](https://github.com/hanshs474/kavel-ts) - Generate and edit images with AI without an API key or account.
-- [monke ![GitHub Repo Stars](https://img.shields.io/github/stars/retraigo/monke) ![GitHub last commit](https://img.shields.io/github/last-commit/retraigo/monke)](https://github.com/retraigo/monke) - Color quantization and dithering library with extra image filters (blur, invert, etc).
 
 ### Logging
 - [LogTape ![GitHub Repo Stars](https://img.shields.io/github/stars/dahlia/logtape) ![GitHub last commit](https://img.shields.io/github/last-commit/dahlia/logtape)](https://github.com/dahlia/logtape) - Simple logging library with zero dependencies for Deno/Node.js/Bun/browsers.
 
-### Machine learning
-- [appraisal ![GitHub Repo Stars](https://img.shields.io/github/stars/retraigo/appraisal) ![GitHub last commit](https://img.shields.io/github/last-commit/retraigo/appraisal)](https://github.com/retraigo/appraisal) - Feature extraction and conversion.
-- [classy-lala ![GitHub Repo Stars](https://img.shields.io/github/stars/retraigo/la-classy) ![GitHub last commit](https://img.shields.io/github/last-commit/retraigo/la-classy)](https://github.com/retraigo/la-classy) - Single-layer perceptrons for supervised learning tasks.
-- [netsaur ![GitHub Repo Stars](https://img.shields.io/github/stars/denosaurs/netsaur) ![GitHub last commit](https://img.shields.io/github/last-commit/denosaurs/netsaur)](https://github.com/denosaurs/netsaur) - Powerful machine learning, accelerated by WebGPU
-
 ### Mail
-- [deno-smtp ![GitHub Repo Stars](https://img.shields.io/github/stars/manyuanrong/deno-smtp) ![GitHub last commit](https://img.shields.io/github/last-commit/manyuanrong/deno-smtp)](https://github.com/manyuanrong/deno-smtp) - A smtp mail sender for deno.
 - [dmarc-rua ![GitHub Repo Stars](https://img.shields.io/github/stars/domaincanary/dmarc-rua) ![GitHub last commit](https://img.shields.io/github/last-commit/domaincanary/dmarc-rua)](https://github.com/domaincanary/dmarc-rua) - Parse DMARC aggregate reports from XML, gzip, zip and report emails.
 
 ### Markdown
 - [LiteMarkup ![GitHub Repo Stars](https://img.shields.io/github/stars/tuures/LiteMarkup) ![GitHub last commit](https://img.shields.io/github/last-commit/tuures/LiteMarkup)](https://github.com/tuures/LiteMarkup) - AST-first parser. Under 3 KB gzipped, zero dependencies.
 
-### Math
-- [neo ![GitHub Repo Stars](https://img.shields.io/github/stars/denosaurs/neo) ![GitHub last commit](https://img.shields.io/github/last-commit/denosaurs/neo)](https://github.com/denosaurs/neo/) - Matrix and other math, accelerated by WebGPU
-
 ### Static site generator
 - [lume ![GitHub Repo Stars](https://img.shields.io/github/stars/lumeland/lume) ![GitHub last commit](https://img.shields.io/github/last-commit/lumeland/lume)](https://github.com/lumeland/lume) - A static site generator similar to Jekyll or Eleventy with support for multiple file formats.
-- [pagic ![GitHub Repo Stars](https://img.shields.io/github/stars/xcatliu/pagic) ![GitHub last commit](https://img.shields.io/github/last-commit/xcatliu/pagic)](https://github.com/xcatliu/pagic) - The easiest way to generate static html page from markdown, built with Deno.
 - [zerho ![GitHub Repo Stars](https://img.shields.io/github/stars/glastor-core/zerho) ![GitHub last commit](https://img.shields.io/github/last-commit/glastor-core/zerho)](https://github.com/glastor-core/zerho) - High-performance documentation engine for Deno 2 and Edge runtimes with interactive playground, OpenAPI explorer, and native llms.txt support.
-
-### String utils
-- [written ![GitHub Repo Stars](https://img.shields.io/github/stars/vixalien/written) ![GitHub last commit](https://img.shields.io/github/last-commit/vixalien/written)](https://github.com/vixalien/written) - A provides a set of utilities for manipulating text, with a focus on providing typographic tools rather than pure string manipulation.
 
 ### Social Platform APIs
 - [Circe ![GitHub Repo Stars](https://img.shields.io/github/stars/sxnnyside-project/circe) ![GitHub last commit](https://img.shields.io/github/last-commit/sxnnyside-project/circe)](https://github.com/sxnnyside-project/circe) - Inversion-of-control framework for discord.js bots with file-system routing, guards and Gateway or HTTP transport.
@@ -155,38 +126,28 @@ This list is a collection of the best Deno modules and resources.
 
 
 ### Template engine
-- [dejs ![GitHub Repo Stars](https://img.shields.io/github/stars/syumai/dejs) ![GitHub last commit](https://img.shields.io/github/last-commit/syumai/dejs)](https://github.com/syumai/dejs) - Ejs template engine for deno.
 - [eta ![GitHub Repo Stars](https://img.shields.io/github/stars/bgub/eta) ![GitHub last commit](https://img.shields.io/github/last-commit/bgub/eta)](https://github.com/bgub/eta) - Fast, lightweight, and configurable embedded template engine.
-- [handlebars ![GitHub Repo Stars](https://img.shields.io/github/stars/alosaur/handlebars) ![GitHub last commit](https://img.shields.io/github/last-commit/alosaur/handlebars)](https://github.com/alosaur/handlebars) - Handlebars template engine for deno
 
 ### Testing
-- [deno-puppeteer ![GitHub Repo Stars](https://img.shields.io/github/stars/lucacasonato/deno-puppeteer) ![GitHub last commit](https://img.shields.io/github/last-commit/lucacasonato/deno-puppeteer)](https://github.com/lucacasonato/deno-puppeteer) - A library which provides a high-level API to control Chromium or Chrome over the DevTools Protocol.
 - [keploy ![GitHub Repo Stars](https://img.shields.io/github/stars/keploy/keploy) ![GitHub last commit](https://img.shields.io/github/last-commit/keploy/keploy)](https://github.com/keploy/keploy) - Record real traffic to generate integration tests and mock Postgres, Redis, and fetch calls.
 - [qunitx ![GitHub Repo Stars](https://img.shields.io/github/stars/izelnakri/qunitx) ![GitHub last commit](https://img.shields.io/github/last-commit/izelnakri/qunitx)](https://github.com/izelnakri/qunitx) - Zero dependency, fully customizable, mature, universal test API that can run interchangably in node.js, Deno & browser, using default runtime test runners.
 - [superdeno ![GitHub Repo Stars](https://img.shields.io/github/stars/cmorten/superdeno) ![GitHub last commit](https://img.shields.io/github/last-commit/cmorten/superdeno)](https://github.com/cmorten/superdeno) - Super-agent driven library for testing Deno HTTP servers.
-- [tepi](https://deno.land/x/tepi) - A .http Test Runner
+- [tepi ![GitHub Repo Stars](https://img.shields.io/github/stars/jupegarnica/tepi) ![GitHub last commit](https://img.shields.io/github/last-commit/jupegarnica/tepi)](https://github.com/jupegarnica/tepi) - A .http Test Runner
 - [unexpected ![GitHub Repo Stars](https://img.shields.io/github/stars/unexpectedjs/unexpected) ![GitHub last commit](https://img.shields.io/github/last-commit/unexpectedjs/unexpected)](https://github.com/unexpectedjs/unexpected) - Extensible BDD assertion toolkit.
 
 ### Utils
-- [buckets ![GitHub Repo Stars](https://img.shields.io/github/stars/jacoborus/deno-buckets) ![GitHub last commit](https://img.shields.io/github/last-commit/jacoborus/deno-buckets)](https://github.com/jacoborus/deno-buckets) - Bundle assets and scripts in a single executable file.
-- [colors ![GitHub Repo Stars](https://img.shields.io/github/stars/retraigo/colors) ![GitHub last commit](https://img.shields.io/github/last-commit/retraigo/colors)](https://github.com/retraigo/colors) - Color conversions and operations in TypeScript.
 - [computed_types ![GitHub Repo Stars](https://img.shields.io/github/stars/neuledge/computed-types) ![GitHub last commit](https://img.shields.io/github/last-commit/neuledge/computed-types)](https://github.com/neuledge/computed-types) - Joi like validators for Typescript and Deno.
 - [croner ![GitHub Repo Stars](https://img.shields.io/github/stars/Hexagon/croner) ![GitHub last commit](https://img.shields.io/github/last-commit/Hexagon/croner)](https://github.com/Hexagon/croner) - Cron library with advanced scheduling features, well-documented API, and zero dependencies.
 - [csv-pipe ![GitHub Repo Stars](https://img.shields.io/github/stars/martsinlabs/csv-pipe) ![GitHub last commit](https://img.shields.io/github/last-commit/martsinlabs/csv-pipe)](https://github.com/martsinlabs/csv-pipe) - Typed, zero-dependency CSV parser and encoder for every runtime.
-- [deno-config ![GitHub Repo Stars](https://img.shields.io/github/stars/yooneskh/deno-unified-config) ![GitHub last commit](https://img.shields.io/github/last-commit/yooneskh/deno-unified-config)](https://github.com/yooneskh/deno-unified-config) - Utility to streamline deno app configuration management through cli, .env and json files
 - [deno_kv_fs ![GitHub Repo Stars](https://img.shields.io/github/stars/hviana/deno_kv_fs) ![GitHub last commit](https://img.shields.io/github/last-commit/hviana/deno_kv_fs)](https://github.com/hviana/deno_kv_fs) Deno KV file system, compatible with Deno deploy. Makes use of Web Streams API.
-- [denon ![GitHub Repo Stars](https://img.shields.io/github/stars/denosaurs/denon) ![GitHub last commit](https://img.shields.io/github/last-commit/denosaurs/denon)](https://github.com/denosaurs/denon) - A file watcher with a for-await generator.
-- [dinoenv](https://deno.land/x/dinoenv) - tiny library to manage environment variables with deno.
 - [durationjs ![GitHub Repo Stars](https://img.shields.io/github/stars/retraigo/duration.js) ![GitHub last commit](https://img.shields.io/github/last-commit/retraigo/duration.js)](https://github.com/retraigo/duration.js) - Get formatted time duration from a timestamp or a human-readable string.
 - [envapt ![GitHub Repo Stars](https://img.shields.io/github/stars/materwelonDhruv/envapt) ![GitHub last commit](https://img.shields.io/github/last-commit/materwelonDhruv/envapt)](https://github.com/materwelonDhruv/envapt) - Read environment variables as typed values with built-in converters, Standard Schema validation, and zero dependencies.
 - [esm-itter ![GitHub Repo Stars](https://img.shields.io/github/stars/tillsanders/esm-itter) ![GitHub last commit](https://img.shields.io/github/last-commit/tillsanders/esm-itter)](https://github.com/tillsanders/esm-itter) – A strongly typed fork of the popular EventEmitter3 with a focus on EcmaScript module syntax, TypeScript and modern tooling.
 - [evt ![GitHub Repo Stars](https://img.shields.io/github/stars/garronej/evt) ![GitHub last commit](https://img.shields.io/github/last-commit/garronej/evt)](https://github.com/garronej/evt) - Type safe replacement for EventEmitter.
 - [fastest-validator ![GitHub Repo Stars](https://img.shields.io/github/stars/icebob/fastest-validator) ![GitHub last commit](https://img.shields.io/github/last-commit/icebob/fastest-validator)](https://github.com/icebob/fastest-validator) - Schema validator for all javascript platforms
 - [fortuna ![GitHub Repo Stars](https://img.shields.io/github/stars/retraigo/fortuna) ![GitHub last commit](https://img.shields.io/github/last-commit/retraigo/fortuna)](https://github.com/retraigo/fortuna) - Weighted gacha system.
-- [garn-validator ![GitHub Repo Stars](https://img.shields.io/github/stars/jupegarnica/garn-validator) ![GitHub last commit](https://img.shields.io/github/last-commit/jupegarnica/garn-validator)](https://github.com/jupegarnica/garn-validator) - Create validations with ease.
 - [injecute ![GitHub Repo Stars](https://img.shields.io/github/stars/Masyaka/injecute) ![GitHub last commit](https://img.shields.io/github/last-commit/Masyaka/injecute)](https://github.com/Masyaka/injecute) - Type-safe dependency injection container with explicit wiring and no decorators.
 - [json-schema-for-llms ![GitHub Repo Stars](https://img.shields.io/github/stars/carmenaresearch/json-schema-for-llms) ![GitHub last commit](https://img.shields.io/github/last-commit/carmenaresearch/json-schema-for-llms)](https://github.com/carmenaresearch/json-schema-for-llms) - Turn a JSON document too large for an LLM context window into a short JSON Schema with counts, ranges and example records.
-- [locale-kit](https://deno.land/x/localekit) ([GitHub ![GitHub Repo Stars](https://img.shields.io/github/stars/locale-kit/locale-kit) ![GitHub last commit](https://img.shields.io/github/last-commit/locale-kit/locale-kit)](https://github.com/locale-kit/locale-kit)) - A internationalisation/localisation/translation (i18n/l10n/t9n) library with a wrapper for Fresh and support for plurals and dynamic replacement.
 - [optionals ![GitHub Repo Stars](https://img.shields.io/github/stars/OliverBrotchie/optionals) ![GitHub last commit](https://img.shields.io/github/last-commit/OliverBrotchie/optionals)](https://github.com/OliverBrotchie/optionals) - Rust-like error handling and options with exhaustive pattern matching.
 - [PLS ![GitHub Repo Stars](https://img.shields.io/github/stars/xorgram/pls) ![GitHub last commit](https://img.shields.io/github/last-commit/xorgram/pls)](https://github.com/xorgram/pls) - Use 2 lines to persist localStorage in any database, including, but not limited to, MongoDB, PostgreSQL and Redis.
 - [qrcode ![GitHub Repo Stars](https://img.shields.io/github/stars/denorg/qrcode) ![GitHub last commit](https://img.shields.io/github/last-commit/denorg/qrcode)](https://github.com/denorg/qrcode) - QR code image generator for Deno.
@@ -202,54 +163,36 @@ This list is a collection of the best Deno modules and resources.
 
 ### Web framework
 - [alosaur ![GitHub Repo Stars](https://img.shields.io/github/stars/alosaur/alosaur) ![GitHub last commit](https://img.shields.io/github/last-commit/alosaur/alosaur)](https://github.com/alosaur/alosaur) - Alosaur - Deno web framework with many ES Decorators.
-- [aqua ![GitHub Repo Stars](https://img.shields.io/github/stars/predetermined/aqua) ![GitHub last commit](https://img.shields.io/github/last-commit/predetermined/aqua)](https://github.com/predetermined/aqua) - A minimal and fast web framework for Deno.
 - [danet ![GitHub Repo Stars](https://img.shields.io/github/stars/Savory/Danet) ![GitHub last commit](https://img.shields.io/github/last-commit/Savory/Danet)](https://github.com/Savory/Danet) - A Savory web framework for Deno heavily inspired by [Nest.js](https://nestjs.com).
 - [drash ![GitHub Repo Stars](https://img.shields.io/github/stars/drashland/drash) ![GitHub last commit](https://img.shields.io/github/last-commit/drashland/drash)](https://github.com/drashland/drash) - A REST microframework for Deno's HTTP server with zero dependencies.
 - [faster ![GitHub Repo Stars](https://img.shields.io/github/stars/hviana/faster) ![GitHub last commit](https://img.shields.io/github/last-commit/hviana/faster)](https://github.com/hviana/faster) - A fast and optimized middleware server with a set of useful middlwares.
 - [faster_react ![GitHub Repo Stars](https://img.shields.io/github/stars/hviana/faster_react) ![GitHub last commit](https://img.shields.io/github/last-commit/hviana/faster_react)](https://github.com/hviana/faster_react) - Full Stack web framework with React + Faster. Fully compatible with Deno Deploy.
 - [hono ![GitHub Repo Stars](https://img.shields.io/github/stars/honojs/hono) ![GitHub last commit](https://img.shields.io/github/last-commit/honojs/hono)](https://github.com/honojs/hono) - Ultrafast web framework for Cloudflare Workers, Deno, and Bun. Fast, but not only fast.
-- [opine ![GitHub Repo Stars](https://img.shields.io/github/stars/cmorten/opine) ![GitHub last commit](https://img.shields.io/github/last-commit/cmorten/opine)](https://github.com/cmorten/opine) - Fast, minimalist web framework ported from ExpressJS.
-  - [opine-http-proxy ![GitHub Repo Stars](https://img.shields.io/github/stars/cmorten/opine-http-proxy) ![GitHub last commit](https://img.shields.io/github/last-commit/cmorten/opine-http-proxy)](https://github.com/cmorten/opine-http-proxy) - Proxy middleware for Deno Opine HTTP servers.
 - [orpc ![GitHub Repo Stars](https://img.shields.io/github/stars/middleapi/orpc) ![GitHub last commit](https://img.shields.io/github/last-commit/middleapi/orpc)](https://github.com/middleapi/orpc) - End-to-end typesafe APIs with RPC and OpenAPI support, without code generation.
 
-### WebSocket
-- [dropper ![GitHub Repo Stars](https://img.shields.io/github/stars/denyncrawford/dropper-deno) ![GitHub last commit](https://img.shields.io/github/last-commit/denyncrawford/dropper-deno)](https://github.com/denyncrawford/dropper-deno) - Custom event-based WebSockets framework for building real-time apps on Deno 🦕
-- [wocket ![GitHub Repo Stars](https://img.shields.io/github/stars/drashland/wocket) ![GitHub last commit](https://img.shields.io/github/last-commit/drashland/wocket)](https://github.com/drashland/wocket) - A WebSocket library for Deno.
-
 ### Web utils
-- [djwt ![GitHub Repo Stars](https://img.shields.io/github/stars/Zaubrik/djwt) ![GitHub last commit](https://img.shields.io/github/last-commit/Zaubrik/djwt)](https://github.com/Zaubrik/djwt) - Make JSON Web Tokens (JWT) on Deno based on JWT and JWS specifications.
 - [forwarded ![GitHub Repo Stars](https://img.shields.io/github/stars/deno-libs/forwarded) ![GitHub last commit](https://img.shields.io/github/last-commit/deno-libs/forwarded)](https://github.com/deno-libs/forwarded) - Deno port of `forwarded` library.
-- [gentleRpc ![GitHub Repo Stars](https://img.shields.io/github/stars/timonson/gentle_rpc) ![GitHub last commit](https://img.shields.io/github/last-commit/timonson/gentle_rpc)](https://github.com/timonson/gentle_rpc) - A JSON-RPC 2.0 TypeScript library for Deno and the browser.
 - [gql ![GitHub Repo Stars](https://img.shields.io/github/stars/deno-libs/gql) ![GitHub last commit](https://img.shields.io/github/last-commit/deno-libs/gql)](https://github.com/deno-libs/gql) - Universal GraphQL HTTP middleware.
 - [graphql-tag ![GitHub Repo Stars](https://img.shields.io/github/stars/deno-libs/graphql_tag) ![GitHub last commit](https://img.shields.io/github/last-commit/deno-libs/graphql_tag)](https://github.com/deno-libs/graphql_tag) - GraphQL schema AST from template literal.
 - [linkpeek ![GitHub Repo Stars](https://img.shields.io/github/stars/thegruber/linkpeek) ![GitHub last commit](https://img.shields.io/github/last-commit/thegruber/linkpeek)](https://github.com/thegruber/linkpeek) - Extract Open Graph, Twitter Card and JSON-LD link-preview metadata from a URL.
-- [nats ![GitHub Repo Stars](https://img.shields.io/github/stars/nats-io/nats.deno) ![GitHub last commit](https://img.shields.io/github/last-commit/nats-io/nats.deno)](https://github.com/nats-io/nats.deno) - A Deno client for the [NATS messaging system](https://nats.io/).
-- [obsidian ![GitHub Repo Stars](https://img.shields.io/github/stars/open-source-labs/obsidian) ![GitHub last commit](https://img.shields.io/github/last-commit/open-source-labs/obsidian)](https://github.com/open-source-labs/obsidian) - A native GraphQL caching client and server module.
-- [router ![GitHub Repo Stars](https://img.shields.io/github/stars/zhmushan/router) ![GitHub last commit](https://img.shields.io/github/last-commit/zhmushan/router)](https://github.com/zhmushan/router) - A high-performance basic router works anywhere.
 - [rpc ![GitHub Repo Stars](https://img.shields.io/github/stars/deno-libs/rpc) ![GitHub last commit](https://img.shields.io/github/last-commit/deno-libs/rpc)](https://github.com/deno-libs/rpc) - JSONRPC server implementation for Deno.
-- [ts-prometheus ![GitHub Repo Stars](https://img.shields.io/github/stars/marcopacini/ts_prometheus) ![GitHub last commit](https://img.shields.io/github/last-commit/marcopacini/ts_prometheus)](https://github.com/marcopacini/ts_prometheus) - A prometheus client.
 
 ### Webview
 - [webview ![GitHub Repo Stars](https://img.shields.io/github/stars/webview/webview_deno) ![GitHub last commit](https://img.shields.io/github/last-commit/webview/webview_deno)](https://github.com/webview/webview_deno) - Deno bindings for webview, a tiny library for creating web-based desktop GUIs.
 
-### XML
-- [sax-ts ![GitHub Repo Stars](https://img.shields.io/github/stars/Maxim-Mazurok/sax-ts) ![GitHub last commit](https://img.shields.io/github/last-commit/Maxim-Mazurok/sax-ts)](https://github.com/Maxim-Mazurok/sax-ts) - SAX-style XML parser ported from [sax-js ![GitHub Repo Stars](https://img.shields.io/github/stars/isaacs/sax-js) ![GitHub last commit](https://img.shields.io/github/last-commit/isaacs/sax-js)](https://github.com/isaacs/sax-js).
-
 ## Registries
 
 - [deno.land/x/](https://deno.land/x/) - The official 3rd party module registry.
-- [nest.land](https://nest.land) - An immutable, blockchain powered Deno package registry. 🥚
 
 ## Showcases
 
 - [Chobble Tickets ![GitHub Repo Stars](https://img.shields.io/github/stars/chobbledotcom/tickets) ![GitHub last commit](https://img.shields.io/github/last-commit/chobbledotcom/tickets)](https://github.com/chobbledotcom/tickets) - Open source ticket sales system with encrypted attendee data and Stripe, Square, or SumUp payments.
 - [Deno Rest ![GitHub Repo Stars](https://img.shields.io/github/stars/Prolifode/deno_rest) ![GitHub last commit](https://img.shields.io/github/last-commit/Prolifode/deno_rest)](https://github.com/Prolifode/deno_rest) - A Boilerplate for deno RESTful apis.
-- [Edrys ![GitHub Repo Stars](https://img.shields.io/github/stars/edrys-org/edrys) ![GitHub last commit](https://img.shields.io/github/last-commit/edrys-org/edrys)](https://github.com/edrys-org/edrys) - Remote Teaching Software
 - [GitHub Profile Trophy ![GitHub Repo Stars](https://img.shields.io/github/stars/ryo-ma/github-profile-trophy) ![GitHub last commit](https://img.shields.io/github/last-commit/ryo-ma/github-profile-trophy)](https://github.com/ryo-ma/github-profile-trophy) - 🏆 Add dynamically generated GitHub Trophy on your readme
 - [globnotes ![GitHub Repo Stars](https://img.shields.io/github/stars/alexindigo/globnotes) ![GitHub last commit](https://img.shields.io/github/last-commit/alexindigo/globnotes)](https://github.com/alexindigo/globnotes) - Self-hosted Markdown note-taking app for Obsidian vaults and nested folders, with full-text search and sandboxed plugins.
 - [Medusa Edge API Gateway ![GitHub Repo Stars](https://img.shields.io/github/stars/glastor-core/medusa) ![GitHub last commit](https://img.shields.io/github/last-commit/glastor-core/medusa)](https://github.com/glastor-core/medusa) - Resilient Edge API Gateway and caching proxy on Deno Deploy with circuit breaker, single-flight deduplication, and Deno KV.
 - [ShopSavvy Deno Deploy ![GitHub Repo Stars](https://img.shields.io/github/stars/shopsavvy/deno-deploy-shopsavvy) ![GitHub last commit](https://img.shields.io/github/last-commit/shopsavvy/deno-deploy-shopsavvy)](https://github.com/shopsavvy/deno-deploy-shopsavvy) - Deno Deploy router with Hono for product search, real-time pricing, and price history.
-- [The Official Showcase](https://deno.land/showcase) - The official showcase of Deno.
+- [The Official Showcase](https://deno.com/showcase) - The official showcase of Deno.
 
 ## Tools
 
@@ -257,37 +200,26 @@ This list is a collection of the best Deno modules and resources.
 - [clone ![GitHub Repo Stars](https://img.shields.io/github/stars/ekaragodin/clone) ![GitHub last commit](https://img.shields.io/github/last-commit/ekaragodin/clone)](https://github.com/ekaragodin/clone) - A simple utility for the convenient clone.
 - [CompatLab ![GitHub Repo Stars](https://img.shields.io/github/stars/siddiksawani/CompatLab) ![GitHub last commit](https://img.shields.io/github/last-commit/siddiksawani/CompatLab)](https://github.com/siddiksawani/CompatLab) - Check npm package loading across pinned Deno, Node.js and Bun versions with shareable reports.
 - [copilotz ![GitHub Repo Stars](https://img.shields.io/github/stars/copilotzhq/copilotz) ![GitHub last commit](https://img.shields.io/github/last-commit/copilotzhq/copilotz)](https://github.com/copilotzhq/copilotz) - TypeScript runtime for apps used by people, the app's own agents and AI assistants over MCP, with one set of Actions, access rules and audit record for every caller.
-- [denoflow ![GitHub Repo Stars](https://img.shields.io/github/stars/denoflow/denoflow) ![GitHub last commit](https://img.shields.io/github/last-commit/denoflow/denoflow)](https://github.com/denoflow/denoflow) - Configuration as code, use YAML to write automated workflows that run on Deno, with any Deno modules, Typescript/Javascript codes
 - [denoify ![GitHub Repo Stars](https://img.shields.io/github/stars/garronej/denoify) ![GitHub last commit](https://img.shields.io/github/last-commit/garronej/denoify)](https://github.com/garronej/denoify) - For NPM module authors that would like to support Deno but do not want to write and maintain a port.
 - [denoliver ![GitHub Repo Stars](https://img.shields.io/github/stars/joakimunge/denoliver) ![GitHub last commit](https://img.shields.io/github/last-commit/joakimunge/denoliver)](https://github.com/joakimunge/denoliver) - A simple, dependency free file server with live reload.
 - [denomander ![GitHub Repo Stars](https://img.shields.io/github/stars/siokas/denomander) ![GitHub last commit](https://img.shields.io/github/last-commit/siokas/denomander)](https://github.com/siokas/denomander) - Deno command-line interfaces inspired from commander.js.
-- [denon ![GitHub Repo Stars](https://img.shields.io/github/stars/denosaurs/denon) ![GitHub last commit](https://img.shields.io/github/last-commit/denosaurs/denon)](https://github.com/denosaurs/denon) - A daemon script runner, like nodemon. Built in and for Deno.
-- [denopendabot ![GitHub Repo Stars](https://img.shields.io/github/stars/apps/denopendabot) ![GitHub last commit](https://img.shields.io/github/last-commit/apps/denopendabot)](https://github.com/apps/denopendabot) - Dependabot for Deno projects.
 - [denopkg ![GitHub Repo Stars](https://img.shields.io/github/stars/egoist-labs/denopkg.com) ![GitHub last commit](https://img.shields.io/github/last-commit/egoist-labs/denopkg.com)](https://github.com/egoist-labs/denopkg.com) - An easier way to use code from GitHub in your Deno project.
-- [Deno Dig ![GitHub Repo Stars](https://img.shields.io/github/stars/theGEBIRGE/DenoDig) ![GitHub last commit](https://img.shields.io/github/last-commit/theGEBIRGE/DenoDig)](https://github.com/theGEBIRGE/DenoDig) - A tool for extracting application code and npm packages from stand-alone Deno executables.
 - [deno_docker ![GitHub Repo Stars](https://img.shields.io/github/stars/denoland/deno_docker) ![GitHub last commit](https://img.shields.io/github/last-commit/denoland/deno_docker)](https://github.com/denoland/deno_docker) - Latest dockerfiles and images for Deno - alpine, centos, debian, ubuntu.
-- [dmm ![GitHub Repo Stars](https://img.shields.io/github/stars/drashland/dmm) ![GitHub last commit](https://img.shields.io/github/last-commit/drashland/dmm)](https://github.com/drashland/dmm) - Lightweight Deno Module Manager
 - [dnt ![GitHub Repo Stars](https://img.shields.io/github/stars/denoland/dnt) ![GitHub last commit](https://img.shields.io/github/last-commit/denoland/dnt)](https://github.com/denoland/dnt) - Deno to npm package build tool.
-- [dpm ![GitHub Repo Stars](https://img.shields.io/github/stars/dpmland/dpm) ![GitHub last commit](https://img.shields.io/github/last-commit/dpmland/dpm)](https://github.com/dpmland/dpm) - Deno Package Manager, a NPM | Yarn Experience for Deno
 - dvm
   - [asdf-community/asdf-deno ![GitHub Repo Stars](https://img.shields.io/github/stars/asdf-community/asdf-deno) ![GitHub last commit](https://img.shields.io/github/last-commit/asdf-community/asdf-deno)](https://github.com/asdf-community/asdf-deno) - Deno plugin for [asdf](https://asdf-vm.com/)
   - [justjavac/dvm ![GitHub Repo Stars](https://img.shields.io/github/stars/justjavac/dvm) ![GitHub last commit](https://img.shields.io/github/last-commit/justjavac/dvm)](https://github.com/justjavac/dvm) - Deno Version Manager: manage multiple active Deno versions.
-  - [axetroy/dvm ![GitHub Repo Stars](https://img.shields.io/github/stars/axetroy/dvm) ![GitHub last commit](https://img.shields.io/github/last-commit/axetroy/dvm)](https://github.com/axetroy/dvm) - Version manger for Deno without runtime dependencies.
   - [ghosind/dvm ![GitHub Repo Stars](https://img.shields.io/github/stars/ghosind/dvm) ![GitHub last commit](https://img.shields.io/github/last-commit/ghosind/dvm)](https://github.com/ghosind/dvm) - A lightweight Deno Version Manager for Linux/MacOS.
-- [entype ![GitHub Repo Stars](https://img.shields.io/github/stars/bcheidemann/entype) ![GitHub last commit](https://img.shields.io/github/last-commit/bcheidemann/entype)](https://github.com/bcheidemann/entype) - A CLI tool used to generate type definitions for serialised data, currently supporting JSON to Rust and TypeScript.
-- [kopo-cli ![GitHub Repo Stars](https://img.shields.io/github/stars/littletof/kopo-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/littletof/kopo-cli)](https://github.com/littletof/kopo-cli) - A Deno registry browser in the terminal.
 - [make-deno-edition ![GitHub Repo Stars](https://img.shields.io/github/stars/bevry/make-deno-edition) ![GitHub last commit](https://img.shields.io/github/last-commit/bevry/make-deno-edition)](https://github.com/bevry/make-deno-edition) - Automatically makes package.json projects (such as npm packages and node.js modules) compatible with Deno.
 - [nemesis ![GitHub Repo Stars](https://img.shields.io/github/stars/glastor-core/nemesis) ![GitHub last commit](https://img.shields.io/github/last-commit/glastor-core/nemesis)](https://github.com/glastor-core/nemesis) - Automated DevSecOps auditing, repository hygiene, auto-fix, and compliance CLI built with Deno 2.
 - [pup ![GitHub Repo Stars](https://img.shields.io/github/stars/Hexagon/pup) ![GitHub last commit](https://img.shields.io/github/last-commit/Hexagon/pup)](https://github.com/Hexagon/pup) - Advanced process manager for Deno. With autorestart, fs watch, cron start, process telemetry, ipc, clustering, load balancer and more.
 - [studio-pack-generator ![GitHub Repo Stars](https://img.shields.io/github/stars/jersou/studio-pack-generator) ![GitHub last commit](https://img.shields.io/github/last-commit/jersou/studio-pack-generator)](https://github.com/jersou/studio-pack-generator) - Convert a folder or a RSS URL to Studio pack for Lunii device
-- [trex ![GitHub Repo Stars](https://img.shields.io/github/stars/crewdevio/Trex) ![GitHub last commit](https://img.shields.io/github/last-commit/crewdevio/Trex)](https://github.com/crewdevio/Trex) - Package management like npm for deno.
-- [udd ![GitHub Repo Stars](https://img.shields.io/github/stars/hayd/deno-udd) ![GitHub last commit](https://img.shields.io/github/last-commit/hayd/deno-udd)](https://github.com/hayd/deno-udd) - Update Deno dependencies: updates import statements to their latest published version.
 - [vscode-deno ![GitHub Repo Stars](https://img.shields.io/github/stars/denoland/vscode_deno) ![GitHub last commit](https://img.shields.io/github/last-commit/denoland/vscode_deno)](https://github.com/denoland/vscode_deno) - VS Code extension that provides Deno support using the `TypeScript Deno language service plugin`.
 
 ## Integrations
 
-- [Netlify Edge Functions](https://docs.netlify.com/edge-functions/overview/) - Edge Functions connect the Netlify platform and workflow.
-- [Slack Custom Functions](https://api.slack.com/future/functions/custom) - Build custom Run On Slack functions using Deno.
+- [Netlify Edge Functions](https://docs.netlify.com/build/edge-functions/overview/) - Edge Functions connect the Netlify platform and workflow.
+- [Slack Custom Functions](https://docs.slack.dev/tools/deno-slack-sdk/guides/creating-custom-functions/) - Build custom Run On Slack functions using Deno.
 - [Smallweb](https://www.smallweb.run/) - A personal cloud contained in a single directory. You can customize the server behavior using Deno.
 - [Supabase Edge Functions](https://supabase.com/docs/guides/functions) - Edge Functions are server-side TypeScript functions, distributed globally at the edge.
 - [Astro](https://docs.astro.build/en/guides/deploy/deno/) - Deploy a server-side rendered Astro site to Deno Deploy.
@@ -311,7 +243,6 @@ This list is a collection of the best Deno modules and resources.
 - [Create your first News CLI app using Deno](https://medium.com/javascript-in-plain-english/creating-your-first-news-cli-app-using-deno-e1470398c627)
 - [Continuous Integration with Deno](https://semaphoreci.com/blog/continuous-integration-with-deno)
 - [The Hidden Superpower of Deno: xeval](https://stefanbuck.com/blog/hidden-superpower-deno-xeval)
-- Deno REST API with Oak Tutorial Series [0](https://www.robinwieruch.de/deno-tutorial), [1](https://www.robinwieruch.de/deno-oak), [2](https://www.robinwieruch.de/deno-oak-rest-api)
 - [Getting Started with Deno](https://sabe.io/tutorials/getting-started-with-deno)
 - [How to deploy a Deno app using Docker](https://sabe.io/tutorials/how-to-deploy-deno-app-docker)
 
