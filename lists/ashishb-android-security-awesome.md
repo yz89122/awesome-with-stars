@@ -211,6 +211,7 @@ If you find this project useful, please consider [supporting it](./sponsors.md).
 ### App Repackaging Detectors
 
 1. [FSquaDRA ![GitHub Repo Stars](https://img.shields.io/github/stars/zyrikby/FSquaDRA) ![GitHub last commit](https://img.shields.io/github/last-commit/zyrikby/FSquaDRA)](https://github.com/zyrikby/FSquaDRA) - a tool for detecting repackaged Android applications based on app resource hash comparison.
+2. [Detect-Any ![GitHub Repo Stars](https://img.shields.io/github/stars/lotty520/Detect-Any) ![GitHub last commit](https://img.shields.io/github/last-commit/lotty520/Detect-Any)](https://github.com/lotty520/Detect-Any) - open-source Android environment integrity detection: root/Zygisk/hook/Frida/emulator/cloud-phone detection with 142 evidence-graded checks, hardware attestation, and a hot-updatable signature DB.
 
 ### Market Crawlers
 
