@@ -260,7 +260,7 @@ Also check out the sister project, [awesome-dynamic-analysis ![GitHub Repo Stars
 
 
 
-- **Infer#** :warning: ��� InferSharp (also referred to as Infer#) is an interprocedural and  scalable static code analyzer for C#. Via the capabilities of Facebook's Infer,  this tool detects null pointer dereferences and resource leaks.
+- **Infer#** :warning: — InferSharp (also referred to as Infer#) is an interprocedural and  scalable static code analyzer for C#. Via the capabilities of Facebook's Infer,  this tool detects null pointer dereferences and resource leaks.
 
 
 

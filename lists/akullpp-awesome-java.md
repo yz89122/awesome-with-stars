@@ -766,7 +766,7 @@ _Libraries that help to realize the [Inversion of Control](https://en.wikipedia.
 
 _Augmentation of the development process at a fundamental level._
 
-> **[AspectJ ![GitHub Repo Stars](https://img.shields.io/github/stars/eclipse-aspectj/aspectj) ![GitHub last commit](https://img.shields.io/github/last-commit/eclipse-aspectj/aspectj)](https://github.com/eclipse-aspectj/aspectj)** <kbd>★ 394</kbd> ��<br>Seamless aspect-oriented programming extension.
+> **[AspectJ ![GitHub Repo Stars](https://img.shields.io/github/stars/eclipse-aspectj/aspectj) ![GitHub last commit](https://img.shields.io/github/last-commit/eclipse-aspectj/aspectj)](https://github.com/eclipse-aspectj/aspectj)** <kbd>★ 394</kbd> 🟠<br>Seamless aspect-oriented programming extension.
 
 > **[Faux Pas ![GitHub Repo Stars](https://img.shields.io/github/stars/zalando/faux-pas) ![GitHub last commit](https://img.shields.io/github/last-commit/zalando/faux-pas)](https://github.com/zalando/faux-pas)** <kbd>★ 144</kbd> <kbd>MIT</kbd> 🔴<br>Library that simplifies error handling by circumventing the issue that none of the functional interfaces in the Java Runtime is allowed by default to throw checked exceptions.
 
@@ -1392,7 +1392,7 @@ _Tools for creating and managing microservices._
 
 > **[Micronaut ![GitHub Repo Stars](https://img.shields.io/github/stars/micronaut-projects/micronaut-core) ![GitHub last commit](https://img.shields.io/github/last-commit/micronaut-projects/micronaut-core)](https://github.com/micronaut-projects/micronaut-core)** <kbd>★ 6.4k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Modern full-stack framework with focus on modularity, minimal memory footprint and startup time.
 
-> **[Nacos ![GitHub Repo Stars](https://img.shields.io/github/stars/alibaba/nacos) ![GitHub last commit](https://img.shields.io/github/last-commit/alibaba/nacos)](https://github.com/alibaba/nacos)** <kbd>★ 33.4k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Dynamic service discovery, configuration and service management platform for building cloud native applications.
+> **[Nacos ![GitHub Repo Stars](https://img.shields.io/github/stars/alibaba/nacos) ![GitHub last commit](https://img.shields.io/github/last-commit/alibaba/nacos)](https://github.com/alibaba/nacos)** <kbd>��� 33.4k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Dynamic service discovery, configuration and service management platform for building cloud native applications.
 
 > **[Quarkus ![GitHub Repo Stars](https://img.shields.io/github/stars/quarkusio/quarkus) ![GitHub last commit](https://img.shields.io/github/last-commit/quarkusio/quarkus)](https://github.com/quarkusio/quarkus)** <kbd>★ 15.9k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Kubernetes stack tailored for the HotSpot and Graal VM.
 

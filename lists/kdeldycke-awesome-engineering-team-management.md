@@ -938,7 +938,7 @@ It's not only about the salary, but the whole package: equity, bonuses, perks, a
 
 ### Equity
 
-- ��Never accept a lower salary in exchange for equity.” ([source](https://news.ycombinator.com/item?id=21868845))
+- “Never accept a lower salary in exchange for equity.” ([source](https://news.ycombinator.com/item?id=21868845))
 
 - [On VC funding and huge growth](https://news.ycombinator.com/item?id=17448035) - “Startups need an exit strategy. (…) The idea is to raise money fast, hire experienced people for ancillary services and develop the application in a way so that it is able to hold up till IPO. Defer all costs for post IPO.” So from this angle, the only reason to join a startup is for future money windfall.
 

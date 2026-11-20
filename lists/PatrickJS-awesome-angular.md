@@ -515,6 +515,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-esy-jsonapi ![GitHub Repo Stars](https://img.shields.io/github/stars/zFl4wless/ngx-esy-jsonapi) ![GitHub last commit](https://img.shields.io/github/last-commit/zFl4wless/ngx-esy-jsonapi)](https://github.com/zFl4wless/ngx-esy-jsonapi) - A lightweight Angular v20+ adapter for JSON API.
 * [ngx-native-middlewares ![GitHub Repo Stars](https://img.shields.io/github/stars/dkhrunov/ngx-native-middlewares) ![GitHub last commit](https://img.shields.io/github/last-commit/dkhrunov/ngx-native-middlewares)](https://github.com/dkhrunov/ngx-native-middlewares/tree/development/projects/ngx-native-middlewares) - Write your HTTP middleware once to cover all underlying web transports and their wrapper libraries.
 * [ng-signal-request ![GitHub Repo Stars](https://img.shields.io/github/stars/theunal/ng-signal-request) ![GitHub last commit](https://img.shields.io/github/last-commit/theunal/ng-signal-request)](https://github.com/theunal/ng-signal-request) - A signal-based HTTP layer for Angular (v22+).
+* [mutation ![GitHub Repo Stars](https://img.shields.io/github/stars/ngsignal/mutation) ![GitHub last commit](https://img.shields.io/github/last-commit/ngsignal/mutation)](https://github.com/ngsignal/mutation) - An Angular low-level Signal-based primitive for mutations (POST/PUT/DELETE).
 
 ### Micro Frontends
 
@@ -1954,6 +1955,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-dialog-forge ![GitHub Repo Stars](https://img.shields.io/github/stars/HoplaGeiss/ngx-dialog-forge) ![GitHub last commit](https://img.shields.io/github/last-commit/HoplaGeiss/ngx-dialog-forge)](https://github.com/HoplaGeiss/ngx-dialog-forge) - Declarative, signals-native Angular dialog library built on the native dialog element.
 * [ngx-modalieur ![GitHub Repo Stars](https://img.shields.io/github/stars/kazepis/ngx-modalieur) ![GitHub last commit](https://img.shields.io/github/last-commit/kazepis/ngx-modalieur)](https://github.com/kazepis/ngx-modalieur) - Bootstrap-styled modals using Angular CDK Dialog.
 * [ngx-minimal-modal ![GitHub Repo Stars](https://img.shields.io/github/stars/ThePipeFox/ngx-minimal-modal) ![GitHub last commit](https://img.shields.io/github/last-commit/ThePipeFox/ngx-minimal-modal)](https://github.com/ThePipeFox/ngx-minimal-modal) - A small, unopinionated library that provides a straightforward way to work with modals (pop-ups) in an Angular app.
+* [ngx-flyout ![GitHub Repo Stars](https://img.shields.io/github/stars/vishaalsharmaa/ngx-flyout) ![GitHub last commit](https://img.shields.io/github/last-commit/vishaalsharmaa/ngx-flyout)](https://github.com/vishaalsharmaa/ngx-flyout) - An accessible side flyout panel for Angular.
 
 ### Notifications
 

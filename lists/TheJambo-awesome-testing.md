@@ -161,6 +161,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 ### Test Report Diagnostics
 - [coverage ![GitHub Repo Stars](https://img.shields.io/github/stars/xseman/coverage) ![GitHub last commit](https://img.shields.io/github/last-commit/xseman/coverage)](https://github.com/xseman/coverage) - GitHub Action that compares LCOV and Go coverage reports against the base branch and posts per-file changes as a sticky PR comment.
 - [junit-collision-check ![GitHub Repo Stars](https://img.shields.io/github/stars/sunxiuguo/junit-collision-check) ![GitHub last commit](https://img.shields.io/github/last-commit/sunxiuguo/junit-collision-check)](https://github.com/sunxiuguo/junit-collision-check) - Offline Python CLI that detects duplicate test identities and conflicting outcomes across JUnit XML reports before CI report ingestion.
+- [pytest-glow-report ![GitHub Repo Stars](https://img.shields.io/github/stars/godhiraj-code/pytest-glow-report) ![GitHub last commit](https://img.shields.io/github/last-commit/godhiraj-code/pytest-glow-report)](https://github.com/godhiraj-code/pytest-glow-report) - Open source (MIT) pytest plugin that writes HTML and JSON reports and keeps run history in SQLite.
 
 ### Test Management
 - [Kiwi TCMS ![GitHub Repo Stars](https://img.shields.io/github/stars/kiwitcms/Kiwi) ![GitHub last commit](https://img.shields.io/github/last-commit/kiwitcms/Kiwi)](https://github.com/kiwitcms/Kiwi) - Open-source test case management.
