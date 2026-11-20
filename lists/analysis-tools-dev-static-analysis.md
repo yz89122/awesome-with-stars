@@ -260,7 +260,7 @@ Also check out the sister project, [awesome-dynamic-analysis ![GitHub Repo Stars
 
 
 
-- **Infer#** :warning: — InferSharp (also referred to as Infer#) is an interprocedural and  scalable static code analyzer for C#. Via the capabilities of Facebook's Infer,  this tool detects null pointer dereferences and resource leaks.
+- **Infer#** :warning: ��� InferSharp (also referred to as Infer#) is an interprocedural and  scalable static code analyzer for C#. Via the capabilities of Facebook's Infer,  this tool detects null pointer dereferences and resource leaks.
 
 
 
@@ -278,7 +278,7 @@ Also check out the sister project, [awesome-dynamic-analysis ![GitHub Repo Stars
 <h2>C++</h2>
 
 
-- [Astrée](https://www.absint.com/astree/index.htm) :copyright: — Astr��e automatically proves the absence of runtime errors and invalid con­current behavior in C/C++ applications. It is sound for floating-point computations, very fast, and exceptionally precise. The analyzer also checks for MISRA/CERT/CWE/Adaptive Autosar coding rules and supports qualification for ISO 26262, DO-178C level A, and other safety standards. Jenkins and Eclipse plugins are available.
+- [Astrée](https://www.absint.com/astree/index.htm) :copyright: — Astrée automatically proves the absence of runtime errors and invalid con­current behavior in C/C++ applications. It is sound for floating-point computations, very fast, and exceptionally precise. The analyzer also checks for MISRA/CERT/CWE/Adaptive Autosar coding rules and supports qualification for ISO 26262, DO-178C level A, and other safety standards. Jenkins and Eclipse plugins are available.
 
 - [CBMC](http://www.cprover.org/cbmc) — Bounded model-checker for C programs, user-defined assertions, standard assertions, several coverage metric analyses.
 
@@ -2074,6 +2074,8 @@ orchestration to ensure zero breaking changes. Specialized for React, Next.js, a
 - [PVS-Studio](https://pvs-studio.com) :copyright: — PVS-Studio is a SAST tool that enhances code quality, security, and safety. Supported languages: C, C++, C#, Java, Go, JavaScript and TypeScript. Works on Windows, macOS, Linux. Supports intermodular, incremental, data flow analysis, taint analysis. Provides compliance with OWASP TOP 10, MISRA C/C++, CWE, and SEI CERT. [Conditionally free for FOSS](https://pvs-studio.com/en/order/open-source-license/) and has [trial version](https://pvs-studio.com/en/pvs-studio/try-free/).
 
 - [Qwiet AI](https://qwiet.ai/) :copyright: — Identify vulnerabilities that are unique to your code base before they reach production. Leverages the Code Property Graph (CPG) to run its analyses concurrently in a single graph of graphs. Automatically finds business logic flaws in dev like hardcoded secrets and logic bombs
+
+- [REA](https://rea.tools/) — Local CLI and MCP server for static analysis of native binaries, .NET assemblies, and JavaScript and Electron bundles. Reports binary hardening flags, dependencies, and release exposure such as shipped source maps, with supporting evidence. The release audit can fail a build at a chosen severity.
 
 - [relint ![GitHub Repo Stars](https://img.shields.io/github/stars/codingjoe/relint) ![GitHub last commit](https://img.shields.io/github/last-commit/codingjoe/relint)](https://github.com/codingjoe/relint) — A static file linter that allows you to write custom rules using regular expressions (RegEx).
 

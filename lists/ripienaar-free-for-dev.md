@@ -215,6 +215,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [RocketGit](https://rocketgit.com) - Repository Hosting based on Git. Unlimited Public and private repositories.
   * [savannah.gnu.org](https://savannah.gnu.org/) - Serves as a collaborative software development management system for free Software projects (for GNU Projects)
   * [savannah.nongnu.org](https://savannah.nongnu.org/) - Serves as a collaborative software development management system for free Software projects (for non-GNU projects)
+  * [Upstream](https://upstream.codes/) - Over 10,000 pushes/sec, the fastest Git host. 100 free repos, public or private, with LFS, merge checks, semantic code search, and AI
 
 **[⬆️ Back to Top](#table-of-contents)**
 
@@ -988,6 +989,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [temp-mail.io](https://temp-mail.io) - Free disposable temporary email service with multiple emails at once and forwarding
   * [Temp-Mail.org](https://temp-mail.org/en/) - Temporary / Disposable Mail Gen Utilizing a range variety of domain. Email Address refreshes every time the page is reloaded. It is entirely free and does not include any pricing for their services.
   * [TempMailDetector.com](https://tempmaildetector.com/) - Verify up to 200 emails a month for free and see if an email is temporary or not.
+  * [turboSMTP](https://serversmtp.com) - SMTP relay service, free for 200 emails per day or 6000 emails per month, free forever, no time limit, no expiry. Web API, SPF/DKIM authentication, suppression management, 1 sending domain, 2 API keys, 2FA, ticket and chat support, GDPR compliant.
   * [Tuta](https://tuta.com/) - Free secure email account service provider with built-in end-to-end encryption, no ads, no tracking. Free 1GB storage, one calendar (Tuta also have an [paid plan](https://tuta.com/pricing).). Tuta is also partially [open source ![GitHub Repo Stars](https://img.shields.io/github/stars/tutao/tutanota) ![GitHub last commit](https://img.shields.io/github/last-commit/tutao/tutanota)](https://github.com/tutao/tutanota), so you can self-host.
   * [VaelMail](https://vaelmail.com) - Privacy-first webmail with deterministic 16-digit account keys and zero phone verification. Free tier includes 50 MB receive-only mailbox storage, unlimited subaddressing, and persistent @vael.pw aliases with no credit card required.
   * [Verifalia](https://verifalia.com/email-verification-api) - Real-time email verification API with mailbox confirmation and disposable email address detector; 25 free email verifications/day.
@@ -1050,6 +1052,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [formspark.io](https://formspark.io/) -  Form to Email service, free plan allows unlimited forms, 250 submissions per month, support by Customer assistance team.
   * [Formspree.io](https://formspree.io/) - Send email using an HTTP POST request. The free tier limits to 50 submissions per form per month.
   * [Formsubmit.co](https://formsubmit.co/) - Easy form endpoints for your HTML forms. Free Forever. No registration is required.
+  * [FormTango](https://formtango.com) - Form backend for static sites and AI-built apps. Free plan: 100 submissions a month, unlimited forms, spam filtering and email notifications. Endpoints can be created from the API with no account.
   * [Formware.io](https://formware.io/) - Create fully-responsive and captivating forms in seconds, without knowing how to code, and collect unlimited responses for free!
   * [HeroTofu.com](https://herotofu.com/) - Forms backend with bot detection and encrypted archive. Forward submissions via UI to email, Slack, or Zapier. Use your own front end. No server code is required. The free plan gives unlimited forms and 100 submissions per month.
   * [HeyForm.net](https://heyform.net/) - Drag and drop online form builder. The free tier lets you create unlimited forms and collect unlimited submissions. Comes with pre-built templates, anti-spam, and 100MB file storage.
