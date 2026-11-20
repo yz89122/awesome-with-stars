@@ -143,7 +143,7 @@ The explorer also includes the eight perturbation datasets used in the Bison uns
 - [THE HUMAN PROTEIN ATLAS](https://www.proteinatlas.org/) — Comprehensive human protein database (cells, tissues, organs).
 - [PROTEIN DATA BANK (PDB)](https://www.rcsb.org/) — 3D structures of proteins, nucleic acids, complexes.
 - [UniProt](https://www.uniprot.org/) — Functional information on proteins.
-- [AlphaFold Protein Structure Database](https://alphafold.ebi.ac.uk/api-docs) �� 3D protein structure predictions.
+- [AlphaFold Protein Structure Database](https://alphafold.ebi.ac.uk/api-docs) — 3D protein structure predictions.
 - [RCSB Protein Data Bank](https://www.rcsb.org/) — Repository for structural data of biological molecules.
 - [Critical Assessment of Structure Prediction (CASP)](https://predictioncenter.org/) — Assessing methods for protein structure prediction.
 - [Uniclust](https://uniclust.mmseqs.com/) — Clustered protein sequence databases.
@@ -598,7 +598,7 @@ The explorer also includes the eight perturbation datasets used in the Bison uns
 
 ##### Protein Structure Prediction and Design
 
-- [AlphaFold3 ![GitHub Repo Stars](https://img.shields.io/github/stars/google-deepmind/alphafold3) ![GitHub last commit](https://img.shields.io/github/last-commit/google-deepmind/alphafold3)](https://github.com/google-deepmind/alphafold3) ��� Predicts structures of proteins, nucleic acids, small molecules, and their complexes.
+- [AlphaFold3 ![GitHub Repo Stars](https://img.shields.io/github/stars/google-deepmind/alphafold3) ![GitHub last commit](https://img.shields.io/github/last-commit/google-deepmind/alphafold3)](https://github.com/google-deepmind/alphafold3) — Predicts structures of proteins, nucleic acids, small molecules, and their complexes.
 - [Boltz-1 ![GitHub Repo Stars](https://img.shields.io/github/stars/jwohlwend/boltz) ![GitHub last commit](https://img.shields.io/github/last-commit/jwohlwend/boltz)](https://github.com/jwohlwend/boltz) — Open-source all-atom biomolecular structure prediction model for proteins, nucleic acids, small molecules, and their complexes achieving AlphaFold3-level accuracy.
 - [Boltz-2 ![GitHub Repo Stars](https://img.shields.io/github/stars/jwohlwend/boltz) ![GitHub last commit](https://img.shields.io/github/last-commit/jwohlwend/boltz)](https://github.com/jwohlwend/boltz) — Biomolecular foundation model jointly predicting complex structures and binding affinities for protein–ligand interaction modeling and virtual screening.
 - [Protenix ![GitHub Repo Stars](https://img.shields.io/github/stars/bytedance/Protenix) ![GitHub last commit](https://img.shields.io/github/last-commit/bytedance/Protenix)](https://github.com/bytedance/Protenix) — Trainable biomolecular structure-prediction framework for proteins, nucleic acids, ligands, and complexes with open training and inference pipelines.
