@@ -371,6 +371,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [vizzu ![GitHub Repo Stars](https://img.shields.io/github/stars/vizzuhq/vizzu-lib) ![GitHub last commit](https://img.shields.io/github/last-commit/vizzuhq/vizzu-lib)](https://github.com/vizzuhq/vizzu-lib) - Library for animated data visualizations and data stories.
 * [G6 ![GitHub Repo Stars](https://img.shields.io/github/stars/antvis/g6) ![GitHub last commit](https://img.shields.io/github/last-commit/antvis/g6)](https://github.com/antvis/g6) - A graph visualization engine.
 * [Infographic ![GitHub Repo Stars](https://img.shields.io/github/stars/antvis/Infographic) ![GitHub last commit](https://img.shields.io/github/last-commit/antvis/Infographic)](https://github.com/antvis/Infographic) - A next-generation declarative infographic visualization engine.
+* [d3-3d ![GitHub Repo Stars](https://img.shields.io/github/stars/Niekes/d3-3d) ![GitHub last commit](https://img.shields.io/github/last-commit/Niekes/d3-3d)](https://github.com/Niekes/d3-3d) - 3D charts and shapes for D3.js, projected to plain SVG or canvas with no WebGL needed.
 
 There're also some great commercial libraries, like [amchart](https://www.amcharts.com/), [anychart](https://www.anychart.com/), [plotly](https://plotly.com/), and [lightning chart](https://www.arction.com/lightningchart-js/).
 

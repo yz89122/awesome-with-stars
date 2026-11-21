@@ -196,6 +196,7 @@ A curated list of fonts and typography resources.
 
 ## Other
 * [Command line font-manager ![GitHub Repo Stars](https://img.shields.io/github/stars/alyssais/font) ![GitHub last commit](https://img.shields.io/github/last-commit/alyssais/font)](https://github.com/alyssais/font)
+* [Ductus](https://ductus.sorenblank.com/) - Turn your own handwriting into a font right in the browser
 * [fnt ![GitHub Repo Stars](https://img.shields.io/github/stars/alexmyczko/fnt) ![GitHub last commit](https://img.shields.io/github/last-commit/alexmyczko/fnt)](https://github.com/alexmyczko/fnt) - Apt for fonts, the missing font manager for macOS/linux
 * [Font Squirrel Webfont Generator](https://www.fontsquirrel.com/tools/webfont-generator) - Upload OTF or TTF fonts, receive webfonts
 * [FontForge ![GitHub Repo Stars](https://img.shields.io/github/stars/fontforge/fontforge) ![GitHub last commit](https://img.shields.io/github/last-commit/fontforge/fontforge)](https://github.com/fontforge/fontforge) - Cross-platform font editor

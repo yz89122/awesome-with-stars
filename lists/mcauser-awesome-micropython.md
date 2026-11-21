@@ -515,6 +515,7 @@ Other places you can look for MicroPython Libraries:
 * [MicroPython_UPLOT ![GitHub Repo Stars](https://img.shields.io/github/stars/jposada202020/MicroPython_UPLOT) ![GitHub last commit](https://img.shields.io/github/last-commit/jposada202020/MicroPython_UPLOT)](https://github.com/jposada202020/MicroPython_UPLOT) - MicroPython Small Graphics Framework.
 * [Tempe ![GitHub Repo Stars](https://img.shields.io/github/stars/unital/tempe) ![GitHub last commit](https://img.shields.io/github/last-commit/unital/tempe)](https://github.com/unital/tempe) - Efficient MicroPython graphics library built on top of `framebuf`.
 * [mp_jpeg ![GitHub Repo Stars](https://img.shields.io/github/stars/cnadler86/mp_jpeg) ![GitHub last commit](https://img.shields.io/github/last-commit/cnadler86/mp_jpeg)](https://github.com/cnadler86/mp_jpeg) - A very fast MicroPython JPEG encoder and decoder for the ESP32.
+* [RV565 ![GitHub Repo Stars](https://img.shields.io/github/stars/elixpo/rv565) ![GitHub last commit](https://img.shields.io/github/last-commit/elixpo/rv565)](https://github.com/elixpo/rv565) - Native module and C library for playing frame-independent RGB565 video on SPI displays such as the ST7789.
 
 #### GUI
 
@@ -950,6 +951,7 @@ Other places you can look for MicroPython Libraries:
 * [IoTy lds02rr ![GitHub Repo Stars](https://img.shields.io/github/stars/QuirkyCort/IoTy) ![GitHub last commit](https://img.shields.io/github/last-commit/QuirkyCort/IoTy)](https://github.com/QuirkyCort/IoTy/blob/main/public/extensions/lds02rr.py) - Driver for the LDS02RR 360 degree LiDAR.
 * [IoTy coind4 ![GitHub Repo Stars](https://img.shields.io/github/stars/QuirkyCort/IoTy) ![GitHub last commit](https://img.shields.io/github/last-commit/QuirkyCort/IoTy)](https://github.com/QuirkyCort/IoTy/blob/main/public/extensions/coind4.py) - Driver for the COIN-D4 360 degree LiDAR.
 * [IoTy delta2d ![GitHub Repo Stars](https://img.shields.io/github/stars/QuirkyCort/IoTy) ![GitHub last commit](https://img.shields.io/github/last-commit/QuirkyCort/IoTy)](https://github.com/QuirkyCort/IoTy/blob/main/public/extensions/delta2d.py) - Driver for the Delta-2D 360 degree LiDAR.
+* [erdi-lrf-esp32-micropython ![GitHub Repo Stars](https://img.shields.io/github/stars/Tommyapi/erdi-lrf-esp32-micropython) ![GitHub last commit](https://img.shields.io/github/last-commit/Tommyapi/erdi-lrf-esp32-micropython)](https://github.com/Tommyapi/erdi-lrf-esp32-micropython) - UART driver for ERDI 905 nm / 1535 nm laser rangefinder modules on ESP32, with distance readout and Wi-Fi publish examples.
 
 #### Distance Ultrasonic
 
@@ -1273,7 +1275,7 @@ Other places you can look for MicroPython Libraries:
 * [perthensis](https://codeberg.org/scy/perthensis) - An asynchronous framework for MicroPython.
 * [meerkat ![GitHub Repo Stars](https://img.shields.io/github/stars/crdietrich/meerkat) ![GitHub last commit](https://img.shields.io/github/last-commit/crdietrich/meerkat)](https://github.com/crdietrich/meerkat) - I2C Data Acquisition for MicroPython and Raspberry Pi.
 * [public-micropython-iot-platform ![GitHub Repo Stars](https://img.shields.io/github/stars/wolfen351/public-micropython-iot-platform) ![GitHub last commit](https://img.shields.io/github/last-commit/wolfen351/public-micropython-iot-platform)](https://github.com/wolfen351/public-micropython-iot-platform) - Project Fred MicroPython IOT Platform, code to control relays, temp sensors, buttons, touchscreen, GPS etc. Has a responsive Web UI, MQTT, Home Assistant and ThingsBoard support.
-* [OreoOS ![GitHub Repo Stars](https://img.shields.io/github/stars/elixpo/oreo) ![GitHub last commit](https://img.shields.io/github/last-commit/elixpo/oreo)](https://github.com/elixpo/oreo) - Operating system for an open-hardware ESP32-S3 conference badge, with an app SDK, on-device app store, OTA updates and native video playback.
+* [FaleraOS ![GitHub Repo Stars](https://img.shields.io/github/stars/elixpo/falera) ![GitHub last commit](https://img.shields.io/github/last-commit/elixpo/falera)](https://github.com/elixpo/falera) - Operating system for an open-hardware ESP32-S3 conference badge, with an app SDK, on-device app store, OTA updates and native video playback.
 * [openbricks ![GitHub Repo Stars](https://img.shields.io/github/stars/1e0ng/openbricks) ![GitHub last commit](https://img.shields.io/github/last-commit/1e0ng/openbricks)](https://github.com/1e0ng/openbricks) - Pybricks-style robotics firmware for ESP32: 1 kHz native drivebase control, serial bus servos, IMU gyro heading, line sensors, plus a MuJoCo simulator.
 
 ## Resources
@@ -1321,6 +1323,7 @@ Other places you can look for MicroPython Libraries:
 * [JetBrains IntelliJ/PyCharm MicroPython Plugin](https://plugins.jetbrains.com/plugin/9777-micropython) - Plugin for MicroPython devices in IntelliJ and PyCharm.
 * [MicroPython IDE for VSCode](https://marketplace.visualstudio.com/items?itemName=dphans.micropython-ide-vscode) - MicroPython IDE for Visual Studio Code.
 * [MicroPython-REPLink for VSCode](https://marketplace.visualstudio.com/items?itemName=SWC-Fablab.micropython-replink) - Handy shortcuts for interacting with a MicroPython REPL terminal.
+* [Micro REPL ![GitHub Repo Stars](https://img.shields.io/github/stars/Ma7moud3ly/micro-repl) ![GitHub last commit](https://img.shields.io/github/last-commit/Ma7moud3ly/micro-repl)](https://github.com/Ma7moud3ly/micro-repl) - MicroPython IDE for Android, desktop and web, with a terminal, a code editor and a visual files explorer.
 * [MPRemote for VSCode](https://marketplace.visualstudio.com/items?itemName=DavesCodeMusings.mpremote) - An extension to provide easy access to some of mpremote's functionality from within Visual Studio Code.
 * [Mu Editor](https://codewith.mu/) - Code with Mu: a simple Python/MicroPython/CircuitPython editor for beginner programmers.
 * [Thonny IDE](https://thonny.org/) - Thonny: Python IDE for beginners.

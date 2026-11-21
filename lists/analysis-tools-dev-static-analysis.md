@@ -1650,7 +1650,7 @@ It removes a feature of a dependency and then compiles the project to see if it 
 
 
 
-- **rustfix** :warning: — Read and apply the suggestions made by rustc (and third-party lints, like those offered by clippy).
+- **rustfix** :warning: �� Read and apply the suggestions made by rustc (and third-party lints, like those offered by clippy).
 
 
 
