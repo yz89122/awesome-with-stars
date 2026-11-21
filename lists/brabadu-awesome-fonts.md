@@ -60,6 +60,7 @@ A curated list of fonts and typography resources.
 * [Redacted ![GitHub Repo Stars](https://img.shields.io/github/stars/christiannaths/Redacted-Font) ![GitHub last commit](https://img.shields.io/github/last-commit/christiannaths/Redacted-Font)](https://github.com/christiannaths/Redacted-Font) - Keep your wireframes free of distracting Lorem Ipsum
 * [SansBullshitSans ![GitHub Repo Stars](https://img.shields.io/github/stars/RoelN/SansBullshitSans) ![GitHub last commit](https://img.shields.io/github/last-commit/RoelN/SansBullshitSans)](https://github.com/RoelN/SansBullshitSans)
 * [Urbanist ![GitHub Repo Stars](https://img.shields.io/github/stars/coreyhu/Urbanist) ![GitHub last commit](https://img.shields.io/github/last-commit/coreyhu/Urbanist)](https://github.com/coreyhu/Urbanist) - Geometric sans-serif variable font
+* [Vazirmatn Soft ![GitHub Repo Stars](https://img.shields.io/github/stars/truthofmatthew/vazirmatn-soft) ![GitHub last commit](https://img.shields.io/github/last-commit/truthofmatthew/vazirmatn-soft)](https://github.com/truthofmatthew/vazirmatn-soft) - A rounded Persian and Arabic typeface based on Vazirmatn, with a variable weight axis
 * [Vigil ![GitHub Repo Stars](https://img.shields.io/github/stars/vigilantkeno/vigilfont) ![GitHub last commit](https://img.shields.io/github/last-commit/vigilantkeno/vigilfont)](https://github.com/vigilantkeno/vigilfont) - A softened geometric grotesk for body copy, rounded by hierarchy rather than uniformly
 * [WorkSans ![GitHub Repo Stars](https://img.shields.io/github/stars/weiweihuanghuang/Work-Sans) ![GitHub last commit](https://img.shields.io/github/last-commit/weiweihuanghuang/Work-Sans)](https://github.com/weiweihuanghuang/Work-Sans)
 
@@ -171,7 +172,7 @@ A curated list of fonts and typography resources.
 
 ## JavaScript libs
 * [Beatrix ![GitHub Repo Stars](https://img.shields.io/github/stars/funbox/beatrix) ![GitHub last commit](https://img.shields.io/github/last-commit/funbox/beatrix)](https://github.com/funbox/beatrix) - A tool to chop off useless fonts glyphs and convert TTF/OTF into WOFF & WOFF2
-* [Font.js](http://pomax.nihongoresources.com/pages/Font.js/)
+* [Font.js ![GitHub Repo Stars](https://img.shields.io/github/stars/Pomax/Font.js) ![GitHub last commit](https://img.shields.io/github/last-commit/Pomax/Font.js)](https://github.com/Pomax/Font.js)
 * [fontkit ![GitHub Repo Stars](https://img.shields.io/github/stars/devongovett/fontkit) ![GitHub last commit](https://img.shields.io/github/last-commit/devongovett/fontkit)](https://github.com/devongovett/fontkit) - An advanced font engine for Node and the browser ([demo](https://fontkit-demo.now.sh/))
 * [fontmin ![GitHub Repo Stars](https://img.shields.io/github/stars/ecomfe/fontmin) ![GitHub last commit](https://img.shields.io/github/last-commit/ecomfe/fontmin)](https://github.com/ecomfe/fontmin) - Font minifier
 * [Fontsource ![GitHub Repo Stars](https://img.shields.io/github/stars/fontsource/fontsource) ![GitHub last commit](https://img.shields.io/github/last-commit/fontsource/fontsource)](https://github.com/fontsource/fontsource) - Self-host Open Source fonts in neatly bundled NPM packages
