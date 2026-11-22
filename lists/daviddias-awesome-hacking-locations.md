@@ -548,7 +548,7 @@ Webpage: http://www.caffeperu.it/
 
 Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
-✔ | �� | [Via di Monserrato, 46, 00186 Roma](https://goo.gl/maps/HXioZUdXoPS2) | Mon-Thu 6:00-14:00, Fri-Sat 6:00-14:30, Sun 9:00-21:00
+✔ | ✔ | [Via di Monserrato, 46, 00186 Roma](https://goo.gl/maps/HXioZUdXoPS2) | Mon-Thu 6:00-14:00, Fri-Sat 6:00-14:30, Sun 9:00-21:00
 
 ---------------------------------------------------------------
 ---------------------------------------------------------------

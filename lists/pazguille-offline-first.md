@@ -411,7 +411,7 @@ Inspired by the [awesome ![GitHub Repo Stars](https://img.shields.io/github/star
 [Using Service Workers](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API/Using_Service_Workers)
 (MDN - Oct 18, 2015)
 
-[Don’t Wait for ServiceWorker: Adding Offline Support with One-Line](https://davidwalsh.name/dont-wait-serviceworker-adding-offline-support-oneline)
+[Don���t Wait for ServiceWorker: Adding Offline Support with One-Line](https://davidwalsh.name/dont-wait-serviceworker-adding-offline-support-oneline)
 (Kenneth Ormandy - Oct 14, 2015)
 
 [Service Workers in Production](https://developers.google.com/web/showcase/2015/service-workers-iowa)
