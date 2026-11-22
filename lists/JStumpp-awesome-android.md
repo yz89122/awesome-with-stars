@@ -61,11 +61,15 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 ### Jetpack Compose
 
 - [Jetpack Compose](https://developer.android.com/compose) - Modern toolkit for building native Android UI with declarative Kotlin APIs and Material 3 support.
+- [Haze ![GitHub Repo Stars](https://img.shields.io/github/stars/chrisbanes/haze) ![GitHub last commit](https://img.shields.io/github/last-commit/chrisbanes/haze)](https://github.com/chrisbanes/haze) - Blur and frosted-glass effects for Jetpack Compose and Compose Multiplatform.
+- [Showkase ![GitHub Repo Stars](https://img.shields.io/github/stars/airbnb/Showkase) ![GitHub last commit](https://img.shields.io/github/last-commit/airbnb/Showkase)](https://github.com/airbnb/Showkase) - Annotation-processor-based browser for your Jetpack Compose UI elements, colors and typography.
 
 ### Architecture
 
 - [Circuit ![GitHub Repo Stars](https://img.shields.io/github/stars/slackhq/circuit) ![GitHub last commit](https://img.shields.io/github/last-commit/slackhq/circuit)](https://github.com/slackhq/circuit) - Modern architecture framework for building Android apps with Compose.
 - [Decompose ![GitHub Repo Stars](https://img.shields.io/github/stars/arkivanov/Decompose) ![GitHub last commit](https://img.shields.io/github/last-commit/arkivanov/Decompose)](https://github.com/arkivanov/Decompose) - Kotlin Multiplatform library for breaking down your code into lifecycle-aware business logic components.
+- [Molecule ![GitHub Repo Stars](https://img.shields.io/github/stars/cashapp/molecule) ![GitHub last commit](https://img.shields.io/github/last-commit/cashapp/molecule)](https://github.com/cashapp/molecule) - Build a StateFlow or Flow stream using Jetpack Compose runtime.
+- [Store ![GitHub Repo Stars](https://img.shields.io/github/stars/MobileNativeFoundation/Store) ![GitHub last commit](https://img.shields.io/github/last-commit/MobileNativeFoundation/Store)](https://github.com/MobileNativeFoundation/Store) - Kotlin Multiplatform library for loading, caching and syncing data with a Flow-based API.
 
 ### Charts
 
@@ -103,12 +107,12 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 - [MaterialDrawer ![GitHub Repo Stars](https://img.shields.io/github/stars/mikepenz/MaterialDrawer) ![GitHub last commit](https://img.shields.io/github/last-commit/mikepenz/MaterialDrawer)](https://github.com/mikepenz/MaterialDrawer) - Simple take on a material design navigation drawer.
 - [AppIntro ![GitHub Repo Stars](https://img.shields.io/github/stars/AppIntro/AppIntro) ![GitHub last commit](https://img.shields.io/github/last-commit/AppIntro/AppIntro)](https://github.com/AppIntro/AppIntro) - Library for creating beautiful intro slides for your app.
 - [Lottie ![GitHub Repo Stars](https://img.shields.io/github/stars/airbnb/lottie-android) ![GitHub last commit](https://img.shields.io/github/last-commit/airbnb/lottie-android)](https://github.com/airbnb/lottie-android) - Library for rendering After Effects animations natively on Android.
-- [Android View Animations ![GitHub Repo Stars](https://img.shields.io/github/stars/daimajia/AndroidViewAnimations) ![GitHub last commit](https://img.shields.io/github/last-commit/daimajia/AndroidViewAnimations)](https://github.com/daimajia/AndroidViewAnimations) - Cute view animation collection.
 - [Compressor ![GitHub Repo Stars](https://img.shields.io/github/stars/zetbaitsu/Compressor) ![GitHub last commit](https://img.shields.io/github/last-commit/zetbaitsu/Compressor)](https://github.com/zetbaitsu/Compressor) - Lightweight and powerful Android image compression library.
 - [Material Dots Indicators ![GitHub Repo Stars](https://img.shields.io/github/stars/tommybuonomo/dotsindicator) ![GitHub last commit](https://img.shields.io/github/last-commit/tommybuonomo/dotsindicator)](https://github.com/tommybuonomo/dotsindicator) - Three Material Dots Indicators styles for View Pagers.
 - [Glide ![GitHub Repo Stars](https://img.shields.io/github/stars/bumptech/glide) ![GitHub last commit](https://img.shields.io/github/last-commit/bumptech/glide)](https://github.com/bumptech/glide) - An image loading and caching library for Android focused on smooth scrolling, Recommended by Google.
 - [Fresco ![GitHub Repo Stars](https://img.shields.io/github/stars/meta/fresco) ![GitHub last commit](https://img.shields.io/github/last-commit/meta/fresco)](https://github.com/meta/fresco) - An Android library for managing images and the memory they use.
 - [Coil ![GitHub Repo Stars](https://img.shields.io/github/stars/coil-kt/coil) ![GitHub last commit](https://img.shields.io/github/last-commit/coil-kt/coil)](https://github.com/coil-kt/coil) - Image loading for Android backed by Kotlin Coroutines.
+- [Landscapist ![GitHub Repo Stars](https://img.shields.io/github/stars/skydoves/landscapist) ![GitHub last commit](https://img.shields.io/github/last-commit/skydoves/landscapist)](https://github.com/skydoves/landscapist) - Image loading for Jetpack Compose and Kotlin Multiplatform with Coil, Glide and Fresco as backends.
 - [Media3 (ExoPlayer) ![GitHub Repo Stars](https://img.shields.io/github/stars/androidx/media) ![GitHub last commit](https://img.shields.io/github/last-commit/androidx/media)](https://github.com/androidx/media) - Jetpack Media3 support libraries for media use cases, including ExoPlayer, an extensible media player for Android.
 - [CameraX](https://developer.android.com/training/camerax) - Jetpack library that makes camera app development easier with consistent API across devices.
 
@@ -134,6 +138,7 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 - [Apollo Kotlin ![GitHub Repo Stars](https://img.shields.io/github/stars/apollographql/apollo-kotlin) ![GitHub last commit](https://img.shields.io/github/last-commit/apollographql/apollo-kotlin)](https://github.com/apollographql/apollo-kotlin) - Strongly-typed GraphQL client for Kotlin and Java.
 - [Android Volley](https://google.github.io/volley/) - Official Android HTTP library that makes networking for easier and faster.
 - [Fast-Android-Networking ![GitHub Repo Stars](https://img.shields.io/github/stars/amitshekhariitbhu/Fast-Android-Networking) ![GitHub last commit](https://img.shields.io/github/last-commit/amitshekhariitbhu/Fast-Android-Networking)](https://github.com/amitshekhariitbhu/Fast-Android-Networking) - A Complete Fast Android Networking Library that also support HTTP/2.
+- [Wire ![GitHub Repo Stars](https://img.shields.io/github/stars/square/wire) ![GitHub last commit](https://img.shields.io/github/last-commit/square/wire)](https://github.com/square/wire) - Protocol buffers and gRPC for Kotlin, Java and Kotlin Multiplatform.
 
 ### Logger
 - [timber ![GitHub Repo Stars](https://img.shields.io/github/stars/JakeWharton/timber) ![GitHub last commit](https://img.shields.io/github/last-commit/JakeWharton/timber)](https://github.com/JakeWharton/timber) - A logger with a small, extensible API which provides utility on top of Android's normal Log class.
@@ -164,6 +169,7 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 - [Roborazzi ![GitHub Repo Stars](https://img.shields.io/github/stars/takahirom/roborazzi) ![GitHub last commit](https://img.shields.io/github/last-commit/takahirom/roborazzi)](https://github.com/takahirom/roborazzi) - Screenshot testing library for Android using Robolectric.
 - [Ghost in the Droid ![GitHub Repo Stars](https://img.shields.io/github/stars/ghost-in-the-droid/android-agent) ![GitHub last commit](https://img.shields.io/github/last-commit/ghost-in-the-droid/android-agent)](https://github.com/ghost-in-the-droid/android-agent) - Python MCP server for AI agent control of Android and iOS devices via ADB and WebDriverAgent.
 - [Droidline ![GitHub Repo Stars](https://img.shields.io/github/stars/KnifeLemon/Droidline) ![GitHub last commit](https://img.shields.io/github/last-commit/KnifeLemon/Droidline)](https://github.com/KnifeLemon/Droidline) - Automate real Android phones from Python, Node.js, C# or a CLI over Wi-Fi, without ADB or root.
+- [e2e ![GitHub Repo Stars](https://img.shields.io/github/stars/e2e-inc/e2e) ![GitHub last commit](https://img.shields.io/github/last-commit/e2e-inc/e2e)](https://github.com/e2e-inc/e2e) - End-to-end testing framework for Android and web apps that combines natural-language agent steps with locator-based assertions.
 
 ### Tracking
 
@@ -188,12 +194,13 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 - [ADB Enhanced ![GitHub Repo Stars](https://img.shields.io/github/stars/ashishb/adb-enhanced) ![GitHub last commit](https://img.shields.io/github/last-commit/ashishb/adb-enhanced)](https://github.com/ashishb/adb-enhanced) - A command-line wrapper around ADB for developers, so that, developers don't have to remember esoteric version-dependent commands.
 - [handsets ![GitHub Repo Stars](https://img.shields.io/github/stars/elliotgao2/handsets) ![GitHub last commit](https://img.shields.io/github/last-commit/elliotgao2/handsets)](https://github.com/elliotgao2/handsets) - Android control CLI that drives devices over ADB with no APK required.
 - [Pidcat ![GitHub Repo Stars](https://img.shields.io/github/stars/JakeWharton/pidcat) ![GitHub last commit](https://img.shields.io/github/last-commit/JakeWharton/pidcat)](https://github.com/JakeWharton/pidcat) - A colored command-line ADB wrapper that only shows log entries for a specific application package.
+- [scrcpy ![GitHub Repo Stars](https://img.shields.io/github/stars/Genymobile/scrcpy) ![GitHub last commit](https://img.shields.io/github/last-commit/Genymobile/scrcpy)](https://github.com/Genymobile/scrcpy) - Display and control Android devices connected via USB or TCP/IP.
 
 
 ### Wireless
 
 - [Kable ![GitHub Repo Stars](https://img.shields.io/github/stars/JuulLabs/kable) ![GitHub last commit](https://img.shields.io/github/last-commit/JuulLabs/kable)](https://github.com/JuulLabs/kable) - Kotlin Asynchronous Bluetooth Low Energy library for Android and other platforms.
-- [Nordic Android-BLE-Library ![GitHub Repo Stars](https://img.shields.io/github/stars/NordicSemiconductor/Android-BLE-Library) ![GitHub last commit](https://img.shields.io/github/last-commit/NordicSemiconductor/Android-BLE-Library)](https://github.com/NordicSemiconductor/Android-BLE-Library) - Android BLE library from Nordic Semiconductor for reliable BLE communication.
+- [Nordic Android-BLE-Library ![GitHub Repo Stars](https://img.shields.io/github/stars/nordicsemi/Android-BLE-Library) ![GitHub last commit](https://img.shields.io/github/last-commit/nordicsemi/Android-BLE-Library)](https://github.com/nordicsemi/Android-BLE-Library) - Android BLE library from Nordic Semiconductor for reliable BLE communication.
 
 ### Chat & Messaging
 
@@ -295,6 +302,7 @@ My personal recommendation is (for now) to use the Android SDK to build a native
 - [Compose Multiplatform ![GitHub Repo Stars](https://img.shields.io/github/stars/JetBrains/compose-multiplatform) ![GitHub last commit](https://img.shields.io/github/last-commit/JetBrains/compose-multiplatform)](https://github.com/JetBrains/compose-multiplatform) - Jetpack Compose for iOS, Desktop, and Web built on Kotlin Multiplatform.
 - [KuiklyUI ![GitHub Repo Stars](https://img.shields.io/github/stars/Tencent-TDS/KuiklyUI) ![GitHub last commit](https://img.shields.io/github/last-commit/Tencent-TDS/KuiklyUI)](https://github.com/Tencent-TDS/KuiklyUI) - Kotlin Multiplatform UI framework supporting Android, iOS, and other platforms.
 - [Kotlin coding challenges ![GitHub Repo Stars](https://img.shields.io/github/stars/igorwojda/kotlin-coding-challenges) ![GitHub last commit](https://img.shields.io/github/last-commit/igorwojda/kotlin-coding-challenges)](https://github.com/igorwojda/kotlin-coding-challenges) - Set of programming challenges thats helps to improve whiteboard coding and problem-solving skills.
+- [Compose Hot Reload ![GitHub Repo Stars](https://img.shields.io/github/stars/JetBrains/compose-hot-reload) ![GitHub last commit](https://img.shields.io/github/last-commit/JetBrains/compose-hot-reload)](https://github.com/JetBrains/compose-hot-reload) - Hot reload for Compose Multiplatform, by JetBrains.
 
 ## Build & Performance
 
