@@ -50,7 +50,6 @@
 
 ### Backpack
 
-- [Neobar ![GitHub Repo Stars](https://img.shields.io/github/stars/ImAvafe/NeoHotbar) ![GitHub last commit](https://img.shields.io/github/last-commit/ImAvafe/NeoHotbar)](https://github.com/ImAvafe/NeoHotbar) - A modern, customizable hotbar for Roblox.
 - [Purse ![GitHub Repo Stars](https://img.shields.io/github/stars/ryanlua/purse) ![GitHub last commit](https://img.shields.io/github/last-commit/ryanlua/purse)](https://github.com/ryanlua/purse) - CoreGui decoupled version of the Roblox default backpack.
 - [Satchel ![GitHub Repo Stars](https://img.shields.io/github/stars/ryanlua/satchel) ![GitHub last commit](https://img.shields.io/github/last-commit/ryanlua/satchel)](https://github.com/ryanlua/satchel) - Modern alternative to Roblox's default backpack.
 
@@ -67,7 +66,6 @@
 
 ### API Wrappers
 
-- [noblox.js ![GitHub Repo Stars](https://img.shields.io/github/stars/noblox/noblox.js) ![GitHub last commit](https://img.shields.io/github/last-commit/noblox/noblox.js)](https://github.com/noblox/noblox.js) - A Node.js API wrapper for Roblox.
 - [Openblox ![GitHub Repo Stars](https://img.shields.io/github/stars/cameronpcampbell/openblox) ![GitHub last commit](https://img.shields.io/github/last-commit/cameronpcampbell/openblox)](https://github.com/cameronpcampbell/openblox) - API wrapper for Roblox, written in TypeScript. Fully typesafe, optional caching, use any http client.
 - [ro.py ![GitHub Repo Stars](https://img.shields.io/github/stars/ro-py/ro.py) ![GitHub last commit](https://img.shields.io/github/last-commit/ro-py/ro.py)](https://github.com/ro-py/ro.py) - A modern, asynchronous Python 3 wrapper for the Roblox API.
 
@@ -83,7 +81,6 @@
 
 - [ECR ![GitHub Repo Stars](https://img.shields.io/github/stars/centau/ecr) ![GitHub last commit](https://img.shields.io/github/last-commit/centau/ecr)](https://github.com/centau/ecr) - A sparse-set based ECS library for Luau.
 - [Jecs ![GitHub Repo Stars](https://img.shields.io/github/stars/Ukendio/jecs) ![GitHub last commit](https://img.shields.io/github/last-commit/Ukendio/jecs)](https://github.com/Ukendio/jecs) - A fast, portable Entity Component System for Luau.
-- [Matter ![GitHub Repo Stars](https://img.shields.io/github/stars/matter-ecs/matter) ![GitHub last commit](https://img.shields.io/github/last-commit/matter-ecs/matter)](https://github.com/matter-ecs/matter) - A modern ECS library for Roblox.
 - [Planck ![GitHub Repo Stars](https://img.shields.io/github/stars/YetAnotherClown/planck) ![GitHub last commit](https://img.shields.io/github/last-commit/YetAnotherClown/planck)](https://github.com/YetAnotherClown/planck) - An Agnostic Scheduler for ECS.
 - [Replecs ![GitHub Repo Stars](https://img.shields.io/github/stars/PepeElToro41/replecs) ![GitHub last commit](https://img.shields.io/github/last-commit/PepeElToro41/replecs)](https://github.com/PepeElToro41/replecs) - A fast, fine controlled JECS replication library.
 
@@ -97,7 +94,6 @@
 - [Blink ![GitHub Repo Stars](https://img.shields.io/github/stars/1Axen/blink) ![GitHub last commit](https://img.shields.io/github/last-commit/1Axen/blink)](https://github.com/1Axen/blink) - An IDL compiler written in Luau for ROBLOX buffer networking.
 - [ByteNet ![GitHub Repo Stars](https://img.shields.io/github/stars/ffrostfall/ByteNet) ![GitHub last commit](https://img.shields.io/github/last-commit/ffrostfall/ByteNet)](https://github.com/ffrostfall/ByteNet) - Advanced, modern networking library.
 - [RbxNet ![GitHub Repo Stars](https://img.shields.io/github/stars/roblox-aurora/rbx-net) ![GitHub last commit](https://img.shields.io/github/last-commit/roblox-aurora/rbx-net)](https://github.com/roblox-aurora/rbx-net) - Advanced multi-language networking framework.
-- [Red ![GitHub Repo Stars](https://img.shields.io/github/stars/red-blox/red) ![GitHub last commit](https://img.shields.io/github/last-commit/red-blox/red)](https://github.com/red-blox/red) - Simple, fast, and powerful networking library.
 - [Zap ![GitHub Repo Stars](https://img.shields.io/github/stars/red-blox/zap) ![GitHub last commit](https://img.shields.io/github/last-commit/red-blox/zap)](https://github.com/red-blox/zap) - Lightning fast networking solution.
 
 ### Open Cloud
@@ -133,6 +129,7 @@
 
 ### Documentation Generators
 
+- [LuauDocs ![GitHub Repo Stars](https://img.shields.io/github/stars/kohltastrophe/luaudocs) ![GitHub last commit](https://img.shields.io/github/last-commit/kohltastrophe/luaudocs)](https://github.com/kohltastrophe/luaudocs) - Documentation generator for Luau.
 - [Moonwave ![GitHub Repo Stars](https://img.shields.io/github/stars/evaera/moonwave) ![GitHub last commit](https://img.shields.io/github/last-commit/evaera/moonwave)](https://github.com/evaera/moonwave) - Tool for generating documentation from comments in Lua source code.
 
 ### Language Servers
