@@ -540,7 +540,7 @@ _Frameworks and libraries that simplify reading/writing CSV data._
 
 > **[FastCSV ![GitHub Repo Stars](https://img.shields.io/github/stars/osiegmar/FastCSV) ![GitHub last commit](https://img.shields.io/github/last-commit/osiegmar/FastCSV)](https://github.com/osiegmar/FastCSV)** <kbd>★ 692</kbd> <kbd>MIT</kbd> 🟢<br>Performance-optimized, dependency-free and RFC 4180 compliant.
 
-> **[jackson-dataformat-csv ![GitHub Repo Stars](https://img.shields.io/github/stars/FasterXML/jackson-dataformats-text) ![GitHub last commit](https://img.shields.io/github/last-commit/FasterXML/jackson-dataformats-text)](https://github.com/FasterXML/jackson-dataformats-text)** <kbd>★ 455</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Jackson extension for reading and writing CSV.
+> **[jackson-dataformat-csv ![GitHub Repo Stars](https://img.shields.io/github/stars/FasterXML/jackson-dataformats-text) ![GitHub last commit](https://img.shields.io/github/last-commit/FasterXML/jackson-dataformats-text)](https://github.com/FasterXML/jackson-dataformats-text)** <kbd>��� 455</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Jackson extension for reading and writing CSV.
 
 > **[opencsv](https://opencsv.sourceforge.net)**<br>Simple CSV parser.
 
