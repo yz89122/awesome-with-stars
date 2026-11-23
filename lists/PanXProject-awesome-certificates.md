@@ -236,7 +236,7 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 
 | Course Name | Course Provider | Level | Hour(s) | Reward |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
-| <a href="https://www.life-global.org/course/414-business-email" target="_blank" rel="noopener noreferrer"> Business Email </a> | HP / Life Global | Beginner | 0.5 | 🏆 |
+| <a href="https://www.life-global.org/course/414-business-email" target="_blank" rel="noopener noreferrer"> Business Email </a> | HP / Life Global | Beginner | 0.5 | �� |
 | <a href="https://www.life-global.org/course/343-introduction-to-digital-business-skills" target="_blank" rel="noopener noreferrer"> Introduction to Digital Business Skills </a> | HP / Life Global | Beginner | 0.5 | 🏆 |
 | <a href="https://www.life-global.org/course/427-professional-networking-for-career-growth" target="_blank" rel="noopener noreferrer">Professional Networking for Career Growth</a> | HP / Life Global | Beginner | 0.5 | 🏆 |
 | <a href="https://www.life-global.org/course/362-resume-writing-and-job-interviewing" target="_blank" rel="noopener noreferrer"> Resume Writing and Job Interviewing </a> | HP / Life Global | Beginner | 0.5 | 🏆 |
