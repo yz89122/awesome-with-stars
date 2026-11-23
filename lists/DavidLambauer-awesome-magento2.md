@@ -169,7 +169,7 @@ The storefront of Magento 2 can be styled in numerous ways:
 - [bitExpert/phpstan-magento ![GitHub Repo Stars](https://img.shields.io/github/stars/bitExpert/phpstan-magento) ![GitHub last commit](https://img.shields.io/github/last-commit/bitExpert/phpstan-magento)](https://github.com/bitExpert/phpstan-magento) 🫡 - Magento-specific extension for PHPStan.
 - [graycoreio/magento2-cors ![GitHub Repo Stars](https://img.shields.io/github/stars/graycoreio/magento2-cors) ![GitHub last commit](https://img.shields.io/github/last-commit/graycoreio/magento2-cors)](https://github.com/graycoreio/magento2-cors) 🫡 - Enables configurable CORS headers on the Magento GraphQL API.
 - [Whoops Exceptions ![GitHub Repo Stars](https://img.shields.io/github/stars/yireo/Yireo_Whoops) ![GitHub last commit](https://img.shields.io/github/last-commit/yireo/Yireo_Whoops)](https://github.com/yireo/Yireo_Whoops) 🫡 - PHP Exceptions for Cool Kids in Magento 2.
-- [Yireo LokiComponents ![GitHub Repo Stars](https://img.shields.io/github/stars/yireo/Yireo_LokiComponents) ![GitHub last commit](https://img.shields.io/github/last-commit/yireo/Yireo_LokiComponents)](https://github.com/yireo/Yireo_LokiComponents) 🫡 - A library for building AJAX-driven form components with ease. Used by the Yireo Loki Checkout.
+- [Loki Components ![GitHub Repo Stars](https://img.shields.io/github/stars/LokiExtensions/Loki_Components) ![GitHub last commit](https://img.shields.io/github/last-commit/LokiExtensions/Loki_Components)](https://github.com/LokiExtensions/Loki_Components) 🫡 - A library for building AJAX-driven form components with ease. Used by the Loki Checkout.
 - [Developer Toolbar ![GitHub Repo Stars](https://img.shields.io/github/stars/mgtcommerce/Mgt_Developertoolbar) ![GitHub last commit](https://img.shields.io/github/last-commit/mgtcommerce/Mgt_Developertoolbar)](https://github.com/mgtcommerce/Mgt_Developertoolbar) - Magento 2 Developer Toolbar.
 - [Advanced Template Hints ![GitHub Repo Stars](https://img.shields.io/github/stars/ho-nl/magento2-Ho_Templatehints) ![GitHub last commit](https://img.shields.io/github/last-commit/ho-nl/magento2-Ho_Templatehints)](https://github.com/ho-nl/magento2-Ho_Templatehints) - Magento 2 Template Hints Helper.
 - [MageVulnDB ![GitHub Repo Stars](https://img.shields.io/github/stars/gwillem/magevulndb) ![GitHub last commit](https://img.shields.io/github/last-commit/gwillem/magevulndb)](https://github.com/gwillem/magevulndb) - Central repository for third-party Magento extensions with known security issues.
@@ -281,7 +281,7 @@ The storefront of Magento 2 can be styled in numerous ways:
 - [Product Links Navigator ![GitHub Repo Stars](https://img.shields.io/github/stars/elninotech/ElNino_ProductLinksNavigator) ![GitHub last commit](https://img.shields.io/github/last-commit/elninotech/ElNino_ProductLinksNavigator)](https://github.com/elninotech/ElNino_ProductLinksNavigator) - Enhances admin product-to-product navigation. Adds direct frontend/backend links to products in grids and modals, and a "Parent Products" tab.
 
 <details>
-<summary>🪦 Graveyard �� projects no longer recommended</summary>
+<summary>🪦 Graveyard — projects no longer recommended</summary>
 
 - [shkoliar/magento-grid-colors ![GitHub Repo Stars](https://img.shields.io/github/stars/shkoliar/magento-grid-colors) ![GitHub last commit](https://img.shields.io/github/last-commit/shkoliar/magento-grid-colors)](https://github.com/shkoliar/magento-grid-colors) - Magento 2 Grid Colors module for colorizing admin grids. Supports saving of states with the help of grid bookmarks by Dmitry Shkoliar.
 - [extdn/extension-dashboard-m2 ![GitHub Repo Stars](https://img.shields.io/github/stars/extdn/extension-dashboard-m2) ![GitHub last commit](https://img.shields.io/github/last-commit/extdn/extension-dashboard-m2)](https://github.com/extdn/extension-dashboard-m2) - A Magento 2 dashboard to display installed extensions by the Magento Extension Developers Network.
@@ -323,7 +323,7 @@ The storefront of Magento 2 can be styled in numerous ways:
 ### Progressive Web Application
 
 - [ScandiPWA Theme ![GitHub Repo Stars](https://img.shields.io/github/stars/scandipwa/base-theme) ![GitHub last commit](https://img.shields.io/github/last-commit/scandipwa/base-theme)](https://github.com/scandipwa/base-theme) 🔥 - Magento 2.3+ PWA theme based on React and Redux.
-- [graphcommerce ![GitHub Repo Stars](https://img.shields.io/github/stars/graphcommerce-org/graphcommerce) ![GitHub last commit](https://img.shields.io/github/last-commit/graphcommerce-org/graphcommerce)](https://github.com/graphcommerce-org/graphcommerce) �� - GraphCommerce® is a headless storefront replacement for Magento 2 (PWA), that delivers a faster, better user experience. Fully customizable (React, Next.js) and open-source.
+- [graphcommerce ![GitHub Repo Stars](https://img.shields.io/github/stars/graphcommerce-org/graphcommerce) ![GitHub last commit](https://img.shields.io/github/last-commit/graphcommerce-org/graphcommerce)](https://github.com/graphcommerce-org/graphcommerce) 🫡 - GraphCommerce® is a headless storefront replacement for Magento 2 (PWA), that delivers a faster, better user experience. Fully customizable (React, Next.js) and open-source.
 - [magento2-default-theme ![GitHub Repo Stars](https://img.shields.io/github/stars/hyva-themes/magento2-default-theme) ![GitHub last commit](https://img.shields.io/github/last-commit/hyva-themes/magento2-default-theme)](https://github.com/hyva-themes/magento2-default-theme) - A Magento theme built with Tailwind
 - [magento2-theme-module ![GitHub Repo Stars](https://img.shields.io/github/stars/hyva-themes/magento2-theme-module) ![GitHub last commit](https://img.shields.io/github/last-commit/hyva-themes/magento2-theme-module)](https://github.com/hyva-themes/magento2-theme-module) - Magento Tailwind Theme companion module
 - [magento2-default-theme-csp ![GitHub Repo Stars](https://img.shields.io/github/stars/hyva-themes/magento2-default-theme-csp) ![GitHub last commit](https://img.shields.io/github/last-commit/hyva-themes/magento2-default-theme-csp)](https://github.com/hyva-themes/magento2-default-theme-csp) - A strict CSP compatible Magento theme built with Tailwind and Alpine.js
@@ -481,6 +481,9 @@ Community members worth following — talks, blog posts, open-source maintenance
 - [Andreas von Studnitz](https://github.com/avstudnitz) - Mage-OS Technical Working Group member; Magento architect at Hyva Themes; 2x Magento Master; formerly co-owner of integer_net.
 - [David Lambauer](https://www.davidlambauer.de) - Vice President of Mage-OS; Adobe Certified Master Architect; creator of Mage-OS DevDocs; founder of run-as-root GmbH.
 - [Fabrizio Balliano](https://fabrizioballiano.com) - Mage-OS Technical Working Group member; release manager for the Mage-OS 2.0 distribution; 5x Magento certified freelance engineer.
+- [Jisse Reitsma](https://www.yireo.com/blog) - Vice President of the Magento Association; 3x Magento Master; founder of Yireo; trainer on Hyva, GraphQL, and Loki Checkout; Mage-OS Open Source Task Force member.
+- [Mark Shust](https://markshust.com/) - Creator of markshust/docker-magento (the most-starred Magento-specific GitHub repo); educator at M.academy with 600+ video lessons.
+- [Noah Oken-Berg](https://www.abovethefray.com) - Chair of the Magento Association Board of Directors; CEO of Above The Fray; focused on community governance and sustainable ecosystem growth.
 - [Peter Jaap Blaakmeer](https://github.com/peterjaap) - CTO at elgentos; Mage-OS founding signatory; prolific open-source contributor to Magento 2 and Mage-OS.
 - [Ryan Hoerr](https://github.com/rhoerr) - Mage-OS board member and Technical Working Group contributor; primary release engineer for Mage-OS distributions throughout 2025–2026; ParadoxLabs.
 - [Sanne Bolkenstein](https://www.hyva.io/about) - Commercial Director and Partner at Hyva Themes; chairs Mage-OS Netherlands.
@@ -491,11 +494,6 @@ Community members worth following — talks, blog posts, open-source maintenance
 
 <details>
 <summary>🪦 Graveyard — projects no longer recommended</summary>
-
-- [Jisse Reitsma](https://www.yireo.com/blog) - Vice President of the Magento Association; 3x Magento Master; founder of Yireo; trainer on Hyva, GraphQL, and Loki Checkout; Mage-OS Open Source Task Force member.
-- [Mark Shust](https://markshust.com/) - Creator of markshust/docker-magento (the most-starred Magento-specific GitHub repo); educator at M.academy with 600+ video lessons.
-- [Noah Oken-Berg](https://www.abovethefray.com) - Chair of the Magento Association Board of Directors; CEO of Above The Fray; focused on community governance and sustainable ecosystem growth.
-
 </details>
 
 ---

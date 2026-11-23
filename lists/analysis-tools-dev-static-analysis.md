@@ -2546,8 +2546,6 @@ Loading address: binbloom can parse a raw binary firmware and determine its load
 
 - [terraform-compliance](https://terraform-compliance.com) — A lightweight, compliance- and security focused, BDD test framework against Terraform.
 
-- [terrascan ![GitHub Repo Stars](https://img.shields.io/github/stars/cesar-rodriguez/terrascan) ![GitHub last commit](https://img.shields.io/github/last-commit/cesar-rodriguez/terrascan)](https://github.com/cesar-rodriguez/terrascan) — Collection of security and best practice tests for static code analysis of Terraform templates.
-
 - [tflint ![GitHub Repo Stars](https://img.shields.io/github/stars/wata727/tflint) ![GitHub last commit](https://img.shields.io/github/last-commit/wata727/tflint)](https://github.com/wata727/tflint) — A Terraform linter for detecting errors that can not be detected by `terraform plan`.
 
 - [tfsec ![GitHub Repo Stars](https://img.shields.io/github/stars/tfsec/tfsec) ![GitHub last commit](https://img.shields.io/github/last-commit/tfsec/tfsec)](https://github.com/tfsec/tfsec) — Terraform static analysis tool that prevents potential security issues by checking cloud misconfigurations at build time and directly integrates with the HCL parser for better results. Checks for violations of AWS, Azure and GCP security best practice recommendations.
@@ -2570,6 +2568,10 @@ Loading address: binbloom can parse a raw binary firmware and determine its load
 
 
 - **Puppet Lint** :warning: — Check that your Puppet manifests conform to the style guide.
+
+
+
+- **terrascan** :warning: — Collection of security and best practice tests for static code analysis of Terraform templates.
 
 </details>
 

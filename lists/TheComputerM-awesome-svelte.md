@@ -126,7 +126,7 @@ _Studies and research on the Svelte framework._
 
 _UI frameworks for mobile._
 
-- [Svelte Native](https://svelte-native.technology/) - Svelte controlling native components via Nativescript.
+- [Svelte Native](https://svelte.nativescript.org/) - Svelte controlling native components via Nativescript.
 - [Framework7](https://framework7.io/svelte/) - Full featured HTML framework for building iOS & Android apps.
 - [Capacitor](https://capacitorjs.com/solution/svelte) - Build native mobile apps with web technology and Svelte.
 - [Capgo](https://capgo.app) - Live updates / OTA for Capacitor apps.
@@ -193,6 +193,7 @@ _Toaster / snackbar - Notify the user with a modeless temporary little popup._
 - [@zerodevx/svelte-toast ![GitHub Repo Stars](https://img.shields.io/github/stars/zerodevx/svelte-toast) ![GitHub last commit](https://img.shields.io/github/last-commit/zerodevx/svelte-toast)](https://github.com/zerodevx/svelte-toast) - Simple elegant toast notifications.
 - [svelte-french-toast ![GitHub Repo Stars](https://img.shields.io/github/stars/kbrgl/svelte-french-toast) ![GitHub last commit](https://img.shields.io/github/last-commit/kbrgl/svelte-french-toast)](https://github.com/kbrgl/svelte-french-toast) - Buttery smooth toast notifications for Svelte, inspired by React Hot Toast. Lightweight, customizable, and beautiful by default.
 - [svelte-sonner ![GitHub Repo Stars](https://img.shields.io/github/stars/wobsoriano/svelte-sonner) ![GitHub last commit](https://img.shields.io/github/last-commit/wobsoriano/svelte-sonner)](https://github.com/wobsoriano/svelte-sonner) - An opinionated toast component for Svelte.
+- [Ding ![GitHub Repo Stars](https://img.shields.io/github/stars/YusufCeng1z/ding) ![GitHub last commit](https://img.shields.io/github/last-commit/YusufCeng1z/ding)](https://github.com/YusufCeng1z/ding) - Zero-dependency toast notifications for Svelte 5 with spring physics, where one toast stays on screen and a new call morphs it in place instead of stacking.
 
 ### Grid
 
@@ -215,6 +216,7 @@ _Toaster / snackbar - Notify the user with a modeless temporary little popup._
 - [svesome ![GitHub Repo Stars](https://img.shields.io/github/stars/pouchlabs/svesome) ![GitHub last commit](https://img.shields.io/github/last-commit/pouchlabs/svesome)](https://github.com/pouchlabs/svesome) - A fontawesome v6 icons wrapper for svelte its awesome.
 - [hugeicons ![GitHub Repo Stars](https://img.shields.io/github/stars/hugeicons/svelte) ![GitHub last commit](https://img.shields.io/github/last-commit/hugeicons/svelte)](https://github.com/hugeicons/svelte) - Beautiful, production-ready icon package for Svelte with complete icon coverage.
 - [moving icons ![GitHub Repo Stars](https://img.shields.io/github/stars/jis3r/icons) ![GitHub last commit](https://img.shields.io/github/last-commit/jis3r/icons)](https://github.com/jis3r/icons) - A collection of beautifully crafted, animated Lucide icons.
+- [favicons.page ![GitHub Repo Stars](https://img.shields.io/github/stars/peleda-app/favicons) ![GitHub last commit](https://img.shields.io/github/last-commit/peleda-app/favicons)](https://github.com/peleda-app/favicons/tree/main/clients/js) - A `use:favicon` action that shows any website's icon as a sandboxed SVG, served by a privacy-first, self-hostable favicon service.
 
 ### Calendar
 
@@ -278,6 +280,7 @@ _Templates / boilerplate / starter kits / stack ensemble / Yeoman generator._
 - [generic-app-template ![GitHub Repo Stars](https://img.shields.io/github/stars/GantonL/templates) ![GitHub last commit](https://img.shields.io/github/last-commit/GantonL/templates)](https://github.com/GantonL/templates/tree/main/sveltekit-shadcn-v5) - A open-source modern full-stack web application template built with SvelteKit + shadcn-svelte. Supports i18n, theming, cookie managment, SEO management, static content with mdsvex, a shell component and more.
 - [My SvelteKit Starter ![GitHub Repo Stars](https://img.shields.io/github/stars/moisesvalero/my-sveltekit-starter) ![GitHub last commit](https://img.shields.io/github/last-commit/moisesvalero/my-sveltekit-starter)](https://github.com/moisesvalero/my-sveltekit-starter) - A production-ready SvelteKit boilerplate optimized for AI-assisted development, featuring Svelte 5 runes, Tailwind CSS v4, shadcn-svelte style components, i18n, and pre-configured agent instructions.
 - [microfolio ![GitHub Repo Stars](https://img.shields.io/github/stars/aker-dev/microfolio) ![GitHub last commit](https://img.shields.io/github/last-commit/aker-dev/microfolio)](https://github.com/aker-dev/microfolio) - A static portfolio generator for creatives built with SvelteKit and Tailwind CSS 4, where content is just folders and Markdown files instead of a database, with interactive maps, EXIF metadata extraction and no tracking.
+- [Svelte Commerce ![GitHub Repo Stars](https://img.shields.io/github/stars/itswadesh/svelte-commerce) ![GitHub last commit](https://img.shields.io/github/last-commit/itswadesh/svelte-commerce)](https://github.com/itswadesh/svelte-commerce) - A headless SvelteKit storefront that connects to Shopify, WooCommerce, Medusa, Saleor, Vendure and 21 other ecommerce backends through swappable connector packages.
 
 ## Utilities
 
@@ -398,6 +401,7 @@ _Lint and format your code._
 - [svelte-jester ![GitHub Repo Stars](https://img.shields.io/github/stars/mihar-22/svelte-jester) ![GitHub last commit](https://img.shields.io/github/last-commit/mihar-22/svelte-jester)](https://github.com/mihar-22/svelte-jester) - A Jest transformer to compile your components before importing them into tests.
 - [@testing-library/svelte ![GitHub Repo Stars](https://img.shields.io/github/stars/testing-library/svelte-testing-library) ![GitHub last commit](https://img.shields.io/github/last-commit/testing-library/svelte-testing-library)](https://github.com/testing-library/svelte-testing-library) - Simple and complete Svelte DOM testing utilities that encourage good testing practices.
 - [jest-transform-svelte ![GitHub Repo Stars](https://img.shields.io/github/stars/rspieker/jest-transform-svelte) ![GitHub last commit](https://img.shields.io/github/last-commit/rspieker/jest-transform-svelte)](https://github.com/rspieker/jest-transform-svelte) - Jest Transformer for Svelte components.
+- [Mockatoo](https://mockatoo.globalunderdog.com) - Hosted mock OAuth provider for testing GitHub, Google and six other sign-ins in SvelteKit apps without real accounts, with a [SvelteKit guide](https://mockatoo.globalunderdog.com/docs/sveltekit) for Better Auth and Auth.js.
 
 ### Editors
 
@@ -428,3 +432,4 @@ _Text editor plugins._
 - [Oxide-Lab ![GitHub Repo Stars](https://img.shields.io/github/stars/FerrisMind/oxide-lab) ![GitHub last commit](https://img.shields.io/github/last-commit/FerrisMind/oxide-lab)](https://github.com/FerrisMind/oxide-lab) - Privacy-focused local LLM chat application built with Svelte 5 frontend and Rust backend using the `candle` ML framework.
 - [Zephyr ![GitHub Repo Stars](https://img.shields.io/github/stars/Prismo-Studio/Zephyr) ![GitHub last commit](https://img.shields.io/github/last-commit/Prismo-Studio/Zephyr)](https://github.com/Prismo-Studio/Zephyr) - Open-source mod manager for PC games with built-in Archipelago multiworld randomizer support, built with Svelte 5 and Tauri 2.
 - [PR Cockpit ![GitHub Repo Stars](https://img.shields.io/github/stars/theolundqvist/pr-cockpit) ![GitHub last commit](https://img.shields.io/github/last-commit/theolundqvist/pr-cockpit)](https://github.com/theolundqvist/pr-cockpit) - An extremely fast GitHub for reviewing pull requests: PRs open in about 20 ms. Keyboard-first, with a CLI for coding agents. Svelte 5 runes UI over a Bun server.
+- [NiceDB ![GitHub Repo Stars](https://img.shields.io/github/stars/maxib0n/NiceDB) ![GitHub last commit](https://img.shields.io/github/last-commit/maxib0n/NiceDB)](https://github.com/maxib0n/NiceDB) - Desktop database client for PostgreSQL, MySQL, MongoDB, Redis and twenty other engines, with a Svelte 5 interface in a Tauri 2 shell.

@@ -58,7 +58,6 @@ _You might also like [Awesome Django ![GitHub Repo Stars](https://img.shields.io
 
 - [Wagtail EditorJS ![GitHub Repo Stars](https://img.shields.io/github/stars/Nigel2392/wagtail_editorjs) ![GitHub last commit](https://img.shields.io/github/last-commit/Nigel2392/wagtail_editorjs)](https://github.com/Nigel2392/wagtail_editorjs) - An [EditorJS](https://editorjs.io/) widget with great support for Wagtail's page, image and document choosers.
 - [Wagtail Terms ![GitHub Repo Stars](https://img.shields.io/github/stars/smark-1/wagtailterms) ![GitHub last commit](https://img.shields.io/github/last-commit/smark-1/wagtailterms)](https://github.com/smark-1/wagtailterms) - A plugin to add a glossary terms entity to the Draftail editor.
-- [wagtailmdx ![GitHub Repo Stars](https://img.shields.io/github/stars/julinodev/wagtailmdx) ![GitHub last commit](https://img.shields.io/github/last-commit/julinodev/wagtailmdx)](https://github.com/julinodev/wagtailmdx) - A [MDXEditor ![GitHub Repo Stars](https://img.shields.io/github/stars/mdx-editor/editor) ![GitHub last commit](https://img.shields.io/github/last-commit/mdx-editor/editor)](https://github.com/mdx-editor/editor) integration for Wagtail as textfield widget.
 
 ### Widgets
 
@@ -69,7 +68,6 @@ _You might also like [Awesome Django ![GitHub Repo Stars](https://img.shields.io
 - [wagtail-instance-selector ![GitHub Repo Stars](https://img.shields.io/github/stars/ixc/wagtail-instance-selector) ![GitHub last commit](https://img.shields.io/github/last-commit/ixc/wagtail-instance-selector)](https://github.com/ixc/wagtail-instance-selector) - A `ForeignKey` widget to create and select related items. Similar to Django's `raw_id_fields`.
 - [wagtail-generic-chooser ![GitHub Repo Stars](https://img.shields.io/github/stars/wagtail/wagtail-generic-chooser) ![GitHub last commit](https://img.shields.io/github/last-commit/wagtail/wagtail-generic-chooser)](https://github.com/wagtail/wagtail-generic-chooser) - provides base classes for building chooser popups and form widgets for the Wagtail admin, matching the look and feel of Wagtail's built-in choosers for pages, documents, snippets and images.
 - [Wagtail-Color-Panel ![GitHub Repo Stars](https://img.shields.io/github/stars/marteinn/wagtail-color-panel) ![GitHub last commit](https://img.shields.io/github/last-commit/marteinn/wagtail-color-panel)](https://github.com/marteinn/wagtail-color-panel) - A package that adds new panels for selecting colors, works both on regular page fields and stream field.
-- [Wagtail Ace Editor ![GitHub Repo Stars](https://img.shields.io/github/stars/Nigel2392/wagtail_ace_editor) ![GitHub last commit](https://img.shields.io/github/last-commit/Nigel2392/wagtail_ace_editor)](https://github.com/Nigel2392/wagtail_ace_editor) - Ace Editor right in your Wagtail admin.
 - [wagtail-html-editor ![GitHub Repo Stars](https://img.shields.io/github/stars/kkm-horikawa/wagtail-html-editor) ![GitHub last commit](https://img.shields.io/github/last-commit/kkm-horikawa/wagtail-html-editor)](https://github.com/kkm-horikawa/wagtail-html-editor) - Enhanced HTML editor block for Wagtail CMS with CodeMirror 6, syntax highlighting, Emmet support, and fullscreen mode.
 
 ### StreamField
@@ -92,13 +90,13 @@ _You might also like [Awesome Django ![GitHub Repo Stars](https://img.shields.io
 ### SEO and SMO
 
 - [wagtail-meta-preview ![GitHub Repo Stars](https://img.shields.io/github/stars/Frojd/wagtail-meta-preview) ![GitHub last commit](https://img.shields.io/github/last-commit/Frojd/wagtail-meta-preview)](https://github.com/Frojd/wagtail-meta-preview) - Wagtail Meta Preview provides panels for previewing Facebook sharing, Twitter sharing and Google search results in the Wagtail admin.
-- [Wagtail Yoast ![GitHub Repo Stars](https://img.shields.io/github/stars/Aleksi44/wagtailyoast) ![GitHub last commit](https://img.shields.io/github/last-commit/Aleksi44/wagtailyoast)](https://github.com/Aleksi44/wagtailyoast) - A tool to improve readability of your texts with SEO recommendations.
+- [Wagtail Yoast ![GitHub Repo Stars](https://img.shields.io/github/stars/Aleksi44/wagtailyoast) ![GitHub last commit](https://img.shields.io/github/last-commit/Aleksi44/wagtailyoast)](https://github.com/Aleksi44/wagtailyoast) - Wagtail + Yoast: improve readability of your texts with SEO recommendations.
 - [Wagtail SEO ![GitHub Repo Stars](https://img.shields.io/github/stars/coderedcorp/wagtail-seo) ![GitHub last commit](https://img.shields.io/github/last-commit/coderedcorp/wagtail-seo)](https://github.com/coderedcorp/wagtail-seo) - Search engine and social media optimization for Wagtail.
 
 ### Customer experience
 
 - [Wagtail Experiments ![GitHub Repo Stars](https://img.shields.io/github/stars/torchbox/wagtail-experiments) ![GitHub last commit](https://img.shields.io/github/last-commit/torchbox/wagtail-experiments)](https://github.com/torchbox/wagtail-experiments) – A/B testing for Wagtail.
-- [Wagtail Personalisation ![GitHub Repo Stars](https://img.shields.io/github/stars/wagtail-nest/wagtail-personalisation) ![GitHub last commit](https://img.shields.io/github/last-commit/wagtail-nest/wagtail-personalisation)](https://github.com/wagtail-nest/wagtail-personalisation) - Personalisation module, enabling editors to create customised pages - or parts of pages - based on segments whose rules are configured directly in the admin interface.
+- [Wagtail Personalisation ![GitHub Repo Stars](https://img.shields.io/github/stars/wagtail-nest/wagtail-personalisation) ![GitHub last commit](https://img.shields.io/github/last-commit/wagtail-nest/wagtail-personalisation)](https://github.com/wagtail-nest/wagtail-personalisation) - Rule-based personalisation, enabling editors to create customised pages - or parts of pages - based on segments whose rules are configured directly in the admin interface.
 
 ### Security
 
@@ -107,7 +105,7 @@ _You might also like [Awesome Django ![GitHub Repo Stars](https://img.shields.io
 ### Media
 
 - [wagtailmedia ![GitHub Repo Stars](https://img.shields.io/github/stars/torchbox/wagtailmedia) ![GitHub last commit](https://img.shields.io/github/last-commit/torchbox/wagtailmedia)](https://github.com/torchbox/wagtailmedia) - A Wagtail module for managing video and audio files within the admin.
-- [Wagtail Transcription ![GitHub Repo Stars](https://img.shields.io/github/stars/j-bodek/wagtail-transcription) ![GitHub last commit](https://img.shields.io/github/last-commit/j-bodek/wagtail-transcription)](https://github.com/j-bodek/wagtail-transcription) - Provides a field to automatically creates transcriptions from YouTube videos.
+- [Wagtail Transcription ![GitHub Repo Stars](https://img.shields.io/github/stars/j-bodek/wagtail-transcription) ![GitHub last commit](https://img.shields.io/github/last-commit/j-bodek/wagtail-transcription)](https://github.com/j-bodek/wagtail-transcription) - Provides a field to automatically create transcriptions from YouTube videos.
 
 ### Translations
 
@@ -120,11 +118,10 @@ _You might also like [Awesome Django ![GitHub Repo Stars](https://img.shields.io
 - [Wagtail ReCaptcha ![GitHub Repo Stars](https://img.shields.io/github/stars/wagtail-nest/wagtail-django-recaptcha) ![GitHub last commit](https://img.shields.io/github/last-commit/wagtail-nest/wagtail-django-recaptcha)](https://github.com/wagtail-nest/wagtail-django-recaptcha) - wagtail-django-captcha provides an easy way to integrate the [django-recaptcha ![GitHub Repo Stars](https://img.shields.io/github/stars/django-recaptcha/django-recaptcha) ![GitHub last commit](https://img.shields.io/github/last-commit/django-recaptcha/django-recaptcha)](https://github.com/django-recaptcha/django-recaptcha) field when using the Wagtail formbuilder.
 - [Wagtail Jotform ![GitHub Repo Stars](https://img.shields.io/github/stars/torchbox/wagtail-jotform) ![GitHub last commit](https://img.shields.io/github/last-commit/torchbox/wagtail-jotform)](https://github.com/torchbox/wagtail-jotform) - A plugin for using jotforms in wagtail.
 - [Wagtail Model Forms ![GitHub Repo Stars](https://img.shields.io/github/stars/vicktornl/wagtail-model-forms) ![GitHub last commit](https://img.shields.io/github/last-commit/vicktornl/wagtail-model-forms)](https://github.com/vicktornl/wagtail-model-forms) - The Wagtail Form Builder functionalities available for your models/snippets.
-- [Wagtail Formation ![GitHub Repo Stars](https://img.shields.io/github/stars/mwesterhof/wagtail_formation) ![GitHub last commit](https://img.shields.io/github/last-commit/mwesterhof/wagtail_formation)](https://github.com/mwesterhof/wagtail_formation) - Fully dynamic and easy to use CMS-able forms for wagtail
+- [Wagtail Formation ![GitHub Repo Stars](https://img.shields.io/github/stars/mwesterhof/wagtail_formation) ![GitHub last commit](https://img.shields.io/github/last-commit/mwesterhof/wagtail_formation)](https://github.com/mwesterhof/wagtail_formation) - Fully dynamic and easy to use CMS-able forms for wagtail.
 
 ### Testing
 
-- [wagtail-linkchecker ![GitHub Repo Stars](https://img.shields.io/github/stars/neon-jungle/wagtail-linkchecker) ![GitHub last commit](https://img.shields.io/github/last-commit/neon-jungle/wagtail-linkchecker)](https://github.com/neon-jungle/wagtail-linkchecker) - A tool to assist with finding broken links on your Wagtail site.
 - [Wagtail Accessibility ![GitHub Repo Stars](https://img.shields.io/github/stars/wagtail-nest/wagtail-accessibility) ![GitHub last commit](https://img.shields.io/github/last-commit/wagtail-nest/wagtail-accessibility)](https://github.com/wagtail-nest/wagtail-accessibility) – ✅ Accessibility content checks for Wagtail websites.
 - [Wagtail Factories ![GitHub Repo Stars](https://img.shields.io/github/stars/wagtail/wagtail-factories) ![GitHub last commit](https://img.shields.io/github/last-commit/wagtail/wagtail-factories)](https://github.com/wagtail/wagtail-factories) - Factory boy classes for Wagtail.
 
@@ -144,17 +141,15 @@ _You might also like [Awesome Django ![GitHub Repo Stars](https://img.shields.io
 
 ### Misc
 
-- [wagtailmenus ![GitHub Repo Stars](https://img.shields.io/github/stars/jazzband/wagtailmenus) ![GitHub last commit](https://img.shields.io/github/last-commit/jazzband/wagtailmenus)](https://github.com/jazzband/wagtailmenus) - An app to help you manage and render menus in your Wagtail projects more effectively.
+- [wagtailmenus ![GitHub Repo Stars](https://img.shields.io/github/stars/wagtail-nest/wagtailmenus) ![GitHub last commit](https://img.shields.io/github/last-commit/wagtail-nest/wagtailmenus)](https://github.com/wagtail-nest/wagtailmenus) - An app to help you manage and render menus in your Wagtail projects more effectively.
 - [Wagtail Gridder ![GitHub Repo Stars](https://img.shields.io/github/stars/wharton/wagtailgridder) ![GitHub last commit](https://img.shields.io/github/last-commit/wharton/wagtailgridder)](https://github.com/wharton/wagtailgridder) - Grid card layout similar to Google image search results, with an expanded area for card details.
-- [Wagtail App Pages ![GitHub Repo Stars](https://img.shields.io/github/stars/mwesterhof/wagtail_app_pages) ![GitHub last commit](https://img.shields.io/github/last-commit/mwesterhof/wagtail_app_pages)](https://github.com/mwesterhof/wagtail_app_pages) - Extend Wagtail pages using an actual URL config and django views.
+- [Wagtail App Pages ![GitHub Repo Stars](https://img.shields.io/github/stars/mwesterhof/wagtail_app_pages) ![GitHub last commit](https://img.shields.io/github/last-commit/mwesterhof/wagtail_app_pages)](https://github.com/mwesterhof/wagtail_app_pages) - Full MVC support for Wagtail pages, using an actual URL config and django views.
 - [Wagtail Cache ![GitHub Repo Stars](https://img.shields.io/github/stars/coderedcorp/wagtail-cache) ![GitHub last commit](https://img.shields.io/github/last-commit/coderedcorp/wagtail-cache)](https://github.com/coderedcorp/wagtail-cache) - A simple page cache for Wagtail using the Django cache middleware.
-- [Wagtail Orderable ![GitHub Repo Stars](https://img.shields.io/github/stars/elton2048/wagtail-orderable) ![GitHub last commit](https://img.shields.io/github/last-commit/elton2048/wagtail-orderable)](https://github.com/elton2048/wagtail-orderable) - Mixin support for drag-and-drop ordering in admin panel.
 - [Wagtail Resume ![GitHub Repo Stars](https://img.shields.io/github/stars/adinhodovic/wagtail-resume) ![GitHub last commit](https://img.shields.io/github/last-commit/adinhodovic/wagtail-resume)](https://github.com/adinhodovic/wagtail-resume) – A Wagtail project made to simplify creation of resumes for developers.
 - [Wagtail Trash ![GitHub Repo Stars](https://img.shields.io/github/stars/Frojd/wagtail-trash) ![GitHub last commit](https://img.shields.io/github/last-commit/Frojd/wagtail-trash)](https://github.com/Frojd/wagtail-trash) - Instead of deleting pages when pressing delete, pages will get thrown into the "Trash Can".
 - [wagtail-pdf-view ![GitHub Repo Stars](https://img.shields.io/github/stars/donhauser/wagtail-pdf) ![GitHub last commit](https://img.shields.io/github/last-commit/donhauser/wagtail-pdf)](https://github.com/donhauser/wagtail-pdf) - PDF rendering views for the Wagtail CMS.
 - [Wagtail Grapple ![GitHub Repo Stars](https://img.shields.io/github/stars/torchbox/wagtail-grapple) ![GitHub last commit](https://img.shields.io/github/last-commit/torchbox/wagtail-grapple)](https://github.com/torchbox/wagtail-grapple) - A Wagtail app that makes building GraphQL endpoints a breeze.
-- [Wagtail Cache Invalidator ![GitHub Repo Stars](https://img.shields.io/github/stars/vicktornl/wagtail-cache-invalidator) ![GitHub last commit](https://img.shields.io/github/last-commit/vicktornl/wagtail-cache-invalidator)](https://github.com/vicktornl/wagtail-cache-invalidator) - Invalidate and purge (frontend) cache via an user-friendly interface in the Wagtail CMS.
-- [wagtail-subscriptions ![GitHub Repo Stars](https://img.shields.io/github/stars/mojnomiya/wagtail_subscriptions) ![GitHub last commit](https://img.shields.io/github/last-commit/mojnomiya/wagtail_subscriptions)](https://github.com/mojnomiya/wagtail_subscriptions) - Subscription management system for Wagtail CMS with Stripe integration, feature-based access control, and multi-tenant support.
+- [wagtail-subscriptions ![GitHub Repo Stars](https://img.shields.io/github/stars/mojnomiya/wagtail_subscriptions) ![GitHub last commit](https://img.shields.io/github/last-commit/mojnomiya/wagtail_subscriptions)](https://github.com/mojnomiya/wagtail_subscriptions) - Subscription management system for Wagtail with Stripe integration, feature-based access control, and multi-tenant support.
 
 ## Tools
 
@@ -168,8 +163,7 @@ _You might also like [Awesome Django ![GitHub Repo Stars](https://img.shields.io
 
 ### Templates (start command)
 
-- [Wagtail template: Your first Wagtail site ![GitHub Repo Stars](https://img.shields.io/github/stars/thibaudcolas/wagtail-tutorial-template) ![GitHub last commit](https://img.shields.io/github/last-commit/thibaudcolas/wagtail-tutorial-template)](https://github.com/thibaudcolas/wagtail-tutorial-template) - A Wagtail project starter template – with the solution to Wagtail's official Your first Wagtail site tutorial.
-- [Wagtail News Template ![GitHub Repo Stars](https://img.shields.io/github/stars/wagtail/news-template) ![GitHub last commit](https://img.shields.io/github/last-commit/wagtail/news-template)](https://github.com/wagtail/news-template) - A Wagtail template for a news site.
+- [Wagtail News Template ![GitHub Repo Stars](https://img.shields.io/github/stars/wagtail/news-template) ![GitHub last commit](https://img.shields.io/github/last-commit/wagtail/news-template)](https://github.com/wagtail/news-template) - A Wagtail starter kit template for a news site.
 
 ## Resources
 
@@ -183,7 +177,6 @@ _You might also like [Awesome Django ![GitHub Repo Stars](https://img.shields.io
 
 - [Wagtail Tutorials: Build Blog Step by Step](https://saashammer.com/blog/wagtail-tutorials/) - The tutorials teach you how to create a standard blog from scratch step by step.
 - [Multi-tenancy with Wagtail](https://cynthiakiser.com/blog/2023/11/01/multitenancy-with-wagtail.html) - Multiple part guide on robust multi-tenancy support in Wagtail.
-- [How to Prevent Users from Creating Pages by Type](https://timonweb.com/wagtail/how-to-prevent-users-from-creating-certain-page-types-in-wagtail-cms/)
 - [How to Create and Manage Menus of Wagtail application](https://saashammer.com/blog/how-to-create-and-manage-menus-in-wagtail/)
 
 ### Presentations
@@ -203,34 +196,34 @@ _You might also like [Awesome Django ![GitHub Repo Stars](https://img.shields.io
 - [The Zen of Wagtail – Wagtail Space 2017](https://www.youtube.com/watch?t=16m38s&v=ObM2pUgY-bs) by Matt Westcott.
 - [Plone to Wagtail – Wagtail Space 2017](https://www.youtube.com/watch?t=2m57s&v=hZcuq8WJVew) by Coen van der Kamp.
 - [Hundreds of Wagtail in Flight – Wagtail Space 2017](https://www.youtube.com/watch?t=24m9s&v=hZcuq8WJVew) by Simon de Haan.
-- [How Google uses Wagtail – Wagtail Space 2018](https://www.youtube.com/watch?v=lh9nmN1mzwQ&t=1937s) by Kevin Chung.
-- [Introducing Draft.js in Wagtail – Wagtail Space 2018](https://www.youtube.com/watch?v=lh9nmN1mzwQ&t=2690s) by Thibaud Colas. [Presentation](https://thib.me/introducing-draft-js-in-wagtail).
-- [Let It Go – Wagtail Space 2018](https://www.youtube.com/watch?v=lh9nmN1mzwQ&t=3938s) by Matt Wescott.
-- [Developing Solutions for Girls, by Men – Wagtail Space 2018](https://www.youtube.com/watch?v=lh9nmN1mzwQ&t=5184s) by Lisa Adams.
-- [Wagtail’s first hatch – Wagtail Space 2018](https://www.youtube.com/watch?v=P8RUQE7Djdg&t=265s) by Bertrand Bordage.
-- [The Word Problem – Wagtail Space 2018](https://www.youtube.com/watch?v=P8RUQE7Djdg&t=2841s) by Tom Dyson.
-- [Wagtail on Divio Cloud – Wagtail Space 2018](https://www.youtube.com/watch?v=P8RUQE7Djdg&t=3856s) by Daniele Procida.
-- [Chopping the head off Wagtail and sticking it back on – Wagtail Space 2018](https://www.youtube.com/watch?v=u0CPaXRSOzI&t=152s) by Tony Yates.
-- [StreamField editor at UWKM – Wagtail Space 2018](https://www.youtube.com/watch?v=u0CPaXRSOzI&t=400s) by Geert jan Hoogeslag.
-- [Things i learned at Wagtail Space – Wagtail Space 2018](https://www.youtube.com/watch?v=u0CPaXRSOzI&t=719s) by Codie Roelf.
-- [Fly Wagtail to a PyCon – Wagtail Space 2018](https://www.youtube.com/watch?v=u0CPaXRSOzI&t=912s) by Daniele Procida.
-- [Wagtail Performance – Wagtail Space 2018](https://www.youtube.com/watch?v=u0CPaXRSOzI&t=1345s) by Michael van Tellingen. [Code](https://gist.github.com/mvantellingen/daebda6abbaa9a5ed0888f886a77fcf0).
-- [Mutliple images uploader – Wagtail Space 2018](https://www.youtube.com/watch?v=u0CPaXRSOzI&t=1661s) by Rajeev J Sebastian.
-- [Wagtail Space easter egg team demo – Wagtail Space 2018](https://www.youtube.com/watch?v=u0CPaXRSOzI&t=2057s) by Lars. [Code ![GitHub Repo Stars](https://img.shields.io/github/stars/specialunderwear/haunted-wagtail) ![GitHub last commit](https://img.shields.io/github/last-commit/specialunderwear/haunted-wagtail)](https://github.com/specialunderwear/haunted-wagtail).
-- [Wagtail Space 2019 – Wagtail Space 2018](https://www.youtube.com/watch?v=u0CPaXRSOzI&t=2278s) by Maarten Kling.
-- [Wagtail in 2018 – Wagtail Space US 2018](https://www.youtube.com/watch?v=ICKYMO0YoFI&index=2&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV) by Tom Dyson.
-- [What the Wagtail Docs Don't Tell You – Wagtail Space US 2018](https://www.youtube.com/watch?v=PCkxBNXWM64&index=3&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV) by Lacey Williams Henschel.
-- [Django Logging for Wagtail – Wagtail Space US 2018](https://www.youtube.com/watch?v=kkztl9ORUKQ&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV&index=4) by Ryan Sullivan.
-- [Scaling Wagtail for 100 Million Girls – Wagtail Space US 2018](https://www.youtube.com/watch?v=AiOJAKE0M0I&index=5&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV) by Lisa Adams and Codie Roelf.
-- [Using Wagtail to Fight for Press Freedom – Wagtail Space US 2018](https://www.youtube.com/watch?v=FYqbqsa04T8&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV&index=6) by Harris Lapiroff.
-- [Choosing Wagtail for Columbia University – Wagtail Space US 2018](https://www.youtube.com/watch?v=OiZScRcluCo&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV&index=7) by Zarina Mustapha.
-- [Running a Multi-Site Newsroom in Wagtail – Wagtail Space US 2018](https://www.youtube.com/watch?v=lMCjInjAz-M&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV&index=8) by Ryan Verner.
-- [Wagtail in the Cloud – Wagtail Space US 2018](https://www.youtube.com/watch?v=N1MeTEPRmJA&index=9&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV) by Daniele Procida.
-- [Beheading Wagtail: Wagtail as a Headless CMS – Wagtail Space US 2018](https://www.youtube.com/watch?v=HZT14u6WwdY&index=10&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV) by Michael Harrison.
-- [Learning Wagtail – Wagtail Space US 2018](https://www.youtube.com/watch?v=C-tXt5fLj_s&index=11&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV) by Dawn Wages.
-- [Sharing is Caring – Wagtail Space US 2018](https://www.youtube.com/watch?v=6AXyg6vvMTE&index=12&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV) by Andy Chosak.
-- [Lightning Talks – Wagtail Space US 2018](https://www.youtube.com/watch?v=uoxyBIpaXTU&index=13&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV)
-- [Wagtail: когда хочется чего-то приятнее, чем просто Django – Moscow Python Conf++ 2018](https://www.youtube.com/watch?v=xPPfTvLS7oQ) by Игорь Мосягин
+- [How Google uses Wagtail – Wagtail Space 2018](https://www.youtube.com/watch?v=lh9nmN1mzwQ&t=1937s) by Kevin Chung.
+- [Introducing Draft.js in Wagtail – Wagtail Space 2018](https://www.youtube.com/watch?v=lh9nmN1mzwQ&t=2690s) by Thibaud Colas. [Presentation](https://thib.me/introducing-draft-js-in-wagtail).
+- [Let It Go – Wagtail Space 2018](https://www.youtube.com/watch?v=lh9nmN1mzwQ&t=3938s) by Matt Wescott.
+- [Developing Solutions for Girls, by Men – Wagtail Space 2018](https://www.youtube.com/watch?v=lh9nmN1mzwQ&t=5184s) by Lisa Adams.
+- [Wagtail’s first hatch – Wagtail Space 2018](https://www.youtube.com/watch?v=P8RUQE7Djdg&t=265s) by Bertrand Bordage.
+- [The Word Problem – Wagtail Space 2018](https://www.youtube.com/watch?v=P8RUQE7Djdg&t=2841s) by Tom Dyson.
+- [Wagtail on Divio Cloud – Wagtail Space 2018](https://www.youtube.com/watch?v=P8RUQE7Djdg&t=3856s) by Daniele Procida.
+- [Chopping the head off Wagtail and sticking it back on – Wagtail Space 2018](https://www.youtube.com/watch?v=u0CPaXRSOzI&t=152s) by Tony Yates.
+- [StreamField editor at UWKM – Wagtail Space 2018](https://www.youtube.com/watch?v=u0CPaXRSOzI&t=400s) by Geert jan Hoogeslag.
+- [Things i learned at Wagtail Space – Wagtail Space 2018](https://www.youtube.com/watch?v=u0CPaXRSOzI&t=719s) by Codie Roelf.
+- [Fly Wagtail to a PyCon – Wagtail Space 2018](https://www.youtube.com/watch?v=u0CPaXRSOzI&t=912s) by Daniele Procida.
+- [Wagtail Performance – Wagtail Space 2018](https://www.youtube.com/watch?v=u0CPaXRSOzI&t=1345s) by Michael van Tellingen. [Code](https://gist.github.com/mvantellingen/daebda6abbaa9a5ed0888f886a77fcf0).
+- [Mutliple images uploader – Wagtail Space 2018](https://www.youtube.com/watch?v=u0CPaXRSOzI&t=1661s) by Rajeev J Sebastian.
+- [Wagtail Space easter egg team demo – Wagtail Space 2018](https://www.youtube.com/watch?v=u0CPaXRSOzI&t=2057s) by Lars. [Code ![GitHub Repo Stars](https://img.shields.io/github/stars/specialunderwear/haunted-wagtail) ![GitHub last commit](https://img.shields.io/github/last-commit/specialunderwear/haunted-wagtail)](https://github.com/specialunderwear/haunted-wagtail).
+- [Wagtail Space 2019 – Wagtail Space 2018](https://www.youtube.com/watch?v=u0CPaXRSOzI&t=2278s) by Maarten Kling.
+- [Wagtail in 2018 – Wagtail Space US 2018](https://www.youtube.com/watch?v=ICKYMO0YoFI&index=2&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV) by Tom Dyson.
+- [What the Wagtail Docs Don't Tell You – Wagtail Space US 2018](https://www.youtube.com/watch?v=PCkxBNXWM64&index=3&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV) by Lacey Williams Henschel.
+- [Django Logging for Wagtail – Wagtail Space US 2018](https://www.youtube.com/watch?v=kkztl9ORUKQ&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV&index=4) by Ryan Sullivan.
+- [Scaling Wagtail for 100 Million Girls – Wagtail Space US 2018](https://www.youtube.com/watch?v=AiOJAKE0M0I&index=5&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV) by Lisa Adams and Codie Roelf.
+- [Using Wagtail to Fight for Press Freedom – Wagtail Space US 2018](https://www.youtube.com/watch?v=FYqbqsa04T8&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV&index=6) by Harris Lapiroff.
+- [Choosing Wagtail for Columbia University – Wagtail Space US 2018](https://www.youtube.com/watch?v=OiZScRcluCo&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV&index=7) by Zarina Mustapha.
+- [Running a Multi-Site Newsroom in Wagtail – Wagtail Space US 2018](https://www.youtube.com/watch?v=lMCjInjAz-M&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV&index=8) by Ryan Verner.
+- [Wagtail in the Cloud – Wagtail Space US 2018](https://www.youtube.com/watch?v=N1MeTEPRmJA&index=9&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV) by Daniele Procida.
+- [Beheading Wagtail: Wagtail as a Headless CMS – Wagtail Space US 2018](https://www.youtube.com/watch?v=HZT14u6WwdY&index=10&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV) by Michael Harrison.
+- [Learning Wagtail – Wagtail Space US 2018](https://www.youtube.com/watch?v=C-tXt5fLj_s&index=11&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV) by Dawn Wages.
+- [Sharing is Caring – Wagtail Space US 2018](https://www.youtube.com/watch?v=6AXyg6vvMTE&index=12&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV) by Andy Chosak.
+- [Lightning Talks – Wagtail Space US 2018](https://www.youtube.com/watch?v=uoxyBIpaXTU&index=13&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV)
+- [Wagtail: когда хочется чего-то приятнее, чем просто Django – Moscow Python Conf++ 2018](https://www.youtube.com/watch?v=xPPfTvLS7oQ) by Игорь Мосягин
 - [The State of Wagtail – Wagtail Space 2019](https://www.youtube.com/watch?t=592&v=MAzZ2lhMhzM) by Tom Dyson.
 - [Image rotation feature – Wagtail Space 2019](https://www.youtube.com/watch?t=2057&v=MAzZ2lhMhzM) by Chris Adams. Code.
 - [Debug templates – Wagtail Space 2019](https://www.youtube.com/watch?t=2264&v=MAzZ2lhMhzM) by Coen van der Kamp.
@@ -246,17 +239,17 @@ _You might also like [Awesome Django ![GitHub Repo Stars](https://img.shields.io
 - [My First Wagtail Contribution – More formats in RichText Editor – Wagtail Space 2019](https://www.youtube.com/watch?t=4126&v=CSwpj-jyjP4) by Arifin Ibne Matin.
 - [Fly, Wagtail, fly! – Wagtail Space 2019](https://www.youtube.com/watch?t=4404&v=CSwpj-jyjP4) by Daniele Procida.
 - [Wagtail & GraphQL – Wagtail Space 2019](https://www.youtube.com/watch?t=24&v=YydSbL8gMS4) by Arthur Bayr.
-- [Writing (code) for authors – Wagtail Space US 2019](https://www.youtube.com/watch?v=Ihsrki0d1G8&list=PLEyaio0l1qoEIUFM9bnRKoN6VKEUOdxAn&index=1) by Brian Smith & Eric Sherman. [Slides](https://docs.google.com/presentation/d/1z61u0uKwJxmYS4Zawbu4Zgg-kCtInd1VgsEg-rnwzBE/edit).
-- [Saving Lives With Wagtail: Recovery Meetings Across the World – Wagtail Space US 2019](https://www.youtube.com/watch?v=QlLWvNT5Wrk&list=PLEyaio0l1qoEIUFM9bnRKoN6VKEUOdxAn&index=2) by Timothy Allen.
-- [Why we chose Wagtail for CodeRed CMS – Wagtail Space US 2019](https://www.youtube.com/watch?v=1JUOAAmLQFA&list=PLEyaio0l1qoEIUFM9bnRKoN6VKEUOdxAn&index=3) by Vince Salvino.
-- [Building a Wagtail-based site and authoring environment with accessibility in mind – Wagtail Space US 2019](https://www.youtube.com/watch?v=CxjlAI6R7iY&list=PLEyaio0l1qoEIUFM9bnRKoN6VKEUOdxAn&index=4) by Zarina Mustapha.
-- [Making Wagtail Accessible – Wagtail Space US 2019](https://www.youtube.com/watch?v=tdB1I_gSCeY&list=PLEyaio0l1qoEIUFM9bnRKoN6VKEUOdxAn&index=5) by Thibaud Colas. [Slides](https://docs.google.com/presentation/d/15y8XIe7SL-RYEO9tEE8n9chx80_X4j4PbczGGM-cEGE/edit).
-- [Everyone can fly a flag – Wagtail Space US 2019](https://www.youtube.com/watch?v=ZqwmgsqMTEs&list=PLEyaio0l1qoEIUFM9bnRKoN6VKEUOdxAn&index=6) by Will Barton. [Slides](https://docs.google.com/presentation/d/1-A1doke2ylcqG72oIP-MLiX8SKXKkKNxQeKxddYUGBw/edit).
-- [Architecting for a multi-domain site – Wagtail Space US 2019](https://www.youtube.com/watch?v=xMbJmHF7kCw&list=PLEyaio0l1qoEIUFM9bnRKoN6VKEUOdxAn&index=7) by Ben Beecher. [Slides](https://slides.com/benbeecher/mds/).
-- [Contributions can be more than code – Wagtail Space US 2019](https://www.youtube.com/watch?v=tK-3kEBbblg&list=PLEyaio0l1qoEIUFM9bnRKoN6VKEUOdxAn&index=8) by Kalob Taulien.
-- [Thoughtful Code Review – Wagtail Space US 2019](https://www.youtube.com/watch?v=RY0K1BEV-_U&list=PLEyaio0l1qoEIUFM9bnRKoN6VKEUOdxAn&index=9) by Naomi Morduch Toubman. [Slides](https://docs.google.com/presentation/d/1b_Hda8381G6mMc7uzYDc2EYjocfwSi2TYiRMI7d4e3I/edit).
-- [Solving your problems by spelunking the Wagtail code – Wagtail Space US 2019](https://www.youtube.com/watch?v=BMoOhjgirFM&list=PLEyaio0l1qoEIUFM9bnRKoN6VKEUOdxAn&index=10) by Harris Lapiroff. [Slides](https://harrislapiroff.github.io/wagtail-space-us-2019/)
-- [The State of Wagtail: 2019 – Wagtail Space US 2019](https://www.youtube.com/watch?v=s29vaGnFcq8&list=PLEyaio0l1qoEIUFM9bnRKoN6VKEUOdxAn&index=11) by Tom Dyson.
+- [Writing (code) for authors – Wagtail Space US 2019](https://www.youtube.com/watch?v=Ihsrki0d1G8&list=PLEyaio0l1qoEIUFM9bnRKoN6VKEUOdxAn&index=1) by Brian Smith & Eric Sherman. [Slides](https://docs.google.com/presentation/d/1z61u0uKwJxmYS4Zawbu4Zgg-kCtInd1VgsEg-rnwzBE/edit).
+- [Saving Lives With Wagtail: Recovery Meetings Across the World – Wagtail Space US 2019](https://www.youtube.com/watch?v=QlLWvNT5Wrk&list=PLEyaio0l1qoEIUFM9bnRKoN6VKEUOdxAn&index=2) by Timothy Allen.
+- [Why we chose Wagtail for CodeRed CMS – Wagtail Space US 2019](https://www.youtube.com/watch?v=1JUOAAmLQFA&list=PLEyaio0l1qoEIUFM9bnRKoN6VKEUOdxAn&index=3) by Vince Salvino.
+- [Building a Wagtail-based site and authoring environment with accessibility in mind – Wagtail Space US 2019](https://www.youtube.com/watch?v=CxjlAI6R7iY&list=PLEyaio0l1qoEIUFM9bnRKoN6VKEUOdxAn&index=4) by Zarina Mustapha.
+- [Making Wagtail Accessible – Wagtail Space US 2019](https://www.youtube.com/watch?v=tdB1I_gSCeY&list=PLEyaio0l1qoEIUFM9bnRKoN6VKEUOdxAn&index=5) by Thibaud Colas. [Slides](https://docs.google.com/presentation/d/15y8XIe7SL-RYEO9tEE8n9chx80_X4j4PbczGGM-cEGE/edit).
+- [Everyone can fly a flag – Wagtail Space US 2019](https://www.youtube.com/watch?v=ZqwmgsqMTEs&list=PLEyaio0l1qoEIUFM9bnRKoN6VKEUOdxAn&index=6) by Will Barton. [Slides](https://docs.google.com/presentation/d/1-A1doke2ylcqG72oIP-MLiX8SKXKkKNxQeKxddYUGBw/edit).
+- [Architecting for a multi-domain site – Wagtail Space US 2019](https://www.youtube.com/watch?v=xMbJmHF7kCw&list=PLEyaio0l1qoEIUFM9bnRKoN6VKEUOdxAn&index=7) by Ben Beecher. [Slides](https://slides.com/benbeecher/mds/).
+- [Contributions can be more than code – Wagtail Space US 2019](https://www.youtube.com/watch?v=tK-3kEBbblg&list=PLEyaio0l1qoEIUFM9bnRKoN6VKEUOdxAn&index=8) by Kalob Taulien.
+- [Thoughtful Code Review – Wagtail Space US 2019](https://www.youtube.com/watch?v=RY0K1BEV-_U&list=PLEyaio0l1qoEIUFM9bnRKoN6VKEUOdxAn&index=9) by Naomi Morduch Toubman. [Slides](https://docs.google.com/presentation/d/1b_Hda8381G6mMc7uzYDc2EYjocfwSi2TYiRMI7d4e3I/edit).
+- [Solving your problems by spelunking the Wagtail code – Wagtail Space US 2019](https://www.youtube.com/watch?v=BMoOhjgirFM&list=PLEyaio0l1qoEIUFM9bnRKoN6VKEUOdxAn&index=10) by Harris Lapiroff. [Slides](https://harrislapiroff.github.io/wagtail-space-us-2019/)
+- [The State of Wagtail: 2019 – Wagtail Space US 2019](https://www.youtube.com/watch?v=s29vaGnFcq8&list=PLEyaio0l1qoEIUFM9bnRKoN6VKEUOdxAn&index=11) by Tom Dyson.
 - [Wagtail Guide - Getting started - Wagtail Space US 2022](https://www.youtube.com/watch?v=E3-kFY6jPPY) by Coen van der Kamp.
 - [A New Approach to Multitenant Wagtail - Wagtail Space US 2022](https://www.youtube.com/watch?v=WN0L4YNrWes) by Stephanie C. Smith and Addison Hardy.
 - [The Wagtail Marketplace for Games-based Courses - Wagtail Space 2022](https://www.youtube.com/watch?v=ueou6CxiR3Y) by Sarah Toms.
@@ -337,7 +330,6 @@ _You might also like [Awesome Django ![GitHub Repo Stars](https://img.shields.io
 
 ### Podcasts
 
-- [Podcast.\_\_init\_\_ Episode 58 - Wagtail with Tom Dyson](https://www.pythonpodcast.com/episodepage/episode-58-wagtail-with-tom-dyson) - In this episode Tom Dyson explains how Wagtail came to be created, what sets it apart from other options, and when you should implement it for your projects.
 - [Django Chat E9: Wagtail CMS - Tom Dyson](https://djangochat.com/episodes/wagtail-cms-tom-dyson) - An interview with Tom Dyson on Wagtail, the leading Django-based CMS used by tens of thousands of organizations including Google, NASA, and the British NHS.
 - [Django Chat E84: Dawn Wages](https://djangochat.com/episodes/wagtail-react-gatsby-dawn-wages-RaD8k37m) - An interview with Dawn Wages, a core Wagtail team member. Discussion about Wagtail, React and Gatsby.
 - [Django Chat E168: Thibaud Colas](https://djangochat.com/episodes/thibaud-colas-2025-dsf-board-nominations) - An interview with a core team member of Wagtail, discussing the current status of Django, upcoming DSF Board elections, Wagtail roadmap & community opportunities.
@@ -356,7 +348,7 @@ _You might also like [Awesome Django ![GitHub Repo Stars](https://img.shields.io
 
 ### Showcases
 
-- [Offiical showcase - Projects made with Wagtail](https://wagtail.org/showcase/) - Curated list of websites and apps that gives you a taste of the very best projects built with Wagtail.
+- [Official showcase - Projects made with Wagtail](https://wagtail.org/showcase/) - Curated list of websites and apps that gives you a taste of the very best projects built with Wagtail.
 - [Made with Wagtail](https://madewithwagtail.org/) - A showcase of sites and apps made with Wagtail CMS.
 
 ### Package lists
@@ -381,11 +373,10 @@ _You might also like [Awesome Django ![GitHub Repo Stars](https://img.shields.io
 ## Open-source sites
 
 - [Wagtail demo project ![GitHub Repo Stars](https://img.shields.io/github/stars/wagtail/bakerydemo) ![GitHub last commit](https://img.shields.io/github/last-commit/wagtail/bakerydemo)](https://github.com/wagtail/bakerydemo) – Next generation Wagtail demo, born in Reykjavík.
-- [Torchbox.com on Wagtail ![GitHub Repo Stars](https://img.shields.io/github/stars/torchbox/torchbox.com) ![GitHub last commit](https://img.shields.io/github/last-commit/torchbox/torchbox.com)](https://github.com/torchbox/torchbox.com) – Torchbox website 2024 incarnation.
-- [Made with Wagtail ![GitHub Repo Stars](https://img.shields.io/github/stars/springload/madewithwagtail) ![GitHub last commit](https://img.shields.io/github/last-commit/springload/madewithwagtail)](https://github.com/springload/madewithwagtail) - A showcase of sites and apps made with Wagtail CMS, the easy to use, open source Django content management system.
+- [Torchbox.com on Wagtail ![GitHub Repo Stars](https://img.shields.io/github/stars/torchbox/torchbox.com) ![GitHub last commit](https://img.shields.io/github/last-commit/torchbox/torchbox.com)](https://github.com/torchbox/torchbox.com) – Torchbox digital agency website.
 - [Federal Election Commission ![GitHub Repo Stars](https://img.shields.io/github/stars/fecgov/fec-cms) ![GitHub last commit](https://img.shields.io/github/last-commit/fecgov/fec-cms)](https://github.com/fecgov/fec-cms) – The content management system (CMS) for the new Federal Election Commission website.
 - [Bow Valley SPCA Website ![GitHub Repo Stars](https://img.shields.io/github/stars/nfletton/bvspca) ![GitHub last commit](https://img.shields.io/github/last-commit/nfletton/bvspca)](https://github.com/nfletton/bvspca) – Wagtail/Django based website of the Bow Valley SPCA.
-- [SecureDrop ![GitHub Repo Stars](https://img.shields.io/github/stars/freedomofpress/securedrop.org) ![GitHub last commit](https://img.shields.io/github/last-commit/freedomofpress/securedrop.org)](https://github.com/freedomofpress/securedrop.org) – Wagtail-powered website of the SecureDrop whistleblower document submission system.
+- [SecureDrop ![GitHub Repo Stars](https://img.shields.io/github/stars/freedomofpress/securedrop.org) ![GitHub last commit](https://img.shields.io/github/last-commit/freedomofpress/securedrop.org)](https://github.com/freedomofpress/securedrop.org) – Wagtail-powered code for the SecureDrop whistleblower document submission system website.
 - [consumerfinance.gov ![GitHub Repo Stars](https://img.shields.io/github/stars/cfpb/consumerfinance.gov) ![GitHub last commit](https://img.shields.io/github/last-commit/cfpb/consumerfinance.gov)](https://github.com/cfpb/consumerfinance.gov) – Django project protecting American consumers.
 - [Western Friend website ![GitHub Repo Stars](https://img.shields.io/github/stars/WesternFriend/westernfriend.org) ![GitHub last commit](https://img.shields.io/github/last-commit/WesternFriend/westernfriend.org)](https://github.com/WesternFriend/westernfriend.org) - A website for Western Friend (westernfriend.org), a Quaker publication that provides resources and support for Quaker communities and individuals seeking to live out their faith in the world. Western Friend is part of the Religious Society of Friends.
 - [Outreachy website ![GitHub Repo Stars](https://img.shields.io/github/stars/outreachy/website) ![GitHub last commit](https://img.shields.io/github/last-commit/outreachy/website)](https://github.com/outreachy/website) - Code for the Outreachy website, based on Python, Django, and Bootstrap.

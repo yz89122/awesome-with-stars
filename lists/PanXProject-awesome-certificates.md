@@ -236,7 +236,7 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 
 | Course Name | Course Provider | Level | Hour(s) | Reward |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
-| <a href="https://www.life-global.org/course/414-business-email" target="_blank" rel="noopener noreferrer"> Business Email </a> | HP / Life Global | Beginner | 0.5 | �� |
+| <a href="https://www.life-global.org/course/414-business-email" target="_blank" rel="noopener noreferrer"> Business Email </a> | HP / Life Global | Beginner | 0.5 | 🏆 |
 | <a href="https://www.life-global.org/course/343-introduction-to-digital-business-skills" target="_blank" rel="noopener noreferrer"> Introduction to Digital Business Skills </a> | HP / Life Global | Beginner | 0.5 | 🏆 |
 | <a href="https://www.life-global.org/course/427-professional-networking-for-career-growth" target="_blank" rel="noopener noreferrer">Professional Networking for Career Growth</a> | HP / Life Global | Beginner | 0.5 | 🏆 |
 | <a href="https://www.life-global.org/course/362-resume-writing-and-job-interviewing" target="_blank" rel="noopener noreferrer"> Resume Writing and Job Interviewing </a> | HP / Life Global | Beginner | 0.5 | 🏆 |
@@ -442,7 +442,7 @@ Report it <a href="https://github.com/PanXProject/awesome-certificates/issues/ne
 | Course Name | Course Provider | Level | Hour(s) | Reward |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
 | <a href="https://developers.google.com/learn/pathways/intro-to-flutter" target="_blank" rel="noopener noreferrer">Intro to Flutter</a> | Google | Beginner | 0.2 | 🏅 |
-| <a href="https://codehs.com/playlist/hour-of-code-3111" target="_blank" rel="noopener noreferrer">React Native</a> | CodeHS | Beginner | 1 | 🏅 |
+| <a href="https://codehs.com/playlist/hour-of-code-3111" target="_blank" rel="noopener noreferrer">React Native</a> | CodeHS | Beginner | 1 | ��� |
 | <a href="https://cursa.app/en/free-online-courses/react-native" target="_blank" rel="noopener noreferrer">React Native for Beginners</a> | Cursa | Beginner | 5 | 🏆 |
 | <a href="https://tutorials.nmdprojects.net/play.html?react_native_html_to_jsx" target="_blank" rel="noopener noreferrer">React Native HTML to JSX</a> | Umaine New Media | Intermediate | 0.2 | 🏅 |
 | <a href="https://tutorials.nmdprojects.net/play.html?react_native_css_to_jsx" target="_blank" rel="noopener noreferrer">React Native CSS to JSX</a> | Umaine New Media | Intermediate | 0.2 | 🏅 |
