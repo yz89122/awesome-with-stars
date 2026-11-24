@@ -448,7 +448,7 @@ See the difference between these two [here ![GitHub Repo Stars](https://img.shie
 
 ### [Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome)
 
-> ⚠️ Deprecated — debugging JavaScript in Chrome/Edge is now built into VS Code via the bundled **JavaScript Debugger**, so this extension is no longer needed.
+> ���️ Deprecated — debugging JavaScript in Chrome/Edge is now built into VS Code via the bundled **JavaScript Debugger**, so this extension is no longer needed.
 
 ### Facebook Flow
 

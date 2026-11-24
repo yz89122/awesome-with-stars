@@ -135,7 +135,6 @@ This section contains agent frameworks and tools that are useful for data scienc
 - [Arch Tools](https://archtools.dev) - 61 production-ready AI API tools for data science workflows: code analysis, web scraping, NLP, image generation, crypto data, and search. REST API and MCP protocol support. [GitHub ![GitHub Repo Stars](https://img.shields.io/github/stars/Deesmo/Arch-AI-Tools) ![GitHub last commit](https://img.shields.io/github/last-commit/Deesmo/Arch-AI-Tools)](https://github.com/Deesmo/Arch-AI-Tools)
 - [Not Human Search](https://nothumansearch.ai) - Search engine for AI agents that indexes 9,000+ AI tools and APIs, scoring each on agentic readiness (llms.txt, OpenAPI, MCP, ai-plugin.json). REST API and MCP server for programmatic tool discovery. [GitHub ![GitHub Repo Stars](https://img.shields.io/github/stars/unitedideas/nothumansearch) ![GitHub last commit](https://img.shields.io/github/last-commit/unitedideas/nothumansearch)](https://github.com/unitedideas/nothumansearch)
 - [DeepAlpha ![GitHub Repo Stars](https://img.shields.io/github/stars/stefanoviana/deepalpha) ![GitHub last commit](https://img.shields.io/github/last-commit/stefanoviana/deepalpha)](https://github.com/stefanoviana/deepalpha) - AI crypto trading framework using LightGBM + XGBoost ensemble with 72 ML features. 70.9% walk-forward validated accuracy on out-of-sample data. Supports Bybit and Binance. MIT licensed, available on [PyPI](https://pypi.org/project/deepalpha-bot/).
-- [CAJAL ![GitHub Repo Stars](https://img.shields.io/github/stars/Agnuxo1/CAJAL) ![GitHub last commit](https://img.shields.io/github/last-commit/Agnuxo1/CAJAL)](https://github.com/Agnuxo1/CAJAL) - Local AI agent for generating publication-ready scientific papers with real arXiv citations, IMRaD structure, and tribunal scoring. Runs 100% offline via Ollama with 4B-9B models. MIT licensed. [HuggingFace](https://huggingface.co/Agnuxo/CAJAL-9B-P2PCLAW)
 - [ai-evaluation ![GitHub Repo Stars](https://img.shields.io/github/stars/future-agi/agent-learning-kit) ![GitHub last commit](https://img.shields.io/github/last-commit/future-agi/agent-learning-kit)](https://github.com/future-agi/agent-learning-kit) - Open-source LLM and agent evaluation framework with 50+ metrics, LLM-as-Judge augmentation, and guardrail scanners (jailbreak, PII, prompt-injection). Useful for scoring RAG outputs, agent trajectories, and function-calling behavior in data-science workflows.
 - [Kitaru ![GitHub Repo Stars](https://img.shields.io/github/stars/zenml-io/kitaru) ![GitHub last commit](https://img.shields.io/github/last-commit/zenml-io/kitaru)](https://github.com/zenml-io/kitaru) - Open-source platform that records real AI agent runs, replays them against changes, and evaluates outcomes before deployment.
 - [Jev Social ![GitHub Repo Stars](https://img.shields.io/github/stars/socai-io/jev-social) ![GitHub last commit](https://img.shields.io/github/last-commit/socai-io/jev-social)](https://github.com/socai-io/jev-social) - Read-only social research agent that lets Jev choose bounded Instagram, TikTok, and LinkedIn operations, runs them through the local socai CLI in Chrome, and preserves source-linked evidence beside a cited report.
@@ -750,7 +749,6 @@ This section includes some additional reading material, channels to watch, and t
 - [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
 - [Effective Data Science Infrastructure](https://www.manning.com/books/effective-data-science-infrastructure)
 - [Practical MLOps: How to Get Ready for Production Models](https://valohai.com/mlops-ebook/)
-- [Data Analysis with Python and PySpark](https://www.manning.com/books/data-analysis-with-python-and-pyspark)
 - [Streaming Systems: The What, Where, When, and How of Large-Scale Data Processing](https://www.oreilly.com/library/view/streaming-systems/9781491983867/)
 - [Data Science at the Command Line: Facing the Future with Time-Tested Tools](https://www.oreilly.com/library/view/data-science-at/9781491947845/)
 - [Machine Learning with Python - Tutorialspoint](https://www.tutorialspoint.com/machine_learning_with_python/machine_learning_with_python_tutorial.pdf)
@@ -766,7 +764,7 @@ This section includes some additional reading material, channels to watch, and t
 - [Graph Algorithms for Data Science](https://www.manning.com/books/graph-algorithms-for-data-science) - Early Access
 - [Data Mesh in Action](https://www.manning.com/books/data-mesh-in-action) - Early Access
 - [Julia for Data Analysis](https://www.manning.com/books/julia-for-data-analysis) - Early Access
-- [Casual Inference for Data Science](https://www.manning.com/books/julia-for-data-analysis) - Early Access
+- [Causal Inference for Data Science](https://www.manning.com/books/causal-inference-for-data-science) - Early Access
 - [Regular Expression Puzzles and AI Coding Assistants](https://www.manning.com/books/regular-expression-puzzles-and-ai-coding-assistants) by David Mertz
 - [Dive into Deep Learning](https://d2l.ai/)
 - [Data for All](https://www.manning.com/books/data-for-all)
@@ -862,7 +860,6 @@ This section includes some additional reading material, channels to watch, and t
 - [Data-Mania](https://www.data-mania.com/)
 - [Data-Magnum](https://data-magnum.com/)
 - [Digital transformation](https://www.tarrysingh.com/)
-- [datascientistjourney](https://datascientistjourney.wordpress.com/category/data-science/)
 - [Data Mania Blog](https://www.data-mania.com/blog/) - [The File Drawer](https://chris-said.io/) - Chris Said's science blog
 - [Emilio Ferrara's web page](https://www.emilio.ferrara.name/)
 - [DataNews](https://datanews.tumblr.com/)

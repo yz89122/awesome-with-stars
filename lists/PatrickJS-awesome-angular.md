@@ -1389,6 +1389,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [virtua ![GitHub Repo Stars](https://img.shields.io/github/stars/inokawa/virtua) ![GitHub last commit](https://img.shields.io/github/last-commit/inokawa/virtua)](https://github.com/inokawa/virtua) - A zero-config, fast and small virtual list, grid and masonry component for React, Vue, Solid, Svelte and Angular.
 * [ngx-bs-grid ![GitHub Repo Stars](https://img.shields.io/github/stars/BlockSurvey/bs-grid) ![GitHub last commit](https://img.shields.io/github/last-commit/BlockSurvey/bs-grid)](https://github.com/BlockSurvey/bs-grid) - A zero-dependency MIT-licensed Angular data grid.
 * [argus-table ![GitHub Repo Stars](https://img.shields.io/github/stars/Joessst-Dev/argus-table) ![GitHub last commit](https://img.shields.io/github/last-commit/Joessst-Dev/argus-table)](https://github.com/Joessst-Dev/argus-table) - A framework-agnostic, virtualized data table web component built with Lit and TanStack.
+* [dzgrid ![GitHub Repo Stars](https://img.shields.io/github/stars/plinthworks/dzgrid) ![GitHub last commit](https://img.shields.io/github/last-commit/plinthworks/dzgrid)](https://github.com/plinthworks/dzgrid) - A data grid written from scratch in TypeScript, for applications where right-to-left text, Arabic, time zones and screen readers are not an afterthought.
 
 ### Dates
 

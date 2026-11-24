@@ -75,6 +75,7 @@ This list accepts and encourages pull requests. See [CONTRIBUTING ![GitHub Repo 
 - [DM ![GitHub Repo Stars](https://img.shields.io/github/stars/pingcap/tiflow) ![GitHub last commit](https://img.shields.io/github/last-commit/pingcap/tiflow)](https://github.com/pingcap/tiflow) - A High-Availability data migration platform which supports migrating data from MySQL/MariaDB to TiDB and merging shard tables
 - [Kingbus ![GitHub Repo Stars](https://img.shields.io/github/stars/flike/kingbus) ![GitHub last commit](https://img.shields.io/github/last-commit/flike/kingbus)](https://github.com/flike/kingbus) - A distributed MySQL binlog storage system built on Raft
 - [mysql-ripple ![GitHub Repo Stars](https://img.shields.io/github/stars/google/mysql-ripple) ![GitHub last commit](https://img.shields.io/github/last-commit/google/mysql-ripple)](https://github.com/google/mysql-ripple) (archived) - Ripple, a server that can serve as a middleman in MySQL replication
+- [OLake ![GitHub Repo Stars](https://img.shields.io/github/stars/datazip-inc/olake-go) ![GitHub last commit](https://img.shields.io/github/last-commit/datazip-inc/olake-go)](https://github.com/datazip-inc/olake-go) - Binlog-based CDC and full-load replication from MySQL to Apache Iceberg or Parquet, without Kafka or Spark
 
 ## ChatOps
 
