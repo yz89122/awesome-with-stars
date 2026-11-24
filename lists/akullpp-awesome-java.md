@@ -930,7 +930,7 @@ _Libraries related to the financial domain._
 
 > **[Stripe ![GitHub Repo Stars](https://img.shields.io/github/stars/stripe/stripe-java) ![GitHub last commit](https://img.shields.io/github/last-commit/stripe/stripe-java)](https://github.com/stripe/stripe-java)** <kbd>★ 1.0k</kbd> <kbd>MIT</kbd> 🟢<br>Integration with the Stripe API.
 
-> **[ta4j ![GitHub Repo Stars](https://img.shields.io/github/stars/ta4j/ta4j) ![GitHub last commit](https://img.shields.io/github/last-commit/ta4j/ta4j)](https://github.com/ta4j/ta4j)** <kbd>★ 2.5k</kbd> 🟢<br>Library for technical analysis.
+> **[ta4j ![GitHub Repo Stars](https://img.shields.io/github/stars/ta4j/ta4j) ![GitHub last commit](https://img.shields.io/github/last-commit/ta4j/ta4j)](https://github.com/ta4j/ta4j)** <kbd>★ 2.5k</kbd> ��<br>Library for technical analysis.
 
 > **[Wickra ![GitHub Repo Stars](https://img.shields.io/github/stars/wickra-lib/wickra) ![GitHub last commit](https://img.shields.io/github/last-commit/wickra-lib/wickra)](https://github.com/wickra-lib/wickra)** <kbd>★ 56</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Technical-analysis library with 514 streaming O(1)-per-tick indicators on a native Rust core, on Maven Central as org.wickra:wickra; more indicators and incremental updates than the pure-Java ta4j.
 
@@ -1382,7 +1382,7 @@ _Tools that help send messages between clients to ensure protocol independency._
 
 _Tools for creating and managing microservices._
 
-> **[Armeria ![GitHub Repo Stars](https://img.shields.io/github/stars/line/armeria) ![GitHub last commit](https://img.shields.io/github/last-commit/line/armeria)](https://github.com/line/armeria)** <kbd>★ 5.1k</kbd> <kbd>Apache-2.0</kbd> ����<br>Asynchronous RPC/REST client/server library built on top of Java 8, Netty, HTTP/2, Thrift and gRPC.
+> **[Armeria ![GitHub Repo Stars](https://img.shields.io/github/stars/line/armeria) ![GitHub last commit](https://img.shields.io/github/last-commit/line/armeria)](https://github.com/line/armeria)** <kbd>★ 5.1k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Asynchronous RPC/REST client/server library built on top of Java 8, Netty, HTTP/2, Thrift and gRPC.
 
 > **[Eureka ![GitHub Repo Stars](https://img.shields.io/github/stars/Netflix/eureka) ![GitHub last commit](https://img.shields.io/github/last-commit/Netflix/eureka)](https://github.com/Netflix/eureka)** <kbd>★ 12.7k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>REST-based service registry for resilient load balancing and failover.
 

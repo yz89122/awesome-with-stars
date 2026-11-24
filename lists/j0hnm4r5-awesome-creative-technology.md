@@ -182,7 +182,7 @@ Creative technologists by definition have a breadth of skills as opposed to a sp
 | [**Non-Linear**](https:&#x2F;&#x2F;non-linear.studio&#x2F;) | [Park City, UT] [Tallinn] | independent studio crafting digital experiences connecting brand, design, and technology | 
 | [**Normal**](https:&#x2F;&#x2F;normal.studio&#x2F;en&#x2F;) | [Montreal] | public installations, entertainment, performing arts, stage design | [📧](mailto:cv@normal.studio)
 | [**Nowhere**](https:&#x2F;&#x2F;studionowhere.com&#x2F;) | [Shanghai] | marketing events, interactive experiences | 
-| [**Oat Foundry**](https:&#x2F;&#x2F;www.oatfoundry.com&#x2F;) | [Philadelphia] | split-flap displays, electromechanical stuff, think tank, products, experiences | [🌐](https:&#x2F;&#x2F;www.oatfoundry.com&#x2F;careers&#x2F;)
+| [**Oat Foundry**](https:&#x2F;&#x2F;www.oatfoundry.com&#x2F;) | [Philadelphia] | split-flap displays, electromechanical stuff, think tank, products, experiences | [��](https:&#x2F;&#x2F;www.oatfoundry.com&#x2F;careers&#x2F;)
 | [**Observatory**](https:&#x2F;&#x2F;observatory.design&#x2F;) | [London] | creative technology and content studio crafting end-to-end solutions for immersive experiences, brand spatialisation, and experiential content | [🌐](https:&#x2F;&#x2F;www.observatory.design&#x2F;jobs)
 | [**OIO**](https:&#x2F;&#x2F;oio.studio&#x2F;) | [London] | creative company working on future products and tools for a less boring future | 
 | [**Onformative**](https:&#x2F;&#x2F;onformative.com&#x2F;) | [Berlin] | studio for digital art and design, challenge the boundaries between art and design and technology | [🌐](https:&#x2F;&#x2F;onformative.com&#x2F;jobs)
