@@ -264,6 +264,7 @@ Here is a [CSS in JS techniques comparison ![GitHub Repo Stars](https://img.shie
 
 * [Beautiful CSS box-shadow examples](https://getcssscan.com/css-box-shadow-examples) - Curated collection of 93 beautiful CSS box-shadow. Click to copy.
 * [Can I use](https://caniuse.com/) - Browser support for CSS, HTML5 and other front-end web technologies.
+- [CSSnippets](https://cssnippets.shefali.dev/) - A collection of HTML, React, CSS and Tailwind CSS code snippets for buttons, box-shadows, cards, checkboxes, dropdowns and many more.
 * [Flexbox Patterns](https://flexboxpatterns.com/) by cjcenizal
 * [Glassmorphism CSS Generator](https://ui.glass/generator/) - Generate CSS for glassmorphism.
 * [GradientArt](https://gra.dient.art/) - An advanced CSS gradient editor with layering, design tools and free cloud storage.
@@ -272,6 +273,7 @@ Here is a [CSS in JS techniques comparison ![GitHub Repo Stars](https://img.shie
 * [Single Div Project ![GitHub Repo Stars](https://img.shields.io/github/stars/ManrajGrover/SingleDivProject) ![GitHub last commit](https://img.shields.io/github/last-commit/ManrajGrover/SingleDivProject)](https://github.com/ManrajGrover/SingleDivProject) - One `<div>`. Many possibilities.
 * [You Might Not Need JS](http://youmightnotneedjs.com/) - CSS alternatives for common JS UI components.
 * [Xpath-to-selector ![GitHub Repo Stars](https://img.shields.io/github/stars/steambap/xpath-to-selector) ![GitHub last commit](https://img.shields.io/github/last-commit/steambap/xpath-to-selector)](https://github.com/steambap/xpath-to-selector) - Convert xpath to css selector.
+
 
 <sub>[⇧ back to top](#contents)</sub>
 

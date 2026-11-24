@@ -36,14 +36,17 @@ _You might also like [Awesome Django ![GitHub Repo Stars](https://img.shields.io
   - [Videos](#videos)
   - [Showcases](#showcases)
   - [Package lists](#package-lists)
-- [For editors](#for-editors)
+- [Documentation for editors](#documentation-for-editors)
 - [Community](#community)
 - [Open-source sites](#open-source-sites)
 
 ## General resources
 
 - [Official site](https://wagtail.org/)
-- [GitHub repository ![GitHub Repo Stars](https://img.shields.io/github/stars/wagtail/wagtail) ![GitHub last commit](https://img.shields.io/github/last-commit/wagtail/wagtail)](https://github.com/wagtail/wagtail)
+- [Code repository ![GitHub Repo Stars](https://img.shields.io/github/stars/wagtail/wagtail) ![GitHub last commit](https://img.shields.io/github/last-commit/wagtail/wagtail)](https://github.com/wagtail/wagtail)
+- [Official demo ![GitHub Repo Stars](https://img.shields.io/github/stars/wagtail/bakerydemo) ![GitHub last commit](https://img.shields.io/github/last-commit/wagtail/bakerydemo)](https://github.com/wagtail/bakerydemo)
+- [User guide](https://guide.wagtail.org/)
+- [Developer docs](https://docs.wagtail.org/)
 - [Project roadmap](https://wagtail.org/roadmap/)
 
 ## Apps
@@ -355,24 +358,21 @@ _You might also like [Awesome Django ![GitHub Repo Stars](https://img.shields.io
 
 - [Wagtail third-party packages](https://wagtail.org/packages/) - Official list based on PyPI data.
 - [Framework: Wagtail on PyPI](https://pypi.org/search/?c=Framework+%3A%3A+Wagtail) - Packages tagged as `Framework: Wagtail`.
+- [GitHub: Wagtail topic ![GitHub Repo Stars](https://img.shields.io/github/stars/topics/wagtail) ![GitHub last commit](https://img.shields.io/github/last-commit/topics/wagtail)](https://github.com/topics/wagtail) - Repositories on GitHub tagged with the `wagtail` topic.
 - [Wagtail grid - Django Packages](https://djangopackages.org/grids/g/wagtail-cms/) - Wagtail projects and packages on Django Packages.
 
-## For editors
+### Documentation for editors
 
-- [Wagtail user guide](https://guide.wagtail.org/) - The official user guide for anyone creating content or managing content production in Wagtail
-- [How Do I Wagtail?](https://www.mozillafoundation.org/en/docs/how-do-i-wagtail/) - Mozilla's editor facing guide for how to use Wagtail's admin interface.
+- [Mozilla Foundation: How Do I Wagtail?](https://www.mozillafoundation.org/en/docs/how-do-i-wagtail/) - Mozilla's editor facing guide for how to use Wagtail's admin interface.
 - [CCA Wagtail Editor Portal](https://portal.cca.edu/help/wagtail-documentation/) - User facing documentation for Wagtail by California College of the Arts
 - [Caltech Wagtail Editor Portal](https://sites.caltech.edu/) - User facing documentation for Wagtail by Caltech
 
-## Community
+### Community
 
 - [Wagtail Space](https://www.wagtail.space/) - Wagtail training sessions, Wagtail (lightning) talks and a Wagtail sprint. From March 13th until 15th 2019, Wagtail Space takes place in Arnhem, The Netherlands.
-- [Wagtail updates on Telegram](https://telegram.me/wagtail) - Unofficial Telegram channel for general Wagtail updates.
-- [Wagtail support on Telegram](https://telegram.me/wagtailcms) - Unofficial Telegram channel for support questions and discussions.
 
 ## Open-source sites
 
-- [Wagtail demo project ![GitHub Repo Stars](https://img.shields.io/github/stars/wagtail/bakerydemo) ![GitHub last commit](https://img.shields.io/github/last-commit/wagtail/bakerydemo)](https://github.com/wagtail/bakerydemo) – Next generation Wagtail demo, born in Reykjavík.
 - [Torchbox.com on Wagtail ![GitHub Repo Stars](https://img.shields.io/github/stars/torchbox/torchbox.com) ![GitHub last commit](https://img.shields.io/github/last-commit/torchbox/torchbox.com)](https://github.com/torchbox/torchbox.com) – Torchbox digital agency website.
 - [Federal Election Commission ![GitHub Repo Stars](https://img.shields.io/github/stars/fecgov/fec-cms) ![GitHub last commit](https://img.shields.io/github/last-commit/fecgov/fec-cms)](https://github.com/fecgov/fec-cms) – The content management system (CMS) for the new Federal Election Commission website.
 - [Bow Valley SPCA Website ![GitHub Repo Stars](https://img.shields.io/github/stars/nfletton/bvspca) ![GitHub last commit](https://img.shields.io/github/last-commit/nfletton/bvspca)](https://github.com/nfletton/bvspca) – Wagtail/Django based website of the Bow Valley SPCA.
@@ -385,7 +385,7 @@ _You might also like [Awesome Django ![GitHub Repo Stars](https://img.shields.io
 
 ## Contribute
 
-Contributions are always welcome! Please read the [contribution guidelines](docs/CONTRIBUTING.md) first.
+Contributions are always welcome! Please read the [contribution guidelines ![GitHub Repo Stars](https://img.shields.io/github/stars/wagtail/awesome-wagtail) ![GitHub last commit](https://img.shields.io/github/last-commit/wagtail/awesome-wagtail)](https://github.com/wagtail/awesome-wagtail/blob/main/docs/CONTRIBUTING.md) first.
 
 ## License
 
