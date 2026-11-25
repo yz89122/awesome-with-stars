@@ -122,7 +122,6 @@ Collection of awesome Python types, stubs, plugins, and tools to work with them.
 - [pytest-annotate ![GitHub Repo Stars](https://img.shields.io/github/stars/kensho-technologies/pytest-annotate) ![GitHub last commit](https://img.shields.io/github/last-commit/kensho-technologies/pytest-annotate)](https://github.com/kensho-technologies/pytest-annotate) - Pyannotate plugin for pytest.
 - [pytest-monkeytype ![GitHub Repo Stars](https://img.shields.io/github/stars/mariusvniekerk/pytest-monkeytype) ![GitHub last commit](https://img.shields.io/github/last-commit/mariusvniekerk/pytest-monkeytype)](https://github.com/mariusvniekerk/pytest-monkeytype) - MonkeyType plugin for pytest.
 - [RightTyper ![GitHub Repo Stars](https://img.shields.io/github/stars/RightTyper/RightTyper) ![GitHub last commit](https://img.shields.io/github/last-commit/RightTyper/RightTyper)](https://github.com/RightTyper/RightTyper) - A tool that generates types for your function arguments and return values. RightTyper lets your code run at nearly full speed with almost no memory overhead.
-- [typeshed_client ![GitHub Repo Stars](https://img.shields.io/github/stars/JelleZijlstra/typeshed_client) ![GitHub last commit](https://img.shields.io/github/last-commit/JelleZijlstra/typeshed_client)](https://github.com/JelleZijlstra/typeshed_client) - Retrieve information from typeshed and other typing stubs.
 
 ### Mypy plugins
 
@@ -140,6 +139,9 @@ Collection of awesome Python types, stubs, plugins, and tools to work with them.
 - [pylance ![GitHub Repo Stars](https://img.shields.io/github/stars/microsoft/pylance-release) ![GitHub last commit](https://img.shields.io/github/last-commit/microsoft/pylance-release)](https://github.com/microsoft/pylance-release) - PyRight integration for VSCode.
 - [vim-mypy ![GitHub Repo Stars](https://img.shields.io/github/stars/Integralist/vim-mypy) ![GitHub last commit](https://img.shields.io/github/last-commit/Integralist/vim-mypy)](https://github.com/Integralist/vim-mypy) - Mypy integration for Vim.
 - [nbQA ![GitHub Repo Stars](https://img.shields.io/github/stars/nbQA-dev/nbQA) ![GitHub last commit](https://img.shields.io/github/last-commit/nbQA-dev/nbQA)](https://github.com/nbQA-dev/nbQA) - Run type checkers (e.g. Mypy) on Jupyter Notebooks.
+- [typeshed-stats ![GitHub Repo Stars](https://img.shields.io/github/stars/AlexWaygood/typeshed-stats) ![GitHub last commit](https://img.shields.io/github/last-commit/AlexWaygood/typeshed-stats)](https://github.com/AlexWaygood/typeshed-stats) - Library and command-line tool to gather stats on [typeshed ![GitHub Repo Stars](https://img.shields.io/github/stars/python/typeshed) ![GitHub last commit](https://img.shields.io/github/last-commit/python/typeshed)](https://github.com/python/typeshed) packages.
+- [typeshed_client ![GitHub Repo Stars](https://img.shields.io/github/stars/JelleZijlstra/typeshed_client) ![GitHub last commit](https://img.shields.io/github/last-commit/JelleZijlstra/typeshed_client)](https://github.com/JelleZijlstra/typeshed_client) - Retrieve information from [typeshed ![GitHub Repo Stars](https://img.shields.io/github/stars/python/typeshed) ![GitHub last commit](https://img.shields.io/github/last-commit/python/typeshed)](https://github.com/python/typeshed) and other typing stubs.
+
 
 ## Articles
 
