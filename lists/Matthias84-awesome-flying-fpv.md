@@ -404,7 +404,7 @@ We share the airspace with other pilots. RC copters and planes are hard to spot,
 * [WiFi RID capture ![GitHub Repo Stars](https://img.shields.io/github/stars/sxjack/unix_rid_capture) ![GitHub last commit](https://img.shields.io/github/last-commit/sxjack/unix_rid_capture)](https://github.com/sxjack/unix_rid_capture) - Capture remote identification signals  with sniffer.
 * [Drone Detection and Tracking Using RF Identification Signals ](https://www.mdpi.com/1424-8220/23/17/7650) - Track DJI drones using wifi and KISMET sniffer.
 
-### Hacking & Hijacking ���
+### Hacking & Hijacking 🔓
 
 Radio links per se are unsafe and can easily be jammed.
 
