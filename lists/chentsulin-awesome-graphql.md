@@ -683,7 +683,6 @@
 - [StackHawk - GraphQL Vulnerability Scanner](https://www.stackhawk.com/blog/automated-graphql-security-testing) - Automated GraphQL security scanning and vulnerability detection.
 - [InQL Scanner ![GitHub Repo Stars](https://img.shields.io/github/stars/doyensec/inql) ![GitHub last commit](https://img.shields.io/github/last-commit/doyensec/inql)](https://github.com/doyensec/inql) - Burp extension for GraphQL security testing.
 - [GraphQL Raider](https://portswigger.net/bappstore/4841f0d78a554ca381c65b26d48207e6) - Burp Suite extension for GraphQL security testing.
-- [WAF for GraphQL](https://lab.wallarm.com/api-security-solution/) - Web application firewall for GraphQL APIs.
 - [GraphQL Intruder ![GitHub Repo Stars](https://img.shields.io/github/stars/davinerd/gql_intruder) ![GitHub last commit](https://img.shields.io/github/last-commit/davinerd/gql_intruder)](https://github.com/davinerd/gql_intruder) - Plugin-based Python script for performing GraphQL vulnerability assessments.
 - [GraphQL Cop ![GitHub Repo Stars](https://img.shields.io/github/stars/dolevf/graphql-cop) ![GitHub last commit](https://img.shields.io/github/last-commit/dolevf/graphql-cop)](https://github.com/dolevf/graphql-cop) - Security audit utility for GraphQL.
 - [GraphQLer ![GitHub Repo Stars](https://img.shields.io/github/stars/omar2535/GraphQLer) ![GitHub last commit](https://img.shields.io/github/last-commit/omar2535/GraphQLer)](https://github.com/omar2535/GraphQLer) - Dependency-aware dynamic GraphQL testing tool.
