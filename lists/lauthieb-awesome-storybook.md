@@ -34,6 +34,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ## Community resources
 
+- [Buddy Visual Tests](https://buddy.works/docs/tests/visual-tests/storybook) - Visual regression testing for Storybook in the Buddy.Works cloud. Upload the built Storybook to compare every story with approved baselines across browsers and devices, and get a hosted Storybook for each tested version.
 - [DEV.to #storybook](https://dev.to/t/storybook) - Posts about Storybook on DEV.to blogging platform.
 - [Documentation Primitives ![GitHub Repo Stars](https://img.shields.io/github/stars/DAN-AKL/storybook-documentation-primitives) ![GitHub last commit](https://img.shields.io/github/last-commit/DAN-AKL/storybook-documentation-primitives)](https://github.com/DAN-AKL/storybook-documentation-primitives) - Custom DocBlocks for Storybook Docs.
 - [Sherlo](https://sherlo.io) - Visual regression testing for React Native, integrated with Storybook; renders on iOS and Android simulators in the cloud.

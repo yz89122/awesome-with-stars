@@ -233,7 +233,7 @@ Here's a quick overview of the categories covered in this collection:
 - [Amazon CloudFront](https://aws.amazon.com/cloudfront/) - A content delivery network by Amazon that integrates nicely with other Amazon services or can be used standalone.
 - [jQuery](https://releases.jquery.com/) - Official CDN for the latest stable releases, powered by MaxCDN.
 - :cn: [UpYun CDN](http://jscdn.upai.com/) - CDN provided by upyun.
-- :cn: [Bootstrap 中文网开放 CDN 服务](https://www.bootcdn.cn/) - Bootstrap Chinese net open CDN service (only HTTP).
+- :cn: [Bootstrap 中��网开放 CDN 服务](https://www.bootcdn.cn/) - Bootstrap Chinese net open CDN service (only HTTP).
 - :ru: [Yandex CDN](https://yandex.ru/dev/jslibs/) - Yandex Content Delivery Network hosts popular third-party JavaScript and CSS libraries (best for use in Russia).
 - [CDNperf](https://www.cdnperf.com/) - Finds you fast and reliable JavaScript CDNs that make your sites snappy and happy.
 - [Gulp-google-cdn ![GitHub Repo Stars](https://img.shields.io/github/stars/sindresorhus/gulp-google-cdn) ![GitHub last commit](https://img.shields.io/github/last-commit/sindresorhus/gulp-google-cdn)](https://github.com/sindresorhus/gulp-google-cdn) - Replaces script references with Google CDN ones.
@@ -377,7 +377,7 @@ Here's a quick overview of the categories covered in this collection:
 ## Miscellaneous
 
 - [Fontaine ![GitHub Repo Stars](https://img.shields.io/github/stars/unjs/fontaine) ![GitHub last commit](https://img.shields.io/github/last-commit/unjs/fontaine)](https://github.com/unjs/fontaine) - Automatic font fallback based on font metrics to reduce Cumulative Layout Shift (CLS) caused by web font loading.
-- [Socialite.js](http://socialitejs.com/) - Socialite provides a very easy way to implement and activate a plethora of social sharing buttons �� any time you wish. On document load, on article hover, on any event.
+- [Socialite.js](http://socialitejs.com/) - Socialite provides a very easy way to implement and activate a plethora of social sharing buttons — any time you wish. On document load, on article hover, on any event.
 - [uCSS ![GitHub Repo Stars](https://img.shields.io/github/stars/oyvindeh/ucss) ![GitHub last commit](https://img.shields.io/github/last-commit/oyvindeh/ucss)](https://github.com/oyvindeh/ucss) - Crawls large sites to find unused CSS selectors (does not remove unused CSS).
 - [HTTPinvoke ![GitHub Repo Stars](https://img.shields.io/github/stars/jakutis/httpinvoke) ![GitHub last commit](https://img.shields.io/github/last-commit/jakutis/httpinvoke)](https://github.com/jakutis/httpinvoke) - A no-dependencies HTTP client library for browsers and Node.js with a promise-based or Node.js-style callback-based API to progress events, text, and binary file upload and download, partial response body, request and response headers, status code.
 - [Critical ![GitHub Repo Stars](https://img.shields.io/github/stars/addyosmani/critical) ![GitHub last commit](https://img.shields.io/github/last-commit/addyosmani/critical)](https://github.com/addyosmani/critical) - Extract & Inline Critical-path CSS in HTML pages (alpha).
