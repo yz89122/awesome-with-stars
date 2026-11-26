@@ -58,6 +58,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Nuclei Scanner ![GitHub Repo Stars](https://img.shields.io/github/stars/projectdiscovery/nuclei) ![GitHub last commit](https://img.shields.io/github/last-commit/projectdiscovery/nuclei)](https://github.com/projectdiscovery/nuclei) - nuclei is automated scanner for common vulnerability finding on site.
  - [Darkmoon ![GitHub Repo Stars](https://img.shields.io/github/stars/ASCIT31/Dark-Moon) ![GitHub last commit](https://img.shields.io/github/last-commit/ASCIT31/Dark-Moon)](https://github.com/ASCIT31/Dark-Moon) - Open-source (GPLv3) autonomous AI penetration-testing CLI with 50 specialist agents and 140+ offensive tools over MCP for DAST-style web and API security assessment.
 - [appfuzz ![GitHub Repo Stars](https://img.shields.io/github/stars/StephanSchmidt/appfuzz) ![GitHub last commit](https://img.shields.io/github/last-commit/StephanSchmidt/appfuzz)](https://github.com/StephanSchmidt/appfuzz) - Fuzzes WebAssembly apps against a simulated backend and reports crashes, injection, n+1 queries and data leaks, with an exit code for CI.
+- [VibeRaven ![GitHub Repo Stars](https://img.shields.io/github/stars/ohad6k/VibeRaven) ![GitHub last commit](https://img.shields.io/github/last-commit/ohad6k/VibeRaven)](https://github.com/ohad6k/VibeRaven) - Open-source CLI that checks Supabase migrations for missing RLS and grants, and replays two concurrent requests on a fresh PostgreSQL to reproduce a bug and confirm its fix.
 
 ### AI & LLM Testing
 - [promptfoo ![GitHub Repo Stars](https://img.shields.io/github/stars/promptfoo/promptfoo) ![GitHub last commit](https://img.shields.io/github/last-commit/promptfoo/promptfoo)](https://github.com/promptfoo/promptfoo) - Open-source framework for testing and red teaming LLM applications. Compare prompts, test RAG architectures, run multi-turn adversarial attacks, and catch security vulnerabilities with CI/CD integration.
@@ -79,6 +80,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Bite ![GitHub Repo Stars](https://img.shields.io/github/stars/connabyss/bite) ![GitHub last commit](https://img.shields.io/github/last-commit/connabyss/bite)](https://github.com/connabyss/bite) - Open-source CLI that checks whether recent "fixed" commits are really guarded by tests: it takes each fix back out and runs the project's own tests to see if any fail. Free mode needs no API key.
 - [judge-check ![GitHub Repo Stars](https://img.shields.io/github/stars/dylanpulver/judge-check) ![GitHub last commit](https://img.shields.io/github/last-commit/dylanpulver/judge-check)](https://github.com/dylanpulver/judge-check) - Checks whether an LLM judge can tell good output from bad by mixing planted decoys and known-good answers into its real inputs, then reporting how often the decoys pass. Zero dependencies, with an offline demo.
 - [agentest ![GitHub Repo Stars](https://img.shields.io/github/stars/srpadmanabhuni/agentest) ![GitHub last commit](https://img.shields.io/github/last-commit/srpadmanabhuni/agentest)](https://github.com/srpadmanabhuni/agentest) - Open-source CLI that runs 130 deterministic checks on recorded OpenTelemetry GenAI traces, A2A agent cards and MCP tool lists, offline and without an LLM judge, and exports JUnit or SARIF for CI.
+- [EvalShift ![GitHub Repo Stars](https://img.shields.io/github/stars/evalshift/evalshift-cli) ![GitHub last commit](https://img.shields.io/github/last-commit/evalshift/evalshift-cli)](https://github.com/evalshift/evalshift-cli) - Open-source CLI for regression testing LLM apps and agents before a model change: replays the same cases on two models and reports which outputs and tool calls regressed.
 
 ### Service Virtualization
 - [Beeceptor](https://beeceptor.com/) - Easy to use no-code mock servers for service virtualization. Rest, SOAP, GraphQL supported. Create an API mock server from OpenAPI Specification or Postman collection.
@@ -104,6 +106,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Happo](https://happo.io) - Cross-browser screenshot and visual regression testing service, integrates with tools like Storybook, Playwright, and Cypress.
 - [Image Diff](https://nutilz.com/image-diff) - Free, browser-based pixel diff tool for comparing two images and highlighting exactly what changed, with an adjustable sensitivity threshold. No upload, no sign-up.
 - [Lastest](https://lastest.cloud) - Visual regression testing for Playwright with AI flake triage and baseline review.
+- [pdf-snapshot-testing ![GitHub Repo Stars](https://img.shields.io/github/stars/adilsoncruz/pdf-snapshot-testing) ![GitHub last commit](https://img.shields.io/github/last-commit/adilsoncruz/pdf-snapshot-testing)](https://github.com/adilsoncruz/pdf-snapshot-testing) - Visual snapshot testing library for PDFs on the JVM (Kotlin & Java / JUnit 5).
 - [TestingBot](https://testingbot.com) - Supports automated, manual, and visual testing.
 - [recheck-web ![GitHub Repo Stars](https://img.shields.io/github/stars/retest/recheck-web) ![GitHub last commit](https://img.shields.io/github/last-commit/retest/recheck-web)](https://github.com/retest/recheck-web) - Change comparison tool with Golden Masters and "unbreakable Selenium" tests.
 - [Sherlo ![GitHub Repo Stars](https://img.shields.io/github/stars/sherlo-io/sherlo) ![GitHub last commit](https://img.shields.io/github/last-commit/sherlo-io/sherlo)](https://github.com/sherlo-io/sherlo) - Visual testing platform for React Native Storybook. Captures screenshots on iOS and Android simulators in the cloud and detects visual changes automatically.
@@ -114,6 +117,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 
 ### UI & End-to-End Testing
 - [Polarity](https://www.polarity.so) - Full visual and desktop environments showcasing complete E2E testing for all UI/UX features. Generated you Playwright, Cypress, and other code for you as the test runs.
+- [Agentic Test Explorer ![GitHub Repo Stars](https://img.shields.io/github/stars/srbarrios/agentic-test-explorer) ![GitHub last commit](https://img.shields.io/github/last-commit/srbarrios/agentic-test-explorer)](https://github.com/srbarrios/agentic-test-explorer) - Open-source (MIT) AI exploratory testing framework: LangGraph persona agents drive a real browser through a deterministic Playwright engine, and every bug found becomes a reproducible Playwright spec. Can generate test missions from a GitHub pull request.
 - [ai-wright ![GitHub Repo Stars](https://img.shields.io/github/stars/TestChimp/ai-wright) ![GitHub last commit](https://img.shields.io/github/last-commit/TestChimp/ai-wright)](https://github.com/TestChimp/ai-wright) - Open-source library that adds AI action, assertion, and data extraction steps to Playwright tests, using annotated screenshots and your own OpenAI, Gemini, or Claude API key.
 - [AnalyticsProof](https://analyticsproof.com) - Regression tests for analytics tracking: replays recorded website journeys and reports which step lost a dataLayer event or GA4 parameter. Has a free plan.
 - [blastproof](https://blastproof.dev) - Open-source AI agent that runs plain-English e2e tests in a real browser. It reads the pull request diff, runs only the tests for the pages that changed and can block the merge on a score. Runs locally or in CI with your own LLM key.
@@ -166,6 +170,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [pytest-glow-report ![GitHub Repo Stars](https://img.shields.io/github/stars/godhiraj-code/pytest-glow-report) ![GitHub last commit](https://img.shields.io/github/last-commit/godhiraj-code/pytest-glow-report)](https://github.com/godhiraj-code/pytest-glow-report) - Open source (MIT) pytest plugin that writes HTML and JSON reports and keeps run history in SQLite.
 
 ### Test Management
+- [Gitoza ![GitHub Repo Stars](https://img.shields.io/github/stars/gitoza-io/gitoza) ![GitHub last commit](https://img.shields.io/github/last-commit/gitoza-io/gitoza)](https://github.com/gitoza-io/gitoza) - Open-source desktop test and task management that stores tickets, wiki, cases, and runs as Markdown in Git.
 - [Kiwi TCMS ![GitHub Repo Stars](https://img.shields.io/github/stars/kiwitcms/Kiwi) ![GitHub last commit](https://img.shields.io/github/last-commit/kiwitcms/Kiwi)](https://github.com/kiwitcms/Kiwi) - Open-source test case management.
 - [qarunbook](https://qarunbook.com) - Free shared test runbook where testers record a pass or fail per platform with screenshots, and an issue marked fixed sends the check back for a retest.
 - [skipper ![GitHub Repo Stars](https://img.shields.io/github/stars/get-skipper/skipper) ![GitHub last commit](https://img.shields.io/github/last-commit/get-skipper/skipper)](https://github.com/get-skipper/skipper) - Real-time test execution control via Google Spreadsheet, enabling instant toggle without code changes.
@@ -205,6 +210,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Bug Magnet](https://chrome.google.com/webstore/detail/bug-magnet/efhedldbjahpgjcneebmbolkalbhckfi) - Field-based value suggestions for form testing.
 - [BugShot](https://chromewebstore.google.com/detail/bugshot/ohakhekagkodklkickemonmifdcbhmig) - Capture a bug as a screenshot, a screen or tab recording, or a 30-second replay, with console, network, and user action logs collected automatically. Reports go straight from the browser to Jira, GitHub, Linear, Notion, GitLab, Asana, ClickUp, or Slack, with no third-party server in between. Open source, MIT.
 - [Check All](https://chrispederick.com/work/web-developer/) - Provides a "Select All" function where missing.
+- [Deep Link Tester](https://bestlatestapps.com/tools/deep-link-tester/) - Builds shell-safe adb and xcrun simctl commands and a QR code for testing Android and iOS deep links, and shows which intent filter in a pasted manifest catches a link.
 - [Full Page Screenshot](https://chrome.google.com/webstore/detail/full-page-screen-capture/fdpohaocaechififmbbbbbknoalclacl) - Capture full-page screenshots.
 - [Form Filler](https://chrome.google.com/webstore/detail/form-filler/bnjjngeaknajbdcgpfkgnonkmififhfo) - Auto-fill large forms with dummy data.
 - [Keploy API Test Recorder](https://chromewebstore.google.com/detail/keploy-api-test-recorder/ohcclfkaidblnjnggclkiecgkpgldihe) - Chrome extension that records API calls from your browser session and turns them into API tests.
@@ -303,6 +309,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Nikita Sobolev](https://sobolevn.me/)
 - [Softwaretester Blog](https://www.softwaretester.blog/)
 - [Automation Panda](https://automationpanda.com/)
+- [AI Testing Guide](https://aitestingguide.com/)
 - [And others ![GitHub Repo Stars](https://img.shields.io/github/stars/ChristoWolf/awesome-testing-blogs) ![GitHub last commit](https://img.shields.io/github/last-commit/ChristoWolf/awesome-testing-blogs)](https://github.com/ChristoWolf/awesome-testing-blogs)
 
 ## Newsletters

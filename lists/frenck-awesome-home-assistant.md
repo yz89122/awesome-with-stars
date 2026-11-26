@@ -226,7 +226,7 @@ _Integrations Home Assistant does not ship with out of the box, written by the c
 
 _Wire Home Assistant up to a large language model and let it read your devices, build dashboards, write automations, or describe what your cameras see._
 
-- [LLM Vision ![GitHub Repo Stars](https://img.shields.io/github/stars/valentinfrlch/ha-llmvision) ![GitHub last commit](https://img.shields.io/github/last-commit/valentinfrlch/ha-llmvision)](https://github.com/valentinfrlch/ha-llmvision) - Add visual intelligence to your automations: caption camera snapshots, summarize what is happening, react to specific events (1,531★).
+- [LLM Vision ![GitHub Repo Stars](https://img.shields.io/github/stars/valentinfrlch/ha-llmvision) ![GitHub last commit](https://img.shields.io/github/last-commit/valentinfrlch/ha-llmvision)](https://github.com/valentinfrlch/ha-llmvision) - Add visual intelligence to your automations: caption camera snapshots, summarize what is happening, react to specific events (1,531���).
 - [AI Automation Suggester ![GitHub Repo Stars](https://img.shields.io/github/stars/ITSpecialist111/ai_automation_suggester) ![GitHub last commit](https://img.shields.io/github/last-commit/ITSpecialist111/ai_automation_suggester)](https://github.com/ITSpecialist111/ai_automation_suggester) - Scan your entities and ask an AI provider (OpenAI, Anthropic, Google, Groq, Ollama) for tailored automation suggestions, surfaced as notifications (811★).
 
 ### 💡 Lighting

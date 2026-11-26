@@ -213,6 +213,7 @@ _Great graphics placeholders and tools to turn that squared game into a picasso 
 - :tada: [Pixelorama](https://orama-interactive.itch.io/pixelorama) - Free & open source pixel art editor with animation support, made with Godot.
 - :moneybag: [Pixen ![GitHub Repo Stars](https://img.shields.io/github/stars/Pixen/Pixen) ![GitHub last commit](https://img.shields.io/github/last-commit/Pixen/Pixen)](https://github.com/Pixen/Pixen) - Pixel Art Editor for OSX
 - :moneybag: [PyxelEdit](https://pyxeledit.com/) - Pixel art editor designed to make it fun and easy to make tilesets, levels and animations.
+- :money_with_wings: [RBXGFX](https://rbxgfx.com/) - AI generator for 1920x1080 Roblox game thumbnails and 512x512 icons that produces multiple distinct compositions per request, plus free browser-based Roblox image resizer and safe-zone preview utilities (5 free signup credits; paid plans available; not affiliated with Roblox Corporation).
 - :free: [REXPaint](https://www.gridsagegames.com/rexpaint/) - a powerful and user-friendly ASCII art editor.
 - :tada: [rx](https://rx.cloudhead.io/) - a modern & minimalist pixel editor
 - :free: [SimplePixelArt](https://simplepixelart.com/) - Free browser pixel art editor with layers, animation frames and palettes; exports PNG, GIF and sprite sheets with Aseprite-style frame tags for game engines.
@@ -457,6 +458,7 @@ _Audio editors, sounds collections and more._
 - :free: [8-Bit Arcade SFX Free Lite](https://yetiancai.itch.io/8-bit-arcade-sfx-free-lite-24-sounds) - 24 free 8-bit sound effects (UI, coins, jumps, lasers, jingles) synthesized by code; free for commercial use, no attribution required.
 - :free: [BudgetPixel Sound Effects](https://budgetpixel.com/sfx) - 2,600+ AI-generated sound effects (UI clicks, impacts, whooshes) and 700+ [music tracks](https://budgetpixel.com/background-music), WAV/MP3, CC BY 4.0.
 - :free: [Crisp UI Free](https://anipixels.itch.io/crisp-ui-free) - 20 game UI sound effects (clicks, toggles, menu open/close, confirm, error, coin, level up and more) in WAV/OGG; royalty-free for commercial use, no credit required. Synthesized by code written with an AI assistant, no samples or AI audio models.
+- :money_with_wings: [CSAF Music Library](https://csaf.itch.io/music-library) - 2,618 royalty free game music tracks in 59 albums, OGG and editable MIDI, with a free demo of one full track from every album. Composed by code written with AI tools, with no generative audio model.
 - :money_with_wings: [CSAF Sound Library](https://csaf.itch.io/sound-library) - 13,315 royalty free game sound effects in 91 packs, WAV and OGG, with a free demo download. Every sound is synthesized in code with no samples or generative audio model; the code was written with AI tools.
 - :free: [DailySounds](https://dailysounds.org/?ref=magictools) - Searchable sound effects for games, with browser previews and downloadable audio; free for commercial projects under the DailySounds license.
 - :free: [Ember Audio Free Sampler](https://lidorxl.itch.io/ember-audio-free-sampler) - 30 game audio files in OGG, with one music track, one seamless ambience loop and one SFX from each of 10 settings (dungeon, cyberpunk, cozy farm, western, cosmic horror, tavern, sci-fi, feudal Japan, post-apocalypse, pirates); royalty-free for commercial use, no attribution required. AI-generated (Suno for music, Stable Audio Open for loops and SFX) and hand-curated.
@@ -468,6 +470,7 @@ _Audio editors, sounds collections and more._
 - :free: [Overture Free Game Music Sampler](https://csaf.itch.io/free-game-music-sampler) - 68 game music tracks from 34 albums (fantasy, retro, horror, science fiction, cozy) as OGG, 67 of them with loop points in the file, plus the MIDI source of every track; royalty free for commercial use, no credit required. Composed by code written with an AI assistant, no AI audio models.
 - :free: [PacDV](https://www.pacdv.com/sounds/index.html) - royalty free sounds collection.
 - :free: [PulseLite UI SFX](https://bigshadex.itch.io/pulselite-ui-sfx-free) - 20 free UI sounds (clicks, hovers, confirms, errors, rewards) in WAV/OGG, procedurally synthesized with no samples or AI audio models, sounds CC BY 4.0, plus an optional Godot 4 drop-in script (MIT).
+- :money_with_wings: [RFTracks](https://rftracks.com/use-cases/gaming) - Royalty free music for games made with AI tools, filterable by mood, genre and tempo, MP3 downloads; free for commercial games with a credit link to RFTracks, paid plans without credit.
 - :free: [SFXMint](https://sfxmint.com/) - CC0 game and UI sound effects in WAV/MP3; AI-generated or procedurally synthesized, with no signup required for library downloads.
 - :free: [SoundBible.com](https://soundbible.com/) - Royalty-free, searchable archive of sound effects under various licenses.
 - :free: [Soundza](https://soundza.com/) - Thousands of free game sound effects, music loops and ambience in WAV/MP3, made by people rather than AI; free for commercial use, no attribution needed. Free API and MCP server.
@@ -598,6 +601,7 @@ _Blogs, portals, magazines and more_
 - :money_with_wings: [Gamifying](https://gamifying.dev/) - Browser workspace for game design: characters, quests, items and lore as linked entries, with Kanban board, timeline and JSON export.
 - :money_with_wings: [HacknPlan](https://hacknplan.com/) - Project management for game developers
 - :money_with_wings: [IMS Creators](https://ims.cr5.space/) - Game Design driven Project Management Tool
+- :free: [Overheard Calendar](https://getoverheard.com/calendar/) - Submission deadlines for indie game festivals, showcases, awards, Steam events and funds, each checked on the organiser's page
 - :money_with_wings: [Questlog](https://www.questlog.build) - Project management for game developers with built-in GDD editor
 - :free: [SteamScout Indie Dev Workbench](https://steamscout.sleepingmass.com/dev) - 30 free, no-login browser tools for Steam indie devs: 14-region pricing matrix (with Poland PLN fix), 30-day discount cooldown planner, W-8BEN tax & publisher deal calculators, local capsule resizer/previewer, BBCode editor, SteamPipe VDF generator, and 60-item pre-launch QA checklist.
 - :money_with_wings: [Taiga](https://taiga.io/) - Project management platform for agile developers & designers

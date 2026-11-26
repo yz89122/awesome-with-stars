@@ -143,7 +143,7 @@ The explorer also includes the eight perturbation datasets used in the Bison uns
 - [THE HUMAN PROTEIN ATLAS](https://www.proteinatlas.org/) — Comprehensive human protein database (cells, tissues, organs).
 - [PROTEIN DATA BANK (PDB)](https://www.rcsb.org/) — 3D structures of proteins, nucleic acids, complexes.
 - [UniProt](https://www.uniprot.org/) — Functional information on proteins.
-- [AlphaFold Protein Structure Database](https://alphafold.ebi.ac.uk/api-docs) �� 3D protein structure predictions.
+- [AlphaFold Protein Structure Database](https://alphafold.ebi.ac.uk/api-docs) — 3D protein structure predictions.
 - [RCSB Protein Data Bank](https://www.rcsb.org/) — Repository for structural data of biological molecules.
 - [Critical Assessment of Structure Prediction (CASP)](https://predictioncenter.org/) — Assessing methods for protein structure prediction.
 - [Uniclust](https://uniclust.mmseqs.com/) — Clustered protein sequence databases.
@@ -393,7 +393,7 @@ The explorer also includes the eight perturbation datasets used in the Bison uns
 - [DeepDSC](https://ieeexplore-ieee-org.ezp2.lib.umn.edu/stamp/stamp.jsp?tp=&arnumber=8723620&tag=1) — Autoencoder + fully connected NN.
 - [DGDRP ![GitHub Repo Stars](https://img.shields.io/github/stars/minwoopak/heteronet) ![GitHub last commit](https://img.shields.io/github/last-commit/minwoopak/heteronet)](https://github.com/minwoopak/heteronet) — Multi-view embedding neural network.
 - [DeepAEG ![GitHub Repo Stars](https://img.shields.io/github/stars/zhejiangzhuque/DeepAEG) ![GitHub last commit](https://img.shields.io/github/last-commit/zhejiangzhuque/DeepAEG)](https://github.com/zhejiangzhuque/DeepAEG) — GNN embedding + attention mechanism.
-- [RECOVER ![GitHub Repo Stars](https://img.shields.io/github/stars/RECOVERcoalition/Recover) ![GitHub last commit](https://img.shields.io/github/last-commit/RECOVERcoalition/Recover)](https://github.com/RECOVERcoalition/Recover) — Machine learning framework for predicting synergistic drug combination responses across cell lines.
+- [RECOVER ![GitHub Repo Stars](https://img.shields.io/github/stars/RECOVERcoalition/Recover) ![GitHub last commit](https://img.shields.io/github/last-commit/RECOVERcoalition/Recover)](https://github.com/RECOVERcoalition/Recover) ��� Machine learning framework for predicting synergistic drug combination responses across cell lines.
 - [TGSA ![GitHub Repo Stars](https://img.shields.io/github/stars/violet-sto/TGSA) ![GitHub last commit](https://img.shields.io/github/last-commit/violet-sto/TGSA)](https://github.com/violet-sto/TGSA) — Tumor gene set and attention-based model leveraging biological pathway knowledge for drug response prediction.
 - [HiDRA ![GitHub Repo Stars](https://img.shields.io/github/stars/bsml320/HiDRA) ![GitHub last commit](https://img.shields.io/github/last-commit/bsml320/HiDRA)](https://github.com/bsml320/HiDRA) — Hierarchical network model incorporating gene and pathway-level information for cancer drug response prediction.
 - [DRUML ![GitHub Repo Stars](https://img.shields.io/github/stars/CutillasLab/DRUMLR) ![GitHub last commit](https://img.shields.io/github/last-commit/CutillasLab/DRUMLR)](https://github.com/CutillasLab/DRUMLR) — Ensemble machine learning framework combining standard ML with deep learning to systematically rank anti-cancer drugs from proteomics and RNA-seq data.

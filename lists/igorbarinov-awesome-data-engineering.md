@@ -211,6 +211,7 @@
 - [Kryo ![GitHub Repo Stars](https://img.shields.io/github/stars/EsotericSoftware/kryo) ![GitHub last commit](https://img.shields.io/github/last-commit/EsotericSoftware/kryo)](https://github.com/EsotericSoftware/kryo) - A fast and efficient object graph serialization framework for Java.
 - [PFC-JSONL ![GitHub Repo Stars](https://img.shields.io/github/stars/ImpossibleForge/pfc-jsonl) ![GitHub last commit](https://img.shields.io/github/last-commit/ImpossibleForge/pfc-jsonl)](https://github.com/ImpossibleForge/pfc-jsonl) - Specialized JSONL log compressor with block-level timestamp indexing and DuckDB integration. Achieves ~9% compression ratio (better than gzip) with time-range random access queries.
 - [ParquetKit](https://parquetkit.com) - Browser-based viewer, SQL workbench and converter for Parquet files powered by DuckDB-WASM. Fully client-side, no upload.
+- [Parqeye ![GitHub Repo Stars](https://img.shields.io/github/stars/kaushiksrini/parqeye) ![GitHub last commit](https://img.shields.io/github/last-commit/kaushiksrini/parqeye)](https://github.com/kaushiksrini/parqeye) - An open source tool that lets you peek inside your Parquet files. Inspect their contents, schema, and metadata — right from your terminal.
 
 ## Stream Processing
 

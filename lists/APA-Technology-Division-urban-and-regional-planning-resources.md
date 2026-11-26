@@ -121,6 +121,7 @@ Open Data Sites and national scale datasets should be near the top of each secti
 - [Census Reporter](https://censusreporter.org/) - An open-source website that makes it easy to explore and report census data. Census Reporter automatically provides descriptive statistics, downloadable tabular data, and interactive visualizations of American Community Survey (ACS) data for the United States. Visualizations can be [embedded as HTML](https://censusreporter.org/examples/embed-charts/) iframes. Additional Information:License: MIT License Geographic Coverage: Contains geographies matching the coverage and scale of the [ACS 2019 1-year and 5-year estimates.](https://web.archive.org/web/20210519000200/https://www.census.gov/programs-surveys/acs/geography-acs/areas-published.html) Provider: [About Page.](https://censusreporter.org/about/) Additional Links: [GitHub Repository. ![GitHub Repo Stars](https://img.shields.io/github/stars/censusreporter/censusreporter) ![GitHub last commit](https://img.shields.io/github/last-commit/censusreporter/censusreporter)](https://github.com/censusreporter/censusreporter)
 - [IPUMS National Historic GIS](https://www.nhgis.org/) - The National Historical Geographic Information System (NHGIS) provides easy access to summary tables and time series of population, housing, agriculture, and economic data, along with GIS-compatible boundary files, for years from 1790 through the present and for all levels of U.S. census geography, including states, counties, tracts, and blocks.
 - [Global Human Settlement Layer](https://ghsl.jrc.ec.europa.eu/download.php?ds=pop) - This global layer of human population is based on remotely sensed land cover classifications and national censuses of population provided by the European Union.
+- [LandScan](https://landscan.ornl.gov/about) - ORNL's annual, high-resolution global population dataset (since 2000) mapping where people are likely to be over a 24-hour period.
 
 ### Education
 
@@ -261,6 +262,7 @@ Vendors that can provide purchased or licensed data for a variety of uses.
 
 - [Cotality](https://www.cotality.com/) - Provides high quality land parcels data, providing instant access to detailed property characteristics, sales records, valuation and digital copies of current county assessor documents.
 - [Regrid](https://regrid.com/) - A leading provider of land parcels and location context data for your maps, apps and spatial analysis.
+- [BatchData](https://batchdata.io) - U.S. property and parcel data (ownership, assessor, sales, mortgage, permits) by API, bulk files or MCP. License: Proprietary. Geographic Coverage: United States.
 - [CoStar](https://www.costar.com/) - A commercial real estate information and analytics provider serving the UK, US, and Canada.
 - [EarthDefine](http://www.earthdefine.com/) - Using AI to transform earth sensor data into consumable geospatial information products including high resolution land cover classifications and building footprints.
 
@@ -613,12 +615,8 @@ These are other aggregators that bring together different planning related tools
 
 ## Contributing
 
-### Form Based Contributions
-If you don't have a GitHub, but have a resources that falls into the categories below you would like to contribute try putting the information in this Google Sheet here. We will look at incorporating it into the repository pending review.
-https://docs.google.com/forms/d/e/1FAIpQLSfGp_XC5V-uIzafsVBhR4xKX9YhgNOz22w84Sg0zo0ONDdV4w/viewform?usp=sf_link
-
 ### GitHub Contributions
-We are actively looking for contributions from those interested in urban planning and technology. To find out more, visit the [Contribution ![GitHub Repo Stars](https://img.shields.io/github/stars/APA-Technology-Division/urban-and-regional-planning-resources) ![GitHub last commit](https://img.shields.io/github/last-commit/APA-Technology-Division/urban-and-regional-planning-resources)](https://github.com/APA-Technology-Division/urban-and-regional-planning-resources/blob/main/CONTRIBUTING.md) page to see our recommended format. For large contributions, file an issue first. The advantage of contributing to the repo in this manner is that your addition to this shared resource will be recorded.
+We are actively looking for contributions from those interested in urban planning and technology. To find out more, visit the [Contribution ![GitHub Repo Stars](https://img.shields.io/github/stars/APA-Technology-Division/urban-and-regional-planning-resources) ![GitHub last commit](https://img.shields.io/github/last-commit/APA-Technology-Division/urban-and-regional-planning-resources)](https://github.com/APA-Technology-Division/urban-and-regional-planning-resources/blob/main/CONTRIBUTING.md) page to see our recommended format. For large contributions, file an issue first. The advantage of contributing to the repo in this manner is that your addition to this shared resource will be recorded. Given the rise in interest in contributing to this page, we are in the process of updating the criteria for contributions to be more clear and specific. 
 
 ## License and Citation
 Similar to other [resources aggregators ![GitHub Repo Stars](https://img.shields.io/github/stars/NABSA/micromobility-tools-and-resources) ![GitHub last commit](https://img.shields.io/github/last-commit/NABSA/micromobility-tools-and-resources)](https://github.com/NABSA/micromobility-tools-and-resources/blob/master/README.md), this repository is released into CC 1.0. We do not require citation, but in order to generate more contributions for and understanding of this resource we do appreciate sharing this repository or citing it where appropriate.
