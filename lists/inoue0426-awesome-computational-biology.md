@@ -143,7 +143,7 @@ The explorer also includes the eight perturbation datasets used in the Bison uns
 - [THE HUMAN PROTEIN ATLAS](https://www.proteinatlas.org/) — Comprehensive human protein database (cells, tissues, organs).
 - [PROTEIN DATA BANK (PDB)](https://www.rcsb.org/) — 3D structures of proteins, nucleic acids, complexes.
 - [UniProt](https://www.uniprot.org/) — Functional information on proteins.
-- [AlphaFold Protein Structure Database](https://alphafold.ebi.ac.uk/api-docs) �� 3D protein structure predictions.
+- [AlphaFold Protein Structure Database](https://alphafold.ebi.ac.uk/api-docs) — 3D protein structure predictions.
 - [RCSB Protein Data Bank](https://www.rcsb.org/) — Repository for structural data of biological molecules.
 - [Critical Assessment of Structure Prediction (CASP)](https://predictioncenter.org/) — Assessing methods for protein structure prediction.
 - [Uniclust](https://uniclust.mmseqs.com/) — Clustered protein sequence databases.
@@ -302,7 +302,7 @@ The explorer also includes the eight perturbation datasets used in the Bison uns
 - [FLIP (Fitness Landscape Inference for Proteins) ![GitHub Repo Stars](https://img.shields.io/github/stars/J-SNACKKB/FLIP) ![GitHub last commit](https://img.shields.io/github/last-commit/J-SNACKKB/FLIP)](https://github.com/J-SNACKKB/FLIP) — Benchmark collection of protein fitness landscape datasets for evaluating protein ML models.
 - [GuacaMol ![GitHub Repo Stars](https://img.shields.io/github/stars/BenevolentAI/guacamol) ![GitHub last commit](https://img.shields.io/github/last-commit/BenevolentAI/guacamol)](https://github.com/BenevolentAI/guacamol) — Benchmark suite for generative molecular design models.
 - [MoleculeNet](http://moleculenet.ai/) — Benchmark datasets for molecular machine learning.
-- [MOSES ![GitHub Repo Stars](https://img.shields.io/github/stars/molecularsets/moses) ![GitHub last commit](https://img.shields.io/github/last-commit/molecularsets/moses)](https://github.com/molecularsets/moses) ��� Benchmarking platform for molecular generation models.
+- [MOSES ![GitHub Repo Stars](https://img.shields.io/github/stars/molecularsets/moses) ![GitHub last commit](https://img.shields.io/github/last-commit/molecularsets/moses)](https://github.com/molecularsets/moses) — Benchmarking platform for molecular generation models.
 - [PK-DB](https://pk-db.com/) — Open database of experimental pharmacokinetics (PK) and ADME data from clinical and preclinical studies.
 - [ProteinGym ![GitHub Repo Stars](https://img.shields.io/github/stars/OATML-Markslab/ProteinGym) ![GitHub last commit](https://img.shields.io/github/last-commit/OATML-Markslab/ProteinGym)](https://github.com/OATML-Markslab/ProteinGym) — Large-scale benchmark of deep mutational scanning assays for evaluating protein fitness landscape models.
 - [QM9](https://figshare.com/collections/Quantum_chemistry_structures_and_properties_of_134_kilo_molecules/978904) — Quantum chemistry properties for 134K stable small organic molecules computed at DFT level.

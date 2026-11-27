@@ -420,6 +420,7 @@ anylysis and visualization.*
   * [Infer ![GitHub Repo Stars](https://img.shields.io/github/stars/aria42/infer) ![GitHub last commit](https://img.shields.io/github/last-commit/aria42/infer)](https://github.com/aria42/infer)
   * [clj-synapses ![GitHub Repo Stars](https://img.shields.io/github/stars/mrdimosthenis/clj-synapses) ![GitHub last commit](https://img.shields.io/github/last-commit/mrdimosthenis/clj-synapses)](https://github.com/mrdimosthenis/clj-synapses)
   * [scicloj.ml ![GitHub Repo Stars](https://img.shields.io/github/stars/scicloj/scicloj.ml) ![GitHub last commit](https://img.shields.io/github/last-commit/scicloj/scicloj.ml)](https://github.com/scicloj/scicloj.ml)
+  * [vis ![GitHub Repo Stars](https://img.shields.io/github/stars/Blockether/vis) ![GitHub last commit](https://img.shields.io/github/last-commit/Blockether/vis)](https://github.com/Blockether/vis): open-source coding agent written in Clojure; the model writes Python, folds its own context and runs evals on your own tasks
 
 ## Computer Vision
 
