@@ -1190,6 +1190,7 @@ be
 * [TextCL ![GitHub Repo Stars](https://img.shields.io/github/stars/alinapetukhova/textcl) ![GitHub last commit](https://img.shields.io/github/last-commit/alinapetukhova/textcl)](https://github.com/alinapetukhova/textcl) - Text preprocessing package for use in NLP tasks.
 * [VeritasGraph ![GitHub Repo Stars](https://img.shields.io/github/stars/bibinprathap/VeritasGraph) ![GitHub last commit](https://img.shields.io/github/last-commit/bibinprathap/VeritasGraph)](https://github.com/bibinprathap/VeritasGraph) - Enterprise-Grade Graph RAG for Secure, On-Premise AI with Verifiable Attribution.
 * [yasbd-lib ![GitHub Repo Stars](https://img.shields.io/github/stars/speedyk-005/yasbd-lib) ![GitHub last commit](https://img.shields.io/github/last-commit/speedyk-005/yasbd-lib)](https://github.com/speedyk-005/yasbd-lib) - High-accuracy, rule-based sentence boundary detector (SBD) with drop-in pysbd adapter, streaming APIs, CLI, and a spaCy component across 39+ languages.
+* [SlopTotal ![GitHub Repo Stars](https://img.shields.io/github/stars/pablocaeg/sloptotal) ![GitHub last commit](https://img.shields.io/github/last-commit/pablocaeg/sloptotal)](https://github.com/pablocaeg/sloptotal) - Self-hosted detector for AI-generated text that combines 23 open detectors (transformer classifiers, Binoculars, Fast-DetectGPT, statistical tests) into one calibrated score.
 
 <a name="python-general-purpose-machine-learning"></a>
 #### General-Purpose Machine Learning

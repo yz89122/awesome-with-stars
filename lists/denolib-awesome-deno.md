@@ -78,6 +78,7 @@ This list is a collection of the best Deno modules and resources.
 
 ### Cloud APIs
 - [aws-api](https://aws-api.danopia.deno.net/) - From-scratch Typescript AWS API client built for Deno.
+- [binance ![GitHub Repo Stars](https://img.shields.io/github/stars/sieblyio/binance) ![GitHub last commit](https://img.shields.io/github/last-commit/sieblyio/binance)](https://github.com/sieblyio/binance) - Typed Binance REST API and WebSocket client with request signing, reconnects and resubscription, usable via `npm:binance`.
 - [sigflint ![GitHub Repo Stars](https://img.shields.io/github/stars/bompus/sigflint) ![GitHub last commit](https://img.shields.io/github/last-commit/bompus/sigflint)](https://github.com/bompus/sigflint) - AWS Signature Version 4 and SigV4a request signing with no dependencies, for use with `fetch`.
 
 ### Database
@@ -101,9 +102,7 @@ This list is a collection of the best Deno modules and resources.
 - [sdl2 ![GitHub Repo Stars](https://img.shields.io/github/stars/littledivy/deno_sdl2) ![GitHub last commit](https://img.shields.io/github/last-commit/littledivy/deno_sdl2)](https://github.com/littledivy/deno_sdl2) - SDL2 module for Deno
 
 ### Image
-- [aigifmaker ![GitHub Repo Stars](https://img.shields.io/github/stars/hanshs474/aigifmaker-ts) ![GitHub last commit](https://img.shields.io/github/last-commit/hanshs474/aigifmaker-ts)](https://github.com/hanshs474/aigifmaker-ts) - Turn text prompts into animated GIFs with the AI GIF Maker API.
-- [ImageScript ![GitHub Repo Stars](https://img.shields.io/github/stars/imagescript/ImageScript) ![GitHub last commit](https://img.shields.io/github/last-commit/imagescript/ImageScript)](https://github.com/imagescript/ImageScript) - Image processing in JavaScript, utilizing WebAssembly for performance.
-- [kavel ![GitHub Repo Stars](https://img.shields.io/github/stars/hanshs474/kavel-ts) ![GitHub last commit](https://img.shields.io/github/last-commit/hanshs474/kavel-ts)](https://github.com/hanshs474/kavel-ts) - Generate and edit images with AI without an API key or account.
+- [ImageScript ![GitHub Repo Stars](https://img.shields.io/github/stars/imagescript/ImageScript) ![GitHub last commit](https://img.shields.io/github/last-commit/imagescript/ImageScript)](https://github.com/imagescript/ImageScript) - Image processing in pure TypeScript, from PNG to AVIF and JPEG XL.
 
 ### Logging
 - [LogTape ![GitHub Repo Stars](https://img.shields.io/github/stars/dahlia/logtape) ![GitHub last commit](https://img.shields.io/github/last-commit/dahlia/logtape)](https://github.com/dahlia/logtape) - Simple logging library with zero dependencies for Deno/Node.js/Bun/browsers.
@@ -119,6 +118,7 @@ This list is a collection of the best Deno modules and resources.
 - [zerho ![GitHub Repo Stars](https://img.shields.io/github/stars/glastor-core/zerho) ![GitHub last commit](https://img.shields.io/github/last-commit/glastor-core/zerho)](https://github.com/glastor-core/zerho) - High-performance documentation engine for Deno 2 and Edge runtimes with interactive playground, OpenAPI explorer, and native llms.txt support.
 
 ### Social Platform APIs
+- [Alice&Bot ![GitHub Repo Stars](https://img.shields.io/github/stars/uriva/alice-and-bot) ![GitHub last commit](https://img.shields.io/github/last-commit/uriva/alice-and-bot)](https://github.com/uriva/alice-and-bot) - Open-source, end-to-end encrypted messaging platform and SDK (`@alice-and-bot/core`) for humans and AI agents with keypair identities, group chats, webhooks, embeddable UI, and an MCP server.
 - [Circe ![GitHub Repo Stars](https://img.shields.io/github/stars/sxnnyside-project/circe) ![GitHub last commit](https://img.shields.io/github/last-commit/sxnnyside-project/circe)](https://github.com/sxnnyside-project/circe) - Inversion-of-control framework for discord.js bots with file-system routing, guards and Gateway or HTTP transport.
 - [discordeno ![GitHub Repo Stars](https://img.shields.io/github/stars/discordeno/discordeno) ![GitHub last commit](https://img.shields.io/github/last-commit/discordeno/discordeno)](https://github.com/discordeno/discordeno) - Discord API library for Deno
 - [grammY ![GitHub Repo Stars](https://img.shields.io/github/stars/grammyjs/grammY) ![GitHub last commit](https://img.shields.io/github/last-commit/grammyjs/grammY)](https://github.com/grammyjs/grammY) - Telegram Bot API framework for Deno.
@@ -133,6 +133,7 @@ This list is a collection of the best Deno modules and resources.
 - [qunitx ![GitHub Repo Stars](https://img.shields.io/github/stars/izelnakri/qunitx) ![GitHub last commit](https://img.shields.io/github/last-commit/izelnakri/qunitx)](https://github.com/izelnakri/qunitx) - Zero dependency, fully customizable, mature, universal test API that can run interchangably in node.js, Deno & browser, using default runtime test runners.
 - [superdeno ![GitHub Repo Stars](https://img.shields.io/github/stars/cmorten/superdeno) ![GitHub last commit](https://img.shields.io/github/last-commit/cmorten/superdeno)](https://github.com/cmorten/superdeno) - Super-agent driven library for testing Deno HTTP servers.
 - [tepi ![GitHub Repo Stars](https://img.shields.io/github/stars/jupegarnica/tepi) ![GitHub last commit](https://img.shields.io/github/last-commit/jupegarnica/tepi)](https://github.com/jupegarnica/tepi) - A .http Test Runner
+- [time-provider ![GitHub Repo Stars](https://img.shields.io/github/stars/jaenyf/time-provider) ![GitHub last commit](https://img.shields.io/github/last-commit/jaenyf/time-provider)](https://github.com/jaenyf/time-provider) - Injectable clock and timers with deterministic test runtimes, published on JSR.
 - [unexpected ![GitHub Repo Stars](https://img.shields.io/github/stars/unexpectedjs/unexpected) ![GitHub last commit](https://img.shields.io/github/last-commit/unexpectedjs/unexpected)](https://github.com/unexpectedjs/unexpected) - Extensible BDD assertion toolkit.
 
 ### Utils
@@ -219,6 +220,7 @@ This list is a collection of the best Deno modules and resources.
 ## Integrations
 
 - [Netlify Edge Functions](https://docs.netlify.com/build/edge-functions/overview/) - Edge Functions connect the Netlify platform and workflow.
+- [Prisma Postgres](https://www.prisma.io/docs/guides/integrations/deno) - Managed Postgres database you can provision from a Deno Deploy project, with a free plan.
 - [Slack Custom Functions](https://docs.slack.dev/tools/deno-slack-sdk/guides/creating-custom-functions/) - Build custom Run On Slack functions using Deno.
 - [Smallweb](https://www.smallweb.run/) - A personal cloud contained in a single directory. You can customize the server behavior using Deno.
 - [Supabase Edge Functions](https://supabase.com/docs/guides/functions) - Edge Functions are server-side TypeScript functions, distributed globally at the edge.
