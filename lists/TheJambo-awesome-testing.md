@@ -272,6 +272,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 ### Screen Recording & Session Replays
 - [Captura ![GitHub Repo Stars](https://img.shields.io/github/stars/MathewSachin/Captura) ![GitHub last commit](https://img.shields.io/github/last-commit/MathewSachin/Captura)](https://github.com/MathewSachin/Captura) - Open-source video recording tool.
 - [Everframe](https://everframe.dev) - In-app bug reporter for mobile, web and TV apps that attaches an annotated screenshot, console, network, device info and an optional replay of the moments before the bug.
+- [Ghostframe Replay ![GitHub Repo Stars](https://img.shields.io/github/stars/zakariagharzouli/project-ghostframe) ![GitHub last commit](https://img.shields.io/github/last-commit/zakariagharzouli/project-ghostframe)](https://github.com/zakariagharzouli/project-ghostframe) - A screenshot that replays its own steps: clicks, timings and notes are encoded in a strip of pixels at the bottom of a JPEG, then replayed in the browser, with no account. MIT.
 - [PR Preview](https://www.pr-preview.com/) - MCP for Claude Code that drives your web app in a headed browser and records before/after demo videos of a pull request as MP4 or GIF.
 - [rrweb ![GitHub Repo Stars](https://img.shields.io/github/stars/rrweb-io/rrweb) ![GitHub last commit](https://img.shields.io/github/last-commit/rrweb-io/rrweb)](https://github.com/rrweb-io/rrweb) - Records the DOM and user interactions as a typed JSON event stream and replays them pixel-perfect.
 
