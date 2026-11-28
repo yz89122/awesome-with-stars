@@ -865,7 +865,7 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 - [Principles of Web API Design](https://www.informit.com/store/principles-of-web-api-design-delivering-value-with-9780137355631) - James Higginbotham's process-driven approach to designing web APIs that deliver value, from requirements to documentation.
 
 <!--lint disable-->
-**[⬆ back to top](#contents)**
+**[�� back to top](#contents)**
 <!--lint enable-->
 ### Certifications
 <details>

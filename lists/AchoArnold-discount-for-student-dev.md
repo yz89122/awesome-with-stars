@@ -122,6 +122,8 @@ Table of Contents
 
 * [InterServer](https://www.interserver.net/webhosting/student-webhosting.html/) [FREE] - Standard Web Hosting Package for Free for the first year for students.
 
+* [Simafri VPS for Students](https://www.simafri.com/en/free-vps-for-students/) [FREE] - Free VPS (1 vCPU, 2 GB RAM, 20 GB NVMe, root SSH) for 10 months for students whose school partners with Fondation Simafri; the school confirms enrollment.
+
 
 ## Design and Photo Editing
 
@@ -392,6 +394,8 @@ Table of Contents
 ## Lists and trackers
 
   * [StudentStack](https://studentstack-gamma.vercel.app) [FREE] - A dated tracker of student discounts on AI and dev tools, free tiers, AI credits, hackathons and free AI tools. Each entry is checked against the company's own page. Closed offers stay on the list, crossed out. Includes a UK-eligibility page.
+  
+  * [Student Offers ![GitHub Repo Stars](https://img.shields.io/github/stars/ATSDopi/TheStudentRepo) ![GitHub last commit](https://img.shields.io/github/last-commit/ATSDopi/TheStudentRepo)](https://github.com/ATSDopi/TheStudentRepo) [FREE] - An international list of student discounts, credits, freebies and free tools, sorted by category and country (65+ countries). Each offer states its verification method (SheerID, UNiDAYS, Student Beans, GitHub Education, ISIC) and each category splits student-gated offers from a free-for-everyone tier. A weekly link-check keeps it maintained.
 
 # License
 

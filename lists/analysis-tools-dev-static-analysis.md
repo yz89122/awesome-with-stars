@@ -3456,7 +3456,7 @@ TruffleHog is an open source secret-scanning engine that resolves exposed secret
 <h2>XML</h2>
 
 
-- [vastlint](https://vastlint.org) :copyright: ��� Validator and linter for VAST XML ad tags. Checks wrappers and inline tags against the IAB VAST 2.0-4.3 specification and can auto-fix deterministic issues.
+- [vastlint](https://vastlint.org) :copyright: — Validator and linter for VAST XML ad tags. Checks wrappers and inline tags against the IAB VAST 2.0-4.3 specification and can auto-fix deterministic issues.
 
 
 

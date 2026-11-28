@@ -9,7 +9,7 @@ An opinionated guide to the best Python frameworks, libraries, and tools.
 - [iPulse AI](https://ipulseai.com?utm_source=awesome-python&utm_medium=sponsorship&utm_campaign=sponsor&utm_content=readme) - Open Agentic Investment Research Platform. Inspect deep multi-agent market forecasts and stock picks.
 - [PyUiBuilder](https://pyuibuilder.com/?utm_source=github&utm_medium=sponsorship&utm_campaign=awesome_python) - Build your Python GUIs like Canva using drag and drop. Export clean, editable Python code.
 
-> Sponsor slots open, from $99/month. The **#10 most-starred repo on GitHub**. Put your product in front of Python developers. [Become a sponsor](https://awesome-python.com/sponsorship/).
+> Sponsor slots open, from $99/month. The **#10 most-starred repo on GitHub**. Put your product in front of Python developers. [Become a sponsor](https://awesome-python.com/sponsorship/?utm_source=github.com&utm_medium=referral&utm_campaign=sponsorship&utm_content=readme).
 
 ## Categories
 
@@ -220,7 +220,7 @@ _Libraries for machine learning. Also see [awesome-machine-learning ![GitHub Rep
   - [catboost ![GitHub Repo Stars](https://img.shields.io/github/stars/catboost/catboost) ![GitHub last commit](https://img.shields.io/github/last-commit/catboost/catboost)](https://github.com/catboost/catboost) - A fast, scalable, high-performance gradient boosting on decision trees library.
 - Time Series Forecasting
   - [prophet ![GitHub Repo Stars](https://img.shields.io/github/stars/meta/prophet) ![GitHub last commit](https://img.shields.io/github/last-commit/meta/prophet)](https://github.com/meta/prophet) - A tool for producing forecasts for time series with multiple seasonality and trend changes.
-  - [statsforecast ![GitHub Repo Stars](https://img.shields.io/github/stars/Nixtla/statsforecast) ![GitHub last commit](https://img.shields.io/github/last-commit/Nixtla/statsforecast)](https://github.com/Nixtla/statsforecast) - Fast statistical forecasting models such as ARIMA, ETS, and Theta, compiled with numba.
+  - [statsforecast ![GitHub Repo Stars](https://img.shields.io/github/stars/Nixtla/statsforecast) ![GitHub last commit](https://img.shields.io/github/last-commit/Nixtla/statsforecast)](https://github.com/Nixtla/statsforecast) - Fast statistical forecasting models such as ARIMA, ETS, and Theta.
   - [sktime ![GitHub Repo Stars](https://img.shields.io/github/stars/sktime/sktime) ![GitHub last commit](https://img.shields.io/github/last-commit/sktime/sktime)](https://github.com/sktime/sktime) - A unified scikit-learn-style framework for forecasting and other time-series learning tasks.
   - [timesfm ![GitHub Repo Stars](https://img.shields.io/github/stars/google-research/timesfm) ![GitHub last commit](https://img.shields.io/github/last-commit/google-research/timesfm)](https://github.com/google-research/timesfm) - A pretrained foundation model from Google Research for time-series forecasting, with non-commercial default weights.
 - Hyperparameter Optimization
@@ -467,7 +467,7 @@ _Libraries for connecting and operating databases._
 - Other Relational Databases
   - [pyodbc ![GitHub Repo Stars](https://img.shields.io/github/stars/mkleehammer/pyodbc) ![GitHub last commit](https://img.shields.io/github/last-commit/mkleehammer/pyodbc)](https://github.com/mkleehammer/pyodbc) - An ODBC bridge for connecting to SQL Server and any other ODBC-accessible database.
   - [oracledb ![GitHub Repo Stars](https://img.shields.io/github/stars/oracle/python-oracledb) ![GitHub last commit](https://img.shields.io/github/last-commit/oracle/python-oracledb)](https://github.com/oracle/python-oracledb) - The official Python driver for Oracle Database, successor to cx_Oracle.
-  - [mssql-python ![GitHub Repo Stars](https://img.shields.io/github/stars/microsoft/mssql-python) ![GitHub last commit](https://img.shields.io/github/last-commit/microsoft/mssql-python)](https://github.com/microsoft/mssql-python) - Official Microsoft driver for SQL Server and Azure SQL, built on ODBC for high performance.
+  - [mssql-python ![GitHub Repo Stars](https://img.shields.io/github/stars/microsoft/mssql-python) ![GitHub last commit](https://img.shields.io/github/last-commit/microsoft/mssql-python)](https://github.com/microsoft/mssql-python) - Official Microsoft driver for SQL Server and Azure SQL.
 - NoSQL Databases
   - [redis ![GitHub Repo Stars](https://img.shields.io/github/stars/redis/redis-py) ![GitHub last commit](https://img.shields.io/github/last-commit/redis/redis-py)](https://github.com/redis/redis-py) - The Python client for Redis.
   - [pymongo ![GitHub Repo Stars](https://img.shields.io/github/stars/mongodb/mongo-python-driver) ![GitHub last commit](https://img.shields.io/github/last-commit/mongodb/mongo-python-driver)](https://github.com/mongodb/mongo-python-driver) - The official Python client for MongoDB.
@@ -481,7 +481,7 @@ _In-process databases usable directly from Python._
   - [duckdb ![GitHub Repo Stars](https://img.shields.io/github/stars/duckdb/duckdb) ![GitHub last commit](https://img.shields.io/github/last-commit/duckdb/duckdb)](https://github.com/duckdb/duckdb) - An in-process SQL OLAP database management system, optimized for analytics and fast queries, similar to SQLite but for analytical workloads.
   - [chdb ![GitHub Repo Stars](https://img.shields.io/github/stars/chdb-io/chdb) ![GitHub last commit](https://img.shields.io/github/last-commit/chdb-io/chdb)](https://github.com/chdb-io/chdb) - In-process OLAP SQL engine with the full ClickHouse dialect, zero-copy pandas/Arrow interop, and federation to remote ClickHouse clusters via `remoteSecure()`.
 - Vector
-  - [lancedb ![GitHub Repo Stars](https://img.shields.io/github/stars/lancedb/lancedb) ![GitHub last commit](https://img.shields.io/github/last-commit/lancedb/lancedb)](https://github.com/lancedb/lancedb) - A developer-friendly embedded retrieval database for multimodal AI.
+  - [lancedb ![GitHub Repo Stars](https://img.shields.io/github/stars/lancedb/lancedb) ![GitHub last commit](https://img.shields.io/github/last-commit/lancedb/lancedb)](https://github.com/lancedb/lancedb) - A developer-friendly embedded retrieval library for multimodal AI.
   - [chromadb ![GitHub Repo Stars](https://img.shields.io/github/stars/chroma-core/chroma) ![GitHub last commit](https://img.shields.io/github/last-commit/chroma-core/chroma)](https://github.com/chroma-core/chroma) - An open-source embedding database for building AI applications with semantic search.
   - [zvec ![GitHub Repo Stars](https://img.shields.io/github/stars/alibaba/zvec) ![GitHub last commit](https://img.shields.io/github/last-commit/alibaba/zvec)](https://github.com/alibaba/zvec) - A lightweight, in-process vector database that embeds directly into applications.
 - Key-Value & Document
@@ -555,7 +555,7 @@ _Libraries for validating data._
 
 - [pydantic ![GitHub Repo Stars](https://img.shields.io/github/stars/pydantic/pydantic) ![GitHub last commit](https://img.shields.io/github/last-commit/pydantic/pydantic)](https://github.com/pydantic/pydantic) - Data validation using Python type hints.
 - [jsonschema ![GitHub Repo Stars](https://img.shields.io/github/stars/python-jsonschema/jsonschema) ![GitHub last commit](https://img.shields.io/github/last-commit/python-jsonschema/jsonschema)](https://github.com/python-jsonschema/jsonschema) - An implementation of [JSON Schema](https://json-schema.org/) for Python.
-- [great-expectations ![GitHub Repo Stars](https://img.shields.io/github/stars/fivetran/great_expectations) ![GitHub last commit](https://img.shields.io/github/last-commit/fivetran/great_expectations)](https://github.com/fivetran/great_expectations) - A data quality framework for validating, documenting, and profiling data with declarative expectations.
+- [great-expectations ![GitHub Repo Stars](https://img.shields.io/github/stars/fivetran/great_expectations) ![GitHub last commit](https://img.shields.io/github/last-commit/fivetran/great_expectations)](https://github.com/fivetran/great_expectations) - A data quality framework for validating and documenting data with declarative expectations.
 - [pandera ![GitHub Repo Stars](https://img.shields.io/github/stars/unionai-oss/pandera) ![GitHub last commit](https://img.shields.io/github/last-commit/unionai-oss/pandera)](https://github.com/unionai-oss/pandera) - A data validation library for dataframes, with support for pandas, polars, PySpark, and more.
 
 ### Data Visualization
@@ -623,7 +623,7 @@ _Libraries for scientific computing. Also see [Python-for-Scientists ![GitHub Re
 _Libraries for quantum computing._
 
 - [qiskit ![GitHub Repo Stars](https://img.shields.io/github/stars/Qiskit/qiskit) ![GitHub last commit](https://img.shields.io/github/last-commit/Qiskit/qiskit)](https://github.com/Qiskit/qiskit) - An IBM-backed quantum SDK for building, simulating, and running circuits on real quantum hardware.
-- [qutip ![GitHub Repo Stars](https://img.shields.io/github/stars/qutip/qutip) ![GitHub last commit](https://img.shields.io/github/last-commit/qutip/qutip)](https://github.com/qutip/qutip) - Quantum Toolbox in Python.
+- [qutip ![GitHub Repo Stars](https://img.shields.io/github/stars/qutip/qutip) ![GitHub last commit](https://img.shields.io/github/last-commit/qutip/qutip)](https://github.com/qutip/qutip) - Simulates the dynamics of closed and open quantum systems.
 - [pennylane ![GitHub Repo Stars](https://img.shields.io/github/stars/PennyLaneAI/pennylane) ![GitHub last commit](https://img.shields.io/github/last-commit/PennyLaneAI/pennylane)](https://github.com/PennyLaneAI/pennylane) - A cross-platform library for quantum computing, quantum ML, and quantum chemistry.
 - [cirq ![GitHub Repo Stars](https://img.shields.io/github/stars/quantumlib/Cirq) ![GitHub last commit](https://img.shields.io/github/last-commit/quantumlib/Cirq)](https://github.com/quantumlib/Cirq) - A Google-developed framework focused on hardware-aware quantum circuit design for NISQ devices.
 
@@ -656,7 +656,7 @@ _Interactive Python interpreters (REPL)._
 _Tools for static analysis, linters and code quality checkers. Also see [awesome-static-analysis ![GitHub Repo Stars](https://img.shields.io/github/stars/analysis-tools-dev/static-analysis) ![GitHub last commit](https://img.shields.io/github/last-commit/analysis-tools-dev/static-analysis)](https://github.com/analysis-tools-dev/static-analysis)._
 
 - General
-  - [import-linter ![GitHub Repo Stars](https://img.shields.io/github/stars/seddonym/import-linter) ![GitHub last commit](https://img.shields.io/github/last-commit/seddonym/import-linter)](https://github.com/seddonym/import-linter) - A linter that enforces architectural constraints on imports between Python modules.
+  - [import-linter ![GitHub Repo Stars](https://img.shields.io/github/stars/import-linter/import-linter) ![GitHub last commit](https://img.shields.io/github/last-commit/import-linter/import-linter)](https://github.com/import-linter/import-linter) - A linter that enforces architectural constraints on imports between Python modules.
   - [vulture ![GitHub Repo Stars](https://img.shields.io/github/stars/jendrikseipp/vulture) ![GitHub last commit](https://img.shields.io/github/last-commit/jendrikseipp/vulture)](https://github.com/jendrikseipp/vulture) - A tool for finding and analyzing dead Python code.
   - [complexipy ![GitHub Repo Stars](https://img.shields.io/github/stars/rohaquinlop/complexipy) ![GitHub last commit](https://img.shields.io/github/last-commit/rohaquinlop/complexipy)](https://github.com/rohaquinlop/complexipy) - Cognitive complexity analysis for Python code, written in Rust.
   - [prospector ![GitHub Repo Stars](https://img.shields.io/github/stars/prospector-dev/prospector) ![GitHub last commit](https://img.shields.io/github/last-commit/prospector-dev/prospector)](https://github.com/prospector-dev/prospector) - A tool to analyze Python code.
@@ -678,7 +678,7 @@ _Tools for static analysis, linters and code quality checkers. Also see [awesome
   - [ty ![GitHub Repo Stars](https://img.shields.io/github/stars/astral-sh/ty) ![GitHub last commit](https://img.shields.io/github/last-commit/astral-sh/ty)](https://github.com/astral-sh/ty) - An extremely fast Python type checker and language server.
   - [pyright ![GitHub Repo Stars](https://img.shields.io/github/stars/microsoft/pyright) ![GitHub last commit](https://img.shields.io/github/last-commit/microsoft/pyright)](https://github.com/microsoft/pyright) - Full-featured static type checker for Python from Microsoft, the engine behind Pylance.
   - [basedpyright ![GitHub Repo Stars](https://img.shields.io/github/stars/DetachHead/basedpyright) ![GitHub last commit](https://img.shields.io/github/last-commit/DetachHead/basedpyright)](https://github.com/DetachHead/basedpyright) - A pyright fork with stricter defaults and Pylance features in its language server.
-  - [pyrefly ![GitHub Repo Stars](https://img.shields.io/github/stars/meta/pyrefly) ![GitHub last commit](https://img.shields.io/github/last-commit/meta/pyrefly)](https://github.com/meta/pyrefly) - A fast type checker and language server for Python.
+  - [pyrefly ![GitHub Repo Stars](https://img.shields.io/github/stars/pyrefly-org/pyrefly) ![GitHub last commit](https://img.shields.io/github/last-commit/pyrefly-org/pyrefly)](https://github.com/pyrefly-org/pyrefly) - A fast type checker and language server for Python.
 
 ### Testing
 
@@ -690,7 +690,7 @@ _Libraries for testing codebases and generating test data. Also see [awesome-pyt
   - [hypothesis ![GitHub Repo Stars](https://img.shields.io/github/stars/HypothesisWorks/hypothesis) ![GitHub last commit](https://img.shields.io/github/last-commit/HypothesisWorks/hypothesis)](https://github.com/HypothesisWorks/hypothesis) - Hypothesis is an advanced QuickCheck-style property-based testing library.
   - [robotframework ![GitHub Repo Stars](https://img.shields.io/github/stars/robotframework/robotframework) ![GitHub last commit](https://img.shields.io/github/last-commit/robotframework/robotframework)](https://github.com/robotframework/robotframework) - A generic test automation framework.
 - Test Runners
-  - [tox ![GitHub Repo Stars](https://img.shields.io/github/stars/tox-dev/tox) ![GitHub last commit](https://img.shields.io/github/last-commit/tox-dev/tox)](https://github.com/tox-dev/tox) - Automatically builds and tests distributions in multiple Python versions.
+  - [tox ![GitHub Repo Stars](https://img.shields.io/github/stars/tox-dev/tox) ![GitHub last commit](https://img.shields.io/github/last-commit/tox-dev/tox)](https://github.com/tox-dev/tox) - A generic virtual environment management and test command-line tool.
   - [nox ![GitHub Repo Stars](https://img.shields.io/github/stars/wntrblm/nox) ![GitHub last commit](https://img.shields.io/github/last-commit/wntrblm/nox)](https://github.com/wntrblm/nox) - Flexible test automation for Python.
 - Browser Automation
   - [playwright-python ![GitHub Repo Stars](https://img.shields.io/github/stars/microsoft/playwright-python) ![GitHub last commit](https://img.shields.io/github/last-commit/microsoft/playwright-python)](https://github.com/microsoft/playwright-python) - Python version of the Playwright testing and automation library.
@@ -701,7 +701,7 @@ _Libraries for testing codebases and generating test data. Also see [awesome-pyt
 - Benchmarking
   - [pytest-benchmark ![GitHub Repo Stars](https://img.shields.io/github/stars/ionelmc/pytest-benchmark) ![GitHub last commit](https://img.shields.io/github/last-commit/ionelmc/pytest-benchmark)](https://github.com/ionelmc/pytest-benchmark) - A pytest fixture for benchmarking code.
 - API Testing
-  - [schemathesis ![GitHub Repo Stars](https://img.shields.io/github/stars/schemathesis/schemathesis) ![GitHub last commit](https://img.shields.io/github/last-commit/schemathesis/schemathesis)](https://github.com/schemathesis/schemathesis) - Automatic property-based testing of web APIs from OpenAPI or GraphQL schemas.
+  - [schemathesis ![GitHub Repo Stars](https://img.shields.io/github/stars/schemathesis/schemathesis) ![GitHub last commit](https://img.shields.io/github/last-commit/schemathesis/schemathesis)](https://github.com/schemathesis/schemathesis) - Automatic property-based testing of web APIs from OpenAPI, GraphQL, or gRPC specs.
 - Mock
   - [unittest.mock](https://docs.python.org/3/library/unittest.mock.html) - (Python standard library) A mocking and patching library.
   - [responses ![GitHub Repo Stars](https://img.shields.io/github/stars/getsentry/responses) ![GitHub last commit](https://img.shields.io/github/last-commit/getsentry/responses)](https://github.com/getsentry/responses) - A utility library for mocking out the requests Python library.
@@ -722,7 +722,7 @@ _Libraries for testing codebases and generating test data. Also see [awesome-pyt
 _Libraries for debugging code._
 
 - Debuggers
-  - [debugpy ![GitHub Repo Stars](https://img.shields.io/github/stars/microsoft/debugpy) ![GitHub last commit](https://img.shields.io/github/last-commit/microsoft/debugpy)](https://github.com/microsoft/debugpy) - A Debug Adapter Protocol debugger for Python, used by VS Code for remote debugging.
+  - [debugpy ![GitHub Repo Stars](https://img.shields.io/github/stars/microsoft/debugpy) ![GitHub last commit](https://img.shields.io/github/last-commit/microsoft/debugpy)](https://github.com/microsoft/debugpy) - A Debug Adapter Protocol debugger for Python, used by VS Code's Python Debugger extension.
   - [ipdb ![GitHub Repo Stars](https://img.shields.io/github/stars/gotcha/ipdb) ![GitHub last commit](https://img.shields.io/github/last-commit/gotcha/ipdb)](https://github.com/gotcha/ipdb) - IPython-enabled [pdb](https://docs.python.org/3/library/pdb.html).
   - [pudb ![GitHub Repo Stars](https://img.shields.io/github/stars/inducer/pudb) ![GitHub last commit](https://img.shields.io/github/last-commit/inducer/pudb)](https://github.com/inducer/pudb) - A full-screen, console-based Python debugger.
 - Tracing
@@ -744,7 +744,7 @@ _Task runners and software build tools. If you're looking for Python packaging/b
 
 - [invoke ![GitHub Repo Stars](https://img.shields.io/github/stars/pyinvoke/invoke) ![GitHub last commit](https://img.shields.io/github/last-commit/pyinvoke/invoke)](https://github.com/pyinvoke/invoke) - A tool for managing shell-oriented subprocesses and organizing executable Python code into CLI-invokable tasks.
 - [poethepoet ![GitHub Repo Stars](https://img.shields.io/github/stars/nat-n/poethepoet) ![GitHub last commit](https://img.shields.io/github/last-commit/nat-n/poethepoet)](https://github.com/nat-n/poethepoet) - A task runner that defines tasks in pyproject.toml and works with poetry or uv.
-- [scons ![GitHub Repo Stars](https://img.shields.io/github/stars/SCons/scons) ![GitHub last commit](https://img.shields.io/github/last-commit/SCons/scons)](https://github.com/SCons/scons) - A software construction tool.
+- [scons ![GitHub Repo Stars](https://img.shields.io/github/stars/SCons/scons) ![GitHub last commit](https://img.shields.io/github/last-commit/SCons/scons)](https://github.com/SCons/scons) - A cross-platform substitute for Make, with build files written in Python.
 - [doit ![GitHub Repo Stars](https://img.shields.io/github/stars/pydoit/doit) ![GitHub last commit](https://img.shields.io/github/last-commit/pydoit/doit)](https://github.com/pydoit/doit) - A task runner and build tool.
 
 ### Documentation
@@ -1132,7 +1132,7 @@ _Libraries for Python version and virtual environment management._
 - [virtualenv ![GitHub Repo Stars](https://img.shields.io/github/stars/pypa/virtualenv) ![GitHub last commit](https://img.shields.io/github/last-commit/pypa/virtualenv)](https://github.com/pypa/virtualenv) - A tool to create isolated Python environments.
 - [uv ![GitHub Repo Stars](https://img.shields.io/github/stars/astral-sh/uv) ![GitHub last commit](https://img.shields.io/github/last-commit/astral-sh/uv)](https://github.com/astral-sh/uv) - An extremely fast Python version, package and project manager, written in Rust.
 - [pyenv ![GitHub Repo Stars](https://img.shields.io/github/stars/pyenv/pyenv) ![GitHub last commit](https://img.shields.io/github/last-commit/pyenv/pyenv)](https://github.com/pyenv/pyenv) - Simple Python version management.
-- [mise ![GitHub Repo Stars](https://img.shields.io/github/stars/jdx/mise) ![GitHub last commit](https://img.shields.io/github/last-commit/jdx/mise)](https://github.com/jdx/mise) - A polyglot tool version manager that installs Python versions and reads .python-version files.
+- [mise ![GitHub Repo Stars](https://img.shields.io/github/stars/jdx/mise) ![GitHub last commit](https://img.shields.io/github/last-commit/jdx/mise)](https://github.com/jdx/mise) - A polyglot tool version manager that installs Python versions and can read .python-version files.
 
 ### Package Management
 

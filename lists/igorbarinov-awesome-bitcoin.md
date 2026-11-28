@@ -55,6 +55,9 @@ A curated list of bitcoin services and tools for software developers
 * [Freedom Clock](https://freedomclock.io) - Bitcoin-aware FIRE calculator with sell, borrow, and borrow-then-sell spend models. Converts savings and BTC holdings into years of financial freedom. Fully local, no account, MIT. Also an open-source e-ink desk device (~$30).
 * [dont-trust-verify](https://dont-trust-verify.com) - Bitcoin-only client-side tools and self-custody education: 22 calculators, validators and decoders (BIP-39 validator, tx-stuck checker, fee estimator, wallet installer SHA-256 verifier, self-custody score quiz), plus primary-sourced guides and hardware wallet reviews. No signup, no tracking, EN + TH.
 * [BackPoW](https://backpow.com/Bitcoin) - Solo block odds, cost of production and break-even electricity per rig, from live difficulty.
+* [btc-toolkit ![GitHub Repo Stars](https://img.shields.io/github/stars/devdavidejesus/btc-toolkit) ![GitHub last commit](https://img.shields.io/github/last-commit/devdavidejesus/btc-toolkit)](https://github.com/devdavidejesus/btc-toolkit) - Zero-dependency Python CLI to read and verify Bitcoin from the terminal: OP_RETURN messages and inscriptions, raw transaction decoding, offline address validation, and Merkle-proof verification against the block's proof of work. Install with pip, pipx, uv or Homebrew.
+* [Kandle ![GitHub Repo Stars](https://img.shields.io/github/stars/Kernel-Hunter/kandle) ![GitHub last commit](https://img.shields.io/github/last-commit/Kernel-Hunter/kandle)](https://github.com/Kernel-Hunter/kandle) - Open-source browser charting app for Bitcoin and other crypto, stocks and forex, with live exchange data, indicators, drawing tools, alerts, bar replay and scripted strategy backtests.
+* [Iris](https://iriscan.app/) - Bitcoin address investigation: who funded an address, its counterparties and where the coins went, including through Wasabi, Whirlpool and JoinMarket CoinJoins, with a cited source for each label.
 
 ## Blockchain API and Web services
 * [3xpl.com](https://3xpl.com/) - Fastest ad-free universal block explorer.
@@ -106,7 +109,7 @@ A curated list of bitcoin services and tools for software developers
 
 ## Blockchain Explorers
 * [3xpl.com](https://3xpl.com/bitcoin) - Fastest ad-free universal block explorer.
-* [Chain.so](http://chain.so)
+* [SoChain](https://sochain.com/btc) - Block explorer and API for Bitcoin, Litecoin, Dogecoin and Zcash.
 * [Blockchain.com](https://blockchain.com)
 * [Blockchair.com](https://blockchair.com/bitcoin) - Universal blockchain explorer and search engine.
 * [Blockstream.info](https://blockstream.info) - Blockchain explorer with API (mainnet, testnet and Liquid).
@@ -242,7 +245,9 @@ A curated list of bitcoin services and tools for software developers
 * [Bitcoin.diy](https://bitcoin.diy) - Bitcoin-only education and hardware wallet reviews, focused on self-custody for beginners and intermediate users.
 * [LearnBitcoin.com](https://www.learnbitcoin.com/) - Bitcoin-only education: a guided six-chapter journey, 17 long-form rabbit holes, and a ~470-entry glossary, CC-BY-SA with no ads or affiliates.
 * [Bitcoin Institute](https://bitcoin-institute.pages.dev) - Bilingual (EN/JP) archive of Satoshi Nakamoto primary sources: forum posts, emails, and mailing-list messages, each linked to its original source.
+* [IoT Financial](https://iotfinancial.net/) - Free guides and open-formula tools for small companies holding bitcoin: allocation sizing, custody options and a treasury policy generator (UK and US).
 * [Hardware Wallet Security Incident Tracker](https://walletinsights.io/en/security-incidents/) - Dated record of hardware wallet security incidents (vulnerabilities, supply-chain tampering, vendor data breaches), each with its sources, the affected models and whether it is fixed. Open data under CC BY 4.0.
+
 ---
 
 Inspired by the [awesome ![GitHub Repo Stars](https://img.shields.io/github/stars/sindresorhus/awesome) ![GitHub last commit](https://img.shields.io/github/last-commit/sindresorhus/awesome)](https://github.com/sindresorhus/awesome) list thing.
